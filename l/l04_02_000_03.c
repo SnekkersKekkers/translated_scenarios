@@ -35,7 +35,7 @@ Thank goodness.)");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("L040200003_02_030");
-    MsgDisp("Sassa","Uwah... this is handmade, right?");
+    MsgDisp("Sassa","Uwah...this is handmade, right?");
     MsgDisp("主人公","Yeah, I put some effort in.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -96,7 +96,7 @@ tastes, too.");
 bite it or crack it...
 What should I do?");
     MsgDisp("主人公","What?
-What should you do... just eat it?");
+What should you do...just eat it?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

@@ -11,7 +11,7 @@ ChMotion(2,0);
 VoicePlay("P140200001_02_010");
 MsgDisp("Sassa","Ah, it's you.
 Is this the finish line?");
-MsgDisp("主人公","Umm... it is?
+MsgDisp("主人公","Umm...it is?
 Congratulations!");
 ChEye(2,0);
 ChMouth(2,0);

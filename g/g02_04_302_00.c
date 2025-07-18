@@ -32,7 +32,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020430200_04_050");
-MsgDisp("Nanatsumori","... Cool, huh.
+MsgDisp("Nanatsumori","...Cool, huh.
 I wonder if I can use it as a weapon.");
 MsgDisp("主人公","A weapon?");
 ChEye(4,4);

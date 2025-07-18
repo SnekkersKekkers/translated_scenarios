@@ -2,7 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Uuugh, I fell... it was a failure.)");
+MsgDisp("主人公","(Uuugh, I fell...it was a failure.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
@@ -26,7 +26,7 @@ VoicePlay("P740200001_02_020");
 MsgDisp("Sassa","But, that's not related to whether your
 work is good, or whether the show was a
 success.");
-MsgDisp("主人公","(Thank you, ｛颯砂＊＊｝... I should
+MsgDisp("主人公","(Thank you, ｛颯砂＊＊｝...I should
 have participated more in club more during
 the preparation period, and practiced more
 for the show.)");

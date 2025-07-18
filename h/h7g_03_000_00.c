@@ -23,7 +23,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("H8G0300000_03_020");
-MsgDisp("Honda","T... the grand prize∋");
+MsgDisp("Honda","T...the grand prize∋");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);

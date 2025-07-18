@@ -34,7 +34,7 @@ I know you put your all into this.");
     ChMotion(1,0);
     VoicePlay("H2A0100001_01_030");
     MsgDisp("Kazama","Come on, show me your usual cheerful face.");
-    MsgDisp("主人公","(Yeah... It's frustrating, but I'm glad I
+    MsgDisp("主人公","(Yeah...It's frustrating, but I'm glad I
 did my best. Thank you,
 ｛風真＊＊｝! )");
     break ;
@@ -63,7 +63,7 @@ right?");
     MsgDisp("Kazama","I think everyone's grateful for you.
 If they weren't, I wouldn't forgive them.");
     MsgDisp("主人公","Hehe.
-... Yeah, thanks.");
+...Yeah, thanks.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

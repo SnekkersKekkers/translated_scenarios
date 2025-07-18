@@ -6,7 +6,7 @@ BGOpen("sc801",0);
 ScrFadeIn(0);
 VoicePlay("Q070201000_48_000");
 MsgDisp("Tour Guide","Here is a toilet break. We will leave in
-15 minutes. Oh... just in time, the sunset
+15 minutes. Oh...just in time, the sunset
 over the bay is beautiful!");
 VoicePlay("Q070201000_38_000");
 MsgDisp("Students","Yeeess.");
@@ -75,7 +75,7 @@ StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
 VoicePlay("Q070201000_02_060");
-MsgDisp("Sassa","... yeah.
+MsgDisp("Sassa","...yeah.
 I'll never forget this moment for the rest
 of my life...");
 MsgDisp("主人公","Me too...");

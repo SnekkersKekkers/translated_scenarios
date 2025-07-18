@@ -4,7 +4,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 MsgDisp("主人公","(Ah, a message from
 ｛風真＊＊｝. \"Let's go home
-together today\" huh... Okay, let's get
+together today\" huh...Okay, let's get
 ready to go home now.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -75,7 +75,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G110101103_01_060");
 MsgDisp("Kazama","What, why are you saying that like it's
 someone else's business?
-... Geez.");
+...Geez.");
 MsgDisp("主人公","(Hmm...?)");
 BGMStop();
 MsgClose();

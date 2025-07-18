@@ -87,7 +87,7 @@ SEStop("EV_SE_743",2);
 VoicePlay("Z710700000_42_040");
 MsgDisp("Male Student A","Mikagecchi, how awful!
 You're too much!");
-MsgDisp("主人公","Um... Ah! Please tell us about the cow on
+MsgDisp("主人公","Um...Ah! Please tell us about the cow on
 the blackboard.");
 ChEye(7,0);
 ChMouth(7,0);

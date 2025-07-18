@@ -141,7 +141,7 @@ StlMouth(1,2);
 StlCheek(1,3);
 ScrFadeIn(0);
 VoicePlay("R080100000_01_060");
-MsgDisp("Kazama","... Welcome.
+MsgDisp("Kazama","...Welcome.
 Can I help you?");
 MsgDisp("主人公","Hehe, yes you can. ｛風真＊＊｝,
 thank you for the lovely glove box. I
@@ -156,7 +156,7 @@ StlEye(1,1);
 StlMouth(1,1);
 StlCheek(1,7);
 VoicePlay("R080100000_01_080");
-MsgDisp("Kazama","And I... should also thank you.
+MsgDisp("Kazama","And I...should also thank you.
 My dream came true because of you.");
 MsgDisp("主人公","Huh?");
 StlEye(1,2);
@@ -209,7 +209,7 @@ ChMotion(1,0);
 VoicePlay("R080100000_01_130");
 MsgDisp("Kazama","Don't you think you are too dressed up to
 be an antique owner's wife, today?");
-MsgDisp("主人公","Huh... a wife?");
+MsgDisp("主人公","Huh...a wife?");
 MsgClose();
 ChClose(1,0,30);
 ChCustomLayout(1,5,0,-2.7);
@@ -220,7 +220,7 @@ SEWait();
 ChEyeOpenLevel(1,0);
 VoicePlay("R080100000_01_140");
 MsgDisp("Kazama","You're scratching a lot there.
-... Here.");
+...Here.");
 ChEyeOpenLevel(1,10);
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -239,7 +239,7 @@ ChMotion(1,0);
 VoicePlay("R080100000_01_150");
 MsgDisp("Kazama","Isn't it fine since it's Christmas?");
 ChEye(1,4);
-MsgDisp("主人公","Jeez... hehe!");
+MsgDisp("主人公","Jeez...hehe!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

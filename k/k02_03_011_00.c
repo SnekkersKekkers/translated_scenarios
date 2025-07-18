@@ -18,7 +18,7 @@ ChMotion(3,1);
 SEPlay("EV_SE_665");
 SEWait();
 VoicePlay("K020301100_03_010");
-MsgDisp("Honda","Then... here!
+MsgDisp("Honda","Then...here!
 It's your birthday today, right?
 So here's your present.");
 MsgDisp("主人公","Oh!?

@@ -32,7 +32,7 @@ it.");
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040311002_03_020");
-        MsgDisp("Honda","Eh... that's harsh.
+        MsgDisp("Honda","Eh...that's harsh.
 Yes, I'll learn how to swim first.");
         MsgDateResultDisp();
         break ;

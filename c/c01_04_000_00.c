@@ -29,7 +29,7 @@ VoicePlay("C010400000_04_040");
 MsgDisp("Nanatsumori","You're fine.
 I'm glad we could make up.
 I think I'll sleep good tonight.");
-MsgDisp("主人公","Ah... Were you not sleeping well? Then,
+MsgDisp("主人公","Ah...Were you not sleeping well? Then,
 good night for now,
 ｛七ツ森＊｝.");
 VoicePlay("C010400000_04_050");

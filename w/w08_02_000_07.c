@@ -23,7 +23,7 @@ Got it.");
     ChOpen(2,255,4,0,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080200007_02_020");
-    MsgDisp("Sassa","... Ah, so we've decided.
+    MsgDisp("Sassa","...Ah, so we've decided.
 With Hikaru-san, huh...
 Let's go!");
     break ;

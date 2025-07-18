@@ -24,8 +24,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("K020601000_06_010");
 MsgDisp("Himuro","It's your birthday today, right?
-... Happy birthday.");
-MsgDisp("主人公","This is... a present?");
+...Happy birthday.");
+MsgDisp("主人公","This is...a present?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

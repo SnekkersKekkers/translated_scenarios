@@ -28,7 +28,7 @@ MsgDisp("Sassa","Let's end it with that.");
 VoicePlay("B100200000_02_040");
 MsgDisp("Sassa","It'll feel weird if there's always this
 unpleasant air hanging over us.");
-MsgDisp("主人公","... Thank you.
+MsgDisp("主人公","...Thank you.
 I should have been the one to call.
 I'm sorry.");
 VoicePlay("B100200000_02_050");
@@ -41,7 +41,7 @@ MsgDisp("Sassa","That's it.
 Then, I'll see you!");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛颯砂＊＊｝... is so kind, he called me
+MsgDisp("主人公","(｛颯砂＊＊｝...is so kind, he called me
 out of concern.)");
 MsgClose();
 ScrFadeOut(0,0);

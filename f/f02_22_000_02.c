@@ -60,7 +60,7 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200002_22_070");
-MsgDisp("Hikaru","... Ah.
+MsgDisp("Hikaru","...Ah.
 It feels unbelievable after all, right?");
 ChEye(22,4);
 ChMouth(22,0);

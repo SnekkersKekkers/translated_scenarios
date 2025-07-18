@@ -72,7 +72,7 @@ be at the top.");
         ChEyeOpenLevel(1,8);
         ChCheek(1,10);
         VoicePlay("B040123202_01_050");
-        MsgDisp("Kazama","No... no, idiot.
+        MsgDisp("Kazama","No...no, idiot.
 That's wrong.
 That's not it.");
         MsgDisp("主人公","What do you mean by that?");

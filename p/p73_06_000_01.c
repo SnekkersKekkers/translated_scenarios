@@ -93,7 +93,7 @@ I'm happy that you did..");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P730600001_06_090");
-    MsgDisp("Himuro","... Suits you.");
+    MsgDisp("Himuro","...Suits you.");
     MsgDisp("主人公","Eh?");
     ChEye(6,1);
     ChMouth(6,0);

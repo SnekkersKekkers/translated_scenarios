@@ -5,7 +5,7 @@ ChMotion(6,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040601001_06_000");
-MsgDisp("Himuro","Huh... it's nice isn't it?
+MsgDisp("Himuro","Huh...it's nice isn't it?
 It suits you.");
 MsgSel("Really, I might buy it!","I wonder about that...","It doesn't suit me!");
 switch (MsgSelRsltGet()){

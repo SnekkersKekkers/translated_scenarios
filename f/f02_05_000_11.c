@@ -32,7 +32,7 @@ VoicePlay("F020500011_05_020");
 MsgDisp("Hiiragi","Kotatsus are amazing, huh.
 I will attempt to make some time for that
 'restful New Years', then.");
-MsgDisp("主人公","Um... you have to 'attempt' to make some
+MsgDisp("主人公","Um...you have to 'attempt' to make some
 time?");
 ChEye(5,0);
 ChMotion(5,0);

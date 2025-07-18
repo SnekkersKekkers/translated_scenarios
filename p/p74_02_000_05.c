@@ -2,7 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I fell... even though it was my last
+MsgDisp("主人公","(I fell...even though it was my last
 show...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -34,7 +34,7 @@ ChMotion(2,4);
 VoicePlay("P740200005_02_030");
 MsgDisp("Sassa","Then, you can try again someday with that
 dress!");
-MsgDisp("主人公","Someday... huh?
+MsgDisp("主人公","Someday...huh?
 Will a day come where I'll wear that dress
 again?");
 ChEye(2,0);

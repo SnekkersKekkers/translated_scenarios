@@ -33,7 +33,7 @@ cleaning robots.
 They're rather unorthodox.");
 MsgDisp("主人公","(A cleaning showdown between
 ｛柊＊＊＊｝ and a cleaning
-robot... I'm kind of curious.)");
+robot...I'm kind of curious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

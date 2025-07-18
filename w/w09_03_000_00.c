@@ -30,7 +30,7 @@ Wanna try?");
     ChEyeOpenLevel(3,0);
     VoicePlay("W090300000_03_030");
     MsgDisp("Honda","Cough!
-... Ah, phew.
+...Ah, phew.
 Okay, my vocal chords are ready.");
     break ;
     default :

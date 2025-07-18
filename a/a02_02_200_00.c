@@ -72,7 +72,7 @@ ChMotion(2,3);
 VoicePlay("A020220000_02_060");
 MsgDisp("Sassa?","Did I make it sound that way? I know it
 might seem like my personality's just as
-big as I am... Kind of an issue.");
+big as I am...Kind of an issue.");
 MsgDisp("主人公","Hehe.");
 ChEye(2,0);
 ChMouth(2,4);

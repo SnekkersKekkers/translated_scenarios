@@ -141,7 +141,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901700_09_150");
 MsgDisp("Kuya","I'm really happy I met you.
-... Merry Christmas.");
+...Merry Christmas.");
 MsgDisp("主人公","Merry Christmas, Kuya-san.");
 MsgClose();
 ScrFadeOut(0);
@@ -162,8 +162,8 @@ ChEyeOpenLevel(9,10);
 VoicePlay("D030901700_09_170");
 MsgDisp("Kuya","The next time we meet, it will finally be
 over.");
-MsgDisp("主人公","(Kuya-san... \"
-Be over\"... maybe he means the exam?
+MsgDisp("主人公","(Kuya-san...\"
+Be over\"...maybe he means the exam?
 I have to work hard too.)");
 BGMStop();
 MsgClose();

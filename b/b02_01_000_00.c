@@ -10,7 +10,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020100000_01_010");
 MsgDisp("Kazama","That look you have on. You could say that
-it suits you... It fits you well. It's
+it suits you...It fits you well. It's
 proof you know what looks good on
 yourself.");
 MsgDisp("主人公","(｛風真＊＊｝ complimented my outfit!

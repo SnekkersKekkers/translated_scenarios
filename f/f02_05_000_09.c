@@ -34,7 +34,7 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("F020500009_05_040");
 MsgDisp("Hiiragi","Exactly. Of course, the day of is fun,
-too. But when that day arrives... it is
+too. But when that day arrives...it is
 already ending.");
 MsgDisp("主人公","But you can only eat the food stall food
 on the day of, right?");
@@ -43,7 +43,7 @@ ChMotion(5,3);
 VoicePlay("F020500009_05_050");
 MsgDisp("Hiiragi","I guess you are right. The ending of the
 preparation period is sad, but if in
-exchange for some food cart yakisoba... it
+exchange for some food cart yakisoba...it
 can't be helped.");
 MsgDisp("主人公","(Maybe the one working the hardest to
 prepare for the culture festival is

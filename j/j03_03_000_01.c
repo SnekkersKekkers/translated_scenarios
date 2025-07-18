@@ -6,14 +6,14 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Uh, wait a minute.");
     MsgDisp("主人公","Was it too sudden?");
     VoicePlay("J030300001_03_010");
-    MsgDisp("Honda","... yeah.
+    MsgDisp("Honda","...yeah.
 I'm not available that day.
 Sorry.");
     MsgDisp("主人公","I see.
 Well, see you later then?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Haah... what a shame.)");
+    MsgDisp("主人公","(Haah...what a shame.)");
     break ;
     case 3:
     VoicePlay("J030300001_03_020");

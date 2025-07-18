@@ -89,11 +89,11 @@ ChMouth(1,1);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30700_01_050");
-MsgDisp("Kazama","... Understood.
+MsgDisp("Kazama","...Understood.
 Then, how should we decide on seats?");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","Umm... I'll be fine by myself? Since I
+MsgDisp("主人公","Umm...I'll be fine by myself? Since I
 might end up grabbing onto the clothes of
 the person next to me.");
 ChEye(1,0);

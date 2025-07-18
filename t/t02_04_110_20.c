@@ -1,6 +1,6 @@
 ChEye(4,2);
 ChMouth(4,4);
-MsgDisp("主人公","I also... like
+MsgDisp("主人公","I also...like
 ｛七ツ森＊｝.");
 ChMotion(4,0,1);
 VoicePlay("T020411000_04_130");
@@ -11,7 +11,7 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("T020411000_04_140");
-MsgDisp("Nanatsumori","...... I was really full of anxiety.");
+MsgDisp("Nanatsumori","......I was really full of anxiety.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

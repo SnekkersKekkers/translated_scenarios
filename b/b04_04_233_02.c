@@ -48,7 +48,7 @@ it...");
         ChMotion(4,0,1);
         VoicePlay("B040423302_04_040");
         MsgDisp("Nanatsumori","Eh?
-... What did you think I was?");
+...What did you think I was?");
         MsgDisp("主人公","I thought you were a model who could fit
 into any situation.");
         ChEye(4,0);
@@ -56,7 +56,7 @@ into any situation.");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040423302_04_050");
-        MsgDisp("Nanatsumori","... Wow.
+        MsgDisp("Nanatsumori","...Wow.
 That's kind of surprising.");
         ChEyeOpenLevel(4,#1);
         MsgDisp("主人公","Really?

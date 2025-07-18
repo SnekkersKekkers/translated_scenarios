@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
     NSSEye(1,2);
     NSSMouth(1,0);
     VoicePlay("B160100100_01_010");
-    MsgDisp("Kazama","... Geez.
+    MsgDisp("Kazama","...Geez.
 Only do it in moderation, okay?");
     break ;
     case 1:

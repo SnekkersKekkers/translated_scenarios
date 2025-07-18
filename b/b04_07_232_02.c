@@ -133,7 +133,7 @@ thank you.)");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("B040723202_07_120");
-    MsgDisp("Mikage","... I see.
+    MsgDisp("Mikage","...I see.
 After that, it depends on me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

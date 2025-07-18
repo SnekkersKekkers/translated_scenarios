@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(5,255,1,4,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523100_05_000");
-MsgDisp("Hiiragi","Aah... this feeling of speed is
+MsgDisp("Hiiragi","Aah...this feeling of speed is
 invigorating. This is what comes to mind
 when I think of an amusement park.");
 MsgSel("It was the best! I want to ride it more!","Uugh, that was scary...","I wanted even more thrill...");
@@ -38,7 +38,7 @@ myself.");
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040523100_05_030");
-    MsgDisp("Hiiragi","... Heheh.
+    MsgDisp("Hiiragi","...Heheh.
 Next time, let's cheer the whole time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

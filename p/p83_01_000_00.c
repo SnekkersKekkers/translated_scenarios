@@ -63,7 +63,7 @@ That's mine.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(1,254,0,2,3,#1,#1,0,0);
-    MsgDisp("主人公","Ah... now that I think about it, I thought
+    MsgDisp("主人公","Ah...now that I think about it, I thought
 I had seen it before.");
     ChEye(1,0);
     ChMouth(1,2);

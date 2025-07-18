@@ -95,7 +95,7 @@ ChMouth(6,3);
 ChMotion(6,5);
 ChCheek(6,0);
 VoicePlay("B330A20401_06_040");
-MsgDisp("Himuro","... Is that the one where you drop an axe?
+MsgDisp("Himuro","...Is that the one where you drop an axe?
 Mercury and the Woodman?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -134,7 +134,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20401_06_050");
-MsgDisp("Himuro","I see... enthusiasm is important.
+MsgDisp("Himuro","I see...enthusiasm is important.
 I've learned something.");
 ChEye(1,0);
 ChMouth(1,0);

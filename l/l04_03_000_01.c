@@ -53,7 +53,7 @@ chocolates...");
 I'll enjoy them.");
     ChClose(3);
     VoicePlay("L040300001_03_060");
-    MsgDisp("Honda?","... Da, I wonder what this is.
+    MsgDisp("Honda?","...Da, I wonder what this is.
 This uneasy feeling...");
     MsgDisp("主人公","(Maybe I should've given him a better
 chocolate...)");

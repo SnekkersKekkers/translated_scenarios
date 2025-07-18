@@ -38,7 +38,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B150400200_04_050");
-MsgDisp("Nanatsumori","But... even I don't dislike it.
+MsgDisp("Nanatsumori","But...even I don't dislike it.
 If I could, I would also——");
 ChEye(4,2);
 ChMouth(4,3);

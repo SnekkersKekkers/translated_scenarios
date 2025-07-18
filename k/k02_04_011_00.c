@@ -17,7 +17,7 @@ VoicePlay("K020401100_04_010");
 MsgDisp("Nanatsumori","I still need you for something.
 Hang out with me just a little longer.");
 MsgDisp("主人公","Oh, okay.
-... What?");
+...What?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

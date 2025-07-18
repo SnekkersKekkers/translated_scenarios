@@ -2,7 +2,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3,1);
 VoicePlay("B020700000_07_000");
-MsgDisp("Mikage","... A girl can completely change just by
+MsgDisp("Mikage","...A girl can completely change just by
 clothes she wears, huh...");
 MsgDisp("主人公","Umm...
 How does it look?");

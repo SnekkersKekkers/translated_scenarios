@@ -44,7 +44,7 @@ I'm getting dizzy...");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522202_05_030");
-        MsgDisp("Hiiragi","Haa... even then, it may be difficult for
+        MsgDisp("Hiiragi","Haa...even then, it may be difficult for
 me to understand.");
         MsgDateResultDisp();
         break ;
@@ -88,7 +88,7 @@ Troupe's play?");
         VoicePlay("B040522202_05_090");
         MsgDisp("Hiiragi","No, the line is \"My soul will also be with
 you for eternity.\"");
-        MsgDisp("主人公","Ummm... \"
+        MsgDisp("主人公","Ummm...\"
 My soul will also be with you for
 eternity.\"");
         ChEye(5,4);

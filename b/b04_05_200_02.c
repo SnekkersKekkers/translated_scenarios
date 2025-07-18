@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040520002_05_010");
-    MsgDisp("Hiiragi","... Yes, maybe.
+    MsgDisp("Hiiragi","...Yes, maybe.
 I should improve a little huh?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

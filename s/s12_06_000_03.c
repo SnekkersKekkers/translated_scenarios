@@ -20,7 +20,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("S120600001_06_050");
     MsgDisp("Himuro","You are most welcome.
-See you later... and Happy New Year.");
+See you later...and Happy New Year.");
     MsgDisp("主人公","The same to you!");
     MsgClose();
     MsgClose();

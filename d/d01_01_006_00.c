@@ -76,7 +76,7 @@ Even with so many guests...
 He's doing such a great job!)");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D010100600_01_040");
-MsgDisp("Kazama","525 Rich going once... 525 Rich going
+MsgDisp("Kazama","525 Rich going once...525 Rich going
 twice. Is there anyone else who would like
 to bid?");
 StlEye(1,1);
@@ -169,7 +169,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100600_01_130");
-MsgDisp("Kazama","... It's getting late already.
+MsgDisp("Kazama","...It's getting late already.
 Let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -58,7 +58,7 @@ MsgClear();
 MsgDisp("","For a while after that, my sister
 wouldn't leave the living room.");
 VoicePlay("Y300400500_46_010");
-MsgDisp("Nana's Sister","\"Haa... it's somewhat like I have a
+MsgDisp("Nana's Sister","\"Haa...it's somewhat like I have a
 cute little sister now, I'm excited～\"");
 MsgDisp("","Please sis, just leave already....");
 MsgClear();
@@ -90,7 +90,7 @@ MsgDisp("Nanatsumori","\"I'm really sorry about today. That
 you had to talk to my sister and my
 Mom. Are you tired?\"");
 MsgDisp("","She shook her head, laughing.
-It was... a genuine laugh.");
+It was...a genuine laugh.");
 MsgDisp("","When I saw that, I was so relieved.
 The corner of my eyes began to sting.");
 BGMPlay("BGM_C04_NANA_KOKU",0.01);
@@ -103,7 +103,7 @@ MsgDisp("","My anxieties dissipated, my heart was
 filled with only happiness.");
 MsgDisp("","I pulled her in and held her tightly.");
 VoicePlay("Y300400500_04_030");
-MsgDisp("Nanatsumori","\"... Thanks.
+MsgDisp("Nanatsumori","\"...Thanks.
 With this, I have nothing left to
 fear.\"");
 BGMStop();

@@ -52,7 +52,7 @@ How come, why?");
     ChMouth(21,4);
     ChMotion(21,4);
     VoicePlay("Q050D00000_21_020");
-    MsgDisp("Michiru","... Hikaru.
+    MsgDisp("Michiru","...Hikaru.
 Mari probably has her own plans.
 Let's go.");
     MsgClose();

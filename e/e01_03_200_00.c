@@ -55,7 +55,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("E010320000_01_030");
 MsgDisp("Kazama","You guys are laughing right in front of
 the store.
-... Geez.");
+...Geez.");
 MsgDisp("主人公","Ah, sorry.
 You're working part-time today?");
 ChEye(1,0);

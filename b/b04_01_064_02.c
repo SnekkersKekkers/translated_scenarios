@@ -25,7 +25,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B040106402_01_020");
-MsgDisp("Kazama","Hooh, then guess away.");
+MsgDisp("Kazama","Ehh, then guess away.");
 MsgDisp("主人公","Fine.
 Umm...");
 SEPlay("EV_SE_022");
@@ -48,7 +48,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ChLayout(0);
 VoicePlay("B040106402_01_030");
-MsgDisp("Kazama","... Hey, you're alright.
+MsgDisp("Kazama","...Hey, you're alright.
 Look up, it's just the warning firework.");
 ScrFadeIn(0);
 MsgDisp("主人公","Phew, that startled me.");

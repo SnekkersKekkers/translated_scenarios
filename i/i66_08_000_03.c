@@ -8,7 +8,7 @@ switch (ChPrmGet(8,6)){
     case 3:
     SEPlay("EV_SE_660");
     Wait(50,0);
-    MsgDisp("主人公","... Hm?
+    MsgDisp("主人公","...Hm?
 The gas flap isn't opening...");
     VoicePlay("I660800003_45_000");
     MsgDisp("Woman Customer","Are you good?
@@ -36,7 +36,7 @@ Right away...");
     ChMotion(8,0,1);
     VoicePlay("I660800003_08_020");
     MsgDisp("Shirahane","I've broken puzzle rings before by rushing
-through them... It ain't good to rush
+through them...It ain't good to rush
 things. 'Kay?");
     MsgDisp("主人公","(Haa...
 I messed up...)");
@@ -45,10 +45,10 @@ I messed up...)");
     case 5:
     SEPlay("EV_SE_660");
     SEWait();
-    MsgDisp("主人公","... Hm?
+    MsgDisp("主人公","...Hm?
 The gas flap isn't opening...");
     VoicePlay("I660800003_45_010");
-    MsgDisp("Woman Customer","... Hey, are you okay?
+    MsgDisp("Woman Customer","...Hey, are you okay?
 Don't force it open, okay?");
     SEPlay("EV_SE_660");
     SEWait();
@@ -69,7 +69,7 @@ Right away...");
 It seems that the flap is still locked,
 could you try unlocking it once more?");
     VoicePlay("I660800003_45_020");
-    MsgDisp("Woman Customer","Ah... sorry!
+    MsgDisp("Woman Customer","Ah...sorry!
 I thought that it was unlocked...");
     SEPlay("EV_SE_661");
     SEWait();

@@ -6,7 +6,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B030401001_04_000");
-MsgDisp("Nanatsumori","... So.
+MsgDisp("Nanatsumori","...So.
 Where are we headed?");
 MsgDisp("主人公","Let's see...");
 MsgSel("How about that store?","Sky lounge sounds nice.");

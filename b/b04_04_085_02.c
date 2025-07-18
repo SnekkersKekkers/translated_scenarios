@@ -35,7 +35,7 @@ that does hot chocolate.");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040408502_04_020");
-        MsgDisp("Nanatsumori","... Hey.
+        MsgDisp("Nanatsumori","...Hey.
 Do you usually say those things?");
         MsgDateResultDisp();
         break ;
@@ -61,7 +61,7 @@ like that?");
         ChMotion(4,0,1);
         ChCheek(4,8);
         VoicePlay("B040408502_04_050");
-        MsgDisp("Nanatsumori","∋ ... H-Hugging?
+        MsgDisp("Nanatsumori","∋ ...H-Hugging?
 Is that okay?");
         MsgDisp("主人公","It's a bit embarrassing but, I don't have
 any hand warmers or anything like that.

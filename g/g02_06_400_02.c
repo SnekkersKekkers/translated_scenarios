@@ -73,7 +73,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("G020640002_06_100");
-MsgDisp("Himuro","Also... the pecking order seems strict.
+MsgDisp("Himuro","Also...the pecking order seems strict.
 I'm sorry about that.");
 ChEye(6,0);
 ChMouth(6,4);

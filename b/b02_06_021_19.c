@@ -3,7 +3,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,10);
 VoicePlay("B020602119_06_000");
-MsgDisp("Himuro","... Cutesy.
+MsgDisp("Himuro","...Cutesy.
 Annoying.");
 MsgDisp("主人公","Huuh∋");
 ChEye(6,0);

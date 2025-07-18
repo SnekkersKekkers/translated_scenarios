@@ -52,7 +52,7 @@ See ya.");
     SEWait();
     MsgDisp("主人公","It's not like we can't-
 ｛大地＊＊｝ seemed really
-sad... I wonder if I did the right thing.");
+sad...I wonder if I did the right thing.");
     MsgDisp("","(I quit my job at Stallion Gasoline.)");
     break ;
     default :

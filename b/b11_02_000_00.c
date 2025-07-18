@@ -30,7 +30,7 @@ ChEye(33,2);
 ChMouth(33,2);
 VoicePlay("B110200000_33_020");
 MsgDisp("Guy","Huh?
-Damn... you're huge.");
+Damn...you're huge.");
 MsgDispSksp(1,5);
 ChEye(33,1);
 ChMouth(33,1);
@@ -41,14 +41,14 @@ VoicePlay("B110200000_02_010");
 MsgDisp("Sassa","Are you alright?");
 MsgDispSksp(0);
 MsgDisp("主人公","Yeah, I'm alright.
-... No fighting, okay.");
+...No fighting, okay.");
 MsgDispSksp(1,5);
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B110200000_02_020");
 MsgDisp("Sassa","That depends on him.
-... Hey, how should we do this?");
+...Hey, how should we do this?");
 MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);

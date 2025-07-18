@@ -45,7 +45,7 @@ Ahhh...");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("D100410000_04_040");
-MsgDisp("Nanatsumori","... That's a nice expression.
+MsgDisp("Nanatsumori","...That's a nice expression.
 Makes me want to take a picture...");
 ChEye(4,0);
 ChMouth(4,5);

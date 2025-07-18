@@ -32,7 +32,7 @@ hard.");
 MsgDisp("","Even so, despite it being her first
 day, she's completing her work
 quickly.");
-MsgDisp("","... As expected.
+MsgDisp("","...As expected.
 She's quick witted too.");
 MsgClear();
 VoicePlay("Y300800100_40_000");

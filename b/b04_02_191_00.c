@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040219100_02_000");
-    MsgDisp("Sassa","The best huh... I think I'm into flashier
+    MsgDisp("Sassa","The best huh...I think I'm into flashier
 entertainment than stuff that requires me
 to use my head.");
     MsgDateResultDisp();

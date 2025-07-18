@@ -107,7 +107,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChCheek(9,5);
 VoicePlay("D030901100_09_100");
-MsgDisp("Kuya","So... don't forget about me.
+MsgDisp("Kuya","So...don't forget about me.
 Think about me once in a while.");
 MsgDisp("主人公","Hehe, of course.");
 ChEye(9,3);

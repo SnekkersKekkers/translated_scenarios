@@ -58,7 +58,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330C10500_06_020");
 MsgDisp("Himuro","But what would you need for the theater
-troupe... stuff like props?");
+troupe...stuff like props?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

@@ -14,7 +14,7 @@ MsgDisp("Mikage","I heard.
 That the brass band won an award in a
 competition.");
 MsgDisp("主人公","Ah, yes.
-... Could it be that you came all this way
+...Could it be that you came all this way
 to celebrate?");
 VoicePlay("H6G0700000_07_020");
 ChEye(7,0);

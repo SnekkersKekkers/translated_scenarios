@@ -23,7 +23,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("G020420100_04_030");
-MsgDisp("Nanatsumori","Haa... sorry.
+MsgDisp("Nanatsumori","Haa...sorry.
 It's not to do with anything that happened
 on our date today.");
 ChEye(4,2);

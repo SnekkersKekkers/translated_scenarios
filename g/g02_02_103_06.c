@@ -19,7 +19,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210306_02_020");
 MsgDisp("Sassa","Well, yeah.
-Hot springs, saunas, public baths... they
+Hot springs, saunas, public baths...they
 all feel nice.");
 ChEye(2,3);
 ChMouth(2,3);

@@ -39,7 +39,7 @@ ChMotion(7,0);
 VoicePlay("P740700005_07_040");
 MsgDisp("Mikage","But for the real thing, the guy next to
 you will be there to support you right?");
-MsgDisp("主人公","The real thing you say... you mean my
+MsgDisp("主人公","The real thing you say...you mean my
 wedding?");
 ChEye(7,0);
 ChMouth(7,0);

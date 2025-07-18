@@ -4,7 +4,7 @@ BGOpen("ad850",0);
 ScrFadeIn(0);
 MsgDisp("","I've gotten too accustomed to waitin'
 for her at the gates of Haba High.");
-MsgDisp("","I wonder why... my hearts beatin'
+MsgDisp("","I wonder why...my hearts beatin'
 fast.");
 MsgDisp("","Even the glances I get from people
 passin' by in different school
@@ -28,14 +28,14 @@ VoicePlay("Y300800500_40_030");
 MsgDisp("Male Student A","\"Seriously?
 Well, the track team should be fine
 though.\"");
-MsgDisp("","... Hmm, now I'm curious.
+MsgDisp("","...Hmm, now I'm curious.
 Is the track and field club at Haba
 High really that amazin'?");
 MsgClear();
 MsgDisp("","For a while, I stood by the gate,
 being tickled by all the whispers I
 heard around me.");
-MsgDisp("","But... she's late.
+MsgDisp("","But...she's late.
 Maybe, she already went home today∋");
 MsgDisp("","Feeling anxious, I looked restlessly
 around the entrance and the school
@@ -73,12 +73,12 @@ squinted slightly.
 I think he was smilin'.");
 MsgClear();
 VoicePlay("Y300800500_32_020");
-MsgDisp("VP Himuro","\"I see... very well. But, if your
+MsgDisp("VP Himuro","\"I see...very well. But, if your
 friend continues to run late, you too
 should give up and go home.\"");
 MsgDisp("","\"Yes.\"
 I answered.");
-MsgDisp("","What... he's actually a nice teacher!");
+MsgDisp("","What...he's actually a nice teacher!");
 MsgClear();
 BGOpen("ad850",0);
 MsgDisp("","　　　　　　　　　　 ・

@@ -110,7 +110,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B330C10201_06_040");
-MsgDisp("Himuro","... Thank you very much.
+MsgDisp("Himuro","...Thank you very much.
 I'm kind of happy.");
 MsgDisp("主人公","(｛氷室＊＊｝ wanted to take classes
 together...

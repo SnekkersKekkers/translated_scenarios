@@ -67,7 +67,7 @@ VoicePlay("T020520000_05_060");
 MsgDisp("Hiiragi","But, since I didn't attend elementary or
 middle school properly, there was no value
 in me being a student.");
-MsgDisp("主人公","That's... Even though
+MsgDisp("主人公","That's...Even though
 ｛柊＊＊＊｝ struggles within
 the Theatre Company, I think he gives it
 his best in many different ways.");
@@ -76,7 +76,7 @@ Wait(12,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("T020520000_05_070");
 MsgDisp("Hiiragi","Thank you.
-... But the reality is different.");
+...But the reality is different.");
 ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,8);
@@ -130,7 +130,7 @@ ChEye(5,4);
 ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020520000_05_140");
-MsgDisp("Hiiragi","If you're smiling... If the one I love;
+MsgDisp("Hiiragi","If you're smiling...If the one I love;
 you, are smiling, then nothing is wrong.
 It's alright.");
 MsgDisp("主人公","Eh...!");

@@ -14,7 +14,7 @@ VoicePlay("K020500000_05_000");
 MsgDisp("Hiiragi","Good evening.
 Please excuse the sudden visit.");
 MsgDisp("主人公","No, it's fine.
-... What's up?");
+...What's up?");
 ChMotion(5,4);
 VoicePlay("K020500000_05_010");
 MsgDisp("Hiiragi","Would you understand if...

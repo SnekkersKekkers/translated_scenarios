@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,34,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("R060400003_04_000");
-    MsgDisp("Nanatsumori","Oh... that's mine.");
+    MsgDisp("Nanatsumori","Oh...that's mine.");
     MsgDisp("主人公","｛七ツ森＊｝.
 I knew it!");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝, you got

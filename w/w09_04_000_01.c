@@ -28,7 +28,7 @@ If it was a real cup, it would be cute.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("W090400001_04_030");
-    MsgDisp("Nanatsumori","... Yeah, perfect.
+    MsgDisp("Nanatsumori","...Yeah, perfect.
 Cute things match well with cute people.");
     break ;
     default :

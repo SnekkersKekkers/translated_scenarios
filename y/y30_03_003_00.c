@@ -45,7 +45,7 @@ things I didn't know or didn't
 realize, I would be supper happy.");
 MsgDisp("","But, I never thought such a change
 within me would occur. A chemical
-reaction... a thermal reaction?");
+reaction...a thermal reaction?");
 MsgDisp("","An idol my sister likes has a song
 called 'Love is a Chemical Reaction'.");
 MsgClear();

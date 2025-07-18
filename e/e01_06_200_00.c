@@ -2,7 +2,7 @@ BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I think I'll head home now.
-... Huh?)");
+...Huh?)");
 MsgDisp("主人公","｛氷室＊＊｝! ｛柊＊＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);

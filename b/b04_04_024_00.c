@@ -8,7 +8,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 SEStop("EV_SE_517",2);
 VoicePlay("B040402400_04_000");
-MsgDisp("Nanatsumori","This... is a hit, right?");
+MsgDisp("Nanatsumori","This...is a hit, right?");
 MsgSel("It's beautiful.","It's artistic.","This doesn't suit my tastes.");
 switch (MsgSelRsltGet()){
     case 0:

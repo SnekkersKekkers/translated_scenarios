@@ -56,7 +56,7 @@ you.");
         ChMotion(1,1);
         VoicePlay("B040108402_01_030");
         MsgDisp("Kazama","Body warmth∋
-... Sheesh, you can really be such an
+...Sheesh, you can really be such an
 airhead!");
         MsgDateResultDisp();
         ChCheek(1,0);
@@ -92,7 +92,7 @@ You get it?");
         MsgClose();
         ChOpen(1,255,4,4,2,#1,#1,5,0,0,30);
         VoicePlay("B040108402_01_070");
-        MsgDisp("Kazama","And... here.");
+        MsgDisp("Kazama","And...here.");
         MsgDisp("主人公","Here?");
         ChEye(1,0);
         ChMouth(1,1);

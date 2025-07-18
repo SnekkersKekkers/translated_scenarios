@@ -22,7 +22,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("B060600011_06_020");
     MsgDisp("Himuro","Take care then.
-... See you next time.");
+...See you next time.");
     break ;
     default :
     DbgAssert(1);

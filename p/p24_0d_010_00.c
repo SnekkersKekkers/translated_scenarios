@@ -3,7 +3,7 @@ BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P240D01000_47_000");
-MsgDisp("Opponent","I detest it... I detest those happy
+MsgDisp("Opponent","I detest it...I detest those happy
 couples～! I'll interrupt their dates, and
 ruin their love lives∈");
 VoicePlay("P240D01000_44_000");

@@ -16,7 +16,7 @@ SEWait();
 ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
-MsgDisp("主人公","Phew... seems like one matter's been
+MsgDisp("主人公","Phew...seems like one matter's been
 resolved.");
 ChMotion(4,1,1);
 VoicePlay("P840400004_04_000");

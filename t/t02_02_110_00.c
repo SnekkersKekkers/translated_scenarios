@@ -35,7 +35,7 @@ MsgDisp("主人公","This is the track-and-field club's ground.");
 VoicePlay("T020211000_02_030");
 MsgDisp("Sassa","Ah, how pathetic.
 I'm pulling you into my territory...
-... But I want you to listen to me here.");
+...But I want you to listen to me here.");
 MsgClose();
 ScrFadeOut(0,1);
 MsgType(1);
@@ -160,7 +160,7 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("T020211000_02_200");
 MsgDisp("Sassa","Right here.
-My feelings for you are so big... they
+My feelings for you are so big...they
 can't ever be buried.");
 MsgDisp("主人公","!");
 MsgClear();

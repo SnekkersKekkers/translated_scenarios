@@ -27,7 +27,7 @@ We're just gonna have to ride this.");
     ChEye(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("W080100004_01_020");
-    MsgDisp("Kazama","... What's the point of this.");
+    MsgDisp("Kazama","...What's the point of this.");
     break ;
     default :
     DbgAssert(1);

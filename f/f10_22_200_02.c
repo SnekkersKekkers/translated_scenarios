@@ -46,7 +46,7 @@ ChEye(31,0);
 ChMouth(31,0);
 VoicePlay("F102220002_31_020");
 MsgDisp("Goro","......");
-MsgDisp("主人公","Umm... it's nothing.");
+MsgDisp("主人公","Umm...it's nothing.");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,3);
@@ -87,7 +87,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F102220002_22_070");
-MsgDisp("Hikaru","... Ah!
+MsgDisp("Hikaru","...Ah!
 Then, I wonder if we'll be like that too?
 Immortal!");
 MsgDisp("主人公","(I think that's impossible but...

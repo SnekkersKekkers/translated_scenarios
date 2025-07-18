@@ -32,8 +32,8 @@ Ah, adieu...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Goro-sensei seems like he's in pain... I
+MsgDisp("主人公","(Goro-sensei seems like he's in pain...I
 even made him accompany me on my
-errands... That was a huge fail.)");
+errands...That was a huge fail.)");
 MsgClose();
 ScrFadeOut(0);

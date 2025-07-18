@@ -73,7 +73,7 @@ many generations of lords here.");
         VoicePlay("B040522102_43_000");
         MsgDisp("Castle Lord's Voice?","You should proceed on your own path
 without hesitation.");
-        MsgDisp("主人公","... Huh?
+        MsgDisp("主人公","...Huh?
 Just now...");
         ChEye(5,4);
         ChMouth(5,2);
@@ -88,7 +88,7 @@ Just now...");
         VoicePlay("B040522102_05_090");
         MsgDisp("Hiiragi","Thank you, thanks to you, I feel as if a
 load has been lifted off my chest.");
-        MsgDisp("主人公","(That strange voice just now... could it
+        MsgDisp("主人公","(That strange voice just now...could it
 have been...?)");
         break ;
         default :

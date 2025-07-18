@@ -51,7 +51,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630100_06_070");
-MsgDisp("Himuro","... Nevermind, forget what I said.
+MsgDisp("Himuro","...Nevermind, forget what I said.
 I'm not sure if it's working that well.");
 MsgDisp("主人公","Huh∋");
 ChEye(6,0);

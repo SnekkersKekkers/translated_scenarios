@@ -78,7 +78,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝, was it... I can't
+MsgDisp("主人公","(｛柊＊＊＊｝, was it...I can't
 believe the theater troupe chairman is in
 the same year as me. He seems a bit
 strict, though.)");

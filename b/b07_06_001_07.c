@@ -13,7 +13,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_480");
 MsgDisp("Himuro","...Why?");
-MsgDisp("主人公","I don't know for sure... but it might be
+MsgDisp("主人公","I don't know for sure...but it might be
 because I'm with ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);

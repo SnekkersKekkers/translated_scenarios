@@ -39,7 +39,7 @@ more interesting stories ariseー.");
     ChMouth(3,2);
     ChMotion(3,1);
     VoicePlay("B040310100_03_030");
-    MsgDisp("Honda","Ancient times... that's too vague.");
+    MsgDisp("Honda","Ancient times...that's too vague.");
     MsgDateResultDisp();
     break ;
     default :

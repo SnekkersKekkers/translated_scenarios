@@ -43,13 +43,13 @@ I'm not a suspicious person, right?");
     MsgDisp("Kuya","Can the two of you be quiet.
 This is a very important phone call.");
     VoicePlay("D030901300_09_040");
-    MsgDisp("Kuya","... Sigh.
+    MsgDisp("Kuya","...Sigh.
 Sorry to keep you waiting.");
     MsgDisp("主人公","It's fine...
 It sounds kind of fun there, huh?");
     VoicePlay("D030901300_09_050");
     MsgDisp("Kuya","Fun?
-... I guess so.
+...I guess so.
 The Shirahane family is pretty fun.");
     MsgDisp("主人公","Hehe.
 By the way, what's so important?");
@@ -69,7 +69,7 @@ What an energetic and happy family.");
 someday.
 To meet the energetic Shirahane family.");
     VoicePlay("D030901300_09_100");
-    MsgDisp("Kuya","... Okay.
+    MsgDisp("Kuya","...Okay.
 It was short-lived, but I got it done.
 I guess I can study a bit harder now.");
     MsgDisp("主人公","Yep, I'll also keep working hard on my
@@ -83,7 +83,7 @@ Later, then.");
 different Kuya-san than usual?)");
     break ;
     case 1:
-    MsgDisp("主人公","... Well, whatever.
+    MsgDisp("主人公","...Well, whatever.
 Time to sleep.");
     MsgDisp("主人公","(If it was something important, he would
 have left a voicemail.

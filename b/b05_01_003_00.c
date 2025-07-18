@@ -28,7 +28,7 @@ ChMotion(1,0,1);
 VoicePlay("B050100300_01_020");
 MsgDisp("Kazama","You're the one who must be cold, having to
 stand there the entire time.");
-MsgDisp("主人公","A little... But, it was really exciting
+MsgDisp("主人公","A little...But, it was really exciting
 seeing ｛風真＊＊｝ glide
 across the ice!");
 ChEye(1,4);
@@ -84,7 +84,7 @@ StlMouthOpenLevel(1,#1);
 StlCheek(1,7);
 VoicePlay("B050100300_01_070");
 MsgDisp("Kazama","......");
-MsgDisp("主人公","Phew... I'm steady now... Huh,
+MsgDisp("主人公","Phew...I'm steady now...Huh,
 ｛風真＊＊｝, your face is red.
 Are you cold?");
 StlEyeOpenLevel(1,5);
@@ -115,9 +115,9 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("B050100300_01_110");
-MsgDisp("Kazama","Honestly... your skating skills didn't
+MsgDisp("Kazama","Honestly...your skating skills didn't
 really matter.
-Just that... your hand...");
+Just that...your hand...");
 MsgDisp("主人公","Hand?");
 ChEye(1,2);
 ChMouth(1,0);

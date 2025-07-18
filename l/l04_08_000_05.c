@@ -8,13 +8,13 @@ switch (ChPrmGet(8,6)){
     ChEyeOpenLevel(8,10);
     VoicePlay("L040800005_08_000");
     MsgDisp("Shirahane","Handmade chocolate!
-... Hm?");
+...Hm?");
     MsgDisp("主人公","What is it?");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("L040800005_08_010");
-    MsgDisp("Shirahane","This... might be somethin' I'm not good
+    MsgDisp("Shirahane","This...might be somethin' I'm not good
 with.
 But, I'll be fine.");
     MsgDisp("主人公","(Could it be that I put in something he

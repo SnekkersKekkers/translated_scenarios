@@ -90,7 +90,7 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901610_09_070");
-MsgDisp("Kuya","... Hehe.
+MsgDisp("Kuya","...Hehe.
 Jealousy, huh.");
 ChMotion(9,2,1);
 VoicePlay("D030901610_09_080");
@@ -100,7 +100,7 @@ ChEye(9,3);
 ChMouth(9,0);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901610_09_090");
-MsgDisp("Kuya","... Yeah.
+MsgDisp("Kuya","...Yeah.
 I think Hanegasaki High School was a good
 decision.");
 MsgDisp("主人公","???");

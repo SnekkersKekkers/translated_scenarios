@@ -1,6 +1,6 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh... Feels good to get a little
+MsgDisp("主人公","Huh...Feels good to get a little
 exercise!");
 VoicePlay("A020210000_02_000");
 MsgDisp("Sassa?","I think so too!");
@@ -25,7 +25,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_030");
-MsgDisp("Sassa","Err... I'm Sassa Nozomu. From the track
+MsgDisp("Sassa","Err...I'm Sassa Nozomu. From the track
 and field club. You?");
 MsgDisp("主人公","I'm ｛主人公姓名｝.");
 ChEye(2,0);
@@ -126,7 +126,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("A020210000_02_150");
-MsgDisp("Sassa","And also... When you run with someone,
+MsgDisp("Sassa","And also...When you run with someone,
 you get to know them a little. I think
 you're a good person.");
 ChEye(2,0);

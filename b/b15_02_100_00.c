@@ -4,9 +4,9 @@ MsgClose();
 ChOpen(2,255,0,2,2,#1,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150210000_02_000");
-MsgDisp("Sassa","Hey... you're not listening to anything
+MsgDisp("Sassa","Hey...you're not listening to anything
 I'm saying, are you?");
-MsgDisp("主人公","Ah... it was an accident.
+MsgDisp("主人公","Ah...it was an accident.
 I'm sorry?");
 ChEye(2,2);
 ChMouth(2,2);

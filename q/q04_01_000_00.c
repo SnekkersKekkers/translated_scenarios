@@ -30,7 +30,7 @@ today's free period?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Where is ｛風真＊＊｝... )");
+    MsgDisp("主人公","(Where is ｛風真＊＊｝...)");
     VoiceEVSPlay(1);
     VoicePlay("Q040100000_01_020");
     MsgDisp("Kazama?","｛主人公｝.");

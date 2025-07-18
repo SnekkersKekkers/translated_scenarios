@@ -24,7 +24,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020130100_01_030");
 MsgDisp("Kazama","Including, I swear the number's increased
 recently.
-... Though, well, one of them might be me.");
+...Though, well, one of them might be me.");
 MsgDisp("主人公","Um, weren't you talking about fireflies?");
 ChEye(1,2);
 ChMouth(1,2);

@@ -40,7 +40,7 @@ ChMotion(21,2);
 ChEyeOpenLevel(21,0);
 ChCheek(21,5);
 VoicePlay("F112110002_21_050");
-MsgDisp("Michiru","But, those manga and dramas... they were
+MsgDisp("Michiru","But, those manga and dramas...they were
 good stories.
 Just remembering it makes my face hot.");
 ChEye(21,5);
@@ -50,7 +50,7 @@ ChCheek(21,10);
 VoicePlay("F112110002_21_060");
 MsgDisp("Michiru","No way...!
 Am, am I turning red?");
-MsgDisp("主人公","(Ahaha... in the end, didn't it have the
+MsgDisp("主人公","(Ahaha...in the end, didn't it have the
 opposite effect?)");
 MsgClose();
 ScrFadeOut(0,0);

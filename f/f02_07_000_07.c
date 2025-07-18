@@ -13,7 +13,7 @@ VoicePlay("F020700007_07_000");
 MsgDisp("Mikage","That's right～
 How are you gonna spend summer break?");
 MsgDisp("主人公","I'll play lots.
-.... Ah, I'll study too.");
+....Ah, I'll study too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

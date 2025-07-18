@@ -43,7 +43,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B070600002_06_410");
-MsgDisp("Himuro","... No, it's nothing.
+MsgDisp("Himuro","...No, it's nothing.
 There's no point even if I say it now.");
 MsgDisp("主人公","(｛氷室＊＊｝...?)");
 BGMStop();

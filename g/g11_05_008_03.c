@@ -24,7 +24,7 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500803_05_000");
-MsgDisp("Hiiragi","... Y-Yes.
+MsgDisp("Hiiragi","...Y-Yes.
 Ah, I'm sorry.
 I ate here first.");
 MsgDisp("主人公","Ah, is that right.
@@ -41,7 +41,7 @@ MsgDisp("Hiiragi","Yes, I have to be efficient.");
 ChMouth(5,0);
 MsgDisp("主人公","(Huh?
 On ｛柊＊＊＊｝'s lips, is
-that... red bean paste?)");
+that...red bean paste?)");
 while (1){
     RunEverydaySksp(5,0,0,1,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -72,7 +72,7 @@ ChEyeOpenLevel(5,8);
 ChCheek(5,7);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500803_05_020");
-MsgDisp("Hiiragi","Ah, the red bean paste... this is
+MsgDisp("Hiiragi","Ah, the red bean paste...this is
 embarasssing.");
 ChEye(5,0);
 ChMouth(5,1);
@@ -103,7 +103,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500803_05_070");
-MsgDisp("Hiiragi","Phew... Yes, this is what they would call
+MsgDisp("Hiiragi","Phew...Yes, this is what they would call
 'grasping at straws' It doesn't have to be
 a full-score anpan though.");
 MsgDisp("主人公","Hehe.

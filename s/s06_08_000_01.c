@@ -28,7 +28,7 @@ happy!)");
     VoicePlay("S060800001_08_020");
     MsgDisp("Shirahane","You dressed up?");
     MsgDisp("主人公","Yeah.
-... Do you like it?");
+...Do you like it?");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,4,1);

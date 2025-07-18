@@ -128,7 +128,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D010400500_04_060");
 MsgDisp("Nanatsumori","I was surprised they involved me.");
-MsgDisp("主人公","Real-time search, huh... It's true that
+MsgDisp("主人公","Real-time search, huh...It's true that
 it's popular with people around the same
 age. School is a good place to see
 everyone's reactions.");

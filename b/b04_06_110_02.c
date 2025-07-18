@@ -89,13 +89,13 @@ How was it for you, ｛氷室＊＊｝?");
         ChMotion(6,1);
         VoicePlay("B040611002_06_090");
         MsgDisp("Himuro","I'm going for a little swim.
-... My worldly desires are disrupting me.");
+...My worldly desires are disrupting me.");
         MsgClose();
         SEPlay("EV_SE_563");
         MsgClose();
         ChClose(6);
         VoicePlay("B040611002_06_100");
-        MsgDisp("Himuro","Haa... this is the worst.");
+        MsgDisp("Himuro","Haa...this is the worst.");
         MsgDisp("主人公","(???)");
         break ;
         default :
@@ -110,7 +110,7 @@ How was it for you, ｛氷室＊＊｝?");
     ChMotion(6,1);
     VoicePlay("B040611002_06_110");
     MsgDisp("Himuro","If neither of us get it, I wonder if it's
-worth trying... are you ready?");
+worth trying...are you ready?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

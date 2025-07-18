@@ -81,7 +81,7 @@ hold back what you think.");
         MsgDisp("Nanatsumori","Right.
 Without hesitation.
 Say what's on your mind.");
-        MsgDisp("主人公","｛七ツ森＊｝... yeah, got
+        MsgDisp("主人公","｛七ツ森＊｝...yeah, got
 it!");
         ChEye(4,0);
         ChMouth(4,3);

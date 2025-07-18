@@ -19,7 +19,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B350700000_07_020");
-MsgDisp("Mikage","What are they doing... geez.
+MsgDisp("Mikage","What are they doing...geez.
 Come on, I'll take you home.");
 MsgSel("Thank you very much!","I'll go home by myself?");
 switch (MsgSelRsltGet()){

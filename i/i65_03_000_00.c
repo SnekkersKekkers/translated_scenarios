@@ -72,14 +72,14 @@ this!)");
     case 4:
     case 5:
     MsgDisp("主人公","Welcome!
-... Ah, ｛本多＊＊｝.");
+...Ah, ｛本多＊＊｝.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I650300000_03_080");
     MsgDisp("Honda","It's pretty busy, huh?
 The customers just keep on coming.
-... But, I'm a little surprised.");
+...But, I'm a little surprised.");
     MsgDisp("主人公","Hm?");
     ChEye(3,4);
     ChMouth(3,4);

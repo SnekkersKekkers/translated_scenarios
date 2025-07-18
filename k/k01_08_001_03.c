@@ -4,7 +4,7 @@ ChMotion(8,0);
 SEPlay("EV_SE_668");
 SEWait();
 VoicePlay("K010800103_08_000");
-MsgDisp("Shirahane","... Hey, could I ask ya something?
+MsgDisp("Shirahane","...Hey, could I ask ya something?
 Why didya choose this?");
 MsgDisp("主人公","Hm?");
 ChMotion(8,4,1);

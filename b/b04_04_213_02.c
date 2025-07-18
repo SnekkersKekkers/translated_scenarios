@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040421302_04_010");
     MsgDisp("Nanatsumori","Right.
-... It would be nice if the cats in my
+...It would be nice if the cats in my
 neighborhood were this friendlyー.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -100,7 +100,7 @@ You can have me all to yourself now?");
         VoicePlay("B040421302_04_090");
         MsgDisp("Nanatsumori","You really are like a cat.
 Cute.");
-        MsgDisp("主人公","(Ugh... this is embarrassing...)");
+        MsgDisp("主人公","(Ugh...this is embarrassing...)");
         break ;
         default :
         DbgAssert(1);

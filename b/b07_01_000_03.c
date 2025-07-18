@@ -37,7 +37,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_150");
-MsgDisp("Kazama","... I'm the spectator.
+MsgDisp("Kazama","...I'm the spectator.
 I'm watching it.");
 MsgDisp("主人公","Ah!
 Is that right?");

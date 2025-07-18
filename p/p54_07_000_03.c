@@ -34,7 +34,7 @@ ChMotion(7,2);
 VoicePlay("P540700003_07_030");
 MsgDisp("Mikage","To properly understand the cause, you need
 to try talking to everyone.");
-MsgDisp("主人公","... Yes.
+MsgDisp("主人公","...Yes.
 That's right, huh!");
 ChEye(7,0);
 ChMouth(7,3);

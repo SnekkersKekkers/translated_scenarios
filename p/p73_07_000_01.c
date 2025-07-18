@@ -30,7 +30,7 @@ student's big moment.");
     MsgDisp("Mikage","I mean...
 You made that dress right?");
     MsgDisp("主人公","Yes.
-... Um how does it look?");
+...Um how does it look?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

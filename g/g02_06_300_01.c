@@ -58,7 +58,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("G020630001_06_080");
 MsgDisp("Himuro","Because it's unproductive.
-... But, it's fun.
+...But, it's fun.
 It's complete nonsense.");
 ChEye(6,0);
 ChMouth(6,4);

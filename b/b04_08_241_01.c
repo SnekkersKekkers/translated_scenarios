@@ -27,7 +27,7 @@ I'm sure it'll be super delicious!");
     ChMouth(8,4);
     ChMotion(8,4,1);
     VoicePlay("B040824101_08_020");
-    MsgDisp("Shirahane","I want to... eat ice cream.");
+    MsgDisp("Shirahane","I want to...eat ice cream.");
     MsgDateResultDisp();
     break ;
     case 2:

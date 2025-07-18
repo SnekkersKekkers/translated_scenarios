@@ -67,7 +67,7 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("G020130001_01_070");
 MsgDisp("Kazama","And Sassa bothering me to arm-wrestle him
-to 'test my strength'... They're both such
+to 'test my strength'...They're both such
 brats. Just huge pains to deal with.");
 MsgDisp("主人公","(Hahah.
 So, basically, you're all friends!)");

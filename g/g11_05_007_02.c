@@ -44,7 +44,7 @@ SEStop("EV_SE_712",0);
 VoicePlay("G110500702_05_030");
 MsgDisp("Hiiragi","The day we went to the firefly's habitat
 and got that power.");
-MsgDisp("主人公","Ah... the day we drank spring water?");
+MsgDisp("主人公","Ah...the day we drank spring water?");
 SEPlay("EV_SE_712",0,0.7,1);
 ChEyeOpenLevel(5,0);
 Wait(10,0);

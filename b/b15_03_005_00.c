@@ -28,7 +28,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B150300500_03_040");
-MsgDisp("Honda","... It's fine.
+MsgDisp("Honda","...It's fine.
 But in return, can you forgive me for
 this?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -72,7 +72,7 @@ VoicePlay("B150300500_03_090");
 MsgDisp("Honda","Well, I'm heading home.
 Thanks for today!
 See you around?");
-MsgDisp("主人公","Yeah... see you.");
+MsgDisp("主人公","Yeah...see you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3,0,30);

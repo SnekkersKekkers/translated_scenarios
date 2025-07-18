@@ -6,14 +6,14 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,2);
     ChMotion(5,0,1);
     VoicePlay("L040500002_05_000");
-    MsgDisp("Hiiragi","This is a famous brand... I've received it
+    MsgDisp("Hiiragi","This is a famous brand...I've received it
 once before from a patron. ...You're
 giving it to me?");
     MsgDisp("主人公","Yeah!");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("L040500002_05_010");
-    MsgDisp("Hiiragi","I see... I suppose it suits me. Well,
+    MsgDisp("Hiiragi","I see...I suppose it suits me. Well,
 thank you. Farewell.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -99,7 +99,7 @@ important. You gave me your time.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("L040500002_05_110");
-    MsgDisp("Hiiragi","And... would you give me your time to eat
+    MsgDisp("Hiiragi","And...would you give me your time to eat
 this as well?
 Let us eat it together.");
     MsgClose();

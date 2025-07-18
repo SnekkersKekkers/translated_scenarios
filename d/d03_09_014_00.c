@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
 MsgDisp("主人公","(A phone call.
-Ah... an private number!)");
+Ah...an private number!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -96,7 +96,7 @@ ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030901400_09_080");
-MsgDisp("Kuya","... I've changed?
+MsgDisp("Kuya","...I've changed?
 How so?");
 MsgDisp("主人公","It's because...Even though there were
 people asking for directions and asking

@@ -5,7 +5,7 @@ switch (ChPrmGet(8,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah... there!
+    MsgDisp("主人公","Ah...there!
 ｛大地＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);

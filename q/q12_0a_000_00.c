@@ -72,7 +72,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q120A00000_02_030");
 MsgDisp("Sassa","......");
-MsgDisp("主人公","... Hmmm?
+MsgDisp("主人公","...Hmmm?
 What's up with the two of you?");
 ChEye(1,2);
 ChMouth(1,2);

@@ -96,7 +96,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C20400_06_030");
-MsgDisp("Himuro","... Kojiro-sensei.
+MsgDisp("Himuro","...Kojiro-sensei.
 Was it really necessary for us to also
 ride as a pair?");
 ChEye(7,0);
@@ -143,7 +143,7 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C20400_06_060");
 MsgDisp("Himuro","No thanks.
-... Alright, let's go.");
+...Alright, let's go.");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(6);

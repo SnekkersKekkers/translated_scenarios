@@ -25,7 +25,7 @@ Nothing more than that.");
     VoicePlay("H1A0600001_06_020");
     MsgDisp("Himuro","But, being able to make it to a place like
 this deserves some credit.
-So... head up.");
+So...head up.");
     MsgDisp("主人公","Yeah, thanks.");
     MsgDisp("主人公","(We lost, but I'm glad we made it here...)");
     break ;

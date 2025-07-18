@@ -68,7 +68,7 @@ They made it huge...");
     ChMotion(7,3);
     VoicePlay("B030723000_07_050");
     MsgDisp("Mikage","Oh...
-... You've got some guts, you know.");
+...You've got some guts, you know.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

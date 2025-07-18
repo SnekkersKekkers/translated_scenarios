@@ -12,7 +12,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("K020701100_07_010");
-MsgDisp("Mikage","And... here.");
+MsgDisp("Mikage","And...here.");
 MsgDisp("主人公","Hm?");
 SEPlay("EV_SE_665");
 SEWait();

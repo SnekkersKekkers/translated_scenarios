@@ -62,7 +62,7 @@ VoicePlay("B150200000_02_070");
 MsgDisp("Sassa","You did. But, I know there was no meaning
 to it, so it's fine now. I'm going home.
 See ya then.");
-MsgDisp("主人公","Yeah... see you then?");
+MsgDisp("主人公","Yeah...see you then?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 MsgClose();

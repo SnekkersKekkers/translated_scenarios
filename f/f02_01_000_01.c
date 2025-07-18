@@ -44,6 +44,6 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("F020100001_01_050");
 MsgDisp("Kazama","Its kind of scary the way things are
-turning out... but it'd be a lie if I
+turning out...but it'd be a lie if I
 didn't decide.");
 MsgDisp("主人公","(...｛風真＊＊｝?)");

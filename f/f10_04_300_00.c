@@ -35,7 +35,7 @@ ChMouth(21,5);
 ChMotion(21,3);
 VoicePlay("F100430000_21_020");
 MsgDisp("Michiru","Mari!
-Haa... that startled me.");
+Haa...that startled me.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -43,7 +43,7 @@ ChEye(4,5);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("F100430000_04_020");
-MsgDisp("Nanatsumori","... You.
+MsgDisp("Nanatsumori","...You.
 How much of that did you hear just now?");
 MsgDisp("主人公","Eh? something about
 ｛七ツ森＊｝ making

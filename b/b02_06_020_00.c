@@ -17,5 +17,5 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B020602000_06_020");
-MsgDisp("Himuro","... Same here.");
+MsgDisp("Himuro","...Same here.");
 MsgDisp("主人公","(Alright, that went pretty well!)");

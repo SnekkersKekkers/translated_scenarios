@@ -13,8 +13,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("B330A10200_01_000");
-MsgDisp("Kazama","I like the aquarium but... but what's with
-us all... lined up like this?");
+MsgDisp("Kazama","I like the aquarium but...but what's with
+us all...lined up like this?");
 MsgDisp("主人公","Hehe, everyone looks like they're having
 fun.
 I think it's good?");
@@ -53,7 +53,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10200_01_020");
-MsgDisp("Kazama","Haa... you're so loud.");
+MsgDisp("Kazama","Haa...you're so loud.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

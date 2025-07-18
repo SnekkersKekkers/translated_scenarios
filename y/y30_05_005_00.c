@@ -31,7 +31,7 @@ MsgDisp("","It was just after the new year.
 She was the first to see the full
 dress rehearsal.");
 MsgDisp("","Just now, she said she would watch
-with a 'discerning eye'... though at
+with a 'discerning eye'...though at
 that time, she thought I wouldn't be
 performing and had a worried, sad,
 and indescribable expression on her
@@ -84,7 +84,7 @@ performance, my feelings are directed
 toward her.\"");
 MsgClear();
 MsgDisp("","On stage, I will carefully become the
-lord of Habataki Castle, but... I
+lord of Habataki Castle, but...I
 don't think I can completely set
 aside the feelings I have for her
 within my heart.");

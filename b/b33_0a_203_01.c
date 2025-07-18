@@ -38,7 +38,7 @@ ChMotion(2,2);
 VoicePlay("B330A20301_02_010");
 MsgDisp("Sassa","I see. Then, let's compete on how long we
 can dive for. Shall we do that?");
-MsgDisp("主人公","If so... that might be fine.
+MsgDisp("主人公","If so...that might be fine.
 But you all have to be careful okay?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -97,18 +97,18 @@ ChOpen(6,31,5,2,1,0,5,0,3,0,30);
 ChMouth(6,2);
 ChEyeOpenLevel(6,#1);
 VoicePlay("B330A20301_02_040");
-MsgDisp("Sassa","Haa haa... was I first?");
+MsgDisp("Sassa","Haa haa...was I first?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3,1);
 VoicePlay("B330A20301_01_020");
-MsgDisp("Kazama","Haa, haa... n-no it was me, right?");
+MsgDisp("Kazama","Haa, haa...n-no it was me, right?");
 SEWait();
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20301_06_020");
-MsgDisp("Himuro","Haa, haa... it was me.");
+MsgDisp("Himuro","Haa, haa...it was me.");
 MsgDisp("主人公","(They were completely synchronised...)");
 BGMStop();
 MsgClose();

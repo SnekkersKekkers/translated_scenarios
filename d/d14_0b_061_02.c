@@ -36,7 +36,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B06102_01_010");
 MsgDisp("Kazama","How much more are you going to make us
-say... geez.");
+say...geez.");
 MsgDisp("主人公","Umm...");
 ChEye(3,2);
 ChMouth(3,3);

@@ -51,7 +51,7 @@ MsgDisp("Mikage","Yeah. But, for some reason, it's not on
 the school cafeteria menu. If I have one
 complaint about Habataki High School, it's
 that");
-MsgDisp("主人公","(That's true... why is that?)");
+MsgDisp("主人公","(That's true...why is that?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

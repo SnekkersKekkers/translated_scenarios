@@ -2,7 +2,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0,1);
 VoicePlay("B020202106_02_000");
-MsgDisp("Sassa","Hooh.
+MsgDisp("Sassa","Ehh.
 You've got a mature look on today.");
 MsgDisp("主人公","Does it look weird?");
 ChEye(2,0);

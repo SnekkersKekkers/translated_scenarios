@@ -101,7 +101,7 @@ too?");
     ChMotion(5,0);
     VoicePlay("S090500000_05_090");
     MsgDisp("Hiiragi","It seems so.
-... Should we get in line too?");
+...Should we get in line too?");
     MsgSel("Let's line up.","I'm tired, let's not");
     switch (MsgSelRsltGet()){
         case 0:

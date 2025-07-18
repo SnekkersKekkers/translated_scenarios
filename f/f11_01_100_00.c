@@ -65,7 +65,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("F110110000_01_050");
-MsgDisp("Kazama","... I'll see you later.
+MsgDisp("Kazama","...I'll see you later.
 If you have time then, let's walk around.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

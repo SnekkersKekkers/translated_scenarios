@@ -1,6 +1,6 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛颯砂＊＊｝... Your hurdle times is your
+MsgDisp("主人公","(｛颯砂＊＊｝...Your hurdle times is your
 personal best. Maybe you'll be able to win
 all the events.)");
 MsgClose();

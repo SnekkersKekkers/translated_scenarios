@@ -43,7 +43,7 @@ ChEye ( 4,0 ) ;
 ChMouth ( 4,3 ) ;
 ChMotion ( 4,0 ) ;
 VoicePlay ( "D150004601_04_030" ) ;
-MsgDisp ( "Nanatsumori","... True.
+MsgDisp ( "Nanatsumori","...True.
 There are a surprising number of places to
 nap at school." ) ;
 ChEye ( 6,0 ) ;

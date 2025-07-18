@@ -42,7 +42,7 @@ with me, ｛颯砂＊＊｝.");
     ChEyeOpenLevel(2,0);
     VoicePlay("O030200001_02_040");
     MsgDisp("Sassa","It was nothing.
-... It's just that I wanted to share a win
+...It's just that I wanted to share a win
 with you.");
     MsgDisp("主人公","(Yeah, we should've been in better
 sync...)");

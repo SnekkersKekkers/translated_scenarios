@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
         ChMotion(3,0);
         ChEyeOpenLevel(3,8);
         VoicePlay("B040305102_03_010");
-        MsgDisp("Honda","Oh... I see... I can't help but want to
+        MsgDisp("Honda","Oh...I see...I can't help but want to
 share anything I know...");
         MsgDateResultDisp();
         break ;

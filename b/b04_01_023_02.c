@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,8);
     ChCheek(1,7);
     VoicePlay("B040102302_01_010");
-    MsgDisp("Kazama","... Jeez, that's a roundabout way to ask.");
+    MsgDisp("Kazama","...Jeez, that's a roundabout way to ask.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

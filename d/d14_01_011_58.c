@@ -11,4 +11,4 @@ ChMotion(1,0);
 VoicePlay("D140101158_01_010");
 MsgDisp("Kazama","Apparently the owner is quite particular
 over this. I wonder what's tropical about
-it... Shall we give it a go?");
+it...Shall we give it a go?");

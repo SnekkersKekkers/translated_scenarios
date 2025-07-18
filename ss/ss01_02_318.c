@@ -4,6 +4,6 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("SS0102318_02_000");
-MsgDisp("Sassa","U... that's bad.");
+MsgDisp("Sassa","U...that's bad.");
 MsgClose();
 ChCheek(2,0);

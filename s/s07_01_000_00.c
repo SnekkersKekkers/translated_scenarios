@@ -81,7 +81,7 @@ think about our wishes.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("S070100000_01_080");
-    MsgDisp("Kazama","Ha... you say that so carefreely.
+    MsgDisp("Kazama","Ha...you say that so carefreely.
 My wish has been the same for 10 years.");
     MsgDisp("主人公","(｛風真＊＊｝'s wish.
 I wonder what it is...?)");

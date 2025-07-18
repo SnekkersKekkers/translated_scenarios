@@ -23,7 +23,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10701_06_000");
 MsgDisp("Himuro","I look forward to it.
-... Right?");
+...Right?");
 MsgDisp("主人公","Yes!
 Please take care of us.");
 ChEye(1,2);
@@ -51,7 +51,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330A10701_06_010");
-MsgDisp("Himuro","Hmm... which one should we choose?");
+MsgDisp("Himuro","Hmm...which one should we choose?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -59,7 +59,7 @@ VoicePlay("B330A10701_02_010");
 VoiceEVSPlay(2);
 MsgDisp("Sassa","That's right...
 You choose, ｛主人公｝.");
-MsgDisp("主人公","Umm... then 3, the treasure house's
+MsgDisp("主人公","Umm...then 3, the treasure house's
 pinwheel.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -104,7 +104,7 @@ VoicePlay("B330A10701_01_070");
 MsgDisp("Kazama","Maybe?
 What do you think?");
 MsgDisp("主人公","Ehhh∋
-... I think it probably came true?");
+...I think it probably came true?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -125,7 +125,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10701_06_030");
-MsgDisp("Himuro","Just now... is that the usual childhood
+MsgDisp("Himuro","Just now...is that the usual childhood
 friend talk?");
 ChEye(1,0);
 ChEyeOpenLevel(1,0);

@@ -28,7 +28,7 @@ It was a bit of a worrying sound.");
     ChMotion(3,4);
     VoicePlay("B040323502_03_020");
     MsgDisp("Honda","I heard it perfectly but...
-Could it have been... was it∋");
+Could it have been...was it∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

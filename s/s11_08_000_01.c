@@ -57,7 +57,7 @@ ChEyeOpenLevel(8,0);
 VoicePlay("S110800001_08_080");
 MsgDisp("Shirahane","Ah, that's what it means!
 You worded it better.
-... Hehe!");
+...Hehe!");
 MsgDisp("主人公","(｛大地＊＊｝ looks happy. It's said that
 good fortune comes to those who smile.
 ｛大地＊＊｝ will have a

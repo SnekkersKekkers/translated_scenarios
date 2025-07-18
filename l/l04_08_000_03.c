@@ -72,7 +72,7 @@ I made it just for you,
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("L040800003_08_080");
-    MsgDisp("Shirahane","Just... me?
+    MsgDisp("Shirahane","Just...me?
 F'real?");
     MsgDisp("主人公","Yeah.");
     ChEye(8,4);

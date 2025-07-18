@@ -22,7 +22,7 @@ ChMotion(4,2,1);
 VoicePlay("G020420200_04_030");
 MsgDisp("Nanatsumori","I won't be satisfied until I have an
 answer.
-I'm losing... my groove.");
+I'm losing...my groove.");
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("G020420200_04_040");
@@ -47,7 +47,7 @@ ChMotion(4,2,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020420200_04_070");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","(｛七ツ森＊｝... he seems to care about
+MsgDisp("主人公","(｛七ツ森＊｝...he seems to care about
 ｛風真＊＊｝ too.)");
 BGMStop();
 MsgClose();

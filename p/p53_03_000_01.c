@@ -20,7 +20,7 @@ There are a lot of customers...)");
 Pardon the intrusion!
 I came for a tour.");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.
-... Enjoy yourself.");
+...Enjoy yourself.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);

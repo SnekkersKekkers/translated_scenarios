@@ -40,14 +40,14 @@ VoicePlay("F100340000_03_020");
 MsgDisp("Honda","That's right.
 I wonder if Mii-kun and I have bad
 compatibility?");
-MsgDisp("主人公","Mii-kun, huh... hehe.
+MsgDisp("主人公","Mii-kun, huh...hehe.
 Now that I hear it again, it is funny.");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,1,1);
 ChCheek(4,6);
 VoicePlay("F100340000_04_020");
-MsgDisp("Nanatsumori","... You're laughing.
+MsgDisp("Nanatsumori","...You're laughing.
 Dahon, do something about that nickname.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -84,7 +84,7 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("F100340000_03_050");
 MsgDisp("Honda","Huh, Mii-kun!
-... He's gone.");
+...He's gone.");
 MsgDisp("主人公","Yeah.
 What were you talking about?");
 ChEye(3,0);

@@ -12,7 +12,7 @@ ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410101_04_010");
 MsgDisp("Nanatsumori","Yeah...");
-MsgDisp("主人公","｛七ツ森＊｝... are you
+MsgDisp("主人公","｛七ツ森＊｝...are you
 listening?");
 ChEye(4,0);
 ChMotion(4,1,1);
@@ -47,7 +47,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020410101_04_070");
-MsgDisp("Nanatsumori","... Maybe I'm just jealous.
+MsgDisp("Nanatsumori","...Maybe I'm just jealous.
 That would be a pain.");
 MsgDisp("主人公","(Jealous?)");
 BGMStop();

@@ -26,7 +26,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B070501000_05_020");
 MsgDisp("Hiiragi","After that, I've been thinking about it in
 my own way.
-... Even now.");
+...Even now.");
 MsgDisp("主人公","｛柊＊＊＊｝...");
 ChEye(5,0);
 ChMouth(5,4);

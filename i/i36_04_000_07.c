@@ -52,7 +52,7 @@ Please enjoy them if you'd like.");
     ChMotion(4,0,1);
     VoicePlay("I360400007_04_020");
     MsgDisp("Nanatsumori","Seriously godly...
-Manager, thank you... please tell them
+Manager, thank you...please tell them
 that.");
     MsgDisp("主人公","Hehe, got it.");
     ChEye(4,0);
@@ -108,7 +108,7 @@ On break?");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("I360400007_04_060");
-    MsgDisp("Nanatsumori","Well... there's that, too.
+    MsgDisp("Nanatsumori","Well...there's that, too.
 Maybe they're being considerate of us?");
     MsgDisp("主人公","???");
     ChEye(4,4);
@@ -143,7 +143,7 @@ Please enjoy it with everyone.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I360400007_04_110");
-    MsgDisp("Nanatsumori","Ah, aah... sure.
+    MsgDisp("Nanatsumori","Ah, aah...sure.
 I'm happy, I guess?");
     MsgDisp("主人公","? I thought you'd be the most happy about
 this, ｛七ツ森＊｝...");

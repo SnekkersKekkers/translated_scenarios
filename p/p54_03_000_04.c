@@ -37,7 +37,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("P540300004_03_040");
-MsgDisp("Honda","... Ah, here we go again.
+MsgDisp("Honda","...Ah, here we go again.
 This might be hopeless.");
 MsgDisp("主人公","(Seems like he was super moved!
 I'm truly glad I gave it my all these last

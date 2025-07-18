@@ -95,7 +95,7 @@ I'm happy.");
         ChMotion(7,0);
         VoicePlay("B040708102_07_090");
         MsgDisp("Mikage","You guys, the plants in the gardening
-club, Molly at home... you're all only
+club, Molly at home...you're all only
 growing bigger...");
         ChEye(7,2);
         ChMouth(7,0);

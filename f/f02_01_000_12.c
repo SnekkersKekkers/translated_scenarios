@@ -10,7 +10,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("F020100012_01_000");
-MsgDisp("Kazama","That's right... it's time for a new year.
+MsgDisp("Kazama","That's right...it's time for a new year.
 All that time really passed in a blink.");
 MsgDisp("主人公","Yeah, a lot happened.");
 ChEye(1,0);

@@ -73,7 +73,7 @@ ChMotion(4,0,1);
 VoicePlay("B110400001_04_040");
 MsgDisp("Nanatsumori","You're still here.
 If you're serious about picking up
-girls—— That's right... yeah.");
+girls—— That's right...yeah.");
 MsgDispSksp(0);
 MsgDispSksp(1,5);
 ChEye(4,2);
@@ -94,7 +94,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B110400001_04_060");
 MsgDisp("Nanatsumori","Well, we're going to go and ride that \"Big
-Wave\" or whatever... thing.
+Wave\" or whatever...thing.
 Farewell～");
 MsgDispSksp(0);
 ChEye(34,1);

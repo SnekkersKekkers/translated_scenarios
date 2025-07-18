@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0,1);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040624201_06_010");
-    MsgDisp("Himuro","Hu... haaa..
+    MsgDisp("Himuro","Hu...haaa..
 Yeah, the water is fresh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -40,7 +40,7 @@ You're so easy to understand");
     ChMouth(6,3);
     ChMotion(6,5);
     VoicePlay("B040624201_06_030");
-    MsgDisp("Himuro","Pfft... what's with that?
+    MsgDisp("Himuro","Pfft...what's with that?
 But if it's you, that's possible");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

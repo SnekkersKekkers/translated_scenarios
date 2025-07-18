@@ -34,7 +34,7 @@ Was it not to
     ChMouth(7,4);
     ChMotion(7,1);
     VoicePlay("L040700005_07_030");
-    MsgDisp("Mikage","Ooh, handmade... right?");
+    MsgDisp("Mikage","Ooh, handmade...right?");
     MsgDisp("主人公","Um, yes.
 Is something wrong?");
     ChEye(7,2);
@@ -50,7 +50,7 @@ right?");
     VoicePlay("L040700005_07_050");
     MsgDisp("Mikage","Then it's okay!
 I'll accept gratefully.");
-    MsgDisp("主人公","(Ah, could it be... I added something
+    MsgDisp("主人公","(Ah, could it be...I added something
 ｛御影＊＊｝ doesn't
 like...?)");
     MsgClose();

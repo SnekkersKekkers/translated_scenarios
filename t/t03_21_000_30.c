@@ -1,6 +1,6 @@
 MsgDisp("","During my three years at high school, I
 had a lot of fun talking about love and
-church legends... but now, I realized
+church legends...but now, I realized
 meeting my best friend is the most
 precious thing I treasure.");
 MsgDisp("","Someday, when we both fall in love, I'm

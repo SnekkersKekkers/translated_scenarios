@@ -71,7 +71,7 @@ StlCheek(2,10);
 VoicePlay("B050200100_02_070");
 MsgDisp("Sassa","It wasn't a ghost, it was just your hand.");
 MsgDisp("主人公","Oh.
-I was startled so I just...
+I got scared so I just...
 Sorry.");
 StlEye(2,0);
 StlMouth(2,0);
@@ -123,7 +123,7 @@ ChMouth(2,4);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("B050200100_02_120");
-MsgDisp("Sassa","... Yeah.
+MsgDisp("Sassa","...Yeah.
 Yeah, for me too.");
 MsgDisp("主人公","Holding onto ｛颯砂＊＊｝ while
 walking made me feel a bit better.");

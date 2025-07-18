@@ -20,7 +20,7 @@ What's wrong?");
     VoicePlay("N020300003_03_010");
     MsgDisp("Honda","I was trying to look for your name from
 the top, but my eyes got tired before I
-found it... Sorry.");
+found it...Sorry.");
     MsgDisp("主人公","(Oof...
 I've got to study harder...)");
     break ;

@@ -90,7 +90,7 @@ MsgDisp("Mikage","｛主人公｝, if you would.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
-MsgDisp("主人公","Eh... um... \"
+MsgDisp("主人公","Eh...um...\"
 This darts corner has a grown-up feel\"?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -102,7 +102,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30501_06_030");
-MsgDisp("Himuro","...Hm... yes, that's...right...");
+MsgDisp("Himuro","...Hm...yes, that's...right...");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);

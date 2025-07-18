@@ -96,7 +96,7 @@ This uniform is pretty cute.");
     ChCheek(1,7);
     VoicePlay("P030100000_01_080");
     MsgDisp("Kazama","Yeah, it's cute.
-... Geez, just get me a dango set.");
+...Geez, just get me a dango set.");
     ChEyeOpenLevel(1,#1);
     MsgDisp("主人公","Hehe.
 Alright, one dango set coming right up～!");

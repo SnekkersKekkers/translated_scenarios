@@ -2,7 +2,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602100_06_000");
-MsgDisp("Himuro","... Were you doing research on me?");
+MsgDisp("Himuro","...Were you doing research on me?");
 MsgDisp("主人公","Huh...?");
 ChEye(6,0);
 ChMouth(6,0);

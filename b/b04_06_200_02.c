@@ -70,7 +70,7 @@ I'm still not used to it.");
         SEPlay("EV_SE_760");
         SEWait();
         SEPlay("EV_SE_565");
-        MsgDisp("主人公","Eh... waa∋");
+        MsgDisp("主人公","Eh...waa∋");
         SEPlay("EV_SE_011");
         ScrQuake(1);
         Wait(80,0);

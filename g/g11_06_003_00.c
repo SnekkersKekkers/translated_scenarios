@@ -79,7 +79,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G110600300_06_090");
-MsgDisp("Himuro","... Well, I won't force you to.
+MsgDisp("Himuro","...Well, I won't force you to.
 Just do it if you feel like it.");
 MsgDisp("主人公","Yes, I got it!");
 ChEye(6,0);

@@ -80,7 +80,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010720000_04_030");
-MsgDisp("Nanatsumori","Ahー... I totally get it. I'm also nervous
+MsgDisp("Nanatsumori","Ahー...I totally get it. I'm also nervous
 about having my hair done by someone I
 never met.");
 ChEye(7,2);

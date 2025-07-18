@@ -92,7 +92,7 @@ research and analysis, she's already bored
 of me.");
         ChSet(3,4);
         VoicePlay("B040314002_03_090");
-        MsgDisp("Honda","... What about you?
+        MsgDisp("Honda","...What about you?
 Aren't you bored of me yet?");
         MsgDisp("主人公","Not at all.");
         ChEye(3,0);

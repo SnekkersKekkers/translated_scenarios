@@ -1,7 +1,7 @@
 ChLayout(2);
 BGOpen("sc210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew... what nice weather.
+MsgDisp("主人公","(Phew...what nice weather.
 Let's bask in the sun on a bench.)");
 VoicePlay("F100730000_22_000");
 MsgDisp("Hikaru?","Mari, this way, this way!");
@@ -71,7 +71,7 @@ ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F100730000_22_030");
 MsgDisp("Hikaru","Eh, really?");
-MsgDisp("主人公","Umm... well, it's very
+MsgDisp("主人公","Umm...well, it's very
 ｛御影＊＊｝ -like, so I
 think it's fine but...");
 ChEye(22,0);
@@ -144,12 +144,12 @@ ChOpen(22,254,0,1,3,#1,#1,0,2,0,30);
 ChMotion(22,4,1);
 VoicePlay("F100730000_22_070");
 MsgDisp("Hikaru","He ran away. I can't believe he'd make a
-move like that... Good job, Mikage-sensei.");
+move like that...Good job, Mikage-sensei.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F100730000_21_060");
-MsgDisp("Michiru","... Yeah.
+MsgDisp("Michiru","...Yeah.
 A surprise attack is unfair.");
 MsgDisp("主人公","(That startled me...)");
 BGMStop();

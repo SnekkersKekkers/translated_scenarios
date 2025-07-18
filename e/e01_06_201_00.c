@@ -2,7 +2,7 @@ BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to head home.
-... Huh?)");
+...Huh?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,255,3,0,4,#1,#1,0,1,0,30);

@@ -42,7 +42,7 @@ ChEye(4,5);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B05001_04_010");
-MsgDisp("Nanatsumori","This is quite... something.");
+MsgDisp("Nanatsumori","This is quite...something.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

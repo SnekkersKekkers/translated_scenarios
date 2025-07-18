@@ -16,7 +16,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B330B20101_04_000");
-MsgDisp("Nanatsumori","This place... is filled with some pretty
+MsgDisp("Nanatsumori","This place...is filled with some pretty
 grotesque creatures.");
 ChEye(3,0);
 ChMouth(3,0);

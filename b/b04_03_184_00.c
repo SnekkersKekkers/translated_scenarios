@@ -24,7 +24,7 @@ waves were really intricate.");
     ChMotion(3,4);
     VoicePlay("B040318400_03_010");
     MsgDisp("Honda","Yep, this is an anime adults can enjoy
-too... Ah, could it be because we're
+too...Ah, could it be because we're
 neither adults or children?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

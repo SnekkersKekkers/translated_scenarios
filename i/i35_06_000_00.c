@@ -69,7 +69,7 @@ Please follow me to your seat.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("I350600000_06_070");
-    MsgDisp("Himuro","... Hm.
+    MsgDisp("Himuro","...Hm.
 You're doing pretty good.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
@@ -109,7 +109,7 @@ I haven't.");
     VoicePlay("I350600000_36_000");
     MsgDisp("Male Customer","Excuse me.");
     MsgDisp("主人公","Yes, I'll be right there!
-... Um.");
+...Um.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0,1);

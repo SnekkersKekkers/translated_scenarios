@@ -141,7 +141,7 @@ I'll try.");
     MsgClose();
     ChOpen(1,255,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Thank you for waiting.
-... How is it?");
+...How is it?");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);

@@ -101,7 +101,7 @@ tired, ｛本多＊＊｝.");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_860");
     MsgDisp("Honda","It was just that much of a disaster.
-... But, you seem just fine?");
+...But, you seem just fine?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

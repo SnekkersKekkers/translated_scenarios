@@ -6,7 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040422102_04_000");
-MsgDisp("Nanatsumori","Ah... is that a rainbow over there?");
+MsgDisp("Nanatsumori","Ah...is that a rainbow over there?");
 MsgSel("You have to hurry and take a picture∈","There was a light drizzle after all, just now","Looks like the sky is giving their blessing▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -59,7 +59,7 @@ noticed.");
         ChMouth(4,4);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040422102_04_050");
-        MsgDisp("Nanatsumori","... Eh?
+        MsgDisp("Nanatsumori","...Eh?
 That means——");
         MsgDisp("主人公","Umm, I meant a blessing on us.");
         ChEye(4,4);
@@ -103,7 +103,7 @@ You're so sneakyー...");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040422102_04_120");
-        MsgDisp("Nanatsumori","So... Could you explain why the rainbow is
+        MsgDisp("Nanatsumori","So...Could you explain why the rainbow is
 a blessing on us? Hmm?");
         MsgDisp("主人公","(｛七ツ森＊｝, you're teasing me...)");
         break ;

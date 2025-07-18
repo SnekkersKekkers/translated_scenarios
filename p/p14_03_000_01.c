@@ -30,7 +30,7 @@ I'll do it again, next time, I'll get lost
 properly.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
-MsgDisp("主人公","(Ugh...\"get lost properly\"... I made
+MsgDisp("主人公","(Ugh...\"get lost properly\"...I made
 ｛本多＊＊｝ uncomfortable...
 What a huge failure...)");
 MsgClose();

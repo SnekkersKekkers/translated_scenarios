@@ -10,7 +10,7 @@ SEWait();
 MsgDisp("主人公","...Hello?");
 VoicePlay("D030901200_09_000");
 MsgDisp("Kuya","Hello.
-It's me... can you hear me?");
+It's me...can you hear me?");
 MsgDisp("主人公","That voice, Kuya-san!
 I was a little hesitant to answer because
 of the private number.");
@@ -21,7 +21,7 @@ Maybe sis made it that way.");
 MsgDisp("主人公","What about your cellphone?");
 VoicePlay("D030901200_09_020");
 MsgDisp("Kuya","Hm. Well, since I'm a freeloader I don't
-really have that kind of luxury... Sorry
+really have that kind of luxury...Sorry
 for it being so one-sided.");
 MsgDisp("主人公","It's fine, it doesn't matter.");
 VoicePlay("D030901200_09_030");

@@ -1,7 +1,7 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Alright.
+MsgDisp("主人公","...Alright.
 Time to head home.");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
@@ -44,7 +44,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("E010110100_01_040");
-MsgDisp("Kazama","... Info?
+MsgDisp("Kazama","...Info?
 I wonder if I'm being monitored...");
 MsgDisp("主人公","｛風真＊＊｝, that's...");
 ChEye(1,0);
@@ -67,7 +67,7 @@ MsgDisp("Woman Customer A","Ah, there's Kazama-kun!
 We need your advice for a gift～!");
 SEStop("EV_SE_637",2);
 MsgDisp("主人公","(｛風真＊＊｝ seems to be getting more and
-more popular. He seems tired though... I
+more popular. He seems tired though...I
 wonder if he's alright.)");
 SEWait();
 MsgClose();

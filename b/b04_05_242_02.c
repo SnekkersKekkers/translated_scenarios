@@ -53,7 +53,7 @@ That's how I feel.");
         ChMotion(5,4);
         VoicePlay("B040524201_05_060");
         MsgDisp("Hiiragi","Thank you.
-... Then I'll take you up on that offer.
+...Then I'll take you up on that offer.
 I'll go rent a hammock.");
         MsgDisp("主人公","Hehe, yeah.
 Let's take it easy.");

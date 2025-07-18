@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("Shirahane","Ah...
 I really met ya.");
         MsgDisp("主人公","What are you doing here?
-And... how about we walk home together?");
+And...how about we walk home together?");
         break ;
         case 3:
         MsgDisp("主人公","｛大地＊＊｝!");

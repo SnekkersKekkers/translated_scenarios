@@ -25,7 +25,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130A00001_06_010");
 MsgDisp("Himuro","Hmmm, as expected of childhood friends.");
-MsgDisp("主人公","Ummm... what is it?");
+MsgDisp("主人公","Ummm...what is it?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -76,7 +76,7 @@ ChMotion(6,0);
 VoicePlay("D130A00001_06_030");
 MsgDisp("Himuro","What day is it today?
 That's all I'll say.
-... Well then.");
+...Well then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();

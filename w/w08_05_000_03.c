@@ -23,7 +23,7 @@ round?");
     ChOpen(5,255,2,4,2,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500003_05_020");
-    MsgDisp("Hiiragi","... Hanatsubaki-san, huh.
+    MsgDisp("Hiiragi","...Hanatsubaki-san, huh.
 I see.");
     break ;
     default :

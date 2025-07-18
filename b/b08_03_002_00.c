@@ -3,7 +3,7 @@ SEWait();
 BGOpen("ho210",2);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Hah... that was a surprise...)");
+MsgDisp("主人公","(Hah...that was a surprise...)");
 MsgDisp("主人公","(I think I should call
 ｛本多＊＊｝ soon...)");
 MsgClose();

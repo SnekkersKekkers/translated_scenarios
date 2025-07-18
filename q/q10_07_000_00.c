@@ -21,7 +21,7 @@ VoicePlay("Q100700000_07_010");
 MsgDisp("Mikage","I can't believe that thing was built
 around the 17th century, it's
 unbelievable.");
-MsgDisp("主人公","It's a centuries old bridge... so it's
+MsgDisp("主人公","It's a centuries old bridge...so it's
 very sturdy.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -114,7 +114,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q100700000_07_070");
-MsgDisp("Mikage","... Phew.
+MsgDisp("Mikage","...Phew.
 It's hard to do extracurricular lessons
 when you have more participants.");
 MsgDisp("主人公","Hehe, but it was very fun.");

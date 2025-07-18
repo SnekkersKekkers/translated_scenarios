@@ -6,7 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B020402115_04_000");
 MsgDisp("Nanatsumori","The sexy look...");
-MsgDisp("主人公","Um... is it, weird?");
+MsgDisp("主人公","Um...is it, weird?");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,1,1);

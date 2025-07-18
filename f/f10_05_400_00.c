@@ -100,7 +100,7 @@ VoicePlay("F100540000_05_060");
 MsgDisp("Hiiragi","｛主人公｝.
 Did they have Hiyashi Chuuka in the
 cafeteria?");
-MsgDisp("主人公","(Um... did they?
+MsgDisp("主人公","(Um...did they?
 I wonder?)");
 BGMStop();
 MsgClose();

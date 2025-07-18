@@ -15,7 +15,7 @@ VoicePlay("H1A0300001_03_010");
 MsgDisp("Honda","You're not the only one frustrated, right?
 The players would feel even worse seeing
 your face, you know?");
-MsgDisp("主人公","... Yeah, you're right.
+MsgDisp("主人公","...Yeah, you're right.
 Thank you, ｛本多＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);

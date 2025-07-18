@@ -42,7 +42,7 @@ taking a break.");
         ChMotion(2,0);
         VoicePlay("B040211002_02_030");
         MsgDisp("Sassa","Yeah, why is that? Phew, getting tired
-from something like this... Is weird for
+from something like this...Is weird for
 me?");
         MsgDisp("主人公","｛颯砂＊＊｝, are you alright?
 Are you not feeling well?");

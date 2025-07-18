@@ -63,7 +63,7 @@ last three years?)");
     VoiceEVSPlay(2);
     VoicePlay("P530200002_02_040");
     MsgDisp("Sassa","｛主人公｝. I guess this is the
-last time I'll hear you play... It's
+last time I'll hear you play...It's
 somewhat lonely.");
     MsgDisp("主人公","Yeah, that's right huh.");
     ChEye(2,0);
@@ -72,7 +72,7 @@ somewhat lonely.");
     VoicePlay("P530200002_02_050");
     MsgDisp("Sassa","You've practiced this song often after
 school, right?");
-    MsgDisp("主人公","Eh... maybe you heard it all the way from
+    MsgDisp("主人公","Eh...maybe you heard it all the way from
 the ground?");
     ChEye(2,0);
     ChMouth(2,4);

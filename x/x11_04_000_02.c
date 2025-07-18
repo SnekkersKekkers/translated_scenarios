@@ -19,7 +19,7 @@ player in the future?");
     case 5:
     VoicePlay("X110400002_04_010");
     MsgDisp("Nanatsumori","I'll be right back. Your too brilliant
-one-handed backbreaker... I heard that you
+one-handed backbreaker...I heard that you
 made the audience go \"myriad?");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝.
 It's a practice match, though, and we won.");

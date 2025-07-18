@@ -39,7 +39,7 @@ MsgDisp("Kazama","If you break it...
 I'll return the favour three-fold, English
 style.");
 MsgDisp("主人公","Three-fold∋
-... Got it.");
+...Got it.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -25,7 +25,7 @@ ChOpen(4,253,0,0,0,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330B20200_03_000");
 MsgDisp("Honda","It's moving no matter how many times you
-watch it... The constellations, the myths;
+watch it...The constellations, the myths;
 the life of the stars.");
 ChEyeOpenLevel(3,#1);
 MsgDisp("主人公","Yeah.

@@ -6,13 +6,13 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323400_03_000");
 MsgDisp("Honda","Ahー, hey, it's spinning too much...");
-MsgSel("I'm excited like a kid!","I could feel the centrifugal force","The world... is spinning...");
+MsgSel("I'm excited like a kid!","I could feel the centrifugal force","The world...is spinning...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);
     ChSet(3,2);
     VoicePlay("B040323400_03_010");
-    MsgDisp("Honda","I've decided... next time...
+    MsgDisp("Honda","I've decided...next time...
 I'll go on a separate cup to you.");
     MsgDateResultDisp();
     break ;
@@ -32,7 +32,7 @@ ear canals are sensitive.");
     ChMouth(3,4);
     ChMotion(3,3);
     VoicePlay("B040323400_03_030");
-    MsgDisp("Honda","You're... spinning...");
+    MsgDisp("Honda","You're...spinning...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

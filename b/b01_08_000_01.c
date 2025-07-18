@@ -9,7 +9,7 @@ MsgClose();
 ChOpen(8,253,2,2,0,#1,#1,0,0);
 VoicePlay("B010800001_08_000");
 MsgDisp("Shirahane","You were waiting?
-... Did I keep ya waiting long?");
+...Did I keep ya waiting long?");
 MsgDisp("主人公","Yeah, just a little?");
 ChEye(8,2);
 ChMouth(8,1);

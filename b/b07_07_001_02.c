@@ -61,7 +61,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700001_07_150");
 MsgDisp("Mikage","To overthrow Vice Principal Himuro.");
-MsgDisp("主人公","(Overthrow... What does
+MsgDisp("主人公","(Overthrow...What does
 ｛御影＊＊｝ and
 ｛氷室＊＊｝ intend to do
 together?)");

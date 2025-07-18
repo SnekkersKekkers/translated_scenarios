@@ -9,7 +9,7 @@ MsgDisp("Nanatsumori","As expected, it's fresh, huh.");
 MsgDisp("主人公","Please try this dipping sauce too.");
 ChEye(4,4);
 VoicePlay("P640400004_04_010");
-MsgDisp("Nanatsumori","Ah... delicious.
+MsgDisp("Nanatsumori","Ah...delicious.
 This suits the flavour of the vegetables
 well.");
 MsgDisp("主人公","Truly?

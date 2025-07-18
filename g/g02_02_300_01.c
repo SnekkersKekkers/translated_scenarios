@@ -38,7 +38,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230001_02_050");
-MsgDisp("Sassa","... Same goes for Ryota.
+MsgDisp("Sassa","...Same goes for Ryota.
 If they come, it's exactly as I predicted.");
 ChEye(2,4);
 ChMouth(2,3);

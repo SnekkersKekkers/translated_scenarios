@@ -78,7 +78,7 @@ trouble responding.");
         ChEyeOpenLevel(6,0);
         VoicePlay("B040608402_06_070");
         MsgDisp("Himuro","Then, close your eyes.");
-        MsgDisp("主人公","Eh... yeah.");
+        MsgDisp("主人公","Eh...yeah.");
         MsgClose();
         ScrFadeOut(0);
         MsgDisp("主人公","(I wonder what he's going to do?)");

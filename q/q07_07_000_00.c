@@ -4,7 +4,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow... the windmills and flowers are So
+MsgDisp("主人公","Wow...the windmills and flowers are So
 pretty!");
 ChEye(7,0);
 ChMouth(7,0);
@@ -32,7 +32,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q070700000_07_020");
-MsgDisp("Mikage","Oh come on... it's supposed to be fun.
+MsgDisp("Mikage","Oh come on...it's supposed to be fun.
 Are you having a good time?");
 MsgDisp("主人公","Of course. Extracurricular activities with
 ｛御影＊＊｝ as just the
@@ -60,7 +60,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("Q070700000_07_040");
-MsgDisp("Mikage","That tower... is extraordinary, huh?");
+MsgDisp("Mikage","That tower...is extraordinary, huh?");
 MsgDisp("主人公","Extraordinary?");
 ChEye(7,0);
 ChMouth(7,3);

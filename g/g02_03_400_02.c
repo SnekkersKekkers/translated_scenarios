@@ -30,7 +30,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020340002_03_040");
-MsgDisp("Honda","But, like, the belly button... oh, and
+MsgDisp("Honda","But, like, the belly button...oh, and
 maybe even the tongue seems interesting.
 I wonder what it feels like when you eat!");
 MsgDisp("主人公","Maybe...

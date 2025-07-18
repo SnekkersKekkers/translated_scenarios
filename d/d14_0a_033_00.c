@@ -73,14 +73,14 @@ ChMouth(6,4);
 ChMotion(6,4);
 ChCheek(6,3);
 VoicePlay("D140A03300_06_040");
-MsgDisp("Himuro","... Well yeah.
+MsgDisp("Himuro","...Well yeah.
 That's what I like about it too.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D140A03300_02_040");
 MsgDisp("Sassa","Hmm, that's nice.
-You said it was wonderful... right?");
+You said it was wonderful...right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

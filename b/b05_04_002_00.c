@@ -22,7 +22,7 @@ Please remove your glasses.");
 StlEyeOpenLevel(4,0);
 VoicePlay("B050400200_04_020");
 MsgDisp("Nanatsumori","Got it.
-... Haa.");
+...Haa.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

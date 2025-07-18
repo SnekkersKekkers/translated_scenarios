@@ -65,7 +65,7 @@ it out?");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P130500000_05_050");
-    MsgDisp("Hiiragi","Maze, cow, cow milk... and you in a
+    MsgDisp("Hiiragi","Maze, cow, cow milk...and you in a
 cow-print shirt.
 I'm already intrigued.");
     ChEye(5,0);

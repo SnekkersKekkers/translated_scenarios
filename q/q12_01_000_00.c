@@ -59,7 +59,7 @@ But it was fun thanks to you.");
     ChMotion(1,0);
     VoicePlay("Q120100000_01_050");
     MsgDisp("Kazama","Right.
-... That's up to you, though.");
+...That's up to you, though.");
     MsgDisp("主人公","(It really would be wonderful if we could
 come back here together sometime...)");
     break ;
@@ -93,7 +93,7 @@ middle school.");
     ChEyeOpenLevel(1,0);
     VoicePlay("Q120100000_01_080");
     MsgDisp("Kazama","Well, if you say so.
-... Sigh, I wish I could tell my past
+...Sigh, I wish I could tell my past
 self.");
     MsgDisp("主人公","Huh, tell him what?");
     ChEye(1,4);

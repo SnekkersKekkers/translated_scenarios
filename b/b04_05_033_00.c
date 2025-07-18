@@ -9,7 +9,7 @@ ChMouth(5,3);
 ChMotion(5,2);
 VoicePlay("B040503300_05_000");
 MsgDisp("Hiiragi","It's amazing isn't it.
-This deep sea production... it's really
+This deep sea production...it's really
 well done.");
 MsgSel("There are creatures living in the sunken ship!","The music also makes it like we're in the sea","It's dark at our feet, so be careful");
 switch (MsgSelRsltGet()){

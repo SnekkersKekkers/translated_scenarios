@@ -1,7 +1,7 @@
 BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Ah!
+MsgDisp("主人公","...Ah!
 ｛七ツ森＊｝,
 ｛本多＊＊｝!");
 MsgClose();
@@ -14,7 +14,7 @@ VoicePlay("F100440001_03_000");
 MsgDisp("Honda","｛主人公｝.");
 ChMotion(4,2,1);
 VoicePlay("F100440001_04_000");
-MsgDisp("Nanatsumori","... Is that enough for you Dahon?
+MsgDisp("Nanatsumori","...Is that enough for you Dahon?
 It's about time for me to go to work.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -33,7 +33,7 @@ ChSet(3,3);
 VoicePlay("F100440001_03_020");
 MsgDisp("Honda","Yeah yeah.
 I'll tell you anything I know!");
-MsgDisp("主人公","Umm... How did you know about
+MsgDisp("主人公","Umm...How did you know about
 ｛七ツ森＊｝'s job as a
 model?");
 ChEye(3,0);

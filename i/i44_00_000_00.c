@@ -10,7 +10,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("I440000000_49_010");
-MsgDisp("Manager","... I see, that's a shame.
+MsgDisp("Manager","...I see, that's a shame.
 Feel free come back if the chance arises.");
 MsgDisp("主人公","Thank you for looking after me.
 Bye...");

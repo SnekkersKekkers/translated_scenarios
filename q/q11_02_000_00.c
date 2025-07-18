@@ -1,5 +1,5 @@
 ScrFadeIn(0);
-MsgDisp("主人公","(Hmmm... I ended up buying both matcha and
+MsgDisp("主人公","(Hmmm...I ended up buying both matcha and
 black tea castella. I wonder what
 ｛颯砂＊＊｝ bought...)");
 MsgClose();
@@ -29,7 +29,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q110200000_02_030");
 MsgDisp("Sassa","So, what castella did you pick?");
-MsgDisp("主人公","Matcha. ... and black tea.");
+MsgDisp("主人公","Matcha. ...and black tea.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -45,7 +45,7 @@ ChMotion(2,4);
 VoicePlay("Q110200000_02_050");
 MsgDisp("Sassa","Ahh, yeah.
 We're a perfect match, I guess?");
-MsgDisp("主人公","... Hm?
+MsgDisp("主人公","...Hm?
 Looks like you bought a lot of stuff...");
 ChEye(2,0);
 ChMouth(2,3);

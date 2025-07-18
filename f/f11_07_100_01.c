@@ -17,7 +17,7 @@ MsgDisp("Woman Customer A","Really∋
 Sorry, I really want to see him.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 SEWait();
-MsgDisp("主人公","('Pony', huh... how strange.)");
+MsgDisp("主人公","('Pony', huh...how strange.)");
 MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110710001_07_000");
@@ -43,6 +43,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(That expression...
 Didn't he look kind of upset?
-... Was he disappointed?)");
+...Was he disappointed?)");
 MsgClose();
 ScrFadeOut(0,0);

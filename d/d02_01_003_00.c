@@ -3,7 +3,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(It's getting late...
 I should go home.)");
 MsgDisp("主人公","(Huh? ｛風真＊＊｝'s bag is still
-here... I wonder where he is?)");
+here...I wonder where he is?)");
 MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_DOOR_025");
@@ -16,7 +16,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
 VoicePlay("D020100300_01_000");
 MsgDisp("Kazama?","I'm not an elementary school kid anymore.
-... Sorry.");
+...Sorry.");
 MsgDisp("主人公","(Ah, that voice...)");
 VoicePlay("D020100300_01_010");
 MsgDisp("Kazama","Dad.

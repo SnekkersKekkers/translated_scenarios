@@ -32,7 +32,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("H480300000_03_030");
-MsgDisp("Honda","... Wait, I can't cheer like this!
+MsgDisp("Honda","...Wait, I can't cheer like this!
 Today, I need to see your greatest-");
 ChEye(3,4);
 ChMouth(3,4);

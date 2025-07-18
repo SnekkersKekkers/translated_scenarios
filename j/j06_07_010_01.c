@@ -1,4 +1,4 @@
-MsgSel("Yes, I'm in!","I've got to run an errand ... ");
+MsgSel("Yes, I'm in!","I've got to run an errand ...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J060701001_07_000");

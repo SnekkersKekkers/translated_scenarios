@@ -20,7 +20,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("I160100006_01_010");
     MsgDisp("Kazama","What else?
 Don't space out while we're open.");
-    MsgDisp("主人公","... Ah!
+    MsgDisp("主人公","...Ah!
 I, I'm sorry.");
     ChEye(1,2);
     ChMouth(1,2);
@@ -48,7 +48,7 @@ I need to get it together...!)");
     MsgDisp("Kazama","What else.
 The center display is the exact same as
 last month's, right?");
-    MsgDisp("主人公","... Ah!
+    MsgDisp("主人公","...Ah!
 I, I'm sorry.");
     ChEye(1,2);
     ChMouth(1,2);

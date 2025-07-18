@@ -43,7 +43,7 @@ Sorry.");
     VoicePlay("S030600002_06_070");
     MsgDisp("Himuro","No, I should have asked you earlier
 myself.
-... Take care.");
+...Take care.");
     MsgDisp("主人公","Thanks.
 Okay then, see you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");

@@ -72,7 +72,7 @@ here.");
     VoicePlay("R040300001_03_080");
     MsgDisp("Honda","It's not just the dress either, you
 yourself are sparkling.");
-    MsgDisp("主人公","No way... you're giving me too much
+    MsgDisp("主人公","No way...you're giving me too much
 credit.");
     ChEye(3,3);
     ChMouth(3,3);
@@ -85,7 +85,7 @@ Your modesty is the main factor why!");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("R040300001_03_100");
-    MsgDisp("Honda","... I'm going to be your prince.
+    MsgDisp("Honda","...I'm going to be your prince.
 Definitely.");
     MsgDisp("主人公","?");
     break ;

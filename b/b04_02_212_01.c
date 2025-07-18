@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040221201_02_010");
     MsgDisp("Sassa","Well, out of these.
-The others are a bit... you know.");
+The others are a bit...you know.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

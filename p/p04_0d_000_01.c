@@ -16,22 +16,22 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P040D00001_21_000");
-MsgDisp("Michiru","The tea... bitter... so bitter.");
+MsgDisp("Michiru","The tea...bitter...so bitter.");
 ChEye(22,2);
-MsgDisp("主人公","Um... is something wrong?");
+MsgDisp("主人公","Um...is something wrong?");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("P040D00001_22_010");
 MsgDisp("Hikaru","I'll be blunt, okay?
-... It's bad.");
+...It's bad.");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("P040D00001_21_010");
 MsgDisp("Michiru","I think it'd be better to taste the tea
 once before serving it to customers.
-... Okay?");
+...Okay?");
 MsgDisp("主人公","(Ugh...
 I messed up.
 I should've prepared a little more...)");

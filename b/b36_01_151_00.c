@@ -35,7 +35,7 @@ ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360115100_01_030");
 MsgDisp("Kazama","Right.
-If we're talking celebration... something
+If we're talking celebration...something
 like a kiss.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(1,0);
@@ -54,7 +54,7 @@ MsgClose();
 ChOpen(1,255,4,4,2,0,#1,7,0);
 VoicePlay("B360115100_01_050");
 MsgDisp("Kazama","......");
-MsgDisp("主人公","｛風真＊＊｝, umm... wasn't it
+MsgDisp("主人公","｛風真＊＊｝, umm...wasn't it
 my turn just now?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -62,7 +62,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B360115100_01_060");
-MsgDisp("Kazama","... Ah.
+MsgDisp("Kazama","...Ah.
 My bad.");
 MsgDisp("主人公","I can't give you a reward right?");
 ChEye(1,2);

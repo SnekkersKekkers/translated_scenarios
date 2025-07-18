@@ -19,7 +19,7 @@ ChMotion(3,1);
 VoicePlay("G020310201_03_030");
 MsgDisp("Honda","But that doesn't mean we're a couple,
 right?
-... Is it an ambiguous relationship?");
+...Is it an ambiguous relationship?");
 MsgDisp("主人公","Yeah...seems that way.");
 ChEye(3,0);
 ChMouth(3,0);

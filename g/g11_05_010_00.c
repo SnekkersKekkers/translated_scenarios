@@ -8,7 +8,7 @@ MsgDisp("Hiiragi","Okay.
 I'll put it into the management book.");
 MsgDisp("主人公","(The chairman of the Habataki Theatre
 Company is working in the student council
-room... It's a bit strange, isn't it.)");
+room...It's a bit strange, isn't it.)");
 MsgClose();
 ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
@@ -19,7 +19,7 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110501000_05_010");
-MsgDisp("Hiiragi","... Ahem.
+MsgDisp("Hiiragi","...Ahem.
 Is there something stuck to my face?");
 MsgDisp("主人公","No, sorry for staring.");
 ChEye(5,0);
@@ -122,7 +122,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","(｛柊＊＊＊｝ has had lots of difficult
-experiences since he was little... Even if
+experiences since he was little...Even if
 it's just a little, I would like to help
 him...)");
 BGMStop();

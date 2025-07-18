@@ -28,7 +28,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040403301_04_020");
     MsgDisp("Nanatsumori","Seriously∋
-It really does... the color, the spiky
+It really does...the color, the spiky
 parts, it really might look like me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,0);
     ScrFadeIn(0);
     VoicePlay("B060100003_01_000");
-    MsgDisp("Kazama","How should I put it... that wasn't like
+    MsgDisp("Kazama","How should I put it...that wasn't like
 us.");
     MsgDispSksp(0);
     break ;

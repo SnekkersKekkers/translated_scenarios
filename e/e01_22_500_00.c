@@ -2,7 +2,7 @@ BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time to go home.
-... Huh?
+...Huh?
 Over there, is that...)");
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 MsgClose();

@@ -84,7 +84,7 @@ freshly-squeezed milk at the finish line.");
     ChCheek(1,5);
     VoicePlay("P130100000_01_070");
     MsgDisp("Kazama","When you're wearing that cow-print
-t-shirt... Don't say \"freshly-squeezed
+t-shirt...Don't say \"freshly-squeezed
 milk \" so loudly.");
     MsgDisp("主人公","Eh?
 What's wrong with that?");

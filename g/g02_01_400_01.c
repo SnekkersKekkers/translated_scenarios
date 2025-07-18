@@ -73,7 +73,7 @@ MsgDisp("Kazama","Oh, of course I'm okay with idiotic ones
 too.
 As long as I'm making memories with you.");
 MsgDisp("主人公","(I hope I can make a lot of memories with
-｛風真＊＊｝... )");
+｛風真＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

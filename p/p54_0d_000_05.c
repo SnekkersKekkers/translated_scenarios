@@ -4,7 +4,7 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ugh... what a massive fail.
+MsgDisp("主人公","(Ugh...what a massive fail.
 Even though that was my last high school
 performance...)");
 MsgClose();
@@ -21,7 +21,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P540D00005_21_010");
-MsgDisp("Michiru","Your performance... even though it was
+MsgDisp("Michiru","Your performance...even though it was
 like that, I think it's amazing you
 continued with the wind music club for
 three years.");
@@ -45,7 +45,7 @@ VoicePlay("P540D00005_22_020");
 MsgDisp("Hikaru","Right, right!
 The future will shine even brighter!");
 MsgDisp("主人公","(｛みちる＊｝,
-｛ひかる＊｝... My last
+｛ひかる＊｝...My last
 performance was a failure, but I'm glad I
 continued with the wind music club!)");
 MsgClose();

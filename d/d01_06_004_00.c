@@ -44,7 +44,7 @@ StlMouth(6,1);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
 VoicePlay("D010600400_06_020");
-MsgDisp("Himuro","... Who was it?
+MsgDisp("Himuro","...Who was it?
 Do you have something against me?");
 StlEye(6,1);
 StlMouth(6,1);
@@ -59,7 +59,7 @@ My hand slipped!");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600400_06_040");
-MsgDisp("Himuro","... Hmph.
+MsgDisp("Himuro","...Hmph.
 This is nothing.");
 VoicePlay("D010600400_41_030");
 MsgDisp("Male Student B","I guess that's exactly what you'd expect
@@ -121,7 +121,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("D010600400_06_100");
-MsgDisp("Himuro","... Ah, I see.
+MsgDisp("Himuro","...Ah, I see.
 That's fine then.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -131,7 +131,7 @@ MsgDisp("Himuro","Anyway, let's go home quickly.
 I've been waiting for a while and it's
 cold.");
 MsgDisp("主人公","Ah, sorry!
-... Wait, when did we make plans to walk
+...Wait, when did we make plans to walk
 home together?");
 ChEye(6,0);
 ChMouth(6,3);

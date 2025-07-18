@@ -64,7 +64,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B06001_01_050");
 MsgDisp("Kazama","...Otherwise, it wouldn't have turned out
 like this.");
-MsgDisp("主人公","(I heard \"dense\" but... are they talking
+MsgDisp("主人公","(I heard \"dense\" but...are they talking
 about me and ｛本多＊＊｝? )");
 BGMStop();
 MsgClose();

@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040404600_04_000");
     MsgDisp("Nanatsumori","Sorry.
 My piano knowledge isn't the best.
-... But, I know it was amazing.");
+...But, I know it was amazing.");
     MsgDateResultDisp();
     break ;
     case 1:

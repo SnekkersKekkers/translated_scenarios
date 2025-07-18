@@ -22,7 +22,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F102230002_21_010");
 MsgDisp("Michiru","Right.
-Hey... if you still can't guess it today,
+Hey...if you still can't guess it today,
 I guess I'll go t a cooking class...");
 ChEye(22,4);
 ChMouth(22,0);

@@ -17,7 +17,7 @@ VoicePlay("T020611000_06_170");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","I've known all along. So... I'm the one
+MsgDisp("Himuro","I've known all along. So...I'm the one
 who's sorry. I hurt you.");
 MsgDisp("主人公","No, that's not...");
 VoicePlay("T020611000_06_180");
@@ -56,7 +56,7 @@ VoicePlay("T020611000_06_230");
 ChEye(6,2);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","... Goodbye.");
+MsgDisp("Himuro","...Goodbye.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

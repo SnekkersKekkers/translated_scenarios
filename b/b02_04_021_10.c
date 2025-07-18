@@ -14,7 +14,7 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B020402110_04_010");
 MsgDisp("Nanatsumori","No, I'll refuse anything impossible.
-... But I might lose confidence with that
+...But I might lose confidence with that
 doe-eyed look...");
 MsgDisp("主人公","(Awesome!
 ｛七ツ森＊｝ seems to

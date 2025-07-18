@@ -36,7 +36,7 @@ ChMotion(2,5);
 VoicePlay("F020200005_02_030");
 MsgDisp("Sassa","Well, I'll cross that bridge when I get to
 it∋");
-MsgDisp("主人公","That... doesn't seem right.");
+MsgDisp("主人公","That...doesn't seem right.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

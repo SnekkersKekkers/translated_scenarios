@@ -47,7 +47,7 @@ that awhile back.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040103102_01_030");
-        MsgDisp("Kazama","... Are you serious right now?
+        MsgDisp("Kazama","...Are you serious right now?
 I was talking about like how the fish see
 us.");
         MsgDateResultDisp();

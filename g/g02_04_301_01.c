@@ -3,7 +3,7 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0);
 VoicePlay("G020430101_04_000");
-MsgDisp("Nanatsumori","Ah... look, over there.
+MsgDisp("Nanatsumori","Ah...look, over there.
 There are a lot of fireflies gathered.");
 MsgDisp("主人公","There really is!
 It's only over there where there's a lot

@@ -2,7 +2,7 @@ BGOpen("tr400",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛ひかる＊｝, you're... here!)");
+MsgDisp("主人公","(｛ひかる＊｝, you're...here!)");
 MsgDisp("主人公","｛ひかる＊｝, good
 morning!");
 MsgClose();

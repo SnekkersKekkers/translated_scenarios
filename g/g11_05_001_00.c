@@ -101,7 +101,7 @@ VoicePlay("G110500100_05_070");
 MsgDisp("Hiiragi","I didn't mean to peek, but if it's okay
 with you, I'd like to see your work next
 time.");
-MsgDisp("主人公","... That is if I can make something I'm
+MsgDisp("主人公","...That is if I can make something I'm
 pleased with?");
 ChEye(5,1);
 ChMouth(5,1);

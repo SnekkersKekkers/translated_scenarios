@@ -23,7 +23,7 @@ I really have to study harder...)");
     case 3:
     VoicePlay("N020400003_04_020");
     MsgDisp("Nanatsumori","Huh?
-Your name... where is it on the list?");
+Your name...where is it on the list?");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝...");
     ChEye(4,2);
     ChMouth(4,2);
@@ -35,7 +35,7 @@ good at all.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("N020400003_04_040");
-    MsgDisp("Nanatsumori","Huh... do you need some cheering up?
+    MsgDisp("Nanatsumori","Huh...do you need some cheering up?
 I'll buy you a juice later.");
     MsgDisp("主人公","(Oof...
 I really have to study harder...)");

@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040521101_05_010");
     MsgDisp("Hiiragi","She's been loved by the citizens of
-Habataki for many years... I hope the
+Habataki for many years...I hope the
 theatre company will be like that too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

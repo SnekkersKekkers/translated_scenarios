@@ -75,7 +75,7 @@ work and take pride in it.");
         ChMouth(8,0);
         ChMotion(8,1,1);
         VoicePlay("B040824102_08_070");
-        MsgDisp("Shirahane","Ah... it's nothing?");
+        MsgDisp("Shirahane","Ah...it's nothing?");
         MsgDisp("主人公","?");
         ChEye(8,3);
         ChMouth(8,4);

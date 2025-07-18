@@ -11,7 +11,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChCheek(4,7);
 VoicePlay("T020400000_04_320");
-MsgDisp("Nanatsumori","Ah... yeah.
+MsgDisp("Nanatsumori","Ah...yeah.
 I also like you but...");
 ChMouth(4,3);
 ChMotion(4,0,1);

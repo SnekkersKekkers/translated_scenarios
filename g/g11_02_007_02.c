@@ -99,7 +99,7 @@ SEStop("EV_SE_FOOT_037",2);
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I'm glad... it looks like they were able
+MsgDisp("主人公","(I'm glad...it looks like they were able
 to train more carefree than usual.
 I'm grateful to Mikage-sensei!)");
 MsgClose();

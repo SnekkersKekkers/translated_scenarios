@@ -60,7 +60,7 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_040");
-MsgDisp("Shirahane","Ah...  Not good.
+MsgDisp("Shirahane","Ah... Not good.
 Gotta keep it moving!");
 MsgDisp("主人公","Ah, that's right!");
 MsgClose();
@@ -108,7 +108,7 @@ VoicePlay("A020830000_08_080");
 MsgDisp("Shirahane","Then, once more: lookin' forward to
 workin' with you～!");
 MsgDisp("主人公","(Hanegasaki High School's
-｛大地＊＊｝... His smile and
+｛大地＊＊｝...His smile and
 characteristic intonation might be kinda
 cute. I'm looking forward to work days
 now!)");

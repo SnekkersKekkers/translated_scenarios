@@ -80,39 +80,39 @@ if ( var0 !=21&& var0 !=22){
                 case 1:
                 MsgDisp("主人公","(I'll get the same as
 ｛風真＊＊｝,
-｛学食メニュー｝... )");
+｛学食メニュー｝...)");
                 break ;
                 case 2:
                 MsgDisp("主人公","(I'll get the same as
 ｛颯砂＊＊｝,
-｛学食メニュー｝... )");
+｛学食メニュー｝...)");
                 break ;
                 case 3:
                 MsgDisp("主人公","(I'll get the same as
 ｛本多＊＊｝,
-｛学食メニュー｝... )");
+｛学食メニュー｝...)");
                 break ;
                 case 4:
                 MsgDisp("主人公","(I'll get the same as
 ｛七ツ森＊＊｝,
-｛学食メニュー｝... )");
+｛学食メニュー｝...)");
                 break ;
                 case 5:
                 MsgDisp("主人公","(I'll get the same as
 ｛柊＊＊｝,
-｛学食メニュー｝... )");
+｛学食メニュー｝...)");
                 break ;
                 case 6:
                 MsgDisp("主人公","(I'll get the same as ｛氷室＊＊｝,
-｛学食メニュー｝... )");
+｛学食メニュー｝...)");
                 break ;
                 case 7:
                 MsgDisp("主人公","(I'll get the same as
 ｛御影＊＊｝,
-｛学食メニュー｝... )");
+｛学食メニュー｝...)");
                 break ;
                 default :
-                MsgDisp("主人公","(I'll get the ｛学食メニュー｝... )");
+                MsgDisp("主人公","(I'll get the ｛学食メニュー｝...)");
                 break ;
                 }
             MsgExSel(7);

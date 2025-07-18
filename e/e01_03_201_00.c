@@ -27,7 +27,7 @@ ChNanaType(0);
 ChOpen(4,255,0,2,2,#1,#1,0,2);
 ChMotion(4,1,1);
 VoicePlay("E010320100_04_000");
-MsgDisp("Nanatsumori","... Hold up.
+MsgDisp("Nanatsumori","...Hold up.
 The way Dahon says it makes it sound like
 we came here together.");
 MsgDisp("主人公","Ah, ｛七ツ森＊｝.");

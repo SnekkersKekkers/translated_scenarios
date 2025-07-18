@@ -6,7 +6,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_420");
 MsgDisp("Himuro","What's wrong?");
-MsgDisp("主人公","... Yeah.
+MsgDisp("主人公","...Yeah.
 My heart is racing somewhat...");
 ChEye(6,0);
 ChMouth(6,0);

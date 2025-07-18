@@ -35,7 +35,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140A06000_06_020");
-MsgDisp("Himuro","Ha... you really are a good person.
+MsgDisp("Himuro","Ha...you really are a good person.
 If it were me, I wouldn't go and leave you
 behind like that.");
 MsgDisp("主人公","Umm...?");

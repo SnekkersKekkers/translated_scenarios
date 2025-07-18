@@ -47,7 +47,7 @@ VoicePlay("G020730201_07_050");
 MsgDisp("Mikage","That's weird.
 I ended up saying too much...
 Forget what I'm thinking～");
-MsgDisp("主人公","(｛御影＊＊｝... what does it mean to be
+MsgDisp("主人公","(｛御影＊＊｝...what does it mean to be
 flawed...)");
 BGMStop();
 MsgClose();

@@ -3,7 +3,7 @@ ChOpen(1,255,1,4,2,0,#1,0,0);
 Wait(12,0);
 ChEye(1,0);
 VoicePlay("G020110001_01_000");
-MsgDisp("Kazama","... This place, it's the habitat of
+MsgDisp("Kazama","...This place, it's the habitat of
 fireflies, right?
 Doesn't it somewhat smell like roses?");
 MsgDisp("主人公","Hmmm...?");
@@ -70,11 +70,11 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110001_01_090");
-MsgDisp("Kazama","... Huh?
+MsgDisp("Kazama","...Huh?
 The scent of roses is gone.");
 MsgDisp("主人公","(To think that the reason
 ｛風真＊＊｝ likes sweets is
-because of me... It's somewhat
+because of me...It's somewhat
 embarrassing.)");
 BGMStop();
 MsgClose();

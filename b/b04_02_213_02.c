@@ -27,7 +27,7 @@ Hey, that big one over there is cool.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040221302_02_020");
-    MsgDisp("Sassa","... So, in the future, we might end up
+    MsgDisp("Sassa","...So, in the future, we might end up
 with both a dog and a cat?
 That sounds good too.");
     MsgDispSksp(1,0);
@@ -64,7 +64,7 @@ already tough.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040221302_02_050");
-        MsgDisp("Sassa","... But, you know, the hard work also
+        MsgDisp("Sassa","...But, you know, the hard work also
 makes it fun.
 Like running together.");
         MsgDisp("主人公","I see.
@@ -106,7 +106,7 @@ compete against the dog everyday.");
 morning walks.
 As a witness.");
         MsgDisp("主人公","(Hehe, walking with ｛颯砂＊＊｝
-and a doggy every morning... seems fun.)");
+and a doggy every morning...seems fun.)");
         break ;
         default :
         DbgAssert(1);

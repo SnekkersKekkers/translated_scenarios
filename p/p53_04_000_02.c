@@ -68,7 +68,7 @@ I thought you'd come.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400002_04_060");
-    MsgDisp("Nanatsumori","... Yeah.
+    MsgDisp("Nanatsumori","...Yeah.
 Seems like this will be your best
 performance yet.");
     MsgDisp("主人公","Yes.
@@ -82,7 +82,7 @@ I'll give it my all, yeah?");
     ChMouth(4,3);
     ChMotion(4,2,1);
     VoicePlay("P530400002_04_080");
-    MsgDisp("Nanatsumori","... Crap.
+    MsgDisp("Nanatsumori","...Crap.
 Why am I the one who's heart is racing?");
     MsgDisp("主人公","?");
     SEPlay("EV_SE_038");

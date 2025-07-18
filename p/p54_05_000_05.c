@@ -35,7 +35,7 @@ VoicePlay("P540500005_05_030");
 MsgDisp("Hiiragi","So, look ahead properly.
 Your club members are waiting?
 Please go on ahead.");
-MsgDisp("主人公","Yeah... thank you.");
+MsgDisp("主人公","Yeah...thank you.");
 MsgDisp("主人公","(Even though I failed in the end, I'm glad
 I continued with the wind music club...)");
 MsgClose();

@@ -7,7 +7,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","I guess we can't run into each other
 everytime.
-... Ah!");
+...Ah!");
 MsgDisp("主人公","(Maybe it doesn't work if I don't have any
 problems for him to solve∋)");
 MsgDisp("主人公","......");

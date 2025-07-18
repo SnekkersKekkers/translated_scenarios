@@ -28,7 +28,7 @@ No, we'd better stay inside.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040123401_01_020");
-    MsgDisp("Kazama","It looks soft and gentle, but... it's
+    MsgDisp("Kazama","It looks soft and gentle, but...it's
 actually dangerous.
 Kind of like someone I know.");
     MsgDispSksp(1,0);

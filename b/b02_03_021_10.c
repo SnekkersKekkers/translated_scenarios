@@ -11,7 +11,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B020302110_03_010");
 MsgDisp("Honda","Ah, that might be it!
-... But even so, why am I feeling so
+...But even so, why am I feeling so
 excited?");
 MsgDisp("主人公","(Oh, good!
 ｛本多＊＊｝ seems to really like

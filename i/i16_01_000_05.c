@@ -15,7 +15,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","Lately, a lot has been selling out, not
 just the items on display...");
     ChEyeOpenLevel(1,#1);
-    MsgDisp("主人公","Yeah... is it that all the other items
+    MsgDisp("主人公","Yeah...is it that all the other items
 selling out are related to the ones on
 display?");
     ChEye(1,3);
@@ -29,7 +29,7 @@ display?");
     VoicePlay("I160100005_01_020");
     MsgDisp("Kazama","That's something you wouldn't be able to
 tell unless you knew the whole store
-well... You're good.");
+well...You're good.");
     MsgDisp("主人公","(I'm so happy that ｛風真＊＊｝
 said that!
 Let's keep it up.)");

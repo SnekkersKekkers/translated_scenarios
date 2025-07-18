@@ -36,7 +36,7 @@ small amount to that as well.");
     MsgDisp("Hiiragi","Is that so? It seems as though the players
 are currently looking for you. Would you
 not say that is proof enough?");
-    MsgDisp("主人公","Ah... yes.
+    MsgDisp("主人公","Ah...yes.
 I'm so happy...");
     ChEye(5,3);
     ChMotion(5,0);

@@ -43,7 +43,7 @@ while (1){
 VoicePlay("G110400702_04_020");
 ChEye(4,1);
 ChMouth(4,1);
-MsgDisp("Nanatsumori","... I can feel you staring intensely.");
+MsgDisp("Nanatsumori","...I can feel you staring intensely.");
 VoicePlay("G110400702_04_040");
 ChMotion(4,1);
 MsgDisp("Nanatsumori","...Hm?");

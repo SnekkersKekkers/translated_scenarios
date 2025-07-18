@@ -32,7 +32,7 @@ switch (MsgSelRsltGet()){
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040608202_06_020");
-        MsgDisp("Himuro","No... not really?");
+        MsgDisp("Himuro","No...not really?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -72,7 +72,7 @@ I need to focus a bit more.");
         VoicePlay("B040608202_06_070");
         MsgDisp("Himuro","No, I don't want to show the shameful
 parts of myself.
-Especially... not to you.");
+Especially...not to you.");
         MsgDisp("主人公","(Actually, I would like to see it...)");
         break ;
         default :

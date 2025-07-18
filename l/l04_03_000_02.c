@@ -22,7 +22,7 @@ have with my sister. Thanks!");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300002_03_020");
-    MsgDisp("Honda","This... is from that famous chocolatier!?");
+    MsgDisp("Honda","This...is from that famous chocolatier!?");
     MsgDisp("主人公","You knew?");
     ChEye(3,0);
     ChMouth(3,0);

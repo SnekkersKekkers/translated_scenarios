@@ -53,7 +53,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("E010330200_03_040");
-MsgDisp("Honda","Haa... you two are laughing, but are you
+MsgDisp("Honda","Haa...you two are laughing, but are you
 serious?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -103,7 +103,7 @@ too. It'll be hard to ignore his
 recommendations and not borrow something,
 you know?");
 MsgDisp("主人公","Ah...
-That certainly sounds... difficult");
+That certainly sounds...difficult");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

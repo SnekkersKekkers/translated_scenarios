@@ -74,7 +74,7 @@ Feels nice.");
     ChMotion(4,0,1);
     ChCheek(4,5);
     VoicePlay("I360400001_04_050");
-    MsgDisp("Nanatsumori","Your smile is... nice, too.");
+    MsgDisp("Nanatsumori","Your smile is...nice, too.");
     MsgDisp("主人公","Hm?");
     ChEye(4,4);
     ChMouth(4,0);

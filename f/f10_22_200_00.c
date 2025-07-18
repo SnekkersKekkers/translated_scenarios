@@ -64,7 +64,7 @@ MsgDisp("Hikaru","Well, he is a Habataki Alumnus.
 So I guess that makes him an authorized
 person～?");
 MsgDisp("主人公","(I heard that Goro-sensei is acquainted to
-the Haba High School chairman... maybe he
+the Haba High School chairman...maybe he
 came to see him? )");
 BGMStop();
 MsgClose();

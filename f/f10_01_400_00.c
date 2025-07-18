@@ -78,7 +78,7 @@ Wait(16,0);
 ChEye(1,2);
 ChMouth(1,2);
 VoicePlay("F100140000_01_040");
-MsgDisp("Kazama","... I guess that means you don't remember
+MsgDisp("Kazama","...I guess that means you don't remember
 either.
 Well, that's enough.");
 MsgClose();

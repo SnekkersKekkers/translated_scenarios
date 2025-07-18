@@ -29,7 +29,7 @@ The game's——");
     MsgDisp("Nanatsumori","Stop it...
 I was really looking forward to the live
 gaming music.");
-    MsgDisp("主人公","Uugh... even more pressure...");
+    MsgDisp("主人公","Uugh...even more pressure...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -42,7 +42,7 @@ you've got.");
     VoicePlay("P530400001_04_040");
     MsgDisp("Nanatsumori","Games are meant to amuse people.
 Isn't that why you chose game music?");
-    MsgDisp("主人公","Yeah... that's right!");
+    MsgDisp("主人公","Yeah...that's right!");
     ChEye(4,1);
     ChMouth(4,3);
     ChMotion(4,1,1);

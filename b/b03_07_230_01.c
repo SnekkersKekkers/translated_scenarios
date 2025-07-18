@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,1);
     VoicePlay("B030723001_07_010");
     MsgDisp("Mikage","Then that's what's coming up next...
-... Understood.");
+...Understood.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -58,7 +58,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B030723001_07_040");
-    MsgDisp("Mikage","... Alright, let's get on.");
+    MsgDisp("Mikage","...Alright, let's get on.");
     break ;
     case 2:
     MsgDispSksp(1,0);

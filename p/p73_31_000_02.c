@@ -4,7 +4,7 @@ BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(This year we're displaying wedding
 dresses. This is my last cultural
-festival... I have to make it a success!)");
+festival...I have to make it a success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

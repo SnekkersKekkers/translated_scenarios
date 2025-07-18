@@ -59,7 +59,7 @@ VoicePlay("F100210002_02_050");
 MsgDisp("Sassa","Well, when it's written in a book like
 this, it kind of backs up what you're
 already doing, and it's a bit of a relief.");
-MsgDisp("主人公","Wow... you're amazing,
+MsgDisp("主人公","Wow...you're amazing,
 ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);

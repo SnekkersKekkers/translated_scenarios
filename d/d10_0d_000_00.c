@@ -17,7 +17,7 @@ A flower has bloomed in the garden of your
 heart♪");
 MsgDisp("主人公","｛ひかる＊｝,
 ｛みちる＊｝.
-My heart's... garden?");
+My heart's...garden?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);

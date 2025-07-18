@@ -1,5 +1,5 @@
 MsgDisp("主人公","All right, then.
-The meeting point is... the
+The meeting point is...the
 ｛待ち合わせ場所｝, right?");
 ChEye(1,0);
 ChMouth(1,3);

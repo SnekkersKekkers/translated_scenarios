@@ -44,7 +44,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600000_06_530");
 MsgDisp("Himuro","......");
-MsgDisp("主人公","(It kinda... feels like his gaze is baring
+MsgDisp("主人公","(It kinda...feels like his gaze is baring
 into me?)");
 BGMStop();
 MsgClose();

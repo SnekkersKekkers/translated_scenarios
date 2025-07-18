@@ -34,7 +34,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A10501_06_000");
-MsgDisp("Himuro","... You two are in perfect sync.
+MsgDisp("Himuro","...You two are in perfect sync.
 Then, we should order something different,
 right, Nozomu-senpai?");
 ChEye(2,0);
@@ -48,7 +48,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10501_01_030");
 MsgDisp("Kazama","OK.
-... What about you, Inori?");
+...What about you, Inori?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -112,7 +112,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10501_06_030");
 MsgDisp("Himuro","It's lunch though.
-So... a lunch and a showー?");
+So...a lunch and a showー?");
 MsgDisp("主人公","(It's troubling for me either way∋)");
 MsgClose();
 ScrFadeOut(0,0);

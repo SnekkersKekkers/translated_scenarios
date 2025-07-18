@@ -21,7 +21,7 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,35,0,3,2,#1,#1,0,0);
     ChMotion(1,3);
     VoicePlay("I130100001_01_000");
-    MsgDisp("Kazama","... Hm?
+    MsgDisp("Kazama","...Hm?
 What are you doing here?");
     MsgDisp("主人公","Ah, ｛風真＊＊｝. I'll be
 working part-time here starting today.
@@ -60,7 +60,7 @@ Let's work hard together.");
     VoicePlay("I130100001_01_040");
     MsgDisp("Kazama","I know.
 I'll train you perfectly, okay?");
-    MsgDisp("主人公","Um... go easy on me?");
+    MsgDisp("主人公","Um...go easy on me?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);
@@ -128,7 +128,7 @@ senpai?");
     MsgDisp("主人公","Hehe, geez.");
     MsgDisp("主人公","(Working part-time with
 ｛風真＊＊｝ is going to be
-fun... I guess?)");
+fun...I guess?)");
     break ;
     default :
     DbgAssert(1);

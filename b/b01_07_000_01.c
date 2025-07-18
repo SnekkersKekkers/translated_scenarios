@@ -18,7 +18,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B010700001_07_010");
 MsgDisp("Mikage","I'm seriously, super sorry!
-... How was that?");
+...How was that?");
 MsgDisp("主人公","Hehe, jeez.
 That's kind of sly, you know.");
 MsgDispSksp(1,0);

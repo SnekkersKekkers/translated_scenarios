@@ -16,6 +16,6 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602001_06_020");
-MsgDisp("Himuro","... That's not what I meant.
+MsgDisp("Himuro","...That's not what I meant.
 Oh well.");
 MsgDisp("主人公","(What did he mean by it then?)");

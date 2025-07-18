@@ -29,7 +29,7 @@ I'm delivering from Cafe Alucard.");
     ChNanaType(1);
     ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400005_04_000");
-    MsgDisp("Nanatsumori","Are you... working?");
+    MsgDisp("Nanatsumori","Are you...working?");
     MsgDisp("主人公","｛七ツ森＊｝! Yeah, it's
 my first delivery job.
 ｛七ツ森＊｝, are you on
@@ -87,7 +87,7 @@ I'm delivering from Cafe Alucard.");
     MsgDisp("Nanatsumori","｛主人公｝.");
     MsgDisp("主人公","｛七ツ森＊｝.
 I came to deliver this!");
-    MsgDisp("主人公","... Hm?
+    MsgDisp("主人公","...Hm?
 There aren't many people around.
 Did you just get on break?");
     ChEye(4,4);
@@ -101,7 +101,7 @@ later. Until then...");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("I360400005_04_060");
-    MsgDisp("Nanatsumori","Wai... you're going already.");
+    MsgDisp("Nanatsumori","Wai...you're going already.");
     MsgDisp("主人公","Hm?
 Yes, I'm working right now...");
     ChEye(4,2);

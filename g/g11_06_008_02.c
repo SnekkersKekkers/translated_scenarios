@@ -86,7 +86,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600802_06_110");
-MsgDisp("Himuro","Huh... my face is not that red.
+MsgDisp("Himuro","Huh...my face is not that red.
 The sun is just setting.");
 MsgDisp("主人公","Hmm?");
 ChEye(6,0);

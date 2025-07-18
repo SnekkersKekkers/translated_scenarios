@@ -34,7 +34,7 @@ ChMotion(1,0);
 VoicePlay("G110100500_01_010");
 MsgDisp("Kazama","And then after that?");
 MsgDisp("主人公","Nothing in particular.
-Some of my seniors took them home, ... or
+Some of my seniors took them home, ...or
 recycled them.");
 ChEye(1,2);
 ChMouth(1,0);

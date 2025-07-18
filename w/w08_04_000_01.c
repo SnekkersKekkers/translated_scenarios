@@ -29,7 +29,7 @@ With Hikaru-san, huh...");
     ChEye(4,2);
     ChMouth(4,2);
     VoicePlay("W080400001_04_020");
-    MsgDisp("Nanatsumori","... With Hikaru-san?
+    MsgDisp("Nanatsumori","...With Hikaru-san?
 I see.");
     break ;
     default :

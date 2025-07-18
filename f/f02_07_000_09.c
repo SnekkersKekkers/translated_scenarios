@@ -25,7 +25,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700009_07_020");
-MsgDisp("Mikage","Ha... but...
+MsgDisp("Mikage","Ha...but...
 It feels like I'm giving my daughter, whom
 I've raised with care, as a wife.");
 MsgDisp("主人公","But the customers will be happy?");

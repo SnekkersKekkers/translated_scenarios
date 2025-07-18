@@ -41,7 +41,7 @@ How can you say that?");
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040114001_01_030");
-    MsgDisp("Kazama","That's dangerous... If anyone tries to
+    MsgDisp("Kazama","That's dangerous...If anyone tries to
 dive off the stage at you, I'll definitely
 stop them, so don't worry");
     MsgDispSksp(1,0);

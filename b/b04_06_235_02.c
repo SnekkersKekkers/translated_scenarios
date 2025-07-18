@@ -54,7 +54,7 @@ by now?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623502_06_040");
-        MsgDisp("Himuro","... Sorry.
+        MsgDisp("Himuro","...Sorry.
 That's a bad habit of mine.");
         MsgDisp("主人公","No.
 It's not like that.");

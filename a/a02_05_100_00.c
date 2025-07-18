@@ -133,7 +133,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝... He said he's a
+MsgDisp("主人公","(｛柊＊＊＊｝...He said he's a
 Habataki student, but he's also the
 chairman of the troupe Amazing...)");
 MsgDisp("主人公","(Oh, there's the poster for his play!

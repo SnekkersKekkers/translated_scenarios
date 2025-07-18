@@ -38,20 +38,20 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q070B00200_01_020");
-MsgDisp("Kazama","... Yeah, that.
+MsgDisp("Kazama","...Yeah, that.
 And also——");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(4,1,1);
 VoicePlay("Q070B00200_04_000");
-MsgDisp("Nanatsumori","Glover's wife was Japanese. ... is what
+MsgDisp("Nanatsumori","Glover's wife was Japanese. ...is what
 the pamphlet says.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q070B00200_01_030");
-MsgDisp("Kazama","... That's it.
+MsgDisp("Kazama","...That's it.
 Did you get it?");
 MsgDisp("主人公","Hehe!
 Thanks.");

@@ -8,7 +8,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B030706100_07_000");
 MsgDisp("Mikage","Everyone sure is having fun.");
-MsgDisp("主人公","... And are you?");
+MsgDisp("主人公","...And are you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

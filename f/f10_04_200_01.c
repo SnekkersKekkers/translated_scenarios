@@ -26,7 +26,7 @@ SEPlay("EV_SE_544");
 ChOpen(6,254,0,0,0,#1,#1,0,2,0,60);
 SEWait();
 VoicePlay("F100420001_06_000");
-MsgDisp("Himuro","Minoru-senpai, thanks for yesterday... no,
+MsgDisp("Himuro","Minoru-senpai, thanks for yesterday...no,
 thanks for this morning.");
 MsgDisp("主人公","Ah...
 ｛氷室＊＊｝ also seems sleepy huh?");

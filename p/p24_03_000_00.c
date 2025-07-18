@@ -36,7 +36,7 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_030");
-MsgDisp("Honda","... Someone must carry out Nobunaga-sama's
+MsgDisp("Honda","...Someone must carry out Nobunaga-sama's
 orders.");
 MsgDisp("主人公","But, why must it be you who does it?");
 ChEye(3,0);
@@ -55,7 +55,7 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 SEStop("EV_SE_GAYA_008",1);
 VoicePlay("P240300000_03_050");
-MsgDisp("Honda","... Ahem.
+MsgDisp("Honda","...Ahem.
 You don't understand, Mitsu.");
 MsgDisp("主人公","I-I don't understand.
 Mitsu is terribly sorry, but she doesn't
@@ -115,7 +115,7 @@ SEStop("EV_SE_GAYA_021",1.5);
 BGOpen("sc740",0);
 ChOpen(3,38,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew... it ended without any issues.");
+MsgDisp("主人公","Phew...it ended without any issues.");
 ChFace(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);

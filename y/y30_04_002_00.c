@@ -68,7 +68,7 @@ MsgClear();
 MsgDisp("","After all, he was too shady.");
 VoicePlay("Y300400200_34_000");
 MsgDisp("Man","\"Sorry to bother you so suddenly.
-... You're seriously tall.
+...You're seriously tall.
 Do you play sports?\"");
 MsgDisp("","I don't.
 Sorry.
@@ -93,7 +93,7 @@ BGOpen("ad424",0);
 ScrFadeIn(0);
 MsgDisp("","Why not try becoming a model?");
 MsgDisp("","It's a stock phrase often used in
-dangerous pitches... That modelling
+dangerous pitches...That modelling
 office is a place that middle and
 high school students here in this
 neighbouring town aspire for.");
@@ -163,7 +163,7 @@ MsgDisp("","But, maybe I unconsciously wanted to
 match him.
 The legendary high school model.");
 MsgClear();
-MsgDisp("","So... I managed to do well on the
+MsgDisp("","So...I managed to do well on the
 entrance exam. Strange.");
 VoicePlay("Y300400200_04_010");
 MsgDisp("Nanatsumori","\"...Oh, crap!\"");

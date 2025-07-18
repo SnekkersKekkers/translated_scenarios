@@ -12,7 +12,7 @@ ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B050600300_06_010");
 MsgDisp("Himuro","The look in your eyes changed.
-Do you maybe... want one?");
+Do you maybe...want one?");
 MsgDisp("主人公","Yeah!
 But I can't get it——");
 ChEye(6,1);
@@ -29,7 +29,7 @@ MsgDisp("主人公","Eh, ｛氷室＊＊｝?");
 SEPlay("EV_SE_501",0,0.9);
 SEWait();
 VoicePlay("B050600300_06_030");
-MsgDisp("Himuro","... That's the one we're aiming for.
+MsgDisp("Himuro","...That's the one we're aiming for.
 In that case, I'll get it in one try.");
 MsgClose();
 BGMPlay("BGM_C06_INORI_C",0.01);

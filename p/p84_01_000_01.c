@@ -1,7 +1,7 @@
 MsgClose();
 ChClose(1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","... Huh?
+MsgDisp("主人公","...Huh?
 My wallet isn't there!
 W-What should I do?");
 MsgClose();

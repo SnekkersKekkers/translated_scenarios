@@ -55,7 +55,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 ChCheek(5,5);
 VoicePlay("B360550100_05_060");
-MsgDisp("Hiiragi","Oh... that too...
+MsgDisp("Hiiragi","Oh...that too...
 Anything is fine.");
 MsgDisp("主人公","Huh?");
 ChMotion(5,0);

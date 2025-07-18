@@ -46,7 +46,7 @@ You can keep up with me just fine, huh?");
 MsgDisp("主人公","R-Really?");
 MsgDisp("主人公","(Hehe...
 ｛颯砂＊＊｝'s hair is so cute, the
-way it flutters... like a horse's mane?)");
+way it flutters...like a horse's mane?)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(2,1,0,0,0,0);
@@ -95,7 +95,7 @@ MsgClose();
 ChClose(2,0,0);
 BGOpen("sc200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew... I think I was able to run a bit
+MsgDisp("主人公","(Phew...I think I was able to run a bit
 better than last time. Maybe it's because
 I've been working hard exercising?)");
 MsgClose();

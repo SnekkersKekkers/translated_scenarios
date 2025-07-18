@@ -79,7 +79,7 @@ questions.");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("B010300001_03_080");
-    MsgDisp("Honda","... Well, just one question.
+    MsgDisp("Honda","...Well, just one question.
 But it took me a while to answer.");
     MsgDisp("主人公","Hehe, just be honest from the start.");
     MsgDispSksp(1,0);

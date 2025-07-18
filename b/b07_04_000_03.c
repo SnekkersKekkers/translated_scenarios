@@ -42,7 +42,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_190");
 MsgDisp("Nanatsumori","You don't need to look so down.
-If there's ever a chance... yeah, alright.
+If there's ever a chance...yeah, alright.
 I'll show you my ultimate form.");
 MsgDisp("主人公","(Sounds dodgy...)");
 BGMStop();

@@ -81,7 +81,7 @@ Good work.");
     ChMouth(4,3);
     ChMotion(4,2);
     VoicePlay("I250400000_04_080");
-    MsgDisp("Nanatsumori","... Ah.
+    MsgDisp("Nanatsumori","...Ah.
 Aah, this is poison to my eyes.
 Hm, poison, or heaven?");
     MsgDisp("主人公","...Right?");
@@ -98,7 +98,7 @@ much.");
     ChMotion(4,1);
     ChCheek(4,5);
     VoicePlay("I250400000_04_100");
-    MsgDisp("Nanatsumori","... No prob.
+    MsgDisp("Nanatsumori","...No prob.
 Want to head to this specialty sweets shop
 with me next time?");
     MsgDisp("主人公","(...

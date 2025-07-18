@@ -43,7 +43,7 @@ VoicePlay("F020400002_04_050");
 MsgDisp("Nanatsumori","No-good guys become good girls! Ugly girls
 become handsome men! They call it the
 'Double Extreme Remodeling Project'.");
-MsgDisp("主人公","... Ha!
+MsgDisp("主人公","...Ha!
 There's not scary at all.");
 ChEye(4,4);
 ChMouth(4,3);

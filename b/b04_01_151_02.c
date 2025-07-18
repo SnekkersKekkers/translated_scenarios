@@ -35,7 +35,7 @@ switch (MsgSelRsltGet()){
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040115102_01_020");
-        MsgDisp("Kazama","There it is... geez.
+        MsgDisp("Kazama","There it is...geez.
 You're greedy.");
         MsgDateResultDisp();
         break ;
@@ -46,7 +46,7 @@ You're greedy.");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040115102_01_030");
-        MsgDisp("Kazama","... Geez, you're a big eater.
+        MsgDisp("Kazama","...Geez, you're a big eater.
 A travel voucher is better right?");
         MsgDisp("主人公","But, if we got a meal voucher, we could
 eat together after this?");
@@ -80,7 +80,7 @@ Then what?");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040115102_01_070");
-        MsgDisp("Kazama","... Drop it.
+        MsgDisp("Kazama","...Drop it.
 A fancy dinner is fine.");
         MsgDisp("主人公","(｛風真＊＊｝, Even if you didn't get a
 perfect score, the prize is a travel

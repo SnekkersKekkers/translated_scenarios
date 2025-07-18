@@ -19,7 +19,7 @@ I showed you a weird performance...");
     ChMotion(21,3);
     VoicePlay("H4A2100001_21_010");
     MsgDisp("Michiru","Hehe! I'm sorry, I shouldn't laugh, but
-you know... I still enjoyed it.");
+you know...I still enjoyed it.");
     MsgDisp("主人公","(...Ugh. But I'm glad I stayed in the
 rhythmic gymnastics club.)");
     break ;

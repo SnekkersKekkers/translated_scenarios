@@ -28,11 +28,11 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B030614000_06_020");
-MsgDisp("Himuro","... I take it back.
+MsgDisp("Himuro","...I take it back.
 I hope it starts soon.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe.
-... Ah, it's starting!");
+...Ah, it's starting!");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

@@ -37,7 +37,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020610100_06_050");
-MsgDisp("Himuro","I don't intend to lose either, but... it's
+MsgDisp("Himuro","I don't intend to lose either, but...it's
 frustrating having a handicap.");
 MsgDisp("主人公","｛氷室＊＊｝...?");
 ChEye(6,0);

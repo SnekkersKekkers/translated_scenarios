@@ -18,7 +18,7 @@ VoicePlay("F022100005_21_010");
 MsgDisp("Michiru","Hehe.
 It's not a matter of studying, it's
 because it's not good for your skin, okay?");
-MsgDisp("主人公","Ah... is that right?");
+MsgDisp("主人公","Ah...is that right?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,3);

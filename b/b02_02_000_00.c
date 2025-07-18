@@ -2,7 +2,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 VoicePlay("B020200000_02_000");
-MsgDisp("Sassa","Hooh, that's nice!");
+MsgDisp("Sassa","Ehh, that's nice!");
 MsgDisp("主人公","Oh, these clothes?
 Do they suit me?");
 ChEye(2,0);

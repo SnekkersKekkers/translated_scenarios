@@ -94,7 +94,7 @@ Thanks!");
     ChMotion(4,1,1);
     VoicePlay("I650400000_04_090");
     MsgDisp("Nanatsumori","You're welcome.
-You don't get off until... how long?");
+You don't get off until...how long?");
     MsgDisp("主人公","Hm?
 Um, not for another hour...");
     ChEye(4,2);

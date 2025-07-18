@@ -65,7 +65,7 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 VoicePlay("D010400700_04_050");
-MsgDisp("Nanatsumori","... Idiot.
+MsgDisp("Nanatsumori","...Idiot.
 You're doing too much.");
 StlEye(4,0);
 StlMouth(4,0);

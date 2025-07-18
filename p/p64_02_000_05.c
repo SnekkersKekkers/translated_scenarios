@@ -13,7 +13,7 @@ ChMotion(2,0);
 VoicePlay("P640200005_02_010");
 MsgDisp("Sassa","The fresh vegetables were delicious.
 But, what was that dressing?");
-MsgDisp("主人公","Eh... it's herb dressing?");
+MsgDisp("主人公","Eh...it's herb dressing?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -48,7 +48,7 @@ ChClose(2);
 Wait(30);
 MsgDisp("主人公","(Maybe I should have researched more
 during the preparation period and
-carefully tasted it.... Uugh, it was a
+carefully tasted it....Uugh, it was a
 huge fail....");
 MsgClose();
 ScrFadeOut(0,0);

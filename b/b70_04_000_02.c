@@ -1,4 +1,4 @@
-MsgDisp("主人公","Let's see... \"
+MsgDisp("主人公","Let's see...\"
 I wanted to keep hanging out.
 See you next time. ☆\"");
 MsgDisp("主人公","(Good!

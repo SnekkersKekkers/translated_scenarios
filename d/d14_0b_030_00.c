@@ -98,7 +98,7 @@ VoicePlay("D140B03000_04_030");
 MsgDisp("Nanatsumori","I think that too.
 Besides, I don't want to let Dahon run
 loose.");
-MsgDisp("主人公","(Ah... so that's what it is.)");
+MsgDisp("主人公","(Ah...so that's what it is.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

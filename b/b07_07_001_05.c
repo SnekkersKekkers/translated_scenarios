@@ -75,7 +75,7 @@ ChMotion(7,3);
 VoicePlay("B070700001_07_430");
 MsgDisp("Mikage","So, don't think about weird things
 anymore.");
-MsgDisp("主人公","(I'm happy but... that doesn't seem to
+MsgDisp("主人公","(I'm happy but...that doesn't seem to
 really answer the question.)");
 BGMStop();
 MsgClose();

@@ -85,7 +85,7 @@ Let's have fun like we did back in
 kindergarten.");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D120A00200_01_020");
-MsgDisp("Kazama","... Geez.
+MsgDisp("Kazama","...Geez.
 You really don't remember anything, huh?");
 StlEye(2,0);
 StlMouth(2,0);

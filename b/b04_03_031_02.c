@@ -68,7 +68,7 @@ Because you're listening to me.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040303102_03_070");
-        MsgDisp("Honda","Oh? I mean, I'm... I might be learning
+        MsgDisp("Honda","Oh? I mean, I'm...I might be learning
 things that I think will be fun for you to
 hear about.");
         MsgDisp("主人公","Huh∋");

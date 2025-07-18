@@ -2,7 +2,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B020500011_05_000");
-MsgDisp("Hiiragi","... Thank you.
+MsgDisp("Hiiragi","...Thank you.
 For wearing that.");
 MsgDisp("主人公","Ah, this?
 You gave it to me, after all.");

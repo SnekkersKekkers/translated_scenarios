@@ -119,7 +119,7 @@ StlEye(1,2);
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 VoicePlay("B050100000_01_050");
-MsgDisp("Kazama","... Geez, what am I doing.
+MsgDisp("Kazama","...Geez, what am I doing.
 EVen though this isn't something you need
 to resolve yourself to do.");
 MsgDisp("主人公","What?");

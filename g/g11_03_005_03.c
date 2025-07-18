@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Phew, I'm finally done with the cash
 register. Huh? Where's
-｛本多＊＊｝... )");
+｛本多＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -21,7 +21,7 @@ ChMouth(3,2);
 ChMotion(3,0);
 VoicePlay("G110300503_03_000");
 MsgDisp("Honda","No, I thought if I organized the books, it
-would sort out my mind too... but it
+would sort out my mind too...but it
 didn't help.");
 MsgDisp("主人公","Eh...");
 ChEye(3,0);

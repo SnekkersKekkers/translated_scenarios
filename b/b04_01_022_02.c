@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040102202_01_010");
     MsgDisp("Kazama","Alright, anchors aweigh!
-... Don't.
+...Don't.
 Say a word.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -32,7 +32,7 @@ Say a word.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040102202_01_020");
-    MsgDisp("Kazama","... Sheesh, you're so serious.");
+    MsgDisp("Kazama","...Sheesh, you're so serious.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

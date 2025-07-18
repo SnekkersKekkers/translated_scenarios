@@ -28,7 +28,7 @@ ChMotion(21,2);
 ChEyeOpenLevel(21,0);
 VoicePlay("F102130001_21_020");
 MsgDisp("Michiru","Right...
-Hmm... haaa...");
+Hmm...haaa...");
 ChEye(21,5);
 ChMouth(21,4);
 ChMotion(21,0);

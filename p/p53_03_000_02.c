@@ -59,7 +59,7 @@ Thank you!");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("P530300002_03_040");
-    MsgDisp("Honda","... Huh?
+    MsgDisp("Honda","...Huh?
 You're the same as usual.");
     MsgDisp("主人公","Hehe, is that right?
 Maybe because it's already my third year.");

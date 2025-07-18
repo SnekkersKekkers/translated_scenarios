@@ -10,7 +10,7 @@ ChEye(5,3);
 ChMouth(5,3);
 VoicePlay("K020501100_05_000");
 MsgDisp("Hiiragi","We cannot let it end here.
-... Happy birthday.");
+...Happy birthday.");
 MsgDisp("主人公","You remembered.
 ｛柊＊＊＊｝, thank you!");
 ChEye(5,4);
@@ -38,7 +38,7 @@ me, ｛柊＊＊＊｝.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("K020501100_05_040");
-MsgDisp("Hiiragi","... If it's to your liking, then that's
+MsgDisp("Hiiragi","...If it's to your liking, then that's
 how it is.
 However, if not...");
 MsgDisp("主人公","I'd be happy with anything you got me!");

@@ -12,7 +12,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040423602_04_000");
-MsgDisp("Nanatsumori","... When I see this, I feel like summer is
+MsgDisp("Nanatsumori","...When I see this, I feel like summer is
 coming to an end.");
 MsgSel("I won't forget this for the rest of my life...","It feels a bit sad, huh?","We've got summer homework huhー...");
 switch (MsgSelRsltGet()){
@@ -60,7 +60,7 @@ summer.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423602_04_040");
-        MsgDisp("Nanatsumori","My, oh my.... you're bringing that up in
+        MsgDisp("Nanatsumori","My, oh my....you're bringing that up in
 this atmosphere?");
         MsgDisp("主人公","It just came to my mind.");
         ChEye(4,2);
@@ -114,7 +114,7 @@ of your notes.");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040423602_04_130");
-        MsgDisp("Nanatsumori","... Stop.
+        MsgDisp("Nanatsumori","...Stop.
 Sorry, it was a joke.");
         ChEye(4,2);
         ChMouth(4,1);

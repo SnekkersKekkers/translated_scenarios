@@ -34,7 +34,7 @@ ChMouth(22,2);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100230002_22_010");
-MsgDisp("Hikaru","Hmmm... For Hikaru, even that's just a
+MsgDisp("Hikaru","Hmmm...For Hikaru, even that's just a
 part of my older sister. It's difficult.");
 ChEye(21,0);
 ChMouth(21,4);

@@ -50,10 +50,10 @@ do, but this sort of thing is refreshing.");
 MsgDisp("主人公","Yeah we can take our time and also enjoy
 ourselves.");
 VoicePlay("B360150400_01_050");
-MsgDisp("Kazama","Phew... I feel bad for those guys, but But
+MsgDisp("Kazama","Phew...I feel bad for those guys, but But
 this has really turned around from the
 noisy first half.");
-MsgDisp("主人公","Hey... everyone will get angry you know?");
+MsgDisp("主人公","Hey...everyone will get angry you know?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,255,0,4,3,#1,#1,0,0);

@@ -51,7 +51,7 @@ MsgDisp("Honda","So, I need to sort through all of that and
 come to terms with it before I can talk to
 you about it.");
 MsgDisp("主人公","Yeah, I got it.
-... I'll be waiting, okay?");
+...I'll be waiting, okay?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);

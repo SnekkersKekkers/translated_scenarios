@@ -12,7 +12,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChCheek(4,7);
 VoicePlay("B070400000_04_560");
-MsgDisp("Nanatsumori","Well... there has.
+MsgDisp("Nanatsumori","Well...there has.
 But.
 But so what?");
 MsgDisp("主人公","I was just curious about what that was
@@ -22,14 +22,14 @@ ChMouth(4,4);
 ChMotion(4,3,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("B070400000_04_570");
-MsgDisp("Nanatsumori","... Nothing really.
+MsgDisp("Nanatsumori","...Nothing really.
 It's like this.");
 ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B070400000_04_580");
 MsgDisp("Nanatsumori","When I'm working, I have to put on a
-mask... even though I hate it because it
+mask...even though I hate it because it
 goes against my principles.");
 MsgDisp("主人公","Doesn't sound like you think too
 positively about it...?");
@@ -52,7 +52,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 ChCheek(4,10);
 VoicePlay("B070400000_04_610");
-MsgDisp("Nanatsumori","Honestly, it's fun, and... they're
+MsgDisp("Nanatsumori","Honestly, it's fun, and...they're
 amazing. They can turn anything into
 something positive. That's how powerful
 their presence is.");

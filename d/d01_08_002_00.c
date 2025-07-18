@@ -13,7 +13,7 @@ VoicePlay("D010800200_46_000");
 MsgDisp("Broadcast","All athletes participating in the men's
 400m Octathlon, please come to the
 starting area.");
-MsgDisp("主人公","Ah... It's ｛颯砂＊＊｝'s turn to
+MsgDisp("主人公","Ah...It's ｛颯砂＊＊｝'s turn to
 compete in the Octathalon. Let's go watch!");
 BGMStop();
 MsgClose();
@@ -37,7 +37,7 @@ Like you'd expect, ｛颯砂＊＊｝
 is in the lead!)");
 MsgDisp("主人公","(The guy in the orange behind him is also
 very fast!
-... Wait, is that?)");
+...Wait, is that?)");
 SEStop("EV_SE_792",1);
 SEStop("EV_SE_847",1);
 SEStop("EV_SE_GAYA_003",1);
@@ -127,7 +127,7 @@ MsgDisp("Shirahane","Yeah, I'm satisfied, though!
 After all, the king is a genius!
 So I can relax now.");
 MsgDisp("主人公","(｛大地＊＊｝ was also amazing, though.
-... By king, does he maybe mean
+...By king, does he maybe mean
 ｛颯砂＊＊｝? )");
 BGMStop();
 MsgClose();

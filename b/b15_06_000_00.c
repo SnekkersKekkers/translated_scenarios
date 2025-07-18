@@ -68,7 +68,7 @@ ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B150600000_06_090");
-MsgDisp("Himuro","Phew... this is going to be tough.");
+MsgDisp("Himuro","Phew...this is going to be tough.");
 MsgDisp("主人公","(???)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);

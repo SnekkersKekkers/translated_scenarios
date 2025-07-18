@@ -10,12 +10,12 @@ ChOpen(21,254,0,0,4,#1,#1,0,2);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230000_22_000");
-MsgDisp("Hikaru","Maybe... a bunny!");
+MsgDisp("Hikaru","Maybe...a bunny!");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("F102230000_21_000");
-MsgDisp("Michiru","... No.
+MsgDisp("Michiru","...No.
 It's a polar bear.");
 ChEye(22,2);
 ChMouth(22,1);

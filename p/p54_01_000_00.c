@@ -21,7 +21,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P540100000_01_010");
 MsgDisp("Kazama","It was good.
-... I was the first one to stand up.");
+...I was the first one to stand up.");
 MsgDisp("主人公","(Yay!
 I'm happy that ｛風真＊＊｝
 seems happy!)");

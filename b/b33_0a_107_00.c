@@ -16,7 +16,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A10700_01_000");
-MsgDisp("Kazama","Ah, this inkstone... This was in my
+MsgDisp("Kazama","Ah, this inkstone...This was in my
 Grandpa's storehouse a long time ago.
 Apparently I used it without permission.");
 MsgDisp("主人公","Ehhh∋");
@@ -95,7 +95,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B330A10700_01_050");
 MsgDisp("Kazama","If you thought that, you should have said
 so earlier.
-... Geez.");
+...Geez.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -115,7 +115,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10700_01_060");
-MsgDisp("Kazama","... OK.
+MsgDisp("Kazama","...OK.
 Ask me for some funny stories in
 preparation.");
 MsgDisp("主人公","(If the four of us come to the castle

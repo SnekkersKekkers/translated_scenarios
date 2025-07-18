@@ -49,7 +49,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_060");
 MsgDisp("Kazama","Uh...
-Yes, that's right. ... good grief, I guess
+Yes, that's right. ...good grief, I guess
 that's fine?");
 MsgDisp("主人公","What's wrong?");
 ChEye(1,0);

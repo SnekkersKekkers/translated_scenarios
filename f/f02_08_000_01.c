@@ -24,7 +24,7 @@ VoicePlay("F020800001_08_010");
 MsgDisp("Shirahane","Yeah yeah. There's somethin' similar at
 Hane Academy too. The story of the mermaid
 and the young man is famous.");
-MsgDisp("主人公","Wow... how wonderful!");
+MsgDisp("主人公","Wow...how wonderful!");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,0,1);

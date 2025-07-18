@@ -56,7 +56,7 @@ this result wouldn't have happened.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("H2A0600000_06_060");
-    MsgDisp("Himuro","... It kinda feels like you've gotten
+    MsgDisp("Himuro","...It kinda feels like you've gotten
 further away.
 It's a little frustrating.");
     MsgDisp("主人公","Hm?");

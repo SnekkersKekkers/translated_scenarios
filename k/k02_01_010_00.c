@@ -24,7 +24,7 @@ ChMotion(1,3);
 VoicePlay("K020101000_01_010");
 MsgDisp("Kazama","Happy birthday.
 Were you happy today?");
-MsgDisp("主人公","Ah... you remembered?");
+MsgDisp("主人公","Ah...you remembered?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);

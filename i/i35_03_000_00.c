@@ -82,7 +82,7 @@ here compared to at school.");
 But, you're doing well, and I think this
 job suits you.");
     MsgDisp("主人公","(I'm happy I got complimented.
-But... am I really that different here?)");
+But...am I really that different here?)");
     break ;
     case 4:
     case 5:

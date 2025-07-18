@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040123302_01_000");
 MsgDisp("Kazama","Haa...
 I get it, you like this don't you?");
-MsgSel("I like watching ｛風真＊＊｝ jump.","It's scary, but that's what makes it addictive...","Maybe... I like it?");
+MsgSel("I like watching ｛風真＊＊｝ jump.","It's scary, but that's what makes it addictive...","Maybe...I like it?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){

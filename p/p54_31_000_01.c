@@ -3,7 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa... a huge failure...)");
+MsgDisp("主人公","(Haa...a huge failure...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(31,254,2,2,0,#1,#1,0,0);
@@ -15,7 +15,7 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("P543100001_31_010");
-MsgDisp("Goro","Hm～... I felt like I saw a new world. But
+MsgDisp("Goro","Hm～...I felt like I saw a new world. But
 it appears it might've just been my
 imagination.");
 MsgClose();

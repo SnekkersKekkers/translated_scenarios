@@ -1,4 +1,4 @@
-MsgDisp("主人公","Let's see... \"
+MsgDisp("主人公","Let's see...\"
 Today was fun.
 Let's go out again.\"");
 MsgDisp("主人公","(Good!

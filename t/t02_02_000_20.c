@@ -27,7 +27,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200020_02_020");
-MsgDisp("Sassa","... Yeah.
+MsgDisp("Sassa","...Yeah.
 I promise.");
 ChEye(2,4);
 ChMouth(2,4);
@@ -57,7 +57,7 @@ Wait(120,0);
 StlOpen("ev_02_17");
 ScrFadeIn(0);
 VoicePlay("T020200020_02_060");
-MsgDisp("Sassa","Yes, your gaze is... on me.");
+MsgDisp("Sassa","Yes, your gaze is...on me.");
 VoicePlay("T020200020_02_070");
 MsgDisp("Sassa","Now all I can see is you.");
 StlEffect(1,1,60);

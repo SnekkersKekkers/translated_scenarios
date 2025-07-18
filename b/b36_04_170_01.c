@@ -26,7 +26,7 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B360417001_04_020");
-MsgDisp("Nanatsumori","Ah... well, that's right.");
+MsgDisp("Nanatsumori","Ah...well, that's right.");
 ChMotion(4,0,1);
 VoicePlay("B360417001_04_030");
 MsgDisp("Nanatsumori","What's with this suddenly?");
@@ -63,7 +63,7 @@ ChMotion(4,1,1);
 VoicePlay("B360417001_04_080");
 MsgDisp("Nanatsumori","Hm?");
 MsgDisp("主人公","On the stage the whole time!
-... I guess?");
+...I guess?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);

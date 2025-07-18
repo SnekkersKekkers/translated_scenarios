@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     NSSEye(7,1);
     NSSMouth(7,0);
     VoicePlay("B160700300_07_020");
-    MsgDisp("Mikage","... You...
+    MsgDisp("Mikage","...You...
 Don't say that with a straight face.");
     break ;
     default :

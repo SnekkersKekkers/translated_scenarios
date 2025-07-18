@@ -34,7 +34,7 @@ deteriorated.");
 MsgDisp("主人公","Is that right...?");
 VoicePlay("P240301000_34_020");
 MsgDisp("Kuroda Kanbei","It's not a dream.
-Your hand... let me feel your hand...");
+Your hand...let me feel your hand...");
 VoicePlay("P240301000_44_010");
 MsgDisp("Mitsuki","Yes.");
 ChEye(3,0);
@@ -81,7 +81,7 @@ It was a great success!");
 MsgDisp("主人公","Ah, yeah.
 That's right...");
 SEStop("EV_SE_GAYA_021",3);
-MsgDisp("主人公","(That play went well, though... I was so
+MsgDisp("主人公","(That play went well, though...I was so
 distracted by ｛本多＊＊｝'s
 talking I couldn't concentrate on the last
 scene.");

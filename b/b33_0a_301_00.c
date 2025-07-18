@@ -53,7 +53,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A30100_02_010");
-MsgDisp("Sassa","Playfulness... you say it well. Training
+MsgDisp("Sassa","Playfulness...you say it well. Training
 can get suffocating if I only think of
 efficiency. it can be hard to breathe.");
 ChEye(1,0);
@@ -95,7 +95,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B330A30100_06_060");
-MsgDisp("Himuro","Not really... is there a problem?");
+MsgDisp("Himuro","Not really...is there a problem?");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","I think the fact that ｛氷室＊＊｝

@@ -13,7 +13,7 @@ MsgDisp("主人公","｛七ツ森＊｝.
 What are you looking at?");
 VoicePlay("F100420000_04_010");
 MsgDisp("Nanatsumori","Himuro-kun.");
-MsgDisp("主人公","Umm... you mean Himuro Inori-kun?");
+MsgDisp("主人公","Umm...you mean Himuro Inori-kun?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -49,7 +49,7 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("F100420000_04_040");
 MsgDisp("Nanatsumori","Himuro-kun.
-... Guriguri?");
+...Guriguri?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

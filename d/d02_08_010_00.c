@@ -17,7 +17,7 @@ MsgDisp("Shirahane","Hmm...");
 VoicePlay("D020801000_08_020");
 MsgDisp("Shirahane","From spring onwards we will be with each
 other every day.
-... Maybe?");
+...Maybe?");
 MsgDisp("主人公","Hehe!");
 ChEye(8,3);
 ChMouth(8,3);

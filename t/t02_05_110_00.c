@@ -64,7 +64,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_050");
 MsgDisp("Hiiragi","But, I could graduate thanks to you.");
-MsgDisp("主人公","That... That's because
+MsgDisp("主人公","That...That's because
 ｛柊＊＊＊｝ worked really hard
 both at the theatre company and at his
 school life.");
@@ -165,7 +165,7 @@ ChEye(5,4);
 ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_180");
-MsgDisp("Hiiragi","If you're smiling... If the one I love;
+MsgDisp("Hiiragi","If you're smiling...If the one I love;
 you, are smiling, then nothing is wrong.
 It's alright.");
 MsgDisp("主人公","...!");

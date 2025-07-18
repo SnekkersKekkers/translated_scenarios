@@ -5,7 +5,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600001_06_320");
 MsgDisp("Himuro","Why?");
-MsgDisp("主人公","That's... cause I'm the only girl.");
+MsgDisp("主人公","That's...cause I'm the only girl.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

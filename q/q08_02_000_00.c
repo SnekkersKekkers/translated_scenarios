@@ -31,7 +31,7 @@ Let's go around together the next day too!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Haah... that was fun!");
+    MsgDisp("主人公","Haah...that was fun!");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);

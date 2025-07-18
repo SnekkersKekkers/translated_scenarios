@@ -52,7 +52,7 @@ Are we leaving already?");
     MsgDisp("Nanatsumori","Mornin..");
     MsgDisp("主人公","｛七ツ森＊｝, good
 morning!
-... Are you sleepy?");
+...Are you sleepy?");
     ChMotion(4,0,1);
     VoicePlay("Q090400000_04_060");
     MsgDisp("Nanatsumori","I couldn't sleep.");

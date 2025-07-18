@@ -67,7 +67,7 @@ I'm glad I worked hard!)");
     VoicePlay("I260300000_03_950");
     MsgDisp("Honda","Hey, did you hear?
 The next book fair might be left up to us.");
-    MsgDisp("主人公","\"Us\"... me too∋");
+    MsgDisp("主人公","\"Us\"...me too∋");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

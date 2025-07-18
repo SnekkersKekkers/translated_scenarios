@@ -62,7 +62,7 @@ chocolate...)");
     ChMouth(6,0);
     ChMotion(6,2,1);
     VoicePlay("L040600006_06_050");
-    MsgDisp("Himuro","Handmade... handmade, huh...");
+    MsgDisp("Himuro","Handmade...handmade, huh...");
     MsgDisp("主人公","How is it?");
     ChEye(6,0);
     ChMouth(6,0);

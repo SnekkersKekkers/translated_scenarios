@@ -3,7 +3,7 @@ ChMouth(1,2);
 ChCheek(1,6);
 Wait(60,0);
 VoicePlay("T020100000_01_410");
-MsgDisp("Kazama","... A kiss?
+MsgDisp("Kazama","...A kiss?
 Then...");
 MsgDisp("主人公","I also like ｛風真＊＊｝.
 Thank you for always thinking of me.");

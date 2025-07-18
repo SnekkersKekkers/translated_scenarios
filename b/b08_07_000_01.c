@@ -19,7 +19,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,3);
 VoicePlay("B080700001_07_010");
-MsgDisp("Mikage","... Hm?
+MsgDisp("Mikage","...Hm?
 It's your phone.");
 MsgDisp("主人公","Ah, yes.
 Please wait a moment.");

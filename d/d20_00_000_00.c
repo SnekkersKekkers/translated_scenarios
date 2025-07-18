@@ -28,7 +28,7 @@ SEStop("EV_SE_511",2);
 VoicePlay("D200000000_31_000");
 MsgDisp("Goro?","I・found・you・.
 You over there, a minute♪");
-MsgDisp("主人公","... Eh?
+MsgDisp("主人公","...Eh?
 Me?");
 MsgClose();
 BGMPlay("BGM_C31_GORO_A",0.01);
@@ -95,7 +95,7 @@ ChMouth(31,2);
 ChMotion(31,0);
 VoicePlay("D200000000_31_090");
 MsgDisp("Goro","That's right. Young people with shimmering
-talent hidden within... Beautiful Diamonds
+talent hidden within...Beautiful Diamonds
 in the Rough!");
 ChEye(31,0);
 ChMouth(31,0);

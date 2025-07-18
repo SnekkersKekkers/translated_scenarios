@@ -26,7 +26,7 @@ ChMotion(4,2,1);
 VoicePlay("P640400003_04_030");
 MsgDisp("Nanatsumori","It looks like the bag of vegetables you're
 selling over there is full of insects,
-move it... please.");
+move it...please.");
 MsgDisp("主人公","(Aah...
 I failed hugely in so many ways...)");
 MsgClose();

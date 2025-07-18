@@ -10,7 +10,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F032100000_21_080");
-MsgDisp("Michiru","Ah... there is one thing?
+MsgDisp("Michiru","Ah...there is one thing?
 I like the flavour, but I can't deal with
 how it looks...");
 MsgDisp("主人公","Eh, what is it?");

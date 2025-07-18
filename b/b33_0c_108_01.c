@@ -27,7 +27,7 @@ ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
-MsgDisp("主人公","｛御影＊＊｝... are you
+MsgDisp("主人公","｛御影＊＊｝...are you
 alright?");
 ChEye(7,2);
 ChMouth(7,2);

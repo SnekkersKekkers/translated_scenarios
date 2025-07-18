@@ -31,7 +31,7 @@ ChMotion(6,0);
 VoicePlay("G020630000_06_040");
 MsgDisp("Himuro","Those two are very honest in regards to
 what they like.
-... I'm a bit envious.");
+...I'm a bit envious.");
 MsgDisp("主人公","Is ｛氷室＊＊｝ different?");
 ChEye(6,0);
 ChMouth(6,0);

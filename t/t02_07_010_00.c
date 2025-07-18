@@ -57,7 +57,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020701000_07_060");
-MsgDisp("Mikage","... Thank you.
+MsgDisp("Mikage","...Thank you.
 You always help me out like that.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -129,7 +129,7 @@ ChMotion(7,7);
 ChEyeOpenLevel(7,8);
 ChOpen(7,254,0,0,0,#1,#1,0,0,0,120);
 VoicePlay("T020701000_07_150");
-MsgDisp("Mikage","Yeah, what I feel for you... is love.");
+MsgDisp("Mikage","Yeah, what I feel for you...is love.");
 MsgDisp("主人公","!");
 ChEye(7,4);
 ChMouth(7,4);

@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040418800_04_000");
     MsgDisp("Nanatsumori","The heroine's performance was good.
-Crap... it's slowly growing on me...");
+Crap...it's slowly growing on me...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

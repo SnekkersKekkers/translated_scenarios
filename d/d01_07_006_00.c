@@ -40,7 +40,7 @@ MsgClose();
 ChOpen(7,254,0,2,0,#1,#1,0,0);
 VoicePlay("D010700600_07_040");
 MsgDisp("Mikage","Nobody is coming. Even if the two of us
-call it an extracurricular lesson... Yeah,
+call it an extracurricular lesson...Yeah,
 I guess we should cancel today?");
 MsgDisp("主人公","Ah, okay...
 I guess so.");
@@ -59,7 +59,7 @@ ChMotion(7,0);
 VoicePlay("D010700600_07_060");
 MsgDisp("Mikage","Oy!
 You're right!
-So... what about bowling?");
+So...what about bowling?");
 MsgDisp("主人公","Eh?");
 BGMStop();
 MsgClose();

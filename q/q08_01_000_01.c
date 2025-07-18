@@ -121,7 +121,7 @@ the UK.");
     MsgDisp("Kazama","Yes, and it would be meaningless without
 you.
 Right?");
-    MsgDisp("主人公","... Maybe, yeah.");
+    MsgDisp("主人公","...Maybe, yeah.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

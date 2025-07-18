@@ -1,7 +1,7 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Alright.
+MsgDisp("主人公","...Alright.
 Time to head home.");
 VoiceEVSPlay(1);
 VoicePlay("E010110000_01_000");

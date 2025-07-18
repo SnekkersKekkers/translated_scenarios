@@ -20,7 +20,7 @@ I'm already at my limit.");
 VoicePlay("B150400300_04_030");
 MsgDisp("Nanatsumori","You broke me.
 Get ready.");
-MsgDisp("主人公","Umm... sorry?");
+MsgDisp("主人公","Umm...sorry?");
 VoicePlay("B150400300_04_040");
 MsgDisp("Nanatsumori","Yeah, thats' even worse.
 It's just provoking meー.");
@@ -55,7 +55,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);
 VoicePlay("B150400300_04_090");
-MsgDisp("Nanatsumori","Next time... might really be no good.");
+MsgDisp("Nanatsumori","Next time...might really be no good.");
 MsgDisp("主人公","(What does he mean by no good...)");
 MsgClose();
 ScrFadeOut(0,0);

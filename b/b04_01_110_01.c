@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,4);
     ChCheek(1,7);
     VoicePlay("B040111001_01_010");
-    MsgDisp("Kazama","No, it's not weird. Not weird, but... It
-stands out. ... Just my opinion.");
+    MsgDisp("Kazama","No, it's not weird. Not weird, but...It
+stands out. ...Just my opinion.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

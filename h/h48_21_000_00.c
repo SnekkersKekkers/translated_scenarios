@@ -70,7 +70,7 @@ I'm fine...!");
     MsgDisp("Michiru","Geez. You're not fine at all. Here, give
 me your hand. And close your eyes.");
     MsgDisp("主人公","My hands?
-... Okay.");
+...Okay.");
     MsgClose();
     ScrFadeOut(0);
     VoicePlay("H482100000_21_060");
@@ -83,7 +83,7 @@ May the goddess of victory watch over her.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("H482100000_21_070");
-    MsgDisp("Michiru","... Well?
+    MsgDisp("Michiru","...Well?
 Are you feeling more relaxed?");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(｛みちる＊｝, thank you!

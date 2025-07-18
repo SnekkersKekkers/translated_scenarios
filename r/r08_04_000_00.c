@@ -45,7 +45,7 @@ BGMPlay("BGM_XMAS_TRHEE",0.01);
 EnvPlay("SE_ENV_BG_SC771_CO2",3,0.6);
 ScrFadeIn(0);
 VoicePlay("R080400000_04_040");
-MsgDisp("Nanatsumori","... Look over there.
+MsgDisp("Nanatsumori","...Look over there.
 Those city lights glowing in the distance.
 That is where I was born.");
 MsgDisp("主人公","Yeah, I believe you lived in the city next
@@ -122,7 +122,7 @@ StlEyeOpenLevel(4,5,1);
 VoicePlay("R080400000_04_160");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","So I always wanted to thank you properly.
-... Thank you, ｛主人公｝.");
+...Thank you, ｛主人公｝.");
 MsgDisp("主人公","｛七ツ森＊｝...");
 StlEye(4,1);
 StlMouth(4,1);

@@ -5,7 +5,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("T040620100_06_000");
-MsgDisp("Himuro","... Hey, do you remember?
+MsgDisp("Himuro","...Hey, do you remember?
 That time I taught Yanosuke-senpai and
 Mikage-sensei how to surf.");
 MsgClose();
@@ -21,7 +21,7 @@ Wait(120);
 ScrFadeIn(0);
 Wait(60);
 VoicePlay("T040620100_05_000");
-MsgDisp("Hiiragi","Phew... Even though I haven't actually
+MsgDisp("Hiiragi","Phew...Even though I haven't actually
 caught a wave yet, I already feel a
 strange sense of accomplishment.");
 StlEye(7,0);
@@ -45,12 +45,12 @@ MsgDisp("Mikage","Uhh...already?");
 StlEye(5,0);
 StlMouth(5,0);
 VoicePlay("T040620100_05_010");
-MsgDisp("Hiiragi","... Yes.
+MsgDisp("Hiiragi","...Yes.
 Inori-kun, I'll be in your care.");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("T040620100_07_020");
-MsgDisp("Mikage","Haaー,it's great to be young... but, I
+MsgDisp("Mikage","Haaー,it's great to be young...but, I
 still can't afford to lose, you know?");
 StlEye(6,0);
 StlMouth(6,0);

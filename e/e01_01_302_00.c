@@ -1,7 +1,7 @@
 BGOpen("wf210",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Alright.
+MsgDisp("主人公","...Alright.
 Time to head home.");
 SEPlay("EV_SE_597",0.3,0.2);
 Wait(100,0);

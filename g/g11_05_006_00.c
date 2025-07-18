@@ -109,7 +109,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","(｛柊＊＊＊｝... are you going to see me
+MsgDisp("主人公","(｛柊＊＊＊｝...are you going to see me
 anyways?)");
 BGMStop();
 MsgClose();

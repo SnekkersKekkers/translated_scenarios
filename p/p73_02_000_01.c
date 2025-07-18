@@ -41,7 +41,7 @@ You made it, and you're wearing it too?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P730200001_02_040");
-    MsgDisp("Sassa","How should I put it... it's like a
+    MsgDisp("Sassa","How should I put it...it's like a
 player-coach, like a playing manager,
 right?");
     MsgDisp("主人公","Umm...");

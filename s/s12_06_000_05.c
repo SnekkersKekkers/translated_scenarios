@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120600002_06_040");
-    MsgDisp("Himuro","... Were you fine being with me?
+    MsgDisp("Himuro","...Were you fine being with me?
 On the last New Years of your high school
 years.");
     MsgDisp("主人公","Eh, what do you mean?");
@@ -76,7 +76,7 @@ graduation ceremony.");
     ChMotion(6,0);
     VoicePlay("S120600002_06_130");
     MsgDisp("Himuro","Your graduation. I've been avoiding it for
-a while... But now I feel like I'm ready
+a while...But now I feel like I'm ready
 to let you go.");
     MsgDisp("主人公","｛氷室＊＊｝...");
     ChEye(6,0);

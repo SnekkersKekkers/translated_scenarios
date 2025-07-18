@@ -16,7 +16,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("G020410303_04_020");
-MsgDisp("Nanatsumori","Well... the worst part is that I showed up
+MsgDisp("Nanatsumori","Well...the worst part is that I showed up
 late today.");
 MsgDisp("主人公","You did?");
 ChEye(4,2);
@@ -37,7 +37,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020410303_04_050");
-MsgDisp("Nanatsumori","... I guess it can't be helped, huh.
+MsgDisp("Nanatsumori","...I guess it can't be helped, huh.
 I don't understand the feeling of wanting
 to pick up girls.");
 MsgDisp("主人公","?");

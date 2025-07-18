@@ -101,7 +101,7 @@ he would be surprised...");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040524102_05_120");
-        MsgDisp("Hiiragi","... Hm?
+        MsgDisp("Hiiragi","...Hm?
 Actually, I won't tell him after all.
 It would be a shame to tell others.");
         MsgDisp("主人公","Hehe, that's right.");
@@ -128,7 +128,7 @@ changed...
 Even when it's warm, milk is delicious.");
         MsgDisp("主人公","(Yeah, it was fun. From now on too, I hope
 I can do lots of different things with
-｛柊＊＊＊｝... )");
+｛柊＊＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

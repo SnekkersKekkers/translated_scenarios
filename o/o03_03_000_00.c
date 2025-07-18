@@ -67,7 +67,7 @@ from something else, now...");
     ChMotion(3,1);
     ChCheek(3,0);
     VoicePlay("O030300000_03_070");
-    MsgDisp("Honda","... I see.
+    MsgDisp("Honda","...I see.
 This is what's making my heart pound.
 Your smile is making my heart flutter.");
     MsgDisp("主人公","Eeeeehhh!!!");

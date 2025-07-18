@@ -37,7 +37,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D140B03400_04_010");
-MsgDisp("Nanatsumori","... Hey, do you have any left?
+MsgDisp("Nanatsumori","...Hey, do you have any left?
 Of the pound cake.");
 MsgDisp("主人公","Actually...
 I made enough for everyone!");
@@ -67,7 +67,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140B03400_01_040");
-MsgDisp("Kazama","Hmm... so when can we eat it?");
+MsgDisp("Kazama","Hmm...so when can we eat it?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

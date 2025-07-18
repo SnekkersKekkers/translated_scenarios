@@ -67,7 +67,7 @@ ChEye(5,3);
 ChMouth(5,2);
 ChCheek(5,5);
 VoicePlay("B360523600_05_080");
-MsgDisp("Hiiragi","Ah... excuse me.");
+MsgDisp("Hiiragi","Ah...excuse me.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChClose(5,0,30);

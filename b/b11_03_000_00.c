@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm... looks like ｛本多＊＊｝
+MsgDisp("主人公","Hm...looks like ｛本多＊＊｝
 isn't here yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -42,7 +42,7 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110300000_33_020");
-MsgDisp("Guy","W-What's with you... ugh.
+MsgDisp("Guy","W-What's with you...ugh.
 I can only handle one person at a time.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -55,7 +55,7 @@ If it's just one, you'll let me go first,
 right?");
 MsgDispSksp(0);
 MsgDisp("主人公","Huh?
-Sure... go ahead!");
+Sure...go ahead!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","The store is... yeah, seems fine.
+    MsgDisp("主人公","The store is...yeah, seems fine.
 Let's clean up soon.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
@@ -32,7 +32,7 @@ Here is your pear and custard tart.");
     ChMotion(4,0,1);
     VoicePlay("I360400004_04_020");
     MsgDisp("Nanatsumori","Thank you. ......");
-    MsgDisp("主人公","... Hm?
+    MsgDisp("主人公","...Hm?
 Is there something else I can help you
 with?");
     ChEye(4,0);
@@ -53,7 +53,7 @@ Pictures, pictures...");
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","The store is... yeah, seems fine.
+    MsgDisp("主人公","The store is...yeah, seems fine.
 Let's clean up soon.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
@@ -89,7 +89,7 @@ You didn't take a video, did yo-");
     ChMotion(4,1,1);
     VoicePlay("I360400004_04_090");
     MsgDisp("Nanatsumori","'Course not!
-... Geez.");
+...Geez.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("I360400004_04_100");

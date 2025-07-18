@@ -17,6 +17,6 @@ ChCheek(8,5);
 VoicePlay("B030811100_08_010");
 MsgDisp("Shirahane","I love it!
 Wanna hold hands and skate together?
-... Hehe!");
+...Hehe!");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

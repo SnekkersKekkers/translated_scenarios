@@ -9,7 +9,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B020202118_02_010");
 MsgDisp("Sassa","It sort of feels like you're an
-unobtainable celebrity... Like, out of my
+unobtainable celebrity...Like, out of my
 league? That's attractive.");
 MsgDisp("主人公","(I'm glad I picked this outfit.
 He seems to like it.)");

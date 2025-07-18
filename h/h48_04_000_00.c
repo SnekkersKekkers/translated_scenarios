@@ -14,7 +14,7 @@ Did you come to cheer me on?");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("H480400000_04_010");
-    MsgDisp("Nanatsumori","Ah... yeah?
+    MsgDisp("Nanatsumori","Ah...yeah?
 Yes, that's right.");
     MsgDisp("主人公","? Did something happen?");
     ChEye(4,4);
@@ -31,7 +31,7 @@ really sure where to look...");
     ChMotion(4,0,1);
     VoicePlay("H480400000_04_030");
     MsgDisp("Nanatsumori","Your visual score is already perfect.
-All that's left is... good luck with your
+All that's left is...good luck with your
 performance.");
     MsgDisp("主人公","(Alright, let's do our best!)");
     break ;
@@ -63,7 +63,7 @@ like that...");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("H480400000_04_080");
-    MsgDisp("Nanatsumori","Aah... sorry.
+    MsgDisp("Nanatsumori","Aah...sorry.
 But that's my honest opinion.
 I feel like I can already see you winning.");
     MsgDisp("主人公","Hehe, really?

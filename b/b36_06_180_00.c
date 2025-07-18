@@ -90,7 +90,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360618000_06_110");
-MsgDisp("Himuro","... The movie's about to start.
+MsgDisp("Himuro","...The movie's about to start.
 Be quiet.");
 MsgDisp("主人公","(Hey...!)");
 BGMStop();

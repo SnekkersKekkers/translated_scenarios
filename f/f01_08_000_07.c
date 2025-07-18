@@ -68,7 +68,7 @@ Haha!");
         ChMouth(8,0);
         ChMotion(8,2,1);
         VoicePlay("F010800007_08_060");
-        MsgDisp("Shirahane","Y'know, this... it feels a little
+        MsgDisp("Shirahane","Y'know, this...it feels a little
 luxurious, right?");
         break ;
         default :
@@ -121,7 +121,7 @@ Well, later.");
         ChMouth(8,0);
         ChMotion(8,0,1);
         VoicePlay("F010800007_08_100");
-        MsgDisp("Shirahane","... That was a joke.
+        MsgDisp("Shirahane","...That was a joke.
 Well, another time.");
         MsgClose();
         BGMStop();

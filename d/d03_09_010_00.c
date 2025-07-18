@@ -23,7 +23,7 @@ ChEyeOpenLevel(9,0);
 VoicePlay("D030901000_09_010");
 MsgDisp("Kuya","It's been a while, huh?");
 MsgDisp("主人公","Yeah.
-It's been a while... but...");
+It's been a while...but...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

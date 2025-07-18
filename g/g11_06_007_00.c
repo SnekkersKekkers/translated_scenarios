@@ -16,7 +16,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("G110600700_06_010");
-MsgDisp("Himuro","No... yes, I'm going to the beach.
+MsgDisp("Himuro","No...yes, I'm going to the beach.
 I guess you're coming?");
 MsgDisp("主人公","Ah, yes!");
 SEStop("EV_SE_SCHOOL_002",2);

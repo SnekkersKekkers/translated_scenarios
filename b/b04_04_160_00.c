@@ -6,7 +6,7 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040416000_04_000");
-MsgDisp("Nanatsumori","... So.
+MsgDisp("Nanatsumori","...So.
 What shall we do?");
 MsgSel("Let's take on the medal game!","How about we try the quiz game?","Shall we try getting our compatibility read?");
 switch (MsgSelRsltGet()){

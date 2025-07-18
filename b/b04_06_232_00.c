@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(6,255,2,0,0,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623200_06_000");
-MsgDisp("Himuro","Haa... it's finally over.");
+MsgDisp("Himuro","Haa...it's finally over.");
 MsgSel("We were able to enjoy a beautiful view♪","It was so nice I began to feel sleepy...","It was high, cramped and scary...");
 switch (MsgSelRsltGet()){
     case 0:

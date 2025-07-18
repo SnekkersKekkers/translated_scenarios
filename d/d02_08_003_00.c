@@ -11,7 +11,7 @@ MsgDisp("Shirahane","Cheers...
 No, thank you very much!");
 SEStop("EV_SE_589",1);
 MsgDisp("主人公","Thank you very much!
-... Hehe!");
+...Hehe!");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,4,1);

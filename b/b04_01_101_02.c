@@ -94,7 +94,7 @@ It's like, in a good way, you know.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,0);
         VoicePlay("B040110102_01_070");
-        MsgDisp("Kazama","... I'm saying our ancestors must have
+        MsgDisp("Kazama","...I'm saying our ancestors must have
 been just like this.");
         ChEye(1,2);
         ChMouth(1,0);

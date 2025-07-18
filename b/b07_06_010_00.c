@@ -56,7 +56,7 @@ ChEye(6,2);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B070601000_06_070");
-MsgDisp("Himuro","Haa... looks like it was stupid of me to
+MsgDisp("Himuro","Haa...looks like it was stupid of me to
 worry about it for that long.");
 MsgDisp("主人公","T-That's not what I——");
 ChEye(6,1);

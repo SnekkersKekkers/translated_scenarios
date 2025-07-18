@@ -117,7 +117,7 @@ You know?");
     VoicePlay("I350200000_02_110");
     MsgDisp("Sassa","Ah, I think there was an experiment about
 this involving dogs.");
-    MsgDisp("主人公","Um... There are other customers at the
+    MsgDisp("主人公","Um...There are other customers at the
 entrance here. Come this way.");
     ChEye(2,0);
     ChMouth(2,4);

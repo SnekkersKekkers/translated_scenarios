@@ -32,7 +32,7 @@ See you there soon.");
     VoicePlay("U012200002_22_030");
     MsgDisp("Hikaru","Fine then～
 You busy dummy!
-... Sniff.");
+...Sniff.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(She took the time to invite me...

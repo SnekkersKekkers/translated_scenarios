@@ -34,7 +34,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_200");
 MsgDisp("Mikage","No matter how cute you are, no matter how
-pretty you are, if you're boring... you're
+pretty you are, if you're boring...you're
 boring.");
 MsgDisp("主人公","Umm...
 Yes.");

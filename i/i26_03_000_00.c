@@ -18,7 +18,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     Wait(40);
     VoicePlay("I260300000_03_010");
-    MsgDisp("Honda","... Phew, thank goodness.
+    MsgDisp("Honda","...Phew, thank goodness.
 I told you I'd take care of the heavy
 stuff, right?");
     MsgDisp("主人公","｛本多＊＊｝, thanks...
@@ -68,7 +68,7 @@ I made ｛本多＊＊｝ worry.)");
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_060");
     MsgDisp("Honda","What do you mean?
-... Ah, a customer.
+...Ah, a customer.
 Welcome!");
     ChEye(3,0);
     ChMouth(3,3);

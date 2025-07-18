@@ -1,7 +1,7 @@
 BGOpen("wf200",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Alright.
+MsgDisp("主人公","...Alright.
 Time to head home.
 Huh, is that...");
 VoicePlay("E010130100_03_000");
@@ -45,7 +45,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010130100_01_020");
-MsgDisp("Kazama","... Hmm?
+MsgDisp("Kazama","...Hmm?
 You, just now, that was a bit of a funny
 reaction, wasn't it?");
 MsgDisp("主人公","No, not at all.

@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm... looks like ｛本多＊＊｝
+MsgDisp("主人公","Hm...looks like ｛本多＊＊｝
 isn't here yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -87,5 +87,5 @@ VoicePlay("B110300002_03_040");
 MsgDisp("Honda","No, it's my fault.
 Because I was late the gold jacket guy
 showed up.");
-MsgDisp("主人公","(｛本多＊＊｝... somehow, you were really
+MsgDisp("主人公","(｛本多＊＊｝...somehow, you were really
 reliable.)");

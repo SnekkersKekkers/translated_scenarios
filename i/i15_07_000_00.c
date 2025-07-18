@@ -81,7 +81,7 @@ purchase.");
     ChMouth(7,4);
     ChMotion(7,0);
     VoicePlay("I150700000_07_070");
-    MsgDisp("Mikage","You... when was it that you became so good
+    MsgDisp("Mikage","You...when was it that you became so good
 at business...");
     ChEye(7,2);
     ChMouth(7,0);

@@ -32,7 +32,7 @@ VoicePlay("B040406401_04_040");
 MsgDisp("Nanatsumori","It's alright.
 I can dodge it just by saying \"I'm in the
 middle of work right now\".");
-MsgDisp("主人公","I see... then, what is it now?");
+MsgDisp("主人公","I see...then, what is it now?");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

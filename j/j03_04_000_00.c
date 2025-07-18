@@ -3,7 +3,7 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     VoicePlay("J030400000_04_000");
-    MsgDisp("Nanatsumori","Well... it's fine.");
+    MsgDisp("Nanatsumori","Well...it's fine.");
     MsgDisp("主人公","Okay then, on ｛日付｝
 I'll be waiting for you at
 ｛待ち合わせ場所｝!");

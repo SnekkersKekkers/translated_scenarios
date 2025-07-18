@@ -47,7 +47,7 @@ ChEyeOpenLevel(1,8);
 ChMouthOpenLevel(1,0);
 VoicePlay("B330A20801_01_000");
 MsgDisp("Kazama","......");
-MsgDisp("主人公","Umm... what's up with you two?");
+MsgDisp("主人公","Umm...what's up with you two?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);
@@ -99,7 +99,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20801_01_040");
 MsgDisp("Kazama","Shut up.");
-MsgDisp("主人公","Umm... we can ride as four people on the
+MsgDisp("主人公","Umm...we can ride as four people on the
 ferris wheel?");
 ChEyeOpenLevel(2,#1);
 ChEye(1,0);
@@ -163,7 +163,7 @@ SEPlay("EV_SE_856");
 ChClose(1,0,30);
 ChClose(6,0,30);
 MsgDisp("主人公","(???
-Everyone is having fun... right?)");
+Everyone is having fun...right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

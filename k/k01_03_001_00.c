@@ -73,7 +73,7 @@ It feels special.");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("K010300100_03_070");
-    MsgDisp("Honda","... Da, you found me out.
+    MsgDisp("Honda","...Da, you found me out.
 I'll admit it, I've been waiting for you
 all day today.");
     MsgDisp("主人公","Hehe, because it's your birthday?

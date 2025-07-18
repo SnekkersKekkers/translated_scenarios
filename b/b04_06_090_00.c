@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040609000_06_010");
-    MsgDisp("Himuro","Which one... Ah, it really is. Not too
+    MsgDisp("Himuro","Which one...Ah, it really is. Not too
 sweet, there's a refreshing feeling to it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

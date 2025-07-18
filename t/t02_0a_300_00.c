@@ -173,9 +173,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020A30000_06_040");
-MsgDisp("Himuro","But, as for you and Nozomu-senpai... haa,
+MsgDisp("Himuro","But, as for you and Nozomu-senpai...haa,
 never mind.");
-MsgDisp("主人公","Ah... sorry ｛氷室＊＊｝.");
+MsgDisp("主人公","Ah...sorry ｛氷室＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);

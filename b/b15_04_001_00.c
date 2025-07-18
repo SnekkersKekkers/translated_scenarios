@@ -53,13 +53,13 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B150400100_04_070");
-MsgDisp("Nanatsumori","... No, it's my fault for not being able
+MsgDisp("Nanatsumori","...No, it's my fault for not being able
 to convey what I wanted properly.
-Sorry... later then.");
+Sorry...later then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
 MsgDisp("主人公","(Seems like I worried
-｛七ツ森＊｝... )");
+｛七ツ森＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

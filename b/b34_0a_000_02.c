@@ -40,6 +40,6 @@ ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B340A00002_06_010");
 MsgDisp("Himuro","Huh?
-... Alright, I'll see you guys later!");
+...Alright, I'll see you guys later!");
 MsgClose();
 SEPlay("EV_SE_856",0,0.6);

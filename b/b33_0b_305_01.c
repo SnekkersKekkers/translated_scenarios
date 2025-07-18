@@ -32,7 +32,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330B30501_01_010");
-MsgDisp("Kazama","Today was... good.");
+MsgDisp("Kazama","Today was...good.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);

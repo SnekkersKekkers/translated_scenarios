@@ -8,7 +8,7 @@ ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200022_32_010");
 MsgDisp("VP Himuro","Next is a \"slide\". Touch and slide.
-Tickling, snuggling... Things that will
+Tickling, snuggling...Things that will
 make them pay attention to you.");
 ChEye(32,0);
 ChMouth(32,0);

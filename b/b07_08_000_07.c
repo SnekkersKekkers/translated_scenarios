@@ -19,7 +19,7 @@ ChMotion(8,0,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("B070800000_08_360");
 MsgDisp("Shirahane","But I can't think of anything in the
-future. Well more accurately... I can't
+future. Well more accurately...I can't
 see it.");
 ChEye(8,2);
 ChMouth(8,0);

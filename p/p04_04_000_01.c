@@ -12,7 +12,7 @@ ChMouth(4,1);
 ChMotion(4,5,1);
 VoicePlay("P040400001_04_010");
 MsgDisp("Nanatsumori","Bitter!");
-MsgDisp("主人公","Um... what is it?");
+MsgDisp("主人公","Um...what is it?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

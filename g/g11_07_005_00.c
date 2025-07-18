@@ -1,6 +1,6 @@
 BGOpen("sc210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","... Hey?
+MsgDisp("主人公","...Hey?
 It looks like someones in the gardening
 club's fields.");
 MsgClose();

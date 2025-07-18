@@ -45,7 +45,7 @@ call her that.)");
     BGMPlay("BGM_C22_HIKARU_A",0.01);
     ChOpen(22,254,0,4,2,#1,#1,0,0);
     VoicePlay("F012200001_22_030");
-    MsgDisp("Hikaru","Just now... did you call for Hikaru?");
+    MsgDisp("Hikaru","Just now...did you call for Hikaru?");
     MsgDisp("主人公","Yes.
 Was it bad?");
     ChEye(22,2);

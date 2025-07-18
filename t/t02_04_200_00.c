@@ -10,7 +10,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("T020420000_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
-MsgDisp("主人公","｛七ツ森＊｝... !");
+MsgDisp("主人公","｛七ツ森＊｝...!");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -37,7 +37,7 @@ ChMotion(4,0,1);
 VoicePlay("T020420000_04_040");
 MsgDisp("Nanatsumori","Kazama and Dahon.
 I mean, we always hung out together right?");
-MsgDisp("主人公","Ah... yes.
+MsgDisp("主人公","Ah...yes.
 That's right.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -61,7 +61,7 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_080");
-MsgDisp("Nanatsumori","... They gave me the push I needed when I
+MsgDisp("Nanatsumori","...They gave me the push I needed when I
 was feeling shy.
 And now I'm here.");
 MsgClear();

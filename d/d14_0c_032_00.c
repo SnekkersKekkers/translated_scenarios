@@ -18,7 +18,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C03200_06_000");
 MsgDisp("Himuro","Yes.
-... Is there something wrong with that?");
+...Is there something wrong with that?");
 ChEye(5,3);
 ChMouth(5,2);
 ChEye(7,0);

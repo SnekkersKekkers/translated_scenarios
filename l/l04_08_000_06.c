@@ -6,7 +6,7 @@ switch (ChPrmGet(8,6)){
     ChMouth(8,4);
     ChEyeOpenLevel(8,10);
     VoicePlay("L040800006_08_000");
-    MsgDisp("Shirahane","This is... handmade, right?");
+    MsgDisp("Shirahane","This is...handmade, right?");
     MsgDisp("主人公","Yeah.
 I tried my best, but I couldn't do it very
 well...");
@@ -48,7 +48,7 @@ I wish I had tried a little harder...)");
     ChEyeOpenLevel(8,10);
     ChCheek(8,8);
     VoicePlay("L040800006_08_050");
-    MsgDisp("Shirahane","Handmade... chocolate, right?");
+    MsgDisp("Shirahane","Handmade...chocolate, right?");
     MsgDisp("主人公","Yeah.
 But, it didn't go very well...
 Sorry.");

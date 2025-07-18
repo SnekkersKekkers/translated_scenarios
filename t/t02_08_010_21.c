@@ -10,7 +10,7 @@ ChCheek(8,10);
 MsgDisp("Shirahane","Hey...
 Ehh-∋");
 MsgDisp("主人公","This is my answer.
-... Did you get it?");
+...Did you get it?");
 VoicePlay("T020801000_08_250");
 ChEye(8,0);
 ChMouth(8,4);
@@ -33,7 +33,7 @@ ChEye(8,3);
 ChMouth(8,4);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,10);
-MsgDisp("Shirahane","... This is no laughing matter!
+MsgDisp("Shirahane","...This is no laughing matter!
 Let me at least wrap up the happy ending.");
 BGMStop(2.8);
 MsgClear();

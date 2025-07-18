@@ -30,7 +30,7 @@ VoicePlay("P640300005_03_030");
 MsgDisp("Honda","Yeah. The vegetables themselves are sweet
 and delicious. I'll buy some to take home
 as a souvenir.");
-MsgDisp("主人公","(Haa... seems like I was neglectful in
+MsgDisp("主人公","(Haa...seems like I was neglectful in
 researching preparation methods.
 I failed.)");
 MsgClose();

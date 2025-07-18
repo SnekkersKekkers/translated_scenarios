@@ -103,7 +103,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(9);
 MsgDisp("主人公","(He's gone.
-... Ah, I forgot to thank him!)");
+...Ah, I forgot to thank him!)");
 MsgSel("Get his name","Let him go");
 switch (MsgSelRsltGet()){
     case 0:

@@ -27,7 +27,7 @@ high school model Nana...");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("B040801102_08_020");
-    MsgDisp("Shirahane","I see... that's right!
+    MsgDisp("Shirahane","I see...that's right!
 I also like this place, so I should just
 enjoy it earnestly!");
     MsgDispSksp(1,0);

@@ -19,7 +19,7 @@ I guess I shouldn't call him that...)");
     ChMotion(1,1);
     VoicePlay("F010100001_01_010");
     MsgDisp("Kazama","What's up with that?
-... Geez.");
+...Geez.");
     MsgDisp("主人公","(It doesn't seem like he likes being
 called this.)");
     break ;

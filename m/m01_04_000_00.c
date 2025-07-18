@@ -31,7 +31,7 @@ MsgDisp("主人公","｛七ツ森＊｝, thank you.");
 ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("M010400000_04_030");
-MsgDisp("Nanatsumori","... That's good.
+MsgDisp("Nanatsumori","...That's good.
 Your color looks alright and all.
 You can talk, too.");
 ChEye(4,0);

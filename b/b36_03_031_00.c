@@ -10,7 +10,7 @@ ChMotion(3,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360303100_03_000");
-MsgDisp("Honda","... Phew, finally we're alone.
+MsgDisp("Honda","...Phew, finally we're alone.
 I couldn't talk much when we were with
 everyone else.");
 MsgDisp("主人公","Oh, really?");
@@ -61,7 +61,7 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B360303100_03_070");
 MsgDisp("Honda","But there are other answers too.
-... Maybe we'll cover that next time?");
+...Maybe we'll cover that next time?");
 MsgDisp("主人公","Next time?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -70,7 +70,7 @@ VoicePlay("B360303100_03_080");
 MsgDisp("Honda","Yep!
 If we keep some topics for later, we can
 come back to the aquarium together again.");
-MsgDisp("主人公","Ah... haha!
+MsgDisp("主人公","Ah...haha!
 I'll look forward to it!");
 ChMouth(3,3);
 ChMouth(3,3);

@@ -79,7 +79,7 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("Q100B00000_04_030");
 MsgDisp("Nanatsumori","I don't eat noodles.
-... It does sound yummy though.");
+...It does sound yummy though.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3,1);
@@ -139,7 +139,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("Q100B00000_03_050");
-MsgDisp("Honda","Meh... Well, fine! But if I get hungry,
+MsgDisp("Honda","Meh...Well, fine! But if I get hungry,
 I'll go eat champon noodles on my own.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -152,7 +152,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("Q100B00000_04_070");
-MsgDisp("Nanatsumori","Sigh... why are you all interested in
+MsgDisp("Nanatsumori","Sigh...why are you all interested in
 noodles...");
 ChEye(3,0);
 ChMouth(3,3);

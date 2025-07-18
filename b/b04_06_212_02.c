@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,5);
     VoicePlay("B040621202_06_010");
     MsgDisp("Himuro","Are you that happy with it?
-... Well, I don't mind.");
+...Well, I don't mind.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -55,7 +55,7 @@ switch (MsgSelRsltGet()){
         ChMotion(6,0);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040621202_06_040");
-        MsgDisp("Himuro","... I don't really need it.
+        MsgDisp("Himuro","...I don't really need it.
 But since we're here, I'll gratefully
 receive it.");
         ChEye(6,0);
@@ -84,7 +84,7 @@ I'm fine with any.");
         ChMotion(6,0);
         ChCheek(6,0);
         VoicePlay("B040621202_06_080");
-        MsgDisp("Himuro","Eh... huh?");
+        MsgDisp("Himuro","Eh...huh?");
         MsgDisp("主人公","Yeah, for some reason it looks like
 ｛氷室＊＊｝ I guess?");
         ChEye(6,0);

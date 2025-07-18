@@ -11,7 +11,7 @@ BGMPlay("BGM_C08_DAICHI_B",0.01);
 Wait(60,0);
 ChEye(8,4);
 VoicePlay("B070801000_08_000");
-MsgDisp("Shirahane","... Hey.
+MsgDisp("Shirahane","...Hey.
 Can I ask ya something seriously?");
 MsgDisp("主人公","Hm?");
 ChMouth(8,0);

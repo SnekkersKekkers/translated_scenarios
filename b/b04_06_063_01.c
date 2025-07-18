@@ -24,7 +24,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040606301_06_020");
     MsgDisp("Himuro","You're welcome.
-... Well, I'll help you even if you were
+...Well, I'll help you even if you were
 to fall.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

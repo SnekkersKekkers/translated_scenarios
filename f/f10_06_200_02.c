@@ -2,7 +2,7 @@ BGOpen("sc500",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Alright, it's about time to head home.
-... Huh?)");
+...Huh?)");
 VoicePlay("F100620002_06_000");
 MsgDisp("Himuro?","I don't want to stand in line again...");
 VoicePlay("F100620002_03_000");
@@ -34,7 +34,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100620002_06_020");
-MsgDisp("Himuro","Haa... It just so happened that the
+MsgDisp("Himuro","Haa...It just so happened that the
 instant noodles I eat were a collaboration
 product with that store..");
 ChEye(3,3);

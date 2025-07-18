@@ -48,7 +48,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,4,1);
 VoicePlay("F100440002_04_030");
-MsgDisp("Nanatsumori","That's... a secret.");
+MsgDisp("Nanatsumori","That's...a secret.");
 ChMotion(4,0,1);
 ChEye(3,0);
 ChMouth(3,0);

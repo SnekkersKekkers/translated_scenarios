@@ -24,7 +24,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("G020220300_02_030");
 MsgDisp("Sassa","Seriously?
-But that's... just how Firefly You feels,
+But that's...just how Firefly You feels,
 right?");
 MsgDisp("主人公","Oh, probably.");
 ChEye(2,0);

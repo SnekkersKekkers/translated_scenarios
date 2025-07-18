@@ -32,7 +32,7 @@ It seriously suits you, it's pretty.");
     VoicePlay("P730400001_04_020");
     MsgDisp("Nanatsumori","All that's left is to walk well on the
 runway?");
-    MsgDisp("主人公","Ugh... that's pressureー...");
+    MsgDisp("主人公","Ugh...that's pressureー...");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(4,3);
@@ -71,7 +71,7 @@ I like it but...)");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P730400001_04_060");
-    MsgDisp("Nanatsumori","Ah... sorry for saying it like that.
+    MsgDisp("Nanatsumori","Ah...sorry for saying it like that.
 It's very beautiful.");
     MsgDisp("主人公","Really?
 Thank you!");

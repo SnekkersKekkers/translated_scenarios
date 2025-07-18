@@ -17,7 +17,7 @@ BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110100800_01_000");
-MsgDisp("Kazama","... Right.
+MsgDisp("Kazama","...Right.
 There was something I wanted to talk to
 you about...");
 MsgDisp("主人公","What is it?");
@@ -27,7 +27,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100800_01_010");
-MsgDisp("Kazama","... What is it?
+MsgDisp("Kazama","...What is it?
 Well, it was probably something trivial.");
 MsgDisp("主人公","Eh, did you forget?");
 ChEye(1,0);

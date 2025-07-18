@@ -41,7 +41,7 @@ ChMouth(8,4);
 ChMotion(8,2,1);
 ChCheek(8,5);
 VoicePlay("E010810000_08_040");
-MsgDisp("Shirahane","Then... would you like to come over to my
+MsgDisp("Shirahane","Then...would you like to come over to my
 place and eat?");
 MsgDisp("主人公","...Eh?");
 ChEye(8,3);

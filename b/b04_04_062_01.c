@@ -5,7 +5,7 @@ ChMouth(4,4);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040406201_04_000");
-MsgDisp("Nanatsumori","Oh... it's super pretty from this angle.
+MsgDisp("Nanatsumori","Oh...it's super pretty from this angle.
 I wonder if I can take a good one.");
 MsgSel("If it's ｛七ツ森＊｝, he can do it!","Burn it in your mind's eye instead of taking a picture!","Quantity wins!");
 switch (MsgSelRsltGet()){

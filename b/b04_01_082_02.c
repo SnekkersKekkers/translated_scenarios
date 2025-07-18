@@ -47,7 +47,7 @@ thinking.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108202_01_030");
         MsgDisp("Kazama","What do you mean, feel better.
-... Sheesh, I'm not the type to do that.");
+...Sheesh, I'm not the type to do that.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -71,8 +71,7 @@ Well, I guess you didn't know, did you?");
         ChMotion(1,2);
         ChEyeOpenLevel(1,9);
         VoicePlay("B040108202_01_060");
-        MsgDisp("Kazama","But... in a way, I'm a little pleased,
-too.");
+        MsgDisp("Kazama","But...in a way, I'm a little pleased, too.");
         ChEyeOpenLevel(1,0);
         MsgDisp("主人公","Huh?");
         ChEye(1,2);

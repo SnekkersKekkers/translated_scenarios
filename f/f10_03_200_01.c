@@ -67,7 +67,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ChPosition(3,1);
 VoicePlay("F100320001_03_030");
-MsgDisp("Honda","... Why would I cut your hair?
+MsgDisp("Honda","...Why would I cut your hair?
 Right?");
 MsgDisp("主人公","Y-Yeah.
 Look, the afternoon bell is about to ring!");

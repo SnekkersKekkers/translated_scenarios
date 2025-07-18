@@ -57,7 +57,7 @@ Thanks for inviting me.");
     ChMouth(5,2);
     ChEyeOpenLevel(5,#1);
     VoicePlay("Q080500000_05_050");
-    MsgDisp("Hiiragi","Oh... wait.
+    MsgDisp("Hiiragi","Oh...wait.
 Actually, not satisfied.");
     MsgDisp("主人公","Eh?");
     ChEye(5,3);

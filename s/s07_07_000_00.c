@@ -61,7 +61,7 @@ January or so?");
     ChMotion(7,0);
     VoicePlay("S070700000_07_070");
     MsgDisp("Mikage","Don't even think about that today.
-... You'll spoil the fun.");
+...You'll spoil the fun.");
     ChEye(7,0);
     ChMouth(7,3);
     VoicePlay("S070700000_07_080");

@@ -20,7 +20,7 @@ ChMotion(31,3);
 VoicePlay("P833100001_31_010");
 MsgDisp("Goro","I want you to show me around.
 Is that no good?");
-MsgDisp("主人公","Ah... yes!
+MsgDisp("主人公","Ah...yes!
 If you're fine with me, then absolutely!");
 MsgClose();
 ScrFadeOut(0);

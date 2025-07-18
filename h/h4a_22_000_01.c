@@ -12,7 +12,7 @@ switch (ChPrmGet(22,6)){
     ScrFadeIn(0);
     VoicePlay("H4A2200001_22_000");
     MsgDisp("Hikaru","Aah～, we were so close to winning～...");
-    MsgDisp("主人公","Haa... it's frustrating.");
+    MsgDisp("主人公","Haa...it's frustrating.");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H4A2200001_22_010");
@@ -57,10 +57,10 @@ else...");
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H4A2200001_22_060");
-    MsgDisp("Hikaru","... Haa, let's cheer up.
+    MsgDisp("Hikaru","...Haa, let's cheer up.
 Everyone did their best after all.
 Good work, Mari!");
-    MsgDisp("主人公","(｛ひかる＊｝... we didn't win, but I'm
+    MsgDisp("主人公","(｛ひかる＊｝...we didn't win, but I'm
 glad I stayed in the rhythmic gymnastics
 club...)");
     break ;

@@ -53,7 +53,7 @@ VoicePlay("B330C20500_07_010");
 MsgDisp("Mikage","Uh— h-how is it, like this?");
 VoicePlay("B330C20500_06_030");
 MsgDisp("Himuro","More.
-... Yeah, like that.");
+...Yeah, like that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.6);
 ChClose(5);

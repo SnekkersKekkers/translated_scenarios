@@ -90,7 +90,7 @@ end up shallowー This is truly my fault.");
         MsgDisp("Honda","Today, let's take our time going through
 each one in order and exhausting
 everything I have to say. Okay, since it's
-been decided... Let's go!");
+been decided...Let's go!");
         MsgDisp("主人公","(Ehh!
 Right nowー∋)");
         break ;

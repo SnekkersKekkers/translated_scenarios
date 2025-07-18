@@ -21,7 +21,7 @@ VoicePlay("P640200003_02_020");
 MsgDisp("Sassa","I thought so. In a way I'm relieved. It
 would be troubling if you thought this was
 delicious.");
-MsgDisp("主人公","Umm... was it not delicious?");
+MsgDisp("主人公","Umm...was it not delicious?");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -41,7 +41,7 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("P640200003_02_050");
-MsgDisp("Sassa","Haa... don't worry about that.
+MsgDisp("Sassa","Haa...don't worry about that.
 Check the recipe in the kitchen.
 I'm going t drink some other juice...");
 MsgClose();

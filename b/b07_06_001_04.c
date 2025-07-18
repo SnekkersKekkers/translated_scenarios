@@ -55,7 +55,7 @@ VoicePlay("B070600001_06_310");
 MsgDisp("Himuro","Because it's talk between men.
 That's all.");
 MsgDisp("主人公","(Talk between men...
-I'm a bit... no, I'm quite curious.)");
+I'm a bit...no, I'm quite curious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

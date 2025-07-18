@@ -16,7 +16,7 @@ ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 ChCheek(1,6);
 VoicePlay("T020120000_01_380");
-MsgDisp("Kazama","... Hey, what should I tell Inori and
+MsgDisp("Kazama","...Hey, what should I tell Inori and
 Sassa?
 About your kiss.");
 MsgDisp("主人公","Ah, you don't need to tell them about

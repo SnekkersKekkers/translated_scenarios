@@ -19,8 +19,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B360107001_01_010");
 MsgDisp("Kazama","Eh, t-that's fine.
-... I have a bad feeling about this.");
-MsgDisp("主人公","Hehe... then, I'll see you later?");
+...I have a bad feeling about this.");
+MsgDisp("主人公","Hehe...then, I'll see you later?");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
 Wait(30,1);

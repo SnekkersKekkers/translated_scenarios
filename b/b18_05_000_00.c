@@ -8,7 +8,7 @@ VoiceEVSPlay(5);
 VoicePlay("B180500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
 MsgDisp("主人公","Hm?
-... Huh?");
+...Huh?");
 ChMotion(5,4);
 ChCheek(5,7);
 VoicePlay("B180500000_05_010");

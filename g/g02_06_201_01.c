@@ -85,7 +85,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620101_06_120");
-MsgDisp("Himuro","Yeah, I got it. but... it made me happy.");
+MsgDisp("Himuro","Yeah, I got it. but...it made me happy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

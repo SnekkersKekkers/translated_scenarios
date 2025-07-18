@@ -13,7 +13,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220021_02_010");
-MsgDisp("Sassa","Seriously... will you continue to run with
+MsgDisp("Sassa","Seriously...will you continue to run with
 me from now on?");
 MsgDisp("主人公","Yes!
 Let's try to achieve ｛颯砂＊＊｝'s

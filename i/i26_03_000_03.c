@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_330");
-    MsgDisp("Honda","... Hm?
+    MsgDisp("Honda","...Hm?
 Do you know what happened to the box that
 was here?");
     MsgDisp("主人公","Ah, I opened it and put the contents on
@@ -24,7 +24,7 @@ the shelf.");
     MsgDisp("Honda","Huh?
 Didn't I mention that those books were
 going to be returned?");
-    MsgDisp("主人公","Ah... now that you mention it.
+    MsgDisp("主人公","Ah...now that you mention it.
 I'm sorry!");
     ChEye(3,4);
     ChMouth(3,3);

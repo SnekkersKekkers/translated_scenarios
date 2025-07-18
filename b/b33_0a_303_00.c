@@ -20,7 +20,7 @@ MsgDisp("Kazama","I came to do some personal shopping today.
 See you then.");
 VoicePlay("B330A30300_47_010");
 MsgDisp("Woman Customer A","Ehhh～,you're leaving?");
-MsgDisp("主人公","｛風真＊＊｝... is super popular
+MsgDisp("主人公","｛風真＊＊｝...is super popular
 huh.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -75,7 +75,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A30300_01_010");
 MsgDisp("Kazama","Sorry. Sassa and Inori helped me out
-but... Inori basically got caught in the
+but...Inori basically got caught in the
 second half right?");
 ChEye(6,2);
 ChMouth(6,0);

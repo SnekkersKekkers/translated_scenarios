@@ -44,8 +44,8 @@ ChMotion(4,2,1);
 VoicePlay("F020400013_04_050");
 MsgDisp("Nanatsumori","The contrast between the yellow and the
 brown, the soft and smooth texture, the
-light sweetness... ah, I can't wait.");
-MsgDisp("主人公","(Uh huh... Is
+light sweetness...ah, I can't wait.");
+MsgDisp("主人公","(Uh huh...Is
 ｛七ツ森＊｝ really
 interested in the whole shape of the
 castella?)");

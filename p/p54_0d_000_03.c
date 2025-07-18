@@ -4,7 +4,7 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa... what a massive fail...)");
+MsgDisp("主人公","(Haa...what a massive fail...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
 ChOpen(21,254,4,4,4,#1,#1,0,1);

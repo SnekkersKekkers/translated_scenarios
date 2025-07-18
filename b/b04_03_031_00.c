@@ -46,7 +46,7 @@ they see far surpasses our imagination.");
     MsgDisp("Honda","From behind the rocks? Maybe it's a type
 of rockfish? Black rockfish, fat
 greenling, red-spotted grouper, longtooth
-grouper... There are many high-quality
+grouper...There are many high-quality
 fish.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

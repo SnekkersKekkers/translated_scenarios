@@ -69,7 +69,7 @@ Thank you.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040614002_06_070");
-        MsgDisp("Himuro","I... would also be happy if the CD sparked
+        MsgDisp("Himuro","I...would also be happy if the CD sparked
 a conversation on this same topic.");
         MsgDisp("主人公","Hehe, yeah!");
         break ;
@@ -85,7 +85,7 @@ a conversation on this same topic.");
     ChMotion(6,0);
     VoicePlay("B040614002_06_080");
     MsgDisp("Himuro","It definitely felt like a challenge.
-... But, I think I like it.");
+...But, I think I like it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

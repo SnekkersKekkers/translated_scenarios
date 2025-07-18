@@ -50,7 +50,7 @@ But I still wanted to win.");
     MsgDisp("Sassa","That's good. With that determination,
 victory is sure to come. Let's do our best
 until the end.");
-    MsgDisp("主人公","(Haa... How frustrating. But, like
+    MsgDisp("主人公","(Haa...How frustrating. But, like
 ｛颯砂＊＊｝ said, let's do our
 best until the end of the sports
 festival.)");

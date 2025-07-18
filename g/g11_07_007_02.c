@@ -59,7 +59,7 @@ VoicePlay("G110700702_07_050");
 MsgDisp("Mikage","Am I the shearing specialist now?");
 MsgDisp("主人公","(Hehe, I want to go to the ranch now
 instead of interviewing
-｛御影＊＊｝... )");
+｛御影＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

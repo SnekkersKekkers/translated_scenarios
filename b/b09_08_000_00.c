@@ -7,7 +7,7 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090800000_08_000");
 MsgDisp("Shirahane","Hello, it's me.
-... What's wrong?
+...What's wrong?
 I'm worried.");
 MsgDisp("主人公","Eh, ｛大地＊＊｝?");
 VoicePlay("B090800000_08_010");

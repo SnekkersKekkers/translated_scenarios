@@ -68,7 +68,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600200_06_070");
-MsgDisp("Himuro","Then... did other guys receive any?
+MsgDisp("Himuro","Then...did other guys receive any?
 Homemade chocolates that is.");
 MsgDisp("主人公","As for handmade chocolates, I only gave
 them to ｛氷室＊＊｝?");
@@ -100,7 +100,7 @@ ChMouth(6,1);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600200_06_110");
-MsgDisp("Himuro","Well... yeah.
+MsgDisp("Himuro","Well...yeah.
 Then next year too...");
 MsgDisp("主人公","Hm?");
 ChEye(6,1);

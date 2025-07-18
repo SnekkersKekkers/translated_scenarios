@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040101001_01_010");
-    MsgDisp("Kazama","You... You get way too swept up in
+    MsgDisp("Kazama","You...You get way too swept up in
 whatever's said. You need to use your own
 judgement.");
     MsgDateResultDisp();

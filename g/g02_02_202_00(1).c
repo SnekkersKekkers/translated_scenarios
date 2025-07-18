@@ -22,7 +22,7 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220200_02_030");
-MsgDisp("Sassa","Haa... even when he's not around, I feel
+MsgDisp("Sassa","Haa...even when he's not around, I feel
 defeated.");
 MsgDisp("主人公","?");
 ChEye(2,0);

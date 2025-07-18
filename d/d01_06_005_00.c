@@ -82,7 +82,7 @@ StlEyeOpenLevel(6,0,1);
 VoicePlay("D010600500_06_080");
 MsgDisp("Himuro","Before I knew it, being alone started to
 become uncomfortable.
-... And yet——");
+...And yet——");
 StlEye(6,2);
 StlMouth(6,1);
 VoicePlay("D010600500_06_090");

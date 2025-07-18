@@ -19,7 +19,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020710401_07_020");
-MsgDisp("Mikage","Maybe... it's a singularity connected to
+MsgDisp("Mikage","Maybe...it's a singularity connected to
 another world.");
 MsgDisp("主人公","Hehe, it's like a science fiction novel.");
 ChEye(7,0);

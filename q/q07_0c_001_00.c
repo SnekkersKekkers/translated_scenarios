@@ -119,7 +119,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q070C00100_05_060");
-MsgDisp("Hiiragi","Uhh, it says... \"
+MsgDisp("Hiiragi","Uhh, it says...\"
 Study hard.
 It's still a school trip.\"");
 ChEye(7,0);
@@ -158,7 +158,7 @@ MsgClose();
 SEPlay("EV_SE_856",0,0.6);
 ChClose(5,0,30);
 ChClose(7,0,30);
-MsgDisp("主人公","(We're moving on after this... Huis Ten
+MsgDisp("主人公","(We're moving on after this...Huis Ten
 Bosch was fun! Okay, I'll report back to
 ｛氷室＊＊｝ now.)");
 MsgClose();

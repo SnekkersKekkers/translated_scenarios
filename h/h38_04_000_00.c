@@ -56,7 +56,7 @@ just a little...");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("H380400000_04_080");
-    MsgDisp("Nanatsumori","Ah... yeah, I see.
+    MsgDisp("Nanatsumori","Ah...yeah, I see.
 Sorry, that was uncalled for.");
     MsgDisp("主人公","That's not true!
 Thank you for worrying about me,

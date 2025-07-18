@@ -5,7 +5,7 @@ VoicePlay("T020700022_07_000");
 MsgDisp("Mikage","Oi-∋
 Wh-what's wrong?");
 MsgDisp("主人公","I love ｛御影＊＊｝ too.
-Did you... receive my feelings?");
+Did you...receive my feelings?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);

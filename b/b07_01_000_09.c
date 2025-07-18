@@ -58,7 +58,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_550");
-MsgDisp("Kazama","... Seriously.
+MsgDisp("Kazama","...Seriously.
 I'm seriously counting on you.");
 MsgDisp("主人公","(He's relying on me a lot....)");
 BGMStop();

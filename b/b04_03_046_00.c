@@ -36,7 +36,7 @@ got through to me too.");
     ChMouth(3,2);
     ChMotion(3,1);
     VoicePlay("B040304600_03_020");
-    MsgDisp("Honda","... Shh.
+    MsgDisp("Honda","...Shh.
 Shitara-san's fans are looking this way.");
     MsgDateResultDisp();
     break ;

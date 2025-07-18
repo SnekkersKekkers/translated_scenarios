@@ -59,7 +59,7 @@ ChMotion(4,1,1);
 VoicePlay("B070401000_04_080");
 MsgDisp("Nanatsumori","Nope.
 I won't forgive you.");
-MsgDisp("主人公","Ehh... what should I do...");
+MsgDisp("主人公","Ehh...what should I do...");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -60,7 +60,7 @@ ChOpen(5,254,4,4,2,#1,#1,0,0);
 Wait(30,0);
 ScrFadeIn(0);
 VoicePlay("F100510002_05_050");
-MsgDisp("Hiiragi","I see... I finally understand the meaning
+MsgDisp("Hiiragi","I see...I finally understand the meaning
 of the \"past progressive tense\" we learned
 about in English class this morning.");
 MsgDisp("主人公","Hehe, I'm glad.

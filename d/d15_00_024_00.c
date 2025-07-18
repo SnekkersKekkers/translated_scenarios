@@ -31,7 +31,7 @@ ChMouth ( 4,2 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150002400_04_010" ) ;
 MsgDisp ( "Nanatsumori","You're so loud.
-... And you, what do you think?" ) ;
+...And you, what do you think?" ) ;
 MsgDisp ( "主人公","Hmm, I wonder.
 I might still be growing." ) ;
 ChEye ( 2,4 ) ;

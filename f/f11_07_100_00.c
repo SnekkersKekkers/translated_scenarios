@@ -42,7 +42,7 @@ MsgDisp("Woman Customer","Huh?
 Is this horse riding?");
 VoicePlay("F110710000_07_050");
 MsgDisp("Mikage","That's right, with a cute pony.");
-MsgDisp("主人公","(｛御影＊＊｝... somehow, that looks really
+MsgDisp("主人公","(｛御影＊＊｝...somehow, that looks really
 fun...)");
 MsgClose();
 ScrFadeOut(0,0);

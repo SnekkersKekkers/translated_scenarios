@@ -32,7 +32,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P810500000_05_030");
-MsgDisp("Hiiragi","... The cultural festival.
+MsgDisp("Hiiragi","...The cultural festival.
 I look forward to it.");
 MsgDisp("主人公","Do you like the cultural festival,
 ｛柊＊＊＊｝?");

@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","That was close.
 It was a nice fight.");
     MsgDisp("主人公","(｛風真＊＊｝...
-... But I wanted to win.)");
+...But I wanted to win.)");
     break ;
     case 3:
     MsgClose();
@@ -66,7 +66,7 @@ More than if I was the one up there.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O020100001_01_060");
-    MsgDisp("Kazama","... Yeah.
+    MsgDisp("Kazama","...Yeah.
 After all, a smile suits you best.");
     MsgDisp("主人公","｛風真＊＊｝...
 Thanks.");

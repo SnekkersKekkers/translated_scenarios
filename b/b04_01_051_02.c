@@ -54,7 +54,7 @@ face.");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040105102_01_060");
-        MsgDisp("Kazama","... For that matter, why aren't you ever
+        MsgDisp("Kazama","...For that matter, why aren't you ever
 looking at me?");
         MsgDisp("主人公","Well, that's because I'm listening to the
 explanation about the stars...");

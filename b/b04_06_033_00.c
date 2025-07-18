@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040603300_06_010");
     MsgDisp("Himuro","It's worth seeing, and the space is
-designed intricately... Maybe they're bad
+designed intricately...Maybe they're bad
 at advertising themselves?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

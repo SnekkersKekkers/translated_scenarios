@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("S030400002_04_010");
     MsgDisp("Nanatsumori","It's really cold outside.
 I don't want to catch a cold.");
-    MsgDisp("主人公","Ah... yeah.
+    MsgDisp("主人公","Ah...yeah.
 I guess that's true.");
     VoicePlay("S030400002_04_020");
     MsgDisp("Nanatsumori","Yeah.

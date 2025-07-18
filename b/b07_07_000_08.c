@@ -12,7 +12,7 @@ VoicePlay("B070700000_07_440");
 MsgDisp("Mikage","Rather, it might be hard to find a girl I
 don't like. I can't deny that it's more
 possible that I'm the one being disliked?");
-MsgDisp("主人公","That's not true... Both
+MsgDisp("主人公","That's not true...Both
 ｛みちる＊｝ and
 ｛ひかる＊｝ say that
 ｛御影＊＊｝ is a great
@@ -45,7 +45,7 @@ VoicePlay("B070700000_07_480");
 MsgDisp("Mikage","Hey now, that's a response typical of a
 serious girl.
 Do your best, grow up as you are now!");
-MsgDisp("主人公","(Umm... what am I being cheered on for?)");
+MsgDisp("主人公","(Umm...what am I being cheered on for?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

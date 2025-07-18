@@ -54,7 +54,7 @@ I'm pretty optimistic about that.");
 ChEye(3,4);
 ChMotion(3,4);
 VoicePlay("B070300001_03_460");
-MsgDisp("Honda","Or... do you want things to end?");
+MsgDisp("Honda","Or...do you want things to end?");
 MsgDisp("主人公","No way!");
 ChEye(3,3);
 ChMouth(3,3);

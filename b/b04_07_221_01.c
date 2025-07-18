@@ -40,7 +40,7 @@ flat.");
     ChMotion(7,5);
     VoicePlay("B040722101_07_030");
     MsgDisp("Mikage","Haa...
-... That can't be good～");
+...That can't be good～");
     MsgDateResultDisp();
     break ;
     default :

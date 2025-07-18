@@ -76,7 +76,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("M010300000_03_100");
-MsgDisp("Honda","... tst, oh no.
+MsgDisp("Honda","...tst, oh no.
 I said I wouldn't stay too long but I got
 caught up in talking again, huh?");
 MsgDisp("主人公","Mm Mm, thanks for coming all this way

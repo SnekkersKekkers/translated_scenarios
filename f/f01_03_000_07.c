@@ -42,7 +42,7 @@ What's up?");
     VoicePlay("F010300007_03_030");
     MsgDisp("Honda","I really wanted to talk to you, so I was
 looking for you.
-... So, how about we walk home together?");
+...So, how about we walk home together?");
     break ;
     default :
     DbgAssert(1);

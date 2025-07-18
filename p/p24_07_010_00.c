@@ -67,7 +67,7 @@ VoicePlay("P240701000_49_010");
 MsgDisp("Narrator","The lightning arrows sent by the pursuers
 pierced through Bai Niang's back.");
 VoicePlay("P240701000_46_020");
-MsgDisp("White Girl","This is... fine.
+MsgDisp("White Girl","This is...fine.
 I can finally experience the same time you
 do.");
 VoicePlay("P240701000_41_100");

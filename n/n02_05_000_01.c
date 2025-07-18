@@ -46,7 +46,7 @@ the top.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("N020500001_05_050");
-    MsgDisp("Hiiragi","Wow. But... If I'm being honest, you're
+    MsgDisp("Hiiragi","Wow. But...If I'm being honest, you're
 fully capable of doing even better, aren't
 you?");
     MsgDisp("主人公","Huh.");
@@ -86,7 +86,7 @@ try harder.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("N020500001_05_100");
-    MsgDisp("Hiiragi","Haha... I'm good at motivating people. I
+    MsgDisp("Hiiragi","Haha...I'm good at motivating people. I
 got it. I'll just do my best by standing
 next to you.");
     MsgDisp("主人公","(Yeah, I'll keep doing my best too!)");

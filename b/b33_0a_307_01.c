@@ -98,7 +98,7 @@ VoicePlay("B330A30701_01_030");
 MsgDisp("Kazama","If we think of it in terms of balance,
 Inori and Sassa should sit next to each
 other.");
-MsgDisp("主人公","(Umm... we ended up talking about seats
+MsgDisp("主人公","(Umm...we ended up talking about seats
 again...)");
 BGMStop();
 MsgClose();

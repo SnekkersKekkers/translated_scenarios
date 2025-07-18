@@ -52,7 +52,7 @@ that much?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040512102_05_040");
-        MsgDisp("Hiiragi","Yes... well, in elementary school I was
+        MsgDisp("Hiiragi","Yes...well, in elementary school I was
 drawn in an amusing, exaggerated manner.
 I also somehow looked like a fox.");
         MsgDisp("主人公","Fox...");

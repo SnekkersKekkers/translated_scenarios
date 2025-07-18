@@ -2,7 +2,7 @@ BGOpen("fp000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Should I head home now?
-... Huh, over there is that-)");
+...Huh, over there is that-)");
 VoicePlay("E010520200_03_000");
 MsgDisp("Honda?","Yano-kun is really popular.");
 VoicePlay("E010520200_05_000");
@@ -122,7 +122,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520200_05_080");
-MsgDisp("Hiiragi","Hmmm... quizzes and drama...
+MsgDisp("Hiiragi","Hmmm...quizzes and drama...
 Couldn't that lead to something
 interesting?");
 MsgDisp("主人公","(It seems that ｛柊＊＊＊｝ and

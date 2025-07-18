@@ -23,7 +23,7 @@ eating more and more huh?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B070500000_05_090");
-MsgDisp("Hiiragi","Yes... that fluffy, crispy texture and
+MsgDisp("Hiiragi","Yes...that fluffy, crispy texture and
 gentle sweetness that dissolves in your
 mouth makes me very happy.");
 ChEye(5,0);

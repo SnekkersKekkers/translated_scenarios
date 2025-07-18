@@ -40,7 +40,7 @@ I don't get that.");
     ChMotion(1,2);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040121300_01_030");
-    MsgDisp("Kazama","Yeah... kinda like how someone I know used
+    MsgDisp("Kazama","Yeah...kinda like how someone I know used
 to nap in the sunlight by the classroom
 window.");
     MsgDispSksp(1,0);

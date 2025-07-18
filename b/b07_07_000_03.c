@@ -39,7 +39,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700000_07_170");
-MsgDisp("Mikage","The field, the horses... it was a really
+MsgDisp("Mikage","The field, the horses...it was a really
 luxurious sport. Maybe our board chairman
 could work something out?");
 MsgDisp("主人公","(If Habataki High School starts a polo

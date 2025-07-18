@@ -40,7 +40,7 @@ Shouldn't you be saying \"osu!\"
 ? Or is that in karate?");
 MsgDisp("主人公","(Hehe, thanks to
 ｛御影＊＊｝, I feel a lot
-more relaxed... Alright, let's aim to
+more relaxed...Alright, let's aim to
 win...!)");
 BGMStop();
 MsgClose();

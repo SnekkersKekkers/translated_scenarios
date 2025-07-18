@@ -82,7 +82,7 @@ annoyed with me, and I might become
 even more isolated.");
 MsgDisp("","But, if I give up now, my dream will
 definitely not come true.");
-MsgDisp("","So... after one year, until the
+MsgDisp("","So...after one year, until the
 interhigh, please let me do things my
 way.");
 MsgClear();

@@ -2,7 +2,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020320301_03_000");
-MsgDisp("Honda","Hey, I have... a bit of a question for
+MsgDisp("Honda","Hey, I have...a bit of a question for
 you.");
 MsgDisp("主人公","Yeah, what is it?");
 ChEye(3,4);
@@ -47,7 +47,7 @@ VoicePlay("G020320301_03_060");
 MsgDisp("Honda","Ehh∋
 Then what kind of things did they want to
 hear?");
-MsgDisp("主人公","Umm, for example... things like holding
+MsgDisp("主人公","Umm, for example...things like holding
 hands or having a good time together...");
 ChEye(3,4);
 ChMouth(3,4);
@@ -59,7 +59,7 @@ ChMotion(3,2);
 VoicePlay("G020320301_03_080");
 MsgDisp("Honda","But is that really a thing you need to
 tell others?");
-MsgDisp("主人公","(Ugh... that's a good point.)");
+MsgDisp("主人公","(Ugh...that's a good point.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

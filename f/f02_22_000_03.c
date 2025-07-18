@@ -48,7 +48,7 @@ ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,5,1);
 VoicePlay("F022200003_22_060");
-MsgDisp("Hikaru","... Eh, wait a second...
+MsgDisp("Hikaru","...Eh, wait a second...
 That means Haba High used to be an all
 girls school a long time ago～∋");
 MsgDisp("主人公","(｛ひかる＊｝ is confused.

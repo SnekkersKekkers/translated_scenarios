@@ -24,7 +24,7 @@ her that.)");
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
     ChOpen(21,254,0,5,4,#1,#1,0,0);
     VoicePlay("F012100001_21_010");
-    MsgDisp("Michiru","... Huh?
+    MsgDisp("Michiru","...Huh?
 Are you talking to me?");
     MsgDisp("主人公","Yes.");
     ChEye(21,2);

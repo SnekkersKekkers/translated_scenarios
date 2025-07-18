@@ -33,7 +33,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q110100000_01_040");
-MsgDisp("Kazama","... Also, this.
+MsgDisp("Kazama","...Also, this.
 A Windmill-shaped charm.");
 MsgDisp("主人公","Wow, so cute!");
 ChEye(1,0);

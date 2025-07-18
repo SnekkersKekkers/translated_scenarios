@@ -47,7 +47,7 @@ VoicePlay("B150100000_01_040");
 MsgDisp("Kazama","Listen, okay? Responding normally means
 I'd have to return the physical affection,
 right? Are you okay with that?");
-MsgDisp("主人公","That... might be troubling.");
+MsgDisp("主人公","That...might be troubling.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -55,7 +55,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B150100000_01_050");
 MsgDisp("Kazama","Don't do something to someone if you know
 it would trouble you.
-... See you.");
+...See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

@@ -6,7 +6,7 @@ I wonder what I should do.)");
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message.
-From ｛柊＊＊＊｝... it says \"I'll
+From ｛柊＊＊＊｝...it says \"I'll
 be waiting in the student council room.\")");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -113,8 +113,8 @@ ChEyeOpenLevel(5,9);
 ChCheek(5,7);
 VoicePlay("G110500300_05_080");
 MsgDisp("Hiiragi","Y-Yeah.
-We are working... right?");
-MsgDisp("主人公","(Phew... that surprised me...
+We are working...right?");
+MsgDisp("主人公","(Phew...that surprised me...
 I was getting a little nervous.)");
 BGMStop();
 MsgClose();

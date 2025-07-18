@@ -63,7 +63,7 @@ What's wrong?");
         break ;
         case 1:
         VoicePlay("J040300001_03_070");
-        MsgDisp("Honda","... Oh, I see!
+        MsgDisp("Honda","...Oh, I see!
 That's right.");
         MsgDisp("主人公","Well, it was an invitation of some sort?");
         VoicePlay("J040300001_03_080");

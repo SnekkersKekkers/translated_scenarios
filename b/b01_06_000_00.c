@@ -16,7 +16,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("Himuro","The amount of time you wasted is
 extraordinary.
 Don't let there be a next time.");
-    MsgDisp("主人公","... Okay.");
+    MsgDisp("主人公","...Okay.");
     MsgDispSksp(1,0);
     ChEye(6,0);
     ChMouth(6,0);
@@ -46,7 +46,7 @@ have a good time.");
     MsgClose();
     ChOpen(6,253,0,0,2,#1,#1,0,0);
     VoicePlay("B010600000_06_040");
-    MsgDisp("Himuro","... Did something happen?");
+    MsgDisp("Himuro","...Did something happen?");
     MsgDisp("主人公","What do you mean?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -61,7 +61,7 @@ Thank you though, sorry.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B010600000_06_060");
-    MsgDisp("Himuro","... Oh.
+    MsgDisp("Himuro","...Oh.
 I see.
 Well, then.");
     MsgDispSksp(0);

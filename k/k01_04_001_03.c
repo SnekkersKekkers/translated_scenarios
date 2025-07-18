@@ -4,7 +4,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0);
 VoicePlay("K010400103_04_000");
-MsgDisp("Nanatsumori","Wait... huh?");
+MsgDisp("Nanatsumori","Wait...huh?");
 MsgDisp("主人公","Hm?");
 ChEye(4,2);
 ChMouth(4,4);

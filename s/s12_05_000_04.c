@@ -105,7 +105,7 @@ properly.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("S120500002_05_140");
-    MsgDisp("Hiiragi","... I see.
+    MsgDisp("Hiiragi","...I see.
 Is that how you think about it?");
     MsgDisp("主人公","Eh?
 I don't mean it like that...");

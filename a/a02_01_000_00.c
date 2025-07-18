@@ -43,7 +43,7 @@ StlMouth(1,0);
 EfctOpen(6);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","∋ Wait... no way... Ryota!? Er,
+MsgDisp("主人公","∋ Wait...no way...Ryota!? Er,
 ｛風真＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);
@@ -78,7 +78,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("A020100000_01_030");
-MsgDisp("Kazama","Anyway... It's been 9 years. Glad to see
+MsgDisp("Kazama","Anyway...It's been 9 years. Glad to see
 you're still lively.");
 MsgDisp("主人公","It's really been such a long time!");
 MsgDisp("主人公","｛風真＊＊｝, you've grown up so much!
@@ -237,7 +237,7 @@ you're talking about...");
     NSSEye(1,2);
     NSSMouth(1,0);
     VoicePlay("A020100000_01_180");
-    MsgDisp("Kazama","\"A lot of time\", huh... You really
+    MsgDisp("Kazama","\"A lot of time\", huh...You really
 haven't changed. Still as carefree. I'm
 worried.");
     break ;
@@ -294,7 +294,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("A020100000_01_190");
-MsgDisp("Kazama","...... Can't hear them～ And don't
+MsgDisp("Kazama","......Can't hear them～ And don't
 listen, either.");
 MsgDisp("主人公","(\"Young Master\" huh...
 Now I'm super curious...)");

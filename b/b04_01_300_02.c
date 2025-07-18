@@ -84,14 +84,14 @@ Actually, above my imagination actually.");
         ChMotion(1,4);
         ChCheek(1,7);
         VoicePlay("B040130002_01_070");
-        MsgDisp("Kazama","G-Grown... That's true. But, I'm talking
+        MsgDisp("Kazama","G-Grown...That's true. But, I'm talking
 about what's inside, not outside.");
         ChEye(1,2);
         ChMouth(1,2);
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040130002_01_080");
-        MsgDisp("Kazama","Ahh... geez.
+        MsgDisp("Kazama","Ahh...geez.
 What am I even saying...");
         ChEye(1,0);
         ChMouth(1,1);

@@ -17,7 +17,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("H8G0400000_04_020");
-MsgDisp("Nanatsumori","It's a joke... well, not really.
+MsgDisp("Nanatsumori","It's a joke...well, not really.
 Seriously, being awarded as a model
 student is amazing.");
 MsgDisp("主人公","You're making me a little shy...");

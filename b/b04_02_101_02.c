@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040210102_02_010");
-    MsgDisp("Sassa","In that sense I feel the same... but
+    MsgDisp("Sassa","In that sense I feel the same...but
 that's not what I meant.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

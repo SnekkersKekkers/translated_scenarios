@@ -41,7 +41,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600012_06_040");
 MsgDisp("Himuro","What will you be doing?");
-MsgDisp("主人公","Um... well, I haven't really thought about
+MsgDisp("主人公","Um...well, I haven't really thought about
 it.
 Maybe do some fun things.");
 ChEye(6,0);

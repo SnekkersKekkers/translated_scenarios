@@ -29,7 +29,7 @@ things like, 'What would you say in this
 situation?' and get excited about that.");
 ChEye(5,4);
 VoicePlay("B070500001_05_320");
-MsgDisp("Hiiragi","For example... when it comes to barbecues,
+MsgDisp("Hiiragi","For example...when it comes to barbecues,
 Mikage-sensei says that you seem to like
 vegetables more than meat——");
 ChEye(5,3);

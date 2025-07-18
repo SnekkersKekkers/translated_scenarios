@@ -31,7 +31,7 @@ MsgDisp("Nanatsumori","｛主人公｝, happy birthday.");
 MsgDisp("主人公","Thank you, ｛七ツ森＊｝.");
 ChMotion(4,1,1);
 VoicePlay("K020400000_04_030");
-MsgDisp("Nanatsumori","And... here.
+MsgDisp("Nanatsumori","And...here.
 A present.");
 SEPlay("EV_SE_665");
 SEWait();

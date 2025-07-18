@@ -75,10 +75,10 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("D140B06100_04_030");
-MsgDisp("Nanatsumori","... ｛主人公｝.
+MsgDisp("Nanatsumori","...｛主人公｝.
 You've gotten pretty good at dodging
 Dahon.");
-MsgDisp("主人公","(｛風真＊＊｝.... is a little kinder when
+MsgDisp("主人公","(｛風真＊＊｝....is a little kinder when
 it's just the two of us.
 But, I can't say that right...?)");
 BGMStop();

@@ -50,7 +50,7 @@ I'm sorry Was that dull?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040503202_05_040");
-        MsgDisp("Hiiragi","I see... I'm the one who should say that,
+        MsgDisp("Hiiragi","I see...I'm the one who should say that,
 sorry. I made you take my needs into
 consideration.");
         ChMouth(5,2);

@@ -1,7 +1,7 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Alright.
+MsgDisp("主人公","...Alright.
 Time to head home.");
 VoicePlay("E010120000_01_000");
 MsgDisp("Kazama?","Will sushi do?");

@@ -23,7 +23,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("P740400004_04_020");
-MsgDisp("Nanatsumori","Up next... is the real thing huh?");
+MsgDisp("Nanatsumori","Up next...is the real thing huh?");
 MsgDisp("主人公","Hm?");
 ChEye(4,3);
 ChMouth(4,3);

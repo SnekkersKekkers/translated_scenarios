@@ -26,7 +26,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("B150100500_01_020");
-MsgDisp("Kazama","... Tch.
+MsgDisp("Kazama","...Tch.
 I thought I had reached enlightenment last
 time, but here I am, right back at it.");
 ChEye(1,0);
@@ -62,7 +62,7 @@ MsgDisp("Kazama","Well, it's fine. Just know I grew up in a
 culture where hugs and kisses were used as
 a greeting. Be prepared.");
 MsgDisp("主人公","(He's talking about English-style
-skinship... Huh, haven't I heard this
+skinship...Huh, haven't I heard this
 before? I wonder if
 ｛風真＊＊｝ is alright?)");
 MsgClose();

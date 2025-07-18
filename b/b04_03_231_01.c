@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040323101_03_010");
-    MsgDisp("Honda","Okay... what is it about roller coasters
+    MsgDisp("Honda","Okay...what is it about roller coasters
 that fascinates you so much?
 Let's reconfirm it!");
     MsgDispSksp(1,0);

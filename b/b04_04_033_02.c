@@ -10,7 +10,7 @@ ChMotion(4,1);
 ChEyeOpenLevel(4,9);
 ScrFadeIn(0);
 VoicePlay("B040403302_04_000");
-MsgDisp("Nanatsumori","Hmmー... as I get used to looking at them,
+MsgDisp("Nanatsumori","Hmmー...as I get used to looking at them,
 these guys start to seem kinda cute...");
 ChEyeOpenLevel(4,#1);
 MsgSel("Yeah, they're creepy cute▼","Hmmm....","They're not cute at all");
@@ -109,7 +109,7 @@ about different things, OK?");
         ChMotion(4,2,1);
         ChCheek(4,10);
         VoicePlay("B040403302_04_100");
-        MsgDisp("Nanatsumori","... Thank you.
+        MsgDisp("Nanatsumori","...Thank you.
 Hehe.");
         MsgDisp("主人公","(｛七ツ森＊｝ seems happy.)");
         break ;

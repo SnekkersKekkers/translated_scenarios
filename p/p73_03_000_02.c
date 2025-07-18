@@ -48,7 +48,7 @@ You look too real.");
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_040");
     MsgDisp("Honda","Ah, it's already your turn.
-... Hey.");
+...Hey.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);

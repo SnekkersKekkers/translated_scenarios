@@ -14,7 +14,7 @@ VoicePlay("F100740001_07_010");
 MsgDisp("Mikage","Eh?");
 VoicePlay("F100740001_32_010");
 MsgDisp("VP Himuro?","Come out, please.");
-MsgDisp("主人公","... Y-Yes.
+MsgDisp("主人公","...Y-Yes.
 I'm sorry.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -36,7 +36,7 @@ voice, so...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("F100740001_32_020");
-MsgDisp("VP Himuro","... I'm not scolding your Mikage-sensei.
+MsgDisp("VP Himuro","...I'm not scolding your Mikage-sensei.
 Please relax.");
 ChEye(7,0);
 ChMouth(7,3);

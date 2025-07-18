@@ -30,7 +30,7 @@ Are you heading home?");
     ChMotion(4,1,1);
     VoicePlay("I360400003_04_010");
     MsgDisp("Nanatsumori","Yeah.
-... Hey.");
+...Hey.");
     MsgDisp("主人公","Yes?");
     VoicePlay("I360400003_04_020");
     MsgDisp("Nanatsumori","I could see the bottom of the sugar pot at
@@ -42,7 +42,7 @@ See ya.");
     ChClose(4,0,30);
     Wait(30,0);
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","... He's right.
+    MsgDisp("主人公","...He's right.
 ｛七ツ森＊｝ really did
 me a favor by telling me that...");
     MsgDisp("主人公","(I might be a little out of it.

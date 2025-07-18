@@ -167,7 +167,7 @@ See you.");
     BGMStop();
     ChClose(2);
     SEWait();
-    MsgDisp("主人公","(The store's most valuable thing... is
+    MsgDisp("主人公","(The store's most valuable thing...is
 me!?)");
     break ;
     default :

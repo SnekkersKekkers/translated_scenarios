@@ -41,7 +41,7 @@ there's a time for it.
 I'll be a bit smarter.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","Ah... you mean 'love equals me?
+MsgDisp("主人公","Ah...you mean 'love equals me?
 ' —— I remember...");
 ChEye(2,0);
 ChMouth(2,0);

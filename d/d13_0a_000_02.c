@@ -12,7 +12,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D130A00002_02_000");
-MsgDisp("Sassa","What's up... huh?");
+MsgDisp("Sassa","What's up...huh?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

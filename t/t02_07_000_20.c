@@ -4,8 +4,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020700020_07_000");
-MsgDisp("Mikage","Really... thank you.
-... That's all that comes out.");
+MsgDisp("Mikage","Really...thank you.
+...That's all that comes out.");
 MsgDisp("主人公","Thank you for always looking out for me.");
 ChEye(7,0);
 ChMouth(7,0);

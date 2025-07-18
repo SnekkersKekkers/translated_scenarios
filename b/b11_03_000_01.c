@@ -1,7 +1,7 @@
 ChLayout(1);
 ChClose(3,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm... looks like ｛本多＊＊｝
+MsgDisp("主人公","Hm...looks like ｛本多＊＊｝
 isn't here yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -74,7 +74,7 @@ MsgDispSksp(0);
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110300001_34_050");
-MsgDisp("Guy","... You're actually a good person.
+MsgDisp("Guy","...You're actually a good person.
 Hah, I'll try to relax by the real sea
 today!");
 SEPlay("EV_SE_531");
@@ -84,10 +84,10 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B110300001_03_040");
-MsgDisp("Honda","... You must be lonely, right?
+MsgDisp("Honda","...You must be lonely, right?
 I can understand what it's like to be a
 shut-in.");
-MsgDisp("主人公","(｛本多＊＊｝, wow... that guy was opening
+MsgDisp("主人公","(｛本多＊＊｝, wow...that guy was opening
 up their heart.)");
 ChEyeOpenLevel(3,#1);
 ChMouthOpenLevel(3,#1);

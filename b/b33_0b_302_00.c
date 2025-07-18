@@ -13,7 +13,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 ChMotion(4,0,1);
 VoicePlay("B330B30200_04_000");
-MsgDisp("Nanatsumori","Haa... it feels nice.");
+MsgDisp("Nanatsumori","Haa...it feels nice.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -51,7 +51,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B30200_01_020");
-MsgDisp("Kazama","For example... Honda's hair. With the sea
+MsgDisp("Kazama","For example...Honda's hair. With the sea
 breeze blowing on it, it looks more
 effortless than usual...");
 ChMouth(1,2);
@@ -117,7 +117,7 @@ MsgDisp("Nanatsumori","But...
 Kazama's way of looking at things is just
 too funny.");
 MsgDisp("主人公","(Hehe!
-Ah... but, maybe my hair has changed
+Ah...but, maybe my hair has changed
 drastically too?)");
 MsgClose();
 ScrFadeOut(0,0);

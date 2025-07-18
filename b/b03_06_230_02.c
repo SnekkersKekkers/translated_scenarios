@@ -32,7 +32,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,2);
     ChMotion(6,0);
     VoicePlay("B030623002_06_020");
-    MsgDisp("Himuro","... I see.
+    MsgDisp("Himuro","...I see.
 Let's go home, then.");
     MsgDispSksp(0);
     break ;

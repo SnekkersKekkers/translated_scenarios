@@ -107,7 +107,7 @@ StlEye(3,2,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,0,1);
 VoicePlay("R080300000_03_110");
-MsgDisp("Honda","I was so happy... and sometimes I just
+MsgDisp("Honda","I was so happy...and sometimes I just
 opened and read it again.");
 MsgDisp("主人公","I see...");
 StlEye(3,3);
@@ -129,7 +129,7 @@ StlMouth(3,0);
 VoicePlay("R080300000_03_140");
 MsgDisp("Honda","My roots.
 The ammonite in the mall that I showed
-you... and here.");
+you...and here.");
 StlEye(3,3);
 StlMouth(3,1);
 VoicePlay("R080300000_03_150");

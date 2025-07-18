@@ -47,7 +47,7 @@ MsgDisp("","On sunday I locked myself in my room,
 I looked up the distance to England
 in the encyclopedia I received for
 graduating.");
-MsgDisp("","9000 kilometers... We had never even
+MsgDisp("","9000 kilometers...We had never even
 travelled to neighboring towns by
 ourselves. This distance is hopeless
 for us.");

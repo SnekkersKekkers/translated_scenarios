@@ -41,7 +41,7 @@ something else?");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040406102_04_040");
-        MsgDisp("Nanatsumori","... No.
+        MsgDisp("Nanatsumori","...No.
 Let's swim.
 ＧＯ!");
         MsgDisp("主人公","But...");
@@ -53,7 +53,7 @@ Let's swim.
 tan, it'll affect my modelling work, so
 I've been told to avoid this kind of
 thing.");
-        MsgDisp("主人公","Ah... I see. I'm sorry for not taking that
+        MsgDisp("主人公","Ah...I see. I'm sorry for not taking that
 into consideration.");
         ChEye(4,4);
         ChMouth(4,4);

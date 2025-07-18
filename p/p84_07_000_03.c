@@ -1,5 +1,5 @@
 
-MsgDisp("School Girl","Haa... this much is left over...
+MsgDisp("School Girl","Haa...this much is left over...
 Seems like the wrong amount of materials
 were ordered...");
 MsgDisp("主人公","I'm sorry...");

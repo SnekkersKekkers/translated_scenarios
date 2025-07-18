@@ -38,7 +38,7 @@ VoicePlay("P650700009_07_040");
 MsgDisp("Mikage","It's alright. It was your last school
 festival, but there'll be a time where you
 can look back on it and laugh.");
-MsgDisp("主人公","(Haa... even though it was the last
+MsgDisp("主人公","(Haa...even though it was the last
 cultural festival of my high school life,
 I should have tried harder.)");
 MsgClose();

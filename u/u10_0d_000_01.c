@@ -35,7 +35,7 @@ This will be fun!)");
     case 1:
     VoicePlay("U100D00001_22_040");
     MsgDisp("Hikaru","Ah～ n, that's unfortunate...
-Well then... maybe another time?");
+Well then...maybe another time?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Even though she went through the trouble

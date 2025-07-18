@@ -26,7 +26,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30400_07_010");
-MsgDisp("Mikage","... What's that, Inori.
+MsgDisp("Mikage","...What's that, Inori.
 Are you interested in that \"two-person\"
 world?");
 ChEye(6,0);
@@ -73,12 +73,12 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30400_06_030");
-MsgDisp("Himuro","Ahem... sure.");
+MsgDisp("Himuro","Ahem...sure.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C30400_05_020");
-MsgDisp("Hiiragi","Yes... let's do that.");
+MsgDisp("Hiiragi","Yes...let's do that.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

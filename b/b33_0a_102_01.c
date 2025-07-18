@@ -12,7 +12,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChPosition(6,2);
 ScrFadeIn(0);
-MsgDisp("主人公","... Huh?
+MsgDisp("主人公","...Huh?
 Where's ｛風真＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -82,7 +82,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10201_01_030");
 MsgDisp("Kazama","What was he praising me for?
-... Geez.");
+...Geez.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

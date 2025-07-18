@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     NSSEyeOpenLevel(6,0);
     VoicePlay("B160600300_06_020");
     MsgDisp("Himuro","Haa∋
-... That joke is nonsense.");
+...That joke is nonsense.");
     break ;
     default :
     DbgAssert(0);

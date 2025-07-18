@@ -4,7 +4,7 @@ BGOpen("sc820",0);
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow... look, ｛柊＊＊＊｝!
+MsgDisp("主人公","Wow...look, ｛柊＊＊＊｝!
 The windmills and flowers are so pretty.");
 ChEye(5,4);
 ChMotion(5,4);
@@ -47,7 +47,7 @@ MsgDisp("Hiiragi","It's amazing.
 It looks taller than the keep of Habataki
 Castle.");
 MsgDisp("主人公","Hehe, yes.
-Ah... but the castle, it's on top of Mount
+Ah...but the castle, it's on top of Mount
 Habataki.");
 ChEye(5,0);
 ChMouth(5,4);
@@ -125,7 +125,7 @@ ChMotion(5,0);
 VoicePlay("Q070500000_05_120");
 MsgDisp("Hiiragi","The chairperson is off-duty for a bit
 longer.");
-MsgDisp("主人公","( ｛柊＊＊＊｝... I hope you at
+MsgDisp("主人公","( ｛柊＊＊＊｝...I hope you at
 least have some fun during the school
 trip, free from responsibilities.)");
 BGMStop();

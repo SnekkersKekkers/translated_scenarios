@@ -23,7 +23,7 @@ That dress.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("R040600001_06_020");
-    MsgDisp("Himuro","In any case... this is a rare sight to
+    MsgDisp("Himuro","In any case...this is a rare sight to
 see.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
@@ -70,7 +70,7 @@ You look pretty nice too,
     ChCheek(6,5);
     VoicePlay("R040600001_06_080");
     MsgDisp("Himuro","I don't really care that much.
-... But maybe I would care a little if I
+...But maybe I would care a little if I
 stayed next to you.");
     MsgDisp("主人公","Huh, really?");
     ChEye(6,0);

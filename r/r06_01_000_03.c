@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("R060100003_01_000");
     MsgDisp("Kazama","｛主人公｝.
 You got a present, right?");
-    MsgDisp("主人公","Huh... Ah! ｛風真＊＊｝, you got
+    MsgDisp("主人公","Huh...Ah! ｛風真＊＊｝, you got
 the present I brought to the party!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -77,7 +77,7 @@ This is your present,
     MsgDisp("Kazama","Yeah.
 I'm a little surprised because I was
 picking a present with you in mind.");
-    MsgDisp("主人公","... Ah!
+    MsgDisp("主人公","...Ah!
 You got the present I brought,
 ｛風真＊＊｝ ∈");
     ChEye(1,2);

@@ -73,7 +73,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20501_01_020");
 MsgDisp("Kazama","Bravーo.
-... Geez, you couldn't at least let me win
+...Geez, you couldn't at least let me win
 in the end huh?");
 ChEyeOpenLevel(1,#1);
 ChEye(6,0);

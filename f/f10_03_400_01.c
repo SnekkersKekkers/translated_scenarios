@@ -60,7 +60,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("F100340001_04_000");
-MsgDisp("Nanatsumori","Haa... so noisy.
+MsgDisp("Nanatsumori","Haa...so noisy.
 What are you two doing?");
 MsgDisp("主人公","｛本多＊＊｝ was guessing where
 you were, ｛七ツ森＊｝.
@@ -72,7 +72,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("F100340001_03_060");
 MsgDisp("Honda","Yep, yep, to me, Mii-kun is a cat.
 It's the kind of place cats like; quiet
-and cool... so I thought this might be it.");
+and cool...so I thought this might be it.");
 ChMouth(4,1);
 ChMotion(4,0,1);
 MsgDisp("主人公","Hehe, a cat huh...

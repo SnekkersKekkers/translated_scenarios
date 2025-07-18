@@ -119,7 +119,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,2,1);
 VoicePlay("T020300000_03_160");
-MsgDisp("Honda","People... it's a huge topic.
+MsgDisp("Honda","People...it's a huge topic.
 I don't know when I'll finish, and I might
 never finish it.");
 ChEye(3,0);

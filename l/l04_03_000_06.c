@@ -30,7 +30,7 @@ Ugh, I should've tried harder.)");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300006_03_030");
-    MsgDisp("Honda","Ah... it's handmade?");
+    MsgDisp("Honda","Ah...it's handmade?");
     MsgDisp("主人公","Y-Yeah.
 How is it?");
     ChEye(3,0);
@@ -84,7 +84,7 @@ the tricks, okay?");
     MsgDisp("Honda","If nothing else, we can try making them
 from cacao beans!
 I've always wanted to try.");
-    MsgDisp("主人公","Okay... sorry I couldn't make them well.");
+    MsgDisp("主人公","Okay...sorry I couldn't make them well.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,5);

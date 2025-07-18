@@ -183,7 +183,7 @@ MsgDisp("Kazama","Why me?");
 VoicePlay("Q070A00100_02_110");
 MsgDisp("Sassa","We can take a few different ones.");
 VoicePlay("Q070A00100_01_130");
-MsgDisp("Kazama","... Just one is fine.");
+MsgDisp("Kazama","...Just one is fine.");
 MsgDisp("主人公","(Huis ten Bosch was so much fun...
 Now onto something else.
 I should answer ｛氷室＊＊｝. )");

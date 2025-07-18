@@ -51,7 +51,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_060");
 MsgDisp("Kazama","Urk...
 Yeah, that I am.
-... Okay, fine, I'll accept it.");
+...Okay, fine, I'll accept it.");
 MsgDisp("主人公","Is something wrong?");
 ChEye(1,0);
 ChMouth(1,1);

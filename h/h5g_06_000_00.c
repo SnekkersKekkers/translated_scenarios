@@ -22,7 +22,7 @@ VoicePlay("H6G0600000_06_020");
 MsgDisp("Himuro","You really did it.
 Congrats.");
 MsgDisp("主人公","Thanks!
-... Did you come all this way to
+...Did you come all this way to
 congratulate me?");
 ChEye(6,1);
 ChMouth(6,0);

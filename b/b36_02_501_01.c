@@ -12,7 +12,7 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B360250101_02_000");
 MsgDisp("Sassa","Alright, we're here.");
-MsgDisp("主人公","Eh... did you want to come to this park?");
+MsgDisp("主人公","Eh...did you want to come to this park?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

@@ -4,7 +4,7 @@ MsgDisp("主人公","(It's gotten late.
 Gotta go back home.)");
 VoicePlay("A020600100_32_000");
 MsgDisp("VP Himuro?","Alright, finally.");
-MsgDisp("主人公","(Hmm? That voice... Vice Principal
+MsgDisp("主人公","(Hmm? That voice...Vice Principal
 Himuro?)");
 VoicePlay("A020600100_06_000");
 MsgDisp("Himuro?","Yes. I'll be counting on you from next
@@ -16,7 +16,7 @@ VoicePlay("A020600100_06_010");
 MsgDisp("Himuro?","Of course, I understand.
 I didn't expect you to.");
 VoicePlay("A020600100_32_020");
-MsgDisp("VP Himuro","Hmm... I like this mindset. Looking
+MsgDisp("VP Himuro","Hmm...I like this mindset. Looking
 forward to it.");
 VoicePlay("A020600100_06_020");
 MsgDisp("Himuro?","Thank you.
@@ -60,7 +60,7 @@ BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(32);
 Wait(30);
-MsgDisp("主人公","(Phew... I thought I was gonna get
+MsgDisp("主人公","(Phew...I thought I was gonna get
 scolded!)");
 MsgDisp("主人公","(But still, who was that boy just
 now...?)");

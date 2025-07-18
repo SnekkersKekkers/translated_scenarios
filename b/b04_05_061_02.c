@@ -57,7 +57,7 @@ immensely.");
         ChEye(5,3);
         ChMouth(5,2);
         VoicePlay("B040506102_05_040");
-        MsgDisp("Hiiragi","Eh... your scent∋");
+        MsgDisp("Hiiragi","Eh...your scent∋");
         ChEye(5,2);
         ChMotion(5,2);
         ChCheek(5,7);
@@ -87,7 +87,7 @@ It's too radiant...");
         MsgDisp("Hiiragi","You're shining even more than usual in
 that swimsuit.
 In more ways than one.");
-        MsgDisp("主人公","(Umm... did I put on too much sun lotion?)");
+        MsgDisp("主人公","(Umm...did I put on too much sun lotion?)");
         break ;
         default :
         DbgAssert(1);

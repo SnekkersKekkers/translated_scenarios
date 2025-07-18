@@ -68,7 +68,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070101000_01_070");
 MsgDisp("Kazama","...How about it?");
-MsgDisp("主人公","Ummm... before, I just wanted to ask a
+MsgDisp("主人公","Ummm...before, I just wanted to ask a
 little on ｛風真＊＊｝'s views on
 love. I didn't really think about it too
 carefully.");
@@ -107,7 +107,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070101000_01_120");
-MsgDisp("Kazama","... I'm more serious about you than
+MsgDisp("Kazama","...I'm more serious about you than
 anything or anyone.
 Just don't forget that.");
 MsgDisp("主人公","｛風真＊＊｝...");
@@ -135,7 +135,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070101000_01_140");
-MsgDisp("Kazama","... I see, sorry.
+MsgDisp("Kazama","...I see, sorry.
 That's all I can handle today.");
 ChEye(1,4);
 ChMouth(1,2);

@@ -8,7 +8,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("B040430002_04_000");
-MsgDisp("Nanatsumori","Ah... so you're over there.
+MsgDisp("Nanatsumori","Ah...so you're over there.
 This is a nice angle.");
 MsgSel("Is it okay for me to be here?","What are you imagining?","Then, let's move!");
 switch (MsgSelRsltGet()){
@@ -82,7 +82,7 @@ girlfriend——");
         ChMotion(4,0,1);
         ChCheek(4,8);
         VoicePlay("B040430002_04_070");
-        MsgDisp("Nanatsumori","... No!
+        MsgDisp("Nanatsumori","...No!
 Please wait a second.
 I was too direct just now.");
         ChEye(4,2);
@@ -105,7 +105,7 @@ Because I believe in
         VoiceEVSPlay(4);
         VoicePlay("B040430002_04_100");
         MsgDisp("Nanatsumori","｛主人公｝.
-Now... please listen to what I really
+Now...please listen to what I really
 mean.");
         MsgDisp("主人公","Yeah.");
         ChMotion(4,1,1);

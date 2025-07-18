@@ -99,7 +99,7 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020700000_07_120");
 MsgDisp("Mikage","That's right.
-... It's just as I thought, the void in my
+...It's just as I thought, the void in my
 life can't be filled without you.");
 MsgDisp("主人公","｛御影＊＊｝...");
 ChEye(7,0);

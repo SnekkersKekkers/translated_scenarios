@@ -15,7 +15,7 @@ ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("B360450301_04_000");
 MsgDisp("Nanatsumori","Well, it's half of my dinner as well.");
-MsgDisp("主人公","Ah... I see. Since
+MsgDisp("主人公","Ah...I see. Since
 ｛七ツ森＊｝ lives alone
 after all.");
 ChEye(4,0);

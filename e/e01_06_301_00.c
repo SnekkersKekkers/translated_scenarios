@@ -2,7 +2,7 @@ BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to go home.
-... Huh?)");
+...Huh?)");
 VoiceEVSPlay(6);
 VoicePlay("E010630100_06_000");
 MsgDisp("Himuro?","｛主人公｝, what a coincidence.");
@@ -87,7 +87,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("E010630100_07_040");
-MsgDisp("Mikage","Ah-... what a coincidence.
+MsgDisp("Mikage","Ah-...what a coincidence.
 I can't believe we ran into each other
 here.");
 ChEye(7,5);

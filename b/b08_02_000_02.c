@@ -13,7 +13,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B080200002_02_020");
-MsgDisp("Sassa","... But if something's up, let me know.");
+MsgDisp("Sassa","...But if something's up, let me know.");
 MsgDisp("主人公","Yes, thank you.
 Good night.");
 ChEye(2,0);

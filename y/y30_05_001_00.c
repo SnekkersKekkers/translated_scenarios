@@ -29,7 +29,7 @@ happy looking poster.");
 VoicePlay("Y300500100_05_020");
 MsgDisp("Hiiragi","\"Hn?
 Kamakura Cafe?\"");
-MsgDisp("","... Yes, this is it.
+MsgDisp("","...Yes, this is it.
 Surely she'll enjoy this!");
 MsgClear();
 MsgClose();

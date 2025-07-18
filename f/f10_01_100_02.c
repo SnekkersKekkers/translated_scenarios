@@ -25,7 +25,7 @@ VoicePlay("F100110002_01_020");
 MsgDisp("Kazama","No matter what, you'll start falling
 asleep.");
 MsgDisp("主人公","Is that so?
-I'm okay now, but... '");
+I'm okay now, but...'");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,2);
@@ -67,7 +67,7 @@ MsgClose();
 BGOpen("sc300",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(...The note ｛風真＊＊｝ gave
-me... I wonder what it says? I'm not
+me...I wonder what it says? I'm not
 sleepy, but I'll take a look.)");
 SEPlay("EV_SE_662");
 SEWait();

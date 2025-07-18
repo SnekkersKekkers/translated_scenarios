@@ -5,7 +5,7 @@ VoicePlay("X200D00202_22_000");
 MsgDisp("Hikaru","Is there someone who has been hurt by
 Mari? If you have any idea, it would be
 best to resolve the issue.");
-MsgDisp("主人公","(Is there... someone I've hurt?)");
+MsgDisp("主人公","(Is there...someone I've hurt?)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

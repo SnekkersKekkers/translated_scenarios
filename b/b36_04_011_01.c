@@ -31,7 +31,7 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B360401101_04_030");
 MsgDisp("Nanatsumori","It was mostly those two?
-... Geez, they're too energetic.");
+...Geez, they're too energetic.");
 MsgDisp("主人公","Hehe.
 I wonder if those two have arrived home
 yet?");

@@ -42,7 +42,7 @@ My only rival is myself.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040202302_02_030");
-        MsgDisp("Sassa","... Ah, thank you.
+        MsgDisp("Sassa","...Ah, thank you.
 It was just a joke, though...");
         MsgDateResultDisp();
         break ;

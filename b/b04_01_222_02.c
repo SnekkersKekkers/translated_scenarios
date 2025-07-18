@@ -9,7 +9,7 @@ VoicePlay("B040122202_01_000");
 MsgDisp("Kazama","The exhibit artifacts are important, but
 there's a history behind each scratch on
 the pillars and floors.");
-MsgSel("The castle itself was rebuilt right?","Were they cut with swords during a battle?","How cruel... there's graffiti too.");
+MsgSel("The castle itself was rebuilt right?","Were they cut with swords during a battle?","How cruel...there's graffiti too.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){

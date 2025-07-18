@@ -18,7 +18,7 @@ come...)");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoicePlay("P030200000_02_000");
     MsgDisp("Sassa","Excuse me!
-Wow... this is pretty fancy.");
+Wow...this is pretty fancy.");
     MsgDisp("主人公","｛颯砂＊＊｝, welcome!");
     ChEye(2,0);
     ChMouth(2,4);

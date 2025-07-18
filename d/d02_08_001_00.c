@@ -15,7 +15,7 @@ VoicePlay("D020800100_08_010");
 MsgDisp("Shirahane","That's not it.
 Recently I started running 10,000 meters
 in the mornings before work.");
-MsgDisp("主人公","Ehh∋ 10,000 meters that's... １０km?
+MsgDisp("主人公","Ehh∋ 10,000 meters that's...１０km?
 On top of that, it's twice, so 20km∋");
 ChEye(8,0);
 ChMotion(8,3,1);

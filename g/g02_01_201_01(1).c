@@ -38,7 +38,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120101_01_050");
-MsgDisp("Kazama","Haa... I don't really want to say things
+MsgDisp("Kazama","Haa...I don't really want to say things
 like this. Sorry. I made you feel bad.");
 MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,0);

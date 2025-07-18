@@ -10,7 +10,7 @@ SEWait();
 MsgDisp("主人公","Yes, hello?");
 VoicePlay("D030901800_09_000");
 MsgDisp("Kuya","Good evening.
-I didn't wake you... did I?");
+I didn't wake you...did I?");
 MsgDisp("主人公","Hehe, of course not!");
 VoicePlay("D030901800_09_010");
 MsgDisp("Kuya","Tomorrow is exam day.
@@ -37,7 +37,7 @@ about it all being over, it was about the
 exam——");
 VoicePlay("D030901800_09_060");
 MsgDisp("Kuya","That's not it.
-... When that time comes, you'll see.");
+...When that time comes, you'll see.");
 VoicePlay("D030901800_09_070");
 MsgDisp("Kuya","Let's meet again tomorrow when everything
 is finally over for our Happy End.

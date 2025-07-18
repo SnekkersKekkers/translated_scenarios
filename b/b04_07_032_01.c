@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040703201_07_000");
 MsgDisp("Mikage","Then, choose your own theme and walk
 around and look freely.");
-MsgSel("My... theme...","｛御影＊＊｝, aren't you having fun?","There's a cafe over there, right?");
+MsgSel("My...theme...","｛御影＊＊｝, aren't you having fun?","There's a cafe over there, right?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

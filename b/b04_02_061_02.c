@@ -90,7 +90,7 @@ on top.");
         ChMouth(2,2);
         ChMotion(2,2);
         VoicePlay("B040206102_02_080");
-        MsgDisp("Sassa","... Woah, the orca actually has hidden
+        MsgDisp("Sassa","...Woah, the orca actually has hidden
 potential.
 I didn't think of that...");
         MsgDisp("主人公","Uhm...?

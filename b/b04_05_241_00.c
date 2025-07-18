@@ -36,7 +36,7 @@ doing their best");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("B040524100_05_030");
-    MsgDisp("Hiiragi","The goats and horses... are looking at us.
+    MsgDisp("Hiiragi","The goats and horses...are looking at us.
 We're the ones in the way, let's go greet
 them.");
     MsgDispSksp(1,0);

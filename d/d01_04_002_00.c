@@ -38,7 +38,7 @@ ScrFadeIn(0);
 VoicePlay("D010400200_04_010");
 MsgDisp("Nanatsumori","......");
 MsgDisp("主人公","He really fell asleep here.");
-MsgDisp("主人公","... Hehe.
+MsgDisp("主人公","...Hehe.
 He looks like he's sleeping well, too.");
 MsgDisp("主人公","Did you stay up too late browsing the net?");
 VoicePlay("D010400200_04_020");
@@ -87,7 +87,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("D010400200_04_090");
-MsgDisp("Nanatsumori","Eh... I just woke up and it's so bright up
+MsgDisp("Nanatsumori","Eh...I just woke up and it's so bright up
 there...I'll burn...");
 MsgDisp("主人公","Geez.
 You're not a vampire.");

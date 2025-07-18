@@ -6,7 +6,7 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406300_04_000");
-MsgDisp("Nanatsumori","Ahー... it's cold.
+MsgDisp("Nanatsumori","Ahー...it's cold.
 No way...");
 MsgSel("We have the winter sea to ourselves!","the winter sea feels sad...","There are many delicious things in the winter sea♪");
 switch (MsgSelRsltGet()){

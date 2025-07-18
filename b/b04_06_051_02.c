@@ -6,7 +6,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040605102_06_000");
-MsgDisp("Himuro","... The pair beside us weren't even
+MsgDisp("Himuro","...The pair beside us weren't even
 looking at the stars at all.
 I wonder what they came here for.");
 MsgSel("To love each other?","What a waste of money!","I'm jealous!");
@@ -79,7 +79,7 @@ your surroundings...?");
         ChMouth(6,2);
         ChMotion(6,2);
         VoicePlay("B040605102_06_080");
-        MsgDisp("Himuro","I... haven't experienced something like
+        MsgDisp("Himuro","I...haven't experienced something like
 that.");
         MsgDisp("主人公","Would you also want to experience a love
 like that one day, ｛氷室＊＊｝?");

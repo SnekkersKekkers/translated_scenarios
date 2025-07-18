@@ -71,7 +71,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("D130B00200_04_030");
-MsgDisp("Nanatsumori","I... got one too.");
+MsgDisp("Nanatsumori","I...got one too.");
 MsgDisp("主人公","Looks like I didn't get one.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -83,7 +83,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("D130B00200_03_040");
-MsgDisp("Honda","Is he just a worrywart... or is he
+MsgDisp("Honda","Is he just a worrywart...or is he
 jealous?");
 MsgDisp("主人公","???");
 ChEye(4,3);
@@ -100,7 +100,7 @@ MsgDisp("Honda","That's right!
 Let's go, ｛主人公｝.");
 MsgDisp("主人公","...Yeah!");
 MsgDisp("主人公","(I'm curious what ｛風真＊＊｝'s
-message said though... I see, there is
+message said though...I see, there is
 only a little bit of time left where I can
 be with everyone together like this...)");
 BGMStop();

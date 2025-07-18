@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(It's starting already... turns out I
+    MsgDisp("主人公","(It's starting already...turns out I
 really am anxious.)");
     VoicePlay("P230600000_06_000");
     MsgDisp("Himuro?","Relax.");
@@ -32,7 +32,7 @@ you always have.");
     ChMotion(6,0);
     VoicePlay("P230600000_06_020");
     MsgDisp("Himuro","Still nervous?
-Then... give me your hand.");
+Then...give me your hand.");
     MsgDisp("主人公","My hand?");
     ChClose(6,0,30);
     ChLayout(0);
@@ -42,7 +42,7 @@ Then... give me your hand.");
     SEPlay("EV_SE_504");
     SEWait();
     VoicePlay("P230600000_06_030");
-    MsgDisp("Himuro","... I thought so, they're cold.
+    MsgDisp("Himuro","...I thought so, they're cold.
 You can't stay calm like this.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -51,7 +51,7 @@ You can't stay calm like this.");
     VoicePlay("P230600000_06_040");
     MsgDisp("Himuro","It's alright.
 I'm the same.");
-    MsgDisp("主人公","｛氷室＊＊｝... yeah, thank you.");
+    MsgDisp("主人公","｛氷室＊＊｝...yeah, thank you.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);

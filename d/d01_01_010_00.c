@@ -18,7 +18,7 @@ MsgDisp("主人公","O-Okay, sure.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(What's going on?
-｛風真＊＊｝... )");
+｛風真＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -80,7 +80,7 @@ visit the castle?");
 StlEye(1,1);
 VoicePlay("D010101000_01_061");
 MsgDisp("Kazama","I guess so.
-... The city changed a lot while I was
+...The city changed a lot while I was
 gone, I guess?");
 MsgDisp("主人公","That's true.");
 StlEye(1,0);

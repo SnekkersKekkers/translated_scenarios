@@ -61,7 +61,7 @@ I can't feel at ease, even at home.");
     ChEyeOpenLevel(6,8);
     ChCheek(6,5);
     VoicePlay("B010600002_06_060");
-    MsgDisp("Himuro","... Is that a bad thing?");
+    MsgDisp("Himuro","...Is that a bad thing?");
     MsgDisp("主人公","Hehe, not really?");
     ChEye(6,0);
     ChMouth(6,1);

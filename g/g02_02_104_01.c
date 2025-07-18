@@ -12,7 +12,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020210401_02_010");
 MsgDisp("Sassa","There are cherry blossoms and fireflies
-here... What else was there? Like spots
+here...What else was there? Like spots
 that are only available for a limited
 time.");
 MsgDisp("主人公","Hmm, fireworks, and also things like beach
@@ -42,7 +42,7 @@ ChMotion(2,4);
 VoicePlay("G020210401_02_050");
 MsgDisp("Sassa","Looking at the long run, the time I get to
 spend with you now might be special.");
-MsgDisp("主人公","(I see... maybe these three years at Haba
+MsgDisp("主人公","(I see...maybe these three years at Haba
 High School are a special period after
 all.)");
 BGMStop();

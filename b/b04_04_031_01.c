@@ -13,10 +13,10 @@ ChMouth(4,0);
 ChMotion(4,5);
 ChEyeOpenLevel(4,10);
 VoicePlay("B040403101_04_000");
-MsgDisp("Nanatsumori","A king penguin... chick∋
+MsgDisp("Nanatsumori","A king penguin...chick∋
 It's huge∈");
 ChEyeOpenLevel(4,#1);
-MsgSel("Waa, it's so fluffy!","Its so big... there could be a person in there","It's too big, it's scary");
+MsgSel("Waa, it's so fluffy!","Its so big...there could be a person in there","It's too big, it's scary");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -37,7 +37,7 @@ Pay attention to that too∈");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040403101_04_020");
-    MsgDisp("Nanatsumori","For sure... a human child could fit in
+    MsgDisp("Nanatsumori","For sure...a human child could fit in
 there. Damn! That's funny, I'll take a
 picture.");
     MsgDispSksp(1,0);

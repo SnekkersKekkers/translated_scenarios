@@ -108,7 +108,7 @@ ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,0);
 VoicePlay("G110400703_04_080");
-MsgDisp("Nanatsumori","Aah... that's enough, it can be a pain
+MsgDisp("Nanatsumori","Aah...that's enough, it can be a pain
 sometimes.");
 MsgDisp("主人公","(｛七ツ森＊｝ seems very serious about his
 work.)");

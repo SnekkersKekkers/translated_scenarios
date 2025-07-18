@@ -48,7 +48,7 @@ I'll talk it over with the zoo.");
         ChMotion(5,4);
         VoicePlay("B040521202_05_030");
         MsgDisp("Hiiragi","Actually, when we were touring around the
-country... we did sell that.");
+country...we did sell that.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -58,7 +58,7 @@ country... we did sell that.");
         ChMotion(5,0);
         VoicePlay("B040521202_05_040");
         MsgDisp("Hiiragi","Actually, when we were touring around the
-country... we did sell that.");
+country...we did sell that.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040521202_05_050");
@@ -84,7 +84,7 @@ business.");
 part of a citizens' theatre troupe.
 There's no need to have a t-shirt with my
 face on it right?");
-        MsgDisp("主人公","... That's right...");
+        MsgDisp("主人公","...That's right...");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040521202_05_090");
@@ -119,7 +119,7 @@ That would be an interesting person.");
         MsgDisp("Hiiragi","It'll only be my prized possession.
 In that case, would it be okay?");
         MsgDisp("主人公","(A t-shirt with the two of us?
-... It's embarrassing, but it might be
+...It's embarrassing, but it might be
 interesting?)");
         break ;
         default :

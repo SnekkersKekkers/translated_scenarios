@@ -11,7 +11,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("I640000001_40_010");
-MsgDisp("Manager","I see... it's too bad, but thanks for all
+MsgDisp("Manager","I see...it's too bad, but thanks for all
 you've done.");
 MsgDisp("主人公","Thank you for looking after me.
 Bye...");

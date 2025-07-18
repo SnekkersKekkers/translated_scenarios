@@ -56,7 +56,7 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020520201_05_080");
 MsgDisp("Hiiragi","Huu...
-I am an actor... maybe I should attempt
+I am an actor...maybe I should attempt
 imitating Mikage-sensei?");
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","Eh?

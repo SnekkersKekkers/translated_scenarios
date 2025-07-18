@@ -27,7 +27,7 @@ stayed as the baseball club manager...)");
     ChOpen(21,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A2100001_21_020");
-    MsgDisp("Michiru","Mari... good work out there.");
+    MsgDisp("Michiru","Mari...good work out there.");
     MsgDisp("主人公","｛みちる＊｝, we lost...");
     ChEye(21,0);
     ChMouth(21,0);

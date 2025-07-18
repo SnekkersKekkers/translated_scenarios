@@ -14,7 +14,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("I550600000_06_010");
     MsgDisp("Himuro","5 daifuku and 5 mitarashi dango, please.");
     MsgDisp("主人公","Very well.
-... Wait, ｛氷室＊＊｝∋");
+...Wait, ｛氷室＊＊｝∋");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -129,7 +129,7 @@ that often?");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I550600000_06_140");
-    MsgDisp("Himuro","Huh... no, I was just passing by.");
+    MsgDisp("Himuro","Huh...no, I was just passing by.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -154,7 +154,7 @@ How are these?");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("I550600000_06_170");
-    MsgDisp("Himuro","... Yeah.
+    MsgDisp("Himuro","...Yeah.
 Good choices.");
     MsgDisp("主人公","Hehe, I'm glad.");
     ChEye(6,0);
@@ -176,7 +176,7 @@ Just means you've gotten good at this.");
     ChMotion(6,0);
     VoicePlay("I550600000_06_200");
     MsgDisp("Himuro","Well, see you.
-... Keep up the good work.");
+...Keep up the good work.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

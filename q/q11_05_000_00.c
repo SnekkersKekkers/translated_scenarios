@@ -31,7 +31,7 @@ I bought some castella too.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("Q110500000_05_030");
-MsgDisp("Hiiragi","And also... a matching with you.
+MsgDisp("Hiiragi","And also...a matching with you.
 A chopstick rest in the shape of the
 Megane Bridge.");
 MsgDisp("主人公","Wow, so cute!");

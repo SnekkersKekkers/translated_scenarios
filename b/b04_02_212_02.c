@@ -61,7 +61,7 @@ about a character like that horse plushie?");
         ChMotion(2,3);
         VoicePlay("B040221202_02_050");
         MsgDisp("Sassa","Oh, a big horse that runs fast, a
-thoroughbred... that's nice.");
+thoroughbred...that's nice.");
         MsgDisp("主人公","Yeah, shall we buy it to take home?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -69,8 +69,8 @@ thoroughbred... that's nice.");
         VoicePlay("B040221202_02_060");
         MsgDisp("Sassa","Then, let's find a plush that looks like
 you!
-If I'm a horse, you're a... pony?");
-        MsgDisp("主人公","(Umm... are we limited to horses?)");
+If I'm a horse, you're a...pony?");
+        MsgDisp("主人公","(Umm...are we limited to horses?)");
         break ;
         default :
         DbgAssert(1);

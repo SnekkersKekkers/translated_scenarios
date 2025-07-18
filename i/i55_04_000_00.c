@@ -33,7 +33,7 @@ Please take your time looking around.");
     VoicePlay("I550400000_04_030");
     MsgDisp("Nanatsumori","Yeah.
 By the way, got any new sweets?");
-    MsgDisp("主人公","(Window shopping... or not?)");
+    MsgDisp("主人公","(Window shopping...or not?)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -99,7 +99,7 @@ What are you looking for today?");
     ChMotion(4,0,1);
     VoicePlay("I550400000_04_110");
     MsgDisp("Nanatsumori","Let's see.
-... How about you?");
+...How about you?");
     MsgDisp("主人公","Hm?");
     ChEye(4,0);
     ChMouth(4,0);

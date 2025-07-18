@@ -92,7 +92,7 @@ waiting for me?");
     MsgDisp("Mikage","Yeah, I knew from the beginning that you'd
 suit the gardening club.
 Since you're so serious.");
-    MsgDisp("主人公","Um... is being serious related to
+    MsgDisp("主人公","Um...is being serious related to
 gardening?");
     ChEye(7,0);
     ChMouth(7,0);

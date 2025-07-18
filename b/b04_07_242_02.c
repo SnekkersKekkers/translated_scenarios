@@ -75,7 +75,7 @@ Yeah, I'll give it my all!)");
 　　　　　　　　　　 ・");
         ChOpen(7,255,0,0,0,#1,#1,0,0);
         ScrFadeIn(0);
-        MsgDisp("主人公","... I'm very sorry.
+        MsgDisp("主人公","...I'm very sorry.
 I burnt the camping pot.");
         ChEye(7,0);
         ChMouth(7,0);
@@ -84,7 +84,7 @@ I burnt the camping pot.");
         MsgDisp("Mikage","That's right.
 But, well, it was delicious?
 I had fun.");
-        MsgDisp("主人公","Umm... yes.");
+        MsgDisp("主人公","Umm...yes.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,5);

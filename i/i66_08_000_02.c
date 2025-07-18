@@ -7,7 +7,7 @@ switch (ChPrmGet(8,6)){
     case 2:
     case 3:
     MsgDisp("主人公","Which way are you headed?
-... Yes, to the left, please.");
+...Yes, to the left, please.");
     MsgDisp("主人公","Yes, okay.
 Thank you very much!");
     SEPlay("EV_SE_589",1);
@@ -36,7 +36,7 @@ Well, lemme learn from you!");
     case 4:
     case 5:
     MsgDisp("主人公","Which way are you headed?
-... Yes, to the left, please.");
+...Yes, to the left, please.");
     MsgDisp("主人公","Yes, okay.
 Thank you very much!");
     SEPlay("EV_SE_589",1);

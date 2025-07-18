@@ -4,6 +4,6 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("SS0406322_06_000");
-MsgDisp("Himuro","... Don't be shy.");
+MsgDisp("Himuro","...Don't be shy.");
 MsgClose();
 ChCheek(6,0);

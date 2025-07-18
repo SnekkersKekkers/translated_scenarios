@@ -20,7 +20,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010230200_02_000");
 MsgDisp("Sassa","Mikage-sensei, I'm super serious.
-... You're funny, though.");
+...You're funny, though.");
 MsgDisp("主人公","What??");
 ChMotion(2,0);
 ChEye(7,0);
@@ -89,7 +89,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_060");
 MsgDisp("Mikage","If I had to give you one piece of
-advice... \"It's not what you eat, but who
+advice...\"It's not what you eat, but who
 you eat it with.\". That's my advice.");
 ChEye(7,0);
 ChMouth(7,3);

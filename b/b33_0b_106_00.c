@@ -107,7 +107,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10600_01_040");
-MsgDisp("Kazama","Somehow... my chest kinda hurts.");
+MsgDisp("Kazama","Somehow...my chest kinda hurts.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

@@ -49,7 +49,7 @@ meー...");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040420002_04_050");
-        MsgDisp("Nanatsumori","... Hey.
+        MsgDisp("Nanatsumori","...Hey.
 Is it unattractive to not skate coolly?");
         MsgDisp("主人公","Hm?");
         ChEye(4,2);
@@ -103,7 +103,7 @@ I only need to try looking cool at work.");
         ChEye(4,4);
         VoicePlay("B040420002_04_120");
         MsgDisp("Nanatsumori","You accept me as I am.
-... Thank you.");
+...Thank you.");
         MsgDisp("主人公","(｛七ツ森＊｝...)");
         break ;
         default :

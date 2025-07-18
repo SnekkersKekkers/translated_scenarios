@@ -18,7 +18,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChCheek(4,5);
 VoicePlay("G110400704_04_010");
-MsgDisp("Nanatsumori","Ah... yeah.
+MsgDisp("Nanatsumori","Ah...yeah.
 I'm back.");
 MsgDisp("主人公","We have a special seat waiting for you.");
 MsgClose();
@@ -61,7 +61,7 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("G110400704_04_080");
-MsgDisp("Nanatsumori","... Yeah.
+MsgDisp("Nanatsumori","...Yeah.
 In any case, I'm fine with it...");
 MsgDisp("主人公","?");
 ChEye(4,2);

@@ -9,7 +9,7 @@ That was a pretty big sigh.");
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("G020410200_04_010");
-MsgDisp("Nanatsumori","Ah... sorry.");
+MsgDisp("Nanatsumori","Ah...sorry.");
 ChMouth(4,0);
 VoicePlay("G020410200_04_020");
 MsgDisp("Nanatsumori","I just feel kind of worthless.");

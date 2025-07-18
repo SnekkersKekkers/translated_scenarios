@@ -55,7 +55,7 @@ praised me!)");
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,4,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_570");
-    MsgDisp("Honda","... Hm?
+    MsgDisp("Honda","...Hm?
 Isn't the store sparkling?");
     MsgDisp("主人公","Huh?");
     ChMotion(3,0,1);
@@ -73,7 +73,7 @@ But, I'm surprised you noticed,
     VoicePlay("I260300000_03_590");
     MsgDisp("Honda","I have worked here longer than you, you
 know?");
-    MsgDisp("主人公","Ah... hehe, you're right.");
+    MsgDisp("主人公","Ah...hehe, you're right.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);

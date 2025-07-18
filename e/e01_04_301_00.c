@@ -52,7 +52,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("E010430100_04_040");
-MsgDisp("Nanatsumori","... Bugs!
+MsgDisp("Nanatsumori","...Bugs!
 The nighttime rainforest section has way
 too many bugs!");
 ChEye(3,3);
@@ -77,7 +77,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010430100_03_040");
 MsgDisp("Honda","Mii-kun?
-... It is what it is.");
+...It is what it is.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -20,11 +20,11 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110300_01_030");
-MsgDisp("Kazama","... Speaking of which...
+MsgDisp("Kazama","...Speaking of which...
 Remember that time at the \"Habakaki Land
 Town\" ferris wheel?");
 MsgDisp("主人公","Ah...yeah. ｛風真＊＊｝, you
-kissed my forehead... Everyone saw, it was
+kissed my forehead...Everyone saw, it was
 so embarrassing.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -76,7 +76,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020110300_01_090");
 MsgDisp("Kazama","There are people watching here too.");
-MsgDisp("主人公","(I'm surprised... what's up with
+MsgDisp("主人公","(I'm surprised...what's up with
 ｛風真＊＊｝ today?)");
 BGMStop();
 MsgClose();

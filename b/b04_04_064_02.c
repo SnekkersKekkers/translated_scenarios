@@ -96,7 +96,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_120");
-MsgDisp("Nanatsumori","... Yeah, I'll take it off.
+MsgDisp("Nanatsumori","...Yeah, I'll take it off.
 I wonder if this is how Fathers with
 daughters feelー...");
 MsgDisp("主人公","Ah, you're treating me like a child!");

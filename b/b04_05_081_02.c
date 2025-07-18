@@ -9,7 +9,7 @@ ChMotion(5,4);
 VoicePlay("B040508102_05_000");
 MsgDisp("Hiiragi","No matter how many times I see it, it's
 unchangingly beautiful.");
-MsgSel("I want to come again and again.","Umm... thank you.","Quite a lot has fallen huh?");
+MsgSel("I want to come again and again.","Umm...thank you.","Quite a lot has fallen huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -36,7 +36,7 @@ enough.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,8);
         VoicePlay("B040508102_05_020");
-        MsgDisp("Hiiragi","... Ah, yes, of course.
+        MsgDisp("Hiiragi","...Ah, yes, of course.
 You're also beautiful.");
         MsgDateResultDisp();
         break ;

@@ -115,7 +115,7 @@ Thanks for the food!");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(｛颯砂＊＊｝... did the small amount of
+    MsgDisp("主人公","(｛颯砂＊＊｝...did the small amount of
 food just serve as an appetizer?)");
     break ;
     case 4:
@@ -142,7 +142,7 @@ So I just ended up coming.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("I550200000_02_150");
-    MsgDisp("Sassa","... Hm?
+    MsgDisp("Sassa","...Hm?
 I realized this as I was saying it, but
 aren't my actions kinda bad?");
     MsgDisp("主人公","Huh, I don't think so.
@@ -153,7 +153,7 @@ You came to check on me, right?");
     VoicePlay("I550200000_02_160");
     MsgDisp("Sassa","If you say that, then it's fine, but A big
 guy like me coming to a store like this
-for no reason... isn't it weird?");
+for no reason...isn't it weird?");
     MsgDisp("主人公","Not at all, the manager would be happy
 that you came in for no reason. We have a
 lot of single male customers, too.");

@@ -89,7 +89,7 @@ I'm not a gasoline-powered car.");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("I650200000_02_090");
-    MsgDisp("Sassa","Hm... alright.
+    MsgDisp("Sassa","Hm...alright.
 Looks like my tank's full.
 See you!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

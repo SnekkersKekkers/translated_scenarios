@@ -6,7 +6,7 @@ VoiceEVSPlay(5);
 VoicePlay("P840500001_05_000");
 MsgDisp("Hiiragi","｛主人公｝.
 The confectionaries we used to welcome the
-guests.... where did you purchase it from?");
+guests....where did you purchase it from?");
 MsgDisp("主人公","Eh?
 They were sweets from the staffroom
 though...");
@@ -36,7 +36,7 @@ VoicePlay("P840500001_05_030");
 MsgDisp("Hiiragi","I sincerely apologized, and I think they
 understood, but I'm guessing it's an
 unpleasant memory.");
-MsgDisp("主人公","(Haa... a huge fail...)");
+MsgDisp("主人公","(Haa...a huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

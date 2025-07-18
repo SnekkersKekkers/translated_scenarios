@@ -57,7 +57,7 @@ the store's atmosphere.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100001_01_050");
-    MsgDisp("Kazama","Doing it without being told to... you're
+    MsgDisp("Kazama","Doing it without being told to...you're
 suited for this work.");
     MsgDisp("主人公","(I did it!
 ｛風真＊＊｝ praised me.

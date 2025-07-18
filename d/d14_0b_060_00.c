@@ -60,7 +60,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("D140B06000_04_030");
-MsgDisp("Nanatsumori","... It's definitely none of our business.
+MsgDisp("Nanatsumori","...It's definitely none of our business.
 Sorry.");
 MsgDisp("主人公","(Everyone is worried about me and
 ｛風真＊＊｝...? )");

@@ -29,7 +29,7 @@ VoiceEVSPlay(6);
 VoicePlay("D140C05101_06_000");
 MsgDisp("Himuro","｛主人公｝, you like Habataki
 mixed juice right?
-... Do you want it?");
+...Do you want it?");
 ChMouth(5,4);
 MsgDisp("主人公","Is that okay?");
 ChEye(7,0);
@@ -42,7 +42,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("D140C05101_06_010");
-MsgDisp("Himuro","... Understood.
+MsgDisp("Himuro","...Understood.
 I'll also bring one for Yanosuke-senpai
 and Kojiro-sensei.");
 MsgClose();

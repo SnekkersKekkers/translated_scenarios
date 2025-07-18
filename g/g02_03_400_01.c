@@ -43,7 +43,7 @@ VoicePlay("G020340001_03_050");
 MsgDisp("Honda","Yeah. I learned the hard way that stacking
 up a tower of unread books by my bedside
 is dangerous.");
-MsgDisp("主人公","Yeah... make sure to organize them
+MsgDisp("主人公","Yeah...make sure to organize them
 properly, okay?");
 ChEye(3,2);
 ChMouth(3,4);

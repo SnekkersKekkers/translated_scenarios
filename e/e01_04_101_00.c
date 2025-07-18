@@ -2,7 +2,7 @@ BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Well, I think I'll go home now.");
-MsgDisp("主人公","... Huh?
+MsgDisp("主人公","...Huh?
 Something fell.");
 SEPlay("EV_SE_641",0,0.8);
 SEWait();

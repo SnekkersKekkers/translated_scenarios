@@ -113,7 +113,7 @@ You seem to enjoy teaching other people,
         ChMouth(3,0);
         ChMotion(3,2);
         VoicePlay("B040308102_03_110");
-        MsgDisp("Honda","Huh? Umm... I wonder if that's a positive
+        MsgDisp("Honda","Huh? Umm...I wonder if that's a positive
 affirmation or not...");
         ChEye(3,3);
         ChMouth(3,3);

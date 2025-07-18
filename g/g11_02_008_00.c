@@ -73,7 +73,7 @@ MsgClose();
 ChClose(2,0,0);
 BGOpen("ex110",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(He's gone... huh?
+MsgDisp("主人公","(He's gone...huh?
 Wasn't this supposed to be a cool down
 run?)");
 MsgClose();

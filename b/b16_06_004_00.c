@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     NSSEye(6,0);
     NSSMouth(6,0);
     VoicePlay("B160600400_06_010");
-    MsgDisp("Himuro","... Ah, right.
+    MsgDisp("Himuro","...Ah, right.
 Keep that attitude up.");
     break ;
     case 1:

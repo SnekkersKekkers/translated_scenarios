@@ -24,7 +24,7 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040117002_01_010");
-        MsgDisp("Kazama","Geez... you're getting carried away.");
+        MsgDisp("Kazama","Geez...you're getting carried away.");
         MsgDateResultDisp();
         break ;
         case 4:

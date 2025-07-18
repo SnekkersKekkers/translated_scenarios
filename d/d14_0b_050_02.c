@@ -87,7 +87,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B05002_01_030");
 MsgDisp("Kazama","Shut up.
 Go eat quickly.");
-MsgDisp("主人公","(Hey... my heart is racing now...)");
+MsgDisp("主人公","(Hey...my heart is racing now...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

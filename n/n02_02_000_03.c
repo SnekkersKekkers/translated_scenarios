@@ -101,7 +101,7 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
     MsgDisp("主人公","(｛颯砂＊＊｝, I'm so low on the list he
-didn't see it... Oof... I have to study
+didn't see it...Oof...I have to study
 harder next time...)");
     break ;
     default :

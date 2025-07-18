@@ -144,7 +144,7 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020200000_02_190");
-MsgDisp("Sassa","But all that comes to mind is... you.");
+MsgDisp("Sassa","But all that comes to mind is...you.");
 MsgDisp("主人公","Me...?");
 ChEye(2,4);
 ChMouth(2,4);

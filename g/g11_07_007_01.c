@@ -1,7 +1,7 @@
 BGOpen("sc520",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I still have some time before lunch
-ends... Ah, that reminds me. The other day
+ends...Ah, that reminds me. The other day
 ｛御影＊＊｝ said I could
 drop by anytime, right?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

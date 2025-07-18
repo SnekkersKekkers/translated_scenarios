@@ -12,7 +12,7 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);
 ChCheek(6,10);
-MsgDisp("Himuro","Hu... huh?");
+MsgDisp("Himuro","Hu...huh?");
 MsgDisp("主人公","I like you too.");
 VoicePlay("T020600000_06_280");
 ChEye(6,0);

@@ -25,14 +25,14 @@ I have to study harder...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600003_06_020");
-    MsgDisp("Himuro","... Did you turn in a blank paper?");
+    MsgDisp("Himuro","...Did you turn in a blank paper?");
     MsgDisp("主人公","Huh, I filled in all the answers...");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("N020600003_06_030");
-    MsgDisp("Himuro","Then... did you put them in the wrong
+    MsgDisp("Himuro","Then...did you put them in the wrong
 column?");
     MsgDisp("主人公","(Oof...
 I have to study harder...)");

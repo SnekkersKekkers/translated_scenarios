@@ -60,10 +60,10 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("P240600000_06_060");
 MsgDisp("Himuro","This isn't like me at all...");
-MsgDisp("主人公","(Ugh... what should we do?
+MsgDisp("主人公","(Ugh...what should we do?
 This is different to the script...
 No, I'll just keep going.)");
-MsgDisp("主人公","But... my father, the Celestial Emperor,
+MsgDisp("主人公","But...my father, the Celestial Emperor,
 does not view our current relationship
 favorably. If things continue like
 this——");
@@ -101,7 +101,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(6,38,0,0,0,#1,#1,0,0);
 VoicePlay("P240600000_06_090");
-MsgDisp("Himuro","Sorry... about that.");
+MsgDisp("Himuro","Sorry...about that.");
 MsgDisp("主人公","Eh...
 Ah, you mean the adlibbing?");
 ChEye(6,0);

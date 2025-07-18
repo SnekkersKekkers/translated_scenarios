@@ -46,7 +46,7 @@ ChMotion(5,0);
 VoicePlay("D140C06001_05_030");
 MsgDisp("Hiiragi","Inori-kun always does things like that and
 livens things up.");
-MsgDisp("主人公","Umm... it just sounds like he says what he
+MsgDisp("主人公","Umm...it just sounds like he says what he
 thinks?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -72,7 +72,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C06001_05_050");
-MsgDisp("Hiiragi","The first thing he'll say is... \"
+MsgDisp("Hiiragi","The first thing he'll say is...\"
 What are you all so solemn for\".");
 ChEye(7,0);
 ChMouth(7,0);

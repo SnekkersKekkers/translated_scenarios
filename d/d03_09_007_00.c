@@ -117,11 +117,11 @@ VoicePlay("D030900700_09_070");
 MsgDisp("Kuya","...Go ahead.");
 SEPlay("EV_SE_662");
 SEWait();
-MsgDisp("主人公","... Like I thought.
+MsgDisp("主人公","...Like I thought.
 Here, take a look.");
 MsgDisp("主人公","\"Local Idols Wanted!
 Let's see the world together▼\"");
-MsgDisp("主人公","... See?
+MsgDisp("主人公","...See?
 Isn't that strange?");
 VoicePlay("D030900700_09_090");
 ChEye(9,2);
@@ -135,7 +135,7 @@ ChEye(9,3);
 ChMouth(9,1);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
-MsgDisp("Kuya","... Huh?
+MsgDisp("Kuya","...Huh?
 That is kind of weird, yeah.");
 MsgDisp("主人公","Geez...
 That guy is famous around here.
@@ -161,7 +161,7 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 MsgDisp("Kuya","Thanks for letting me know.
-... I'm sorry.");
+...I'm sorry.");
 MsgDisp("主人公","No, I'm sorry for being so harsh.
 Anyway...");
 VoicePlay("D030900700_09_140");

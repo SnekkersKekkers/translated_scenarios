@@ -24,7 +24,7 @@ cheer us on?");
     ChMotion(1,0);
     VoicePlay("H180100000_01_020");
     MsgDisp("Kazama","You're part of the team too, aren't you?");
-    MsgDisp("主人公","Ah... yeah!");
+    MsgDisp("主人公","Ah...yeah!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

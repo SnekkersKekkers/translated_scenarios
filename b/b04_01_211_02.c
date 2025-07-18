@@ -93,7 +93,7 @@ would grow to like you.");
         MsgDisp("Kazama","After all, everyone naturally gathers
 around you, besides, is there anyone who
 doesn't like you?");
-        MsgDisp("主人公","Umm... a person who doesn't like me...");
+        MsgDisp("主人公","Umm...a person who doesn't like me...");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0,1);

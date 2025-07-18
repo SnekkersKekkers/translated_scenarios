@@ -31,7 +31,7 @@ VoicePlay("A020601000_06_030");
 MsgDisp("Himuro?","Or should I ask you first?
 I know exactly what Habataki High students
 want to ask me.");
-MsgDisp("主人公","? I mean... Are you and Vice Principal
+MsgDisp("主人公","? I mean...Are you and Vice Principal
 Himuro——");
 ChEye(6,0);
 ChMouth(6,4);
@@ -115,7 +115,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("A020601000_06_120");
 MsgDisp("Himuro","I'm Himuro Inori. First year. As you might
-have guessed, I'm Reiichi-san's... Vice
+have guessed, I'm Reiichi-san's...Vice
 Principal Himuro and I are related.");
 ChEye(6,1);
 ChMouth(6,0);
@@ -134,7 +134,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(｛氷室＊＊｝... Seems like I should stay
+MsgDisp("主人公","(｛氷室＊＊｝...Seems like I should stay
 away from bringing up his relationship
 with the vice principal.)");
 ChPrmTblAdd(6,0);

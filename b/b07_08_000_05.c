@@ -16,7 +16,7 @@ ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B070800000_08_250");
-MsgDisp("Shirahane","... Ah!
+MsgDisp("Shirahane","...Ah!
 I like reading Habatcher!");
 ChEye(8,3);
 ChMouth(8,3);

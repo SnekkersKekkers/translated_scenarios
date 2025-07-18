@@ -6,7 +6,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Here we are at Glasses Bridge.
 I'm happy I got able to come here before
 going to the souvenir shop.");
-MsgDisp("主人公","Wow... because of the reflection on the
+MsgDisp("主人公","Wow...because of the reflection on the
 river, it really looks like glasses!");
 MsgDisp("主人公","If I'm sure, there is a stone in the shape
 of a heart on the seawall, which is

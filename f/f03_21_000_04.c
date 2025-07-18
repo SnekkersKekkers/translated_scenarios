@@ -33,7 +33,7 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F032100000_21_210");
 MsgDisp("Michiru","He's a celebrity that travels the world
-now... come to think of it, I think he was
+now...come to think of it, I think he was
 an alumni of Haba High?");
 MsgDisp("主人公","(Wow!
 To think that such an amazing pianist was

@@ -53,7 +53,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B050500000_05_050");
 MsgDisp("Hiiragi","I get it.
-... Wait here a minute.
+...Wait here a minute.
 I'll go buy some.");
 MsgClose();
 SEStop("EV_SE_729",1);
@@ -79,7 +79,7 @@ Wait(50,0);
 StlEyeOpenLevel(5,5);
 VoicePlay("B050500000_05_070");
 MsgDisp("Hiiragi","Good job!
-... Did you see that?
+...Did you see that?
 It caught it.");
 MsgDisp("主人公","Yeah, that was cute!
 My turn now...

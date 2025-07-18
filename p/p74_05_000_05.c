@@ -2,7 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I fell... even though this was my last
+MsgDisp("主人公","(I fell...even though this was my last
 show...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -18,7 +18,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P740500005_05_010");
-MsgDisp("Hiiragi","Phew... that looked dangerous.
+MsgDisp("Hiiragi","Phew...that looked dangerous.
 I couldn't bare to watch.");
 MsgDisp("主人公","Yeah, my walk was completely terrible...");
 ChEye(5,2);
@@ -42,7 +42,7 @@ ChMotion(5,0);
 VoicePlay("P740500005_05_050");
 MsgDisp("Hiiragi","It was unfortunate that you fell, but
 please firmly hold your head up high.");
-MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝... I
+MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝...I
 failed in the end, but I'm glad I
 continued with the handicrafts club for
 three years.)");

@@ -49,7 +49,7 @@ MsgDisp("Honda","Huh!?");
 MsgDisp("主人公","Huh?");
 ChMotion(3,4);
 VoicePlay("B070301000_03_070");
-MsgDisp("Honda","Did I... just say that?");
+MsgDisp("Honda","Did I...just say that?");
 MsgDisp("主人公","Um, yeah.
 You said you really like me...");
 ChEye(3,1);
@@ -85,18 +85,18 @@ Wait(40,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛本多＊＊｝, thanks for walking
 me home.
-Um... are you okay?");
+Um...are you okay?");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B070301000_03_110");
 MsgDisp("Honda","Oh, yeah. Thanks for letting me walk you
-home. I'm fine... I think.");
+home. I'm fine...I think.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B070301000_03_120");
-MsgDisp("Honda","My head's still spinning a bit. I... I'll
+MsgDisp("Honda","My head's still spinning a bit. I...I'll
 head home before I say anything else
 stupid.");
 ChMotion(3,0);

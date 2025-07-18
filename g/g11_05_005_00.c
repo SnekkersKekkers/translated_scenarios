@@ -31,7 +31,7 @@ ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
 VoicePlay("G110500500_05_030");
-MsgDisp("Hiiragi","Ah... that's right.
+MsgDisp("Hiiragi","Ah...that's right.
 There's something I've wanted to ask you
 but I always forget.");
 MsgDisp("主人公","Eh, what is it?");
@@ -80,7 +80,7 @@ ChMouth(5,0);
 ChMotion(5,2);
 MsgDisp("主人公","(｛柊＊＊＊｝, It seems like you're more
 interested in Yakisoba than the festivals
-themselves... Maybe I should show him some
+themselves...Maybe I should show him some
 B-grade gourmet food TV shows?)");
 ChMotion(5,0);
 BGMStop();

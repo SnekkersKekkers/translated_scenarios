@@ -42,7 +42,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B360217000_02_040");
-MsgDisp("Sassa","No... will my voice be alright?");
+MsgDisp("Sassa","No...will my voice be alright?");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,0);

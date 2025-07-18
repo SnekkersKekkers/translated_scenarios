@@ -24,7 +24,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_030");
-MsgDisp("Kazama","... Sorry.
+MsgDisp("Kazama","...Sorry.
 But, I want to know your feelings even a
 little.");
 ChEye(1,2);

@@ -22,7 +22,7 @@ ChCheek(1,7);
 VoicePlay("Q260100000_01_020");
 MsgDisp("Kazama","If it was anyone other than me, that'd be
 upsetting.
-... Geez.");
+...Geez.");
 MsgDisp("主人公","(I see...
 Then the person I felt earlier was...)");
 MsgClose();

@@ -61,7 +61,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("M012100000_21_060");
-MsgDisp("Michiru","... For sure, right?
+MsgDisp("Michiru","...For sure, right?
 For today, rest well.
 Then, let us meet next week.");
 MsgClose();

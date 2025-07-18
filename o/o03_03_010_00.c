@@ -76,7 +76,7 @@ to ask that person to switch with me.");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("O030301000_03_080");
-    MsgDisp("Honda","... What!?
+    MsgDisp("Honda","...What!?
 Is that true!?");
     ChEye(3,0);
     ChMouth(3,4);

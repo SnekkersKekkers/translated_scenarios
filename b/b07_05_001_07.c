@@ -15,7 +15,7 @@ ChMouth(5,2);
 VoicePlay("B070500001_05_520");
 MsgDisp("Hiiragi","Hm, and what is 'that'?");
 MsgDisp("主人公","I suddenly thought about how me and
-｛柊＊＊＊｝... are alone
+｛柊＊＊＊｝...are alone
 together.");
 ChEye(5,3);
 ChMouth(5,2);
@@ -28,7 +28,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChCheek(5,5);
 VoicePlay("B070500001_05_540");
-MsgDisp("Hiiragi","Ah, is that so... thank you.");
+MsgDisp("Hiiragi","Ah, is that so...thank you.");
 MsgDisp("主人公","Eh?");
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
@@ -53,7 +53,7 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 ChCheek(5,5);
 VoicePlay("B070500001_05_580");
-MsgDisp("Hiiragi","Looking at me like that... ah.");
+MsgDisp("Hiiragi","Looking at me like that...ah.");
 ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);

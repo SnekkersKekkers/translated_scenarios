@@ -43,7 +43,7 @@ VoicePlay("P840D00005_21_010");
 MsgDisp("Michiru","I guess it was Hikaru's victory?");
 MsgDisp("主人公","(Even though I was in the student council
 for three years, In the end I caused
-trouble... sigh.)");
+trouble...sigh.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

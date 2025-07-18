@@ -91,7 +91,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q110B00000_03_030");
 MsgDisp("Honda","Well, how about this?");
-MsgDisp("主人公","... So beautiful!
+MsgDisp("主人公","...So beautiful!
 This is a beadlo, right?");
 ChEye(4,0);
 ChMouth(4,3);

@@ -107,7 +107,7 @@ be able to enjoy the cultural festival?");
     MsgDisp("Sassa","If I'm with you, I would enjoy even a
 fight.");
     MsgDisp("主人公","(It'd be troubling if you enjoyed that
-but... If ｛颯砂＊＊｝ is there,
+but...If ｛颯砂＊＊｝ is there,
 that's reassuring!)");
     MsgClose();
     ScrFadeOut(0,0);

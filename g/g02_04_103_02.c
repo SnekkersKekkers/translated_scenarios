@@ -34,7 +34,7 @@ ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410302_04_050");
 MsgDisp("Nanatsumori","I don't really pay attention to things
-like that but today... it just felt like
+like that but today...it just felt like
 fate.");
 ChEye(4,0);
 ChMouth(4,3);

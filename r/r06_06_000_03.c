@@ -5,7 +5,7 @@ switch (ChPrmGet(6,6)){
     MsgClose();
     ChOpen(6,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060600003_06_000");
-    MsgDisp("Himuro","Ah... you're the one who got it?");
+    MsgDisp("Himuro","Ah...you're the one who got it?");
     MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -13,7 +13,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("R060600003_06_010");
     MsgDisp("Himuro","That's the present I brought.");
     MsgDisp("主人公","That's right!
-... Uh, ｛氷室＊＊｝, did you know
+...Uh, ｛氷室＊＊｝, did you know
 you also got my present I brought?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -86,7 +86,7 @@ got mine...");
     ChMotion(6,5);
     VoicePlay("R060600003_06_110");
     MsgDisp("Himuro","Really?
-... Amazing.");
+...Amazing.");
     MsgDisp("主人公","A Christmas miracle?");
     ChEye(6,0);
     ChMouth(6,4);

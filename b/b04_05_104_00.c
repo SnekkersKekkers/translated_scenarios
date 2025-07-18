@@ -40,7 +40,7 @@ corner.");
     ChMotion(5,3);
     VoicePlay("B040510400_05_030");
     MsgDisp("Hiiragi","That's precisely it! Butterflies that fly
-thousands of kilometers... Amazing would
+thousands of kilometers...Amazing would
 be an understatement.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

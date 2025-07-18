@@ -69,7 +69,7 @@ wrong∋");
 ChMotion(4,0,1);
 VoicePlay("F100430002_04_010");
 MsgDisp("Nanatsumori","Those twins...
-Did they say something... weird?");
+Did they say something...weird?");
 MsgDisp("主人公","They didn't say anything weird.
 They asked me how much I knew about
 ｛七ツ森＊｝.");
@@ -91,7 +91,7 @@ ChEye(4,2);
 ChMouth(4,5);
 ChMotion(4,0,1);
 VoicePlay("F100430002_04_040");
-MsgDisp("Nanatsumori","Ha? Not yet... No! Don't look at me like
+MsgDisp("Nanatsumori","Ha? Not yet...No! Don't look at me like
 that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

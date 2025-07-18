@@ -90,7 +90,7 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D010200500_02_050");
-MsgDisp("Sassa","... I guess so.
+MsgDisp("Sassa","...I guess so.
 Even though I won, I can't really
 celebrate it with you.");
 ChEye(2,0);

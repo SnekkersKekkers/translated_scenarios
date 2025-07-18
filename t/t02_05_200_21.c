@@ -15,7 +15,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,5);
 VoicePlay("T020520021_05_010");
-MsgDisp("Hiiragi","Your kiss... conveyed your feelings very
+MsgDisp("Hiiragi","Your kiss...conveyed your feelings very
 well.");
 ChMotion(5,0);
 Wait(16,0);

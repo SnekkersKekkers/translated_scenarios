@@ -44,7 +44,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020140003_01_050");
-MsgDisp("Kazama","... But, seriously, of course we will.
+MsgDisp("Kazama","...But, seriously, of course we will.
 It's just driftwood that I picked up at
 the beach when I was a kid.");
 ChEyeOpenLevel(1,0);

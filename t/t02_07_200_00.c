@@ -62,7 +62,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020720000_07_070");
-MsgDisp("Mikage","...... Thank you.
+MsgDisp("Mikage","......Thank you.
 You always help me out like that.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -85,7 +85,7 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(7,254,7,4,4,8,#1,0,0,0,120);
 VoicePlay("T020720000_07_100");
-MsgDisp("Mikage","Yeah, I ... love you.");
+MsgDisp("Mikage","Yeah, I ...love you.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,2);

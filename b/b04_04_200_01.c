@@ -27,7 +27,7 @@ Don't just say nonsense.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040420001_04_020");
-    MsgDisp("Nanatsumori","Our tempo is a bit dodgy but... well, lets
+    MsgDisp("Nanatsumori","Our tempo is a bit dodgy but...well, lets
 skate.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

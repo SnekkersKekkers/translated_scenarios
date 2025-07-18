@@ -33,7 +33,7 @@ It's fine as long as you're satisfied,
     ChMotion(2,0);
     VoicePlay("H2A0200001_02_020");
     MsgDisp("Sassa","You're not just my manager. Winning on my
-own isn't enough... I wanted the team to
+own isn't enough...I wanted the team to
 take the championship.");
     MsgDisp("主人公","｛颯砂＊＊｝...");
     ChEye(2,4);

@@ -22,7 +22,7 @@ with my gift...)");
     ChEyeOpenLevel(6,0);
     VoicePlay("R060600007_06_010");
     MsgDisp("Himuro","How do I put this...
-... No, never mind.");
+...No, never mind.");
     MsgDisp("主人公","(Darn, I don't think he's really happy
 with my gift...)");
     break ;

@@ -6,14 +6,14 @@ ScrFadeIn(0);
 VoicePlay("B150700000_07_000");
 MsgDisp("Mikage","...You're not just Miss Diligent, are
 you?'");
-MsgDisp("主人公","Umm... was it no good.");
+MsgDisp("主人公","Umm...was it no good.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B150700000_07_010");
 MsgDisp("Mikage","Not that it was no good.
 It's not something I can praise.");
-MsgDisp("主人公","Ummm... which is it?");
+MsgDisp("主人公","Ummm...which is it?");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -52,6 +52,6 @@ Well, do as you like.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(｛御影＊＊｝... seems a bit troubled.)");
+MsgDisp("主人公","(｛御影＊＊｝...seems a bit troubled.)");
 MsgClose();
 ScrFadeOut(0,0);

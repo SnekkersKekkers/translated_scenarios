@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("B040723602_07_010");
-    MsgDisp("Mikage","... That's right.
+    MsgDisp("Mikage","...That's right.
 I got it,");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -101,7 +101,7 @@ colors∈");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723602_07_090");
-        MsgDisp("Mikage","Ha... what's with that?
+        MsgDisp("Mikage","Ha...what's with that?
 I feel like I can't win with you.");
         MsgDisp("主人公","(Haa, my heart might be racing a
 little...)");

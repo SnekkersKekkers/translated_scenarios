@@ -117,7 +117,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("D010300000_03_130");
-MsgDisp("Honda","... Wait.
+MsgDisp("Honda","...Wait.
 I think you may be the first person I've
 told this besides my sister...?");
 MsgDisp("主人公","(Thank you, ｛本多＊＊｝.

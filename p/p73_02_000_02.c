@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
 wedding dresses. I think I was able to
 make it pretty but...)");
     VoicePlay("P730200002_02_000");
-    MsgDisp("Sassa?","Uwo... seriously...");
+    MsgDisp("Sassa?","Uwo...seriously...");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

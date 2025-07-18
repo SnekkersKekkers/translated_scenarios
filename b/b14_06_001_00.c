@@ -17,7 +17,7 @@ ChMotion(6,0);
 VoicePlay("B140600100_06_010");
 MsgDisp("Himuro","I should be saying that.
 I also had fun.");
-MsgDisp("主人公","Huh... could it be, you're being honest?");
+MsgDisp("主人公","Huh...could it be, you're being honest?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -38,7 +38,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B140600100_06_040");
 MsgDisp("Himuro","You can't spend each continuous day with a
 person you don't trust.");
-MsgDisp("主人公","Ah... I see! We were together yesterday as
+MsgDisp("主人公","Ah...I see! We were together yesterday as
 well for the school Christmas Party!");
 ChEye(6,0);
 ChMouth(6,0);
@@ -50,7 +50,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B140600100_06_060");
-MsgDisp("Himuro","Haa... On one hand, I want you to be more
+MsgDisp("Himuro","Haa...On one hand, I want you to be more
 self-aware, on the other, I also don't
 want you to change.");
 MsgDisp("主人公","Umm...");
@@ -71,7 +71,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600100_06_090");
 MsgDisp("Himuro","It's proof that you're changing me.");
-MsgDisp("主人公","Is that... a good thing?");
+MsgDisp("主人公","Is that...a good thing?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -87,7 +87,7 @@ and teach me more about the true joys of
 Christmas.");
 MsgDisp("主人公","Yeah, of course!");
 MsgDisp("主人公","(I'm glad I got to spend Christmas with
-｛氷室＊＊｝... )");
+｛氷室＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

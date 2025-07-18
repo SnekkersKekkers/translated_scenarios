@@ -57,7 +57,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20501_06_010");
-MsgDisp("Himuro","I wonder if he let us win... what do you
+MsgDisp("Himuro","I wonder if he let us win...what do you
 think?");
 MsgDisp("主人公","I think ｛御影＊＊｝ was
 serious...");
@@ -125,7 +125,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("B330C20501_06_040");
-MsgDisp("Himuro","Pfft... sounds good. Not going easy on
+MsgDisp("Himuro","Pfft...sounds good. Not going easy on
 each other, and keep going until we win.
 Bring it on.");
 ChEye(5,0);
@@ -135,7 +135,7 @@ VoicePlay("B330C20501_05_040");
 MsgDisp("Hiiragi","Sounds good.");
 MsgDisp("主人公","(I can understand why
 ｛御影＊＊｝ is popular
-with the male students too... Both
+with the male students too...Both
 ｛柊＊＊＊｝ and
 ｛氷室＊＊｝ look like they're
 having fun...)");

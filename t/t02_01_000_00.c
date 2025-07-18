@@ -142,7 +142,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020100000_01_160");
 MsgDisp("Kazama","Since that day, every time I see you, the
-memories and the present... fit perfectly
+memories and the present...fit perfectly
 together...");
 ChEye(1,0);
 ChMouth(1,3);

@@ -36,7 +36,7 @@ VoicePlay("F102130000_21_020");
 MsgDisp("Michiru","Hehe!
 Oh dear, Mari.
 You said the same thing as me.");
-MsgDisp("主人公","Ah... really?
+MsgDisp("主人公","Ah...really?
 Hehe!");
 ChEye(22,0);
 ChMouth(22,2);

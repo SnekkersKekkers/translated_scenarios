@@ -56,7 +56,7 @@ it.");
     ChCheek(8,5);
     VoicePlay("B040811100_08_040");
     MsgDisp("Shirahane","Okay.
-Then... give me your hand?");
+Then...give me your hand?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -2,7 +2,7 @@ BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to head home.
-... Huh?)");
+...Huh?)");
 VoicePlay("E010630200_06_000");
 MsgDisp("Himuro?","Reiichi-san, what do you think of that
 Japanese sweet shop over there?");
@@ -35,8 +35,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630200_06_020");
-MsgDisp("Himuro","Ah... yes.
-... Hi.");
+MsgDisp("Himuro","Ah...yes.
+...Hi.");
 MsgDisp("主人公","Hehe, hi?");
 ChEye(32,2);
 ChMouth(32,2);
@@ -123,7 +123,7 @@ VoicePlay("E010630200_32_060");
 MsgDisp("VP Himuro","We'll be off now.
 Please take care on your way home.");
 MsgDisp("主人公","Okay!
-... See you soon, ｛氷室＊＊｝?");
+...See you soon, ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

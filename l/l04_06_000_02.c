@@ -43,7 +43,7 @@ price.");
     ChMotion(6,0,1);
     VoicePlay("L040600002_06_040");
     MsgDisp("Himuro","It just shows how much you cared.
-... Thanks.");
+...Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

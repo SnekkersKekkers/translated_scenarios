@@ -2,7 +2,7 @@ BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Huh?
-Over there... is that who I think it is?)");
+Over there...is that who I think it is?)");
 BGMPlay("BGM_C09_KUYA_A",0.01);
 MsgClose();
 ChOpen(9,254,0,0,0,#1,#1,0,0);
@@ -18,7 +18,7 @@ ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,4,1);
 VoicePlay("D030900900_09_010");
-MsgDisp("Kuya","... Nope.
+MsgDisp("Kuya","...Nope.
 I'm wondering where I should go.");
 MsgDisp("主人公","Eh?");
 ChEye(9,0);
@@ -172,7 +172,7 @@ university as you.");
     ChMotion(9,0,1);
     ChEyeOpenLevel(9,6);
     VoicePlay("D030900900_09_190");
-    MsgDisp("Kuya","... To be honest with you.
+    MsgDisp("Kuya","...To be honest with you.
 I have such a good time when I'm with you.
 You make me feel so fulfilled.");
     ChEye(9,3);
@@ -198,7 +198,7 @@ prioritize my \"studies\" over interviews.)");
     break ;
     case 1:
     MsgDisp("主人公","I can't answer that right now.
-... Why do you ask?");
+...Why do you ask?");
     ChEye(9,4);
     ChMouth(9,4);
     ChMotion(9,0,1);
@@ -223,7 +223,7 @@ suit me.");
     ChMotion(9,0,1);
     ChEyeOpenLevel(9,6);
     VoicePlay("D030900900_09_250");
-    MsgDisp("Kuya","... I'm sorry?
+    MsgDisp("Kuya","...I'm sorry?
 Interviews are getting a bit troublesome.
 Bye.");
     MsgClose();

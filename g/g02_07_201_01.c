@@ -36,7 +36,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("G020720101_07_050");
 MsgDisp("Mikage","Is that so...
 That...
-... I understand.");
+...I understand.");
 MsgDisp("主人公","You heard my inner voice?");
 ChEye(7,0);
 ChMouth(7,4);

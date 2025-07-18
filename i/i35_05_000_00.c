@@ -33,7 +33,7 @@ Go ahead.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ feels different from how he
-is at school... He is the chairman of the
+is at school...He is the chairman of the
 theater troupe, huh.)");
     break ;
     case 3:

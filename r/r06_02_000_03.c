@@ -69,7 +69,7 @@ But how did you know?");
     ChMouth(2,0);
     ChMotion(2,3);
     VoicePlay("R060200003_02_090");
-    MsgDisp("Sassa","... I was looking at you.
+    MsgDisp("Sassa","...I was looking at you.
 So I figured it out.");
     MsgDisp("主人公","Huuh?");
     ChEye(2,0);

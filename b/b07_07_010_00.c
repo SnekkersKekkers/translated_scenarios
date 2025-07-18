@@ -45,7 +45,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("B070701000_07_050");
-MsgDisp("Mikage","... That's how it goes sometimes.
+MsgDisp("Mikage","...That's how it goes sometimes.
 Especially in love.");
 MsgDisp("主人公","｛御影＊＊｝...?");
 ChEye(7,0);

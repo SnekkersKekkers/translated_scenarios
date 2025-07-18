@@ -11,5 +11,5 @@ ChMotion(7,2);
 VoicePlay("B020700015_07_010");
 MsgDisp("Mikage","Aw, too bad.
 And I almost wore it today too.");
-MsgDisp("主人公","(A matching look... Huh. Since we have the
+MsgDisp("主人公","(A matching look...Huh. Since we have the
 opportunity, should we try it out?)");

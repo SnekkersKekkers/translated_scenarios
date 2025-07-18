@@ -9,7 +9,7 @@ ChMouth(4,2);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B060400005_04_000");
-MsgDisp("Nanatsumori","... By the way.
+MsgDisp("Nanatsumori","...By the way.
 Is this your current top recommendation?
 Cause I'm already bored of it.");
 MsgDisp("主人公","(I've done it!

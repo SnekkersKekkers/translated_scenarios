@@ -6,7 +6,7 @@ ChMotion(7,2);
 VoicePlay("P640700003_07_000");
 MsgDisp("Mikage","*Cough*, that is not it.");
 MsgDisp("主人公","Ah, ｛御影＊＊｝.
-... What's wrong?");
+...What's wrong?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -19,7 +19,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("I562100006_21_010");
-MsgDisp("Michiru","Wait... are you okay?");
+MsgDisp("Michiru","Wait...are you okay?");
 MsgDisp("主人公","I'm fine.
 But all the warabi mochi fell on the
 floor...");

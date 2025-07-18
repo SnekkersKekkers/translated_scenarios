@@ -19,7 +19,7 @@ my gift...)");
     ChMouth(4,4);
     ChMotion(4,2);
     VoicePlay("R060400007_04_010");
-    MsgDisp("Nanatsumori","... Gimme a sec.
+    MsgDisp("Nanatsumori","...Gimme a sec.
 Let me think about what to say.");
     MsgDisp("主人公","(Darn, it seems that he isn't happy with
 my gift...)");

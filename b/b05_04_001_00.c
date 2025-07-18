@@ -27,7 +27,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B050400100_04_020");
-MsgDisp("Nanatsumori","Well... it's like that.");
+MsgDisp("Nanatsumori","Well...it's like that.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
@@ -75,7 +75,7 @@ first.");
 StlEye(4,1);
 StlMouth(4,0);
 VoicePlay("B050400100_04_060");
-MsgDisp("Nanatsumori","... Damn!
+MsgDisp("Nanatsumori","...Damn!
 What's this berry sauce?
 The mix balance is too perfect.");
 StlEye(4,1);

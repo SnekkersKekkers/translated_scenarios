@@ -59,7 +59,7 @@ I'd love to see what they'd say about it.");
 MsgDisp("主人公","(Haha, the thought of
 ｛本多＊＊｝ and
 ｛七ツ森＊｝ playing with
-kids... I can't quite picture it.)");
+kids...I can't quite picture it.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

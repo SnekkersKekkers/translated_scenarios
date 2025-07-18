@@ -105,7 +105,7 @@ VoicePlay("D010500000_05_070");
 MsgDisp("Hiiragi","Hm?
 You look a bit disappointed now.");
 MsgDisp("主人公","Ah, it's not like that!
-... Alright, I'm sorry.");
+...Alright, I'm sorry.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

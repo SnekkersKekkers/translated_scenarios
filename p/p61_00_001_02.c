@@ -1,7 +1,7 @@
 BGOpen("ho210",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","A phone call... it's from the club leader.");
+MsgDisp("主人公","A phone call...it's from the club leader.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -22,7 +22,7 @@ MsgDisp("Manager","hen, please get well soon.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(It's almost the cultural festival soon
-huh... I need to get better quickly to
+huh...I need to get better quickly to
 join in the preparations! )");
 MsgClose();
 ScrFadeOut(0);

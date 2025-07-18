@@ -132,7 +132,7 @@ ChEye(8,4);
 ChMouth(8,4);
 MsgDisp("Shirahane","I'm not going to end my high school life
 as such a half-assed guy.
-I... want you to acknowledge me.");
+I...want you to acknowledge me.");
 MsgClear();
 ChClose(8);
 ChCustomLayout(8,5,0,-2.5);

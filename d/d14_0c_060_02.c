@@ -31,7 +31,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140C06002_06_020");
-MsgDisp("Himuro","Hmm... how mature.
+MsgDisp("Himuro","Hmm...how mature.
 How about being more selfish?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -61,7 +61,7 @@ VoicePlay("D140C06002_06_040");
 MsgDisp("Himuro","I am a bit curious though.");
 MsgDisp("主人公","(It can't be helped because
 ｛御影＊＊｝ is popular
-with everyone... But, maybe I'm a little
+with everyone...But, maybe I'm a little
 bit lonely?)");
 BGMStop();
 MsgClose();

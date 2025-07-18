@@ -16,7 +16,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B150100300_01_010");
 MsgDisp("Kazama","Don't pretend you've come to your senses.
-... Geez, are you okay?");
+...Geez, are you okay?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -38,7 +38,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100300_01_040");
-MsgDisp("Kazama","Haa... Listen, we're basically in front of
+MsgDisp("Kazama","Haa...Listen, we're basically in front of
 your house. What would you do if your
 family saw you?");
 MsgDisp("主人公","Ah...
@@ -67,11 +67,11 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("B150100300_01_070");
-MsgDisp("Kazama","Haa... I'm going crazy. See you. I'll cool
+MsgDisp("Kazama","Haa...I'm going crazy. See you. I'll cool
 my head as I go home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","(I wonder if I've troubled
-｛風真＊＊｝... )");
+｛風真＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

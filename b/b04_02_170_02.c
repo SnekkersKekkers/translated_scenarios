@@ -96,7 +96,7 @@ I think it's somewhat moving.");
         ChMotion(2,4);
         VoicePlay("B040217002_02_080");
         MsgDisp("Sassa","I see.
-... Then, what's your answer?");
+...Then, what's your answer?");
         MsgDisp("主人公","(Ummm...
 When you say answer...)");
         break ;

@@ -37,7 +37,7 @@ Your eyes sure are good.");
     ChMouth(4,3);
     ChMotion(4,3);
     VoicePlay("B040402100_04_030");
-    MsgDisp("Nanatsumori","Aah.... If you think about it, there's no
+    MsgDisp("Nanatsumori","Aah....If you think about it, there's no
 need to get so worked up. Having it to
 ourselves is awesome.");
     MsgDispSksp(1,0);

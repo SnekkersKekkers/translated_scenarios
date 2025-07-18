@@ -45,7 +45,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("G020420101_04_070");
-MsgDisp("Nanatsumori","Maybe it's my fault... but whenever I see
+MsgDisp("Nanatsumori","Maybe it's my fault...but whenever I see
 you and him laughing together I——");
 MsgDisp("主人公","｛七ツ森＊｝...");
 VoicePlay("G020420101_04_080");

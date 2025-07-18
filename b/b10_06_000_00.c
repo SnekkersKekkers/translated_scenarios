@@ -28,7 +28,7 @@ each other anymore. That's all I had to
 say. ...Goodnight.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛氷室＊＊｝... went to the trouble of
+MsgDisp("主人公","(｛氷室＊＊｝...went to the trouble of
 calling me.
 I'm so happy.)");
 MsgClose();

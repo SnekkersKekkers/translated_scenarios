@@ -41,7 +41,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("H7G2200000_22_050");
-MsgDisp("Hikaru","... Ah!
+MsgDisp("Hikaru","...Ah!
 Next time, I want you to design some
 clothes that will suit Hikaru too～▼");
 MsgDisp("主人公","(Hehe!

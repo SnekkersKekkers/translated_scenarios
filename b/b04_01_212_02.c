@@ -98,7 +98,7 @@ over there, kinda looks like you?
         ChEyeOpenLevel(1,8);
         ChCheek(1,5);
         VoicePlay("B040121202_01_080");
-        MsgDisp("Kazama","Cute you say... well, that's fine.");
+        MsgDisp("Kazama","Cute you say...well, that's fine.");
         ChEyeOpenLevel(1,0);
         Wait(30,1);
         MsgClose();

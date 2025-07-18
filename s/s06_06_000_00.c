@@ -26,7 +26,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("S060600000_06_020");
     MsgDisp("Himuro","Happy New Year.
 Sorry to keep you waiting.
-... Did you wait long?");
+...Did you wait long?");
     MsgDisp("主人公","Happy New Year.
 No, it's okay.");
     ChEye(6,0);

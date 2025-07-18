@@ -102,7 +102,7 @@ my taste and your sense, right?");
     ChMouth(1,4);
     ChMotion(1,4);
     VoicePlay("L040100004_01_120");
-    MsgDisp("Kazama","... Oh no.
+    MsgDisp("Kazama","...Oh no.
 I don't think I can eat this anymore.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

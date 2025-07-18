@@ -28,7 +28,7 @@ ChMotion(1,2);
 VoicePlay("B070100000_01_090");
 MsgDisp("Kazama","I couldn't do it well at all, so in the
 end I made it into sobagaki.");
-MsgDisp("主人公","Sobagaki... that sounds delicious too!
+MsgDisp("主人公","Sobagaki...that sounds delicious too!
 Ah——");
 SEPlay("EV_SE_017");
 ChEye(1,0);

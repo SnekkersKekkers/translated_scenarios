@@ -12,7 +12,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("T020220020_02_000");
-MsgDisp("Sassa","... Seriously?
+MsgDisp("Sassa","...Seriously?
 With me...");
 MsgDisp("主人公","I also like ｛颯砂＊＊｝.");
 ChEye(2,4);
@@ -34,7 +34,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("T020220020_02_030");
-MsgDisp("Sassa","... Look up a little.
+MsgDisp("Sassa","...Look up a little.
 Let me see your face.");
 MsgDisp("主人公","Yes...");
 BGMStop(2.8);

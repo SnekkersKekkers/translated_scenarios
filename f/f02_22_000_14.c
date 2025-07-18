@@ -30,7 +30,7 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200014_22_030");
-MsgDisp("Hikaru","... Ehe.
+MsgDisp("Hikaru","...Ehe.
 This sort of thing isn't like Hikaru,
 right?");
 ChEye(22,0);

@@ -24,7 +24,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("D130C00001_06_000");
-MsgDisp("Himuro","Nothing... with me at least.");
+MsgDisp("Himuro","Nothing...with me at least.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);

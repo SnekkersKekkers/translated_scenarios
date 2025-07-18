@@ -7,7 +7,7 @@ switch (ChPrmGet(6,6)){
     case 3:
     BGOpen("sc605",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Phew... How would I somehow avoid any
+    MsgDisp("主人公","Phew...How would I somehow avoid any
 trouble? Being put in charge of this floor
 is difficult...");
     MsgClose();
@@ -38,7 +38,7 @@ It's this way.");
     case 5:
     BGOpen("sc605",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Phew... How would I somehow avoid any
+    MsgDisp("主人公","Phew...How would I somehow avoid any
 trouble? Being put in charge of this floor
 is difficult...");
     MsgClose();
@@ -63,7 +63,7 @@ own child around here?");
     MsgDisp("Himuro","Right.
 This is the kid.");
     VoicePlay("P830600002_45_000");
-    MsgDisp("Girl","Uuugh... *sniff*...");
+    MsgDisp("Girl","Uuugh...*sniff*...");
     MsgDisp("主人公","It's alright, we'll find your Mom soon
 okay?");
     ChEye(6,0);

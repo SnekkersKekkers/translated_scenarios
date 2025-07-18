@@ -38,7 +38,7 @@ Don't say it's the last.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700002_07_030");
-    MsgDisp("Mikage","Ah, but... It might be Vice Principal
+    MsgDisp("Mikage","Ah, but...It might be Vice Principal
 Himuro's last time conducting? So repay
 him with a good performance.");
     MsgDisp("主人公","Yes!");

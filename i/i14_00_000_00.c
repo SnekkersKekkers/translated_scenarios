@@ -11,7 +11,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("I140000000_45_010");
-MsgDisp("Manager","... It's too bad, but there's no helping
+MsgDisp("Manager","...It's too bad, but there's no helping
 it.
 Thank you for everything until now.");
 MsgDisp("主人公","Thank you for looking after me.

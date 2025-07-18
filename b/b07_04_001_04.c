@@ -43,7 +43,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_340");
-MsgDisp("Nanatsumori","And... the rest is that.
+MsgDisp("Nanatsumori","And...the rest is that.
 A secret conversation between boys.");
 MsgDisp("主人公","Eh?");
 ChEye(4,0);

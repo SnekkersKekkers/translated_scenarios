@@ -1,7 +1,7 @@
 BGOpen("fp000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Alright.
+MsgDisp("主人公","...Alright.
 Time to head home.
 Huh, is that...");
 VoicePlay("E010120200_02_000");
@@ -120,7 +120,7 @@ VoicePlay("E010120200_01_080");
 MsgDisp("Kazama","If you're so eager to recruit someone, why
 don't you recruit this one?
 She's always sloppily running around.");
-MsgDisp("主人公","... Eh?
+MsgDisp("主人公","...Eh?
 This one, you mean me?");
 ChEye(1,0);
 ChMouth(1,2);

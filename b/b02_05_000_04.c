@@ -3,7 +3,7 @@ ChMouth(5,2);
 ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("B020500004_05_000");
-MsgDisp("Hiiragi","... Are you ill?");
+MsgDisp("Hiiragi","...Are you ill?");
 MsgDisp("主人公","Huh, why?
 I feel fine.");
 ChMouth(5,4);

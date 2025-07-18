@@ -41,7 +41,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040703101_07_030");
     MsgDisp("Mikage","I kinda understand how you feel.
 They have a cold look in their eyes.
-... Kind of like our Vice-Principal?");
+...Kind of like our Vice-Principal?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

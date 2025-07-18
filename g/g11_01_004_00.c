@@ -45,7 +45,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100400_48_000");
-MsgDisp("School Girl","Kyaa... next to her is the young-master,
+MsgDisp("School Girl","Kyaa...next to her is the young-master,
 Kazama Ryota!
 I wonder if they're going out?");
 ChEye(1,1);
@@ -67,7 +67,7 @@ VoicePlay("G110100400_41_020");
 MsgDisp("Male Student","We're very sorry.");
 VoicePlay("G110100400_48_010");
 MsgDisp("School Girl","Please excuse us.");
-MsgDisp("主人公","(｛風真＊＊｝ is so loud... everyone is
+MsgDisp("主人公","(｛風真＊＊｝ is so loud...everyone is
 looking here...)");
 BGMStop();
 MsgClose();

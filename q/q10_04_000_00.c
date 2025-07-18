@@ -16,7 +16,7 @@ ChMotion(4,2,1);
 VoicePlay("Q100400000_04_010");
 MsgDisp("Nanatsumori","Now that I think about it, the Principal's
 glasses are round too.");
-MsgDisp("主人公","... Ah, they are!");
+MsgDisp("主人公","...Ah, they are!");
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("Q100400000_04_020");
@@ -29,7 +29,7 @@ VoicePlay("Q100400000_04_030");
 MsgDisp("Nanatsumori","...Pfft! I can't believe we're here and
 we're thinking about school. How serious
 can we be∋");
-MsgDisp("主人公","Ahaha! Ah... But,
+MsgDisp("主人公","Ahaha! Ah...But,
 ｛七ツ森＊｝, you also
 wear glasses.");
 ChEye(4,0);

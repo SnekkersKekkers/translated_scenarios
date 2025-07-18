@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040601100_06_000");
 MsgDisp("Himuro","This is quite a nice view.
-... Yeah, not bad.");
+...Yeah, not bad.");
 MsgSel("Waa! The horizon looks like it's shining!","I wonder if we can see your house, ｛氷室＊＊｝?","It's so high up that I'm frozen with fear...");
 switch (MsgSelRsltGet()){
     case 0:

@@ -13,7 +13,7 @@ Ryota-senpai, Nozomu-senpai and
 MsgClear();
 MsgDisp("","I wonder what triggered this.");
 MsgDisp("","I can't remember now, but it much
-have been her.... ｛主人公苗字｝
+have been her....｛主人公苗字｝
 -senpai was the reason.");
 MsgDisp("","Maybe because I met her shortly after
 entering high school, I started to
@@ -112,7 +112,7 @@ MsgDisp("","Her worried-sounding voice brings me
 back to my senses. Ryota-senpai and
 the others look at me quizzically");
 VoicePlay("Y300600400_01_020");
-MsgDisp("Kazama","\"Haa... that's why I told you you
+MsgDisp("Kazama","\"Haa...that's why I told you you
 should've just gotten the cold soba.\"");
 VoicePlay("Y300600400_02_020");
 MsgDisp("Sassa","\"Inori, if you're full, I'll take

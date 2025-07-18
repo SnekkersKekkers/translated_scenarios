@@ -113,7 +113,7 @@ I'll ask someone else.");
         VoicePlay("Q020200000_02_100");
         MsgDisp("Sassa","Don't apologize, I hope you can enjoy it
 too.
-... See ya.");
+...See ya.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);

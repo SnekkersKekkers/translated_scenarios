@@ -18,7 +18,7 @@ VoicePlay("D010300500_03_000");
 MsgDisp("Honda?","Why～!");
 SEPlay("EV_SE_616",0,0.6);
 SEWait();
-MsgDisp("主人公","(∋ That voice just now... Was that
+MsgDisp("主人公","(∋ That voice just now...Was that
 ｛本多＊＊｝? Huh, didn't
 something like this happen before...)");
 StlOpen("ev_03_11");
@@ -115,7 +115,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D010300500_03_110");
-MsgDisp("Honda","... I see, I guess you're right.
+MsgDisp("Honda","...I see, I guess you're right.
 I can definitely do that.");
 ChEye(3,0);
 ChMouth(3,3);

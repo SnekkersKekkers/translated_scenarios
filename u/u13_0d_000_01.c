@@ -51,7 +51,7 @@ Like he's watching a puppy♪");
     StlMouth(22,1);
     VoicePlay("U130D00001_22_020");
     MsgDisp("Hikaru","Ah, maybe I should've worded it
-differently. Let's see... It feels like
+differently. Let's see...It feels like
 he's looking tenderly at something cute?");
     MsgDisp("主人公","(｛颯砂＊＊｝ is looking at me tenderly.
 I think I'm happy...)");

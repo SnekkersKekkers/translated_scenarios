@@ -49,7 +49,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100610000_06_060");
-MsgDisp("Himuro","Furthermore... there's no way he'd talk to
+MsgDisp("Himuro","Furthermore...there's no way he'd talk to
 me about what type of person he likes.");
 MsgDisp("主人公","D-Did he ask that kind of thing?");
 ChEye(6,0);
@@ -58,7 +58,7 @@ ChMotion(6,0);
 VoicePlay("F100610000_06_070");
 MsgDisp("Himuro","It's really just nonsense.
 You should forget it too.");
-MsgDisp("主人公","(Hmm... but if you asked if I was curious,
+MsgDisp("主人公","(Hmm...but if you asked if I was curious,
 I would say I am.)");
 BGMStop();
 MsgClose();

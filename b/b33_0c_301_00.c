@@ -95,7 +95,7 @@ VoicePlay("B330C30100_07_030");
 MsgDisp("Mikage","Don't get so mad.
 Since the four of us are together, I
 wanted to make things more heart-pounding.");
-MsgDisp("主人公","(Hey... but it's rare to see
+MsgDisp("主人公","(Hey...but it's rare to see
 ｛柊＊＊＊｝ and
 ｛氷室＊＊｝ both go along with it
 today?)");

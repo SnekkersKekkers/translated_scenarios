@@ -31,7 +31,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,9);
 VoicePlay("B040206402_02_030");
 MsgDisp("Sassa","Well I still have a long way to go.
-... But——");
+...But——");
 SEPlay("EV_SE_534",0,1);
 Wait(60,1);
 ChEye(2,0);

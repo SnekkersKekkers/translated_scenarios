@@ -24,7 +24,7 @@ How impressive.");
     VoicePlay("X120500002_05_010");
     MsgDisp("Hiiragi","One day, I'd like to ask you to make some
 stage costumes for me.
-... Would you accept?");
+...Would you accept?");
     MsgDisp("主人公","(Yay!
 I was praised!)");
     break ;

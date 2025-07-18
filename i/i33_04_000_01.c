@@ -29,14 +29,14 @@ Um...");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("I330400001_04_030");
-    MsgDisp("Nanatsumori","... Me?
+    MsgDisp("Nanatsumori","...Me?
 The modeling agency's nearby, so I take
 breaks here sometimes.");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("I330400001_04_040");
-    MsgDisp("Nanatsumori","So... get it?");
+    MsgDisp("Nanatsumori","So...get it?");
     MsgDisp("主人公","Yeah. You're the model NANA here, right?
 Got it. See you around!");
     ChEye(4,2);
@@ -44,7 +44,7 @@ Got it. See you around!");
     ChMotion(4,0,1);
     VoicePlay("I330400001_04_050");
     MsgDisp("Nanatsumori","'Kay, 'kay.
-... I'm counting on you.");
+...I'm counting on you.");
     MsgDisp("主人公","(Alright, let's do this!)");
     MsgClose();
     break ;
@@ -62,7 +62,7 @@ You...");
     ChMotion(4,4,1);
     VoicePlay("I330400001_04_070");
     MsgDisp("Nanatsumori","Shh!");
-    MsgDisp("主人公","Ah... sorry.
+    MsgDisp("主人公","Ah...sorry.
 Why are you here?");
     ChEye(4,0);
     ChMouth(4,0);
@@ -76,7 +76,7 @@ Then, I guess I'll see you at work?");
     VoicePlay("I330400001_04_090");
     MsgDisp("Nanatsumori","Guess so.
 We're both business-like here.");
-    MsgDisp("主人公","Ah... I see. It's the model NANA here,
+    MsgDisp("主人公","Ah...I see. It's the model NANA here,
 after all. Looking forward to seeing you.");
     ChEye(4,0);
     ChMouth(4,0);

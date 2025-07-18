@@ -8,7 +8,7 @@ ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110600400_06_000");
 MsgDisp("Himuro","Ah, it's you.
 Today I plan on going to the beach.
-... If you want, you can come?");
+...If you want, you can come?");
 MsgDisp("主人公","Yes...!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

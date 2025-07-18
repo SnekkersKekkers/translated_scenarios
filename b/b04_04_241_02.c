@@ -60,10 +60,10 @@ Me?");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040424102_04_050");
-        MsgDisp("Nanatsumori","Hmmー... what should we doー...");
+        MsgDisp("Nanatsumori","Hmmー...what should we doー...");
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040424102_04_060");
-        MsgDisp("Nanatsumori","Milking... is not my style, and I'm not
+        MsgDisp("Nanatsumori","Milking...is not my style, and I'm not
 good at interacting with animals...but I
 also don't want to just stare off into
 space...");
@@ -73,7 +73,7 @@ much?");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040424102_04_070");
-        MsgDisp("Nanatsumori","... Hm.
+        MsgDisp("Nanatsumori","...Hm.
 Well, more or less.");
         MsgDisp("主人公","I see.
 Then, shall we go somewhere else?");

@@ -39,7 +39,7 @@ that?");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040422200_04_030");
-    MsgDisp("Nanatsumori","Ah... sorry. There are guests who are
+    MsgDisp("Nanatsumori","Ah...sorry. There are guests who are
 enjoying themselves. I wasn't being
 considerate enough, sorry.");
     MsgDispSksp(1,0);

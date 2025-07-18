@@ -35,7 +35,7 @@ ChMouth(9,4);
 ChMotion(9,0,1);
 VoicePlay("D010800000_09_010");
 MsgDisp("Kuya","...Dai-chan, we have to go back soon.");
-MsgDisp("主人公","Ah... right!
+MsgDisp("主人公","Ah...right!
 Hanegasaki also has their school festival
 today, right?");
 ChEye(9,3);
@@ -88,7 +88,7 @@ StlMouth(9,0);
 ScrFadeIn(0);
 VoicePlay("D010800000_08_050");
 MsgDisp("Daichi","Over there is my class!
-This year we made a disco... but it looks
+This year we made a disco...but it looks
 like it's already over.");
 MsgDisp("主人公","Disco...?
 I would have wanted to see that.");

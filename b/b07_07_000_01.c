@@ -8,7 +8,7 @@ MsgDisp("Mikage","I don't really watch it.
 What sort of things should I watch?");
 MsgDisp("主人公","｛御影＊＊｝ are you
 asking for recommendations?
-Maybe... nature documentaries.");
+Maybe...nature documentaries.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -33,7 +33,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("B070700000_07_050");
-MsgDisp("Mikage","Though... it might be a little hard to see
+MsgDisp("Mikage","Though...it might be a little hard to see
 the screen.");
 MsgDisp("主人公","(Umm, ｛御影＊＊｝'s TV is
 more like interior decoration then...)");

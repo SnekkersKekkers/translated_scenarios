@@ -19,7 +19,7 @@ MsgDisp("主人公","Mm.
 I'm mostly better now.");
 ChMotion(22,0,1);
 VoicePlay("M012200000_22_020");
-MsgDisp("Hikaru","... Really?
+MsgDisp("Hikaru","...Really?
 You're not just saying that for Hikaru?");
 MsgDisp("主人公","Hehe!
 I wouldn't lie to you.");
@@ -69,7 +69,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("M012200000_22_090");
-MsgDisp("Hikaru","... Eheh.
+MsgDisp("Hikaru","...Eheh.
 Then, I'm about to go, kay?
 Mari, take care.");
 MsgClose();

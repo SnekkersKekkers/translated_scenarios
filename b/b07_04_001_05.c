@@ -11,7 +11,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B070400001_04_370");
-MsgDisp("Nanatsumori","Well... you are the only girl.
+MsgDisp("Nanatsumori","Well...you are the only girl.
 You're in a special position.");
 MsgDisp("主人公","Special...");
 ChEye(4,0);
@@ -38,7 +38,7 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_410");
-MsgDisp("Nanatsumori","Well... if you're comfortable, then don't
+MsgDisp("Nanatsumori","Well...if you're comfortable, then don't
 worry about it.
 Just stay as you are.");
 MsgDisp("主人公","(As I am huh...)");

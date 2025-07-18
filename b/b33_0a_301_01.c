@@ -27,11 +27,11 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A30101_06_010");
-MsgDisp("Himuro","... I see.
+MsgDisp("Himuro","...I see.
 To Nozomu-senpai, this place is similar to
 a haunted house.");
 ChMouth(1,2);
-MsgDisp("主人公","Eh... a haunted house... if you say it
+MsgDisp("主人公","Eh...a haunted house...if you say it
 like that...");
 ChEye(1,2);
 ChMouth(1,0);

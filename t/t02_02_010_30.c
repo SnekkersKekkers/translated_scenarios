@@ -31,7 +31,7 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020201030_02_040");
-MsgDisp("Sassa","I can't run with you, but... it's okay.
+MsgDisp("Sassa","I can't run with you, but...it's okay.
 I can run alone.");
 MsgDisp("主人公","｛颯砂＊＊｝...");
 ChEye(2,2);
@@ -39,7 +39,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("T020201030_02_050");
 MsgDisp("Sassa","I'd be happy if you were watching
-somewhere. Phew... See you then.");
+somewhere. Phew...See you then.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

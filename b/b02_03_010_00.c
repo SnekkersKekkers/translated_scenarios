@@ -15,7 +15,7 @@ ChMotion(3,4);
 ChCheek(3,5);
 VoicePlay("B020301000_03_010");
 MsgDisp("Honda","Huh? Ahh, sorry! My brain completely
-stopped... I think that's the first time
+stopped...I think that's the first time
 that's ever happened.");
 MsgDisp("主人公","(I'm glad he seems to like this swimsuit!)");
 ChCheek(3,0);

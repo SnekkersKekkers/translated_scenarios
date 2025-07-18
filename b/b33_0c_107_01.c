@@ -22,7 +22,7 @@ ChOpen(7,255,2,2,2,0,#1,0,3);
 ScrFadeIn(0);
 ChMouth(5,3);
 VoicePlay("B330C10701_05_000");
-MsgDisp("Hiiragi","Haa... that was fun!");
+MsgDisp("Hiiragi","Haa...that was fun!");
 MsgDisp("主人公","Yeah!");
 ChEye(7,0);
 ChMouth(7,4);
@@ -67,7 +67,7 @@ VoicePlay("B330C10701_06_010");
 MsgDisp("Himuro","Yes.
 It was an issue more with the steerer,
 than the size.");
-MsgDisp("主人公","Umm... are you two okay?");
+MsgDisp("主人公","Umm...are you two okay?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -99,7 +99,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(5,255,0,4,4,#1,#1,0,0,0,30);
 VoicePlay("B330C10701_05_040");
-MsgDisp("Hiiragi","... Phew.
+MsgDisp("Hiiragi","...Phew.
 Shall we ride on a two person one next?");
 MsgDisp("主人公","Ehh?");
 ChEye(5,0);
@@ -120,7 +120,7 @@ MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
 MsgDisp("主人公","(I feel sorry for ｛氷室＊＊｝ and
-｛御影＊＊｝ but... I'm
+｛御影＊＊｝ but...I'm
 glad to be having fun with
 ｛柊＊＊＊｝! )");
 BGMStop();

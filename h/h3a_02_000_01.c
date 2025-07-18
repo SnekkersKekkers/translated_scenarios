@@ -15,7 +15,7 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H3A0200001_02_000");
     MsgDisp("Sassa","｛主人公｝.
-... It's too bad.");
+...It's too bad.");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝...
 I lost.");
     ChEye(2,0);

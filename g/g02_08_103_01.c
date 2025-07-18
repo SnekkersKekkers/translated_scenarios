@@ -45,7 +45,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("G020810301_08_060");
-MsgDisp("Shirahane","... But, it feels good to smile, right?
+MsgDisp("Shirahane","...But, it feels good to smile, right?
 I always want to feel happy.");
 MsgDisp("主人公","I see");
 ChEye(8,3);

@@ -2,7 +2,7 @@ ChLayout(2);
 BGOpen("sc310",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Now, the next class is...
-Ah, over there is... ——)");
+Ah, over there is...——)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE");
 MsgClose();
 ScrFadeOut(0);

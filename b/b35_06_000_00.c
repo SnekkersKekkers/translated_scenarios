@@ -33,7 +33,7 @@ ChMotion(6,0);
 VoicePlay("B350600000_06_040");
 MsgDisp("Himuro","Since we're here already, let's go
 somewhere.
-... Just the two of us.");
+...Just the two of us.");
 MsgSel("Yeah, sounds good!","I have some things to do...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -73,7 +73,7 @@ found out.");
     VoicePlay("B350600000_06_090");
     MsgDisp("Himuro","If you have things to do, it can't be
 helped.
-... Then, I'm going home.");
+...Then, I'm going home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
     MsgDisp("主人公","(｛氷室＊＊｝ seemed pretty down...

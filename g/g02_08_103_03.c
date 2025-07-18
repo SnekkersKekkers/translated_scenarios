@@ -10,7 +10,7 @@ ChEye(8,0);
 ChMouth(8,4);
 ChEyeOpenLevel(8,10);
 VoicePlay("G020810303_08_010");
-MsgDisp("Shirahane","... Ah, but you know?
+MsgDisp("Shirahane","...Ah, but you know?
 What happened when we were supposed to
 meet was bad.");
 MsgDisp("主人公","Eh?");
@@ -38,7 +38,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("G020810303_08_050");
-MsgDisp("Shirahane","... Actually, it was my fault for being
+MsgDisp("Shirahane","...Actually, it was my fault for being
 late...
 I'm sorry!");
 MsgDisp("主人公","(Hehe, I'm counting on you,

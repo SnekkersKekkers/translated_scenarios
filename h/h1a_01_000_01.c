@@ -34,7 +34,7 @@ Thanks.");
     MsgDisp("Kazama","Come on, keep your head up, and get back
 to being yourself.
 Everyone's waiting for you.");
-    MsgDisp("主人公","... Yeah.
+    MsgDisp("主人公","...Yeah.
 Thanks, ｛風真＊＊｝.");
     MsgDisp("主人公","(We lost, but I'm glad I did my best.)");
     break ;

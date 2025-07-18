@@ -23,7 +23,7 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B060400003_04_010");
-    MsgDisp("Nanatsumori","Today I'm kinda... tired.");
+    MsgDisp("Nanatsumori","Today I'm kinda...tired.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -34,7 +34,7 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B060400003_04_020");
-    MsgDisp("Nanatsumori","... Well, there'll be days like this too.
+    MsgDisp("Nanatsumori","...Well, there'll be days like this too.
 I'm gonna laugh.
 You should laugh too.");
     MsgDispSksp(0);

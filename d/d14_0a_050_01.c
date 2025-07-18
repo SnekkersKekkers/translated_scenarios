@@ -103,7 +103,7 @@ VoicePlay("D140A05001_02_050");
 MsgDisp("Sassa","Ryota, Inori! You should be more happy!
 You get to eat her homemade bento! Right?");
 MsgDisp("主人公","(It'll be tough making enough for four
-people but... It would be fun if we made
+people but...It would be fun if we made
 it all together!)");
 BGMStop();
 MsgClose();

@@ -10,7 +10,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","Thanks for the track and field competition
 the other day! Thanks to you, everyone had
 set a new personal best.");
-    MsgDisp("主人公","That... was thanks to their own efforts.");
+    MsgDisp("主人公","That...was thanks to their own efforts.");
     MsgDisp("主人公","(But I would be happy if I was of help
 even if it was just a little!)");
     break ;

@@ -19,7 +19,7 @@ MsgDisp("主人公","Hehe, something like that.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020520301_05_030");
-MsgDisp("Hiiragi","... No, that's incorrect.
+MsgDisp("Hiiragi","...No, that's incorrect.
 As it's a female firefly.");
 ChEye(5,3);
 VoiceEVSPlay(5);

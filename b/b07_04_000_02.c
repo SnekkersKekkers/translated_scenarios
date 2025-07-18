@@ -21,7 +21,7 @@ ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("B070400000_04_080");
 MsgDisp("Nanatsumori","I can also handle spicy stuff pretty well.");
-MsgDisp("主人公","Ehhh... amazing!");
+MsgDisp("主人公","Ehhh...amazing!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
@@ -44,7 +44,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_110");
-MsgDisp("Nanatsumori","... Do it again.
+MsgDisp("Nanatsumori","...Do it again.
 Aim for the perfect punchline.");
 MsgDisp("主人公","Eh∋");
 ChEye(4,1);

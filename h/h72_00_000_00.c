@@ -6,6 +6,6 @@ ScrFadeOut(0);
 BGOpen("sc607",0);
 ScrFadeIn(0);
 VoicePlay("H720000000_44_000");
-MsgDisp("Manager","... I see, that's too bad.
+MsgDisp("Manager","...I see, that's too bad.
 Thanks for everything.");
 MsgDisp("","(I quit the handicrafts club.)");

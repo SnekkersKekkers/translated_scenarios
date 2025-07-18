@@ -12,7 +12,7 @@ ChMotion(5,4);
 VoicePlay("P840500000_05_010");
 MsgDisp("Hiiragi","You were considerate enough to write the
 names of the guests and messages on the
-maps you gave them.... As expected of you.");
+maps you gave them....As expected of you.");
 MsgDisp("主人公","If they were pleased with it, I'm happy.");
 ChEye(5,3);
 ChMouth(5,4);

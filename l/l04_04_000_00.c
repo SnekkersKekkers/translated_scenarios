@@ -49,7 +49,7 @@ chocolate?");
     ChMotion(4,1,1);
     VoicePlay("L040400000_04_030");
     MsgDisp("Nanatsumori","Rejecting it isn't an option.
-... Right?");
+...Right?");
     MsgDisp("主人公","Of course!");
     break ;
     default :

@@ -58,7 +58,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360201001_02_050");
-MsgDisp("Sassa","... Yeah.
+MsgDisp("Sassa","...Yeah.
 It's nice.
 This sort of feeling.");
 MsgDisp("主人公","This sort of fashion?");
@@ -66,7 +66,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360201001_02_060");
-MsgDisp("Sassa","No, hey... we also look like a couple from
+MsgDisp("Sassa","No, hey...we also look like a couple from
 the back, don't we?
 It's nice.");
 ChEye(2,0);

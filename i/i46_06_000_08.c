@@ -67,7 +67,7 @@ popular thanks to a certain someone.");
     VoicePlay("I460600008_06_060");
     MsgDisp("Himuro","\"There's a clerk who's knowledgeable and
 friendly, too\".
-... It's you, isn't it.");
+...It's you, isn't it.");
     MsgDisp("主人公","What!");
     ChEye(6,0);
     ChMouth(6,0);

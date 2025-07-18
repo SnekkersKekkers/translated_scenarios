@@ -3,7 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I failed... even though that was the last
+MsgDisp("主人公","(I failed...even though that was the last
 performance of my high school life...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -28,7 +28,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("P540600005_06_030");
-MsgDisp("Himuro","That was... unlucky.");
+MsgDisp("Himuro","That was...unlucky.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

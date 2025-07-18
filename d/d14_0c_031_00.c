@@ -39,7 +39,7 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C03100_05_010");
 MsgDisp("Hiiragi","Yes.
-... Ah, but when I was younger I was told
+...Ah, but when I was younger I was told
 I looked like an eggplant.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -79,7 +79,7 @@ MsgDisp("Himuro","I don't really feel like eating anymore...");
 MsgDisp("主人公","(｛氷室＊＊｝ weakenly looks at
 ｛御影＊＊｝ who is
 growing a baby eggplant
-｛柊＊＊＊｝... Hehe, what an
+｛柊＊＊＊｝...Hehe, what an
 interesting picture.)");
 BGMStop();
 MsgClose();

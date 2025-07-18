@@ -84,7 +84,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020C30000_06_030");
-MsgDisp("Himuro","Haa... either way, it's unavoidable for me
+MsgDisp("Himuro","Haa...either way, it's unavoidable for me
 to be left behind.
 I'm staying here, after all.");
 ChEye(5,2);
@@ -173,7 +173,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("T020C30000_06_060");
-MsgDisp("Himuro","... Really?
+MsgDisp("Himuro","...Really?
 If that's the case, I'll forgive you for
 leaving me behind today.");
 ChEye(7,0);

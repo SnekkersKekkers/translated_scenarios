@@ -4,7 +4,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200000_02_220");
-MsgDisp("Sassa","Hobbies, huh... Camping is nice. I like
+MsgDisp("Sassa","Hobbies, huh...Camping is nice. I like
 it. Survival in nature with only the bare
 minimum.");
 MsgDisp("主人公","Survival?");

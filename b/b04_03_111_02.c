@@ -4,7 +4,7 @@ ChLayout(1);
 ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311102_03_000");
-MsgDisp("Honda","Hah... my hands are cold because I keep
+MsgDisp("Honda","Hah...my hands are cold because I keep
 falling over.");
 MsgSel("You didn't get hurt, did you∋","I'll lend you my gloves.","Give me your hands.");
 switch (MsgSelRsltGet()){
@@ -56,7 +56,7 @@ They probably won't fit well.");
         ChMotion(3,0);
         ChCheek(3,1);
         VoicePlay("B040311102_03_050");
-        MsgDisp("Honda","I mean... your hands are pretty small,
+        MsgDisp("Honda","I mean...your hands are pretty small,
 huh...");
         MsgDisp("主人公","Do you think so?");
         ChEye(3,4);
@@ -64,7 +64,7 @@ huh...");
         ChMotion(3,2,1);
         ChCheek(3,3);
         VoicePlay("B040311102_03_060");
-        MsgDisp("Honda","... Hm?
+        MsgDisp("Honda","...Hm?
 My heart's thumping a little...");
         MsgDisp("主人公","Huh, are you okay?
 Shall we take a break?");

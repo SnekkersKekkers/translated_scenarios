@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(3,255,4,4,4,#1,#1,0,0);
 ChLayout(1);
 VoicePlay("G020310307_03_000");
-MsgDisp("Honda","Haa... can I ask you something?");
+MsgDisp("Honda","Haa...can I ask you something?");
 MsgDisp("主人公","Eh?
 Yeah, go ahead.");
 ChEye(3,0);

@@ -52,7 +52,7 @@ Then you can accomplish anything.");
     MsgDisp("Mikage","｛主人公｝, those are good
 results.");
     MsgDisp("主人公","｛御影＊＊｝, thank you
-very much. But... I think I could have
+very much. But...I think I could have
 tried a little harder.");
     ChEye(7,0);
     ChMouth(7,3);

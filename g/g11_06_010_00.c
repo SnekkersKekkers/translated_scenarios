@@ -80,7 +80,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110601000_06_090");
-MsgDisp("Himuro","... Geez.
+MsgDisp("Himuro","...Geez.
 What am I so worried for?");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);

@@ -3,7 +3,7 @@ BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(2);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛みちる＊｝...
-You're... here!)");
+You're...here!)");
 MsgDisp("主人公","｛みちる＊｝, good
 morning!");
 MsgClose();

@@ -69,7 +69,7 @@ Molly's. Pitch black and huge...Right?");
 MsgDisp("主人公","Yeah!");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700100_07_060");
-MsgDisp("Mikage","... She kind of reminds me of you.
+MsgDisp("Mikage","...She kind of reminds me of you.
 Kind of teary-eyed.");
 MsgDisp("主人公","Eh?");
 MsgClose();

@@ -62,7 +62,7 @@ I wasn't plannin' on fullin' around.");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("B040824202_08_050");
-        MsgDisp("Shirahane","How should I put it... dont'cha yearn for
+        MsgDisp("Shirahane","How should I put it...dont'cha yearn for
 it?
 Relaxin' round a campfire?");
         ChEye(8,4);

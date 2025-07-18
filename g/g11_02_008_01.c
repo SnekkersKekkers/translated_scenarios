@@ -92,7 +92,7 @@ ChMouth(2,1);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("G110200801_02_100");
-MsgDisp("Sassa","... What am I saying∋
+MsgDisp("Sassa","...What am I saying∋
 This is no good, I need to push myself
 harder!");
 MsgClose();

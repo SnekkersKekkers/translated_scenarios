@@ -49,7 +49,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100003_01_050");
 MsgDisp("Kazama","The secret they're protecting to that
-extent, the one they're hiding... is Vice
+extent, the one they're hiding...is Vice
 Principal Himuro's spare body.");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
@@ -62,8 +62,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("F020100003_01_060");
 MsgDisp("Kazama","He only looks human. From when he was a
 homeroom teacher to when he was head
-teacher to now... he had three bodies.");
-MsgDisp("主人公","Um... so the oni are protecting
+teacher to now...he had three bodies.");
+MsgDisp("主人公","Um...so the oni are protecting
 Himuro-sensei's spare bodies?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -74,7 +74,7 @@ There's no trace of the original story,
 right?");
 ChMotion(1,0);
 MsgDisp("主人公","Hehe, but it's interesting.
-... Next time, I'll try to ask
+...Next time, I'll try to ask
 Himuro-sensei.");
 ChEye(1,3);
 ChMouth(1,3);

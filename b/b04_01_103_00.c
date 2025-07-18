@@ -32,7 +32,7 @@ activities, though.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040110300_01_020");
     MsgDisp("Kazama","What do his looks have to do with it?
-... Sheesh, women are always like this...");
+...Sheesh, women are always like this...");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030606100_06_000");
 MsgDisp("Himuro","Looks like there's some time before the
 fireworks.
-... Want to look around the festival?");
+...Want to look around the festival?");
 MsgDisp("主人公","Yeah!");
 MsgDispSksp(1,0);
 ChEye(6,0);

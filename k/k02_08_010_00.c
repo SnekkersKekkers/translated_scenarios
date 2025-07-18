@@ -51,7 +51,7 @@ ChMotion(8,0,1);
 VoicePlay("K020801000_08_050");
 MsgDisp("Shirahane","And, here.
 Take this.");
-MsgDisp("主人公","Ah... a present?");
+MsgDisp("主人公","Ah...a present?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,2,1);

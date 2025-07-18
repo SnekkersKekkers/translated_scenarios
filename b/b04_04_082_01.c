@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,1);
     ChMotion(4,2,1);
     VoicePlay("B040408201_04_010");
-    MsgDisp("Nanatsumori","Ugh... the feeling is ruined.");
+    MsgDisp("Nanatsumori","Ugh...the feeling is ruined.");
     MsgDateResultDisp();
     break ;
     case 1:

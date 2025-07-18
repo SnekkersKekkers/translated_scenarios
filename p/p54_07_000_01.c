@@ -19,7 +19,7 @@ ChMotion(7,0);
 VoicePlay("P540700001_07_010");
 MsgDisp("Mikage","I could tell that you gave it your best
 effort.
-... I think your friends could too.");
+...I think your friends could too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

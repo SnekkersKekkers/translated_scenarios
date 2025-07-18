@@ -49,7 +49,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B360150401_01_050");
 MsgDisp("Kazama","What's with that?
 I'm not a dog.
-... Geez.");
+...Geez.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(8,0);

@@ -28,7 +28,7 @@ I'll go home alone today.)");
     ChMouth(21,0);
     ChMotion(21,1);
     VoicePlay("F012100006_21_020");
-    MsgDisp("Michiru","Today is a little... you know?
+    MsgDisp("Michiru","Today is a little...you know?
 My apologies.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

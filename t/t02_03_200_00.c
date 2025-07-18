@@ -88,7 +88,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_110");
 MsgDisp("Honda","Yeah.
-You, my family, my friends... the things I
+You, my family, my friends...the things I
 love most are people.");
 ChEye(3,2);
 ChMotion(3,2,1);

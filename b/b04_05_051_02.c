@@ -90,7 +90,7 @@ it?");
         ChMotion(5,4);
         VoicePlay("B040505102_05_100");
         MsgDisp("Hiiragi","Yes. Talking about being sleepy, being
-woken up... What were we even saying?");
+woken up...What were we even saying?");
         MsgDisp("主人公","Seriously.");
         ChEye(5,4);
         ChMotion(5,0);

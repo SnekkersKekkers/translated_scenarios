@@ -55,7 +55,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110303_01_070");
-MsgDisp("Kazama","... Hm?
+MsgDisp("Kazama","...Hm?
 Wait, there's something fluttering in
 front of us, isn't there?");
 MsgDisp("主人公","Agh!

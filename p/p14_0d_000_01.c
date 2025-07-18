@@ -31,7 +31,7 @@ MsgDisp("Hikaru","I wanted to get lost properly in the
 maze...");
 MsgDisp("主人公","(Ugh...
 I should have made it so that it was fun
-to play... huge mistake...)");
+to play...huge mistake...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21);

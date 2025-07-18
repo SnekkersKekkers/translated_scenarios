@@ -29,7 +29,7 @@ I-I'm good with them.");
     ChMotion(7,2);
     VoicePlay("B040722100_07_020");
     MsgDisp("Mikage","It's only natural for a wooden building to
-creak... right?");
+creak...right?");
     MsgDateResultDisp();
     break ;
     case 2:

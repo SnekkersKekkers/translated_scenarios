@@ -2,7 +2,7 @@ BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I think I'll go home now.
-... Huh?)");
+...Huh?)");
 VoicePlay("E010620200_04_000");
 MsgDisp("Nanatsumori?","That guy is crazy.");
 VoicePlay("E010620200_06_000");
@@ -27,8 +27,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("E010620200_04_020");
-MsgDisp("Nanatsumori","Ah... it's more like we happened to meet,
-or maybe we were drawn to each other... or
+MsgDisp("Nanatsumori","Ah...it's more like we happened to meet,
+or maybe we were drawn to each other...or
 something?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -58,7 +58,7 @@ ChMouth(4,4);
 ChMotion(4,2);
 ChCheek(4,7);
 VoicePlay("E010620200_04_030");
-MsgDisp("Nanatsumori","It was... an angel.");
+MsgDisp("Nanatsumori","It was...an angel.");
 MsgDisp("主人公","???");
 ChEye(6,0);
 ChMouth(6,4);
@@ -79,13 +79,13 @@ ChMotion(4,1);
 VoicePlay("E010620200_04_050");
 MsgDisp("Nanatsumori","He was also sneaking around Himuro-kun's
 feet.
-... Right?");
+...Right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("E010620200_06_060");
-MsgDisp("Himuro","Ugh... it's the first time something like
+MsgDisp("Himuro","Ugh...it's the first time something like
 that has happened to me...");
 ChEye(4,0);
 ChMouth(4,3);

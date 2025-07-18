@@ -83,7 +83,7 @@ BGMStop();
 Wait(120,0);
 BGOpen("ad721",0);
 VoicePlay("Y300700200_32_000");
-MsgDisp("VP Himuro","\"Mikage-sensei... come here.\"");
+MsgDisp("VP Himuro","\"Mikage-sensei...come here.\"");
 VoicePlay("Y300700200_07_040");
 MsgDisp("Mikage","\"Ah, yes.
 Everyone be quiet.\"");

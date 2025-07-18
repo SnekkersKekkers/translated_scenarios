@@ -10,7 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_360");
-MsgDisp("Himuro","I wouldn't say I don't have one... just
+MsgDisp("Himuro","I wouldn't say I don't have one...just
 that I don't now what it is yet.");
 MsgDisp("主人公","Do you want to be a pro surfer?");
 ChEye(6,0);
@@ -26,7 +26,7 @@ ChMotion(6,0);
 VoicePlay("B070600000_06_380");
 MsgDisp("Himuro","I'm sure there are other things I'll want
 to do.
-... I don't know what they are though.");
+...I don't know what they are though.");
 MsgDisp("主人公","I see.");
 ChEye(6,0);
 ChMouth(6,0);

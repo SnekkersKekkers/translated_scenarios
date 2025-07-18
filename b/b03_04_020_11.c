@@ -26,7 +26,7 @@ We can walk it, but...");
     ChEyeOpenLevel(4,10);
     MsgDisp("Nanatsumori","∋ But that place is a date spo— No,
 nevermind.
-... Let's go.");
+...Let's go.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

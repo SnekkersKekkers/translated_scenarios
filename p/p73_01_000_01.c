@@ -98,7 +98,7 @@ Whether I dislike it or not means nothing.");
     ChMotion(1,3);
     VoicePlay("P730100001_01_090");
     MsgDisp("Kazama","If I'm understating it, it's the best.
-... Does that satisfy you?");
+...Does that satisfy you?");
     MsgDisp("主人公","Hehe, yeah.
 I'm super happy.");
     ChEye(1,0);

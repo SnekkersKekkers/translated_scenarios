@@ -115,7 +115,7 @@ MsgDisp("Hiiragi","How hilarious it is that I'm the chairman.");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500300_05_120");
-MsgDisp("Hiiragi","... Hah, my apologies...
+MsgDisp("Hiiragi","...Hah, my apologies...
 Am I that way to you too?");
 MsgDisp("主人公","Of course not. ｛柊＊＊＊｝ is
 always working hard for everyone's sake,

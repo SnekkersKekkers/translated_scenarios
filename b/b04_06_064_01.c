@@ -27,7 +27,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B040606401_06_030");
-MsgDisp("Himuro","... Understood.
+MsgDisp("Himuro","...Understood.
 Alright.
 Let's have a contest.");
 SEPlay("EV_SE_626");

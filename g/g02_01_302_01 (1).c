@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(1,255,1,0,0,#1,#1,0,0);
 VoicePlay("G020130201_01_000");
 MsgDisp("Kazama","This really is something you have to see
-with your own eyes... It's totally
+with your own eyes...It's totally
 different from just hearing about it.");
 MsgDisp("主人公","Yeah, it's prettier than the rumors say it
 is.");

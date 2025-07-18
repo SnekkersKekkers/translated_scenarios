@@ -35,7 +35,7 @@ VoicePlay("G110400302_04_010");
 MsgDisp("Nanatsumori","Shh...");
 MsgDisp("主人公","Ah, sorry...");
 VoicePlay("G110400302_04_020");
-MsgDisp("Nanatsumori","Wait... don't worry about that here.
+MsgDisp("Nanatsumori","Wait...don't worry about that here.
 Just wanted to let you know that.");
 MsgDisp("主人公","But, should I still be sorry?");
 ChEye(4,0);
@@ -64,7 +64,7 @@ VoicePlay("G110400302_04_060");
 MsgDisp("Nanatsumori","Yeah. I'm a fan of this new reporter, so
 I'm really looking forward to reading this
 new article.");
-MsgDisp("主人公","(Oof... pressure. But if
+MsgDisp("主人公","(Oof...pressure. But if
 ｛七ツ森＊｝ is going to
 read it, I'll do my best to write a good
 article!)");

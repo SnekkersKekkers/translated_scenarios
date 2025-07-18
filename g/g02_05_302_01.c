@@ -9,7 +9,7 @@ ChMotion(5,0);
 VoicePlay("G020530201_05_010");
 MsgDisp("Hiiragi","When girls hang out together, what kind of
 things do they do?");
-MsgDisp("主人公","I see, well... They do things like go
+MsgDisp("主人公","I see, well...They do things like go
 shopping, sing karaoke and eat sweets...
 Many things?");
 ChEye(5,2);
@@ -34,7 +34,7 @@ played in the park...
 It was fun.");
 MsgDisp("主人公","(｛柊＊＊＊｝ didn't get to hang out with
 his friends much in elementary or middle
-school... I'm so happy for him!)");
+school...I'm so happy for him!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
     case 3:
     MsgDisp("主人公","(This year we're displaying wedding
 dresses. This is my last cultural
-festival... I have to make it a success!)");
+festival...I have to make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -58,7 +58,7 @@ myself with confidence!)");
     case 5:
     MsgDisp("主人公","(This year we're displaying wedding
 dresses. This is my last cultural
-festival... I have to make it a success!)");
+festival...I have to make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -114,9 +114,9 @@ fingers in my mouth.");
     VoicePlay("P730700002_07_110");
     MsgDisp("Mikage","Yeah, you have to go show everyone this
 lovely dress.");
-    MsgDisp("主人公","(... Thanks to
+    MsgDisp("主人公","(...Thanks to
 ｛御影＊＊｝, I feel like
-I've been able to relax... Alright, let's
+I've been able to relax...Alright, let's
 have some fun!)");
     break ;
     default :

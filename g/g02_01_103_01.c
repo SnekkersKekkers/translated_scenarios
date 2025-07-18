@@ -113,7 +113,7 @@ VoicePlay("G020110301_01_130");
 MsgDisp("Kazama","(sigh) I wanna go to a timeline where I
 didn't borrow that floatie that day...");
 MsgDisp("主人公","(｛風真＊＊｝ using a floatie to stay above
-water... might be something I want to see
+water...might be something I want to see
 again.)");
 BGMStop();
 MsgClose();

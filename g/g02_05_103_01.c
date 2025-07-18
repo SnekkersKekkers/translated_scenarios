@@ -10,7 +10,7 @@ VoicePlay("G020510301_05_010");
 MsgDisp("Hiiragi","It was rather troubling after you left to
 go home, you know?");
 VoicePlay("G020510301_05_020");
-MsgDisp("Hiiragi","The troupe members saw you... and
+MsgDisp("Hiiragi","The troupe members saw you...and
 bombarded me with questions");
 MsgDisp("主人公","Eh, what kind of questions?");
 ChEye(5,2);

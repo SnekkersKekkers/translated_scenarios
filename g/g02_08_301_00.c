@@ -22,7 +22,7 @@ ChMouth(8,4);
 ChMotion(8,2,1);
 ChCheek(8,6);
 VoicePlay("G020830100_08_020");
-MsgDisp("Shirahane","Am I... your friend?
+MsgDisp("Shirahane","Am I...your friend?
 Or——");
 MsgDisp("主人公","Eh?");
 ChEye(8,4);

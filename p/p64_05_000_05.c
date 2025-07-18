@@ -20,7 +20,7 @@ VoicePlay("P640500005_05_020");
 MsgDisp("Hiiragi","Putting the vegetables enjoyed for their
 bitterness and the vegetables with a
 similar sugar content to fruit together...");
-MsgDisp("主人公","Ah... maybe I prioritized the colours too
+MsgDisp("主人公","Ah...maybe I prioritized the colours too
 much...");
 ChEye(5,4);
 ChMouth(5,4);

@@ -75,7 +75,7 @@ Then, please have a seat here.");
     MsgDisp("主人公","Here's our original blend.");
     VoicePlay("I350100000_01_040");
     MsgDisp("Kazama","Smells good.
-... Yeah, it's delicious.");
+...Yeah, it's delicious.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,35,0,0,3,#1,#1,0,0,0,30);
@@ -153,7 +153,7 @@ Thank you for your order.");
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,0,3,#1,#1,0,0);
     MsgDisp("主人公","Welcome.
-... Hm, ｛風真＊＊｝?
+...Hm, ｛風真＊＊｝?
 You said someone else would...");
     ChEye(1,3);
     ChMouth(1,3);
@@ -169,7 +169,7 @@ Then would you like some coffee?");
     ChEyeOpenLevel(1,8);
     VoicePlay("I350100000_01_130");
     MsgDisp("Kazama","Uh...
-If it's just a little... no, I can't.");
+If it's just a little...no, I can't.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);

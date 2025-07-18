@@ -1,7 +1,7 @@
 BGOpen("sc530",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh... over there is...
+MsgDisp("主人公","(Huh...over there is...
 ｛颯砂＊＊｝ and
 ｛氷室＊＊｝? )");
 MsgClose();
@@ -70,7 +70,7 @@ ChMotion(2,2);
 VoicePlay("F100240000_02_040");
 MsgDisp("Sassa","And Inori is alone when he's on the
 surfboard.");
-MsgDisp("主人公","I see... they're completely different
+MsgDisp("主人公","I see...they're completely different
 sports, but they have some similarities.");
 ChEye(2,0);
 ChMouth(2,4);

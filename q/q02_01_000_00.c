@@ -45,7 +45,7 @@ This is going to be fun!)");
         VoicePlay("Q020100000_01_040");
         MsgDisp("Kazama","Ah, is that so.
 Don't wander off and get lost.
-... Bye.");
+...Bye.");
         MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :

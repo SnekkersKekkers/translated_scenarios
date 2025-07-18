@@ -34,7 +34,7 @@ Then we'll start back-to-back!");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040101102_01_020");
         MsgDisp("Kazama","I know that.
-... Sheesh, no matter where you go, it's
+...Sheesh, no matter where you go, it's
 not like it's going to collapse.");
         MsgDateResultDisp();
         break ;

@@ -80,7 +80,7 @@ I'm borrowing this!");
 inventory, so I purchased some.");
     MsgDisp("主人公","｛柊＊＊＊｝, thank you very
 much!");
-    MsgDisp("主人公","(Hmmm.... Even though the management
+    MsgDisp("主人公","(Hmmm....Even though the management
 notebook said there should be some left.
 We need to warn those who didn't fill it
 in...)");

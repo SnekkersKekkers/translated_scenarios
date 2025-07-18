@@ -1,7 +1,7 @@
 BGOpen("ho210",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Ah... it's my phone.
+MsgDisp("主人公","Ah...it's my phone.
 It's from the class president.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);

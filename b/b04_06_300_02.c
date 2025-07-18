@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040630002_06_010");
     MsgDisp("Himuro","What are you going to do by looking at it?
-... Well, it's fine.");
+...Well, it's fine.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -94,7 +94,7 @@ going to your junior's house.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040630002_06_090");
-        MsgDisp("Himuro","I'm... a man too.");
+        MsgDisp("Himuro","I'm...a man too.");
         MsgDisp("主人公","Yeah, that's right.
 Thanks.");
         ChEye(6,0);

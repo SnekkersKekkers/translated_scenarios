@@ -49,7 +49,7 @@ C'mon, hurry.");
     MsgDisp("Male Customer","Stop, stop!");
     MsgDisp("主人公","Huh?");
     VoicePlay("I660800000_39_040");
-    MsgDisp("Male Customer","Geez... look behind properly, my car's
+    MsgDisp("Male Customer","Geez...look behind properly, my car's
 right there!");
     MsgDisp("主人公","I'm so sorry!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");

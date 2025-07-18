@@ -40,7 +40,7 @@ ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B070600002_06_130");
 MsgDisp("Himuro","Why's that?
-... But, I don't dislike him.");
+...But, I don't dislike him.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

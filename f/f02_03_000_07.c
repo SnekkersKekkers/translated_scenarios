@@ -11,7 +11,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("F020300007_03_000");
-MsgDisp("Honda","Right now, I'm thinking... libraries and
+MsgDisp("Honda","Right now, I'm thinking...libraries and
 museum tours.");
 MsgDisp("主人公","The whole break?");
 ChEye(3,4);
@@ -46,6 +46,6 @@ VoicePlay("F020300007_03_050");
 MsgDisp("Honda","But don't think that I want to go all the
 way to the forest. I'm fine with the bugs
 in foreign homes, okay?");
-MsgDisp("主人公","(The bugs that come out in homes... huh.
+MsgDisp("主人公","(The bugs that come out in homes...huh.
 Maybe ｛本多＊＊｝ can be
 sensible?)");

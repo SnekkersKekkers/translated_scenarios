@@ -12,7 +12,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B050600100_06_000");
-MsgDisp("Himuro","Ah, hey... but, that's incorrect.
+MsgDisp("Himuro","Ah, hey...but, that's incorrect.
 We're just friends.");
 MsgDisp("主人公","Uhm...
 ｛氷室＊＊｝, do you come here

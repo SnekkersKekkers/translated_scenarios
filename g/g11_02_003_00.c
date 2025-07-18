@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(There's still time before my afternoon
-classes... Maybe I'll try going out to the
+classes...Maybe I'll try going out to the
 courtyard.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -43,7 +43,7 @@ ChOpen(2,100,1,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200300_02_020");
 MsgDisp("Sassa","Yes, this is good.");
-MsgDisp("主人公","Haa, haa... really?");
+MsgDisp("主人公","Haa, haa...really?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);

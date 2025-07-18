@@ -35,7 +35,7 @@ MsgDisp("主人公","Yeah.");
 MsgClose();
 ScrFadeOut(0);
 VoicePlay("B330A30501_01_010");
-MsgDisp("Kazama","Lift your chin a bit... that's right.
+MsgDisp("Kazama","Lift your chin a bit...that's right.
 And try lifting your arm too.");
 MsgDisp("主人公","Y-Yeah.");
 VoicePlay("B330A30501_02_010");

@@ -114,7 +114,7 @@ trivia of the spots we'll be touring?)");
         ChMouth(3,4);
         ChMotion(3,4,1);
         VoicePlay("Q020300000_03_100");
-        MsgDisp("Honda","Oh... is that so?
+        MsgDisp("Honda","Oh...is that so?
 I was assuming it would be the two of us
 going around together");
         ChEye(3,4);

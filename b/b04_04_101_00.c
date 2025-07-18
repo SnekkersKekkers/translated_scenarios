@@ -23,7 +23,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(4,7);
     VoicePlay("B040410100_04_020");
     MsgDisp("Nanatsumori","Eh, which one?
-... Hmmー who, I wonder...");
+...Hmmー who, I wonder...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

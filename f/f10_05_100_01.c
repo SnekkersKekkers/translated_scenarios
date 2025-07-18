@@ -48,7 +48,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100510001_05_030");
 MsgDisp("Hiiragi","Yes, I found it just now.
-... A textbook for middle school students.
+...A textbook for middle school students.
 It seemed just right for me.");
 MsgDisp("主人公","Eh?");
 ChEye(5,2);
@@ -81,7 +81,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(｛柊＊＊＊｝ is amazing. even though he's
-so busy... I would like to be able to help
+so busy...I would like to be able to help
 out any way that I can.)");
 MsgClose();
 ScrFadeOut(0,0);

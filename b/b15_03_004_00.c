@@ -11,7 +11,7 @@ ChMotion(3,4,1);
 VoicePlay("B150300400_03_010");
 MsgDisp("Honda","I've got a whole traffic jam of emotions
 going on inside me. Happiness, anxiety,
-confusion... My mind's all over the place.");
+confusion...My mind's all over the place.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -41,7 +41,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B150300400_03_050");
-MsgDisp("Honda","It's kind of scary and frustrating... it's
+MsgDisp("Honda","It's kind of scary and frustrating...it's
 just a really weird feeling!");
 MsgDisp("主人公","But ｛本多＊＊｝, you seem to be
 enjoying it?");
@@ -66,7 +66,7 @@ ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300400_03_080");
 MsgDisp("Honda","Hehe, thanks!");
-MsgDisp("主人公","(He thanked me... but this means I can
+MsgDisp("主人公","(He thanked me...but this means I can
 keep touching ｛本多＊＊｝ in the
 future.)");
 MsgClose();

@@ -27,7 +27,7 @@ MsgDisp("Kazama","I'm looking for the owner of this glass
 slipper.");
 VoicePlay("P240100000_46_000");
 MsgDisp("Stepsister A","Prince, I am the owner of those slippers.
-... Ah, it won't fit.");
+...Ah, it won't fit.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -37,7 +37,7 @@ MsgDisp("Kazama","...It doesn't seem to fit.");
 ChEye(1,0);
 VoicePlay("P240100000_48_000");
 MsgDisp("Stepsister B","Dear sister, it is my turn next.
-... It's in.");
+...It's in.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -69,7 +69,7 @@ ChMouth(1,4);
 ChMotion(1,0,1);
 VoicePlay("P240100000_01_050");
 MsgDisp("Kazama","Cinderella...
-... Please step forward.");
+...Please step forward.");
 MsgDisp("主人公","Y-Yes, Prince.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -188,7 +188,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","(Reply...?
-Eh... could it be, about marriage∋)");
+Eh...could it be, about marriage∋)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

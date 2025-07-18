@@ -80,7 +80,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610401_06_110");
-MsgDisp("Himuro","... Ah, right.
+MsgDisp("Himuro","...Ah, right.
 Well, I don't want to be too rigid like
 them.");
 MsgDisp("主人公","(｛氷室＊＊｝ seems to have pride in his

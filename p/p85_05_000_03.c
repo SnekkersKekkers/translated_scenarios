@@ -30,7 +30,7 @@ So even if it's just a little show me a
 smile.");
 MsgDisp("主人公","(Haa...even though it was the last
 cultural festival of my high school
-life... I should have prepared more
+life...I should have prepared more
 carefully");
 MsgClose();
 ScrFadeOut(0,0);

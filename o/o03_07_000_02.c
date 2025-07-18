@@ -32,7 +32,7 @@ best until the very end?");
     VoicePlay("O030700002_07_020");
     MsgDisp("Mikage","Exactly.
 But thanks to you, I got a memory that I
-won't forget even in 10 years... right?");
+won't forget even in 10 years...right?");
     MsgDisp("主人公","(Hm...
 The memory of getting last, huh...
 It's frustrating.)");
@@ -45,7 +45,7 @@ It's frustrating.)");
     VoicePlay("O030700002_07_030");
     MsgDisp("Mikage","Hey, everyone's super excited, aren't
 they?");
-    MsgDisp("主人公","Um... since we're last, I guess everyone's
+    MsgDisp("主人公","Um...since we're last, I guess everyone's
 applause is just loud?");
     ChEye(7,0);
     ChMouth(7,0);

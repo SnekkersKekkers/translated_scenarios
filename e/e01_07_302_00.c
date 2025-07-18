@@ -36,7 +36,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010730200_06_010");
-MsgDisp("Himuro","Ugh... fine.
+MsgDisp("Himuro","Ugh...fine.
 I understand.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -49,7 +49,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("E010730200_06_020");
-MsgDisp("Himuro","Okay... but, please don't include any
+MsgDisp("Himuro","Okay...but, please don't include any
 eggplant...
 Well then, please excuse me.");
 MsgClose();

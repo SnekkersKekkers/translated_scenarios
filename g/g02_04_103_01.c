@@ -27,12 +27,12 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020410301_04_030");
 MsgDisp("Nanatsumori","At night?");
-MsgDisp("主人公","Ah... oh yeah.");
+MsgDisp("主人公","Ah...oh yeah.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("G020410301_04_040");
-MsgDisp("Nanatsumori","Oh man... you're a bit gullible...
+MsgDisp("Nanatsumori","Oh man...you're a bit gullible...
 Are you sure you're being careful?");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(4,0);

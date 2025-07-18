@@ -79,7 +79,7 @@ I'm sorry I did that. ...)");
         case 5:
         VoicePlay("J060101000_01_090");
         MsgDisp("Kazama","Okay.");
-        MsgDisp("主人公","Um, ... sorry?
+        MsgDisp("主人公","Um, ...sorry?
 Just ...");
         VoicePlay("J060101000_01_100");
         MsgDisp("Kazama","It's fine.

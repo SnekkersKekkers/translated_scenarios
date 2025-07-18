@@ -6,7 +6,7 @@ ChOpen(2,255,4,2,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223400_02_000");
 MsgDisp("Sassa","This should count as a thrill ride, right?");
-MsgSel("I'm getting excited like a kid!","I could feel the centrifugal force","The world... is spinning...");
+MsgSel("I'm getting excited like a kid!","I could feel the centrifugal force","The world...is spinning...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);
@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040223400_02_010");
     MsgDisp("Sassa","Even so, I spun too much...
-I somewhat... feel gross...");
+I somewhat...feel gross...");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -34,7 +34,7 @@ That's pretty much all this ride is huh?");
     ChMouth(2,4);
     ChMotion(2,2);
     VoicePlay("B040223400_02_030");
-    MsgDisp("Sassa","Hahaha... me too.
+    MsgDisp("Sassa","Hahaha...me too.
 F-First, let's sit down for a bit.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

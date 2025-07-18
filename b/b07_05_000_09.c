@@ -4,7 +4,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B070500000_05_410");
-MsgDisp("Hiiragi","I guess... it's beyond my capabilities.");
+MsgDisp("Hiiragi","I guess...it's beyond my capabilities.");
 MsgDisp("主人公","Beyond your capabilities?");
 ChEye(5,0);
 ChMotion(5,0);

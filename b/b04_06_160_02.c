@@ -66,7 +66,7 @@ enjoy them.");
         MsgDisp("Himuro","That's why...
 Could you include me in the list of people
 you come here with?");
-        MsgDisp("主人公","... Ah.
+        MsgDisp("主人公","...Ah.
 Hehe, of course!
 Then, I'll invite you next time okay?");
         ChEye(6,0);
@@ -80,7 +80,7 @@ Then, I'll invite you next time okay?");
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040616002_06_080");
-        MsgDisp("Himuro","... Haa.
+        MsgDisp("Himuro","...Haa.
 Why is it that I could only phrase it like
 that....");
         MsgDisp("主人公","(?)

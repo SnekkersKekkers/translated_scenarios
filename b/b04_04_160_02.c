@@ -84,7 +84,7 @@ If you'd like, I could even post it here?");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040416002_04_080");
-        MsgDisp("Nanatsumori","Ah... actually, I can't.
+        MsgDisp("Nanatsumori","Ah...actually, I can't.
 I can't post it.");
         MsgDisp("主人公","?");
         VoicePlay("B040416002_04_090");

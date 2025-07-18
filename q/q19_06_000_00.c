@@ -7,14 +7,14 @@ SEPlay("EV_SE_670");
 SEWait();
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Eh∋
-Who could it be at this hour... ... wait,
+Who could it be at this hour......wait,
 from ｛氷室＊＊｝? )");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 SEWait();
 MsgDisp("主人公","He, hello...?");
 VoicePlay("Q190600000_06_000");
-MsgDisp("Himuro","... Why are you answering.
+MsgDisp("Himuro","...Why are you answering.
 Isn't it past lights out time?");
 MsgDisp("主人公","Aren't you, ｛氷室＊＊｝, the one
 who called?");
@@ -34,7 +34,7 @@ StlOpen("ev_06_13");
 StlEye(6,0);
 StlMouth(6,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah... it's ｛氷室＊＊｝!");
+MsgDisp("主人公","Ah...it's ｛氷室＊＊｝!");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -63,7 +63,7 @@ StlEye(6,2);
 StlMouth(6,2);
 StlCheek(6,5);
 VoicePlay("Q190600000_06_070");
-MsgDisp("Himuro","... I was not concentrating.");
+MsgDisp("Himuro","...I was not concentrating.");
 MsgDisp("主人公","Eh, you put them on∋");
 StlEye(6,0);
 StlMouth(6,2);
@@ -111,7 +111,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("Q190600000_06_140");
-MsgDisp("Himuro","... yeah.
+MsgDisp("Himuro","...yeah.
 Good night, then.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 BGMStop();

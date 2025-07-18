@@ -84,7 +84,7 @@ arrive?");
     ChMotion(6,4);
     ChCheek(6,10);
     VoicePlay("B010600001_06_090");
-    MsgDisp("Himuro","... I'm seriously jealous of how carefree
+    MsgDisp("Himuro","...I'm seriously jealous of how carefree
 you are.");
     MsgDispSksp(0);
     break ;

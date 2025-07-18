@@ -35,7 +35,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("G020520000_05_070");
-MsgDisp("Hiiragi","Haa... that was a relief.
+MsgDisp("Hiiragi","Haa...that was a relief.
 You know, it's within my nature to be true
 to my words.");
 MsgDisp("主人公","(The person closest to me...)");

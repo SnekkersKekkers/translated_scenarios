@@ -4,7 +4,7 @@ ChMouth(4,0);
 ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 VoicePlay("G020410201_04_000");
-MsgDisp("Nanatsumori","We're not dating... right?");
+MsgDisp("Nanatsumori","We're not dating...right?");
 MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -49,7 +49,7 @@ VoicePlay("G020410201_04_080");
 MsgDisp("Nanatsumori","I got it! We should go on more dates. I'm
 so used to feeling bad after saying bye.");
 ChEyeOpenLevel(4,#1);
-MsgDisp("主人公","(｛七ツ森＊｝... are you in a rush?)");
+MsgDisp("主人公","(｛七ツ森＊｝...are you in a rush?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

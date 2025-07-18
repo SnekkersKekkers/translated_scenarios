@@ -64,7 +64,7 @@ in terms of outfits.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040414002_04_070");
-        MsgDisp("Nanatsumori","... Pfft!
+        MsgDisp("Nanatsumori","...Pfft!
 Even you're considering it.");
         MsgDisp("主人公","It's making me imagin e all sorts of
 things.");
@@ -80,7 +80,7 @@ amateur band?");
         ChMotion(4,0,1);
         VoicePlay("B040414002_04_090");
         MsgDisp("Nanatsumori","You can do the vocals.
-I'll... pretend to play some instruments");
+I'll...pretend to play some instruments");
         MsgDisp("主人公","That's unfair!
 Then, I'll also, pretend to do some
 vocals...");

@@ -9,7 +9,7 @@ girls in elementary and middle school.");
 VoicePlay("F100330000_03_000");
 MsgDisp("Honda?","Really?
 My little sister will be happy too!");
-MsgDisp("主人公","(Ah... it's ｛本多＊＊｝,
+MsgDisp("主人公","(Ah...it's ｛本多＊＊｝,
 ｛ひかる＊｝ and
 ｛みちる＊｝'s voices.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

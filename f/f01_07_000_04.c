@@ -35,9 +35,9 @@ Ah, I really do want to go with you.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("F010700004_07_020");
-    MsgDisp("Mikage","Thank you for inviting me, but... well,
+    MsgDisp("Mikage","Thank you for inviting me, but...well,
 Vice Principal Himuro called me to talk.");
-    MsgDisp("主人公","｛御影＊＊｝... are you
+    MsgDisp("主人公","｛御影＊＊｝...are you
 okay?");
     ChEye(7,0);
     ChMouth(7,0);

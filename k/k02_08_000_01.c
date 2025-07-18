@@ -28,7 +28,7 @@ VoicePlay("K020800001_08_020");
 MsgDisp("Shirahane","The other day was your birthday, right?
 I wanted t'give this to you then, but I
 couldn't find the time...");
-MsgDisp("主人公","I'm so happy... thank you!");
+MsgDisp("主人公","I'm so happy...thank you!");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,0,1);

@@ -25,7 +25,7 @@ ChOpen(3,253,0,0,0,#1,#1,0,3);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B330B30600_04_000");
-MsgDisp("Nanatsumori","Haa... that was so funny.
+MsgDisp("Nanatsumori","Haa...that was so funny.
 I could watch this kind of movie over and
 over again.");
 ChEye(1,3);

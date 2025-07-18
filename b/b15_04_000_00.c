@@ -39,7 +39,7 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B150400000_04_050");
-MsgDisp("Nanatsumori","I don't really mind... but.
+MsgDisp("Nanatsumori","I don't really mind...but.
 You can't do that recklessly, innocently
 to just anyone.");
 MsgDisp("主人公","Yeah.");

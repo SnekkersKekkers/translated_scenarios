@@ -39,8 +39,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600010_06_030");
 MsgDisp("Himuro","And this time, multiple grade levels are
-involved... and you're working with us,
-to... I can't make mistakes.");
+involved...and you're working with us,
+to...I can't make mistakes.");
 MsgDisp("主人公","Uh, what?");
 ChEye(6,0);
 ChMouth(6,0);

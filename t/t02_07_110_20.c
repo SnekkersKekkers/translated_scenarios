@@ -1,10 +1,10 @@
-MsgDisp("主人公","I also... like you.");
+MsgDisp("主人公","I also...like you.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020711020_07_000");
-MsgDisp("Mikage","I see... thank you.");
+MsgDisp("Mikage","I see...thank you.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);

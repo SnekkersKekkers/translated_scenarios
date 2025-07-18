@@ -105,7 +105,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("E010530200_01_060");
-MsgDisp("Kazama","... Fine.
+MsgDisp("Kazama","...Fine.
 How about you treat me to some Alucard
 coffee?");
 ChEye(5,4);

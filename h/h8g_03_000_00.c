@@ -7,7 +7,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 ScrFadeIn(0);
 VoicePlay("H7G0300000_03_000");
-MsgDisp("Honda","Hm... truly amazing.");
+MsgDisp("Honda","Hm...truly amazing.");
 MsgDisp("主人公","Huh, ｛本多＊＊｝∋
 What are you doing here?");
 ChEye(3,1);

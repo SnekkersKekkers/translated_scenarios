@@ -34,7 +34,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0);
 ScrFadeIn(0);
-MsgDisp("主人公","... Huh?
+MsgDisp("主人公","...Huh?
 Now that I think of it, this——");
 ChEye(21,4);
 ChMouth(21,3);
@@ -56,7 +56,7 @@ ChMotion(21,4);
 VoicePlay("T020D50000_21_030");
 MsgDisp("Michiru","...Hey, Mari do you remember the day we
 first met?");
-MsgDisp("主人公","Ah... yes.
+MsgDisp("主人公","Ah...yes.
 I feel like I was startled by a lot of
 things to begin with.");
 ChEye(22,3);
@@ -83,7 +83,7 @@ ChMotion(21,4);
 VoicePlay("T020D50000_21_050");
 MsgDisp("Michiru","?");
 MsgDisp("主人公","There were a lot of strange things
-happening, yes... but
+happening, yes...but
 ｛みちる＊｝ and
 ｛ひかる＊｝ were
 always my friends and everyday was so fun!");
@@ -113,7 +113,7 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("T020D50000_21_070");
-MsgDisp("Michiru","... Hmm.
+MsgDisp("Michiru","...Hmm.
 I guess it's a little embarrassing.");
 ChEye(22,0);
 ChMouth(22,3);

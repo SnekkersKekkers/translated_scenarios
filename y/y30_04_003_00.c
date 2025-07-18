@@ -72,7 +72,7 @@ ScrFadeIn(0);
 MsgDisp("","She placed two desserts on my table.");
 MsgDisp("","\"Banana＆chocolate sundaeー\" and
 \"Biscuit kingdom\"...");
-MsgDisp("","I see... that's how it is!");
+MsgDisp("","I see...that's how it is!");
 MsgClear();
 MsgDisp("","I seriously get it.");
 MsgDisp("","Right. Currently when I finish work,
@@ -86,7 +86,7 @@ MsgDisp("","On top of the lightly-salted
 biscuits, there's fruits, there's
 sweets and side dishes in an hors
 d'oeuvre style dessert.");
-MsgDisp("","Ah... It seems like the manager's
+MsgDisp("","Ah...It seems like the manager's
 noticed, and used the food that fills
 me up well as the topping..");
 MsgClear();

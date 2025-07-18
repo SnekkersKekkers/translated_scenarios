@@ -64,13 +64,13 @@ ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("F102130002_22_030");
 MsgDisp("Hikaru","Hikaru has it first thing in the
-afternoon... huh?");
+afternoon...huh?");
 MsgDisp("主人公","Right?");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102130002_21_050");
-MsgDisp("Michiru","... Sorry, Mari.
+MsgDisp("Michiru","...Sorry, Mari.
 Could I borrow it first, then hand it to
 Hikaru after that?");
 MsgDisp("主人公","I don't have biology today, so that's

@@ -17,7 +17,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P740600003_06_010");
 MsgDisp("Himuro","Why are you making such a face?");
-MsgDisp("主人公","That's because, I fell... my dress also...");
+MsgDisp("主人公","That's because, I fell...my dress also...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

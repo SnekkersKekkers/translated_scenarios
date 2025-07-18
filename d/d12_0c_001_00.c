@@ -8,7 +8,7 @@ MsgClose();
 BGOpen("wf200",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The sunset is so beautiful from here...
-... Hmm?
+...Hmm?
 Over there, is that——)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -30,7 +30,7 @@ StlMouth(5,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","｛柊＊＊＊｝,
-｛御影＊＊｝... And
+｛御影＊＊｝...And
 ｛氷室＊＊｝∋ Uhm, is everyone
 practicing surfing?");
 StlEye(5,1);
@@ -41,7 +41,7 @@ StlEye(7,2);
 StlMouth(7,0);
 VoicePlay("D120C00100_07_010");
 MsgDisp("Mikage","O...Oh, it's nice of you to come. Inori is
-really strict... Please say something to
+really strict...Please say something to
 him.");
 StlEye(5,0);
 StlEye(6,0,0);

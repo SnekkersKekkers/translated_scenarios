@@ -74,7 +74,7 @@ feel, when I'm with you.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040606202_06_070");
-        MsgDisp("Himuro","Yeah... my chest is kind of itchy and
+        MsgDisp("Himuro","Yeah...my chest is kind of itchy and
 tingly, but, it feels somewhat nice.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -86,7 +86,7 @@ tingly, but, it feels somewhat nice.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040606202_06_090");
-        MsgDisp("Himuro","Well, but... I'm happy that you said I
+        MsgDisp("Himuro","Well, but...I'm happy that you said I
 should \"Get used to it soon\", it means
 being by your side is only natural.");
         MsgDisp("主人公","Hehe, yeah!");

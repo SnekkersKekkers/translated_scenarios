@@ -19,7 +19,7 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("R032100001_21_020");
-MsgDisp("Michiru","Jeez, Mari... you are already so cute.
+MsgDisp("Michiru","Jeez, Mari...you are already so cute.
 If you go past perfection, I won't be able
 to find words to describe you.");
 MsgDisp("主人公","(I'm so happy...

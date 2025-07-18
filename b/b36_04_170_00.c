@@ -41,7 +41,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360417000_04_040");
-MsgDisp("Nanatsumori","No... that's not it.");
+MsgDisp("Nanatsumori","No...that's not it.");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);

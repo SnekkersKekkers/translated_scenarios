@@ -24,7 +24,7 @@ ChMouth(4,4);
 ChCheek(4,3);
 VoicePlay("B140400100_04_020");
 MsgDisp("Nanatsumori","Haven't you noticed?
-Or... are you not interested?");
+Or...are you not interested?");
 MsgDisp("主人公","Ummm...");
 ChEye(4,2);
 ChMouth(4,3);
@@ -33,7 +33,7 @@ MsgDisp("Nanatsumori","Oh dear, do you have to think about it?");
 ChMouth(4,0);
 VoicePlay("B140400100_04_040");
 MsgDisp("Nanatsumori","When was the last time we met?");
-MsgDisp("主人公","Yesterday's Christmas party-... Ah! Oh,
+MsgDisp("主人公","Yesterday's Christmas party-...Ah! Oh,
 we've spent both Christmas nights
 together!");
 ChEye(4,0);

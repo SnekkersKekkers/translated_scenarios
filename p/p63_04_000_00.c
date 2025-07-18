@@ -55,7 +55,7 @@ You came.");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("P630400000_04_050");
-    MsgDisp("Nanatsumori","Hm... well.
+    MsgDisp("Nanatsumori","Hm...well.
 I came to see how you're doing——");
     ChEye(4,2);
     ChMouth(4,3);

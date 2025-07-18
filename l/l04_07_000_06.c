@@ -36,7 +36,7 @@ I wish it came out better...)");
     ChMotion(7,2);
     VoicePlay("L040700006_07_030");
     MsgDisp("Mikage","You made these yourself?
-... Damn, don't push yourself too hard.");
+...Damn, don't push yourself too hard.");
     MsgDisp("主人公","I'm sorry...
 I tried to put my feelings into them...");
     ChEye(7,0);
@@ -96,7 +96,7 @@ I'll make sure to accept your feelings in
 my stomach.");
     MsgDisp("主人公","(Aah, I wish I had made them better...
 I feel bad for
-｛御影＊＊｝... )");
+｛御影＊＊｝...)");
     MsgClose();
     BGMStop();
     MsgClose();

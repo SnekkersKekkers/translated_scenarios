@@ -11,13 +11,13 @@ ChMouth(21,2);
 ChMotion(21,2);
 ChCheek(21,0);
 VoicePlay("F032100000_21_480");
-MsgDisp("Michiru","... Ha.
+MsgDisp("Michiru","...Ha.
 I think it's probably impossible for me.");
 MsgDisp("主人公","That...why?");
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F032100000_21_490");
-MsgDisp("Michiru","I mean... even talking about it like this
+MsgDisp("Michiru","I mean...even talking about it like this
 makes my mind go completely blank.");
 ChEye(21,2);
 ChMouth(21,2);

@@ -67,7 +67,7 @@ MsgDisp("","She also responded with an OK.");
 MsgClear();
 MsgDisp("","I glanced at Kazama, who was happily
 smiling broadly.");
-MsgDisp("","Dahon... was even happier.");
+MsgDisp("","Dahon...was even happier.");
 MsgDisp("","I was laughing somewhat too.");
 MsgClear();
 MsgDisp("","Recently, I feel like the four of us

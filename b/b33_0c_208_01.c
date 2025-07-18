@@ -117,7 +117,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20801_05_030");
-MsgDisp("Hiiragi","I see... interesting.");
+MsgDisp("Hiiragi","I see...interesting.");
 MsgDisp("主人公","Y-Yeah...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -126,7 +126,7 @@ VoicePlay("B330C20801_07_070");
 MsgDisp("Mikage","It might be too much for a girl.
 Inori, Yanosuke, help me out.");
 MsgDisp("主人公","(...That means we'll alsoeat the fish that
-ate this bug... Yeah, let's not think
+ate this bug...Yeah, let's not think
 about it so much and just enjoy it.)");
 MsgClose();
 ScrFadeOut(0,0);

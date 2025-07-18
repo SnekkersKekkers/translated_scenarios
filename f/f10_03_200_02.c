@@ -33,7 +33,7 @@ MsgDisp("Sassa","Haha, I wasn't in really any kind of
 trouble.");
 ChEye(3,0);
 ChMouth(3,4);
-MsgDisp("主人公","Ah... so that's it.
+MsgDisp("主人公","Ah...so that's it.
 ｛本多＊＊｝, sorry.");
 ChEye(3,1);
 ChMotion(3,2,1);

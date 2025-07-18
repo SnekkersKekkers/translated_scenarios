@@ -6,7 +6,7 @@ ChOpen(7,255,4,0,0,6,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723400_07_000");
 MsgDisp("Mikage","You look like you're having fun...");
-MsgSel("I'm merry like a child!","We were able to experience the centrifugal force","The world... it's spinning...");
+MsgSel("I'm merry like a child!","We were able to experience the centrifugal force","The world...it's spinning...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

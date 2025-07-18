@@ -33,7 +33,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("Q080B00100_01_020");
-MsgDisp("Kazama","Ugh, yes. ... please.");
+MsgDisp("Kazama","Ugh, yes. ...please.");
 MsgDisp("主人公","Hehe, mee too!");
 ChMouth(1,0);
 ChEye(3,3);

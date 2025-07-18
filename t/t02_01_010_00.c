@@ -20,7 +20,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020101000_01_010");
 MsgDisp("Kazama","I hurriedly came to school from the
-airport. Then... I heard the bell ring.");
+airport. Then...I heard the bell ring.");
 MsgDisp("主人公","Eh∋
 Me too.");
 ChEye(1,3);
@@ -118,7 +118,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("T020101000_01_130");
 MsgDisp("Kazama","I couldn't bring myself to tell him I was
 staying here.
-But I... finally told him.");
+But I...finally told him.");
 MsgDisp("主人公","...Yeah");
 ChEyeOpenLevel(1,0);
 Wait(12,0);

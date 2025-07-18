@@ -29,7 +29,7 @@ Here, Valentine's chocolate.");
     VoicePlay("L040100000_01_010");
     MsgDisp("Kazama","Oh, you're fast.
 Those priorities are okay with me.");
-    MsgDisp("主人公","Um... what?");
+    MsgDisp("主人公","Um...what?");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,3);
@@ -77,7 +77,7 @@ Your chocolate.");
     ChMotion(1,1);
     VoicePlay("L040100000_01_060");
     MsgDisp("Kazama","Thank you.
-... Do you have other chocolates too?");
+...Do you have other chocolates too?");
     MsgDisp("主人公","Hm?
 Um...");
     ChEye(1,0);

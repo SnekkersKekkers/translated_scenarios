@@ -55,7 +55,7 @@ Did you come up with new opinions?");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040622202_06_040");
-        MsgDisp("Himuro","No... it's not necessary.");
+        MsgDisp("Himuro","No...it's not necessary.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -76,7 +76,7 @@ that.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040622202_06_070");
-        MsgDisp("Himuro","... What does it mean?
+        MsgDisp("Himuro","...What does it mean?
 It's just as I said.
 Nothing more, nothing less.");
         MsgDisp("主人公","Hehe.");

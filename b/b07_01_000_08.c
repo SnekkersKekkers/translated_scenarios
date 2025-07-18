@@ -13,7 +13,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_450");
 MsgDisp("Kazama","And why were you curious?");
-MsgDisp("主人公","Uh... why was I curious I wonder?");
+MsgDisp("主人公","Uh...why was I curious I wonder?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);

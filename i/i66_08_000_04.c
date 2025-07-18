@@ -62,7 +62,7 @@ Now, the bill...");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800004_08_060");
-    MsgDisp("Shirahane","... Hey.
+    MsgDisp("Shirahane","...Hey.
 Is there some new window cleaner fluid?");
     MsgDisp("主人公","Hm?
 It's the usual one.

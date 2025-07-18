@@ -25,7 +25,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("G020410305_04_030");
-MsgDisp("Nanatsumori","Immersed... but not in a dream?");
+MsgDisp("Nanatsumori","Immersed...but not in a dream?");
 MsgDisp("主人公","Yeah, like how you were in the music room,
 ｛七ツ森＊｝?");
 ChEye(4,4);
@@ -40,7 +40,7 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020410305_04_050");
-MsgDisp("Nanatsumori","Ah-... maybe.");
+MsgDisp("Nanatsumori","Ah-...maybe.");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("G020410305_04_060");

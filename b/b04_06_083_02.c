@@ -77,7 +77,7 @@ But it's alright——");
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040608302_06_060");
-        MsgDisp("Himuro","... You're sweating quite a bit too.
+        MsgDisp("Himuro","...You're sweating quite a bit too.
 Let's move to the shade.
 You'd better hydrate properly.");
         ChEye(6,0);

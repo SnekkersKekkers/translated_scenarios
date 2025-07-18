@@ -12,7 +12,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("X210100000_01_010");
-MsgDisp("Kazama","... No.
+MsgDisp("Kazama","...No.
 It could only be you.");
 ChEye(1,0);
 ChMouth(1,3);

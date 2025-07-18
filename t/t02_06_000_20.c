@@ -29,7 +29,7 @@ ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,0);
 ChCheek(6,0);
-MsgDisp("Himuro","... But I will say this.");
+MsgDisp("Himuro","...But I will say this.");
 MsgDisp("主人公","Huh?");
 BGMStop(2.8);
 MsgClear();

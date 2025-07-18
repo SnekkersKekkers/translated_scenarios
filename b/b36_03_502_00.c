@@ -19,7 +19,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360350200_03_010");
-MsgDisp("Honda","... Alright!
+MsgDisp("Honda","...Alright!
 Let's draw our own!");
 MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_531");

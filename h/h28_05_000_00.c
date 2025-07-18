@@ -33,7 +33,7 @@ You're working hard as well.");
 Your hard work will show itself in the
 results the team receives.");
     MsgDisp("主人公","｛柊＊＊＊｝, thank you.
-... I'll be going!");
+...I'll be going!");
     break ;
     default :
     DbgAssert(1);

@@ -35,7 +35,7 @@ here really love their hometown.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040110100_01_020");
-    MsgDisp("Kazama","... That airheaded response is just like
+    MsgDisp("Kazama","...That airheaded response is just like
 you. Besides, my ancestors appeared in
 local history here in the medieval ages.");
     ChEyeOpenLevel(1,0);

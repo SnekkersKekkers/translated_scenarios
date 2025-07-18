@@ -40,7 +40,7 @@ ChMotion(4,1,1);
 VoicePlay("G020440000_04_060");
 MsgDisp("Nanatsumori","Generally, Haba High is a good prep
 school. Also, the staff and students
-are... unique? I'm not even into lively
+are...unique? I'm not even into lively
 places.");
 MsgDisp("主人公","I see...");
 ChEye(4,2);
@@ -54,7 +54,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020440000_04_080");
-MsgDisp("Nanatsumori","... But.
+MsgDisp("Nanatsumori","...But.
 That all changed when I met you at
 Habataki High.");
 MsgDisp("主人公","Huh, me?");
@@ -73,7 +73,7 @@ MsgDisp("Nanatsumori","The internet world was an escape for me to
 be happy and alone.");
 ChMotion(4,0,1);
 VoicePlay("G020440000_04_110");
-MsgDisp("Nanatsumori","Now I have real... time, places, and
+MsgDisp("Nanatsumori","Now I have real...time, places, and
 people. Convos, interactions, and I
 appreciate all of it.");
 ChEye(4,4);

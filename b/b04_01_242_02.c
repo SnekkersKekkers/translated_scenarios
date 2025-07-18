@@ -48,7 +48,7 @@ you, isn't it?");
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040124202_01_030");
-        MsgDisp("Kazama","Well, that's true, though... don't fan out
+        MsgDisp("Kazama","Well, that's true, though...don't fan out
 the flames of our conversation...");
         MsgDateResultDisp();
         break ;

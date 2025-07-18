@@ -3,7 +3,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B070400000_04_010");
-MsgDisp("Nanatsumori","TV huh... not a lot.
+MsgDisp("Nanatsumori","TV huh...not a lot.
 Mostly watch stuff on the internet.");
 MsgDisp("主人公","I see.");
 ChEye(4,0);

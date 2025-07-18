@@ -82,7 +82,7 @@ animal or insect.");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040308402_03_080");
-        MsgDisp("Honda","Yeah... that might be true.");
+        MsgDisp("Honda","Yeah...that might be true.");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,4);

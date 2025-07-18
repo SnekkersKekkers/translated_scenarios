@@ -40,7 +40,7 @@ MsgDisp("Mikage","When you graduate and remember Haba
 Academy, I think it's better to remember
 many different teachers than just one
 homeroom teacher, don't you think?");
-MsgDisp("主人公","Umm... Do you want to be the homeroom
+MsgDisp("主人公","Umm...Do you want to be the homeroom
 teacher of many students,
 ｛御影＊＊｝ and not just
 us?");
@@ -62,6 +62,6 @@ ChMotion(7,5);
 VoicePlay("F020700012_07_060");
 MsgDisp("Mikage","I'll return this favour with a relentless
 course.");
-MsgDisp("主人公","(Umm... just now,
+MsgDisp("主人公","(Umm...just now,
 ｛御影＊＊｝ didn't say
 \"you guys\", but said \"you\"...)");

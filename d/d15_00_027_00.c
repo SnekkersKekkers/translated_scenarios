@@ -13,7 +13,7 @@ ChEye ( 7,0 ) ;
 ChMouth ( 7,4 ) ;
 ChMotion ( 7,4 ) ;
 VoicePlay ( "D150002700_07_000" ) ;
-MsgDisp ( "Mikage","Hm? That can't be... ...Wait, you're
+MsgDisp ( "Mikage","Hm? That can't be......Wait, you're
 right. No one else is here." ) ;
 ChEye ( 2,0 ) ;
 ChMouth ( 2,0 ) ;

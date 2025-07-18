@@ -30,7 +30,7 @@ period. How about it?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(｛柊＊＊＊｝ is... there!)");
+    MsgDisp("主人公","(｛柊＊＊＊｝ is...there!)");
     MsgDisp("主人公","｛柊＊＊＊｝!
 Morning.");
     MsgClose();

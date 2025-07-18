@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("S120600002_06_000");
     MsgDisp("Himuro","I'll take my leave here.
-... Happy New Years.");
+...Happy New Years.");
     MsgDisp("主人公","Yeah, same to you!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

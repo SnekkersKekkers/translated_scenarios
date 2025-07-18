@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, a message from ｛氷室＊＊｝... )");
+MsgDisp("主人公","(Ah, a message from ｛氷室＊＊｝...)");
 MsgDisp("主人公","(It says...\"Right now there's a surfing
 lesson being held at the beach.
 Ryota-senpai and Nozomu-senpai are
@@ -39,7 +39,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("D120A00100_06_010");
 MsgDisp("Himuro","Ryota-senpai, aren't you too wobbly?
-Nozomu-senpai you're... perfect as
+Nozomu-senpai you're...perfect as
 expected.");
 MsgDisp("主人公","Hehe, you guys are really into it, huh?");
 StlEyeOpenLevel(1,5,1);
@@ -132,7 +132,7 @@ ChMotion(6,1);
 VoicePlay("D120A00100_06_050");
 MsgDisp("Himuro","Okay, that's it for today's class.
 Let's go get some juice.");
-MsgDisp("主人公","(Today's class... does that mean there
+MsgDisp("主人公","(Today's class...does that mean there
 will be second one...?
 I think I want to watch it again...)");
 BGMStop();

@@ -98,7 +98,7 @@ this trip.");
     VoicePlay("Q120300000_03_100");
     MsgDisp("Honda","I mean, there isn't a place I dislike
 where I went with you.
-... Hmm?");
+...Hmm?");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,5,1);

@@ -19,7 +19,7 @@ Welcome!");
     ChMouth(4,1);
     ChMotion(4,4,1);
     VoicePlay("I350400000_04_010");
-    MsgDisp("Nanatsumori","Aah... Shh∈ You're. Too. Loud.");
+    MsgDisp("Nanatsumori","Aah...Shh∈ You're. Too. Loud.");
     MsgDisp("主人公","Ah...
 I'm sorry.");
     ChEye(4,2);

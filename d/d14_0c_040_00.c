@@ -43,7 +43,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);
 VoicePlay("D140C04000_07_020");
-MsgDisp("Mikage","That's right... hey, am I included in
+MsgDisp("Mikage","That's right...hey, am I included in
 that?");
 ChEye(6,0);
 ChMouth(6,3);

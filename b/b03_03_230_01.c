@@ -93,7 +93,7 @@ Do that alone, you know.");
     ChMotion(3,4);
     ScrFadeIn(0);
     VoicePlay("B030323001_03_080");
-    MsgDisp("Honda","... A-Alright!");
+    MsgDisp("Honda","...A-Alright!");
     break ;
     case 4:
     MsgDispSksp(1,0);

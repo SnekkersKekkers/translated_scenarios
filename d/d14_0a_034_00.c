@@ -58,7 +58,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A03400_06_020");
-MsgDisp("Himuro","Eh... no.
+MsgDisp("Himuro","Eh...no.
 I felt like there was some hidden meaning
 to it.");
 MsgDisp("主人公","?");
@@ -74,7 +74,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140A03400_06_030");
-MsgDisp("Himuro","Haa... he really does do it unconsciously.
+MsgDisp("Himuro","Haa...he really does do it unconsciously.
 It's actually quite impressive.");
 ChEyeOpenLevel(1,0);
 ChEye(2,0);

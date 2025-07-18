@@ -47,7 +47,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30700_04_000");
 MsgDisp("Nanatsumori","This plush.");
-MsgDisp("主人公","Ummm... a cheetah?");
+MsgDisp("主人公","Ummm...a cheetah?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

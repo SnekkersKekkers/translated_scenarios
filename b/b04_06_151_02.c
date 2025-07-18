@@ -38,7 +38,7 @@ consolation?");
         ChMouth(6,0);
         ChMotion(6,5);
         VoicePlay("B040615102_06_030");
-        MsgDisp("Himuro","... That's wrong.
+        MsgDisp("Himuro","...That's wrong.
 I was taking my anger out on you just now.
 I'm the one who should say sorry.");
         ChEye(6,2);
@@ -63,7 +63,7 @@ I've shown you my uncool side.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040615102_06_060");
-        MsgDisp("Himuro","... What's with that line?
+        MsgDisp("Himuro","...What's with that line?
 Hearing that, I'm the one who'll get
 embarrassed.");
         MsgDisp("主人公","It's just my true feelings.");
@@ -112,7 +112,7 @@ Cause I'm gonna get aim for a strike next.");
     VoicePlay("B040615102_06_110");
     MsgDisp("Himuro","Well yeah.
 Everyone has bad days.
-... But the next one will be a strike.");
+...But the next one will be a strike.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

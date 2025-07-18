@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("B050700100_07_000");
 MsgDisp("Mikage","Then, I'll walk you home.
-... We can talk whilst walking.");
+...We can talk whilst walking.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
 MsgClose();
 ScrFadeOut(0);
@@ -29,7 +29,7 @@ ChMotion(7,1);
 VoicePlay("B050700100_07_020");
 MsgDisp("Mikage","Is it because I submitted to your fierce
 attack the other day?");
-MsgDisp("主人公","Are you... talking about skinship?");
+MsgDisp("主人公","Are you...talking about skinship?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -73,7 +73,7 @@ When I do this.");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("B050700100_07_080");
-MsgDisp("Mikage","Phew... it's over.");
+MsgDisp("Mikage","Phew...it's over.");
 MsgClose();
 SEPlay("EV_SE_781",2,0.8,0.5);
 ScrFadeOut(0);
@@ -122,7 +122,7 @@ MsgClose();
 ChOpen(7,255,2,0,0,#1,#1,0,0);
 SEWait();
 VoicePlay("B050700100_07_140");
-MsgDisp("Mikage","Phew... See you, it'll be the same as
+MsgDisp("Mikage","Phew...See you, it'll be the same as
 usual tomorrow. Well then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -121,8 +121,8 @@ VoicePlay("B330C20600_07_030");
 MsgDisp("Mikage","Don't tell them.
 I don't want to rain on their parade.");
 MsgDisp("主人公","(Watching a movie then feeling sorry for
-the sheep... Hehe, how typical of
-｛御影＊＊｝... )");
+the sheep...Hehe, how typical of
+｛御影＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

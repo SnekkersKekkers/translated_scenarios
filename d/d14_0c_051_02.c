@@ -46,7 +46,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C05102_05_010");
-MsgDisp("Hiiragi","This atmosphere... it's not a school
+MsgDisp("Hiiragi","This atmosphere...it's not a school
 cafeteria, but a family dining table.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -90,7 +90,7 @@ VoicePlay("D140C05102_07_030");
 MsgDisp("Mikage","It's great, Yanosuke.");
 MsgDisp("主人公","(｛柊＊＊＊｝ and
 ｛御影＊＊｝ seem to be
-having fun... But ｛氷室＊＊｝
+having fun...But ｛氷室＊＊｝
 seems a bit dissatisfied?)");
 BGMStop();
 MsgClose();

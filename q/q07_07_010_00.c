@@ -25,7 +25,7 @@ ChMouth(21,2);
 ChMotion(21,0);
 ChMouth(22,2);
 VoicePlay("Q070701000_07_000");
-MsgDisp("Mikage","... Oh Cmon, what are you guys doing?
+MsgDisp("Mikage","...Oh Cmon, what are you guys doing?
 Hold it down with this!");
 ChEye(21,0);
 ChMouth(21,4);
@@ -68,7 +68,7 @@ MsgDisp("Mikage","Hold it tight∈ I'll call someone.");
 Wait(20,0);
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,1);
 Wait(80,0);
-MsgDisp("主人公","(Wait... he's coming this way∋)");
+MsgDisp("主人公","(Wait...he's coming this way∋)");
 SEStop("EV_SE_854",3);
 SEPlay("EV_SE_740",0,0.9);
 Wait(15,0);
@@ -111,7 +111,7 @@ ChOpen(21,30,0,0,4,#1,#1,0,1,0,30);
 ChOpen(22,30,0,0,2,7,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("Q070701000_07_050");
-MsgDisp("Mikage","... My bad.
+MsgDisp("Mikage","...My bad.
 I'm holding the tap with my shirt.
 Can you tell the front desk person?");
 MsgDisp("主人公","Ah, yes!
@@ -136,7 +136,7 @@ MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(I can't believe
 ｛御影＊＊｝ popped
-out... haah, I was so surprised.)");
+out...haah, I was so surprised.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

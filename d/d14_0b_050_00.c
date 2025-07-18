@@ -70,8 +70,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B05000_01_040");
 MsgDisp("Kazama","They're watching us.
-Geez... don't let it bother you okay?");
-MsgDisp("主人公","Umm... o-okay.");
+Geez...don't let it bother you okay?");
+MsgDisp("主人公","Umm...o-okay.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);

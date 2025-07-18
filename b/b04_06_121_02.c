@@ -84,7 +84,7 @@ presents for each other.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040612102_06_080");
-        MsgDisp("Himuro","And it's a reminder of today... so I'll
+        MsgDisp("Himuro","And it's a reminder of today...so I'll
 also cherish it.");
         MsgDisp("主人公","Yeah...!");
         break ;

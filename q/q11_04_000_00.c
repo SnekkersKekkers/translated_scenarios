@@ -1,6 +1,6 @@
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","There's alot, I can't choose... memory,
+MsgDisp("主人公","There's alot, I can't choose...memory,
 memory huh...");
 MsgDisp("主人公","(I wonder where
 ｛七ツ森＊｝ went to...)");
@@ -24,7 +24,7 @@ VoicePlay("Q110400000_04_020");
 MsgDisp("Nanatsumori","Since you must have a lot of items, I
 thought you could like this kind of
 present.");
-MsgDisp("主人公","... Are you sure?
+MsgDisp("主人公","...Are you sure?
 I'm so happy.
 Thank you so much!");
 ChEye(4,0);

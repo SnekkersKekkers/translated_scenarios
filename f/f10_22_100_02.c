@@ -31,7 +31,7 @@ MsgDisp("Garden Club Member","We were truly in the wrong to doubt you!
 I had no idea that Mikage-sensei had given
 you the flowers...");
 VoicePlay("F102210002_46_010");
-MsgDisp("Art Club Member","Me too... I never imagined my artwork
+MsgDisp("Art Club Member","Me too...I never imagined my artwork
 would end up near the recycling area...
 But in the end, you actually saved my
 painting.");

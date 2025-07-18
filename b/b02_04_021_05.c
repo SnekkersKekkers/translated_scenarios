@@ -14,7 +14,7 @@ ChMotion(4,3,1);
 VoicePlay("B020402105_04_010");
 MsgDisp("Nanatsumori","Natural materials aren't my favorite
 because they wear out and get wrinkly and
-raggedy... But I'm learning a lot looking
+raggedy...But I'm learning a lot looking
 at your technique.");
 MsgDisp("主人公","(Oh, good!
 ｛七ツ森＊｝ seems to

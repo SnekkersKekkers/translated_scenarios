@@ -21,7 +21,7 @@ Are you having fun?");
     VoicePlay("I160100003_01_010");
     MsgDisp("Kazama","This display is pretty close to what we
 had two months ago, right?");
-    MsgDisp("主人公","Ah... you're right.");
+    MsgDisp("主人公","Ah...you're right.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,1);

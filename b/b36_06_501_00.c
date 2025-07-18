@@ -40,7 +40,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650100_06_040");
-MsgDisp("Himuro","Seriously... why here of all places.
+MsgDisp("Himuro","Seriously...why here of all places.
 It's making the atmosphere awkward.");
 ChEye(6,0);
 ChMouth(6,0);

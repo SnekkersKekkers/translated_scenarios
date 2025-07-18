@@ -52,7 +52,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("F110110001_01_040");
 MsgDisp("Kazama","Huh?
 The Respect-Senior-Citizens association?
-... Oh, my grandfather's suggestion.");
+...Oh, my grandfather's suggestion.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);

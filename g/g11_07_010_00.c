@@ -2,7 +2,7 @@ BGOpen("sc210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(To think that I could win the top prize
 at a competition as the representative of
-the gardening club... This must be thanks
+the gardening club...This must be thanks
 to ｛御影＊＊｝ too,
 right?)");
 MsgClose();

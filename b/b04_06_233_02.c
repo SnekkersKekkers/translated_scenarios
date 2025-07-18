@@ -88,7 +88,7 @@ moment.");
         MsgDisp("Himuro","I'll keep quiet about that.
 You'ree free to come up with your own
 conclusions based off the situation.");
-        MsgDisp("主人公","I see... so, did your heart race,
+        MsgDisp("主人公","I see...so, did your heart race,
 ｛氷室＊＊｝?");
         ChEye(6,0);
         ChMouth(6,4);

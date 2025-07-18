@@ -35,7 +35,7 @@ ChMotion(3,1);
 VoicePlay("H4A0300000_03_030");
 MsgDisp("Honda","Yeah, I was really impressed.
 Congrats on winning, and thank you!");
-MsgDisp("主人公","(I got thanked... But I'm really glad I
+MsgDisp("主人公","(I got thanked...But I'm really glad I
 stayed in the rhythmic gymnastics club!
 Today's the best day ever!)");
 BGMStop();

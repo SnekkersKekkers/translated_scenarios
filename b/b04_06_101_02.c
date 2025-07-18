@@ -26,7 +26,7 @@ just wanted to hear your reasoning.");
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040610102_06_020");
-    MsgDisp("Himuro","Hmm.... Maybe there's some merit to it I
+    MsgDisp("Himuro","Hmm....Maybe there's some merit to it I
 don't get. If that's the case, there is
 probably a point in tagging along.");
     MsgDispSksp(1,0);
@@ -70,12 +70,12 @@ even if you try your best.");
         VoicePlay("B040610102_06_060");
         MsgDisp("Himuro","Even I don't like that I'm born after you
 either.");
-        MsgDisp("主人公","That's true... sorry.");
+        MsgDisp("主人公","That's true...sorry.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,2);
         VoicePlay("B040610102_06_070");
-        MsgDisp("Himuro","... No, I'm the one who should say sorry.
+        MsgDisp("Himuro","...No, I'm the one who should say sorry.
 This is normally something I'm worried
 about, so it just came out.");
         MsgDisp("主人公","Really?");
@@ -91,7 +91,7 @@ class.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040610102_06_090");
-        MsgDisp("Himuro","And... someday you'll graduate before me.");
+        MsgDisp("Himuro","And...someday you'll graduate before me.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,2);

@@ -25,7 +25,7 @@ I hope it suits your taste.");
     MsgDisp("Kazama","Thanks.
 I'll eat it later.");
     MsgDisp("主人公","(Did I add too much on it?
-Ah... maybe, did I add something he
+Ah...maybe, did I add something he
 doesn't like?)");
     MsgClose();
     BGMStop();

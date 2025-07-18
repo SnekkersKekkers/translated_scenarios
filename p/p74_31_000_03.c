@@ -19,7 +19,7 @@ VoicePlay("P743100003_31_010");
 MsgDisp("Goro","The dress was perfect, it's a shame.
 Next time, why don't I give you a lesson
 on how to do a proper model walk?");
-MsgDisp("主人公","(Haa... a huge fail.
+MsgDisp("主人公","(Haa...a huge fail.
 Even in front of Goro-sensei, I'm
 disappointed...)");
 MsgClose();

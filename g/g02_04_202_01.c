@@ -18,7 +18,7 @@ don't matter, he seems to enjoy it all.");
 ChEye(4,2);
 ChMouth(4,0);
 VoicePlay("G020420201_04_020");
-MsgDisp("Nanatsumori","It's a skill I don't have... even when I
+MsgDisp("Nanatsumori","It's a skill I don't have...even when I
 look at this view, all I can say is that
 it's beautiful.");
 ChEye(4,1);

@@ -41,7 +41,7 @@ from when the castle was built.");
     VoicePlay("B040322201_03_030");
     MsgDisp("Honda","Haha, the view from the castle tower and
 the stone walls, and the last one is a
-secret. ... Shall I buy one?");
+secret. ...Shall I buy one?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

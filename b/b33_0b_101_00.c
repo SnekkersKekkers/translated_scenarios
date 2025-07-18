@@ -16,7 +16,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B330B10100_04_000");
-MsgDisp("Nanatsumori","... So.
+MsgDisp("Nanatsumori","...So.
 What's the program today?");
 ChEye(3,0);
 ChMouth(3,4);
@@ -106,7 +106,7 @@ MsgDisp("Honda","Then...
 I think this t-shirt will suit you.
 Hey hey, try them all on and show us!");
 MsgDisp("主人公","(I'm happy they chose something for me
-but... Do they plan on making me try on
+but...Do they plan on making me try on
 clothes at every shop∋)");
 BGMStop();
 MsgClose();

@@ -57,7 +57,7 @@ full-fledged worker soon!)");
     ChMouth(3,0);
     ChMotion(3,2,1);
     VoicePlay("I450300000_03_060");
-    MsgDisp("Honda","Wow... this shop has some pretty rare
+    MsgDisp("Honda","Wow...this shop has some pretty rare
 flowers, doesn't it?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -80,7 +80,7 @@ symbol of \"things that don't exist\"-");
     MsgDisp("Honda","But, in recent years, genetic
 modifications and technology teamed up
 and...! The blue rose was born.");
-    MsgDisp("主人公","... Ah, sorry.
+    MsgDisp("主人公","...Ah, sorry.
 A customer's here.");
     ChEye(3,2);
     ChMouth(3,4);

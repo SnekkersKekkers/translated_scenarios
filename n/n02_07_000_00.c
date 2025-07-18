@@ -72,7 +72,7 @@ class.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("N020700000_07_070");
-    MsgDisp("Mikage","Hey... I mean, you're smart enough that
+    MsgDisp("Mikage","Hey...I mean, you're smart enough that
 you probably know this, but it's also
 important to enjoy yourself during your
 high school years.");

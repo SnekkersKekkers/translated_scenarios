@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like I'm a little bit early... Huh?
+MsgDisp("主人公","(Looks like I'm a little bit early...Huh?
 ｛大地＊＊｝ is already
 here!)");
 MsgDisp("主人公","｛大地＊＊｝!

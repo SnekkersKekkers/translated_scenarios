@@ -37,7 +37,7 @@ ChCheek(21,10);
 VoicePlay("F112110000_21_050");
 MsgDisp("Michiru","They were exchanging super bittersweet
 words, and my heart couldn't stop beating.
-Ha... what do I do?");
+Ha...what do I do?");
 MsgDisp("主人公","(｛みちる＊｝, her face is a deep red.
 So she's somewhat pure.)");
 MsgClose();

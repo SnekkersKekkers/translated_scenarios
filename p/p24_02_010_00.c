@@ -39,12 +39,12 @@ VoicePlay("P240201000_48_010");
 MsgDisp("Persephone","...Then I will cry, I will continue to
 await help.");
 VoicePlay("P240201000_33_040");
-MsgDisp("Hades","... That will not come true.
+MsgDisp("Hades","...That will not come true.
 The gatekeeper of hell, Cerebus will not
 tolerate intruders.");
 VoicePlay("P240201000_33_050");
 MsgDisp("Hades","Cerebus!
-... Cerebus?");
+...Cerebus?");
 SEPlay("EV_SE_GAYA_006",0,0.4);
 Wait(60,0);
 MsgDisp("主人公","｛颯砂＊＊｝, what should we do?");

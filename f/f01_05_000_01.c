@@ -53,7 +53,7 @@ Sorry, do you dislike it?");
     ChMouth(5,0);
     ChMotion(5,2);
     VoicePlay("F010500001_05_040");
-    MsgDisp("Hiiragi","I do... sorry.");
+    MsgDisp("Hiiragi","I do...sorry.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("F010500001_05_050");

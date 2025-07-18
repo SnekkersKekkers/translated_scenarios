@@ -21,7 +21,7 @@ ScrFadeIn(0);
 VoicePlay("B030305000_03_010");
 MsgDisp("Honda","Right now, at this very moment, there are
 countless starts being born and dying
-out... Oh, it's starting!");
+out...Oh, it's starting!");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

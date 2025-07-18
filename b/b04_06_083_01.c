@@ -27,7 +27,7 @@ Proper measures are important after all.");
     ChMotion(6,1);
     VoicePlay("B040608301_06_020");
     MsgDisp("Himuro","It'll melt quickly and it'll get annoying
-but... I feel the same. Let's go buy some.");
+but...I feel the same. Let's go buy some.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

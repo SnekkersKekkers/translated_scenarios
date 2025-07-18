@@ -87,7 +87,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();
 ChClose(3,0,30);
 ChClose(1,0,30);
-MsgDisp("主人公","(Ah... today is Valentine's day, so maybe
+MsgDisp("主人公","(Ah...today is Valentine's day, so maybe
 they're worried about that?)");
 MsgClose();
 ScrFadeOut(0,0);

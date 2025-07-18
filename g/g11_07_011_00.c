@@ -23,7 +23,7 @@ ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("G110701100_07_000");
 MsgDisp("Mikage","｛主人公｝.
-Haa... the last cultural festival is over.");
+Haa...the last cultural festival is over.");
 MsgDisp("主人公","Yes...");
 ChEye(7,2);
 ChMouth(7,0);

@@ -7,7 +7,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_310");
-MsgDisp("Nanatsumori","Ah... don't cry.
+MsgDisp("Nanatsumori","Ah...don't cry.
 Please.");
 MsgDisp("主人公","But...");
 BGMPlay("BGM_C04_NANA_B",0.01);

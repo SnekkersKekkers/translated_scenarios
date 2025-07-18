@@ -5,7 +5,7 @@ VoicePlay("T020701021_07_000");
 MsgDisp("Mikage","Oi∋
 W-What's wrong?");
 MsgDisp("主人公","I also like ｛御影＊＊｝.
-Did that feeling... get through to you?");
+Did that feeling...get through to you?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -19,7 +19,7 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 ChCheek(7,0);
 VoicePlay("T020701021_07_020");
-MsgDisp("Mikage","But... you and I have both graduated——");
+MsgDisp("Mikage","But...you and I have both graduated——");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);

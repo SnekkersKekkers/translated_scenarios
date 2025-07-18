@@ -134,7 +134,7 @@ I feel guilty...)");
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("F010400007_04_100");
-        MsgDisp("Nanatsumori","Oh... if you're busy, then there's nothing
+        MsgDisp("Nanatsumori","Oh...if you're busy, then there's nothing
 we can do.");
         MsgDisp("主人公","Huh?");
         ChEye(4,0);

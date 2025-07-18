@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Yay, it's lunch time!
 What shall I do?
-... Ah, it's ｛柊＊＊＊｝. )");
+...Ah, it's ｛柊＊＊＊｝. )");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(5,254,0,0,4,#1,#1,0,0);
@@ -89,7 +89,7 @@ ChEyeOpenLevel(5,12);
 VoicePlay("G110500400_05_070");
 MsgDisp("Hiiragi","That's a great thing.
 I easily lose track of what's outside.");
-MsgDisp("主人公","Though... My paintings and
+MsgDisp("主人公","Though...My paintings and
 ｛柊＊＊＊｝ 's work can't just
 be lumped in as the same?");
 ChEyeOpenLevel(5,0);

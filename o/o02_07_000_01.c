@@ -44,7 +44,7 @@ You aren't hurt, right?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("O020700001_07_040");
-    MsgDisp("Mikage","... Don't make that face.
+    MsgDisp("Mikage","...Don't make that face.
 You were pulling so happily until just a
 bit ago.");
     MsgDisp("主人公","But, I did lose.");

@@ -42,7 +42,7 @@ doesn't seem like an fun game, does it?");
     ChMotion(2,4);
     VoicePlay("P530200001_02_040");
     MsgDisp("Sassa","What was it called again?
-A boring game... a shit game...");
+A boring game...a shit game...");
     MsgDisp("主人公","Eh?
 Hey, you can't say that kind of stuff!");
     ChEye(2,0);
@@ -117,7 +117,7 @@ I do it to set my own records.");
     VoicePlay("P530200001_02_120");
     MsgDisp("Sassa","Your performance is meaningless if many
 people don't listen to it, right?");
-    MsgDisp("主人公","Yeah... that's right, huh.
+    MsgDisp("主人公","Yeah...that's right, huh.
 Thank you, ｛颯砂＊＊｝!");
     MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝
 says. For the many people who want to hear

@@ -21,7 +21,7 @@ MsgDisp("主人公","Yeah, seems fine.");
 VoicePlay("P240101000_45_010");
 MsgDisp("Wizard","Then, wear this dress that fits your glass
 slippers perfectly.");
-MsgDisp("主人公","Haa, how wonderful... both the slippers
+MsgDisp("主人公","Haa, how wonderful...both the slippers
 and dress are perfect.");
 ChEye(1,2);
 ChMouth(1,0);

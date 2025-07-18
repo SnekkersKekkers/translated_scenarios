@@ -36,7 +36,7 @@ ChMouth(21,4);
 ChMotion(21,2);
 ChEyeOpenLevel(21,0);
 VoicePlay("D140D07031_21_020");
-MsgDisp("Michiru","... Don't group me in with Honda-kun.
+MsgDisp("Michiru","...Don't group me in with Honda-kun.
 I'm just not interested in love.");
 ChEye(22,1);
 ChMouth(22,3);

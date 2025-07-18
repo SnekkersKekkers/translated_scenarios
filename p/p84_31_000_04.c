@@ -34,7 +34,7 @@ ChClose(31);
 VoicePlay("P843100004_31_040");
 MsgDisp("Goro","To Ikkaku's∈");
 MsgDisp("主人公","(Yay, a huge success♪
-... But, when he says Ikakku, Could he
+...But, when he says Ikakku, Could he
 mean Chairman Amanohashi?)");
 MsgClose();
 ScrFadeOut(0);

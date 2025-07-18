@@ -75,7 +75,7 @@ Did you get a good one?");
     ChMouth(7,4);
     ChMotion(7,0);
     VoicePlay("R060700003_07_090");
-    MsgDisp("Mikage","... Hm?
+    MsgDisp("Mikage","...Hm?
 That's my present you got!");
     MsgDisp("主人公","Huh∋
 ｛御影＊＊｝, you also got

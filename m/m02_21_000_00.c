@@ -12,7 +12,7 @@ MsgDisp("主人公","｛みちる＊｝!
 What's wrong?");
 VoicePlay("M022100000_21_010");
 MsgDisp("Michiru","Isn't it obvious I'm worried?
-... You've missed school for several days
+...You've missed school for several days
 now.");
 MsgDisp("主人公","Sorry for worrying you.
 I'm okay now.
@@ -29,7 +29,7 @@ think we can be sure Hikaru will be
 relieved too.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("M022100000_21_040");
-MsgDisp("Michiru","Ah... That's no good, look at the time! I
+MsgDisp("Michiru","Ah...That's no good, look at the time! I
 was having fun and got caught up talking.");
 VoicePlay("M022100000_21_050");
 MsgDisp("Michiru","Sorry.

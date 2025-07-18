@@ -11,7 +11,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Ah!
+MsgDisp("主人公","...Ah!
 ＳＵＰＥＲ ＣＨＡＲＧＥＲ's new album is
 already out!");
 ChEye(4,1);
@@ -40,7 +40,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B10501_04_010");
 MsgDisp("Nanatsumori","Yeah.
-... How should we do this?
+...How should we do this?
 Rock-paper-scissors?");
 ChEye(3,0);
 ChMouth(3,4);

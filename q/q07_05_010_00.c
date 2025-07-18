@@ -5,7 +5,7 @@ MsgDisp("主人公","(Phew, I bought a lot of souvenirs!
 But where did ｛柊＊＊＊｝ go?)");
 SEPlay("EV_SE_771");
 SEWait();
-MsgDisp("主人公","(Ah... A cute sound! It's from that shop.
+MsgDisp("主人公","(Ah...A cute sound! It's from that shop.
 I should take a peek!)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.6);
 MsgClose();
@@ -46,7 +46,7 @@ Wait(150,1);
 SEStop("EV_SE_777",0.1);
 StlEye(5,1);
 VoicePlay("Q070501000_05_030");
-MsgDisp("Hiiragi","... I have been found.");
+MsgDisp("Hiiragi","...I have been found.");
 MsgDisp("主人公","Eh?");
 MsgClose();
 ScrFadeOut(0,0);
@@ -64,7 +64,7 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("Q070501000_05_050");
 MsgDisp("Hiiragi","This beadlo is for you.");
-MsgDisp("主人公","Ah... thanks!
+MsgDisp("主人公","Ah...thanks!
 So pretty...!");
 ChEye(5,4);
 ChMotion(5,3);
@@ -87,7 +87,7 @@ ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("Q070501000_05_090");
 MsgDisp("Hiiragi","Could you try blowing it?");
-MsgDisp("主人公","Eh... s, sure!");
+MsgDisp("主人公","Eh...s, sure!");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 Wait(30,1);

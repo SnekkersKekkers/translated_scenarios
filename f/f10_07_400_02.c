@@ -20,7 +20,7 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("F100740002_32_000");
-MsgDisp("VP Himuro","... Quiet.
+MsgDisp("VP Himuro","...Quiet.
 I have something to tell Mikage-sensei, so
 I'll have to wait here.");
 VoicePlay("F100740002_41_020");
@@ -95,7 +95,7 @@ MsgDisp("Male Student B","Mikagecchi, you're awesome!");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740002_32_060");
-MsgDisp("VP Himuro","... That is all.
+MsgDisp("VP Himuro","...That is all.
 Then, move onto your lesson.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

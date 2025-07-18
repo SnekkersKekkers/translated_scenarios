@@ -15,7 +15,7 @@ VoicePlay("B110100000_33_000");
 MsgDisp("Guy","Hey, do you want to know?
 Or do you not want to?");
 MsgDisp("主人公","Ehh∋
-... Me?");
+...Me?");
 ChEye(33,0);
 ChMouth(33,0);
 ChEyeOpenLevel(33,8);
@@ -84,7 +84,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B110100000_01_040");
-MsgDisp("Kazama","What the hell was up with that guy... hey,
+MsgDisp("Kazama","What the hell was up with that guy...hey,
 are you alright?");
 MsgDisp("主人公","Y-Yeah.
 Thank you for helping me.");

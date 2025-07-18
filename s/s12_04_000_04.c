@@ -81,7 +81,7 @@ sighing in the New Year?");
     ChMotion(4,0,1);
     VoicePlay("S120400004_04_070");
     MsgDisp("Nanatsumori","That's not it.
-I guess I can feel the... weight of the
+I guess I can feel the...weight of the
 three years.");
     MsgDisp("主人公","???");
     VoicePlay("S120400004_04_080");

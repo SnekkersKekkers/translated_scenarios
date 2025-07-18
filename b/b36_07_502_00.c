@@ -41,7 +41,7 @@ BGOpen("ex270",1);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B360750200_07_030");
-MsgDisp("Mikage","It's so beautiful... Did you know you can
+MsgDisp("Mikage","It's so beautiful...Did you know you can
 can take a psychological test using the
 shape of the clouds?");
 MsgDisp("主人公","That's interesting.

@@ -95,7 +95,7 @@ StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400000_04_050");
 MsgDisp("Nanatsumori","Don't look around.
-... Look at me.");
+...Look at me.");
 MsgDisp("主人公","Y-Yeah.");
 StlEye(4,0,0);
 StlMouth(4,0);

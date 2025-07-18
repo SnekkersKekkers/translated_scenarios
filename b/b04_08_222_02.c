@@ -35,7 +35,7 @@ such people lived just like us.");
         ChMouth(8,4);
         ChMotion(8,2,1);
         VoicePlay("B040822202_08_020");
-        MsgDisp("Shirahane","... Right?
+        MsgDisp("Shirahane","...Right?
 Each person's heirlooms are different
 depending on the individual.");
         MsgDispSksp(1,0);
@@ -49,7 +49,7 @@ depending on the individual.");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040822202_08_030");
-        MsgDisp("Shirahane","Ah... that's right. When it comes to
+        MsgDisp("Shirahane","Ah...that's right. When it comes to
 heirlooms, each one of those families have
 an individual sense of what's valuable.");
         MsgDisp("主人公","That's right. by the way, does
@@ -81,7 +81,7 @@ would say the time I spend with you.");
         ChMotion(8,3,1);
         ChCheek(8,8);
         VoicePlay("B040822202_08_070");
-        MsgDisp("Shirahane","... That's no good.
+        MsgDisp("Shirahane","...That's no good.
 I just said something cringy.");
         ChEye(8,4);
         ChMouth(8,3);

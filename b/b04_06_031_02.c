@@ -6,7 +6,7 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040603102_06_000");
-MsgDisp("Himuro","Does it feel like... you're in the ocean?");
+MsgDisp("Himuro","Does it feel like...you're in the ocean?");
 MsgSel("Yeah, of course!","An aquarium is an aquarium","Do you think that, ｛氷室＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -112,7 +112,7 @@ though?");
         MsgDisp("Himuro","I'm free to look at what I want.
 I won't listen to any objections.
 That's all.");
-        MsgDisp("主人公","(Ugh... it's kind of embarrassing...)");
+        MsgDisp("主人公","(Ugh...it's kind of embarrassing...)");
         break ;
         default :
         DbgAssert(1);

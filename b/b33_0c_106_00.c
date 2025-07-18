@@ -96,7 +96,7 @@ VoicePlay("B330C10600_05_030");
 MsgDisp("Hiiragi","That's how I felt at first too. But this
 movie lets you see it from different
 perspectives, then the parents, then the
-sea creatures... It's amazing.");
+sea creatures...It's amazing.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

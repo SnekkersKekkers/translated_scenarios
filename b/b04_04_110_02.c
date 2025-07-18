@@ -7,7 +7,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B040411002_04_000");
-MsgDisp("Nanatsumori",".... Hey.
+MsgDisp("Nanatsumori","....Hey.
 What's the best way to enjoy the pool?");
 MsgSel("Of course, it's swimming!","Examining the swimsuits","I think it's playing around with water.");
 switch (MsgSelRsltGet()){
@@ -83,7 +83,7 @@ slide together?");
         ChMouth(4,2);
         ChMotion(4,0,1);
         VoicePlay("B040411002_04_090");
-        MsgDisp("Nanatsumori","... Hmm?
+        MsgDisp("Nanatsumori","...Hmm?
 When you say together, do you mean the
 two-person slide∋");
         MsgDisp("主人公","Right.");

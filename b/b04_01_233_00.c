@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(1,255,0,2,2,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123300_01_000");
-MsgDisp("Kazama","This... goes beyond just mere play.");
+MsgDisp("Kazama","This...goes beyond just mere play.");
 MsgSel("I could get used to this thrill!","Hey, that's enough...","That was a very interesting experience.");
 switch (MsgSelRsltGet()){
     case 0:

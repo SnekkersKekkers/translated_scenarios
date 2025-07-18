@@ -39,7 +39,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("Q070200000_02_040");
 MsgDisp("Sassa","I think so too. Getting to go sightseeing
-in Nagasaki with you... I'm really lucky.");
+in Nagasaki with you...I'm really lucky.");
 MsgDisp("主人公","(｛颯砂＊＊｝ ...)");
 MsgClose();
 ScrFadeOut(0);
@@ -134,7 +134,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_140");
-MsgDisp("Sassa","Hmmm... Cutting off all your escape routes
+MsgDisp("Sassa","Hmmm...Cutting off all your escape routes
 like that. That's tough.");
 MsgDisp("主人公","Yeah, it sounds like it would be difficult
 to do.");
@@ -145,7 +145,7 @@ VoicePlay("Q070200000_02_150");
 MsgDisp("Sassa","It's like how I'd quit Track and Field if
 I don't win all my matches during the
 Inter-High.");
-MsgDisp("主人公","Eh? ... ｛颯砂＊＊｝?");
+MsgDisp("主人公","Eh? ...｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

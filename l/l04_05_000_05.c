@@ -35,7 +35,7 @@ I hope it suits your tastes.");
     ChMouth(5,0);
     ChMotion(5,4);
     VoicePlay("L040500005_05_030");
-    MsgDisp("Hiiragi","This... is for me, correct?");
+    MsgDisp("Hiiragi","This...is for me, correct?");
     MsgDisp("主人公","Hm?
 What's wrong?");
     ChEye(5,0);
@@ -67,7 +67,7 @@ Did I add something he doesn't like...?)");
     ChEye(5,4);
     ChMouth(5,0);
     VoicePlay("L040500005_05_070");
-    MsgDisp("Hiiragi","... This is surely due to a
+    MsgDisp("Hiiragi","...This is surely due to a
 miscommunication.
 The fault is on me.");
     MsgDisp("主人公","Hm?

@@ -46,7 +46,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020740002_07_050");
 MsgDisp("Mikage","It wasn't wrong. I have some assignments
-I've been putting off... I know they need
+I've been putting off...I know they need
 to be finished.");
 ChEye(7,2);
 ChMouth(7,0);

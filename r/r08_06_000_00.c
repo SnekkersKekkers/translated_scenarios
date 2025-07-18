@@ -48,7 +48,7 @@ ScrFadeIn(0);
 VoicePlay("R080600000_06_010");
 MsgDisp("Himuro","......");
 MsgDisp("主人公","(...｛氷室＊＊｝? It looks like he is
-praying... I shouldn't interrupt him.)");
+praying...I shouldn't interrupt him.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.5);
 Wait(50,0);
 SEStop("EV_SE_FOOT_WALK_AWAY_ALONE",0.1);
@@ -140,13 +140,13 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("R080600000_06_150");
 MsgDisp("Himuro","You thanking me is kind of ironic.
-... But hey, that's fine.");
+...But hey, that's fine.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("R080600000_06_160");
 MsgDisp("Himuro","I feel like I was able to make a lot of
 memories with you in this last Habataki
-party. So I should be saying... Thanks.");
+party. So I should be saying...Thanks.");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);

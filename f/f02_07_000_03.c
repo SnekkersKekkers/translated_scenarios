@@ -78,7 +78,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F020700003_07_090");
-MsgDisp("Mikage","Haa... there's a grain of truth even in
+MsgDisp("Mikage","Haa...there's a grain of truth even in
 rumors.
 How troubling.");
 MsgDisp("主人公","(I wonder if ｛御影＊＊｝

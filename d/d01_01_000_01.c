@@ -6,7 +6,7 @@ Hehe, I'm looking forward to it!)");
 VoicePlay("D010100001_01_000");
 MsgDisp("Kazama?","Don't just stand here and smile all by
 yourself.
-... Geez, what a crazy person.");
+...Geez, what a crazy person.");
 MsgClose();
 ScrFadeOut(0,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);

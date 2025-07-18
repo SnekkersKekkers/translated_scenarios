@@ -18,7 +18,7 @@ switch (ChPrmGet(7,6)){
     VoiceEVSPlay(7);
     VoicePlay("P230700000_07_000");
     MsgDisp("Mikage","｛主人公｝.
-... Can I really do it?");
+...Can I really do it?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);

@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040123600_01_010");
     MsgDisp("Kazama","At first I thought it was just a weird
 bear, but now that I've gotten used to it,
-it's... not bad?");
+it's...not bad?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

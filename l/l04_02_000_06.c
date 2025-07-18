@@ -29,7 +29,7 @@ I'm happy about your feelings.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ha... maybe I should've given him a
+    MsgDisp("主人公","(Ha...maybe I should've given him a
 better chocolate...)");
     break ;
     case 3:
@@ -68,7 +68,7 @@ chocolate...)");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("L040200006_02_060");
-    MsgDisp("Sassa","This... is handmade, right?");
+    MsgDisp("Sassa","This...is handmade, right?");
     MsgDisp("主人公","Yeah...
 Sorry that they're not that good.");
     ChEye(2,0);

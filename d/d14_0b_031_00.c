@@ -35,7 +35,7 @@ ramen interesting? '");
 ChMotion(4,0,1);
 VoicePlay("D140B03100_04_000");
 MsgDisp("Nanatsumori","I understand it was amazing.
-... But, I don't eat ramen.");
+...But, I don't eat ramen.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -93,7 +93,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D140B03100_01_040");
 MsgDisp("Kazama","There's something cute about that.");
 VoicePlay("D140B03100_04_060");
-MsgDisp("Nanatsumori","... I can't eat ramen after all.
+MsgDisp("Nanatsumori","...I can't eat ramen after all.
 Never in front of other people.");
 ChEye(1,0);
 ChMouth(1,3);

@@ -37,7 +37,7 @@ VoicePlay("F020600007_06_030");
 MsgDisp("Himuro","What?
 You make it sound like you've surfed
 before.");
-MsgDisp("主人公","Oh... sorry.
+MsgDisp("主人公","Oh...sorry.
 I got carried away.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -52,7 +52,7 @@ VoicePlay("F020600007_06_050");
 MsgDisp("Himuro","If you ever feel like it, why not try
 getting on a board? Who knows, it might
 open up a new door for you.");
-MsgDisp("主人公","Uh huh... maybe.");
+MsgDisp("主人公","Uh huh...maybe.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

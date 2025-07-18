@@ -101,7 +101,7 @@ you like.");
     ChMotion(6,4);
     ChCheek(6,10);
     VoicePlay("B040623202_06_120");
-    MsgDisp("Himuro","... Understood.
+    MsgDisp("Himuro","...Understood.
 If that's what you say, I'll come along.
 That's fine I guess.");
     MsgDispSksp(1,0);

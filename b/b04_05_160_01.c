@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040516001_05_010");
     MsgDisp("Hiiragi","That's impossible. The moment I start,
 I'll feel the sense of dismay from
-spectators... even if I am unable to see
+spectators...even if I am unable to see
 it.");
     MsgDateResultDisp();
     break ;

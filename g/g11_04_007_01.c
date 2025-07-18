@@ -5,7 +5,7 @@ Heres some assorted sandwiches and
 vegetable juice.");
 SEPlay("EV_SE_827");
 SEWait();
-MsgDisp("主人公","(Whew... it's a busy day today.)");
+MsgDisp("主人公","(Whew...it's a busy day today.)");
 VoicePlay("G110400701_04_000");
 MsgDisp("Nanatsumori","Excuse me.");
 MsgClose();
@@ -32,7 +32,7 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("G110400701_04_030");
-MsgDisp("Nanatsumori","Well... it's mostly for business though.");
+MsgDisp("Nanatsumori","Well...it's mostly for business though.");
 MsgDisp("主人公","But you're a valued customer.
 Thank you for your continued patronage▼");
 ChEye(4,1);

@@ -81,8 +81,8 @@ not trying to check your hearing.");
         VoicePlay("B040108502_01_070");
         MsgDisp("Kazama","See, you can hear your partner's inner
 voice here, right?");
-        MsgDisp("主人公","... No.
-... I don't hear anything?");
+        MsgDisp("主人公","...No.
+...I don't hear anything?");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,4);
@@ -95,7 +95,7 @@ of us could hear it.");
         ChEyeOpenLevel(1,7);
         ChMouthOpenLevel(1,2);
         VoicePlay("B040108502_01_090");
-        MsgDisp("Kazama","... Let's always be together from here on
+        MsgDisp("Kazama","...Let's always be together from here on
 out.");
         ChMouth(1,2);
         MsgDisp("主人公","Whoa!

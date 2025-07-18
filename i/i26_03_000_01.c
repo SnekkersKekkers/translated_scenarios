@@ -24,7 +24,7 @@ since you just started.");
     VoicePlay("I260300000_03_140");
     MsgDisp("Honda","But you can't just try hard, you have to
 rest properly, too.");
-    MsgDisp("主人公","... Okay.
+    MsgDisp("主人公","...Okay.
 Then, can I leave the rest to you?");
     ChEye(3,3);
     ChMouth(3,3);
@@ -58,7 +58,7 @@ good reputation with the community!");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_180");
-    MsgDisp("Honda","... And, the manager planned the event,
+    MsgDisp("Honda","...And, the manager planned the event,
 right?
 I heard a lot of people applied.");
     MsgDisp("主人公","Right.

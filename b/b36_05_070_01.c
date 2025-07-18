@@ -66,7 +66,7 @@ ChEyeOpenLevel(5,9);
 ChCheek(5,7);
 ScrFadeIn(0);
 VoicePlay("B360507001_05_050");
-MsgDisp("Hiiragi","... Well, I bought it.
+MsgDisp("Hiiragi","...Well, I bought it.
 It feels like a new door has been opened.");
 MsgDisp("主人公","(｛柊＊＊＊｝, I think sexy leather suits
 you...)");

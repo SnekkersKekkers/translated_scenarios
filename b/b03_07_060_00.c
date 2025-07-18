@@ -18,13 +18,13 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B030706000_07_010");
 MsgDisp("Mikage","But don't be too reckless～");
-MsgDisp("主人公","... Is it really okay to just have fun?");
+MsgDisp("主人公","...Is it really okay to just have fun?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B030706000_07_020");
 MsgDisp("Mikage","Feel free to let your hair down.
-... Uh, just don't tell vice principal
+...Uh, just don't tell vice principal
 Himuro, okay?");
 MsgClose();
 ScrFadeOut(0);

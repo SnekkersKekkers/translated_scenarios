@@ -45,7 +45,7 @@ I already did it～");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("F010300004_03_030");
-    MsgDisp("Honda","Sigh... you'll ask me out again, right?
+    MsgDisp("Honda","Sigh...you'll ask me out again, right?
 Of course, I'll ask you too!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

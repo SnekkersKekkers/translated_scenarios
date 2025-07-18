@@ -19,7 +19,7 @@ MsgDisp("Hiiragi","And I thought it would continue like that
 forever.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520101_05_040");
-MsgDisp("Hiiragi","... But, I was wrong.
+MsgDisp("Hiiragi","...But, I was wrong.
 We drifted apart in one go.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","｛柊＊＊＊｝...");

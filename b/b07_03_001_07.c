@@ -20,7 +20,7 @@ MsgDisp("Honda","This is bad!
 Your face is getting even redder!
 Do you have a fever?");
 MsgDisp("主人公","W-Wait!
-Um... could you not look at me so closely?");
+Um...could you not look at me so closely?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -37,7 +37,7 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("B070300001_03_530");
 MsgDisp("Honda","What part?");
-MsgDisp("主人公","Um... it's because we're staring at each
+MsgDisp("主人公","Um...it's because we're staring at each
 other...");
 ChEye(3,0);
 ChMouth(3,3);
@@ -62,9 +62,9 @@ ChMouth(3,4);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300001_03_570");
-MsgDisp("Honda","This... wait, let me take a deep breath!");
+MsgDisp("Honda","This...wait, let me take a deep breath!");
 MsgDisp("主人公","(Looks like my nervousness has spread to
-｛本多＊＊｝... )");
+｛本多＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

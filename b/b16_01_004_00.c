@@ -22,7 +22,7 @@ No matter what I do.");
     NSSEyeOpenLevel(1,5);
     NSSCheek(1,0);
     VoicePlay("B160100400_01_020");
-    MsgDisp("Kazama","You... you should have more sense of
+    MsgDisp("Kazama","You...you should have more sense of
 self-perseverance.");
     break ;
     default :

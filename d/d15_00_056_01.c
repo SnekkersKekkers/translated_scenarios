@@ -40,7 +40,7 @@ ChMouth ( 5,4 ) ;
 ChMotion ( 5,0 ) ;
 VoicePlay ( "D150005601_05_030" ) ;
 MsgDisp ( "Hiiragi","As for you...
-You are.... wind.
+You are....wind.
 A gentle breeze." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,3 ) ;

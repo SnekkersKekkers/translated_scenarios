@@ -67,7 +67,7 @@ people present due to their relations with
 the theatre troupe.");
     VoicePlay("P830500000_05_060");
     MsgDisp("Hiiragi","Please leave it to me.");
-    MsgDisp("主人公","... Okay.
+    MsgDisp("主人公","...Okay.
 Then, please let me prepare the maps for
 directions inside the school.");
     ChEye(5,4);

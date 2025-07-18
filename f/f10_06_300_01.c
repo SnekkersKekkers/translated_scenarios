@@ -57,7 +57,7 @@ MsgDisp("Hikaru","Pikarin and Micchi.
 See, isn't it so cute▼");
 MsgDisp("主人公","(Hmm.
 I feel like that's too high of a hurdle
-for ｛氷室＊＊｝... )");
+for ｛氷室＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

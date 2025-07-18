@@ -38,7 +38,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B050800200_08_050");
-MsgDisp("Shirahane","... I thought ya would say that.
+MsgDisp("Shirahane","...I thought ya would say that.
 Since you're kind.");
 MsgDisp("主人公","｛大地＊＊｝.
 Why would you say something like that?");
@@ -83,7 +83,7 @@ StlEye(8,3);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5);
 VoicePlay("B050800200_08_110");
-MsgDisp("Shirahane","I'm... giving it everything I've got?");
+MsgDisp("Shirahane","I'm...giving it everything I've got?");
 StlEye(8,1);
 StlMouth(8,1);
 VoicePlay("B050800200_08_120");
@@ -105,7 +105,7 @@ StlEye(8,2);
 StlMouth(8,2);
 StlEyeOpenLevel(8,0);
 VoicePlay("B050800200_08_150");
-MsgDisp("Shirahane","... So that's how it is.
+MsgDisp("Shirahane","...So that's how it is.
 Worrying doesn't get you anywhere.");
 MsgClose();
 ScrFadeOut(0);
@@ -142,7 +142,7 @@ You should just stay like that.
 I'm the one who should change.");
 MsgDisp("主人公","(Seems like ｛大地＊＊｝ has
 made a decision.
-A single path... he's found his goal.)");
+A single path...he's found his goal.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

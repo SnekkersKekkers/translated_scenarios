@@ -44,7 +44,7 @@ get than the modern art exhibit.");
     VoicePlay("B040110500_01_030");
     MsgDisp("Kazama","Right? I think the work is interesting,
 but I can't help but think about the
-future sales value... What a bad habit.");
+future sales value...What a bad habit.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

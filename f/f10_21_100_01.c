@@ -13,7 +13,7 @@ ChMouth(21,5);
 ChMotion(21,0);
 VoicePlay("F102110001_21_010");
 MsgDisp("Michiru","Mari.");
-MsgDisp("主人公","... Are you alright?
+MsgDisp("主人公","...Are you alright?
 Have you still not resolved what was
 troubling you?");
 ChEye(21,0);
@@ -53,7 +53,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(21);
-MsgDisp("主人公","(｛みちる＊｝... yeah, let's wait a little
+MsgDisp("主人公","(｛みちる＊｝...yeah, let's wait a little
 longer.)");
 MsgClose();
 ScrFadeOut(0,0);

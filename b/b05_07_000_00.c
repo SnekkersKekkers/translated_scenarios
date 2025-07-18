@@ -18,7 +18,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("fp210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa... pretty!
+MsgDisp("主人公","Waa...pretty!
 I have the cherry blossoms in full bloom
 all to myself～!");
 VoicePlay("B050700000_07_000");

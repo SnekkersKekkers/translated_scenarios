@@ -30,7 +30,7 @@ ChMotion(8,0,1);
 VoicePlay("B070800000_08_510");
 MsgDisp("Shirahane","What about you?
 What do ya think about love?");
-MsgDisp("主人公","Hey. It's not me being asked... I'm asking
+MsgDisp("主人公","Hey. It's not me being asked...I'm asking
 ｛大地＊＊｝, right?");
 ChEye(8,2);
 ChMouth(8,4);

@@ -4,7 +4,7 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's an email from Habatcher's
 Editorial Department.)");
-MsgDisp("主人公","(Let's see, it says... \"
+MsgDisp("主人公","(Let's see, it says...\"
 A fishing tournament is being held at the
 Habataki Campsite\"...)");
 MsgDisp("主人公","(A good opportunity for an interview!)");
@@ -110,7 +110,7 @@ ChEye(1,2);
 ChMotion(1,3);
 VoicePlay("D010100700_01_060");
 MsgDisp("Kazama","Thank you.
-... Wait, is this a Habatcher interview?");
+...Wait, is this a Habatcher interview?");
 MsgDisp("主人公","Ah...Right! A small interview, then. Can
 you tell us about fly fishing?");
 ChEye(1,0);

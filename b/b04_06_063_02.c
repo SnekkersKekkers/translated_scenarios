@@ -46,7 +46,7 @@ Do as you'd like.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040606302_06_030");
-        MsgDisp("Himuro","Haa... the mood is ruined.");
+        MsgDisp("Himuro","Haa...the mood is ruined.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -63,7 +63,7 @@ To think I would get a response like that.");
         ChMouth(6,3);
         ChMotion(6,3);
         VoicePlay("B040606302_06_050");
-        MsgDisp("Himuro","It's not that we can't... The flow of the
+        MsgDisp("Himuro","It's not that we can't...The flow of the
 conversation was clearly weird. But it's
 funny, so I'll go along with it.");
         ChEye(6,0);

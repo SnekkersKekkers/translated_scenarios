@@ -35,7 +35,7 @@ ChCheek(6,10);
 VoicePlay("B040606400_06_040");
 MsgDisp("Himuro","There's donut holes...");
 MsgDisp("主人公","Ah, there's a food stall for it.
-.... Do you like those?");
+....Do you like those?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -59,7 +59,7 @@ Wait(35,0);
 ChOpen(6,33,0,0,0,#1,#1,0,0);
 ChMotion(6,0);
 VoicePlay("B040606400_06_060");
-MsgDisp("Himuro","Ah... it's time already.");
+MsgDisp("Himuro","Ah...it's time already.");
 MsgDisp("主人公","Time went by so fast.");
 ChEye(6,0);
 ChMouth(6,0);

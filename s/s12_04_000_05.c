@@ -80,7 +80,7 @@ Maybe we can keep meeting like this.");
     MsgDisp("Nanatsumori","I...more with you——");
     ChMouth(4,3);
     VoicePlay("S120400005_04_090");
-    MsgDisp("Nanatsumori","... Stop.
+    MsgDisp("Nanatsumori","...Stop.
 I don't want to talk about this now.");
     MsgDisp("主人公","｛七ツ森＊｝?");
     ChEye(4,0);

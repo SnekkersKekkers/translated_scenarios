@@ -6,7 +6,7 @@ ChMouth(4,4);
 ChMotion(4,2);
 ScrFadeIn(0);
 VoicePlay("B040417002_04_000");
-MsgDisp("Nanatsumori","This room... is surprisingly closed off.");
+MsgDisp("Nanatsumori","This room...is surprisingly closed off.");
 MsgSel("When you become aware of it, it's a bit embarrassing...","Shall we do something heart-racing?","It's a bit hot, huh");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,7 +47,7 @@ together.");
         ChEye(4,0);
         ChMotion(4,1,1);
         VoicePlay("B040417002_04_040");
-        MsgDisp("Nanatsumori","... So?
+        MsgDisp("Nanatsumori","...So?
 What exactly are you going to do?");
         MsgDisp("主人公","How about I get a bit closer?");
         ChMotion(4,0,1);

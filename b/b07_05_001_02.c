@@ -46,7 +46,7 @@ MsgDisp("Hiiragi","I want to grow up so that Mikage-sensei
 can tell me about himself.");
 MsgDisp("主人公","(｛柊＊＊＊｝ and
 ｛御影＊＊｝ understand
-each other... what a wonderful
+each other...what a wonderful
 relationship...)");
 BGMStop();
 MsgClose();

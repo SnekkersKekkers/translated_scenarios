@@ -11,7 +11,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040223600_02_000");
-MsgDisp("Sassa","Uwah... it's packed.
+MsgDisp("Sassa","Uwah...it's packed.
 Can you see the parade properly?");
 MsgSel("I'm happy even with just the atmosphere","Is there a better place to view it from?","Can I ride on your shoulder?");
 switch (MsgSelRsltGet()){
@@ -42,7 +42,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,5);
     ChCheek(2,10);
     VoicePlay("B040223600_02_030");
-    MsgDisp("Sassa","... Eh?
+    MsgDisp("Sassa","...Eh?
 Hey, I'll take you seriously, you know.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -71,6 +71,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
 MsgDisp("主人公","(Huh, I can imagine how cram school's not
-made for ｛本多＊＊｝... )");
+made for ｛本多＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

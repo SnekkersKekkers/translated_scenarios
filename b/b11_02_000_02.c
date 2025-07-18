@@ -6,7 +6,7 @@ isn't here...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(｛颯砂＊＊｝ you're late... did something
+MsgDisp("主人公","(｛颯砂＊＊｝ you're late...did something
 happen?)");
 SEPlay("EV_SE_524");
 SEWait();
@@ -88,7 +88,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B110200002_02_040");
-MsgDisp("Sassa","Yeah... wait, why am I the one getting
+MsgDisp("Sassa","Yeah...wait, why am I the one getting
 worried over?");
 ChEye(2,0);
 ChMouth(2,0);

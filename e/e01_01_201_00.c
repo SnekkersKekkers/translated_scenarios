@@ -1,7 +1,7 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Alright.
+MsgDisp("主人公","...Alright.
 Time to head home.");
 VoicePlay("E010120100_01_000");
 MsgDisp("Kazama?","A select shop like ours doesn't have a lot

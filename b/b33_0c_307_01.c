@@ -11,7 +11,7 @@ ChLayout(2);
 SEPlay("EV_SE_825",0,0.8);
 ScrFadeIn(0);
 Wait(30,0);
-MsgDisp("主人公","Eh... what's up?");
+MsgDisp("主人公","Eh...what's up?");
 MsgClose();
 ChOpen(7,255,1,0,0,#1,#1,0,3,0,30);
 ChOpen(5,255,0,0,2,#1,#1,0,3,0,30);
@@ -88,7 +88,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C30701_07_030");
 MsgDisp("Mikage","Well, that's true. The purpose of the
-zoo's boss monkey... It might also be
+zoo's boss monkey...It might also be
 interesting to investigate that?");
 ChEye(7,0);
 ChMouth(7,0);

@@ -82,7 +82,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20800_01_030");
-MsgDisp("Kazama","... Got it.
+MsgDisp("Kazama","...Got it.
 I'll take the teacups.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -109,7 +109,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20800_06_040");
-MsgDisp("Himuro","... It can't be helped.
+MsgDisp("Himuro","...It can't be helped.
 Ryota-senpai, let's go.");
 ChEye(1,2);
 ChMouth(1,2);

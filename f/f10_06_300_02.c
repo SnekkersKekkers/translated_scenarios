@@ -23,7 +23,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("F100630002_06_010");
-MsgDisp("Himuro","Why... are you here?");
+MsgDisp("Himuro","Why...are you here?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -86,7 +86,7 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100630002_22_040");
-MsgDisp("Hikaru","Hmmm.... \"
+MsgDisp("Hikaru","Hmmm....\"
 Pikacchi\"? \"
 Pikatan\"?");
 ChEye(21,3);
@@ -123,7 +123,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("F100630002_06_070");
-MsgDisp("Himuro","... Ha∋
+MsgDisp("Himuro","...Ha∋
 I didn't really call you that just now, I
 was just repeating it to yo——");
 ChEye(21,4);

@@ -14,7 +14,7 @@ MsgDisp("Kuya","\"Dai-chan.\"");
 MsgDisp("","Big bro looked at me while smilin'.");
 VoicePlay("Y300800300_08_010");
 MsgDisp("Daichi","\"Big bro.
-I... still can't shake this weird
+I...still can't shake this weird
 feelin'.\"");
 MsgClear();
 MsgDisp("","Big bro looked fondly at me, \"Haha\",
@@ -35,7 +35,7 @@ MsgClear();
 MsgDisp("","I took a long, hard look at big bro
 who had answered so readily.");
 VoicePlay("Y300800300_08_030");
-MsgDisp("Daichi","\"Why... dy'a think that?\"");
+MsgDisp("Daichi","\"Why...dy'a think that?\"");
 VoicePlay("Y300800300_09_020");
 MsgDisp("Kuya","\"Big sis said the same thing.
 I also think that way.\"");

@@ -46,7 +46,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C10100_05_030");
-MsgDisp("Hiiragi","... No.
+MsgDisp("Hiiragi","...No.
 I have not gotten used to it yet, but I
 love life at Haba High.");
 ChEye(7,0);

@@ -25,7 +25,7 @@ StlEye(2,1,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("P240200000_02_020");
-MsgDisp("Sassa","... That will not come true.
+MsgDisp("Sassa","...That will not come true.
 The gatekeeper of hell, Cerebus will not
 tolerate intruders.");
 SEPlay("EV_SE_678",0,1);
@@ -65,7 +65,7 @@ VoicePlay("P240200000_02_050");
 MsgDisp("Sassa","Don't cry.
 I regret forcing you into my world.");
 ChEyeOpenLevel(2,0);
-MsgDisp("主人公","(... Eh? ｛颯砂＊＊｝, isn't that
+MsgDisp("主人公","(...Eh? ｛颯砂＊＊｝, isn't that
 a bit off-script?)");
 SEPlay("EV_SE_GAYA_008",0.5,0.5);
 VoicePlay("P240200000_39_000");
@@ -195,7 +195,7 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P240200000_02_160");
-MsgDisp("Sassa","Phew... Maybe I got a bit too emotionally
+MsgDisp("Sassa","Phew...Maybe I got a bit too emotionally
 immersed. I'll see you later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

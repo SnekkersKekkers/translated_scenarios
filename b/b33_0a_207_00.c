@@ -56,7 +56,7 @@ ChLayout(2);
 SEWait();
 ScrFadeIn(0);
 VoicePlay("B330A20700_02_020");
-MsgDisp("Sassa","Haa... that saved me.");
+MsgDisp("Sassa","Haa...that saved me.");
 MsgDisp("主人公","Hehe.
 ｛颯砂＊＊｝ sure is liked by
 animals isn't he?");

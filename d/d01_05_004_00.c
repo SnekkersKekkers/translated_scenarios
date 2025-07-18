@@ -84,7 +84,7 @@ SEStop("EV_SE_724",1);
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500400_05_050");
-MsgDisp("Hiiragi","... Phew.
+MsgDisp("Hiiragi","...Phew.
 I am done with the backdrop.
 Now I can do it without fear.");
 MsgDisp("主人公","...Eh?");
@@ -148,7 +148,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("D010500400_05_080");
 MsgDisp("Hiiragi","Yes.
 Everyone being excited and happy about
-it... it makes me glad.");
+it...it makes me glad.");
 MsgDisp("主人公","Yeah.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -170,7 +170,7 @@ ScrFadeOut(0,0);
 SEWait();
 MsgDisp("主人公","Eh...?");
 VoicePlay("D010500400_05_100");
-MsgDisp("Hiiragi","... Sorry.
+MsgDisp("Hiiragi","...Sorry.
 I've been making you worry.");
 MsgDisp("主人公","｛柊＊＊＊｝...");
 ChLayout(1);

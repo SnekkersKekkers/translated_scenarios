@@ -81,7 +81,7 @@ today.");
     MsgDisp("Hiiragi","Your famous karinto manju, and...
 Do you have any other interesting
 recommendations?");
-    MsgDisp("主人公","Interesting... ah, how about chocolate
+    MsgDisp("主人公","Interesting...ah, how about chocolate
 fugashi?");
     ChEye(5,3);
     ChMouth(5,3);
@@ -148,13 +148,13 @@ minutes ago.");
     MsgDisp("Hiiragi","Perhaps, you simply think that I frequent
 here simply due to a love for Japanese
 confections?");
-    MsgDisp("主人公","Um... don't you?");
+    MsgDisp("主人公","Um...don't you?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("I550500000_05_170");
-    MsgDisp("Hiiragi","Haa... this is bad.
+    MsgDisp("Hiiragi","Haa...this is bad.
 Let us talk at length about this on our
 way back.");
     MsgClose();

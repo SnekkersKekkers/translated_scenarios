@@ -10,7 +10,7 @@ ChMouth(4,0);
 VoicePlay("G020410300_04_010");
 MsgDisp("Nanatsumori","Do you remember me talking about something
 strangely awkward before?");
-MsgDisp("主人公","Umm... when?");
+MsgDisp("主人公","Umm...when?");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -22,10 +22,10 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020410300_04_030");
-MsgDisp("Nanatsumori","... Well, I'll just forget about it then.
+MsgDisp("Nanatsumori","...Well, I'll just forget about it then.
 It was about asking you what you think
 about love.");
-MsgDisp("主人公","Ah... ｛七ツ森＊｝, maybe
+MsgDisp("主人公","Ah...｛七ツ森＊｝, maybe
 by the time you graduate you will heard
 all kinds of romance and love?");
 ChEye(4,2);

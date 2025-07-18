@@ -32,7 +32,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("B060600001_06_020");
     MsgDisp("Himuro","It wasn't bad.
-... No, actually, it was good.");
+...No, actually, it was good.");
     MsgDispSksp(0);
     break ;
     default :

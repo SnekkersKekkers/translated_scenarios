@@ -7,7 +7,7 @@ MsgDisp("Nanatsumori","Hmm...");
 MsgDisp("主人公","What's wrong?
 Worried about something?");
 VoicePlay("G020410100_04_010");
-MsgDisp("Nanatsumori","I am worried... I guess. I guess it is
+MsgDisp("Nanatsumori","I am worried...I guess. I guess it is
 something you should be worried about.");
 MsgDisp("主人公","Can I ask what it's about?");
 ChEye(4,0);

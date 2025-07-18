@@ -53,7 +53,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,5,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070400000_04_050");
-MsgDisp("Nanatsumori","Woah... so big.");
+MsgDisp("Nanatsumori","Woah...so big.");
 MsgDisp("主人公","True...
 It's feels like I'm really in a foreign
 country.");
@@ -122,7 +122,7 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 ChCheek(4,5);
 VoicePlay("Q070400000_04_130");
-MsgDisp("Nanatsumori","... It feels a bit embarrassing saying
+MsgDisp("Nanatsumori","...It feels a bit embarrassing saying
 this.");
 MsgDisp("主人公","Hey, come on.
 I also feel the vibes.");

@@ -11,7 +11,7 @@ VoicePlay("J010100001_01_010");
 MsgDisp("Kazama","Sorry, I can't answer the phone right now.
 Please call back or leave a message.");
 MsgDisp("主人公","Ah, voicemail.
-... What should I do?");
+...What should I do?");
 MsgSel("Leave a message","Hang up the phone");
 switch (MsgSelRsltGet()){
     case 0:

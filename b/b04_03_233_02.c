@@ -98,7 +98,7 @@ fun conversations with
     ChCheek(3,8);
     VoicePlay("B040323302_03_090");
     MsgDisp("Honda","Yep yep.
-As I thought... me too.");
+As I thought...me too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

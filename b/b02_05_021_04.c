@@ -9,7 +9,7 @@ ChMotion(5,4);
 VoicePlay("B020502104_05_010");
 MsgDisp("Hiiragi","But when you are wearing it, it is
 somewhat different.
-... I wonder why?");
+...I wonder why?");
 MsgDisp("主人公","I wonder why...");
 ChMouth(5,4);
 ChMotion(5,2);

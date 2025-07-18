@@ -75,7 +75,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330A30600_06_030");
-MsgDisp("Himuro","Ehhh... that's a pretty nice summary
+MsgDisp("Himuro","Ehhh...that's a pretty nice summary
 coming from Ryota-senpai.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -83,7 +83,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A30600_01_020");
 MsgDisp("Kazama","Ha?
-... Geez, you're so cynical.");
+...Geez, you're so cynical.");
 MsgDisp("主人公","Hehe!
 I also agree with ｛風真＊＊｝.");
 ChEye(1,0);

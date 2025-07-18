@@ -51,7 +51,7 @@ I—");
     ChCheek(1,0);
     VoicePlay("B010100002_01_050");
     MsgDisp("Kazama","Heh, answering a question with a question.
-... Ahh, you're a dangerous one.");
+...Ahh, you're a dangerous one.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -70,7 +70,7 @@ But so are you.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B010100002_01_070");
-    MsgDisp("Kazama","... Why is that?");
+    MsgDisp("Kazama","...Why is that?");
     MsgDisp("主人公","Um...");
     MsgDispSksp(1,0);
     ChEye(1,0);

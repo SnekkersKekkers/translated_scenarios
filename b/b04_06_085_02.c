@@ -29,7 +29,7 @@ though?");
     VoicePlay("B040608502_06_020");
     MsgDisp("Himuro","It's cold.
 This is normal.
-... We're matching.");
+...We're matching.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -85,7 +85,7 @@ will worry. Don't forget.");
         ChMouth(6,1);
         ChMotion(6,1);
         VoicePlay("B040608502_06_080");
-        MsgDisp("Himuro","... Ha?
+        MsgDisp("Himuro","...Ha?
 What was the point of saying thanks just
 now?");
         MsgDisp("主人公","Ehhh?");
@@ -97,7 +97,7 @@ now?");
         MsgDisp("Himuro","I would be happier if you were healthy,
 than if you were to thank me for being
 worried.");
-        MsgDisp("主人公","Yeah... um, well, thanks after all.");
+        MsgDisp("主人公","Yeah...um, well, thanks after all.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

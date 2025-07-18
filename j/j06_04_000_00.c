@@ -61,7 +61,7 @@ I'm looking forward to Sunday!)");
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("J060400000_04_030");
-        MsgDisp("Nanatsumori","Ahh ... no good then?");
+        MsgDisp("Nanatsumori","Ahh ...no good then?");
         MsgDisp("主人公","Yeah...");
         ChMouth(4,3);
         ChMotion(4,0,1);

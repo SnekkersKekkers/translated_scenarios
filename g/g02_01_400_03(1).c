@@ -41,7 +41,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020140003_01_050");
-MsgDisp("Kazama","... Geez, does it need to be said?
+MsgDisp("Kazama","...Geez, does it need to be said?
 It's a piece of driftwood I picked up as a
 kid.");
 ChEyeOpenLevel(1,0);

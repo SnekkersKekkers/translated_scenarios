@@ -26,7 +26,7 @@ that.)");
     ChNanaType(0);
     ChOpen(4,254,4,4,1,#1,#1,0,0);
     VoicePlay("F010400001_04_010");
-    MsgDisp("Nanatsumori","That... shush!
+    MsgDisp("Nanatsumori","That...shush!
 Quit calling me that!");
     MsgDisp("主人公","Sorry, is it bad?");
     ChEye(4,0);
@@ -56,7 +56,7 @@ that.)");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("F010400001_04_040");
-    MsgDisp("Nanatsumori","... Still NG.
+    MsgDisp("Nanatsumori","...Still NG.
 I don't like it...");
     MsgDisp("主人公","You don't like it when I call you that?");
     ChMotion(4,0,1);

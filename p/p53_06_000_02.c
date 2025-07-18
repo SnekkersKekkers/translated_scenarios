@@ -106,7 +106,7 @@ I'm off now.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P530600002_06_100");
-    MsgDisp("Himuro","... No, have fun.
+    MsgDisp("Himuro","...No, have fun.
 I'll see yu later.");
     MsgDisp("主人公","Thank you!");
     MsgDisp("主人公","(The last concert...

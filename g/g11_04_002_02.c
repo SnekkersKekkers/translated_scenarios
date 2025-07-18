@@ -2,7 +2,7 @@ BGOpen("ne100",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I just want to collect more and more
 fashion items...)");
-MsgDisp("主人公","(Ah... maybe I can find
+MsgDisp("主人公","(Ah...maybe I can find
 ｛七ツ森＊｝ at the
 coffee shop?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

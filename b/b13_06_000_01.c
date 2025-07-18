@@ -10,4 +10,4 @@ VoicePlay("B130600001_06_000");
 MsgDisp("Himuro","When it comes to clothes, it's better to
 bear time, place and occasion in mind. It
 looks cold, and people are staring. I
-also... feel uneasy.");
+also...feel uneasy.");

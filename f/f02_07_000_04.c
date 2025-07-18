@@ -20,7 +20,7 @@ ChMotion(7,2);
 VoicePlay("F020700004_07_010");
 MsgDisp("Mikage","I'm not happy at all.
 It feels like my neck is getting tighter
-and tighter every year... ahh, damn it.");
+and tighter every year...ahh, damn it.");
 MsgDisp("主人公","I'm happy that I'll be able to celebrate
 ｛御影＊＊｝'s birthday
 though.");

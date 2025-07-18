@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,5);
     VoicePlay("B040201102_02_010");
     MsgDisp("Sassa","Woah, awesome!
-... Hey, are you even listening to me?");
+...Hey, are you even listening to me?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

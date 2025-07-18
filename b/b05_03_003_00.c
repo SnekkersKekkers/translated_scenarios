@@ -45,7 +45,7 @@ StlOpen("ev_03_05");
 StlEye(3,0);
 StlMouth(3,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝... are you okay?");
+MsgDisp("主人公","｛本多＊＊｝...are you okay?");
 StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5);

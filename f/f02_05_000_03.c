@@ -50,7 +50,7 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,3);
 VoicePlay("F020500003_05_070");
-MsgDisp("Hiiragi","Yes... is that okay?
+MsgDisp("Hiiragi","Yes...is that okay?
 This will be our secret.
 You understand, right?");
 MsgDisp("主人公","Um, sure...");

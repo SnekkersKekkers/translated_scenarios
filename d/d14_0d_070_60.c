@@ -29,7 +29,7 @@ ChMotion(22,2,1);
 VoicePlay("D140D07060_22_020");
 MsgDisp("Hikaru","It can't be helped～
 Since his relative is a famed vice
-principal in the same school... right?");
+principal in the same school...right?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -41,7 +41,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("D140D07060_21_020");
-MsgDisp("Michiru","Well... maybe he won't be able to take
+MsgDisp("Michiru","Well...maybe he won't be able to take
 classes for real anyways?");
 MsgDisp("主人公","(By uncle, I guess they're talking about
 Goro-sensei. But he won't be able to take

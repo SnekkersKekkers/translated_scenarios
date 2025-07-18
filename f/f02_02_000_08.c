@@ -23,7 +23,7 @@ VoicePlay("F020200008_02_010");
 MsgDisp("Sassa","Are you surprised?
 I guess when I draw, it comes out weird.");
 MsgDisp("主人公","No, it's not that.
-... What are you drawing?");
+...What are you drawing?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -49,13 +49,13 @@ VoicePlay("F020200008_02_050");
 MsgDisp("Sassa","Like dogs and cats.
 Cute ones.");
 MsgDisp("主人公","Dogs and cats?
-I see... it's fine as long as they're
+I see...it's fine as long as they're
 cute.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200008_02_060");
-MsgDisp("Sassa","Well... midway through, I had no clue what
+MsgDisp("Sassa","Well...midway through, I had no clue what
 I was drawing anymore.");
-MsgDisp("主人公","(｛颯砂＊＊｝'s art... it worries me a
+MsgDisp("主人公","(｛颯砂＊＊｝'s art...it worries me a
 little.)");

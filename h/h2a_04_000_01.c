@@ -15,7 +15,7 @@ Good work.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("H2A0400001_04_010");
-    MsgDisp("Nanatsumori","Hey... stop that.
+    MsgDisp("Nanatsumori","Hey...stop that.
 Do you want me to comfort you?
 Me, who's super bad at sports?");
     MsgDisp("主人公","...Hehe, ahaha!");

@@ -30,7 +30,7 @@ the middle of winter.");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040411102_04_020");
-    MsgDisp("Nanatsumori","Ah... it really is cold.");
+    MsgDisp("Nanatsumori","Ah...it really is cold.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -91,7 +91,7 @@ wrong.");
         ChMotion(4,2,1);
         ChCheek(4,9);
         VoicePlay("B040411102_04_100");
-        MsgDisp("Nanatsumori","... Crap.
+        MsgDisp("Nanatsumori","...Crap.
 Not only is it cold, I'm starting to get
 hot.");
         MsgDisp("主人公","(Me too...)");

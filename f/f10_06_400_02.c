@@ -26,7 +26,7 @@ ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("F100640002_06_010");
 MsgDisp("Himuro","Eh, Ryota-senpai...?");
-MsgDisp("主人公","Are the two of you... going home together?");
+MsgDisp("主人公","Are the two of you...going home together?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -36,7 +36,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100640002_06_020");
-MsgDisp("Himuro","Yeah, why... so, what are you doing?");
+MsgDisp("Himuro","Yeah, why...so, what are you doing?");
 ChEye(1,4);
 MsgDisp("主人公","I forgot to do something for
 ｛御影＊＊｝, so I'm
@@ -71,7 +71,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("F100640002_01_050");
-MsgDisp("Kazama","... Geez.
+MsgDisp("Kazama","...Geez.
 Go quickly.");
 ChEye(6,1);
 ChMouth(6,0);
@@ -83,7 +83,7 @@ SEPlay("EV_SE_856");
 MsgClose();
 ChClose(6,0,30);
 ChClose(1,0,30);
-MsgDisp("主人公","(Umm... so are both of you going to help
+MsgDisp("主人公","(Umm...so are both of you going to help
 me...?)");
 BGMStop();
 MsgClose();

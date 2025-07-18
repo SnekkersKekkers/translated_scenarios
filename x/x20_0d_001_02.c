@@ -10,7 +10,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("X200D00102_21_000");
 MsgDisp("Michiru","Beauty contests are where your everyday
-efforts pay off. Without that... it might
+efforts pay off. Without that...it might
 be a bit difficult.");
 MsgDisp("主人公","(Hmm, that's a bit disappointing.)");
 MsgClose();

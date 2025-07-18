@@ -69,7 +69,7 @@ There's quite a lot of kinds huh?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P630700001_07_060");
-    MsgDisp("Mikage","... Oh.
+    MsgDisp("Mikage","...Oh.
 Then, I'll have the blend for sound sleep
 please.");
     MsgDisp("主人公","Yes.

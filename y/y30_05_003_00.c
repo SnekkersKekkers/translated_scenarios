@@ -27,7 +27,7 @@ with you from now on.\"");
 VoicePlay("Y300500300_33_010");
 MsgDisp("Theater Member B","\"To think I could be in this
 wonderful play, 'Habataki Castle'
-that I'm so familiar with... so that
+that I'm so familiar with...so that
 I can be of help, I'll give it my
 all.\"");
 MsgDisp("","They were full of hope.");
@@ -45,7 +45,7 @@ everyone enjoy it, this is the
 opposite. I'm plucking at people's
 dreams..");
 MsgDisp("","Furthermore, I did it
-unconsciously... how horrible.");
+unconsciously...how horrible.");
 MsgClear();
 VoicePlay("Y300500300_05_030");
 MsgDisp("Hiiragi","(...I can't go home. I can't face
@@ -60,7 +60,7 @@ by this kind of me.\"");
 MsgDisp("","But, by chance, maybe it's a good
 thing you got to see the real me.");
 MsgDisp("","Being chairman and in the student
-council... I'm only good at keeping
+council...I'm only good at keeping
 up with appearances, this is the real
 me.");
 MsgClear();
@@ -90,7 +90,7 @@ MsgDisp("","It may already be too late. But to
 the two of them who made me realize
 this, to you who spoke to me kindly,
 even if it's just a little, I want to
-repay it.... I want to make amends.");
+repay it....I want to make amends.");
 MsgDisp("","It's not like I'm being forgiven for
 anything.
 But...");

@@ -35,7 +35,7 @@ places for it.");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B040223200_02_030");
-    MsgDisp("Sassa","Eh... you were the one who said you wanted
+    MsgDisp("Sassa","Eh...you were the one who said you wanted
 to ride it.");
     MsgDateResultDisp();
     break ;

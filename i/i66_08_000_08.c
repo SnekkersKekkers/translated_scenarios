@@ -73,7 +73,7 @@ Seems like it's calmed down a bit.");
     MsgDisp("Shirahane","｛主人公｝.
 Nice work t'day.");
     MsgDisp("主人公","｛大地＊＊｝.
-Ah... hehe!
+Ah...hehe!
 There's oil on your nose.");
     ChEye(8,5);
     ChMouth(8,5);
@@ -91,7 +91,7 @@ Just wait a bit...");
     VoicePlay("I660800008_08_080");
     MsgDisp("Shirahane","Ah, 'kay...");
     MsgDisp("主人公","There, I got it.
-... What is it?");
+...What is it?");
     ChEye(8,4);
     ChMouth(8,4);
     ChMotion(8,4,1);
@@ -132,7 +132,7 @@ So, don't worry 'bout it.");
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("I660800008_08_130");
-    MsgDisp("Shirahane","... But I don't really wanna take over the
+    MsgDisp("Shirahane","...But I don't really wanna take over the
 store, do you?
 Right?");
     MsgDisp("主人公","(Hehe!

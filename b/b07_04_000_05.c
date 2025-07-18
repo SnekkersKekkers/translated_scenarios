@@ -52,7 +52,7 @@ VoicePlay("B070400000_04_330");
 MsgDisp("Nanatsumori","No, no.
 It was the best.
 I think I'll make this my wallpaper.");
-MsgDisp("主人公","(That's... embarrassing～!)");
+MsgDisp("主人公","(That's...embarrassing～!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -68,7 +68,7 @@ Wait(10,0);
 ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("B360121200_01_070");
-MsgDisp("Kazama","... Geez.
+MsgDisp("Kazama","...Geez.
 We can just buy souvenirs for us.
 Right?");
 MsgDisp("主人公","Y-Yeah.");

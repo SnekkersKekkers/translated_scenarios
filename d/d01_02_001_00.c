@@ -24,7 +24,7 @@ ChMotion(2,2);
 VoicePlay("D010200100_40_010");
 MsgDisp("Member","But Captain, I guess Sassa doesn't even
 need to warm up.
-... Right?");
+...Right?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

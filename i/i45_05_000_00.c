@@ -12,8 +12,8 @@ switch (ChPrmGet(5,6)){
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,255,0,2,2,8,#1,0,0);
     VoicePlay("I450500000_05_010");
-    MsgDisp("Hiiragi","... Oh my?
-Why are you... are we back at the school?");
+    MsgDisp("Hiiragi","...Oh my?
+Why are you...are we back at the school?");
     MsgDisp("主人公","Huh?
 This is flower shop Annallee.
 ｛柊＊＊＊｝, what is it?");
@@ -72,7 +72,7 @@ gift ready?");
     ChMotion(5,4);
     VoicePlay("I450500000_05_080");
     MsgDisp("Hiiragi","Yes, it's beautiful.
-... Is this perhaps your work?");
+...Is this perhaps your work?");
     MsgDisp("主人公","No, I just helped.");
     ChMotion(5,0);
     VoicePlay("I450500000_05_090");

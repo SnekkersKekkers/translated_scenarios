@@ -54,7 +54,7 @@ MsgDisp("Honda","But unfortunately, it was just that one
 time. They asked me to understand their
 position too, so");
 MsgDisp("主人公","(He got asked by the teacher to understand
-their position... That's so typical of
+their position...That's so typical of
 ｛本多＊＊｝ huh?)");
 BGMStop();
 MsgClose();

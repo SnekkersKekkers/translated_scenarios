@@ -9,7 +9,7 @@ switch (ChPrmGet(5,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're displaying wedding
-dresses. This is my last one... I have to
+dresses. This is my last one...I have to
 make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -66,7 +66,7 @@ with all of my heart...!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're displaying wedding
-dresses. This is my last one... I have to
+dresses. This is my last one...I have to
 make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

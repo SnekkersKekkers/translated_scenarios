@@ -18,7 +18,7 @@ ChEye(6,4);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("T020611000_06_020");
-MsgDisp("Himuro","... Please.
+MsgDisp("Himuro","...Please.
 Come with me.");
 MsgClose();
 ScrFadeOut(0);
@@ -82,7 +82,7 @@ SEPlay("EV_SE_557",0.2,0.6);
 ChOpen(6,254,7,4,0,10,#1,0,0,0,120);
 VoiceEVSPlay(6);
 VoicePlay("T020611000_06_080");
-MsgDisp("Himuro","... ｛主人公｝.
+MsgDisp("Himuro","...｛主人公｝.
 I've always liked you.");
 MsgDisp("主人公","!");
 ChEye(6,4);

@@ -55,7 +55,7 @@ MsgDisp("主人公","｛颯砂＊＊｝...?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("R080200000_02_040");
-MsgDisp("Sassa","... I've never thought of training as
+MsgDisp("Sassa","...I've never thought of training as
 hard.");
 StlEye(2,0);
 StlMouth(2,0);
@@ -122,7 +122,7 @@ VoicePlay("R080200000_02_140");
 MsgDisp("Sassa","Manager.
 It's been a while so, time me.");
 MsgDisp("主人公","Hehe, okay.
-... Ready?
+...Ready?
 Aaand, go.");
 SEPlay("EV_SE_808",0,0.9,1.1);
 MsgClose();

@@ -14,7 +14,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("X120600001_06_000");
-    MsgDisp("Himuro","Wow... how pretty.
+    MsgDisp("Himuro","Wow...how pretty.
 You're skilled at raising plants.");
     MsgDisp("主人公","(Yay!)");
     break ;
@@ -26,7 +26,7 @@ You're skilled at raising plants.");
     VoicePlay("X120600001_06_010");
     MsgDisp("Himuro","They're all growing without worries,
 pretty. I wonder if flowers also resemble
-the people who raised them... No, there's
+the people who raised them...No, there's
 no deeper meaning to it.");
     MsgDisp("主人公","(Yay!
 I was praised!)");

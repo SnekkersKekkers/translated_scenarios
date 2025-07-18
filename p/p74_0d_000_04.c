@@ -36,7 +36,7 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P740D00004_22_020");
-MsgDisp("Hikaru","Ah... but, also I don't think I want to
+MsgDisp("Hikaru","Ah...but, also I don't think I want to
 hand her away to anyone Eheh▼");
 MsgDisp("主人公","(Hehe!
 I'm glad I devoted myself to the

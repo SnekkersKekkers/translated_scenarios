@@ -14,7 +14,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750400_07_010");
-MsgDisp("Mikage","... It's beautiful, right?
+MsgDisp("Mikage","...It's beautiful, right?
 No it's not.
 Let's go.");
 MsgDisp("主人公","...Okay.");

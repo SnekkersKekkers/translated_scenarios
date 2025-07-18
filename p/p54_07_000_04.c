@@ -38,7 +38,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P540700004_07_040");
-MsgDisp("Mikage","I see... that joy is your reward for
+MsgDisp("Mikage","I see...that joy is your reward for
 working so hard.
 It will become a wonderful memory.");
 ChEye(7,0);
@@ -47,7 +47,7 @@ ChMotion(7,3);
 VoicePlay("P540700004_07_050");
 MsgDisp("Mikage","Alright, after this, share that joy with
 your friends.
-... Good work these last three years.");
+...Good work these last three years.");
 MsgClose();
 ChClose(7,0,30);
 ChLayout(0);

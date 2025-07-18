@@ -42,7 +42,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G110100700_01_030");
-MsgDisp("Kazama","... Hm?
+MsgDisp("Kazama","...Hm?
 I wonder why that is?");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Eh?");

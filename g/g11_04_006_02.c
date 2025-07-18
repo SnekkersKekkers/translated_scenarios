@@ -22,7 +22,7 @@ MsgDisp("主人公","......");
 ChEye(4,1);
 ChMouth(4,1);
 VoicePlay("G110400602_04_020");
-MsgDisp("Nanatsumori","... Are you listening?");
+MsgDisp("Nanatsumori","...Are you listening?");
 MsgDisp("主人公","Uh, yeah!
 Did it seem like I wasn't?");
 VoicePlay("G110400602_04_030");
@@ -52,9 +52,9 @@ ChMotion(4,1);
 VoicePlay("G110400602_04_070");
 MsgDisp("Nanatsumori","That's strange.
 I wonder why you are so timid then.");
-MsgDisp("主人公","Well... The ｛七ツ森＊｝
+MsgDisp("主人公","Well...The ｛七ツ森＊｝
 and the ｛七ツ森＊｝ now
-are two different... people.");
+are two different...people.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1);

@@ -5,7 +5,7 @@ ChOpen(8,255,0,2,0,#1,#1,6,0);
 ScrFadeIn(0);
 VoicePlay("B150810000_08_000");
 MsgDisp("Shirahane","As merciless as ever.");
-MsgDisp("主人公","Ah... it was unintentional.
+MsgDisp("主人公","Ah...it was unintentional.
 I'm sorry?");
 ChEye(8,3);
 ChMouth(8,0);

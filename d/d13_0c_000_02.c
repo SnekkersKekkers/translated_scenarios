@@ -26,8 +26,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D130C00002_07_010");
 MsgDisp("Mikage","Wait wait, don't panic.
-The day is still young. ... right?");
-MsgDisp("主人公","Today... ah.
+The day is still young. ...right?");
+MsgDisp("主人公","Today...ah.
 Are you talking about Valentine's day?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -53,7 +53,7 @@ BGMStop();
 ChClose(7,0,30);
 ChClose(5,0,30);
 ChClose(6,0,30);
-MsgDisp("主人公","(Um... looks like everyone's fussing over
+MsgDisp("主人公","(Um...looks like everyone's fussing over
 the Valentine's chocolates.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040218900_02_000");
     MsgDisp("Sassa","I was confused.
-I thought it was funny... but what was
+I thought it was funny...but what was
 that dance?");
     MsgDateResultDisp();
     break ;

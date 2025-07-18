@@ -63,7 +63,7 @@ VoicePlay("B070200001_02_080");
 MsgDisp("Sassa","He's definitely making that up, right?
 Kindergartners don't do that.");
 MsgDisp("主人公","(Hehe!
-... But somehow that doesn't seem too far
+...But somehow that doesn't seem too far
 off from ｛颯砂＊＊｝ right now.)");
 BGMStop();
 MsgClose();

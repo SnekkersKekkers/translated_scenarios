@@ -55,7 +55,7 @@ row, I wonder if I was cast under a spell.");
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040406502_04_040");
-        MsgDisp("Nanatsumori","... The same huh?
+        MsgDisp("Nanatsumori","...The same huh?
 I wonder if I'm seeing it with rose-tinted
 glasses.");
         ChEye(4,0);
@@ -83,7 +83,7 @@ You've helped me grow a lot.");
         ChMouth(4,3);
         ChCheek(4,5);
         VoicePlay("B040406502_04_090");
-        MsgDisp("Nanatsumori","... Hey, do you think I've changed?
+        MsgDisp("Nanatsumori","...Hey, do you think I've changed?
 From the time we met to now.");
         MsgDisp("主人公","That's right.
 When I met ｛七ツ森＊｝...
@@ -117,7 +117,7 @@ away. That's why——");
         ChEye(4,4);
         SEPlay("EV_SE_022");
         Wait(30,0);
-        MsgDisp("主人公","Waa... those are some huge fireworks!
+        MsgDisp("主人公","Waa...those are some huge fireworks!
 They're pretty, right?");
         ChEye(4,4);
         ChMouth(4,3);

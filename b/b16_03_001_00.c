@@ -19,7 +19,7 @@ Touch me as much as you like!");
     NSSEye(3,0);
     NSSMouth(3,4);
     VoicePlay("B160300100_03_020");
-    MsgDisp("Honda","I see... but doing it unconsciously with
+    MsgDisp("Honda","I see...but doing it unconsciously with
 other people is kinda of...");
     break ;
     default :

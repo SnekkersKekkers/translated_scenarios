@@ -64,7 +64,7 @@ and having fun.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040523602_05_040");
-        MsgDisp("Hiiragi","... Thank you.
+        MsgDisp("Hiiragi","...Thank you.
 And, I'm sorry.");
         MsgDisp("主人公","Eh?");
         ChMotion(5,2);
@@ -91,7 +91,7 @@ carried away.");
         ChMotion(5,0);
         ChMouthOpenLevel(5,#1);
         VoicePlay("B040523602_05_080");
-        MsgDisp("Hiiragi","... Heheh.
+        MsgDisp("Hiiragi","...Heheh.
 It's funny that we're both apologizing in
 this situation.");
         MsgDisp("主人公","Hehe, yeah.");

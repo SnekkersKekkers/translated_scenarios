@@ -127,7 +127,7 @@ compliment me, you know?");
 promoting it because it's new, you
 actually know what's special about it.");
     MsgDisp("主人公","Hehe, thanks.
-... By the way, are you doing okay on
+...By the way, are you doing okay on
 time?");
     ChEye(3,5);
     ChMouth(3,4);

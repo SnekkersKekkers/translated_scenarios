@@ -27,7 +27,7 @@ ChMouth(4,0);
 VoicePlay("B070400001_04_550");
 MsgDisp("Nanatsumori","...Am I the cause?");
 MsgDisp("主人公","｛七ツ森＊｝?
-... Ah.");
+...Ah.");
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_560");
 MsgDisp("Nanatsumori","What?");
@@ -35,7 +35,7 @@ MsgDisp("主人公","My heart might be racing even faster.");
 ChEye(4,2);
 ChMouth(4,1);
 VoicePlay("B070400001_04_570");
-MsgDisp("Nanatsumori","No, w... wait.
+MsgDisp("Nanatsumori","No, w...wait.
 Maybe, this is something that's spread to
 me...");
 MsgDisp("主人公","...?");

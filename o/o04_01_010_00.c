@@ -44,7 +44,7 @@ Let's do our best.");
     VoicePlay("O040101000_01_040");
     MsgDisp("Kazama","Let's show them all how well we work
 together.");
-    MsgDisp("主人公","Um... to who?");
+    MsgDisp("主人公","Um...to who?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);

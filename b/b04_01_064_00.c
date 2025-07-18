@@ -59,7 +59,7 @@ VoicePlay("B040106400_01_070");
 MsgDisp("Kazama","Excuse me.
 One candied apple, please.");
 VoicePlay("B040106400_36_000");
-MsgDisp("Night Market Clerk","Right away! ... Oh? You're Mr. Kazama's
+MsgDisp("Night Market Clerk","Right away! ...Oh? You're Mr. Kazama's
 boy! Alright, this is on the house!");
 VoicePlay("B040106400_01_080");
 MsgDisp("Kazama","Oh, thank you very much.");

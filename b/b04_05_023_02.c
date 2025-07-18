@@ -94,7 +94,7 @@ haven't you?");
     ChMotion(5,3);
     VoicePlay("B040502302_05_100");
     MsgDisp("Hiiragi","I see, the spirit of incorporating the
-natural scenery... The artist made the
+natural scenery...The artist made the
 background sea part of the world of their
 work.");
     MsgDispSksp(1,0);

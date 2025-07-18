@@ -2,7 +2,7 @@ SEPlay("EV_SE_DOOR_014");
 BGOpen("ar100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Welcome!");
-MsgDisp("主人公","... Alright, coming right up.
+MsgDisp("主人公","...Alright, coming right up.
 Okay, come this way to your seat.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

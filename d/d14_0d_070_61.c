@@ -43,7 +43,7 @@ MsgDisp("Hikaru","Hikaru can tell you about his feelings at
 any time▼");
 MsgDisp("主人公","(｛みちる＊｝,
 ｛ひかる＊｝. Thank you
-but... You're thinking about this too
+but...You're thinking about this too
 much!)");
 BGMStop();
 MsgClose();

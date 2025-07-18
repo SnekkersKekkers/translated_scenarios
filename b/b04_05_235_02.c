@@ -82,7 +82,7 @@ But, what I said was genuine.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040523501_05_080");
-        MsgDisp("Hiiragi","... Yes.
+        MsgDisp("Hiiragi","...Yes.
 So to me, you are much scarier than this
 haunted house.");
         MsgDisp("主人公","Ehh?");

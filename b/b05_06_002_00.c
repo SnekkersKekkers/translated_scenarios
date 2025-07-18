@@ -54,9 +54,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ScrFadeIn(0);
 MsgDisp("主人公","(I wonder where ｛氷室＊＊｝ went.
-... Ah——)");
+...Ah——)");
 VoicePlay("B050600200_06_060");
-MsgDisp("Himuro","... Come here.
+MsgDisp("Himuro","...Come here.
 It's okay.");
 MsgClose();
 ScrFadeOut(0);
@@ -81,7 +81,7 @@ Being alone is easy.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("B050600200_06_090");
-MsgDisp("Himuro","... But you know, deep down don't you want
+MsgDisp("Himuro","...But you know, deep down don't you want
 friends too?
 That's why I can't leave you alone there.");
 SEPlay("EV_SE_839");
@@ -115,9 +115,9 @@ SEWait();
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600200_06_140");
-MsgDisp("Himuro","... What?
+MsgDisp("Himuro","...What?
 You suddenly meowed.
-Is that... sympathy?");
+Is that...sympathy?");
 MsgDisp("主人公","Hehe.");
 StlEye(6,2);
 StlMouth(6,1);

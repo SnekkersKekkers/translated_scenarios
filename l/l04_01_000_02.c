@@ -73,7 +73,7 @@ He seemed happy.)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100002_01_070");
-    MsgDisp("Kazama","... Geez, it's fine.
+    MsgDisp("Kazama","...Geez, it's fine.
 As long as your feelings are in this.");
     ChMotion(1,0);
     MsgDisp("主人公","Well, the chocolate looked super

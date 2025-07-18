@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("SS0102231_02_000");
-MsgDisp("Sassa","Don't poke it.");
+MsgDisp("Sassa","Don't poke me.");
 MsgClose();

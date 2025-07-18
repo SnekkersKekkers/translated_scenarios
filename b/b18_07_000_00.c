@@ -12,7 +12,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B180700000_07_010");
-MsgDisp("Mikage","... Is it no good?
+MsgDisp("Mikage","...Is it no good?
 I thought it would change the mood in a
 fun way.");
 MsgSel("No, it's fine.","Mm~, it's a bit...");

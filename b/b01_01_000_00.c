@@ -22,14 +22,14 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,1);
     ChMotion(1,1);
     ChCheek(1,7);
-    MsgDisp("主人公","... Sorry?");
+    MsgDisp("主人公","...Sorry?");
     ChMouth(1,2);
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     Wait(16,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B010100000_01_010");
-    MsgDisp("Kazama","... Are you doing that on purpose?");
+    MsgDisp("Kazama","...Are you doing that on purpose?");
     MsgDisp("主人公","Huh?");
     MsgDispSksp(1,0);
     ChEye(1,2);
@@ -54,7 +54,7 @@ Be more careful next time.");
     VoicePlay("B010100000_01_030");
     MsgDisp("Kazama","It's fine.
 I only just got here too.");
-    MsgDisp("主人公","... Really?");
+    MsgDisp("主人公","...Really?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);

@@ -54,7 +54,7 @@ ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,3 ) ;
 VoicePlay ( "D150001300_01_030" ) ;
-MsgDisp ( "Kazama","... Geez.
+MsgDisp ( "Kazama","...Geez.
 What are you even saying?" ) ;
 MsgDisp ( "主人公","(Hehe. Young master cookies. That sounds
 like a souvenir you'd get from Habataki

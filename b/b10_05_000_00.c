@@ -10,7 +10,7 @@ SEStop("EV_SE_579",0);
 MsgDisp("主人公","...Hello?");
 VoicePlay("B100500000_05_000");
 MsgDisp("Hiiragi","It's Hiiragi.
-... By any chance, are you still outside?");
+...By any chance, are you still outside?");
 MsgDisp("主人公","Yeah...
 Um, I——");
 VoicePlay("B100500000_05_010");

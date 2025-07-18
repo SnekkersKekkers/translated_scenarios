@@ -80,7 +80,7 @@ retina. I also want those eyes.");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040321102_03_070");
-        MsgDisp("Honda","... Come to think of it, your eyes sparkle
+        MsgDisp("Honda","...Come to think of it, your eyes sparkle
 too.
 Let me see them for a bit.");
         MsgDisp("主人公","eh?");

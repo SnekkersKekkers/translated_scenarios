@@ -50,7 +50,7 @@ StlMouth(6,0);
 VoicePlay("B050600000_06_050");
 MsgDisp("Himuro","A comfortable bed and a stunning view.
 Cherry blossoms as far as the eye can see.
-So beautiful... it's scary.");
+So beautiful...it's scary.");
 StlEye(6,1);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0);

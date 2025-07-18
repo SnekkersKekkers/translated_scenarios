@@ -49,7 +49,7 @@ Of course I'm here to support you.");
     VoicePlay("H280600000_06_050");
     MsgDisp("Himuro","You've entrusted your dreams to the team,
 right?");
-    MsgDisp("主人公","Ah... yeah!");
+    MsgDisp("主人公","Ah...yeah!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);

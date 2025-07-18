@@ -42,7 +42,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700300_07_040");
-MsgDisp("Mikage","Uh... forget what I said.
+MsgDisp("Mikage","Uh...forget what I said.
 You're a pretty girl, so try to shine.");
 ChEye(7,0);
 ChMouth(7,0);

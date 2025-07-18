@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,5);
     VoicePlay("B040306302_03_010");
     MsgDisp("Honda","Got it, watch okayー?
-... It's cold!");
+...It's cold!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -84,7 +84,7 @@ It's dangerous, so come here.");
         ChOpen(3,255,2,0,4,#1,#1,0,0,0,30);
         SEWait();
         VoicePlay("B040306302_03_060");
-        MsgDisp("Honda","Huh? It's nothing... I just got a shock
+        MsgDisp("Honda","Huh? It's nothing...I just got a shock
 hearing your voice just now. Am I weird?");
         MsgDisp("主人公","I got it, let's go already.
 If you get wet, you'll catch a cold▼");

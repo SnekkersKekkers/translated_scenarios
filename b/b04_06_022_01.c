@@ -40,7 +40,7 @@ to like it.");
     ChMotion(6,4);
     ChCheek(6,10);
     VoicePlay("B040602201_06_030");
-    MsgDisp("Himuro","... Ha?
+    MsgDisp("Himuro","...Ha?
 Were you listening to the question?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

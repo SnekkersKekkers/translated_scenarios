@@ -22,7 +22,7 @@ ChCheek(6,5);
 VoicePlay("K010600101_06_020");
 MsgDisp("Himuro","You must have put a lot of thought into
 this...
-... Thanks.");
+...Thanks.");
 MsgDisp("主人公","(He looks super happy...
 Thank goodness!)");
 MsgClose();

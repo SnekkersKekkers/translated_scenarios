@@ -75,5 +75,5 @@ MsgDisp("Sassa","Ah, that's reassuring to hear.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","(To think about sports so much you tie
-your birthday to them... it makes me root
+your birthday to them...it makes me root
 for ｛颯砂＊＊｝ even more!)");

@@ -42,7 +42,7 @@ going to have fun!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100002_01_030");
-    MsgDisp("Kazama","... It's my turn.
+    MsgDisp("Kazama","...It's my turn.
 Somehow, I'm starting to feel nervous.");
     MsgDisp("主人公","Hehe.
 Well, I'll be going then!");

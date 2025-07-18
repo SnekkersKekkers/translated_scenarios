@@ -6,7 +6,7 @@ ChMotion(7,2,1);
 ChEyeOpenLevel(7,0);
 ScrFadeIn(0);
 VoicePlay("B040724102_07_000");
-MsgDisp("Mikage","Phew... haaa...
+MsgDisp("Mikage","Phew...haaa...
 This place is so calming.");
 MsgSel("It's just like ｛御影＊＊｝'s home.","｛御影＊＊｝'s family home is also a ranch, right?","You can't live here.");
 switch (MsgSelRsltGet()){

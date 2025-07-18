@@ -98,7 +98,7 @@ around.");
         MsgDisp("Mikage","The charm is being able to see the other
 person's various faces.
 To go from a prim look to a full-on frolic");
-        MsgDisp("主人公","Ugh... it's kinda embarrassing.");
+        MsgDisp("主人公","Ugh...it's kinda embarrassing.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);

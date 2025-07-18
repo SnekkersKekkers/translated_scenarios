@@ -42,7 +42,7 @@ Is there a need to?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621102_06_030");
-        MsgDisp("Himuro","Pretend to be a family... what's with
+        MsgDisp("Himuro","Pretend to be a family...what's with
 that?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -112,7 +112,7 @@ We're siblings after all.");
     VoicePlay("B040621102_06_110");
     MsgDisp("Himuro","Hmm, is this what they mean by maternal
 instincts? To be able to unconditionally
-think a kid is adorable... it's amazing.
+think a kid is adorable...it's amazing.
 No, I mean it in a good way.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

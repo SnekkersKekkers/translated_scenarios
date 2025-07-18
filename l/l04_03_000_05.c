@@ -7,7 +7,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1);
     VoicePlay("L040300005_03_000");
     MsgDisp("Honda","Thank you!
-... Hm?
+...Hm?
 This is handmade, right?");
     ChMotion(3,4);
     VoicePlay("L040300005_03_010");
@@ -31,7 +31,7 @@ I wonder if it didn't suit
     ChMotion(3,5);
     VoicePlay("L040300005_03_030");
     MsgDisp("Honda","Ah, it's handmade!
-... Haha, I see.");
+...Haha, I see.");
     MsgDisp("主人公","What is it?");
     ChEye(3,0);
     ChMouth(3,0);
@@ -66,7 +66,7 @@ But, did you have some trouble?");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("L040300005_03_080");
-    MsgDisp("Honda","Ah... is that so?
+    MsgDisp("Honda","Ah...is that so?
 Then it's fine!");
     ChEye(3,3);
     ChMouth(3,3);

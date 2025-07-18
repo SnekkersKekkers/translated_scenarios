@@ -52,7 +52,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30400_01_030");
 MsgDisp("Kazama","What are you saying?
-... Geez.
+...Geez.
 I like all seasons here.");
 ChEye(1,0);
 ChMouth(1,0);

@@ -47,7 +47,7 @@ It's a bit worrying.");
         ChMotion(5,4);
         VoicePlay("B040517002_05_040");
         MsgDisp("Hiiragi","Yes, I don't mind.
-That means we... are this \"lovey-dovey
+That means we...are this \"lovey-dovey
 couple\", yes?");
         MsgDisp("主人公","Lovey-dovey couple?");
         ChEye(5,4);
@@ -82,7 +82,7 @@ surprisingly stubborn side...)");
     ChEye(5,2);
     ChMotion(5,4);
     VoicePlay("B040517002_05_080");
-    MsgDisp("Hiiragi","I wonder why it's mixed in... the natto.");
+    MsgDisp("Hiiragi","I wonder why it's mixed in...the natto.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

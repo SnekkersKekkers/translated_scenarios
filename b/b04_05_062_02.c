@@ -63,7 +63,7 @@ returned.");
         ChMotion(5,0);
         VoicePlay("B040506202_05_050");
         MsgDisp("Hiiragi","Your actions are unpredictable to me.");
-        MsgDisp("主人公","Umm... did I surprise you?");
+        MsgDisp("主人公","Umm...did I surprise you?");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040506202_05_060");
@@ -89,7 +89,7 @@ nice voice!");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040506202_05_090");
-        MsgDisp("Hiiragi","... T-Thank you.
+        MsgDisp("Hiiragi","...T-Thank you.
 That wasn't my intention though.");
         ChEye(5,4);
         ChMotion(5,0);

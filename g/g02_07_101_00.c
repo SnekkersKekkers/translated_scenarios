@@ -18,7 +18,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020710100_07_020");
-MsgDisp("Mikage","Pink... my thoughts are screwed up.
+MsgDisp("Mikage","Pink...my thoughts are screwed up.
 Seriously, at the level of a high school
 boy.");
 ChEye(7,0);

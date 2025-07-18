@@ -31,18 +31,18 @@ Well, I'll see you later?");
     case 5:
     VoicePlay("J030500001_05_050");
     MsgDisp("Hiiragi","...Oh...no, it's difficult that day.");
-    MsgDisp("主人公","Oh ... you're busy.");
+    MsgDisp("主人公","Oh ...you're busy.");
     VoicePlay("J030500001_05_060");
     MsgDisp("Hiiragi","Sorry, I just can not take it off.");
     MsgDisp("主人公","It's fine!
 I'll ask you out again.");
     VoicePlay("J030500001_05_070");
-    MsgDisp("Hiiragi","Yes, next time I'll be sure to say ... I
+    MsgDisp("Hiiragi","Yes, next time I'll be sure to say ...I
 prefer not to make promises I can't keep.
 Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Ugh... too bad!)");
+    MsgDisp("主人公","(Ugh...too bad!)");
     break ;
     default :
     DbgAssert(1);

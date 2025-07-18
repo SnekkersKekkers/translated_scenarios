@@ -77,7 +77,7 @@ What am I saying...");
     VoicePlay("O030400000_04_070");
     MsgDisp("Nanatsumori","I get kinda happy and kinda nervous when
 we get along like this. My heart won't
-stop pounding... I'm in trouble.");
+stop pounding...I'm in trouble.");
     MsgDisp("主人公","(｛七ツ森＊｝...?
 I'm so happy we won first place!)");
     break ;

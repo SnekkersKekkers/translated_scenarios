@@ -44,7 +44,7 @@ ChOpen(3,35,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("A020330100_03_030");
 MsgDisp("Honda","I'm Honda Iku.
 I'll teach you anything you need, okay?");
-MsgDisp("主人公","(｛本多＊＊｝... I feel like I've...)");
+MsgDisp("主人公","(｛本多＊＊｝...I feel like I've...)");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
@@ -83,8 +83,8 @@ Here, you come with me too.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(｛本多＊＊｝... He's talking about
-complicated things... We'll probably
+MsgDisp("主人公","(｛本多＊＊｝...He's talking about
+complicated things...We'll probably
 get to see each other at work and in
 school too!)");
 MsgClose();

@@ -39,7 +39,7 @@ ChMotion(3,0,1);
 VoicePlay("B360316000_03_040");
 MsgDisp("Honda","Uh, yeah.
 Actually, I felt a bit like that earlier.");
-MsgDisp("主人公","Earlier... when we were with everyone?");
+MsgDisp("主人公","Earlier...when we were with everyone?");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);

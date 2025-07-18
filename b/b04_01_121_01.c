@@ -35,7 +35,7 @@ cars.");
     ChMotion(1,0);
     VoicePlay("B040112101_01_020");
     MsgDisp("Kazama","Right? People trying to get rid of junk,
-people who are real salesmen... There's
+people who are real salesmen...There's
 all kinds here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -49,7 +49,7 @@ all kinds here.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040112101_01_030");
     MsgDisp("Kazama","You think so? Grandpa might find it an
-interesting venture, but Dad... Might
+interesting venture, but Dad...Might
 think it's too much trouble.");
     MsgDateResultDisp();
     break ;

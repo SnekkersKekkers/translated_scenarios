@@ -9,7 +9,7 @@ ChMotion(5,4);
 VoicePlay("B040521102_05_000");
 MsgDisp("Hiiragi","There are elderly married couples coming
 here too.");
-MsgSel("I wonder if it's a date... that's wonderful.","It's definitely a place of memories for them.","Maybe they used to work here a long time ago?");
+MsgSel("I wonder if it's a date...that's wonderful.","It's definitely a place of memories for them.","Maybe they used to work here a long time ago?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

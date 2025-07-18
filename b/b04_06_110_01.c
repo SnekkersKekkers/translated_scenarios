@@ -30,7 +30,7 @@ too.");
     ChCheek(6,5);
     VoicePlay("B040611001_06_020");
     MsgDisp("Himuro","Ah, right. But, if I was given the choice,
-the sea would be better. Here... we're in
+the sea would be better. Here...we're in
 closer proximity.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -57,7 +57,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100801_01_050");
-MsgDisp("Kazama","... But, well.
+MsgDisp("Kazama","...But, well.
 You were right.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
@@ -73,7 +73,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100801_01_070");
-MsgDisp("Kazama","Heh... Surprisingly, you really are paying
+MsgDisp("Kazama","Heh...Surprisingly, you really are paying
 attention to me. You pass.");
 MsgDisp("主人公","(Umm...
 I guess I should be quiet about the fact I

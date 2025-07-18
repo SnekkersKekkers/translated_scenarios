@@ -38,7 +38,7 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D100110000_01_040");
-MsgDisp("Kazama","... That's it.
+MsgDisp("Kazama","...That's it.
 That's a good interpretation.
 Thanks.");
 MsgClose();

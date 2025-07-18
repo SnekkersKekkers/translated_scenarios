@@ -19,7 +19,7 @@ VoicePlay("B070700000_07_510");
 MsgDisp("Mikage","I think the reason I'm here, talking to
 you now is thanks to the living things
 that have influenced my life so far.");
-MsgDisp("主人公","Living... things?");
+MsgDisp("主人公","Living...things?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -48,7 +48,7 @@ ChMotion(7,1);
 VoicePlay("B070700000_07_550");
 MsgDisp("Mikage","Maybe it's close for me?");
 MsgDisp("主人公","(I feel like I've seen a surprising side
-to ｛御影＊＊｝... )");
+to ｛御影＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510200_05_000");
-MsgDisp("Hiiragi","... This place feels really comfortable.
+MsgDisp("Hiiragi","...This place feels really comfortable.
 Makes me want to stay here forever.");
 MsgDisp("主人公","Yeah.
 But this is the fireflies home, you know?");
@@ -38,7 +38,7 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020510200_05_070");
 MsgDisp("Hiiragi","Are you prepared");
-MsgDisp("主人公","(Moving our relationship forwards... what
+MsgDisp("主人公","(Moving our relationship forwards...what
 could he mean...?)");
 BGMStop();
 MsgClose();

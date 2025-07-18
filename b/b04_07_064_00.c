@@ -52,7 +52,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B040706400_07_060");
-MsgDisp("Mikage","Three... two... one...");
+MsgDisp("Mikage","Three...two...one...");
 SEPlay("EV_SE_022",0.2);
 Wait(30,0);
 MsgDisp("主人公","You were right!

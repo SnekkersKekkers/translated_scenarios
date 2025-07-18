@@ -44,7 +44,7 @@ Of course I want to go, but...");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("F010300006_03_030");
-    MsgDisp("Honda","Pupu... Sorry that you went to the trouble
+    MsgDisp("Honda","Pupu...Sorry that you went to the trouble
 of inviting me. Next time for sure!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

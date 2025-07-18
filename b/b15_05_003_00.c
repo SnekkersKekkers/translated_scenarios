@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(5,255,2,2,2,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150500300_05_000");
-MsgDisp("Hiiragi","Phewー... you're a more nimble,
+MsgDisp("Hiiragi","Phewー...you're a more nimble,
 mischievous cat than I thought.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
@@ -16,7 +16,7 @@ VoicePlay("B150500300_05_020");
 MsgDisp("Hiiragi","Do you understand?
 I'm a guy.");
 MsgDisp("主人公","Y-Yeah.
-... I'm a girl?");
+...I'm a girl?");
 ChEye(5,3);
 VoicePlay("B150500300_05_030");
 MsgDisp("Hiiragi","Eh...");
@@ -32,7 +32,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 ChCheek(5,0);
 VoicePlay("B150500300_05_050");
-MsgDisp("Hiiragi","Haa... understand?
+MsgDisp("Hiiragi","Haa...understand?
 The me you know is only one part.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

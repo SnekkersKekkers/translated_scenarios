@@ -21,7 +21,7 @@ But your model sense is off.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Haa... I failed... I should have
+MsgDisp("主人公","(Haa...I failed...I should have
 practiced more in preparation.)");
 MsgClose();
 ScrFadeOut(0);

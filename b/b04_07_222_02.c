@@ -90,7 +90,7 @@ Just be grateful for today.");
         ChMotion(7,2);
         VoicePlay("B040722202_07_080");
         MsgDisp("Mikage","This month is a tight one.
-... What are you trying to say?");
+...What are you trying to say?");
         MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s field
 trips are fun.)");
         break ;

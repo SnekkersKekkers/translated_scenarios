@@ -63,7 +63,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0,1);
 VoicePlay("B360618001_06_070");
-MsgDisp("Himuro","It's nothing... I just think from an
+MsgDisp("Himuro","It's nothing...I just think from an
 outside perspective, that might've looked
 like a lover's quarrel.");
 ChEye(6,0);

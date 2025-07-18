@@ -45,7 +45,7 @@ Then, let's bet on one drink.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040615202_06_030");
-        MsgDisp("Himuro","... Hm.
+        MsgDisp("Himuro","...Hm.
 How boring.");
         MsgDateResultDisp();
         break ;
@@ -100,7 +100,7 @@ home.");
         VoicePlay("B040615202_06_100");
         MsgDisp("Himuro","...Your hand.");
         MsgDisp("主人公","eh!
-Y-Yeah... okay.");
+Y-Yeah...okay.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);

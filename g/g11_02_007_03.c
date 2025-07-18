@@ -78,7 +78,7 @@ MsgClose();
 ChOpen(2,41,5,5,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200703_02_060");
-MsgDisp("Sassa","Huh... there's no one there...
+MsgDisp("Sassa","Huh...there's no one there...
 Rather, what did they mean by lovey dovey?");
 MsgDisp("主人公","Umm...");
 ChEye(2,0);

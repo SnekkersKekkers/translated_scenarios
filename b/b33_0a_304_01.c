@@ -37,7 +37,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30401_06_010");
-MsgDisp("Himuro","Energy, huh... Nozomu-senpai is
+MsgDisp("Himuro","Energy, huh...Nozomu-senpai is
 surprisingly understanding of
 non-scientific things isn't he?");
 ChEye(2,0);

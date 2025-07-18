@@ -6,7 +6,7 @@ MsgClose();
 ChOpen(2,255,5,0,0,#1,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150200500_02_000");
-MsgDisp("Sassa","... It popped just now.
+MsgDisp("Sassa","...It popped just now.
 The balloon.");
 MsgDisp("主人公","｛颯砂＊＊｝, are you alright?");
 ChEye(2,2);
@@ -22,7 +22,7 @@ VoicePlay("B150200500_02_020");
 MsgDisp("Sassa","Even though I said I would retaliate this
 time, instead of stopping, you just
 escalated it.");
-MsgDisp("主人公","Ah... sorry.");
+MsgDisp("主人公","Ah...sorry.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);

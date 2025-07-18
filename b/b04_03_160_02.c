@@ -33,7 +33,7 @@ a lot of them together.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040316002_03_020");
-        MsgDisp("Honda","Yeah, it's completely out of sight... hang
+        MsgDisp("Honda","Yeah, it's completely out of sight...hang
 on, what are you planning to do?");
         MsgDateResultDisp();
         break ;
@@ -45,14 +45,14 @@ on, what are you planning to do?");
         ChMotion(3,0);
         ChCheek(3,3);
         VoicePlay("B040316002_03_030");
-        MsgDisp("Honda","Yeah, it's completely out of sight... just
+        MsgDisp("Honda","Yeah, it's completely out of sight...just
 the two of us.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,5);
         ChCheek(3,8);
         VoicePlay("B040316002_03_040");
-        MsgDisp("Honda","Hah... my heart's pounding again.");
+        MsgDisp("Honda","Hah...my heart's pounding again.");
         MsgDisp("主人公","Are you okay?");
         ChEye(3,0);
         ChMouth(3,0);
@@ -60,7 +60,7 @@ the two of us.");
         ChEyeOpenLevel(3,0);
         ChCheek(3,0);
         VoicePlay("B040316002_03_050");
-        MsgDisp("Honda","Phew... yeah, I'm fine.");
+        MsgDisp("Honda","Phew...yeah, I'm fine.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,4);
@@ -84,7 +84,7 @@ There's no point hiding it.");
 Let's just go to the private booth!");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(3);
-        MsgDisp("主人公","(Saying something like that... of course
+        MsgDisp("主人公","(Saying something like that...of course
 that'll stay on my mind...)");
         MsgClose();
         ScrFadeOut(0);

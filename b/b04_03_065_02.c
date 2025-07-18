@@ -66,7 +66,7 @@ Can you try shutting your eyes?");
         SEPlay("EV_SE_543");
         SEWait();
         MsgDisp("主人公","Wah!
-Huh... something smells nice.");
+Huh...something smells nice.");
         EnvPlay("SE_ENV_BG_WF720_CO2",0.5);
         ScrFadeIn(0);
         ChEye(3,0);
@@ -74,7 +74,7 @@ Huh... something smells nice.");
         ChMotion(3,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040306502_03_050");
-        MsgDisp("Honda","... Yeah, it's a nice smell.
+        MsgDisp("Honda","...Yeah, it's a nice smell.
 This is lemongrass.");
         ChEyeOpenLevel(3,#1);
         MsgDisp("主人公","Lemongrass?");

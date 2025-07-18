@@ -49,7 +49,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630004_06_070");
 MsgDisp("Himuro","But it won't last long.");
-MsgDisp("主人公","Eh... why?");
+MsgDisp("主人公","Eh...why?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,2);
@@ -72,7 +72,7 @@ VoicePlay("G020630004_06_100");
 MsgDisp("Himuro","Like how Mr. Kojiro and the others
 wouldn't understand what you and I are
 talking about right now.");
-MsgDisp("主人公","(That's true, but... something about that
+MsgDisp("主人公","(That's true, but...something about that
 doesn't sit right...)");
 BGMStop();
 MsgClose();

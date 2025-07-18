@@ -64,7 +64,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100240001_06_040");
-MsgDisp("Himuro","... Understood.
+MsgDisp("Himuro","...Understood.
 If that's the case.");
 ChEye(2,0);
 ChMouth(2,4);

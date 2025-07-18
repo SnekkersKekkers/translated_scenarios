@@ -23,7 +23,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Thank you very much!");
     SEStop("EV_SE_DOOR_014",2);
     MsgDisp("主人公","Alright, let's clean up.
-... Hm?
+...Hm?
 What's this piece of paper?");
     MsgDisp("主人公","If it was left, it's probably trash.
 Well, into the garbage bag...");
@@ -58,7 +58,7 @@ Just barely safe.");
     VoicePlay("I360400006_04_040");
     MsgDisp("Nanatsumori","I wrote a note on the back of it, didn't
 you see it?");
-    MsgDisp("主人公","The back... ah, you're right.
+    MsgDisp("主人公","The back...ah, you're right.
 Sorry...");
     ChEye(4,2);
     ChMouth(4,4);
@@ -89,7 +89,7 @@ Well, see ya.");
     MsgDisp("主人公","Thank you very much!");
     SEStop("EV_SE_DOOR_014",2);
     MsgDisp("主人公","Alright, let's clean up.
-... Hm?
+...Hm?
 What's this piece of paper?");
     MsgDisp("主人公","Something ｛七ツ森＊｝
 left? But, if it's still here, I guess
@@ -122,7 +122,7 @@ Thank goodness...");
     VoicePlay("I360400006_04_090");
     MsgDisp("Nanatsumori","Check out the back.");
     MsgDisp("主人公","The back?
-Ah... there's a time and place.");
+Ah...there's a time and place.");
     VoicePlay("I360400006_04_100");
     MsgDisp("Nanatsumori","Right.
 It's an important note.");

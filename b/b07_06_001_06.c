@@ -1,6 +1,6 @@
 MsgDisp("主人公","｛氷室＊＊｝,
 ｛風真＊＊｝,
-｛颯砂＊＊｝ and I... will always
+｛颯砂＊＊｝ and I...will always
 continue to get along this well right?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -12,7 +12,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_400");
-MsgDisp("Himuro","Hmm... well, there's no way to know.");
+MsgDisp("Himuro","Hmm...well, there's no way to know.");
 MsgDisp("主人公","I see.");
 ChEye(6,0);
 ChMouth(6,0);

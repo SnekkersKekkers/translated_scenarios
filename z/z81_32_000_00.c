@@ -18,12 +18,12 @@ I'm sorry!");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200000_32_010");
-MsgDisp("VP Himuro","... It'll be too late for apologies if you
+MsgDisp("VP Himuro","...It'll be too late for apologies if you
 get hurt.
 Take care from this point on.");
 MsgDisp("主人公","Yes, sir.");
 MsgDisp("主人公","(...Ah. There's dust on Himuro-sensei's
-necktie... Let's get that for him.)");
+necktie...Let's get that for him.)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChLayout(0);
@@ -53,7 +53,7 @@ ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("Z813200000_32_040");
 MsgDisp("VP Himuro","Why the surprise? I have taught here for
 years. I've seen many an energetic student
-such as yourself... Ahem.");
+such as yourself...Ahem.");
 MsgDisp("主人公","I see...
 But, skinship is still too difficult for
 me.");
@@ -61,7 +61,7 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("Z813200000_32_050");
-MsgDisp("VP Himuro","Hm... very well.
+MsgDisp("VP Himuro","Hm...very well.
 I will be a practical model for your
 studies, if you'd like.");
 MsgSel("I'll be counting on you!","I'll figure it out myself.");

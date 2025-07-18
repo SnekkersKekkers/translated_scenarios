@@ -3,7 +3,7 @@ ChMouth(31,3);
 ChMotion(31,0);
 ScrFadeIn(0);
 VoicePlay("P143100001_31_000");
-MsgDisp("Goro","... Ara?
+MsgDisp("Goro","...Ara?
 Why are you here?");
 MsgDisp("主人公","Ah, Goro-sensei!
 Congratulations on reaching the goal!");

@@ -79,7 +79,7 @@ MsgClose();
 ChClose(6);
 ChPosition(33,0);
 VoicePlay("B110600000_06_050");
-MsgDisp("Himuro","... Hello.
+MsgDisp("Himuro","...Hello.
 Is this the police?");
 ChEye(33,2);
 ChMouth(33,2);
@@ -96,7 +96,7 @@ Wait(60);
 MsgClose();
 ChOpen(6,253,2,2,0,0,#1,0,0);
 VoicePlay("B110600000_06_060");
-MsgDisp("Himuro","Haa... if he's running away, he must know
+MsgDisp("Himuro","Haa...if he's running away, he must know
 he's being a nuisance.");
 MsgDisp("主人公","｛氷室＊＊｝, thank you.");
 ChEye(6,0);

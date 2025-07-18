@@ -22,7 +22,7 @@ ChMotion(6,0);
 VoicePlay("B070600002_06_180");
 MsgDisp("Himuro","I mean, normally people wouldn't come
 approach would they?
-... Me that is.");
+...Me that is.");
 MsgDisp("主人公","Y-Yeah...maybe?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -36,7 +36,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_200");
 MsgDisp("Himuro","They weren't barging in savagely with
-their shoes on... but it felt like they
+their shoes on...but it felt like they
 were relaxing in my room without me even
 noticing");
 MsgDisp("主人公","Hehe!
@@ -50,7 +50,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600002_06_220");
-MsgDisp("Himuro","... But I don't think it's a bad thing.
+MsgDisp("Himuro","...But I don't think it's a bad thing.
 I'm not going to kick them out now either.");
 MsgDisp("主人公","(I feel like ｛柊＊＊＊｝ and
 ｛御影＊＊｝ are good

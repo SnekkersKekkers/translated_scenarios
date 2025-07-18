@@ -52,7 +52,7 @@ ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("D010600600_34_030");
 MsgDisp("Live","What a nice cutback!
-One, two, ... another one, he's going
+One, two, ...another one, he's going
 crazy!");
 SEPlay("EV_SE_793",0.2,0.5);
 SEPlay("EV_SE_CLAP_004",0,0.5);
@@ -145,7 +145,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D010600600_06_080");
-MsgDisp("Himuro","... Geez.
+MsgDisp("Himuro","...Geez.
 Wait there.
 I'll be right back.");
 MsgClose();

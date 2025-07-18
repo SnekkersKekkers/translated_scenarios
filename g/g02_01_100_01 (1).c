@@ -3,7 +3,7 @@ ChOpen(1,255,1,4,2,0,#1,0,0);
 Wait(12,0);
 ChEye(1,0);
 VoicePlay("G020110001_01_000");
-MsgDisp("Kazama","... This is the Home of Fireflies, right?
+MsgDisp("Kazama","...This is the Home of Fireflies, right?
 Doesn't it kinda smell like roses?");
 MsgDisp("主人公","Huh...?");
 ChEye(1,0);
@@ -66,7 +66,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110001_01_090");
-MsgDisp("Kazama","... Huh?
+MsgDisp("Kazama","...Huh?
 It doesn't smell like roses anymore.");
 MsgDisp("主人公","(I can't belive I'm the reason
 ｛風真＊＊｝ likes sweets...

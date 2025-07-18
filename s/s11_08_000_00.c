@@ -30,7 +30,7 @@ In the end, it's just so mediocre.");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("S110800000_08_040");
-MsgDisp("Shirahane","... Mmmm.
+MsgDisp("Shirahane","...Mmmm.
 If you get too greedy, you'll regret it—");
 ChEye(8,2);
 ChMouth(8,4);

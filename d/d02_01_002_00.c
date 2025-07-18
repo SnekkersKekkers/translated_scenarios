@@ -16,7 +16,7 @@ SEWait();
 ChOpen(36,254,0,0,1,#1,#1,0,0);
 VoicePlay("D020100200_36_000");
 MsgDisp("Ryota's Grandpa","Welcome.
-... Oh, you're the reporter.");
+...Oh, you're the reporter.");
 MsgDisp("主人公","I wanted to thank you for all your help
 last time. Ah, I didn't come to interview
 you today...");
@@ -100,7 +100,7 @@ ChEye(36,1);
 ChMouth(36,0);
 VoicePlay("D020100200_36_080");
 MsgDisp("Ryota's Grandpa","Then it should be fine.
-... Right?");
+...Right?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

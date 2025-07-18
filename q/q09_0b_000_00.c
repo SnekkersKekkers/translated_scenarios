@@ -58,7 +58,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q090B00000_01_030");
-MsgDisp("Kazama","... Oh well.
+MsgDisp("Kazama","...Oh well.
 Let's go normally.");
 ChEye(4,0);
 VoicePlay("Q090B00000_04_030");

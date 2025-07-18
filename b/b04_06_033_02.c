@@ -51,7 +51,7 @@ it's kind of scary.");
         ChMouth(6,2);
         ChMotion(6,0);
         VoicePlay("B040603302_06_040");
-        MsgDisp("Himuro","And... that goes for you too.");
+        MsgDisp("Himuro","And...that goes for you too.");
         MsgDisp("主人公","Eh, me?");
         ChEye(6,0);
         ChMouth(6,0);

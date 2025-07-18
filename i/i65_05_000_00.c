@@ -71,7 +71,7 @@ late.");
     ChMotion(5,0);
     VoicePlay("I650500000_05_070");
     MsgDisp("Hiiragi","I'm glad to have met with you here.
-Haa... let us both work hard.");
+Haa...let us both work hard.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

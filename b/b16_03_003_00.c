@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     NSSEye(3,3);
     NSSMouth(3,3);
     VoicePlay("B160300300_03_010");
-    MsgDisp("Honda","... Pfft!
+    MsgDisp("Honda","...Pfft!
 Ah, I lost.");
     break ;
     case 1:

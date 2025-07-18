@@ -17,7 +17,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360350401_03_010");
-MsgDisp("Honda","Mii-kun would probably forgive us... but
+MsgDisp("Honda","Mii-kun would probably forgive us...but
 Ryou-kun might get upset.");
 MsgDisp("主人公","Really?");
 ChEye(3,0);

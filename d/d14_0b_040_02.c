@@ -93,7 +93,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("D140B04002_03_070");
-MsgDisp("Honda","Ah... that's right!
+MsgDisp("Honda","Ah...that's right!
 That was close.");
 MsgDisp("主人公","(He was planning on buying some sweet
 bread huh...

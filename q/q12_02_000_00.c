@@ -86,7 +86,7 @@ I also enjoyed looking with you,
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("Q120200000_02_080");
-    MsgDisp("Sassa","... Ah, wait.
+    MsgDisp("Sassa","...Ah, wait.
 There's one thing left.");
     MsgDisp("主人公","Eh, what?");
     ChEye(2,0);

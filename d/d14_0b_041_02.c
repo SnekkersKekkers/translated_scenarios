@@ -12,7 +12,7 @@ MsgDisp("","　　　　　　　　　　 ・
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B04102_01_000");
-MsgDisp("Kazama","Honda... are you content?");
+MsgDisp("Kazama","Honda...are you content?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

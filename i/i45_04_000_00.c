@@ -94,7 +94,7 @@ I'm happy I got complimented!)");
     VoicePlay("I450400000_04_090");
     MsgDisp("Nanatsumori","｛主人公｝.
 Good work.");
-    MsgDisp("主人公","Ah... you too,
+    MsgDisp("主人公","Ah...you too,
 ｛七ツ森＊｝.");
     ChEye(4,4);
     ChMouth(4,4);

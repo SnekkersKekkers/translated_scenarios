@@ -102,7 +102,7 @@ Too bad.");
     MsgDisp("Kazama","｛主人公｝.
 Do you prefer the left or right?");
     MsgDisp("主人公","Hm, ｛風真＊＊｝?
-Um... what do you mean?");
+Um...what do you mean?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -119,7 +119,7 @@ have a partner...");
     VoicePlay("O030101000_01_100");
     MsgDisp("Kazama","Yeah, I do.
 I've had you for the past 10 years.");
-    MsgDisp("主人公","Ah... hehe, I see.
+    MsgDisp("主人公","Ah...hehe, I see.
 Looking forward to it!");
     ChEyeOpenLevel(1,0);
     Wait(8,0);

@@ -79,7 +79,7 @@ MsgDisp("主人公","Hm?");
 NSSEye(1,2);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_190");
-MsgDisp("Kazama","...... You're way too carefree.");
+MsgDisp("Kazama","......You're way too carefree.");
 NSSEye(1,0);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_200");
@@ -106,7 +106,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_220");
 MsgDisp("Kazama","Hahaha.
 Did you just do that on purpose?
-... Yeah, that would make sense.");
+...Yeah, that would make sense.");
 MsgDisp("主人公","Geez.
 There's no way I would just step into a
 puddle on purpose...");

@@ -129,7 +129,7 @@ Now I finally understand.");
         MsgDisp("Honda","I was getting carried away all by myself
 again. That's why I wasn't prepared for
 the rejection.");
-        MsgDisp("主人公","Uh... sorry");
+        MsgDisp("主人公","Uh...sorry");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,1);

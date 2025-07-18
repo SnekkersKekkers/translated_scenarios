@@ -43,7 +43,7 @@ StlOpen("ev_06_16");
 ScrFadeIn(0);
 VoicePlay("T020601000_06_300");
 MsgDisp("Himuro","I won't let you go again.
-And you too... don't let me go.");
+And you too...don't let me go.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

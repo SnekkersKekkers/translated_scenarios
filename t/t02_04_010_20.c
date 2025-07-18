@@ -21,7 +21,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("T020401000_04_150");
-MsgDisp("Nanatsumori","... That.
+MsgDisp("Nanatsumori","...That.
 When you make that face, everything turns
 into happiness.");
 ChMotion(4,2,1);

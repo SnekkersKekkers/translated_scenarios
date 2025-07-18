@@ -67,7 +67,7 @@ Isn't that overkill?");
         ChMotion(7,2);
         VoicePlay("B040715102_07_060");
         MsgDisp("Mikage","I see.
-Then... next time?");
+Then...next time?");
         MsgDisp("主人公","Ah...okay.");
         ChEye(7,2);
         ChMouth(7,0);

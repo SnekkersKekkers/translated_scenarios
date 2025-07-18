@@ -24,7 +24,7 @@ ChMotion(5,4);
 VoicePlay("B020502000_05_030");
 MsgDisp("Hiiragi","This is a frequent topic of discussion
 among us juniors, and you even got his
-T-shirt... I am a bit jealous.");
+T-shirt...I am a bit jealous.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B020502000_05_040");

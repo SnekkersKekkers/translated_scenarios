@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040602302_06_010");
     MsgDisp("Himuro","I thought as much.
 You really are simple.
-... Well, I'm also simple.");
+...Well, I'm also simple.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

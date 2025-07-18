@@ -57,7 +57,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110303_01_070");
-MsgDisp("Kazama","... Mm?
+MsgDisp("Kazama","...Mm?
 Actually, hasn't one of them been hanging
 out in front of us for a while now?");
 MsgDisp("主人公","Wah!

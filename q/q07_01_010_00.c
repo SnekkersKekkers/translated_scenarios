@@ -4,7 +4,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message.
-It's from ｛風真＊＊｝... )");
+It's from ｛風真＊＊｝...)");
 MsgDisp("主人公","(\"After the lights go off, meet me in the
 lobby.\"...Just that? I wonder what he's up
 to...)");
@@ -60,7 +60,7 @@ BGOpen("sc810",2);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is
-up to... If we get caught by a teacher,
+up to...If we get caught by a teacher,
 we'll get punished.)");
 VoiceEVSPlay(1);
 VoicePlay("Q070101000_01_000");
@@ -119,7 +119,7 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("Q070101000_07_030");
-MsgDisp("Mikage","Uh... that's certainly something.
+MsgDisp("Mikage","Uh...that's certainly something.
 But give up, and return, for your sake.");
 ChEye(1,2);
 ChMouth(1,0);
@@ -170,7 +170,7 @@ StlEye(1,1);
 StlMouth(1,1);
 BGMPlay("BGM_C01_RYOUTA_D",0.01);
 ScrFadeIn(4,120);
-MsgDisp("主人公","Wow... so beautiful∈");
+MsgDisp("主人公","Wow...so beautiful∈");
 StlMouth(1,0);
 VoicePlay("Q070101000_01_070");
 MsgDisp("Kazama","Yeah, we should thank Mikage-sensei.");

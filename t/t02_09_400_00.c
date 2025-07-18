@@ -38,7 +38,7 @@ ChEyeOpenLevel(9,0);
 VoicePlay("T020940000_09_040");
 MsgDisp("Kuya","Well...
 I accidentally ended up at Hanegasaki
-lighthouse... so I hurried over here.");
+lighthouse...so I hurried over here.");
 ChEye(9,0);
 ChEyeOpenLevel(9,10);
 MsgDisp("主人公","Eh...?");

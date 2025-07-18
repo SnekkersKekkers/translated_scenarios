@@ -59,12 +59,12 @@ VoicePlay("E010340000_22_040");
 MsgDisp("Hikaru","Even if Dahon sympathizes with me, it's a
 bit weird...
 What do you think, Mari?");
-MsgDisp("主人公","Well... both are unique I like them both.");
+MsgDisp("主人公","Well...both are unique I like them both.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("E010340000_22_050");
-MsgDisp("Hikaru","Hmm... if Mari is okay with it, fine!
+MsgDisp("Hikaru","Hmm...if Mari is okay with it, fine!
 Dahon, I'll forgive you for calling me
 that for now.");
 ChEye(22,0);
@@ -89,7 +89,7 @@ MsgDisp("Honda","See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Chiru-chan... He's talking about
+MsgDisp("主人公","(Chiru-chan...He's talking about
 ｛みちる＊｝, right? That
 seems like it could be a problem too...)");
 MsgClose();

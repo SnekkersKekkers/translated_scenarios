@@ -106,7 +106,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("E010540000_22_070");
-MsgDisp("Hikaru","Wow... It's a premium ticket. Should I ask
+MsgDisp("Hikaru","Wow...It's a premium ticket. Should I ask
 uncle if it's okay for me, Mari, and sis
 to go too?");
 MsgDisp("主人公","Eh, is it okay?");

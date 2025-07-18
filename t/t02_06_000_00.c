@@ -69,7 +69,7 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 Wait(60,0);
 VoicePlay("T020600000_06_090");
-MsgDisp("Himuro","... But hey.
+MsgDisp("Himuro","...But hey.
 You're right here, in front of me.");
 MsgDisp("主人公","Oh...");
 ChEye(6,4);
@@ -148,4 +148,4 @@ ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020600000_06_190");
-MsgDisp("Himuro","Please... be my girlfriend.");
+MsgDisp("Himuro","Please...be my girlfriend.");

@@ -14,7 +14,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     ChMouth(1,0);
     VoicePlay("W080100003_01_010");
-    MsgDisp("Kazama","... Let's go.");
+    MsgDisp("Kazama","...Let's go.");
     break ;
     case 4:
     case 5:

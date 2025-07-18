@@ -135,7 +135,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("A020410000_04_150");
-MsgDisp("Nanatsumori","Sorr-... My bad too. I've been yelling
+MsgDisp("Nanatsumori","Sorr-...My bad too. I've been yelling
 too.");
 ChEye(4,2);
 ChMouth(4,0);
@@ -177,7 +177,7 @@ ChMotion(4,4,1);
 VoicePlay("A020410000_04_210");
 MsgDisp("Nanatsumori","Shhh!!
 Not here∋");
-MsgDisp("主人公","Sorry!! I just... See you later then,
+MsgDisp("主人公","Sorry!! I just...See you later then,
 ｛七ツ森＊｝.");
 ChEye(4,2);
 ChMouth(4,2);

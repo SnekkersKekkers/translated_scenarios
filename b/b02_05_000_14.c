@@ -10,7 +10,7 @@ ChMotion(5,3);
 VoicePlay("B020500014_05_010");
 MsgDisp("Hiiragi","Did you know? They call this a matching
 couple. I never thought this would happen
-to me... But with you, many fun things
+to me...But with you, many fun things
 happen.");
 MsgDisp("主人公","(Hehe.
 ｛柊＊＊＊｝ and I seem to have

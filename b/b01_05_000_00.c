@@ -42,7 +42,7 @@ Well, let's be off.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("B010500000_05_030");
-    MsgDisp("Hiiragi","... Thank goodness.
+    MsgDisp("Hiiragi","...Thank goodness.
 It doesn't seem like anything happened to
 you.");
     MsgDisp("主人公","Urgh, I'm sorry...");

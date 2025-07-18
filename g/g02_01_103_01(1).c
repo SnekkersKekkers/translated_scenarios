@@ -84,7 +84,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020110301_01_100");
-MsgDisp("Kazama","Why do you remember that∋ ... geez, I had
+MsgDisp("Kazama","Why do you remember that∋ ...geez, I had
 a self-reflection session alone after I
 went home.");
 ChEye(1,2);

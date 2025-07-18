@@ -43,7 +43,7 @@ VoicePlay("B110800002_08_010");
 MsgDisp("Shirahane","It's no good, I don't understand.
 Can you translate?");
 MsgDispSksp(0);
-MsgDisp("主人公","Ah... sorry.
+MsgDisp("主人公","Ah...sorry.
 I also wasn't really listening to him
 properly either.");
 MsgDispSksp(1,5);

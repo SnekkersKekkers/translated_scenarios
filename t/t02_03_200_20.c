@@ -5,7 +5,7 @@ ChMouth(3,4);
 ChEyeOpenLevel(3,0);
 ChCheek(3,10);
 VoicePlay("T020320000_03_160");
-MsgDisp("Honda","... Haa, ...
+MsgDisp("Honda","...Haa, ...
 I'm happy.
 I wonder what this feeling is...");
 MsgDisp("主人公","I'm happy too.

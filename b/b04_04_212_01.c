@@ -45,7 +45,7 @@ Cute.");
     VoicePlay("B040421201_04_030");
     MsgDisp("Nanatsumori","Alright!
 Then, let's choose carefully.
-That's right... if it's with you...");
+That's right...if it's with you...");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

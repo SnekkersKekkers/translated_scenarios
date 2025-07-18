@@ -23,7 +23,7 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102110002_21_020");
 MsgDisp("Michiru","Um?
-... This.");
+...This.");
 MsgDisp("主人公","A manga?");
 VoicePlay("F102110002_21_030");
 MsgDisp("Michiru","Right.

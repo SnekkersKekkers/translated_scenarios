@@ -3,7 +3,7 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("X200D00100_21_000");
 MsgDisp("Michiru","Nothing is impossible.
-If it's Mari now... she can do it!");
+If it's Mari now...she can do it!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

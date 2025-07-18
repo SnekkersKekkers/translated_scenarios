@@ -30,7 +30,7 @@ VoicePlay("P740400005_04_030");
 MsgDisp("Nanatsumori","Right.
 You just need to look perfect when you
 become a bride.");
-MsgDisp("主人公","Hehe... yes!");
+MsgDisp("主人公","Hehe...yes!");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);

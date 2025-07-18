@@ -62,7 +62,7 @@ much?");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040330002_03_040");
-        MsgDisp("Honda","... I see.
+        MsgDisp("Honda","...I see.
 You really dislike them that much?");
         MsgDisp("主人公","No, it's just that I'm not very good with
 them.");
@@ -102,7 +102,7 @@ That's the positive flow.");
         MsgDisp("Honda","The people with whom this flow works
 smoothly are the ones you're compatible
 with. So, you and I are a perfect match.");
-        MsgDisp("主人公","(Umm... is this fortune telling?)");
+        MsgDisp("主人公","(Umm...is this fortune telling?)");
         break ;
         default :
         DbgAssert(1);

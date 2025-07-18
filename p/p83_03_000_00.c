@@ -9,7 +9,7 @@ switch (ChPrmGet(3,6)){
     break ;
     case 3:
     MsgDisp("主人公","(I finished hanging up the posters, Next
-is... organizing the documents.)");
+is...organizing the documents.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -37,7 +37,7 @@ Definitely!");
     case 4:
     case 5:
     MsgDisp("主人公","(I finished hanging up the posters, Next
-is... organizing the documents.)");
+is...organizing the documents.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -53,7 +53,7 @@ Is something the matter?");
     VoicePlay("P830300000_03_040");
     MsgDisp("Honda","Nope, I was just looking for you.
 I thought we could go around together.");
-    MsgDisp("主人公","Ah... sorry?
+    MsgDisp("主人公","Ah...sorry?
 Right now I can't leave here.");
     ChEye(3,0);
     ChMouth(3,3);

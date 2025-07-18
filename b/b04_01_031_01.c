@@ -30,7 +30,7 @@ huh?");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040103101_01_020");
     MsgDisp("Kazama","I wonder just how much water pressure they
-apply to this thing... Don't get too close
+apply to this thing...Don't get too close
 to it. Come over here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

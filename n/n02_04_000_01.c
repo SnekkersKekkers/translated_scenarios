@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("N020400001_04_010");
     MsgDisp("Nanatsumori","It's surprising.
 But still impressive.");
-    MsgDisp("主人公","(Oof... that's a bit confusing, but I'm
+    MsgDisp("主人公","(Oof...that's a bit confusing, but I'm
 glad I did my best!)");
     break ;
     case 3:

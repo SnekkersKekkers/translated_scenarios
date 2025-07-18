@@ -45,7 +45,7 @@ behaviour?");
     ChCheek(8,5);
     VoicePlay("B040802201_08_030");
     MsgDisp("Shirahane","That's a bit of an exaggeration isn't it?
-.... But, that is how I feel.");
+....But, that is how I feel.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

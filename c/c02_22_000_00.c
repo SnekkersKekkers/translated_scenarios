@@ -8,10 +8,10 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 VoicePlay("C022200000_22_000");
-MsgDisp("Hikaru","... Hello, Mari.
+MsgDisp("Hikaru","...Hello, Mari.
 Did you know that disaster is brewing?");
 MsgDisp("主人公","｛ひかる＊｝.
-... Disaster?");
+...Disaster?");
 VoicePlay("C022200000_22_010");
 MsgDisp("Hikaru","Hey, do you remember being cold to any of
 the boys around you, lately?");

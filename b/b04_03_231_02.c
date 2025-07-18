@@ -135,7 +135,7 @@ yourself.)");
     ChMotion(3,5);
     VoicePlay("B040323102_03_120");
     MsgDisp("Honda","Eh∋
-You're not... serious, right?");
+You're not...serious, right?");
     MsgDateResultDisp();
     break ;
     default :

@@ -12,7 +12,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D100600000_06_010");
-MsgDisp("Himuro","What's up... not much, I guess?
+MsgDisp("Himuro","What's up...not much, I guess?
 I just saw you so I said hi.");
 MsgDisp("主人公","Oh.
 Hehe, thank you.");

@@ -49,7 +49,7 @@ I had just heard of General Store Simon...");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(｛柊＊＊＊｝ looks busy.
-... But it looks like he likes shopping?)");
+...But it looks like he likes shopping?)");
     break ;
     case 3:
     MsgClose();

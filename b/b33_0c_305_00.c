@@ -78,7 +78,7 @@ MsgDisp("Himuro","It's a bit off.
 Do it again.");
 MsgDisp("主人公","Ehh?
 ｛氷室＊＊｝, do your best?
-... Is that okay?");
+...Is that okay?");
 SEPlay("EV_SE_086");
 Wait(15,1);
 SEPlay("EV_SE_087");

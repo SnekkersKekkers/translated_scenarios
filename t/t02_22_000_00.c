@@ -62,7 +62,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("T022200000_22_080");
-MsgDisp("Hikaru","... I actually got bored when I had no
+MsgDisp("Hikaru","...I actually got bored when I had no
 hardships and it's all just happy.
 Aha▼");
 ChEye(22,0);
@@ -88,7 +88,7 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_110");
 MsgDisp("Hikaru","Really...thank you.");
-MsgDisp("主人公","｛ひかる＊｝... I'm also
+MsgDisp("主人公","｛ひかる＊｝...I'm also
 happy to have had so many memories with
 ｛ひかる＊｝.");
 ChEye(22,2);
@@ -121,7 +121,7 @@ ChMotion(22,4,1);
 VoicePlay("T022200000_22_150");
 MsgDisp("Hikaru","I'm sorry for calling you\"Mari\" without
 permission when we first met.");
-MsgDisp("主人公","Ah... that's right.
+MsgDisp("主人公","Ah...that's right.
 Why was that?");
 ChEye(22,0);
 ChMouth(22,3);

@@ -65,7 +65,7 @@ do for our shrine visit?");
     ChMouth(8,4);
     ChMotion(8,4,1);
     VoicePlay("S120800002_08_060");
-    MsgDisp("Shirahane","... Oh no.
+    MsgDisp("Shirahane","...Oh no.
 New Years was already such a treat, how
 will I manage for the rest of the year?");
     MsgDisp("主人公","???");

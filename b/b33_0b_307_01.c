@@ -57,7 +57,7 @@ VoicePlay("B330B30701_04_020");
 MsgDisp("Nanatsumori","But if I were to buy one...
 I would get this.");
 ChMouth(1,2);
-MsgDisp("主人公","That's a... shoebill?");
+MsgDisp("主人公","That's a...shoebill?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -89,7 +89,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B330B30701_04_050");
-MsgDisp("Nanatsumori","... I've done it.
+MsgDisp("Nanatsumori","...I've done it.
 I turned on Dahon's switch.");
 ChEye(1,4);
 ChMouth(1,2);

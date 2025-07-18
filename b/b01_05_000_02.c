@@ -49,7 +49,7 @@ I wanted to see your surprised face.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B010500002_05_040");
-    MsgDisp("Hiiragi","... That face is also a good one.");
+    MsgDisp("Hiiragi","...That face is also a good one.");
     MsgDisp("主人公","Huh?");
     MsgDispSksp(1,0);
     ChEye(5,4);

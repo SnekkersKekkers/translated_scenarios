@@ -41,7 +41,7 @@ ScrFadeIn(0);
 MsgDisp("","I said that during the broadcast I
 wanted to call out your name, but
 when I said that, you made a bit of a
-strange face... why is that?");
+strange face...why is that?");
 MsgDisp("","While I was thinking about that, I
 happened to pass by the park near her
 house.");

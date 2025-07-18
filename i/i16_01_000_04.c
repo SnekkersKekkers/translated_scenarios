@@ -19,7 +19,7 @@ sooner...");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100004_01_010");
-    MsgDisp("Kazama","Hmm... If that's how you feel, it looks
+    MsgDisp("Kazama","Hmm...If that's how you feel, it looks
 like you'll be trusted with more
 responsibilities going forward.");
     MsgDisp("主人公","(I did it!

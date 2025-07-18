@@ -10,7 +10,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700014_07_000");
-MsgDisp("Mikage","That's right... the three years I spent
+MsgDisp("Mikage","That's right...the three years I spent
 with you guys really were fun.");
 MsgDisp("主人公","Yes.
 ｛御影＊＊｝, thank you
@@ -43,7 +43,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700014_07_040");
 MsgDisp("Mikage","Even little things are fine. For
-example... you managed to put up with
+example...you managed to put up with
 having the same homeroom teacher for three
 years～, right?");
 ChEye(7,0);

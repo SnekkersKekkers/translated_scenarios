@@ -2,7 +2,7 @@ BGOpen("wf100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to go home.
-... Huh?)");
+...Huh?)");
 MsgDisp("主人公","｛柊＊＊＊｝?
 What are you doing infront of the store?");
 MsgClose();

@@ -23,7 +23,7 @@ that's great.");
     ChMouth(3,0);
     ChMotion(3,5);
     VoicePlay("B040304100_03_010");
-    MsgDisp("Honda","Eh, if that was just so-so... there's
+    MsgDisp("Honda","Eh, if that was just so-so...there's
 gotta be even more amazing matches∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

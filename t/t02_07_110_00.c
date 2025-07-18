@@ -78,7 +78,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020711000_07_070");
-MsgDisp("Mikage","... Thank you.
+MsgDisp("Mikage","...Thank you.
 You always help me out like that.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -146,7 +146,7 @@ ChMouth(7,4);
 ChMotion(7,2);
 ChEyeOpenLevel(7,10);
 VoicePlay("T020711000_07_160");
-MsgDisp("Mikage","... I managed to hold it off once.
+MsgDisp("Mikage","...I managed to hold it off once.
 But in the end, I'm here, in front of you.");
 MsgDisp("主人公","｛御影＊＊｝...?");
 ChEye(7,4);

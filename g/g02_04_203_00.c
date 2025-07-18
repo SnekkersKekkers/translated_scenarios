@@ -17,7 +17,7 @@ ChEyeOpenLevel(4,#1);
 VoicePlay("G020420300_04_020");
 MsgDisp("Nanatsumori","It's like a glittery hair accessory,
 right?
-... It's pretty.");
+...It's pretty.");
 MsgDisp("主人公","Really?
 I would love to see it.");
 ChMotion(4,0,1);

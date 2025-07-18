@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040302201_03_000");
 MsgDisp("Honda","There are many types of seabirds, huh?
 Look!");
-MsgSel("Are you interested in birds?","They might sell bird feed at the store.","That's a...  gull?");
+MsgSel("Are you interested in birds?","They might sell bird feed at the store.","That's a... gull?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1,1);
     VoicePlay("B040302201_03_010");
     MsgDisp("Honda","Yeah. I like waterfowl on the coast too,
-but... when you're on a boat- look! There
+but...when you're on a boat- look! There
 are the seabirds!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

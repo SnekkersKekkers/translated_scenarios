@@ -106,7 +106,7 @@ ChNanaType(0);
 ChOpen(4,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("T020B21000_04_000");
-MsgDisp("Nanatsumori","Haa... you're finally here.");
+MsgDisp("Nanatsumori","Haa...you're finally here.");
 ChClose(4,0,30);
 ChLayout(2);
 ChNanaType(0);
@@ -223,7 +223,7 @@ ChMotion(1,0);
 ChCheek(1,7);
 VoicePlay("T020B21000_01_130");
 MsgDisp("Kazama","There's no such thing.
-... Honda, were you watching?∋");
+...Honda, were you watching?∋");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -35,7 +35,7 @@ VoicePlay("F020300002_03_030");
 MsgDisp("Honda","But it was a total bust. I checked the
 campus library and local library, and
 found neither of them are true.");
-MsgDisp("主人公","Wow... so you did that much research?");
+MsgDisp("主人公","Wow...so you did that much research?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

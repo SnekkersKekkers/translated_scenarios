@@ -33,7 +33,7 @@ switch (MsgSelRsltGet()){
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040402302_04_030");
-        MsgDisp("Nanatsumori","Hmー... A man and woman are going on a
+        MsgDisp("Nanatsumori","Hmー...A man and woman are going on a
 date, would it be an exaggeration to call
 them a cou——");
         ChEye(4,2);
@@ -46,7 +46,7 @@ they're not going out...");
         ChMotion(4,1,1);
         VoicePlay("B040402302_04_050");
         MsgDisp("Nanatsumori","No, no, how did it come to that∋
-Are you... not bothered?");
+Are you...not bothered?");
         MsgDisp("主人公","eh.
 I...");
         ChEye(4,0);

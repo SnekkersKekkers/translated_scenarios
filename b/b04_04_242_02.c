@@ -61,14 +61,14 @@ Let's take it easy.");
         MsgDisp("主人公","......");
         VoicePlay("B040424202_04_050");
         MsgDisp("Nanatsumori","......");
-        MsgDisp("主人公","... Hmm.
+        MsgDisp("主人公","...Hmm.
 Oh no, looks like I fell asleep.");
         MsgDisp("主人公","｛七ツ森＊｝ is...
 Ah, he's asleep.");
         VoicePlay("B040424202_04_060");
         MsgDisp("Nanatsumori","...Mm.");
         VoicePlay("B040424202_04_070");
-        MsgDisp("Nanatsumori","... One more bite.
+        MsgDisp("Nanatsumori","...One more bite.
 Aahn....");
         MsgDisp("主人公","(Looks like he's dreaming.)");
         VoicePlay("B040424202_04_080");

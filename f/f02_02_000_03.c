@@ -34,7 +34,7 @@ ChEye(2,1);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("F020200003_02_040");
-MsgDisp("Sassa","But... if the ostriches are too slow, I
+MsgDisp("Sassa","But...if the ostriches are too slow, I
 heard Mikage-sensei eats them.");
 MsgDisp("主人公","Huh∋");
 ChEye(2,1);

@@ -34,8 +34,8 @@ ChMotion(7,3);
 VoicePlay("B070700001_07_480");
 MsgDisp("Mikage","But aren't those friendships the
 strongest? Whether it's not being able to
-do club activities anymore... getting
-different hobbies... No matter what,
+do club activities anymore...getting
+different hobbies...No matter what,
 nothing changes.");
 MsgDisp("主人公","I see...");
 ChEye(7,0);

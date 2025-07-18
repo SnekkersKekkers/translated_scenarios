@@ -82,7 +82,7 @@ We'll try again some other time.");
     MsgDisp("Hikaru","Well, I guess it can't be helped～
 Next time, okay Mari?");
     MsgDisp("主人公","(Even though they went through the trouble
-of inviting me... did I make the right
+of inviting me...did I make the right
 choice?)");
     break ;
     default :

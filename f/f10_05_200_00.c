@@ -46,7 +46,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("F100520000_01_030");
 MsgDisp("Kazama","To put it simply, you guys are pure.
-... This is the first time I've come to
+...This is the first time I've come to
 know of any similarities between you guys.");
 MsgDisp("主人公","Eh?");
 ChMotion(5,0);

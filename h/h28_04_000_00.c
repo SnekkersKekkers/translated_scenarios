@@ -38,7 +38,7 @@ Did you come to cheer us on?");
     ChMotion(4,2,1);
     VoicePlay("H280400000_04_040");
     MsgDisp("Nanatsumori","Well, that's how it is.
-... I don't know much about track, though.");
+...I don't know much about track, though.");
     MsgDisp("主人公","Hm?");
     ChEye(4,4);
     ChMouth(4,4);

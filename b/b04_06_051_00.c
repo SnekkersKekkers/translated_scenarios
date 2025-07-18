@@ -6,7 +6,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040605100_06_000");
-MsgDisp("Himuro","Manmade light... huh.");
+MsgDisp("Himuro","Manmade light...huh.");
 MsgSel("The starry sky was so romantic.","｛氷室＊＊｝ fell asleep huh?","The seat was so soft, I was sound asleep...");
 switch (MsgSelRsltGet()){
     case 0:

@@ -9,7 +9,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700002_07_000");
-MsgDisp("Mikage","Our school's church legends... there are
+MsgDisp("Mikage","Our school's church legends...there are
 many tales surrounding it, aren't there?");
 MsgDisp("主人公","Yes.
 The story about the Prince and the

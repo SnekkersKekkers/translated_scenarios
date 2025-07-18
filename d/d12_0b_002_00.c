@@ -81,7 +81,7 @@ face...∋)");
 StlEyeOpenLevel(4,0,1);
 StlMouth(4,0);
 VoicePlay("D120B00200_04_020");
-MsgDisp("Nanatsumori","... So.
+MsgDisp("Nanatsumori","...So.
 Why don't you explain it.");
 StlEyeOpenLevel(3,#1);
 StlMouth(3,0);

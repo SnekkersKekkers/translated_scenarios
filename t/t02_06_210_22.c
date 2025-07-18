@@ -43,7 +43,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,0);
-MsgDisp("Himuro","What? Hey... Why do I feel like I've been
+MsgDisp("Himuro","What? Hey...Why do I feel like I've been
 holding back a lot and lost out on some...");
 MsgDisp("主人公","Huh?");
 VoicePlay("T020621000_06_350");

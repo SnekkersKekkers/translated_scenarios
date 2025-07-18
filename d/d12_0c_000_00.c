@@ -118,7 +118,7 @@ StlEye(6,0,0);
 StlEyeOpenLevel(6,5,1);
 StlMouth(6,0);
 VoicePlay("D120C00000_06_030");
-MsgDisp("Himuro","... Yeah.
+MsgDisp("Himuro","...Yeah.
 Thanks for the food.");
 MsgDisp("主人公","Hehe.
 ｛氷室＊＊｝, it's yummy, right?");
@@ -131,7 +131,7 @@ StlEye(6,0);
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D120C00000_05_040");
-MsgDisp("Hiiragi","... Delicious.
+MsgDisp("Hiiragi","...Delicious.
 It feels like we're camping even though
 we're at school.");
 MsgClose();
@@ -234,7 +234,7 @@ Let's get going before they find out.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(Haa, that was fun! Having a barbecue at
-school... ｛御影＊＊｝,
+school...｛御影＊＊｝,
 thank you so much!)");
 BGMStop();
 MsgClose();

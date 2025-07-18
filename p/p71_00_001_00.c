@@ -19,7 +19,7 @@ MsgDisp("Manager","Then, get well soon.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Preparation for the cultural festival,
-huh... I need to get better soon so I can
+huh...I need to get better soon so I can
 participate!)");
 MsgClose();
 ScrFadeOut(0);

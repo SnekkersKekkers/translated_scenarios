@@ -4,5 +4,5 @@ ChMotion(1,3);
 VoicePlay("B120102001_01_000");
 MsgDisp("Kazama","Even if it's just the cherry blossoms I'm
 contending with seeing you that happy kind
-of makes me feel... not so great.");
+of makes me feel...not so great.");
 ChEyeOpenLevel(1,#1);

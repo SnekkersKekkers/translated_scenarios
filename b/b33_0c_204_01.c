@@ -12,7 +12,7 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20401_06_000");
 MsgDisp("Himuro","Even though this Forest Park is vast, this
-is the only place with fireflies... how
+is the only place with fireflies...how
 mysterious.");
 ChEye(5,0);
 ChMouth(5,4);
@@ -32,7 +32,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20401_07_010");
-MsgDisp("Mikage","That's right. But... I still don't
+MsgDisp("Mikage","That's right. But...I still don't
 understand the rumours about being able to
 hear inner voices here...");
 ChEye(5,0);
@@ -54,7 +54,7 @@ ChEyeOpenLevel(7,7);
 VoicePlay("B330C20401_07_030");
 MsgDisp("Mikage","But, living alone, if I heard a strange
 voice...");
-MsgDisp("主人公","Eh... that's scary.");
+MsgDisp("主人公","Eh...that's scary.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);

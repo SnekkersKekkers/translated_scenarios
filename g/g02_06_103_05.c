@@ -14,7 +14,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610305_06_010");
-MsgDisp("Himuro","... If we're talking about memories,
+MsgDisp("Himuro","...If we're talking about memories,
 spring.
 I recall when you and I met.");
 MsgDisp("主人公","Eh...?");

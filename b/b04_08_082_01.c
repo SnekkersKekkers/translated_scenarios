@@ -40,7 +40,7 @@ transported to another world.");
     ChMotion(8,3,1);
     VoicePlay("B040808201_08_030");
     MsgDisp("Shirahane","Are you hungry?
-Actually... me too.
+Actually...me too.
 Let's get something to eat!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

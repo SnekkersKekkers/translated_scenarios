@@ -42,7 +42,7 @@ MsgDisp("主人公","What a relief...
 It scared me when I heard that you
 suddenly quit your job...");
 VoicePlay("D020800900_08_010");
-MsgDisp("Shirahane","... Dontcha worry, okay?
+MsgDisp("Shirahane","...Dontcha worry, okay?
 I hafta work really hard to catch up.");
 MsgDisp("主人公","What do you mean?");
 VoicePlay("D020800900_08_020");
@@ -58,7 +58,7 @@ does that have to do with me...");
 VoicePlay("D020800900_08_040");
 MsgDisp("Shirahane","You're an honor student at Habataki and
 I'm an honor student at Hanegasaki.
-... Now do you get what I'm sayin?");
+...Now do you get what I'm sayin?");
 MsgDisp("主人公","Yeah.
 But why so suddenly?");
 VoicePlay("D020800900_08_050");

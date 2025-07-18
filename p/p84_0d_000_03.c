@@ -1,6 +1,6 @@
 ScrFadeIn(0);
 BGMStop();
-MsgDisp("主人公","... Huh?
+MsgDisp("主人公","...Huh?
 Where did the erasers dissapear off to?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
@@ -10,12 +10,12 @@ ChOpen(22,254,0,0,0,#1,#1,0,2);
 VoicePlay("P840D00003_21_000");
 MsgDisp("Michiru","Even though it was supposed to have been
 on the desk just a moment ago...");
-MsgDisp("主人公","The rulers too... where are they?");
+MsgDisp("主人公","The rulers too...where are they?");
 VoicePlay("P840D00003_46_000");
 MsgDisp("School Girl","Excuse meー, but our class doesn't have
 enough blackout curtains.");
 MsgDisp("主人公","Eh, blackout curtains?
-Umm, where do we... store them again?");
+Umm, where do we...store them again?");
 VoicePlay("P840D00003_39_010");
 MsgDisp("Male Student","Excuse meー!
 The cardboard I requested hasn't been

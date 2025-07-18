@@ -9,7 +9,7 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,0);
     VoicePlay("R060500007_05_000");
     MsgDisp("Hiiragi","You were aiming for a very niche
-interest... ah, no, I'm sure that someone
+interest...ah, no, I'm sure that someone
 would be shocked getting this.");
     MsgDisp("主人公","(Darn, it seems that he wasn't very happy
 with my gift...)");

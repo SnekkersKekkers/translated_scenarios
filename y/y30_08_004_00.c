@@ -17,7 +17,7 @@ girlfriend is she～?\"\"");
 MsgDisp("","Idiot!
 There's no way we could say somethin'
 like that!");
-MsgDisp("","That girl... is not my girlfriend.");
+MsgDisp("","That girl...is not my girlfriend.");
 MsgClear();
 VoicePlay("Y300800400_33_010");
 MsgDisp("Male Student B","\"Rather than Daichi, I feel like
@@ -79,7 +79,7 @@ MsgDisp("Male Student A","\"No, that's not really an answer...\"");
 MsgClear();
 BGOpen("ad842",0);
 VoicePlay("Y300800400_47_010");
-MsgDisp("School Girl","\"Haa... you thick-skinned boys,
+MsgDisp("School Girl","\"Haa...you thick-skinned boys,
 listen? In other words, that means
 she's the Shirahane's brothers
 special girl!\"");

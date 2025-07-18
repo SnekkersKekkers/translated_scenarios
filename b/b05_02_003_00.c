@@ -95,7 +95,7 @@ MsgDisp("主人公","Woah!
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("B050200300_02_030");
-MsgDisp("Sassa","... Yeah.
+MsgDisp("Sassa","...Yeah.
 This is my first time looking so cool.");
 VoicePlay("B050200300_31_070");
 MsgDisp("Goro","Yep.

@@ -22,7 +22,7 @@ ChMotion(5,4);
 VoicePlay("K020501000_05_010");
 MsgDisp("Hiiragi","No, for something else.
 Happy birthday.");
-MsgDisp("主人公","Ah... thank you!");
+MsgDisp("主人公","Ah...thank you!");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(5,4);

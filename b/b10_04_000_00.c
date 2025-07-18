@@ -5,7 +5,7 @@ MsgDisp("主人公","(Haa...
 Why did I say such a thing...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Huh?
-It's from ｛七ツ森＊｝... )");
+It's from ｛七ツ森＊｝...)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Yes, hello.");
@@ -37,6 +37,6 @@ Then, goodnight.");
 MsgDisp("主人公","Yeah, goodnight.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛七ツ森＊｝... called me out of concern.)");
+MsgDisp("主人公","(｛七ツ森＊｝...called me out of concern.)");
 MsgClose();
 ScrFadeOut(0,0);

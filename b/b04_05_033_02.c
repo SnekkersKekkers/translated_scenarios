@@ -54,7 +54,7 @@ Then, let me be clearer.");
         ChMotion(5,4);
         VoicePlay("B040503302_05_050");
         MsgDisp("Hiiragi","Let's hold hands.");
-        MsgDisp("主人公","Eh... y-yeah.");
+        MsgDisp("主人公","Eh...y-yeah.");
         ChClose(5,0,30);
         ChLayout(0);
         MsgClose();

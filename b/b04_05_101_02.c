@@ -29,7 +29,7 @@ I'm happy to hear you say that.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040510102_05_020");
-    MsgDisp("Hiiragi","Umm... are you already tired?");
+    MsgDisp("Hiiragi","Umm...are you already tired?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -95,7 +95,7 @@ conversation.");
         VoicePlay("B040510102_05_100");
         MsgDisp("Hiiragi","Haa, well at the end of the day, I like
 the you now.
-... Is that okay?");
+...Is that okay?");
         MsgDisp("主人公","(Umm, I'm happy but it's embarrassing.)");
         break ;
         default :

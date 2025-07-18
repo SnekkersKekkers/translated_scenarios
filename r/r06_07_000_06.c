@@ -10,7 +10,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("R060700006_07_000");
     MsgDisp("Mikage","Is this really okay?
 I guess this is a safe gift.");
-    MsgDisp("主人公","(Hmm, he liked the gift ... right?)");
+    MsgDisp("主人公","(Hmm, he liked the gift ...right?)");
     break ;
     case 3:
     case 4:
@@ -21,7 +21,7 @@ I guess this is a safe gift.");
     VoicePlay("R060700006_07_010");
     MsgDisp("Mikage","Hahaha, you seem so on edge.
 Thank you.");
-    MsgDisp("主人公","(Hmm, he liked the gift ... right?)");
+    MsgDisp("主人公","(Hmm, he liked the gift ...right?)");
     break ;
     default :
     DbgAssert(1);

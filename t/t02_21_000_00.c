@@ -21,7 +21,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("T022100000_21_020");
-MsgDisp("Michiru","...... Should I not have come here?");
+MsgDisp("Michiru","......Should I not have come here?");
 MsgDisp("主人公","No.
 I'm glad you came.
 I feel so relieved.");
@@ -57,7 +57,7 @@ ChMotion(21,0);
 ChCheek(21,5);
 VoicePlay("T022100000_21_070");
 MsgDisp("Michiru","She's a kind and pleasant girl.
-I... love Mari");
+I...love Mari");
 MsgDisp("主人公","｛みちる＊｝...");
 Wait(60,0);
 ChEye(21,4);
@@ -89,7 +89,7 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("T022100000_21_110");
 MsgDisp("Michiru","Also, marigolds, rosemary flowers,
-marriage... I felt those kinds of symbols
+marriage...I felt those kinds of symbols
 of happiness from you. That's why, Mari.");
 MsgDisp("主人公","So that's why...");
 ChEye(21,4);
@@ -98,7 +98,7 @@ ChMotion(21,3);
 VoicePlay("T022100000_21_120");
 MsgDisp("Michiru","Did you have a happy high school life,
 Mari?
-I was... very happy.");
+I was...very happy.");
 MsgDisp("主人公","｛みちる＊｝, it's the
 same for me!
 Hehe!");
@@ -133,7 +133,7 @@ ChMotion(21,4);
 ChCheek(21,10);
 VoicePlay("T022100000_21_160");
 MsgDisp("Michiru","I'm happy.
-After that... shall we have a talk about
+After that...shall we have a talk about
 love?");
 MsgDisp("主人公","If it comes to that, okay?
 Then, let's walk home together for the

@@ -65,7 +65,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360602301_06_080");
-MsgDisp("Himuro","So for just a bit more... can we stay like
+MsgDisp("Himuro","So for just a bit more...can we stay like
 this until the sun goes down?");
 MsgDisp("主人公","Yes, of course.");
 ChEye(6,0);

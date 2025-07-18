@@ -35,7 +35,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B150500400_05_050");
 MsgDisp("Hiiragi","Two year-olds aren't aware of being a man.
 I'm an actor, before I'm a man.");
-MsgDisp("主人公","Is... that so?");
+MsgDisp("主人公","Is...that so?");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B150500400_05_060");

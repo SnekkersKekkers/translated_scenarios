@@ -50,7 +50,7 @@ MsgDisp("主人公","No, no.");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("T020401000_04_070");
-MsgDisp("Nanatsumori","Really... You were always so kind and
+MsgDisp("Nanatsumori","Really...You were always so kind and
 always dealt with my selfish requests and
 troublesome matters with a smile.");
 ChEye(4,4);

@@ -7,7 +7,7 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406100_04_000");
-MsgDisp("Nanatsumori","Ahー... it's hot.
+MsgDisp("Nanatsumori","Ahー...it's hot.
 So, what do you plan on doing here?");
 MsgSel("Shall we race out to the sea?","Let's eat at the beach hut first!","Let's look for pretty seashells");
 switch (MsgSelRsltGet()){

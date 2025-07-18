@@ -42,7 +42,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B10400_01_010");
-MsgDisp("Kazama","... Indeed.
+MsgDisp("Kazama","...Indeed.
 I'm sure there are some weird insects in
 there too.");
 ChMouthOpenLevel(4,0);

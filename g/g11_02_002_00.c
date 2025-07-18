@@ -1,4 +1,4 @@
-MsgDisp("主人公","(I should slowly make my way home... Ah,
+MsgDisp("主人公","(I should slowly make my way home...Ah,
 it's still early. Let's try going to the
 beach. Maybe ｛颯砂＊＊｝ is
 training there?)");
@@ -8,7 +8,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Hmm... It doesn't seem like
+MsgDisp("主人公","(Hmm...It doesn't seem like
 ｛颯砂＊＊｝ is here. It can't be
 helped, time to go home...)");
 VoicePlay("G110200200_02_000");
@@ -54,7 +54,7 @@ ScrFadeIn(0);
 VoicePlay("G110200200_02_040");
 MsgDisp("Sassa","Ah, I read the Habatcher column!");
 MsgDisp("主人公","Really?
-... How was it?");
+...How was it?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);

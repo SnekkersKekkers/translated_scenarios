@@ -19,7 +19,7 @@ ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("E010530100_04_010");
 MsgDisp("Nanatsumori","You just made a face that said 'again? '.
-... Well, I guess 'again' is right.");
+...Well, I guess 'again' is right.");
 MsgDisp("主人公","Hehe.
 Shall we look for it together?");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
@@ -125,7 +125,7 @@ ChMotion(4,0,1);
 VoicePlay("E010530100_04_080");
 MsgDisp("Nanatsumori","Okay, then when we're all free, we can go
 together.");
-MsgDisp("主人公","Umm... is it really alright?");
+MsgDisp("主人公","Umm...is it really alright?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

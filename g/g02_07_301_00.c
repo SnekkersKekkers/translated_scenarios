@@ -52,7 +52,7 @@ ChMotion(7,4);
 VoicePlay("G020730100_07_060");
 MsgDisp("Mikage","I'm also worried about my bonus
 evaluation...");
-MsgDisp("主人公","(I see... teachers also have something
+MsgDisp("主人公","(I see...teachers also have something
 like report cards.
 Good luck, ｛御影＊＊｝...! )");
 BGMStop();

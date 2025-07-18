@@ -33,7 +33,7 @@ What about you, ｛柊＊＊＊｝?");
     MsgDisp("Hiiragi","Yes, I'm fine. Remember that a horse that
 doesn't get injured to superior to one
 with a slightly higher ability.");
-    MsgDisp("主人公","(Haa... last...
+    MsgDisp("主人公","(Haa...last...
 I wish I had tried a little harder...)");
     break ;
     case 4:
@@ -59,7 +59,7 @@ a big deal?");
     VoicePlay("O030500002_05_050");
     MsgDisp("Hiiragi","Don't you feel that we, the last on the
 course, received the most cheers?");
-    MsgDisp("主人公","(Y-Yeah... but, last...
+    MsgDisp("主人公","(Y-Yeah...but, last...
 I wish I had tried a little harder...)");
     break ;
     default :

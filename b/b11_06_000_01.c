@@ -28,7 +28,7 @@ MsgDisp("Guy","You don't know? That's better. There's no
 need to distinguish between virtuality and
 reality.");
 MsgDisp("主人公","Ummmm?
-... Ah, ｛氷室＊＊｝!");
+...Ah, ｛氷室＊＊｝!");
 ChPosition(34,2);
 SEPlay("EV_SE_550");
 BGMPlay("BGM_PLACE_BEACH",0.01);
@@ -48,7 +48,7 @@ ChMotion(6,4);
 VoicePlay("B110600001_06_010");
 MsgDisp("Himuro","? What's with this guy?");
 MsgDispSksp(0);
-MsgDisp("主人公","Umm... maybe he's lost?");
+MsgDisp("主人公","Umm...maybe he's lost?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110600001_34_040");
@@ -93,7 +93,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B110600001_06_040");
-MsgDisp("Himuro","Honestly... people like that lower the
+MsgDisp("Himuro","Honestly...people like that lower the
 quality of the sea.");
 MsgDisp("主人公","Um, ｛氷室＊＊｝...
 Thank you.");
@@ -119,4 +119,4 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("B110600001_06_070");
-MsgDisp("Himuro","Yeah... do that.");
+MsgDisp("Himuro","Yeah...do that.");

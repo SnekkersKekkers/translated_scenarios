@@ -31,7 +31,7 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_040");
-MsgDisp("Kazama","And ... this one!
+MsgDisp("Kazama","And ...this one!
 Flying around us with this delicate
 distance, that's Inori Firefly.");
 MsgDisp("主人公","Hehe.

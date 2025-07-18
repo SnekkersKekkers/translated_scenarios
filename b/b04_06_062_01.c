@@ -42,7 +42,7 @@ That's unfortunate.");
     ChMotion(6,3);
     VoicePlay("B040606201_06_030");
     MsgDisp("Himuro","Definitely.
-... Since we're here together anyways.");
+...Since we're here together anyways.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

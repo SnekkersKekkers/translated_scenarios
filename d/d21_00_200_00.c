@@ -96,7 +96,7 @@ BGMStop();
 ChClose(31);
 MsgDisp("主人公","(He's gone...)");
 MsgDisp("主人公","(It's didn't know the fireflies had such a
-power. But hmm, jealousy... Right. Maybe I
+power. But hmm, jealousy...Right. Maybe I
 can write a story about this too?)");
 MsgClose();
 ScrFadeOut(0,0);

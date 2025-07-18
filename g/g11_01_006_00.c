@@ -64,7 +64,7 @@ SEPlay("EV_SE_697",0.2,0.3);
 Wait(10,0);
 ChOpen(1,100,1,1,0,0,#1,0,0);
 VoicePlay("G110100600_01_050");
-MsgDisp("Kazama","Phew... this is wrong.
+MsgDisp("Kazama","Phew...this is wrong.
 I mean what am I so worried about?
 How pathetic, huh?");
 ChEyeOpenLevel(1,#1);

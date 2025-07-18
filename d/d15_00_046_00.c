@@ -61,7 +61,7 @@ MsgDisp ( "Himuro","I'm not even angry.
 Well, I wouldn't mind a nice food and
 drink combo." ) ;
 MsgDisp ( "主人公","(He really doesn't seem angry.
-... Why are we talking about this?)" ) ;
+...Why are we talking about this?)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

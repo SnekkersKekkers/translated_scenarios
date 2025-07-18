@@ -26,7 +26,7 @@ MsgDisp("Kazama","There's plenty of food waiting for you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Eh, wait, ｛風真＊＊｝∋
-... Something amazing just happened!)");
+...Something amazing just happened!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -113,7 +113,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100500_01_100");
-MsgDisp("Kazama","... Thank you too.
+MsgDisp("Kazama","...Thank you too.
 Were you paying attention to that phone
 call I had on the rooftop?");
 MsgDisp("主人公","Ah...");

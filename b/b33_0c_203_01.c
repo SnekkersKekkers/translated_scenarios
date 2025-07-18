@@ -31,7 +31,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C20301_05_010");
-MsgDisp("Hiiragi","Eh... that was unconscious.");
+MsgDisp("Hiiragi","Eh...that was unconscious.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -52,7 +52,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20301_06_020");
-MsgDisp("Himuro","Ehhh... Yanosuke-senpai is also concerned
+MsgDisp("Himuro","Ehhh...Yanosuke-senpai is also concerned
 about appearance. Is that how it is for
 actors?");
 ChEye(5,4);
@@ -108,7 +108,7 @@ ChMotion(6,0);
 VoicePlay("B330C20301_06_040");
 MsgDisp("Himuro","I'm the same as Yanosuke-senpai. These
 kinds of experiences have been practically
-non-existent to me. And... there's you.");
+non-existent to me. And...there's you.");
 MsgDisp("主人公","Eh...");
 ChEye(5,0);
 ChMouth(5,4);
@@ -134,7 +134,7 @@ ChMotion(5,4);
 VoicePlay("B330C20301_05_090");
 MsgDisp("Hiiragi","I look forward to it.");
 MsgDisp("主人公","(When we're altogether, wherever we go
-becomes special... hehe, how mysterious.)");
+becomes special...hehe, how mysterious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

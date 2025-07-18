@@ -61,7 +61,7 @@ ChMotion(6,0,1);
 VoicePlay("B330A30301_06_010");
 MsgDisp("Himuro","Then I would like an instrument or surfing
 shop.
-... You?");
+...You?");
 MsgDisp("主人公","Hmm....
 Maybe some tasty food you can eat whilst
 walking around?");

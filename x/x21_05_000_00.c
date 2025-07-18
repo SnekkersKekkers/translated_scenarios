@@ -58,7 +58,7 @@ VoicePlay("X210500000_05_080");
 MsgDisp("Hiiragi","Was today enough proof?
 The consensus of all the students, says
 that you're the best.");
-MsgDisp("主人公","｛柊＊＊＊｝... thank you.");
+MsgDisp("主人公","｛柊＊＊＊｝...thank you.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

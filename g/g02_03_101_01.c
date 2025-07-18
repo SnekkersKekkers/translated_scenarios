@@ -2,7 +2,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020310101_03_000");
-MsgDisp("Honda","... Hm?
+MsgDisp("Honda","...Hm?
 Why are you looking around?");
 MsgDisp("主人公","Eh?
 I was just looking at the fireflies?");

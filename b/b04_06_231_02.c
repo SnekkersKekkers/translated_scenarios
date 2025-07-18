@@ -64,7 +64,7 @@ yourself to ride it until this point too?");
         VoicePlay("B040623102_06_070");
         MsgDisp("Himuro","If it's scary, I can hold onto your hand.
 Knowing that we're in this together,
-should be less scary... right?");
+should be less scary...right?");
         MsgDisp("主人公","Yes, thank you.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -82,7 +82,7 @@ should be less scary... right?");
         ChMotion(6,4);
         VoicePlay("B040623102_06_100");
         MsgDisp("Himuro","I-It's nothing.
-... Never mind.");
+...Never mind.");
         break ;
         default :
         DbgAssert(1);

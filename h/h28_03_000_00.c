@@ -22,7 +22,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("H280300000_03_020");
-MsgDisp("Honda","And... so do you.");
+MsgDisp("Honda","And...so do you.");
 MsgDisp("主人公","Hm, me too?");
 ChEye(3,3);
 ChMouth(3,3);

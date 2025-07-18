@@ -30,7 +30,7 @@ ChEye ( 4,2 ) ;
 ChMouth ( 4,4 ) ;
 ChMotion ( 4,2 ) ;
 VoicePlay ( "D150003401_04_010" ) ;
-MsgDisp ( "Nanatsumori","... Wait.
+MsgDisp ( "Nanatsumori","...Wait.
 This is a bad thing to talk about while we
 eat." ) ;
 ChEye ( 3,4 ) ;

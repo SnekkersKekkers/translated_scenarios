@@ -92,7 +92,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30800_01_050");
 MsgDisp("Kazama","Leave it.");
-MsgDisp("主人公","(Umm... is there something I haven't
+MsgDisp("主人公","(Umm...is there something I haven't
 noticed?)");
 BGMStop();
 MsgClose();

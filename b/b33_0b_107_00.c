@@ -15,7 +15,7 @@ ChOpen(4,253,0,1,2,#1,#1,0,3);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B330B10700_04_000");
-MsgDisp("Nanatsumori","... So.
+MsgDisp("Nanatsumori","...So.
 What should we do here?");
 ChEye(3,2);
 ChMouth(3,4);

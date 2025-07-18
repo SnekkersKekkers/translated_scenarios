@@ -51,12 +51,12 @@ according to some people～?");
     ChMotion(4,0,1);
     VoicePlay("P530400000_04_050");
     MsgDisp("Nanatsumori","Are you already feeling calm?");
-    MsgDisp("主人公","Ah... yes!
+    MsgDisp("主人公","Ah...yes!
 I'm off now!");
     VoicePlay("P530400000_04_060");
     MsgDisp("Nanatsumori","Yeah.");
     MsgDisp("主人公","(Before I knew it, my stress was coming
-off... ｛七ツ森＊｝, thank
+off...｛七ツ森＊｝, thank
 you! Alr-ight! let's give it our best!)");
     break ;
     case 4:
@@ -72,7 +72,7 @@ Can I even do it properly....)");
     VoicePlay("P530400000_04_070");
     MsgDisp("Nanatsumori","Whats this.
 Stressed?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝... yeah.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝...yeah.");
     ChMotion(4,1,1);
     VoicePlay("P530400000_04_080");
     MsgDisp("Nanatsumori","So it's like that, I see.");

@@ -22,7 +22,7 @@ It doesn't matter.");
     ChOpen(6,255,2,2,2,0,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080600006_06_020");
-    MsgDisp("Himuro","... don't know why you invited me here.");
+    MsgDisp("Himuro","...don't know why you invited me here.");
     break ;
     default :
     DbgAssert(1);

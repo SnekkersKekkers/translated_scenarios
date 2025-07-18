@@ -4,7 +4,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("T020940020_09_000");
-MsgDisp("Kuya","... Yes.
+MsgDisp("Kuya","...Yes.
 I'm glad.");
 ChEye(9,3);
 ChMouth(9,0);

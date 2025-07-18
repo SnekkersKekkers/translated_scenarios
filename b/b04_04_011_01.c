@@ -29,7 +29,7 @@ The subject is too wide though.");
     ChMotion(4,3,1);
     VoicePlay("B040401101_04_020");
     MsgDisp("Nanatsumori","Right?
-Should we... come together some day?
+Should we...come together some day?
 If it's convenient.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

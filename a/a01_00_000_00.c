@@ -13,7 +13,7 @@ Wait(120,1);
 VoicePlay("A010000000_01_000");
 MsgDisp("Ryota","Ah, listen, do you hear the bell?
 It's ringing again!");
-MsgDisp("主人公","Yeah... It's quiet, but I can hear it
+MsgDisp("主人公","Yeah...It's quiet, but I can hear it
 too!");
 SEStop("EV_SE_795",4);
 VoicePlay("A010000000_01_010");

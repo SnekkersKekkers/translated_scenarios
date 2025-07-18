@@ -45,7 +45,7 @@ ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100001_01_060");
-MsgDisp("Kazama","More than him liking me... it was like I
+MsgDisp("Kazama","More than him liking me...it was like I
 was just right.
 Like a suitable prey, it was terrifying.");
 MsgDisp("主人公","Hehe.");

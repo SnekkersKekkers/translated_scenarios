@@ -60,8 +60,8 @@ ChMouth(8,4);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("D020800800_08_060");
-MsgDisp("Shirahane","... I...
-... I have a goal.");
+MsgDisp("Shirahane","...I...
+...I have a goal.");
 MsgDisp("主人公","A goal?");
 VoicePlay("D020800800_08_070");
 MsgDisp("Shirahane","Yeah.

@@ -38,7 +38,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 ScrFadeIn(0);
 VoicePlay("Q070D00000_21_010");
-MsgDisp("Michiru","... How is it?
+MsgDisp("Michiru","...How is it?
 Did it come out okay?");
 ChEye(22,3);
 ChMouth(22,3);

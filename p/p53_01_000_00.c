@@ -31,7 +31,7 @@ face.");
     MsgDisp("Kazama","Well, the pouting face you have right now
 sounds more like you than your previous
 expression.");
-    MsgDisp("主人公","Ah, perhaps ｛風真＊＊｝... helped
+    MsgDisp("主人公","Ah, perhaps ｛風真＊＊｝...helped
 me to relax?");
     ChEye(1,2);
     ChMouth(1,3);

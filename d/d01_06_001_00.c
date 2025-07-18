@@ -35,7 +35,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600100_06_010");
 MsgDisp("Himuro","Yeah.
-... Alright, time to get started.");
+...Alright, time to get started.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
@@ -93,7 +93,7 @@ side from my lunch?");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600100_06_080");
-MsgDisp("Himuro","... If you're giving it to me, I'll eat
+MsgDisp("Himuro","...If you're giving it to me, I'll eat
 it.
 Give it here.");
 MsgClose();
@@ -160,7 +160,7 @@ VoicePlay("D010600100_06_150");
 MsgDisp("Himuro","It's black on the outside and white on the
 inside, and when it gets heated up, the
 texture becomes gross and mushy.");
-MsgDisp("主人公","Are you trying to say that you... hate
+MsgDisp("主人公","Are you trying to say that you...hate
 eggplant?");
 ChEye(6,1);
 ChMouth(6,1);

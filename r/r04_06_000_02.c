@@ -51,7 +51,7 @@ I'm gonna go and say hi.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("R040600002_06_030");
-    MsgDisp("Himuro","... Don't wander around too much.
+    MsgDisp("Himuro","...Don't wander around too much.
 See you.");
     break ;
     default :

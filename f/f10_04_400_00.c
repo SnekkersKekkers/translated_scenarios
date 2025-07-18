@@ -31,13 +31,13 @@ ChMotion(3,1,1);
 VoicePlay("F100440000_03_020");
 MsgDisp("Honda","Lip balm colors?");
 MsgDisp("主人公","Ah, that's the Habatcher feature for mens
-cosmetics with \"Nana\".... ehhh∋");
+cosmetics with \"Nana\"....ehhh∋");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("F100440000_03_030");
 MsgDisp("Honda","That's it, that's it!");
-MsgDisp("主人公","Then... um...");
+MsgDisp("主人公","Then...um...");
 VoicePlay("F100440000_04_020");
 MsgDisp("Nanatsumori","It's alright.
 Dahon already knows.");

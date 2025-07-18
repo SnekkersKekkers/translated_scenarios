@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're displaying wedding
-dresses. This is my last one... I have to
+dresses. This is my last one...I have to
 make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -64,7 +64,7 @@ Alrーight, let's do it!)");
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're displaying wedding
 dresses. This is my last cultural
-festival... I have to make it a success!)");
+festival...I have to make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -94,7 +94,7 @@ interested.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("P730600002_06_090");
-    MsgDisp("Himuro","I... didn't want to see it yet...");
+    MsgDisp("Himuro","I...didn't want to see it yet...");
     MsgDisp("主人公","(Yet...?)");
     SEPlay("EV_SE_038");
     SEWait();
@@ -105,7 +105,7 @@ Then, I'm off, okay?");
     ChMotion(6,2);
     ChCheek(6,0);
     VoicePlay("P730600002_06_100");
-    MsgDisp("Himuro","... What's this.
+    MsgDisp("Himuro","...What's this.
 This feels like I'm sending off a bride...");
     MsgDisp("主人公","｛氷室＊＊｝...?");
     ChEye(6,0);
@@ -113,7 +113,7 @@ This feels like I'm sending off a bride...");
     ChMotion(6,1);
     VoicePlay("P730600002_06_110");
     MsgDisp("Himuro","It's nothing.
-... I'll be waiting from here.");
+...I'll be waiting from here.");
     MsgDisp("主人公","(｛氷室＊＊｝, what's wrong?
 But this is my last stage, so let's
 carefully follow this through!)");

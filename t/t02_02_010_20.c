@@ -38,7 +38,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020201020_02_030");
-MsgDisp("Sassa","... Yeah.
+MsgDisp("Sassa","...Yeah.
 Let's keep running together.");
 BGMStop(2.8);
 MsgClear();

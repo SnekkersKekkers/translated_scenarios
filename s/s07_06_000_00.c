@@ -55,7 +55,7 @@ thing in a larger area.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S070600000_06_060");
-    MsgDisp("Himuro","... Or something like that.
+    MsgDisp("Himuro","...Or something like that.
 I guess there's no point in complaining
 about it now.");
     break ;

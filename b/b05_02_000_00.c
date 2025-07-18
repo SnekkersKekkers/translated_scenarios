@@ -9,12 +9,12 @@ ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("B050200000_02_000");
 MsgDisp("Sassa","Yeah.
-Horse riding, sheep shearing... eh.");
+Horse riding, sheep shearing...eh.");
 ChEye(2,5);
 ChMouth(2,2);
 ChMotion(2,0);
 VoicePlay("B050200000_02_010");
-MsgDisp("Sassa","... C-Cow...
+MsgDisp("Sassa","...C-Cow...
 Milking?");
 MsgDisp("主人公","Yeah?
 ｛颯砂＊＊｝, do you want to try
@@ -65,7 +65,7 @@ VoicePlay("B050200000_02_060");
 MsgDisp("Sassa","OOH!");
 MsgDisp("主人公","I think I'm starting to get the hang of
 it.
-... Look!");
+...Look!");
 SEPlay("EV_SE_522");
 SEWait();
 StlEye(2,0);
@@ -114,7 +114,7 @@ MsgDisp("Sassa","Haha, yeah, it's special because you
 squeezed it, huh?");
 MsgDisp("主人公","Come to think of it.
 ｛颯砂＊＊｝ didn't try at all.
-... Ah, maybe it's because——");
+...Ah, maybe it's because——");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,0);

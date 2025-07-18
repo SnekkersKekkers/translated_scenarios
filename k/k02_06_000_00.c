@@ -36,7 +36,7 @@ ChMotion(6,0);
 VoicePlay("K020600000_06_030");
 MsgDisp("Himuro","You're welcome.
 I'm glad you're happy.
-... Happy birthday.");
+...Happy birthday.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

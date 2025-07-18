@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040424201_04_010");
-    MsgDisp("Nanatsumori","That's kinda... nice.
+    MsgDisp("Nanatsumori","That's kinda...nice.
 Say that again.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
 Happy New Year.");
     VoicePlay("S040600000_06_000");
     MsgDisp("Himuro","Ah, yeah.
-... Happy New Year.");
+...Happy New Year.");
     MsgDisp("主人公","What's wrong?");
     VoicePlay("S040600000_06_010");
     MsgDisp("Himuro","Uh...
@@ -71,7 +71,7 @@ By the way, are you free today?");
         case 0:
         VoicePlay("S040600000_06_070");
         MsgDisp("Himuro","I see.
-... I'm glad I invited you.");
+...I'm glad I invited you.");
         MsgDisp("主人公","Eh?");
         VoicePlay("S040600000_06_080");
         MsgDisp("Himuro","Nothing.

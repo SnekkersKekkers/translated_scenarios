@@ -33,7 +33,7 @@ MsgDisp("Hikaru","Right, right.
 Mari is most important.
 Right, sis?");
 MsgDisp("主人公","(｛みちる＊｝,
-｛ひかる＊｝... I should
+｛ひかる＊｝...I should
 have prepared a bit more thoroughly....");
 MsgClose();
 ScrFadeOut(0,0);

@@ -2,7 +2,7 @@ ChLayout(2);
 BGOpen("sc210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Today's weather is nice too.
-... Huh, what class did I have in the
+...Huh, what class did I have in the
 afternoon?)");
 VoicePlay("F100730001_22_000");
 MsgDisp("Hikaru?","Ah.
@@ -128,7 +128,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,254,0,0,2,#1,#1,0,2,0,30);
 ChMotion(22,4,1);
 VoicePlay("F100730001_22_060");
-MsgDisp("Hikaru","... Hey.
+MsgDisp("Hikaru","...Hey.
 Aren't we dealing with this too well?");
 ChEye(21,0);
 ChMouth(21,4);

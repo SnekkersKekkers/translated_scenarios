@@ -6,7 +6,7 @@ ChNanaType(0);
 ChOpen(4,254,0,5,5,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P840400001_04_000");
-MsgDisp("Nanatsumori","Ah... watch your step——");
+MsgDisp("Nanatsumori","Ah...watch your step——");
 MsgDisp("主人公","Eh?
 What is it?");
 SEPlay("EV_SE_684");

@@ -17,7 +17,7 @@ I failed.");
 VoicePlay("P540400003_04_010");
 MsgDisp("Nanatsumori","I get you though.
 I didn't even know what the original song
-was... that kind of level, I guess?");
+was...that kind of level, I guess?");
 MsgDisp("主人公","Uughh...");
 ChEye(4,2);
 ChMouth(4,3);

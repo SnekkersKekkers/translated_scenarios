@@ -17,8 +17,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_020");
-MsgDisp("Himuro","You know... all the PDA.
-... It's kinda embarrassing.");
+MsgDisp("Himuro","You know...all the PDA.
+...It's kinda embarrassing.");
 MsgDisp("主人公","What?!");
 ChEye(6,1);
 ChMouth(6,0);
@@ -32,7 +32,7 @@ ChMotion(6,0);
 VoicePlay("G020620001_06_040");
 MsgDisp("Himuro","Have you ever thought about what people
 around you might think? Being all couple-y
-in public... Isn't that kinda over the
+in public...Isn't that kinda over the
 line?");
 ChEye(6,0);
 ChMouth(6,0);

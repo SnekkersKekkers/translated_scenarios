@@ -8,7 +8,7 @@ SEWait();
 MsgDisp("主人公","Yes, I'm upー!");
 VoicePlay("M010600000_06_000");
 MsgDisp("Himuro","It's me, but.
-... Can I come in?");
+...Can I come in?");
 MsgDisp("主人公","Eh, ｛氷室＊＊｝∋
 Uuhm...
 Yeah, come in.");
@@ -75,7 +75,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("M010600000_06_100");
-MsgDisp("Himuro","Haa... No matter how much of a rush I was
+MsgDisp("Himuro","Haa...No matter how much of a rush I was
 in, it's no excuse. I'll go get it.");
 MsgDisp("主人公","Eh, right now?
 No, you don't have to!");
@@ -92,7 +92,7 @@ ChCheek(6,5);
 VoicePlay("M010600000_06_120");
 MsgDisp("Himuro","I'll give your gift to your parents.
 Then, see you at school.
-... I'll be waiting.");
+...I'll be waiting.");
 MsgDisp("主人公","Yeah, thanks!");
 ChEye(6,0);
 ChMouth(6,4);

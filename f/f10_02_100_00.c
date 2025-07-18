@@ -22,7 +22,7 @@ Sorry.
 I'll put two back.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
-MsgDisp("主人公","(Wow... there's someone borrowing 20
+MsgDisp("主人公","(Wow...there's someone borrowing 20
 books.)");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -32,7 +32,7 @@ ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoicePlay("F100210000_02_010");
 MsgDisp("Sassa","Yo, are you borrowing a book too?");
 MsgDisp("主人公","Yeah.
-... You too, ｛颯砂＊＊｝?");
+...You too, ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

@@ -58,13 +58,13 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("E010440000_04_050");
 MsgDisp("Nanatsumori","What do you mean?");
-MsgDisp("主人公","You both seem more... mature, or something
+MsgDisp("主人公","You both seem more...mature, or something
 like that?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010440000_04_060");
-MsgDisp("Nanatsumori","... Hmph!
+MsgDisp("Nanatsumori","...Hmph!
 Aren't Michiru and I the same age as you?");
 MsgDisp("主人公","That's true. By the way, what were you
 talking about?
@@ -74,10 +74,10 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,4,1);
 VoicePlay("E010440000_04_070");
-MsgDisp("Nanatsumori","That's... a secret.
+MsgDisp("Nanatsumori","That's...a secret.
 It'd be troublesome if she knew you found
 out, you know?");
-MsgDisp("主人公","(I'm... so curious...)");
+MsgDisp("主人公","(I'm...so curious...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

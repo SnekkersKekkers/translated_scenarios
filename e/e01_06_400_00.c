@@ -2,7 +2,7 @@ BGOpen("wf100",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I think I'll head home now.
-... Huh?)");
+...Huh?)");
 VoicePlay("E010640000_06_000");
 MsgDisp("Himuro?","Sorry.
 Can you back up a little bit.");

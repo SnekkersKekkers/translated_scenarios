@@ -3,7 +3,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     VoicePlay("J030200001_02_000");
-    MsgDisp("Sassa","... Ah, this day is not good for me.
+    MsgDisp("Sassa","...Ah, this day is not good for me.
 Sorry.");
     MsgDisp("主人公","I see, too bad.");
     VoicePlay("J030200001_02_010");

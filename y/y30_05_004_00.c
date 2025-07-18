@@ -46,7 +46,7 @@ VoicePlay("Y300500400_07_010");
 MsgDisp("Mikage","\"Ohh, are you the rumoured high
 school chairman?\"");
 VoicePlay("Y300500400_05_020");
-MsgDisp("Hiiragi","\"Eh? Yes... My name is Hiiragi
+MsgDisp("Hiiragi","\"Eh? Yes...My name is Hiiragi
 Yanosuke. ...Are a staff member?\"");
 MsgDisp("","When I asked curiously, he showed me
 the same smile as before.");
@@ -108,7 +108,7 @@ BGOpen("ad543",0);
 ScrFadeIn(0);
 MsgDisp("","——And there's one more person.
 They're a mysterious person who makes
-the two of us... maybe Mikage-sensei
+the two of us...maybe Mikage-sensei
 too, smile maturely.");
 MsgDisp("主人公","\"What is everyone talking about?\"");
 MsgDisp("","A smile illuminated by the orange of
@@ -120,7 +120,7 @@ made a little eye contact, and looked
 at Mikage-sensei.");
 MsgDisp("","Then, he raised his shoulders and
 brows and gave us a big smile.
-Perhaps... Mikage-sensei is
+Perhaps...Mikage-sensei is
 interested in her?");
 MsgClear();
 MsgClose();

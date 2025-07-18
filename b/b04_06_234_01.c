@@ -35,7 +35,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040623401_06_030");
     MsgDisp("Himuro","Thanks for the advice.
-... Whether I can put it into practice is
+...Whether I can put it into practice is
 another story.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -44,7 +44,7 @@ forcefully draw you into the world.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040523600_05_030");
-    MsgDisp("Hiiragi","Yeah... Was it neccesary to make it stand
+    MsgDisp("Hiiragi","Yeah...Was it neccesary to make it stand
 out that much? You won't be able to look
 at anything else.");
     MsgDateResultDisp();

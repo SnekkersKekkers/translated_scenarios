@@ -22,7 +22,7 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F022200013_22_020");
-MsgDisp("Hikaru","... Mari.
+MsgDisp("Hikaru","...Mari.
 If you have a boy you like, this school
 trip will be a turning point for you.");
 ChEye(22,3);

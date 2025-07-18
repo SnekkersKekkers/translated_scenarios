@@ -18,7 +18,7 @@ ChMotion(5,2);
 VoicePlay("T020500000_05_010");
 MsgDisp("Hiiragi","I stubbornly believed that if I came here,
 I would meet you.
-... It's a bad habit.");
+...It's a bad habit.");
 ChEyeOpenLevel(5,10);
 MsgDisp("主人公","Eh?");
 ChMotion(5,0);
@@ -146,7 +146,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("T020500000_05_150");
-MsgDisp("Hiiragi","And there's one more thing... that I've
+MsgDisp("Hiiragi","And there's one more thing...that I've
 come to like.");
 Wait(60,0);
 ChMotion(5,0);
@@ -171,7 +171,7 @@ Wait(16,0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020500000_05_180");
-MsgDisp("Hiiragi","You are the light that guides me... a
+MsgDisp("Hiiragi","You are the light that guides me...a
 warm, lovely light.");
 MsgClear();
 ChClose(5);

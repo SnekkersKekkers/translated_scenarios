@@ -3,7 +3,7 @@ BGOpen("sc745",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P240D00000_47_000");
-MsgDisp("Opponent","I detest it... I detest those happy
+MsgDisp("Opponent","I detest it...I detest those happy
 couples～! I'll interrupt their dates, and
 ruin their love lives!");
 VoicePlay("P240D00000_22_000");
@@ -112,7 +112,7 @@ ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("P240D00000_21_050");
 MsgDisp("Michiru","No way, that's embarrassing...");
-MsgDisp("主人公","(I didn't know that's how it ended... no
+MsgDisp("主人公","(I didn't know that's how it ended...no
 one told me!)");
 SEStop("EV_SE_GAYA_006",1);
 BGMStop();

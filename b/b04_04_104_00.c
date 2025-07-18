@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(1);
     ChMotion(4,1,1);
     VoicePlay("B040410400_04_010");
-    MsgDisp("Nanatsumori","... Is this a punishment game?
+    MsgDisp("Nanatsumori","...Is this a punishment game?
 Did I do something wrong?");
     MsgDateResultDisp();
     break ;
@@ -39,7 +39,7 @@ Why I did, I don't know though...");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,10);
     VoicePlay("B040410400_04_030");
-    MsgDisp("Nanatsumori","... You.
+    MsgDisp("Nanatsumori","...You.
 I seriously respect it.
 I'm kind of patheticー...");
     MsgDispSksp(1,0);

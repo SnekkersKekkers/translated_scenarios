@@ -29,7 +29,7 @@ I'm glad you're here with me!");
     ChMotion(3,5);
     VoicePlay("B040306202_03_020");
     MsgDisp("Honda","Woah! If that light doesn't even succumb
-to all this blue... we might have a major
+to all this blue...we might have a major
 discovery on our hands?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
@@ -104,7 +104,7 @@ Curiosity killed the cat!");
         MsgDisp("Honda","It'd be one thing if it were just me, but
 I don't want anything to happen to you.
 I'll keep that in mind.");
-        MsgDisp("主人公","(｛本多＊＊｝... thank you.");
+        MsgDisp("主人公","(｛本多＊＊｝...thank you.");
         break ;
         default :
         DbgAssert(1);

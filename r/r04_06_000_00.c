@@ -45,7 +45,7 @@ skip it.");
     ChEyeOpenLevel(6,0);
     VoicePlay("R040600000_06_050");
     MsgDisp("Himuro","I'll follow the rules of society.
-... I'm not used to this kind of event.");
+...I'm not used to this kind of event.");
     break ;
     case 4:
     case 5:

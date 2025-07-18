@@ -112,7 +112,7 @@ Thank you.");
     VoicePlay("P530600000_06_110");
     MsgDisp("Himuro","Yeah.
 I'll listen from here.
-... Do your best.");
+...Do your best.");
     MsgDisp("主人公","(｛氷室＊＊｝...
 Alright, good luck!)");
     MsgClose();

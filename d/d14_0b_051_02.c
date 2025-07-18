@@ -31,7 +31,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B05102_04_020");
-MsgDisp("Nanatsumori","... You guys sure are quiet.
+MsgDisp("Nanatsumori","...You guys sure are quiet.
 Did you not watch it");
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B05102_01_000");

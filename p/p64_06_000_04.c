@@ -3,7 +3,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P640600004_06_000");
-MsgDisp("Himuro","Eh... delicious.");
+MsgDisp("Himuro","Eh...delicious.");
 MsgDisp("主人公","Genuinely?");
 ChEye(6,0);
 ChMouth(6,0);

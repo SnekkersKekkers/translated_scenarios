@@ -11,7 +11,7 @@ VoicePlay("F100220002_02_000");
 MsgDisp("Sassa","Vice President, you've come in at a good
 time.");
 MsgDisp("主人公","By Vice President, do you mean me?
-... That means...");
+...That means...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -97,7 +97,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("F100220002_05_040");
 MsgDisp("Hiiragi","Hmm, it would be rather diluted.");
-MsgDisp("主人公","(You two... that's not the problem...)");
+MsgDisp("主人公","(You two...that's not the problem...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

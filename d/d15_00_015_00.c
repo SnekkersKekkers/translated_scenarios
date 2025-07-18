@@ -34,7 +34,7 @@ ChEye ( 5,2 ) ;
 ChMouth ( 5,2 ) ;
 ChMotion ( 5,4 ) ;
 VoicePlay ( "D150001500_05_020" ) ;
-MsgDisp ( "Hiiragi","...... Ah." ) ;
+MsgDisp ( "Hiiragi","......Ah." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,5 ) ;
 SEPlay ( "EV_SE_018" ) ;

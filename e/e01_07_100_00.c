@@ -48,7 +48,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010710000_07_050");
 MsgDisp("Mikage","How about you in class?");
-MsgDisp("主人公","Huh... are you talking about us
+MsgDisp("主人公","Huh...are you talking about us
 students...?");
 ChEye(7,0);
 ChMouth(7,0);

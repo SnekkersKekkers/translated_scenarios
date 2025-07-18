@@ -88,7 +88,7 @@ What should I do?)");
         break ;
         case 1:
         VoicePlay("S040100000_01_100");
-        MsgDisp("Kazama","... Well, we don't have to go today.
+        MsgDisp("Kazama","...Well, we don't have to go today.
 It's crowded, anyway.");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("S040100000_01_110");

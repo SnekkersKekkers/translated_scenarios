@@ -39,7 +39,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("Q100C00000_07_010");
-MsgDisp("Mikage","... Oh.
+MsgDisp("Mikage","...Oh.
 Speaking of glasses, let's not forget
 Inori's souvenirs.");
 MsgDisp("主人公","Hehe, that's true.");

@@ -53,7 +53,7 @@ I won't let you complain, so be prepared.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040611000_06_040");
-    MsgDisp("Himuro","... Go ahead.
+    MsgDisp("Himuro","...Go ahead.
 Everyone has their own way of having fun
 after all.");
     MsgDateResultDisp();

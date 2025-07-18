@@ -51,7 +51,7 @@ VoicePlay("F020100005_01_050");
 MsgDisp("Kazama","I've always dreamt of being in the same
 class as you and getting the same work as
 you. What's wrong with that?");
-MsgDisp("主人公","I see... so it makes you happy?");
+MsgDisp("主人公","I see...so it makes you happy?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

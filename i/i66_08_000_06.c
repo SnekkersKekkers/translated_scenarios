@@ -15,7 +15,7 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,1,1);
     VoicePlay("I660800006_08_000");
     MsgDisp("Shirahane","Aah!
-... They left!");
+...They left!");
     MsgDisp("主人公","Hm?");
     ChEye(8,2);
     ChMouth(8,4);
@@ -54,7 +54,7 @@ I'll have to get it together...!)");
     ChMotion(8,1,1);
     VoicePlay("I660800006_08_040");
     MsgDisp("Shirahane","Aah!
-... I didn't make it.");
+...I didn't make it.");
     MsgDisp("主人公","Hm?");
     ChEye(8,2);
     ChMouth(8,0);
@@ -80,7 +80,7 @@ you, ｛大地＊＊｝...");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800006_08_070");
-    MsgDisp("Shirahane","At me... that's it!");
+    MsgDisp("Shirahane","At me...that's it!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);

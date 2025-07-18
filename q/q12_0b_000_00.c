@@ -70,7 +70,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("Q120B00000_04_030");
-MsgDisp("Nanatsumori","... Stop it.
+MsgDisp("Nanatsumori","...Stop it.
 That topic is now unneeded.");
 ChEye(1,2);
 ChMouth(1,0);
@@ -84,7 +84,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q120B00000_01_030");
-MsgDisp("Kazama","... Yeah, that was fun.
+MsgDisp("Kazama","...Yeah, that was fun.
 Really.");
 ChEye(1,0);
 ChSet(3,3);

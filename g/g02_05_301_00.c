@@ -39,7 +39,7 @@ ChEye(5,3);
 VoicePlay("G020530100_05_060");
 MsgDisp("Hiiragi","Although you might not need such support,
 right?");
-MsgDisp("主人公","It's not that though... If the student
+MsgDisp("主人公","It's not that though...If the student
 council committee were to show support,
 wouldn't that be breaking the rules?");
 ChEye(5,2);

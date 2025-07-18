@@ -32,7 +32,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600002_06_030");
-MsgDisp("Himuro","Although... maybe if you have a stomach
+MsgDisp("Himuro","Although...maybe if you have a stomach
 ache.");
 MsgDisp("主人公","Huh?
 ｛氷室＊＊｝, do you pray when your

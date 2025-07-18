@@ -6,20 +6,20 @@ VoiceEVSPlay(4);
 VoicePlay("G020440001_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.
 What do you think of men who crossdress?");
-MsgDisp("主人公","Umm... like dressing androgynously?");
+MsgDisp("主人公","Umm...like dressing androgynously?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020440001_04_010");
-MsgDisp("Nanatsumori","Uh... well, kind of.
+MsgDisp("Nanatsumori","Uh...well, kind of.
 Like being a witch or dressing as a high
 school girl.");
-MsgDisp("主人公","... Like cosplay?");
+MsgDisp("主人公","...Like cosplay?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440001_04_020");
-MsgDisp("Nanatsumori","Y-Yeah... like cosplay, not crossdressing,
+MsgDisp("Nanatsumori","Y-Yeah...like cosplay, not crossdressing,
 okay?");
 MsgDisp("主人公","Hehe.");
 ChEye(4,4);

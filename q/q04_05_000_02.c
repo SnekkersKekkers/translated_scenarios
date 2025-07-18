@@ -8,7 +8,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("Q040500002_05_000");
     MsgDisp("Hiiragi","I apologize, however I already promised to
 go with somebody else.");
-    MsgDisp("主人公","I see... that can't be helped.");
+    MsgDisp("主人公","I see...that can't be helped.");
     ChMotion(5,0);
     VoicePlay("Q040500002_05_010");
     MsgDisp("Hiiragi","Yes.

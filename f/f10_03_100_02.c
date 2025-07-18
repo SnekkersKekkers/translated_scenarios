@@ -1,7 +1,7 @@
 BGOpen("sc501",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Lunch break is going to end soon. I have
-to head back to the classroom... Ah, there
+to head back to the classroom...Ah, there
 are two umbrellas lying around today
 too...)");
 MsgClose();

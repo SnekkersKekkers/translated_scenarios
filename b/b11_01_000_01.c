@@ -14,13 +14,13 @@ MsgClose();
 SEPlay("EV_SE_557");
 ChOpen(34,254,0,1,0,#1,#1,0,0);
 MsgDisp("主人公","Ehh∋
-... Me?");
+...Me?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110100001_34_010");
 MsgDisp("Guy","Yes, you.
 Because you understand me.");
-MsgDisp("主人公","Umm... just who are you?");
+MsgDisp("主人公","Umm...just who are you?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110100001_34_020");

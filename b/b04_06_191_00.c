@@ -24,7 +24,7 @@ vicariously was extremely valuable.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040619100_06_010");
-    MsgDisp("Himuro","Well... so you prefer it when there's more
+    MsgDisp("Himuro","Well...so you prefer it when there's more
 of a story? Next time I'll take that into
 consideration.");
     MsgDispSksp(1,0);

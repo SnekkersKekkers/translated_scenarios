@@ -9,7 +9,7 @@ MsgDisp("Himuro","Yes.");
 MsgDisp("主人公","Ah, ｛氷室＊＊｝?
 It's me, but...");
 VoicePlay("C010600000_06_010");
-MsgDisp("Himuro","... What?
+MsgDisp("Himuro","...What?
 If you have business with me, keep it
 short.");
 MsgDisp("主人公","(Uu...

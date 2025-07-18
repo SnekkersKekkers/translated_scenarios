@@ -11,7 +11,7 @@ VoicePlay("B360222101_02_000");
 MsgDisp("Sassa","Phewー...
 Somehow we managed to make it in time for
 the sunset.");
-MsgDisp("主人公","Haa... yeah.");
+MsgDisp("主人公","Haa...yeah.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,255,4,0,0,#1,#1,0,0);

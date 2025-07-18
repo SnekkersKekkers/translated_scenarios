@@ -80,7 +80,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B330A20701_01_030");
 MsgDisp("Kazama","Shut up.
 That goes for you too, Inori.");
-MsgDisp("主人公","Umm... what's wrong?");
+MsgDisp("主人公","Umm...what's wrong?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -92,7 +92,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20701_01_040");
-MsgDisp("Kazama","Haa... yeah, that's right.");
+MsgDisp("Kazama","Haa...yeah, that's right.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -36,7 +36,7 @@ VoicePlay("A020310000_03_040");
 MsgDisp("Honda","You wanna know?
 Alright, I'll let you in on it.
 Close your eyes for a sec.");
-MsgDisp("主人公","What... Eh, okay.");
+MsgDisp("主人公","What...Eh, okay.");
 ScrFadeOut(3,30);
 VoicePlay("A020310000_03_050");
 MsgDisp("Honda","You are now in your classroom, sitting in

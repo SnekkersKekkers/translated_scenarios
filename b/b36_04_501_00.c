@@ -51,7 +51,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("B360450100_04_060");
 MsgDisp("Nanatsumori","I see.
-... Yeah, maybe that's true.");
+...Yeah, maybe that's true.");
 MsgDisp("主人公","Hehe!");
 BGMStop();
 MsgClose();

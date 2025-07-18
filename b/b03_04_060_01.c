@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,2);
     VoicePlay("B030406001_04_010");
-    MsgDisp("Nanatsumori","... Sure thing.");
+    MsgDisp("Nanatsumori","...Sure thing.");
     break ;
     case 1:
     ChEye(4,0);
@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B030406001_04_020");
     MsgDisp("Nanatsumori","Sounds good.
-... Even more so since I won't have to
+...Even more so since I won't have to
 change into my swimsuit.");
     break ;
     default :

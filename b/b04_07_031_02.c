@@ -82,7 +82,7 @@ apologize when it's absolutely necessary.");
         VoicePlay("B040703102_07_080");
         MsgDisp("Mikage","I'll buy you a Giant Isopod pen set.");
         MsgDisp("主人公","(｛御影＊＊｝ is kind.
-... But let's be more careful about
+...But let's be more careful about
 forgetting things.)");
         break ;
         default :
@@ -96,7 +96,7 @@ forgetting things.)");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040703102_07_090");
-    MsgDisp("Mikage","Aaah, right... keep it within reason,
+    MsgDisp("Mikage","Aaah, right...keep it within reason,
 okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

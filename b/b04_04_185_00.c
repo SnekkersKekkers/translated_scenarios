@@ -25,7 +25,7 @@ this is a true story.");
     ChMouth(4,2);
     ChMotion(4,0);
     VoicePlay("B040418500_04_010");
-    MsgDisp("Nanatsumori","... So-so?
+    MsgDisp("Nanatsumori","...So-so?
 You sure are cool, aren't you.");
     MsgDateResultDisp();
     break ;

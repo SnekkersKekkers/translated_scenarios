@@ -73,7 +73,7 @@ Why?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B010200002_02_070");
-    MsgDisp("Sassa","You asked why too... Seems like I walked
+    MsgDisp("Sassa","You asked why too...Seems like I walked
 here normally at first? But before I knew
 it, I started running.");
     MsgDisp("主人公","What?

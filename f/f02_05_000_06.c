@@ -54,5 +54,5 @@ ChMotion(5,3);
 VoicePlay("F020500006_05_050");
 MsgDisp("Hiiragi","How strange. Not once in my life have I
 encountered a giant ball. And to roll it
-as well... I am looking forward to it.");
+as well...I am looking forward to it.");
 MsgDisp("主人公","(｛柊＊＊＊｝, what did you think it was?)");

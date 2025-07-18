@@ -26,7 +26,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("B020101000_01_020");
-MsgDisp("Kazama","... But I'll get upset if other people see
+MsgDisp("Kazama","...But I'll get upset if other people see
 it.");
 MsgDisp("主人公","(It seems like he really likes this
 swimsuit!)");

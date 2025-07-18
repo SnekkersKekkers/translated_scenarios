@@ -15,7 +15,7 @@ ChMotion(4,2,1);
 VoicePlay("B150410000_04_010");
 MsgDisp("Nanatsumori","Yeah, yeah.
 It's my loss so it's over for tonight.
-... Haa.");
+...Haa.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

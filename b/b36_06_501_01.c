@@ -88,7 +88,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B360650101_06_110");
-MsgDisp("Himuro","... Thanks.
+MsgDisp("Himuro","...Thanks.
 I almost lost sight of something
 important.");
 MsgDisp("主人公","(｛氷室＊＊｝...)");

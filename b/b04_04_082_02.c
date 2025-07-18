@@ -101,7 +101,7 @@ You should get it now too!");
         VoicePlay("B040408202_04_110");
         MsgDisp("Nanatsumori","I realised for the first time, that there
 are just some realities I don't need to
-know about... that was the summer when I
+know about...that was the summer when I
 was 5 years old.");
         MsgDisp("主人公","I guess it's become a trauma for you...");
         ChMouth(4,2);

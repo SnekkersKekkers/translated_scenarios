@@ -55,7 +55,7 @@ ChCheek(1,5);
 Wait(8,0);
 ChMotion(1,1);
 VoicePlay("G020130001_01_060");
-MsgDisp("Kazama","Ah, well that's... you know, Inori teasing
+MsgDisp("Kazama","Ah, well that's...you know, Inori teasing
 me for no reason...");
 ChEye(1,1);
 ChMouth(1,1);
@@ -64,7 +64,7 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("G020130001_01_070");
 MsgDisp("Kazama","and Sassa challenging me to arm wrestling,
-calling it a strength test... Those guys
+calling it a strength test...Those guys
 are really such brats, so troubling.");
 MsgDisp("主人公","(Hehe.
 In other words, you get along well, huh!)");

@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,255,0,2,2,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080100000_01_010");
-    MsgDisp("Kazama","I see... okay.");
+    MsgDisp("Kazama","I see...okay.");
     break ;
     case 4:
     case 5:

@@ -24,7 +24,7 @@ ChMotion(8,2,1);
 VoicePlay("B150800200_08_030");
 MsgDisp("Shirahane","Could it be, you don't see that I look
 troubled?");
-MsgDisp("主人公","Umm... maybe you look a bit bashful?");
+MsgDisp("主人公","Umm...maybe you look a bit bashful?");
 ChEye(8,0);
 ChMouth(8,5);
 ChMotion(8,5,1);

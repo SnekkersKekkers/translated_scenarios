@@ -32,7 +32,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B070600002_06_520");
-MsgDisp("Himuro","Ah... no, I'm not saying I particularly
+MsgDisp("Himuro","Ah...no, I'm not saying I particularly
 dislike it.");
 ChEye(6,0);
 ChMouth(6,0);

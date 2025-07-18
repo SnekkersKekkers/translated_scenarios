@@ -9,7 +9,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("N020300000_03_000");
-    MsgDisp("Honda","The first among all the students is... not
+    MsgDisp("Honda","The first among all the students is...not
 me!");
     MsgDisp("主人公","Ah, ｛本多＊＊｝.
 Umm...");

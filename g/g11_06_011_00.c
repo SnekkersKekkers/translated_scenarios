@@ -12,7 +12,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601100_06_010");
-MsgDisp("Himuro","You know, you have time... after this.
+MsgDisp("Himuro","You know, you have time...after this.
 You quit your part time job.");
 MsgDisp("主人公","Ah...
 I-I see.");
@@ -59,7 +59,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601100_06_070");
 MsgDisp("Himuro","In any case.
-You knew I would miss you... a little bit.");
+You knew I would miss you...a little bit.");
 MsgDisp("主人公","Huh.");
 ChEye(6,2);
 ChMouth(6,0);

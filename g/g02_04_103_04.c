@@ -48,7 +48,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("G020410304_04_070");
-MsgDisp("Nanatsumori","No... never mind.
+MsgDisp("Nanatsumori","No...never mind.
 I might lose my livelihood doing that...");
 MsgDisp("主人公","(I wonder how big of a surprise would he
 have given me?)");

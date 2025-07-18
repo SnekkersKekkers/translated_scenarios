@@ -24,7 +24,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P740100000_01_020");
-MsgDisp("Kazama","... Geez, I was trying to think of a way
+MsgDisp("Kazama","...Geez, I was trying to think of a way
 on how to comfort you.
 But it was for nothing.");
 MsgDisp("主人公","(Yay, a huge success!)");

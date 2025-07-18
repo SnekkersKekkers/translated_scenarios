@@ -62,7 +62,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","Sorry for the wait. Strawberry parfait
-and... eh?");
+and...eh?");
 MsgDisp("主人公","(He's not in his seat anymore, what should
 I do?)");
 VoicePlay("A020430000_04_030");
@@ -83,7 +83,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("A020430000_04_050");
-MsgDisp("Nanatsumori?","Well, I don't blame you... Don't worry.
+MsgDisp("Nanatsumori?","Well, I don't blame you...Don't worry.
 I'm the same person that was seating here
 earlier.");
 MsgDisp("主人公","A...Alright.");

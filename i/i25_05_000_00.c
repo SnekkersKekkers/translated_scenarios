@@ -28,7 +28,7 @@ I shall go look.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(I see, ｛柊＊＊＊｝ is the
-chairman of a theater company... I can't
+chairman of a theater company...I can't
 believe I know such a great person.)");
     break ;
     case 3:
@@ -108,7 +108,7 @@ studying.)");
 Let me take that for you.");
     SEPlay("EV_SE_043");
     SEWait();
-    MsgDisp("主人公","... Hm? \"
+    MsgDisp("主人公","...Hm? \"
 Habataki City Dating Guidebook\"?");
     ChEye(5,3);
     ChMotion(5,4);

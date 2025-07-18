@@ -48,7 +48,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07002_21_030");
-MsgDisp("Michiru","I'm... a calm moon.");
+MsgDisp("Michiru","I'm...a calm moon.");
 MsgDisp("主人公","???");
 ChEye(22,0);
 ChMouth(22,3);
@@ -60,7 +60,7 @@ ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("D140D07002_21_040");
 MsgDisp("Michiru","...How crude.");
-MsgDisp("主人公","(Umm... seems like you can't really
+MsgDisp("主人公","(Umm...seems like you can't really
 understand these two just by looking
 right?)");
 BGMStop();

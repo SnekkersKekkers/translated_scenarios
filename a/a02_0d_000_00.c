@@ -17,7 +17,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,254,0,0,4,#1,#1,0,1);
 ChOpen(22,254,0,0,0,#1,#1,0,2);
 VoicePlay("A020D00000_21_010");
-MsgDisp("Michiru?","You... You weren't a student at Habataki
+MsgDisp("Michiru?","You...You weren't a student at Habataki
 Middle School, were you?");
 MsgDisp("主人公","Me? No, I didn't go to Habataki Middle
 School, actually...");
@@ -45,9 +45,9 @@ ChEye(21,1);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("A020D00000_21_030");
-MsgDisp("Michiru?","Hikaru... Let's not use nicknames before
+MsgDisp("Michiru?","Hikaru...Let's not use nicknames before
 we've properly introduced ourselves.");
-MsgDisp("主人公","Wait, Michiru... Hikaru... You're the
+MsgDisp("主人公","Wait, Michiru...Hikaru...You're the
 \"Hanatsubaki Twins\" model twins!?∋");
 ChEye(21,0);
 ChMouth(21,0);
@@ -65,13 +65,13 @@ VoicePlay("A020D00000_21_040");
 MsgDisp("Michiru","And I'm Hanatsubaki Michiru.
 It's a pleasure, Mari.");
 MsgDisp("主人公","Wait...
-You mean me? I'm... Mari?");
+You mean me? I'm...Mari?");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("A020D00000_21_050");
 MsgDisp("Michiru","Yes. A girl full of grace, overflowing
-with charm... Like a delicate flower in
+with charm...Like a delicate flower in
 bloom..");
 ChEye(22,0);
 ChMouth(22,3);
@@ -115,8 +115,8 @@ ChMotion(21,0);
 VoicePlay("A020D00000_21_080");
 MsgDisp("Michiru","And if it's fashion advice, I've got you
 covered.");
-MsgDisp("主人公","O-Oh... okay! Thank you so much,
-Michiru-san... Hikaru-san!");
+MsgDisp("主人公","O-Oh...okay! Thank you so much,
+Michiru-san...Hikaru-san!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -133,7 +133,7 @@ SEPlay("EV_SE_856");
 BGMStop();
 ChClose(21,0,30);
 ChClose(22,0,30);
-MsgDisp("主人公","(No way... The Hanatsubaki Twin models,
+MsgDisp("主人公","(No way...The Hanatsubaki Twin models,
 and relatives of world-famous designer
 \"Hanatsubaki Goro\"— go to this
 school...!?)");

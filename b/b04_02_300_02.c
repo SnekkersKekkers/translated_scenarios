@@ -109,7 +109,7 @@ You make a good combination you know?");
         VoicePlay("B040230002_02_110");
         MsgDisp("Sassa","Yeah.
 Isn't it better if you get along?
-For the future... you know.");
+For the future...you know.");
         MsgDisp("主人公","(...
 Waa, what should I do, should I greet her
 again?)");

@@ -38,7 +38,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210301_02_040");
-MsgDisp("Sassa","Well... sort of.
+MsgDisp("Sassa","Well...sort of.
 But the real trouble started after that.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
@@ -56,7 +56,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("G020210301_02_060");
 MsgDisp("Sassa","It's not funny at all. In the end, I could
-even smell your scent... I started
+even smell your scent...I started
 wondering if you were still hiding
 somewhere and searched around.");
 ChEye(2,2);

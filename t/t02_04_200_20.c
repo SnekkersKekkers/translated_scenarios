@@ -7,7 +7,7 @@ ChMouth(4,4);
 ChCheek(4,8);
 VoicePlay("T020420000_04_110");
 MsgDisp("Nanatsumori","Really...?");
-MsgDisp("主人公","Do you... not believe me?");
+MsgDisp("主人公","Do you...not believe me?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);
@@ -42,7 +42,7 @@ StlOpen("ev_04_17");
 ScrFadeIn(0);
 VoicePlay("T020420000_04_160");
 MsgDisp("Nanatsumori","I love you. From now on please continue
-looking at me... Look only at me.");
+looking at me...Look only at me.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

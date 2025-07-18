@@ -1,7 +1,7 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","... Alright.
+MsgDisp("主人公","...Alright.
 Time to head home.
 Huh, is that...");
 VoicePlay("E010140000_01_000");
@@ -115,8 +115,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(｛風真＊＊｝... He is definitely gonna be
+MsgDisp("主人公","(｛風真＊＊｝...He is definitely gonna be
 pressured into doing it by
-｛みちる＊｝... )");
+｛みちる＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

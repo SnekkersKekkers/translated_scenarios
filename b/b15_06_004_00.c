@@ -50,7 +50,7 @@ Wait(30,0);
 ChOpen(6,255,2,1,1,0,#1,0,0);
 VoicePlay("B150600400_06_050");
 MsgDisp("Himuro","What.");
-MsgDisp("主人公","I just... wanted to apologize.");
+MsgDisp("主人公","I just...wanted to apologize.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -93,7 +93,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B150600400_06_110");
-MsgDisp("Himuro","... Then, I'm heading home.
+MsgDisp("Himuro","...Then, I'm heading home.
 Goodnight.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);

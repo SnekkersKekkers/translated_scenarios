@@ -62,7 +62,7 @@ ChEye(4,5);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("E010420200_04_030");
-MsgDisp("Nanatsumori","Wow-... You're the leader, an actor, and a
+MsgDisp("Nanatsumori","Wow-...You're the leader, an actor, and a
 handyman. Yano-san, you're seriously
 amazing.");
 ChEye(5,2);
@@ -87,7 +87,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("E010420200_04_040");
-MsgDisp("Nanatsumori","... His energy is definitely different.
+MsgDisp("Nanatsumori","...His energy is definitely different.
 Is that what happens when you're at a
 leader level?");
 MsgDisp("主人公","(Hehe!

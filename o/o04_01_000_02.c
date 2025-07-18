@@ -31,7 +31,7 @@ If only I had thrown one more...)");
     VoicePlay("O040100002_01_020");
     MsgDisp("Kazama","Well, as long as we're still unbeatable,
 then it's okay.");
-    MsgDisp("主人公","(Hm... we definitely didn't lose, but I
+    MsgDisp("主人公","(Hm...we definitely didn't lose, but I
 wish we had won.)");
     break ;
     default :

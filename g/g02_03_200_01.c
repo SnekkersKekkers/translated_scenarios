@@ -27,7 +27,7 @@ ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320001_03_040");
-MsgDisp("Honda","... Yeah, maybe.
+MsgDisp("Honda","...Yeah, maybe.
 But the tricky part is that I also like
 that person.");
 MsgDisp("主人公","That's complicated, huh?");

@@ -48,7 +48,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("P840600005_06_040");
 MsgDisp("Himuro","I guess we were lucky. that she was still
 running around.
-... You're too clumsy.");
+...You're too clumsy.");
 MsgDisp("主人公","(Uuugh....
 It was a huge fail...)");
 MsgClose();

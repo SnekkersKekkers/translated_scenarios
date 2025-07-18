@@ -9,7 +9,7 @@ attracted a lot of attention. Everyone
 around him is surprised, but we are both
 calm. Because ｛颯砂＊＊｝ is
 aiming to become the king of athletes.");
-MsgDisp("","Also... with ｛颯砂＊＊｝'s
+MsgDisp("","Also...with ｛颯砂＊＊｝'s
 encouragement I'm thinking of taking up
 the women's heptathlon too!");
 MsgClear();

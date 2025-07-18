@@ -32,7 +32,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P640700001_07_040");
-MsgDisp("Mikage","Phew... but we grew some nice herbs.
+MsgDisp("Mikage","Phew...but we grew some nice herbs.
 Just one more step, the final touches.
 Let's all try to think think together?");
 MsgDisp("主人公","(Uugh...

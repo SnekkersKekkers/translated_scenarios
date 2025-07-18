@@ -32,7 +32,7 @@ the day.");
         ChClose(2);
         Wait(30);
         MsgDisp("主人公","(I'm going out with ｛颯砂＊＊｝.
-... This is a date, right?)");
+...This is a date, right?)");
         break ;
         case 4:
         case 5:

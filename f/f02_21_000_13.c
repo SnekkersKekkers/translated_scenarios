@@ -28,7 +28,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F022100013_21_020");
-MsgDisp("Michiru","... Huh?
+MsgDisp("Michiru","...Huh?
 Can we really call that sightseeing then?");
 MsgDisp("主人公","Hehe!");
 MsgClose();

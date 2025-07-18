@@ -103,7 +103,7 @@ the bouquet and send that.");
     MsgDisp("Mikage","I wanted to send the real bouquet, but
 it'd get eaten, right?");
     MsgDisp("主人公","(Eaten??
-... Ah, he meant a baby animal!)");
+...Ah, he meant a baby animal!)");
     break ;
     case 4:
     case 5:

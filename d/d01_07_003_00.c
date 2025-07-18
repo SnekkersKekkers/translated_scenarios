@@ -1,7 +1,7 @@
 ChLayout(1);
 BGOpen("sc000",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yawn...So sleepy... I knew I had cleaning
+MsgDisp("主人公","(Yawn...So sleepy...I knew I had cleaning
 duty today, I should have gone to bed
 earlier...)");
 SEPlay("EV_SE_749",0.1,0.4);

@@ -25,7 +25,7 @@ drop.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("W090200000_02_030");
-    MsgDisp("Sassa","... I do like them.
+    MsgDisp("Sassa","...I do like them.
 For sure.");
     break ;
     default :

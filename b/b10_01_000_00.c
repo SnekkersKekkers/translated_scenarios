@@ -1,7 +1,7 @@
 ChClose(1,0,0);
 BGOpen("ex000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa... today didn't go so well...)");
+MsgDisp("主人公","(Haa...today didn't go so well...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","Huh, it's my phone.
 Eh, it's from ｛風真＊＊｝?");
@@ -37,6 +37,6 @@ Well, I'll see you then.");
 MsgDisp("主人公","Yeah, see you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛風真＊＊｝... called me out of concern.)");
+MsgDisp("主人公","(｛風真＊＊｝...called me out of concern.)");
 MsgClose();
 ScrFadeOut(0,0);

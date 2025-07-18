@@ -40,7 +40,7 @@ transparent.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040108400_01_030");
-    MsgDisp("Kazama","... Sheesh, what would you be doing, going
+    MsgDisp("Kazama","...Sheesh, what would you be doing, going
 around in circles like that?
 Being out with you isn't so bad, though.");
     MsgDispSksp(1,0);

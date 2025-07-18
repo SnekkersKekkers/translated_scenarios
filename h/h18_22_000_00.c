@@ -70,7 +70,7 @@ enough to make it to Koshien♪");
     VoicePlay("H182200000_22_060");
     MsgDisp("Hikaru","Hikaru's going to cheer really hard!
 Make sure you win!");
-    MsgDisp("主人公","(Victory... that's right.
+    MsgDisp("主人公","(Victory...that's right.
 Alright, let's do our best!)");
     BGMStop();
     MsgClose();

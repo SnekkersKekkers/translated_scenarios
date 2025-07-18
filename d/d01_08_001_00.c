@@ -108,7 +108,7 @@ ChMotion(8,2,1);
 VoicePlay("D010800100_08_110");
 MsgDisp("Shirahane","Now that I think about it, everyone always
 comes over during my shift.
-... I guess they wanted to see me?");
+...I guess they wanted to see me?");
 MsgDisp("主人公","Hehe, I'm sure that's it.
 Because ｛大地＊＊｝ is such
 a famous salesman.");

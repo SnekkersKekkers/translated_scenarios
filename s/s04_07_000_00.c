@@ -29,7 +29,7 @@ I'll come pick you up.");
         SEWait();
         MsgDisp("主人公","(A shrine visit with
 ｛御影＊＊｝!
-... Now what should I wear?)");
+...Now what should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -82,7 +82,7 @@ you up.");
         SEWait();
         MsgDisp("主人公","(A New Year's shrine visit with
 ｛御影＊＊｝!
-... What should I wear?)");
+...What should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

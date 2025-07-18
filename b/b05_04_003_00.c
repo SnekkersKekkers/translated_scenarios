@@ -82,7 +82,7 @@ StlMouth(4,1);
 VoicePlay("B050400300_04_080");
 MsgDisp("Nanatsumori","It's a nice black.
 And the high collar is cute too.");
-MsgDisp("主人公","Yeah, it's cute but... these are women's
+MsgDisp("主人公","Yeah, it's cute but...these are women's
 clothes?");
 StlEye(4,1);
 StlMouth(4,0);
@@ -160,7 +160,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_200");
-MsgDisp("Nanatsumori","... Hey.
+MsgDisp("Nanatsumori","...Hey.
 Have you been disillusioned?
 By me, that is.");
 MsgDisp("主人公","Nope.");
@@ -170,7 +170,7 @@ ChMotion(4,0,1);
 VoicePlay("B050400300_04_210");
 MsgDisp("Nanatsumori","Right.
 Even if it's a lie, I'm happy.
-... Thank you.");
+...Thank you.");
 MsgDisp("主人公","I'm being for real?");
 ChEye(4,2);
 ChMouth(4,3);

@@ -52,8 +52,8 @@ Hey, try opening it.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("K010400100_04_040");
-    MsgDisp("Nanatsumori","... Come here a little quieter next time.");
-    MsgDisp("主人公","Ah, sorry... ｛七ツ森＊｝,
+    MsgDisp("Nanatsumori","...Come here a little quieter next time.");
+    MsgDisp("主人公","Ah, sorry...｛七ツ森＊｝,
 happy birthday. Here's a birthday present.");
     SEPlay("EV_SE_664");
     SEWait();
@@ -62,7 +62,7 @@ happy birthday. Here's a birthday present.");
     ChMotion(4,0,1);
     VoicePlay("K010400100_04_050");
     MsgDisp("Nanatsumori","Aah.
-... Giving it to me so openly in school
+...Giving it to me so openly in school
 frustrates me a little.");
     MsgDisp("主人公","Frustrates...?
 What do you mean?");

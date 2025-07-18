@@ -43,7 +43,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300001_03_050");
-MsgDisp("Honda","Woah... the color of your eyes changed!
+MsgDisp("Honda","Woah...the color of your eyes changed!
 You're quiet about it, but this stuff
 really piques your interest, huh?");
 ChEye(3,0);

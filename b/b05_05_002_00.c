@@ -76,7 +76,7 @@ StlEye(5,0);
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,0);
 VoicePlay("B050500200_05_060");
-MsgDisp("Hiiragi","This is the energy source... I'm sure of
+MsgDisp("Hiiragi","This is the energy source...I'm sure of
 it. I can feel that gentle and warm
 feeling in my palms.");
 StlEyeOpenLevel(5,#1);

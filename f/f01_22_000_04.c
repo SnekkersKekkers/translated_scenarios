@@ -45,7 +45,7 @@ I'll go home alone.)");
     ChMotion(22,2,1);
     VoicePlay("F012200004_22_030");
     MsgDisp("Hikaru","Eh...");
-    MsgDisp("主人公","Oh... are you busy today?");
+    MsgDisp("主人公","Oh...are you busy today?");
     ChEye(22,2);
     ChMouth(22,2);
     ChMotion(22,4,1);

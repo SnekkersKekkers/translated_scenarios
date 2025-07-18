@@ -14,7 +14,7 @@ StlEye(6,0);
 StlMouth(6,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","... Huh, ｛氷室＊＊｝?
+MsgDisp("主人公","...Huh, ｛氷室＊＊｝?
 What are you doing here?");
 StlEye(5,1);
 StlMouth(5,1);
@@ -112,7 +112,7 @@ the end?)");
 SEWait();
 SEPlay("EV_SE_635");
 SEWait();
-MsgDisp("主人公","(Let's see, it says... \"
+MsgDisp("主人公","(Let's see, it says...\"
 Don't run in the hallways∈\"...
 Hehe, that's surprisingly simple?)");
 MsgClose();

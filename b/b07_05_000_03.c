@@ -2,7 +2,7 @@ MsgDisp("主人公","What sports do you do?");
 VoicePlay("B070500000_05_110");
 MsgDisp("Hiiragi","I have no experience in competitive
 sports. I have done some basic stamina
-training... as part of my studies.");
+training...as part of my studies.");
 MsgDisp("主人公","They say stamina training is crucial to
 actors.");
 ChMouth(5,4);

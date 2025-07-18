@@ -29,7 +29,7 @@ served the lords and people as retainers.");
     VoicePlay("B040110101_01_020");
     MsgDisp("Kazama","This is an anecdote about them advising
 the lord of Habataki Castle to reduce
-taxes... Talk about the total opposite of
+taxes...Talk about the total opposite of
 today's world.");
     ChEye(1,0);
     MsgDispSksp(1,0);

@@ -70,7 +70,7 @@ You won't make me forget it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(My heart is racing... Like
+    MsgDisp("主人公","(My heart is racing...Like
 ｛本多＊＊｝ says, I want to
 spend the rest of my high school life
 without regrets!)");

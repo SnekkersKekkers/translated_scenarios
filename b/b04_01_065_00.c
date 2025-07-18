@@ -31,7 +31,7 @@ student that loves this classic that much.");
     VoicePlay("B040106500_01_020");
     MsgDisp("Kazama","You're right. To be able to make it into a
 heart no matter what direction you see it
-from... That's some amazing craftsmanship.");
+from...That's some amazing craftsmanship.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

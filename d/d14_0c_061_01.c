@@ -20,7 +20,7 @@ MsgDisp("Mikage","Oh, you have a firm grasp of things.");
 ChMotion(5,0,1);
 VoicePlay("D140C06101_05_000");
 MsgDisp("Hiiragi","Does Inori-kun report all that to you?");
-MsgDisp("主人公","Yeah, not report per se... but he told me.");
+MsgDisp("主人公","Yeah, not report per se...but he told me.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -67,7 +67,7 @@ ChMotion(7,3);
 VoicePlay("D140C06101_07_040");
 MsgDisp("Mikage","Since Inori-kun is having so much fun.
 Isn't that nice.");
-MsgDisp("主人公","(Ugh... this is a little embarrassing?)");
+MsgDisp("主人公","(Ugh...this is a little embarrassing?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

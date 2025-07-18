@@ -48,7 +48,7 @@ VoicePlay("G110700200_07_030");
 MsgDisp("Mikage","Yeah, I get scolded for being in these
 clothes even when I haven't done anything.");
 MsgDisp("主人公","Haha.
-... Ah, before I forget, I came to get the
+...Ah, before I forget, I came to get the
 handout for the extracurricular lesson.");
 ChEye(7,0);
 ChMouth(7,0);

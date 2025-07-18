@@ -4,9 +4,9 @@ BGMPlay("BGM_ENGEKI_D",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P240401000_45_000");
-MsgDisp("Bell","I... I love you. I love you...! Please...");
+MsgDisp("Bell","I...I love you. I love you...! Please...");
 VoicePlay("P240401000_39_010");
-MsgDisp("Beast","Oh... oh!
+MsgDisp("Beast","Oh...oh!
 I'm returning to my original form!");
 VoicePlay("P240401000_39_020");
 MsgDisp("Beast","Thank you.

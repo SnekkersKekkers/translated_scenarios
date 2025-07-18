@@ -38,7 +38,7 @@ I have to do my best too!)");
 and see those results pay off.
 Nice work!");
     MsgDisp("主人公","(｛本多＊＊｝ you made it sound even more
-impressive but... yeah, I did my best!)");
+impressive but...yeah, I did my best!)");
     break ;
     case 4:
     case 5:

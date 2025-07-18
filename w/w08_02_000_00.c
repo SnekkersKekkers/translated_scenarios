@@ -23,7 +23,7 @@ I'm looking forward to the roller coaster!");
     ChOpen(2,255,4,0,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080200000_02_020");
-    MsgDisp("Sassa","... I see.
+    MsgDisp("Sassa","...I see.
 Michiru-san, let's go.");
     break ;
     default :

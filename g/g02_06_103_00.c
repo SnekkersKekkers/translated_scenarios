@@ -17,14 +17,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020610300_06_020");
-MsgDisp("Himuro","... Lately, I've been feeling pretty
+MsgDisp("Himuro","...Lately, I've been feeling pretty
 nervous.
 Like, when we hang out or talk.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610300_06_030");
-MsgDisp("Himuro","I keep thinking about that time... y'know,
+MsgDisp("Himuro","I keep thinking about that time...y'know,
 by the beach. Wondering if you're still
 thinking about it, or how you felt.");
 ChEye(6,0);

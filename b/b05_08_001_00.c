@@ -5,7 +5,7 @@ ChOpen(8,255,0,0,3,#1,#1,4,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_000");
-MsgDisp("Shirahane","Haa... that was amazingー!
+MsgDisp("Shirahane","Haa...that was amazingー!
 My heart is still racing.");
 ChEye(8,4);
 ChMouth(8,0);
@@ -27,7 +27,7 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B050800100_08_030");
-MsgDisp("Shirahane","Ahー... but it's this time already.
+MsgDisp("Shirahane","Ahー...but it's this time already.
 I guess we should go home soon, though...");
 ChEye(8,4);
 ChMouth(8,0);
@@ -54,7 +54,7 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa... the sunset is beautiful!");
+MsgDisp("主人公","Waa...the sunset is beautiful!");
 ChEye(8,4);
 ChMouth(8,0);
 VoicePlay("B050800100_08_060");
@@ -78,13 +78,13 @@ StlEyeOpenLevel(8,0,1);
 StlMouth(8,1);
 VoicePlay("B050800100_08_080");
 MsgDisp("Shirahane","I really respect anyone who can take on a
-big stage like that... It's like they live
+big stage like that...It's like they live
 in a different dimension?");
 MsgDisp("主人公","Hehe.");
 StlEye(8,2);
 StlMouth(8,1);
 VoicePlay("B050800100_08_090");
-MsgDisp("Shirahane","I also... want to make it big.");
+MsgDisp("Shirahane","I also...want to make it big.");
 VoicePlay("B050800100_08_100");
 MsgDisp("Shirahane","In what, I don't know though.
 I just don't wanna end up a borin' guy.");
@@ -137,7 +137,7 @@ ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_170");
-MsgDisp("Shirahane","... But, I'm fired up now!
+MsgDisp("Shirahane","...But, I'm fired up now!
 Thanks to that senior!");
 MsgDisp("主人公","He's a wonderful senpai isn't he?");
 ChEye(8,3);

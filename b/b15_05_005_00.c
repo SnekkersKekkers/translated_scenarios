@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(5,255,2,2,2,0,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150500500_05_000");
-MsgDisp("Hiiragi","Haa... wait.
+MsgDisp("Hiiragi","Haa...wait.
 PLease wait.");
 MsgDisp("主人公","∋ Um, ｛柊＊＊＊｝...");
 ChEyeOpenLevel(5,9);
@@ -39,7 +39,7 @@ MsgDisp("Hiiragi","Haa..
 I want to do that too.");
 MsgDisp("主人公","｛柊＊＊＊｝, you're going to
 leave?
-... I'll stop now.");
+...I'll stop now.");
 Wait(40,1);
 ChEye(5,0);
 ChMouth(5,0);

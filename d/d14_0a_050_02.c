@@ -110,7 +110,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140A05002_06_040");
 MsgDisp("Himuro","That sort of worrying is useless.");
-MsgDisp("主人公","(Ugh... it's kind of uncomfortable to be
+MsgDisp("主人公","(Ugh...it's kind of uncomfortable to be
 here.)");
 BGMStop();
 MsgClose();

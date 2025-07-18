@@ -87,7 +87,7 @@ Thank you.");
         ChMotion(5,4);
         VoicePlay("B040523202_05_080");
         MsgDisp("Hiiragi","Yes.
-But... do you want to try again?");
+But...do you want to try again?");
         MsgDisp("主人公","(｛柊＊＊＊｝, you like fortune telling
 this much...)");
         break ;

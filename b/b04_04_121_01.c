@@ -32,7 +32,7 @@ Then, maybe I'll get it.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040412101_04_020");
-    MsgDisp("Nanatsumori","... It really is.
+    MsgDisp("Nanatsumori","...It really is.
 This is by a foreign artist in the 80's.
 A classic...!");
     MsgDispSksp(1,0);

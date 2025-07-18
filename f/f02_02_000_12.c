@@ -40,7 +40,7 @@ ChCheek(2,0);
 VoicePlay("F020200012_02_030");
 MsgDisp("Sassa","Alright. I've got a few goals in every
 category, so when I achieve them all, I'll
-get about... 20 compliments from you.");
+get about...20 compliments from you.");
 MsgDisp("主人公","Um, 20 compliments?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -16,7 +16,7 @@ VoicePlay("B140300100_03_000");
 MsgDisp("Honda","Yeah, it feels like we've stepped into the
 world of that pop-up book we saw
 yesterday.");
-MsgDisp("主人公","It really does... what a magical feeling.");
+MsgDisp("主人公","It really does...what a magical feeling.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -28,7 +28,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B140300100_03_020");
-MsgDisp("Honda","Wait... does that mean if we look up, we
+MsgDisp("Honda","Wait...does that mean if we look up, we
 might see ourselves from yesterday?");
 MsgDisp("主人公","Eh∋");
 ChEye(3,3);

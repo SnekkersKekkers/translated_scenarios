@@ -2,7 +2,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B020602108_06_000");
-MsgDisp("Himuro","... That outfit is nice.");
+MsgDisp("Himuro","...That outfit is nice.");
 MsgDisp("主人公","Is it to your liking?");
 ChEye(6,0);
 ChMouth(6,0);

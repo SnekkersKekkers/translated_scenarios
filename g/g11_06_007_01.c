@@ -32,7 +32,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600701_06_020");
-MsgDisp("Himuro","Yeah... come to think of it, you also came
+MsgDisp("Himuro","Yeah...come to think of it, you also came
 to see me last time.");
 MsgDisp("主人公","Yeah.
 You were really cool!");
@@ -68,7 +68,7 @@ ChMotion(6,0);
 VoicePlay("G110600701_06_070");
 MsgDisp("Himuro","He's also the person who invited me to
 surf.");
-MsgDisp("主人公","Woah... that's so cool!");
+MsgDisp("主人公","Woah...that's so cool!");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
@@ -82,7 +82,7 @@ ChMotion(6,2);
 VoicePlay("G110600701_06_090");
 MsgDisp("Himuro","I'm really grateful for that.");
 MsgDisp("主人公","(｛氷室＊＊｝ feels indebted to the shop
-chairman... that's wonderful.)");
+chairman...that's wonderful.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

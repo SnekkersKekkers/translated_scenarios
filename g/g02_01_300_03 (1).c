@@ -57,7 +57,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130003_01_060");
-MsgDisp("Kazama","... Nah, let's come just the two of us
+MsgDisp("Kazama","...Nah, let's come just the two of us
 next time too.
 Make sure no one realizes, okay?");
 MsgDisp("主人公","I think they'd figure it out pretty

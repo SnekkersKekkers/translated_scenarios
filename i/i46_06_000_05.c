@@ -18,7 +18,7 @@ arrangements are popular.");
     MsgDisp("主人公","There are also male clerks if you'd like
 me to call one over?");
     VoicePlay("I460600005_40_030");
-    MsgDisp("Male Customer","Ah... yes, please.");
+    MsgDisp("Male Customer","Ah...yes, please.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

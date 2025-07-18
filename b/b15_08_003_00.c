@@ -31,7 +31,7 @@ MsgDisp("Shirahane","If we don't stop this now——");
 ChMotion(8,0,1);
 ChCheek(8,8);
 VoicePlay("B150800300_08_050");
-MsgDisp("Shirahane","I might... do something indecent to you.");
+MsgDisp("Shirahane","I might...do something indecent to you.");
 MsgDisp("主人公","Eh...?");
 ChEye(8,4);
 ChMouth(8,4);

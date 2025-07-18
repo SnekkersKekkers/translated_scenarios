@@ -27,7 +27,7 @@ I wish I tried harder.)");
     VoicePlay("O020300001_03_010");
     MsgDisp("Honda","It looked like either team could've won
 today's match.
-... Until halfway through.");
+...Until halfway through.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0);

@@ -41,7 +41,7 @@ at a nice view.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423201_04_030");
-    MsgDisp("Nanatsumori","Actually... I took one, secretly. Because
+    MsgDisp("Nanatsumori","Actually...I took one, secretly. Because
 you were making such a nice expression.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

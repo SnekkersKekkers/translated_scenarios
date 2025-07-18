@@ -51,7 +51,7 @@ ChMotion(22,3,1);
 VoicePlay("P730D00001_22_020");
 MsgDisp("Hikaru","Mari is a princess today!
 Right?");
-MsgDisp("主人公","(Princess... huh?
+MsgDisp("主人公","(Princess...huh?
 Alright, I have to look gorgeous!)");
 MsgClose();
 ScrFadeOut(0,0);

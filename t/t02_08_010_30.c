@@ -24,7 +24,7 @@ VoicePlay("T020801000_08_380");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0,1);
-MsgDisp("Shirahane","But... thank you, really.");
+MsgDisp("Shirahane","But...thank you, really.");
 VoicePlay("T020801000_08_390");
 MsgDisp("Shirahane","Thanks to you, my high school life was so
 fun.");

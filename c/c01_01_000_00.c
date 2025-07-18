@@ -17,7 +17,7 @@ VoicePlay("C010100000_01_020");
 MsgDisp("Kazama","Haa...");
 MsgDisp("主人公","｛風真＊＊｝?");
 VoicePlay("C010100000_01_030");
-MsgDisp("Kazama","... Listen, you.
+MsgDisp("Kazama","...Listen, you.
 Tell me these kinds of things sooner.");
 MsgDisp("主人公","I, I'm sorry...");
 VoicePlay("C010100000_01_040");

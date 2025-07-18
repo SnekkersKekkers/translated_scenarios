@@ -13,7 +13,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070200001_02_200");
-MsgDisp("Sassa","The remaining 30 percent... are stories
+MsgDisp("Sassa","The remaining 30 percent...are stories
 about you.");
 MsgDisp("主人公","Eh, me?");
 ChEye(2,0);

@@ -17,7 +17,7 @@ See you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(3);
-MsgDisp("主人公","... yeah.
+MsgDisp("主人公","...yeah.
 Good night.");
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

@@ -53,7 +53,7 @@ ScrFadeIn(0);
 VoicePlay("P240601000_06_030");
 MsgDisp("Himuro","Day after day, I diligently worked as
 Altair. I was supposed to be content with
-that life... Until you, Orihime appeared
+that life...Until you, Orihime appeared
 suddenly and disrupted that.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -84,7 +84,7 @@ things, tell me.");
     ChCheek(2,10);
     VoicePlay("P830200000_02_070");
     MsgDisp("Sassa","Because it's a bucket?
-... Was that bad?");
+...Was that bad?");
     MsgDisp("主人公","Hehe!");
     ChEye(2,0);
     ChMouth(2,3);

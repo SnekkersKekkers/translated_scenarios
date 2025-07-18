@@ -45,7 +45,7 @@ I'm looking forward to Sunday!)");
         case 4:
         case 5:
         VoicePlay("J060401000_04_030");
-        MsgDisp("Nanatsumori","Ahh ... not good then?");
+        MsgDisp("Nanatsumori","Ahh ...not good then?");
         MsgDisp("主人公","Yeah...");
         VoicePlay("J060401000_04_040");
         MsgDisp("Nanatsumori","Okay.

@@ -140,7 +140,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B10401_03_040");
-MsgDisp("Honda","And if you didn't hear it... then was it
+MsgDisp("Honda","And if you didn't hear it...then was it
 your inner voice?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -162,7 +162,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10401_03_050");
 MsgDisp("Honda","Let's listen to it one more time.");
-MsgDisp("主人公","(Umm... everyone's eyes are kind of
+MsgDisp("主人公","(Umm...everyone's eyes are kind of
 scary.)");
 BGMStop();
 MsgClose();

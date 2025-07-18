@@ -50,7 +50,7 @@ complete.");
     VoicePlay("P730500001_05_050");
     MsgDisp("Hiiragi","Yes, now it's complete.
 Have fun.");
-    MsgDisp("主人公","(Smile... huh?
+    MsgDisp("主人公","(Smile...huh?
 Alright, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);

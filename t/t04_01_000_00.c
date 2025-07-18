@@ -26,7 +26,7 @@ NSSEye(1,0);
 NSSMouth(1,0);
 NSSEyeOpenLevel(1,5);
 VoicePlay("T040100000_01_020");
-MsgDisp("Kazama","Hey... when you say it, it's a little
+MsgDisp("Kazama","Hey...when you say it, it's a little
 scary.");
 MsgDisp("主人公","Then, I won't forget it.");
 NSSEye(1,6);

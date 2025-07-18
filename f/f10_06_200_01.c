@@ -33,7 +33,7 @@ MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F100620001_06_010");
 MsgDisp("Himuro","Who were you talking to just now?");
-MsgDisp("主人公","Umm... myself?");
+MsgDisp("主人公","Umm...myself?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

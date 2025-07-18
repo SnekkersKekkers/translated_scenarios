@@ -16,7 +16,7 @@ ChEye(32,1);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("P553200005_32_010");
-MsgDisp("VP Himuro","... Hm.
+MsgDisp("VP Himuro","...Hm.
 What have you, yourself learned as a
 member of the wind instrument club?");
 MsgDisp("主人公","How to play an instrument and...");

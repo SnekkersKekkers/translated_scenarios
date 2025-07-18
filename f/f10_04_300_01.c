@@ -54,7 +54,7 @@ ChMouth(22,5);
 ChMotion(22,5,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F100430001_22_030");
-MsgDisp("Hikaru","Eh... no way?
+MsgDisp("Hikaru","Eh...no way?
 Mari doesn't know∋");
 ChEye(4,1);
 ChMouth(4,1);

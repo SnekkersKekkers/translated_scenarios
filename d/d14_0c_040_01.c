@@ -64,7 +64,7 @@ VoicePlay("D140C04001_05_040");
 MsgDisp("Hiiragi","Do you like him, think he's cute, despise
 him?
 Stuff like that.");
-MsgDisp("主人公","Hmm... he has a cute side for sure, but
+MsgDisp("主人公","Hmm...he has a cute side for sure, but
 there are probably also times where I
 detest him a bit.");
 ChEye(5,4);
@@ -78,7 +78,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140C04001_05_060");
-MsgDisp("Hiiragi","... I see.
+MsgDisp("Hiiragi","...I see.
 I too like Inori-kun.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -98,7 +98,7 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C04001_05_070");
-MsgDisp("Hiiragi","I aim to be diligent but... funny?
+MsgDisp("Hiiragi","I aim to be diligent but...funny?
 I don't understand.");
 MsgDisp("主人公","Yeah.
 I also don't get it.");

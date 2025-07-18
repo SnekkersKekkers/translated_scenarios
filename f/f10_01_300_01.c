@@ -8,7 +8,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100130001_01_000");
-MsgDisp("Kazama","... I've got a bad feeling.
+MsgDisp("Kazama","...I've got a bad feeling.
 Later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -33,7 +33,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100130001_22_010");
-MsgDisp("Hikaru","Oh... are you still upset about what
+MsgDisp("Hikaru","Oh...are you still upset about what
 happened earlier?
 Sorry♪");
 MsgClose();

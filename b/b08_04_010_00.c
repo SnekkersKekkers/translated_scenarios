@@ -1,7 +1,7 @@
 BGOpen("ho000",2);
 MsgDisp("主人公","Hello?");
 VoicePlay("B080401000_04_000");
-MsgDisp("Nanatsumori","Ah... it's Nanatsumori.
+MsgDisp("Nanatsumori","Ah...it's Nanatsumori.
 Are you free just no——");
 MsgDisp("主人公","Umm, sorry.
 I'm out just now.");

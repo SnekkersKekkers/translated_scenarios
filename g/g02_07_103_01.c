@@ -48,7 +48,7 @@ ChMotion(7,0);
 VoicePlay("G020710301_07_060");
 MsgDisp("Mikage","It's nothing.
 Let's keep making lots of memories.");
-MsgDisp("主人公","(｛御影＊＊｝... seemed a little lonely
+MsgDisp("主人公","(｛御影＊＊｝...seemed a little lonely
 just now...)");
 BGMStop();
 MsgClose();

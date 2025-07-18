@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChEye(4,1);
     ChMotion(4,0,1);
     MsgDisp("Nanatsumori","A brick road?
-... Well, it's whatever.
+...Well, it's whatever.
 That's fine.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -27,7 +27,7 @@ That's fine.");
     ChEyeOpenLevel(4,10);
     MsgDisp("Nanatsumori","∋ But that place is a date spo— No,
 nevermind.
-... Let's go.");
+...Let's go.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

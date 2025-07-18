@@ -69,7 +69,7 @@ I think it would suit you.");
         VoicePlay("B040421202_04_060");
         MsgDisp("Nanatsumori","Haha!
 You're so funny.");
-        MsgDisp("主人公","Ugh... you're teasing me.");
+        MsgDisp("主人公","Ugh...you're teasing me.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -92,7 +92,7 @@ bunny.");
         ChMotion(4,0,1);
         ChCheek(4,2);
         VoicePlay("B040421202_04_090");
-        MsgDisp("Nanatsumori","Well... it can't be helped.
+        MsgDisp("Nanatsumori","Well...it can't be helped.
 I seriously do want to see it after all.");
         MsgDisp("主人公","Ehー...");
         MsgDisp("主人公","Okay, understood.

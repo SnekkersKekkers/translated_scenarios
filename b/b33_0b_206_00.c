@@ -36,12 +36,12 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B20600_04_010");
 MsgDisp("Nanatsumori","I get that.
-But... this movie...");
+But...this movie...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("B330B20600_01_010");
-MsgDisp("Kazama","Ahh... the closet?
+MsgDisp("Kazama","Ahh...the closet?
 The motif is a closet.");
 ChEye(1,0);
 ChMouth(1,2);

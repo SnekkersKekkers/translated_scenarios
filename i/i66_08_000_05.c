@@ -14,7 +14,7 @@ switch (ChPrmGet(8,6)){
     ChMouth(8,3);
     VoicePlay("I660800005_08_000");
     MsgDisp("Shirahane","Okay, lemme check.
-... Full marks!");
+...Full marks!");
     MsgDisp("主人公","Yes!");
     VoicePlay("I660800005_39_000");
     MsgDisp("Male Customer","Ooh!

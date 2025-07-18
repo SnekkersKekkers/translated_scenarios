@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGOpen("ex300",2);
 BGMPlay("BGM_XMAS_TRHEE",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa... pretty!
+MsgDisp("主人公","Waa...pretty!
 It's a blue illumination.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -38,7 +38,7 @@ ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B140600000_06_040");
 MsgDisp("Himuro","If that was the case, I wouldn't have
-come. Rather... I'm having fun.");
+come. Rather...I'm having fun.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

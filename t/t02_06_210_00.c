@@ -17,7 +17,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020621000_06_010");
-MsgDisp("Himuro","... It feels a bit weird, us being here
+MsgDisp("Himuro","...It feels a bit weird, us being here
 face to face.");
 ChMouth(6,4);
 ChMotion(6,2);
@@ -30,7 +30,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,10);
 VoicePlay("T020621000_06_030");
-MsgDisp("Himuro","... But since entering high school, it's
+MsgDisp("Himuro","...But since entering high school, it's
 just been a series of unbelievable events
 for me.");
 ChEye(6,0);
@@ -63,7 +63,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("T020621000_06_070");
-MsgDisp("Himuro","... More than those two though, what's
+MsgDisp("Himuro","...More than those two though, what's
 always surprised me is you.");
 MsgClear();
 ChClose(6);
@@ -73,7 +73,7 @@ SEPlay("EV_SE_544");
 ChOpen(6,254,7,0,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(6);
 VoicePlay("T020621000_06_080");
-MsgDisp("Himuro","... ｛主人公｝.
+MsgDisp("Himuro","...｛主人公｝.
 I've always liked you.");
 MsgDisp("主人公","!");
 ChEye(6,0);

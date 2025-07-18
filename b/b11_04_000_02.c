@@ -10,7 +10,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgDisp("主人公","｛七ツ森＊｝, you're
 late...");
 VoicePlay("B110400002_35_000");
-MsgDisp("?Boy","... Okay!
+MsgDisp("?Boy","...Okay!
 Then for tonight's meeting, we'll go to
 the usual three star sushi restaurant!");
 MsgClose();
@@ -58,14 +58,14 @@ ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B110400002_04_020");
-MsgDisp("Nanatsumori","Hey you... If you keep doing stuff like
+MsgDisp("Nanatsumori","Hey you...If you keep doing stuff like
 this here, our agency is going to file
 another complaint, yeah?");
 MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,1);
 VoicePlay("B110400002_35_050");
-MsgDisp("Guy","Is that so... right, right!
+MsgDisp("Guy","Is that so...right, right!
 This isn't really our turf so standing out
 is a bit risky you know...");
 MsgDispSksp(1,5);
@@ -73,7 +73,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B110400002_04_030");
-MsgDisp("Nanatsumori","... Ah.
+MsgDisp("Nanatsumori","...Ah.
 It's the company director.");
 MsgDispSksp(0);
 ChEye(35,1);
@@ -95,7 +95,7 @@ MsgDisp("Nanatsumori","That old man is apparently an alumnus of
 our school.");
 MsgDisp("主人公","Ehh∋
 He's kinda famous around here, right?
-... Not exactly in a good way.");
+...Not exactly in a good way.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -107,5 +107,5 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B110400002_04_060");
-MsgDisp("Nanatsumori","... Well, whatever.
+MsgDisp("Nanatsumori","...Well, whatever.
 Let's go.");

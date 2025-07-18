@@ -14,7 +14,7 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 ChCheek(4,8);
 VoicePlay("B020402122_04_010");
-MsgDisp("Nanatsumori","...... Don't make that kind of joke in
+MsgDisp("Nanatsumori","......Don't make that kind of joke in
 front of guys.
 You'll cause a misunderstanding.");
 MsgDisp("主人公","(?

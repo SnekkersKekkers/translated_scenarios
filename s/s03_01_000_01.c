@@ -43,7 +43,7 @@ dressed like that.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(\"Dressed like that\"?
-... He might be anticipating something.
+...He might be anticipating something.
 Okay, what to wear?)");
     break ;
     default :

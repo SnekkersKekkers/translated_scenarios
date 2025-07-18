@@ -14,7 +14,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B030608000_06_010");
-MsgDisp("Himuro","... Huh?
+MsgDisp("Himuro","...Huh?
 If you say stupid things, I'll leave you
 here.");
 MsgClose();

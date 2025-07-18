@@ -24,7 +24,7 @@ switch (MsgSelRsltGet()){
         ChMotion(4,0,1);
         VoicePlay("B040423502_04_010");
         MsgDisp("Nanatsumori","W-What's with that reaction...∋
-They were there... they were there∋");
+They were there...they were there∋");
         MsgDateResultDisp();
         break ;
         case 4:

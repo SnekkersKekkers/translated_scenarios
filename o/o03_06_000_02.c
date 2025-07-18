@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,30,2,1,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600002_06_000");
-    MsgDisp("Himuro","... I didn't expect this result.
+    MsgDisp("Himuro","...I didn't expect this result.
 How humiliating.");
     MsgDisp("主人公","(Ugh...
 Last...

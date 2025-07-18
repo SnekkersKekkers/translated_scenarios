@@ -99,7 +99,7 @@ EfctClose();
 StlClose();
 Wait(40,0);
 VoicePlay("D010100900_01_090");
-MsgDisp("Kazama","... Ha.
+MsgDisp("Kazama","...Ha.
 Your eyebrows are intense.");
 MsgDisp("主人公","Eh∋");
 Wait(40,0);

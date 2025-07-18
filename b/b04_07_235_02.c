@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040723502_07_010");
-    MsgDisp("Mikage","I see... is it just me?
+    MsgDisp("Mikage","I see...is it just me?
 That's kinda scary.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

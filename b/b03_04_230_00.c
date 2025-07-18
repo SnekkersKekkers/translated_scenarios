@@ -29,7 +29,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     VoicePlay("B030423000_04_020");
     MsgDisp("Nanatsumori","Thinking about how to make a shoot in high
-winds... Of course, you just have to
+winds...Of course, you just have to
 quickly fix your hair.");
     break ;
     case 1:

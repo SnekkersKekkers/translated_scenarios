@@ -16,7 +16,7 @@ MsgDisp("Himuro?","What's with this melancholy?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝... it's just that I
+MsgDisp("主人公","Ah, ｛氷室＊＊｝...it's just that I
 was thinking about how little time I have
 left in this classroom.");
 ChEye(6,0);
@@ -120,7 +120,7 @@ ChClose(6,0,30);
 MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝
 and ｛氷室＊＊｝ says. You'll come
 home soon, won't you
-｛風真＊＊｝... )");
+｛風真＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 ChLayout(1);

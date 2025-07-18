@@ -121,7 +121,7 @@ students in a difficult circumstance,
 but...");
 MsgDisp("","\"Maybe, I'm the one being included in
 their group of friends.
-... Maybe?\"");
+...Maybe?\"");
 MsgDisp("","Yanosuke, Inori, thank you.");
 BGMStop();
 MsgClear();

@@ -23,7 +23,7 @@ How many minutes does one loop take?");
     ChOpen(2,255,4,0,2,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080200006_02_020");
-    MsgDisp("Sassa","... With Michiru-san, huh.
+    MsgDisp("Sassa","...With Michiru-san, huh.
 S-Sure.
 Shall we go?");
     break ;

@@ -1,9 +1,9 @@
 BGOpen("ex000",1);
 ChClose(3,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Hah... today didn't go well...)");
+MsgDisp("主人公","(Hah...today didn't go well...)");
 SEPlay("EV_SE_579");
-MsgDisp("主人公","Oh, a phone call. ... from
+MsgDisp("主人公","Oh, a phone call. ...from
 ｛本多＊＊｝?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
@@ -34,6 +34,6 @@ MsgDisp("Honda","Yeah, let's go out together again!
 See you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛本多＊＊｝... he called to check on me.)");
+MsgDisp("主人公","(｛本多＊＊｝...he called to check on me.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -36,7 +36,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620000_06_050");
-MsgDisp("Himuro","... Sorry.
+MsgDisp("Himuro","...Sorry.
 I lashed out at you again.");
 ChEye(6,0);
 ChMouth(6,0);

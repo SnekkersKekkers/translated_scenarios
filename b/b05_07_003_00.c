@@ -120,7 +120,7 @@ I'll be counting on you to stick with me
 for everything the free pass covers today.");
 MsgDisp("主人公","(After bowling, the next thing that
 ｛御影＊＊｝ wants to do
-is go to the theme park... Alright, I'll
+is go to the theme park...Alright, I'll
 enjoy it with him too!)");
 BGMStop();
 MsgClose();

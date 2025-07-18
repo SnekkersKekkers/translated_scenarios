@@ -12,7 +12,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F032200000_22_060");
-MsgDisp("Hikaru","Ehー... Now that you ask me again...
+MsgDisp("Hikaru","Ehー...Now that you ask me again...
 nothing is coming up. I like everything.");
 MsgDisp("主人公","Then, do you have a disliked food?");
 ChEye(22,3);
@@ -25,7 +25,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F032200000_22_080");
-MsgDisp("Hikaru","... Ah!
+MsgDisp("Hikaru","...Ah!
 There is something I love!
 Hamburgerー▼");
 MsgDisp("主人公","Ehhh∋");

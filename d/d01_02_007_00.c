@@ -42,7 +42,7 @@ ChMotion(2,4,1);
 ChCheek(2,10);
 ScrFadeIn(0);
 VoicePlay("D010200700_02_030");
-MsgDisp("Sassa","... Alright.
+MsgDisp("Sassa","...Alright.
 In order to not have any regrets, I'll run
 until I pass out!");
 MsgClose();

@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B150510000_05_000");
 MsgDisp("Hiiragi","I told you.
 We're switching roles.");
-MsgDisp("主人公","Ah... that was an accident.");
+MsgDisp("主人公","Ah...that was an accident.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

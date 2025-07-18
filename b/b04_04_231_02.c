@@ -61,7 +61,7 @@ Ahh, I see.");
         ChMouth(4,0);
         ChMotion(4,3,1);
         VoicePlay("B040423102_04_060");
-        MsgDisp("Nanatsumori","... Alright.
+        MsgDisp("Nanatsumori","...Alright.
 Then, let's ride on it again.
 Let's line up.");
         MsgDisp("主人公","Is that alright?");

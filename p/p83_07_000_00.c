@@ -22,7 +22,7 @@ What's the matter?");
     ChMotion(7,3);
     VoicePlay("P830700000_07_010");
     MsgDisp("Mikage","I came to tease you.");
-    MsgDisp("主人公","Hey... I have to welcome the guests, so if
+    MsgDisp("主人公","Hey...I have to welcome the guests, so if
 you came to play, you'll get scolded, you
 know?");
     ChEye(7,2);

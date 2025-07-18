@@ -7,7 +7,7 @@ ChMouth(4,3);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040401001_04_000");
-MsgDisp("Nanatsumori","Ohhhー... how's this?
+MsgDisp("Nanatsumori","Ohhhー...how's this?
 Doesn't it like it was especially designed
 for you?");
 MsgSel("Really, I'll go but it!","I wonder...","It doesn't suit me!");

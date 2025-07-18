@@ -12,7 +12,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130A00000_06_000");
-MsgDisp("Himuro","Wow... you can act like that?");
+MsgDisp("Himuro","Wow...you can act like that?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -64,7 +64,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D130A00000_01_040");
-MsgDisp("Kazama","Haa... well, it's only natural for three
+MsgDisp("Kazama","Haa...well, it's only natural for three
 guys to talk to each other on that kind of
 day.");
 MsgClose();

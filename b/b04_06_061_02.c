@@ -28,7 +28,7 @@ Just answer casually?");
     ChMotion(6,0);
     VoicePlay("B040606102_06_020");
     MsgDisp("Himuro","A safe answer.
-... But, that's how it is for most people.");
+...But, that's how it is for most people.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

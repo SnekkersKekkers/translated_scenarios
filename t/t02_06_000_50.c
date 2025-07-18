@@ -5,7 +5,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020600000_06_480");
-MsgDisp("Himuro","... Haa.
+MsgDisp("Himuro","...Haa.
 You should have said that from the start.");
 VoicePlay("T020600000_06_490");
 ChEye(6,4);

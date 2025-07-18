@@ -19,7 +19,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B20801_01_000");
 MsgDisp("Kazama","I can hear screams coming from inside?");
-MsgDisp("主人公","Hey... are we really going in?
+MsgDisp("主人公","Hey...are we really going in?
 Into the haunted house.");
 ChMotion(1,0);
 VoicePlay("B330B20801_01_010");
@@ -79,7 +79,7 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B330B20801_04_020");
 MsgDisp("Nanatsumori","Finish line?
-... What's this.");
+...What's this.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

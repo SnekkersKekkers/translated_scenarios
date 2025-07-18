@@ -46,6 +46,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(I'm truly happy that I prepared properly
 and we were able to do it just as
-planned... hurray!)");
+planned...hurray!)");
 MsgClose();
 ScrFadeOut(0,0);

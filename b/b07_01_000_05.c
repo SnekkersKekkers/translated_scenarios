@@ -47,7 +47,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_290");
 MsgDisp("Kazama","Teasing you. You've become even more fun
-to tease than when we were kids... Thanks
+to tease than when we were kids...Thanks
 for growing up into such a great target.");
 MsgDisp("主人公","(......)");
 BGMStop();

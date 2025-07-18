@@ -80,7 +80,7 @@ I could carry you around too?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B010200001_02_070");
-    MsgDisp("Sassa","... Huh.
+    MsgDisp("Sassa","...Huh.
 You can be a little angrier.");
     MsgDisp("主人公","Huh?");
     ChEye(2,2);
@@ -89,8 +89,8 @@ You can be a little angrier.");
     VoicePlay("B010200001_02_080");
     MsgDisp("Sassa","If you were already expecting me here,
 you'd probably feel anxious when I
-wasn't... Unless you aren't looking
-forward to this?");
+wasn't...Unless you aren't looking forward
+to this?");
     MsgDisp("主人公","That's not the case at all!");
     ChEye(2,0);
     ChMouth(2,4);

@@ -122,7 +122,7 @@ I'm sorry I did that. ...)");
         ChEyeOpenLevel(1,8);
         VoicePlay("J060100000_01_090");
         MsgDisp("Kazama","Okay.");
-        MsgDisp("主人公","Um, ... sorry?
+        MsgDisp("主人公","Um, ...sorry?
 I'm just ...");
         ChEye(1,2);
         ChMouth(1,2);

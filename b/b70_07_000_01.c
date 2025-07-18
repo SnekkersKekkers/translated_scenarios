@@ -1,4 +1,4 @@
-MsgDisp("主人公","Let's see... \"
+MsgDisp("主人公","Let's see...\"
 Are you feeling tired?
 Make sure to get some rest.");
 MsgDisp("主人公","(Yes!

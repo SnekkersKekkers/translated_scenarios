@@ -74,7 +74,7 @@ StlEye(22,0,0);
 StlEyeOpenLevel(22,0,1);
 StlMouth(22,1);
 VoicePlay("D012200000_22_100");
-MsgDisp("Hikaru","Just for a bit... let it stay off.
+MsgDisp("Hikaru","Just for a bit...let it stay off.
 Sorry...
 Mari.");
 MsgDisp("主人公","It's fine.

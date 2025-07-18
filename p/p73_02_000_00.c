@@ -38,7 +38,7 @@ front.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("P730200000_02_030");
-    MsgDisp("Sassa","... How should I cheer you on? \"
+    MsgDisp("Sassa","...How should I cheer you on? \"
 Do your best!\" is a bit weird...");
     MsgDisp("主人公","Hehe, it's not a sport, so just clapping
 is fine?");

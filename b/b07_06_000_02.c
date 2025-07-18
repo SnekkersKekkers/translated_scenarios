@@ -41,7 +41,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_120");
 MsgDisp("Himuro","Is that bad?");
-MsgDisp("主人公","It's not bad... but it's surprising.
+MsgDisp("主人公","It's not bad...but it's surprising.
 You like sweets.");
 ChEye(6,0);
 ChMouth(6,0);

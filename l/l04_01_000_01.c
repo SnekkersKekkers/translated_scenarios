@@ -68,7 +68,7 @@ chocolate?)");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("L040100001_01_060");
-    MsgDisp("Kazama","Uh... you're okay with these expressing
+    MsgDisp("Kazama","Uh...you're okay with these expressing
 your feelings, right?");
     MsgDisp("主人公","Um...
 Yes.");

@@ -38,7 +38,7 @@ It's ｛主人公苗字｝.
 Is it okay to call now?...");
     VoicePlay("J010400000_04_050");
     MsgDisp("Nanatsumori","It's fine.
-... I've been waiting, so.
+...I've been waiting, so.
 What's up?");
     MsgDisp("主人公","Well...");
     break ;

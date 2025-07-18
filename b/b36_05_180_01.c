@@ -54,7 +54,7 @@ MsgDisp("Hiiragi","Ah, yes.");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("B360518001_05_080");
-MsgDisp("Hiiragi","... It's getting late.
+MsgDisp("Hiiragi","...It's getting late.
 I'll take my time to reflect on the movie
 on my way home.");
 MsgDisp("主人公","Yeah!");

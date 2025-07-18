@@ -81,7 +81,7 @@ When you're surfing?");
         ChMouth(6,0);
         ChMotion(6,0,1);
         VoicePlay("B040608102_06_070");
-        MsgDisp("Himuro","Ah... so its like that?");
+        MsgDisp("Himuro","Ah...so its like that?");
         MsgDisp("主人公","Eh, \"like that\"");
         ChEye(6,0);
         ChMouth(6,0);

@@ -18,7 +18,7 @@ ChEye(4,3);
 ChMouth(4,5);
 ChMotion(4,2,1);
 VoicePlay("B330B10201_04_000");
-MsgDisp("Nanatsumori","Amazing... how many are there?");
+MsgDisp("Nanatsumori","Amazing...how many are there?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -30,7 +30,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("B330B10201_01_000");
-MsgDisp("Kazama","... That horse mackerel is a good size.
+MsgDisp("Kazama","...That horse mackerel is a good size.
 Makes me want to go fishing.");
 MsgDisp("主人公","You can't fish here, you know.");
 ChEye(1,2);
@@ -86,7 +86,7 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B330B10201_04_030");
 MsgDisp("Nanatsumori","Stop!
-Stop... talking about bugs already.");
+Stop...talking about bugs already.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);

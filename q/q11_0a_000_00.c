@@ -78,7 +78,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q110A00000_01_040");
 MsgDisp("Kazama","Oh, also, from me and Sassa for you.
-... Here, a Nagasaki glass heart stone.");
+...Here, a Nagasaki glass heart stone.");
 MsgDisp("主人公","Wow, it's so pretty...!");
 ChEye(2,0);
 ChMouth(2,4);

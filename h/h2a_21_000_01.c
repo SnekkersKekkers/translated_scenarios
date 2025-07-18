@@ -52,7 +52,7 @@ team members who did their best, right?");
     MsgDisp("Michiru","Good smile.
 Then, give all the players a pat on the
 back, okay?");
-    MsgDisp("主人公","(｛みちる＊｝... We might have lost, but
+    MsgDisp("主人公","(｛みちる＊｝...We might have lost, but
 I'm glad that I stayed as the track and
 field club manager!)");
     break ;

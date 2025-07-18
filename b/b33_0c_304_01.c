@@ -26,7 +26,7 @@ ChMotion(7,4);
 VoicePlay("B330C30401_07_010");
 MsgDisp("Mikage","There's many things you can do here?
 The botanical garden, the museum, the
-pool... you can also just relax.");
+pool...you can also just relax.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

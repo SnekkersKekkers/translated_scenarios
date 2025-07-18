@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     SEWait();
     MsgDisp("主人公","Thank you very much!");
     VoicePlay("I160100000_41_000");
-    MsgDisp("Male Customer","... Hm?
+    MsgDisp("Male Customer","...Hm?
 Did you give me too much change?");
     MsgDisp("主人公","Ah∈ My apologies.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

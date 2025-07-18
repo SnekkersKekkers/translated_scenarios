@@ -13,7 +13,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040123602_01_000");
 MsgDisp("Kazama","The dancing is pretty professional.");
-MsgSel("That fish person's dancing... is inviting","Everyone's breath is in perfect sync!","I might end up joining?");
+MsgSel("That fish person's dancing...is inviting","Everyone's breath is in perfect sync!","I might end up joining?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

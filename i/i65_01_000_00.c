@@ -128,7 +128,7 @@ What's up?");
     ChMotion(1,1);
     VoicePlay("I650100000_01_110");
     MsgDisp("Kazama","I was in the area.
-... Hey, does that guy come often?");
+...Hey, does that guy come often?");
     MsgDisp("主人公","Yeah, he's a regular, you know?");
     ChEye(1,4);
     ChMouth(1,2);
@@ -166,7 +166,7 @@ They're fashionable and fun old-timers.");
     ChEyeOpenLevel(1,0);
     VoicePlay("I650100000_01_160");
     MsgDisp("Kazama","Ah, I see.
-... Geez.
+...Geez.
 Don't make me worry.");
     MsgDisp("主人公","They jokingly ask me if I want a ride
 pretty often.");

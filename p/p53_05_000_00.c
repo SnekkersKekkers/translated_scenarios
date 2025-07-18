@@ -18,7 +18,7 @@ I'm nervous.)");
     VoicePlay("P530500000_05_000");
     MsgDisp("Hiiragi","If you're that tense, you won't be able to
 play the sound that represents you.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝... but I'm
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝...but I'm
 anxious.");
     ChEye(5,4);
     ChMouth(5,4);

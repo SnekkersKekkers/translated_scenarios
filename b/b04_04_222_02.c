@@ -81,7 +81,7 @@ the two of us.");
         ChMouth(4,0);
         ChMotion(4,3,1);
         VoicePlay("B040422202_04_070");
-        MsgDisp("Nanatsumori","I see... so you're having delusions.");
+        MsgDisp("Nanatsumori","I see...so you're having delusions.");
         MsgDisp("主人公","Hey, don't put it like that.");
         ChEye(4,0);
         ChMouth(4,3);

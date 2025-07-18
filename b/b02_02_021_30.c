@@ -5,7 +5,7 @@ VoicePlay("B020202126_02_000");
 MsgDisp("Sassa","It's hard to figure out where to look when
 you're wearing that.
 I used to be pretty bad at it, honestly.");
-MsgDisp("主人公","... Used to?");
+MsgDisp("主人公","...Used to?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

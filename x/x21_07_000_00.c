@@ -27,7 +27,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("X210700000_07_030");
 MsgDisp("Mikage","Without a doubt, you are Rose Queen.");
-MsgDisp("主人公","I'm happy but... it's somewhat
+MsgDisp("主人公","I'm happy but...it's somewhat
 embarrassing.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -66,7 +66,7 @@ VoicePlay("X210700000_07_080");
 MsgDisp("Mikage","Congratulations.
 It somewhat makes me want to cry too.");
 MsgDisp("主人公","(Thank you very much,
-｛御影＊＊｝... )");
+｛御影＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

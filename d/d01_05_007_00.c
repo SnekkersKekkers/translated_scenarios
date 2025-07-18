@@ -31,7 +31,7 @@ SEStop("EV_SE_GAYA_025",2);
 VoicePlay("D010500700_40_020");
 MsgDisp("Male Student","It's not over yet!
 I bet you can't return this serve!
-... Here!");
+...Here!");
 SEPlay("EV_SE_851",0,0.8);
 Wait(30,0);
 SEPlay("EV_SE_849",0.5);

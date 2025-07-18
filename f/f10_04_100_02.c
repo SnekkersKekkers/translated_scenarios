@@ -14,7 +14,7 @@ VoicePlay("F100410002_04_010");
 MsgDisp("Nanatsumori","You're making such a scary face, what's
 wrong?");
 MsgDisp("主人公","Yeah.
-I feel like... something is calling out to
+I feel like...something is calling out to
 me.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -70,7 +70,7 @@ SEPlay("EV_SE_642",0,0.6);
 MsgDisp("主人公","...Ah∈");
 MsgDisp("主人公","A commuter pass has fallen where
 ｛七ツ森＊｝ was
-standing... ｛七ツ森＊｝
+standing...｛七ツ森＊｝
 ∈");
 MsgDisp("主人公","(Why on earth does he drop it every
 time～∋)");

@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("O040400001_04_000");
     MsgDisp("Nanatsumori","It's hard after all...
 Haa.");
-    MsgDisp("主人公","(Haa... we lost.
+    MsgDisp("主人公","(Haa...we lost.
 I should've tried harder.)");
     break ;
     case 3:
@@ -26,7 +26,7 @@ I should've tried harder.)");
     VoicePlay("O040400001_04_010");
     MsgDisp("Nanatsumori","Ball tossing is hard...
 I misjudged it.");
-    MsgDisp("主人公","(Haa... we lost.
+    MsgDisp("主人公","(Haa...we lost.
 I should've tried harder.)");
     break ;
     case 4:
@@ -39,7 +39,7 @@ I should've tried harder.)");
     VoicePlay("O040400001_04_020");
     MsgDisp("Nanatsumori","Even though we both threw in so many?
 The goddess of victory is fickle...");
-    MsgDisp("主人公","(Haa... we lost.
+    MsgDisp("主人公","(Haa...we lost.
 I should've tried harder.)");
     break ;
     default :

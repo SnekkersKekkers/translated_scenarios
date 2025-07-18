@@ -101,7 +101,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360150100_01_110");
 MsgDisp("Kazama","Right.
-... Well, maybe I'll invite those guys
+...Well, maybe I'll invite those guys
 along once in about ten times.");
 MsgDisp("主人公","(Hehe, they'd probably be mad if they
 heard that?)");

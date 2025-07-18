@@ -5,7 +5,7 @@ it...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090A00001_02_000");
-MsgDisp("Sassa","Huh... it went to voicemail.
+MsgDisp("Sassa","Huh...it went to voicemail.
 What should we do?");
 VoicePlay("B090A00001_01_000");
 MsgDisp("Kazama","Maybe she's running here in a panic.");

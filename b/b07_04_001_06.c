@@ -39,7 +39,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B070400001_04_470");
-MsgDisp("Nanatsumori","... I wonder.
+MsgDisp("Nanatsumori","...I wonder.
 I don't really know.");
 ChEye(4,0);
 ChMouth(4,0);

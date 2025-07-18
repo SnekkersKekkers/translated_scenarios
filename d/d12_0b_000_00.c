@@ -12,7 +12,7 @@ SEPlay("EV_SE_618");
 SEWait();
 ChMouth(1,3);
 VoicePlay("D120B00000_01_000");
-MsgDisp("Kazama","... Ah.
+MsgDisp("Kazama","...Ah.
 For this Habatcher entry, are we doing a
 special feature on Nanatsumori?");
 ChEye(4,2);
@@ -116,7 +116,7 @@ MsgDisp("主人公","(It seems so!
 But using my hair clip...)");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("D120B00000_01_040");
-MsgDisp("Kazama","... Hey, we're done here.
+MsgDisp("Kazama","...Hey, we're done here.
 So you can take it off now——");
 StlEyeOpenLevel(4,5,1);
 VoicePlay("D120B00000_04_060");
@@ -173,7 +173,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120B00000_01_060");
-MsgDisp("Kazama","... That was bad.
+MsgDisp("Kazama","...That was bad.
 Those girls have an incredible antenna.");
 ChEye(4,0);
 ChMouth(4,3);

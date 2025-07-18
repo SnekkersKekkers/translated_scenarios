@@ -74,7 +74,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110101104_01_050");
-MsgDisp("Kazama","When that time comes... I'll have to open
+MsgDisp("Kazama","When that time comes...I'll have to open
 shop far away from Simon's. I can't repay
 kindness with evil.");
 MsgDisp("主人公","(Hehe, it seems like

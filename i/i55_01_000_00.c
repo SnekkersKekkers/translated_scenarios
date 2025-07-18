@@ -132,10 +132,10 @@ please.");
     SEWait();
     Wait(40);
     VoicePlay("I550100000_46_000");
-    MsgDisp("Clerk","Ah, that person is... the young master,
+    MsgDisp("Clerk","Ah, that person is...the young master,
 right?
 Is he your friend?");
-    MsgDisp("主人公","Um... ah, yes.
+    MsgDisp("主人公","Um...ah, yes.
 He's my classmate.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

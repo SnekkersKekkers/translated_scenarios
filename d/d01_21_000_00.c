@@ -34,7 +34,7 @@ MsgDisp("Michiru","I can hear you so you don't need to be so
 loud...");
 VoicePlay("D012100000_40_020");
 MsgDisp("Male Student","Sorry!
-I've, uhm... for a long time now...
+I've, uhm...for a long time now...
 I've had a crush on you!");
 StlEye(21,1);
 VoicePlay("D012100000_21_030");
@@ -59,7 +59,7 @@ MsgDisp("Male Student","...Do you maybe already like another guy?");
 StlEyeOpenLevel(21,5,1);
 VoicePlay("D012100000_21_070");
 MsgDisp("Michiru","That's not it.
-But this uhm... is troubling.");
+But this uhm...is troubling.");
 VoicePlay("D012100000_40_050");
 MsgDisp("Male Student","It's fine if you don't reply right away.
 I'll...
@@ -99,7 +99,7 @@ ChMouth(21,5);
 ChMotion(21,0);
 VoicePlay("D012100000_21_120");
 MsgDisp("Michiru","Mari!
-Just now... did you see that?");
+Just now...did you see that?");
 MsgDisp("主人公","Sorry.
 I didn't mean to eavesdrop...");
 ChEye(21,4);
@@ -142,7 +142,7 @@ ChMotion(21,4);
 ChCheek(21,10);
 VoicePlay("D012100000_21_170");
 MsgDisp("Michiru","Geez Mari, no more.
-That... it's so embarrassing...");
+That...it's so embarrassing...");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);

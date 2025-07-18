@@ -68,7 +68,7 @@ Let's go.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("F010200007_02_050");
-        MsgDisp("Sassa","I see... that's fine.
+        MsgDisp("Sassa","I see...that's fine.
 I wanted to go home with you today.
 Let's go.");
         MsgDisp("主人公","Heheh, sure.");

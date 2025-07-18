@@ -86,7 +86,7 @@ ChMotion(2,4);
 VoicePlay("B330A10400_02_030");
 MsgDisp("Sassa","How would you use your head in rock-paper
 scissors!
-... Shall we go?");
+...Shall we go?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(1,0,30);

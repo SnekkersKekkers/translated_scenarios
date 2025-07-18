@@ -35,7 +35,7 @@ ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("K020201100_02_030");
 MsgDisp("Sassa","I'm relieved. I was thinking hard about
-the timing the whole day today... I'm
+the timing the whole day today...I'm
 tired.");
 MsgDisp("主人公","Hehe, so that's what it was.");
 ChEye(2,0);

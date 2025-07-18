@@ -6,7 +6,7 @@ BGMStop();
 BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Haa... there's only a little more until
+MsgDisp("主人公","Haa...there's only a little more until
 graduation.");
 ChEye(8,4);
 ChMouth(8,4);
@@ -32,7 +32,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("F020800014_08_030");
-MsgDisp("Shirahane","... Damn it.
+MsgDisp("Shirahane","...Damn it.
 This is so lonely, and happy.
 I might cry.");
 MsgDisp("主人公","Hehe.");

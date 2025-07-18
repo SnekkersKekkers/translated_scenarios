@@ -21,7 +21,7 @@ even the future generations was created by
 accident.");
 VoicePlay("Q100500000_05_020");
 MsgDisp("Hiiragi","There must have been an amazing director.");
-MsgDisp("主人公","... Maybe someone like you
+MsgDisp("主人公","...Maybe someone like you
 ｛柊＊＊＊｝ ?");
 ChEye(5,4);
 ChMotion(5,4);
@@ -30,7 +30,7 @@ MsgDisp("Hiiragi","I'm happy if you think so.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q100500000_05_040");
-MsgDisp("Hiiragi","... It would be wonderful if I could make
+MsgDisp("Hiiragi","...It would be wonderful if I could make
 use of what I saw and experienced here in
 Nagasaki on stage.");
 MsgDisp("主人公","Yeah, I'm looking forward.");

@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","Hm... that one doesn't seem well.");
+    MsgDisp("主人公","Hm...that one doesn't seem well.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,5);
@@ -80,7 +80,7 @@ Always smiling and butting in with advice.");
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600001_06_070");
     MsgDisp("Himuro","It is.
-... I'm jealous.");
+...I'm jealous.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);

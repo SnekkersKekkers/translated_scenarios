@@ -61,7 +61,7 @@ He's calmed down an enraged horse...)");
 StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700200_07_040");
-MsgDisp("Mikage","Oh... got it.
+MsgDisp("Mikage","Oh...got it.
 It's me, your lover.");
 MsgDisp("主人公","Ehh∋");
 SEPlay("EV_SE_779",0,0.8);

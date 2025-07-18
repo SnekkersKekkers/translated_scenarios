@@ -22,7 +22,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B070200001_02_430");
 MsgDisp("Sassa","Eh∋");
-MsgDisp("主人公","... Yeah.
+MsgDisp("主人公","...Yeah.
 I think it calmed down a bit, though.");
 ChEye(2,5);
 ChMouth(2,0);

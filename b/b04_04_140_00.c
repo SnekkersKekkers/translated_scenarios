@@ -28,7 +28,7 @@ It was awesome!");
     ChMouth(4,1);
     ChMotion(4,0,1);
     VoicePlay("B040414000_04_020");
-    MsgDisp("Nanatsumori","... So-so?
+    MsgDisp("Nanatsumori","...So-so?
 What do you mean by \"so-so\"?");
     MsgDateResultDisp();
     break ;

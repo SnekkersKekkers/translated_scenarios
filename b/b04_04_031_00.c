@@ -9,7 +9,7 @@ ChMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403100_04_000");
 MsgDisp("Nanatsumori","Where do we start?
-... Where are you looking?");
+...Where are you looking?");
 MsgSel("What was that fish's name?","Tropical fish have beautiful patterns","Ha∋I feel like something is looking at me from behind the rock");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040403100_04_010");
-    MsgDisp("Nanatsumori","Was it a yellowtail clown fish? Ah... not
+    MsgDisp("Nanatsumori","Was it a yellowtail clown fish? Ah...not
 quite. It's a common clownfish. I like
 their coloring.");
     MsgDispSksp(1,0);

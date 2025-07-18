@@ -87,7 +87,7 @@ ChClose(1,0,0);
 ChClose(6,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Thanks for waiting.
-... Huh?
+...Huh?
 Where are those two?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -137,7 +137,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,0);
 ChCheek(6,5);
 VoicePlay("B330A10600_06_030");
-MsgDisp("Himuro","... I don't even understand it myself.
+MsgDisp("Himuro","...I don't even understand it myself.
 Maybe the impact of the Indian movie was
 so strong, I went crazy...");
 MsgDisp("主人公","(Ehh∋

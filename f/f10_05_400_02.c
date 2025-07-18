@@ -45,7 +45,7 @@ VoicePlay("F100540002_05_030");
 MsgDisp("Hiiragi","I may also be dining together with
 everyone tonight, so I shall go for the
 vinegar soy sauce.");
-MsgDisp("主人公","Ehh? you're having a group meal... will
+MsgDisp("主人公","Ehh? you're having a group meal...will
 that be alright?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -59,7 +59,7 @@ ChMouth(5,4);
 ChMotion(5,4,1);
 VoicePlay("F100540002_05_040");
 MsgDisp("Hiiragi","It is incredible that it will actually
-make you hungry... what happens if I ate
+make you hungry...what happens if I ate
 two bowls?");
 ChEye(7,0);
 ChMouth(7,3);

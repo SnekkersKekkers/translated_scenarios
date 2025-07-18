@@ -54,7 +54,7 @@ ChMotion(4,1);
 VoicePlay("G110400500_04_050");
 MsgDisp("Nanatsumori","You've changed a lot recently.");
 MsgDisp("主人公","Huh, I didn't know.
-... Howcome?");
+...Howcome?");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,0);

@@ -7,7 +7,7 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406101_04_000");
-MsgDisp("Nanatsumori","Ahー... the beach in mid summer is hot and
+MsgDisp("Nanatsumori","Ahー...the beach in mid summer is hot and
 dazzling no matter where you are...");
 MsgSel("Here, some sunscreen!","Let's aim for a tan!","It sure feels like summer!");
 switch (MsgSelRsltGet()){

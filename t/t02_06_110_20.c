@@ -13,7 +13,7 @@ ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,5);
-MsgDisp("Himuro","... What is this?
+MsgDisp("Himuro","...What is this?
 This is so unexpected.");
 VoicePlay("T020611000_06_130");
 ChEye(6,4);
@@ -29,7 +29,7 @@ ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,3);
 ChCheek(6,8);
-MsgDisp("Himuro","... Yeah, absolutely.
+MsgDisp("Himuro","...Yeah, absolutely.
 I'll never let you go again.");
 BGMStop(2.8);
 MsgClear();

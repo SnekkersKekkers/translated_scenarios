@@ -81,7 +81,7 @@ I bought it in the end.");
     ChMotion(3,4,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_700");
-    MsgDisp("Honda","... Phew, thank goodness.
+    MsgDisp("Honda","...Phew, thank goodness.
 We still had it in stock.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -90,7 +90,7 @@ We still had it in stock.");
     MsgDisp("Honda","But, it's unexpected of you.
 Selling a reserved item to someone else.
 Was your mind wandering?");
-    MsgDisp("主人公","Ugh... maybe.
+    MsgDisp("主人公","Ugh...maybe.
 I'm sorry...");
     ChEye(3,0);
     ChMouth(3,3);
@@ -98,7 +98,7 @@ I'm sorry...");
     VoicePlay("I260300000_03_720");
     MsgDisp("Honda","Then, here!
 Take this.");
-    MsgDisp("主人公","Hm... canned coffee?");
+    MsgDisp("主人公","Hm...canned coffee?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
@@ -112,10 +112,10 @@ foggy mind.");
     VoicePlay("I260300000_03_740");
     MsgDisp("Honda","Take a break while you can and go clear
 your mind!
-... Got it?");
+...Got it?");
     MsgDisp("主人公","Yeah, thanks.");
     MsgDisp("主人公","(I caused trouble for
-｛本多＊＊｝... I'll have to make
+｛本多＊＊｝...I'll have to make
 sure not to make this mistake again!)");
     break ;
     default :

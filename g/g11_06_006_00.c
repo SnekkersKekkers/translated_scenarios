@@ -24,7 +24,7 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600600_06_000");
-MsgDisp("Himuro","... So, you really came all the way here?
+MsgDisp("Himuro","...So, you really came all the way here?
 You have a lot of free time, don't you.");
 MsgDisp("主人公","Ugh...");
 ChEye(6,0);
@@ -38,10 +38,10 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600600_06_020");
-MsgDisp("Himuro","... Before, you wanted to know what my
+MsgDisp("Himuro","...Before, you wanted to know what my
 type was?
 Why was that?");
-MsgDisp("主人公","Umm... even if I said that then, it was
+MsgDisp("主人公","Umm...even if I said that then, it was
 just mere curiosity?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -54,7 +54,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
 VoicePlay("G110600600_06_040");
-MsgDisp("Himuro","... Ah, is that so.
+MsgDisp("Himuro","...Ah, is that so.
 Then it's fine.");
 MsgDisp("主人公","｛氷室＊＊｝?");
 ChEye(6,0);

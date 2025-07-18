@@ -26,7 +26,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P840600003_06_020");
 MsgDisp("Himuro","...How about being more careful?");
-MsgDisp("主人公","(Uuugh... a huge fail...)");
+MsgDisp("主人公","(Uuugh...a huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

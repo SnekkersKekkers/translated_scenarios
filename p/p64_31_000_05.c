@@ -7,7 +7,7 @@ VoicePlay("P643100005_31_000");
 MsgDisp("Goro","Is this coarsely ground pepper?
 It's pretty softthough.");
 MsgDisp("主人公","Ehhh∋
-That might be dirt... please don't eat it!");
+That might be dirt...please don't eat it!");
 ChEye(31,1);
 ChMouth(31,1);
 ChMotion(31,1);

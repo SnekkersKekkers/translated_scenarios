@@ -11,7 +11,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020601000_06_010");
-MsgDisp("Himuro","... It looks good on you.");
+MsgDisp("Himuro","...It looks good on you.");
 MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,1);

@@ -25,7 +25,7 @@ ChMouth(35,0);
 VoicePlay("B110700002_35_020");
 MsgDisp("Guy","You're not getting away.
 Yes, sign here.");
-MsgDisp("主人公","Umm... this is troubling.
+MsgDisp("主人公","Umm...this is troubling.
 Please stop.");
 ChEye(35,1);
 ChMouth(35,0);
@@ -93,7 +93,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,253,4,2,0,#1,#1,0,0);
 VoicePlay("B110700002_07_040");
-MsgDisp("Mikage","Haa... that kind of person makes me sad.
+MsgDisp("Mikage","Haa...that kind of person makes me sad.
 They had a high school life too.");
 MsgDisp("主人公","Yes...
 It's somewhat pitiable.");

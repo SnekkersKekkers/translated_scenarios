@@ -52,7 +52,7 @@ her. You should settle this on your
 own.");
 MsgClear();
 BGOpen("ad131",0);
-MsgDisp("","｛主人公名前｝... I've known.
+MsgDisp("","｛主人公名前｝...I've known.
 From the day of the entrance
 ceremony.");
 MsgDisp("","The reason why I'm here, isn't to
@@ -64,13 +64,13 @@ MsgClear();
 MsgDisp("","I'll go to England and talk to Dad
 about it.");
 MsgDisp("","Even though I should have done this
-sooner... I dragged it out until now
+sooner...I dragged it out until now
 because I was a coward.");
 VoicePlay("Y300100300_01_060");
-MsgDisp("Kazama","\"Grandpa... thank you.
+MsgDisp("Kazama","\"Grandpa...thank you.
 I'm off.\"");
 MsgClear();
-MsgDisp("","But... what should I tell her?
+MsgDisp("","But...what should I tell her?
 I can't just leave without saying
 anything like I did 10 years ago.");
 MsgDisp("","There's only two months until

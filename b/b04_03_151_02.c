@@ -29,7 +29,7 @@ switch (MsgSelRsltGet()){
         DateRateSet(1);
         ChSet(3,2);
         VoicePlay("B040315102_03_020");
-        MsgDisp("Honda","Hah... official records say it's less
+        MsgDisp("Honda","Hah...official records say it's less
 common than a perfect game.
 Ah, it's impossible...");
         MsgDateResultDisp();
@@ -65,7 +65,7 @@ just pretty susceptible to you...");
         VoicePlay("B040315102_03_060");
         MsgDisp("Honda","Hey, say what you said earlier again.
 That I can do it.");
-        MsgDisp("主人公","Um... you can do it ｛本多＊＊｝!");
+        MsgDisp("主人公","Um...you can do it ｛本多＊＊｝!");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);

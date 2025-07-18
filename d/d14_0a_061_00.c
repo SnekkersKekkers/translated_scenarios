@@ -27,7 +27,7 @@ VoicePlay("D140A06100_02_020");
 MsgDisp("Sassa","I mean, he's got good sports sense and
 cultural tastes, so I just thought it was
 a shame.");
-MsgDisp("主人公","... Ah, you're talking about his club
+MsgDisp("主人公","...Ah, you're talking about his club
 activities.
 That surprised me...");
 ChEye(6,0);
@@ -71,7 +71,7 @@ VoicePlay("D140A06100_06_040");
 MsgDisp("Himuro","Yes, it'll be helpful for future
 reference.");
 MsgDisp("主人公","Ehhh∋ Development between
-｛風真＊＊｝ and me... We've
+｛風真＊＊｝ and me...We've
 been close forever though?");
 ChEye(2,0);
 ChMouth(2,0);

@@ -81,7 +81,7 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C03400_06_020");
-MsgDisp("Himuro","Haa... to Kojiro-sensei, we look like
+MsgDisp("Himuro","Haa...to Kojiro-sensei, we look like
 plants ans animals?");
 ChMotion(5,4);
 ChEye(7,0);

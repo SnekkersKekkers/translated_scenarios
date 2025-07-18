@@ -48,7 +48,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B360501101_05_050");
-MsgDisp("Hiiragi","... Hehe.
+MsgDisp("Hiiragi","...Hehe.
 That face is unfair.");
 ChEye(5,4);
 ChMotion(5,4);
@@ -62,7 +62,7 @@ VoicePlay("B360501101_05_070");
 MsgDisp("Hiiragi","I see, excuse me.
 But I still think it's better when it's
 just us two.");
-MsgDisp("主人公","(｛柊＊＊＊｝... Seems like he's having
+MsgDisp("主人公","(｛柊＊＊＊｝...Seems like he's having
 fun, but he's also acting strange. What
 happened...)");
 BGMStop();

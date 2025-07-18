@@ -25,7 +25,7 @@ I'm a bit nervous...");
     VoicePlay("P530300000_03_010");
     MsgDisp("Honda","Eh, is that right?
 Even though you like the song?");
-    MsgDisp("主人公","Umm... yeah.
+    MsgDisp("主人公","Umm...yeah.
 I was thinking it would be awful if it
 were a failure.");
     ChEye(3,4);
@@ -80,7 +80,7 @@ pounding...");
     VoicePlay("P530300000_03_070");
     MsgDisp("Honda","｛主人公｝.
 Can you copy me?");
-    MsgDisp("主人公","Eh... y-yeah.");
+    MsgDisp("主人公","Eh...y-yeah.");
     ChEye(3,4);
     ChMouth(3,3);
     VoicePlay("P530300000_03_080");
@@ -104,7 +104,7 @@ the buzzer for a wrong answer.");
     MsgDisp("主人公","Hehe, are you okay?
 EVen though you specifically wanted to
 relax?");
-    MsgDisp("主人公","(Huh... thanks to ｛本多＊＊｝, It
+    MsgDisp("主人公","(Huh...thanks to ｛本多＊＊｝, It
 seems like I'm not anxious anymore.
 Yeah, I'll give it my best.)");
     break ;

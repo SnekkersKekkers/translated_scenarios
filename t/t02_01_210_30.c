@@ -17,7 +17,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020121000_01_710");
 MsgDisp("Kazama","No.
-... I'm sorry too.");
+...I'm sorry too.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);

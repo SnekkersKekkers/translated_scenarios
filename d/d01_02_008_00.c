@@ -74,7 +74,7 @@ StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("D010200800_02_080");
-MsgDisp("Sassa","... And you?
+MsgDisp("Sassa","...And you?
 What about you, you made this happen for
 me, so what about you?");
 BGMVol(0.5,2);

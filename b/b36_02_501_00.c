@@ -71,7 +71,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360250100_02_080");
 MsgDisp("Sassa","Nope, completely blank.");
-MsgDisp("主人公","(What... that was surprising.)");
+MsgDisp("主人公","(What...that was surprising.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -6,7 +6,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423202_04_000");
-MsgDisp("Nanatsumori","Come to think of it... did you know about
+MsgDisp("Nanatsumori","Come to think of it...did you know about
 the jinx that if you kiss at the top of
 the ferris wheel, your love will come
 true?");
@@ -63,7 +63,7 @@ I'm asking you this seriously.");
         MsgDisp("主人公","Y-Yeah.");
         VoicePlay("B040423202_04_060");
         MsgDisp("Nanatsumori","Are you in love?
-... With me?");
+...With me?");
         MsgDisp("主人公","...Eh∋");
         ChEye(4,4);
         ChMouth(4,4);
@@ -92,7 +92,7 @@ the most harmful thing.");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040423202_04_110");
-        MsgDisp("Nanatsumori","That's why.... you shouldn't fluster the
+        MsgDisp("Nanatsumori","That's why....you shouldn't fluster the
 other person, but look at them properly.");
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_120");
@@ -104,7 +104,7 @@ That's for sure.");
         ChMotion(4,0,1);
         VoicePlay("B040423202_04_130");
         MsgDisp("Nanatsumori","I don't want you to be unhappy.
-... Do you understand?
+...Do you understand?
 What I want to say.");
         MsgDisp("主人公","Yeah, I understand.");
         ChEye(4,4);
@@ -113,7 +113,7 @@ What I want to say.");
         VoicePlay("B040423202_04_140");
         MsgDisp("Nanatsumori","Mm.
 Alright.");
-        MsgDisp("主人公","(｛七ツ森＊｝... you really are worried
+        MsgDisp("主人公","(｛七ツ森＊｝...you really are worried
 about me.)");
         break ;
         default :

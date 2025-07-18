@@ -5,7 +5,7 @@ SEPlay("EV_SE_668");
 SEWait();
 VoicePlay("K010800102_08_000");
 MsgDisp("Shirahane","Ah, it's this?");
-MsgDisp("主人公","Oh... you don't like it?");
+MsgDisp("主人公","Oh...you don't like it?");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,2,1);

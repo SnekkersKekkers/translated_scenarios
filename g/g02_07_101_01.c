@@ -45,7 +45,7 @@ ChMotion(7,4);
 VoicePlay("G020710101_07_060");
 MsgDisp("Mikage","Haa, at least give it a rest for today,
 Ah, could that be the inner voice?");
-MsgDisp("主人公","(Does that mean... those two want to be
+MsgDisp("主人公","(Does that mean...those two want to be
 here with me?
 If that's the case, I'd be happy.)");
 BGMStop();

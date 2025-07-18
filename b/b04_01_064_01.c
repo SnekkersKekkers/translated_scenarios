@@ -52,8 +52,8 @@ Just for the young master.");
 SEWait();
 MsgDisp("主人公","(Hehe, they call him young master.)");
 VoicePlay("B040106401_39_020");
-MsgDisp("Night Market Clerk","... And by the way, is that girl over
-there the future mistress?");
+MsgDisp("Night Market Clerk","...And by the way, is that girl over there
+the future mistress?");
 MsgDisp("主人公","Huh?");
 VoicePlay("B040106401_01_060");
 MsgDisp("Kazama","That's right.");

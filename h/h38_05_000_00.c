@@ -39,7 +39,7 @@ You are the same as you always are.");
 As a spectator, I'll let myself enjoy
 watching.");
     MsgDisp("主人公","(Yeah!
-... Alright, let's do our best!)");
+...Alright, let's do our best!)");
     break ;
     default :
     DbgAssert(1);

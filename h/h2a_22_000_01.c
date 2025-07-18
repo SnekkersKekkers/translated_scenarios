@@ -52,7 +52,7 @@ support was perfect.");
     VoicePlay("H2A2200001_22_050");
     MsgDisp("Hikaru","Hikaru will give you and your team the
 grand prize! So, cheer up. Okay?");
-    MsgDisp("主人公","(｛ひかる＊｝... We might have lost, but
+    MsgDisp("主人公","(｛ひかる＊｝...We might have lost, but
 I'm glad that I stayed as the track and
 field club manager!)");
     break ;

@@ -35,7 +35,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,1);
     ChCheek(6,10);
     VoicePlay("B040608501_06_030");
-    MsgDisp("Himuro","... Sure, I don't mind.
+    MsgDisp("Himuro","...Sure, I don't mind.
 Could you not be so weirdly nervous?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

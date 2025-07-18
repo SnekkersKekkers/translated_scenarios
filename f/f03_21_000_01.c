@@ -22,7 +22,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F032100000_21_040");
-MsgDisp("Michiru","Ah... I mean, the two people in love,
+MsgDisp("Michiru","Ah...I mean, the two people in love,
 become conscious of the other, so they
 change their demeanor, and take different
 things into consideration...");
@@ -39,7 +39,7 @@ ChMouth(21,4);
 ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("F032100000_21_060");
-MsgDisp("Michiru","No way.... this is so embarrassing.
+MsgDisp("Michiru","No way....this is so embarrassing.
 Can you let me off the hook already?");
 MsgDisp("主人公","(Hehe.
 ｛みちる＊｝ likes

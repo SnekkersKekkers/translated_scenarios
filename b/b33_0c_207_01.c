@@ -69,7 +69,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C20701_07_030");
 MsgDisp("Mikage","Yeah, yeah.
-... Hm?
+...Hm?
 What's that?");
 ChEye(5,4);
 ChMouth(5,2);
@@ -114,7 +114,7 @@ MsgDisp("Mikage","Yeah, good luck to the both of us, yeah?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(I'm also not really good with
-rollercoasters... but
+rollercoasters...but
 ｛御影＊＊｝ might be
 worse?)");
 BGMStop();

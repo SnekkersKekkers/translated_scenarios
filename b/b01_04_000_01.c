@@ -34,7 +34,7 @@ But just a little?");
     ChOpen(4,253,0,0,2,#1,#1,0,0,0,60);
     VoicePlay("B010400001_04_020");
     MsgDisp("Nanatsumori","I'm sorry...");
-    MsgDisp("主人公","... Pfft!");
+    MsgDisp("主人公","...Pfft!");
     MsgDispSksp(1,0);
     ChEye(4,0);
     ChMouth(4,3);
@@ -62,7 +62,7 @@ I didn't wait for that long.");
     ChMouth(4,4);
     ChMotion(4,0);
     VoicePlay("B010400001_04_050");
-    MsgDisp("Nanatsumori","... Isn't it okay to be angry?
+    MsgDisp("Nanatsumori","...Isn't it okay to be angry?
 Not that I want to make you mad, but...
 I'm sorry.");
     MsgDispSksp(0);

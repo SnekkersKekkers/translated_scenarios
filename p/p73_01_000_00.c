@@ -24,7 +24,7 @@ Don't tease me.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("P730100000_01_010");
-    MsgDisp("Kazama","... Good grief, listen until the end.
+    MsgDisp("Kazama","...Good grief, listen until the end.
 I was just about to praise you on it being
 more legit than I thought.");
     ChEye(1,0);
@@ -48,7 +48,7 @@ do.");
 I'll to my best then!");
     MsgDisp("主人公","(Huh? After talking to
 ｛風真＊＊｝, I think I feel
-more at ease... Alーright, let's do our
+more at ease...Alーright, let's do our
 best!)");
     MsgClose();
     ScrFadeOut(0,0);

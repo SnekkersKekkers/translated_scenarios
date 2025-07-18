@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(6,255,2,2,0,0,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150600500_06_000");
-MsgDisp("Himuro","... I understand.
+MsgDisp("Himuro","...I understand.
 I also need to amend my thinking.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -68,7 +68,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B150600500_06_100");
 MsgDisp("Himuro","Don't mention it.
-Then, I'm going home... see you later.");
+Then, I'm going home...see you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 SEWait();

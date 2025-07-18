@@ -34,9 +34,9 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChCheek(7,7);
 VoicePlay("B070700001_07_570");
-MsgDisp("Mikage","...... When did you learn those skills?
+MsgDisp("Mikage","......When did you learn those skills?
 You're getting too tough.");
-MsgDisp("主人公","... Phew.
+MsgDisp("主人公","...Phew.
 I've calmed down.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -67,7 +67,7 @@ ChCheek(7,0);
 VoicePlay("B070700001_07_610");
 MsgDisp("Mikage","I'll bite!
 Hahaha!");
-MsgDisp("主人公","(｛御影＊＊｝ just now... was a bit
+MsgDisp("主人公","(｛御影＊＊｝ just now...was a bit
 different to usual.
 My heart is racing again.)");
 BGMStop();

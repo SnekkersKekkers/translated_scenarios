@@ -24,7 +24,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360316001_03_010");
 MsgDisp("Honda","...");
-MsgDisp("主人公","Um... is something wrong?");
+MsgDisp("主人公","Um...is something wrong?");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -51,7 +51,7 @@ SEPlay("EV_SE_544");
 MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoicePlay("B360316001_03_040");
-MsgDisp("Honda","But... if I don't push myself, I'd look so
+MsgDisp("Honda","But...if I don't push myself, I'd look so
 bad in comparison.");
 MsgDisp("主人公","Huh?");
 ChEye(3,0);

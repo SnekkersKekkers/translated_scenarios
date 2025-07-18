@@ -43,7 +43,7 @@ MsgDisp("Hiiragi","Yes.
 You can get peace of mind by hearing it
 from the person themselves directly.");
 ChEyeOpenLevel(7,#1);
-MsgDisp("主人公","Eh... you're fine with my opinion?");
+MsgDisp("主人公","Eh...you're fine with my opinion?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
@@ -111,7 +111,7 @@ ChMotion(7,5);
 VoicePlay("B330C20300_07_020");
 MsgDisp("Mikage","I wouldn't come here even if you told me
 to.");
-MsgDisp("主人公","Ummm... why is that?");
+MsgDisp("主人公","Ummm...why is that?");
 ChEyeOpenLevel(5,0);
 ChEye(6,0);
 ChMouth(6,0);
@@ -164,7 +164,7 @@ VoicePlay("B330C20300_07_070");
 MsgDisp("Mikage","O-Oi, Inori.");
 VoicePlay("B330C20300_05_050");
 MsgDisp("Hiiragi","Ah, please show me it.
-... Heheh.");
+...Heheh.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -186,7 +186,7 @@ VoicePlay("B330C20300_06_090");
 MsgDisp("Himuro","Sorry.");
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","(Hmmm... maybe it is better to go with
+MsgDisp("主人公","(Hmmm...maybe it is better to go with
 other girls or by myself after all?)");
 BGMStop();
 MsgClose();

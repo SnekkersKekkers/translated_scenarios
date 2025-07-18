@@ -102,7 +102,7 @@ And, it's not warm, is it?");
         ChNanaType(#1);
         ChOpen(4,255,0,4,3,#1,#1,0,0,0,60);
         VoicePlay("B040406302_04_120");
-        MsgDisp("Nanatsumori","... It's warm.
+        MsgDisp("Nanatsumori","...It's warm.
 What about you?");
         MsgDisp("主人公","It's warm...
 I think?");

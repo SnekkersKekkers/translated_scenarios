@@ -18,7 +18,7 @@ ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("H3A0300001_03_010");
 MsgDisp("Honda","That last match was really close!
-If you just... ah-");
+If you just...ah-");
 ChMotion(3,2);
 VoicePlay("H3A0300001_03_020");
 MsgDisp("Honda","I guess there's no point in hypotheticals

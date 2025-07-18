@@ -64,7 +64,7 @@ Anything is possible right?");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040802202_08_060");
-        MsgDisp("Shirahane","... Did ya really not hear me?
+        MsgDisp("Shirahane","...Did ya really not hear me?
 Just now.");
         MsgDisp("主人公","That I'll fall in love with y——");
         ChEye(8,2);

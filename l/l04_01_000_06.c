@@ -79,7 +79,7 @@ I should've tried harder...)");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("L040100006_01_080");
-    MsgDisp("Kazama","This... is chocolate, right?");
+    MsgDisp("Kazama","This...is chocolate, right?");
     MsgDisp("主人公","Yeah...
 It's homemade chocolate.");
     ChEye(1,2);
@@ -96,7 +96,7 @@ But well, the result is kind of...");
     VoicePlay("L040100006_01_100");
     MsgDisp("Kazama","It's kind of like your alter ego.
 I like it.");
-    MsgDisp("主人公","｛風真＊＊｝... thank you.
+    MsgDisp("主人公","｛風真＊＊｝...thank you.
 But, calling me and the chocolate alike is
 a little...");
     ChEye(1,0);

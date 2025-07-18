@@ -32,7 +32,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C10400_06_010");
 MsgDisp("Himuro","I like autumn the most.
-... What about you?");
+...What about you?");
 ChMotion(7,2);
 ChEye(5,0);
 ChMotion(5,0);

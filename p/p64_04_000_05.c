@@ -13,7 +13,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("P640400005_04_010");
-MsgDisp("Nanatsumori","The cherry tomatoes... don't have anything
+MsgDisp("Nanatsumori","The cherry tomatoes...don't have anything
 inside them?");
 MsgDisp("主人公","Eh?");
 ChMotion(4,0,1);
