@@ -97,7 +97,7 @@ ChMotion(5,0,1);
 VoicePlay("E010520000_05_050");
 MsgDisp("Hiiragi","Right, earlier we talked about swapping
 clothes.");
-MsgDisp("主人公","( What if ｛柊＊＊＊｝ and
+MsgDisp("主人公","(What if ｛柊＊＊＊｝ and
 ｛氷室＊＊｝ swapped clothes?
 That sounds interesting.)");
 BGMStop();

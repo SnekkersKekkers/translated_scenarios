@@ -51,7 +51,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 ChEyeOpenLevel(4,8);
 VoicePlay("B070400001_04_350");
-MsgDisp("Nanatsumori","Huhu...");
+MsgDisp("Nanatsumori","Hehe...");
 MsgDisp("主人公","(I-I'm curious...)");
 BGMStop();
 MsgClose();

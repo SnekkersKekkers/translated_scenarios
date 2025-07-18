@@ -31,7 +31,7 @@ MsgDisp("主人公","Eh∋
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("G020540002_05_050");
-MsgDisp("Hiiragi","Huhu.
+MsgDisp("Hiiragi","Hehe.
 I was just checking if you could hear
 them.");
 MsgDisp("主人公","(Ugh...｛柊＊＊＊｝ from time to time will

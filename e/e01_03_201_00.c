@@ -94,7 +94,7 @@ ChMotion(4,0,1);
 VoicePlay("E010320100_04_050");
 MsgDisp("Nanatsumori","I'm going to walk around once more by
 myself.
-Cya later.");
+See you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);
 ChPosition(3,0);

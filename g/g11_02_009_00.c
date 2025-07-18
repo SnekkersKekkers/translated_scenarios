@@ -86,7 +86,7 @@ ChMotion(2,0);
 MsgDisp("Sassa","Today I'm going to relax and loosen up my
 muscles. I almost ended up regretting it,
 before the real thing.");
-MsgDisp("主人公","(It's already the interhigh...
+MsgDisp("主人公","(It's already the Inter-High...
 Let's cheer for ｛颯砂＊＊｝ so
 he can finish satisfied!)");
 MsgClose();

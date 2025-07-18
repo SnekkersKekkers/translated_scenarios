@@ -91,7 +91,7 @@ VoicePlay("D010200700_44_000");
 MsgDisp("Member B","Sassa-senpai, congratulations!");
 VoicePlay("D010200700_33_020");
 MsgDisp("Member A","Sassa-senpai, that was amazing!
-That was your 3rd consecutive interhigh
+That was your 3rd consecutive Inter-High
 victory.");
 MsgDisp("主人公","Yeah, it was amazing.
 Next year, you all can make it 4 wins for
@@ -172,5 +172,5 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 MsgDisp("主人公","(Just like that, the last high school
-interhigh came to an end.)");
+Inter-High came to an end.)");
 ChPrmTblAdd(2,0);

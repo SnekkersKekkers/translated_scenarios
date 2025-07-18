@@ -20,7 +20,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Q010703100_07_020");
-MsgDisp("Mikage","Going to bed and whispering with you
+MsgDisp("Mikage","Going to bed and whispering with your
 friends, having girl talk.
 Even I know about that stuff.");
 MsgDisp("主人公","｛御影＊＊｝ has

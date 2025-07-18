@@ -22,7 +22,7 @@ ChMotion(4,0,1);
 VoicePlay("D100400000_04_020");
 MsgDisp("Nanatsumori","Thank you.
 I'll give you some sweets later as thanks.
-Cya!");
+See you!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 MsgClose();

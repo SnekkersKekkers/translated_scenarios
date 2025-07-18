@@ -19,7 +19,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D140100000_01_020");
-MsgDisp("Kazama","I'm saved.
+MsgDisp("Kazama","Thank goodness.
 Then, let's go.");
 BGMStop();
 MsgClose();

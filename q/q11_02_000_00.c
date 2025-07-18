@@ -9,36 +9,35 @@ ScrFadeIn(0);
 VoicePlay("Q110200000_02_000");
 MsgDisp("Sassa","Sorry to keep you waiting.
 Did you get a good deal?");
-MsgDisp("主人公","Yeah, I did think a lot about it.");
+MsgDisp("主人公","Yeah, I thought about it a lot.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("Q110200000_02_010");
-MsgDisp("Sassa","I was done immediately.");
-MsgDisp("主人公","You were?
-It looks like it you took a long time.");
+MsgDisp("Sassa","I chose instantly.");
+MsgDisp("主人公","You did?
+It looks like it you took a while.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q110200000_02_020");
 MsgDisp("Sassa","Ah, yeah.
-It was kind of, you know, carefully
-wrapped.");
+It was kind of, you know, hard to wrap.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q110200000_02_030");
 MsgDisp("Sassa","So, what castella did you pick?");
-MsgDisp("主人公","Matcha. ...and black tea.");
+MsgDisp("主人公","Matcha...and black tea.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("Q110200000_02_040");
-MsgDisp("Sassa","Haha, so you couldn't decide.
+MsgDisp("Sassa","Haha, so you couldn't decide, after all.
 Actually, same.");
 MsgDisp("主人公","Eeh∋
 Matcha and black tea?
-Wow, they're exactly the same!");
+Wow, we got the exact same ones!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -46,23 +45,23 @@ VoicePlay("Q110200000_02_050");
 MsgDisp("Sassa","Ahh, yeah.
 We're a perfect match, I guess?");
 MsgDisp("主人公","...Hm?
-Looks like you bought a lot of stuff...");
+But it looks like you bought a lot of stuff...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("Q110200000_02_060");
 MsgDisp("Sassa","Haha, you figured out?
-Actually, I bought all flavours.");
+Actually, I bought all the flavours.");
 MsgDisp("主人公","Eeh∋");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q110200000_02_070");
-MsgDisp("Sassa","I mean, if possible, don't you want to end
-up being a perfect match?");
+MsgDisp("Sassa","I mean, wouldn't it be great if we could be
+a perfect match?");
 MsgDisp("主人公","(Pff, no matter what flavor of castella I
-see, I guess I'm going to think about
-｛颯砂＊＊｝ again?)");
+see, I guess it'll make me think of
+｛颯砂＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

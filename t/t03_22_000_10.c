@@ -2,7 +2,7 @@ MsgType(2);
 BGOpen("ep000",0);
 ScrFadeIn(0);
 MsgDisp("","After ｛ひかる＊｝ was
-introduced by GORO Sensei, she burst into
+introduced by Goro-sensei, she burst into
 the entertainment world! Now she is a big
 hit as a 'fashion model who can tell love
 stories.'");

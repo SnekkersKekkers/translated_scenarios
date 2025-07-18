@@ -17,7 +17,7 @@ ChMotion(1,0);
 VoicePlay("B330A10100_01_000");
 MsgDisp("Kazama","It's being renovated...
 What kind of shop was here?");
-MsgDisp("主人公","A fashion good store.");
+MsgDisp("主人公","A clothing store.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -35,8 +35,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A10100_06_000");
-MsgDisp("Himuro","...You seem kind of dissatisfied
-Ryota-senpai.");
+MsgDisp("Himuro","...You seem kind of dissatisfied, Ryota-senpai.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -62,7 +61,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("B330A10100_02_020");
-MsgDisp("Sassa","Ryota is also interested in cosmetics huh?");
+MsgDisp("Sassa","Ryota is interested in cosmetics, too?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

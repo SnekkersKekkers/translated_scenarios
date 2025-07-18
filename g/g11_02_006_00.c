@@ -1,7 +1,7 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛颯砂＊＊｝ is running by himself...
-After the interhigh, he seems a little
+After the Inter-High, he seems a little
 distant from everyone...)");
 VoicePlay("G110200600_40_000");
 MsgDisp("Manager","There's no need to worry, manager.

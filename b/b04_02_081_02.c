@@ -46,7 +46,7 @@ I learned a lot from that.");
         VoicePlay("B040208102_02_030");
         MsgDisp("Sassa","That's right.
 It's a once a year contest.
-It's the same as my interhigh.");
+It's the same as my Inter-High.");
         MsgDisp("主人公","In preparation for a certain time, you've
 also been giving it your all for one year,
 right? That kind of thing?");
@@ -55,7 +55,7 @@ right? That kind of thing?");
         ChMotion(2,4,1);
         VoicePlay("B040208102_02_040");
         MsgDisp("Sassa","Yeah. But the cherry blossoms will
-continue every year, I go to the interhigh
+continue every year, I go to the Inter-High
 a limited amount of times.");
         ChEye(2,0);
         ChMouth(2,4);

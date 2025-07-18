@@ -22,6 +22,6 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140700000_07_030");
 MsgDisp("Mikage","Ooh, that's unfortunate.
-Cya later, then.");
+See you later, then.");
 BGMStop();
 ChClose(7,0,30);

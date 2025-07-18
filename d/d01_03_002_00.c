@@ -109,7 +109,7 @@ Wait(30,0);
 VoicePlay("D010300200_03_100");
 MsgDisp("Honda","Ah, lunch is almost over∋
 I need to go buy something to eat.
-Cya～!");
+See you～!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

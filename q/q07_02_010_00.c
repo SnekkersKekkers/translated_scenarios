@@ -5,11 +5,10 @@ MsgClose();
 BGOpen("sc801",0);
 ScrFadeIn(0);
 VoicePlay("Q070201000_48_000");
-MsgDisp("Tour Guide","Here is a toilet break. We will leave in
-15 minutes. Oh...just in time, the sunset
+MsgDisp("Tour Guide","We'll make a toilet break here for 15 minutes. Oh...just in time, the sunset
 over the bay is beautiful!");
 VoicePlay("Q070201000_38_000");
-MsgDisp("Students","Yeeess.");
+MsgDisp("Students","Yessss.");
 VoicePlay("Q070201000_44_000");
 MsgDisp("School Girl A","Oh wow, the sunset is beautiful!");
 VoicePlay("Q070201000_45_000");
@@ -37,26 +36,26 @@ StlMouth(2,1);
 ScrFadeIn(0);
 VoicePlay("Q070201000_02_010");
 MsgDisp("Sassa","This place is great.
-A beautiful sunset.");
+What a beautiful sunset.");
 StlEye(2,0);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_020");
-MsgDisp("Sassa","You can see the sunset from the front.");
-MsgDisp("主人公","Really beautiful...");
+MsgDisp("Sassa","You can see the sunset perfectly from here.");
+MsgDisp("主人公","It's really beautiful...");
 StlEye(2,2);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_030");
-MsgDisp("Sassa","Also, this is a glass ball from Nagasaki
+MsgDisp("Sassa","Look, this is a glass ball from Nagasaki
 Glass.");
 StlNear(1,0,30);
 StlEye(2,1);
 StlMouth(2,1);
-MsgDisp("主人公","Wow, shiny.");
+MsgDisp("主人公","Wow, how shiny.");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_040");
-MsgDisp("Sassa","Great, isn't it.
-Here, try hold it.");
+MsgDisp("Sassa","It's great, isn't it?
+Here, try holding it.");
 StlEye(2,1);
 StlMouth(2,1);
 StlBG(1,1,30);
@@ -68,14 +67,14 @@ StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("Q070201000_02_050");
 MsgDisp("Sassa","Wow...
-It's as if we have a little sun in our
+It's as though we have a tiny sun in our
 hands.");
 MsgDisp("主人公","So pretty...");
 StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
 VoicePlay("Q070201000_02_060");
-MsgDisp("Sassa","...yeah.
+MsgDisp("Sassa","...Yeah.
 I'll never forget this moment for the rest
 of my life...");
 MsgDisp("主人公","Me too...");
@@ -84,7 +83,7 @@ StlMouth(2,1);
 VoicePlay("Q070201000_02_070");
 MsgDisp("Sassa","Y'know what, you can have this glass ball.");
 MsgDisp("主人公","Eh...
-May I have it?");
+Can I really have it?");
 StlEye(2,1,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
@@ -95,13 +94,13 @@ MsgDisp("主人公","Eh?");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_090");
-MsgDisp("Sassa","Good enough poetry for me, huh?");
+MsgDisp("Sassa","Is that poetic enough for me?");
 MsgDisp("主人公","Hehe, yes.
 Thanks, ｛颯砂＊＊｝.");
 StlEye(2,2);
 StlMouth(2,0);
 VoicePlay("Q070201000_07_000");
-MsgDisp("Mikage","Ohoho, how great, you two!");
+MsgDisp("Mikage","Oh! How great, you two!");
 SEPlay("EV_SE_045");
 MsgDisp("","(Flash)");
 StlEye(2,2,0);
@@ -109,10 +108,10 @@ StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("Q070201000_02_100");
 MsgDisp("Sassa","Ah, Mikage-sensei!");
-MsgDisp("主人公","Eeh?");
+MsgDisp("主人公","Ehh?");
 VoicePlay("Q070201000_07_010");
-MsgDisp("Mikage","I took you guys a nice shot.
-Look, it's time for the bus to leave!!");
+MsgDisp("Mikage","I took a nice photo of you guys.
+Look, it's time for the bus to leave!");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_110");

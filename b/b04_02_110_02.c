@@ -6,7 +6,7 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040211002_02_000");
 MsgDisp("Sassa","It's time to take a break.");
-MsgSel("Ehー, I still haven't played enough","Are you already tired?","That's right, let's buy a drink.");
+MsgSel("Eh...I haven't played enough yet.","Are you already tired?","That's right, let's buy a drink.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -74,8 +74,8 @@ good training in.");
         ChMouth(2,0);
         ChMotion(2,3);
         VoicePlay("B040211002_02_070");
-        MsgDisp("Sassa","I'm not particularly looking up and down.");
-        MsgDisp("主人公","It's somewhat embarrassing though?");
+        MsgDisp("Sassa","I'm not looking anywhere in particular.");
+        MsgDisp("主人公","That's...somewhat embarrassing?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,3);

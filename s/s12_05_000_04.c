@@ -35,7 +35,7 @@ isn't such a nice thing.");
     VoicePlay("S120500002_05_030");
     MsgDisp("Hiiragi","My New Years mood is ruined because of
 you.
-Cya.");
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);

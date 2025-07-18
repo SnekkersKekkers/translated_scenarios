@@ -2,7 +2,7 @@ BGOpen("sc130",1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D020500000_44_000");
-MsgDisp("School Girl","Cya later～");
+MsgDisp("School Girl","See you later～");
 MsgDisp("主人公","Byebye.");
 SEPlay("EV_SE_787");
 SEWait();

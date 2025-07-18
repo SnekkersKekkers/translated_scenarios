@@ -38,7 +38,7 @@ MsgDisp("Hiiragi","Make sure you pick me, okay?");
 MsgDisp("主人公","Ehhhh∋");
 ChEye(5,4);
 VoicePlay("G020520301_05_070");
-MsgDisp("Hiiragi","Huhu, it's a joke.");
+MsgDisp("Hiiragi","Hehe, it's a joke.");
 MsgDisp("主人公","(Sometimes I don't understand whether
 ｛柊＊＊＊｝ is being genuine
 or joking...)");

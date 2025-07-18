@@ -55,7 +55,7 @@ Just like that...");
     ChMotion(7,3);
     VoicePlay("S120700003_07_050");
     MsgDisp("Mikage","Take it easy.
-Cya.");
+See you.");
     MsgDisp("主人公","Yeah.
 Thanks for spending time with me today.");
     ChEye(7,0);
@@ -123,7 +123,7 @@ real pumpkin to be healthy and strong.");
     VoicePlay("S120700003_07_110");
     MsgDisp("Mikage","Do you realize how red you're turning,
 Miss Pumpkin?
-Cya.");
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);

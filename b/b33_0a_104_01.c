@@ -56,29 +56,29 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B330A10401_06_020");
-MsgDisp("Himuro","Hm, that's good isn't it?
+MsgDisp("Himuro","Hm, that's good, isn't it?
 It's honesty.");
-MsgDisp("主人公","Hehe, that's right isn't it?");
+MsgDisp("主人公","Hehe, you're right.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10401_06_030");
 MsgDisp("Himuro","Both you and Nozomu-senpai are simplistic.
-As for who appears interesting...well
-there's only one person left isn't there?");
+As for the interesting person...well
+there's only one person left, isn't there?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10401_01_020");
-MsgDisp("Kazama","...Even I've not really gotten anything to
+MsgDisp("Kazama","...Even I don't really have anything to
 hide.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A10401_02_020");
-MsgDisp("Sassa","Nothing in special huh?
+MsgDisp("Sassa","Nothing in particular, huh?
 ...Well, shall we go?
 Let's hear some inner voices.");
 ChEye(1,4);
@@ -112,8 +112,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10401_01_040");
 MsgDisp("Kazama","This happens all the time.
-...Geez, I'm not supposed to be type to
-get teased.");
+...Geez, I'm not supposed to be the one
+getting teased.");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(1,0,30);

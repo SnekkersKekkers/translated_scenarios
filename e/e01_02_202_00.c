@@ -100,7 +100,7 @@ ChMotion(2,4);
 VoicePlay("E010220200_02_070");
 MsgDisp("Sassa","What's with him, not in the mood?");
 MsgDisp("主人公","(If they switched clothes...
-Huhu, wouldn't that be interesting?)");
+Hehe, wouldn't that be interesting?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

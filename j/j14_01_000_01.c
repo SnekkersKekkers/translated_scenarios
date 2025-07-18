@@ -1,4 +1,4 @@
-MsgSel("Yes, come on!","I'll be a bit busy that day ...");
+MsgSel("Yes, let's go!","I'll be a bit busy that day ...");
 switch (MsgSelRsltGet()){
     case 0:
     break ;

@@ -27,7 +27,7 @@ I won!");
 and the way you won was great too.
 Congrats.");
     MsgDisp("主人公","Hehe, thank you very much!");
-    MsgDisp("主人公","(I did it! I won the inter-high! I'm
+    MsgDisp("主人公","(I did it! I won the Inter-High! I'm
 really glad I worked so hard at my club!)");
     break ;
     default :

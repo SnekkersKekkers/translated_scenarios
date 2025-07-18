@@ -78,13 +78,13 @@ to act towards Mari.");
     StlMouth(22,0);
     StlCheek(22,0);
     VoicePlay("U130D00001_22_040");
-    MsgDisp("Hikaru","He's a rare type of boy these days Where
+    MsgDisp("Hikaru","He's a rare type of boy these days. Where
 did that brave star of track and field
 go∋");
     StlEyeOpenLevel(21,0,1);
     VoicePlay("U130D00001_21_040");
     MsgDisp("Michiru","Isn't that because he's thinking carefully
-about how he should treat and cherish Mari");
+about how he should treat and cherish Mari?");
     StlEyeOpenLevel(21,5,1);
     StlEye(22,1,0);
     StlEyeOpenLevel(22,0,1);

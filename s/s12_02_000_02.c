@@ -23,7 +23,7 @@ I got to start the year off with you.");
     VoicePlay("S120200002_02_010");
     MsgDisp("Sassa","Yeah, let's start it off with a run!
 I'll run and train a bit.
-Cya!");
+See you!");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();

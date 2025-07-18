@@ -92,7 +92,7 @@ I wonder why?");
         MsgDisp("Hiiragi","I guess it was unusual for me.
 My mother also forced herself to come
 along,");
-        MsgDisp("主人公","It must have been tough for your Mom.
+        MsgDisp("主人公","It must have been tough for your mom.
 But, I think she was happy.");
         ChEye(5,4);
         ChEyeOpenLevel(5,0);

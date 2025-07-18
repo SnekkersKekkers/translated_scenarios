@@ -160,7 +160,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D010700600_07_170");
-MsgDisp("Mikage","Cya later then.
+MsgDisp("Mikage","See you later then.
 Next time when nobody shows up, we can
 play some more～");
 MsgDisp("主人公","Y-Yes!");

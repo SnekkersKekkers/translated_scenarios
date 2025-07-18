@@ -31,7 +31,7 @@ I think I'll jog home.");
     ChMotion(2,3);
     VoicePlay("S120200001_02_020");
     MsgDisp("Sassa","New Years isn't an excuse not to train.
-Cya.");
+See you.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
@@ -100,7 +100,7 @@ It's like some kind of challenge.");
     VoicePlay("S120200001_02_080");
     MsgDisp("Sassa","I think I'll try to build up my stamina
 for an all-out date.
-Cya.");
+See you.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");

@@ -83,7 +83,7 @@ even more isolated.");
 MsgDisp("","But, if I give up now, my dream will
 definitely not come true.");
 MsgDisp("","So...after one year, until the
-interhigh, please let me do things my
+Inter-High, please let me do things my
 way.");
 MsgClear();
 MsgDisp("","After that, I'll do as my seniors

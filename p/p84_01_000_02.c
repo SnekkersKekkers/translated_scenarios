@@ -42,7 +42,7 @@ ChMotion(1,0);
 VoicePlay("P840100002_01_040");
 MsgDisp("Kazama","Can you forgive me for it being cold?");
 MsgDisp("主人公","I forgive you!
-...Huhu!");
+...Hehe!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3,1);

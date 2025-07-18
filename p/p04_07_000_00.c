@@ -22,7 +22,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("P040700000_07_020");
 MsgDisp("Mikage","Yeah.
-It's full marks from me.");
+It's a perfect score from me.");
 MsgDisp("主人公","(I did it!
 I'm glad I worked so hard at the
 preparations!)");

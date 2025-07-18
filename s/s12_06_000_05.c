@@ -98,7 +98,7 @@ happened to repeat the year?");
     ChMouth(6,3);
     ChMotion(6,1);
     VoicePlay("S120600002_06_160");
-    MsgDisp("Himuro","Cya then.");
+    MsgDisp("Himuro","See you then.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

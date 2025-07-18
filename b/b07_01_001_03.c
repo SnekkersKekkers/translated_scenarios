@@ -39,8 +39,7 @@ VoicePlay("B070100001_01_170");
 MsgDisp("Kazama","It's fine but, no it's not good!
 You're far off the mark again.
 Seriously, stop with that finishing move.");
-MsgDisp("主人公","(...
-Finishing move?)");
+MsgDisp("主人公","(...Finishing move?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

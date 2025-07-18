@@ -80,7 +80,7 @@ MsgDisp("Sassa","But this is completely awful.
 I wonder what I even practiced for.");
 MsgDisp("主人公","Don't say that.
 ｛颯砂＊＊｝ is an octathlon
-athlete, and an interhigh champion.");
+athlete, and an Inter-High champion.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);

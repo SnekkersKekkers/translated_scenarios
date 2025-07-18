@@ -12,9 +12,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F032200000_22_060");
-MsgDisp("Hikaru","Ehー...Now that you ask me again...
-nothing is coming up. I like everything.");
-MsgDisp("主人公","Then, do you have a disliked food?");
+MsgDisp("Hikaru","Ehー...Now that you ask me...
+Nothing comes to mind. I like everything.");
+MsgDisp("主人公","Do you have a food you dislike, then?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -37,7 +37,7 @@ MsgDisp("Hikaru","I mean～
 I'm rarely allowed to eat it.
 Even though it's super delicious?");
 MsgDisp("主人公","(Ah...｛ひかる＊｝ is a model so, I wonder
-there's restrictions on what she can eat?)");
+if there's restrictions on what she can eat?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

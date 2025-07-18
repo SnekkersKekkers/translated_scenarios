@@ -21,7 +21,7 @@ ChMotion(7,1);
 VoicePlay("D140700000_07_040");
 MsgDisp("Mikage","I see.
 I guess I'm in that sort of mood, too.
-Cya later, then.");
+See you later, then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.7);
 BGMStop();
 ChClose(7,0,30);

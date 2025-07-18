@@ -10,7 +10,7 @@ MsgClose();
 ChOpen(2,255,4,0,0,#1,#1,0,0);
 VoicePlay("B350200000_02_010");
 MsgDisp("Sassa","I wanted to ask you that.
-What's wrong?");
+What's up?");
 MsgDisp("主人公","Hmm, for some reason I just wanted to ask.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -42,7 +42,7 @@ Right, let's go!");
     ChMotion(2,4);
     VoicePlay("B350200000_02_050");
     MsgDisp("Sassa","I don't know why, but for some reason I've
-set my mind to a place.");
+got my mind set to this place");
     MsgClose();
     ScrFadeOut(0);
     break ;

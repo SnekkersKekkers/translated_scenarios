@@ -13,7 +13,7 @@ ChEyeOpenLevel(2,0);
 ScrFadeIn(0);
 Wait(30,0);
 VoicePlay("B360217000_02_000");
-MsgDisp("Sassa","Haaー,I sangー!");
+MsgDisp("Sassa","Haaー, I sang so much!");
 MsgDisp("主人公","｛颯砂＊＊｝, won't you lose your
 voice?");
 ChEye(2,0);
@@ -27,9 +27,9 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B360217000_02_020");
 MsgDisp("Sassa","Might as well act like we were meant to go
-to karaoke just us two in the first place.");
+to karaoke by ourselves in the first place.");
 MsgDisp("主人公","Ehh? If ｛風真＊＊｝ and
-｛氷室＊＊｝ heard that they'll get
+｛氷室＊＊｝ hear that they'll get
 mad.");
 ChEye(2,0);
 ChMouth(2,4);

@@ -30,7 +30,7 @@ great start this year. Happy New Years!");
     ChMotion(3,4,1);
     VoicePlay("S120300002_03_020");
     MsgDisp("Honda","Leave that to me.
-Cya later then!");
+See you later then!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
     ChClose(3);

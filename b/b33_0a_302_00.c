@@ -158,7 +158,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A30200_06_060");
-MsgDisp("Himuro","Ryota-senpai and Nozomu senpai have
+MsgDisp("Himuro","Ryota-senpai and Nozomu-senpai have
 natural potential.
 Of course, that goes for you too.");
 MsgDisp("主人公","Really?

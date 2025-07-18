@@ -57,7 +57,7 @@ ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B070700001_07_510");
-MsgDisp("Mikage","Huhu, so you think that?
+MsgDisp("Mikage","Hehe, so you think that?
 But there is one thing that we're all
 concerned over.");
 MsgDisp("主人公","?");

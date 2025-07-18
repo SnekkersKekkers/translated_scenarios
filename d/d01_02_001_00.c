@@ -2,7 +2,7 @@ BGOpen("sc623",0);
 BGMPlay("BGM_CLUB_IVENT",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Today is the final day of interhigh.
+MsgDisp("主人公","(Today is the final day of Inter-High.
 This is the senior's last match.
 Let's cheer as hard as we can!)");
 MsgClose();

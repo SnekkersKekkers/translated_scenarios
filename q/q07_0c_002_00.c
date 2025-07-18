@@ -55,7 +55,7 @@ MsgClose();
 SEPlay("EV_SE_856",0,0.6);
 ChClose(7,0,30);
 ChClose(5,0,30);
-MsgDisp("主人公","( I wanted to tell ｛氷室＊＊｝ the
+MsgDisp("主人公","(I wanted to tell ｛氷室＊＊｝ the
 story about ｛御影＊＊｝...
 Right! I'll just tell him in the report.)");
 BGMStop();

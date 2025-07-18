@@ -26,7 +26,7 @@ Sorry.");
     MsgDisp("Sassa","See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Did I ask him out at a bad timing?)");
+    MsgDisp("主人公","(Did I ask him out at a bad time?)");
     break ;
     case 4:
     case 5:

@@ -44,7 +44,7 @@ might just pass by.");
     VoicePlay("S120100003_01_030");
     MsgDisp("Kazama","That's true.
 But better safe than sorry.
-Cya.");
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);

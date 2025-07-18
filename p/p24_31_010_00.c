@@ -57,7 +57,7 @@ high school feeling. Thank you▼");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","( I changed the set with Goro-sensei,
+MsgDisp("主人公","(I changed the set with Goro-sensei,
 this'll be a nice memory!)");
 MsgClose();
 ScrFadeOut(0);

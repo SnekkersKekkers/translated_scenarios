@@ -1,6 +1,6 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛颯砂＊＊｝...Your hurdle times is your
+MsgDisp("主人公","(｛颯砂＊＊｝...Your hurdle time is your
 personal best. Maybe you'll be able to win
 all the events.)");
 MsgClose();
@@ -11,7 +11,7 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200602_02_000");
 MsgDisp("Sassa","｛主人公｝, I just jumped all the
-hurdles as I imagined them.");
+hurdles using image training.");
 MsgDisp("主人公","Yeah, it's a better time than the last
 track meet.");
 ChEye(2,0);
@@ -67,7 +67,7 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200602_02_060");
 MsgDisp("Sassa","If I just think about how you're waiting
-at the goal, then I can find my way there.");
+for me at the finish line, I'll find my way there.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,0);

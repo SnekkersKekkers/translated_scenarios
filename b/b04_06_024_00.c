@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040602400_06_010");
     MsgDisp("Himuro","It's a bit romantic.
-The mood also gets full marks.
+The mood also gets a perfect score.
 ...Am I wrong?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

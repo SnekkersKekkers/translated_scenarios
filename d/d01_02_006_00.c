@@ -10,7 +10,7 @@ ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200600_02_000");
 MsgDisp("Sassa","｛主人公｝.
-After this is the １１０ Meter Hurdle.");
+After this is the 110 Meter Hurdle.");
 MsgDisp("主人公","Right.
 Good luck.");
 ChEye(2,0);
@@ -28,7 +28,7 @@ MsgDisp("Sassa","I'm going.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Since the last interhigh
+MsgDisp("主人公","(Since the last Inter-High
 ｛颯砂＊＊｝ has slowly been
 improving. I'm looking forward to seeing
 today's results!)");
@@ -90,7 +90,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D010200600_02_060");
 MsgDisp("Sassa","Yeah. Just like my senpai told me during
-the second interhigh. I need to do it my
+the second Inter-High. I need to do it my
 way until the end.");
 MsgDisp("主人公","Yeah.
 I'm sure you can do it and win it all!");
@@ -107,6 +107,6 @@ BGMStop();
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Ever since ｛颯砂＊＊｝ got
-encouraged from his senpai, his time keeps
+encouraged by his senpai, his time keeps
 improving...!)");
 ChPrmTblAdd(2,0);

@@ -8,7 +8,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q090200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, mornin.
+    MsgDisp("Sassa","｛主人公｝, morning.
 Thanks in advance for today!");
     MsgDisp("主人公","Yeah!
 Well, let's go.");
@@ -36,21 +36,20 @@ Let's have fun today.");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("Q090200000_02_030");
-    MsgDisp("Sassa","｛主人公｝, mornin.");
+    MsgDisp("Sassa","｛主人公｝, morning.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,0);
     ChEyeOpenLevel(2,0);
     VoicePlay("Q090200000_02_040");
-    MsgDisp("Sassa","You're going sightseeing to the limit
-today, aren't you?");
-    MsgDisp("主人公","Hehe, like athletics?");
+    MsgDisp("Sassa","You're gonna go sightseeing like crazy today, aren't you?");
+    MsgDisp("主人公","Hehe, like you with athletics?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("Q090200000_02_050");
     MsgDisp("Sassa","Yeah, it's the same.
-All for one, make sure not to make
+Give it your all, make sure not to have any
 regrets.");
     ChEye(2,0);
     ChMouth(2,4);

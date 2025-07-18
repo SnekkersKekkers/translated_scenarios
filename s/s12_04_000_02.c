@@ -21,7 +21,7 @@ Happy New Year!");
     ChMotion(4,0,1);
     VoicePlay("S120400002_04_010");
     MsgDisp("Nanatsumori","Happy New Year.
-Cya.");
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();

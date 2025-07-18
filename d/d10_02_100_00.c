@@ -6,7 +6,7 @@ MsgClose();
 ChOpen(2,254,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D100210000_02_000");
-MsgDisp("Sassa","｛主人公｝, listen to me.");
+MsgDisp("Sassa","｛主人公｝, listen.");
 MsgDisp("主人公","Good morning, ｛颯砂＊＊｝.
 What's up?");
 ChEye(2,0);
@@ -29,7 +29,7 @@ ChMotion(2,4);
 VoicePlay("D100210000_02_030");
 MsgDisp("Sassa","Yeah, but we were together as a pair. I
 wonder what kind of competition it was,
-I'll think about it. Cya.");
+I'll think about it. See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

@@ -10,7 +10,7 @@ VoicePlay("B040215101_02_000");
 MsgDisp("Sassa","Alright!
 Did you see that?
 Just now∋");
-MsgSel("Yeah, that was smooth!","I want you to coach me","Yeah, amazing, the pins looked like 
+MsgSel("Yeah, that was smooth!","I want you to coach me.","Yeah, amazing, the pins looked like 
 they were gonna break.");
 switch (MsgSelRsltGet()){
     case 0:

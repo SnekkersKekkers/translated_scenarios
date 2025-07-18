@@ -53,7 +53,7 @@ that I won't notice anything else?");
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100005_01_050");
     MsgDisp("Kazama","Prepare yourself.
-Cya.");
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);

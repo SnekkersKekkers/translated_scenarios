@@ -123,7 +123,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D130A00101_07_030");
-MsgDisp("Mikage","Sure, cya.");
+MsgDisp("Mikage","Sure, See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();

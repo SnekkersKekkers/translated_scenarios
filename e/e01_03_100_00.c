@@ -14,7 +14,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,8);
 VoicePlay("E010310000_03_010");
-MsgDisp("Honda","Huhu, is it possible that you also～...?");
+MsgDisp("Honda","Hehe, is it possible that you also～...?");
 MsgDisp("主人公","Eh?
 What?");
 ChEye(3,0);
@@ -29,7 +29,7 @@ ChMotion(3,1,1);
 VoicePlay("E010310000_03_030");
 MsgDisp("Honda","There's new ramen shop that just opened in
 the shopping district!");
-MsgDisp("主人公","Huhu, is that why you're here?");
+MsgDisp("主人公","Hehe, is that why you're here?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

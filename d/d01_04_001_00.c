@@ -170,7 +170,7 @@ ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("D010400100_04_170");
 VoiceEVSPlay(4);
-MsgDisp("Nanatsumori","Cya later.
+MsgDisp("Nanatsumori","See you later.
 ｛主人公｝, good night.");
 MsgDisp("主人公","Good night, ｛七ツ森＊｝.");
 MsgClose();

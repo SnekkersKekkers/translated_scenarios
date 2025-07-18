@@ -16,7 +16,7 @@ ChMotion(7,4);
 VoicePlay("D100710000_07_010");
 MsgDisp("Mikage","Oh, you're right!
 I have to get to the staff room quick.
-Cya.");
+See you.");
 MsgDisp("主人公","｛御影＊＊｝, no!
 You can't go dressed like that.");
 ChEye(7,0);

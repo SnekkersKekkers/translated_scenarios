@@ -35,7 +35,7 @@ I can't wait for
     VoicePlay("J030200000_02_040");
     MsgDisp("Sassa","Sure, I'll go!
 I'm getting really excited right now.");
-    MsgDisp("主人公","Huhu, that much?");
+    MsgDisp("主人公","Hehe, that much?");
     VoicePlay("J030200000_02_050");
     MsgDisp("Sassa","Of course, it's going to be fun.");
     MsgDisp("主人公","Sure, then I'll be waiting at the

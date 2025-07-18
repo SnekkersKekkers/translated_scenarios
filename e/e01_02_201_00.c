@@ -110,7 +110,7 @@ ChMotion(3,4);
 VoicePlay("E010220100_03_080");
 MsgDisp("Honda","I see. I also got to see you thanks to
 Sakkun today. It's a win-win!");
-MsgDisp("主人公","(Huhu.
+MsgDisp("主人公","(Hehe.
 Yeah, we all got to see each other!)");
 BGMStop();
 MsgClose();

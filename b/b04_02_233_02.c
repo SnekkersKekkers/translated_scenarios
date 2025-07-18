@@ -114,7 +114,7 @@ in an instant.");
         VoicePlay("B040223302_02_120");
         MsgDisp("Sassa","Then, just so I won't be mean to you, I'll
 be careful.");
-        MsgDisp("主人公","( MAybe this is a worry only
+        MsgDisp("主人公","(MAybe this is a worry only
 ｛颯砂＊＊｝ has...)");
         break ;
         default :

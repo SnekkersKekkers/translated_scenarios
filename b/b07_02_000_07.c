@@ -4,13 +4,13 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_340");
-MsgDisp("Sassa","Right now I can only see the inter-high.
+MsgDisp("Sassa","Right now I can only see the Inter-High.
 I'm not thinking about anything else.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070200000_02_350");
-MsgDisp("Sassa","If I can't win the inter-high, I don't
+MsgDisp("Sassa","If I can't win the Inter-High, I don't
 think I have the right to talk about
 anything beyond that, even if they're
 dreams.");
@@ -28,7 +28,7 @@ ChMotion(2,4);
 VoicePlay("B070200000_02_370");
 MsgDisp("Sassa","That's right so...please.
 Ask me that question again after the
-inter-high.");
+Inter-High.");
 MsgDisp("主人公","Hehe, sure.
 Got it!");
 MsgDisp("主人公","(I hope ｛颯砂＊＊｝ succeeds!)");

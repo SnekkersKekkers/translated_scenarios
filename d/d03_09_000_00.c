@@ -111,7 +111,7 @@ switch (MsgSelRsltGet()){
 What's your name——");
     VoicePlay("D030900000_09_110");
     MsgDisp("Kuya?","Sorry!
-But I have something to do, cya later!");
+But I have something to do, See you later!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.4);
     MsgDisp("主人公","Later, huh.
 I wonder if I'll see him again...?");

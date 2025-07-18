@@ -9,7 +9,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(31,254,3,0,0,#1,#1,0,0);
 VoicePlay("P733100001_31_000");
-MsgDisp("Goro","Huhu, it's lovely.");
+MsgDisp("Goro","Hehe, it's lovely.");
 MsgDisp("主人公","Goro-sensei!
 You came to watch∋");
 ChEye(31,4);

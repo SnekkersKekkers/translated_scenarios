@@ -158,7 +158,7 @@ VoicePlay("Q070200000_02_170");
 MsgDisp("Sassa","But if I'm not good enough, that means I
 wouldn't have what it takes for what comes
 next.");
-MsgDisp("主人公","You can do this, ｛颯砂＊＊｝!");
+MsgDisp("主人公","You can do it, ｛颯砂＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

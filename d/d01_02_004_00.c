@@ -141,7 +141,7 @@ SEWait();
 VoicePlay("D010200400_02_160");
 MsgDisp("Sassa","Let's do some high altitude training again
 sometime.
-Cya.");
+See you.");
 SEPlay("EV_SE_DOOR_013");
 SEWait();
 MsgDisp("主人公","(Sigh, my heart is racing a bit quickly

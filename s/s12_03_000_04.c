@@ -29,7 +29,7 @@ past three years.");
     ChMotion(3,1,1);
     VoicePlay("S120300004_03_020");
     MsgDisp("Honda","Alright. There's not much time left, but
-let's enjoy our school days! Cya!");
+let's enjoy our school days! See you!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);

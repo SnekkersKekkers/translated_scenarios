@@ -41,7 +41,7 @@ VoicePlay("E010230100_02_030");
 MsgDisp("Sassa","But Inori was glued to store window,
 looking like he really wanted something,
 right?");
-MsgDisp("主人公","Huhu, is that so?");
+MsgDisp("主人公","Hehe, is that so?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -71,7 +71,7 @@ MsgDisp("主人公","No, sorry!
 You guys have fun!");
 VoicePlay("E010230100_06_040");
 MsgDisp("Himuro","Ahh, come on...");
-MsgDisp("主人公","(Huhu!
+MsgDisp("主人公","(Hehe!
 ｛氷室＊＊｝ looked a little
 happy.)");
 BGMStop();

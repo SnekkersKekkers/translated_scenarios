@@ -77,7 +77,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("E010220000_01_030");
 MsgDisp("Kazama","Who's the one who started running before
 saying anything?");
-MsgDisp("主人公","Huhu, so that's how it went?");
+MsgDisp("主人公","Hehe, so that's how it went?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

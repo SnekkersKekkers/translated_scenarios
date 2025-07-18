@@ -22,7 +22,7 @@ Thank you so much.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("S120700002_07_010");
-    MsgDisp("Mikage","Cya later then.
+    MsgDisp("Mikage","See you later then.
 Good luck this year.");
     MsgDisp("主人公","Yeah!
 Happy New Years.");

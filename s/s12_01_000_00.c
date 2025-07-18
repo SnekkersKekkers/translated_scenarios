@@ -33,7 +33,7 @@ the same as always.");
     ChMotion(1,0);
     VoicePlay("S120100000_01_020");
     MsgDisp("Kazama","I feel the same way about you.
-Cya.");
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);

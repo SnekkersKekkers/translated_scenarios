@@ -60,7 +60,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D130A00100_06_020");
-MsgDisp("Himuro","Ryota senpai has that kind of thing
+MsgDisp("Himuro","Ryota-senpai has that kind of thing
 doesn't he?");
 ChEyeOpenLevel(1,0);
 ChCheek(1,5);

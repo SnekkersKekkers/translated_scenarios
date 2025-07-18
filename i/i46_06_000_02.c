@@ -14,7 +14,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     ChEyeOpenLevel(6,8);
     VoicePlay("I460600002_06_000");
-    MsgDisp("Himuro","...making arrangements is hard.");
+    MsgDisp("Himuro","...Making arrangements is hard.");
     MsgDisp("主人公","Are you making flower baskets?");
     ChEye(6,2);
     ChMouth(6,0);

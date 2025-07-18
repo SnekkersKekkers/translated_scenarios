@@ -44,7 +44,7 @@ Why would I force you to keep going?");
     VoicePlay("S120300003_03_030");
     MsgDisp("Honda","Why don't you go inside already?
 Let's talk more at school.
-Cya!");
+See you!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();

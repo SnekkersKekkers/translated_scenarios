@@ -40,7 +40,7 @@ even realize it, it's over.");
     ChMotion(2,0);
     VoicePlay("S120200003_02_030");
     MsgDisp("Sassa","So, please watch over me this year too.
-Cya.");
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
@@ -118,7 +118,7 @@ You are a special person.");
     ChMotion(2,3);
     VoicePlay("S120200003_02_110");
     MsgDisp("Sassa","Happy New Year!
-Cya.");
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();

@@ -31,8 +31,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100600_01_010");
 MsgDisp("Kazama","It was regarding Sassa.
-I thought I had so many things to
-ask...but I stopped.");
+I thought I had something to ask but...
+It's whatever.");
 MsgDisp("主人公","｛颯砂＊＊｝...?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -65,7 +65,7 @@ Wait(10,0);
 ChOpen(1,100,1,1,0,0,#1,0,0);
 VoicePlay("G110100600_01_050");
 MsgDisp("Kazama","Phew...this is wrong.
-I mean what am I so worried about?
+I mean, what am I so worried about?
 How pathetic, huh?");
 ChEyeOpenLevel(1,#1);
 Wait(10,0);

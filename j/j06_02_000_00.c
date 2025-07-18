@@ -40,7 +40,7 @@ the day.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("J060200000_02_020");
-        MsgDisp("Sassa","Really? Yes, absolutely! Okay, let's
+        MsgDisp("Sassa","Really? Yes! Okay, let's
 decide where we're going to meet.");
         MsgDisp("主人公","Yeah.
 Okay, then, how about we meet at the
@@ -58,7 +58,7 @@ wherever you are, right?");
         ChMotion(2,4);
         VoicePlay("J060200000_02_040");
         MsgDisp("Sassa","Oh, you laughed.
-I'll be the one to mark the spot.
+I'll be the one to spot the mark.
 See you.");
         MsgClose();
         MsgClose();

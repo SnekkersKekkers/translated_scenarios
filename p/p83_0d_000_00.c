@@ -24,7 +24,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P830D00000_21_010");
-MsgDisp("Michiru","Huhu, good work on the management.");
+MsgDisp("Michiru","Hehe, good work on the management.");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);

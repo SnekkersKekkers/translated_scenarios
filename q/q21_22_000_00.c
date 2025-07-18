@@ -2,8 +2,7 @@ BGOpen("sc812",0);
 ChLayout(1);
 SEPlay("EV_SE_867",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...
-Hmm?
+MsgDisp("主人公","(...Hmm?
 The boy's room looks really lively...)");
 MsgClose();
 SEPlay("EV_SE_544");

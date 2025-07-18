@@ -78,8 +78,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("F100640001_01_050");
 MsgDisp("Kazama","I also have some business with him now,
 too.");
-MsgDisp("主人公","(...
-Hmm?)");
+MsgDisp("主人公","(...Hmm?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

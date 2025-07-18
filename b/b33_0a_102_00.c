@@ -28,7 +28,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A10200_02_000");
-MsgDisp("Sassa","I think it's good also.
+MsgDisp("Sassa","I think it's good too.
 It must look funny from your perspective.");
 ChEye(6,0);
 ChMouth(6,4);

@@ -78,9 +78,9 @@ It went by so fast, didn't it?");
     ChMotion(2,0);
     VoicePlay("Q120200000_02_070");
     MsgDisp("Sassa","Because we went ultra-max sightseeing
-together, so I'm very satisfied.");
+together, I'm very satisfied.");
     MsgDisp("主人公","Hehe.
-I also enjoyed looking with you,
+I also enjoyed hanging out with you,
 ｛颯砂＊＊｝.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -93,7 +93,7 @@ There's one thing left.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("Q120200000_02_090");
-    MsgDisp("Sassa","Nagasaki is famous for its many hills,
+    MsgDisp("Sassa","Nagasaki is famous for its hills,
 right?
 I couldn't go running there.");
     MsgDisp("主人公","I see, Nagasaki does have many hills.");
@@ -105,16 +105,15 @@ I couldn't go running there.");
 run with you.
 Don't you think so too?");
     MsgDisp("主人公","Eh∋
-Me too?");
+You want me to come too?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("Q120200000_02_110");
-    MsgDisp("Sassa","Bike renting is also an option. ...would
-be a good idea, right?");
+    MsgDisp("Sassa","Bike renting is also an option. That's a good idea, right?");
     MsgDisp("主人公","Hehe, yeah!");
-    MsgDisp("主人公","( ｛颯砂＊＊｝...
-I hope I can come back sometime.)");
+    MsgDisp("主人公","(｛颯砂＊＊｝...
+I hope we can come back sometime.)");
     break ;
     default :
     DbgAssert(1);

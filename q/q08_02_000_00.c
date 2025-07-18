@@ -36,10 +36,10 @@ Let's go around together the next day too!");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("Q080200000_02_030");
-    MsgDisp("Sassa","Yes.
-Enjoyed alot.");
+    MsgDisp("Sassa","Yeah.
+I enjoyed that a lot.");
     MsgDisp("主人公","Because we walked a lot, my legs are a bit
-tired.");
+sore.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -47,13 +47,13 @@ tired.");
     VoicePlay("Q080200000_02_040");
     MsgDisp("Sassa","The plan now is to take a big bath, and
 have Nagasaki specialties for dinner,
-right? Don't worry.");
+right? Just relax.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("Q080200000_02_050");
-    MsgDisp("Sassa","Then, let's go around the free day after
-tomorrow together too, okay?");
+    MsgDisp("Sassa","Want to hang out again tomorrow during our
+next free period?");
     MsgDisp("主人公","Yeah!");
     ChEye(2,0);
     ChMouth(2,3);

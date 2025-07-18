@@ -33,7 +33,7 @@ VoicePlay("E010210000_02_030");
 MsgDisp("Sassa","I heard there was a sale on supplements,
 so I came to take a look.
 But they were beauty supplements.");
-MsgDisp("主人公","Huhu, I see.");
+MsgDisp("主人公","Hehe, I see.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -65,6 +65,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(2);
-MsgDisp("主人公","(Huhu, his mom will be happy!)");
+MsgDisp("主人公","(Hehe, his mom will be happy!)");
 MsgClose();
 ScrFadeOut(0);

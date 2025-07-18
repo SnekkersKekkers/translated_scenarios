@@ -45,7 +45,7 @@ Let's work hard this year!");
     VoicePlay("S120200005_02_030");
     MsgDisp("Sassa","Ahh.
 I think I'll run home as fast as I can.
-Cya.");
+See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();

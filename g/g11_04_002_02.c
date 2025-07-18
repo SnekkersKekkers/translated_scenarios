@@ -33,7 +33,7 @@ ChMouth(4,2);
 VoicePlay("G110400202_04_010");
 MsgDisp("Nanatsumori","Are you checking out new items today?");
 MsgDisp("主人公","Absolutely!
-I was also wondering if you were here too,
+I was wondering if you were here too,
 ｛七ツ森＊｝.");
 ChEye(4,0);
 ChMouth(4,0);

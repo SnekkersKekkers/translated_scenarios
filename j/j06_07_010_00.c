@@ -19,7 +19,7 @@ Well, I can't help it.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","( He went to the trouble of inviting me,
+    MsgDisp("主人公","(He went to the trouble of inviting me,
 Did I do something wrong?)");
     break ;
     default :

@@ -186,7 +186,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("T020C30000_05_080");
-MsgDisp("Hiiragi","Mikage Sensei?");
+MsgDisp("Hiiragi","Mikage-sensei?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,3);

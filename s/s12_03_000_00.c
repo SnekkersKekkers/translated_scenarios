@@ -25,7 +25,7 @@ Is ｛本多＊＊｝ okay?");
     VoicePlay("S120300000_03_010");
     MsgDisp("Honda","Yeah.
 I have to go fishing with my dad tonight.
-So, cya later!");
+So, See you later!");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();

@@ -18,4 +18,4 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("J140100002_01_000");
 MsgDisp("Kazama","Right.
-I'll remember that.");
+Don't forget.");

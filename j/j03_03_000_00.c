@@ -56,7 +56,7 @@ too bad to hang up just now.");
     VoicePlay("J030300000_03_080");
     MsgDisp("Honda","But there'd be no end!
 And it's better to talk in person.");
-    MsgDisp("主人公","Huhu, you're right.");
+    MsgDisp("主人公","Hehe, you're right.");
     VoicePlay("J030300000_03_090");
     MsgDisp("Honda","Well, I'm looking forward to the day!
 There's a lot I want to talk about.
