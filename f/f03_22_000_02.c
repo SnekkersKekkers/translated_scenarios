@@ -12,8 +12,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F032200000_22_060");
-MsgDisp("Hikaru","Ehー...Now that you ask me...Nothing
-comes to mind. I like everything.");
+MsgDisp("Hikaru","EhーNow that you ask me...
+Nothing comes to mind.
+I like everything.");
 MsgDisp("主人公","Do you have a food you dislike, then?");
 ChEye(22,3);
 ChMouth(22,3);
