@@ -48,8 +48,8 @@ ChClose(2);
 Wait(30);
 MsgDisp("主人公","(Maybe I should have researched more
 during the preparation period and
-carefully tasted it....Uugh, it was a
-huge fail....");
+carefully tasted it....Uugh, it was a huge
+fail....");
 MsgClose();
 ScrFadeOut(0,0);
 BGMStop();

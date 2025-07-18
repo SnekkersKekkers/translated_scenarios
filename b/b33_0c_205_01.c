@@ -125,9 +125,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("B330C20501_06_040");
-MsgDisp("Himuro","Pfft...sounds good. Not going easy on
-each other, and keep going until we win.
-Bring it on.");
+MsgDisp("Himuro","Pfft...sounds good. Not going easy on each
+other, and keep going until we win. Bring
+it on.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -58,8 +58,7 @@ ChEye(3,0);
 ChMouth(3,2);
 ChMotion(3,1);
 VoicePlay("G110300604_03_060");
-MsgDisp("Honda","...But did you hear the question
-properly?
+MsgDisp("Honda","...But did you hear the question properly?
 You accidentally got it right, but...");
 MsgDisp("主人公","(Hehe!
 Working part-time with

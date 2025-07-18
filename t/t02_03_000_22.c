@@ -19,8 +19,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ChCheek(3,0);
 VoicePlay("T020300022_03_020");
-MsgDisp("Honda","Ah, but...It can't be just you getting
-the upper hand all the time. Me also!");
+MsgDisp("Honda","Ah, but...It can't be just you getting the
+upper hand all the time. Me also!");
 ChMouth(3,0);
 MsgDisp("主人公","Eh...");
 BGMStop(2.8);

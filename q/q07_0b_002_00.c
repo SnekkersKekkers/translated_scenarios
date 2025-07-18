@@ -44,8 +44,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(4,1,1);
 VoicePlay("Q070B00200_04_000");
-MsgDisp("Nanatsumori","Glover's wife was Japanese. ...is what
-the pamphlet says.");
+MsgDisp("Nanatsumori","Glover's wife was Japanese. ...is what the
+pamphlet says.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

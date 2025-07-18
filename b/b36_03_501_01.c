@@ -10,9 +10,9 @@ ChMotion(3,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360350101_03_000");
-MsgDisp("Honda","Ah, sorry...I was so focused on taking
-you out that I didn't really think ahead
-about what we'd do next.");
+MsgDisp("Honda","Ah, sorry...I was so focused on taking you
+out that I didn't really think ahead about
+what we'd do next.");
 MsgDisp("主人公","Haha, it's okay.");
 ChEye(3,4);
 ChMouth(3,3);

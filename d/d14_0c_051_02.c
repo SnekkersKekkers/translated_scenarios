@@ -90,8 +90,8 @@ VoicePlay("D140C05102_07_030");
 MsgDisp("Mikage","It's great, Yanosuke.");
 MsgDisp("主人公","(｛柊＊＊＊｝ and
 ｛御影＊＊｝ seem to be
-having fun...But ｛氷室＊＊｝
-seems a bit dissatisfied?)");
+having fun...But ｛氷室＊＊｝ seems
+a bit dissatisfied?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

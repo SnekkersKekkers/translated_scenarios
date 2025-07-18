@@ -95,8 +95,8 @@ more funny things");
         ChMotion(2,3);
         VoicePlay("B040223502_02_090");
         MsgDisp("Sassa","Shall we try going again?");
-        MsgDisp("主人公","There might be...things we're not
-supposed to find?");
+        MsgDisp("主人公","There might be...things we're not supposed
+to find?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,5);

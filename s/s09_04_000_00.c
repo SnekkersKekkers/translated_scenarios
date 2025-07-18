@@ -121,8 +121,8 @@ Let's go!");
         ChMotion(4,2,1);
         VoicePlay("S090400000_04_110");
         MsgDisp("Nanatsumori","I see.
-...When you say it like that, I don't
-want to back down.");
+...When you say it like that, I don't want
+to back down.");
         MsgDisp("主人公","Did you want to try?
 Let's go.");
         ChEye(4,2);

@@ -33,8 +33,7 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P840100002_01_030");
-MsgDisp("Kazama","Well...there's roasted sweet potatoes
-too.");
+MsgDisp("Kazama","Well...there's roasted sweet potatoes too.");
 MsgDisp("主人公","Yay!
 Thank you!");
 ChEye(1,4);

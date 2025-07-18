@@ -11,8 +11,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Um...Would everyone like a refill of
-their drinks? Your glasses look empty.");
+MsgDisp("主人公","Um...Would everyone like a refill of their
+drinks? Your glasses look empty.");
 VoicePlay("B330B10500_04_000");
 MsgDisp("Nanatsumori","I'll have rooibos tea.");
 ChEye(3,0);

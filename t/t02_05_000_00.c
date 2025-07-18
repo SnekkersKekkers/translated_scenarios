@@ -171,8 +171,8 @@ Wait(16,0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020500000_05_180");
-MsgDisp("Hiiragi","You are the light that guides me...a
-warm, lovely light.");
+MsgDisp("Hiiragi","You are the light that guides me...a warm,
+lovely light.");
 MsgClear();
 ChClose(5);
 ChCustomLayout(5,5,0,-2.6);

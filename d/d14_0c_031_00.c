@@ -39,8 +39,8 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C03100_05_010");
 MsgDisp("Hiiragi","Yes.
-...Ah, but when I was younger I was told
-I looked like an eggplant.");
+...Ah, but when I was younger I was told I
+looked like an eggplant.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

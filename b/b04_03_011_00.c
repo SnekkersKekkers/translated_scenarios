@@ -42,8 +42,8 @@ Ah, I can't see it behind the parking lot.");
     ChMotion(3,0,1);
     VoicePlay("B040301100_03_030");
     MsgDisp("Honda","I see, you can't help it if you're scared.
-That reinforced glass floor over there...
-no, you can't right?");
+That reinforced glass floor over
+there...no, you can't right?");
     MsgDateResultDisp();
     break ;
     default :

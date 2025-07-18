@@ -22,8 +22,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10401_06_000");
 MsgDisp("Himuro","That's fine.
-...But, wouldn't things get interesting
-if that rumor was true?");
+...But, wouldn't things get interesting if
+that rumor was true?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);

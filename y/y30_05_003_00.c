@@ -27,9 +27,8 @@ with you from now on.\"");
 VoicePlay("Y300500300_33_010");
 MsgDisp("Theater Member B","\"To think I could be in this
 wonderful play, 'Habataki Castle'
-that I'm so familiar with...so that
-I can be of help, I'll give it my
-all.\"");
+that I'm so familiar with...so that I
+can be of help, I'll give it my all.\"");
 MsgDisp("","They were full of hope.");
 MsgClear();
 MsgClose();
@@ -60,8 +59,8 @@ by this kind of me.\"");
 MsgDisp("","But, by chance, maybe it's a good
 thing you got to see the real me.");
 MsgDisp("","Being chairman and in the student
-council...I'm only good at keeping
-up with appearances, this is the real
+council...I'm only good at keeping up
+with appearances, this is the real
 me.");
 MsgClear();
 MsgDisp("主人公","\"No, ｛柊＊＊＊｝, for the

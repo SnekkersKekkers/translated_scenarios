@@ -40,8 +40,8 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("F020500013_05_040");
 MsgDisp("Hiiragi","Oh, there is one thing.
-A place I went to frequently. ...a
-chanpon restaurant.");
+A place I went to frequently. ...a chanpon
+restaurant.");
 MsgDisp("主人公","Huh?
 A restaurant?");
 ChMotion(5,0);

@@ -7,8 +7,7 @@ ChOpen(4,255,0,2,1,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B040423402_04_000");
-MsgDisp("Nanatsumori","You...you're spinning the handle too
-much.");
+MsgDisp("Nanatsumori","You...you're spinning the handle too much.");
 MsgSel("Are you dizzy?","I wanted to make ｛七ツ森＊｝ dizzy","That's what the handle is for!");
 switch (MsgSelRsltGet()){
     case 0:

@@ -48,7 +48,7 @@ See you later.");
     ChClose(1);
     MsgDisp("主人公","(My last New Year shrine visit as a
 Habataki student. I'm glad it was with
-｛風真＊＊｝. )");
+｛風真＊＊｝.)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

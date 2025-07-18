@@ -78,8 +78,8 @@ opportunity. Make sure to enjoy it to the
 fullest so you won't regret it in the end.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(Hmmm...｛御影＊＊｝
-looks lonely...I feel a bit bad.)");
+        MsgDisp("主人公","(Hmmm...｛御影＊＊｝ looks lonely...I feel
+a bit bad.)");
         break ;
         default :
         DbgAssert(0);

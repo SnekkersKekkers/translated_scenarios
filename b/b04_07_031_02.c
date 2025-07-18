@@ -96,8 +96,7 @@ forgetting things.)");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040703102_07_090");
-    MsgDisp("Mikage","Aaah, right...keep it within reason,
-okay?");
+    MsgDisp("Mikage","Aaah, right...keep it within reason, okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

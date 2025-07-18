@@ -123,8 +123,7 @@ seasonal fruit filling?");
     VoicePlay("I550700000_07_130");
     MsgDisp("Mikage","Hm, do you have anything with a longer
 shelf life?");
-    MsgDisp("主人公","Then...how about this assortment of
-yokan?
+    MsgDisp("主人公","Then...how about this assortment of yokan?
 It's fun trying all the different flavors.");
     ChEye(7,0);
     ChMouth(7,4);

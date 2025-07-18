@@ -37,7 +37,8 @@ ChMotion(5,0,1);
 VoicePlay("B330C30801_05_000");
 MsgDisp("Hiiragi","Yes, please tell me about today's plans.");
 MsgDisp("主人公","(Hehe! Both of them are looking forward to
-camping with ｛御影＊＊｝)");
+camping with ｛御影＊＊｝
+)");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

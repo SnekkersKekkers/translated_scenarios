@@ -21,8 +21,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650301_06_010");
 MsgDisp("Himuro","Why shoulders are so stiff.
-...Why did I decide to hang out with
-those guys?");
+...Why did I decide to hang out with those
+guys?");
 MsgDisp("主人公","You didn't enjoy?");
 ChEye(6,0);
 ChMouth(6,0);

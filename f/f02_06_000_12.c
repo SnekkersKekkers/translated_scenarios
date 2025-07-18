@@ -58,4 +58,4 @@ VoicePlay("F020600012_06_060");
 MsgDisp("Himuro","...If I feel like i.");
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(I'd like it if I could hang out with
-｛氷室＊＊｝. )");
+｛氷室＊＊｝.)");

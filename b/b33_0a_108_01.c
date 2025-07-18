@@ -123,8 +123,8 @@ VoicePlay("B330A10801_06_050");
 MsgDisp("Himuro","You and Ryota-senpai were clearly just
 trying to be alone right?");
 MsgDisp("主人公","Ehh?
-It was scary...so I just wanted to get
-out quickly?");
+It was scary...so I just wanted to get out
+quickly?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

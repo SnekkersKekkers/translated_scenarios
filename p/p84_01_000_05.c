@@ -34,8 +34,8 @@ ChMotion(1,0);
 VoicePlay("P840100005_01_030");
 MsgDisp("Kazama","If you understand, then it's fine.
 Hey, don't make that face.");
-MsgDisp("主人公","(Haa...Even though it was my last
-cultural festival, I inconvenienced
+MsgDisp("主人公","(Haa...Even though it was my last cultural
+festival, I inconvenienced
 ｛風真＊＊｝ and everyone...a
 huge fail.)");
 MsgClose();

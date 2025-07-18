@@ -72,8 +72,7 @@ here.");
     VoicePlay("R040300001_03_080");
     MsgDisp("Honda","It's not just the dress either, you
 yourself are sparkling.");
-    MsgDisp("主人公","No way...you're giving me too much
-credit.");
+    MsgDisp("主人公","No way...you're giving me too much credit.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);

@@ -39,4 +39,5 @@ VoicePlay("F020500008_05_040");
 MsgDisp("Hiiragi","Yes, well, I am aiming for the shadow MVP
 of the culture festival.");
 MsgDisp("主人公","(It seems like I was able to see a
-different side of ｛柊＊＊＊｝...)");
+different side of ｛柊＊＊＊｝...
+)");

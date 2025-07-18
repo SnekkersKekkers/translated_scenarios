@@ -30,7 +30,7 @@ On ｛日付｝, I can't
 wait for that to come!)");
     break ;
     case 3:
-    MsgDisp("主人公","(Oh, it's from ｛本多＊＊｝. )");
+    MsgDisp("主人公","(Oh, it's from ｛本多＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

@@ -19,8 +19,8 @@ VoicePlay("B360750301_07_010");
 MsgDisp("Mikage","Just a moment ago there were four of us
 and soon I'll have to send you off...
 Ahー, it's so sad.");
-MsgDisp("主人公","Umm...if you don't mind, would you like
-to come over for dinner?");
+MsgDisp("主人公","Umm...if you don't mind, would you like to
+come over for dinner?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

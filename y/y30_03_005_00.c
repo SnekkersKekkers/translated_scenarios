@@ -37,11 +37,10 @@ laughed pleasantly and said:");
 MsgDisp("主人公","\"Once you're done with helping, I'll
 also go visit Nagasaki!\"");
 MsgClear();
-MsgDisp("","Hmー...Hmm...between two weeks of
-not seeing you, and then being able
-to go to our memorable Nagasaki
-together, this option wins by just a
-bit.");
+MsgDisp("","Hmー...Hmm...between two weeks of not
+seeing you, and then being able to go
+to our memorable Nagasaki together,
+this option wins by just a bit.");
 MsgClear();
 MsgDisp("","Today, when I see your after two
 weeks, will this thermal reaction of

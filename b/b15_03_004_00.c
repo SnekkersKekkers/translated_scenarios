@@ -66,8 +66,8 @@ ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300400_03_080");
 MsgDisp("Honda","Hehe, thanks!");
-MsgDisp("主人公","(He thanked me...but this means I can
-keep touching ｛本多＊＊｝ in the
+MsgDisp("主人公","(He thanked me...but this means I can keep
+touching ｛本多＊＊｝ in the
 future.)");
 MsgClose();
 ScrFadeOut(0,0);

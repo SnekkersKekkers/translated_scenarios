@@ -121,8 +121,8 @@ MsgDisp("Sassa","Then, shall we say we're all deep sea
 fish?");
 ChMouth(1,3);
 MsgDisp("主人公","(Haha!
-A group of tightknit deep-sea fish...
-that's nice.)");
+A group of tightknit deep-sea
+fish...that's nice.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

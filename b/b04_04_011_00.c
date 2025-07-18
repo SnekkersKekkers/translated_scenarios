@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040401100_04_020");
-    MsgDisp("Nanatsumori","Which one. If it's my family home...ahh,
-I see it, I see it. Look, can you see that
+    MsgDisp("Nanatsumori","Which one. If it's my family home...ahh, I
+see it, I see it. Look, can you see that
 blue high-rise?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -59,7 +59,7 @@ this chocolate.");
     ChEyeOpenLevel(5,#1);
     MsgDisp("主人公","(Ugh...
 I wish I had tried a little harder.
-I bothered ｛柊＊＊＊｝. )");
+I bothered ｛柊＊＊＊｝.)");
     break ;
     case 4:
     case 5:

@@ -83,8 +83,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("D130B00200_03_040");
-MsgDisp("Honda","Is he just a worrywart...or is he
-jealous?");
+MsgDisp("Honda","Is he just a worrywart...or is he jealous?");
 MsgDisp("主人公","???");
 ChEye(4,3);
 ChMouth(4,3);
@@ -100,9 +99,9 @@ MsgDisp("Honda","That's right!
 Let's go, ｛主人公｝.");
 MsgDisp("主人公","...Yeah!");
 MsgDisp("主人公","(I'm curious what ｛風真＊＊｝'s
-message said though...I see, there is
-only a little bit of time left where I can
-be with everyone together like this...)");
+message said though...I see, there is only
+a little bit of time left where I can be
+with everyone together like this...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

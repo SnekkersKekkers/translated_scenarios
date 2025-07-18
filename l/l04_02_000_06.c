@@ -29,8 +29,8 @@ I'm happy about your feelings.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Ha...maybe I should've given him a
-better chocolate...)");
+    MsgDisp("主人公","(Ha...maybe I should've given him a better
+chocolate...)");
     break ;
     case 3:
     ChEye(2,0);

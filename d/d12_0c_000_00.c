@@ -234,8 +234,7 @@ Let's get going before they find out.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(Haa, that was fun! Having a barbecue at
-school...｛御影＊＊｝,
-thank you so much!)");
+school...｛御影＊＊｝, thank you so much!)");
 BGMStop();
 MsgClose();
 ChPrmTblAdd(5,0);

@@ -54,7 +54,7 @@ MsgDisp("Himuro","...But I don't think it's a bad thing.
 I'm not going to kick them out now either.");
 MsgDisp("主人公","(I feel like ｛柊＊＊＊｝ and
 ｛御影＊＊｝ are good
-relationships for ｛氷室＊＊｝. )");
+relationships for ｛氷室＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

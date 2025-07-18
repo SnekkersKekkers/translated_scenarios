@@ -141,7 +141,7 @@ even on my shoulders would be fine with
 me, though?");
 MsgDisp("主人公","(...
 I need to watch my step when I'm with
-｛風真＊＊｝. )");
+｛風真＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

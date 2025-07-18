@@ -25,8 +25,8 @@ Let's get lotsa medals.");
     ChMotion(8,3,1);
     VoicePlay("B040816000_08_020");
     MsgDisp("Shirahane","Sounds good-? It's time fer me to show you
-my true worth...I won't go easy on ya,
-are ya ready?");
+my true worth...I won't go easy on ya, are
+ya ready?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -55,8 +55,7 @@ MsgDisp("主人公","｛颯砂＊＊｝...?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("R080200000_02_040");
-MsgDisp("Sassa","...I've never thought of training as
-hard.");
+MsgDisp("Sassa","...I've never thought of training as hard.");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("R080200000_02_050");

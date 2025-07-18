@@ -49,8 +49,7 @@ VoicePlay("F020200008_02_050");
 MsgDisp("Sassa","Like dogs and cats.
 Cute ones.");
 MsgDisp("主人公","Dogs and cats?
-I see...it's fine as long as they're
-cute.");
+I see...it's fine as long as they're cute.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

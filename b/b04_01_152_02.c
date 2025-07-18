@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
         ChMotion(1,3);
         VoicePlay("B040115202_01_020");
         MsgDisp("Kazama","Hey, don't look at me.
-...Geez, this is what happens when you
-get too carried away.");
+...Geez, this is what happens when you get
+too carried away.");
         ChEyeOpenLevel(1,0);
         MsgDateResultDisp();
         break ;

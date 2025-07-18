@@ -42,8 +42,7 @@ Is there a need to?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621102_06_030");
-        MsgDisp("Himuro","Pretend to be a family...what's with
-that?");
+        MsgDisp("Himuro","Pretend to be a family...what's with that?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

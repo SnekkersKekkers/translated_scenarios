@@ -109,7 +109,7 @@ an instant. You stand out way too much.
 From here on, you can't stand around
 alone.");
         MsgDisp("主人公","(That's not realistic,
-｛風真＊＊｝... )");
+｛風真＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

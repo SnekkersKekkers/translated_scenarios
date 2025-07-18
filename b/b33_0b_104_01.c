@@ -162,8 +162,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10401_03_050");
 MsgDisp("Honda","Let's listen to it one more time.");
-MsgDisp("主人公","(Umm...everyone's eyes are kind of
-scary.)");
+MsgDisp("主人公","(Umm...everyone's eyes are kind of scary.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

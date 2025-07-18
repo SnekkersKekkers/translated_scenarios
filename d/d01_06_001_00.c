@@ -93,8 +93,7 @@ side from my lunch?");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600100_06_080");
-MsgDisp("Himuro","...If you're giving it to me, I'll eat
-it.
+MsgDisp("Himuro","...If you're giving it to me, I'll eat it.
 Give it here.");
 MsgClose();
 ScrFadeOut(0);

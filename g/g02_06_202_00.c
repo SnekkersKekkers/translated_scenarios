@@ -32,8 +32,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620201_06_040");
 MsgDisp("Himuro","That's right.
-Well...it just shows how badly he wants
-to have you.");
+Well...it just shows how badly he wants to
+have you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

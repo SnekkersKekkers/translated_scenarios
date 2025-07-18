@@ -4,8 +4,8 @@ ChMotion(3,4,1);
 ChCheek(3,10);
 VoicePlay("T020320000_03_230");
 MsgDisp("Honda","...Just now...
-It was soft and, I could smell you...
-and——");
+It was soft and, I could smell
+you...and——");
 MsgDisp("主人公","You...don't need to elaborate anymore!");
 ChEye(3,2);
 ChMouth(3,3);

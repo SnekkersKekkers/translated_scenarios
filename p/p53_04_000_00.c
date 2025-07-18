@@ -56,8 +56,8 @@ I'm off now!");
     VoicePlay("P530400000_04_060");
     MsgDisp("Nanatsumori","Yeah.");
     MsgDisp("主人公","(Before I knew it, my stress was coming
-off...｛七ツ森＊｝, thank
-you! Alr-ight! let's give it our best!)");
+off...｛七ツ森＊｝, thank you! Alr-ight!
+let's give it our best!)");
     break ;
     case 4:
     case 5:

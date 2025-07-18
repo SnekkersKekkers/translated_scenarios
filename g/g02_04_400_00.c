@@ -81,8 +81,8 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("G020440000_04_120");
 MsgDisp("Nanatsumori","You taught me how to do all of that.
-I'm having the best time of my life...
-thank you for that.");
+I'm having the best time of my
+life...thank you for that.");
 MsgDisp("主人公","(｛七ツ森＊｝...)");
 BGMStop();
 MsgClose();

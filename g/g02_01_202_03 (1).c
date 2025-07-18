@@ -80,7 +80,8 @@ VoicePlay("G020120203_01_100");
 MsgDisp("Kazama","(sigh) I just keep saying stuff that I
 really shouldn't.");
 MsgDisp("主人公","(So that's how ｛風真＊＊｝
-feels about ｛七ツ森＊｝...)");
+feels about ｛七ツ森＊｝...
+)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

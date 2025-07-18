@@ -66,7 +66,7 @@ MsgDisp("Honda","Haaa...
 I wonder if there's another book wedged
 around here...?");
 MsgDisp("主人公","(Hehe.
-Thank you, ｛本多＊＊｝. )");
+Thank you, ｛本多＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

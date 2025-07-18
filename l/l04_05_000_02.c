@@ -13,8 +13,8 @@ giving it to me?");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("L040500002_05_010");
-    MsgDisp("Hiiragi","I see...I suppose it suits me. Well,
-thank you. Farewell.");
+    MsgDisp("Hiiragi","I see...I suppose it suits me. Well, thank
+you. Farewell.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

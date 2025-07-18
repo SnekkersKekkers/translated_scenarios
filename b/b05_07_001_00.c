@@ -122,8 +122,8 @@ MsgClose();
 ChOpen(7,255,2,0,0,#1,#1,0,0);
 SEWait();
 VoicePlay("B050700100_07_140");
-MsgDisp("Mikage","Phew...See you, it'll be the same as
-usual tomorrow. Well then.");
+MsgDisp("Mikage","Phew...See you, it'll be the same as usual
+tomorrow. Well then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

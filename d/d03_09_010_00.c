@@ -43,7 +43,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
 MsgDisp("主人公","(I can't believe I ran into him here...
 I wonder how his studies are going?)");
-MsgDisp("主人公","...! I need to focus on my work too!
+MsgDisp("主人公","...!I need to focus on my work too!
 Please check my work!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

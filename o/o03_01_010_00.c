@@ -43,7 +43,7 @@ Let's do our best!");
     MsgDisp("School Girl B","Yeah, let's look around some more.");
     MsgDisp("主人公","(Looks like everyone wants to be in the
 three-legged race with
-｛風真＊＊｝. )");
+｛風真＊＊｝.)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();

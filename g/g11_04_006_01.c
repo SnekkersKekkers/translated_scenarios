@@ -43,8 +43,8 @@ ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,0);
 VoicePlay("G110400601_04_060");
-MsgDisp("Nanatsumori","Geez...sometimes women treat men like
-they are children...");
+MsgDisp("Nanatsumori","Geez...sometimes women treat men like they
+are children...");
 MsgDisp("主人公","(I understand how your sister feels, maybe
 she wasn't trying to treat you like a
 child?)");

@@ -78,8 +78,8 @@ ChEye(4,5);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B330B30301_04_030");
-MsgDisp("Nanatsumori","Eh...so you're not wearing it like that
-on purpose...");
+MsgDisp("Nanatsumori","Eh...so you're not wearing it like that on
+purpose...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

@@ -11,9 +11,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020710201_07_010");
-MsgDisp("Mikage","Right. I wondered why anyone would want to
-go to such a scary place～? ...then I came
-here.");
+MsgDisp("Mikage","Right.
+I wondered why anyone would want to go to
+such a scary place～? ...then I came here.");
 MsgDisp("主人公","Why is it scary?");
 ChEye(7,2);
 ChMouth(7,0);

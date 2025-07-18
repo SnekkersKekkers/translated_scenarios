@@ -34,9 +34,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100620002_06_020");
-MsgDisp("Himuro","Haa...It just so happened that the
-instant noodles I eat were a collaboration
-product with that store..");
+MsgDisp("Himuro","Haa...It just so happened that the instant
+noodles I eat were a collaboration product
+with that store..");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4);

@@ -75,8 +75,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330A30600_06_030");
-MsgDisp("Himuro","Ehhh...that's a pretty nice summary
-coming from Ryota-senpai.");
+MsgDisp("Himuro","Ehhh...that's a pretty nice summary coming
+from Ryota-senpai.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

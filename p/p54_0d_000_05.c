@@ -21,10 +21,9 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P540D00005_21_010");
-MsgDisp("Michiru","Your performance...even though it was
-like that, I think it's amazing you
-continued with the wind music club for
-three years.");
+MsgDisp("Michiru","Your performance...even though it was like
+that, I think it's amazing you continued
+with the wind music club for three years.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);

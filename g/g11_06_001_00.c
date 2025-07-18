@@ -45,8 +45,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600100_06_040");
 MsgDisp("Himuro","I did doubt my physical ability for a bit.
-Maybe I wasn't that good at exercise...
-that's what I thought.");
+Maybe I wasn't that good at
+exercise...that's what I thought.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

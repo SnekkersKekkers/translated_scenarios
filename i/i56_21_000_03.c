@@ -23,7 +23,7 @@ please watch the store, Mari.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(21,0,30);
 MsgDisp("主人公","(I was careless...
-I troubled ｛みちる＊｝. )");
+I troubled ｛みちる＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

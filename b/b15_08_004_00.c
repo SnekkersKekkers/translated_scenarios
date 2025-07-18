@@ -35,8 +35,8 @@ ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("B150800400_08_060");
 MsgDisp("Shirahane","But, that's not my true intention.
-It's like an unstoppable force...or out
-of frustration.");
+It's like an unstoppable force...or out of
+frustration.");
 ChEye(8,4);
 VoicePlay("B150800400_08_070");
 MsgDisp("Shirahane","I don't want to do those rough things to

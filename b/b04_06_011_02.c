@@ -102,8 +102,8 @@ Well, it's not that uncomfortable.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040601102_06_100");
-    MsgDisp("Himuro","Well...its's not bad but, would you
-really word it like that?");
+    MsgDisp("Himuro","Well...its's not bad but, would you really
+word it like that?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

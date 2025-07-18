@@ -44,8 +44,8 @@ MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","...Puu!");
 VoicePlay("D010600300_06_030");
-MsgDisp("Himuro","...Geez, that's exactly what I was
-talking about.
+MsgDisp("Himuro","...Geez, that's exactly what I was talking
+about.
 Here, give me your hand.");
 MsgClose();
 BGMPlay("BGM_C06_INORI_B",0.01);

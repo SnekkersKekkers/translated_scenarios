@@ -21,8 +21,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("G110300501_03_000");
 MsgDisp("Honda","｛主人公｝, welcome!");
-MsgDisp("主人公","Huh...you're working at your part time
-job today, ｛本多＊＊｝?");
+MsgDisp("主人公","Huh...you're working at your part time job
+today, ｛本多＊＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

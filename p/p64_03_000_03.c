@@ -21,8 +21,8 @@ VoicePlay("P640300003_03_020");
 MsgDisp("Honda","But, the vegetables for sale should be put
 in the shade.
 It would be a shame if the leaves wilted.");
-MsgDisp("主人公","(Uugh...I wasn't attentive to the herb
-tea nor the sale...I regret it.)");
+MsgDisp("主人公","(Uugh...I wasn't attentive to the herb tea
+nor the sale...I regret it.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

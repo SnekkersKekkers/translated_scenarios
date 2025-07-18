@@ -105,8 +105,7 @@ Because I believe in
         VoiceEVSPlay(4);
         VoicePlay("B040430002_04_100");
         MsgDisp("Nanatsumori","｛主人公｝.
-Now...please listen to what I really
-mean.");
+Now...please listen to what I really mean.");
         MsgDisp("主人公","Yeah.");
         ChMotion(4,1,1);
         VoicePlay("B040430002_04_110");

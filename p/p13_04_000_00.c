@@ -43,8 +43,7 @@ to drink freshly squeezed milk～");
     ChNanaType(0);
     ChOpen(4,254,0,3,3,#1,#1,0,0,0,60);
     VoicePlay("P130400000_04_030");
-    MsgDisp("Nanatsumori","That sort of flair...is super
-interesting.");
+    MsgDisp("Nanatsumori","That sort of flair...is super interesting.");
     MsgDisp("主人公","Ah, ｛七ツ森＊｝!
 This is a maze for the cow, Molly.
 By all means, please enter～!");

@@ -10,8 +10,8 @@ ChClose(8,0,0);
 BGOpen("fp200",2);
 BGMPlay("BGM_HOTARU",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(The Home of Fireflies...They say when
-you come here, you can hear how the person
+MsgDisp("主人公","(The Home of Fireflies...They say when you
+come here, you can hear how the person
 you're with really feels...)");
 MsgClose();
 ScrFadeOut(0);

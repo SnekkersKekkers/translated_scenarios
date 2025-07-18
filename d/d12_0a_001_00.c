@@ -132,8 +132,8 @@ ChMotion(6,1);
 VoicePlay("D120A00100_06_050");
 MsgDisp("Himuro","Okay, that's it for today's class.
 Let's go get some juice.");
-MsgDisp("主人公","(Today's class...does that mean there
-will be second one...?
+MsgDisp("主人公","(Today's class...does that mean there will
+be second one...?
 I think I want to watch it again...)");
 BGMStop();
 MsgClose();

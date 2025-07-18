@@ -69,7 +69,7 @@ MsgDisp("主人公","Wait, what?!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","(How mysterious...It really did sound
-like ｛風真＊＊｝'s voice from a
-long time ago.)");
+MsgDisp("主人公","(How mysterious...It really did sound like
+｛風真＊＊｝'s voice from a long
+time ago.)");
 MsgClose();

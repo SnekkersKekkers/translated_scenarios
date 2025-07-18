@@ -27,8 +27,8 @@ Hey, that big one over there is cool.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040221302_02_020");
-    MsgDisp("Sassa","...So, in the future, we might end up
-with both a dog and a cat?
+    MsgDisp("Sassa","...So, in the future, we might end up with
+both a dog and a cat?
 That sounds good too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -64,8 +64,8 @@ already tough.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040221302_02_050");
-        MsgDisp("Sassa","...But, you know, the hard work also
-makes it fun.
+        MsgDisp("Sassa","...But, you know, the hard work also makes
+it fun.
 Like running together.");
         MsgDisp("主人公","I see.
 But is there a doggy that can keep up with

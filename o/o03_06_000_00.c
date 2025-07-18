@@ -27,7 +27,8 @@ I was kinda surprised.");
     MsgDisp("Himuro","I didn't expect it, but maybe we're a
 little compatible.");
     MsgDisp("主人公","(Yay!
-I got first place with ｛氷室＊＊｝!)");
+I got first place with ｛氷室＊＊｝!
+)");
     break ;
     case 4:
     case 5:

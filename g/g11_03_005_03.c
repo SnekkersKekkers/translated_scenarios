@@ -21,8 +21,8 @@ ChMouth(3,2);
 ChMotion(3,0);
 VoicePlay("G110300503_03_000");
 MsgDisp("Honda","No, I thought if I organized the books, it
-would sort out my mind too...but it
-didn't help.");
+would sort out my mind too...but it didn't
+help.");
 MsgDisp("主人公","Eh...");
 ChEye(3,0);
 ChMouth(3,1);

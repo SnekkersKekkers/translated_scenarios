@@ -83,7 +83,7 @@ or when we go out.");
 Ah, but not in a bad way.
 This, please.");
     MsgDisp("主人公","Yes, thank you very much.
-...\" Animal Nutrition\"?");
+...\"Animal Nutrition\"?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

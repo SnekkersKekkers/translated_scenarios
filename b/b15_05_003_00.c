@@ -4,8 +4,8 @@ MsgClose();
 ChOpen(5,255,2,2,2,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150500300_05_000");
-MsgDisp("Hiiragi","Phewー...you're a more nimble,
-mischievous cat than I thought.");
+MsgDisp("Hiiragi","Phewー...you're a more nimble, mischievous
+cat than I thought.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMotion(5,0);

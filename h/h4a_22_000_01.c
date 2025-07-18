@@ -60,8 +60,8 @@ else...");
     MsgDisp("Hikaru","...Haa, let's cheer up.
 Everyone did their best after all.
 Good work, Mari!");
-    MsgDisp("主人公","(｛ひかる＊｝...we didn't win, but I'm
-glad I stayed in the rhythmic gymnastics
+    MsgDisp("主人公","(｛ひかる＊｝...we didn't win, but I'm glad
+I stayed in the rhythmic gymnastics
 club...)");
     break ;
     default :

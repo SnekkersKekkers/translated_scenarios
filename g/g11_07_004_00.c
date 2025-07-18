@@ -81,7 +81,7 @@ Wait(30,0);
 SEPlay("EV_SE_080");
 MsgDisp("主人公","(Huh?
 I think I feel a bit better...it must be
-thanks to ｛御影＊＊｝. )");
+thanks to ｛御影＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -17,9 +17,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P850500005_05_010");
 MsgDisp("Hiiragi","I'm the one who should be saying that.
-Haa...but I feel like I want to do it
-over from the start of the preparation
-period.");
+Haa...but I feel like I want to do it over
+from the start of the preparation period.");
 MsgDisp("主人公","(Uuugh, it was a huge fail.
 I should have prepared more carefully.)");
 MsgClose();

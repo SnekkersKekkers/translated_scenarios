@@ -28,7 +28,7 @@ MsgDisp("Honda","That's right!
 How about serving the vegetables you grew
 in the school cafeteria?");
 MsgDisp("主人公","(Yay!
-I was praised by ｛本多＊＊｝. )");
+I was praised by ｛本多＊＊｝.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

@@ -120,8 +120,8 @@ made a little eye contact, and looked
 at Mikage-sensei.");
 MsgDisp("","Then, he raised his shoulders and
 brows and gave us a big smile.
-Perhaps...Mikage-sensei is
-interested in her?");
+Perhaps...Mikage-sensei is interested
+in her?");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);

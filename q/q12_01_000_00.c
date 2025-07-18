@@ -93,8 +93,7 @@ middle school.");
     ChEyeOpenLevel(1,0);
     VoicePlay("Q120100000_01_080");
     MsgDisp("Kazama","Well, if you say so.
-...Sigh, I wish I could tell my past
-self.");
+...Sigh, I wish I could tell my past self.");
     MsgDisp("主人公","Huh, tell him what?");
     ChEye(1,4);
     ChMouth(1,3);

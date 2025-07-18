@@ -62,8 +62,8 @@ VoicePlay("B360501101_05_070");
 MsgDisp("Hiiragi","I see, excuse me.
 But I still think it's better when it's
 just us two.");
-MsgDisp("主人公","(｛柊＊＊＊｝...Seems like he's having
-fun, but he's also acting strange. What
+MsgDisp("主人公","(｛柊＊＊＊｝...Seems like he's having fun,
+but he's also acting strange. What
 happened...)");
 BGMStop();
 MsgClose();

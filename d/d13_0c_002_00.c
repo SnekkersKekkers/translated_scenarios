@@ -2,8 +2,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-MsgDisp("主人公","(It's gotten late now. Haaa...I don't
-have a lot of days left at Habataki High
+MsgDisp("主人公","(It's gotten late now. Haaa...I don't have
+a lot of days left at Habataki High
 School...)");
 MsgClose();
 ScrFadeOut(0,0);

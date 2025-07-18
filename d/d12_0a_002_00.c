@@ -145,9 +145,9 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D120A00200_02_070");
 MsgDisp("Sassa","I'm glad to hear that.");
-MsgDisp("主人公","(Hehe! It's like they're interviewing the
-hero. ...Huh, where is
-｛風真＊＊｝...? )");
+MsgDisp("主人公","(Hehe!
+It's like they're interviewing the hero.
+...Huh, where is ｛風真＊＊｝...? )");
 MsgClose();
 ScrFadeOut(0);
 ChClose(2,0,0);

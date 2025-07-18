@@ -186,7 +186,7 @@ VoicePlay("Q070A00100_01_130");
 MsgDisp("Kazama","...Just one is fine.");
 MsgDisp("主人公","(Huis ten Bosch was so much fun...
 Now onto something else.
-I should answer ｛氷室＊＊｝. )");
+I should answer ｛氷室＊＊｝.)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

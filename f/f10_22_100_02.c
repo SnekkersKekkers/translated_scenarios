@@ -31,10 +31,9 @@ MsgDisp("Garden Club Member","We were truly in the wrong to doubt you!
 I had no idea that Mikage-sensei had given
 you the flowers...");
 VoicePlay("F102210002_46_010");
-MsgDisp("Art Club Member","Me too...I never imagined my artwork
-would end up near the recycling area...
-But in the end, you actually saved my
-painting.");
+MsgDisp("Art Club Member","Me too...I never imagined my artwork would
+end up near the recycling area...But in
+the end, you actually saved my painting.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -65,7 +64,8 @@ VoicePlay("F102210002_22_050");
 MsgDisp("Hikaru","Aha▼
 I'm glad it had a happy ending!");
 MsgDisp("主人公","(Yeah, looks like everyone was happy
-thanks to ｛ひかる＊｝!)");
+thanks to ｛ひかる＊｝!
+)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

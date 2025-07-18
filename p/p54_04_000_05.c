@@ -3,9 +3,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I messed up...even though it was the
-last performance of my high school
-life...)");
+MsgDisp("主人公","(I messed up...even though it was the last
+performance of my high school life...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChLayout(1);

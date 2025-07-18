@@ -31,8 +31,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100600_01_010");
 MsgDisp("Kazama","It was regarding Sassa.
-I thought I had so many things to ask...
-but I stopped.");
+I thought I had so many things to
+ask...but I stopped.");
 MsgDisp("主人公","｛颯砂＊＊｝...?");
 ChEye(1,0);
 ChMouth(1,2);

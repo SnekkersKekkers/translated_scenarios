@@ -35,7 +35,7 @@ MsgClose();
 ChOpen(1,254,0,0,2,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010100000_01_030");
-MsgDisp("Kazama","...\" Too much?\"
+MsgDisp("Kazama","...\"Too much?\"
 What's that supposed to mean?");
 BGMStop(1.5);
 MsgClose();

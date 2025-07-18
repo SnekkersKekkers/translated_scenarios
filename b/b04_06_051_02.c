@@ -6,8 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040605102_06_000");
-MsgDisp("Himuro","...The pair beside us weren't even
-looking at the stars at all.
+MsgDisp("Himuro","...The pair beside us weren't even looking
+at the stars at all.
 I wonder what they came here for.");
 MsgSel("To love each other?","What a waste of money!","I'm jealous!");
 switch (MsgSelRsltGet()){

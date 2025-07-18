@@ -39,8 +39,8 @@ ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040420000_04_030");
 MsgDisp("Nanatsumori","I don't know why we started fighting over
-the hairpin...I know this is childish
-but, I wondered if everyone liked you.");
+the hairpin...I know this is childish but,
+I wondered if everyone liked you.");
 MsgClose();
 ScrFadeOut(0,0,300);
 Wait(300,0);

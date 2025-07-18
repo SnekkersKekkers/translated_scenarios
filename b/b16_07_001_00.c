@@ -10,8 +10,7 @@ switch (MsgSelRsltGet()){
     NSSEye(7,2);
     NSSMouth(7,0);
     VoicePlay("B160700100_07_010");
-    MsgDisp("Mikage","You don't know...that's why I'm saying
-it.
+    MsgDisp("Mikage","You don't know...that's why I'm saying it.
 ...Geez, do as you like.");
     break ;
     case 1:

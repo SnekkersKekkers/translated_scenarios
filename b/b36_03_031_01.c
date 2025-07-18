@@ -20,8 +20,8 @@ VoicePlay("B360303101_03_010");
 MsgDisp("Honda","I thought I was pretty proactive, but it's
 the first time I've directed that towards
 a person.");
-MsgDisp("主人公","So...does that mean...you're interested
-in me?");
+MsgDisp("主人公","So...does that mean...you're interested in
+me?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

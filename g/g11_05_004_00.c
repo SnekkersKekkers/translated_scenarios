@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Yay, it's lunch time!
 What shall I do?
-...Ah, it's ｛柊＊＊＊｝. )");
+...Ah, it's ｛柊＊＊＊｝.)");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(5,254,0,0,4,#1,#1,0,0);

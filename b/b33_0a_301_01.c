@@ -31,8 +31,8 @@ MsgDisp("Himuro","...I see.
 To Nozomu-senpai, this place is similar to
 a haunted house.");
 ChMouth(1,2);
-MsgDisp("主人公","Eh...a haunted house...if you say it
-like that...");
+MsgDisp("主人公","Eh...a haunted house...if you say it like
+that...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);

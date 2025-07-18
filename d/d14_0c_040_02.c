@@ -40,8 +40,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C04002_06_020");
-MsgDisp("Himuro","Haa...there was something I wanted to
-talk to Kojiro sensei about too today.");
+MsgDisp("Himuro","Haa...there was something I wanted to talk
+to Kojiro sensei about too today.");
 ChEye(5,0);
 ChMotion(5,4);
 MsgDisp("主人公","I see.

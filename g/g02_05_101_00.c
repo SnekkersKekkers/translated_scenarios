@@ -16,8 +16,8 @@ MsgDisp("Hiiragi","There are strong rivals for both of us.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020510100_05_030");
-MsgDisp("Hiiragi","...But for now, I'm standing on stage
-next to you.
+MsgDisp("Hiiragi","...But for now, I'm standing on stage next
+to you.
 I'll stand tall.");
 ChEye(5,3);
 ChMotion(5,4);

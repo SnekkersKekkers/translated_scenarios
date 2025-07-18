@@ -36,9 +36,8 @@ MsgDisp("Kazama","It's good that you give it your all, but
 don't worry me so much.");
 MsgDisp("主人公","Yeah.
 Got it.");
-MsgDisp("主人公","(Uuugh...I worried
-｛風真＊＊｝ even at the end...
-A huge failure...)");
+MsgDisp("主人公","(Uuugh...I worried ｛風真＊＊｝
+even at the end...A huge failure...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);
