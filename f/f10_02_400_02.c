@@ -98,8 +98,7 @@ ChMotion(2,0);
 VoicePlay("F100240002_02_080");
 MsgDisp("Sassa","Well, if it's just us two guys, it's
 pretty straightforward, right?");
-MsgDisp("主人公","(...
-If it's just the two of them?
+MsgDisp("主人公","(...If it's just the two of them?
 What does that mean, I wonder...?)");
 BGMStop();
 MsgClose();

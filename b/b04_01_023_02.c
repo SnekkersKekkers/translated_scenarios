@@ -89,8 +89,7 @@ I can't read a thing.");
         ChClose(1);
         MsgClose();
         ScrFadeOut(0,0);
-        MsgDisp("主人公","(...
-Then is this just to hold hands?)");
+        MsgDisp("主人公","(...Then is this just to hold hands?)");
         MsgClose();
         MsgClose();
         ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);

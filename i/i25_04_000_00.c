@@ -101,8 +101,7 @@ much.");
     MsgDisp("Nanatsumori","...No prob.
 Want to head to this specialty sweets shop
 with me next time?");
-    MsgDisp("主人公","(...
-Is he inviting me on a date?)");
+    MsgDisp("主人公","(...Is he inviting me on a date?)");
     break ;
     default :
     DbgAssert(1);

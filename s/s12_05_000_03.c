@@ -76,8 +76,7 @@ Happy New Years.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(...
-Should I try being a bit more selfish this
+    MsgDisp("主人公","(...Should I try being a bit more selfish this
 year?)");
     break ;
     default :

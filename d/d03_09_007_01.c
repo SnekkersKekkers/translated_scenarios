@@ -7,8 +7,7 @@ ChLayout(2);
 ScrFadeIn(0);
 MsgDisp("主人公","(Wow...
 The sea is beautiful today too.)");
-MsgDisp("主人公","(...
-Ah.
+MsgDisp("主人公","(...Ah.
 Kuya-san is over there!)");
 MsgDisp("主人公","Kuya——");
 MsgClose();

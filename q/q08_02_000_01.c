@@ -29,7 +29,7 @@ It was so much fun!");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("Q080200001_02_020");
-    MsgDisp("Sassa","We haven't had enough time.");
+    MsgDisp("Sassa","That wasn't enough.");
     MsgDisp("主人公","Hehe, true.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -62,8 +62,7 @@ more time.");
     ChMotion(2,4);
     ChCheek(2,10);
     VoicePlay("Q080200001_02_060");
-    MsgDisp("Sassa","Well then, the day after tomorrow, let's
-go for an extra round.");
+    MsgDisp("Sassa","How about we do it again tomorrow?");
     MsgDisp("主人公","Yes, let's spend the next free period
 together too!");
     ChEye(2,0);
@@ -72,7 +71,8 @@ together too!");
     ChCheek(2,0);
     VoicePlay("Q080200001_02_070");
     MsgDisp("Sassa","Good.
-See you back here, I'll meet you then.");
+Meet you back here tomorrow.
+See you then.");
     break ;
     default :
     DbgAssert(1);

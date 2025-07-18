@@ -123,8 +123,7 @@ MsgDisp("主人公","Yeah.");
 VoicePlay("B050400300_04_160");
 MsgDisp("Nanatsumori","This is just the reverse of that.
 And I don't generally wear it outside.");
-MsgDisp("主人公","(...
-Generally?)");
+MsgDisp("主人公","(...Generally?)");
 StlEye(4,0);
 StlMouth(4,1);
 VoicePlay("B050400300_04_170");

@@ -4,8 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I think it's time to go home...)");
 VoicePlay("E010710100_47_000");
 MsgDisp("Clerk","Sensei, here's a bonus.");
-MsgDisp("主人公","(...
-Hm?
+MsgDisp("主人公","(...Hm?
 Sensei?)");
 VoicePlay("E010710100_07_000");
 MsgDisp("Mikage","Thank you as always.

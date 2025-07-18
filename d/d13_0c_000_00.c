@@ -68,8 +68,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(...
-It's Valentine's day, is that what
+MsgDisp("主人公","(...It's Valentine's day, is that what
 everyone is so worried about?)");
 MsgClose();
 ScrFadeOut(0,0);

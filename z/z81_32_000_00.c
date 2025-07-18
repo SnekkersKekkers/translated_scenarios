@@ -1,8 +1,7 @@
 ChLayout(1);
 BGOpen("sc520",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...
-Ah, the bell's about to ring!
+MsgDisp("主人公","(...Ah, the bell's about to ring!
 I have to get back to class.)");
 SEPlay("EV_SE_049");
 ScrQuake(1);

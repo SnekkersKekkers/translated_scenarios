@@ -13,14 +13,14 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("Q080400000_04_000");
     MsgDisp("Nanatsumori","Phew!
-We looked around a lot.");
+We did a lot of sightseeing.");
     MsgDisp("主人公","Yeah.
 Thanks for inviting me.");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("Q080400000_04_010");
-    MsgDisp("Nanatsumori","Also.
+    MsgDisp("Nanatsumori","So.
 For the next free period, is booking you
 OK?");
     MsgDisp("主人公","OK!");
@@ -32,7 +32,7 @@ OK?");
     ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("Q080400000_04_020");
-    MsgDisp("Nanatsumori","I am satisfied.");
+    MsgDisp("Nanatsumori","I'm satisfied.");
     MsgDisp("主人公","Me too.
 Thanks for inviting me,
 ｛七ツ森＊｝.");
@@ -41,8 +41,7 @@ Thanks for inviting me,
     ChMotion(4,1,1);
     VoicePlay("Q080400000_04_030");
     MsgDisp("Nanatsumori","You're welcome.
-Let's go together the day after tomorrow
-too.");
+Let's go together tomorrow too.");
     MsgDisp("主人公","Yeah, sure!");
     break ;
     default :

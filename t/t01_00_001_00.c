@@ -14,15 +14,13 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-MsgDisp("主人公","(...
-I wish he contacted me but I wonder if
+MsgDisp("主人公","(...I wish he contacted me but I wonder if
 something happened...?)");
 SEPlay("EV_SE_597",0.5,0.2);
 Wait(70,0);
 SEPlay("EV_SE_795",0.2,0.25);
 Wait(100,0);
-MsgDisp("主人公","(...
-Eh∋
+MsgDisp("主人公","(...Eh∋
 Now...)");
 Wait(100,0);
 SEStop("EV_SE_795",2.8);

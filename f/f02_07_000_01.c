@@ -57,6 +57,5 @@ VoicePlay("F020700001_07_050");
 MsgDisp("Mikage","The two youngsters in this story are
 great, but this was a story about the
 king's mercy, right?");
-MsgDisp("主人公","(...
-We walked home while happily talking about
+MsgDisp("主人公","(...We walked home while happily talking about
 this story.)");

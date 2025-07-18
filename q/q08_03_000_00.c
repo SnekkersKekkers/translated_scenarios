@@ -33,19 +33,19 @@ Of course.");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("Q080300000_03_020");
-    MsgDisp("Honda","I'm glad I invited you after all.
-I had a lot more insights than watching it
-alone.");
+    MsgDisp("Honda","I'm glad I invited you in the end.
+I felt like I gained a lot more from going
+with you than I would have alone.");
     MsgDisp("主人公","That's my line.
-｛本多＊＊｝'s commentary included
-felt very luxurious.");
+｛本多＊＊｝'s commentary felt very
+luxurious.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("Q080300000_03_030");
     MsgDisp("Honda","Yay!
-Well then, how about the day after
-tomorrow?");
+How about we spend tomorrow together too,
+then?");
     MsgDisp("主人公","Yeah, of course!");
     break ;
     default :

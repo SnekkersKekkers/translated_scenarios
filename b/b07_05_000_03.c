@@ -22,8 +22,7 @@ VoicePlay("B070500000_05_140");
 MsgDisp("Hiiragi","It's alright to think that. You're welcome
 anytime. We'll have an application form
 ready and waiting.");
-MsgDisp("主人公","(...
-Huh?)");
+MsgDisp("主人公","(...Huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

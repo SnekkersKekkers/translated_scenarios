@@ -95,8 +95,7 @@ Thanks.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(...
-Ah, could it be that I put something he
+    MsgDisp("主人公","(...Ah, could it be that I put something he
 didn't like in?)");
     MsgClose();
     ScrFadeOut(0,0);

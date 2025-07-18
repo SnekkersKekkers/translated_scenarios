@@ -106,8 +106,7 @@ with you first.");
         VoicePlay("B040322202_03_100");
         MsgDisp("Honda","Then after that, wearing armour would be
 interesting, yep yep.");
-        MsgDisp("主人公","(...
-Hm?
+        MsgDisp("主人公","(...Hm?
 Interesting?)");
         break ;
         default :

@@ -49,8 +49,7 @@ VoicePlay("G020430200_04_070");
 MsgDisp("Nanatsumori","Hm, okay.
 Okay then, I'm going to try out this
 weapon little by little, stay tuned.");
-MsgDisp("主人公","(...
-On me?)");
+MsgDisp("主人公","(...On me?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

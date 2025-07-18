@@ -108,8 +108,7 @@ troublesome reason against my will.");
         VoicePlay("B040603202_06_110");
         MsgDisp("Himuro","Next time, envision my reluctant
 expression too.");
-        MsgDisp("主人公","(...
-Yeah, I can imagine that.)");
+        MsgDisp("主人公","(...Yeah, I can imagine that.)");
         break ;
         default :
         DbgAssert(1);

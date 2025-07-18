@@ -96,8 +96,7 @@ VoicePlay("B050800300_08_100");
 MsgDisp("Shirahane","As I thought, it's different for a model.
 That's how it is.
 Haha!");
-MsgDisp("主人公","(...
-But I wonder how one would look cool
+MsgDisp("主人公","(...But I wonder how one would look cool
 wearing that hat and doll?)");
 BGMStop();
 MsgClose();

@@ -139,8 +139,7 @@ VoicePlay("D010100900_01_120");
 MsgDisp("Kazama","I can carry you in my arms, on my back,
 even on my shoulders would be fine with
 me, though?");
-MsgDisp("主人公","(...
-I need to watch my step when I'm with
+MsgDisp("主人公","(...I need to watch my step when I'm with
 ｛風真＊＊｝.)");
 BGMStop();
 MsgClose();

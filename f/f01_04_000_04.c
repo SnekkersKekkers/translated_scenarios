@@ -11,8 +11,7 @@ switch (ChPrmGet(4,6)){
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(...
-It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go home alone.)");
     break ;
     case 3:
@@ -27,8 +26,7 @@ Another time?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(...
-It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go home alone");
     break ;
     case 4:
@@ -52,8 +50,7 @@ Well, then...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(...
-It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go home alone.)");
     break ;
     default :

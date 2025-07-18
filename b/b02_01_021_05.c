@@ -15,6 +15,5 @@ MsgDisp("Kazama","Since you're so uniquely you, clothes like
 that are natural and fitting.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","(...
-Huh?
+MsgDisp("主人公","(...Huh?
 Did I just get a compliment?)");

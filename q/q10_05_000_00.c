@@ -79,8 +79,7 @@ MsgDisp("Hiiragi","Well then, see you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(...
-Hey, that smells good...
+MsgDisp("主人公","(...Hey, that smells good...
 Ah, it's a castella tasting!)");
 MsgClose();
 ScrFadeOut(0,0);

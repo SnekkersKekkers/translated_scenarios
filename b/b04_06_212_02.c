@@ -107,8 +107,7 @@ everything.");
         ChMotion(6,0);
         VoicePlay("B040621202_06_110");
         MsgDisp("Himuro","Is that not different to my image?");
-        MsgDisp("主人公","(...
-I-It's hard to answer.)");
+        MsgDisp("主人公","(...I-It's hard to answer.)");
         break ;
         default :
         DbgAssert(1);

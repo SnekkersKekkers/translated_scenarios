@@ -122,8 +122,7 @@ think such a thing?");
         MsgDisp("Honda","Always, huh? ー.
 Forever with you huh? ー.
 Yeah, this is the best!");
-        MsgDisp("主人公","(...
-Hm?
+        MsgDisp("主人公","(...Hm?
 Is he happy with some other meaning?)");
         break ;
         default :

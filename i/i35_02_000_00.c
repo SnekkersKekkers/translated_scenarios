@@ -60,8 +60,7 @@ I'll come again.");
     ChClose(2);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(...
-Uniform?
+    MsgDisp("主人公","(...Uniform?
 Not the coffee?)");
     break ;
     case 3:

@@ -133,8 +133,7 @@ Which hand should I use to pull?");
         VoicePlay("S090500000_05_120");
         MsgDisp("Hiiragi","Maybe after a little break then...
 Ah, never mind...");
-        MsgDisp("主人公","(...
-He looks disappointed.
+        MsgDisp("主人公","(...He looks disappointed.
 Did I do something wrong?)");
         MsgClose();
         ScrFadeOut(0,0);

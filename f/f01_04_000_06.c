@@ -12,8 +12,7 @@ I don't want to do it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(...
-It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go straight home.)");
     break ;
     case 3:
@@ -28,8 +27,7 @@ Sorry.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(...
-It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go straight home.)");
     break ;
     case 4:
@@ -58,8 +56,7 @@ So another day, okay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(...
-It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go straight home.)");
     break ;
     default :

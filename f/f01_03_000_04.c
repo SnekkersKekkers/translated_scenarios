@@ -12,8 +12,7 @@ I have plans today.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(3);
-    MsgDisp("主人公","(...
-It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go home alone.)");
     break ;
     case 3:
@@ -28,8 +27,7 @@ time.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(3);
-    MsgDisp("主人公","(...
-It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go home alone.)");
     break ;
     case 4:
@@ -51,8 +49,7 @@ Of course, I'll ask you too!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(3);
-    MsgDisp("主人公","(...
-It can't be helped.
+    MsgDisp("主人公","(...It can't be helped.
 I'll go home alone.)");
     break ;
     default :

@@ -64,8 +64,7 @@ ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600802_06_070");
 MsgDisp("Himuro","I'm not sure what makes it funny.");
-MsgDisp("主人公","(...
-Huh, ｛氷室＊＊｝, is your face
+MsgDisp("主人公","(...Huh, ｛氷室＊＊｝, is your face
 red...?)");
 while (1){
     RunEverydaySksp(6,0,1,0,0,0);

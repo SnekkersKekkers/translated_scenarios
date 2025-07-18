@@ -35,8 +35,7 @@ I'm happy to be standing next to you.");
     VoicePlay("S060500001_05_040");
     MsgDisp("Hiiragi","Yes.
 It means that you are well dressed.");
-    MsgDisp("主人公","(...
-Well, he seems happy, so I'm happy!)");
+    MsgDisp("主人公","(...Well, he seems happy, so I'm happy!)");
     break ;
     case 4:
     case 5:

@@ -57,6 +57,5 @@ VoicePlay("F020200002_02_060");
 MsgDisp("Sassa","Come on.
 It's not a manga, so no matter how fast
 you run, a dust cloud won't appear.");
-MsgDisp("主人公","(...
-We had fun going home, while discussing
+MsgDisp("主人公","(...We had fun going home, while discussing
 that story.)");

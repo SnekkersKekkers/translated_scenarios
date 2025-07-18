@@ -20,11 +20,11 @@ Thank you for inviting me.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("Q080500001_05_020");
-    MsgDisp("Hiiragi","So, as a return.
+    MsgDisp("Hiiragi","So, in return.
 Would you like to join me for the next
 free period?");
     MsgDisp("主人公","Yes, of course.
-Let's meet up here the day after tomorrow!");
+Let's meet up here tomorrow!");
     ChMotion(5,0);
     VoicePlay("Q080500001_05_030");
     MsgDisp("Hiiragi","Got it.

@@ -1,8 +1,7 @@
 BGOpen("wf400",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...
-Huh?
+MsgDisp("主人公","(...Huh?
 The event hall is packed...)");
 MsgDisp("主人公","(\"Charity Auction Ongoing!\" , huh...
 Wow, it's free to enter!)");

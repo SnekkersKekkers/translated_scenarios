@@ -10,9 +10,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q080C00100_05_000");
-MsgDisp("Hiiragi","Yeah, me too. It's such fun, school trips.
-It's a shame couldn't go in primary and
-junior high school.");
+MsgDisp("Hiiragi","Yeah, thank you too. School trips are so
+much fun. It's a shame couldn't attend any
+in primary and junior high school.");
 MsgDisp("主人公","Oh yeah...
 It's ｛柊＊＊＊｝'s first school
 trip.");
@@ -32,8 +32,8 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q080C00100_05_020");
-MsgDisp("Hiiragi","So also the free day after tomorrow, let's
-go around together too.");
+MsgDisp("Hiiragi","Let's explore the town together again
+tomorrow during our free day.");
 MsgDisp("主人公","Hehe, yes.
 I'm looking forward!");
 ChEye(5,4);
@@ -41,7 +41,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q080C00100_05_030");
 MsgDisp("Hiiragi","See you then again.
-I'll report back to Inori as soon as
+I'll message Inori back as soon as
 possible.");
 MsgDisp("主人公","(The next free day is going to be fun too!
 I can't wait.)");

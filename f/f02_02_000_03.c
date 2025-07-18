@@ -51,6 +51,5 @@ VoicePlay("F020200003_02_060");
 MsgDisp("Sassa","Haha, well, they're just rumors.
 I feel bad for Mikage-sensei, you know?
 But they're interesting.");
-MsgDisp("主人公","(...
-It went like that.
+MsgDisp("主人公","(...It went like that.
 We left school happily talking.)");

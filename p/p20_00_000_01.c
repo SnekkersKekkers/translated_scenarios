@@ -37,8 +37,7 @@ care.");
     DbgAssert(0);
     break ;
     }
-MsgDisp("主人公","(...
-I need to get better soon, to help with
+MsgDisp("主人公","(...I need to get better soon, to help with
 the preparations!)");
 MsgClose();
 ScrFadeOut(0);

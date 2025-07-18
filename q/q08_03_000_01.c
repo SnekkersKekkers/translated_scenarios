@@ -18,7 +18,7 @@ It was fun!");
     ChMotion(3,0,1);
     VoicePlay("Q080300001_03_010");
     MsgDisp("Honda","Really?
-Then, why not go round together the day
+Then, why not hang out together the day
 after tomorrow too?");
     MsgDisp("主人公","Yeah, great.");
     break ;
@@ -35,7 +35,7 @@ Thanks for inviting me!");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("Q080300001_03_030");
-    MsgDisp("Honda","So, for the next free period, wanna come
+    MsgDisp("Honda","So, for the next free period, wanna go
 together? With you, I'm sure we can
 experience more than we can expected!");
     MsgDisp("主人公","Hehe, yeah!");
@@ -45,8 +45,8 @@ experience more than we can expected!");
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("Q080300001_03_040");
-    MsgDisp("Honda","School trip is great!
-Free time is great too∈");
+    MsgDisp("Honda","School trips are great!
+Free periods are great too∈");
     MsgDisp("主人公","Hehe, it was so fun!");
     ChEye(3,0);
     ChMouth(3,3);

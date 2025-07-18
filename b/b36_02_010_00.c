@@ -65,8 +65,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B360201000_02_040");
 MsgDisp("Sassa","Um, w-we're not...there yet.");
-MsgDisp("主人公","(...
-Hm?\" yet?\")");
+MsgDisp("主人公","(...Hm?\" yet?\")");
 VoicePlay("B360201000_46_040");
 ChEye(2,0);
 MsgDisp("Clerk","So that's how it is.

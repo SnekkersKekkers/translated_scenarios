@@ -56,8 +56,7 @@ Do you want to see it?");
 SEPlay("EV_SE_588",0,0.5);
 SEPlay("EV_SE_511",0.1);
 Wait(10,0);
-MsgDisp("主人公","(...
-Hm?)");
+MsgDisp("主人公","(...Hm?)");
 StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0,1);

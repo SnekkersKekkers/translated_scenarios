@@ -83,8 +83,7 @@ See you.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(1);
-        MsgDisp("主人公","(...
-Sorry about that.)");
+        MsgDisp("主人公","(...Sorry about that.)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

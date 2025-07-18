@@ -108,8 +108,7 @@ sociability might do you some good.");
     ChMotion(6,1);
     VoicePlay("I460600001_06_110");
     MsgDisp("Himuro","It's fine if you don't get it.");
-    MsgDisp("主人公","(...
-I wonder what he meant?)");
+    MsgDisp("主人公","(...I wonder what he meant?)");
     break ;
     default :
     DbgAssert(1);

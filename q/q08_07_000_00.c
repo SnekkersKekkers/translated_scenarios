@@ -14,7 +14,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","Good work.
 Take a good rest.");
     MsgDisp("主人公","Yes.
-I'm happy I could look around with
+I'm happy I could go sightseeing with
 ｛御影＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -22,7 +22,7 @@ I'm happy I could look around with
     VoicePlay("Q080700000_07_010");
     MsgDisp("Mikage","That's great to hear.
 Shall we do another extracurricular
-lesson-Nagasaki version, the next time?");
+lesson-Nagasaki version next time?");
     MsgDisp("主人公","Yes, by all means!");
     break ;
     case 4:
@@ -34,15 +34,15 @@ lesson-Nagasaki version, the next time?");
     MsgDisp("Mikage","Thanks for today.
 You're exempt from submitting a special
 report.");
-    MsgDisp("主人公","Hehe, yay! extracurricular lesson,
-Nagasaki edition was so much fun!");
+    MsgDisp("主人公","Hehe, yay!
+Extracurricular lesson, Nagasaki edition
+was so much fun!");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("Q080700000_07_030");
     MsgDisp("Mikage","That's great.
-So, shall we do it again the day after
-tomorrow?");
+So, shall we do it again tomorrow?");
     MsgDisp("主人公","Yes, of course!");
     break ;
     default :

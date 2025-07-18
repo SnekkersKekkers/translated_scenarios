@@ -126,8 +126,7 @@ VoicePlay("B050300100_03_140");
 MsgDisp("Honda","We have to go.
 Let's eat them and live a long life
 together!");
-MsgDisp("主人公","(...
-Hm?
+MsgDisp("主人公","(...Hm?
 He just said something crazy...)");
 BGMStop();
 ChPrmTblAdd(3,0);

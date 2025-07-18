@@ -1,8 +1,7 @@
 ChLayout(1);
 BGOpen("fp100",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...
-Hm?
+MsgDisp("主人公","(...Hm?
 Infront of the store window is...)");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);

@@ -20,8 +20,7 @@ in. See you later!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.5);
 ChClose(3);
-MsgDisp("主人公","(...
-Should I go the the store as a customer?)");
+MsgDisp("主人公","(...Should I go the the store as a customer?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0);

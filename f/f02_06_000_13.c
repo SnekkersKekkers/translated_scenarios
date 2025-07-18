@@ -63,6 +63,5 @@ ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("F020600013_06_070");
 MsgDisp("Himuro","That's completely different!");
-MsgDisp("主人公","(...
-I'll see if I can get ｛氷室＊＊｝
+MsgDisp("主人公","(...I'll see if I can get ｛氷室＊＊｝
 a souvenir.)");

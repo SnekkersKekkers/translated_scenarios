@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("Q080400001_04_000");
     MsgDisp("Nanatsumori","Quite enjoyed it.");
     MsgDisp("主人公","Yes.
-We looked around a lot, not?");
+We did a lot, huh?");
     ChMotion(4,1,1);
     VoicePlay("Q080400001_04_010");
     MsgDisp("Nanatsumori","True.
@@ -33,8 +33,8 @@ I'm happy I could spent it with
 ｛七ツ森＊｝!");
     ChMotion(4,1,1);
     VoicePlay("Q080400001_04_030");
-    MsgDisp("Nanatsumori","Then, wanna spend the free time the day
-after tomorrow together?");
+    MsgDisp("Nanatsumori","Wanna spend tomorrow's free period
+together again?");
     MsgDisp("主人公","Yes!");
     break ;
     case 4:

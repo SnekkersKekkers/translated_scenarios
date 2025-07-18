@@ -1,8 +1,7 @@
 BGOpen("sc300",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...
-｛風真＊＊｝, missed the
+MsgDisp("主人公","(...｛風真＊＊｝, missed the
 graduation ceremony...)");
 SEPlay("EV_SE_DOOR_025");
 SEWait();

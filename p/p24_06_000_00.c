@@ -50,8 +50,7 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("P240600000_06_040");
 MsgDisp("Himuro","Since meeting you, I——");
-MsgDisp("主人公","(...
-Eh, 'I'?)");
+MsgDisp("主人公","(...Eh, 'I'?)");
 VoicePlay("P240600000_06_050");
 MsgDisp("Himuro","Whether it's at school, or at the beach,
 I'm always thinking of you.");

@@ -9,8 +9,7 @@ MsgDisp("主人公","(Haa...
 It's already graduation soon huh?)");
 MsgDisp("主人公","(For three years, I got to be in the same
 class as ｛風真＊＊｝)");
-MsgDisp("主人公","(...
-｛風真＊＊｝, I wonder what
+MsgDisp("主人公","(...｛風真＊＊｝, I wonder what
 you're doing right now in England?)");
 SEPlay("EV_SE_DOOR_019");
 SEWait();

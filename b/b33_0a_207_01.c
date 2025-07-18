@@ -106,8 +106,7 @@ ChCheek(2,5);
 VoicePlay("B330A20701_02_040");
 MsgDisp("Sassa","So, just hold the kitten longer.
 Don't mind us.");
-MsgDisp("主人公","(...
-I'm super curious.)");
+MsgDisp("主人公","(...I'm super curious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

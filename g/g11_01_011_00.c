@@ -58,8 +58,7 @@ ChMotion(1,1);
 VoicePlay("G110101100_01_040");
 MsgDisp("Kazama","Well, training for the future might be
 good, I guess.");
-MsgDisp("主人公","(...
-The future?)");
+MsgDisp("主人公","(...The future?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

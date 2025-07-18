@@ -7,8 +7,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(...
-Ah, he left.
+MsgDisp("主人公","(...Ah, he left.
 Okay, let's try chasing after him!)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

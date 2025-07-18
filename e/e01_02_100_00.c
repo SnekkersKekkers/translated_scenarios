@@ -1,8 +1,7 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...
-Alright.
+MsgDisp("主人公","(...Alright.
 It's getting dark, I should head home.)");
 MsgClose();
 BGMPlay("BGM_C02_SASSA_A",0.01);

@@ -183,7 +183,6 @@ ChMotion(4,3,1);
 VoicePlay("B050400000_04_130");
 MsgDisp("Nanatsumori","I'm begging you.
 Now let's continue shopping.");
-MsgDisp("主人公","(...
-Hm?
+MsgDisp("主人公","(...Hm?
 He said \"next time\"...)");
 ChPrmTblAdd(4,0);

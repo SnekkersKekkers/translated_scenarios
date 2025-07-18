@@ -22,17 +22,16 @@ Are your feet okay?");
     ChMouth(5,4);
     ChMotion(5,3);
     VoicePlay("Q080500000_05_010");
-    MsgDisp("Hiiragi","That's encouraging.
+    MsgDisp("Hiiragi","That's a relief.
 If that's the case, would you mind
 spending the next free period with me too?");
     MsgDisp("主人公","Yes.
-Let's look around a lot too next time.");
+Let's do more sightseeing together.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q080500000_05_020");
     MsgDisp("Hiiragi","Yes, of course.
-Then I'll meet you back here the day after
-tomorrow.");
+Then I'll meet you back here tomorrow.");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);
@@ -45,8 +44,8 @@ tomorrow.");
     ScrFadeIn(0);
     VoicePlay("Q080500000_05_030");
     MsgDisp("Hiiragi","Today was fun.
-I'm glad I got to go round My first school
-trip with you.");
+I'm glad to spend my first school trip
+with you.");
     MsgDisp("主人公","I had fun too!
 Thanks for inviting me.");
     ChEye(5,4);
@@ -58,13 +57,13 @@ Thanks for inviting me.");
     ChEyeOpenLevel(5,#1);
     VoicePlay("Q080500000_05_050");
     MsgDisp("Hiiragi","Oh...wait.
-Actually, not satisfied.");
+Actually, I'm not satisfied.");
     MsgDisp("主人公","Eh?");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("Q080500000_05_060");
-    MsgDisp("Hiiragi","I want to have more fun.
+    MsgDisp("Hiiragi","I want to have even more fun.
 So, for the next free period——");
     MsgDisp("主人公","Yeah, let's go together!");
     ChEye(5,4);

@@ -46,8 +46,7 @@ wishes for the New Year!");
     MsgDisp("Hiiragi","That kind of energy.
 If more people were like you, God would be
 able to grant more wishes.");
-    MsgDisp("主人公","(...
-｛柊＊＊＊｝, you surprisingly
+    MsgDisp("主人公","(...｛柊＊＊＊｝, you surprisingly
 like energetic people, huh?)");
     break ;
     case 4:

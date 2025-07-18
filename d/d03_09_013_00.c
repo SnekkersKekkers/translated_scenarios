@@ -1,8 +1,7 @@
 BGOpen("ho210",2);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...
-Huh?
+MsgDisp("主人公","(...Huh?
 I missed a call on my cellphone.)");
 MsgDisp("主人公","(A private number.
 Maybe it's from Kuya-san?)");

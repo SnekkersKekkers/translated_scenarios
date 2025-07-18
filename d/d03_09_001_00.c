@@ -5,8 +5,7 @@ VoicePlay("D030900100_09_000");
 MsgDisp("Kuya?","So...
 Did you get separated from your mother
 around here?");
-MsgDisp("主人公","(...
-Huh?)");
+MsgDisp("主人公","(...Huh?)");
 VoicePlay("D030900100_44_000");
 MsgDisp("Boy","I don't know.
 Uーwah!");
@@ -79,8 +78,7 @@ ChEyeOpenLevel(9,0);
 VoicePlay("D030900100_09_060");
 MsgDisp("Kuya?","It's nothing, please don't worry about it.
 This is my job.");
-MsgDisp("主人公","(...
-Job?)");
+MsgDisp("主人公","(...Job?)");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
