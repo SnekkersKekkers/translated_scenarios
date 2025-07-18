@@ -96,7 +96,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110304_01_130");
-MsgDisp("Kazama","That's enough for me to be 'grateful.'");
+MsgDisp("Kazama","That's enough for me to be grateful.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

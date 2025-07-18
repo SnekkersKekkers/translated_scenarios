@@ -21,7 +21,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("B050300300_03_020");
-MsgDisp("Honda","Excuse me, Mr. Zookeeper. What happened to
+MsgDisp("Honda","Excuse me, Zookeeper-san. What happened to
 the giant isopods? One isn't here, right?");
 VoicePlay("B050300300_34_000");
 MsgDisp("Staff","Y-You, you're right, actually.

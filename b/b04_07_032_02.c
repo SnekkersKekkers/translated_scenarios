@@ -10,7 +10,7 @@ Wait(70,0);
 VoicePlay("B040703202_07_000");
 MsgDisp("Mikage","Oi, oi, don't get too excited.");
 SEStop("EV_SE_567",1);
-MsgSel("Yes, I'll be careful!","｛御影＊＊｝'s voice is so loud'","You hear that, boys～!");
+MsgSel("Yes, I'll be careful!","｛御影＊＊｝'s voice is so loud","You hear that, boys～!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -44,7 +44,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("E010620200_06_030");
 MsgDisp("Himuro","Just now I saw Minoru-senpai frantically
-taking a picture of something infront of
+taking a picture of something in front of
 the store.");
 ChEye(6,0);
 ChMouth(6,0);

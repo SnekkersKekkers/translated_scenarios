@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to go home.
 ...Huh?)");
 MsgDisp("主人公","｛柊＊＊＊｝?
-What are you doing infront of the store?");
+What are you doing in front of the store?");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
 ChOpen(5,255,3,0,4,#1,#1,0,0);

@@ -8,7 +8,7 @@ ChMotion(6,0,1);
 VoicePlay("B040615201_06_000");
 MsgDisp("Himuro","Are you thirsty?
 Shall we get something to drink?");
-MsgSel("Let's go buy it together.","I want to concentrate ","Is it ｛氷室＊＊｝'s treat?'");
+MsgSel("Let's go buy it together.","I want to concentrate ","Is it ｛氷室＊＊｝'s treat?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

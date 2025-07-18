@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040515102_05_000");
 MsgDisp("Hiiragi","I'm quite familiar with bowling.");
-MsgSel("Eh, surprising!","｛柊＊＊＊｝'s form is beautiful huh'","Then, I want you to teach me!");
+MsgSel("Eh, surprising!","｛柊＊＊＊｝'s form is beautiful huh","Then, I want you to teach me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

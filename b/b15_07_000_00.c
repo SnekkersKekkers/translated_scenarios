@@ -5,7 +5,7 @@ ChOpen(7,255,1,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150700000_07_000");
 MsgDisp("Mikage","...You're not just Miss Diligent, are
-you?'");
+you?");
 MsgDisp("主人公","Umm...was it no good.");
 ChEye(7,2);
 ChMouth(7,0);

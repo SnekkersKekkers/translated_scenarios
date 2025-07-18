@@ -135,7 +135,7 @@ BGMStop();
 ChClose(6,0,30);
 ChClose(32,0,30);
 ChPosition(6,0);
-MsgDisp("主人公","(Hehe! Infront of Himuro-sensei,
+MsgDisp("主人公","(Hehe! In front of Himuro-sensei,
 ｛氷室＊＊｝ kinda looks like a
 lost cat.)");
 MsgClose();

@@ -15,7 +15,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200014_02_010");
-MsgDisp("Sassa","I'll wear my uniform whenever you want.'");
+MsgDisp("Sassa","I'll wear my uniform whenever you want.");
 MsgDisp("主人公","Haha, thanks.
 But don't wear your uniform after
 graduation, okay?");

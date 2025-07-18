@@ -11,14 +11,15 @@ switch (ChPrmGet(5,6)){
     ChEye(5,4);
     VoicePlay("Q120500000_05_000");
     MsgDisp("Hiiragi","It was fun going around with you.");
-    MsgDisp("主人公","Me too. thanks to you,
+    MsgDisp("主人公","I feel the same way. Thanks to you,
 ｛柊＊＊＊｝, I made wonderful
 memories. Thank you!");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_010");
-    MsgDisp("Hiiragi","This is my first school trip and I can't
-compare, but it is the best ever.");
+    MsgDisp("Hiiragi","This is my first school trip, and even
+though I have nothing to compare it too, it's still the
+best.");
     MsgDisp("主人公","Hehe!
 I'm happy.");
     ChEye(5,0);
@@ -33,14 +34,14 @@ I'm happy.");
     ChMotion(5,0,1);
     ScrFadeIn(0);
     VoicePlay("Q120500000_05_030");
-    MsgDisp("Hiiragi","I never knew, school trips are so much
+    MsgDisp("Hiiragi","I never knew school trips could be so much
 fun.");
     MsgDisp("主人公","Of course, it's your first time,
 ｛柊＊＊＊｝.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_040");
-    MsgDisp("Hiiragi","Yes. So I'm not able to compare, but It's
+    MsgDisp("Hiiragi","Yes. So I'm not able to compare, but it's
 absolutely the best school trip I've ever
 had.");
     MsgDisp("主人公","I'm glad.
@@ -49,9 +50,9 @@ period with you, ｛柊＊＊＊｝.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q120500000_05_050");
-    MsgDisp("Hiiragi","I'm happy I'm not the only one being
+    MsgDisp("Hiiragi","I'm happy I'm not the only one getting
 carried away.");
-    MsgDisp("主人公","Hehe, are you carried away?");
+    MsgDisp("主人公","Hehe, getting carried away?");
     ChEye(5,3);
     ChMotion(5,3);
     Wait(20,1);
@@ -60,7 +61,7 @@ carried away.");
 I'm now totally a fan of Nagasaki and
 school trips.");
     MsgDisp("主人公","(I think this is my first time seeing
-｛柊＊＊＊｝ being so happy...?
+｛柊＊＊＊｝ so happy...?
 I'm glad we could spend it together!)");
     break ;
     case 4:

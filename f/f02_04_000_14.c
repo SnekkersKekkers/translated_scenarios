@@ -35,7 +35,7 @@ In the three years since coming to
 Habataki City, I've grown as a person.");
 VoicePlay("F020400014_04_040");
 MsgDisp("Nanatsumori","He told me, 'If you only ever do what you
-want to do, you'll never succeed.'");
+want to do, you'll never succeed.");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0,1);

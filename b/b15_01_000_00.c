@@ -44,9 +44,9 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100000_01_040");
-MsgDisp("Kazama","Listen, okay? Responding normally means
-I'd have to return the physical affection,
-right? Are you okay with that?");
+MsgDisp("Kazama","Listen, okay? Responding normally would
+mean I'd return the physical affection.
+Are you okay with that?");
 MsgDisp("主人公","That...might be troubling.");
 ChEye(1,2);
 ChMouth(1,2);

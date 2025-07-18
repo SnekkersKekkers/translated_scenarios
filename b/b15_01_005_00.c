@@ -34,8 +34,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("B150100500_01_030");
-MsgDisp("Kazama","Listen up?
-Shinship is supposed to go both ways.
+MsgDisp("Kazama","Listen up.
+Skinship is supposed to go both ways.
 It's just you touching me.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(1,0);

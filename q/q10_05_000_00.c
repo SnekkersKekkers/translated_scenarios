@@ -10,7 +10,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("Q100500000_05_000");
-MsgDisp("Hiiragi","So the it reflects on the river surface.
+MsgDisp("Hiiragi","So it reflects on the river surface.
 I wonder if that was the intention from
 the beginning?");
 MsgDisp("主人公","Hmmm, I don't know...");
@@ -37,10 +37,10 @@ MsgDisp("主人公","Yeah, I'm looking forward.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("Q100500000_05_050");
-MsgDisp("Hiiragi","Now, mind to go down and take a
+MsgDisp("Hiiragi","Now, would you mind if we take a
 commemorative picture, so that we can
 always remember this day?");
-MsgDisp("主人公","I don't mi-nd.");
+MsgDisp("主人公","I don't mind.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

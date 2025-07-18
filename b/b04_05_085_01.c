@@ -8,7 +8,7 @@ ChMouth(5,4);
 VoicePlay("B040508501_05_000");
 MsgDisp("Hiiragi","Strangely, it might be warmer here than
 elsewhere.");
-MsgSel("It's because it's a powerspot","｛柊＊＊＊｝'s clothes look nice and warm'","I think I'm a bit cold");
+MsgSel("It's because it's a powerspot","｛柊＊＊＊｝'s clothes look nice and warm","I think I'm a bit cold");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

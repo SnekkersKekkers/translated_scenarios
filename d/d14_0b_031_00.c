@@ -31,7 +31,7 @@ MsgDisp("Kazama","That's why ramen is a dangerous topic with
 Honda...");
 MsgDisp("主人公","Hehe.
 Wasn't ｛本多＊＊｝'s lecture on
-ramen interesting? '");
+ramen interesting? ");
 ChMotion(4,0,1);
 VoicePlay("D140B03100_04_000");
 MsgDisp("Nanatsumori","I understand it was amazing.

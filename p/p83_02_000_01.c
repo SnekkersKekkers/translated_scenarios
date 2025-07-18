@@ -30,7 +30,7 @@ anything, tell me okay?");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("P830200001_02_010");
-    MsgDisp("Sassa","Haha, you're so generous.'");
+    MsgDisp("Sassa","Haha, you're so generous.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

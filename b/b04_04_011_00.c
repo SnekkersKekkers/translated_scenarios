@@ -7,7 +7,7 @@ ChMotion(4,3);
 ScrFadeIn(0);
 VoicePlay("B040401100_04_000");
 MsgDisp("Nanatsumori","Oh, it's stunning.");
-MsgSel("Waa! The horizon looks like it's sparkling!","I wonder if you can see ｛七ツ森＊｝'s house from here?'","It's so high my legs are giving out...");
+MsgSel("Waa! The horizon looks like it's sparkling!","I wonder if you can see ｛七ツ森＊｝'s house from here?","It's so high my legs are giving out...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

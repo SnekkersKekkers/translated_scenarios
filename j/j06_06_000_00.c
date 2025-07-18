@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     break ;
     case 4:
     case 5:
-    MsgSel("Yeah, I'm coming!","Uh, sorry about that ...");
+    MsgSel("Yeah, I'm coming!","Uhm, sorry...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(6,0);

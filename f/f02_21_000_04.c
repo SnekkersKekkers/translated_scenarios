@@ -8,7 +8,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Come to think of it, it's
 ｛みちる＊｝ and
 ｛ひかる＊｝'s birthday
-soon!'");
+soon!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,0);

@@ -25,7 +25,7 @@ VoicePlay("F100110002_01_020");
 MsgDisp("Kazama","No matter what, you'll start falling
 asleep.");
 MsgDisp("主人公","Is that so?
-I'm okay now, but...'");
+I'm okay now, but...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,2);

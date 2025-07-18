@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040515201_05_000");
 MsgDisp("Hiiragi","Yeah, you've got a relaxed form.");
-MsgSel("Relax, and play♪","It's thanks to ｛柊＊＊＊｝'s lesson'","Maybe I've already surpassed my teacher?");
+MsgSel("Relax, and play♪","It's thanks to ｛柊＊＊＊｝'s lesson","Maybe I've already surpassed my teacher?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

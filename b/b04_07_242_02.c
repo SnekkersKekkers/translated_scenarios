@@ -10,7 +10,7 @@ VoicePlay("B040724202_07_000");
 MsgDisp("Mikage","When you go camping together, you can see
 a side of the other person that is usually
 hidden");
-MsgSel("It's perfect for marriage interviews","｛御影＊＊｝'s hidden side?'","It's a little scary...");
+MsgSel("It's perfect for marriage interviews","｛御影＊＊｝'s hidden side?","It's a little scary...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -46,7 +46,7 @@ would be like to live together.");
 seeing the other person's vitality.");
         MsgDisp("主人公","｛御影＊＊｝'s vitality is
 so strong, you can see it even on the
-regular?'");
+regular?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);

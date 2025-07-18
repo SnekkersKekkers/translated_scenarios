@@ -19,7 +19,7 @@ VoiceEVSPlay(7);
 VoicePlay("F100120001_07_000");
 MsgDisp("Mikage","｛主人公｝, are you also enrolled?
 Today, we're asking ourselves...
-'How do we get out of cleaning? '");
+'How do we get out of cleaning? ");
 MsgDisp("主人公","Um...
 I'm fine, actually.");
 ChEye(1,0);

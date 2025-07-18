@@ -131,7 +131,7 @@ ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("T020100000_01_150");
 MsgDisp("Kazama","But when I saw you on that hill on the
-morn -ing of the entrance ceremony,
+morning of the entrance ceremony,
 instead of sorting things out, my feelings
 just exploded.");
 ChEyeOpenLevel(1,10);

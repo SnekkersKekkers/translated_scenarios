@@ -8,7 +8,7 @@ VoicePlay("B040715100_07_000");
 MsgDisp("Mikage","Let's have a contest.
 I'll show you the fruits of my shadowing
 practice.");
-MsgSel("I won't lose!","｛御影＊＊｝'s ball seems heavy.'","A competition is a bit...");
+MsgSel("I won't lose!","｛御影＊＊｝'s ball seems heavy.","A competition is a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

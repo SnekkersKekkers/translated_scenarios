@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040502201_05_000");
 MsgDisp("Hiiragi","It's windy today.");
-MsgSel("It feels nice huh","Shall we go in the cabin!","｛柊＊＊＊｝'s hair is blowing'");
+MsgSel("It feels nice huh","Shall we go in the cabin!","｛柊＊＊＊｝'s hair is blowing");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -10,7 +10,7 @@ VoicePlay("B040515100_05_000");
 MsgDisp("Hiiragi","If it's bowling, well, I know a thing or
 two. If we're competing, there's no way I
 can lose.");
-MsgSel("I won't lose!","｛柊＊＊＊｝'s ball seems heavy'","A contest is a bit...");
+MsgSel("I won't lose!","｛柊＊＊＊｝'s ball seems heavy","A contest is a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

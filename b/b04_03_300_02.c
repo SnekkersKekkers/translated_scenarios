@@ -10,7 +10,7 @@ ChMotion(3,0,1);
 VoicePlay("B040330002_03_000");
 MsgDisp("Honda","There's a separate room to raise insects
 and fish.");
-MsgSel("Are they ｛本多＊＊｝'s pets?'","Won't they run away?","Haa, that's good.");
+MsgSel("Are they ｛本多＊＊｝'s pets?","Won't they run away?","Haa, that's good.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

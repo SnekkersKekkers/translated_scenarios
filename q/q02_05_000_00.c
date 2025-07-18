@@ -23,7 +23,7 @@ Yes, and you ｛柊＊＊＊｝?");
     MsgDisp("主人公","Huh, what may it be?");
     ChMotion(5,0);
     VoicePlay("Q020500000_05_020");
-    MsgDisp("Hiiragi","Would you mind spending the free period
+    MsgDisp("Hiiragi","Would you mind spending the free
 period today with me?");
     MsgSel("Sure, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
