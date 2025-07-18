@@ -141,7 +141,7 @@ MsgDisp("Hiiragi","Yes.
 Greeting reinforcement is truly enjoyable.");
 MsgDisp("主人公","(Hmm, maybe I need to keep an eye on
 ｛柊＊＊＊｝ and
-｛ひかる＊｝...? )");
+｛ひかる＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

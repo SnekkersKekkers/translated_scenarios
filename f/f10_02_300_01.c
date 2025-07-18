@@ -3,7 +3,7 @@ ChLayout(2);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah, ｛みちる＊｝,
 ｛ひかる＊｝ and...
-｛颯砂＊＊｝? )");
+｛颯砂＊＊｝?)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,3,0,4,#1,#1,0,0,0,30);

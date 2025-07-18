@@ -12,4 +12,4 @@ VoicePlay("B020702001_07_010");
 MsgDisp("Mikage","Maybe I should buy one too?");
 MsgDisp("主人公","(Umm...
 I wonder if it would be fun to match with
-｛御影＊＊｝? )");
+｛御影＊＊｝?)");

@@ -40,7 +40,7 @@ VoicePlay("P540600002_06_040");
 MsgDisp("Himuro","I should be saying thanks, thank you.
 For a good time.");
 MsgDisp("主人公","(Yay!
-I was praised by ｛氷室＊＊｝! )");
+I was praised by ｛氷室＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

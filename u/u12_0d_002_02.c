@@ -16,5 +16,5 @@ If it happens that he is the only one, his
 future looks promising.");
 StlEyeOpenLevel(21,#1);
 MsgDisp("主人公","(The only one?
-Is someone interested in me? )");
+Is someone interested in me?)");
 MsgClose();

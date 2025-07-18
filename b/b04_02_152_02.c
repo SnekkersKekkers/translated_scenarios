@@ -96,7 +96,7 @@ It went in, ｛颯砂＊＊｝!");
         MsgDisp("Sassa","Yeah, yeah it was perfect.
 Alright, keep it up for the next one!");
         MsgDisp("主人公","(Hehe.
-｛颯砂＊＊｝ taught me well )");
+｛颯砂＊＊｝ taught me well)");
         break ;
         default :
         DbgAssert(1);

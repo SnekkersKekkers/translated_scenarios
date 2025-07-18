@@ -2,7 +2,7 @@ BGOpen("sc130",1);
 ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","(Ah, it's ｛氷室＊＊｝! )");
+MsgDisp("主人公","(Ah, it's ｛氷室＊＊｝!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

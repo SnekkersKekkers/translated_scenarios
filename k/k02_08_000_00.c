@@ -50,6 +50,6 @@ SEPlay("EV_SE_DOOR_023",0,0.3);
 BGMStop();
 ChClose(8,0,30);
 MsgDisp("主人公","(I got a present from
-｛大地＊＊｝! )");
+｛大地＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

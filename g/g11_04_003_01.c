@@ -95,7 +95,7 @@ ChMotion(4,0);
 MsgDisp("Nanatsumori","Oof...touche.");
 MsgDisp("主人公","(Hehe! It would be interesting to write an
 article about this conversation with
-｛七ツ森＊｝! )");
+｛七ツ森＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

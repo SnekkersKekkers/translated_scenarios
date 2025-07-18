@@ -4,6 +4,6 @@ It's like I'm losing my mind when we're
 together.\"");
 MsgDisp("主人公","(Good!
 Today, I feel a lot closer with
-｛氷室＊＊｝! )");
+｛氷室＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

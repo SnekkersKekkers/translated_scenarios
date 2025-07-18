@@ -85,7 +85,7 @@ is me. That much is a hard fact.");
         MsgDisp("Hiiragi","That being the case, it's better if you
 only come to the amusement park with me?");
         MsgDisp("主人公","(Eh.. going to the amusement park with
-only ｛柊＊＊＊｝? )");
+only ｛柊＊＊＊｝?)");
         break ;
         default :
         DbgAssert(1);

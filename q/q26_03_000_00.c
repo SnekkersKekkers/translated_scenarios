@@ -27,6 +27,6 @@ ChClose(3);
 SEWait();
 MsgDisp("主人公","(Eeeeh∋
 So that means that that feeling was
-｛本多＊＊｝...? )");
+｛本多＊＊｝...?)");
 MsgClose();
 ScrFadeOut(0,0);

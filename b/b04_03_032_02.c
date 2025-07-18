@@ -72,7 +72,7 @@ You're exaggerating.");
 fish would have never been able to fly
 through the sky.");
         MsgDisp("主人公","(I'd be very happy if I was able to
-inspire ｛本多＊＊｝ )");
+inspire ｛本多＊＊｝)");
         break ;
         default :
         DbgAssert(1);

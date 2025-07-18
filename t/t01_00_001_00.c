@@ -30,7 +30,7 @@ MsgDisp("主人公","(Church bells...)");
 VoicePlay("T010000100_01_000");
 MsgDisp("Ryota","Ah, hey the bell!
 I heard it again!");
-MsgDisp("主人公","(Ehh∈ ｛風真＊＊｝? )");
+MsgDisp("主人公","(Ehh∈ ｛風真＊＊｝?)");
 VoicePlay("T010000100_01_010");
 MsgDisp("Ryota","Over here!
 I think I heard it over here!

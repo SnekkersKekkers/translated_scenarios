@@ -92,7 +92,7 @@ The menu is also legit.");
 you've made until now, please.");
     MsgDisp("主人公","Y-Yeah?
 Then please wait a moment!");
-    MsgDisp("主人公","(What's up with ｛氷室＊＊｝? )");
+    MsgDisp("主人公","(What's up with ｛氷室＊＊｝?)");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(6,#1);

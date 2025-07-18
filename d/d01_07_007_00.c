@@ -104,7 +104,7 @@ How about an exclusive interview with the
 champion then?");
 MsgDisp("主人公","Y-Yes please!!");
 MsgDisp("主人公","(I didn't expect to interview
-｛御影＊＊｝...! )");
+｛御影＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

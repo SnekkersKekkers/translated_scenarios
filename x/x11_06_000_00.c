@@ -31,7 +31,7 @@ Yeah, we did it!");
     MsgDisp("Himuro","This is a result that couldn't have been
 achieved without you as manager.
 Thank you for your hard work.");
-    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝! )");
+    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

@@ -65,7 +65,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_080");
 MsgDisp("Kazama","Using 'childhood friend' is cheating...");
-MsgDisp("主人公","(What is up with ｛風真＊＊｝? )");
+MsgDisp("主人公","(What is up with ｛風真＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

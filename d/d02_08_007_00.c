@@ -7,7 +7,7 @@ SEPlay("EV_SE_579");
 MsgDisp("主人公","(Oh...
 A phone call?
 Who's it from?)");
-MsgDisp("主人公","(Eh, ｛大地＊＊｝∋ )");
+MsgDisp("主人公","(Eh, ｛大地＊＊｝∋)");
 MsgClose();
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);

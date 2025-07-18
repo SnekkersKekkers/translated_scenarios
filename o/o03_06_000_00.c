@@ -54,7 +54,7 @@ sync.");
 I'm glad I worked with you.");
     MsgDisp("主人公","(First place, huh.
 I'm glad I worked hard with
-｛氷室＊＊｝! )");
+｛氷室＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

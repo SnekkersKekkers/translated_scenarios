@@ -39,7 +39,7 @@ you, so I want to be able to make this
 into a special memory.");
 MsgDisp("主人公","Hehe, yeah!");
 MsgDisp("主人公","(I'm glad I got to spend both days of
-Christmas with ｛颯砂＊＊｝ )");
+Christmas with ｛颯砂＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

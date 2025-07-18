@@ -28,7 +28,7 @@ I can't wait for
     break ;
     case 3:
     MsgDisp("主人公","(Ah, a phone call from
-｛風真＊＊｝! )");
+｛風真＊＊｝!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -54,7 +54,7 @@ fast!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Ah, it's from ｛風真＊＊｝! )");
+    MsgDisp("主人公","(Ah, it's from ｛風真＊＊｝!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -78,7 +78,7 @@ there in one piece. Okay?");
     SEWait();
     MsgDisp("主人公","(Yay!!
 I can't wait for
-｛日付｝! )");
+｛日付｝!)");
     break ;
     default :
     DbgAssert(1);

@@ -68,7 +68,7 @@ VoicePlay("D140B06002_01_040");
 MsgDisp("Kazama","Shut up.");
 ChEyeOpenLevel(3,#1);
 MsgDisp("主人公","(｛風真＊＊｝ is worried about me and
-｛七ツ森＊｝...? )");
+｛七ツ森＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

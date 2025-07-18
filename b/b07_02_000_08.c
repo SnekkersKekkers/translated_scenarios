@@ -30,7 +30,7 @@ ChMotion(2,4);
 VoicePlay("B070200000_02_420");
 MsgDisp("Sassa","Is there anything else...
 ...Oh, curly hair.");
-MsgDisp("主人公","(Just like ｛颯砂＊＊｝...? )");
+MsgDisp("主人公","(Just like ｛颯砂＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

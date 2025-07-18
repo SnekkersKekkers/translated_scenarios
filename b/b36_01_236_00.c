@@ -59,7 +59,7 @@ VoicePlay("B360123600_01_070");
 MsgDisp("Kazama","Hey, you're not supposed to be looking at
 me, look at the night parade.");
 MsgDisp("主人公","(Thank you for bringing me here,
-｛風真＊＊｝ )");
+｛風真＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -93,6 +93,6 @@ MsgClose();
 ChClose(2);
 MsgDisp("主人公","(I would be happy if my article was even a
 little bit of help to
-｛颯砂＊＊｝! )");
+｛颯砂＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

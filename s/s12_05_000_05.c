@@ -94,7 +94,7 @@ greet.");
 Okay then, let's go.");
     MsgDisp("主人公","(Hehe!
 Please treat me well,
-｛柊＊＊＊｝! )");
+｛柊＊＊＊｝!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);

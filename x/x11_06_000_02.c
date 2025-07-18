@@ -33,7 +33,7 @@ Yeah, I'm happy!");
     VoicePlay("X110600002_06_020");
     MsgDisp("Himuro","You look happy.
 Congratulations.");
-    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝! )");
+    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

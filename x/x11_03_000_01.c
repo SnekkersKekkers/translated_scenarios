@@ -34,7 +34,7 @@ Yeah, I know!");
     MsgDisp("Honda","When you are happy with me like that, I
 feel like I can do my best.
 Thanks for your support and hard work!");
-    MsgDisp("主人公","(I was praised by ｛本多＊＊｝! )");
+    MsgDisp("主人公","(I was praised by ｛本多＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

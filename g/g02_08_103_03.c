@@ -42,7 +42,7 @@ MsgDisp("Shirahane","...Actually, it was my fault for being
 late...
 I'm sorry!");
 MsgDisp("主人公","(Hehe, I'm counting on you,
-｛大地＊＊｝! )");
+｛大地＊＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

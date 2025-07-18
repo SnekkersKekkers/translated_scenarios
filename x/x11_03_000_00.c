@@ -33,7 +33,7 @@ Yes, we did!");
     MsgDisp("Honda","Dang, that's a good one! I'm sure it was
 because of that smile, I'm betting the
 players were able to do their best, too.");
-    MsgDisp("主人公","(I was praised by ｛本多＊＊｝! )");
+    MsgDisp("主人公","(I was praised by ｛本多＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

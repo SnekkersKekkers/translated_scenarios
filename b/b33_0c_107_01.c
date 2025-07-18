@@ -122,7 +122,7 @@ ChClose(5,0,0);
 MsgDisp("主人公","(I feel sorry for ｛氷室＊＊｝ and
 ｛御影＊＊｝ but...I'm
 glad to be having fun with
-｛柊＊＊＊｝! )");
+｛柊＊＊＊｝!)");
 BGMStop();
 MsgClose();
 ChLayout(2);

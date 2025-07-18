@@ -61,7 +61,7 @@ Come on, pick a song.");
 ChEye(1,0);
 ChEyeOpenLevel(1,8);
 MsgDisp("主人公","(Both of them are good at handling
-｛氷室＊＊｝...? )");
+｛氷室＊＊｝...?)");
 MsgDisp("主人公","Then, what genre...");
 ChEye(1,0);
 ChMouth(1,3);

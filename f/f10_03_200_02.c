@@ -10,7 +10,7 @@ It's difficult because it's not just about
 doing it.");
 MsgDisp("主人公","(Ah, these voices...
 It's ｛本多＊＊｝ and
-｛颯砂＊＊｝! )");
+｛颯砂＊＊｝!)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(3,254,0,3,3,#1,#1,0,1,0,30);

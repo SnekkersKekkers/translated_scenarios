@@ -5,7 +5,7 @@ MsgDisp("主人公","(Haa...why did I end up saying such a
 thing...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Ah...
-It's from ｛大地＊＊｝! )");
+It's from ｛大地＊＊｝!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Yes, hello.");

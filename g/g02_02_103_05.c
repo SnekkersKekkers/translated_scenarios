@@ -48,7 +48,7 @@ MsgDisp("Sassa","Since then, whenever milk shows up at
 breakfast, I get this weird feeling...and
 my morning practice goes great...");
 MsgDisp("主人公","(...Hm? I can't tell if you're troubled or
-happy...｛颯砂＊＊｝ )");
+happy...｛颯砂＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

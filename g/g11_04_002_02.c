@@ -93,7 +93,7 @@ drinking coffee together?");
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(I got to look at new items on the
 internet with
-｛七ツ森＊｝! )");
+｛七ツ森＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

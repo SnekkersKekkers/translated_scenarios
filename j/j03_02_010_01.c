@@ -54,7 +54,7 @@ Too bad.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Ah, it's ｛颯砂＊＊｝! )");
+    MsgDisp("主人公","(Ah, it's ｛颯砂＊＊｝!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

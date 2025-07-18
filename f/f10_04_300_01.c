@@ -70,7 +70,7 @@ MsgDisp("Hikaru","Oh no...
 I thought she found out long ago and were
 having this kind of girl talk.");
 MsgDisp("主人公","(Girl talk with
-｛七ツ森＊｝? )");
+｛七ツ森＊｝?)");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);

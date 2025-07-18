@@ -58,7 +58,7 @@ VoicePlay("G020420201_04_080");
 MsgDisp("Nanatsumori","I won't lose to Dahon, no matter what.");
 ChEyeOpenLevel(4,#1);
 MsgDisp("主人公","(Is ｛七ツ森＊｝
-concerned about ｛本多＊＊｝? )");
+concerned about ｛本多＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

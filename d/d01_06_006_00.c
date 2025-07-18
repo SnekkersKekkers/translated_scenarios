@@ -35,7 +35,7 @@ VoicePlay("D010600600_34_020");
 MsgDisp("Live","And Inori Himuro is off!
 That's a nice wave!");
 MsgDisp("主人公","(Eh...
-｛氷室＊＊｝∋ )");
+｛氷室＊＊｝∋)");
 EnvAutoSet(0);
 BGMPlay("BGM_C06_INORI_C",0.01);
 SEStop("EV_SE_GAYA_021",1);

@@ -65,7 +65,7 @@ So I guess that makes him an authorized
 person～?");
 MsgDisp("主人公","(I heard that Goro-sensei is acquainted to
 the Haba High School chairman...maybe he
-came to see him? )");
+came to see him?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

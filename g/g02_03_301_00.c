@@ -56,7 +56,7 @@ I'll refrain from that unless it's with
 you!");
 MsgDisp("主人公","(Can he really hold back...
 It might be tough for
-｛本多＊＊｝? )");
+｛本多＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

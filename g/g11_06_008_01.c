@@ -69,7 +69,7 @@ VoicePlay("G110600801_06_070");
 MsgDisp("Himuro","Don't be shy about it.
 ...I'm drawn to it..");
 MsgDisp("主人公","(Hehe, I was praised by
-｛氷室＊＊｝...! )");
+｛氷室＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

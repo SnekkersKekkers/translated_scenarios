@@ -24,7 +24,7 @@ I think love is still quite far off.");
 I guess he thinks of Mari like his sister?");
     MsgDisp("主人公","(S-Sister...
 I guess it would be good if I was more
-aggressive with ｛本多＊＊｝? )");
+aggressive with ｛本多＊＊｝?)");
     break ;
     case 3:
     StlEye(22,0);

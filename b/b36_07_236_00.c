@@ -60,7 +60,7 @@ VoicePlay("B360723600_07_060");
 MsgDisp("Mikage","Look, a skull bear!");
 MsgDisp("主人公","(Hehe!
 Thank you for listening to my requests,
-｛御影＊＊｝ )");
+｛御影＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

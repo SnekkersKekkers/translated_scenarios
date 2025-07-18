@@ -33,7 +33,7 @@ Good luck.");
 MsgDisp("主人公","Yes, I'll be doing my best as well!");
 MsgDisp("主人公","(Alright!
 I'll give a performance worth showing off
-to ｛御影＊＊｝! )");
+to ｛御影＊＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

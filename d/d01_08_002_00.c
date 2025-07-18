@@ -55,7 +55,7 @@ MsgDisp("主人公","It's ｛大地＊＊｝ ∈");
 VoicePlay("D010800200_42_020");
 MsgDisp("Male Student","Go Daichi!");
 MsgDisp("主人公","(I feel like he might be able to catch up
-to ｛颯砂＊＊｝! )");
+to ｛颯砂＊＊｝!)");
 MsgDisp("主人公","(What should I do...
 I don't know who to root for...!)");
 SEPlay("EV_SE_793",0.3);
@@ -128,7 +128,7 @@ After all, the king is a genius!
 So I can relax now.");
 MsgDisp("主人公","(｛大地＊＊｝ was also amazing, though.
 ...By king, does he maybe mean
-｛颯砂＊＊｝? )");
+｛颯砂＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

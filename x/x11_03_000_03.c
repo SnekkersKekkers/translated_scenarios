@@ -20,7 +20,7 @@ Yes, I did my best!");
     MsgDisp("Honda","I'll have to ask you to show it to me
 sometime.");
     MsgDisp("主人公","(I did it!
-I got praised by ｛本多＊＊｝! )");
+I got praised by ｛本多＊＊｝!)");
     break ;
     case 4:
     case 5:

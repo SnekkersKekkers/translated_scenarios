@@ -18,7 +18,7 @@ Sorry, ｛氷室＊＊｝...)");
 Hanatsubaki twins and they smiled and
 winked at me. What's that about?\"");
     MsgDisp("主人公","(Geez, those two...!
-They're bothering ｛氷室＊＊｝! )");
+They're bothering ｛氷室＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

@@ -70,7 +70,7 @@ VoicePlay("B150300300_03_090");
 MsgDisp("Honda","It's a promise!");
 MsgDisp("主人公","(That's so ｛本多＊＊｝, always
 looking on the bright side.
-Thanks, ｛本多＊＊｝! )");
+Thanks, ｛本多＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

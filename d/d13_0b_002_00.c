@@ -8,7 +8,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Haa...
 It's already graduation soon huh?)");
 MsgDisp("主人公","(For three years, I got to be in the same
-class as ｛風真＊＊｝ )");
+class as ｛風真＊＊｝)");
 MsgDisp("主人公","(...
 ｛風真＊＊｝, I wonder what
 you're doing right now in England?)");

@@ -15,7 +15,7 @@ VoicePlay("F100510000_44_000");
 MsgDisp("School Girl B","What's up with Yanosuke-kun, I wonder...?
 Is he feeling unwell?");
 MsgDisp("主人公","(Eh...
-｛柊＊＊＊｝? )");
+｛柊＊＊＊｝?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

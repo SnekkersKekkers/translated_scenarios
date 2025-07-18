@@ -76,6 +76,6 @@ MsgDisp("Librarian","Yes, 20 books then.
 The loan period is two weeks.");
 MsgDisp("主人公","(Ehhh∋
 So the one who borrowed 20 books was
-｛颯砂＊＊｝! )");
+｛颯砂＊＊｝!)");
 MsgClose();
 ScrFadeOut(0);

@@ -108,7 +108,7 @@ Before they run out of rentals.");
         ChClose(2);
         SEWait();
         MsgDisp("主人公","(Huh?
-What's up with ｛颯砂＊＊｝? )");
+What's up with ｛颯砂＊＊｝?)");
         break ;
         default :
         DbgAssert(1);

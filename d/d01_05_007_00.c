@@ -6,7 +6,7 @@ MsgDisp("主人公","(Mmm, that bath felt good...)");
 VoicePlay("D010500700_40_000");
 MsgDisp("Male Student","You've got this, Hiiragi!
 You're so good!");
-MsgDisp("主人公","(Eh, ｛柊＊＊＊｝? )");
+MsgDisp("主人公","(Eh, ｛柊＊＊＊｝?)");
 SEStop("EV_SE_852",1);
 MsgClose();
 ScrFadeOut(0,0);

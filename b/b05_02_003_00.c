@@ -71,7 +71,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","(I wonder what Goro-sensei is doing with
-｛颯砂＊＊｝...? )");
+｛颯砂＊＊｝...?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();

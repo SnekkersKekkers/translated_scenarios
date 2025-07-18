@@ -66,7 +66,7 @@ I'm aiming for the best bath.");
     ChClose(2);
     MsgDisp("主人公","(Hehe!
 It was so much fun going around with you,
-｛颯砂＊＊｝! )");
+｛颯砂＊＊｝!)");
     break ;
     case 4:
     case 5:

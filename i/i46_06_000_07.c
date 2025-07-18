@@ -91,7 +91,7 @@ one being taught.");
 I'll surpass you again soon.");
     MsgDisp("主人公","Sure.");
     MsgDisp("主人公","(I'm so happy to be appreciated by
-｛氷室＊＊｝! )");
+｛氷室＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

@@ -61,4 +61,4 @@ MsgDisp("Mikage","It'll definitely be an unforgettable
 memory.");
 MsgDisp("主人公","(The one who's looking most forward to the
 sports festival in the whole school is
-｛御影＊＊｝...? )");
+｛御影＊＊｝...?)");

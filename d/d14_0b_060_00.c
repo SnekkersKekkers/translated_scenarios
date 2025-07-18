@@ -63,7 +63,7 @@ VoicePlay("D140B06000_04_030");
 MsgDisp("Nanatsumori","...It's definitely none of our business.
 Sorry.");
 MsgDisp("主人公","(Everyone is worried about me and
-｛風真＊＊｝...? )");
+｛風真＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

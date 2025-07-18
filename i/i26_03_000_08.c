@@ -108,7 +108,7 @@ manager's decision!
 Hey hey, where should we start?");
     MsgDisp("主人公","(They're expecting a lot...
 Alright, let's do our best with
-｛本多＊＊｝! )");
+｛本多＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

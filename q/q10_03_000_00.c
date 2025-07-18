@@ -80,7 +80,7 @@ MsgDisp("Honda","Then, you praised me for being romantic.
 I did it!");
 MsgDisp("主人公","(So you're always thinking about me while
 talking...
-Thank you, ｛本多＊＊｝ )");
+Thank you, ｛本多＊＊｝)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3);

@@ -119,7 +119,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("D140A05101_02_050");
 MsgDisp("Sassa","What do you guys even think I'm like...?");
 MsgDisp("主人公","(Both of them seem worried about my
-relationship with ｛颯砂＊＊｝? )");
+relationship with ｛颯砂＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

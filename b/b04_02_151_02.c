@@ -99,7 +99,7 @@ breakthrough.");
 you're the world's best coach.");
         MsgDisp("主人公","(Even if it was just a little bit, I'm
 happy to to think that I helped
-｛颯砂＊＊｝ )");
+｛颯砂＊＊｝)");
         break ;
         default :
         DbgAssert(1);

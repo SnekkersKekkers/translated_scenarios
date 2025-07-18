@@ -74,7 +74,7 @@ Let's work well together,
 best.");
     MsgDisp("主人公","(Yes, for the sake of Haba High's morals,
 let's work hard with
-｛柊＊＊＊｝! )");
+｛柊＊＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

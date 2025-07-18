@@ -115,6 +115,6 @@ SEPlay("EV_SE_856");
 ChClose(5,0,30);
 ChClose(7,0,30);
 MsgDisp("主人公","(Alright, I guess I'll start by buying a
-souvenir for ｛氷室＊＊｝? )");
+souvenir for ｛氷室＊＊｝?)");
 MsgClose();
 ScrFadeOut(0,0);

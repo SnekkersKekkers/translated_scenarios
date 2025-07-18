@@ -72,7 +72,7 @@ I'm gonna peek into the kitchen!");
     SEWait();
     MsgDisp("主人公","(Hehe!
 I'm happy I was able to look around with
-｛本多＊＊｝ )");
+｛本多＊＊｝)");
     break ;
     case 4:
     case 5:

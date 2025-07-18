@@ -23,6 +23,6 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(It's almost the cultural festival soon
 huh...I need to get better quickly to join
-in the preparations! )");
+in the preparations!)");
 MsgClose();
 ScrFadeOut(0);

@@ -24,7 +24,7 @@ The slight sweetness is seriously good.
 You did a good job, huh?");
 MsgDisp("主人公","(Yay!
 I was praised by
-｛七ツ森＊｝! )");
+｛七ツ森＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

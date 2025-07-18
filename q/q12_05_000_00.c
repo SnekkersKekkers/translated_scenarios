@@ -106,7 +106,7 @@ those old school trips with me either.");
 trip continues on.
 Let's enjoy ourselves until the end.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝! )");
+    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

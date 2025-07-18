@@ -14,7 +14,7 @@ Congrats.");
     MsgDisp("主人公","Yes, thank you very much1");
     MsgDisp("主人公","(Yay!
 I was praised by
-｛御影＊＊｝! )");
+｛御影＊＊｝!)");
     break ;
     case 4:
     case 5:

@@ -27,7 +27,7 @@ MsgDisp("Honda","Now it's time for my personal thanks.
 Let's go and drink the Gardening Club's
 tea. It'll be my treat.");
 MsgDisp("主人公","(Hehe, I was praised by
-｛本多＊＊｝! )");
+｛本多＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

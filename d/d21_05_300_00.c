@@ -13,7 +13,7 @@ ScrFadeOut(0);
 BGOpen("wf400",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah, that's...
-｛柊＊＊＊｝! )");
+｛柊＊＊＊｝!)");
 MsgDisp("主人公","(I wonder if he'll let me interview him?)");
 MsgClose();
 ScrFadeOut(0);

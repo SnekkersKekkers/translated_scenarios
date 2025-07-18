@@ -6,7 +6,7 @@ switch (ChPrmGet(7,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Next is...
-Ah, ｛御影＊＊｝!? )");
+Ah, ｛御影＊＊｝!?)");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_000");
@@ -17,7 +17,7 @@ Please treat me well.");
     break ;
     case 3:
     MsgDisp("主人公","(Next is...
-Huh, ｛御影＊＊｝? )");
+Huh, ｛御影＊＊｝?)");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_010");
@@ -33,7 +33,7 @@ Sorry.");
     case 4:
     case 5:
     MsgDisp("主人公","(Next is...
-Huh, ｛御影＊＊｝? )");
+Huh, ｛御影＊＊｝?)");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_030");

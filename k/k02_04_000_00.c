@@ -58,6 +58,6 @@ MsgClose();
 ChClose(4,0,30);
 Wait(30);
 MsgDisp("主人公","(I got a present from
-｛七ツ森＊｝! )");
+｛七ツ森＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

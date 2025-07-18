@@ -7,7 +7,7 @@ SEPlay("EV_SE_629");
 Wait(100,0);
 MsgDisp("主人公","(Mnn...Who could be calling so early in
 the morning...? Ah, it's
-｛氷室＊＊｝! )");
+｛氷室＊＊｝!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();

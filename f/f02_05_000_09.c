@@ -47,4 +47,4 @@ exchange for some food cart yakisoba...it
 can't be helped.");
 MsgDisp("主人公","(Maybe the one working the hardest to
 prepare for the culture festival is
-｛柊＊＊＊｝? )");
+｛柊＊＊＊｝?)");

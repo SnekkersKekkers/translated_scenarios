@@ -32,6 +32,6 @@ ChClose(5);
 SEWait();
 MsgDisp("主人公","(Eeh∋
 So the feeling right now was
-｛柊＊＊＊｝...? )");
+｛柊＊＊＊｝...?)");
 MsgClose();
 ScrFadeOut(0,0);

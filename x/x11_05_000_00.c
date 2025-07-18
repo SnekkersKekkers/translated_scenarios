@@ -28,7 +28,7 @@ good result in their practice match?");
 was thanks to you devoting all your energy
 towards the baseball club usually.");
     MsgDisp("主人公","(Yay!
-I was praised by ｛柊＊＊＊｝ )");
+I was praised by ｛柊＊＊＊｝)");
     break ;
     default :
     DbgAssert(1);

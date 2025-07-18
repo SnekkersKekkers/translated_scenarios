@@ -6,7 +6,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(The culture festival will end soon...)");
 MsgDisp("主人公","(Huh?
 Over there, is that
-｛みちる＊｝? )");
+｛みちる＊｝?)");
 MsgClose();
 ScrFadeOut(0);
 BGMPlay("BGM_C21_MICHIRU_A",0.01);

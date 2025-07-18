@@ -62,7 +62,7 @@ too.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040323102_03_050");
-        MsgDisp("Honda","Why? It's because I want to know more ]
+        MsgDisp("Honda","Why? It's because I want to know more]
 about the things you enjoy and are
 interested in.");
         ChEye(3,0);

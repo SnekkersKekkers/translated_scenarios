@@ -83,7 +83,7 @@ you about \"Mari's Garden\"▼");
 MsgDisp("主人公","(A flower bed of 3 differently colored
 roses is inside me...? If I want to know
 more I can call
-｛ひかる＊｝! )");
+｛ひかる＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

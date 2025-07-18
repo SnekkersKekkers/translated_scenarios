@@ -32,7 +32,7 @@ MsgDisp("Honda","Ah, that way. Looks like it's got
 caterpillar kun's seal of approval. It
 must be delicious. I'll buy it!");
 MsgDisp("主人公","(Yay!
-I got praised by ｛本多＊＊｝ )");
+I got praised by ｛本多＊＊｝)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

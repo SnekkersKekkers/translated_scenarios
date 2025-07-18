@@ -15,4 +15,4 @@ MsgDisp("Mikage","I see.
 As expected of Miss Fashionable.");
 MsgDisp("主人公","(I got a compliment!
 I'm glad I'm wearing
-｛流行アクセサリ名｝! )");
+｛流行アクセサリ名｝!)");

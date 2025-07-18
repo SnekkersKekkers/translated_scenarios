@@ -98,7 +98,7 @@ reborn in a sense.
 In a good way, of course.");
     MsgDisp("主人公","(I see.
 But what in the world did I do to help
-｛七ツ森＊｝? )");
+｛七ツ森＊｝?)");
     break ;
     default :
     DbgAssert(1);

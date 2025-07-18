@@ -29,7 +29,7 @@ MsgDisp("Honda","You're amazing after all. Not only are you
 perfect at materials management, but
 you're also kind and considerate.");
 MsgDisp("主人公","(Hehe, I was praised by
-｛本多＊＊｝! )");
+｛本多＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

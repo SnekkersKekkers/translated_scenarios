@@ -70,7 +70,7 @@ MsgDisp("Nanatsumori","Then, maybe it's just my sister who is
 that kind of person...");
 MsgDisp("主人公","(What is ｛七ツ森＊｝'s
 older sister doing with
-｛七ツ森＊｝...∋ )");
+｛七ツ森＊｝...∋)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

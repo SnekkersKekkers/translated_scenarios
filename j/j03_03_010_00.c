@@ -4,7 +4,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Ah, it's from ｛本多＊＊｝! )");
+    MsgDisp("主人公","(Ah, it's from ｛本多＊＊｝!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -56,7 +56,7 @@ I can't wait for
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Oh, it's from ｛本多＊＊｝! )");
+    MsgDisp("主人公","(Oh, it's from ｛本多＊＊｝!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

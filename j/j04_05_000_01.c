@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     case 5:
     SEPlay("EV_SE_577");
     MsgDisp("主人公","(Oh, it's a phone call from...
-｛柊＊＊＊｝ )");
+｛柊＊＊＊｝)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

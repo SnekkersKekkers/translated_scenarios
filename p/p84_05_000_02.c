@@ -38,7 +38,7 @@ VoicePlay("P840500002_05_020");
 MsgDisp("Hiiragi","I wish I could organize things as well as
 you do.");
 MsgDisp("主人公","(Yay!
-I was praised by ｛柊＊＊＊｝! )");
+I was praised by ｛柊＊＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

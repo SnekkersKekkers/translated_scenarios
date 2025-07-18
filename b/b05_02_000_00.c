@@ -142,6 +142,6 @@ VoicePlay("B050200000_02_150");
 MsgDisp("Sassa","Alright, onto the next.");
 MsgDisp("主人公","(Enjoy it normally...
 ｛颯砂＊＊｝, how did you enjoy it
-then? )");
+then?)");
 BGMStop();
 ChPrmTblAdd(2,0);

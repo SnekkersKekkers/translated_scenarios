@@ -58,7 +58,7 @@ I'm sure Reiichi has a hard time with
 that.");
 MsgDisp("主人公","(He may say those things but I think
 ｛氷室＊＊｝ trusts
-｛御影＊＊｝ )");
+｛御影＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

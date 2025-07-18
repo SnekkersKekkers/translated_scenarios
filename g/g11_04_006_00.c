@@ -71,7 +71,7 @@ MsgDisp("Nanatsumori","You're very lucky to see me because it's
 rare I look like that.");
 MsgDisp("主人公","(I guess it is pretty rare.
 I got to see the amazing model
-｛七ツ森＊｝? )");
+｛七ツ森＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

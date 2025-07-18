@@ -65,7 +65,7 @@ Don't be late, okay?");
     SEWait();
     MsgDisp("主人公","(Yay!!
 I can't wait for
-｛日付｝! )");
+｛日付｝!)");
     break ;
     default :
     DbgAssert(1);

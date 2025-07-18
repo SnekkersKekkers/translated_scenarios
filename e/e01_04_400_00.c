@@ -15,7 +15,7 @@ ChNanaType(0);
 ChOpen(4,255,0,0,3,#1,#1,0,1);
 ChOpen(21,255,3,0,4,#1,#1,0,2);
 MsgDisp("主人公","(｛七ツ森＊｝ and
-｛みちる＊｝! )");
+｛みちる＊｝!)");
 VoicePlay("E010440000_21_010");
 MsgDisp("Michiru","You don't need to be surprised about it.");
 ChEye(4,1);

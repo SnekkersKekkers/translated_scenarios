@@ -140,7 +140,7 @@ MsgClose();
 ChClose(1,0,30);
 MsgDisp("主人公","(Seems like ｛風真＊＊｝ really
 hates being chased by
-｛颯砂＊＊｝? )");
+｛颯砂＊＊｝?)");
 BGMStop();
 SEStop("EV_SE_562",1);
 MsgClose();

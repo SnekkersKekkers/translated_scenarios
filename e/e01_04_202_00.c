@@ -92,7 +92,7 @@ Is that what happens when you're at a
 leader level?");
 MsgDisp("主人公","(Hehe!
 I guess ｛七ツ森＊｝
-really respects ｛柊＊＊＊｝ )");
+really respects ｛柊＊＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

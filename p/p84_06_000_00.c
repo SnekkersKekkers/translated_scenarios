@@ -37,7 +37,7 @@ VoicePlay("P840600000_06_030");
 MsgDisp("Himuro","You're fully motivated huh.
 As expected.");
 MsgDisp("主人公","(Yay!
-I was praised by ｛氷室＊＊｝! )");
+I was praised by ｛氷室＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

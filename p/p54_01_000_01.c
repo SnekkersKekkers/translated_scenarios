@@ -30,7 +30,7 @@ You can start practicing today, right?");
 MsgDisp("主人公","...Yeah.");
 MsgDisp("主人公","(It's as ｛風真＊＊｝ says.
 Kazama is right.
-I'll practice until I'm satisfied! )");
+I'll practice until I'm satisfied!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

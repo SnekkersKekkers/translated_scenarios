@@ -41,7 +41,7 @@ VoicePlay("D140D07091_21_020");
 MsgDisp("Michiru","We may not be able to tell you everything,
 so please excuse us for that.");
 MsgDisp("主人公","(Are they maybe talking about
-｛大地＊＊｝...? )");
+｛大地＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

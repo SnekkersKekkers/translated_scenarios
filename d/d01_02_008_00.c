@@ -13,7 +13,7 @@ MsgDisp("Member","Last lap～!");
 VoicePlay("D010200800_38_000");
 MsgDisp("Members","Yeah!");
 MsgDisp("主人公","(Everyone's working hard...Huh? Over
-there, is that ｛颯砂＊＊｝...? )");
+there, is that ｛颯砂＊＊｝...?)");
 SEPlay("EV_SE_626");
 MsgClose();
 ScrFadeOut(0);

@@ -162,6 +162,6 @@ SEPlay("EV_SE_856");
 ChClose(2,0,30);
 ChClose(1,0,30);
 MsgDisp("主人公","(Okay, let's start by buying a souvenir
-for ｛氷室＊＊｝! )");
+for ｛氷室＊＊｝!)");
 MsgClose();
 ScrFadeOut(0);

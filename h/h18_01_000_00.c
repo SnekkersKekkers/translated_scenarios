@@ -100,7 +100,7 @@ Got it?");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(Alright.
 Let's get a win in front of
-｛風真＊＊｝! )");
+｛風真＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

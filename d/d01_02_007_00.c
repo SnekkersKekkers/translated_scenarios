@@ -59,7 +59,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 MsgDisp("主人公","(Finally, the 1500m race...
-｛颯砂＊＊｝! )");
+｛颯砂＊＊｝!)");
 MsgClose();
 BGOpen("sc625",0);
 ScrFadeIn(0);

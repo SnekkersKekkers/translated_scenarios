@@ -107,4 +107,4 @@ MsgDisp("Himuro","I'll tell you.
 I can be friendly too!
 Come on, let's go.");
 MsgDisp("主人公","((???)
-What happened to ｛氷室＊＊｝? )");
+What happened to ｛氷室＊＊｝?)");

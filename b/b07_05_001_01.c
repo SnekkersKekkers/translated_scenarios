@@ -41,7 +41,7 @@ MsgDisp("Hiiragi","He does that so easily.
 He's an interesting and scary guy.");
 MsgDisp("主人公","(On the other hand, I wonder what
 ｛氷室＊＊｝ thinks of
-｛柊＊＊＊｝? )");
+｛柊＊＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

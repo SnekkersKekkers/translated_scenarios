@@ -35,7 +35,7 @@ that push on the back.");
     VoicePlay("X120200000_02_020");
     MsgDisp("Sassa","Thank you.");
     MsgDisp("主人公","(Yay!
-I was praised by ｛颯砂＊＊｝ )");
+I was praised by ｛颯砂＊＊｝)");
     break ;
     default :
     DbgAssert(1);

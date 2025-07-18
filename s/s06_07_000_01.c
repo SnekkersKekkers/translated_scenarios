@@ -41,7 +41,7 @@ It's a good omen that good things will
 happen this year too.");
     MsgDisp("主人公","(Yay!
 I was praised by
-｛御影＊＊｝...! )");
+｛御影＊＊｝...!)");
     break ;
     case 4:
     case 5:

@@ -6,7 +6,7 @@ MsgDisp("Hiiragi","Yes, that would be great.");
 VoicePlay("F100520002_01_000");
 MsgDisp("Kazama","No, that's interesting though.");
 MsgDisp("主人公","(Ah, it's ｛柊＊＊＊｝ and
-｛風真＊＊｝ )");
+｛風真＊＊｝)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,0,4,#1,#1,0,1);

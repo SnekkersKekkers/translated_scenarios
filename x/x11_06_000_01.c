@@ -33,7 +33,7 @@ Yeah, that's right!");
     MsgDisp("Himuro","This result wouldn't have been achieved
 without your consistent support.
 Congratulations.");
-    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝! )");
+    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

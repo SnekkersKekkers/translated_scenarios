@@ -5,7 +5,7 @@ switch (ChPrmGet(3,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Oh, it's a phone call from
-｛本多＊＊｝ )");
+｛本多＊＊｝)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -31,7 +31,7 @@ See you later.");
     break ;
     case 3:
     MsgDisp("主人公","(Oh, it's a phone call from
-｛本多＊＊｝ )");
+｛本多＊＊｝)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -58,7 +58,7 @@ Well, I'll see you later?");
     case 4:
     case 5:
     MsgDisp("主人公","(Oh, it's a phone call from
-｛本多＊＊｝ )");
+｛本多＊＊｝)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

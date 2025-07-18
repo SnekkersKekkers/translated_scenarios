@@ -52,7 +52,7 @@ ChMouth(1,2);
 VoicePlay("B070100001_01_130");
 MsgDisp("Kazama","Then, what about you?");
 MsgDisp("主人公","(I wonder if I'm also draw in by
-｛風真＊＊｝? )");
+｛風真＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

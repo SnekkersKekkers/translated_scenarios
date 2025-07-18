@@ -44,7 +44,7 @@ Guess we're compatible?");
 first place in sports.");
     MsgDisp("主人公","(I did it!
 I got first place with
-｛七ツ森＊｝! )");
+｛七ツ森＊｝!)");
     break ;
     case 4:
     case 5:

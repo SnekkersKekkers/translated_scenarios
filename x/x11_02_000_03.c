@@ -55,7 +55,7 @@ track and field practice, right?");
     MsgDisp("Sassa","Well, you're right ...
 But I always support you in heart!");
     MsgDisp("主人公","(Yay! t's nice to be cheered on by
-｛颯砂＊＊｝ )");
+｛颯砂＊＊｝)");
     break ;
     default :
     DbgAssert(1);

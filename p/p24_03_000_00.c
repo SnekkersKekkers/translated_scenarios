@@ -31,7 +31,7 @@ MsgDisp("Honda","But our failure hasn't been decided, has
 it?");
 MsgDisp("主人公","(S-Somewhat...
 He's returned to being the usual
-｛本多＊＊｝∋ )");
+｛本多＊＊｝∋)");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0,1);

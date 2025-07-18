@@ -38,7 +38,7 @@ Anyways, we won!
 Yay!");
     MsgDisp("主人公","(We did it!
 I got first place with
-｛本多＊＊｝! )");
+｛本多＊＊｝!)");
     break ;
     case 4:
     case 5:
@@ -73,7 +73,7 @@ Your smile is making my heart flutter.");
     MsgDisp("主人公","Eeeeehhh!!!");
     MsgDisp("主人公","(He just said something amazing...
 I'm glad I got first with
-｛本多＊＊｝! )");
+｛本多＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

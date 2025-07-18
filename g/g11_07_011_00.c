@@ -16,7 +16,7 @@ BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","(...
-Ah it's ｛御影＊＊｝! )");
+Ah it's ｛御影＊＊｝!)");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -28,7 +28,7 @@ immensely beautiful.");
 looked so dignified in your judo uniform,
 with your back perfectly straight.");
     MsgDisp("主人公","(Yay!
-I was praised by ｛柊＊＊＊｝ )");
+I was praised by ｛柊＊＊＊｝)");
     break ;
     default :
     DbgAssert(1);

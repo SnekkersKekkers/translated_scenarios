@@ -28,7 +28,7 @@ relay.");
 It's all because of your support.
 The athletes are happy too.");
     MsgDisp("主人公","(Yay!
-I was praised by ｛柊＊＊＊｝ )");
+I was praised by ｛柊＊＊＊｝)");
     break ;
     default :
     DbgAssert(1);

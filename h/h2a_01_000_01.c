@@ -36,7 +36,7 @@ I know you put your all into this.");
     MsgDisp("Kazama","Come on, show me your usual cheerful face.");
     MsgDisp("主人公","(Yeah...It's frustrating, but I'm glad I
 did my best. Thank you,
-｛風真＊＊｝! )");
+｛風真＊＊｝!)");
     break ;
     case 4:
     case 5:

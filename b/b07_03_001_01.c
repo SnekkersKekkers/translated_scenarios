@@ -55,7 +55,7 @@ VoicePlay("B070300001_03_080");
 MsgDisp("Honda","I'd like to learn a bit more from
 Ryota-kun but I'm not sure if I can?");
 MsgDisp("主人公","(｛本多＊＊｝ seems to idolize
-｛風真＊＊｝...! )");
+｛風真＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

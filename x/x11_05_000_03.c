@@ -32,7 +32,7 @@ practice?");
 Your dance was overwhelming with emotion.
 I'll come to see it again.");
     MsgDisp("主人公","(Yay!
-I was praised by ｛柊＊＊＊｝ )");
+I was praised by ｛柊＊＊＊｝)");
     break ;
     default :
     DbgAssert(1);

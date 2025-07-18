@@ -96,7 +96,7 @@ meaning of \"past progressive tense.\",
 there's still a long way to go. Please
 continue to help me, teacher.");
 MsgDisp("主人公","(I'm also having fun studying with
-｛柊＊＊＊｝...! )");
+｛柊＊＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

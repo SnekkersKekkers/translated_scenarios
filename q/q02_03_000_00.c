@@ -45,7 +45,7 @@ Let's make the most out of today!");
 There are so many places I want to go.");
         MsgDisp("主人公","(Hehe.
 I can't wait for the free period together
-with ｛本多＊＊｝! )");
+with ｛本多＊＊｝!)");
         break ;
         case 1:
         ChEye(3,2);
