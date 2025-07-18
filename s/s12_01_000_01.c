@@ -32,8 +32,8 @@ Especially for you, it's that.");
     ChMotion(1,1);
     VoicePlay("S120100001_01_020");
     MsgDisp("Kazama","That's it. That power that draws you in is
-stronger than usual. Be careful today. See you
-later.");
+stronger than usual. Be careful today. See
+you later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);

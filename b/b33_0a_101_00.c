@@ -35,7 +35,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A10100_06_000");
-MsgDisp("Himuro","...You seem kind of dissatisfied, Ryota-senpai.");
+MsgDisp("Himuro","...You seem kind of dissatisfied,
+Ryota-senpai.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

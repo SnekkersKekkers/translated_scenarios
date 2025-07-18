@@ -55,8 +55,8 @@ right? That kind of thing?");
         ChMotion(2,4,1);
         VoicePlay("B040208102_02_040");
         MsgDisp("Sassa","Yeah. But the cherry blossoms will
-continue every year, I go to the Inter-High
-a limited amount of times.");
+continue every year, I go to the
+Inter-High a limited amount of times.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

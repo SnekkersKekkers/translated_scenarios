@@ -70,7 +70,7 @@ business\" is?");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040123602_01_050");
-        MsgDisp("Kazama","No, not \"eh?\". If you're going to join, I'm not going
+        MsgDisp("Kazama","No, not \"eh?\" If you're going to join, I'm not going
 to leave you alone.");
         ChEye(1,0);
         ChMouth(1,3);

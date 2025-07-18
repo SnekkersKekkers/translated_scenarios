@@ -11,5 +11,5 @@ ChMotion(1,0);
 VoicePlay("B020100001_01_010");
 MsgDisp("Kazama","Yeah.
 It's not too shabby.");
-MsgDisp("主人公","(｛風真＊＊｝ seems to like
-clothes like this...)");
+MsgDisp("主人公","(｛風真＊＊｝ seems to like clothes like
+this...)");

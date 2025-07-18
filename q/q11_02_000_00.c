@@ -45,7 +45,8 @@ VoicePlay("Q110200000_02_050");
 MsgDisp("Sassa","Ahh, yeah.
 We're a perfect match, I guess?");
 MsgDisp("主人公","...Hm?
-But it looks like you bought a lot of stuff...");
+But it looks like you bought a lot of
+stuff...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -57,8 +58,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q110200000_02_070");
-MsgDisp("Sassa","I mean, wouldn't it be great if we could be
-a perfect match?");
+MsgDisp("Sassa","I mean, wouldn't it be great if we could
+be a perfect match?");
 MsgDisp("主人公","(Pff, no matter what flavor of castella I
 see, I guess it'll make me think of
 ｛颯砂＊＊｝?)");

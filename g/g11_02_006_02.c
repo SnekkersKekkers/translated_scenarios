@@ -67,7 +67,8 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200602_02_060");
 MsgDisp("Sassa","If I just think about how you're waiting
-for me at the finish line, I'll find my way there.");
+for me at the finish line, I'll find my
+way there.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,0);

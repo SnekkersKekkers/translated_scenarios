@@ -31,14 +31,15 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A04000_02_020");
-MsgDisp("Sassa","That's quite possible.
-Inori, quick. Is there anything we can talk
-about now that Ryota is gone?");
+MsgDisp("Sassa","That's quite possible. Inori, quick. Is
+there anything we can talk about now that
+Ryota is gone?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("D140A04000_06_020");
-MsgDisp("Himuro","I can't think of anything if you put me on the spot...
+MsgDisp("Himuro","I can't think of anything if you put me on
+the spot...
 What about you, Nozomu-senpai?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -90,8 +91,9 @@ ChMotion(2,2);
 VoicePlay("D140A04000_02_060");
 MsgDisp("Sassa","Ryota, this way!");
 MsgDisp("主人公","(Hehe! The conversation about
-｛風真＊＊｝ was funny. But I worry what they'd say about me
-when I'm not here...)");
+｛風真＊＊｝ was funny. But I
+worry what they'd say about me when I'm
+not here...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

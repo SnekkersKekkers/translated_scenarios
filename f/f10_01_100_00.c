@@ -39,7 +39,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F100110000_01_020");
-MsgDisp("Kazama","In truth, I was getting tired too, so I thought you'd help me stay awake.");
+MsgDisp("Kazama","In truth, I was getting tired too, so I
+thought you'd help me stay awake.");
 MsgDisp("主人公","Why me?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -63,7 +64,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110000_01_050");
-MsgDisp("Kazama","If you start to fall asleep, try to think about me");
+MsgDisp("Kazama","If you start to fall asleep, try to think
+about me");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

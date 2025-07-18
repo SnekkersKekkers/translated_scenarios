@@ -27,7 +27,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B360217000_02_020");
 MsgDisp("Sassa","Might as well act like we were meant to go
-to karaoke by ourselves in the first place.");
+to karaoke by ourselves in the first
+place.");
 MsgDisp("主人公","Ehh? If ｛風真＊＊｝ and
 ｛氷室＊＊｝ hear that they'll get
 mad.");

@@ -42,15 +42,16 @@ Let's have fun today.");
     ChMotion(2,0);
     ChEyeOpenLevel(2,0);
     VoicePlay("Q090200000_02_040");
-    MsgDisp("Sassa","You're gonna go sightseeing like crazy today, aren't you?");
+    MsgDisp("Sassa","You're gonna go sightseeing like crazy
+today, aren't you?");
     MsgDisp("主人公","Hehe, like you with athletics?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("Q090200000_02_050");
     MsgDisp("Sassa","Yeah, it's the same.
-Give it your all, make sure not to have any
-regrets.");
+Give it your all, make sure not to have
+any regrets.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

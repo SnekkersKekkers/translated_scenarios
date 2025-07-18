@@ -40,8 +40,8 @@ the day.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("J060200000_02_020");
-        MsgDisp("Sassa","Really? Yes! Okay, let's
-decide where we're going to meet.");
+        MsgDisp("Sassa","Really? Yes! Okay, let's decide where
+we're going to meet.");
         MsgDisp("主人公","Yeah.
 Okay, then, how about we meet at the
 ｛待ち合わせ場所｝?");

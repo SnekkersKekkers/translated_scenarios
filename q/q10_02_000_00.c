@@ -13,8 +13,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q100200000_02_010");
-MsgDisp("Sassa","Was this actually made with that
-intention from the start?");
+MsgDisp("Sassa","Was this actually made with that intention
+from the start?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -46,8 +46,8 @@ ChMotion(2,2);
 VoicePlay("Q100200000_02_050");
 MsgDisp("Sassa","...What's the heart stone?");
 MsgDisp("主人公","There's a heart-shaped stone on the
-seawall. It's said that if you touch
-it, your love wish will come true.");
+seawall. It's said that if you touch it,
+your love wish will come true.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -62,8 +62,7 @@ MsgDisp("Sassa","Alright, we gotta find them all.
 Let's go!");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝ is quite a romantic,
-huh?)");
+MsgDisp("主人公","(｛颯砂＊＊｝ is quite a romantic, huh?)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -88,7 +87,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q100200000_02_100");
-MsgDisp("Sassa","How about we both buy one for each other then?");
+MsgDisp("Sassa","How about we both buy one for each other
+then?");
 MsgDisp("主人公","Yeah, great idea!");
 ChEye(2,0);
 ChMouth(2,4);
@@ -105,6 +105,7 @@ See you in a bit.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I'll be troubled if you count on me, though...)");
+MsgDisp("主人公","(I'll be troubled if you count on me,
+though...)");
 MsgClose();
 ScrFadeOut(0,0);

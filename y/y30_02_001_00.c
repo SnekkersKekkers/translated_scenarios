@@ -34,8 +34,7 @@ uncomfortable. I knew that
 intuitively.");
 MsgClear();
 VoicePlay("Y300200100_02_000");
-MsgDisp("Sassa","(...
-This way, I'm not an idiot, but just
+MsgDisp("Sassa","(...This way, I'm not an idiot, but just
 an unlikable person...)");
 MsgClear();
 MsgClose();
@@ -83,8 +82,8 @@ even more isolated.");
 MsgDisp("","But, if I give up now, my dream will
 definitely not come true.");
 MsgDisp("","So...after one year, until the
-Inter-High, please let me do things my
-way.");
+Inter-High, please let me do things
+my way.");
 MsgClear();
 MsgDisp("","After that, I'll do as my seniors
 say.");

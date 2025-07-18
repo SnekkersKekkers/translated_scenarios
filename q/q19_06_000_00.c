@@ -123,8 +123,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛氷室＊＊｝ even gave me a
-call...
+MsgDisp("主人公","(｛氷室＊＊｝ even gave me a call...
 I'm so happy.)");
 MsgClose();
 ScrFadeOut(0);

@@ -93,8 +93,7 @@ There's one thing left.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("Q120200000_02_090");
-    MsgDisp("Sassa","Nagasaki is famous for its hills,
-right?
+    MsgDisp("Sassa","Nagasaki is famous for its hills, right?
 I couldn't go running there.");
     MsgDisp("主人公","I see, Nagasaki does have many hills.");
     ChEye(2,0);
@@ -110,7 +109,8 @@ You want me to come too?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("Q120200000_02_110");
-    MsgDisp("Sassa","Bike renting is also an option. That's a good idea, right?");
+    MsgDisp("Sassa","Bike renting is also an option.
+That's a good idea, right?");
     MsgDisp("主人公","Hehe, yeah!");
     MsgDisp("主人公","(｛颯砂＊＊｝...
 I hope we can come back sometime.)");

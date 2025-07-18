@@ -125,9 +125,9 @@ ChMotion(5,0);
 VoicePlay("Q070500000_05_120");
 MsgDisp("Hiiragi","The chairperson is off-duty for a bit
 longer.");
-MsgDisp("主人公","(｛柊＊＊＊｝...I hope you at
-least have some fun during the school
-trip, free from responsibilities.)");
+MsgDisp("主人公","(｛柊＊＊＊｝...I hope you at least have
+some fun during the school trip, free from
+responsibilities.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

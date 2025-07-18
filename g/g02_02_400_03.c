@@ -74,9 +74,9 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("G020240003_02_090");
-MsgDisp("Sassa","Yeah. Without you, I wouldn't be
-so motivated. So, I'll be counting on you from now on,
-okay?");
+MsgDisp("Sassa","Yeah. Without you, I wouldn't be so
+motivated. So, I'll be counting on you
+from now on, okay?");
 MsgDisp("主人公","(It's just a little bit but, being helpful
 to ｛颯砂＊＊｝ makes me
 happy...)");

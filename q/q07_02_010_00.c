@@ -5,7 +5,8 @@ MsgClose();
 BGOpen("sc801",0);
 ScrFadeIn(0);
 VoicePlay("Q070201000_48_000");
-MsgDisp("Tour Guide","We'll make a toilet break here for 15 minutes. Oh...just in time, the sunset
+MsgDisp("Tour Guide","We'll make a toilet break here for 15
+minutes. Oh...just in time, the sunset
 over the bay is beautiful!");
 VoicePlay("Q070201000_38_000");
 MsgDisp("Students","Yessss.");
@@ -40,7 +41,8 @@ What a beautiful sunset.");
 StlEye(2,0);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_020");
-MsgDisp("Sassa","You can see the sunset perfectly from here.");
+MsgDisp("Sassa","You can see the sunset perfectly from
+here.");
 MsgDisp("主人公","It's really beautiful...");
 StlEye(2,2);
 StlMouth(2,1);
@@ -100,7 +102,8 @@ Thanks, ｛颯砂＊＊｝.");
 StlEye(2,2);
 StlMouth(2,0);
 VoicePlay("Q070201000_07_000");
-MsgDisp("Mikage","Oh! How great, you two!");
+MsgDisp("Mikage","Oh!
+How great, you two!");
 SEPlay("EV_SE_045");
 MsgDisp("","(Flash)");
 StlEye(2,2,0);

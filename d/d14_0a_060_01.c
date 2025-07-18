@@ -53,8 +53,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06001_01_040");
-MsgDisp("Kazama","Haa...that's why we asked you if
-anything had happened today.");
+MsgDisp("Kazama","Haa...that's why we asked you if anything
+had happened today.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
