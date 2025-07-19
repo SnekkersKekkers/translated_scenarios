@@ -3,8 +3,7 @@ ChOpen(5,255,4,0,4,#1,#1,0,0);
 VoicePlay("G020510100_05_000");
 MsgDisp("Hiiragi","It's so fantastical...
 It's like standing on stage.");
-MsgDisp("主人公","You're the lead actor
-｛柊＊＊＊｝.");
+MsgDisp("主人公","You're the lead actor ｛柊＊＊＊｝.");
 ChEye(5,4);
 VoicePlay("G020510100_05_010");
 MsgDisp("Hiiragi","For today, yes.");
@@ -41,8 +40,8 @@ VoicePlay("G020510100_05_070");
 MsgDisp("Hiiragi","I have no intention of handing over the
 lead role to anyone.
 That's my declaration.");
-MsgDisp("主人公","(Today I feel like ｛柊＊＊＊｝,
-is a bit different to usual...)");
+MsgDisp("主人公","(Today I feel like ｛柊＊＊＊｝, is a bit
+different to usual...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

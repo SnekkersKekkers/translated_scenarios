@@ -11,8 +11,7 @@ switch (ChPrmGet(7,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(7);
     VoicePlay("H1A0700001_07_000");
-    MsgDisp("Mikage","｛主人公｝, that was a good match,
-huh?");
+    MsgDisp("Mikage","｛主人公｝, that was a good match, huh?");
     MsgDisp("主人公","Ah, ｛御影＊＊｝...
 We lost...");
     ChEye(7,0);

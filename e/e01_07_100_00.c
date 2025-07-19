@@ -10,8 +10,7 @@ That voice...");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,37,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛御影＊＊｝, that
-outfit...
+MsgDisp("主人公","｛御影＊＊｝, that outfit...
 Are you out shopping?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -35,8 +34,7 @@ MsgDisp("Mikage","I don't need to take care of them every
 day.
 My kids are low maintenance.");
 MsgDisp("主人公","Hehe.
-｛御影＊＊｝ has a lot of
-children.");
+｛御影＊＊｝ has a lot of children.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -65,8 +63,8 @@ MsgDisp("Mikage","See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Hmm maybe ｛御影＊＊｝
-sees his students as vegetables?)");
+MsgDisp("主人公","(Hmm maybe ｛御影＊＊｝ sees his
+students as vegetables?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEyeOpenLevel(7,#1);

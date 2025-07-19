@@ -1,5 +1,4 @@
-MsgDisp("主人公","What kind of music does
-｛本多＊＊｝ like?");
+MsgDisp("主人公","What kind of music does ｛本多＊＊｝ like?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);

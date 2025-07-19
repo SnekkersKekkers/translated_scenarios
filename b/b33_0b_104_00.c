@@ -51,8 +51,7 @@ MsgDisp("Nanatsumori","......");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
-MsgDisp("主人公","｛七ツ森＊｝, what's
-wrong?");
+MsgDisp("主人公","｛七ツ森＊｝, what's wrong?");
 ChEyeOpenLevel(1,0);
 ChEye(4,2);
 ChMouth(4,4);

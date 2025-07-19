@@ -1,7 +1,7 @@
 BGOpen("sc310",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm sure ｛御影＊＊｝
-said he would give me the handout for the
+MsgDisp("主人公","(I'm sure ｛御影＊＊｝ said he would
+give me the handout for the
 extracurricular lesson...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

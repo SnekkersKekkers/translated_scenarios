@@ -4,8 +4,8 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's an email from Habatcher's
 Editorial Department.)");
-MsgDisp("主人公","(Let's see, it says...\"
-A fishing tournament is being held at the
+MsgDisp("主人公","(Let's see, it says...
+\"A fishing tournament is being held at the
 Habataki Campsite\"...)");
 MsgDisp("主人公","(A good opportunity for an interview!)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -81,8 +81,8 @@ SEPlay("EV_SE_606");
 ScrFadeIn(0);
 Wait(60,0);
 MsgDisp("主人公","(Woah, amazing...
-Looks like ｛風真＊＊｝ caught
-another fish!)");
+Looks like ｛風真＊＊｝ caught another
+fish!)");
 StlEyeOpenLevel(1,5);
 VoicePlay("D010100700_01_050");
 MsgDisp("Kazama","Yes, got it!");
@@ -103,8 +103,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝, congrats on
-winning!");
+MsgDisp("主人公","｛風真＊＊｝, congrats on winning!");
 BGMVol(0.5,2);
 ChEye(1,2);
 ChMotion(1,3);
@@ -148,9 +147,9 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_626");
 ChClose(1);
-MsgDisp("主人公","(Hehe ｛風真＊＊｝ is in a good
-mood today. Maybe someday he can teach me
-how to do fly fishing?)");
+MsgDisp("主人公","(Hehe ｛風真＊＊｝ is in a good mood
+today. Maybe someday he can teach me how
+to do fly fishing?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);

@@ -50,9 +50,9 @@ After that...");
     VoiceEVSPlay(5);
     VoicePlay("P830500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! I'm sorry to
-keep you waiting. I've prepared the tea
-and confectionaries for the guests.");
+    MsgDisp("主人公","Ah, ｛柊＊＊＊｝! I'm sorry to keep you
+waiting. I've prepared the tea and
+confectionaries for the guests.");
     ChEye(5,4);
     VoicePlay("P830500000_05_040");
     MsgDisp("Hiiragi","Yes.

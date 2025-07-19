@@ -8,9 +8,9 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoicePlay("Q040300000_03_000");
     MsgDisp("Honda","Good morning.");
-    MsgDisp("主人公","｛本多＊＊｝, have you already
-decided on who you want to go with for
-today's free time?");
+    MsgDisp("主人公","｛本多＊＊｝, have you already decided on
+who you want to go with for today's free
+time?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -31,9 +31,9 @@ together?");
     VoicePlay("Q040300000_03_020");
     MsgDisp("Honda","｛主人公｝, good morning!
 Did you need something?");
-    MsgDisp("主人公","Yeah, good morning! ｛本多＊＊｝,
-I was wondering if you have anything
-planned for the free period, is all.");
+    MsgDisp("主人公","Yeah, good morning! ｛本多＊＊｝, I was
+wondering if you have anything planned for
+the free period, is all.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

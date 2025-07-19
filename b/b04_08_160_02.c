@@ -77,8 +77,9 @@ Everyone watching was cheering him on!");
         ChEye(8,5);
         ChMouth(8,2);
         ChMotion(8,1,1);
-        MsgDisp("主人公","Hey. This is unlike you,
-｛大地＊＊｝. Let's cheer up!");
+        MsgDisp("主人公","Hey.
+This is unlike you, ｛大地＊＊｝.
+Let's cheer up!");
         ChEye(8,0);
         ChMouth(8,1);
         ChEyeOpenLevel(8,10);
@@ -94,9 +95,9 @@ I'll try once again!");
         MsgClose();
         SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
         ChClose(8,0,30);
-        MsgDisp("主人公","(Hehe! ｛大地＊＊｝ enjoys
-the challenge more than hating to lose,
-doesn't he?)");
+        MsgDisp("主人公","(Hehe!
+｛大地＊＊｝ enjoys the challenge more
+than hating to lose, doesn't he?)");
         SEWait();
         break ;
         default :

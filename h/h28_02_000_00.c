@@ -14,8 +14,8 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H280200000_02_000");
     MsgDisp("Sassa","｛主人公｝, it's finally time.");
-    MsgDisp("主人公","｛颯砂＊＊｝, we've finally made
-it this far.");
+    MsgDisp("主人公","｛颯砂＊＊｝, we've finally made it this
+far.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

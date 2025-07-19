@@ -1,5 +1,5 @@
-MsgDisp("主人公","What kind of person does
-｛ひかる＊｝ like?");
+MsgDisp("主人公","What kind of person does ｛ひかる＊｝
+like?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

@@ -28,7 +28,7 @@ I'm still preparing my heart.");
     ChCheek(8,3);
     VoicePlay("B040817000_08_020");
     MsgDisp("Shirahane","It's kinda embarrassing but...
-I'll make sure not ta drag you down. ");
+I'll make sure not ta drag you down.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

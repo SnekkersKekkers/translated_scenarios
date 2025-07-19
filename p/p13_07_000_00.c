@@ -17,11 +17,10 @@ milk～");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P130700000_07_010");
-    MsgDisp("Mikage","｛主人公｝, you're in high
-spirits.");
+    MsgDisp("Mikage","｛主人公｝, you're in high spirits.");
     MsgDisp("主人公","Hehe.
-｛御影＊＊｝ is also
-helping with drawing more people in?");
+｛御影＊＊｝ is also helping with
+drawing more people in?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -62,8 +61,7 @@ milk～");
     VoicePlay("P130700000_07_060");
     MsgDisp("Mikage","It's thanks to the cute calf-chan, huh?");
     MsgDisp("主人公","It's thanks to all the delicious milk
-｛御影＊＊｝ prepared for
-us!");
+｛御影＊＊｝ prepared for us!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

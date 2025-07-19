@@ -12,8 +12,7 @@ ScrFadeIn(0);
 VoicePlay("T040400000_04_000");
 MsgDisp("Nanatsumori","Ahー...");
 MsgDisp("主人公","What's wrong?
-｛七ツ森＊｝'s face is
-bright red.");
+｛七ツ森＊｝'s face is bright red.");
 VoicePlay("T040400000_04_010");
 MsgDisp("Nanatsumori","Um...just now.
 That was basically a proposal.");

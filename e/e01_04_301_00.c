@@ -13,8 +13,7 @@ ChNanaType(0);
 ChOpen(4,255,0,1,1,#1,#1,0,1);
 ChOpen(3,255,0,0,4,#1,#1,0,2);
 MsgDisp("主人公","Just as I thought.
-｛七ツ森＊｝,
-｛本多＊＊｝!");
+｛七ツ森＊｝, ｛本多＊＊｝!");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
@@ -39,9 +38,9 @@ VoicePlay("E010430100_03_020");
 MsgDisp("Honda","The botanical garden.
 There are night shows being held for a
 limited time.");
-MsgDisp("主人公","Wow, really? It's fine with me but...
-｛七ツ森＊｝ looks
-annoyed.");
+MsgDisp("主人公","Wow, really?
+It's fine with me but...
+｛七ツ森＊｝ looks annoyed.");
 ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,2,1);
@@ -66,8 +65,8 @@ ChMouth(4,2);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("E010430100_04_050");
-MsgDisp("Nanatsumori","Sorry, ｛主人公｝ I'm leaving the
-rest to you!");
+MsgDisp("Nanatsumori","Sorry, ｛主人公｝ I'm leaving the rest to
+you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);

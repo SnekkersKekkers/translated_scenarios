@@ -52,8 +52,8 @@ history?");
         VoicePlay("B040522102_05_040");
         MsgDisp("Hiiragi","That may be true...");
         MsgDisp("主人公","The number of visitors to this castle has
-increased. It's thanks to
-｛柊＊＊＊｝ and everyone.");
+increased.
+It's thanks to ｛柊＊＊＊｝ and everyone.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040522102_05_050");

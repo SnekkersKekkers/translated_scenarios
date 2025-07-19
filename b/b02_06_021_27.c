@@ -11,5 +11,5 @@ ChMotion(6,0);
 VoicePlay("B020602127_06_010");
 MsgDisp("Himuro","I wouldn't say it if you weren't.");
 MsgDisp("主人公","(Oh, good.
-｛氷室＊＊｝ seems to have come to
-like these clothes.)");
+｛氷室＊＊｝ seems to have come to like
+these clothes.)");

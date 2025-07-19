@@ -26,8 +26,8 @@ soon so get ready and wait for me, okay?
 See you!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(I need to get ready before
-｛本多＊＊｝ gets here!
+    MsgDisp("主人公","(I need to get ready before ｛本多＊＊｝
+gets here!
 So, what should I wear?)");
     break ;
     case 4:

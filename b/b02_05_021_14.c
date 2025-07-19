@@ -12,5 +12,5 @@ MsgDisp("Hiiragi","Yes, I think I could borrow such an idea
 for the stage.
 This has been educational.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems to like
-clothes like this!)");
+｛柊＊＊＊｝ seems to like clothes like
+this!)");

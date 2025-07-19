@@ -12,8 +12,7 @@ MsgDisp("Kazama","Right.
 It's not just a physical thing, there's
 also a lot of invisible force.");
 MsgDisp("主人公","Hehe.
-It's because ｛颯砂＊＊｝ is
-always lively.");
+It's because ｛颯砂＊＊｝ is always lively.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

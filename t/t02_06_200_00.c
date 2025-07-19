@@ -26,8 +26,7 @@ ChMotion(6,0);
 VoicePlay("T020620000_06_020");
 MsgDisp("Himuro","That's because I was pushed by those two.");
 MsgDisp("主人公","Could it be...
-｛風真＊＊｝ and
-｛颯砂＊＊｝?");
+｛風真＊＊｝ and ｛颯砂＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

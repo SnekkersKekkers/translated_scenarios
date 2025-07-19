@@ -83,9 +83,9 @@ VoicePlay("E010120200_01_050");
 MsgDisp("Kazama","Sassa, you don't get it do you?
 It doesn't matter how much \"sense\" I got,
 as long as you're around, I feel mediocre.");
-MsgDisp("主人公","Is that so? But you can do anything,
-｛風真＊＊｝, I don't think
-you're mediocre at all!");
+MsgDisp("主人公","Is that so?
+But you can do anything, ｛風真＊＊｝, I
+don't think you're mediocre at all!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -140,10 +140,9 @@ VoicePlay("E010120200_02_050");
 MsgDisp("Sassa","That's too bad.
 He's always like that, blaming me.
 You tell him, okay?");
-MsgDisp("主人公","To be recognized by you,
-｛颯砂＊＊｝,
-｛風真＊＊｝ must really have
-awesome sports abilities!");
+MsgDisp("主人公","To be recognized by you, ｛颯砂＊＊｝,
+｛風真＊＊｝ must really have awesome
+sports abilities!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -171,9 +170,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(2);
-MsgDisp("主人公","(The expression on ｛颯砂＊＊｝'s
-face just now, it surprised me a little...
-Maybe I understand ｛風真＊＊｝'s
-feelings a bit!')");
+MsgDisp("主人公","(The expression on ｛颯砂＊＊｝'s face just
+now, it surprised me a little...Maybe I
+understand ｛風真＊＊｝'s feelings a bit!')");
 MsgClose();
 ScrFadeOut(0,0);

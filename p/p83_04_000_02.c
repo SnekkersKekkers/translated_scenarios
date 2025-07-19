@@ -21,8 +21,7 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     MsgDisp("主人公","Eh?
-Ah, I didn't say that to
-｛七ツ森＊｝?");
+Ah, I didn't say that to ｛七ツ森＊｝?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);

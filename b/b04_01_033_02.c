@@ -100,8 +100,8 @@ them.");
 self.");
         MsgDisp("主人公","Yeah.
 Thank you, ｛風真＊＊｝.");
-        MsgDisp("主人公","(Is ｛風真＊＊｝ able to make
-his stomach growl any time...?)");
+        MsgDisp("主人公","(Is ｛風真＊＊｝ able to make his stomach
+growl any time...?)");
         break ;
         default :
         DbgAssert(1);

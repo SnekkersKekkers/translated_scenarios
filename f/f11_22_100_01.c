@@ -23,8 +23,8 @@ VoicePlay("F112210001_22_020");
 MsgDisp("Hikaru","Oh!
 Do you remember the fortune telling girl
 from last year?");
-MsgDisp("主人公","Ah...The one who
-｛ひかる＊｝ consulted
+MsgDisp("主人公","Ah...
+The one who ｛ひかる＊｝ consulted
 about love?");
 ChEye(22,3);
 ChMouth(22,3);
@@ -50,7 +50,6 @@ too～ See you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(22);
-MsgDisp("主人公","(As expected of
-｛ひかる＊｝...)");
+MsgDisp("主人公","(As expected of ｛ひかる＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

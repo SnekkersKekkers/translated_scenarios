@@ -72,8 +72,8 @@ Not the all-nighter you were talking
 about.");
         MsgDisp("主人公","Hehe, yeah!
 I want to go someday.");
-        MsgDisp("主人公","(If it's with ｛颯砂＊＊｝,
-anywhere would be fun?)");
+        MsgDisp("主人公","(If it's with ｛颯砂＊＊｝, anywhere would
+be fun?)");
         break ;
         default :
         DbgAssert(1);

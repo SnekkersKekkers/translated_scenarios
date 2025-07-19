@@ -90,8 +90,8 @@ StlClose();
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","So ｛本多＊＊｝'s current lifestyle
-was born from his mother's advice.");
+MsgDisp("主人公","So ｛本多＊＊｝'s current lifestyle was born
+from his mother's advice.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

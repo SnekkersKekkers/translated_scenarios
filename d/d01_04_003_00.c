@@ -76,8 +76,8 @@ MsgDisp("Staff B","Yeah!
 I think this will be good for Hazuki Kei's
 birthday project!");
 MsgDisp("主人公","(It's true...
-｛七ツ森＊｝ looks so
-lovely and handsome!)");
+｛七ツ森＊｝ looks so lovely and
+handsome!)");
 MsgDisp("主人公","(And that outfit, it's a remake of
 something worn by the legendary Hazuki
 Kei...Amazing!)");

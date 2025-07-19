@@ -86,8 +86,7 @@ What do you think of me liking you?");
         MsgDisp("Sassa","Yeah. I'm glad that you're pleased with
 it. I'll get better at spinning and come
 back again.");
-        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ said that he
-likes me!)");
+        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ said that he likes me!)");
         break ;
         default :
         DbgAssert(1);

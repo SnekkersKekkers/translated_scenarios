@@ -13,8 +13,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(3,255,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛御影＊＊｝,
-｛本多＊＊｝.
+MsgDisp("主人公","｛御影＊＊｝, ｛本多＊＊｝.
 What are you two talking about?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -28,8 +27,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoiceEVSPlay(3);
 VoicePlay("E010730100_03_010");
-MsgDisp("Honda","｛主人公｝, I'll let you take a
-peek too.");
+MsgDisp("Honda","｛主人公｝, I'll let you take a peek too.");
 MsgDisp("主人公","Huh...a peek?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -101,8 +99,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Me, a subject of ｛本多＊＊｝'s
-research?
+MsgDisp("主人公","(Me, a subject of ｛本多＊＊｝'s research?
 There's no way...)");
 MsgClose();
 ScrFadeOut(0,0);

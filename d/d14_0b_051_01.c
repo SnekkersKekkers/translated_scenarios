@@ -112,9 +112,8 @@ ChMotion(3,3,1);
 VoicePlay("D140B05101_03_060");
 MsgDisp("Honda","Haha!
 So are you both jelly?");
-MsgDisp("主人公","(｛風真＊＊｝ and
-｛七ツ森＊｝ are worried
-about us...?)");
+MsgDisp("主人公","(｛風真＊＊｝ and ｛七ツ森＊｝ are
+worried about us...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,8 +6,7 @@ SEWait();
 MsgDisp("主人公","Yes, hello.");
 VoicePlay("M022200000_22_000");
 MsgDisp("Hikaru","Hello, it's Hikaru.");
-MsgDisp("主人公","Ah, ｛ひかる＊｝, what's
-wrong??");
+MsgDisp("主人公","Ah, ｛ひかる＊｝, what's wrong??");
 VoicePlay("M022200000_22_010");
 MsgDisp("Hikaru","I wondered how Mari was holding up...
 Are you still suffering?");
@@ -41,6 +40,5 @@ MsgDisp("Hikaru","Then, get lots of sleep tonight.
 Take care, Mari.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(I made ｛ひかる＊｝
-worry.
+MsgDisp("主人公","(I made ｛ひかる＊｝ worry.
 I have to get better fast.)");

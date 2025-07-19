@@ -50,8 +50,7 @@ MsgDisp("Mikage","I wonder how many more school festivals I
 have to go through before I can think as
 smartly as you.");
 MsgDisp("主人公","I want to spend as many cultural festivals
-as I can with
-｛御影＊＊｝?");
+as I can with ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -64,6 +63,5 @@ ChMotion(7,2);
 VoicePlay("F020700009_07_070");
 MsgDisp("Mikage","Then, for this year especially, should I
 put the most beautiful ones up for sale?");
-MsgDisp("主人公","(Seems like ｛御影＊＊｝
-hasn't put his favorite vegetables for
-sale until now...)");
+MsgDisp("主人公","(Seems like ｛御影＊＊｝ hasn't put his
+favorite vegetables for sale until now...)");

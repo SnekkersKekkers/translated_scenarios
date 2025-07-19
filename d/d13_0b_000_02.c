@@ -40,8 +40,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("D130B00002_01_010");
-MsgDisp("Kazama","｛主人公｝, do you know what day
-it is today?");
+MsgDisp("Kazama","｛主人公｝, do you know what day it is
+today?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

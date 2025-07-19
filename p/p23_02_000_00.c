@@ -21,8 +21,8 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","｛主人公｝, that outfit is nice.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
-    MsgDisp("主人公","｛颯砂＊＊｝ also looks like the
-King of the Underworld.");
+    MsgDisp("主人公","｛颯砂＊＊｝ also looks like the King of
+the Underworld.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -44,8 +44,7 @@ I felt strange when practicing.");
     MsgDisp("Sassa","They say he's simple minded, can only
 charge straight ahead like an idiot, you
 know, just like me.");
-    MsgDisp("主人公","｛颯砂＊＊｝ isn't like that
-though?
+    MsgDisp("主人公","｛颯砂＊＊｝ isn't like that though?
 Although, you do both like doggies.");
     ChEye(2,3);
     ChMouth(2,3);

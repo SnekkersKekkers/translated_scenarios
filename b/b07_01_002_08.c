@@ -14,9 +14,8 @@ MsgDisp("Kazama","Then, what is it this time?
 The things you're thinking about are way
 beyond my expectations.");
 MsgDisp("主人公","I was thinking that suddenly being with
-｛風真＊＊｝ is like a dream.
-So I ended up staring. It's weird isn't
-it?");
+｛風真＊＊｝ is like a dream. So I ended
+up staring. It's weird isn't it?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

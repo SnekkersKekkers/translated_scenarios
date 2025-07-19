@@ -82,8 +82,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360650101_06_100");
 MsgDisp("Himuro","That's true.
-Maybe the one not looking at the person
-in front of them just now was me.");
+Maybe the one not looking at the person in
+front of them just now was me.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);

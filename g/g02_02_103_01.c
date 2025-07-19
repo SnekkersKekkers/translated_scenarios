@@ -32,8 +32,7 @@ MsgDisp("Sassa","Starting with your name, then your hobbies
 and favorite foods. I was like, what are
 they going to do with all that?");
 MsgDisp("主人公","I'm a little embarrassed...
-｛颯砂＊＊｝, it must have been
-tough, huh?");
+｛颯砂＊＊｝, it must have been tough, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

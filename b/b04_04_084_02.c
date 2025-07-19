@@ -58,8 +58,7 @@ I do that on a regular basis.");
         MsgDisp("Nanatsumori","I don't...jog everyday though.
 If it's necessary for work, I'll also go
 to the gym.");
-        MsgDisp("主人公","｛七ツ森＊｝, you're
-amazing.");
+        MsgDisp("主人公","｛七ツ森＊｝, you're amazing.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);

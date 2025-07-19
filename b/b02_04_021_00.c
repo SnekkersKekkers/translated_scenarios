@@ -20,5 +20,5 @@ MsgDisp("Nanatsumori","I could look at this forever.
 Heh...
 It's seriously nice.");
 MsgDisp("主人公","(That's embarrassing...
-｛七ツ森＊｝ seems to
-like this coordination a lot, though!)");
+｛七ツ森＊｝ seems to like this
+coordination a lot, though!)");

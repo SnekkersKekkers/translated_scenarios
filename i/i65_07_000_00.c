@@ -21,8 +21,7 @@ Are you refueling?");
     ChMotion(7,1);
     VoicePlay("I650700000_07_010");
     MsgDisp("Mikage","Yeah, my baby is having a nice meal.");
-    MsgDisp("主人公","Your bike, right,
-｛御影＊＊｝?");
+    MsgDisp("主人公","Your bike, right, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -33,8 +32,7 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(I hope ｛御影＊＊｝
-comes again.)");
+    MsgDisp("主人公","(I hope ｛御影＊＊｝ comes again.)");
     break ;
     case 3:
     SEPlay("EV_SE_733");
@@ -77,8 +75,7 @@ See you.");
     SEPlay("EV_SE_751",1);
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(But working with
-｛御影＊＊｝ might be
+    MsgDisp("主人公","(But working with ｛御影＊＊｝ might be
 fun?)");
     break ;
     case 4:

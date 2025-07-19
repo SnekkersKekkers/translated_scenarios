@@ -43,8 +43,7 @@ What would we do if we were at the top...");
         VoicePlay("B040723202_07_030");
         MsgDisp("Mikage","Do you really like this that much?");
         MsgDisp("主人公","Yes.
-Especially when I'm with
-｛御影＊＊｝.");
+Especially when I'm with ｛御影＊＊｝.");
         ChEye(7,1);
         ChMouth(7,0);
         ChMotion(7,2);
@@ -97,8 +96,7 @@ Ah, I saw Habataki Castle!");
         ChMotion(7,1);
         VoicePlay("B040723202_07_090");
         MsgDisp("Mikage","O-Oh. don't stand up～");
-        MsgDisp("主人公","｛御影＊＊｝ and
-Hanegasaki beach too!");
+        MsgDisp("主人公","｛御影＊＊｝ and Hanegasaki beach too!");
         ChEye(7,1);
         ChMouth(7,3);
         ChMotion(7,5);
@@ -119,8 +117,7 @@ Don't stand up～");
         VoicePlay("B040723202_07_110");
         MsgDisp("Mikage","Haa, that was fun～...");
         MsgDisp("主人公","(I ended up getting to ride the ferris
-wheel twice, ｛御影＊＊｝,
-thank you.)");
+wheel twice, ｛御影＊＊｝, thank you.)");
         break ;
         default :
         DbgAssert(1);

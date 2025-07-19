@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛御影＊＊｝, what were
-you like in middle school?");
+MsgDisp("主人公","｛御影＊＊｝, what were you like in
+middle school?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -52,8 +52,8 @@ Remember that～, it'll come up on the
 test～");
 MsgDisp("主人公","Hehe, it's like a biology lesson.");
 MsgDisp("主人公","(I feel like it's thanks to
-｛御影＊＊｝ that Haba
-High is super fun!)");
+｛御影＊＊｝ that Haba High is super
+fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

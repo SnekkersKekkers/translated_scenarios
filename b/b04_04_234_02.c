@@ -65,8 +65,8 @@ already spinning.");
         ChMotion(4,0,1);
         VoicePlay("B040423402_04_070");
         MsgDisp("Nanatsumori","I wonder why?");
-        MsgDisp("主人公","Somehow, ｛七ツ森＊｝,
-looks a bit mean...");
+        MsgDisp("主人公","Somehow, ｛七ツ森＊｝, looks a bit
+mean...");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);

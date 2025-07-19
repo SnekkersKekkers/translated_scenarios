@@ -57,8 +57,8 @@ has a uniform beauty.");
 think I'll be able to discover lots of new
 things. It'll be difficult to do while
 skiing.");
-        MsgDisp("主人公","Then, today shall we do what
-｛本多＊＊｝ wants to do?");
+        MsgDisp("主人公","Then, today shall we do what ｛本多＊＊｝
+wants to do?");
         ChSet(3,5);
         VoicePlay("B040320002_03_050");
         MsgDisp("Honda","Eh!");

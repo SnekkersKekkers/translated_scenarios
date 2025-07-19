@@ -28,9 +28,9 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360750201_07_020");
 MsgDisp("Mikage","Please take him to try many things.");
-MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ has a lot
-going on with the student council and
-theater group. He needs a break.");
+MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ has a lot going on with
+the student council and theater group. He
+needs a break.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

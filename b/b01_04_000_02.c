@@ -3,8 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm here a little early...
 Hmm?)");
-MsgDisp("主人公","｛七ツ森＊｝, you're
-early!");
+MsgDisp("主人公","｛七ツ森＊｝, you're early!");
 BGMPlay("BGM_C04_NANA_A",0.01);
 switch (ChPrmGet(4,6)){
     case 0:

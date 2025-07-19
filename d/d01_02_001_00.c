@@ -117,8 +117,7 @@ VoicePlay("D010200100_02_050");
 MsgDisp("Sassa","But I want to get first place in every
 event...");
 MsgDisp("主人公","(Eh...
-Was that ｛颯砂＊＊｝'s voice just
-now?)");
+Was that ｛颯砂＊＊｝'s voice just now?)");
 VoicePlay("D010200100_39_080");
 MsgDisp("Manager","That's enough. Sassa is just competing on
 a different level from us. Nothing we say
@@ -167,8 +166,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(2);
-MsgDisp("主人公","(Even though he won, ｛颯砂＊＊｝
-looks sad...)");
+MsgDisp("主人公","(Even though he won, ｛颯砂＊＊｝ looks
+sad...)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(2,0);

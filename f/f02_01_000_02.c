@@ -60,5 +60,4 @@ ChMotion(1,3);
 VoicePlay("F020100002_01_060");
 MsgDisp("Kazama","There you go!");
 MsgDisp("主人公","(...While we talked about that story,
-｛風真＊＊｝ and I had fun
-going home.)");
+｛風真＊＊｝ and I had fun going home.)");

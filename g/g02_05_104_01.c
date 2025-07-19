@@ -4,8 +4,7 @@ VoicePlay("G020510401_05_000");
 MsgDisp("Hiiragi","I've been performing in plays themed
 around romance without ever experiencing
 real romance myself...");
-MsgDisp("主人公","｛柊＊＊＊｝, what's this all of
-a sudden?");
+MsgDisp("主人公","｛柊＊＊＊｝, what's this all of a sudden?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020510401_05_010");

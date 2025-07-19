@@ -68,8 +68,8 @@ the ghosts?");
 Your observation skills are the most scary
 thing.");
         MsgDisp("主人公","Hehe.
-｛御影＊＊｝ is a timid
-person isn't he?");
+｛御影＊＊｝ is a timid person isn't
+he?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,3);

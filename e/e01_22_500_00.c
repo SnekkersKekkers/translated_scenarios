@@ -21,17 +21,16 @@ Bonjour!");
 ChMotion(22,0,1);
 VoicePlay("E012250000_22_020");
 MsgDisp("Hikaru","Hikaru was looking at this.");
-MsgDisp("主人公","A flyer? \"
-French Class Trial\"...");
+MsgDisp("主人公","A flyer? 
+\"French Class Trial\"...");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("E012250000_22_030");
 MsgDisp("Hikaru","Hikaru guesses it would be better to learn
 it properly, after all?");
-MsgDisp("主人公","Come to think of it,
-｛ひかる＊｝, don't you
-speak in French sometimes?");
+MsgDisp("主人公","Come to think of it, ｛ひかる＊｝,
+don't you speak in French sometimes?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -75,8 +74,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(22);
-MsgDisp("主人公","(I see. ｛ひかる＊｝
-uses French because she was influenced by
-someone she admires...)");
+MsgDisp("主人公","(I see.
+｛ひかる＊｝ uses French because she
+was influenced by someone she admires...)");
 MsgClose();
 ScrFadeOut(0,0);

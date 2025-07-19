@@ -11,8 +11,7 @@ SEWait();
 BGOpen("sc352",0);
 ScrFadeIn(0);
 MsgClose();
-MsgDisp("主人公","(Ah, ｛御影＊＊｝ is
-already here.
+MsgDisp("主人公","(Ah, ｛御影＊＊｝ is already here.
 With him is...)");
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,37,0,0,0,#1,#1,0,1,0,30);
@@ -32,8 +31,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720000_05_010");
 MsgDisp("Hiiragi","Yes, I'm very deeply interested.");
-MsgDisp("主人公","｛柊＊＊＊｝, are you interested
-in biology and chemistry?");
+MsgDisp("主人公","｛柊＊＊＊｝, are you interested in biology
+and chemistry?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -78,8 +77,8 @@ ChClose(5);
 MsgClose();
 ChClose(7,0,30);
 ChOpen(7,37,0,0,0,#1,#1,0,0,0,30);
-MsgDisp("主人公","｛柊＊＊＊｝ seemed to be
-having a lot of fun.");
+MsgDisp("主人公","｛柊＊＊＊｝ seemed to be having a lot of
+fun.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -87,8 +86,7 @@ VoicePlay("F100720000_07_030");
 MsgDisp("Mikage","Yeah, when he smiles, I can't help but
 feel a sense of relief.");
 MsgDisp("主人公","Yeah.
-Since ｛柊＊＊＊｝ always looks
-so busy.");
+Since ｛柊＊＊＊｝ always looks so busy.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -108,10 +106,10 @@ ChClose(7);
 Wait(60,0);
 SEPlay("EV_SE_666",1,0.6);
 Wait(60,0);
-MsgDisp("主人公","(Hehe, so ｛柊＊＊＊｝ wasn't
-asking him about the lesson, but was
-interested in the blackboard.
-｛御影＊＊｝ is so kind.)");
+MsgDisp("主人公","(Hehe, so ｛柊＊＊＊｝ wasn't asking him
+about the lesson, but was interested in
+the blackboard. ｛御影＊＊｝ is so
+kind.)");
 SEStop("EV_SE_666");
 MsgClose();
 ScrFadeOut(0,0);

@@ -23,8 +23,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A10100_02_000");
 VoiceEVSPlay(2);
-MsgDisp("Sassa","You liked this shop, right,
-｛主人公｝?");
+MsgDisp("Sassa","You liked this shop, right, ｛主人公｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);

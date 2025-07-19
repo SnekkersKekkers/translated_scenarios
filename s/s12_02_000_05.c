@@ -51,8 +51,8 @@ See you.");
     MsgClose();
     ChClose(2);
     MsgDisp("主人公","(No matter what the future holds, like
-｛颯砂＊＊｝ says, let's try our
-best and live without regrets!)");
+｛颯砂＊＊｝ says, let's try our best and
+live without regrets!)");
     break ;
     case 4:
     case 5:

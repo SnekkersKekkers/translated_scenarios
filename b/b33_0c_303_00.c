@@ -58,8 +58,7 @@ MsgClose();
 SEPlay("EV_SE_509");
 Wait(40,0);
 ChOpen(5,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝, you've gotten
-better.");
+MsgDisp("主人公","｛柊＊＊＊｝, you've gotten better.");
 ChEye(5,4);
 VoicePlay("B330C30300_05_010");
 MsgDisp("Hiiragi","You as well.
@@ -140,8 +139,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30300_06_060");
 MsgDisp("Himuro","No, it's nothing..");
-MsgDisp("主人公","(Just now, was ｛氷室＊＊｝ talking
-about Himuro-sensei....)");
+MsgDisp("主人公","(Just now, was ｛氷室＊＊｝ talking about
+Himuro-sensei....)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

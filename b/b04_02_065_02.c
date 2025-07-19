@@ -109,8 +109,8 @@ That's all you need to do!");
         MsgDisp("Sassa","Oh!
 I guess it's almost time for the grand
 finale?");
-        MsgDisp("主人公","(If I want to help ｛颯砂＊＊｝ I
-need to support him even more!)");
+        MsgDisp("主人公","(If I want to help ｛颯砂＊＊｝ I need to
+support him even more!)");
         SEStop("EV_SE_534",1);
         SEStop("EV_SE_527",1);
         break ;

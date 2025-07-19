@@ -47,8 +47,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("E010140000_01_020");
 MsgDisp("Kazama","I told you I don't wanna do it.");
 MsgDisp("主人公","Hey, ｛ひかる＊｝...
-You're bothering ｛風真＊＊｝,
-right?");
+You're bothering ｛風真＊＊｝, right?");
 ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,2,1);
@@ -115,8 +114,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(｛風真＊＊｝...He is definitely gonna be
-pressured into doing it by
-｛みちる＊｝...)");
+MsgDisp("主人公","(｛風真＊＊｝...
+He is definitely gonna be pressured into
+doing it by ｛みちる＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

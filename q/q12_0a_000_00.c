@@ -54,8 +54,7 @@ ChMotion(1,0,1);
 VoicePlay("Q120A00000_01_040");
 MsgDisp("Kazama","Thanks a lot.");
 MsgDisp("主人公","Yeah, I'm grateful too...
-｛風真＊＊｝,
-｛颯砂＊＊｝, thank you!");
+｛風真＊＊｝, ｛颯砂＊＊｝, thank you!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

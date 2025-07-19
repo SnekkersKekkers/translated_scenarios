@@ -11,8 +11,8 @@ VoicePlay("G020810304_08_010");
 MsgDisp("Shirahane","I feel like I want to give you this whole
 view as a present.");
 MsgDisp("主人公","Hehe! The birthday present I received from
-｛大地＊＊｝ the other day
-was also lovely.");
+｛大地＊＊｝ the other day was also
+lovely.");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);

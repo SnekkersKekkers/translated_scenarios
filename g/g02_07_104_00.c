@@ -13,8 +13,7 @@ VoicePlay("G020710400_07_010");
 MsgDisp("Mikage","I see, maybe I should try reading them
 too...");
 MsgDisp("主人公","Eh?
-｛御影＊＊｝, are you
-interested?");
+｛御影＊＊｝, are you interested?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

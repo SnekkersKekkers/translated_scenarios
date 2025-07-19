@@ -90,8 +90,8 @@ MsgDisp("Mikage","｛主人公｝, if you would.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
-MsgDisp("主人公","Eh...um...\"
-This darts corner has a grown-up feel\"?");
+MsgDisp("主人公","Eh...um...
+\"This darts corner has a grown-up feel\"?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -143,8 +143,8 @@ now on.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(Hehe, everyone seems to be having fun!
-But ｛御影＊＊｝ seems to
-be having the most fun?)");
+But ｛御影＊＊｝ seems to be having the
+most fun?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

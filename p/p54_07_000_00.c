@@ -12,8 +12,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540700000_07_000");
 MsgDisp("Mikage","You did well, that was splendid.");
 MsgDisp("主人公","Ah, yes!
-It's thanks to
-｛御影＊＊｝.");
+It's thanks to ｛御影＊＊｝.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -27,8 +26,7 @@ MsgDisp("Mikage","Alright, everyone is waiting.
 Go rejoice with your friends.");
 MsgDisp("主人公","Thank you very much!");
 MsgDisp("主人公","(Hurray!
-I'm happy to be praised by
-｛御影＊＊｝!");
+I'm happy to be praised by ｛御影＊＊｝!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

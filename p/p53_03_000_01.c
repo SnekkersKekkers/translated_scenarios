@@ -55,9 +55,9 @@ it the most.");
     VoicePlay("P530300001_03_050");
     MsgDisp("Honda","Then, 'game start', right?");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Thanks to ｛本多＊＊｝, it seems
-a bit easier. Alright, then I'll also
-enjoy my performance!)");
+    MsgDisp("主人公","(Thanks to ｛本多＊＊｝, it seems a bit
+easier. Alright, then I'll also enjoy my
+performance!)");
     break ;
     case 4:
     case 5:

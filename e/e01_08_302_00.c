@@ -126,8 +126,8 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 MsgDisp("Daichi","Of course!
 I'm proud he's my brother!");
-MsgDisp("主人公","(Both ｛大地＊＊｝ and Kuya
-are so funny and kind...
+MsgDisp("主人公","(Both ｛大地＊＊｝ and Kuya are so funny
+and kind...
 They're such wonderful brothers.)");
 BGMStop();
 MsgClose();

@@ -104,8 +104,8 @@ the buzzer for a wrong answer.");
     MsgDisp("主人公","Hehe, are you okay?
 EVen though you specifically wanted to
 relax?");
-    MsgDisp("主人公","(Huh...thanks to ｛本多＊＊｝, It
-seems like I'm not anxious anymore.
+    MsgDisp("主人公","(Huh...thanks to ｛本多＊＊｝, It seems like
+I'm not anxious anymore.
 Yeah, I'll give it my best.)");
     break ;
     default :

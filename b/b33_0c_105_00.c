@@ -169,8 +169,8 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C10500_05_070");
 MsgDisp("Hiiragi","Me too, please.");
-MsgDisp("主人公","Ehh∋ ｛柊＊＊＊｝ and
-｛御影＊＊｝, you guys
+MsgDisp("主人公","Ehh∋
+｛柊＊＊＊｝ and ｛御影＊＊｝, you guys
 don't even like instant noodles, do you?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -191,8 +191,8 @@ VoicePlay("B330C10500_05_090");
 MsgDisp("Hiiragi","Today was a first-prize kind of day right
 until the end.");
 MsgDisp("主人公","(Hehe, I'm glad.
-Seeing ｛柊＊＊＊｝ enjoy
-himself makes me super happy!)");
+Seeing ｛柊＊＊＊｝ enjoy himself makes me
+super happy!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

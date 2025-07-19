@@ -46,10 +46,9 @@ do.");
     SEWait();
     MsgDisp("主人公","Ah, it's starting.
 I'll to my best then!");
-    MsgDisp("主人公","(Huh? After talking to
-｛風真＊＊｝, I think I feel
-more at ease...Alーright, let's do our
-best!)");
+    MsgDisp("主人公","(Huh? After talking to ｛風真＊＊｝, I
+think I feel more at ease...Alーright,
+let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);
@@ -92,8 +91,7 @@ Your work and model is the best.");
     MsgDisp("Kazama","It is.
 Or is my judgement not believable to you?");
     MsgDisp("主人公","No.
-｛風真＊＊｝'s appraisal is never
-wrong.");
+｛風真＊＊｝'s appraisal is never wrong.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -109,8 +107,8 @@ So, relax your shoulder and go.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","(Alーright.
-I was praised by ｛風真＊＊｝,
-so let's go with confidence!)");
+I was praised by ｛風真＊＊｝, so let's go
+with confidence!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

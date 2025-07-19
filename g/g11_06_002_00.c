@@ -2,9 +2,9 @@ BGOpen("sc510",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(...Huh? It's a message from
-｛氷室＊＊｝. It says \"I'd like to
-talk, do you have time?\"...)");
+MsgDisp("主人公","(...Huh? It's a message from ｛氷室＊＊｝. It
+says \"I'd like to talk, do you have
+time?\"...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -19,8 +19,8 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,2,2,1,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's been a while since he came out of
-the water but...｛氷室＊＊｝ hasn't said a
-word at all...)");
+the water but...
+｛氷室＊＊｝ hasn't said a word at all...)");
 while (1){
     RunEverydaySksp(6,0,0,1,0,0);
     if (RunEverydaySkspRsltGet()){

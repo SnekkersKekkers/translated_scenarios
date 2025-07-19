@@ -84,8 +84,7 @@ ChClose(5);
 ChPosition(1,0);
 Wait(60,0);
 ChMotion(1,0);
-MsgDisp("主人公","｛柊＊＊＊｝ looked pretty
-happy.");
+MsgDisp("主人公","｛柊＊＊＊｝ looked pretty happy.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -118,8 +117,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","Hehe. ｛柊＊＊＊｝ and
-｛風真＊＊｝ both are
+MsgDisp("主人公","Hehe.
+｛柊＊＊＊｝ and ｛風真＊＊｝ both are
 amazing...)");
 MsgClose();
 ScrFadeOut(0,0);

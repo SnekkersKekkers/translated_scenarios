@@ -1,5 +1,5 @@
-MsgDisp("主人公","It's always lively around
-｛御影＊＊｝ isn't it?");
+MsgDisp("主人公","It's always lively around ｛御影＊＊｝
+isn't it?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -67,10 +67,9 @@ MsgDisp("Mikage","Listen up, at first glance you might be
 different but you should cherish the
 friends you can empathize with on a deeper
 level okay?");
-MsgDisp("主人公","(｛御影＊＊｝, ｛柊＊＊＊｝ and
-｛氷室＊＊｝ appear completely
-different, but maybe they have some
-similarities too?)");
+MsgDisp("主人公","(｛御影＊＊｝, ｛柊＊＊＊｝ and ｛氷室＊＊｝
+appear completely different, but maybe
+they have some similarities too?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -54,8 +54,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020220300_02_070");
 MsgDisp("Sassa","(sigh) I bet it'd be easier to be your
 partner if we were fireflies...");
-MsgDisp("主人公","(What is ｛颯砂＊＊｝ talking
-about...)");
+MsgDisp("主人公","(What is ｛颯砂＊＊｝ talking about...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -1,7 +1,7 @@
 BGOpen("sc310",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, oh yeah. I have to thank
-｛御影＊＊｝ for the
+MsgDisp("主人公","(Ah, oh yeah.
+I have to thank ｛御影＊＊｝ for the
 shearing event at the ranch.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -17,11 +17,9 @@ ChOpen(7,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("G110700702_07_000");
-MsgDisp("Mikage","｛主人公｝, I'm happy you showed
-up.");
-MsgDisp("主人公","｛御影＊＊｝, thank you
-very much for the shearing event at the
-ranch.");
+MsgDisp("Mikage","｛主人公｝, I'm happy you showed up.");
+MsgDisp("主人公","｛御影＊＊｝, thank you very much for
+the shearing event at the ranch.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -58,8 +56,7 @@ ChMotion(7,0);
 VoicePlay("G110700702_07_050");
 MsgDisp("Mikage","Am I the shearing specialist now?");
 MsgDisp("主人公","(Hehe, I want to go to the ranch now
-instead of interviewing
-｛御影＊＊｝...)");
+instead of interviewing ｛御影＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -37,8 +37,7 @@ MsgDisp("主人公","Hehe!");
 VoicePlay("U170D00000_21_020");
 MsgDisp("Michiru","Well then Mari, good night.");
 MsgDisp("主人公","｛みちる＊｝, good night.
-｛ひかる＊｝, good night
-to you too.");
+｛ひかる＊｝, good night to you too.");
 VoicePlay("U170D00000_22_020");
 MsgDisp("Hikaru","......");
 MsgDisp("主人公","...?");

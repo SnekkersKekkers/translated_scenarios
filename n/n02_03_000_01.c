@@ -12,8 +12,8 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Nice job on your final exams.
 Isn't that your name among the top?");
     MsgDisp("主人公","Thank you very much.
-But, ｛本多＊＊｝, aren't you the
-first in our grade?");
+But, ｛本多＊＊｝, aren't you the first in
+our grade?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5);
@@ -57,8 +57,8 @@ Are you glad you worked so hard?");
     VoicePlay("N020300001_03_050");
     MsgDisp("Honda","Maybe you could be the first among all the
 students in our grade.");
-    MsgDisp("主人公","Eh, but it's you ｛本多＊＊｝, the
-first in the rank...");
+    MsgDisp("主人公","Eh, but it's you ｛本多＊＊｝, the first in
+the rank...");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,0);

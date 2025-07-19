@@ -18,8 +18,7 @@ That increases the New Years vibe.");
     MsgDisp("Shirahane","Super cute.
 Eye candy▼");
     MsgDisp("主人公","(What a relief.
-｛大地＊＊｝ seems really
-happy!)");
+｛大地＊＊｝ seems really happy!)");
     break ;
     case 3:
     ChEye(8,0);
@@ -45,8 +44,7 @@ Cute.");
     MsgDisp("Shirahane","I'm so happy I get to walk around with a
 beautiful girl on New Year's▼");
     MsgDisp("主人公","(What a relief.
-｛大地＊＊｝ seems really
-happy!)");
+｛大地＊＊｝ seems really happy!)");
     break ;
     case 4:
     case 5:

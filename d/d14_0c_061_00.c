@@ -22,8 +22,8 @@ ChMotion(6,0);
 VoicePlay("D140C06100_06_010");
 MsgDisp("Himuro","He didn't say anything to you?");
 MsgDisp("主人公","Yeah.
-｛柊＊＊＊｝ is busy, so
-there's no way he can tell me everything.");
+｛柊＊＊＊｝ is busy, so there's no way he
+can tell me everything.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

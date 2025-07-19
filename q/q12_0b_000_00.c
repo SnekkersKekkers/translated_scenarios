@@ -33,8 +33,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoiceEVSPlay(1);
 VoicePlay("Q120B00000_01_010");
-MsgDisp("Kazama","｛主人公｝, could you enjoy it
-properly?");
+MsgDisp("Kazama","｛主人公｝, could you enjoy it properly?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

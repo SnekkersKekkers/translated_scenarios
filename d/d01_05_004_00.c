@@ -39,10 +39,9 @@ MsgDisp("Male Student A","I can do that!");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("D010500400_05_020");
 MsgDisp("Hiiragi","...That is not possible.");
-MsgDisp("主人公","｛柊＊＊＊｝, everyone is
-looking forward to it. Me too, I want to
-see the performance with
-｛柊＊＊＊｝.");
+MsgDisp("主人公","｛柊＊＊＊｝, everyone is looking forward
+to it. Me too, I want to see the
+performance with ｛柊＊＊＊｝.");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -129,8 +128,7 @@ MsgClose();
 BGOpen("sc300",1);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, shall we pack up
-for today?");
+MsgDisp("主人公","｛柊＊＊＊｝, shall we pack up for today?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();

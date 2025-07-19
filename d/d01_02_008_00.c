@@ -12,8 +12,9 @@ VoicePlay("D010200800_33_000");
 MsgDisp("Member","Last lap～!");
 VoicePlay("D010200800_38_000");
 MsgDisp("Members","Yeah!");
-MsgDisp("主人公","(Everyone's working hard...Huh? Over
-there, is that ｛颯砂＊＊｝...?)");
+MsgDisp("主人公","(Everyone's working hard...
+Huh?
+Over there, is that ｛颯砂＊＊｝...?)");
 SEPlay("EV_SE_626");
 MsgClose();
 ScrFadeOut(0);
@@ -106,8 +107,8 @@ VoicePlay("D010200800_02_110");
 MsgDisp("Sassa","I didn't realize until I retired...
 You have goals and dreams too.");
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","It's thanks to ｛颯砂＊＊｝ that
-I got to experience so many new things.
+MsgDisp("主人公","It's thanks to ｛颯砂＊＊｝ that I got to
+experience so many new things.
 Things I would never have done on my own.");
 ChEye(2,0);
 ChMouth(2,0);

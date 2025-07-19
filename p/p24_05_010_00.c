@@ -47,8 +47,8 @@ ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240501000_05_030");
 MsgDisp("Hiiragi","It's perfect.");
-MsgDisp("主人公","That's because of ｛柊＊＊＊｝'s
-acting direction.");
+MsgDisp("主人公","That's because of ｛柊＊＊＊｝'s acting
+direction.");
 ChEye(5,0);
 VoicePlay("P240501000_05_040");
 MsgDisp("Hiiragi","No.
@@ -121,8 +121,8 @@ VoicePlay("P240501000_05_090");
 MsgDisp("Hiiragi","Yes, it was a great success.
 Producing a play like this with everyone
 is fun.");
-MsgDisp("主人公","(Seems like ｛柊＊＊＊｝ also
-enjoyed our school play.
+MsgDisp("主人公","(Seems like ｛柊＊＊＊｝ also enjoyed our
+school play.
 That's a relief...)");
 MsgClose();
 MsgClose();

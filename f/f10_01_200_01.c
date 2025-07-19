@@ -9,8 +9,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","｛風真＊＊｝,
-｛御影＊＊｝!
+MsgDisp("主人公","｛風真＊＊｝, ｛御影＊＊｝!
 Is this the 'men living alone' course?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -19,7 +18,7 @@ VoiceEVSPlay(7);
 VoicePlay("F100120001_07_000");
 MsgDisp("Mikage","｛主人公｝, are you also enrolled?
 Today, we're asking ourselves...
-'How do we get out of cleaning? ");
+'How do we get out of cleaning?");
 MsgDisp("主人公","Um...
 I'm fine, actually.");
 ChEye(1,0);

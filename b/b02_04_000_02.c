@@ -14,5 +14,5 @@ ChMotion(4,3);
 VoicePlay("B020400002_04_010");
 MsgDisp("Nanatsumori","You've got good intuition.
 Yeah, it's nice to look at.");
-MsgDisp("主人公","(I see, so ｛七ツ森＊｝
-likes the color red.)");
+MsgDisp("主人公","(I see, so ｛七ツ森＊｝ likes the color
+red.)");

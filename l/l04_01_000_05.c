@@ -58,8 +58,7 @@ Well, that's just like you, though.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Oh, could it be that I put something in
-that ｛風真＊＊｝ doesn't
-like??)");
+that ｛風真＊＊｝ doesn't like??)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

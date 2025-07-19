@@ -1,13 +1,11 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛柊＊＊＊｝ isn't
-here yet...");
+MsgDisp("主人公","Looks like ｛柊＊＊＊｝ isn't here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛柊＊＊＊｝, did something
-happen?");
+MsgDisp("主人公","｛柊＊＊＊｝, did something happen?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);

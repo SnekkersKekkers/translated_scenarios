@@ -2,9 +2,8 @@ BGOpen("sc310",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Now that I think about it...
-｛柊＊＊＊｝ was having trouble
-studying by himself in the library the
-other day.)");
+｛柊＊＊＊｝ was having trouble studying
+by himself in the library the other day.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);
@@ -16,14 +15,12 @@ MsgDisp("主人公","(｛柊＊＊＊｝ doesn't seem to be in the
 reading area...)");
 VoiceEVSPlay(5);
 VoicePlay("F100510001_05_000");
-MsgDisp("Hiiragi?","｛主人公｝, are you looking for
-someone?");
+MsgDisp("Hiiragi?","｛主人公｝, are you looking for someone?");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Ah!
-Yeah, I was looking for you,
-｛柊＊＊＊｝.");
+Yeah, I was looking for you, ｛柊＊＊＊｝.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);

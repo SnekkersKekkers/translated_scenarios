@@ -4,9 +4,9 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(Okay, I was able to buy a lot of souvenirs!
-I wonder if ｛柊＊＊＊｝ is
-done...)");
+MsgDisp("主人公","(Okay, I was able to buy a lot of
+souvenirs!
+I wonder if ｛柊＊＊＊｝ is done...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,2,4,9,#1,0,0);
@@ -54,10 +54,9 @@ for me?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("Q110500000_05_060");
-MsgDisp("Hiiragi","I didn't want to leave Nagasaki with
-any regrets, so I went back for it.
-Now I can remember today whenever I
-use it.");
+MsgDisp("Hiiragi","I didn't want to leave Nagasaki with any
+regrets, so I went back for it. Now I can
+remember today whenever I use it.");
 MsgDisp("主人公","｛柊＊＊＊｝...
 Thank you, I'll treasure it.");
 ChMotion(5,0,1);

@@ -30,8 +30,7 @@ ChMotion ( 1,4 ) ;
 VoicePlay ( "D150001300_01_010" ) ;
 MsgDisp ( "Kazama","If you like them, I can make them for you." ) ;
 MsgDisp ( "主人公","Really?
-I'll look forward to it,
-｛風真＊＊｝." ) ;
+I'll look forward to it, ｛風真＊＊｝." ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,3 ) ;

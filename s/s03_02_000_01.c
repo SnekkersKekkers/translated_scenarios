@@ -57,8 +57,7 @@ See you soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Dressed up, huh...
-｛颯砂＊＊｝ is expecting
-something...)");
+｛颯砂＊＊｝ is expecting something...)");
     break ;
     default :
     DbgAssert(1);

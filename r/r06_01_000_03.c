@@ -8,8 +8,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("R060100003_01_000");
     MsgDisp("Kazama","｛主人公｝.
 You got a present, right?");
-    MsgDisp("主人公","Huh...Ah! ｛風真＊＊｝, you got
-the present I brought to the party!");
+    MsgDisp("主人公","Huh...Ah! ｛風真＊＊｝, you got the present
+I brought to the party!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -34,9 +34,8 @@ Alright, let's open them.");
     VoicePlay("R060100003_01_030");
     MsgDisp("Kazama","Woah.
 I can't believe that you got my present.");
-    MsgDisp("主人公","Huh∋ This is yours?
-｛風真＊＊｝, you got the
-present that I brought!");
+    MsgDisp("主人公","Huh∋ This is yours? ｛風真＊＊｝, you got
+the present that I brought!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,1);
@@ -68,8 +67,7 @@ Well then, shall we open our gifts?");
     VoicePlay("R060100003_01_070");
     MsgDisp("Kazama","You really got my present...");
     MsgDisp("主人公","Huh...
-This is your present,
-｛風真＊＊｝?");
+This is your present, ｛風真＊＊｝?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

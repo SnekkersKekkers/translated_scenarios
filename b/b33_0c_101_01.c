@@ -46,8 +46,7 @@ ChMotion(7,2);
 VoicePlay("B330C10101_07_010");
 MsgDisp("Mikage","Sure.");
 MsgDisp("主人公","Hehe.
-｛御影＊＊｝, what are you
-doing?");
+｛御影＊＊｝, what are you doing?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -98,8 +97,8 @@ ChMotion(6,0);
 VoicePlay("B330C10101_06_030");
 MsgDisp("Himuro","Well, he's a biology teacher after all.");
 MsgDisp("主人公","(Hehe!
-｛御影＊＊｝ might be the
-most like a high school student?)");
+｛御影＊＊｝ might be the most like a
+high school student?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(2);

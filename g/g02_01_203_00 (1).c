@@ -76,8 +76,8 @@ VoicePlay("G020120300_01_090");
 MsgDisp("Kazama","But you better get ready.
 I'm going to start wearing aprons in all
 sorts of colors to our dates from now on.");
-MsgDisp("主人公","(A colorful ｛風真＊＊｝ might
-be a bit like these fireflies...)");
+MsgDisp("主人公","(A colorful ｛風真＊＊｝ might be a bit
+like these fireflies...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,8 +5,8 @@ ChMouth(5,0);
 ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝'s birthday is
-coming up, isn't it?");
+MsgDisp("主人公","Oh, ｛柊＊＊＊｝'s birthday is coming up,
+isn't it?");
 ChMouth(5,4);
 VoicePlay("F020500004_05_000");
 MsgDisp("Hiiragi","Yes, it is. Actually, around this time of

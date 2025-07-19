@@ -42,8 +42,7 @@ ChCheek(1,7);
 VoicePlay("B070100000_01_100");
 MsgDisp("Kazama","Y-You...");
 MsgDisp("主人公","(Ahh, how embarrassing...
-But why is ｛風真＊＊｝ getting
-shy?)");
+But why is ｛風真＊＊｝ getting shy?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

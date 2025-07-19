@@ -14,5 +14,4 @@ MsgDisp("Shirahane","Righty-o.
 I've seen it around a lot, but you look
 the best in it.");
 MsgDisp("主人公","(I'm glad!
-｛大地＊＊｝ gave me a
-compliment.)");
+｛大地＊＊｝ gave me a compliment.)");

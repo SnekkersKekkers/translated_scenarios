@@ -1,13 +1,11 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","I still haven't seen
-｛御影＊＊｝...");
+MsgDisp("主人公","I still haven't seen ｛御影＊＊｝...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛御影＊＊｝ sure is
-late, huh....");
+MsgDisp("主人公","｛御影＊＊｝ sure is late, huh....");
 VoicePlay("B110700002_35_000");
 MsgDisp("?Boy","Hmm, too weak, too weak～
 I need to find a more energetic girl

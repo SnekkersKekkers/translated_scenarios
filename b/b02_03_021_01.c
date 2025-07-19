@@ -12,5 +12,5 @@ MsgDisp("Honda","Ah, sorry!
 I meant, like, that's girly, or cute?
 That kind of look really suits you.");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like this
-sort of thing.)");
+｛本多＊＊｝ seems to like this sort of
+thing.)");

@@ -37,9 +37,9 @@ I...");
     VoicePlay("S030500000_05_050");
     MsgDisp("Hiiragi","Yup. Happy New Year. I'm looking forward
 to spending time with you again this year.");
-    MsgDisp("主人公","Same here! ｛柊＊＊＊｝, do you
-have time today? Would you like to visit
-the shrine?");
+    MsgDisp("主人公","Same here!
+｛柊＊＊＊｝, do you have time today?
+Would you like to visit the shrine?");
     break ;
     default :
     DbgAssert(1);

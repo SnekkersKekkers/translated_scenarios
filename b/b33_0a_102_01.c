@@ -106,8 +106,8 @@ ChClose(1,0,30);
 ChClose(2,0,30);
 ChClose(6,0,30);
 MsgDisp("主人公","(Hehe, it's true.
-Seems like ｛風真＊＊｝ is
-surprisingly caring?)");
+Seems like ｛風真＊＊｝ is surprisingly
+caring?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

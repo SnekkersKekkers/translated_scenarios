@@ -16,15 +16,14 @@ ChMotion(21,4);
 VoicePlay("P230D00001_21_000");
 MsgDisp("Michiru","I couldn't decide on my makeup so it ended
 up being a close call.");
-MsgDisp("主人公","｛みちる＊｝,
-｛ひかる＊｝, good work,
-both of you.");
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝, good
+work, both of you.");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P230D00001_22_010");
-MsgDisp("Hikaru","AaーAh. \"
-Flora Angel\" I wanted to do it with the
+MsgDisp("Hikaru","AaーAh. 
+\"Flora Angel\" I wanted to do it with the
 three of us～...");
 ChEye(21,0);
 ChMouth(21,0);

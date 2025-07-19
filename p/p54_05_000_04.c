@@ -39,9 +39,9 @@ VoicePlay("P540500004_05_030");
 MsgDisp("Hiiragi","I feel a bit lonely now that the
 performance has ended.
 Thank you for a spectacular time.");
-MsgDisp("主人公","(I'm happy that ｛柊＊＊＊｝ is
-that delighted. I'm glad I gave it my all
-for the last three years!)");
+MsgDisp("主人公","(I'm happy that ｛柊＊＊＊｝ is that
+delighted. I'm glad I gave it my all for
+the last three years!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

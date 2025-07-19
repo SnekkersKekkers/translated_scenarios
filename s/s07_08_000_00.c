@@ -52,8 +52,8 @@ We can walk while we think about it!");
     ScrFadeIn(0);
     VoicePlay("S070800000_08_050");
     MsgDisp("Shirahane","This is truly New Years!");
-    MsgDisp("主人公","Does ｛大地＊＊｝ visit the
-shrine every year?");
+    MsgDisp("主人公","Does ｛大地＊＊｝ visit the shrine every
+year?");
     ChEye(8,0);
     ChMouth(8,0);
     ChMotion(8,3,1);

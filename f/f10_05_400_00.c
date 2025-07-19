@@ -39,8 +39,7 @@ MsgDisp("Mikage","Why is it that delicious?");
 ChEye(5,0);
 ChMotion(5,4);
 MsgDisp("主人公","Hehe.
-｛御影＊＊｝ loves it,
-right?");
+｛御影＊＊｝ loves it, right?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

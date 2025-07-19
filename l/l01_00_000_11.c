@@ -1,9 +1,8 @@
 BGOpen("ho210",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Come to think of it,
-｛みちる＊｝ and
-｛ひかる＊｝ invited me
-to make handmade chocolates together...");
+MsgDisp("主人公","Come to think of it, ｛みちる＊｝ and
+｛ひかる＊｝ invited me to make
+handmade chocolates together...");
 MsgSel("I'll make chocolate with them.","I'll reject them this time.");
 switch (MsgSelRsltGet()){
     case 0:

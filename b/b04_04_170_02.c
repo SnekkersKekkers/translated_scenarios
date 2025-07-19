@@ -77,8 +77,7 @@ My heart is beating super fast...");
         ChMotion(4,0,1);
         VoicePlay("B040417002_04_080");
         MsgDisp("Nanatsumori","Mine too.");
-        MsgDisp("主人公","(As I thought,
-｛七ツ森＊｝ really is
+        MsgDisp("主人公","(As I thought, ｛七ツ森＊｝ really is
 cool...)");
         ChEye(4,0);
         ChMouth(4,0);

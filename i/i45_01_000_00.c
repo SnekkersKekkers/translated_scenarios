@@ -23,8 +23,7 @@ What's up?");
     ChMotion(1,3);
     VoicePlay("I450100000_01_020");
     MsgDisp("Kazama","I was lured in by the flowers, too.");
-    MsgDisp("主人公","Then you're a bee too, right,
-｛風真＊＊｝?");
+    MsgDisp("主人公","Then you're a bee too, right, ｛風真＊＊｝?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -37,8 +36,8 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hm, did ｛風真＊＊｝ just come
-to check on me?)");
+    MsgDisp("主人公","(Hm, did ｛風真＊＊｝ just come to check
+on me?)");
     break ;
     case 3:
     MsgClose();
@@ -90,8 +89,7 @@ See you.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Let's replenish our sugar with
-｛風真＊＊｝'s candy and get back
-to work!)");
+｛風真＊＊｝'s candy and get back to work!)");
     break ;
     case 4:
     case 5:

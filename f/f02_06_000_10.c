@@ -23,8 +23,7 @@ MsgDisp("Himuro","If you're anxious, just practice more and
 put in more effort.
 That's all you can do.");
 MsgDisp("主人公","Yes, but...
-｛氷室＊＊｝, do you not get
-anxious?");
+｛氷室＊＊｝, do you not get anxious?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

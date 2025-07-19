@@ -19,8 +19,7 @@ ChMotion(1,3);
 VoicePlay("G020110303_01_020");
 MsgDisp("Kazama","I empathize with them.");
 MsgDisp("主人公","I think you'd shine a really pretty color
-if you were a firefly,
-｛風真＊＊｝.");
+if you were a firefly, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -10,8 +10,8 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Hey hey.
 You're holding my gift!");
     MsgDisp("主人公","This is your gift, ｛本多＊＊｝?
-Ah, ｛本多＊＊｝, you also got the
-present I brought.");
+Ah, ｛本多＊＊｝, you also got the present I
+brought.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -33,8 +33,8 @@ Then I'm gonna open it right now.");
     MsgDisp("Honda","Your present, cause that's the one I
 picked.");
     MsgDisp("主人公","Huuh, really?
-Hey, ｛本多＊＊｝, did you know
-you got the present I brought in?");
+Hey, ｛本多＊＊｝, did you know you got the
+present I brought in?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);
@@ -64,15 +64,14 @@ could go to you, so this is a miracle.");
     VoicePlay("R060300003_03_070");
     MsgDisp("Honda","But I didn't think it would become a
 reality.");
-    MsgDisp("主人公","Oh, then this is your present,
-｛本多＊＊｝?");
+    MsgDisp("主人公","Oh, then this is your present, ｛本多＊＊｝?");
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("R060300003_03_080");
     MsgDisp("Honda","Ding Ding Ding!
 Right on the money!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝, did you know
-that you also got the present I brought?");
+    MsgDisp("主人公","Ah, ｛本多＊＊｝, did you know that you also
+got the present I brought?");
     ChEye(3,5);
     ChMouth(3,4);
     ChMotion(3,5,1);

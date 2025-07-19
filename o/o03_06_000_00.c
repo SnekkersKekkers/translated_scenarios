@@ -27,8 +27,7 @@ I was kinda surprised.");
     MsgDisp("Himuro","I didn't expect it, but maybe we're a
 little compatible.");
     MsgDisp("主人公","(Yay!
-I got first place with ｛氷室＊＊｝!
-)");
+I got first place with ｛氷室＊＊｝!)");
     break ;
     case 4:
     case 5:
@@ -53,8 +52,7 @@ sync.");
     MsgDisp("Himuro","A happy miscalculation.
 I'm glad I worked with you.");
     MsgDisp("主人公","(First place, huh.
-I'm glad I worked hard with
-｛氷室＊＊｝!)");
+I'm glad I worked hard with ｛氷室＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

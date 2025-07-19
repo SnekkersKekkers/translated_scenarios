@@ -6,8 +6,7 @@ MsgDisp("School Girl","See you later～");
 MsgDisp("主人公","Byebye.");
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, ｛柊＊＊＊｝ sent me a
-message.)");
+MsgDisp("主人公","(Ah, ｛柊＊＊＊｝ sent me a message.)");
 MsgDisp("主人公","(It says...\"I want you to come and see the
 Habataki Theater Company's new play\"
 Eh...Right now∋)");
@@ -65,8 +64,7 @@ ChClose(5);
 VoicePlay("D020500000_05_050");
 MsgDisp("Hiiragi","I will also watch it from here.");
 MsgDisp("主人公","(Eh...
-｛柊＊＊＊｝ isn't
-participating?)");
+｛柊＊＊＊｝ isn't participating?)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -114,17 +112,16 @@ VoicePlay("D020500000_05_080");
 MsgDisp("Hiiragi","Making a production we're proud of and
 meeting the viewer's expectations,
 hopefully we were able to achieve both.");
-MsgDisp("主人公","Yeah...But what about
-｛柊＊＊＊｝? I can't believe
-｛柊＊＊＊｝ isn't in it...");
+MsgDisp("主人公","Yeah...But what about ｛柊＊＊＊｝? I can't
+believe ｛柊＊＊＊｝ isn't in it...");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("D020500000_05_090");
 MsgDisp("Hiiragi","Eh?");
 MsgDisp("主人公","You know, it's not only me—— Nobody
-wants to see ｛柊＊＊＊｝ on
-the sidelines...");
+wants to see ｛柊＊＊＊｝ on the
+sidelines...");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);

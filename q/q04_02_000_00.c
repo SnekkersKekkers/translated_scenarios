@@ -2,8 +2,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(I wonder if ｛颯砂＊＊｝ is
-here...
+    MsgDisp("主人公","(I wonder if ｛颯砂＊＊｝ is here...
 Ah, there he is!)");
     MsgDisp("主人公","｛颯砂＊＊｝.
 Good morning!");

@@ -107,9 +107,9 @@ I was worried.");
         VoicePlay("B040314002_03_110");
         MsgDisp("Honda","About you saying that you were already
 bored of me....");
-        MsgDisp("主人公","｛本多＊＊｝ is always teaching
-me lots of different things, I couldn't
-think such a thing?");
+        MsgDisp("主人公","｛本多＊＊｝ is always teaching me lots of
+different things, I couldn't think such a
+thing?");
         ChMouth(3,4);
         VoicePlay("B040314002_03_120");
         MsgDisp("Honda","Always?");

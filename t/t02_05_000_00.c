@@ -29,9 +29,9 @@ ChMouth(5,4);
 VoicePlay("T020500000_05_020");
 MsgDisp("Hiiragi","...Do you remember when I ate half of your
 bento on the rooftop?");
-MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ You were
-trying to do your student council work
-without even eating lunch.");
+MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ You were trying to do
+your student council work without even
+eating lunch.");
 Wait(60,0);
 ChEye(5,4);
 ChMouth(5,0);

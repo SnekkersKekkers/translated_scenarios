@@ -13,8 +13,7 @@ ScrFadeOut(0);
 BGOpen("fp100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah, that's......
-｛七ツ森＊｝, not
-Nana-kun!)");
+｛七ツ森＊｝, not Nana-kun!)");
 MsgDisp("主人公","(I wonder if he'll let me interview him?)");
 MsgClose();
 ScrFadeOut(0);

@@ -34,8 +34,8 @@ MsgDisp("Kazama","Well, I didn't have a role to play.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","That's not true.
-I was relieved because
-｛風真＊＊｝ was there with me.");
+I was relieved because ｛風真＊＊｝ was
+there with me.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

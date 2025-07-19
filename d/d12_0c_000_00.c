@@ -10,15 +10,14 @@ ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(5);
 VoicePlay("D120C00000_05_000");
-MsgDisp("Hiiragi","｛主人公｝, how about we get some
-lunch on the way home?");
+MsgDisp("Hiiragi","｛主人公｝, how about we get some lunch on
+the way home?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D120C00000_06_000");
 MsgDisp("Himuro","You have time, right?");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝ and
-｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛柊＊＊＊｝ and ｛氷室＊＊｝.
 Yeah, that sounds good!");
 ChEye(6,0);
 ChMouth(6,4);
@@ -32,9 +31,9 @@ VoicePlay("D120C00000_05_010");
 MsgDisp("Hiiragi","That's correct.
 But I think it might be troublesome if we
 were to invite him in the staff room?");
-MsgDisp("主人公","Yeah...Ah! I think
-｛御影＊＊｝ is actually
-in the Gardening Club around this time?");
+MsgDisp("主人公","Yeah...Ah! I think ｛御影＊＊｝ is
+actually in the Gardening Club around this
+time?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
@@ -233,8 +232,9 @@ MsgDisp("Mikage","Alright.
 Let's get going before they find out.");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(Haa, that was fun! Having a barbecue at
-school...｛御影＊＊｝, thank you so much!)");
+MsgDisp("主人公","(Haa, that was fun!
+Having a barbecue at school...
+｛御影＊＊｝, thank you so much!)");
 BGMStop();
 MsgClose();
 ChPrmTblAdd(5,0);

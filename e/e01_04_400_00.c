@@ -14,8 +14,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
 ChOpen(4,255,0,0,3,#1,#1,0,1);
 ChOpen(21,255,3,0,4,#1,#1,0,2);
-MsgDisp("主人公","(｛七ツ森＊｝ and
-｛みちる＊｝!)");
+MsgDisp("主人公","(｛七ツ森＊｝ and ｛みちる＊｝!)");
 VoicePlay("E010440000_21_010");
 MsgDisp("Michiru","You don't need to be surprised about it.");
 ChEye(4,1);
@@ -66,10 +65,9 @@ ChMotion(4,0,1);
 VoicePlay("E010440000_04_060");
 MsgDisp("Nanatsumori","...Hmph!
 Aren't Michiru and I the same age as you?");
-MsgDisp("主人公","That's true. By the way, what were you
-talking about?
-｛みちる＊｝'s face was
-bright red.");
+MsgDisp("主人公","That's true.
+By the way, what were you talking about?
+｛みちる＊｝'s face was bright red.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,4,1);

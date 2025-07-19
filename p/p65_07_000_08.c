@@ -5,10 +5,9 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("P650700008_07_000");
-MsgDisp("Mikage","｛主人公｝, this stylish cafe has
-a good reputation.");
-MsgDisp("主人公","｛御影＊＊｝, does it
-really!");
+MsgDisp("Mikage","｛主人公｝, this stylish cafe has a good
+reputation.");
+MsgDisp("主人公","｛御影＊＊｝, does it really!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

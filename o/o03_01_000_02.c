@@ -69,8 +69,8 @@ too.");
     MsgDisp("Kazama","It depends on how you look at it.
 For us, last is fine, isn't it?");
     MsgDisp("主人公","(Last, huh...
-But ｛風真＊＊｝ doesn't seem
-to care about our rank...)");
+But ｛風真＊＊｝ doesn't seem to care
+about our rank...)");
     break ;
     default :
     DbgAssert(1);

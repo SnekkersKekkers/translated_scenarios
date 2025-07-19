@@ -5,9 +5,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(My last Christmas in high school is
 over...)");
-MsgDisp("主人公","(Which reminds me,
-｛大地＊＊｝ is having a
-Hanegasaki Christmas party and then he's
+MsgDisp("主人公","(Which reminds me, ｛大地＊＊｝ is having
+a Hanegasaki Christmas party and then he's
 going on a ski trip.)");
 MsgDisp("主人公","...Wish I could have gone with them.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -113,8 +112,7 @@ VoicePlay("R080800000_08_100");
 MsgDisp("Shirahane","Ah...it's warm.
 Your hand.");
 MsgDisp("主人公","Hehe.
-｛大地＊＊｝, your hands are
-cold...");
+｛大地＊＊｝, your hands are cold...");
 StlEye(8,0,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,0,1);

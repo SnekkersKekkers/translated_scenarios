@@ -67,8 +67,7 @@ Wh, what's wrong?");
 You thought of me, huh?
 Your heart's in these.");
     MsgDisp("主人公","Yeah.
-I made it just for you,
-｛大地＊＊｝.");
+I made it just for you, ｛大地＊＊｝.");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("L040800003_08_080");

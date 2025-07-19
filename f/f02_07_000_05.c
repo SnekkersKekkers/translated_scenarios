@@ -42,9 +42,9 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700005_07_040");
 MsgDisp("Mikage","But, making tests doesn't suit me.");
-MsgDisp("主人公","If ｛御影＊＊｝ could
-make the questions like he liked, everyone
-would probably get better grades.");
+MsgDisp("主人公","If ｛御影＊＊｝ could make the
+questions like he liked, everyone would
+probably get better grades.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,3);

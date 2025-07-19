@@ -119,8 +119,8 @@ in the water tank?");
         VoicePlay("B040403202_04_120");
         MsgDisp("Nanatsumori","Pfft...ahaha!
 You really are the best.");
-        MsgDisp("主人公","(Ah...Just now, didn't
-｛七ツ森＊｝'s face look
+        MsgDisp("主人公","(Ah...
+Just now, didn't ｛七ツ森＊｝'s face look
 like he was sparkling lots right now?)");
         break ;
         default :

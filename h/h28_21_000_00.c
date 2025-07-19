@@ -16,8 +16,7 @@ switch (ChPrmGet(21,6)){
     VoicePlay("H282100000_21_000");
     MsgDisp("Michiru","Mari, I found you.");
     MsgDisp("主人公","Hm?
-｛みちる＊｝, you came to
-support us?");
+｛みちる＊｝, you came to support us?");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,0);
@@ -76,8 +75,7 @@ Mari, who's supporting the team.");
     ChMotion(21,3);
     VoicePlay("H282100000_21_060");
     MsgDisp("Michiru","Yeah, fight on!");
-    MsgDisp("主人公","(Alright, for
-｛みちる＊｝ too, let's
+    MsgDisp("主人公","(Alright, for ｛みちる＊｝ too, let's
 do our best!)");
     BGMStop();
     MsgClose();

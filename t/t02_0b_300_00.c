@@ -1,8 +1,8 @@
 BGOpen("sc211",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...｛風真＊＊｝, missed the
-graduation ceremony...)");
+MsgDisp("主人公","(...｛風真＊＊｝, missed the graduation
+ceremony...)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 VoiceEVSPlay(1);

@@ -17,5 +17,4 @@ MsgDisp("Nanatsumori","No, I'll refuse anything impossible.
 ...But I might lose confidence with that
 doe-eyed look...");
 MsgDisp("主人公","(Awesome!
-｛七ツ森＊｝ seems to
-have liked it!)");
+｛七ツ森＊｝ seems to have liked it!)");

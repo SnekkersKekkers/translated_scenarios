@@ -95,9 +95,8 @@ MsgDisp("","Please forgive me.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("","｛主人公苗字｝
-｛主人公名前｝ This heart
-of mine, will be with you for all of
+MsgDisp("","｛主人公苗字｝ ｛主人公名前｝ This heart of
+mine, will be with you for all of
 eternity.");
 MsgClear();
 BGMStop();

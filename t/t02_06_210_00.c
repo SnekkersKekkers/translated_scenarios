@@ -41,8 +41,7 @@ VoicePlay("T020621000_06_040");
 MsgDisp("Himuro","Meeting upperclassmen I respect and even
 going out together, and getting along with
 my teachers...");
-MsgDisp("主人公","Are you talking about
-｛柊＊＊＊｝ and
+MsgDisp("主人公","Are you talking about ｛柊＊＊＊｝ and
 ｛御影＊＊｝?");
 ChEye(6,0);
 ChMouth(6,4);

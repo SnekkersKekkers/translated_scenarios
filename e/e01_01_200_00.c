@@ -19,8 +19,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,255,0,0,2,8,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","Just as I guessed!
-｛風真＊＊｝ and
-｛氷室＊＊｝!");
+｛風真＊＊｝ and ｛氷室＊＊｝!");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);

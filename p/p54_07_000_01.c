@@ -32,8 +32,7 @@ ChMotion(7,0);
 VoicePlay("P540700001_07_030");
 MsgDisp("Mikage","Then, come and talk to everyone properly.");
 MsgDisp("主人公","Yes.
-｛御影＊＊｝, thank you
-very much.");
+｛御影＊＊｝, thank you very much.");
 MsgDisp("主人公","(｛御影＊＊｝ had to cheer me up...
 If only I had practiced more...)");
 MsgClose();

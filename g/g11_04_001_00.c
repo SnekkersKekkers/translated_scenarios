@@ -67,8 +67,8 @@ VoicePlay("G110400100_04_070");
 MsgDisp("Nanatsumori","No problem.
 I look forward to your review then.");
 MsgDisp("主人公","(Huh, a review? In any case, that's
-impressive, ｛七ツ森＊｝.
-You got here fast...!)");
+impressive, ｛七ツ森＊｝. You got here
+fast...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

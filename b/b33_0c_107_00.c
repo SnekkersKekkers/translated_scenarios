@@ -106,8 +106,7 @@ MsgDisp("Hiiragi","Well, let's enjoy ourselves to the
 fullest?");
 MsgDisp("主人公","Yeah...!");
 MsgDisp("主人公","(I'm happy but, Is it really okay to leave
-｛氷室＊＊｝ and
-｛御影＊＊｝ behind?)");
+｛氷室＊＊｝ and ｛御影＊＊｝ behind?)");
 BGMStop();
 MsgClose();
 ChEye(5,0);

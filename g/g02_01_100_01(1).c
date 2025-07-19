@@ -72,10 +72,9 @@ ChMotion(1,1);
 VoicePlay("G020110001_01_090");
 MsgDisp("Kazama","...Huh?
 The scent of roses is gone.");
-MsgDisp("主人公","(To think that the reason
-｛風真＊＊｝ likes sweets is
-because of me...It's somewhat
-embarrassing.)");
+MsgDisp("主人公","(To think that the reason ｛風真＊＊｝
+likes sweets is because of me...
+It's somewhat embarrassing.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

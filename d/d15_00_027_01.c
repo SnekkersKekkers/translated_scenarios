@@ -41,8 +41,7 @@ VoicePlay ( "D150002701_02_020" ) ;
 MsgDisp ( "Sassa","It helps me to talk to Mikage-sensei about
 my diet and my training.
 He gives me confidence." ) ;
-MsgDisp ( "主人公","As expected of
-｛御影＊＊｝." ) ;
+MsgDisp ( "主人公","As expected of ｛御影＊＊｝." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,1 ) ;

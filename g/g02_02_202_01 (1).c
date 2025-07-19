@@ -18,8 +18,8 @@ ChMotion(2,4);
 VoicePlay("G020220201_02_020");
 MsgDisp("Sassa","I don't know if he was born like that, but
 it's impressive.");
-MsgDisp("主人公","Hahah, it sounds like you like
-｛氷室＊＊｝, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Hahah, it sounds like you like ｛氷室＊＊｝,
+｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);
@@ -54,9 +54,8 @@ ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020220201_02_070");
 MsgDisp("Sassa","...Do I have any chance of winning?");
-MsgDisp("主人公","(It seems like ｛颯砂＊＊｝ is
-concerned about ｛氷室＊＊｝ and
-me...)");
+MsgDisp("主人公","(It seems like ｛颯砂＊＊｝ is concerned
+about ｛氷室＊＊｝ and me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

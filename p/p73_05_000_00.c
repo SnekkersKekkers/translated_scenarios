@@ -56,8 +56,8 @@ little easier, right?");
 I forgot to mention something important.
 That outfit suits you very well.");
     MsgDisp("主人公","Thank you...!");
-    MsgDisp("主人公","(I feel like ｛柊＊＊＊｝ gave
-me the push I needed.
+    MsgDisp("主人公","(I feel like ｛柊＊＊＊｝ gave me the push
+I needed.
 Let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -115,9 +115,9 @@ forget your apprehension, okay?");
     MsgDisp("Hiiragi","It'll be alright. If it's you, you'll be
 able to charm the audience. I am current
 proof of that.");
-    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝. Yes, I
-should go out with a little confidence.
-Let's do our best!)");
+    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝. Yes, I should go
+out with a little confidence. Let's do our
+best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

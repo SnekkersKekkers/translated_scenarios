@@ -86,8 +86,8 @@ were together.");
     MsgDisp("Sassa","Maybe it's not that bad to be tied
 together like this?
 -Wait, what am I saying?");
-    MsgDisp("主人公","(I can't tell if ｛颯砂＊＊｝ is
-frustrated or not...)");
+    MsgDisp("主人公","(I can't tell if ｛颯砂＊＊｝ is frustrated
+or not...)");
     break ;
     default :
     DbgAssert(1);

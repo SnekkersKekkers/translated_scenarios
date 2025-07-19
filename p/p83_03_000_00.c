@@ -17,8 +17,8 @@ is...organizing the documents.)");
     VoicePlay("P830300000_03_000");
     MsgDisp("Honda","Huh?
 What are you up to?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. The student
-council committee have been entrusted with
+    MsgDisp("主人公","Ah, ｛本多＊＊｝. The student council
+committee have been entrusted with
 managing the cultural festival.");
     ChEye(3,0);
     ChMouth(3,3);

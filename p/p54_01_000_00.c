@@ -14,8 +14,7 @@ MsgDisp("Kazama","Congratulations.
 Naturally you would get a standing
 ovation.");
 MsgDisp("主人公","Yes, I'm super happy.
-What did you think,
-｛風真＊＊｝?");
+What did you think, ｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -23,8 +22,7 @@ VoicePlay("P540100000_01_010");
 MsgDisp("Kazama","It was good.
 ...I was the first one to stand up.");
 MsgDisp("主人公","(Yay!
-I'm happy that ｛風真＊＊｝
-seems happy!)");
+I'm happy that ｛風真＊＊｝ seems happy!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

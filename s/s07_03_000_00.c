@@ -83,8 +83,7 @@ health of my favorite things.");
     ChMotion(3,0,1);
     VoicePlay("S070300000_03_090");
     MsgDisp("Honda","How's that?");
-    MsgDisp("主人公","｛本多＊＊｝ loves so many
-things.
+    MsgDisp("主人公","｛本多＊＊｝ loves so many things.
 That'll make it hard for the Gods, huh?");
     ChEye(3,2);
     ChMouth(3,4);

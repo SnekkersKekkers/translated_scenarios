@@ -41,8 +41,7 @@ Ahhh, I can't wait for Sunday.
 See you later?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","｛本多＊＊｝, Invited me on a
-date.
+        MsgDisp("主人公","｛本多＊＊｝, Invited me on a date.
 I'm looking forward to Sunday!)");
         break ;
         default :

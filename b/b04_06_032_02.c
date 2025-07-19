@@ -60,9 +60,8 @@ would be jealous of the couples.");
         MsgDisp("Himuro","Why?
 It's a penguin, so it doesn't matter
 either way?");
-        MsgDisp("主人公","But if I were a penguin, and
-｛氷室＊＊｝ came here on a date
-...");
+        MsgDisp("主人公","But if I were a penguin, and ｛氷室＊＊｝
+came here on a date ...");
         ChEye(6,0);
         ChMouth(6,1);
         ChMotion(6,0);

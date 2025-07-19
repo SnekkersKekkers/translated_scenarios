@@ -79,9 +79,8 @@ that.");
         ChMotion(5,4);
         VoicePlay("B040511102_05_080");
         MsgDisp("Hiiragi","An Ice Show huh...");
-        MsgDisp("主人公","Seeing ｛柊＊＊＊｝ perform on
-ice in a beautiful costume would be
-wonderful.");
+        MsgDisp("主人公","Seeing ｛柊＊＊＊｝ perform on ice in a
+beautiful costume would be wonderful.");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

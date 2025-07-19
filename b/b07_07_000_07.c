@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛御影＊＊｝, do you have
-any dreams for the future?");
+MsgDisp("主人公","｛御影＊＊｝, do you have any dreams for
+the future?");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -33,8 +33,7 @@ VoicePlay("B070700000_07_410");
 MsgDisp("Mikage","In shogi.
 With shogi, I'll be able to make Vice
 Principal Himuro bow his head in defeat.");
-MsgDisp("主人公","｛御影＊＊｝, are you good
-at shogi?");
+MsgDisp("主人公","｛御影＊＊｝, are you good at shogi?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

@@ -20,8 +20,7 @@ I haven't found a partner yet...");
     ChMotion(7,3);
     VoicePlay("O030701000_07_010");
     MsgDisp("Mikage","I see, that's a problem...");
-    MsgDisp("主人公","...What about you,
-｛御影＊＊｝?");
+    MsgDisp("主人公","...What about you, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -39,8 +38,7 @@ three-legged race...)");
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("O030701000_07_030");
-    MsgDisp("Mikage","｛主人公｝, have you found a
-partner yet?");
+    MsgDisp("Mikage","｛主人公｝, have you found a partner yet?");
     MsgDisp("主人公","No, not yet.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -53,8 +51,7 @@ partner yet?");
     ChMotion(7,0);
     VoicePlay("O030701000_07_050");
     MsgDisp("Mikage","Sorry, sorry, you're right.");
-    MsgDisp("主人公","Are you participating,
-｛御影＊＊｝?");
+    MsgDisp("主人公","Are you participating, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -80,8 +77,7 @@ three-legged race...)");
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("O030701000_07_080");
-    MsgDisp("Mikage","｛主人公｝, have you found a
-partner yet?");
+    MsgDisp("Mikage","｛主人公｝, have you found a partner yet?");
     MsgDisp("主人公","No, not yet.");
     ChEye(7,0);
     ChMouth(7,0);

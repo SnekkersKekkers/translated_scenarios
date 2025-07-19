@@ -8,8 +8,7 @@ ScrFadeIn(0);
 ChMouthOpenLevel(4,0);
 VoicePlay("P140400001_04_000");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝, welcome
-back!
+MsgDisp("主人公","Ah, ｛七ツ森＊｝, welcome back!
 How was it?");
 ChEye(4,2);
 ChMouth(4,0);

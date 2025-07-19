@@ -3,18 +3,16 @@ BGMPlay("BGM_CLUB_IVENT",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(We're at the National Track and Field
-Tournament! Just now I saw
-｛颯砂＊＊｝ surrounded by
-reporters.)");
-MsgDisp("主人公","(Isn't ｛大地＊＊｝ also here
-today?
+Tournament! Just now I saw ｛颯砂＊＊｝
+surrounded by reporters.)");
+MsgDisp("主人公","(Isn't ｛大地＊＊｝ also here today?
 I wonder which events he'll do?)");
 VoicePlay("D010800200_46_000");
 MsgDisp("Broadcast","All athletes participating in the men's
 400m Octathlon, please come to the
 starting area.");
-MsgDisp("主人公","Ah...It's ｛颯砂＊＊｝'s turn to
-compete in the Octathalon. Let's go watch!");
+MsgDisp("主人公","Ah...It's ｛颯砂＊＊｝'s turn to compete in
+the Octathalon. Let's go watch!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -33,8 +31,8 @@ SEPlay("EV_SE_GAYA_003",0.5);
 SEPlay("EV_SE_792",0.5);
 SEPlay("EV_SE_847",0.5);
 MsgDisp("主人公","(Woah, everyone is so fast!
-Like you'd expect, ｛颯砂＊＊｝
-is in the lead!)");
+Like you'd expect, ｛颯砂＊＊｝ is in the
+lead!)");
 MsgDisp("主人公","(The guy in the orange behind him is also
 very fast!
 ...Wait, is that?)");
@@ -61,8 +59,7 @@ I don't know who to root for...!)");
 SEPlay("EV_SE_793",0.3);
 SEPlay("EV_SE_GAYA_011");
 MsgDisp("主人公","Try your best!
-｛大地＊＊｝,
-｛颯砂＊＊｝ ∈");
+｛大地＊＊｝, ｛颯砂＊＊｝ ∈");
 SEStop("EV_SE_791",2);
 SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_793",2);
@@ -78,8 +75,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc624",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛颯砂＊＊｝ got 1st and
-｛大地＊＊｝ got 2nd, huh?
+MsgDisp("主人公","(｛颯砂＊＊｝ got 1st and ｛大地＊＊｝ got
+2nd, huh?
 In the end it was a close match...)");
 MsgDisp("主人公","(The two of them are really amazing.
 My heart is still racing...)");
@@ -127,8 +124,8 @@ MsgDisp("Shirahane","Yeah, I'm satisfied, though!
 After all, the king is a genius!
 So I can relax now.");
 MsgDisp("主人公","(｛大地＊＊｝ was also amazing, though.
-...By king, does he maybe mean
-｛颯砂＊＊｝?)");
+...By king, does he maybe mean ｛颯砂＊＊｝?
+)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

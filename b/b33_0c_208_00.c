@@ -25,8 +25,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C20800_07_010");
-MsgDisp("Mikage","｛主人公｝, I brought some
-vegetables too Please prepare them.");
+MsgDisp("Mikage","｛主人公｝, I brought some vegetables too
+Please prepare them.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

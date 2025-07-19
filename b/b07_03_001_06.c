@@ -1,7 +1,6 @@
 MsgDisp("主人公","Lately, it's become pretty normal for us
 to hang out together— you, me,
-｛風真＊＊｝, and
-｛七ツ森＊｝.");
+｛風真＊＊｝, and ｛七ツ森＊｝.");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);

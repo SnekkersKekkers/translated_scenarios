@@ -19,8 +19,7 @@ VoicePlay("G020120001_01_020");
 MsgDisp("Kazama","I waited ten years.
 So I'm not gonna just give up and fade
 into the background.");
-MsgDisp("主人公","Is something wrong,
-｛風真＊＊｝?");
+MsgDisp("主人公","Is something wrong, ｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);

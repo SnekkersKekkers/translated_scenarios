@@ -30,8 +30,7 @@ Wait(12,0);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_230");
-MsgDisp("Kazama","｛主人公｝, you were my
-everything.");
+MsgDisp("Kazama","｛主人公｝, you were my everything.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);

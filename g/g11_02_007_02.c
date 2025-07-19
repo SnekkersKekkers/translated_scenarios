@@ -43,8 +43,8 @@ SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200702_02_020");
-MsgDisp("Sassa","｛主人公｝, let's run together to
-cool down.");
+MsgDisp("Sassa","｛主人公｝, let's run together to cool
+down.");
 MsgDisp("主人公","Yes.
 How was it?
 Did you have a good practice?");

@@ -58,8 +58,8 @@ MsgDisp("Mikage","Oh, is that so? Thank you very much. But
 actually, the system only works for real
 couples.");
 MsgDisp("主人公","(Hehe.
-｛御影＊＊｝, thank you
-for always entertaining me like this!)");
+｛御影＊＊｝, thank you for always
+entertaining me like this!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

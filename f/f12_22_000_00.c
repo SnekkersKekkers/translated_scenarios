@@ -32,8 +32,7 @@ VoicePlay("F122200000_22_020");
 MsgDisp("Hikaru","Well, it's almost Valentine's Day.
 You have to get it right!");
 MsgDisp("主人公","Ah, yeah.
-What about you,
-｛ひかる＊｝?");
+What about you, ｛ひかる＊｝?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

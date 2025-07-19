@@ -54,9 +54,9 @@ ChMouth(1,3);
 VoicePlay("G020110401_01_060");
 MsgDisp("Kazama","Yeah, so I promise to surprise you.
 One day.");
-MsgDisp("主人公","(What kind of surprise does
-｛風真＊＊｝ have up his
-sleeve? I can't wait!)");
+MsgDisp("主人公","(What kind of surprise does ｛風真＊＊｝
+have up his sleeve?
+I can't wait!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

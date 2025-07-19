@@ -44,16 +44,15 @@ warrior?");
         MsgDisp("Kazama","Right.
 Something that I would be even more scared
 of.");
-        MsgDisp("主人公","What are you scared of,
-｛風真＊＊｝?");
+        MsgDisp("主人公","What are you scared of, ｛風真＊＊｝?");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123502_01_040");
         MsgDisp("Kazama","I won't tell you that easily.");
-        MsgDisp("主人公","Eh, is there such a thing? I thought
-｛風真＊＊｝ could do anything,
+        MsgDisp("主人公","Eh, is there such a thing?
+I thought ｛風真＊＊｝ could do anything,
 and didn't have anything he was scared of.");
         ChEye(1,0);
         ChMouth(1,2);

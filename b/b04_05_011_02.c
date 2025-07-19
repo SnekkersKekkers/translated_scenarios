@@ -66,9 +66,9 @@ front of you.");
         MsgDisp("Hiiragi","What is it about you that causes this...
 I am surprised that such feelings
 themselves remain within me.");
-        MsgDisp("主人公","｛柊＊＊＊｝, I would be happy
-if you were to talk to me about whatever
-was on your mind.");
+        MsgDisp("主人公","｛柊＊＊＊｝, I would be happy if you were
+to talk to me about whatever was on your
+mind.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,3);

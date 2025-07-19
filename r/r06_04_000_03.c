@@ -12,8 +12,8 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","Oh...that's mine.");
     MsgDisp("主人公","｛七ツ森＊｝.
 I knew it!");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝, you got
-the gift I brought too.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝, you got the gift I
+brought too.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("R060400003_04_010");
@@ -37,8 +37,8 @@ You're the one that bought this present,
     MsgDisp("Nanatsumori","Yeah.
 Do you like it?");
     MsgDisp("主人公","Yeah!
-Hey, ｛七ツ森＊｝, you
-know you got the present I brought, right?");
+Hey, ｛七ツ森＊｝, you know you got the
+present I brought, right?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -65,8 +65,8 @@ I'm guessing this is your gift then,
 I'm glad that you are the one that got it.");
     MsgDisp("主人公","Hehe.
 I'm glad too!");
-    MsgDisp("主人公","Hey, ｛七ツ森＊｝, you
-also got the present that I brought in.");
+    MsgDisp("主人公","Hey, ｛七ツ森＊｝, you also got the
+present that I brought in.");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,0,1);

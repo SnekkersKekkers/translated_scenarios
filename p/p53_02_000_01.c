@@ -59,8 +59,7 @@ Hey, you can't say that kind of stuff!");
     MsgDisp("Sassa","Then, please play as if you're playing a
 fun game!");
     MsgDisp("主人公","Hehe, I got it!");
-    MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝
-says.
+    MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝ says.
 Games have to be fun!)");
     break ;
     case 4:
@@ -74,8 +73,8 @@ There's a huge audience...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200001_02_070");
-    MsgDisp("Sassa","｛主人公｝, I came to listen to
-some gaming music.");
+    MsgDisp("Sassa","｛主人公｝, I came to listen to some gaming
+music.");
     MsgDisp("主人公","｛颯砂＊＊｝.
 Thank you.");
     ChEye(2,0);
@@ -119,9 +118,9 @@ I do it to set my own records.");
 people don't listen to it, right?");
     MsgDisp("主人公","Yeah...that's right, huh.
 Thank you, ｛颯砂＊＊｝!");
-    MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝
-says. For the many people who want to hear
-it, I have to give it my all!)");
+    MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝ says.
+For the many people who want to hear it, I
+have to give it my all!)");
     break ;
     default :
     DbgAssert(1);

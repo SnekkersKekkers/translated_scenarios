@@ -36,8 +36,8 @@ VoicePlay("E010630100_06_020");
 MsgDisp("Himuro","Kojiro-senpai...
 Why are you here?");
 MsgDisp("主人公","Huh?
-Isn't ｛御影＊＊｝ the
-person you're meeting with?");
+Isn't ｛御影＊＊｝ the person you're
+meeting with?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

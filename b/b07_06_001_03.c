@@ -45,9 +45,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_230");
 MsgDisp("Himuro","Haa...that's not like me...");
-MsgDisp("主人公","(I wonder if ｛氷室＊＊｝ is
-content with the current situation in his
-own way?)");
+MsgDisp("主人公","(I wonder if ｛氷室＊＊｝ is content with
+the current situation in his own way?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

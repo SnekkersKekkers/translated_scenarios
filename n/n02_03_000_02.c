@@ -79,8 +79,8 @@ people's exam results...");
 appeared higher up.
 I wonder why...");
     MsgDisp("主人公","(To be honest, it is a bit embarrassing to
-be with ｛本多＊＊｝ who is
-currently leading the grade...)");
+be with ｛本多＊＊｝ who is currently
+leading the grade...)");
     break ;
     default :
     DbgAssert(1);

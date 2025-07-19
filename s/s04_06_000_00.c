@@ -82,8 +82,8 @@ I'll come pick you up, so wait for me.");
 I'll come slowly.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A shrine visit with ｛氷室＊＊｝
-Now what to wear?)");
+        MsgDisp("主人公","(A shrine visit with ｛氷室＊＊｝ Now what
+to wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

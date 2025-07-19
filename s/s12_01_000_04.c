@@ -35,8 +35,8 @@ high school years?");
 Such an ungrateful person.
 You're still the same as always.");
     MsgDisp("主人公","Geez, seems like there's going to be a lot
-of nagging from ｛風真＊＊｝
-this year too...");
+of nagging from ｛風真＊＊｝ this year
+too...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -47,8 +47,8 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
     MsgDisp("主人公","(My last New Year shrine visit as a
-Habataki student. I'm glad it was with
-｛風真＊＊｝.)");
+Habataki student.
+I'm glad it was with ｛風真＊＊｝.)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -113,8 +113,8 @@ every year.");
     ChMotion(1,0);
     VoiceEVSPlay(1);
     VoicePlay("S120100004_01_090");
-    MsgDisp("Kazama","｛主人公｝, the weather's changed
-a bit somehow...
+    MsgDisp("Kazama","｛主人公｝, the weather's changed a bit
+somehow...
 Is it going to snow?");
     MsgDisp("主人公","Perhaps rain?");
     ChEye(1,0);

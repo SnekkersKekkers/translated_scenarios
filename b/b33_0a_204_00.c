@@ -109,9 +109,9 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330A20400_06_030");
 MsgDisp("Himuro","Yeah, I'll be cheering you on.");
-MsgDisp("主人公","Yes, me too. Hehe, this is kind of turning
-into a send-off party for
-｛颯砂＊＊｝, isn't it?");
+MsgDisp("主人公","Yes, me too.
+Hehe, this is kind of turning into a
+send-off party for ｛颯砂＊＊｝, isn't it?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);

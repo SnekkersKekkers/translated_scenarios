@@ -3,5 +3,4 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","Oh, a message from
-｛大地＊＊｝.");
+MsgDisp("主人公","Oh, a message from ｛大地＊＊｝.");

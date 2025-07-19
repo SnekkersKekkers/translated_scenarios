@@ -26,8 +26,7 @@ MsgDisp("Honda","Ah, I prepared in advance...
 I wanted to say something cool while
 looking at the illuminations.");
 MsgDisp("主人公","Um...
-I think I prefer the usual
-｛本多＊＊｝.");
+I think I prefer the usual ｛本多＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

@@ -40,9 +40,9 @@ failed.");
         ChMotion(2,4);
         VoicePlay("B040208202_02_030");
         MsgDisp("Sassa","You're know this town well right?");
-        MsgDisp("主人公","But ｛颯砂＊＊｝ is very
-knowledgable not just about track and
-field but also exercise and the body too.");
+        MsgDisp("主人公","But ｛颯砂＊＊｝ is very knowledgable not
+just about track and field but also
+exercise and the body too.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);

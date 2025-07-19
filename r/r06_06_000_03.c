@@ -13,8 +13,8 @@ switch (ChPrmGet(6,6)){
     VoicePlay("R060600003_06_010");
     MsgDisp("Himuro","That's the present I brought.");
     MsgDisp("主人公","That's right!
-...Uh, ｛氷室＊＊｝, did you know
-you also got my present I brought?");
+...Uh, ｛氷室＊＊｝, did you know you also
+got my present I brought?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -79,8 +79,8 @@ What a coincidence.");
     VoicePlay("R060600003_06_100");
     MsgDisp("Himuro","That's the one I brought.
 I'm glad that you got it.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝, it seems you also
-got mine...");
+    MsgDisp("主人公","Ah, ｛氷室＊＊｝, it seems you also got
+mine...");
     ChEye(6,4);
     ChMouth(6,0);
     ChMotion(6,5);

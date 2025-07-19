@@ -1,7 +1,5 @@
-MsgDisp("主人公","It's become natural for me,
-｛氷室＊＊｝,
-｛柊＊＊＊｝ and
-｛御影＊＊｝ to be
+MsgDisp("主人公","It's become natural for me, ｛氷室＊＊｝,
+｛柊＊＊＊｝ and ｛御影＊＊｝ to be
 together.");
 ChEye(6,2);
 ChMouth(6,0);

@@ -12,8 +12,7 @@ ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410101_04_010");
 MsgDisp("Nanatsumori","Yeah...");
-MsgDisp("主人公","｛七ツ森＊｝...are you
-listening?");
+MsgDisp("主人公","｛七ツ森＊｝...are you listening?");
 ChEye(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020410101_04_020");

@@ -83,8 +83,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 Wait(40,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝, thanks for walking
-me home.
+MsgDisp("主人公","｛本多＊＊｝, thanks for walking me home.
 Um...are you okay?");
 ChEye(3,2);
 ChMouth(3,0);

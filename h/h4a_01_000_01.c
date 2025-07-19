@@ -28,8 +28,7 @@ You really impressed me out there.");
     MsgDisp("Kazama","It's okay.
 The audience saw what you wanted to
 convey.");
-    MsgDisp("主人公","Hehe, you're pretty nice,
-｛風真＊＊｝.
+    MsgDisp("主人公","Hehe, you're pretty nice, ｛風真＊＊｝.
 Thanks.");
     ChEye(1,2);
     ChMouth(1,3);
@@ -39,8 +38,7 @@ Thanks.");
 I'd be in trouble if you won and went out
 of reach.");
     MsgDisp("主人公","(I'm disappointed that I lost, but I'm
-happy to hear how ｛風真＊＊｝
-feels.)");
+happy to hear how ｛風真＊＊｝ feels.)");
     break ;
     case 4:
     case 5:

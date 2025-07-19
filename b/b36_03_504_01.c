@@ -57,9 +57,9 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B360350401_03_060");
 MsgDisp("Honda","I wonder if I should secretly confess that
 we went to see the illuminations together.");
-MsgDisp("主人公","(Huh∋ Does ｛本多＊＊｝ see
-｛風真＊＊｝ as an object of
-observation?)");
+MsgDisp("主人公","(Huh∋
+Does ｛本多＊＊｝ see ｛風真＊＊｝ as an
+object of observation?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

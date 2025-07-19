@@ -90,9 +90,9 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A04100_02_060");
 MsgDisp("Sassa","Scary...");
-MsgDisp("主人公","Hehe! ｛風真＊＊｝ and
-｛颯砂＊＊｝ are no match for
-｛氷室＊＊｝, huh?");
+MsgDisp("主人公","Hehe!
+｛風真＊＊｝ and ｛颯砂＊＊｝ are no match
+for ｛氷室＊＊｝, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

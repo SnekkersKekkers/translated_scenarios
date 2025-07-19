@@ -39,9 +39,8 @@ ChMotion(1,0);
 VoicePlay("D010100900_01_030");
 MsgDisp("Kazama","While I was gone, did you hear that bell?");
 MsgDisp("主人公","...The bell, do you mean that church bell
-that ｛風真＊＊｝ used to hear?
-It's weird but I haven't heard it since
-then.");
+that ｛風真＊＊｝ used to hear? It's weird
+but I haven't heard it since then.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

@@ -1,8 +1,8 @@
 BGOpen("sc300",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...｛風真＊＊｝, missed the
-graduation ceremony...)");
+MsgDisp("主人公","(...｛風真＊＊｝, missed the graduation
+ceremony...)");
 SEPlay("EV_SE_DOOR_025");
 SEWait();
 VoiceEVSPlay(1);
@@ -76,8 +76,7 @@ ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("T020A30000_02_010");
 MsgDisp("Sassa","Huh?");
-MsgDisp("主人公","｛颯砂＊＊｝, congratulations on
-graduating!");
+MsgDisp("主人公","｛颯砂＊＊｝, congratulations on graduating!");
 ChEye(1,2);
 ChMouth(1,3);
 ChEye(2,3);
@@ -230,8 +229,8 @@ ChMotion(1,3);
 VoicePlay("T020A30000_01_110");
 MsgDisp("Kazama","Obviously.");
 MsgDisp("主人公","Yes.
-｛氷室＊＊｝ the three of us will
-come celebrate your graduation.");
+｛氷室＊＊｝ the three of us will come
+celebrate your graduation.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

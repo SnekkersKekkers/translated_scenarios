@@ -66,8 +66,8 @@ ChMotion(4,0,1);
 ChCheek(4,8);
 VoiceEVSPlay(4);
 VoicePlay("B360450400_04_080");
-MsgDisp("Nanatsumori","｛主人公｝...seriously, this might
-become serious.");
+MsgDisp("Nanatsumori","｛主人公｝...seriously, this might become
+serious.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

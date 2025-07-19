@@ -63,8 +63,7 @@ ChEye(4,1);
 ChMouth(4,1);
 MsgDisp("Nanatsumori","Don't take it so seriously...");
 MsgDisp("主人公","Really?
-｛七ツ森＊｝, you're so
-cool.");
+｛七ツ森＊｝, you're so cool.");
 VoicePlay("G110400702_04_070");
 ChMouthOpenLevel(4,0);
 ChCheek(4,8);

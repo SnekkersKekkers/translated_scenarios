@@ -11,9 +11,7 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("Q090C00000_07_000");
 MsgDisp("Mikage","Oh, here you are.");
-MsgDisp("主人公","｛柊＊＊＊｝,
-｛御影＊＊｝, good
-morning.");
+MsgDisp("主人公","｛柊＊＊＊｝, ｛御影＊＊｝, good morning.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

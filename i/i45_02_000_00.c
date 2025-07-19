@@ -165,8 +165,7 @@ I'm feeling a little strange.");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","(Strange...?
-I wonder what happened to
-｛颯砂＊＊｝?)");
+I wonder what happened to ｛颯砂＊＊｝?)");
     break ;
     default :
     DbgAssert(1);

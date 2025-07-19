@@ -22,8 +22,7 @@ ChMotion(1,0);
 VoicePlay("B070100001_01_360");
 MsgDisp("Kazama","Eh...");
 MsgDisp("主人公","It's not about my wellbeing...
-Maybe, it's because I'm with
-｛風真＊＊｝...");
+Maybe, it's because I'm with ｛風真＊＊｝...");
 ChEye(1,3);
 ChMouth(1,1);
 ChMotion(1,5);
@@ -56,8 +55,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_400");
 MsgDisp("Kazama","...It'll take a while for me.");
 MsgDisp("主人公","Ehh∋
-｛風真＊＊｝, your timing is a
-bit off.");
+｛風真＊＊｝, your timing is a bit off.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

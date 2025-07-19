@@ -19,9 +19,8 @@ ChMotion(2,4);
 VoicePlay("G020220301_02_020");
 MsgDisp("Sassa","When they said that, I realized I've been
 buying the same thing in different colors.");
-MsgDisp("主人公","It's kind of funny to think of
-｛颯砂＊＊｝ stressing about
-fashion...");
+MsgDisp("主人公","It's kind of funny to think of ｛颯砂＊＊｝
+stressing about fashion...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -30,8 +29,8 @@ MsgDisp("Sassa","What?
 I asked you because you always wear
 different styles.");
 MsgDisp("主人公","Sorry.
-But with ｛颯砂＊＊｝'s figure, it
-seems any style would fit.");
+But with ｛颯砂＊＊｝'s figure, it seems any
+style would fit.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -65,8 +64,7 @@ ChMotion(2,0);
 VoicePlay("G020220301_02_080");
 MsgDisp("Sassa","Haa...it must be nice for those who look
 good in anything they wear.");
-MsgDisp("主人公","｛颯砂＊＊｝'s usual fashion suits
-him.
+MsgDisp("主人公","｛颯砂＊＊｝'s usual fashion suits him.
 It's really cool?");
 ChEye(2,0);
 ChMouth(2,3);

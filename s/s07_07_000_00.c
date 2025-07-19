@@ -91,8 +91,8 @@ of all your time. I'm the same way.");
     MsgDisp("Mikage","Yeah.
 I wish I had unlimited wishes.
 You're usually limited to three, right?");
-    MsgDisp("主人公","Hehe, I wonder what's
-｛御影＊＊｝'s wish?");
+    MsgDisp("主人公","Hehe, I wonder what's ｛御影＊＊｝'s
+wish?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);

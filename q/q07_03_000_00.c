@@ -20,9 +20,9 @@ VoicePlay("Q070300000_03_010");
 MsgDisp("Honda","I'm interested in that windmill.
 It's a traditional windmill used for
 milling and drainage.");
-MsgDisp("主人公","Interesting! ｛本多＊＊｝, it's so
-much fun going around with you, it's like
-going around with a guide.");
+MsgDisp("主人公","Interesting! ｛本多＊＊｝, it's so much fun
+going around with you, it's like going
+around with a guide.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -147,8 +147,7 @@ MsgDisp("Honda","Yeah. It's someone who focuses on field
 research and studies everything that
 exists in nature.");
 MsgDisp("主人公","Wow!
-That sounds very ｛本多＊＊｝
--like.");
+That sounds very ｛本多＊＊｝ -like.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);

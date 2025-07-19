@@ -77,8 +77,7 @@ So, I'll eat it carefully.");
     MsgDisp("Honda","Ah, of course, I'm not going to give my
 sister any!");
     MsgDisp("主人公","(Hehe!
-｛本多＊＊｝ seemed really
-happy!)");
+｛本多＊＊｝ seemed really happy!)");
     break ;
     default :
     DbgAssert(1);

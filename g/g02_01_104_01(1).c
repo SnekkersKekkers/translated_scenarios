@@ -11,8 +11,7 @@ ChMotion(1,0);
 VoicePlay("G020110401_01_010");
 MsgDisp("Kazama","Well, you've always enjoyed yourself no
 matter where I take you.");
-MsgDisp("主人公","Anywhere you take me is fun,
-｛風真＊＊｝.");
+MsgDisp("主人公","Anywhere you take me is fun, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -53,8 +52,8 @@ ChMouth(1,3);
 VoicePlay("G020110401_01_060");
 MsgDisp("Kazama","Yeah, someday.
 It's a promise.");
-MsgDisp("主人公","(I wonder what ｛風真＊＊｝
-surprise will be?
+MsgDisp("主人公","(I wonder what ｛風真＊＊｝ surprise will
+be?
 I'm really looking forward to it!)");
 BGMStop();
 MsgClose();

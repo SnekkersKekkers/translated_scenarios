@@ -75,8 +75,7 @@ VoicePlay("E010630200_06_060");
 MsgDisp("Himuro","I'm sure the banter between Himuros is
 strange anyway.");
 MsgDisp("主人公","I don't think so.
-It's nice seeing ｛氷室＊＊｝ be
-obedient.");
+It's nice seeing ｛氷室＊＊｝ be obedient.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -135,8 +134,8 @@ BGMStop();
 ChClose(6,0,30);
 ChClose(32,0,30);
 ChPosition(6,0);
-MsgDisp("主人公","(Hehe! In front of Himuro-sensei,
-｛氷室＊＊｝ kinda looks like a
-lost cat.)");
+MsgDisp("主人公","(Hehe!
+In front of Himuro-sensei, ｛氷室＊＊｝
+kinda looks like a lost cat.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -22,7 +22,6 @@ VoicePlay("U140D00006_21_010");
 MsgDisp("Michiru","Sorry.
 But I haven't forgotten about Hikaru.");
 MsgDisp("主人公","(It's true, I guess I really have been
-hanging out with
-｛みちる＊｝ a lot
+hanging out with ｛みちる＊｝ a lot
 lately.)");
 MsgClose();

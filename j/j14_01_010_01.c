@@ -3,8 +3,7 @@ switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J140101001_01_000");
     MsgDisp("Kazama","All right, it's settled.");
-    MsgDisp("主人公","Then at the
-｛待ち合わせ場所｝.
+    MsgDisp("主人公","Then at the ｛待ち合わせ場所｝.
 Should we meet up there?");
     VoicePlay("J140101001_01_010");
     MsgDisp("Kazama","OK! I'll do that. I'll let them know. See

@@ -176,7 +176,7 @@ Wait(120,1);
 VoicePlay("A010000000_01_180");
 MsgDisp("Ryota","The bell's ringing!");
 MsgDisp("主人公","It really was this church's bell!
-It's sounds like a wedding ceremony, don't
+It sounds like a wedding ceremony, don't
 you think?");
 SEVol(0.4,2);
 MsgClose();

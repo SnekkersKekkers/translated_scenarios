@@ -12,8 +12,7 @@ ChMouth(6,1);
 ChMotion(6,5);
 MsgDisp("Himuro","Wh...
 What...");
-MsgDisp("主人公","I too, have always liked
-｛氷室＊＊｝.");
+MsgDisp("主人公","I too, have always liked ｛氷室＊＊｝.");
 VoicePlay("T020601000_06_200");
 ChEye(6,0);
 ChMouth(6,1);

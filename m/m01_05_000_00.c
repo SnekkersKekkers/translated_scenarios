@@ -48,16 +48,16 @@ ChMotion(5,1);
 VoicePlay("M010500000_05_070");
 MsgDisp("Hiiragi","I became a wandering-eyed, and strange
 person.");
-MsgDisp("主人公","Hehe, ｛柊＊＊＊｝, that doesn't
-sound like you.");
+MsgDisp("主人公","Hehe, ｛柊＊＊＊｝, that doesn't sound like
+you.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("M010500000_05_080");
 MsgDisp("Hiiragi","With that, a smile that is more like you
 has returned to your face, yes?");
 MsgDisp("主人公","Mm, thanks.
-Thanks to ｛柊＊＊＊｝ I feel a
-lot better already!");
+Thanks to ｛柊＊＊＊｝ I feel a lot better
+already!");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("M010500000_05_090");
@@ -68,8 +68,7 @@ MsgDisp("Hiiragi","For now, please continue to exercise
 restraint. Please quickly return to full
 health and then you may attend class.");
 MsgDisp("主人公","Yes.
-｛柊＊＊＊｝, you're like a
-doctor.");
+｛柊＊＊＊｝, you're like a doctor.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);

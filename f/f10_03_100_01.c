@@ -52,7 +52,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Rule? Hypothesis? ｛本多＊＊｝
-is having lots of fun.)");
+MsgDisp("主人公","(Rule?
+Hypothesis?
+｛本多＊＊｝ is having lots of fun.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -98,8 +98,8 @@ VoicePlay("B330A30100_06_060");
 MsgDisp("Himuro","Not really...is there a problem?");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","I think the fact that ｛氷室＊＊｝
-even does surfing is amazing?");
+MsgDisp("主人公","I think the fact that ｛氷室＊＊｝ even does
+surfing is amazing?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);

@@ -39,8 +39,7 @@ MsgDisp("Michiru","Hikaru is also very worried. But, both of
 us pushing ourselves on you would be a
 burden. So, I came as the representative.");
 MsgDisp("主人公","That so.
-I made ｛ひかる＊｝
-worry too.");
+I made ｛ひかる＊｝ worry too.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
@@ -71,6 +70,5 @@ ChClose(21);
 Wait(50,1);
 SEPlay("EV_SE_DOOR_008",0.5);
 SEWait();
-MsgDisp("主人公","(Since ｛みちる＊｝ came
-to pay me a get well visit, I better get
-better fast.)");
+MsgDisp("主人公","(Since ｛みちる＊｝ came to pay me a
+get well visit, I better get better fast.)");

@@ -52,8 +52,7 @@ ChEyeOpenLevel ( 3, - 1 ) ;
 VoicePlay ( "D150003601_03_030" ) ;
 MsgDisp ( "Honda","Okayyy." ) ;
 MsgDisp ( "主人公","(Hehe.
-｛氷室＊＊｝ acts like an older
-brother.)" ) ;
+｛氷室＊＊｝ acts like an older brother.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

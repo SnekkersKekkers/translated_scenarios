@@ -14,8 +14,7 @@ VoicePlay("U202200000_22_000");
 MsgDisp("Hikaru","Aha▼
 I got the new plushie～♪");
 MsgDisp("主人公","You are so good at the crane game
-｛ひかる＊｝, you even
-got two of them!");
+｛ひかる＊｝, you even got two of them!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

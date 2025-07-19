@@ -22,7 +22,7 @@ VoicePlay("B360218000_02_010");
 MsgDisp("Sassa","My dad helped with the coaching for this
 sports film.");
 MsgDisp("主人公","Is that so?
-｛颯砂＊＊｝'s dad is amazing. ");
+｛颯砂＊＊｝'s dad is amazing.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);

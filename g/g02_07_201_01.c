@@ -53,8 +53,7 @@ VoicePlay("G020720101_07_070");
 MsgDisp("Mikage","Who knows?
 That's just how it sounded to me.");
 MsgDisp("主人公","(I will return...
-Does that mean to
-｛御影＊＊｝'s side?)");
+Does that mean to ｛御影＊＊｝'s side?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

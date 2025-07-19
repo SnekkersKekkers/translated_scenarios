@@ -26,8 +26,7 @@ come...)");
     MsgDisp("Honda","The smell of the mitarashi paste is the
 best too!");
     MsgDisp("主人公","Hehe.
-｛本多＊＊｝, are you here to take
-a break?");
+｛本多＊＊｝, are you here to take a break?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

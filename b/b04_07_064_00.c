@@ -7,8 +7,7 @@ ScrFadeIn(0);
 ChMotion(7,3);
 VoicePlay("B040706400_07_000");
 MsgDisp("Mikage","Just this atmosphere is enjoyable enough.");
-MsgDisp("主人公","Do you like festivals,
-｛御影＊＊｝?");
+MsgDisp("主人公","Do you like festivals, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

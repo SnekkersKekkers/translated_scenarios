@@ -21,8 +21,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("S060700000_07_010");
     MsgDisp("Mikage","｛主人公｝, Happy Holidays!
 Have a great year.");
-    MsgDisp("主人公","｛御影＊＊｝, Happy New
-Year.");
+    MsgDisp("主人公","｛御影＊＊｝, Happy New Year.");
     break ;
     case 4:
     case 5:
@@ -31,8 +30,7 @@ Year.");
     VoicePlay("S060700000_07_020");
     MsgDisp("Mikage","｛主人公｝, Happy New Year!
 Good luck this year too.");
-    MsgDisp("主人公","｛御影＊＊｝, Happy New
-Year.
+    MsgDisp("主人公","｛御影＊＊｝, Happy New Year.
 I wish you the best this year.");
     break ;
     default :

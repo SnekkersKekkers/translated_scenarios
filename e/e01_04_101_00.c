@@ -53,8 +53,7 @@ ChEyeOpenLevel(4,8);
 VoicePlay("E010410100_04_040");
 MsgDisp("Nanatsumori","Yeah...");
 MsgDisp("主人公","That bracelet is really cool.
-It suits ｛七ツ森＊｝ a
-lot.");
+It suits ｛七ツ森＊｝ a lot.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

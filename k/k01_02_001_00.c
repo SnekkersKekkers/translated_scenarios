@@ -22,8 +22,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("K010200100_02_010");
     MsgDisp("Sassa","You got one for me?
 I'm happy.");
-    MsgDisp("主人公","Yeah, I chose it for you,
-｛颯砂＊＊｝.");
+    MsgDisp("主人公","Yeah, I chose it for you, ｛颯砂＊＊｝.");
     break ;
     case 3:
     MsgDisp("主人公","｛颯砂＊＊｝!");

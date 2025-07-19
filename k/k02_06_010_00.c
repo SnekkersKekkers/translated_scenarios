@@ -60,8 +60,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
 Wait(30);
-MsgDisp("主人公","(I got to celebrate with
-｛氷室＊＊｝...
+MsgDisp("主人公","(I got to celebrate with ｛氷室＊＊｝...
 This year looks to be a great one!)");
 MsgClose();
 ScrFadeOut(0,0);

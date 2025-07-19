@@ -36,10 +36,9 @@ VoicePlay("P850500008_05_040");
 MsgDisp("Hiiragi","I should be the one saying that.
 I'm happy I got to manage the cultural
 festival alongside you.");
-MsgDisp("主人公","(I'm happy that ｛柊＊＊＊｝
-seems pleased. I was able to make some
-great memories in my last year of high
-school!)");
+MsgDisp("主人公","(I'm happy that ｛柊＊＊＊｝ seems
+pleased. I was able to make some great
+memories in my last year of high school!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

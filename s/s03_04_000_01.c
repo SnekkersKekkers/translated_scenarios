@@ -11,8 +11,7 @@ It's the start of the New Year.");
 I'll come pick you up now.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(A shrine visit with
-｛七ツ森＊｝!
+    MsgDisp("主人公","(A shrine visit with ｛七ツ森＊｝!
 I wonder what I should wear?)");
     break ;
     case 3:
@@ -29,9 +28,9 @@ home for New Years.");
 I'll come pick you up after I get ready.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay! A shrine visit with
-｛七ツ森＊｝. What should
-I wear...)");
+    MsgDisp("主人公","(Yay!
+A shrine visit with ｛七ツ森＊｝.
+What should I wear...)");
     break ;
     case 4:
     case 5:

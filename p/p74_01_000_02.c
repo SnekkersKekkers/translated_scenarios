@@ -20,8 +20,8 @@ MsgDisp("Kazama","When I see that smile, I can't say bad
 things about it.
 I'm super glad it was like a pro show.");
 MsgDisp("主人公","Yay!
-｛風真＊＊｝ praised me, I'll
-try even harder!");
+｛風真＊＊｝ praised me, I'll try even
+harder!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -41,8 +41,8 @@ ChMotion(1,3);
 VoicePlay("P740100002_01_040");
 MsgDisp("Kazama","I would be troubled if you drew more
 attention with an even more amazing dress.");
-MsgDisp("主人公","(Hehe, I'm happy that
-｛風真＊＊｝ praised me!
+MsgDisp("主人公","(Hehe, I'm happy that ｛風真＊＊｝ praised
+me!
 I'm glad I gave it my best!)");
 MsgClose();
 ScrFadeOut(0,0);

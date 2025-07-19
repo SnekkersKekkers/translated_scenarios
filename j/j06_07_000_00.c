@@ -5,8 +5,7 @@ MsgSel("Yes, I understand.","I'm sorry. I'll pass.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Let's see, the meeting place is
-｛待ち合わせ場所｝ Is that
-okay?");
+｛待ち合わせ場所｝ Is that okay?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,5);

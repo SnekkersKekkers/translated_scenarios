@@ -101,8 +101,8 @@ Thank you for coming with me.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
     MsgDisp("主人公","Of course, I feel the same.
-｛颯砂＊＊｝, you wished really
-hard in your prayer, didn't you?");
+｛颯砂＊＊｝, you wished really hard in your
+prayer, didn't you?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);

@@ -55,8 +55,7 @@ I...");
         ChEyeOpenLevel(4,10);
         VoicePlay("B040402302_04_060");
         MsgDisp("Nanatsumori","I...");
-        MsgDisp("主人公","...What about you,
-｛七ツ森＊｝?");
+        MsgDisp("主人公","...What about you, ｛七ツ森＊｝?");
         ChEye(4,4);
         ChMouth(4,5);
         ChMotion(4,1,1);

@@ -78,8 +78,8 @@ Thank you.");
     VoicePlay("S060200001_02_080");
     MsgDisp("Sassa","All for me?");
     MsgDisp("主人公","Yeah, for our shrine visit.
-｛颯砂＊＊｝ seemed like he was
-looking forward to it.");
+｛颯砂＊＊｝ seemed like he was looking
+forward to it.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -95,8 +95,7 @@ what I was expecting!");
     MsgDisp("Sassa","Yeah...
 Wow, so beautiful...");
     MsgDisp("主人公","(Yes!
-I'm happy that ｛颯砂＊＊｝ likes
-it!)");
+I'm happy that ｛颯砂＊＊｝ likes it!)");
     break ;
     default :
     DbgAssert(1);

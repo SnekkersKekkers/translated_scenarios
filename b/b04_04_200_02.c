@@ -64,8 +64,7 @@ half-baked.");
         ChCheek(4,8);
         VoicePlay("B040420002_04_070");
         MsgDisp("Nanatsumori","Why are you laughing?");
-        MsgDisp("主人公","That's just like you,
-｛七ツ森＊｝.");
+        MsgDisp("主人公","That's just like you, ｛七ツ森＊｝.");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,1,1);

@@ -14,8 +14,8 @@ VoicePlay("K010100101_01_010");
 MsgDisp("Kazama","Of course I do.
 If I ever said I didn't like it, I'd be a
 fake.");
-MsgDisp("主人公","Hehe, then I guess this
-｛風真＊＊｝ is the real one.");
+MsgDisp("主人公","Hehe, then I guess this ｛風真＊＊｝ is
+the real one.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

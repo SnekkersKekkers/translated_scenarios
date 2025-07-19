@@ -2,9 +2,8 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to head home now.)");
-MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over
-there. Might as well have a chat before
-heading home.)");
+MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over there. Might
+as well have a chat before heading home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -31,9 +30,9 @@ MsgDisp("Kazama","Hey, anything that's different.
 About me.
 Is there anything that bothers you?");
 ChMouth(1,0);
-MsgDisp("主人公","(Bothers me...? I'm worried that
-｛風真＊＊｝'s hair is growing
-long and blocking his vision...)");
+MsgDisp("主人公","(Bothers me...?
+I'm worried that ｛風真＊＊｝'s hair is
+growing long and blocking his vision...)");
 while (1){
     RunEverydaySksp(1,1,1,0,0,0);
     if (RunEverydaySkspRsltGet()){

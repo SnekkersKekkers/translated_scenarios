@@ -11,8 +11,7 @@ SEStop("EV_SE_579",0);
 MsgDisp("主人公","Yes, hello.");
 VoicePlay("B100400000_04_000");
 MsgDisp("Nanatsumori","Hey.");
-MsgDisp("主人公","｛七ツ森＊｝, what's
-wrong?");
+MsgDisp("主人公","｛七ツ森＊｝, what's wrong?");
 VoicePlay("B100400000_04_010");
 MsgDisp("Nanatsumori","Don't talk like that.");
 MsgDisp("主人公","Eh...?");

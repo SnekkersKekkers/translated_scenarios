@@ -6,8 +6,7 @@ ChMotion(8,4);
 ChEyeOpenLevel(8,0);
 VoicePlay("S110800000_08_000");
 MsgDisp("Shirahane","It's like this, huh...");
-MsgDisp("主人公","Eh, ｛大地＊＊｝, what did you
-get?");
+MsgDisp("主人公","Eh, ｛大地＊＊｝, what did you get?");
 ChEye(8,1);
 ChMouth(8,2);
 VoicePlay("S110800000_08_010");

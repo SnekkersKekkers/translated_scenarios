@@ -24,8 +24,7 @@ VoicePlay("P540300000_03_010");
 MsgDisp("Honda","Yep, yep.
 You look good just now!");
 MsgDisp("主人公","(Yay!
-I'm happy that ｛本多＊＊｝ is
-pleased!)");
+I'm happy that ｛本多＊＊｝ is pleased!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

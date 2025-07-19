@@ -9,16 +9,15 @@ So Iku-senpai is good at Shogi too.");
 VoicePlay("E010320200_03_000");
 MsgDisp("Honda?","Back when I was in elementary school I
 would play against my Dad on Saturdays.");
-MsgDisp("主人公","｛本多＊＊｝, ｛氷室＊＊｝,
-what are you guys up to?");
+MsgDisp("主人公","｛本多＊＊｝, ｛氷室＊＊｝, what are you guys
+up to?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(6);
 VoicePlay("E010320200_06_010");
-MsgDisp("Himuro","｛主人公｝, eavesdropping is
-impolite.");
+MsgDisp("Himuro","｛主人公｝, eavesdropping is impolite.");
 MsgDisp("主人公","I just happened to be passing by.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -88,9 +87,8 @@ MsgDisp("Honda","Banning talking is no fun.
 That old man seemed to be having fun
 listening to me too...");
 MsgDisp("主人公","(｛氷室＊＊｝ is probably avoiding
-｛本多＊＊｝ because all the
-chatter makes it hard for him to
-concentrate?)");
+｛本多＊＊｝ because all the chatter makes
+it hard for him to concentrate?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

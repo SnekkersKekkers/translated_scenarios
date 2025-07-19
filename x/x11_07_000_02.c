@@ -12,8 +12,7 @@ decided by one glorious ippon?
 That's amazing.");
     MsgDisp("主人公","Thank you very much!");
     MsgDisp("主人公","(Yay!
-I was praised by
-｛御影＊＊｝ 1)");
+I was praised by ｛御影＊＊｝ 1)");
     break ;
     case 4:
     case 5:
@@ -32,8 +31,7 @@ Thank you very much.");
     VoicePlay("X110700002_07_020");
     MsgDisp("Mikage","You're not just gentle, you're strong too.");
     MsgDisp("主人公","(To think that I was praised by
-｛御影＊＊｝, I'm super
-happy!)");
+｛御影＊＊｝, I'm super happy!)");
     break ;
     default :
     DbgAssert(1);

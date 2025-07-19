@@ -41,8 +41,8 @@ VoicePlay("F020500007_05_040");
 MsgDisp("Hiiragi","Right?
 Especially with things like grilled corn
 and grilled squid.");
-MsgDisp("主人公","Haha, ｛柊＊＊＊｝, you like
-food cart food, don't you?");
+MsgDisp("主人公","Haha, ｛柊＊＊＊｝, you like food cart
+food, don't you?");
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F020500007_05_050");

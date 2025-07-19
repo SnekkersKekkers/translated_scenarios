@@ -16,8 +16,8 @@ ChMouth(5,4);
 VoicePlay("T020500021_05_010");
 MsgDisp("Hiiragi","If my confession made you smile, I
 couldn't be happier.");
-MsgDisp("主人公","If I'm with ｛柊＊＊＊｝, I'm
-always smiling.
+MsgDisp("主人公","If I'm with ｛柊＊＊＊｝, I'm always
+smiling.
 Thank you.");
 ChMotion(5,0);
 Wait(12,0);

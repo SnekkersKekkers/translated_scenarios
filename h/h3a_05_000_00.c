@@ -42,8 +42,8 @@ It was beautiful.");
     MsgDisp("Hiiragi","Hm?
 No, perhaps it was you?");
     MsgDisp("主人公","(Yay!
-｛柊＊＊＊｝ seems pleased, and
-I'm really glad I did my best in judo!)");
+｛柊＊＊＊｝ seems pleased, and I'm really
+glad I did my best in judo!)");
     break ;
     default :
     DbgAssert(1);

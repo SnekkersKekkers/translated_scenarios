@@ -79,8 +79,7 @@ VoicePlay("G020110103_01_100");
 MsgDisp("Kazama","...Of course, even if it all comes
 crashing down, I'd make my way back to you
 right away.");
-MsgDisp("主人公","(What is ｛風真＊＊｝ talking
-about?)");
+MsgDisp("主人公","(What is ｛風真＊＊｝ talking about?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

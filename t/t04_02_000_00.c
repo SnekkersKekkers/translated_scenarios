@@ -18,8 +18,7 @@ VoicePlay("T040200000_02_010");
 MsgDisp("Sassa","That's right.
 From now on, I'll be mindful of what's
 around me so I don't act recklessly.");
-MsgDisp("主人公","Yes, if it's ｛颯砂＊＊｝, it'll
-be alright.");
+MsgDisp("主人公","Yes, if it's ｛颯砂＊＊｝, it'll be alright.");
 NSSEye(2,4);
 NSSMouth(2,4);
 VoicePlay("T040200000_02_020");

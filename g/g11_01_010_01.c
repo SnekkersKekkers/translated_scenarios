@@ -53,8 +53,8 @@ VoicePlay("G110101001_01_030");
 MsgDisp("Kazama","I was happy that you were always so close
 though?");
 ChMotion(1,0);
-MsgDisp("主人公","(I wonder if ｛風真＊＊｝ wants
-to hold hands more...)");
+MsgDisp("主人公","(I wonder if ｛風真＊＊｝ wants to hold
+hands more...)");
 while (1){
     RunEverydaySksp(1,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){

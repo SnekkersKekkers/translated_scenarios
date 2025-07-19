@@ -67,10 +67,10 @@ VoicePlay("T020520000_05_060");
 MsgDisp("Hiiragi","But, since I didn't attend elementary or
 middle school properly, there was no value
 in me being a student.");
-MsgDisp("主人公","That's...Even though
-｛柊＊＊＊｝ struggles within
-the Theatre Company, I think he gives it
-his best in many different ways.");
+MsgDisp("主人公","That's...Even though ｛柊＊＊＊｝
+struggles within the Theatre Company, I
+think he gives it his best in many
+different ways.");
 ChMotion(5,2);
 Wait(12,0);
 ChEyeOpenLevel(5,9);
@@ -105,9 +105,9 @@ ChEyeOpenLevel(5,10);
 VoicePlay("T020520000_05_110");
 MsgDisp("Hiiragi","But, you always cared about what I did.");
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","But...I wanted to support
-｛柊＊＊＊｝ even more, but
-there was nothing I could do.");
+MsgDisp("主人公","But...
+I wanted to support ｛柊＊＊＊｝ even
+more, but there was nothing I could do.");
 ChMotion(5,1);
 Wait(30,0);
 ChEye(5,4);

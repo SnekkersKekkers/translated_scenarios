@@ -1,8 +1,8 @@
 BGOpen("ar100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's kind of empty today.
-Not even ｛七ツ森＊｝
-seems to be here...)");
+Not even ｛七ツ森＊｝ seems to be
+here...)");
 MsgClose();
 SEPlay("EV_SE_DOOR_014");
 Wait(50,0);

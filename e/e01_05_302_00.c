@@ -58,8 +58,8 @@ ChMotion(5,0);
 VoicePlay("E010530200_05_030");
 MsgDisp("Hiiragi","I asked Kazama-kun to help repair our
 props.");
-MsgDisp("主人公","Wow, ｛風真＊＊｝, you're able
-to do that too?");
+MsgDisp("主人公","Wow, ｛風真＊＊｝, you're able to do that
+too?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -119,8 +119,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("E010530200_05_070");
-MsgDisp("Hiiragi","Would you like to join us,
-｛主人公｝?");
+MsgDisp("Hiiragi","Would you like to join us, ｛主人公｝?");
 ChMotion(1,0);
 MsgDisp("主人公","Eh?
 ∋ I didn't help with anything...");

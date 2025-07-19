@@ -2,8 +2,8 @@ MsgClose();
 ChClose(5,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh, it looks like ｛柊＊＊＊｝
-hasn't arrived yet...");
+MsgDisp("主人公","Huh, it looks like ｛柊＊＊＊｝ hasn't
+arrived yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

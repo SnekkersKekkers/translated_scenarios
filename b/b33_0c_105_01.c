@@ -126,8 +126,8 @@ ChClose(7,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0,0,30);
-MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ seems like
-he's really enjoying himself.");
+MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ seems like he's really
+enjoying himself.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -143,11 +143,9 @@ VoicePlay("B330C10501_07_050");
 MsgDisp("Mikage","｛主人公｝, come on let's go!
 That demonstration is super interesting.");
 MsgDisp("主人公","Hehe, yes!");
-MsgDisp("主人公","(It's not just ｛氷室＊＊｝ and
-｛柊＊＊＊｝,
-｛御影＊＊｝ also seems
-like he's having so much fun. I'm glad we
-came!)");
+MsgDisp("主人公","(It's not just ｛氷室＊＊｝ and ｛柊＊＊＊｝,
+｛御影＊＊｝ also seems like he's
+having so much fun. I'm glad we came!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

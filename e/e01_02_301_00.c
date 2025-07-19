@@ -72,8 +72,7 @@ You guys have fun!");
 VoicePlay("E010230100_06_040");
 MsgDisp("Himuro","Ahh, come on...");
 MsgDisp("主人公","(Hehe!
-｛氷室＊＊｝ looked a little
-happy.)");
+｛氷室＊＊｝ looked a little happy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

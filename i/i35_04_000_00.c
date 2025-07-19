@@ -75,8 +75,8 @@ Well, see you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Did ｛七ツ森＊｝ come to
-support me...?)");
+    MsgDisp("主人公","(Did ｛七ツ森＊｝ come to support
+me...?)");
     break ;
     case 4:
     case 5:

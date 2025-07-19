@@ -25,8 +25,7 @@ VoicePlay("B150400300_04_040");
 MsgDisp("Nanatsumori","Yeah, thats' even worse.
 It's just provoking meー.");
 MsgDisp("主人公","Ugh...
-｛七ツ森＊｝, you're
-different to usual?");
+｛七ツ森＊｝, you're different to usual?");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,1,1);

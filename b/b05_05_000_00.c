@@ -96,8 +96,8 @@ MsgDisp("Hiiragi","Come, it's tasty!
 Haha, come here too!");
 SEStop("EV_SE_729",1);
 MsgDisp("主人公","(Hehe, it's my first time seeing
-｛柊＊＊＊｝ smile so
-innocently. I guess it's a bit cute...?)");
+｛柊＊＊＊｝ smile so innocently.
+I guess it's a bit cute...?)");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();

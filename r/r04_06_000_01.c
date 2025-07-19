@@ -61,8 +61,7 @@ I wouldn't lie about this.");
 Your dress.
 It's nice.");
     MsgDisp("主人公","Thank you.
-You look pretty nice too,
-｛氷室＊＊｝.");
+You look pretty nice too, ｛氷室＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

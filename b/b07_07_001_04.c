@@ -1,7 +1,6 @@
-MsgDisp("主人公","｛御影＊＊｝, recently,
-you're around ｛柊＊＊＊｝ and
-｛氷室＊＊｝ a lot, but what sort
-of things do you talk about?");
+MsgDisp("主人公","｛御影＊＊｝, recently, you're around
+｛柊＊＊＊｝ and ｛氷室＊＊｝ a lot, but
+what sort of things do you talk about?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

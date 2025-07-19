@@ -108,8 +108,8 @@ Let's go elsewhere!");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         SEWait();
-        MsgDisp("主人公","(Hehe ｛颯砂＊＊｝ is bad with
-haunted houses, It's a bit cute!)");
+        MsgDisp("主人公","(Hehe ｛颯砂＊＊｝ is bad with haunted
+houses, It's a bit cute!)");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(2,253,0,0,4,#1,#1,0,0);

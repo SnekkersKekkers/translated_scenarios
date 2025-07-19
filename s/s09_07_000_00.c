@@ -60,8 +60,7 @@ just to ignore it.");
     VoicePlay("S090700000_07_050");
     MsgDisp("Mikage","That maze of people...
 That's where they do fortunes, right?");
-    MsgDisp("主人公","｛御影＊＊｝ seems to
-like fortunes");
+    MsgDisp("主人公","｛御影＊＊｝ seems to like fortunes");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

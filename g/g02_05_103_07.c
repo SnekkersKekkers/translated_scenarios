@@ -36,8 +36,7 @@ ChMotion(5,0);
 VoicePlay("G020510307_05_050");
 MsgDisp("Hiiragi","Take my female kabuki role as an example.");
 MsgDisp("主人公","Ah, that time, backstage...
-｛柊＊＊＊｝ was extremely
-beautiful!");
+｛柊＊＊＊｝ was extremely beautiful!");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);
@@ -63,8 +62,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G020510307_05_080");
 MsgDisp("Hiiragi","It was not my intention to show an
 incomplete version.");
-MsgDisp("主人公","(Perhaps ｛柊＊＊＊｝ is
-embarrassed...?)");
+MsgDisp("主人公","(Perhaps ｛柊＊＊＊｝ is embarrassed...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

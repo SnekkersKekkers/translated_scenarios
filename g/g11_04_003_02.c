@@ -64,10 +64,9 @@ VoicePlay("G110400302_04_060");
 MsgDisp("Nanatsumori","Yeah. I'm a fan of this new reporter, so
 I'm really looking forward to reading this
 new article.");
-MsgDisp("主人公","(Oof...pressure. But if
-｛七ツ森＊｝ is going to
-read it, I'll do my best to write a good
-article!)");
+MsgDisp("主人公","(Oof...pressure. But if ｛七ツ森＊｝ is
+going to read it, I'll do my best to write
+a good article!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

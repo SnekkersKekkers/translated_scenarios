@@ -94,8 +94,7 @@ on top.");
 potential.
 I didn't think of that...");
         MsgDisp("主人公","Uhm...?
-If ｛颯砂＊＊｝ doesn't want
-to...");
+If ｛颯砂＊＊｝ doesn't want to...");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,5);

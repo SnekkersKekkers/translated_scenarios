@@ -11,8 +11,8 @@ ChMouth(5,3);
 ChMotion(5,0,1);
 VoicePlay("F020500013_05_000");
 MsgDisp("Hiiragi","Yes, to Nagasaki.");
-MsgDisp("主人公","｛柊＊＊＊｝, have you been to
-Nagasaki before?");
+MsgDisp("主人公","｛柊＊＊＊｝, have you been to Nagasaki
+before?");
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("F020500013_05_010");
@@ -65,6 +65,6 @@ ChMotion(5,0);
 VoicePlay("F020500013_05_080");
 MsgDisp("Hiiragi","Then I look forward to it.
 The school trip.");
-MsgDisp("主人公","(Haha, it seems like
-｛柊＊＊＊｝ has already
-decided what he'll do with his free time.)");
+MsgDisp("主人公","(Haha, it seems like ｛柊＊＊＊｝ has
+already decided what he'll do with his
+free time.)");

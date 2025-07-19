@@ -8,9 +8,9 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,1);
 ChOpen(2,254,3,0,4,#1,#1,0,2);
-MsgDisp("主人公","｛風真＊＊｝,
-｛颯砂＊＊｝. What's up? Both of
-you.");
+MsgDisp("主人公","｛風真＊＊｝, ｛颯砂＊＊｝.
+What's up?
+Both of you.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

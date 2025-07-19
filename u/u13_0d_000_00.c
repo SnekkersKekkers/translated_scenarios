@@ -54,8 +54,8 @@ that can't make up her mind!");
 over-the-top heroines, Kazama-kun would
 lose easily, wouldn't he?");
     StlEye(22,0);
-    MsgDisp("主人公","(If I go after ｛風真＊＊｝
-more aggressively, would he notice it?)");
+    MsgDisp("主人公","(If I go after ｛風真＊＊｝ more
+aggressively, would he notice it?)");
     break ;
     case 4:
     case 5:

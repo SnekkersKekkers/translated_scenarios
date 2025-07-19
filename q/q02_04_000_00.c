@@ -34,8 +34,7 @@ with me?");
         VoicePlay("Q020400000_04_030");
         MsgDisp("Nanatsumori","Yeah true.
 Let's have fun.");
-        MsgDisp("主人公","(Free time with
-｛七ツ森＊｝!
+        MsgDisp("主人公","(Free time with ｛七ツ森＊｝!
 I'm really excited!)");
         break ;
         case 1:

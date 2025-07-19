@@ -15,9 +15,9 @@ MsgClose();
 BGOpen("bh500",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This is ｛柊＊＊＊｝'s home,
-right? It seems like the rehearsal studio
-is on the property...)");
+MsgDisp("主人公","(This is ｛柊＊＊＊｝'s home, right?
+It seems like the rehearsal studio is on
+the property...)");
 MsgClose();
 SEPlay("EV_SE_723");
 Wait(50,0);

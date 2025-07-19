@@ -82,8 +82,8 @@ StlClose();
 BGOpen("sc300",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(What a relief...
-It's a good thing ｛柊＊＊＊｝
-wasn't injured.)");
+It's a good thing ｛柊＊＊＊｝ wasn't
+injured.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();

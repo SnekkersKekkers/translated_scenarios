@@ -59,8 +59,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_070");
 MsgDisp("Kazama","Haa...this place is dangerous.");
-MsgDisp("主人公","(Just now...could that be
-｛風真＊＊｝'s inner voice?')");
+MsgDisp("主人公","(Just now...could that be ｛風真＊＊｝'s
+inner voice?')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

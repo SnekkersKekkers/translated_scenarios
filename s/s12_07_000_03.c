@@ -69,10 +69,9 @@ again, okay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(I'm already a third year since spring...I
-hope I can go with
-｛御影＊＊｝ again next
-year...)");
+    MsgDisp("主人公","(I'm already a third year since spring...
+I hope I can go with ｛御影＊＊｝ again
+next year...)");
     break ;
     case 4:
     case 5:
@@ -92,8 +91,8 @@ year...)");
     MsgDisp("Mikage","Ah, my apologies for dragging you around
 so much today. But thanks to you, the year
 is off to a great start.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝, do you
-have to go to school today too?");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝, do you have to go to
+school today too?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -129,10 +128,9 @@ See you.");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","Ah, thank you so much!");
-    MsgDisp("主人公","(I hope I can be with
-｛御影＊＊｝ on New
-Year's next year too. Alright, let's try
-our best this year!)");
+    MsgDisp("主人公","(I hope I can be with ｛御影＊＊｝ on
+New Year's next year too.
+Alright, let's try our best this year!)");
     break ;
     default :
     DbgAssert(1);

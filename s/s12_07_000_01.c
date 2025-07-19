@@ -42,8 +42,7 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(I visited the shrine with
-｛御影＊＊｝.
+    MsgDisp("主人公","(I visited the shrine with ｛御影＊＊｝.
 It's going to be a great year!)");
     break ;
     case 4:
@@ -59,8 +58,8 @@ It's going to be a great year!)");
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you so much for taking me.
-｛御影＊＊｝, do you have
-to go to school now?");
+｛御影＊＊｝, do you have to go to
+school now?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);

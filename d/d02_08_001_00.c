@@ -23,9 +23,9 @@ VoicePlay("D020800100_08_020");
 MsgDisp("Shirahane","Ya.
 There's a track and field meet in August
 and I wanted to participate.");
-MsgDisp("主人公","｛大地＊＊｝, are you in the
-track and field club? It's seems like that
-would be difficult to balance with work...");
+MsgDisp("主人公","｛大地＊＊｝, are you in the track and
+field club? It's seems like that would be
+difficult to balance with work...");
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("D020800100_08_030");
@@ -37,8 +37,7 @@ ChMouth(8,4);
 VoicePlay("D020800100_08_040");
 MsgDisp("Shirahane","You know him, right?
 Haba High's Track and Field Super Star!");
-MsgDisp("主人公","Are you maybe talking about
-｛颯砂＊＊｝?");
+MsgDisp("主人公","Are you maybe talking about ｛颯砂＊＊｝?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,1,1);
@@ -58,8 +57,8 @@ VoicePlay("D020800100_08_070");
 MsgDisp("Shirahane","Hey, I know since you're from Haba Academy
 you must be rooting for Sassa but it would
 be nice if you could come cheer me on too?");
-MsgDisp("主人公","(｛大地＊＊｝ and ｛颯砂＊＊｝ at
-the track and field competition...
+MsgDisp("主人公","(｛大地＊＊｝ and ｛颯砂＊＊｝ at the track
+and field competition...
 I think I want to watch!)");
 BGMStop();
 MsgClose();

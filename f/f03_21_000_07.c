@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛みちる＊｝, what is your
-dream for the future?");
+MsgDisp("主人公","｛みちる＊｝, what is your dream for the
+future?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);

@@ -67,9 +67,9 @@ VoicePlay("G020140003_01_080");
 MsgDisp("Kazama","Yeah.
 It's not a big deal, but I'm pretty sure
 it's fragrant wood.");
-MsgDisp("主人公","Amazing! Since he was young,
-｛風真＊＊｝ has had a great
-discerning eye.");
+MsgDisp("主人公","Amazing!
+Since he was young, ｛風真＊＊｝ has had a
+great discerning eye.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -71,8 +71,7 @@ It's reassuring just having you here,
 I'll pick up you later with the best
 reaction.");
     MsgDisp("主人公","(Alright.
-Let's do our best, for
-｛風真＊＊｝ too!)");
+Let's do our best, for ｛風真＊＊｝ too!)");
     break ;
     default :
     DbgAssert(1);

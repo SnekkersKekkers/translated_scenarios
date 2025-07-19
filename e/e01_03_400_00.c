@@ -90,7 +90,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
 MsgDisp("主人公","(Chiru-chan...He's talking about
-｛みちる＊｝, right? That
-seems like it could be a problem too...)");
+｛みちる＊｝, right? That seems like it
+could be a problem too...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -57,8 +57,7 @@ Well, see ya.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(Hehe, ｛風真＊＊｝ came to
-check on me.)");
+    MsgDisp("主人公","(Hehe, ｛風真＊＊｝ came to check on me.)");
     break ;
     case 3:
     MsgClose();
@@ -155,8 +154,7 @@ Ryota.");
 　　　　　　　　　　 ・");
     ScrFadeIn(0);
     MsgDisp("主人公","Sorry about earlier.
-They're one of your fans,
-｛風真＊＊｝.");
+They're one of your fans, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);

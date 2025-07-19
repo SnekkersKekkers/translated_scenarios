@@ -21,8 +21,8 @@ VoicePlay("B360115101_01_010");
 MsgDisp("Kazama","There's two bad ones left.
 Seems like a herculean task even for a
 pro.");
-MsgDisp("主人公","But ｛風真＊＊｝ could probably
-knock them down.");
+MsgDisp("主人公","But ｛風真＊＊｝ could probably knock them
+down.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

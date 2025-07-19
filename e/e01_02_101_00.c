@@ -40,8 +40,8 @@ ChMotion(2,4);
 VoicePlay("E010210100_02_040");
 MsgDisp("Sassa","Yeah, he's a university sports professor.");
 MsgDisp("主人公","Awesome!
-｛颯砂＊＊｝, did you get your
-athletic abilities from your dad then?");
+｛颯砂＊＊｝, did you get your athletic
+abilities from your dad then?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);

@@ -82,8 +82,7 @@ MsgDisp("Kazama","(sigh) It doesn't look like my worries are
 gonna end any time soon.");
 MsgDisp("主人公","You're liked by both boys and girls, and
 you're popular with the elderly too,
-｛風真＊＊｝, so you're really
-amazing.");
+｛風真＊＊｝, so you're really amazing.");
 ChMotion(1,0);
 Wait(12,0);
 ChEye(1,2);
@@ -91,8 +90,8 @@ ChMouth(1,3);
 VoicePlay("G020120301_01_100");
 MsgDisp("Kazama","You've totally missed my point, but
 thanks.");
-MsgDisp("主人公","(Does ｛風真＊＊｝ not realize
-how popular he is...?");
+MsgDisp("主人公","(Does ｛風真＊＊｝ not realize how popular
+he is...?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

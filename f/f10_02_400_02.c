@@ -89,9 +89,8 @@ and holds back at first, but ultimately,
 he stayed with me until the end.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","I see...｛颯砂＊＊｝ and
-｛氷室＊＊｝ understands each
-other. Amazing...");
+MsgDisp("主人公","I see...｛颯砂＊＊｝ and ｛氷室＊＊｝
+understands each other. Amazing...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

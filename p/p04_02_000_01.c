@@ -41,7 +41,7 @@ I'm going to go get something else to eat.");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Haa, I messed up.
-I wanted to give ｛颯砂＊＊｝
-delicious dango to eat...)");
+I wanted to give ｛颯砂＊＊｝ delicious
+dango to eat...)");
 MsgClose();
 ScrFadeOut(0,0);

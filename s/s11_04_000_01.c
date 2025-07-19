@@ -5,8 +5,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("S110400001_04_000");
 MsgDisp("Nanatsumori","It's like that huh...");
-MsgDisp("主人公","｛七ツ森＊｝, what's it
-say?");
+MsgDisp("主人公","｛七ツ森＊｝, what's it say?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);

@@ -9,8 +9,7 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","...By the way,
-｛ひかる＊｝.");
+MsgDisp("主人公","...By the way, ｛ひかる＊｝.");
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_000");
 MsgDisp("Hikaru","What?");

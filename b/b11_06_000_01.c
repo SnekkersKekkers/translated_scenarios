@@ -1,8 +1,7 @@
 MsgClose();
 ChClose(6,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh, ｛氷室＊＊｝ Still hasn't come
-yet?");
+MsgDisp("主人公","Huh, ｛氷室＊＊｝ Still hasn't come yet?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

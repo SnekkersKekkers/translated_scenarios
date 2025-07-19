@@ -21,8 +21,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("K020701100_07_020");
 MsgDisp("Mikage","Today's your birthday, right?");
-MsgDisp("主人公","｛御影＊＊｝, you
-remembered?");
+MsgDisp("主人公","｛御影＊＊｝, you remembered?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

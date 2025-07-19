@@ -57,9 +57,8 @@ ChMouth(1,3);
 VoicePlay("G020110102_01_070");
 MsgDisp("Kazama","No one can get between you and me.
 My advantage will never disappear, ever.");
-MsgDisp("主人公","(Is ｛風真＊＊｝...worried about
-｛本多＊＊｝ and
-｛七ツ森＊｝?");
+MsgDisp("主人公","(Is ｛風真＊＊｝...worried about ｛本多＊＊｝
+and ｛七ツ森＊｝?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

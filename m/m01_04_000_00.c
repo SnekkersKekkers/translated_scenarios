@@ -89,6 +89,5 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(I made ｛七ツ森＊｝
-worry.
+MsgDisp("主人公","(I made ｛七ツ森＊｝ worry.
 If I don't hurry and get better...!)");

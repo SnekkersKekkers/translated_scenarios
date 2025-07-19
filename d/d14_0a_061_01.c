@@ -88,8 +88,7 @@ VoicePlay("D140A06101_01_030");
 MsgDisp("Kazama","When you're stuck, you always throw it
 back to me huh?");
 MsgDisp("主人公","(Hehe! sweet nothings huh...what would it
-feel like if ｛颯砂＊＊｝ said
-it?)");
+feel like if ｛颯砂＊＊｝ said it?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

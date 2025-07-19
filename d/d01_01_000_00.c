@@ -20,7 +20,7 @@ MsgDisp("主人公","Yep, that's really surprising, huh?");
 StlEye(1,1);
 VoicePlay("D010100000_01_020");
 MsgDisp("Kazama","Right?
-Well, I'm glad we're not also sitting next
+Well, at least we're not also sitting next
 to each other.");
 MsgDisp("主人公","That would have been too much, I guess.");
 StlEye(1,2);

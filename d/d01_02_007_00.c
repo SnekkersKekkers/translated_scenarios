@@ -7,8 +7,7 @@ ScrFadeIn(0);
 BGMPlay("BGM_C02_SASSA_C",0.01);
 ChOpen(2,37,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Only 4 events left.
-I know ｛颯砂＊＊｝ will try his
-best.");
+I know ｛颯砂＊＊｝ will try his best.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -131,8 +130,8 @@ StlMouth(2,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("D010200700_02_070");
-MsgDisp("Sassa","｛主人公｝, you've always been at
-my side, lending me your strength.
+MsgDisp("Sassa","｛主人公｝, you've always been at my side,
+lending me your strength.
 Thank you.");
 StlEye(2,0);
 StlMouth(2,0);
@@ -152,8 +151,8 @@ StlMouth(2,0);
 VoicePlay("D010200700_02_100");
 MsgDisp("Sassa","Is that a bad thing to say?");
 MsgDisp("主人公","Ah...Gold medals are kind of heavy, aren't
-they? ｛颯砂＊＊｝, thank you. You
-worked hard these past 3 years.");
+they? ｛颯砂＊＊｝, thank you. You worked
+hard these past 3 years.");
 SEPlay("EV_SE_CLAP_005",0.5);
 Wait(30,0);
 VoicePlay("D010200700_44_010");

@@ -34,8 +34,7 @@ attract customers.");
     VoicePlay("I150300000_03_030");
     MsgDisp("Honda","Well, see you!");
     MsgDisp("主人公","(Huh, that's it?
-Did ｛本多＊＊｝ just come to
-cheer me on?)");
+Did ｛本多＊＊｝ just come to cheer me on?)");
     break ;
     case 3:
     ChEye(3,0);
@@ -121,8 +120,7 @@ Thanks!");
     MsgDisp("Honda","No problem!
 Well, keep up the good work.");
     MsgDisp("主人公","(...Hm? Did he really just come here to
-give me advice? ｛本多＊＊｝ is
-so kind...)");
+give me advice? ｛本多＊＊｝ is so kind...)");
     break ;
     default :
     DbgAssert(1);

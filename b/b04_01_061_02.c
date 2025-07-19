@@ -96,9 +96,8 @@ Especially today.");
         VoicePlay("B040106102_01_080");
         MsgDisp("Kazama","You understand?
 So leaving my side today is prohibited.");
-        MsgDisp("主人公","(Seems like ｛風真＊＊｝ is
-banning more and more things these
-days...)");
+        MsgDisp("主人公","(Seems like ｛風真＊＊｝ is banning more
+and more things these days...)");
         break ;
         default :
         DbgAssert(1);

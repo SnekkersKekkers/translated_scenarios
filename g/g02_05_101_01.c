@@ -33,9 +33,9 @@ ChMotion(5,4);
 VoicePlay("G020510101_05_050");
 MsgDisp("Hiiragi","I'm sorry to the others, but I have no
 intention of giving up being by your side.");
-MsgDisp("主人公","(Others...Somewhat, today I get the
-feeling ｛柊＊＊＊｝, is
-different to usual...)");
+MsgDisp("主人公","(Others...
+Somewhat, today I get the feeling
+｛柊＊＊＊｝, is different to usual...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

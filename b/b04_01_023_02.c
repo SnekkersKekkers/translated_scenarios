@@ -75,8 +75,7 @@ someone. I especially can't stand you.");
         ChCheek(1,7);
         VoicePlay("B040102302_01_070");
         MsgDisp("Kazama","Here, give me your hand.");
-        MsgDisp("主人公","｛風真＊＊｝, you can read
-palms?");
+        MsgDisp("主人公","｛風真＊＊｝, you can read palms?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,0);

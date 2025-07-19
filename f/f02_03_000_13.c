@@ -45,5 +45,5 @@ ChMotion(3,1);
 VoicePlay("F020300013_03_040");
 MsgDisp("Honda","Oh, if you'd like...
 I can be your guide, too.");
-MsgDisp("主人公","(I'm already aboard the
-｛本多＊＊｝ tour...)");
+MsgDisp("主人公","(I'm already aboard the ｛本多＊＊｝
+tour...)");

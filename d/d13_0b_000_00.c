@@ -55,8 +55,8 @@ ChClose(1,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(1,254,0,0,2,#1,#1,0,0,0,30);
-MsgDisp("主人公","｛風真＊＊｝, what business did
-you have with me?");
+MsgDisp("主人公","｛風真＊＊｝, what business did you have
+with me?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

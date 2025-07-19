@@ -13,5 +13,5 @@ MsgDisp("Honda","Your outfit. I wasn't interested in this
 style before, but recently I find myself
 strangely drawn to it.");
 MsgDisp("主人公","(Yay!
-It seems ｛本多＊＊｝ has come to
-like this kind of outfit too.)");
+It seems ｛本多＊＊｝ has come to like this
+kind of outfit too.)");

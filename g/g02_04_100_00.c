@@ -41,8 +41,7 @@ SEWait();
 VoicePlay("G020410000_04_060");
 MsgDisp("Nanatsumori","We'd just stare at each other's eyes.");
 MsgDisp("主人公","(Woah...
-｛七ツ森＊｝'s face is
-really close!)");
+｛七ツ森＊｝'s face is really close!)");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410000_04_070");

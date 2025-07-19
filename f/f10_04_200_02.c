@@ -6,8 +6,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,1);
 ChOpen(6,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝ and
-｛氷室＊＊｝!");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝ and ｛氷室＊＊｝!");
 VoicePlay("F100420002_04_000");
 MsgDisp("Nanatsumori","Yo.");
 ChEye(6,0);

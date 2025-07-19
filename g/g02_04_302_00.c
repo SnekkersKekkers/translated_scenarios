@@ -19,10 +19,9 @@ ChMotion(4,1,1);
 VoicePlay("G020430200_04_030");
 MsgDisp("Nanatsumori","What.");
 ChEye(4,5);
-MsgDisp("主人公","You are a model after all,
-｛七ツ森＊｝. You don't
-have to do anything cause you're already
-cool.");
+MsgDisp("主人公","You are a model after all, ｛七ツ森＊｝.
+You don't have to do anything cause you're
+already cool.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);

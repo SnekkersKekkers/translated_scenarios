@@ -45,9 +45,9 @@ watching you work!");
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_560");
     MsgDisp("Honda","If I'm not careful, you'll surpass me.");
-    MsgDisp("主人公","(Hehe! I still have a long way to go...
-But I'm happy ｛本多＊＊｝
-praised me!)");
+    MsgDisp("主人公","(Hehe!
+I still have a long way to go...
+But I'm happy ｛本多＊＊｝ praised me!)");
     break ;
     case 4:
     case 5:

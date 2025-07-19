@@ -71,8 +71,7 @@ ChClose(4,0,30);
 ChLayout(1);
 ChNanaType(#1);
 ChOpen(4,255,0,4,3,#1,#1,0,0,0,60);
-MsgDisp("主人公","｛七ツ森＊｝, you're so
-mean...");
+MsgDisp("主人公","｛七ツ森＊｝, you're so mean...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

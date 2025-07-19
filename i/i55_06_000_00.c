@@ -103,8 +103,8 @@ Well, work hard.");
     BGMStop();
     ChClose(6);
     MsgDisp("主人公","(I guess he's having a snack?
-｛氷室＊＊｝ eating Japanese sweets
-might be a little surprising...)");
+｛氷室＊＊｝ eating Japanese sweets might be
+a little surprising...)");
     break ;
     case 4:
     case 5:
@@ -123,8 +123,8 @@ Welcome.");
     VoicePlay("I550600000_06_130");
     MsgDisp("Himuro","This place is always busy.");
     MsgDisp("主人公","Yes, I'm thankful for that.
-But ｛氷室＊＊｝, do you come here
-that often?");
+But ｛氷室＊＊｝, do you come here that
+often?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -181,8 +181,8 @@ Just means you've gotten good at this.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(6);
-    MsgDisp("主人公","(Could it be that ｛氷室＊＊｝ came
-to cheer me on?)");
+    MsgDisp("主人公","(Could it be that ｛氷室＊＊｝ came to cheer
+me on?)");
     break ;
     default :
     DbgAssert(1);

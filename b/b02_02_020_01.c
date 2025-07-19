@@ -19,5 +19,5 @@ ChEyeOpenLevel(2,7);
 VoicePlay("B020202001_02_020");
 MsgDisp("Sassa","But we're going on a 3-person date again
 today...");
-MsgDisp("主人公","(I think ｛颯砂＊＊｝ doesn't
-like this T-shirt much...)");
+MsgDisp("主人公","(I think ｛颯砂＊＊｝ doesn't like this
+T-shirt much...)");

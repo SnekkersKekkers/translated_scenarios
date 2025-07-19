@@ -95,8 +95,8 @@ Mari?");
 He acts like a dad!");
     StlEyeOpenLevel(22,5,1);
     MsgDisp("主人公","(Like a dad, huh...
-It's true, when I'm with
-｛颯砂＊＊｝ I feel at ease.)");
+It's true, when I'm with ｛颯砂＊＊｝ I
+feel at ease.)");
     break ;
     default :
     DbgAssert(1);

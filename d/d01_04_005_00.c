@@ -140,8 +140,7 @@ MsgDisp("Nanatsumori","Right.
 Just one of the few things I enjoy about
 this place.");
 MsgDisp("主人公","(Hehe.
-｛七ツ森＊｝, I'm happy
-for you!)");
+｛七ツ森＊｝, I'm happy for you!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

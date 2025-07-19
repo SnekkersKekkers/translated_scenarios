@@ -18,9 +18,9 @@ ChCheek(1,6);
 VoicePlay("T020101000_01_510");
 MsgDisp("Kazama","Would you be okay with it?
 Marriage that is...");
-MsgDisp("主人公","Yeah. I've let down
-｛風真＊＊｝ because I forgot
-so many things, I'm sorry.");
+MsgDisp("主人公","Yeah.
+I've let down ｛風真＊＊｝ because I
+forgot so many things, I'm sorry.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,0);
@@ -94,8 +94,7 @@ MsgDisp("Kazama","Keep your eyes open.");
 MsgDisp("主人公","...Eh.");
 VoiceEVSPlay(1);
 VoicePlay("T020101000_01_640");
-MsgDisp("Kazama","｛主人公｝, you won't forget this,
-right?");
+MsgDisp("Kazama","｛主人公｝, you won't forget this, right?");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

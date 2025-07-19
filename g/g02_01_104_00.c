@@ -72,9 +72,8 @@ ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G020110400_01_090");
 MsgDisp("Kazama","...Wait, is this how I really feel...∋");
-MsgDisp("主人公","(I think ｛風真＊＊｝'s fashion
-preferences might be a bit difficult for
-me...)");
+MsgDisp("主人公","(I think ｛風真＊＊｝'s fashion preferences
+might be a bit difficult for me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

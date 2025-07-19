@@ -15,9 +15,9 @@ Wait(30,0);
 VoicePlay("G110500701_05_000");
 MsgDisp("Hiiragi","Next, you'll be in charge of the
 cleanup-campaign.");
-MsgDisp("主人公","Yes. Come to think of it
-｛柊＊＊＊｝ seemed to be
-having a lot of fun last time.");
+MsgDisp("主人公","Yes.
+Come to think of it ｛柊＊＊＊｝ seemed to
+be having a lot of fun last time.");
 SEStop("EV_SE_712",0);
 ChMotion(5,2);
 VoicePlay("G110500701_05_010");
@@ -39,18 +39,18 @@ SEStop("EV_SE_712",0);
 VoicePlay("G110500701_05_030");
 MsgDisp("Hiiragi","That's right, when I say this greeting I
 get to hear your laugh.");
-MsgDisp("主人公","Yes. It's something guys often say but
-it's kind of funny when
-｛柊＊＊＊｝ says it.");
+MsgDisp("主人公","Yes.
+It's something guys often say but it's
+kind of funny when ｛柊＊＊＊｝ says it.");
 ChMouth(5,1);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110500701_05_040");
 MsgDisp("Hiiragi","What does that mean?");
-MsgDisp("主人公","What does it mean? When
-｛柊＊＊＊｝ talks casually I
-find myself laughing for some odd reason.");
+MsgDisp("主人公","What does it mean?
+When ｛柊＊＊＊｝ talks casually I find
+myself laughing for some odd reason.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

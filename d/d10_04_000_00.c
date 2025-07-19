@@ -27,7 +27,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(4,0,30);
-MsgDisp("主人公","(Hehe! ｛七ツ森＊｝
-borrowed something from me. How rare.)");
+MsgDisp("主人公","(Hehe! ｛七ツ森＊｝ borrowed something
+from me. How rare.)");
 MsgClose();
 ScrFadeOut(0,0);

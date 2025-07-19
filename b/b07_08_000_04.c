@@ -1,5 +1,4 @@
-MsgDisp("主人公","｛大地＊＊｝, do you listen to
-music?");
+MsgDisp("主人公","｛大地＊＊｝, do you listen to music?");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,2,1);

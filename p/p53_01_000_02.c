@@ -106,8 +106,8 @@ But it seems like you have guts too?");
     VoicePlay("P530100002_01_090");
     MsgDisp("Kazama","Come on, do your best.");
     MsgDisp("主人公","Yeah...!");
-    MsgDisp("主人公","(Alright, ｛風真＊＊｝ I can't
-let my performance go bad!
+    MsgDisp("主人公","(Alright, ｛風真＊＊｝ I can't let my
+performance go bad!
 I will try my best!)");
     MsgClose();
     ScrFadeOut(0,0);

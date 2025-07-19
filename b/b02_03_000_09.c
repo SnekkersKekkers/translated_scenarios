@@ -15,5 +15,4 @@ MsgDisp("Honda","Of course.
 You wore it right away and it looks great
 on you, that's a perfect score!");
 MsgDisp("主人公","(Hooray!
-I got a 10/10 from ｛本多＊＊｝
-♪)");
+I got a 10/10 from ｛本多＊＊｝ ♪)");

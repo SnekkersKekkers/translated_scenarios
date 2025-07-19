@@ -10,8 +10,8 @@ MsgDisp("Hiiragi","Even just going to school every day is a
 new experience for me, and on top of that,
 I'm involved in student council
 activities.");
-MsgDisp("主人公","Furthermore, you have the
-｛柊＊＊＊｝ theatre troupe.
+MsgDisp("主人公","Furthermore, you have the ｛柊＊＊＊｝
+theatre troupe.
 It really must be tough.");
 ChEye(5,4);
 VoicePlay("G020530200_05_020");

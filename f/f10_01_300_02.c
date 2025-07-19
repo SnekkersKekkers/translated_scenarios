@@ -10,8 +10,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F100130002_21_000");
 MsgDisp("Michiru","Good morning, Mari.");
-MsgDisp("主人公","Oh, ｛みちる＊｝ and
-｛ひかる＊｝.
+MsgDisp("主人公","Oh, ｛みちる＊｝ and ｛ひかる＊｝.
 Good morning!");
 ChMotion(22,4,1);
 VoicePlay("F100130002_22_000");

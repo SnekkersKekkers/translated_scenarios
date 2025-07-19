@@ -55,8 +55,7 @@ VoicePlay("B050300200_03_050");
 MsgDisp("Honda","The mechanism itself is the same as an
 actual planetarium.");
 MsgDisp("主人公","That's really amazing!
-｛本多＊＊｝ can do some
-commentary now.");
+｛本多＊＊｝ can do some commentary now.");
 StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,0);
@@ -101,9 +100,8 @@ VoicePlay("B050300200_03_110");
 MsgDisp("Honda","Yeah.
 My sister really liked it, so we had fun
 memorizing the stars.");
-MsgDisp("主人公","That kind of upbringing made
-｛本多＊＊｝ who he is today,
-huh?");
+MsgDisp("主人公","That kind of upbringing made ｛本多＊＊｝
+who he is today, huh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

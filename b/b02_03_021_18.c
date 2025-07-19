@@ -12,5 +12,5 @@ VoicePlay("B020302118_03_010");
 MsgDisp("Honda","Yeah, simple clothes are good!
 Too bad I couldn't pull it off.");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like
-clothes like this, too.)");
+｛本多＊＊｝ seems to like clothes like
+this, too.)");

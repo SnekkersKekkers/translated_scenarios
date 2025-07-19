@@ -61,5 +61,5 @@ Now it's up to you to decide what shape of
 success you're going for.");
 MsgDisp("主人公","(I want to get the best possible result,
 not only for everyone, but also for
-｛御影＊＊｝ who had
-helped with all of the preparations.)");
+｛御影＊＊｝ who had helped with all of
+the preparations.)");

@@ -1,7 +1,6 @@
 ChEye(4,2);
 ChMouth(4,4);
-MsgDisp("主人公","I also...like
-｛七ツ森＊｝.");
+MsgDisp("主人公","I also...like ｛七ツ森＊｝.");
 ChMotion(4,0,1);
 VoicePlay("T020411000_04_130");
 MsgDisp("Nanatsumori","...Is that alright?");

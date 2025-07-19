@@ -51,8 +51,7 @@ VoicePlay("H7G0700000_07_060");
 MsgDisp("Mikage","Thank you.
 That message is from everyone.
 See you.");
-MsgDisp("主人公","｛御影＊＊｝, thank you
-very much.");
+MsgDisp("主人公","｛御影＊＊｝, thank you very much.");
 ChClose(7);
 MsgDisp("主人公","(I'm happy that my efforts were
 recognized. I'm glad I worked so hard in

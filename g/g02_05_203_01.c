@@ -9,8 +9,8 @@ ChEye(5,4);
 VoicePlay("G020520301_05_010");
 MsgDisp("Hiiragi","Even in the firefly world, there are
 popular ones, huh?");
-MsgDisp("主人公","Hehe, is it the ｛柊＊＊＊｝ of
-the firefly world?");
+MsgDisp("主人公","Hehe, is it the ｛柊＊＊＊｝ of the
+firefly world?");
 ChEye(5,3);
 VoicePlay("G020520301_05_020");
 MsgDisp("Hiiragi","The poster boy of firefly theatre,
@@ -40,8 +40,8 @@ ChEye(5,4);
 VoicePlay("G020520301_05_070");
 MsgDisp("Hiiragi","Hehe, it's a joke.");
 MsgDisp("主人公","(Sometimes I don't understand whether
-｛柊＊＊＊｝ is being genuine
-or joking...)");
+｛柊＊＊＊｝ is being genuine or
+joking...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

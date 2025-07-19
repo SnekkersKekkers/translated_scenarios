@@ -29,8 +29,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf620",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This is the beach ｛氷室＊＊｝
-always surfed at...)");
+MsgDisp("主人公","(This is the beach ｛氷室＊＊｝ always
+surfed at...)");
 MsgClose();
 ScrFadeOut(0,1);
 MsgType(1);

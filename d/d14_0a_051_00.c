@@ -57,8 +57,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A05100_01_030");
 MsgDisp("Kazama","Say whatever you want.");
-MsgDisp("主人公","(When I talk to ｛風真＊＊｝
-when it's just the two of us...
+MsgDisp("主人公","(When I talk to ｛風真＊＊｝ when it's
+just the two of us...
 What kind of conversations do we have?)");
 BGMStop();
 MsgClose();

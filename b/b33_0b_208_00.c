@@ -31,8 +31,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("B330B20800_01_000");
-MsgDisp("Kazama","｛主人公｝, I'm expecting a good
-reason for this.");
+MsgDisp("Kazama","｛主人公｝, I'm expecting a good reason for
+this.");
 MsgDisp("主人公","Hey, everyone's already having fun right?");
 ChEye(4,0);
 ChMouth(4,3);

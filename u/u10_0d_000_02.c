@@ -8,8 +8,7 @@ ChMotion(22,3,1);
 VoicePlay("U100D00002_22_000");
 MsgDisp("Hikaru","Hii～ i, Mari▼
 I found you!");
-MsgDisp("主人公","｛みちる＊｝,
-｛ひかる＊｝.
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 What's up?");
 ChMotion(22,4,1);
 VoicePlay("U100D00002_22_010");

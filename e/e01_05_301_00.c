@@ -7,8 +7,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝, what a
-coincidence!");
+MsgDisp("主人公","Ah, ｛七ツ森＊｝, what a coincidence!");
 VoicePlay("E010530100_04_000");
 MsgDisp("Nanatsumori","Yo.
 Have you happened to see a skull bear
@@ -44,8 +43,7 @@ VoicePlay("E010530100_04_020");
 MsgDisp("Nanatsumori","Ah, there it is!
 That's my skull bear.
 Yano-san you really saved me...");
-MsgDisp("主人公","Thank goodness ｛柊＊＊＊｝
-picked it up.");
+MsgDisp("主人公","Thank goodness ｛柊＊＊＊｝ picked it up.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -140,10 +138,9 @@ VoicePlay("E010530100_04_090");
 MsgDisp("Nanatsumori","Yano-san you're my idol.
 Thank you so much～...");
 ChMotion(5,4);
-MsgDisp("主人公","(Is it possible ｛柊＊＊＊｝
-and ｛七ツ森＊｝ will
-become closer because of skull bear? Hehe,
-I'm glad!)");
+MsgDisp("主人公","(Is it possible ｛柊＊＊＊｝ and
+｛七ツ森＊｝ will become closer because
+of skull bear? Hehe, I'm glad!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

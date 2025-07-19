@@ -1,8 +1,8 @@
 BGOpen("ho210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(...Come to think of it, the other day on
-the rooftop ｛風真＊＊｝ was on
-the phone with his parents...)");
+the rooftop ｛風真＊＊｝ was on the phone
+with his parents...)");
 MsgDisp("主人公","(It sounded like they were talking about
 something serious...)");
 SEPlay("EV_SE_577");
@@ -64,8 +64,8 @@ BGMPlay("BGM_C01_RYOUTA_B",0.01);
 SEPlay("EV_SE_604",1);
 ScrFadeIn(0);
 MsgDisp("主人公","Woah...
-｛風真＊＊｝, are you actually
-good at cooking?");
+｛風真＊＊｝, are you actually good at
+cooking?");
 SEVol(0.5,0.8);
 StlMouth(1,1);
 VoicePlay("D010100500_01_050");

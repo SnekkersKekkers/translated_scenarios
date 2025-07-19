@@ -58,8 +58,8 @@ MsgDisp("Honda","But honestly, I'd be really happy if we
 could take our relationship to a new
 level!");
 MsgDisp("主人公","Yeah, thanks ｛本多＊＊｝.");
-MsgDisp("主人公","(I see, that's what ｛本多＊＊｝
-is thinking about...)");
+MsgDisp("主人公","(I see, that's what ｛本多＊＊｝ is
+thinking about...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

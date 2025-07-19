@@ -99,8 +99,7 @@ of us could hear it.");
 out.");
         ChMouth(1,2);
         MsgDisp("主人公","Whoa!
-｛風真＊＊｝, I think I just
-heard it!");
+｛風真＊＊｝, I think I just heard it!");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,0);

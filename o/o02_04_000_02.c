@@ -50,8 +50,8 @@ little more.");
     VoicePlay("O020400002_04_040");
     MsgDisp("Nanatsumori","Well, it's good you weren't hurt.
 Good work.");
-    MsgDisp("主人公","(Hm, but I wanted to show
-｛七ツ森＊｝ a win.)");
+    MsgDisp("主人公","(Hm, but I wanted to show ｛七ツ森＊｝
+a win.)");
     break ;
     default :
     DbgAssert(1);

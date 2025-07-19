@@ -79,8 +79,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C10400_07_030");
-MsgDisp("Mikage","｛主人公｝, it seems like everyone
-wants to come with you on a summer night?");
+MsgDisp("Mikage","｛主人公｝, it seems like everyone wants to
+come with you on a summer night?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -136,10 +136,9 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10400_07_060");
 MsgDisp("Mikage","What's up with you two?");
-MsgDisp("主人公","(Hehe, ｛御影＊＊｝ is
-being put on the spot. I wonder who
-｛御影＊＊｝ wants to see
-the fireflies with?)");
+MsgDisp("主人公","(Hehe, ｛御影＊＊｝ is being put on the
+spot. I wonder who ｛御影＊＊｝ wants
+to see the fireflies with?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

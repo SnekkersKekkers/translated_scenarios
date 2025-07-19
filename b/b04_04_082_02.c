@@ -119,8 +119,8 @@ have only scared me..");
         MsgDisp("Nanatsumori","｛主人公｝, you understand, right?
 How I feel.");
         MsgDisp("主人公","(I understand how he feels, but...
-The ｛七ツ森＊｝ who's
-scared of insects is kind of cute?)");
+The ｛七ツ森＊｝ who's scared of
+insects is kind of cute?)");
         break ;
         default :
         DbgAssert(1);

@@ -35,9 +35,9 @@ I wouldn't tell such an unamusing joke.");
     MsgDisp("Hiiragi","The way you express your nerves, all the
 way down to the very tips of your fingers
 in your performance, inspires me.");
-    MsgDisp("主人公","Thank you. But, hearing you say that is
-starting to make me a little nervous,
-｛柊＊＊＊｝...");
+    MsgDisp("主人公","Thank you.
+But, hearing you say that is starting to
+make me a little nervous, ｛柊＊＊＊｝...");
     ChEye(5,3);
     VoicePlay("H480500000_05_040");
     MsgDisp("Hiiragi","Haha, you've already received a perfect

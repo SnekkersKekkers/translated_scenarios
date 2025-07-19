@@ -96,8 +96,7 @@ MsgDisp("Mikage","Then, let's gather everyone and celebrate!
 Let's go!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(Hehe, looks like
-｛御影＊＊｝ is the
+MsgDisp("主人公","(Hehe, looks like ｛御影＊＊｝ is the
 happiest? He's helped us a lot since the
 preparation period.)");
 MsgClose();

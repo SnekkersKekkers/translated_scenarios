@@ -15,8 +15,7 @@ VoicePlay("B050600100_06_000");
 MsgDisp("Himuro","Ah, hey...but, that's incorrect.
 We're just friends.");
 MsgDisp("主人公","Uhm...
-｛氷室＊＊｝, do you come here
-often?");
+｛氷室＊＊｝, do you come here often?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

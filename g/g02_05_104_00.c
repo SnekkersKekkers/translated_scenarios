@@ -46,9 +46,8 @@ VoicePlay("G020510400_05_070");
 MsgDisp("Hiiragi","For now it's no good.
 It appears I'm emotionally invested in a
 single firefly...");
-MsgDisp("主人公","(Today, I have a feeling
-｛柊＊＊＊｝ is different to
-usual...)");
+MsgDisp("主人公","(Today, I have a feeling ｛柊＊＊＊｝ is
+different to usual...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -7,8 +7,8 @@ switch (ChPrmGet(2,6)){
     VoicePlay("R060200003_02_000");
     MsgDisp("Sassa","Woah, that's the one I brought...");
     MsgDisp("主人公","Wow!
-Ah, ｛颯砂＊＊｝, you got the gift
-that I brought too.");
+Ah, ｛颯砂＊＊｝, you got the gift that I
+brought too.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);

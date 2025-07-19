@@ -20,8 +20,7 @@ VoicePlay("D140D07061_22_000");
 MsgDisp("Hikaru","Eh, Mari likes younger guys?
 Is she in love?");
 MsgDisp("主人公","Hey.
-｛ひかる＊｝, you're
-overthinking it!");
+｛ひかる＊｝, you're overthinking it!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -41,10 +40,9 @@ ChMotion(22,3,1);
 VoicePlay("D140D07061_22_020");
 MsgDisp("Hikaru","Hikaru can tell you about his feelings at
 any time▼");
-MsgDisp("主人公","(｛みちる＊｝,
-｛ひかる＊｝. Thank you
-but...You're thinking about this too
-much!)");
+MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝.
+Thank you but...
+You're thinking about this too much!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -35,18 +35,18 @@ ChMotion(4,2,1);
 VoicePlay("P840400002_04_030");
 MsgDisp("Nanatsumori","...Is the student council's green tea
 okay?");
-MsgDisp("主人公","Hehe! Never mind that, leave it to me.
-｛七ツ森＊｝, just sit
-there, okay?");
+MsgDisp("主人公","Hehe!
+Never mind that, leave it to me.
+｛七ツ森＊｝, just sit there, okay?");
 ChEye(4,5);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("P840400002_04_040");
 MsgDisp("Nanatsumori","Ohh...
 Capable girls hit different.");
-MsgDisp("主人公","(Hehe! I want
-｛七ツ森＊｝ and everyone
-to enjoy the festival to the fullest!)");
+MsgDisp("主人公","(Hehe!
+I want ｛七ツ森＊｝ and everyone to
+enjoy the festival to the fullest!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

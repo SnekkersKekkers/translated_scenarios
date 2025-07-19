@@ -17,8 +17,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
-MsgDisp("主人公","｛颯砂＊＊｝, sorry for the
-trouble.");
+MsgDisp("主人公","｛颯砂＊＊｝, sorry for the trouble.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

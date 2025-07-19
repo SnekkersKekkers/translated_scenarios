@@ -6,8 +6,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoiceEVSPlay(1);
 VoicePlay("B070100002_01_390");
-MsgDisp("Kazama","｛主人公｝, your face is kinda
-red?");
+MsgDisp("Kazama","｛主人公｝, your face is kinda red?");
 MsgDisp("主人公","Y-Yeah.
 I was dazed out for a bit.");
 ChEye(1,0);
@@ -17,8 +16,7 @@ VoicePlay("B070100002_01_400");
 MsgDisp("Kazama","You're always a bit dazed out, but thos
 was different?");
 MsgDisp("主人公","Hey.
-Maybe it's because I'm with
-｛風真＊＊｝?");
+Maybe it's because I'm with ｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);

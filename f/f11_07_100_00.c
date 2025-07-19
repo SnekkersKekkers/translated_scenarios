@@ -5,11 +5,9 @@ MsgClose();
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("F110710000_07_000");
-MsgDisp("Mikage","｛主人公｝, are you enjoying the
-festival?");
+MsgDisp("Mikage","｛主人公｝, are you enjoying the festival?");
 MsgDisp("主人公","Yes!
-Oh, ｛御影＊＊｝, that
-outfit...");
+Oh, ｛御影＊＊｝, that outfit...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

@@ -77,8 +77,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("D140C05100_07_030");
-MsgDisp("Mikage","｛主人公｝, why is it only you who
-is that surprised?");
+MsgDisp("Mikage","｛主人公｝, why is it only you who is that
+surprised?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -132,8 +132,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("D140C05100_05_050");
 MsgDisp("Hiiragi","It appears that I cannot.");
 MsgDisp("主人公","(Haa, that caught me off guard.
-What was ｛柊＊＊＊｝ saying so
-suddenly?)");
+What was ｛柊＊＊＊｝ saying so suddenly?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

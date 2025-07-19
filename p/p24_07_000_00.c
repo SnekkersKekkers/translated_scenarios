@@ -154,8 +154,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(I wonder what that was about...? Speaking
 of in the middle of the performance
-｛御影＊＊｝ suddenly
-changed...)");
+｛御影＊＊｝ suddenly changed...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

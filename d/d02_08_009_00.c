@@ -74,13 +74,12 @@ MsgDisp("主人公","I...");
 MsgSel("I'll quit working at the gas station.","I'll cheer ｛大地＊＊｝ on!");
 switch (MsgSelRsltGet()){
     case 0:
-    MsgDisp("主人公","Since ｛大地＊＊｝ is
-quitting, I'll quit too!");
+    MsgDisp("主人公","Since ｛大地＊＊｝ is quitting, I'll quit
+too!");
     VoicePlay("D020800900_08_070");
     MsgDisp("Shirahane","Ehh∋
 You're fired up...?");
-    MsgDisp("主人公","I'm not going to lose to
-｛大地＊＊｝.
+    MsgDisp("主人公","I'm not going to lose to ｛大地＊＊｝.
 I need to study for the exam.");
     VoicePlay("D020800900_08_080");
     MsgDisp("Shirahane","Wait...Are ya listenin' to me? If ya do

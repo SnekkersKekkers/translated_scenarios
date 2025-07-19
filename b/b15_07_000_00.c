@@ -4,8 +4,7 @@ MsgClose();
 ChOpen(7,255,1,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150700000_07_000");
-MsgDisp("Mikage","...You're not just Miss Diligent, are
-you?");
+MsgDisp("Mikage","...You're not just Miss Diligent, are you?");
 MsgDisp("主人公","Umm...was it no good.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -28,8 +27,7 @@ VoicePlay("B150700000_07_030");
 MsgDisp("Mikage","Haaa..
 Don't overdo it.
 You'll shatter my image of Miss Diligent.");
-MsgDisp("主人公","I wanted to touch
-｛御影＊＊｝...");
+MsgDisp("主人公","I wanted to touch ｛御影＊＊｝...");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);

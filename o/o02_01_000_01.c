@@ -52,8 +52,8 @@ me...)");
     MsgClose();
     ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, it was close,
-but we lost.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, it was close, but we
+lost.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);

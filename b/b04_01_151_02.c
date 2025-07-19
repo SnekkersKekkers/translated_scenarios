@@ -63,8 +63,8 @@ eat together after this?");
         ChCheek(1,5);
         VoicePlay("B040115102_01_050");
         MsgDisp("Kazama","A fancy dinner in the waterfront area...");
-        MsgDisp("主人公","Hehe, ｛風真＊＊｝ is also a
-gourmand, isn't he?");
+        MsgDisp("主人公","Hehe, ｛風真＊＊｝ is also a gourmand,
+isn't he?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,3);

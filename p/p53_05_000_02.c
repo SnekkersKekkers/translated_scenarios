@@ -17,8 +17,8 @@ all these last three years?)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, this is your last
-stage, I look forward to it.");
+    MsgDisp("Hiiragi","｛主人公｝, this is your last stage, I look
+forward to it.");
     MsgDisp("主人公","｛柊＊＊＊｝, thank you!
 I'll do my best so I can show the results
 of my three years of hard work.");
@@ -76,8 +76,8 @@ all these last three years?)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_050");
-    MsgDisp("Hiiragi","｛主人公｝, this is your last
-performance, correct?");
+    MsgDisp("Hiiragi","｛主人公｝, this is your last performance,
+correct?");
     MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 Thank you for coming.");
     ChEye(5,2);
@@ -94,8 +94,7 @@ performing on stage.");
     MsgDisp("Hiiragi","I wanted to relieve your stress, but it
 appears there's no need for that.");
     MsgDisp("主人公","No.
-I calmed down seeing
-｛柊＊＊＊｝'s face.");
+I calmed down seeing ｛柊＊＊＊｝'s face.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -103,8 +102,8 @@ I calmed down seeing
     MsgDisp("Hiiragi","Is that so.
 Then, I'll enjoy your performance without
 haste.");
-    MsgDisp("主人公","So that I can satisfy
-｛柊＊＊＊｝, I'll do my best.");
+    MsgDisp("主人公","So that I can satisfy ｛柊＊＊＊｝, I'll do
+my best.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,3);

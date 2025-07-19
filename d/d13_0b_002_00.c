@@ -9,8 +9,8 @@ MsgDisp("主人公","(Haa...
 It's already graduation soon huh?)");
 MsgDisp("主人公","(For three years, I got to be in the same
 class as ｛風真＊＊｝)");
-MsgDisp("主人公","(...｛風真＊＊｝, I wonder what
-you're doing right now in England?)");
+MsgDisp("主人公","(...｛風真＊＊｝, I wonder what you're doing
+right now in England?)");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 MsgDisp("主人公","...Hm?");
@@ -97,9 +97,9 @@ VoiceEVSPlay(3);
 MsgDisp("Honda","That's right!
 Let's go, ｛主人公｝.");
 MsgDisp("主人公","...Yeah!");
-MsgDisp("主人公","(I'm curious what ｛風真＊＊｝'s
-message said though...I see, there is only
-a little bit of time left where I can be
+MsgDisp("主人公","(I'm curious what ｛風真＊＊｝'s message
+said though...I see, there is only a
+little bit of time left where I can be
 with everyone together like this...)");
 BGMStop();
 MsgClose();

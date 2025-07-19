@@ -27,8 +27,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ah, you're finally back.");
 VoicePlay("B050100100_01_010");
 MsgDisp("Kazama","There were nothing but kiddy ones.");
-MsgDisp("主人公","Thank you...hey, ｛風真＊＊｝
-also uses floats?");
+MsgDisp("主人公","Thank you...hey, ｛風真＊＊｝ also uses
+floats?");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("B050100100_01_020");

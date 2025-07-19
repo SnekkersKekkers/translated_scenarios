@@ -48,6 +48,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(I got a present from ｛氷室＊＊｝
-in return for Valentine's!
+MsgDisp("主人公","(I got a present from ｛氷室＊＊｝ in return
+for Valentine's!
 I'm so happy.)");

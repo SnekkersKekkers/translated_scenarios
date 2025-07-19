@@ -40,8 +40,8 @@ MsgDisp("Himuro","Nozomu-senpai is a glutton and...
 Ryota-senpai is a fussy eater.");
 ChEye(1,0);
 ChMouth(1,2);
-MsgDisp("主人公","｛風真＊＊｝ definitely has
-quite sensitive tastes?");
+MsgDisp("主人公","｛風真＊＊｝ definitely has quite
+sensitive tastes?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

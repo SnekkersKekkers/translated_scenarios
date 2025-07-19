@@ -58,8 +58,7 @@ I naturally unintentionally smile.");
 MsgDisp("","That's the kind of girl she is.");
 MsgClear();
 MsgDisp("主人公","\"I planted them next to
-｛御影＊＊｝'s
-bulbs.'\"");
+｛御影＊＊｝'s bulbs.'\"");
 VoicePlay("Y300700300_07_030");
 MsgDisp("Mikage","\"Uh-huh. When they bloom, we can tell
 our fortunes based off the colour of

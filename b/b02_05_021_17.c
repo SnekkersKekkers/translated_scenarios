@@ -14,5 +14,5 @@ VoicePlay("B020502117_05_020");
 MsgDisp("Hiiragi","I believe I understand why I can feel so
 at ease near you.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems to like
-these clothes, too!)");
+｛柊＊＊＊｝ seems to like these clothes,
+too!)");

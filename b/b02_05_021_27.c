@@ -19,5 +19,5 @@ MsgDisp("Hiiragi","But oddly enough, I don't think that about
 what you're wearing.
 If anything, I can't seem to look away.");
 MsgDisp("主人公","(Oh, good.
-｛柊＊＊＊｝ seems to have come
-to like these clothes now.)");
+｛柊＊＊＊｝ seems to have come to like
+these clothes now.)");

@@ -4,8 +4,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Ah, a phone call from
-｛風真＊＊｝.)");
+    MsgDisp("主人公","(Ah, a phone call from ｛風真＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -28,8 +27,7 @@ See you later.");
 Let's stop for today...)");
     break ;
     case 3:
-    MsgDisp("主人公","(Ah, a phone call from
-｛風真＊＊｝!)");
+    MsgDisp("主人公","(Ah, a phone call from ｛風真＊＊｝!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

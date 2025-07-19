@@ -16,8 +16,8 @@ Pink Angel!
 Finishing blow!");
 VoicePlay("P240D01000_46_000");
 MsgDisp("White","A beginner of love...?
-Love hunter, White angel! \"
-Love Heart Forever\".");
+Love hunter, White angel! 
+\"Love Heart Forever\".");
 SEPlay("EV_SE_809");
 Wait(100,0);
 BGMStop(2);
@@ -85,8 +85,7 @@ VoicePlay("P240D01000_22_040");
 MsgDisp("Hikaru","Hikaru too!
 I want to make love bloom in Mari's
 innocent heart▼");
-MsgDisp("主人公","｛みちる＊｝,
-｛ひかる＊｝...
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝...
 Thank you!");
 MsgClose();
 ScrFadeOut(0,0);

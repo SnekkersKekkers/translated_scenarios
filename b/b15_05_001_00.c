@@ -24,8 +24,7 @@ ChMouth(5,4);
 VoicePlay("B150500100_05_030");
 MsgDisp("Hiiragi","Heheh, haha.");
 MsgDisp("主人公","...Ah, could it be that you were
-pretending to be angry,
-｛柊＊＊＊｝?");
+pretending to be angry, ｛柊＊＊＊｝?");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);

@@ -54,8 +54,7 @@ and introverted Nanatsumori, huh...");
 I won't win your heart...
 Whoops, see you.");
     MsgDisp("主人公","(I'll work a little harder too...!
-｛七ツ森＊｝, do your
-best!)");
+｛七ツ森＊｝, do your best!)");
     break ;
     default :
     DbgAssert(1);

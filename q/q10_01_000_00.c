@@ -62,9 +62,8 @@ VoicePlay("Q100100000_01_050");
 MsgDisp("Kazama","Huh...
 There sure are a lot of stylish shops
 around here.");
-MsgDisp("主人公","If it's coming from
-｛風真＊＊｝ then there's no
-doubt about it, right?");
+MsgDisp("主人公","If it's coming from ｛風真＊＊｝ then
+there's no doubt about it, right?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

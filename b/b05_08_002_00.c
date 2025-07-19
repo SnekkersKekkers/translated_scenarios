@@ -77,8 +77,8 @@ StlEye(8,3);
 StlMouth(8,0);
 VoicePlay("B050800200_08_100");
 MsgDisp("Shirahane","Eh?");
-MsgDisp("主人公","Right now, ｛大地＊＊｝ seems
-like he's giving everything he's got too.");
+MsgDisp("主人公","Right now, ｛大地＊＊｝ seems like he's
+giving everything he's got too.");
 StlEye(8,3);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5);
@@ -140,8 +140,8 @@ VoicePlay("B050800200_08_190");
 MsgDisp("Shirahane","That's fine.
 You should just stay like that.
 I'm the one who should change.");
-MsgDisp("主人公","(Seems like ｛大地＊＊｝ has
-made a decision.
+MsgDisp("主人公","(Seems like ｛大地＊＊｝ has made a
+decision.
 A single path...he's found his goal.)");
 BGMStop();
 MsgClose();

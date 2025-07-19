@@ -12,8 +12,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A05002_02_000");
 MsgDisp("Sassa","Hmmm...");
-MsgDisp("主人公","What's up with you two,
-｛風真＊＊｝,
+MsgDisp("主人公","What's up with you two, ｛風真＊＊｝,
 ｛颯砂＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);

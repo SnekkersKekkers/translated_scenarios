@@ -26,7 +26,7 @@ Let's go.");
     ChMotion(1,3);
     VoicePlay("B030101001_01_020");
     MsgDisp("Kazama","You got it.
-Well, let's be off.");
+Well, let's go.");
     MsgDispSksp(0);
     break ;
     default :

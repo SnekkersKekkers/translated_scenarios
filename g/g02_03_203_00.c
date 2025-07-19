@@ -77,8 +77,7 @@ MsgDisp("Honda","Wait, forget that.
 I feel like my sister would scold me for
 that one.");
 MsgDisp("主人公","(Hehe!
-I enjoy ｛本多＊＊｝'s talks
-though...)");
+I enjoy ｛本多＊＊｝'s talks though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,8 +5,7 @@ switch (ChPrmGet(8,6)){
 You know, today when I saw the Hanatsubaki
 twins, I couldn't stop smiling.");
     MsgDisp("主人公","...Because");
-    MsgDisp("主人公","(They both spoke to
-｛大地＊＊｝...)");
+    MsgDisp("主人公","(They both spoke to ｛大地＊＊｝...)");
     break ;
     case 4:
     case 5:
@@ -15,8 +14,7 @@ twins, I couldn't stop smiling.");
 kept grinning at me whenever we spoke. I
 wonder...\".");
     MsgDisp("主人公","...Because");
-    MsgDisp("主人公","(They both spoke to
-｛大地＊＊｝...)");
+    MsgDisp("主人公","(They both spoke to ｛大地＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

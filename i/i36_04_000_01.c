@@ -82,8 +82,7 @@ Feels nice.");
     VoicePlay("I360400001_04_060");
     MsgDisp("Nanatsumori","...A blend coffee and strawberry
 shortcake, please.");
-    MsgDisp("主人公","(Did ｛七ツ森＊｝ praise
-me?)");
+    MsgDisp("主人公","(Did ｛七ツ森＊｝ praise me?)");
     break ;
     default :
     DbgAssert(1);

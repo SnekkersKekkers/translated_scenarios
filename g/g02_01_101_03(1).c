@@ -75,8 +75,8 @@ ChMotion(1,0);
 VoicePlay("G020110103_01_100");
 MsgDisp("Kazama","Well, even if the balance is off, I'll be
 right back next to you.");
-MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is
-talking about.)");
+MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is talking
+about.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

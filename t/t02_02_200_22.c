@@ -8,8 +8,7 @@ ChCheek(2,10);
 VoicePlay("T020220022_02_000");
 MsgDisp("Sassa","Hey!
 What's wrong?");
-MsgDisp("主人公","That means I love ｛颯砂＊＊｝
-too?");
+MsgDisp("主人公","That means I love ｛颯砂＊＊｝ too?");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,0);

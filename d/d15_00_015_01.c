@@ -14,8 +14,8 @@ ChEyeOpenLevel ( 5,8 ) ;
 VoicePlay ( "D150001501_05_000" ) ;
 MsgDisp ( "Hiiragi","Are you interested?
 You are always welcome to join." ) ;
-MsgDisp ( "主人公","Ehh, ｛風真＊＊｝ and the
-Theater Company∋" ) ;
+MsgDisp ( "主人公","Ehh, ｛風真＊＊｝ and the Theater
+Company∋" ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,2 ) ;
 ChMotion ( 1,1 ) ;
@@ -55,9 +55,9 @@ VoicePlay ( "D150001501_01_030" ) ;
 MsgDisp ( "Kazama","Alright.
 You won't get away with it now.
 Tell me what you were picturing." ) ;
-MsgDisp ( "主人公","(I wonder if ｛風真＊＊｝ would
-be mad if I told him I was picturing him
-wearing a topknot...)" ) ;
+MsgDisp ( "主人公","(I wonder if ｛風真＊＊｝ would be mad if
+I told him I was picturing him wearing a
+topknot...)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

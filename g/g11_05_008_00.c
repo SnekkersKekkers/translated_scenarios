@@ -15,8 +15,7 @@ VoicePlay("G110500800_05_000");
 MsgDisp("Hiiragi","Yes.
 Good work today.");
 MsgDisp("主人公","Huh?
-｛柊＊＊＊｝ still hasn't
-stopped?");
+｛柊＊＊＊｝ still hasn't stopped?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -51,8 +50,7 @@ MsgDisp("Hiiragi","Whether I'm actually helping is another
 matter.");
 MsgDisp("主人公","｛柊＊＊＊｝ is fantastic.
 Everyone can feel like they can do their
-best too because of the busy
-｛柊＊＊＊｝.");
+best too because of the busy ｛柊＊＊＊｝.");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);

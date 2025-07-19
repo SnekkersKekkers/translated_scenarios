@@ -2,8 +2,7 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm late...
-Ah, ｛風真＊＊｝ is already
-here!)");
+Ah, ｛風真＊＊｝ is already here!)");
 switch (ChPrmGet(1,6)){
     case 0:
     case 1:

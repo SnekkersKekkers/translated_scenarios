@@ -55,8 +55,7 @@ MsgDisp("Nanatsumori","If you see a girl walk into a coffee shop
 alone with that look on her face, you can
 easily guess.");
 MsgDisp("主人公","Hehe, I see.
-That's impressive,
-｛七ツ森＊｝.");
+That's impressive, ｛七ツ森＊｝.");
 ChMotion(4,1);
 VoicePlay("G110400201_04_060");
 MsgDisp("Nanatsumori","Oh. This item from Habatcher. I heard it

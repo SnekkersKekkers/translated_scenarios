@@ -27,8 +27,8 @@ MsgDisp("Woman A","One more, please.");
 SEPlay("EV_SE_045");
 MsgDisp("","(Flash)");
 MsgDisp("主人公","(That's the quiz king.
-Lots of people are watching
-｛本多＊＊｝ on TV, huh...)");
+Lots of people are watching ｛本多＊＊｝ on
+TV, huh...)");
 VoicePlay("Q070301000_46_020");
 MsgDisp("Woman A","You did it!");
 VoicePlay("Q070301000_47_010");
@@ -48,8 +48,7 @@ StlMouth(3,0);
 ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q070301000_03_010");
-MsgDisp("Honda","｛主人公｝, sorry for keeping you
-waiting.");
+MsgDisp("Honda","｛主人公｝, sorry for keeping you waiting.");
 MsgDisp("主人公","No, I'm fine.
 But it really is impressive that so many
 know about you, ｛本多＊＊｝.");

@@ -57,8 +57,8 @@ Cute.");
         ChMotion(4,0,1);
         VoicePlay("B040416002_04_040");
         MsgDisp("Nanatsumori","Why?");
-        MsgDisp("主人公","After all, ｛七ツ森＊｝
-is a very popular high school model.
+        MsgDisp("主人公","After all, ｛七ツ森＊｝ is a very
+popular high school model.
 If this photo were to be leaked...");
         ChEye(4,4);
         ChMouth(4,4);

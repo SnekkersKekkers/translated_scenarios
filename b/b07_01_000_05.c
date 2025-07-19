@@ -1,5 +1,4 @@
-MsgDisp("主人公","Hey, what are your hobbies,
-｛風真＊＊｝?");
+MsgDisp("主人公","Hey, what are your hobbies, ｛風真＊＊｝?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -33,8 +32,7 @@ VoicePlay("B070100000_01_270");
 MsgDisp("Kazama","That's right, it's deep.
 You start by making your own fly, I don't
 mind that kind of thing.");
-MsgDisp("主人公","(That's typical of skillful
-｛風真＊＊｝.)");
+MsgDisp("主人公","(That's typical of skillful ｛風真＊＊｝.)");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

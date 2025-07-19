@@ -61,8 +61,8 @@ MsgDisp("Kazama","Honda. Please. That's enough. There's no
 point in clarifying it.");
 MsgDisp("主人公","?");
 MsgDisp("主人公","(I think I'm getting along well with
-｛七ツ森＊｝ but...
-everyone seems so worried?)");
+｛七ツ森＊｝ but...everyone seems so
+worried?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

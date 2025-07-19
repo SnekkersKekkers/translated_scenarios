@@ -29,8 +29,8 @@ VoicePlay("G110700200_07_010");
 MsgDisp("Mikage","As expected of Miss Diligent, who's
 willing to accompany me in the
 extracurricular class.");
-MsgDisp("主人公","It's because ｛御影＊＊｝
-isn't in the staffroom much.");
+MsgDisp("主人公","It's because ｛御影＊＊｝ isn't in the
+staffroom much.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

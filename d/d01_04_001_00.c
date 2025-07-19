@@ -4,11 +4,9 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","Ah...
-｛七ツ森＊｝ sent me a
-message.");
+｛七ツ森＊｝ sent me a message.");
 MsgDisp("主人公","\"I'm at the park nearby\" ...
-Eh, ｛七ツ森＊｝, is
-around here∋");
+Eh, ｛七ツ森＊｝, is around here∋");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -177,9 +175,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(4,0,30);
-MsgDisp("主人公","(The sweets were delicious but...Feeling
-｛七ツ森＊｝'s hand on my
-cheek made my heart race like crazy...)");
+MsgDisp("主人公","(The sweets were delicious but...
+Feeling ｛七ツ森＊｝'s hand on my cheek
+made my heart race like crazy...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(4,0);

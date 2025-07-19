@@ -11,8 +11,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H180100000_01_000");
     MsgDisp("Kazama","Yo.
 You're working pretty hard.");
-    MsgDisp("主人公","｛風真＊＊｝, did you come to
-cheer us on?");
+    MsgDisp("主人公","｛風真＊＊｝, did you come to cheer us on?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -99,8 +98,7 @@ together for this...");
 Got it?");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(Alright.
-Let's get a win in front of
-｛風真＊＊｝!)");
+Let's get a win in front of ｛風真＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

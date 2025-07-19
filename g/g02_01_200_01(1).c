@@ -44,8 +44,8 @@ VoicePlay("G020120001_01_050");
 MsgDisp("Kazama","Sorry.
 If things stay like this, my younger self
 won't be satisfied");
-MsgDisp("主人公","(Today's ｛風真＊＊｝ is
-different to usual.
+MsgDisp("主人公","(Today's ｛風真＊＊｝ is different to
+usual.
 I wonder what's wrong...)");
 BGMStop();
 MsgClose();

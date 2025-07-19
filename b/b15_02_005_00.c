@@ -42,9 +42,9 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150200500_02_050");
 MsgDisp("Sassa","Haa, I'm pathetic.");
-MsgDisp("主人公","You're not pathetic. It's because
-｛颯砂＊＊｝ is gentle. I got
-carried away, I'm sorry.");
+MsgDisp("主人公","You're not pathetic.
+It's because ｛颯砂＊＊｝ is gentle.
+I got carried away, I'm sorry.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

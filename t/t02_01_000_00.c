@@ -23,8 +23,8 @@ airport.
 Sorry for leaving you alone.");
 MsgDisp("主人公","Well, I wasn't alone.");
 MsgDisp("主人公","I came here because I had heard the bells
-with ｛風真＊＊｝ when we were
-in elementary school.");
+with ｛風真＊＊｝ when we were in
+elementary school.");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -131,9 +131,9 @@ ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("T020100000_01_150");
 MsgDisp("Kazama","But when I saw you on that hill on the
-morning of the entrance ceremony,
-instead of sorting things out, my feelings
-just exploded.");
+morning of the entrance ceremony, instead
+of sorting things out, my feelings just
+exploded.");
 ChEyeOpenLevel(1,10);
 MsgDisp("主人公","That day...");
 ChEye(1,4);

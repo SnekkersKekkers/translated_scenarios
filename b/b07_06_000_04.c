@@ -1,5 +1,4 @@
-MsgDisp("主人公","｛氷室＊＊｝, do you listen to
-music?
+MsgDisp("主人公","｛氷室＊＊｝, do you listen to music?
 Is there a type you like.");
 ChEye(6,0);
 ChMouth(6,4);

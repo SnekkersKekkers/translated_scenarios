@@ -66,9 +66,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...The note ｛風真＊＊｝ gave
-me...I wonder what it says? I'm not
-sleepy, but I'll take a look.)");
+MsgDisp("主人公","(...The note ｛風真＊＊｝ gave me...I
+wonder what it says? I'm not sleepy, but
+I'll take a look.)");
 SEPlay("EV_SE_662");
 SEWait();
 MsgDisp("主人公","(Um...

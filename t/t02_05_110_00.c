@@ -64,10 +64,9 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_050");
 MsgDisp("Hiiragi","But, I could graduate thanks to you.");
-MsgDisp("主人公","That...That's because
-｛柊＊＊＊｝ worked really hard
-both at the theatre company and at his
-school life.");
+MsgDisp("主人公","That...That's because ｛柊＊＊＊｝ worked
+really hard both at the theatre company
+and at his school life.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);

@@ -23,9 +23,9 @@ VoicePlay("G020110300_01_030");
 MsgDisp("Kazama","...Speaking of which...
 Remember that time at the \"Habakaki Land
 Town\" ferris wheel?");
-MsgDisp("主人公","Ah...yeah. ｛風真＊＊｝, you
-kissed my forehead...Everyone saw, it was
-so embarrassing.");
+MsgDisp("主人公","Ah...yeah.
+｛風真＊＊｝, you kissed my forehead...
+Everyone saw, it was so embarrassing.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

@@ -48,8 +48,8 @@ was when I was in the first grade of
 elementary school. It confused me.");
 ChEye(1,4);
 ChMotion(1,0);
-MsgDisp("主人公","So that's how ｛風真＊＊｝
-spent that day, huh?");
+MsgDisp("主人公","So that's how ｛風真＊＊｝ spent that day,
+huh?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

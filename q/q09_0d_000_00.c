@@ -1,7 +1,6 @@
 BGOpen("sc810",0);
 ChLayout(1);
-MsgDisp("主人公","(｛みちる＊｝ and
-｛ひかる＊｝ are...
+MsgDisp("主人公","(｛みちる＊｝ and ｛ひかる＊｝ are...
 Ah, there!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -10,8 +9,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 SEPlay("EV_SE_544");
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 MsgDisp("主人公","Good morning!
-｛みちる＊｝,
-｛ひかる＊｝.");
+｛みちる＊｝, ｛ひかる＊｝.");
 ChMotion(21,3);
 VoicePlay("Q090D00000_21_000");
 MsgDisp("Michiru","Good morning, Mari.

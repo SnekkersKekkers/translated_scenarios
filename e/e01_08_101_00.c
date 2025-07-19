@@ -18,8 +18,8 @@ VoicePlay("E010810100_08_010");
 MsgDisp("Shirahane","Yeah, hello-");
 ChEye(8,0);
 ChMouth(8,5);
-MsgDisp("主人公","...Somehow ｛大地＊＊｝ is
-giving off a sweet smell...");
+MsgDisp("主人公","...Somehow ｛大地＊＊｝ is giving off a
+sweet smell...");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -85,8 +85,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(8,0,30);
-MsgDisp("主人公","(Wow ｛大地＊＊｝ is a really
-good athlete...)");
+MsgDisp("主人公","(Wow ｛大地＊＊｝ is a really good
+athlete...)");
 MsgClose();
 ScrFadeOut(0);
 ChEyeOpenLevel(8,#1);

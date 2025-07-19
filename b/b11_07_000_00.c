@@ -2,8 +2,7 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh...
-｛御影＊＊｝ still hasn't
-come yet.");
+｛御影＊＊｝ still hasn't come yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -102,8 +101,8 @@ ChPosition(7,0);
 VoicePlay("B110700000_07_060");
 MsgDisp("Mikage","Phew...poor guy.");
 MsgDisp("主人公","Umm...
-｛御影＊＊｝, thank you
-very much for saving me.");
+｛御影＊＊｝, thank you very much for
+saving me.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,5);

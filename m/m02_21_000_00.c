@@ -39,6 +39,5 @@ MsgDisp("主人公","Mm, I'll do that.
 Then, later?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(I made ｛みちる＊｝
-worry.
+MsgDisp("主人公","(I made ｛みちる＊｝ worry.
 I better hurry and get well.)");

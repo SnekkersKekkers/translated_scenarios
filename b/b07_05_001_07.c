@@ -15,8 +15,7 @@ ChMouth(5,2);
 VoicePlay("B070500001_05_520");
 MsgDisp("Hiiragi","Hm, and what is 'that'?");
 MsgDisp("主人公","I suddenly thought about how me and
-｛柊＊＊＊｝...are alone
-together.");
+｛柊＊＊＊｝...are alone together.");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);

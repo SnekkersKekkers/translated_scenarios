@@ -155,8 +155,8 @@ Thank you for your continued patronage.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(ALright!
-｛御影＊＊｝ ate a lot of
-delicious cakes.)");
+｛御影＊＊｝ ate a lot of delicious
+cakes.)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -9,8 +9,7 @@ ChMotion(7,3);
 VoicePlay("S110700000_07_000");
 MsgDisp("Mikage","...Very Bad Luck?");
 MsgDisp("主人公","Eeeh∋
-｛御影＊＊｝, are you
-okay?");
+｛御影＊＊｝, are you okay?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

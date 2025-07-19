@@ -58,8 +58,8 @@ That's a weird thing to ask.");
         MsgDisp("Sassa","Why?
 Did something happen.");
         MsgDisp("主人公","No.
-It's because ｛颯砂＊＊｝ seemed
-interested in camping alone.");
+It's because ｛颯砂＊＊｝ seemed interested
+in camping alone.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);

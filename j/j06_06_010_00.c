@@ -12,8 +12,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060601000_06_000");
         MsgDisp("Himuro","...Ah, so.
 What about meeting up?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝ How
-about that?");
+        MsgDisp("主人公","At ｛待ち合わせ場所｝ How about that?");
         VoicePlay("J060601000_06_010");
         MsgDisp("Himuro","Okay, good.
 There you go.");

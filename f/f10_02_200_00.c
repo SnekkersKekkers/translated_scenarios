@@ -10,8 +10,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,3,0,4,#1,#1,0,1);
 ChOpen(5,254,0,0,4,#1,#1,0,2);
-MsgDisp("主人公","｛颯砂＊＊｝ and
-｛柊＊＊＊｝.
+MsgDisp("主人公","｛颯砂＊＊｝ and ｛柊＊＊＊｝.
 Do you both like hot springs?");
 ChEye(2,0);
 ChMouth(2,4);

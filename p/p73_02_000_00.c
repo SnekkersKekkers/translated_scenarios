@@ -16,8 +16,7 @@ I'm nervous..)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P730200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, how are the
-preparations?
+    MsgDisp("Sassa","｛主人公｝, how are the preparations?
 I came to see your model debut.");
     MsgDisp("主人公","Thank you.
 I'm nervous to walk a runway wearing the
@@ -38,8 +37,8 @@ front.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("P730200000_02_030");
-    MsgDisp("Sassa","...How should I cheer you on? \"
-Do your best!\" is a bit weird...");
+    MsgDisp("Sassa","...How should I cheer you on? 
+\"Do your best!\" is a bit weird...");
     MsgDisp("主人公","Hehe, it's not a sport, so just clapping
 is fine?");
     ChEye(2,0);
@@ -58,8 +57,8 @@ is fine?");
 No, I should be giving you a round of
 applause.");
     MsgDisp("主人公","(Hehe!
-For the sake of ｛颯砂＊＊｝ too,
-let's do our best!)");
+For the sake of ｛颯砂＊＊｝ too, let's do
+our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

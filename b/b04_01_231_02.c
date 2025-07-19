@@ -85,8 +85,7 @@ anything?");
         VoicePlay("B040123102_01_070");
         MsgDisp("Kazama","Then just change your scream to \"Waa—\",
 that should be fine.");
-        MsgDisp("主人公","(That's difficult, ｛風真＊＊｝...
-)");
+        MsgDisp("主人公","(That's difficult, ｛風真＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

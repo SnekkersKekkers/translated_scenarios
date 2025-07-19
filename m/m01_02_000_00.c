@@ -43,8 +43,7 @@ VoicePlay("M010200000_02_040");
 MsgDisp("Sassa","That right.
 Mm, your color looks pretty good.");
 MsgDisp("主人公","Mm, I'm okay now.
-But ｛颯砂＊＊｝, what about
-practice?");
+But ｛颯砂＊＊｝, what about practice?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

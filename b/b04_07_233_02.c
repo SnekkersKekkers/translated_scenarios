@@ -94,8 +94,8 @@ Ehhh∋
         SEWait();
         VoicePlay("B040723302_07_090");
         MsgDisp("Mikage","Uwaaah∈");
-        MsgDisp("主人公","(I wonder if ｛御影＊＊｝
-will be okay?)");
+        MsgDisp("主人公","(I wonder if ｛御影＊＊｝ will be
+okay?)");
         break ;
         default :
         DbgAssert(1);

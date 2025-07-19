@@ -29,8 +29,7 @@ VoicePlay("Q100400000_04_030");
 MsgDisp("Nanatsumori","...Pfft! I can't believe we're here and
 we're thinking about school. How serious
 can we be∋");
-MsgDisp("主人公","Ahaha! Ah...But,
-｛七ツ森＊｝, you also
+MsgDisp("主人公","Ahaha! Ah...But, ｛七ツ森＊｝, you also
 wear glasses.");
 ChEye(4,0);
 ChMouth(4,3);

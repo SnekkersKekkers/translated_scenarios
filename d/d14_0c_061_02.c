@@ -70,9 +70,8 @@ VoicePlay("D140C06102_05_040");
 MsgDisp("Hiiragi","We are your friends after all.");
 MsgDisp("主人公","Hehe.
 Yeah, thank you.");
-MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are
-worried about me and
-｛御影＊＊｝.)");
+MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are worried
+about me and ｛御影＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

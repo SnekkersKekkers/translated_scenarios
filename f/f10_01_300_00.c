@@ -7,8 +7,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1);
 ChOpen(21,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","Oh, ｛ひかる＊｝,
-｛みちる＊｝.");
+MsgDisp("主人公","Oh, ｛ひかる＊｝, ｛みちる＊｝.");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);

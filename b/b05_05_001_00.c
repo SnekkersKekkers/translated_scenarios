@@ -117,9 +117,8 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B050500100_05_090");
 MsgDisp("Hiiragi","What about you?
 I didn't spoil your fun, did I?");
-MsgDisp("主人公","Ah, I guess because of
-｛柊＊＊＊｝ it was a bit less
-scary?");
+MsgDisp("主人公","Ah, I guess because of ｛柊＊＊＊｝ it was
+a bit less scary?");
 ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,8);

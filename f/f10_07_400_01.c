@@ -6,8 +6,7 @@ home...)");
 VoicePlay("F100740001_07_000");
 MsgDisp("Mikage?","P-Please stop.");
 MsgDisp("主人公","(Eh? That voice just now, was
-｛御影＊＊｝, right?
-What's wrong...?)");
+｛御影＊＊｝, right? What's wrong...?)");
 VoicePlay("F100740001_32_000");
 MsgDisp("VP Himuro?","......! Are you really that worried?");
 VoicePlay("F100740001_07_010");
@@ -31,8 +30,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("F100740001_07_020");
 MsgDisp("Mikage","Oi, what's up?");
-MsgDisp("主人公","Um, I heard ｛御影＊＊｝'s
-voice, so...");
+MsgDisp("主人公","Um, I heard ｛御影＊＊｝'s voice, so...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("F100740001_32_020");

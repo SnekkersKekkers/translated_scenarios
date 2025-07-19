@@ -1,10 +1,9 @@
 ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(My next class is in the science room. I
-wonder if ｛御影＊＊｝
-and ｛柊＊＊＊｝ will be
-there?)");
+MsgDisp("主人公","(My next class is in the science room.
+I wonder if ｛御影＊＊｝ and
+｛柊＊＊＊｝ will be there?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -20,8 +19,8 @@ VoicePlay("F100720002_07_000");
 MsgDisp("Mikage","Ohh, you came.");
 VoicePlay("F100720002_05_000");
 MsgDisp("Hiiragi","We have been waiting for you.");
-MsgDisp("主人公","Hehe, ｛柊＊＊＊｝'s class was
-here last, weren't they?");
+MsgDisp("主人公","Hehe, ｛柊＊＊＊｝'s class was here last,
+weren't they?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

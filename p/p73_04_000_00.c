@@ -93,8 +93,8 @@ Seriously, you're the cutest.");
     MsgDisp("Nanatsumori","ＧＯ!
 Show your cool side.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Maybe when ｛七ツ森＊｝
-cheers me on, I gain courage.
+    MsgDisp("主人公","(Maybe when ｛七ツ森＊｝ cheers me on,
+I gain courage.
 Alーright, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);

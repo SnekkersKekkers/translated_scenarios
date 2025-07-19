@@ -13,5 +13,4 @@ MsgDisp("Himuro","Like I thought.
 You've got a sense of awareness for that
 stuff.");
 MsgDisp("主人公","(Yeah, I think that was good!
-I'm glad I'm wearing
-｛流行アクセサリ名｝ )!");
+I'm glad I'm wearing ｛流行アクセサリ名｝ )!");

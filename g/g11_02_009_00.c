@@ -23,8 +23,8 @@ ChOpen(2,100,0,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200900_02_000");
-MsgDisp("Sassa","｛主人公｝, thanks for always
-accompanying me on my last run like this.");
+MsgDisp("Sassa","｛主人公｝, thanks for always accompanying
+me on my last run like this.");
 MsgDisp("主人公","Yeah, it was tough to begin with, but I
 wonder if it's better now that I trained.");
 ChEye(2,1);
@@ -33,8 +33,8 @@ ChMotion(2,1);
 VoicePlay("G110200900_02_010");
 MsgDisp("Sassa","Yeah, seems like you could be an athlete.");
 MsgDisp("主人公","(Huh?
-｛颯砂＊＊｝, it seems like your
-arms are stiffer than usual today...?)");
+｛颯砂＊＊｝, it seems like your arms are
+stiffer than usual today...?)");
 while (1){
     RunEverydaySksp(2,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -87,8 +87,8 @@ MsgDisp("Sassa","Today I'm going to relax and loosen up my
 muscles. I almost ended up regretting it,
 before the real thing.");
 MsgDisp("主人公","(It's already the Inter-High...
-Let's cheer for ｛颯砂＊＊｝ so
-he can finish satisfied!)");
+Let's cheer for ｛颯砂＊＊｝ so he can
+finish satisfied!)");
 MsgClose();
 BGMStop();
 SEStop("EV_SE_FOOT_037",1.5);

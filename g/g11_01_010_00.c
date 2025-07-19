@@ -25,8 +25,7 @@ ChMotion(1,0);
 VoicePlay("G110101000_01_000");
 MsgDisp("Kazama","Oh yeah. You know the charity auction from
 the other day? Do you remember it?");
-MsgDisp("主人公","Yeah ｛風真＊＊｝ was hosting
-in a suit.
+MsgDisp("主人公","Yeah ｛風真＊＊｝ was hosting in a suit.
 It was truly amazing.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -43,8 +42,8 @@ VoicePlay("G110101000_01_020");
 MsgDisp("Kazama","Apparently one of the customers at the
 venue wanted me to do another auction job.");
 MsgDisp("主人公","Ehh...!
-If ｛風真＊＊｝ wants to do it,
-why not give it a go?");
+If ｛風真＊＊｝ wants to do it, why not
+give it a go?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -91,8 +90,8 @@ MsgDisp("Kazama","Yeah, I see.
 I'll tell him what I'm thinking, and see
 if he still lets me does it.");
 MsgDisp("主人公","I hope he understands.");
-MsgDisp("主人公","(I hope we get to see
-｛風真＊＊｝ hosting again...)");
+MsgDisp("主人公","(I hope we get to see ｛風真＊＊｝ hosting
+again...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

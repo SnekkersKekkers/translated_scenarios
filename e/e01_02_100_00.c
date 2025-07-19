@@ -17,8 +17,7 @@ ChMotion(2,0);
 VoicePlay("E010210000_02_010");
 MsgDisp("Sassa","Alright, then I should go home too.");
 MsgDisp("主人公","Hm?
-｛颯砂＊＊｝, you were shopping
-too?");
+｛颯砂＊＊｝, you were shopping too?");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,2);

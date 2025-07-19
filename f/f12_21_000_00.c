@@ -30,8 +30,7 @@ ChMotion(21,3);
 VoicePlay("F122100000_21_020");
 MsgDisp("Michiru","It's a big day for a girl in love.
 However...");
-MsgDisp("主人公","What are you doing,
-｛みちる＊｝?");
+MsgDisp("主人公","What are you doing, ｛みちる＊｝?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,5);

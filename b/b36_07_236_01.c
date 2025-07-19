@@ -36,8 +36,7 @@ ChMotion(7,2);
 ScrFadeIn(0);
 VoicePlay("B360723601_07_030");
 MsgDisp("Mikage","Wow...");
-MsgDisp("主人公","｛御影＊＊｝, it's a skull
-bear!");
+MsgDisp("主人公","｛御影＊＊｝, it's a skull bear!");
 VoicePlay("B360723601_07_040");
 ChEye(7,2);
 ChMouth(7,0);

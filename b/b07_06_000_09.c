@@ -7,16 +7,16 @@ ChMotion(6,0);
 VoicePlay("B070600000_06_480");
 MsgDisp("Himuro","Seriously?
 What is it.");
-MsgDisp("主人公","Um you know, ｛氷室＊＊｝ what do
-you think about love?");
+MsgDisp("主人公","Um you know, ｛氷室＊＊｝ what do you think
+about love?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 ChCheek(6,10);
 VoicePlay("B070600000_06_490");
 MsgDisp("Himuro","Ha...?");
-MsgDisp("主人公","I would like to know ｛氷室＊＊｝'s
-view on love.");
+MsgDisp("主人公","I would like to know ｛氷室＊＊｝'s view on
+love.");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);

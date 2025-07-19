@@ -65,8 +65,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_080");
 MsgDisp("Kazama","I guess being at a slight disadvantage is
 just the right handicap.");
-MsgDisp("主人公","(I think ｛風真＊＊｝ is
-worried about something...)");
+MsgDisp("主人公","(I think ｛風真＊＊｝ is worried about
+something...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

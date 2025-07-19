@@ -62,19 +62,16 @@ I joined the student council t-");
     VoicePlay("F020500006_05_000");
     MsgDisp("Hiiragi","Yes, I am looking forward to it.");
     MsgDisp("主人公","Hehe!
-Let's work well together,
-｛柊＊＊＊｝.");
+Let's work well together, ｛柊＊＊＊｝.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);
     ChEyeOpenLevel(5,0);
     VoiceEVSPlay(5);
     VoicePlay("P810500000_05_020");
-    MsgDisp("Hiiragi","｛主人公｝, let us both do our
-best.");
+    MsgDisp("Hiiragi","｛主人公｝, let us both do our best.");
     MsgDisp("主人公","(Yes, for the sake of Haba High's morals,
-let's work hard with
-｛柊＊＊＊｝!)");
+let's work hard with ｛柊＊＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

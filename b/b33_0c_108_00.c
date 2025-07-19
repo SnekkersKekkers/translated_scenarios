@@ -141,8 +141,8 @@ ChMotion(7,2);
 VoicePlay("B330C10800_07_050");
 MsgDisp("Mikage","Yeah, do as you like.
 I'll be waiting here.");
-MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are
-both amazing. But missing the mark is no
+MsgDisp("主人公","(｛柊＊＊＊｝ and ｛氷室＊＊｝ are both
+amazing. But missing the mark is no
 laughing matter...!)");
 BGMStop();
 MsgClose();

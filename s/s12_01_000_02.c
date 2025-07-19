@@ -36,8 +36,8 @@ See you later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Geez, ｛風真＊＊｝ really acts
-like a mom sometimes...)");
+    MsgDisp("主人公","(Geez, ｛風真＊＊｝ really acts like a mom
+sometimes...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

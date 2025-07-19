@@ -83,8 +83,7 @@ these three years now, you know?");
         MsgDisp("Mikage","It'll be too late to regret in ten years.
 Sensei said it, so it can't be wrong.");
         MsgDisp("主人公","But...this is the only time I can go to
-the beach with
-｛御影＊＊｝?");
+the beach with ｛御影＊＊｝?");
         ChEye(7,0);
         ChMouth(7,1);
         ChMotion(7,4);
@@ -99,8 +98,7 @@ If you feel like coming.");
         MsgDisp("Mikage","Wait.
 Do you have heat stroke?
 Come on. let's go to the rest area.");
-        MsgDisp("主人公","(I hope me and
-｛御影＊＊｝...can come
+        MsgDisp("主人公","(I hope me and ｛御影＊＊｝...can come
 here as a two one day.)");
         break ;
         default :

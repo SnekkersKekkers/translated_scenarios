@@ -40,8 +40,8 @@ VoicePlay("G110500803_05_010");
 MsgDisp("Hiiragi","Yes, I have to be efficient.");
 ChMouth(5,0);
 MsgDisp("主人公","(Huh?
-On ｛柊＊＊＊｝'s lips, is
-that...red bean paste?)");
+On ｛柊＊＊＊｝'s lips, is that...red bean
+paste?)");
 while (1){
     RunEverydaySksp(5,0,0,1,0,0);
     if (RunEverydaySkspRsltGet()){

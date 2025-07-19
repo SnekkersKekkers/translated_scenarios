@@ -11,23 +11,20 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060101000_01_000");
         MsgDisp("Kazama","Okay, that's settled.
 What about the meeting place?");
-        MsgDisp("主人公","How about we meet at the
-｛待ち合わせ場所｝?");
+        MsgDisp("主人公","How about we meet at the ｛待ち合わせ場所｝?");
         VoicePlay("J060101000_01_010");
         MsgDisp("Kazama","Roger that.
 I'm looking forward to it.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(An invitation from
-｛風真＊＊｝...
+        MsgDisp("主人公","(An invitation from ｛風真＊＊｝...
 Is this a date?)");
         break ;
         case 5:
         VoicePlay("J060101000_01_020");
         MsgDisp("Kazama","Copy that.
 Where do you want me to meet you?");
-        MsgDisp("主人公","How about we meet at the
-｛待ち合わせ場所｝?");
+        MsgDisp("主人公","How about we meet at the ｛待ち合わせ場所｝?");
         VoicePlay("J060101000_01_030");
         MsgDisp("Kazama","OK.
 Well, we can be wherever we are.

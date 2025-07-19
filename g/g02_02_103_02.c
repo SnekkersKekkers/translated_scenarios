@@ -43,8 +43,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210302_02_050");
 MsgDisp("Sassa","Right...");
-MsgDisp("主人公","(Was ｛颯砂＊＊｝, really that
-happy about being a pair?
+MsgDisp("主人公","(Was ｛颯砂＊＊｝, really that happy about
+being a pair?
 That's somewhat cute?)");
 BGMStop();
 MsgClose();

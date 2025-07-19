@@ -17,8 +17,7 @@ VoicePlay("B050200000_02_010");
 MsgDisp("Sassa","...C-Cow...
 Milking?");
 MsgDisp("主人公","Yeah?
-｛颯砂＊＊｝, do you want to try
-milking?");
+｛颯砂＊＊｝, do you want to try milking?");
 ChEye(2,5);
 ChMouth(2,1);
 ChMotion(2,5);
@@ -81,8 +80,7 @@ MsgDisp("Sassa","——Eh?
 Ah, yeah.
 That's good.");
 MsgDisp("主人公","Right?
-Ah, ｛颯砂＊＊｝, want to take
-over?");
+Ah, ｛颯砂＊＊｝, want to take over?");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
@@ -100,8 +98,7 @@ BGOpen("tr500",0);
 Wait(60);
 ChOpen(2,255,0,2,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, are you not good
-with milk?");
+MsgDisp("主人公","｛颯砂＊＊｝, are you not good with milk?");
 VoicePlay("B050200000_02_100");
 MsgDisp("Sassa","I can drink it.
 But warm milk is kind of...");
@@ -141,7 +138,6 @@ ChMotion(2,0);
 VoicePlay("B050200000_02_150");
 MsgDisp("Sassa","Alright, onto the next.");
 MsgDisp("主人公","(Enjoy it normally...
-｛颯砂＊＊｝, how did you enjoy it
-then?)");
+｛颯砂＊＊｝, how did you enjoy it then?)");
 BGMStop();
 ChPrmTblAdd(2,0);

@@ -9,8 +9,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,0);
     VoiceEVSPlay(2);
     VoicePlay("Q120200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, thanks for wandering
-around with me.");
+    MsgDisp("Sassa","｛主人公｝, thanks for wandering around
+with me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

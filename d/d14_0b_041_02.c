@@ -40,9 +40,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B04102_01_020");
 MsgDisp("Kazama","Hey, let's end it for today already.
 I give up...");
-MsgDisp("主人公","Today ｛七ツ森＊｝ isn't
-here so ｛風真＊＊｝ is the
-only listener isn't he?");
+MsgDisp("主人公","Today ｛七ツ森＊｝ isn't here so
+｛風真＊＊｝ is the only listener isn't
+he?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -93,9 +93,8 @@ MsgDisp("Kazama","Haa...
 I now realize the importance of
 Nanatsumori.");
 MsgDisp("主人公","(Hehe, good work, ｛風真＊＊｝.
-Next time let's invite
-｛七ツ森＊｝ too and go
-as a four.)");
+Next time let's invite ｛七ツ森＊｝ too
+and go as a four.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

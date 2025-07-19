@@ -56,8 +56,8 @@ MsgDisp("Honda","Ehhh. It must be convenient to have your
 house so close by. ...Right?");
 MsgDisp("主人公","(It's definitely convenient but But it's a
 big shock when you forget something. I'm
-sure ｛風真＊＊｝ is super
-frustrated about now...)");
+sure ｛風真＊＊｝ is super frustrated
+about now...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

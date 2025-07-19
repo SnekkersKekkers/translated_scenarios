@@ -111,8 +111,8 @@ warmth? So, here. My hand.");
         VoicePlay("B040108402_01_090");
         MsgDisp("Kazama","Phew, this season isn't so bad after
 all...");
-        MsgDisp("主人公","Ooh, ｛風真＊＊｝, you
-definitely like fall, right?");
+        MsgDisp("主人公","Ooh, ｛風真＊＊｝, you definitely like
+fall, right?");
         MsgClose();
         ChClose(1,0,30);
         ChLayout(1);

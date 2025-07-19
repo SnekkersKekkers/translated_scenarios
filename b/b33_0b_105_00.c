@@ -26,8 +26,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10500_01_000");
 MsgDisp("Kazama","I'm good.");
-MsgDisp("主人公","｛風真＊＊｝, you're good
-already?");
+MsgDisp("主人公","｛風真＊＊｝, you're good already?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);

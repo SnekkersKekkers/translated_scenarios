@@ -6,8 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Sports day is coming up.
-｛七ツ森＊｝, do you
-pl——");
+｛七ツ森＊｝, do you pl——");
 ChMotion(4,1,1);
 VoicePlay("F020400006_04_000");
 MsgDisp("Nanatsumori","I'm bad at all of them.

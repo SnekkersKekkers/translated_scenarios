@@ -1,8 +1,8 @@
 ChLayout(1);
 ChClose(4,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Seems like ｛七ツ森＊｝
-isn't here yet...");
+MsgDisp("主人公","Seems like ｛七ツ森＊｝ isn't here
+yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

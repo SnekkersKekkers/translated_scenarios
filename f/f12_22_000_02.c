@@ -36,8 +36,7 @@ ChMotion(22,0,1);
 VoicePlay("F122200002_22_030");
 MsgDisp("Hikaru","This really is the end of high school,
 isn't it?");
-MsgDisp("主人公","｛ひかる＊｝...thanks for
-everything.");
+MsgDisp("主人公","｛ひかる＊｝...thanks for everything.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

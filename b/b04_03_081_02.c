@@ -122,9 +122,9 @@ affirmation or not...");
         VoicePlay("B040308102_03_120");
         MsgDisp("Honda","Haha!
 You really are interesting!");
-        MsgDisp("主人公","(I was told by ｛本多＊＊｝ that
-I'm interesting, I'm happy, but maybe I
-have mixed feelings about it?)");
+        MsgDisp("主人公","(I was told by ｛本多＊＊｝ that I'm
+interesting, I'm happy, but maybe I have
+mixed feelings about it?)");
         break ;
         default :
         DbgAssert(1);

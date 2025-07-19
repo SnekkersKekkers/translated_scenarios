@@ -15,5 +15,5 @@ MsgDisp("Kazama","Yeah.
 You wear that type so often, I had an
 epiphany.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have
-started to love clothes like these, too!)");
+｛風真＊＊｝ seems to have started to love
+clothes like these, too!)");

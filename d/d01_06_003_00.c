@@ -6,8 +6,7 @@ Wait(80,0);
 SEPlay("EV_SE_629");
 Wait(100,0);
 MsgDisp("主人公","(Mnn...Who could be calling so early in
-the morning...? Ah, it's
-｛氷室＊＊｝!)");
+the morning...? Ah, it's ｛氷室＊＊｝!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -135,8 +134,8 @@ ChMotion(6,0);
 VoicePlay("D010600300_06_140");
 MsgDisp("Himuro","That's from your perspective.
 I have my reasons.");
-MsgDisp("主人公","｛氷室＊＊｝, you prefer it when
-it's just the two of us?");
+MsgDisp("主人公","｛氷室＊＊｝, you prefer it when it's just
+the two of us?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);

@@ -21,8 +21,7 @@ It's really a huge turnout.");
     VoicePlay("S070100000_01_010");
     MsgDisp("Kazama","Look.
 It's really restless around here.");
-    MsgDisp("主人公","(Is ｛風真＊＊｝ worrying this
-year, too?)");
+    MsgDisp("主人公","(Is ｛風真＊＊｝ worrying this year, too?)");
     break ;
     case 3:
     ChEye(1,0);

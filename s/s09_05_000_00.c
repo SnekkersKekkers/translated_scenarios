@@ -19,8 +19,7 @@ There are so many people.");
         ChMotion(5,4);
         VoicePlay("S090500000_05_010");
         MsgDisp("Hiiragi","Right, there's no other choice.");
-        MsgDisp("主人公","Hehe ｛柊＊＊＊｝ likes
-fortunes?");
+        MsgDisp("主人公","Hehe ｛柊＊＊＊｝ likes fortunes?");
         ChEye(5,0);
         ChMotion(5,3);
         VoicePlay("S090500000_05_020");

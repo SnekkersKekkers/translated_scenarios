@@ -23,9 +23,9 @@ technical books off first, only my
 daily necessities remained. Even
 then, I had a lot of luggage.");
 MsgClear();
-MsgDisp("主人公","\"Ah! ｛御影＊＊｝,
-this suit. It's from the christmas
-party huh?\"");
+MsgDisp("主人公","\"Ah!
+｛御影＊＊｝, this suit.
+It's from the christmas party huh?\"");
 MsgDisp("","She who was looking through the
 closet happily held the suit with
 both arms.");

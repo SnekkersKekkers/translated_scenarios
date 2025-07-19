@@ -8,8 +8,8 @@ switch (ChPrmGet(5,6)){
     MsgDisp("Hiiragi","The gift you got...that's the one I
 brought.");
     MsgDisp("主人公","Huh!
-...Ah, ｛柊＊＊＊｝, you also
-got the gift that I brought!");
+...Ah, ｛柊＊＊＊｝, you also got the gift
+that I brought!");
     ChMotion(5,4);
     VoicePlay("R060500003_05_010");
     MsgDisp("Hiiragi","I didn't think that would be possible.
@@ -51,8 +51,7 @@ Isn't this wrapping so nice?");
     MsgDisp("Hiiragi","A small miracle by this holy night.
 Gifts brought with you in mind really will
 come to you.");
-    MsgDisp("主人公","Huh, then, ｛柊＊＊＊｝, is this
-your...?");
+    MsgDisp("主人公","Huh, then, ｛柊＊＊＊｝, is this your...?");
     ChMotion(5,0);
     VoicePlay("R060500003_05_070");
     MsgDisp("Hiiragi","Yeah.");
@@ -70,8 +69,7 @@ You also got my...");
 The student council handles the gift
 exchange...");
     MsgDisp("主人公","Huh...
-Could it be that you,
-｛柊＊＊＊｝...");
+Could it be that you, ｛柊＊＊＊｝...");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("R060500003_05_100");

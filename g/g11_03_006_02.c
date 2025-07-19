@@ -36,8 +36,8 @@ VoicePlay("G110300602_03_030");
 MsgDisp("Honda","Right?
 I wonder who thought of that?
 That's a great idea.");
-MsgDisp("主人公","I think ｛本多＊＊｝ would come
-up with something even more interesting.");
+MsgDisp("主人公","I think ｛本多＊＊｝ would come up with
+something even more interesting.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4,1);

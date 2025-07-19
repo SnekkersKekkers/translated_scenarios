@@ -4,8 +4,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝ is
-calling.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝ is calling.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
@@ -24,8 +23,7 @@ like to come with me to the shrine?");
 Ok then, I'll pick you up.");
         MsgDisp("主人公","Okay, got it.");
         SEWait();
-        MsgDisp("主人公","(A shrine visit with
-｛七ツ森＊｝!
+        MsgDisp("主人公","(A shrine visit with ｛七ツ森＊｝!
 What should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -52,8 +50,7 @@ wrong...)");
     case 4:
     case 5:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝ is
-calling.");
+    MsgDisp("主人公","Ah, ｛七ツ森＊｝ is calling.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();

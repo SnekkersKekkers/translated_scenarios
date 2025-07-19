@@ -52,8 +52,8 @@ absurd.");
 exhibit featuring deep-sea fish 'swimming'
 in the sky might be possible, right? I'm
 getting really excited∈");
-        MsgDisp("主人公","Hehe, ｛本多＊＊｝ looks like
-you're having fun.");
+        MsgDisp("主人公","Hehe, ｛本多＊＊｝ looks like you're having
+fun.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);

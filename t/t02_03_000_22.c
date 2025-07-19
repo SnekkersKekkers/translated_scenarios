@@ -4,8 +4,7 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("T020300022_03_000");
 MsgDisp("Honda","You- what's wrong??");
-MsgDisp("主人公","Erm, well I like ｛本多＊＊｝
-too.");
+MsgDisp("主人公","Erm, well I like ｛本多＊＊｝ too.");
 ChEye(3,3);
 ChMouth(3,0);
 ChMotion(3,1,1);

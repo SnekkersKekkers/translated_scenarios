@@ -1,6 +1,6 @@
 MsgDisp("主人公","The four of us have been hanging out a lot
-lately. ｛風真＊＊｝,
-｛氷室＊＊｝ and us.");
+lately.
+｛風真＊＊｝, ｛氷室＊＊｝ and us.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

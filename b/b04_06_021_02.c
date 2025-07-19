@@ -90,8 +90,7 @@ all.");
         MsgDisp("Himuro","If I could see through your thoughts, I
 wouldn't be that troubled in the first
 place.");
-        MsgDisp("主人公","｛氷室＊＊｝, you're feeling
-troubled?");
+        MsgDisp("主人公","｛氷室＊＊｝, you're feeling troubled?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

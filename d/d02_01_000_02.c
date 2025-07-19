@@ -24,8 +24,8 @@ VoicePlay("D020100000_01_010");
 MsgDisp("Kazama","I guess so. When I look at you, I don't
 notice anything different. It's like you
 haven't grown at all.");
-MsgDisp("主人公","｛風真＊＊｝, you've changed a
-lot though, haven't you?");
+MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
+haven't you?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);

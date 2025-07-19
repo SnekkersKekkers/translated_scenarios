@@ -36,8 +36,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D130C00101_07_000");
 MsgDisp("Mikage","That's a little cold.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝,
-｛御影＊＊｝!");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝, ｛御影＊＊｝!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);

@@ -19,8 +19,8 @@ MsgDisp("Honda?","Why～!");
 SEPlay("EV_SE_616",0,0.6);
 SEWait();
 MsgDisp("主人公","(∋ That voice just now...Was that
-｛本多＊＊｝? Huh, didn't
-something like this happen before...)");
+｛本多＊＊｝? Huh, didn't something like
+this happen before...)");
 StlOpen("ev_03_11");
 BGMPlay("BGM_C03_HONDA_C",0.01);
 EfctOpen(6);

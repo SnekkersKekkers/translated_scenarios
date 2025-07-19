@@ -20,5 +20,4 @@ ChMotion(3,3);
 VoicePlay("B020302000_03_020");
 MsgDisp("Honda","He's the most famous person from our
 school, of course I do!");
-MsgDisp("主人公","(I wonder if ｛本多＊＊｝ likes
-it?)");
+MsgDisp("主人公","(I wonder if ｛本多＊＊｝ likes it?)");

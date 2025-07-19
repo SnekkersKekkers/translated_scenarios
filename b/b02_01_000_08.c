@@ -5,8 +5,7 @@ ChMotion(1,0,1);
 VoicePlay("B020100008_01_000");
 MsgDisp("Kazama","Oh.
 That's pretty in right now, isn't it?");
-MsgDisp("主人公","Oh, you mean this
-｛流行服名｝?
+MsgDisp("主人公","Oh, you mean this ｛流行服名｝?
 Yeah, I'm trying to follow the trends!");
 ChEye(1,0);
 ChMouth(1,3);

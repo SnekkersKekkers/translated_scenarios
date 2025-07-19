@@ -42,8 +42,7 @@ Valentine's chocolate.");
     VoicePlay("L040200000_02_020");
     MsgDisp("Sassa","｛主人公｝.");
     MsgDisp("主人公","Ah, good timing.
-I was looking for you,
-｛颯砂＊＊｝.");
+I was looking for you, ｛颯砂＊＊｝.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

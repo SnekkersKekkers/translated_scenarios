@@ -66,8 +66,7 @@ I'm glad I splurged!)");
     ChMotion(6,0);
     VoicePlay("L040600002_06_060");
     MsgDisp("Himuro","Even though it's expensive?");
-    MsgDisp("主人公","I spent the money for you,
-｛氷室＊＊｝!");
+    MsgDisp("主人公","I spent the money for you, ｛氷室＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

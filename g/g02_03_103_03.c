@@ -22,8 +22,8 @@ VoicePlay("G020310303_03_020");
 MsgDisp("Honda","You're beautiful and stand out, so it
 can't be helped, but I don't want you to
 feel uncomfortable.");
-MsgDisp("主人公","But, ｛本多＊＊｝ came right
-away, so it's okay.");
+MsgDisp("主人公","But, ｛本多＊＊｝ came right away, so it's
+okay.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);

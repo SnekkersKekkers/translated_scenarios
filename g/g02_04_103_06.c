@@ -51,8 +51,8 @@ VoicePlay("G020410306_04_090");
 MsgDisp("Nanatsumori","Meeting you has really paid off for me
 ...thank you.");
 MsgDisp("主人公","It's no problem at all.
-｛七ツ森＊｝'s
-crossdressing is really cute▼");
+｛七ツ森＊｝'s crossdressing is really
+cute▼");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);

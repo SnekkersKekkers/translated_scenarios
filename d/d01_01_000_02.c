@@ -13,8 +13,8 @@ StlOpen("ev_01_07");
 StlEye(1,1);
 StlMouth(1,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛風真＊＊｝...Wait. No way,
-we're in the same class this year too?");
+MsgDisp("主人公","Ah, ｛風真＊＊｝...Wait. No way, we're in
+the same class this year too?");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("D010100002_01_010");

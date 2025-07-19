@@ -47,5 +47,4 @@ MsgDisp("Honda","But don't think that I want to go all the
 way to the forest. I'm fine with the bugs
 in foreign homes, okay?");
 MsgDisp("主人公","(The bugs that come out in homes...huh.
-Maybe ｛本多＊＊｝ can be
-sensible?)");
+Maybe ｛本多＊＊｝ can be sensible?)");

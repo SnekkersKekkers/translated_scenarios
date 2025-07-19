@@ -69,8 +69,8 @@ ChMotion(1,0);
 VoicePlay("B070101000_01_070");
 MsgDisp("Kazama","...How about it?");
 MsgDisp("主人公","Ummm...before, I just wanted to ask a
-little on ｛風真＊＊｝'s views on
-love. I didn't really think about it too
+little on ｛風真＊＊｝'s views on love. I
+didn't really think about it too
 carefully.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -95,8 +95,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070101000_01_100");
 MsgDisp("Kazama","Haa—, fine.
 Maybe I'm observing you too much.");
-MsgDisp("主人公","But, it could also be as
-｛風真＊＊｝ thinks——");
+MsgDisp("主人公","But, it could also be as ｛風真＊＊｝
+thinks——");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -128,8 +128,8 @@ MsgDisp("主人公","Thanks for walking me home.");
 ChEyeOpenLevel(1,#1);
 VoicePlay("B070101000_01_130");
 MsgDisp("Kazama","Yeah.");
-MsgDisp("主人公","｛風真＊＊｝, I'll think about
-you properly.");
+MsgDisp("主人公","｛風真＊＊｝, I'll think about you
+properly.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

@@ -27,9 +27,9 @@ ChMotion(4,1,1);
 VoicePlay("P740400003_04_020");
 MsgDisp("Nanatsumori","No need to be so down in the dumps.
 Good work on this stage.");
-MsgDisp("主人公","(I couldn't show
-｛七ツ森＊｝ a good show
-...I'm really disappointed.)");
+MsgDisp("主人公","(I couldn't show ｛七ツ森＊｝ a good
+show ...
+I'm really disappointed.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

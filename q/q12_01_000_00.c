@@ -16,8 +16,8 @@ tomorrow...");
     MsgDisp("Kazama","That was quick.
 Any regrets?");
     MsgDisp("主人公","Nope.
-Thanks to you, ｛風真＊＊｝ It
-became a good memory.");
+Thanks to you, ｛風真＊＊｝ It became a
+good memory.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0,1);

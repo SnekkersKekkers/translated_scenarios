@@ -57,8 +57,7 @@ ChMotion(3,4,1);
 VoicePlay("T020320000_03_070");
 MsgDisp("Honda","If it weren't for Ryou-kun and Mii-kun I
 might not have noticed even now.");
-MsgDisp("主人公","｛風真＊＊｝ and
-｛七ツ森＊｝?");
+MsgDisp("主人公","｛風真＊＊｝ and ｛七ツ森＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

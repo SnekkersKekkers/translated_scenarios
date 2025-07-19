@@ -78,8 +78,7 @@ of youth feeling?");
         SEPlay("EV_SE_GAYA_024",0.5,0.5);
         SEPlay("EV_SE_GAYA_017",1);
         SEWait();
-        MsgDisp("主人公","｛本多＊＊｝, you're talking a bit
-loud?");
+        MsgDisp("主人公","｛本多＊＊｝, you're talking a bit loud?");
         ChEye(3,1);
         ChMouth(3,0);
         ChMotion(3,1);

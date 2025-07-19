@@ -17,5 +17,5 @@ VoicePlay("B020402131_04_010");
 MsgDisp("Nanatsumori","Ah, my bad. It...Kind of just came out.
 That seems to be your effect.");
 MsgDisp("主人公","(That's a little embarrassing...
-But ｛七ツ森＊｝ seems to
-have come to really like this clothing!)");
+But ｛七ツ森＊｝ seems to have come to
+really like this clothing!)");

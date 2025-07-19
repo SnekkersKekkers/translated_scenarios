@@ -42,8 +42,8 @@ See you.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(I get it.
-｛七ツ森＊｝ is a popular
-model, after all.)");
+｛七ツ森＊｝ is a popular model, after
+all.)");
     break ;
     case 3:
     MsgClose();
@@ -73,8 +73,8 @@ might be busy.");
     MsgDisp("Nanatsumori","I see.
 Working without any hiccups is a good
 thing.");
-    MsgDisp("主人公","Hehe, ｛七ツ森＊｝, you
-sound like a teacher, you know?");
+    MsgDisp("主人公","Hehe, ｛七ツ森＊｝, you sound like a
+teacher, you know?");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("I150400000_04_070");
@@ -85,8 +85,7 @@ Well, do your best until you're off.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Could it be that
-｛七ツ森＊｝ came to
+    MsgDisp("主人公","(Could it be that ｛七ツ森＊｝ came to
 check on me?)");
     break ;
     case 4:

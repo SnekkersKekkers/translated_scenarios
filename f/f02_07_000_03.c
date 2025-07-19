@@ -55,8 +55,7 @@ ChMotion(7,5);
 VoicePlay("F020700003_07_060");
 MsgDisp("Mikage","I'll say stuff like that when I'm asked.");
 MsgDisp("主人公","Then, that rumor was definitely made by
-someone who heard
-｛御影＊＊｝.");
+someone who heard ｛御影＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -81,5 +80,5 @@ VoicePlay("F020700003_07_090");
 MsgDisp("Mikage","Haa...there's a grain of truth even in
 rumors.
 How troubling.");
-MsgDisp("主人公","(I wonder if ｛御影＊＊｝
-is up to something in the church...)");
+MsgDisp("主人公","(I wonder if ｛御影＊＊｝ is up to
+something in the church...)");

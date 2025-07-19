@@ -24,8 +24,8 @@ VoicePlay("D020100000_01_010");
 MsgDisp("Kazama","I guess so. When I look at you, I don't
 notice anything different. It's like you
 haven't grown at all.");
-MsgDisp("主人公","｛風真＊＊｝, you've changed a
-lot though, haven't you?");
+MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
+haven't you?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -76,15 +76,13 @@ VoicePlay("D020100000_01_121");
 MsgDisp("Kazama","Looks like it's going well...
 The wish I made to the pinwheel.");
 MsgDisp("主人公","I see.
-If ｛風真＊＊｝ thinks so,
-maybe so.");
+If ｛風真＊＊｝ thinks so, maybe so.");
 NSSEye(1,3);
 NSSMouth(1,2);
 NSSMouthOpenLevel(1,0);
 VoicePlay("D020100000_01_130");
 MsgDisp("Kazama","Hm?");
-MsgDisp("主人公","｛風真＊＊｝'s wish is also my
-wish, so...");
+MsgDisp("主人公","｛風真＊＊｝'s wish is also my wish, so...");
 NSSEye(1,6);
 NSSMouth(1,3);
 NSSCheek(1,7);

@@ -10,8 +10,7 @@ SEWait();
 ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200005_02_000");
-MsgDisp("Sassa","｛主人公｝, did you sprain your
-foot?");
+MsgDisp("Sassa","｛主人公｝, did you sprain your foot?");
 MsgDisp("主人公","Ah, ｛颯砂＊＊｝...
 I'm fine, but I failed.");
 ChEye(2,2);

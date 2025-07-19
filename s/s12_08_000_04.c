@@ -53,8 +53,8 @@ in high school, but somehow I want more...");
     MsgDisp("Shirahane","It was just a normal shrine visit.
 Is it weird to feel this way?");
     MsgDisp("主人公","Hehe!
-Talking to ｛大地＊＊｝ is
-really fun, so it's okay!");
+Talking to ｛大地＊＊｝ is really fun, so
+it's okay!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);

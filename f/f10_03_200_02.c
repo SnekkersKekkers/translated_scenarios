@@ -9,15 +9,13 @@ MsgDisp("Sassa?","Yeah, that's right.
 It's difficult because it's not just about
 doing it.");
 MsgDisp("主人公","(Ah, these voices...
-It's ｛本多＊＊｝ and
-｛颯砂＊＊｝!)");
+It's ｛本多＊＊｝ and ｛颯砂＊＊｝!)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(3,254,0,3,3,#1,#1,0,1,0,30);
 ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛本多＊＊｝, are you asking for
-something unreasonable from
-｛颯砂＊＊｝ again...?");
+MsgDisp("主人公","｛本多＊＊｝, are you asking for something
+unreasonable from ｛颯砂＊＊｝ again...?");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
@@ -65,8 +63,8 @@ MsgDisp("Sassa","Yeah, thank you, Iku.
 I'm super happy.
 That you understand me.");
 ChSet(3,0);
-MsgDisp("主人公","｛本多＊＊｝ would probably be
-amazing as a real trainer...");
+MsgDisp("主人公","｛本多＊＊｝ would probably be amazing as a
+real trainer...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -105,8 +103,8 @@ VoicePlay("F100320002_03_060");
 MsgDisp("Honda","The fact remains that the shortcut is to
 lose even a little bit of weight without
 changing muscle mass, right?");
-MsgDisp("主人公","(...Looks like ｛本多＊＊｝'s haircut
-training menu is still kicking...)");
+MsgDisp("主人公","(...Looks like ｛本多＊＊｝'s haircut training
+menu is still kicking...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

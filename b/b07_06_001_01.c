@@ -56,8 +56,7 @@ VoicePlay("B070600001_06_080");
 MsgDisp("Himuro","Well, it's interesting to watch, so I
 wouldn't mind if this dynamic kept going.");
 MsgDisp("主人公","(...Interesting? But as I thought
-｛氷室＊＊｝ and
-｛風真＊＊｝ really do get
+｛氷室＊＊｝ and ｛風真＊＊｝ really do get
 along.)");
 BGMStop();
 MsgClose();

@@ -16,5 +16,4 @@ MsgDisp("Nanatsumori","Yeah.
 It looks straight out of a picture book.
 I mean, I think it's cute.");
 MsgDisp("主人公","(Awesome!
-｛七ツ森＊｝ seems to
-have liked it!)");
+｛七ツ森＊｝ seems to have liked it!)");

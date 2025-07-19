@@ -1,15 +1,13 @@
 BGOpen("ho210",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","(Oh, it's from
-｛御影＊＊｝!)");
+MsgDisp("主人公","(Oh, it's from ｛御影＊＊｝!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 VoicePlay("J040700001_07_000");
 MsgDisp("Mikage","Hello.");
-MsgDisp("主人公","｛御影＊＊｝, you seem
-well.");
+MsgDisp("主人公","｛御影＊＊｝, you seem well.");
 VoicePlay("J040700001_07_010");
 MsgDisp("Mikage","So.
 You know...");

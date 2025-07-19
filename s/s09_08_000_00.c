@@ -80,8 +80,7 @@ in the line, I guess. Let's go.");
     VoicePlay("S090800000_08_060");
     MsgDisp("Shirahane","Fortunes.");
     MsgDisp("主人公","Ah, you're right.
-Do you want to draw one,
-｛大地＊＊｝?");
+Do you want to draw one, ｛大地＊＊｝?");
     ChEye(8,4);
     ChMouth(8,3);
     ChMotion(8,2,1);

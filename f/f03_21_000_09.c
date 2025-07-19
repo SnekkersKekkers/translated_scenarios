@@ -1,5 +1,4 @@
-MsgDisp("主人公","What do you think of love,
-｛みちる＊｝?");
+MsgDisp("主人公","What do you think of love, ｛みちる＊｝?");
 ChEye(21,5);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -33,9 +32,8 @@ ChMotion(21,5);
 VoicePlay("F032100000_21_510");
 MsgDisp("Michiru","No.
 For such a convenient person to exist...");
-MsgDisp("主人公","｛みちる＊｝, you're a
-late bloomer when it comes to love, aren't
-you?");
+MsgDisp("主人公","｛みちる＊｝, you're a late bloomer when
+it comes to love, aren't you?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -50,8 +48,8 @@ MsgDisp("Michiru","It's fine.
 If there was a red string of fate, I would
 follow it...");
 MsgDisp("主人公","(Hmmm.
-Maybe ｛みちる＊｝ is a
-huge romantic.))");
+Maybe ｛みちる＊｝ is a huge
+romantic.))");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

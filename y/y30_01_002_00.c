@@ -44,8 +44,7 @@ ScrFadeOut(0);
 BGOpen("tr520",0);
 ScrFadeIn(0);
 MsgDisp("主人公","\"Wow, when did this happen?
-｛風真＊＊｝, you're like a
-magician!\"");
+｛風真＊＊｝, you're like a magician!\"");
 MsgDisp("","I showed her the roasted sweet
 potato. The only difference from now
 and then, is she doesn't have mud on
@@ -57,9 +56,9 @@ MsgDisp("","Every time I see her, her magic makes
 the time from 10 years ago and the
 present come together perfectly.");
 MsgClear();
-MsgDisp("主人公","\"Next time I'll prepare
-｛風真＊＊｝ a surprise
-too. What would you like?\"");
+MsgDisp("主人公","\"Next time I'll prepare ｛風真＊＊｝
+a surprise too.
+What would you like?\"");
 MsgDisp("","Whether it's surprises or things I
 like, just by being with you, I
 already have it all, you know?");

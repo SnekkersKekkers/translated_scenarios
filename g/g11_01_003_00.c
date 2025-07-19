@@ -2,10 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
-MsgDisp("主人公","(Ah, a message from
-｛風真＊＊｝. \"Let's walk home
-together today\" huh...Okay let's prepare
-to go home.)");
+MsgDisp("主人公","(Ah, a message from ｛風真＊＊｝. 
+\"Let's walk home together today\" huh...
+Okay let's prepare to go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -75,9 +74,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110100300_01_080");
 MsgDisp("Kazama","...Then, it's decided.");
-MsgDisp("主人公","(Huh? ｛風真＊＊｝...I wonder if
-he's worried about not being able to go
-home with me last time...?)");
+MsgDisp("主人公","(Huh? ｛風真＊＊｝...I wonder if he's
+worried about not being able to go home
+with me last time...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

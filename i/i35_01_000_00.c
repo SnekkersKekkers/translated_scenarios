@@ -196,8 +196,7 @@ It was just for a moment?");
     ChClose(1);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","...Wait, ｛風真＊＊｝, you
-forgot the cake!");
+    MsgDisp("主人公","...Wait, ｛風真＊＊｝, you forgot the cake!");
     break ;
     default :
     DbgAssert(1);

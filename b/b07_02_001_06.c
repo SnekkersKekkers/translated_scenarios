@@ -1,5 +1,4 @@
-MsgDisp("主人公","｛風真＊＊｝,
-｛氷室＊＊｝ and us have been
+MsgDisp("主人公","｛風真＊＊｝, ｛氷室＊＊｝ and us have been
 together a lot lately.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -27,8 +26,8 @@ MsgDisp("Sassa","...Nope, I can only think of relays.
 There aren't many team sports with 4
 people.");
 MsgDisp("主人公","Hehe.
-If we did a relay, ｛颯砂＊＊｝
-would be the anchor.");
+If we did a relay, ｛颯砂＊＊｝ would be
+the anchor.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

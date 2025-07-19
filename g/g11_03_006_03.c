@@ -37,8 +37,8 @@ VoicePlay("G110300603_03_010");
 MsgDisp("Honda","｛主人公｝.
 Thank you for saving my life.");
 MsgDisp("主人公","I'm so glad.
-｛本多＊＊｝, I was surprised when
-I heard your voice.");
+｛本多＊＊｝, I was surprised when I heard
+your voice.");
 ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,0);

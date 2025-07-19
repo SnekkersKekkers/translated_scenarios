@@ -68,8 +68,8 @@ MsgDisp("Hiiragi","I'm not good with computers, and after
 school I still have to do work with the
 theatre company too, right?");
 MsgDisp("主人公","I see.
-｛柊＊＊＊｝, don't push
-yourself too hard, okay?");
+｛柊＊＊＊｝, don't push yourself too hard,
+okay?");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

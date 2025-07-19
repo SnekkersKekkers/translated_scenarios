@@ -25,8 +25,8 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("G020120200_01_030");
 MsgDisp("Kazama","Anyway, we're in a serious competition.");
-MsgDisp("主人公","(Is ｛風真＊＊｝, pretending to
-be a firefly?)");
+MsgDisp("主人公","(Is ｛風真＊＊｝, pretending to be a
+firefly?)");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -85,8 +85,8 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("G020120200_01_110");
 MsgDisp("Kazama","Listen, I'll reach the goal first.");
-MsgDisp("主人公","(｛風真＊＊｝, Is talking about
-｛颯砂＊＊｝ right...?)");
+MsgDisp("主人公","(｛風真＊＊｝, Is talking about ｛颯砂＊＊｝
+right...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -38,8 +38,8 @@ For both of us.");
     MsgClose();
     ChClose(6);
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(I guess ｛氷室＊＊｝ is looking
-out for me in his own way?)");
+    MsgDisp("主人公","(I guess ｛氷室＊＊｝ is looking out for me
+in his own way?)");
     break ;
     case 3:
     SEPlay("EV_SE_DOOR_014");

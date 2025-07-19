@@ -67,8 +67,8 @@ ChMotion(21,0);
 VoicePlay("F102120002_21_050");
 MsgDisp("Michiru","...Hey, what does he call you, Mari?");
 MsgDisp("主人公","(Isn't it actually kind of embarrassing
-for ｛氷室＊＊｝ to call girls by
-their first names?)");
+for ｛氷室＊＊｝ to call girls by their
+first names?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

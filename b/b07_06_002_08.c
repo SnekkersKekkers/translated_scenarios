@@ -4,8 +4,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_480");
 MsgDisp("Himuro","What?");
-MsgDisp("主人公","I just wanted to look at
-｛氷室＊＊｝ for some reason.");
+MsgDisp("主人公","I just wanted to look at ｛氷室＊＊｝ for
+some reason.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

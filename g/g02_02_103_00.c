@@ -60,8 +60,7 @@ fireflies. They're so cute and beautiful,
 and I want to catch them, but I won't
 right now.");
 MsgDisp("主人公","(Like the fireflies...?
-｛颯砂＊＊｝'s feelings make me
-happy but...)");
+｛颯砂＊＊｝'s feelings make me happy but...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

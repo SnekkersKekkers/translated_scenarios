@@ -49,8 +49,7 @@ What do you think?");
 you're wearing a kimono, I feel like I've
 won the lottery!");
     MsgDisp("主人公","(What a relief.
-｛本多＊＊｝ seems to be really
-happy!)");
+｛本多＊＊｝ seems to be really happy!)");
     break ;
     case 4:
     case 5:

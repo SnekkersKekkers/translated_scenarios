@@ -38,8 +38,8 @@ VoicePlay("P640700002_07_040");
 MsgDisp("Mikage","Haa...
 I want to buy some to take home, but I'll
 hold back.");
-MsgDisp("主人公","(Yay, ｛御影＊＊｝
-praised me! I'm glad I gave it my all in
+MsgDisp("主人公","(Yay, ｛御影＊＊｝ praised me!
+I'm glad I gave it my all in
 preparations!)");
 MsgClose();
 ScrFadeOut(0,0);

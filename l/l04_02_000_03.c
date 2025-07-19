@@ -79,8 +79,7 @@ You put some effort in.");
     VoicePlay("L040200003_02_080");
     MsgDisp("Sassa","It's more than that.
 It looks good enough to sell.");
-    MsgDisp("主人公","｛颯砂＊＊｝, you're praising me
-too much.");
+    MsgDisp("主人公","｛颯砂＊＊｝, you're praising me too much.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);

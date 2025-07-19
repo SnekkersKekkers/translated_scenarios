@@ -5,9 +5,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Now I think about it,
-｛七ツ森＊｝, isn't it
-almost your birthday?");
+MsgDisp("主人公","Now I think about it, ｛七ツ森＊｝,
+isn't it almost your birthday?");
 VoicePlay("F020400004_04_000");
 MsgDisp("Nanatsumori","Oh.");
 MsgDisp("主人公","Huh?

@@ -51,8 +51,8 @@ MsgDisp("Nanatsumori","I can't put it into words...
 I wonder if you can understand this
 feeling of excitement.");
 MsgDisp("主人公","(Hehe!
-｛七ツ森＊｝ seems like
-he's having lots of fun.)");
+｛七ツ森＊｝ seems like he's having
+lots of fun.)");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);

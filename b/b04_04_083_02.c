@@ -50,9 +50,8 @@ spring.");
         ChEyeOpenLevel(4,0);
         VoicePlay("B040408302_04_040");
         MsgDisp("Nanatsumori","...What are you saying?");
-        MsgDisp("主人公","That when I'm with
-｛七ツ森＊｝, it's fun no
-matter where we are.");
+        MsgDisp("主人公","That when I'm with ｛七ツ森＊｝, it's
+fun no matter where we are.");
         ChEye(4,4);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040408302_04_050");

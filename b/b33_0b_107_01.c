@@ -30,8 +30,7 @@ ChMotion(3,1,1);
 VoicePlay("B330B10701_03_000");
 MsgDisp("Honda","Ryo-kun's Grandpa's Antique store also
 smells like this.");
-MsgDisp("主人公","Seems like you like it,
-｛本多＊＊｝.");
+MsgDisp("主人公","Seems like you like it, ｛本多＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

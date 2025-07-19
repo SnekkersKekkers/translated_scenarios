@@ -41,8 +41,8 @@ ChMotion(1,0);
 VoicePlay("G020130101_01_050");
 MsgDisp("Kazama","Am I just one of many to you?
 To me, you're special.");
-MsgDisp("主人公","｛風真＊＊｝ you're my one and
-only precious childhood friend.");
+MsgDisp("主人公","｛風真＊＊｝ you're my one and only
+precious childhood friend.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);

@@ -10,8 +10,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, did you want to
-see this movie?");
+MsgDisp("主人公","｛柊＊＊＊｝, did you want to see this
+movie?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

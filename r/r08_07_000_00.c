@@ -106,9 +106,9 @@ ChMotion(7,0);
 VoicePlay("R080700000_07_090");
 MsgDisp("Mikage","Oh...look at that.
 The party's over.");
-MsgDisp("主人公","Yes...｛御影＊＊｝, these three years we
-spent at Christmas parties have been so
-fun.");
+MsgDisp("主人公","Yes...
+｛御影＊＊｝, these three years we spent
+at Christmas parties have been so fun.");
 MsgClose();
 SEPlay("EV_SE_FOOT_039");
 ChClose(7,0,30);

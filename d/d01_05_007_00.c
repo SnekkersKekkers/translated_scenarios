@@ -79,8 +79,8 @@ MsgDisp("Hiiragi","I was trying to show you a good side of
 me...I feel like I missed a once in a
 lifetime opportunity.");
 MsgDisp("主人公","Hehe.
-｛柊＊＊＊｝, you're really good
-at table tennis though!");
+｛柊＊＊＊｝, you're really good at table
+tennis though!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

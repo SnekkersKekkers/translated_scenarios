@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, do you know the
-legend about the church on school grounds?");
+MsgDisp("主人公","｛颯砂＊＊｝, do you know the legend about
+the church on school grounds?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

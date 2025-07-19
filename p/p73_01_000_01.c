@@ -41,8 +41,8 @@ It's like you're at your kid's play.");
 are both on par with a pro. Go with
 confidence in yourself.");
     MsgDisp("主人公","Yeah, thank you.
-Thanks to ｛風真＊＊｝, I gained
-some courage.");
+Thanks to ｛風真＊＊｝, I gained some
+courage.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);

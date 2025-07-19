@@ -15,8 +15,7 @@ VoicePlay("Q110D00000_21_010");
 MsgDisp("Michiru","Yeah, I guess?
 Though I shipped everything.");
 MsgDisp("主人公","I see.
-When is ｛ひかる＊｝
-done?");
+When is ｛ひかる＊｝ done?");
 ChPosition(21,1);
 MsgClose();
 SEPlay("EV_SE_544");
@@ -25,8 +24,8 @@ ChMotion(22,5,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("Q110D00000_22_000");
 MsgDisp("Hikaru","Sorry to keep you both waiting～♪");
-MsgDisp("主人公","｛ひかる＊｝, you're in
-a good mood, aren't you?");
+MsgDisp("主人公","｛ひかる＊｝, you're in a good mood,
+aren't you?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

@@ -6,8 +6,7 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Winter break is coming up.
-｛本多＊＊｝, what are you going
-to do?");
+｛本多＊＊｝, what are you going to do?");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);

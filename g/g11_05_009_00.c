@@ -8,9 +8,9 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","(Okay, that's enough for today. ——That's
-right ｛柊＊＊＊｝, Might still
-be in the student council room. Let's go
-and take a look.)");
+right ｛柊＊＊＊｝, Might still be in the
+student council room. Let's go and take a
+look.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);
@@ -50,8 +50,7 @@ ChEyeOpenLevel(5,13);
 VoicePlay("G110500900_05_030");
 MsgDisp("Hiiragi","It's funny when a usually dull guy says
 it, isn't it?");
-MsgDisp("主人公","｛柊＊＊＊｝ is always fun
-though?");
+MsgDisp("主人公","｛柊＊＊＊｝ is always fun though?");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

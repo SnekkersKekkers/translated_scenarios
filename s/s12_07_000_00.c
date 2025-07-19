@@ -35,9 +35,9 @@ scold me for it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(I visited the shrine with
-｛御影＊＊｝! Looks like
-this year will be another good year!)");
+    MsgDisp("主人公","(I visited the shrine with ｛御影＊＊｝!
+Looks like this year will be another good
+year!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -51,8 +51,7 @@ this year will be another good year!)");
     VoicePlay("S120700000_07_030");
     MsgDisp("Mikage","My body and spirit both feel refreshed.");
     MsgDisp("主人公","Yeah.
-｛御影＊＊｝, thanks for
-coming with me.");
+｛御影＊＊｝, thanks for coming with me.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);

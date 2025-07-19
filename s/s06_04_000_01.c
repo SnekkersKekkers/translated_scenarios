@@ -23,8 +23,7 @@ That's a little embarrassing.");
     MsgDisp("Nanatsumori","Oh, you have a nice expression.
 Maybe that's why.");
     MsgDisp("主人公","(I'm so relieved.
-｛七ツ森＊｝ looks really
-happy!)");
+｛七ツ森＊｝ looks really happy!)");
     break ;
     case 3:
     ChEye(4,0);
@@ -55,8 +54,7 @@ professional model.");
 The kind of filter that makes you look
 more beautiful than usual.");
     MsgDisp("主人公","(Yay.
-Looks like ｛七ツ森＊｝
-is happy!)");
+Looks like ｛七ツ森＊｝ is happy!)");
     break ;
     case 4:
     case 5:
@@ -87,8 +85,7 @@ Really so beautiful...");
 I'm definitely the happiest man in the
 world right now.");
     MsgDisp("主人公","(Yay!
-｛七ツ森＊｝ seems
-happy!)");
+｛七ツ森＊｝ seems happy!)");
     break ;
     default :
     DbgAssert(1);

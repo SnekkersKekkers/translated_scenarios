@@ -6,8 +6,7 @@ VoicePlay("B020600008_06_000");
 MsgDisp("Himuro","Hmmm.
 Are you a trend follower?");
 MsgDisp("主人公","Yeah.
-What do you think of my
-｛流行服名｝?");
+What do you think of my ｛流行服名｝?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

@@ -17,5 +17,4 @@ MsgDisp("Nanatsumori","I admire girls who can pull off that cool
 look.
 It's even cool from a guy's perspective.");
 MsgDisp("主人公","(Awesome!
-｛七ツ森＊｝ seems to
-have liked it!)");
+｛七ツ森＊｝ seems to have liked it!)");

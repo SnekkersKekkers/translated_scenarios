@@ -53,10 +53,9 @@ VoicePlay("P240401000_04_040");
 MsgDisp("Nanatsumori","...What about your true feelings?");
 MsgDisp("主人公","True feelings?
 I...");
-MsgDisp("主人公","｛七ツ森＊｝ is
-｛七ツ森＊｝. Even if your
-appearance is different, it doesn't make
-any difference to me...I guess?");
+MsgDisp("主人公","｛七ツ森＊｝ is ｛七ツ森＊｝. Even if
+your appearance is different, it doesn't
+make any difference to me...I guess?");
 ChEye(4,3);
 ChMouthOpenLevel(4,0);
 ChCheek(4,7);

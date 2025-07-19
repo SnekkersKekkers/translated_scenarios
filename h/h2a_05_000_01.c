@@ -12,8 +12,8 @@ switch (ChPrmGet(5,6)){
     BGMPlay("BGM_C05_HIIRAGI_C",0.01);
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","｛柊＊＊＊｝, we couldn't take
-home the championship...
+    MsgDisp("主人公","｛柊＊＊＊｝, we couldn't take home the
+championship...
 It's so frustrating...");
     VoicePlay("H2A0500001_05_000");
     MsgDisp("Hiiragi","I see.");
@@ -39,10 +39,9 @@ have been aiming for the championship.");
     MsgDisp("Hiiragi","Please, continue this conversation with
 the team members.
 They are waiting over there.");
-    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝. We
-might have lost, but I'm glad that I
-stayed as the track and field club
-manager...)");
+    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝. We might have
+lost, but I'm glad that I stayed as the
+track and field club manager...)");
     break ;
     default :
     DbgAssert(1);

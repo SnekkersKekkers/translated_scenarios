@@ -1,7 +1,5 @@
-MsgDisp("主人公","What kind of person am I to
-｛柊＊＊＊｝,
-｛氷室＊＊｝, and
-｛御影＊＊｝?");
+MsgDisp("主人公","What kind of person am I to ｛柊＊＊＊｝,
+｛氷室＊＊｝, and ｛御影＊＊｝?");
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("B070500001_05_360");
@@ -14,8 +12,7 @@ ChEye(5,2);
 ChMouth(5,4);
 VoicePlay("B070500001_05_370");
 MsgDisp("Hiiragi","...That's right, sorry.");
-MsgDisp("主人公","Eh, why is ｛柊＊＊＊｝
-apologizing?");
+MsgDisp("主人公","Eh, why is ｛柊＊＊＊｝ apologizing?");
 VoicePlay("B070500001_05_380");
 MsgDisp("Hiiragi","For making you ask that question.");
 ChMouth(5,2);

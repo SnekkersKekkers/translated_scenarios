@@ -26,8 +26,8 @@ VoicePlay("F100520001_05_020");
 MsgDisp("Hiiragi","I came to thank you for the other day.
 Please give my best regards to your
 grandfather.");
-MsgDisp("主人公","｛柊＊＊＊｝, you were able to
-look around the Kazama family storehouse?");
+MsgDisp("主人公","｛柊＊＊＊｝, you were able to look around
+the Kazama family storehouse?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -71,10 +71,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100520001_05_060");
 MsgDisp("Hiiragi","Yes, I am looking forward to it.");
-MsgDisp("主人公","(It seems like ｛風真＊＊｝,
-｛柊＊＊＊｝ and
-｛風真＊＊｝'s grandpa has a
-super good relationship.)");
+MsgDisp("主人公","(It seems like ｛風真＊＊｝, ｛柊＊＊＊｝
+and ｛風真＊＊｝'s grandpa has a super good
+relationship.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

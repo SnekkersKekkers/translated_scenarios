@@ -41,8 +41,7 @@ remember you many years from now.");
     SEWait();
     VoicePlay("S120300005_03_030");
     MsgDisp("Honda","......");
-    MsgDisp("主人公","｛本多＊＊｝, your face...is
-close.");
+    MsgDisp("主人公","｛本多＊＊｝, your face...is close.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     ChClose(3);
     ChLayout(1);
@@ -70,10 +69,9 @@ You won't make me forget it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(My heart is racing...Like
-｛本多＊＊｝ says, I want to
-spend the rest of my high school life
-without regrets!)");
+    MsgDisp("主人公","(My heart is racing...Like ｛本多＊＊｝
+says, I want to spend the rest of my high
+school life without regrets!)");
     break ;
     case 4:
     case 5:

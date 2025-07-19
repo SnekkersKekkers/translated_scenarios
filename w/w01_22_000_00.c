@@ -14,8 +14,7 @@ VoicePlay("W012200000_22_010");
 MsgDisp("Hikaru","Let's go to the amusement park this
 Sunday♪
 Hikaru got a bunch of tickets.");
-MsgDisp("主人公","｛ひかる＊｝, you want
-to go with me?");
+MsgDisp("主人公","｛ひかる＊｝, you want to go with me?");
 ChMotion(22,4,1);
 VoicePlay("W012200000_22_020");
 MsgDisp("Hikaru","Ehehe, Hikaru will invite other people

@@ -87,8 +87,8 @@ how to talk to you about it.");
         MsgDisp("Honda","But in the end, the instant we meet I
 forget about it all and I just talk to you
 freely.");
-        MsgDisp("主人公","(I can't believe ｛本多＊＊｝
-thinks of me that way...
+        MsgDisp("主人公","(I can't believe ｛本多＊＊｝ thinks of me
+that way...
 I'm so happy.");
         break ;
         default :

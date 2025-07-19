@@ -176,9 +176,8 @@ VoicePlay("Q070D00000_22_090");
 MsgDisp("Hikaru","Yepyep.
 Apparently love will find you if you touch
 it, so let's search together♪");
-MsgDisp("主人公","Huh, ｛みちる＊｝,
-｛ひかる＊｝, do you two
-have a crush?");
+MsgDisp("主人公","Huh, ｛みちる＊｝, ｛ひかる＊｝, do
+you two have a crush?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

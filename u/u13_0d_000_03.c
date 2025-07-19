@@ -50,9 +50,9 @@ Did Mari cause that?");
     MsgDisp("Hikaru","Aha▼ Minoru-kun isn't as strong-willed as
 he lets on. Fight for it, Mari!");
     StlEye(22,0);
-    MsgDisp("主人公","(Did I influence
-｛七ツ森＊｝? I hope it
-was a change in the right direction...)");
+    MsgDisp("主人公","(Did I influence ｛七ツ森＊｝?
+I hope it was a change in the right
+direction...)");
     break ;
     case 4:
     case 5:

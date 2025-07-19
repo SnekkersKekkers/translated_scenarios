@@ -135,9 +135,9 @@ VoicePlay("D010100600_01_090");
 MsgDisp("Kazama","Even though it's a charity, they selected
 me, a highschooler of all people.");
 MsgDisp("Kazama","Because my dad used to do this...");
-MsgDisp("主人公","I see. Well maybe in the future,
-｛風真＊＊｝, you can be just
-like your dad——");
+MsgDisp("主人公","I see.
+Well maybe in the future, ｛風真＊＊｝, you
+can be just like your dad——");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

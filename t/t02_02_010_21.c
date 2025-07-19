@@ -14,8 +14,8 @@ ChMotion(2,0);
 VoicePlay("T020201021_02_010");
 MsgDisp("Sassa","Seriously...");
 MsgDisp("主人公","Yes.
-I'm sorry I didn't notice when
-｛颯砂＊＊｝ was suffering.");
+I'm sorry I didn't notice when ｛颯砂＊＊｝
+was suffering.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

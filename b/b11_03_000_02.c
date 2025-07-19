@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm...looks like ｛本多＊＊｝
-isn't here yet.");
+MsgDisp("主人公","Hm...looks like ｛本多＊＊｝ isn't here
+yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

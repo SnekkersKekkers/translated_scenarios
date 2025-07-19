@@ -23,9 +23,8 @@ VoicePlay("D010500000_47_000");
 MsgDisp("Woman Customer B","Yeah, he was lovely～!");
 SEStop("EV_SE_637",2);
 MsgDisp("主人公","(It looks like the play just finished.
-｛柊＊＊＊｝ was really
-popular. Now, where are the dressing
-rooms...?)");
+｛柊＊＊＊｝ was really popular.
+Now, where are the dressing rooms...?)");
 MsgClose();
 ScrFadeOut(0,0);
 BGOpen("wf411",0);
@@ -128,8 +127,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 MsgDisp("主人公","(Phew...That was a good interview!
-｛柊＊＊＊｝ shared a lot with
-me, even though we didn't have much time.)");
+｛柊＊＊＊｝ shared a lot with me, even
+though we didn't have much time.)");
 MsgClose();
 Wait(40,0);
 ChPrmTblAdd(5,0);

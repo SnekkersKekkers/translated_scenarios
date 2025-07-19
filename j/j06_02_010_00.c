@@ -9,8 +9,7 @@ switch (MsgSelRsltGet()){
         case 3:
         VoicePlay("J060201000_02_000");
         MsgDisp("Sassa","That's good, it's a plan.");
-        MsgDisp("主人公","On ｛日付｝, at
-｛待ち合わせ場所｝?");
+        MsgDisp("主人公","On ｛日付｝, at ｛待ち合わせ場所｝?");
         VoicePlay("J060201000_02_010");
         MsgDisp("Sassa","That's fine.
 I'll be looking forward to seeing you on

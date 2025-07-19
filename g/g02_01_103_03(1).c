@@ -17,8 +17,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110303_01_020");
 MsgDisp("Kazama","I really feel for the fireflies.");
-MsgDisp("主人公","If ｛風真＊＊｝ was a firefly,
-he'd shine wonderfully, wouldn't he?");
+MsgDisp("主人公","If ｛風真＊＊｝ was a firefly, he'd shine
+wonderfully, wouldn't he?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

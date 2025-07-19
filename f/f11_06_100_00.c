@@ -57,7 +57,7 @@ See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","(I think I'll go check out
-｛氷室＊＊｝'s class later.)");
+MsgDisp("主人公","(I think I'll go check out ｛氷室＊＊｝'s
+class later.)");
 MsgClose();
 ScrFadeOut(0,0);

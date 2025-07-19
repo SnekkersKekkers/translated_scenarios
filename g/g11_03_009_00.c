@@ -9,8 +9,7 @@ BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("G110300900_03_000");
-MsgDisp("Honda","｛主人公｝, today is going to be
-busy.
+MsgDisp("Honda","｛主人公｝, today is going to be busy.
 Let's do our best!");
 MsgClose();
 ScrFadeOut(0);
@@ -23,8 +22,7 @@ BGOpen("ev003",0);
 ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","...Huh?
-｛本多＊＊｝ still hasn't taken a
-break?");
+｛本多＊＊｝ still hasn't taken a break?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -39,8 +37,8 @@ VoicePlay("G110300900_03_020");
 MsgDisp("Honda","When customers look at the cover, it
 catches their eye, right?");
 MsgDisp("主人公","Amazing.
-This is ｛本多＊＊｝'s
-recommendations corner, right? '");
+This is ｛本多＊＊｝'s recommendations
+corner, right? '");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);

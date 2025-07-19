@@ -94,8 +94,8 @@ ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B05102_03_020");
 MsgDisp("Honda","Then, let's resume our fun lunch time♪");
-MsgDisp("主人公","(So ｛風真＊＊｝ actually
-wanted to watch it too.
+MsgDisp("主人公","(So ｛風真＊＊｝ actually wanted to watch
+it too.
 But, they mentioned jealousy...?)");
 BGMStop();
 MsgClose();

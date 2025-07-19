@@ -5,8 +5,7 @@ ChMotion(2,4);
 VoicePlay("B070200000_02_430");
 MsgDisp("Sassa","What is it?
 Scary.");
-MsgDisp("主人公","What does ｛颯砂＊＊｝ think
-about love?");
+MsgDisp("主人公","What does ｛颯砂＊＊｝ think about love?");
 ChEye(2,5);
 ChMouth(2,4);
 ChMotion(2,5);

@@ -85,8 +85,7 @@ BGMStop();
 ChClose(1,0,30);
 ChClose(2,0,30);
 MsgDisp("主人公","(I see, today is Valentine's day.
-｛氷室＊＊｝ was hoping for
-something...)");
+｛氷室＊＊｝ was hoping for something...)");
 MsgClose();
 ScrFadeOut(0);
 ChLayout(1);

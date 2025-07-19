@@ -37,8 +37,8 @@ you later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Another year with ｛風真＊＊｝
-will be fun.
+    MsgDisp("主人公","(Another year with ｛風真＊＊｝ will be
+fun.
 But maybe he will keep scolding me?)");
     break ;
     case 4:
@@ -54,8 +54,7 @@ But maybe he will keep scolding me?)");
     ChMotion(1,0);
     ScrFadeIn(0);
     MsgDisp("主人公","Thanks for coming with me.
-｛風真＊＊｝, what will you do
-after this?");
+｛風真＊＊｝, what will you do after this?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);

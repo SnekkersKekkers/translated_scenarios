@@ -35,8 +35,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B06101_01_010");
 MsgDisp("Kazama","He got what he deserves.
 That's his fault for not being here.");
-MsgDisp("主人公","? Are you talking about
-｛本多＊＊｝?");
+MsgDisp("主人公","? Are you talking about ｛本多＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);

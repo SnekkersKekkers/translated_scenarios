@@ -126,8 +126,7 @@ MsgDisp("Hiiragi","Hmmm...quizzes and drama...
 Couldn't that lead to something
 interesting?");
 MsgDisp("主人公","(It seems that ｛柊＊＊＊｝ and
-｛本多＊＊｝ can work well
-together.)");
+｛本多＊＊｝ can work well together.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

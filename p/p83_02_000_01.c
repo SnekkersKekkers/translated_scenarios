@@ -67,8 +67,7 @@ There's lots prepared.");
     VoiceEVSPlay(2);
     VoicePlay("P830200001_02_040");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝, whats the
-matter?
+    MsgDisp("主人公","Ah, ｛颯砂＊＊｝, whats the matter?
 Is there something you needed?");
     ChEye(2,3);
     ChMouth(2,3);

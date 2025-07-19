@@ -6,8 +6,8 @@ MsgDisp("主人公","Huh...
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛風真＊＊｝, I wonder if
-something happened...");
+MsgDisp("主人公","｛風真＊＊｝, I wonder if something
+happened...");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);

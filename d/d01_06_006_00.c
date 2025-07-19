@@ -65,8 +65,7 @@ VoicePlay("D010600600_06_000");
 MsgDisp("Himuro","...Just like that...!");
 SEPlay("EV_SE_532",0,0.7);
 MsgDisp("主人公","(What a serious face...
-｛氷室＊＊｝ looks different than
-usual.)");
+｛氷室＊＊｝ looks different than usual.)");
 BGMVol(0.5,2);
 SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_793",2);

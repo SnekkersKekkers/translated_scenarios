@@ -88,9 +88,9 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_110");
 MsgDisp("Hikaru","Really...thank you.");
-MsgDisp("主人公","｛ひかる＊｝...I'm also
-happy to have had so many memories with
-｛ひかる＊｝.");
+MsgDisp("主人公","｛ひかる＊｝...
+I'm also happy to have had so many
+memories with ｛ひかる＊｝.");
 ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,2,1);
@@ -106,8 +106,7 @@ ChEyeOpenLevel(22,0);
 VoicePlay("T022200000_22_130");
 MsgDisp("Hikaru","Mari, you're so kind...
 I love you.");
-MsgDisp("主人公","I also love
-｛ひかる＊｝.");
+MsgDisp("主人公","I also love ｛ひかる＊｝.");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,0,1);

@@ -24,8 +24,8 @@ about it one day, okay?");
     ChClose(3);
     Wait(30);
     MsgDisp("主人公","(What a shame...
-But I wonder just where does
-｛本多＊＊｝ want to go to?)");
+But I wonder just where does ｛本多＊＊｝
+want to go to?)");
     break ;
     case 3:
     break ;

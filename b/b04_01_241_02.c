@@ -95,8 +95,8 @@ lot of wishes, right?");
         VoicePlay("B040124102_01_090");
         MsgDisp("Kazama","Really?
 Well, that's good then.");
-        MsgDisp("主人公","(I'd like to hear ｛風真＊＊｝'s
-wish one day.)");
+        MsgDisp("主人公","(I'd like to hear ｛風真＊＊｝'s wish one
+day.)");
         break ;
         default :
         DbgAssert(1);

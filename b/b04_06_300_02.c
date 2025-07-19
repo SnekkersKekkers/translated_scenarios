@@ -110,8 +110,7 @@ Thanks.");
         MsgDisp("Himuro","Seriously, you throw me for a loop so
 easily.");
         MsgDisp("主人公","(...?
-｛氷室＊＊｝ seems happy for some
-reason?)");
+｛氷室＊＊｝ seems happy for some reason?)");
         break ;
         default :
         DbgAssert(1);

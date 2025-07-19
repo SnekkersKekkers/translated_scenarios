@@ -22,8 +22,7 @@ VoicePlay("F102220001_31_010");
 MsgDisp("Goro","Hello.
 I came here because I wanted someone to
 try on my new work.");
-MsgDisp("主人公","Eh, you mean
-｛ひかる＊｝?");
+MsgDisp("主人公","Eh, you mean ｛ひかる＊｝?");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,3,1);

@@ -14,8 +14,7 @@ VoicePlay("D140C03000_06_000");
 MsgDisp("Himuro","By the way, I was wondering what it was
 like for you two at meal times.");
 ChMouth(5,2);
-MsgDisp("主人公","｛氷室＊＊｝, what is this all of a
-sudden?");
+MsgDisp("主人公","｛氷室＊＊｝, what is this all of a sudden?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -109,8 +108,7 @@ ChMotion(7,5);
 VoicePlay("D140C03000_07_050");
 MsgDisp("Mikage","Oh, I got the chairman's stamp of
 approval.");
-MsgDisp("主人公","(If ｛御影＊＊｝ became
-an actor...
+MsgDisp("主人公","(If ｛御影＊＊｝ became an actor...
 Hehe, he might get really popular?)");
 BGMStop();
 MsgClose();

@@ -2,8 +2,7 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like I'm a little early...
-Oh, ｛風真＊＊｝ is already
-here!)");
+Oh, ｛風真＊＊｝ is already here!)");
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 switch (ChPrmGet(1,6)){
     case 0:
@@ -58,8 +57,7 @@ I—");
     case 5:
     MsgClose();
     ChOpen(1,253,0,4,2,#1,#1,0,0);
-    MsgDisp("主人公","Aren't you here early,
-｛風真＊＊｝?");
+    MsgDisp("主人公","Aren't you here early, ｛風真＊＊｝?");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,1);

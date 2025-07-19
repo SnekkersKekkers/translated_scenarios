@@ -35,8 +35,8 @@ Well, work hard.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(Um...
-｛七ツ森＊｝, did you come
-to check on me?)");
+｛七ツ森＊｝, did you come to check on
+me?)");
     break ;
     case 3:
     MsgClose();
@@ -94,8 +94,7 @@ I'm happy I got complimented!)");
     VoicePlay("I450400000_04_090");
     MsgDisp("Nanatsumori","｛主人公｝.
 Good work.");
-    MsgDisp("主人公","Ah...you too,
-｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah...you too, ｛七ツ森＊｝.");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,2,1);
@@ -119,8 +118,8 @@ But, maybe there's something else...");
     SEWait();
     VoicePlay("I450400000_04_120");
     MsgDisp("Nanatsumori","......");
-    MsgDisp("主人公","Um, ｛七ツ森＊｝, you're a
-little close...");
+    MsgDisp("主人公","Um, ｛七ツ森＊｝, you're a little
+close...");
     MsgClose();
     ChEye(4,5);
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -145,8 +144,8 @@ Work hard, 'kay?");
     MsgDisp("Nanatsumori","Damn...
 The good smell was from her, herself...");
     MsgDisp("主人公","(Haa, that surprised me...
-｛七ツ森＊｝ came to
-cheer me on, right?)");
+｛七ツ森＊｝ came to cheer me on,
+right?)");
     break ;
     default :
     DbgAssert(1);

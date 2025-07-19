@@ -179,8 +179,8 @@ I'm seriously sick.");
     SEWait();
     SEPlay("EV_SE_DOOR_014");
     MsgDisp("主人公","(He left...
-I wonder what ｛颯砂＊＊｝ was
-thinking while running?)");
+I wonder what ｛颯砂＊＊｝ was thinking
+while running?)");
     break ;
     default :
     DbgAssert(1);

@@ -28,8 +28,8 @@ BGMPlay("BGM_C06_INORI_A",0.01);
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you having
-your lunch up here too?");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you having your lunch
+up here too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

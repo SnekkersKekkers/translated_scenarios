@@ -78,8 +78,8 @@ VoicePlay("B360123601_01_080");
 MsgDisp("Kazama","You're always doing new things.
 I'm praising you.");
 MsgDisp("主人公","Hmm.
-Even ｛風真＊＊｝ looks like
-he's having fun.");
+Even ｛風真＊＊｝ looks like he's having
+fun.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -97,9 +97,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","(I wonder what it would feel like to have
-been able to come with
-｛風真＊＊｝ here in elementary
-school...)");
+been able to come with ｛風真＊＊｝ here
+in elementary school...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

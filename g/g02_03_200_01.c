@@ -21,8 +21,7 @@ ChMotion(3,4);
 VoicePlay("G020320001_03_030");
 MsgDisp("Honda","So now, I'm honestly confused by this new
 feeling inside me");
-MsgDisp("主人公","｛本多＊＊｝, are you jealous of
-someone?");
+MsgDisp("主人公","｛本多＊＊｝, are you jealous of someone?");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -61,8 +60,8 @@ VoicePlay("G020320001_03_090");
 MsgDisp("Honda","My chest tightens, but trying to figure
 out why is also kind of exciting for me.");
 MsgDisp("主人公","(It hurts, but he seems excited...?
-Only ｛本多＊＊｝ could have such
-a unique perspective.)");
+Only ｛本多＊＊｝ could have such a unique
+perspective.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

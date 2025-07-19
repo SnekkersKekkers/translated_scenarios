@@ -35,8 +35,7 @@ shadows.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     MsgDisp("主人公","(Hehe.
-｛御影＊＊｝ came to
-cheer me on.)");
+｛御影＊＊｝ came to cheer me on.)");
     VoicePlay("P830700000_36_000");
     MsgDisp("Male Customer","Excuse me, I hope this is the reception.");
     MsgDisp("主人公","Ah, yes!");

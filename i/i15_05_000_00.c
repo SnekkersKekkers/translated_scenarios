@@ -91,8 +91,7 @@ of the store.");
 I see, so you add fragrant oils in.
 What a wonderful item...");
     MsgDisp("主人公","(Hehe.
-｛柊＊＊＊｝ really likes
-shopping.)");
+｛柊＊＊＊｝ really likes shopping.)");
     break ;
     case 4:
     case 5:

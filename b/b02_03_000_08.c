@@ -6,8 +6,7 @@ VoicePlay("B020300008_03_000");
 MsgDisp("Honda","Those clothes!
 That's what I saw my sister looking at the
 other day.");
-MsgDisp("主人公","Oh, you mean this
-｛流行服名｝?");
+MsgDisp("主人公","Oh, you mean this ｛流行服名｝?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

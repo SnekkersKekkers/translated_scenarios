@@ -24,8 +24,8 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("G020120200_01_030");
 MsgDisp("Kazama","Anyway, we're taking this seriously.");
-MsgDisp("主人公","(Has ｛風真＊＊｝ turned into a
-firefly in his head?)");
+MsgDisp("主人公","(Has ｛風真＊＊｝ turned into a firefly in
+his head?)");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -86,8 +86,8 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("G020120200_01_110");
 MsgDisp("Kazama","Listen, I'm getting to the goal first.");
-MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝
-is talking about ｛颯砂＊＊｝...)");
+MsgDisp("主人公","(I'm pretty sure ｛風真＊＊｝ is talking
+about ｛颯砂＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

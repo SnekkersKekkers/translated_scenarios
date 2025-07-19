@@ -1,7 +1,6 @@
 MsgDisp("主人公","Recently, the four of us; me, you,
-｛柊＊＊＊｝ and
-｛氷室＊＊｝ h ave been hanging out
-regularly huh?");
+｛柊＊＊＊｝ and ｛氷室＊＊｝ h ave been
+hanging out regularly huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

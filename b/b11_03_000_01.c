@@ -1,8 +1,8 @@
 ChLayout(1);
 ChClose(3,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm...looks like ｛本多＊＊｝
-isn't here yet.");
+MsgDisp("主人公","Hm...looks like ｛本多＊＊｝ isn't here
+yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

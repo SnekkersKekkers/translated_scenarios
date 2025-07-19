@@ -13,8 +13,8 @@ ChMotion(4,1,1);
 VoicePlay("G020410304_04_010");
 MsgDisp("Nanatsumori","Yeah.
 I'm mainly talking about you.");
-MsgDisp("主人公","｛七ツ森＊｝, I liked the
-birthday gift you gave me a lot.");
+MsgDisp("主人公","｛七ツ森＊｝, I liked the birthday gift
+you gave me a lot.");
 ChMotion(4,0,1);
 VoicePlay("G020410304_04_020");
 MsgDisp("Nanatsumori","Really?

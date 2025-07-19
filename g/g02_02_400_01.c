@@ -28,8 +28,8 @@ VoicePlay("G020240001_02_030");
 MsgDisp("Sassa","Extremely so. They practically attacked
 me. They're normally so docile, even the
 owner was surprised.");
-MsgDisp("主人公","When they saw ｛颯砂＊＊｝, they
-couldn't hold back their excitement huh?");
+MsgDisp("主人公","When they saw ｛颯砂＊＊｝, they couldn't
+hold back their excitement huh?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

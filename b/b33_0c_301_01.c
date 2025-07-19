@@ -25,8 +25,7 @@ ChMotion(7,5);
 VoicePlay("B330C30101_07_010");
 MsgDisp("Mikage","Eh?
 That...");
-MsgDisp("主人公","｛氷室＊＊｝, is there something you
-want?");
+MsgDisp("主人公","｛氷室＊＊｝, is there something you want?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -81,8 +80,7 @@ ChClose(7,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,4,#1,#1,0,0,0,30);
-MsgDisp("主人公","Are you coming too,
-｛御影＊＊｝?");
+MsgDisp("主人公","Are you coming too, ｛御影＊＊｝?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -91,8 +89,7 @@ MsgDisp("Mikage","O-Oi.
 I can't afford to buy something that
 expensive...");
 MsgDisp("主人公","Hehe, it's alright. I think both
-｛氷室＊＊｝ and
-｛御影＊＊｝ have no
+｛氷室＊＊｝ and ｛御影＊＊｝ have no
 intention of buying it at all.");
 ChEye(7,0);
 ChMouth(7,4);

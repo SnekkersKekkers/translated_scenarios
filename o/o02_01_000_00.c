@@ -79,8 +79,7 @@ You must have gotten some rope burn.");
 should rest? You might get germs from
 holding hands with other guys.");
     MsgDisp("主人公","(I'm glad I won the tug of war!
-But I think I made ｛風真＊＊｝
-worry.)");
+But I think I made ｛風真＊＊｝ worry.)");
     break ;
     default :
     DbgAssert(1);

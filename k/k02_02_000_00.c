@@ -45,7 +45,6 @@ BGMStop();
 MsgClose();
 ChClose(2);
 Wait(30);
-MsgDisp("主人公","(I got a present from
-｛颯砂＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛颯砂＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

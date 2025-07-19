@@ -23,8 +23,7 @@ ChMotion(7,3);
 VoicePlay("F020700008_07_010");
 MsgDisp("Mikage","Everyone is so concentrated, working until
 the evening～");
-MsgDisp("主人公","That's because
-｛御影＊＊｝ takes the
+MsgDisp("主人公","That's because ｛御影＊＊｝ takes the
 initiative to help out.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -48,9 +47,9 @@ VoicePlay("F020700008_07_040");
 MsgDisp("Mikage","I'll only butt in during the preparation
 period, could I just get a bit excited
 here?");
-MsgDisp("主人公","Yes, but if ｛御影＊＊｝
-was the one standing out during the actual
-event, everyone would probably be happy.");
+MsgDisp("主人公","Yes, but if ｛御影＊＊｝ was the one
+standing out during the actual event,
+everyone would probably be happy.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -59,5 +58,5 @@ MsgDisp("Mikage","What are you saying? You guys are the lead
 part. I'm just barging onto everyone's
 high school life.");
 MsgDisp("主人公","(Hehe, I think our class is only so united
-because ｛御影＊＊｝
-takes the initiative to have fun...)");
+because ｛御影＊＊｝ takes the
+initiative to have fun...)");

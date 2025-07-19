@@ -61,8 +61,7 @@ Say hi to Ryota for me, too.");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","(Boys' relationships are interesting...
-I hope ｛颯砂＊＊｝ will come
-back.)");
+I hope ｛颯砂＊＊｝ will come back.)");
     break ;
     case 3:
     MsgDisp("主人公","Welcome!

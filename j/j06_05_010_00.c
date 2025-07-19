@@ -13,8 +13,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060501000_05_000");
         MsgDisp("Hiiragi","Thank you.
 Can you suggest a meeting place?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝
-sounds good?");
+        MsgDisp("主人公","At ｛待ち合わせ場所｝ sounds good?");
         VoicePlay("J060501000_05_010");
         MsgDisp("Hiiragi","Yes, ma'am.
 It is my pleasure to be to accept your

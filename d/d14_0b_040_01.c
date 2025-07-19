@@ -57,8 +57,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoiceEVSPlay(1);
 VoicePlay("D140B04001_01_050");
-MsgDisp("Kazama","｛主人公｝, please offer a topic
-of conversation for today.");
+MsgDisp("Kazama","｛主人公｝, please offer a topic of
+conversation for today.");
 MsgDisp("主人公","(Ehh∋
 You can't dump it on me so suddenly...)");
 BGMStop();

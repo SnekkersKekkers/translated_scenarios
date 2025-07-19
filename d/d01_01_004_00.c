@@ -10,8 +10,7 @@ ScrFadeOut(0,0);
 SEWait();
 SEPlay("EV_SE_620",0,0.9);
 SEWait();
-MsgDisp("主人公","｛風真＊＊｝, I'm here to help
-you.");
+MsgDisp("主人公","｛風真＊＊｝, I'm here to help you.");
 VoicePlay("D010100400_01_000");
 MsgDisp("Kazama","Thank you!
 Hold on for a second.

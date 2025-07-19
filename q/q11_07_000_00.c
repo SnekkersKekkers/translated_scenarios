@@ -14,8 +14,7 @@ ChMotion(7,3);
 VoicePlay("Q110700000_07_010");
 MsgDisp("Mikage","That's nice.
 I tasted it too, it was yummy.");
-MsgDisp("主人公","What did you buy,
-｛御影＊＊｝?");
+MsgDisp("主人公","What did you buy, ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -44,8 +43,7 @@ MsgDisp("Mikage","You too, don't lose, bloom beautifully and
 welcome spring.
 Okay?");
 MsgDisp("主人公","Yes!
-｛御影＊＊｝, thank you
-very much.");
+｛御影＊＊｝, thank you very much.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

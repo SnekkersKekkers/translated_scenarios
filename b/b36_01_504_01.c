@@ -66,8 +66,8 @@ MsgDisp("主人公","Wait, don't pull so hard!");
 VoicePlay("B360150401_01_070");
 MsgDisp("Kazama","Let's go over there.
 There's an even better view.");
-MsgDisp("主人公","(Somehow ｛風真＊＊｝ looks
-like an excited puppy.)");
+MsgDisp("主人公","(Somehow ｛風真＊＊｝ looks like an
+excited puppy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -14,8 +14,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("O040701000_07_000");
     MsgDisp("Mikage","Oh, we're on the same team.");
     MsgDisp("主人公","Huh?
-You're participating too,
-｛御影＊＊｝?");
+You're participating too, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

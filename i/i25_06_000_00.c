@@ -145,8 +145,7 @@ Well, good luck.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(6);
-    MsgDisp("主人公","(Did ｛氷室＊＊｝ just come to
-cheer me on?
+    MsgDisp("主人公","(Did ｛氷室＊＊｝ just come to cheer me on?
 Hehe, I'm happy!)");
     break ;
     default :

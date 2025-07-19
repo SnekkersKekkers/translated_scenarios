@@ -112,9 +112,9 @@ I was just stating the truth.");
     MsgDisp("Himuro","Then, please watch your step.
 I'll be watching.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Seems like after talking to
-｛氷室＊＊｝, my stress has been
-relieved. ...Alright, let's do our best!)");
+    MsgDisp("主人公","(Seems like after talking to ｛氷室＊＊｝, my
+stress has been relieved.
+...Alright, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(6,0,0);

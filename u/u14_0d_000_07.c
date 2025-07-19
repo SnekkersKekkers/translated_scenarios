@@ -20,6 +20,5 @@ VoicePlay("U140D00007_22_010");
 MsgDisp("Hikaru","Aha♪
 Oneechan is jealous～!");
 MsgDisp("主人公","(I guess I have been playing with
-｛ひかる＊｝ a lot
-lately?)");
+｛ひかる＊｝ a lot lately?)");
 MsgClose();

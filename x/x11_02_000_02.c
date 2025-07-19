@@ -30,8 +30,8 @@ Let's practice harder!)");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("X110200002_02_020");
-    MsgDisp("Sassa","｛主人公｝, I heard you won all of
-your practice matches by one point?
+    MsgDisp("Sassa","｛主人公｝, I heard you won all of your
+practice matches by one point?
 That's amazing.");
     MsgDisp("主人公","Yeah, thank you ｛颯砂＊＊｝.");
     ChEye(2,0);
@@ -40,8 +40,8 @@ That's amazing.");
     VoicePlay("X110200002_02_030");
     MsgDisp("Sassa","It's cool that you care about winning too.
 Let's work hard for each other.");
-    MsgDisp("主人公","(I can't believe ｛颯砂＊＊｝
-praised me, I'm glad I won ...!)");
+    MsgDisp("主人公","(I can't believe ｛颯砂＊＊｝ praised me,
+I'm glad I won ...!)");
     break ;
     default :
     DbgAssert(1);

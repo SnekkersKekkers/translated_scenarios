@@ -44,8 +44,7 @@ I haven't enjoyed autumn with you yet.");
         ChMotion(3,0,1);
         VoicePlay("B040308402_03_030");
         MsgDisp("Honda","You're anxiously waiting for winter huh?");
-        MsgDisp("主人公","which season does ｛本多＊＊｝
-like?");
+        MsgDisp("主人公","which season does ｛本多＊＊｝ like?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);
@@ -67,8 +66,7 @@ out of the ground.");
         ChMotion(3,3);
         VoicePlay("B040308402_03_060");
         MsgDisp("Honda","Yep yep, I'll also wriggle with them～");
-        MsgDisp("主人公","Hehe, ｛本多＊＊｝ is always
-moving around.");
+        MsgDisp("主人公","Hehe, ｛本多＊＊｝ is always moving around.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);

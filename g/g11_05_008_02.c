@@ -125,8 +125,8 @@ MsgDisp("Hiiragi","Thank you.
 I feel a little more confident now.
 You give very good compliments.");
 MsgDisp("主人公","(Yay!
-But I want to help ｛柊＊＊＊｝
-even more.)");
+But I want to help ｛柊＊＊＊｝ even
+more.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

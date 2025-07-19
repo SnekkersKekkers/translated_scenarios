@@ -6,8 +6,7 @@ ChMotion(4,5);
 ChCheek(4,10);
 VoicePlay("T020420000_04_240");
 MsgDisp("Nanatsumori","Hey...∋");
-MsgDisp("主人公","I was also pushed! ...to
-｛七ツ森＊｝.");
+MsgDisp("主人公","I was also pushed! ...to ｛七ツ森＊｝.");
 ChMouth(4,4);
 ChMotion(4,0,1);
 ChCheek(4,0);

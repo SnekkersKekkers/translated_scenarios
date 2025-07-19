@@ -2,8 +2,7 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("T020111000_01_000");
-MsgDisp("Kazama?","｛主人公｝, did I make it in
-time...");
+MsgDisp("Kazama?","｛主人公｝, did I make it in time...");
 MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_872",0.5);
 Wait(49,0);

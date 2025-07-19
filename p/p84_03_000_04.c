@@ -40,8 +40,8 @@ VoicePlay("P840300004_03_030");
 MsgDisp("Honda","Umm...the place it was found; \"dropped by
 Honda Iku-kun in the corridor?\"");
 MsgDisp("主人公","Yeah, they chased after you immediately,
-but it seems like ｛本多＊＊｝
-was quite quickly nowhere to be found.");
+but it seems like ｛本多＊＊｝ was quite
+quickly nowhere to be found.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);

@@ -6,8 +6,7 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","...By the way,
-｛七ツ森＊｝.");
+MsgDisp("主人公","...By the way, ｛七ツ森＊｝.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

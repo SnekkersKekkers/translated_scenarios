@@ -27,8 +27,7 @@ VoicePlay("D140A04102_01_010");
 MsgDisp("Kazama","That's better than him holding back what
 he really thinks.");
 MsgDisp("主人公","Hehe.
-You both really like ｛氷室＊＊｝,
-don't you?");
+You both really like ｛氷室＊＊｝, don't you?");
 ChEye(1,0);
 ChMouth(1,0);
 ChEye(2,0);
@@ -105,8 +104,7 @@ his mind very clearly to everyone and
 anyone, but he definitely has some
 boundaries that won't be crossed.");
 MsgDisp("主人公","Yeah.
-I'm sure ｛氷室＊＊｝ trusts you
-two deeply.");
+I'm sure ｛氷室＊＊｝ trusts you two deeply.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);

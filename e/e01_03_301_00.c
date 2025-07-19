@@ -63,8 +63,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
 ChPosition(3,0);
 Wait(60,0);
-MsgDisp("主人公","｛柊＊＊＊｝ always seems so
-busy...");
+MsgDisp("主人公","｛柊＊＊＊｝ always seems so busy...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

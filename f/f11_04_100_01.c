@@ -60,10 +60,9 @@ VoicePlay("F110410001_04_050");
 MsgDisp("Nanatsumori","Here.
 Take a takoyaki.
 My thanks for rescuing me.");
-MsgDisp("主人公","(Yay! Even though
-｛七ツ森＊｝ is in a
-school uniform, he still stands out,
-huh...)");
+MsgDisp("主人公","(Yay!
+Even though ｛七ツ森＊｝ is in a school
+uniform, he still stands out, huh...)");
 MsgClose();
 MsgClose();
 ScrFadeOut(0,0);

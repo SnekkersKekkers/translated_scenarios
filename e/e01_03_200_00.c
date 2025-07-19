@@ -10,8 +10,7 @@ MsgDisp("Honda?","Here, look.
 Isn't that nice?
 The two of them are like a pair.");
 MsgDisp("主人公","Huh, those voices...
-｛本多＊＊｝ and
-｛風真＊＊｝?");
+｛本多＊＊｝ and ｛風真＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,35,0,0,2,#1,#1,0,1,0,30);

@@ -7,8 +7,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ChCheek(3,0);
 MsgDisp("主人公","Speaking of, did you not invite
-｛七ツ森＊｝ for lunch
-today?");
+｛七ツ森＊｝ for lunch today?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);

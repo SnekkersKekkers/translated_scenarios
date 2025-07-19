@@ -23,8 +23,7 @@ extracurricular lesson.");
 Well, I'll spare you that smile.
 No reports due today.");
     MsgDisp("主人公","Hehe, ok!
-Thank you so much,
-｛御影＊＊｝.");
+Thank you so much, ｛御影＊＊｝.");
     break ;
     case 3:
     VoicePlay("Q120700000_07_020");
@@ -57,8 +56,8 @@ Oh, I'll spare you from submitting the
 report.");
     ChClose(7);
     MsgDisp("主人公","(Hehe! That was so much fun. I want to
-write about it. Thank you,
-｛御影＊＊｝.)");
+write about it. Thank you, ｛御影＊＊｝.
+)");
     break ;
     case 4:
     case 5:
@@ -94,8 +93,7 @@ Don't get soggy.");
 If you see the tulips every year, you get
 reminded of this school trip.");
     MsgDisp("主人公","Yes.
-Will you also remember,
-｛御影＊＊｝?");
+Will you also remember, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -106,8 +104,7 @@ Good memories last forever.
 So, enjoy your school trip to the end!");
     ChClose(7);
     MsgDisp("主人公","(Good memories last forever...I hope the
-school trip with
-｛御影＊＊｝ will be a
+school trip with ｛御影＊＊｝ will be a
 memory of a lifetime.)");
     break ;
     default :

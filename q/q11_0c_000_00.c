@@ -4,9 +4,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The souvenir for ｛氷室＊＊｝ will
-be matcha castella with a bit of
-sweetness!)");
+MsgDisp("主人公","(The souvenir for ｛氷室＊＊｝ will be
+matcha castella with a bit of sweetness!)");
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
@@ -22,8 +21,7 @@ MsgDisp("Hiiragi","I selected the souvenir for Inori fast,
 but the other souvenirs were not decided
 yet. Sorry to keep you waiting.");
 MsgDisp("主人公","Don't worry, I just came.
-The souvenir for ｛氷室＊＊｝ is
-also ready.");
+The souvenir for ｛氷室＊＊｝ is also ready.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -81,8 +79,7 @@ VoicePlay("Q110C00000_05_030");
 MsgDisp("Hiiragi","Hehe, surely.
 Let's accept it, because he stayed home.");
 MsgDisp("主人公","Yeah.
-I can't wait to give them to
-｛氷室＊＊｝.");
+I can't wait to give them to ｛氷室＊＊｝.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -110,10 +107,9 @@ VoicePlay("Q110C00000_07_060");
 MsgDisp("Mikage","Isn't it easy to get from who it is?
 Inori's a special participant too.");
 ChEye(5,4);
-MsgDisp("主人公","I'm so happy! Thank you so much,
-｛柊＊＊＊｝,
-｛御影＊＊｝, and
-｛氷室＊＊｝.");
+MsgDisp("主人公","I'm so happy!
+Thank you so much, ｛柊＊＊＊｝,
+｛御影＊＊｝, and ｛氷室＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -131,8 +131,7 @@ MsgDisp("Nanatsumori","So, once again.
 Merry Christmas.
 I hope to see you for always.");
 MsgDisp("主人公","Yeah.
-Merry Christmas,
-｛七ツ森＊｝.");
+Merry Christmas, ｛七ツ森＊｝.");
 StlEye(4,2);
 BGMStop(3);
 MsgClose();

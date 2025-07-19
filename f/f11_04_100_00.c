@@ -20,9 +20,9 @@ ChMotion(4,0,1);
 VoicePlay("F110410000_04_030");
 MsgDisp("Nanatsumori","I'm patrolling like this for discipline
 control.");
-MsgDisp("主人公","I see. ｛七ツ森＊｝ is
-wearing his uniform properly, and he's
-tall, so he can control the situation.");
+MsgDisp("主人公","I see. ｛七ツ森＊｝ is wearing his
+uniform properly, and he's tall, so he can
+control the situation.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

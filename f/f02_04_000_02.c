@@ -53,5 +53,4 @@ MsgDisp("Nanatsumori","You can't do anything but laugh, right?
 Still, it would be amazing if something
 like that were real...");
 MsgDisp("主人公","(What?
-｛七ツ森＊｝, you look
-weirdly happy...)");
+｛七ツ森＊｝, you look weirdly happy...)");

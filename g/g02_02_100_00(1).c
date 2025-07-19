@@ -10,8 +10,8 @@ ChMotion(2,3);
 VoicePlay("G020210000_02_010");
 MsgDisp("Sassa","But no matter how many there are, I want
 to win.");
-MsgDisp("主人公","Yeah, if it's ｛颯砂＊＊｝, he
-will definitely win.");
+MsgDisp("主人公","Yeah, if it's ｛颯砂＊＊｝, he will
+definitely win.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -42,9 +42,8 @@ VoicePlay("G020210000_02_050");
 MsgDisp("Sassa","It's like an athlete's pledge.
 No matter what rivals come, I won't give
 anyone your place next to me.");
-MsgDisp("主人公","(? A competition for me?
-｛颯砂＊＊｝, what are you talking
-about...?)");
+MsgDisp("主人公","(? A competition for me? ｛颯砂＊＊｝, what
+are you talking about...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

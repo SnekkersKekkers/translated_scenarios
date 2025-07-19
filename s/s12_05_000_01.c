@@ -14,8 +14,7 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","Thank you for today,
-｛柊＊＊＊｝.
+    MsgDisp("主人公","Thank you for today, ｛柊＊＊＊｝.
 What are you doing later?");
     ChMotion(5,4);
     VoicePlay("S120500000_05_060");
@@ -49,8 +48,8 @@ It was fun to pray with you.");
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for taking me.
-｛柊＊＊＊｝, what are you doing
-after this?");
+｛柊＊＊＊｝, what are you doing after
+this?");
     ChMotion(5,4);
     VoicePlay("S120500000_05_130");
     MsgDisp("Hiiragi","There will be a New Year's show soon, so

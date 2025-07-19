@@ -40,9 +40,9 @@ I'm going to go for another run.");
     BGMStop();
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝'s really
-getting into it. Let's do our best so we
-can be of help to everyone!)");
+    MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝'s really getting into it.
+Let's do our best so we can be of help to
+everyone!)");
     break ;
     case 4:
     case 5:
@@ -63,9 +63,9 @@ you.");
     MsgDisp("Sassa","Same here. But you know, with your sense,
 I think you could be great in both short
 and long distance.");
-    MsgDisp("主人公","Thanks! But, I'll be helping out as a
-manager to support you and everyone else,
-｛颯砂＊＊｝.");
+    MsgDisp("主人公","Thanks!
+But, I'll be helping out as a manager to
+support you and everyone else, ｛颯砂＊＊｝.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -93,9 +93,9 @@ I gotta go!");
     SEPlay("EV_SE_672");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Hehe! Do your best, ｛颯砂＊＊｝.
-I'll be supporting you with everything I
-have starting today!)");
+    MsgDisp("主人公","(Hehe! Do your best, ｛颯砂＊＊｝. I'll be
+supporting you with everything I have
+starting today!)");
     break ;
     default :
     DbgAssert(1);

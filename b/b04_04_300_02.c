@@ -93,8 +93,7 @@ I was too direct just now.");
         MsgDisp("Nanatsumori","Sorry.
 Please don't be on guard.");
         MsgDisp("主人公","Yeah.
-Because I believe in
-｛七ツ森＊｝.");
+Because I believe in ｛七ツ森＊｝.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);

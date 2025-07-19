@@ -2,13 +2,11 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh?
-｛七ツ森＊｝ still isn't
-here...");
+｛七ツ森＊｝ still isn't here...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛七ツ森＊｝, you're
-late...");
+MsgDisp("主人公","｛七ツ森＊｝, you're late...");
 VoicePlay("B110400002_35_000");
 MsgDisp("?Boy","...Okay!
 Then for tonight's meeting, we'll go to

@@ -10,8 +10,8 @@ MsgDisp("主人公","Mmm, delicious♪");
 ChMouthOpenLevel(1,0);
 VoicePlay("D140B06002_01_000");
 MsgDisp("Kazama","......");
-MsgDisp("主人公","...? ｛風真＊＊｝, is there
-something on my face?");
+MsgDisp("主人公","...? ｛風真＊＊｝, is there something on my
+face?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

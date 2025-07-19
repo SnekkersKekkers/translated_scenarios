@@ -56,8 +56,7 @@ Did I make the wrong choice?)");
     case 4:
     case 5:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, a phone call from
-｛大地＊＊｝.");
+    MsgDisp("主人公","Ah, a phone call from ｛大地＊＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     MsgDisp("主人公","Hello, ｛大地＊＊｝?");

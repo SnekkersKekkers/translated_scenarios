@@ -18,8 +18,7 @@ gathering...)");
     VoicePlay("P130500000_05_000");
     MsgDisp("Hiiragi","Your class is amazing.
 As expected of Mikage-sensei...");
-    MsgDisp("主人公","｛柊＊＊＊｝, did you come to
-see it?");
+    MsgDisp("主人公","｛柊＊＊＊｝, did you come to see it?");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

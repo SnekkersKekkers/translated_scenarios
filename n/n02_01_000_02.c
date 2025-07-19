@@ -32,8 +32,7 @@ This isn't funny.");
     ScrFadeIn(0);
     VoicePlay("N020100002_01_030");
     MsgDisp("Kazama","Hmm...");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, what's up with
-you?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, what's up with you?");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -92,8 +91,8 @@ score a bit higher.
 See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Alright, ｛風真＊＊｝ should
-be surprised next time, I'll do my best!)");
+    MsgDisp("主人公","(Alright, ｛風真＊＊｝ should be surprised
+next time, I'll do my best!)");
     break ;
     default :
     DbgAssert(1);

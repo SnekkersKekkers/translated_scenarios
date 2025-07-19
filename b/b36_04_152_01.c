@@ -12,8 +12,7 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B360415201_04_000");
 MsgDisp("Nanatsumori","Alright, got it!");
-MsgDisp("主人公","｛七ツ森＊｝, you're good
-at darts.");
+MsgDisp("主人公","｛七ツ森＊｝, you're good at darts.");
 ChMotion(4,0,1);
 VoicePlay("B360415201_04_010");
 MsgDisp("Nanatsumori","Really?

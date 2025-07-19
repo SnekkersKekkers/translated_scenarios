@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, have you decided
-what you'll do over winter vacation?");
+MsgDisp("主人公","｛颯砂＊＊｝, have you decided what you'll
+do over winter vacation?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -34,8 +34,7 @@ VoicePlay("F020200011_02_030");
 MsgDisp("Sassa","I'd like to be decent about it, but I'm
 not as tasteful as Ryota and others.
 It'll end up a joke.");
-MsgDisp("主人公","I'm looking forward to
-｛颯砂＊＊｝'s joke.");
+MsgDisp("主人公","I'm looking forward to ｛颯砂＊＊｝'s joke.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
@@ -66,5 +65,5 @@ VoicePlay("F020200011_02_070");
 MsgDisp("Sassa","As for me, I'm looking forward to seeing
 your outfit. Well, not just me. I think
 everyone's looking forward to it.");
-MsgDisp("主人公","(Uh, ｛颯砂＊＊｝ just put more
-pressure on me...)");
+MsgDisp("主人公","(Uh, ｛颯砂＊＊｝ just put more pressure on
+me...)");

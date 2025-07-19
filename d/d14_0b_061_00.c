@@ -61,8 +61,7 @@ ChMotion(3,4,1);
 VoicePlay("D140B06100_03_040");
 MsgDisp("Honda","Is it no good?
 Can you not tell me?");
-MsgDisp("主人公","Hey, how about you ask
-｛風真＊＊｝?");
+MsgDisp("主人公","Hey, how about you ask ｛風真＊＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);

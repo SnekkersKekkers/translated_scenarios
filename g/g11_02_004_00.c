@@ -45,8 +45,8 @@ MsgDisp("Sassa","You've gotten a lot better.
 You can keep up with me just fine, huh?");
 MsgDisp("主人公","R-Really?");
 MsgDisp("主人公","(Hehe...
-｛颯砂＊＊｝'s hair is so cute, the
-way it flutters...like a horse's mane?)");
+｛颯砂＊＊｝'s hair is so cute, the way it
+flutters...like a horse's mane?)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(2,1,0,0,0,0);

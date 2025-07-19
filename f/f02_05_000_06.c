@@ -12,8 +12,7 @@ ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("F020500006_05_000");
 MsgDisp("Hiiragi","Yes, it will be a lot of fun.");
-MsgDisp("主人公","｛柊＊＊＊｝, don't you like
-exercise?");
+MsgDisp("主人公","｛柊＊＊＊｝, don't you like exercise?");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F020500006_05_010");

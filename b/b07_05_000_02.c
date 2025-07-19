@@ -33,8 +33,7 @@ MsgDisp("Hiiragi","That goes well with green tea.
 Goodness, it really ruins people.
 A food just like the devil.");
 MsgDisp("主人公","(Hehe!
-｛柊＊＊＊｝, you really like it
-huh?)");
+｛柊＊＊＊｝, you really like it huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -36,8 +36,7 @@ I'll be totally fine!");
     VoicePlay("S030400000_04_050");
     MsgDisp("Nanatsumori","Happy New Year.");
     MsgDisp("主人公","Hehe, Happy New Year.
-Treat me well this year,
-｛七ツ森＊｝.");
+Treat me well this year, ｛七ツ森＊｝.");
     VoicePlay("S030400000_04_060");
     MsgDisp("Nanatsumori","You too.
 ...Haha.");

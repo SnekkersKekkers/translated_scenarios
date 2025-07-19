@@ -58,8 +58,8 @@ VoicePlay ( "D150003600_06_020" ) ;
 MsgDisp ( "Himuro","I guess it's not a complex then.
 I'll keep growing though." ) ;
 MsgDisp ( "主人公","Really?
-I think ｛氷室＊＊｝ is fine the
-way he is now～..." ) ;
+I think ｛氷室＊＊｝ is fine the way he is
+now～..." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,1 ) ;
@@ -67,8 +67,7 @@ VoicePlay ( "D150003600_06_030" ) ;
 MsgDisp ( "Himuro","What. Why? Iku-senpai already explained
 himself. What's your reasoning?" ) ;
 MsgDisp ( "主人公","(I might get in trouble if I tell
-｛氷室＊＊｝ that his height suits
-him.)" ) ;
+｛氷室＊＊｝ that his height suits him.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

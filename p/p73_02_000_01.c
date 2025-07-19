@@ -56,8 +56,7 @@ It looks like I came to put pressure on
 you.");
     MsgDisp("主人公","No, thank you for coming.
 Then, I'll do my best.");
-    MsgDisp("主人公","(I'll give ｛颯砂＊＊｝ a good
-show!)");
+    MsgDisp("主人公","(I'll give ｛颯砂＊＊｝ a good show!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);
@@ -109,8 +108,8 @@ afraid to appear anywhere.");
     MsgDisp("Sassa","Alright, I'll also be cheering you on from
 a good seat.
 Have fun!");
-    MsgDisp("主人公","(Alright, let's live up to
-｛颯砂＊＊｝'s expectations!)");
+    MsgDisp("主人公","(Alright, let's live up to ｛颯砂＊＊｝'s
+expectations!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

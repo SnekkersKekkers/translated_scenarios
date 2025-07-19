@@ -55,9 +55,8 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_160");
 MsgDisp("Himuro","But the fact that he's recommending
 decathlon to me is just nonsense.");
-MsgDisp("主人公","(｛氷室＊＊｝ recognizes
-｛颯砂＊＊｝ in his own way,
-doesn't he?)");
+MsgDisp("主人公","(｛氷室＊＊｝ recognizes ｛颯砂＊＊｝ in his
+own way, doesn't he?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

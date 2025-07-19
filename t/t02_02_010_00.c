@@ -136,9 +136,9 @@ SEPlay("EV_SE_544");
 ChOpen(2,254,7,4,0,#1,#1,0,0,0,120);
 VoiceEVSPlay(2);
 VoicePlay("T020201000_02_180");
-MsgDisp("Sassa","｛主人公｝, I want to run with
-you. I want to make my dreams come true
-with you.");
+MsgDisp("Sassa","｛主人公｝, I want to run with you.
+I want to make my dreams come true with
+you.");
 MsgDisp("主人公","!");
 ChEye(2,4);
 ChMouth(2,0);

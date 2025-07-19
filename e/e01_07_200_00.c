@@ -54,8 +54,8 @@ VoicePlay("E010720000_04_020");
 MsgDisp("Nanatsumori","Yeah.
 I'm curious about Mikage-sensei's
 hairstyle.");
-MsgDisp("主人公","｛御影＊＊｝, you go to
-that beauty salon over there?");
+MsgDisp("主人公","｛御影＊＊｝, you go to that beauty
+salon over there?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -108,8 +108,7 @@ VoicePlay("E010720000_04_040");
 MsgDisp("Nanatsumori","...So Mikage-sensei went to the beauty
 salon. He kinda doesn't seem like the
 type, does he?");
-MsgDisp("主人公","(I like ｛御影＊＊｝'s
-hairstyle I hope he always keeps it that
-way...)");
+MsgDisp("主人公","(I like ｛御影＊＊｝'s hairstyle I hope
+he always keeps it that way...)");
 MsgClose();
 ScrFadeOut(0,0);

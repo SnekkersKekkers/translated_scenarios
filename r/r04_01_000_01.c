@@ -77,8 +77,8 @@ for me.");
     VoicePlay("R040100001_01_080");
     MsgDisp("Kazama","Don't get cocky!");
     MsgDisp("主人公","(Hehe!
-｛風真＊＊｝ seems to really
-like my dress.)");
+｛風真＊＊｝ seems to really like my
+dress.)");
     break ;
     default :
     DbgAssert(1);

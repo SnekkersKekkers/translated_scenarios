@@ -40,8 +40,7 @@ ChOpen(21,255,0,0,0,#1,#1,0,0,0,30);
 VoicePlay("E012150000_21_030");
 MsgDisp("Michiru","Pant, pant...");
 MsgDisp("主人公","Huh?
-｛みちる＊｝, what's
-wrong?");
+｛みちる＊｝, what's wrong?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,5);

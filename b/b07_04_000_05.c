@@ -1,5 +1,4 @@
-MsgDisp("主人公","What are your hobbies,
-｛七ツ森＊｝?");
+MsgDisp("主人公","What are your hobbies, ｛七ツ森＊｝?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400000_04_260");

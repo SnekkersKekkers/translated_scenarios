@@ -1,6 +1,5 @@
-MsgDisp("主人公","｛七ツ森＊｝ and
-｛本多＊＊｝ are extremely
-different types.");
+MsgDisp("主人公","｛七ツ森＊｝ and ｛本多＊＊｝ are
+extremely different types.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -41,8 +40,8 @@ VoicePlay("B070400001_04_150");
 MsgDisp("Nanatsumori","Well, something like that. Even though
 we're polar opposites, it seems like we
 get along and can learn from each other.");
-MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ seems
-to be having fun!)");
+MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ seems to be having
+fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

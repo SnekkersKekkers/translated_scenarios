@@ -17,5 +17,4 @@ because they wear out and get wrinkly and
 raggedy...But I'm learning a lot looking
 at your technique.");
 MsgDisp("主人公","(Oh, good!
-｛七ツ森＊｝ seems to
-have liked it!)");
+｛七ツ森＊｝ seems to have liked it!)");

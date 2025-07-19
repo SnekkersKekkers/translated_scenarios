@@ -101,9 +101,9 @@ Don't drop it again, alright?");
 ChEye(4,0);
 SEPlay("EV_SE_662");
 SEWait();
-MsgDisp("主人公","｛風真＊＊｝ said he's going
-too. Aren't you two just brought together
-by fate?");
+MsgDisp("主人公","｛風真＊＊｝ said he's going too.
+Aren't you two just brought together by
+fate?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

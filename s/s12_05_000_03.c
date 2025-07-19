@@ -15,8 +15,7 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for taking me.
-Does ｛柊＊＊＊｝ have to work
-after this?");
+Does ｛柊＊＊＊｝ have to work after this?");
     ChMotion(5,0);
     VoicePlay("S120500001_05_050");
     MsgDisp("Hiiragi","Yeah.

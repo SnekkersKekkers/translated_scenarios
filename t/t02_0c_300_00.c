@@ -14,8 +14,8 @@ ChEye(5,4);
 VoicePlay("T020C30000_05_010");
 MsgDisp("Hiiragi","Congratulations on graduating.");
 MsgDisp("主人公","Thank you.
-｛柊＊＊＊｝, congratulations to
-you too on graduating.");
+｛柊＊＊＊｝, congratulations to you too on
+graduating.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -23,9 +23,9 @@ ChEyeOpenLevel(5,0);
 VoicePlay("T020C30000_05_020");
 MsgDisp("Hiiragi","It's a miracle that I get to graduate
 together with you.");
-MsgDisp("主人公","Yes. ｛柊＊＊＊｝, you worked
-hard on both your studies and student
-council activities.");
+MsgDisp("主人公","Yes.
+｛柊＊＊＊｝, you worked hard on both your
+studies and student council activities.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -41,8 +41,8 @@ MsgDisp("Hiiragi","I fondly remember you having fun sitting
 on that bench and drawing pictures.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","｛柊＊＊＊｝ often used to work
-at that window.
+MsgDisp("主人公","｛柊＊＊＊｝ often used to work at that
+window.
 As that was the student council room.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
@@ -111,8 +111,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("T020C30000_07_010");
-MsgDisp("Mikage","｛主人公｝, you've helped me out
-so much these past three years.");
+MsgDisp("Mikage","｛主人公｝, you've helped me out so much
+these past three years.");
 MsgDisp("主人公","No, it was nothing...");
 ChEye(7,0);
 ChMouth(7,0);

@@ -1,8 +1,8 @@
 BGOpen("sc310",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, ｛みちる＊｝,
-｛ひかる＊｝ and...
+MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝
+and...
 ｛颯砂＊＊｝?)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
@@ -66,9 +66,9 @@ ChMotion(2,4);
 VoicePlay("F100230002_02_010");
 MsgDisp("Sassa","But, even if Michiru-san likes shoujo
 manga, it's not that much of a gap.");
-MsgDisp("主人公","Yeah. Both ｛みちる＊｝
-and ｛ひかる＊｝ look
-like they would like girly things.");
+MsgDisp("主人公","Yeah.
+Both ｛みちる＊｝ and ｛ひかる＊｝
+look like they would like girly things.");
 ChMotion(22,0,1);
 ChEye(21,0);
 ChMouth(21,4);

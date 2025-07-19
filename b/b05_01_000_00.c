@@ -149,8 +149,7 @@ ChOpen(1,255,0,0,3,#1,#1,0,0);
 Wait(10,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Haa, that was fun.
-｛風真＊＊｝, do you enjoy
-ferris wheels?");
+｛風真＊＊｝, do you enjoy ferris wheels?");
 ChClose(1,0,30);
 ChLayout(0);
 MsgClose();
@@ -196,8 +195,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100000_01_110");
 MsgDisp("Kazama","But with you here, anything feels right.");
-MsgDisp("主人公","｛風真＊＊｝, everyone is
-watching...");
+MsgDisp("主人公","｛風真＊＊｝, everyone is watching...");
 SEPlay("EV_SE_GAYA_019",0,0.9);
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0.1,0.5,0.5);
 ChClose(1,0,30);

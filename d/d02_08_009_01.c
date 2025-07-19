@@ -20,7 +20,7 @@ MsgDisp("Manager","Ah, Daichi-kun called yesterday to say
 he's quitting his part-time job here.
 It was so sudden, it surprised me...");
 MsgDisp("主人公","Eh∋");
-MsgDisp("主人公","(I won't see ｛大地＊＊｝
-here anymore...)");
+MsgDisp("主人公","(I won't see ｛大地＊＊｝ here
+anymore...)");
 MsgClose();
 ScrFadeOut(0);

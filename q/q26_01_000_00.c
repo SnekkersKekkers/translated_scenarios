@@ -12,8 +12,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("Q260100000_01_010");
 MsgDisp("Kazama","You didn't realise, did you?");
-MsgDisp("主人公","So that was ｛風真＊＊｝
-earlier?");
+MsgDisp("主人公","So that was ｛風真＊＊｝ earlier?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

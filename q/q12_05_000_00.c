@@ -12,14 +12,14 @@ switch (ChPrmGet(5,6)){
     VoicePlay("Q120500000_05_000");
     MsgDisp("Hiiragi","It was fun going around with you.");
     MsgDisp("主人公","I feel the same way. Thanks to you,
-｛柊＊＊＊｝, I made wonderful
-memories. Thank you!");
+｛柊＊＊＊｝, I made wonderful memories.
+Thank you!");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_010");
     MsgDisp("Hiiragi","This is my first school trip, and even
-though I have nothing to compare it too, it's still the
-best.");
+though I have nothing to compare it too,
+it's still the best.");
     MsgDisp("主人公","Hehe!
 I'm happy.");
     ChEye(5,0);

@@ -30,6 +30,6 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(I got a return gift from
-｛御影＊＊｝! I wonder
-what it is? How exciting.)");
+MsgDisp("主人公","(I got a return gift from ｛御影＊＊｝!
+I wonder what it is?
+How exciting.)");

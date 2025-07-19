@@ -10,9 +10,9 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(7,37,0,0,0,#1,#1,0,0,0,30);
 ChOpen(22,254,0,0,3,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛ひかる＊｝,
-｛みちる＊｝.
-Huh...｛御影＊＊｝ too?");
+MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝.
+Huh...
+｛御影＊＊｝ too?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -71,9 +71,8 @@ ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F100730000_22_030");
 MsgDisp("Hikaru","Eh, really?");
-MsgDisp("主人公","Umm...well, it's very
-｛御影＊＊｝ -like, so I
-think it's fine but...");
+MsgDisp("主人公","Umm...well, it's very ｛御影＊＊｝
+-like, so I think it's fine but...");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);

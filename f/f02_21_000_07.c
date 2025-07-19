@@ -30,8 +30,7 @@ MsgDisp("Michiru","Hehe.
 But, I would probably watch that from a
 cool room.");
 MsgDisp("主人公","Aren't ｛みちる＊｝ and
-｛ひかる＊｝ going
-abroad on vacation?");
+｛ひかる＊｝ going abroad on vacation?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,5);

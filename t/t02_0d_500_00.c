@@ -9,8 +9,7 @@ BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 MsgDisp("主人公","Ah.
-｛みちる＊｝,
-｛ひかる＊｝!");
+｛みちる＊｝, ｛ひかる＊｝!");
 ChMotion(22,4,1);
 VoicePlay("T020D50000_22_000");
 MsgDisp("Hikaru","Congratulations on your graduation, Mari♪");
@@ -83,10 +82,9 @@ ChMotion(21,4);
 VoicePlay("T020D50000_21_050");
 MsgDisp("Michiru","?");
 MsgDisp("主人公","There were a lot of strange things
-happening, yes...but
-｛みちる＊｝ and
-｛ひかる＊｝ were
-always my friends and everyday was so fun!");
+happening, yes...but ｛みちる＊｝ and
+｛ひかる＊｝ were always my friends
+and everyday was so fun!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

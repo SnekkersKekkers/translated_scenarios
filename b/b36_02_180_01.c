@@ -10,8 +10,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, did you want to
-watch a movie today?");
+MsgDisp("主人公","｛颯砂＊＊｝, did you want to watch a movie
+today?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -45,8 +45,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 MsgDisp("主人公","(He ran off with great speed!
-｛颯砂＊＊｝, were you really that
-hungry?)");
+｛颯砂＊＊｝, were you really that hungry?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

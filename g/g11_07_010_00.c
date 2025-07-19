@@ -3,8 +3,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(To think that I could win the top prize
 at a competition as the representative of
 the gardening club...This must be thanks
-to ｛御影＊＊｝ too,
-right?)");
+to ｛御影＊＊｝ too, right?)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -31,9 +30,9 @@ ChMotion(7,0);
 VoicePlay("G110701000_07_020");
 MsgDisp("Mikage","You used to talk to plants a lot back
 then.");
-MsgDisp("主人公","Yes. I learned that from
-｛御影＊＊｝. That if you
-talk to plants, they'll grow.");
+MsgDisp("主人公","Yes.
+I learned that from ｛御影＊＊｝.
+That if you talk to plants, they'll grow.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -47,8 +46,7 @@ ChMotion(7,1);
 VoicePlay("G110701000_07_040");
 MsgDisp("Mikage","That's why you won top prize in the
 contest.");
-MsgDisp("主人公","It's all thanks to
-｛御影＊＊｝.");
+MsgDisp("主人公","It's all thanks to ｛御影＊＊｝.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

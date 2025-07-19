@@ -4,8 +4,8 @@ BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ChOpen(5,100,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, your typing on the
-computer has become much faster.");
+MsgDisp("主人公","｛柊＊＊＊｝, your typing on the computer
+has become much faster.");
 ChMouth(5,1);
 VoicePlay("G110500702_05_000");
 MsgDisp("Hiiragi","Really?

@@ -58,8 +58,8 @@ VoicePlay("X210100000_01_060");
 MsgDisp("Kazama","That's why, it is only right that you
 became Rose Queen.");
 MsgDisp("主人公","Thank you.
-I'm happy to hear ｛風真＊＊｝
-say it like that.");
+I'm happy to hear ｛風真＊＊｝ say it like
+that.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

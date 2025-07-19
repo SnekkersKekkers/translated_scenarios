@@ -67,8 +67,7 @@ Thank you!");
 That's quite impressive.
 I saw your name near the top.");
     MsgDisp("主人公","Thank you.
-｛颯砂＊＊｝, did you see your
-rank?");
+｛颯砂＊＊｝, did you see your rank?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

@@ -67,9 +67,9 @@ StlMouth(1,0);
 VoicePlay("D120A00000_01_030");
 MsgDisp("Kazama","Please stop.
 Don't call me \"Young Master\".");
-MsgDisp("主人公","Hehe. A lot of people call
-｛風真＊＊｝ a young master,
-huh?");
+MsgDisp("主人公","Hehe.
+A lot of people call ｛風真＊＊｝ a young
+master, huh?");
 StlEyeOpenLevel(1,#1);
 StlEye(6,0);
 StlMouth(6,1);

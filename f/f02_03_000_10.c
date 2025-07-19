@@ -47,8 +47,8 @@ VoicePlay("F020300010_03_050");
 MsgDisp("Honda","It's fun to test my knowledge like that,
 so I'm thinking, why not try?");
 MsgDisp("主人公","That's amazing!
-But couldn't ｛本多＊＊｝ write
-it just as well from scratch?");
+But couldn't ｛本多＊＊｝ write it just as
+well from scratch?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -63,5 +63,4 @@ VoicePlay("F020300010_03_070");
 MsgDisp("Honda","My task is to thoroughly reinforce the
 story as a third party. It may not sound
 like much, but it's an important role.");
-MsgDisp("主人公","(Hehe, ｛本多＊＊｝ looks
-excited!)");
+MsgDisp("主人公","(Hehe, ｛本多＊＊｝ looks excited!)");

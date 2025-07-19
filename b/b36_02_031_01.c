@@ -12,8 +12,8 @@ ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B360203101_02_000");
 MsgDisp("Sassa","Yeah, we can take our time here.");
-MsgDisp("主人公","｛颯砂＊＊｝, do you like
-aquariums that much?");
+MsgDisp("主人公","｛颯砂＊＊｝, do you like aquariums that
+much?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

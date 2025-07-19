@@ -63,8 +63,8 @@ ChLayout(1);
 ChNanaType(#1);
 ChOpen(4,255,0,4,3,#1,#1,8,0,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝, just now, on
-my forehead...");
+MsgDisp("主人公","｛七ツ森＊｝, just now, on my
+forehead...");
 VoicePlay("B140400100_04_070");
 MsgDisp("Nanatsumori","A kiss-mas present.");
 ChEye(4,4);
@@ -95,8 +95,7 @@ VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Once more. So that I don't forget this
 moment for the rest of my life. Merry
 Christmas, ｛主人公｝.");
-MsgDisp("主人公","Merry Christmas,
-｛七ツ森＊｝.");
+MsgDisp("主人公","Merry Christmas, ｛七ツ森＊｝.");
 MsgDisp("主人公","(I think I'm feeling happy too...)");
 BGMStop();
 MsgClose();

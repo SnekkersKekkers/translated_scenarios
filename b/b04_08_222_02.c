@@ -53,8 +53,7 @@ depending on the individual.");
 heirlooms, each one of those families have
 an individual sense of what's valuable.");
         MsgDisp("主人公","That's right. by the way, does
-｛大地＊＊｝ have his own
-treasures?");
+｛大地＊＊｝ have his own treasures?");
         ChEye(8,4);
         ChMouth(8,4);
         ChMotion(8,2,1);

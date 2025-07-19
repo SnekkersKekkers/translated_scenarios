@@ -54,8 +54,7 @@ It's that.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ really likes
-dogs...)");
+    MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ really likes dogs...)");
     break ;
     case 3:
     VoicePlay("I250200000_02_060");
@@ -168,8 +167,8 @@ apron── I mean, the books, okay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Working with ｛颯砂＊＊｝ would
-make the store really lively!)");
+    MsgDisp("主人公","(Working with ｛颯砂＊＊｝ would make the
+store really lively!)");
     break ;
     default :
     DbgAssert(1);

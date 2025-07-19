@@ -46,8 +46,8 @@ VoicePlay("B360105100_01_040");
 MsgDisp("Kazama","But those guys have good intuition.
 It'll be a pain in the ass if they find
 out.");
-MsgDisp("主人公","｛風真＊＊｝, you seem like
-you're having a lot of fun.");
+MsgDisp("主人公","｛風真＊＊｝, you seem like you're having a
+lot of fun.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

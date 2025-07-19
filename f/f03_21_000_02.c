@@ -33,8 +33,7 @@ ChMotion(21,0);
 VoicePlay("F032100000_21_110");
 MsgDisp("Michiru","But, I like sashimi so it's a complicated
 feeling.");
-MsgDisp("主人公","(It seems like
-｛みちる＊｝ doesn't have
-any likes or dislikes when it comes to
-food.)");
+MsgDisp("主人公","(It seems like ｛みちる＊｝ doesn't
+have any likes or dislikes when it comes
+to food.)");
 BGMStop();

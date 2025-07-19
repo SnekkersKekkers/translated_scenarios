@@ -83,8 +83,8 @@ Principal Himuro, doesn't it?");
         VoicePlay("B040202102_02_090");
         MsgDisp("Sassa","And that one, with the weird haircut.
 It's Mikage-sensei!");
-        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ looks like
-he's enjoying himself.)");
+        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ looks like he's
+enjoying himself.)");
         break ;
         default :
         DbgAssert(1);

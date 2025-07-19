@@ -49,8 +49,8 @@ way around?");
         MsgDisp("Nanatsumori","I mean, that's what guys do when a girl is
 scared.");
         MsgDisp("主人公","Haha, then isn't it fine for
-｛七ツ森＊｝ to be the
-one holding my hand?");
+｛七ツ森＊｝ to be the one holding my
+hand?");
         ChEye(4,4);
         ChMouth(4,0);
         ChMotion(4,0,1);

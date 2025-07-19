@@ -68,8 +68,8 @@ heard anything of the sort, right?");
         MsgDisp("Hiiragi","Even though I had not heard it myself, I
 was anxious thinking my inner voice was
 being talkative.");
-        MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ is your
-inner voice talkative?");
+        MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ is your inner voice
+talkative?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040508202_05_070");
@@ -88,8 +88,8 @@ Then, that goes for me too.");
 something good, I'll take it at 100
 percent accuracy. If it's not, I'll take
 it with a grain of salt.");
-        MsgDisp("主人公","(I wonder what ｛柊＊＊＊｝
-means by something good?)");
+        MsgDisp("主人公","(I wonder what ｛柊＊＊＊｝ means by
+something good?)");
         break ;
         default :
         DbgAssert(1);

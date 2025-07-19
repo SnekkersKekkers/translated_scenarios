@@ -78,8 +78,8 @@ festival too.");
 break, let's walk around together, okay?");
     MsgDisp("主人公","Yeah, thank you!");
     MsgDisp("主人公","(So that I can enjoy the cultural festival
-with ｛本多＊＊｝, Let's hold on a
-little longer and do our best!)");
+with ｛本多＊＊｝, Let's hold on a little
+longer and do our best!)");
     break ;
     default :
     DbgAssert(1);

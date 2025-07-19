@@ -57,8 +57,8 @@ VoicePlay("G020210400_02_070");
 MsgDisp("Sassa","I almost thought of letting him win, but
 when it comes to competition, I definitely
 want to win.");
-MsgDisp("主人公","Yeah, I think it's so
-｛颯砂＊＊｝ -like, it's good.");
+MsgDisp("主人公","Yeah, I think it's so ｛颯砂＊＊｝ -like,
+it's good.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

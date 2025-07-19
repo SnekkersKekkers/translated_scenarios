@@ -63,8 +63,8 @@ together?");
         ChCheek(6,10);
         VoicePlay("B040617002_06_050");
         MsgDisp("Himuro","...I know it.");
-        MsgDisp("主人公","Eh! then I want to hear
-｛氷室＊＊｝ sing all the more now.");
+        MsgDisp("主人公","Eh! then I want to hear ｛氷室＊＊｝ sing
+all the more now.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

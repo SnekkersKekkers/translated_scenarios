@@ -64,8 +64,8 @@ of your sports festival memories.");
     MsgDisp("主人公","Hehe.
 I'm glad we got to go together.");
     MsgDisp("主人公","(I'm frustrated we got last, but I'm glad
-｛御影＊＊｝ was with me
-in the three-legged race...)");
+｛御影＊＊｝ was with me in the
+three-legged race...)");
     break ;
     default :
     DbgAssert(1);

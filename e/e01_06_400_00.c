@@ -11,8 +11,7 @@ MsgDisp("Hikaru?","Oh, could it be you're embarrassed～?");
 VoicePlay("E010640000_06_010");
 MsgDisp("Himuro?","No way.");
 MsgDisp("主人公","(That voice, could it be...)");
-MsgDisp("主人公","｛氷室＊＊｝,
-｛ひかる＊｝!
+MsgDisp("主人公","｛氷室＊＊｝, ｛ひかる＊｝!
 Were you two out together?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);

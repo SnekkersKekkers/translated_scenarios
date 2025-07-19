@@ -72,9 +72,9 @@ Hehe, then ｛風真＊＊｝ too?");
     MsgDisp("Kazama","Think everyone else as vegetables, and go
 harvest them okay?");
     MsgDisp("主人公","Hehe, yeah!");
-    MsgDisp("主人公","(Alright, ｛風真＊＊｝ thanks
-to that, I think I was able to relax a
-bit? I'll do my bestー!)");
+    MsgDisp("主人公","(Alright, ｛風真＊＊｝ thanks to that, I
+think I was able to relax a bit?
+I'll do my bestー!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

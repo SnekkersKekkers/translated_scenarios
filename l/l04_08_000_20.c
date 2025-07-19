@@ -20,8 +20,7 @@ you chocolate.");
     SEWait();
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛大地＊＊｝, there you
-are!");
+    MsgDisp("主人公","Ah, ｛大地＊＊｝, there you are!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,0,0,4,#1,#1,0,0);

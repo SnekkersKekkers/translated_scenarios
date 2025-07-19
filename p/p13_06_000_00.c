@@ -9,8 +9,8 @@ switch (ChPrmGet(6,6)){
     BGOpen("sc721",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Is this an effect of
-｛御影＊＊｝'s production?
+    MsgDisp("主人公","(Is this an effect of ｛御影＊＊｝'s
+production?
 More and more customers are gathering...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -43,8 +43,8 @@ Dear customer, entry for one!");
     BGOpen("sc721",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Is this an effect of
-｛御影＊＊｝'s production?
+    MsgDisp("主人公","(Is this an effect of ｛御影＊＊｝'s
+production?
 More and more customers are gathering...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);

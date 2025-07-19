@@ -13,8 +13,8 @@ ScrFadeIn(0);
 VoicePlay("B360250100_02_000");
 MsgDisp("Sassa","Right, we're here?");
 MsgDisp("主人公","Eh?
-｛颯砂＊＊｝, did you want to come
-to this park?");
+｛颯砂＊＊｝, did you want to come to this
+park?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -31,8 +31,7 @@ ChMotion(2,4);
 VoicePlay("B360250100_02_020");
 MsgDisp("Sassa","...Well, that's what Ryota said.");
 MsgDisp("主人公","Hehe, I see.
-｛風真＊＊｝ remembers lots of
-things.");
+｛風真＊＊｝ remembers lots of things.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

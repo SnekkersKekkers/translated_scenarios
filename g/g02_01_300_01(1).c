@@ -20,9 +20,9 @@ VoicePlay("G020130001_01_020");
 MsgDisp("Kazama","I'd be fine with just the two of us
 anytime.
 It's not that I dislike being with them.");
-MsgDisp("主人公","Eh? ｛風真＊＊｝, you have lots
-of fun when ｛颯砂＊＊｝ and
-｛氷室＊＊｝ are there, though?");
+MsgDisp("主人公","Eh? ｛風真＊＊｝, you have lots of fun when
+｛颯砂＊＊｝ and ｛氷室＊＊｝ are there,
+though?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

@@ -65,8 +65,8 @@ VoicePlay("P240200000_02_050");
 MsgDisp("Sassa","Don't cry.
 I regret forcing you into my world.");
 ChEyeOpenLevel(2,0);
-MsgDisp("主人公","(...Eh? ｛颯砂＊＊｝, isn't that a
-bit off-script?)");
+MsgDisp("主人公","(...Eh?
+｛颯砂＊＊｝, isn't that a bit off-script?)");
 SEPlay("EV_SE_GAYA_008",0.5,0.5);
 VoicePlay("P240200000_39_000");
 MsgDisp("Male Customer","Eh, that's somewhat off?");

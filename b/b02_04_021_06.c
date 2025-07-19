@@ -15,5 +15,4 @@ VoicePlay("B020402106_04_010");
 MsgDisp("Nanatsumori","I always did like that fashion, but with
 you wearing it...Even better. Love it.");
 MsgDisp("主人公","(Awesome!
-｛七ツ森＊｝ seems really
-happy!)");
+｛七ツ森＊｝ seems really happy!)");

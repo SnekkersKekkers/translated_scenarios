@@ -26,8 +26,8 @@ MsgDisp("主人公","...No, I wasn't alone.");
 ChEye(1,0);
 ChMouth(1,2);
 MsgDisp("主人公","I came over here because I heard the bell
-with ｛風真＊＊｝ back in
-elementary school.");
+with ｛風真＊＊｝ back in elementary
+school.");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);

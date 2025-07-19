@@ -16,8 +16,7 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_010");
 MsgDisp("Hiiragi","I feel like I'm travelling abroad, I love
 it.");
-MsgDisp("主人公","The Netherlands with
-｛柊＊＊＊｝...
+MsgDisp("主人公","The Netherlands with ｛柊＊＊＊｝...
 Sounds fun.");
 ChEye(5,3);
 ChMotion(5,0);
@@ -69,8 +68,8 @@ VoicePlay("Q070500000_05_060");
 MsgDisp("Hiiragi","Even if you come to a foreign country, you
 do not forget the city of Habataki.
 It's wonderful.");
-MsgDisp("主人公","(I guess ｛柊＊＊＊｝ feels
-completely in a foreign country?
+MsgDisp("主人公","(I guess ｛柊＊＊＊｝ feels completely in
+a foreign country?
 Huis ten Bosch was so much fun...!)");
 BGMStop(2);
 MsgClose();

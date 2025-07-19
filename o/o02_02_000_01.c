@@ -51,9 +51,8 @@ But I still wanted to win.");
 victory is sure to come. Let's do our best
 until the end.");
     MsgDisp("主人公","(Haa...How frustrating. But, like
-｛颯砂＊＊｝ said, let's do our
-best until the end of the sports
-festival.)");
+｛颯砂＊＊｝ said, let's do our best until
+the end of the sports festival.)");
     break ;
     case 4:
     case 5:

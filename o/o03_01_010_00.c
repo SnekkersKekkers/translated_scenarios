@@ -42,18 +42,16 @@ Let's do our best!");
     VoicePlay("O030101000_45_010");
     MsgDisp("School Girl B","Yeah, let's look around some more.");
     MsgDisp("主人公","(Looks like everyone wants to be in the
-three-legged race with
-｛風真＊＊｝.)");
+three-legged race with ｛風真＊＊｝.)");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
     ChOpen(1,30,0,0,2,#1,#1,0,0);
     VoicePlay("O030101000_01_030");
     MsgDisp("Kazama","So you were over here.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝. Everyone's
-looking for you, you know? Seems like they
-want to be your partner,
-｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝. Everyone's looking for
+you, you know? Seems like they want to be
+your partner, ｛風真＊＊｝.");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,3);
@@ -110,8 +108,8 @@ Um...what do you mean?");
     MsgDisp("Kazama","What do I mean?
 The three-legged race.
 About which leg to start with.");
-    MsgDisp("主人公","But, ｛風真＊＊｝, you already
-have a partner...");
+    MsgDisp("主人公","But, ｛風真＊＊｝, you already have a
+partner...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

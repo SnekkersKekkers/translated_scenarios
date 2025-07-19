@@ -108,8 +108,8 @@ worried about somethin' dumb like that.");
         VoicePlay("B040801102_08_110");
         MsgDisp("Shirahane","Hehe!");
         MsgDisp("主人公","(I'm glad.
-Looks like ｛大地＊＊｝ has
-returned to normal.)");
+Looks like ｛大地＊＊｝ has returned to
+normal.)");
         break ;
         default :
         DbgAssert(0);

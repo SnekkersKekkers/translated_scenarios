@@ -33,8 +33,7 @@ VoicePlay("D010100300_01_030");
 MsgDisp("Kazama","No, I'm not like dad...
 I don't think I'll ever be like him.");
 MsgDisp("主人公","(I don't want to eavesdrop but...
-I wonder who ｛風真＊＊｝ is
-talking to.)");
+I wonder who ｛風真＊＊｝ is talking to.)");
 SEPlay("EV_SE_602");
 BGMVol(0.5,2);
 MsgDisp("主人公","Ah...");

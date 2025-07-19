@@ -47,8 +47,8 @@ aiming on making a profit.");
         MsgDisp("Honda","But I think it's fine.
 Deciding on a goal for your stall, and
 thinking up on how to achieve it.");
-        MsgDisp("主人公","｛本多＊＊｝, what sort of stall
-would you set up?");
+        MsgDisp("主人公","｛本多＊＊｝, what sort of stall would you
+set up?");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);

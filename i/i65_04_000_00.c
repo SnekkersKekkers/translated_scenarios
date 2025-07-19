@@ -60,8 +60,7 @@ cheer you on. Do your best.");
     BGMStop();
     MsgClose();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Hehe, ｛七ツ森＊｝
-cheered me on.
+    MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ cheered me on.
 Let's do our best until we go home!)");
     MsgClose();
     ScrFadeOut(0,0);

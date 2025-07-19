@@ -6,8 +6,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("F110510000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","｛柊＊＊＊｝, are you enjoying
-the festival?");
+MsgDisp("主人公","｛柊＊＊＊｝, are you enjoying the
+festival?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

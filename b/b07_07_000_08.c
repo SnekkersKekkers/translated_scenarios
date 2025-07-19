@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛御影＊＊｝, do you have
-a type of girl you like?");
+MsgDisp("主人公","｛御影＊＊｝, do you have a type of girl
+you like?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -12,11 +12,9 @@ VoicePlay("B070700000_07_440");
 MsgDisp("Mikage","Rather, it might be hard to find a girl I
 don't like. I can't deny that it's more
 possible that I'm the one being disliked?");
-MsgDisp("主人公","That's not true...Both
-｛みちる＊｝ and
-｛ひかる＊｝ say that
-｛御影＊＊｝ is a great
-homeroom teacher.");
+MsgDisp("主人公","That's not true...Both ｛みちる＊｝ and
+｛ひかる＊｝ say that ｛御影＊＊｝
+is a great homeroom teacher.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -27,8 +25,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700000_07_460");
 MsgDisp("Mikage","Then, most importantly, what do you think?");
-MsgDisp("主人公","I'm also glad to be in
-｛御影＊＊｝'s class.");
+MsgDisp("主人公","I'm also glad to be in ｛御影＊＊｝'s
+class.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

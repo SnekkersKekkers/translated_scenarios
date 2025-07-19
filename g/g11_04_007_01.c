@@ -26,8 +26,8 @@ VoicePlay("G110400701_04_020");
 MsgDisp("Nanatsumori","You've really grown up.
 A waitress at a coffee shop.");
 MsgDisp("主人公","Thank you.
-｛七ツ森＊｝, thank you
-for always visiting me.");
+｛七ツ森＊｝, thank you for always
+visiting me.");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2);

@@ -71,7 +71,6 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(I got a present from
-｛風真＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛風真＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -112,8 +112,7 @@ Then, I'll wear it.");
         ChOpen(4,255,0,5,4,#1,#1,5,0,0,60);
         SEPlay("EV_SE_554");
         ScrQuake(1);
-        MsgDisp("主人公","｛七ツ森＊｝ can wear the
-gorilla cap!");
+        MsgDisp("主人公","｛七ツ森＊｝ can wear the gorilla cap!");
         ChEye(4,4);
         ChMouth(4,1);
         VoicePlay("B040421202_04_110");

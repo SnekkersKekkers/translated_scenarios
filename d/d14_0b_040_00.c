@@ -52,9 +52,8 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B04000_03_030");
 MsgDisp("Honda","Yeah, he's cute!");
-MsgDisp("主人公","(I never imagined ｛本多＊＊｝
-and ｛七ツ森＊｝ would
-call him cute...)");
+MsgDisp("主人公","(I never imagined ｛本多＊＊｝ and
+｛七ツ森＊｝ would call him cute...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

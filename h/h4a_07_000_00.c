@@ -31,8 +31,7 @@ unanimous.");
     ChMotion(7,1);
     VoicePlay("H4A0700000_07_030");
     MsgDisp("Mikage","Everyone was completely charmed.");
-    MsgDisp("主人公","Were you charmed too,
-｛御影＊＊｝?");
+    MsgDisp("主人公","Were you charmed too, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);

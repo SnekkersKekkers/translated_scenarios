@@ -23,8 +23,8 @@ ChMotion(21,5);
 VoicePlay("F022100014_21_020");
 MsgDisp("Michiru","If I'm being honest, I don't want to
 graduate yet...");
-MsgDisp("主人公","｛みちる＊｝...there is one
-way to fix that");
+MsgDisp("主人公","｛みちる＊｝...there is one way to fix
+that");
 ChEye(21,0);
 ChMouth(21,5);
 ChMotion(21,0);

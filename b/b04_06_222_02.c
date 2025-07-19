@@ -103,8 +103,8 @@ Spending time with you like this.");
         ChMotion(6,4);
         VoicePlay("B040622202_06_110");
         MsgDisp("Himuro","Maybe that's the reason I come along.");
-        MsgDisp("主人公","(Seems like ｛氷室＊＊｝ is also
-having fun...
+        MsgDisp("主人公","(Seems like ｛氷室＊＊｝ is also having
+fun...
 I'm glad.)");
         break ;
         default :

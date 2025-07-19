@@ -12,5 +12,5 @@ MsgDisp("Himuro","You dressing like that recently has me
 feeling anxious...
 Why?");
 MsgDisp("主人公","(Oh, good.
-｛氷室＊＊｝ seems to have come to
-like these clothes.)");
+｛氷室＊＊｝ seems to have come to like
+these clothes.)");

@@ -29,8 +29,7 @@ ChMotion(5,3);
 VoicePlay("F020500002_05_030");
 MsgDisp("Hiiragi","Yes, it is where Mikage-sensei has been
 housing his prized calf.");
-MsgDisp("主人公","No way...but if it's
-｛御影＊＊｝...");
+MsgDisp("主人公","No way...but if it's ｛御影＊＊｝...");
 ChMotion(5,4);
 VoicePlay("F020500002_05_040");
 MsgDisp("Hiiragi","I did not want to believe it, but there is

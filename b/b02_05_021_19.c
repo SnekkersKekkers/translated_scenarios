@@ -11,5 +11,4 @@ MsgDisp("Hiiragi","You're living proof of that.
 Your true charm is brought out by clothes
 that aren't flashy.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems to like
-these clothes!)");
+｛柊＊＊＊｝ seems to like these clothes!)");

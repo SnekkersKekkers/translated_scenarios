@@ -39,8 +39,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(It makes me happy too. Come to think of
-it, I've been spending a lot of time with
-｛柊＊＊＊｝ lately...)");
+MsgDisp("主人公","(It makes me happy too.
+Come to think of it, I've been spending a
+lot of time with ｛柊＊＊＊｝ lately...)");
 MsgClose();
 ScrFadeOut(0,0);

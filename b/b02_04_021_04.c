@@ -17,5 +17,4 @@ MsgDisp("Nanatsumori","It's good, it fits you.
 I see that even a simple and active style
 can be good if it's worn well...");
 MsgDisp("主人公","(Oh, good!
-｛七ツ森＊｝ seems to
-have liked it!)");
+｛七ツ森＊｝ seems to have liked it!)");

@@ -10,8 +10,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("U110D00000_22_000");
 MsgDisp("Hikaru","She's here!");
-MsgDisp("主人公","｛みちる＊｝,
-｛ひかる＊｝.
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 Thanks for waiting.");
 ChEye(21,0);
 ChMouth(21,3);

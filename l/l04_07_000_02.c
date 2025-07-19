@@ -101,8 +101,8 @@ Won't Himuro-sensei scold you...?");
 it feels wrong to do that considering you
 put your all into it.");
     MsgDisp("主人公","(Thank goodness!
-｛御影＊＊｝ seemed
-happy. But will he be fine...?)");
+｛御影＊＊｝ seemed happy.
+But will he be fine...?)");
     MsgClose();
     BGMStop();
     MsgClose();

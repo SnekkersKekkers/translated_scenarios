@@ -27,8 +27,7 @@ SEPlay("EV_SE_869");
 SEPlay("EV_SE_061",0.5);
 SEWait();
 MsgDisp("主人公","Waa, amazing!
-｛柊＊＊＊｝, that's two in a
-row!");
+｛柊＊＊＊｝, that's two in a row!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

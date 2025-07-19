@@ -105,8 +105,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Thanks to ｛御影＊＊｝, I
-learned a few studying tricks!)");
+MsgDisp("主人公","(Thanks to ｛御影＊＊｝, I learned a few
+studying tricks!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

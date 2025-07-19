@@ -12,16 +12,15 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,30,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,30,0,0,3,#1,#1,0,2,0,30);
-MsgDisp("主人公","Ah, ｛みちる＊｝,
-｛ひかる＊｝.");
+MsgDisp("主人公","Ah, ｛みちる＊｝, ｛ひかる＊｝.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("Q070101000_21_000");
 MsgDisp("Michiru","Mari, what's up?");
 MsgDisp("主人公","Eh?
-｛風真＊＊｝ sent me a message
-to meet him in the lobby.");
+｛風真＊＊｝ sent me a message to meet him
+in the lobby.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -59,9 +58,9 @@ MsgClose();
 BGOpen("sc810",2);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is
-up to...If we get caught by a teacher,
-we'll get punished.)");
+MsgDisp("主人公","(I wonder what ｛風真＊＊｝ is up to...
+If we get caught by a teacher, we'll get
+punished.)");
 VoiceEVSPlay(1);
 VoicePlay("Q070101000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
@@ -181,9 +180,9 @@ VoicePlay("Q070101000_01_080");
 MsgDisp("Kazama","Yeah.
 I mean, we're together all the time.
 You, me, and him.");
-MsgDisp("主人公","Yeah. But I need to thank you,
-｛風真＊＊｝. You're the one who
-took me here.");
+MsgDisp("主人公","Yeah.
+But I need to thank you, ｛風真＊＊｝.
+You're the one who took me here.");
 StlEyeOpenLevel(1,5);
 VoicePlay("Q070101000_01_090");
 MsgDisp("Kazama","Thank you too.

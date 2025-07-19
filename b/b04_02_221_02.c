@@ -87,8 +87,8 @@ Rotations of a Year\" together.");
         MsgDisp("Sassa","A combination and order that fulfills both
 efficiency and satisfaction...");
         MsgDisp("主人公","(Ummm...
-｛颯砂＊＊｝, this is beginning to
-look like a training program.)");
+｛颯砂＊＊｝, this is beginning to look like
+a training program.)");
         break ;
         default :
         DbgAssert(1);

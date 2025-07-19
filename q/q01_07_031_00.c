@@ -23,8 +23,8 @@ VoicePlay("Q010703100_07_020");
 MsgDisp("Mikage","Going to bed and whispering with your
 friends, having girl talk.
 Even I know about that stuff.");
-MsgDisp("主人公","｛御影＊＊｝ has
-experience with that sort of thing?");
+MsgDisp("主人公","｛御影＊＊｝ has experience with that
+sort of thing?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

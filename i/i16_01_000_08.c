@@ -58,9 +58,9 @@ Feels good being this efficient.");
     ChMotion(1,3);
     VoicePlay("I160100008_01_040");
     MsgDisp("Kazama","I'll be counting on you, my dear partner?");
-    MsgDisp("主人公","(I did it! To have ｛風真＊＊｝
-call me his partner, I'm glad I've worked
-hard until now!)");
+    MsgDisp("主人公","(I did it!
+To have ｛風真＊＊｝ call me his partner,
+I'm glad I've worked hard until now!)");
     break ;
     case 4:
     case 5:

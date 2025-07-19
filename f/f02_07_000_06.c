@@ -13,8 +13,8 @@ VoicePlay("F020700006_07_000");
 MsgDisp("Mikage","Yeah, I'm looking forward to it!
 I have no complaints whether we win or
 lose.");
-MsgDisp("主人公","Hehe, ｛御影＊＊｝ seems
-to be more fired up than the students?");
+MsgDisp("主人公","Hehe, ｛御影＊＊｝ seems to be more
+fired up than the students?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -27,8 +27,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("F020700006_07_020");
-MsgDisp("Mikage","｛主人公｝, go all out and try to
-win all the events.");
+MsgDisp("Mikage","｛主人公｝, go all out and try to win all
+the events.");
 MsgDisp("主人公","So you're not organizing it, but you
 intend on participating?");
 ChEye(7,0);

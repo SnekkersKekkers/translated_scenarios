@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛颯砂＊＊｝, what were you like
-in middle school?");
+MsgDisp("主人公","｛颯砂＊＊｝, what were you like in middle
+school?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -55,9 +55,8 @@ VoicePlay("B070200000_02_330");
 MsgDisp("Sassa","Exactly. All I have to do now is just try
 my best to win. It's way more simple this
 way.");
-MsgDisp("主人公","(If it's ｛颯砂＊＊｝, I believe
-he can win it all and become a
-champion...!)");
+MsgDisp("主人公","(If it's ｛颯砂＊＊｝, I believe he can win
+it all and become a champion...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

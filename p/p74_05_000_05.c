@@ -10,8 +10,7 @@ SEWait();
 ChOpen(5,254,0,4,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("P740500005_05_000");
-MsgDisp("Hiiragi","｛主人公｝, you're not injured,
-are you?");
+MsgDisp("Hiiragi","｛主人公｝, you're not injured, are you?");
 MsgDisp("主人公","Y-Yeah...");
 ChEye(5,2);
 ChMouth(5,4);
@@ -42,10 +41,9 @@ ChMotion(5,0);
 VoicePlay("P740500005_05_050");
 MsgDisp("Hiiragi","It was unfortunate that you fell, but
 please firmly hold your head up high.");
-MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝...I
-failed in the end, but I'm glad I
-continued with the handicrafts club for
-three years.)");
+MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝...I failed in the
+end, but I'm glad I continued with the
+handicrafts club for three years.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

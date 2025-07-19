@@ -87,8 +87,7 @@ If you say that, I can do it!");
         MsgDisp("Honda","That's incredible!
 The odds of me knocking down a split 7 and
 10 are astronomical!");
-        MsgDisp("主人公","It's 'cause you're skilled,
-｛本多＊＊｝.");
+        MsgDisp("主人公","It's 'cause you're skilled, ｛本多＊＊｝.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,4);

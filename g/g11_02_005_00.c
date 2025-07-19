@@ -27,8 +27,7 @@ VoicePlay("G110200500_02_010");
 MsgDisp("Sassa","Yeah.
 You look like a fine athlete.");
 MsgDisp("主人公","Haa...
-｛颯砂＊＊｝, you're a bit fast
-today...");
+｛颯砂＊＊｝, you're a bit fast today...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

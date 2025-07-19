@@ -6,8 +6,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     MsgDisp("主人公","(｛七ツ森＊｝ is...
 Ah, there!)");
-    MsgDisp("主人公","Good morning,
-｛七ツ森＊｝.");
+    MsgDisp("主人公","Good morning, ｛七ツ森＊｝.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChNanaType(0);
@@ -50,8 +49,7 @@ Are we leaving already?");
     ChMotion(4,2,1);
     VoicePlay("Q090400000_04_050");
     MsgDisp("Nanatsumori","Mornin..");
-    MsgDisp("主人公","｛七ツ森＊｝, good
-morning!
+    MsgDisp("主人公","｛七ツ森＊｝, good morning!
 ...Are you sleepy?");
     ChMotion(4,0,1);
     VoicePlay("Q090400000_04_060");

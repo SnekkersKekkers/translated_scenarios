@@ -91,9 +91,8 @@ That's a promise.");
 like this, it really feels like an anime
 after all, huh?");
         MsgDisp("主人公","Hehe!");
-        MsgDisp("主人公","(If it's ｛颯砂＊＊｝, I truly
-believe he will make his dreams come
-true.)");
+        MsgDisp("主人公","(If it's ｛颯砂＊＊｝, I truly believe he
+will make his dreams come true.)");
         break ;
         default :
         DbgAssert(1);

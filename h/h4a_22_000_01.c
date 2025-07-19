@@ -38,8 +38,7 @@ the rhythmic gymnastics club...)");
     VoicePlay("H4A2200001_22_030");
     MsgDisp("Hikaru","Uu...
 Mari, I'm sorry.");
-    MsgDisp("主人公","Hm, ｛ひかる＊｝, what's
-wrong?");
+    MsgDisp("主人公","Hm, ｛ひかる＊｝, what's wrong?");
     ChMotion(22,2,1);
     VoicePlay("H4A2200001_22_040");
     MsgDisp("Hikaru","Hikaru should've tried harder.

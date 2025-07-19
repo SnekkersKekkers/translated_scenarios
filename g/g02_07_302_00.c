@@ -29,9 +29,8 @@ ChEyeOpenLevel(7,10);
 VoicePlay("G020730200_07_030");
 MsgDisp("Mikage","I really have nothing to teach you guys,
 I'll never be like Vice Principal Himuro.");
-MsgDisp("主人公","I think ｛御影＊＊｝ as
-｛御影＊＊｝ is just
-fine.");
+MsgDisp("主人公","I think ｛御影＊＊｝ as ｛御影＊＊｝
+is just fine.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

@@ -90,8 +90,7 @@ You seem busy, so I can just do it later.");
     MsgDisp("Kazama","Phew...
 It's a tough job being the management
 staff, huh?");
-    MsgDisp("主人公","｛風真＊＊｝, thank you for
-helping me.");
+    MsgDisp("主人公","｛風真＊＊｝, thank you for helping me.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -99,8 +98,8 @@ helping me.");
     MsgDisp("Kazama","Yeah, yeah.
 Later then, don't push yourself too hard.");
     MsgDisp("主人公","Y-Yeah.
-Ah, ｛風真＊＊｝, didn't you
-have some errands?");
+Ah, ｛風真＊＊｝, didn't you have some
+errands?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

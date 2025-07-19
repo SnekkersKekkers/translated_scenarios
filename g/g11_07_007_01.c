@@ -2,8 +2,8 @@ BGOpen("sc520",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I still have some time before lunch
 ends...Ah, that reminds me. The other day
-｛御影＊＊｝ said I could
-drop by anytime, right?)");
+｛御影＊＊｝ said I could drop by
+anytime, right?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -36,9 +36,8 @@ VoicePlay("G110700701_07_010");
 MsgDisp("Mikage","Oh, that would be nice.
 Maybe we should do a 'Molly's milk stand'
 at lunchtime?");
-MsgDisp("主人公","Is this the cow
-｛御影＊＊｝ showed me at
-his house the other day?");
+MsgDisp("主人公","Is this the cow ｛御影＊＊｝ showed me
+at his house the other day?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -64,8 +63,7 @@ VoicePlay("G110700701_07_040");
 MsgDisp("Mikage","That's right.
 Everything that's important to me would be
 gathered here.");
-MsgDisp("主人公","Everything important to
-｛御影＊＊｝?");
+MsgDisp("主人公","Everything important to ｛御影＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

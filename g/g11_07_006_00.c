@@ -21,8 +21,7 @@ VoicePlay("G110700600_07_000");
 MsgDisp("Mikage","｛主人公｝.
 Oh, you're early.");
 MsgDisp("主人公","Good morning!
-｛御影＊＊｝ is early
-too.");
+｛御影＊＊｝ is early too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -49,8 +48,8 @@ ChMotion(7,0);
 VoicePlay("G110700600_07_040");
 MsgDisp("Mikage","I've been dragging things along lately.
 It's a problem if I appear so often.");
-MsgDisp("主人公","It's super fun being with
-｛御影＊＊｝ though?");
+MsgDisp("主人公","It's super fun being with ｛御影＊＊｝
+though?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

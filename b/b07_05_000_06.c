@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛柊＊＊＊｝, what were you like
-in middle school?");
+MsgDisp("主人公","｛柊＊＊＊｝, what were you like in middle
+school?");
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("B070500000_05_240");

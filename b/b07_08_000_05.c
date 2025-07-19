@@ -1,5 +1,4 @@
-MsgDisp("主人公","Hey, ｛大地＊＊｝, what are
-your hobbies?");
+MsgDisp("主人公","Hey, ｛大地＊＊｝, what are your hobbies?");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,4,1);
@@ -28,8 +27,8 @@ VoicePlay("B070800000_08_270");
 MsgDisp("Shirahane","The articles and photos are always
 interesting, right? I like it so much that
 I read it over and over.");
-MsgDisp("主人公","(So ｛大地＊＊｝'s hobbies are
-challenging himself and reading Habcha...)");
+MsgDisp("主人公","(So ｛大地＊＊｝'s hobbies are challenging
+himself and reading Habcha...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

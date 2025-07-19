@@ -11,8 +11,7 @@ ScrFadeIn(0);
 VoicePlay("B360417000_04_000");
 MsgDisp("Nanatsumori","Well. what are you gonna sing?
 You can go first.");
-MsgDisp("主人公","We can start from
-｛七ツ森＊｝.");
+MsgDisp("主人公","We can start from ｛七ツ森＊｝.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

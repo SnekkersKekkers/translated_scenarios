@@ -7,8 +7,7 @@ ScrFadeIn(0);
 ChMotion(22,5,1);
 VoicePlay("U022200000_22_000");
 MsgDisp("Hikaru","No way♪");
-MsgDisp("主人公","｛ひかる＊｝ is the
-best～!");
+MsgDisp("主人公","｛ひかる＊｝ is the best～!");
 ChMotion(22,1,1);
 VoicePlay("U022200000_22_010");
 MsgDisp("Hikaru","Thanks～!

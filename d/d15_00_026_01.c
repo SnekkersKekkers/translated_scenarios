@@ -47,8 +47,8 @@ MsgDisp ( "Himuro","Huh?
 What are you talking about.
 That wouldn't make any sense." ) ;
 MsgDisp ( "主人公","Right.
-｛氷室＊＊｝ isn't really a doggy,
-he's more of a cute kitty." ) ;
+｛氷室＊＊｝ isn't really a doggy, he's more
+of a cute kitty." ) ;
 ChEye ( 2,3 ) ;
 ChMouth ( 2,3 ) ;
 ChMotion ( 2,4 ) ;

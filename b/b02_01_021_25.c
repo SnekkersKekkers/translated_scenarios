@@ -14,5 +14,5 @@ MsgDisp("Kazama","I don't usually like the clothes you're
 wearing today, but when it's you wearing
 it, it does look good.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have
-started to like clothes like these, too!)");
+｛風真＊＊｝ seems to have started to like
+clothes like these, too!)");

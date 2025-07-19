@@ -80,8 +80,8 @@ Thank you!");
     MsgDisp("Hiiragi","I will start paying more attention again.
 I might be taking advantage of my
 position.");
-    MsgDisp("主人公","｛柊＊＊＊｝, you might be just
-trying too hard.");
+    MsgDisp("主人公","｛柊＊＊＊｝, you might be just trying too
+hard.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

@@ -7,8 +7,7 @@ MsgDisp("Sassa?","Even if that were the case, why does it
 have to be you, Iku, to be the one to cut
 it?");
 MsgDisp("主人公","Huh, this voice...
-｛本多＊＊｝ and
-｛颯砂＊＊｝?");
+｛本多＊＊｝ and ｛颯砂＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
@@ -25,9 +24,9 @@ MsgDisp("Honda","Sakkun is fighting for every tenth of a
 second, so I thought if he cut his hair,
 even with the same muscle mass as now,
 he's'd be able to improve my record");
-MsgDisp("主人公","Ehh? But, it doesn't seem like
-｛颯砂＊＊｝ wants to cut his
-hair...");
+MsgDisp("主人公","Ehh?
+But, it doesn't seem like ｛颯砂＊＊｝
+wants to cut his hair...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

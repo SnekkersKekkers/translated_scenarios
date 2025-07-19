@@ -32,8 +32,7 @@ ChMotion(7,3);
 VoicePlay("E010710100_07_030");
 MsgDisp("Mikage","Oh, I often come here on my days off.
 The food they sell there is delicious.");
-MsgDisp("主人公","You live alone, right
-｛御影＊＊｝?
+MsgDisp("主人公","You live alone, right ｛御影＊＊｝?
 Does it get lonely?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -55,7 +54,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
 MsgDisp("主人公","(Amazing...
-｛御影＊＊｝'s home is full
-of vegetables and plants!)");
+｛御影＊＊｝'s home is full of vegetables
+and plants!)");
 MsgClose();
 ScrFadeOut(0,0);

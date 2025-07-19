@@ -58,8 +58,8 @@ that many free hours.");
         VoicePlay("B040317002_03_040");
         MsgDisp("Honda","Haha, it's way different from taking a
 test.");
-        MsgDisp("主人公","Hehe, but ｛本多＊＊｝ doesn't
-suit anything less than 100 points.");
+        MsgDisp("主人公","Hehe, but ｛本多＊＊｝ doesn't suit
+anything less than 100 points.");
         ChEye(3,1);
         ChMouth(3,3);
         ChMotion(3,4);
@@ -105,8 +105,7 @@ I'm not gonna stop till I get that 100!");
         MsgDisp("主人公","Really!?");
         Wait(30,1);
         ChClose(3);
-        MsgDisp("主人公","(Is ｛本多＊＊｝ secretly
-competitive?)");
+        MsgDisp("主人公","(Is ｛本多＊＊｝ secretly competitive?)");
         MsgClose();
         BGMStop();
         MsgClose();

@@ -50,8 +50,7 @@ Ah, Mari!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
-MsgDisp("主人公","Did you sneeze just now,
-｛ひかる＊｝?");
+MsgDisp("主人公","Did you sneeze just now, ｛ひかる＊｝?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

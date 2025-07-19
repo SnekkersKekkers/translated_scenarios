@@ -2,8 +2,7 @@ BGOpen("ho210",2);
 ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","Ah, ｛ひかる＊｝ is
-calling.");
+MsgDisp("主人公","Ah, ｛ひかる＊｝ is calling.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();

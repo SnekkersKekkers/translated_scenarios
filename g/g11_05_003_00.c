@@ -6,8 +6,8 @@ I wonder what I should do.)");
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message.
-From ｛柊＊＊＊｝...it says \"I'll
-be waiting in the student council room.\")");
+From ｛柊＊＊＊｝...it says \"I'll be waiting
+in the student council room.\")");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);

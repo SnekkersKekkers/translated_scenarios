@@ -66,8 +66,8 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 MsgDisp("主人公","(Hehe! It ended in the middle of what he
-was saying. ｛本多＊＊｝ was
-amazing though...)");
+was saying. ｛本多＊＊｝ was amazing
+though...)");
 MsgDisp("主人公","(I wonder if he'll let me interview him
 for Habatcher?)");
 MsgClose();
@@ -91,8 +91,7 @@ ChOpen(3,255,1,0,3,#1,#1,0,0);
 VoicePlay("D010300700_03_040");
 MsgDisp("Honda","Sorry for bothering you!");
 MsgDisp("主人公","Ehh∋
-｛本多＊＊｝, what are you doing
-here?");
+｛本多＊＊｝, what are you doing here?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -139,8 +138,8 @@ MsgDisp("主人公","(I'm glad he didn't shout my name on TV...
 It would be troublesome when we go back to
 school after break...)");
 MsgDisp("主人公","(Ah! Didn't I want to interview
-｛本多＊＊｝? Quick, let's go
-after him while he's still nearby!)");
+｛本多＊＊｝? Quick, let's go after him
+while he's still nearby!)");
 SEPlay("EV_SE_DOOR_022");
 SEWait();
 SEPlay("EV_SE_DOOR_023");

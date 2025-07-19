@@ -19,6 +19,6 @@ VoicePlay("B030710003_07_010");
 MsgDisp("Mikage","Nice reaction!");
 MsgDispSksp(1,0);
 MsgDisp("主人公","(Hehe.
-｛御影＊＊｝ seems to be
-having a lot of fun!)");
+｛御影＊＊｝ seems to be having a lot
+of fun!)");
 MsgDispSksp(0);

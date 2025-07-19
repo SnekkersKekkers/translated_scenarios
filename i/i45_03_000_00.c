@@ -89,8 +89,8 @@ A customer's here.");
     MsgDisp("Honda","Da, I'm sorry for bothering you...
 I'll get going, okay?
 See you.");
-    MsgDisp("主人公","(He came to check on me, right? But you
-know, I feel like ｛本多＊＊｝
+    MsgDisp("主人公","(He came to check on me, right?
+But you know, I feel like ｛本多＊＊｝
 might know more about flowers than me...)");
     break ;
     case 4:

@@ -70,8 +70,7 @@ I'm off!");
     VoicePlay("P830500002_05_030");
     MsgDisp("Hiiragi","Yeah, it really feels like the cultural
 festival is in full swing.");
-    MsgDisp("主人公","｛柊＊＊＊｝, welcome back.
-...phew.");
+    MsgDisp("主人公","｛柊＊＊＊｝, welcome back. ...phew.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);

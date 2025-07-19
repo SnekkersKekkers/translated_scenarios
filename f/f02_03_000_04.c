@@ -5,8 +5,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝'s birthday is coming
-up, right?");
+MsgDisp("主人公","｛本多＊＊｝'s birthday is coming up, right?");
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300004_03_000");
@@ -55,5 +54,4 @@ MsgDisp("Honda","Mhm.
 I'm good at telling them apart now.
 The best way to learn is by doing!");
 MsgDisp("主人公","('Doing'...
-Maybe ｛本多＊＊｝ put makeup
-on?)");
+Maybe ｛本多＊＊｝ put makeup on?)");

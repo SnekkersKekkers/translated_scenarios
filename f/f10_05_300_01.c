@@ -12,8 +12,7 @@ ChMotion(5,4);
 VoicePlay("F100530001_05_000");
 MsgDisp("Hiiragi","Farewell.
 Take care.");
-MsgDisp("主人公","｛柊＊＊＊｝, thank you for your
-hard work.");
+MsgDisp("主人公","｛柊＊＊＊｝, thank you for your hard work.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

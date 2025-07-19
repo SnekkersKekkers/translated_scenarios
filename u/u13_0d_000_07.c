@@ -91,8 +91,7 @@ He's setting his sights on it...");
     MsgDisp("Hikaru","If Mari likes him too, then I think the
 key is to have the same goals.
 Good luck♪");
-    MsgDisp("主人公","(The same goals as
-｛大地＊＊｝...)");
+    MsgDisp("主人公","(The same goals as ｛大地＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

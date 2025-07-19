@@ -47,8 +47,8 @@ VoicePlay("G020520200_05_070");
 MsgDisp("Hiiragi","Although I have no idea what I should do
 Today, I'm just making that declaration.");
 MsgDisp("主人公","(Eh, declaration?
-｛柊＊＊＊｝, what are you
-planning to do...)");
+｛柊＊＊＊｝, what are you planning to
+do...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -110,8 +110,8 @@ unexpected results.");
     MsgDisp("Hiiragi","Your expression right now gives you a good
 feeling about that, doesn't it?");
     MsgDisp("主人公","...Yes.
-｛柊＊＊＊｝ told me that, so
-I'm starting to think so too!");
+｛柊＊＊＊｝ told me that, so I'm starting
+to think so too!");
     ChEye(5,0);
     ChMouth(5,3);
     ChMotion(5,0);

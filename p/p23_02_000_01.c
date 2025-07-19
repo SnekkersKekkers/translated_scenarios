@@ -27,9 +27,9 @@ a good idea, huh?");
     MsgDisp("Sassa","Yeah.
 A three-headed dog was impossible, but
 three normal ones are doable.");
-    MsgDisp("主人公","Hehe, yeah. The dogs were more attached to
-｛颯砂＊＊｝ than the guy playing
-Hades.");
+    MsgDisp("主人公","Hehe, yeah.
+The dogs were more attached to ｛颯砂＊＊｝
+than the guy playing Hades.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

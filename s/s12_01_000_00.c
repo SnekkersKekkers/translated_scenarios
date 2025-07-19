@@ -26,8 +26,8 @@ Thank you for coming with me.");
     MsgDisp("Kazama","It's good to be honest.
 That's my request for you this year.");
     MsgDisp("主人公","Geez...
-Even this year, ｛風真＊＊｝ is
-the same as always.");
+Even this year, ｛風真＊＊｝ is the same
+as always.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -102,8 +102,8 @@ go before in when we were in kindergarten?");
     MsgDisp("Kazama","But not together.
 We might have just passed by each other at
 the shrine by chance.");
-    MsgDisp("主人公","｛風真＊＊｝ as a
-kindergartener, how cute...");
+    MsgDisp("主人公","｛風真＊＊｝ as a kindergartener, how
+cute...");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,3);

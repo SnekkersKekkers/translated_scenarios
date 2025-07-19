@@ -23,8 +23,7 @@ VoiceEVSPlay(2);
 VoicePlay("G110200300_02_000");
 MsgDisp("Sassa","｛主人公｝.
 You're here?");
-MsgDisp("主人公","｛颯砂＊＊｝, you're running today
-too?");
+MsgDisp("主人公","｛颯砂＊＊｝, you're running today too?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

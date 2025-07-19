@@ -50,9 +50,9 @@ I'll tell the manager.");
 See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","It's not like we can't-
-｛大地＊＊｝ seemed really
-sad...I wonder if I did the right thing.");
+    MsgDisp("主人公","It's not like we can't- ｛大地＊＊｝
+seemed really sad...
+I wonder if I did the right thing.");
     MsgDisp("","(I quit my job at Stallion Gasoline.)");
     break ;
     default :

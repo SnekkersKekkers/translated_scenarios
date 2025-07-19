@@ -4,10 +4,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Come to think of it, it's
-｛ひかる＊｝ and
-｛みちる＊｝'s birthday
-soon!");
+MsgDisp("主人公","Come to think of it, it's ｛ひかる＊｝
+and ｛みちる＊｝'s birthday soon!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

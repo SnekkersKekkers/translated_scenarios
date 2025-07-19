@@ -5,8 +5,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("H8G0700000_07_000");
 MsgDisp("Mikage","｛主人公｝, congrats.");
-MsgDisp("主人公","｛御影＊＊｝, did
-something happen?");
+MsgDisp("主人公","｛御影＊＊｝, did something happen?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

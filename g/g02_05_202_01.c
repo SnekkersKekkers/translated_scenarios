@@ -31,8 +31,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_040");
 MsgDisp("Hiiragi","Consequently, I am in despair.");
 MsgDisp("主人公","Umm...
-Well, I also like
-｛御影＊＊｝, but——");
+Well, I also like ｛御影＊＊｝, but——");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -60,8 +59,7 @@ I am an actor...maybe I should attempt
 imitating Mikage-sensei?");
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","Eh?
-｛柊＊＊＊｝ imitating
-｛御影＊＊｝∋");
+｛柊＊＊＊｝ imitating ｛御影＊＊｝∋");
 ChEye(5,4);
 ChMouth(5,0);
 ChEyeOpenLevel(5,#1);

@@ -57,8 +57,7 @@ MsgDisp("Mikage","Next time I ask about your dream, and you
 can't clearly give me an answer, then I
 guess you've decided to become our
 employee.");
-MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s farm,
-huh...
+MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s farm, huh...
 It might be wonderful.)");
 BGMStop();
 MsgClose();

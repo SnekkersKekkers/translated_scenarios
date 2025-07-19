@@ -93,8 +93,7 @@ Even though I feel like it");
     MsgDisp("Sassa","What, were you watching me?
 It's okay for me to be serious once in a
 while.");
-    MsgDisp("主人公","Isn't ｛颯砂＊＊｝ always
-serious?");
+    MsgDisp("主人公","Isn't ｛颯砂＊＊｝ always serious?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

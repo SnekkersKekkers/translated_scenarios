@@ -43,8 +43,8 @@ ChMotion(3,3,1);
 VoicePlay("B150300400_03_050");
 MsgDisp("Honda","It's kind of scary and frustrating...it's
 just a really weird feeling!");
-MsgDisp("主人公","But ｛本多＊＊｝, you seem to be
-enjoying it?");
+MsgDisp("主人公","But ｛本多＊＊｝, you seem to be enjoying
+it?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -67,8 +67,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B150300400_03_080");
 MsgDisp("Honda","Hehe, thanks!");
 MsgDisp("主人公","(He thanked me...but this means I can keep
-touching ｛本多＊＊｝ in the
-future.)");
+touching ｛本多＊＊｝ in the future.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

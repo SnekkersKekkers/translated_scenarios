@@ -15,6 +15,6 @@ ChMouth(1,0);
 ChMotion(1,3);
 VoicePlay("B030101000_01_010");
 MsgDisp("Kazama","You got it.
-Well, let's be off.");
+Well, let's go.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

@@ -1,6 +1,5 @@
-MsgDisp("主人公","｛風真＊＊｝, recently you've
-been talking to ｛颯砂＊＊｝
-often haven't you?");
+MsgDisp("主人公","｛風真＊＊｝, recently you've been talking
+to ｛颯砂＊＊｝ often haven't you?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -20,9 +19,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100001_01_030");
-MsgDisp("Kazama","...You. Seriously, there's that kind of
-part of you. As for me, I remember it
-vividly.");
+MsgDisp("Kazama","...You. Seriously, that's just part of who
+you are. As for me, I remember it vividly.");
 MsgDisp("主人公","What kind of things happened?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -37,9 +35,9 @@ ChMotion(1,0);
 VoicePlay("B070100001_01_050");
 MsgDisp("Kazama","Even though there were easier targets than
 me.
-FOr some reason he only chased me.");
-MsgDisp("主人公","｛颯砂＊＊｝ really likes
-｛風真＊＊｝ doesn't he?");
+For some reason he only chased me.");
+MsgDisp("主人公","｛颯砂＊＊｝ really likes ｛風真＊＊｝
+doesn't he?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);

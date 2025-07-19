@@ -20,8 +20,7 @@ VoicePlay("T020720000_07_010");
 MsgDisp("Mikage","It was them.
 Yanosuke and Inori gave me the push I
 needed.");
-MsgDisp("主人公","｛柊＊＊＊｝ and
-｛氷室＊＊｝?");
+MsgDisp("主人公","｛柊＊＊＊｝ and ｛氷室＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

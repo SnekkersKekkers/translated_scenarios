@@ -23,6 +23,6 @@ MsgDisp("Mikage","Aw, don't say that. Since we're all
 together, there's new stuff to see, right?
 So then, let's go.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","(Is ｛御影＊＊｝ being a
-little careless?)");
+MsgDisp("主人公","(Is ｛御影＊＊｝ being a little
+careless?)");
 MsgDispSksp(0);

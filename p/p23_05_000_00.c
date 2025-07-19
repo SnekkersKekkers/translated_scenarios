@@ -35,8 +35,7 @@ changed.");
     VoicePlay("P230500000_05_020");
     MsgDisp("Hiiragi","So, it's only natural that you would feel
 nervous.");
-    MsgDisp("主人公","Even chairman ｛柊＊＊＊｝ gets
-nervous?");
+    MsgDisp("主人公","Even chairman ｛柊＊＊＊｝ gets nervous?");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

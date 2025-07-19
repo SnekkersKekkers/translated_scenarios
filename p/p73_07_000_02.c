@@ -50,9 +50,9 @@ such a cute bride. It's already a success.");
 If only I saw this, I might be hit with
 divine punishment.");
     MsgDisp("主人公","Yes...!");
-    MsgDisp("主人公","(I've gotten ｛御影＊＊｝'s
-seal of approval. Alright, let's carry
-myself with confidence!)");
+    MsgDisp("主人公","(I've gotten ｛御影＊＊｝'s seal of
+approval. Alright, let's carry myself with
+confidence!)");
     break ;
     case 4:
     case 5:
@@ -114,8 +114,7 @@ fingers in my mouth.");
     VoicePlay("P730700002_07_110");
     MsgDisp("Mikage","Yeah, you have to go show everyone this
 lovely dress.");
-    MsgDisp("主人公","(...Thanks to
-｛御影＊＊｝, I feel like
+    MsgDisp("主人公","(...Thanks to ｛御影＊＊｝, I feel like
 I've been able to relax...Alright, let's
 have some fun!)");
     break ;

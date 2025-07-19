@@ -39,8 +39,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1,1);
 MsgDisp("Himuro","Would I be a better guy?");
-MsgDisp("主人公","｛氷室＊＊｝, aren't you a great guy
-already?");
+MsgDisp("主人公","｛氷室＊＊｝, aren't you a great guy already?");
 VoicePlay("G020640003_06_070");
 ChEye(6,0);
 ChMouth(6,4);

@@ -2,8 +2,8 @@ BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The original book 'The Path of First
-Love' I read with ｛本多＊＊｝
-the other day is really popular huh...)");
+Love' I read with ｛本多＊＊｝ the other
+day is really popular huh...)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();

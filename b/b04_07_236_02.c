@@ -77,8 +77,7 @@ So as you'd like.");
         MsgDisp("Mikage","Look. Now, there's no need to worry we'll
 get separated, but you can't see anything,
 right?～?");
-        MsgDisp("主人公","I can see ｛御影＊＊｝
-very well.");
+        MsgDisp("主人公","I can see ｛御影＊＊｝ very well.");
         ChEye(7,1);
         ChMouth(7,1);
         ChMotion(7,1);

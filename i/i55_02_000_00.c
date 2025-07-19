@@ -57,8 +57,7 @@ I'll eat anything as long as it's good.");
     MsgDisp("Sassa","Alright, then make it 4 portions.
 I'll try some.");
     MsgDisp("主人公","Understood!");
-    MsgDisp("主人公","(I hope it suits ｛颯砂＊＊｝'s
-tastes...!)");
+    MsgDisp("主人公","(I hope it suits ｛颯砂＊＊｝'s tastes...!)");
     break ;
     case 3:
     VoicePlay("I550200000_02_070");
@@ -127,8 +126,8 @@ Welcome.");
     ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I550200000_02_130");
-    MsgDisp("Sassa","｛主人公｝, you're working hard
-again today, huh.");
+    MsgDisp("Sassa","｛主人公｝, you're working hard again
+today, huh.");
     MsgDisp("主人公","Yes, what are you looking for today?");
     ChEye(2,0);
     ChMouth(2,4);

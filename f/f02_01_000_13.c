@@ -53,5 +53,4 @@ MsgDisp("Kazama","Yes!
 Well, let's go back quickly.");
 MsgDisp("主人公","(That's right...I couldn't go in
 elementary or middle school, so this field
-trip with ｛風真＊＊｝ will be
-my first!)");
+trip with ｛風真＊＊｝ will be my first!)");

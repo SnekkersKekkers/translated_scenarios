@@ -23,8 +23,8 @@ theater company.");
 VoicePlay("B360518001_05_020");
 MsgDisp("Hiiragi","Only two.");
 MsgDisp("主人公","I see.
-I wanted ｛御影＊＊｝ and
-｛氷室＊＊｝ to see it too.");
+I wanted ｛御影＊＊｝ and ｛氷室＊＊｝ to
+see it too.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B360518001_05_030");

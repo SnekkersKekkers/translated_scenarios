@@ -31,8 +31,8 @@ face.");
     MsgDisp("Kazama","Well, the pouting face you have right now
 sounds more like you than your previous
 expression.");
-    MsgDisp("主人公","Ah, perhaps ｛風真＊＊｝...helped
-me to relax?");
+    MsgDisp("主人公","Ah, perhaps ｛風真＊＊｝...helped me to
+relax?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -53,8 +53,8 @@ my my ability, right?");
     ChMotion(1,0);
     VoicePlay("P530100000_01_050");
     MsgDisp("Kazama","That's the face.");
-    MsgDisp("主人公","(Alright ｛風真＊＊｝ I'm going
-to let you hear my unique performance!)");
+    MsgDisp("主人公","(Alright ｛風真＊＊｝ I'm going to let you
+hear my unique performance!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);
@@ -73,8 +73,8 @@ I wonder if I can do it properly...)");
     SEWait();
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Amazing!
-｛風真＊＊｝, how did you know
-what I was thinking?");
+｛風真＊＊｝, how did you know what I was
+thinking?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -97,8 +97,7 @@ I said it so you can trust me.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Hehe, thank you.
-｛風真＊＊｝ Did that help you
-relax?");
+｛風真＊＊｝ Did that help you relax?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -106,8 +105,8 @@ relax?");
     MsgDisp("Kazama","Well then, I'm looking forward seeing you
 perform in your own style.");
     MsgDisp("主人公","(Let's do the best we can!
-｛風真＊＊｝ Because they are
-supporting me too.)");
+｛風真＊＊｝ Because they are supporting
+me too.)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

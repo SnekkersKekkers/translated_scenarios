@@ -32,8 +32,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoiceEVSPlay(3);
 VoicePlay("D140B05001_03_010");
-MsgDisp("Honda","｛主人公｝, you have something on
-your mouth.
+MsgDisp("Honda","｛主人公｝, you have something on your
+mouth.
 Here, I'll get it for you.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -86,8 +86,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B05001_01_040");
 MsgDisp("Kazama","Hey, that's enough.");
-MsgDisp("主人公","(｛風真＊＊｝ feels jealousy of
-｛本多＊＊｝...?)");
+MsgDisp("主人公","(｛風真＊＊｝ feels jealousy of ｛本多＊＊｝...?
+)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

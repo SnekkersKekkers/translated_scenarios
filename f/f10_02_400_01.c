@@ -71,8 +71,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240001_02_050");
 MsgDisp("Sassa","Thank you, I'm counting on you.");
-MsgDisp("主人公","(｛颯砂＊＊｝ and ｛氷室＊＊｝ are
-like friends, brothers, and rivals?
+MsgDisp("主人公","(｛颯砂＊＊｝ and ｛氷室＊＊｝ are like
+friends, brothers, and rivals?
 Boys' relationships are so strange.)");
 BGMStop();
 MsgClose();

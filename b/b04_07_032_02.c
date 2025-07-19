@@ -74,9 +74,9 @@ We'll be careful, so you guys should be
 quiet too.");
         SEPlay("EV_SE_GAYA_023");
         Wait(70,0);
-        MsgDisp("主人公","(When he says, \"we\",
-｛御影＊＊｝ means me and
-him, right? I feel kind of weird...)");
+        MsgDisp("主人公","(When he says, \"we\", ｛御影＊＊｝ means
+me and him, right?
+I feel kind of weird...)");
         SEStop("EV_SE_GAYA_023",1);
         break ;
         default :

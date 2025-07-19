@@ -18,5 +18,5 @@ MsgDisp("Nanatsumori","......Don't make that kind of joke in
 front of guys.
 You'll cause a misunderstanding.");
 MsgDisp("主人公","(?
-But ｛七ツ森＊｝ seems to
-like these clothes too.)");
+But ｛七ツ森＊｝ seems to like these
+clothes too.)");

@@ -18,8 +18,8 @@ VoicePlay("Q240100000_01_010");
 MsgDisp("Kazama","It's the tradition of the school trip.
 I'll protect you!");
 MsgDisp("主人公","(Tradition...
-Did the guys teach ｛風真＊＊｝
-something weird?)");
+Did the guys teach ｛風真＊＊｝ something
+weird?)");
 EnvStop(1);
 EnvAutoSet(0);
 MsgClose();

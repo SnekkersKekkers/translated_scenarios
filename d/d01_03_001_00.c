@@ -112,9 +112,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Did ｛本多＊＊｝ put that poster
-up in his sister's room without her
-permission...?)");
+MsgDisp("主人公","(Did ｛本多＊＊｝ put that poster up in his
+sister's room without her permission...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

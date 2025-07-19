@@ -72,8 +72,7 @@ like?");
     MsgDisp("Nanatsumori","Ah, keep one of those daifuku for me.
 Now tell me about the next one.");
     MsgDisp("主人公","(Hehe.
-I hope ｛七ツ森＊｝ likes
-these.)");
+I hope ｛七ツ森＊｝ likes these.)");
     break ;
     case 4:
     case 5:
@@ -113,8 +112,7 @@ and having a good time?");
     VoicePlay("I550400000_04_130");
     MsgDisp("Nanatsumori","So, if I was the one feeling like that,
 which would you recommend?");
-    MsgDisp("主人公","｛七ツ森＊｝'s current
-feelings?
+    MsgDisp("主人公","｛七ツ森＊｝'s current feelings?
 A very good mood, and kinda happy...");
     ChEye(4,3);
     ChMouth(4,3);
@@ -127,9 +125,9 @@ A very good mood, and kinda happy...");
     VoicePlay("I550400000_04_150");
     MsgDisp("Nanatsumori","Well, anything you'd choose for me would
 be the correct answer, though.");
-    MsgDisp("主人公","(Is ｛七ツ森＊｝ testing
-me? Alright, I'll choose something that
-he'll definitely like!)");
+    MsgDisp("主人公","(Is ｛七ツ森＊｝ testing me?
+Alright, I'll choose something that he'll
+definitely like!)");
     break ;
     default :
     DbgAssert(1);

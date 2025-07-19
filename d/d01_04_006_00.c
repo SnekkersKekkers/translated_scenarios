@@ -113,8 +113,8 @@ VoicePlay("D010400600_04_130");
 MsgDisp("Nanatsumori","Ahーh.
 When will she finally let it go?");
 MsgDisp("主人公","(Maybe instead of being bothered by
-｛七ツ森＊｝, she's
-actually really proud of him?)");
+｛七ツ森＊｝, she's actually really
+proud of him?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

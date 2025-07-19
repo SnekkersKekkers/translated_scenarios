@@ -52,7 +52,7 @@ MsgDisp("Hikaru","...Eh, wait a second...
 That means Haba High used to be an all
 girls school a long time ago～∋");
 MsgDisp("主人公","(｛ひかる＊｝ is confused.
-I think ｛ひかる＊｝'s
-Mother was probably just joking...)");
+I think ｛ひかる＊｝'s Mother was
+probably just joking...)");
 MsgClose();
 ScrFadeOut(0,0);

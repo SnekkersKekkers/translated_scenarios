@@ -29,8 +29,8 @@ VoicePlay("E010730200_07_020");
 MsgDisp("Mikage","Inori was stocking up on instant ramen.
 I was telling him to eat vegetables too.");
 MsgDisp("主人公","Eh?
-｛氷室＊＊｝, you can't just eat
-instant ramen.");
+｛氷室＊＊｝, you can't just eat instant
+ramen.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -70,8 +70,7 @@ VoicePlay("E010730200_07_050");
 MsgDisp("Mikage","As punishment, I'll prepare a lot of
 eggplant for him.");
 MsgDisp("主人公","(｛御影＊＊｝, you're worried about
-｛氷室＊＊｝'s health, aren't
-you...?)");
+｛氷室＊＊｝'s health, aren't you...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

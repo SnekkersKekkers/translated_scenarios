@@ -104,10 +104,10 @@ I'm looking forward to this!");
         ChMotion(3,1,1);
         VoicePlay("Q020300000_03_090");
         MsgDisp("Honda","I'm also super excited!");
-        MsgDisp("主人公","(Spending this freetime with
-｛本多＊＊｝ will surely be a
-blast! Maybe he can teach me fun facts and
-trivia of the spots we'll be touring?)");
+        MsgDisp("主人公","(Spending this freetime with ｛本多＊＊｝
+will surely be a blast! Maybe he can teach
+me fun facts and trivia of the spots we'll
+be touring?)");
         break ;
         case 1:
         ChEye(3,4);

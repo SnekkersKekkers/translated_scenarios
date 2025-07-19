@@ -86,9 +86,9 @@ Really?");
         MsgDisp("Sassa","Some breeds can run at 70 kilometers per
 hour. Even the fastest humans can only do
 about 40 kilometers per hour.");
-        MsgDisp("主人公","I see. Then if you could beat a dog,
-｛颯砂＊＊｝ could be world
-champion.");
+        MsgDisp("主人公","I see.
+Then if you could beat a dog, ｛颯砂＊＊｝
+could be world champion.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -105,8 +105,8 @@ compete against the dog everyday.");
         MsgDisp("Sassa","Then you'll have to join us for the
 morning walks.
 As a witness.");
-        MsgDisp("主人公","(Hehe, walking with ｛颯砂＊＊｝
-and a doggy every morning...seems fun.)");
+        MsgDisp("主人公","(Hehe, walking with ｛颯砂＊＊｝ and a
+doggy every morning...seems fun.)");
         break ;
         default :
         DbgAssert(1);

@@ -26,8 +26,8 @@ ChMouth(1,3);
 VoicePlay("G020120000_01_030");
 MsgDisp("Kazama","...Don't worry about it.
 But I am serious.");
-MsgDisp("主人公","(Isn't ｛風真＊＊｝ acting
-strange today...?)");
+MsgDisp("主人公","(Isn't ｛風真＊＊｝ acting strange
+today...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

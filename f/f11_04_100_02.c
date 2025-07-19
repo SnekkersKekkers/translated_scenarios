@@ -58,8 +58,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);
 MsgDisp("主人公","(Yeah!
-I'll help ｛七ツ森＊｝
-enjoy himself!)");
+I'll help ｛七ツ森＊｝ enjoy himself!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

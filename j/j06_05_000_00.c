@@ -20,8 +20,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060500000_05_000");
         MsgDisp("Hiiragi","Thank you.
 Can you suggest a meeting place?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝
-sounds good?");
+        MsgDisp("主人公","At ｛待ち合わせ場所｝ sounds good?");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);

@@ -60,8 +60,8 @@ SEWait();
 MsgDisp("","...It's coming.");
 MsgDisp("主人公","\"Sorry to have kept you waiting. I
 brought you dessert. ...It's
-specifically for
-｛七ツ森＊｝, right?\"");
+specifically for ｛七ツ森＊｝,
+right?\"");
 MsgDisp("","Unbelievable...");
 MsgClear();
 SEPlay("EV_SE_001",0,0.6);

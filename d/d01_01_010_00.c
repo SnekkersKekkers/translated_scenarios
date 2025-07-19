@@ -75,8 +75,8 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
 EnvPlay("SE_ENV_BG_HO000_CO0",1,0.3);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝, you wanted to
-visit the castle?");
+MsgDisp("主人公","｛風真＊＊｝, you wanted to visit the
+castle?");
 StlEye(1,1);
 VoicePlay("D010101000_01_061");
 MsgDisp("Kazama","I guess so.

@@ -1,9 +1,8 @@
 ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I have biology with
-｛御影＊＊｝ next. I
-wonder if there's something I can help
+MsgDisp("主人公","(I have biology with ｛御影＊＊｝ next.
+I wonder if there's something I can help
 with...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -41,8 +40,8 @@ MsgDisp("Mikage","Oh, wait, wait.
 You came all this way already.
 I'll serve you some tea.");
 MsgDisp("主人公","Hehe.
-This is kind of like
-｛御影＊＊｝ 's house.");
+This is kind of like ｛御影＊＊｝ 's
+house.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -58,8 +57,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(60,0);
-MsgDisp("主人公","｛御影＊＊｝, thank you
-for the tea.
+MsgDisp("主人公","｛御影＊＊｝, thank you for the tea.
 The school bell has rung.");
 MsgClose();
 ChOpen(7,37,1,0,0,#1,#1,0,0);

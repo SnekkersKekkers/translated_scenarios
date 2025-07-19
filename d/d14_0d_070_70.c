@@ -43,9 +43,9 @@ ChEyeOpenLevel(22,0);
 VoicePlay("D140D07070_22_020");
 MsgDisp("Hikaru","Aha!
 Mari is so cute～▼");
-MsgDisp("主人公","(Ugh...Now everytime I see
-｛御影＊＊｝, I'll think
-about croissants...)");
+MsgDisp("主人公","(Ugh...
+Now everytime I see ｛御影＊＊｝, I'll
+think about croissants...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

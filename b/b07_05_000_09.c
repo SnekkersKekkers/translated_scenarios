@@ -1,5 +1,4 @@
-MsgDisp("主人公","｛柊＊＊＊｝, what do you think
-about love?");
+MsgDisp("主人公","｛柊＊＊＊｝, what do you think about love?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);

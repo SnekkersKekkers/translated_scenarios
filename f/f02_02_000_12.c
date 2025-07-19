@@ -55,6 +55,5 @@ VoicePlay("F020200012_02_050");
 MsgDisp("Sassa","Plus, if you praise me...
 I think I'll be able to be even more
 efficient.");
-MsgDisp("主人公","(Somehow, I feel like
-｛颯砂＊＊｝ has just inserted me
-into his training plan...)");
+MsgDisp("主人公","(Somehow, I feel like ｛颯砂＊＊｝ has just
+inserted me into his training plan...)");

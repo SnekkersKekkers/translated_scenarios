@@ -10,8 +10,7 @@ ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","Eh!
-｛御影＊＊｝ and
-｛柊＊＊＊｝?");
+｛御影＊＊｝ and ｛柊＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

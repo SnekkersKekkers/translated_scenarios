@@ -41,8 +41,7 @@ ChMotion(2,4);
 VoicePlay("G020210101_02_050");
 MsgDisp("Sassa","...Hm?
 That's the same as usual then...");
-MsgDisp("主人公","Hehe, if ｛氷室＊＊｝ he'd be mad,
-you know?");
+MsgDisp("主人公","Hehe, if ｛氷室＊＊｝ he'd be mad, you know?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

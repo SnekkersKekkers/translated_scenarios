@@ -54,8 +54,8 @@ hurry.");
         ChClose(5);
         ChCheek(5,0);
         SEWait();
-        MsgDisp("主人公","｛柊＊＊＊｝, you shouldn't run
-by the pool side.");
+        MsgDisp("主人公","｛柊＊＊＊｝, you shouldn't run by the pool
+side.");
         MsgClose();
         SEPlay("EV_SE_508");
         SEWait();

@@ -70,8 +70,7 @@ take the lift back.");
         ScrFadeIn(0);
         VoiceEVSPlay(5);
         VoicePlay("B040520002_05_070");
-        MsgDisp("Hiiragi","｛主人公｝, we somehow managed to
-get back.");
+        MsgDisp("Hiiragi","｛主人公｝, we somehow managed to get back.");
         MsgDisp("主人公","Hehe, yeah.
 That was close, but you looked cool.");
         ChEye(5,2);

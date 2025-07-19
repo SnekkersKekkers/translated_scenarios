@@ -62,8 +62,7 @@ in the theatre company before eating it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(I'm glad ｛柊＊＊＊｝ liked
-it!)");
+    MsgDisp("主人公","(I'm glad ｛柊＊＊＊｝ liked it!)");
     break ;
     case 4:
     case 5:

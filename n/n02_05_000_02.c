@@ -97,8 +97,8 @@ For some reason, that motivated me.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ is good at
-motivating people.
+    MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ is good at motivating
+people.
 Alright, I'll study harder next time!)");
     break ;
     default :

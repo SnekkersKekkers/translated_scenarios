@@ -96,8 +96,8 @@ MsgDisp("Himuro","I haven't changed at all...
 Taking it out on you again like this, I
 haven't matured at all.");
 MsgDisp("主人公","That's not true.
-｛氷室＊＊｝ shows more of his true
-self than when we first met.");
+｛氷室＊＊｝ shows more of his true self
+than when we first met.");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("D010600500_06_110");
@@ -149,8 +149,8 @@ ChMotion(6,5);
 VoicePlay("D010600500_06_170");
 MsgDisp("Himuro","Heh...
 What's with you.");
-MsgDisp("主人公","(Looks like ｛氷室＊＊｝ is back to
-his usual self?
+MsgDisp("主人公","(Looks like ｛氷室＊＊｝ is back to his
+usual self?
 What a relief...)");
 BGMStop();
 MsgClose();

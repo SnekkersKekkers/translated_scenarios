@@ -16,9 +16,9 @@ MsgDisp("Himuro?","What's with this melancholy?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝...it's just that I
-was thinking about how little time I have
-left in this classroom.");
+MsgDisp("主人公","Ah, ｛氷室＊＊｝...it's just that I was
+thinking about how little time I have left
+in this classroom.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -26,8 +26,8 @@ VoicePlay("D130A00200_06_010");
 MsgDisp("Himuro","Ah, right.
 I thought for sure you were thinking of
 Ryota-senpai.");
-MsgDisp("主人公","I wonder what ｛風真＊＊｝ is
-doing at this moment?");
+MsgDisp("主人公","I wonder what ｛風真＊＊｝ is doing at
+this moment?");
 VoicePlay("D130A00200_02_000");
 MsgDisp("Sassa?","Oh, you guys were here huh?
 What are you two up do?");
@@ -117,10 +117,9 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();
 ChClose(2,0,30);
 ChClose(6,0,30);
-MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝
-and ｛氷室＊＊｝ says. You'll come
-home soon, won't you
-｛風真＊＊｝...)");
+MsgDisp("主人公","(Yeah, it's just as ｛颯砂＊＊｝ and
+｛氷室＊＊｝ says. You'll come home soon,
+won't you ｛風真＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 ChLayout(1);

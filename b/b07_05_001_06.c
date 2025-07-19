@@ -1,6 +1,5 @@
 MsgDisp("主人公","I wonder if I'll always be together with
-｛柊＊＊＊｝,
-｛氷室＊＊｝ and
+｛柊＊＊＊｝, ｛氷室＊＊｝ and
 ｛御影＊＊｝?");
 ChEye(5,0);
 ChMouth(5,2);
@@ -54,11 +53,9 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_500");
 MsgDisp("Hiiragi","Are you ready?");
-MsgDisp("主人公","(Then it seems like
-｛柊＊＊＊｝ likes being with
-me, ｛氷室＊＊｝ and
-｛御影＊＊｝. I'm
-happy...)");
+MsgDisp("主人公","(Then it seems like ｛柊＊＊＊｝ likes
+being with me, ｛氷室＊＊｝ and
+｛御影＊＊｝. I'm happy...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -44,8 +44,7 @@ VoicePlay("D010200300_02_030");
 MsgDisp("Sassa","Aren't they cool?
 In addition to my training, I also have a
 part-time job walking dogs.");
-MsgDisp("主人公","They seem to cherish ｛颯砂＊＊｝
-a lot.");
+MsgDisp("主人公","They seem to cherish ｛颯砂＊＊｝ a lot.");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);

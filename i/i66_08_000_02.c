@@ -62,8 +62,7 @@ Ya got 100 points from me.");
     MsgDisp("Shirahane","Feels like more and more customers have
 been comin' here jus' for you...");
     MsgDisp("主人公","Not at all...
-｛大地＊＊｝, you're
-overthinking it.");
+｛大地＊＊｝, you're overthinking it.");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,0,1);

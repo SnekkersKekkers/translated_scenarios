@@ -61,8 +61,8 @@ SEStop("EV_SE_679",0.5);
 VoicePlay("P240201000_02_030");
 MsgDisp("Sassa","Yeah, it wasn't very threatening though.");
 MsgDisp("主人公","Hehe, yeah.
-Guess he wants to play with
-｛颯砂＊＊｝, huh?");
+Guess he wants to play with ｛颯砂＊＊｝,
+huh?");
 VoicePlay("P240201000_48_020");
 MsgDisp("Persephone","Then, I will escape myself.");
 SEPlay("EV_SE_FOOT_001",0.3,0.2);

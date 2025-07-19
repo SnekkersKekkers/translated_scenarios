@@ -1,7 +1,6 @@
 Wait(20,0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","(Ah, a phone call from
-｛颯砂＊＊｝.)");
+MsgDisp("主人公","(Ah, a phone call from ｛颯砂＊＊｝.)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();

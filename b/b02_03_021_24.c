@@ -10,5 +10,5 @@ VoicePlay("B020302124_03_010");
 MsgDisp("Honda","No, I'm trying to analyze your refined
 sense to get how the combination works.");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like
-clothes like this, too.)");
+｛本多＊＊｝ seems to like clothes like
+this, too.)");

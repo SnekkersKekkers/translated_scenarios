@@ -50,7 +50,6 @@ BGMStop();
 MsgClose();
 ChClose(6);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛氷室＊＊｝!
-)");
+MsgDisp("主人公","(I got a present from ｛氷室＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

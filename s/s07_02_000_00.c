@@ -19,8 +19,7 @@ It's super lively.");
     MsgDisp("Sassa","Don't get separated.
 Oh, when you look up, try to find my head
 in the crowd.");
-    MsgDisp("主人公","｛颯砂＊＊｝ is so tall, he's a
-landmark...");
+    MsgDisp("主人公","｛颯砂＊＊｝ is so tall, he's a landmark...");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -43,8 +42,8 @@ feels good when it's so crowded.");
     ChMotion(2,1);
     VoicePlay("S070200000_02_040");
     MsgDisp("Sassa","Okay, I'll try my best this year!");
-    MsgDisp("主人公","｛颯砂＊＊｝ does his best every
-year though...");
+    MsgDisp("主人公","｛颯砂＊＊｝ does his best every year
+though...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -74,8 +73,8 @@ Everyone's having fun.");
     MsgDisp("Sassa","I'm having more fun than everyone else,
 though.");
     MsgDisp("主人公","Hehe, yeah.
-Right, what kind of wish is
-｛颯砂＊＊｝ going to make?");
+Right, what kind of wish is ｛颯砂＊＊｝
+going to make?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);

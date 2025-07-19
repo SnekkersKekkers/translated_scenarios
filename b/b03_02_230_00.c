@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B030223000_02_010");
     MsgDisp("Sassa","Oh, nice pick!
-That's a can't miss here.");
+You can't go wrong there.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

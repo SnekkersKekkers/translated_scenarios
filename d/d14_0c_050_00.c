@@ -68,8 +68,7 @@ ChMotion(6,0);
 VoicePlay("D140C05000_06_030");
 MsgDisp("Himuro","Yes, I don't think we can defeat him.");
 MsgDisp("主人公","(Um...these two seem worried about my
-relationship with ｛柊＊＊＊｝?
-)");
+relationship with ｛柊＊＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -100,8 +100,8 @@ ChMotion(3,3,1);
 VoicePlay("B330B20300_03_030");
 MsgDisp("Honda","Let's all go take a closer look!");
 MsgDisp("主人公","(｛本多＊＊｝ is so lively.
-As for ｛七ツ森＊｝...he
-looks a bit pitiful?)");
+As for ｛七ツ森＊｝...he looks a bit
+pitiful?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

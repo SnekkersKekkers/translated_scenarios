@@ -36,9 +36,9 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30800_01_020");
 MsgDisp("Kazama","That's fine for you, but what about us?");
-MsgDisp("主人公","I guess we'll listen to
-｛本多＊＊｝'s chatter whilst
-looking at the beautiful scenery?");
+MsgDisp("主人公","I guess we'll listen to ｛本多＊＊｝'s
+chatter whilst looking at the beautiful
+scenery?");
 ChSet(3,0);
 ChEye(4,0);
 ChMouth(4,3);

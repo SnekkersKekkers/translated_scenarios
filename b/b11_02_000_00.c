@@ -1,8 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛颯砂＊＊｝ still
-isn't here yet...");
+MsgDisp("主人公","Looks like ｛颯砂＊＊｝ still isn't here
+yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -89,8 +89,7 @@ MsgDisp("Sassa","Ah, more importantly, I'm sorry.
 It's my fault for being late.
 Were you scared?");
 MsgDisp("主人公","No.
-I felt safe because ｛颯砂＊＊｝
-was there.");
+I felt safe because ｛颯砂＊＊｝ was there.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);

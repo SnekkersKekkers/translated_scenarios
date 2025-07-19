@@ -48,9 +48,9 @@ VoicePlay("B070100000_01_540");
 MsgDisp("Kazama","So to only extract \"love\" from the
 equation is difficult.
 I can't do it.");
-MsgDisp("主人公","I see. I guess I should also think about
-it more seriously, like you do,
-｛風真＊＊｝?");
+MsgDisp("主人公","I see.
+I guess I should also think about it more
+seriously, like you do, ｛風真＊＊｝?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);

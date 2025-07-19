@@ -15,9 +15,9 @@ ChMotion(2,0);
 VoicePlay("G020220200_02_020");
 MsgDisp("Sassa","He can do everything - studying, sports,
 you name it - but he doesn't do anything.");
-MsgDisp("主人公","｛風真＊＊｝ lives alone and
-has his grandfather's shop and Simon's job
-to handle, so it's probably tough for him.");
+MsgDisp("主人公","｛風真＊＊｝ lives alone and has his
+grandfather's shop and Simon's job to
+handle, so it's probably tough for him.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -62,8 +62,8 @@ ChMotion(2,3);
 VoicePlay("G020220200_02_080");
 MsgDisp("Sassa","Alright, it's not exactly a competition,
 but I feel like I'm competing with Ryota.");
-MsgDisp("主人公","｛颯砂＊＊｝ and
-｛風真＊＊｝ in a competition?");
+MsgDisp("主人公","｛颯砂＊＊｝ and ｛風真＊＊｝ in a
+competition?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

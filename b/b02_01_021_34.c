@@ -13,5 +13,5 @@ VoicePlay("B020102134_01_010");
 MsgDisp("Kazama","Yeah, you're a one-of-a-kind person.
 I've come to like it too, thanks to you.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have
-started to love clothes like these, too!)");
+｛風真＊＊｝ seems to have started to love
+clothes like these, too!)");

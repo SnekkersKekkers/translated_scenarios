@@ -92,8 +92,8 @@ VoicePlay("G110500600_05_070");
 MsgDisp("Hiiragi","Okay, I'll look forward to it and cheer
 you on from the window.");
 MsgDisp("主人公","Huh?
-｛柊＊＊＊｝, I would get
-nervous if you were watching me draw.");
+｛柊＊＊＊｝, I would get nervous if you
+were watching me draw.");
 ChEye(5,1);
 ChEye(5,0);
 ChMouth(5,1);

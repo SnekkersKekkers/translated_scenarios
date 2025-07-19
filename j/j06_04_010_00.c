@@ -13,13 +13,11 @@ switch (MsgSelRsltGet()){
         MsgDisp("Nanatsumori","All right.
 What do we do on that day?");
         MsgDisp("主人公","Okay, then we'll go to the
-｛待ち合わせ場所｝ Sounds
-good?");
+｛待ち合わせ場所｝ Sounds good?");
         VoicePlay("J060401000_04_010");
         MsgDisp("Nanatsumori","OK.
 Do not oversleep on Sunday.");
-        MsgDisp("主人公","Hmmm, ｛七ツ森＊｝ is the
-best!");
+        MsgDisp("主人公","Hmmm, ｛七ツ森＊｝ is the best!");
         VoicePlay("J060401000_04_020");
         MsgDisp("Nanatsumori","I'll tell you.
 Don't worry about it.

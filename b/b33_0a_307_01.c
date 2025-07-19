@@ -67,8 +67,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30701_01_020");
 MsgDisp("Kazama","That bar is definitely quite thin...");
-MsgDisp("主人公","Yeah, if it's ｛颯砂＊＊｝ who
-has it on, it sure seems that way.");
+MsgDisp("主人公","Yeah, if it's ｛颯砂＊＊｝ who has it on,
+it sure seems that way.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

@@ -104,9 +104,9 @@ VoicePlay("F100530002_05_060");
 MsgDisp("Hiiragi","Heheh.
 I really do enjoy the greeting enforcement
 campaign.");
-MsgDisp("主人公","(I might understand how
-｛柊＊＊＊｝ feels? Funny
-greetings just make you smile, it's nice!)");
+MsgDisp("主人公","(I might understand how ｛柊＊＊＊｝
+feels? Funny greetings just make you
+smile, it's nice!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

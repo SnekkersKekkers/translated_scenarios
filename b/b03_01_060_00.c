@@ -12,8 +12,8 @@ VoicePlay("B030106000_01_000");
 MsgDisp("Kazama","You got it.
 But no detours allowed, it's dangerous!");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Jeez, ｛風真＊＊｝, all you do
-is forbid things.");
+MsgDisp("主人公","Jeez, ｛風真＊＊｝, all you do is forbid
+things.");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0);

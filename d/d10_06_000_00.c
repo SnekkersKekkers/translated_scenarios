@@ -25,7 +25,7 @@ MsgDisp("Himuro","...Bye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(It's rare that ｛氷室＊＊｝ talks
-to me for no reason...)");
+MsgDisp("主人公","(It's rare that ｛氷室＊＊｝ talks to me for
+no reason...)");
 MsgClose();
 ScrFadeOut(0);

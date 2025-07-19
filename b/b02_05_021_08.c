@@ -12,5 +12,4 @@ MsgDisp("Hiiragi","Yes, it feels as though I am prey that
 will not be able to escape.
 But I won't give up, either.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems really
-happy!)");
+｛柊＊＊＊｝ seems really happy!)");

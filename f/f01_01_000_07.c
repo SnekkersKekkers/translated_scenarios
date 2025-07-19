@@ -64,8 +64,7 @@ Well, another time.");
     VoicePlay("F010100007_01_020");
     MsgDisp("Kazama","｛主人公｝.");
     MsgDisp("主人公","Huh?
-｛風真＊＊｝, I thought you
-already left.");
+｛風真＊＊｝, I thought you already left.");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,4);

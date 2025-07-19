@@ -2,8 +2,8 @@ BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah.
-It's ｛ひかる＊｝ and
-｛みちる＊｝.)");
+It's ｛ひかる＊｝ and ｛みちる＊｝.
+)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1);
@@ -34,8 +34,7 @@ ChEyeOpenLevel(22,10);
 VoicePlay("F102230001_22_020");
 MsgDisp("Hikaru","Ehh∋
 But, it had a crest on its head!");
-MsgDisp("主人公","｛ひかる＊｝,
-｛みちる＊｝!
+MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝!
 Could it be you're talking about...");
 ChEye(21,4);
 ChMouth(21,4);

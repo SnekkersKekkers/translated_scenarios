@@ -67,8 +67,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(As expected of ｛本多＊＊｝, he's
-doing something interesting.
+MsgDisp("主人公","(As expected of ｛本多＊＊｝, he's doing
+something interesting.
 I'm definitely curious...)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();

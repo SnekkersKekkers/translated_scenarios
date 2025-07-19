@@ -9,8 +9,7 @@ MsgDisp("Honda","...Haa, ...
 I'm happy.
 I wonder what this feeling is...");
 MsgDisp("主人公","I'm happy too.
-｛本多＊＊｝, thank you for
-finding me.");
+｛本多＊＊｝, thank you for finding me.");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);

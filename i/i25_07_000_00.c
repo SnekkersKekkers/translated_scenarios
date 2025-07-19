@@ -37,8 +37,8 @@ Keep it up.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(Huh...
-｛御影＊＊｝, didn't you
-come to look for books?)");
+｛御影＊＊｝, didn't you come to look
+for books?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -89,8 +89,8 @@ too?");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(Then, he was half-serious...?
-Does ｛御影＊＊｝ really
-want a part-time job?)");
+Does ｛御影＊＊｝ really want a
+part-time job?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -127,8 +127,7 @@ check on me...)");
     MsgDisp("Manager","Just now, your homeroom teacher came by
 with gifts for everyone.");
     MsgDisp("主人公","Huh?
-｛御影＊＊｝ brought
-gifts?");
+｛御影＊＊｝ brought gifts?");
     VoicePlay("I250700000_42_020");
     MsgDisp("Manager","Yeah, a lot of milk ice cream.
 He got one for me, too.

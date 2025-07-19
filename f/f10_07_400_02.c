@@ -28,9 +28,9 @@ MsgDisp("Male Student B","Did Mikagecchi do something wrong?");
 VoicePlay("F100740002_45_000");
 MsgDisp("School Girl B","Is he gonna get scolded by Himuro-sensei?
 Poor guy.");
-MsgDisp("主人公","(Ehh? ｛御影＊＊｝ was
-praised the other day, so it'll be
-alright, right...?)");
+MsgDisp("主人公","(Ehh?
+｛御影＊＊｝ was praised the other day,
+so it'll be alright, right...?)");
 SEPlay("EV_SE_DOOR_019");
 Wait(50,0);
 VoicePlay("F100740002_07_000");
@@ -88,8 +88,7 @@ VoicePlay("F100740002_32_050");
 MsgDisp("VP Himuro","Your homeroom teacher is acknowledged not
 only by students, but also by parents.
 You can take pride in that.");
-MsgDisp("主人公","｛御影＊＊｝, that's
-amazing right?!");
+MsgDisp("主人公","｛御影＊＊｝, that's amazing right?!");
 VoicePlay("F100740002_41_060");
 MsgDisp("Male Student B","Mikagecchi, you're awesome!");
 ChEye(32,0);
@@ -125,8 +124,7 @@ MsgDisp("Mikage","Sure.
 I'll treat each of you to lunch once.");
 MsgDisp("主人公","(Himuro-sensei went out of his way to do
 that in front of everyone...
-｛御影＊＊｝, I'm so happy
-for you!)");
+｛御影＊＊｝, I'm so happy for you!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

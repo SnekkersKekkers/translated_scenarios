@@ -36,8 +36,8 @@ ChMotion(1,0);
 VoicePlay("G110100800_01_020");
 MsgDisp("Kazama","Do you have any idea what I might've
 wanted say?");
-MsgDisp("主人公","(What ｛風真＊＊｝ might've
-wanted to say...
+MsgDisp("主人公","(What ｛風真＊＊｝ might've wanted to
+say...
 Maybe he wanted to nag me like a Mom?)");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -60,8 +60,8 @@ MsgDisp("Kazama","So what was it?
 I have plenty of time, so let's take the
 time to talk about it.");
 MsgDisp("主人公","Ehhー?
-Can't I hear what ｛風真＊＊｝
-had to say instead?");
+Can't I hear what ｛風真＊＊｝ had to say
+instead?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);

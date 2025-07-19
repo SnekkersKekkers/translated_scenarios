@@ -6,8 +6,7 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Summer break is coming up, huh.
-｛氷室＊＊｝, what are you going to
-do?");
+｛氷室＊＊｝, what are you going to do?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -44,7 +43,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600007_06_040");
 MsgDisp("Himuro","Its fine.
-It's true that it feels good. ");
+It's true that it feels good.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

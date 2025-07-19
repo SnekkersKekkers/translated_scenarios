@@ -1,8 +1,7 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Amazing...
-｛颯砂＊＊｝ is always at the
-top.)");
+｛颯砂＊＊｝ is always at the top.)");
 VoicePlay("G110200700_34_000");
 MsgDisp("Member A","Sassa, let me have the credit for once～");
 VoicePlay("G110200700_02_000");

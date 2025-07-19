@@ -27,8 +27,8 @@ their small child to us.");
 VoicePlay("G020540000_05_040");
 MsgDisp("Hiiragi","We are gaining recognition as a community
 theater group in Habataki City.");
-MsgDisp("主人公","It's the results of
-｛柊＊＊＊｝'s hard work.");
+MsgDisp("主人公","It's the results of ｛柊＊＊＊｝'s hard
+work.");
 ChEye(5,3);
 VoicePlay("G020540000_05_050");
 MsgDisp("Hiiragi","Yes, I hope to continue working hard so
@@ -41,8 +41,8 @@ ChMotion(5,4);
 VoicePlay("G020540000_05_060");
 MsgDisp("Hiiragi","Heh, that's an entirely separate matter.
 I still have. alot left in me, you know?");
-MsgDisp("主人公","(I'm so happy ｛柊＊＊＊｝'s
-efforts are starting to bare fruit!)");
+MsgDisp("主人公","(I'm so happy ｛柊＊＊＊｝'s efforts are
+starting to bare fruit!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

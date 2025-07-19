@@ -37,8 +37,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B150500500_05_050");
 MsgDisp("Hiiragi","Haa..
 I want to do that too.");
-MsgDisp("主人公","｛柊＊＊＊｝, you're going to
-leave?
+MsgDisp("主人公","｛柊＊＊＊｝, you're going to leave?
 ...I'll stop now.");
 Wait(40,1);
 ChEye(5,0);

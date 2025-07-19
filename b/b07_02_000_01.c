@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛颯砂＊＊｝, which kind of shows
-do you watch?");
+MsgDisp("主人公","｛颯砂＊＊｝, which kind of shows do you
+watch?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -22,8 +22,7 @@ VoicePlay("B070200000_02_030");
 MsgDisp("Sassa","Ah, saunas too.
 We alternate between the outdoor baths and
 those.");
-MsgDisp("主人公","Hehe, ｛颯砂＊＊｝ likes hot
-springs.");
+MsgDisp("主人公","Hehe, ｛颯砂＊＊｝ likes hot springs.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -40,8 +39,8 @@ MsgDisp("Sassa","I guess I'm kind of jealous, but what do
 you think they do on their days off?
 Go to another hot spring?");
 MsgDisp("主人公","(Uhm...
-｛颯砂＊＊｝ loves watching shows
-about hot springs.)");
+｛颯砂＊＊｝ loves watching shows about hot
+springs.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -37,8 +37,7 @@ I'm so happy.");
     MsgDisp("Kazama","Ahh.
 Turn around a little slowly for me.");
     MsgDisp("主人公","(Yay!
-｛風真＊＊｝ seems like he's
-very happy!)");
+｛風真＊＊｝ seems like he's very happy!)");
     break ;
     case 4:
     case 5:
@@ -49,8 +48,8 @@ very happy!)");
     MsgDisp("Kazama","That's really nice, the kimono.
 I'm glad I came back in time.");
     MsgDisp("主人公","Hehe.
-I feel relieved when
-｛風真＊＊｝ praises me.");
+I feel relieved when ｛風真＊＊｝ praises
+me.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -64,8 +63,7 @@ I feel relieved when
     MsgDisp("Kazama","To be honest, I wish I could keep this
 sight all to myself...");
     MsgDisp("主人公","(Yay!
-｛風真＊＊｝ seems to really
-like this!)");
+｛風真＊＊｝ seems to really like this!)");
     break ;
     default :
     DbgAssert(1);

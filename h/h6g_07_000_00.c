@@ -12,8 +12,8 @@ VoicePlay("H5G0700000_07_010");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
-MsgDisp("Mikage","｛主人公｝, your kindness and
-strength is what nurtured this work.");
+MsgDisp("Mikage","｛主人公｝, your kindness and strength is
+what nurtured this work.");
 VoicePlay("H5G0700000_07_020");
 ChEye(7,0);
 ChMouth(7,0);

@@ -67,8 +67,8 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B150300000_03_080");
 MsgDisp("Honda","Like family!");
 MsgDisp("主人公","(Family huh...
-But it seems like ｛本多＊＊｝,
-doesn't mind physical closeness at all?)");
+But it seems like ｛本多＊＊｝, doesn't mind
+physical closeness at all?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

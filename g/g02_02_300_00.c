@@ -57,8 +57,8 @@ from them, okay? It'd be hilarious if you
 said exactly the same thing again.");
 MsgDisp("主人公","Hehe, yeah!");
 MsgDisp("主人公","(｛颯砂＊＊｝ really understands
-｛風真＊＊｝ and
-｛氷室＊＊｝ huh......and me too.)");
+｛風真＊＊｝ and ｛氷室＊＊｝ huh......and
+me too.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

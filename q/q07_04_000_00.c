@@ -13,9 +13,9 @@ ChMotion(4,2,1);
 VoicePlay("Q070400000_04_000");
 MsgDisp("Nanatsumori","This is what I call a masterpiece.
 It's so worth shooting.");
-MsgDisp("主人公","Yeah, for sure. Oh, with this scenery in
-the background, shall I take a picture,
-｛七ツ森＊｝?");
+MsgDisp("主人公","Yeah, for sure.
+Oh, with this scenery in the background,
+shall I take a picture, ｛七ツ森＊｝?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

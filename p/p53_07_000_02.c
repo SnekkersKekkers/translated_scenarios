@@ -43,9 +43,8 @@ Himuro's last time conducting? So repay
 him with a good performance.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alright! I'll have to let both
-Himuro-sensei and
-｛御影＊＊｝ listen to
-the culmination of my performances!)");
+Himuro-sensei and ｛御影＊＊｝ listen
+to the culmination of my performances!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

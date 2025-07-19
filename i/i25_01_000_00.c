@@ -104,8 +104,8 @@ So, I'll come again.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hehe, looks like ｛風真＊＊｝
-is going to come check on me again.)");
+    MsgDisp("主人公","(Hehe, looks like ｛風真＊＊｝ is going to
+come check on me again.)");
     break ;
     case 4:
     case 5:
@@ -171,9 +171,8 @@ again next time.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(For the next time ｛風真＊＊｝
-comes, let's stock a lot of fishing
-magazines.)");
+    MsgDisp("主人公","(For the next time ｛風真＊＊｝ comes,
+let's stock a lot of fishing magazines.)");
     break ;
     default :
     DbgAssert(1);

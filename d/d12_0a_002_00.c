@@ -14,9 +14,8 @@ SEWait();
 ChOpen(2,30,3,0,4,#1,#1,0,0);
 VoicePlay("D120A00200_02_000");
 MsgDisp("Sassa","Hey, are you coming?");
-MsgDisp("主人公","Hehe, even if I don't,
-｛颯砂＊＊｝ will still come in
-first place, right?");
+MsgDisp("主人公","Hehe, even if I don't, ｛颯砂＊＊｝ will
+still come in first place, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -60,10 +59,9 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(It's about time for
-｛風真＊＊｝ and
-｛颯砂＊＊｝ to start. ...Huh?
-Over there, is that——)");
+MsgDisp("主人公","(It's about time for ｛風真＊＊｝ and
+｛颯砂＊＊｝ to start. ...Huh? Over there,
+is that——)");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_0a_04");
@@ -164,8 +162,7 @@ ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("D120A00200_01_050");
 MsgDisp("Kazama","What are you doing?");
-MsgDisp("主人公","I saw ｛風真＊＊｝ going this
-way so...
+MsgDisp("主人公","I saw ｛風真＊＊｝ going this way so...
 Are you sad?");
 ChEye(1,0);
 ChMouth(1,2);

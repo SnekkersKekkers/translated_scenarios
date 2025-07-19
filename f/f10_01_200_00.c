@@ -9,8 +9,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","It's ｛風真＊＊｝ and
-｛御影＊＊｝.
+MsgDisp("主人公","It's ｛風真＊＊｝ and ｛御影＊＊｝.
 What have you two been discussing?");
 ChEye(7,0);
 ChMouth(7,0);

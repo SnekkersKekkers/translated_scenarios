@@ -1,7 +1,7 @@
 BGOpen("bh120",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Let's go say hello to
-｛風真＊＊｝'s Grandpa.)");
+MsgDisp("主人公","(Let's go say hello to ｛風真＊＊｝'s
+Grandpa.)");
 SEPlay("EV_SE_DOOR_018");
 MsgClose();
 ScrFadeOut(0,0);

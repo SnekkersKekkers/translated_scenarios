@@ -46,8 +46,7 @@ fireflies. So I'm not worried at all.");
 ChEye(1,3);
 ChMouth(1,2);
 ChCheek(1,0);
-MsgDisp("主人公","Is something wrong,
-｛風真＊＊｝?");
+MsgDisp("主人公","Is something wrong, ｛風真＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -63,9 +62,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_070");
 MsgDisp("Kazama","(sigh)...
 The place is kinda dangerous.");
-MsgDisp("主人公","(Maybe that was...how
-｛風真＊＊｝ really feels right
-now?)");
+MsgDisp("主人公","(Maybe that was...how ｛風真＊＊｝ really
+feels right now?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

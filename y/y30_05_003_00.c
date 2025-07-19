@@ -63,10 +63,10 @@ council...I'm only good at keeping up
 with appearances, this is the real
 me.");
 MsgClear();
-MsgDisp("主人公","\"No, ｛柊＊＊＊｝, for the
-sake of everyone always gives it his
-best in both the theatre troupe and
-student council.\"");
+MsgDisp("主人公","\"No, ｛柊＊＊＊｝, for the sake of
+everyone always gives it his best in
+both the theatre troupe and student
+council.\"");
 MsgDisp("","Even when you see me like this, you
 still say that.");
 MsgClear();

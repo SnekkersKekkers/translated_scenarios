@@ -1,6 +1,6 @@
 ScrFadeIn(0);
-MsgDisp("主人公","(...Huh? Is ｛本多＊＊｝ still in
-the shop?)");
+MsgDisp("主人公","(...Huh?
+Is ｛本多＊＊｝ still in the shop?)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 VoiceEVSPlay(3);
@@ -34,9 +34,9 @@ ChMotion(3,4,1);
 VoicePlay("Q110300000_03_040");
 MsgDisp("Honda","But if she says she doesn't need it...
 Poor you, Plainie.");
-MsgDisp("主人公","(Plainie...? Hehe. So
-｛本多＊＊｝ already made a
-nickname?)");
+MsgDisp("主人公","(Plainie...?
+Hehe.
+So ｛本多＊＊｝ already made a nickname?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

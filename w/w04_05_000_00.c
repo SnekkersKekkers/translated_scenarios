@@ -5,8 +5,8 @@ VoiceEVSPlay(5);
 VoicePlay("W040500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
 MsgDisp("主人公","｛柊＊＊＊｝!
-Oh okay, ｛柊＊＊＊｝ was also
-invited then, huh.");
+Oh okay, ｛柊＊＊＊｝ was also invited
+then, huh.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

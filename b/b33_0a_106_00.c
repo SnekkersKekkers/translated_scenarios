@@ -141,8 +141,7 @@ MsgDisp("Himuro","...I don't even understand it myself.
 Maybe the impact of the Indian movie was
 so strong, I went crazy...");
 MsgDisp("主人公","(Ehh∋
-I wonder if ｛氷室＊＊｝ is
-okay...?)");
+I wonder if ｛氷室＊＊｝ is okay...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

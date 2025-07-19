@@ -14,5 +14,5 @@ MsgDisp("Honda","That's the kind of thing I should be
 thinking. But when you have it on it's
 good, really good!");
 MsgDisp("主人公","(Oh, good.
-｛本多＊＊｝ seems to like
-clothes like this, too.)");
+｛本多＊＊｝ seems to like clothes like
+this, too.)");

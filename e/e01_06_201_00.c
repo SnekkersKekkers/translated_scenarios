@@ -56,8 +56,8 @@ ChMotion(2,2);
 VoicePlay("E010620100_02_030");
 MsgDisp("Sassa","Dont lie!
 You were so confident in the beginning!");
-MsgDisp("主人公","Hehe, but in the end ｛颯砂＊＊｝
-was the winner.");
+MsgDisp("主人公","Hehe, but in the end ｛颯砂＊＊｝ was the
+winner.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -109,8 +109,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010620100_06_070");
 MsgDisp("Himuro","It's definitely a lie.");
-MsgDisp("主人公","(I think ｛氷室＊＊｝ is having
-trouble accepting defeat...)");
+MsgDisp("主人公","(I think ｛氷室＊＊｝ is having trouble
+accepting defeat...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

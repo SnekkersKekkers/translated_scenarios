@@ -28,9 +28,8 @@ ChMotion(7,0);
 VoicePlay("G020730100_07_030");
 MsgDisp("Mikage","I see By the way, it feels like I'm also
 included in that group of friends, right??");
-MsgDisp("主人公","When ｛御影＊＊｝ joins
-us, everyone looks like they're having
-fun.");
+MsgDisp("主人公","When ｛御影＊＊｝ joins us, everyone
+looks like they're having fun.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);

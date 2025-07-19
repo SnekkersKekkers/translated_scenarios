@@ -61,8 +61,7 @@ Thank you very much～!");
     ChOpen(2,40,3,0,4,#1,#1,0,0);
     VoicePlay("I650200000_02_050");
     MsgDisp("Sassa","You're working hard today, too!");
-    MsgDisp("主人公","Ah, are you on a run,
-｛颯砂＊＊｝?");
+    MsgDisp("主人公","Ah, are you on a run, ｛颯砂＊＊｝?");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);

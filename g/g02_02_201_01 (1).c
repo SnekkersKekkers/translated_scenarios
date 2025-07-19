@@ -44,8 +44,7 @@ MsgDisp("Sassa","So I've decided that, starting with
 visiting the fireflies today, I'll
 treasure my time with you.");
 MsgDisp("主人公","Hahah.
-You're acting kinda strange,
-｛颯砂＊＊｝.");
+You're acting kinda strange, ｛颯砂＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

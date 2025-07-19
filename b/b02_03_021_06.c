@@ -12,5 +12,4 @@ MsgDisp("Honda","Yeah, stylish minimalism!
 Your outfit today is so refined and
 without any excess.");
 MsgDisp("主人公","(Yay!
-Looks like ｛本多＊＊｝ really
-likes it.)");
+Looks like ｛本多＊＊｝ really likes it.)");

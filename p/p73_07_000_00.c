@@ -100,9 +100,9 @@ walk.");
     MsgDisp("Mikage","Hey, hold your head high and go.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Seems like after talking to
-｛御影＊＊｝ my anxieties
-seem to have been relieved. Alright, let's
-do our best!)");
+｛御影＊＊｝ my anxieties seem to have
+been relieved. Alright, let's do our
+best!)");
     break ;
     default :
     DbgAssert(1);

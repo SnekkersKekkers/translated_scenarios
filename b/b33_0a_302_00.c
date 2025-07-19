@@ -194,8 +194,8 @@ ChCheek(6,5);
 MsgDisp("Himuro","...Then, as for the tuition fee, you guys
 will treat me to the next meal at the
 school cafeteria.");
-MsgDisp("主人公","(Hehe, that's just like
-｛氷室＊＊｝. But it was super fun.
+MsgDisp("主人公","(Hehe, that's just like ｛氷室＊＊｝.
+But it was super fun.
 I want to come here with everyone again!)");
 BGMStop();
 MsgClose();

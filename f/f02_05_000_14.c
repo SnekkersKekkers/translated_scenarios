@@ -12,8 +12,8 @@ MsgDisp("Hiiragi","Yes, that is right.
 I truly have so many thoughts, yet no easy
 way to say them.");
 MsgDisp("主人公","Mhm.
-｛柊＊＊＊｝, I really do wish
-you the best.");
+｛柊＊＊＊｝, I really do wish you the
+best.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("F020500014_05_010");

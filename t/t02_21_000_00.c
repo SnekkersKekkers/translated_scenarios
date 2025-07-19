@@ -15,8 +15,8 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("T022100000_21_010");
 MsgDisp("Michiru","Congratulations on graduating, Mari.");
-MsgDisp("主人公","｛みちる＊｝,
-congratulations on your graduation too.");
+MsgDisp("主人公","｛みちる＊｝, congratulations on your
+graduation too.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
@@ -99,8 +99,7 @@ VoicePlay("T022100000_21_120");
 MsgDisp("Michiru","Did you have a happy high school life,
 Mari?
 I was...very happy.");
-MsgDisp("主人公","｛みちる＊｝, it's the
-same for me!
+MsgDisp("主人公","｛みちる＊｝, it's the same for me!
 Hehe!");
 ChEye(21,3);
 ChMouth(21,4);

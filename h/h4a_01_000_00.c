@@ -30,9 +30,9 @@ I did make some mistakes, you know?");
 you to do something like that.
 Full points.");
     MsgDisp("主人公","Hehe.");
-    MsgDisp("主人公","(To think ｛風真＊＊｝ would be
-so happy about this. I'm glad I stayed in
-the rhythmic gymnastics club!)");
+    MsgDisp("主人公","(To think ｛風真＊＊｝ would be so happy
+about this. I'm glad I stayed in the
+rhythmic gymnastics club!)");
     break ;
     case 4:
     case 5:
@@ -76,9 +76,9 @@ much, ｛風真＊＊｝.");
     MsgDisp("Kazama","You were shining even more brightly than
 usual.
 Congratulations on winning.");
-    MsgDisp("主人公","(I did it, I won! ｛風真＊＊｝
-praised me too. I'm glad I stayed in the
-rhythmic gymnastics club!)");
+    MsgDisp("主人公","(I did it, I won! ｛風真＊＊｝ praised me
+too. I'm glad I stayed in the rhythmic
+gymnastics club!)");
     break ;
     default :
     DbgAssert(1);

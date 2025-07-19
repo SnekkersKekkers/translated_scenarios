@@ -2,8 +2,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","There's alot, I can't choose...memory,
 memory huh...");
-MsgDisp("主人公","(I wonder where
-｛七ツ森＊｝ went to...)");
+MsgDisp("主人公","(I wonder where ｛七ツ森＊｝ went
+to...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);

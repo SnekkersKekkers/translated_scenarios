@@ -171,9 +171,9 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("Q070200000_02_190");
 MsgDisp("Sassa","I'm so simple.");
-MsgDisp("主人公","｛颯砂＊＊｝, you're not simple as
-you think. You have a crazy training
-schedule that you follow everyday.");
+MsgDisp("主人公","｛颯砂＊＊｝, you're not simple as you
+think. You have a crazy training schedule
+that you follow everyday.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -188,8 +188,8 @@ VoicePlay("Q070200000_02_210");
 MsgDisp("Sassa","Like the merchants who came here...maybe
 I'm also going to push myself into a
 corner, with no way out.");
-MsgDisp("主人公","(I'd be happy if I could help
-｛颯砂＊＊｝ in any way...)");
+MsgDisp("主人公","(I'd be happy if I could help ｛颯砂＊＊｝
+in any way...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

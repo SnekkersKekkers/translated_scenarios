@@ -28,10 +28,9 @@ MsgDisp("Sassa","I'm going.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Since the last Inter-High
-｛颯砂＊＊｝ has slowly been
-improving. I'm looking forward to seeing
-today's results!)");
+MsgDisp("主人公","(Since the last Inter-High ｛颯砂＊＊｝ has
+slowly been improving. I'm looking forward
+to seeing today's results!)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -106,7 +105,6 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Ever since ｛颯砂＊＊｝ got
-encouraged by his senpai, his time keeps
-improving...!)");
+MsgDisp("主人公","(Ever since ｛颯砂＊＊｝ got encouraged by
+his senpai, his time keeps improving...!)");
 ChPrmTblAdd(2,0);

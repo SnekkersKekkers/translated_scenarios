@@ -21,8 +21,7 @@ MsgDisp("Kazama","Hahh...
 Hahhh...");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","｛颯砂＊＊｝,
-｛風真＊＊｝!
+MsgDisp("主人公","｛颯砂＊＊｝, ｛風真＊＊｝!
 What are you guys doing?");
 ChEye(2,0);
 ChMouth(2,4);

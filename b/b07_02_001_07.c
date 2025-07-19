@@ -15,8 +15,8 @@ VoicePlay("B070200001_02_420");
 MsgDisp("Sassa","Are you feeling sick?
 That's no good, you should get some rest.");
 MsgDisp("主人公","No, I'm not sick...
-I was looking at ｛颯砂＊＊｝ and
-it suddenly started.");
+I was looking at ｛颯砂＊＊｝ and it
+suddenly started.");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,5);

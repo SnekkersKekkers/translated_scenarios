@@ -66,16 +66,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_050");
 MsgDisp("Himuro","Oh...that?");
-MsgDisp("主人公","｛氷室＊＊｝, borrowed a bass from
-one of the band members and started
-playing, right?");
+MsgDisp("主人公","｛氷室＊＊｝, borrowed a bass from one of the
+band members and started playing, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_060");
 MsgDisp("Himuro","Yeah, that happened.");
-MsgDisp("主人公","That's why I thought ｛氷室＊＊｝
-is good with his hands too.");
+MsgDisp("主人公","That's why I thought ｛氷室＊＊｝ is good
+with his hands too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -7,8 +7,8 @@ ChMotion ( 3,0 ) ;
 VoicePlay ( "D150003500_03_000" ) ;
 MsgDisp ( "Honda","Hey, Yano-kun.
 Do you have foods you like or dislike?" ) ;
-MsgDisp ( "主人公","I don't think ｛柊＊＊＊｝ has
-ever mentioned disliking anything." ) ;
+MsgDisp ( "主人公","I don't think ｛柊＊＊＊｝ has ever
+mentioned disliking anything." ) ;
 ChEye ( 5,4 ) ;
 ChMouth ( 5,2 ) ;
 ChMotion ( 5,2 ) ;
@@ -49,8 +49,8 @@ VoicePlay ( "D150003500_03_030" ) ;
 MsgDisp ( "Honda","Me too, me too.
 That's why I'll eat anything." ) ;
 MsgDisp ( "主人公","(They are both curious people.
-｛本多＊＊｝ eating anything
-sounds a bit worrying, though.)" ) ;
+｛本多＊＊｝ eating anything sounds a bit
+worrying, though.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

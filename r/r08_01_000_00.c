@@ -7,8 +7,7 @@ VoicePlay("R080100000_01_000");
 VoiceEVSPlay(1);
 MsgDisp("Kazama","Okay, enjoy the Christmas party until the
 end, ｛主人公｝.");
-MsgDisp("主人公","Huh, what about you,
-｛風真＊＊｝?");
+MsgDisp("主人公","Huh, what about you, ｛風真＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -143,9 +142,9 @@ ScrFadeIn(0);
 VoicePlay("R080100000_01_060");
 MsgDisp("Kazama","...Welcome.
 Can I help you?");
-MsgDisp("主人公","Hehe, yes you can. ｛風真＊＊｝,
-thank you for the lovely glove box. I
-didn't thank you earlier.");
+MsgDisp("主人公","Hehe, yes you can. ｛風真＊＊｝, thank you
+for the lovely glove box. I didn't thank
+you earlier.");
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 VoicePlay("R080100000_01_070");

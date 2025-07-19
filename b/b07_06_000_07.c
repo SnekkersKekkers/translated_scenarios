@@ -57,8 +57,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600000_06_420");
 MsgDisp("Himuro","Thanks.");
-MsgDisp("主人公","(I hope ｛氷室＊＊｝ finds the
-thing he wants to do.)");
+MsgDisp("主人公","(I hope ｛氷室＊＊｝ finds the thing he
+wants to do.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

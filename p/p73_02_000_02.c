@@ -97,8 +97,8 @@ But, thank you.");
     ChMotion(2,4);
     VoicePlay("P730200002_02_090");
     MsgDisp("Sassa","Ah, it's starting.");
-    MsgDisp("主人公","Thanks to ｛颯砂＊＊｝, I have
-some confidence. Thank you. I'm off then.");
+    MsgDisp("主人公","Thanks to ｛颯砂＊＊｝, I have some
+confidence. Thank you. I'm off then.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

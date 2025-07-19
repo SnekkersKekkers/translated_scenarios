@@ -11,8 +11,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,2,4,0,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","｛柊＊＊＊｝,
-｛御影＊＊｝.
+MsgDisp("主人公","｛柊＊＊＊｝, ｛御影＊＊｝.
 Are you going to have lunch now?");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);

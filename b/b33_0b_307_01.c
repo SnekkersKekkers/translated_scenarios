@@ -107,8 +107,8 @@ MsgDisp("Nanatsumori","Yeah, sorry.
 I'll buy the shoebill once I'm done
 listening.");
 MsgDisp("主人公","(Hehe.
-Seems like ｛七ツ森＊｝
-really likes the shoebill model!)");
+Seems like ｛七ツ森＊｝ really likes
+the shoebill model!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

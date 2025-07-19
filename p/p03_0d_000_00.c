@@ -22,8 +22,7 @@ ChMotion(21,0);
 ChEyeOpenLevel(21,0);
 VoicePlay("P030D00000_21_000");
 MsgDisp("Michiru","Mm, the mitarashi dango smell so good.");
-MsgDisp("主人公","Ah, ｛ひかる＊｝,
-｛みちる＊｝.
+MsgDisp("主人公","Ah, ｛ひかる＊｝, ｛みちる＊｝.
 Welcome!");
 ChEye(22,0);
 ChMouth(22,3);

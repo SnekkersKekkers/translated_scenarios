@@ -125,8 +125,8 @@ ChCheek(2,10);
 VoicePlay("B050200100_02_120");
 MsgDisp("Sassa","...Yeah.
 Yeah, for me too.");
-MsgDisp("主人公","Holding onto ｛颯砂＊＊｝ while
-walking made me feel a bit better.");
+MsgDisp("主人公","Holding onto ｛颯砂＊＊｝ while walking
+made me feel a bit better.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

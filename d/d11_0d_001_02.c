@@ -13,8 +13,7 @@ ChMotion(22,3,1);
 VoicePlay("D110D00100_22_000");
 MsgDisp("Hikaru","Ma～ri!");
 MsgDisp("主人公","Ah.
-｛みちる＊｝,
-｛ひかる＊｝.");
+｛みちる＊｝, ｛ひかる＊｝.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
@@ -63,8 +62,8 @@ MsgDisp("Michiru","Please pour your love into all kinds of
 roses.
 They are all worth raising.");
 MsgDisp("主人公","(A change in the flowerbed of my heart...?
-I guess I should ask
-｛ひかる＊｝ later.)");
+I guess I should ask ｛ひかる＊｝
+later.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

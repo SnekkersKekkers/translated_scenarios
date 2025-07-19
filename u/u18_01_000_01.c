@@ -10,8 +10,8 @@ smiling at me and interrogating me. What
 did you tell them?\"");
     MsgDisp("主人公","\"...Listen, if you have something to say,
 tell me yourself.\"");
-    MsgDisp("主人公","(What did those two ask
-｛風真＊＊｝ about?)");
+    MsgDisp("主人公","(What did those two ask ｛風真＊＊｝
+about?)");
     MsgClose();
     break ;
     case 4:
@@ -21,8 +21,8 @@ tell me yourself.\"");
 stay out of it. There's only room for two
 people in this relationship");
     MsgDisp("主人公","...");
-    MsgDisp("主人公","(What did those two ask
-｛風真＊＊｝ about...?)");
+    MsgDisp("主人公","(What did those two ask ｛風真＊＊｝
+about...?)");
     MsgClose();
     break ;
     default :

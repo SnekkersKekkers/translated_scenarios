@@ -68,10 +68,9 @@ StlEye(21,1);
 VoicePlay("D012100100_21_090");
 MsgDisp("Michiru","...Mmm, delicious!
 I'd say it's a great success▼");
-MsgDisp("主人公","(｛みちる＊｝ looks really happy! I think
-these sweets will be successful! As
-expected of ｛みちる＊｝...!
-)");
+MsgDisp("主人公","(｛みちる＊｝ looks really happy!
+I think these sweets will be successful!
+As expected of ｛みちる＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

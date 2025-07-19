@@ -28,8 +28,8 @@ ScrFadeIn(0);
 VoicePlay("D010200000_02_020");
 MsgDisp("Sassa","Aaaah...!
 That feels good!");
-MsgDisp("主人公","｛颯砂＊＊｝ are you done
-training for today?");
+MsgDisp("主人公","｛颯砂＊＊｝ are you done training for
+today?");
 StlEye(2,1);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);

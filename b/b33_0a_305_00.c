@@ -23,9 +23,9 @@ VoicePlay("B330A30500_06_000");
 MsgDisp("Himuro","...As expected.");
 VoicePlay("B330A30500_02_000");
 MsgDisp("Sassa","Not bad, Ryota.");
-MsgDisp("主人公","Amazing! Both ｛風真＊＊｝ and
-｛颯砂＊＊｝ got all three darts
-on bullseye.");
+MsgDisp("主人公","Amazing!
+Both ｛風真＊＊｝ and ｛颯砂＊＊｝ got all
+three darts on bullseye.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

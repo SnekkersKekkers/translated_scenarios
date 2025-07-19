@@ -69,8 +69,7 @@ quietly, understood?");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(My high school days will be over in the
-spring...like
-｛御影＊＊｝ said, let's
+spring...like ｛御影＊＊｝ said, let's
 spend the rest of it without any regrets!)");
     break ;
     case 4:

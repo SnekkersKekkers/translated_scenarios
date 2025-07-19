@@ -21,8 +21,7 @@ BGMPlay("BGM_C02_SASSA_A",0.01);
 MsgClose();
 ChOpen(2,254,4,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, you sure are
-borrowing lots.");
+MsgDisp("主人公","｛颯砂＊＊｝, you sure are borrowing lots.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -30,8 +29,9 @@ VoicePlay("F100210001_02_010");
 MsgDisp("Sassa","Ohh, it's you.
 Did you know?
 The limit here is 20 books");
-MsgDisp("主人公","Yeah. ｛颯砂＊＊｝, you borrowed
-20 books before. Are you a bookworm?");
+MsgDisp("主人公","Yeah.
+｛颯砂＊＊｝, you borrowed 20 books before.
+Are you a bookworm?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

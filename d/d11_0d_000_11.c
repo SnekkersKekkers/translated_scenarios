@@ -13,8 +13,9 @@ ChOpen(22,255,0,3,3,#1,#1,0,2);
 ChMotion(22,3,1);
 VoicePlay("D110D00000_22_000");
 MsgDisp("Hikaru","Ma～ri▼");
-MsgDisp("主人公","Eh∋ ｛みちる＊｝,
-｛ひかる＊｝! What's up?");
+MsgDisp("主人公","Eh∋
+｛みちる＊｝, ｛ひかる＊｝!
+What's up?");
 ChMotion(22,4,1);
 VoicePlay("D110D00000_22_010");
 MsgDisp("Hikaru","You've built a bed of flowers in your
@@ -82,8 +83,7 @@ flower bed, call Hikaru♪ Hikaru can tell
 you about \"Mari's Garden\"▼");
 MsgDisp("主人公","(A flower bed of 3 differently colored
 roses is inside me...? If I want to know
-more I can call
-｛ひかる＊｝!)");
+more I can call ｛ひかる＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

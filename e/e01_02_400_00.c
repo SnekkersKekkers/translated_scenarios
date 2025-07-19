@@ -37,8 +37,7 @@ ChMotion(2,4);
 VoicePlay("E010240000_02_010");
 MsgDisp("Sassa","Yeah maybe.
 What were you doing?");
-MsgDisp("主人公","｛みちる＊｝ is going to
-work.");
+MsgDisp("主人公","｛みちる＊｝ is going to work.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -103,8 +102,8 @@ ChMotion(21,4);
 VoicePlay("E010240000_21_050");
 MsgDisp("Michiru","I'm so sorry to have involved you.
 It's just that, alone with a boy, I'm...");
-MsgDisp("主人公","(Is ｛みちる＊｝
-embarrassed to be alone with a boy?
+MsgDisp("主人公","(Is ｛みちる＊｝ embarrassed to be
+alone with a boy?
 Maybe she's not used to it.)");
 BGMStop();
 MsgClose();

@@ -55,8 +55,7 @@ Ah, you should come too if you have time.
 The goat and I will look forward to it.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(Haha, typical
-｛御影＊＊｝. Both the
+MsgDisp("主人公","(Haha, typical ｛御影＊＊｝. Both the
 adults and the kids are having fun. Should
 I go later, too?)");
 MsgClose();

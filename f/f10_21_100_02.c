@@ -79,8 +79,8 @@ MsgDisp("Michiru","It's really painful to feel sad alone.
 Mari, let's worry together and talk about
 it?");
 MsgDisp("主人公","(She's really emotionally invested in this
-manga. ｛みちる＊｝
-really is a girly girl at heart.)");
+manga. ｛みちる＊｝ really is a girly
+girl at heart.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

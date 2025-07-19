@@ -5,8 +5,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝, do you have
-plans for spring break?");
+MsgDisp("主人公","｛七ツ森＊｝, do you have plans for
+spring break?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("F020400012_04_000");

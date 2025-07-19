@@ -18,8 +18,7 @@ ChMouth(8,4);
 VoicePlay("B150800000_08_020");
 MsgDisp("Shirahane","Do you like touchin' people?");
 MsgDisp("主人公","No.
-It's because it's
-｛大地＊＊｝?");
+It's because it's ｛大地＊＊｝?");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,1,1);

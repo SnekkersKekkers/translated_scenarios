@@ -57,7 +57,7 @@ VoicePlay("F110510001_05_060");
 MsgDisp("Hiiragi","If that is the case, try yakisoba.
 I will take you there.");
 MsgDisp("主人公","(Haha.
-｛柊＊＊＊｝ seems like he
-could go for yakisoba.)");
+｛柊＊＊＊｝ seems like he could go for
+yakisoba.)");
 MsgClose();
 ScrFadeOut(0,0);

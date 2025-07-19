@@ -13,8 +13,7 @@ MsgClose();
 ChOpen(2,255,0,0,4,#1,#1,0,1);
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","｛颯砂＊＊｝,
-｛七ツ森＊｝!
+MsgDisp("主人公","｛颯砂＊＊｝, ｛七ツ森＊｝!
 Going out together?");
 ChEye(2,0);
 ChMouth(2,4);

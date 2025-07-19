@@ -35,8 +35,8 @@ store.");
     VoicePlay("I450700000_07_030");
     MsgDisp("Mikage","Ooh, I see you have succulents, too.");
     MsgDisp("主人公","(Hehe.
-Looks like ｛御影＊＊｝
-is going to take a long time, right?)");
+Looks like ｛御影＊＊｝ is going to
+take a long time, right?)");
     break ;
     case 3:
     MsgClose();

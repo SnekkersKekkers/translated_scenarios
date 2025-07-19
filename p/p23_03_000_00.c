@@ -60,8 +60,8 @@ shortly.");
     MsgDisp("Honda","Now, let's go to battle!");
     MsgDisp("主人公","Y-Yeah!");
     MsgDisp("主人公","('Our version of Kuroda Kanbei and
-Mitsuhime', huh...｛本多＊＊｝, are you
-scheming something??)");
+Mitsuhime', huh...
+｛本多＊＊｝, are you scheming something??)");
     break ;
     default :
     DbgAssert(1);

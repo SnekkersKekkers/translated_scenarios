@@ -52,8 +52,8 @@ I'm happy!");
     MsgDisp("Kazama","Too bad the tuxedo wouldn't make it in
 time.");
     MsgDisp("主人公","Hehe, I'll have to go by myself for today!");
-    MsgDisp("主人公","(Thanks to ｛風真＊＊｝, I think
-my nerves have lessened.
+    MsgDisp("主人公","(Thanks to ｛風真＊＊｝, I think my nerves
+have lessened.
 This is my last runway, let's enjoy it.)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -66,8 +66,7 @@ This is my last runway, let's enjoy it.)");
     MsgDisp("主人公","(This year we're showing traditional
 wedding dresses. I think I was able to
 make it pretty but...)");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, did you come
-to watch?");
+    MsgDisp("主人公","Ah, ｛風真＊＊｝, did you come to watch?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

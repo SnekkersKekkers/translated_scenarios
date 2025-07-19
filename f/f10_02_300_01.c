@@ -1,8 +1,8 @@
 BGOpen("sc310",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, ｛みちる＊｝,
-｛ひかる＊｝ and...
+MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝
+and...
 ｛颯砂＊＊｝?)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
@@ -84,8 +84,7 @@ VoicePlay("F100230001_02_030");
 MsgDisp("Sassa","If Hikaru-san was eating a hamburger on a
 street corner, she'd look cool.");
 MsgDisp("主人公","(I see.
-So that's ｛ひかる＊｝'s
-gap moe...)");
+So that's ｛ひかる＊｝'s gap moe...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

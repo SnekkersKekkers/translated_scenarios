@@ -78,8 +78,7 @@ Close your eyes!");
         MsgDisp("Honda","...Amazing!
 The deep-sea corner∋ ...another
 discovery∈");
-        MsgDisp("主人公","(I wonder what ｛本多＊＊｝
-discovered?)");
+        MsgDisp("主人公","(I wonder what ｛本多＊＊｝ discovered?)");
         break ;
         default :
         DbgAssert(1);

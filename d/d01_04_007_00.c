@@ -53,8 +53,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","∈");
 VoicePlay("D010400700_04_030");
 MsgDisp("Nanatsumori","You don't have a fever...");
-MsgDisp("主人公","｛七ツ森＊｝, there are
-people here——");
+MsgDisp("主人公","｛七ツ森＊｝, there are people here——");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400700_04_040");

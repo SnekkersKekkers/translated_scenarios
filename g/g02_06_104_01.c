@@ -73,8 +73,8 @@ ChMotion(6,0);
 VoicePlay("G020610401_06_100");
 MsgDisp("Himuro","It's cool.
 I want to be like that too.");
-MsgDisp("主人公","I think ｛氷室＊＊｝ can become
-like that too?");
+MsgDisp("主人公","I think ｛氷室＊＊｝ can become like that
+too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

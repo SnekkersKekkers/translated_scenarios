@@ -125,8 +125,8 @@ VoicePlay("Q100700000_07_080");
 MsgDisp("Mikage","I see.
 You could have gone with the Hanatsubakis,
 y'know?");
-MsgDisp("主人公","No, I can't. ｛みちる＊｝
-and ｛ひかる＊｝ are
+MsgDisp("主人公","No, I can't.
+｛みちる＊｝ and ｛ひかる＊｝ are
 too busy buying souvenirs.");
 ChEye(7,0);
 ChMouth(7,0);

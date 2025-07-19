@@ -1,6 +1,6 @@
 MsgDisp("主人公","｛颯砂＊＊｝.
-You've been hanging out with
-｛風真＊＊｝ a lot lately, huh?");
+You've been hanging out with ｛風真＊＊｝
+a lot lately, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -23,8 +23,7 @@ VoicePlay("B070200001_02_030");
 MsgDisp("Sassa","That guy says very specific things
 sometimes.
 It's a bit shocking.");
-MsgDisp("主人公","Hehe, that sounds like
-｛風真＊＊｝.
+MsgDisp("主人公","Hehe, that sounds like ｛風真＊＊｝.
 What kind of things?");
 ChEye(2,0);
 ChMouth(2,4);

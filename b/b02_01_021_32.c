@@ -12,5 +12,5 @@ VoicePlay("B020102129_01_010");
 MsgDisp("Kazama","Yeah.
 I've gotten to where I look forward to it.");
 MsgDisp("主人公","(Oh, good!
-｛風真＊＊｝ seems to have
-started to love clothes like these, too!)");
+｛風真＊＊｝ seems to have started to love
+clothes like these, too!)");

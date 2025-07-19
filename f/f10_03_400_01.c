@@ -62,8 +62,8 @@ ChMotion(4,1,1);
 VoicePlay("F100340001_04_000");
 MsgDisp("Nanatsumori","Haa...so noisy.
 What are you two doing?");
-MsgDisp("主人公","｛本多＊＊｝ was guessing where
-you were, ｛七ツ森＊｝.
+MsgDisp("主人公","｛本多＊＊｝ was guessing where you were,
+｛七ツ森＊｝.
 How did you know?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -76,8 +76,7 @@ and cool...so I thought this might be it.");
 ChMouth(4,1);
 ChMotion(4,0,1);
 MsgDisp("主人公","Hehe, a cat huh...
-｛七ツ森＊｝ is
-definitely cat like?");
+｛七ツ森＊｝ is definitely cat like?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

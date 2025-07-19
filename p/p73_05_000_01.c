@@ -75,8 +75,8 @@ I think it turned out well but...)");
     MsgDisp("Hiiragi","I was so captivated that I forgot to greet
 you.");
     MsgDisp("主人公","Really?
-Hearing ｛柊＊＊＊｝ say that,
-helped me gain some confidence.");
+Hearing ｛柊＊＊＊｝ say that, helped me
+gain some confidence.");
     ChEye(5,3);
     ChMouth(5,3);
     ChMotion(5,3);

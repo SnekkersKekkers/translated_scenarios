@@ -24,8 +24,7 @@ VoicePlay("Q100C00000_05_010");
 MsgDisp("Hiiragi","I am only on the starting point.
 It'd be wonderful if I could make a
 entertainment even for future people.");
-MsgDisp("主人公","I'm sure you can do this,
-｛柊＊＊＊｝!");
+MsgDisp("主人公","I'm sure you can do this, ｛柊＊＊＊｝!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

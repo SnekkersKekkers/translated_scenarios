@@ -5,7 +5,6 @@ SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Cowbell motif key chain\")");
 MsgDisp("主人公","(It sounds just like the real thing. How
 retro and cute. I wonder if
-｛御影＊＊｝ put a bell
-on Molly too!)");
+｛御影＊＊｝ put a bell on Molly too!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -84,5 +84,4 @@ MsgDisp("Kazama","Ha∋
 You're invincible.
 If you're going to ask, do it alone.");
 MsgDisp("主人公","(...While we talked about that story,
-｛風真＊＊｝ and I had fun
-going home.)");
+｛風真＊＊｝ and I had fun going home.)");

@@ -14,8 +14,7 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,0);
     ChMotion(1,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","｛風真＊＊｝, thanks for walking
-me back.");
+    MsgDisp("主人公","｛風真＊＊｝, thanks for walking me back.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -48,8 +47,8 @@ See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Hehe, I hope ｛風真＊＊｝ and
-I get along well this year!)");
+    MsgDisp("主人公","(Hehe, I hope ｛風真＊＊｝ and I get along
+well this year!)");
     break ;
     case 4:
     case 5:

@@ -1,6 +1,5 @@
 MsgDisp("主人公","What do you usually talk about with
-｛氷室＊＊｝ and
-｛御影＊＊｝?");
+｛氷室＊＊｝ and ｛御影＊＊｝?");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,2);

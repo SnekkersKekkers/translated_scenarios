@@ -67,8 +67,7 @@ StlMouth(7,0);
 VoicePlay("D010700700_45_000");
 MsgDisp("Woman Customer","Kyaa, how cool!
 He has such a nice smile!");
-MsgDisp("主人公","｛御影＊＊｝, what are
-you...");
+MsgDisp("主人公","｛御影＊＊｝, what are you...");
 StlEyeOpenLevel(7,#1);
 VoicePlay("D010700700_07_010");
 MsgDisp("Mikage","Oh, it's you∋

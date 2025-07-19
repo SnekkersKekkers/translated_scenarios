@@ -10,9 +10,9 @@ MsgDisp("Honda?","Mii-kun, come out.");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝! Are you looking for
-｛七ツ森＊｝ again? He
-really is like a lost cat.");
+MsgDisp("主人公","｛本多＊＊｝!
+Are you looking for ｛七ツ森＊｝ again?
+He really is like a lost cat.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -80,8 +80,7 @@ VoicePlay("F100340002_04_020");
 MsgDisp("Nanatsumori","I'm a person, so don't treat me like a
 cat.");
 MsgDisp("主人公","Hehe.
-But just where were you,
-｛七ツ森＊｝?");
+But just where were you, ｛七ツ森＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);

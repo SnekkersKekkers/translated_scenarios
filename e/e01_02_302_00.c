@@ -38,8 +38,7 @@ VoicePlay("E010230200_02_010");
 MsgDisp("Sassa","Oh, that's right, I got food advice from
 Mikage-sensei.");
 MsgDisp("主人公","I see.
-｛御影＊＊｝, you're a
-vegetable expert!");
+｛御影＊＊｝, you're a vegetable expert!");
 ChMouth(2,5);
 ChEye(7,0);
 ChMouth(7,0);
@@ -96,8 +95,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("E010230200_07_070");
-MsgDisp("Mikage","｛主人公｝, don't you think so
-too?");
+MsgDisp("Mikage","｛主人公｝, don't you think so too?");
 ChMotion(2,0);
 MsgDisp("主人公","Eh, me?");
 ChEye(7,0);

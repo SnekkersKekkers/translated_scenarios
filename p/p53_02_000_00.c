@@ -105,8 +105,8 @@ don't you?");
     VoicePlay("P530200000_02_100");
     MsgDisp("Sassa","I'm looking forwards to it too.
 See you.");
-    MsgDisp("主人公","(Thanks to ｛颯砂＊＊｝, I'm
-looking forwards to playing...?
+    MsgDisp("主人公","(Thanks to ｛颯砂＊＊｝, I'm looking
+forwards to playing...?
 Yeah, I feel like I can do it!)");
     break ;
     default :

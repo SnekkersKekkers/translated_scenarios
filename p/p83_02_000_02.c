@@ -28,8 +28,8 @@ Management will talk to them.");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P830200002_02_000");
-    MsgDisp("Sassa","｛主人公｝, it must be difficult
-to be in the student council, huh?");
+    MsgDisp("Sassa","｛主人公｝, it must be difficult to be in
+the student council, huh?");
     MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
 That is also an important part of
 management work, so it's alright.");
@@ -98,8 +98,8 @@ difficult.");
     VoicePlay("P830200002_02_060");
     MsgDisp("Sassa","There's a quarrel right?
 I'm free, so I'll help you.");
-    MsgDisp("主人公","Thank you. but ｛颯砂＊＊｝ won't
-be able to enjoy the cultural festival?");
+    MsgDisp("主人公","Thank you. but ｛颯砂＊＊｝ won't be able
+to enjoy the cultural festival?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -107,8 +107,8 @@ be able to enjoy the cultural festival?");
     MsgDisp("Sassa","If I'm with you, I would enjoy even a
 fight.");
     MsgDisp("主人公","(It'd be troubling if you enjoyed that
-but...If ｛颯砂＊＊｝ is there,
-that's reassuring!)");
+but...If ｛颯砂＊＊｝ is there, that's
+reassuring!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

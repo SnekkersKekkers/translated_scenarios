@@ -35,8 +35,7 @@ MsgDisp("Kazama","And ...this one!
 Flying around us with this delicate
 distance, that's Inori Firefly.");
 MsgDisp("主人公","Hehe.
-The, what about ｛風真＊＊｝
-firefly?");
+The, what about ｛風真＊＊｝ firefly?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

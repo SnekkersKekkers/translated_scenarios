@@ -96,9 +96,9 @@ ChMotion(7,1);
 VoicePlay("B330C30701_07_040");
 MsgDisp("Mikage","Our next field lesson will be at the zoo,
 observing the monkey mountain.");
-MsgDisp("主人公","(Hehe. I'm looking forward to
-｛御影＊＊｝'s next field
-lesson.')");
+MsgDisp("主人公","(Hehe.
+I'm looking forward to ｛御影＊＊｝'s
+next field lesson. ')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

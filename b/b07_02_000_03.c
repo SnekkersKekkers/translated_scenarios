@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛颯砂＊＊｝, besides Track and
-Field, what other sports do you like?");
+MsgDisp("主人公","｛颯砂＊＊｝, besides Track and Field, what
+other sports do you like?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -35,8 +35,7 @@ VoicePlay("B070200000_02_150");
 MsgDisp("Sassa","Really though, running, jumping, and
 throwing.
 Track and field has it all.");
-MsgDisp("主人公","(Any sport is good for
-｛颯砂＊＊｝.)");
+MsgDisp("主人公","(Any sport is good for ｛颯砂＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

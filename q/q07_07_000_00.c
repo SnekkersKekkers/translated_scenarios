@@ -35,8 +35,8 @@ VoicePlay("Q070700000_07_020");
 MsgDisp("Mikage","Oh come on...it's supposed to be fun.
 Are you having a good time?");
 MsgDisp("主人公","Of course. Extracurricular activities with
-｛御影＊＊｝ as just the
-two of us. It'll definitely be fun.");
+｛御影＊＊｝ as just the two of us.
+It'll definitely be fun.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -67,8 +67,7 @@ ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("Q070700000_07_050");
 MsgDisp("Mikage","Yeah, they say it's 105 meters high.");
-MsgDisp("主人公","｛御影＊＊｝, are you
-afraid of heights?");
+MsgDisp("主人公","｛御影＊＊｝, are you afraid of heights?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -127,8 +126,8 @@ ChMotion(7,3);
 VoicePlay("Q070700000_07_100");
 MsgDisp("Mikage","I guess he came to a foreign land, to
 plant some flowers from his homeland.");
-MsgDisp("主人公","｛御影＊＊｝, if you were
-him, what flowers would you plant?");
+MsgDisp("主人公","｛御影＊＊｝, if you were him, what
+flowers would you plant?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

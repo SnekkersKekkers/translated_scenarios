@@ -254,7 +254,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("A020700000_07_190");
-MsgDisp("Mikage","Class over! Didn't I say \"last question\"?
+MsgDisp("Mikage","No more! Didn't I say \"last question\"?
 If I have to tell you everything, a year
 isn't enough!");
 SEPlay("EV_SE_864");

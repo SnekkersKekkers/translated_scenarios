@@ -48,8 +48,7 @@ dilemma...
 In this country?");
 SEPlay("EV_SE_GAYA_008",0,0.7);
 Wait(90,0);
-MsgDisp("主人公","(Come on, he's become
-｛本多＊＊｝ again!)");
+MsgDisp("主人公","(Come on, he's become ｛本多＊＊｝ again!)");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);

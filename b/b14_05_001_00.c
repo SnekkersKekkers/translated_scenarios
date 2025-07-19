@@ -58,8 +58,7 @@ VoicePlay("B140500100_05_050");
 MsgDisp("Hiiragi","How about it?
 Won't you come to our side of the world?");
 MsgDisp("主人公","Ehhh∋");
-MsgDisp("主人公","｛柊＊＊＊｝, was that a
-joke...?)");
+MsgDisp("主人公","｛柊＊＊＊｝, was that a joke...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

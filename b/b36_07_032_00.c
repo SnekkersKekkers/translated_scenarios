@@ -10,8 +10,8 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360703200_07_000");
 MsgDisp("Mikage","They were having fun today, weren't they?");
-MsgDisp("主人公","Hehe, it looked like
-｛御影＊＊｝ had fun too.");
+MsgDisp("主人公","Hehe, it looked like ｛御影＊＊｝ had
+fun too.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

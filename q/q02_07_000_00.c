@@ -26,8 +26,7 @@ your free period freely.");
     VoiceEVSPlay(7);
     VoicePlay("Q020700000_07_010");
     MsgDisp("Mikage","｛主人公｝, good morning.");
-    MsgDisp("主人公","Good morning,
-｛御影＊＊｝.
+    MsgDisp("主人公","Good morning, ｛御影＊＊｝.
 Did something happen?");
     ChEye(7,2);
     ChMouth(7,3);
@@ -78,8 +77,9 @@ opportunity. Make sure to enjoy it to the
 fullest so you won't regret it in the end.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(Hmmm...｛御影＊＊｝ looks lonely...I feel
-a bit bad.)");
+        MsgDisp("主人公","(Hmmm...
+｛御影＊＊｝ looks lonely...
+I feel a bit bad.)");
         break ;
         default :
         DbgAssert(0);
@@ -94,8 +94,7 @@ a bit bad.)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q020700000_07_080");
     MsgDisp("Mikage","Oh, you seem energetic today.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝. good
-morning!");
+    MsgDisp("主人公","Ah, ｛御影＊＊｝. good morning!");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -138,9 +137,9 @@ participant, the event will go ahead.");
         ChMotion(7,0);
         VoicePlay("Q020700000_07_140");
         MsgDisp("Mikage","All right, we're off!");
-        MsgDisp("主人公","(Hehe, ｛御影＊＊｝ seems
-really excited. I'm really excited to
-spend this free period together with him!)");
+        MsgDisp("主人公","(Hehe, ｛御影＊＊｝ seems really
+excited. I'm really excited to spend this
+free period together with him!)");
         break ;
         case 1:
         ChEye(7,2);

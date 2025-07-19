@@ -13,5 +13,4 @@ VoicePlay("B020502112_05_010");
 MsgDisp("Hiiragi","No, it suits you very much.
 Excellent job on the sum of it.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems really
-happy!)");
+｛柊＊＊＊｝ seems really happy!)");

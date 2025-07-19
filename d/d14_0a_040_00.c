@@ -6,8 +6,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140A04000_02_000");
 MsgDisp("Sassa","What's going on with Ryota today?");
-MsgDisp("主人公","He's talking to
-｛御影＊＊｝.");
+MsgDisp("主人公","He's talking to ｛御影＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -90,10 +89,9 @@ ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("D140A04000_02_060");
 MsgDisp("Sassa","Ryota, this way!");
-MsgDisp("主人公","(Hehe! The conversation about
-｛風真＊＊｝ was funny. But I
-worry what they'd say about me when I'm
-not here...)");
+MsgDisp("主人公","(Hehe! The conversation about ｛風真＊＊｝
+was funny. But I worry what they'd say
+about me when I'm not here...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -19,8 +19,7 @@ VoicePlay("P530D00002_22_000");
 MsgDisp("Hikaru","It's true.
 So you don't need Hikaru's and other's
 support?");
-MsgDisp("主人公","｛みちる＊｝,
-｛ひかる＊｝!
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝!
 Did you come to see the performance?");
 ChEye(21,0);
 ChMouth(21,3);

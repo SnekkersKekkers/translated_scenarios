@@ -16,8 +16,7 @@ VoicePlay("P840100001_01_000");
 MsgDisp("Kazama","I have the \"lost and found\"-san's lost
 item.");
 MsgDisp("主人公","That's my wallet!
-Thank you for finding it,
-｛風真＊＊｝...");
+Thank you for finding it, ｛風真＊＊｝...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

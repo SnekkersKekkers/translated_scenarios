@@ -47,8 +47,8 @@ ChMotion ( 2,4 ) ;
 VoicePlay ( "D150002501_02_030" ) ;
 MsgDisp ( "Sassa","Woah.
 You're really into this." ) ;
-MsgDisp ( "主人公","(Is ｛柊＊＊＊｝ actually the
-hotpot master?)" ) ;
+MsgDisp ( "主人公","(Is ｛柊＊＊＊｝ actually the hotpot
+master?)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

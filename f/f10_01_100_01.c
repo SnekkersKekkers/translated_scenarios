@@ -76,8 +76,7 @@ BGMStop();
 ChClose(1);
 VoicePlay("F100110001_01_060");
 MsgDisp("Kazama","Hurry up.");
-MsgDisp("主人公","(I guess ｛風真＊＊｝ figured
-it out?
+MsgDisp("主人公","(I guess ｛風真＊＊｝ figured it out?
 I won't ask him about it...)");
 MsgClose();
 ScrFadeOut(0,0);

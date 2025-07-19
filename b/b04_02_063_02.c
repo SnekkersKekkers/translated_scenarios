@@ -101,8 +101,7 @@ Let's go!");
         SEPlay("EV_SE_533");
         SEWait();
         MsgDisp("主人公","(That squishing sound...?
-｛颯砂＊＊｝, did your shoes get
-wet?)");
+｛颯砂＊＊｝, did your shoes get wet?)");
         break ;
         default :
         DbgAssert(1);

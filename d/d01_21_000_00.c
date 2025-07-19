@@ -5,8 +5,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The culture festival will end soon...)");
 MsgDisp("主人公","(Huh?
-Over there, is that
-｛みちる＊｝?)");
+Over there, is that ｛みちる＊｝?)");
 MsgClose();
 ScrFadeOut(0);
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
@@ -110,8 +109,7 @@ MsgDisp("Michiru","Hehe.
 It's fine.
 I'm relieved it was Mari.");
 MsgDisp("主人公","Uhm...
-｛みちる＊｝, what are you
-going to do?");
+｛みちる＊｝, what are you going to do?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,1);
@@ -134,8 +132,8 @@ MsgDisp("Michiru","I thought it would be better for the two
 of us if I gave an honest reply instead of
 getting his hopes up and making him wait.");
 MsgDisp("主人公","True.
-But ｛みちる＊｝, you look
-really cute when you get shy, huh?");
+But ｛みちる＊｝, you look really cute
+when you get shy, huh?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);

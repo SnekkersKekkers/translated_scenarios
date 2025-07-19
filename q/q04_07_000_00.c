@@ -21,9 +21,8 @@ around with me?");
     MsgDisp("Mikage","Oh, good morning.
 What's up?");
     MsgDisp("主人公","Good morning.
-｛御影＊＊｝, do you
-already have plans for today's free
-period?");
+｛御影＊＊｝, do you already have plans
+for today's free period?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -42,8 +41,7 @@ around with me?");
     VoicePlay("Q040700000_07_030");
     MsgDisp("Mikage","Oh, morning.
 You look excited today.");
-    MsgDisp("主人公","Yes, and you,
-｛御影＊＊｝?");
+    MsgDisp("主人公","Yes, and you, ｛御影＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

@@ -28,8 +28,7 @@ shouldn't you aim for the first place?");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700001_07_020");
-    MsgDisp("Mikage","｛主人公｝, those are good
-results.");
+    MsgDisp("Mikage","｛主人公｝, those are good results.");
     MsgDisp("主人公","Yes, thank you very much.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -49,11 +48,10 @@ Then you can accomplish anything.");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("N020700001_07_040");
-    MsgDisp("Mikage","｛主人公｝, those are good
-results.");
-    MsgDisp("主人公","｛御影＊＊｝, thank you
-very much. But...I think I could have
-tried a little harder.");
+    MsgDisp("Mikage","｛主人公｝, those are good results.");
+    MsgDisp("主人公","｛御影＊＊｝, thank you very much.
+But...I think I could have tried a little
+harder.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -82,8 +80,8 @@ I'll be here.");
     ChMotion(7,2);
     VoicePlay("N020700001_07_080");
     MsgDisp("Mikage","See ya.");
-    MsgDisp("主人公","(When ｛御影＊＊｝
-supports me, I feel even more determined!)");
+    MsgDisp("主人公","(When ｛御影＊＊｝ supports me, I feel
+even more determined!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(7,0,0);

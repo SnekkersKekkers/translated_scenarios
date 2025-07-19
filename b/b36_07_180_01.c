@@ -70,9 +70,8 @@ ChMotion(7,5);
 VoicePlay("B360718001_07_080");
 MsgDisp("Mikage","So it's okay.
 Go and do what you want.");
-MsgDisp("主人公","(Talkin to ｛御影＊＊｝
-makes me feel more at ease about my
-future...)");
+MsgDisp("主人公","(Talkin to ｛御影＊＊｝ makes me feel
+more at ease about my future...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

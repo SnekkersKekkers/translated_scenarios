@@ -67,8 +67,7 @@ VoicePlay("G020630101_06_090");
 MsgDisp("Himuro","Please continue to provide a place for us.
 Thank you.");
 MsgDisp("主人公","(A queen, flowers and a well...huh?
-｛氷室＊＊｝ thought about me that
-way...)");
+｛氷室＊＊｝ thought about me that way...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

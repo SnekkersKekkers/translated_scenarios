@@ -18,6 +18,6 @@ VoicePlay("B020400011_04_010");
 MsgDisp("Nanatsumori","Cute.
 I picked it with you in mind, so that's
 just natural.");
-MsgDisp("主人公","(That's a little embarrassing...But
-｛七ツ森＊｝ seems very
-happy. I'm glad I wore it!)");
+MsgDisp("主人公","(That's a little embarrassing...
+But ｛七ツ森＊｝ seems very happy.
+I'm glad I wore it!)");

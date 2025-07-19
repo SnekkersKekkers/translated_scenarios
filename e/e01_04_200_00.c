@@ -100,8 +100,8 @@ SEPlay("EV_SE_665",0.5,0.3);
 SEStop("EV_SE_717",1);
 Wait(20,0);
 MsgDisp("主人公","(｛七ツ森＊｝ is smiling.
-He must have heard ｛風真＊＊｝
-calling him...)");
+He must have heard ｛風真＊＊｝ calling
+him...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

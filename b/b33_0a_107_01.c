@@ -156,9 +156,9 @@ ChMotion(2,4);
 VoicePlay("B330A10701_02_060");
 MsgDisp("Sassa","That sounds kind of scary...
 I've had enough.");
-MsgDisp("主人公","(I was caught off guard when
-｛風真＊＊｝ suddenly started
-talking about the pinwheel...)");
+MsgDisp("主人公","(I was caught off guard when ｛風真＊＊｝
+suddenly started talking about the
+pinwheel...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

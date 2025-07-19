@@ -89,8 +89,7 @@ Let's go.");
     VoicePlay("S090200000_02_080");
     MsgDisp("Sassa","It's a mess with so many moving people.");
     MsgDisp("主人公","Phew...
-｛颯砂＊＊｝, thanks for guarding
-me.");
+｛颯砂＊＊｝, thanks for guarding me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

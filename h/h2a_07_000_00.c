@@ -13,8 +13,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("H2A0700000_07_000");
     MsgDisp("Mikage","Winning championships, isn't that
 amazing?.");
-    MsgDisp("主人公","Yes, ｛御影＊＊｝, we did
-it!");
+    MsgDisp("主人公","Yes, ｛御影＊＊｝, we did it!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

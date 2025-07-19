@@ -71,9 +71,9 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("E010220100_03_050");
 MsgDisp("Honda","What?");
-MsgDisp("主人公","｛本多＊＊｝ saw you,
-｛颯砂＊＊｝, so he thought it
-wouldn't be nice not to say hello.");
+MsgDisp("主人公","｛本多＊＊｝ saw you, ｛颯砂＊＊｝, so he
+thought it wouldn't be nice not to say
+hello.");
 ChMouth(2,2);
 ChEye(3,0);
 ChMouth(3,3);

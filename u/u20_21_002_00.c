@@ -8,8 +8,8 @@ ChOpen(21,255,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U202100200_21_000");
 MsgDisp("Michiru","Hehe, I did a lot of shopping.");
-MsgDisp("主人公","｛みちる＊｝, you really
-like makeup don't you?");
+MsgDisp("主人公","｛みちる＊｝, you really like makeup
+don't you?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

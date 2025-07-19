@@ -9,8 +9,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010320100_03_000");
-MsgDisp("Honda","｛主人公｝, you went to the flea
-market too?");
+MsgDisp("Honda","｛主人公｝, you went to the flea market
+too?");
 MsgDisp("主人公","Ah, ｛本多＊＊｝ too?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -38,8 +38,8 @@ VoicePlay("E010320100_04_010");
 MsgDisp("Nanatsumori","Yo.
 Are you also shopping at the flea market?");
 MsgDisp("主人公","Yeah, I'm shopping.
-｛七ツ森＊｝ did you
-decide on any accessories yet?");
+｛七ツ森＊｝ did you decide on any
+accessories yet?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
@@ -53,8 +53,7 @@ ChMotion(4,1,1);
 VoicePlay("E010320100_04_020");
 MsgDisp("Nanatsumori","You can't just call people indecisive.");
 MsgDisp("主人公","I'm curious to see what accessories
-｛七ツ森＊｝ is
-interested in...");
+｛七ツ森＊｝ is interested in...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -110,8 +109,8 @@ BGMStop();
 ChClose(3);
 VoicePlay("E010320100_03_070");
 MsgDisp("Honda","Mii-kun, wait up!");
-MsgDisp("主人公","(Hehe, looks like ｛本多＊＊｝
-and ｛七ツ森＊｝ are
-enjoying the flea market!)");
+MsgDisp("主人公","(Hehe, looks like ｛本多＊＊｝ and
+｛七ツ森＊｝ are enjoying the flea
+market!)");
 MsgClose();
 ScrFadeOut(0,0);

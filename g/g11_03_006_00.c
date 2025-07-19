@@ -1,9 +1,8 @@
 BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The introduction text that
-｛本多＊＊｝ came up with was
-well-received...)");
+MsgDisp("主人公","(The introduction text that ｛本多＊＊｝
+came up with was well-received...)");
 MsgDisp("主人公","'A book for adults to meet their high
 school selves, and for high school
 students to meet themselves tomorrow'
@@ -12,8 +11,8 @@ VoicePlay("G110300600_42_000");
 MsgDisp("Manager","Honda-kun's ＰＯＰ is great, huh?
 One day I'll ask you to do one too.");
 MsgDisp("主人公","Ah, yes!
-I don't think I can do it like
-｛本多＊＊｝, but it looks fun...");
+I don't think I can do it like ｛本多＊＊｝,
+but it looks fun...");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -24,9 +23,9 @@ BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Good work. ｛本多＊＊｝'s
-introductory text was well-received, and
-even praised by the manager.'");
+MsgDisp("主人公","Good work. ｛本多＊＊｝'s introductory text
+was well-received, and even praised by the
+manager.'");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);

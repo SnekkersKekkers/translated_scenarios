@@ -11,17 +11,16 @@ ChMotion(5,0);
 VoicePlay("G020530001_05_010");
 MsgDisp("Hiiragi","Lately, we've been spending more time
 together as a group of four, haven't we?");
-MsgDisp("主人公","｛氷室＊＊｝ and
-｛御影＊＊｝?");
+MsgDisp("主人公","｛氷室＊＊｝ and ｛御影＊＊｝?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("G020530001_05_020");
 MsgDisp("Hiiragi","Yes. I'm pleased that they take the
 trouble to look out for me, especially
 Inori-kun, even though he's younger.");
-MsgDisp("主人公","Hehe. Despite how ｛氷室＊＊｝
-appears, he might actually enjoy looking
-out for others?");
+MsgDisp("主人公","Hehe.
+Despite how ｛氷室＊＊｝ appears, he might
+actually enjoy looking out for others?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020530001_05_030");

@@ -10,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","I didn't expect ｛氷室＊＊｝ to
-choose a place like this.");
+MsgDisp("主人公","I didn't expect ｛氷室＊＊｝ to choose a
+place like this.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

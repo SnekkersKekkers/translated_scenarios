@@ -5,8 +5,8 @@ ChMotion(7,0);
 VoicePlay("G020720000_07_000");
 MsgDisp("Mikage","Recently, several boys have come to me for
 advice.");
-MsgDisp("主人公","｛御影＊＊｝ is an
-easy-to-talk-to teacher, after all.");
+MsgDisp("主人公","｛御影＊＊｝ is an easy-to-talk-to
+teacher, after all.");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,3);

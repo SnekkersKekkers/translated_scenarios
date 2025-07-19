@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, ｛風真＊＊｝ what were you
-like in middle school?");
+MsgDisp("主人公","Hey, ｛風真＊＊｝ what were you like in
+middle school?");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,4);
@@ -43,9 +43,9 @@ VoicePlay("B070100000_01_340");
 MsgDisp("Kazama","When I got to have a school entrance
 ceremony with cherry blossoms again, it
 really hit me that I was back.");
-MsgDisp("主人公","Yeah. I was also really happy to have been
-able to enter high school with
-｛風真＊＊｝.");
+MsgDisp("主人公","Yeah.
+I was also really happy to have been able
+to enter high school with ｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -8,8 +8,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛七ツ森＊｝'s
-modeling agency!)");
+snacks to ｛七ツ森＊｝'s modeling
+agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -30,10 +30,9 @@ I'm delivering from Cafe Alucard.");
     ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400005_04_000");
     MsgDisp("Nanatsumori","Are you...working?");
-    MsgDisp("主人公","｛七ツ森＊｝! Yeah, it's
-my first delivery job.
-｛七ツ森＊｝, are you on
-break?");
+    MsgDisp("主人公","｛七ツ森＊｝!
+Yeah, it's my first delivery job.
+｛七ツ森＊｝, are you on break?");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,1,1);
@@ -62,8 +61,8 @@ I did it!)");
     case 4:
     case 5:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛七ツ森＊｝'s
-modeling agency!)");
+snacks to ｛七ツ森＊｝'s modeling
+agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);

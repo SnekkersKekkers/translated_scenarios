@@ -7,8 +7,8 @@ VoicePlay("B070100002_01_150");
 MsgDisp("Kazama","Are you talking about Honda and
 Nanatsumori?");
 MsgDisp("主人公","Yeah.
-｛風真＊＊｝ also looks like
-he's having fun.");
+｛風真＊＊｝ also looks like he's having
+fun.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);

@@ -18,8 +18,7 @@ How did ｛本多＊＊｝ answer...?)");
 me they would tell me a secret about you.
 You should me it first.");
     MsgDisp("主人公","(Ehhh∋ What did you guys talk about? But
-｛本多＊＊｝ can't keep secrets
-anyway...)");
+｛本多＊＊｝ can't keep secrets anyway...)");
     break ;
     default :
     DbgAssert(1);

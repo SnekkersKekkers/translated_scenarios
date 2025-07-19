@@ -6,8 +6,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("U100D00000_21_000");
 MsgDisp("Michiru","Mari.");
-MsgDisp("主人公","｛みちる＊｝,
-｛ひかる＊｝.
+MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 What's up?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -53,10 +52,9 @@ Well then, see you after school.");
     VoicePlay("U100D00000_22_030");
     MsgDisp("Hikaru","I have a lot of things I want to ask you▼
 Are you prepared? A bientot! Mari!");
-    MsgDisp("主人公","(A sleepover at
-｛みちる＊｝ and
-｛ひかる＊｝'s home. This
-will be fun!)");
+    MsgDisp("主人公","(A sleepover at ｛みちる＊｝ and
+｛ひかる＊｝'s home.
+This will be fun!)");
     break ;
     case 1:
     ChEye(22,2);

@@ -3,8 +3,7 @@ ChClose(3,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Hah...today didn't go well...)");
 SEPlay("EV_SE_579");
-MsgDisp("主人公","Oh, a phone call. ...from
-｛本多＊＊｝?");
+MsgDisp("主人公","Oh, a phone call. ...from ｛本多＊＊｝?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Hello?");

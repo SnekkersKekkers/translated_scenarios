@@ -58,8 +58,7 @@ ScrFadeIn(0);
 VoicePlay("D010400400_04_050");
 MsgDisp("Nanatsumori","...Perfect.");
 MsgDisp("主人公","Amazing...
-｛七ツ森＊｝ really looks
-like a girl∈");
+｛七ツ森＊｝ really looks like a girl∈");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);

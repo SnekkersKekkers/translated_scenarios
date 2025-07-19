@@ -52,8 +52,8 @@ MsgDisp("School Girl A","There's still time.
 Go run after him!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO",0,0.6);
 SEWait();
-MsgDisp("主人公","(Maybe...The gaze ｛氷室＊＊｝ said
-he felt belonged to them? I wonder if he's
+MsgDisp("主人公","(Maybe...The gaze ｛氷室＊＊｝ said he felt
+belonged to them? I wonder if he's
 popular.)");
 MsgClose();
 ScrFadeOut(0,0);

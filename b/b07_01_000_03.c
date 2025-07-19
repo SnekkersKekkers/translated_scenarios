@@ -8,8 +8,8 @@ MsgDisp("Kazama","Not really.
 I don't do any.
 Is there a problem?");
 MsgDisp("主人公","There's no problem.
-Since ｛風真＊＊｝ is also good
-at physical activity.");
+Since ｛風真＊＊｝ is also good at
+physical activity.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

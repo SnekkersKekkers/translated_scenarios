@@ -18,8 +18,8 @@ VoicePlay("Q240300000_03_010");
 MsgDisp("Honda","Aah, you did it huh!
 I'm never forgiving it, here, you fight
 back with me!");
-MsgDisp("主人公","(Seems that ｛本多＊＊｝ quite
-likes these kinda stuff...
+MsgDisp("主人公","(Seems that ｛本多＊＊｝ quite likes these
+kinda stuff...
 Okay, me too!)");
 EnvStop(1);
 EnvAutoSet(0);

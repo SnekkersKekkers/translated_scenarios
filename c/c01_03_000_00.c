@@ -20,8 +20,7 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("C010300000_03_020");
 MsgDisp("Honda","...Sorry!");
 MsgDisp("主人公","Eh?
-Why is ｛本多＊＊｝ the one
-saying...");
+Why is ｛本多＊＊｝ the one saying...");
 VoicePlay("C010300000_03_030");
 MsgDisp("Honda","If I just talked to you properly like this
 to start with, I...

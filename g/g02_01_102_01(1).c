@@ -28,8 +28,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110201_01_030");
 MsgDisp("Kazama","...Hey, do you think we are becoming a
 pair worthy of such a special place?");
-MsgDisp("主人公","｛風真＊＊｝ is special,
-though?");
+MsgDisp("主人公","｛風真＊＊｝ is special, though?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);

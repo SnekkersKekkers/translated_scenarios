@@ -71,9 +71,9 @@ VoicePlay("G020140003_01_080");
 MsgDisp("Kazama","Yep.
 It's nothing fancy, but it's definitely a
 fragrant wood.");
-MsgDisp("主人公","That's amazing! So you've had a really
-discerning eye since you were little,
-｛風真＊＊｝.");
+MsgDisp("主人公","That's amazing!
+So you've had a really discerning eye
+since you were little, ｛風真＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -102,9 +102,8 @@ ChMouth(1,3);
 VoicePlay("G020140003_01_120");
 MsgDisp("Kazama","So you understand why we can't sell it at
 a high price, yeah?");
-MsgDisp("主人公","(I'm sure that ｛風真＊＊｝ has
-had a good eye for things since he was
-little...)");
+MsgDisp("主人公","(I'm sure that ｛風真＊＊｝ has had a good
+eye for things since he was little...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

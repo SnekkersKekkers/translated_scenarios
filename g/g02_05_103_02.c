@@ -34,8 +34,7 @@ like today, it may lead to a big miracle,
 don't you think?");
 MsgDisp("主人公","Hehe!");
 MsgDisp("主人公","(I'm kind of looking forward to matching
-outfits with ｛柊＊＊＊｝
-again.)");
+outfits with ｛柊＊＊＊｝ again.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

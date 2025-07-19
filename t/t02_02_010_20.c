@@ -5,8 +5,8 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 MsgDisp("主人公","I feel the same way.
-I'd love to join ｛颯砂＊＊｝ in
-achieving his dream.");
+I'd love to join ｛颯砂＊＊｝ in achieving
+his dream.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -14,8 +14,8 @@ ChCheek(2,10);
 VoicePlay("T020201020_02_000");
 MsgDisp("Sassa","...Seriously, together with me?...?");
 MsgDisp("主人公","Yes.
-I'm sorry I didn't notice when
-｛颯砂＊＊｝ was suffering.");
+I'm sorry I didn't notice when ｛颯砂＊＊｝
+was suffering.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

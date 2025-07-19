@@ -85,8 +85,8 @@ half-hearted.");
     MsgDisp("Mikage","I'll make sure to prepare myself, and eat
 this.
 Thanks.");
-    MsgDisp("主人公","｛御影＊＊｝, you don't
-have to force yourself to eat it...");
+    MsgDisp("主人公","｛御影＊＊｝, you don't have to force
+yourself to eat it...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -95,8 +95,7 @@ have to force yourself to eat it...");
 I'll make sure to accept your feelings in
 my stomach.");
     MsgDisp("主人公","(Aah, I wish I had made them better...
-I feel bad for
-｛御影＊＊｝...)");
+I feel bad for ｛御影＊＊｝...)");
     MsgClose();
     BGMStop();
     MsgClose();

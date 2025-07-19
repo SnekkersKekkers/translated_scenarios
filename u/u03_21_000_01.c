@@ -35,8 +35,7 @@ now...)");
     VoicePlay("U032100001_21_030");
     MsgDisp("Michiru","Thank you so much for today.
 See you later.");
-    MsgDisp("主人公","Ok, see you soon
-｛みちる＊｝!");
+    MsgDisp("主人公","Ok, see you soon ｛みちる＊｝!");
     break ;
     case 1:
     MsgDisp("主人公","I'm sorry but...

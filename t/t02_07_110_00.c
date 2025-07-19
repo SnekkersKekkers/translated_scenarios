@@ -2,8 +2,8 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("T020711000_07_000");
-MsgDisp("Mikage?","｛主人公｝, would you like to go
-out with me?");
+MsgDisp("Mikage?","｛主人公｝, would you like to go out with
+me?");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);

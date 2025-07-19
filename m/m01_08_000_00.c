@@ -67,8 +67,7 @@ ChMouth(8,0);
 VoicePlay("M010800000_08_090");
 VoiceEVSPlay(8);
 MsgDisp("Shirahane","Atta girl.
-N'that case, night night,
-｛主人公｝.");
+N'that case, night night, ｛主人公｝.");
 MsgClose();
 SEPlay("EV_SE_690",0.2,0.5);
 BGMStop();
@@ -77,6 +76,5 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(I made ｛大地＊＊｝ worry
-about me.
+MsgDisp("主人公","(I made ｛大地＊＊｝ worry about me.
 If I don't get better fast...!)");

@@ -59,8 +59,8 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220000_02_090");
 MsgDisp("Sassa","The taking it easy's the hard part...");
-MsgDisp("主人公","(I think ｛颯砂＊＊｝'s not quite
-his usual self today...)");
+MsgDisp("主人公","(I think ｛颯砂＊＊｝'s not quite his usual
+self today...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -72,8 +72,8 @@ VoicePlay("B330C20401_07_040");
 MsgDisp("Mikage","Yes yes, I see how it is.
 I'm alone in any case.");
 MsgDisp("主人公","(Hehe.
-I wonder if ｛御影＊＊｝
-is lonely living alone?)");
+I wonder if ｛御影＊＊｝ is lonely
+living alone?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(5,0);

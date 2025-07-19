@@ -102,8 +102,7 @@ VoicePlay("D140A06102_01_070");
 MsgDisp("Kazama","Well, he said he's a step ahead of me so
 it's fine, right?");
 MsgDisp("主人公","(Um...they're definitely talking about the
-relationship between ｛氷室＊＊｝
-and me.)");
+relationship between ｛氷室＊＊｝ and me.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

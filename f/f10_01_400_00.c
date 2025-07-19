@@ -9,8 +9,7 @@ VoiceEVSPlay(2);
 VoicePlay("F100140000_02_000");
 MsgDisp("Sassa","｛主人公｝.
 Good timing.");
-MsgDisp("主人公","｛颯砂＊＊｝,
-｛風真＊＊｝.
+MsgDisp("主人公","｛颯砂＊＊｝, ｛風真＊＊｝.
 What's up with you two?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -93,8 +92,8 @@ VoicePlay("F100140000_02_060");
 MsgDisp("Sassa","He left.
 Maybe we can talk about it next time?");
 MsgDisp("主人公","(He's still the same...
-But ｛風真＊＊｝, he really does
-remember when we were little kids.)");
+But ｛風真＊＊｝, he really does remember
+when we were little kids.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

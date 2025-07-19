@@ -7,7 +7,6 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","...By the way,
-｛七ツ森＊｝.");
+MsgDisp("主人公","...By the way, ｛七ツ森＊｝.");
 VoicePlay("B070400001_04_000");
 MsgDisp("Nanatsumori","Hm?");

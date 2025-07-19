@@ -7,8 +7,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(31,254,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛ひかる＊｝,
-Goro-sensei!");
+MsgDisp("主人公","｛ひかる＊｝, Goro-sensei!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);

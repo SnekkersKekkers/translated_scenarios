@@ -4,8 +4,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("J140501001_05_000");
     MsgDisp("Hiiragi","Good.
 Now, let's go out with the four of us.");
-    MsgDisp("主人公","Then, at the
-｛待ち合わせ場所｝.
+    MsgDisp("主人公","Then, at the ｛待ち合わせ場所｝.
 Should we meet up there?");
     VoicePlay("J140501001_05_010");
     MsgDisp("Hiiragi","Let's.

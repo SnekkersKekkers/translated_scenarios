@@ -15,10 +15,8 @@ switch (ChPrmGet(21,6)){
     ChMotion(21,3);
     VoicePlay("H482100000_21_000");
     MsgDisp("Michiru","Mari, I came to support you.");
-    MsgDisp("主人公","Ah, ｛みちる＊｝. Thanks!
-I'm rivals with
-｛ひかる＊｝ now,
-though...");
+    MsgDisp("主人公","Ah, ｛みちる＊｝. Thanks! I'm rivals
+with ｛ひかる＊｝ now, though...");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,4);

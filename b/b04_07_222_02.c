@@ -76,8 +76,7 @@ that.");
         MsgDisp("Mikage","Until the advance payment is calculated,
 it's practically my treat.");
         MsgDisp("主人公","Hehe.
-｛御影＊＊｝, thank you
-very much.");
+｛御影＊＊｝, thank you very much.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,0);
@@ -91,8 +90,8 @@ Just be grateful for today.");
         VoicePlay("B040722202_07_080");
         MsgDisp("Mikage","This month is a tight one.
 ...What are you trying to say?");
-        MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s field
-trips are fun.)");
+        MsgDisp("主人公","(Hehe, ｛御影＊＊｝'s field trips are
+fun.)");
         break ;
         default :
         DbgAssert(1);

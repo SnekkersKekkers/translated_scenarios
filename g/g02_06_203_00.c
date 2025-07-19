@@ -67,8 +67,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620300_06_090");
 MsgDisp("Himuro","Truly, complicated...");
-MsgDisp("主人公","(Seeing ｛氷室＊＊｝ this troubled
-is kind of rare huh...?)");
+MsgDisp("主人公","(Seeing ｛氷室＊＊｝ this troubled is kind
+of rare huh...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

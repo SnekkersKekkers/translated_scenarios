@@ -58,8 +58,7 @@ VoicePlay("G020110102_01_070");
 MsgDisp("Kazama","No one can come between us.
 This bond will never break, it's eternal.");
 MsgDisp("主人公","(｛風真＊＊｝...are you worried about
-｛本多＊＊｝ and
-｛七ツ森＊｝?)");
+｛本多＊＊｝ and ｛七ツ森＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

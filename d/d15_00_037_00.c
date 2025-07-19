@@ -57,8 +57,7 @@ MsgDisp ( "Honda","Eh?
 It even increases your appeal with women!
 Herbs are really amazing!!" ) ;
 MsgDisp ( "主人公","(Hehe.
-｛本多＊＊｝ is getting crazy
-about herbs.)" ) ;
+｛本多＊＊｝ is getting crazy about herbs.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

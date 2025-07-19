@@ -36,8 +36,7 @@ at your part-time job.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(He left...
-Why did ｛御影＊＊｝ even
-come?)");
+Why did ｛御影＊＊｝ even come?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -141,8 +140,7 @@ Alright, show me something you recommend.");
     ChMotion(7,1);
     VoicePlay("I150700000_07_130");
     MsgDisp("Mikage","I definitely bought too much with this...");
-    MsgDisp("主人公","｛御影＊＊｝, are you
-okay?");
+    MsgDisp("主人公","｛御影＊＊｝, are you okay?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

@@ -33,8 +33,8 @@ MsgDisp("Sassa","Unreasonable and reckless are my
 specialties.
 Well, I'm off now!");
 MsgDisp("主人公","(Hehe!
-｛颯砂＊＊｝, you seem to be
-having a lot more fun than before?)");
+｛颯砂＊＊｝, you seem to be having a lot
+more fun than before?)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();

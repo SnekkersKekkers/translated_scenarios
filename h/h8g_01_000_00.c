@@ -65,8 +65,8 @@ VoicePlay("H8G0100000_01_070");
 MsgDisp("Kazama","I know just how devoted you are to your
 student council duties.
 I'm glad you were recognized for them.");
-MsgDisp("主人公","(I'm happy that ｛風真＊＊｝
-recognized my efforts, too. I'm glad I
-worked so hard in the student council!)");
+MsgDisp("主人公","(I'm happy that ｛風真＊＊｝ recognized my
+efforts, too. I'm glad I worked so hard in
+the student council!)");
 MsgClose();
 ScrFadeOut(0,0);

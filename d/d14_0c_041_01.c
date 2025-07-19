@@ -91,8 +91,7 @@ VoicePlay("D140C04101_05_060");
 MsgDisp("Hiiragi","Ahh, yes. That's right. If I don't study
 hard now, that's yet another problem.");
 MsgDisp("主人公","(Hehe.
-｛柊＊＊＊｝, let's do our best
-together!)");
+｛柊＊＊＊｝, let's do our best together!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

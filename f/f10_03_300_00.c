@@ -9,9 +9,8 @@ girls in elementary and middle school.");
 VoicePlay("F100330000_03_000");
 MsgDisp("Honda?","Really?
 My little sister will be happy too!");
-MsgDisp("主人公","(Ah...it's ｛本多＊＊｝,
-｛ひかる＊｝ and
-｛みちる＊｝'s voices.)");
+MsgDisp("主人公","(Ah...it's ｛本多＊＊｝, ｛ひかる＊｝
+and ｛みちる＊｝'s voices.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -45,8 +44,8 @@ ChEyeOpenLevel(22,0);
 VoicePlay("F100330000_22_020");
 MsgDisp("Hikaru","That's right, it's a super cute letter♪");
 ChMouth(21,0);
-MsgDisp("主人公","I see, so ｛本多＊＊｝'s sister is
-a fan of you two?");
+MsgDisp("主人公","I see, so ｛本多＊＊｝'s sister is a fan of
+you two?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

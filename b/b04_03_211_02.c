@@ -66,8 +66,7 @@ of the fun.");
 countless glowing eyes of animals, and
 feel like you've become the prey～?");
         MsgDisp("主人公","Hehe.
-｛本多＊＊｝ seems like he's
-enjoying it.");
+｛本多＊＊｝ seems like he's enjoying it.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);

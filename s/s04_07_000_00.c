@@ -27,8 +27,7 @@ I'll come pick you up.");
         MsgDisp("Mikage","It'll be good, right?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A shrine visit with
-｛御影＊＊｝!
+        MsgDisp("主人公","(A shrine visit with ｛御影＊＊｝!
 ...Now what should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);

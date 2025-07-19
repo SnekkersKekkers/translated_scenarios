@@ -39,8 +39,8 @@ See you back here tomorrow morning.");
     VoicePlay("Q080100000_01_030");
     MsgDisp("Kazama","Wasn't it?
 I enjoyed myself too.");
-    MsgDisp("主人公","Thanks to ｛風真＊＊｝, I made
-some great memories.");
+    MsgDisp("主人公","Thanks to ｛風真＊＊｝, I made some great
+memories.");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,1);

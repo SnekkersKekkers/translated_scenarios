@@ -51,8 +51,7 @@ VoicePlay("B360403201_04_060");
 MsgDisp("Nanatsumori","A couple?
 Friends?
 Something else?");
-MsgDisp("主人公","｛七ツ森＊｝, are you
-messing with me?");
+MsgDisp("主人公","｛七ツ森＊｝, are you messing with me?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

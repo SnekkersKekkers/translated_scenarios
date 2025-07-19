@@ -60,5 +60,4 @@ You worded it better.
 ...Hehe!");
 MsgDisp("主人公","(｛大地＊＊｝ looks happy. It's said that
 good fortune comes to those who smile.
-｛大地＊＊｝ will have a
-great year!)");
+｛大地＊＊｝ will have a great year!)");

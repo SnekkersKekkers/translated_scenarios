@@ -105,8 +105,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("D140A06002_02_070");
 MsgDisp("Sassa","What is?");
 MsgDisp("主人公","(?
-I wonder what's up with
-｛風真＊＊｝?)");
+I wonder what's up with ｛風真＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

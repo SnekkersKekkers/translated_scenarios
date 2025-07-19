@@ -19,5 +19,4 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B020602122_06_020");
 MsgDisp("Himuro","...But I am the one who's falling for it.");
 MsgDisp("主人公","(I'm glad!
-｛氷室＊＊｝ seems to like these
-clothes!)");
+｛氷室＊＊｝ seems to like these clothes!)");

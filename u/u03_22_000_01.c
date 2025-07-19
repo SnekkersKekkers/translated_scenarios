@@ -34,8 +34,7 @@ stronger...)");
     MsgDisp("Hikaru","Let's play again soon!
 A bientot～!");
     MsgDisp("主人公","Okay.
-See you later,
-｛ひかる＊｝!");
+See you later, ｛ひかる＊｝!");
     break ;
     case 1:
     MsgDisp("主人公","I'm sorry but no thanks.");

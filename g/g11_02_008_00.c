@@ -7,8 +7,7 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("G110200800_02_000");
 MsgDisp("Sassa","Thanks for your help, manager!");
-MsgDisp("主人公","｛颯砂＊＊｝, that's a nice
-record.");
+MsgDisp("主人公","｛颯砂＊＊｝, that's a nice record.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

@@ -10,8 +10,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020211020_02_000");
 MsgDisp("Sassa","Really...?");
-MsgDisp("主人公","Yes, I want to run with
-｛颯砂＊＊｝ too.");
+MsgDisp("主人公","Yes, I want to run with ｛颯砂＊＊｝ too.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);

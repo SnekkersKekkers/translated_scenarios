@@ -61,8 +61,9 @@ StlEye(6,0);
 StlMouth(6,1);
 VoicePlay("R080600000_06_020");
 MsgDisp("Himuro","What are you doing?");
-MsgDisp("主人公","Ah...｛氷室＊＊｝, that's what I need to
-ask you. Are you praying?");
+MsgDisp("主人公","Ah...
+｛氷室＊＊｝, that's what I need to ask you.
+Are you praying?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -133,8 +134,7 @@ StlMouth(6,0);
 VoicePlay("R080600000_06_140");
 MsgDisp("Himuro","Haha, you look troubled.");
 MsgDisp("主人公","Not at all. I'm glad I was able to hear
-how you feel, ｛氷室＊＊｝. Thank
-you.");
+how you feel, ｛氷室＊＊｝. Thank you.");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);

@@ -152,8 +152,8 @@ VoicePlay("B330C20400_06_070");
 MsgDisp("Himuro","Let's go on the rowboat instead of the
 swanboat.");
 MsgDisp("主人公","(Hehe!
-I wonder if ｛氷室＊＊｝ was
-embarrassed about the swan boat?)");
+I wonder if ｛氷室＊＊｝ was embarrassed
+about the swan boat?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

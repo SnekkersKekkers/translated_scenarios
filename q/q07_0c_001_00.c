@@ -42,15 +42,14 @@ ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("Q070C00100_05_020");
 MsgDisp("Hiiragi","Um...
-Yes, it's from Inori. \"
-Show me all the places\"?");
+Yes, it's from Inori. 
+\"Show me all the places\"?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","Hehe.
-Looks like ｛氷室＊＊｝ is pouting,
-huh?");
+Looks like ｛氷室＊＊｝ is pouting, huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -158,9 +157,9 @@ MsgClose();
 SEPlay("EV_SE_856",0,0.6);
 ChClose(5,0,30);
 ChClose(7,0,30);
-MsgDisp("主人公","(We're moving on after this...Huis Ten
-Bosch was fun! Okay, I'll report back to
-｛氷室＊＊｝ now.)");
+MsgDisp("主人公","(We're moving on after this...
+Huis Ten Bosch was fun!
+Okay, I'll report back to ｛氷室＊＊｝ now.)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

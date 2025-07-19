@@ -39,8 +39,8 @@ Thanks.");
 Work hard, 'kay?
 See you.");
     MsgDisp("主人公","(It suits me...
-It makes me happy that
-｛本多＊＊｝ said that.)");
+It makes me happy that ｛本多＊＊｝ said
+that.)");
     break ;
     case 3:
     ChEye(3,0);
@@ -82,8 +82,7 @@ keep for a while would be good.");
     MsgDisp("Honda","Thanks!
 Your sense for this kind of thing is good.
 Well, good luck with work.");
-    MsgDisp("主人公","(I'm happy ｛本多＊＊｝
-complimented me!)");
+    MsgDisp("主人公","(I'm happy ｛本多＊＊｝ complimented me!)");
     break ;
     case 4:
     case 5:

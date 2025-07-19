@@ -57,8 +57,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B360318001_03_070");
 MsgDisp("Honda","It's actually kind of fascinating.");
-MsgDisp("主人公","(Uh, ｛本多＊＊｝...what about the
-movie?)");
+MsgDisp("主人公","(Uh, ｛本多＊＊｝...what about the movie?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,10 +6,9 @@ VoicePlay("G020130004_01_000");
 MsgDisp("Kazama","I'm really glad I brought you here.
 This is a view you can only see now,
 right?");
-MsgDisp("主人公","Yes, thank you. Next time let's bring
-｛本多＊＊｝ and
-｛七ツ森＊｝ to see this
-view?");
+MsgDisp("主人公","Yes, thank you.
+Next time let's bring ｛本多＊＊｝ and
+｛七ツ森＊｝ to see this view?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,4);
@@ -94,10 +93,8 @@ ChMotion(1,0);
 VoicePlay("G020130004_01_110");
 MsgDisp("Kazama","I see.
 If you're happy, then that's fine.");
-MsgDisp("主人公","(｛風真＊＊｝, you understand
-｛本多＊＊｝ and
-｛七ツ森＊｝ very
-well...)");
+MsgDisp("主人公","(｛風真＊＊｝, you understand ｛本多＊＊｝
+and ｛七ツ森＊｝ very well...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

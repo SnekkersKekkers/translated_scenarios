@@ -71,8 +71,7 @@ I wonder why?");
         ChMotion(2,0);
         VoicePlay("B040210102_02_060");
         MsgDisp("Sassa","It was you, I thought you liked it.");
-        MsgDisp("主人公","I also thought ｛颯砂＊＊｝ liked
-it.");
+        MsgDisp("主人公","I also thought ｛颯砂＊＊｝ liked it.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,4);

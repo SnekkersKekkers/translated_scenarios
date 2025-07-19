@@ -8,10 +8,9 @@ ChOpen(5,34,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("R080500000_05_000");
-MsgDisp("Hiiragi","｛主人公｝, this is the last party
-here, huh.");
-MsgDisp("主人公","｛柊＊＊＊｝, were you able to
-enjoy it?");
+MsgDisp("Hiiragi","｛主人公｝, this is the last party here,
+huh.");
+MsgDisp("主人公","｛柊＊＊＊｝, were you able to enjoy it?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -40,8 +39,7 @@ ChEyeOpenLevel(5,8);
 VoicePlay("R080500000_05_040");
 MsgDisp("Hiiragi","I only thought about how guests would see
 it...");
-MsgDisp("主人公","Because you're an actor,
-｛柊＊＊＊｝.");
+MsgDisp("主人公","Because you're an actor, ｛柊＊＊＊｝.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);

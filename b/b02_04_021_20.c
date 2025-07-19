@@ -18,5 +18,4 @@ MsgDisp("Nanatsumori","...Well, next time you can sneak in while
 I'm working.
 Want to do a shoot together?");
 MsgDisp("主人公","(Does that mean that it suits me?
-｛七ツ森＊｝ seems to
-like it though.)");
+｛七ツ森＊｝ seems to like it though.)");

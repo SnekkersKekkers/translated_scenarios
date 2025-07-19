@@ -34,8 +34,7 @@ OK?");
     VoicePlay("Q080400000_04_020");
     MsgDisp("Nanatsumori","I'm satisfied.");
     MsgDisp("主人公","Me too.
-Thanks for inviting me,
-｛七ツ森＊｝.");
+Thanks for inviting me, ｛七ツ森＊｝.");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,1,1);

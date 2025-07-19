@@ -1,6 +1,6 @@
 ScrFadeIn(0);
-MsgDisp("主人公","I wonder if ｛風真＊＊｝ is
-still shopping...");
+MsgDisp("主人公","I wonder if ｛風真＊＊｝ is still
+shopping...");
 VoicePlay("Q110100000_01_000");
 MsgDisp("Kazama?","Would you like a freshly baked castella?");
 MsgDisp("主人公","Eh...

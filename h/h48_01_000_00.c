@@ -30,8 +30,8 @@ I'll give you a standing ovation.");
     MsgDisp("主人公","Yeah!
 Thank you.");
     MsgDisp("主人公","(Alright.
-I'll have to show ｛風真＊＊｝
-a good performance!)");
+I'll have to show ｛風真＊＊｝ a good
+performance!)");
     MsgClose();
     break ;
     case 4:
@@ -42,8 +42,7 @@ a good performance!)");
     VoicePlay("H480100000_01_030");
     MsgDisp("Kazama","There you are.");
     MsgDisp("主人公","Ah...
-｛風真＊＊｝, you came to cheer
-me on?");
+｛風真＊＊｝, you came to cheer me on?");
     ChEye(1,4);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -74,9 +73,9 @@ Okay?");
 Go on and have fun like usual.");
     MsgDisp("主人公","Yeah!
 ｛風真＊＊｝, thank you.");
-    MsgDisp("主人公","(Alright! I'll have to do my best so
-｛風真＊＊｝ doesn't have to
-use my ribbon!)");
+    MsgDisp("主人公","(Alright!
+I'll have to do my best so ｛風真＊＊｝
+doesn't have to use my ribbon!)");
     break ;
     default :
     DbgAssert(1);

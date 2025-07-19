@@ -47,13 +47,13 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoiceEVSPlay(2);
 VoicePlay("F110210000_02_050");
-MsgDisp("Sassa","｛主人公｝, I'll go talk to them
-over there.
+MsgDisp("Sassa","｛主人公｝, I'll go talk to them over
+there.
 Afterwards, should we go try the food?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(Hehe, guess ｛颯砂＊＊｝ really
-will teach him.)");
+MsgDisp("主人公","(Hehe, guess ｛颯砂＊＊｝ really will teach
+him.)");
 MsgClose();
 ScrFadeOut(0);

@@ -13,8 +13,7 @@ ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B360401101_04_000");
 MsgDisp("Nanatsumori","Ha...");
-MsgDisp("主人公","｛七ツ森＊｝, you're
-sighing?");
+MsgDisp("主人公","｛七ツ森＊｝, you're sighing?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);

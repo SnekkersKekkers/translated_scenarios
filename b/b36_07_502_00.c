@@ -45,8 +45,7 @@ MsgDisp("Mikage","It's so beautiful...Did you know you can
 can take a psychological test using the
 shape of the clouds?");
 MsgDisp("主人公","That's interesting.
-｛御影＊＊｝ what do you
-see?");
+｛御影＊＊｝ what do you see?");
 VoicePlay("B360750200_07_040");
 MsgDisp("Mikage","Hmm...
 Haha, it's Inori surfing and Yanosuke

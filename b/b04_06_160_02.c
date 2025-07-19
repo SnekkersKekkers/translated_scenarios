@@ -84,8 +84,8 @@ Then, I'll invite you next time okay?");
 Why is it that I could only phrase it like
 that....");
         MsgDisp("主人公","(?)
-｛氷室＊＊｝ seems to be worried
-about something?)");
+｛氷室＊＊｝ seems to be worried about
+something?)");
         break ;
         default :
         DbgAssert(1);

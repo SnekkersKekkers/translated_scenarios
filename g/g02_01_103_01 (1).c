@@ -95,8 +95,7 @@ MsgDisp("Kazama","I didn't have any chances to go to the
 pool or even swim really over there so I
 totally forgot how.");
 MsgDisp("主人公","Hahah.
-But you were really cute,
-｛風真＊＊｝.");
+But you were really cute, ｛風真＊＊｝.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);

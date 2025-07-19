@@ -147,8 +147,7 @@ VoicePlay("B050400300_04_180");
 MsgDisp("Nanatsumori","Ahー, it's good that they're about to
 close up shop.
 It's easier to negotiate a lower priceー.");
-MsgDisp("主人公","｛七ツ森＊｝ is good at
-haggling huh?");
+MsgDisp("主人公","｛七ツ森＊｝ is good at haggling huh?");
 ChMotion(4,0,1);
 VoicePlay("B050400300_04_190");
 MsgDisp("Nanatsumori","That's cause there were a lot of good

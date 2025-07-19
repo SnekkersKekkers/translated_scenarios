@@ -1,5 +1,4 @@
-MsgDisp("主人公","Do you watch TV,
-｛ひかる＊｝?");
+MsgDisp("主人公","Do you watch TV, ｛ひかる＊｝?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -33,10 +32,9 @@ VoicePlay("F032200000_22_040");
 MsgDisp("Hikaru","When it's a touching documentary, watching
 big sis cry out loud is also super funny.
 And then——");
-MsgDisp("主人公","(When ｛ひかる＊｝
-watches TV, she mostly enjoys watching
-｛みちる＊｝'s reactions
-huh...')");
+MsgDisp("主人公","(When ｛ひかる＊｝ watches TV, she
+mostly enjoys watching ｛みちる＊｝'s
+reactions huh...')");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

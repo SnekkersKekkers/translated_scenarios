@@ -35,10 +35,9 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110701100_07_020");
 MsgDisp("Mikage","An organic cafe was a great idea.");
-MsgDisp("主人公","Yes. thanks to
-｛御影＊＊｝, we were able
-to set up in front of a prime location;
-the school gates.");
+MsgDisp("主人公","Yes. thanks to ｛御影＊＊｝, we were
+able to set up in front of a prime
+location; the school gates.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -58,9 +57,9 @@ ChMotion(7,1);
 VoicePlay("G110701100_07_050");
 MsgDisp("Mikage","But, I wonder if it wouldn't be as
 exciting without you third years?");
-MsgDisp("主人公","It'll be fine. The second years and
-｛御影＊＊｝ will be
-there too.");
+MsgDisp("主人公","It'll be fine.
+The second years and ｛御影＊＊｝ will
+be there too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

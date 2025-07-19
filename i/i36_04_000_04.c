@@ -74,8 +74,8 @@ Here is your pear and custard tart.");
     ChMotion(4,0,1);
     VoicePlay("I360400004_04_070");
     MsgDisp("Nanatsumori","I sure waited.");
-    MsgDisp("主人公","｛七ツ森＊｝, have you
-been whispering something for a while now?");
+    MsgDisp("主人公","｛七ツ森＊｝, have you been whispering
+something for a while now?");
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("I360400004_04_080");

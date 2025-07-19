@@ -40,8 +40,8 @@ ChMotion ( 2,4 ) ;
 VoicePlay ( "D150002401_02_020" ) ;
 MsgDisp ( "Sassa","I'd wear a tie too if you gave me
 compliments." ) ;
-MsgDisp ( "主人公","(I'd like to see ｛颯砂＊＊｝
-wearing a necktie, actually.)" ) ;
+MsgDisp ( "主人公","(I'd like to see ｛颯砂＊＊｝ wearing a
+necktie, actually.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

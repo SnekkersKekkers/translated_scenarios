@@ -12,8 +12,7 @@ ChCheek(2,10);
 VoicePlay("T020200020_02_000");
 MsgDisp("Sassa","Eh...");
 MsgDisp("主人公","I was also happy to have the opportunity
-to help ｛颯砂＊＊｝ achieve his
-dream.");
+to help ｛颯砂＊＊｝ achieve his dream.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

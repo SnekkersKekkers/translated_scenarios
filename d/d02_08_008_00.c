@@ -6,8 +6,8 @@ ScrFadeIn(0);
 VoicePlay("D020800800_08_000");
 MsgDisp("Shirahane","......");
 MsgDisp("主人公","(Huh?
-Is ｛大地＊＊｝ not feeling
-well today...)");
+Is ｛大地＊＊｝ not feeling well
+today...)");
 SEPlay("EV_SE_519");
 SEWait();
 VoicePlay("D020800800_36_000");
@@ -19,8 +19,7 @@ ChMotion(8,5,1);
 VoicePlay("D020800800_08_010");
 MsgDisp("Shirahane","∈ My bad!");
 MsgDisp("主人公","I can help you out too!
-｛大地＊＊｝, let's guide the
-car.");
+｛大地＊＊｝, let's guide the car.");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);

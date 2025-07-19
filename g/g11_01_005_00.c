@@ -2,9 +2,8 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to head home.)");
-MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over
-there, huh. Let's have a chat then head
-home.)");
+MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over there, huh.
+Let's have a chat then head home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

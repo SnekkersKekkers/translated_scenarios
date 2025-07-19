@@ -40,8 +40,7 @@ ChMouth(2,2);
 ChMotion(2,5);
 VoicePlay("G020210201_02_050");
 MsgDisp("Sassa","...No!");
-MsgDisp("主人公","｛颯砂＊＊｝, what did you say
-just now?");
+MsgDisp("主人公","｛颯砂＊＊｝, what did you say just now?");
 ChEye(2,5);
 ChMouth(2,2);
 ChMotion(2,4);

@@ -11,8 +11,8 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("F020300014_03_000");
 MsgDisp("Honda","Seems like we are.");
-MsgDisp("主人公","｛本多＊＊｝, do you think you'll
-cry at the ceremony?");
+MsgDisp("主人公","｛本多＊＊｝, do you think you'll cry at the
+ceremony?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);

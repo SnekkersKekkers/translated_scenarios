@@ -51,9 +51,9 @@ VoicePlay ( "D150006701_06_040" ) ;
 MsgDisp ( "Himuro","...Uh, okay.
 I like all of them but seafood flavor is
 my favorite." ) ;
-MsgDisp ( "主人公","(Hehe, ｛氷室＊＊｝ seems to be
-enjoying himself. I'm looking forward to
-trying his recommendations!)" ) ;
+MsgDisp ( "主人公","(Hehe, ｛氷室＊＊｝ seems to be enjoying
+himself. I'm looking forward to trying his
+recommendations!)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

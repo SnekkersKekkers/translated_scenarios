@@ -128,8 +128,7 @@ MsgDisp("Sassa","That hot spring feeling was great.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","Hehe.
-｛颯砂＊＊｝ must really like hot
-springs.");
+｛颯砂＊＊｝ must really like hot springs.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

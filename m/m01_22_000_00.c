@@ -79,6 +79,5 @@ ChClose(22);
 Wait(50,1);
 SEPlay("EV_SE_DOOR_008",0.5);
 SEWait();
-MsgDisp("主人公","(I made ｛ひかる＊｝
-worry...
+MsgDisp("主人公","(I made ｛ひかる＊｝ worry...
 I better get better fast.)");

@@ -1,5 +1,4 @@
-MsgDisp("主人公","｛柊＊＊＊｝, what are your
-hobbies?");
+MsgDisp("主人公","｛柊＊＊＊｝, what are your hobbies?");
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B070500000_05_200");
@@ -22,8 +21,8 @@ VoicePlay("B070500000_05_220");
 MsgDisp("Hiiragi","Yes it's fun, and it's a nice feeling.
 The dirt falls off instantly and cleans up
 nicely.");
-MsgDisp("主人公","｛柊＊＊＊｝, you're quite
-family-oriented aren't you?");
+MsgDisp("主人公","｛柊＊＊＊｝, you're quite family-oriented
+aren't you?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,2);
@@ -31,9 +30,9 @@ VoicePlay("B070500000_05_230");
 MsgDisp("Hiiragi","Ah, recently I've been interested in
 cleaning robots.
 They're rather unorthodox.");
-MsgDisp("主人公","(A cleaning showdown between
-｛柊＊＊＊｝ and a cleaning
-robot...I'm kind of curious.)");
+MsgDisp("主人公","(A cleaning showdown between ｛柊＊＊＊｝
+and a cleaning robot...
+I'm kind of curious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

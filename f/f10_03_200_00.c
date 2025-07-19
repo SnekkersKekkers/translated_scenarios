@@ -12,8 +12,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
-MsgDisp("主人公","Ah, it's ｛本多＊＊｝ and
-｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, it's ｛本多＊＊｝ and ｛颯砂＊＊｝.
 What are you doing?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -69,8 +68,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 ChPosition(3,0);
-MsgDisp("主人公","｛本多＊＊｝, are you interested
-in track and field?");
+MsgDisp("主人公","｛本多＊＊｝, are you interested in track
+and field?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -93,8 +92,7 @@ Bye.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
-MsgDisp("主人公","(｛本多＊＊｝ is helping
-｛颯砂＊＊｝?
+MsgDisp("主人公","(｛本多＊＊｝ is helping ｛颯砂＊＊｝?
 I wonder if it'll be alright...?)");
 BGMStop();
 MsgClose();

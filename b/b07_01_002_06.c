@@ -1,7 +1,6 @@
 MsgDisp("主人公","Recently it's become normal for the four
 of us; me, you, ｛本多＊＊｝ and
-｛七ツ森＊｝ to be
-together.");
+｛七ツ森＊｝ to be together.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

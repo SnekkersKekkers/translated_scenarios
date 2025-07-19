@@ -9,10 +9,9 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,3,#1,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","｛風真＊＊｝,
-｛御影＊＊｝. Are you
-doing the 'men living alone' course again
-today?");
+MsgDisp("主人公","｛風真＊＊｝, ｛御影＊＊｝.
+Are you doing the 'men living alone'
+course again today?");
 ChMouth(1,0);
 ChEye(7,0);
 ChMouth(7,0);

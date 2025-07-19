@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, ｛本多＊＊｝, tell me about
-your hobbies.");
+MsgDisp("主人公","Hey, ｛本多＊＊｝, tell me about your
+hobbies.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);

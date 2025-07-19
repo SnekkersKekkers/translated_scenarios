@@ -26,8 +26,7 @@ VoicePlay("P840200002_02_020");
 MsgDisp("Sassa","Thanks to you and the student council, the
 festival was really fun.");
 MsgDisp("主人公","It makes me happy to hear that.
-Are you enjoying yourself,
-｛颯砂＊＊｝?");
+Are you enjoying yourself, ｛颯砂＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

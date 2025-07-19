@@ -6,8 +6,7 @@ ScrFadeIn(0);
 VoicePlay("P650700002_07_000");
 MsgDisp("Mikage","As expected of our Gardening Club.
 Our original blend was well liked.");
-MsgDisp("主人公","｛御影＊＊｝, was it
-really?");
+MsgDisp("主人公","｛御影＊＊｝, was it really?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

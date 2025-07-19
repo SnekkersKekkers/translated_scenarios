@@ -26,8 +26,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("P540200000_02_020");
 MsgDisp("Sassa","Thanks to you, maybe my interest in music
 has increased?");
-MsgDisp("主人公","(Seems like ｛颯砂＊＊｝ enjoyed
-it.
+MsgDisp("主人公","(Seems like ｛颯砂＊＊｝ enjoyed it.
 Yay!)");
 MsgClose();
 ScrFadeOut(0,0);

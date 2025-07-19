@@ -15,11 +15,10 @@ VoicePlay("B070100001_01_150");
 MsgDisp("Kazama","I'm basically alone at home.
 So maybe it's better for school to be
 lively?");
-MsgDisp("主人公","You live alone, don't you
-｛風真＊＊｝? If you get lonely,
-you're free to come over anytime. Our
-houses are in the same neighborhood after
-all.");
+MsgDisp("主人公","You live alone, don't you ｛風真＊＊｝? If
+you get lonely, you're free to come over
+anytime. Our houses are in the same
+neighborhood after all.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);

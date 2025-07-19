@@ -30,8 +30,7 @@ display?");
     MsgDisp("Kazama","That's something you wouldn't be able to
 tell unless you knew the whole store
 well...You're good.");
-    MsgDisp("主人公","(I'm so happy that ｛風真＊＊｝
-said that!
+    MsgDisp("主人公","(I'm so happy that ｛風真＊＊｝ said that!
 Let's keep it up.)");
     break ;
     case 4:
@@ -78,8 +77,7 @@ expensive rhinestone bags?");
     VoicePlay("I160100005_01_080");
     MsgDisp("Kazama","It's something I wouldn't have thought of.
 It's a realization that's like you.");
-    MsgDisp("主人公","(I'm so happy that ｛風真＊＊｝
-said that!
+    MsgDisp("主人公","(I'm so happy that ｛風真＊＊｝ said that!
 Let's keep it up.)");
     break ;
     default :

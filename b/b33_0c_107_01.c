@@ -43,8 +43,8 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoiceEVSPlay(6);
 VoicePlay("B330C10701_06_000");
-MsgDisp("Himuro","｛主人公｝, both you and
-Yanosuke-senpai spun it too fast....");
+MsgDisp("Himuro","｛主人公｝, both you and Yanosuke-senpai
+spun it too fast....");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -120,9 +120,8 @@ MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
 MsgDisp("主人公","(I feel sorry for ｛氷室＊＊｝ and
-｛御影＊＊｝ but...I'm
-glad to be having fun with
-｛柊＊＊＊｝!)");
+｛御影＊＊｝ but...I'm glad to be
+having fun with ｛柊＊＊＊｝!)");
 BGMStop();
 MsgClose();
 ChLayout(2);

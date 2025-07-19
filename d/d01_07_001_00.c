@@ -56,8 +56,7 @@ MsgDisp("Mikage","Here, take a look.
 Isn't she cute?");
 StlEye(7,1);
 MsgDisp("主人公","She really is...!
-｛御影＊＊｝,
-congratulations!");
+｛御影＊＊｝, congratulations!");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700100_07_040");
 MsgDisp("Mikage","Ahh, thank you!

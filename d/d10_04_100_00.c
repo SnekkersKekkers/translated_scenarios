@@ -52,8 +52,7 @@ ChMouth(4,5);
 ChMotion(4,5);
 ChCheek(4,5);
 MsgDisp("主人公","Geez!
-｛七ツ森＊｝, you're
-teasing me!");
+｛七ツ森＊｝, you're teasing me!");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3);

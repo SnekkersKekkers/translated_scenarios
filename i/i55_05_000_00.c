@@ -114,8 +114,8 @@ The karinto manju has been surpassed.");
 the fugashi and hardened there.
 I'll take 20 to go.");
     MsgDisp("主人公","Thank you for your continued patronage!");
-    MsgDisp("主人公","(It looks like ｛柊＊＊＊｝
-really liked my recommendation ♪)");
+    MsgDisp("主人公","(It looks like ｛柊＊＊＊｝ really liked
+my recommendation ♪)");
     break ;
     case 4:
     case 5:

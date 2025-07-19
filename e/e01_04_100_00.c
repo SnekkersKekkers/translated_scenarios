@@ -9,8 +9,7 @@ ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("E010410000_04_000");
 MsgDisp("Nanatsumori","Ah.");
-MsgDisp("主人公","Is ｛七ツ森＊｝ also
-going home now?");
+MsgDisp("主人公","Is ｛七ツ森＊｝ also going home now?");
 VoicePlay("E010410000_04_010");
 MsgDisp("Nanatsumori","Yeah.");
 MsgDisp("主人公","...Sniff sniff.

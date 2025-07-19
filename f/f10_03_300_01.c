@@ -5,8 +5,7 @@ VoicePlay("F100330001_22_000");
 MsgDisp("Hikaru?","Mari!
 This way, this way!");
 MsgDisp("主人公","Hm?");
-MsgDisp("主人公","｛ひかる＊｝, what's
-everyone up to?");
+MsgDisp("主人公","｛ひかる＊｝, what's everyone up to?");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(22,254,0,0,3,#1,#1,0,1,0,30);
