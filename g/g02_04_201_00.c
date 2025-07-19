@@ -55,7 +55,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("G020420100_04_080");
-MsgDisp("Nanatsumori","PLease...don't come to dislike me.");
+MsgDisp("Nanatsumori","Please...don't come to dislike me.");
 MsgDisp("主人公","(｛七ツ森＊｝ seems like he's hurting...
 I wonder if there's something I did to
 cause this...)");

@@ -25,8 +25,8 @@ VoicePlay("D012100000_21_010");
 MsgDisp("Michiru","Eh?
 No way...");
 VoicePlay("D012100000_40_010");
-MsgDisp("Male Student","Uhm, Ms.
-Michiru Hanatsubaki!");
+MsgDisp("Male Student","Uhm,
+Michiru Hanatsubaki-san!");
 StlEyeOpenLevel(21,0,1);
 VoicePlay("D012100000_21_020");
 MsgDisp("Michiru","I can hear you so you don't need to be so

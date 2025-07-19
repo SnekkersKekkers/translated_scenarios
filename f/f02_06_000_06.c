@@ -31,8 +31,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("F020600006_06_030");
-MsgDisp("Himuro","Things like, 'Himuro, you can do sports?'
-or, 'Himuro, you don't just study?'");
+MsgDisp("Himuro","Things like, \"Himuro, you can do sports?\"
+or, \"Himuro, you don't just study?\"");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

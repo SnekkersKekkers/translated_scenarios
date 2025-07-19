@@ -13,8 +13,8 @@ have answered them...");
     case 4:
     case 5:
     MsgDisp("主人公","Hmm...");
-    MsgDisp("主人公","It says...\"
-They told me so many stories about you.
+    MsgDisp("主人公","It says...
+\"They told me so many stories about you.
 Stories I had never heard before.");
     MsgDisp("主人公","(Huh∋
 What did the two of you talk about...?)");

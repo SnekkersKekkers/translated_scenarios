@@ -84,7 +84,7 @@ StlMouth(7,0);
 VoicePlay("Q070701000_07_020");
 MsgDisp("Mikage","Ah, everything alright?");
 StlEye(7,0);
-MsgDisp("主人公","Y, yes...");
+MsgDisp("主人公","Y-Yes...");
 VoicePlay("Q070701000_22_020");
 MsgDisp("Hikaru","What, what, what??
 Mikage-sensei, what's wrong?");
@@ -128,7 +128,7 @@ VoicePlay("Q070701000_21_040");
 MsgDisp("Michiru","That's good, you'll owe Mikage-sensei.
 Right, Mari?");
 MsgDisp("主人公","Eh?
-Y, yes.
+Y-Yes.
 We need to hurry!");
 BGMStop();
 MsgClose();

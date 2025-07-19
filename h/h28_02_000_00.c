@@ -21,14 +21,14 @@ far.");
     ChMotion(2,0);
     VoicePlay("H280200000_02_010");
     MsgDisp("Sassa","Yeah, and it's all thanks to you.
-Thank you");
+Thank you.");
     MsgDisp("主人公","No, it's thanks to your hard work,
 ｛颯砂＊＊｝.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("H280200000_02_020");
-    MsgDisp("Sassa","Then, it's both of our hard work.");
+    MsgDisp("Sassa","It's thanks to both of us, then.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

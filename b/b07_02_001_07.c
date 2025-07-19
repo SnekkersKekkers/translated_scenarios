@@ -67,8 +67,8 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200001_02_490");
-MsgDisp("Sassa","Your surprise attacks are way more scary
-than your everyday training.");
+MsgDisp("Sassa","Your surprise attacks are way more intense
+than my daily training sessions.");
 MsgDisp("主人公","(Eh, my surprise attacks?
 What did I do...)");
 BGMStop();

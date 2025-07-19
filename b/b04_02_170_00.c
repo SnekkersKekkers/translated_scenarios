@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040217000_02_000");
 MsgDisp("Sassa","Alright, who should sing first?");
-MsgSel("I want to hear ｛颯砂＊＊｝'s beautiful voice.","Let's do a duet together","PLease listen to my song.");
+MsgSel("I want to hear ｛颯砂＊＊｝'s beautiful voice.","Let's do a duet together.","Please listen to my song.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

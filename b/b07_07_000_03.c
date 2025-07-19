@@ -13,7 +13,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700000_07_130");
-MsgDisp("Mikage","You're a good kid for following me.");
+MsgDisp("Mikage","You're a good kid for playing along.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

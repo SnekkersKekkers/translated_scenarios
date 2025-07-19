@@ -2,8 +2,7 @@ BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah.
-It's ｛ひかる＊｝ and ｛みちる＊｝.
-)");
+It's ｛ひかる＊｝ and ｛みちる＊｝.)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1);

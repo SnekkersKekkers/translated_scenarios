@@ -70,7 +70,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("D140A04102_01_030");
 MsgDisp("Kazama","Even if it wasn't malicious, that's awful.
-was he alright?");
+Was he alright?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -120,7 +120,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A04102_01_060");
 MsgDisp("Kazama","No, not \"Eh?\"
-. How are you going to say that?");
+How can you say that?");
 MsgDisp("主人公","(Umm...why am I being criticized?)");
 BGMStop();
 MsgClose();

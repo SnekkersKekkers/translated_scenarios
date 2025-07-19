@@ -6,7 +6,7 @@ ScrFadeIn(0);
 ChMotion(1,2);
 VoicePlay("P040100001_01_000");
 MsgDisp("Kazama","Hm?");
-MsgDisp("主人公","Y, yes.
+MsgDisp("主人公","Y-Yes.
 How is it?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);

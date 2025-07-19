@@ -84,7 +84,7 @@ towards my dreams on my own.");
 StlEye(2,1);
 StlMouth(2,0);
 MsgDisp("主人公","Of course.
-My seniors and I are also dreaming by
+The seniors and I are also dreaming by
 supporting you, ｛颯砂＊＊｝.");
 StlEye(2,1,0);
 StlMouth(2,0);
@@ -142,7 +142,7 @@ VoicePlay("R080200000_02_150");
 MsgDisp("Sassa","This outfit is hard to run in!");
 MsgDisp("主人公","No excuses!");
 VoicePlay("R080200000_02_160");
-MsgDisp("Sassa","Yeーes.");
+MsgDisp("Sassa","Yes ma'am!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

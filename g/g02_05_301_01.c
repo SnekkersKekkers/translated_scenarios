@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 ChMotion(5,4);
 VoicePlay("G020530101_05_000");
-MsgDisp("Hiiragi","PLease take a look.
+MsgDisp("Hiiragi","Please take a look.
 That firefly is accompanied by an
 entourage.");
 MsgDisp("主人公","Oh it is actually.");

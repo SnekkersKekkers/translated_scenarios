@@ -84,7 +84,7 @@ Come on, hurry up.");
     ChMotion(6,0);
     VoicePlay("I350600000_06_090");
     MsgDisp("Himuro","Your reply should be \"yes\".");
-    MsgDisp("主人公","Y, yes!");
+    MsgDisp("主人公","Y-Yes!");
     MsgDisp("主人公","(Ugh, this is making me nervous...)");
     break ;
     case 4:

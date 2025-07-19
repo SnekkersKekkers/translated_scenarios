@@ -12,7 +12,7 @@ Why don't you just come work for us?");
 VoicePlay("I770000000_36_020");
 MsgDisp("President","Please, after you graduate.
 Could you think about it?");
-MsgDisp("主人公","Y, yes...");
+MsgDisp("主人公","Y-Yes...");
 MsgDisp("主人公","(Working for this company...
 I'll think about it.)");
 MsgClose();

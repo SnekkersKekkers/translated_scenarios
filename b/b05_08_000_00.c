@@ -46,7 +46,8 @@ BGMPlay("BGM_C08_DAICHI_B",0.01);
 ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("B050800000_08_050");
-MsgDisp("Shirahane","Mr Koi, Mr Koi, please listen to me...");
+MsgDisp("Shirahane","Mr.
+Koi, Mr Koi, please listen to me...");
 MsgDisp("主人公","Waa, there's so many beautiful koi!");
 VoicePlay("B050800000_08_060");
 MsgDisp("Shirahane","Please give me your heart's blessing...");
@@ -88,8 +89,8 @@ ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B050800000_08_110");
 MsgDisp("Shirahane","Alright, with this we can relax!");
-MsgDisp("主人公","｛大地＊＊｝, you did well to find that
-heart koi!");
+MsgDisp("主人公","｛大地＊＊｝, you did well to
+find that heart koi!");
 ChEye(8,2);
 ChMouth(8,3);
 ChMotion(8,0,1);

@@ -5,7 +5,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040216000_02_000");
-MsgDisp("Sassa","What to play is up to you.");
+MsgDisp("Sassa","What we play is up to you.");
 MsgSel("I want to challenge the coin pusher!","How about taking on the quiz game?","Do you want to try the compatibility horoscope?");
 switch (MsgSelRsltGet()){
     case 0:

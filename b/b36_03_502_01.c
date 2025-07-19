@@ -31,9 +31,9 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360350201_03_030");
-MsgDisp("Honda","'Hah?
+MsgDisp("Honda","\"Hah?
 The two of you together?
-Why? '");
+Why?\"");
 MsgDisp("主人公","｛風真＊＊｝ sounds angry?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -41,16 +41,17 @@ ChMotion(3,3,1);
 VoicePlay("B360350201_03_040");
 MsgDisp("Honda","Exactly! He'd be upset and
 confrontational. He'd probably think
-something like, ‘Why are you spending
-time together when I'm not around?' And
+something like, \"Why are you spending
+time together when I'm not around?\" And
 Mii-kun would say...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360350201_03_050");
-MsgDisp("Honda","'Oh, you and Dahon?
-Did you have fun? '");
-MsgDisp("主人公","｛七ツ森＊｝ seems more indifferent?");
+MsgDisp("Honda","\"Oh, you and Dahon?
+Did you have fun?\"");
+MsgDisp("主人公","｛七ツ森＊｝ seems more
+indifferent?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -80,8 +81,8 @@ ChMotion(3,1,1);
 VoicePlay("B360350201_03_090");
 MsgDisp("Honda","So, let's keep today a secret from them,
 okay?");
-MsgDisp("主人公","(I didn't realise that ｛本多＊＊｝ felt
-that way...)");
+MsgDisp("主人公","(I didn't realise that
+｛本多＊＊｝ felt that way...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

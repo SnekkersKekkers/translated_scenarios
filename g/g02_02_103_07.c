@@ -64,8 +64,7 @@ ChMotion(2,1);
 VoicePlay("G020210307_02_080");
 MsgDisp("Sassa","That's what makes it exciting.
 You'll feel your heart racing, won't you?");
-MsgDisp("主人公","(But if we get caught by Himmuro-sensei
-...
+MsgDisp("主人公","(But if we get caught by Himuro-sensei...
 I'm more nervous than excited, maybe...?)");
 BGMStop();
 MsgClose();

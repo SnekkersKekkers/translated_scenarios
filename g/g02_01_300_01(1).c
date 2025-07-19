@@ -42,7 +42,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020130001_01_050");
-MsgDisp("Kazama","I don't go to the cafeteria with Hayasaka
+MsgDisp("Kazama","I don't go to the cafeteria with Sassa
 alone, or watch movies with Inori alone.
 It's because you're there. Understand?");
 MsgDisp("主人公","But I often see the three of you talking

@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
     case 4:
     SEPlay("EV_SE_577");
     MsgDisp("主人公","(Oh?
-It's a call from ｛颯砂＊＊｝)");
+It's a call from ｛颯砂＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -46,7 +46,7 @@ What was that about?)");
     case 5:
     SEPlay("EV_SE_577");
     MsgDisp("主人公","(Oh?
-It's a call from ｛颯砂＊＊｝)");
+It's a call from ｛颯砂＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

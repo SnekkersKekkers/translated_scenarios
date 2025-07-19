@@ -38,7 +38,7 @@ Sorry.");
     VoicePlay("I260300000_03_360");
     MsgDisp("Honda","But, sorry, could you help me put it all
 back into the box?");
-    MsgDisp("主人公","Y, yes.");
+    MsgDisp("主人公","Y-Yes.");
     MsgDisp("主人公","(Even though I've done returns so many
 times, I still made a rookie mistake...)");
     break ;

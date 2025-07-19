@@ -88,7 +88,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ScrFadeIn(0);
 VoicePlay("D010200800_02_090");
-MsgDisp("Sassa","Ok");
+MsgDisp("Sassa","Ok.");
 SEPlay("EV_SE_050",0,0.9);
 SEWait();
 Wait(15,0);

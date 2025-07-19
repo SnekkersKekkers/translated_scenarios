@@ -5,10 +5,10 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040208200_02_000");
-MsgDisp("Sassa","The perimeter of the pond is a good course
-to take a walk.
+MsgDisp("Sassa","The edge of the pond makes a good
+walking path.
 Especially at this time of year.");
-MsgSel("Yes, lovely flowers are blooming too","The doggies seem happy too","Does this make you want to run?");
+MsgSel("Yes, lovely flowers are blooming too.","The doggies would be happy here!","Does this make you want to run?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

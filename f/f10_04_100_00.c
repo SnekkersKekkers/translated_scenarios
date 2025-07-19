@@ -2,7 +2,7 @@ BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(There's only one class left in today's
-schedule....");
+schedule....)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

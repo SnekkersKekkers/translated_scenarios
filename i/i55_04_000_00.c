@@ -26,7 +26,7 @@ I'm not here to buy anything.");
     VoicePlay("I550400000_04_020");
     MsgDisp("Nanatsumori","Can't I window shop at a Japanese sweets
 shop?");
-    MsgDisp("主人公","Y, yes.
+    MsgDisp("主人公","Y-Yes.
 Please take your time looking around.");
     ChEye(4,3);
     ChMouth(4,3);

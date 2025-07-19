@@ -78,8 +78,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_100");
-MsgDisp("Himuro","Well then.
-You're dismissed.");
+MsgDisp("Himuro","Alright.
+That's all.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);

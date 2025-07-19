@@ -55,8 +55,7 @@ VoicePlay("G110400301_04_020");
 MsgDisp("Nanatsumori","Do you want me to leave?");
 MsgDisp("主人公","Huh?");
 VoicePlay("G110400301_04_030");
-MsgDisp("Nanatsumori","Ms.
-Habatcher's newest reporter.
+MsgDisp("Nanatsumori","Miss Habatcher's newest reporter.
 Nana is now available.");
 MsgDisp("主人公","Hehe!
 Are you letting me do an interview then?");
