@@ -67,7 +67,7 @@ ChMotion(6,5);
 VoicePlay("D130A00200_06_040");
 MsgDisp("Himuro","Everyone sure is worried about
 Ryota-senpai.");
-MsgDisp("主人公","what about you ｛氷室＊＊｝?");
+MsgDisp("主人公","What about you ｛氷室＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

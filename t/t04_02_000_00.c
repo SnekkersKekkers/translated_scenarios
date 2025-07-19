@@ -24,7 +24,7 @@ NSSMouth(2,4);
 VoicePlay("T040200000_02_020");
 MsgDisp("Sassa","I have my dearest, capable manager by my
 side, right?");
-MsgDisp("主人公","Well, shall run now?");
+MsgDisp("主人公","Shall we run now?");
 NSSEye(2,3);
 NSSMouth(2,3);
 NSSEyeOpenLevel(2,5);

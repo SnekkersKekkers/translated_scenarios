@@ -4,5 +4,5 @@ ChMotion(4,0);
 ChCheek(4,0);
 MsgDispHide();
 VoicePlay("SS0004013_04_000");
-MsgDisp("Nanatsumori","Nobody around...");
+MsgDisp("Nanatsumori","Nobody's around...");
 MsgClose();

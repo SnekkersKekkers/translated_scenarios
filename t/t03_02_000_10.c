@@ -3,7 +3,7 @@ sports university with ｛颯砂＊＊｝.");
 MsgClear();
 MsgDisp("","｛颯砂＊＊｝ has been competing in track
 meets as a decathlon athlete since his
-first year, and has been attracted a lot
+first year, and has been attracting a lot
 of attention. Everyone around him is
 surprised, but we are both calm. Because
 ｛颯砂＊＊｝ is aiming to become the king

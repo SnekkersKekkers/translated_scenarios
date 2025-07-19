@@ -28,7 +28,7 @@ Wait(8,0);
 ChEye(1,4);
 VoicePlay("T020B21000_01_020");
 MsgDisp("Kazama","Ah, congratulations on graduating.");
-MsgDisp("主人公","｛風真＊＊｝ You too.");
+MsgDisp("主人公","｛風真＊＊｝, you too.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);

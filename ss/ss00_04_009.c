@@ -4,5 +4,5 @@ ChMotion(4,0);
 ChCheek(4,0);
 MsgDispHide();
 VoicePlay("SS0004009_04_000");
-MsgDisp("Nanatsumori","Don't drift around.");
+MsgDisp("Nanatsumori","Don't poke around.");
 MsgClose();

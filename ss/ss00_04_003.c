@@ -4,5 +4,5 @@ ChMotion(4,0);
 ChCheek(4,0);
 MsgDispHide();
 VoicePlay("SS0004003_04_000");
-MsgDisp("Nanatsumori","Oh, awesome view.");
+MsgDisp("Nanatsumori","Oh, the scenery is amazing.");
 MsgClose();
