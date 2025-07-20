@@ -4,6 +4,6 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("SS0101325_01_000");
-MsgDisp("Kazama","That's why I don't like you.");
+MsgDisp("Kazama","It's no good when you do it.");
 MsgClose();
 ChCheek(1,0);

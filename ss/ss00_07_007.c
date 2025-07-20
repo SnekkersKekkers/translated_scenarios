@@ -3,5 +3,5 @@ ChMouth(7,0);
 ChMotion(7,4);
 MsgDispHide();
 VoicePlay("SS0007007_07_000");
-MsgDisp("Mikage","...Oh, man.");
+MsgDisp("Mikage","What was that for...");
 MsgClose();

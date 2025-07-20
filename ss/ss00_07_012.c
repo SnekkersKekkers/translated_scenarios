@@ -3,5 +3,5 @@ ChMouth(7,0);
 ChMotion(7,3);
 MsgDispHide();
 VoicePlay("SS0007012_07_000");
-MsgDisp("Mikage","Whoa, it's a spectacular view.");
+MsgDisp("Mikage","Whoa, what an amazing view.");
 MsgClose();

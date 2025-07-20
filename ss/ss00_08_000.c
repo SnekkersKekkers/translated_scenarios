@@ -4,5 +4,5 @@ ChMotion(8,0);
 ChCheek(8,0);
 MsgDispHide();
 VoicePlay("SS0008000_08_000");
-MsgDisp("Shirahane","Should I come over there?");
+MsgDisp("Shirahane","Come closer, okay?");
 MsgClose();

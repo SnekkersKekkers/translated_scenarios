@@ -2,5 +2,5 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("SS0101336_01_000");
-MsgDisp("Kazama","You've got to be kidding me.");
+MsgDisp("Kazama","Don't joke like that.");
 MsgClose();

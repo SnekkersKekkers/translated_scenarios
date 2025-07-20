@@ -4,5 +4,5 @@ ChMotion(5,0);
 ChCheek(5,0);
 MsgDispHide();
 VoicePlay("SS0005002_05_000");
-MsgDisp("Hiiragi","Seems quite cold...");
+MsgDisp("Hiiragi","It's quite cold...");
 MsgClose();
