@@ -4,5 +4,5 @@ ChMotion(8,0);
 ChCheek(8,0);
 MsgDispHide();
 VoicePlay("SS0008013_08_000");
-MsgDisp("Shirahane","Darn quiet...");
+MsgDisp("Shirahane","It's quiet...");
 MsgClose();
