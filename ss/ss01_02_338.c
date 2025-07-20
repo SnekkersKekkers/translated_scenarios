@@ -4,5 +4,5 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("SS0102338_02_000");
-MsgDisp("Sassa","Let's think about the situation.");
+MsgDisp("Sassa","We should think this through.");
 MsgClose();

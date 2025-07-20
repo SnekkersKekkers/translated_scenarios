@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("SS0102325_02_000");
-MsgDisp("Sassa","Is that embarrassment?");
+MsgDisp("Sassa","Are you hiding how embarrassed you are?");
 MsgClose();

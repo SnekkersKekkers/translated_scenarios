@@ -15,7 +15,7 @@ VoicePlay("B150700300_07_010");
 MsgDisp("Mikage","It wasn't by accident.
 It's dangerous when Miss Diligent gets
 serious huh...");
-MsgDisp("主人公","Serious?");
+MsgDisp("主人公","Diligent?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);

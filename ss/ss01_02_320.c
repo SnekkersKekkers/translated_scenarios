@@ -5,6 +5,6 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 ChCheek(2,10);
 VoicePlay("SS0102320_02_000");
-MsgDisp("Sassa","That kind of look is...not allowed.");
+MsgDisp("Sassa","Giving me that look is cheating...");
 MsgClose();
 ChCheek(2,0);

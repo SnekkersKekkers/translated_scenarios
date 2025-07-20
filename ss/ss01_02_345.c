@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("SS0102345_02_000");
-MsgDisp("Sassa","Yes, that's enough!");
+MsgDisp("Sassa","Okay, that's enough!");
 MsgClose();

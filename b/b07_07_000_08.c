@@ -32,16 +32,16 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700000_07_470");
 MsgDisp("Mikage","Yeah, me too.
-A positive, serious girl like you is my
+A positive, diligent girl like you is my
 type.");
 MsgDisp("主人公","Me?
-Serious?");
+Diligent?");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("B070700000_07_480");
 MsgDisp("Mikage","Hey now, that's a response typical of a
-serious girl.
+diligent girl.
 Do your best, grow up as you are now!");
 MsgDisp("主人公","(Umm...what am I being cheered on for?)");
 BGMStop();

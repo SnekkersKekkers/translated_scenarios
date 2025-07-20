@@ -4,6 +4,6 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("SS0102337_02_000");
-MsgDisp("Sassa","I'm not really a ...");
+MsgDisp("Sassa","Honestly, I actually...");
 MsgClose();
 ChCheek(2,0);

@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("SS0202150_02_000");
-MsgDisp("Sassa","Here, pull yourself together.");
+MsgDisp("Sassa","Come on, pull yourself together.");
 MsgClose();

@@ -3,5 +3,5 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("SS0106132_06_000");
-MsgDisp("Himuro","What are you going to do?");
+MsgDisp("Himuro","What are you trying to do?");
 MsgClose();

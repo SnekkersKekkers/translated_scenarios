@@ -5,6 +5,6 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("SS0106337_06_000");
-MsgDisp("Himuro","What do you want to do with ...?");
+MsgDisp("Himuro","What are you trying to do...?");
 MsgClose();
 ChCheek(6,0);

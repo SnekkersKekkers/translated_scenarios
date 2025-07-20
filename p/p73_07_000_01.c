@@ -81,8 +81,8 @@ I don't know about princess...");
     ChMotion(7,3);
     VoicePlay("P730700001_07_080");
     MsgDisp("Mikage","Haha, it suits you well.
-It really brings out your serious charm.");
-    MsgDisp("主人公","Serious, huh.");
+It really brings out your diligent charm.");
+    MsgDisp("主人公","Diligent, huh.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);

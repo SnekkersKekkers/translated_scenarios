@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("SS0102311_02_000");
-MsgDisp("Sassa","I want another 10 cm.");
+MsgDisp("Sassa","Just another 10cm would be good...");
 MsgClose();

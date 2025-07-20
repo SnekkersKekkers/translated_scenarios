@@ -2,5 +2,5 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("SS0107328_07_000");
-MsgDisp("Mikage","I like a serious girl, you know?");
+MsgDisp("Mikage","I like diligent girls, you know?");
 MsgClose();

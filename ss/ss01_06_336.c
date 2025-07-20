@@ -5,6 +5,6 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("SS0106336_06_000");
-MsgDisp("Himuro","I'm going to get serious, okay?");
+MsgDisp("Himuro","I'm going to take it seriously...");
 MsgClose();
 ChCheek(6,0);

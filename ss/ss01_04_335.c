@@ -3,5 +3,5 @@ ChMouth(4,0);
 ChMotion(4,0);
 ChEyeOpenLevel(4,8);
 VoicePlay("SS0104335_04_000");
-MsgDisp("Nanatsumori","Yes, I'm not ticklish.");
+MsgDisp("Nanatsumori","Okay, no tickling.");
 MsgClose();

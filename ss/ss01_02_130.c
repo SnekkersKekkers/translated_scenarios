@@ -4,5 +4,5 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("SS0102130_02_000");
-MsgDisp("Sassa","What's wrong with your face?");
+MsgDisp("Sassa","What's with that face?");
 MsgClose();

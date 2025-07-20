@@ -4,6 +4,6 @@ ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 ChCheek(5,7);
 VoicePlay("SS0105328_05_000");
-MsgDisp("Hiiragi","Oh, I'm going to get it wrong.");
+MsgDisp("Hiiragi","Ah, this could be easily misinterpreted.");
 MsgClose();
 ChCheek(5,0);

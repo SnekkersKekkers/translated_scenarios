@@ -2,5 +2,5 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("SS0105221_05_000");
-MsgDisp("Hiiragi","Eye contact, is it?");
+MsgDisp("Hiiragi","Eye contact, huh?");
 MsgClose();

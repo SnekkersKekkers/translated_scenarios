@@ -48,8 +48,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700300_07_050");
-MsgDisp("Mikage","You're the type to take everything
-seriously, whether it's studying or
+MsgDisp("Mikage","You're the type to work hard on 
+things, whether it's studying or
 playing, right?");
 MsgDisp("主人公","Umm...");
 ChEye(7,0);

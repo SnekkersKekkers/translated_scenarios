@@ -71,7 +71,7 @@ others strength.");
     ChMotion(22,4,1);
     VoicePlay("H4A2200000_22_050");
     MsgDisp("Hikaru","Yeah.
-Serious, beautiful, and cute.
+Diligent, beautiful, and cute.
 Everyone wants to be like Mari.");
     ChEye(22,3);
     ChMouth(22,3);
