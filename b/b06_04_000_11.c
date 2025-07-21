@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("B060400011_04_000");
-    MsgDisp("Nanatsumori","Well then.");
+    MsgDisp("Nanatsumori","Bye then.");
     break ;
     case 3:
     ChEye(4,0);

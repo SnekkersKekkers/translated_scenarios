@@ -6,7 +6,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,4,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423500_04_000");
-MsgDisp("Nanatsumori","Hmー, just the right amount of scary.
+MsgDisp("Nanatsumori","Hmm, just the right amount of scary.
 I'm content.");
 MsgSel("It was scary, but fun!","I think my legs gave out...","The tricks were too soft, no good, no good!");
 switch (MsgSelRsltGet()){
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040423500_04_010");
     MsgDisp("Nanatsumori","I feel like I shouted a lot too?
-If you both enjoyed being scared, I'm sure
-we're both very satisfied.");
+If we both enjoyed being scared, that 
+means it was worth it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,7 +30,7 @@ we're both very satisfied.");
     ChMotion(4,1,1);
     VoicePlay("B040423500_04_020");
     MsgDisp("Nanatsumori","Sorry, I didn't notice.
-You can hold on to me next time, okay?");
+You can hold onto me next time, okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

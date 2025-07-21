@@ -7,7 +7,7 @@ ChMouth(4,3);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040401001_04_000");
-MsgDisp("Nanatsumori","Ohhhー...how's this?
+MsgDisp("Nanatsumori","OhhhーHow's this?
 Doesn't it like it was especially designed
 for you?");
 MsgSel("Really, I'll go but it!","I wonder...","It doesn't suit me!");
@@ -41,7 +41,7 @@ Don't worry about it.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040401001_04_030");
-    MsgDisp("Nanatsumori","If it suits you, apologize to me.
+    MsgDisp("Nanatsumori","If it suited you, I'd have to pity you.
 This is an amazing design.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

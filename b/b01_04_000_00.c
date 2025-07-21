@@ -16,7 +16,7 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,2);
     ChMotion(4,2);
     VoicePlay("B010400000_04_000");
-    MsgDisp("Nanatsumori","'s fine..");
+    MsgDisp("Nanatsumori","I don't care...");
     MsgDisp("主人公","Um...");
     MsgDispSksp(1,0);
     ChEye(4,4);

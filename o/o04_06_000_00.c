@@ -10,7 +10,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("O040600000_06_000");
     MsgDisp("Himuro","Well, as expected.");
     MsgDisp("主人公","(We won!
-I'm glad we all did our best.)");
+I'm glad we tried our best.)");
     break ;
     case 3:
     MsgClose();
@@ -19,7 +19,7 @@ I'm glad we all did our best.)");
     VoicePlay("O040600000_06_010");
     MsgDisp("Himuro","Hm, how easy.");
     MsgDisp("主人公","(We won!
-I'm glad we all did our best.)");
+I'm glad we tried our best.)");
     break ;
     case 4:
     case 5:
@@ -29,7 +29,7 @@ I'm glad we all did our best.)");
     VoicePlay("O040600000_06_020");
     MsgDisp("Himuro","Nice control.");
     MsgDisp("主人公","(We won!
-I'm glad we all did our best.)");
+I'm glad we tried our best.)");
     break ;
     default :
     DbgAssert(1);

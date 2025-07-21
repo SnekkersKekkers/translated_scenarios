@@ -34,7 +34,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(21,0,30);
 ChPosition(4,0);
-MsgDisp("主人公","(｛みちる＊｝, is gone.)");
+MsgDisp("主人公","(｛みちる＊｝ is gone.)");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -50,7 +50,7 @@ VoicePlay("E010440000_04_040");
 MsgDisp("Nanatsumori","You should join the conversation next time
 instead of eavesdropping.");
 MsgDisp("主人公","Y-Yeah.
-But you two are from another league so I
+But you two are on another league so I
 felt hesitant...");
 ChEye(4,2);
 ChMouth(4,1);
@@ -63,7 +63,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010440000_04_060");
-MsgDisp("Nanatsumori","...Hmph!
+MsgDisp("Nanatsumori","...Pfft!
 Aren't Michiru and I the same age as you?");
 MsgDisp("主人公","That's true.
 By the way, what were you talking about?

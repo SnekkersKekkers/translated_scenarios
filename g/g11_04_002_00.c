@@ -51,7 +51,7 @@ VoicePlay("G110400200_04_020");
 MsgDisp("Nanatsumori","Ah...
 Are you interested in a new product?");
 MsgDisp("主人公","Yeah.
-But I couldn't find anything.");
+But I couldn't find any.");
 ChEye(4,2);
 ChMouth(4,2);
 VoicePlay("G110400200_04_030");

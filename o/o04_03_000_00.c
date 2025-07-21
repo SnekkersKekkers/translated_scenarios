@@ -17,7 +17,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Huh, we won?
 Ooh?");
     MsgDisp("主人公","(We did it!
-I'm glad we all did our best.)");
+I'm glad we tried our best.)");
     break ;
     case 3:
     ChEye(3,3);
@@ -27,7 +27,7 @@ I'm glad we all did our best.)");
     MsgDisp("Honda","Da, we won!
 We did it!");
     MsgDisp("主人公","(We did it!
-I'm glad we all did our best.)");
+I'm glad we tried our best.)");
     break ;
     case 4:
     case 5:
@@ -36,7 +36,7 @@ I'm glad we all did our best.)");
     MsgDisp("Honda","We did it!
 It's our win!");
     MsgDisp("主人公","(We did it!
-I'm glad we all did our best.)");
+I'm glad we tried our best.)");
     break ;
     default :
     DbgAssert(1);

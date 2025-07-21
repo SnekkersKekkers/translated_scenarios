@@ -5,9 +5,9 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040417000_04_000");
-MsgDisp("Nanatsumori","Settings complete.
-Well, let the stage curtains rise!");
-MsgSel("I want to hear ｛七ツ森＊｝'s beautiful voice","Let's do a duet together","Please listen to my song");
+MsgDisp("Nanatsumori","All set and ready.
+Let's raise the curtain on this show!");
+MsgSel("I want to hear ｛七ツ森＊｝'s beautiful voice.","Let's do a duet together!","Please listen to my song.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -30,7 +30,7 @@ I think mostly anything goes.");
     VoicePlay("B040417000_04_020");
     MsgDisp("Nanatsumori","Nice!
 I'll leave the song choice to you.
-I wonder what you'll pickー.");
+I wonder what you'll pickー");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

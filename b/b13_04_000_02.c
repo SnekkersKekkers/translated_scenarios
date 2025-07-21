@@ -2,7 +2,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("B130400002_04_000");
-MsgDisp("Nanatsumori","I really like that mini yukata. The
+MsgDisp("Nanatsumori","I really like that Mini Yukata. The
 combination of the Japanese attire and the
 captivating quality is exquisitely erotic.");
 ChEye(4,0);

@@ -65,7 +65,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110000_01_050");
 MsgDisp("Kazama","If you start to fall asleep, try to think
-about me");
+about me.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

@@ -10,7 +10,7 @@ VoicePlay("B040706100_07_000");
 MsgDisp("Mikage","Even though it's a class field trip, we're
 going for a dip in the sea.
 Come on, let's go.");
-MsgSel("｛御影＊＊｝, come with us too","What are we supposed to learn here?","How about we cool off at the beach hut?");
+MsgSel("｛御影＊＊｝, come with us too.","What are we supposed to learn here?","How about we cool off at the beach hut?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

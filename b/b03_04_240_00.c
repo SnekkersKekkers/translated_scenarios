@@ -4,7 +4,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B030424000_04_000");
-MsgDisp("Nanatsumori","Well then.
+MsgDisp("Nanatsumori","Okay then.
 What should we do?");
 MsgDisp("主人公","Let's see...");
 MsgDisp("","　　　　　　　　　　 ・

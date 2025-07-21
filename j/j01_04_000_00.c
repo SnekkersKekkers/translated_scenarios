@@ -14,8 +14,8 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Ah, ｛七ツ森＊｝?
 It's ｛主人公苗字｝.");
     VoicePlay("J010400000_04_010");
-    MsgDisp("Nanatsumori","*sigh.
-What's this about?.");
+    MsgDisp("Nanatsumori","Right.
+What's this about?");
     MsgDisp("主人公","Uh, well...");
     break ;
     case 3:

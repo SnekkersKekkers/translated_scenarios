@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","We won?
 Seriously!?");
     MsgDisp("主人公","(We did it!
-I'm glad we all did our best.)");
+I'm glad we tried our best.)");
     break ;
     case 3:
     MsgClose();
@@ -25,7 +25,7 @@ I'm glad we all did our best.)");
     MsgDisp("Nanatsumori","Seriously!?
 Looks like we won.");
     MsgDisp("主人公","(We did it!
-I'm glad we all did our best.)");
+I'm glad we tried our best.)");
     break ;
     case 4:
     case 5:
@@ -38,7 +38,7 @@ I'm glad we all did our best.)");
 No one can beat us.
 Right?");
     MsgDisp("主人公","(We did it!
-I'm glad we all did our best.)");
+I'm glad we tried our best.)");
     break ;
     default :
     DbgAssert(1);

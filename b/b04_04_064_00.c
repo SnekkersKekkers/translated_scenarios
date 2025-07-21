@@ -6,8 +6,8 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040406400_04_000");
-MsgDisp("Nanatsumori","Hmmー.
-Summer really is about festivalsー.");
+MsgDisp("Nanatsumori","Hmm.
+Summer really is about festivals.");
 MsgDisp("主人公","Yeah, that's right.");
 VoicePlay("B040406400_04_010");
 MsgDisp("Nanatsumori","There are lots of photogenic spots, so
@@ -21,8 +21,8 @@ MsgDisp("主人公","Why?");
 ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("B040406400_04_030");
-MsgDisp("Nanatsumori","Whether I'm Minori Nanatsumori ot Nana, I
-can't upload it. And they'll also wonder
+MsgDisp("Nanatsumori","Whether I'm Minori Nanatsumori or Nana, I
+can't upload it. They'll wonder
 who took the picture.");
 MsgDisp("主人公","Ah...
 I see.");
@@ -32,7 +32,7 @@ ChMotion(4,1,1);
 VoicePlay("B040406400_04_040");
 MsgDisp("Nanatsumori","At least, he's quite well-known around
 town.
-That \"Nana\" person that is.");
+That \"Nana\" person, I mean.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,0);
 ChMotion(4,0,1);

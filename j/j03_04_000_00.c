@@ -7,8 +7,8 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Okay then, on ｛日付｝ I'll be
 waiting for you at ｛待ち合わせ場所｝!");
     VoicePlay("J030400000_04_010");
-    MsgDisp("Nanatsumori","Okay, okay.
-I'll be the guest of honor.");
+    MsgDisp("Nanatsumori","Okay.
+See you then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray-!
