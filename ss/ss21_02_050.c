@@ -4,6 +4,6 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("SS2102050_02_000");
-MsgDisp("Sassa","Let's go swimming in that ....");
+MsgDisp("Sassa","Hmm...should we swim?");
 MsgClose();
 ChCheek(2,0);

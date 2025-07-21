@@ -4,7 +4,6 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("SS9202237_02_000");
-MsgDisp("Sassa","Yah, I think I'm going to be swept away by
-the ...atmosphere.");
+MsgDisp("Sassa","The atmosphere is contagious...");
 MsgClose();
 ChCheek(2,0);

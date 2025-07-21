@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("SS9102200_02_000");
-MsgDisp("Sassa","He told me to leave it at that.");
+MsgDisp("Sassa","Let's leave it at that.");
 MsgClose();

@@ -4,5 +4,5 @@ ChMotion(4,0);
 ChCheek(4,0);
 MsgDispHide();
 VoicePlay("SS0004006_04_000");
-MsgDisp("Nanatsumori","I feel at ease...");
+MsgDisp("Nanatsumori","It's relaxing...");
 MsgClose();

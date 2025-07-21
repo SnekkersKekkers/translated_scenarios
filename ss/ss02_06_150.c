@@ -3,5 +3,5 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("SS0206150_06_000");
-MsgDisp("Himuro","I should get home soon.");
+MsgDisp("Himuro","We have to go home soon.");
 MsgClose();
