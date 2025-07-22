@@ -13,14 +13,14 @@ ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
 ChMotion(4,1,1);
 VoicePlay("P740400000_04_000");
 MsgDisp("Nanatsumori","Good work.
-It was a good show?");
+It was a good show.");
 MsgDisp("主人公","Thank you!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P740400000_04_010");
-MsgDisp("Nanatsumori","I also wanted to walk alongside youー.");
-MsgDisp("主人公","HEhe!");
+MsgDisp("Nanatsumori","I wanted to walk alongside you.");
+MsgDisp("主人公","Hehe!");
 MsgDisp("主人公","(Yay, a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);

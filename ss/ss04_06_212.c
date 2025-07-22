@@ -4,5 +4,5 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("SS0406212_06_000");
-MsgDisp("Himuro","Why are you stroking it?");
+MsgDisp("Himuro","Why are you petting me?");
 MsgClose();

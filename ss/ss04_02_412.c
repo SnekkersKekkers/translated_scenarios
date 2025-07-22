@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("SS0402412_02_000");
-MsgDisp("Sassa","Do you like that?");
+MsgDisp("Sassa","I think I like that.");
 MsgClose();

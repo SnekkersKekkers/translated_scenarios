@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("SS0402212_02_000");
-MsgDisp("Sassa","He said he couldn't react.");
+MsgDisp("Sassa","I don't know how to respond to that.");
 MsgClose();

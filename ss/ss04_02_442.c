@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("SS0402442_02_000");
-MsgDisp("Sassa","Yeah, lean on me.");
+MsgDisp("Sassa","Yeah, go ahead and lean on me.");
 MsgClose();

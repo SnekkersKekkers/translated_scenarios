@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("SS0402342_02_000");
-MsgDisp("Sassa","Here, look forward.");
+MsgDisp("Sassa","C'mon, look where you're going.");
 MsgClose();
