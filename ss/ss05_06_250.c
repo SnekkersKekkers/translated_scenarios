@@ -4,5 +4,5 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("SS0506250_06_000");
-MsgDisp("Himuro","You have to let me go.");
+MsgDisp("Himuro","It'll be a problem if you don't let go.");
 MsgClose();

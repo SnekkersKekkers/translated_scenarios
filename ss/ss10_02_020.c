@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("SS1002020_02_000");
-MsgDisp("Sassa","Sorry I'm late.");
+MsgDisp("Sassa","Sorry for being late.");
 MsgClose();

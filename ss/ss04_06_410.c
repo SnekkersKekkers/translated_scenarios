@@ -4,6 +4,6 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,10);
 VoicePlay("SS0406410_06_000");
-MsgDisp("Himuro","As it is, ...nothing.");
+MsgDisp("Himuro","Right now...nevermind.");
 MsgClose();
 ChCheek(6,0);

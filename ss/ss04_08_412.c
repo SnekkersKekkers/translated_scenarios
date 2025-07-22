@@ -3,6 +3,6 @@ ChMouth(8,0);
 ChMotion(8,2);
 ChCheek(8,7);
 VoicePlay("SS0408412_08_000");
-MsgDisp("Shirahane","Yeah, I'm a good kid, right?");
+MsgDisp("Shirahane","Ya, I'm a good kid, ya know?");
 MsgClose();
 ChCheek(8,0);

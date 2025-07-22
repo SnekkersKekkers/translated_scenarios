@@ -5,6 +5,6 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("SS0406411_06_000");
-MsgDisp("Himuro","Because that move is not fair...");
+MsgDisp("Himuro","That move is cheating...");
 MsgClose();
 ChCheek(6,0);

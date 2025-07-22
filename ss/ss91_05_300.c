@@ -4,6 +4,6 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,7);
 VoicePlay("SS9105300_05_000");
-MsgDisp("Hiiragi","It is time to go to the limit.");
+MsgDisp("Hiiragi","I'm almost at my limit.");
 MsgClose();
 ChCheek(5,0);
