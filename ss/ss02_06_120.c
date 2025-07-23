@@ -4,5 +4,5 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("SS0206120_06_000");
-MsgDisp("Himuro","Put it in proper words.");
+MsgDisp("Himuro","Express yourself clearly.");
 MsgClose();

@@ -4,5 +4,5 @@ ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("SS0206240_06_000");
-MsgDisp("Himuro","Maybe you're tired?");
+MsgDisp("Himuro","Are you tired?");
 MsgClose();
