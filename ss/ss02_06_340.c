@@ -4,6 +4,6 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("SS0206340_06_000");
-MsgDisp("Himuro","I'm not really nervous or anything.");
+MsgDisp("Himuro","I'm not really excited.");
 MsgClose();
 ChCheek(6,0);
