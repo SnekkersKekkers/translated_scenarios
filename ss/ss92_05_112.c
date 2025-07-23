@@ -3,5 +3,6 @@ ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("SS9205112_05_000");
-MsgDisp("Hiiragi","Your hands are cold... are you quite alright?");
+MsgDisp("Hiiragi","Your hands are cold...are you quite
+alright?");
 MsgClose();

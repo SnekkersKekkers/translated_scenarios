@@ -2,8 +2,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0,1);
 VoicePlay("B020202002_02_000");
-MsgDisp("Sassa","Those kinds of clothes completely
-change your image, huh.");
+MsgDisp("Sassa","Those kinds of clothes completely change
+your image, huh.");
 MsgDisp("主人公","Um, is it weird?");
 ChEye(2,0);
 ChMouth(2,4);

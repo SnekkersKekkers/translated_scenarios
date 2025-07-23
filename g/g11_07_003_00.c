@@ -48,16 +48,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700300_07_050");
-MsgDisp("Mikage","You're the type to work hard on 
-things, whether it's studying or
-playing, right?");
+MsgDisp("Mikage","You're the type to work hard on things,
+whether it's studying or playing, right?");
 MsgDisp("主人公","Umm...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700300_07_060");
-MsgDisp("Mikage","Diligent-chan in my class always
-acting so diligently.");
+MsgDisp("Mikage","Diligent-chan in my class always acting so
+diligently.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040423500_04_010");
     MsgDisp("Nanatsumori","I feel like I shouted a lot too?
-If we both enjoyed being scared, that 
+If we both enjoyed being scared, that
 means it was worth it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

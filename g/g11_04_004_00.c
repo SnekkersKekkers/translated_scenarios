@@ -47,8 +47,8 @@ ChMouth(4,2);
 ChMotion(4,1);
 VoicePlay("G110400400_04_040");
 MsgDisp("Nanatsumori","Just like you the other day.
-Taking pics for people who want the new items
-and keep up with the trends.");
+Taking pics for people who want the new
+items and keep up with the trends.");
 MsgDisp("主人公","I see, wow, I'm looking forward to it.");
 ChMotion(4,2);
 VoicePlay("G110400400_04_050");

@@ -111,8 +111,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010120100_01_080");
 MsgDisp("Kazama","Ah, I gotta go too.
-See you later then, Miss
-Apparition?");
+See you later then, Miss Apparition?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

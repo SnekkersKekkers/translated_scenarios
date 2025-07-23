@@ -51,9 +51,9 @@ MsgDisp("Kazama","No.
 I'm scared of you chasing me.
 It reminds me of back in Kindergarten.");
 MsgDisp("主人公","Hehe, it's not scary but both ｛颯砂＊＊｝
-and ｛風真＊＊｝ are intimidating so I think it's amazing
-that ｛氷室＊＊｝ can talk to you so
-normally.");
+and ｛風真＊＊｝ are intimidating so I
+think it's amazing that ｛氷室＊＊｝ can
+talk to you so normally.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

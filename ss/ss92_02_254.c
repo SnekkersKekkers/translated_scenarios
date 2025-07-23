@@ -4,6 +4,6 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("SS9202254_02_000");
-MsgDisp("Sassa","Well, well... nobody's watching...");
+MsgDisp("Sassa","Well, well...nobody's watching...");
 MsgClose();
 ChCheek(2,0);

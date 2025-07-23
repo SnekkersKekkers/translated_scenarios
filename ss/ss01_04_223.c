@@ -2,5 +2,5 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("SS0104223_04_000");
-MsgDisp("Nanatsumori","Oh, you ready to go? ");
+MsgDisp("Nanatsumori","Oh, you ready to go?");
 MsgClose();

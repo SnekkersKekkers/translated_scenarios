@@ -85,8 +85,8 @@ ScrFadeOut(0);
 StlClose();
 BGOpen("sc310",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(A normal girl, huh...｛ひかる＊｝ is
-a celebrity but I guess sometimes during
+MsgDisp("主人公","(A normal girl, huh...｛ひかる＊｝ is a
+celebrity but I guess sometimes during
 school she wants to be free of that.)");
 MsgClose();
 ScrFadeOut(0,0);

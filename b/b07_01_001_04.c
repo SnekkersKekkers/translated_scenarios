@@ -15,18 +15,18 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100001_01_190");
 MsgDisp("Kazama","Yeah yeah. It's annoying for me. When I
-see someone like Sassa up close, it
-seems stupid to take sports seriously.");
+see someone like Sassa up close, it seems
+stupid to take sports seriously.");
 MsgDisp("主人公","Hmmm...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_200");
-MsgDisp("Kazama","Inori joins Sassa and keeps saying
-things like I should do track and field or
-go surfing. In the end, it's like, \"Why
-not try e-sports instead?\"");
+MsgDisp("Kazama","Inori joins Sassa and keeps saying things
+like I should do track and field or go
+surfing. In the end, it's like, \"Why not
+try e-sports instead?\"");
 MsgDisp("主人公","Hehe, ｛氷室＊＊｝ wants to go surfing with
 ｛風真＊＊｝ doesn't he?");
 ChEye(1,0);
