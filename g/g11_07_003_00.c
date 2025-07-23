@@ -56,8 +56,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700300_07_060");
-MsgDisp("Mikage","Serious-chan in my class who takes
-everything seriously.");
+MsgDisp("Mikage","Diligent-chan in my class always
+acting so diligently.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

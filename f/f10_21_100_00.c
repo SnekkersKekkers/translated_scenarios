@@ -1,7 +1,7 @@
 BGOpen("sc230",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, it's ｛みちる＊｝)");
+MsgDisp("主人公","(Ah, it's ｛みちる＊｝.)");
 MsgClose();
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
 Wait(15,0);

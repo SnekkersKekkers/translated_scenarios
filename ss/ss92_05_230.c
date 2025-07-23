@@ -3,5 +3,5 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("SS9205230_05_000");
-MsgDisp("Hiiragi","You really are bold.");
+MsgDisp("Hiiragi","You are really bold.");
 MsgClose();

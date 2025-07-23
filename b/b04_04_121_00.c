@@ -11,7 +11,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040412100_04_000");
 MsgDisp("Nanatsumori","Ahー, I'm getting excited...");
-MsgSel("Let's find some bargains!","Setting up a stall seems fun","This is an environmentally-friendly event");
+MsgSel("Let's find some bargains!","Setting up a stall seems fun","This is an environmentally-friendly event.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
