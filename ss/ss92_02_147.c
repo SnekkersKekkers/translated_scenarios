@@ -4,6 +4,6 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("SS9202147_02_000");
-MsgDisp("Sassa","You're getting a bit closer.");
+MsgDisp("Sassa","Umm, you're getting kind of close...");
 MsgClose();
 ChCheek(2,0);

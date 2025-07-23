@@ -3,5 +3,5 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("SS9205130_05_000");
-MsgDisp("Hiiragi","It is not something you do in public.");
+MsgDisp("Hiiragi","That's not something to do in public.");
 MsgClose();

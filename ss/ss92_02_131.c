@@ -3,5 +3,5 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("SS9202131_02_000");
-MsgDisp("Sassa","Dangerous, huh?");
+MsgDisp("Sassa","Ah, that's dangerous...");
 MsgClose();
