@@ -11,7 +11,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(31,254,5,4,4,#1,#1,0,0);
 VoicePlay("P543100005_31_000");
 MsgDisp("Goro","Hey!
-Where has your 'heart' gone?∋");
+Where has your 'heart' gone∋");
 MsgDisp("主人公","Goro-sensei...
 I'm sorry.");
 ChEye(31,0);

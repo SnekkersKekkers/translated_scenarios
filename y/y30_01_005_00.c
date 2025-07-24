@@ -37,7 +37,7 @@ consideration, or just purely
 enjoying the moment, we're not really
 sure.");
 MsgClear();
-MsgDisp("主人公","\"\"Yes, sorry to have kept you
+MsgDisp("主人公","\"Yes, sorry to have kept you
 waiting.\"");
 SEPlay("EV_SE_827",0,0.5);
 SEWait();

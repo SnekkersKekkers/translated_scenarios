@@ -56,7 +56,7 @@ roar with laughter, and the person
 we're talking about appears.");
 BGOpen("ad440",0);
 MsgClear();
-MsgDisp("主人公","\"\"What is everyone talking so happily
+MsgDisp("主人公","\"What is everyone talking so happily
 about?\"");
 MsgDisp("","\"We're talking about you\", we say in
 unison.");

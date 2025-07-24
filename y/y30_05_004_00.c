@@ -82,7 +82,7 @@ MsgDisp("Himuro","\"Ah, Kojiro-sensei is here too?
 I didn't notice because your clothes
 were so nice.\"");
 VoicePlay("Y300500400_07_030");
-MsgDisp("Mikage","\"\"Didn't we make eye contact just
+MsgDisp("Mikage","\"Didn't we make eye contact just
 now?\"");
 MsgClear();
 MsgDisp("","To start with, the one who introduced

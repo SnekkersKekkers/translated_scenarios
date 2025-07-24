@@ -7,6 +7,6 @@ still want to go...");
 MsgDisp("主人公","Ah, right.
 I think the party will have a gift
 exchange.");
-MsgDisp("主人公","I'll go and buy a gift");
+MsgDisp("主人公","I'll go and buy a gift.");
 MsgClose();
 ScrFadeOut(0);

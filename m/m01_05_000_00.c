@@ -12,7 +12,7 @@ I made you worry.");
 VoicePlay("M010500000_05_020");
 MsgDisp("Hiiragi","...I see. I can be at ease now that I've
 heard your voice. Please rest. Well, then.");
-MsgDisp("主人公","Eh?∋
+MsgDisp("主人公","Eh∋
 Wait a minute...!");
 MsgClose();
 ScrFadeOut(0,0);

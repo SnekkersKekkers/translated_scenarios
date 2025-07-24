@@ -25,7 +25,7 @@ MsgDisp("","A place with our precious memories!
 Meganebashi...
 No, Nagasaki!");
 MsgClear();
-MsgDisp("主人公","\"\"Amazing, to think you were able to
+MsgDisp("主人公","\"Amazing, to think you were able to
 start helping a professor in first
 year!\"");
 MsgDisp("","You were happy as usual, but if I go

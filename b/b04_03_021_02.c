@@ -125,7 +125,7 @@ me to do?)");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("B040302102_03_120");
-    MsgDisp("Honda","Eh?∋
+    MsgDisp("Honda","Eh∋
 Does that mean I saw something I wasn't
 supposed to?");
     MsgDispSksp(1,0);

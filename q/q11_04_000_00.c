@@ -1,9 +1,9 @@
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","There's alot, I can't choose...memory,
-memory huh...");
-MsgDisp("主人公","(I wonder where ｛七ツ森＊｝ went
-to...)");
+MsgDisp("主人公","There's alot, I can't choose...
+Something that will make good memories,
+huh...");
+MsgDisp("主人公","(I wonder where ｛七ツ森＊｝ went...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -21,8 +21,8 @@ A pendant top from Nagasaki glass.");
 ChEye(4,4);
 ChMotion(4,0,1);
 VoicePlay("Q110400000_04_020");
-MsgDisp("Nanatsumori","Since you must have a lot of items, I
-thought you could like this kind of
+MsgDisp("Nanatsumori","Since you already have a lot of items, I
+thought you would like this kind of
 present.");
 MsgDisp("主人公","...Are you sure?
 I'm so happy.
@@ -30,19 +30,19 @@ Thank you so much!");
 ChEye(4,0);
 ChMotion(4,1,1);
 VoicePlay("Q110400000_04_030");
-MsgDisp("Nanatsumori","And, I got one too in a different color.
+MsgDisp("Nanatsumori","I got one in a different color, too.
 What do you think?");
 MsgDisp("主人公","It's great!");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q110400000_04_040");
-MsgDisp("Nanatsumori","I am glad it could match to your liking.");
+MsgDisp("Nanatsumori","I'm glad we could match.");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("Q110400000_04_050");
-MsgDisp("Nanatsumori","...I wish I could remember even this talk
-forever.");
+MsgDisp("Nanatsumori","I wish I could remember this trip
+forever...");
 MsgDisp("主人公","Yeah.
 I'm sure I'll never forget it.");
 ChMotion(4,3,1);

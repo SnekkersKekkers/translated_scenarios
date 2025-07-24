@@ -80,7 +80,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B10500_01_040");
 MsgDisp("Kazama","Right, we were just talking about who
-would best brin g out your potential.");
+would best bring out your potential.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);

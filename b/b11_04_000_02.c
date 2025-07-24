@@ -8,7 +8,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","｛七ツ森＊｝, you're late...");
 VoicePlay("B110400002_35_000");
-MsgDisp("?Boy","...Okay!
+MsgDisp("Guy?","...Okay!
 Then for tonight's meeting, we'll go to
 the usual three star sushi restaurant!");
 MsgClose();

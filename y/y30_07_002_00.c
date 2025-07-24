@@ -35,7 +35,7 @@ students rippled across the
 classroom.");
 MsgDisp("","\"That's a lie! There won't be a
 school play?\" \"That's unheard of\"
-\"\"No, we worked so hard to prepare\"");
+\"No, we worked so hard to prepare\"");
 MsgClear();
 VoicePlay("Y300700200_07_010");
 MsgDisp("Mikage","\"Everyone prepared for this right?
@@ -95,7 +95,7 @@ SEWait();
 EnvPlay("SE_ENV_BG_SC300_CS0",0.5,0.5);
 ScrFadeIn(0);
 VoicePlay("Y300700200_32_010");
-MsgDisp("VP Himuro","\"\"The school play is the highlight of
+MsgDisp("VP Himuro","\"The school play is the highlight of
 the cultural festival. Respecting the
 feelings of your students, make a
 decision Mikage-sensei.\"");
@@ -112,7 +112,7 @@ VoicePlay("Y300700200_07_060");
 MsgDisp("Mikage","\"Eh?
 Vice Principal Himuro was in a school
 play∋\"");
-MsgDisp("","I think Vice principal Himuro let his
+MsgDisp("","I think Vice Principal Himuro let his
 guard down a little, as if he was
 reminiscing about the past.");
 MsgClear();

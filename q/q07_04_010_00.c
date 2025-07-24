@@ -3,7 +3,7 @@ BGOpen("sc820",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Amazing...
-Flowers and nice buildings spread out,
+Flowers and nice buildings all around,
 it's like being in a foreign country!");
 VoicePlay("Q070401000_04_000");
 MsgDisp("Nanatsumori","......");
@@ -23,7 +23,7 @@ StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("Q070401000_04_030");
 MsgDisp("Nanatsumori","I underestimate school events in general.
-Fr, they're OP.");
+Fr, they're overpowered.");
 MsgDisp("主人公","Hehe!");
 StlEye(4,1,0);
 StlMouth(4,1);
@@ -91,9 +91,9 @@ StlEye(4,0);
 StlMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("Q070401000_04_120");
-MsgDisp("Nanatsumori","Love———∈");
-MsgDisp("主人公","(Ehhh, what do you like so much that you
-want to scream～∋)");
+MsgDisp("Nanatsumori","Love it———∈");
+MsgDisp("主人公","(Ehhh, what does he like so much that it
+makes him shout～∋)");
 MsgClose();
 BGMStop();
 MsgClose();

@@ -14,18 +14,18 @@ MsgDisp("Nanatsumori","I surprisingly really like aquariums.");
 MsgDisp("主人公","Surprisingly?");
 ChMotion(4,1,1);
 VoicePlay("B360403200_04_010");
-MsgDisp("Nanatsumori","Right. It's surprising for me to put aside
-what looks good in a picture. I've liked
-it ever since I was a kid.");
+MsgDisp("Nanatsumori","Yeah, it's unexpected for me to ignore
+aesthetic appeal.
+I've enjoyed aquariums since I was a kid.");
 MsgDisp("主人公","I see.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360403200_04_020");
-MsgDisp("Nanatsumori","I mean, aren't they amazing? These
+MsgDisp("Nanatsumori","I mean, aren't they amazing? The
 fish...the variety and number of marine
-life And even the lighting effects create
-a world that can't be found on land.");
+life, even the lighting effects create a
+world that can't be found on land.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);

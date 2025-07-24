@@ -6,7 +6,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Uh, wait a minute.");
     MsgDisp("主人公","Was it too sudden?");
     VoicePlay("J030300001_03_010");
-    MsgDisp("Honda","...yeah.
+    MsgDisp("Honda","...Yeah.
 I'm not available that day.
 Sorry.");
     MsgDisp("主人公","I see.

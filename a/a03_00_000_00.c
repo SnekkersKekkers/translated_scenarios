@@ -30,7 +30,7 @@ VoicePlay("A030000000_32_020");
 MsgDisp("VP Himuro","We the teachers and staff are proud to
 enlighten you, and it is our intention to
 do our very best——");
-MsgDisp("主人公","(Vice principal Himuro...
+MsgDisp("主人公","(Vice Principal Himuro...
 He seems like a strict but very reliable
 teacher.)");
 SEPlay("EV_SE_CLAP_002",0,0.9);

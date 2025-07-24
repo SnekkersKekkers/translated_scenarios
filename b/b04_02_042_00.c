@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040204200_02_000");
     MsgDisp("Sassa","The trapeze was awesome.
 That part where they almost fell was
-staged, right?∋");
+staged, right∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

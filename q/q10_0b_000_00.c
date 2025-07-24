@@ -19,13 +19,13 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q100B00000_03_000");
 MsgDisp("Honda","It's a really fine stone bridge.
-It's really is beautiful.");
+It really is beautiful.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q100B00000_01_000");
 MsgDisp("Kazama","Hey, look!
-There're carps.");
+There are koi fish.");
 MsgDisp("主人公","Hehe.
 How relaxing to watch, huh?");
 ChEye(1,0);
@@ -85,7 +85,7 @@ ChMouth(1,3);
 ChMotion(1,3,1);
 VoicePlay("Q100B00000_01_030");
 MsgDisp("Kazama","Wait a sec.
-I heard that the udon from the Gotō
+I heard that the udon from the Goto
 Islands are delicious.");
 ChEye(4,2);
 ChMouth(4,2);
@@ -97,7 +97,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("Q100B00000_03_030");
-MsgDisp("Honda","Udon from the Gotō Islands?
+MsgDisp("Honda","Udon from the Goto Islands?
 That also sounds unmissable!");
 ChEye(4,2);
 ChMouth(4,1);
@@ -130,7 +130,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q100B00000_04_060");
-MsgDisp("Nanatsumori","Well, how about taking the middle and
+MsgDisp("Nanatsumori","Well, how about meeting in the middle and
 going on a castella tour for now.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -152,29 +152,28 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("Q100B00000_04_070");
-MsgDisp("Nanatsumori","Sigh...why are you all interested in
-noodles...");
+MsgDisp("Nanatsumori","Sigh...
+Why are you all interested in noodles...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q100B00000_03_060");
-MsgDisp("Honda","Let's start by you, Mi-kun.
-Let's go to your recommendated castella
-shop!");
+MsgDisp("Honda","Let's start with you, Mii-kun.
+Let's go to your favorite castella shop!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q100B00000_01_070");
-MsgDisp("Kazama","You've already researched, right?
-I'm counting on it, Nanatsumori.");
+MsgDisp("Kazama","You've done your research, right?
+I'm counting on you, Nanatsumori.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q100B00000_04_080");
 MsgDisp("Nanatsumori","Ok.
-Let's go to my No. 1 recommendation!");
+Let's go check out my number one spot!");
 MsgDisp("主人公","(Hehe!
-Looks like we have a conclusion!)");
+It seems we've reached a decision!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

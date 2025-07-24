@@ -35,7 +35,7 @@ MsgDisp("主人公","\"They're tulip bulbs, right?\"");
 MsgDisp("","For the MVP prize, I gave the tulip
 bulbs I got as a souvenir from
 Nagasaki on our school trip.");
-MsgDisp("主人公","\"Can I plant some here too?\"\"");
+MsgDisp("主人公","\"Can I plant some here too?\"");
 MsgDisp("","Her smile is as lively as a plant
 damp with morning dew.");
 MsgClear();

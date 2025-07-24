@@ -48,7 +48,7 @@ VoicePlay("A020D00000_21_030");
 MsgDisp("Michiru?","Hikaru...Let's not use nicknames before
 we've properly introduced ourselves.");
 MsgDisp("主人公","Wait, Michiru...Hikaru...You're the
-\"Hanatsubaki Twins\" model twins!?∋");
+\"Hanatsubaki Twins\" model twins!∋");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

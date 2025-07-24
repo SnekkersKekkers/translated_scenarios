@@ -9,5 +9,5 @@ ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,1,1);
 VoicePlay("Q230400000_04_000");
-MsgDisp("Nanatsumori","Baka!
+MsgDisp("Nanatsumori","Idiot!
 Why did you come here∋");

@@ -26,13 +26,14 @@ ChMotion(4,0,1);
 VoicePlay("B360450300_04_010");
 MsgDisp("Nanatsumori","What about you?
 Aren't you tired?");
-MsgDisp("主人公","No.
-It was so fun, my heart is still racing.");
+MsgDisp("主人公","Nope.
+I had so much fun...my heart's still
+pounding.");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("B360450300_04_020");
-MsgDisp("Nanatsumori","Your heart is still racing...
-You mean the aftertaste?");
+MsgDisp("Nanatsumori","Your heart's still pounding...
+You mean...like an afterglow?");
 MsgDisp("主人公","Hmm...
 I wonder.
 It's a bit different.");
@@ -48,13 +49,13 @@ MsgDisp("Nanatsumori","......");
 MsgDisp("主人公","......");
 ChMouthOpenLevel(4,#1);
 VoicePlay("B360450300_04_050");
-MsgDisp("Nanatsumori","Does this make your heart race?");
-MsgDisp("主人公","Maybe it's even faster...?");
+MsgDisp("Nanatsumori","Does this make your heart race too?");
+MsgDisp("主人公","I think it's beating even faster...?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360450300_04_060");
-MsgDisp("Nanatsumori","Alright.");
+MsgDisp("Nanatsumori","Good.");
 MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();

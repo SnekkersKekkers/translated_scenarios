@@ -1,22 +1,22 @@
-MsgDisp("主人公","Do you do any sports asides from surfing?");
+MsgDisp("主人公","Do you do any sports besides surfing?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_150");
-MsgDisp("Himuro","It's not of interest at the moment.");
-MsgDisp("主人公","Would you do any if you were interested?");
+MsgDisp("Himuro","There's nothing of interest at the moment.");
+MsgDisp("主人公","Are you not interested in sports?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_160");
-MsgDisp("Himuro","Well, that's if I am interested.
-I'm not bad at physical activity.");
+MsgDisp("Himuro","Well...
+I'm not bad at them.");
 MsgDisp("主人公","Yeah, I knew that?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B070600000_06_170");
-MsgDisp("Himuro","Then that's fine.
+MsgDisp("Himuro","That's good, then.
 I don't like people making assumptions.");
 MsgDisp("主人公","Assumptions?");
 ChEye(6,1);

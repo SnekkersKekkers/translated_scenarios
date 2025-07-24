@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040122200_01_000");
 MsgDisp("Kazama","Some of the artifacts here were donated by
-my Ojii-chan.");
-MsgSel("You can feel the weight of history","Is that sword real?","The history of the Kazuma family is the history of Habataki City.");
+my Grandpa.");
+MsgSel("You can feel the weight of history.","Is that sword real?","The history of the Kazama family is the history of Habataki City.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040122200_01_010");
-    MsgDisp("Kazama","right.
-We're here like this today, because of the
+    MsgDisp("Kazama","Right.
+We're here like this today because of the
 efforts of everyone in the past.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -44,7 +44,7 @@ If a sword from 500 years ago was remade
     ChMouth(1,3);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040122200_01_030");
-    MsgDisp("Kazama","It's because my Ojii-chan carefully
+    MsgDisp("Kazama","It's because my Grandpa carefully
 protected these cultural assets that we
 can experience history like this.");
     MsgDispSksp(1,0);

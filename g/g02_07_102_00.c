@@ -39,7 +39,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710200_07_050");
 MsgDisp("Mikage","Cute, huh～?
-Vice principal firefly...?");
+Vice Principal firefly...?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

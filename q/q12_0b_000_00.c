@@ -22,18 +22,18 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("Q120B00000_03_000");
-MsgDisp("Honda","Mhmmhm, I want to extend it.");
+MsgDisp("Honda","Mmhm, I want to extend it.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q120B00000_04_000");
-MsgDisp("Nanatsumori","Sometimes These kinda stuff are also good.");
+MsgDisp("Nanatsumori","Sometimes this kind of stuff is also good.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoiceEVSPlay(1);
 VoicePlay("Q120B00000_01_010");
-MsgDisp("Kazama","｛主人公｝, could you enjoy it properly?");
+MsgDisp("Kazama","｛主人公｝, did you enjoy it properly?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -49,7 +49,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q120B00000_03_010");
-MsgDisp("Honda","Mhmmhm.
+MsgDisp("Honda","Mmhm.
 We were even able to study hard!");
 ChMouth(1,2);
 ChEye(4,2);
@@ -64,17 +64,17 @@ ChEyeOpenLevel(1,0);
 VoicePlay("Q120B00000_01_020");
 MsgDisp("Kazama","That's right. The report is waiting.
 Nanatsumori, you can't just give reports
-of castellas.");
+on castellas.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("Q120B00000_04_030");
 MsgDisp("Nanatsumori","...Stop it.
-That topic is now unneeded.");
+We don't need to talk about that.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
-MsgDisp("主人公","Ahaha!");
+MsgDisp("主人公","Hehe!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -95,21 +95,21 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q120B00000_04_040");
-MsgDisp("Nanatsumori","I agree to you for a bit.");
+MsgDisp("Nanatsumori","I agree a bit.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q120B00000_01_040");
-MsgDisp("Kazama","Well, wouldn't be bad.");
+MsgDisp("Kazama","Well, that wouldn't be so bad.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q120B00000_01_050");
-MsgDisp("Kazama","Well, that's it for today.
-See you at school.");
-MsgDisp("主人公","(I really made a lot of good memories with
-these four of us.)");
+MsgDisp("Kazama","That's it for today.
+See you back at school.");
+MsgDisp("主人公","(The four of us really made some good
+memories.)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

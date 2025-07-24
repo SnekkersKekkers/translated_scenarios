@@ -18,7 +18,7 @@ VoicePlay("D010500100_05_000");
 MsgDisp("Hiiragi","\"Good afternoon.
 Is that your lunch?\"");
 MsgDisp("主人公","\"Ah, yeah.
-Has ｛柊＊＊＊｝ already eaten/\"\"");
+Has ｛柊＊＊＊｝ already eaten?\"");
 MsgDisp("","She wouldn't leave it be as I skipped
 out on lunch.");
 MsgDisp("","　　　　　　　　　　 ・

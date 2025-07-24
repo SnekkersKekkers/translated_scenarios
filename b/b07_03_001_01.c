@@ -9,9 +9,8 @@ Ryota-kun knows a lot about antiques,
 right?");
 ChMotion(3,4);
 VoicePlay("B070300001_03_020");
-MsgDisp("Honda","They have a lot of expertise on things
-that I don't, all kinds of techniques and
-skills.");
+MsgDisp("Honda","He has a lot of expertise on things that I
+don't, all kinds of techniques and skills.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
@@ -53,8 +52,7 @@ ChMotion(3,4);
 VoicePlay("B070300001_03_080");
 MsgDisp("Honda","I'd like to learn a bit more from
 Ryota-kun but I'm not sure if I can?");
-MsgDisp("主人公","(｛本多＊＊｝ seems to idolize ｛風真＊＊｝...!
-)");
+MsgDisp("主人公","(｛本多＊＊｝ seems to idolize ｛風真＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

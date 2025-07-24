@@ -40,7 +40,7 @@ MsgDisp("主人公","Then...um...");
 VoicePlay("F100440000_04_020");
 MsgDisp("Nanatsumori","It's alright.
 Dahon already knows.");
-MsgDisp("主人公","I-Is that so?∋");
+MsgDisp("主人公","I-Is that so∋");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

@@ -7,7 +7,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("B110400000_33_000");
-MsgDisp("?Boy","Are you heading to the other world?");
+MsgDisp("Guy?","Are you heading to the other world?");
 MsgDisp("主人公","Eh?");
 MsgClose();
 SEPlay("EV_SE_544");

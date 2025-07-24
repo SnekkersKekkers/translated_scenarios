@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040310100_03_000");
 MsgDisp("Honda","I'm happy that there's a museum in my
 hometown.");
-MsgSel("Habataki City's history is wonderful huh?","That mask looks like someone...","I feel the romance of ancient times");
+MsgSel("Habataki City's history is wonderful, huh?","That mask looks like someone...","I feel the romance of ancient times.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,3);
     VoicePlay("B040310100_03_010");
     MsgDisp("Honda","Yes, the more research progresses, the
-more interesting stories ariseー.");
+more interesting stories ariseー");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

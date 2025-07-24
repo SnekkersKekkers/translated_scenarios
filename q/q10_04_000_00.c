@@ -55,32 +55,31 @@ ScrFadeIn(0);
 VoicePlay("Q100400000_04_060");
 MsgDisp("Nanatsumori","Souvenirs, huh...
 I'll need quite a few.");
-MsgDisp("主人公","Oh, are they for the people related to
-your work?");
+MsgDisp("主人公","Oh, are they for your work colleagues?");
 ChMotion(4,1,1);
 VoicePlay("Q100400000_04_070");
 MsgDisp("Nanatsumori","Yup.
-I've been taking care of on a daily basis.");
-MsgDisp("主人公","I'll help you with shopping, too.");
+They take care of me on a daily basis.");
+MsgDisp("主人公","I'll help you with the shopping, then.");
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q100400000_04_080");
-MsgDisp("Nanatsumori","Dw. I've already checked most of the
+MsgDisp("Nanatsumori","Dw. I've already researched most of the
 shops, all I have to do now is buy. More
 importantly...");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("Q100400000_04_090");
-MsgDisp("Nanatsumori","Memorials of coming to Nagasaki with you.
-Let's look for those.");
+MsgDisp("Nanatsumori","Something to remember you and Nagasaki.
+Let's look for that.");
 MsgDisp("主人公","Yeah!");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("Q100400000_04_100");
-MsgDisp("Nanatsumori","When you're done shopping, let's round up
+MsgDisp("Nanatsumori","When you're done shopping, let's finish up
 with some traditional sweets.");
-MsgDisp("主人公","Agree-d!");
+MsgDisp("主人公","Agreed!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

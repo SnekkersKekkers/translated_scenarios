@@ -90,7 +90,7 @@ MsgDisp("Nanatsumori","Yum!
 The cocoa powder is really rich!
 The hidden milk pie is too awesome...");
 MsgDisp("主人公","(Hehe.
-｛七ツ森＊｝'s food commentary is dunny.
+｛七ツ森＊｝'s food commentary is funny.
 ')");
 MsgClose();
 ScrFadeOut(0);

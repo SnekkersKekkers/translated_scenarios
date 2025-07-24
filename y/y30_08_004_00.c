@@ -13,7 +13,7 @@ MsgClear();
 VoicePlay("Y300800400_42_000");
 MsgDisp("Male Student A","\"Honestly speaking!
 That Haba High girl, which brother's
-girlfriend is she～?\"\"");
+girlfriend is she～?\"");
 MsgDisp("","Idiot!
 There's no way we could say somethin'
 like that!");
@@ -22,7 +22,7 @@ MsgClear();
 VoicePlay("Y300800400_33_010");
 MsgDisp("Male Student B","\"Rather than Daichi, I feel like
 she's more well matched for
-Kuya-senpaiー!\"\"");
+Kuya-senpaiー!\"");
 MsgDisp("","Unh.");
 VoicePlay("Y300800400_08_000");
 MsgDisp("Daichi","\"Dummy, it's none of your business!\"");

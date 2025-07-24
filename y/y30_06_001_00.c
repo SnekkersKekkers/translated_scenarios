@@ -47,7 +47,7 @@ MsgDisp("Himuro","\"...Ha?\"");
 VoicePlay("Y300600100_42_020");
 MsgDisp("Male Student","\"You know, like getting the test
 questions leaked to you or
-something.\"\"");
+something.\"");
 MsgClear();
 MsgDisp("","To him, he probably meant it as a
 slight joke. That I would pay it no

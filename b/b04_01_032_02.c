@@ -60,7 +60,7 @@ I'll grab us drinks.");
         ChClose(1);
         SEWait();
         VoicePlay("B040103202_33_000");
-        MsgDisp("?Boy","Found ya!");
+        MsgDisp("Guy?","Found ya!");
         MsgDisp("主人公","(Found ya?)");
         SEPlay("EV_SE_544");
         ChOpen(33,254,0,0,0,#1,#1,0,0);

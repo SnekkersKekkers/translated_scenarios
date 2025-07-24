@@ -47,7 +47,7 @@ MsgDisp("Nanatsumori","My dad and sister are always late coming
 home from work, so on those days, I spend
 a little time with my mom and we have a
 small party.");
-MsgDisp("主人公","Hehe ｛七ツ森＊｝, is gentle isn't he?");
+MsgDisp("主人公","Hehe ｛七ツ森＊｝, you're quite gentle.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

@@ -9,7 +9,9 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
 SEWait();
-MsgDisp("","・ ・ ・");
+MsgDisp("","　　　　　　　　　　 ・
+　　　　　　　　　　 ・
+　　　　　　　　　　 ・");
 MsgClose();
 BGOpen("ev001",1);
 MsgClose();

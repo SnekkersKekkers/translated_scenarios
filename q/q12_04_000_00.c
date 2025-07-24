@@ -74,8 +74,7 @@ see you later.");
     ChEye(4,4);
     ChMouth(4,2);
     VoicePlay("Q120400000_04_090");
-    MsgDisp("Nanatsumori","Did you have fun?
-Free time.");
+    MsgDisp("Nanatsumori","Did you have fun during the free periods?");
     MsgDisp("主人公","Eh?");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_100");
@@ -84,11 +83,11 @@ stuff like school events.");
     ChMotion(4,1,1);
     VoicePlay("Q120400000_04_110");
     MsgDisp("Nanatsumori","I wondered if you actually wanted to go
-around more other places.");
+around to other places.");
     MsgDisp("主人公","And you, ｛七ツ森＊｝?");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_120");
-    MsgDisp("Nanatsumori","Eh...");
+    MsgDisp("Nanatsumori","Eh?");
     MsgDisp("主人公","Did you not enjoy the free period?");
     ChEye(4,1);
     ChMouth(4,4);

@@ -55,7 +55,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20800_07_040");
-MsgDisp("Mikage","That's right—. Would you like to try it?
+MsgDisp("Mikage","That's right— Would you like to try it?
 We have some fire starter as a last
 resort, so it's alright.");
 MsgClose();

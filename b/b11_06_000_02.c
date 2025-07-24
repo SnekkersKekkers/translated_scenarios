@@ -7,7 +7,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("B110600002_35_000");
-MsgDisp("?Boy","Well, well, well～?
+MsgDisp("Guy?","Well, well, well～?
 Look at me for a bit!");
 MsgDisp("主人公","...Eh, me?");
 MsgClose();

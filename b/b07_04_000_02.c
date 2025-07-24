@@ -11,7 +11,7 @@ VoicePlay("B070400000_04_060");
 MsgDisp("Nanatsumori","Cafe Alucard is the best. The menu changes
 with the seasons and is god-level. It's
 hard to keep up with them because they
-have a lot of limited editions though");
+have a lot of limited editions though.");
 MsgDisp("主人公","You're a regular huh.");
 ChEye(4,0);
 ChMouth(4,4);
@@ -26,7 +26,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B070400000_04_090");
-MsgDisp("Nanatsumori","Cream-filled sweets after your mouth turns
+MsgDisp("Nanatsumori","Cream-filled sweets that turn your mouth
 bright red.
 It's supreme.");
 MsgDisp("主人公","Hmm...
@@ -53,7 +53,7 @@ ChMotion(4,2,1);
 VoicePlay("B070400000_04_120");
 MsgDisp("Nanatsumori","No, not \"Eh!\" What's this perfect
 punchline thing you're trying? Am I
-becoming the straight man here?∋");
+becoming the straight man here∋");
 MsgDisp("主人公","(A one-man comedy act?)");
 BGMStop();
 MsgClose();

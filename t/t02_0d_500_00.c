@@ -46,7 +46,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("T020D50000_22_010");
-MsgDisp("Hikaru","Isn't that weird?∋ Even after three years
+MsgDisp("Hikaru","Isn't that weird∋ Even after three years
 at this school that such a thing could
 happen? Aha▼");
 ChEye(21,0);

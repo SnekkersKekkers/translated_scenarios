@@ -8,7 +8,7 @@ ChMotion(1,1);
 VoicePlay("B040116001_01_000");
 MsgDisp("Kazama","There are quite a lot of elderly people
 here?
-Maybe the same age as my Ojii-chan.");
+Maybe the same age as my Grandpa.");
 MsgSel("Looks like there are games here that are popular with the elderly.","Maybe it's because they have stuff like Go and Shogi","Maybe your Grandpa is here too, ｛風真＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:

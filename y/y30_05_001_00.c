@@ -47,7 +47,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClear();
 BGOpen("ad512",0);
 ScrFadeIn(0);
-MsgDisp("主人公","\"\"｛柊＊＊＊｝, thanks for today.
+MsgDisp("主人公","\"｛柊＊＊＊｝, thanks for today.
 I had so much fun.\"");
 MsgDisp("","She said to me at Habataki station,
 looking as if she was reluctant to

@@ -141,7 +141,7 @@ VoicePlay("A010000000_01_130");
 MsgDisp("Ryota","Since my pinwheel is made in the same way,
 maybe if we make wishes they will also
 come true?");
-MsgDisp("主人公","Really?∋");
+MsgDisp("主人公","Really∋");
 BGOpen("pr010",0);
 VoicePlay("A010000000_01_140");
 MsgDisp("Ryota","Let's try!

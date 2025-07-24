@@ -27,7 +27,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("D140A04100_02_010");
 MsgDisp("Sassa","That sounds just like Ryota.
 I'm sure he's really jealous right now.");
-MsgDisp("主人公","Uhm...\"weird things\"\", like what?");
+MsgDisp("主人公","Uhm...\"weird things\", like what?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

@@ -17,7 +17,7 @@ What are you doing?");
 ChMotion(1,0);
 VoicePlay("F100520000_01_010");
 MsgDisp("Kazama","Ahh, apparently Hiiragi wants to see the
-warehouse of Ojii-chan's shop.");
+warehouse of Grandpa's shop.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -57,7 +57,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("F100520000_01_040");
 MsgDisp("Kazama","Okay, I got it.
-I'll ask Ojii-chan.
+I'll ask Grandpa.
 See you then.");
 ChEye(5,4);
 ChMouth(5,4);

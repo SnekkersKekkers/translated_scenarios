@@ -57,7 +57,7 @@ I'll guide you now.");
 VoicePlay("F110110000_45_010");
 MsgDisp("Girl","Yay!");
 VoicePlay("F110110000_47_010");
-MsgDisp("Woman Customer A","Thank you, Kazuma-kun!");
+MsgDisp("Woman Customer A","Thank you, Kazama-kun!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(16,0);

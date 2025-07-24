@@ -46,7 +46,7 @@ has a gentle gaze.");
     VoicePlay("U130D00001_22_010");
     MsgDisp("Hikaru","I know, right!
 Like he's watching a puppy♪");
-    MsgDisp("主人公","Eh, I'm a puppy?∋");
+    MsgDisp("主人公","Eh, I'm a puppy∋");
     StlEye(22,0);
     StlMouth(22,1);
     VoicePlay("U130D00001_22_020");

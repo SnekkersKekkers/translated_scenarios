@@ -51,7 +51,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("F100520001_01_010");
 MsgDisp("Kazama","Yeah.
-Ojii-chan was so happy that he immediately
+Grandpa was so happy that he immediately
 made plans for next time.");
 ChEye(5,0);
 ChMouth(5,4);

@@ -16,7 +16,7 @@ me.");
 MsgDisp("","She's only milking the cow, somehow I
 feel strange.");
 MsgClear();
-MsgDisp("主人公","\"\"Hey, ｛颯砂＊＊｝.
+MsgDisp("主人公","\"Hey, ｛颯砂＊＊｝.
 It's freshly squeezed.
 It's delicious!\"");
 MsgDisp("","When she recommends it with a smile
@@ -47,7 +47,7 @@ MsgDisp("","When we left Habataki ranch, she
 noticed that I was making a face of
 mixed-feelings, and looked at me
 worriedly.");
-MsgDisp("主人公","\"\"｛颯砂＊＊｝, are you not good with
+MsgDisp("主人公","\"｛颯砂＊＊｝, are you not good with
 cow milk?\"");
 MsgClear();
 MsgDisp("","I said I didn't like it if it was

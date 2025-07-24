@@ -28,7 +28,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("Q090B00000_01_010");
-MsgDisp("Kazama","Anyways, listen to what I say for today.");
+MsgDisp("Kazama","Anyways, everyone has to listen to what I
+say today.");
 MsgDisp("主人公","Hm?");
 ChEye(4,2);
 ChMouth(4,4);

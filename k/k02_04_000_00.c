@@ -41,7 +41,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("K020400000_04_040");
-MsgDisp("Nanatsumori","L, look at it later!
+MsgDisp("Nanatsumori","L-Look at it later!
 I'm too nervous to see your reaction.");
 ChEye(4,0);
 ChMouth(4,3);

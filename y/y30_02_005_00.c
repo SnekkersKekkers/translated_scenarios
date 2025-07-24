@@ -51,7 +51,7 @@ MsgDisp("","There's a mark 200 meters ahead on
 the beach. The training involves
 turning back there and sprinting back
 with full effort.");
-MsgDisp("主人公","\"Reaーdy——\"\"");
+MsgDisp("主人公","\"Reaーdy——\"");
 SEPlay("EV_SE_553");
 MsgDisp("","(Go!)");
 SEPlay("EV_SE_580",0,0.9);
@@ -88,7 +88,7 @@ sun...");
 VoicePlay("Y300200500_02_050");
 MsgDisp("Sassa","\"Alriーght, I'll run along and hug
 her.
-Wait for me...!\"\"");
+Wait for me...!\"");
 MsgClear();
 SEPlay("EV_SE_679");
 MsgDisp("","(Arf!

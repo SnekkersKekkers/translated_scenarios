@@ -60,7 +60,7 @@ Senpai.");
         ChCheek(6,10);
         VoicePlay("B040630002_06_040");
         MsgDisp("Himuro","...Okay.");
-        MsgDisp("主人公","Eh?∋");
+        MsgDisp("主人公","Eh∋");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

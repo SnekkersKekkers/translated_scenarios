@@ -14,7 +14,7 @@ Later.");
 MsgDisp("主人公","Ah, ｛御影＊＊｝, please waii——Ahhh!");
 ScrQuake(1);
 VoicePlay("M010700000_07_030");
-MsgDisp("Mikage","Hey, you alright?∋");
+MsgDisp("Mikage","Hey, you alright∋");
 SEPlay("EV_SE_DOOR_007");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A");

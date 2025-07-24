@@ -29,7 +29,7 @@ MsgDisp("Mikage","That's why I don't just make textbook
 questions, but also nitpicky trick
 questions so that students are ranked
 clearly.");
-MsgDisp("主人公","So that's how it is...seems difficult");
+MsgDisp("主人公","So that's how it is...seems difficult.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

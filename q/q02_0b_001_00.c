@@ -56,8 +56,9 @@ This will be fun.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("Q020B00100_01_030");
-    MsgDisp("Kazama","Let's get going, then There are a lot of
-people here, so we need to plan ahead.");
+    MsgDisp("Kazama","Let's get going, then.
+There are a lot of people here, so we need
+to plan ahead.");
     MsgDisp("主人公","Yeah!");
     break ;
     case 1:

@@ -8,7 +8,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","｛風真＊＊｝ sure is late...");
 VoicePlay("B110100002_35_000");
-MsgDisp("?Boy","Hmm, I can't do this without getting at
+MsgDisp("Guy?","Hmm, I can't do this without getting at
 least one. I finally found my cash cow...
 no, I mean, talent!");
 MsgClose();

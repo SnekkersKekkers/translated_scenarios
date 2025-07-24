@@ -24,7 +24,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("Q110300000_03_030");
-MsgDisp("Honda","Mhmmhm.
+MsgDisp("Honda","Mmhm.
 I hope my sister also enjoys the present
 like you.");
 MsgDisp("主人公","I'm sure it'll be fine.");

@@ -16,7 +16,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q100100000_01_010");
-MsgDisp("Kazama","So you were imagining Vice principal
+MsgDisp("Kazama","So you were imagining Vice Principal
 Himuro's glasses.");
 MsgDisp("主人公","Hehe, a bit.");
 ChEye(1,0);

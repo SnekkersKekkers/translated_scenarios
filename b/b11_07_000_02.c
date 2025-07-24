@@ -7,7 +7,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","｛御影＊＊｝ sure is late, huh....");
 VoicePlay("B110700002_35_000");
-MsgDisp("?Boy","Hmm, too weak, too weak～
+MsgDisp("Guy?","Hmm, too weak, too weak～
 I need to find a more energetic girl
 okay～?");
 SEPlay("EV_SE_544");

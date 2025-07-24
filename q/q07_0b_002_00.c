@@ -16,14 +16,14 @@ ChEyeOpenLevel(1,0);
 VoicePlay("Q070B00200_01_000");
 MsgDisp("Kazama","Yeah.
 It reminds me of the UK.");
-MsgDisp("主人公","Huh, so there're many pretty buildings
-like these?");
+MsgDisp("主人公","Huh, so the UK has a lot of pretty
+buildings like these?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("Q070B00200_01_010");
-MsgDisp("Kazama","Yeah, there lays easily one or two
-buildings of a century old——");
+MsgDisp("Kazama","Yeah, there are plenty of buildings over a
+century old——");
 ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);

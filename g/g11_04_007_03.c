@@ -18,7 +18,7 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("G110400703_04_000");
 MsgDisp("Nanatsumori","I'm sorry!
-I was a bit...");
+I'm a bit...");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);

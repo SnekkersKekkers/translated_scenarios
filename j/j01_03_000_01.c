@@ -16,11 +16,8 @@ MsgDisp("Honda","I'll call you back later, so please leave
 your message!");
 MsgDisp("主人公","Huh, voicemail.
 Hmm, what should I do?...");
-switch (MsgSelRsltGet()){
-    case 0:
-    case 1:
     MsgSel("Leave a message","Hang up the phone");
-    break ;
+switch (MsgSelRsltGet()){
     case 0:
     break ;
     case 1:

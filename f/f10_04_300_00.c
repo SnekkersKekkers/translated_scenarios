@@ -45,7 +45,8 @@ ChMotion(4,0,1);
 VoicePlay("F100430000_04_020");
 MsgDisp("Nanatsumori","...You.
 How much of that did you hear just now?");
-MsgDisp("主人公","Eh? something about ｛七ツ森＊｝ making
+MsgDisp("主人公","Eh?
+Something about ｛七ツ森＊｝ making
 clothes, I guess...");
 ChEye(4,4);
 ChMouth(4,0);

@@ -1,7 +1,7 @@
 BGOpen("sc210",0);
 SEPlay("EV_SE_821",0.4,0.6);
 ScrFadeIn(0);
-MsgDisp("主人公","I'll give you lot's of water today too～");
+MsgDisp("主人公","I'll give you lots of water today too～");
 VoiceEVSPlay(7);
 VoicePlay("G110700802_07_000");
 MsgDisp("Mikage?","｛主人公｝.");

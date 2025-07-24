@@ -6,7 +6,7 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040417001_04_000");
 MsgDisp("Nanatsumori","What will you sing next?");
-MsgSel("A trendy pop song","Some tasteful enka","I want to take a little break");
+MsgSel("A trendy pop song","Some tasteful enka","I want to take a little break.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -40,7 +40,7 @@ singing ability.");
     ChMotion(4,2,1);
     VoicePlay("B040417001_04_030");
     MsgDisp("Nanatsumori","Ahh, right.
-If we stop singing, the flow stops...");
+But if we stop singing, the flow stops...");
     MsgDateResultDisp();
     break ;
     default :

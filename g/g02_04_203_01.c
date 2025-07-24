@@ -38,7 +38,7 @@ ChEye(4,1);
 ChMouth(4,5);
 ChMotion(4,2,1);
 VoicePlay("G020420301_04_050");
-MsgDisp("Nanatsumori","Aw Sheesh!
+MsgDisp("Nanatsumori","Aw, sheesh!
 Why do you have to be so cute!");
 MsgDisp("主人公","Huh∋");
 ChEye(4,4);
@@ -53,7 +53,7 @@ ChEyeOpenLevel(4,0);
 VoicePlay("G020420301_04_070");
 MsgDisp("Nanatsumori","I'll just endure this.
 If I get overwhelmed, I'll pretend it's a
-charade...");
+act...");
 ChEyeOpenLevel(4,#1);
 MsgDisp("主人公","｛七ツ森＊｝, are you okay?");
 ChEye(4,4);
@@ -61,7 +61,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 ChCheek(4,10);
 VoicePlay("G020420301_04_080");
-MsgDisp("Nanatsumori","Kuu...
+MsgDisp("Nanatsumori","Ach...
 I told you not to look at me like that!");
 MsgDisp("主人公","(｛七ツ森＊｝, why is your face so red?)");
 BGMStop();

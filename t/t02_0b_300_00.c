@@ -222,7 +222,7 @@ ChMotion(1,0);
 ChCheek(1,7);
 VoicePlay("T020B21000_01_130");
 MsgDisp("Kazama","There's no such thing.
-...Honda, were you watching?∋");
+...Honda, were you watching∋");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

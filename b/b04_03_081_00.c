@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308100_03_000");
 MsgDisp("Honda","Yep, yep, everyone looks like they're
 having fun!");
-MsgSel("｛本多＊＊｝ suits the falling cherry blossoms, huh","Being able to see the falling cherry blossoms is so fleeting...","I want to eat some delicious cherry blossom mochi.");
+MsgSel("｛本多＊＊｝ suits the falling cherry blossoms, huh?","The falling cherry blossoms are so fleeting...","I want to eat some delicious cherry blossom mochi.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

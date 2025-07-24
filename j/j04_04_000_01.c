@@ -21,7 +21,7 @@ Nanatsumori.
 Can I talk to you now?");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040400001_04_010");
-    MsgDisp("Nanatsumori","This coming Sunday, are you free??");
+    MsgDisp("Nanatsumori","This coming Sunday, are you free?");
     MsgSel("Yeah, I'm free.", "I have to run an errand...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -34,8 +34,8 @@ Can I talk to you now?");
         MsgDisp("Nanatsumori","All right, I'll see you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Hmmm, he invited me all this way.
-Did I do something wrong...)");
+        MsgDisp("主人公","(Hmmm, even though he invited me...
+Did I do something wrong?)");
         MsgClose();
         break ;
         default :

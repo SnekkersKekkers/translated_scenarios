@@ -21,7 +21,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110300_01_030");
 MsgDisp("Kazama","...Speaking of which...
-Remember that time at the \"Habakaki Land
+Remember that time at the \"Habataki Land
 Town\" ferris wheel?");
 MsgDisp("主人公","Ah...yeah.
 ｛風真＊＊｝, you kissed my forehead...

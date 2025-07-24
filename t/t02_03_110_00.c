@@ -12,7 +12,7 @@ MsgDisp("主人公","Eh...
 ChMotion(3,4,1);
 VoicePlay("T020311000_03_010");
 MsgDisp("Honda","Come with me.");
-MsgDisp("主人公","Wh-what's wrong?");
+MsgDisp("主人公","W-What's wrong?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1,1);

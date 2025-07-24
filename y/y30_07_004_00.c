@@ -30,7 +30,7 @@ I think Inori-kun wants to go out
 together as well.\"");
 VoicePlay("Y300700400_07_010");
 MsgDisp("Mikage","\"Isn't that nice.
-Then, are you inviting me too?\"\"");
+Then, are you inviting me too?\"");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 MsgClear();
@@ -41,7 +41,7 @@ MsgDisp("","Inori. Himuro Inori. He's well known
 within this school. He's the nephew
 of Vice Principal Inori.");
 VoicePlay("Y300700400_07_020");
-MsgDisp("Mikage","\"\"You came at a good time. Just now,
+MsgDisp("Mikage","\"You came at a good time. Just now,
 Yanosuke was inviting us out. Will
 you go too?\"");
 MsgClear();

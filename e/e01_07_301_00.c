@@ -5,7 +5,8 @@ MsgDisp("主人公","(Ok, I think it's time to head home.
 ...Huh?
 Who's that over there——)");
 VoicePlay("E010730100_07_000");
-MsgDisp("Mikage?","That's amazing Is it easy to use?");
+MsgDisp("Mikage?","That's amazing.
+Is it easy to use?");
 VoicePlay("E010730100_03_000");
 MsgDisp("Honda?","It's the best!
 I check it out all the time.");
@@ -33,7 +34,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("E010730100_07_020");
-MsgDisp("Mikage","That doesn't seem suspicious at all.");
+MsgDisp("Mikage","I promise it's not suspicious at all.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -61,8 +62,8 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("E010730100_03_040");
-MsgDisp("Honda","Ahー, now I feel like looking through it
-again. I'm going home now! See you!");
+MsgDisp("Honda","AhーI feel like looking through it right
+now. I'm going home now! See you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
@@ -88,7 +89,7 @@ ChMouth(7,3);
 VoicePlay("E010730100_07_060");
 MsgDisp("Mikage","Maybe you'll be studied at 1000 times
 magnification.");
-MsgDisp("主人公","Ehh? ∋");
+MsgDisp("主人公","Ehh∋");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

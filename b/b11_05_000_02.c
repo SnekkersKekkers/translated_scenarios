@@ -7,11 +7,11 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("B110500002_35_000");
-MsgDisp("?Boy","Ehh?
+MsgDisp("Guy?","Ehh?
 The girl I approached was a member of
 Habataki Theatre Troupe～?");
 VoicePlay("B110500002_35_010");
-MsgDisp("?Boy","That makes it easier, right? Theatre is
+MsgDisp("Guy?","That makes it easier, right? Theatre is
 lowly, tough work so dangle a debut in
 front of them, and they'll sign right
 away!");

@@ -34,7 +34,7 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600003_06_030");
 MsgDisp("Himuro","So, useless gossip.");
-MsgDisp("主人公","Vice principal Himuro and the church...
+MsgDisp("主人公","Vice Principal Himuro and the church...
 yeah, there's no connection there.");
 ChEye(6,0);
 ChMouth(6,0);

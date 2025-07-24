@@ -102,16 +102,16 @@ Welcome!");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I350400000_04_100");
-    MsgDisp("Nanatsumori","All the tension kinda drained from my body
-when I saw your face.");
+    MsgDisp("Nanatsumori","Somehow, the moment I saw your face, all
+the tension left me.");
     MsgDisp("主人公","Huh...");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_110");
     MsgDisp("Nanatsumori","Nah, not in a bad way.
-Healed?
-That kinda good feeling.");
+It's like… healing?
+A kind of feel-good vibe.");
     MsgDisp("主人公","Really?");
     ChEye(4,0);
     ChMouth(4,4);
@@ -126,7 +126,8 @@ before I embarrass myself any more.");
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_130");
     MsgDisp("Nanatsumori","Heheh...
-More energy than healing, huh.");
+Forget healing, you're like a dose of
+energy.");
     MsgDisp("主人公","(｛七ツ森＊｝ looks like he's having fun.
 I think I'm feeling better, too!)");
     break ;

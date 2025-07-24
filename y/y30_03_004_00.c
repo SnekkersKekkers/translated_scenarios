@@ -22,7 +22,7 @@ sat down too.");
 MsgClear();
 BGOpen("ad341",0);
 VoicePlay("Y300300400_04_000");
-MsgDisp("Nanatsumori","\"\"Kazama, you actually like listening
+MsgDisp("Nanatsumori","\"Kazama, you actually like listening
 to Dahon talk don't you?\"");
 MsgDisp("","Mii-kun always wears glasses at
 school, so it's difficult to
@@ -33,7 +33,7 @@ MsgDisp("","Today's theme will interest surely
 even you two, I said, laughing——");
 MsgClear();
 VoicePlay("Y300300400_01_010");
-MsgDisp("Kazama","\"\"Don't put on airs and be quick.\"");
+MsgDisp("Kazama","\"Don't put on airs and be quick.\"");
 VoicePlay("Y300300400_04_010");
 MsgDisp("Nanatsumori","\"You take so long to even start...\"");
 MsgDisp("","They say, sounding exasperated.
@@ -44,10 +44,10 @@ MsgClear();
 BGOpen("ad342",0);
 VoicePlay("Y300300400_03_010");
 MsgDisp("Honda","\"Okay.
-The today's theme, is about the
-things she likes!\"");
+Then today's theme is about things
+she likes!\"");
 MsgDisp("","When I said that, their eyes changed.
-I couldn't see MIi-kun's well though.");
+I couldn't see Mii-kun's well though.");
 MsgDisp("","Yes, Mii-kun.
 What do you think?
 I point my finger like a teacher");
@@ -57,7 +57,7 @@ MsgDisp("Nanatsumori","\"Why me....
 Well, I mean she's well attuned with
 trends\"");
 VoicePlay("Y300300400_01_020");
-MsgDisp("Kazama","\"\"No, rather than trends, she's the
+MsgDisp("Kazama","\"No, rather than trends, she's the
 type of person to like traditional
 things.\"");
 VoicePlay("Y300300400_03_020");

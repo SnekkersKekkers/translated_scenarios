@@ -10,7 +10,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630101_06_010");
-MsgDisp("Himuro","You're surrounded by lot's of guys.");
+MsgDisp("Himuro","You're surrounded by lots of guys.");
 MsgDisp("主人公","Ehhh-∋");
 ChEye(6,0);
 ChMouth(6,0);

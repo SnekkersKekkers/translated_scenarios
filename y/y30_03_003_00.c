@@ -27,7 +27,7 @@ BGOpen("ad331",0);
 ScrFadeIn(0);
 VoicePlay("Y300300300_42_000");
 MsgDisp("Manager","\"Honda-kun, you're a great help, but
-dating is prohibited during work.\"\"");
+dating is prohibited during work.\"");
 MsgDisp("","I got a thorough scolding from the
 manager in the office.");
 MsgDisp("","She laughed, but during work, I

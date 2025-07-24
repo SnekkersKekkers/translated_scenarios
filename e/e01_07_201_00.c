@@ -39,7 +39,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010720100_07_020");
 MsgDisp("Mikage","I have some business at Simon too, so I'm
-going with Kazuma.");
+going with Kazama.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

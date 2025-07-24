@@ -82,8 +82,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F100520002_01_050");
 MsgDisp("Kazama","But if it becomes a catalyst for
-something, both me and Ojii-chan will be
-so happy.");
+something, both me and Grandpa will be so
+happy.");
 MsgDisp("主人公","(Yeah, I'm looking forward to seeing what
 kind of show he can create...!)");
 BGMStop();

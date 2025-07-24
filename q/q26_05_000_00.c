@@ -31,7 +31,6 @@ SEPlay("EV_SE_799");
 ChClose(5);
 SEWait();
 MsgDisp("主人公","(Eeh∋
-So that feeling just now was ｛柊＊＊＊｝...?
-)");
+So that feeling just now was ｛柊＊＊＊｝...?)");
 MsgClose();
 ScrFadeOut(0,0);
