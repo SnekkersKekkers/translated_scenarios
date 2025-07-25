@@ -6,7 +6,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("T040320000_03_000");
 MsgDisp("Honda","That's right! Do you remember some time
-ago when Ryou-kun, Mii-kun and I waved to
+ago when Ryou-kun, Mi-kun and I waved to
 you from the rooftop?");
 MsgClose();
 StlOpen("ev_03_21");
@@ -20,7 +20,7 @@ MsgDisp("Honda","Perhaps, it was mine.");
 VoicePlay("T040320000_04_000");
 MsgDisp("Nanatsumori","And how do you know?");
 VoicePlay("T040320000_03_020");
-MsgDisp("Honda","It's simple. I mean, Mii-kun doesn't speak
+MsgDisp("Honda","It's simple. I mean, Mi-kun doesn't speak
 loudly at school, do you? And Ryou-kun is
 too cool looking.");
 VoicePlay("T040320000_01_000");

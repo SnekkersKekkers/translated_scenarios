@@ -58,7 +58,7 @@ rooftop, she would unexpectedly show
 up.");
 VoicePlay("Y300100400_03_010");
 MsgDisp("Honda","\"Ahー, there she is!
-Ryo-kun, Mii-kun, look!
+Ryo-kun, Mi-kun, look!
 Over here\"");
 MsgClear();
 MsgDisp("","Honda called out to us whilst holding
@@ -66,7 +66,7 @@ onto the handrails of the rooftop.");
 VoicePlay("Y300100400_04_010");
 MsgDisp("Nanatsumori","\"What do you think, Ryo-kun?\"");
 VoicePlay("Y300100400_01_020");
-MsgDisp("Kazama","Shall we check it out, Mii-kun?");
+MsgDisp("Kazama","Shall we check it out, Mi-kun?");
 MsgClear();
 MsgDisp("","Looking from the rooftop towards the
 school gates, we should see her small

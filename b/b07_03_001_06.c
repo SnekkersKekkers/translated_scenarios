@@ -21,7 +21,7 @@ ChMotion(3,2);
 VoicePlay("B070300001_03_410");
 MsgDisp("Honda","Hmm, I wonder if Ryou-kun will take over
 the antique shop...
-And what about Mii-kun...?");
+And what about Mi-kun...?");
 MsgDisp("主人公","And you, ｛本多＊＊｝...?");
 ChEye(3,4);
 ChMouth(3,0);

@@ -14,7 +14,7 @@ MsgDisp("Clerk","Wow!
 Your vegetables look delicious.");
 VoicePlay("E010710100_07_010");
 MsgDisp("Mikage","Looks and tastes great.
-Same as you, onee-san.");
+Same as you, miss.");
 VoicePlay("E010710100_47_020");
 MsgDisp("Clerk","Ah, I'm glad!
 Thanks～!");
@@ -23,7 +23,7 @@ BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,255,0,0,0,10,#1,0,0);
 VoicePlay("E010710100_07_020");
 MsgDisp("Mikage","Oh.
-There's a beautiful girl over here too.");
+There's a beauty over here too.");
 MsgDisp("主人公","Hello, ｛御影＊＊｝.
 Are you a regular at that store?");
 ChEye(7,0);

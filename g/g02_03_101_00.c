@@ -3,7 +3,7 @@ MsgClose();
 ChOpen(3,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020310100_03_000");
 MsgDisp("Honda","Hey, do you remember when we went out with
-Ryo-kun and Mii-kun, the four of us?
+Ryo-kun and Mi-kun, the four of us?
 Did you have fun?");
 MsgDisp("主人公","Yeah, I had fun.");
 ChEye(3,4);
@@ -31,7 +31,7 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020310100_03_040");
 MsgDisp("Honda","but I found myself thinking it would have
-been better if Ryo-kun and Mii-kun weren't
+been better if Ryo-kun and Mi-kun weren't
 there. I thought such an awful thing.");
 ChMotion(3,4);
 VoicePlay("G020310100_03_050");

@@ -37,7 +37,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020330000_03_050");
-MsgDisp("Honda","Mii-kun has incredible fashion sense and
+MsgDisp("Honda","Mi-kun has incredible fashion sense and
 self-presentation skills.");
 ChEye(3,4);
 ChMouth(3,4);

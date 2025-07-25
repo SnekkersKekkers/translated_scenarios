@@ -62,7 +62,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D120B00000_03_020");
-MsgDisp("Honda","Heyhey, Mii-kun, show me your page!");
+MsgDisp("Honda","Heyhey, Mi-kun, show me your page!");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);

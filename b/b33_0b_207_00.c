@@ -53,7 +53,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B330B20700_03_010");
 MsgDisp("Honda","Nope.
-Mii-kun's ticket is already gone.");
+Mi-kun's ticket is already gone.");
 ChEye(1,0);
 ChEye(4,2);
 ChMouth(4,2);
@@ -102,7 +102,7 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B20700_03_040");
 MsgDisp("Honda","But the way he stuck his nose into
-Mii-kun's pocket whilst eating was so
+Mi-kun's pocket whilst eating was so
 cute!");
 ChMotion(4,2,1);
 MsgDisp("主人公","(Hehe!

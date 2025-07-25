@@ -8,7 +8,7 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020700001_07_000");
     MsgDisp("Mikage","Yo.
-You're working hard. these are great
+You're working hard. These are great
 results.");
     MsgDisp("主人公","Yes, I did do my best!");
     ChEye(7,0);

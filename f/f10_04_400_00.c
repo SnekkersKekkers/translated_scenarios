@@ -45,7 +45,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("F100440000_03_040");
-MsgDisp("Honda","About Mii-kun's job?
+MsgDisp("Honda","About Mi-kun's job?
 Yeah, I know.");
 ChEye(4,2);
 ChMouth(4,3);

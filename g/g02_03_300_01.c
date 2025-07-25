@@ -3,7 +3,7 @@ MsgClose();
 ChOpen(3,255,0,4,0,#1,#1,0,0);
 VoicePlay("G020330001_03_000");
 MsgDisp("Honda","I probably should've told Ryou-kun and
-Mii-kun about coming here.");
+Mi-kun about coming here.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -29,7 +29,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020330001_03_040");
-MsgDisp("Honda","Mii-kun doesn't show much emotion, but
+MsgDisp("Honda","Mi-kun doesn't show much emotion, but
 he'll probably text me later.");
 ChEye(3,3);
 ChMouth(3,3);

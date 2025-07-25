@@ -18,7 +18,7 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B360350201_03_010");
 MsgDisp("Honda","I was just imagining how Ryou-kun and
-Mii-kun would react if they found out we
+Mi-kun would react if they found out we
 came here together.");
 MsgDisp("主人公","What kind of reaction do you think they'd
 have?");
@@ -42,7 +42,7 @@ VoicePlay("B360350201_03_040");
 MsgDisp("Honda","Exactly! He'd be upset and
 confrontational. He'd probably think
 something like, \"Why are you spending time
-together when I'm not around?\" And Mii-kun
+together when I'm not around?\" And Mi-kun
 would say...");
 ChEye(3,0);
 ChMouth(3,4);

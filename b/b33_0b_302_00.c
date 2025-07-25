@@ -19,7 +19,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B30200_03_000");
 MsgDisp("Honda","He really is a model—.
-Mii-kun looks photogenic even in a place
+Mi-kun looks photogenic even in a place
 like this.");
 MsgDisp("主人公","Hehe, that's right huh?");
 ChEye(1,0);

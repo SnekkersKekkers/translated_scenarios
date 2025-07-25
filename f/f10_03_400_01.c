@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("F100340001_03_000");
 MsgDisp("Honda","｛主人公｝.
-Have you seen Mii-kun?
+Have you seen Mi-kun?
 He's nowhere to be found.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -70,7 +70,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("F100340001_03_060");
-MsgDisp("Honda","Yep, yep, to me, Mii-kun is a cat.
+MsgDisp("Honda","Yep, yep, to me, Mi-kun is a cat.
 It's the kind of place cats like; quiet
 and cool...so I thought this might be it.");
 ChMouth(4,1);

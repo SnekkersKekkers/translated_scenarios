@@ -89,7 +89,7 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("T020B21000_03_020");
 MsgDisp("Honda","Huh?
-The only one left is Mii-kun.
+The only one left is Mi-kun.
 I wonder where he went.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -163,7 +163,7 @@ ChMouth(3,3);
 ChMotion(3,2,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020B21000_03_040");
-MsgDisp("Honda","That's no good, Mii-kun.");
+MsgDisp("Honda","That's no good, Mi-kun.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);

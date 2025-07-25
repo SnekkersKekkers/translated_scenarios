@@ -17,9 +17,9 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("E010320100_03_010");
 MsgDisp("Honda","Yep yep! I found the book I wanted right
-away, but Mii-kun is still confused about
+away, but Mi-kun is still confused about
 what accessories he wants.");
-MsgDisp("主人公","Mii-kun, is that...");
+MsgDisp("主人公","Mi-kun, is that...");
 ChPosition(3,1);
 MsgClose();
 SEPlay("EV_SE_544");
@@ -46,7 +46,7 @@ ChMotion(3,5,1);
 VoicePlay("E010320100_03_020");
 MsgDisp("Honda","I got it.
 Why don't you choose?
-Since Mii-kun is so indecisive.");
+Since Mi-kun is so indecisive.");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -60,7 +60,7 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010320100_03_030");
 MsgDisp("Honda","Right?
-I'm happy for you, Mii-kun.");
+I'm happy for you, Mi-kun.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -80,7 +80,7 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("E010320100_03_050");
 MsgDisp("Honda","See?
-Mii-kun, why don't you search for
+Mi-kun, why don't you search for
 something again?");
 ChEye(4,2);
 ChMouth(4,2);
@@ -108,7 +108,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
 VoicePlay("E010320100_03_070");
-MsgDisp("Honda","Mii-kun, wait up!");
+MsgDisp("Honda","Mi-kun, wait up!");
 MsgDisp("主人公","(Hehe, looks like ｛本多＊＊｝ and
 ｛七ツ森＊｝ are enjoying the flea
 market!)");

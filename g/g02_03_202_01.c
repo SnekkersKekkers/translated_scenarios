@@ -2,7 +2,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,0,3,#1,#1,0,0);
 VoicePlay("G020320201_03_000");
-MsgDisp("Honda","Hey, what do you like about Mii-kun?");
+MsgDisp("Honda","Hey, what do you like about Mi-kun?");
 MsgDisp("主人公","Ehh∋
 Why so suddenly?");
 ChEye(3,0);
@@ -16,7 +16,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020320201_03_020");
-MsgDisp("Honda","Sure, Mii-kun is handsome, and the more
+MsgDisp("Honda","Sure, Mi-kun is handsome, and the more
 you talk to him, the more you realize he
 has great taste in conversation topics——");
 ChEye(3,0);
@@ -41,7 +41,7 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020320201_03_060");
 MsgDisp("Honda","I think you noticed something special
-about Mii-kun that I haven't seen.
+about Mi-kun that I haven't seen.
 That's why you...");
 ChEye(3,2);
 ChMouth(3,2);
@@ -70,7 +70,7 @@ ChMotion(3,2);
 VoicePlay("G020320201_03_100");
 MsgDisp("Honda","So, yeah.
 I don't think I can just step aside for
-Mii-kun...");
+Mi-kun...");
 MsgDisp("主人公","(I didn't know ｛本多＊＊｝ felt this
 way...)");
 BGMStop();

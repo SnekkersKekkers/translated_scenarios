@@ -39,7 +39,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("F100440001_03_030");
-MsgDisp("Honda","Because Mii-kun was in a magazine.");
+MsgDisp("Honda","Because Mi-kun was in a magazine.");
 MsgDisp("主人公","But he's completely different to the usual
 ｛七ツ森＊｝? His hair is different,
 he's got makeup on, and he's not even
@@ -55,7 +55,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("F100440001_03_050");
-MsgDisp("Honda","That's why, both Nana and Mii-kun are the
+MsgDisp("Honda","That's why, both Nana and Mi-kun are the
 same to me.");
 MsgDisp("主人公","I-I see.");
 ChPosition(3,2);

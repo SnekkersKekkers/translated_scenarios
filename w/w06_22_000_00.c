@@ -5,7 +5,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ScrFadeIn(0);
 VoicePlay("W062200000_22_000");
-MsgDisp("Hikaru","Yes Ye～ s!
+MsgDisp("Hikaru","Okay～!
 The first ride will be the roller
 coaster♪");
 MsgClose();

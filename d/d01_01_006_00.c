@@ -28,8 +28,7 @@ ChMouth(31,3);
 ChMotion(31,5);
 VoicePlay("D010100600_31_030");
 MsgDisp("Goro","Make haste, alright, ＧＯ～∈");
-MsgDisp("主人公","Y...
-Yes!");
+MsgDisp("主人公","Y-Yes!");
 BGMStop();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();

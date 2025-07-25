@@ -23,7 +23,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D140B06002_03_000");
-MsgDisp("Honda","Mii-kun isn't here today.
+MsgDisp("Honda","Mi-kun isn't here today.
 Aren't you lonely?");
 MsgDisp("主人公","That's...");
 ChEye(1,4);

@@ -2,11 +2,11 @@ BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F100340002_03_000");
-MsgDisp("Honda?","Mii-kun.");
+MsgDisp("Honda?","Mi-kun.");
 MsgDisp("主人公","(Huh?
 This voice...)");
 VoicePlay("F100340002_03_010");
-MsgDisp("Honda?","Mii-kun, come out.");
+MsgDisp("Honda?","Mi-kun, come out.");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
@@ -59,7 +59,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100340002_03_050");
-MsgDisp("Honda","Yes, I found Mii-kun.");
+MsgDisp("Honda","Yes, I found Mi-kun.");
 MsgDisp("主人公","Hehe, you really did!
 As you strategized, ｛本多＊＊｝.");
 ChEye(4,0);
@@ -71,7 +71,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("F100340002_03_060");
-MsgDisp("Honda","Mii-kun is a cat, so don't chase him.
+MsgDisp("Honda","Mi-kun is a cat, so don't chase him.
 He'll come to you if he gets lonely.");
 ChEye(4,2);
 ChMouth(4,3);

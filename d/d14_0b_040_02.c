@@ -26,7 +26,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D140B04002_03_010");
-MsgDisp("Honda","It looks like Mii-kun stays up late every
+MsgDisp("Honda","It looks like Mi-kun stays up late every
 night, after all.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -66,7 +66,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("D140B04002_03_040");
-MsgDisp("Honda","Mii-kun's pockets are filled with lots of
+MsgDisp("Honda","Mi-kun's pockets are filled with lots of
 sweets.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -80,7 +80,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D140B04002_03_060");
-MsgDisp("Honda","I'll go and buy the bread Mii-kun seems to
+MsgDisp("Honda","I'll go and buy the bread Mi-kun seems to
 like.");
 ChEye(1,0);
 ChMouth(1,3);

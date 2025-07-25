@@ -1,5 +1,5 @@
 SEPlay("EV_SE_083");
-MsgDisp("主人公","(I got an album.)");
+MsgDisp("主人公","(\"I got an album.\")");
 MsgDisp("主人公","(I feel as though my senses are getting
 sharper somehow!)");
 MsgClose();

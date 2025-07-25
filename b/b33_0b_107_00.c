@@ -21,7 +21,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B10700_03_000");
-MsgDisp("Honda","Mii-kun, you look discontent.");
+MsgDisp("Honda","Mi-kun, you look discontent.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

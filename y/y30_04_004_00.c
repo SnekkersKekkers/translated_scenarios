@@ -11,7 +11,7 @@ social media.");
 MsgClear();
 BGOpen("ad441",0);
 VoicePlay("Y300400400_03_000");
-MsgDisp("Honda","\"Mii-kun!\"");
+MsgDisp("Honda","\"Mi-kun!\"");
 MsgDisp("","I hear a loud voice call out for me.
 I nearly drop my phone.");
 MsgClear();

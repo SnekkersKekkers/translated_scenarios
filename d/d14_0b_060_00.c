@@ -35,7 +35,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("D140B06000_03_020");
-MsgDisp("Honda","Mii-kun, that's an obtrusive question.");
+MsgDisp("Honda","Mi-kun, that's an obtrusive question.");
 MsgDisp("主人公","?");
 ChEye(3,3);
 ChMouth(3,3);

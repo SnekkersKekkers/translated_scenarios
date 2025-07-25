@@ -20,7 +20,7 @@ And thank you.");
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("T020320000_03_180");
-MsgDisp("Honda","I have to thank Ryou-kun and Mii-kun too.");
+MsgDisp("Honda","I have to thank Ryou-kun and Mi-kun too.");
 MsgDisp("主人公","Hehe, that's right isn't it?");
 ChEye(3,0);
 ChMouth(3,0);

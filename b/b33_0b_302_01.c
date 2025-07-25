@@ -73,7 +73,7 @@ ChMotion(3,5,1);
 VoicePlay("B330B30201_03_010");
 MsgDisp("Honda","Ahh!
 The sea birds are only gathering around
-the food in Mii-kun's hand!");
+the food in Mi-kun's hand!");
 MsgDisp("主人公","｛七ツ森＊｝ is tall so it looks like
 all the birds gather in a place they can
 easily take the food right?");

@@ -16,14 +16,14 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B360318001_03_010");
-MsgDisp("Honda","Mii-kun told me about it.");
+MsgDisp("Honda","Mi-kun told me about it.");
 MsgDisp("主人公","Yeah, I've heard that too.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360318001_03_020");
 MsgDisp("Honda","...Wait, did you hear about it from
-Mii-kun too?");
+Mi-kun too?");
 MsgDisp("主人公","No, the popcorn here is just really
 popular.");
 ChMouth(3,4);
@@ -34,7 +34,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360318001_03_040");
-MsgDisp("Honda","I just pictured you and Mii-kun eating
+MsgDisp("Honda","I just pictured you and Mi-kun eating
 popcorn together, and it made me feel...
 uneasy.");
 MsgDisp("主人公","What?");

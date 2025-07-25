@@ -72,8 +72,7 @@ VoicePlay("D010400700_04_060");
 MsgDisp("Nanatsumori","I know I'm a hypocrite for saying this but
 when you feel tired, you should rest
 properly.");
-MsgDisp("主人公","Y...
-Yeah.");
+MsgDisp("主人公","Y-Yeah.");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);

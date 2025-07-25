@@ -101,7 +101,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D140B03100_03_030");
-MsgDisp("Honda","Mii-kun, I'll teach you how to slurp ramen
+MsgDisp("Honda","Mi-kun, I'll teach you how to slurp ramen
 well.
 Next time it's decided, we'll have ramen!");
 ChEye(4,2);

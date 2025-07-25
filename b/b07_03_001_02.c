@@ -11,7 +11,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_100");
-MsgDisp("Honda","Mii-kun sometimes finds items from brands
+MsgDisp("Honda","Mi-kun sometimes finds items from brands
 that no one knows about.");
 ChMotion(3,0);
 VoicePlay("B070300001_03_110");

@@ -23,7 +23,7 @@ should value real-life experiences more
 than just knowledge from books.");
 ChMotion(3,1);
 VoicePlay("B070300001_03_180");
-MsgDisp("Honda","Because of that, Ryo-kun and Mii-kun are
+MsgDisp("Honda","Because of that, Ryo-kun and Mi-kun are
 very important to me.");
 VoicePlay("B070300001_03_190");
 MsgDisp("Honda","It may seem obvious but two people can

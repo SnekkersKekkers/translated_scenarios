@@ -29,13 +29,13 @@ ChMotion(3,1,1);
 VoicePlay("D140B03300_03_000");
 MsgDisp("Honda","Our class kept having to move between
 classrooms, so I'm now really hungry.
-What about you, Mii-kun?");
+What about you, Mi-kun?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("D140B03300_04_000");
 MsgDisp("Nanatsumori","Not really.");
 VoicePlay("D140B03300_03_010");
-MsgDisp("Honda","Even though Mii-kun's body is so big, he
+MsgDisp("Honda","Even though Mi-kun's body is so big, he
 doesn't get hungry.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -72,7 +72,7 @@ ChMotion(3,4,1);
 VoicePlay("D140B03300_03_030");
 MsgDisp("Honda","This?
 Then, I'll trade you this for that,
-Mii-kun.");
+Mi-kun.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -100,7 +100,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("D140B03300_03_050");
-MsgDisp("Honda","...It's Mii-kun's fault.");
+MsgDisp("Honda","...It's Mi-kun's fault.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

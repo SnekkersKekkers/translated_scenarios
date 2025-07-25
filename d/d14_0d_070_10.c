@@ -31,8 +31,8 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("D140D07010_21_020");
-MsgDisp("Michiru","Ehhh...how wonderful. \"
-Childhood friends\" sure sounds romantic.");
+MsgDisp("Michiru","Ehhh...how wonderful.
+\"Childhood friends\" sure sounds romantic.");
 MsgDisp("主人公","Ummm...");
 ChEye(22,3);
 ChMouth(22,3);

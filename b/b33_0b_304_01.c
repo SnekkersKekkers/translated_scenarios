@@ -31,7 +31,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B30401_03_000");
-MsgDisp("Honda","Mii-kun has something planned right?
+MsgDisp("Honda","Mi-kun has something planned right?
 He chose this place specifically after
 all.");
 ChMouth(1,0);

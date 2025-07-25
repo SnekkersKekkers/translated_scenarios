@@ -11,13 +11,13 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360350401_03_000");
 MsgDisp("Honda","I wonder what would happen if Ryou-kun and
-Mii-kun found out that we came here
+Mi-kun found out that we came here
 together?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360350401_03_010");
-MsgDisp("Honda","Mii-kun would probably forgive us...but
+MsgDisp("Honda","Mi-kun would probably forgive us...but
 Ryou-kun might get upset.");
 MsgDisp("主人公","Really?");
 ChEye(3,0);
@@ -47,7 +47,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B360350401_03_050");
-MsgDisp("Honda","Mii-kun never shows his emotions, but
+MsgDisp("Honda","Mi-kun never shows his emotions, but
 Ryou-kun does sometimes.
 It's kind of intriguing, right?");
 ChEye(3,3);

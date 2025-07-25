@@ -19,7 +19,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360303100_03_010");
 MsgDisp("Honda","Yeah.
-Ryou-kun and Mii-kun were eager to talk to
+Ryou-kun and Mi-kun were eager to talk to
 you too.");
 ChEye(3,4);
 ChMouth(3,4);

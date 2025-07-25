@@ -158,7 +158,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q100B00000_03_060");
-MsgDisp("Honda","Let's start with you, Mii-kun.
+MsgDisp("Honda","Let's start with you, Mi-kun.
 Let's go to your favorite castella shop!");
 ChEye(1,0);
 ChMouth(1,3);

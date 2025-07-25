@@ -13,8 +13,7 @@ It's ｛風真＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello.
-What's wrong?");
+    MsgDisp("主人公","Hello?");
     VoicePlay("J040100001_01_000");
     MsgDisp("Kazama","Ah, can I talk to you for a second?");
     MsgDisp("主人公","Yeah, what's up?");
@@ -27,15 +26,15 @@ Are you free?");
         break ;
         case 1:
         VoicePlay("J040100001_01_020");
-        MsgDisp("Kazama","What's that.");
-        MsgDisp("主人公","Kinda, you know.");
+        MsgDisp("Kazama","What's with that.");
+        MsgDisp("主人公","It's just kinda, you know...");
         VoicePlay("J040100001_01_030");
         MsgDisp("Kazama","Just a quick errand.
 Yes, I understand.
-So...");
+See you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Did he try to ask me out somewhere?
+        MsgDisp("主人公","(Was he trying to ask me out?
 Maybe I did something bad...)");
         MsgClose();
         break ;
@@ -55,12 +54,12 @@ It's ｛風真＊＊｝)");
 ｛風真＊＊｝?");
     VoicePlay("J040100001_01_040");
     MsgDisp("Kazama","Yes, it's me.");
-    MsgDisp("主人公","｛風真＊＊｝, what's wrong?");
+    MsgDisp("主人公","｛風真＊＊｝, what's up?");
     VoicePlay("J040100001_01_051");
-    MsgDisp("Kazama","I'm not doing anything.
+    MsgDisp("Kazama","I'm not up to anything.
 I was just wondering if you're free this
 Sunday.");
-    MsgSel("Yeah, I'm free","I have some business to take care of...");
+    MsgSel("Yeah, I'm free.","I have some business to take care of...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -71,7 +70,7 @@ and making plans.");
         MsgDisp("主人公","Uh, I'm sorry...");
         VoicePlay("J040100001_01_070");
         MsgDisp("Kazama","Hey, you.
-This time I'll call first.
+Next time I'll call you first.
 See you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();

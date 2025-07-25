@@ -37,9 +37,9 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("F100340000_03_020");
 MsgDisp("Honda","That's right.
-I wonder if Mii-kun and I have bad
+I wonder if Mi-kun and I have bad
 compatibility?");
-MsgDisp("主人公","Mii-kun, huh...hehe.
+MsgDisp("主人公","Mi-kun, huh...hehe.
 Now that I hear it again, it is funny.");
 ChEye(4,0);
 ChMouth(4,2);
@@ -52,7 +52,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("F100340000_03_030");
-MsgDisp("Honda","Mii-kun is Mii-kun.");
+MsgDisp("Honda","Mi-kun is Mi-kun.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
@@ -60,7 +60,7 @@ ChCheek(4,3);
 VoicePlay("F100340000_04_030");
 MsgDisp("Nanatsumori","Haa.
 Then, what's your opinion?");
-MsgDisp("主人公","I think \"Mii-kun\" is cute?");
+MsgDisp("主人公","I think \"Mi-kun\" is cute?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -82,7 +82,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("F100340000_03_050");
-MsgDisp("Honda","Huh, Mii-kun!
+MsgDisp("Honda","Huh, Mi-kun!
 ...He's gone.");
 MsgDisp("主人公","Yeah.
 What were you talking about?");
@@ -90,15 +90,15 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("F100340000_03_060");
-MsgDisp("Honda","Me and Mii-kun's tastes are complete
+MsgDisp("Honda","Me and Mi-kun's tastes are complete
 opposites.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("F100340000_03_070");
-MsgDisp("Honda","I don't like spicy food, but Mii-kun loves
+MsgDisp("Honda","I don't like spicy food, but Mi-kun loves
 it?
-I love insects, Mii-kun is bad with them.");
+I love insects, Mi-kun is bad with them.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -113,7 +113,7 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("F100340000_03_090");
 MsgDisp("Honda","Yepyep, that sounds good.
-I'll say that to Mii-kun next time.");
+I'll say that to Mi-kun next time.");
 MsgDisp("主人公","(What kind of thing will ｛七ツ森＊｝
 reply?)");
 BGMStop();

@@ -6,7 +6,7 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 VoicePlay("U100D00003_22_000");
-MsgDisp("Hikaru","Hi～ i, Mari!
+MsgDisp("Hikaru","Hi～ Mari!
 It's Hikaru♪");
 MsgDisp("主人公","What's up, ｛ひかる＊｝?");
 VoicePlay("U100D00003_22_010");

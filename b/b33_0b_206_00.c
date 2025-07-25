@@ -28,7 +28,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("B330B20600_03_010");
-MsgDisp("Honda","No, no, no Mii-kun.
+MsgDisp("Honda","No, no, no Mi-kun.
 The horror movie today wasn't just about
 sight and sound right?");
 ChEye(4,2);

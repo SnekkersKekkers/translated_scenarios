@@ -42,7 +42,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230001_22_030");
-MsgDisp("Hikaru","Ha～ i, Mari♪
+MsgDisp("Hikaru","Hi～Mari♪
 We're playing guess the character bento
 again today.");
 ChEye(21,2);

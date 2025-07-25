@@ -2,8 +2,7 @@ ChEye(7,5);
 ChMouth(7,1);
 ChMotion(7,5);
 VoicePlay("T020700021_07_000");
-MsgDisp("Mikage","Y-Y...
-You∋");
+MsgDisp("Mikage","Y-You∋");
 MsgDisp("主人公","Ah, sorry. but...");
 ChEye(7,4);
 ChMouth(7,4);

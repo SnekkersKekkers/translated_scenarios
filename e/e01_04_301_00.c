@@ -2,7 +2,7 @@ BGOpen("fp000",1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("E010430100_03_000");
-MsgDisp("Honda?","Let's go, Mii-kun!");
+MsgDisp("Honda?","Let's go, Mi-kun!");
 VoicePlay("E010430100_04_000");
 MsgDisp("Nanatsumori?","Absolutely not!");
 MsgDisp("主人公","(Hm?
@@ -75,7 +75,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010430100_03_040");
-MsgDisp("Honda","Mii-kun?
+MsgDisp("Honda","Mi-kun?
 ...It is what it is.");
 ChEye(3,3);
 ChMouth(3,3);

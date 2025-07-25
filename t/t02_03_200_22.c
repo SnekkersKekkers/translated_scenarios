@@ -33,7 +33,7 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("T020320000_03_330");
 MsgDisp("Honda","That's right, I have to tell Ryou-kun and
-Mii-kun too.");
+Mi-kun too.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);

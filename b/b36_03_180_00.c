@@ -31,7 +31,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360318000_03_030");
-MsgDisp("Honda","Yeah, with Ryou-kun and Mii-kun around
+MsgDisp("Honda","Yeah, with Ryou-kun and Mi-kun around
 earlier, I didn't get to talk to you
 enough.");
 MsgDisp("主人公","Haha, I see.

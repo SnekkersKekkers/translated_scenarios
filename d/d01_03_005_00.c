@@ -70,8 +70,7 @@ help you up.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300500_03_070");
-MsgDisp("Honda","Y...
-Yeah...");
+MsgDisp("Honda","Y-Yeah...");
 MsgClose();
 ScrFadeOut(0);
 StlClose();

@@ -17,7 +17,7 @@ ChMotion(6,0);
 VoicePlay("P540600001_06_010");
 MsgDisp("Himuro","Seems like even in such a state, you can
 evaluate yourself properly.");
-MsgDisp("主人公","Y...yeah.");
+MsgDisp("主人公","Y-Yeah.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
