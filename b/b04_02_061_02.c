@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040206102_02_000");
 MsgDisp("Sassa","I always get excited when I see those
 watermelon beach balls.");
-MsgSel("It's perfect for the beach","Makes me want to watermelon","The orca floaty would be good");
+MsgSel("It's perfect for the beach","Makes me want to eat watermelon","The orca floaty would be good");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
