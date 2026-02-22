@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoicePlay("Q090300000_03_000");
     MsgDisp("Honda","Good morning!");
-    MsgDisp("主人公","Yeah, good morning, ｛本多＊＊｝.");
+    MsgDisp("主人公","Yeah, good morning, ｛Honda＊＊｝.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
@@ -36,7 +36,7 @@ going!");
     MsgDisp("Honda","｛主人公｝, good morning.
 I was waiting for you.");
     MsgDisp("主人公","Eh?
-｛本多＊＊｝, how early.");
+｛Honda＊＊｝, how early.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -59,7 +59,7 @@ We need to use time wisely.");
     VoicePlay("Q090300000_03_060");
     MsgDisp("Honda","｛主人公｝.
 Good morning!");
-    MsgDisp("主人公","｛本多＊＊｝, how early.");
+    MsgDisp("主人公","｛Honda＊＊｝, how early.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);

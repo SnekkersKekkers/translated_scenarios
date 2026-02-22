@@ -7,7 +7,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ChCheek(4,0);
 MsgDisp("主人公","By the way have you been able to contact
-｛風真＊＊｝?");
+｛Kazama＊＊｝?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -56,7 +56,7 @@ MsgDisp("Honda","Ehhh. It must be convenient to have your
 house so close by. ...Right?");
 MsgDisp("主人公","(It's definitely convenient but But it's a
 big shock when you forget something. I'm
-sure ｛風真＊＊｝ is super frustrated
+sure ｛Kazama＊＊｝ is super frustrated
 about now...)");
 BGMStop();
 MsgClose();

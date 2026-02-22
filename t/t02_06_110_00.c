@@ -6,7 +6,7 @@ SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(6,254,0,0,1,#1,#1,0,0);
 MsgDisp("主人公","Eh...
-｛氷室＊＊｝?");
+｛Himuro＊＊｝?");
 ChEye(6,4);
 ChMouth(6,1);
 ChMotion(6,0);
@@ -29,7 +29,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf620",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This is the beach ｛氷室＊＊｝ always
+MsgDisp("主人公","(This is the beach ｛Himuro＊＊｝ always
 surfed at...)");
 MsgClose();
 ScrFadeOut(0,1);

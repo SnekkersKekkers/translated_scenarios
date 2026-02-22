@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B150200500_02_000");
 MsgDisp("Sassa","...It popped just now.
 The balloon.");
-MsgDisp("主人公","｛颯砂＊＊｝, are you alright?");
+MsgDisp("主人公","｛Sassa＊＊｝, are you alright?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -35,7 +35,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150200500_02_040");
 MsgDisp("Sassa","...It's not self-control, it's cowardice.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -43,7 +43,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("B150200500_02_050");
 MsgDisp("Sassa","Haa, I'm pathetic.");
 MsgDisp("主人公","You're not pathetic.
-It's because ｛颯砂＊＊｝ is gentle.
+It's because ｛Sassa＊＊｝ is gentle.
 I got carried away, I'm sorry.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -70,7 +70,7 @@ VoicePlay("B150200500_02_090");
 MsgDisp("Sassa","Idiots should act like idiots and do what
 they think immediately.");
 MsgDisp("主人公","Umm...
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -79,7 +79,7 @@ MsgDisp("Sassa","Listen up, it'll be my victory next time.
 See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(I'm competing with ｛颯砂＊＊｝?
+MsgDisp("主人公","(I'm competing with ｛Sassa＊＊｝?
 But, next time I definitely won't lose
 either.)");
 MsgClose();

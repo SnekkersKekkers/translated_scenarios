@@ -59,7 +59,7 @@ ChMotion(3,4,1);
 VoicePlay("B360316000_03_070");
 MsgDisp("Honda","I must be acting weird today.
 Probably am!");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);

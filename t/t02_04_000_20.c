@@ -1,6 +1,6 @@
 ChEye(4,4);
 ChMouth(4,4);
-MsgDisp("主人公","I also like ｛七ツ森＊｝...");
+MsgDisp("主人公","I also like ｛Nanatsumori＊｝...");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -15,7 +15,7 @@ Welcome!");
     VoicePlay("I450100000_01_010");
     MsgDisp("Kazama","You look like a bee, flying around all
 those flowers, you know?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 A bee...
 What's up?");
     ChEye(1,4);
@@ -23,7 +23,7 @@ What's up?");
     ChMotion(1,3);
     VoicePlay("I450100000_01_020");
     MsgDisp("Kazama","I was lured in by the flowers, too.");
-    MsgDisp("主人公","Then you're a bee too, right, ｛風真＊＊｝?");
+    MsgDisp("主人公","Then you're a bee too, right, ｛Kazama＊＊｝?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -36,7 +36,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hm, did ｛風真＊＊｝ just come to check
+    MsgDisp("主人公","(Hm, did ｛Kazama＊＊｝ just come to check
 on me?)");
     break ;
     case 3:
@@ -45,7 +45,7 @@ on me?)");
     ChOpen(1,255,0,0,3,8,#1,0,0);
     VoicePlay("I450100000_01_040");
     MsgDisp("Kazama","There you are, worker bee.");
-    MsgDisp("主人公","｛風真＊＊｝.
+    MsgDisp("主人公","｛Kazama＊＊｝.
 Geez, I'd rather be called a butterfly
 than a bee, you know?");
     ChEye(1,0);
@@ -73,7 +73,7 @@ Hardworking and friendly.");
 I'll put it in your apron pocket, so eat
 it secretly later.");
     MsgDisp("主人公","Hehe, okay.
-Thanks, ｛風真＊＊｝.");
+Thanks, ｛Kazama＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.01);
     ChClose(1,0,30);
@@ -89,7 +89,7 @@ See you.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Let's replenish our sugar with
-｛風真＊＊｝'s candy and get back to work!)");
+｛Kazama＊＊｝'s candy and get back to work!)");
     break ;
     case 4:
     case 5:
@@ -98,7 +98,7 @@ See you.");
     ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450100000_01_090");
     MsgDisp("Kazama","Yo, you're here.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Welcome!");
     ChEye(1,0);
     ChMouth(1,0);
@@ -179,7 +179,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Yay, ｛風真＊＊｝ praised me!
+    MsgDisp("主人公","(Yay, ｛Kazama＊＊｝ praised me!
 Let's practice more and get better!)");
     break ;
     default :

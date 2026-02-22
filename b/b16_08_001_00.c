@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160800100_08_000");
 MsgDisp("Shirahane","What's up, yer bein' assertive today, huh?");
-MsgSel("It's because I want to touch ｛大地＊＊｝.","I'm sorry...");
+MsgSel("It's because I want to touch ｛Daichi＊＊｝.","I'm sorry...");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(8,2);

@@ -26,7 +26,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("Q070200000_02_020");
 MsgDisp("Sassa","That's lucky of us.");
-MsgDisp("主人公","Hehe, as expected of ｛颯砂＊＊｝.");
+MsgDisp("主人公","Hehe, as expected of ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -40,7 +40,7 @@ ChMotion(2,3);
 VoicePlay("Q070200000_02_040");
 MsgDisp("Sassa","I think so too. Getting to go sightseeing
 in Nagasaki with you...I'm really lucky.");
-MsgDisp("主人公","(｛颯砂＊＊｝ ...)");
+MsgDisp("主人公","(｛Sassa＊＊｝ ...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -145,7 +145,7 @@ VoicePlay("Q070200000_02_150");
 MsgDisp("Sassa","It's like how I'd quit Track and Field if
 I don't win all my matches during the
 Inter-High.");
-MsgDisp("主人公","Eh? ...｛颯砂＊＊｝?");
+MsgDisp("主人公","Eh? ...｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -158,7 +158,7 @@ VoicePlay("Q070200000_02_170");
 MsgDisp("Sassa","But if I'm not good enough, that means I
 wouldn't have what it takes for what comes
 next.");
-MsgDisp("主人公","You can do it, ｛颯砂＊＊｝!");
+MsgDisp("主人公","You can do it, ｛Sassa＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -171,7 +171,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("Q070200000_02_190");
 MsgDisp("Sassa","I'm so simple.");
-MsgDisp("主人公","｛颯砂＊＊｝, you're not simple as you
+MsgDisp("主人公","｛Sassa＊＊｝, you're not simple as you
 think. You have a crazy training schedule
 that you follow everyday.");
 ChEye(2,0);
@@ -188,7 +188,7 @@ VoicePlay("Q070200000_02_210");
 MsgDisp("Sassa","Like the merchants who came here...maybe
 I'm also going to push myself into a
 corner, with no way out.");
-MsgDisp("主人公","(I'd be happy if I could help ｛颯砂＊＊｝
+MsgDisp("主人公","(I'd be happy if I could help ｛Sassa＊＊｝
 in any way...)");
 BGMStop();
 MsgClose();

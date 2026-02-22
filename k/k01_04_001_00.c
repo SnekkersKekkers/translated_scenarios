@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛七ツ森＊｝!");
+    MsgDisp("主人公","｛Nanatsumori＊｝!");
     ChMouthOpenLevel(4,0);
     VoicePlay("K010400100_04_000");
     MsgDisp("Nanatsumori","...");
@@ -22,10 +22,10 @@ Here's a birthday present.");
     ChMouthOpenLevel(4,#1);
     VoicePlay("K010400100_04_010");
     MsgDisp("Nanatsumori","For me?");
-    MsgDisp("主人公","Yes, for ｛七ツ森＊｝.");
+    MsgDisp("主人公","Yes, for ｛Nanatsumori＊｝.");
     break ;
     case 3:
-    MsgDisp("主人公","｛七ツ森＊｝!");
+    MsgDisp("主人公","｛Nanatsumori＊｝!");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -47,14 +47,14 @@ Hey, try opening it.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛七ツ森＊｝!");
+    MsgDisp("主人公","｛Nanatsumori＊｝!");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("K010400100_04_040");
     MsgDisp("Nanatsumori","...Come here a little quieter next time.");
     MsgDisp("主人公","Ah, sorry...
-｛七ツ森＊｝, happy birthday.
+｛Nanatsumori＊｝, happy birthday.
 Here's a birthday present.");
     SEPlay("EV_SE_664");
     SEWait();

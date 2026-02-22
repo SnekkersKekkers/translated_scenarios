@@ -7,7 +7,7 @@ BGMPlay("BGM_C06_INORI_A");
 ChOpen(6,35,0,0,0,#1,#1,0,0);
 VoicePlay("G110600801_06_000");
 MsgDisp("Himuro","Good work today.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Are you heading home already?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -68,7 +68,7 @@ ChCheek(6,10);
 VoicePlay("G110600801_06_070");
 MsgDisp("Himuro","Don't be shy about it.
 ...I'm drawn to it..");
-MsgDisp("主人公","(Hehe, I was praised by ｛氷室＊＊｝...!)");
+MsgDisp("主人公","(Hehe, I was praised by ｛Himuro＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -1,5 +1,5 @@
 MsgDisp("主人公","Lately, we've been spending more time with
-｛颯砂＊＊｝ and ｛氷室＊＊｝.
+｛Sassa＊＊｝ and ｛Himuro＊＊｝.
 The four of us.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -49,7 +49,7 @@ ChCheek(1,7);
 VoicePlay("B070100001_01_290");
 MsgDisp("Kazama","So, don't think weird things anymore.
 You're our keystone.");
-MsgDisp("主人公","(｛風真＊＊｝...)");
+MsgDisp("主人公","(｛Kazama＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

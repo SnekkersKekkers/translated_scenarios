@@ -7,7 +7,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgDisp("主人公","Welcome!
-...Wait, ｛氷室＊＊｝?");
+...Wait, ｛Himuro＊＊｝?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -32,12 +32,12 @@ switch (ChPrmGet(6,6)){
     BGMStop();
     MsgClose();
     ChClose(6);
-    MsgDisp("主人公","(｛氷室＊＊｝...
+    MsgDisp("主人公","(｛Himuro＊＊｝...
 I wonder what he needed to buy?)");
     break ;
     case 3:
     MsgDisp("主人公","Welcome!
-Huh, ｛氷室＊＊｝?");
+Huh, ｛Himuro＊＊｝?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -93,7 +93,7 @@ Did he really come here to shop?)");
     case 4:
     case 5:
     MsgDisp("主人公","Welcome!
-...Oh, ｛氷室＊＊｝!");
+...Oh, ｛Himuro＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

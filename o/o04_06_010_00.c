@@ -3,7 +3,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     MsgDisp("主人公","My team is...
-Ah, it's ｛氷室＊＊｝!");
+Ah, it's ｛Himuro＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -21,7 +21,7 @@ Looking forward to it.");
     break ;
     case 3:
     MsgDisp("主人公","My team is...
-Ah, it's ｛氷室＊＊｝!");
+Ah, it's ｛Himuro＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -45,7 +45,7 @@ Ah, it's ｛氷室＊＊｝!");
     VoiceEVSPlay(6);
     VoicePlay("O040601000_06_040");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
 Could it be that we're on the same team?");
     ChEye(6,0);
     ChMouth(6,0);

@@ -4,7 +4,7 @@ MsgDisp("主人公","Yes.");
 VoicePlay("M010100000_01_000");
 MsgDisp("Kazama?","It's me.
 I came to see how you were doing.");
-MsgDisp("主人公","Eehh∈ ｛風真＊＊｝∋
+MsgDisp("主人公","Eehh∈ ｛Kazama＊＊｝∋
 P-Please come in...");
 SEPlay("EV_SE_DOOR_007");
 Wait(18);
@@ -77,6 +77,6 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(｛風真＊＊｝,thank you.
+MsgDisp("主人公","(｛Kazama＊＊｝,thank you.
 I feel a lot better.
 I'll rest properly and get all better!)");

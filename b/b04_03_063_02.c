@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040306302_03_000");
 MsgDisp("Honda","I know it's dangerous, but I want to walk
 on the water's edge～");
-MsgSel("｛本多＊＊｝, do your best!","Let's see who can attack!","Hey, if you get wet, you'll catch a cold▼");
+MsgSel("｛Honda＊＊｝, do your best!","Let's see who can attack!","Hey, if you get wet, you'll catch a cold▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -95,7 +95,7 @@ If you get wet, you'll catch a cold▼");
         VoicePlay("B040306302_03_070");
         MsgDisp("Honda","It was this...
 Did you use hypnosis or something?");
-        MsgDisp("主人公","(｛本多＊＊｝ is a bit weird today?)");
+        MsgDisp("主人公","(｛Honda＊＊｝ is a bit weird today?)");
         break ;
         default :
         DbgAssert(1);

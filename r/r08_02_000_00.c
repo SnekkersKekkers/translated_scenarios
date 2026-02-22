@@ -10,7 +10,7 @@ VoiceEVSPlay(2);
 VoicePlay("R080200000_02_000");
 MsgDisp("Sassa","｛主人公｝.
 Hey.");
-MsgDisp("主人公","｛颯砂＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Sassa＊＊｝, what's wrong?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -51,7 +51,7 @@ StlOpen("ev_02_16");
 StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝...?");
+MsgDisp("主人公","｛Sassa＊＊｝...?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("R080200000_02_040");
@@ -68,7 +68,7 @@ StlEyeOpenLevel(2,0,1);
 VoicePlay("R080200000_02_060");
 MsgDisp("Sassa","I didn't realize how obvious that was
 until I retired.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("R080200000_02_070");
@@ -85,7 +85,7 @@ StlEye(2,1);
 StlMouth(2,0);
 MsgDisp("主人公","Of course.
 The seniors and I are also dreaming by
-supporting you, ｛颯砂＊＊｝.");
+supporting you, ｛Sassa＊＊｝.");
 StlEye(2,1,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
@@ -97,7 +97,7 @@ VoicePlay("R080200000_02_100");
 MsgDisp("Sassa","Then, I can...
 I can keep running like this...");
 MsgDisp("主人公","Did you forget it's everyone's dream?
-｛颯砂＊＊｝, don't stop.");
+｛Sassa＊＊｝, don't stop.");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("R080200000_02_110");

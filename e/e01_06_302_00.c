@@ -75,7 +75,7 @@ VoicePlay("E010630200_06_060");
 MsgDisp("Himuro","I'm sure the banter between Himuros is
 strange anyway.");
 MsgDisp("主人公","I don't think so.
-It's nice seeing ｛氷室＊＊｝ be obedient.");
+It's nice seeing ｛Himuro＊＊｝ be obedient.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -122,7 +122,7 @@ VoicePlay("E010630200_32_060");
 MsgDisp("VP Himuro","We'll be off now.
 Please take care on your way home.");
 MsgDisp("主人公","Okay!
-...See you soon, ｛氷室＊＊｝?");
+...See you soon, ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -135,7 +135,7 @@ ChClose(6,0,30);
 ChClose(32,0,30);
 ChPosition(6,0);
 MsgDisp("主人公","(Hehe!
-In front of Himuro-sensei, ｛氷室＊＊｝
+In front of Himuro-sensei, ｛Himuro＊＊｝
 kinda looks like a lost cat.)");
 MsgClose();
 ScrFadeOut(0,0);

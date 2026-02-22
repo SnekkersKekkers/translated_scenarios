@@ -27,7 +27,7 @@ MsgDisp("Mikage","But thanks to you, I was able to graduate
 from Haba High.
 Thank you.");
 MsgDisp("主人公","I am happy that I was able to spend three
-years with ｛御影＊＊｝ and graduate
+years with ｛Mikage＊＊｝ and graduate
 with him.");
 ChEye(7,2);
 ChMouth(7,0);

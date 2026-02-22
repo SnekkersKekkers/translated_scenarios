@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     VoiceEVSPlay(1);
     VoicePlay("H280100000_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","｛風真＊＊｝, what's up?");
+    MsgDisp("主人公","｛Kazama＊＊｝, what's up?");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -44,7 +44,7 @@ you get a medal too?");
 Then, I guess I'll get serious about
 cheering.");
     MsgDisp("主人公","(Let's win the overall championship, to
-respond to ｛風真＊＊｝'s cheers, too!)");
+respond to ｛Kazama＊＊｝'s cheers, too!)");
     break ;
     case 4:
     case 5:
@@ -54,7 +54,7 @@ respond to ｛風真＊＊｝'s cheers, too!)");
     VoiceEVSPlay(1);
     VoicePlay("H280100000_01_050");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Did you come to cheer us on?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -81,7 +81,7 @@ Maybe I should've done track too?");
 pretty happy, having such dedicated
 support.");
     ChMotion(1,0);
-    MsgDisp("主人公","｛風真＊＊｝...");
+    MsgDisp("主人公","｛Kazama＊＊｝...");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -89,7 +89,7 @@ support.");
     MsgDisp("Kazama","Just for today, I'll lend you to the track
 team.
 Look, everyone's waiting for you.");
-    MsgDisp("主人公","(｛風真＊＊｝, thank you.
+    MsgDisp("主人公","(｛Kazama＊＊｝, thank you.
 Alright, we'll all definitely win today!)");
     break ;
     default :

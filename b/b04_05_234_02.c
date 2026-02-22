@@ -47,7 +47,7 @@ It's no laughing matter.");
         VoicePlay("B040523402_05_030");
         MsgDisp("Hiiragi","Are you alright?");
         MsgDisp("主人公","Yeah.
-What about you, ｛柊＊＊＊｝?");
+What about you, ｛Hiiragi＊＊＊｝?");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -85,7 +85,7 @@ is me. That much is a hard fact.");
         MsgDisp("Hiiragi","That being the case, it's better if you
 only come to the amusement park with me?");
         MsgDisp("主人公","(Eh.. going to the amusement park with
-only ｛柊＊＊＊｝?)");
+only ｛Hiiragi＊＊＊｝?)");
         break ;
         default :
         DbgAssert(1);

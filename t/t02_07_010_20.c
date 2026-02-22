@@ -1,4 +1,4 @@
-MsgDisp("主人公","I also love ｛御影＊＊｝.");
+MsgDisp("主人公","I also love ｛Mikage＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -6,7 +6,7 @@ ChCheek(7,6);
 VoicePlay("T020701020_07_000");
 MsgDisp("Mikage","Really...thank you. ...that's all that
 comes out.");
-MsgDisp("主人公","As for me...thanks to ｛御影＊＊｝, I
+MsgDisp("主人公","As for me...thanks to ｛Mikage＊＊｝, I
 had a very happy three years of high
 school.");
 ChEye(7,0);

@@ -60,7 +60,7 @@ SEWait();
 MsgDisp("","...It's coming.");
 MsgDisp("主人公","\"Sorry to have kept you waiting. I
 brought you dessert. ...It's
-specifically for ｛七ツ森＊｝,
+specifically for ｛Nanatsumori＊｝,
 right?\"");
 MsgDisp("","Unbelievable...");
 MsgClear();

@@ -8,12 +8,12 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,255,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Welcome.");
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝, so you work here.");
-    MsgDisp("主人公","Yes, and you, ｛柊＊＊＊｝?");
+    MsgDisp("主人公","Yes, and you, ｛Hiiragi＊＊＊｝?");
     ChMotion(5,4);
     VoicePlay("I250500000_05_010");
     MsgDisp("Hiiragi","I was looking for a magazine that I had
@@ -27,7 +27,7 @@ I shall go look.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(I see, ｛柊＊＊＊｝ is the chairman of a
+    MsgDisp("主人公","(I see, ｛Hiiragi＊＊＊｝ is the chairman of a
 theater company...I can't believe I know
 such a great person.)");
     break ;
@@ -39,7 +39,7 @@ such a great person.)");
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝, so you were working today.");
-    MsgDisp("主人公","Yes, and you, ｛柊＊＊＊｝?");
+    MsgDisp("主人公","Yes, and you, ｛Hiiragi＊＊＊｝?");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("I250500000_05_040");
@@ -67,7 +67,7 @@ easier to understand, I will return.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(...Hm? What did ｛柊＊＊＊｝ come for?
+    MsgDisp("主人公","(...Hm? What did ｛Hiiragi＊＊＊｝ come for?
 Could it be that he came to check on me?)");
     break ;
     case 4:
@@ -78,7 +78,7 @@ Could it be that he came to check on me?)");
     VoiceEVSPlay(5);
     VoicePlay("I250500000_05_080");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, welcome.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, welcome.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -90,7 +90,7 @@ Ah, I see it is over there.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(Hehe, how admirable.
-｛柊＊＊＊｝ is doing his best studying.)");
+｛Hiiragi＊＊＊｝ is doing his best studying.)");
     SEWait();
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

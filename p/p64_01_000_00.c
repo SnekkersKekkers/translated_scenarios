@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("P640100000_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝.");
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -26,7 +26,7 @@ MsgDisp("Kazama","You grew those herbs with care.
 Somehow I feel your energy flowing into my
 body.");
 MsgDisp("主人公","(Yay!
-I was praised by ｛風真＊＊｝)");
+I was praised by ｛Kazama＊＊｝)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

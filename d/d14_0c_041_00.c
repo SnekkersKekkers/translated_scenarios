@@ -66,7 +66,7 @@ ChMotion(6,3);
 VoicePlay("D140C04100_06_040");
 MsgDisp("Himuro","Sure.");
 MsgDisp("主人公","(Both of them are worried about
-｛柊＊＊＊｝...
+｛Hiiragi＊＊＊｝...
 I'd like to help him in some way too..)");
 BGMStop();
 MsgClose();

@@ -12,7 +12,7 @@ VoicePlay("D010200100_02_000");
 MsgDisp("Sassa","｛主人公｝.
 Do you have anything to carry?
 Let me help you.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Thank you, but I'm fine.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -39,7 +39,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("D010200100_02_020");
 MsgDisp("Sassa","......");
-MsgDisp("主人公","(｛颯砂＊＊｝...)");
+MsgDisp("主人公","(｛Sassa＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -51,7 +51,7 @@ MsgClose();
 BGOpen("sc625",0);
 ScrFadeIn(0);
 MsgDisp("主人公","The final event, the 1500 meter race...
-｛颯砂＊＊｝, good luck!");
+｛Sassa＊＊｝, good luck!");
 VoicePlay("D010200100_40_030");
 MsgDisp("Member","With such a large gap in scores, even if
 he just runs however, he'll win.");
@@ -74,7 +74,7 @@ Wait(60);
 SEPlay("EV_SE_GAYA_021");
 SEPlay("EV_SE_CLAP_002",0,0.5);
 SEPlay("EV_SE_CLAP_004",0,0.2);
-MsgDisp("主人公","｛颯砂＊＊｝!
+MsgDisp("主人公","｛Sassa＊＊｝!
 Congratulations∈");
 MsgClose();
 BGMPlay("BGM_C02_SASSA_I",0.01);
@@ -82,7 +82,7 @@ StlOpen("ev_02_06");
 StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, you did it!");
+MsgDisp("主人公","｛Sassa＊＊｝, you did it!");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200100_02_030");
@@ -103,7 +103,7 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 Wait(60);
-MsgDisp("主人公","(｛颯砂＊＊｝ somehow didn't seem too
+MsgDisp("主人公","(｛Sassa＊＊｝ somehow didn't seem too
 happy...)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -117,7 +117,7 @@ VoicePlay("D010200100_02_050");
 MsgDisp("Sassa","But I want to get first place in every
 event...");
 MsgDisp("主人公","(Eh...
-Was that ｛颯砂＊＊｝'s voice just now?)");
+Was that ｛Sassa＊＊｝'s voice just now?)");
 VoicePlay("D010200100_39_080");
 MsgDisp("Manager","That's enough. Sassa is just competing on
 a different level from us. Nothing we say
@@ -145,7 +145,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D010200100_02_080");
 MsgDisp("Sassa","Good work today.");
-MsgDisp("主人公","｛颯砂＊＊｝...
+MsgDisp("主人公","｛Sassa＊＊｝...
 You know, congrats on winning.");
 ChEye(2,2);
 ChMouth(2,4);
@@ -166,7 +166,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(2);
-MsgDisp("主人公","(Even though he won, ｛颯砂＊＊｝ looks
+MsgDisp("主人公","(Even though he won, ｛Sassa＊＊｝ looks
 sad...)");
 MsgClose();
 ScrFadeOut(0);

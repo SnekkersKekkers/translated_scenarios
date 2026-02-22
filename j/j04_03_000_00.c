@@ -11,7 +11,7 @@ switch (ChPrmGet(3,6)){
     VoiceEVSPlay(3);
     VoicePlay("J040300000_03_000");
     MsgDisp("Honda","｛主人公｝, I found you!");
-    MsgDisp("主人公","｛本多＊＊｝, is something wrong?");
+    MsgDisp("主人公","｛Honda＊＊｝, is something wrong?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4);
@@ -62,7 +62,7 @@ What was that about?)");
     VoicePlay("J040300000_03_040");
     MsgDisp("Honda","Oh, there you are.
 I looked for you!");
-    MsgDisp("主人公","Oh, ｛本多＊＊｝.
+    MsgDisp("主人公","Oh, ｛Honda＊＊｝.
 What's wrong?");
     ChEye(3,0);
     ChMouth(3,3);

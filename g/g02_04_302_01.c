@@ -20,15 +20,15 @@ VoicePlay("G020430201_04_020");
 MsgDisp("Nanatsumori","In the midst of all the relationships with
 countless people, there will come a time
 when I'll love someone and marry them.
-...that's supposed to happen");
+...that's supposed to happen.");
 MsgDisp("主人公","Ah, yeah...");
 ChMotion(4,1,1);
 VoicePlay("G020430201_04_030");
 MsgDisp("Nanatsumori","But even if you love someone, it doesn't
-mean you'll end up together");
+mean you'll end up together.");
 VoicePlay("G020430201_04_040");
 MsgDisp("Nanatsumori","Maybe, even if you love them, you might
-not be able to be with them..");
+not be able to be with them...");
 MsgDisp("主人公","Hmm...");
 ChEye(4,2);
 ChMouth(4,4);
@@ -58,7 +58,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("G020430201_04_080");
 MsgDisp("Nanatsumori","Hey, you're my friend, right?");
-MsgDisp("主人公","(｛七ツ森＊｝, I think you'll have plenty
+MsgDisp("主人公","(｛Nanatsumori＊｝, I think you'll have plenty
 of chances to make friends...)");
 BGMStop();
 MsgClose();

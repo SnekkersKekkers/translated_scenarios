@@ -1,5 +1,5 @@
 MsgDisp("主人公","Recently it's been super lively around
-you, ｛風真＊＊｝ hasn't it?");
+you, ｛Kazama＊＊｝ hasn't it?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -15,7 +15,7 @@ VoicePlay("B070100001_01_150");
 MsgDisp("Kazama","I'm basically alone at home.
 So maybe it's better for school to be
 lively?");
-MsgDisp("主人公","You live alone, don't you ｛風真＊＊｝? If
+MsgDisp("主人公","You live alone, don't you ｛Kazama＊＊｝? If
 you get lonely, you're free to come over
 anytime. Our houses are in the same
 neighborhood after all.");

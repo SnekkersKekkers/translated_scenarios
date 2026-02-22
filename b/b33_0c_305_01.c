@@ -44,7 +44,7 @@ MsgDisp("Hiiragi","I apologize.
 But, it was fun listening to Inori, so I
 thought I would give it a try too.");
 MsgDisp("主人公","Hehe.
-｛柊＊＊＊｝, you're funny.");
+｛Hiiragi＊＊＊｝, you're funny.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -143,7 +143,7 @@ now on.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(Hehe, everyone seems to be having fun!
-But ｛御影＊＊｝ seems to be having the
+But ｛Mikage＊＊｝ seems to be having the
 most fun?)");
 BGMStop();
 MsgClose();

@@ -13,7 +13,7 @@ VoicePlay("F020700006_07_000");
 MsgDisp("Mikage","Yeah, I'm looking forward to it!
 I have no complaints whether we win or
 lose.");
-MsgDisp("主人公","Hehe, ｛御影＊＊｝ seems to be more
+MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ seems to be more
 fired up than the students?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -61,4 +61,4 @@ MsgDisp("Mikage","It'll definitely be an unforgettable
 memory.");
 MsgDisp("主人公","(The one who's looking most forward to the
 sports festival in the whole school is
-｛御影＊＊｝...?)");
+｛Mikage＊＊｝...?)");

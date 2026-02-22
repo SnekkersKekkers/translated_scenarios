@@ -81,7 +81,7 @@ tan.");
         MsgDisp("Nanatsumori","We'll look like a couple, but I'll just
 accept it for today.
 It's a date after all, right?");
-        MsgDisp("主人公","(｛七ツ森＊｝...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :
         DbgAssert(1);

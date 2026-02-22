@@ -12,7 +12,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020720030_07_010");
 MsgDisp("Mikage","You've always been in the right.");
-MsgDisp("主人公","｛御影＊＊｝...");
+MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -28,7 +28,7 @@ MsgDisp("Mikage","Thanks to you, I could move on from Haba
 High.
 Thank you.");
 MsgDisp("主人公","Me too, I was very happy in the last three
-years I spent with ｛御影＊＊｝.");
+years I spent with ｛Mikage＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);

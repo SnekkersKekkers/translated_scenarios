@@ -16,7 +16,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","A shrine visit with you was a great way to
 start the New Year!");
     MsgDisp("主人公","Hehe, same for me.
-It was fun visiting with ｛本多＊＊｝.");
+It was fun visiting with ｛Honda＊＊｝.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -54,7 +54,7 @@ thanks to you.");
 the crowd, but because of you, time passed
 so quickly.");
     MsgDisp("主人公","Right?
-Thanks to ｛本多＊＊｝, I also had a fun
+Thanks to ｛Honda＊＊｝, I also had a fun
 time.");
     ChEye(3,3);
     ChMouth(3,3);
@@ -79,7 +79,7 @@ Next year, we'll come back here, right?");
     MsgDisp("Honda","We were able to safely say our prayers.
 I guess now it's the end of this year's
 shrine visit.");
-    MsgDisp("主人公","｛本多＊＊｝, you were praying very
+    MsgDisp("主人公","｛Honda＊＊｝, you were praying very
 earnestly, weren't you?");
     ChEye(3,4);
     ChMouth(3,0);

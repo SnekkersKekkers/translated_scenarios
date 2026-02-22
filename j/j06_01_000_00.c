@@ -28,7 +28,7 @@ I'm looking forward to it.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(1);
-        MsgDisp("主人公","(An invitation from ｛風真＊＊｝...
+        MsgDisp("主人公","(An invitation from ｛Kazama＊＊｝...
 Is this a date?)");
         break ;
         case 5:
@@ -65,7 +65,7 @@ It's a date, after all.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(1);
-        MsgDisp("主人公","(A date with ｛風真＊＊｝...
+        MsgDisp("主人公","(A date with ｛Kazama＊＊｝...
 I'm a little nervous.)");
         break ;
         default :

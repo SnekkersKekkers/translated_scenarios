@@ -17,7 +17,7 @@ What about the meeting place?");
 I'm looking forward to it.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(An invitation from ｛風真＊＊｝...
+        MsgDisp("主人公","(An invitation from ｛Kazama＊＊｝...
 Is this a date?)");
         break ;
         case 5:
@@ -40,7 +40,7 @@ It's a date, after all.");
         MsgDisp("Kazama","Then I'll look forward to it.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A date with ｛風真＊＊｝....
+        MsgDisp("主人公","(A date with ｛Kazama＊＊｝....
 I'm a little nervous.)");
         break ;
         default :

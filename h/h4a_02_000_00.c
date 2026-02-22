@@ -15,7 +15,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("H4A0200000_02_000");
     MsgDisp("Sassa","You did it!
 Congratulations on winning!");
-    MsgDisp("主人公","｛颯砂＊＊｝, thank you!");
+    MsgDisp("主人公","｛Sassa＊＊｝, thank you!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

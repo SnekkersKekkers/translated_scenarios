@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝...
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 Why are you here?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -29,7 +29,7 @@ ChMouth(5,4);
 VoicePlay("T020500000_05_020");
 MsgDisp("Hiiragi","...Do you remember when I ate half of your
 bento on the rooftop?");
-MsgDisp("主人公","Yeah. ｛柊＊＊＊｝ You were trying to do
+MsgDisp("主人公","Yeah. ｛Hiiragi＊＊＊｝ You were trying to do
 your student council work without even
 eating lunch.");
 Wait(60,0);
@@ -87,7 +87,7 @@ VoicePlay("T020500000_05_080");
 MsgDisp("Hiiragi","So much so that I began to drive the
 members of the Habataki Theater Company
 into despair.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(16,0);

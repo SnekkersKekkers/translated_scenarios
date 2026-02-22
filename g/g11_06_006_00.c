@@ -2,7 +2,7 @@ BGOpen("sc130",1);
 ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","(Ah, it's ｛氷室＊＊｝!)");
+MsgDisp("主人公","(Ah, it's ｛Himuro＊＊｝!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -55,7 +55,7 @@ ChMotion(6,2);
 VoicePlay("G110600600_06_040");
 MsgDisp("Himuro","...Ah, is that so.
 Then it's fine.");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -80,7 +80,7 @@ ChCheek(6,0);
 VoicePlay("G110600600_06_070");
 MsgDisp("Himuro","It seems that I was an idiot for worrying
 so much.");
-MsgDisp("主人公","(｛氷室＊＊｝...
+MsgDisp("主人公","(｛Himuro＊＊｝...
 That question really worried you, huh...)");
 BGMStop();
 MsgClose();

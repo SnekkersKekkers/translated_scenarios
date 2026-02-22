@@ -18,7 +18,7 @@ gathering...)");
     VoicePlay("P130200000_02_000");
     MsgDisp("Sassa","As expected from Mikage's class.
 A lot of effort was put in.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Welcome.");
     ChEye(2,0);
     ChMouth(2,3);
@@ -55,7 +55,7 @@ gathering...)");
     ChOpen(2,254,3,0,3,#1,#1,0,0);
     VoicePlay("P130200000_02_030");
     MsgDisp("Sassa","Eeeh, you made something super impressive.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Are you going to try it?");
     ChEye(2,0);
     ChMouth(2,4);

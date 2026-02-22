@@ -6,7 +6,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040617001_06_000");
 MsgDisp("Himuro","Keep singing.");
-MsgSel("｛氷室＊＊｝, you sing too!","Yeah, leave it to me!","I put in \"Pure Love Ballad\"!");
+MsgSel("｛Himuro＊＊｝, you sing too!","Yeah, leave it to me!","I put in \"Pure Love Ballad\"!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

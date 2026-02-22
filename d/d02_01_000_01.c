@@ -5,7 +5,7 @@ BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Oh?
-｛風真＊＊｝, good morning!
+｛Kazama＊＊｝, good morning!
 Were you maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -24,7 +24,7 @@ VoicePlay("D020100000_01_010");
 MsgDisp("Kazama","I guess so. When I look at you, I don't
 notice anything different. It's like you
 haven't grown at all.");
-MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
+MsgDisp("主人公","｛Kazama＊＊｝, you've changed a lot though,
 haven't you?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -76,13 +76,13 @@ VoicePlay("D020100000_01_121");
 MsgDisp("Kazama","Looks like it's going well...
 The wish I made to the pinwheel.");
 MsgDisp("主人公","I see.
-If ｛風真＊＊｝ thinks so, maybe so.");
+If ｛Kazama＊＊｝ thinks so, maybe so.");
 NSSEye(1,3);
 NSSMouth(1,2);
 NSSMouthOpenLevel(1,0);
 VoicePlay("D020100000_01_130");
 MsgDisp("Kazama","Hm?");
-MsgDisp("主人公","｛風真＊＊｝'s wish is also my wish, so...");
+MsgDisp("主人公","｛Kazama＊＊｝'s wish is also my wish, so...");
 NSSEye(1,6);
 NSSMouth(1,3);
 NSSCheek(1,7);
@@ -129,7 +129,7 @@ MsgDisp("Kazama","Ah, maybe you should just take off your
 shoes and let me carry you until we get to
 the shoe lockers.");
 MsgDisp("Kazama","Here, piggyback ride.");
-MsgDisp("主人公","W-Wait, ｛風真＊＊｝∋
+MsgDisp("主人公","W-Wait, ｛Kazama＊＊｝∋
 I said I'm fine so...
 Hey, everyone is staring at us∋");
 SEPlay("EV_SE_857",0.7,0.3);

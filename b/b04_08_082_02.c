@@ -10,7 +10,7 @@ MsgDisp("Shirahane","There's an an urban legend here. When you
 look at the fireflies flying around,
 you'll unintentionally reveal what's in
 your heart.");
-MsgSel("I don't believe it.","It sure is strange, isn't it...","I want to know what's in ｛大地＊＊｝'s heart▼");
+MsgSel("I don't believe it.","It sure is strange, isn't it...","I want to know what's in ｛Daichi＊＊｝'s heart▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -62,7 +62,7 @@ But I definitely can't do that...");
         ChCheek(8,5);
         VoicePlay("B040808202_08_040");
         MsgDisp("Shirahane","eh...why?");
-        MsgDisp("主人公","I want to know what ｛大地＊＊｝ is
+        MsgDisp("主人公","I want to know what ｛Daichi＊＊｝ is
 thinking.");
         ChEye(8,4);
         ChMouth(8,4);
@@ -91,7 +91,7 @@ I can't right now!");
         MsgDisp("Shirahane","Please forgive me. When I properly muster
 the courage, I'll reveal it all to you.
 Okay?");
-        MsgDisp("主人公","(｛大地＊＊｝...)");
+        MsgDisp("主人公","(｛Daichi＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

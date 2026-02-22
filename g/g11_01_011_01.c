@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time to head home now, huh.)");
-MsgDisp("主人公","(...Huh? Isn't that ｛風真＊＊｝ over
+MsgDisp("主人公","(...Huh? Isn't that ｛Kazama＊＊｝ over
 there. I might as well chat a bit before
 heading home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);

@@ -3,7 +3,7 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛氷室＊＊｝.
+MsgDisp("主人公","｛Himuro＊＊｝.
 Are you heading home now?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -28,7 +28,7 @@ MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛氷室＊＊｝ is really good at surfing
+MsgDisp("主人公","(｛Himuro＊＊｝ is really good at surfing
 isn't he...)");
 MsgClose();
 SEPlay("EV_SE_542",0,0.4);
@@ -66,14 +66,14 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_050");
 MsgDisp("Himuro","Oh...that?");
-MsgDisp("主人公","｛氷室＊＊｝, borrowed a bass from one of the
+MsgDisp("主人公","｛Himuro＊＊｝, borrowed a bass from one of the
 band members and started playing, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_060");
 MsgDisp("Himuro","Yeah, that happened.");
-MsgDisp("主人公","That's why I thought ｛氷室＊＊｝ is good
+MsgDisp("主人公","That's why I thought ｛Himuro＊＊｝ is good
 with his hands too.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -92,7 +92,7 @@ MsgDisp("Himuro","Of course not.
 It's just that you only see me doing the
 things I'm good at.");
 MsgDisp("主人公","Is that right...?
-Then, ｛氷室＊＊｝'s weaknesses——");
+Then, ｛Himuro＊＊｝'s weaknesses——");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,0);

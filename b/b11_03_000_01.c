@@ -1,7 +1,7 @@
 ChLayout(1);
 ChClose(3,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm...looks like ｛本多＊＊｝ isn't here
+MsgDisp("主人公","Hm...looks like ｛Honda＊＊｝ isn't here
 yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -28,7 +28,7 @@ MsgClose();
 ChOpen(3,31,0,0,4,#1,#1,0,2);
 VoicePlay("B110300001_03_000");
 MsgDisp("Honda","Sorry for being a bit late.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝!");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝!");
 ChEye(34,2);
 ChMouth(34,2);
 VoicePlay("B110300001_34_020");
@@ -87,7 +87,7 @@ VoicePlay("B110300001_03_040");
 MsgDisp("Honda","...You must be lonely, right?
 I can understand what it's like to be a
 shut-in.");
-MsgDisp("主人公","(｛本多＊＊｝, wow...that guy was opening
+MsgDisp("主人公","(｛Honda＊＊｝, wow...that guy was opening
 up their heart.)");
 ChEyeOpenLevel(3,#1);
 ChMouthOpenLevel(3,#1);

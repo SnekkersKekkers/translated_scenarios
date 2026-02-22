@@ -20,7 +20,7 @@ Are you ready to go?");
     VoicePlay("S060800000_08_010");
     MsgDisp("Shirahane","Good Morning!
 I hope this year goes well for you.");
-    MsgDisp("主人公","｛大地＊＊｝, good morning.
+    MsgDisp("主人公","｛Daichi＊＊｝, good morning.
 Yeah, please treat me well.");
     break ;
     case 4:

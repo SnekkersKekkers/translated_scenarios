@@ -12,7 +12,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","｛主人公｝.
 Huh, by the way, while looking at the
 list, I couldn't find your name.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Umm well, maybe it's because it's
 somewhere in the middle.");
     ChEye(2,0);
@@ -32,7 +32,7 @@ Well that's good.");
     VoiceEVSPlay(2);
     VoicePlay("N020200002_02_020");
     MsgDisp("Sassa","｛主人公｝, how did your exams go?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Hmm, average I guess...");
     ChEye(2,0);
     ChMouth(2,4);
@@ -68,7 +68,7 @@ I've got to study a bit harder!)");
     VoicePlay("N020200002_02_060");
     MsgDisp("Sassa","｛主人公｝.
 How did your exams go?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Yeah, I did so-so.");
     ChEye(2,0);
     ChMouth(2,2);
@@ -89,7 +89,7 @@ like your results.");
     ChMotion(2,3);
     VoicePlay("N020200002_02_090");
     MsgDisp("Sassa","You are special.");
-    MsgDisp("主人公","｛颯砂＊＊｝...");
+    MsgDisp("主人公","｛Sassa＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -99,7 +99,7 @@ but, let's both do our best next time.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝, you always have my back.
+    MsgDisp("主人公","(｛Sassa＊＊｝, you always have my back.
 Yeah, I'll study a bit harder!)");
     break ;
     default :

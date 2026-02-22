@@ -16,6 +16,6 @@ ChMotion(2,0);
 VoicePlay("B020202100_02_020");
 MsgDisp("Sassa","It's pretty girlish, but it feels like you
 still?");
-MsgDisp("主人公","(This seems to be just to ｛颯砂＊＊｝'s
+MsgDisp("主人公","(This seems to be just to ｛Sassa＊＊｝'s
 tastes.
 Yay!)");

@@ -7,7 +7,7 @@ MsgDisp("Himuro?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C06_INORI_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
 Are you out shopping?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -95,6 +95,6 @@ MsgClose();
 ChClose(6);
 MsgDisp("主人公","(Traditional cuisine...
 I'm a bit curious about the food
-｛氷室＊＊｝'s mother makes.)");
+｛Himuro＊＊｝'s mother makes.)");
 MsgClose();
 ScrFadeOut(0,0);

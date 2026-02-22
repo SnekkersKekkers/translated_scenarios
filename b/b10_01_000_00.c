@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Haa...today didn't go so well...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","Huh, it's my phone.
-Eh, it's from ｛風真＊＊｝?");
+Eh, it's from ｛Kazama＊＊｝?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Yes, hello.");
@@ -21,7 +21,7 @@ You gave it your all didn't you?");
 VoicePlay("B100100000_01_030");
 MsgDisp("Kazama","I was also all worked up, trying to make
 it special. ...sorry.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 VoicePlay("B100100000_01_040");
 MsgDisp("Kazama","Even if we run around aimlessly at times,
 that's just like us, so don't worry.");
@@ -37,6 +37,6 @@ Well, I'll see you then.");
 MsgDisp("主人公","Yeah, see you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛風真＊＊｝...called me out of concern.)");
+MsgDisp("主人公","(｛Kazama＊＊｝...called me out of concern.)");
 MsgClose();
 ScrFadeOut(0,0);

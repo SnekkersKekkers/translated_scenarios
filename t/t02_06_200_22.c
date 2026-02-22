@@ -5,7 +5,7 @@ ChMouth(6,1);
 ChMotion(6,5);
 VoicePlay("T020620000_06_240");
 MsgDisp("Himuro","Eh, wait...∋");
-MsgDisp("主人公","I too, like ｛氷室＊＊｝!");
+MsgDisp("主人公","I too, like ｛Himuro＊＊｝!");
 VoicePlay("T020620000_06_250");
 ChEye(6,0);
 ChMouth(6,1);

@@ -40,7 +40,7 @@ SEWait();
 VoicePlay("B150400500_04_050");
 MsgDisp("Nanatsumori","Haa...");
 MsgDisp("主人公","Ughー...
-｛七ツ森＊｝, it hurts.");
+｛Nanatsumori＊｝, it hurts.");
 VoicePlay("B150400500_04_060");
 MsgDisp("Nanatsumori","I bet.
 I'm holding you with all my strength.");
@@ -71,7 +71,7 @@ ChClose(4,0,30);
 ChLayout(1);
 ChNanaType(#1);
 ChOpen(4,255,0,4,3,#1,#1,0,0,0,60);
-MsgDisp("主人公","｛七ツ森＊｝, you're so mean...");
+MsgDisp("主人公","｛Nanatsumori＊｝, you're so mean...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

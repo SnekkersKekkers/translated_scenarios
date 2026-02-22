@@ -3,7 +3,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","There's alot, I can't choose...
 Something that will make good memories,
 huh...");
-MsgDisp("主人公","(I wonder where ｛七ツ森＊｝ went...)");
+MsgDisp("主人公","(I wonder where ｛Nanatsumori＊｝ went...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);

@@ -10,7 +10,7 @@ VoicePlay("B070300000_03_020");
 MsgDisp("Honda","Ah, but I especially like shows about the
 Big Bang and Earth's 4.6 billion year
 history.");
-MsgDisp("主人公","That sounds like ｛本多＊＊｝.
+MsgDisp("主人公","That sounds like ｛Honda＊＊｝.
 What about quiz shows?");
 ChEye(3,3);
 ChMouth(3,3);

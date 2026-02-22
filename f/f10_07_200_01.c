@@ -2,7 +2,7 @@ ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Next lesson is biology. I wonder if
-｛御影＊＊｝ is there already? Let's
+｛Mikage＊＊｝ is there already? Let's
 head there early.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -10,7 +10,7 @@ ScrFadeOut(0);
 SEWait();
 BGOpen("sc352",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛御影＊＊｝ and ｛柊＊＊＊｝ is
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝ and ｛Hiiragi＊＊＊｝ is
 also here!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -19,7 +19,7 @@ ChOpen(5,254,0,0,4,#1,#1,0,2,0,30);
 VoiceEVSPlay(7);
 VoicePlay("F100720001_07_000");
 MsgDisp("Mikage","｛主人公｝, you sure are early aren't you?");
-MsgDisp("主人公","Are ｛御影＊＊｝ and ｛柊＊＊＊｝
+MsgDisp("主人公","Are ｛Mikage＊＊｝ and ｛Hiiragi＊＊＊｝
 talking about blackboards?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -109,7 +109,7 @@ VoicePlay("F100720001_42_000");
 MsgDisp("Male Student","Curtain rises?
 Mikagecchi, what's wrong?");
 MsgDisp("主人公","(Hehe!
-It looks like ｛御影＊＊｝ is trying to
+It looks like ｛Mikage＊＊｝ is trying to
 be an actor?)");
 SEStop("EV_SE_SCHOOL_002",1);
 SEStop("EV_SE_788",1);

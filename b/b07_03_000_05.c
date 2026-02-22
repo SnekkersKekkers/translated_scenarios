@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey, ｛本多＊＊｝, tell me about your
+MsgDisp("主人公","Hey, ｛Honda＊＊｝, tell me about your
 hobbies.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -49,7 +49,7 @@ MsgDisp("Honda","When aquatic plants form oxygen bubbles,
 doesn't it make you think of Earth's
 ancient oceans? In addition to that, I
 like to use my telescope.");
-MsgDisp("主人公","(｛本多＊＊｝'s hobbies are not so easy to
+MsgDisp("主人公","(｛Honda＊＊｝'s hobbies are not so easy to
 learn...)");
 BGMStop();
 MsgClose();

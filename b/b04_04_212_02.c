@@ -86,7 +86,7 @@ guys yearn for?");
 I didn't say you had to be a full-body
 bunny.");
         MsgDisp("主人公","Your eyes are kind of serious though,
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -112,7 +112,7 @@ Then, I'll wear it.");
         ChOpen(4,255,0,5,4,#1,#1,5,0,0,60);
         SEPlay("EV_SE_554");
         ScrQuake(1);
-        MsgDisp("主人公","｛七ツ森＊｝ can wear the gorilla cap!");
+        MsgDisp("主人公","｛Nanatsumori＊｝ can wear the gorilla cap!");
         ChEye(4,4);
         ChMouth(4,1);
         VoicePlay("B040421202_04_110");

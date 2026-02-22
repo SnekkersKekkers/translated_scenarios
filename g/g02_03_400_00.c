@@ -55,7 +55,7 @@ VoicePlay("G020340000_03_070");
 MsgDisp("Honda","Haa～,maybe I should stop messing with my
 hair and start focusing on what's good for
 it, like my dad...");
-MsgDisp("主人公","(｛本多＊＊｝, I don't think you need to
+MsgDisp("主人公","(｛Honda＊＊｝, I don't think you need to
 worry that much...)");
 BGMStop();
 MsgClose();

@@ -5,7 +5,7 @@ ChMouth(8,4);
 ChMotion(8,4);
 VoicePlay("S110800001_08_000");
 MsgDisp("Shirahane","...Eh.");
-MsgDisp("主人公","｛大地＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Daichi＊＊｝, what's wrong?");
 ChMotion(8,0,1);
 VoicePlay("S110800001_08_010");
 MsgDisp("Shirahane","No way.
@@ -58,6 +58,6 @@ VoicePlay("S110800001_08_080");
 MsgDisp("Shirahane","Ah, that's what it means!
 You worded it better.
 ...Hehe!");
-MsgDisp("主人公","(｛大地＊＊｝ looks happy. It's said that
+MsgDisp("主人公","(｛Daichi＊＊｝ looks happy. It's said that
 good fortune comes to those who smile.
-｛大地＊＊｝ will have a great year!)");
+｛Daichi＊＊｝ will have a great year!)");

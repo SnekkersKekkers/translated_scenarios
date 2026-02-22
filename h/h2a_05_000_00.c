@@ -16,7 +16,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("Hiiragi","Congratulations to our team for winning
 the championships!
 As I expected.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, yes.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, yes.
 Everyone set new personal bests as well.");
     ChEye(5,4);
     ChMouth(5,4);
@@ -38,7 +38,7 @@ support.");
     MsgDisp("Hiiragi","I'm speaking about you.
 I'm quite impressed with the amount of
 work you've done as manager.");
-    MsgDisp("主人公","｛柊＊＊＊｝, thank you...");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you...");
     ChEye(5,3);
     VoicePlay("H2A0500000_05_040");
     MsgDisp("Hiiragi","Please, go on and show that smile to all

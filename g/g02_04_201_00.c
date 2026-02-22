@@ -10,7 +10,7 @@ ChEye(4,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("G020420100_04_010");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","...｛七ツ森＊｝, are you angry?");
+MsgDisp("主人公","...｛Nanatsumori＊｝, are you angry?");
 ChEye(4,5);
 ChMotion(4,1,1);
 ChMouthOpenLevel(4,#1);
@@ -49,14 +49,14 @@ ChEyeOpenLevel(4,0);
 VoicePlay("G020420100_04_070");
 MsgDisp("Nanatsumori","...If you were to dislike me, it would be
 the same as the world ending.");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("G020420100_04_080");
 MsgDisp("Nanatsumori","Please...don't come to dislike me.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems like he's hurting...
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems like he's hurting...
 I wonder if there's something I did to
 cause this...)");
 BGMStop();

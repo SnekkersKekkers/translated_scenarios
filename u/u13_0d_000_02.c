@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛本多＊＊｝, I think...");
+MsgDisp("主人公","｛Honda＊＊｝, I think...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -24,7 +24,7 @@ I think love is still quite far off.");
 I guess he thinks of Mari like his sister?");
     MsgDisp("主人公","(S-Sister...
 I guess it would be good if I was more
-aggressive with ｛本多＊＊｝?)");
+aggressive with ｛Honda＊＊｝?)");
     break ;
     case 3:
     StlEye(22,0);
@@ -51,7 +51,7 @@ new feelings?");
     MsgDisp("Hikaru","Teach Dahon about love.
 Okay, Mari?");
     MsgDisp("主人公","Y-Yeah.");
-    MsgDisp("主人公","(Teach ｛本多＊＊｝ about love.
+    MsgDisp("主人公","(Teach ｛Honda＊＊｝ about love.
 I wonder if I can do it...)");
     break ;
     case 4:
@@ -87,7 +87,7 @@ It's a bittersweet feeling for him.");
     VoicePlay("U130D00002_22_050");
     MsgDisp("Hikaru","He's still a beginner in love so make sure
 to teach him properly.♪");
-    MsgDisp("主人公","(｛本多＊＊｝ is also in love, huh?)");
+    MsgDisp("主人公","(｛Honda＊＊｝ is also in love, huh?)");
     break ;
     default :
     DbgAssert(1);

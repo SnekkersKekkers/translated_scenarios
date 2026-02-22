@@ -6,7 +6,7 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","It's almost time for exams.
-｛柊＊＊＊｝, how have your studies been
+｛Hiiragi＊＊＊｝, how have your studies been
 going?");
 ChEye(5,2);
 ChMouth(5,2);
@@ -20,7 +20,7 @@ VoicePlay("F020500005_05_010");
 MsgDisp("Hiiragi","When the difference in academic ability is
 so great, motivation alone rarely equates
 to good performance.");
-MsgDisp("主人公","｛柊＊＊＊｝, you're busy, so you don't
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, you're busy, so you don't
 have much of a choice.");
 ChMouth(5,4);
 ChMotion(5,4);
@@ -37,7 +37,7 @@ MsgDisp("Hiiragi","So even if it is just a veneer of success,
 I want to achieve something.
 Even just one or two points.");
 MsgDisp("主人公","I see I still have things to learn from
-｛柊＊＊＊｝.");
+｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -51,5 +51,5 @@ VoicePlay("F020500005_05_050");
 MsgDisp("Hiiragi","At any rate, if you are aiming for self
 improvement, you must learn what you do
 not know.");
-MsgDisp("主人公","(If ｛柊＊＊＊｝ attended school normally,
+MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ attended school normally,
 I'm sure he'd be great at studying.)");

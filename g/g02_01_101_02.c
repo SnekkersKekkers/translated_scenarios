@@ -27,7 +27,7 @@ VoicePlay("G020110102_01_030");
 MsgDisp("Kazama","Honda and Nanatsumori would probably both
 glow rainbow if they were fireflies.");
 MsgDisp("主人公","Hahah.
-What about you, ｛風真＊＊｝?");
+What about you, ｛Kazama＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -57,8 +57,8 @@ ChMouth(1,3);
 VoicePlay("G020110102_01_070");
 MsgDisp("Kazama","No one can get between you and me.
 My advantage will never disappear, ever.");
-MsgDisp("主人公","(Is ｛風真＊＊｝...worried about ｛本多＊＊｝
-and ｛七ツ森＊｝?");
+MsgDisp("主人公","(Is ｛Kazama＊＊｝...worried about ｛Honda＊＊｝
+and ｛Nanatsumori＊｝?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

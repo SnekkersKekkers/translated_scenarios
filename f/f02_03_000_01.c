@@ -52,5 +52,5 @@ ChMotion(3,0);
 VoicePlay("F020300001_03_060");
 MsgDisp("Honda","Hey, why do you think girls like these
 kinds of stories?");
-MsgDisp("主人公","(｛本多＊＊｝ seems more interested in that
+MsgDisp("主人公","(｛Honda＊＊｝ seems more interested in that
 than the legend itself...)");

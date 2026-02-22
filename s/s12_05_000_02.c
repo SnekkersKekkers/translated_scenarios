@@ -68,7 +68,7 @@ but because everyone's here to pray, it
 was refreshing.");
     MsgDisp("主人公","Yeah, you're right.
 I was also able to make a good wish.
-What about ｛柊＊＊＊｝?");
+What about ｛Hiiragi＊＊＊｝?");
     ChEye(5,4);
     ChMotion(5,2);
     VoicePlay("S120500001_05_080");

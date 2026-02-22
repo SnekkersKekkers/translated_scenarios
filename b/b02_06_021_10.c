@@ -11,4 +11,4 @@ VoicePlay("B020602110_06_010");
 MsgDisp("Himuro","And you just said that yourself?
 Well, I guess I'm at your mercy now.");
 MsgDisp("主人公","(I'm glad!
-｛氷室＊＊｝ seems really pleased!)");
+｛Himuro＊＊｝ seems really pleased!)");

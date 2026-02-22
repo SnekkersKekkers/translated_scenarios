@@ -7,7 +7,7 @@ MsgDisp("Himuro","And what will you do with that
 information?");
 MsgDisp("主人公","What will I do...
 I just wanted to know more about
-｛氷室＊＊｝.");
+｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

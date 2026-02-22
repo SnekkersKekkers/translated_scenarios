@@ -41,7 +41,7 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,5);
 VoicePlay("G020110001_01_050");
 MsgDisp("Kazama","It's lame, but it's true.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -69,7 +69,7 @@ VoicePlay("G020110001_01_090");
 MsgDisp("Kazama","...Huh?
 It doesn't smell like roses anymore.");
 MsgDisp("主人公","(I can't belive I'm the reason
-｛風真＊＊｝ likes sweets...
+｛Kazama＊＊｝ likes sweets...
 That's kind of embarrassing.");
 BGMStop();
 MsgClose();

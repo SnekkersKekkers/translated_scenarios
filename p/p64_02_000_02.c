@@ -5,7 +5,7 @@ ChMotion(2,0);
 VoicePlay("P640200002_02_000");
 MsgDisp("Sassa","Ehhhー.
 There's all kinds of herbal tea, huh?");
-MsgDisp("主人公","｛颯砂＊＊｝, do you like it?");
+MsgDisp("主人公","｛Sassa＊＊｝, do you like it?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -32,7 +32,7 @@ VoicePlay("P640200002_02_030");
 MsgDisp("Sassa","Of course.
 I'm taking some home as a souvenir.
 Tomorrow's breakfast will be your salad!");
-MsgDisp("主人公","(｛颯砂＊＊｝ seems super pleased.
+MsgDisp("主人公","(｛Sassa＊＊｝ seems super pleased.
 I'm happy...)");
 MsgClose();
 ScrFadeOut(0,0);

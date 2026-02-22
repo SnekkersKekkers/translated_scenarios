@@ -37,7 +37,7 @@ VoicePlay("B150700300_07_040");
 MsgDisp("Mikage","Haa...
 I'm starting to feel uneasy about how I
 told you to do as you please...");
-MsgDisp("主人公","(I wonder if I've made ｛御影＊＊｝
+MsgDisp("主人公","(I wonder if I've made ｛Mikage＊＊｝
 troubled...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -34,7 +34,7 @@ enjoy it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(It seems like ｛柊＊＊＊｝ is busy.
+    MsgDisp("主人公","(It seems like ｛Hiiragi＊＊＊｝ is busy.
 It can't be helped, I'll go home alone.)");
     break ;
     case 4:
@@ -59,7 +59,7 @@ Ha, what am I saying?");
     ChClose(5);
     ChEyeOpenLevel(5,#1);
     MsgDisp("主人公","(Sounds like a lot of work for
-｛柊＊＊＊｝. It can't be helped. I'll go
+｛Hiiragi＊＊＊｝. It can't be helped. I'll go
 home alone.)");
     break ;
     default :

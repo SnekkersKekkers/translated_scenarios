@@ -5,7 +5,7 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010300000_03_000");
 MsgDisp("Honda","......");
-MsgDisp("主人公","Hello, ｛本多＊＊｝?");
+MsgDisp("主人公","Hello, ｛Honda＊＊｝?");
 VoicePlay("C010300000_03_010");
 MsgDisp("Honda","Sorry but, I don't know if I can even talk
 properly with you?");
@@ -20,7 +20,7 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("C010300000_03_020");
 MsgDisp("Honda","...Sorry!");
 MsgDisp("主人公","Eh?
-Why is ｛本多＊＊｝ the one saying...");
+Why is ｛Honda＊＊｝ the one saying...");
 VoicePlay("C010300000_03_030");
 MsgDisp("Honda","If I just talked to you properly like this
 to start with, I...

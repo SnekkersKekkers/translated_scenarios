@@ -16,7 +16,7 @@ these last three years?)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700002_07_000");
     MsgDisp("Mikage","You seem relaxed.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -43,7 +43,7 @@ Himuro's last time conducting? So repay
 him with a good performance.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alright! I'll have to let both
-Himuro-sensei and ｛御影＊＊｝ listen
+Himuro-sensei and ｛Mikage＊＊｝ listen
 to the culmination of my performances!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -59,7 +59,7 @@ these last three years?)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700002_07_040");
     MsgDisp("Mikage","Oh, that's a nice expression.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

@@ -7,7 +7,7 @@ ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("D100110000_01_000");
 MsgDisp("Kazama","｛主人公｝, listen.");
-MsgDisp("主人公","Good Morning, ｛風真＊＊｝.
+MsgDisp("主人公","Good Morning, ｛Kazama＊＊｝.
 What's up?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -45,7 +45,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(｛風真＊＊｝ has such interesting dreams.
+MsgDisp("主人公","(｛Kazama＊＊｝ has such interesting dreams.
 Huh, that garden sounds familiar
 somehow...)");
 MsgClose();

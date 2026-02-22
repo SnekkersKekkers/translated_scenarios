@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040111102_01_000");
 MsgDisp("Kazama","Somehow, winter sports always get me
 pumped up.");
-MsgSel("Yeah, me too.","Between skiing and skating, which is your favorite?","I'm glad you're good at it, ｛風真＊＊｝.");
+MsgSel("Yeah, me too.","Between skiing and skating, which is your favorite?","I'm glad you're good at it, ｛Kazama＊＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -99,7 +99,7 @@ to just hold hands and glide across.");
         VoicePlay("B040111102_01_080");
         MsgDisp("Kazama","That may be true, but still...
 Then I feel like I'm being relied on...");
-        MsgDisp("主人公","｛風真＊＊｝?");
+        MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,3);

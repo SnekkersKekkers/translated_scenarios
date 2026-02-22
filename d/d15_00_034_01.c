@@ -6,7 +6,7 @@ ChMouth ( 3,3 ) ;
 ChMotion ( 3,3 ) ;
 VoicePlay ( "D150003401_03_000" ) ;
 MsgDisp ( "Honda","Let's refuel for the afternoon!" ) ;
-MsgDisp ( "主人公","｛本多＊＊｝.
+MsgDisp ( "主人公","｛Honda＊＊｝.
 Do you have gym class next?" ) ;
 ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;

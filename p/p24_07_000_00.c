@@ -114,7 +114,7 @@ VoicePlay("P240700000_07_070");
 MsgDisp("Mikage","Phew...
 Somehow I managed to stand in as a
 substitute.");
-MsgDisp("主人公","｛御影＊＊｝!
+MsgDisp("主人公","｛Mikage＊＊｝!
 The applause was huge!");
 ChEye(7,0);
 ChMouth(7,0);
@@ -144,7 +144,7 @@ ChMotion(7,0);
 VoicePlay("P240700000_07_110");
 MsgDisp("Mikage","I said that in front of everyone.
 How heavy.");
-MsgDisp("主人公","...｛御影＊＊｝?");
+MsgDisp("主人公","...｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -154,7 +154,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(I wonder what that was about...? Speaking
 of in the middle of the performance
-｛御影＊＊｝ suddenly changed...)");
+｛Mikage＊＊｝ suddenly changed...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

@@ -8,7 +8,7 @@ VoicePlay("B040230002_02_000");
 MsgDisp("Sassa","In these sorts of situations, the Mom
 would usually be standing at the door and
 listening in right?");
-MsgSel("It happens in drama and manga often huh?","I have to greet her once more","｛颯砂＊＊｝, can you go check?");
+MsgSel("It happens in drama and manga often huh?","I have to greet her once more","｛Sassa＊＊｝, can you go check?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -102,7 +102,7 @@ in?");
         VoicePlay("B040230002_02_100");
         MsgDisp("Sassa","Why are you both getting flustered?
 You make a good combination you know?");
-        MsgDisp("主人公","Me and ｛颯砂＊＊｝'s mom?");
+        MsgDisp("主人公","Me and ｛Sassa＊＊｝'s mom?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);

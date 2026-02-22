@@ -13,7 +13,7 @@ ChMotion(6,0);
 ChPosition(6,2);
 ScrFadeIn(0);
 MsgDisp("主人公","...Huh?
-Where's ｛風真＊＊｝?");
+Where's ｛Kazama＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -106,7 +106,7 @@ ChClose(1,0,30);
 ChClose(2,0,30);
 ChClose(6,0,30);
 MsgDisp("主人公","(Hehe, it's true.
-Seems like ｛風真＊＊｝ is surprisingly
+Seems like ｛Kazama＊＊｝ is surprisingly
 caring?)");
 BGMStop();
 MsgClose();

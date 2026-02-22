@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛風真＊＊｝, recently you've been talking
-to ｛氷室＊＊｝ a lot, haven't you?");
+MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking
+to ｛Himuro＊＊｝ a lot, haven't you?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -7,9 +7,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_080");
 MsgDisp("Kazama","Inori is the one who's one-sidedly
 involving himself with me.");
-MsgDisp("主人公","But when you talk to ｛氷室＊＊｝, you look
+MsgDisp("主人公","But when you talk to ｛Himuro＊＊｝, you look
 like you're having so much fun,
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -24,7 +24,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_100");
 MsgDisp("Kazama","Why me...
 Maybe he's looking down on me?");
-MsgDisp("主人公","｛氷室＊＊｝ definitely likes ｛風真＊＊｝.");
+MsgDisp("主人公","｛Himuro＊＊｝ definitely likes ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -33,7 +33,7 @@ VoicePlay("B070100001_01_110");
 MsgDisp("Kazama","What do you mean by \"like\"?
 You always brush it off like that.
 You're too careless.");
-MsgDisp("主人公","Hehe, ｛風真＊＊｝ unintentionally draws
+MsgDisp("主人公","Hehe, ｛Kazama＊＊｝ unintentionally draws
 everyone in doesn't he?");
 ChEye(1,1);
 ChMouth(1,1);
@@ -49,7 +49,7 @@ ChMouth(1,2);
 VoicePlay("B070100001_01_130");
 MsgDisp("Kazama","Then, what about you?");
 MsgDisp("主人公","(I wonder if I'm also draw in by
-｛風真＊＊｝?)");
+｛Kazama＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

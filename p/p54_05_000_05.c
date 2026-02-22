@@ -12,7 +12,7 @@ ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("P540500005_05_000");
 MsgDisp("Hiiragi","｛主人公｝, good work.");
-MsgDisp("主人公","｛柊＊＊＊｝...
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 I messed up...");
 ChEye(5,4);
 ChMouth(5,4);
@@ -27,7 +27,7 @@ VoicePlay("P540500005_05_020");
 MsgDisp("Hiiragi","It's alright.
 I'm sure you were able to convey your
 kindness to everyone.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

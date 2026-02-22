@@ -6,7 +6,7 @@ VoiceEVSPlay(7);
 VoicePlay("G110700802_07_000");
 MsgDisp("Mikage?","｛主人公｝.");
 SEStop("EV_SE_821",2);
-MsgDisp("主人公","Ah, ｛御影＊＊｝.
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Good morning!");
 MsgClose();
 MsgClose();
@@ -27,7 +27,7 @@ VoicePlay("G110700802_07_020");
 MsgDisp("Mikage","Isn't that great?
 They say plants grow better if you talk to
 them.");
-MsgDisp("主人公","Does ｛御影＊＊｝ talk to them all the
+MsgDisp("主人公","Does ｛Mikage＊＊｝ talk to them all the
 time too?");
 ChEye(7,0);
 ChMouth(7,0);

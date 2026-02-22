@@ -30,7 +30,7 @@ ChMotion(3,4,1);
 VoicePlay("G020310307_03_040");
 MsgDisp("Honda","Then...what about now?");
 MsgDisp("主人公","Uumm, are you talking about how I am with
-｛本多＊＊｝?
+｛Honda＊＊｝?
 I'm fine now I think.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -66,7 +66,7 @@ ChMotion(3,2,1);
 VoicePlay("G020310307_03_090");
 MsgDisp("Honda","I hope she gets over her dislike of boys
 soon...");
-MsgDisp("主人公","(I can understand both ｛本多＊＊｝'s
+MsgDisp("主人公","(I can understand both ｛Honda＊＊｝'s
 feelings and his sister's...)");
 BGMStop();
 MsgClose();

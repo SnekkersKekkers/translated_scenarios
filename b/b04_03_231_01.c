@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040323101_03_000");
 MsgDisp("Honda","You really like going on this again and
 again huh?");
-MsgSel("I love it▼","It's because I want to see ｛本多＊＊｝'s expressions.","It's because it's a staple of amusement parks.");
+MsgSel("I love it▼","It's because I want to see ｛Honda＊＊｝'s expressions.","It's because it's a staple of amusement parks.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -74,7 +74,7 @@ VoicePlay("B330B30201_03_010");
 MsgDisp("Honda","Ahh!
 The sea birds are only gathering around
 the food in Mi-kun's hand!");
-MsgDisp("主人公","｛七ツ森＊｝ is tall so it looks like
+MsgDisp("主人公","｛Nanatsumori＊｝ is tall so it looks like
 all the birds gather in a place they can
 easily take the food right?");
 SEStop("EV_SE_729",4);
@@ -103,7 +103,7 @@ ChMotion(4,0,1);
 VoicePlay("B330B30201_04_040");
 MsgDisp("Nanatsumori","Not a chance.
 Why don't you both try jumping up?");
-MsgDisp("主人公","｛七ツ森＊｝ seems to be having fun,
+MsgDisp("主人公","｛Nanatsumori＊｝ seems to be having fun,
 but not by feeding the seagulls...?)");
 MsgClose();
 ScrFadeOut(0,0);

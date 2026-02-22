@@ -79,7 +79,7 @@ Okay?");
     MsgDisp("Honda","Good.
 Even if the results say differently, I
 think you're the best partner for me!");
-    MsgDisp("主人公","(｛本多＊＊｝...
+    MsgDisp("主人公","(｛Honda＊＊｝...
 That's why last place is so
 frustrating...)");
     break ;

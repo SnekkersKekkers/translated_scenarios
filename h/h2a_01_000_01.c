@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("H2A0100001_01_000");
     MsgDisp("Kazama","It was close.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -35,7 +35,7 @@ I know you put your all into this.");
     VoicePlay("H2A0100001_01_030");
     MsgDisp("Kazama","Come on, show me your usual cheerful face.");
     MsgDisp("主人公","(Yeah...It's frustrating, but I'm glad I
-did my best. Thank you, ｛風真＊＊｝!)");
+did my best. Thank you, ｛Kazama＊＊｝!)");
     break ;
     case 4:
     case 5:
@@ -45,7 +45,7 @@ did my best. Thank you, ｛風真＊＊｝!)");
     ScrFadeIn(0);
     VoicePlay("H2A0100001_01_040");
     MsgDisp("Kazama","...You did your best.");
-    MsgDisp("主人公","｛風真＊＊｝...
+    MsgDisp("主人公","｛Kazama＊＊｝...
 But we didn't win the championships.");
     ChEye(1,2);
     ChMouth(1,3);

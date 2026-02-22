@@ -15,7 +15,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("E010420200_04_000");
 MsgDisp("Nanatsumori","No problem.");
-MsgDisp("主人公","｛七ツ森＊｝, ｛柊＊＊＊｝!");
+MsgDisp("主人公","｛Nanatsumori＊｝, ｛Hiiragi＊＊＊｝!");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -91,8 +91,8 @@ MsgDisp("Nanatsumori","...His energy is definitely different.
 Is that what happens when you're at a
 leader level?");
 MsgDisp("主人公","(Hehe!
-I guess ｛七ツ森＊｝ really respects
-｛柊＊＊＊｝)");
+I guess ｛Nanatsumori＊｝ really respects
+｛Hiiragi＊＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

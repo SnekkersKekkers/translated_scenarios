@@ -8,14 +8,14 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","Oh, that present.
 That's mine.");
     MsgDisp("主人公","Huh? Really! I didn't know you were
-participating, ｛御影＊＊｝.");
+participating, ｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("R060700003_07_010");
     MsgDisp("Mikage","What, is that a bad thing?");
     MsgDisp("主人公","No.
-...Ah, ｛御影＊＊｝, I brought you the
+...Ah, ｛Mikage＊＊｝, I brought you the
 present you have right now∈");
     ChEye(7,0);
     ChMouth(7,3);
@@ -29,7 +29,7 @@ I see.");
     ChOpen(7,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060700003_07_030");
     MsgDisp("Mikage","Enjoying the gift exchange?");
-    MsgDisp("主人公","Hehe, ｛御影＊＊｝, are you also
+    MsgDisp("主人公","Hehe, ｛Mikage＊＊｝, are you also
 participating?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -45,7 +45,7 @@ student gift exchange.");
 You got the present that I brought in,
 huh.");
     MsgDisp("主人公","Really! ...Oh? You also got the gift that
-I brought in, ｛御影＊＊｝.");
+I brought in, ｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0,1);
@@ -75,14 +75,14 @@ Did you get a good one?");
     MsgDisp("Mikage","...Hm?
 That's my present you got!");
     MsgDisp("主人公","Huh∋
-｛御影＊＊｝, you also got my present!");
+｛Mikage＊＊｝, you also got my present!");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("R060700003_07_100");
     MsgDisp("Mikage","What a coincidence, huh.");
     MsgDisp("主人公","Hehe, so you're also participating, huh,
-｛御影＊＊｝.");
+｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

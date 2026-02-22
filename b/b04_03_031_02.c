@@ -47,7 +47,7 @@ specimens that I observe regularly...");
         MsgDisp("Honda","It can't have been a calm atmosphere, huh?");
         MsgDisp("主人公","No, it's nice.
 I was looking forward to listening to
-｛本多＊＊｝.");
+｛Honda＊＊｝.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);
@@ -87,7 +87,7 @@ how to talk to you about it.");
         MsgDisp("Honda","But in the end, the instant we meet I
 forget about it all and I just talk to you
 freely.");
-        MsgDisp("主人公","(I can't believe ｛本多＊＊｝ thinks of me
+        MsgDisp("主人公","(I can't believe ｛Honda＊＊｝ thinks of me
 that way...
 I'm so happy.");
         break ;

@@ -161,7 +161,7 @@ VoicePlay("B330A10801_02_050");
 MsgDisp("Sassa","Seriously, Ryota.
 What a cruel guy.");
 MsgDisp("主人公","We were just waiting here?
-Right, ｛風真＊＊｝?");
+Right, ｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -188,7 +188,7 @@ ChMotion(1,0);
 VoicePlay("B330A10801_01_070");
 MsgDisp("Kazama","And why is that?
 Hey?");
-MsgDisp("主人公","(｛風真＊＊｝, you were thinking of
+MsgDisp("主人公","(｛Kazama＊＊｝, you were thinking of
 something like that...)");
 BGMStop();
 MsgClose();

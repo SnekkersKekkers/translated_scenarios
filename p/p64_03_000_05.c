@@ -8,7 +8,7 @@ VoiceEVSPlay(3);
 VoicePlay("P640300005_03_000");
 MsgDisp("Honda","｛主人公｝.
 Thank you for the meal.");
-MsgDisp("主人公","｛本多＊＊｝, how was it?");
+MsgDisp("主人公","｛Honda＊＊｝, how was it?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

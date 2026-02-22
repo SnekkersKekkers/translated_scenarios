@@ -7,7 +7,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("H180400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 Did you come to support us?");
     ChEye(4,0);
     ChMouth(4,4);
@@ -32,7 +32,7 @@ can just sit back and watch.");
     VoicePlay("H180400000_04_030");
     MsgDisp("Nanatsumori","Yo.
 Good work, oh famous manager.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("H180400000_04_040");
@@ -52,7 +52,7 @@ carried me all the way here.");
     MsgDisp("Nanatsumori","I'll do my best to show my support.
 Of course, to the Haba High Nine, but to
 you, too.");
-    MsgDisp("主人公","｛七ツ森＊｝...thanks.");
+    MsgDisp("主人公","｛Nanatsumori＊｝...thanks.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("H180400000_04_070");

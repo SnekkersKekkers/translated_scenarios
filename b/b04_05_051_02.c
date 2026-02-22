@@ -51,7 +51,7 @@ I'm sorry.");
         MsgDisp("Hiiragi","There's no need to apologize. Not only was
 I able to see the beautiful stars, but
 also your comfortable sleeping face.");
-        MsgDisp("主人公","Ehh∈ ｛柊＊＊＊｝, you saw?");
+        MsgDisp("主人公","Ehh∈ ｛Hiiragi＊＊＊｝, you saw?");
         ChMotion(5,4);
         VoicePlay("B040505102_05_050");
         MsgDisp("Hiiragi","Yes, I saw.");

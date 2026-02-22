@@ -28,7 +28,7 @@ ChMotion(7,0);
 VoicePlay("G020730100_07_030");
 MsgDisp("Mikage","I see By the way, it feels like I'm also
 included in that group of friends, right??");
-MsgDisp("主人公","When ｛御影＊＊｝ joins us, everyone
+MsgDisp("主人公","When ｛Mikage＊＊｝ joins us, everyone
 looks like they're having fun.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -53,7 +53,7 @@ MsgDisp("Mikage","I'm also worried about my bonus
 evaluation...");
 MsgDisp("主人公","(I see...teachers also have something like
 report cards.
-Good luck, ｛御影＊＊｝...!)");
+Good luck, ｛Mikage＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

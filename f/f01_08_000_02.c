@@ -5,7 +5,7 @@ switch (MsgSelRsltGet()){
         case 0:
         case 1:
         case 2:
-        MsgDisp("主人公","｛大地＊＊｝!");
+        MsgDisp("主人公","｛Daichi＊＊｝!");
         MsgClose();
         BGMPlay("BGM_C08_DAICHI_A",0.01);
         ChLayout(1);
@@ -19,7 +19,7 @@ I really met ya.");
 And...how about we walk home together?");
         break ;
         case 3:
-        MsgDisp("主人公","｛大地＊＊｝!");
+        MsgDisp("主人公","｛Daichi＊＊｝!");
         MsgClose();
         BGMPlay("BGM_C08_DAICHI_A",0.01);
         ChLayout(1);
@@ -35,7 +35,7 @@ Then, let's go home together.");
         break ;
         case 4:
         case 5:
-        MsgDisp("主人公","｛大地＊＊｝!");
+        MsgDisp("主人公","｛Daichi＊＊｝!");
         MsgClose();
         BGMPlay("BGM_C08_DAICHI_A",0.01);
         ChLayout(1);
@@ -46,7 +46,7 @@ Then, let's go home together.");
         VoiceEVSPlay(8);
         VoicePlay("F010800002_08_020");
         MsgDisp("Shirahane","｛主人公｝.");
-        MsgDisp("主人公","｛大地＊＊｝, I found you.
+        MsgDisp("主人公","｛Daichi＊＊｝, I found you.
 Should we walk home together?");
         break ;
         default :
@@ -55,7 +55,7 @@ Should we walk home together?");
         }
     break ;
     case 1:
-    MsgDisp("主人公","｛大地＊＊｝!");
+    MsgDisp("主人公","｛Daichi＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,0,0,0,#1,#1,0,0);

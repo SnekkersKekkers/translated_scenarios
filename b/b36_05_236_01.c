@@ -36,7 +36,7 @@ VoicePlay("B360523601_05_040");
 MsgDisp("Hiiragi","I feel bad for those two, but I'll have it
 to myself for now.
 Shall we sit side by side?");
-MsgDisp("主人公","(｛柊＊＊＊｝, you must have thought about
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you must have thought about
 it a lot before inviting me...
 Thank you.)");
 BGMStop();

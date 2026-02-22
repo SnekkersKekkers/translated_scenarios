@@ -9,7 +9,7 @@ VoicePlay("B040215202_02_000");
 MsgDisp("Sassa","Huh?
 What's wrong?
 Are you not feeling well?");
-MsgSel("It's because ｛颯砂＊＊｝ is watching...","I'm the same as always!","I'll get serious from the next one!");
+MsgSel("It's because ｛Sassa＊＊｝ is watching...","I'm the same as always!","I'll get serious from the next one!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -85,7 +85,7 @@ off to the side.");
         SEPlay("EV_SE_061",0.5);
         SEWait();
         MsgDisp("主人公","Yay!
-It went in, ｛颯砂＊＊｝!");
+It went in, ｛Sassa＊＊｝!");
         MsgClose();
         SEPlay("EV_SE_544",0,0.5);
         ChOpen(2,253,0,0,0,#1,#1,0,0);
@@ -96,7 +96,7 @@ It went in, ｛颯砂＊＊｝!");
         MsgDisp("Sassa","Yeah, yeah it was perfect.
 Alright, keep it up for the next one!");
         MsgDisp("主人公","(Hehe.
-｛颯砂＊＊｝ taught me well)");
+｛Sassa＊＊｝ taught me well)");
         break ;
         default :
         DbgAssert(1);

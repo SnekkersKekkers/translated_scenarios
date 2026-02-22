@@ -15,7 +15,7 @@ I like it but...)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730600001_06_000");
     MsgDisp("Himuro","It's amazing huh, that dress.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Did you come to watch?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -66,7 +66,7 @@ I like it but...)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730600001_06_050");
     MsgDisp("Himuro","Eh...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Did you come to watch?");
     ChEye(6,0);
     ChMouth(6,0);

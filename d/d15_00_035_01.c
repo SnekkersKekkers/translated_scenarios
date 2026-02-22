@@ -40,7 +40,7 @@ VoicePlay ( "D150003501_05_020" ) ;
 MsgDisp ( "Hiiragi","Okay.
 Let's imagine it together then.
 Yes, you too." ) ;
-MsgDisp ( "主人公","(Hehe, I can picture ｛柊＊＊＊｝'s stomach
+MsgDisp ( "主人公","(Hehe, I can picture ｛Hiiragi＊＊＊｝'s stomach
 bug too.
 So cute.)" ) ;
 BGMStop (  ) ;

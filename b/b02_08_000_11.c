@@ -14,5 +14,5 @@ VoicePlay("B020800011_08_010");
 MsgDisp("Shirahane","Yeah.
 When I saw ya wearin' it, I was seriously
 happy all over again.");
-MsgDisp("主人公","(｛大地＊＊｝ seems really pleased!
+MsgDisp("主人公","(｛Daichi＊＊｝ seems really pleased!
 I'm glad I wore this♪)");

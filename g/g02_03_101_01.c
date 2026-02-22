@@ -43,7 +43,7 @@ ChMotion(3,4);
 VoicePlay("G020310101_03_060");
 MsgDisp("Honda","But, I'm the most surprised that those
 words came out without hesitation.");
-MsgDisp("主人公","｛本多＊＊｝...?");
+MsgDisp("主人公","｛Honda＊＊｝...?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
@@ -53,7 +53,7 @@ fireflies! Let's go to see them!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(3);
-MsgDisp("主人公","(Just now, ｛本多＊＊｝'s face was very
+MsgDisp("主人公","(Just now, ｛Honda＊＊｝'s face was very
 serious huh...)");
 BGMStop();
 MsgClose();

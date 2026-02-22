@@ -8,7 +8,7 @@ VoiceEVSPlay(8);
 VoicePlay("D020800600_08_000");
 MsgDisp("Shirahane","｛主人公｝.");
 MsgDisp("主人公","Hmm?
-What is it, ｛大地＊＊｝?");
+What is it, ｛Daichi＊＊｝?");
 VoicePlay("D020800600_08_030");
 ChEye(8,3);
 ChMouth(8,3);
@@ -46,7 +46,7 @@ VoicePlay("D020800600_08_070");
 ChMotion(8,3,1);
 MsgDisp("Shirahane","Thank God～!
 I'll call ya when it's time.");
-MsgDisp("主人公","(｛大地＊＊｝ is so bold.
+MsgDisp("主人公","(｛Daichi＊＊｝ is so bold.
 I guess I should wait for his date
 invitation?)");
 BGMStop();

@@ -11,7 +11,7 @@ VoiceEVSPlay(3);
 VoicePlay("E010320100_03_000");
 MsgDisp("Honda","｛主人公｝, you went to the flea market
 too?");
-MsgDisp("主人公","Ah, ｛本多＊＊｝ too?");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝ too?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -30,7 +30,7 @@ VoicePlay("E010320100_04_000");
 MsgDisp("Nanatsumori","...Hold up.
 The way Dahon says it makes it sound like
 we came here together.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -38,7 +38,7 @@ VoicePlay("E010320100_04_010");
 MsgDisp("Nanatsumori","Yo.
 Are you also shopping at the flea market?");
 MsgDisp("主人公","Yeah, I'm shopping.
-｛七ツ森＊｝ did you decide on any
+｛Nanatsumori＊｝ did you decide on any
 accessories yet?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -53,7 +53,7 @@ ChMotion(4,1,1);
 VoicePlay("E010320100_04_020");
 MsgDisp("Nanatsumori","You can't just call people indecisive.");
 MsgDisp("主人公","I'm curious to see what accessories
-｛七ツ森＊｝ is interested in...");
+｛Nanatsumori＊｝ is interested in...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -109,8 +109,8 @@ BGMStop();
 ChClose(3);
 VoicePlay("E010320100_03_070");
 MsgDisp("Honda","Mi-kun, wait up!");
-MsgDisp("主人公","(Hehe, looks like ｛本多＊＊｝ and
-｛七ツ森＊｝ are enjoying the flea
+MsgDisp("主人公","(Hehe, looks like ｛Honda＊＊｝ and
+｛Nanatsumori＊｝ are enjoying the flea
 market!)");
 MsgClose();
 ScrFadeOut(0,0);

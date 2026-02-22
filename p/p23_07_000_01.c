@@ -16,7 +16,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("P230700001_07_000");
     MsgDisp("Mikage","｛主人公｝.
 How is the Leifeng Pagoda set?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 It's a bit slanted, but we somehow made it
 in time.");
     ChEye(7,0);

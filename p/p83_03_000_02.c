@@ -19,7 +19,7 @@ Be careful not to lose your belongings.");
     VoiceEVSPlay(3);
     VoicePlay("P830300002_03_000");
     MsgDisp("Honda","｛主人公｝, good work.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Are you enjoying the cultural festival?");
     ChEye(3,2);
     ChMouth(3,4);
@@ -51,7 +51,7 @@ I'll see you then.");
 together?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","(｛本多＊＊｝, thank you.
+    MsgDisp("主人公","(｛Honda＊＊｝, thank you.
 But, I don't know if you'll find your meal
 ticket...)");
     break ;
@@ -68,7 +68,7 @@ Be careful not to lose your belongings.");
     VoiceEVSPlay(3);
     VoicePlay("P830300002_03_050");
     MsgDisp("Honda","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Yeah, is something the matter?");
     ChEye(3,4);
     ChMouth(3,4);
@@ -76,7 +76,7 @@ Yeah, is something the matter?");
     VoicePlay("P830300002_03_060");
     MsgDisp("Honda","A takoyaki meal ticket isn't really lost
 property...");
-    MsgDisp("主人公","Eh, did ｛本多＊＊｝ lose it?");
+    MsgDisp("主人公","Eh, did ｛Honda＊＊｝ lose it?");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,2,1);
@@ -113,7 +113,7 @@ cultural festival properly.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","(｛本多＊＊｝, thank you.
+    MsgDisp("主人公","(｛Honda＊＊｝, thank you.
 But, I don't know if you'll find your meal
 ticket...)");
     break ;

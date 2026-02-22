@@ -15,7 +15,7 @@ VoicePlay("G020730000_07_010");
 MsgDisp("Mikage","The one hovering motionlessly there is
 Inori, and the one going back and forth is
 Yanosuke.");
-MsgDisp("主人公","Fireflies of ｛柊＊＊＊｝ and ｛氷室＊＊｝?");
+MsgDisp("主人公","Fireflies of ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -38,8 +38,8 @@ MsgDisp("Mikage","Yeah, I can imagine them saying things
 like 'It's fine, but I'm sorry I misjudged
 you.'");
 MsgDisp("主人公","Hehe, that's like them.
-That's ｛氷室＊＊｝, right?
-Then what about ｛柊＊＊＊｝?");
+That's ｛Himuro＊＊｝, right?
+Then what about ｛Hiiragi＊＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -47,7 +47,7 @@ VoicePlay("G020730000_07_050");
 MsgDisp("Mikage","He would say, 'There's a reason for
 everything.
 Shall I hear it? ' whilst approaching.");
-MsgDisp("主人公","Hehe, ｛御影＊＊｝ is always thinking
+MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ is always thinking
 of those twp");
 ChEye(7,0);
 ChMouth(7,3);
@@ -57,7 +57,7 @@ MsgDisp("Mikage","Well, I guess so.
 But I also think it's okay sometimes,
 right?");
 MsgDisp("主人公","(Going out with everyone is fun, but going
-out alone with ｛御影＊＊｝ is fun
+out alone with ｛Mikage＊＊｝ is fun
 too.)");
 BGMStop();
 MsgClose();

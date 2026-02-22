@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time to go home, I guess.)");
-MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over there. Might
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there. Might
 as well chat a bit before I head home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -55,7 +55,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100901_01_050");
 MsgDisp("Kazama","Did you hear that?");
-MsgDisp("主人公","Y-Yeah, the kid version of ｛風真＊＊｝?");
+MsgDisp("主人公","Y-Yeah, the kid version of ｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -68,6 +68,6 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("主人公","(How mysterious...
-It really did sound like ｛風真＊＊｝'s
+It really did sound like ｛Kazama＊＊｝'s
 voice from a long time ago.)");
 MsgClose();

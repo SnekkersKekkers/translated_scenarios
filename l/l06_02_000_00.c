@@ -8,7 +8,7 @@ VoiceEVSPlay(2);
 VoicePlay("L060200000_02_000");
 MsgDisp("Sassa","｛主人公｝.
 Good timing!");
-MsgDisp("主人公","｛颯砂＊＊｝?");
+MsgDisp("主人公","｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

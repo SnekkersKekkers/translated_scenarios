@@ -91,7 +91,7 @@ Hey, do your best.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(1);
         MsgDisp("主人公","Hehe.
-Maybe I can beat ｛風真＊＊｝?");
+Maybe I can beat ｛Kazama＊＊｝?");
         SEPlay("EV_SE_086");
         Wait(15,1);
         SEPlay("EV_SE_869");

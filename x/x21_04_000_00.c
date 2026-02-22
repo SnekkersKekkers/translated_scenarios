@@ -6,7 +6,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0);
 VoicePlay("X210400000_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -42,7 +42,7 @@ ChMotion(4,1,1);
 VoicePlay("X210400000_04_060");
 MsgDisp("Nanatsumori","As expected of Haba Academy's \"Queen\" huh?");
 MsgDisp("主人公","Eh?
-Heeey, ｛七ツ森＊｝!");
+Heeey, ｛Nanatsumori＊｝!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

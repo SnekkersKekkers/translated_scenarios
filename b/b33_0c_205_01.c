@@ -59,7 +59,7 @@ ChMotion(6,0);
 VoicePlay("B330C20501_06_010");
 MsgDisp("Himuro","I wonder if he let us win...what do you
 think?");
-MsgDisp("主人公","I think ｛御影＊＊｝ was serious...");
+MsgDisp("主人公","I think ｛Mikage＊＊｝ was serious...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -132,9 +132,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20501_05_040");
 MsgDisp("Hiiragi","Sounds good.");
-MsgDisp("主人公","(I can understand why ｛御影＊＊｝ is
+MsgDisp("主人公","(I can understand why ｛Mikage＊＊｝ is
 popular with the male students too...Both
-｛柊＊＊＊｝ and ｛氷室＊＊｝ look like
+｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ look like
 they're having fun...)");
 BGMStop();
 MsgClose();

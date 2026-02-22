@@ -5,7 +5,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛氷室＊＊｝, how are you spending your
+MsgDisp("主人公","｛Himuro＊＊｝, how are you spending your
 winter break?");
 ChEye(6,0);
 ChMouth(6,0);

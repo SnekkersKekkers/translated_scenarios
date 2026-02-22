@@ -73,7 +73,7 @@ MsgDisp("Himuro","I've never taken Kojiro-sensei's class.");
 ChEye(5,4);
 ChMouth(5,4);
 MsgDisp("主人公","Yeah, this feels like we're in the same
-class as ｛氷室＊＊｝ now.");
+class as ｛Himuro＊＊｝ now.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -112,9 +112,9 @@ ChCheek(6,10);
 VoicePlay("B330C10201_06_040");
 MsgDisp("Himuro","...Thank you very much.
 I'm kind of happy.");
-MsgDisp("主人公","(｛氷室＊＊｝ wanted to take classes
+MsgDisp("主人公","(｛Himuro＊＊｝ wanted to take classes
 together...
-｛柊＊＊＊｝ is kind isn't he?)");
+｛Hiiragi＊＊＊｝ is kind isn't he?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

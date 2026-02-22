@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("N020100003_01_000");
     MsgDisp("Kazama","I was worried you'd get to this point.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, what's wrong?");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, what's wrong?");
     ChEyeOpenLevel(1,0);
     Wait(10,0);
     ChEye(1,2);
@@ -40,7 +40,7 @@ I've got to study harder...)");
     VoicePlay("N020100003_01_030");
     MsgDisp("Kazama","｛主人公｝.
 Aren't you quite a scatterbrain?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Umm...
 What do you mean?");
     ChEye(1,0);
@@ -76,7 +76,7 @@ I've got to study harder!)");
     ChOpen(1,254,0,0,2,#1,#1,0,0);
     VoicePlay("N020100003_01_070");
     MsgDisp("Kazama","Hey.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -102,7 +102,7 @@ seriously, right?");
 I'll accompany you today.
 So tell me, where did you go wrong?");
     MsgDisp("主人公","(Oof...
-Thank you, ｛風真＊＊｝.
+Thank you, ｛Kazama＊＊｝.
 I've really got to study harder...)");
     break ;
     default :

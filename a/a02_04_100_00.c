@@ -178,7 +178,7 @@ VoicePlay("A020410000_04_210");
 MsgDisp("Nanatsumori","Shhh!!
 Not here∋");
 MsgDisp("主人公","Sorry!! I just...See you later then,
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

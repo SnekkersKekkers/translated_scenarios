@@ -15,7 +15,7 @@ VoicePlay("T020400000_04_250");
 MsgDisp("Nanatsumori","A kiss...
 So does that mean ...it's OK?");
 MsgDisp("主人公","Yes.
-I also like ｛七ツ森＊｝.");
+I also like ｛Nanatsumori＊｝.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
@@ -46,7 +46,7 @@ VoicePlay("T020400000_04_290");
 MsgDisp("Nanatsumori","｛主人公｝.
 I...promise to love you, for my whole
 life.");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 VoicePlay("T020400000_04_300");
 MsgDisp("Nanatsumori","I love you...");
 MsgClear();

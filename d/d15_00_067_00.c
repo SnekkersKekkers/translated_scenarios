@@ -7,7 +7,7 @@ ChMotion ( 6,2 ) ;
 ChEyeOpenLevel ( 6,0 ) ;
 VoicePlay ( "D150006700_06_000" ) ;
 MsgDisp ( "Himuro","Sigh." ) ;
-MsgDisp ( "主人公","｛氷室＊＊｝, what's the matter?" ) ;
+MsgDisp ( "主人公","｛Himuro＊＊｝, what's the matter?" ) ;
 ChEye ( 6,1 ) ;
 ChMouth ( 6,1 ) ;
 ChMotion ( 6,1 ) ;
@@ -47,7 +47,7 @@ ChMouth ( 6,1 ) ;
 ChMotion ( 6,1 ) ;
 VoicePlay ( "D150006700_06_040" ) ;
 MsgDisp ( "Himuro","I refuse." ) ;
-MsgDisp ( "主人公","(｛氷室＊＊｝ is very certain about what he
+MsgDisp ( "主人公","(｛Himuro＊＊｝ is very certain about what he
 likes and dislikes...)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

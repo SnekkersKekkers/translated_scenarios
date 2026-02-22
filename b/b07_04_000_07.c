@@ -1,4 +1,4 @@
-MsgDisp("主人公","What's ｛七ツ森＊｝'s dream for the
+MsgDisp("主人公","What's ｛Nanatsumori＊｝'s dream for the
 future?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -25,7 +25,7 @@ VoicePlay("B070400000_04_440");
 MsgDisp("Nanatsumori","But if you walk only looking at the sky
 that is your dream, you won't discover the
 little flowers blooming by the roadside.");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,0);
 ChMouth(4,0);
 ChEyeOpenLevel(4,0);

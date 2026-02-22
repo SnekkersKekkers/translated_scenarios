@@ -6,7 +6,7 @@ MsgDisp("Nanatsumori","Hm, me?
 Instead of me- Well, whatever.
 It looks obligatory, anyways.");
 MsgDisp("主人公","(?
-Instead of ｛七ツ森＊｝...
+Instead of ｛Nanatsumori＊｝...
 I wonder what he was going to say?)");
 MsgClose();
 BGMStop();

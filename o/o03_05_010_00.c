@@ -27,7 +27,7 @@ Have you not joined a team as of yet?");
     MsgDisp("Hiiragi","Ah, I've finally found you.
 Have you found a partner yet?");
     MsgDisp("主人公","No, not yet.
-And you, ｛柊＊＊＊｝?");
+And you, ｛Hiiragi＊＊＊｝?");
     ChEye(5,4);
     VoicePlay("O030501000_05_030");
     MsgDisp("Hiiragi","Not yet.
@@ -44,7 +44,7 @@ Would you like to join me?");
     ChEyeOpenLevel(5,9);
     VoicePlay("O030501000_05_040");
     MsgDisp("Hiiragi","Haa, did I make it?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 What is it?");
     ChEye(5,0);
     ChMouth(5,4);

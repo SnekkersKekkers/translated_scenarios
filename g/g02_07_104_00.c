@@ -13,7 +13,7 @@ VoicePlay("G020710400_07_010");
 MsgDisp("Mikage","I see, maybe I should try reading them
 too...");
 MsgDisp("主人公","Eh?
-｛御影＊＊｝, are you interested?");
+｛Mikage＊＊｝, are you interested?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -35,7 +35,7 @@ ChMotion(7,4);
 VoicePlay("G020710400_07_040");
 MsgDisp("Mikage","They mentioned something about my
 hairstyle and curls.");
-MsgDisp("主人公","｛御影＊＊｝'s curls...
+MsgDisp("主人公","｛Mikage＊＊｝'s curls...
 Hehe, maybe——");
 ChEye(7,0);
 ChMouth(7,0);
@@ -51,7 +51,7 @@ VoicePlay("G020710400_07_060");
 MsgDisp("Mikage","What?
 So that's why they were laughing too.");
 MsgDisp("主人公","(A shoujo manga character that resembles
-｛御影＊＊｝...
+｛Mikage＊＊｝...
 Maybe a glamorous young lady?)");
 BGMStop();
 MsgClose();

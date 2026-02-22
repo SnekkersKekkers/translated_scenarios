@@ -24,7 +24,7 @@ VoicePlay("Q100C00000_05_010");
 MsgDisp("Hiiragi","I am only on the starting point.
 It'd be wonderful if I could make a
 entertainment even for future people.");
-MsgDisp("主人公","I'm sure you can do this, ｛柊＊＊＊｝!");
+MsgDisp("主人公","I'm sure you can do this, ｛Hiiragi＊＊＊｝!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -114,6 +114,6 @@ SEPlay("EV_SE_856");
 ChClose(5,0,30);
 ChClose(7,0,30);
 MsgDisp("主人公","(Alright, I guess I'll start by buying a
-souvenir for ｛氷室＊＊｝?)");
+souvenir for ｛Himuro＊＊｝?)");
 MsgClose();
 ScrFadeOut(0,0);

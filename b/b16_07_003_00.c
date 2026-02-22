@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160700300_07_000");
 MsgDisp("Mikage","Ohh∋ what is it∋");
-MsgSel("There's trash on you.","I wanted to be closer to ｛御影＊＊｝...");
+MsgSel("There's trash on you.","I wanted to be closer to ｛Mikage＊＊｝...");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(7,2);

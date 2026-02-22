@@ -10,7 +10,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoicePlay("P540200005_02_000");
 MsgDisp("Sassa","Good job on your performance.");
-MsgDisp("主人公","｛颯砂＊＊｝...
+MsgDisp("主人公","｛Sassa＊＊｝...
 It seems like I didn't practice enough...");
 ChEye(2,0);
 ChMouth(2,0);
@@ -39,7 +39,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("P540200005_02_040");
 MsgDisp("Sassa","And that's why, I thank you.");
-MsgDisp("主人公","(｛颯砂＊＊｝...
+MsgDisp("主人公","(｛Sassa＊＊｝...
 But I would have been more satisfied with
 myself if I had practiced more.)");
 MsgClose();

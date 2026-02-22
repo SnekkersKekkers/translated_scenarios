@@ -27,7 +27,7 @@ VoicePlay("T040300000_03_020");
 MsgDisp("Honda","A big tree pops out.
 When I was younger I thought it was like
 my own house.");
-MsgDisp("主人公","｛本多＊＊｝ is also from a family of four
+MsgDisp("主人公","｛Honda＊＊｝ is also from a family of four
 isn't he?");
 NSSEye(3,0);
 NSSMouth(3,0);

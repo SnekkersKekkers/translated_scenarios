@@ -73,7 +73,7 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("G020310302_03_110");
 MsgDisp("Honda","Yeah, I'm getting excited!");
-MsgDisp("主人公","(Sharing the same hairstyle as ｛本多＊＊｝...
+MsgDisp("主人公","(Sharing the same hairstyle as ｛Honda＊＊｝...
 I want to see it...but I also want to stop
 him...)");
 BGMStop();

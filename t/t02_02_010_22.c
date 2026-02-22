@@ -8,7 +8,7 @@ ChCheek(2,10);
 VoicePlay("T020201022_02_000");
 MsgDisp("Sassa","Hey!
 What's wrong?");
-MsgDisp("主人公","That means I love ｛颯砂＊＊｝ too?");
+MsgDisp("主人公","That means I love ｛Sassa＊＊｝ too?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -24,7 +24,7 @@ VoicePlay("T020201022_02_020");
 MsgDisp("Sassa","Ah, don't apologize.
 I'm the one who's usually sorry.
 So, thank you.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -34,7 +34,7 @@ MsgDisp("Sassa","Now I can pursue my dreams with the person
 I love.
 I couldn't be happier.");
 MsgDisp("主人公","Yes!
-I also love ｛颯砂＊＊｝!");
+I also love ｛Sassa＊＊｝!");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);

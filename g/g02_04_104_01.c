@@ -47,7 +47,7 @@ MsgDisp("Nanatsumori","My dad and sister are always late coming
 home from work, so on those days, I spend
 a little time with my mom and we have a
 small party.");
-MsgDisp("主人公","Hehe ｛七ツ森＊｝, you're quite gentle.");
+MsgDisp("主人公","Hehe ｛Nanatsumori＊｝, you're quite gentle.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -59,7 +59,7 @@ VoicePlay("G020410401_04_080");
 MsgDisp("Nanatsumori","...Wait, why did we start talking about
 this?");
 MsgDisp("主人公","(I feel like I learned a bit more about
-｛七ツ森＊｝'s family.)");
+｛Nanatsumori＊｝'s family.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

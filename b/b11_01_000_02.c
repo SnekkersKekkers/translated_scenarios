@@ -2,11 +2,11 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh..
-Looks like ｛風真＊＊｝ isn't here yet...");
+Looks like ｛Kazama＊＊｝ isn't here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛風真＊＊｝ sure is late...");
+MsgDisp("主人公","｛Kazama＊＊｝ sure is late...");
 VoicePlay("B110100002_35_000");
 MsgDisp("Guy?","Hmm, I can't do this without getting at
 least one. I finally found my cash cow...

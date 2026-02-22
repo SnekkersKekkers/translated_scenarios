@@ -5,7 +5,7 @@ ChEyeOpenLevel(5,0);
 ScrFadeIn(0);
 VoicePlay("P640500003_05_000");
 MsgDisp("Hiiragi","Hmm, I'm sure it tastes good...");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Thank you for your purchase.");
 ChEye(5,2);
 ChMouth(5,4);

@@ -10,7 +10,7 @@ MsgDisp("Honda?","Here, look.
 Isn't that nice?
 The two of them are like a pair.");
 MsgDisp("主人公","Huh, those voices...
-｛本多＊＊｝ and ｛風真＊＊｝?");
+｛Honda＊＊｝ and ｛Kazama＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,35,0,0,2,#1,#1,0,1,0,30);
@@ -77,7 +77,7 @@ MsgDisp("Kazama","Because of that, Honda-kun went all the
 way back just to get the apron from his
 part-time job.");
 MsgDisp("主人公","Hehe.
-｛本多＊＊｝, that's interesting.");
+｛Honda＊＊｝, that's interesting.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -99,7 +99,7 @@ ChMouth(1,1);
 VoicePlay("E010320000_01_070");
 MsgDisp("Kazama","I already told you, I don't want to do
 that.");
-MsgDisp("主人公","Thanks, ｛本多＊＊｝.
+MsgDisp("主人公","Thanks, ｛Honda＊＊｝.
 I already got to see the aprons, so I
 guess it's fine to not take photos?");
 ChEye(1,2);
@@ -143,7 +143,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
 MsgDisp("主人公","Okay!");
-MsgDisp("主人公","(｛本多＊＊｝ went into the store again
+MsgDisp("主人公","(｛Honda＊＊｝ went into the store again
 dressed like that...)");
 MsgClose();
 ScrFadeOut(0,0);

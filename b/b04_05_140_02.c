@@ -8,7 +8,7 @@ VoicePlay("B040514002_05_000");
 MsgDisp("Hiiragi","I can't believe I got to hear Japanese
 instruments here...
 I was pleasantly surprised.");
-MsgSel("｛柊＊＊＊｝, you're excited huh!","The guy playing the shamisen was so cool!","It seems like they could do a collab with Habataki Theater Company.");
+MsgSel("｛Hiiragi＊＊＊｝, you're excited huh!","The guy playing the shamisen was so cool!","It seems like they could do a collab with Habataki Theater Company.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -55,7 +55,7 @@ I won't lose to him.");
         ChMotion(5,4);
         VoicePlay("B040514002_05_050");
         MsgDisp("Hiiragi","Just now you said that guy was cool.");
-        MsgDisp("主人公","｛柊＊＊＊｝, what's wrong?");
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝, what's wrong?");
         ChEye(5,4);
         ChMotion(5,1);
         VoicePlay("B040514002_05_060");
@@ -76,7 +76,7 @@ them.");
         MsgDisp("Hiiragi","Haa.
 I feel better now, so that's the end of
 it.");
-        MsgDisp("主人公","(Ehh, ｛柊＊＊＊｝ was jealous?
+        MsgDisp("主人公","(Ehh, ｛Hiiragi＊＊＊｝ was jealous?
 I feel like I heard something really
 significant...)");
         break ;

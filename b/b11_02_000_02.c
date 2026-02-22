@@ -1,11 +1,11 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Seems like ｛颯砂＊＊｝ still isn't here...");
+MsgDisp("主人公","Seems like ｛Sassa＊＊｝ still isn't here...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(｛颯砂＊＊｝ you're late...did something
+MsgDisp("主人公","(｛Sassa＊＊｝ you're late...did something
 happen?)");
 SEPlay("EV_SE_524");
 SEWait();
@@ -82,7 +82,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 ChPosition(2,0);
-MsgDisp("主人公","｛颯砂＊＊｝, are you alright?");
+MsgDisp("主人公","｛Sassa＊＊｝, are you alright?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

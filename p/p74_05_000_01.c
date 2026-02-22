@@ -9,7 +9,7 @@ SEWait();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("P740500001_05_000");
 MsgDisp("Hiiragi","Thank you for your hard work.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChMotion(5,4);
 VoicePlay("P740500001_05_010");
 MsgDisp("Hiiragi","Your clothes were wonderful, maybe you

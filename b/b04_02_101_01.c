@@ -29,7 +29,7 @@ I completely don't get it though.");
     ChMotion(2,0);
     VoicePlay("B040210101_02_020");
     MsgDisp("Sassa","You say it's completely different, but to
-my eyes it just looks like normal potter
+my eyes it just looks like normal pottery
 though.");
     MsgDateResultDisp();
     break ;

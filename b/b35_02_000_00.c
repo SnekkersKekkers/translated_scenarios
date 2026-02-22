@@ -4,7 +4,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("B350200000_02_000");
 MsgDisp("Sassa?","｛主人公｝.");
-MsgDisp("主人公","｛颯砂＊＊｝?
+MsgDisp("主人公","｛Sassa＊＊｝?
 What's up?");
 MsgClose();
 ChOpen(2,255,4,0,0,#1,#1,0,0);
@@ -68,7 +68,7 @@ I'll give up.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ looked disappointed.
+    MsgDisp("主人公","(｛Sassa＊＊｝ looked disappointed.
 I made him feel bad...)");
     MsgClose();
     ScrFadeOut(0);

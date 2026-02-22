@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H1A0600001_06_000");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -36,7 +36,7 @@ So...head up.");
     ScrFadeIn(0);
     VoicePlay("H1A0600001_06_030");
     MsgDisp("Himuro","...What, you're not crying?");
-    MsgDisp("主人公","｛氷室＊＊｝...");
+    MsgDisp("主人公","｛Himuro＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -52,7 +52,7 @@ ashamed to lose.");
 You enjoyed your youth.
 Isn't that enough?");
     MsgDisp("主人公","Yeah.
-Thank you, ｛氷室＊＊｝...");
+Thank you, ｛Himuro＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

@@ -4,7 +4,7 @@ ScrFadeIn(0);
 VoicePlay("P840300000_03_000");
 MsgDisp("Honda","I get the feeling that you're totally a
 jack-of-all-trades.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Are you enjoying the cultural festival?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -26,7 +26,7 @@ VoicePlay("P840300000_03_030");
 MsgDisp("Honda","Now it's time for my personal thanks.
 Let's go and drink the Gardening Club's
 tea. It'll be my treat.");
-MsgDisp("主人公","(Hehe, I was praised by ｛本多＊＊｝!)");
+MsgDisp("主人公","(Hehe, I was praised by ｛Honda＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

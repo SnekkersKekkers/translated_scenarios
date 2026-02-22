@@ -55,7 +55,7 @@ couple\", yes?");
         ChMotion(5,0);
         VoicePlay("B040517002_05_050");
         MsgDisp("Hiiragi","Yes, I have no objections.");
-        MsgDisp("主人公","Umm ｛柊＊＊＊｝, it's a \"Lovey Dovey Menu
+        MsgDisp("主人公","Umm ｛Hiiragi＊＊＊｝, it's a \"Lovey Dovey Menu
 for Couples Only\"?");
         ChEye(5,3);
         ChMouth(5,0);
@@ -69,7 +69,7 @@ for Couples Only\"?");
         VoicePlay("B040517002_05_070");
         MsgDisp("Hiiragi","Even if it's only for lovey-dovey couples,
 I don't mind at all.");
-        MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ has a surprisingly
+        MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ has a surprisingly
 stubborn side...)");
         break ;
         default :

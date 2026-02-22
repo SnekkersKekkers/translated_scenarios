@@ -24,7 +24,7 @@ Thanks for your support!");
     MsgDisp("Honda","I heard it!
 The track and field team, they said many
 new records were set.");
-    MsgDisp("主人公","｛本多＊＊｝.
+    MsgDisp("主人公","｛Honda＊＊｝.
 Yeah, I know!");
     ChEye(3,3);
     ChMouth(3,3);
@@ -34,7 +34,7 @@ Yeah, I know!");
     MsgDisp("Honda","When you are happy with me like that, I
 feel like I can do my best.
 Thanks for your support and hard work!");
-    MsgDisp("主人公","(I was praised by ｛本多＊＊｝!)");
+    MsgDisp("主人公","(I was praised by ｛Honda＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

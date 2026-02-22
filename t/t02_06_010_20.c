@@ -1,6 +1,6 @@
 ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
-MsgDisp("主人公","I also like ｛氷室＊＊｝.
+MsgDisp("主人公","I also like ｛Himuro＊＊｝.
 I have for a long time.");
 ChEye(6,3);
 ChMouth(6,0);

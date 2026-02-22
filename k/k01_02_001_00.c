@@ -5,7 +5,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛颯砂＊＊｝!");
+    MsgDisp("主人公","｛Sassa＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -22,10 +22,10 @@ switch (ChPrmGet(2,6)){
     VoicePlay("K010200100_02_010");
     MsgDisp("Sassa","You got one for me?
 I'm happy.");
-    MsgDisp("主人公","Yeah, I chose it for you, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Yeah, I chose it for you, ｛Sassa＊＊｝.");
     break ;
     case 3:
-    MsgDisp("主人公","｛颯砂＊＊｝!");
+    MsgDisp("主人公","｛Sassa＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -36,7 +36,7 @@ I'm happy.");
     MsgDisp("Sassa","｛主人公｝.
 What's up?");
     MsgDisp("主人公","It's your birthday.
-Here's your present, ｛颯砂＊＊｝!");
+Here's your present, ｛Sassa＊＊｝!");
     SEPlay("EV_SE_664");
     SEWait();
     ChEye(2,0);
@@ -49,7 +49,7 @@ I'm so happy, thank you!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

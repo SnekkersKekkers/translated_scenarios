@@ -5,7 +5,7 @@ MsgDisp("Honda","I see.
 I've never been good at reading the mood.");
 SEPlay("EV_SE_529");
 SEWait();
-MsgDisp("主人公","｛本多＊＊｝∋");
+MsgDisp("主人公","｛Honda＊＊｝∋");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,5);

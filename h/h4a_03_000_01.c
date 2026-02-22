@@ -7,7 +7,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝, sorry...");
+MsgDisp("主人公","｛Honda＊＊｝, sorry...");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -38,7 +38,7 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("H4A0300001_03_040");
 MsgDisp("Honda","Hey, isn't that enough of a result?");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -46,7 +46,7 @@ VoicePlay("H4A0300001_03_050");
 MsgDisp("Honda","I know just how hard you've worked these
 past three years. I was watching over you,
 you know? Really, good work.");
-MsgDisp("主人公","(｛本多＊＊｝ is so nice.
+MsgDisp("主人公","(｛Honda＊＊｝ is so nice.
 I lost, but I'm glad I stayed in the
 rhythmic gymnastics club.)");
 BGMStop();

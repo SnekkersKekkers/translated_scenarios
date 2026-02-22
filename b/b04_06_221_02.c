@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040622102_06_000");
 MsgDisp("Himuro","Did you discover anything new?");
-MsgSel("Hmmm, I don't think there was anything new...","｛氷室＊＊｝, you were always looking at the sea","I'll find something next time.");
+MsgSel("Hmmm, I don't think there was anything new...","｛Himuro＊＊｝, you were always looking at the sea","I'll find something next time.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -58,7 +58,7 @@ But that could definitely be true.");
         MsgDisp("Himuro","Next time, you say.
 So do you plan on coming here with me
 again?");
-        MsgDisp("主人公","Eh, are you not, ｛氷室＊＊｝?");
+        MsgDisp("主人公","Eh, are you not, ｛Himuro＊＊｝?");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,2);
@@ -96,7 +96,7 @@ isn't so bad after all.");
         ChCheek(6,0);
         VoicePlay("B040622102_06_090");
         MsgDisp("Himuro","That is my new discovery.");
-        MsgDisp("主人公","(｛氷室＊＊｝...)");
+        MsgDisp("主人公","(｛Himuro＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

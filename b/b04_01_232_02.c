@@ -55,7 +55,7 @@ Am I gonna be done in here by you?");
         MsgDisp("Kazama","That's for sure, if we got to the peak,
 the angle won't let us be seen from the
 carriage in front...");
-        MsgDisp("主人公","｛風真＊＊｝?");
+        MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,2);
@@ -92,7 +92,7 @@ That's not it.");
         MsgDisp("Kazama","No, my bad, my bad. But, I've made up my
 mind. Now that I've made up my mind, I'm
 gonna do it.");
-        MsgDisp("主人公","(｛風真＊＊｝, what are you gonna do?)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, what are you gonna do?)");
         break ;
         default :
         DbgAssert(1);

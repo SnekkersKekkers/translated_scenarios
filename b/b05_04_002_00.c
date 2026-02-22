@@ -15,7 +15,7 @@ MsgDisp("主人公","T-Turns out, it's quite high isn't it?");
 StlMouthOpenLevel(4,#1);
 VoicePlay("B050400200_04_010");
 MsgDisp("Nanatsumori","Haa...");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to be in a bad mood...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to be in a bad mood...)");
 VoicePlay("B050400200_48_000");
 MsgDisp("Staff","Excuse me, Sir.
 Please remove your glasses.");
@@ -36,20 +36,20 @@ VoicePlay("B050400200_48_010");
 MsgDisp("Staff","Thank you for your cooperation!
 Now, have a good dive!");
 MsgDisp("主人公","(Uugh...
-It's about time to jump ｛七ツ森＊｝
+It's about time to jump ｛Nanatsumori＊｝
 is...)");
 MsgDisp("主人公","Ah.");
 StlEyeOpenLevel(4,5,1);
 VoicePlay("B050400200_04_030");
 MsgDisp("Nanatsumori","What.");
 MsgDisp("主人公","This is the first time you've taken off
-your glasses with that hairstyle right?");
+your glasses with that hairstyle, right?");
 StlEyeOpenLevel(4,0,1);
 VoicePlay("B050400200_04_040");
 MsgDisp("Nanatsumori","That's right.
 I'll never take it off at school.");
 MsgDisp("主人公","Yeah.
-｛七ツ森＊｝ is super cool even now.");
+｛Nanatsumori＊｝ is super cool even now.");
 StlEye(4,1);
 VoicePlay("B050400200_04_050");
 MsgDisp("Nanatsumori","Thanks.

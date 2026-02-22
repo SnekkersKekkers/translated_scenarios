@@ -58,7 +58,7 @@ VoicePlay("P240101000_01_050");
 MsgDisp("Kazama","You may have wanted to play Cinderella,
 but I'm enjoying that the two of us are
 here fretting over a Pumpkin carriage.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 VoicePlay("P240101000_39_030");
 MsgDisp("Prince","To the beautiful lady over there, please
 share a dance with me.");
@@ -85,7 +85,7 @@ VoicePlay("P240101000_01_080");
 MsgDisp("Kazama","If it were me, there'd be no need for
 that.
 I would know it's you right away.");
-MsgDisp("主人公","(｛風真＊＊｝...)");
+MsgDisp("主人公","(｛Kazama＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

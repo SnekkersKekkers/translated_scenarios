@@ -8,7 +8,7 @@ ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010310000_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -61,7 +61,7 @@ MsgDisp("Honda","Is that so?
 Why?");
 MsgDisp("主人公","Because I won't be able to eat dinner
 then.
-Are you gonna be able to, ｛本多＊＊｝?");
+Are you gonna be able to, ｛Honda＊＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -78,6 +78,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
 MsgDisp("主人公","(Another stomach for ramen...
-Is ｛本多＊＊｝ a big eater?)");
+Is ｛Honda＊＊｝ a big eater?)");
 MsgClose();
 ScrFadeOut(0,0);

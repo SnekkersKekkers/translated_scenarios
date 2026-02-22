@@ -6,7 +6,7 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040208100_02_000");
 MsgDisp("Sassa","Yeah, it's magnificent.");
-MsgSel("｛颯砂＊＊｝, the flurry of falling cherry blossoms matches with you.","We can only see the cherry blossoms for such a fleeting amount of time...","I want to eat some tasty cherry blossom mochi.");
+MsgSel("｛Sassa＊＊｝, the flurry of falling cherry blossoms matches with you.","We can only see the cherry blossoms for such a fleeting amount of time...","I want to eat some tasty cherry blossom mochi.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

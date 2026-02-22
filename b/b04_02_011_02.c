@@ -78,7 +78,7 @@ I mean, unless you want me to show you...?");
         ChEyeOpenLevel(2,7);
         VoicePlay("B040201102_02_070");
         MsgDisp("Sassa","That's not right either...");
-        MsgDisp("主人公","(｛颯砂＊＊｝ seems troubled...)");
+        MsgDisp("主人公","(｛Sassa＊＊｝ seems troubled...)");
         break ;
         default :
         DbgAssert(1);

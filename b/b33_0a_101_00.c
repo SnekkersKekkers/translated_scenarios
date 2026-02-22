@@ -107,7 +107,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B330A10100_01_060");
 MsgDisp("Kazama","Shut up.");
 MsgDisp("主人公","(Hehe, everyone always ends up teasing
-｛風真＊＊｝...)");
+｛Kazama＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

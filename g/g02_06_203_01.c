@@ -61,7 +61,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620301_06_080");
 MsgDisp("Himuro","But it's better than nothing I guess...");
-MsgDisp("主人公","(｛氷室＊＊｝ facing love...
+MsgDisp("主人公","(｛Himuro＊＊｝ facing love...
 Did I hear something quite incredible?)");
 BGMStop();
 MsgClose();

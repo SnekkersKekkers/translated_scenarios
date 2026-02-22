@@ -5,7 +5,7 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 MsgDisp("主人公","I feel the same way.
-I'd love to join ｛颯砂＊＊｝ in achieving
+I'd love to join ｛Sassa＊＊｝ in achieving
 his dream.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -14,7 +14,7 @@ ChCheek(2,10);
 VoicePlay("T020201020_02_000");
 MsgDisp("Sassa","...Seriously, together with me?...?");
 MsgDisp("主人公","Yes.
-I'm sorry I didn't notice when ｛颯砂＊＊｝
+I'm sorry I didn't notice when ｛Sassa＊＊｝
 was suffering.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -23,7 +23,7 @@ VoicePlay("T020201020_02_010");
 MsgDisp("Sassa","Oh, don't apologize.
 I'm the one who's usually sorry.
 So, thank you.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -33,7 +33,7 @@ MsgDisp("Sassa","Now I can pursue my dreams with the person
 I love.
 I couldn't be happier.");
 MsgDisp("主人公","Me too.
-With my beloved ｛颯砂＊＊｝...");
+With my beloved ｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);

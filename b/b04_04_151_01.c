@@ -8,7 +8,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040415101_04_000");
 MsgDisp("Nanatsumori","...It's surprisingly tiring.");
-MsgSel("This'll be good exercise.","Shall we take a little break?","I want to see ｛七ツ森＊｝'s good points♪");
+MsgSel("This'll be good exercise.","Shall we take a little break?","I want to see ｛Nanatsumori＊｝'s good points♪");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

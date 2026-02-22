@@ -18,7 +18,7 @@ SEWait();
 BGMPlay("BGM_C04_NANA_A",0.01);
 ChNanaType(1);
 ChOpen(4,35,0,2,1,#1,#1,0,0,0,60);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 Are you on your way to work?");
 ChMotion(4,1,1);
 VoicePlay("E010410100_04_010");
@@ -35,7 +35,7 @@ VoicePlay("E010410100_04_020");
 MsgDisp("Nanatsumori","There it is!
 Yes, that's the one!");
 MsgDisp("主人公","So that bracelet was yours,
-｛七ツ森＊｝.
+｛Nanatsumori＊｝.
 What a coincidence.");
 ChEye(4,4);
 ChMouth(4,4);
@@ -53,7 +53,7 @@ ChEyeOpenLevel(4,8);
 VoicePlay("E010410100_04_040");
 MsgDisp("Nanatsumori","Yeah...");
 MsgDisp("主人公","That bracelet is really cool.
-It suits ｛七ツ森＊｝ a lot.");
+It suits ｛Nanatsumori＊｝ a lot.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

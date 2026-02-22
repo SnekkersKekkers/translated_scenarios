@@ -38,7 +38,7 @@ VoicePlay("G020110000_01_040");
 MsgDisp("Kazama","Not necessarily.
 Since I was happy just seeing you, even if
 it was a dream.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
@@ -62,7 +62,7 @@ VoicePlay("G020110000_01_070");
 MsgDisp("Kazama","...But for some reason, we're both still
 tiny primary schoolers.");
 MsgDisp("主人公","Hahah.");
-MsgDisp("主人公","(So ｛風真＊＊｝ dreams about me...)");
+MsgDisp("主人公","(So ｛Kazama＊＊｝ dreams about me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

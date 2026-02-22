@@ -4,7 +4,7 @@ VoicePlay("B040202302_02_000");
 MsgDisp("Sassa","It's like in those exciting sports anime.
 A strong opponent waits across the sea!
 Feels like that sort of scene...");
-MsgSel("Is that how ｛颯砂＊＊｝ also feels?","Can you picture the face of your rival?","｛颯砂＊＊｝ won't lose to anyone∈");
+MsgSel("Is that how ｛Sassa＊＊｝ also feels?","Can you picture the face of your rival?","｛Sassa＊＊｝ won't lose to anyone∈");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -91,7 +91,7 @@ That's a promise.");
 like this, it really feels like an anime
 after all, huh?");
         MsgDisp("主人公","Hehe!");
-        MsgDisp("主人公","(If it's ｛颯砂＊＊｝, I truly believe he
+        MsgDisp("主人公","(If it's ｛Sassa＊＊｝, I truly believe he
 will make his dreams come true.)");
         break ;
         default :

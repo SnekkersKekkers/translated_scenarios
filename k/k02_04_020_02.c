@@ -6,7 +6,7 @@ SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Designer bangle\")");
 MsgDisp("主人公","(Wah, what a stylish bangle!
-As expected of ｛七ツ森＊｝.
+As expected of ｛Nanatsumori＊｝.
 I should wear it on our next date!)");
 MsgClose();
 ScrFadeOut(0,0);

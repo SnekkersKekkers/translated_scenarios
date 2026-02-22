@@ -73,7 +73,7 @@ VoicePlay("G020110302_01_080");
 MsgDisp("Kazama","No, matching swimsuits are seriously
 dangerous...");
 MsgDisp("主人公","(I can hear everything you're saying,
-｛風真＊＊｝...
+｛Kazama＊＊｝...
 Wait, is this how he really feels?)");
 BGMStop();
 MsgClose();

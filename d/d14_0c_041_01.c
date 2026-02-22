@@ -59,7 +59,7 @@ VoicePlay("D140C04101_05_040");
 MsgDisp("Hiiragi","Ah, no. It's because of everyone here.
 This is the first time I've had this sort
 of school life.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -91,7 +91,7 @@ VoicePlay("D140C04101_05_060");
 MsgDisp("Hiiragi","Ahh, yes. That's right. If I don't study
 hard now, that's yet another problem.");
 MsgDisp("主人公","(Hehe.
-｛柊＊＊＊｝, let's do our best together!)");
+｛Hiiragi＊＊＊｝, let's do our best together!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

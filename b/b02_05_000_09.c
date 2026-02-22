@@ -12,4 +12,4 @@ VoicePlay("B020500009_05_010");
 MsgDisp("Hiiragi","I do not care if it is popular or not, but
 that it looks well on you.");
 MsgDisp("主人公","(Awesome!
-｛柊＊＊＊｝ gave me a compliment!)");
+｛Hiiragi＊＊＊｝ gave me a compliment!)");

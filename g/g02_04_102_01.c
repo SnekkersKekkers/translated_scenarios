@@ -18,7 +18,7 @@ ChEyeOpenLevel(4,8);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020410201_04_020");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","｛七ツ森＊｝?");
+MsgDisp("主人公","｛Nanatsumori＊｝?");
 ChMouthOpenLevel(4,#1);
 VoicePlay("G020410201_04_030");
 MsgDisp("Nanatsumori","Something's just not adding up...");
@@ -49,7 +49,7 @@ VoicePlay("G020410201_04_080");
 MsgDisp("Nanatsumori","I got it! We should go on more dates. I'm
 so used to feeling bad after saying bye.");
 ChEyeOpenLevel(4,#1);
-MsgDisp("主人公","(｛七ツ森＊｝...are you in a rush?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝...are you in a rush?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

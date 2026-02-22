@@ -15,7 +15,7 @@ MsgDisp("Mikage","Great.
 If you can find friends like that in high
 school, you've basically won in life.");
 MsgDisp("主人公","On top of that, I got to meet a teacher
-like ｛御影＊＊｝.");
+like ｛Mikage＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -38,7 +38,7 @@ VoicePlay("G020730201_07_040");
 MsgDisp("Mikage","I should be the one to say thank you.
 You guys are letting a flawed adult like
 me interfere with your high school life.");
-MsgDisp("主人公","｛御影＊＊｝?");
+MsgDisp("主人公","｛Mikage＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -46,7 +46,7 @@ VoicePlay("G020730201_07_050");
 MsgDisp("Mikage","That's weird.
 I ended up saying too much...
 Forget what I'm thinking～");
-MsgDisp("主人公","(｛御影＊＊｝...what does it mean to be
+MsgDisp("主人公","(｛Mikage＊＊｝...what does it mean to be
 flawed...)");
 BGMStop();
 MsgClose();

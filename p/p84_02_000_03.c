@@ -14,7 +14,7 @@ VoicePlay("P840200003_02_000");
 MsgDisp("Sassa","Excuse me!
 Could you please provide some trash bags
 for my class?");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝...
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝...
 What should I do?
 There aren't anymore trash bags left...");
 ChEye(2,0);
@@ -44,7 +44,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 MsgDisp("主人公","(Sigh...I should have checked the stock
 beforehand. I caused trouble for
-｛颯砂＊＊｝...)");
+｛Sassa＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

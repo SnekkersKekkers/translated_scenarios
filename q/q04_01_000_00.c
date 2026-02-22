@@ -2,7 +2,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛風真＊＊｝, good morning.");
+    MsgDisp("主人公","｛Kazama＊＊｝, good morning.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,8,#1,0,0);
@@ -14,9 +14,9 @@ How about we go around together for
 today's free period?");
     break ;
     case 3:
-    MsgDisp("主人公","(Where is ｛風真＊＊｝...
+    MsgDisp("主人公","(Where is ｛Kazama＊＊｝...
 Ah, there.)");
-    MsgDisp("主人公","｛風真＊＊｝!");
+    MsgDisp("主人公","｛Kazama＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
@@ -30,14 +30,14 @@ today's free period?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Where is ｛風真＊＊｝...)");
+    MsgDisp("主人公","(Where is ｛Kazama＊＊｝...)");
     VoiceEVSPlay(1);
     VoicePlay("Q040100000_01_020");
     MsgDisp("Kazama?","｛主人公｝.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","...Ah, ｛風真＊＊｝!");
+    MsgDisp("主人公","...Ah, ｛Kazama＊＊｝!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

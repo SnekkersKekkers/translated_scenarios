@@ -14,4 +14,4 @@ MsgDisp("Sassa","Ooh.
 I'm glad you're always up to date with the
 trends.");
 MsgDisp("主人公","(Awesome!
-｛颯砂＊＊｝ praised me!)");
+｛Sassa＊＊｝ praised me!)");

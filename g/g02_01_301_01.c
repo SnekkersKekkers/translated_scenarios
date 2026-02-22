@@ -27,7 +27,7 @@ VoicePlay("G020130101_01_030");
 MsgDisp("Kazama","There are guys I don't really know
 surrounding you on all sides. I guess I'm
 saying, it's been kinda hard to get close.");
-MsgDisp("主人公","｛風真＊＊｝?");
+MsgDisp("主人公","｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -41,7 +41,7 @@ VoicePlay("G020130101_01_050");
 MsgDisp("Kazama","Do you consider me just a member of some
 larger group?
 'Cause I consider you special.");
-MsgDisp("主人公","You're important to me, ｛風真＊＊｝.
+MsgDisp("主人公","You're important to me, ｛Kazama＊＊｝.
 You're my one and only childhood friend.");
 ChEye(1,2);
 ChMouth(1,3);
@@ -64,7 +64,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_080");
 MsgDisp("Kazama","Using 'childhood friend' is cheating...");
-MsgDisp("主人公","(What is up with ｛風真＊＊｝?)");
+MsgDisp("主人公","(What is up with ｛Kazama＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

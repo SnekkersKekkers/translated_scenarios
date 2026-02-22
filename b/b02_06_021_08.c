@@ -13,4 +13,4 @@ MsgDisp("Himuro","N-Not really...
 But I'll expect a lot when you wear
 something like that.");
 MsgDisp("主人公","(I'm glad!
-｛氷室＊＊｝ seems really pleased!)");
+｛Himuro＊＊｝ seems really pleased!)");

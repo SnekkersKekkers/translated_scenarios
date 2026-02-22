@@ -18,7 +18,7 @@ last three years?)");
     MsgDisp("Sassa","｛主人公｝.
 I came to listen to your last cultural
 festival performance.");
-    MsgDisp("主人公","｛颯砂＊＊｝, thank you.");
+    MsgDisp("主人公","｛Sassa＊＊｝, thank you.");
     ChEye(2,3);
     ChMouth(2,4);
     ChMotion(2,3);

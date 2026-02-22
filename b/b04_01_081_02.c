@@ -83,7 +83,7 @@ But, thank you.");
         MsgDisp("Kazama","Oh-hoh. That honesty is nice. A proper
 thank you. From here on out, thank me
 everyday.");
-        MsgDisp("主人公","(｛風真＊＊｝, you've cared about me for so
+        MsgDisp("主人公","(｛Kazama＊＊｝, you've cared about me for so
 long now...
 It makes me happy.)");
         break ;

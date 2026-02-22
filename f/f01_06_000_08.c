@@ -1,6 +1,6 @@
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, ｛氷室＊＊｝.");
+MsgDisp("主人公","Oh, ｛Himuro＊＊｝.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,1,0,0,#1,0,0);
@@ -12,4 +12,4 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(6);
 SEWait();
 Wait(60,0);
-MsgDisp("主人公","(｛氷室＊＊｝ looked mad...)");
+MsgDisp("主人公","(｛Himuro＊＊｝ looked mad...)");

@@ -40,7 +40,7 @@ about it huh...");
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("B040623300_06_030");
-    MsgDisp("Himuro","Your eyes are darting about you know.
+    MsgDisp("Himuro","Your eyes are darting about, you know.
 Even if you put on a brave front, I can
 see through it.");
     MsgDispSksp(1,0);

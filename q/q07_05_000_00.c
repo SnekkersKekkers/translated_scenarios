@@ -4,7 +4,7 @@ BGOpen("sc820",0);
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...｛柊＊＊＊｝, look!
+MsgDisp("主人公","Wow...｛Hiiragi＊＊＊｝, look!
 The windmills and flowers are so pretty.");
 ChEye(5,4);
 ChMotion(5,4);
@@ -16,7 +16,7 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_010");
 MsgDisp("Hiiragi","I feel like I'm travelling abroad, I love
 it.");
-MsgDisp("主人公","The Netherlands with ｛柊＊＊＊｝...
+MsgDisp("主人公","The Netherlands with ｛Hiiragi＊＊＊｝...
 Sounds fun.");
 ChEye(5,3);
 ChMotion(5,0);
@@ -36,7 +36,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝!
+MsgDisp("主人公","｛Hiiragi＊＊＊｝!
 Look, that tall tower.");
 ChEye(5,3);
 ChMouth(5,2);
@@ -68,7 +68,7 @@ VoicePlay("Q070500000_05_060");
 MsgDisp("Hiiragi","Even if you come to a foreign country, you
 do not forget the city of Habataki.
 It's wonderful.");
-MsgDisp("主人公","(I guess ｛柊＊＊＊｝ feels completely in
+MsgDisp("主人公","(I guess ｛Hiiragi＊＊＊｝ feels completely in
 a foreign country?
 Huis ten Bosch was so much fun...!)");
 BGMStop(2);
@@ -105,7 +105,7 @@ VoicePlay("Q070500000_05_090");
 MsgDisp("Hiiragi","Nagasaki is lovely, but, do you miss
 Habataki City?");
 MsgDisp("主人公","No, since it's only been three days.
-What about you, ｛柊＊＊＊｝?");
+What about you, ｛Hiiragi＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -124,7 +124,7 @@ ChMotion(5,0);
 VoicePlay("Q070500000_05_120");
 MsgDisp("Hiiragi","The chairperson is off-duty for a bit
 longer.");
-MsgDisp("主人公","(｛柊＊＊＊｝...I hope you at least have
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...I hope you at least have
 some fun during the school trip, free from
 responsibilities.)");
 BGMStop();

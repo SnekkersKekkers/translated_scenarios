@@ -63,14 +63,14 @@ ChOpen(4,254,0,2,1,#1,#1,0,0,0,60);
 ChMotion(4,1,1);
 VoicePlay("F100430002_04_000");
 MsgDisp("Nanatsumori","Haa, haa...");
-MsgDisp("主人公","｛七ツ森＊｝, what's wrong∋");
+MsgDisp("主人公","｛Nanatsumori＊｝, what's wrong∋");
 ChMotion(4,0,1);
 VoicePlay("F100430002_04_010");
 MsgDisp("Nanatsumori","Those twins...
 Did they say something...weird?");
 MsgDisp("主人公","They didn't say anything weird.
 They asked me how much I knew about
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
 ChEye(4,2);
 ChMouth(4,2);
 VoicePlay("F100430002_04_020");
@@ -82,7 +82,7 @@ ChMotion(4,1,1);
 VoicePlay("F100430002_04_030");
 MsgDisp("Nanatsumori","So Hikaru is the ringleader, then?");
 MsgDisp("主人公","Hey.
-｛七ツ森＊｝ is there something else
+｛Nanatsumori＊｝ is there something else
 you're hiding from me?");
 ChEye(4,2);
 ChMouth(4,5);

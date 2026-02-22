@@ -6,7 +6,7 @@ VoicePlay("D010100200_34_000");
 MsgDisp("Clerk","You have a good eye, bro.
 That's a good item～");
 MsgDisp("主人公","Over there...
-Is that ｛風真＊＊｝?");
+Is that ｛Kazama＊＊｝?");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_01_09");
@@ -50,7 +50,7 @@ MsgClose();
 ChOpen(1,255,7,4,2,0,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Hehe, you're such a smart shopper,
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -97,7 +97,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100200_01_090");
 MsgDisp("Kazama","I sound just like dad, don't I?");
-MsgDisp("主人公","｛風真＊＊｝'s dad has an antique store in
+MsgDisp("主人公","｛Kazama＊＊｝'s dad has an antique store in
 England, right?");
 ChEye(1,0);
 ChMouth(1,0);
@@ -112,7 +112,7 @@ VoicePlay("D010100200_01_110");
 MsgDisp("Kazama","Antiques and people are the same.
 If they aren't with people who value them
 properly, it will cause them sorrow.");
-MsgDisp("主人公","｛風真＊＊｝?");
+MsgDisp("主人公","｛Kazama＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -120,7 +120,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D010100200_01_120");
 MsgDisp("Kazama","The same thing happens when they are
 overvalued.");
-MsgDisp("主人公","(｛風真＊＊｝ sounds kind of sad?)");
+MsgDisp("主人公","(｛Kazama＊＊｝ sounds kind of sad?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

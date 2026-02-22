@@ -3,13 +3,13 @@ ChClose(2,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh?
-｛颯砂＊＊｝ still isn't here yet..");
+｛Sassa＊＊｝ still isn't here yet..");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("B110200001_34_000");
 MsgDisp("Guy","Sorry to keep you waiting...");
-MsgDisp("主人公","Eh, ｛颯砂＊＊｝...?");
+MsgDisp("主人公","Eh, ｛Sassa＊＊｝...?");
 SEPlay("EV_SE_542",0,0.6);
 MsgClose();
 Wait(50,0);
@@ -25,7 +25,7 @@ ChOpen(2,31,3,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110200001_02_000");
 MsgDisp("Sassa","Of course not. don't just take someone's
 name as you like.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -105,7 +105,7 @@ I got help up, and you ended up in this
 scary situation.");
 MsgDisp("主人公","No, I'm alright.
 Thank you for helping me.
-｛颯砂＊＊｝ is kind, isn't he?");
+｛Sassa＊＊｝ is kind, isn't he?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

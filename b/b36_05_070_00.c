@@ -12,7 +12,7 @@ ChMotion(5,0,1);
 ScrFadeIn(0);
 VoicePlay("B360507000_05_000");
 MsgDisp("Hiiragi","Is there a shop that interests you?");
-MsgDisp("主人公","What about you, ｛柊＊＊＊｝?
+MsgDisp("主人公","What about you, ｛Hiiragi＊＊＊｝?
 Wasn't there something you wanted?");
 ChEye(5,3);
 ChMouth(5,4);
@@ -25,7 +25,7 @@ ChMotion(5,0);
 VoicePlay("B360507000_05_020");
 MsgDisp("Hiiragi","Some time alone with you.
 I've been wanting this for a long time.");
-MsgDisp("主人公","Eh, ｛柊＊＊＊｝...?");
+MsgDisp("主人公","Eh, ｛Hiiragi＊＊＊｝...?");
 ChEye(5,0);
 VoicePlay("B360507000_05_030");
 MsgDisp("Hiiragi","Are you surprised that I have this kind of
@@ -57,7 +57,7 @@ ChMouth(5,3);
 VoicePlay("B360507000_05_070");
 MsgDisp("Hiiragi","Hehe.
 I'm actually quite the strategist.");
-MsgDisp("主人公","(Something about ｛柊＊＊＊｝ seems a
+MsgDisp("主人公","(Something about ｛Hiiragi＊＊＊｝ seems a
 little different from usual...)");
 BGMStop();
 MsgClose();

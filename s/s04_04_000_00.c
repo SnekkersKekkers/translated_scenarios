@@ -4,11 +4,11 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝ is calling.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝ is calling.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
-    MsgDisp("主人公","Hello, ｛七ツ森＊｝?");
+    MsgDisp("主人公","Hello, ｛Nanatsumori＊｝?");
     VoicePlay("S040400000_04_000");
     MsgDisp("Nanatsumori","Happy New Year.");
     MsgDisp("主人公","Happy New Year!");
@@ -23,7 +23,7 @@ like to come with me to the shrine?");
 Ok then, I'll pick you up.");
         MsgDisp("主人公","Okay, got it.");
         SEWait();
-        MsgDisp("主人公","(A shrine visit with ｛七ツ森＊｝!
+        MsgDisp("主人公","(A shrine visit with ｛Nanatsumori＊｝!
 What should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -50,11 +50,11 @@ wrong...)");
     case 4:
     case 5:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝ is calling.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝ is calling.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
-    MsgDisp("主人公","Hello, ｛七ツ森＊｝?");
+    MsgDisp("主人公","Hello, ｛Nanatsumori＊｝?");
     VoicePlay("S040400000_04_050");
     MsgDisp("Nanatsumori","Happy New Year.");
     MsgDisp("主人公","Hehe, Happy New Year!");

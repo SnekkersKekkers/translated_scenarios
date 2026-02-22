@@ -14,7 +14,7 @@ VoicePlay("B150200200_02_010");
 MsgDisp("Sassa","I couldn't compete.
 With your skinship.");
 MsgDisp("主人公","Ummm...
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,0);
@@ -61,6 +61,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 MsgDisp("主人公","(As I thought, it seems like I really did
-worry ｛颯砂＊＊｝...)");
+worry ｛Sassa＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

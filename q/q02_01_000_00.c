@@ -14,7 +14,7 @@ switch (ChPrmGet(1,6)){
     VoiceEVSPlay(1);
     VoicePlay("Q020100000_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, good morning.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, good morning.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -62,7 +62,7 @@ Don't wander off and get lost.
     VoiceEVSPlay(1);
     VoicePlay("Q020100000_01_050");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","｛風真＊＊｝, good morning.");
+    MsgDisp("主人公","｛Kazama＊＊｝, good morning.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -71,7 +71,7 @@ Don't wander off and get lost.
 Have you decided who you're going with for
 the free period?");
     MsgDisp("主人公","No.
-｛風真＊＊｝, have you?");
+｛Kazama＊＊｝, have you?");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,0);

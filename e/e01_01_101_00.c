@@ -9,7 +9,7 @@ ChOpen(1,35,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("E010110100_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","｛風真＊＊｝!
+MsgDisp("主人公","｛Kazama＊＊｝!
 Were you working today?");
 ChEye(1,0);
 ChMouth(1,0);
@@ -46,7 +46,7 @@ ChMotion(1,1);
 VoicePlay("E010110100_01_040");
 MsgDisp("Kazama","...Info?
 I wonder if I'm being monitored...");
-MsgDisp("主人公","｛風真＊＊｝, that's...");
+MsgDisp("主人公","｛Kazama＊＊｝, that's...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -66,7 +66,7 @@ VoicePlay("E010110100_47_010");
 MsgDisp("Woman Customer A","Ah, there's Kazama-kun!
 We need your advice for a gift～!");
 SEStop("EV_SE_637",2);
-MsgDisp("主人公","(｛風真＊＊｝ seems to be getting more and
+MsgDisp("主人公","(｛Kazama＊＊｝ seems to be getting more and
 more popular. He seems tired though...I
 wonder if he's alright.)");
 SEWait();

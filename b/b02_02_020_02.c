@@ -19,5 +19,5 @@ ChEyeOpenLevel(2,0);
 VoicePlay("B020202002_02_020");
 MsgDisp("Sassa","I think I just made a good discovery.
 And it's all thanks to you.");
-MsgDisp("主人公","(I think ｛颯砂＊＊｝ likes this.
+MsgDisp("主人公","(I think ｛Sassa＊＊｝ likes this.
 I'm glad!)");

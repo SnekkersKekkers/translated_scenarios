@@ -34,7 +34,7 @@ VoicePlay("P640400004_04_040");
 MsgDisp("Nanatsumori","I'll also buy some vegetables.
 I want one of everything that you
 handmade.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems pleased!
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems pleased!
 I'm glad I gave it my all in the Gardening
 Club for the last three years!)");
 MsgClose();

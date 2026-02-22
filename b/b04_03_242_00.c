@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040324200_03_000");
 MsgDisp("Honda","Cooking over charcoal makes food taste so
 much better!");
-MsgSel("｛本多＊＊｝, I'm counting on you♪","Camping means ＢＢＱ! ","It seems like it would be a lot of trouble...");
+MsgSel("｛Honda＊＊｝, I'm counting on you♪","Camping means ＢＢＱ! ","It seems like it would be a lot of trouble...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

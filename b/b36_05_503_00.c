@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B360550300_05_000");
 MsgDisp("Hiiragi","We played a lot again today.");
 MsgDisp("主人公","Yeah.
-｛柊＊＊＊｝, are you tired?");
+｛Hiiragi＊＊＊｝, are you tired?");
 ChEye(5,4);
 VoicePlay("B360550300_05_010");
 MsgDisp("Hiiragi","Yes.
@@ -45,13 +45,13 @@ VoicePlay("B360550300_05_050");
 MsgDisp("Hiiragi","There's no way I could imitate those I
 feel inferior to them It's pathetic....");
 MsgDisp("主人公","Huh∋
-｛柊＊＊＊｝ feels inferior?");
+｛Hiiragi＊＊＊｝ feels inferior?");
 ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("B360550300_05_060");
 MsgDisp("Hiiragi","Why are you so surprised?");
-MsgDisp("主人公","Even an amazing person like ｛柊＊＊＊｝
+MsgDisp("主人公","Even an amazing person like ｛Hiiragi＊＊＊｝
 can feel that way...");
 ChEye(5,3);
 ChMouth(5,2);

@@ -17,7 +17,7 @@ ChOpen(3,254,1,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P840300005_03_000");
 MsgDisp("Honda","｛主人公｝, good work.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Did you find your meal ticket?");
 ChEye(3,4);
 ChMouth(3,4);

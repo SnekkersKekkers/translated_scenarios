@@ -13,7 +13,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I350400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
     ChEye(4,2);
     ChMouth(4,1);
@@ -75,7 +75,7 @@ Well, see you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Did ｛七ツ森＊｝ come to support
+    MsgDisp("主人公","(Did ｛Nanatsumori＊｝ come to support
 me...?)");
     break ;
     case 4:
@@ -128,7 +128,7 @@ before I embarrass myself any more.");
     MsgDisp("Nanatsumori","Heheh...
 Forget healing, you're like a dose of
 energy.");
-    MsgDisp("主人公","(｛七ツ森＊｝ looks like he's having fun.
+    MsgDisp("主人公","(｛Nanatsumori＊｝ looks like he's having fun.
 I think I'm feeling better, too!)");
     break ;
     default :

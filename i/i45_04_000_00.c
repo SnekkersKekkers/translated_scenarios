@@ -35,7 +35,7 @@ Well, work hard.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(Um...
-｛七ツ森＊｝, did you come to check on
+｛Nanatsumori＊｝, did you come to check on
 me?)");
     break ;
     case 3:
@@ -47,7 +47,7 @@ me?)");
     VoicePlay("I450400000_04_040");
     MsgDisp("Nanatsumori","Good work.");
     MsgDisp("主人公","Ah, welcome!
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
     ChMotion(4,0,1);
     VoicePlay("I450400000_04_050");
     MsgDisp("Nanatsumori","Whatcha doin'?");
@@ -80,7 +80,7 @@ You're really into this, huh?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(｛七ツ森＊｝ came to check on me, right?
+    MsgDisp("主人公","(｛Nanatsumori＊｝ came to check on me, right?
 I'm happy I got complimented!)");
     break ;
     case 4:
@@ -94,7 +94,7 @@ I'm happy I got complimented!)");
     VoicePlay("I450400000_04_090");
     MsgDisp("Nanatsumori","｛主人公｝.
 Good work.");
-    MsgDisp("主人公","Ah...you too, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah...you too, ｛Nanatsumori＊｝.");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,2,1);
@@ -118,7 +118,7 @@ But, maybe there's something else...");
     SEWait();
     VoicePlay("I450400000_04_120");
     MsgDisp("Nanatsumori","......");
-    MsgDisp("主人公","Um, ｛七ツ森＊｝, you're a little
+    MsgDisp("主人公","Um, ｛Nanatsumori＊｝, you're a little
 close...");
     MsgClose();
     ChEye(4,5);
@@ -144,7 +144,7 @@ Work hard, 'kay?");
     MsgDisp("Nanatsumori","Damn...
 The good smell was from her, herself...");
     MsgDisp("主人公","(Haa, that surprised me...
-｛七ツ森＊｝ came to cheer me on,
+｛Nanatsumori＊｝ came to cheer me on,
 right?)");
     break ;
     default :

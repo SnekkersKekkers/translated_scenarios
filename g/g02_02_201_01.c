@@ -9,7 +9,7 @@ ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("G020220101_02_010");
 MsgDisp("Sassa","You don't remember?");
-MsgDisp("主人公","Do you remember, ｛颯砂＊＊｝?");
+MsgDisp("主人公","Do you remember, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -44,7 +44,7 @@ MsgDisp("Sassa","So I've decided that, starting with
 visiting the fireflies today, I'll
 treasure my time with you.");
 MsgDisp("主人公","Hahah.
-You're acting kinda strange, ｛颯砂＊＊｝.");
+You're acting kinda strange, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -56,7 +56,7 @@ ChMotion(2,0);
 VoicePlay("G020220101_02_080");
 MsgDisp("Sassa","If, the next time we come here, I'm the
 one closest to you.");
-MsgDisp("主人公","(｛颯砂＊＊｝...)");
+MsgDisp("主人公","(｛Sassa＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

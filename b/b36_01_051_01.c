@@ -70,7 +70,7 @@ VoicePlay("B360105101_01_070");
 MsgDisp("Kazama","Haa, finally. We've been together since
 morning, but this is the first time I've
 held your hand.");
-MsgDisp("主人公","(｛風真＊＊｝...?)");
+MsgDisp("主人公","(｛Kazama＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

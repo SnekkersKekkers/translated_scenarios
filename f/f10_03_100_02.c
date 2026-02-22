@@ -12,7 +12,7 @@ ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("F100310002_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Those umbrellas are here again today, huh?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -70,7 +70,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(｛本多＊＊｝ has an extensive list of
+MsgDisp("主人公","(｛Honda＊＊｝ has an extensive list of
 observation targets. It's not just plants
 and insects.. Maybe I'm being observed
 too?)");

@@ -6,7 +6,7 @@ ChOpen(5,255,4,0,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523401_05_000");
 MsgDisp("Hiiragi","That teapot was spinning too.");
-MsgSel("As expected of ｛柊＊＊＊｝, you have a good eye!","I wish I could ride in the pot too","Maybe there's piping hot black tea in it");
+MsgSel("As expected of ｛Hiiragi＊＊＊｝, you have a good eye!","I wish I could ride in the pot too","Maybe there's piping hot black tea in it");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

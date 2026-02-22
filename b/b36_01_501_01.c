@@ -32,7 +32,7 @@ VoicePlay("B360150101_01_020");
 MsgDisp("Kazama","It has?
 There was definitely a hole on the back
 where we went in and talked about stuff.");
-MsgDisp("主人公","｛風真＊＊｝, amazing!
+MsgDisp("主人公","｛Kazama＊＊｝, amazing!
 Your memory is really good.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
@@ -81,7 +81,7 @@ can I?");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hehe.");
 MsgDisp("主人公","(It's like searching for memories with
-｛風真＊＊｝, It's kind of fun.)");
+｛Kazama＊＊｝, It's kind of fun.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

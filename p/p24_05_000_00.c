@@ -120,7 +120,7 @@ SEStop("EV_SE_CLAP_002",1.5);
 SEStop("EV_SE_GAYA_021",1.5);
 ChOpen(5,38,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, good work!
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, good work!
 Somehow, I managed to do it.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -152,7 +152,7 @@ VoicePlay("P240500000_05_140");
 MsgDisp("Hiiragi","It's like my relationship with both the
 theatre troupe, and you. I realized that
 thanks to you and everyone else.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 SEPlay("EV_SE_FOOT_WALK_COME_TWO",0,0.6);
 SEWait();
 ChEye(5,3);
@@ -184,7 +184,7 @@ VoicePlay("P240500000_05_160");
 MsgDisp("Hiiragi","｛主人公｝, everyone, thank you.");
 SEPlay("EV_SE_752");
 Wait(50,0);
-MsgDisp("主人公","(｛柊＊＊＊｝...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 I'm glad.)");
 SEStop("EV_SE_752",1);
 MsgClose();

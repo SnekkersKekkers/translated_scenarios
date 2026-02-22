@@ -20,7 +20,7 @@ VoicePlay("G020620202_06_020");
 MsgDisp("Himuro","...Oh, but only in front of us.
 Showing that fluffy side of him.
 It was my fault for not noticing.");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -48,7 +48,7 @@ ChMouth(6,2);
 ChMotion(6,0);
 VoicePlay("G020620202_06_060");
 MsgDisp("Himuro","Until recently, that spot was mine...");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,0);
@@ -74,7 +74,7 @@ VoicePlay("G020620202_06_100");
 MsgDisp("Himuro","That's why, I want to face this head-on.
 I wanted to tell you that.");
 MsgDisp("主人公","Yeah...");
-MsgDisp("主人公","(｛氷室＊＊｝'s serious feelings really
+MsgDisp("主人公","(｛Himuro＊＊｝'s serious feelings really
 came through...)");
 BGMStop();
 MsgClose();

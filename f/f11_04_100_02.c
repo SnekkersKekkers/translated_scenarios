@@ -6,7 +6,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,3,#1,#1,0,0);
 VoicePlay("F110410002_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 You going around this year?");
 ChEye(4,2);
 ChMouth(4,3);
@@ -58,7 +58,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);
 MsgDisp("主人公","(Yeah!
-I'll help ｛七ツ森＊｝ enjoy himself!)");
+I'll help ｛Nanatsumori＊｝ enjoy himself!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

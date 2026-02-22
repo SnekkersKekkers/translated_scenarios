@@ -9,7 +9,7 @@ ChMotion(4,1,1);
 VoicePlay("B040422202_04_000");
 MsgDisp("Nanatsumori","For some reason we came here...
 Do you like this place?");
-MsgSel("Yeah, I do!","Not really...","If I'm with ｛七ツ森＊｝▼");
+MsgSel("Yeah, I do!","Not really...","If I'm with ｛Nanatsumori＊｝▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -58,7 +58,7 @@ There's no need for stuff like that.");
         ChMotion(4,2,1);
         VoicePlay("B040422202_04_040");
         MsgDisp("Nanatsumori","I don't get your reasoning.");
-        MsgDisp("主人公","｛七ツ森＊｝, do you hate it here?");
+        MsgDisp("主人公","｛Nanatsumori＊｝, do you hate it here?");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);

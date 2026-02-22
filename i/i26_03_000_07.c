@@ -95,7 +95,7 @@ I'll go get changed quickly!");
 We somehow got through the peak hours...");
     MsgDisp("主人公","Good work.
 It's the first time I've seen you this
-tired, ｛本多＊＊｝.");
+tired, ｛Honda＊＊｝.");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,0,1);

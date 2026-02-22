@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("D100200000_02_000");
 MsgDisp("Sassa","｛主人公｝, morning!");
-MsgDisp("主人公","Good Morning, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Good Morning, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

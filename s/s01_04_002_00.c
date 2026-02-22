@@ -1,3 +1,3 @@
-MsgDisp("主人公","It's from ｛七ツ森＊｝.
+MsgDisp("主人公","It's from ｛Nanatsumori＊｝.
 It's a simple but stylish card.
-Yeah, it feels like ｛七ツ森＊｝.");
+Yeah, it feels like ｛Nanatsumori＊｝.");

@@ -3,7 +3,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(It's getting late...
 I should go home.)");
 MsgDisp("主人公","(Huh?
-｛風真＊＊｝'s bag is still here...
+｛Kazama＊＊｝'s bag is still here...
 I wonder where he is?)");
 MsgClose();
 ScrFadeOut(0,0);
@@ -58,7 +58,7 @@ VoicePlay("D020100300_01_040");
 MsgDisp("Kazama","Everytime I talk to my dad, you just
 happen to be here.");
 MsgDisp("主人公","Like I thought, it was your dad...
-｛風真＊＊｝, are you going to England?");
+｛Kazama＊＊｝, are you going to England?");
 ChMotion(1,0);
 Wait(16,0);
 ChEye(1,4);
@@ -130,7 +130,7 @@ SEPlay("EV_SE_551",0.5,0.4);
 ScrFadeOut(0,0,30);
 ChClose(1,0,0);
 SEWait();
-MsgDisp("主人公","｛風真＊＊｝...?");
+MsgDisp("主人公","｛Kazama＊＊｝...?");
 VoicePlay("D020100300_01_130");
 MsgDisp("Kazama","That's why I have to go...");
 MsgDisp("主人公","...You'll come back, right?");
@@ -157,6 +157,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop(2);
 ChClose(1);
 SEWait();
-MsgDisp("主人公","(｛風真＊＊｝...)");
+MsgDisp("主人公","(｛Kazama＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

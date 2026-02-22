@@ -12,7 +12,7 @@ VoicePlay("K020501100_05_000");
 MsgDisp("Hiiragi","We cannot let it end here.
 ...Happy birthday.");
 MsgDisp("主人公","You remembered.
-｛柊＊＊＊｝, thank you!");
+｛Hiiragi＊＊＊｝, thank you!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -34,7 +34,7 @@ MsgDisp("Hiiragi","It's quite embarrassing.
 I'm quite used to receiving gifts, but the
 reverse is quite difficult.");
 MsgDisp("主人公","Hehe, it's something that you chose for
-me, ｛柊＊＊＊｝.");
+me, ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("K020501100_05_040");

@@ -51,7 +51,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B360123600_01_060");
 MsgDisp("Kazama","And also, I have you all to myself.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -59,7 +59,7 @@ VoicePlay("B360123600_01_070");
 MsgDisp("Kazama","Hey, you're not supposed to be looking at
 me, look at the night parade.");
 MsgDisp("主人公","(Thank you for bringing me here,
-｛風真＊＊｝)");
+｛Kazama＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

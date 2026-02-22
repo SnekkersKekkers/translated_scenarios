@@ -47,7 +47,7 @@ almost a waste to eat it.");
     VoicePlay("L040300003_03_050");
     MsgDisp("Honda","Yeah, you're right.
 I'll eat it gratefully!");
-    MsgDisp("主人公","(｛本多＊＊｝ seemed really happy!)");
+    MsgDisp("主人公","(｛Honda＊＊｝ seemed really happy!)");
     break ;
     case 4:
     case 5:
@@ -63,7 +63,7 @@ How are they?");
     ChMotion(3,0);
     VoicePlay("L040300003_03_070");
     MsgDisp("Honda","......");
-    MsgDisp("主人公","｛本多＊＊｝?");
+    MsgDisp("主人公","｛Honda＊＊｝?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,1);
@@ -98,7 +98,7 @@ I'll savor it, okay?");
     MsgDisp("Honda","I got it!
 Before I eat it, can we take a picture
 with the chocolate?");
-    MsgDisp("主人公","(｛本多＊＊｝ seemed really happy!
+    MsgDisp("主人公","(｛Honda＊＊｝ seemed really happy!
 I did it!!)");
     break ;
     default :

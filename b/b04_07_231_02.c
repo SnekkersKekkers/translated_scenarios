@@ -96,7 +96,7 @@ avoiding plant roots.");
         VoicePlay("B040723102_07_090");
         MsgDisp("Mikage","If we overdo it, the crops won't be able
 to grow though?");
-        MsgDisp("主人公","(Hehe, looks like ｛御影＊＊｝ really
+        MsgDisp("主人公","(Hehe, looks like ｛Mikage＊＊｝ really
 does not like high places.)");
         break ;
         default :

@@ -6,7 +6,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040230001_02_000");
 MsgDisp("Sassa","It's quite barren huh?");
-MsgSel("There's a lot of trophies huh?","I want to see ｛颯砂＊＊｝'s albums.","There's a lot of green huh?");
+MsgSel("There's a lot of trophies huh?","I want to see ｛Sassa＊＊｝'s albums.","There's a lot of green huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

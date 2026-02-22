@@ -9,14 +9,14 @@ MsgDisp("Honda?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛本多＊＊｝.");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("E010310100_03_010");
 MsgDisp("Honda","It's like I've been waiting for you.");
 MsgDisp("主人公","That's true, what a coincidence.
-Are you waiting for someone, ｛本多＊＊｝?");
+Are you waiting for someone, ｛Honda＊＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -25,7 +25,7 @@ MsgDisp("Honda","Yeah, my little sister.
 Her cram school lesson's over.
 I've been asked to come get her.");
 MsgDisp("主人公","I see.
-｛本多＊＊｝, you don't go to cram school?");
+｛Honda＊＊｝, you don't go to cram school?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -69,6 +69,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
 MsgDisp("主人公","(Huh, I can imagine how cram school's not
-made for ｛本多＊＊｝...)");
+made for ｛Honda＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

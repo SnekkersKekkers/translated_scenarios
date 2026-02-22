@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛颯砂＊＊｝ isn't here yet...)");
+MsgDisp("主人公","(｛Sassa＊＊｝ isn't here yet...)");
 switch (ChPrmGet(2,6)){
     case 0:
     case 1:

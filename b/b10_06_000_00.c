@@ -6,7 +6,7 @@ Today was a fail...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","Huh?
 My phone...
-It's ｛氷室＊＊｝.");
+It's ｛Himuro＊＊｝.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Hello.");
@@ -28,7 +28,7 @@ each other anymore. That's all I had to
 say. ...Goodnight.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛氷室＊＊｝...went to the trouble of
+MsgDisp("主人公","(｛Himuro＊＊｝...went to the trouble of
 calling me.
 I'm so happy.)");
 MsgClose();

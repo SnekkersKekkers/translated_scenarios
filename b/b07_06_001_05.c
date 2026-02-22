@@ -1,5 +1,5 @@
 MsgDisp("主人公","Am I the odd one out amongst you guys,
-｛氷室＊＊｝?");
+｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -48,7 +48,7 @@ ChCheek(6,10);
 VoicePlay("B070600001_06_380");
 MsgDisp("Himuro","It's nothing.
 I'm just stating facts.");
-MsgDisp("主人公","(｛氷室＊＊｝'s way of thinking might've
+MsgDisp("主人公","(｛Himuro＊＊｝'s way of thinking might've
 just saved me...)");
 BGMStop();
 MsgClose();

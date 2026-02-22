@@ -12,7 +12,7 @@ decided by one glorious ippon?
 That's amazing.");
     MsgDisp("主人公","Thank you very much!");
     MsgDisp("主人公","(Yay!
-I was praised by ｛御影＊＊｝ 1)");
+I was praised by ｛Mikage＊＊｝ 1)");
     break ;
     case 4:
     case 5:
@@ -23,7 +23,7 @@ I was praised by ｛御影＊＊｝ 1)");
     MsgDisp("Mikage","They say you won all your practice matches
 with an ippon?
 Congrats.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Thank you very much.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -31,7 +31,7 @@ Thank you very much.");
     VoicePlay("X110700002_07_020");
     MsgDisp("Mikage","You're not just gentle, you're strong too.");
     MsgDisp("主人公","(To think that I was praised by
-｛御影＊＊｝, I'm super happy!)");
+｛Mikage＊＊｝, I'm super happy!)");
     break ;
     default :
     DbgAssert(1);

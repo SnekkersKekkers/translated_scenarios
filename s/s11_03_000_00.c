@@ -1,7 +1,7 @@
 ChLayout(1);
 SEPlay("EV_SE_836");
 SEWait();
-MsgDisp("主人公","｛本多＊＊｝, what does it say?");
+MsgDisp("主人公","｛Honda＊＊｝, what does it say?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -24,6 +24,6 @@ VoicePlay("S110300000_03_030");
 MsgDisp("Honda","I'll just accept the Excellent Luck with
 gratitude and move forward without
 waiting!");
-MsgDisp("主人公","(Hehe, that's just like ｛本多＊＊｝, huh?)");
+MsgDisp("主人公","(Hehe, that's just like ｛Honda＊＊｝, huh?)");
 ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

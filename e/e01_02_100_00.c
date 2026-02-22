@@ -9,7 +9,7 @@ ChOpen(2,255,4,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("E010210000_02_000");
 MsgDisp("Sassa","｛主人公｝, doing some shopping?");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Yeah, I was about to go home.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -17,7 +17,7 @@ ChMotion(2,0);
 VoicePlay("E010210000_02_010");
 MsgDisp("Sassa","Alright, then I should go home too.");
 MsgDisp("主人公","Hm?
-｛颯砂＊＊｝, you were shopping too?");
+｛Sassa＊＊｝, you were shopping too?");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,2);

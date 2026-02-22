@@ -32,7 +32,7 @@ VoicePlay("G020140002_01_030");
 MsgDisp("Kazama","I think I managed to sort out a bunch of
 stuff in my head in the room I hadn't been
 in for ten years because I didn't see you.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -51,7 +51,7 @@ spin.");
 ChEye(1,4);
 ChMotion(1,0);
 MsgDisp("主人公","So that's how you spent that day,
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -94,7 +94,7 @@ MsgDisp("Kazama","Maybe our current relationship exists
 because I managed to sort out my mind all
 night in that room.");
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","(｛風真＊＊｝...)");
+MsgDisp("主人公","(｛Kazama＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

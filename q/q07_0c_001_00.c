@@ -49,7 +49,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","Hehe.
-Looks like ｛氷室＊＊｝ is pouting, huh?");
+Looks like ｛Himuro＊＊｝ is pouting, huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -107,7 +107,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("Q070C00100_05_050");
 MsgDisp("Hiiragi","∈");
-MsgDisp("主人公","Is it ｛氷室＊＊｝?");
+MsgDisp("主人公","Is it ｛Himuro＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -159,7 +159,7 @@ ChClose(5,0,30);
 ChClose(7,0,30);
 MsgDisp("主人公","(We're moving on after this...
 Huis Ten Bosch was fun!
-Okay, I'll report back to ｛氷室＊＊｝ now.)");
+Okay, I'll report back to ｛Himuro＊＊｝ now.)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

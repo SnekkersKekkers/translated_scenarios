@@ -1,5 +1,5 @@
 MsgDisp("主人公","Things have been really exciting for
-｛本多＊＊｝ lately, huh?");
+｛Honda＊＊｝ lately, huh?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -38,7 +38,7 @@ ChSet(3,3);
 VoicePlay("B070300001_03_210");
 MsgDisp("Honda","Isn't that exciting?
 I think so!");
-MsgDisp("主人公","(｛本多＊＊｝ seems to be enjoying himself!
+MsgDisp("主人公","(｛Honda＊＊｝ seems to be enjoying himself!
 He's really living life to the fullest...)");
 BGMStop();
 MsgClose();

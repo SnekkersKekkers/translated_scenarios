@@ -97,7 +97,7 @@ ChClose(1,0,30);
 ChLayout(1);
 ChOpen(1,255,0,4,2,8,#1,0,0,0,30);
 MsgDisp("主人公","...Huh?
-｛風真＊＊｝, aren't you coming?");
+｛Kazama＊＊｝, aren't you coming?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -117,7 +117,7 @@ getting teased.");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(1,0,30);
-MsgDisp("主人公","(｛風真＊＊｝ is just well-loved by
+MsgDisp("主人公","(｛Kazama＊＊｝ is just well-loved by
 everyone huh?)");
 MsgClose();
 ScrFadeOut(0,0);

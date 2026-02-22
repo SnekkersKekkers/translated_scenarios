@@ -29,7 +29,7 @@ ChMouth(1,2);
 VoicePlay("B330A20700_02_000");
 MsgDisp("Sassa","Uwaa, what's up?
 Why are you clinging onto me like that?");
-MsgDisp("主人公","｛颯砂＊＊｝?");
+MsgDisp("主人公","｛Sassa＊＊｝?");
 VoicePlay("B330A20700_02_010");
 MsgDisp("Sassa","It's dangerous, I'll accidentally step on
 you.
@@ -58,7 +58,7 @@ ScrFadeIn(0);
 VoicePlay("B330A20700_02_020");
 MsgDisp("Sassa","Haa...that saved me.");
 MsgDisp("主人公","Hehe.
-｛颯砂＊＊｝ sure is liked by animals isn't
+｛Sassa＊＊｝ sure is liked by animals isn't
 he?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -85,7 +85,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("B330A20700_02_040");
 MsgDisp("Sassa","What are you two saying!");
 MsgDisp("主人公","I think it's surely just because the
-animals know ｛颯砂＊＊｝ is a good person.");
+animals know ｛Sassa＊＊｝ is a good person.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -109,7 +109,7 @@ ChMotion(2,5);
 VoicePlay("B330A20700_02_060");
 MsgDisp("Sassa","I'm not wearing anything!");
 MsgDisp("主人公","(Hehe.
-I wonder if ｛風真＊＊｝ and ｛氷室＊＊｝
+I wonder if ｛Kazama＊＊｝ and ｛Himuro＊＊｝
 are jealous?)");
 BGMStop();
 MsgClose();

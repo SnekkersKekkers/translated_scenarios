@@ -15,7 +15,7 @@ Gardening Club...)");
     ChOpen(5,254,2,0,4,#1,#1,0,0);
     VoicePlay("P630500002_05_000");
     MsgDisp("Hiiragi","This is amazing...");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!
 Welcome..");
     ChEye(5,0);
     ChMouth(5,4);
@@ -59,7 +59,7 @@ Gardening Club...)");
     VoiceEVSPlay(5);
     VoicePlay("P630500002_05_050");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","｛柊＊＊＊｝!
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝!
 You came.
 Welcome!");
     ChEye(5,4);

@@ -71,7 +71,7 @@ and actions angered you, made you upset...");
         ChMotion(6,2);
         VoicePlay("B040603302_06_070");
         MsgDisp("Himuro","I would lose all sort of confidence.");
-        MsgDisp("主人公","｛氷室＊＊｝...");
+        MsgDisp("主人公","｛Himuro＊＊｝...");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

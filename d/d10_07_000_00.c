@@ -10,7 +10,7 @@ ChMotion(7,3);
 VoicePlay("D100700000_07_000");
 MsgDisp("Mikage","Oh.
 You're awake?");
-MsgDisp("主人公","Eh, ｛御影＊＊｝?");
+MsgDisp("主人公","Eh, ｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

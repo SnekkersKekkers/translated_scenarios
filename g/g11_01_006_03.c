@@ -1,7 +1,7 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛風真＊＊｝ said he had
+MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he had
 something he wanted to talk to me about
 when we go home ...DId something happen?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -26,7 +26,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100603_01_000");
 MsgDisp("Kazama","Yeah, about Nanatsumori.");
-MsgDisp("主人公","｛七ツ森＊｝?");
+MsgDisp("主人公","｛Nanatsumori＊｝?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -74,7 +74,7 @@ MsgDisp("Kazama","But after experimenting with different
 things, it would be good if you could come
 back. A return to where you started?");
 MsgDisp("主人公","(Return to where I started?
-｛風真＊＊｝, you are talking about
+｛Kazama＊＊｝, you are talking about
 fashion, right?)");
 BGMStop();
 MsgClose();

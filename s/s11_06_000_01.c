@@ -8,7 +8,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("S110600001_06_000");
 MsgDisp("Himuro","Huh?");
-MsgDisp("主人公","｛氷室＊＊｝, what did you get?");
+MsgDisp("主人公","｛Himuro＊＊｝, what did you get?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

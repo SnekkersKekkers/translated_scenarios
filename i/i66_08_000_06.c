@@ -74,7 +74,7 @@ I'm sorry.");
 Sorry.");
     MsgDisp("主人公","No, it's not your fault.
 I would've noticed if I had looked over at
-you, ｛大地＊＊｝...");
+you, ｛Daichi＊＊｝...");
     ChEye(8,0);
     ChMouth(8,0);
     ChMotion(8,0,1);
@@ -88,7 +88,7 @@ you, ｛大地＊＊｝...");
     MsgDisp("Shirahane","Then from now on, you should jus' keep
 making eye contact with me!
 Yeah?");
-    MsgDisp("主人公","(｛大地＊＊｝ seems happy...
+    MsgDisp("主人公","(｛Daichi＊＊｝ seems happy...
 I should pay attention to my surroundings
 more carefully.)");
     break ;

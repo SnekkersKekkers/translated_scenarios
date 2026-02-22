@@ -10,7 +10,7 @@ VoicePlay("B040130001_01_000");
 MsgDisp("Kazama","That's right.
 I made some cookies yesterday, do you want
 some?");
-MsgSel("Yeah, let's have a teatime!","It's troubling that ｛風真＊＊｝ can do anything...","Then, I'll make some tea.");
+MsgSel("Yeah, let's have a teatime!","It's troubling that ｛Kazama＊＊｝ can do anything...","Then, I'll make some tea.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

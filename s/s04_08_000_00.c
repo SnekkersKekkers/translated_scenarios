@@ -4,10 +4,10 @@ switch (ChPrmGet(8,6)){
     case 2:
     case 3:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, ｛大地＊＊｝ is calling.");
+    MsgDisp("主人公","Ah, ｛Daichi＊＊｝ is calling.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
-    MsgDisp("主人公","Hello, ｛大地＊＊｝?");
+    MsgDisp("主人公","Hello, ｛Daichi＊＊｝?");
     VoicePlay("S040800000_08_000");
     MsgDisp("Shirahane","Yo!
 Happy New Years!");
@@ -56,10 +56,10 @@ Did I make the wrong choice?)");
     case 4:
     case 5:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, a phone call from ｛大地＊＊｝.");
+    MsgDisp("主人公","Ah, a phone call from ｛Daichi＊＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
-    MsgDisp("主人公","Hello, ｛大地＊＊｝?");
+    MsgDisp("主人公","Hello, ｛Daichi＊＊｝?");
     VoicePlay("S040800000_08_060");
     MsgDisp("Shirahane","Happy New Year!
 Please treat me well again this year.");

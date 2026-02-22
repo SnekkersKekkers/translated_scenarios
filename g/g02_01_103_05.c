@@ -12,7 +12,7 @@ VoicePlay("G020110305_01_010");
 MsgDisp("Kazama","When I headed to the UK that first year of
 primary school, after I lost you, every
 day felt painfully long.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -38,7 +38,7 @@ VoicePlay("G020110305_01_040");
 MsgDisp("Kazama","And each day started to feel long again so
 I started putting together a plan to come
 back here.");
-MsgDisp("主人公","You're amazing, ｛風真＊＊｝...
+MsgDisp("主人公","You're amazing, ｛Kazama＊＊｝...
 The way you made what you came up with
 into reality, I mean.");
 ChEye(1,4);

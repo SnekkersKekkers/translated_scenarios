@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("N020200003_02_000");
     MsgDisp("Sassa","｛主人公｝, isn't this kind of bad?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 You mean my results, right...");
     ChEye(2,0);
     ChMouth(2,4);
@@ -30,7 +30,7 @@ let's just do our best next time.");
     VoicePlay("N020200003_02_020");
     MsgDisp("Sassa","｛主人公｝, are you okay?");
     MsgDisp("主人公","Huh?
-｛颯砂＊＊｝, what do you mean?");
+｛Sassa＊＊｝, what do you mean?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -66,7 +66,7 @@ I don't want to worry about you.");
     VoicePlay("N020200003_02_060");
     MsgDisp("Sassa","｛主人公｝, this is really weird coming
 from you.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 What's wrong?");
     ChEye(2,0);
     ChMouth(2,0);
@@ -99,7 +99,7 @@ See you later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝, I'm so low on the list he
+    MsgDisp("主人公","(｛Sassa＊＊｝, I'm so low on the list he
 didn't see it...Oof...I have to study
 harder next time...)");
     break ;

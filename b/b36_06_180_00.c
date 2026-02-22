@@ -57,7 +57,7 @@ SEPlay("EV_SE_065",0.2,0.6);
 SEPlay("EV_SE_504",0.2,0.6);
 SEWait();
 MsgDisp("主人公","Eh!
-｛氷室＊＊｝, your hand...");
+｛Himuro＊＊｝, your hand...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -79,7 +79,7 @@ ChMotion(6,0);
 VoicePlay("B360618000_06_090");
 MsgDisp("Himuro","Well, I guess you're confused.
 Your face is all red too.");
-MsgDisp("主人公","...yours is too, ｛氷室＊＊｝.");
+MsgDisp("主人公","...yours is too, ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);

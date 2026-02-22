@@ -4,7 +4,7 @@ VoiceEVSPlay(3);
 VoicePlay("W040300000_03_000");
 MsgDisp("Honda","｛主人公｝.
 You also showed up today!");
-MsgDisp("主人公","Ah, ｛本多＊＊｝!");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

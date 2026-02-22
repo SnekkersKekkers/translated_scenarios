@@ -107,13 +107,13 @@ Here?");
         VoicePlay("B040208502_02_110");
         MsgDisp("Sassa","Yes, please!");
         MsgDisp("主人公","Ummm...
-｛颯砂＊＊｝, do your best!");
+｛Sassa＊＊｝, do your best!");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040208502_02_120");
         MsgDisp("Sassa","A little more seriously.");
-        MsgDisp("主人公","｛颯砂＊＊｝, keep at it!∈");
+        MsgDisp("主人公","｛Sassa＊＊｝, keep at it!∈");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3,1);

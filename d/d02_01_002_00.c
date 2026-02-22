@@ -1,6 +1,6 @@
 BGOpen("bh120",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Let's go say hello to ｛風真＊＊｝'s
+MsgDisp("主人公","(Let's go say hello to ｛Kazama＊＊｝'s
 Grandpa.)");
 SEPlay("EV_SE_DOOR_018");
 MsgClose();
@@ -29,7 +29,7 @@ ChEyeOpenLevel(36,#1);
 VoicePlay("D020100200_36_020");
 MsgDisp("Ryota's Grandpa","I asked Ryota to help me with bug drying.
 So he's working hard in the back.");
-MsgDisp("主人公","Eh, ｛風真＊＊｝ is here?");
+MsgDisp("主人公","Eh, ｛Kazama＊＊｝ is here?");
 ChEye(36,1);
 ChMouth(36,0);
 VoicePlay("D020100200_36_030");
@@ -67,7 +67,7 @@ ChOpen(1,255,0,4,2,#1,#1,0,1);
 VoicePlay("D020100200_01_070");
 MsgDisp("Kazama","Grandpa, that's enough.
 Dad and I are different.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝.
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Sorry to intrude.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -107,7 +107,7 @@ ChMotion(1,0);
 ChEye(36,0);
 MsgDisp("主人公","Hehe, right.");
 BGMStop();
-MsgDisp("主人公","(｛風真＊＊｝ seems to have a good
+MsgDisp("主人公","(｛Kazama＊＊｝ seems to have a good
 relationship with his Grandpa?
 He said he's different from his father...)");
 MsgClose();

@@ -9,7 +9,7 @@ VoicePlay("B040303302_03_000");
 MsgDisp("Honda","Seriously, no matter how many times I look
 at the deep-sea corner, I never run out of
 new discoveries!");
-MsgSel("Huh? Even for you ｛本多＊＊｝?","Even though it's too dark to see anything clearly?","｛本多＊＊｝, you really like the deep-sea corner.");
+MsgSel("Huh? Even for you ｛Honda＊＊｝?","Even though it's too dark to see anything clearly?","｛Honda＊＊｝, you really like the deep-sea corner.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -78,7 +78,7 @@ Close your eyes!");
         MsgDisp("Honda","...Amazing!
 The deep-sea corner∋ ...another
 discovery∈");
-        MsgDisp("主人公","(I wonder what ｛本多＊＊｝ discovered?)");
+        MsgDisp("主人公","(I wonder what ｛Honda＊＊｝ discovered?)");
         break ;
         default :
         DbgAssert(1);

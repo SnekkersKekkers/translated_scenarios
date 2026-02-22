@@ -15,7 +15,7 @@ MsgClose();
 BGOpen("bh500",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This is ｛柊＊＊＊｝'s home, right?
+MsgDisp("主人公","(This is ｛Hiiragi＊＊＊｝'s home, right?
 It seems like the rehearsal studio is on
 the property...)");
 MsgClose();
@@ -129,7 +129,7 @@ VoicePlay("D010500500_05_080");
 MsgDisp("Hiiragi","No, since the city is supporting us, we
 have to do better.
 It's our obligation.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,9);
@@ -146,7 +146,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(Is ｛柊＊＊＊｝ okay...?
+MsgDisp("主人公","(Is ｛Hiiragi＊＊＊｝ okay...?
 I wanted to tell him to relax a bit but
 that's not something anyone can say.)");
 MsgClose();

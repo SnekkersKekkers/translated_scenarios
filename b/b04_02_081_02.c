@@ -62,7 +62,7 @@ Inter-High a limited amount of times.");
         ChMotion(2,0);
         VoicePlay("B040208102_02_050");
         MsgDisp("Sassa","I have to make it bloom splendidly.");
-        MsgDisp("主人公","Yeah, if it's ｛颯砂＊＊｝, it'll be
+        MsgDisp("主人公","Yeah, if it's ｛Sassa＊＊｝, it'll be
 alright.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -76,7 +76,7 @@ it'll go well.");
         VoicePlay("B040208102_02_070");
         MsgDisp("Sassa","Alright, I too will bloom suddenly, then
 fade suddenly!");
-        MsgDisp("主人公","Hehe, ｛颯砂＊＊｝ doesn't have to fade
+        MsgDisp("主人公","Hehe, ｛Sassa＊＊｝ doesn't have to fade
 though?");
         ChEye(2,4);
         ChMouth(2,4);
@@ -93,7 +93,7 @@ huh?");
         MsgDisp("Sassa","Eh?
 No, what am I saying?
 Forget it, I'm sorry!");
-        MsgDisp("主人公","(｛颯砂＊＊｝...)");
+        MsgDisp("主人公","(｛Sassa＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

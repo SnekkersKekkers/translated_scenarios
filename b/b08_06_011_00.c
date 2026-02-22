@@ -4,7 +4,7 @@ VoicePlay("B080601100_06_000");
 MsgDisp("Himuro","......");
 SEPlay("EV_SE_529");
 SEWait();
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -57,7 +57,7 @@ disaster.");
     MsgDisp("Himuro","But your will to learn isn't bad.
 And your view isn't either.
 Excellent.");
-    MsgDisp("主人公","(｛氷室＊＊｝ praised me!)");
+    MsgDisp("主人公","(｛Himuro＊＊｝ praised me!)");
     break ;
     case 4:
     case 5:

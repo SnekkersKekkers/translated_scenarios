@@ -62,7 +62,7 @@ That's why you shouldn't hold back either.
 See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(｛風真＊＊｝ was acting somewhat weird
+MsgDisp("主人公","(｛Kazama＊＊｝ was acting somewhat weird
 right?
 I wonder if I made him feel bad...)");
 MsgClose();

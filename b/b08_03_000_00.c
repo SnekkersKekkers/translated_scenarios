@@ -18,6 +18,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgDispSksp(0);
 ChClose(3);
-MsgDisp("主人公","(｛本多＊＊｝ walked me home...)");
+MsgDisp("主人公","(｛Honda＊＊｝ walked me home...)");
 MsgClose();
 ScrFadeOut(0);

@@ -8,7 +8,7 @@ ChMouth(1,2);
 VoicePlay("T020120000_01_200");
 MsgDisp("Kazama","Huh, really...?");
 ChEye(1,3);
-MsgDisp("主人公","Yes, I also like ｛風真＊＊｝.
+MsgDisp("主人公","Yes, I also like ｛Kazama＊＊｝.
 Thank you for always thinking of me.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -20,7 +20,7 @@ VoicePlay("T020120000_01_210");
 MsgDisp("Kazama","I have to thank those guys too.");
 MsgDisp("主人公","Hehe, yeah.
 Thank the first-grade elementary school
-student ｛風真＊＊｝.");
+student ｛Kazama＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -63,7 +63,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020120000_01_290");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝...
+MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);

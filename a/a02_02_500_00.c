@@ -2,7 +2,7 @@ BGOpen("sc310",0);
 ScrFadeIn(0);
 VoicePlay("A020250000_02_000");
 MsgDisp("Sassa?","Ryota, you here～?");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝! What's going on?");
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝! What's going on?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -11,8 +11,8 @@ VoiceEVSPlay(2);
 VoicePlay("A020250000_02_010");
 MsgDisp("Sassa","｛主人公｝. You're in the same class as
 Ryota?");
-MsgDisp("主人公","Yeah. And you ｛颯砂＊＊｝, you and
-｛風真＊＊｝ know each other?");
+MsgDisp("主人公","Yeah. And you ｛Sassa＊＊｝, you and
+｛Kazama＊＊｝ know each other?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -47,7 +47,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(1,10);
 VoicePlay("A020250000_02_040");
 MsgDisp("Sassa","The three of us?");
-MsgDisp("主人公","Huh...What do you mean, ｛風真＊＊｝?");
+MsgDisp("主人公","Huh...What do you mean, ｛Kazama＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -152,7 +152,7 @@ VoicePlay("A020250000_02_130");
 MsgDisp("Sassa","Ah, it's bad!
 I gotta change class!
 See you later childhoods buddies!");
-MsgDisp("主人公","Hehe. See you later, ｛颯砂＊＊｝!");
+MsgDisp("主人公","Hehe. See you later, ｛Sassa＊＊｝!");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -169,7 +169,7 @@ VoicePlay("A020250000_01_080");
 MsgDisp("Kazama","Huh, looks like it's gonna get noisy
 around here.");
 MsgDisp("主人公","(So I'm not just childhood friends with
-｛風真＊＊｝, but also with ｛颯砂＊＊｝.
+｛Kazama＊＊｝, but also with ｛Sassa＊＊｝.
 What a coincidence...)");
 SEStop("EV_SE_SCHOOL_001");
 BGMStop();

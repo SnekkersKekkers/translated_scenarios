@@ -7,7 +7,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040210102_02_000");
 MsgDisp("Sassa","Hey, are you actually having fun here?");
-MsgSel("Yeah, because I'm with ｛颯砂＊＊｝.","Of course, I'm having fun▼","Honestly I think this is a huge fail");
+MsgSel("Yeah, because I'm with ｛Sassa＊＊｝.","Of course, I'm having fun▼","Honestly I think this is a huge fail");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -71,7 +71,7 @@ I wonder why?");
         ChMotion(2,0);
         VoicePlay("B040210102_02_060");
         MsgDisp("Sassa","It was you, I thought you liked it.");
-        MsgDisp("主人公","I also thought ｛颯砂＊＊｝ liked it.");
+        MsgDisp("主人公","I also thought ｛Sassa＊＊｝ liked it.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,4);
@@ -102,7 +102,7 @@ again.");
         ChClose(2);
         SEWait();
         MsgDisp("主人公","(I'm happy that we're on the same page...
-but what did ｛颯砂＊＊｝ say?)");
+but what did ｛Sassa＊＊｝ say?)");
         break ;
         default :
         DbgAssert(1);

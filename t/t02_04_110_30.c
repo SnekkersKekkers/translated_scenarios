@@ -9,7 +9,7 @@ ChMotion(4,2,1);
 VoicePlay("T020411000_04_180");
 MsgDisp("Nanatsumori","...I got it.
 It's okay.");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 BGMPlay("BGM_C04_NANA_B",0.01);
 Wait(40,0);
 ChMotion(4,0,1);

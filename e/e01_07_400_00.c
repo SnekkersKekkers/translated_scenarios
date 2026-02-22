@@ -10,7 +10,7 @@ ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(21,255,3,0,0,#1,#1,0,2,0,30);
 VoicePlay("E010740000_21_000");
 MsgDisp("Michiru","Ah, Mari.");
-MsgDisp("主人公","｛みちる＊｝, ｛御影＊＊｝.
+MsgDisp("主人公","｛みちる＊｝, ｛Mikage＊＊｝.
 Hello!");
 ChEye(7,0);
 ChMouth(7,0);
@@ -35,7 +35,7 @@ I happened to meet Mikage-sensei and we
 ended up talking about our favorite foods.");
 MsgDisp("Michiru","Isn't it really delicious?");
 MsgDisp("主人公","Hehe, I see.
-So ｛御影＊＊｝ likes chilled noodles.");
+So ｛Mikage＊＊｝ likes chilled noodles.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -83,7 +83,7 @@ MsgDisp("Mikage","Hmm, we'll probably need more votes...");
 ChPosition(21,0);
 Wait(30);
 MsgDisp("主人公","Hehe.
-｛御影＊＊｝, will you ask others for
+｛Mikage＊＊｝, will you ask others for
 help too?");
 ChEye(21,0);
 ChMouth(21,0);

@@ -6,7 +6,7 @@ ChOpen(4,34,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("R080400000_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChMotion(4,1);
 VoicePlay("R080400000_04_010");
 MsgDisp("Nanatsumori","Can we go to the balcony and talk for a
@@ -20,7 +20,7 @@ VoicePlay("R080400000_04_020");
 MsgDisp("Nanatsumori","We've only got a few days of school left.
 So I want to show you a little bit of
 myself.");
-MsgDisp("主人公","｛七ツ森＊｝, yourself?
+MsgDisp("主人公","｛Nanatsumori＊｝, yourself?
 I thought I knew a lot about you...");
 ChEye(4,2);
 ChMouth(4,3);
@@ -49,7 +49,7 @@ MsgDisp("Nanatsumori","...Look over there.
 Those city lights glowing in the distance.
 That is where I was born.");
 MsgDisp("主人公","Yeah, I believe you lived in the city next
-to here, ｛七ツ森＊｝.");
+to here, ｛Nanatsumori＊｝.");
 StlEye(4,1);
 StlMouth(4,0);
 VoicePlay("R080400000_04_050");
@@ -123,7 +123,7 @@ VoicePlay("R080400000_04_160");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","So I always wanted to thank you properly.
 ...Thank you, ｛主人公｝.");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("R080400000_04_170");
@@ -131,7 +131,7 @@ MsgDisp("Nanatsumori","So, once again.
 Merry Christmas.
 I hope to see you for always.");
 MsgDisp("主人公","Yeah.
-Merry Christmas, ｛七ツ森＊｝.");
+Merry Christmas, ｛Nanatsumori＊｝.");
 StlEye(4,2);
 BGMStop(3);
 MsgClose();

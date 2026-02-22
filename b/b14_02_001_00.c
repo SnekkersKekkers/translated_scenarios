@@ -32,7 +32,7 @@ VoicePlay("B140200100_02_020");
 MsgDisp("Sassa","It's strange. Even though we spent all of
 yesterday and today together, I find
 myself wanting more time.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -42,7 +42,7 @@ with emotion, so I'm sorry if I said
 something strange.");
 MsgDisp("主人公","No. That's because that was the ground
 where you packed three years of hard work
-into, ｛颯砂＊＊｝.");
+into, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -79,7 +79,7 @@ VoicePlay("B140200100_02_080");
 MsgDisp("Sassa","That's why I want to be your strength and
 your support too.
 Those are my honest feelings.");
-MsgDisp("主人公","Yeah...thank you, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Yeah...thank you, ｛Sassa＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250100000_01_000");
     MsgDisp("Kazama","Yo.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -65,7 +65,7 @@ section on fly fishing magazines?)");
     ChOpen(1,255,0,0,3,#1,#1,0,0);
     VoicePlay("I250100000_01_060");
     MsgDisp("Kazama","Good response.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Did you come to check on me?");
     ChEye(1,0);
     ChMouth(1,0);
@@ -104,7 +104,7 @@ So, I'll come again.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hehe, looks like ｛風真＊＊｝ is going to
+    MsgDisp("主人公","(Hehe, looks like ｛Kazama＊＊｝ is going to
 come check on me again.)");
     break ;
     case 4:
@@ -114,7 +114,7 @@ Everything in this box, huh...
 There...ugh, heavy.");
     VoicePlay("I250100000_01_100");
     MsgDisp("Kazama?","Are you okay?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,255,0,4,2,#1,#1,0,0);
@@ -137,7 +137,7 @@ It's for the hobby magazine corner.");
     VoicePlay("I250100000_01_120");
     MsgDisp("Kazama","Is here okay?");
     MsgDisp("主人公","Yeah.
-Haa...thanks, ｛風真＊＊｝.
+Haa...thanks, ｛Kazama＊＊｝.
 You saved me.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -171,7 +171,7 @@ again next time.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(For the next time ｛風真＊＊｝ comes,
+    MsgDisp("主人公","(For the next time ｛Kazama＊＊｝ comes,
 let's stock a lot of fishing magazines.)");
     break ;
     default :

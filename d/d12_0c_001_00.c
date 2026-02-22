@@ -29,8 +29,8 @@ StlEye(5,0);
 StlMouth(5,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, ｛御影＊＊｝...
-And ｛氷室＊＊｝∋
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, ｛Mikage＊＊｝...
+And ｛Himuro＊＊｝∋
 Uhm, is everyone practicing surfing?");
 StlEye(5,1);
 VoicePlay("D120C00100_05_010");

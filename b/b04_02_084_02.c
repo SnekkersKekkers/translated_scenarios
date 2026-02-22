@@ -64,7 +64,7 @@ of those scenarios.");
         MsgDisp("Sassa","I can't win against ghosts, but if it's a
 physical fight...
 I might stand a chance.");
-        MsgDisp("主人公","｛颯砂＊＊｝, what's wrong?");
+        MsgDisp("主人公","｛Sassa＊＊｝, what's wrong?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

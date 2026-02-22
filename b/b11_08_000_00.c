@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛大地＊＊｝ still isn't here...)");
+MsgDisp("主人公","(｛Daichi＊＊｝ still isn't here...)");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
@@ -35,7 +35,7 @@ BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
 ChOpen(8,253,0,3,4,10,#1,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛大地＊＊｝ !");
+MsgDisp("主人公","｛Daichi＊＊｝ !");
 MsgDispSksp(1,5);
 VoicePlay("B110800000_08_010");
 MsgDisp("Shirahane","That girl is my girlfriend.");

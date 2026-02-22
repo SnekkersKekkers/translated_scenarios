@@ -77,7 +77,7 @@ and count to 10 together?");
         VoicePlay("B040703302_07_080");
         MsgDisp("Mikage","We're talking about adaptation.
 It's scary to get accustomed to things.");
-        MsgDisp("主人公","(...｛御影＊＊｝?)");
+        MsgDisp("主人公","(...｛Mikage＊＊｝?)");
         break ;
         default :
         DbgAssert(1);

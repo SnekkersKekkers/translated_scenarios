@@ -93,7 +93,7 @@ eyes closed.");
         MsgDisp("Kazama","Because you made me!
 Jeez, let's go!");
         ChClose(1);
-        MsgDisp("主人公","Oh, ｛風真＊＊｝, wait up.");
+        MsgDisp("主人公","Oh, ｛Kazama＊＊｝, wait up.");
         MsgDisp("主人公","(Did I do something to make him mad?)");
         break ;
         default :

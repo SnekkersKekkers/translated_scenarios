@@ -42,7 +42,7 @@ There then.");
         BGMStop();
         ChClose(6);
         Wait(30);
-        MsgDisp("主人公","(｛氷室＊＊｝ asked me out on a date.
+        MsgDisp("主人公","(｛Himuro＊＊｝ asked me out on a date.
 I'm looking forward to Sunday!)");
         break ;
         case 1:

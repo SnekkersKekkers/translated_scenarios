@@ -13,7 +13,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("O030401000_04_000");
     MsgDisp("Nanatsumori","...Ah.");
     MsgDisp("主人公","Oh.
-｛七ツ森＊｝!");
+｛Nanatsumori＊｝!");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,2,1);
@@ -39,7 +39,7 @@ Seriously...");
     ChOpen(4,30,0,2,1,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_030");
     MsgDisp("Nanatsumori","...Ugh.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 Do you want to be in the three-legged race
 with me?");
     ChEye(4,2);
@@ -65,7 +65,7 @@ Me and exercise are...");
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_060");
     MsgDisp("Nanatsumori","...Ah.");
-    MsgDisp("主人公","Oh, ｛七ツ森＊｝!
+    MsgDisp("主人公","Oh, ｛Nanatsumori＊｝!
 Do you want to-");
     ChEye(4,0);
     ChMouth(4,0);

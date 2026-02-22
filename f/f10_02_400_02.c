@@ -26,8 +26,8 @@ ChMotion(2,3);
 VoicePlay("F100240002_02_020");
 MsgDisp("Sassa","I'm just getting some advice from Inori.");
 MsgDisp("主人公","Amazing.
-Is ｛氷室＊＊｝ really your coach,
-｛颯砂＊＊｝?");
+Is ｛Himuro＊＊｝ really your coach,
+｛Sassa＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -78,7 +78,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 ChPosition(2,0);
-MsgDisp("主人公","｛氷室＊＊｝, seemed super happy.");
+MsgDisp("主人公","｛Himuro＊＊｝, seemed super happy.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -89,7 +89,7 @@ and holds back at first, but ultimately,
 he stayed with me until the end.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","I see...｛颯砂＊＊｝ and ｛氷室＊＊｝
+MsgDisp("主人公","I see...｛Sassa＊＊｝ and ｛Himuro＊＊｝
 understands each other. Amazing...");
 ChEye(2,0);
 ChMouth(2,4);

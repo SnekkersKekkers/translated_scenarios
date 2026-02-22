@@ -1,6 +1,6 @@
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, ｛風真＊＊｝.");
+MsgDisp("主人公","Oh, ｛Kazama＊＊｝.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,1,1,2,0,0,0,0);
@@ -9,4 +9,4 @@ MsgDisp("Kazama","...");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(｛風真＊＊｝ looked mad...)");
+MsgDisp("主人公","(｛Kazama＊＊｝ looked mad...)");

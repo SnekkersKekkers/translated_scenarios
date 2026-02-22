@@ -24,7 +24,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("H610700000_07_000");
     MsgDisp("Mikage","｛主人公｝, you joined the gardening club?");
     MsgDisp("主人公","Yes.
-｛御影＊＊｝, I'm looking forward to
+｛Mikage＊＊｝, I'm looking forward to
 working with you∈");
     ChEye(7,0);
     ChMouth(7,3);
@@ -49,7 +49,7 @@ You naturally become relaxed.");
     MsgDisp("Mikage","｛主人公｝, so you joined the gardening
 club.");
     MsgDisp("主人公","Yes.
-｛御影＊＊｝, I'm looking forward to
+｛Mikage＊＊｝, I'm looking forward to
 working with you.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -81,7 +81,7 @@ Looking forward to it.");
     VoicePlay("H610700000_07_070");
     MsgDisp("Mikage","Yo, I was waiting for you.");
     MsgDisp("主人公","Huh?
-｛御影＊＊｝, you were waiting for me?");
+｛Mikage＊＊｝, you were waiting for me?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

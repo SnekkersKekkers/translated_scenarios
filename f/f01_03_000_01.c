@@ -2,14 +2,14 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛本多＊＊｝.");
+    MsgDisp("主人公","｛Honda＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A",0.01);
     ChOpen(3,254,0,4,4,#1,#1,0,0);
     VoicePlay("F010300001_03_000");
     MsgDisp("Honda","...");
     MsgDisp("主人公","Huh?
-Um, ｛本多＊＊｝?");
+Um, ｛Honda＊＊｝?");
     ChEye(3,5);
     ChMouth(3,5);
     ChMotion(3,5);
@@ -23,7 +23,7 @@ Um, ｛本多＊＊｝?");
 I don't think he'll ever respond...)");
     break ;
     case 3:
-    MsgDisp("主人公","｛本多＊＊｝.");
+    MsgDisp("主人公","｛Honda＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A",0.01);
     ChOpen(3,254,5,5,4,#1,#1,0,0);
@@ -48,7 +48,7 @@ him that.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛本多＊＊｝.");
+    MsgDisp("主人公","｛Honda＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A",0.01);
     ChOpen(3,254,0,4,4,#1,#1,0,0);

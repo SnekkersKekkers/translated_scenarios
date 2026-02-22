@@ -27,7 +27,7 @@ ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
-MsgDisp("主人公","｛御影＊＊｝...are you alright?");
+MsgDisp("主人公","｛Mikage＊＊｝...are you alright?");
 ChEye(7,2);
 ChMouth(7,2);
 ChMotion(7,4);
@@ -110,7 +110,7 @@ ChClose(7,0,30);
 ChClose(6,0,30);
 ChClose(5,0,30);
 MsgDisp("主人公","(He left...
-I wonder if ｛御影＊＊｝ will be
+I wonder if ｛Mikage＊＊｝ will be
 alright...?)");
 BGMStop();
 MsgClose();

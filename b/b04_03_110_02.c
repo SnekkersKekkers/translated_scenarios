@@ -53,7 +53,7 @@ I'm starting to float a little you know?");
         MsgDisp("Honda","You're right, speed isn't the main issue
 here...
 But floating is the first step, right?");
-        MsgDisp("主人公","｛本多＊＊｝, you always look so relaxed
+        MsgDisp("主人公","｛Honda＊＊｝, you always look so relaxed
 floating, don't you?");
         ChEye(3,0);
         ChMouth(3,4);
@@ -64,7 +64,7 @@ Your words somewhat have a bite to them
 today.");
         MsgDisp("主人公","Eh, that's not what I meant!");
         MsgDisp("主人公","It's just that I think it's amazing that
-｛本多＊＊｝ enjoys even the things he's
+｛Honda＊＊｝ enjoys even the things he's
 bad at.");
         ChEye(3,0);
         ChMouth(3,3);

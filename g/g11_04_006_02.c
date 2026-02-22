@@ -1,6 +1,6 @@
 BGOpen("ar100",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Today ｛七ツ森＊｝ should be coming
+MsgDisp("主人公","(Today ｛Nanatsumori＊｝ should be coming
 soon...)");
 MsgDisp("主人公","(I can't stop thinking about the other
 night...)");
@@ -35,7 +35,7 @@ MsgDisp("主人公","No.
 Not at all.");
 MsgDisp("主人公","I can't forget how you dressed as a girl
 the other day after school,
-｛七ツ森＊｝...");
+｛Nanatsumori＊｝...");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("G110400602_04_050");
@@ -52,8 +52,8 @@ ChMotion(4,1);
 VoicePlay("G110400602_04_070");
 MsgDisp("Nanatsumori","That's strange.
 I wonder why you are so timid then.");
-MsgDisp("主人公","Well...The ｛七ツ森＊｝ and the
-｛七ツ森＊｝ now are two
+MsgDisp("主人公","Well...The ｛Nanatsumori＊｝ and the
+｛Nanatsumori＊｝ now are two
 different...people.");
 ChEye(4,2);
 ChMouth(4,2);

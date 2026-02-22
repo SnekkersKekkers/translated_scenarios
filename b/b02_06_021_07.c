@@ -13,4 +13,4 @@ MsgDisp("Himuro","Regardless of if it is or isn't, I can't
 complain.
 It fits you.");
 MsgDisp("主人公","(I'm glad!
-｛氷室＊＊｝ seems really pleased!)");
+｛Himuro＊＊｝ seems really pleased!)");

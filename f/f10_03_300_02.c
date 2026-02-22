@@ -10,7 +10,7 @@ VoiceEVSPlay(3);
 VoicePlay("F100330002_03_000");
 MsgDisp("Honda","｛主人公｝, are you going to the cafeteria
 today?");
-MsgDisp("主人公","Ah, you too, ｛本多＊＊｝?");
+MsgDisp("主人公","Ah, you too, ｛Honda＊＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -93,7 +93,7 @@ MsgDisp("Hikaru","Then come on, Mari, let's go together.");
 MsgDisp("主人公","Eh, me too∋");
 MsgDisp("主人公","(I got caught up in this...
 But, I hope this will be able to reach
-｛本多＊＊｝'s younger sister.)");
+｛Honda＊＊｝'s younger sister.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -1,6 +1,6 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you going to the beach
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝, are you going to the beach
 after this today too?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);

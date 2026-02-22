@@ -10,7 +10,7 @@ VoiceEVSPlay(5);
 VoicePlay("R080500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝, this is the last party here,
 huh.");
-MsgDisp("主人公","｛柊＊＊＊｝, were you able to enjoy it?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, were you able to enjoy it?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -39,7 +39,7 @@ ChEyeOpenLevel(5,8);
 VoicePlay("R080500000_05_040");
 MsgDisp("Hiiragi","I only thought about how guests would see
 it...");
-MsgDisp("主人公","Because you're an actor, ｛柊＊＊＊｝.");
+MsgDisp("主人公","Because you're an actor, ｛Hiiragi＊＊＊｝.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
@@ -49,7 +49,7 @@ VoicePlay("R080500000_05_050");
 MsgDisp("Hiiragi","Yeah, I never experienced being the guest.
 So of course I'd never understand how the
 guest would feel.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -78,7 +78,7 @@ StlEye(5,0);
 StlMouth(5,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh...
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("R080500000_05_080");
 MsgDisp("Hiiragi","It's a tree ornament that I couldn't

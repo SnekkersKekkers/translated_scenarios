@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("I250200000_02_000");
     MsgDisp("Sassa","｛主人公｝, good work.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Welcome.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -54,7 +54,7 @@ It's that.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ really likes dogs...)");
+    MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ really likes dogs...)");
     break ;
     case 3:
     VoicePlay("I250200000_02_060");
@@ -65,7 +65,7 @@ It's that.");
     ChOpen(2,255,3,3,3,0,#1,0,0);
     VoicePlay("I250200000_02_070");
     MsgDisp("Sassa","Haha, it's me.");
-    MsgDisp("主人公","Ah, it was you, ｛颯砂＊＊｝?");
+    MsgDisp("主人公","Ah, it was you, ｛Sassa＊＊｝?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -100,7 +100,7 @@ home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝, what are you studying?)");
+    MsgDisp("主人公","(｛Sassa＊＊｝, what are you studying?)");
     break ;
     case 4:
     case 5:
@@ -110,7 +110,7 @@ home.");
     VoiceEVSPlay(2);
     VoicePlay("I250200000_02_120");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, welcome, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Ah, welcome, ｛Sassa＊＊｝.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -132,7 +132,7 @@ Just you being here makes the store nicer.");
     MsgDisp("Sassa","Haa...
 I want to work part-time here, too.");
     MsgDisp("主人公","Huh?
-You, ｛颯砂＊＊｝, in a bookstore?");
+You, ｛Sassa＊＊｝, in a bookstore?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -140,7 +140,7 @@ You, ｛颯砂＊＊｝, in a bookstore?");
     MsgDisp("Sassa","You don't need to be so surprised.");
     MsgDisp("主人公","Hehe, sorry.
 But maybe I do want to see you wearing
-this apron, ｛颯砂＊＊｝.");
+this apron, ｛Sassa＊＊｝.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,0);
@@ -167,7 +167,7 @@ apron── I mean, the books, okay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Working with ｛颯砂＊＊｝ would make the
+    MsgDisp("主人公","(Working with ｛Sassa＊＊｝ would make the
 store really lively!)");
     break ;
     default :

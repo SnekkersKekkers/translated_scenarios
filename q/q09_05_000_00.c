@@ -7,7 +7,7 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","Good morning, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Good morning, ｛Hiiragi＊＊＊｝.");
     VoicePlay("Q090500000_05_000");
     MsgDisp("Hiiragi","Good morning.
 Let's go.");
@@ -17,7 +17,7 @@ Let's go.");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","Good morning, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Good morning, ｛Hiiragi＊＊＊｝.
 Early, aren't you?");
     ChMotion(5,4);
     VoicePlay("Q090500000_05_010");
@@ -42,7 +42,7 @@ Well, let's go!");
     VoiceEVSPlay(5);
     VoicePlay("Q090500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Sorry, did I keep you waiting?");
     VoicePlay("Q090500000_05_040");
     MsgDisp("Hiiragi","I waited, but waiting for excitement

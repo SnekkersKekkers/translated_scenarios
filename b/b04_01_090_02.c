@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040109002_01_000");
 MsgDisp("Kazama","Gardening was pretty popular in England,
 too.");
-MsgSel("Where they drink good tea in beautiful gardens, right?","I really admire English gardens","｛風真＊＊｝, can you also garden?");
+MsgSel("Where they drink good tea in beautiful gardens, right?","I really admire English gardens","｛Kazama＊＊｝, can you also garden?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -83,7 +83,7 @@ antique seller.");
         VoicePlay("B040109002_01_060");
         MsgDisp("Kazama","So maybe I could do it if I tried.
 Whether I want to or not is the question.");
-        MsgDisp("主人公","｛風真＊＊｝?");
+        MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,0);
@@ -126,7 +126,7 @@ Thank you.");
         MsgDisp("Kazama","Strangely enough, if you think something
 is amazing, then I feel like it must be
 okay after all.");
-        MsgDisp("主人公","(｛風真＊＊｝ seems a little troubled...)");
+        MsgDisp("主人公","(｛Kazama＊＊｝ seems a little troubled...)");
         break ;
         default :
         DbgAssert(1);

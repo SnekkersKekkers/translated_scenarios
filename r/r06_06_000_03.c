@@ -6,14 +6,14 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,34,0,0,0,#1,#1,0,0);
     VoicePlay("R060600003_06_000");
     MsgDisp("Himuro","Ah...you're the one who got it?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("R060600003_06_010");
     MsgDisp("Himuro","That's the present I brought.");
     MsgDisp("主人公","That's right!
-...Uh, ｛氷室＊＊｝, did you know you also
+...Uh, ｛Himuro＊＊｝, did you know you also
 got my present I brought?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -29,7 +29,7 @@ possible.");
     VoiceEVSPlay(6);
     VoicePlay("R060600003_06_030");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 What did you get?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -65,7 +65,7 @@ What a coincidence.");
     VoiceEVSPlay(6);
     VoicePlay("R060600003_06_080");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -79,7 +79,7 @@ What a coincidence.");
     VoicePlay("R060600003_06_100");
     MsgDisp("Himuro","That's the one I brought.
 I'm glad that you got it.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝, it seems you also got
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝, it seems you also got
 mine...");
     ChEye(6,4);
     ChMouth(6,0);

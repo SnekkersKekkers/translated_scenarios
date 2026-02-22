@@ -84,7 +84,7 @@ stuff like school events.");
     VoicePlay("Q120400000_04_110");
     MsgDisp("Nanatsumori","I wondered if you actually wanted to go
 around to other places.");
-    MsgDisp("主人公","And you, ｛七ツ森＊｝?");
+    MsgDisp("主人公","And you, ｛Nanatsumori＊｝?");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_120");
     MsgDisp("Nanatsumori","Eh?");
@@ -101,7 +101,7 @@ I really appreciate you being with me.");
     VoicePlay("Q120400000_04_140");
     MsgDisp("Nanatsumori","｛主人公｝...thank you.");
     MsgDisp("主人公","That's my line.
-Thank you, ｛七ツ森＊｝.");
+Thank you, ｛Nanatsumori＊｝.");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,2,1);

@@ -136,7 +136,7 @@ MsgDisp("Mikage","They do seem to have many to give.
 So, you aren't interested?
 In the souvenirs.");
 MsgDisp("主人公","Yes, but only as a gift for my family.
-And you, ｛御影＊＊｝?");
+And you, ｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

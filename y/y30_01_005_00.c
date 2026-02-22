@@ -44,7 +44,7 @@ SEWait();
 SEPlay("EV_SE_002");
 SEWait();
 MsgDisp("主人公","\"This is the English lunch plate
-｛風真＊＊｝ once treated me to.\"");
+｛Kazama＊＊｝ once treated me to.\"");
 MsgDisp("","Bacon, mushroom, eggs, baked beans,
 grilled tomatoes and fried fish.");
 MsgClear();
@@ -57,7 +57,7 @@ MsgDisp("主人公","\"...Hey, is it good?\"");
 MsgClear();
 MsgDisp("","I nodded greatly, and softly put a
 hand on ｛主人公名前｝'s head.'");
-MsgDisp("主人公","\"｛風真＊＊｝...?\"");
+MsgDisp("主人公","\"｛Kazama＊＊｝...?\"");
 VoicePlay("Y300100500_01_030");
 MsgDisp("Kazama","\"It's truly delicious...\"");
 MsgClear();
@@ -70,7 +70,7 @@ MsgClear();
 BGOpen("ad151",0);
 ScrFadeIn(0);
 MsgDisp("主人公","\"Your room is just the same as it was
-in elementary school, ｛風真＊＊｝. \"");
+in elementary school, ｛Kazama＊＊｝. \"");
 VoicePlay("Y300100500_01_040");
 MsgDisp("Kazama","\"I've been thinking about changing it
 up a little though.\"");

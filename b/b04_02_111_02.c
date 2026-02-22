@@ -85,7 +85,7 @@ If you drink it, you'll have breathe a
         VoicePlay("B040211102_02_070");
         MsgDisp("Sassa","Huh...
 I thought that was funny though...");
-        MsgDisp("主人公","(｛颯砂＊＊｝...?
+        MsgDisp("主人公","(｛Sassa＊＊｝...?
 Was that a pun?)");
         break ;
         default :

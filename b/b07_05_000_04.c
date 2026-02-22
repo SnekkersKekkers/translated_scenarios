@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛柊＊＊＊｝, do you listen to music?
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, do you listen to music?
 Is there a type you like?");
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -16,7 +16,7 @@ VoicePlay("B070500000_05_170");
 MsgDisp("Hiiragi","A member of the troupe recommended it to
 me, so I tried to give it a listen.");
 MsgDisp("主人公","Hehe, it would definitely be surprising if
-｛柊＊＊＊｝ liked rap music.");
+｛Hiiragi＊＊＊｝ liked rap music.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B070500000_05_180");
@@ -29,7 +29,7 @@ VoicePlay("B070500000_05_190");
 MsgDisp("Hiiragi","It's alright.
 But, you know, something might come out of
 the mismatch?");
-MsgDisp("主人公","(｛柊＊＊＊｝ is interested in rap...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is interested in rap...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

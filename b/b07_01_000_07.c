@@ -1,4 +1,4 @@
-MsgDisp("主人公","What's ｛風真＊＊｝'s dreams for the future?");
+MsgDisp("主人公","What's ｛Kazama＊＊｝'s dreams for the future?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -24,7 +24,7 @@ VoicePlay("B070100000_01_390");
 MsgDisp("Kazama","I want to help my father with the antique
 business.");
 MsgDisp("主人公","If you were to help him, I'm sure your dad
-would have peace of mind, ｛風真＊＊｝.");
+would have peace of mind, ｛Kazama＊＊｝.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -32,7 +32,7 @@ VoicePlay("B070100000_01_400");
 MsgDisp("Kazama","What's up with that textbook response?
 You're saying it so casuallyー.");
 MsgDisp("主人公","Eh?
-I think ｛風真＊＊｝ will be able to make
+I think ｛Kazama＊＊｝ will be able to make
 any of his dreams come true though.");
 ChEye(1,4);
 ChMouth(1,4);

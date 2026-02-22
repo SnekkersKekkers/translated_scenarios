@@ -54,7 +54,7 @@ It sucks, but it can't be helped.");
     VoicePlay("F010100006_01_040");
     MsgDisp("Kazama","You give up too easily.");
     MsgDisp("主人公","Huh?
-But, doesn't ｛風真＊＊｝ have errands to
+But, doesn't ｛Kazama＊＊｝ have errands to
 run?");
     ChMotion(1,3);
     ChEyeOpenLevel(1,0);

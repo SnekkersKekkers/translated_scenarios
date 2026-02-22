@@ -29,7 +29,7 @@ VoiceEVSPlay(1);
 VoicePlay("F100110001_01_000");
 MsgDisp("Kazama","What's wrong, ｛主人公｝?
 Are you not feeling well?");
-MsgDisp("主人公","Oh, ｛風真＊＊｝.
+MsgDisp("主人公","Oh, ｛Kazama＊＊｝.
 Why do you ask?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -76,7 +76,7 @@ BGMStop();
 ChClose(1);
 VoicePlay("F100110001_01_060");
 MsgDisp("Kazama","Hurry up.");
-MsgDisp("主人公","(I guess ｛風真＊＊｝ figured it out?
+MsgDisp("主人公","(I guess ｛Kazama＊＊｝ figured it out?
 I won't ask him about it...)");
 MsgClose();
 ScrFadeOut(0,0);

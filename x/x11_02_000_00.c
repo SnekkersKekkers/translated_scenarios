@@ -39,7 +39,7 @@ Everyone worked really hard!");
     MsgDisp("Sassa","With a manager like you, the players can
 do their best.");
     MsgDisp("主人公","(Yay!
-｛颯砂＊＊｝ complimented me!)");
+｛Sassa＊＊｝ complimented me!)");
     break ;
     default :
     DbgAssert(1);

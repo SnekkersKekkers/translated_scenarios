@@ -5,7 +5,7 @@ ChMotion(7,3);
 VoicePlay("B070700000_07_490");
 MsgDisp("Mikage","Go on.");
 MsgDisp("主人公","What do you think about love,
-｛御影＊＊｝?");
+｛Mikage＊＊｝?");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -48,7 +48,7 @@ ChMotion(7,1);
 VoicePlay("B070700000_07_550");
 MsgDisp("Mikage","Maybe it's close for me?");
 MsgDisp("主人公","(I feel like I've seen a surprising side
-to ｛御影＊＊｝...)");
+to ｛Mikage＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

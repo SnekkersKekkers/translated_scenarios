@@ -15,7 +15,7 @@ ChOpen(2,41,0,0,4,#1,#1,0,0);
 VoicePlay("G110200702_02_000");
 MsgDisp("Sassa","Apparently Mikage-sensei arranged it.
 As expected of him.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 I see.
 He's actually quite reliable, huh.");
 ChEye(2,3);

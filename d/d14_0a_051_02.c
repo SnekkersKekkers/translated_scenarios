@@ -102,7 +102,7 @@ VoicePlay("D140A05102_06_040");
 MsgDisp("Himuro","Haa.. please do as you'd like.
 Right?");
 MsgDisp("主人公","Hehe, yeah.
-｛風真＊＊｝ and ｛颯砂＊＊｝ are the ones
+｛Kazama＊＊｝ and ｛Sassa＊＊｝ are the ones
 who are fidgety, aren't they?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -127,7 +127,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D140A05102_06_050");
 MsgDisp("Himuro","Thank you very much.");
-MsgDisp("主人公","(｛風真＊＊｝ and ｛颯砂＊＊｝ are worried
+MsgDisp("主人公","(｛Kazama＊＊｝ and ｛Sassa＊＊｝ are worried
 about me...)");
 BGMStop();
 MsgClose();

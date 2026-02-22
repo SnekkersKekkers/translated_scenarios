@@ -35,7 +35,7 @@ VoicePlay("G020510400_05_050");
 MsgDisp("Hiiragi","The fireflies are doing their best too.
 I need to shine brightly as well.
 So that you might choose me.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 VoicePlay("G020510400_05_060");
 MsgDisp("Hiiragi","Someday, if I can see this place simply as
@@ -46,7 +46,7 @@ VoicePlay("G020510400_05_070");
 MsgDisp("Hiiragi","For now it's no good.
 It appears I'm emotionally invested in a
 single firefly...");
-MsgDisp("主人公","(Today, I have a feeling ｛柊＊＊＊｝ is
+MsgDisp("主人公","(Today, I have a feeling ｛Hiiragi＊＊＊｝ is
 different to usual...)");
 BGMStop();
 MsgClose();

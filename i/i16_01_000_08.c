@@ -59,7 +59,7 @@ Feels good being this efficient.");
     VoicePlay("I160100008_01_040");
     MsgDisp("Kazama","I'll be counting on you, my dear partner?");
     MsgDisp("主人公","(I did it!
-To have ｛風真＊＊｝ call me his partner,
+To have ｛Kazama＊＊｝ call me his partner,
 I'm glad I've worked hard until now!)");
     break ;
     case 4:
@@ -133,7 +133,7 @@ open a store with me?");
     VoicePlay("I160100008_01_110");
     MsgDisp("Kazama","If you think that way, I'll definitely
 make it happen.");
-    MsgDisp("主人公","(｛風真＊＊｝ is saying he approves of me,
+    MsgDisp("主人公","(｛Kazama＊＊｝ is saying he approves of me,
 right?
 I'm glad I worked hard!)");
     break ;

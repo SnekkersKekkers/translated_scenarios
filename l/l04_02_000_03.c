@@ -79,7 +79,7 @@ You put some effort in.");
     VoicePlay("L040200003_02_080");
     MsgDisp("Sassa","It's more than that.
 It looks good enough to sell.");
-    MsgDisp("主人公","｛颯砂＊＊｝, you're praising me too much.");
+    MsgDisp("主人公","｛Sassa＊＊｝, you're praising me too much.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -116,7 +116,7 @@ tired, then eat it. That's fine, right?");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(｛颯砂＊＊｝ exaggerated a bit...
+    MsgDisp("主人公","(｛Sassa＊＊｝ exaggerated a bit...
 But he seemed really happy!
 Thank goodness.)");
     break ;

@@ -5,7 +5,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛風真＊＊｝!");
+    MsgDisp("主人公","｛Kazama＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -14,7 +14,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("K010100100_01_000");
     MsgDisp("Kazama","What is it?
 You're a noisy one.");
-    MsgDisp("主人公","What, it's ｛風真＊＊｝'s birthday today,
+    MsgDisp("主人公","What, it's ｛Kazama＊＊｝'s birthday today,
 right?
 Happy birthday.");
     SEPlay("EV_SE_664");
@@ -30,7 +30,7 @@ Anyways, do you want to open it?");
     break ;
     case 3:
     MsgDisp("主人公","Ah, he's here.
-｛風真＊＊｝!");
+｛Kazama＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -56,7 +56,7 @@ Anyways, do you want to open it?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛風真＊＊｝!");
+    MsgDisp("主人公","｛Kazama＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

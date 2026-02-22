@@ -2,7 +2,7 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛柊＊＊＊｝.");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,254,0,0,0,#1,#1,0,0);
@@ -19,7 +19,7 @@ He doesn't seem to like it when I call him
 that.)");
     break ;
     case 3:
-    MsgDisp("主人公","｛柊＊＊＊｝.");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,254,0,2,2,#1,#1,0,0);
@@ -41,7 +41,7 @@ that.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛柊＊＊＊｝.");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,254,4,2,4,#1,#1,0,0);

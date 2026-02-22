@@ -13,7 +13,7 @@ ChOpen(8,255,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("K020800000_08_000");
 MsgDisp("Shirahane","Heheh, evenin'～!");
-MsgDisp("主人公","｛大地＊＊｝!?
+MsgDisp("主人公","｛Daichi＊＊｝!?
 What is it?");
 VoicePlay("K020800000_08_010");
 MsgDisp("Shirahane","Today's your birthday, isn't it?
@@ -49,6 +49,6 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);
 BGMStop();
 ChClose(8,0,30);
-MsgDisp("主人公","(I got a present from ｛大地＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛Daichi＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

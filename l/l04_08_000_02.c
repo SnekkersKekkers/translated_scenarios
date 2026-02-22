@@ -46,7 +46,7 @@ gift, too!");
     MsgDisp("Shirahane","All good.
 S'what I wanna do.
 Thanks▼");
-    MsgDisp("主人公","(｛大地＊＊｝ seemed happy.
+    MsgDisp("主人公","(｛Daichi＊＊｝ seemed happy.
 Thank goodness!)");
     break ;
     case 4:
@@ -65,7 +65,7 @@ It's the chocolates on Habatcher...");
     VoicePlay("L040800002_08_060");
     MsgDisp("Shirahane","For me...?");
     MsgDisp("主人公","Yes.
-Just for you, ｛大地＊＊｝.");
+Just for you, ｛Daichi＊＊｝.");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,2,1);

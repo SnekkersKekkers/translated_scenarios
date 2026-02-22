@@ -38,7 +38,7 @@ ChMotion(7,2);
 VoicePlay("B330C20301_07_000");
 MsgDisp("Mikage","Come to think of it, you were glancing at
 the shop windows weren't you?");
-MsgDisp("主人公","｛柊＊＊＊｝, is there something you wanted
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, is there something you wanted
 to buy?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -82,7 +82,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20301_05_050");
 MsgDisp("Hiiragi","I didn't notice I was smiling though.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);

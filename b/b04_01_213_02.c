@@ -99,7 +99,7 @@ Well, I guess that can't be helped");
         VoicePlay("B040121302_01_090");
         MsgDisp("Kazama","Still, it's kind of annoying when she just
 casually licked you...");
-        MsgDisp("主人公","(｛風真＊＊｝, really is a neat freak huh?)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, really is a neat freak huh?)");
         break ;
         default :
         DbgAssert(1);

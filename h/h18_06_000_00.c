@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H180600000_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","｛氷室＊＊｝!
+    MsgDisp("主人公","｛Himuro＊＊｝!
 You came to cheer us on?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -39,7 +39,7 @@ I'll look forward to it.");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H180600000_06_040");
     MsgDisp("Himuro","It's finally time.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
 Did you come to cheer us on?");
     ChEye(6,0);
     ChMouth(6,0);

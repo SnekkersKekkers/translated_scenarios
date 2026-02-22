@@ -2,7 +2,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛風真＊＊｝.");
+    MsgDisp("主人公","｛Kazama＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,254,0,0,2,8,#1,0,0);
@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
 I guess I shouldn't call him that...)");
     break ;
     case 3:
-    MsgDisp("主人公","｛風真＊＊｝.");
+    MsgDisp("主人公","｛Kazama＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,254,0,0,2,8,#1,0,0);
@@ -25,7 +25,7 @@ called this.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛風真＊＊｝.");
+    MsgDisp("主人公","｛Kazama＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,254,0,2,2,#1,#1,0,0);

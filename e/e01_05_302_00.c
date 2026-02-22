@@ -14,7 +14,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,4,0,2,#1,#1,0,1);
 ChOpen(1,255,1,0,2,#1,#1,0,2);
-MsgDisp("主人公","｛柊＊＊＊｝, ｛風真＊＊｝!");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, ｛Kazama＊＊｝!");
 ChMotion(1,0);
 Wait(30,1);
 ChEye(5,0);
@@ -58,7 +58,7 @@ ChMotion(5,0);
 VoicePlay("E010530200_05_030");
 MsgDisp("Hiiragi","I asked Kazama-kun to help repair our
 props.");
-MsgDisp("主人公","Wow, ｛風真＊＊｝, you're able to do that
+MsgDisp("主人公","Wow, ｛Kazama＊＊｝, you're able to do that
 too?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);

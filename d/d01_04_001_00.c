@@ -4,9 +4,9 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","Ah...
-｛七ツ森＊｝ sent me a message.");
+｛Nanatsumori＊｝ sent me a message.");
 MsgDisp("主人公","\"I'm at the park nearby\" ...
-Eh, ｛七ツ森＊｝, is around here∋");
+Eh, ｛Nanatsumori＊｝, is around here∋");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -24,7 +24,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChNanaType(1);
 ChOpen(4,35,0,4,3,#1,#1,0,0,0,60);
-MsgDisp("主人公","｛七ツ森＊｝!
+MsgDisp("主人公","｛Nanatsumori＊｝!
 It's because you surprised me...");
 ChEye(4,0);
 ChMouth(4,3);
@@ -105,7 +105,7 @@ MsgDisp("Nanatsumori","And, turns out it's really delicious so I
 wanted to hurry here and share it with
 you.");
 MsgDisp("主人公","I see.
-｛七ツ森＊｝, thank you.");
+｛Nanatsumori＊｝, thank you.");
 StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0,1);
@@ -170,13 +170,13 @@ VoicePlay("D010400100_04_170");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","See you later.
 ｛主人公｝, good night.");
-MsgDisp("主人公","Good night, ｛七ツ森＊｝.");
+MsgDisp("主人公","Good night, ｛Nanatsumori＊｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(4,0,30);
 MsgDisp("主人公","(The sweets were delicious but...
-Feeling ｛七ツ森＊｝'s hand on my cheek
+Feeling ｛Nanatsumori＊｝'s hand on my cheek
 made my heart race like crazy...)");
 MsgClose();
 ScrFadeOut(0,0);

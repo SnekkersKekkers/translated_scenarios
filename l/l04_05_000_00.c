@@ -5,7 +5,7 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A");
     ChOpen(5,254,0,0,0,#1,#1,0,0);
@@ -17,7 +17,7 @@ Valentine's chocolate.");
     SEWait();
     break ;
     case 3:
-    MsgDisp("主人公","｛柊＊＊＊｝!");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
@@ -30,7 +30,7 @@ Valentine's chocolate.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A");
     ChOpen(5,254,0,4,4,#1,#1,0,0);

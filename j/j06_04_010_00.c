@@ -17,14 +17,14 @@ Sound good?");
         VoicePlay("J060401000_04_010");
         MsgDisp("Nanatsumori","OK.
 Don't oversleep on Sunday.");
-        MsgDisp("主人公","Worry about yourself, ｛七ツ森＊｝!");
+        MsgDisp("主人公","Worry about yourself, ｛Nanatsumori＊｝!");
         VoicePlay("J060401000_04_020");
         MsgDisp("Nanatsumori","True.
 Don't worry about it.
 See you then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(｛七ツ森＊｝ asked me out on a date.
+        MsgDisp("主人公","(｛Nanatsumori＊｝ asked me out on a date.
 I'm looking forward to Sunday!)");
         break ;
         default :

@@ -47,7 +47,7 @@ Maybe I'm wrong...");
         MsgDisp("Sassa","Mo, I guess it's a bit weird...
 If it's only a small change, you wouldn't
 be able to tell at a glance.");
-        MsgDisp("主人公","｛颯砂＊＊｝?");
+        MsgDisp("主人公","｛Sassa＊＊｝?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
@@ -109,7 +109,7 @@ That's all you need to do!");
         MsgDisp("Sassa","Oh!
 I guess it's almost time for the grand
 finale?");
-        MsgDisp("主人公","(If I want to help ｛颯砂＊＊｝ I need to
+        MsgDisp("主人公","(If I want to help ｛Sassa＊＊｝ I need to
 support him even more!)");
         SEStop("EV_SE_534",1);
         SEStop("EV_SE_527",1);

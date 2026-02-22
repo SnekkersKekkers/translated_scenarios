@@ -47,7 +47,7 @@ I'll show you to your seat.");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350700000_07_030");
     MsgDisp("Mikage","Oh, there you are.");
-    MsgDisp("主人公","｛御影＊＊｝, you came!");
+    MsgDisp("主人公","｛Mikage＊＊｝, you came!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -78,7 +78,7 @@ Please sit wherever you'd like.");
     VoicePlay("I350700000_07_060");
     MsgDisp("Mikage","｛主人公｝.
 A refill, please.");
-    MsgDisp("主人公","Ah, yes. ...｛御影＊＊｝, you're taking it
+    MsgDisp("主人公","Ah, yes. ...｛Mikage＊＊｝, you're taking it
 quite slow today.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -114,7 +114,7 @@ near it?");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350700000_07_100");
     MsgDisp("Mikage","Yo, you're working, huh.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
@@ -155,7 +155,7 @@ Thank you for your continued patronage.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(ALright!
-｛御影＊＊｝ ate a lot of delicious
+｛Mikage＊＊｝ ate a lot of delicious
 cakes.)");
     MsgClose();
     ScrFadeOut(0,0);

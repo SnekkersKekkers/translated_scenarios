@@ -11,7 +11,7 @@ ChOpen(2,254,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200002_02_000");
 MsgDisp("Sassa","｛主人公｝, congratulations.");
-MsgDisp("主人公","｛颯砂＊＊｝, were you watching?");
+MsgDisp("主人公","｛Sassa＊＊｝, were you watching?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -40,7 +40,7 @@ MsgDisp("Sassa","I'm glad. It would be a shame if it was
 only a one time thing, so wear it to the
 christmas party too!");
 MsgDisp("主人公","(Yay, a huge success!
-｛颯砂＊＊｝ praised me!)");
+｛Sassa＊＊｝ praised me!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

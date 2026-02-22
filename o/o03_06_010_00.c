@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030601000_06_000");
     MsgDisp("Himuro","You don't have a partner?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Yeah, not yet.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -29,7 +29,7 @@ Thanks.");
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030601000_06_020");
     MsgDisp("Himuro","Are you looking for a partner?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
 Yeah, I am.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -56,7 +56,7 @@ with you.");
     VoicePlay("O030601000_06_040");
     MsgDisp("Himuro","Haa...
 I finally found you.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

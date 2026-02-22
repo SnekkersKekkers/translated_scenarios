@@ -9,7 +9,7 @@ VoicePlay("B040521100_05_000");
 MsgDisp("Hiiragi","As expected of Habtaki Zoo.
 It's abundant in both variety and
 quantity.");
-MsgSel("I want to see more up close!","Let's take a picture with the animals!","｛柊＊＊＊｝, do you have somewhere you want to see?");
+MsgSel("I want to see more up close!","Let's take a picture with the animals!","｛Hiiragi＊＊＊｝, do you have somewhere you want to see?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

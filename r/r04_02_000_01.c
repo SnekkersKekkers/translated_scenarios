@@ -50,7 +50,7 @@ You have a different atmosphere from
 always, so my heart raced.");
     MsgDisp("主人公","Hehe.
 Have I already said you also look cool,
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

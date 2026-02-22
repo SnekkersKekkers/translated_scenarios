@@ -1,2 +1,2 @@
-MsgDisp("主人公","I hope ｛風真＊＊｝ and I will get along
+MsgDisp("主人公","I hope ｛Kazama＊＊｝ and I will get along
 better.");

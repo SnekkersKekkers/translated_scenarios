@@ -27,7 +27,7 @@ MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Ah...
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
 VoicePlay("D010400700_04_010");
 MsgDisp("Nanatsumori","Your face is really pale.");
 MsgClose();
@@ -53,7 +53,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","∈");
 VoicePlay("D010400700_04_030");
 MsgDisp("Nanatsumori","You don't have a fever...");
-MsgDisp("主人公","｛七ツ森＊｝, there are people here——");
+MsgDisp("主人公","｛Nanatsumori＊｝, there are people here——");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400700_04_040");
@@ -121,7 +121,7 @@ ChClose(4,0,30);
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","Ahh～!
-｛七ツ森＊｝ ～∋");
+｛Nanatsumori＊｝ ～∋");
 SEWait();
 MsgClose();
 PlPrmTblAdd(70);

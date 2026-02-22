@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,2,4,#1,#1,0,0,0,30);
     VoicePlay("H480500000_05_000");
     MsgDisp("Hiiragi","Ah, I've finally found you.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!
 Did you come to watch me?");
     ChEye(5,3);
     ChMouth(5,4);
@@ -37,7 +37,7 @@ way down to the very tips of your fingers
 in your performance, inspires me.");
     MsgDisp("主人公","Thank you.
 But, hearing you say that is starting to
-make me a little nervous, ｛柊＊＊＊｝...");
+make me a little nervous, ｛Hiiragi＊＊＊｝...");
     ChEye(5,3);
     VoicePlay("H480500000_05_040");
     MsgDisp("Hiiragi","Haha, you've already received a perfect

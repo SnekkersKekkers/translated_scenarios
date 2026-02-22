@@ -71,7 +71,7 @@ MsgDisp("Himuro","Who are you looking at?
 Is it one of those two?
 Or someone else?");
 MsgDisp("主人公","Right now...
-I'm looking at ｛氷室＊＊｝.");
+I'm looking at ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -91,7 +91,7 @@ VoicePlay("B360650101_06_110");
 MsgDisp("Himuro","...Thanks.
 I almost lost sight of something
 important.");
-MsgDisp("主人公","(｛氷室＊＊｝...)");
+MsgDisp("主人公","(｛Himuro＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

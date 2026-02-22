@@ -13,7 +13,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("S060200000_02_000");
     MsgDisp("Sassa","Happy New Year.
 Are you ready?");
-    MsgDisp("主人公","｛颯砂＊＊｝, Happy New Year.
+    MsgDisp("主人公","｛Sassa＊＊｝, Happy New Year.
 Yep, I'm ready.");
     break ;
     case 3:
@@ -21,7 +21,7 @@ Yep, I'm ready.");
     VoiceEVSPlay(2);
     VoicePlay("S060200000_02_010");
     MsgDisp("Sassa","｛主人公｝, Happy New Year.");
-    MsgDisp("主人公","｛颯砂＊＊｝, Happy New Year.");
+    MsgDisp("主人公","｛Sassa＊＊｝, Happy New Year.");
     break ;
     case 4:
     case 5:

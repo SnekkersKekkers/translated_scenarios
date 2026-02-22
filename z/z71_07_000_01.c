@@ -13,7 +13,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863")MsgDisp("主人公","(Huh!?
-｛御影＊＊｝ is my teacher again this
+｛Mikage＊＊｝ is my teacher again this
 year!?)");
 ChEye(7,0);
 ChMouth(7,0);

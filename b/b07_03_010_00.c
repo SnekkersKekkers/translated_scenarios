@@ -83,7 +83,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 Wait(40,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝, thanks for walking me home.
+MsgDisp("主人公","｛Honda＊＊｝, thanks for walking me home.
 Um...are you okay?");
 ChEye(3,2);
 ChMouth(3,0);
@@ -101,7 +101,7 @@ stupid.");
 ChMotion(3,0);
 VoicePlay("B070301000_03_130");
 MsgDisp("Honda","See you around?");
-MsgDisp("主人公","(｛本多＊＊｝...)");
+MsgDisp("主人公","(｛Honda＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3,0,0);

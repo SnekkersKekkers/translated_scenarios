@@ -7,7 +7,7 @@ VoiceEVSPlay(5);
 VoicePlay("G110500500_05_000");
 MsgDisp("Hiiragi","｛主人公｝, I'll be a while so I'll lock
 the door.");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 I've finished, so I'll help.");
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -78,7 +78,7 @@ stall foods. And how Yakisoba differs in
 different places.");
 ChMouth(5,0);
 ChMotion(5,2);
-MsgDisp("主人公","(｛柊＊＊＊｝, It seems like you're more
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, It seems like you're more
 interested in Yakisoba than the festivals
 themselves...Maybe I should show him some
 B-grade gourmet food TV shows?)");

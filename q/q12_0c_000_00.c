@@ -21,7 +21,7 @@ VoicePlay("Q120C00000_05_010");
 MsgDisp("Hiiragi","\"Until home is the trip\"...
 Is it that thing?");
 MsgDisp("主人公","Hehe.
-｛御影＊＊｝ really likes promises.");
+｛Mikage＊＊｝ really likes promises.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -39,7 +39,7 @@ ChMotion(5,0);
 VoicePlay("Q120C00000_05_030");
 MsgDisp("Hiiragi","Thanks to you and Mikage-sensei, my first
 school trip became the best memory for me.");
-MsgDisp("主人公","｛柊＊＊＊｝ ...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ ...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -47,8 +47,8 @@ VoicePlay("Q120C00000_07_020");
 MsgDisp("Mikage","Good for you, Yanosuke. I pretended to be
 leading class, but I was also enjoying
 myself. Don't tell anyone, ok?");
-MsgDisp("主人公","(｛柊＊＊＊｝, ｛御影＊＊｝, Also thank
-you ｛氷室＊＊｝.
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, ｛Mikage＊＊｝, Also thank
+you ｛Himuro＊＊｝.
 It was a very enjoying school trip.)");
 MsgClose();
 ScrFadeOut(0,0);

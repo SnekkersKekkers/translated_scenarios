@@ -67,7 +67,7 @@ It's just a bit scary though.");
         MsgDisp("Kazama","Just how much is \"a bit\" is important
 though.
 If you scream too much, you're banned.");
-        MsgDisp("主人公","Hey, ｛風真＊＊｝.
+        MsgDisp("主人公","Hey, ｛Kazama＊＊｝.
 I'm gonna end up not being able to do
 anything?");
         ChMotion(1,2);
@@ -85,7 +85,7 @@ anything?");
         VoicePlay("B040123102_01_070");
         MsgDisp("Kazama","Then just change your scream to \"Waa—\",
 that should be fine.");
-        MsgDisp("主人公","(That's difficult, ｛風真＊＊｝...)");
+        MsgDisp("主人公","(That's difficult, ｛Kazama＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

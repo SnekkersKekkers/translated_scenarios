@@ -13,4 +13,4 @@ MsgDisp("Kazama","Yeah. Even though that fashion is
 difficult, you look very natural in it.
 Just as I'd expect.");
 MsgDisp("主人公","(Yay!
-｛風真＊＊｝ praised me!)");
+｛Kazama＊＊｝ praised me!)");

@@ -7,7 +7,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,30,0,0,0,#1,#1,0,0);
 VoicePlay("F100640000_06_000");
 MsgDisp("Himuro","Ah...");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Do you have PE now?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -23,7 +23,7 @@ ChPosition(6,1);
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,30,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","Ah, ｛風真＊＊｝.
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 What's up?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -54,7 +54,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(1);
 ChPosition(6,0);
-MsgDisp("主人公","Alright! ...｛氷室＊＊｝, see you later.");
+MsgDisp("主人公","Alright! ...｛Himuro＊＊｝, see you later.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -73,7 +73,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
 MsgDisp("主人公","Eh∋");
-MsgDisp("主人公","(｛氷室＊＊｝, were you angry...?)");
+MsgDisp("主人公","(｛Himuro＊＊｝, were you angry...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

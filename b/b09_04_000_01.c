@@ -9,7 +9,7 @@ VoicePlay("B090400000_04_000");
 MsgDisp("Nanatsumori","Hello.
 Where are you now?");
 MsgDisp("主人公","Huh?
-It's ｛七ツ森＊｝.");
+It's ｛Nanatsumori＊｝.");
 VoicePlay("B090400000_04_010");
 MsgDisp("Nanatsumori","We were supposed to go out today.
 There's no way I would forget.");

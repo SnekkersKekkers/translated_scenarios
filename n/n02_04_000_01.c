@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     VoicePlay("N020400001_04_000");
     MsgDisp("Nanatsumori","You're a smart girl, huh.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChMotion(4,1,1);
     VoicePlay("N020400001_04_010");
     MsgDisp("Nanatsumori","It's surprising.
@@ -23,7 +23,7 @@ glad I did my best!)");
     VoicePlay("N020400001_04_020");
     MsgDisp("Nanatsumori","So close.
 You're almost at the top.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("N020400001_04_030");
@@ -39,7 +39,7 @@ you'll be at the top, right?");
     VoicePlay("N020400001_04_040");
     MsgDisp("Nanatsumori","Among the top of our grade.
 Very cool.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -54,7 +54,7 @@ and introverted Nanatsumori, huh...");
 I won't win your heart...
 Whoops, see you.");
     MsgDisp("主人公","(I'll work a little harder too...!
-｛七ツ森＊｝, do your best!)");
+｛Nanatsumori＊｝, do your best!)");
     break ;
     default :
     DbgAssert(1);

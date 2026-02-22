@@ -19,7 +19,7 @@ We look forward to your next visit!");
     ChMotion(8,3,1);
     VoicePlay("I660800007_08_000");
     MsgDisp("Shirahane","That's our poster girl for ya.");
-    MsgDisp("主人公","Ah, ｛大地＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Daichi＊＊｝.");
     VoicePlay("I660800007_08_010");
     MsgDisp("Shirahane","That regular only comes when you're on
 shift, y'know?");
@@ -57,7 +57,7 @@ We look forward to your next visit!");
     ChOpen(8,35,0,3,4,10,#1,0,0);
     VoicePlay("I660800007_08_040");
     MsgDisp("Shirahane","So you've become our poster girl...");
-    MsgDisp("主人公","Ah, ｛大地＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Daichi＊＊｝.");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,2,1);

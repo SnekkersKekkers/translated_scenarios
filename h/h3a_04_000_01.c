@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("H3A0400001_04_000");
     MsgDisp("Nanatsumori","Good work.
 What, what's wrong?");
-    MsgDisp("主人公","｛七ツ森＊｝...");
+    MsgDisp("主人公","｛Nanatsumori＊｝...");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -31,7 +31,7 @@ club...)");
     VoicePlay("H3A0400001_04_020");
     MsgDisp("Nanatsumori","Yo.
 ...Oh my.");
-    MsgDisp("主人公","｛七ツ森＊｝...
+    MsgDisp("主人公","｛Nanatsumori＊｝...
 I couldn't win...");
     ChEye(4,0);
     ChMouth(4,0);
@@ -52,7 +52,7 @@ Grand prize.");
     VoicePlay("H3A0400001_04_050");
     MsgDisp("Nanatsumori","I mean I fell for you again!
 ...Don't make me say it, stupid.");
-    MsgDisp("主人公","(｛七ツ森＊｝...
+    MsgDisp("主人公","(｛Nanatsumori＊｝...
 Yeah, I lost, but I'm glad I stayed in the
 judo club.)");
     BGMStop();

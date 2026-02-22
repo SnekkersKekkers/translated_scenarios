@@ -23,7 +23,7 @@ ChMotion(2,0);
 VoicePlay("B040206402_02_020");
 MsgDisp("Sassa","Yeah, it's really cool.
 It's like they've mastered a skill");
-MsgDisp("主人公","｛颯砂＊＊｝ is a master too, though?");
+MsgDisp("主人公","｛Sassa＊＊｝ is a master too, though?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -45,7 +45,7 @@ ChMotion(2,3);
 VoicePlay("B040206402_02_050");
 MsgDisp("Sassa","Alright, in respect to that guy let's go
 buy some toppings!");
-MsgDisp("主人公","(｛颯砂＊＊｝, weren't you about to say
+MsgDisp("主人公","(｛Sassa＊＊｝, weren't you about to say
 something?)");
 MsgClose();
 ScrFadeOut(0,0);

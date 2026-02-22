@@ -118,7 +118,7 @@ Yeah, that's it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
     MsgDisp("主人公","(Distance? What does he mean...This year,
-｛風真＊＊｝ and I, will graduate
+｛Kazama＊＊｝ and I, will graduate
 together...)");
     break ;
     default :

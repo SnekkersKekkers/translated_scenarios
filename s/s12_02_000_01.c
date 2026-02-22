@@ -17,7 +17,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("S120200001_02_000");
     MsgDisp("Sassa","That was fun.");
     MsgDisp("主人公","Yeah.
-｛颯砂＊＊｝, thanks for walking me home.");
+｛Sassa＊＊｝, thanks for walking me home.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -35,7 +35,7 @@ See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ is amazing. He's working hard
+    MsgDisp("主人公","(｛Sassa＊＊｝ is amazing. He's working hard
 towards his goals already this year. I
 will too...!)");
     break ;
@@ -59,7 +59,7 @@ will too...!)");
     MsgDisp("Sassa","I actually wish I could spend more time
 with you. But it's not good to sprint so
 quickly beyond the starting point.");
-    MsgDisp("主人公","In ｛颯砂＊＊｝'s mind, even this is like a
+    MsgDisp("主人公","In ｛Sassa＊＊｝'s mind, even this is like a
 track event.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -104,7 +104,7 @@ See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(Ah, ｛颯砂＊＊｝ left...
+    MsgDisp("主人公","(Ah, ｛Sassa＊＊｝ left...
 I hope this year is fun too.)");
     break ;
     default :

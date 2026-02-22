@@ -8,7 +8,7 @@ VoicePlay("B040709001_07_000");
 MsgDisp("Mikage","Is that okay～? One sketch of something
 that catches your eye. This is today's
 assignment.");
-MsgSel("I'll draw a pretty flower!","I'll sketch ｛御影＊＊｝'s hair!","Would a flying butterfly be okay?");
+MsgSel("I'll draw a pretty flower!","I'll sketch ｛Mikage＊＊｝'s hair!","Would a flying butterfly be okay?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

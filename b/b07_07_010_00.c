@@ -47,7 +47,7 @@ ChEyeOpenLevel(7,8);
 VoicePlay("B070701000_07_050");
 MsgDisp("Mikage","...That's how it goes sometimes.
 Especially in love.");
-MsgDisp("主人公","｛御影＊＊｝...?");
+MsgDisp("主人公","｛Mikage＊＊｝...?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -85,7 +85,7 @@ VoicePlay("B070701000_07_100");
 MsgDisp("Mikage","So, you shouldn't think about it so
 seriously right?");
 MsgDisp("主人公","Yes...");
-MsgDisp("主人公","(It was weighing on ｛御影＊＊｝'s mind
+MsgDisp("主人公","(It was weighing on ｛Mikage＊＊｝'s mind
 that I had asked him about love before...)");
 BGMStop();
 MsgClose();

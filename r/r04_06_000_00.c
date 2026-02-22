@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,34,0,0,0,#1,#1,0,0);
     VoicePlay("R040600000_06_000");
     MsgDisp("Himuro","Hey.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
     ChEye(6,2);
     ChMouth(6,0);
     ChMotion(6,2);
@@ -18,7 +18,7 @@ switch (ChPrmGet(6,6)){
 You too?");
     MsgDisp("主人公","Hehe.
 I guess.
-Aren't you not, ｛氷室＊＊｝?");
+Aren't you not, ｛Himuro＊＊｝?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -30,7 +30,7 @@ Aren't you not, ｛氷室＊＊｝?");
     ChOpen(6,34,0,0,0,#1,#1,0,0);
     VoicePlay("R040600000_06_030");
     MsgDisp("Himuro","Oh, there you are.");
-    MsgDisp("主人公","Ah, you're here too, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, you're here too, ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -54,7 +54,7 @@ skip it.");
     VoiceEVSPlay(6);
     VoicePlay("R040600000_06_060");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Merry Christmas!");
     ChEye(6,0);
     ChMouth(6,0);

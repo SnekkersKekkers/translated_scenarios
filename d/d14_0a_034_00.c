@@ -107,7 +107,7 @@ MsgDisp("Himuro","Ugh...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
-MsgDisp("主人公","But ｛氷室＊＊｝, you go to the same school
+MsgDisp("主人公","But ｛Himuro＊＊｝, you go to the same school
 as us.");
 ChEye(1,2);
 ChMouth(1,3);

@@ -8,7 +8,7 @@ ChNanaType(1);
 ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("G110400600_04_000");
 MsgDisp("Nanatsumori","Hey.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
 ChEye(4,0);
 ChMouth(4,0);
@@ -71,7 +71,7 @@ MsgDisp("Nanatsumori","You're very lucky to see me because it's
 rare I look like that.");
 MsgDisp("主人公","(I guess it is pretty rare.
 I got to see the amazing model
-｛七ツ森＊｝?)");
+｛Nanatsumori＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

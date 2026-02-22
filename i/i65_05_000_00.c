@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I650500000_05_000");
     MsgDisp("Hiiragi","So it really was you.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Are you going on a trip?");
     VoicePlay("I650500000_05_010");
     MsgDisp("Hiiragi","Yes, I am visiting a patron who is
@@ -33,7 +33,7 @@ You've been working hard up until now.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(It must be hard on ｛柊＊＊＊｝, having to
+    MsgDisp("主人公","(It must be hard on ｛Hiiragi＊＊＊｝, having to
 travel far even at this hour...)");
     break ;
     case 3:
@@ -49,7 +49,7 @@ travel far even at this hour...)");
     MsgDisp("Hiiragi","｛主人公｝.
 So you're working again today.
 Good work.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, are you still working as
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, are you still working as
 well?");
     ChEye(5,2);
     ChMouth(5,4);
@@ -75,7 +75,7 @@ Haa...let us both work hard.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ seems tired...
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems tired...
 I hope I was able to distract him from his
 worries for a bit.)");
     break ;
@@ -92,7 +92,7 @@ worries for a bit.)");
     VoicePlay("I650500000_05_080");
     MsgDisp("Hiiragi","｛主人公｝, you're working hard again
 today.");
-    MsgDisp("主人公","Oh, ｛柊＊＊＊｝, did you walk here?");
+    MsgDisp("主人公","Oh, ｛Hiiragi＊＊＊｝, did you walk here?");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("I650500000_05_090");
@@ -127,7 +127,7 @@ smiling face.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(I'm so happy that ｛柊＊＊＊｝ said
+    MsgDisp("主人公","(I'm so happy that ｛Hiiragi＊＊＊｝ said
 something like that to me...
 Alright, let's work hard!)");
     break ;

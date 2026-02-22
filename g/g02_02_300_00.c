@@ -56,8 +56,8 @@ MsgDisp("Sassa","Sorry, sorry. But let's keep it a secret
 from them, okay? It'd be hilarious if you
 said exactly the same thing again.");
 MsgDisp("主人公","Hehe, yeah!");
-MsgDisp("主人公","(｛颯砂＊＊｝ really understands
-｛風真＊＊｝ and ｛氷室＊＊｝ huh......and
+MsgDisp("主人公","(｛Sassa＊＊｝ really understands
+｛Kazama＊＊｝ and ｛Himuro＊＊｝ huh......and
 me too.)");
 BGMStop();
 MsgClose();

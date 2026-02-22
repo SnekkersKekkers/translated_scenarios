@@ -34,7 +34,7 @@ VoicePlay("B360350100_03_030");
 MsgDisp("Honda","...But during the day there'll be tons of
 kids around.");
 MsgDisp("主人公","You'll probably get swarmed by them,
-｛本多＊＊｝.");
+｛Honda＊＊｝.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,5,1);
@@ -56,8 +56,8 @@ VoicePlay("B360350100_03_060");
 MsgDisp("Honda","Oh, and what if we invited Ryou-kun and
 Mi-kun along too?
 I'd love to see what they'd say about it.");
-MsgDisp("主人公","(Haha, the thought of ｛本多＊＊｝ and
-｛七ツ森＊｝ playing with kids...
+MsgDisp("主人公","(Haha, the thought of ｛Honda＊＊｝ and
+｛Nanatsumori＊｝ playing with kids...
 I can't quite picture it.)");
 BGMStop();
 MsgClose();

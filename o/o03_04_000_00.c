@@ -43,7 +43,7 @@ Guess we're compatible?");
     MsgDisp("Nanatsumori","Let's pair up again if we want to get
 first place in sports.");
     MsgDisp("主人公","(I did it!
-I got first place with ｛七ツ森＊｝!)");
+I got first place with ｛Nanatsumori＊｝!)");
     break ;
     case 4:
     case 5:
@@ -77,7 +77,7 @@ What am I saying...");
     MsgDisp("Nanatsumori","I get kinda happy and kinda nervous when
 we get along like this. My heart won't
 stop pounding...I'm in trouble.");
-    MsgDisp("主人公","(｛七ツ森＊｝...?
+    MsgDisp("主人公","(｛Nanatsumori＊｝...?
 I'm so happy we won first place!)");
     break ;
     default :

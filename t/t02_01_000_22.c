@@ -8,7 +8,7 @@ What's wrong?");
 ChEye(1,3);
 MsgDisp("主人公","I'm sorry, I can't put it into words...");
 MsgDisp("主人公","Thank you for always thinking of me.
-I also like ｛風真＊＊｝.");
+I also like ｛Kazama＊＊｝.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -19,7 +19,7 @@ MsgDisp("Kazama","That hug just now...
 Does that mean you'd be okay with it?
 Marrying me?");
 MsgDisp("主人公","Yeah.
-I've let down ｛風真＊＊｝ because I
+I've let down ｛Kazama＊＊｝ because I
 forgot so many things, I'm sorry.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -71,7 +71,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_690");
 MsgDisp("Kazama","——I'll definitely give it to you one
 day.");
-MsgDisp("主人公","｛風真＊＊｝...
+MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);

@@ -3,7 +3,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(5,30,5,3,2,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

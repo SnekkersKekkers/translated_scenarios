@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like I got here a little early...
 Huh?)");
-MsgDisp("主人公","｛氷室＊＊｝!
+MsgDisp("主人公","｛Himuro＊＊｝!
 You're already here?");
 BGMPlay("BGM_C06_INORI_A",0.01);
 switch (ChPrmGet(6,6)){

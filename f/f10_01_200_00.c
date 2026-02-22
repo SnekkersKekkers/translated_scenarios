@@ -9,7 +9,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","It's ｛風真＊＊｝ and ｛御影＊＊｝.
+MsgDisp("主人公","It's ｛Kazama＊＊｝ and ｛Mikage＊＊｝.
 What have you two been discussing?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -55,7 +55,7 @@ SEPlay("EV_SE_856");
 ChClose(1,0,30);
 ChClose(7,0,30);
 MsgDisp("主人公","(Haha.
-｛風真＊＊｝ sounds so earnest.
+｛Kazama＊＊｝ sounds so earnest.
 Living alone sounds like tough work...)");
 VoicePlay("F100120000_07_030");
 MsgDisp("Mikage","First of all, wash your clothes as

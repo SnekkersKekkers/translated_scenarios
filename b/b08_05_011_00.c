@@ -4,7 +4,7 @@ VoicePlay("B080501100_05_000");
 MsgDisp("Hiiragi","......");
 SEPlay("EV_SE_529");
 SEWait();
-MsgDisp("主人公","｛柊＊＊＊｝∋");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝∋");
 ChMotion(5,2);
 ChMouthOpenLevel(5,#1);
 VoicePlay("B080501100_05_010");

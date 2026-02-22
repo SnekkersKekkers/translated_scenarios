@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,30,0,0,0,#1,#1,0,0);
     VoicePlay("O040101000_01_000");
     MsgDisp("Kazama","Isn't this great?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 We're together.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -29,7 +29,7 @@ There's no way we're losing.");
     ChOpen(1,30,0,0,0,#1,#1,0,0);
     VoicePlay("O040101000_01_020");
     MsgDisp("Kazama","You're with me.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Let's do our best.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -62,7 +62,7 @@ Let's go!");
     VoicePlay("O040101000_01_060");
     MsgDisp("Kazama","Huh?
 So this is our destiny.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Are we on the same team?");
     ChEye(1,0);
     ChMouth(1,3);

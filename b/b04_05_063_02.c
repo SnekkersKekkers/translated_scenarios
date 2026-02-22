@@ -39,7 +39,7 @@ It's different to me.");
 I feel like the winter sea suits me
 better.");
         MsgDisp("主人公","Maybe.
-｛柊＊＊＊｝ suits the tense, crisp winter
+｛Hiiragi＊＊＊｝ suits the tense, crisp winter
 sea huh?");
         ChEye(5,4);
         ChMotion(5,2);
@@ -60,7 +60,7 @@ Once you touch it you can't let go—");
         MsgDisp("Hiiragi","...To the point I lose control of myself
 talking, that is your charm.");
         MsgDisp("主人公","(My charm...
-To hear ｛柊＊＊＊｝ say that makes me
+To hear ｛Hiiragi＊＊＊｝ say that makes me
 happy...)");
         break ;
         default :

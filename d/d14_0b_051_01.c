@@ -78,7 +78,7 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("D140B05101_03_040");
 MsgDisp("Honda","Our relationship...that's right...");
-MsgDisp("主人公","Hey, ｛本多＊＊｝...");
+MsgDisp("主人公","Hey, ｛Honda＊＊｝...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -112,7 +112,7 @@ ChMotion(3,3,1);
 VoicePlay("D140B05101_03_060");
 MsgDisp("Honda","Haha!
 So are you both jelly?");
-MsgDisp("主人公","(｛風真＊＊｝ and ｛七ツ森＊｝ are
+MsgDisp("主人公","(｛Kazama＊＊｝ and ｛Nanatsumori＊｝ are
 worried about us...?)");
 BGMStop();
 MsgClose();

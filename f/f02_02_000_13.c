@@ -33,7 +33,7 @@ VoicePlay("F020200013_02_030");
 MsgDisp("Sassa","That, and I'm sure there will be a huge
 bath. After an onsen, a sauna and a cold
 bath. It's the best.");
-MsgDisp("主人公","｛颯砂＊＊｝, you really like baths, huh?");
+MsgDisp("主人公","｛Sassa＊＊｝, you really like baths, huh?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -62,6 +62,6 @@ ChMotion(2,3);
 VoicePlay("F020200013_02_070");
 MsgDisp("Sassa","Woohoo!
 I'm excited for the trip!");
-MsgDisp("主人公","(｛颯砂＊＊｝...
+MsgDisp("主人公","(｛Sassa＊＊｝...
 Are you excited for the trip, or just the
 bath?)");

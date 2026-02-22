@@ -8,7 +8,7 @@ MsgDisp("Nanatsumori","Ahー...
 So that's it, huh.");
 SEPlay("EV_SE_529");
 SEWait();
-MsgDisp("主人公","｛七ツ森＊｝∋");
+MsgDisp("主人公","｛Nanatsumori＊｝∋");
 ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,2,1);

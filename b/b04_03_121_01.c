@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("B040312101_03_000");
 MsgDisp("Honda","Those handmade accessories are amazingly
 well-made.");
-MsgSel("I wonder if I should try making some too?","Are you going to buy it?","Why don't you try making some too, ｛本多＊＊｝?");
+MsgSel("I wonder if I should try making some too?","Are you going to buy it?","Why don't you try making some too, ｛Honda＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

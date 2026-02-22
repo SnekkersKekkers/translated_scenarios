@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040817000_08_000");
 MsgDisp("Shirahane","Umm...
 What should we start with?");
-MsgSel("I want to hear ｛大地＊＊｝'s beautiful voice.","Let's sing a duet together!","Please listen to my song.");
+MsgSel("I want to hear ｛Daichi＊＊｝'s beautiful voice.","Let's sing a duet together!","Please listen to my song.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

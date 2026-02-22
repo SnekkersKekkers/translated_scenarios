@@ -40,7 +40,7 @@ ChMotion(8,0,1);
 VoicePlay("B050800200_08_050");
 MsgDisp("Shirahane","...I thought ya would say that.
 Since you're kind.");
-MsgDisp("主人公","｛大地＊＊｝.
+MsgDisp("主人公","｛Daichi＊＊｝.
 Why would you say something like that?");
 ChEye(8,3);
 ChMouth(8,4);
@@ -72,12 +72,12 @@ MsgDisp("Shirahane","These are autumn fireflies. They hang on
 strongly until the last minute and
 survive. With all they've got.");
 MsgDisp("主人公","Hehe.
-Like ｛大地＊＊｝?");
+Like ｛Daichi＊＊｝?");
 StlEye(8,3);
 StlMouth(8,0);
 VoicePlay("B050800200_08_100");
 MsgDisp("Shirahane","Eh?");
-MsgDisp("主人公","Right now, ｛大地＊＊｝ seems like he's
+MsgDisp("主人公","Right now, ｛Daichi＊＊｝ seems like he's
 giving everything he's got too.");
 StlEye(8,3);
 StlMouth(8,0);
@@ -140,7 +140,7 @@ VoicePlay("B050800200_08_190");
 MsgDisp("Shirahane","That's fine.
 You should just stay like that.
 I'm the one who should change.");
-MsgDisp("主人公","(Seems like ｛大地＊＊｝ has made a
+MsgDisp("主人公","(Seems like ｛Daichi＊＊｝ has made a
 decision.
 A single path...he's found his goal.)");
 BGMStop();

@@ -39,7 +39,7 @@ I'm happy.");
     VoicePlay("L040700002_07_040");
     MsgDisp("Mikage","Hey, you got a little too excited.");
     MsgDisp("主人公","I put in all my grateful feelings for
-｛御影＊＊｝.");
+｛Mikage＊＊｝.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -101,7 +101,7 @@ Won't Himuro-sensei scold you...?");
 it feels wrong to do that considering you
 put your all into it.");
     MsgDisp("主人公","(Thank goodness!
-｛御影＊＊｝ seemed happy.
+｛Mikage＊＊｝ seemed happy.
 But will he be fine...?)");
     MsgClose();
     BGMStop();

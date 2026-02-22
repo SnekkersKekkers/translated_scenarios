@@ -83,7 +83,7 @@ come.");
         MsgDisp("Mikage","If I kept repeating \"eternal highschooler\"
 shtick, like an idiot, you'd probably just
 get sick of me.");
-        MsgDisp("主人公","｛御影＊＊｝...?");
+        MsgDisp("主人公","｛Mikage＊＊｝...?");
         ChEye(7,2);
         ChMouth(7,3);
         ChMotion(7,1);
@@ -92,7 +92,7 @@ get sick of me.");
 conversation to be had under fireworks.
 Let's talk about this properly once I've
 collected myself.");
-        MsgDisp("主人公","(｛御影＊＊｝...did something happen...?)");
+        MsgDisp("主人公","(｛Mikage＊＊｝...did something happen...?)");
         break ;
         default :
         DbgAssert(1);

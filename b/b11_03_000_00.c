@@ -1,12 +1,12 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm...looks like ｛本多＊＊｝ isn't here
+MsgDisp("主人公","Hm...looks like ｛Honda＊＊｝ isn't here
 yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛本多＊＊｝'s late...");
+MsgDisp("主人公","｛Honda＊＊｝'s late...");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
@@ -29,7 +29,7 @@ MsgClose();
 ChOpen(3,253,3,3,3,#1,#1,0,2);
 VoicePlay("B110300000_03_000");
 MsgDisp("Honda","Me too, me too!");
-MsgDisp("主人公","Oh, ｛本多＊＊｝∋");
+MsgDisp("主人公","Oh, ｛Honda＊＊｝∋");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -73,7 +73,7 @@ It's clear you're not lost at all.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(33,0,30);
 ChPosition(3,0);
-MsgDisp("主人公","｛本多＊＊｝, thanks so much.");
+MsgDisp("主人公","｛Honda＊＊｝, thanks so much.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4,1);

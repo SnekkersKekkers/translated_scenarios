@@ -13,5 +13,5 @@ VoicePlay("B020600015_06_010");
 MsgDisp("Himuro","It surprised me that it's the same as one
 I own. Well, it is unisex, so it's
 probably a coincidence.");
-MsgDisp("主人公","(So ｛氷室＊＊｝ has the same one.
+MsgDisp("主人公","(So ｛Himuro＊＊｝ has the same one.
 I'm glad we have similar tastes!)");

@@ -3,7 +3,7 @@ switch (ChPrmGet(8,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛大地＊＊｝!");
+    MsgDisp("主人公","｛Daichi＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,4,0,4,10,#1,5,0);
@@ -19,7 +19,7 @@ Later!");
 I guess he didn't like that?)");
     break ;
     case 3:
-    MsgDisp("主人公","｛大地＊＊｝!");
+    MsgDisp("主人公","｛Daichi＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,4,2,4,#1,#1,5,0);
@@ -36,7 +36,7 @@ It seems like that name's no good.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛大地＊＊｝!");
+    MsgDisp("主人公","｛Daichi＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,2,1,1,0,0,5,0);

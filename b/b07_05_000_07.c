@@ -1,9 +1,9 @@
 MsgDisp("主人公","What sorts of dreams do you have for the
-future, ｛柊＊＊＊｝?");
+future, ｛Hiiragi＊＊＊｝?");
 ChMouth(5,2);
 VoicePlay("B070500000_05_290");
 MsgDisp("Hiiragi","Apart from the theatre company?");
-MsgDisp("主人公","Yeah, ｛柊＊＊＊｝'s dreams as an
+MsgDisp("主人公","Yeah, ｛Hiiragi＊＊＊｝'s dreams as an
 individual.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -27,7 +27,7 @@ troupe on track to being loved by citizens
 for years to come, that is also my
 personal dream.");
 MsgDisp("主人公","Yeah, you'll be able to make both dreams
-come true, ｛柊＊＊＊｝.");
+come true, ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

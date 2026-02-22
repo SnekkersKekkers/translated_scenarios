@@ -14,7 +14,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010230100_06_000");
 MsgDisp("Himuro","I told you, that's not what I'm here for.");
-MsgDisp("主人公","｛颯砂＊＊｝, ｛氷室＊＊｝!
+MsgDisp("主人公","｛Sassa＊＊｝, ｛Himuro＊＊｝!
 What are you guys doing?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -72,7 +72,7 @@ You guys have fun!");
 VoicePlay("E010230100_06_040");
 MsgDisp("Himuro","Ahh, come on...");
 MsgDisp("主人公","(Hehe!
-｛氷室＊＊｝ looked a little happy.)");
+｛Himuro＊＊｝ looked a little happy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

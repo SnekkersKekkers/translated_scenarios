@@ -9,7 +9,7 @@ VoicePlay("B040405100_04_000");
 MsgDisp("Nanatsumori","The manmade starry sky was a nice touch
 too.
 It was lightly educational too.");
-MsgSel("The starry sky was romantic.","｛七ツ森＊｝, did you fall asleep?","The seat was so fluffy I fell asleep...");
+MsgSel("The starry sky was romantic.","｛Nanatsumori＊｝, did you fall asleep?","The seat was so fluffy I fell asleep...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

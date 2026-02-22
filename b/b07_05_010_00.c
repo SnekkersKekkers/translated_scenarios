@@ -27,7 +27,7 @@ VoicePlay("B070501000_05_020");
 MsgDisp("Hiiragi","After that, I've been thinking about it in
 my own way.
 ...Even now.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -74,7 +74,7 @@ this to you in my own words, but, could
 you please listen?");
 MsgDisp("主人公","Umm...
 But I was only asking what you thought
-about love, ｛柊＊＊＊｝?");
+about love, ｛Hiiragi＊＊＊｝?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -104,10 +104,10 @@ ChCheek(5,0);
 VoicePlay("B070501000_05_120");
 MsgDisp("Hiiragi","Fuu...
 I nearly said something outrageous.");
-MsgDisp("主人公","(｛柊＊＊＊｝...? It seems like he's
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...? It seems like he's
 thinking very thoroughly about love. But,
 what kind of outrageous thing was he
-talking about?))");
+talking about?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

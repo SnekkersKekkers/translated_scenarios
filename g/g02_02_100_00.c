@@ -10,7 +10,7 @@ ChMotion(2,3);
 VoicePlay("G020210000_02_010");
 MsgDisp("Sassa","But, you know, no matter how many there
 are, I wanna win.");
-MsgDisp("主人公","And I'm positive you will win, ｛颯砂＊＊｝.");
+MsgDisp("主人公","And I'm positive you will win, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -45,7 +45,7 @@ shows up, I'm not giving him my place
 beside you.");
 MsgDisp("主人公","(?
 'The fight for me'??
-What is ｛颯砂＊＊｝ talking about...?)");
+What is ｛Sassa＊＊｝ talking about...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

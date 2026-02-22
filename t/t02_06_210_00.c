@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C06_INORI_KOKU",0.01);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -41,8 +41,8 @@ VoicePlay("T020621000_06_040");
 MsgDisp("Himuro","Meeting upperclassmen I respect and even
 going out together, and getting along with
 my teachers...");
-MsgDisp("主人公","Are you talking about ｛柊＊＊＊｝ and
-｛御影＊＊｝?");
+MsgDisp("主人公","Are you talking about ｛Hiiragi＊＊＊｝ and
+｛Mikage＊＊｝?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

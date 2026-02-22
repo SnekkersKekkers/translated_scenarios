@@ -12,7 +12,7 @@ switch (ChPrmGet(7,6)){
     VoiceEVSPlay(7);
     VoicePlay("H1A0700001_07_000");
     MsgDisp("Mikage","｛主人公｝, that was a good match, huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝...
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝...
 We lost...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -43,7 +43,7 @@ The Haba High baseball club is nice, huh.");
     MsgDisp("Mikage","Now, it's time for your last job as
 manager.
 Go be with everyone.");
-    MsgDisp("主人公","(｛御影＊＊｝, thank you.
+    MsgDisp("主人公","(｛Mikage＊＊｝, thank you.
 We lost, but this will become a cherished
 memory...)");
     break ;

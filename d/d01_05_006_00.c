@@ -13,7 +13,7 @@ I thought it would be better to say hello
 in a more fun way.");
 VoicePlay("D010500600_05_020");
 MsgDisp("Hiiragi?","Oh I see, that makes sense.");
-MsgDisp("主人公","Ah, it's ｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, it's ｛Hiiragi＊＊＊｝.
 Good Morning.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -78,7 +78,7 @@ EfctClose();
 BGOpen("ex990",0);
 BGOpen("sc102",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛柊＊＊＊｝ likes cleaning, huh...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ likes cleaning, huh...
 I wonder what \"Rerere\" means though?)");
 MsgClose();
 ScrFadeOut(0,0);

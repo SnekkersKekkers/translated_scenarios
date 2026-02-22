@@ -16,7 +16,7 @@ I'll be looking forward to seeing you on
 the day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(I'm going out with ｛颯砂＊＊｝.
+        MsgDisp("主人公","(I'm going out with ｛Sassa＊＊｝.
 ...This is a date, right?)");
         break ;
         case 4:
@@ -38,7 +38,7 @@ I'll be the one to mark the spot.
 See you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(｛颯砂＊＊｝, invited me out on a date.
+        MsgDisp("主人公","(｛Sassa＊＊｝, invited me out on a date.
 I'm looking forward to it!)");
         break ;
         default :

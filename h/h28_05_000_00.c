@@ -13,7 +13,7 @@ switch (ChPrmGet(5,6)){
     VoiceEVSPlay(5);
     VoicePlay("H280500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Did you come to show your support?");
     VoicePlay("H280500000_05_010");
     MsgDisp("Hiiragi","Yes.
@@ -32,7 +32,7 @@ You're working hard as well.");
     MsgDisp("Hiiragi","It'll be fine.
 Your hard work will show itself in the
 results the team receives.");
-    MsgDisp("主人公","｛柊＊＊＊｝, thank you.
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you.
 ...I'll be going!");
     break ;
     default :

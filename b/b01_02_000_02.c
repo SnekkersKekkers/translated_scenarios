@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like I got here a little early...
 Huh?)");
-MsgDisp("主人公","｛颯砂＊＊｝?");
+MsgDisp("主人公","｛Sassa＊＊｝?");
 BGMPlay("BGM_C02_SASSA_A",0.01);
 switch (ChPrmGet(2,6)){
     case 0:

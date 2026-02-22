@@ -21,7 +21,7 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     MsgDisp("主人公","Eh?
-Ah, I didn't say that to ｛七ツ森＊｝?");
+Ah, I didn't say that to ｛Nanatsumori＊｝?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -54,7 +54,7 @@ Next up is the bunny cafe!");
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P830400002_04_030");
     MsgDisp("Nanatsumori","They're doing it, they're doing it.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝..");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝..");
     ChMotion(4,1,1);
     VoicePlay("P830400002_04_040");
     MsgDisp("Nanatsumori","Good work on your student council patrol.

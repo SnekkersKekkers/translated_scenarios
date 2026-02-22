@@ -8,7 +8,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020500001_05_000");
     MsgDisp("Hiiragi","Hello.");
-    MsgDisp("主人公","Hello, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Hello, ｛Hiiragi＊＊＊｝.
 How are my results?");
     ChMouth(5,4);
     ChMotion(5,4);
@@ -71,7 +71,7 @@ Alright, time to aim for the first place!)");
     VoiceEVSPlay(5);
     VoicePlay("N020500001_05_070");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 How did I do?");
     ChEye(5,2);
     ChMotion(5,4);

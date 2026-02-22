@@ -49,7 +49,7 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_180");
 MsgDisp("Honda","Yepyep, completely.");
-MsgDisp("主人公","(｛本多＊＊｝ seems moreso like a curious
+MsgDisp("主人公","(｛Honda＊＊｝ seems moreso like a curious
 person than a sports fan.)");
 BGMStop();
 MsgClose();

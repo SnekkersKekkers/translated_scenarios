@@ -13,7 +13,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C04002_06_000");
 MsgDisp("Himuro","Have I or Yanosuke-senpai ever been noisy?");
-MsgDisp("主人公","...Ah, it's cause ｛御影＊＊｝ isn't
+MsgDisp("主人公","...Ah, it's cause ｛Mikage＊＊｝ isn't
 here today.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -100,7 +100,7 @@ VoicePlay("D140C04002_05_050");
 MsgDisp("Hiiragi","Heheh, understood.
 Alright, with this it'll surely become
 lively, won't it?");
-MsgDisp("主人公","(Looks like because ｛御影＊＊｝ is
+MsgDisp("主人公","(Looks like because ｛Mikage＊＊｝ is
 coming, both of them suddenly perked up?)");
 BGMStop();
 MsgClose();

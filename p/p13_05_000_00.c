@@ -18,7 +18,7 @@ gathering...)");
     VoicePlay("P130500000_05_000");
     MsgDisp("Hiiragi","Your class is amazing.
 As expected of Mikage-sensei...");
-    MsgDisp("主人公","｛柊＊＊＊｝, did you come to see it?");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, did you come to see it?");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -51,7 +51,7 @@ to drink freshly squeezed milk～");
     ChOpen(5,254,0,3,2,#1,#1,0,0);
     VoicePlay("P130500000_05_030");
     MsgDisp("Hiiragi","A classroom maze...");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, welcome.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, welcome.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

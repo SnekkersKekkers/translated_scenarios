@@ -78,7 +78,7 @@ ChMotion(6,0);
 VoicePlay("G020630003_06_110");
 MsgDisp("Himuro","It's nothing.
 ...Well, let's head home.");
-MsgDisp("主人公","(It seems like ｛氷室＊＊｝ is also leading
+MsgDisp("主人公","(It seems like ｛Himuro＊＊｝ is also leading
 a fulfilling high school life.)");
 BGMStop();
 MsgClose();

@@ -18,7 +18,7 @@ VoicePlay("B330C20801_05_000");
 MsgDisp("Hiiragi","Haa, feels nice.
 I'm glad Inori-kun decided on this place.");
 MsgDisp("主人公","I see.
-Does ｛氷室＊＊｝ like it here?");
+Does ｛Himuro＊＊｝ like it here?");
 ChEye(5,4);
 ChEye(6,0);
 ChMouth(6,4);
@@ -35,7 +35,7 @@ ChMotion(6,0);
 VoicePlay("B330C20801_06_010");
 MsgDisp("Himuro","...Right?");
 MsgDisp("主人公","Hehe!
-Maybe ｛御影＊＊｝ is having the most
+Maybe ｛Mikage＊＊｝ is having the most
 fun?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -61,7 +61,7 @@ ChOpen(7,255,0,0,4,#1,#1,0,3);
 VoicePlay("B330C20801_07_010");
 MsgDisp("Mikage","What's up?
 We have to catch enough fish for everyone!");
-MsgDisp("主人公","｛御影＊＊｝, we're fishing this time?");
+MsgDisp("主人公","｛Mikage＊＊｝, we're fishing this time?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

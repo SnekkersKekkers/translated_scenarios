@@ -10,7 +10,7 @@ SEWait();
 BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,0,2,2,0,#1,0,0);
 MsgDisp("主人公","Ah?
-｛颯砂＊＊｝.
+｛Sassa＊＊｝.
 Why are you here?");
 ChEye(2,2);
 ChMouth(2,0);

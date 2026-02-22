@@ -24,7 +24,7 @@ VoicePlay("B140500100_05_010");
 MsgDisp("Hiiragi","Am I also giving you a good time?");
 MsgDisp("主人公","Yeah.
 I'll spend both Christmas Eve and day with
-｛柊＊＊＊｝.");
+｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -58,7 +58,7 @@ VoicePlay("B140500100_05_050");
 MsgDisp("Hiiragi","How about it?
 Won't you come to our side of the world?");
 MsgDisp("主人公","Ehhh∋");
-MsgDisp("主人公","｛柊＊＊＊｝, was that a joke...?)");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, was that a joke...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

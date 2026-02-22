@@ -27,7 +27,7 @@ MsgDisp("Honda","One, two, they're bookworms♪
 Three, four, they're stomach worms♪
 Rock!");
 MsgDisp("主人公","Hehe, that's a cute song!");
-MsgDisp("主人公","(｛本多＊＊｝ looks like he's enjoying
+MsgDisp("主人公","(｛Honda＊＊｝ looks like he's enjoying
 himself. ...Hehe, your hair is also
 bouncing up and down.)");
 while (1){

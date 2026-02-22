@@ -10,7 +10,7 @@ How long were you going to make me wait?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Eh, ｛氷室＊＊｝?
+MsgDisp("主人公","Eh, ｛Himuro＊＊｝?
 What's up?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -24,7 +24,7 @@ SEPlay("EV_SE_632");
 SEWait();
 VoicePlay("D010600400_41_010");
 MsgDisp("Male Student B","Haha, no shot-wait Look out!");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝ ∈");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝ ∈");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -52,7 +52,7 @@ VoicePlay("D010600400_06_030");
 MsgDisp("Himuro","But it's pointless.
 It won't work against me...");
 MsgDisp("主人公","(Woah...
-｛氷室＊＊｝ caught the snowball!)");
+｛Himuro＊＊｝ caught the snowball!)");
 VoicePlay("D010600400_40_020");
 MsgDisp("Male Student A","My bad, Himuro!
 My hand slipped!");

@@ -11,7 +11,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","Wow, I always knew you were a good
 student.");
     MsgDisp("主人公","Ah, you came to check the results
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -39,7 +39,7 @@ Thank you.");
     VoicePlay("N020200001_02_030");
     MsgDisp("Sassa","｛主人公｝.
 You got a good score on your last exams.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Thank you!");
     ChEye(2,0);
     ChMouth(2,4);
@@ -67,7 +67,7 @@ Thank you!");
 That's quite impressive.
 I saw your name near the top.");
     MsgDisp("主人公","Thank you.
-｛颯砂＊＊｝, did you see your rank?");
+｛Sassa＊＊｝, did you see your rank?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -96,7 +96,7 @@ You definitely have a shot.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ really praised me, I'm glad I
+    MsgDisp("主人公","(｛Sassa＊＊｝ really praised me, I'm glad I
 did my best!)");
     break ;
     default :

@@ -54,7 +54,7 @@ VoicePlay("G020810300_08_070");
 MsgDisp("Shirahane","Hehe.
 At this rate, even the fireflies would
 laugh at us, right?");
-MsgDisp("主人公","(｛大地＊＊｝...)");
+MsgDisp("主人公","(｛Daichi＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

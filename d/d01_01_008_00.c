@@ -64,7 +64,7 @@ ChMotion(1,0);
 VoicePlay("D010100800_01_060");
 MsgDisp("Kazama","Don't make that face.
 Come on, let's go.");
-MsgDisp("主人公","(｛風真＊＊｝ will go somewhere else
+MsgDisp("主人公","(｛Kazama＊＊｝ will go somewhere else
 again...?)");
 BGMStop();
 MsgClose();

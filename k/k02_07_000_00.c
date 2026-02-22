@@ -17,7 +17,7 @@ I have a package for you.");
 SEPlay("EV_SE_665");
 SEWait();
 MsgDisp("主人公","Huh!? Mikage Delivery? Um...
-｛御影＊＊｝, what is it?");
+｛Mikage＊＊｝, what is it?");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -52,6 +52,6 @@ BGMStop();
 MsgClose();
 ChClose(7);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛御影＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛Mikage＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

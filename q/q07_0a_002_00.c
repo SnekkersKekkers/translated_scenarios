@@ -22,7 +22,7 @@ VoicePlay("Q070A00200_01_000");
 MsgDisp("Kazama","There's even things here from over 150
 years ago.
 Looking at them never gets old.");
-MsgDisp("主人公","Since ｛風真＊＊｝ is so into them, I'm
+MsgDisp("主人公","Since ｛Kazama＊＊｝ is so into them, I'm
 sure that means they're important.");
 ChEye(1,4);
 ChMouth(1,3);

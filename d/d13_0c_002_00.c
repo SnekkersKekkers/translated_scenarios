@@ -60,7 +60,7 @@ ChOpen(7,37,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("D130C00200_06_020");
 MsgDisp("Himuro","Kojiro-sensei, sorry to keep you waiting.");
-MsgDisp("主人公","｛御影＊＊｝?");
+MsgDisp("主人公","｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

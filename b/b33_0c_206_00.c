@@ -104,7 +104,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0,0,30);
 MsgDisp("主人公","Hehe, they're obsessed.
-What about you, ｛御影＊＊｝?");
+What about you, ｛Mikage＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -121,7 +121,7 @@ MsgDisp("Mikage","Don't tell them.
 I don't want to rain on their parade.");
 MsgDisp("主人公","(Watching a movie then feeling sorry for
 the sheep...
-Hehe, how typical of ｛御影＊＊｝...)");
+Hehe, how typical of ｛Mikage＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -2,7 +2,7 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh?
-｛氷室＊＊｝ hasn't come yet...");
+｛Himuro＊＊｝ hasn't come yet...");
 VoicePlay("B110600000_33_000");
 MsgDisp("Guy","Hey, do you want to know?
 Or do you not want to know?");
@@ -25,7 +25,7 @@ Wait(20,0);
 MsgClose();
 BGMPlay("BGM_C06_INORI_A",0.01);
 ChOpen(6,253,0,0,0,#1,#1,0,1,0,30);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -98,7 +98,7 @@ ChOpen(6,253,2,2,0,0,#1,0,0);
 VoicePlay("B110600000_06_060");
 MsgDisp("Himuro","Haa...if he's running away, he must know
 he's being a nuisance.");
-MsgDisp("主人公","｛氷室＊＊｝, thank you.");
+MsgDisp("主人公","｛Himuro＊＊｝, thank you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

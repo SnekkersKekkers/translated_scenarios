@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040317002_03_000");
 MsgDisp("Honda","Did you know that if you score 100 points
 in karaoke, you get one hour free?");
-MsgSel("The scoring criteria is pretty vague...","Alright, let's get it!","｛本多＊＊｝, you always get a perfect score right?");
+MsgSel("The scoring criteria is pretty vague...","Alright, let's get it!","｛Honda＊＊｝, you always get a perfect score right?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -58,7 +58,7 @@ that many free hours.");
         VoicePlay("B040317002_03_040");
         MsgDisp("Honda","Haha, it's way different from taking a
 test.");
-        MsgDisp("主人公","Hehe, but ｛本多＊＊｝ doesn't suit
+        MsgDisp("主人公","Hehe, but ｛Honda＊＊｝ doesn't suit
 anything less than 100 points.");
         ChEye(3,1);
         ChMouth(3,3);
@@ -105,7 +105,7 @@ I'm not gonna stop till I get that 100!");
         MsgDisp("主人公","Really!?");
         Wait(30,1);
         ChClose(3);
-        MsgDisp("主人公","(Is ｛本多＊＊｝ secretly competitive?)");
+        MsgDisp("主人公","(Is ｛Honda＊＊｝ secretly competitive?)");
         MsgClose();
         BGMStop();
         MsgClose();

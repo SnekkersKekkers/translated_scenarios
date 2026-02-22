@@ -7,7 +7,7 @@ me?");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Eh, ｛御影＊＊｝...?
+MsgDisp("主人公","Eh, ｛Mikage＊＊｝...?
 What's wrong?");
 SEPlay("EV_SE_504",0,0.7);
 Wait(30,0);
@@ -72,7 +72,7 @@ ChEye(7,2);
 ChEyeOpenLevel(7,10);
 MsgDisp("主人公","That...
 I was very happy to spend the last three
-years with ｛御影＊＊｝.");
+years with ｛Mikage＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0,1);
@@ -94,7 +94,7 @@ VoicePlay("T020711000_07_090");
 MsgDisp("Mikage","The gap from my high school days...
 There was always a huge void there for me
 you know?");
-MsgDisp("主人公","｛御影＊＊｝...");
+MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -148,7 +148,7 @@ ChEyeOpenLevel(7,10);
 VoicePlay("T020711000_07_160");
 MsgDisp("Mikage","...I managed to hold it off once.
 But in the end, I'm here, in front of you.");
-MsgDisp("主人公","｛御影＊＊｝...?");
+MsgDisp("主人公","｛Mikage＊＊｝...?");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -162,7 +162,7 @@ VoicePlay("T020711000_07_180");
 MsgDisp("Mikage","'Like' grows into 'love' in an instant and
 overflows, and there's nothing I can do
 about it.");
-MsgDisp("主人公","｛御影＊＊｝...");
+MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0,1);
@@ -191,7 +191,7 @@ Wait(60);
 ChOpen(7,254,2,1,4,#1,#1,0,0,0,120);
 VoicePlay("T020711000_07_220");
 MsgDisp("Mikage","If I leave my feelings for you at
-Habagaku, I can't go any further.");
+Haba High, I can't go any further.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);

@@ -8,7 +8,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406302_04_000");
 MsgDisp("Nanatsumori","Do you like this place?");
-MsgSel("I do!","Hmmm?","What about you, ｛七ツ森＊｝?");
+MsgSel("I do!","Hmmm?","What about you, ｛Nanatsumori＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -124,7 +124,7 @@ If it's not enough, then here's more.");
         ChEyeOpenLevel(4,0);
         VoicePlay("B040406302_04_150");
         MsgDisp("Nanatsumori","Let's stay like this for a while.");
-        MsgDisp("主人公","(｛七ツ森＊｝...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :
         DbgAssert(1);

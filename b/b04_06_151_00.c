@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040615100_06_000");
 MsgDisp("Himuro","Then, let's get started.");
-MsgSel("I won't lose!","｛氷室＊＊｝'s ball looks heavy.","A competition is a bit...");
+MsgSel("I won't lose!","｛Himuro＊＊｝'s ball looks heavy.","A competition is a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

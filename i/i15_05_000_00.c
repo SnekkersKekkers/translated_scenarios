@@ -7,7 +7,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgDisp("主人公","Welcome.
-Ah, ｛柊＊＊＊｝.");
+Ah, ｛Hiiragi＊＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -16,7 +16,7 @@ Ah, ｛柊＊＊＊｝.");
     VoicePlay("I150500000_05_000");
     MsgDisp("Hiiragi","So you were working today.");
     MsgDisp("主人公","Yes.
-Are you shopping, ｛柊＊＊＊｝?");
+Are you shopping, ｛Hiiragi＊＊＊｝?");
     ChMouth(5,4);
     VoicePlay("I150500000_05_010");
     MsgDisp("Hiiragi","Yes, our troupe is quite large, so there
@@ -48,7 +48,7 @@ I had just heard of General Store Simon...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ looks busy.
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ looks busy.
 ...But it looks like he likes shopping?)");
     break ;
     case 3:
@@ -57,7 +57,7 @@ I had just heard of General Store Simon...");
     SEWait();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,255,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Welcome!");
     VoicePlay("I150500000_05_060");
     MsgDisp("Hiiragi","Good day.
@@ -65,7 +65,7 @@ You are working hard at your part-time
 job.");
     MsgDisp("主人公","Yes.
 Are you looking for something,
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
     ChEye(5,4);
     VoicePlay("I150500000_05_070");
     MsgDisp("Hiiragi","No.
@@ -91,7 +91,7 @@ of the store.");
 I see, so you add fragrant oils in.
 What a wonderful item...");
     MsgDisp("主人公","(Hehe.
-｛柊＊＊＊｝ really likes shopping.)");
+｛Hiiragi＊＊＊｝ really likes shopping.)");
     break ;
     case 4:
     case 5:
@@ -100,7 +100,7 @@ What a wonderful item...");
     SEWait();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,255,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","｛柊＊＊＊｝, welcome!");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, welcome!");
     VoicePlay("I150500000_05_110");
     MsgDisp("Hiiragi","Good day.
 I'll be intruding for a bit.");
@@ -130,7 +130,7 @@ before heading home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝, does that mean he came to
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, does that mean he came to
 see me??)");
     break ;
     default :

@@ -16,7 +16,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B360223601_02_000");
 MsgDisp("Sassa","Yeah, beautiful...");
-MsgDisp("主人公","Eh, ｛颯砂＊＊｝...
+MsgDisp("主人公","Eh, ｛Sassa＊＊｝...
 If you're looking this way, you won't be
 able to see the parade?");
 ChEye(2,0);
@@ -40,7 +40,7 @@ MsgDisp("Sassa","Yeah, the side profile is cute too.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝ thinks so too?");
+MsgDisp("主人公","｛Sassa＊＊｝ thinks so too?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -54,7 +54,7 @@ ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("B360223601_02_050");
 MsgDisp("Sassa","Ah, I'm talking about this.");
-MsgDisp("主人公","(｛颯砂＊＊｝ keeps turning away from the
+MsgDisp("主人公","(｛Sassa＊＊｝ keeps turning away from the
 parade...)");
 BGMStop();
 MsgClose();

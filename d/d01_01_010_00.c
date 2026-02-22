@@ -3,11 +3,11 @@ EnvAutoSet(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_577");
 Wait(40,0);
-MsgDisp("主人公","(Ah, ｛風真＊＊｝ is calling!)");
+MsgDisp("主人公","(Ah, ｛Kazama＊＊｝ is calling!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 Wait(20,0);
-MsgDisp("主人公","Hello, ｛風真＊＊｝?");
+MsgDisp("主人公","Hello, ｛Kazama＊＊｝?");
 VoicePlay("D010101000_01_001");
 MsgDisp("Kazama","It's me.
 Hey, do you have time now?");
@@ -18,7 +18,7 @@ MsgDisp("主人公","O-Okay, sure.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(What's going on?
-｛風真＊＊｝...)");
+｛Kazama＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -75,7 +75,7 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
 EnvPlay("SE_ENV_BG_HO000_CO0",1,0.3);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝, you wanted to visit the
+MsgDisp("主人公","｛Kazama＊＊｝, you wanted to visit the
 castle?");
 StlEye(1,1);
 VoicePlay("D010101000_01_061");
@@ -94,7 +94,7 @@ VoicePlay("D010101000_01_081");
 MsgDisp("Kazama","You know, we probably came here together
 back in kindergarten.");
 MsgDisp("主人公","Yeah, I wonder how that went...
-Does ｛風真＊＊｝ remember?");
+Does ｛Kazama＊＊｝ remember?");
 StlEye(1,0);
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D010101000_01_091");
@@ -156,7 +156,7 @@ VoicePlay("D010101000_01_160");
 MsgDisp("Kazama","Haa?
 That's what you mean...
 That's somewhat disappointing.");
-MsgDisp("主人公","(｛風真＊＊｝, maybe you thought I forgot
+MsgDisp("主人公","(｛Kazama＊＊｝, maybe you thought I forgot
 about you?
 I guess I should have told you sooner...)");
 BGMStop();

@@ -21,7 +21,7 @@ VoicePlay("D140C03300_06_000");
 MsgDisp("Himuro","When will I eat, if not now?
 We're in our growth period.");
 MsgDisp("主人公","Hehe.
-Does ｛氷室＊＊｝ want to grow bigger?");
+Does ｛Himuro＊＊｝ want to grow bigger?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -39,7 +39,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C03300_06_020");
 MsgDisp("Himuro","Yeah.");
-MsgDisp("主人公","Do you not, ｛柊＊＊＊｝?");
+MsgDisp("主人公","Do you not, ｛Hiiragi＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -99,8 +99,8 @@ MsgDisp("Mikage","Good.
 With that spirit, eat lots and grow up big
 and strong～");
 MsgDisp("主人公","(Hehe.
-I wonder if both ｛柊＊＊＊｝ and
-｛氷室＊＊｝ want to grow bigger?)");
+I wonder if both ｛Hiiragi＊＊＊｝ and
+｛Himuro＊＊｝ want to grow bigger?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

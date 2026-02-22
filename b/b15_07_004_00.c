@@ -45,7 +45,7 @@ resolve either.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 SEWait();
-MsgDisp("主人公","(｛御影＊＊｝ seems a bit different to
+MsgDisp("主人公","(｛Mikage＊＊｝ seems a bit different to
 usual.
 I wonder what he means by resolve...)");
 MsgClose();

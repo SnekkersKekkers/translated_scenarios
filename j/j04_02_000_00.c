@@ -10,7 +10,7 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoicePlay("J040200000_02_000");
     MsgDisp("Sassa","Found it!");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝, what's wrong?");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝, what's wrong?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -87,7 +87,7 @@ Yeah, then I guess I don't have a choice.");
 You didn't do anything wrong.
 I'll call on you again.");
         MsgDisp("主人公","Yeah.
-｛颯砂＊＊｝, thank you.");
+｛Sassa＊＊｝, thank you.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

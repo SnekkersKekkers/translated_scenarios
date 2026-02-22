@@ -7,7 +7,7 @@ VoicePlay("P640700005_07_000");
 MsgDisp("Mikage","....Occasionally you see these kinds of
 stores.");
 MsgDisp("主人公","Umm...
-｛御影＊＊｝, how is it?");
+｛Mikage＊＊｝, how is it?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);

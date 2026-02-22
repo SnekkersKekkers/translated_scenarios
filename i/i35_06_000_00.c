@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     MsgDisp("主人公","Welcome!
-Ah, ｛氷室＊＊｝.");
+Ah, ｛Himuro＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
@@ -38,7 +38,7 @@ For both of us.");
     MsgClose();
     ChClose(6);
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(I guess ｛氷室＊＊｝ is looking out for me
+    MsgDisp("主人公","(I guess ｛Himuro＊＊｝ is looking out for me
 in his own way?)");
     break ;
     case 3:
@@ -50,7 +50,7 @@ in his own way?)");
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_040");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -92,7 +92,7 @@ Come on, hurry up.");
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     MsgDisp("主人公","Welcome!
-Ah, ｛氷室＊＊｝.");
+Ah, ｛Himuro＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
@@ -128,7 +128,7 @@ I'll come later.");
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_130");
     MsgDisp("Himuro","Thanks.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Thank you very much.");
     ChEye(6,0);
     ChMouth(6,0);

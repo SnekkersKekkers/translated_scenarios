@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     VoiceEVSPlay(1);
     VoicePlay("H480100000_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 You came to cheer us on?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -30,7 +30,7 @@ I'll give you a standing ovation.");
     MsgDisp("主人公","Yeah!
 Thank you.");
     MsgDisp("主人公","(Alright.
-I'll have to show ｛風真＊＊｝ a good
+I'll have to show ｛Kazama＊＊｝ a good
 performance!)");
     MsgClose();
     break ;
@@ -42,7 +42,7 @@ performance!)");
     VoicePlay("H480100000_01_030");
     MsgDisp("Kazama","There you are.");
     MsgDisp("主人公","Ah...
-｛風真＊＊｝, you came to cheer me on?");
+｛Kazama＊＊｝, you came to cheer me on?");
     ChEye(1,4);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -72,9 +72,9 @@ Okay?");
     MsgDisp("Kazama","Yeah, that's the face.
 Go on and have fun like usual.");
     MsgDisp("主人公","Yeah!
-｛風真＊＊｝, thank you.");
+｛Kazama＊＊｝, thank you.");
     MsgDisp("主人公","(Alright!
-I'll have to do my best so ｛風真＊＊｝
+I'll have to do my best so ｛Kazama＊＊｝
 doesn't have to use my ribbon!)");
     break ;
     default :

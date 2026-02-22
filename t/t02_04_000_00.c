@@ -7,7 +7,7 @@ BGMPlay("BGM_C04_NANA_KOKU",0.01);
 ChNanaType(0);
 ChOpen(4,40,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("T020400000_04_000");

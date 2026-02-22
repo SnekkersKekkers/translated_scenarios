@@ -32,7 +32,7 @@ VoicePlay("G020330201_03_040");
 MsgDisp("Honda","So, because I kept getting warned, I ended
 up arguing back with the discipline
 teacher.");
-MsgDisp("主人公","｛本多＊＊｝ did?");
+MsgDisp("主人公","｛Honda＊＊｝ did?");
 ChEye(3,4);
 ChMotion(3,1);
 VoicePlay("G020330201_03_050");
@@ -55,7 +55,7 @@ time. They asked me to understand their
 position too, so");
 MsgDisp("主人公","(He got asked by the teacher to understand
 their position...
-That's so typical of ｛本多＊＊｝ huh?)");
+That's so typical of ｛Honda＊＊｝ huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -14,7 +14,7 @@ StlEye(6,0);
 StlMouth(6,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","...Huh, ｛氷室＊＊｝?
+MsgDisp("主人公","...Huh, ｛Himuro＊＊｝?
 What are you doing here?");
 StlEye(5,1);
 StlMouth(5,1);
@@ -33,7 +33,7 @@ StlEyeOpenLevel(6,0,1);
 VoicePlay("D120C00200_06_010");
 MsgDisp("Himuro","I know what you're trying to say, but it's
 not a good slogan.");
-MsgDisp("主人公","(｛氷室＊＊｝ is so blunt with his
+MsgDisp("主人公","(｛Himuro＊＊｝ is so blunt with his
 opinions, it makes me kind of nervous...)");
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D120C00200_06_020");

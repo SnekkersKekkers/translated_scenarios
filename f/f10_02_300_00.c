@@ -3,7 +3,7 @@ ChLayout(2);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝
 and...
-｛颯砂＊＊｝?)");
+｛Sassa＊＊｝?)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,0,0,2,#1,#1,0,0,0,30);
@@ -103,7 +103,7 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F100230000_21_040");
 MsgDisp("Michiru","Hehe, that's why it's good.");
-MsgDisp("主人公","(I see, ｛颯砂＊＊｝'s gap...)");
+MsgDisp("主人公","(I see, ｛Sassa＊＊｝'s gap...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

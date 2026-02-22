@@ -5,7 +5,7 @@ ChEyeOpenLevel(5,0);
 ScrFadeIn(0);
 VoicePlay("P640500001_05_000");
 MsgDisp("Hiiragi","Ugh...");
-MsgDisp("主人公","｛柊＊＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, what's wrong?");
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("P640500001_05_010");

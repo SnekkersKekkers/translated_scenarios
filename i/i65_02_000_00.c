@@ -16,7 +16,7 @@ Thank you very much～!");
     VoiceEVSPlay(2);
     VoicePlay("I650200000_02_000");
     MsgDisp("Sassa","｛主人公｝, you're energetic.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝, what's up?");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝, what's up?");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -47,7 +47,7 @@ See you.");
     BGMStop();
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ came to check on me, right?
+    MsgDisp("主人公","(｛Sassa＊＊｝ came to check on me, right?
 I'm so happy!)");
     break ;
     case 3:
@@ -61,7 +61,7 @@ Thank you very much～!");
     ChOpen(2,40,3,0,4,#1,#1,0,0);
     VoicePlay("I650200000_02_050");
     MsgDisp("Sassa","You're working hard today, too!");
-    MsgDisp("主人公","Ah, are you on a run, ｛颯砂＊＊｝?");
+    MsgDisp("主人公","Ah, are you on a run, ｛Sassa＊＊｝?");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -77,7 +77,7 @@ grounds, so I'm on the roads now.");
     MsgDisp("Sassa","Then, I heard your 'alright, alright!
 ' And found myself making a pit stop.");
     MsgDisp("主人公","Hehe, do you need to be refueled,
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -110,7 +110,7 @@ Thank you very much～!");
     ChOpen(2,255,3,0,4,#1,#1,0,0);
     VoicePlay("I650200000_02_100");
     MsgDisp("Sassa","You're energetic today, too.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Welcome.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -132,7 +132,7 @@ machine and get a drink.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","｛颯砂＊＊｝...
+    MsgDisp("主人公","｛Sassa＊＊｝...
 Was he feeling okay?");
     BGMVol(0.5,2);
     MsgClose();
@@ -189,7 +189,7 @@ See you!");
     MsgDisp("Sassa","Ah, I got juice for you too, so drink it
 on your way home!");
     MsgClose();
-    MsgDisp("主人公","(｛颯砂＊＊｝...
+    MsgDisp("主人公","(｛Sassa＊＊｝...
 I'm happy that I could help him out.
 Yeah, I'm glad I got this part-time job!)");
     break ;

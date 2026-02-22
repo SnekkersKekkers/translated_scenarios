@@ -40,7 +40,7 @@ I was also searching for participants of
 extracurricular lesson Nagasaki edition.");
     MsgDisp("主人公","Ehm...
 I was actually hoping to go sightseeing
-with ｛御影＊＊｝...");
+with ｛Mikage＊＊｝...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

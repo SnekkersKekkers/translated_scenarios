@@ -97,7 +97,7 @@ It's chemistry!");
         MsgDisp("Honda","They say love is a chemical reaction,
 right?
 What's happening to my body?");
-        MsgDisp("主人公","(｛本多＊＊｝, your face is red...
+        MsgDisp("主人公","(｛Honda＊＊｝, your face is red...
 I wonder if he's alright?)");
         MsgClose();
         ScrFadeOut(0);

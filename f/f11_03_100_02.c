@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("F110310002_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝, you're not doing it this
+MsgDisp("主人公","Ah, ｛Honda＊＊｝, you're not doing it this
 year?");
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -82,7 +82,7 @@ MsgDisp("Honda","Well, I get it now.
 Seeya.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
-MsgDisp("主人公","(I don't think ｛本多＊＊｝ will lose this
+MsgDisp("主人公","(I don't think ｛Honda＊＊｝ will lose this
 year, either...)");
 MsgClose();
 ScrFadeOut(0,0);

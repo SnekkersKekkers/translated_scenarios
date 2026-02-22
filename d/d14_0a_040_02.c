@@ -50,9 +50,9 @@ VoicePlay("D140A04002_01_030");
 MsgDisp("Kazama","No.
 I'm scared of you chasing me.
 It reminds me of back in Kindergarten.");
-MsgDisp("主人公","Hehe, it's not scary but both ｛颯砂＊＊｝
-and ｛風真＊＊｝ are intimidating so I
-think it's amazing that ｛氷室＊＊｝ can
+MsgDisp("主人公","Hehe, it's not scary but both ｛Sassa＊＊｝
+and ｛Kazama＊＊｝ are intimidating so I
+think it's amazing that ｛Himuro＊＊｝ can
 talk to you so normally.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -83,7 +83,7 @@ ChMotion(1,3);
 VoicePlay("D140A04002_01_050");
 MsgDisp("Kazama","What's that?");
 MsgDisp("主人公","(Hehe!
-I wonder if ｛氷室＊＊｝ is sneezing right
+I wonder if ｛Himuro＊＊｝ is sneezing right
 about now?)");
 BGMStop();
 MsgClose();

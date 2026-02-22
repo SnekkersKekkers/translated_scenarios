@@ -5,6 +5,6 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Haa, that was surprising...)");
 MsgDisp("主人公","(Maybe it's better if I contact
-｛柊＊＊＊｝ soon...)");
+｛Hiiragi＊＊＊｝ soon...)");
 MsgClose();
 ScrFadeOut(0);

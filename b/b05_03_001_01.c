@@ -18,7 +18,7 @@ the rocks over there.");
 VoicePlay("B050300101_03_000");
 MsgDisp("Honda","Yeppers, where are they?");
 SEStop("EV_SE_855",3);
-MsgDisp("主人公","(Hehe, the kids captured ｛本多＊＊｝.)");
+MsgDisp("主人公","(Hehe, the kids captured ｛Honda＊＊｝.)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -93,7 +93,7 @@ VoicePlay("B050300101_03_060");
 MsgDisp("Honda","Eh, is that so?
 Sorry...");
 MsgDisp("主人公","(Hehe!
-｛本多＊＊｝ seems stumped.
+｛Honda＊＊｝ seems stumped.
 I guess that's pretty rare...?)");
 BGMStop();
 MsgClose();

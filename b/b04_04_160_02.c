@@ -57,7 +57,7 @@ Cute.");
         ChMotion(4,0,1);
         VoicePlay("B040416002_04_040");
         MsgDisp("Nanatsumori","Why?");
-        MsgDisp("主人公","After all, ｛七ツ森＊｝ is a very
+        MsgDisp("主人公","After all, ｛Nanatsumori＊｝ is a very
 popular high school model.
 If this photo were to be leaked...");
         ChEye(4,4);
@@ -67,7 +67,7 @@ If this photo were to be leaked...");
         MsgDisp("Nanatsumori","Ahh, so that's what.
 You really are a worrywart, aren't you?");
         MsgDisp("主人公","I mean, won't that cause you trouble,
-｛七ツ森＊｝?");
+｛Nanatsumori＊｝?");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -116,7 +116,7 @@ my true identity being revealed.");
         VoicePlay("B040416002_04_130");
         MsgDisp("Nanatsumori","I'll be careful too.
 But, you should as well.");
-        MsgDisp("主人公","(｛七ツ森＊｝...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :
         DbgAssert(1);

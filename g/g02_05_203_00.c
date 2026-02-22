@@ -16,7 +16,7 @@ ChMotion(5,4);
 VoicePlay("G020520300_05_020");
 MsgDisp("Hiiragi","As for me...
 I'm always dressed like this?");
-MsgDisp("主人公","｛柊＊＊＊｝'s fashion suits him.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝'s fashion suits him.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020520300_05_030");
@@ -37,7 +37,7 @@ ChMotion(5,4);
 VoicePlay("G020520300_05_050");
 MsgDisp("Hiiragi","Wild...specifically, what kind of fashion
 would that be?");
-MsgDisp("主人公","Hmmm, kind of like ｛御影＊＊｝?");
+MsgDisp("主人公","Hmmm, kind of like ｛Mikage＊＊｝?");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,3);

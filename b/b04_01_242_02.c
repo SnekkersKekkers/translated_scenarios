@@ -76,7 +76,7 @@ Y-Yeah?");
         MsgDisp("Kazama","Alright, then what do you see beyond that
 fire?");
         MsgDisp("主人公","Ummm...
-｛風真＊＊｝?");
+｛Kazama＊＊｝?");
         VoicePlay("B040124202_01_070");
         MsgDisp("Kazama","Right. It's just me and you warming
 ourselves by the fire. What do you think
@@ -98,7 +98,7 @@ peace?");
 It makes you want to have deep
 conversations that you normally couldn't.
 How about you?");
-        MsgDisp("主人公","(｛風真＊＊｝, you're like a hypnotist...)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, you're like a hypnotist...)");
         break ;
         default :
         DbgAssert(1);

@@ -9,7 +9,7 @@ ChMotion(3,0);
 VoiceEVSPlay(3);
 VoicePlay("H180300000_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝!
+MsgDisp("主人公","Ah, ｛Honda＊＊｝!
 You came to cheer us on?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -43,7 +43,7 @@ most is you. Supporting the players must
 be hard, so leave supporting you to me,
 okay?");
 MsgDisp("主人公","Hehe, okay!
-Thanks ｛本多＊＊｝!");
+Thanks ｛Honda＊＊｝!");
 MsgDisp("主人公","(Alright, let's do our best!)");
 BGMStop();
 MsgClose();

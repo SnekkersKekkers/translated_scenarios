@@ -44,7 +44,7 @@ EfctOpen(6);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","∋ Wait...no way...Ryota!? Er,
-｛風真＊＊｝?");
+｛Kazama＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);
 Wait(30,1);
@@ -81,7 +81,7 @@ VoicePlay("A020100000_01_030");
 MsgDisp("Kazama","Anyway...It's been 9 years. Glad to see
 you're still lively.");
 MsgDisp("主人公","It's really been such a long time!");
-MsgDisp("主人公","｛風真＊＊｝, you've grown up so much!
+MsgDisp("主人公","｛Kazama＊＊｝, you've grown up so much!
 You're nothing like the elementary school
 boy I saw in my dream last night!");
 ChEye(1,3);
@@ -109,7 +109,7 @@ ChMouth(1,0);
 VoicePlay("A020100000_01_060");
 MsgDisp("Kazama","Yeah. I didn't expect this either. I told
 your mom yesterday. Did she not tell you?");
-MsgDisp("主人公","Sorry ｛風真＊＊｝, I was so surprised to
+MsgDisp("主人公","Sorry ｛Kazama＊＊｝, I was so surprised to
 hear that you came back, maybe I wasn't
 listening all that well...");
 MsgDisp("主人公","Same school again, huh?
@@ -286,7 +286,7 @@ VoicePlay("A020100000_48_010");
 MsgDisp("School Girl A","I know right! My grandpa even called him
 \"young master\" once! It's like he's
 royalty or something!");
-MsgDisp("主人公","? ｛風真＊＊｝, I think they're talking
+MsgDisp("主人公","? ｛Kazama＊＊｝, I think they're talking
 about you...");
 SEStop("EV_SE_588",1);
 SEStop("EV_SE_789",1);

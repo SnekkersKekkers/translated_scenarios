@@ -27,7 +27,7 @@ How about we walk together?");
     ChOpen(5,254,5,0,3,#1,#1,0,0);
     VoicePlay("F010500007_05_020");
     MsgDisp("Hiiragi","Just in time...at last...");
-    MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Oh, ｛Hiiragi＊＊＊｝.
 What's wrong?");
     ChEye(5,3);
     ChMouth(5,3);

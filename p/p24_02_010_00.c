@@ -7,7 +7,7 @@ BGOpen("sc740",0);
 BGMPlay("BGM_ENGEKI_B",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 It's the last scene.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -47,7 +47,7 @@ MsgDisp("Hades","Cerebus!
 ...Cerebus?");
 SEPlay("EV_SE_GAYA_006",0,0.4);
 Wait(60,0);
-MsgDisp("主人公","｛颯砂＊＊｝, what should we do?");
+MsgDisp("主人公","｛Sassa＊＊｝, what should we do?");
 VoicePlay("P240201000_02_020");
 MsgDisp("Sassa","Come on, give us a bark!");
 SEPlay("EV_SE_679",0,0.9);
@@ -61,7 +61,7 @@ SEStop("EV_SE_679",0.5);
 VoicePlay("P240201000_02_030");
 MsgDisp("Sassa","Yeah, it wasn't very threatening though.");
 MsgDisp("主人公","Hehe, yeah.
-Guess he wants to play with ｛颯砂＊＊｝,
+Guess he wants to play with ｛Sassa＊＊｝,
 huh?");
 VoicePlay("P240201000_48_020");
 MsgDisp("Persephone","Then, I will escape myself.");

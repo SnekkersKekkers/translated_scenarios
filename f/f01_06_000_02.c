@@ -5,7 +5,7 @@ switch (MsgSelRsltGet()){
         case 0:
         case 1:
         case 2:
-        MsgDisp("主人公","｛氷室＊＊｝.");
+        MsgDisp("主人公","｛Himuro＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C06_INORI_A",0.01);
         ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
 together?");
         break ;
         case 3:
-        MsgDisp("主人公","｛氷室＊＊｝.");
+        MsgDisp("主人公","｛Himuro＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C06_INORI_A",0.01);
         ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -26,7 +26,7 @@ If it's alright, we should go together.");
         break ;
         case 4:
         case 5:
-        MsgDisp("主人公","｛氷室＊＊｝.");
+        MsgDisp("主人公","｛Himuro＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C06_INORI_A",0.01);
         ChOpen(6,254,4,0,0,#1,#1,5,0);
@@ -40,7 +40,7 @@ If it's alright, we should go together.");
         }
     break ;
     case 1:
-    MsgDisp("主人公","｛氷室＊＊｝.");
+    MsgDisp("主人公","｛Himuro＊＊｝.");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Hey, how about we go to a cafe?");

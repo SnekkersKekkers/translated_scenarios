@@ -3,6 +3,6 @@ MsgDisp("主人公","Let's see...
 time.\"");
 MsgDisp("主人公","(Yes!
 Today, I feel I got a little closer with
-｛柊＊＊＊｝ !");
+｛Hiiragi＊＊＊｝ !");
 MsgClose();
 ScrFadeOut(0,0);

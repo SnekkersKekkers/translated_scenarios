@@ -5,7 +5,7 @@ ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("H7G0100000_01_000");
 MsgDisp("Kazama","Yo, congrats.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝, what is it?");
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝, what is it?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

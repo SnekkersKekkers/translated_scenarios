@@ -7,7 +7,7 @@ SEWait();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("H7G0600000_06_000");
 MsgDisp("Himuro","Good afternoon.");
-MsgDisp("主人公","Huh, ｛氷室＊＊｝?
+MsgDisp("主人公","Huh, ｛Himuro＊＊｝?
 Why are you here?");
 ChEye(6,0);
 ChMouth(6,0);

@@ -56,7 +56,7 @@ later.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","(I'm not sure about a nice atmosphere...
-but being with ｛颯砂＊＊｝ always makes me
+but being with ｛Sassa＊＊｝ always makes me
 happy.)");
 BGMStop();
 MsgClose();

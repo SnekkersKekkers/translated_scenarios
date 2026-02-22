@@ -4,14 +4,14 @@ switch (ChPrmGet(2,6)){
     case 2:
     case 3:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝ is calling.");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝ is calling.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
     VoicePlay("S040200000_02_000");
     MsgDisp("Sassa","Hey, it's me.
 Happy New Year!");
-    MsgDisp("主人公","｛颯砂＊＊｝, Happy New Year!");
+    MsgDisp("主人公","｛Sassa＊＊｝, Happy New Year!");
     VoicePlay("S040200000_02_010");
     MsgDisp("Sassa","Let's get along again this year!");
     VoicePlay("S040200000_02_020");
@@ -56,14 +56,14 @@ To the shrine?)");
     case 4:
     case 5:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝ is calling.");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝ is calling.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
     VoicePlay("S040200000_02_070");
     MsgDisp("Sassa","Happy New Year.
 Let's get along well this year!");
-    MsgDisp("主人公","｛颯砂＊＊｝, Happy New Year.
+    MsgDisp("主人公","｛Sassa＊＊｝, Happy New Year.
 Same to you.");
     VoicePlay("S040200000_02_080");
     MsgDisp("Sassa","Yeah, New Year's greetings.");
@@ -93,7 +93,7 @@ way there.
 See you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(｛颯砂＊＊｝ sounds like he's expecting
+        MsgDisp("主人公","(｛Sassa＊＊｝ sounds like he's expecting
 something...?
 Now then, what to wear?)");
         MsgClose();

@@ -12,7 +12,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H3A0600000_06_000");
     MsgDisp("Himuro","A splendid victory.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -31,7 +31,7 @@ club!)");
     ScrFadeIn(0);
     VoicePlay("H3A0600000_06_020");
     MsgDisp("Himuro","Strong...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
 You were watching?");
     ChEye(6,0);
     ChMouth(6,0);

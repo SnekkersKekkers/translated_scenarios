@@ -76,7 +76,7 @@ last year. Haa, I'm nervous.)");
     VoicePlay("P530400001_04_070");
     MsgDisp("Nanatsumori","｛主人公｝.
 You're stressed, huhー.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Yeah...");
     VoicePlay("P530400001_04_080");
     MsgDisp("Nanatsumori","You're going to perform gaming music?
@@ -111,7 +111,7 @@ looking forwards to it, right?");
     MsgDisp("Nanatsumori","You've done everything you can until now.
 ＧＯ!");
     MsgDisp("主人公","Yes, I'm off!");
-    MsgDisp("主人公","(｛七ツ森＊｝, thank you for encouraging
+    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for encouraging
 me!
 Alright, let's do our best!)");
     break ;

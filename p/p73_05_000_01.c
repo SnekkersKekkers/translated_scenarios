@@ -16,7 +16,7 @@ I think it turned out well but...)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P730500001_05_000");
     MsgDisp("Hiiragi","You're making an anxious expression, yes?");
-    MsgDisp("主人公","｛柊＊＊＊｝...!");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝...!");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -68,14 +68,14 @@ I think it turned out well but...)");
     ChOpen(5,254,0,3,4,#1,#1,0,0);
     VoicePlay("P730500001_05_060");
     MsgDisp("Hiiragi","...It fits you very well.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("P730500001_05_070");
     MsgDisp("Hiiragi","I was so captivated that I forgot to greet
 you.");
     MsgDisp("主人公","Really?
-Hearing ｛柊＊＊＊｝ say that, helped me
+Hearing ｛Hiiragi＊＊＊｝ say that, helped me
 gain some confidence.");
     ChEye(5,3);
     ChMouth(5,3);
@@ -98,7 +98,7 @@ invincible.");
     MsgDisp("Hiiragi","I'm also a bit of an actor, so I can tell
 right away whether I can charm the
 audience on stage");
-    MsgDisp("主人公","｛柊＊＊＊｝...");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("P730500001_05_110");
@@ -112,7 +112,7 @@ Believe in me.");
     VoicePlay("P730500001_05_120");
     MsgDisp("Hiiragi","Alright, have fun.");
     MsgDisp("主人公","Yeah.
-｛柊＊＊＊｝, thank you!");
+｛Hiiragi＊＊＊｝, thank you!");
     MsgDisp("主人公","(While not forgetting to smile, I'll do my
 best!)");
     MsgClose();

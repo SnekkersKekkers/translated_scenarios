@@ -3,7 +3,7 @@ ChClose(1,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh?
-｛風真＊＊｝ isn't here yet?");
+｛Kazama＊＊｝ isn't here yet?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

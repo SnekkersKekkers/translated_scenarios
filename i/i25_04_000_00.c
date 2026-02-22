@@ -11,13 +11,13 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250400000_04_000");
     MsgDisp("Nanatsumori","...Ah.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
     VoicePlay("I250400000_04_010");
     MsgDisp("Nanatsumori","Working?");
     MsgDisp("主人公","Yeah.
 Did you come to buy a book,
-｛七ツ森＊｝?");
+｛Nanatsumori＊｝?");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,0,1);
@@ -40,7 +40,7 @@ Good luck with work.");
     VoicePlay("I250400000_04_030");
     MsgDisp("Nanatsumori","Yo.
 Good work.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
     ChMotion(4,0,1);
     VoicePlay("I250400000_04_040");
@@ -55,7 +55,7 @@ Please follow me.");
     MsgDisp("Nanatsumori","Thanks.
 You're kinda cool.");
     MsgDisp("主人公","(I did it!
-｛七ツ森＊｝ praised me.)");
+｛Nanatsumori＊｝ praised me.)");
     break ;
     case 4:
     case 5:
@@ -70,7 +70,7 @@ They look delicious...)");
     MsgDisp("Nanatsumori","Come on.
 Escaping reality while at work isn't
 allowed, right?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,0);

@@ -12,7 +12,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("P740400005_04_000");
 MsgDisp("Nanatsumori","Good work.");
-MsgDisp("主人公","｛七ツ森＊｝...
+MsgDisp("主人公","｛Nanatsumori＊｝...
 EVen though it was my last show, I failed.");
 VoicePlay("P740400005_04_010");
 MsgDisp("Nanatsumori","That's true.");

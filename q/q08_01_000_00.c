@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     MsgDisp("主人公","Today was fun.
-Thank you, ｛風真＊＊｝.");
+Thank you, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -39,7 +39,7 @@ See you back here tomorrow morning.");
     VoicePlay("Q080100000_01_030");
     MsgDisp("Kazama","Wasn't it?
 I enjoyed myself too.");
-    MsgDisp("主人公","Thanks to ｛風真＊＊｝, I made some great
+    MsgDisp("主人公","Thanks to ｛Kazama＊＊｝, I made some great
 memories.");
     ChEye(1,0);
     ChMouth(1,4);

@@ -105,7 +105,7 @@ You're so sneakyー...");
         VoicePlay("B040422102_04_120");
         MsgDisp("Nanatsumori","So...Could you explain why the rainbow is
 a blessing on us? Hmm?");
-        MsgDisp("主人公","(｛七ツ森＊｝, you're teasing me...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝, you're teasing me...)");
         break ;
         default :
         DbgAssert(1);

@@ -19,7 +19,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("F020600008_06_010");
 MsgDisp("Himuro","It's much calmer when you just float
 around.");
-MsgDisp("主人公","Very ｛氷室＊＊｝ -like.");
+MsgDisp("主人公","Very ｛Himuro＊＊｝ -like.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -32,7 +32,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600008_06_030");
 MsgDisp("Himuro","Hah...");
-MsgDisp("主人公","What is ｛氷室＊＊｝'s class doing?");
+MsgDisp("主人公","What is ｛Himuro＊＊｝'s class doing?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -46,4 +46,4 @@ VoicePlay("F020600008_06_050");
 MsgDisp("Himuro","I'll figure it out in time.
 Since you care so much, why don't you stop
 by on the day?");
-MsgDisp("主人公","(Should I try to go to ｛氷室＊＊｝'s class?)");
+MsgDisp("主人公","(Should I try to go to ｛Himuro＊＊｝'s class?)");

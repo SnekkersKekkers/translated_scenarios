@@ -8,7 +8,7 @@ VoicePlay("B040302102_03_000");
 MsgDisp("Honda","Hm?
 That person we just passed, I think I know
 them from somewhere...");
-MsgSel("A friend of yours?","I haven't passed by anyone...","Maybe they were looking at ｛本多＊＊｝?");
+MsgSel("A friend of yours?","I haven't passed by anyone...","Maybe they were looking at ｛Honda＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){
@@ -111,7 +111,7 @@ do something.");
         ChLayout(1);
         VoicePlay("B040302102_03_110");
         MsgDisp("Honda","...what I wonder?");
-        MsgDisp("主人公","(｛本多＊＊｝, is there something you want
+        MsgDisp("主人公","(｛Honda＊＊｝, is there something you want
 me to do?)");
         break ;
         default :

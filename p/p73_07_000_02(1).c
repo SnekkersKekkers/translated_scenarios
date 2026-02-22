@@ -16,7 +16,7 @@ festival...I have to make it a success!)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700002_07_000");
     MsgDisp("Mikage","Oh, the bride is in such a place.");
-    MsgDisp("主人公","｛御影＊＊｝...");
+    MsgDisp("主人公","｛Mikage＊＊｝...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -50,7 +50,7 @@ such a cute bride. It's already a success.");
 If only I saw this, I might be hit with
 divine punishment.");
     MsgDisp("主人公","Yes...!");
-    MsgDisp("主人公","(I've gotten ｛御影＊＊｝'s seal of
+    MsgDisp("主人公","(I've gotten ｛Mikage＊＊｝'s seal of
 approval. Alright, let's carry myself with
 confidence!)");
     break ;
@@ -67,7 +67,7 @@ festival...I have to make it a success!)");
     MsgDisp("Mikage","Oh!
 Even in such a place, there's a cute
 bride.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Did you come to support me?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -114,7 +114,7 @@ fingers in my mouth.");
     VoicePlay("P730700002_07_110");
     MsgDisp("Mikage","Yeah, you have to go show everyone this
 lovely dress.");
-    MsgDisp("主人公","(...Thanks to ｛御影＊＊｝, I feel like
+    MsgDisp("主人公","(...Thanks to ｛Mikage＊＊｝, I feel like
 I've been able to relax...Alright, let's
 have some fun!)");
     break ;

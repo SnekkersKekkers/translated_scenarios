@@ -9,7 +9,7 @@ VoicePlay("B040506202_05_000");
 MsgDisp("Hiiragi","It's hard to believe it's bustling
 outside.
 It's mysterious.");
-MsgSel("We can talk calmly here.","It's like we're on a stage, ｛柊＊＊＊｝...","Ahー it's funny how our voices echo");
+MsgSel("We can talk calmly here.","It's like we're on a stage, ｛Hiiragi＊＊＊｝...","Ahー it's funny how our voices echo");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -75,7 +75,7 @@ today though.");
         ChClose(5,0,30);
         MsgDisp("主人公","Uh...
 ——Hm?
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
         VoicePlay("B040506202_05_070");
         MsgDisp("Hiiragi","Ahhーーー.");
         MsgDisp("主人公","Ehh∈");
@@ -95,7 +95,7 @@ That wasn't my intention though.");
         ChMotion(5,0);
         VoicePlay("B040506202_05_100");
         MsgDisp("Hiiragi","Your usual unpredictability is wonderful.");
-        MsgDisp("主人公","(｛柊＊＊＊｝...
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 But, I have mixed feelings about how you
 praised me...)");
         break ;

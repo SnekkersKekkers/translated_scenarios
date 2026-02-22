@@ -53,7 +53,7 @@ depending on the individual.");
 heirlooms, each one of those families have
 an individual sense of what's valuable.");
         MsgDisp("主人公","That's right. by the way, does
-｛大地＊＊｝ have his own treasures?");
+｛Daichi＊＊｝ have his own treasures?");
         ChEye(8,4);
         ChMouth(8,4);
         ChMotion(8,2,1);
@@ -87,7 +87,7 @@ I just said something cringy.");
         ChMotion(8,2,1);
         VoicePlay("B040822202_08_080");
         MsgDisp("Shirahane","But, I'm not lying, ya know?");
-        MsgDisp("主人公","(｛大地＊＊｝...)");
+        MsgDisp("主人公","(｛Daichi＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

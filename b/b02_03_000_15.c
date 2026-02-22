@@ -12,5 +12,5 @@ VoicePlay("B020300015_03_010");
 MsgDisp("Honda","Spot-on! As a matter of fact, I have the
 same thing. Hey hey, next time let's wear
 them together!");
-MsgDisp("主人公","(｛本多＊＊｝ likes this brand too.
+MsgDisp("主人公","(｛Honda＊＊｝ likes this brand too.
 Hehe, I'm glad we have similar tastes.)");

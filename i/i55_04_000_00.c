@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550400000_04_000");
     MsgDisp("Nanatsumori","Ah.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome.");
     ChEye(4,2);
     ChMouth(4,4);
@@ -45,7 +45,7 @@ By the way, got any new sweets?");
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550400000_04_040");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
     ChEye(4,0);
     ChMouth(4,3);
@@ -72,7 +72,7 @@ like?");
     MsgDisp("Nanatsumori","Ah, keep one of those daifuku for me.
 Now tell me about the next one.");
     MsgDisp("主人公","(Hehe.
-I hope ｛七ツ森＊｝ likes these.)");
+I hope ｛Nanatsumori＊｝ likes these.)");
     break ;
     case 4:
     case 5:
@@ -82,7 +82,7 @@ I hope ｛七ツ森＊｝ likes these.)");
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550400000_04_090");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
     ChEye(4,3);
     ChMouth(4,4);
@@ -112,7 +112,7 @@ and having a good time?");
     VoicePlay("I550400000_04_130");
     MsgDisp("Nanatsumori","So, if I was the one feeling like that,
 which would you recommend?");
-    MsgDisp("主人公","｛七ツ森＊｝'s current feelings?
+    MsgDisp("主人公","｛Nanatsumori＊｝'s current feelings?
 A very good mood, and kinda happy...");
     ChEye(4,3);
     ChMouth(4,3);
@@ -125,7 +125,7 @@ A very good mood, and kinda happy...");
     VoicePlay("I550400000_04_150");
     MsgDisp("Nanatsumori","Well, anything you'd choose for me would
 be the correct answer, though.");
-    MsgDisp("主人公","(Is ｛七ツ森＊｝ testing me?
+    MsgDisp("主人公","(Is ｛Nanatsumori＊｝ testing me?
 Alright, I'll choose something that he'll
 definitely like!)");
     break ;

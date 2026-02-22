@@ -25,7 +25,7 @@ VoicePlay("B050700300_07_020");
 MsgDisp("Mikage","\"Quickly, quickly!\"
 I understand what that feels like.");
 MsgDisp("主人公","Hehe.
-｛御影＊＊｝, you're also somewhat in
+｛Mikage＊＊｝, you're also somewhat in
 high spirits aren't you?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -88,7 +88,7 @@ StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700300_07_090");
 MsgDisp("Mikage","Is it really that tall...?");
-MsgDisp("主人公","(Looks like ｛御影＊＊｝ is more
+MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is more
 surprised than the kids?)");
 MsgClose();
 ScrFadeOut(0);
@@ -119,7 +119,7 @@ MsgDisp("Mikage","That's right.
 I'll be counting on you to stick with me
 for everything the free pass covers today.");
 MsgDisp("主人公","(After bowling, the next thing that
-｛御影＊＊｝ wants to do is go to the
+｛Mikage＊＊｝ wants to do is go to the
 theme park...Alright, I'll enjoy it with
 him too!)");
 BGMStop();

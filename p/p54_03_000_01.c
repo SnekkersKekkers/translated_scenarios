@@ -11,7 +11,7 @@ ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P540300001_03_000");
 MsgDisp("Honda","｛主人公｝, good work.");
-MsgDisp("主人公","｛本多＊＊｝, I failed.");
+MsgDisp("主人公","｛Honda＊＊｝, I failed.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);

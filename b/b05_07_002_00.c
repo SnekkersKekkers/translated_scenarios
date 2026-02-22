@@ -19,7 +19,7 @@ MsgDisp("Mikage","That way!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","Eh, ｛御影＊＊｝∋");
+MsgDisp("主人公","Eh, ｛Mikage＊＊｝∋");
 SEPlay("EV_SE_583",0,0.5);
 MsgClose();
 ScrFadeOut(0);
@@ -56,7 +56,7 @@ StlMouth(7,0);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("B050700200_07_030");
 MsgDisp("Mikage","Calm down...");
-MsgDisp("主人公","(｛御影＊＊｝, amazing...
+MsgDisp("主人公","(｛Mikage＊＊｝, amazing...
 He's calmed down an enraged horse...)");
 StlEye(7,0);
 StlMouth(7,1);
@@ -88,7 +88,7 @@ MsgClose();
 BGOpen("tr510",0);
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝, do you know that horse?");
+MsgDisp("主人公","｛Mikage＊＊｝, do you know that horse?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

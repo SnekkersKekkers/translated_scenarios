@@ -6,7 +6,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040408100_04_000");
 MsgDisp("Nanatsumori","Ohー, they're in full bloom.");
-MsgSel("｛七ツ森＊｝, the flurry of falling cherry blossoms suit you.","The time in which you can see the falling cherry blossoms is so fleeting...","I want to eat some delicious cherry blossom mochi");
+MsgSel("｛Nanatsumori＊｝, the flurry of falling cherry blossoms suit you.","The time in which you can see the falling cherry blossoms is so fleeting...","I want to eat some delicious cherry blossom mochi");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -12,7 +12,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H4A0600000_06_000");
     MsgDisp("Himuro","You did it.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);
@@ -38,7 +38,7 @@ Today's the best day ever!)");
     ScrFadeIn(0);
     VoicePlay("H4A0600000_06_030");
     MsgDisp("Himuro","Congrats.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
 Thanks.");
     ChEye(6,0);
     ChMouth(6,0);

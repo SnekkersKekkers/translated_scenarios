@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110610000_06_000");
 MsgDisp("Himuro","...");
-MsgDisp("主人公","｛氷室＊＊｝?
+MsgDisp("主人公","｛Himuro＊＊｝?
 Is something wrong?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -57,7 +57,7 @@ See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","(I think I'll go check out ｛氷室＊＊｝'s
+MsgDisp("主人公","(I think I'll go check out ｛Himuro＊＊｝'s
 class later.)");
 MsgClose();
 ScrFadeOut(0,0);

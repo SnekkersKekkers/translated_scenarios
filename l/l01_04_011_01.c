@@ -1,4 +1,4 @@
 MsgDisp("主人公","The premium chocolate has to go to
-｛七ツ森＊｝!");
+｛Nanatsumori＊｝!");
 MsgClose();
 ScrFadeOut(0);

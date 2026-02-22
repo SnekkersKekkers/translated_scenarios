@@ -86,7 +86,7 @@ You've helped me grow a lot.");
         MsgDisp("Nanatsumori","...Hey, do you think I've changed?
 From the time we met to now.");
         MsgDisp("主人公","That's right.
-When I met ｛七ツ森＊｝...
+When I met ｛Nanatsumori＊｝...
 I felt like he was a bit scary.");
         ChEye(4,2);
         ChMouth(4,3);
@@ -127,7 +127,7 @@ They're pretty, right?");
         MsgDisp("Nanatsumori","Yeah.
 It truly is beautiful.");
         SEStop("EV_SE_022");
-        MsgDisp("主人公","(｛七ツ森＊｝...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :
         DbgAssert(1);

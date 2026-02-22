@@ -63,7 +63,7 @@ culture where hugs and kisses were used as
 a greeting. Be prepared.");
 MsgDisp("主人公","(He's talking about English-style
 skinship...Huh, haven't I heard this
-before? I wonder if ｛風真＊＊｝ is
+before? I wonder if ｛Kazama＊＊｝ is
 alright?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,7 +5,7 @@ ChOpen(3,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("X210300000_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -49,7 +49,7 @@ VoicePlay("X210300000_03_060");
 MsgDisp("Honda","...But, there's no point in me being so
 confident in myself.");
 MsgDisp("主人公","Hehe.
-｛本多＊＊｝, thank you.");
+｛Honda＊＊｝, thank you.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040523201_05_000");
 MsgDisp("Hiiragi","At the highest point, you can see the
 horizon.");
-MsgSel("｛柊＊＊＊｝, did you fall asleep?","That was Hanegasaki beach","I could also see the gondola next to us");
+MsgSel("｛Hiiragi＊＊＊｝, did you fall asleep?","That was Hanegasaki beach","I could also see the gondola next to us");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to go home.
 ...Huh?)");
-MsgDisp("主人公","｛柊＊＊＊｝?
+MsgDisp("主人公","｛Hiiragi＊＊＊｝?
 What are you doing in front of the store?");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
@@ -65,7 +65,7 @@ ChMotion(5,2);
 VoicePlay("E010510100_05_070");
 MsgDisp("Hiiragi","If you can't understand it, I guess others
 won't either.");
-MsgDisp("主人公","｛柊＊＊＊｝?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("E010510100_05_080");
@@ -79,7 +79,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝'s way of thinking is a bit
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝'s way of thinking is a bit
 complicated...)");
 MsgClose();
 ScrFadeOut(0,0);

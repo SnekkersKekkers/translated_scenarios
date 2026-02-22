@@ -7,7 +7,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛本多＊＊｝.");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -28,7 +28,7 @@ VoicePlay("H2A0300001_03_020");
 MsgDisp("Honda","You might be filled with frustration now,
 but you still need to give yourself credit
 for these past three years, right?");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -42,7 +42,7 @@ ChMotion(3,1);
 VoicePlay("H2A0300001_03_040");
 MsgDisp("Honda","Ah, but it doesn't have to be ramen, okay?");
 MsgDisp("主人公","Hehe.
-｛本多＊＊｝, thanks!");
+｛Honda＊＊｝, thanks!");
 MsgDisp("主人公","(We might have lost, but I'm glad that I
 stayed as the track and field club
 manager...)");

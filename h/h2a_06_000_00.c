@@ -12,7 +12,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H2A0600000_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -37,7 +37,7 @@ field club manager!)");
     VoicePlay("H2A0600000_06_030");
     MsgDisp("Himuro","I didn't think you guys would actually
 win.");
-    MsgDisp("主人公","｛氷室＊＊｝!
+    MsgDisp("主人公","｛Himuro＊＊｝!
 Hehe, awesome, right?");
     ChEye(6,0);
     ChMouth(6,0);

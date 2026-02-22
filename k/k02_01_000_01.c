@@ -15,7 +15,7 @@ VoicePlay("K020100001_01_000");
 MsgDisp("Kazama","｛主人公｝.
 Sorry for the short notice.");
 MsgDisp("主人公","Hm?
-｛風真＊＊｝, what's up?");
+｛Kazama＊＊｝, what's up?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -40,7 +40,7 @@ ChMotion(1,3);
 VoicePlay("K020100001_01_030");
 MsgDisp("Kazama","Happy birthday.
 Let's celebrate.");
-MsgDisp("主人公","Thank you, ｛風真＊＊｝!");
+MsgDisp("主人公","Thank you, ｛Kazama＊＊｝!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -71,6 +71,6 @@ SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(I got a present from ｛風真＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛Kazama＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

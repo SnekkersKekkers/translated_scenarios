@@ -4,7 +4,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(5,254,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, good work.
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, good work.
 I'm very sorry for causing trouble.");
 VoicePlay("P850500007_05_000");
 MsgDisp("Hiiragi","Thank you for your hard work.
@@ -16,7 +16,7 @@ VoicePlay("P850500007_05_010");
 MsgDisp("Hiiragi","You didn't just care about yourself, you
 cared about me and the people around us.
 Thank you.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,2);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);

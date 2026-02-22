@@ -25,7 +25,7 @@ VoicePlay("B360501101_05_020");
 MsgDisp("Hiiragi","Ah, if I say something like that, Inori
 will scold me.");
 MsgDisp("主人公","Hehe, that's probably right.
-How about ｛御影＊＊｝?");
+How about ｛Mikage＊＊｝?");
 ChEye(5,3);
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
@@ -43,7 +43,7 @@ VoicePlay("B360501101_05_040");
 MsgDisp("Hiiragi","...I don't want to.");
 ChEyeOpenLevel(5,#1);
 Wait(40,1);
-MsgDisp("主人公","｛柊＊＊＊｝?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -62,7 +62,7 @@ VoicePlay("B360501101_05_070");
 MsgDisp("Hiiragi","I see, excuse me.
 But I still think it's better when it's
 just us two.");
-MsgDisp("主人公","(｛柊＊＊＊｝...Seems like he's having fun,
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...Seems like he's having fun,
 but he's also acting strange. What
 happened...)");
 BGMStop();

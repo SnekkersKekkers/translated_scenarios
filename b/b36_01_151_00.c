@@ -11,7 +11,7 @@ SEPlay("EV_SE_785");
 Wait(50,0);
 VoicePlay("B360115100_01_000");
 MsgDisp("Kazama","Alright.");
-MsgDisp("主人公","｛風真＊＊｝, amazing∈ You kept getting
+MsgDisp("主人公","｛Kazama＊＊｝, amazing∈ You kept getting
 strikes one after the other.");
 MsgClose();
 ChOpen(1,255,7,0,3,#1,#1,0,0);
@@ -19,7 +19,7 @@ ChMotion(1,3);
 VoicePlay("B360115100_01_010");
 MsgDisp("Kazama","Yeah, I mean, you're energetic after all
 that fuss, aren't you?");
-MsgDisp("主人公","Hehe, it's ｛風真＊＊｝ after all.");
+MsgDisp("主人公","Hehe, it's ｛Kazama＊＊｝ after all.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -45,7 +45,7 @@ MsgDisp("Kazama","Well, watch carefully!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(1);
-MsgDisp("主人公","Wait a second, ｛風真＊＊｝?");
+MsgDisp("主人公","Wait a second, ｛Kazama＊＊｝?");
 SEWait();
 SEPlay("EV_SE_785");
 Wait(60,0);
@@ -53,7 +53,7 @@ MsgClose();
 ChOpen(1,255,4,4,2,0,#1,7,0);
 VoicePlay("B360115100_01_050");
 MsgDisp("Kazama","......");
-MsgDisp("主人公","｛風真＊＊｝, umm...wasn't it my turn just
+MsgDisp("主人公","｛Kazama＊＊｝, umm...wasn't it my turn just
 now?");
 ChEye(1,0);
 ChMouth(1,2);

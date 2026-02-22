@@ -13,7 +13,7 @@ MsgDisp("Kazama","It really has a unique shape.
 Some grind flour and some pump water, so
 they have different uses.");
 MsgDisp("主人公","Is that so.
-｛風真＊＊｝, you really know alot, huh?");
+｛Kazama＊＊｝, you really know alot, huh?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -108,7 +108,7 @@ MsgDisp("Kazama","It's amazing how the owner came to a
 foreign country 9000km from the UK, such a
 long time ago.");
 MsgDisp("主人公","Do you understand the feeling he may have
-had, ｛風真＊＊｝?");
+had, ｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

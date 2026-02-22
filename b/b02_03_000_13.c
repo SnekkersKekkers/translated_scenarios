@@ -3,7 +3,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B020300013_03_000");
 MsgDisp("Honda","......");
-MsgDisp("主人公","Umm, ｛本多＊＊｝?
+MsgDisp("主人公","Umm, ｛Honda＊＊｝?
 Is there something weird about my yukata?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -12,5 +12,5 @@ VoicePlay("B020300013_03_010");
 MsgDisp("Honda","No way! It's so beautiful, I was totally
 captivated. Look, even my heart is
 speeding up!");
-MsgDisp("主人公","(｛本多＊＊｝ seems to be pleased.
+MsgDisp("主人公","(｛Honda＊＊｝ seems to be pleased.
 I'm glad I wore this!)");

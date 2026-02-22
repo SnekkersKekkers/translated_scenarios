@@ -28,7 +28,7 @@ VoicePlay("T040120000_06_010");
 MsgDisp("Himuro","Huh?
 Why me?
 I don't understand.");
-MsgDisp("主人公","｛氷室＊＊｝ doesn't eat that much.
+MsgDisp("主人公","｛Himuro＊＊｝ doesn't eat that much.
 ...right?");
 VoicePlay("T040120000_01_020");
 MsgDisp("Kazama","Well, he's still a kid.");

@@ -34,7 +34,7 @@ MsgDisp("Hiiragi","Thank you very much.
 It's only at times such as this where I
 can be of help.");
 MsgDisp("主人公","No, that's not true.
-｛柊＊＊＊｝ always helps me.");
+｛Hiiragi＊＊＊｝ always helps me.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

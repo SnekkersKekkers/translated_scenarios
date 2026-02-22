@@ -11,7 +11,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360318000_03_000");
 MsgDisp("Honda","So, what movie do you want to see?");
-MsgDisp("主人公","What about you, ｛本多＊＊｝?");
+MsgDisp("主人公","What about you, ｛Honda＊＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -57,7 +57,7 @@ VoicePlay("B360318000_03_060");
 MsgDisp("Honda","Exactly!
 Instead of a movie, I'll just chat with
 you～");
-MsgDisp("主人公","(｛本多＊＊｝'s stories might be longer
+MsgDisp("主人公","(｛Honda＊＊｝'s stories might be longer
 than a movie...)");
 BGMStop();
 MsgClose();

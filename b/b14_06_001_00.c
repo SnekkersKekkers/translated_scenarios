@@ -10,7 +10,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B140600100_06_000");
 MsgDisp("Himuro","Yeah, it's nice.");
-MsgDisp("主人公","｛氷室＊＊｝, thanks for today.");
+MsgDisp("主人公","｛Himuro＊＊｝, thanks for today.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -87,7 +87,7 @@ and teach me more about the true joys of
 Christmas.");
 MsgDisp("主人公","Yeah, of course!");
 MsgDisp("主人公","(I'm glad I got to spend Christmas with
-｛氷室＊＊｝...)");
+｛Himuro＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -7,7 +7,7 @@ VoiceEVSPlay(7);
 VoicePlay("F110710000_07_000");
 MsgDisp("Mikage","｛主人公｝, are you enjoying the festival?");
 MsgDisp("主人公","Yes!
-Oh, ｛御影＊＊｝, that outfit...");
+Oh, ｛Mikage＊＊｝, that outfit...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -40,7 +40,7 @@ MsgDisp("Woman Customer","Huh?
 Is this horse riding?");
 VoicePlay("F110710000_07_050");
 MsgDisp("Mikage","That's right, with a cute pony.");
-MsgDisp("主人公","(｛御影＊＊｝...somehow, that looks really
+MsgDisp("主人公","(｛Mikage＊＊｝...somehow, that looks really
 fun...)");
 MsgClose();
 ScrFadeOut(0,0);

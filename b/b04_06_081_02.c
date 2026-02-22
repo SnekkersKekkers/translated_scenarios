@@ -99,7 +99,7 @@ studying or being an honor's student....");
         VoicePlay("B040608102_06_090");
         MsgDisp("Himuro","Perhaps it's just me who's caught up with
 the Himuro surname...");
-        MsgDisp("主人公","(｛氷室＊＊｝ also has a lot of worries
+        MsgDisp("主人公","(｛Himuro＊＊｝ also has a lot of worries
 huh...)");
         break ;
         default :

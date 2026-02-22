@@ -16,7 +16,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("E010120100_05_010");
 MsgDisp("Hiiragi","Ah, hello.");
-MsgDisp("主人公","Hello, ｛柊＊＊＊｝.
+MsgDisp("主人公","Hello, ｛Hiiragi＊＊＊｝.
 Are you doing some shopping?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -41,7 +41,7 @@ ChPosition(5,1);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChOpen(1,35,0,0,2,#1,#1,0,2);
-MsgDisp("主人公","｛風真＊＊｝!");
+MsgDisp("主人公","｛Kazama＊＊｝!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -84,7 +84,7 @@ ChClose(5);
 ChPosition(1,0);
 Wait(60,0);
 ChMotion(1,0);
-MsgDisp("主人公","｛柊＊＊＊｝ looked pretty happy.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ looked pretty happy.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -117,7 +117,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
 MsgDisp("主人公","Hehe.
-｛柊＊＊＊｝ and ｛風真＊＊｝ both are
+(｛Hiiragi＊＊＊｝ and ｛Kazama＊＊｝ both are
 amazing...)");
 MsgClose();
 ScrFadeOut(0,0);

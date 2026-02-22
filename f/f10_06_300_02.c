@@ -140,7 +140,7 @@ VoicePlay("F100630002_06_080");
 MsgDisp("Himuro","Eh!
 No∋
 That's not what I meant...!");
-MsgDisp("主人公","(Even ｛氷室＊＊｝ is no match for
+MsgDisp("主人公","(Even ｛Himuro＊＊｝ is no match for
 ｛みちる＊｝ and ｛ひかる＊｝, huh?)");
 BGMStop();
 MsgClose();

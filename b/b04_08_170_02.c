@@ -92,7 +92,7 @@ willin' to sing in front of others.");
         MsgDisp("Shirahane","I don't want to pretend that you're not
 here.
 I absolutely can't do that...");
-        MsgDisp("主人公","(｛大地＊＊｝....)");
+        MsgDisp("主人公","(｛Daichi＊＊｝....)");
         break ;
         default :
         DbgAssert(1);

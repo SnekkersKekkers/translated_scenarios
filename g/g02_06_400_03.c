@@ -27,7 +27,7 @@ ChMotion(6,0);
 VoicePlay("G020640003_06_030");
 MsgDisp("Himuro","Also, we would be together for another
 year longer...");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 VoicePlay("G020640003_06_050");
 ChEye(6,0);
 ChMouth(6,0);
@@ -39,7 +39,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1,1);
 MsgDisp("Himuro","Would I be a better guy?");
-MsgDisp("主人公","｛氷室＊＊｝, aren't you a great guy already?");
+MsgDisp("主人公","｛Himuro＊＊｝, aren't you a great guy already?");
 VoicePlay("G020640003_06_070");
 ChEye(6,0);
 ChMouth(6,4);

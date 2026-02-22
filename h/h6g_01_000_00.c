@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("H6G0100000_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛風真＊＊｝?
+MsgDisp("主人公","Oh, ｛Kazama＊＊｝?
 What is it?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -53,7 +53,7 @@ MsgDisp("Kazama","Well, I guess this just means that even
 plants can feel your kindness.
 Congrats.");
 MsgDisp("主人公","Hehe, thanks!");
-MsgDisp("主人公","(｛風真＊＊｝ went out of his way to
+MsgDisp("主人公","(｛Kazama＊＊｝ went out of his way to
 congratulate me. I'm glad I worked so hard
 for the gardening club!)");
 MsgClose();

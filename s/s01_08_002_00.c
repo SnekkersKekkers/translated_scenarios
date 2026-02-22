@@ -1,3 +1,3 @@
-MsgDisp("主人公","Oh, it's from ｛大地＊＊｝.
+MsgDisp("主人公","Oh, it's from ｛Daichi＊＊｝.
 An intense looking tiger...
 I feel powerful looking at it...!");

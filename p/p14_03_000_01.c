@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P140300001_03_000");
 MsgDisp("Honda","Huh...");
-MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome back.");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝, welcome back.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -31,7 +31,7 @@ properly.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 MsgDisp("主人公","(Ugh...\" get lost properly\"...
-I made ｛本多＊＊｝ uncomfortable...
+I made ｛Honda＊＊｝ uncomfortable...
 What a huge failure...)");
 MsgClose();
 ScrFadeOut(0,0);

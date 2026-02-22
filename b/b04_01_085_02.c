@@ -6,7 +6,7 @@ ChMotion(1,1);
 VoicePlay("B040108502_01_000");
 MsgDisp("Kazama","Something about this place makes me want
 to come here regularly.");
-MsgSel("It's charming in every season, right?","｛風真＊＊｝ likes the fireflies' home, huh?","Maybe something is guiding you here");
+MsgSel("It's charming in every season, right?","｛Kazama＊＊｝ likes the fireflies' home, huh?","Maybe something is guiding you here");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -99,7 +99,7 @@ of us could hear it.");
 out.");
         ChMouth(1,2);
         MsgDisp("主人公","Whoa!
-｛風真＊＊｝, I think I just heard it!");
+｛Kazama＊＊｝, I think I just heard it!");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,0);

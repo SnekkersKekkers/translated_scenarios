@@ -41,7 +41,7 @@ VoicePlay ( "D150002701_02_020" ) ;
 MsgDisp ( "Sassa","It helps me to talk to Mikage-sensei about
 my diet and my training.
 He gives me confidence." ) ;
-MsgDisp ( "主人公","As expected of ｛御影＊＊｝." ) ;
+MsgDisp ( "主人公","As expected of ｛Mikage＊＊｝." ) ;
 ChEye ( 7,0 ) ;
 ChMouth ( 7,3 ) ;
 ChMotion ( 7,1 ) ;
@@ -53,7 +53,7 @@ ChMotion ( 2,4 ) ;
 VoicePlay ( "D150002701_02_030" ) ;
 MsgDisp ( "Sassa","I wonder why Mikage-sensei's advice always
 helps." ) ;
-MsgDisp ( "主人公","(｛御影＊＊｝ is really good at motivating
+MsgDisp ( "主人公","(｛Mikage＊＊｝ is really good at motivating
 his students.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;

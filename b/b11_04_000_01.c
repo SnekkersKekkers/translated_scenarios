@@ -1,7 +1,7 @@
 ChLayout(1);
 ChClose(4,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Seems like ｛七ツ森＊｝ isn't here
+MsgDisp("主人公","Seems like ｛Nanatsumori＊｝ isn't here
 yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -37,7 +37,7 @@ VoicePlay("B110400001_04_000");
 MsgDisp("Nanatsumori","Dumbass.
 What's with that lame catchphrase-like
 line...");
-MsgDisp("主人公","｛七ツ森＊｝!");
+MsgDisp("主人公","｛Nanatsumori＊｝!");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);

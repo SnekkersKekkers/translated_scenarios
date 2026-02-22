@@ -36,7 +36,7 @@ I'll clean it up now.");
 to the work.
 You'll make more mistakes.");
     MsgDisp("主人公","O-Okay.");
-    MsgDisp("主人公","(Like ｛氷室＊＊｝ told me to, I'll have to
+    MsgDisp("主人公","(Like ｛Himuro＊＊｝ told me to, I'll have to
 get it together...!)");
     break ;
     case 4:
@@ -78,7 +78,7 @@ Thanks!");
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600000_06_070");
     MsgDisp("Himuro","......");
-    MsgDisp("主人公","(I troubled ｛氷室＊＊｝...)");
+    MsgDisp("主人公","(I troubled ｛Himuro＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

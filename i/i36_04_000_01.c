@@ -42,7 +42,7 @@ I was just thinking the same thing.
 Well, I'll have the same as him.");
     MsgDisp("主人公","Yes, understood.
 A blend coffee and strawberry shortcake!");
-    MsgDisp("主人公","(｛七ツ森＊｝ praised me!)");
+    MsgDisp("主人公","(｛Nanatsumori＊｝ praised me!)");
     break ;
     case 4:
     case 5:
@@ -82,7 +82,7 @@ Feels nice.");
     VoicePlay("I360400001_04_060");
     MsgDisp("Nanatsumori","...A blend coffee and strawberry
 shortcake, please.");
-    MsgDisp("主人公","(Did ｛七ツ森＊｝ praise me?)");
+    MsgDisp("主人公","(Did ｛Nanatsumori＊｝ praise me?)");
     break ;
     default :
     DbgAssert(1);

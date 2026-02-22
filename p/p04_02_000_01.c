@@ -4,7 +4,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("P040200001_02_000");
 MsgDisp("Sassa","Phew, thanks for the meal.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 How was it?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -41,7 +41,7 @@ I'm going to go get something else to eat.");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Haa, I messed up.
-I wanted to give ｛颯砂＊＊｝ delicious
+I wanted to give ｛Sassa＊＊｝ delicious
 dango to eat...)");
 MsgClose();
 ScrFadeOut(0,0);

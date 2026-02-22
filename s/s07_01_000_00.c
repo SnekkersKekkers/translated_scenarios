@@ -21,7 +21,7 @@ It's really a huge turnout.");
     VoicePlay("S070100000_01_010");
     MsgDisp("Kazama","Look.
 It's really restless around here.");
-    MsgDisp("主人公","(Is ｛風真＊＊｝ worrying this year, too?)");
+    MsgDisp("主人公","(Is ｛Kazama＊＊｝ worrying this year, too?)");
     break ;
     case 3:
     ChEye(1,0);
@@ -51,7 +51,7 @@ It'll save the Gods' time too.");
     ChCheek(1,5);
     VoicePlay("S070100000_01_050");
     MsgDisp("Kazama","Surely, we share the same wish.");
-    MsgDisp("主人公","(｛風真＊＊｝...?)");
+    MsgDisp("主人公","(｛Kazama＊＊｝...?)");
     break ;
     case 4:
     case 5:
@@ -82,7 +82,7 @@ think about our wishes.");
     VoicePlay("S070100000_01_080");
     MsgDisp("Kazama","Ha...you say that so carefreely.
 My wish has been the same for 10 years.");
-    MsgDisp("主人公","(｛風真＊＊｝'s wish.
+    MsgDisp("主人公","(｛Kazama＊＊｝'s wish.
 I wonder what it is...?)");
     break ;
     default :

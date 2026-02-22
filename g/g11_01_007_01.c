@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home now.)");
-MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over there. Well,
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there. Well,
 let's chat a bit then go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -23,7 +23,7 @@ VoicePlay("G110100701_01_000");
 MsgDisp("Kazama","I lost track of time...
 This is a nice season isn't it?");
 MsgDisp("主人公","Yeah, it feels nice, huh?
-Does ｛風真＊＊｝ also like spring?");
+Does ｛Kazama＊＊｝ also like spring?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

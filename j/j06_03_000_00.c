@@ -29,7 +29,7 @@ Well, I'll see you Sunday!");
         BGMStop();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(｛本多＊＊｝ invited me out....
+        MsgDisp("主人公","(｛Honda＊＊｝ invited me out....
 Is this a date?)");
         break ;
         case 4:
@@ -70,7 +70,7 @@ See you later?");
         BGMStop();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(｛本多＊＊｝, I've been invited on a date.
+        MsgDisp("主人公","(｛Honda＊＊｝, I've been invited on a date.
 I'm looking forward to Sunday!)");
         break ;
         default :

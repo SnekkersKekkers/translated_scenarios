@@ -13,7 +13,7 @@ MsgClose();
 ChOpen(2,254,4,0,0,#1,#1,0,1);
 MsgClose();
 ChOpen(6,254,2,2,0,0,#1,0,2);
-MsgDisp("主人公","｛颯砂＊＊｝, ｛氷室＊＊｝!
+MsgDisp("主人公","｛Sassa＊＊｝, ｛Himuro＊＊｝!
 What are you two up to?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -71,7 +71,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240001_02_050");
 MsgDisp("Sassa","Thank you, I'm counting on you.");
-MsgDisp("主人公","(｛颯砂＊＊｝ and ｛氷室＊＊｝ are like
+MsgDisp("主人公","(｛Sassa＊＊｝ and ｛Himuro＊＊｝ are like
 friends, brothers, and rivals?
 Boys' relationships are so strange.)");
 BGMStop();

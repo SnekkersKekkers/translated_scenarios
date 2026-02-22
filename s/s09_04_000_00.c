@@ -97,7 +97,7 @@ Are you brave enough to give it a try?");
         VoicePlay("S090400000_04_080");
         MsgDisp("Nanatsumori","Ooh...
 So strong.");
-        MsgDisp("主人公","Is ｛七ツ森＊｝ afraid of drawing
+        MsgDisp("主人公","Is ｛Nanatsumori＊｝ afraid of drawing
 fortunes?");
         ChEye(4,2);
         ChMouth(4,3);

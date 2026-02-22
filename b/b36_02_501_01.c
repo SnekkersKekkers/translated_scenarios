@@ -45,7 +45,7 @@ MsgDisp("Sassa","I'm going to climb it for abit!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝, you're like a kid?
+MsgDisp("主人公","(｛Sassa＊＊｝, you're like a kid?
 Maybe we also used to play like this
 together in Kindergarten...?)");
 BGMStop();

@@ -1,6 +1,6 @@
 BGOpen("sc310",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm sure ｛御影＊＊｝ said he would
+MsgDisp("主人公","(I'm sure ｛Mikage＊＊｝ said he would
 give me the handout for the
 extracurricular lesson...)");
 MsgClose();
@@ -31,7 +31,7 @@ MsgDisp("Mikage","I guess I should expect that from the
 little worker bee who joins me for
 extracurricular lessons.");
 MsgDisp("主人公","You usually aren't in the faculty room
-after all, ｛御影＊＊｝.");
+after all, ｛Mikage＊＊｝.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

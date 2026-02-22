@@ -22,7 +22,7 @@ ChMotion(6,0);
 VoicePlay("D140C06100_06_010");
 MsgDisp("Himuro","He didn't say anything to you?");
 MsgDisp("主人公","Yeah.
-｛柊＊＊＊｝ is busy, so there's no way he
+｛Hiiragi＊＊＊｝ is busy, so there's no way he
 can tell me everything.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -37,7 +37,7 @@ VoiceEVSPlay(7);
 VoicePlay("D140C06100_07_010");
 MsgDisp("Mikage","｛主人公｝ and Inori.
 Both of you, eat up and cheer up.");
-MsgDisp("主人公","Yes. ...｛氷室＊＊｝ as well?");
+MsgDisp("主人公","Yes. ...｛Himuro＊＊｝ as well?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -85,7 +85,7 @@ VoicePlay("D140C06100_06_060");
 MsgDisp("Himuro","Ehhh....
 Then, let's leave it here for today.");
 MsgDisp("主人公","(Both of them are worried about my
-relationship with ｛柊＊＊＊｝...
+relationship with ｛Hiiragi＊＊＊｝...
 I'm thankful.)");
 BGMStop();
 MsgClose();

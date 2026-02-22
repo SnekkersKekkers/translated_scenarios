@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600000_06_000");
     MsgDisp("Himuro","First place, huh...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);
@@ -24,7 +24,7 @@ mean.");
     ScrFadeOut(0,0);
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600000_06_020");
@@ -54,7 +54,7 @@ Right?");
     VoiceEVSPlay(6);
     VoicePlay("N020600000_06_050");
     MsgDisp("Himuro","｛主人公｝...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);

@@ -11,7 +11,7 @@ ChMotion(7,3);
 VoicePlay("P140700000_07_010");
 MsgDisp("Mikage","Seems like you guys made something
 amazing.");
-MsgDisp("主人公","｛御影＊＊｝, you finally reached the
+MsgDisp("主人公","｛Mikage＊＊｝, you finally reached the
 goal, huh?");
 ChEye(7,0);
 ChMouth(7,3);

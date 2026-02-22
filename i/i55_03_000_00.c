@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("I550300000_03_000");
     MsgDisp("Honda","Ah, you're working hard.");
-    MsgDisp("主人公","Hm, ｛本多＊＊｝?
+    MsgDisp("主人公","Hm, ｛Honda＊＊｝?
 What's up?");
     ChEye(3,4);
     ChMouth(3,0);
@@ -39,7 +39,7 @@ Thanks.");
 Work hard, 'kay?
 See you.");
     MsgDisp("主人公","(It suits me...
-It makes me happy that ｛本多＊＊｝ said
+It makes me happy that ｛Honda＊＊｝ said
 that.)");
     break ;
     case 3:
@@ -48,7 +48,7 @@ that.)");
     ChMotion(3,1,1);
     VoicePlay("I550300000_03_040");
     MsgDisp("Honda","Hello.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Welcome.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -82,11 +82,11 @@ keep for a while would be good.");
     MsgDisp("Honda","Thanks!
 Your sense for this kind of thing is good.
 Well, good luck with work.");
-    MsgDisp("主人公","(I'm happy ｛本多＊＊｝ complimented me!)");
+    MsgDisp("主人公","(I'm happy ｛Honda＊＊｝ complimented me!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛本多＊＊｝, welcome.
+    MsgDisp("主人公","｛Honda＊＊｝, welcome.
 Running an errand?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -135,7 +135,7 @@ actually know what's special about it.");
 I have to get back before the guests come!
 Could you pack up the new product, too?");
     MsgDisp("主人公","Hehe, thank you for your purchase.");
-    MsgDisp("主人公","(｛本多＊＊｝ praised me!
+    MsgDisp("主人公","(｛Honda＊＊｝ praised me!
 Let's keep up the good work!)");
     break ;
     default :

@@ -35,7 +35,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B04001_01_030");
 MsgDisp("Kazama","Right.");
-MsgDisp("主人公","｛本多＊＊｝?");
+MsgDisp("主人公","｛Honda＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);

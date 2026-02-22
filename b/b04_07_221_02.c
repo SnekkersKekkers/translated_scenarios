@@ -58,7 +58,7 @@ You really like high places don't you?");
         VoicePlay("B040722102_07_040");
         MsgDisp("Mikage","You really like high places, don't you?");
         MsgDisp("主人公","Ah, sorry...
-｛御影＊＊｝ isn't great with high
+｛Mikage＊＊｝ isn't great with high
 places, right?");
         ChEye(7,0);
         ChMouth(7,0);
@@ -73,7 +73,7 @@ You like the pretty scenery, right?");
         MsgDisp("Mikage","From now on, you will continue to see
 beautiful views, and hone your senses.");
         MsgDisp("主人公","But, it would be even better if I would
-see it with ｛御影＊＊｝...");
+see it with ｛Mikage＊＊｝...");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -93,7 +93,7 @@ I'll take three steps forward.");
         SEPlay("EV_SE_544");
         ChOpen(7,254,4,0,4,#1,#1,0,0);
         MsgDisp("主人公","Ehh∋
-｛御影＊＊｝, you're going the other
+｛Mikage＊＊｝, you're going the other
 way?");
         ChEye(7,0);
         ChMouth(7,3);
@@ -101,7 +101,7 @@ way?");
         VoicePlay("B040722102_07_090");
         MsgDisp("Mikage","Three steps is three steps, right?");
         MsgDisp("主人公","(Hehe.
-｛御影＊＊｝ doesn't like high places.
+｛Mikage＊＊｝ doesn't like high places.
 It's kind of cute?)");
         break ;
         default :

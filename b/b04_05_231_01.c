@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040523101_05_000");
 MsgDisp("Hiiragi","Which do you prefer?
 Riding in front or in the back?");
-MsgSel("Hmm, which do you like, ｛柊＊＊＊｝?","I don't like either!","The end!");
+MsgSel("Hmm, which do you like, ｛Hiiragi＊＊＊｝?","I don't like either!","The end!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

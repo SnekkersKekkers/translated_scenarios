@@ -7,7 +7,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("H280400000_04_000");
     MsgDisp("Nanatsumori","You're working hard.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 What's...");
     ChEye(4,0);
     ChMouth(4,3);
@@ -31,7 +31,7 @@ manager, right? Go and do your best.");
     VoiceEVSPlay(4);
     VoicePlay("H280400000_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 Did you come to cheer us on?");
     ChEye(4,4);
     ChMouth(4,4);

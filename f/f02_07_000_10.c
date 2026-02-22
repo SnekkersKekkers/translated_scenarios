@@ -25,7 +25,7 @@ preparing from the very beginning, so I'm
 telling you.");
 MsgDisp("主人公","Yes. From stage preparations to the script
 and acting, you supported us with
-everything, ｛御影＊＊｝.");
+everything, ｛Mikage＊＊｝.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -61,5 +61,5 @@ Now it's up to you to decide what shape of
 success you're going for.");
 MsgDisp("主人公","(I want to get the best possible result,
 not only for everyone, but also for
-｛御影＊＊｝ who had helped with all of
+｛Mikage＊＊｝ who had helped with all of
 the preparations.)");

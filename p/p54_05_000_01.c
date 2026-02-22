@@ -9,7 +9,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("P540500001_05_000");
 MsgDisp("Hiiragi","Good work.");
-MsgDisp("主人公","｛柊＊＊＊｝...
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 I only made mistakes...");
 ChEye(5,4);
 ChMouth(5,4);

@@ -7,7 +7,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("H1A0400001_04_000");
     MsgDisp("Nanatsumori","You worked hard.");
-    MsgDisp("主人公","｛七ツ森＊｝...
+    MsgDisp("主人公","｛Nanatsumori＊｝...
 We lost...");
     ChEye(4,2);
     ChMouth(4,4);
@@ -33,7 +33,7 @@ stayed as the baseball club manager...)");
     VoiceEVSPlay(4);
     VoicePlay("H1A0400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝...
+    MsgDisp("主人公","｛Nanatsumori＊｝...
 Ugh, we lost...");
     ChEye(4,2);
     ChMouth(4,4);

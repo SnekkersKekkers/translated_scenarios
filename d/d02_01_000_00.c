@@ -5,7 +5,7 @@ BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Oh?
-｛風真＊＊｝, good morning!
+｛Kazama＊＊｝, good morning!
 Were you maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -24,7 +24,7 @@ VoicePlay("D020100000_01_010");
 MsgDisp("Kazama","I guess so. When I look at you, I don't
 notice anything different. It's like you
 haven't grown at all.");
-MsgDisp("主人公","｛風真＊＊｝, you've changed a lot though,
+MsgDisp("主人公","｛Kazama＊＊｝, you've changed a lot though,
 haven't you?");
 ChEye(1,4);
 ChMouth(1,3);

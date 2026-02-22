@@ -68,7 +68,7 @@ the ghosts?");
 Your observation skills are the most scary
 thing.");
         MsgDisp("主人公","Hehe.
-｛御影＊＊｝ is a timid person isn't
+｛Mikage＊＊｝ is a timid person isn't
 he?");
         ChEye(7,0);
         ChMouth(7,0);
@@ -95,7 +95,7 @@ Let's go to the next one!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(｛御影＊＊｝ seems to be really enjoying
+        MsgDisp("主人公","(｛Mikage＊＊｝ seems to be really enjoying
 himself.
 I'm happy too.)");
         break ;

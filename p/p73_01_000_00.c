@@ -17,7 +17,7 @@ I'm nervous..)");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730100000_01_000");
     MsgDisp("Kazama","I came to tease you.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Don't tease me.");
     ChEye(1,0);
     ChMouth(1,2);
@@ -46,7 +46,7 @@ do.");
     SEWait();
     MsgDisp("主人公","Ah, it's starting.
 I'll to my best then!");
-    MsgDisp("主人公","(Huh? After talking to ｛風真＊＊｝, I
+    MsgDisp("主人公","(Huh? After talking to ｛Kazama＊＊｝, I
 think I feel more at ease...Alーright,
 let's do our best!)");
     MsgClose();
@@ -62,7 +62,7 @@ the runway...
 I'm nervous..)");
     VoicePlay("P730100000_01_040");
     MsgDisp("Kazama?","What's with that scary look on your face?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -91,7 +91,7 @@ Your work and model is the best.");
     MsgDisp("Kazama","It is.
 Or is my judgement not believable to you?");
     MsgDisp("主人公","No.
-｛風真＊＊｝'s appraisal is never wrong.");
+｛Kazama＊＊｝'s appraisal is never wrong.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -107,7 +107,7 @@ So, relax your shoulder and go.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","(Alーright.
-I was praised by ｛風真＊＊｝, so let's go
+I was praised by ｛Kazama＊＊｝, so let's go
 with confidence!)");
     MsgClose();
     ScrFadeOut(0,0);

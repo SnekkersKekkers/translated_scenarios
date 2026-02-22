@@ -67,7 +67,7 @@ Let's go.");
     MsgDisp("Sassa","Visiting the shrine on New Year's gives
 such a refreshing feeling.");
     MsgDisp("主人公","Yeah.
-｛颯砂＊＊｝, thanks for coming with me.");
+｛Sassa＊＊｝, thanks for coming with me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

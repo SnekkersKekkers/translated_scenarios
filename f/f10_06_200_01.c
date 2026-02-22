@@ -7,7 +7,7 @@ SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛本多＊＊｝.");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -28,7 +28,7 @@ VoiceEVSPlay(6);
 VoicePlay("F100620001_06_000");
 MsgDisp("Himuro?","｛主人公｝.");
 MsgDisp("主人公","Ah!
-｛氷室＊＊｝...");
+｛Himuro＊＊｝...");
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F100620001_06_010");
@@ -93,7 +93,7 @@ VoicePlay("F100620001_03_060");
 MsgDisp("Honda","Alright, let's go!");
 MsgDisp("主人公","(I know he suddenly barged in but, I'm
 kind of excited for the ramen shop
-｛本多＊＊｝ likes so much?)");
+｛Honda＊＊｝ likes so much?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

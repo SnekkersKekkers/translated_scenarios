@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_KOKU",0.01);
 ChOpen(3,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝...
+MsgDisp("主人公","｛Honda＊＊｝...
 Why are you here?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -44,7 +44,7 @@ MsgDisp("Honda","My younger sister taught me about the joy
 of teaching others. Although she started
 to avoid me when I became a middle school
 student.");
-MsgDisp("主人公","｛本多＊＊｝, I was worried.");
+MsgDisp("主人公","｛Honda＊＊｝, I was worried.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -67,7 +67,7 @@ VoicePlay("T020300000_03_080");
 MsgDisp("Honda","Look, the school trip we went on together
 was the best!");
 MsgDisp("主人公","Yeah, it was fun.
-｛本多＊＊｝ was our guide.");
+｛Honda＊＊｝ was our guide.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -87,7 +87,7 @@ ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("T020300000_03_110");
 MsgDisp("Honda","It's interesting, but a little scary.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -128,7 +128,7 @@ ChMotion(3,0,1);
 VoicePlay("T020300000_03_170");
 MsgDisp("Honda","But as long as I have you, the one I love,
 it'll be okay.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 MsgClear();
 ChClose(3);
 ChCustomLayout(3,5,0,-2.5);

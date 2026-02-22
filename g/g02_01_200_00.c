@@ -18,7 +18,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120000_01_020");
 MsgDisp("Kazama","Why isn't it me?");
-MsgDisp("主人公","｛風真＊＊｝?");
+MsgDisp("主人公","｛Kazama＊＊｝?");
 ChMotion(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -26,7 +26,7 @@ ChMouth(1,3);
 VoicePlay("G020120000_01_030");
 MsgDisp("Kazama","...Don't worry about it.
 But I am serious.");
-MsgDisp("主人公","(Isn't ｛風真＊＊｝ acting strange
+MsgDisp("主人公","(Isn't ｛Kazama＊＊｝ acting strange
 today...?)");
 BGMStop();
 MsgClose();

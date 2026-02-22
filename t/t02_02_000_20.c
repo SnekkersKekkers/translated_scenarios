@@ -4,7 +4,7 @@ ChCheek(2,0);
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
-MsgDisp("主人公","I also like ｛颯砂＊＊｝.");
+MsgDisp("主人公","I also like ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
@@ -12,7 +12,7 @@ ChCheek(2,10);
 VoicePlay("T020200020_02_000");
 MsgDisp("Sassa","Eh...");
 MsgDisp("主人公","I was also happy to have the opportunity
-to help ｛颯砂＊＊｝ achieve his dream.");
+to help ｛Sassa＊＊｝ achieve his dream.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

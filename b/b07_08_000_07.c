@@ -1,5 +1,5 @@
 MsgDisp("主人公","What's your dream for the future,
-｛大地＊＊｝?");
+｛Daichi＊＊｝?");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
@@ -43,7 +43,7 @@ MsgDisp("Shirahane","But I think it'll become clearer over
 time, and when it does, I'll tell you
 first.");
 MsgDisp("主人公","(I'm looking forward to the day I can hear
-｛大地＊＊｝'s dream!)");
+｛Daichi＊＊｝'s dream!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

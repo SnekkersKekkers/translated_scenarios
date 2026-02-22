@@ -16,7 +16,7 @@ MsgDisp("Mikage","Haha, sorry for being such an
 irresponsible advisor.
 I can't do much other than cheer.");
 MsgDisp("主人公","Your cheers will give everyone strength,
-｛御影＊＊｝.");
+｛Mikage＊＊｝.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

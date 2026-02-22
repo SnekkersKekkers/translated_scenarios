@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B040121100_01_000");
 MsgDisp("Kazama","Looks like there are lots of weird
 animals.");
-MsgSel("Let's get a closer look!","Let's take a picture with the animals!","Is there anything you wanna see, ｛風真＊＊｝?");
+MsgSel("Let's get a closer look!","Let's take a picture with the animals!","Is there anything you wanna see, ｛Kazama＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

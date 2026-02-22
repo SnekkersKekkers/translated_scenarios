@@ -10,7 +10,7 @@ ChMotion(3,0,1);
 VoicePlay("B040330002_03_000");
 MsgDisp("Honda","There's a separate room to raise insects
 and fish.");
-MsgSel("Are they ｛本多＊＊｝'s pets?","Won't they run away?","Haa, that's good.");
+MsgSel("Are they ｛Honda＊＊｝'s pets?","Won't they run away?","Haa, that's good.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -72,7 +72,7 @@ them.");
         VoicePlay("B040330002_03_050");
         MsgDisp("Honda","Then, let's put the creatures aside, and
 try some fortune telling?");
-        MsgDisp("主人公","Eh, ｛本多＊＊｝, you can fortune-tell?");
+        MsgDisp("主人公","Eh, ｛Honda＊＊｝, you can fortune-tell?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -85,7 +85,7 @@ quite a few books on it");
         MsgDisp("Honda","But it's more about compatibility, I
 think. It's the idea that everything in
 the world is connected and has a flow.");
-        MsgDisp("主人公","｛本多＊＊｝, that's amazing.");
+        MsgDisp("主人公","｛Honda＊＊｝, that's amazing.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);

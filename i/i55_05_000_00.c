@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("I550500000_05_000");
     MsgDisp("Hiiragi","Excuse me.");
     MsgDisp("主人公","Welcome!
-Ah, ｛柊＊＊＊｝.");
+Ah, ｛Hiiragi＊＊＊｝.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -60,7 +60,7 @@ Excuse me.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝, so you're going to be eating
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, so you're going to be eating
 it all by yourself...)");
     break ;
     case 3:
@@ -70,7 +70,7 @@ it all by yourself...)");
     VoiceEVSPlay(5);
     VoicePlay("I550500000_05_070");
     MsgDisp("Hiiragi","｛主人公｝, hello there.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Welcome!");
     VoicePlay("I550500000_05_080");
     MsgDisp("Hiiragi","I think that I will be eating in-store,
@@ -106,7 +106,7 @@ a little.");
     VoicePlay("I550500000_05_110");
     MsgDisp("Hiiragi","Haa...
 The karinto manju has been surpassed.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, how was it?");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, how was it?");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("I550500000_05_120");
@@ -114,7 +114,7 @@ The karinto manju has been surpassed.");
 the fugashi and hardened there.
 I'll take 20 to go.");
     MsgDisp("主人公","Thank you for your continued patronage!");
-    MsgDisp("主人公","(It looks like ｛柊＊＊＊｝ really liked
+    MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ really liked
 my recommendation ♪)");
     break ;
     case 4:
@@ -125,7 +125,7 @@ my recommendation ♪)");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I550500000_05_130");
     MsgDisp("Hiiragi","Excuse me.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, sorry.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, sorry.
 It's closing time, so there's not much
 left.");
     ChEye(5,4);

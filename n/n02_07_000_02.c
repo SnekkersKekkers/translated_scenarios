@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("N020700002_07_000");
     MsgDisp("Mikage","Oh, isn't that a passing score?
 I think it is.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -25,7 +25,7 @@ Maybe I should study a little bit harder?)");
     VoicePlay("N020700002_07_020");
     MsgDisp("Mikage","Well, it's an okay score, right?
 Not good but not bad either.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -48,7 +48,7 @@ Maybe I should study a little bit harder?)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020700002_07_050");
     MsgDisp("Mikage","Haha, right in the dead center.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);

@@ -27,7 +27,7 @@ ChMotion(5,4);
 VoicePlay("Q240500000_05_030");
 MsgDisp("Hiiragi","How dare you...
 I will fight for her honor!");
-MsgDisp("主人公","(Is ｛柊＊＊＊｝ acting like he's in a
+MsgDisp("主人公","(Is ｛Hiiragi＊＊＊｝ acting like he's in a
 historical drama...?
 Alright, me too!)");
 EnvStop(1);

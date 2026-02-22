@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040501101_05_000");
 MsgDisp("Hiiragi","Photo service...
 So they take photos for you.");
-MsgSel("We came all this way, so should we take some?","I'd like a photo with me and ｛柊＊＊＊｝!","It's pretty high...");
+MsgSel("We came all this way, so should we take some?","I'd like a photo with me and ｛Hiiragi＊＊＊｝!","It's pretty high...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

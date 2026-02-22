@@ -14,7 +14,7 @@ switch (ChPrmGet(3,6)){
     ChEyeOpenLevel(3,0);
     VoicePlay("Q080300000_03_000");
     MsgDisp("Honda","Today was a full day.");
-    MsgDisp("主人公","Yeah, it's because of you, ｛本多＊＊｝,
+    MsgDisp("主人公","Yeah, it's because of you, ｛Honda＊＊｝,
 thanks for asking me!");
     ChEye(3,3);
     ChMouth(3,3);
@@ -36,7 +36,7 @@ Of course.");
 I felt like I gained a lot more from going
 with you than I would have alone.");
     MsgDisp("主人公","That's my line.
-｛本多＊＊｝'s commentary felt very
+｛Honda＊＊｝'s commentary felt very
 luxurious.");
     ChEye(3,3);
     ChMouth(3,3);

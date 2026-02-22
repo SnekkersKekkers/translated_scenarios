@@ -36,7 +36,7 @@ See you later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Geez, ｛風真＊＊｝ really acts like a mom
+    MsgDisp("主人公","(Geez, ｛Kazama＊＊｝ really acts like a mom
 sometimes...)");
     BGMStop();
     MsgClose();
@@ -100,7 +100,7 @@ long time.");
     VoicePlay("S120100002_01_090");
     MsgDisp("Kazama","I know how you were and how you are now,
 so there's no doubt in my mind.");
-    MsgDisp("主人公","If ｛風真＊＊｝ says so.");
+    MsgDisp("主人公","If ｛Kazama＊＊｝ says so.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

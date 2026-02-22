@@ -32,7 +32,7 @@ Wait(20,0);
 BGMPlay("BGM_C06_INORI_B",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","Eh, hold on...!
-｛氷室＊＊｝∋");
+｛Himuro＊＊｝∋");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600000_06_030");
@@ -113,6 +113,6 @@ ChMotion(6,1);
 VoicePlay("B050600000_06_120");
 MsgDisp("Himuro","It's nothing.
 Come on, let's go.");
-MsgDisp("主人公","(｛氷室＊＊｝...?)");
+MsgDisp("主人公","(｛Himuro＊＊｝...?)");
 BGMStop();
 ChPrmTblAdd(6,0);

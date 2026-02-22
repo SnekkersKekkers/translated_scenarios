@@ -91,8 +91,8 @@ ChEyeOpenLevel(2,7);
 VoicePlay("D140A04100_02_060");
 MsgDisp("Sassa","Scary...");
 MsgDisp("主人公","Hehe!
-｛風真＊＊｝ and ｛颯砂＊＊｝ are no match
-for ｛氷室＊＊｝, huh?");
+｛Kazama＊＊｝ and ｛Sassa＊＊｝ are no match
+for ｛Himuro＊＊｝, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -106,7 +106,7 @@ ChMotion(6,5);
 VoicePlay("D140A04100_06_070");
 MsgDisp("Himuro","Huh?
 What are you talking about?");
-MsgDisp("主人公","｛氷室＊＊｝'s weird things...?");
+MsgDisp("主人公","｛Himuro＊＊｝'s weird things...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -131,7 +131,7 @@ VoicePlay("D140A04100_02_090");
 MsgDisp("Sassa","Information is key when it comes to
 keeping Inori in check.");
 MsgDisp("主人公","(Uhm...
-｛氷室＊＊｝ is staring at me.
+｛Himuro＊＊｝ is staring at me.
 I wonder what they're talking about...?)");
 BGMStop();
 MsgClose();

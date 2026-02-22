@@ -26,7 +26,7 @@ VoicePlay("F100110000_01_000");
 MsgDisp("Kazama","｛主人公｝.
 Were you falling asleep just now?");
 MsgDisp("主人公","Ah!
-｛風真＊＊｝, you were watching?");
+｛Kazama＊＊｝, you were watching?");
 ChMotion(1,3);
 Wait(10,0);
 ChMouth(1,3);

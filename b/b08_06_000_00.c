@@ -19,6 +19,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(｛氷室＊＊｝ walked me home.)");
+MsgDisp("主人公","(｛Himuro＊＊｝ walked me home.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,7 +6,7 @@ ChMotion(4,5,1);
 ChCheek(4,10);
 VoicePlay("T020400000_04_310");
 MsgDisp("Nanatsumori","Uwah∋");
-MsgDisp("主人公","I also love ｛七ツ森＊｝!");
+MsgDisp("主人公","I also love ｛Nanatsumori＊｝!");
 ChEye(4,4);
 ChMouth(4,4);
 ChCheek(4,7);

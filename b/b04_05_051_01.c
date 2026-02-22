@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040505101_05_000");
 MsgDisp("Hiiragi","How was today's starry sky?");
-MsgSel("It was beautiful!","It's no match for the real thing.","I was only looking at ｛柊＊＊＊｝▼");
+MsgSel("It was beautiful!","It's no match for the real thing.","I was only looking at ｛Hiiragi＊＊＊｝▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

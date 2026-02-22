@@ -9,8 +9,8 @@ ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010420000_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","｛七ツ森＊｝.
-You're out with ｛風真＊＊｝?");
+MsgDisp("主人公","｛Nanatsumori＊｝.
+You're out with ｛Kazama＊＊｝?");
 VoicePlay("E010420000_04_010");
 MsgDisp("Nanatsumori","Hm?");
 VoicePlay("E010420000_01_000");
@@ -99,8 +99,8 @@ Wait(5,0);
 SEPlay("EV_SE_665",0.5,0.3);
 SEStop("EV_SE_717",1);
 Wait(20,0);
-MsgDisp("主人公","(｛七ツ森＊｝ is smiling.
-He must have heard ｛風真＊＊｝ calling
+MsgDisp("主人公","(｛Nanatsumori＊｝ is smiling.
+He must have heard ｛Kazama＊＊｝ calling
 him...)");
 BGMStop();
 MsgClose();

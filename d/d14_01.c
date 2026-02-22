@@ -78,31 +78,31 @@ if ( var0 !=21&& var0 !=22){
              var6 =PlChk(40);
             switch ( var6 ){
                 case 1:
-                MsgDisp("主人公","(I'll get the same as ｛風真＊＊｝,
+                MsgDisp("主人公","(I'll get the same as ｛Kazama＊＊｝,
 ｛学食メニュー｝...)");
                 break ;
                 case 2:
-                MsgDisp("主人公","(I'll get the same as ｛颯砂＊＊｝,
+                MsgDisp("主人公","(I'll get the same as ｛Sassa＊＊｝,
 ｛学食メニュー｝...)");
                 break ;
                 case 3:
-                MsgDisp("主人公","(I'll get the same as ｛本多＊＊｝,
+                MsgDisp("主人公","(I'll get the same as ｛Honda＊＊｝,
 ｛学食メニュー｝...)");
                 break ;
                 case 4:
-                MsgDisp("主人公","(I'll get the same as ｛七ツ森＊＊｝,
+                MsgDisp("主人公","(I'll get the same as ｛Nanatsumori＊＊｝,
 ｛学食メニュー｝...)");
                 break ;
                 case 5:
-                MsgDisp("主人公","(I'll get the same as ｛柊＊＊｝,
+                MsgDisp("主人公","(I'll get the same as ｛Hiiragi＊＊｝,
 ｛学食メニュー｝...)");
                 break ;
                 case 6:
-                MsgDisp("主人公","(I'll get the same as ｛氷室＊＊｝,
+                MsgDisp("主人公","(I'll get the same as ｛Himuro＊＊｝,
 ｛学食メニュー｝...)");
                 break ;
                 case 7:
-                MsgDisp("主人公","(I'll get the same as ｛御影＊＊｝,
+                MsgDisp("主人公","(I'll get the same as ｛Mikage＊＊｝,
 ｛学食メニュー｝...)");
                 break ;
                 default :

@@ -23,7 +23,7 @@ ChMotion(8,0,1);
 VoicePlay("K020801100_08_020");
 MsgDisp("Shirahane","Today's your birthday, right?
 So, we gotta celebrate.");
-MsgDisp("主人公","｛大地＊＊｝, you remembered?");
+MsgDisp("主人公","｛Daichi＊＊｝, you remembered?");
 ChEye(8,3);
 ChMouth(8,3);
 VoicePlay("K020801100_08_030");
@@ -33,7 +33,7 @@ ChMotion(8,3,1);
 VoicePlay("K020801100_08_040");
 MsgDisp("Shirahane","Happy birthday.
 Here's a gift.");
-MsgDisp("主人公","Thank you, ｛大地＊＊｝!");
+MsgDisp("主人公","Thank you, ｛Daichi＊＊｝!");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);

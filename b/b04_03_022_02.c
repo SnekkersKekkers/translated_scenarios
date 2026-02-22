@@ -8,7 +8,7 @@ VoicePlay("B040302202_03_000");
 MsgDisp("Honda","Oh!
 They're accepting suggestions for the name
 of the tour boat.");
-MsgSel("I wonder if they didn't have one until now?","What about the usual: Habataki?","How about calling it HMS ｛本多＊＊｝?");
+MsgSel("I wonder if they didn't have one until now?","What about the usual: Habataki?","How about calling it HMS ｛Honda＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -59,7 +59,7 @@ It'll look like I own it.");
         VoicePlay("B040302202_03_040");
         MsgDisp("Honda","They definitely won't pick it.");
         MsgDisp("主人公","Maybe.
-Then what about just ｛本多＊＊｝?");
+Then what about just ｛Honda＊＊｝?");
         ChEye(3,1);
         ChMouth(3,4);
         ChMotion(3,2,1);
@@ -102,7 +102,7 @@ been you.");
         ChCheek(3,5);
         VoicePlay("B040302202_03_100");
         MsgDisp("Honda","What?");
-        MsgDisp("主人公","(｛本多＊＊｝...
+        MsgDisp("主人公","(｛Honda＊＊｝...
 I'm happy, but a kind of shy as well.)");
         break ;
         default :

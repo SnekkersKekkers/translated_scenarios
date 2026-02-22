@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛御影＊＊｝, recently you've been
-talking to ｛柊＊＊＊｝ a lot, haven't
+MsgDisp("主人公","｛Mikage＊＊｝, recently you've been
+talking to ｛Hiiragi＊＊＊｝ a lot, haven't
 you?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -35,7 +35,7 @@ VoicePlay("B070700001_07_050");
 MsgDisp("Mikage","He's seriously earnest to the core. Just
 like you. You two are a good match, and
 I'm sure you'd understand each other.");
-MsgDisp("主人公","｛御影＊＊｝...");
+MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -49,7 +49,7 @@ ChMotion(7,1);
 VoicePlay("B070700001_07_070");
 MsgDisp("Mikage","Crap.
 My serious side came out today.");
-MsgDisp("主人公","(｛御影＊＊｝ is always worrying about us,
+MsgDisp("主人公","(｛Mikage＊＊｝ is always worrying about us,
 huh...)");
 BGMStop();
 MsgClose();

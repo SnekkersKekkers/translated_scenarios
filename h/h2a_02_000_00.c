@@ -15,7 +15,7 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H2A0200000_02_000");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝!
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝!
 We did it!");
     ChEye(2,0);
     ChMouth(2,3);
@@ -40,7 +40,7 @@ gave me confidence.");
     VoicePlay("H2A0200000_02_030");
     MsgDisp("Sassa","We really want to thank you.
 For being the best manager.");
-    MsgDisp("主人公","｛颯砂＊＊｝...
+    MsgDisp("主人公","｛Sassa＊＊｝...
 It's me who should be thanking you.");
     ChEye(2,0);
     ChMouth(2,3);

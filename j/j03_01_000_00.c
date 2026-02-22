@@ -42,7 +42,7 @@ Alright?");
     MsgDisp("Kazama","Yeah, take care on the way.
 But you know that.");
     MsgDisp("主人公","I got it!
-Take care too, ｛風真＊＊｝!");
+Take care too, ｛Kazama＊＊｝!");
     VoicePlay("J030100000_01_070");
     MsgDisp("Kazama","I don't have to worry about you anymore,
 do I?

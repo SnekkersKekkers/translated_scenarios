@@ -18,7 +18,7 @@ Good morning!
 Did you sleep well?");
     MsgDisp("主人公","Good morning.
 Mhm, yes I did.
-｛本多＊＊｝, how about you?");
+｛Honda＊＊｝, how about you?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -45,7 +45,7 @@ Let's make the most out of today!");
 There are so many places I want to go.");
         MsgDisp("主人公","(Hehe.
 I can't wait for the free period together
-with ｛本多＊＊｝!)");
+with ｛Honda＊＊｝!)");
         break ;
         case 1:
         ChEye(3,2);
@@ -77,7 +77,7 @@ Let's both enjoy the free period!");
     MsgDisp("Honda","｛主人公｝.
 Found you!
 I was looking for you!");
-    MsgDisp("主人公","｛本多＊＊｝, good morning!");
+    MsgDisp("主人公","｛Honda＊＊｝, good morning!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -97,14 +97,14 @@ to take and all, so what do you think?");
 consider the places you want to see too so
 I can update the overall layout and we can
 walk around smoothly.");
-        MsgDisp("主人公","As expected of ｛本多＊＊｝.
+        MsgDisp("主人公","As expected of ｛Honda＊＊｝.
 I'm looking forward to this!");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1,1);
         VoicePlay("Q020300000_03_090");
         MsgDisp("Honda","I'm also super excited!");
-        MsgDisp("主人公","(Spending this freetime with ｛本多＊＊｝
+        MsgDisp("主人公","(Spending this freetime with ｛Honda＊＊｝
 will surely be a blast! Maybe he can teach
 me fun facts and trivia of the spots we'll
 be touring?)");

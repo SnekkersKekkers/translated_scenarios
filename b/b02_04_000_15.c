@@ -14,5 +14,5 @@ VoicePlay("B020400015_04_010");
 MsgDisp("Nanatsumori","I have the exact same thing.
 It makes me happy knowing we have the same
 taste in fashion.");
-MsgDisp("主人公","(｛七ツ森＊｝ owns this too...
+MsgDisp("主人公","(｛Nanatsumori＊｝ owns this too...
 Maybe we have similar tastes!)");

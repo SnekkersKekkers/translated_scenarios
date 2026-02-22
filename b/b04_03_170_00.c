@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040317000_03_000");
 MsgDisp("Honda","Everyone likes karaoke, right?");
-MsgSel("I want to hear ｛本多＊＊｝'s beautiful voice.","Let's do a duet, the two of us.","Please listen to my song!");
+MsgSel("I want to hear ｛Honda＊＊｝'s beautiful voice.","Let's do a duet, the two of us.","Please listen to my song!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

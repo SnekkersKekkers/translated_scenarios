@@ -15,5 +15,5 @@ VoicePlay("B020400001_04_010");
 MsgDisp("Nanatsumori","Not weird.
 It suits you, that feminine look.
 Think I like it.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to like this mature
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like this mature
 fashion, too.)");

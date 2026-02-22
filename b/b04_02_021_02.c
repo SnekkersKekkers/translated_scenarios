@@ -48,7 +48,7 @@ one of them is different.");
 shape, they are spread out evenly and
 create a sense of unity.");
         MsgDisp("主人公","That big brick looks kind of like
-｛颯砂＊＊｝.");
+｛Sassa＊＊｝.");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,3);
@@ -83,7 +83,7 @@ Principal Himuro, doesn't it?");
         VoicePlay("B040202102_02_090");
         MsgDisp("Sassa","And that one, with the weird haircut.
 It's Mikage-sensei!");
-        MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ looks like he's
+        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ looks like he's
 enjoying himself.)");
         break ;
         default :

@@ -1,5 +1,5 @@
 MsgDisp("主人公","What type of girl do you like,
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B070500000_05_350");

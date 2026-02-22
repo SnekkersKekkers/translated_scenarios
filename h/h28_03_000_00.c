@@ -9,7 +9,7 @@ ChMotion(3,1);
 VoicePlay("H280300000_03_000");
 MsgDisp("Honda","Good work!
 I came to cheer you on.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝!
+MsgDisp("主人公","Ah, ｛Honda＊＊｝!
 Thank you.");
 ChEye(3,0);
 ChMouth(3,3);

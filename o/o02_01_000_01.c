@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("O020100001_01_000");
     MsgDisp("Kazama","That was close.
 It was a nice fight.");
-    MsgDisp("主人公","(｛風真＊＊｝...
+    MsgDisp("主人公","(｛Kazama＊＊｝...
 ...But I wanted to win.)");
     break ;
     case 3:
@@ -44,7 +44,7 @@ My bad.");
     VoicePlay("O020100001_01_040");
     MsgDisp("Kazama","The dance is next, so maybe that will
 cheer you up?");
-    MsgDisp("主人公","(｛風真＊＊｝, thanks for encouraging
+    MsgDisp("主人公","(｛Kazama＊＊｝, thanks for encouraging
 me...)");
     break ;
     case 4:
@@ -52,7 +52,7 @@ me...)");
     MsgClose();
     ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, it was close, but we
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, it was close, but we
 lost.");
     ChEye(1,2);
     ChMouth(1,3);
@@ -61,14 +61,14 @@ lost.");
     MsgDisp("Kazama","Aah, I was nervous, too.
 More than if I was the one up there.");
     MsgDisp("主人公","Hehe.
-｛風真＊＊｝, you're funny.");
+｛Kazama＊＊｝, you're funny.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O020100001_01_060");
     MsgDisp("Kazama","...Yeah.
 After all, a smile suits you best.");
-    MsgDisp("主人公","｛風真＊＊｝...
+    MsgDisp("主人公","｛Kazama＊＊｝...
 Thanks.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -83,7 +83,7 @@ right?");
     VoicePlay("O020100001_01_080");
     MsgDisp("Kazama","I'll definitely come for you, so just wait
 for me.");
-    MsgDisp("主人公","(｛風真＊＊｝, thank you...)");
+    MsgDisp("主人公","(｛Kazama＊＊｝, thank you...)");
     break ;
     default :
     DbgAssert(1);

@@ -12,7 +12,7 @@ ChNanaType(0);
 ChOpen(4,254,0,2,4,#1,#1,0,0,0,60);
 VoicePlay("P540400003_04_000");
 MsgDisp("Nanatsumori","Hey, what's wrong?");
-MsgDisp("主人公","｛七ツ森＊｝...
+MsgDisp("主人公","｛Nanatsumori＊｝...
 I failed.");
 VoicePlay("P540400003_04_010");
 MsgDisp("Nanatsumori","I get you though.

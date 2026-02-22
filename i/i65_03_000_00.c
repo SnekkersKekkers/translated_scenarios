@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     VoicePlay("I650300000_03_000");
     MsgDisp("Honda","Hm, is this it?");
-    MsgDisp("主人公","Welcom- wait, ｛本多＊＊｝?
+    MsgDisp("主人公","Welcom- wait, ｛Honda＊＊｝?
 What's up?");
     ChEye(3,4);
     ChMouth(3,0);
@@ -42,7 +42,7 @@ Good luck!");
     ChMotion(3,0,1);
     VoicePlay("I650300000_03_040");
     MsgDisp("Honda","It really is you.");
-    MsgDisp("主人公","｛本多＊＊｝, what's up?");
+    MsgDisp("主人公","｛Honda＊＊｝, what's up?");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);
@@ -72,7 +72,7 @@ this!)");
     case 4:
     case 5:
     MsgDisp("主人公","Welcome!
-...Ah, ｛本多＊＊｝.");
+...Ah, ｛Honda＊＊｝.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -123,9 +123,9 @@ not really my place to say anything.");
     VoicePlay("I650300000_03_140");
     MsgDisp("Honda","Yeah.
 Just do your best without getting hurt!");
-    MsgDisp("主人公","(｛本多＊＊｝ is so nice...
+    MsgDisp("主人公","(｛Honda＊＊｝ is so nice...
 I'll have to make sure I don't worry
-｛本多＊＊｝ too much.)");
+｛Honda＊＊｝ too much.)");
     break ;
     default :
     DbgAssert(1);

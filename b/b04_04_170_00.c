@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040417000_04_000");
 MsgDisp("Nanatsumori","All set and ready.
 Let's raise the curtain on this show!");
-MsgSel("I want to hear ｛七ツ森＊｝'s beautiful voice.","Let's do a duet together!","Please listen to my song.");
+MsgSel("I want to hear ｛Nanatsumori＊｝'s beautiful voice.","Let's do a duet together!","Please listen to my song.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

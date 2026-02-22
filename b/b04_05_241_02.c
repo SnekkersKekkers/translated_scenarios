@@ -77,7 +77,7 @@ Then, shall we do something else?");
         VoicePlay("B040524102_05_080");
         MsgDisp("Hiiragi","It has gotten late, hasn't it?");
         MsgDisp("主人公","Yeah, but it was fun.
-Did you enjoy it, ｛柊＊＊＊｝?");
+Did you enjoy it, ｛Hiiragi＊＊＊｝?");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040524102_05_090");
@@ -128,7 +128,7 @@ changed...
 Even when it's warm, milk is delicious.");
         MsgDisp("主人公","(Yeah, it was fun.
 From now on too, I hope I can do lots of
-different things with ｛柊＊＊＊｝...)");
+different things with ｛Hiiragi＊＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

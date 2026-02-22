@@ -23,7 +23,7 @@ ChMotion(4,2,1);
 VoicePlay("G020420101_04_030");
 MsgDisp("Nanatsumori","Sigh...
 Did I get the wrong idea?");
-MsgDisp("主人公","Um, ｛七ツ森＊｝?");
+MsgDisp("主人公","Um, ｛Nanatsumori＊｝?");
 ChEye(4,1);
 ChMouth(4,2);
 ChEyeOpenLevel(4,0);
@@ -47,7 +47,7 @@ ChMotion(4,2,1);
 VoicePlay("G020420101_04_070");
 MsgDisp("Nanatsumori","Maybe it's my fault...but whenever I see
 you and him laughing together I——");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 VoicePlay("G020420101_04_080");
 MsgDisp("Nanatsumori","It sucks.
 It makes me 100% jealous.");
@@ -57,7 +57,7 @@ ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("G020420101_04_090");
 MsgDisp("Nanatsumori","I'm sorry ｛主人公｝.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems hurt...
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems hurt...
 I wonder if I did something wrong...)");
 BGMStop();
 MsgClose();

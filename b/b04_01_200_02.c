@@ -75,7 +75,7 @@ human form.");
         MsgDisp("Kazama","There it is. \"
 Umm...\" , no.
 Put yourself in my shoes for once!");
-        MsgDisp("主人公","｛風真＊＊｝, are you angry?");
+        MsgDisp("主人公","｛Kazama＊＊｝, are you angry?");
         ChEye(1,1);
         ChMouth(1,2);
         ChMotion(1,0);

@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛七ツ森＊｝!");
+    MsgDisp("主人公","｛Nanatsumori＊｝!");
     VoicePlay("L040400000_04_000");
     MsgDisp("Nanatsumori","...What?");
     SEPlay("EV_SE_665");
@@ -18,7 +18,7 @@ switch (ChPrmGet(4,6)){
 Will you accept it?");
     break ;
     case 3:
-    MsgDisp("主人公","｛七ツ森＊｝!");
+    MsgDisp("主人公","｛Nanatsumori＊｝!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -32,7 +32,7 @@ Valentine's chocolate.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛七ツ森＊｝!");
+    MsgDisp("主人公","｛Nanatsumori＊｝!");
     ChEye(4,0);
     ChMouth(4,3);
     VoiceEVSPlay(4);

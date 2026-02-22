@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("B350600000_06_000");
 MsgDisp("Himuro","Hey.");
-MsgDisp("主人公","Huh, ｛氷室＊＊｝.
+MsgDisp("主人公","Huh, ｛Himuro＊＊｝.
 What's wrong?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -76,7 +76,7 @@ helped.
 ...Then, I'm going home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
-    MsgDisp("主人公","(｛氷室＊＊｝ seemed pretty down...
+    MsgDisp("主人公","(｛Himuro＊＊｝ seemed pretty down...
 Maybe I messed up...)");
     MsgClose();
     ScrFadeOut(0);

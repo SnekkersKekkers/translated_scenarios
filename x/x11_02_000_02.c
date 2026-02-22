@@ -19,7 +19,7 @@ match. Congratulations.");
     MsgDisp("Sassa","I see you are training hard and working
 hard.
 I can't lose either.");
-    MsgDisp("主人公","(Yay, ｛颯砂＊＊｝ praised me!
+    MsgDisp("主人公","(Yay, ｛Sassa＊＊｝ praised me!
 Let's practice harder!)");
     break ;
     case 4:
@@ -33,14 +33,14 @@ Let's practice harder!)");
     MsgDisp("Sassa","｛主人公｝, I heard you won all of your
 practice matches by one point?
 That's amazing.");
-    MsgDisp("主人公","Yeah, thank you ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Yeah, thank you ｛Sassa＊＊｝.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);
     VoicePlay("X110200002_02_030");
     MsgDisp("Sassa","It's cool that you care about winning too.
 Let's work hard for each other.");
-    MsgDisp("主人公","(I can't believe ｛颯砂＊＊｝ praised me,
+    MsgDisp("主人公","(I can't believe ｛Sassa＊＊｝ praised me,
 I'm glad I won ...!)");
     break ;
     default :

@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("H5G0300000_03_000")
 MsgDisp("Honda","...Ah!
 You're here.");
-MsgDisp("主人公","Huh, ｛本多＊＊｝?
+MsgDisp("主人公","Huh, ｛Honda＊＊｝?
 What is it?");
 ChEye(3,0);
 ChMouth(3,3);

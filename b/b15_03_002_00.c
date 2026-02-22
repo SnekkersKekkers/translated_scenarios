@@ -28,7 +28,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B150300200_03_040");
 MsgDisp("Honda","You were just gently touching my head and
 body...and yet, I felt really happy.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

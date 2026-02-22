@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040621202_06_000");
 MsgDisp("Himuro","Should I get that plushie for you?");
-MsgSel("Is that okay? Yay!","I would prefer something bigger!","Actually, I'll gift it to you as a present, ｛氷室＊＊｝!");
+MsgSel("Is that okay? Yay!","I would prefer something bigger!","Actually, I'll gift it to you as a present, ｛Himuro＊＊｝!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -86,7 +86,7 @@ I'm fine with any.");
         VoicePlay("B040621202_06_080");
         MsgDisp("Himuro","Eh...huh?");
         MsgDisp("主人公","Yeah, for some reason it looks like
-｛氷室＊＊｝ I guess?");
+｛Himuro＊＊｝ I guess?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

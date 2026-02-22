@@ -34,7 +34,7 @@ I wish I tried harder.)");
     ScrFadeIn(0);
     VoicePlay("O020600001_06_030");
     MsgDisp("Himuro","...You crying?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

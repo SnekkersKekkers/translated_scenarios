@@ -18,7 +18,7 @@ I'm nervous.)");
     VoicePlay("P530500000_05_000");
     MsgDisp("Hiiragi","If you're that tense, you won't be able to
 play the sound that represents you.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝...but I'm anxious.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝...but I'm anxious.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -71,7 +71,7 @@ I'm nervous.)");
     VoicePlay("P530500000_05_050");
     MsgDisp("Hiiragi","｛主人公｝.
 How are you feeling?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝...");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -104,7 +104,7 @@ I'd be happy to hear it.");
     MsgDisp("主人公","Thank you!
 I'll play my usual sound.");
     MsgDisp("主人公","(Alright, let's do it!
-I need to satisfy ｛柊＊＊＊｝!)");
+I need to satisfy ｛Hiiragi＊＊＊｝!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

@@ -19,7 +19,7 @@ I like it but...)");
     VoicePlay("P730400001_04_000");
     MsgDisp("Nanatsumori","Ohー.
 Pretty pretty.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Really?");
     ChMotion(4,1,1);
     VoicePlay("P730400001_04_010");
@@ -42,7 +42,7 @@ runway?");
     MsgDisp("Nanatsumori","Show me your cool side!
 I'll be cheering you on.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(｛七ツ森＊｝ will be cheering me on!
+    MsgDisp("主人公","(｛Nanatsumori＊｝ will be cheering me on!
 Alーright, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -61,7 +61,7 @@ I like it but...)");
     ChOpen(4,254,0,0,2,#1,#1,0,0,0,60);
     VoicePlay("P730400001_04_040");
     MsgDisp("Nanatsumori","Ah...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("P730400001_04_050");
@@ -92,7 +92,7 @@ The grown-up charm is strong, and...");
 You'll knockout the audience.");
     MsgDisp("主人公","Hehe!
 Then, I'm off!");
-    MsgDisp("主人公","(｛七ツ森＊｝ is cheering for me...!
+    MsgDisp("主人公","(｛Nanatsumori＊｝ is cheering for me...!
 Alーright, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);

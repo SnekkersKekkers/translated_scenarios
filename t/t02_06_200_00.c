@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C06_INORI_KOKU",0.01);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -26,7 +26,7 @@ ChMotion(6,0);
 VoicePlay("T020620000_06_020");
 MsgDisp("Himuro","That's because I was pushed by those two.");
 MsgDisp("主人公","Could it be...
-｛風真＊＊｝ and ｛颯砂＊＊｝?");
+｛Kazama＊＊｝ and ｛Sassa＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
