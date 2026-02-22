@@ -176,7 +176,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10500_07_070");
-MsgDisp("Mikage","We also want you to fuss over us. right,
+MsgDisp("Mikage","We also want you to fuss over us. Right,
 Yanosuke?");
 ChEye(5,3);
 ChMouth(5,4);
