@@ -73,7 +73,7 @@ crazy about right?");
         ChMotion(6,0);
         VoicePlay("B040605102_06_070");
         MsgDisp("Himuro","If there's someone you love from the
-bottom of your heart, you don't car about
+bottom of your heart, you don't care about
 your surroundings...?");
         ChEye(6,0);
         ChMouth(6,2);
