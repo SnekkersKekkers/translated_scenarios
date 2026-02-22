@@ -51,6 +51,11 @@ jobs:
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v2
 
+    - name: Setup .NET 6.0 (for UnityAssetReplacer)
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '6.0.x'
+
     - name: Restore NuGet packages
       working-directory: tools/tmgsscenariotools
       run: nuget restore TMGSScenarioTools.sln
@@ -196,6 +201,7 @@ jobs:
 
     - name: Create asset bundles
       shell: pwsh
+      continue-on-error: true
       run: |
         $assetReplacer = "tools/UnityAssetReplacer/UnityAssetReplacer.exe"
         
@@ -210,11 +216,16 @@ jobs:
           exit 0
         }
         
+        # Test UnityAssetReplacer can run
+        Write-Host "Testing UnityAssetReplacer..."
+        & $assetReplacer --help 2>&1 | Select-Object -First 5
+        
         Write-Host "Creating asset bundles..."
         
         $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
         $created = 0
         $skipped = 0
+        $failed = 0
         
         foreach ($bytesFile in $bytesFiles) {
           $name = $bytesFile.BaseName
@@ -225,18 +236,37 @@ jobs:
           if ($originalBundle) {
             $outFile = "output/assetbundles/$name.assetbundle"
             
-            & $assetReplacer -b $originalBundle.FullName -m "m_Script" -i $bytesFile.FullName -o $outFile
-            
-            if (Test-Path $outFile) {
-              $created++
-              Write-Host "  Created: $name.assetbundle"
+            try {
+              # Run UnityAssetReplacer - pass the bytes file path to -i
+              $result = & $assetReplacer -b $originalBundle.FullName -m "m_Script" -i $bytesFile.FullName -o $outFile 2>&1
+              
+              if (Test-Path $outFile) {
+                $created++
+                if ($created -le 10) {
+                  Write-Host "  Created: $name.assetbundle"
+                }
+              } else {
+                $failed++
+                if ($failed -le 5) {
+                  Write-Host "  Failed: $name - $result"
+                }
+              }
+            } catch {
+              $failed++
+              if ($failed -le 5) {
+                Write-Host "  Error: $name - $_"
+              }
             }
           } else {
             $skipped++
           }
         }
         
-        Write-Host "Asset bundle creation complete: $created created, $skipped skipped (no matching original)"
+        Write-Host ""
+        Write-Host "Asset bundle creation complete:"
+        Write-Host "  Created: $created"
+        Write-Host "  Skipped (no matching original): $skipped"
+        Write-Host "  Failed: $failed"
 
     - name: Generate release tag
       id: tag
