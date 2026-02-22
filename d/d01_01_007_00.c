@@ -147,7 +147,7 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_626");
 ChClose(1);
-MsgDisp("主人公","(Hehe ｛風真＊＊｝ is in a good mood
+MsgDisp("主人公","(Hehe, ｛風真＊＊｝ is in a good mood
 today. Maybe someday he can teach me how
 to do fly fishing?)");
 MsgClose();
