@@ -32,8 +32,8 @@ ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("D140D07051_21_020");
 MsgDisp("Michiru","Hehe.
-But, I want to see Mari in a sexy style
-too.");
+However, I'd like to see Mari in a sexy 
+style too.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
