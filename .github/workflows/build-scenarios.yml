@@ -93,7 +93,11 @@ jobs:
       shell: pwsh
       run: |
         $forceRebuild = "${{ inputs.force_rebuild }}" -eq "true"
-        $cacheHit = "${{ steps.cache-restore.outputs.cache-hit }}" -eq "true"
+        
+        # Check if we actually have cached bytes (more reliable than cache-hit)
+        $cachedBytesCount = (Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes" -ErrorAction SilentlyContinue | Measure-Object).Count
+        $hasCache = $cachedBytesCount -gt 0
+        Write-Host "Found $cachedBytesCount cached .bytes files"
         
         # Get all .c files
         $allCFiles = Get-ChildItem -Path "scripts" -Recurse -Filter "*.c" -File
@@ -102,9 +106,9 @@ jobs:
         $filesToCompile = @()
         $changedInCommit = @()
         
-        if ($forceRebuild -or -not $cacheHit) {
+        if ($forceRebuild -or -not $hasCache) {
           # No cache or force rebuild - compile everything
-          Write-Host "Full build required (force=$forceRebuild, cache=$cacheHit)"
+          Write-Host "Full build required (force=$forceRebuild, hasCache=$hasCache)"
           $filesToCompile = $allCFiles
         } else {
           Write-Host "Cache restored - checking for changes..."
