@@ -313,15 +313,17 @@ jobs:
         }
         
         # Pre-create output directories
+        $outputBase = (Resolve-Path "output/assetbundles").Path
         $workItems | ForEach-Object { $_.Folder } | Sort-Object -Unique | ForEach-Object {
-          New-Item -ItemType Directory -Force -Path "output/assetbundles/$_" | Out-Null
+          New-Item -ItemType Directory -Force -Path "$outputBase/$_" | Out-Null
         }
         
         # Process in parallel with 8 threads
         $results = $workItems | ForEach-Object -Parallel {
           $item = $_
           $assetReplacer = $using:assetReplacer
-          $outFile = "output/assetbundles/$($item.Folder)/$($item.Name).assetbundle"
+          $outputBase = $using:outputBase
+          $outFile = "$outputBase/$($item.Folder)/$($item.Name).assetbundle"
           
           try {
             $null = & $assetReplacer -b $item.OriginalBundle -m "m_Script" -i $item.BytesDir -o $outFile 2>&1
