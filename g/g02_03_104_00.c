@@ -2,7 +2,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,4,4,4,#1,#1,0,0);
 VoicePlay("G020310400_03_000");
-MsgDisp("Honda","Do fireflies fall in love too");
+MsgDisp("Honda","Do fireflies fall in love too...?");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);
 ChMouth(3,0);
