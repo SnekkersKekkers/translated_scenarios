@@ -45,7 +45,7 @@ ChMotion(7,5);
 VoicePlay("F020700006_07_040");
 MsgDisp("Mikage","That's what I want～");
 MsgDisp("主人公","Ehh?
-That would be bad for you to get injured.");
+It would be bad for you to get injured.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
