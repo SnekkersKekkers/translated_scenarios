@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040123101_01_000");
 MsgDisp("Kazama","The intensity at the front sure is
 different.");
-MsgSel("Yeah, we were lucky.","the wind was so strong my hair got all messed up","I think something fell into my mouth...");
+MsgSel("Yeah, we were lucky.","The wind was so strong my hair got all messed up","I think something fell into my mouth...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
