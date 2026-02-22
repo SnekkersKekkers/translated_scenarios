@@ -4,6 +4,11 @@ on:
   push:
     branches: [ main, master ]
   workflow_dispatch:
+    inputs:
+      force_rebuild:
+        description: 'Force rebuild all files'
+        type: boolean
+        default: false
 
 env:
   TOOLS_REPO: SnekkersKekkers/tmgsscenariospipeline
@@ -58,40 +63,118 @@ jobs:
       run: |
         New-Item -ItemType Directory -Force -Path "output/bytes"
         New-Item -ItemType Directory -Force -Path "output/assetbundles"
+        New-Item -ItemType Directory -Force -Path "to_compile"
 
-    - name: Get changed files for release notes
-      id: changed-files
+    # Restore cached bytes from previous builds
+    - name: Restore cached bytes
+      uses: actions/cache/restore@v4
+      id: cache-restore
+      with:
+        path: output/bytes
+        key: compiled-bytes-${{ hashFiles('scripts/**/*.c') }}
+        restore-keys: |
+          compiled-bytes-
+
+    - name: Determine files to compile
+      id: files-to-compile
       shell: pwsh
       run: |
-        cd scripts
-        $changedFiles = git diff --name-only HEAD~1 HEAD -- '*.c' 2>$null
-        if (-not $changedFiles) { $changedFiles = "Initial build - all files" }
-        $changedList = $changedFiles -join "`n"
-        echo "files<<EOF" >> $env:GITHUB_OUTPUT
-        echo $changedList >> $env:GITHUB_OUTPUT
+        $forceRebuild = "${{ inputs.force_rebuild }}" -eq "true"
+        $cacheHit = "${{ steps.cache-restore.outputs.cache-hit }}" -eq "true"
+        
+        # Get all .c files
+        $allCFiles = Get-ChildItem -Path "scripts" -Recurse -Filter "*.c" -File
+        Write-Host "Total .c files in repo: $($allCFiles.Count)"
+        
+        $filesToCompile = @()
+        $changedInCommit = @()
+        
+        if ($forceRebuild -or -not $cacheHit) {
+          # No cache or force rebuild - compile everything
+          Write-Host "Full build required (force=$forceRebuild, cache=$cacheHit)"
+          $filesToCompile = $allCFiles
+        } else {
+          Write-Host "Cache restored - checking for changes..."
+          
+          # Get files changed in this commit
+          $gitChanged = @()
+          Push-Location scripts
+          $gitOutput = git diff --name-only HEAD~1 HEAD -- '*.c' 2>$null
+          Pop-Location
+          if ($gitOutput) {
+            $gitChanged = $gitOutput -split "`n" | Where-Object { $_ -ne "" }
+          }
+          Write-Host "Files changed in commit: $($gitChanged.Count)"
+          
+          foreach ($cFile in $allCFiles) {
+            $relativePath = $cFile.FullName.Replace((Resolve-Path "scripts").Path + "\", "")
+            $bytesName = $cFile.BaseName + ".bytes"
+            
+            # Check if .bytes exists in cache
+            $bytesExists = Get-ChildItem -Path "output/bytes" -Recurse -Filter $bytesName -File -ErrorAction SilentlyContinue
+            
+            # Check if file was changed in this commit
+            $wasChanged = $gitChanged | Where-Object { $_ -eq $relativePath -or $_ -eq $relativePath.Replace("\", "/") }
+            
+            if (-not $bytesExists -or $wasChanged) {
+              $filesToCompile += $cFile
+              if ($wasChanged) { $changedInCommit += $relativePath }
+            }
+          }
+          
+          Write-Host "Files missing from cache: $($filesToCompile.Count - $changedInCommit.Count)"
+          Write-Host "Files changed in commit: $($changedInCommit.Count)"
+        }
+        
+        Write-Host "Total files to compile: $($filesToCompile.Count)"
+        
+        # Copy files to compile to temp folder
+        foreach ($file in $filesToCompile) {
+          Copy-Item $file.FullName -Destination "to_compile/"
+        }
+        
+        # Output for release notes
+        if ($changedInCommit.Count -gt 0) {
+          $changeList = $changedInCommit -join "`n"
+        } else {
+          $changeList = "Initial build or cache miss"
+        }
+        echo "changed<<EOF" >> $env:GITHUB_OUTPUT
+        echo $changeList >> $env:GITHUB_OUTPUT
         echo "EOF" >> $env:GITHUB_OUTPUT
+        
+        echo "count=$($filesToCompile.Count)" >> $env:GITHUB_OUTPUT
 
-    - name: Compile ALL scripts to bytes
+    - name: Compile scripts to bytes
       shell: pwsh
       run: |
         $cliPath = "tools/tmgsscenariotools/CLI/bin/Release/TMGSScenarioCLI.exe"
+        $toCompileCount = [int]"${{ steps.files-to-compile.outputs.count }}"
         
-        Write-Host "Compiling all .c files from scripts folder..."
-        Write-Host "CLI: $cliPath"
-        Write-Host "Source: scripts"
-        Write-Host "Output: output/bytes"
+        if ($toCompileCount -eq 0) {
+          Write-Host "All files already cached, nothing to compile!"
+          exit 0
+        }
         
-        # Compile the entire scripts folder at once
-        & $cliPath ${{ env.DOMAIN }} "scripts" "output/bytes" --force
+        Write-Host "Compiling $toCompileCount files..."
+        
+        # Compile only the files that need it
+        & $cliPath ${{ env.DOMAIN }} "to_compile" "output/bytes" --force
         
         if ($LASTEXITCODE -ne 0) {
           Write-Error "Compilation failed with exit code $LASTEXITCODE"
           exit $LASTEXITCODE
         }
         
-        # Count results
-        $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
-        Write-Host "Compilation complete! Generated $($bytesFiles.Count) .bytes files"
+        Write-Host "Compilation complete!"
+
+    # Save cache with new compiled bytes
+    - name: Save compiled bytes cache
+      uses: actions/cache/save@v4
+      if: always()
+      with:
+        path: output/bytes
+        key: compiled-bytes-${{ hashFiles('scripts/**/*.c') }}
 
     - name: Verify compilation output
       shell: pwsh
@@ -103,12 +186,13 @@ jobs:
         Write-Host "Compiled .bytes files: $($bytesFiles.Count)"
         
         if ($bytesFiles.Count -eq 0) {
-          Write-Error "No .bytes files found! Compilation failed."
+          Write-Error "No .bytes files found! Something went wrong."
           exit 1
         }
         
-        # List all generated files
-        Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes" | ForEach-Object { Write-Host "  - $($_.Name)" }
+        if ($bytesFiles.Count -lt $cFiles.Count) {
+          Write-Host "Warning: Some files may not have compiled. Expected $($cFiles.Count), got $($bytesFiles.Count)"
+        }
 
     - name: Create asset bundles
       shell: pwsh
@@ -184,9 +268,11 @@ jobs:
         body: |
           Automated release from commit ${{ github.sha }}
           
+          **Files compiled this run:** ${{ steps.files-to-compile.outputs.count }}
+          
           **Changes in this commit:**
           ```
-          ${{ steps.changed-files.outputs.files }}
+          ${{ steps.files-to-compile.outputs.changed }}
           ```
         files: |
           translated_bytes.zip
