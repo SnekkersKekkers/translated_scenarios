@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040108100_01_010");
-    MsgDisp("Kazama","Ooh, even you say nice things once in
-awhile. Now I'm a little scared of the
+    MsgDisp("Kazama","Ooh, even you say nice things once in a
+while. Now I'm a little scared of the
 recoil, though.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
