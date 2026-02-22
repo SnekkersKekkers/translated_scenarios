@@ -34,7 +34,7 @@ MsgDisp("Guy","Well, quickly.
 From reality to the sea of the virtual
 world, let's goo and surf the net.");
 MsgDisp("主人公","Ehh∋
-Hey, what are you talking about!");
+Hey, what are you talking about!?");
 ChPosition(34,2);
 MsgDispSksp(1,5);
 SEPlay("EV_SE_550");
