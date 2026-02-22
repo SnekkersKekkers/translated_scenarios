@@ -27,7 +27,7 @@ I want to try surviving for realー!");
     ChMotion(3,4);
     VoicePlay("B040324201_03_020");
     MsgDisp("Honda","Hmm, I don't think the neighbors would
-want that either");
+want that either.");
     MsgDateResultDisp();
     break ;
     case 2:
