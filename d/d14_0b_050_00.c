@@ -43,7 +43,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D140B05000_04_010");
 MsgDisp("Nanatsumori","Did you not hear him?
-Lovey dovey");
+Lovey dovey.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1,1);
