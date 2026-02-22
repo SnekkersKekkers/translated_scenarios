@@ -25,7 +25,7 @@ MsgDisp("主人公","Ah, yeah...");
 ChMotion(4,1,1);
 VoicePlay("G020430201_04_030");
 MsgDisp("Nanatsumori","But even if you love someone, it doesn't
-mean you'll end up together");
+mean you'll end up together.");
 VoicePlay("G020430201_04_040");
 MsgDisp("Nanatsumori","Maybe, even if you love them, you might
 not be able to be with them..");
