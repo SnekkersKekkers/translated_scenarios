@@ -50,7 +50,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F020700006_07_050");
-MsgDisp("Mikage","That's right but. It's like a battle
+MsgDisp("Mikage","That's right but, it's more like a battle
 wound? A lingering memory even after the
 festival is over.");
 ChEye(7,0);
