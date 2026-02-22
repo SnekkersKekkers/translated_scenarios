@@ -118,7 +118,7 @@ ChMotion(1,0);
 VoicePlay("D010100700_01_070");
 MsgDisp("Kazama","What a ditz. Ahem. Fly Fishing comes from
 England. It uses a lure resembling an
-insect called the \"Fly\"");
+insect called the \"Fly.\"");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
