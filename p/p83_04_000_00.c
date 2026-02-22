@@ -7,7 +7,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","Alright, and. I finished moving the
+    MsgDisp("主人公","Alright. I finished moving the
 chairs, so what should I carry, and where
 do I carry it to next...?");
     MsgClose();
