@@ -173,8 +173,8 @@ jobs:
         
         Write-Host "Compiling $toCompileCount files..."
         
-        # Compile only the files that need it
-        & $cliPath ${{ env.DOMAIN }} "to_compile" "output/bytes" --force
+        # Compile only the files that need it (--quiet for folder-based logging)
+        & $cliPath ${{ env.DOMAIN }} "to_compile" "output/bytes" --force --quiet
         
         if ($LASTEXITCODE -ne 0) {
           Write-Error "Compilation failed with exit code $LASTEXITCODE"
@@ -182,7 +182,6 @@ jobs:
         }
         
         Write-Host "Compilation complete!"
-
     # Save cache with new compiled bytes
     - name: Save compiled bytes cache
       uses: actions/cache/save@v4
@@ -251,9 +250,29 @@ jobs:
         $skipped = 0
         $cached = 0
         $failed = 0
+        $failedFiles = @()
         
-        foreach ($bytesFile in $bytesFiles) {
+        # Group by folder prefix (first letter of filename)
+        $currentFolder = ""
+        $folderCreated = 0
+        
+        # Sort files so we can track folder changes
+        $sortedFiles = $bytesFiles | Sort-Object { $_.BaseName }
+        
+        foreach ($bytesFile in $sortedFiles) {
           $name = $bytesFile.BaseName
+          
+          # Get folder prefix (e.g., "a" from "a00_07_000_00")
+          $folder = if ($name -match '^([a-z]+)') { $matches[1] } else { "other" }
+          
+          # If folder changed, log the previous folder's results
+          if ($folder -ne $currentFolder -and $currentFolder -ne "") {
+            if ($folderCreated -gt 0) {
+              Write-Host "  Folder '$currentFolder' completed: $folderCreated asset bundles created"
+            }
+            $folderCreated = 0
+          }
+          $currentFolder = $folder
           
           # Check if we have a matching original asset bundle
           if ($availableBundles.ContainsKey($name)) {
@@ -266,8 +285,6 @@ jobs:
             }
             
             $originalBundle = $availableBundles[$name]
-            
-            # -i expects a DIRECTORY containing the .bytes file
             $bytesDir = $bytesFile.DirectoryName
             
             try {
@@ -275,27 +292,29 @@ jobs:
               
               if (Test-Path $outFile) {
                 $created++
-                if ($created -le 10) {
-                  Write-Host "  Created: $name.assetbundle"
-                } elseif ($created -eq 11) {
-                  Write-Host "  ... (more files created)"
-                }
+                $folderCreated++
               } else {
                 $failed++
-                if ($failed -le 5) {
-                  Write-Host "  Failed: $name - $result"
-                }
+                $failedFiles += "  Failed: $name.assetbundle - $result"
               }
             } catch {
               $failed++
-              if ($failed -le 5) {
-                Write-Host "  Error: $name - $_"
-              }
+              $failedFiles += "  Error: $name.assetbundle - $_"
             }
           } else {
-            # No matching original asset bundle - this is expected for many files
             $skipped++
           }
+        }
+        
+        # Log the last folder
+        if ($currentFolder -ne "" -and $folderCreated -gt 0) {
+          Write-Host "  Folder '$currentFolder' completed: $folderCreated asset bundles created"
+        }
+        
+        # Log all failures at the end
+        if ($failedFiles.Count -gt 0) {
+          Write-Host "`nFailures:"
+          $failedFiles | ForEach-Object { Write-Host $_ }
         }
         
         Write-Host ""
