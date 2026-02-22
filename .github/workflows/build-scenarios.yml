@@ -7,10 +7,6 @@ on:
         description: 'Force rebuild all files'
         type: boolean
         default: false
-      create_release:
-        description: 'Create a GitHub release'
-        type: boolean
-        default: true
 
 env:
   TOOLS_REPO: SnekkersKekkers/tmgsscenariospipeline
@@ -367,7 +363,6 @@ jobs:
         key: compiled-assetbundles-${{ hashFiles('scripts/**/*.c') }}
 
     - name: Generate release tag
-      if: github.event_name == 'workflow_dispatch' && inputs.create_release
       id: tag
       shell: pwsh
       run: |
@@ -377,7 +372,6 @@ jobs:
         echo "tag=$tag" >> $env:GITHUB_OUTPUT
 
     - name: Create release archive
-      if: github.event_name == 'workflow_dispatch' && inputs.create_release
       shell: pwsh
       run: |
         # Create scenarios folder wrapper for proper zip structure
@@ -410,7 +404,6 @@ jobs:
         }
 
     - name: Create GitHub Release
-      if: github.event_name == 'workflow_dispatch' && inputs.create_release
       uses: softprops/action-gh-release@v2
       with:
         tag_name: ${{ steps.tag.outputs.tag }}
