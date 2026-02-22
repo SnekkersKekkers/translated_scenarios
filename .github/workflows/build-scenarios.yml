@@ -20,7 +20,7 @@ jobs:
     - name: Checkout scripts repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Full history needed to detect changes
+        fetch-depth: 0
         path: scripts
 
     - name: Checkout scenario tools
@@ -59,105 +59,43 @@ jobs:
         New-Item -ItemType Directory -Force -Path "output/bytes"
         New-Item -ItemType Directory -Force -Path "output/assetbundles"
 
-    # Restore cached bytes from previous builds
-    - name: Restore cached bytes
-      uses: actions/cache/restore@v4
-      id: cache-restore
-      with:
-        path: output/bytes
-        key: compiled-bytes-${{ github.sha }}
-        restore-keys: |
-          compiled-bytes-
-
-    - name: Get changed files since last successful build
+    - name: Get changed files for release notes
       id: changed-files
       shell: pwsh
       run: |
         cd scripts
-        
-        # Check if cache was restored (means we have previous bytes)
-        $cacheHit = "${{ steps.cache-restore.outputs.cache-hit }}" -eq "true"
-        
-        if ($cacheHit) {
-          # Only get files changed in this commit
-          $changedFiles = git diff --name-only HEAD~1 HEAD -- '*.c' 2>$null
-          if (-not $changedFiles) {
-            $changedFiles = @()
-          }
-          Write-Host "Cache hit - only compiling changed files"
-        } else {
-          # No cache - compile everything
-          $changedFiles = git ls-files '*.c'
-          Write-Host "No cache - compiling all files"
-        }
-        
-        # Convert to array if single item
-        if ($changedFiles -is [string]) {
-          $changedFiles = @($changedFiles)
-        }
-        
+        $changedFiles = git diff --name-only HEAD~1 HEAD -- '*.c' 2>$null
+        if (-not $changedFiles) { $changedFiles = "Initial build - all files" }
         $changedList = $changedFiles -join "`n"
         echo "files<<EOF" >> $env:GITHUB_OUTPUT
         echo $changedList >> $env:GITHUB_OUTPUT
         echo "EOF" >> $env:GITHUB_OUTPUT
-        
-        $count = $changedFiles.Count
-        echo "count=$count" >> $env:GITHUB_OUTPUT
-        
-        Write-Host "Files to compile: $count"
-        Write-Host $changedList
 
-    - name: Compile changed scripts to bytes
+    - name: Compile ALL scripts to bytes
       shell: pwsh
       run: |
         $cliPath = "tools/tmgsscenariotools/CLI/bin/Release/TMGSScenarioCLI.exe"
-        $changedCount = [int]"${{ steps.changed-files.outputs.count }}"
         
-        if ($changedCount -eq 0) {
-          Write-Host "No files changed, skipping compilation"
-          exit 0
+        Write-Host "Compiling all .c files from scripts folder..."
+        Write-Host "CLI: $cliPath"
+        Write-Host "Source: scripts"
+        Write-Host "Output: output/bytes"
+        
+        # Compile the entire scripts folder at once
+        & $cliPath ${{ env.DOMAIN }} "scripts" "output/bytes" --force
+        
+        if ($LASTEXITCODE -ne 0) {
+          Write-Error "Compilation failed with exit code $LASTEXITCODE"
+          exit $LASTEXITCODE
         }
         
-        # Get list of changed files
-        $changedFiles = @"
-        ${{ steps.changed-files.outputs.files }}
-        "@.Trim() -split "`n" | Where-Object { $_ -ne "" }
-        
-        Write-Host "Compiling $($changedFiles.Count) changed files..."
-        
-        foreach ($file in $changedFiles) {
-          $fullPath = "scripts/$file"
-          if (Test-Path $fullPath) {
-            $fileName = [System.IO.Path]::GetFileNameWithoutExtension($file)
-            $group = ($fileName -match '^([a-z]+)')[0]; $group = $matches[1]
-            
-            # Create temp dir for single file compilation
-            $tempDir = "temp_compile"
-            New-Item -ItemType Directory -Force -Path $tempDir | Out-Null
-            Copy-Item $fullPath $tempDir/
-            
-            # Compile
-            & $cliPath ${{ env.DOMAIN }} $tempDir "output/bytes" --force
-            
-            Remove-Item -Recurse -Force $tempDir
-            
-            Write-Host "Compiled: $file"
-          }
-        }
-        
-        Write-Host "Compilation complete!"
+        # Count results
+        $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
+        Write-Host "Compilation complete! Generated $($bytesFiles.Count) .bytes files"
 
-    # Save cache for next build
-    - name: Save compiled bytes cache
-      uses: actions/cache/save@v4
-      with:
-        path: output/bytes
-        key: compiled-bytes-${{ github.sha }}
-
-    - name: Verify all scripts are compiled
+    - name: Verify compilation output
       shell: pwsh
       run: |
-        # Count .c files vs .bytes files
         $cFiles = Get-ChildItem -Path "scripts" -Recurse -Filter "*.c" | Measure-Object
         $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes" | Measure-Object
         
@@ -165,9 +103,12 @@ jobs:
         Write-Host "Compiled .bytes files: $($bytesFiles.Count)"
         
         if ($bytesFiles.Count -eq 0) {
-          Write-Error "No .bytes files found! Something went wrong."
+          Write-Error "No .bytes files found! Compilation failed."
           exit 1
         }
+        
+        # List all generated files
+        Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes" | ForEach-Object { Write-Host "  - $($_.Name)" }
 
     - name: Create asset bundles
       shell: pwsh
@@ -180,23 +121,38 @@ jobs:
           exit 0
         }
         
+        if (-not (Test-Path "original_assetbundles")) {
+          Write-Host "Original asset bundles not available. Skipping asset bundle creation."
+          exit 0
+        }
+        
+        Write-Host "Creating asset bundles..."
+        
         $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
+        $created = 0
+        $skipped = 0
         
         foreach ($bytesFile in $bytesFiles) {
           $name = $bytesFile.BaseName
-          $null = $name -match '^([a-z]+)'
-          $scriptGroup = $matches[1]
           
-          $originalBundle = Get-ChildItem -Path "original_assetbundles" -Recurse -Filter "$name.assetbundle" | Select-Object -First 1
+          # Find matching original asset bundle
+          $originalBundle = Get-ChildItem -Path "original_assetbundles" -Recurse -Filter "$name.assetbundle" -ErrorAction SilentlyContinue | Select-Object -First 1
           
           if ($originalBundle) {
-            $outDir = "output/assetbundles/$scriptGroup"
-            New-Item -ItemType Directory -Force -Path $outDir | Out-Null
-            $outFile = "$outDir/$name.assetbundle"
+            $outFile = "output/assetbundles/$name.assetbundle"
             
-            & $assetReplacer -b $originalBundle.FullName -m "m_Script" -i $bytesFile.DirectoryName -o $outFile
+            & $assetReplacer -b $originalBundle.FullName -m "m_Script" -i $bytesFile.FullName -o $outFile
+            
+            if (Test-Path $outFile) {
+              $created++
+              Write-Host "  Created: $name.assetbundle"
+            }
+          } else {
+            $skipped++
           }
         }
+        
+        Write-Host "Asset bundle creation complete: $created created, $skipped skipped (no matching original)"
 
     - name: Generate release tag
       id: tag
@@ -212,8 +168,12 @@ jobs:
       run: |
         Compress-Archive -Path "output/bytes/*" -DestinationPath "translated_bytes.zip" -Force
         
-        if ((Get-ChildItem "output/assetbundles" -Recurse -File | Measure-Object).Count -gt 0) {
+        $assetBundleCount = (Get-ChildItem "output/assetbundles" -Recurse -File -ErrorAction SilentlyContinue | Measure-Object).Count
+        if ($assetBundleCount -gt 0) {
           Compress-Archive -Path "output/assetbundles/*" -DestinationPath "translated_assetbundles.zip" -Force
+          Write-Host "Created translated_assetbundles.zip with $assetBundleCount files"
+        } else {
+          Write-Host "No asset bundles to archive"
         }
 
     - name: Create GitHub Release
@@ -224,12 +184,10 @@ jobs:
         body: |
           Automated release from commit ${{ github.sha }}
           
-          **Changes in this release:**
+          **Changes in this commit:**
           ```
           ${{ steps.changed-files.outputs.files }}
           ```
-          
-          **Total compiled scenarios:** Check the zip for complete scenario set
         files: |
           translated_bytes.zip
           translated_assetbundles.zip
