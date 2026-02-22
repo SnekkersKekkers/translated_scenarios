@@ -149,7 +149,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("Q100700000_07_110");
 MsgDisp("Mikage","That doesn't sound half bad...
-Well, I guess I'll be hanging here.
+Well, I guess I'll be hanging back here.
 I don't want to disturb you.");
 ChEye(7,0);
 ChMouth(7,3);
