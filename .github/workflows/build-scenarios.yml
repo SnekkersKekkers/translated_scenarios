@@ -208,6 +208,40 @@ jobs:
           Write-Host "Warning: Some files may not have compiled. Expected $($cFiles.Count), got $($bytesFiles.Count)"
         }
 
+    - name: Organize bytes into folders
+      shell: pwsh
+      run: |
+        Write-Host "Organizing .bytes files into letter-based folders..."
+        
+        $bytesFiles = Get-ChildItem -Path "output/bytes" -Filter "*.bytes" -File
+        $organized = 0
+        
+        foreach ($file in $bytesFiles) {
+          $name = $file.BaseName
+          # Extract folder prefix (e.g., "a" from "a00_07_000_00", "ss" from "ss00_01")
+          if ($name -match '^([a-z]+)') {
+            $folder = $matches[1]
+          } else {
+            $folder = "other"
+          }
+          
+          $targetDir = "output/bytes/$folder"
+          if (-not (Test-Path $targetDir)) {
+            New-Item -ItemType Directory -Force -Path $targetDir | Out-Null
+          }
+          
+          Move-Item $file.FullName -Destination "$targetDir/$($file.Name)" -Force
+          $organized++
+        }
+        
+        Write-Host "Organized $organized .bytes files into folders"
+        
+        # Show folder summary
+        Get-ChildItem -Path "output/bytes" -Directory | ForEach-Object {
+          $count = (Get-ChildItem $_.FullName -Filter "*.bytes" | Measure-Object).Count
+          Write-Host "  $($_.Name): $count files"
+        }
+
     - name: Create asset bundles
       shell: pwsh
       continue-on-error: true
@@ -239,9 +273,9 @@ jobs:
         $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
         Write-Host "Found $($bytesFiles.Count) .bytes files"
         
-        # Get already cached asset bundles
+        # Get already cached asset bundles (search recursively in subdirectories)
         $cachedBundles = @{}
-        Get-ChildItem -Path "output/assetbundles" -Filter "*.assetbundle" -ErrorAction SilentlyContinue | ForEach-Object {
+        Get-ChildItem -Path "output/assetbundles" -Recurse -Filter "*.assetbundle" -ErrorAction SilentlyContinue | ForEach-Object {
           $cachedBundles[$_.BaseName] = $true
         }
         Write-Host "Found $($cachedBundles.Count) cached asset bundles"
@@ -276,7 +310,12 @@ jobs:
           
           # Check if we have a matching original asset bundle
           if ($availableBundles.ContainsKey($name)) {
-            $outFile = "output/assetbundles/$name.assetbundle"
+            # Create folder-based output path
+            $outDir = "output/assetbundles/$folder"
+            if (-not (Test-Path $outDir)) {
+              New-Item -ItemType Directory -Force -Path $outDir | Out-Null
+            }
+            $outFile = "$outDir/$name.assetbundle"
             
             # Skip if already cached
             if ($cachedBundles.ContainsKey($name)) {
@@ -344,11 +383,30 @@ jobs:
     - name: Create release archive
       shell: pwsh
       run: |
-        Compress-Archive -Path "output/bytes/*" -DestinationPath "translated_bytes.zip" -Force
+        # Create scenarios folder wrapper for proper zip structure
+        New-Item -ItemType Directory -Force -Path "release/scenarios_bytes" | Out-Null
+        New-Item -ItemType Directory -Force -Path "release/scenarios_assetbundles" | Out-Null
         
+        # Copy bytes folders maintaining structure (a/, b/, c/, etc.)
+        Get-ChildItem -Path "output/bytes" -Directory | ForEach-Object {
+          Copy-Item -Recurse $_.FullName -Destination "release/scenarios_bytes/"
+        }
+        
+        # Create bytes zip with scenarios as top-level folder
+        Push-Location "release"
+        Compress-Archive -Path "scenarios_bytes/*" -DestinationPath "../translated_bytes.zip" -Force
+        Pop-Location
+        Write-Host "Created translated_bytes.zip"
+        
+        # Copy and create assetbundles zip if any exist
         $assetBundleCount = (Get-ChildItem "output/assetbundles" -Recurse -File -ErrorAction SilentlyContinue | Measure-Object).Count
         if ($assetBundleCount -gt 0) {
-          Compress-Archive -Path "output/assetbundles/*" -DestinationPath "translated_assetbundles.zip" -Force
+          Get-ChildItem -Path "output/assetbundles" -Directory | ForEach-Object {
+            Copy-Item -Recurse $_.FullName -Destination "release/scenarios_assetbundles/"
+          }
+          Push-Location "release"
+          Compress-Archive -Path "scenarios_assetbundles/*" -DestinationPath "../translated_assetbundles.zip" -Force
+          Pop-Location
           Write-Host "Created translated_assetbundles.zip with $assetBundleCount files"
         } else {
           Write-Host "No asset bundles to archive"
