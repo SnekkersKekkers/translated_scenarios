@@ -51,7 +51,7 @@ spit at you.");
         MsgDisp("Nanatsumori","Could it be that you're not really
 interested in animals?");
         MsgDisp("主人公","That's not it but...did you want to feed
-them.");
+them?");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,2,1);
