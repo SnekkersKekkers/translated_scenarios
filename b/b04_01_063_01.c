@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B040106301_01_000");
 MsgDisp("Kazama","The rough seas in the winter bring all
 kinds of things ashore.");
-MsgSel("Doesn't that driftwood look like a baked sweet potato?","Maybe some of it washed up from England","We need to pick the trash out of it!");
+MsgSel("Doesn't that driftwood look like a baked sweet potato?","Maybe some of it washed up from England?","We need to pick the trash out of it!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
