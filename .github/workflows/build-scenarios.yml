@@ -1,0 +1,167 @@
+name: Build and Release Scenarios
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+env:
+  TOOLS_REPO: SnekkersKekkers/tmgsscenariospipeline  # Update this to your tools repo
+  ASSETBUNDLES_REPO: SnekkersKekkers/original_jp_assetbundles
+  DOMAIN: TMGS4
+
+jobs:
+  build-and-release:
+    runs-on: windows-latest
+    
+    steps:
+    - name: Checkout scripts repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 2  # Needed to detect changed files
+        path: scripts
+
+    - name: Checkout scenario tools
+      uses: actions/checkout@v4
+      with:
+        repository: ${{ env.TOOLS_REPO }}
+        path: tools
+        token: ${{ secrets.PAT_TOKEN }}
+
+    - name: Checkout original asset bundles
+      uses: actions/checkout@v4
+      with:
+        repository: ${{ env.ASSETBUNDLES_REPO }}
+        path: original_assetbundles
+        token: ${{ secrets.PAT_TOKEN }}
+
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v2
+
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v2
+
+    - name: Restore NuGet packages
+      working-directory: tools/tmgsscenariotools
+      run: nuget restore TMGSScenarioTools.sln
+
+    - name: Build Scenario Tools
+      working-directory: tools/tmgsscenariotools
+      run: msbuild TMGSScenarioTools.sln /p:Configuration=Release /p:Platform="Any CPU"
+
+    - name: Get changed files
+      id: changed-files
+      shell: pwsh
+      run: |
+        cd scripts
+        $changedFiles = git diff --name-only HEAD~1 HEAD -- '*.c' 2>$null
+        if (-not $changedFiles) {
+          # If HEAD~1 doesn't exist (first commit), process all files
+          $changedFiles = git ls-files '*.c'
+        }
+        $changedList = $changedFiles -join "`n"
+        echo "files<<EOF" >> $env:GITHUB_OUTPUT
+        echo $changedList >> $env:GITHUB_OUTPUT
+        echo "EOF" >> $env:GITHUB_OUTPUT
+        
+        $hasChanges = ($changedFiles.Count -gt 0) -or ($changedFiles.Length -gt 0)
+        echo "has_changes=$hasChanges" >> $env:GITHUB_OUTPUT
+        
+        Write-Host "Changed .c files:"
+        Write-Host $changedList
+
+    - name: Create output directories
+      run: |
+        New-Item -ItemType Directory -Force -Path "output/bytes"
+        New-Item -ItemType Directory -Force -Path "output/assetbundles"
+
+    - name: Compile scripts to bytes
+      if: steps.changed-files.outputs.has_changes == 'True'
+      shell: pwsh
+      run: |
+        $cliPath = "tools/tmgsscenariotools/CLI/bin/Release/TMGSScenarioCLI.exe"
+        
+        # Compile all scripts (the tool handles incremental compilation)
+        & $cliPath ${{ env.DOMAIN }} "scripts" "output/bytes" --force
+        
+        if ($LASTEXITCODE -ne 0) {
+          Write-Error "Compilation failed!"
+          exit 1
+        }
+
+    - name: Create asset bundles
+      if: steps.changed-files.outputs.has_changes == 'True'
+      shell: pwsh
+      run: |
+        $assetReplacer = "tools/UnityAssetReplacer/UnityAssetReplacer.exe"
+        
+        if (-not (Test-Path $assetReplacer)) {
+          Write-Host "UnityAssetReplacer not found at $assetReplacer"
+          Write-Host "Skipping asset bundle creation. Only .bytes files will be released."
+          exit 0
+        }
+        
+        # Get all .bytes files
+        $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
+        
+        foreach ($bytesFile in $bytesFiles) {
+          $name = $bytesFile.BaseName
+          
+          # Extract script group (letters at start of filename)
+          $scriptGroup = ($name -match '^([a-z]+)') | Out-Null; $matches[1]
+          
+          # Find corresponding original asset bundle
+          $originalBundle = Get-ChildItem -Path "original_assetbundles" -Recurse -Filter "$name.assetbundle" | Select-Object -First 1
+          
+          if ($originalBundle) {
+            $outDir = "output/assetbundles/$scriptGroup"
+            New-Item -ItemType Directory -Force -Path $outDir | Out-Null
+            $outFile = "$outDir/$name.assetbundle"
+            
+            Write-Host "Creating asset bundle: $outFile"
+            
+            & $assetReplacer -b $originalBundle.FullName -m "m_Script" -i $bytesFile.DirectoryName -o $outFile
+          } else {
+            Write-Warning "Original asset bundle not found for: $name"
+          }
+        }
+
+    - name: Generate release tag
+      id: tag
+      shell: pwsh
+      run: |
+        $timestamp = Get-Date -Format "yyyy.MM.dd-HHmmss"
+        $shortSha = "${{ github.sha }}".Substring(0, 7)
+        $tag = "v$timestamp-$shortSha"
+        echo "tag=$tag" >> $env:GITHUB_OUTPUT
+        echo "Generated tag: $tag"
+
+    - name: Create release archive
+      shell: pwsh
+      run: |
+        # Create archives for the release
+        Compress-Archive -Path "output/bytes/*" -DestinationPath "translated_bytes.zip" -Force
+        
+        if (Test-Path "output/assetbundles/*") {
+          Compress-Archive -Path "output/assetbundles/*" -DestinationPath "translated_assetbundles.zip" -Force
+        }
+
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: ${{ steps.tag.outputs.tag }}
+        name: Release ${{ steps.tag.outputs.tag }}
+        body: |
+          Automated release from commit ${{ github.sha }}
+          
+          **Changes in this release:**
+          ```
+          ${{ steps.changed-files.outputs.files }}
+          ```
+        files: |
+          translated_bytes.zip
+          translated_assetbundles.zip
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
