@@ -216,13 +216,20 @@ jobs:
           exit 0
         }
         
-        # Test UnityAssetReplacer can run
-        Write-Host "Testing UnityAssetReplacer..."
-        & $assetReplacer --help 2>&1 | Select-Object -First 5
-        
         Write-Host "Creating asset bundles..."
+        Write-Host "(Only for .bytes files that have a matching original .assetbundle)"
         
+        # Get all available original asset bundles
+        $availableBundles = @{}
+        Get-ChildItem -Path "original_assetbundles" -Recurse -Filter "*.assetbundle" | ForEach-Object {
+          $availableBundles[$_.BaseName] = $_.FullName
+        }
+        Write-Host "Found $($availableBundles.Count) original asset bundles"
+        
+        # Get all .bytes files
         $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
+        Write-Host "Found $($bytesFiles.Count) .bytes files"
+        
         $created = 0
         $skipped = 0
         $failed = 0
@@ -230,20 +237,23 @@ jobs:
         foreach ($bytesFile in $bytesFiles) {
           $name = $bytesFile.BaseName
           
-          # Find matching original asset bundle
-          $originalBundle = Get-ChildItem -Path "original_assetbundles" -Recurse -Filter "$name.assetbundle" -ErrorAction SilentlyContinue | Select-Object -First 1
-          
-          if ($originalBundle) {
+          # Check if we have a matching original asset bundle
+          if ($availableBundles.ContainsKey($name)) {
+            $originalBundle = $availableBundles[$name]
             $outFile = "output/assetbundles/$name.assetbundle"
             
+            # -i expects a DIRECTORY containing the .bytes file
+            $bytesDir = $bytesFile.DirectoryName
+            
             try {
-              # Run UnityAssetReplacer - pass the bytes file path to -i
-              $result = & $assetReplacer -b $originalBundle.FullName -m "m_Script" -i $bytesFile.FullName -o $outFile 2>&1
+              $result = & $assetReplacer -b $originalBundle -m "m_Script" -i $bytesDir -o $outFile 2>&1
               
               if (Test-Path $outFile) {
                 $created++
                 if ($created -le 10) {
                   Write-Host "  Created: $name.assetbundle"
+                } elseif ($created -eq 11) {
+                  Write-Host "  ... (more files created)"
                 }
               } else {
                 $failed++
@@ -258,6 +268,7 @@ jobs:
               }
             }
           } else {
+            # No matching original asset bundle - this is expected for many files
             $skipped++
           }
         }
