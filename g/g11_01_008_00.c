@@ -37,7 +37,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100800_01_020");
 MsgDisp("Kazama","Do you have any idea what I might've
-wanted say?");
+wanted to say?");
 MsgDisp("主人公","(What ｛風真＊＊｝ might've wanted to
 say...
 Maybe he wanted to nag me like a Mom?)");
