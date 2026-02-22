@@ -11,7 +11,7 @@ ChMotion(2,3);
 VoicePlay("G020230100_02_010");
 MsgDisp("Sassa","I don't know for sure, but it must be
 hundreds of them. It's like the whole
-student body of Habagaku.");
+student body of Haba High.");
 MsgDisp("主人公","Hehe, a firefly school?");
 ChEye(2,0);
 ChMouth(2,4);
