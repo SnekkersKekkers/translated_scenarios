@@ -151,7 +151,7 @@ ChMotion(2,0);
 VoicePlay("A020250000_02_130");
 MsgDisp("Sassa","Ah, it's bad!
 I gotta change class!
-See you later childhoods buddies!");
+See you later, childhood buddies!");
 MsgDisp("主人公","Hehe. See you later, ｛Sassa＊＊｝!");
 ChEye(1,4);
 ChMouth(1,2);
