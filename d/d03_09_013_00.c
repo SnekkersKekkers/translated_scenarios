@@ -39,7 +39,7 @@ I'm not a suspicious person, right?");
     VoicePlay("D030901300_09_020");
     MsgDisp("Kuya","Wait a moment...");
     VoicePlay("D030901300_09_030");
-    MsgDisp("Kuya","Can the two of you be quiet.
+    MsgDisp("Kuya","Can the two of you be quiet?
 This is a very important phone call.");
     VoicePlay("D030901300_09_040");
     MsgDisp("Kuya","...Sigh.
