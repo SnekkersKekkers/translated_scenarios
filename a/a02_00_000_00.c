@@ -58,7 +58,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Mom told me something earlier that really
 surprised me...)");
 MsgDisp("主人公","(Ryota-kun is back.
-It's been 9 years since he moved to
+It's been around 9 years since he moved to
 England.)");
 MsgDisp("主人公","(I hadn't heard his name in a while.
 It brought back a lot of memories of
