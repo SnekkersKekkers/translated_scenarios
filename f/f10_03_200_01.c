@@ -23,7 +23,7 @@ VoicePlay("F100320001_03_010");
 MsgDisp("Honda","Sakkun is fighting for every tenth of a
 second, so I thought if he cut his hair,
 even with the same muscle mass as now,
-he's'd be able to improve my record");
+he'd be able to improve my record.");
 MsgDisp("主人公","Ehh?
 But, it doesn't seem like ｛颯砂＊＊｝
 wants to cut his hair...");
