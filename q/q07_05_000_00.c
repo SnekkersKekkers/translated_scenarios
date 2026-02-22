@@ -4,7 +4,7 @@ BGOpen("sc820",0);
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...look, ｛柊＊＊＊｝!
+MsgDisp("主人公","Wow...｛柊＊＊＊｝, look!
 The windmills and flowers are so pretty.");
 ChEye(5,4);
 ChMotion(5,4);
