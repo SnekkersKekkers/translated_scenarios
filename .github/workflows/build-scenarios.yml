@@ -80,6 +80,16 @@ jobs:
         restore-keys: |
           compiled-bytes-
 
+    # Restore cached asset bundles from previous builds
+    - name: Restore cached asset bundles
+      uses: actions/cache/restore@v4
+      id: cache-assetbundles-restore
+      with:
+        path: output/assetbundles
+        key: compiled-assetbundles-${{ hashFiles('scripts/**/*.c') }}
+        restore-keys: |
+          compiled-assetbundles-
+
     - name: Determine files to compile
       id: files-to-compile
       shell: pwsh
@@ -230,8 +240,16 @@ jobs:
         $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
         Write-Host "Found $($bytesFiles.Count) .bytes files"
         
+        # Get already cached asset bundles
+        $cachedBundles = @{}
+        Get-ChildItem -Path "output/assetbundles" -Filter "*.assetbundle" -ErrorAction SilentlyContinue | ForEach-Object {
+          $cachedBundles[$_.BaseName] = $true
+        }
+        Write-Host "Found $($cachedBundles.Count) cached asset bundles"
+        
         $created = 0
         $skipped = 0
+        $cached = 0
         $failed = 0
         
         foreach ($bytesFile in $bytesFiles) {
@@ -239,8 +257,15 @@ jobs:
           
           # Check if we have a matching original asset bundle
           if ($availableBundles.ContainsKey($name)) {
-            $originalBundle = $availableBundles[$name]
             $outFile = "output/assetbundles/$name.assetbundle"
+            
+            # Skip if already cached
+            if ($cachedBundles.ContainsKey($name)) {
+              $cached++
+              continue
+            }
+            
+            $originalBundle = $availableBundles[$name]
             
             # -i expects a DIRECTORY containing the .bytes file
             $bytesDir = $bytesFile.DirectoryName
@@ -276,8 +301,17 @@ jobs:
         Write-Host ""
         Write-Host "Asset bundle creation complete:"
         Write-Host "  Created: $created"
+        Write-Host "  From cache: $cached"
         Write-Host "  Skipped (no matching original): $skipped"
         Write-Host "  Failed: $failed"
+
+    # Save cache with asset bundles
+    - name: Save compiled asset bundles cache
+      uses: actions/cache/save@v4
+      if: always()
+      with:
+        path: output/assetbundles
+        key: compiled-assetbundles-${{ hashFiles('scripts/**/*.c') }}
 
     - name: Generate release tag
       id: tag
