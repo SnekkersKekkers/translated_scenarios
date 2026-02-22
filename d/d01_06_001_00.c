@@ -159,8 +159,8 @@ VoicePlay("D010600100_06_150");
 MsgDisp("Himuro","It's black on the outside and white on the
 inside, and when it gets heated up, the
 texture becomes gross and mushy.");
-MsgDisp("主人公","Are you trying to say that you...hate
-eggplant?");
+MsgDisp("主人公","Are you trying to say that you... hate
+eggplants?");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,2);
