@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040410300_04_000");
 MsgDisp("Nanatsumori","Take Hazuki Kei for example.
 The alumni of our school are incredible.");
-MsgSel("I kinda don't get their tastes...","It's ｛七ツ森＊｝'s turn next.","I can really understand their thoughts!");
+MsgSel("I kinda don't get their tastes...","It's ｛Nanatsumori＊｝'s turn next.","I can really understand their thoughts!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -16,7 +16,7 @@ VoicePlay("E010220100_03_010");
 MsgDisp("Honda","Hey∋
 It's not Sakkun, it's you.");
 ChEye(3,0);
-MsgDisp("主人公","｛本多＊＊｝, what's going on?
+MsgDisp("主人公","｛Honda＊＊｝, what's going on?
 Yelling around?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -25,7 +25,7 @@ VoicePlay("E010220100_03_020");
 MsgDisp("Honda","Oh yeah.
 Earlier, at the transfer gate, I saw
 Sakkun.");
-MsgDisp("主人公","\"Sakkun\", you mean ｛颯砂＊＊｝?
+MsgDisp("主人公","\"Sakkun\", you mean ｛Sassa＊＊｝?
 Did you need anything?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -48,7 +48,7 @@ VoicePlay("E010220100_02_010");
 MsgDisp("Sassa","Huh∋
 You're here too?");
 ChEye(2,0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -71,7 +71,7 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("E010220100_03_050");
 MsgDisp("Honda","What?");
-MsgDisp("主人公","｛本多＊＊｝ saw you, ｛颯砂＊＊｝, so he
+MsgDisp("主人公","｛Honda＊＊｝ saw you, ｛Sassa＊＊｝, so he
 thought it wouldn't be nice not to say
 hello.");
 ChMouth(2,2);
@@ -92,7 +92,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("E010220100_03_070");
 MsgDisp("Honda","Really?");
-MsgDisp("主人公","Isn't it great, ｛本多＊＊｝.");
+MsgDisp("主人公","Isn't it great, ｛Honda＊＊｝.");
 VoicePlay("E010220100_02_060");
 ChEye(2,0);
 ChMouth(2,4);

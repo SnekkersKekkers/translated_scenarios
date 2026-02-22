@@ -60,7 +60,7 @@ into any situation.");
 That's kind of surprising.");
         ChEyeOpenLevel(4,#1);
         MsgDisp("主人公","Really?
-｛七ツ森＊｝'s work photos always show a
+｛Nanatsumori＊｝'s work photos always show a
 different world.");
         ChEye(4,5);
         ChMouth(4,2);

@@ -96,7 +96,7 @@ tastier than the sausages we normally ate.");
 express the emotions you feel in the
 moment, like my sister and you, than to
 come off as cold.");
-        MsgDisp("主人公","｛本多＊＊｝ isn't cold?
+        MsgDisp("主人公","｛Honda＊＊｝ isn't cold?
 He's kind, and always amuses everyone.");
         ChEye(3,4);
         ChMouth(3,3);

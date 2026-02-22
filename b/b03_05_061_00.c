@@ -9,7 +9,7 @@ ChMouth(5,3);
 ChMotion(5,2);
 VoicePlay("B030506100_05_000");
 MsgDisp("Hiiragi","Everyone seems to be enjoying themselves.");
-MsgDisp("主人公","｛柊＊＊＊｝ is also smiling.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ is also smiling.");
 ChMotion(5,0);
 VoicePlay("B030506100_05_010");
 MsgDisp("Hiiragi","Yes.

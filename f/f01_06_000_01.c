@@ -2,7 +2,7 @@ switch (ChPrmGet(6,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛氷室＊＊｝.");
+    MsgDisp("主人公","｛Himuro＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,254,2,1,0,0,#1,0,0);
@@ -16,13 +16,13 @@ switch (ChPrmGet(6,6)){
 I definitely shouldn't call him that.)");
     break ;
     case 3:
-    MsgDisp("主人公","｛氷室＊＊｝.");
+    MsgDisp("主人公","｛Himuro＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,254,0,1,0,#1,#1,0,0);
     VoicePlay("F010600001_06_010");
     MsgDisp("Himuro","...who?");
-    MsgDisp("主人公","Are you not ｛氷室＊＊｝?");
+    MsgDisp("主人公","Are you not ｛Himuro＊＊｝?");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -37,13 +37,13 @@ I guess I shouldn't call him that.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛氷室＊＊｝.");
+    MsgDisp("主人公","｛Himuro＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,254,2,2,0,0,#1,0,0);
     VoicePlay("F010600001_06_030");
     MsgDisp("Himuro","Hey, stop that.");
-    MsgDisp("主人公","What, calling you ｛氷室＊＊｝?");
+    MsgDisp("主人公","What, calling you ｛Himuro＊＊｝?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

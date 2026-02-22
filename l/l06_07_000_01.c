@@ -9,7 +9,7 @@ ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("L060700001_07_000");
 MsgDisp("Mikage","｛主人公｝.");
-MsgDisp("主人公","｛御影＊＊｝, what is it?");
+MsgDisp("主人公","｛Mikage＊＊｝, what is it?");
 SEPlay("EV_SE_664");
 SEWait();
 VoicePlay("l060700000_07_010");
@@ -30,6 +30,6 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(I got a return gift from ｛御影＊＊｝!
+MsgDisp("主人公","(I got a return gift from ｛Mikage＊＊｝!
 I wonder what it is?
 How exciting.)");

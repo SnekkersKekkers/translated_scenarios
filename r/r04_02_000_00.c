@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("R040200000_02_000");
     MsgDisp("Sassa","｛主人公｝, Merry Christmas!");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Merry Christmas!");
     break ;
     case 3:
@@ -18,7 +18,7 @@ Merry Christmas!");
     VoiceEVSPlay(2);
     VoicePlay("R040200000_02_010");
     MsgDisp("Sassa","｛主人公｝, Merry Christmas!");
-    MsgDisp("主人公","｛颯砂＊＊｝.
+    MsgDisp("主人公","｛Sassa＊＊｝.
 Merry Christmas!");
     ChEye(2,3);
     ChMouth(2,3);
@@ -35,7 +35,7 @@ I like how fancy it is.");
     VoiceEVSPlay(2);
     VoicePlay("R040200000_02_030");
     MsgDisp("Sassa","｛主人公｝, Merry Christmas!");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Merry Christmas!");
     ChEye(2,0);
     ChMouth(2,4);

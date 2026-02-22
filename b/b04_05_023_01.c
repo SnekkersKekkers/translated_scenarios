@@ -3,7 +3,7 @@ ChOpen(5,255,4,0,4,#1,#1,0,0);
 VoicePlay("B040502301_05_000");
 MsgDisp("Hiiragi","It seems as if there are no fishermen
 here.");
-MsgSel("Fishing seems fun","｛柊＊＊＊｝, do you like fishing?","There's traces of octopus and squid ink there!");
+MsgSel("Fishing seems fun","｛Hiiragi＊＊＊｝, do you like fishing?","There's traces of octopus and squid ink there!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

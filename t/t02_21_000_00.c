@@ -57,7 +57,7 @@ ChMotion(21,0);
 ChCheek(21,5);
 VoicePlay("T022100000_21_070");
 MsgDisp("Michiru","She's a kind and pleasant girl.
-I...love Mari");
+I...love Mari.");
 MsgDisp("主人公","｛みちる＊｝...");
 Wait(60,0);
 ChEye(21,4);

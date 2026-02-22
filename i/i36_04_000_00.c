@@ -18,7 +18,7 @@ orders are...");
     VoicePlay("I360400000_04_000");
     MsgDisp("Nanatsumori","Waitress.");
     MsgDisp("主人公","Yes!
-Ah, ｛七ツ森＊｝.");
+Ah, ｛Nanatsumori＊｝.");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);

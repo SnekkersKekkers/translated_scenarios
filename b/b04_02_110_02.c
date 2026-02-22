@@ -44,7 +44,7 @@ taking a break.");
         MsgDisp("Sassa","Yeah, why is that? Phew, getting tired
 from something like this...Is weird for
 me?");
-        MsgDisp("主人公","｛颯砂＊＊｝, are you alright?
+        MsgDisp("主人公","｛Sassa＊＊｝, are you alright?
 Are you not feeling well?");
         MsgClose();
         SEPlay("EV_SE_508",0,0.8);
@@ -87,7 +87,7 @@ good training in.");
         SEWait();
         SEPlay("EV_SE_631",0,1);
         Wait(50,1);
-        MsgDisp("主人公","(｛颯砂＊＊｝...
+        MsgDisp("主人公","(｛Sassa＊＊｝...
 Diving is prohibited!)");
         SEStop("EV_SE_631",1);
         break ;

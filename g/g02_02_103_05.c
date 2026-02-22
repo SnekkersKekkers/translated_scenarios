@@ -30,7 +30,7 @@ VoicePlay("G020210305_02_040");
 MsgDisp("Sassa","Remember?
 We were facing each other across the cow?");
 MsgDisp("主人公","Y-Yeah.
-That time ｛颯砂＊＊｝, was just watching
+That time ｛Sassa＊＊｝, was just watching
 back then and didn't really do much.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -48,7 +48,7 @@ MsgDisp("Sassa","Since then, whenever milk shows up at
 breakfast, I get this weird feeling...and
 my morning practice goes great...");
 MsgDisp("主人公","(...Hm? I can't tell if you're troubled or
-happy...｛颯砂＊＊｝)");
+happy...｛Sassa＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

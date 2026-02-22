@@ -25,7 +25,7 @@ VoicePlay("G020410300_04_030");
 MsgDisp("Nanatsumori","...Well, I'll just forget about it then.
 It was about asking you what you think
 about love.");
-MsgDisp("主人公","Ah...｛七ツ森＊｝, maybe by the time you
+MsgDisp("主人公","Ah...｛Nanatsumori＊｝, maybe by the time you
 graduate you will heard all kinds of
 romance and love?");
 ChEye(4,2);

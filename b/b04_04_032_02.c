@@ -101,7 +101,7 @@ they're laughing from their heart.");
         VoicePlay("B040403202_04_090");
         MsgDisp("Nanatsumori","Just now, you were sparkling a lot.
 So much so that I wanted to hug you.");
-        MsgDisp("主人公","｛七ツ森＊｝...");
+        MsgDisp("主人公","｛Nanatsumori＊｝...");
         VoiceEVSPlay(4);
         VoicePlay("B040403202_04_100");
         MsgDisp("Nanatsumori","｛主人公｝...");
@@ -120,7 +120,7 @@ in the water tank?");
         MsgDisp("Nanatsumori","Pfft...ahaha!
 You really are the best.");
         MsgDisp("主人公","(Ah...
-Just now, didn't ｛七ツ森＊｝'s face look
+Just now, didn't ｛Nanatsumori＊｝'s face look
 like he was sparkling lots right now?)");
         break ;
         default :

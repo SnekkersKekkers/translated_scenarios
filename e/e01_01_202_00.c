@@ -11,7 +11,7 @@ VoicePlay("E010120200_01_000");
 MsgDisp("Kazama?","Do you have to bother me with this all the
 time?
 Leave me alone.");
-MsgDisp("主人公","｛風真＊＊｝, ｛颯砂＊＊｝!");
+MsgDisp("主人公","｛Kazama＊＊｝, ｛Sassa＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,35,0,0,2,#1,#1,0,1,0,30);
@@ -84,7 +84,7 @@ MsgDisp("Kazama","Sassa, you don't get it do you?
 It doesn't matter how much \"sense\" I got,
 as long as you're around, I feel mediocre.");
 MsgDisp("主人公","Is that so?
-But you can do anything, ｛風真＊＊｝, I
+But you can do anything, ｛Kazama＊＊｝, I
 don't think you're mediocre at all!");
 ChEye(1,0);
 ChMouth(1,2);
@@ -140,8 +140,8 @@ VoicePlay("E010120200_02_050");
 MsgDisp("Sassa","That's too bad.
 He's always like that, blaming me.
 You tell him, okay?");
-MsgDisp("主人公","To be recognized by you, ｛颯砂＊＊｝,
-｛風真＊＊｝ must really have awesome
+MsgDisp("主人公","To be recognized by you, ｛Sassa＊＊｝,
+｛Kazama＊＊｝ must really have awesome
 sports abilities!");
 ChEye(2,0);
 ChMouth(2,4);
@@ -170,8 +170,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(2);
-MsgDisp("主人公","(The expression on ｛颯砂＊＊｝'s face just
+MsgDisp("主人公","(The expression on ｛Sassa＊＊｝'s face just
 now, it surprised me a little...Maybe I
-understand ｛風真＊＊｝'s feelings a bit!')");
+understand ｛Kazama＊＊｝'s feelings a bit!')");
 MsgClose();
 ScrFadeOut(0,0);

@@ -11,7 +11,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","Ah, ｛本多＊＊｝, ｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝, ｛Nanatsumori＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -114,7 +114,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("F100340000_03_090");
 MsgDisp("Honda","Yepyep, that sounds good.
 I'll say that to Mi-kun next time.");
-MsgDisp("主人公","(What kind of thing will ｛七ツ森＊｝
+MsgDisp("主人公","(What kind of thing will ｛Nanatsumori＊｝
 reply?)");
 BGMStop();
 MsgClose();

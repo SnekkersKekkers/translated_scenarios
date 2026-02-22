@@ -14,7 +14,7 @@ SEWait();
 ChOpen(2,30,3,0,4,#1,#1,0,0);
 VoicePlay("D120A00200_02_000");
 MsgDisp("Sassa","Hey, are you coming?");
-MsgDisp("主人公","Hehe, even if I don't, ｛颯砂＊＊｝ will
+MsgDisp("主人公","Hehe, even if I don't, ｛Sassa＊＊｝ will
 still come in first place, right?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -30,7 +30,7 @@ SEWait();
 VoicePlay("D120A00200_01_000");
 MsgDisp("Kazama","Sassa, you need to be more considerate of
 your running mates.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝.
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Are the two of you running together?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -59,8 +59,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(It's about time for ｛風真＊＊｝ and
-｛颯砂＊＊｝ to start. ...Huh? Over there,
+MsgDisp("主人公","(It's about time for ｛Kazama＊＊｝ and
+｛Sassa＊＊｝ to start. ...Huh? Over there,
 is that——)");
 MsgClose();
 ScrFadeOut(0);
@@ -125,7 +125,7 @@ BGOpen("sc760",0);
 MsgClose();
 ChOpen(2,30,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, congrats!");
+MsgDisp("主人公","｛Sassa＊＊｝, congrats!");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -145,13 +145,13 @@ VoicePlay("D120A00200_02_070");
 MsgDisp("Sassa","I'm glad to hear that.");
 MsgDisp("主人公","(Hehe!
 It's like they're interviewing the hero.
-...Huh, where is ｛風真＊＊｝...?)");
+...Huh, where is ｛Kazama＊＊｝...?)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(2,0,0);
 BGOpen("sc220",0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝, are you okay?");
+MsgDisp("主人公","｛Kazama＊＊｝, are you okay?");
 MsgClose();
 ChOpen(1,30,3,3,2,#1,#1,5,0);
 VoicePlay("D120A00200_01_040");
@@ -162,7 +162,7 @@ ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("D120A00200_01_050");
 MsgDisp("Kazama","What are you doing?");
-MsgDisp("主人公","I saw ｛風真＊＊｝ going this way so...
+MsgDisp("主人公","I saw ｛Kazama＊＊｝ going this way so...
 Are you sad?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -202,7 +202,7 @@ VoicePlay("D120A00200_01_100");
 MsgDisp("Kazama","It's nothing.
 Look, the festival is continuing.
 Shall we go?");
-MsgDisp("主人公","(...｛風真＊＊｝?)");
+MsgDisp("主人公","(...｛Kazama＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

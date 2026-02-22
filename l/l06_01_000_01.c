@@ -7,7 +7,7 @@ MsgDisp("Kazama?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A");
 ChOpen(1,254,0,0,3,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛風真＊＊｝.");
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝.");
 ChMotion(1,3);
 VoicePlay("L060100001_01_010");
 MsgDisp("Kazama","I finally found you.
@@ -34,7 +34,7 @@ MsgDisp("Kazama","It's a little different than the others.
 That's why it'd be a problem if others
 saw, right?");
 MsgDisp("主人公","I see, thanks.
-｛風真＊＊｝, you got a lot of chocolate,
+｛Kazama＊＊｝, you got a lot of chocolate,
 right?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -63,4 +63,4 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
 MsgDisp("主人公","(I'm happy I got a White Day present from
-｛風真＊＊｝!)");
+｛Kazama＊＊｝!)");

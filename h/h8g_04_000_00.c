@@ -6,7 +6,7 @@ ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("H8G0400000_04_000");
 MsgDisp("Nanatsumori","Ah, you came.");
-MsgDisp("主人公","Huh, ｛七ツ森＊｝.
+MsgDisp("主人公","Huh, ｛Nanatsumori＊｝.
 What's up?");
 ChMotion(4,1,1);
 VoicePlay("H8G0400000_04_010");

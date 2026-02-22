@@ -15,7 +15,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 I was reading Habatcher and lost track of
 time.");
 VoicePlay("D010400400_04_010");
@@ -58,7 +58,7 @@ ScrFadeIn(0);
 VoicePlay("D010400400_04_050");
 MsgDisp("Nanatsumori","...Perfect.");
 MsgDisp("主人公","Amazing...
-｛七ツ森＊｝ really looks like a girl∈");
+｛Nanatsumori＊｝ really looks like a girl∈");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
@@ -121,7 +121,7 @@ ChMotion(4,1,1);
 VoicePlay("D010400400_04_130");
 MsgDisp("Nanatsumori","That's right.
 Just happened to.");
-MsgDisp("主人公","(｛七ツ森＊｝...just happens to be carrying
+MsgDisp("主人公","(｛Nanatsumori＊｝...just happens to be carrying
 around womens' wigs∋)");
 BGMStop();
 MsgClose();

@@ -1,6 +1,6 @@
 MsgDisp("主人公","Lately, it's become pretty normal for us
 to hang out together— you, me,
-｛風真＊＊｝, and ｛七ツ森＊｝.");
+｛Kazama＊＊｝, and ｛Nanatsumori＊｝.");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
@@ -22,7 +22,7 @@ VoicePlay("B070300001_03_410");
 MsgDisp("Honda","Hmm, I wonder if Ryou-kun will take over
 the antique shop...
 And what about Mi-kun...?");
-MsgDisp("主人公","And you, ｛本多＊＊｝...?");
+MsgDisp("主人公","And you, ｛Honda＊＊｝...?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -63,7 +63,7 @@ VoicePlay("B070300001_03_470");
 MsgDisp("Honda","Then, instead of worrying about
 hypotheticals, why not focus on making the
 most of now? I think that's way more fun!");
-MsgDisp("主人公","(Yeah, ｛本多＊＊｝ is right!)");
+MsgDisp("主人公","(Yeah, ｛Honda＊＊｝ is right!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

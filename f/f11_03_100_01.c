@@ -4,7 +4,7 @@ ChOpen(3,254,3,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F110310001_03_000");
 MsgDisp("Honda","Welcome, welcome.");
-MsgDisp("主人公","Oh, it's ｛本多＊＊｝.
+MsgDisp("主人公","Oh, it's ｛Honda＊＊｝.
 You're doing it again this year∋");
 ChEye(3,0);
 ChMouth(3,3);

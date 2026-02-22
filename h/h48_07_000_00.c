@@ -5,7 +5,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("H480700000_07_000");
 MsgDisp("Mikage","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝!
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 So you came to support me.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -33,7 +33,7 @@ Good luck.");
 MsgDisp("主人公","Yes, I'll be doing my best as well!");
 MsgDisp("主人公","(Alright!
 I'll give a performance worth showing off
-to ｛御影＊＊｝!)");
+to ｛Mikage＊＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

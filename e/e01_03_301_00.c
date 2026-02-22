@@ -10,7 +10,7 @@ ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010330100_03_000");
 MsgDisp("Honda","｛主人公｝, were you shopping?");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Yeah, but I'm already on my way home now.
 What about you?");
 ChEye(3,4);
@@ -19,14 +19,14 @@ ChMotion(3,4,1);
 VoicePlay("E010330100_03_010");
 MsgDisp("Honda","Yeah, Yano-kun's shopping.
 I'm just tagging along.");
-MsgDisp("主人公","｛柊＊＊＊｝?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChPosition(3,1);
 ChOpen(5,255,0,4,4,#1,#1,0,2);
 VoicePlay("E010330100_05_000");
 MsgDisp("Hiiragi","Honda-kun, thanks for waiting.");
-MsgDisp("主人公","｛柊＊＊＊｝, good afternoon.
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, good afternoon.
 Were you shopping?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -43,7 +43,7 @@ MsgDisp("Honda","Yep yep. Yano-kun has a lot of shopping to
 do so the strategy will make a big
 difference on how long it all takes.");
 MsgDisp("主人公","That's true.
-As expected of ｛本多＊＊｝.");
+As expected of ｛Honda＊＊｝.");
 ChSet(3,0);
 ChEye(5,4);
 ChMouth(5,4);
@@ -63,7 +63,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
 ChPosition(3,0);
 Wait(60,0);
-MsgDisp("主人公","｛柊＊＊＊｝ always seems so busy...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ always seems so busy...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

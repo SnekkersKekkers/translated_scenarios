@@ -60,7 +60,7 @@ just to ignore it.");
     VoicePlay("S090700000_07_050");
     MsgDisp("Mikage","That maze of people...
 That's where they do fortunes, right?");
-    MsgDisp("主人公","｛御影＊＊｝ seems to like fortunes");
+    MsgDisp("主人公","｛Mikage＊＊｝ seems to like fortunes");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -139,7 +139,7 @@ Luck, watch.");
         MsgDisp("Mikage","Do you know how many healthy calves I've
 raised with my right hand?
 Leave it to me.");
-        MsgDisp("主人公","(｛御影＊＊｝ is so confident!)");
+        MsgDisp("主人公","(｛Mikage＊＊｝ is so confident!)");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,3);
@@ -151,7 +151,7 @@ Leave it to me.");
         VoicePlay("S090700000_07_140");
         MsgDisp("Mikage","Oh, I see.
 If you don't like it, then you shouldn't.");
-        MsgDisp("主人公","(｛御影＊＊｝, feels like he really wanted
+        MsgDisp("主人公","(｛Mikage＊＊｝, feels like he really wanted
 to pull fortunes...
 Did I make the wrong choice?)");
         MsgClose();

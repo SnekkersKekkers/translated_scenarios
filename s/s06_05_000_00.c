@@ -28,7 +28,7 @@ Let's get along well again this year.");
     MsgDisp("Hiiragi","Happy New Year!
 Did I keep you waiting long?");
     MsgDisp("主人公","No, it's fine.
-Happy New Year, ｛柊＊＊＊｝.");
+Happy New Year, ｛Hiiragi＊＊＊｝.");
     break ;
     default :
     DbgAssert(1);

@@ -8,7 +8,7 @@ VoicePlay("B040301100_03_000");
 MsgDisp("Honda","Hmmm, it looks like a satellite photo of
 Habataki City.
 Pretty cool.");
-MsgSel("Wow! The horizon looks like it's glittering!","Can we see ｛本多＊＊｝'s house from here?","It's so high, I can't move...");
+MsgSel("Wow! The horizon looks like it's glittering!","Can we see ｛Honda＊＊｝'s house from here?","It's so high, I can't move...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

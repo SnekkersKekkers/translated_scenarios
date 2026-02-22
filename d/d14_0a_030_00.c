@@ -3,7 +3,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140A03000_01_000");
 MsgDisp("Kazama","Haha...");
-MsgDisp("主人公","｛風真＊＊｝, what's up?");
+MsgDisp("主人公","｛Kazama＊＊｝, what's up?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

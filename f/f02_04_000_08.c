@@ -13,7 +13,7 @@ ChMotion(4,1,1);
 VoicePlay("F020400008_04_000");
 MsgDisp("Nanatsumori","For sure.
 Festivals are fun no matter what.");
-MsgDisp("主人公","｛七ツ森＊｝, you and your parents live
+MsgDisp("主人公","｛Nanatsumori＊｝, you and your parents live
 in the town over, right?
 Will any of your friends stop by?");
 ChEye(4,0);

@@ -12,7 +12,7 @@ VoicePlay("B330A20500_02_000");
 MsgDisp("Sassa","Alright!
 I did it!");
 MsgDisp("主人公","Amazing!
-｛颯砂＊＊｝, that's a strike!");
+｛Sassa＊＊｝, that's a strike!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,255,3,3,3,0,#1,0,3,0,30);
@@ -44,7 +44,7 @@ MsgDisp("Himuro","...That goes for you too.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
-MsgDisp("主人公","｛氷室＊＊｝, do your best!");
+MsgDisp("主人公","｛Himuro＊＊｝, do your best!");
 VoicePlay("B330A20500_06_020");
 MsgDisp("Himuro","...∋");
 SEPlay("EV_SE_514");

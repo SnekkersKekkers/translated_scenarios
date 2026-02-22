@@ -16,7 +16,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","Yo.
 Are you going home right now?");
     MsgDisp("主人公","Yes.
-You too, ｛七ツ森＊｝?");
+You too, ｛Nanatsumori＊｝?");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
@@ -32,7 +32,7 @@ Should we walk together?");
     VoiceEVSPlay(4);
     VoicePlay("F010400007_04_020");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Oh, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Oh, ｛Nanatsumori＊｝.");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("F010400007_04_030");

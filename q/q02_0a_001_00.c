@@ -13,7 +13,7 @@ VoiceEVSPlay(1);
 VoicePlay("Q020A00100_01_000");
 MsgDisp("Kazama","｛主人公｝, did you sleep well?");
 MsgDisp("主人公","Yeah, absolutely.
-｛風真＊＊｝, ｛颯砂＊＊｝, are you two
+｛Kazama＊＊｝, ｛Sassa＊＊｝, are you two
 hanging out together for the free period?");
 ChEye(1,2);
 ChMouth(1,3);

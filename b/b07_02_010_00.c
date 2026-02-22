@@ -69,7 +69,7 @@ ChMotion(2,4,1);
 ChCheek(2,10);
 VoicePlay("B070201000_02_080");
 MsgDisp("Sassa","Hm?
-Huh, why am talking about you?
+Huh, why am I talking about you?
 I thought we were talking about love...");
 ChEye(2,0);
 ChMouth(2,0);
@@ -95,7 +95,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝ equates me with love?
+MsgDisp("主人公","(｛Sassa＊＊｝ equates me with love?
 That's——)");
 MsgClose();
 ScrFadeOut(0);

@@ -7,7 +7,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,255,3,0,4,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛颯砂＊＊｝, ｛氷室＊＊｝!");
+MsgDisp("主人公","｛Sassa＊＊｝, ｛Himuro＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -23,7 +23,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("E010620100_06_000");
 MsgDisp("Himuro","......");
 MsgDisp("主人公","Um...
-｛氷室＊＊｝?
+｛Himuro＊＊｝?
 What's wrong?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -56,7 +56,7 @@ ChMotion(2,2);
 VoicePlay("E010620100_02_030");
 MsgDisp("Sassa","Dont lie!
 You were so confident in the beginning!");
-MsgDisp("主人公","Hehe, but in the end ｛颯砂＊＊｝ was the
+MsgDisp("主人公","Hehe, but in the end ｛Sassa＊＊｝ was the
 winner.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -89,7 +89,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,7);
 VoicePlay("E010620100_06_040");
 MsgDisp("Himuro","...He's definitely lying.");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -109,7 +109,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010620100_06_070");
 MsgDisp("Himuro","It's definitely a lie.");
-MsgDisp("主人公","(I think ｛氷室＊＊｝ is having trouble
+MsgDisp("主人公","(I think ｛Himuro＊＊｝ is having trouble
 accepting defeat...)");
 BGMStop();
 MsgClose();

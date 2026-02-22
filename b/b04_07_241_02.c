@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040724102_07_000");
 MsgDisp("Mikage","Phew...haaa...
 This place is so calming.");
-MsgSel("It's just like ｛御影＊＊｝'s home.","｛御影＊＊｝'s family home is also a ranch, right?","You can't live here.");
+MsgSel("It's just like ｛Mikage＊＊｝'s home.","｛Mikage＊＊｝'s family home is also a ranch, right?","You can't live here.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -62,7 +62,7 @@ Apparently she produces a lot of milk.");
         MsgDisp("Mikage","There are so many girls I'm interested in,
 but I haven't been able to see them at
 all.");
-        MsgDisp("主人公","｛御影＊＊｝?");
+        MsgDisp("主人公","｛Mikage＊＊｝?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -88,7 +88,7 @@ gardening club are all important.");
         ChMotion(7,0);
         VoicePlay("B040724102_07_090");
         MsgDisp("Mikage","Ah, and the brats in our class.");
-        MsgDisp("主人公","(I wonder if ｛御影＊＊｝ will quit
+        MsgDisp("主人公","(I wonder if ｛Mikage＊＊｝ will quit
 being a teacher one day and work on a
 farm...that's a long way off though,
 right?)");

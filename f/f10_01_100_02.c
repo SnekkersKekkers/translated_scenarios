@@ -7,7 +7,7 @@ BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,2,#1,#1,0,0);
 VoicePlay("F100110002_01_000");
 MsgDisp("Kazama","Next class is dangerous.");
-MsgDisp("主人公","Oh, ｛風真＊＊｝.
+MsgDisp("主人公","Oh, ｛Kazama＊＊｝.
 What's dangerous about it?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -66,14 +66,14 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...The note ｛風真＊＊｝ gave me...I
+MsgDisp("主人公","(...The note ｛Kazama＊＊｝ gave me...I
 wonder what it says? I'm not sleepy, but
 I'll take a look.)");
 SEPlay("EV_SE_662");
 SEWait();
 MsgDisp("主人公","(Um...
 'Look at me'?)");
-MsgDisp("主人公","(from ｛風真＊＊｝...
+MsgDisp("主人公","(from ｛Kazama＊＊｝...
 He's looking at me and laughing!)");
 VoicePlay("F100110002_39_010");
 MsgDisp("Teacher","Kazama, you seem to be having fun.
@@ -114,7 +114,7 @@ MsgDisp("Kazama","I thought you would have a little
 patience, but looking at it right away?
 I couldn't help but laugh.");
 MsgDisp("主人公","Oh, that note?
-It said to look at ｛風真＊＊｝.
+It said to look at ｛Kazama＊＊｝.
 What was that about?");
 ChEye(1,0);
 ChMouth(1,3);

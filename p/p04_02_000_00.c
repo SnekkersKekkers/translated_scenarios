@@ -25,7 +25,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("P040200000_02_030");
 MsgDisp("Sassa","I'll have another recommended set!");
-MsgDisp("主人公","(｛颯砂＊＊｝ seems to really like it!
+MsgDisp("主人公","(｛Sassa＊＊｝ seems to really like it!
 What a great success!)");
 MsgClose();
 ScrFadeOut(0,0);

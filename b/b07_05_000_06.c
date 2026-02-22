@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛柊＊＊＊｝, what were you like in middle
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, what were you like in middle
 school?");
 ChMouth(5,4);
 ChMotion(5,2);
@@ -33,7 +33,7 @@ VoicePlay("B070500000_05_280");
 MsgDisp("Hiiragi","At that time, a lot of the flavors were
 too complex for me.");
 MsgDisp("主人公","(I can't even imagine the world
-｛柊＊＊＊｝ lived in...)");
+｛Hiiragi＊＊＊｝ lived in...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -45,7 +45,7 @@ See you.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(This year, ｛颯砂＊＊｝ is also trying his
+    MsgDisp("主人公","(This year, ｛Sassa＊＊｝ is also trying his
 best.
 I need to work hard too!)");
     break ;
@@ -73,7 +73,7 @@ Thanks for walking me back.");
     MsgDisp("Sassa","This is our last year of high school, so I
 prayed earnestly.");
     MsgDisp("主人公","I see.
-Since it's ｛颯砂＊＊｝, I'm sure you'll do
+Since it's ｛Sassa＊＊｝, I'm sure you'll do
 well.");
     ChEye(2,3);
     ChMouth(2,3);
@@ -123,7 +123,7 @@ See you.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ is also competing this year.
+    MsgDisp("主人公","(｛Sassa＊＊｝ is also competing this year.
 Even if it's only a little, I also want to
 grow stronger...)");
     break ;

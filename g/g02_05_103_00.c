@@ -31,7 +31,7 @@ VoicePlay("G020510300_05_030");
 MsgDisp("Hiiragi","Just like the stage and the deck, we're on
 a wooden platform.");
 MsgDisp("主人公","Is this your spirit as an actor,
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

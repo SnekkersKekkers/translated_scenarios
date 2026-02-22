@@ -67,7 +67,7 @@ You were not mistaken.");
 continuously go back and forth from you
 and the cherry blossoms. I am truly busy.");
         MsgDisp("主人公","Umm...
-｛柊＊＊＊｝, thank you.");
+｛Hiiragi＊＊＊｝, thank you.");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,3);
@@ -79,7 +79,7 @@ thing, hanami dango.");
         ChClose(5);
         SEWait();
         MsgDisp("主人公","(You backed up my weird understanding...
-｛柊＊＊＊｝, thank you.)");
+｛Hiiragi＊＊＊｝, thank you.)");
         break ;
         default :
         DbgAssert(1);

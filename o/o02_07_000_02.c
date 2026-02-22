@@ -33,7 +33,7 @@ And we were so close...)");
     ChMotion(7,2);
     VoicePlay("O020700002_07_020");
     MsgDisp("Mikage","That was a great match.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 We were so close to winning, but...");
     ChEye(7,0);
     ChMouth(7,0);

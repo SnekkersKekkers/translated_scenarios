@@ -35,7 +35,7 @@ VoicePlay("D010600600_34_020");
 MsgDisp("Live","And Inori Himuro is off!
 That's a nice wave!");
 MsgDisp("主人公","(Eh...
-｛氷室＊＊｝∋)");
+｛Himuro＊＊｝∋)");
 EnvAutoSet(0);
 BGMPlay("BGM_C06_INORI_C",0.01);
 SEStop("EV_SE_GAYA_021",1);
@@ -58,14 +58,14 @@ SEPlay("EV_SE_793",0.2,0.5);
 SEPlay("EV_SE_CLAP_004",0,0.5);
 Wait(50,0);
 MsgDisp("主人公","(Wow...!
-｛氷室＊＊｝ is riding the wave!)");
+｛Himuro＊＊｝ is riding the wave!)");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600600_06_000");
 MsgDisp("Himuro","...Just like that...!");
 SEPlay("EV_SE_532",0,0.7);
 MsgDisp("主人公","(What a serious face...
-｛氷室＊＊｝ looks different than usual.)");
+｛Himuro＊＊｝ looks different than usual.)");
 BGMVol(0.5,2);
 SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_793",2);
@@ -85,7 +85,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_542");
 SEWait();
 ChOpen(6,31,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
 Nice work!
 You were amazing∈");
 ChEye(6,0);
@@ -100,7 +100,7 @@ ChMotion(6,0);
 VoicePlay("D010600600_06_020");
 MsgDisp("Himuro","What's with the notebook and pen?");
 MsgDisp("主人公","I've been waiting to interview you,
-｛氷室＊＊｝.");
+｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -152,7 +152,7 @@ SEPlay("EV_SE_531");
 BGMStop();
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(｛氷室＊＊｝ is already his usual self?
+MsgDisp("主人公","(｛Himuro＊＊｝ is already his usual self?
 Alright, time to get a lot of stories!)");
 MsgClose();
 ScrFadeOut(0);

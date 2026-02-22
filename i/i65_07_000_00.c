@@ -14,14 +14,14 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650700000_07_000");
     MsgDisp("Mikage","You got a nice greeting, huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Are you refueling?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I650700000_07_010");
     MsgDisp("Mikage","Yeah, my baby is having a nice meal.");
-    MsgDisp("主人公","Your bike, right, ｛御影＊＊｝?");
+    MsgDisp("主人公","Your bike, right, ｛Mikage＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -32,7 +32,7 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(I hope ｛御影＊＊｝ comes again.)");
+    MsgDisp("主人公","(I hope ｛Mikage＊＊｝ comes again.)");
     break ;
     case 3:
     SEPlay("EV_SE_733");
@@ -75,7 +75,7 @@ See you.");
     SEPlay("EV_SE_751",1);
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(But working with ｛御影＊＊｝ might be
+    MsgDisp("主人公","(But working with ｛Mikage＊＊｝ might be
 fun?)");
     break ;
     case 4:
@@ -91,7 +91,7 @@ fun?)");
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     SEWait();
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Welcome!");
     ChEye(7,0);
     ChMouth(7,0);

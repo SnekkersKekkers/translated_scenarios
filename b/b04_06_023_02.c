@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("B040602302_06_000");
 MsgDisp("Himuro","Do you like the sea?");
-MsgSel("I like it!","Not really...","I like ｛氷室＊＊｝!");
+MsgSel("I like it!","Not really...","I like ｛Himuro＊＊｝!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -99,7 +99,7 @@ What was that just now?");
         ChMotion(6,1);
         VoicePlay("B040602302_06_110");
         MsgDisp("Himuro","It's fine, it's nothing.");
-        MsgDisp("主人公","(｛氷室＊＊｝?)");
+        MsgDisp("主人公","(｛Himuro＊＊｝?)");
         break ;
         default :
         DbgAssert(1);

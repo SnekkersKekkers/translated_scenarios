@@ -6,7 +6,7 @@ ChOpen(6,254,5,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D100610000_06_000");
 MsgDisp("Himuro","Pfft.");
-MsgDisp("主人公","Eh, ｛氷室＊＊｝.
+MsgDisp("主人公","Eh, ｛Himuro＊＊｝.
 What's wrong?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -44,7 +44,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","Thanks so much, ｛氷室＊＊｝.");
+MsgDisp("主人公","Thanks so much, ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,0);
@@ -55,7 +55,7 @@ MsgDisp("Himuro","You're welcome.");
 ChEye(6,0);
 ChMouth(6,4);
 ChEyeOpenLevel(6,10);
-MsgDisp("主人公","(Hehe, ｛氷室＊＊｝ is so nice!)");
+MsgDisp("主人公","(Hehe, ｛Himuro＊＊｝ is so nice!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

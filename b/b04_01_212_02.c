@@ -91,7 +91,7 @@ banned?");
 This bear eraser is just right for you.");
         MsgDisp("主人公","Come to think of it, that cute bear plush
 over there, kinda looks like you?
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
         ChEye(1,0);
         ChMouth(1,4);
         ChMotion(1,1);
@@ -109,7 +109,7 @@ over there, kinda looks like you?
         MsgDisp("Kazama","Excuse me.
 Please let me buy this bear eraser and
 bear plushie over there.");
-        MsgDisp("主人公","(｛風真＊＊｝, is the bear the only one
+        MsgDisp("主人公","(｛Kazama＊＊｝, is the bear the only one
 that gets special treatment?)");
         MsgClose();
         ScrFadeOut(0,0);

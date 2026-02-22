@@ -18,7 +18,7 @@ ChMotion(3,0);
 VoicePlay("B070300001_03_600");
 MsgDisp("Honda","Is there something on your mind?");
 MsgDisp("主人公","I was just thinking your hair is really
-smooth ｛本多＊＊｝.
+smooth ｛Honda＊＊｝.
 It looks lovely.");
 ChEye(3,0);
 ChMouth(3,0);

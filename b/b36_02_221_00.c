@@ -46,7 +46,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360222100_02_050");
 MsgDisp("Sassa","Haha, what am I even saying?");
-MsgDisp("主人公","(｛颯砂＊＊｝?
+MsgDisp("主人公","(｛Sassa＊＊｝?
 He feels a bit different to usual...)");
 BGMStop();
 MsgClose();

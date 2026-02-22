@@ -44,7 +44,7 @@ VoicePlay("D140D07070_22_020");
 MsgDisp("Hikaru","Aha!
 Mari is so cute～▼");
 MsgDisp("主人公","(Ugh...
-Now everytime I see ｛御影＊＊｝, I'll
+Now everytime I see ｛Mikage＊＊｝, I'll
 think about croissants...)");
 BGMStop();
 MsgClose();

@@ -4,7 +4,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Oh, it's a phone call from ｛本多＊＊｝)");
+    MsgDisp("主人公","(Oh, it's a phone call from ｛Honda＊＊｝)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -29,11 +29,11 @@ See you later.");
     MsgDisp("主人公","(Hmmm, too bad ...)");
     break ;
     case 3:
-    MsgDisp("主人公","(Oh, it's a phone call from ｛本多＊＊｝)");
+    MsgDisp("主人公","(Oh, it's a phone call from ｛Honda＊＊｝)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello, ｛本多＊＊｝?");
+    MsgDisp("主人公","Hello, ｛Honda＊＊｝?");
     VoicePlay("J030301001_03_030");
     MsgDisp("Honda","Sorry I didn't reply sooner.");
     MsgDisp("主人公","No, it's fine.
@@ -55,11 +55,11 @@ Well, I'll see you later?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Oh, it's a phone call from ｛本多＊＊｝)");
+    MsgDisp("主人公","(Oh, it's a phone call from ｛Honda＊＊｝)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello, ｛本多＊＊｝?");
+    MsgDisp("主人公","Hello, ｛Honda＊＊｝?");
     VoicePlay("J030301001_03_060");
     MsgDisp("Honda","Yeah, I am.
 About the voicemail...");

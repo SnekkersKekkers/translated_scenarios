@@ -25,7 +25,7 @@ StlEyeOpenLevel(3,0);
 BGMPlay("BGM_C03_HONDA_B",0.01);
 ScrFadeIn(0);
 Wait(20,0);
-MsgDisp("主人公","Like I thought, it's ｛本多＊＊｝.
+MsgDisp("主人公","Like I thought, it's ｛Honda＊＊｝.
 What are you doing?");
 StlEye(3,1);
 StlMouth(3,0);

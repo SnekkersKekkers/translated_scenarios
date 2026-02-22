@@ -60,7 +60,7 @@ MsgDisp("","While I was looking at the surface of
 the river, a familiar voice calls out
 for me.");
 MsgClear();
-MsgDisp("主人公","\"｛本多＊＊｝!
+MsgDisp("主人公","\"｛Honda＊＊｝!
 Shall we go explore together?\"");
 VoicePlay("Y300300500_03_010");
 MsgDisp("Honda","\"Of course.

@@ -14,5 +14,5 @@ VoicePlay("B020502135_05_010");
 MsgDisp("Hiiragi","It looks good.
 You own it well, so it fits you well as
 well.");
-MsgDisp("主人公","(｛柊＊＊＊｝ complimented me.♪
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ complimented me.♪
 I'm glad I checked what's trending!)");

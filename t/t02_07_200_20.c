@@ -1,4 +1,4 @@
-MsgDisp("主人公","I also like ｛御影＊＊｝.");
+MsgDisp("主人公","I also like ｛Mikage＊＊｝.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);

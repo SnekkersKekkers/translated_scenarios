@@ -88,7 +88,7 @@ objective.");
         ChEyeOpenLevel(8,0);
         VoicePlay("B040824102_08_090");
         MsgDisp("Shirahane","An objective, huh...?");
-        MsgDisp("主人公","(｛大地＊＊｝ is lost in though.)");
+        MsgDisp("主人公","(｛Daichi＊＊｝ is lost in though.)");
         break ;
         default :
         DbgAssert(1);

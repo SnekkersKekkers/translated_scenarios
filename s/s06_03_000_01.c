@@ -25,7 +25,7 @@ perfect score.");
     VoicePlay("S060300001_03_020");
     MsgDisp("Honda","Yepyep, 100 points makes a perfect score.");
     MsgDisp("主人公","(What a relief.
-｛本多＊＊｝ seems to like it!)");
+｛Honda＊＊｝ seems to like it!)");
     break ;
     case 3:
     ChEye(3,3);
@@ -49,7 +49,7 @@ What do you think?");
 you're wearing a kimono, I feel like I've
 won the lottery!");
     MsgDisp("主人公","(What a relief.
-｛本多＊＊｝ seems to be really happy!)");
+｛Honda＊＊｝ seems to be really happy!)");
     break ;
     case 4:
     case 5:
@@ -71,7 +71,7 @@ What do you think?");
     VoicePlay("S060300001_03_080");
     MsgDisp("Honda","No!
 I can't even think of what to say!");
-    MsgDisp("主人公","Uh, ｛本多＊＊｝?");
+    MsgDisp("主人公","Uh, ｛Honda＊＊｝?");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,0,1);
@@ -83,7 +83,7 @@ I can't even think of what to say!");
     VoicePlay("S060300001_03_100");
     MsgDisp("Honda","Beautiful.
 Thank you for wearing it for me.");
-    MsgDisp("主人公","(｛本多＊＊｝...
+    MsgDisp("主人公","(｛Honda＊＊｝...
 He seems really happy!)");
     break ;
     default :

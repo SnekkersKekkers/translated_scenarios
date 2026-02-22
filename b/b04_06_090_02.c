@@ -66,7 +66,7 @@ or something?");
         VoicePlay("B040609002_06_060");
         MsgDisp("Himuro","Cactus?
 Why?");
-        MsgDisp("主人公","It's kind of like ｛氷室＊＊｝.");
+        MsgDisp("主人公","It's kind of like ｛Himuro＊＊｝.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

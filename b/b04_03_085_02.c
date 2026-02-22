@@ -66,7 +66,7 @@ down to the area.");
         VoicePlay("B040308502_03_060");
         MsgDisp("Honda","Look, a scenery just as you hoped for has
 appeared.");
-        MsgDisp("主人公","Yeah, ｛本多＊＊｝ thank you.");
+        MsgDisp("主人公","Yeah, ｛Honda＊＊｝ thank you.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -80,7 +80,7 @@ the supercomputer.");
         VoicePlay("B040308502_03_080");
         MsgDisp("Honda","Maybe this will pile up?");
         MsgDisp("主人公","(I'm glad I was able to see this with
-｛本多＊＊｝...)");
+｛Honda＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

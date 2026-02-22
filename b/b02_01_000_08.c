@@ -11,7 +11,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020100008_01_010");
-MsgDisp("Kazama","See, that's nice.
+MsgDisp("Kazama","I see, that's nice.
 It suits you.
 It's just like you to be informed.");
 MsgDisp("主人公","(Awesome!

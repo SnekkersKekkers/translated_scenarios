@@ -43,7 +43,7 @@ Everyone gave it their best.");
     MsgDisp("Mikage","It's not just the athletes, the manager
 also put in a lot of effort.");
     MsgDisp("主人公","(To think that I was praised by
-｛御影＊＊｝...
+｛Mikage＊＊｝...
 I'm so happy!)");
     break ;
     default :

@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(5,254,4,0,4,#1,#1,0,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, it's ｛柊＊＊＊｝.
+MsgDisp("主人公","(Ah, it's ｛Hiiragi＊＊＊｝.
 Looks like it's his turn to do the
 greeting enforcement campaign.)");
 VoicePlay("F100530002_05_000");
@@ -25,7 +25,7 @@ VoicePlay("F100530002_05_020");
 MsgDisp("Hiiragi","Yoー");
 MsgDisp("主人公","Hehe.
 Looks like you've learned another
-greeting, ｛柊＊＊＊｝?");
+greeting, ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -104,7 +104,7 @@ VoicePlay("F100530002_05_060");
 MsgDisp("Hiiragi","Heheh.
 I really do enjoy the greeting enforcement
 campaign.");
-MsgDisp("主人公","(I might understand how ｛柊＊＊＊｝
+MsgDisp("主人公","(I might understand how ｛Hiiragi＊＊＊｝
 feels? Funny greetings just make you
 smile, it's nice!)");
 BGMStop();

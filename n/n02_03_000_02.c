@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("N020300002_03_000");
     MsgDisp("Honda","Hmm?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 What's up?");
     ChEye(3,0);
     ChMouth(3,0);
@@ -27,7 +27,7 @@ My score was disappointing, huh.)");
     ChMotion(3,4,1);
     VoicePlay("N020300002_03_020");
     MsgDisp("Honda","Did you already check the exam results?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Yeah, I did check.");
     ChEye(3,4);
     ChMouth(3,4);
@@ -57,7 +57,7 @@ that...)");
     VoicePlay("N020300002_03_050");
     MsgDisp("Honda","Hmm, what is it?
 This feeling of haziness...");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 What's up?");
     ChEye(3,0);
     ChMouth(3,4);
@@ -79,7 +79,7 @@ people's exam results...");
 appeared higher up.
 I wonder why...");
     MsgDisp("主人公","(To be honest, it is a bit embarrassing to
-be with ｛本多＊＊｝ who is currently
+be with ｛Honda＊＊｝ who is currently
 leading the grade...)");
     break ;
     default :

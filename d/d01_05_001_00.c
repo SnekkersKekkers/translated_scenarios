@@ -22,7 +22,7 @@ VoicePlay("D010500100_05_000");
 MsgDisp("Hiiragi","Good afternoon.
 Are you eating lunch?");
 MsgDisp("主人公","Ah, yes.
-Did ｛柊＊＊＊｝ eat already?");
+Did ｛Hiiragi＊＊＊｝ eat already?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -67,7 +67,7 @@ I won't give you all of it, okay?");
 StlMouth(5,1);
 VoicePlay("D010500100_05_050");
 MsgDisp("Hiiragi","Haha, thank you...");
-MsgDisp("主人公","｛柊＊＊＊｝, why don't you eat properly?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, why don't you eat properly?");
 StlEye(5,1);
 StlMouth(5,0);
 VoicePlay("D010500100_05_060");
@@ -125,7 +125,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝ is dealing with
+MsgDisp("主人公","(I wonder if ｛Hiiragi＊＊＊｝ is dealing with
 too many things on his own...
 And what does he mean by requirement?)");
 MsgClose();

@@ -1,7 +1,7 @@
 BGOpen("sc300",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...｛風真＊＊｝, missed the graduation
+MsgDisp("主人公","(...｛Kazama＊＊｝, missed the graduation
 ceremony...)");
 SEPlay("EV_SE_DOOR_025");
 SEWait();
@@ -12,7 +12,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(1,254,0,4,3,#1,#1,0,0);
-MsgDisp("主人公","｛風真＊＊｝!
+MsgDisp("主人公","｛Kazama＊＊｝!
 You're back!");
 MsgDisp("主人公","But...the graduation ceremony is already
 over.");
@@ -30,7 +30,7 @@ Wait(8,0);
 ChEye(1,4);
 VoicePlay("T020A30000_01_020");
 MsgDisp("Kazama","Ah, congratulations on graduating.");
-MsgDisp("主人公","｛風真＊＊｝, you too.");
+MsgDisp("主人公","｛Kazama＊＊｝, you too.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -76,7 +76,7 @@ ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("T020A30000_02_010");
 MsgDisp("Sassa","Huh?");
-MsgDisp("主人公","｛颯砂＊＊｝, congratulations on graduating!");
+MsgDisp("主人公","｛Sassa＊＊｝, congratulations on graduating!");
 ChEye(1,2);
 ChMouth(1,3);
 ChEye(2,3);
@@ -127,7 +127,7 @@ ScrFadeIn(0);
 VoicePlay("T020A30000_06_010");
 MsgDisp("Himuro","Senpais, congratulations on your
 graduation.");
-MsgDisp("主人公","｛氷室＊＊｝, thank you.");
+MsgDisp("主人公","｛Himuro＊＊｝, thank you.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -173,7 +173,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("T020A30000_06_040");
 MsgDisp("Himuro","But, as for you and Nozomu-senpai...haa,
 never mind.");
-MsgDisp("主人公","Ah...sorry ｛氷室＊＊｝.");
+MsgDisp("主人公","Ah...sorry ｛Himuro＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
@@ -229,7 +229,7 @@ ChMotion(1,3);
 VoicePlay("T020A30000_01_110");
 MsgDisp("Kazama","Obviously.");
 MsgDisp("主人公","Yes.
-｛氷室＊＊｝ the three of us will come
+｛Himuro＊＊｝ the three of us will come
 celebrate your graduation.");
 ChEye(6,0);
 ChMouth(6,3);

@@ -15,7 +15,7 @@ cookies though...)");
     MsgDisp("Honda?","Haaー, how refreshing...");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Welcome!");
     ChEye(3,0);
     ChMouth(3,3);
@@ -46,7 +46,7 @@ cookies though...)");
     VoiceEVSPlay(3);
     VoicePlay("P630300000_03_030");
     MsgDisp("Honda","｛主人公｝, good work.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Welcome!");
     ChEye(3,0);
     ChMouth(3,3);

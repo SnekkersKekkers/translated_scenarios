@@ -32,7 +32,7 @@ together, huh?");
     VoicePlay("B030121002_01_020");
     MsgDisp("Kazama","Hey, we're gonna miss feeding time.");
     MsgDispSksp(1,0);
-    MsgDisp("主人公","Whoa, ｛風真＊＊｝ wait up!");
+    MsgDisp("主人公","Whoa, ｛Kazama＊＊｝ wait up!");
     MsgDispSksp(0);
     break ;
     default :

@@ -22,7 +22,7 @@ invitation.");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(｛柊＊＊＊｝ invited me out.....
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ invited me out.....
 Is this a date?)");
         break ;
         default :

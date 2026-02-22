@@ -89,7 +89,7 @@ Why don't you consider it as an option?");
     ChCheek(6,5);
     VoicePlay("I460600008_06_090");
     MsgDisp("Himuro","If you make it big, I'll have you hire me.");
-    MsgDisp("主人公","Running a flower shop with ｛氷室＊＊｝, huh.
+    MsgDisp("主人公","Running a flower shop with ｛Himuro＊＊｝, huh.
 It might be nice.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -113,7 +113,7 @@ Then work hard for it, 'kay?");
 Let's get back to work.");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(It's fun working part-time with
-｛氷室＊＊｝.
+｛Himuro＊＊｝.
 I'm glad I chose to work here!)");
     break ;
     default :

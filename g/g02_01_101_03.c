@@ -4,7 +4,7 @@ VoicePlay("G020110103_01_000");
 MsgDisp("Kazama","You know, doesn't it feel like the
 fireflies are giving us their blessing?");
 MsgDisp("主人公","Yeah, there're so many around you,
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -79,7 +79,7 @@ VoicePlay("G020110103_01_100");
 MsgDisp("Kazama","...Of course, even if it all comes
 crashing down, I'd make my way back to you
 right away.");
-MsgDisp("主人公","(What is ｛風真＊＊｝ talking about?)");
+MsgDisp("主人公","(What is ｛Kazama＊＊｝ talking about?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

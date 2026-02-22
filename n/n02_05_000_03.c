@@ -4,7 +4,7 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Hello.");
     MsgClose();
     ChOpen(5,254,2,2,4,#1,#1,0,0);
@@ -31,7 +31,7 @@ I have to study harder!)");
     case 3:
     MsgClose();
     ChOpen(5,254,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.");
     ChEye(5,4);
     VoicePlay("N020500003_05_030");
     MsgDisp("Hiiragi","You are too kind.
@@ -63,7 +63,7 @@ I have to study harder!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.");
     MsgClose();
     ChOpen(5,254,0,2,2,#1,#1,0,0);
     VoicePlay("N020500003_05_070");
@@ -85,7 +85,7 @@ study with you.");
     VoicePlay("N020500003_05_100");
     MsgDisp("Hiiragi","Let's do our best together.
 It will be okay, you can do it.");
-    MsgDisp("主人公","｛柊＊＊＊｝...");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
     MsgDisp("主人公","(I have to study harder...)");
     MsgClose();
     ScrFadeOut(0,0);

@@ -88,7 +88,7 @@ words.");
         VoicePlay("B040503202_05_090");
         MsgDisp("Hiiragi","I could grow accustomed to this.
 From now on, prepare yourself, okay?");
-        MsgDisp("主人公","(｛柊＊＊＊｝...
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 Just now, did you say \"Person you like\"?)");
         break ;
         default :

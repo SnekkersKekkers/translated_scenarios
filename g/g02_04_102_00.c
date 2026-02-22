@@ -50,7 +50,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("G020410200_04_090");
 MsgDisp("Nanatsumori","Shall we go on more dates in the future?");
-MsgDisp("主人公","(｛七ツ森＊｝, you're being pretty
+MsgDisp("主人公","(｛Nanatsumori＊｝, you're being pretty
 direct...)");
 BGMStop();
 MsgClose();

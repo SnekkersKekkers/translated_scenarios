@@ -51,7 +51,7 @@ See you!");
     ChClose(3);
     Wait(30);
     MsgDisp("主人公","(I'm happy I was able to visit the shrine
-with ｛本多＊＊｝.
+with ｛Honda＊＊｝.
 This year will be another good year.)");
     break ;
     case 4:
@@ -106,7 +106,7 @@ Byebye!");
     ChClose(3);
     Wait(30);
     MsgDisp("主人公","(Thank you for praying for me ...
-｛本多＊＊｝.
+｛Honda＊＊｝.
 This year will be another good year.)");
     break ;
     default :

@@ -8,7 +8,7 @@ VoicePlay("B040816002_08_000");
 MsgDisp("Shirahane","Ah, this game!
 The one that's made in collaboration with
 that quiz show!");
-MsgSel("Can ｛大地＊＊｝ do it?","｛大地＊＊｝ is also a quiz king!","Let's try it together!");
+MsgSel("Can ｛Daichi＊＊｝ do it?","｛Daichi＊＊｝ is also a quiz king!","Let's try it together!");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(8,6)){
@@ -68,7 +68,7 @@ That was close, wasn't it?");
         MsgDisp("Shirahane","Haa..
 This is so uncool.");
         MsgDisp("主人公","No.
-｛大地＊＊｝ was amazing!
+｛Daichi＊＊｝ was amazing!
 Everyone watching was cheering him on!");
         ChEye(8,2);
         ChMouth(8,0);
@@ -78,7 +78,7 @@ Everyone watching was cheering him on!");
         ChMouth(8,2);
         ChMotion(8,1,1);
         MsgDisp("主人公","Hey.
-This is unlike you, ｛大地＊＊｝.
+This is unlike you, ｛Daichi＊＊｝.
 Let's cheer up!");
         ChEye(8,0);
         ChMouth(8,1);
@@ -96,7 +96,7 @@ I'll try once again!");
         SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
         ChClose(8,0,30);
         MsgDisp("主人公","(Hehe!
-｛大地＊＊｝ enjoys the challenge more
+｛Daichi＊＊｝ enjoys the challenge more
 than hating to lose, doesn't he?)");
         SEWait();
         break ;

@@ -28,7 +28,7 @@ MsgDisp("Sassa","I'm going.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Since the last Inter-High ｛颯砂＊＊｝ has
+MsgDisp("主人公","(Since the last Inter-High ｛Sassa＊＊｝ has
 slowly been improving. I'm looking forward
 to seeing today's results!)");
 MsgClose();
@@ -66,7 +66,7 @@ StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200600_02_040");
 MsgDisp("Sassa","Ha, ha, ha...");
-MsgDisp("主人公","｛颯砂＊＊｝, try your best!");
+MsgDisp("主人公","｛Sassa＊＊｝, try your best!");
 SEStop("EV_SE_614",2);
 MsgClose();
 ScrFadeOut(0);
@@ -82,7 +82,7 @@ ChOpen(2,37,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200600_02_050");
 MsgDisp("Sassa","｛主人公｝.");
-MsgDisp("主人公","｛颯砂＊＊｝, that was amazing!
+MsgDisp("主人公","｛Sassa＊＊｝, that was amazing!
 It's your personal best∈");
 ChEye(2,0);
 ChMouth(2,3);
@@ -105,6 +105,6 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Ever since ｛颯砂＊＊｝ got encouraged by
+MsgDisp("主人公","(Ever since ｛Sassa＊＊｝ got encouraged by
 his senpai, his time keeps improving...!)");
 ChPrmTblAdd(2,0);

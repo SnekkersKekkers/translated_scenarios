@@ -39,7 +39,7 @@ So let's live without any regrets!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
-    MsgDisp("主人公","(As ｛大地＊＊｝ says, I need to live
+    MsgDisp("主人公","(As ｛Daichi＊＊｝ says, I need to live
 without any regrets...!)");
     break ;
     case 4:
@@ -57,7 +57,7 @@ without any regrets...!)");
     VoicePlay("S120800005_08_040");
     MsgDisp("Shirahane","It's time to go.");
     MsgDisp("主人公","Yeah.
-Thanks for coming with me, ｛大地＊＊｝.");
+Thanks for coming with me, ｛Daichi＊＊｝.");
     ChMotion(8,3,1);
     VoicePlay("S120800005_08_050");
     MsgDisp("Shirahane","No problem.

@@ -18,7 +18,7 @@ ChMotion(7,3);
 VoicePlay("P540700004_07_010");
 MsgDisp("Mikage","Congratulations!
 That was an amazing performance, huh?");
-MsgDisp("主人公","Ah, ｛御影＊＊｝.
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 It was a huge success!");
 ChEye(7,0);
 ChMouth(7,0);
@@ -64,7 +64,7 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,8);
 ScrFadeIn(0);
 MsgDisp("主人公","...Yes!");
-MsgDisp("主人公","(｛御影＊＊｝ patted my head...
+MsgDisp("主人公","(｛Mikage＊＊｝ patted my head...
 I'm glad I devoted myself to club
 activities the l;ast three years...!)");
 MsgClose();

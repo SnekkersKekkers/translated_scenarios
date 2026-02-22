@@ -73,7 +73,7 @@ it a lot...");
         MsgDisp("Shirahane","Don't look at me with such a strange look
 on your face.");
         MsgDisp("主人公","That's because this isn't like
-｛大地＊＊｝ at all.");
+｛Daichi＊＊｝ at all.");
         ChEye(8,0);
         ChMouth(8,4);
         ChMotion(8,0,1);
@@ -108,7 +108,7 @@ worried about somethin' dumb like that.");
         VoicePlay("B040801102_08_110");
         MsgDisp("Shirahane","Hehe!");
         MsgDisp("主人公","(I'm glad.
-Looks like ｛大地＊＊｝ has returned to
+Looks like ｛Daichi＊＊｝ has returned to
 normal.)");
         break ;
         default :

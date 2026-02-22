@@ -15,7 +15,7 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,3);
     VoicePlay("H3A0500000_05_000");
     MsgDisp("Hiiragi","That was a wonderful point!");
-    MsgDisp("主人公","｛柊＊＊＊｝!
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝!
 Yes, I did it!");
     ChEye(5,4);
     ChMotion(5,0);
@@ -29,7 +29,7 @@ referee's right hand went up-");
     MsgDisp("Hiiragi","With you in the center, time seemed to
 stop.
 It was beautiful.");
-    MsgDisp("主人公","Thank you, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Thank you, ｛Hiiragi＊＊＊｝.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -42,7 +42,7 @@ It was beautiful.");
     MsgDisp("Hiiragi","Hm?
 No, perhaps it was you?");
     MsgDisp("主人公","(Yay!
-｛柊＊＊＊｝ seems pleased, and I'm really
+｛Hiiragi＊＊＊｝ seems pleased, and I'm really
 glad I did my best in judo!)");
     break ;
     default :

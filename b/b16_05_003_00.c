@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160500300_05_000");
 MsgDisp("Hiiragi","With this, if I were to take your hand,
 what would you do?");
-MsgSel("Because it's ｛柊＊＊＊｝, anything is fine.","...What should I do?");
+MsgSel("Because it's ｛Hiiragi＊＊＊｝, anything is fine.","...What should I do?");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(5,2);

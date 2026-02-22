@@ -14,7 +14,7 @@ VoiceEVSPlay(3);
 VoicePlay("P540300005_03_000");
 MsgDisp("Honda","｛主人公｝.
 Good work.");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Even though it was my last, I still
 failed...");
 ChEye(3,4);
@@ -28,7 +28,7 @@ ChMotion(3,0,1);
 VoicePlay("P540300005_03_020");
 MsgDisp("Honda","You were able to make a recovery, just as
 I'd expect.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

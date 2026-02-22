@@ -118,7 +118,7 @@ VoicePlay("B330C10401_07_050");
 MsgDisp("Mikage","Wouldn't it be nice if he sympathized with
 me a bit more?");
 MsgDisp("主人公","Hehe.
-｛御影＊＊｝, are you feeling down?");
+｛Mikage＊＊｝, are you feeling down?");
 ChMouth(7,4);
 ChEye(5,4);
 ChMouth(5,4);
@@ -147,7 +147,7 @@ VoicePlay("B330C10401_07_060");
 MsgDisp("Mikage","You were holding it in, Inori.
 Should I pretend I didn't hear you?");
 MsgDisp("主人公","(Hehe, holding in yawn is typical of
-｛氷室＊＊｝ isn't it?)");
+｛Himuro＊＊｝ isn't it?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

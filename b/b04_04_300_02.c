@@ -93,7 +93,7 @@ I was too direct just now.");
         MsgDisp("Nanatsumori","Sorry.
 Please don't be on guard.");
         MsgDisp("主人公","Yeah.
-Because I believe in ｛七ツ森＊｝.");
+Because I believe in ｛Nanatsumori＊｝.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -130,7 +130,7 @@ cherish it forever.\"");
         VoicePlay("B040430002_04_140");
         MsgDisp("Nanatsumori","...I would be happy if you could
 understand this feeling.");
-        MsgDisp("主人公","(｛七ツ森＊｝...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :
         DbgAssert(1);

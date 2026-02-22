@@ -22,7 +22,7 @@ like?");
 thing, so it's okay!
 I'll eat it.");
     MsgDisp("主人公","(...?
-I wonder if it didn't suit ｛本多＊＊｝'s
+I wonder if it didn't suit ｛Honda＊＊｝'s
 taste...)");
     break ;
     case 3:
@@ -45,7 +45,7 @@ You gave it to me, so I'll give it a try.");
     VoicePlay("L040300005_03_050");
     MsgDisp("Honda","Thank you very much!");
     MsgDisp("主人公","(Could it be that I added something that
-｛本多＊＊｝ doesn't like...?)");
+｛Honda＊＊｝ doesn't like...?)");
     break ;
     case 4:
     case 5:

@@ -61,7 +61,7 @@ feel like I get motivated, too.");
     MsgDisp("Sassa","This was just tug of war, right?
 If you were in a race, I might have lost
 my voice.");
-    MsgDisp("主人公","(｛颯砂＊＊｝ is happy like he just won
+    MsgDisp("主人公","(｛Sassa＊＊｝ is happy like he just won
 himself.
 I'm so happy...)");
     break ;

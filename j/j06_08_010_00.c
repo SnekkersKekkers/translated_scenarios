@@ -19,7 +19,7 @@ Wait...where should we meet up?");
 Well I'll see ya on the day!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A date with ｛大地＊＊｝.
+        MsgDisp("主人公","(A date with ｛Daichi＊＊｝.
 I have to remember!)");
         break ;
         default :
@@ -45,7 +45,7 @@ Not a fan of that place?");
         MsgDisp("Daichi","Yes, I'm fine.
 I don't want ta force ya to do anythin',
 don't worry about it.");
-        MsgDisp("主人公","｛大地＊＊｝...");
+        MsgDisp("主人公","｛Daichi＊＊｝...");
         VoicePlay("J060801000_08_040");
         MsgDisp("Daichi","No sulkin'.
 I'll call ya again.");

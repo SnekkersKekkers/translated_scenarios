@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛御影＊＊｝, what were you like in
+MsgDisp("主人公","｛Mikage＊＊｝, what were you like in
 middle school?");
 ChEye(7,0);
 ChMouth(7,4);
@@ -41,7 +41,7 @@ ChMotion(7,5);
 VoicePlay("B070700000_07_350");
 MsgDisp("Mikage","It's thanks to you guys.");
 MsgDisp("主人公","We also have lots of fun because of
-｛御影＊＊｝.");
+｛Mikage＊＊｝.");
 ChEye(7,1);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -52,7 +52,7 @@ Remember that～, it'll come up on the
 test～");
 MsgDisp("主人公","Hehe, it's like a biology lesson.");
 MsgDisp("主人公","(I feel like it's thanks to
-｛御影＊＊｝ that Haba High is super
+｛Mikage＊＊｝ that Haba High is super
 fun!)");
 BGMStop();
 MsgClose();

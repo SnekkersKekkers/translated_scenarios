@@ -36,14 +36,14 @@ VoicePlay("G020110200_01_040");
 MsgDisp("Kazama","It's my fault.
 My younger self would be pissed if he
 could see me now.");
-MsgDisp("主人公","｛風真＊＊｝?");
+MsgDisp("主人公","｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110200_01_050");
 MsgDisp("Kazama","Anyway, be ready for big things starting
 next time.");
-MsgDisp("主人公","(What's gotten into ｛風真＊＊｝?)");
+MsgDisp("主人公","(What's gotten into ｛Kazama＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

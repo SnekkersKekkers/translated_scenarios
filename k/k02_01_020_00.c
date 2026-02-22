@@ -6,7 +6,7 @@ SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Antique accessory stand\")");
 MsgDisp("主人公","(Wah, pretty!
-As expected of ｛風真＊＊｝.
+As expected of ｛Kazama＊＊｝.
 Let's use it right away♪)");
 MsgClose();
 ScrFadeOut(0,0);

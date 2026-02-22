@@ -21,14 +21,14 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_000");
     MsgDisp("Himuro","...Huh.");
-    MsgDisp("主人公","Hm, ｛氷室＊＊｝∋
+    MsgDisp("主人公","Hm, ｛Himuro＊＊｝∋
 Why are you here?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I430600000_06_010");
     MsgDisp("Himuro","Can't you tell just by looking?");
-    MsgDisp("主人公","You work here too, ｛氷室＊＊｝?
+    MsgDisp("主人公","You work here too, ｛Himuro＊＊｝?
 I didn't know.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -54,7 +54,7 @@ spoiled just 'cause I know you.");
     BGMStop();
     ChClose(6);
     MsgDisp("主人公","Ah...");
-    MsgDisp("主人公","(｛氷室＊＊｝ does have a point.
+    MsgDisp("主人公","(｛Himuro＊＊｝ does have a point.
 Alright, I'll do my best!)");
     break ;
     case 3:
@@ -65,7 +65,7 @@ Alright, I'll do my best!)");
     ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_050");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","｛氷室＊＊｝∋
+    MsgDisp("主人公","｛Himuro＊＊｝∋
 You work here?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -99,7 +99,7 @@ I don't want to clean up your messes.");
     ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_090");
     MsgDisp("Himuro","Ah...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

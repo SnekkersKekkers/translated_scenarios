@@ -35,7 +35,7 @@ VoicePlay("B360250400_02_030");
 MsgDisp("Sassa","When we're with Ryota and Inori, and it's
 the four of us, I don't get this kind of
 feeling.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

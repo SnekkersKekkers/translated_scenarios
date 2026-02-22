@@ -12,4 +12,4 @@ VoicePlay("B020302107_03_010");
 MsgDisp("Honda","Exactamundo.
 That perfect balance is magnificent!");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like this!)");
+｛Honda＊＊｝ seems to like this!)");

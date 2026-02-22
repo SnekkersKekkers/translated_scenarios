@@ -19,7 +19,7 @@ But, as expected I'm nervous still.)");
     VoicePlay("P530500001_05_000");
     MsgDisp("Hiiragi","｛主人公｝, I came to listen.
 To gaming music.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!
 Thank you.
 But, my heart is racing.");
     ChEye(5,4);
@@ -77,7 +77,7 @@ But, as expected I'm nervous still.)");
     VoicePlay("P530500001_05_060");
     MsgDisp("Hiiragi","It appears that gaming music is popular,
 yes?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Thank you for coming.");
     ChEye(5,4);
     ChMouth(5,4);
@@ -110,7 +110,7 @@ unexpected results.");
     MsgDisp("Hiiragi","Your expression right now gives you a good
 feeling about that, doesn't it?");
     MsgDisp("主人公","...Yes.
-｛柊＊＊＊｝ told me that, so I'm starting
+｛Hiiragi＊＊＊｝ told me that, so I'm starting
 to think so too!");
     ChEye(5,0);
     ChMouth(5,3);

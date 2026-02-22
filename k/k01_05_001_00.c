@@ -12,7 +12,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("K010500100_05_000");
     MsgDisp("Hiiragi","Never mind that.
 Well then, what is it?");
-    MsgDisp("主人公","｛柊＊＊＊｝, today is your birthday,
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, today is your birthday,
 right?
 Here's a present!");
     SEPlay("EV_SE_664");
@@ -31,7 +31,7 @@ Ah, sorry for the trouble.");
     VoicePlay("K010500100_05_020");
     MsgDisp("Hiiragi","It's alright.
 Did you need something?");
-    MsgDisp("主人公","Yes. ｛柊＊＊＊｝, today is your birthday,
+    MsgDisp("主人公","Yes. ｛Hiiragi＊＊＊｝, today is your birthday,
 right? Here's a present!");
     SEPlay("EV_SE_664");
     SEWait();
@@ -81,7 +81,7 @@ my hopes were high...");
     MsgDisp("Hiiragi","However, I am an actor.
 I was desperately holding it back.");
     MsgDisp("主人公","Hehe, it's okay.
-You seemed like the usual ｛柊＊＊＊｝.");
+You seemed like the usual ｛Hiiragi＊＊＊｝.");
     ChEye(5,3);
     ChMotion(5,3);
     ChCheek(5,0);

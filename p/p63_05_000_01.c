@@ -17,7 +17,7 @@ well-received...)");
     VoicePlay("P630500001_05_000");
     MsgDisp("Hiiragi","｛主人公｝.
 I see that you're working hard.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!
 Welcome.");
     ChEye(5,4);
     ChMouth(5,4);
@@ -57,7 +57,7 @@ well-received...)");
     VoicePlay("P630500001_05_040");
     MsgDisp("Hiiragi","｛主人公｝, the store seems to be popular,
 yes?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!
 Welcome.");
     ChEye(5,0);
     ChMouth(5,4);

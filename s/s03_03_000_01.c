@@ -12,7 +12,7 @@ Wait there for me.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yay!
-A shrine visit with ｛本多＊＊｝.
+A shrine visit with ｛Honda＊＊｝.
 What should I wear?)");
     break ;
     case 3:
@@ -26,7 +26,7 @@ soon so get ready and wait for me, okay?
 See you!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(I need to get ready before ｛本多＊＊｝
+    MsgDisp("主人公","(I need to get ready before ｛Honda＊＊｝
 gets here!
 So, what should I wear?)");
     break ;
@@ -45,7 +45,7 @@ Girls take a while to get ready.");
     MsgDisp("Honda","Well, see you later then!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(｛本多＊＊｝ is coming soon.
+    MsgDisp("主人公","(｛Honda＊＊｝ is coming soon.
 I have to hurry up and get dressed!
 What should I wear?)");
     break ;

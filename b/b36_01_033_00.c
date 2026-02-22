@@ -11,7 +11,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B360103300_01_001");
 MsgDisp("Kazama","Yeah, it's nice here.");
-MsgDisp("主人公","｛風真＊＊｝ likes the deep sea corner
+MsgDisp("主人公","｛Kazama＊＊｝ likes the deep sea corner
 doesn't he?");
 ChEye(1,4);
 ChMouth(1,3);

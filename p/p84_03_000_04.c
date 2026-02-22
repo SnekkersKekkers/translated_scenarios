@@ -16,7 +16,7 @@ SEWait();
 ChOpen(3,254,2,2,4,#1,#1,0,0);
 VoicePlay("P840300004_03_000");
 MsgDisp("Honda","Haa, I can't find my meal ticket...");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Just now, someone returned it!");
 ChEye(3,3);
 ChMouth(3,3);
@@ -40,7 +40,7 @@ VoicePlay("P840300004_03_030");
 MsgDisp("Honda","Umm...the place it was found; \"dropped by
 Honda Iku-kun in the corridor?\"");
 MsgDisp("主人公","Yeah, they chased after you immediately,
-but it seems like ｛本多＊＊｝ was quite
+but it seems like ｛Honda＊＊｝ was quite
 quickly nowhere to be found.");
 ChEye(3,0);
 ChMouth(3,4);

@@ -31,7 +31,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","Doesn't this poncho look like it would
-suit you, ｛風真＊＊｝?");
+suit you, ｛Kazama＊＊｝?");
 VoicePlay("B360107001_01_020");
 MsgDisp("Kazama","No way would it suit m——");
 VoicePlay("B360107001_01_030");
@@ -46,7 +46,7 @@ MsgDisp("Kazama","Shh, we'll be found.
 This is an emergency.
 What are those guys doing...");
 MsgDisp("主人公","Wait...
-｛風真＊＊｝, this hurts.");
+｛Kazama＊＊｝, this hurts.");
 BGOpen("ne710",0);
 SEPlay("EV_SE_552",0.2);
 Wait(10,0);

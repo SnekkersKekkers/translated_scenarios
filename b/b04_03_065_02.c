@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040306502_03_000");
 MsgDisp("Honda","A hidden gem.
 We have the best spot this year!");
-MsgSel("As expected of ｛本多＊＊｝!","We got to hear the \"boom!\" up close","It seems like there's a lot of mosquitoes huh?");
+MsgSel("As expected of ｛Honda＊＊｝!","We got to hear the \"boom!\" up close","It seems like there's a lot of mosquitoes huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -86,7 +86,7 @@ This is lemongrass.");
 It's a herb with insect-repellent effects.
 My own specially mixed, original cocktail!");
         MsgDisp("主人公","Amazing! It has a nice smell, and
-mosquitoes won't go near it. ｛本多＊＊｝,
+mosquitoes won't go near it. ｛Honda＊＊｝,
 thank you.");
         ChEye(3,0);
         ChMouth(3,0);
@@ -125,7 +125,7 @@ me.");
         MsgDisp("Honda","Then, look at my face more.
 So that the effects last a long time!
 Forever from now on too.");
-        MsgDisp("主人公","(｛本多＊＊｝, your face is so close...");
+        MsgDisp("主人公","(｛Honda＊＊｝, your face is so close...");
         break ;
         default :
         DbgAssert(1);

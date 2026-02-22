@@ -6,7 +6,7 @@ ChMotion(8,0,1);
 VoicePlay("B070800000_08_470");
 MsgDisp("Shirahane","Yeah?
 What's with the serious turn?");
-MsgDisp("主人公","｛大地＊＊｝, what do you think about
+MsgDisp("主人公","｛Daichi＊＊｝, what do you think about
 love?");
 ChEye(8,5);
 ChMouth(8,5);
@@ -18,7 +18,7 @@ MsgDisp("Shirahane","Ehh∋");
 ChCheek(8,8);
 VoicePlay("B070800000_08_490");
 MsgDisp("Shirahane","......");
-MsgDisp("主人公","｛大地＊＊｝?");
+MsgDisp("主人公","｛Daichi＊＊｝?");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
@@ -32,7 +32,7 @@ MsgDisp("Shirahane","What about you?
 What do ya think about love?");
 MsgDisp("主人公","Hey.
 It's not me being asked...
-I'm asking ｛大地＊＊｝, right?");
+I'm asking ｛Daichi＊＊｝, right?");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);
@@ -47,7 +47,7 @@ ChMouth(8,2);
 ChEyeOpenLevel(8,0);
 VoicePlay("B070800000_08_540");
 MsgDisp("Shirahane","If so, I can't take it...");
-MsgDisp("主人公","(｛大地＊＊｝...?)");
+MsgDisp("主人公","(｛Daichi＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

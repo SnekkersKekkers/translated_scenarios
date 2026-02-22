@@ -3,6 +3,6 @@ It says: \"Next time we go out, we'll have
 even more fun!\"");
 MsgDisp("主人公","(Good!
 Today, I feel I got a lot closer with
-｛大地＊＊｝!)");
+｛Daichi＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -27,7 +27,7 @@ I'll have a taste.");
     MsgClose();
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(｛氷室＊＊｝ seemed really happy!)");
+    MsgDisp("主人公","(｛Himuro＊＊｝ seemed really happy!)");
     break ;
     case 3:
     ChEye(6,0);
@@ -55,7 +55,7 @@ Thanks for the snack.");
     MsgClose();
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(｛氷室＊＊｝ seemed really happy!)");
+    MsgDisp("主人公","(｛Himuro＊＊｝ seemed really happy!)");
     break ;
     case 4:
     case 5:
@@ -102,7 +102,7 @@ Thanks for the snack.");
     MsgClose();
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(｛氷室＊＊｝ seemed really happy!)");
+    MsgDisp("主人公","(｛Himuro＊＊｝ seemed really happy!)");
     break ;
     default :
     DbgAssert(1);

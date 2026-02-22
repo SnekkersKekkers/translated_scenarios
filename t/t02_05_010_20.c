@@ -1,4 +1,4 @@
-MsgDisp("主人公","I also like ｛柊＊＊＊｝.");
+MsgDisp("主人公","I also like ｛Hiiragi＊＊＊｝.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEye(5,4);
@@ -8,7 +8,7 @@ ChCheek(5,5);
 VoicePlay("T020501020_05_000");
 MsgDisp("Hiiragi","Eh...");
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","｛柊＊＊＊｝ is always trying his very
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ is always trying his very
 best, he looks so cool.");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
@@ -36,7 +36,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("T020501020_05_030");
 MsgDisp("Hiiragi","Until now, and from this point forwards,
 your smile has always been my light.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,0);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020501020_05_040");

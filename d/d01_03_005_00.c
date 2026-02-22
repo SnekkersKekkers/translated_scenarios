@@ -19,7 +19,7 @@ MsgDisp("Honda?","Why～!");
 SEPlay("EV_SE_616",0,0.6);
 SEWait();
 MsgDisp("主人公","(∋ That voice just now...Was that
-｛本多＊＊｝? Huh, didn't something like
+｛Honda＊＊｝? Huh, didn't something like
 this happen before...)");
 StlOpen("ev_03_11");
 BGMPlay("BGM_C03_HONDA_C",0.01);
@@ -29,7 +29,7 @@ StlMouth(3,1);
 ScrFadeIn(0);
 VoicePlay("D010300500_03_010");
 MsgDisp("Honda","......Sigh.");
-MsgDisp("主人公","｛本多＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Honda＊＊｝, what's wrong?");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300500_03_020");

@@ -11,7 +11,7 @@ VoiceEVSPlay(2);
 VoicePlay("D010200500_02_000");
 MsgDisp("Sassa","｛主人公｝, can I help out with something?");
 MsgDisp("主人公","No, I'm fine.
-｛颯砂＊＊｝, good luck.");
+｛Sassa＊＊｝, good luck.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -19,11 +19,11 @@ VoicePlay("D010200500_02_010");
 MsgDisp("Sassa","I'm going to give it my all and win the
 last four events.");
 MsgDisp("主人公","Yup.
-I believe in ｛颯砂＊＊｝!");
+I believe in ｛Sassa＊＊｝!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I hope ｛颯砂＊＊｝ has a good race...
+MsgDisp("主人公","(I hope ｛Sassa＊＊｝ has a good race...
 I'll try my best to cheer him on!)");
 BGMStop();
 MsgClose();
@@ -34,10 +34,10 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc625",0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝!
+MsgDisp("主人公","｛Sassa＊＊｝!
 Try your best∈");
 MsgDisp("主人公","(Eh, what should I do...
-｛颯砂＊＊｝ is falling behind more and
+｛Sassa＊＊｝ is falling behind more and
 more...)");
 SEStop("EV_SE_GAYA_021",2);
 VoicePlay("D010200500_40_000");
@@ -51,7 +51,7 @@ energy left.");
 VoicePlay("D010200500_40_020");
 MsgDisp("Manager","Well, the overall winner is still yet to
 be decided.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -62,7 +62,7 @@ BGOpen("sc628",0);
 SEPlay("EV_SE_GAYA_021",1,0.5);
 ScrFadeIn(0);
 ChOpen(2,37,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝, congrats on your victory.");
+MsgDisp("主人公","｛Sassa＊＊｝, congrats on your victory.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -76,7 +76,7 @@ VoicePlay("D010200500_02_030");
 MsgDisp("Sassa","But this is completely awful.
 I wonder what I even practiced for.");
 MsgDisp("主人公","Don't say that.
-｛颯砂＊＊｝ is an octathlon athlete, and
+｛Sassa＊＊｝ is an octathlon athlete, and
 an Inter-High champion.");
 ChEye(2,2);
 ChMouth(2,0);
@@ -159,5 +159,5 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","(Yay...
-｛颯砂＊＊｝!)");
+｛Sassa＊＊｝!)");
 ChPrmTblAdd(2,0);

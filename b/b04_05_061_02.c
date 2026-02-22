@@ -69,7 +69,7 @@ What was I saying...");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040506102_05_060");
         MsgDisp("Hiiragi","Haa...");
-        MsgDisp("主人公","｛柊＊＊＊｝, your face is red.
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝, your face is red.
 Are you alright?");
         SEPlay("EV_SE_557");
         SEWait();

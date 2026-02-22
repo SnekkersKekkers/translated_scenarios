@@ -6,7 +6,7 @@ Wait(80,0);
 SEPlay("EV_SE_629");
 Wait(100,0);
 MsgDisp("主人公","(Mnn...Who could be calling so early in
-the morning...? Ah, it's ｛氷室＊＊｝!)");
+the morning...? Ah, it's ｛Himuro＊＊｝!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -30,7 +30,7 @@ MsgClose();
 BGOpen("wf620",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_630");
-MsgDisp("主人公","｛氷室＊＊｝...!
+MsgDisp("主人公","｛Himuro＊＊｝...!
 W-Wait up!");
 VoicePlay("D010600300_06_020");
 MsgDisp("Himuro","It's okay to take it slow.
@@ -117,7 +117,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf620",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Thanks for today, ｛氷室＊＊｝.
+MsgDisp("主人公","Thanks for today, ｛Himuro＊＊｝.
 It had a great time!");
 MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0);
@@ -134,7 +134,7 @@ ChMotion(6,0);
 VoicePlay("D010600300_06_140");
 MsgDisp("Himuro","That's from your perspective.
 I have my reasons.");
-MsgDisp("主人公","｛氷室＊＊｝, you prefer it when it's just
+MsgDisp("主人公","｛Himuro＊＊｝, you prefer it when it's just
 the two of us?");
 ChEye(6,1);
 ChMouth(6,0);
@@ -145,7 +145,7 @@ VoicePlay("D010600300_06_150");
 MsgDisp("Himuro","No comment.");
 MsgDisp("主人公","(Hehe!
 I'm glad I was able to make such wonderful
-memories with ｛氷室＊＊｝...)");
+memories with ｛Himuro＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);

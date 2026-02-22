@@ -75,7 +75,7 @@ MsgDisp("主人公","Y-Yeah.
 That's true...");
 MsgDisp("主人公","(A lot of bugs huh...
 I bet there's a lot of them for
-｛本多＊＊｝ to observe at school...)");
+｛Honda＊＊｝ to observe at school...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

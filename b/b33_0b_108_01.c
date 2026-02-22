@@ -41,9 +41,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B10801_03_010");
-MsgDisp("Honda","My eyes fall onto the tricks before I feel
-scared.
-I dn't often notice the ghosts.");
+MsgDisp("Honda","My eyes are drawn to the tricks before 
+I feel scared.
+I don't often notice the ghosts.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -90,7 +90,7 @@ ChClose(4,0,30);
 ScrQuake(0);
 SEWait();
 MsgDisp("主人公","(Waa～!
-｛風真＊＊｝ is so mean∈))");
+｛Kazama＊＊｝ is so mean∈))");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

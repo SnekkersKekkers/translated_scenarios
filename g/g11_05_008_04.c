@@ -25,7 +25,7 @@ MsgDisp("Hiiragi","I just helped him a little bit with the
 speech for the school assembly.");
 MsgDisp("主人公","Ah, the one from the other day?
 It was well received.
-Did ｛柊＊＊＊｝ write the manuscript?");
+Did ｛Hiiragi＊＊＊｝ write the manuscript?");
 MsgClose();
 ScrFadeOut(0,0,30);
 ChClose(5,0,0);
@@ -81,7 +81,7 @@ ChEyeOpenLevel(5,13);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500804_05_060");
 MsgDisp("Hiiragi","W-What's the matter?");
-MsgDisp("主人公","I'm so happy that ｛柊＊＊＊｝'s efforts are
+MsgDisp("主人公","I'm so happy that ｛Hiiragi＊＊＊｝'s efforts are
 being recognized...");
 ChMouth(5,1);
 ChEyeOpenLevel(5,0);
@@ -90,7 +90,7 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("G110500804_05_070");
 MsgDisp("Hiiragi","You really are such a kind person.
 Yes...t-thank you.");
-MsgDisp("主人公","(｛柊＊＊＊｝, I'm so glad.
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, I'm so glad.
 Even though you were tired and sleepy you
 always gave it your all...)");
 BGMStop();

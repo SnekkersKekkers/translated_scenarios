@@ -58,7 +58,7 @@ I'm going home.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 I wonder what role he is switching to?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -22,7 +22,7 @@ ChMotion(5,0);
 VoicePlay("G020510101_05_030");
 MsgDisp("Hiiragi","Speaking of having something to oneself...
 You're not just mine either?");
-MsgDisp("主人公","｛柊＊＊＊｝...?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...?");
 ChEye(5,4);
 VoicePlay("G020510101_05_040");
 MsgDisp("Hiiragi","But I believe I'm the closest person to
@@ -35,7 +35,7 @@ MsgDisp("Hiiragi","I'm sorry to the others, but I have no
 intention of giving up being by your side.");
 MsgDisp("主人公","(Others...
 Somewhat, today I get the feeling
-｛柊＊＊＊｝, is different to usual...)");
+｛Hiiragi＊＊＊｝, is different to usual...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

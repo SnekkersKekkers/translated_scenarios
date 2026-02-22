@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     case 2:
     VoicePlay("J010100000_01_000");
     MsgDisp("Kazama","Hello.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝?
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝?
 Are you free to talk right now?");
     VoicePlay("J010100000_01_010");
     MsgDisp("Kazama","What's up?");
@@ -18,7 +18,7 @@ Are you free to talk right now?");
     case 3:
     VoicePlay("J010100000_01_020");
     MsgDisp("Kazama","Hello?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝?
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝?
 Are you busy right now?");
     VoicePlay("J010100000_01_030");
     MsgDisp("Kazama","I've got nothing going on.
@@ -30,7 +30,7 @@ Well...");
     case 5:
     VoicePlay("J010100000_01_040");
     MsgDisp("Kazama","Hello.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝?
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝?
 Do you have time?");
     VoicePlay("J010100000_01_050");
     MsgDisp("Kazama","Always for you.

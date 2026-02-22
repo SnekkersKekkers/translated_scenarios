@@ -15,7 +15,7 @@ BGOpen("ev007",0);
 BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Ah it's ｛御影＊＊｝!)");
+MsgDisp("主人公","(...Ah it's ｛Mikage＊＊｝!)");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -35,7 +35,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110701100_07_020");
 MsgDisp("Mikage","An organic cafe was a great idea.");
-MsgDisp("主人公","Yes. thanks to ｛御影＊＊｝, we were
+MsgDisp("主人公","Yes. thanks to ｛Mikage＊＊｝, we were
 able to set up in front of a prime
 location; the school gates.");
 ChEye(7,0);
@@ -58,7 +58,7 @@ VoicePlay("G110701100_07_050");
 MsgDisp("Mikage","But, I wonder if it wouldn't be as
 exciting without you third years?");
 MsgDisp("主人公","It'll be fine.
-The second years and ｛御影＊＊｝ will
+The second years and ｛Mikage＊＊｝ will
 be there too.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -68,7 +68,7 @@ MsgDisp("Mikage","Ahh, that's right.
 The second years are following in your
 footsteps.");
 MsgDisp("主人公","(There won't be another cultural festival
-with ｛御影＊＊｝...
+with ｛Mikage＊＊｝...
 I'm so sad...)");
 BGMStop();
 MsgClose();

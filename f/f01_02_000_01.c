@@ -2,7 +2,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛颯砂＊＊｝.");
+    MsgDisp("主人公","｛Sassa＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,254,5,0,0,#1,#1,0,0);
@@ -22,7 +22,7 @@ I guess it's too early to say.");
     MsgDisp("主人公","(Seems like I shouldn't call him that.)");
     break ;
     case 3:
-    MsgDisp("主人公","｛颯砂＊＊｝.");
+    MsgDisp("主人公","｛Sassa＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,254,5,0,0,#1,#1,0,0);
@@ -44,7 +44,7 @@ Seems like I shouldn't call him that.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛颯砂＊＊｝.");
+    MsgDisp("主人公","｛Sassa＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,254,4,0,0,#1,#1,0,0);

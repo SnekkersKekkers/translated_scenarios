@@ -27,7 +27,7 @@ ChEyeOpenLevel(4,0);
 VoicePlay("G020420301_04_030");
 MsgDisp("Nanatsumori","I can't.
 There's no way I can...");
-MsgDisp("主人公","｛七ツ森＊｝?");
+MsgDisp("主人公","｛Nanatsumori＊｝?");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -55,7 +55,7 @@ MsgDisp("Nanatsumori","I'll just endure this.
 If I get overwhelmed, I'll pretend it's a
 act...");
 ChEyeOpenLevel(4,#1);
-MsgDisp("主人公","｛七ツ森＊｝, are you okay?");
+MsgDisp("主人公","｛Nanatsumori＊｝, are you okay?");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -63,7 +63,7 @@ ChCheek(4,10);
 VoicePlay("G020420301_04_080");
 MsgDisp("Nanatsumori","Ach...
 I told you not to look at me like that!");
-MsgDisp("主人公","(｛七ツ森＊｝, why is your face so red?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, why is your face so red?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

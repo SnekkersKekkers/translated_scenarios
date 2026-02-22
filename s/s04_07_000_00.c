@@ -11,7 +11,7 @@ I wonder who it is?");
     SEWait();
     VoicePlay("S040700000_07_000");
     MsgDisp("Mikage","Happy New Years.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Happy New Years to you too!");
     VoicePlay("S040700000_07_010");
     MsgDisp("Mikage","I was thinking about visiting the shrine
@@ -27,7 +27,7 @@ I'll come pick you up.");
         MsgDisp("Mikage","It'll be good, right?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A shrine visit with ｛御影＊＊｝!
+        MsgDisp("主人公","(A shrine visit with ｛Mikage＊＊｝!
 ...Now what should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -60,7 +60,7 @@ Who is it?");
     SEWait();
     VoicePlay("S040700000_07_060");
     MsgDisp("Mikage","Hey, Happy New Years.");
-    MsgDisp("主人公","｛御影＊＊｝!
+    MsgDisp("主人公","｛Mikage＊＊｝!
 Happy New Years.");
     VoicePlay("S040700000_07_070");
     MsgDisp("Mikage","I'm thinking about visiting the shrine
@@ -80,7 +80,7 @@ you up.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(A New Year's shrine visit with
-｛御影＊＊｝!
+｛Mikage＊＊｝!
 ...What should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);

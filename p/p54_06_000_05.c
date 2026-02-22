@@ -11,7 +11,7 @@ ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(6);
 VoicePlay("P540600005_06_000");
 MsgDisp("Himuro","｛主人公｝.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

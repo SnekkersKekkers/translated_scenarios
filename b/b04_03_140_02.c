@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040314002_03_000");
 MsgDisp("Honda","Bands are great huh?");
-MsgSel("Shall we form one together?","｛本多＊＊｝ might be suited for vocals","｛本多＊＊｝ might be suited for solo work");
+MsgSel("Shall we form one together?","｛Honda＊＊｝ might be suited for vocals","｛Honda＊＊｝ might be suited for solo work");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -107,7 +107,7 @@ I was worried.");
         VoicePlay("B040314002_03_110");
         MsgDisp("Honda","About you saying that you were already
 bored of me....");
-        MsgDisp("主人公","｛本多＊＊｝ is always teaching me lots of
+        MsgDisp("主人公","｛Honda＊＊｝ is always teaching me lots of
 different things, I couldn't think such a
 thing?");
         ChMouth(3,4);

@@ -28,7 +28,7 @@ BGMPlay("BGM_C06_INORI_A",0.01);
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝, are you having your lunch
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝, are you having your lunch
 up here too?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -141,7 +141,7 @@ ChEyeOpenLevel(6,0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","...Am I bad at cooking eggplant.");
+MsgDisp("主人公","...Am I bad at cooking eggplant?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -167,7 +167,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600100_06_160");
 MsgDisp("Himuro","I wouldn't say hate, it just has issues.");
-MsgDisp("主人公","(｛氷室＊＊｝ hates eggplant...
+MsgDisp("主人公","(｛Himuro＊＊｝ hates eggplant...
 I think.)");
 BGMStop();
 MsgClose();

@@ -22,7 +22,7 @@ MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110710001_07_000");
 MsgDisp("Mikage","Ha....");
-MsgDisp("主人公","Ah, ｛御影＊＊｝!
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Huh?
 A mobile zoo?");
 ChEye(7,2);

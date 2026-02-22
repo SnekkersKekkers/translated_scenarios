@@ -91,7 +91,7 @@ that——");
         ChEyeOpenLevel(6,0);
         VoicePlay("B040606102_06_090");
         MsgDisp("Himuro","...Haa.");
-        MsgDisp("主人公","｛氷室＊＊｝?");
+        MsgDisp("主人公","｛Himuro＊＊｝?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

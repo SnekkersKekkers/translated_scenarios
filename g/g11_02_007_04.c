@@ -77,7 +77,7 @@ ScrFadeOut(0,0);
 MsgClose();
 ChClose(2,0,0);
 SEWait();
-MsgDisp("主人公","(｛颯砂＊＊｝...
+MsgDisp("主人公","(｛Sassa＊＊｝...
 I'm so happy.
 Well, I'll continue doing my best!)");
 MsgClose();

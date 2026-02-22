@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("H1A0100001_01_000");
     MsgDisp("Kazama","Yo.");
-    MsgDisp("主人公","｛風真＊＊｝...
+    MsgDisp("主人公","｛Kazama＊＊｝...
 We lost...");
     ChEye(1,0);
     ChMouth(1,0);
@@ -26,7 +26,7 @@ compared to the other team you know?");
     VoicePlay("H1A0100001_01_020");
     MsgDisp("Kazama","Yeah, I was impressed too.
 Thanks.");
-    MsgDisp("主人公","｛風真＊＊｝...");
+    MsgDisp("主人公","｛Kazama＊＊｝...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -35,7 +35,7 @@ Thanks.");
 to being yourself.
 Everyone's waiting for you.");
     MsgDisp("主人公","...Yeah.
-Thanks, ｛風真＊＊｝.");
+Thanks, ｛Kazama＊＊｝.");
     MsgDisp("主人公","(We lost, but I'm glad I did my best.)");
     break ;
     case 4:
@@ -45,7 +45,7 @@ Thanks, ｛風真＊＊｝.");
     ScrFadeIn(0);
     VoicePlay("H1A0100001_01_040");
     MsgDisp("Kazama","That was a good match, wasn't it?");
-    MsgDisp("主人公","Ugh, ｛風真＊＊｝...
+    MsgDisp("主人公","Ugh, ｛Kazama＊＊｝...
 We lost...");
     ChEye(1,2);
     ChMouth(1,3);
@@ -82,7 +82,7 @@ club.");
     ChMotion(1,0);
     VoicePlay("H1A0100001_01_090");
     MsgDisp("Kazama","I'm sure everyone's thankful to you.");
-    MsgDisp("主人公","Thanks, ｛風真＊＊｝.");
+    MsgDisp("主人公","Thanks, ｛Kazama＊＊｝.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -96,7 +96,7 @@ With that smile of yours.");
     VoicePlay("H1A0100001_01_110");
     MsgDisp("Kazama","Starting tomorrow, that treatment will be
 just for me.");
-    MsgDisp("主人公","(Thank you, ｛風真＊＊｝.
+    MsgDisp("主人公","(Thank you, ｛Kazama＊＊｝.
 We might have lost, but I'll cherish this
 memory forever...)");
     break ;

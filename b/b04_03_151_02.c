@@ -43,7 +43,7 @@ Ah, it's impossible...");
         VoicePlay("B040315102_03_030");
         MsgDisp("Honda","Right.
 I'll go for the safe one.");
-        MsgDisp("主人公","You can do it ｛本多＊＊｝!");
+        MsgDisp("主人公","You can do it ｛Honda＊＊｝!");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);
@@ -65,7 +65,7 @@ just pretty susceptible to you...");
         VoicePlay("B040315102_03_060");
         MsgDisp("Honda","Hey, say what you said earlier again.
 That I can do it.");
-        MsgDisp("主人公","Um...you can do it ｛本多＊＊｝!");
+        MsgDisp("主人公","Um...you can do it ｛Honda＊＊｝!");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);
@@ -79,7 +79,7 @@ If you say that, I can do it!");
         SEWait();
         SEPlay("EV_SE_514");
         SEWait();
-        MsgDisp("主人公","｛本多＊＊｝, that's amazing!");
+        MsgDisp("主人公","｛Honda＊＊｝, that's amazing!");
         MsgClose();
         SEPlay("EV_SE_544");
         ChOpen(3,255,5,3,3,#1,#1,0,0);
@@ -87,7 +87,7 @@ If you say that, I can do it!");
         MsgDisp("Honda","That's incredible!
 The odds of me knocking down a split 7 and
 10 are astronomical!");
-        MsgDisp("主人公","It's 'cause you're skilled, ｛本多＊＊｝.");
+        MsgDisp("主人公","It's 'cause you're skilled, ｛Honda＊＊｝.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,4);
@@ -101,7 +101,7 @@ greats.");
         ChMotion(3,5);
         VoicePlay("B040315102_03_100");
         MsgDisp("Honda","Let's contribute to humanity together!");
-        MsgDisp("主人公","(｛本多＊＊｝...you're exaggerating.)");
+        MsgDisp("主人公","(｛Honda＊＊｝...you're exaggerating.)");
         break ;
         default :
         DbgAssert(1);

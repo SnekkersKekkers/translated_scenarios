@@ -18,7 +18,7 @@ come...)");
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("P030500000_05_000");
     MsgDisp("Hiiragi","Please excuse me.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Welcome!");
     ChEye(5,0);
     ChMouth(5,4);
@@ -59,7 +59,7 @@ come...)");
     VoiceEVSPlay(5);
     VoicePlay("P030500000_05_040");
     MsgDisp("Hiiragi","｛主人公｝, quite successful, aren't we?");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!
 Welcome.");
     ChEye(5,4);
     ChMouth(5,4);

@@ -41,7 +41,7 @@ Take care of it next time too.");
     MsgDisp("Shirahane","That customer sure was happy.
 Good thing I trusted you with this.");
     MsgDisp("主人公","(Yay!
-｛大地＊＊｝ praised me!)");
+｛Daichi＊＊｝ praised me!)");
     break ;
     case 4:
     case 5:

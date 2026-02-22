@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Alright, it's time to go home now.)");
-MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over there. I
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there. I
 might as well chat a bit before I go
 home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -24,7 +24,7 @@ VoicePlay("G110101100_01_000");
 MsgDisp("Kazama","｛主人公｝.
 How is it, have you gotten used to part
 time work yet?");
-MsgDisp("主人公","Yes it's thanks to ｛風真＊＊｝...
+MsgDisp("主人公","Yes it's thanks to ｛Kazama＊＊｝...
 No, rather, it's thanks to \"Senpai's\"
 help.");
 ChEye(1,0);
@@ -34,7 +34,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G110101100_01_010");
 MsgDisp("Kazama","Good.
 That's a good attitude.");
-MsgDisp("主人公","Hehe. But, because ｛風真＊＊｝ taught me
+MsgDisp("主人公","Hehe. But, because ｛Kazama＊＊｝ taught me
 so many different things, the number of
 things I can do has genuinely increased.");
 ChEyeOpenLevel(1,0);

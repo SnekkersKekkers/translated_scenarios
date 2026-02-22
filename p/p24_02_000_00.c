@@ -66,7 +66,7 @@ MsgDisp("Sassa","Don't cry.
 I regret forcing you into my world.");
 ChEyeOpenLevel(2,0);
 MsgDisp("主人公","(...Eh?
-｛颯砂＊＊｝, isn't that a bit off-script?)");
+｛Sassa＊＊｝, isn't that a bit off-script?)");
 SEPlay("EV_SE_GAYA_008",0.5,0.5);
 VoicePlay("P240200000_39_000");
 MsgDisp("Male Customer","Eh, that's somewhat off?");
@@ -200,7 +200,7 @@ immersed. I'll see you later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝...?)");
+MsgDisp("主人公","(｛Sassa＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

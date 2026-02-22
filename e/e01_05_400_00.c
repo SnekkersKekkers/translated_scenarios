@@ -20,7 +20,7 @@ ChMotion(22,0,1);
 VoicePlay("E010540000_22_010");
 MsgDisp("Hikaru","I'm waiting for the chairman.");
 MsgDisp("主人公","Chairman...
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(22,2);
 MsgClose();
@@ -42,7 +42,7 @@ VoicePlay("E010540000_22_020");
 MsgDisp("Hikaru","Hikaru and Mari are always together▼
 Right?");
 MsgDisp("主人公","Hehe, yeah.
-But what are ｛柊＊＊＊｝ and
+But what are ｛Hiiragi＊＊＊｝ and
 ｛ひかる＊｝ doing?");
 ChEye(5,0);
 ChMouth(5,4);

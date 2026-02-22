@@ -26,7 +26,7 @@ huh...)");
     VoicePlay("P830300001_03_000");
     MsgDisp("Honda","｛主人公｝.
 You seem busy, huh?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Yeah, because I'm managing.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -50,7 +50,7 @@ return it...)");
     ChOpen(3,254,4,0,4,#1,#1,0,0);
     VoicePlay("P830300001_03_020");
     MsgDisp("Honda","What's wrong, you look troubled?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝...
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝...
 The pens that were borrowed haven't been
 returned....");
     ChEye(3,0);
@@ -78,7 +78,7 @@ festival too.");
 break, let's walk around together, okay?");
     MsgDisp("主人公","Yeah, thank you!");
     MsgDisp("主人公","(So that I can enjoy the cultural festival
-with ｛本多＊＊｝, Let's hold on a little
+with ｛Honda＊＊｝, Let's hold on a little
 longer and do our best!)");
     break ;
     default :

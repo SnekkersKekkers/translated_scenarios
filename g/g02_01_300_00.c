@@ -6,8 +6,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020130000_01_000");
 MsgDisp("Kazama","What do you think would happen of they
 learned we came here?");
-MsgDisp("主人公","Are you talking about ｛颯砂＊＊｝ and
-｛氷室＊＊｝?");
+MsgDisp("主人公","Are you talking about ｛Sassa＊＊｝ and
+｛Himuro＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -48,7 +48,7 @@ VoicePlay("G020130000_01_050");
 MsgDisp("Kazama","Despite that, he's also the type who'd try
 to get you to spill what you talked about.");
 MsgDisp("主人公","Haha, you understand both of them really
-well, ｛風真＊＊｝.");
+well, ｛Kazama＊＊｝.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -57,7 +57,7 @@ VoicePlay("G020130000_01_060");
 MsgDisp("Kazama","I'd say so.
 The truth is that I don't hate them.");
 ChEye(1,0);
-MsgDisp("主人公","(Hahah, I know, ｛風真＊＊｝, that you like
+MsgDisp("主人公","(Hahah, I know, ｛Kazama＊＊｝, that you like
 them.)");
 BGMStop();
 MsgClose();

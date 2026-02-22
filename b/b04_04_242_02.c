@@ -63,7 +63,7 @@ Let's take it easy.");
         MsgDisp("Nanatsumori","......");
         MsgDisp("主人公","...Hmm.
 Oh no, looks like I fell asleep.");
-        MsgDisp("主人公","｛七ツ森＊｝ is...
+        MsgDisp("主人公","｛Nanatsumori＊｝ is...
 Ah, he's asleep.");
         VoicePlay("B040424202_04_060");
         MsgDisp("Nanatsumori","...Mm.");

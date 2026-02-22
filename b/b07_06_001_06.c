@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛氷室＊＊｝, ｛風真＊＊｝, ｛颯砂＊＊｝ and
+MsgDisp("主人公","｛Himuro＊＊｝, ｛Kazama＊＊｝, ｛Sassa＊＊｝ and
 I...will always continue to get along this
 well right?");
 ChEye(6,0);
@@ -31,7 +31,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600001_06_430");
 MsgDisp("Himuro","Nozomu-senpai has track-and-field.");
-MsgDisp("主人公","What about you, ｛氷室＊＊｝?");
+MsgDisp("主人公","What about you, ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -46,7 +46,7 @@ ChMotion(4,1,1);
 VoicePlay("B150400200_04_060");
 MsgDisp("Nanatsumori","I'll stop.
 I'm starting to feel pathetic...");
-MsgDisp("主人公","｛七ツ森＊｝?");
+MsgDisp("主人公","｛Nanatsumori＊｝?");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -56,6 +56,6 @@ Well, I'll stop here.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
-MsgDisp("主人公","(｛七ツ森＊｝...?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝...?)");
 MsgClose();
 ScrFadeOut(0,0);

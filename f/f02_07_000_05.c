@@ -42,7 +42,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700005_07_040");
 MsgDisp("Mikage","But, making tests doesn't suit me.");
-MsgDisp("主人公","If ｛御影＊＊｝ could make the
+MsgDisp("主人公","If ｛Mikage＊＊｝ could make the
 questions like he liked, everyone would
 probably get better grades.");
 ChEye(7,2);
@@ -52,6 +52,6 @@ VoicePlay("F020700005_07_050");
 MsgDisp("Mikage","I did that once and Vice Principal Himuro
 raked me over the coals...
 I really am sorry...");
-MsgDisp("主人公","(｛御影＊＊｝ seems to have it harder...
+MsgDisp("主人公","(｛Mikage＊＊｝ seems to have it harder...
 All I have to do is study.
 Let's do our best!)");

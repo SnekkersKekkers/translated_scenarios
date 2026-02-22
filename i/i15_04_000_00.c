@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I150400000_04_000");
     MsgDisp("Nanatsumori","Ah.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
     ChEye(4,2);
     ChMouth(4,2);
@@ -42,7 +42,7 @@ See you.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(I get it.
-｛七ツ森＊｝ is a popular model, after
+｛Nanatsumori＊｝ is a popular model, after
 all.)");
     break ;
     case 3:
@@ -73,7 +73,7 @@ might be busy.");
     MsgDisp("Nanatsumori","I see.
 Working without any hiccups is a good
 thing.");
-    MsgDisp("主人公","Hehe, ｛七ツ森＊｝, you sound like a
+    MsgDisp("主人公","Hehe, ｛Nanatsumori＊｝, you sound like a
 teacher, you know?");
     ChEye(4,4);
     ChMouth(4,3);
@@ -85,7 +85,7 @@ Well, do your best until you're off.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Could it be that ｛七ツ森＊｝ came to
+    MsgDisp("主人公","(Could it be that ｛Nanatsumori＊｝ came to
 check on me?)");
     break ;
     case 4:
@@ -136,7 +136,7 @@ Let's both work hard.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(｛七ツ森＊｝ came to cheer me on...
+    MsgDisp("主人公","(｛Nanatsumori＊｝ came to cheer me on...
 Yeah, I'm going to do my best!)");
     break ;
     default :

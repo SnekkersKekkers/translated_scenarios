@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
     case 2:
     VoicePlay("J010200000_02_000");
     MsgDisp("Sassa","Is something up?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Is now a good time to call you?");
     VoicePlay("J010200000_02_010");
     MsgDisp("Sassa","Yeah, sure.");
@@ -18,7 +18,7 @@ Is now a good time to call you?");
     case 3:
     VoicePlay("J010200000_02_020");
     MsgDisp("Sassa","Oh, what's up?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Is it OK to call now?");
     VoicePlay("J010200000_02_030");
     MsgDisp("Sassa","Yup.
@@ -31,7 +31,7 @@ What's up?");
     VoicePlay("J010200000_02_040");
     MsgDisp("Sassa","Whoa!
 Perfect timing!");
-    MsgDisp("主人公","｛颯砂＊＊｝?
+    MsgDisp("主人公","｛Sassa＊＊｝?
 Is it alright if we talk for a minute?");
     VoicePlay("J010200000_02_050");
     MsgDisp("Sassa","Of course.

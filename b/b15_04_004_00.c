@@ -25,7 +25,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,8,0,0,60);
 VoicePlay("B150400400_04_030");
 MsgDisp("Nanatsumori","I'm serious.");
-MsgDisp("主人公","｛七ツ森＊｝∋");
+MsgDisp("主人公","｛Nanatsumori＊｝∋");
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("B150400400_04_040");
@@ -40,7 +40,7 @@ you...");
 VoicePlay("B150400400_04_060");
 MsgDisp("Nanatsumori","This is making me lose confidence.
 Come on, understand...");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 MsgClose();
 ScrFadeIn(0);
 ChMouthOpenLevel(4,0);

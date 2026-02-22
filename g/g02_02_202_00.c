@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("G020220200_02_000");
 MsgDisp("Sassa","Ryota's a real mysterious guy...");
-MsgDisp("主人公","Wait, ｛風真＊＊｝?");
+MsgDisp("主人公","Wait, ｛Kazama＊＊｝?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -15,7 +15,7 @@ VoicePlay("G020220200_02_020");
 MsgDisp("Sassa","He's good at school, he's good at sports,
 he can do everything, but he doesn't do
 anything.");
-MsgDisp("主人公","｛風真＊＊｝ lives alone and helps at his
+MsgDisp("主人公","｛Kazama＊＊｝ lives alone and helps at his
 grandfather's shop on top of his job at
 Simon, so I think he has a lot on his
 plate.");
@@ -41,7 +41,7 @@ MsgDisp("Sassa","But what Ryota wants is probably
 different. I don't have a clue what he's
 working for and what he worries about.");
 MsgDisp("主人公","I think your goal also puts a lot of
-pressure on you, ｛颯砂＊＊｝.
+pressure on you, ｛Sassa＊＊｝.
 And I can't do anything to help...");
 ChEye(2,0);
 ChMouth(2,4);
@@ -63,8 +63,8 @@ VoicePlay("G020220200_02_080");
 MsgDisp("Sassa","Alright, I know it's not a contest, but
 now it feels like I'm competing against
 Ryota.");
-MsgDisp("主人公","You're competing against ｛風真＊＊｝,
-｛颯砂＊＊｝?");
+MsgDisp("主人公","You're competing against ｛Kazama＊＊｝,
+｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

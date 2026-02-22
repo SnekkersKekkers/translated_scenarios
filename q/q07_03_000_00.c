@@ -20,7 +20,7 @@ VoicePlay("Q070300000_03_010");
 MsgDisp("Honda","I'm interested in that windmill.
 It's a traditional windmill used for
 milling and drainage.");
-MsgDisp("主人公","Interesting! ｛本多＊＊｝, it's so much fun
+MsgDisp("主人公","Interesting! ｛Honda＊＊｝, it's so much fun
 going around with you, it's like going
 around with a guide.");
 ChEye(3,0);
@@ -123,7 +123,7 @@ MsgDisp("Honda","I wonder what dreams the merchants had as
 they came to such a distant and foreign
 land...");
 MsgDisp("主人公","I wonder too...
-｛本多＊＊｝, what's your dream?");
+｛Honda＊＊｝, what's your dream?");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
@@ -147,7 +147,7 @@ MsgDisp("Honda","Yeah. It's someone who focuses on field
 research and studies everything that
 exists in nature.");
 MsgDisp("主人公","Wow!
-That sounds very ｛本多＊＊｝ -like.");
+That sounds very ｛Honda＊＊｝ -like.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -170,7 +170,7 @@ VoicePlay("Q070300000_03_170");
 MsgDisp("Honda","Something like that.
 See, your question is too difficult.
 Change it to another one!");
-MsgDisp("主人公","...｛本多＊＊｝ today feels a bit different
+MsgDisp("主人公","...｛Honda＊＊｝ today feels a bit different
 than usual.");
 BGMStop();
 MsgClose();

@@ -72,7 +72,7 @@ ChMotion(3,4,1);
 VoicePlay("B360302301_03_090");
 MsgDisp("Honda","Haha...You're right. If I got sick and
 couldn't see you, it would be even worse.");
-MsgDisp("主人公","(｛本多＊＊｝...)");
+MsgDisp("主人公","(｛Honda＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

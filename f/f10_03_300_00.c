@@ -9,7 +9,7 @@ girls in elementary and middle school.");
 VoicePlay("F100330000_03_000");
 MsgDisp("Honda?","Really?
 My little sister will be happy too!");
-MsgDisp("主人公","(Ah...it's ｛本多＊＊｝, ｛ひかる＊｝
+MsgDisp("主人公","(Ah...it's ｛Honda＊＊｝, ｛ひかる＊｝
 and ｛みちる＊｝'s voices.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -30,7 +30,7 @@ VoicePlay("F100330000_22_010");
 MsgDisp("Hikaru","Ah, Mari!
 I just received a fan letter from
 Honda-kun.");
-MsgDisp("主人公","From ｛本多＊＊｝?");
+MsgDisp("主人公","From ｛Honda＊＊｝?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -44,7 +44,7 @@ ChEyeOpenLevel(22,0);
 VoicePlay("F100330000_22_020");
 MsgDisp("Hikaru","That's right, it's a super cute letter♪");
 ChMouth(21,0);
-MsgDisp("主人公","I see, so ｛本多＊＊｝'s sister is a fan of
+MsgDisp("主人公","I see, so ｛Honda＊＊｝'s sister is a fan of
 you two?");
 ChEye(3,0);
 ChMouth(3,3);

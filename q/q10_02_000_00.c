@@ -62,7 +62,7 @@ MsgDisp("Sassa","Alright, we gotta find them all.
 Let's go!");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝ is quite a romantic, huh?)");
+MsgDisp("主人公","(｛Sassa＊＊｝ is quite a romantic, huh?)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

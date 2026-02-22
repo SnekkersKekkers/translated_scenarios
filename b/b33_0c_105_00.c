@@ -170,13 +170,13 @@ ChMotion(5,0,1);
 VoicePlay("B330C10500_05_070");
 MsgDisp("Hiiragi","Me too, please.");
 MsgDisp("主人公","Ehh∋
-｛柊＊＊＊｝ and ｛御影＊＊｝, you guys
+｛Hiiragi＊＊＊｝ and ｛Mikage＊＊｝, you guys
 don't even like instant noodles, do you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10500_07_070");
-MsgDisp("Mikage","We also want you to fuss over us. right,
+MsgDisp("Mikage","We also want you to fuss over us. Right,
 Yanosuke?");
 ChEye(5,3);
 ChMouth(5,4);
@@ -191,7 +191,7 @@ VoicePlay("B330C10500_05_090");
 MsgDisp("Hiiragi","Today was a first-prize kind of day right
 until the end.");
 MsgDisp("主人公","(Hehe, I'm glad.
-Seeing ｛柊＊＊＊｝ enjoy himself makes me
+Seeing ｛Hiiragi＊＊＊｝ enjoy himself makes me
 super happy!)");
 BGMStop();
 MsgClose();

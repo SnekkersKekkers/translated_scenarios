@@ -10,13 +10,13 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,4,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝...!");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...!");
 ChMotion(5,0);
 Wait(16,0);
 ChEye(5,4);
 VoicePlay("T020501000_05_010");
 MsgDisp("Hiiragi","Congratulations on your graduation.");
-MsgDisp("主人公","｛柊＊＊＊｝ you too, congratulations on
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ you too, congratulations on
 your graduation.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
@@ -73,7 +73,7 @@ VoicePlay("T020501000_05_070");
 MsgDisp("Hiiragi","My only means of escape was to at the very
 least serve the school by participating in
 student council activities, as atonement.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);
@@ -89,7 +89,7 @@ VoicePlay("T020501000_05_090");
 MsgDisp("Hiiragi","But, you always cared about what I did.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","But...
-I wanted to support ｛柊＊＊＊｝ even
+I wanted to support ｛Hiiragi＊＊＊｝ even
 more, but there was nothing I could do.");
 ChMotion(5,1);
 Wait(30,0);

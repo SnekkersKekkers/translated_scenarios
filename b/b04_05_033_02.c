@@ -80,7 +80,7 @@ affections towards you.");
         MsgDisp("Hiiragi","Nevertheless, I am an actor.
 Please let me act a little cool in front
 of you.");
-        MsgDisp("主人公","｛柊＊＊＊｝...");
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040503302_05_100");

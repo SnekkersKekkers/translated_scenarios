@@ -133,7 +133,7 @@ We need to hurry!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(I can't believe ｛御影＊＊｝ popped
+MsgDisp("主人公","(I can't believe ｛Mikage＊＊｝ popped
 out...haah, I was so surprised.)");
 MsgClose();
 ScrFadeOut(0,0);

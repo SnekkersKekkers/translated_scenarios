@@ -8,7 +8,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("S110100000_01_000");
 MsgDisp("Kazama","...Very Bad Luck.");
-MsgDisp("主人公","｛風真＊＊｝, will you be okay?");
+MsgDisp("主人公","｛Kazama＊＊｝, will you be okay?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

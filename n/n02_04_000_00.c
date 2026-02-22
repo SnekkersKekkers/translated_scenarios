@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("N020400000_04_000");
     MsgDisp("Nanatsumori","Top of the grade?
 Wow.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChMouth(4,4);
     VoicePlay("N020400000_04_010");
     MsgDisp("Nanatsumori","Very cool.");
@@ -23,7 +23,7 @@ I'm glad I did my best!)");
     VoicePlay("N020400000_04_020");
     MsgDisp("Nanatsumori","Eh, top rank∋
 Really...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("N020400000_04_030");
@@ -38,7 +38,7 @@ Hehe, I'm glad I did my best!)");
     ChMouth(4,2);
     VoicePlay("N020400000_04_040");
     MsgDisp("Nanatsumori","Incredible...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("N020400000_04_050");

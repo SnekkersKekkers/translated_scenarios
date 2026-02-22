@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("N020100000_01_000");
     MsgDisp("Kazama","Did you do good?");
     MsgDisp("主人公","Ah, you've come to see the results,
-｛風真＊＊｝?");
+｛Kazama＊＊｝?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -31,7 +31,7 @@ I'm not gonna lose next time either!)");
     VoiceEVSPlay(1);
     VoicePlay("N020100000_01_020");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -58,7 +58,7 @@ I really gave it my all.");
 Just know, I'll be working really hard
 next time.");
     MsgDisp("主人公","(Hehe, I did it!
-｛風真＊＊｝ praised me!)");
+｛Kazama＊＊｝ praised me!)");
     break ;
     case 4:
     case 5:
@@ -71,7 +71,7 @@ next time.");
     VoicePlay("N020100000_01_060");
     MsgDisp("Kazama","｛主人公｝.
 You did it, top rank.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Thank you!");
     ChEye(1,4);
     ChMouth(1,3);
@@ -105,7 +105,7 @@ I'm not gonna lose!");
     VoicePlay("N020100000_01_100");
     MsgDisp("Kazama","Well then, shall we do our best, so we can
 achieve a childhood friends 1-2 finish?");
-    MsgDisp("主人公","(｛風真＊＊｝ praised me!
+    MsgDisp("主人公","(｛Kazama＊＊｝ praised me!
 I'm glad I did my best!)");
     break ;
     default :

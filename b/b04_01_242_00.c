@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040124200_01_000");
 MsgDisp("Kazama","It's different from what I'm used to in
 the kitchen.");
-MsgSel("｛風真＊＊｝, I'm counting on you♪","Camping means BBQ!","It seems super inconvenient and difficult...");
+MsgSel("｛Kazama＊＊｝, I'm counting on you♪","Camping means BBQ!","It seems super inconvenient and difficult...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

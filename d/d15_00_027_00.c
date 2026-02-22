@@ -61,7 +61,7 @@ VoicePlay ( "D150002700_07_040" ) ;
 MsgDisp ( "Mikage","What the...
 Don't scare me like that." ) ;
 MsgDisp ( "主人公","(Hehe.
-｛御影＊＊｝ hid so quickly.)" ) ;
+｛Mikage＊＊｝ hid so quickly.)" ) ;
 BGMStop (  ) ;
 MsgClose (  ) ;
 ScrFadeOut ( 0,0 ) ;

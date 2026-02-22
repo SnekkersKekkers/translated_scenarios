@@ -2,7 +2,7 @@ MsgClose();
 ChClose(5,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh, it looks like ｛柊＊＊＊｝ hasn't
+MsgDisp("主人公","Huh, it looks like ｛Hiiragi＊＊＊｝ hasn't
 arrived yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -71,5 +71,5 @@ VoicePlay("B110500001_05_030");
 MsgDisp("Hiiragi","It's hot, isn't it...
 But ignoring it is probably the best
 course of action.");
-MsgDisp("主人公","(｛柊＊＊＊｝ is amazing huh...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is amazing huh...
 I thought he really couldn't see him.)");

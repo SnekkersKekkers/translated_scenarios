@@ -12,7 +12,7 @@ Wait(40,0);
 ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoicePlay("D010100100_01_000");
 MsgDisp("Kazama","Eh, you're in a pretty good mood, huh?");
-MsgDisp("主人公","｛風真＊＊｝.
+MsgDisp("主人公","｛Kazama＊＊｝.
 There's a really nice breeze right now.");
 SEStop("EV_SE_597",2);
 ChEye(1,4);
@@ -97,7 +97,7 @@ ChMotion(1,1);
 VoicePlay("D010100100_01_070");
 MsgDisp("Kazama","It's windy so I'm closing the window.");
 SEPlay("EV_SE_GAYA_017");
-MsgDisp("主人公","(｛風真＊＊｝ was going to say something
+MsgDisp("主人公","(｛Kazama＊＊｝ was going to say something
 earlier...)");
 SEStop("EV_SE_GAYA_017",1.5);
 BGMStop(2);

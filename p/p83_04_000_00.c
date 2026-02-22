@@ -7,7 +7,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","Alright, and. I finished moving the
+    MsgDisp("主人公","Alright. I finished moving the
 chairs, so what should I carry, and where
 do I carry it to next...?");
     MsgClose();
@@ -19,7 +19,7 @@ do I carry it to next...?");
     VoicePlay("P830400000_04_000");
     MsgDisp("Nanatsumori","Yo.
 Busy?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Yeah, super busy.");
     ChEye(4,2);
     ChMouth(4,3);
@@ -51,7 +51,7 @@ do I carry it to next...?");
     VoicePlay("P830400000_04_030");
     MsgDisp("Nanatsumori","Yo.
 Thanks for your hard work.");
-    MsgDisp("主人公","｛七ツ森＊｝.
+    MsgDisp("主人公","｛Nanatsumori＊｝.
 Sorry, I'm a bit busy right now...");
     ChEye(4,2);
     ChMouth(4,3);

@@ -23,7 +23,7 @@ ChMotion(2,4);
 VoicePlay("X210200000_02_020");
 MsgDisp("Sassa","Well, but I'm a little frustrated.");
 MsgDisp("主人公","Eh...
-｛颯砂＊＊｝ also wanted...?");
+｛Sassa＊＊｝ also wanted...?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);

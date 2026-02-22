@@ -12,7 +12,7 @@ ChMotion(6,0);
 VoicePlay("B150600500_06_010");
 MsgDisp("Himuro","Until now, I had been one-sidedly pushing
 my demands onto you.");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -44,7 +44,7 @@ ChMotion(6,0);
 VoicePlay("B150600500_06_060");
 MsgDisp("Himuro","Would you be okay with anyone?");
 MsgDisp("主人公","That's not true, it's because it's
-｛氷室＊＊｝.");
+｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -72,6 +72,6 @@ Then, I'm going home...see you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 SEWait();
-MsgDisp("主人公","(｛氷室＊＊｝...)");
+MsgDisp("主人公","(｛Himuro＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

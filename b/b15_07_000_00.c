@@ -27,7 +27,7 @@ VoicePlay("B150700000_07_030");
 MsgDisp("Mikage","Haaa..
 Don't overdo it.
 You'll shatter my image of Miss Diligent.");
-MsgDisp("主人公","I wanted to touch ｛御影＊＊｝...");
+MsgDisp("主人公","I wanted to touch ｛Mikage＊＊｝...");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -50,6 +50,6 @@ Well, do as you like.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(｛御影＊＊｝...seems a bit troubled.)");
+MsgDisp("主人公","(｛Mikage＊＊｝...seems a bit troubled.)");
 MsgClose();
 ScrFadeOut(0,0);

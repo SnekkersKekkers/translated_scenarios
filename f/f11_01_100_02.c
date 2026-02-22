@@ -5,7 +5,7 @@ ChOpen(1,254,0,2,1,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F110110002_01_000");
 MsgDisp("Kazama","Hah...");
-MsgDisp("主人公","｛風真＊＊｝, are you okay?
+MsgDisp("主人公","｛Kazama＊＊｝, are you okay?
 You look tired.");
 ChMouth(1,2);
 ChMotion(1,0);
@@ -22,7 +22,7 @@ ChMotion(1,3);
 VoicePlay("F110110002_01_020");
 MsgDisp("Kazama","Shut up.
 Come on, let's go.");
-MsgDisp("主人公","But, ｛風真＊＊｝, haven't you seen
+MsgDisp("主人公","But, ｛Kazama＊＊｝, haven't you seen
 everything already?");
 ChEye(1,0);
 ChMouth(1,2);

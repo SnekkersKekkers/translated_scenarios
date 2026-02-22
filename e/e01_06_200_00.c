@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I think I'll head home now.
 ...Huh?)");
-MsgDisp("主人公","｛氷室＊＊｝! ｛柊＊＊＊｝!");
+MsgDisp("主人公","｛Himuro＊＊｝! ｛Hiiragi＊＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);

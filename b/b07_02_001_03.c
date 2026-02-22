@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛颯砂＊＊｝ has gotten really popular
+MsgDisp("主人公","｛Sassa＊＊｝ has gotten really popular
 lately, huh?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -29,13 +29,13 @@ VoicePlay("B070200001_02_170");
 MsgDisp("Sassa","You know how I get so into it.
 It can make the people around me kind of
 uncomfortable...");
-MsgDisp("主人公","｛颯砂＊＊｝...?");
+MsgDisp("主人公","｛Sassa＊＊｝...?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200001_02_180");
 MsgDisp("Sassa","An old story.");
-MsgDisp("主人公","(｛颯砂＊＊｝...)");
+MsgDisp("主人公","(｛Sassa＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

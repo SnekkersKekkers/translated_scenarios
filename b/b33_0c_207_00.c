@@ -60,7 +60,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B330C20700_05_020");
 MsgDisp("Hiiragi","I see...
 I'm happy.");
-MsgDisp("主人公","｛柊＊＊＊｝, you haven't been to theme
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, you haven't been to theme
 parks much have you?");
 ChEye(7,0);
 ChMouth(7,4);
@@ -92,7 +92,7 @@ ChClose(7,0,30);
 ChClose(6,0,30);
 VoicePlay("B330C20700_05_040");
 MsgDisp("Hiiragi","Mikage-sensei, do not push yourself.");
-MsgDisp("主人公","That's good, ｛柊＊＊＊｝.
+MsgDisp("主人公","That's good, ｛Hiiragi＊＊＊｝.
 I'll go too.");
 MsgClose();
 ChEye(5,4);
@@ -115,7 +115,7 @@ ChMotion(5,4);
 VoicePlay("B330C20700_05_060");
 MsgDisp("Hiiragi","I wonder if those two will get mad?");
 MsgDisp("主人公","(Hehe!
-｛柊＊＊＊｝ looks like he's having fun.)");
+｛Hiiragi＊＊＊｝ looks like he's having fun.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

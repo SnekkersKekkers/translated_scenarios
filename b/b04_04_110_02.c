@@ -41,7 +41,7 @@ So you like swimming?");
         VoicePlay("B040411002_04_030");
         MsgDisp("Nanatsumori","...I've been defeated.");
         MsgDisp("主人公","Are you not good at swimming,
-｛七ツ森＊｝?");
+｛Nanatsumori＊｝?");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);
@@ -100,7 +100,7 @@ two-person slide∋");
         VoicePlay("B040411002_04_110");
         MsgDisp("Nanatsumori","Alright.
 Shall we go then...");
-        MsgDisp("主人公","(｛七ツ森＊｝ seems to be fired up?)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝ seems to be fired up?)");
         break ;
         default :
         DbgAssert(1);

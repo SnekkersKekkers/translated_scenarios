@@ -38,7 +38,7 @@ open.");
     VoicePlay("I660800004_08_030");
     MsgDisp("Shirahane","Amazin'...
 Will ya teach me your techniques?");
-    MsgDisp("主人公","(｛大地＊＊｝ praised me!
+    MsgDisp("主人公","(｛Daichi＊＊｝ praised me!
 Let's keep doing our best!)");
     break ;
     case 4:
@@ -84,7 +84,7 @@ So we should clean it well, right?");
     MsgDisp("Shirahane","You're a real master of service.
 Good!");
     MsgDisp("主人公","(Yay!
-｛大地＊＊｝ praised me!)");
+｛Daichi＊＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

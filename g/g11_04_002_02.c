@@ -2,7 +2,7 @@ BGOpen("ne100",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I just want to collect more and more
 fashion items...)");
-MsgDisp("主人公","(Ah...maybe I can find ｛七ツ森＊｝ at
+MsgDisp("主人公","(Ah...maybe I can find ｛Nanatsumori＊｝ at
 the coffee shop?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -33,7 +33,7 @@ VoicePlay("G110400202_04_010");
 MsgDisp("Nanatsumori","Are you checking out new items today?");
 MsgDisp("主人公","Absolutely!
 I was wondering if you were here too,
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("G110400202_04_020");
@@ -60,7 +60,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G110400202_04_050");
 MsgDisp("Nanatsumori","Yeah.");
-MsgDisp("主人公","(｛七ツ森＊｝, what kind of websites are
+MsgDisp("主人公","(｛Nanatsumori＊｝, what kind of websites are
 you checking...)");
 while (1){
     RunEverydaySksp(4,0,0,0,0,1);
@@ -91,7 +91,7 @@ Do you want to look at new items while
 drinking coffee together?");
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(I got to look at new items on the
-internet with ｛七ツ森＊｝!)");
+internet with ｛Nanatsumori＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

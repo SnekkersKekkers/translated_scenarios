@@ -75,7 +75,7 @@ MsgDisp("Honda","I'm glad...
 Once the sun completely sets, can I walk
 you home?");
 MsgDisp("主人公","Sure.
-Thank you, ｛本多＊＊｝.");
+Thank you, ｛Honda＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

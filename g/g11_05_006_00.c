@@ -8,13 +8,13 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 VoicePlay("G110500600_05_000");
 MsgDisp("Hiiragi","Greetings.
 Ah, want to use one of the canvas' today?");
 MsgDisp("主人公","Hm, I wasn't sure yet...
-Will you, ｛柊＊＊＊｝?");
+Will you, ｛Hiiragi＊＊＊｝?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("G110500600_05_010");
@@ -24,7 +24,7 @@ See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝ is as busy as ever.
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is as busy as ever.
 Speaking of, I just noticed the drawing he
 made earlier...)");
 MsgClose();
@@ -92,7 +92,7 @@ VoicePlay("G110500600_05_070");
 MsgDisp("Hiiragi","Okay, I'll look forward to it and cheer
 you on from the window.");
 MsgDisp("主人公","Huh?
-｛柊＊＊＊｝, I would get nervous if you
+｛Hiiragi＊＊＊｝, I would get nervous if you
 were watching me draw.");
 ChEye(5,1);
 ChEye(5,0);
@@ -109,7 +109,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","(｛柊＊＊＊｝...are you going to see me
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...are you going to see me
 anyways?)");
 BGMStop();
 MsgClose();

@@ -8,7 +8,7 @@ VoicePlay("T020601000_06_250");
 MsgDisp("Himuro","Ha∋
 Wait...!");
 MsgDisp("主人公","Do you get it now?
-I also like ｛氷室＊＊｝!");
+I also like ｛Himuro＊＊｝!");
 VoicePlay("T020601000_06_260");
 ChEye(6,3);
 ChMouth(6,0);

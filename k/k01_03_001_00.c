@@ -11,7 +11,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛本多＊＊｝.");
+    MsgDisp("主人公","｛Honda＊＊｝.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,0,1);
@@ -34,7 +34,7 @@ Thank you!");
     MsgDisp("主人公","Hehe, go ahead and open it.");
     break ;
     case 3:
-    MsgDisp("主人公","｛本多＊＊｝.");
+    MsgDisp("主人公","｛Honda＊＊｝.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4);
@@ -62,7 +62,7 @@ It feels special.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛本多＊＊｝.");
+    MsgDisp("主人公","｛Honda＊＊｝.");
     ChEye(3,1);
     ChMouth(3,0);
     ChMotion(3,1);

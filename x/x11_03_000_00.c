@@ -11,7 +11,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Oh, I heard.
 I heard the baseball team won the game?
 Congratulations!");
-    MsgDisp("主人公","｛本多＊＊｝, thank you.");
+    MsgDisp("主人公","｛Honda＊＊｝, thank you.");
     MsgDisp("主人公","(Yeah, I'm glad I did my best ...!)");
     break ;
     case 4:
@@ -24,7 +24,7 @@ Congratulations!");
     MsgDisp("Honda","The baseball team, I heard they won
 dramatically.
 It was talked about in class.");
-    MsgDisp("主人公","｛本多＊＊｝.
+    MsgDisp("主人公","｛Honda＊＊｝.
 Yes, we did!");
     ChEye(3,3);
     ChMouth(3,3);
@@ -33,7 +33,7 @@ Yes, we did!");
     MsgDisp("Honda","Dang, that's a good one! I'm sure it was
 because of that smile, I'm betting the
 players were able to do their best, too.");
-    MsgDisp("主人公","(I was praised by ｛本多＊＊｝!)");
+    MsgDisp("主人公","(I was praised by ｛Honda＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

@@ -11,7 +11,7 @@ ChNanaType(1);
 ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("G110400702_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
 MsgClose();
 ScrFadeOut(0);
@@ -28,7 +28,7 @@ ScrFadeIn(0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G110400702_04_010");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","(｛七ツ森＊｝ is intensely looking at his
+MsgDisp("主人公","(｛Nanatsumori＊｝ is intensely looking at his
 phone.)");
 MsgDisp("主人公","(I wonder what he's looking at...)");
 while (1){
@@ -63,7 +63,7 @@ ChEye(4,1);
 ChMouth(4,1);
 MsgDisp("Nanatsumori","Don't take it so seriously...");
 MsgDisp("主人公","Really?
-｛七ツ森＊｝, you're so cool.");
+｛Nanatsumori＊｝, you're so cool.");
 VoicePlay("G110400702_04_070");
 ChMouthOpenLevel(4,0);
 ChCheek(4,8);

@@ -13,7 +13,7 @@ VoicePlay("E010230200_07_000");
 MsgDisp("Mikage","Ohh, it's you this time.
 Today's the day I run into all the funny
 ones.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝, hello.
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝, hello.
 Hum, what do you mean by \"funny ones\"...?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -38,7 +38,7 @@ VoicePlay("E010230200_02_010");
 MsgDisp("Sassa","Oh, that's right, I got food advice from
 Mikage-sensei.");
 MsgDisp("主人公","I see.
-｛御影＊＊｝, you're a vegetable expert!");
+｛Mikage＊＊｝, you're a vegetable expert!");
 ChMouth(2,5);
 ChEye(7,0);
 ChMouth(7,0);
@@ -119,7 +119,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("E010230200_02_050");
 MsgDisp("Sassa","Ah, uh, see you...!");
-MsgDisp("主人公","Ah, goodbye, ｛御影＊＊｝.");
+MsgDisp("主人公","Ah, goodbye, ｛Mikage＊＊｝.");
 ChPosition(2,0);
 Wait(60,0);
 ChEye(2,2);

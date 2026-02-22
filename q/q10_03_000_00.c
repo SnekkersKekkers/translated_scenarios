@@ -41,7 +41,7 @@ VoicePlay("Q100300000_03_040");
 MsgDisp("Honda","Coming together would be impossible, but
 maybe passing each other on the bridge or
 something?");
-MsgDisp("主人公","｛本多＊＊｝...
+MsgDisp("主人公","｛Honda＊＊｝...
 Are you telling romantic stories today?");
 ChEye(3,4);
 ChMouth(3,3);
@@ -80,7 +80,7 @@ MsgDisp("Honda","Then, you praised me for being romantic.
 I did it!");
 MsgDisp("主人公","(So you're always thinking about me while
 talking...
-Thank you, ｛本多＊＊｝)");
+Thank you, ｛Honda＊＊｝)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3);

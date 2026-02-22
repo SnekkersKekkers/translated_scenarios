@@ -7,7 +7,7 @@ switch (MsgSelRsltGet()){
     MsgDisp("Mikage","Oh, well, I'm counting on you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(｛御影＊＊｝ said that we are going to go
+    MsgDisp("主人公","(｛Mikage＊＊｝ said that we are going to go
 out together to have fun ...It's like a
 date, but a little more exciting!)");
     break ;

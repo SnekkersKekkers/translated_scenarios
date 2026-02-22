@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040520002_05_000");
 MsgDisp("Hiiragi","T-The wind is strong, huh...");
-MsgSel("｛柊＊＊＊｝, are you alright?","We should take a lift down after all","Let's glide down slowly.");
+MsgSel("｛Hiiragi＊＊＊｝, are you alright?","We should take a lift down after all","Let's glide down slowly.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -53,7 +53,7 @@ take the lift back.");
         MsgClose();
         SEPlay("EV_SE_536");
         ChClose(5,0,30);
-        MsgDisp("主人公","Ah, ｛柊＊＊＊｝!");
+        MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!");
         VoicePlay("B040520002_05_060");
         MsgDisp("Hiiragi","Uuwahhー!");
         MsgClose();
@@ -92,7 +92,7 @@ and started laughing.");
         VoicePlay("B040520002_05_100");
         MsgDisp("Hiiragi","If you believe in me, I feel like I can do
 anything.");
-        MsgDisp("主人公","(｛柊＊＊＊｝, who does even the things
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, who does even the things
 he's bad at earnestly is so cool...)");
         break ;
         default :

@@ -27,7 +27,7 @@ VoicePlay("G020530101_05_040");
 MsgDisp("Hiiragi","I have to work hard and shine brightly,
 too.
 I'd be sad if you didn't notice me.");
-MsgDisp("主人公","｛柊＊＊＊｝?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020530101_05_050");
@@ -36,7 +36,7 @@ It's only going to increase more and more,
 you know?");
 MsgDisp("主人公","(Recently I've made more friends and more
 acquaintances...
-｛柊＊＊＊｝, you're exaggerating.)");
+｛Hiiragi＊＊＊｝, you're exaggerating.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

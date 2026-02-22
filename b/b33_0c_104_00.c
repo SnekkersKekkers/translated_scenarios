@@ -44,7 +44,7 @@ ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C10400_06_020");
 MsgDisp("Himuro","How predictable.");
-MsgDisp("主人公","Hey, ｛氷室＊＊｝, you chose autumn.");
+MsgDisp("主人公","Hey, ｛Himuro＊＊｝, you chose autumn.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -136,8 +136,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10400_07_060");
 MsgDisp("Mikage","What's up with you two?");
-MsgDisp("主人公","(Hehe, ｛御影＊＊｝ is being put on the
-spot. I wonder who ｛御影＊＊｝ wants
+MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝ is being put on the
+spot. I wonder who ｛Mikage＊＊｝ wants
 to see the fireflies with?)");
 BGMStop();
 MsgClose();

@@ -44,7 +44,7 @@ MsgDisp("Hikaru","Right, right!
 I occasionally heard that a first year was
 reading library books!");
 MsgDisp("主人公","(Amazing!
-Like I thought, ｛本多＊＊｝ really likes
+Like I thought, ｛Honda＊＊｝ really likes
 to study...)");
 BGMStop();
 MsgClose();

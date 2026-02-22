@@ -17,7 +17,7 @@ Thank you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ seemed happy.
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seemed happy.
 Thank goodness.)");
     break ;
     case 3:
@@ -55,7 +55,7 @@ I shall have a taste of it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ seemed happy.
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seemed happy.
 Thank goodness...)");
     break ;
     case 4:
@@ -101,7 +101,7 @@ Thank you very much.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ seems happy.
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems happy.
 But he might be a little confused about
 Valentine's Day?)");
     break ;

@@ -56,7 +56,7 @@ That's not a bad thing, though.");
         MsgDisp("Sassa","The strong one always wins.
 Land or sea makes no difference.
 That's what winning truly means.");
-        MsgDisp("主人公","｛颯砂＊＊｝?");
+        MsgDisp("主人公","｛Sassa＊＊｝?");
         ChEye(2,4);
         ChMouth(2,4);
         ChMotion(2,1);
@@ -64,7 +64,7 @@ That's what winning truly means.");
         MsgDisp("Sassa","Because I'm blessed with this body, I need
 to use it efficiently to my advantage and
 win.");
-        MsgDisp("主人公","(｛颯砂＊＊｝ always has competition on his
+        MsgDisp("主人公","(｛Sassa＊＊｝ always has competition on his
 mind...)");
         break ;
         default :

@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("L060300000_03_000");
 MsgDisp("Honda","Ah, I found you.");
-MsgDisp("主人公","｛本多＊＊｝, what's up?");
+MsgDisp("主人公","｛Honda＊＊｝, what's up?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);

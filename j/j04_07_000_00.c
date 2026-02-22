@@ -3,7 +3,7 @@ BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, ｛御影＊＊｝, what are you doing?");
+MsgDisp("主人公","Oh, ｛Mikage＊＊｝, what are you doing?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -16,7 +16,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("J040700000_07_010");
 MsgDisp("Mikage","So, you...");
-MsgDisp("主人公","Ah, ｛御影＊＊｝.
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Is there somewhere you want to go?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -41,7 +41,7 @@ I'll see you later.");
     MsgClose();
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(｛御影＊＊｝ I guess I should have kept
+    MsgDisp("主人公","(｛Mikage＊＊｝ I guess I should have kept
 him company...)");
     MsgClose();
     ScrFadeOut(0,0);

@@ -1,7 +1,7 @@
 ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Next up I have class with ｛御影＊＊｝.
+MsgDisp("主人公","(Next up I have class with ｛Mikage＊＊｝.
 Let's stop by the science preparation
 room.)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE");
@@ -12,7 +12,7 @@ SEPlay("EV_SE_DOOR_024");
 SEWait();
 VoicePlay("F100710002_07_000");
 MsgDisp("Mikage","Ah, yes...");
-MsgDisp("主人公","｛御影＊＊｝?");
+MsgDisp("主人公","｛Mikage＊＊｝?");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 MsgClose();
@@ -23,7 +23,7 @@ ScrFadeIn(0);
 VoicePlay("F100710002_07_010");
 MsgDisp("Mikage","O-Oh.
 Welcome...");
-MsgDisp("主人公","｛御影＊＊｝?
+MsgDisp("主人公","｛Mikage＊＊｝?
 Those clothes...");
 ChEye(7,2);
 ChMouth(7,0);
@@ -38,7 +38,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("F100710002_07_030");
 MsgDisp("Mikage","Other than this, I only wear overalls");
 MsgDisp("主人公","Eh? We have class in the science room
-next, ｛御影＊＊｝, don't you normally
+next, ｛Mikage＊＊｝, don't you normally
 wear overalls?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -58,7 +58,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoicePlay("F100710002_07_060");
 MsgDisp("Mikage","That was a narrow escape from death.");
-MsgDisp("主人公","(But, ｛御影＊＊｝ also looked good in
+MsgDisp("主人公","(But, ｛Mikage＊＊｝ also looked good in
 his casual clothes.)");
 BGMStop();
 MsgClose();

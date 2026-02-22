@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     VoiceEVSPlay(1);
     VoicePlay("H380100000_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -27,7 +27,7 @@ If it's you, you'll win it all in just a
 single point!");
     MsgDisp("主人公","(Alright!
 Let's do our best, to show off to
-｛風真＊＊｝ too!)");
+｛Kazama＊＊｝ too!)");
     break ;
     case 4:
     case 5:
@@ -37,7 +37,7 @@ Let's do our best, to show off to
     VoiceEVSPlay(1);
     VoicePlay("H380100000_01_030");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Did you come to cheer me on?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -62,7 +62,7 @@ I'm saying?");
 So, make sure you won't have any regrets.");
     MsgDisp("主人公","Yeah.
 It's reassuring just having you here,
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -71,7 +71,7 @@ It's reassuring just having you here,
 I'll pick up you later with the best
 reaction.");
     MsgDisp("主人公","(Alright.
-Let's do our best, for ｛風真＊＊｝ too!)");
+Let's do our best, for ｛Kazama＊＊｝ too!)");
     break ;
     default :
     DbgAssert(1);

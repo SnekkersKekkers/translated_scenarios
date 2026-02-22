@@ -58,7 +58,7 @@ ChMotion(3,0,1);
 VoiceEVSPlay(3);
 VoicePlay("B140300100_03_060");
 MsgDisp("Honda","｛主人公｝, Merry Christmas.");
-MsgDisp("主人公","Merry Christmas, ｛本多＊＊｝.");
+MsgDisp("主人公","Merry Christmas, ｛Honda＊＊｝.");
 MsgDisp("主人公","(I'm so happy...)");
 BGMStop();
 MsgClose();

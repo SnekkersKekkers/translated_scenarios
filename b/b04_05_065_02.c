@@ -84,7 +84,7 @@ If, from now on too──");
         VoicePlay("B040506502_05_080");
         MsgDisp("Hiiragi","...I'll continue next time.
 Definitely.");
-        MsgDisp("主人公","(｛柊＊＊＊｝...
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 I wonder what you were going to say...)");
         break ;
         default :

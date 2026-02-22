@@ -21,4 +21,4 @@ MsgDisp("Hiiragi","As a matter of fact, it's become second
 nature to me to associate you with
 fashion. It may just be clothes, but you
 are amazing.");
-MsgDisp("主人公","(｛柊＊＊＊｝ seems to really like this!");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to really like this!");

@@ -19,4 +19,4 @@ VoicePlay("B020402103_04_010");
 MsgDisp("Nanatsumori","Ahh, so that's it. Then wear it with
 confidence. Won't you charm me with your
 mature fashion?");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to have liked it.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to have liked it.)");

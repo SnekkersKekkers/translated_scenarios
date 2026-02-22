@@ -4,7 +4,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("H6G0700000_07_000");
 MsgDisp("Mikage","Yo, congrats.");
-MsgDisp("主人公","｛御影＊＊｝?
+MsgDisp("主人公","｛Mikage＊＊｝?
 By congrats, you mean...");
 VoicePlay("H6G0700000_07_010");
 ChEye(7,0);
@@ -39,7 +39,7 @@ MsgDisp("Mikage","You and your bandmates worked hard
 together, right? The moment your hard work
 pays off is the best. Isn't it nice?");
 MsgDisp("主人公","Yes, it makes me really happy!");
-MsgDisp("主人公","(I'm happy ｛御影＊＊｝ praised me!
+MsgDisp("主人公","(I'm happy ｛Mikage＊＊｝ praised me!
 I'm glad I practiced so hard for brass
 band!)");
 MsgClose();

@@ -6,7 +6,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040224202_02_000");
 MsgDisp("Sassa","There's people who are camping alone huh.");
-MsgSel("It seems fun!","I wonder if they're lonely?","Did ｛颯砂＊＊｝ want to come alone too?");
+MsgSel("It seems fun!","I wonder if they're lonely?","Did ｛Sassa＊＊｝ want to come alone too?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -58,7 +58,7 @@ That's a weird thing to ask.");
         MsgDisp("Sassa","Why?
 Did something happen.");
         MsgDisp("主人公","No.
-It's because ｛颯砂＊＊｝ seemed interested
+It's because ｛Sassa＊＊｝ seemed interested
 in camping alone.");
         ChEye(2,0);
         ChMouth(2,0);

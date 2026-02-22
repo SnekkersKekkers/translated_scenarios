@@ -11,7 +11,7 @@ switch (ChPrmGet(3,6)){
     ChOpen(3,255,1,0,3,#1,#1,0,0);
     VoicePlay("I350300000_03_000");
     MsgDisp("Honda","Ah, you're here.");
-    MsgDisp("主人公","｛本多＊＊｝, what is it?");
+    MsgDisp("主人公","｛Honda＊＊｝, what is it?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -47,7 +47,7 @@ grown next time he comes!)");
     VoiceEVSPlay(3);
     VoicePlay("I350300000_03_050");
     MsgDisp("Honda","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Welcome!");
     ChEye(3,0);
     ChMouth(3,0);
@@ -94,7 +94,7 @@ But...am I really that different here?)");
     VoicePlay("I350300000_03_100");
     MsgDisp("Honda","｛主人公｝.
 Hello!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝!
 Welcome.");
     ChEye(3,2);
     ChMouth(3,4);
@@ -133,7 +133,7 @@ Some of my power...?");
     VoicePlay("I350300000_03_150");
     MsgDisp("Honda","Yeah, I'm fully charged now!
 Well, keep it up, okay?");
-    MsgDisp("主人公","(｛本多＊＊｝ came to check on me...
+    MsgDisp("主人公","(｛Honda＊＊｝ came to check on me...
 Alright, let's try even harder!)");
     break ;
     default :

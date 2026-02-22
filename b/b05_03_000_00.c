@@ -32,7 +32,7 @@ ScrFadeIn(0);
 VoicePlay("B050300000_03_020");
 MsgDisp("Honda","Here it is.
 My favorite part.");
-MsgDisp("主人公","(｛本多＊＊｝ looks really invested!)");
+MsgDisp("主人公","(｛Honda＊＊｝ looks really invested!)");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("B050300000_03_030");
@@ -48,7 +48,7 @@ VoicePlay("B050300000_03_050");
 MsgDisp("Honda","Wah...");
 MsgDisp("主人公","(Hehe. You can tell what will happen next
 in the movie just by looking at
-｛本多＊＊｝'s face.)");
+｛Honda＊＊｝'s face.)");
 MsgClose();
 ScrFadeOut(0);
 BGMVol(0.5,2);
@@ -61,7 +61,7 @@ MsgClose();
 ChOpen(3,253,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Hehe.
-｛本多＊＊｝ looks like he had a good time.
+｛Honda＊＊｝ looks like he had a good time.
 I'm glad.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -108,7 +108,7 @@ ChMotion(3,1,1);
 VoicePlay("B050300000_03_110");
 MsgDisp("Honda","I guess so. ——Oh, look. The CD is in
 stock. I'll buy it.");
-MsgDisp("主人公","Eh, ｛本多＊＊｝, I thought you didn't like
+MsgDisp("主人公","Eh, ｛Honda＊＊｝, I thought you didn't like
 it...");
 ChEye(3,0);
 ChMouth(3,3);
@@ -123,7 +123,7 @@ BGMStop();
 ChClose(3);
 MsgDisp("主人公","(It wasn't what he expected, but it is
 still a good song...
-That's ｛本多＊＊｝ rating, huh?)");
+That's ｛Honda＊＊｝ rating, huh?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

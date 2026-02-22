@@ -14,7 +14,7 @@ VoicePlay("D010200800_38_000");
 MsgDisp("Members","Yeah!");
 MsgDisp("主人公","(Everyone's working hard...
 Huh?
-Over there, is that ｛颯砂＊＊｝...?)");
+Over there, is that ｛Sassa＊＊｝...?)");
 SEPlay("EV_SE_626");
 MsgClose();
 ScrFadeOut(0);
@@ -25,7 +25,7 @@ StlEye(2,1);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, what's up?");
+MsgDisp("主人公","｛Sassa＊＊｝, what's up?");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200800_02_000");
@@ -43,7 +43,7 @@ StlMouth(2,0);
 VoicePlay("D010200800_02_020");
 MsgDisp("Sassa","It's all thanks to you.");
 MsgDisp("主人公","No, it was a result of all your hard work,
-｛颯砂＊＊｝.");
+｛Sassa＊＊｝.");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200800_02_030");
@@ -107,7 +107,7 @@ VoicePlay("D010200800_02_110");
 MsgDisp("Sassa","I didn't realize until I retired...
 You have goals and dreams too.");
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","It's thanks to ｛颯砂＊＊｝ that I got to
+MsgDisp("主人公","It's thanks to ｛Sassa＊＊｝ that I got to
 experience so many new things.
 Things I would never have done on my own.");
 ChEye(2,0);
@@ -149,7 +149,7 @@ VoicePlay("D010200800_33_020");
 MsgDisp("Member","Sassa-senpai, it's no problem!");
 VoicePlay("D010200800_44_000");
 MsgDisp("Member","Senpai, please take a look at our form.");
-MsgDisp("主人公","(｛颯砂＊＊｝...
+MsgDisp("主人公","(｛Sassa＊＊｝...
 He worked hard carrying everyone's hopes
 and dreams...)");
 MsgClose();

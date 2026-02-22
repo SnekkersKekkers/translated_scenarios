@@ -6,7 +6,7 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010400000_04_000");
 MsgDisp("Nanatsumori","...Hello.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝?
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝?
 This is ｛主人公｝...");
 VoicePlay("C010400000_04_010");
 MsgDisp("Nanatsumori","I know who this is.
@@ -31,7 +31,7 @@ I'm glad we could make up.
 I think I'll sleep good tonight.");
 MsgDisp("主人公","Ah...
 Were you not sleeping well?
-Then, good night for now, ｛七ツ森＊｝.");
+Then, good night for now, ｛Nanatsumori＊｝.");
 VoicePlay("C010400000_04_050");
 MsgDisp("Nanatsumori","Aa, night.
 See you later.");

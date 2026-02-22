@@ -15,7 +15,7 @@ switch (ChPrmGet(5,6)){
     VoiceEVSPlay(5);
     VoicePlay("H4A0500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝, my congratulations for winning.");
-    MsgDisp("主人公","｛柊＊＊＊｝, thank you!");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you!");
     ChEye(5,3);
     VoicePlay("H4A0500000_05_010");
     MsgDisp("Hiiragi","Everyone in the audience had their eyes
@@ -26,7 +26,7 @@ glued to you.");
     MsgDisp("Hiiragi","...Mine as well.");
     MsgDisp("主人公","Hehe.
 I'm glad I was able to live up to your
-expectations, ｛柊＊＊＊｝.");
+expectations, ｛Hiiragi＊＊＊｝.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("H4A0500000_05_030");

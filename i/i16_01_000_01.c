@@ -14,7 +14,7 @@ Alright, let's wipe it!)");
     ChMouth(1,3);
     VoicePlay("I160100001_01_000");
     MsgDisp("Kazama","Oh, I'm impressed.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 I can't get rid of the dirt on the glass
 well.");
     ChEye(1,2);
@@ -60,7 +60,7 @@ the store's atmosphere.");
     MsgDisp("Kazama","Doing it without being told to...you're
 suited for this work.");
     MsgDisp("主人公","(I did it!
-｛風真＊＊｝ praised me.
+｛Kazama＊＊｝ praised me.
 I'm glad I did my best!)");
     break ;
     default :

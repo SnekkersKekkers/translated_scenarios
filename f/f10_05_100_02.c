@@ -1,7 +1,7 @@
 BGOpen("sc310",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝ is studying hard
+MsgDisp("主人公","(I wonder if ｛Hiiragi＊＊＊｝ is studying hard
 in the library...?
 I'll go check it out.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -96,7 +96,7 @@ meaning of \"past progressive tense.\",
 there's still a long way to go. Please
 continue to help me, teacher.");
 MsgDisp("主人公","(I'm also having fun studying with
-｛柊＊＊＊｝...!)");
+｛Hiiragi＊＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

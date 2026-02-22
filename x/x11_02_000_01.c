@@ -19,7 +19,7 @@ People are talking about it a lot.");
     MsgDisp("Sassa","I told him that I have a very talented
 manager.
 I bragged about it.");
-    MsgDisp("主人公","(I'm glad ｛颯砂＊＊｝ is happy.
+    MsgDisp("主人公","(I'm glad ｛Sassa＊＊｝ is happy.
 Let's continue to do our best in club
 activities!)");
     break ;

@@ -32,7 +32,7 @@ ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("K020601000_06_020");
 MsgDisp("Himuro","It's nothing much.");
-MsgDisp("主人公","Thank you, ｛氷室＊＊｝.");
+MsgDisp("主人公","Thank you, ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -60,7 +60,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
 Wait(30);
-MsgDisp("主人公","(I got to celebrate with ｛氷室＊＊｝...
+MsgDisp("主人公","(I got to celebrate with ｛Himuro＊＊｝...
 This year looks to be a great one!)");
 MsgClose();
 ScrFadeOut(0,0);

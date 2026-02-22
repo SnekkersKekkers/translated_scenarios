@@ -99,7 +99,7 @@ good for us to hold hands.");
         ChMotion(2,2);
         VoicePlay("B040203302_02_110");
         MsgDisp("Sassa","Okay, let's go this way.");
-        MsgDisp("主人公","(｛颯砂＊＊｝, this isn't a haunted house.)");
+        MsgDisp("主人公","(｛Sassa＊＊｝, this isn't a haunted house.)");
         break ;
         default :
         DbgAssert(1);

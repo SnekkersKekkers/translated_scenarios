@@ -25,7 +25,7 @@ SEPlay("EV_SE_GAYA_003",0,0.8);
 SEStop("EV_SE_707",1.5);
 VoicePlay("D010300700_43_010");
 MsgDisp("Moderator","Iku Honda-kun!");
-MsgDisp("主人公","∈ ｛本多＊＊｝∋");
+MsgDisp("主人公","∈ ｛Honda＊＊｝∋");
 VoicePlay("D010300700_43_020");
 MsgDisp("Moderator","Honda-kun, congrats!
 How are you feeling?");
@@ -66,7 +66,7 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 MsgDisp("主人公","(Hehe! It ended in the middle of what he
-was saying. ｛本多＊＊｝ was amazing
+was saying. ｛Honda＊＊｝ was amazing
 though...)");
 MsgDisp("主人公","(I wonder if he'll let me interview him
 for Habatcher?)");
@@ -91,7 +91,7 @@ ChOpen(3,255,1,0,3,#1,#1,0,0);
 VoicePlay("D010300700_03_040");
 MsgDisp("Honda","Sorry for bothering you!");
 MsgDisp("主人公","Ehh∋
-｛本多＊＊｝, what are you doing here?");
+｛Honda＊＊｝, what are you doing here?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -138,7 +138,7 @@ MsgDisp("主人公","(I'm glad he didn't shout my name on TV...
 It would be troublesome when we go back to
 school after break...)");
 MsgDisp("主人公","(Ah! Didn't I want to interview
-｛本多＊＊｝? Quick, let's go after him
+｛Honda＊＊｝? Quick, let's go after him
 while he's still nearby!)");
 SEPlay("EV_SE_DOOR_022");
 SEWait();

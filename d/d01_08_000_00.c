@@ -9,7 +9,7 @@ That voice just now...)");
 MsgClose();
 ChOpen(8,254,0,0,3,#1,#1,0,1);
 ChOpen(9,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","｛大地＊＊｝ and...
+MsgDisp("主人公","｛Daichi＊＊｝ and...
 Kuya-san∋");
 ChEye(8,3);
 ChMouth(8,3);

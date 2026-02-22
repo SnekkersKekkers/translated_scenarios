@@ -16,7 +16,7 @@ VoicePlay("D100710000_07_010");
 MsgDisp("Mikage","Oh, you're right!
 I have to get to the staff room quick.
 See you.");
-MsgDisp("主人公","｛御影＊＊｝, no!
+MsgDisp("主人公","｛Mikage＊＊｝, no!
 You can't go dressed like that.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -44,7 +44,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
 MsgDisp("主人公","(Lately I've been chatting with
-｛御影＊＊｝ a lot but...Does that
+｛Mikage＊＊｝ a lot but...Does that
 really make me look like a wife...)");
 MsgClose();
 ScrFadeOut(0,0);

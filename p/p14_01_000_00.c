@@ -8,7 +8,7 @@ VoicePlay("P140100000_01_000");
 MsgDisp("Kazama","｛主人公｝, that went well!
 The part where everyone came up with the
 optical illusion trick, in particular.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝.
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Really∋");
 ChEye(1,0);
 ChMouth(1,3);

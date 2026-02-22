@@ -65,7 +65,7 @@ like that?");
 Is that okay?");
         MsgDisp("主人公","It's a bit embarrassing but, I don't have
 any hand warmers or anything like that.
-And ｛七ツ森＊｝ is sensitive to the
+And ｛Nanatsumori＊｝ is sensitive to the
 cold.");
         ChEye(4,4);
         ChMouth(4,4);

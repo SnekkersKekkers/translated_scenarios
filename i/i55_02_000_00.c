@@ -6,7 +6,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgDisp("主人公","Welcome!
-Ah, ｛颯砂＊＊｝.");
+Ah, ｛Sassa＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,0,#1,#1,0,0);
@@ -57,7 +57,7 @@ I'll eat anything as long as it's good.");
     MsgDisp("Sassa","Alright, then make it 4 portions.
 I'll try some.");
     MsgDisp("主人公","Understood!");
-    MsgDisp("主人公","(I hope it suits ｛颯砂＊＊｝'s tastes...!)");
+    MsgDisp("主人公","(I hope it suits ｛Sassa＊＊｝'s tastes...!)");
     break ;
     case 3:
     VoicePlay("I550200000_02_070");
@@ -114,12 +114,12 @@ Thanks for the food!");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(｛颯砂＊＊｝...did the small amount of
+    MsgDisp("主人公","(｛Sassa＊＊｝...did the small amount of
 food just serve as an appetizer?)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Welcome.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -168,7 +168,7 @@ lot of single male customers, too.");
     MsgDisp("Sassa","Got it. Then I'll have something to eat.
 Please give me something with volume and
 matcha.");
-    MsgDisp("主人公","(｛颯砂＊＊｝ really cares about my
+    MsgDisp("主人公","(｛Sassa＊＊｝ really cares about my
 part-time job.
 That makes me happy.)");
     break ;

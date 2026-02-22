@@ -12,7 +12,7 @@ ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("P540100004_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝...");
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝...");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -44,7 +44,7 @@ ChMotion(1,0);
 VoicePlay("P540100004_01_040");
 MsgDisp("Kazama","Yes, that's exactly it.
 You really gave it your best.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 MsgDisp("主人公","(Seems like he was super satisfied!
 I'm truly happy I gave my best at the wind
 music club for these last three years.");

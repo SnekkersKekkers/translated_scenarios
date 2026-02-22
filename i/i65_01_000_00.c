@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650100000_01_000");
     MsgDisp("Kazama","I see, so you were the cause.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 What is it?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -27,7 +27,7 @@ What is it?");
     VoicePlay("I650100000_01_020");
     MsgDisp("Kazama","Well, not like I'm one to talk.");
     MsgDisp("主人公","Are you here for gasoline too,
-｛風真＊＊｝?");
+｛Kazama＊＊｝?");
     ChEye(1,2);
     ChMouth(1,0);
     ChMotion(1,1);
@@ -57,7 +57,7 @@ Alright, let's work hard!)");
     ChOpen(1,255,0,0,3,#1,#1,0,0);
     VoicePlay("I650100000_01_050");
     MsgDisp("Kazama","You're energetic.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 What's up?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -94,7 +94,7 @@ octane.");
     VoicePlay("I650100000_01_090");
     MsgDisp("Kazama","Just seeing your smile like this means
 I'll be okay for a while.");
-    MsgDisp("主人公","｛風真＊＊｝?");
+    MsgDisp("主人公","｛Kazama＊＊｝?");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -106,7 +106,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hehe, but I think only ｛風真＊＊｝ could
+    MsgDisp("主人公","(Hehe, but I think only ｛Kazama＊＊｝ could
 be fully refueled with just a smile, you
 know?)");
     break ;
@@ -121,7 +121,7 @@ know?)");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,255,1,1,1,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 What's up?");
     ChEye(1,0);
     ChMouth(1,2);

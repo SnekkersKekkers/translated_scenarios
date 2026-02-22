@@ -115,7 +115,7 @@ anywhere.");
 by the police, I'll take you on a night
 cherry blossom date. If you're okay with
 that, that is.");
-        MsgDisp("主人公","(｛七ツ森＊｝...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :
         DbgAssert(1);

@@ -71,7 +71,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","(I wonder what Goro-sensei is doing with
-｛颯砂＊＊｝...?)");
+｛Sassa＊＊｝...?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -91,7 +91,7 @@ ScrFadeIn(0);
 VoicePlay("B050200300_31_060");
 MsgDisp("Goro","I polished your rough diamond a little▼");
 MsgDisp("主人公","Woah!
-｛颯砂＊＊｝ looks so mature!");
+｛Sassa＊＊｝ looks so mature!");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("B050200300_02_030");
@@ -130,7 +130,7 @@ Wait(90,0);
 VoicePlay("B050200300_02_060");
 MsgDisp("Sassa","Ah.
 Thank you so much...");
-MsgDisp("主人公","(Hehe, ｛颯砂＊＊｝ seems a bit
+MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ seems a bit
 disappointed.
 The suit really made him look cool.)");
 BGMStop();

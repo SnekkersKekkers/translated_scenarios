@@ -21,7 +21,7 @@ You did your best, huh.");
     MsgDisp("Mikage","Sneaking in something that I don't like is
 just like you, and I like that, you know?");
     MsgDisp("主人公","(Huh...?
-Was it not to ｛御影＊＊｝ 's tastes?)");
+Was it not to ｛Mikage＊＊｝ 's tastes?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -50,7 +50,7 @@ right?");
     MsgDisp("Mikage","Then it's okay!
 I'll accept gratefully.");
     MsgDisp("主人公","(Ah, could it be...
-I added something ｛御影＊＊｝ doesn't
+I added something ｛Mikage＊＊｝ doesn't
 like...?)");
     MsgClose();
     BGMStop();

@@ -29,7 +29,7 @@ When we say juniors, for the most part
 they're girls.");
 MsgDisp("主人公","Yeah, they're customers at Simon's.
 They want to hear recommendations from
-｛風真＊＊｝, I think.");
+｛Kazama＊＊｝, I think.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

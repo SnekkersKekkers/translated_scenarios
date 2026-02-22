@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛御影＊＊｝, recently, you're around
-｛柊＊＊＊｝ and ｛氷室＊＊｝ a lot, but
+MsgDisp("主人公","｛Mikage＊＊｝, recently, you're around
+｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ a lot, but
 what sort of things do you talk about?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -22,7 +22,7 @@ VoicePlay("B070700001_07_270");
 MsgDisp("Mikage","He'll also discreetly try to get me to
 reveal information about school events.");
 MsgDisp("主人公","Hehe, how clever.
-That's just like ｛氷室＊＊｝.");
+That's just like ｛Himuro＊＊｝.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -31,8 +31,8 @@ MsgDisp("Mikage","Yeah, but Yanosuke also knows so, he'll
 quietly tell me that he \"added some slight
 misinformation\" on the side.");
 MsgDisp("主人公","Ehhh...
-｛柊＊＊＊｝ is funny.
-Is ｛氷室＊＊｝ fooled?");
+｛Hiiragi＊＊＊｝ is funny.
+Is ｛Himuro＊＊｝ fooled?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

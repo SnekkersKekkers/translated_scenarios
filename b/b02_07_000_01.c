@@ -11,5 +11,5 @@ ChMotion(7,1);
 VoicePlay("B020700001_07_010");
 MsgDisp("Mikage","Yeah.
 You've got good sense, huh?");
-MsgDisp("主人公","(｛御影＊＊｝ seems to like it.
+MsgDisp("主人公","(｛Mikage＊＊｝ seems to like it.
 I'm glad!)");

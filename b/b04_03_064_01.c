@@ -17,7 +17,7 @@ MsgDisp("Honda","Eh? So that's how it wasー. Well, figuring
 it out is part of the battleー.");
 ChEye(3,3);
 ChEyeOpenLevel(3,0);
-MsgDisp("主人公","(Hehe, ｛本多＊＊｝ seems like he's
+MsgDisp("主人公","(Hehe, ｛Honda＊＊｝ seems like he's
 enjoying himself!)");
 MsgClose();
 ScrFadeOut(0);

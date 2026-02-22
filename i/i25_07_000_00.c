@@ -11,7 +11,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("I250700000_07_000");
     MsgDisp("Mikage","A part-time job at a bookstore.
 That's very high school-like.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Is that so?
 I like books, so...");
     ChEye(7,0);
@@ -37,7 +37,7 @@ Keep it up.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(Huh...
-｛御影＊＊｝, didn't you come to look
+｛Mikage＊＊｝, didn't you come to look
 for books?)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -50,7 +50,7 @@ Is that all the new books?)");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Hm, ｛御影＊＊｝?");
+    MsgDisp("主人公","Hm, ｛Mikage＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -66,7 +66,7 @@ Show me how you work for a bit.");
     MsgDisp("Mikage","You can't?");
     VoicePlay("I250700000_42_000");
     MsgDisp("Manager","Help at cash, please!");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝, sorry.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝, sorry.
 Excuse me.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -89,7 +89,7 @@ too?");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(Then, he was half-serious...?
-Does ｛御影＊＊｝ really want a
+Does ｛Mikage＊＊｝ really want a
 part-time job?)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -104,7 +104,7 @@ today.)");
     VoiceEVSPlay(7);
     VoicePlay("I250700000_07_100");
     MsgDisp("Mikage","｛主人公｝, you look busy.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝, welcome.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝, welcome.
 The store is quite busy today.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -114,25 +114,25 @@ The store is quite busy today.");
 Sorry if I bothered you.
 See you.");
     ChClose(7);
-    MsgDisp("主人公","Ah, ｛御影＊＊｝...
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝...
 Thank you very much!");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
     MsgDisp("主人公","(Phew, I'm done.
 The store might finally be calming down.)");
-    MsgDisp("主人公","(｛御影＊＊｝ came all that way just to
+    MsgDisp("主人公","(｛Mikage＊＊｝ came all that way just to
 check on me...)");
     VoicePlay("I250700000_42_010");
     MsgDisp("Manager","Just now, your homeroom teacher came by
 with gifts for everyone.");
     MsgDisp("主人公","Huh?
-｛御影＊＊｝ brought gifts?");
+｛Mikage＊＊｝ brought gifts?");
     VoicePlay("I250700000_42_020");
     MsgDisp("Manager","Yeah, a lot of milk ice cream.
 He got one for me, too.
 Let's hand them out.");
-    MsgDisp("主人公","(Thank you, ｛御影＊＊｝.
+    MsgDisp("主人公","(Thank you, ｛Mikage＊＊｝.
 We'll all eat happily!)");
     MsgClose();
     BGMStop();

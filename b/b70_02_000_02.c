@@ -3,6 +3,6 @@ MsgDisp("主人公","Let's see...
 Let's go again!\"");
 MsgDisp("主人公","(Good!
 Today, I feel I got a lot closer with
-｛颯砂＊＊｝!)");
+｛Sassa＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

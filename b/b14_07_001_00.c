@@ -48,7 +48,7 @@ ChEye(7,1);
 ChOpen(7,255,0,0,0,#1,#1,0,0,0,30);
 SEWait();
 MsgDisp("主人公","Eh...
-｛御影＊＊｝?");
+｛Mikage＊＊｝?");
 ChEye(7,1);
 ChMouth(7,4);
 VoicePlay("B140700100_07_040");
@@ -60,7 +60,7 @@ ChMotion(7,0,1);
 VoicePlay("B140700100_07_050");
 MsgDisp("Mikage","Hm?");
 MsgDisp("主人公","I forgot to return the jacket to
-｛御影＊＊｝ yesterday...");
+｛Mikage＊＊｝ yesterday...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -80,7 +80,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B140700100_07_070");
 MsgDisp("Mikage","You can return it next time.");
-MsgDisp("主人公","(｛御影＊＊｝ patted my head...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ patted my head...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

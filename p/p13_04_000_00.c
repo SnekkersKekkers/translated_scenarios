@@ -18,7 +18,7 @@ gathering...)");
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P130400000_04_000");
     MsgDisp("Nanatsumori","Cow...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝. It's a maze with
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝. It's a maze with
 Mikage-sensei's family cow, Molly! Won't
 you try it?");
     VoicePlay("P130400000_04_010");
@@ -44,7 +44,7 @@ to drink freshly squeezed milk～");
     ChOpen(4,254,0,3,3,#1,#1,0,0,0,60);
     VoicePlay("P130400000_04_030");
     MsgDisp("Nanatsumori","That sort of flair...is super interesting.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 This is a maze for the cow, Molly.
 By all means, please enter～!");
     ChEye(4,3);

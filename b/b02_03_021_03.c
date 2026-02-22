@@ -14,5 +14,5 @@ MsgDisp("Honda","Yeah, really stylish!
 It could be because it's so mature?
 But it makes my heart flutter!");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like this!)");
+｛Honda＊＊｝ seems to like this!)");
 ChCheek(3,0);

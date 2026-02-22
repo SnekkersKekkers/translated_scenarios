@@ -28,7 +28,7 @@ ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110400100_04_000");
 MsgDisp("Nanatsumori","Ah...");
-MsgDisp("主人公","｛七ツ森＊｝.
+MsgDisp("主人公","｛Nanatsumori＊｝.
 Are you working today?");
 VoicePlay("G110400100_04_010");
 MsgDisp("Nanatsumori","Yeah.
@@ -44,7 +44,7 @@ MsgDisp("Nanatsumori","We don't have any more, but do you wanna
 hear my review on it?");
 MsgDisp("主人公","Huh?
 Could it be that you already,
-｛七ツ森＊｝...");
+｛Nanatsumori＊｝...");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2);
@@ -67,7 +67,7 @@ VoicePlay("G110400100_04_070");
 MsgDisp("Nanatsumori","No problem.
 I look forward to your review then.");
 MsgDisp("主人公","(Huh, a review? In any case, that's
-impressive, ｛七ツ森＊｝. You got here
+impressive, ｛Nanatsumori＊｝. You got here
 fast...!)");
 BGMStop();
 MsgClose();

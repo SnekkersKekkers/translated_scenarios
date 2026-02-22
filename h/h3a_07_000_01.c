@@ -13,7 +13,7 @@ switch (ChPrmGet(7,6)){
     VoiceEVSPlay(7);
     VoicePlay("H3A0700001_07_000");
     MsgDisp("Mikage","｛主人公｝, good work.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝...
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝...
 I lost.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -30,14 +30,14 @@ Were you watching properly?");
 Seems to me like you're strong, beautiful
 and the winner of a fair fight.");
     MsgDisp("主人公","Hic...
-｛御影＊＊｝...");
+｛Mikage＊＊｝...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("H3A0700001_07_030");
     MsgDisp("Mikage","Come on, come on, don't make that face.");
     MsgDisp("主人公","Okay...");
-    MsgDisp("主人公","(｛御影＊＊｝ is so nice...
+    MsgDisp("主人公","(｛Mikage＊＊｝ is so nice...
 But since I was able to come this far, I
 really wanted to win...)");
     break ;

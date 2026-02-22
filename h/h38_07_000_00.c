@@ -6,7 +6,7 @@ VoiceEVSPlay(7);
 VoicePlay("H380700000_07_000");
 MsgDisp("Mikage","｛主人公｝, making it to the Interhigh
 tournament is amazing.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝!
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Did you come to support me?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -38,7 +38,7 @@ VoicePlay("H380700000_07_040");
 MsgDisp("Mikage","Hm?
 Shouldn't you be saying \"OSSU!\"
 ? Or is that in karate?");
-MsgDisp("主人公","(Hehe, thanks to ｛御影＊＊｝, I feel a
+MsgDisp("主人公","(Hehe, thanks to ｛Mikage＊＊｝, I feel a
 lot more relaxed...
 Alright, let's aim to win...!)");
 BGMStop();

@@ -8,7 +8,7 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("F100410002_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChEye(4,2);
 VoicePlay("F100410002_04_010");
 MsgDisp("Nanatsumori","You're making such a scary face, what's
@@ -23,7 +23,7 @@ VoicePlay("F100410002_04_020");
 MsgDisp("Nanatsumori","Scary.
 Did you awaken your occult powers?");
 MsgDisp("主人公","Hey...
-Hey, ｛七ツ森＊｝.
+Hey, ｛Nanatsumori＊｝.
 You still have your commuter pass, right?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -56,7 +56,7 @@ SEPlay("EV_SE_SCHOOL_002");
 Wait(30,0);
 MsgDisp("主人公","It's about time to go back to the
 classroom.
-Let's go, ｛七ツ森＊｝!");
+Let's go, ｛Nanatsumori＊｝!");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -69,8 +69,8 @@ ChClose(4,0,30);
 SEPlay("EV_SE_642",0,0.6);
 MsgDisp("主人公","...Ah∈");
 MsgDisp("主人公","A commuter pass has fallen where
-｛七ツ森＊｝ was standing...
-｛七ツ森＊｝ ∈");
+｛Nanatsumori＊｝ was standing...
+｛Nanatsumori＊｝ ∈");
 MsgDisp("主人公","(Why on earth does he drop it every
 time～∋)");
 SEStop("EV_SE_SCHOOL_002",1);

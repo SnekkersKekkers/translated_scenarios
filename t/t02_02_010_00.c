@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,7,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝...
+MsgDisp("主人公","｛Sassa＊＊｝...
 What are you doing here?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -44,7 +44,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("T020201000_02_050");
 MsgDisp("Sassa","But I don't put in any effort.
 I just like it and it's fun, that's all.");
-MsgDisp("主人公","It's so ｛颯砂＊＊｝ -like.
+MsgDisp("主人公","It's so ｛Sassa＊＊｝ -like.
 That's amazing.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -63,7 +63,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020201000_02_080");
 MsgDisp("Sassa","...That's easy.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -113,7 +113,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020201000_02_150");
 MsgDisp("Sassa","I realized that that was the real me.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);

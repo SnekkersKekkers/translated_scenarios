@@ -15,7 +15,7 @@ What should I do, I'm so nervous...)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530600000_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -71,7 +71,7 @@ What should I do, I'm so nervous...)");
     ChOpen(6,254,2,0,0,0,#1,0,0);
     VoicePlay("P530600000_06_060");
     MsgDisp("Himuro","Just as I thought.");
-    MsgDisp("主人公","Eh, ｛氷室＊＊｝?
+    MsgDisp("主人公","Eh, ｛Himuro＊＊｝?
 What are you doing here?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -113,7 +113,7 @@ Thank you.");
     MsgDisp("Himuro","Yeah.
 I'll listen from here.
 ...Do your best.");
-    MsgDisp("主人公","(｛氷室＊＊｝...
+    MsgDisp("主人公","(｛Himuro＊＊｝...
 Alright, good luck!)");
     MsgClose();
     ScrFadeOut(0,0);

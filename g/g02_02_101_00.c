@@ -39,7 +39,7 @@ ChMotion(2,0);
 VoicePlay("G020210100_02_050");
 MsgDisp("Sassa","Compared to them, I'm just the serious
 one, right?");
-MsgDisp("主人公","｛颯砂＊＊｝ is also a funny superman.");
+MsgDisp("主人公","｛Sassa＊＊｝ is also a funny superman.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -67,7 +67,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210100_02_090");
 MsgDisp("Sassa","Ah, sorry, sorry.");
-MsgDisp("主人公","(｛颯砂＊＊｝ also has his own individual
+MsgDisp("主人公","(｛Sassa＊＊｝ also has his own individual
 charm though.)");
 BGMStop();
 MsgClose();

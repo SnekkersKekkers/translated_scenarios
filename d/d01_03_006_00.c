@@ -9,7 +9,7 @@ Wait(15,0);
 VoicePlay("D010300600_03_000");
 MsgDisp("Honda?","Ahh!");
 MsgDisp("主人公","Eh...
-｛本多＊＊｝, are you okay∋");
+｛Honda＊＊｝, are you okay∋");
 MsgClose();
 ChOpen(3,35,4,2,4,#1,#1,3,0);
 VoicePlay("D010300600_03_010");
@@ -49,7 +49,7 @@ ScrFadeIn(0);
 VoicePlay("D010300600_03_040");
 MsgDisp("Honda","Phew, thank you...
 It's kind of soothing.");
-MsgDisp("主人公","∋ U-Uhm, ｛本多＊＊｝?");
+MsgDisp("主人公","∋ U-Uhm, ｛Honda＊＊｝?");
 StlEye(3,1,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,5,1);
@@ -147,7 +147,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(3,0,30);
-MsgDisp("主人公","(｛本多＊＊｝ said something very bold...
+MsgDisp("主人公","(｛Honda＊＊｝ said something very bold...
 Sigh...
 Now my heart is racing.)");
 MsgClose();

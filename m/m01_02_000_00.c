@@ -15,7 +15,7 @@ VoicePlay("M010200000_02_010");
 MsgDisp("Sassa?","It's me.
 You up?");
 MsgDisp("主人公","Hehe, I knew it.
-｛颯砂＊＊｝, I'm awake.
+｛Sassa＊＊｝, I'm awake.
 Come in.");
 SEPlay("EV_SE_DOOR_007");
 Wait(18);
@@ -26,7 +26,7 @@ VoicePlay("M010200000_02_020");
 MsgDisp("Sassa","Excuse me...
 And?
 How you holding up?");
-MsgDisp("主人公","｛颯砂＊＊｝, are YOU okay?
+MsgDisp("主人公","｛Sassa＊＊｝, are YOU okay?
 Did you run into something?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -43,7 +43,7 @@ VoicePlay("M010200000_02_040");
 MsgDisp("Sassa","That right.
 Mm, your color looks pretty good.");
 MsgDisp("主人公","Mm, I'm okay now.
-But ｛颯砂＊＊｝, what about practice?");
+But ｛Sassa＊＊｝, what about practice?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -96,6 +96,6 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(｛颯砂＊＊｝ made me feel better.
+MsgDisp("主人公","(｛Sassa＊＊｝ made me feel better.
 Alright, time to sleep more and heal up
 quick!)");

@@ -10,7 +10,7 @@ ChMotion(7,0);
 VoicePlay("G020720201_07_010");
 MsgDisp("Mikage","It looks like he's trying hard to make a
 grumpy face.");
-MsgDisp("主人公","That's true, ｛氷室＊＊｝ has that kind of
+MsgDisp("主人公","That's true, ｛Himuro＊＊｝ has that kind of
 side to him.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -38,7 +38,7 @@ VoicePlay("G020720201_07_050");
 MsgDisp("Mikage","That's why Inori also laughs when he lets
 his guard down, and I also join in and
 have fun.");
-MsgDisp("主人公","｛御影＊＊｝...");
+MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -56,7 +56,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720201_07_080");
 MsgDisp("Mikage","The last part was my inner voice.");
-MsgDisp("主人公","(｛御影＊＊｝'s inner voice...)");
+MsgDisp("主人公","(｛Mikage＊＊｝'s inner voice...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -26,12 +26,12 @@ BGOpen("ev004",0);
 ChNanaType(1);
 ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝.");
+MsgDisp("主人公","｛Nanatsumori＊｝.");
 VoicePlay("G110400400_04_010");
 MsgDisp("Nanatsumori","Yo.
 What's up?");
 MsgDisp("主人公","I just felt like coming here.
-｛七ツ森＊｝, are you working?");
+｛Nanatsumori＊｝, are you working?");
 ChMotion(4,2);
 VoicePlay("G110400400_04_020");
 MsgDisp("Nanatsumori","Yeah.
@@ -55,7 +55,7 @@ VoicePlay("G110400400_04_050");
 MsgDisp("Nanatsumori","I'm looking forward to it too.
 Maybe you'll decide to have a date with me
 next time too.");
-MsgDisp("主人公","(A date...I see! ｛七ツ森＊｝ really is
+MsgDisp("主人公","(A date...I see! ｛Nanatsumori＊｝ really is
 paying close attention after all.)");
 BGMStop();
 MsgClose();

@@ -8,7 +8,7 @@ VoicePlay("B040408302_04_000");
 MsgDisp("Nanatsumori","Haa...
 There's no point in coming here in the
 summer.");
-MsgSel("Isn't nature pretty?","It's fun because I'm with ｛七ツ森＊｝.","Shall we eat kakigori from the stall?");
+MsgSel("Isn't nature pretty?","It's fun because I'm with ｛Nanatsumori＊｝.","Shall we eat kakigori from the stall?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -50,7 +50,7 @@ spring.");
         ChEyeOpenLevel(4,0);
         VoicePlay("B040408302_04_040");
         MsgDisp("Nanatsumori","...What are you saying?");
-        MsgDisp("主人公","That when I'm with ｛七ツ森＊｝, it's
+        MsgDisp("主人公","That when I'm with ｛Nanatsumori＊｝, it's
 fun no matter where we are.");
         ChEye(4,4);
         ChMouthOpenLevel(4,0);

@@ -21,7 +21,7 @@ ChEyeOpenLevel ( 1,8 ) ;
 VoicePlay ( "D150001601_01_010" ) ;
 MsgDisp ( "Kazama","Adding \"Today\" was really unnecessary." ) ;
 MsgDisp ( "主人公","Hehe, yeah.
-｛風真＊＊｝ has a point." ) ;
+｛Kazama＊＊｝ has a point." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,0 ) ;

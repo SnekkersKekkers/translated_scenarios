@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛七ツ森＊｝, hasn't arrived
+MsgDisp("主人公","Looks like ｛Nanatsumori＊｝, hasn't arrived
 yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -31,7 +31,7 @@ ChEye(33,2);
 ChMouth(33,2);
 VoicePlay("B110400000_33_030");
 MsgDisp("Guy","Heh?");
-MsgDisp("主人公","｛七ツ森＊｝!");
+MsgDisp("主人公","｛Nanatsumori＊｝!");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B110400000_04_010");
@@ -80,7 +80,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(33,0,30);
 ChPosition(4,0);
-MsgDisp("主人公","｛七ツ森＊｝, thank you...");
+MsgDisp("主人公","｛Nanatsumori＊｝, thank you...");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);

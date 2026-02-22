@@ -4,7 +4,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Ah, a phone call from ｛風真＊＊｝.)");
+    MsgDisp("主人公","(Ah, a phone call from ｛Kazama＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -24,7 +24,7 @@ See you later.");
 I can't wait for ｛日付｝.)");
     break ;
     case 3:
-    MsgDisp("主人公","(Ah, a phone call from ｛風真＊＊｝!)");
+    MsgDisp("主人公","(Ah, a phone call from ｛Kazama＊＊｝!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -47,11 +47,11 @@ I hope ｛日付｝ arrives fast!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Ah, it's from ｛風真＊＊｝!)");
+    MsgDisp("主人公","(Ah, it's from ｛Kazama＊＊｝!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","｛風真＊＊｝, it's ｛主人公苗字｝.");
+    MsgDisp("主人公","｛Kazama＊＊｝, it's ｛主人公苗字｝.");
     VoicePlay("J030101000_01_050");
     MsgDisp("Kazama","I'm sorry, couldn't get your call.");
     MsgDisp("主人公","That's alright.

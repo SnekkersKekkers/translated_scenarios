@@ -3,7 +3,7 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Are you headed to the beach after this,
 today too?");
 ChEye(6,0);
@@ -31,7 +31,7 @@ BGOpen("ev006",1);
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛氷室＊＊｝, you were about to say 'game
+MsgDisp("主人公","｛Himuro＊＊｝, you were about to say 'game
 centre', were you planning to go?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -59,7 +59,7 @@ ChMotion(6,2);
 VoicePlay("G110600700_06_050");
 MsgDisp("Himuro","Because I was frustrated the last time we
 went together.");
-MsgDisp("主人公","(｛氷室＊＊｝, was disappointed over
+MsgDisp("主人公","(｛Himuro＊＊｝, was disappointed over
 that...)");
 BGMStop();
 MsgClose();

@@ -5,7 +5,7 @@ switch (ChPrmGet(6,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛氷室＊＊｝.");
+    MsgDisp("主人公","｛Himuro＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -24,7 +24,7 @@ Here's a present.");
 Do you want to open it now?");
     break ;
     case 3:
-    MsgDisp("主人公","｛氷室＊＊｝.");
+    MsgDisp("主人公","｛Himuro＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -47,7 +47,7 @@ If you'd like, you can open it now!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛氷室＊＊｝.");
+    MsgDisp("主人公","｛Himuro＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C06_INORI_A");
     ChOpen(6,254,0,0,0,#1,#1,5,0);

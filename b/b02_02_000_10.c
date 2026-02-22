@@ -15,4 +15,4 @@ MsgDisp("Sassa","Oooh.
 I'm not being biased, but I think it suits
 you the best.");
 MsgDisp("主人公","(Awesome!
-｛颯砂＊＊｝ praised me!)");
+｛Sassa＊＊｝ praised me!)");

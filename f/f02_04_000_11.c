@@ -6,7 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Winter break is coming up.
-｛七ツ森＊｝, what are you doing?");
+｛Nanatsumori＊｝, what are you doing?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H180100000_01_000");
     MsgDisp("Kazama","Yo.
 You're working pretty hard.");
-    MsgDisp("主人公","｛風真＊＊｝, did you come to cheer us on?");
+    MsgDisp("主人公","｛Kazama＊＊｝, did you come to cheer us on?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -44,7 +44,7 @@ Let's aim for the championship together!)");
     VoicePlay("H180100000_01_040");
     MsgDisp("Kazama","It's amazing, winning enough to make it
 this far.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 You came?");
     ChEye(1,3);
     ChMouth(1,3);
@@ -75,7 +75,7 @@ been able to make it this far.");
     MsgDisp("Kazama","It's thanks to your hard work that the
 baseball team has been this successful.
 That's a fact.");
-    MsgDisp("主人公","Thank you, ｛風真＊＊｝.");
+    MsgDisp("主人公","Thank you, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
@@ -98,7 +98,7 @@ together for this...");
 Got it?");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(Alright.
-Let's get a win in front of ｛風真＊＊｝!)");
+Let's get a win in front of ｛Kazama＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

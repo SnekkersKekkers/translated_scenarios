@@ -2,11 +2,11 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh?
-｛七ツ森＊｝ still isn't here...");
+｛Nanatsumori＊｝ still isn't here...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛七ツ森＊｝, you're late...");
+MsgDisp("主人公","｛Nanatsumori＊｝, you're late...");
 VoicePlay("B110400002_35_000");
 MsgDisp("Guy?","...Okay!
 Then for tonight's meeting, we'll go to
@@ -39,7 +39,7 @@ ChNanaType(#1);
 ChOpen(4,253,0,1,0,#1,#1,0,1);
 VoicePlay("B110400002_04_000");
 MsgDisp("Nanatsumori","You sure are persistent...");
-MsgDisp("主人公","｛七ツ森＊｝!");
+MsgDisp("主人公","｛Nanatsumori＊｝!");
 VoicePlay("B110400002_35_040");
 ChEye(35,2);
 ChMouth(35,2);

@@ -5,7 +5,7 @@ VoicePlay("B080201100_02_000");
 MsgDisp("Sassa","Ugh, seriously...");
 SEPlay("EV_SE_529");
 SEWait();
-MsgDisp("主人公","｛颯砂＊＊｝∋");
+MsgDisp("主人公","｛Sassa＊＊｝∋");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

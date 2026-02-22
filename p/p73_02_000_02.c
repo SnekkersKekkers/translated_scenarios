@@ -12,7 +12,7 @@ wedding dresses. I think I was able to
 make it pretty but...)");
     VoicePlay("P730200002_02_000");
     MsgDisp("Sassa?","Uwo...seriously...");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -53,7 +53,7 @@ about.");
 If you show up on stage like that, smiling
 warmly, you've already won.");
     MsgDisp("主人公","(Thak you for helping me gain confidence,
-｛颯砂＊＊｝!
+｛Sassa＊＊｝!
 Alrーiight, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -72,7 +72,7 @@ make it pretty but...)");
     ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoicePlay("P730200002_02_060");
     MsgDisp("Sassa","Is that a bride?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 This year we're doing wedding dresses.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -97,7 +97,7 @@ But, thank you.");
     ChMotion(2,4);
     VoicePlay("P730200002_02_090");
     MsgDisp("Sassa","Ah, it's starting.");
-    MsgDisp("主人公","Thanks to ｛颯砂＊＊｝, I have some
+    MsgDisp("主人公","Thanks to ｛Sassa＊＊｝, I have some
 confidence. Thank you. I'm off then.");
     ChEye(2,0);
     ChMouth(2,4);

@@ -1,5 +1,5 @@
 MsgDisp("主人公","It's been very lively around you recently,
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
 VoicePlay("B070400001_04_160");
 MsgDisp("Nanatsumori","Does that include you?");
 MsgDisp("主人公","...Maybe...?");
@@ -40,7 +40,7 @@ VoicePlay("B070400001_04_220");
 MsgDisp("Nanatsumori","So I thought that when I got to high
 school, it would be filled with even more
 troublesome things.");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -65,7 +65,7 @@ VoicePlay("B070400001_04_260");
 MsgDisp("Nanatsumori","That's why, now...
 Every day is so fulfilling, really.");
 MsgDisp("主人公","(Hehe!
-It's not just ｛七ツ森＊｝, Everyone
+It's not just ｛Nanatsumori＊｝, Everyone
 else is also definitely fulfilled.)");
 BGMStop();
 MsgClose();

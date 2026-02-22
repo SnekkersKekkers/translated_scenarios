@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110610001_06_000");
 MsgDisp("Himuro","...");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -52,7 +52,7 @@ MsgDisp("School Girl A","There's still time.
 Go run after him!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO",0,0.6);
 SEWait();
-MsgDisp("主人公","(Maybe...The gaze ｛氷室＊＊｝ said he felt
+MsgDisp("主人公","(Maybe...The gaze ｛Himuro＊＊｝ said he felt
 belonged to them? I wonder if he's
 popular.)");
 MsgClose();

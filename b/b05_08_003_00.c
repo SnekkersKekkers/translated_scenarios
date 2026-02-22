@@ -65,7 +65,7 @@ VoicePlay("B050800300_08_050");
 MsgDisp("Shirahane","How's it?
 Does it suit me?");
 MsgDisp("主人公","Ahaha!
-｛大地＊＊｝ is so cute!");
+｛Daichi＊＊｝ is so cute!");
 StlEye(8,2);
 StlMouth(8,0);
 VoicePlay("B050800300_08_060");

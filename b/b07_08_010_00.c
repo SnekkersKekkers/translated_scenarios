@@ -62,7 +62,7 @@ VoicePlay("B070801000_08_080");
 MsgDisp("Shirahane","So...
 There's no need to rush.
 Let's take our time to grow together.");
-MsgDisp("主人公","(｛大地＊＊｝...)");
+MsgDisp("主人公","(｛Daichi＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

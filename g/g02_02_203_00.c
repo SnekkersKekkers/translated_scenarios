@@ -33,7 +33,7 @@ ChMotion(2,3);
 VoicePlay("G020220300_02_040");
 MsgDisp("Sassa","Hahah, Firefly Me can fly any kind of way.");
 MsgDisp("主人公","So now we're talking about you as a
-firefly, ｛颯砂＊＊｝?");
+firefly, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -54,7 +54,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020220300_02_070");
 MsgDisp("Sassa","(sigh) I bet it'd be easier to be your
 partner if we were fireflies...");
-MsgDisp("主人公","(What is ｛颯砂＊＊｝ talking about...)");
+MsgDisp("主人公","(What is ｛Sassa＊＊｝ talking about...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

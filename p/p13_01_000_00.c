@@ -16,12 +16,12 @@ to drink freshly squeezed milk～");
     MsgDisp("Kazama?","...Pfft.");
     MsgClose();
     ChOpen(1,254,0,2,3,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Hey, why are you laughing?");
     ChMotion(1,3);
     VoicePlay("P130100000_01_010");
     MsgDisp("Kazama","That cow print t-shirt fits you.");
-    MsgDisp("主人公","｛風真＊＊｝ will also have to wear it.");
+    MsgDisp("主人公","｛Kazama＊＊｝ will also have to wear it.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -58,7 +58,7 @@ drink freshly squeezed milk～");
     VoiceEVSPlay(1);
     VoicePlay("P130100000_01_040");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, is it already time to
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, is it already time to
 switch over?");
     MsgClose();
     ChOpen(1,254,0,0,3,#1,#1,0,0);
@@ -74,7 +74,7 @@ finish line.");
     VoicePlay("P130100000_01_060");
     MsgDisp("Kazama","That's right, \"Find Molly!\", right?");
     MsgDisp("主人公","Right, then why don't you also try it out,
-｛風真＊＊｝? There's freshly-squeezed milk
+｛Kazama＊＊｝? There's freshly-squeezed milk
 at the finish line.");
     ChEye(1,0);
     ChMouth(1,2);

@@ -115,7 +115,7 @@ Go ahead.");
     Wait(50,0);
     VoicePlay("S070600000_06_120");
     MsgDisp("Himuro","......");
-    MsgDisp("主人公","(｛氷室＊＊｝ and I went silent...)");
+    MsgDisp("主人公","(｛Himuro＊＊｝ and I went silent...)");
     break ;
     default :
     DbgAssert(1);

@@ -1,5 +1,5 @@
 MsgDisp("主人公","What kind of music do you like
-｛御影＊＊｝?");
+｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -14,7 +14,7 @@ VoicePlay("B070700000_07_190");
 MsgDisp("Mikage","During those times I'll listen to it as
 well I guess?");
 MsgDisp("主人公","You like classical music huh?
-That's very like ｛御影＊＊｝.");
+That's very like ｛Mikage＊＊｝.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -37,7 +37,7 @@ VoicePlay("B070700000_07_220");
 MsgDisp("Mikage","If I listen to it in the morning, I get
 ready faster.");
 MsgDisp("主人公","(Hehe.
-Seems like ｛御影＊＊｝ likes songs
+Seems like ｛Mikage＊＊｝ likes songs
 witha nice tempo.)");
 BGMStop();
 MsgClose();

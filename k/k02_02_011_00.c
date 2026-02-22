@@ -28,7 +28,7 @@ ChMotion(2,4);
 VoicePlay("K020201100_02_020");
 MsgDisp("Sassa","Happy birthday.
 Here's your present.");
-MsgDisp("主人公","Thank you, ｛颯砂＊＊｝!");
+MsgDisp("主人公","Thank you, ｛Sassa＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -57,6 +57,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 Wait(30);
 MsgDisp("主人公","(What a great birthday!
-I'm happy I got a present from ｛颯砂＊＊｝.)");
+I'm happy I got a present from ｛Sassa＊＊｝.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -6,7 +6,7 @@ switch (ChPrmGet(8,6)){
     case 1:
     case 2:
     MsgDisp("主人公","Ah...there!
-｛大地＊＊｝!");
+｛Daichi＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,0,0,4,#1,#1,0,0);
@@ -20,7 +20,7 @@ you chocolate.");
     SEWait();
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛大地＊＊｝, there you are!");
+    MsgDisp("主人公","Ah, ｛Daichi＊＊｝, there you are!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,0,0,4,#1,#1,0,0);
@@ -30,7 +30,7 @@ you chocolate.");
 What's the matter?
 Need somethin' with me?");
     MsgDisp("主人公","Yeah, something to do with you,
-｛大地＊＊｝.");
+｛Daichi＊＊｝.");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,2,1);
@@ -52,7 +52,7 @@ Yay!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛大地＊＊｝!");
+    MsgDisp("主人公","｛Daichi＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,254,0,4,4,#1,#1,6,0);
@@ -62,7 +62,7 @@ Yay!");
 ｛主人公｝.");
     MsgDisp("主人公","Thank goodness you're here.
 I have something I want to give you,
-｛大地＊＊｝.");
+｛Daichi＊＊｝.");
     ChMotion(8,2,1);
     VoicePlay("L040800000_08_050");
     MsgDisp("Shirahane","Could I get my hopes up...?");

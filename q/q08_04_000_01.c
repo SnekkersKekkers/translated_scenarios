@@ -30,7 +30,7 @@ too.");
 It was fun.");
     MsgDisp("主人公","Me too.
 I'm happy I could spent it with
-｛七ツ森＊｝!");
+｛Nanatsumori＊｝!");
     ChMotion(4,1,1);
     VoicePlay("Q080400001_04_030");
     MsgDisp("Nanatsumori","Wanna spend tomorrow's free period

@@ -26,7 +26,7 @@ come...)");
     MsgDisp("Honda","The smell of the mitarashi paste is the
 best too!");
     MsgDisp("主人公","Hehe.
-｛本多＊＊｝, are you here to take a break?");
+｛Honda＊＊｝, are you here to take a break?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -49,7 +49,7 @@ come...)");
     VoicePlay("P030300000_03_030");
     MsgDisp("Honda","｛主人公｝.
 Wow, matching yukata.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Welcome～");
     ChEye(3,0);
     ChMouth(3,3);

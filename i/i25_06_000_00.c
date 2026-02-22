@@ -12,7 +12,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250600000_06_000");
     MsgDisp("Himuro","The reference book corner is...");
-    MsgDisp("主人公","Hm, ｛氷室＊＊｝?");
+    MsgDisp("主人公","Hm, ｛Himuro＊＊｝?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -43,7 +43,7 @@ maybe I was wrong?)");
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250600000_06_030");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
 Are you shopping?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -100,7 +100,7 @@ Well, keep up the good work.");
     VoicePlay("I250600000_06_100");
     MsgDisp("Himuro","Hey, miss.");
     MsgDisp("主人公","Yes!
-Wait, ｛氷室＊＊｝?");
+Wait, ｛Himuro＊＊｝?");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,3);
@@ -145,7 +145,7 @@ Well, good luck.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(6);
-    MsgDisp("主人公","(Did ｛氷室＊＊｝ just come to cheer me on?
+    MsgDisp("主人公","(Did ｛Himuro＊＊｝ just come to cheer me on?
 Hehe, I'm happy!)");
     break ;
     default :

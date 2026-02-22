@@ -6,7 +6,7 @@ That person over there is...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(8,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛大地＊＊｝!");
+MsgDisp("主人公","｛Daichi＊＊｝!");
 ChEye(8,3);
 ChMotion(8,3,1);
 VoiceEVSPlay(8);
@@ -31,7 +31,7 @@ VoicePlay("E010830100_09_000");
 MsgDisp("Kuya","Dai-chan, sorry to keep you waiting.
 You are...");
 MsgDisp("主人公","Hello, Kuya-san I happened to pass by and
-spotted ｛大地＊＊｝.");
+spotted ｛Daichi＊＊｝.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);

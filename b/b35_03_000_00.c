@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("B350300000_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","Oh ｛本多＊＊｝.
+MsgDisp("主人公","Oh ｛Honda＊＊｝.
 Everyone's gone home, you know?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -62,7 +62,7 @@ The idea was pretty sudden after all.");
 Let's definitely go somewhere together.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","(｛本多＊＊｝, seemed to be putting on a
+    MsgDisp("主人公","(｛Honda＊＊｝, seemed to be putting on a
 brave face...
 Maybe I did something wrong...)");
     break ;

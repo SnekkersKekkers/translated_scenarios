@@ -64,7 +64,7 @@ prolonged trip.");
 all over the country, but it wasn't on a
 sea voyage.");
         MsgDisp("主人公","I see.
-｛柊＊＊＊｝ is accustomed to travelling.");
+｛Hiiragi＊＊＊｝ is accustomed to travelling.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040502202_05_060");
@@ -99,7 +99,7 @@ There's nothing that makes me happier.");
         VoicePlay("B040502202_05_110");
         MsgDisp("Hiiragi","After hearing you say that, I kind of miss
 the life of travel.");
-        MsgDisp("主人公","(｛柊＊＊＊｝...)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

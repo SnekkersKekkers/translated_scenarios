@@ -100,7 +100,7 @@ around?");
         MsgDisp("Honda","Huh?
 Could it be...the perfume?");
         MsgDisp("主人公","Wow, they've all flocked around
-｛本多＊＊｝.");
+｛Honda＊＊｝.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,4);

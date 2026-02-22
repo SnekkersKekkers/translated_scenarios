@@ -94,7 +94,7 @@ on top.");
 potential.
 I didn't think of that...");
         MsgDisp("主人公","Uhm...?
-If ｛颯砂＊＊｝ doesn't want to...");
+If ｛Sassa＊＊｝ doesn't want to...");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,5);
@@ -107,7 +107,7 @@ Before they run out of rentals.");
         ChClose(2);
         SEWait();
         MsgDisp("主人公","(Huh?
-What's up with ｛颯砂＊＊｝?)");
+What's up with ｛Sassa＊＊｝?)");
         break ;
         default :
         DbgAssert(1);

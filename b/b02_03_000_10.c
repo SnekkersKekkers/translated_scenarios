@@ -14,5 +14,5 @@ MsgDisp("Honda","Exactly that! I thought \"wow, I sure have
 been seeing that a lot lately.\" But you
 pull it off best!");
 MsgDisp("主人公","(Awesome!
-｛本多＊＊｝ seems to like this too.
+｛Honda＊＊｝ seems to like this too.
 I'm glad!)");

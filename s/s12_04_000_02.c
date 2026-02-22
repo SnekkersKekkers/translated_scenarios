@@ -88,7 +88,7 @@ the freezing cold.");
     VoicePlay("S120400002_04_080");
     MsgDisp("Nanatsumori","...But, I don't want to drag you around
 anymore.");
-    MsgDisp("主人公","｛七ツ森＊｝...");
+    MsgDisp("主人公","｛Nanatsumori＊｝...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

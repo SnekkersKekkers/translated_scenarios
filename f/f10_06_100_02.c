@@ -14,7 +14,7 @@ ChOpen(6,254,2,2,0,0,#1,0,0);
 VoicePlay("F100610002_06_000");
 MsgDisp("Himuro","What are you thanking me for...
 I don't care.");
-MsgDisp("主人公","｛氷室＊＊｝.
+MsgDisp("主人公","｛Himuro＊＊｝.
 Could this be about Himuro-sensei again?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -98,6 +98,6 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100610002_06_080");
 MsgDisp("Himuro","This is the worst...");
-MsgDisp("主人公","(My condolences, ｛氷室＊＊｝...)");
+MsgDisp("主人公","(My condolences, ｛Himuro＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160300200_03_000");
 MsgDisp("Honda","Hey, do you do things like this with other
 people too?");
-MsgSel("Only with you, ｛本多＊＊｝.","Things like just now?");
+MsgSel("Only with you, ｛Honda＊＊｝.","Things like just now?");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(3,3);

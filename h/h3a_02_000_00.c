@@ -16,7 +16,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("H3A0200000_02_000");
     MsgDisp("Sassa","｛主人公｝.
 You decided that splendidly.");
-    MsgDisp("主人公","｛颯砂＊＊｝, thanks.");
+    MsgDisp("主人公","｛Sassa＊＊｝, thanks.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,4);

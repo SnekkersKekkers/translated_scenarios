@@ -16,7 +16,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("H3A0200001_02_000");
     MsgDisp("Sassa","｛主人公｝.
 ...It's too bad.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝...
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝...
 I lost.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -32,7 +32,7 @@ want any encouragement right now.");
     MsgDisp("Sassa","But, let me just say this.
 You were cool.
 Chin up!");
-    MsgDisp("主人公","(｛颯砂＊＊｝, thank you...
+    MsgDisp("主人公","(｛Sassa＊＊｝, thank you...
 I lost, but I was able to make it this
 far...)");
     break ;

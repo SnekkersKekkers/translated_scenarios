@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("P240501000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","｛柊＊＊＊｝, good work.
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, good work.
 Is the Habataki Castle set alright?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -47,7 +47,7 @@ ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240501000_05_030");
 MsgDisp("Hiiragi","It's perfect.");
-MsgDisp("主人公","That's because of ｛柊＊＊＊｝'s acting
+MsgDisp("主人公","That's because of ｛Hiiragi＊＊＊｝'s acting
 direction.");
 ChEye(5,0);
 VoicePlay("P240501000_05_040");
@@ -84,7 +84,7 @@ ChMotion(5,0);
 VoicePlay("P240501000_05_060");
 MsgDisp("Hiiragi","Are the Lord's ideals really everyone's
 ideals?");
-MsgDisp("主人公","｛柊＊＊＊｝...?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,2);
@@ -121,7 +121,7 @@ VoicePlay("P240501000_05_090");
 MsgDisp("Hiiragi","Yes, it was a great success.
 Producing a play like this with everyone
 is fun.");
-MsgDisp("主人公","(Seems like ｛柊＊＊＊｝ also enjoyed our
+MsgDisp("主人公","(Seems like ｛Hiiragi＊＊＊｝ also enjoyed our
 school play.
 That's a relief...)");
 MsgClose();

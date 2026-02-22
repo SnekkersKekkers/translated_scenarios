@@ -17,7 +17,7 @@ I like it but...)");
     VoiceEVSPlay(1);
     VoicePlay("P730100001_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Did you come to watch?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -41,7 +41,7 @@ It's like you're at your kid's play.");
 are both on par with a pro. Go with
 confidence in yourself.");
     MsgDisp("主人公","Yeah, thank you.
-Thanks to ｛風真＊＊｝, I gained some
+Thanks to ｛Kazama＊＊｝, I gained some
 courage.");
     ChEye(1,2);
     ChMouth(1,3);
@@ -60,7 +60,7 @@ parent watching their kid's play.");
     MsgDisp("Kazama","Look at me properly and pose, okay?");
     MsgDisp("主人公","Ehh?
 Y-Yeah...!");
-    MsgDisp("主人公","(｛風真＊＊｝ praised me...
+    MsgDisp("主人公","(｛Kazama＊＊｝ praised me...
 Alright, let's hold our head up high!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -79,7 +79,7 @@ I like it but...)");
     VoiceEVSPlay(1);
     VoicePlay("P730100001_01_060");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 What do you think of this dress?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -118,7 +118,7 @@ your work with your own appeal.");
 Yeah, I'll see you later!");
     MsgClose();
     ChClose(1,0,30);
-    MsgDisp("主人公","(｛風真＊＊｝ praised me well.
+    MsgDisp("主人公","(｛Kazama＊＊｝ praised me well.
 Alrーight, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);

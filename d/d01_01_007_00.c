@@ -29,7 +29,7 @@ SEPlay("EV_SE_628");
 SEWait();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 MsgDisp("主人公","Eh...
-｛風真＊＊｝∋
+｛Kazama＊＊｝∋
 What are you doing here?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -64,7 +64,7 @@ MsgDisp("Kazama","Time to go.");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(1);
-MsgDisp("主人公","｛風真＊＊｝, good luck∈");
+MsgDisp("主人公","｛Kazama＊＊｝, good luck∈");
 VoicePlay("D010100700_01_040");
 MsgDisp("Kazama","...Geez, what a loud person.");
 MsgClose();
@@ -81,7 +81,7 @@ SEPlay("EV_SE_606");
 ScrFadeIn(0);
 Wait(60,0);
 MsgDisp("主人公","(Woah, amazing...
-Looks like ｛風真＊＊｝ caught another
+Looks like ｛Kazama＊＊｝ caught another
 fish!)");
 StlEyeOpenLevel(1,5);
 VoicePlay("D010100700_01_050");
@@ -103,7 +103,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝, congrats on winning!");
+MsgDisp("主人公","｛Kazama＊＊｝, congrats on winning!");
 BGMVol(0.5,2);
 ChEye(1,2);
 ChMotion(1,3);
@@ -118,7 +118,7 @@ ChMotion(1,0);
 VoicePlay("D010100700_01_070");
 MsgDisp("Kazama","What a ditz. Ahem. Fly Fishing comes from
 England. It uses a lure resembling an
-insect called the \"Fly\"");
+insect called the \"Fly.\"");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -147,7 +147,7 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_626");
 ChClose(1);
-MsgDisp("主人公","(Hehe ｛風真＊＊｝ is in a good mood
+MsgDisp("主人公","(Hehe ｛Kazama＊＊｝ is in a good mood
 today. Maybe someday he can teach me how
 to do fly fishing?)");
 MsgClose();

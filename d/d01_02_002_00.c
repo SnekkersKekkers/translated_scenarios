@@ -22,7 +22,7 @@ SEPlay("EV_SE_609",0,1);
 SEWait();
 VoicePlay("D010200200_02_000");
 MsgDisp("Sassa","Mm...");
-MsgDisp("主人公","(It's ｛颯砂＊＊｝.
+MsgDisp("主人公","(It's ｛Sassa＊＊｝.
 What's he reading?
 He looks so serious...)");
 StlEye(2,0);
@@ -98,5 +98,5 @@ SEPlay("EV_SE_610");
 SEWait();
 MsgDisp("主人公","(\"Exercise Theory 1st Edition, Hyper
 Recovery for Efficient Muscle Growth\"...Is
-｛颯砂＊＊｝ actually a scientific person?)");
+｛Sassa＊＊｝ actually a scientific person?)");
 ChPrmTblAdd(2,0);

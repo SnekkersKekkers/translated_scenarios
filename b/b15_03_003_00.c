@@ -18,7 +18,7 @@ VoicePlay("B150300300_03_020");
 MsgDisp("Honda","When someone else touches me, it doesn't
 mean much. But when it's you, no matter
 how you do it, it makes me happy.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -68,9 +68,9 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300300_03_090");
 MsgDisp("Honda","It's a promise!");
-MsgDisp("主人公","(That's so ｛本多＊＊｝, always looking on
+MsgDisp("主人公","(That's so ｛Honda＊＊｝, always looking on
 the bright side.
-Thanks, ｛本多＊＊｝!)");
+Thanks, ｛Honda＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

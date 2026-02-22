@@ -93,7 +93,7 @@ VoicePlay("B330C10200_05_040");
 MsgDisp("Hiiragi","Hmm.
 But, I want to clean it with my own hands.");
 MsgDisp("主人公","(Hehe.
-｛柊＊＊＊｝ really likes cleaning.)");
+｛Hiiragi＊＊＊｝ really likes cleaning.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

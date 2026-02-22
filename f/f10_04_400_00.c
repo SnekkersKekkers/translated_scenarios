@@ -2,7 +2,7 @@ BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah...
-It's ｛七ツ森＊｝ and ｛本多＊＊｝.");
+It's ｛Nanatsumori＊｝ and ｛Honda＊＊｝.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -65,8 +65,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100440000_04_040");
 MsgDisp("Nanatsumori","＃１!");
-MsgDisp("主人公","(Umm, ｛本多＊＊｝ knows about
-｛七ツ森＊｝'s true identity...?)");
+MsgDisp("主人公","(Umm, ｛Honda＊＊｝ knows about
+｛Nanatsumori＊｝'s true identity...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

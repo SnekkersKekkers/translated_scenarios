@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     case 4:
     SEPlay("EV_SE_577");
     MsgDisp("主人公","(Huh?
-It's ｛風真＊＊｝.)");
+It's ｛Kazama＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -46,15 +46,15 @@ Maybe I did something bad...)");
     case 5:
     SEPlay("EV_SE_577");
     MsgDisp("主人公","(Huh?
-It's ｛風真＊＊｝)");
+It's ｛Kazama＊＊｝)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
     MsgDisp("主人公","Hello.
-｛風真＊＊｝?");
+｛Kazama＊＊｝?");
     VoicePlay("J040100001_01_040");
     MsgDisp("Kazama","Yes, it's me.");
-    MsgDisp("主人公","｛風真＊＊｝, what's up?");
+    MsgDisp("主人公","｛Kazama＊＊｝, what's up?");
     VoicePlay("J040100001_01_051");
     MsgDisp("Kazama","I'm not up to anything.
 I was just wondering if you're free this

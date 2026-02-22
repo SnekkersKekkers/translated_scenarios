@@ -10,7 +10,7 @@ VoicePlay("T020600000_06_530");
 MsgDisp("Himuro","Ah...
 I see I guess, that was just my own
 selfish expectation.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
 VoicePlay("T020600000_06_540");

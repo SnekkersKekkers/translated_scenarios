@@ -9,7 +9,7 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(...Huh?
 I got a text message, who's it from?)");
-MsgDisp("主人公","(...It's from ｛氷室＊＊｝!)");
+MsgDisp("主人公","(...It's from ｛Himuro＊＊｝!)");
 MsgDisp("主人公","\"I didn't think it would actually be made
 into an article.
 I'll keep an eye on it.\")");

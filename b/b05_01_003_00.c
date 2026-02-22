@@ -3,7 +3,7 @@ ChLayout(1);
 ChClose(1,0,0);
 BGMPlay("BGM_PLACE_SKI_SKAT",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛風真＊＊｝ is great at skating.
+MsgDisp("主人公","(｛Kazama＊＊｝ is great at skating.
 It's really amazing that he's good at both
 school and sports...)");
 SEPlay("EV_SE_509");
@@ -30,7 +30,7 @@ MsgDisp("Kazama","You're the one who must be cold, having to
 stand there the entire time.");
 MsgDisp("主人公","A little...
 But, it was really exciting seeing
-｛風真＊＊｝ glide across the ice!");
+｛Kazama＊＊｝ glide across the ice!");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -76,7 +76,7 @@ Wait(10,0);
 StlEyeOpenLevel(1,#1);
 StlMouthOpenLevel(1,10);
 ScrQuake(1);
-MsgDisp("主人公","Waa∈ ｛風真＊＊｝, you can't let go of my
+MsgDisp("主人公","Waa∈ ｛Kazama＊＊｝, you can't let go of my
 hand no matter what∋");
 StlEye(1,1);
 StlMouth(1,1);
@@ -84,7 +84,7 @@ StlMouthOpenLevel(1,#1);
 StlCheek(1,7);
 VoicePlay("B050100300_01_070");
 MsgDisp("Kazama","......");
-MsgDisp("主人公","Phew...I'm steady now...Huh, ｛風真＊＊｝,
+MsgDisp("主人公","Phew...I'm steady now...Huh, ｛Kazama＊＊｝,
 your face is red. Are you cold?");
 StlEyeOpenLevel(1,5);
 StlCheek(1,7);
@@ -125,7 +125,7 @@ VoicePlay("B050100300_01_120");
 MsgDisp("Kazama","You couldn't skate, but I tried to drag
 you out onto the rink.
 It was scary, right?");
-MsgDisp("主人公","Nope, I had fun. ｛風真＊＊｝ held my hand
+MsgDisp("主人公","Nope, I had fun. ｛Kazama＊＊｝ held my hand
 the whole time. I was glad that he taught
 me how to skate carefully.");
 ChEyeOpenLevel(1,0);

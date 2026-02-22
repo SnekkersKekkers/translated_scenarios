@@ -22,7 +22,7 @@ VoicePlay("G020740001_07_020");
 MsgDisp("Mikage","But why ...don't they have it?
 'Hiyashi Chuuka' It's a seasonal dish and
 I think it's a must-have.");
-MsgDisp("主人公","｛御影＊＊｝, you really like Hiyashi
+MsgDisp("主人公","｛Mikage＊＊｝, you really like Hiyashi
 Chuuka, don't you?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -54,7 +54,7 @@ ChMotion(7,3);
 VoicePlay("G020740001_07_060");
 MsgDisp("Mikage","If it means I get to eat Hiyashi Chuuka at
 the school cafeteria.");
-MsgDisp("主人公","(｛御影＊＊｝, it would be good if you
+MsgDisp("主人公","(｛Mikage＊＊｝, it would be good if you
 didn't make Himuro-sensei angry again...)");
 BGMStop();
 MsgClose();

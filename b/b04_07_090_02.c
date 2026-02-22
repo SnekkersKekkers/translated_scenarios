@@ -64,7 +64,7 @@ stimuli just growth?");
         MsgDisp("Mikage","...Wow, that's a rare example of when I
 said something good.");
         MsgDisp("主人公","Hehe.
-｛御影＊＊｝, I want to grow up being
+｛Mikage＊＊｝, I want to grow up being
 stimulated in all sorts of ways.");
         ChEye(7,0);
         ChMouth(7,1);
@@ -80,7 +80,7 @@ stimulated in all sorts of ways.");
 my high school years, when I should've be
 growing. That's why I'm getting it from
 you guys now...");
-        MsgDisp("主人公","(｛御影＊＊｝'s time at high school...')");
+        MsgDisp("主人公","(｛Mikage＊＊｝'s time at high school...')");
         break ;
         default :
         DbgAssert(1);

@@ -14,7 +14,7 @@ ChOpen(2,255,0,0,0,7,#1,0,3);
 SEPlay("EV_SE_817");
 ScrFadeIn(0);
 VoicePlay("B330A30701_02_000");
-MsgDisp("Sassa","The rolelrcoaster is fun but The feeling
+MsgDisp("Sassa","The roller coaster is fun, but the feeling
 of having to entrust everything to that
 safety bar is...");
 ChEye(1,0);
@@ -67,7 +67,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30701_01_020");
 MsgDisp("Kazama","That bar is definitely quite thin...");
-MsgDisp("主人公","Yeah, if it's ｛颯砂＊＊｝ who has it on,
+MsgDisp("主人公","Yeah, if it's ｛Sassa＊＊｝ who has it on,
 it sure seems that way.");
 ChEye(2,0);
 ChMouth(2,0);

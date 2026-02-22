@@ -27,7 +27,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("D140C04001_05_010");
 MsgDisp("Hiiragi","Surely he's hungry?");
 MsgDisp("主人公","Hehe.
-You both sure do like ｛氷室＊＊｝, don't
+You both sure do like ｛Himuro＊＊｝, don't
 you?");
 ChEye(5,0);
 ChMouth(5,2);
@@ -108,7 +108,7 @@ ChMotion(7,5);
 VoicePlay("D140C04001_07_060");
 MsgDisp("Mikage","Hahaha.
 See, it's funny as soon as you speak.");
-MsgDisp("主人公","(｛御影＊＊｝ thinks we're funny...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ thinks we're funny...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

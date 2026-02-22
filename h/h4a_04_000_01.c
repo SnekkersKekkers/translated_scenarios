@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("H4A0400001_04_000");
     MsgDisp("Nanatsumori","It was close.
 Don't mind.");
-    MsgDisp("主人公","｛七ツ森＊｝...
+    MsgDisp("主人公","｛Nanatsumori＊｝...
 Thanks.");
     ChEye(4,4);
     ChMouth(4,4);
@@ -40,7 +40,7 @@ rhythmic gymnastics club.)");
     VoiceEVSPlay(4);
     VoicePlay("H4A0400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝...");
+    MsgDisp("主人公","｛Nanatsumori＊｝...");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("H4A0400001_04_040");
@@ -63,7 +63,7 @@ Hehe, thanks.");
     MsgDisp("Nanatsumori","Yeah.
 So, for making me feel like I was the only
 one who got it, thank you.");
-    MsgDisp("主人公","(｛七ツ森＊｝...
+    MsgDisp("主人公","(｛Nanatsumori＊｝...
 I lost, but I'm glad I stayed in the
 rhythmic gymnastics club.)");
     break ;

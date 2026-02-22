@@ -19,7 +19,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("F020200010_02_010");
 MsgDisp("Sassa","Well, it's easy to say that...");
-MsgDisp("主人公","｛颯砂＊＊｝, are you also stressed?");
+MsgDisp("主人公","｛Sassa＊＊｝, are you also stressed?");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -70,7 +70,7 @@ MsgDisp("Sassa","That's good.
 If you do it every time and practice, you
 can do the same during the show.");
 MsgDisp("主人公","Got it.
-Thanks, ｛颯砂＊＊｝.");
-MsgDisp("主人公","(Thanks to ｛颯砂＊＊｝, the performance
+Thanks, ｛Sassa＊＊｝.");
+MsgDisp("主人公","(Thanks to ｛Sassa＊＊｝, the performance
 will be fun...
 I think?)");

@@ -1,7 +1,7 @@
 ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
 MsgDisp("主人公","Me too...
-I like ｛氷室＊＊｝.");
+I like ｛Himuro＊＊｝.");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,5);

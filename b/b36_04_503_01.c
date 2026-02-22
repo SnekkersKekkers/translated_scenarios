@@ -9,12 +9,12 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝ ordered a lot of sweets...");
+MsgDisp("主人公","｛Nanatsumori＊｝ ordered a lot of sweets...");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("B360450301_04_000");
 MsgDisp("Nanatsumori","Well, it's half of my dinner as well.");
-MsgDisp("主人公","Ah...I see. Since ｛七ツ森＊｝ lives
+MsgDisp("主人公","Ah...I see. Since ｛Nanatsumori＊｝ lives
 alone after all.");
 ChEye(4,0);
 ChMotion(4,1,1);
@@ -52,7 +52,7 @@ VoicePlay("B360450301_04_050");
 MsgDisp("Nanatsumori","Well for me, if it was something sweet or
 spicy, you can win me over 90 percent of
 the time.");
-MsgDisp("主人公","(Is this a hint to win ｛七ツ森＊｝
+MsgDisp("主人公","(Is this a hint to win ｛Nanatsumori＊｝
 over???)");
 BGMStop();
 MsgClose();

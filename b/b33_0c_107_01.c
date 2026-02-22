@@ -119,9 +119,9 @@ MsgDisp("Hiiragi","I suspected as much, let's go for the end!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
-MsgDisp("主人公","(I feel sorry for ｛氷室＊＊｝ and
-｛御影＊＊｝ but...I'm glad to be
-having fun with ｛柊＊＊＊｝!)");
+MsgDisp("主人公","(I feel sorry for ｛Himuro＊＊｝ and
+｛Mikage＊＊｝ but...I'm glad to be
+having fun with ｛Hiiragi＊＊＊｝!)");
 BGMStop();
 MsgClose();
 ChLayout(2);

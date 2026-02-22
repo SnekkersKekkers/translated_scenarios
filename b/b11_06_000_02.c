@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛氷室＊＊｝ hasn't arrived
+MsgDisp("主人公","Looks like ｛Himuro＊＊｝ hasn't arrived
 yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -39,7 +39,7 @@ ChOpen(6,253,2,2,1,0,#1,0,1,0,30);
 BGMPlay("BGM_C06_INORI_A",0.01);
 VoicePlay("B110600002_06_000");
 MsgDisp("Himuro","She looks clearly troubled to me.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
 MsgDispSksp(1,5);
 ChEye(6,0);
 ChMouth(6,0);
@@ -97,7 +97,7 @@ ChMotion(6,4);
 VoicePlay("B110600002_06_040");
 MsgDisp("Himuro","...Who's in a rebellious phase?");
 MsgDisp("主人公","Um...
-｛氷室＊＊｝?
+｛Himuro＊＊｝?
 Thank you very much.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -107,4 +107,4 @@ MsgDisp("Himuro","I'll tell you.
 I can be friendly too!
 Come on, let's go.");
 MsgDisp("主人公","((???)
-What happened to ｛氷室＊＊｝?)");
+What happened to ｛Himuro＊＊｝?)");

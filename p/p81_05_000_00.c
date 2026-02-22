@@ -33,7 +33,7 @@ VoicePlay("P810500000_05_030");
 MsgDisp("Hiiragi","...The cultural festival.
 I look forward to it.");
 MsgDisp("主人公","Do you like the cultural festival,
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
 ChEye(5,3);
 VoicePlay("P810500000_05_040");
 MsgDisp("Hiiragi","Yes.

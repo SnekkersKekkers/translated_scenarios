@@ -83,7 +83,7 @@ you'll need to direct me properly.");
         ChMotion(6,4);
         VoicePlay("B040606302_06_080");
         MsgDisp("Himuro","So, what are we making noise about?");
-        MsgDisp("主人公","(｛氷室＊＊｝ is going along with it!)");
+        MsgDisp("主人公","(｛Himuro＊＊｝ is going along with it!)");
         break ;
         default :
         DbgAssert(1);

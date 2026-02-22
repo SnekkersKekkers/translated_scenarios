@@ -6,7 +6,7 @@ MsgDisp("Hiiragi?","Congratulations.
 Rose Queen.");
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝!
+MsgDisp("主人公","｛Hiiragi＊＊＊｝!
 Thank you!");
 ChEye(5,4);
 VoicePlay("X210500000_05_010");
@@ -58,7 +58,7 @@ VoicePlay("X210500000_05_080");
 MsgDisp("Hiiragi","Was today enough proof?
 The consensus of all the students, says
 that you're the best.");
-MsgDisp("主人公","｛柊＊＊＊｝...thank you.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...thank you.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

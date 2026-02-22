@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040515202_05_000");
 MsgDisp("Hiiragi","Shall we have a serious match soon?");
-MsgSel("I can't match up with ｛柊＊＊＊｝.","Alright, I won't lose!","Let's bet a Habataki Juice on it.");
+MsgSel("I can't match up with ｛Hiiragi＊＊＊｝.","Alright, I won't lose!","Let's bet a Habataki Juice on it.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){
@@ -66,7 +66,7 @@ Ah, you did it huh?");
         ChOpen(5,255,0,2,4,#1,#1,0,0);
         VoicePlay("B040515202_05_050");
         MsgDisp("Hiiragi","There was no need for a handicap.");
-        MsgDisp("主人公","｛柊＊＊＊｝'s method of teaching was
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝'s method of teaching was
 successful.
 Thank you.");
         ChMotion(5,4);
@@ -92,7 +92,7 @@ out of three rounds.");
         MsgDisp("主人公","Ehhh∋
 Sneaky!");
         MsgDisp("主人公","(Hey...
-｛柊＊＊＊｝, you really hate to lose
+｛Hiiragi＊＊＊｝, you really hate to lose
 huh...)");
         MsgClose();
         ScrFadeOut(0,0);

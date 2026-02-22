@@ -32,7 +32,7 @@ ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoicePlay("F100210000_02_010");
 MsgDisp("Sassa","Yo, are you borrowing a book too?");
 MsgDisp("主人公","Yeah.
-...You too, ｛颯砂＊＊｝?");
+...You too, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -76,6 +76,6 @@ MsgDisp("Librarian","Yes, 20 books then.
 The loan period is two weeks.");
 MsgDisp("主人公","(Ehhh∋
 So the one who borrowed 20 books was
-｛颯砂＊＊｝!)");
+｛Sassa＊＊｝!)");
 MsgClose();
 ScrFadeOut(0);

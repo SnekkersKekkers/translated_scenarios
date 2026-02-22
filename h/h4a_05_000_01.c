@@ -15,7 +15,7 @@ switch (ChPrmGet(5,6)){
     VoiceEVSPlay(5);
     VoicePlay("H4A0500001_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","｛柊＊＊＊｝...
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 I lost.");
     VoicePlay("H4A0500001_05_010");
     MsgDisp("Hiiragi","Regardless of winning or losing, this was
@@ -33,7 +33,7 @@ Well, to the next stage, then.");
     MsgDisp("Hiiragi","As your fan, I would be happier if you
 decided to do so.
 I'd be quite sad if today was the last.");
-    MsgDisp("主人公","｛柊＊＊＊｝...");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("H4A0500001_05_040");

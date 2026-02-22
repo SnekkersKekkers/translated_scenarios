@@ -12,4 +12,4 @@ MsgDisp("Honda","Not at all.
 You're already a playful person, you don't
 need to show it off through your clothes!");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to like this!)");
+｛Honda＊＊｝ seems to like this!)");

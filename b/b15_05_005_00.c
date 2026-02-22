@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B150500500_05_000");
 MsgDisp("Hiiragi","Haa...wait.
 Please wait.");
-MsgDisp("主人公","∋ Um, ｛柊＊＊＊｝...");
+MsgDisp("主人公","∋ Um, ｛Hiiragi＊＊＊｝...");
 ChEyeOpenLevel(5,9);
 VoicePlay("B150500500_05_010");
 MsgDisp("Hiiragi","Phew...");
@@ -37,7 +37,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B150500500_05_050");
 MsgDisp("Hiiragi","Haa..
 I want to do that too.");
-MsgDisp("主人公","｛柊＊＊＊｝, you're going to leave?
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, you're going to leave?
 ...I'll stop now.");
 Wait(40,1);
 ChEye(5,0);
@@ -59,7 +59,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B150500500_05_080");
 MsgDisp("Hiiragi","Let's go, little kitty.");
 MsgDisp("主人公","(What should I do...
-｛柊＊＊＊｝ is...)");
+｛Hiiragi＊＊＊｝ is...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

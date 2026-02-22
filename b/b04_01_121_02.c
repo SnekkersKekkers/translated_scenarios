@@ -13,7 +13,7 @@ VoicePlay("B040112102_01_000");
 MsgDisp("Kazama","Alright, this is the perfect place to
 check your fashion sense every once in
 awhile.");
-MsgSel("Then I'll pick out some clothes for ｛風真＊＊｝▼","Yeah, let's get something matching.","Alright, I'll get serious!");
+MsgSel("Then I'll pick out some clothes for ｛Kazama＊＊｝▼","Yeah, let's get something matching.","Alright, I'll get serious!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -120,7 +120,7 @@ things, so even I don't know what I want.");
 better.
 If it's you choosing, anything is good.");
         ChMotion(1,0);
-        MsgDisp("主人公","(｛風真＊＊｝...)");
+        MsgDisp("主人公","(｛Kazama＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

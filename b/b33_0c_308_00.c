@@ -97,7 +97,7 @@ VoicePlay("B330C30800_06_050");
 MsgDisp("Himuro","Kojiro-sensei, shouldn't you have come in
 your normal overalls today?");
 MsgDisp("主人公","(Hehe!
-Maybe it's just as ｛氷室＊＊｝ says?)");
+Maybe it's just as ｛Himuro＊＊｝ says?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

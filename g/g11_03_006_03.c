@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","I'm redecorating the store today.");
 VoicePlay("G110300603_03_000");
 MsgDisp("Honda?","Woooooah～∈");
-MsgDisp("主人公","Huh, ｛本多＊＊｝, are you okay∋");
+MsgDisp("主人公","Huh, ｛Honda＊＊｝, are you okay∋");
 MsgDisp("主人公","(Aah, I have to get his book...!)");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
@@ -37,7 +37,7 @@ VoicePlay("G110300603_03_010");
 MsgDisp("Honda","｛主人公｝.
 Thank you for saving my life.");
 MsgDisp("主人公","I'm so glad.
-｛本多＊＊｝, I was surprised when I heard
+｛Honda＊＊｝, I was surprised when I heard
 your voice.");
 ChEye(3,2);
 ChMouth(3,1);

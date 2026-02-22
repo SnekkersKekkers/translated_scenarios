@@ -8,7 +8,7 @@ Wait(50,0);
 ChNanaType(0);
 ChOpen(4,254,0,4,0,#1,#1,0,0);
 MsgDisp("主人公","Eh...
-｛七ツ森＊｝∋");
+｛Nanatsumori＊｝∋");
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("T020411000_04_010");
@@ -72,7 +72,7 @@ ChMotion(4,0,1);
 VoicePlay("T020411000_04_070");
 MsgDisp("Nanatsumori","Even if it means twisting your fate, I
 can't give up.");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("T020411000_04_080");

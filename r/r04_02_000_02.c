@@ -66,7 +66,7 @@ Isn't the food here amazing?");
     ChMotion(2,4);
     VoicePlay("R040200002_02_030");
     MsgDisp("Sassa","......");
-    MsgDisp("主人公","Oh, ｛颯砂＊＊｝?
+    MsgDisp("主人公","Oh, ｛Sassa＊＊｝?
 Weren't you looking forward to the food
 here?");
     ChEye(2,0);

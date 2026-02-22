@@ -34,7 +34,7 @@ A victory for both of us!)");
     ScrFadeIn(0);
     VoicePlay("O030500000_05_020");
     MsgDisp("Hiiragi","Haa...");
-    MsgDisp("主人公","｛柊＊＊＊｝, we did it!
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, we did it!
 We're first place!");
     ChMotion(5,3);
     Wait(23,0);

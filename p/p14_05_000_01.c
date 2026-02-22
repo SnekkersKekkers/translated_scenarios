@@ -4,7 +4,7 @@ ChMotion(5,4,1);
 ScrFadeIn(0);
 VoicePlay("P140500001_05_000");
 MsgDisp("Hiiragi","Oh, I'm already here.");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝!
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!
 How was it?");
 ChEye(5,4);
 ChMouth(5,4);

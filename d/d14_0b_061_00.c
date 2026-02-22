@@ -61,7 +61,7 @@ ChMotion(3,4,1);
 VoicePlay("D140B06100_03_040");
 MsgDisp("Honda","Is it no good?
 Can you not tell me?");
-MsgDisp("主人公","Hey, how about you ask ｛風真＊＊｝?");
+MsgDisp("主人公","Hey, how about you ask ｛Kazama＊＊｝?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -77,7 +77,7 @@ VoicePlay("D140B06100_04_030");
 MsgDisp("Nanatsumori","...｛主人公｝.
 You've gotten pretty good at dodging
 Dahon.");
-MsgDisp("主人公","(｛風真＊＊｝....is a little kinder when
+MsgDisp("主人公","(｛Kazama＊＊｝....is a little kinder when
 it's just the two of us.
 But, I can't say that right...?)");
 BGMStop();

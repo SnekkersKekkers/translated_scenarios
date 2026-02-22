@@ -24,7 +24,7 @@ VoicePlay("D020800400_08_020");
 MsgDisp("Shirahane","Ya really are such an honest, hard-working
 person, an honor student too...
 It's inspiring.");
-MsgDisp("主人公","But ｛大地＊＊｝ is the same way.");
+MsgDisp("主人公","But ｛Daichi＊＊｝ is the same way.");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,2,1);
@@ -48,7 +48,7 @@ VoicePlay("D020800400_08_050");
 MsgDisp("Shirahane","Haha!
 But, Hane High and Haba High are like
 night and day.");
-MsgDisp("主人公","(It seems like ｛大地＊＊｝ is both a top
+MsgDisp("主人公","(It seems like ｛Daichi＊＊｝ is both a top
 student and good at sports...∋)");
 ChEye(8,4);
 ChMouth(8,0);

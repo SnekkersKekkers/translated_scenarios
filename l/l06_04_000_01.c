@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("L060400001_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -43,5 +43,5 @@ BGMStop();
 MsgClose();
 ChClose(4);
 MsgDisp("主人公","(I got a White Day present from
-｛七ツ森＊｝!
+｛Nanatsumori＊｝!
 I'm so happy.)");

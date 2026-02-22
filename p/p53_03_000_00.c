@@ -17,7 +17,7 @@ I'm getting nervous...)");
     VoiceEVSPlay(3);
     VoicePlay("P530300000_03_000");
     MsgDisp("Honda","｛主人公｝, what's the matter?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝...
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝...
 I'm a bit nervous...");
     ChEye(3,4);
     ChMouth(3,4);
@@ -65,7 +65,7 @@ I'm getting nervous...)");
     ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530300000_03_050");
     MsgDisp("Honda","Huh, you look nervous.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 When I see the audience, my heart starts
 pounding...");
     ChEye(3,4);
@@ -104,7 +104,7 @@ the buzzer for a wrong answer.");
     MsgDisp("主人公","Hehe, are you okay?
 EVen though you specifically wanted to
 relax?");
-    MsgDisp("主人公","(Huh...thanks to ｛本多＊＊｝, It seems like
+    MsgDisp("主人公","(Huh...thanks to ｛Honda＊＊｝, It seems like
 I'm not anxious anymore.
 Yeah, I'll give it my best.)");
     break ;

@@ -5,7 +5,7 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Welcome!");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
@@ -35,7 +35,7 @@ store.");
     VoicePlay("I450700000_07_030");
     MsgDisp("Mikage","Ooh, I see you have succulents, too.");
     MsgDisp("主人公","(Hehe.
-Looks like ｛御影＊＊｝ is going to
+Looks like ｛Mikage＊＊｝ is going to
 take a long time, right?)");
     break ;
     case 3:
@@ -46,7 +46,7 @@ take a long time, right?)");
     VoicePlay("I450700000_07_040");
     MsgDisp("Mikage","Excuse me.");
     MsgDisp("主人公","Yes, I'll be right with you!
-Ah, ｛御影＊＊｝?
+Ah, ｛Mikage＊＊｝?
 Welcome.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -110,7 +110,7 @@ it'd get eaten, right?");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","｛御影＊＊｝!
+    MsgDisp("主人公","｛Mikage＊＊｝!
 Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
@@ -153,7 +153,7 @@ put on the desk in the staff room.");
 it will cheer us up.");
     MsgDisp("主人公","Yes. I hope that this will make the staff
 room even a little more comfortable for
-you, ｛御影＊＊｝.");
+you, ｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

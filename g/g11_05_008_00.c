@@ -15,7 +15,7 @@ VoicePlay("G110500800_05_000");
 MsgDisp("Hiiragi","Yes.
 Good work today.");
 MsgDisp("主人公","Huh?
-｛柊＊＊＊｝ is still here?");
+｛Hiiragi＊＊＊｝ is still here?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -48,7 +48,7 @@ ChMotion(5,0);
 VoicePlay("G110500800_05_040");
 MsgDisp("Hiiragi","Whether I'm actually helping is another
 matter.");
-MsgDisp("主人公","｛柊＊＊＊｝ is fantastic.
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ is fantastic.
 Everyone feels motivated to do their best
 because of you.");
 ChEye(5,1);
@@ -68,7 +68,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
-MsgDisp("主人公","(It looks like ｛柊＊＊＊｝ ispushing
+MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ ispushing
 himself too hard after all...Even if it's
 just a little, I want to help him.)");
 BGMStop();

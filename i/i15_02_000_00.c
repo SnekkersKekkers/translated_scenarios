@@ -7,7 +7,7 @@ switch (ChPrmGet(2,6)){
     case 1:
     case 2:
     MsgDisp("主人公","Welcome!
-Ah, ｛颯砂＊＊｝.");
+Ah, ｛Sassa＊＊｝.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -16,7 +16,7 @@ Ah, ｛颯砂＊＊｝.");
     VoicePlay("I150200000_02_000");
     MsgDisp("Sassa","Wow, that apron's nice.");
     MsgDisp("主人公","Hehe, thanks.
-Are you shopping, ｛颯砂＊＊｝?");
+Are you shopping, ｛Sassa＊＊｝?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -29,7 +29,7 @@ in.");
     VoicePlay("I150200000_02_020");
     MsgDisp("Sassa","Maybe I'm a little out of place here?");
     MsgDisp("主人公","No, not at all.
-Ah, ｛風真＊＊｝'s in the back.");
+Ah, ｛Kazama＊＊｝'s in the back.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -61,11 +61,11 @@ Say hi to Ryota for me, too.");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","(Boys' relationships are interesting...
-I hope ｛颯砂＊＊｝ will come back.)");
+I hope ｛Sassa＊＊｝ will come back.)");
     break ;
     case 3:
     MsgDisp("主人公","Welcome!
-Ah, ｛颯砂＊＊｝.");
+Ah, ｛Sassa＊＊｝.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -108,13 +108,13 @@ See you, work hard at your job.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝, he said the hurdle was high,
+    MsgDisp("主人公","(｛Sassa＊＊｝, he said the hurdle was high,
 but he still came to support me...)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","Welcome!
-Ah, ｛颯砂＊＊｝.");
+Ah, ｛Sassa＊＊｝.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C02_SASSA_A",0.01);

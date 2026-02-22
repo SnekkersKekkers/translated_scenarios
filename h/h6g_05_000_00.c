@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("H6G0500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
+MsgDisp("主人公","Oh, ｛Hiiragi＊＊＊｝.
 What is it?");
 ChEye(5,4);
 VoicePlay("H6G0500000_05_010");
@@ -31,6 +31,6 @@ MsgDisp("Hiiragi","Please, show me the plants that you've
 grown next time.");
 MsgDisp("主人公","Yes!");
 MsgDisp("主人公","(I'm so happy.
-｛柊＊＊＊｝ congratulated me!)");
+｛Hiiragi＊＊＊｝ congratulated me!)");
 MsgClose();
 ScrFadeOut(0,0);

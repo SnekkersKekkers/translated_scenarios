@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040310101_03_000");
 MsgDisp("Honda","It looks like there's a trip for
 elementary school students today.");
-MsgSel("How nostalgic, I remember coming a long time ago.","I want to hear ｛本多＊＊｝'s commentary though.","We might not be able to take our time looking around, huh?");
+MsgSel("How nostalgic, I remember coming a long time ago.","I want to hear ｛Honda＊＊｝'s commentary though.","We might not be able to take our time looking around, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

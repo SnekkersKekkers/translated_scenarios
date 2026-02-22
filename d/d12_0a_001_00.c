@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, a message from ｛氷室＊＊｝...)");
+MsgDisp("主人公","(Ah, a message from ｛Himuro＊＊｝...)");
 MsgDisp("主人公","(It says...\"Right now there's a surfing
 lesson being held at the beach.
 Ryota-senpai and Nozomu-senpai are
@@ -89,7 +89,7 @@ MsgDisp("Kazama","All because Sassa had to ask you to teach
 us to surf...");
 StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
-MsgDisp("主人公","(｛氷室＊＊｝ looks like he's having a lot
+MsgDisp("主人公","(｛Himuro＊＊｝ looks like he's having a lot
 of fun?)");
 MsgClose();
 ScrFadeOut(0);
@@ -123,7 +123,7 @@ VoicePlay("D120A00100_01_040");
 MsgDisp("Kazama","Sigh...
 This is the first time I've ever heard of
 surfing on the sand...");
-MsgDisp("主人公","｛風真＊＊｝, are you okay?");
+MsgDisp("主人公","｛Kazama＊＊｝, are you okay?");
 ChMouth(1,0);
 ChEyeOpenLevel(1,#1);
 ChEye(6,0);

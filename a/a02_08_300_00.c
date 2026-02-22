@@ -77,7 +77,7 @@ SEPlay("EV_SE_589");
 BGMVol(0.5,2);
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you very much!
-｛大地＊＊｝, thank you for helping me.");
+｛Daichi＊＊｝, thank you for helping me.");
 SEStop("EV_SE_589",1);
 ChEye(8,3);
 ChMotion(8,0,1);
@@ -108,7 +108,7 @@ VoicePlay("A020830000_08_080");
 MsgDisp("Shirahane","Then, once more: lookin' forward to
 workin' with you～!");
 MsgDisp("主人公","(Hanegasaki High School's
-｛大地＊＊｝...His smile and
+｛Daichi＊＊｝...His smile and
 characteristic intonation might be kinda
 cute. I'm looking forward to work days
 now!)");

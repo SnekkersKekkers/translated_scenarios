@@ -3,7 +3,7 @@ ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,3);
 VoicePlay("W040400000_04_000");
 MsgDisp("Nanatsumori","Hey.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 It's good to see you today!");
 ChEye(4,2);
 ChMouth(4,3);

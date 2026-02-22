@@ -18,7 +18,7 @@ VoicePlay("G020520201_05_020");
 MsgDisp("Hiiragi","I also respect Mikage-sensei, and not only
 that...
 I also like him as a friend.");
-MsgDisp("主人公","｛柊＊＊＊｝?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);
@@ -31,7 +31,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_040");
 MsgDisp("Hiiragi","Consequently, I am in despair.");
 MsgDisp("主人公","Umm...
-Well, I also like ｛御影＊＊｝, but——");
+Well, I also like ｛Mikage＊＊｝, but——");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -59,14 +59,14 @@ I am an actor...maybe I should attempt
 imitating Mikage-sensei?");
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","Eh?
-｛柊＊＊＊｝ imitating ｛御影＊＊｝∋");
+｛Hiiragi＊＊＊｝ imitating ｛Mikage＊＊｝∋");
 ChEye(5,4);
 ChMouth(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020520201_05_090");
 MsgDisp("Hiiragi","In order to understand the opponent first.
 It might not be an awful idea...");
-MsgDisp("主人公","(｛柊＊＊＊｝ seems a little strange...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems a little strange...
 Perhaps it's due to the firefly dwelling?)");
 BGMStop();
 MsgClose();

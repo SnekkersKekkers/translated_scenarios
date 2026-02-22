@@ -13,7 +13,7 @@ Later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","Um, ｛風真＊＊｝?");
+MsgDisp("主人公","Um, ｛Kazama＊＊｝?");
 SEWait();
 VoicePlay("F100130001_22_000");
 MsgDisp("Hikaru?","Kazama-kun escaped!");

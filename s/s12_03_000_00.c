@@ -18,7 +18,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","｛主人公｝, aren't you tired from all the
 walking?");
     MsgDisp("主人公","It's okay, I'm fine.
-Is ｛本多＊＊｝ okay?");
+Is ｛Honda＊＊｝ okay?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -45,7 +45,7 @@ I hope this year is another good year...)");
     MsgDisp("Honda","Phew!
 There were a lot of people, but it was
 fun!");
-    MsgDisp("主人公","Yeah! I got to talk to ｛本多＊＊｝ about a
+    MsgDisp("主人公","Yeah! I got to talk to ｛Honda＊＊｝ about a
 lot of things. It was fun.");
     ChEye(3,3);
     ChMouth(3,3);

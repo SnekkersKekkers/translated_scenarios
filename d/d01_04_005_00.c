@@ -106,7 +106,7 @@ SEPlay("EV_SE_864",0.3,0.8);
 BGOpen("sc310",0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝.");
+MsgDisp("主人公","｛Nanatsumori＊｝.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
@@ -140,7 +140,7 @@ MsgDisp("Nanatsumori","Right.
 Just one of the few things I enjoy about
 this place.");
 MsgDisp("主人公","(Hehe.
-｛七ツ森＊｝, I'm happy for you!)");
+｛Nanatsumori＊｝, I'm happy for you!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

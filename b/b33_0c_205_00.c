@@ -21,7 +21,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(20,1);
 ChOpen(6,255,0,0,4,#1,#1,0,3);
-MsgDisp("主人公","Amazing, ｛氷室＊＊｝!");
+MsgDisp("主人公","Amazing, ｛Himuro＊＊｝!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -108,8 +108,8 @@ SEPlay("EV_SE_087");
 SEWait();
 VoicePlay("B330C20500_07_020");
 MsgDisp("Mikage","Ah, all of them were failures.");
-MsgDisp("主人公","(｛御影＊＊｝...
-Was ｛氷室＊＊｝ toying with you?)");
+MsgDisp("主人公","(｛Mikage＊＊｝...
+Was ｛Himuro＊＊｝ toying with you?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

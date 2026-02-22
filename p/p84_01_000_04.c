@@ -16,7 +16,7 @@ ChMotion(1,3);
 VoicePlay("P840100004_01_000");
 MsgDisp("Kazama","Amazing.
 You're like a magistrate.");
-MsgDisp("主人公","｛風真＊＊｝.
+MsgDisp("主人公","｛Kazama＊＊｝.
 Hey, don't tease me.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -34,7 +34,7 @@ MsgDisp("Kazama","Well, I didn't have a role to play.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","That's not true.
-I was relieved because ｛風真＊＊｝ was
+I was relieved because ｛Kazama＊＊｝ was
 there with me.");
 ChEye(1,4);
 ChMouth(1,3);

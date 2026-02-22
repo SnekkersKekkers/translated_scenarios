@@ -1,7 +1,7 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛風真＊＊｝ said he wanted
+MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he wanted
 to talk to me on the way home. ...I wonder
 what could it be?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -53,7 +53,7 @@ VoicePlay("G110101001_01_030");
 MsgDisp("Kazama","I was happy that you were always so close
 though?");
 ChMotion(1,0);
-MsgDisp("主人公","(I wonder if ｛風真＊＊｝ wants to hold
+MsgDisp("主人公","(I wonder if ｛Kazama＊＊｝ wants to hold
 hands more...)");
 while (1){
     RunEverydaySksp(1,0,0,0,0,1);

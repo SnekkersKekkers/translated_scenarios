@@ -105,7 +105,7 @@ doesn't like you?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121102_01_100");
         MsgDisp("Kazama","That might be a problem in itself...");
-        MsgDisp("主人公","(｛風真＊＊｝ is there something troubling
+        MsgDisp("主人公","(｛Kazama＊＊｝ is there something troubling
 you?)");
         break ;
         default :

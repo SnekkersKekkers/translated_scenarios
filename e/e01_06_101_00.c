@@ -9,7 +9,7 @@ SEWait();
 ChOpen(6,255,4,2,0,#1,#1,0,0);
 VoicePlay("E010610100_06_000");
 MsgDisp("Himuro","Right on time!");
-MsgDisp("主人公","Wow, ｛氷室＊＊｝∋");
+MsgDisp("主人公","Wow, ｛Himuro＊＊｝∋");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -25,7 +25,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("E010610100_06_020");
 MsgDisp("Himuro","...I got separated from my little brother.");
 MsgDisp("主人公","Eh...brother∋
-｛氷室＊＊｝, you have a little brother?");
+｛Himuro＊＊｝, you have a little brother?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -84,7 +84,7 @@ I didn't think he'd go home by himself.
 Sorry for making you worry.");
 MsgDisp("主人公","It's no problem at all.
 He's a reliable little brother, just like
-｛氷室＊＊｝, isn't he?");
+｛Himuro＊＊｝, isn't he?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -99,7 +99,7 @@ VoicePlay("E010610100_06_110");
 MsgDisp("Himuro","Apparently he told mother that I got lost.");
 MsgDisp("主人公","Hehe.
 So it turns out he was actually looking
-for ｛氷室＊＊｝?");
+for ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,2);
@@ -119,7 +119,7 @@ BGMStop();
 MsgClose();
 ChClose(6);
 MsgDisp("主人公","(I'm glad he's safe...I also got to see
-what the relationship between ｛氷室＊＊｝
+what the relationship between ｛Himuro＊＊｝
 and his brother is like.)");
 MsgClose();
 ScrFadeOut(0,0);

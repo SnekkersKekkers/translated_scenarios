@@ -5,7 +5,7 @@ switch (ChPrmGet(1,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛風真＊＊｝!");
+    MsgDisp("主人公","｛Kazama＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -19,7 +19,7 @@ Here, Valentine's chocolate.");
     SEWait();
     break ;
     case 3:
-    MsgDisp("主人公","｛風真＊＊｝!");
+    MsgDisp("主人公","｛Kazama＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -59,7 +59,7 @@ Valentine's chocolate.");
     SEWait();
     BGMPlay("BGM_C01_RYOUTA_A");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","｛風真＊＊｝!
+    MsgDisp("主人公","｛Kazama＊＊｝!
 I was looking for you.");
     ChEye(1,0);
     ChMouth(1,3);

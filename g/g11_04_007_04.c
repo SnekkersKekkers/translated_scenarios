@@ -1,6 +1,6 @@
 BGOpen("ar100",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Oh yeah, ｛七ツ森＊｝ is almost done
+MsgDisp("主人公","(Oh yeah, ｛Nanatsumori＊｝ is almost done
 with a shoot...)");
 MsgClose();
 SEPlay("EV_SE_DOOR_014");
@@ -70,7 +70,7 @@ ChMotion(4,0);
 VoicePlay("G110400704_04_090");
 MsgDisp("Nanatsumori","Phew!
 Today was a good day.");
-MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ is in a good mood.
+MsgDisp("主人公","(Hehe, ｛Nanatsumori＊｝ is in a good mood.
 Thank you for your hard work today.)");
 BGMStop();
 MsgClose();

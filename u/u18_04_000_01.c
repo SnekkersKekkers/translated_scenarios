@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
 and Hikaru-san? They told me to get along
 with you.");
     MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝...
-I told ｛七ツ森＊｝ about the
+I told ｛Nanatsumori＊｝ about the
 sleepover∋)");
     break ;
     case 4:
@@ -19,7 +19,7 @@ discreet about our relationship. Michiru
 and Hikaru tease me a lot.");
     MsgDisp("主人公","(Is this about the sleepover? Geez,
 ｛みちる＊｝ and ｛ひかる＊｝ are
-so...｛七ツ森＊｝, sorry.)");
+so...｛Nanatsumori＊｝, sorry.)");
     break ;
     default :
     DbgAssert(1);

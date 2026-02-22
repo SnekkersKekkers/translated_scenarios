@@ -100,7 +100,7 @@ as well go with you.");
         MsgDisp("Himuro","That's a wise decision.
 You don't need fortune telling, make your
 own fortune.");
-        MsgDisp("主人公","That's just like ｛氷室＊＊｝.");
+        MsgDisp("主人公","That's just like ｛Himuro＊＊｝.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

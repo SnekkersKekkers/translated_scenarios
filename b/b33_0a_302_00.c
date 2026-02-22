@@ -9,7 +9,7 @@ MsgClose();
 ChOpen(2,31,3,0,4,#1,#1,0,3,0,30);
 ChOpen(6,31,0,0,0,#1,#1,0,3,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh, where's ｛風真＊＊｝...?");
+MsgDisp("主人公","Huh, where's ｛Kazama＊＊｝...?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -194,7 +194,7 @@ ChCheek(6,5);
 MsgDisp("Himuro","...Then, as for the tuition fee, you guys
 will treat me to the next meal at the
 school cafeteria.");
-MsgDisp("主人公","(Hehe, that's just like ｛氷室＊＊｝.
+MsgDisp("主人公","(Hehe, that's just like ｛Himuro＊＊｝.
 But it was super fun.
 I want to come here with everyone again!)");
 BGMStop();

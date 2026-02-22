@@ -1,6 +1,6 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛颯砂＊＊｝...Your hurdle time is your
+MsgDisp("主人公","(｛Sassa＊＊｝...Your hurdle time is your
 personal best. Maybe you'll be able to win
 all the events.)");
 MsgClose();
@@ -44,7 +44,7 @@ MsgDisp("Sassa","This is my last Inter-High.
 Maybe I can give my seniors some good
 news.");
 MsgDisp("主人公","That's right.
-If ｛颯砂＊＊｝ can give it his all until
+If ｛Sassa＊＊｝ can give it his all until
 the end, I'm sure they'll be very happy.");
 ChEye(2,1);
 ChMouth(2,0);
@@ -78,7 +78,7 @@ BGMStop();
 SEStop("EV_SE_FOOT_037",2);
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","(｛颯砂＊＊｝...
+MsgDisp("主人公","(｛Sassa＊＊｝...
 There isn't long until the last
 Inter-High!)");
 MsgClose();

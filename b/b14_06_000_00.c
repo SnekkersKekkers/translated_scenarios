@@ -54,9 +54,9 @@ VoicePlay("B140600000_06_060");
 MsgDisp("Himuro","Having said all that, well, Merry
 Christmas right?");
 MsgDisp("主人公","Heheh, yeah!
-｛氷室＊＊｝, Merry Christmas.");
+｛Himuro＊＊｝, Merry Christmas.");
 MsgDisp("主人公","(I see, both today and yesterday, I've
-been with ｛氷室＊＊｝.
+been with ｛Himuro＊＊｝.
 My heart is racing a bit...)");
 BGMStop();
 MsgClose();

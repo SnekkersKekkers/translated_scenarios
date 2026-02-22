@@ -5,7 +5,7 @@ switch (MsgSelRsltGet()){
         case 0:
         case 1:
         case 2:
-        MsgDisp("主人公","｛柊＊＊＊｝.");
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C05_HIIRAGI_A",0.01);
         ChOpen(5,254,0,0,0,#1,#1,0,0);
@@ -16,7 +16,7 @@ What is it?");
 together?");
         break ;
         case 3:
-        MsgDisp("主人公","｛柊＊＊＊｝.");
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C05_HIIRAGI_A",0.01);
         ChOpen(5,254,0,0,4,#1,#1,0,0);
@@ -28,7 +28,7 @@ together?");
         break ;
         case 4:
         case 5:
-        MsgDisp("主人公","｛柊＊＊＊｝.");
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C05_HIIRAGI_A",0.01);
         ChOpen(5,254,0,4,4,#1,#1,0,0);
@@ -45,7 +45,7 @@ How about we walk home together?");
         }
     break ;
     case 1:
-    MsgDisp("主人公","｛柊＊＊＊｝.");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,254,0,0,0,#1,#1,0,0);

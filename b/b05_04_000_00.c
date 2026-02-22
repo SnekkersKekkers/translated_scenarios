@@ -56,7 +56,7 @@ ChEyeOpenLevel(4,8);
 VoicePlay("B050400000_47_010");
 MsgDisp("Woman Customer A","Right!
 Don't tell me that's his girlfriend∋");
-MsgDisp("主人公","H-Hey, ｛七ツ森＊｝...");
+MsgDisp("主人公","H-Hey, ｛Nanatsumori＊｝...");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,4,1);
@@ -112,7 +112,7 @@ If he was the real deal, he wouldn't stand
 like thatー.");
 VoicePlay("B050400000_47_030");
 MsgDisp("Woman Customer A","Got it, he's Nana's fan!
-' There are quite a lot of guys who copy
+There are quite a lot of guys who copy
 Nana's hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
 MsgDisp("Woman Customer B","That's right.

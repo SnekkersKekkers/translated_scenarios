@@ -27,7 +27,7 @@ ChMotion(3,1);
 VoicePlay("A020310000_03_030");
 MsgDisp("Honda?","...Ah, I'm Honda Iku.
 And you are?");
-MsgDisp("主人公","｛主人公姓名｝. ｛本多＊＊｝, is it? What
+MsgDisp("主人公","｛主人公姓名｝. ｛Honda＊＊｝, is it? What
 were you doing?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -97,7 +97,7 @@ SEWait();
 VoicePlay("A020310000_03_120");
 MsgDisp("Honda","Ah, but you know, I'm left-handed so it's
 a little complicated～!");
-MsgDisp("主人公","(Hehe, ｛本多＊＊｝, was it?...
+MsgDisp("主人公","(Hehe, ｛Honda＊＊｝, was it?...
 He's a bit odd, but he's funny.)");
 MsgClose();
 ScrFadeOut(0);

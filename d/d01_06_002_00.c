@@ -9,7 +9,7 @@ MsgClose();
 SEPlay("EV_SE_628");
 Wait(30,0);
 ChOpen(6,30,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 You're participating in the Tug Of War,
 right?");
 ChEye(6,0);
@@ -90,7 +90,7 @@ ChEyeOpenLevel(6,8);
 VoicePlay("D010600200_06_030");
 MsgDisp("Himuro","Of course he's on the enemy team...");
 MsgDisp("主人公","Uhm...
-｛氷室＊＊｝, good luck, okay?");
+｛Himuro＊＊｝, good luck, okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -119,7 +119,7 @@ VoicePlay("D010600200_38_000");
 MsgDisp("Students","HEAVE-HO!
 HEAVE-HO!");
 MsgDisp("主人公","(It's so intense!
-｛氷室＊＊｝ vs Himuro-sensei...)");
+｛Himuro＊＊｝ vs Himuro-sensei...)");
 BGMPlay("BGM_C06_INORI_C",0.01);
 MsgClose();
 ScrFadeOut(0);
@@ -193,7 +193,7 @@ MsgClose();
 SEPlay("EV_SE_628");
 Wait(30);
 ChOpen(6,30,2,1,0,0,#1,0,0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝, good job!
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝, good job!
 Too bad, huh?");
 ChEye(6,0);
 ChMouth(6,0);

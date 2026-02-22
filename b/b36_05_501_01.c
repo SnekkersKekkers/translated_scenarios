@@ -80,7 +80,7 @@ again.");
 ChEye(5,3);
 VoicePlay("B360550101_05_080");
 MsgDisp("Hiiragi","Or maybe I've just grown into an old man?");
-MsgDisp("主人公","(｛柊＊＊＊｝, you sound like Urashima
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you sound like Urashima
 Taro...)");
 BGMStop();
 MsgClose();

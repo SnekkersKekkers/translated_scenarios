@@ -10,7 +10,7 @@ MsgDisp("主人公","Mmm, delicious♪");
 ChMouthOpenLevel(1,0);
 VoicePlay("D140B06002_01_000");
 MsgDisp("Kazama","......");
-MsgDisp("主人公","...? ｛風真＊＊｝, is there something on my
+MsgDisp("主人公","...? ｛Kazama＊＊｝, is there something on my
 face?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -67,8 +67,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B06002_01_040");
 MsgDisp("Kazama","Shut up.");
 ChEyeOpenLevel(3,#1);
-MsgDisp("主人公","(｛風真＊＊｝ is worried about me and
-｛七ツ森＊｝...?)");
+MsgDisp("主人公","(｛Kazama＊＊｝ is worried about me and
+｛Nanatsumori＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

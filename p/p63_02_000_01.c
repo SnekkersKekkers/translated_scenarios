@@ -16,7 +16,7 @@ well-received...)");
     VoicePlay("P630200001_02_000");
     MsgDisp("Sassa","｛主人公｝, you're selling fresh
 vegetables?");
-    MsgDisp("主人公","｛颯砂＊＊｝, welcome!
+    MsgDisp("主人公","｛Sassa＊＊｝, welcome!
 Yes, we're selling organic vegetables and
 herb tea.");
     ChEye(2,3);
@@ -58,7 +58,7 @@ well-received...)");
     VoicePlay("P630200001_02_030");
     MsgDisp("Sassa","｛主人公｝, these vegetables look
 delicious.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝ you came.");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝ you came.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);

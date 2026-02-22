@@ -1,7 +1,7 @@
 ScrFadeIn(0);
 MsgDisp("主人公","(Hmmm...I ended up buying both matcha and
 black tea castella. I wonder what
-｛颯砂＊＊｝ bought...)");
+｛Sassa＊＊｝ bought...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,4,#1,#1,0,0);
@@ -62,7 +62,7 @@ MsgDisp("Sassa","I mean, wouldn't it be great if we could
 be a perfect match?");
 MsgDisp("主人公","(Pff, no matter what flavor of castella I
 see, I guess it'll make me think of
-｛颯砂＊＊｝?)");
+｛Sassa＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

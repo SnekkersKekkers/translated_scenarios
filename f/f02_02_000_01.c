@@ -5,7 +5,7 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, do you know the legend about
+MsgDisp("主人公","｛Sassa＊＊｝, do you know the legend about
 the church on school grounds?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -76,7 +76,7 @@ ChMotion(2,2);
 VoicePlay("F020200001_02_090");
 MsgDisp("Sassa","Three years to complete a confession.
 You have to plan for it...");
-MsgDisp("主人公","｛颯砂＊＊｝?");
+MsgDisp("主人公","｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

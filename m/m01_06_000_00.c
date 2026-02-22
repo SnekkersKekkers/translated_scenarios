@@ -9,7 +9,7 @@ MsgDisp("主人公","Yes, I'm upー!");
 VoicePlay("M010600000_06_000");
 MsgDisp("Himuro","It's me, but.
 ...Can I come in?");
-MsgDisp("主人公","Eh, ｛氷室＊＊｝∋
+MsgDisp("主人公","Eh, ｛Himuro＊＊｝∋
 Uuhm...
 Yeah, come in.");
 SEPlay("EV_SE_DOOR_007");
@@ -106,5 +106,5 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(｛氷室＊＊｝ really rushed over...
+MsgDisp("主人公","(｛Himuro＊＊｝ really rushed over...
 I have to hurry and get better!)");

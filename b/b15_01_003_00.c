@@ -51,7 +51,7 @@ VoicePlay("B150100300_01_050");
 MsgDisp("Kazama","Right?
 That's why you should stop here.
 If you understand, go home already.");
-MsgDisp("主人公","Sorry, ｛風真＊＊｝.
+MsgDisp("主人公","Sorry, ｛Kazama＊＊｝.
 I'll be careful to not do it again.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -71,6 +71,6 @@ MsgDisp("Kazama","Haa...I'm going crazy. See you. I'll cool
 my head as I go home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(I wonder if I've troubled ｛風真＊＊｝...)");
+MsgDisp("主人公","(I wonder if I've troubled ｛Kazama＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

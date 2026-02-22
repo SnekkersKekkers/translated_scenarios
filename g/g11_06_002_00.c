@@ -2,7 +2,7 @@ BGOpen("sc510",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(...Huh? It's a message from ｛氷室＊＊｝. It
+MsgDisp("主人公","(...Huh? It's a message from ｛Himuro＊＊｝. It
 says \"I'd like to talk, do you have
 time?\"...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -20,7 +20,7 @@ ChOpen(6,100,2,2,1,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's been a while since he came out of
 the water but...
-｛氷室＊＊｝ hasn't said a word at all...)");
+｛Himuro＊＊｝ hasn't said a word at all...)");
 while (1){
     RunEverydaySksp(6,0,0,1,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -71,7 +71,7 @@ VoicePlay("G110600200_06_070");
 MsgDisp("Himuro","Then...did other guys receive any?
 Homemade chocolates that is.");
 MsgDisp("主人公","As for handmade chocolates, I only gave
-them to ｛氷室＊＊｝?");
+them to ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
@@ -110,7 +110,7 @@ VoicePlay("G110600200_06_120");
 MsgDisp("Himuro","It's nothing!
 It looks like there's some nice waves
 coming, I'm off!");
-MsgDisp("主人公","(｛氷室＊＊｝...?)");
+MsgDisp("主人公","(｛Himuro＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

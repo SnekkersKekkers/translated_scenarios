@@ -35,7 +35,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("Nanatsumori","Ahh, right.
 I've been defeated...");
         MsgDisp("主人公","Is it not interesting for you,
-｛七ツ森＊｝?");
+｛Nanatsumori＊｝?");
         ChEye(4,1);
         ChMouth(4,1);
         ChEyeOpenLevel(4,0);

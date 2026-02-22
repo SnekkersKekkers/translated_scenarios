@@ -21,5 +21,5 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B020102000_01_020");
 MsgDisp("Kazama","No, you look good in it, but it just
 doesn't seem right...");
-MsgDisp("主人公","(｛風真＊＊｝ seems to be a little
+MsgDisp("主人公","(｛Kazama＊＊｝ seems to be a little
 troubled...?)");

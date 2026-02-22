@@ -9,7 +9,7 @@ MsgDisp("主人公","Exams are coming up...");
 VoicePlay("F020400005_04_000");
 MsgDisp("Nanatsumori","Ahhh.");
 MsgDisp("主人公","Huh?
-｛七ツ森＊｝, aren't you nervous?");
+｛Nanatsumori＊｝, aren't you nervous?");
 ChMotion(4,1,1);
 VoicePlay("F020400005_04_010");
 MsgDisp("Nanatsumori","I'm comfortable.

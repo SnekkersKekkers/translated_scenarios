@@ -71,7 +71,7 @@ yet, huh?");
 I can have conversations with you like
 this.");
         MsgDisp("主人公","(From now on too, I hope I can keep having
-fun conversations with ｛本多＊＊｝ like
+fun conversations with ｛Honda＊＊｝ like
 this.)");
         break ;
         default :

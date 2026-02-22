@@ -80,7 +80,7 @@ VoicePlay("G020610300_06_110");
 MsgDisp("Himuro","Why are you responding?
 It's a monologue.");
 MsgDisp("主人公","(Though I got scolded ...
-I feel like I heard ｛氷室＊＊｝'s true
+I feel like I heard ｛Himuro＊＊｝'s true
 feelings.)");
 BGMStop();
 MsgClose();

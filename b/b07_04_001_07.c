@@ -26,7 +26,7 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400001_04_550");
 MsgDisp("Nanatsumori","...Am I the cause?");
-MsgDisp("主人公","｛七ツ森＊｝?
+MsgDisp("主人公","｛Nanatsumori＊｝?
 ...Ah.");
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_560");

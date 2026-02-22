@@ -99,8 +99,8 @@ them.");
         MsgDisp("Kazama","You should just always be your natural
 self.");
         MsgDisp("主人公","Yeah.
-Thank you, ｛風真＊＊｝.");
-        MsgDisp("主人公","(Is ｛風真＊＊｝ able to make his stomach
+Thank you, ｛Kazama＊＊｝.");
+        MsgDisp("主人公","(Is ｛Kazama＊＊｝ able to make his stomach
 growl any time...?)");
         break ;
         default :

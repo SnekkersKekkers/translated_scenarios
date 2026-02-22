@@ -4,7 +4,7 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛御影＊＊｝!");
+    MsgDisp("主人公","｛Mikage＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();
@@ -17,7 +17,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("K010700100_07_000");
     MsgDisp("Mikage","｛主人公｝.
 You're in high spirits today.");
-    MsgDisp("主人公","Since it's your birthday, ｛御影＊＊｝.
+    MsgDisp("主人公","Since it's your birthday, ｛Mikage＊＊｝.
 Here, take this.");
     SEPlay("EV_SE_664");
     SEWait();
@@ -36,7 +36,7 @@ Thank you.");
 Please open it!");
     break ;
     case 3:
-    MsgDisp("主人公","｛御影＊＊｝!");
+    MsgDisp("主人公","｛Mikage＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();
@@ -59,7 +59,7 @@ If you'd like, please open it!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛御影＊＊｝!");
+    MsgDisp("主人公","｛Mikage＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();

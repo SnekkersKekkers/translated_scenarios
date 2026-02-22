@@ -8,7 +8,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020500002_05_000");
     MsgDisp("Hiiragi","Hello.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Hello.");
     ChMouth(5,4);
     VoicePlay("N020500002_05_010");
@@ -21,7 +21,7 @@ See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ must be busy...
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ must be busy...
 If he's doing his best, then I should
 too...)");
     break ;
@@ -31,7 +31,7 @@ too...)");
     VoicePlay("N020500002_05_030");
     MsgDisp("Hiiragi","Are you satisfied by this outcome?");
     MsgDisp("主人公","Umm...
-Are you, ｛柊＊＊＊｝?");
+Are you, ｛Hiiragi＊＊＊｝?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,1);
@@ -58,7 +58,7 @@ The both of us should take it easy, then.");
     VoiceEVSPlay(5);
     VoicePlay("N020500002_05_060");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("N020500002_05_070");
@@ -97,7 +97,7 @@ For some reason, that motivated me.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Hehe, ｛柊＊＊＊｝ is good at motivating
+    MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ is good at motivating
 people.
 Alright, I'll study harder next time!)");
     break ;

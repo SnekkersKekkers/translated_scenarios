@@ -26,7 +26,7 @@ MsgDisp("Kazama","I think bears are braver.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hehe!
 Is there an enclosure you liked,
-｛本多＊＊｝?");
+｛Honda＊＊｝?");
 ChMouth(1,2);
 ChEye(3,4);
 ChMouth(3,4);

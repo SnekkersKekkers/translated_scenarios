@@ -119,7 +119,7 @@ MsgDisp("Kazama","...OK.
 Ask me for some funny stories in
 preparation.");
 MsgDisp("主人公","(If the four of us come to the castle
-again, I'll be happy to hear ｛風真＊＊｝
+again, I'll be happy to hear ｛Kazama＊＊｝
 's commentary.)");
 BGMStop();
 MsgClose();

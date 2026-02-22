@@ -1,7 +1,7 @@
 MsgClose();
 ChClose(6,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh, ｛氷室＊＊｝ Still hasn't come yet?");
+MsgDisp("主人公","Huh, ｛Himuro＊＊｝ Still hasn't come yet?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -27,7 +27,7 @@ MsgDisp("Guy","You don't know? That's better. There's no
 need to distinguish between virtuality and
 reality.");
 MsgDisp("主人公","Ummmm?
-...Ah, ｛氷室＊＊｝!");
+...Ah, ｛Himuro＊＊｝!");
 ChPosition(34,2);
 SEPlay("EV_SE_550");
 BGMPlay("BGM_PLACE_BEACH",0.01);
@@ -94,7 +94,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B110600001_06_040");
 MsgDisp("Himuro","Honestly...people like that lower the
 quality of the sea.");
-MsgDisp("主人公","Um, ｛氷室＊＊｝...
+MsgDisp("主人公","Um, ｛Himuro＊＊｝...
 Thank you.");
 ChEye(6,0);
 ChMouth(6,0);

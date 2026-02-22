@@ -110,7 +110,7 @@ MsgDisp("Himuro","Yeah, and then?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);
-MsgDisp("主人公","Wait a second, ｛柊＊＊＊｝!
+MsgDisp("主人公","Wait a second, ｛Hiiragi＊＊＊｝!
 You can't!");
 ChEye(6,0);
 ChMouth(6,0);
@@ -132,7 +132,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("D140C05100_05_050");
 MsgDisp("Hiiragi","It appears that I cannot.");
 MsgDisp("主人公","(Haa, that caught me off guard.
-What was ｛柊＊＊＊｝ saying so suddenly?)");
+What was ｛Hiiragi＊＊＊｝ saying so suddenly?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

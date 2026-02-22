@@ -14,7 +14,7 @@ switch (ChPrmGet(3,6)){
 I heard that there was someone new coming
 today, was that you?");
     MsgDisp("主人公","Yes, it's me.
-｛本多＊＊｝, I'm looking forward to working
+｛Honda＊＊｝, I'm looking forward to working
 together.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -59,7 +59,7 @@ have questions, okay?");
     VoicePlay("I230300000_03_050");
     MsgDisp("Honda","｛主人公｝.
 Welcome.");
-    MsgDisp("主人公","｛本多＊＊｝, you work here?");
+    MsgDisp("主人公","｛Honda＊＊｝, you work here?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -95,7 +95,7 @@ everything perfectly right away.");
     VoicePlay("I230300000_03_100");
     MsgDisp("Honda","Just some advice from your senpai.");
     MsgDisp("主人公","(I'm happy my part-time job is with
-｛本多＊＊｝.
+｛Honda＊＊｝.
 Let's do this!)");
     break ;
     default :

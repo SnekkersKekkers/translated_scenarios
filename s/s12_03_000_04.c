@@ -16,7 +16,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("S120300004_03_000");
     MsgDisp("Honda","Ah...");
     MsgDisp("主人公","Eh?
-｛本多＊＊｝, what's wrong?");
+｛Honda＊＊｝, what's wrong?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);

@@ -9,7 +9,7 @@ VoicePlay("E010620200_06_000");
 MsgDisp("Himuro?","Yeah.
 He rubbed on me quite a bit...");
 MsgDisp("主人公","(Those voices...)");
-MsgDisp("主人公","｛七ツ森＊｝, ｛氷室＊＊｝!");
+MsgDisp("主人公","｛Nanatsumori＊｝, ｛Himuro＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);

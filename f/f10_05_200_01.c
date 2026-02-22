@@ -5,7 +5,7 @@ MsgDisp("主人公","(Next lesson is...)");
 VoicePlay("F100520001_05_000");
 MsgDisp("Hiiragi","Excuse me.
 Is Kazama-kun here?");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝?");
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,0,0,4,#1,#1,0,0);
@@ -26,7 +26,7 @@ VoicePlay("F100520001_05_020");
 MsgDisp("Hiiragi","I came to thank you for the other day.
 Please give my best regards to your
 grandfather.");
-MsgDisp("主人公","｛柊＊＊＊｝, you were able to look around
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, you were able to look around
 the Kazama family storehouse?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -37,7 +37,7 @@ It was truly a deeply interesting
 experience.");
 ChMotion(1,0);
 MsgDisp("主人公","Hehe.
-｛柊＊＊＊｝, you seem happy.");
+｛Hiiragi＊＊＊｝, you seem happy.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -71,8 +71,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100520001_05_060");
 MsgDisp("Hiiragi","Yes, I am looking forward to it.");
-MsgDisp("主人公","(It seems like ｛風真＊＊｝, ｛柊＊＊＊｝
-and ｛風真＊＊｝'s grandpa has a super good
+MsgDisp("主人公","(It seems like ｛Kazama＊＊｝, ｛Hiiragi＊＊＊｝
+and ｛Kazama＊＊｝'s grandpa has a super good
 relationship.)");
 BGMStop();
 MsgClose();

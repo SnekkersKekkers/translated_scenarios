@@ -31,7 +31,7 @@ sensitive plants.");
     ChMotion(6,0);
     VoicePlay("I460600007_06_020");
     MsgDisp("Himuro","Hmm...");
-    MsgDisp("主人公","｛氷室＊＊｝?");
+    MsgDisp("主人公","｛Himuro＊＊｝?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -50,7 +50,7 @@ Well, keep it up.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 You should put those preserved flowers
 further from the fresh ones.");
     ChEye(6,0);
@@ -91,7 +91,7 @@ one being taught.");
 I'll surpass you again soon.");
     MsgDisp("主人公","Sure.");
     MsgDisp("主人公","(I'm so happy to be appreciated by
-｛氷室＊＊｝!)");
+｛Himuro＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

@@ -12,5 +12,5 @@ ChCheek(2,10);
 VoicePlay("B020202120_02_010");
 MsgDisp("Sassa","No! Not at all. But it makes me a little
 nervous. It's like I can't look away.");
-MsgDisp("主人公","(｛颯砂＊＊｝ seems troubled?
+MsgDisp("主人公","(｛Sassa＊＊｝ seems troubled?
 But I think he likes it!)");

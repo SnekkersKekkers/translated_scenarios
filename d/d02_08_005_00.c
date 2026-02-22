@@ -17,7 +17,7 @@ MsgDisp("Shirahane","I did too. But it seems like no matter how
 hard I try, I can't get perfect marks
 across the board.");
 MsgDisp("主人公","Woah.
-｛大地＊＊｝, are you actually really
+｛Daichi＊＊｝, are you actually really
 smart...");
 ChEye(8,3);
 ChMouth(8,3);
@@ -49,7 +49,7 @@ MsgDisp("Shirahane","Right! Want to aim for a first-rate
 university together? I think we can do
 it～!");
 MsgDisp("主人公","(My career plans huh...University, hmm. I
-think ｛大地＊＊｝ could definitely get
+think ｛Daichi＊＊｝ could definitely get
 into a first-rate university!)");
 BGMStop();
 MsgClose();

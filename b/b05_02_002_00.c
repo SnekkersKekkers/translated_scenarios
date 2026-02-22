@@ -45,7 +45,7 @@ MsgDisp("Sassa","Woo...
 It was waiting for us.
 Let's warm up.");
 MsgDisp("主人公","Yep, it's nice and warm.
-Thanks, ｛颯砂＊＊｝.");
+Thanks, ｛Sassa＊＊｝.");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
@@ -128,7 +128,7 @@ MsgDisp("Sassa","That hot spring feeling was great.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","Hehe.
-｛颯砂＊＊｝ must really like hot springs.");
+｛Sassa＊＊｝ must really like hot springs.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -137,7 +137,7 @@ VoicePlay("B050200200_02_140");
 MsgDisp("Sassa","Ahh.
 Instead of going to a hot spring, next
 time we can just come to the pool.");
-MsgDisp("主人公","(｛颯砂＊＊｝'s face is still red.
+MsgDisp("主人公","(｛Sassa＊＊｝'s face is still red.
 Is that from the heat of the jacuzzi...?)");
 BGMStop();
 ChPrmTblAdd(2,0);

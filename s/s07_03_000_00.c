@@ -29,7 +29,7 @@ Everyone looks like they're having fun.");
     VoicePlay("S070300000_03_020");
     MsgDisp("Honda","Woah, it's crowded.
 I wonder what everyone's wishing for.");
-    MsgDisp("主人公","What about ｛本多＊＊｝?");
+    MsgDisp("主人公","What about ｛Honda＊＊｝?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
@@ -83,7 +83,7 @@ health of my favorite things.");
     ChMotion(3,0,1);
     VoicePlay("S070300000_03_090");
     MsgDisp("Honda","How's that?");
-    MsgDisp("主人公","｛本多＊＊｝ loves so many things.
+    MsgDisp("主人公","｛Honda＊＊｝ loves so many things.
 That'll make it hard for the Gods, huh?");
     ChEye(3,2);
     ChMouth(3,4);
@@ -98,7 +98,7 @@ Then I'll make a priority system.");
 Next is me, my family...");
     MsgDisp("主人公","(I'm the first?
 That makes me so happy...
-｛本多＊＊｝, thank you.)");
+｛Honda＊＊｝, thank you.)");
     break ;
     default :
     DbgAssert(1);

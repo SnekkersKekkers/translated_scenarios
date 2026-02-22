@@ -9,8 +9,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D130C00001_05_000");
 MsgDisp("Hiiragi","｛主人公｝, over here.");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
-｛氷室＊＊｝ and ｛御影＊＊｝ too.");
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
+｛Himuro＊＊｝ and ｛Mikage＊＊｝ too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -40,7 +40,7 @@ ChMouth(6,0);
 ChMotion(6,5);
 ChCheek(6,0);
 MsgDisp("主人公","Is that so?
-｛氷室＊＊｝, did you have something you
+｛Himuro＊＊｝, did you have something you
 wanted to see me for?");
 ChEye(5,0);
 ChMouth(5,2);

@@ -13,4 +13,4 @@ ChMotion(1,0);
 VoicePlay("B020100010_01_010");
 MsgDisp("Kazama","Yeah, that.
 It suits you.");
-MsgDisp("主人公","(｛風真＊＊｝ praised me!)");
+MsgDisp("主人公","(｛Kazama＊＊｝ praised me!)");

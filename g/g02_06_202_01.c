@@ -51,7 +51,7 @@ ChMotion(6,0);
 VoicePlay("G020620200_06_070");
 MsgDisp("Himuro","Nozomu-senpai has probably become a bigger
 presence to you than I am now.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -100,7 +100,7 @@ ChMotion(6,0);
 VoicePlay("G020620200_06_140");
 MsgDisp("Himuro","The one thing I share with Nozomu-senpai
 is my competitiveness.");
-MsgDisp("主人公","(｛氷室＊＊｝ your expression is
+MsgDisp("主人公","(｛Himuro＊＊｝ your expression is
 serious...)");
 BGMStop();
 MsgClose();

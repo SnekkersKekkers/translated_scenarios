@@ -71,7 +71,7 @@ VoicePlay("G020320201_03_100");
 MsgDisp("Honda","So, yeah.
 I don't think I can just step aside for
 Mi-kun...");
-MsgDisp("主人公","(I didn't know ｛本多＊＊｝ felt this
+MsgDisp("主人公","(I didn't know ｛Honda＊＊｝ felt this
 way...)");
 BGMStop();
 MsgClose();

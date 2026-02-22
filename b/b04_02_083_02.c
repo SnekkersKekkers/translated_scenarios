@@ -59,7 +59,7 @@ firefly house right?");
         VoicePlay("B040208302_02_040");
         MsgDisp("Sassa","There was a boat near the water fountain
 though...");
-        MsgDisp("主人公","Does ｛颯砂＊＊｝ not like them?");
+        MsgDisp("主人公","Does ｛Sassa＊＊｝ not like them?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);

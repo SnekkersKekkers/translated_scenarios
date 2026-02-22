@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛本多＊＊｝, you and ｛風真＊＊｝ have been
+MsgDisp("主人公","｛Honda＊＊｝, you and ｛Kazama＊＊｝ have been
 hanging out together a lot lately, huh?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -52,7 +52,7 @@ ChMotion(3,4);
 VoicePlay("B070300001_03_080");
 MsgDisp("Honda","I'd like to learn a bit more from
 Ryota-kun but I'm not sure if I can?");
-MsgDisp("主人公","(｛本多＊＊｝ seems to idolize ｛風真＊＊｝...!)");
+MsgDisp("主人公","(｛Honda＊＊｝ seems to idolize ｛Kazama＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

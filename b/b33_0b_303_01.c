@@ -27,7 +27,7 @@ VoicePlay("B330B30301_04_000");
 MsgDisp("Nanatsumori","Really?
 I thought it would've suited you though.");
 MsgDisp("主人公","I'm happy to hear you say that,
-｛七ツ森＊｝ but...
+｛Nanatsumori＊｝ but...
 I think it's too mature for me.");
 ChEye(3,4);
 ChMouth(3,0);
@@ -97,8 +97,8 @@ VoicePlay("B330B30301_04_040");
 MsgDisp("Nanatsumori","Yeah. Hm. I can't imitate Dahon's sense of
 fashion in that respect.");
 MsgDisp("主人公","(Hehe! I might be caught off-guard if
-｛七ツ森＊｝ wore his uniform in the
-casual way ｛本多＊＊｝ does?");
+｛Nanatsumori＊｝ wore his uniform in the
+casual way ｛Honda＊＊｝ does?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

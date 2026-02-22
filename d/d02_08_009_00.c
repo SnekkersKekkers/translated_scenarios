@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Alright, alright...
 Okay, stop!
 Welcome!");
-MsgDisp("主人公","(｛大地＊＊｝ is running late today.)");
+MsgDisp("主人公","(｛Daichi＊＊｝ is running late today.)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -30,11 +30,11 @@ MsgClose();
 ScrFadeIn(0);
 SEPlay("EV_SE_579");
 MsgDisp("主人公","Ah!
-｛大地＊＊｝ is calling!");
+｛Daichi＊＊｝ is calling!");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 SEWait();
-MsgDisp("主人公","Hello, ｛大地＊＊｝∋");
+MsgDisp("主人公","Hello, ｛Daichi＊＊｝∋");
 VoicePlay("D020800900_08_000");
 MsgDisp("Shirahane","Ah...
 Yeah.");
@@ -71,15 +71,15 @@ MsgDisp("Shirahane","I'm gonna be your number one.
 But don't worry your head over it.
 You don't have to quit suddenly too.");
 MsgDisp("主人公","I...");
-MsgSel("I'll quit working at the gas station.","I'll cheer ｛大地＊＊｝ on!");
+MsgSel("I'll quit working at the gas station.","I'll cheer ｛Daichi＊＊｝ on!");
 switch (MsgSelRsltGet()){
     case 0:
-    MsgDisp("主人公","Since ｛大地＊＊｝ is quitting, I'll quit
+    MsgDisp("主人公","Since ｛Daichi＊＊｝ is quitting, I'll quit
 too!");
     VoicePlay("D020800900_08_070");
     MsgDisp("Shirahane","Ehh∋
 You're fired up...?");
-    MsgDisp("主人公","I'm not going to lose to ｛大地＊＊｝.
+    MsgDisp("主人公","I'm not going to lose to ｛Daichi＊＊｝.
 I need to study for the exam.");
     VoicePlay("D020800900_08_080");
     MsgDisp("Shirahane","Wait...Are ya listenin' to me? If ya do
@@ -94,14 +94,14 @@ too!");
 But we can still go on dates, right?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(｛大地＊＊｝ seems serious.
+    MsgDisp("主人公","(｛Daichi＊＊｝ seems serious.
 I'll study hard for the entrance exams
 too!)");
     MsgDisp("","(I quit my part-time job at \"Stallion
 Gas\".)");
     break ;
     case 1:
-    MsgDisp("主人公","I'm rooting for ｛大地＊＊｝!
+    MsgDisp("主人公","I'm rooting for ｛Daichi＊＊｝!
 Good luck!");
     VoicePlay("D020800900_08_110");
     MsgDisp("Shirahane","That's huge.
@@ -125,7 +125,7 @@ But can we go on a date once in a while?
 I'll miss seein' ya around...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(｛大地＊＊｝ is concentrating on his
+    MsgDisp("主人公","(｛Daichi＊＊｝ is concentrating on his
 exams. I'll continue working part-time a
 bit longer.)");
     break ;

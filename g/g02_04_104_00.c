@@ -73,7 +73,7 @@ VoicePlay("G020410400_04_100");
 MsgDisp("Nanatsumori","You're sharp. Since you're the only one
 who can handle this topic, will you keep
 giving me advice?");
-MsgDisp("主人公","(Umm, so ｛七ツ森＊｝ is worried about
+MsgDisp("主人公","(Umm, so ｛Nanatsumori＊｝ is worried about
 crossdressing on social media and wants to
 consult me?)");
 BGMStop();

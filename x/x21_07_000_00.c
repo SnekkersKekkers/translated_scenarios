@@ -64,7 +64,7 @@ ChEyeOpenLevel(7,8);
 VoicePlay("X210700000_07_080");
 MsgDisp("Mikage","Congratulations.
 It somewhat makes me want to cry too.");
-MsgDisp("主人公","(Thank you very much, ｛御影＊＊｝...)");
+MsgDisp("主人公","(Thank you very much, ｛Mikage＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

@@ -47,7 +47,7 @@ See you later, then.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Maybe ｛柊＊＊＊｝ was wishing for
+    MsgDisp("主人公","(Maybe ｛Hiiragi＊＊＊｝ was wishing for
 something more...?)");
     break ;
     case 4:
@@ -93,7 +93,7 @@ greet.");
     MsgDisp("Hiiragi","That's true.
 Okay then, let's go.");
     MsgDisp("主人公","(Hehe!
-Please treat me well, ｛柊＊＊＊｝!)");
+Please treat me well, ｛Hiiragi＊＊＊｝!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);

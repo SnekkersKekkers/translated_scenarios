@@ -29,7 +29,7 @@ hairstyle?");
     ChMotion(5,4);
     VoicePlay("B040521201_05_020");
     MsgDisp("Hiiragi","Umm, it looks like a wolf.
-Its hair is peculiar and interesting");
+Its hair is peculiar and interesting.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

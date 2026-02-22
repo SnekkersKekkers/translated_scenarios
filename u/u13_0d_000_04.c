@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛柊＊＊＊｝, I guess...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -67,7 +67,7 @@ I think it would really motivate him.");
     StlMouth(22,1);
     MsgDisp("主人公","(Mmm. It's complicated but, I wonder if I
 should try to have a lot of new
-experiences with ｛柊＊＊＊｝.");
+experiences with ｛Hiiragi＊＊＊｝.");
     break ;
     case 4:
     case 5:
@@ -102,7 +102,7 @@ The love show will become reality soon▼");
 passionate side soon? Ah～n, Hikaru wants
 to see that performance～▼");
     StlEye(22,0);
-    MsgDisp("主人公","(｛ひかる＊｝...If it's ｛柊＊＊＊｝ 's
+    MsgDisp("主人公","(｛ひかる＊｝...If it's ｛Hiiragi＊＊＊｝ 's
 real life love story performance, I want
 to see it too...)");
     break ;

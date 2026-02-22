@@ -42,14 +42,14 @@ VoicePlay("B360703201_07_040");
 MsgDisp("Mikage","Yanosuke is troublesome in a different
 way. He'll probably come up and ask \"What
 kind of mood are you in?\".");
-MsgDisp("主人公","｛御影＊＊｝ knows those two very well.");
+MsgDisp("主人公","｛Mikage＊＊｝ knows those two very well.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360703201_07_050");
 MsgDisp("Mikage","You too.
 I can only tell you about this.");
-MsgDisp("主人公","(｛御影＊＊｝ really gets us...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ really gets us...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

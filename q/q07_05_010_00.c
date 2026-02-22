@@ -2,7 +2,7 @@ BGOpen("sc824",0);
 BGMStop();
 ScrFadeIn(0);
 MsgDisp("主人公","(Phew, I bought a lot of souvenirs!
-But where did ｛柊＊＊＊｝ go?)");
+But where did ｛Hiiragi＊＊＊｝ go?)");
 SEPlay("EV_SE_771");
 SEWait();
 MsgDisp("主人公","(Ah...A cute sound! It's from that shop. I
@@ -37,7 +37,7 @@ StlEye(5,0,1);
 SEPlay("EV_SE_777",0,0.9);
 Wait(150,1);
 SEStop("EV_SE_777",0.1);
-MsgDisp("主人公","｛柊＊＊＊｝ !");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ !");
 StlEye(5,3);
 VoicePlay("Q070501000_05_020");
 MsgDisp("Hiiragi","Eh...");
@@ -82,7 +82,7 @@ ChEye(5,4);
 VoicePlay("Q070501000_05_080");
 MsgDisp("Hiiragi","As a souvenir of the school trip and your
 good luck charm.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("Q070501000_05_090");
@@ -112,7 +112,7 @@ BGMStop(2);
 MsgClose();
 ScrFadeOut(0,0);
 Wait(60,0);
-MsgDisp("主人公","(｛柊＊＊＊｝...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 Thanks for the nice gift...)");
 MsgClose();
 Wait(40,0);

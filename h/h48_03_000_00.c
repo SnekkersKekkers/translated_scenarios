@@ -8,7 +8,7 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("H480300000_03_000");
 MsgDisp("Honda","Oh, hm?");
-MsgDisp("主人公","Ah, ｛本多＊＊｝!
+MsgDisp("主人公","Ah, ｛Honda＊＊｝!
 Did something happen?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -41,7 +41,7 @@ ChCheek(3,8);
 VoicePlay("H480300000_03_040");
 MsgDisp("Honda","H, huh...?
 I can't, my heart is beating faster again.");
-MsgDisp("主人公","｛本多＊＊｝?");
+MsgDisp("主人公","｛Honda＊＊｝?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

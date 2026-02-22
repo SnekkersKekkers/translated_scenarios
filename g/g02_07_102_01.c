@@ -34,7 +34,7 @@ VoicePlay("G020710201_07_040");
 MsgDisp("Mikage","Well, there's that saying, 'Without
 entering the tiger's den, one cannot catch
 the tiger's cub.'");
-MsgDisp("主人公","(｛御影＊＊｝ wants to hear my inner
+MsgDisp("主人公","(｛Mikage＊＊｝ wants to hear my inner
 voice...?)");
 BGMStop();
 MsgClose();

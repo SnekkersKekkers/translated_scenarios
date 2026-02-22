@@ -14,7 +14,7 @@ ChEyeOpenLevel ( 5,8 ) ;
 VoicePlay ( "D150001501_05_000" ) ;
 MsgDisp ( "Hiiragi","Are you interested?
 You are always welcome to join." ) ;
-MsgDisp ( "主人公","Ehh, ｛風真＊＊｝ and the Theater
+MsgDisp ( "主人公","Ehh, ｛Kazama＊＊｝ and the Theater
 Company∋" ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,2 ) ;
@@ -30,7 +30,7 @@ ChEyeOpenLevel ( 5, - 1 ) ;
 VoicePlay ( "D150001501_05_010" ) ;
 MsgDisp ( "Hiiragi","I think Kazama could be a talented actor.
 Right?" ) ;
-MsgDisp ( "主人公","(｛風真＊＊｝ in a wig might look good!
+MsgDisp ( "主人公","(｛Kazama＊＊｝ in a wig might look good!
 Hehe!)" ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
@@ -55,7 +55,7 @@ VoicePlay ( "D150001501_01_030" ) ;
 MsgDisp ( "Kazama","Alright.
 You won't get away with it now.
 Tell me what you were picturing." ) ;
-MsgDisp ( "主人公","(I wonder if ｛風真＊＊｝ would be mad if
+MsgDisp ( "主人公","(I wonder if ｛Kazama＊＊｝ would be mad if
 I told him I was picturing him wearing a
 topknot...)" ) ;
 BGMStop (  ) ;

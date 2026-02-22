@@ -23,7 +23,7 @@ I'll bring you a new one right away.");
     ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400003_04_000");
     MsgDisp("Nanatsumori","Thanks for the food.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Are you heading home?");
     ChEye(4,0);
     ChMouth(4,4);
@@ -43,7 +43,7 @@ See ya.");
     Wait(30,0);
     SEPlay("EV_SE_DOOR_014");
     MsgDisp("主人公","...He's right.
-｛七ツ森＊｝ really did me a favor by
+｛Nanatsumori＊｝ really did me a favor by
 telling me that...");
     MsgDisp("主人公","(I might be a little out of it.
 Let's check the tables more...)");

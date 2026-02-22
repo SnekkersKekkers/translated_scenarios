@@ -6,7 +6,7 @@ I wonder what I should do.)");
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message.
-From ｛柊＊＊＊｝...it says \"I'll be waiting
+From ｛Hiiragi＊＊＊｝...it says \"I'll be waiting
 in the student council room.\")");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -22,7 +22,7 @@ BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ChOpen(5,100,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, what's wrong?");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
@@ -79,7 +79,7 @@ ChOpen(5,254,0,4,2,#1,#1,0,0,0,30);
 SEWait();
 VoicePlay("G110500300_05_050");
 MsgDisp("Hiiragi","......");
-MsgDisp("主人公","｛柊＊＊＊｝?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChCheek(5,7);

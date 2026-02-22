@@ -9,7 +9,7 @@ ChEye(4,5);
 ChMouth(4,5);
 VoicePlay("Q260400000_04_000");
 MsgDisp("Nanatsumori","...Eh∋");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝∋");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝∋");
 MsgDisp("主人公","(So that feeling was...)");
 ChEye(4,4);
 ChMouth(4,4);
@@ -30,7 +30,7 @@ MsgDisp("Nanatsumori","I didn't do anything.
 I'm sure I haven't...
 But, I am sorry.");
 MsgDisp("主人公","(He's panicking...
-So I really touched ｛七ツ森＊｝ Just
+So I really touched ｛Nanatsumori＊｝ Just
 now...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040708100_07_000");
 MsgDisp("Mikage","The cherry blossoms here are well-cared
 for.");
-MsgSel("｛御影＊＊｝, the falling cherry blossoms suit you.","The time where you can see the falling cherry blossoms is so fleeting...","I want to eat some delicious cherry blossom mochi.");
+MsgSel("｛Mikage＊＊｝, the falling cherry blossoms suit you.","The time where you can see the falling cherry blossoms is so fleeting...","I want to eat some delicious cherry blossom mochi.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

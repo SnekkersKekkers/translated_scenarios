@@ -19,6 +19,6 @@ MsgClose();
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8);
-MsgDisp("主人公","(｛大地＊＊｝ walked me home.)");
+MsgDisp("主人公","(｛Daichi＊＊｝ walked me home.)");
 MsgClose();
 ScrFadeOut(0,0);

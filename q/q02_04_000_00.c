@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q020400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChMotion(4,1,1);
     VoicePlay("Q020400000_04_010");
     MsgDisp("Nanatsumori","For today's free period, do you wanna come
@@ -34,7 +34,7 @@ with me?");
         VoicePlay("Q020400000_04_030");
         MsgDisp("Nanatsumori","Yeah true.
 Let's have fun.");
-        MsgDisp("主人公","(Free time with ｛七ツ森＊｝!
+        MsgDisp("主人公","(Free time with ｛Nanatsumori＊｝!
 I'm really excited!)");
         break ;
         case 1:
@@ -61,7 +61,7 @@ Oh well, I'll go on my own.");
     ChOpen(4,254,0,0,0,#1,#1,0,0);
     VoicePlay("Q020400000_04_050");
     MsgDisp("Nanatsumori","Mornin'.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 Good morning.");
     ChEye(4,3);
     ChMouth(4,3);

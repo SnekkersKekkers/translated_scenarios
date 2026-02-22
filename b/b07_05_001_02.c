@@ -1,5 +1,5 @@
 MsgDisp("主人公","Recently, you've been talking to
-｛御影＊＊｝ a lot.");
+｛Mikage＊＊｝ a lot.");
 ChEye(5,4);
 VoicePlay("B070500001_05_090");
 MsgDisp("Hiiragi","Yes, he listens to me carefully.");
@@ -9,7 +9,7 @@ MsgDisp("Hiiragi","My upbringing and my current situation.
 It's a series of scenes that are difficult
 to explain. But Mikage- sensei understands
 right away.");
-MsgDisp("主人公","｛御影＊＊｝ seems like a good
+MsgDisp("主人公","｛Mikage＊＊｝ seems like a good
 listener.");
 ChEye(5,4);
 ChMotion(5,0);
@@ -44,7 +44,7 @@ ChMotion(5,0);
 VoicePlay("B070500001_05_170");
 MsgDisp("Hiiragi","I want to grow up so that Mikage-sensei
 can tell me about himself.");
-MsgDisp("主人公","(｛柊＊＊＊｝ and ｛御影＊＊｝
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ and ｛Mikage＊＊｝
 understand each other...what a wonderful
 relationship...)");
 BGMStop();

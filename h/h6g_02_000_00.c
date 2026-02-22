@@ -6,7 +6,7 @@ ChOpen(2,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("H6G0200000_02_000");
 MsgDisp("Sassa","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛颯砂＊＊｝!
+MsgDisp("主人公","Oh, ｛Sassa＊＊｝!
 What's up?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -54,7 +54,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
 SEWait();
-MsgDisp("主人公","Thank you, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Thank you, ｛Sassa＊＊｝.");
 MsgDisp("主人公","(I'm so happy!
 I'm glad I worked so hard for the
 gardening club.)");

@@ -74,7 +74,7 @@ Thanks, ｛主人公｝.");
     MsgDisp("Shirahane","See, the toppings must be nice on their
 own. If I eat 'em little by little, it
 might be alright.");
-    MsgDisp("主人公","(｛大地＊＊｝ is so nice...
+    MsgDisp("主人公","(｛Daichi＊＊｝ is so nice...
 But, I wish I had tried harder...)");
     break ;
     default :

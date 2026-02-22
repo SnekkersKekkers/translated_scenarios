@@ -49,7 +49,7 @@ people.");
         MsgDisp("Sassa","It was only just born, I want it to be
 able to rest well.");
         MsgDisp("主人公","I see.
-｛颯砂＊＊｝ is kind huh?");
+｛Sassa＊＊｝ is kind huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -62,7 +62,7 @@ Didn't you already know?");
         ChMotion(2,4);
         ChCheek(2,10);
         VoicePlay("B040221102_02_050");
-        MsgDisp("Sassa","You too, are the kindest person in my
+        MsgDisp("Sassa","You, too, are the kindest person in my
 eyes.");
         MsgDisp("主人公","Eh....");
         SEPlay("EV_SE_537");

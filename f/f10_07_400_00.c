@@ -7,7 +7,7 @@ VoicePlay("F100740000_07_000");
 MsgDisp("Mikage","I'm very sorry.
 From now on, I'll be more careful...");
 MsgDisp("主人公","(Eh, that voice just now...
-｛御影＊＊｝?)");
+｛Mikage＊＊｝?)");
 VoicePlay("F100740000_32_000");
 MsgDisp("VP Himuro","Mikage-sensei, you underestimate yourself.");
 VoicePlay("F100740000_07_010");
@@ -68,7 +68,7 @@ ChMotion(7,1);
 VoicePlay("F100740000_07_050");
 MsgDisp("Mikage","He's always angry with me, right?
 I was just scolded for dressing like this.");
-MsgDisp("主人公","｛御影＊＊｝...");
+MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -79,6 +79,6 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(｛御影＊＊｝ is kind...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ is kind...)");
 MsgClose();
 ScrFadeOut(0,0);

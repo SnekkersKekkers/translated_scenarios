@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, you're late...
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, you're late...
 Did something happen...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

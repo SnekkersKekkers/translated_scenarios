@@ -17,7 +17,7 @@ What do you think?");
 Well, I'll see you Sunday!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(｛本多＊＊｝ invited me out....
+        MsgDisp("主人公","(｛Honda＊＊｝ invited me out....
 Is this a date?)");
         break ;
         case 4:
@@ -41,7 +41,7 @@ Ahhh, I can't wait for Sunday.
 See you later?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","｛本多＊＊｝, Invited me on a date.
+        MsgDisp("主人公","｛Honda＊＊｝, Invited me on a date.
 I'm looking forward to Sunday!)");
         break ;
         default :

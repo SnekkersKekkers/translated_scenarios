@@ -1,6 +1,6 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛颯砂＊＊｝ is running by himself...
+MsgDisp("主人公","(｛Sassa＊＊｝ is running by himself...
 After the Inter-High, he seems a little
 distant from everyone...)");
 VoicePlay("G110200600_40_000");
@@ -20,14 +20,14 @@ BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,100,0,1,1,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝.");
+MsgDisp("主人公","｛Sassa＊＊｝.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200600_02_000");
 MsgDisp("Sassa","Oh, good work.
 Can I ask you to help me cool down?");
-MsgDisp("主人公","Of course. ...｛颯砂＊＊｝, you see——");
+MsgDisp("主人公","Of course. ...｛Sassa＊＊｝, you see——");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -43,7 +43,7 @@ MsgDisp("Sassa","So it's good to run with you like this
 sometimes.");
 MsgDisp("主人公","But...
 I think everyone and the club leader seems
-to misunderstand ｛颯砂＊＊｝.");
+to misunderstand ｛Sassa＊＊｝.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -66,6 +66,6 @@ SEStop("EV_SE_FOOT_037",2);
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","(｛颯砂＊＊｝...)");
+MsgDisp("主人公","(｛Sassa＊＊｝...)");
 MsgClose();
 ChClose(2,0,0);

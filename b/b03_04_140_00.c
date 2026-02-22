@@ -23,7 +23,7 @@ You could get hurt in all kinds of ways.
 OK?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Oh, OK.
-Thank you, ｛七ツ森＊｝.");
+Thank you, ｛Nanatsumori＊｝.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

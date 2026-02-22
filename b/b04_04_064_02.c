@@ -32,7 +32,7 @@ ChMotion(4,2,1);
 VoicePlay("B040406402_04_040");
 MsgDisp("Nanatsumori","Or, if you ran into another guy from our
 school...");
-MsgDisp("主人公","｛七ツ森＊｝...");
+MsgDisp("主人公","｛Nanatsumori＊｝...");
 MsgDisp("主人公","Are you jealous?");
 ChEye(4,5);
 ChMouth(4,5);
@@ -117,7 +117,7 @@ MsgClose();
 ChClose(4,0,30);
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 ScrQuake(1);
-MsgDisp("主人公","Waa, ｛七ツ森＊｝ You're running too
+MsgDisp("主人公","Waa, ｛Nanatsumori＊｝ You're running too
 fast～!
 You're letting go of my hand.");
 VoicePlay("B040406402_04_150");

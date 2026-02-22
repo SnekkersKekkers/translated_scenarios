@@ -15,7 +15,7 @@ Gardening Club...)");
     VoicePlay("P630200002_02_000");
     MsgDisp("Sassa","Amazing.
 You were able to do a legit cafe.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Welcome～!");
     ChEye(2,0);
     ChMouth(2,4);
@@ -64,7 +64,7 @@ Gardening Club...)");
     MsgDisp("Sassa","｛主人公｝, I heard that the Horticulture
 club was impressive this year, but it's
 more than the rumours say.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝, thank you.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝, thank you.
 Everyone gav eit their best.
 It's a wonderful shop, huh?");
     ChEye(2,0);
@@ -105,7 +105,7 @@ first, before they're sold out.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝!
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝!
 Why don't you order firs——");
     VoicePlay("P630200002_02_090");
     MsgDisp("Sassa","One of your signature!");

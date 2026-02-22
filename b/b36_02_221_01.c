@@ -19,7 +19,7 @@ VoicePlay("B360222101_02_010");
 MsgDisp("Sassa","Ah, I ended up making you run.
 Are you alright?");
 MsgDisp("主人公","I'm fine.
-｛颯砂＊＊｝, thank you for inviting me.");
+｛Sassa＊＊｝, thank you for inviting me.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -43,7 +43,7 @@ MsgClose();
 ChOpen(2,255,4,0,4,#1,#1,10,0);
 VoicePlay("B360222101_02_040");
 MsgDisp("Sassa","Hey, your cheeks are red...");
-MsgDisp("主人公","(It seems like ｛颯砂＊＊｝'s face is getting
+MsgDisp("主人公","(It seems like ｛Sassa＊＊｝'s face is getting
 red too...?)");
 BGMStop();
 MsgClose();

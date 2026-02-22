@@ -13,7 +13,7 @@ ChOpen(4,254,0,0,2,#1,#1,0,0,0,60);
 ChMotion(4,1,1);
 VoicePlay("P740400003_04_000");
 MsgDisp("Nanatsumori","Oi, were you injured?");
-MsgDisp("主人公","｛七ツ森＊｝...
+MsgDisp("主人公","｛Nanatsumori＊｝...
 I'm fine, but I...");
 ChEye(4,2);
 ChMouth(4,3);
@@ -27,7 +27,7 @@ ChMotion(4,1,1);
 VoicePlay("P740400003_04_020");
 MsgDisp("Nanatsumori","No need to be so down in the dumps.
 Good work on this stage.");
-MsgDisp("主人公","(I couldn't show ｛七ツ森＊｝ a good
+MsgDisp("主人公","(I couldn't show ｛Nanatsumori＊｝ a good
 show ...
 I'm really disappointed.)");
 MsgClose();

@@ -38,7 +38,7 @@ switch (MsgSelRsltGet()){
 Then, pick something you like from the
 menu");
         MsgDisp("主人公","Really∋
-｛風真＊＊｝, thank you!
+｛Kazama＊＊｝, thank you!
 The sweets here are delicious, right?");
         ChEye(1,0);
         ChMouth(1,3);
@@ -64,7 +64,7 @@ The sweets here are delicious, right?");
         MsgClose();
         SEPlay("EV_SE_544",0.01,0.5);
         ChOpen(1,255,4,0,2,7,#1,7,0);
-        MsgDisp("主人公","｛風真＊＊｝, your face is red though...
+        MsgDisp("主人公","｛Kazama＊＊｝, your face is red though...
 What's wrong?");
         ChEye(1,4);
         ChMouth(1,2);

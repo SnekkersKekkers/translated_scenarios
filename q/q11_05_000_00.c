@@ -6,7 +6,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","(Okay, I was able to buy a lot of
 souvenirs!
-I wonder if ｛柊＊＊＊｝ is done...)");
+I wonder if ｛Hiiragi＊＊＊｝ is done...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,2,4,9,#1,0,0);
@@ -40,7 +40,7 @@ VoicePlay("Q110500000_05_040");
 MsgDisp("Hiiragi","It's from Nagasaki glass.
 Would you accept it?");
 MsgDisp("主人公","Yeah, of course.
-Thanks, ｛柊＊＊＊｝!
+Thanks, ｛Hiiragi＊＊＊｝!
 Where did you find such a pretty one?");
 ChEye(5,0);
 ChMotion(5,4);
@@ -57,7 +57,7 @@ VoicePlay("Q110500000_05_060");
 MsgDisp("Hiiragi","I didn't want to leave Nagasaki with any
 regrets, so I went back for it. Now I can
 remember today whenever I use it.");
-MsgDisp("主人公","｛柊＊＊＊｝...
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 Thank you, I'll treasure it.");
 ChMotion(5,0,1);
 VoicePlay("Q110500000_05_070");

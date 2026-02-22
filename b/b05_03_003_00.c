@@ -46,7 +46,7 @@ StlOpen("ev_03_05");
 StlEye(3,0);
 StlMouth(3,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝...are you okay?");
+MsgDisp("主人公","｛Honda＊＊｝...are you okay?");
 StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5);
@@ -89,6 +89,6 @@ ChMotion(3,1);
 VoicePlay("B050300300_03_100");
 MsgDisp("Honda","We have to continue on, otherwise coming
 here was pointless.");
-MsgDisp("主人公","(｛本多＊＊｝ is so sweet.)");
+MsgDisp("主人公","(｛Honda＊＊｝ is so sweet.)");
 BGMStop();
 ChPrmTblAdd(3,0);

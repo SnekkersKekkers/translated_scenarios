@@ -9,7 +9,7 @@ ago here I met Himuro——)");
 MsgClose();
 ChOpen(6,254,7,2,0,0,#1,0,0);
 MsgDisp("主人公","Eh...
-｛氷室＊＊｝?");
+｛Himuro＊＊｝?");
 SEPlay("EV_SE_544",0,0.5);
 ChEye(6,3);
 ChMouth(6,0);
@@ -44,7 +44,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600500_06_040");
 MsgDisp("Himuro","...I remember.");
-MsgDisp("主人公","｛氷室＊＊｝...?");
+MsgDisp("主人公","｛Himuro＊＊｝...?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);
@@ -87,7 +87,7 @@ StlEye(6,2);
 StlMouth(6,1);
 VoicePlay("D010600500_06_090");
 MsgDisp("Himuro","Now you'll be gone soon.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 StlEye(6,2);
 StlMouth(6,1);
 StlEyeOpenLevel(6,5);
@@ -96,14 +96,14 @@ MsgDisp("Himuro","I haven't changed at all...
 Taking it out on you again like this, I
 haven't matured at all.");
 MsgDisp("主人公","That's not true.
-｛氷室＊＊｝ shows more of his true self
+｛Himuro＊＊｝ shows more of his true self
 than when we first met.");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("D010600500_06_110");
 MsgDisp("Himuro","Eh...");
 MsgDisp("主人公","I never expected I would get to see you
-cry like this, ｛氷室＊＊｝.");
+cry like this, ｛Himuro＊＊｝.");
 StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
@@ -149,7 +149,7 @@ ChMotion(6,5);
 VoicePlay("D010600500_06_170");
 MsgDisp("Himuro","Heh...
 What's with you.");
-MsgDisp("主人公","(Looks like ｛氷室＊＊｝ is back to his
+MsgDisp("主人公","(Looks like ｛Himuro＊＊｝ is back to his
 usual self?
 What a relief...)");
 BGMStop();

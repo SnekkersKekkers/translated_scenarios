@@ -11,7 +11,7 @@ SEWait();
 BGMPlay("BGM_C07_MIKAGE_KOKU",0.01);
 ChLayout(0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛御影＊＊｝...
+MsgDisp("主人公","｛Mikage＊＊｝...
 Why are you here?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -25,7 +25,7 @@ ChMotion(7,0);
 VoicePlay("T020701000_07_020");
 MsgDisp("Mikage","Will you go with me?
 It's my graduation ceremony.");
-MsgDisp("主人公","｛御影＊＊｝'s graduation ceremony?
+MsgDisp("主人公","｛Mikage＊＊｝'s graduation ceremony?
 Are you going to quit your job as a
 teacher at Haba High?");
 ChEye(7,2);
@@ -51,7 +51,7 @@ MsgDisp("Mikage","I'm not the kind of person who's suited to
 be called a teacher...");
 MsgDisp("主人公","That...
 I was very happy to spend the last three
-years with ｛御影＊＊｝.");
+years with ｛Mikage＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0,1);
@@ -73,7 +73,7 @@ VoicePlay("T020701000_07_080");
 MsgDisp("Mikage","The gap from my high school days...
 There was always a huge void there for me
 you know?");
-MsgDisp("主人公","｛御影＊＊｝...");
+MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

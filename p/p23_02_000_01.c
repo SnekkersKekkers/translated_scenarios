@@ -28,7 +28,7 @@ a good idea, huh?");
 A three-headed dog was impossible, but
 three normal ones are doable.");
     MsgDisp("主人公","Hehe, yeah.
-The dogs were more attached to ｛颯砂＊＊｝
+The dogs were more attached to ｛Sassa＊＊｝
 than the guy playing Hades.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -36,7 +36,7 @@ than the guy playing Hades.");
     VoicePlay("P230200001_02_020");
     MsgDisp("Sassa","Maybe they picked up the smell of dogs on
 my body?");
-    MsgDisp("主人公","Also, ｛颯砂＊＊｝ is quite big?");
+    MsgDisp("主人公","Also, ｛Sassa＊＊｝ is quite big?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,5);

@@ -1,6 +1,6 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛氷室＊＊｝ wasn't there.
+MsgDisp("主人公","(｛Himuro＊＊｝ wasn't there.
 I wanted to apologize for the three-legged
 race...)");
 MsgDisp("主人公","(Ah, maybe...)");

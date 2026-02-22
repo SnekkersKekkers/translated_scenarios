@@ -4,7 +4,7 @@ ChMotion(5,0,1);
 ScrFadeIn(0);
 VoicePlay("P640500005_05_000");
 MsgDisp("Hiiragi","Thank you for the meal.");
-MsgDisp("主人公","｛柊＊＊＊｝, how was it?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, how was it?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);

@@ -70,7 +70,7 @@ again, okay?");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(I'm already a third year since spring...
-I hope I can go with ｛御影＊＊｝ again
+I hope I can go with ｛Mikage＊＊｝ again
 next year...)");
     break ;
     case 4:
@@ -91,7 +91,7 @@ next year...)");
     MsgDisp("Mikage","Ah, my apologies for dragging you around
 so much today. But thanks to you, the year
 is off to a great start.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝, do you have to go to
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝, do you have to go to
 school today too?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -107,7 +107,7 @@ fields.");
     MsgDisp("Mikage","Earlier, everyone prayed for the pumpkins
 to grow well and healthy, so don't worry.");
     MsgDisp("主人公","Hehe, that's a very kind wish from
-｛御影＊＊｝.");
+｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -128,7 +128,7 @@ See you.");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","Ah, thank you so much!");
-    MsgDisp("主人公","(I hope I can be with ｛御影＊＊｝ on
+    MsgDisp("主人公","(I hope I can be with ｛Mikage＊＊｝ on
 New Year's next year too.
 Alright, let's try our best this year!)");
     break ;

@@ -76,8 +76,8 @@ person inside?");
         VoicePlay("B040121302_01_060");
         MsgDisp("Kazama","I know that, but I don't like that male
 dog.");
-        MsgDisp("主人公","It was a dog, so it can't be helped.
-And, she was a girl?");
+        MsgDisp("主人公","It was a dog, so it's going to act like 
+one. And also, she was a girl?");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -99,7 +99,7 @@ Well, I guess that can't be helped");
         VoicePlay("B040121302_01_090");
         MsgDisp("Kazama","Still, it's kind of annoying when she just
 casually licked you...");
-        MsgDisp("主人公","(｛風真＊＊｝, really is a neat freak huh?)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, really is a neat freak huh?)");
         break ;
         default :
         DbgAssert(1);

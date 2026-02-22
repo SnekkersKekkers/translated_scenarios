@@ -42,7 +42,7 @@ MsgDisp("Live","Ooh, so fast!
 From the Mechanical Shearing division-
 Mikage Kojiro!");
 StlEyeOpenLevel(7,5);
-MsgDisp("主人公","｛御影＊＊｝∋");
+MsgDisp("主人公","｛Mikage＊＊｝∋");
 SEPlay("EV_SE_846",0.1,0.8);
 VoicePlay("D010700700_33_040");
 MsgDisp("Male Customer","Wow, that's amazing!
@@ -67,7 +67,7 @@ StlMouth(7,0);
 VoicePlay("D010700700_45_000");
 MsgDisp("Woman Customer","Kyaa, how cool!
 He has such a nice smile!");
-MsgDisp("主人公","｛御影＊＊｝, what are you...");
+MsgDisp("主人公","｛Mikage＊＊｝, what are you...");
 StlEyeOpenLevel(7,#1);
 VoicePlay("D010700700_07_010");
 MsgDisp("Mikage","Oh, it's you∋
@@ -103,7 +103,7 @@ How about an exclusive interview with the
 champion then?");
 MsgDisp("主人公","Y-Yes please!!");
 MsgDisp("主人公","(I didn't expect to interview
-｛御影＊＊｝...!)");
+｛Mikage＊＊｝...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

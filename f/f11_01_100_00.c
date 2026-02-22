@@ -7,7 +7,7 @@ VoiceEVSPlay(1);
 VoicePlay("F110110000_01_000");
 MsgDisp("Kazama","｛主人公｝, are you having fun?");
 MsgDisp("主人公","Yep!
-What about you, ｛風真＊＊｝?");
+What about you, ｛Kazama＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -70,7 +70,7 @@ If you have time then, let's walk around.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(｛風真＊＊｝, you seem tired...
+MsgDisp("主人公","(｛Kazama＊＊｝, you seem tired...
 I don't think we can walk around, too...)");
 MsgClose();
 ScrFadeOut(0,0);

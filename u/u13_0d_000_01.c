@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛颯砂＊＊｝, I guess...");
+MsgDisp("主人公","｛Sassa＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -53,7 +53,7 @@ Like he's watching a puppy♪");
     MsgDisp("Hikaru","Ah, maybe I should've worded it
 differently. Let's see...It feels like
 he's looking tenderly at something cute?");
-    MsgDisp("主人公","(｛颯砂＊＊｝ is looking at me tenderly.
+    MsgDisp("主人公","(｛Sassa＊＊｝ is looking at me tenderly.
 I think I'm happy...)");
     break ;
     case 4:
@@ -95,7 +95,7 @@ Mari?");
 He acts like a dad!");
     StlEyeOpenLevel(22,5,1);
     MsgDisp("主人公","(Like a dad, huh...
-It's true, when I'm with ｛颯砂＊＊｝ I
+It's true, when I'm with ｛Sassa＊＊｝ I
 feel at ease.)");
     break ;
     default :

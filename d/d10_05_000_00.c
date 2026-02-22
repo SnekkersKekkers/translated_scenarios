@@ -8,7 +8,7 @@ VoiceEVSPlay(5);
 VoicePlay("D100500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝, are you okay?");
 MsgDisp("主人公","Eh?
-｛柊＊＊＊｝, what's up?");
+｛Hiiragi＊＊＊｝, what's up?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -40,7 +40,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(The smell of roses...What's with that? A
-dream, huh...Did ｛柊＊＊＊｝ doze off
+dream, huh...Did ｛Hiiragi＊＊＊｝ doze off
 during class?)");
 MsgClose();
 ScrFadeOut(0,0);

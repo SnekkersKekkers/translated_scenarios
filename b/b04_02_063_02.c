@@ -82,7 +82,7 @@ when I was a kid.");
         ChMouth(2,5);
         ChMotion(2,5);
         ChClose(2);
-        MsgDisp("主人公","｛颯砂＊＊｝, are you okay∋");
+        MsgDisp("主人公","｛Sassa＊＊｝, are you okay∋");
         MsgClose();
         ChOpen(2,255,0,4,2,#1,#1,0,0);
         VoicePlay("B040206302_02_070");
@@ -101,7 +101,7 @@ Let's go!");
         SEPlay("EV_SE_533");
         SEWait();
         MsgDisp("主人公","(That squishing sound...?
-｛颯砂＊＊｝, did your shoes get wet?)");
+｛Sassa＊＊｝, did your shoes get wet?)");
         break ;
         default :
         DbgAssert(1);

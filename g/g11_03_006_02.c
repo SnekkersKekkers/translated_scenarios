@@ -10,7 +10,7 @@ Does the item come with a booklet?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Ah ｛本多＊＊｝, good work.
+MsgDisp("主人公","Ah ｛Honda＊＊｝, good work.
 Hehe, it really is like that.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -36,7 +36,7 @@ VoicePlay("G110300602_03_030");
 MsgDisp("Honda","Right?
 I wonder who thought of that?
 That's a great idea.");
-MsgDisp("主人公","I think ｛本多＊＊｝ would come up with
+MsgDisp("主人公","I think ｛Honda＊＊｝ would come up with
 something even more interesting.");
 ChEye(3,1);
 ChMouth(3,3);
@@ -54,7 +54,7 @@ MsgClose();
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","...Ah, ｛本多＊＊｝.
+MsgDisp("主人公","...Ah, ｛Honda＊＊｝.
 Isn't it time to head back up already?");
 ChMotion(3,1);
 VoicePlay("G110300602_03_050");
@@ -74,7 +74,7 @@ ChMotion(3,0);
 VoicePlay("G110300602_03_070");
 MsgDisp("Honda","Right right, I can't resolve this problem
 well...");
-MsgDisp("主人公","(｛本多＊＊｝, you're thinking of something
+MsgDisp("主人公","(｛Honda＊＊｝, you're thinking of something
 outrageous aren't you...)");
 BGMStop();
 MsgClose();

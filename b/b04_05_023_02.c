@@ -50,7 +50,7 @@ to evoke different images within the
 people looking at it.");
         MsgDisp("主人公","I see.
 Then, what do you think it is,
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
         ChEye(5,2);
         ChMotion(5,1);
         VoicePlay("B040502302_05_060");
@@ -69,7 +69,7 @@ Please take some responsibility.");
         MsgDisp("Hiiragi","Hehe.
 I wonder why I have so much fun when I'm
 with you.");
-        MsgDisp("主人公","(｛柊＊＊＊｝, you laughed a lot today.
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you laughed a lot today.
 I'm somewhat happy...)");
         break ;
         default :

@@ -25,7 +25,7 @@ Thanks.");
 details now, dont'cha?");
     MsgDisp("主人公","Yeah.
 You're setting a good example,
-｛大地＊＊｝.");
+｛Daichi＊＊｝.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -54,7 +54,7 @@ Thanks as always.");
     VoicePlay("I660800001_08_020");
     MsgDisp("Shirahane","As expected...
 Full points on attentiveness!");
-    MsgDisp("主人公","Ah, ｛大地＊＊｝.
+    MsgDisp("主人公","Ah, ｛Daichi＊＊｝.
 Thanks to you.");
     ChEye(8,3);
     ChMouth(8,4);
@@ -62,7 +62,7 @@ Thanks to you.");
     VoicePlay("I660800001_08_030");
     MsgDisp("Shirahane","Thanks t'me?");
     MsgDisp("主人公","You're always setting a good example,
-｛大地＊＊｝.");
+｛Daichi＊＊｝.");
     ChEye(8,4);
     ChMouth(8,3);
     ChMotion(8,2,1);
@@ -78,7 +78,7 @@ I won't deny it.");
 either.
 It feels good just watchin' it.");
     MsgDisp("主人公","(Yay!
-｛大地＊＊｝ praised me!)");
+｛Daichi＊＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

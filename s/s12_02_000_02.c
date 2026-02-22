@@ -28,7 +28,7 @@ See you!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ is working hard again this
+    MsgDisp("主人公","(｛Sassa＊＊｝ is working hard again this
 year.
 Alright, I'll try my best too!)");
     break ;
@@ -93,7 +93,7 @@ Even though I feel like it");
     MsgDisp("Sassa","What, were you watching me?
 It's okay for me to be serious once in a
 while.");
-    MsgDisp("主人公","Isn't ｛颯砂＊＊｝ always serious?");
+    MsgDisp("主人公","Isn't ｛Sassa＊＊｝ always serious?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

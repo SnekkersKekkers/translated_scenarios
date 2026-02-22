@@ -37,7 +37,7 @@ you later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Another year with ｛風真＊＊｝ will be
+    MsgDisp("主人公","(Another year with ｛Kazama＊＊｝ will be
 fun.
 But maybe he will keep scolding me?)");
     break ;
@@ -54,7 +54,7 @@ But maybe he will keep scolding me?)");
     ChMotion(1,0);
     ScrFadeIn(0);
     MsgDisp("主人公","Thanks for coming with me.
-｛風真＊＊｝, what will you do after this?");
+｛Kazama＊＊｝, what will you do after this?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);
@@ -104,7 +104,7 @@ couldn't ask for more.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Another year with ｛風真＊＊｝.
+    MsgDisp("主人公","(Another year with ｛Kazama＊＊｝.
 I hope we can hang out a lot.)");
     break ;
     default :

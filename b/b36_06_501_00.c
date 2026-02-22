@@ -56,7 +56,7 @@ VoicePlay("B360650100_06_060");
 MsgDisp("Himuro","Well, at least it's not the Haba High
 uniform.
 It'd be even worse if I knew the.");
-MsgDisp("主人公","Ah, um ｛氷室＊＊｝...!");
+MsgDisp("主人公","Ah, um ｛Himuro＊＊｝...!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

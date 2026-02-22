@@ -55,7 +55,7 @@ MsgDisp("Sassa","If you do it next time, I'll retaliate!
 See you then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝ is troubled huh...
+MsgDisp("主人公","(｛Sassa＊＊｝ is troubled huh...
 I wonder if he'll retaliate next time...)");
 MsgClose();
 ScrFadeOut(0,0);

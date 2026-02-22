@@ -10,7 +10,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","Waa!
-Look, ｛風真＊＊｝, it's beautiful!");
+Look, ｛Kazama＊＊｝, it's beautiful!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -18,7 +18,7 @@ VoicePlay("B140100100_01_000");
 MsgDisp("Kazama","I'm looking at it.
 It is pretty, you included.");
 MsgDisp("主人公","Hehe!
-｛風真＊＊｝, did you already know about
+｛Kazama＊＊｝, did you already know about
 this?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -29,7 +29,7 @@ your christmas outfit. I thought you
 would've known about it, seeing that
 you're well-informed about the city.");
 MsgDisp("主人公","No, I didn't know.
-Thank you, ｛風真＊＊｝.");
+Thank you, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -77,7 +77,7 @@ MsgDisp("Kazama","Our differences are so drastic.
 It's a bit scary not knowing what comes
 after.");
 ChMotion(1,0);
-MsgDisp("主人公","(｛風真＊＊｝...
+MsgDisp("主人公","(｛Kazama＊＊｝...
 What's going to happen once we graduate?)");
 BGMStop();
 MsgClose();

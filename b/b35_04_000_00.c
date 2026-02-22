@@ -8,7 +8,7 @@ MsgClose();
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Huh?
-｛七ツ森＊｝, you still haven't gone
+｛Nanatsumori＊｝, you still haven't gone
 home?");
 VoicePlay("B350400000_04_010");
 MsgDisp("Nanatsumori","There's no way I can go home feeling this
@@ -52,7 +52,7 @@ home. Later...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(4,0,30);
-    MsgDisp("主人公","(｛七ツ森＊｝ seemed a little down.
+    MsgDisp("主人公","(｛Nanatsumori＊｝ seemed a little down.
 Did I mess up, I wonder...)");
     MsgClose();
     ScrFadeOut(0,0);

@@ -12,7 +12,7 @@ VoiceEVSPlay(2);
 VoicePlay("P740200004_02_000");
 MsgDisp("Sassa","｛主人公｝, congratulations.
 It was a huge success, huh!");
-MsgDisp("主人公","｛颯砂＊＊｝, thank you!");
+MsgDisp("主人公","｛Sassa＊＊｝, thank you!");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -60,7 +60,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("P740200004_02_060");
 MsgDisp("Sassa","That was close.
 What was I even saying?");
-MsgDisp("主人公","(｛颯砂＊＊｝...? But, seems like it was
+MsgDisp("主人公","(｛Sassa＊＊｝...? But, seems like it was
 super well-received. I'm glad I did my
 best at the Handicrafts club for the last
 three years!)");

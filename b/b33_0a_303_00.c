@@ -20,7 +20,7 @@ MsgDisp("Kazama","I came to do some personal shopping today.
 See you then.");
 VoicePlay("B330A30300_47_010");
 MsgDisp("Woman Customer A","Ehhh～,you're leaving?");
-MsgDisp("主人公","｛風真＊＊｝...is super popular huh.");
+MsgDisp("主人公","｛Kazama＊＊｝...is super popular huh.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -95,7 +95,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330A30300_06_050");
 MsgDisp("Himuro","What's with that.. please stop...");
-MsgDisp("主人公","If ｛風真＊＊｝ and ｛氷室＊＊｝ worked
+MsgDisp("主人公","If ｛Kazama＊＊｝ and ｛Himuro＊＊｝ worked
 together, things might get out of hand?");
 ChEye(1,2);
 ChMouth(1,2);

@@ -24,7 +24,7 @@ MsgDisp("Himuro","...As expected.");
 VoicePlay("B330A30500_02_000");
 MsgDisp("Sassa","Not bad, Ryota.");
 MsgDisp("主人公","Amazing!
-Both ｛風真＊＊｝ and ｛颯砂＊＊｝ got all
+Both ｛Kazama＊＊｝ and ｛Sassa＊＊｝ got all
 three darts on bullseye.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -32,7 +32,7 @@ ChMotion(6,4);
 VoicePlay("B330A30500_06_010");
 MsgDisp("Himuro","Yes.
 Then, next it's my turn.");
-MsgDisp("主人公","Do your best too, ｛氷室＊＊｝.");
+MsgDisp("主人公","Do your best too, ｛Himuro＊＊｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(6,0,30);
@@ -66,7 +66,7 @@ VoicePlay("B330A30500_01_020");
 MsgDisp("Kazama","Yeah, you'll get 60 points with a triple
 20.");
 MsgDisp("主人公","So that's how it is!
-Do your best, ｛氷室＊＊｝!");
+Do your best, ｛Himuro＊＊｝!");
 VoicePlay("B330A30500_06_030");
 MsgDisp("Himuro","Yo!");
 SEPlay("EV_SE_086");

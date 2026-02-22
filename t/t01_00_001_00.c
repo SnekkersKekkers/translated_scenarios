@@ -1,6 +1,6 @@
 BGOpen("sc121",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛風真＊＊｝, you said you'd come back
+MsgDisp("主人公","(｛Kazama＊＊｝, you said you'd come back
 before our graduation...)");
 MsgDisp("主人公","(——Ah, Maybe he's over there...?)");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
@@ -28,7 +28,7 @@ MsgDisp("主人公","(Church bells...)");
 VoicePlay("T010000100_01_000");
 MsgDisp("Ryota","Ah, hey the bell!
 I heard it again!");
-MsgDisp("主人公","(Ehh∈ ｛風真＊＊｝?)");
+MsgDisp("主人公","(Ehh∈ ｛Kazama＊＊｝?)");
 VoicePlay("T010000100_01_010");
 MsgDisp("Ryota","Over here!
 I think I heard it over here!
@@ -37,7 +37,7 @@ SEPlay("EV_SE_FOOT_008",0,0.1);
 Wait(5,0);
 SEPlay("EV_SE_688",0,0.1);
 Wait(100,0);
-MsgDisp("主人公","Ah, wait up, ｛風真＊＊｝!");
+MsgDisp("主人公","Ah, wait up, ｛Kazama＊＊｝!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);

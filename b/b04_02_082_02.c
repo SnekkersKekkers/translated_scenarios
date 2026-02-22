@@ -40,7 +40,7 @@ failed.");
         ChMotion(2,4);
         VoicePlay("B040208202_02_030");
         MsgDisp("Sassa","You're know this town well right?");
-        MsgDisp("主人公","But ｛颯砂＊＊｝ is very knowledgable not
+        MsgDisp("主人公","But ｛Sassa＊＊｝ is very knowledgable not
 just about track and field but also
 exercise and the body too.");
         ChEye(2,0);
@@ -74,14 +74,14 @@ have are things I learned for myself.");
         VoicePlay("B040208202_02_080");
         MsgDisp("Sassa","It's completely different to you, who
 teaches it to a lot of people.");
-        MsgDisp("主人公","｛颯砂＊＊｝...");
+        MsgDisp("主人公","｛Sassa＊＊｝...");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040208202_02_090");
         MsgDisp("Sassa","Sorry I said that.
 At any rate, I admire you.");
-        MsgDisp("主人公","(｛颯砂＊＊｝...
+        MsgDisp("主人公","(｛Sassa＊＊｝...
 I wonder if he's worried about something.)");
         break ;
         default :

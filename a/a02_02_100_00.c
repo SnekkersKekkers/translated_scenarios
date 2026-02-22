@@ -107,7 +107,7 @@ VoicePlay("A020210000_02_120");
 MsgDisp("Sassa","Phew, that was nice!
 Feeling a little tired?");
 MsgDisp("主人公","Huh...Yeah, a little, but it was fun!
-Thank you, ｛颯砂＊＊｝!");
+Thank you, ｛Sassa＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -141,7 +141,7 @@ SEPlay("EV_SE_626");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝, was it...
+MsgDisp("主人公","(｛Sassa＊＊｝, was it...
 He's like a breath of fresh air.
 It was fun running together!)");
 MsgClose();

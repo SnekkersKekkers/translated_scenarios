@@ -57,8 +57,8 @@ VoicePlay("G020310200_03_080");
 MsgDisp("Honda","But honestly, I'd be really happy if we
 could take our relationship to a new
 level!");
-MsgDisp("主人公","Yeah, thanks ｛本多＊＊｝.");
-MsgDisp("主人公","(I see, that's what ｛本多＊＊｝ is
+MsgDisp("主人公","Yeah, thanks ｛Honda＊＊｝.");
+MsgDisp("主人公","(I see, that's what ｛Honda＊＊｝ is
 thinking about...)");
 BGMStop();
 MsgClose();

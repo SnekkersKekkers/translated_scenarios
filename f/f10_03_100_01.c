@@ -7,7 +7,7 @@ VoicePlay("F100310001_03_000");
 MsgDisp("Honda?","｛主人公｝.
 This way, this way.");
 MsgDisp("主人公","Eh?
-｛本多＊＊｝?");
+｛Honda＊＊｝?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,254,5,3,3,#1,#1,0,0);
@@ -54,6 +54,6 @@ BGMStop();
 ChClose(3);
 MsgDisp("主人公","(Rule?
 Hypothesis?
-｛本多＊＊｝ is having lots of fun.)");
+｛Honda＊＊｝ is having lots of fun.)");
 MsgClose();
 ScrFadeOut(0,0);

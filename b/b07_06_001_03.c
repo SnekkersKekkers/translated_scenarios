@@ -1,5 +1,5 @@
 MsgDisp("主人公","It's been lively around you recently,
-hasn't it, ｛氷室＊＊｝?");
+hasn't it, ｛Himuro＊＊｝?");
 ChEye(6,2);
 ChMouth(6,1);
 ChMotion(6,2);
@@ -45,7 +45,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_230");
 MsgDisp("Himuro","Haa...that's not like me...");
-MsgDisp("主人公","(I wonder if ｛氷室＊＊｝ is content with
+MsgDisp("主人公","(I wonder if ｛Himuro＊＊｝ is content with
 the current situation in his own way?)");
 BGMStop();
 MsgClose();

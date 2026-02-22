@@ -4,7 +4,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(5,254,0,2,2,0,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, thank you for your hard
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you for your hard
 work...");
 ChMouth(5,4);
 ChEyeOpenLevel(5,9);

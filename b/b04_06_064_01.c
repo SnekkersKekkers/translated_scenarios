@@ -22,7 +22,7 @@ MsgDisp("Himuro","Yeah. So that the shop keeper can make a
 proper profit. That's why it breaks so
 easily.");
 MsgDisp("主人公","...Isn't that just 'cause you're bad at
-it, ｛氷室＊＊｝?");
+it, ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -43,7 +43,7 @@ ChOpen(6,33,2,1,1,0,#1,0,0);
 VoicePlay("B040606401_06_040");
 MsgDisp("Himuro","You still only caught three.
 It's nothing to be proud of.");
-MsgDisp("主人公","But ｛氷室＊＊｝ ——");
+MsgDisp("主人公","But ｛Himuro＊＊｝ ——");
 SEPlay("EV_SE_022",0.3,0.5);
 Wait(30,1);
 ChEye(6,0);

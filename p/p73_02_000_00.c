@@ -57,7 +57,7 @@ is fine?");
 No, I should be giving you a round of
 applause.");
     MsgDisp("主人公","(Hehe!
-For the sake of ｛颯砂＊＊｝ too, let's do
+For the sake of ｛Sassa＊＊｝ too, let's do
 our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -79,7 +79,7 @@ I'm nervous..)");
     MsgDisp("Sassa","｛主人公｝.
 How are the preparations or the fashion
 show?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -101,7 +101,7 @@ It's not a modelling club after all.");
     MsgDisp("Sassa","But the clothes that you made, fit you the
 most. It's way better than having someone
 else model them.");
-    MsgDisp("主人公","｛颯砂＊＊｝...");
+    MsgDisp("主人公","｛Sassa＊＊｝...");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(2,0);
@@ -110,7 +110,7 @@ else model them.");
     VoicePlay("P730200000_02_100");
     MsgDisp("Sassa","So, go with confidence.");
     MsgDisp("主人公","Yeah, thank you!");
-    MsgDisp("主人公","(｛颯砂＊＊｝ gave me courage, I have to
+    MsgDisp("主人公","(｛Sassa＊＊｝ gave me courage, I have to
 make this a success!)");
     MsgClose();
     ScrFadeOut(0,0);

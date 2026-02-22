@@ -44,7 +44,7 @@ this.");
         MsgDisp("Sassa","It's amazing that he makes so many people
 happy like this.
 I want to be that kind of person");
-        MsgDisp("主人公","I think ｛颯砂＊＊｝ is an amazing player
+        MsgDisp("主人公","I think ｛Sassa＊＊｝ is an amazing player
 that both surprises and entertains
 everyone?");
         ChEye(2,0);
@@ -54,7 +54,7 @@ everyone?");
         MsgDisp("Sassa","I see, I'll try my best to become like
 that...then maybe I can be made into some
 kind of mascot character?");
-        MsgDisp("主人公","Hehe, if` it's ｛颯砂＊＊｝, how about a
+        MsgDisp("主人公","Hehe, if` it's ｛Sassa＊＊｝, how about a
 character like that horse plushie?");
         ChEye(2,0);
         ChMouth(2,3);

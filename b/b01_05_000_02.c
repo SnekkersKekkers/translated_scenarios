@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like I got here a little early...
 Huh?)");
-MsgDisp("主人公","｛柊＊＊＊｝!
+MsgDisp("主人公","｛Hiiragi＊＊＊｝!
 This is before our meeting time, right?");
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
 switch (ChPrmGet(5,6)){

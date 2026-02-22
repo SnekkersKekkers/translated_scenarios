@@ -16,7 +16,7 @@ VoicePlay("B070100000_01_500");
 MsgDisp("Kazama","Just do as you normally do.
 And what is that?");
 MsgDisp("主人公","Hey um, what do you think about love,
-｛風真＊＊｝?");
+｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,5);
@@ -50,7 +50,7 @@ equation is difficult.
 I can't do it.");
 MsgDisp("主人公","I see.
 I guess I should also think about it more
-seriously, like you do, ｛風真＊＊｝?");
+seriously, like you do, ｛Kazama＊＊｝?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -60,7 +60,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_550");
 MsgDisp("Kazama","...Seriously.
 I'm seriously counting on you.");
-MsgDisp("主人公","(He's relying on me a lot....)");
+MsgDisp("主人公","(He's relying on me a lot...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

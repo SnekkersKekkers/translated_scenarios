@@ -49,7 +49,7 @@ ChClose(4,0,30);
 ScrQuake(1);
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","Waa, ｛七ツ森＊｝～∋");
+MsgDisp("主人公","Waa, ｛Nanatsumori＊｝～∋");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -66,7 +66,7 @@ The \"60 Minute Shaved Ice Challenge\"
 starts now～ ∈");
 MsgDisp("主人公","(T-There are so many kinds of Shaved
 Ice...To keep eating this for 60
-minutes...｛七ツ森＊｝, is it really
+minutes...｛Nanatsumori＊｝, is it really
 okay∋)");
 VoicePlay("B050400100_04_050");
 MsgDisp("Nanatsumori","Thanks for the meal.
@@ -91,7 +91,7 @@ MsgDisp("Nanatsumori","Yum!
 The cocoa powder is really rich!
 The hidden milk pie is too awesome...");
 MsgDisp("主人公","(Hehe.
-｛七ツ森＊｝'s food commentary is funny.)");
+｛Nanatsumori＊｝'s food commentary is funny.)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -129,7 +129,7 @@ StlMouth(4,1);
 VoicePlay("B050400100_04_110");
 MsgDisp("Nanatsumori","Oh, could you add a little extra condensed
 milk, please?");
-MsgDisp("主人公","(｛七ツ森＊｝, amazing...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, amazing...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -157,7 +157,7 @@ stuffing myself and ended up neglecting
 you...");
 MsgDisp("主人公","Nah.
 We enjoyed the movie together and I had
-fun seeing ｛七ツ森＊｝'s brave form!");
+fun seeing ｛Nanatsumori＊｝'s brave form!");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);

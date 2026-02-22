@@ -23,7 +23,7 @@ VoicePlay("G020520001_05_030");
 MsgDisp("Hiiragi","It doesn't matter who that person is.
 But I want to get closer to you than
 anyone else.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020520001_05_040");
@@ -37,7 +37,7 @@ ChMotion(5,4);
 VoicePlay("G020520001_05_050");
 MsgDisp("Hiiragi","Heheh, I can tell it's not a no.
 Now it's up to me.");
-MsgDisp("主人公","(Today ｛柊＊＊＊｝ seems different to how
+MsgDisp("主人公","(Today ｛Hiiragi＊＊＊｝ seems different to how
 he is usually...What did he mean by
 getting the closest to me?)");
 BGMStop();

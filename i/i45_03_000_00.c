@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoicePlay("I450300000_03_000");
     MsgDisp("Honda","Ah, it really is you.");
-    MsgDisp("主人公","｛本多＊＊｝∋");
+    MsgDisp("主人公","｛Honda＊＊｝∋");
     ChEye(3,3);
     ChMouth(3,0);
     ChMotion(3,4,1);
@@ -52,7 +52,7 @@ full-fledged worker soon!)");
     VoiceEVSPlay(3);
     VoicePlay("I450300000_03_050");
     MsgDisp("Honda","｛主人公｝, working hard?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome.");
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝, welcome.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,2,1);
@@ -90,7 +90,7 @@ A customer's here.");
 I'll get going, okay?
 See you.");
     MsgDisp("主人公","(He came to check on me, right?
-But you know, I feel like ｛本多＊＊｝
+But you know, I feel like ｛Honda＊＊｝
 might know more about flowers than me...)");
     break ;
     case 4:
@@ -119,7 +119,7 @@ from what I've seen, though?");
 and wasting their time.");
     MsgDisp("主人公","What you talk about is interesting, so
 maybe it'd end up being popular,
-｛本多＊＊｝.");
+｛Honda＊＊｝.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);

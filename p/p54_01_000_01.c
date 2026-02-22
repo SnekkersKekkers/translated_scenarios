@@ -28,7 +28,7 @@ MsgDisp("Kazama","After that, it's just about you coming to
 terms with it.
 You can start practicing today, right?");
 MsgDisp("主人公","...Yeah.");
-MsgDisp("主人公","(It's as ｛風真＊＊｝ says.
+MsgDisp("主人公","(It's as ｛Kazama＊＊｝ says.
 Kazama is right.
 I'll practice until I'm satisfied!)");
 MsgClose();

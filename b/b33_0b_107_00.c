@@ -110,7 +110,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B330B10700_01_050");
 MsgDisp("Kazama","It's fine for the elderly to do it.
 Let's move onto the next one.");
-MsgDisp("主人公","(｛風真＊＊｝, are you feeling a bit
+MsgDisp("主人公","(｛Kazama＊＊｝, are you feeling a bit
 embarrassed?)");
 BGMStop();
 MsgClose();

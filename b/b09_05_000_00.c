@@ -7,7 +7,7 @@ SEWait();
 VoicePlay("B090500000_05_000");
 MsgDisp("Hiiragi","Hello, this is Hiiragi.");
 MsgDisp("主人公","Huh?
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
 VoicePlay("B090500000_05_010");
 MsgDisp("Hiiragi","I just wanted to check if you were
 alright.

@@ -10,7 +10,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("X110600000_06_000");
     MsgDisp("Himuro","The baseball club won their match, right?
 Congratulations.");
-    MsgDisp("主人公","｛氷室＊＊｝, thank you!");
+    MsgDisp("主人公","｛Himuro＊＊｝, thank you!");
     MsgDisp("主人公","(I'm glad we won...!)");
     break ;
     case 4:
@@ -22,7 +22,7 @@ Congratulations.");
     VoicePlay("X110600000_06_010");
     MsgDisp("Himuro","I heard the baseball club won their
 practice match?");
-    MsgDisp("主人公","｛氷室＊＊｝.
+    MsgDisp("主人公","｛Himuro＊＊｝.
 Yeah, we did it!");
     ChEye(6,0);
     ChMouth(6,3);
@@ -31,7 +31,7 @@ Yeah, we did it!");
     MsgDisp("Himuro","This is a result that couldn't have been
 achieved without you as manager.
 Thank you for your hard work.");
-    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝!)");
+    MsgDisp("主人公","(I was praised by ｛Himuro＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

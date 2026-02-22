@@ -8,7 +8,7 @@ ChOpen(2,255,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("E010210100_02_000");
 MsgDisp("Sassa","｛主人公｝, what a coincidence.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Going out?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -33,14 +33,14 @@ He overstretched at a university sports
 event, and tore a muscle.");
 MsgDisp("主人公","Is that so?
 I hope he gets well soon.
-But ｛颯砂＊＊｝, is your dad...");
+But ｛Sassa＊＊｝, is your dad...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010210100_02_040");
 MsgDisp("Sassa","Yeah, he's a university sports professor.");
 MsgDisp("主人公","Awesome!
-｛颯砂＊＊｝, did you get your athletic
+｛Sassa＊＊｝, did you get your athletic
 abilities from your dad then?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -57,7 +57,7 @@ MsgDisp("Sassa","My dad didn't seem to want to develop as a
 competitor. He says the theory of coaching
 is closer to his nature.");
 MsgDisp("主人公","It seems you've inherited both their
-talents, ｛颯砂＊＊｝.");
+talents, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -84,7 +84,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝'s whole family is athletic.
+MsgDisp("主人公","(｛Sassa＊＊｝'s whole family is athletic.
 He looks just like his mother...
 I wanna see that!)");
 MsgClose();

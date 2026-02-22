@@ -55,15 +55,15 @@ MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","You were right!
-Amazing, ｛本多＊＊｝.");
+Amazing, ｛Honda＊＊｝.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("F100340001_04_000");
 MsgDisp("Nanatsumori","Haa...so noisy.
 What are you two doing?");
-MsgDisp("主人公","｛本多＊＊｝ was guessing where you were,
-｛七ツ森＊｝.
+MsgDisp("主人公","｛Honda＊＊｝ was guessing where you were,
+｛Nanatsumori＊｝.
 How did you know?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -76,7 +76,7 @@ and cool...so I thought this might be it.");
 ChMouth(4,1);
 ChMotion(4,0,1);
 MsgDisp("主人公","Hehe, a cat huh...
-｛七ツ森＊｝ is definitely cat like?");
+｛Nanatsumori＊｝ is definitely cat like?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -117,7 +117,7 @@ MsgClose();
 SEPlay("EV_SE_626");
 ChClose(3);
 SEStop("EV_SE_SCHOOL_002",1);
-MsgDisp("主人公","(｛本多＊＊｝, are you having fun playing
+MsgDisp("主人公","(｛Honda＊＊｝, are you having fun playing
 hide-and-seek?)");
 MsgClose();
 ScrFadeOut(0,0);

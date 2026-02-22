@@ -56,7 +56,7 @@ ChMotion(7,1);
 VoicePlay("D140C04000_07_030");
 MsgDisp("Mikage","You're laughing, huh?");
 MsgDisp("主人公","(I hope we can have lunch with
-｛柊＊＊＊｝ next time...)");
+｛Hiiragi＊＊＊｝ next time...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

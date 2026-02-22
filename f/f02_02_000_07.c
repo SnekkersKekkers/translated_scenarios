@@ -61,5 +61,5 @@ ChEyeOpenLevel(2,7);
 VoicePlay("F020200007_02_060");
 MsgDisp("Sassa","Got it.
 Thank you going forward.");
-MsgDisp("主人公","(Morning walks with ｛颯砂＊＊｝...
+MsgDisp("主人公","(Morning walks with ｛Sassa＊＊｝...
 Is it more fun than with the dogs?)");

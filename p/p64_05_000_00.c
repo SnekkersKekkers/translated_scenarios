@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("P640500000_05_000");
 MsgDisp("Hiiragi","Phew...
 Yes, it's calming.");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Is it?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -23,7 +23,7 @@ VoicePlay("P640500000_05_020");
 MsgDisp("Hiiragi","Seems like it, yes.
 Thanks to this, it seems like I'll sleep
 soundly today.");
-MsgDisp("主人公","(Seems like ｛柊＊＊＊｝ liked it!
+MsgDisp("主人公","(Seems like ｛Hiiragi＊＊＊｝ liked it!
 Yay, it wa s huge success∈)");
 MsgClose();
 BGMStop();

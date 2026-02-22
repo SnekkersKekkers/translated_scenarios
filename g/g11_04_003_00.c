@@ -16,7 +16,7 @@ BGMPlay("BGM_C04_NANA_A");
 ScrFadeIn(0);
 VoicePlay("G110400300_04_000");
 MsgDisp("Nanatsumori","Yo, nice work.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Are you working today?");
 ChEye(4,0);
 ChMouth(4,2);

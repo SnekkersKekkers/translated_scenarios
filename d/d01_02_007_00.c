@@ -1,4 +1,4 @@
-MsgDisp("主人公","(｛颯砂＊＊｝'s last high school race will
+MsgDisp("主人公","(｛Sassa＊＊｝'s last high school race will
 start soon...)");
 MsgClose();
 BGOpen("sc624",0);
@@ -7,7 +7,7 @@ ScrFadeIn(0);
 BGMPlay("BGM_C02_SASSA_C",0.01);
 ChOpen(2,37,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Only 4 events left.
-I know ｛颯砂＊＊｝ will try his best.");
+I know ｛Sassa＊＊｝ will try his best.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -32,7 +32,7 @@ ScrFadeOut(0);
 SEWait();
 VoicePlay("D010200700_02_020");
 MsgDisp("Sassa","......");
-MsgDisp("主人公","｛颯砂＊＊｝...?");
+MsgDisp("主人公","｛Sassa＊＊｝...?");
 SEPlay("EV_SE_675",1,0.3);
 Wait(30,0);
 ChEye(2,0);
@@ -47,7 +47,7 @@ until I pass out!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝...)");
+MsgDisp("主人公","(｛Sassa＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -58,7 +58,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 MsgDisp("主人公","(Finally, the 1500m race...
-｛颯砂＊＊｝!)");
+｛Sassa＊＊｝!)");
 MsgClose();
 BGOpen("sc625",0);
 ScrFadeIn(0);
@@ -85,7 +85,7 @@ SEPlay("EV_SE_GAYA_021",0.5);
 SEPlay("EV_SE_CLAP_002",0,0.2);
 SEPlay("EV_SE_CLAP_004",0,0.2);
 Wait(30,0);
-MsgDisp("主人公","｛颯砂＊＊｝, congrats!");
+MsgDisp("主人公","｛Sassa＊＊｝, congrats!");
 VoicePlay("D010200700_44_000");
 MsgDisp("Member B","Sassa-senpai, congratulations!");
 VoicePlay("D010200700_33_020");
@@ -120,7 +120,7 @@ ChOpen(2,37,4,4,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200700_02_060");
 MsgDisp("Sassa","｛主人公｝...");
-MsgDisp("主人公","Eh, ｛颯砂＊＊｝?");
+MsgDisp("主人公","Eh, ｛Sassa＊＊｝?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(2,0,0);
@@ -151,7 +151,7 @@ StlMouth(2,0);
 VoicePlay("D010200700_02_100");
 MsgDisp("Sassa","Is that a bad thing to say?");
 MsgDisp("主人公","Ah...Gold medals are kind of heavy, aren't
-they? ｛颯砂＊＊｝, thank you. You worked
+they? ｛Sassa＊＊｝, thank you. You worked
 hard these past 3 years.");
 SEPlay("EV_SE_CLAP_005",0.5);
 Wait(30,0);

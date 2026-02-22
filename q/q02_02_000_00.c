@@ -15,7 +15,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("Q020200000_02_000");
     MsgDisp("Sassa","｛主人公｝.
 Good morning!");
-    MsgDisp("主人公","｛颯砂＊＊｝, good morning.");
+    MsgDisp("主人公","｛Sassa＊＊｝, good morning.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -41,7 +41,7 @@ Nagasaki.");
         MsgDisp("Sassa","Me too.
 This is my first time, and I even get to
 be with you!");
-        MsgDisp("主人公","(Spending my free period with ｛颯砂＊＊｝...
+        MsgDisp("主人公","(Spending my free period with ｛Sassa＊＊｝...
 This will surely be a fun day!)");
         break ;
         case 1:
@@ -68,7 +68,7 @@ Well, I guess I'll ask someone else...");
     VoicePlay("Q020200000_02_050");
     MsgDisp("Sassa","｛主人公｝.
 Morning, I was looking for you.");
-    MsgDisp("主人公","｛颯砂＊＊｝, good morning.
+    MsgDisp("主人公","｛Sassa＊＊｝, good morning.
 What's up?");
     ChEye(2,0);
     ChMouth(2,4);

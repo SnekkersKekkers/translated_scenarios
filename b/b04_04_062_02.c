@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040406202_04_000");
 MsgDisp("Nanatsumori","I could stay here all day and never get
 bored.");
-MsgSel("It's a bit chilly in a swim suit, isn't it?","You mightneed a table and chair","I'll join you▼");
+MsgSel("It's a bit chilly in a swim suit, isn't it?","You might need a table and chair","I'll join you▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -47,7 +47,7 @@ move again.");
         ChMotion(4,1,1);
         VoicePlay("B040406202_04_030");
         MsgDisp("Nanatsumori","Wait a minute.
-Your eyes are kinda scary");
+Your eyes are kinda scary!");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -99,7 +99,7 @@ I was already caught in a dream.");
         VoicePlay("B040406202_04_100");
         MsgDisp("Nanatsumori","I see, so it's this sort of feeling...
 Like heaven on earth...");
-        MsgDisp("主人公","(｛七ツ森＊｝?)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝?)");
         break ;
         default :
         DbgAssert(1);

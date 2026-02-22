@@ -35,7 +35,7 @@ VoicePlay("B150800500_08_050");
 MsgDisp("Shirahane","My heart's still poundin' the same as
 ever. But I'm startin' to think this is
 fine too.");
-MsgDisp("主人公","｛大地＊＊｝?");
+MsgDisp("主人公","｛Daichi＊＊｝?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -60,6 +60,6 @@ Well then, I'll see ya.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);
-MsgDisp("主人公","(｛大地＊＊｝...)");
+MsgDisp("主人公","(｛Daichi＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -88,7 +88,7 @@ Thank you.");
         VoicePlay("B040523202_05_080");
         MsgDisp("Hiiragi","Yes.
 But...do you want to try again?");
-        MsgDisp("主人公","(｛柊＊＊＊｝, you like fortune telling
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you like fortune telling
 this much...)");
         break ;
         default :

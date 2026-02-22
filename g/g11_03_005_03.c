@@ -2,7 +2,7 @@ BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Phew, I'm finally done with the cash
-register. Huh? Where's ｛本多＊＊｝...)");
+register. Huh? Where's ｛Honda＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -13,7 +13,7 @@ BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛本多＊＊｝, are you still organizing the
+MsgDisp("主人公","｛Honda＊＊｝, are you still organizing the
 bookshelf?");
 ChEye(3,2);
 ChMouth(3,2);

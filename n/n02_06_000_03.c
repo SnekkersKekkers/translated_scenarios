@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,8,#1,0,0);
     VoicePlay("N020600003_06_000");
     MsgDisp("Himuro","What's up with this results...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -21,7 +21,7 @@ That's all.");
 I have to study harder...)");
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020600003_06_020");
@@ -43,7 +43,7 @@ I have to study harder...)");
     ChOpen(6,254,0,2,0,#1,#1,0,0);
     VoicePlay("N020600003_06_040");
     MsgDisp("Himuro","...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝...");
     ChEye(6,2);
     ChMouth(6,0);
     ChMotion(6,0);

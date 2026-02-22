@@ -13,7 +13,7 @@ VoicePlay("F020700014_07_000");
 MsgDisp("Mikage","That's right...the three years I spent
 with you guys really were fun.");
 MsgDisp("主人公","Yes.
-｛御影＊＊｝, thank you very much.");
+｛Mikage＊＊｝, thank you very much.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -78,5 +78,5 @@ Even if I say the same thing on the actual
 day, please act like it was your first
 time hearing it, okay?");
 MsgDisp("主人公","(There's only a little more time where I
-can be with ｛御影＊＊｝...
+can be with ｛Mikage＊＊｝...
 It is lonely after all...)");

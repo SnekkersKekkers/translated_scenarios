@@ -17,7 +17,7 @@ I'll be waiting.");
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(A shrine visit with ｛颯砂＊＊｝!
+    MsgDisp("主人公","(A shrine visit with ｛Sassa＊＊｝!
 What should I wear...)");
     break ;
     case 3:
@@ -35,7 +35,7 @@ Thank you.");
 See you soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(A shrine visit with ｛颯砂＊＊｝!
+    MsgDisp("主人公","(A shrine visit with ｛Sassa＊＊｝!
 What should I wear...)");
     break ;
     case 4:
@@ -57,7 +57,7 @@ See you soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Dressed up, huh...
-｛颯砂＊＊｝ is expecting something...)");
+｛Sassa＊＊｝ is expecting something...)");
     break ;
     default :
     DbgAssert(1);

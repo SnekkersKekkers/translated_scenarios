@@ -14,7 +14,7 @@ What should I do, I'm so nervous...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("P530200000_02_000");
     MsgDisp("Sassa","Ah, you're here.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -37,7 +37,7 @@ usual.");
     MsgDisp("Sassa","Relax.
 Don't worry, practice never fails.");
     MsgDisp("主人公","...Yeah!");
-    MsgDisp("主人公","(｛颯砂＊＊｝ said it, so it can't be
+    MsgDisp("主人公","(｛Sassa＊＊｝ said it, so it can't be
 wrong, huh?
 I'll use everything I practiced!)");
     break ;
@@ -52,7 +52,7 @@ What should I do, I'm so nervous...)");
     VoiceEVSPlay(2);
     VoicePlay("P530200000_02_040");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝...
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝...
 It's almost time for the real performance.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -70,7 +70,7 @@ shouldn't be nervous...");
     MsgDisp("Sassa","I get it.
 Before I have a contest, I also get like
 that.");
-    MsgDisp("主人公","Even ｛颯砂＊＊｝?");
+    MsgDisp("主人公","Even ｛Sassa＊＊｝?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -105,7 +105,7 @@ don't you?");
     VoicePlay("P530200000_02_100");
     MsgDisp("Sassa","I'm looking forwards to it too.
 See you.");
-    MsgDisp("主人公","(Thanks to ｛颯砂＊＊｝, I'm looking
+    MsgDisp("主人公","(Thanks to ｛Sassa＊＊｝, I'm looking
 forwards to playing...?
 Yeah, I feel like I can do it!)");
     break ;

@@ -39,7 +39,7 @@ ChEyeOpenLevel(6,0);
 MsgDisp("Himuro","And now...
 I'm such a wreck that I could cry just
 thinking about you.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 VoicePlay("T020600000_06_460");
 ChEye(6,2);
 ChMouth(6,0);

@@ -84,7 +84,7 @@ feelings.");
         MsgDisp("Honda","Ehh!
 Could it be that it doesn't click for you
 too?");
-        MsgDisp("主人公","No, ｛本多＊＊｝'s conversations are super
+        MsgDisp("主人公","No, ｛Honda＊＊｝'s conversations are super
 interesting.");
         ChEye(3,3);
         ChMouth(3,3);

@@ -1,6 +1,6 @@
-MsgDisp("主人公","Hey, ｛氷室＊＊｝.
+MsgDisp("主人公","Hey, ｛Himuro＊＊｝.
 What do you normally talk about with
-｛風真＊＊｝ and ｛颯砂＊＊｝?");
+｛Kazama＊＊｝ and ｛Sassa＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -14,7 +14,7 @@ MsgDisp("Kazama","Though, of course, you've always genuinely
 enjoyed yourself no matter where I took
 you.");
 MsgDisp("主人公","Because every place you take me to is fun,
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -54,7 +54,7 @@ ChMouth(1,3);
 VoicePlay("G020110401_01_060");
 MsgDisp("Kazama","Yeah, so I promise to surprise you.
 One day.");
-MsgDisp("主人公","(What kind of surprise does ｛風真＊＊｝
+MsgDisp("主人公","(What kind of surprise does ｛Kazama＊＊｝
 have up his sleeve?
 I can't wait!)");
 BGMStop();

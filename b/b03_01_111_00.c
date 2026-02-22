@@ -6,7 +6,7 @@ ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B030111100_01_000");
 MsgDisp("Kazama","You can't go wrong here.");
-MsgDisp("主人公","｛風真＊＊｝?");
+MsgDisp("主人公","｛Kazama＊＊｝?");
 MsgDispSksp(1,0);
 ChEye(1,3);
 ChMouth(1,3);

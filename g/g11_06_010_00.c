@@ -1,6 +1,6 @@
 BGOpen("ar200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛氷室＊＊｝, good work today.
+MsgDisp("主人公","｛Himuro＊＊｝, good work today.
 Do you want to walk home together?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -16,7 +16,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_010");
 MsgDisp("Himuro","It's okay but...
 Ryota-senpai—— Ah, nevermind.");
-MsgDisp("主人公","(｛風真＊＊｝?)");
+MsgDisp("主人公","(｛Kazama＊＊｝?)");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -82,7 +82,7 @@ ChMotion(6,2);
 VoicePlay("G110601000_06_090");
 MsgDisp("Himuro","...Geez.
 What am I so worried for?");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

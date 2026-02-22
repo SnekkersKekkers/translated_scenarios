@@ -14,7 +14,7 @@ Get ready or something like that.");
 See you soon then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay! ｛氷室＊＊｝ and I are going to the
+    MsgDisp("主人公","(Yay! ｛Himuro＊＊｝ and I are going to the
 shrine together! ...What should I wear?)");
     break ;
     case 3:
@@ -29,7 +29,7 @@ You should get ready.");
 Thank you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Visiting the shrine with ｛氷室＊＊｝!
+    MsgDisp("主人公","(Visiting the shrine with ｛Himuro＊＊｝!
 Now, what to wear?)");
     break ;
     case 4:
@@ -45,7 +45,7 @@ time and get ready.");
 Thank you so much!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(A shrine visit with ｛氷室＊＊｝!
+    MsgDisp("主人公","(A shrine visit with ｛Himuro＊＊｝!
 Now then, what should I wear?)");
     break ;
     default :

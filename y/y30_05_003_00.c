@@ -63,7 +63,7 @@ council...I'm only good at keeping up
 with appearances, this is the real
 me.");
 MsgClear();
-MsgDisp("主人公","\"No, ｛柊＊＊＊｝, for the sake of
+MsgDisp("主人公","\"No, ｛Hiiragi＊＊＊｝, for the sake of
 everyone always gives it his best in
 both the theatre troupe and student
 council.\"");

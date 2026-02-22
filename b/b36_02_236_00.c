@@ -10,7 +10,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, thank you.
+MsgDisp("主人公","｛Sassa＊＊｝, thank you.
 I didn't think I would be able to see the
 night parade.");
 ChEye(2,0);
@@ -49,7 +49,7 @@ ChMotion(2,0);
 VoicePlay("B360223600_02_040");
 MsgDisp("Sassa","Not \"Eh?\", you said you wanted us to be
 alone for a day.");
-MsgDisp("主人公","...What about ｛風真＊＊｝ and ｛氷室＊＊｝?");
+MsgDisp("主人公","...What about ｛Kazama＊＊｝ and ｛Himuro＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

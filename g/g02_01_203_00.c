@@ -47,7 +47,7 @@ VoicePlay("G020120300_01_050");
 MsgDisp("Kazama","So is it sporty clothes?
 Or the wild stuff?");
 MsgDisp("主人公","Mmmm, I like the clothes you usually wear,
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -55,7 +55,7 @@ VoicePlay("G020120300_01_060");
 MsgDisp("Kazama","Yes!
 That answer gets a perfect 100!");
 MsgDisp("主人公","Hahah, you look really good in an apron
-after all, ｛風真＊＊｝.");
+after all, ｛Kazama＊＊｝.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3,1);
@@ -76,7 +76,7 @@ VoicePlay("G020120300_01_090");
 MsgDisp("Kazama","But you better get ready.
 I'm going to start wearing aprons in all
 sorts of colors to our dates from now on.");
-MsgDisp("主人公","(A colorful ｛風真＊＊｝ might be a bit
+MsgDisp("主人公","(A colorful ｛Kazama＊＊｝ might be a bit
 like these fireflies...)");
 BGMStop();
 MsgClose();

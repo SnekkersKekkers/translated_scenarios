@@ -7,7 +7,7 @@ ChOpen(2,254,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D100210000_02_000");
 MsgDisp("Sassa","｛主人公｝, listen.");
-MsgDisp("主人公","Good morning, ｛颯砂＊＊｝.
+MsgDisp("主人公","Good morning, ｛Sassa＊＊｝.
 What's up?");
 ChEye(2,0);
 ChMouth(2,3);

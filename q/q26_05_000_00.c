@@ -11,7 +11,7 @@ MsgDisp("Hiiragi","Ahh...");
 ChEyeOpenLevel(5,9);
 VoicePlay("Q260500000_05_010");
 MsgDisp("Hiiragi","I knew it was you...");
-MsgDisp("主人公","Eh, ｛柊＊＊＊｝∋
+MsgDisp("主人公","Eh, ｛Hiiragi＊＊＊｝∋
 Wait, so just now...");
 ChMouth(5,4);
 ChMotion(5,0);
@@ -31,6 +31,6 @@ SEPlay("EV_SE_799");
 ChClose(5);
 SEWait();
 MsgDisp("主人公","(Eeh∋
-So that feeling just now was ｛柊＊＊＊｝...?)");
+So that feeling just now was ｛Hiiragi＊＊＊｝...?)");
 MsgClose();
 ScrFadeOut(0,0);

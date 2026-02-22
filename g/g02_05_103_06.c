@@ -34,7 +34,7 @@ ChMotion(5,0);
 VoicePlay("G020510306_05_040");
 MsgDisp("Hiiragi","Hehe, though I wonder about having sweet
 sake now, considering the season?");
-MsgDisp("主人公","(｛柊＊＊＊｝ seems to be having fun.
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to be having fun.
 But a goddess...?)");
 BGMStop();
 MsgClose();

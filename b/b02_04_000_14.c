@@ -17,5 +17,5 @@ VoicePlay("B020400014_04_010");
 MsgDisp("Nanatsumori","Yeah. I guess they call this a matching
 look. Ah～ ...This is just a little
 embarrassing.");
-MsgDisp("主人公","(Hehe, seems like ｛七ツ森＊｝ and I
+MsgDisp("主人公","(Hehe, seems like ｛Nanatsumori＊｝ and I
 have similar tastes in clothes!)");

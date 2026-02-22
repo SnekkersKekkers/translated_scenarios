@@ -28,7 +28,7 @@ I'm sorry!");
     MsgDisp("Shirahane","Leave it t'me.
 Go close that gas flap, and then take care
 of the bill!");
-    MsgDisp("主人公","｛大地＊＊｝, thank you.
+    MsgDisp("主人公","｛Daichi＊＊｝, thank you.
 Sorry for the bother...");
     ChEye(8,3);
     ChMouth(8,3);
@@ -80,7 +80,7 @@ Sorry to bother you.");
     MsgDisp("Shirahane","Don't rush and look around properly and
 you'll be fine.
 'Kay?");
-    MsgDisp("主人公","(｛大地＊＊｝...
+    MsgDisp("主人公","(｛Daichi＊＊｝...
 I'll have to be more careful from now on.)");
     break ;
     default :

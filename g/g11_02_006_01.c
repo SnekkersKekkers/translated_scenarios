@@ -33,7 +33,7 @@ MsgDisp("Sassa","Unreasonable and reckless are my
 specialties.
 Well, I'm off now!");
 MsgDisp("主人公","(Hehe!
-｛颯砂＊＊｝, you seem to be having a lot
+｛Sassa＊＊｝, you seem to be having a lot
 more fun than before?)");
 MsgClose();
 ScrFadeOut(0);
@@ -79,7 +79,7 @@ BGMStop();
 SEStop("EV_SE_FOOT_037",2);
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","(｛颯砂＊＊｝, It seems like you're more
+MsgDisp("主人公","(｛Sassa＊＊｝, It seems like you're more
 motivated now than ever.
 I'm looking forward to your next record!)");
 MsgClose();

@@ -45,7 +45,7 @@ rank...)");
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_030");
     MsgDisp("Nanatsumori","It's all my fault.");
-    MsgDisp("主人公","｛七ツ森＊｝, even I...");
+    MsgDisp("主人公","｛Nanatsumori＊｝, even I...");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("O030400002_04_040");
@@ -61,7 +61,7 @@ rank...)");
     VoicePlay("O030400002_04_060");
     MsgDisp("Nanatsumori","So, if we get to work together again,
 let's both try harder.");
-    MsgDisp("主人公","(｛七ツ森＊｝ looks serious...
+    MsgDisp("主人公","(｛Nanatsumori＊｝ looks serious...
 But, getting last is still frustrating...)");
     break ;
     default :

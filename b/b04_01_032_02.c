@@ -54,7 +54,7 @@ fish in the aquarium, myself.");
         VoicePlay("B040103202_01_040");
         MsgDisp("Kazama","Well, let's take a break on this bench.
 I'll grab us drinks.");
-        MsgDisp("主人公","Thank you, ｛風真＊＊｝.");
+        MsgDisp("主人公","Thank you, ｛Kazama＊＊｝.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(1);
@@ -98,7 +98,7 @@ Going my way～!");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         ChPosition(1,0);
-        MsgDisp("主人公","Thank you, ｛風真＊＊｝.");
+        MsgDisp("主人公","Thank you, ｛Kazama＊＊｝.");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -108,7 +108,7 @@ Going my way～!");
 an instant. You stand out way too much.
 From here on, you can't stand around
 alone.");
-        MsgDisp("主人公","(That's not realistic, ｛風真＊＊｝...)");
+        MsgDisp("主人公","(That's not realistic, ｛Kazama＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

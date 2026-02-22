@@ -13,5 +13,5 @@ VoicePlay("B020200002_02_010");
 MsgDisp("Sassa","Yeah.
 Girls look good in that color.
 It's nice.");
-MsgDisp("主人公","(｛颯砂＊＊｝ seems to like the color pink.
+MsgDisp("主人公","(｛Sassa＊＊｝ seems to like the color pink.
 I'll have to remember that.)");

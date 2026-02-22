@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D100510000_05_000");
 MsgDisp("Hiiragi","｛主人公｝, there you are.");
-MsgDisp("主人公","｛柊＊＊＊｝, what's up?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, what's up?");
 ChEye(5,4);
 ChMotion(5,1);
 VoicePlay("D100510000_05_010");
@@ -41,6 +41,6 @@ BGMStop();
 ChClose(5);
 MsgDisp("主人公","(It makes me happy too.
 Come to think of it, I've been spending a
-lot of time with ｛柊＊＊＊｝ lately...)");
+lot of time with ｛Hiiragi＊＊＊｝ lately...)");
 MsgClose();
 ScrFadeOut(0,0);

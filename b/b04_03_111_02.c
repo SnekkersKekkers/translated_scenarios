@@ -76,7 +76,7 @@ Shall we take a break?");
         MsgDisp("Honda","Huh?
 I haven't seen this pattern before...
 Just from looking at your hands...");
-        MsgDisp("主人公","Um, ｛本多＊＊｝?");
+        MsgDisp("主人公","Um, ｛Honda＊＊｝?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1,1);
@@ -103,7 +103,7 @@ It's probably love!");
         SEPlay("EV_SE_GAYA_017",1,0.5);
         SEPlay("EV_SE_GAYA_007",1,0.25);
         SEWait();
-        MsgDisp("主人公","(｛本多＊＊｝, that's embarrassing...)");
+        MsgDisp("主人公","(｛Honda＊＊｝, that's embarrassing...)");
         break ;
         default :
         DbgAssert(1);

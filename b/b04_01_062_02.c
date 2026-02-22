@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B040106202_01_000");
 MsgDisp("Kazama","Aside from just being blue, the cave
 sounds are exciting too.");
-MsgSel("Boys like that kind of stuff, right?","Captain! Falling rocks overhead!","Hehe, ｛風真＊＊｝'s expedition team?");
+MsgSel("Boys like that kind of stuff, right?","Captain! Falling rocks overhead!","Hehe, ｛Kazama＊＊｝'s expedition team?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){
@@ -86,7 +86,7 @@ Of course I do.");
         MsgDisp("Kazama","In that case, I'm appointing you as
 second-in-command once more.
 But there's no deserting.");
-        MsgDisp("主人公","(｛風真＊＊｝ seems like he's having fun.)");
+        MsgDisp("主人公","(｛Kazama＊＊｝ seems like he's having fun.)");
         break ;
         default :
         DbgAssert(1);

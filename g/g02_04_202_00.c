@@ -47,8 +47,8 @@ ChMotion(4,2,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020420200_04_070");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","(｛七ツ森＊｝...he seems to care about
-｛風真＊＊｝ too.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝...he seems to care about
+｛Kazama＊＊｝ too.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

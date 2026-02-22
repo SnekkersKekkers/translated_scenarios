@@ -75,7 +75,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Hey ｛御影＊＊｝, do you like bowling?");
+MsgDisp("主人公","Hey ｛Mikage＊＊｝, do you like bowling?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -121,7 +121,7 @@ ChOpen(7,254,1,2,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700600_07_110");
 MsgDisp("Mikage","A complete defeat～");
-MsgDisp("主人公","｛御影＊＊｝, is it really your first
+MsgDisp("主人公","｛Mikage＊＊｝, is it really your first
 time bowling?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -154,7 +154,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D010700600_07_160");
 MsgDisp("Mikage","Today was awesome, huh?");
-MsgDisp("主人公","...｛御影＊＊｝?");
+MsgDisp("主人公","...｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

@@ -6,7 +6,7 @@ MsgDisp("主人公","(Mmm, that bath felt good...)");
 VoicePlay("D010500700_40_000");
 MsgDisp("Male Student","You've got this, Hiiragi!
 You're so good!");
-MsgDisp("主人公","(Eh, ｛柊＊＊＊｝?)");
+MsgDisp("主人公","(Eh, ｛Hiiragi＊＊＊｝?)");
 SEStop("EV_SE_852",1);
 MsgClose();
 ScrFadeOut(0,0);
@@ -39,7 +39,7 @@ Wait(20,0);
 VoicePlay("D010500700_05_020");
 MsgDisp("Hiiragi","Ha!");
 MsgDisp("主人公","Wow...
-｛柊＊＊＊｝, good luck!");
+｛Hiiragi＊＊＊｝, good luck!");
 VoicePlay("D010500700_05_030");
 MsgDisp("Hiiragi","Hm?");
 VoicePlay("D010500700_05_040");
@@ -79,7 +79,7 @@ MsgDisp("Hiiragi","I was trying to show you a good side of
 me...I feel like I missed a once in a
 lifetime opportunity.");
 MsgDisp("主人公","Hehe.
-｛柊＊＊＊｝, you're really good at table
+｛Hiiragi＊＊＊｝, you're really good at table
 tennis though!");
 ChEye(5,4);
 ChMouth(5,4);
@@ -126,7 +126,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝ looks like he's enjoying the
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ looks like he's enjoying the
 school trip?
 I'm happy for him...)");
 MsgClose();

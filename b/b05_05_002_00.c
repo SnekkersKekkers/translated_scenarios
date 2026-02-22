@@ -9,7 +9,7 @@ VoicePlay("B050500200_05_000");
 MsgDisp("Hiiragi","Where around here would the spring water
 be?");
 MsgDisp("主人公","Hmm...
-｛柊＊＊＊｝, is there something on your
+｛Hiiragi＊＊＊｝, is there something on your
 mind?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -47,7 +47,7 @@ water.");
 SEPlay("EV_SE_703");
 SEWait();
 MsgDisp("主人公","You're right.
-｛柊＊＊＊｝, watch your step.");
+｛Hiiragi＊＊＊｝, watch your step.");
 SEPlay("EV_SE_703");
 SEWait();
 MsgClose();
@@ -129,7 +129,7 @@ SEPlay("EV_SE_626");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(Unifying power...
-I wonder if ｛柊＊＊＊｝ is having some
+I wonder if ｛Hiiragi＊＊＊｝ is having some
 trouble at work...?)");
 MsgClose();
 ScrFadeOut(0,0);

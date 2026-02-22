@@ -31,7 +31,7 @@ StlOpen("ev_07_15");
 StlEye(7,1);
 StlMouth(7,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝∋
+MsgDisp("主人公","｛Mikage＊＊｝∋
 Ah, thank you very much...
 Were you chasing me for this?");
 StlEye(7,1,0);
@@ -60,7 +60,7 @@ MsgDisp("Mikage","Since I'm a teacher at Habataki High, I've
 always been attending the Christmas
 parties.");
 MsgDisp("主人公","I see...so you'll be here next year,
-｛御影＊＊｝.");
+｛Mikage＊＊｝.");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("R080700000_07_050");
@@ -107,7 +107,7 @@ VoicePlay("R080700000_07_090");
 MsgDisp("Mikage","Oh...look at that.
 The party's over.");
 MsgDisp("主人公","Yes...
-｛御影＊＊｝, these three years we spent
+｛Mikage＊＊｝, these three years we spent
 at Christmas parties have been so fun.");
 MsgClose();
 SEPlay("EV_SE_FOOT_039");
@@ -149,7 +149,7 @@ MsgDisp("主人公","Ah, yes...!
 Thank you very much for bringing me home.");
 MsgDisp("主人公","(Nirvana...? Oh wait, I still have your
 jacket! I hope you don't catch a cold,
-｛御影＊＊｝...)");
+｛Mikage＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

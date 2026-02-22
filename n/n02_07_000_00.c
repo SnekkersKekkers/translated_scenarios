@@ -16,7 +16,7 @@ Top of the grade.");
     ChMotion(7,3);
     VoicePlay("N020700000_07_010");
     MsgDisp("Mikage","Well done, you did great.");
-    MsgDisp("主人公","(Hehe, ｛御影＊＊｝ praised me.
+    MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝ praised me.
 I did it!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -35,7 +35,7 @@ I did it!)");
     VoicePlay("N020700000_07_030");
     MsgDisp("Mikage","Well done.
 Thanks to you, I'm in a great mood too.");
-    MsgDisp("主人公","｛御影＊＊｝, it makes me happy that you
+    MsgDisp("主人公","｛Mikage＊＊｝, it makes me happy that you
 feel that way.");
     ChEye(7,2);
     ChMouth(7,0);
@@ -44,7 +44,7 @@ feel that way.");
     MsgDisp("Mikage","Hey, being too good of a student can have
 it's downsides too.
 Don't push yourself too hard.");
-    MsgDisp("主人公","(｛御影＊＊｝ praised me!
+    MsgDisp("主人公","(｛Mikage＊＊｝ praised me!
 I'll do my best next time too.)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -87,7 +87,7 @@ ea～ sy next time.");
     ChMotion(7,1);
     VoicePlay("N020700000_07_090");
     MsgDisp("Mikage","You can do it.");
-    MsgDisp("主人公","(I'm glad ｛御影＊＊｝ cares that much
+    MsgDisp("主人公","(I'm glad ｛Mikage＊＊｝ cares that much
 about me...
 I'll do my best.)");
     MsgClose();

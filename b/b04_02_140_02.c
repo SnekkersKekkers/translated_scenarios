@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040214002_02_000");
 MsgDisp("Sassa","This might be the first time I've gotten
 this fired up until now.");
-MsgSel("Hehe, you're sweating.","｛颯砂＊＊｝ is too excited","I'm also getting excited...");
+MsgSel("Hehe, you're sweating.","｛Sassa＊＊｝ is too excited","I'm also getting excited...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -80,7 +80,7 @@ still.");
         VoicePlay("B040214002_02_080");
         MsgDisp("Sassa","H-Hey, going to a concert with someone
 makes it way more fun.");
-        MsgDisp("主人公","(｛颯砂＊＊｝ really likes concerts huh...)");
+        MsgDisp("主人公","(｛Sassa＊＊｝ really likes concerts huh...)");
         break ;
         default :
         DbgAssert(1);

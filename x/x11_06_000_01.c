@@ -23,7 +23,7 @@ Thank you for your hard work.");
     VoicePlay("X110600001_06_010");
     MsgDisp("Himuro","Apparently all the athletes at the track
 and field meet got good record times.");
-    MsgDisp("主人公","｛氷室＊＊｝.
+    MsgDisp("主人公","｛Himuro＊＊｝.
 Yeah, that's right!");
     ChEye(6,3);
     ChMouth(6,3);
@@ -33,7 +33,7 @@ Yeah, that's right!");
     MsgDisp("Himuro","This result wouldn't have been achieved
 without your consistent support.
 Congratulations.");
-    MsgDisp("主人公","(I was praised by ｛氷室＊＊｝!)");
+    MsgDisp("主人公","(I was praised by ｛Himuro＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

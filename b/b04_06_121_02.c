@@ -11,7 +11,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040612102_06_000");
 MsgDisp("Himuro","Are you interested in that mug?");
-MsgSel("I want to match with ｛氷室＊＊｝.","I'm just looking.","I'm super interested.");
+MsgSel("I want to match with ｛Himuro＊＊｝.","I'm just looking.","I'm super interested.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){
@@ -53,7 +53,7 @@ from me?");
         VoicePlay("B040612102_06_040");
         MsgDisp("Himuro","Then, could you just accept it without
 complaint?");
-        MsgDisp("主人公","Then, I'll buy ｛氷室＊＊｝'s one?
+        MsgDisp("主人公","Then, I'll buy ｛Himuro＊＊｝'s one?
 Let's buy each other presents.");
         ChEye(6,0);
         ChMouth(6,2);
@@ -73,7 +73,7 @@ Let's buy each other presents.");
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
         ScrFadeIn(0);
-        MsgDisp("主人公","Thank you, ｛氷室＊＊｝.
+        MsgDisp("主人公","Thank you, ｛Himuro＊＊｝.
 I'll cherish it.");
         ChOpen(6,253,0,0,0,#1,#1,0,0);
         VoicePlay("B040612102_06_070");

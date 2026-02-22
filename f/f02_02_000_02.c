@@ -19,7 +19,7 @@ VoicePlay("F020200002_02_010");
 MsgDisp("Sassa","From what I heard, there's no more prince
 or princess.
 Instead, there's Mikage-sensei.");
-MsgDisp("主人公","｛御影＊＊｝?");
+MsgDisp("主人公","｛Mikage＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -35,7 +35,7 @@ MsgDisp("Sassa","But I heard he's assembling a team of
 exceptional players and putting them in
 special training at the church.");
 MsgDisp("主人公","Huh?
-｛颯砂＊＊｝, are you one of them?");
+｛Sassa＊＊｝, are you one of them?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

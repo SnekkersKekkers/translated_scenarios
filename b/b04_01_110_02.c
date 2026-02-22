@@ -75,7 +75,7 @@ You don't like the big kersplash?");
         MsgDisp("Kazama","It's not like I'm scared.
 I just don't like feeling like I'm being
 chucked out like that.");
-        MsgDisp("主人公","Hehe, ｛風真＊＊｝ has to be treated with
+        MsgDisp("主人公","Hehe, ｛Kazama＊＊｝ has to be treated with
 care, right?");
         ChMotion(1,0);
         Wait(10,0);

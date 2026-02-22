@@ -36,7 +36,7 @@ VoicePlay("G020520100_05_050");
 MsgDisp("Hiiragi","The next time I come here, I hope the
 fireflies' light will look like a
 different color.");
-MsgDisp("主人公","(｛柊＊＊＊｝ seems different to usual...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems different to usual...
 Perhaps this is his inner voice?)");
 BGMStop();
 MsgClose();

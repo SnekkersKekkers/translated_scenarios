@@ -1,15 +1,15 @@
 MsgDisp("主人公","Recently you've been getting along with
-｛氷室＊＊｝, right?");
+｛Himuro＊＊｝, right?");
 ChMotion(5,4);
 VoicePlay("B070500001_05_010");
 MsgDisp("Hiiragi","Does it appear that way to you?
 It's thanks to Inori-kun");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 VoicePlay("B070500001_05_020");
 MsgDisp("Hiiragi","Right, Inori-kun might be a year below us,
 but he knows much more about the world
 than I do. He's an adult.");
-MsgDisp("主人公","｛氷室＊＊｝ is an adult?");
+MsgDisp("主人公","｛Himuro＊＊｝ is an adult?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_030");
@@ -40,7 +40,7 @@ VoicePlay("B070500001_05_080");
 MsgDisp("Hiiragi","He does that so easily.
 He's an interesting and scary guy.");
 MsgDisp("主人公","(On the other hand, I wonder what
-｛氷室＊＊｝ thinks of ｛柊＊＊＊｝?)");
+｛Himuro＊＊｝ thinks of ｛Hiiragi＊＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

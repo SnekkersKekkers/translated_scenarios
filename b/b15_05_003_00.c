@@ -38,7 +38,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500300_05_060");
 MsgDisp("Hiiragi","I.. don't want to show you the rest.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
@@ -52,7 +52,7 @@ MsgDisp("Hiiragi","Please.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(I wonder what's wrong, ｛柊＊＊＊｝.
+MsgDisp("主人公","(I wonder what's wrong, ｛Hiiragi＊＊＊｝.
 He seemed different to usual...)");
 MsgClose();
 ScrFadeOut(0,0);

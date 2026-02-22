@@ -9,7 +9,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("S110100001_01_000");
 MsgDisp("Kazama","...");
-MsgDisp("主人公","｛風真＊＊｝, what did you get?");
+MsgDisp("主人公","｛Kazama＊＊｝, what did you get?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

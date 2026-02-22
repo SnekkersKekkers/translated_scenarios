@@ -11,7 +11,7 @@ MsgDisp("Sassa","You know, it almost feels like we can hear
 each other's thoughts, just like the
 rumors say?");
 MsgDisp("主人公","That's right...
-Can I try hearing ｛颯砂＊＊｝'s inner voice?");
+Can I try hearing ｛Sassa＊＊｝'s inner voice?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -27,7 +27,7 @@ VoiceEVSPlay(2);
 VoicePlay("G020210001_02_030");
 MsgDisp("Sassa","｛主人公｝, thanks for today...");
 MsgDisp("主人公","Umm...
-｛颯砂＊＊｝, I also had fun...");
+｛Sassa＊＊｝, I also had fun...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -53,7 +53,7 @@ ChMotion(2,4);
 VoiceEVSPlay(2);
 VoicePlay("G020210001_02_070");
 MsgDisp("Sassa","｛主人公｝, that is all.");
-MsgDisp("主人公","(｛颯砂＊＊｝...)");
+MsgDisp("主人公","(｛Sassa＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

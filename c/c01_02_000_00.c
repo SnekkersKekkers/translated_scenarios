@@ -6,12 +6,12 @@ Wait(10,0);
 SEWait();
 VoicePlay("C010200000_02_000");
 MsgDisp("Sassa","Hello.");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Is now maybe a good time...?");
 VoicePlay("C010200000_02_010");
 MsgDisp("Sassa","Ah, yeah.
 ...What?");
-MsgDisp("主人公","(｛颯砂＊＊｝,you're mad at me.
+MsgDisp("主人公","(｛Sassa＊＊｝,you're mad at me.
 What should I do...)");
 MsgDisp("主人公","S-So...");
 MsgDisp("","　　　　　　　　　　 ・

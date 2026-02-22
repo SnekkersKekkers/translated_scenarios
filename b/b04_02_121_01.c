@@ -11,7 +11,7 @@ ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040212102_02_000");
 MsgDisp("Sassa","This silver ring is cool.");
-MsgSel("It really suits you.","It looks expensive...","It doesn't suit ｛颯砂＊＊｝'s image.");
+MsgSel("It really suits you.","It looks expensive...","It doesn't suit ｛Sassa＊＊｝'s image.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

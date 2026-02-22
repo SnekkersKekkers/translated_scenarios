@@ -12,7 +12,7 @@ ChOpen(3,254,1,0,4,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P740300003_03_000");
 MsgDisp("Honda","｛主人公｝, you're not injured right?");
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 I'm alright, but I failed.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -30,7 +30,7 @@ ChMotion(3,1,1);
 VoicePlay("P740300003_03_020");
 MsgDisp("Honda","Nope, since you weren't injured, you
 failed safely successfully!");
-MsgDisp("主人公","(｛本多＊＊｝, were you trying to cheer me
+MsgDisp("主人公","(｛Honda＊＊｝, were you trying to cheer me
 up? But, I definitely didn't practice
 enough for the show...)");
 MsgClose();

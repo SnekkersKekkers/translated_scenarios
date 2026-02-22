@@ -15,5 +15,5 @@ MsgDisp("Honda","It's really great!
 Seeing you wearing it makes me a little
 flustered, but it's amazing!");
 MsgDisp("主人公","(That's a little embarrassing...
-But ｛本多＊＊｝ seems happy.
+But ｛Honda＊＊｝ seems happy.
 I'm glad I wore it!)");

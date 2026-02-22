@@ -24,7 +24,7 @@ daily necessities remained. Even
 then, I had a lot of luggage.");
 MsgClear();
 MsgDisp("主人公","\"Ah!
-｛御影＊＊｝, this suit.
+｛Mikage＊＊｝, this suit.
 It's from the christmas party huh?\"");
 MsgDisp("","She who was looking through the
 closet happily held the suit with
@@ -78,7 +78,7 @@ MsgDisp("Mikage","\"Phewー...\"");
 MsgDisp("","Huh?
 Somehow, I feel nervous.");
 MsgClear();
-MsgDisp("主人公","\"｛御影＊＊｝!\"");
+MsgDisp("主人公","\"｛Mikage＊＊｝!\"");
 MsgDisp("","And then I heard a strangely
 nostalgic and ticklish voice.");
 MsgDisp("","The voice that I had imagined calling

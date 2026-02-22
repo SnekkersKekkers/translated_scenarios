@@ -1,6 +1,6 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Are you heading home now?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -31,7 +31,7 @@ ScrFadeIn(0);
 VoicePlay("G110600300_06_020");
 MsgDisp("Himuro","Are you going on a school trip soon?");
 MsgDisp("主人公","Ah, yeah.
-｛氷室＊＊｝ can go next year too?");
+｛Himuro＊＊｝ can go next year too?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

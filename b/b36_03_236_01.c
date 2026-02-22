@@ -37,7 +37,7 @@ VoicePlay("B360323601_03_040");
 MsgDisp("Honda","Otherwise, what was the point of working
 so hard to get some time alone with you?");
 MsgDisp("主人公","I'm happy just to be watching it with you,
-｛本多＊＊｝.");
+｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -54,7 +54,7 @@ ChMotion(3,0,1);
 VoicePlay("B360323601_03_070");
 MsgDisp("Honda","I'm just happy to be with you, just like
 you are with me.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

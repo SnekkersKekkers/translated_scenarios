@@ -108,7 +108,7 @@ seems like I like teaching you.");
         ChCheek(3,0);
         MsgDisp("主人公","That's not true.
 You seem to enjoy teaching other people,
-｛本多＊＊｝.");
+｛Honda＊＊｝.");
         ChEye(3,5);
         ChMouth(3,0);
         ChMotion(3,2);
@@ -122,7 +122,7 @@ affirmation or not...");
         VoicePlay("B040308102_03_120");
         MsgDisp("Honda","Haha!
 You really are interesting!");
-        MsgDisp("主人公","(I was told by ｛本多＊＊｝ that I'm
+        MsgDisp("主人公","(I was told by ｛Honda＊＊｝ that I'm
 interesting, I'm happy, but maybe I have
 mixed feelings about it?)");
         break ;

@@ -8,7 +8,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 ChOpen(3,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛本多＊＊｝.
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Are you heading home now?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -38,7 +38,7 @@ VoicePlay("G110300502_03_020");
 MsgDisp("Honda","Huh-?
 What's up?");
 MsgDisp("主人公","Good work.
-I came to see how ｛本多＊＊｝ is doing.");
+I came to see how ｛Honda＊＊｝ is doing.");
 VoicePlay("G110300502_03_030");
 MsgDisp("Honda","Really?
 I'm happy.

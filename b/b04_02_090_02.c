@@ -64,7 +64,7 @@ There's no dressing.");
         MsgDisp("Sassa","But the way you described \"The grass here\"
 is basically the main reason.");
         MsgDisp("主人公","Hehe, that's right.
-Does ｛颯砂＊＊｝ like salad?");
+Does ｛Sassa＊＊｝ like salad?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -92,7 +92,7 @@ I'll try studying up on cooking then.");
         ChCheek(2,10);
         VoicePlay("B040209002_02_090");
         MsgDisp("Sassa","......");
-        MsgDisp("主人公","｛颯砂＊＊｝?");
+        MsgDisp("主人公","｛Sassa＊＊｝?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);

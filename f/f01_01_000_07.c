@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
     VoiceEVSPlay(1);
     VoicePlay("F010100007_01_000");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Oh, ｛風真＊＊｝!");
+    MsgDisp("主人公","Oh, ｛Kazama＊＊｝!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -64,7 +64,7 @@ Well, another time.");
     VoicePlay("F010100007_01_020");
     MsgDisp("Kazama","｛主人公｝.");
     MsgDisp("主人公","Huh?
-｛風真＊＊｝, I thought you already left.");
+｛Kazama＊＊｝, I thought you already left.");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,4);

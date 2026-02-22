@@ -7,7 +7,7 @@ MsgDisp("主人公","Eh?");
 SEPlay("EV_SE_872",0.5);
 Wait(49,0);
 ChOpen(1,254,0,2,2,8,#1,0,0);
-MsgDisp("主人公","｛風真＊＊｝∋
+MsgDisp("主人公","｛Kazama＊＊｝∋
 The graduation ceremony is already
 over...?");
 ChEye(1,0);
@@ -27,7 +27,7 @@ MsgClose();
 BGOpen("sc010",0);
 ChOpen(1,254,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝, here...?");
+MsgDisp("主人公","｛Kazama＊＊｝, here...?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -74,7 +74,7 @@ VoicePlay("T020111000_01_060");
 MsgDisp("Kazama","At that moment, I felt like I was being
 scolded by my younger self.
 Don't just give up.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -142,7 +142,7 @@ ChMotion(1,3);
 VoicePlay("T020111000_01_140");
 MsgDisp("Kazama","That's why I'll never give up again.
 I love you so much.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 MsgClear();
 ChClose(1);
 ChCustomLayout(1,5,0,-2.7);

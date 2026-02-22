@@ -62,7 +62,7 @@ I should've tried harder...)");
     ChMotion(3,4);
     VoicePlay("L040300006_03_070");
     MsgDisp("Honda","I see, that's come.");
-    MsgDisp("主人公","｛本多＊＊｝?");
+    MsgDisp("主人公","｛Honda＊＊｝?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -97,7 +97,7 @@ I'm happy enough from your feelings.");
     VoicePlay("L040300006_03_120");
     MsgDisp("Honda","So, I don't want Valentine's to be a bad
 memory for you.");
-    MsgDisp("主人公","｛本多＊＊｝...
+    MsgDisp("主人公","｛Honda＊＊｝...
 Thank you.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -106,7 +106,7 @@ Thank you.");
     MsgDisp("Honda","Why are you thanking me?
 I should be thanking you.
 Thanks for trying your best.");
-    MsgDisp("主人公","(｛本多＊＊｝ is so nice...
+    MsgDisp("主人公","(｛Honda＊＊｝ is so nice...
 I wish I did better...)");
     break ;
     default :

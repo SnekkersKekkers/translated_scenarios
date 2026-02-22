@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C01_RYOUTA_KOKU",0.01);
 ChOpen(1,254,7,0,3,#1,#1,0,0,0,120);
-MsgDisp("主人公","｛風真＊＊｝...!
+MsgDisp("主人公","｛Kazama＊＊｝...!
 Even so, I was waiting on that slope...");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -23,7 +23,7 @@ airport.
 Sorry for leaving you alone.");
 MsgDisp("主人公","Well, I wasn't alone.");
 MsgDisp("主人公","I came here because I had heard the bells
-with ｛風真＊＊｝ when we were in
+with ｛Kazama＊＊｝ when we were in
 elementary school.");
 ChEye(1,3);
 ChMouth(1,2);
@@ -96,7 +96,7 @@ ChMotion(1,3);
 VoicePlay("T020100000_01_110");
 MsgDisp("Kazama","I've never forgotten about the girl I
 love.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);

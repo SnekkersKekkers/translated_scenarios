@@ -1,4 +1,4 @@
-MsgDisp("主人公","Yes, I also like ｛本多＊＊｝.");
+MsgDisp("主人公","Yes, I also like ｛Honda＊＊｝.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -17,7 +17,7 @@ MsgDisp("Honda","Since I met you, I've experienced many
 different emotions, but this might be the
 first time I've felt something like this.");
 MsgDisp("主人公","Me too, I also learned a lot of things for
-the first time from ｛本多＊＊｝.");
+the first time from ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

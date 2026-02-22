@@ -4,7 +4,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     MsgDisp("主人公","Hm, my team is...
-Ah, it's ｛柊＊＊＊｝.");
+Ah, it's ｛Hiiragi＊＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -23,7 +23,7 @@ Ah, it's ｛柊＊＊＊｝.");
     SEPlay("EV_SE_625");
     SEWait();
     ChOpen(5,30,0,0,4,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 We're on the same team.");
     ChEye(5,4);
     VoicePlay("O040501000_05_020");
@@ -47,7 +47,7 @@ I will be successful in this event.");
     VoiceEVSPlay(5);
     VoicePlay("O040501000_05_040");
     MsgDisp("Hiiragi","｛主人公｝, we seem to be on the same team.");
-    MsgDisp("主人公","｛柊＊＊＊｝, let's do our best!");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, let's do our best!");
     ChEye(5,0);
     ChMouth(5,3);
     ChMotion(5,4);
@@ -55,7 +55,7 @@ I will be successful in this event.");
     MsgDisp("Hiiragi","Yes, please watch me.
 This sports festival, I will put my all
 into this event.");
-    MsgDisp("主人公","(｛柊＊＊＊｝ is really into it...?)");
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is really into it...?)");
     break ;
     default :
     DbgAssert(1);

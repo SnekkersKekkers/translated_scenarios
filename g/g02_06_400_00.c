@@ -78,7 +78,7 @@ VoicePlay("G020640000_06_090");
 MsgDisp("Himuro","I can tolerate them better than eggplant.
 But I don't like vegetables in general.
 ...I eat them though.");
-MsgDisp("主人公","(Hehe, ｛氷室＊＊｝ isn't a fan of
+MsgDisp("主人公","(Hehe, ｛Himuro＊＊｝ isn't a fan of
 vegetables.)");
 BGMStop();
 MsgClose();

@@ -47,7 +47,7 @@ I'll use that idea.");
     VoicePlay("I460600002_06_040");
     MsgDisp("Himuro","Since I used your idea.
 ...I'm thankful, I guess.");
-    MsgDisp("主人公","(I helped ｛氷室＊＊｝!
+    MsgDisp("主人公","(I helped ｛Himuro＊＊｝!
 I'm glad.)");
     break ;
     case 4:
@@ -84,7 +84,7 @@ future.");
     ChMotion(6,0,1);
     VoicePlay("I460600002_06_090");
     MsgDisp("Himuro","...How simple.");
-    MsgDisp("主人公","(｛氷室＊＊｝ praised me!
+    MsgDisp("主人公","(｛Himuro＊＊｝ praised me!
 Alright, let's work even harder!)");
     break ;
     default :

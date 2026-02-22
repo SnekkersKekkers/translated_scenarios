@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Alright, alright...
 Okay, stop!
 Welcome!");
-MsgDisp("主人公","(｛大地＊＊｝ is late today.)");
+MsgDisp("主人公","(｛Daichi＊＊｝ is late today.)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -20,7 +20,7 @@ MsgDisp("Manager","Ah, Daichi-kun called yesterday to say
 he's quitting his part-time job here.
 It was so sudden, it surprised me...");
 MsgDisp("主人公","Eh∋");
-MsgDisp("主人公","(I won't see ｛大地＊＊｝ here
+MsgDisp("主人公","(I won't see ｛Daichi＊＊｝ here
 anymore...)");
 MsgClose();
 ScrFadeOut(0);

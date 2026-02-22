@@ -13,7 +13,7 @@ VoicePlay("F020200012_02_000");
 MsgDisp("Sassa","Yeah, I'm tense. When I move up a grade, I
 have to set new goals. I have to break my
 old record.");
-MsgDisp("主人公","｛颯砂＊＊｝ is amazing.
+MsgDisp("主人公","｛Sassa＊＊｝ is amazing.
 You always set specific goals and keep
 going.");
 ChEye(2,0);
@@ -55,5 +55,5 @@ VoicePlay("F020200012_02_050");
 MsgDisp("Sassa","Plus, if you praise me...
 I think I'll be able to be even more
 efficient.");
-MsgDisp("主人公","(Somehow, I feel like ｛颯砂＊＊｝ has just
+MsgDisp("主人公","(Somehow, I feel like ｛Sassa＊＊｝ has just
 inserted me into his training plan...)");

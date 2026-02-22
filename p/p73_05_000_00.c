@@ -17,7 +17,7 @@ I'm nervous..)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P730500000_05_000");
     MsgDisp("Hiiragi","Good day.");
-    MsgDisp("主人公","｛柊＊＊＊｝!");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝!");
     VoicePlay("P730500000_05_010");
     MsgDisp("Hiiragi","I came t support you.");
     MsgDisp("主人公","Y-Yeah.
@@ -34,7 +34,7 @@ a fashion show.");
     VoicePlay("P730500000_05_030");
     MsgDisp("Hiiragi","I understand.
 I'm also always like that.");
-    MsgDisp("主人公","Eh, even ｛柊＊＊＊｝?");
+    MsgDisp("主人公","Eh, even ｛Hiiragi＊＊＊｝?");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -56,7 +56,7 @@ little easier, right?");
 I forgot to mention something important.
 That outfit suits you very well.");
     MsgDisp("主人公","Thank you...!");
-    MsgDisp("主人公","(I feel like ｛柊＊＊＊｝ gave me the push
+    MsgDisp("主人公","(I feel like ｛Hiiragi＊＊＊｝ gave me the push
 I needed.
 Let's do our best!)");
     MsgClose();
@@ -77,7 +77,7 @@ I'm nervous..)");
     VoiceEVSPlay(5);
     VoicePlay("P730500000_05_060");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Did you come to watch?");
     ChEye(5,4);
     VoicePlay("P730500000_05_070");
@@ -115,7 +115,7 @@ forget your apprehension, okay?");
     MsgDisp("Hiiragi","It'll be alright. If it's you, you'll be
 able to charm the audience. I am current
 proof of that.");
-    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝. Yes, I should go
+    MsgDisp("主人公","(Thank you, ｛Hiiragi＊＊＊｝. Yes, I should go
 out with a little confidence. Let's do our
 best!)");
     MsgClose();

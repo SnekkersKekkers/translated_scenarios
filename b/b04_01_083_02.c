@@ -108,7 +108,7 @@ introduction too?");
         VoicePlay("B040108302_01_100");
         MsgDisp("Kazama","It's our very first meeting.
 We both must really be serious types, huh?");
-        MsgDisp("主人公","(｛風真＊＊｝'s inner voice...
+        MsgDisp("主人公","(｛Kazama＊＊｝'s inner voice...
 I want to hear it, but maybe I don't.)");
         break ;
         default :

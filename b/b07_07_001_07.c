@@ -22,7 +22,7 @@ VoicePlay("B070700001_07_550");
 MsgDisp("Mikage","What is it?");
 MsgDisp("主人公","It's not my health...
 Maybe it's because I'm with
-｛御影＊＊｝...");
+｛Mikage＊＊｝...");
 ChEye(7,5);
 ChMouth(7,5);
 ChMotion(7,0);
@@ -67,7 +67,7 @@ ChCheek(7,0);
 VoicePlay("B070700001_07_610");
 MsgDisp("Mikage","I'll bite!
 Hahaha!");
-MsgDisp("主人公","(｛御影＊＊｝ just now...was a bit
+MsgDisp("主人公","(｛Mikage＊＊｝ just now...was a bit
 different to usual.
 My heart is racing again.)");
 BGMStop();

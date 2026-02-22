@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     VoicePlay("N020400003_04_000");
     MsgDisp("Nanatsumori","Oh...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,1,1);
@@ -24,7 +24,7 @@ I really have to study harder...)");
     VoicePlay("N020400003_04_020");
     MsgDisp("Nanatsumori","Huh?
 Your name...where is it on the list?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝...");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝...");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,1,1);
@@ -48,7 +48,7 @@ I really have to study harder...)");
     VoicePlay("N020400003_04_050");
     MsgDisp("Nanatsumori","｛主人公｝.
 Are you kidding me...?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝...");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝...");
     VoicePlay("N020400003_04_060");
     MsgDisp("Nanatsumori","Do you feel physically okay?
 Did you run out of pencil lead?");

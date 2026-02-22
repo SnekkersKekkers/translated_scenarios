@@ -5,7 +5,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝, do you have plans for
+MsgDisp("主人公","｛Nanatsumori＊｝, do you have plans for
 summer break?");
 ChEye(4,0);
 ChMouth(4,4);
@@ -39,6 +39,6 @@ ChMotion(4,0,1);
 VoicePlay("F020400007_04_030");
 MsgDisp("Nanatsumori","But yeah, I guess I'll be going out a lot
 during summer break.");
-MsgDisp("主人公","(｛七ツ森＊｝, you're so cool.
+MsgDisp("主人公","(｛Nanatsumori＊｝, you're so cool.
 Both your work and your private life seem
 so fun...)");

@@ -8,7 +8,7 @@ ChEye(5,4);
 VoicePlay("B040523501_05_000");
 MsgDisp("Hiiragi","I'd love to have the honour of producing
 something like this.");
-MsgSel("It seems like it'll be a wonderful haunted house.","A Haunted House by Habataki Theater Company?","If it's ｛柊＊＊＊｝, the ghost would be too pretty.");
+MsgSel("It seems like it'll be a wonderful haunted house.","A Haunted House by Habataki Theater Company?","If it's ｛Hiiragi＊＊＊｝, the ghost would be too pretty.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -66,7 +66,7 @@ But beauty and fear aren't that far apart.");
         MsgDisp("Hiiragi","That's why...
 A perfect beauty would be terrifying...");
         MsgDisp("主人公","Umm...
-｛柊＊＊＊｝?");
+｛Hiiragi＊＊＊｝?");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,0);

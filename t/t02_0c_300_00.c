@@ -14,7 +14,7 @@ ChEye(5,4);
 VoicePlay("T020C30000_05_010");
 MsgDisp("Hiiragi","Congratulations on graduating.");
 MsgDisp("主人公","Thank you.
-｛柊＊＊＊｝, congratulations to you too on
+｛Hiiragi＊＊＊｝, congratulations to you too on
 graduating.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -24,7 +24,7 @@ VoicePlay("T020C30000_05_020");
 MsgDisp("Hiiragi","It's a miracle that I get to graduate
 together with you.");
 MsgDisp("主人公","Yes.
-｛柊＊＊＊｝, you worked hard on both your
+｛Hiiragi＊＊＊｝, you worked hard on both your
 studies and student council activities.");
 ChEye(5,0);
 ChMouth(5,4);
@@ -41,7 +41,7 @@ MsgDisp("Hiiragi","I fondly remember you having fun sitting
 on that bench and drawing pictures.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","｛柊＊＊＊｝ often used to work at that
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ often used to work at that
 window.
 As that was the student council room.");
 ChMotion(5,0);
@@ -53,7 +53,7 @@ VoicePlay("T020C30000_06_000");
 MsgDisp("Himuro","Sorry to interrupt your reminiscing.");
 ChEye(5,3);
 ChMouth(5,2);
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -89,7 +89,7 @@ to be left behind.
 I'm staying here, after all.");
 ChEye(5,2);
 ChEyeOpenLevel(5,9);
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChClose(5,0,30);
 ChClose(6,0,30);
 ChLayout(2);
@@ -131,7 +131,7 @@ MsgDisp("Mikage","Everything from your kindness, your
 seriousness to your slight
 absent-mindedness has helped me so much,
 thank you.");
-MsgDisp("主人公","｛御影＊＊｝...
+MsgDisp("主人公","｛Mikage＊＊｝...
 Yes!");
 ChEye(7,0);
 ChMouth(7,0);

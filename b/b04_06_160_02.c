@@ -43,7 +43,7 @@ come with.");
         ChMotion(6,0);
         VoicePlay("B040616002_06_030");
         MsgDisp("Himuro","Hmm...");
-        MsgDisp("主人公","｛氷室＊＊｝?");
+        MsgDisp("主人公","｛Himuro＊＊｝?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -84,7 +84,7 @@ Then, I'll invite you next time okay?");
 Why is it that I could only phrase it like
 that....");
         MsgDisp("主人公","(?)
-｛氷室＊＊｝ seems to be worried about
+｛Himuro＊＊｝ seems to be worried about
 something?)");
         break ;
         default :

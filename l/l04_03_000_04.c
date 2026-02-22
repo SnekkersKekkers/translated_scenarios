@@ -74,7 +74,7 @@ He seems happy.)");
     MsgDisp("Honda","Hey hey, am I the only one?
 Or are you giving handmade chocolate to
 someone else, too?");
-    MsgDisp("主人公","It's only you, ｛本多＊＊｝.");
+    MsgDisp("主人公","It's only you, ｛Honda＊＊｝.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5);

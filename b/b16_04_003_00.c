@@ -5,7 +5,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160400300_04_000");
 MsgDisp("Nanatsumori","Is that a sign of being spoilt?");
-MsgSel("Yeah...","I just want to tease ｛七ツ森＊｝!");
+MsgSel("Yeah...","I just want to tease ｛Nanatsumori＊｝!");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(4,6);

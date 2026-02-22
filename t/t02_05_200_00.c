@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,0,4,#1,#1,0,0);
-MsgDisp("主人公","｛柊＊＊＊｝...
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 Why are you here?");
 ChEyeOpenLevel(5,0);
 Wait(8,0);
@@ -67,7 +67,7 @@ VoicePlay("T020520000_05_060");
 MsgDisp("Hiiragi","But, since I didn't attend elementary or
 middle school properly, there was no value
 in me being a student.");
-MsgDisp("主人公","That's...Even though ｛柊＊＊＊｝
+MsgDisp("主人公","That's...Even though ｛Hiiragi＊＊＊｝
 struggles within the Theater Company, I
 think he gives it his best in many
 different ways.");
@@ -90,7 +90,7 @@ VoicePlay("T020520000_05_090");
 MsgDisp("Hiiragi","My only means of escape was to at the very
 least serve the school by participating in
 student council activities, as atonement.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);
@@ -106,7 +106,7 @@ VoicePlay("T020520000_05_110");
 MsgDisp("Hiiragi","But, you always cared about what I did.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","But...
-I wanted to support ｛柊＊＊＊｝ even
+I wanted to support ｛Hiiragi＊＊＊｝ even
 more, but there was nothing I could do.");
 ChMotion(5,1);
 Wait(30,0);

@@ -1,7 +1,7 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛風真＊＊｝ said he had
+MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he had
 something to say to me while we walk home
 ...I wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -33,7 +33,7 @@ VoicePlay("G110100600_01_010");
 MsgDisp("Kazama","It was regarding Sassa.
 I thought I had something to ask but...
 It's whatever.");
-MsgDisp("主人公","｛颯砂＊＊｝...?");
+MsgDisp("主人公","｛Sassa＊＊｝...?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -75,7 +75,7 @@ ChMotion(1,0);
 VoicePlay("G110100600_01_060");
 MsgDisp("Kazama","It's time for us to go.
 I'll walk you back.");
-MsgDisp("主人公","(｛風真＊＊｝...)");
+MsgDisp("主人公","(｛Kazama＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

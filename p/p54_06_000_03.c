@@ -11,7 +11,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540600003_06_000");
 MsgDisp("Himuro","Good work.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

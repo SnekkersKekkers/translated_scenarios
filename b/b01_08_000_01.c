@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛大地＊＊｝ isn't here...)");
+MsgDisp("主人公","(｛Daichi＊＊｝ isn't here...)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
@@ -18,7 +18,7 @@ ChCheek(8,5);
 VoicePlay("B010800001_08_010");
 MsgDisp("Shirahane","Please forgive me!
 I'm not tryin' to make excuses, but I...");
-MsgDisp("主人公","Jeez, ｛大地＊＊｝.
+MsgDisp("主人公","Jeez, ｛Daichi＊＊｝.
 It's really okay.");
 MsgDispSksp(1,0);
 ChEye(8,2);

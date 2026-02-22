@@ -30,7 +30,7 @@ VoicePlay("G020320000_03_040");
 MsgDisp("Honda","But what about you?
 If you're forcing yourself, that's not
 what I want.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -65,7 +65,7 @@ VoicePlay("G020320000_03_090");
 MsgDisp("Honda","Did you know?
 I'm really stubborn when it comes to
 accepting things until I'm satisfied.");
-MsgDisp("主人公","(｛本多＊＊｝...?)");
+MsgDisp("主人公","(｛Honda＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

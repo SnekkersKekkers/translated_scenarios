@@ -12,7 +12,7 @@ ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("F020500006_05_000");
 MsgDisp("Hiiragi","Yes, it will be a lot of fun.");
-MsgDisp("主人公","｛柊＊＊＊｝, don't you like exercise?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, don't you like exercise?");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F020500006_05_010");
@@ -54,4 +54,4 @@ VoicePlay("F020500006_05_050");
 MsgDisp("Hiiragi","How strange. Not once in my life have I
 encountered a giant ball. And to roll it
 as well...I am looking forward to it.");
-MsgDisp("主人公","(｛柊＊＊＊｝, what did you think it was?)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, what did you think it was?)");

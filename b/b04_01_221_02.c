@@ -77,7 +77,7 @@ mountains");
         SEPlay("EV_SE_026",0,0.4);
         SEWait();
         MsgDisp("主人公","Eh∋
-｛風真＊＊｝!
+｛Kazama＊＊｝!
 Something just flashed just now∈");
         VoicePlay("B040122102_01_060");
         MsgDisp("Kazama","Got it, got it.

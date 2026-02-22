@@ -22,7 +22,7 @@ VoicePlay("B360218000_02_010");
 MsgDisp("Sassa","My dad helped with the coaching for this
 sports film.");
 MsgDisp("主人公","Is that so?
-｛颯砂＊＊｝'s dad is amazing.");
+｛Sassa＊＊｝'s dad is amazing.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -52,7 +52,7 @@ ChMotion(2,4);
 VoicePlay("B360218000_02_050");
 MsgDisp("Sassa","Ah, sorry, sorry.
 I'm being too possessive today.");
-MsgDisp("主人公","(｛颯砂＊＊｝ is a bit mean today...?)");
+MsgDisp("主人公","(｛Sassa＊＊｝ is a bit mean today...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

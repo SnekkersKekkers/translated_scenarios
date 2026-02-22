@@ -10,7 +10,7 @@ ChOpen(8,254,2,0,4,#1,#1,0,0);
 VoicePlay("M010800000_08_000");
 MsgDisp("Shirahane","I'm coming inー...");
 MsgDisp("主人公","Eh∋
-｛大地＊＊｝, why...?");
+｛Daichi＊＊｝, why...?");
 ChEye(8,2);
 ChMouth(8,1);
 ChMotion(8,1,1);
@@ -35,7 +35,7 @@ MsgDisp("Shirahane","Yep.");
 VoicePlay("M010800000_08_040");
 MsgDisp("Shirahane","Just from you not being 'round, feels like
 I'm gonna break down myself.");
-MsgDisp("主人公","｛大地＊＊｝...
+MsgDisp("主人公","｛Daichi＊＊｝...
 Thank you.
 I'm better now, so.");
 ChEye(8,2);
@@ -76,5 +76,5 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(I made ｛大地＊＊｝ worry about me.
+MsgDisp("主人公","(I made ｛Daichi＊＊｝ worry about me.
 If I don't get better fast...!)");

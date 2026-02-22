@@ -78,7 +78,7 @@ of youth feeling?");
         SEPlay("EV_SE_GAYA_024",0.5,0.5);
         SEPlay("EV_SE_GAYA_017",1);
         SEWait();
-        MsgDisp("主人公","｛本多＊＊｝, you're talking a bit loud?");
+        MsgDisp("主人公","｛Honda＊＊｝, you're talking a bit loud?");
         ChEye(3,1);
         ChMouth(3,0);
         ChMotion(3,1);
@@ -90,7 +90,7 @@ Come!");
         SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
         SEWait();
         MsgDisp("主人公","Ehh!
-Wait up, ｛本多＊＊｝ ～!");
+Wait up, ｛Honda＊＊｝ ～!");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(3,253,0,0,0,#1,#1,0,0);

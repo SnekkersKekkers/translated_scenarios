@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Welcome!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -25,7 +25,7 @@ of a dango-shop owner?");
 You just need the wig, and then it'd be
 perfect.");
     MsgDisp("主人公","Well, I guess being a lord would suit you
-then, ｛風真＊＊｝.");
+then, ｛Kazama＊＊｝.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -57,7 +57,7 @@ Well, see ya.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(Hehe, ｛風真＊＊｝ came to check on me.)");
+    MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ came to check on me.)");
     break ;
     case 3:
     MsgClose();
@@ -65,7 +65,7 @@ Well, see ya.");
     ChOpen(1,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550100000_01_060");
     MsgDisp("Kazama","Yo, you're working hard.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, welcome.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, welcome.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -104,7 +104,7 @@ Please come with him next time, then.");
     VoicePlay("I550100000_01_110");
     MsgDisp("Kazama","Okay.
 See you.");
-    MsgDisp("主人公","(｛風真＊＊｝ came to check on me.
+    MsgDisp("主人公","(｛Kazama＊＊｝ came to check on me.
 Hehe, I'm happy.)");
     break ;
     case 4:
@@ -115,7 +115,7 @@ Hehe, I'm happy.)");
     VoiceEVSPlay(1);
     VoicePlay("I550100000_01_120");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Welcome.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -154,7 +154,7 @@ Ryota.");
 　　　　　　　　　　 ・");
     ScrFadeIn(0);
     MsgDisp("主人公","Sorry about earlier.
-They're one of your fans, ｛風真＊＊｝.");
+They're one of your fans, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);
@@ -180,7 +180,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(｛風真＊＊｝ really is popular...)");
+    MsgDisp("主人公","(｛Kazama＊＊｝ really is popular...)");
     break ;
     default :
     DbgAssert(1);

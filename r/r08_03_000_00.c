@@ -14,7 +14,7 @@ VoiceEVSPlay(3);
 VoicePlay("R080300000_03_000");
 MsgDisp("Honda","｛主人公｝.
 Ah, I'm so glad.");
-MsgDisp("主人公","｛本多＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Honda＊＊｝, what's wrong?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -115,7 +115,7 @@ StlMouth(3,1);
 VoicePlay("R080300000_03_120");
 MsgDisp("Honda","Yeah, this is my sacred book and place.
 I wanted you to see it.");
-MsgDisp("主人公","｛本多＊＊｝...
+MsgDisp("主人公","｛Honda＊＊｝...
 Thank you.");
 StlEye(3,3,0);
 StlMouth(3,1);
@@ -136,7 +136,7 @@ VoicePlay("R080300000_03_150");
 MsgDisp("Honda","Now it's your turn.
 Show me your roots sometime.
 I want to know every side of you.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 StlEye(3,2);
 StlMouth(3,1);
 VoicePlay("R080300000_03_160");
@@ -147,7 +147,7 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 MsgClose();
-MsgDisp("主人公","(｛本多＊＊｝, thank you.
+MsgDisp("主人公","(｛Honda＊＊｝, thank you.
 For sharing your precious memories with
 me...)");
 MsgClose();

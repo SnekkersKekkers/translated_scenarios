@@ -35,7 +35,7 @@ high school years?");
 Such an ungrateful person.
 You're still the same as always.");
     MsgDisp("主人公","Geez, seems like there's going to be a lot
-of nagging from ｛風真＊＊｝ this year
+of nagging from ｛Kazama＊＊｝ this year
 too...");
     ChEye(1,0);
     ChMouth(1,3);
@@ -48,7 +48,7 @@ See you later.");
     ChClose(1);
     MsgDisp("主人公","(My last New Year shrine visit as a
 Habataki student.
-I'm glad it was with ｛風真＊＊｝.)");
+I'm glad it was with ｛Kazama＊＊｝.)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

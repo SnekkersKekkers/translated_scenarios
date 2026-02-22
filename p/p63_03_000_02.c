@@ -16,7 +16,7 @@ Gardening Club...)");
     VoicePlay("P630300002_03_000");
     MsgDisp("Honda","Eh!
 It's like a real cafe.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Welcome.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -43,7 +43,7 @@ Gardening Club...)");
     VoiceEVSPlay(3);
     VoicePlay("P630300002_03_030");
     MsgDisp("Honda","｛主人公｝.");
-    MsgDisp("主人公","｛本多＊＊｝, welcome!");
+    MsgDisp("主人公","｛Honda＊＊｝, welcome!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

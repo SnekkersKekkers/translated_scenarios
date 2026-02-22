@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,7,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝...
+MsgDisp("主人公","｛Sassa＊＊｝...
 Why are you here?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -38,7 +38,7 @@ VoicePlay("T020200000_02_040");
 MsgDisp("Sassa","But in my first year, I learned that when
 I ran at full speed, someone would feel
 bad.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -64,7 +64,7 @@ ChMotion(2,0);
 VoicePlay("T020200000_02_080");
 MsgDisp("Sassa","Because if I do that, my dreams will never
 come true.");
-MsgDisp("主人公","｛颯砂＊＊｝ is not a bad guy...");
+MsgDisp("主人公","｛Sassa＊＊｝ is not a bad guy...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -87,7 +87,7 @@ MsgDisp("Sassa","But you supported me, and in the end, my
 seniors encouraged me. Ultimately, I was
 the only one who stuck to my guns...");
 MsgDisp("主人公","No, Senpai said it too.
-｛颯砂＊＊｝'s dream is everyone's dream.");
+｛Sassa＊＊｝'s dream is everyone's dream.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -118,7 +118,7 @@ VoicePlay("T020200000_02_150");
 MsgDisp("Sassa","You were always running by my side. You
 would think things over with me, worry
 with me, and celebrate with me. Thank you.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

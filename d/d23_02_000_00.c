@@ -9,7 +9,7 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(...Huh?
 I got a text message, who's it from?)");
-MsgDisp("主人公","(...It's from ｛颯砂＊＊｝! \"I read the
+MsgDisp("主人公","(...It's from ｛Sassa＊＊｝! \"I read the
 post. It's kind of embarrassing to see it
 in writing.\")");
 MsgDisp("主人公","(Hehe, looks like he read it right away!

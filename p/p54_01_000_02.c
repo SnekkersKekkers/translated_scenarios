@@ -11,7 +11,7 @@ ChOpen(1,254,3,3,3,#1,#1,0,0);
 VoicePlay("P540100002_01_000");
 MsgDisp("Kazama","Wasn't it a huge success?
 Congratulations.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝!
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Thank you.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -26,7 +26,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P540100002_01_020");
 MsgDisp("Kazama","Yes, let me hear it again sometime soon.");
-MsgDisp("主人公","(｛風真＊＊｝ is happy.
+MsgDisp("主人公","(｛Kazama＊＊｝ is happy.
 I'm so glad I practiced so carefully!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -1,4 +1,4 @@
-MsgDisp("主人公","Were you not with ｛颯砂＊＊｝?");
+MsgDisp("主人公","Were you not with ｛Sassa＊＊｝?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
