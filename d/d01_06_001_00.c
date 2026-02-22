@@ -141,7 +141,7 @@ ChEyeOpenLevel(6,0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","...Am I bad at cooking eggplant.");
+MsgDisp("主人公","...Am I bad at cooking eggplant?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
