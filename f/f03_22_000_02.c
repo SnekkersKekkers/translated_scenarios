@@ -6,7 +6,7 @@ ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F032200000_22_050");
 MsgDisp("Hikaru","Tasty food～!");
-MsgDisp("主人公","That's right, but.
+MsgDisp("主人公","That's right, but...
 Is there anything you love?");
 ChEye(22,0);
 ChMouth(22,0);
