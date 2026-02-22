@@ -65,7 +65,7 @@ ChMouth(4,2);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("E010430100_04_050");
-MsgDisp("Nanatsumori","Sorry, ｛主人公｝ I'm leaving the rest to
+MsgDisp("Nanatsumori","Sorry, ｛主人公｝, I'm leaving the rest to
 you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
