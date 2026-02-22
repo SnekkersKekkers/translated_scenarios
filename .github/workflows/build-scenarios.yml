@@ -93,54 +93,43 @@ jobs:
       shell: pwsh
       run: |
         $forceRebuild = "${{ inputs.force_rebuild }}" -eq "true"
+        $exactCacheHit = "${{ steps.cache-restore.outputs.cache-hit }}" -eq "true"
         
-        # Check if we actually have cached bytes (more reliable than cache-hit)
+        # Check if we actually have cached bytes
         $cachedBytesCount = (Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes" -ErrorAction SilentlyContinue | Measure-Object).Count
-        $hasCache = $cachedBytesCount -gt 0
         Write-Host "Found $cachedBytesCount cached .bytes files"
+        Write-Host "Exact cache hit: $exactCacheHit"
+        Write-Host "Force rebuild: $forceRebuild"
         
         # Get all .c files
         $allCFiles = Get-ChildItem -Path "scripts" -Recurse -Filter "*.c" -File
         Write-Host "Total .c files in repo: $($allCFiles.Count)"
         
         $filesToCompile = @()
-        $changedInCommit = @()
         
-        if ($forceRebuild -or -not $hasCache) {
-          # No cache or force rebuild - compile everything
-          Write-Host "Full build required (force=$forceRebuild, hasCache=$hasCache)"
+        if ($forceRebuild) {
+          # Force rebuild - compile everything
+          Write-Host "Force rebuild requested - compiling all files"
           $filesToCompile = $allCFiles
-        } else {
-          Write-Host "Cache restored - checking for changes..."
-          
-          # Get files changed in this commit
-          $gitChanged = @()
-          Push-Location scripts
-          $gitOutput = git diff --name-only HEAD~1 HEAD -- '*.c' 2>$null
-          Pop-Location
-          if ($gitOutput) {
-            $gitChanged = $gitOutput -split "`n" | Where-Object { $_ -ne "" }
-          }
-          Write-Host "Files changed in commit: $($gitChanged.Count)"
-          
+        } elseif ($exactCacheHit) {
+          # Exact cache match means all .c files are identical to last build
+          Write-Host "Exact cache hit - no recompilation needed!"
+          # Safety check for any missing bytes
           foreach ($cFile in $allCFiles) {
-            $relativePath = $cFile.FullName.Replace((Resolve-Path "scripts").Path + "\", "")
             $bytesName = $cFile.BaseName + ".bytes"
-            
-            # Check if .bytes exists in cache
             $bytesExists = Get-ChildItem -Path "output/bytes" -Recurse -Filter $bytesName -File -ErrorAction SilentlyContinue
-            
-            # Check if file was changed in this commit
-            $wasChanged = $gitChanged | Where-Object { $_ -eq $relativePath -or $_ -eq $relativePath.Replace("\", "/") }
-            
-            if (-not $bytesExists -or $wasChanged) {
+            if (-not $bytesExists) {
               $filesToCompile += $cFile
-              if ($wasChanged) { $changedInCommit += $relativePath }
             }
           }
-          
-          Write-Host "Files missing from cache: $($filesToCompile.Count - $changedInCommit.Count)"
-          Write-Host "Files changed in commit: $($changedInCommit.Count)"
+          if ($filesToCompile.Count -gt 0) {
+            Write-Host "Found $($filesToCompile.Count) missing .bytes files"
+          }
+        } else {
+          # Cache miss or partial restore - .c files changed since last cache
+          # Must recompile everything because we don't know which files changed
+          Write-Host "Cache miss or files changed - full recompilation needed"
+          $filesToCompile = $allCFiles
         }
         
         Write-Host "Total files to compile: $($filesToCompile.Count)"
@@ -150,22 +139,12 @@ jobs:
           Copy-Item $file.FullName -Destination "to_compile/"
         }
         
-        # Output for release notes
-        if ($changedInCommit.Count -gt 0) {
-          $changeList = $changedInCommit -join "`n"
-        } else {
-          $changeList = "Initial build or cache miss"
-        }
-        echo "changed<<EOF" >> $env:GITHUB_OUTPUT
-        echo $changeList >> $env:GITHUB_OUTPUT
-        echo "EOF" >> $env:GITHUB_OUTPUT
-        
         echo "count=$($filesToCompile.Count)" >> $env:GITHUB_OUTPUT
 
     - name: Compile scripts to bytes
       shell: pwsh
       run: |
-        $cliPath = "tools/tmgsscenariotools/CLI/bin/Release/TMGSScenarioCLI.exe"
+        $cliPath = (Resolve-Path "tools/tmgsscenariotools/CLI/bin/Release/TMGSScenarioCLI.exe").Path
         $toCompileCount = [int]"${{ steps.files-to-compile.outputs.count }}"
         
         if ($toCompileCount -eq 0) {
@@ -173,17 +152,72 @@ jobs:
           exit 0
         }
         
-        Write-Host "Compiling $toCompileCount files..."
+        Write-Host "Compiling $toCompileCount files in parallel..."
         
-        # Compile only the files that need it (--quiet for folder-based logging)
-        & $cliPath ${{ env.DOMAIN }} "to_compile" "output/bytes" --force --quiet
-        
-        if ($LASTEXITCODE -ne 0) {
-          Write-Error "Compilation failed with exit code $LASTEXITCODE"
-          exit $LASTEXITCODE
+        # Group files by folder prefix
+        $files = Get-ChildItem -Path "to_compile" -Filter "*.c"
+        $groups = @{}
+        foreach ($file in $files) {
+          $name = $file.BaseName
+          $folder = if ($name -match '^([a-z]+)') { $matches[1] } else { "other" }
+          if (-not $groups.ContainsKey($folder)) {
+            $groups[$folder] = @()
+          }
+          $groups[$folder] += $file
         }
         
-        Write-Host "Compilation complete!"
+        Write-Host "Split into $($groups.Count) folder groups"
+        
+        # Create temp directories for each group
+        $groupDirs = @()
+        foreach ($folder in $groups.Keys) {
+          $tempDir = "to_compile_$folder"
+          New-Item -ItemType Directory -Force -Path $tempDir | Out-Null
+          foreach ($file in $groups[$folder]) {
+            Copy-Item $file.FullName -Destination $tempDir
+          }
+          $groupDirs += [PSCustomObject]@{ Folder = $folder; Dir = $tempDir; Count = $groups[$folder].Count }
+        }
+        
+        # Process groups in parallel (8 threads)
+        $outputDir = (Resolve-Path "output/bytes").Path
+        $results = $groupDirs | ForEach-Object -Parallel {
+          $item = $_
+          $cliPath = $using:cliPath
+          $outputDir = $using:outputDir
+          $domain = "${{ env.DOMAIN }}"
+          
+          try {
+            $output = & $cliPath $domain $item.Dir $outputDir --force --quiet 2>&1
+            $exitCode = $LASTEXITCODE
+            [PSCustomObject]@{ Folder = $item.Folder; Count = $item.Count; Success = ($exitCode -eq 0); Output = $output; ExitCode = $exitCode }
+          } catch {
+            [PSCustomObject]@{ Folder = $item.Folder; Count = $item.Count; Success = $false; Output = $_.ToString(); ExitCode = -1 }
+          }
+        } -ThrottleLimit 8
+        
+        # Report results
+        $totalCompiled = 0
+        $failed = @()
+        foreach ($r in $results) {
+          if ($r.Success) {
+            Write-Host "  Folder '$($r.Folder)' completed: $($r.Count) files"
+            $totalCompiled += $r.Count
+          } else {
+            Write-Host "  Folder '$($r.Folder)' FAILED (exit code $($r.ExitCode))"
+            $failed += $r
+          }
+        }
+        
+        Write-Host "Compilation complete: $totalCompiled files"
+        
+        if ($failed.Count -gt 0) {
+          Write-Host "`nFailures:"
+          foreach ($f in $failed) {
+            Write-Host "  $($f.Folder): $($f.Output)"
+          }
+          exit 1
+        }
     # Save cache with new compiled bytes
     - name: Save compiled bytes cache
       uses: actions/cache/save@v4
@@ -418,11 +452,6 @@ jobs:
           Automated release from commit ${{ github.sha }}
           
           **Files compiled this run:** ${{ steps.files-to-compile.outputs.count }}
-          
-          **Changes in this commit:**
-          ```
-          ${{ steps.files-to-compile.outputs.changed }}
-          ```
         files: |
           translated_bytes.zip
           translated_assetbundles.zip
