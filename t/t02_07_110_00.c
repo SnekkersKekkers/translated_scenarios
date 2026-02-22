@@ -191,7 +191,7 @@ Wait(60);
 ChOpen(7,254,2,1,4,#1,#1,0,0,0,120);
 VoicePlay("T020711000_07_220");
 MsgDisp("Mikage","If I leave my feelings for you at
-Habagaku, I can't go any further.");
+Haba High, I can't go any further.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
