@@ -246,7 +246,7 @@ jobs:
       shell: pwsh
       continue-on-error: true
       run: |
-        $assetReplacer = "tools/UnityAssetReplacer/UnityAssetReplacer.exe"
+        $assetReplacer = (Resolve-Path "tools/UnityAssetReplacer/UnityAssetReplacer.exe").Path
         
         if (-not (Test-Path $assetReplacer)) {
           Write-Host "UnityAssetReplacer not found at $assetReplacer"
@@ -259,7 +259,7 @@ jobs:
           exit 0
         }
         
-        Write-Host "Creating asset bundles..."
+        Write-Host "Creating asset bundles (parallel processing)..."
         Write-Host "(Only for .bytes files that have a matching original .assetbundle)"
         
         # Get all available original asset bundles
@@ -273,87 +273,80 @@ jobs:
         $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
         Write-Host "Found $($bytesFiles.Count) .bytes files"
         
-        # Get already cached asset bundles (search recursively in subdirectories)
+        # Get already cached asset bundles
         $cachedBundles = @{}
         Get-ChildItem -Path "output/assetbundles" -Recurse -Filter "*.assetbundle" -ErrorAction SilentlyContinue | ForEach-Object {
           $cachedBundles[$_.BaseName] = $true
         }
         Write-Host "Found $($cachedBundles.Count) cached asset bundles"
         
-        $created = 0
+        # Build list of work items (files that need processing)
+        $workItems = @()
         $skipped = 0
         $cached = 0
-        $failed = 0
-        $failedFiles = @()
         
-        # Group by folder prefix (first letter of filename)
-        $currentFolder = ""
-        $folderCreated = 0
-        
-        # Sort files so we can track folder changes
-        $sortedFiles = $bytesFiles | Sort-Object { $_.BaseName }
-        
-        foreach ($bytesFile in $sortedFiles) {
+        foreach ($bytesFile in $bytesFiles) {
           $name = $bytesFile.BaseName
-          
-          # Get folder prefix (e.g., "a" from "a00_07_000_00")
           $folder = if ($name -match '^([a-z]+)') { $matches[1] } else { "other" }
           
-          # If folder changed, log the previous folder's results
-          if ($folder -ne $currentFolder -and $currentFolder -ne "") {
-            if ($folderCreated -gt 0) {
-              Write-Host "  Folder '$currentFolder' completed: $folderCreated asset bundles created"
-            }
-            $folderCreated = 0
-          }
-          $currentFolder = $folder
-          
-          # Check if we have a matching original asset bundle
           if ($availableBundles.ContainsKey($name)) {
-            # Create folder-based output path
-            $outDir = "output/assetbundles/$folder"
-            if (-not (Test-Path $outDir)) {
-              New-Item -ItemType Directory -Force -Path $outDir | Out-Null
-            }
-            $outFile = "$outDir/$name.assetbundle"
-            
-            # Skip if already cached
             if ($cachedBundles.ContainsKey($name)) {
               $cached++
-              continue
-            }
-            
-            $originalBundle = $availableBundles[$name]
-            $bytesDir = $bytesFile.DirectoryName
-            
-            try {
-              $result = & $assetReplacer -b $originalBundle -m "m_Script" -i $bytesDir -o $outFile 2>&1
-              
-              if (Test-Path $outFile) {
-                $created++
-                $folderCreated++
-              } else {
-                $failed++
-                $failedFiles += "  Failed: $name.assetbundle - $result"
+            } else {
+              $workItems += [PSCustomObject]@{
+                Name = $name
+                Folder = $folder
+                BytesDir = $bytesFile.DirectoryName
+                OriginalBundle = $availableBundles[$name]
               }
-            } catch {
-              $failed++
-              $failedFiles += "  Error: $name.assetbundle - $_"
             }
           } else {
             $skipped++
           }
         }
         
-        # Log the last folder
-        if ($currentFolder -ne "" -and $folderCreated -gt 0) {
-          Write-Host "  Folder '$currentFolder' completed: $folderCreated asset bundles created"
+        Write-Host "To process: $($workItems.Count) files"
+        Write-Host "From cache: $cached"
+        Write-Host "Skipped (no matching original): $skipped"
+        
+        if ($workItems.Count -eq 0) {
+          Write-Host "No asset bundles to create!"
+          exit 0
         }
         
-        # Log all failures at the end
-        if ($failedFiles.Count -gt 0) {
+        # Pre-create output directories
+        $workItems | ForEach-Object { $_.Folder } | Sort-Object -Unique | ForEach-Object {
+          New-Item -ItemType Directory -Force -Path "output/assetbundles/$_" | Out-Null
+        }
+        
+        # Process in parallel with 8 threads
+        $results = $workItems | ForEach-Object -Parallel {
+          $item = $_
+          $assetReplacer = $using:assetReplacer
+          $outFile = "output/assetbundles/$($item.Folder)/$($item.Name).assetbundle"
+          
+          try {
+            $null = & $assetReplacer -b $item.OriginalBundle -m "m_Script" -i $item.BytesDir -o $outFile 2>&1
+            
+            if (Test-Path $outFile) {
+              [PSCustomObject]@{ Name = $item.Name; Success = $true; Error = $null }
+            } else {
+              [PSCustomObject]@{ Name = $item.Name; Success = $false; Error = "Output not created" }
+            }
+          } catch {
+            [PSCustomObject]@{ Name = $item.Name; Success = $false; Error = $_.ToString() }
+          }
+        } -ThrottleLimit 8
+        
+        # Tally results
+        $created = ($results | Where-Object { $_.Success }).Count
+        $failed = ($results | Where-Object { -not $_.Success }).Count
+        $failures = $results | Where-Object { -not $_.Success }
+        
+        # Log failures
+        if ($failures.Count -gt 0) {
           Write-Host "`nFailures:"
-          $failedFiles | ForEach-Object { Write-Host $_ }
+          $failures | ForEach-Object { Write-Host "  $($_.Name): $($_.Error)" }
         }
         
         Write-Host ""
