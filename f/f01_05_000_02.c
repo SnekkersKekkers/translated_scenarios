@@ -49,7 +49,7 @@ How about we walk home together?");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","How about we go to a cafe instead?");
+    MsgDisp("主人公","How about we go to a cafe?");
     break ;
     case 2:
     MsgDisp("主人公","Well, okay...

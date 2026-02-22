@@ -102,8 +102,7 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B20700_03_040");
 MsgDisp("Honda","But the way he stuck his nose into
-Mi-kun's pocket whilst eating was so
-cute!");
+Mi-kun's pocket whilst eating was so cute!");
 ChMotion(4,2,1);
 MsgDisp("主人公","(Hehe!
 I wish I saw it too.)");

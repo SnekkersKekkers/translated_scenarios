@@ -2,7 +2,7 @@ MsgSel("Yes, I would love to!" , "I'll be a bit busy that day ...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J140101001_01_000");
-    MsgDisp("Kazama","All right, it's settled.");
+    MsgDisp("Kazama","Alright, it's settled.");
     MsgDisp("主人公","Then at the ｛待ち合わせ場所｝.
 Should we meet up there?");
     VoicePlay("J140101001_01_010");

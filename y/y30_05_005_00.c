@@ -19,7 +19,7 @@ MsgClear();
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","Today's performance is Habataki
-Theatre company's new work.
+Theater company's new work.
 'Habataki Castle: The Lord's Return'.");
 MsgDisp("","This play is performed with a double
 cast.");

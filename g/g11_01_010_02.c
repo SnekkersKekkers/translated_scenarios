@@ -3,7 +3,7 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home.)");
 MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over there. I
-might as well have a chat before I go
+might as well chat a bit before I go
 home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

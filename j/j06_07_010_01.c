@@ -2,7 +2,7 @@ MsgSel("Yes, I'm in!","I've got to run an errand ...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J060701001_07_000");
-    MsgDisp("Mikage","All right, I got one.
+    MsgDisp("Mikage","Alright, I got one.
 Thank God.");
     VoicePlay("J060701001_07_010");
     MsgDisp("Mikage","Take care.

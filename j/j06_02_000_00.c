@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
         ChMotion(2,4);
         ChEyeOpenLevel(2,0);
         VoicePlay("J060200000_02_010");
-        MsgDisp("Sassa","All right.
+        MsgDisp("Sassa","Alright.
 I'll be looking forward to seeing you on
 the day.");
         MsgClose();

@@ -68,7 +68,7 @@ MsgDisp("Hiiragi","But, since I didn't attend elementary or
 middle school properly, there was no value
 in me being a student.");
 MsgDisp("主人公","That's...Even though ｛柊＊＊＊｝
-struggles within the Theatre Company, I
+struggles within the Theater Company, I
 think he gives it his best in many
 different ways.");
 ChMotion(5,2);

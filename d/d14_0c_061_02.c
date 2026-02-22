@@ -29,7 +29,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06102_06_010");
 MsgDisp("Himuro","Yanosuke-senpai also has three duties.
-Theatre troupe, student council and his
+Theater troupe, student council and his
 studies.");
 ChEye(5,0);
 ChMouth(5,4);

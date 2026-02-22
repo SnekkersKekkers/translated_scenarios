@@ -14,7 +14,7 @@ Are you headed home now?
 Should we walk together?\"");
 MsgDisp("","Mikage-sensei is a homeroom teacher.
 He's not even an advisor for the
-student council committee I'm a part
+Student Council I'm a part
 of.");
 MsgDisp("","But, he always looks out for me like
 this.");

@@ -28,7 +28,7 @@ simply be reality, and it gets me excited.");
     ChMotion(5,0);
     VoicePlay("B040502202_05_020");
     MsgDisp("Hiiragi","I see...
-If Theatre Troupe Habataki performed on a
+If Theater Troupe Habataki performed on a
 ship, I guess we could go there for work?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

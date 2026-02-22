@@ -12,7 +12,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Ah～ What a nice morning. I get the
 feeling that a lot of good things will
 happen in my high school life!)");
-MsgDisp("主人公","(\"Ryota\"-kun came over yesterday, but I
+MsgDisp("主人公","(Ryota-kun came over yesterday, but I
 wasn't home to see him...
 Wonder how he's changed?)");
 MsgDisp("主人公","(He might look different now, but I bet

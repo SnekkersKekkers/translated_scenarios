@@ -104,10 +104,7 @@ When it rings again, let's come take a
 look!");
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","Ever since we found the church bell,
-whenever we heard the ringing, we would
-always stop by. But it never rung again
-after that—");
+MsgDisp("主人公","Ever since we found the church bell, we'd stop by whenever it rang. But after that day, it never rang again.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -158,12 +155,12 @@ MsgDisp("主人公","(Ah, yeah!
 \"I wish that Ryota-kun's wish will come
 true!\")");
 VoicePlay("A010000000_01_160");
-MsgDisp("Ryota","Alright, let's blow!
-Ready, go!");
+MsgDisp("Ryota","Alright, let's go!
+Ready, set, blow!!");
 ScrFadeOut(0,1);
 BGMStop(4);
 VoicePlay("A010000000_01_170");
-MsgDisp("Together","PFuuu———sh!!");
+MsgDisp("Together","Pfffshhh!!");
 MsgClose();
 BGOpen("pr000",0);
 SEPlay("EV_SE_597",0.3,0.1);
@@ -212,7 +209,7 @@ SEPlay("EV_SE_829",0,0.4);
 SEStop("JINGLE_019",0);
 SEWait();
 MsgDisp("主人公","(That's right.
-That very same \"Ryota\" is finally back...)");
+That very same Ryota is finally back...)");
 SEPlay("EV_SE_629");
 SEWait();
 MsgDisp("主人公","Well, time to wake up and get ready!");

@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("J060400000_04_000");
-        MsgDisp("Nanatsumori","All right.
+        MsgDisp("Nanatsumori","Alright.
 So what do you want to do on the day?");
         MsgDisp("主人公","Okay then, at the ｛待ち合わせ場所｝ What
 do you think?");

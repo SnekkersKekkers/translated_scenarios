@@ -80,8 +80,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("E010320100_03_050");
 MsgDisp("Honda","See?
-Mi-kun, why don't you search for
-something again?");
+Mi-kun, why don't you search for something
+again?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);

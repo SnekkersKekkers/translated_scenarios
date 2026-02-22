@@ -25,7 +25,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100720000_07_000");
 MsgDisp("Mikage","Yanosuke's curiosity has been piqued.
-It's good, isn't it?");
+Isn't that great?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -46,15 +46,15 @@ ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("F100720000_07_010");
 MsgDisp("Mikage","｛主人公｝.
-Yanosuke has a wide range of interestsー.
+Yanosuke has a wide range of interestsー
 Right now, it's that sliding blackboard.");
 MsgDisp("主人公","Blackboard?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("F100720000_05_030");
-MsgDisp("Hiiragi","Unfortunately, it is not for biology
-studies. That blackboard is an efficient
+MsgDisp("Hiiragi","Unfortunately, it is in regards to Biology. 
+That blackboard is an efficient
 way to make effective use of the wall
 space. It is an exceptional item.");
 SEPlay("EV_SE_SCHOOL_002");
@@ -63,7 +63,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720000_05_040");
-MsgDisp("Hiiragi","The bell hs already rung.
+MsgDisp("Hiiragi","The bell has already rung.
 Please excuse me.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -91,7 +91,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F100720000_07_040");
-MsgDisp("Mikage","If he's that happy, maybe I'll make a
+MsgDisp("Mikage","Since he's that happy, maybe I'll make a
 blackboard for him next time.");
 MsgDisp("主人公","Ehh?");
 ChEye(7,0);

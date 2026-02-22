@@ -2,21 +2,19 @@ BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P810500000_41_000");
-MsgDisp("Student President","We, the student council executives, have
-been entrusted with management of the
-cultural festival. This is important work,
-please be aware of this.");
+MsgDisp("President","The student council will be managing
+the cultural festival. It's important work, so
+please take it seriously.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 ChOpen(5,254,4,0,0,#1,#1,0,0);
 VoicePlay("P810500000_05_000");
-MsgDisp("Hiiragi","The preparation period is for two weeks,
-beginning next week. Before then, we will
-do everything we are able to, little by
-little.");
+MsgDisp("Hiiragi","We have two weeks to prepare, starting
+next week. In the meantime, let's get as
+much done as we can, bit by bit.");
 VoicePlay("P810500000_41_010");
-MsgDisp("Student President","Yes, it will be a hectic time, so please
+MsgDisp("President","Yes, it will be a hectic time, so please
 take care of your health.");
 VoicePlay("P810500000_05_010");
 MsgDisp("Hiiragi","Certainly.");
@@ -46,6 +44,6 @@ ChMotion(5,0);
 VoicePlay("P810500000_05_050");
 MsgDisp("Hiiragi","Let's make the cultural festival a
 success.");
-MsgDisp("主人公","(Alrーight, let's do our best!)");
+MsgDisp("主人公","(Alright, let's do our best!)");
 MsgClose();
 ScrFadeOut(0,0);

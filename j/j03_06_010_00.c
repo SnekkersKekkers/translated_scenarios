@@ -38,7 +38,7 @@ Okay, let's go.");
     MsgDisp("主人公","Okay then, on ｛日付｝ I'll be
 waiting for you at ｛待ち合わせ場所｝.");
     VoicePlay("J030601000_06_040");
-    MsgDisp("Himuro","All right, bye.");
+    MsgDisp("Himuro","Alright, bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!

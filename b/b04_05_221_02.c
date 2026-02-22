@@ -64,7 +64,7 @@ help in some small way.");
         ChMotion(5,2);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_060");
-        MsgDisp("Hiiragi","As chairman of Habataki Theatre troupe, I
+        MsgDisp("Hiiragi","As chairman of Habataki Theater Company, I
 once again express my gratitude to the
 many generations of lords here.");
         ChMouthOpenLevel(5,0);

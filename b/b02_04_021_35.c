@@ -14,5 +14,4 @@ MsgDisp("Nanatsumori","That's serious skill.
 Combining those two is perfect.
 I should take notes.");
 MsgDisp("主人公","(｛七ツ森＊｝ complimented me♪
-I'm glad that I checked what's
-trending!)");
+I'm glad that I checked what's trending!)");

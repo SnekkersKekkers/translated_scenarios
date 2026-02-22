@@ -8,7 +8,7 @@ VoicePlay("B040514002_05_000");
 MsgDisp("Hiiragi","I can't believe I got to hear Japanese
 instruments here...
 I was pleasantly surprised.");
-MsgSel("｛柊＊＊＊｝, you're excited huh!","The guy playing the shamisen was so cool!","It seems like they could do a collab with Habataki Theatre Troupe.");
+MsgSel("｛柊＊＊＊｝, you're excited huh!","The guy playing the shamisen was so cool!","It seems like they could do a collab with Habataki Theater Company.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

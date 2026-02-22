@@ -3,8 +3,8 @@ BGMPlay("BGM_C03_HONDA_B");
 BGOpen("ad340",0);
 ScrFadeIn(0);
 MsgDisp("","When I start talking to Ryo-kun and
-Mi-kun they make a face that looks
-as if they're annoyed.");
+Mi-kun they make a face that looks as
+if they're annoyed.");
 VoicePlay("Y300300400_01_000");
 MsgDisp("Kazama","\"Honda, this is going to be long
 isn't it?\"");
@@ -64,8 +64,8 @@ VoicePlay("Y300300400_03_020");
 MsgDisp("Honda","\"As for me, I think she's curious
 about everything.\"");
 MsgClear();
-MsgDisp("","Mi-kun says everyone is different
-and laughs.");
+MsgDisp("","Mi-kun says everyone is different and
+laughs.");
 MsgDisp("","Ryo-kun, shrugs his shoulders, as if
 to say \"you don't get it\".");
 MsgDisp("","These two's responses were to be

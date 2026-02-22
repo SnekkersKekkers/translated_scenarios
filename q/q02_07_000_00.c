@@ -136,7 +136,7 @@ participant, the event will go ahead.");
         ChMouth(7,3);
         ChMotion(7,0);
         VoicePlay("Q020700000_07_140");
-        MsgDisp("Mikage","All right, we're off!");
+        MsgDisp("Mikage","Alright, we're off!");
         MsgDisp("主人公","(Hehe, ｛御影＊＊｝ seems really
 excited. I'm really excited to spend this
 free period together with him!)");

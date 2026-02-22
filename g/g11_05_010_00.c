@@ -6,7 +6,7 @@ MsgDisp("Male Student","Hiiragi, don't leave your slip here.");
 VoicePlay("G110501000_05_000");
 MsgDisp("Hiiragi","Okay.
 I'll put it into the management book.");
-MsgDisp("主人公","(The chairman of the Habataki Theatre
+MsgDisp("主人公","(The chairman of the Habataki Theater
 Company is working in the student council
 room...It's a bit strange, isn't it.)");
 MsgClose();
@@ -76,7 +76,7 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110501000_05_060");
 MsgDisp("Hiiragi","The other day we went to see Habataki
-Theatre Company's performance together,
+Theater Company's performance together,
 right?");
 ChEye(5,0);
 ChMouth(5,1);

@@ -62,11 +62,12 @@ StlNear(1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050400100_46_000");
 MsgDisp("Clerk","Okay then, cool guy♪
-The \"60 Minute Shaved Ice Challenge\" starts
-now～ ∈");
-MsgDisp("主人公","(T-There are so many kinds of Shaved Ice...
-To keep eating this for 60 minutes...
-｛七ツ森＊｝, is it really okay∋)");
+The \"60 Minute Shaved Ice Challenge\"
+starts now～ ∈");
+MsgDisp("主人公","(T-There are so many kinds of Shaved
+Ice...To keep eating this for 60
+minutes...｛七ツ森＊｝, is it really
+okay∋)");
 VoicePlay("B050400100_04_050");
 MsgDisp("Nanatsumori","Thanks for the meal.
 Then, let's start with the \"Heaven Berry\"
@@ -81,8 +82,8 @@ StlEye(4,1);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400100_04_070");
-MsgDisp("Nanatsumori","I'll try a bit of this one. 
-\"Devil Cocoa Mountain\"...");
+MsgDisp("Nanatsumori","I'll try a bit of this one. \"
+Devil Cocoa Mountain\"...");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("B050400100_04_080");
@@ -154,9 +155,9 @@ VoicePlay("B050400100_04_130");
 MsgDisp("Nanatsumori","I was the only one having fun, I was
 stuffing myself and ended up neglecting
 you...");
-MsgDisp("主人公","Nah. We enjoyed the movie together and I
-had fun seeing ｛七ツ森＊｝'s
-brave form!");
+MsgDisp("主人公","Nah.
+We enjoyed the movie together and I had
+fun seeing ｛七ツ森＊｝'s brave form!");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -173,8 +174,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B050400100_04_160");
-MsgDisp("Nanatsumori","Instead of that kind of 'bravery', I should
-have shown you something...cooler.");
+MsgDisp("Nanatsumori","Instead of that kind of 'bravery', I
+should have shown you something...cooler.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,2);
 ChMouth(4,3);

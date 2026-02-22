@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I prepared the materials for the next
 meeting...)");
 VoicePlay("G110500800_40_000");
-MsgDisp("Male Student","Good work todayー.
+MsgDisp("Male Student","Good work todayー
 Please lock up.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -15,7 +15,7 @@ VoicePlay("G110500800_05_000");
 MsgDisp("Hiiragi","Yes.
 Good work today.");
 MsgDisp("主人公","Huh?
-｛柊＊＊＊｝ still hasn't stopped?");
+｛柊＊＊＊｝ is still here?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -32,7 +32,7 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 VoicePlay("G110500800_05_020");
 MsgDisp("Hiiragi","No, I like doing things even if I'm bad at
-it. I like sitting here and doing student
+them. I like sitting here and doing student
 council work.");
 MsgDisp("主人公","I see.
 Isn't it difficult when you're also busy
@@ -49,8 +49,8 @@ VoicePlay("G110500800_05_040");
 MsgDisp("Hiiragi","Whether I'm actually helping is another
 matter.");
 MsgDisp("主人公","｛柊＊＊＊｝ is fantastic.
-Everyone can feel like they can do their
-best too because of the busy ｛柊＊＊＊｝.");
+Everyone feels motivated to do their best
+because of you.");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
@@ -60,7 +60,7 @@ ChEyeOpenLevel(5,12);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500800_05_050");
 MsgDisp("Hiiragi","Just hearing you say that is a
-relief...thank you.");
+relief...Thank you.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
@@ -68,7 +68,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
-MsgDisp("主人公","(｛柊＊＊＊｝, Looks like he's pushing
+MsgDisp("主人公","(It looks like ｛柊＊＊＊｝ ispushing
 himself too hard after all...Even if it's
 just a little, I want to help him.)");
 BGMStop();

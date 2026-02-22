@@ -22,10 +22,10 @@ Too bad, but what can you do.");
     MsgDisp("主人公","Er, well.
 Well, I'll see you later?");
     VoicePlay("J030500001_05_040");
-    MsgDisp("Hiiragi","Yes");
+    MsgDisp("Hiiragi","Yes.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Well, that's a real shame!)");
+    MsgDisp("主人公","(Ah, what a shame...)");
     break ;
     case 4:
     case 5:

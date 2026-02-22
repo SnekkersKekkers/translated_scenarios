@@ -42,9 +42,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230001_22_030");
-MsgDisp("Hikaru","Hi～Mari♪
-We're playing guess the character bento
-again today.");
+MsgDisp("Hikaru","Hi～Mari♪ We're playing guess the
+character bento again today.");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,0,1);

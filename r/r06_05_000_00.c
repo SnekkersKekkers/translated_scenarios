@@ -10,6 +10,5 @@ it.)");
 SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
-MsgDisp("主人公","(\"Twin Head Rolls\")");
-MsgDisp("主人公","(Is it twice as efficient for
-cleaning...?)");
+MsgDisp("主人公","(\"Double-Sided Head Massager\")");
+MsgDisp("主人公","(I wonder if it's twice as effective...?)");

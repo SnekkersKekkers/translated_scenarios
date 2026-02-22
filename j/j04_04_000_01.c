@@ -31,7 +31,7 @@ Can I talk to you now?");
         MsgDisp("Nanatsumori","I don't blame you for running errands.");
         MsgDisp("主人公","Sorry.");
         VoicePlay("J040400001_04_030");
-        MsgDisp("Nanatsumori","All right, I'll see you later.");
+        MsgDisp("Nanatsumori","Alright, I'll see you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Hmmm, even though he invited me...

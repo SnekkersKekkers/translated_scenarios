@@ -35,7 +35,7 @@ MsgDisp("Kazama","Do you get it? There's a lot of people out
 here very excited, so being too far away
 is prohibited.");
 VoicePlay("B040106401_39_000");
-MsgDisp("Night Market Clerk","Oh, it's the younger Kazama!
+MsgDisp("Market Clerk","Oh, it's the younger Kazama!
 C'mere, come over here!");
 ChEye(1,5);
 ChMouth(1,1);
@@ -47,12 +47,12 @@ MsgClose();
 SEPlay("EV_SE_568");
 ChClose(1,0,30);
 VoicePlay("B040106401_39_010");
-MsgDisp("Night Market Clerk","Here, this is our speciality yakisoba.
+MsgDisp("Market Clerk","Here, this is our speciality yakisoba.
 Just for the young master.");
 SEWait();
 MsgDisp("主人公","(Hehe, they call him young master.)");
 VoicePlay("B040106401_39_020");
-MsgDisp("Night Market Clerk","...And by the way, is that girl over there
+MsgDisp("Market Clerk","...And by the way, is that girl over there
 the future mistress?");
 MsgDisp("主人公","Huh?");
 VoicePlay("B040106401_01_060");

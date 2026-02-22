@@ -1,9 +1,8 @@
 BGOpen("ho210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Starting tomorrow, I'll be a high school
-freshman attending the entrance ceremony
-at the prestigious \"Habataki High\", I'm so
-nervous!)");
+MsgDisp("主人公","(Starting tomorrow, I'll be a freshman 
+at the prestigious \"Habataki High School\". 
+I'm so nervous!)");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0,0.5);
@@ -58,13 +57,13 @@ BGOpen("ho210",2);
 ScrFadeIn(0);
 MsgDisp("主人公","(Mom told me something earlier that really
 surprised me...)");
-MsgDisp("主人公","(\"Ryota\"-kun is back.
+MsgDisp("主人公","(Ryota-kun is back.
 It's been 9 years since he moved to
 England.)");
 MsgDisp("主人公","(I hadn't heard his name in a while.
 It brought back a lot of memories of
 things from my childhood.)");
-MsgDisp("主人公","(\"It was the day before \"Ryota\"-kun moved
+MsgDisp("主人公","(\"It was the day before Ryota-kun moved
 to England. I think it was just me and him
 in that place—\")");
 MsgClose();

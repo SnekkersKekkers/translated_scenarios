@@ -22,8 +22,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360318001_03_020");
-MsgDisp("Honda","...Wait, did you hear about it from
-Mi-kun too?");
+MsgDisp("Honda","...Wait, did you hear about it from Mi-kun
+too?");
 MsgDisp("主人公","No, the popcorn here is just really
 popular.");
 ChMouth(3,4);

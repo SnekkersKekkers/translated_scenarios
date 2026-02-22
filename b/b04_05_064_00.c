@@ -50,7 +50,7 @@ SEPlay("EV_SE_022",0.8);
 MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
 The fireworks are about to start!");
 VoicePlay("B040506400_47_000");
-MsgDisp("Night Market Clerk","Thank you～!");
+MsgDisp("Market Clerk","Thank you～!");
 MsgClose();
 SEPlay("EV_SE_625",0,0.9);
 Wait(60,0);

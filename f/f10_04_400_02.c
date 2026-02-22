@@ -25,8 +25,8 @@ ChMotion(3,3,1);
 VoiceEVSPlay(3);
 VoicePlay("F100440002_03_010");
 MsgDisp("Honda","｛主人公｝.
-Thanks to Mi-kun, my little sister is in
-a good mood!");
+Thanks to Mi-kun, my little sister is in a
+good mood!");
 MsgDisp("主人公","Thanks to ｛七ツ森＊｝?");
 ChEye(4,2);
 ChMouth(4,3);

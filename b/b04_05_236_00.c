@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B040523600_05_000");
 MsgDisp("Hiiragi","The lighting production...
 It's been made well down to the details.");
-MsgSel("It's super pretty!","The sound is a little loud","The impact of the skull bear is amazing!");
+MsgSel("It's super pretty!","The sound is a little loud.","The impact of the skull bear is amazing!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

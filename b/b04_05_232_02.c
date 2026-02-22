@@ -75,7 +75,7 @@ that indicates a fortune of love...");
         MsgDisp("Hiiragi","It's not a lottery, since there's no hit
 or miss?");
         MsgDisp("主人公","Yellow looks like economic fortune.
-It seems like Habataki Theatre Troupe's
+It seems like Habataki Theater Company's
 performance will go well?");
         ChEye(5,3);
         ChMotion(5,0);

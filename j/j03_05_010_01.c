@@ -73,7 +73,7 @@ I'm afraid I can't even coordinate.");
 easy. But I'm sorry. I'll see you later...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Well, that's a real shame!)");
+    MsgDisp("主人公","(Ah, what a shame...)");
     break ;
     default :
     DbgAssert(1);

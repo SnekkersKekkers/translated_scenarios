@@ -6,7 +6,7 @@ ChMotion(7,4);
 ChEyeOpenLevel(7,0);
 ScrFadeIn(0);
 VoicePlay("B040709000_07_000");
-MsgDisp("Mikage","*Snif-sniff*...
+MsgDisp("Mikage","*Sniff-sniff*...
 Lots of different plants are giving their
 own aroma.");
 MsgSel("It smells sweet.","There's mint isn't there?","It's a strong aroma.");

@@ -15,7 +15,7 @@ to look after my plants. After that
 I'm free. Why do you want to know?\"");
 MsgClear();
 MsgDisp("","Whilst being chairman of Habataki
-Theatre Company, Yanosuke is also a
+Theater Company, Yanosuke is also a
 member of the student council
 committee.");
 MsgDisp("","He is a scholarship student who

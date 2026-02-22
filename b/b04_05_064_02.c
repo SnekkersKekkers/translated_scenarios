@@ -17,14 +17,14 @@ VoicePlay("B040506402_05_010");
 MsgDisp("Hiiragi","As I serve as the leader as the local
 theatre troupe.");
 VoicePlay("B040506402_36_000");
-MsgDisp("Night Market Clerk","Yo, Chairman?
+MsgDisp("Market Clerk","Yo, Chairman?
 How's about some takoyaki?");
 ChMotion(5,4);
 VoicePlay("B040506402_05_020");
 MsgDisp("Hiiragi","Ah, yes.
 Of course I'll have some.");
 VoicePlay("B040506402_47_000");
-MsgDisp("Night Market Clerk","I saw the Habtaki theatre troupe the other
+MsgDisp("Market Clerk","I saw the Habtaki theatre troupe the other
 day, you know?
 I'll give you a free portion of yakisoba.");
 ChEye(5,4);
@@ -32,7 +32,7 @@ ChMouth(5,4);
 VoicePlay("B040506402_05_030");
 MsgDisp("Hiiragi","Thank you very much.");
 VoicePlay("B040506402_47_010");
-MsgDisp("Night Market Clerk","Chairman, you don't hold back, huh.
+MsgDisp("Market Clerk","Chairman, you don't hold back, huh.
 Alright～!");
 ChEye(5,0);
 ChMouth(5,2);

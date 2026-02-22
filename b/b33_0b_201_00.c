@@ -86,8 +86,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20100_03_040");
-MsgDisp("Honda","It's alright! It's super cool. Mi-kun
-will also definitely come to like it.");
+MsgDisp("Honda","It's alright! It's super cool. Mi-kun will
+also definitely come to like it.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","(I'm pretty sure it'll b e a no-go for

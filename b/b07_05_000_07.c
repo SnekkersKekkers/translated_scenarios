@@ -22,7 +22,7 @@ ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B070500000_05_320");
-MsgDisp("Hiiragi","Apart from that, putting Habataki Theatre
+MsgDisp("Hiiragi","Apart from that, putting Habataki Theater
 troupe on track to being loved by citizens
 for years to come, that is also my
 personal dream.");

@@ -8,8 +8,8 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040401001_04_000");
 MsgDisp("Nanatsumori","OhhhーHow's this?
-Doesn't it look like it was especially designed
-for you?");
+Doesn't it look like it was especially
+designed for you?");
 MsgSel("Really, I'll go but it!","I wonder...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:

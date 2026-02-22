@@ -1,6 +1,6 @@
 MsgClear();
 MsgDisp("","｛柊＊＊＊｝ is focusing on the Habataki
-Theatre Company. ｛氷室＊＊｝ has just went
+Theater Company. ｛氷室＊＊｝ has just went
 onto his third year at Haba High. And
 ｛御影＊＊｝ has become the homeroom
 teacher for the first-year students at

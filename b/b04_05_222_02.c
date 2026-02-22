@@ -81,7 +81,7 @@ P-Play?");
 A guiding light to protect you.
 My soul will be with you for eternity.\"");
         MsgDisp("主人公","Ehhh∋
-That's like a scene from Habataki Theatre
+That's like a scene from Habataki Theater
 Troupe's play?");
         ChMouth(5,4);
         ChMotion(5,4);

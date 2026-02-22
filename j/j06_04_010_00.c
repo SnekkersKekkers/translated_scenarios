@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
         case 4:
         case 5:
         VoicePlay("J060401000_04_000");
-        MsgDisp("Nanatsumori","All right.
+        MsgDisp("Nanatsumori","Alright.
 Where should we meet on that day?");
         MsgDisp("主人公","Let's meet at the ｛待ち合わせ場所｝.
 Sound good?");

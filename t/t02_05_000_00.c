@@ -85,7 +85,7 @@ ChMouth(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("T020500000_05_080");
 MsgDisp("Hiiragi","So much so that I began to drive the
-members of the Habataki Theatre Company
+members of the Habataki Theater Company
 into despair.");
 MsgDisp("主人公","｛柊＊＊＊｝...");
 ChMotion(5,0);

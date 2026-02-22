@@ -6,8 +6,8 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,0);
     ChMotion(5,0);
     VoicePlay("B060500011_05_000");
-    MsgDisp("Hiiragi","We're here.
-Well then, excuse me.");
+    MsgDisp("Hiiragi","Let's stop here.
+Excuse me.");
     break ;
     case 3:
     ChEye(5,0);

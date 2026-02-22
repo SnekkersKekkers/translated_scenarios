@@ -84,7 +84,7 @@ Is it really okay for me to be teacher?");
         VoicePlay("B040410102_04_090");
         MsgDisp("Nanatsumori","It's fine.
 If you would please, Sensei.");
-        MsgDisp("主人公","...All right.
+        MsgDisp("主人公","...Alright.
 Then, please form a line and follow me.");
         ChEye(4,4);
         ChMouth(4,5);

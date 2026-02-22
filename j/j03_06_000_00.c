@@ -35,7 +35,7 @@ I can't wait for ｛日付｝ to come.)");
 Let's meet on ｛日付｝ at
 ｛待ち合わせ場所｝, then?");
     VoicePlay("J030600000_06_050");
-    MsgDisp("Himuro","All right.
+    MsgDisp("Himuro","Alright.
 Can you try not being late?");
     MsgDisp("主人公","Hmmm, okay.
 We want to have lots of fun, don't we?");
