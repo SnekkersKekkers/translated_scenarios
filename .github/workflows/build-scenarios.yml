@@ -30,10 +30,13 @@ jobs:
 
     - name: Checkout original asset bundles
       uses: actions/checkout@v4
+      continue-on-error: true
+      id: checkout-assetbundles
       with:
         repository: ${{ env.ASSETBUNDLES_REPO }}
         path: original_assetbundles
         token: ${{ secrets.PAT_TOKEN }}
+        ref: master
 
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v2
