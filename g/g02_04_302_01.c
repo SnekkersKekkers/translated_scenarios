@@ -20,7 +20,7 @@ VoicePlay("G020430201_04_020");
 MsgDisp("Nanatsumori","In the midst of all the relationships with
 countless people, there will come a time
 when I'll love someone and marry them.
-...that's supposed to happen");
+...that's supposed to happen.");
 MsgDisp("主人公","Ah, yeah...");
 ChMotion(4,1,1);
 VoicePlay("G020430201_04_030");
