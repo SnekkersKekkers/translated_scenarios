@@ -37,7 +37,7 @@ Thanks for your message.");
     VoicePlay("J030501001_05_030");
     MsgDisp("Hiiragi","I had plans that day...
 Sorry.");
-    MsgDisp("主人公","Oh, I see...is busy, isn't it.
+    MsgDisp("主人公","Oh, I see...it's busy, isn't it?
 I can't blame you.");
     VoicePlay("J030501001_05_040");
     MsgDisp("Hiiragi","I'm sorry you had to go through the
