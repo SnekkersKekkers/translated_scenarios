@@ -52,7 +52,7 @@ Next time I'll ask you something, then.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","(...Huh? But I wanted to hear how
-｛颯砂＊＊｝ feel about love...)");
+｛颯砂＊＊｝ feels about love...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
