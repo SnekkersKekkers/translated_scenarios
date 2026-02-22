@@ -32,7 +32,7 @@ ChMouth(34,0);
 VoicePlay("B110100001_34_030");
 MsgDisp("Guy","Well, quickly.
 From reality to the sea of the virtual
-world, let's goo and surf the net.");
+world, let's go and surf the net.");
 MsgDisp("主人公","Ehh∋
 Hey, what are you talking about!");
 ChPosition(34,2);
