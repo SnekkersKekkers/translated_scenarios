@@ -107,7 +107,7 @@ I nearly said something outrageous.");
 MsgDisp("主人公","(｛柊＊＊＊｝...? It seems like he's
 thinking very thoroughly about love. But,
 what kind of outrageous thing was he
-talking about?))");
+talking about?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
