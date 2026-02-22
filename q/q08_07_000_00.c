@@ -15,7 +15,7 @@ switch (ChPrmGet(7,6)){
 Take a good rest.");
     MsgDisp("主人公","Yes.
 I'm happy I could go sightseeing with
-｛御影＊＊｝.");
+｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);

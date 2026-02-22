@@ -1,4 +1,4 @@
 MsgDisp("主人公","I'll give the obligatory chocolate to
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
 MsgClose();
 ScrFadeOut(0);

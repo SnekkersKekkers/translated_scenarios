@@ -34,7 +34,7 @@ VoicePlay("G020710306_07_040");
 MsgDisp("Mikage","Yeah, that's right.
 The roller coaster at Habataki Land Town
 is intense.");
-MsgDisp("主人公","｛御影＊＊｝, you were really excited.");
+MsgDisp("主人公","｛Mikage＊＊｝, you were really excited.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -49,7 +49,7 @@ ChEyeOpenLevel(7,8);
 VoicePlay("G020710306_07_060");
 MsgDisp("Mikage","Heh.
 Thank you.");
-MsgDisp("主人公","(｛御影＊＊｝...
+MsgDisp("主人公","(｛Mikage＊＊｝...
 He seems a bit different than usual?)");
 BGMStop();
 MsgClose();

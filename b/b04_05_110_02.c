@@ -54,7 +54,7 @@ hurry.");
         ChClose(5);
         ChCheek(5,0);
         SEWait();
-        MsgDisp("主人公","｛柊＊＊＊｝, you shouldn't run by the pool
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝, you shouldn't run by the pool
 side.");
         MsgClose();
         SEPlay("EV_SE_508");
@@ -70,7 +70,7 @@ side.");
         MsgDisp("Hiiragi","But, let's hurry.
 To feel like I'm in a private hot spring
 with you, running by the poolside is okay.");
-        MsgDisp("主人公","(｛柊＊＊＊｝, do you like jacuzzi baths
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, do you like jacuzzi baths
 that much?)");
         break ;
         default :

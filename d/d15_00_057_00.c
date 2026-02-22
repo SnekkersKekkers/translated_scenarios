@@ -39,7 +39,7 @@ ChMotion ( 7,3 ) ;
 VoicePlay ( "D150005700_07_020" ) ;
 MsgDisp ( "Mikage","There is no school rule that prohibits
 bringing yokan." ) ;
-MsgDisp ( "主人公","What a relief, ｛柊＊＊＊｝." ) ;
+MsgDisp ( "主人公","What a relief, ｛Hiiragi＊＊＊｝." ) ;
 ChEye ( 5,3 ) ;
 ChMouth ( 5,3 ) ;
 ChMotion ( 5,3 ) ;

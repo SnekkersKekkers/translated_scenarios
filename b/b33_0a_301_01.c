@@ -134,7 +134,7 @@ VoicePlay("B330A30101_02_050");
 MsgDisp("Sassa","Yeah.
 Inori's affinity with the deep sea corner
 is definitely good.");
-MsgDisp("主人公","(｛氷室＊＊｝, maybe you're overwhelming
+MsgDisp("主人公","(｛Himuro＊＊｝, maybe you're overwhelming
 those two more than usual today?)");
 BGMStop();
 MsgClose();

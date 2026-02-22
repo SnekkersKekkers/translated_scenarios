@@ -95,7 +95,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝ equates me with love?
+MsgDisp("主人公","(｛Sassa＊＊｝ equates me with love?
 That's——)");
 MsgClose();
 ScrFadeOut(0);

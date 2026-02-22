@@ -12,7 +12,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H2A0600001_06_000");
     MsgDisp("Himuro","Good work.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝...");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -40,7 +40,7 @@ manager...)");
     ScrFadeIn(0);
     VoicePlay("H2A0600001_06_030");
     MsgDisp("Himuro","......");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

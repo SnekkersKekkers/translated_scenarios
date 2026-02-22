@@ -12,7 +12,7 @@ ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("K020700001_07_000");
 MsgDisp("Mikage","It's Mikage Delivery.");
 MsgDisp("主人公","Huh!? Mikage Delivery? Um...
-｛御影＊＊｝, what is it?");
+｛Mikage＊＊｝, what is it?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -52,6 +52,6 @@ BGMStop();
 MsgClose();
 ChClose(7);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛御影＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛Mikage＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -8,7 +8,7 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝!
 Are you free?");
     ChEye(3,4);
     ChMouth(3,4);
@@ -22,7 +22,7 @@ What's up?");
 Valentine's chocolate.");
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝!
 Are you free?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -46,7 +46,7 @@ Valentine's chocolate.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛本多＊＊｝!
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝!
 I was looking for you.");
     ChEye(3,0);
     ChMouth(3,3);

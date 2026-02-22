@@ -33,7 +33,7 @@ VoicePlay("A020220000_02_010");
 MsgDisp("Sassa?","Hm—m...
 The admissions are usually made with
 Mikage-sensei?");
-MsgDisp("主人公","｛御影＊＊｝ told me to look for the
+MsgDisp("主人公","｛Mikage＊＊｝ told me to look for the
 club captain...");
 ChEye(2,0);
 ChMouth(2,4);
@@ -161,7 +161,7 @@ SEPlay("EV_SE_672");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(This guy, ｛颯砂＊＊｝...
+MsgDisp("主人公","(This guy, ｛Sassa＊＊｝...
 He has an amazing goal...
 I'll try my best to help!)");
 MsgClose();

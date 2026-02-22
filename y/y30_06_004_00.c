@@ -107,7 +107,7 @@ submerged in the feeling that I am
 vanishing from the spot.");
 MsgClear();
 BGOpen("ad643",0);
-MsgDisp("主人公","\"｛氷室＊＊｝...?\"");
+MsgDisp("主人公","\"｛Himuro＊＊｝...?\"");
 MsgDisp("","Her worried-sounding voice brings me
 back to my senses. Ryota-senpai and
 the others look at me quizzically");

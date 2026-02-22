@@ -15,7 +15,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,4,0,4,#1,#1,0,1);
 ChOpen(2,255,3,0,4,#1,#1,0,2);
-MsgDisp("主人公","｛柊＊＊＊｝, ｛颯砂＊＊｝.
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, ｛Sassa＊＊｝.
 It's rare seeing you two together.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -74,7 +74,7 @@ ChMouth(5,4);
 VoicePlay("E010520100_02_060");
 MsgDisp("Sassa","Let me rewrite what I wrote earlier.");
 MsgDisp("主人公","Um?
-｛颯砂＊＊｝...
+｛Sassa＊＊｝...
 I wonder what's wrong.");
 ChEye(5,0);
 ChMouth(5,4);

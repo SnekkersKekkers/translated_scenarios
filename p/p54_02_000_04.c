@@ -12,7 +12,7 @@ ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P540200004_02_000");
 MsgDisp("Sassa","｛主人公｝, that was amazing.");
-MsgDisp("主人公","｛颯砂＊＊｝, thank you.");
+MsgDisp("主人公","｛Sassa＊＊｝, thank you.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -56,7 +56,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("P540200004_02_060");
 MsgDisp("Sassa","Somewhat, music is amazing.");
-MsgDisp("主人公","(Thank you, ｛颯砂＊＊｝...
+MsgDisp("主人公","(Thank you, ｛Sassa＊＊｝...
 I'm glad I gave it my all these last three
 years!)");
 MsgClose();

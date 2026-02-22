@@ -100,7 +100,7 @@ Make sure to take me along, okay?");
         MsgDisp("Sassa","Yeah, of course!
 It's a promise...
 I'll take you to the highest point.");
-        MsgDisp("主人公","｛颯砂＊＊｝...");
+        MsgDisp("主人公","｛Sassa＊＊｝...");
         MsgDisp("主人公","(I wonder, it sounds like he's not just
 talking about skiing?)");
         break ;

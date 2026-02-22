@@ -30,7 +30,7 @@ MsgDisp("Hiiragi","On the back of the enjoyable music, are
 your efforts from day after day.
 Congratulations on the success!");
 MsgDisp("主人公","Yes, thank you!");
-MsgDisp("主人公","(｛柊＊＊＊｝ praised me!
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ praised me!
 I'm truly glad I gave it my best.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -81,7 +81,7 @@ VoicePlay("G020630001_06_110");
 MsgDisp("Himuro","You don't need to understand.
 Let's just enjoy this moment for now.");
 MsgDisp("主人公","(Moment...
-Does ｛氷室＊＊｝ think our relationship is
+Does ｛Himuro＊＊｝ think our relationship is
 only temporary?)");
 BGMStop();
 MsgClose();

@@ -5,7 +5,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Now I think about it, ｛七ツ森＊｝,
+MsgDisp("主人公","Now I think about it, ｛Nanatsumori＊｝,
 isn't it almost your birthday?");
 VoicePlay("F020400004_04_000");
 MsgDisp("Nanatsumori","Oh.");
@@ -55,5 +55,5 @@ VoicePlay("F020400004_04_070");
 MsgDisp("Nanatsumori","...but there's nothing like that at my
 house.
 Man...it would be nice, though.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems to have a surprisingly
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to have a surprisingly
 huge heart...)");

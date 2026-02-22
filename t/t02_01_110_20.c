@@ -1,5 +1,5 @@
 MsgDisp("主人公","Me too...
-I also really like ｛風真＊＊｝.");
+I also really like ｛Kazama＊＊｝.");
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,10);

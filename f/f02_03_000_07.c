@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Summer break is coming up.
-｛本多＊＊｝, what are your plans?");
+｛Honda＊＊｝, what are your plans?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -47,4 +47,4 @@ MsgDisp("Honda","But don't think that I want to go all the
 way to the forest. I'm fine with the bugs
 in foreign homes, okay?");
 MsgDisp("主人公","(The bugs that come out in homes...huh.
-Maybe ｛本多＊＊｝ can be sensible?)");
+Maybe ｛Honda＊＊｝ can be sensible?)");

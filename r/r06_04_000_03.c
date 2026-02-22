@@ -10,9 +10,9 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("R060400003_04_000");
     MsgDisp("Nanatsumori","Oh...that's mine.");
-    MsgDisp("主人公","｛七ツ森＊｝.
+    MsgDisp("主人公","｛Nanatsumori＊｝.
 I knew it!");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝, you got the gift I
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝, you got the gift I
 brought too.");
     ChEye(4,0);
     ChMouth(4,3);
@@ -28,16 +28,16 @@ Can I open it?");
     ScrFadeIn(0);
     VoicePlay("R060400003_04_020");
     MsgDisp("Nanatsumori","Ah, I guess you got my gift.");
-    MsgDisp("主人公","｛七ツ森＊｝.
+    MsgDisp("主人公","｛Nanatsumori＊｝.
 You're the one that bought this present,
-｛七ツ森＊｝?");
+｛Nanatsumori＊｝?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("R060400003_04_030");
     MsgDisp("Nanatsumori","Yeah.
 Do you like it?");
     MsgDisp("主人公","Yeah!
-Hey, ｛七ツ森＊｝, you know you got the
+Hey, ｛Nanatsumori＊｝, you know you got the
 present I brought, right?");
     ChEye(4,0);
     ChMouth(4,3);
@@ -55,9 +55,9 @@ Is it okay if I open it?");
     ScrFadeIn(0);
     VoicePlay("R060400003_04_050");
     MsgDisp("Nanatsumori","Do you like it?");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 I'm guessing this is your gift then,
-｛七ツ森＊｝?");
+｛Nanatsumori＊｝?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("R060400003_04_060");
@@ -65,7 +65,7 @@ I'm guessing this is your gift then,
 I'm glad that you are the one that got it.");
     MsgDisp("主人公","Hehe.
 I'm glad too!");
-    MsgDisp("主人公","Hey, ｛七ツ森＊｝, you also got the
+    MsgDisp("主人公","Hey, ｛Nanatsumori＊｝, you also got the
 present that I brought in.");
     ChEye(4,4);
     ChMouth(4,3);

@@ -15,7 +15,7 @@ What should I do, I'm so nervous...)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700000_07_000");
     MsgDisp("Mikage","You're frozen stiff, aren't you?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -49,7 +49,7 @@ worst thing would already be averted.");
     ChMotion(7,3);
     VoicePlay("P530700000_07_050");
     MsgDisp("Mikage","Then, go.");
-    MsgDisp("主人公","(Yeah, it's just as ｛御影＊＊｝ says.
+    MsgDisp("主人公","(Yeah, it's just as ｛Mikage＊＊｝ says.
 I'll do what I can...!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -65,7 +65,7 @@ What should I do, I'm so nervous...)");
     VoicePlay("P530700000_07_060");
     MsgDisp("Mikage","What's this, what's this, I can't watch
 this.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -98,7 +98,7 @@ wouldn't right?");
     MsgDisp("Mikage","Right?
 You've come this far with good friends,
 it's already a success.");
-    MsgDisp("主人公","｛御影＊＊｝...");
+    MsgDisp("主人公","｛Mikage＊＊｝...");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(7,0);
@@ -108,7 +108,7 @@ it's already a success.");
     MsgDisp("Mikage","All that's left is for you to be satisfied
 with yourself.
 Come on, go enjoy it");
-    MsgDisp("主人公","(Yeah, it's just as ｛御影＊＊｝ says.
+    MsgDisp("主人公","(Yeah, it's just as ｛Mikage＊＊｝ says.
 Let's go enjoy it!)");
     MsgClose();
     ScrFadeOut(0,0);

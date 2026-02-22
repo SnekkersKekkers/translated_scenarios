@@ -103,7 +103,7 @@ But, I think she was happy.");
         VoicePlay("B040523102_05_120");
         MsgDisp("Hiiragi","...What about you?");
         MsgDisp("主人公","I'm happy.
-Because ｛柊＊＊＊｝ seems happy.");
+Because ｛Hiiragi＊＊＊｝ seems happy.");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,3);
@@ -115,7 +115,7 @@ Then I'll follow wherever you want to go.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         MsgClose();
         ChClose(5);
-        MsgDisp("主人公","(Since he was a kid, ｛柊＊＊＊｝ couldn't
+        MsgDisp("主人公","(Since he was a kid, ｛Hiiragi＊＊＊｝ couldn't
 go to things like amusement parks because
 of things like work...)");
         MsgClose();

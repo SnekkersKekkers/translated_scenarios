@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛柊＊＊＊｝ isn't here yet...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ isn't here yet...)");
 switch (ChPrmGet(5,6)){
     case 0:
     case 1:
@@ -48,7 +48,7 @@ keeping you waiting.");
     ChOpen(5,253,0,2,2,#1,#1,0,0);
     VoicePlay("B010500001_05_040");
     MsgDisp("Hiiragi","Ahh, thank goodness...");
-    MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Oh, ｛Hiiragi＊＊＊｝.
 What's wrong?");
     ChMotion(5,4);
     VoicePlay("B010500001_05_050");

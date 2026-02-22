@@ -13,7 +13,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("H480200000_02_000");
     MsgDisp("Sassa","How are you feeling?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Did you come to cheer me on?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -28,7 +28,7 @@ there a certain way I need to cheer?");
     VoicePlay("H480200000_02_020");
     MsgDisp("Sassa","I see. Then I'll try to cheer in a way
 that won't distract you. Good luck.");
-    MsgDisp("主人公","(｛颯砂＊＊｝ is here to cheer for me, too.
+    MsgDisp("主人公","(｛Sassa＊＊｝ is here to cheer for me, too.
 Let's do our best!)");
     break ;
     default :

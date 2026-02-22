@@ -1,7 +1,7 @@
 BGOpen("ar100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's kind of empty today.
-Not even ｛七ツ森＊｝ seems to be
+Not even ｛Nanatsumori＊｝ seems to be
 here...)");
 MsgClose();
 SEPlay("EV_SE_DOOR_014");
@@ -110,7 +110,7 @@ ChMotion(4,0);
 VoicePlay("G110400703_04_080");
 MsgDisp("Nanatsumori","Aah...that's enough, it can be a pain
 sometimes.");
-MsgDisp("主人公","(｛七ツ森＊｝ seems very serious about his
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems very serious about his
 work.)");
 BGMStop();
 MsgClose();

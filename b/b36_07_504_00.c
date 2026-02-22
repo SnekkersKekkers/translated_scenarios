@@ -41,7 +41,7 @@ VoicePlay("B360750400_07_030");
 MsgDisp("Mikage","Ah it was definitely worth coming here.
 It was worth you throwing a rare tantrum.");
 MsgDisp("主人公","I'm also glad we came to see them
-together, ｛御影＊＊｝.");
+together, ｛Mikage＊＊｝.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -57,7 +57,7 @@ VoicePlay("B360750400_07_050");
 MsgDisp("Mikage","That being said, it's time we prepare to
 go home.");
 MsgDisp("主人公","(Thank you for bringing me,
-｛御影＊＊｝.)");
+｛Mikage＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

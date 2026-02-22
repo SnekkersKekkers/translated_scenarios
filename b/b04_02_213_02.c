@@ -69,7 +69,7 @@ it fun.
 Like running together.");
         MsgDisp("主人公","I see.
 But is there a doggy that can keep up with
-｛颯砂＊＊｝'s running?");
+｛Sassa＊＊｝'s running?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);
@@ -87,7 +87,7 @@ Really?");
 hour. Even the fastest humans can only do
 about 40 kilometers per hour.");
         MsgDisp("主人公","I see.
-Then if you could beat a dog, ｛颯砂＊＊｝
+Then if you could beat a dog, ｛Sassa＊＊｝
 could be world champion.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -105,7 +105,7 @@ compete against the dog everyday.");
         MsgDisp("Sassa","Then you'll have to join us for the
 morning walks.
 As a witness.");
-        MsgDisp("主人公","(Hehe, walking with ｛颯砂＊＊｝ and a
+        MsgDisp("主人公","(Hehe, walking with ｛Sassa＊＊｝ and a
 doggy every morning...seems fun.)");
         break ;
         default :

@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("F110510002_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
+MsgDisp("主人公","Oh, ｛Hiiragi＊＊＊｝.
 Information desk this year?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -59,7 +59,7 @@ MsgDisp("Hiiragi","Understood.
 I will see you then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(The yakisoba ｛柊＊＊＊｝ recommends
+MsgDisp("主人公","(The yakisoba ｛Hiiragi＊＊＊｝ recommends
 sound good...Since it's our last year I
 have to wonder about the royal sauce
 yakisoba.)");

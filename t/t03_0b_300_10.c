@@ -1,12 +1,12 @@
 MsgClear();
-MsgDisp("","｛風真＊＊｝ Is going to a first-rate
-university. ｛本多＊＊｝ Is going to a
-first-rate university. ｛七ツ森＊｝ is
+MsgDisp("","｛Kazama＊＊｝ Is going to a first-rate
+university. ｛Honda＊＊｝ Is going to a
+first-rate university. ｛Nanatsumori＊｝ is
 going to a vocational school.");
 MsgClear();
-MsgDisp("","｛風真＊＊｝ and ｛本多＊＊｝ are studying
+MsgDisp("","｛Kazama＊＊｝ and ｛Honda＊＊｝ are studying
 hard at top universities towards their
-futures. ｛七ツ森＊｝ is studying video
+futures. ｛Nanatsumori＊｝ is studying video
 production skills at a vocational school.");
 MsgDisp("","When the three of them start talking about
 their individual studies, the conversation

@@ -69,7 +69,7 @@ man-eating sharks.");
 vibe. Get it? Even in normal
 circumstances, you're like a magnet, and
 the way you stand out...");
-        MsgDisp("主人公","｛風真＊＊｝?");
+        MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,4);
@@ -96,7 +96,7 @@ Especially today.");
         VoicePlay("B040106102_01_080");
         MsgDisp("Kazama","You understand?
 So leaving my side today is prohibited.");
-        MsgDisp("主人公","(Seems like ｛風真＊＊｝ is banning more
+        MsgDisp("主人公","(Seems like ｛Kazama＊＊｝ is banning more
 and more things these days...)");
         break ;
         default :

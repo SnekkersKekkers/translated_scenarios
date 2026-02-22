@@ -11,7 +11,7 @@ switch (ChPrmGet(4,6)){
     ChMouthOpenLevel(4,0);
     VoicePlay("N020400002_04_000");
     MsgDisp("Nanatsumori","...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChMotion(4,1,1);
     ChMouthOpenLevel(4,#1);
     VoicePlay("N020400002_04_010");
@@ -26,7 +26,7 @@ I've got to study harder.)");
     VoicePlay("N020400002_04_020");
     MsgDisp("Nanatsumori","Oh?
 I thought you'd be higher on the list.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChMotion(4,1,1);
     VoicePlay("N020400002_04_030");
     MsgDisp("Nanatsumori","Well, if you do well on school exams your
@@ -39,7 +39,7 @@ I've got to study harder.)");
     ChEye(4,2);
     VoicePlay("N020400002_04_040");
     MsgDisp("Nanatsumori","Oh?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,1,1);

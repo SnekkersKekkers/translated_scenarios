@@ -24,7 +24,7 @@ ChOpen(7,255,0,0,0,10,#1,0,0);
 VoicePlay("E010710100_07_020");
 MsgDisp("Mikage","Oh.
 There's a beauty over here too.");
-MsgDisp("主人公","Hello, ｛御影＊＊｝.
+MsgDisp("主人公","Hello, ｛Mikage＊＊｝.
 Are you a regular at that store?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -32,7 +32,7 @@ ChMotion(7,3);
 VoicePlay("E010710100_07_030");
 MsgDisp("Mikage","Oh, I often come here on my days off.
 The food they sell there is delicious.");
-MsgDisp("主人公","You live alone, right ｛御影＊＊｝?
+MsgDisp("主人公","You live alone, right ｛Mikage＊＊｝?
 Does it get lonely?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -54,7 +54,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
 MsgDisp("主人公","(Amazing...
-｛御影＊＊｝'s home is full of vegetables
+｛Mikage＊＊｝'s home is full of vegetables
 and plants!)");
 MsgClose();
 ScrFadeOut(0,0);

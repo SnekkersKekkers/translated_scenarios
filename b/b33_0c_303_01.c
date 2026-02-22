@@ -31,7 +31,7 @@ ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C30301_05_000");
 MsgDisp("Hiiragi","Ah...");
-MsgDisp("主人公","｛柊＊＊＊｝, are you alright?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you alright?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);

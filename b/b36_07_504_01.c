@@ -40,7 +40,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360750401_07_030");
 MsgDisp("Mikage","They are.");
-MsgDisp("主人公","｛御影＊＊｝, thank you.");
+MsgDisp("主人公","｛Mikage＊＊｝, thank you.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -61,7 +61,7 @@ ChEyeOpenLevel(7,8);
 VoicePlay("B360750401_07_060");
 MsgDisp("Mikage","Let's keep it a secret between us.");
 MsgDisp("主人公","(Thank you for bringing me,
-｛御影＊＊｝)");
+｛Mikage＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

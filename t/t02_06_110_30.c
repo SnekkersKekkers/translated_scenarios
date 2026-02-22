@@ -44,7 +44,7 @@ ChMouth(6,0);
 ChEyeOpenLevel(6,8);
 MsgDisp("Himuro","Though it seems that I won't be coming to
 this sea for a while now...");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 VoiceEVSPlay(6);
 VoicePlay("T020611000_06_220");
 ChEye(6,4);

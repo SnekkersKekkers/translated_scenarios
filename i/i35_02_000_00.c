@@ -8,7 +8,7 @@ switch (ChPrmGet(2,6)){
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
     MsgDisp("主人公","Welcome!
-Ah, ｛颯砂＊＊｝?");
+Ah, ｛Sassa＊＊｝?");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,3,0,4,#1,#1,0,0);
@@ -66,7 +66,7 @@ Not the coffee?)");
     case 3:
     SEPlay("EV_SE_DOOR_014");
     Wait(30,0);
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Welcome♪");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -129,7 +129,7 @@ entrance here. Come this way.");
     ChClose(2);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(｛颯砂＊＊｝ likes Alucard, right...?)");
+    MsgDisp("主人公","(｛Sassa＊＊｝ likes Alucard, right...?)");
     break ;
     case 4:
     case 5:
@@ -142,7 +142,7 @@ entrance here. Come this way.");
     VoicePlay("I350200000_02_130");
     MsgDisp("Sassa","H, huh...");
     MsgDisp("主人公","What is it?
-｛颯砂＊＊｝.");
+｛Sassa＊＊｝.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -179,7 +179,7 @@ I'm seriously sick.");
     SEWait();
     SEPlay("EV_SE_DOOR_014");
     MsgDisp("主人公","(He left...
-I wonder what ｛颯砂＊＊｝ was thinking
+I wonder what ｛Sassa＊＊｝ was thinking
 while running?)");
     break ;
     default :

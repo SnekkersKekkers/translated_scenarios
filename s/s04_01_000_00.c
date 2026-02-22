@@ -5,11 +5,11 @@ switch (ChPrmGet(1,6)){
     case 3:
     SEPlay("EV_SE_579");
     MsgDisp("主人公","Oh, a phone call.
-It's from ｛風真＊＊｝.");
+It's from ｛Kazama＊＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
-    MsgDisp("主人公","Hello, ｛風真＊＊｝?");
+    MsgDisp("主人公","Hello, ｛Kazama＊＊｝?");
     VoicePlay("S040100000_01_000");
     MsgDisp("Kazama","Happy New Year.");
     MsgDisp("主人公","Hehe, Happy New Year.");
@@ -55,7 +55,7 @@ Did I do something wrong...)");
     case 5:
     SEPlay("EV_SE_579");
     MsgDisp("主人公","Huh?
-It's ｛風真＊＊｝.");
+It's ｛Kazama＊＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();

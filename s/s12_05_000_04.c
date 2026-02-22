@@ -39,7 +39,7 @@ See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ is studying and working
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is studying and working
 hard...
 I have to try hard too.)");
     BGMStop();

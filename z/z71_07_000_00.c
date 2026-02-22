@@ -24,7 +24,7 @@ SEPlay("EV_SE_GAYA_017");
 SEPlay("EV_SE_863",0,0.6);
 Wait(30,1);
 MsgDisp("主人公","(Ah!
-｛御影＊＊｝ is my homeroom teacher
+｛Mikage＊＊｝ is my homeroom teacher
 again this year!?)");
 VoicePlay("Z710700000_44_000");
 MsgDisp("School Girl A","Even though the overalls were cool.");
@@ -122,7 +122,7 @@ SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863",0,0.6);
 SEPlay("EV_SE_864",0,0.9);
 MsgDisp("主人公","(Hehe!
-｛御影＊＊｝ is super popular.)");
+｛Mikage＊＊｝ is super popular.)");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -140,7 +140,7 @@ ChClose(7);
 Wait(60);
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛御影＊＊｝ is my teacher again this
+MsgDisp("主人公","(｛Mikage＊＊｝ is my teacher again this
 year.
 My second year is going to be fun!)");
 MsgClose();

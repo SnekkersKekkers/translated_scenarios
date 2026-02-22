@@ -43,7 +43,7 @@ footprints.");
 it doesn't just disappear. Even if it's
 invisible. So you can just redo it over
 the old copy.");
-        MsgDisp("主人公","Umm, ｛風真＊＊｝, what's wrong?");
+        MsgDisp("主人公","Umm, ｛Kazama＊＊｝, what's wrong?");
         ChEye(1,4);
         ChMouth(1,4);
         ChMotion(1,1);
@@ -72,7 +72,7 @@ sand. You get it?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040106302_01_070");
         MsgDisp("Kazama","Alright, good.");
-        MsgDisp("主人公","(｛風真＊＊｝, you must really cherish the
+        MsgDisp("主人公","(｛Kazama＊＊｝, you must really cherish the
 memories we have together, huh.)");
         break ;
         default :

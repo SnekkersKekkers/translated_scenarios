@@ -1,5 +1,5 @@
 MsgDisp("主人公","Recently, you've been talking to
-｛御影＊＊｝ a lot.");
+｛Mikage＊＊｝ a lot.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -32,7 +32,7 @@ VoicePlay("B070600002_06_120");
 MsgDisp("Himuro","Despite that, he's so friendly it's
 seriously annoying...");
 MsgDisp("主人公","Hehe.
-You like ｛御影＊＊｝ don't you?");
+You like ｛Mikage＊＊｝ don't you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -56,7 +56,7 @@ MsgDisp("Himuro","I feel like he's always looking after us.
 I'm sure Reiichi has a hard time with
 that.");
 MsgDisp("主人公","(He may say those things but I think
-｛氷室＊＊｝ trusts ｛御影＊＊｝)");
+｛Himuro＊＊｝ trusts ｛Mikage＊＊｝)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -58,7 +58,7 @@ I do that on a regular basis.");
         MsgDisp("Nanatsumori","I don't...jog everyday though.
 If it's necessary for work, I'll also go
 to the gym.");
-        MsgDisp("主人公","｛七ツ森＊｝, you're amazing.");
+        MsgDisp("主人公","｛Nanatsumori＊｝, you're amazing.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);
@@ -89,7 +89,7 @@ Dash!");
         ChClose(4,0,30);
         SEPlay("EV_SE_FOOT_005",1);
         MsgDisp("主人公","Eh∋
-｛七ツ森＊｝, wait up～!");
+｛Nanatsumori＊｝, wait up～!");
         SEPlay("EV_SE_FOOT_007",0.25);
         SEWait();
         VoicePlay("B040408402_04_110");

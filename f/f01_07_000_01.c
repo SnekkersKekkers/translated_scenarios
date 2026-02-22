@@ -2,7 +2,7 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛御影＊＊｝.");
+    MsgDisp("主人公","｛Mikage＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,254,1,2,0,#1,#1,0,0);
@@ -17,7 +17,7 @@ Do something else.");
 I definitely shouldn't call him that...)");
     break ;
     case 3:
-    MsgDisp("主人公","｛御影＊＊｝.");
+    MsgDisp("主人公","｛Mikage＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,254,3,2,3,0,#1,0,0);
@@ -33,7 +33,7 @@ I definitely shouldn't call him that.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛御影＊＊｝.");
+    MsgDisp("主人公","｛Mikage＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,254,2,2,0,#1,#1,0,0);

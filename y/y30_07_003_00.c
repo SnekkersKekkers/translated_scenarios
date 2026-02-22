@@ -22,7 +22,7 @@ that, it is divine to look at.");
 MsgClear();
 SEPlay("EV_SE_627",0,0.6);
 SEWait();
-MsgDisp("主人公","\"Ah, ｛御影＊＊｝!
+MsgDisp("主人公","\"Ah, ｛Mikage＊＊｝!
 What are you planting?\"");
 MsgDisp("","Perfect timing.
 It's funny, since this kid has those
@@ -58,7 +58,7 @@ I naturally unintentionally smile.");
 MsgDisp("","That's the kind of girl she is.");
 MsgClear();
 MsgDisp("主人公","\"I planted them next to
-｛御影＊＊｝'s bulbs.'\"");
+｛Mikage＊＊｝'s bulbs.'\"");
 VoicePlay("Y300700300_07_030");
 MsgDisp("Mikage","\"Uh-huh. When they bloom, we can tell
 our fortunes based off the colour of

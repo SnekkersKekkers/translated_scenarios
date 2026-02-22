@@ -41,7 +41,7 @@ SEWait();
 VoicePlay("G020410000_04_060");
 MsgDisp("Nanatsumori","We'd just stare at each other's eyes.");
 MsgDisp("主人公","(Woah...
-｛七ツ森＊｝'s face is really close!)");
+｛Nanatsumori＊｝'s face is really close!)");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410000_04_070");
@@ -51,7 +51,7 @@ ChEye(4,4);
 ChEyeOpenLevel(4,10);
 VoicePlay("G020410000_04_080");
 MsgDisp("Nanatsumori","I can't take my eyes off you.");
-MsgDisp("主人公","(｛七ツ森＊｝, you're being bolder than
+MsgDisp("主人公","(｛Nanatsumori＊｝, you're being bolder than
 usual∋
 Now I'm nervous too...)");
 BGMStop();

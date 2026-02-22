@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛七ツ森＊｝ is late...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ is late...)");
 ChPosition(4,0);
 switch (ChPrmGet(4,6)){
     case 0:

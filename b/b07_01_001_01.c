@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛風真＊＊｝, recently you've been talking
-to ｛颯砂＊＊｝ often haven't you?");
+MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking
+to ｛Sassa＊＊｝ often haven't you?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -36,7 +36,7 @@ VoicePlay("B070100001_01_050");
 MsgDisp("Kazama","Even though there were easier targets than
 me.
 For some reason he only chased me.");
-MsgDisp("主人公","｛颯砂＊＊｝ really likes ｛風真＊＊｝
+MsgDisp("主人公","｛Sassa＊＊｝ really likes ｛Kazama＊＊｝
 doesn't he?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -56,7 +56,7 @@ VoicePlay("B070100001_01_070");
 MsgDisp("Kazama","Oi, it's no laughing matter.
 It's horrific to have someone quicker than
 you chase you whilst laughing.");
-MsgDisp("主人公","(｛風真＊＊｝, you really do remember the
+MsgDisp("主人公","(｛Kazama＊＊｝, you really do remember the
 past well.)");
 BGMStop();
 MsgClose();

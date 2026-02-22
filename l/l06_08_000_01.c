@@ -7,7 +7,7 @@ ChOpen(8,254,0,0,4,#1,#1,4,0);
 VoiceEVSPlay(8);
 VoicePlay("L060800001_08_000");
 MsgDisp("Shirahane","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛大地＊＊｝!
+MsgDisp("主人公","Ah, ｛Daichi＊＊｝!
 What's up?");
 ChEye(8,3);
 ChMouth(8,4);
@@ -67,5 +67,5 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(8);
 MsgDisp("主人公","(I got a White Day present from
-｛大地＊＊｝!
+｛Daichi＊＊｝!
 I'm so happy.)");

@@ -50,7 +50,7 @@ ChMotion(7,1);
 VoicePlay("G110700804_07_040");
 MsgDisp("Mikage","Phew...
 Don't make me cry so much...");
-MsgDisp("主人公","(Ehh∋ tears in ｛御影＊＊｝'s eyes...?)");
+MsgDisp("主人公","(Ehh∋ tears in ｛Mikage＊＊｝'s eyes...?)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(7,0,1,1,0,0);
@@ -76,7 +76,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 MsgDisp("Mikage","That's right.
 Who do you think made me cry?");
-MsgDisp("主人公","(Yay, ｛御影＊＊｝ praised me!
+MsgDisp("主人公","(Yay, ｛Mikage＊＊｝ praised me!
 I'm glad I worked hard in the gardening
 club.)");
 BGMStop();

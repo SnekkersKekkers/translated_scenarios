@@ -88,7 +88,7 @@ ChMotion(3,0);
 VoicePlay("E010520200_03_070");
 MsgDisp("Honda","After that, Yano-kun told me I should ask
 them questions instead.");
-MsgDisp("主人公","As expected of ｛柊＊＊＊｝.");
+MsgDisp("主人公","As expected of ｛Hiiragi＊＊＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -125,8 +125,8 @@ VoicePlay("E010520200_05_080");
 MsgDisp("Hiiragi","Hmmm...quizzes and drama...
 Couldn't that lead to something
 interesting?");
-MsgDisp("主人公","(It seems that ｛柊＊＊＊｝ and
-｛本多＊＊｝ can work well together.)");
+MsgDisp("主人公","(It seems that ｛Hiiragi＊＊＊｝ and
+｛Honda＊＊｝ can work well together.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

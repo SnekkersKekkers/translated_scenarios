@@ -83,7 +83,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_070");
 MsgDisp("Himuro","...Is that so.");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -91,7 +91,7 @@ VoicePlay("P240601000_06_080");
 MsgDisp("Himuro","Well, if I were Hikoboshi, even after I
 met Orihime, I wouldn't become
 undisciplined.");
-MsgDisp("主人公","Hehe, that's just like you, ｛氷室＊＊｝.");
+MsgDisp("主人公","Hehe, that's just like you, ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -111,7 +111,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 Wait(30);
-MsgDisp("主人公","(｛氷室＊＊｝...?)");
+MsgDisp("主人公","(｛Himuro＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("I150300000_03_000");
     MsgDisp("Honda","Ah, I thought so.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝?
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝?
 Welcome.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -34,7 +34,7 @@ attract customers.");
     VoicePlay("I150300000_03_030");
     MsgDisp("Honda","Well, see you!");
     MsgDisp("主人公","(Huh, that's it?
-Did ｛本多＊＊｝ just come to cheer me on?)");
+Did ｛Honda＊＊｝ just come to cheer me on?)");
     break ;
     case 3:
     ChEye(3,0);
@@ -42,7 +42,7 @@ Did ｛本多＊＊｝ just come to cheer me on?)");
     ChMotion(3,0,1);
     VoicePlay("I150300000_03_040");
     MsgDisp("Honda","Hi there.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝, welcome.
 Are you looking for something?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -81,7 +81,7 @@ liked!)");
     VoicePlay("I150300000_03_090");
     MsgDisp("Honda","｛主人公｝.
 You here?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝, welcome.
 What is it today?");
     ChEye(3,4);
     ChMotion(3,3,1);
@@ -120,7 +120,7 @@ Thanks!");
     MsgDisp("Honda","No problem!
 Well, keep up the good work.");
     MsgDisp("主人公","(...Hm? Did he really just come here to
-give me advice? ｛本多＊＊｝ is so kind...)");
+give me advice? ｛Honda＊＊｝ is so kind...)");
     break ;
     default :
     DbgAssert(1);

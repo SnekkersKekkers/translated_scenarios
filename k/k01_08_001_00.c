@@ -5,7 +5,7 @@ switch (ChPrmGet(8,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛大地＊＊｝!");
+    MsgDisp("主人公","｛Daichi＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -32,7 +32,7 @@ I'm so happy, can I open it?");
     MsgDisp("主人公","Of course!");
     break ;
     case 3:
-    MsgDisp("主人公","｛大地＊＊｝!");
+    MsgDisp("主人公","｛Daichi＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -43,7 +43,7 @@ I'm so happy, can I open it?");
     MsgDisp("Shirahane","｛主人公｝.
 What's the matter?");
     MsgDisp("主人公","It's your birthday today, right,
-｛大地＊＊｝?");
+｛Daichi＊＊｝?");
     ChEye(8,0);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -63,7 +63,7 @@ Can I open 'er up right here?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛大地＊＊｝!");
+    MsgDisp("主人公","｛Daichi＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -72,7 +72,7 @@ Can I open 'er up right here?");
     VoicePlay("K010800100_08_060");
     MsgDisp("Shirahane","...! W-What's the matter?");
     MsgDisp("主人公","Today is your birthday, right,
-｛大地＊＊｝?
+｛Daichi＊＊｝?
 I brought you a present.");
     SEPlay("EV_SE_664");
     SEWait();

@@ -7,7 +7,7 @@ ChNanaType(0);
 ChOpen(4,254,0,2,5,#1,#1,0,0);
 VoicePlay("F100420001_04_000");
 MsgDisp("Nanatsumori","Woah...");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 You look a bit tired.");
 ChEye(4,4);
 ChMouth(4,2);
@@ -19,7 +19,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F100420001_04_020");
 MsgDisp("Nanatsumori","Himuro-kun is amazing.");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChPosition(4,1);
 MsgClose();
 SEPlay("EV_SE_544");
@@ -29,7 +29,7 @@ VoicePlay("F100420001_06_000");
 MsgDisp("Himuro","Minoru-senpai, thanks for yesterday...no,
 thanks for this morning.");
 MsgDisp("主人公","Ah...
-｛氷室＊＊｝ also seems sleepy huh?");
+｛Himuro＊＊｝ also seems sleepy huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

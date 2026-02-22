@@ -104,7 +104,7 @@ ChClose(7,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(7,255,7,2,0,#1,#1,0,0,0,30);
-MsgDisp("主人公","That's too bad, ｛御影＊＊｝.");
+MsgDisp("主人公","That's too bad, ｛Mikage＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -113,7 +113,7 @@ MsgDisp("Mikage","Yeah, good luck to the both of us, yeah?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(I'm also not really good with
-rollercoasters...but ｛御影＊＊｝ might
+rollercoasters...but ｛Mikage＊＊｝ might
 be worse?)");
 BGMStop();
 MsgClose();

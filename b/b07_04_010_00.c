@@ -38,7 +38,7 @@ ChMouth(4,0);
 VoicePlay("B070401000_04_050");
 MsgDisp("Nanatsumori","Even after I said all this, you seriously
 don't know what's going on in my mind?");
-MsgDisp("主人公","...｛七ツ森＊｝?");
+MsgDisp("主人公","...｛Nanatsumori＊｝?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
@@ -73,7 +73,7 @@ VoicePlay("B070401000_04_100");
 MsgDisp("Nanatsumori","All the answers of love and romance in my
 head, I'll tell you by the time we
 graduate, so be prepared.");
-MsgDisp("主人公","(｛七ツ森＊｝'s eyes are serious...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝'s eyes are serious...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

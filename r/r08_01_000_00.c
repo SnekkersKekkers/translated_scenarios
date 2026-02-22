@@ -7,7 +7,7 @@ VoicePlay("R080100000_01_000");
 VoiceEVSPlay(1);
 MsgDisp("Kazama","Okay, enjoy the Christmas party until the
 end, ｛主人公｝.");
-MsgDisp("主人公","Huh, what about you, ｛風真＊＊｝?");
+MsgDisp("主人公","Huh, what about you, ｛Kazama＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -113,7 +113,7 @@ BGOpen("sc770",2);
 ScrFadeIn(0);
 MsgDisp("主人公","(So much for the last High School party.
 Yeah, I guess I had fun...)");
-MsgDisp("主人公","(｛風真＊＊｝, are you working hard all by
+MsgDisp("主人公","(｛Kazama＊＊｝, are you working hard all by
 yourself these days...?)");
 MsgClose();
 ScrFadeOut(0,0);
@@ -128,7 +128,7 @@ MsgDisp("Kazama?","Welcome.");
 MsgClose();
 BGOpen("bh130",0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛風真＊＊｝...?");
+MsgDisp("主人公","｛Kazama＊＊｝...?");
 VoicePlay("R080100000_01_050");
 MsgDisp("Kazama","Y-You...");
 MsgClose();
@@ -142,7 +142,7 @@ ScrFadeIn(0);
 VoicePlay("R080100000_01_060");
 MsgDisp("Kazama","...Welcome.
 Can I help you?");
-MsgDisp("主人公","Hehe, yes you can. ｛風真＊＊｝, thank you
+MsgDisp("主人公","Hehe, yes you can. ｛Kazama＊＊｝, thank you
 for the lovely glove box. I didn't thank
 you earlier.");
 StlEyeOpenLevel(1,5,1);
@@ -231,7 +231,7 @@ ChMouth(1,3);
 ChMotion(1,7);
 ChCheek(1,7);
 ScrFadeIn(0,30);
-MsgDisp("主人公","｛風真＊＊｝, on my forehead...");
+MsgDisp("主人公","｛Kazama＊＊｝, on my forehead...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

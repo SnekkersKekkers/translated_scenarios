@@ -36,7 +36,7 @@ He seemed to like it!)");
     MsgDisp("Nanatsumori","Ah, this is handmade.
 Nice, nice.");
     MsgDisp("主人公","I hope it suits your tastes,
-｛七ツ森＊｝...");
+｛Nanatsumori＊｝...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1);
@@ -69,7 +69,7 @@ He seemed really happy!)");
     MsgDisp("Nanatsumori","I did it.
 Handmade chocolate, get.");
     MsgDisp("主人公","I tried making it to your liking,
-｛七ツ森＊｝...
+｛Nanatsumori＊｝...
 How is it?");
     ChEye(4,0);
     ChMouth(4,3);

@@ -6,7 +6,7 @@ VoiceEVSPlay(4);
 VoicePlay("G020410001_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
 MsgDisp("主人公","Yes?
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
 VoicePlay("G020410001_04_010");
 MsgDisp("Nanatsumori","Do you have someone you like?");
 MsgDisp("主人公","Huh?");

@@ -9,7 +9,7 @@ VoicePlay("T020200022_02_000");
 MsgDisp("Sassa","Wait.
 That ...hug∋");
 MsgDisp("主人公","Yes.
-I also like ｛颯砂＊＊｝.");
+I also like ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -17,7 +17,7 @@ VoicePlay("T020200022_02_010");
 MsgDisp("Sassa","Really, I'm so happy");
 MsgDisp("主人公","I was also happy to have had the
 opportunity to pursue my dream alongside
-｛颯砂＊＊｝ for three years.");
+｛Sassa＊＊｝ for three years.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);

@@ -10,7 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, do your best!");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, do your best!");
 SEPlay("EV_SE_086");
 Wait(15,1);
 SEPlay("EV_SE_869");
@@ -27,7 +27,7 @@ SEPlay("EV_SE_869");
 SEPlay("EV_SE_061",0.5);
 SEWait();
 MsgDisp("主人公","Waa, amazing!
-｛柊＊＊＊｝, that's two in a row!");
+｛Hiiragi＊＊＊｝, that's two in a row!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -47,7 +47,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(30,0);
 ChOpen(5,255,0,0,4,#1,#1,0,3);
 SEWait();
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 You got bullseye twice in a row.");
 ChEye(5,4);
 VoicePlay("B330C30500_05_000");
@@ -67,7 +67,7 @@ MsgDisp("Mikage","｛主人公｝, you're in demand.");
 ChEye(5,4);
 ChMouth(5,4);
 MsgDisp("主人公","Umm...
-｛氷室＊＊｝, do your best?");
+｛Himuro＊＊｝, do your best?");
 SEPlay("EV_SE_086");
 Wait(15,1);
 SEPlay("EV_SE_087");
@@ -76,7 +76,7 @@ VoicePlay("B330C30500_06_030");
 MsgDisp("Himuro","It's a bit off.
 Do it again.");
 MsgDisp("主人公","Ehh?
-｛氷室＊＊｝, do your best?
+｛Himuro＊＊｝, do your best?
 ...Is that okay?");
 SEPlay("EV_SE_086");
 Wait(15,1);

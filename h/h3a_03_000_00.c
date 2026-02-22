@@ -7,7 +7,7 @@ ChEye(3,3);
 ChMouth(3,0);
 ChMotion(3,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛本多＊＊｝!");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

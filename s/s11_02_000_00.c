@@ -3,7 +3,7 @@ ChMouthOpenLevel(2,#1);
 ChCheek(2,0);
 SEPlay("EV_SE_836");
 SEWait();
-MsgDisp("主人公","｛颯砂＊＊｝, what does it say?");
+MsgDisp("主人公","｛Sassa＊＊｝, what does it say?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

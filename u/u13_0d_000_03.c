@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛七ツ森＊｝, I guess...");
+MsgDisp("主人公","｛Nanatsumori＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -50,7 +50,7 @@ Did Mari cause that?");
     MsgDisp("Hikaru","Aha▼ Minoru-kun isn't as strong-willed as
 he lets on. Fight for it, Mari!");
     StlEye(22,0);
-    MsgDisp("主人公","(Did I influence ｛七ツ森＊｝?
+    MsgDisp("主人公","(Did I influence ｛Nanatsumori＊｝?
 I hope it was a change in the right
 direction...)");
     break ;
@@ -85,7 +85,7 @@ has become more friendly with the staff.");
     MsgDisp("Hikaru","You know, and when the staff make comments
 about his girlfriend, he starts blushing!
 Super cute～♪");
-    MsgDisp("主人公","｛七ツ森＊｝ is?
+    MsgDisp("主人公","｛Nanatsumori＊｝ is?
 That's hard to believe...");
     StlEye(22,0);
     StlCheek(22,0);
@@ -98,7 +98,7 @@ reborn in a sense.
 In a good way, of course.");
     MsgDisp("主人公","(I see.
 But what in the world did I do to help
-｛七ツ森＊｝?)");
+｛Nanatsumori＊｝?)");
     break ;
     default :
     DbgAssert(1);

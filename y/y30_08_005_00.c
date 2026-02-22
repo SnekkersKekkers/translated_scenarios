@@ -88,7 +88,7 @@ MsgClear();
 MsgDisp("","As the crowd thinned out, I heard a
 familiar set of footsteps
 approachin'.");
-MsgDisp("主人公","\"｛大地＊＊｝, what are you doing
+MsgDisp("主人公","\"｛Daichi＊＊｝, what are you doing
 here?\"");
 VoicePlay("Y300800500_08_030");
 MsgDisp("Daichi","\"I thought it would be nice to see

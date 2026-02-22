@@ -14,7 +14,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(3,255,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","｛御影＊＊｝, ｛本多＊＊｝.
+MsgDisp("主人公","｛Mikage＊＊｝, ｛Honda＊＊｝.
 What are you two talking about?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -52,7 +52,7 @@ MsgDisp("Honda","Yeah!
 The magnification is 1000 times∈ It's
 amazing, you definitely have to see!");
 MsgDisp("主人公","Hehe.
-｛本多＊＊｝, I'm happy for you.");
+｛Honda＊＊｝, I'm happy for you.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -100,7 +100,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Me, a subject of ｛本多＊＊｝'s research?
+MsgDisp("主人公","(Me, a subject of ｛Honda＊＊｝'s research?
 There's no way...)");
 MsgClose();
 ScrFadeOut(0,0);

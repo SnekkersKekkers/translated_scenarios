@@ -45,7 +45,7 @@ Wait(30,0);
 ChOpen(5,40,4,2,2,0,#1,0,0);
 VoicePlay("D010500300_05_020");
 MsgDisp("Hiiragi","......");
-MsgDisp("主人公","...｛柊＊＊＊｝?");
+MsgDisp("主人公","...｛Hiiragi＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,5);
@@ -60,7 +60,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(5);
 SEWait();
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝!");
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!");
 MsgClose();
 ScrFadeOut(0,0);
 EnvAutoSet(0);
@@ -69,7 +69,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(｛柊＊＊＊｝, where did you go?
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, where did you go?
 You don't seem okay at all...)");
 VoicePlay("D010500300_05_050");
 MsgDisp("Hiiragi?","...*Sobbing noises*");
@@ -83,7 +83,7 @@ StlMouth(5,1);
 BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 EnvPlay("SE_ENV_BG_AD006_CO1",1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 StlEyeOpenLevel(5,10,1);
 VoicePlay("D010500300_05_060");
 MsgDisp("Hiiragi","!");
@@ -117,7 +117,7 @@ StlMouth(5,1);
 VoicePlay("D010500300_05_120");
 MsgDisp("Hiiragi","...Hah, my apologies...
 Am I that way to you too?");
-MsgDisp("主人公","Of course not. ｛柊＊＊＊｝ is always
+MsgDisp("主人公","Of course not. ｛Hiiragi＊＊＊｝ is always
 working hard for everyone's sake, the
 Student Council and the Theater Company.");
 StlEyeOpenLevel(5,5);
@@ -152,7 +152,7 @@ VoicePlay("D010500300_05_160");
 MsgDisp("Hiiragi","Please try to forget today.
 If you don't, I don't know how I can show
 my face to you again.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChMouth(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
@@ -162,7 +162,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝ seemed really upset...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seemed really upset...)");
 MsgClose();
 ScrFadeOut(0,0);
 EnvAutoSet(1);

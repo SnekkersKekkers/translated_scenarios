@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛颯砂＊＊｝, what do you talk about when
-you're with ｛風真＊＊｝ and ｛氷室＊＊｝?");
+MsgDisp("主人公","｛Sassa＊＊｝, what do you talk about when
+you're with ｛Kazama＊＊｝ and ｛Himuro＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

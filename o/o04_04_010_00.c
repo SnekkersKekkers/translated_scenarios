@@ -6,7 +6,7 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     MsgDisp("主人公","My team is...
-Ah, it's ｛七ツ森＊｝.");
+Ah, it's ｛Nanatsumori＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -20,7 +20,7 @@ Let's do our best together!");
     break ;
     case 3:
     MsgDisp("主人公","My team is...
-Ah, it's ｛七ツ森＊｝.");
+Ah, it's ｛Nanatsumori＊｝.");
     MsgClose();
     SEPlay("EV_SE_625");
     SEWait();
@@ -48,7 +48,7 @@ Looking forward to it!");
     VoicePlay("O040401000_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.
 Looks like we're on the same team?");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 Looking forward to it!");
     ChEye(4,2);
     ChMouth(4,3);

@@ -9,7 +9,7 @@ VoiceEVSPlay(1);
 VoicePlay("F100140002_01_000");
 MsgDisp("Kazama","｛主人公｝.
 I solved the mystery of Sassa.");
-MsgDisp("主人公","Er, the mystery of ｛颯砂＊＊｝?");
+MsgDisp("主人公","Er, the mystery of ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -108,7 +108,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChPosition(1,0);
 Wait(60,0);
-MsgDisp("主人公","｛颯砂＊＊｝ bawling...
+MsgDisp("主人公","｛Sassa＊＊｝ bawling...
 Did something like that really happen?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -117,7 +117,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("F100140002_01_070");
 MsgDisp("Kazama","That's a matter for another time.
 For now, let's take our time.");
-MsgDisp("主人公","(｛風真＊＊｝, you'd be a great
+MsgDisp("主人公","(｛Kazama＊＊｝, you'd be a great
 detective...)");
 BGMStop();
 MsgClose();

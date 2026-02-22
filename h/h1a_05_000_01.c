@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("H1A0500001_05_000");
     MsgDisp("Hiiragi","Good work.
 It was a good match.");
-    MsgDisp("主人公","｛柊＊＊＊｝...
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 We lost.");
     ChEye(5,0);
     VoicePlay("H1A0500001_05_010");
@@ -34,7 +34,7 @@ hearts of the spectators.");
 scoreboard ended up reaching everyone's
 hearts.");
     MsgDisp("主人公","Yes...
-Thank you, ｛柊＊＊＊｝...");
+Thank you, ｛Hiiragi＊＊＊｝...");
     ChEye(5,3);
     VoicePlay("H1A0500001_05_040");
     MsgDisp("Hiiragi","Your cherished peers are worrying for you.

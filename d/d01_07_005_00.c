@@ -23,7 +23,7 @@ It's no use.
 I don't get it...");
 VoicePlay("D010700500_07_000");
 MsgDisp("Mikage?","Which one?");
-MsgDisp("主人公","Ah, ｛御影＊＊｝!
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 What are you doing here?");
 MsgClose();
 SEPlay("EV_SE_544");
@@ -94,7 +94,7 @@ VoicePlay("D010700500_07_080");
 MsgDisp("Mikage","There's nothing wrong with that.
 It's a good thing, so keep trying your
 best.");
-MsgDisp("主人公","｛御影＊＊｝...
+MsgDisp("主人公","｛Mikage＊＊｝...
 You're right, thank you so much!");
 ChEye(7,0);
 ChMouth(7,0);
@@ -105,7 +105,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Thanks to ｛御影＊＊｝, I learned a few
+MsgDisp("主人公","(Thanks to ｛Mikage＊＊｝, I learned a few
 studying tricks!)");
 MsgClose();
 ScrFadeOut(0,0);

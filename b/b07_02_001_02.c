@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛颯砂＊＊｝ and ｛氷室＊＊｝ have been
+MsgDisp("主人公","｛Sassa＊＊｝ and ｛Himuro＊＊｝ have been
 hanging out a lot lately, huh?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -36,7 +36,7 @@ VoicePlay("B070200001_02_130");
 MsgDisp("Sassa","Inori is really good at getting into our
 good graces, I guess he's kind of an
 incredible guy?");
-MsgDisp("主人公","(｛颯砂＊＊｝ and ｛氷室＊＊｝ seem to be
+MsgDisp("主人公","(｛Sassa＊＊｝ and ｛Himuro＊＊｝ seem to be
 really good friends.)");
 BGMStop();
 MsgClose();

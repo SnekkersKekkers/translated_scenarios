@@ -20,7 +20,7 @@ switch (ChPrmGet(5,6)){
     VoiceEVSPlay(5);
     VoicePlay("H810000000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 I joined the student council today.
 Let's work well together.");
     ChEye(5,0);
@@ -36,7 +36,7 @@ Let's work well together.");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("I450500000_05_110");
     MsgDisp("Hiiragi","Good afternoon.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 I joined the student council today.
 I look forward to working with you!");
     ChEye(5,3);
@@ -62,7 +62,7 @@ I joined the student council t-");
     VoicePlay("F020500006_05_000");
     MsgDisp("Hiiragi","Yes, I am looking forward to it.");
     MsgDisp("主人公","Hehe!
-Let's work well together, ｛柊＊＊＊｝.");
+Let's work well together, ｛Hiiragi＊＊＊｝.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -71,7 +71,7 @@ Let's work well together, ｛柊＊＊＊｝.");
     VoicePlay("P810500000_05_020");
     MsgDisp("Hiiragi","｛主人公｝, let us both do our best.");
     MsgDisp("主人公","(Yes, for the sake of Haba High's morals,
-let's work hard with ｛柊＊＊＊｝!)");
+let's work hard with ｛Hiiragi＊＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

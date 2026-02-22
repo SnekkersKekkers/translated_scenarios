@@ -33,7 +33,7 @@ VoicePlay("K020101000_01_020");
 MsgDisp("Kazama","I would forget New Year's before I forget
 your birthday.");
 MsgDisp("主人公","Hehe.
-｛風真＊＊｝, thank you.");
+｛Kazama＊＊｝, thank you.");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(1,2);
@@ -62,7 +62,7 @@ MsgDisp("Kazama","Come on, you're thanking me again.
 See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(I went to the shrine with (｛風真＊＊｝,
+MsgDisp("主人公","(I went to the shrine with (｛Kazama＊＊｝,
 and even celebrated my birthday with him.
 It's a great start to the new year.)");
 MsgClose();

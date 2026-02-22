@@ -1,5 +1,5 @@
 MsgDisp("主人公","Recently it's been lively around you,
-｛氷室＊＊｝.");
+｛Himuro＊＊｝.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -52,9 +52,9 @@ ChMotion(6,0);
 VoicePlay("B070600002_06_220");
 MsgDisp("Himuro","...But I don't think it's a bad thing.
 I'm not going to kick them out now either.");
-MsgDisp("主人公","(I feel like ｛柊＊＊＊｝ and
-｛御影＊＊｝ are good relationships for
-｛氷室＊＊｝.)");
+MsgDisp("主人公","(I feel like ｛Hiiragi＊＊＊｝ and
+｛Mikage＊＊｝ are good relationships for
+｛Himuro＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

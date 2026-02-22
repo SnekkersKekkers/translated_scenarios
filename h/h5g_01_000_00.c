@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("H5G0100000_01_000");
 MsgDisp("Kazama","｛主人公｝, congrats.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝.
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 What's up?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -23,7 +23,7 @@ VoicePlay("H5G0100000_01_020");
 MsgDisp("Kazama","Correct.
 Then, once again.
 Congrats.");
-MsgDisp("主人公","Hehe, thanks ｛風真＊＊｝.");
+MsgDisp("主人公","Hehe, thanks ｛Kazama＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -53,7 +53,7 @@ MsgDisp("Kazama","Then I'll look forward to your solo
 concert.
 Got it, champion?");
 MsgDisp("主人公","Yeah, thanks!");
-MsgDisp("主人公","(Hehe, ｛風真＊＊｝ congratulated me!
+MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ congratulated me!
 I'm glad I practiced so hard for brass
 band!)");
 MsgClose();

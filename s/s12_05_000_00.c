@@ -78,7 +78,7 @@ Let me take you home.");
     MsgDisp("Hiiragi","There was a huge turnout.
 Are you tired at all?");
     MsgDisp("主人公","I'm fine.
-｛柊＊＊＊｝, are you used to so many
+｛Hiiragi＊＊＊｝, are you used to so many
 people at your performances?");
     ChEye(5,0);
     ChMotion(5,4);

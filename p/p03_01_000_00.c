@@ -18,7 +18,7 @@ come...)");
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P030100000_01_000");
     MsgDisp("Kazama","Seems like business is booming.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Welcome～!");
     ChEye(1,4);
     ChMouth(1,3);
@@ -61,7 +61,7 @@ come...)");
     VoiceEVSPlay(1);
     VoicePlay("P030100000_01_040");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Welcome.");
     ChEye(1,0);
     ChMouth(1,3);

@@ -3,7 +3,7 @@ ChMouthOpenLevel(2,#1);
 ChCheek(2,0);
 SEPlay("EV_SE_836");
 SEWait();
-MsgDisp("主人公","｛颯砂＊＊｝, what does it say?");
+MsgDisp("主人公","｛Sassa＊＊｝, what does it say?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -32,5 +32,5 @@ VoicePlay("S110200001_02_030");
 MsgDisp("Sassa","That's right. And I didn't wait for you, I
 went to your house and picked you up. It's
 completely wrong.");
-MsgDisp("主人公","(｛颯砂＊＊｝ is waiting for me...
+MsgDisp("主人公","(｛Sassa＊＊｝ is waiting for me...
 Hehe, somehow that makes me feel happy.)");

@@ -165,7 +165,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10800_01_050");
 MsgDisp("Kazama","Nice, Inori.");
-MsgDisp("主人公","(I feel like ｛風真＊＊｝ and ｛氷室＊＊｝
+MsgDisp("主人公","(I feel like ｛Kazama＊＊｝ and ｛Himuro＊＊｝
 are messing with us...)");
 BGMStop();
 MsgClose();

@@ -32,7 +32,7 @@ VoicePlay("G020530201_05_050");
 MsgDisp("Hiiragi","Yes, back in elementary school, we only
 played in the park...
 It was fun.");
-MsgDisp("主人公","(｛柊＊＊＊｝ didn't get to hang out with
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ didn't get to hang out with
 his friends much in elementary or middle
 school...I'm so happy for him!)");
 BGMStop();

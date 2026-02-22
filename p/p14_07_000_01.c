@@ -5,7 +5,7 @@ ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("P140700001_07_000");
 MsgDisp("Mikage","Hey hey, what was that?");
-MsgDisp("主人公","Eh, ｛御影＊＊｝?");
+MsgDisp("主人公","Eh, ｛Mikage＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);

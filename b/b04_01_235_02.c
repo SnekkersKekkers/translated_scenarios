@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040123502_01_000");
 MsgDisp("Kazama","Apparently these sorts of places attract
 spirits don't they?");
-MsgSel("There's a fleeing soldier behind ｛風真＊＊｝...","Then, they wouldn't need staff would they?","Eh, i-is that so...?");
+MsgSel("There's a fleeing soldier behind ｛Kazama＊＊｝...","Then, they wouldn't need staff would they?","Eh, i-is that so...?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){
@@ -44,7 +44,7 @@ warrior?");
         MsgDisp("Kazama","Right.
 Something that I would be even more scared
 of.");
-        MsgDisp("主人公","What are you scared of, ｛風真＊＊｝?");
+        MsgDisp("主人公","What are you scared of, ｛Kazama＊＊｝?");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,1);
@@ -52,7 +52,7 @@ of.");
         VoicePlay("B040123502_01_040");
         MsgDisp("Kazama","I won't tell you that easily.");
         MsgDisp("主人公","Eh, is there such a thing?
-I thought ｛風真＊＊｝ could do anything,
+I thought ｛Kazama＊＊｝ could do anything,
 and didn't have anything he was scared of.");
         ChEye(1,0);
         ChMouth(1,2);
@@ -82,13 +82,13 @@ you a special hint.");
         ChLayout(0);
         MsgClose();
         ChOpen(1,255,7,0,3,8,#1,0,0,0,30);
-        MsgDisp("主人公","｛風真＊＊｝, what's wrong?");
+        MsgDisp("主人公","｛Kazama＊＊｝, what's wrong?");
         ChEye(1,0);
         ChMouth(1,0);
         VoicePlay("B040123502_01_080");
         MsgDisp("Kazama","Look closely into my eyes.
 What do you see?");
-        MsgDisp("主人公","｛風真＊＊｝'s eyes...
+        MsgDisp("主人公","｛Kazama＊＊｝'s eyes...
 I can't see anything though.");
         ChEye(1,4);
         ChMouth(1,3);

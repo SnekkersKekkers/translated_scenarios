@@ -109,7 +109,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010330200_07_070");
 MsgDisp("Mikage","Right?");
-MsgDisp("主人公","(｛本多＊＊｝, good luck!
+MsgDisp("主人公","(｛Honda＊＊｝, good luck!
 I hope you can go to the new library
 soon!)");
 BGMStop();

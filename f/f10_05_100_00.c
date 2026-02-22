@@ -15,7 +15,7 @@ VoicePlay("F100510000_44_000");
 MsgDisp("School Girl B","What's up with Yanosuke-kun, I wonder...?
 Is he feeling unwell?");
 MsgDisp("主人公","(Eh...
-｛柊＊＊＊｝?)");
+｛Hiiragi＊＊＊｝?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -29,7 +29,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("F100510000_05_010");
 MsgDisp("Hiiragi","Ah, it is you.");
-MsgDisp("主人公","｛柊＊＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, what's wrong?");
 ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

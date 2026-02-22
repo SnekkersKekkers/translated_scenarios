@@ -7,7 +7,7 @@ BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","My school trip is coming up soon...
-What about you, ｛大地＊＊｝?");
+What about you, ｛Daichi＊＊｝?");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0);
@@ -28,5 +28,5 @@ VoicePlay("F020800013_08_020");
 MsgDisp("Shirahane","Hm?
 It's nothin'.");
 MsgDisp("主人公","(That's kind of an interesting way to put
-it...Won't ｛大地＊＊｝ be enjoying the
+it...Won't ｛Daichi＊＊｝ be enjoying the
 Hane High school trip?)");

@@ -47,7 +47,7 @@ I'm going t drink some other juice...");
 MsgClose();
 ChClose(2);
 Wait(30);
-MsgDisp("主人公","(｛颯砂＊＊｝, I'm sorry...
+MsgDisp("主人公","(｛Sassa＊＊｝, I'm sorry...
 I might not have blended it properly.
 A huge failure...)");
 MsgClose();

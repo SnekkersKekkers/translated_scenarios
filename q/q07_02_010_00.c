@@ -26,7 +26,7 @@ VoicePlay("Q070201000_02_000");
 MsgDisp("Sassa?","Hey, over here∈");
 MsgDisp("主人公","Eh?
 Ah...
-｛颯砂＊＊｝!");
+｛Sassa＊＊｝!");
 MsgClose();
 EnvAutoSet(0);
 EnvPlay("SE_ENV_BG_AD006_CO1",0,0.9);
@@ -98,7 +98,7 @@ StlMouth(2,1);
 VoicePlay("Q070201000_02_090");
 MsgDisp("Sassa","Is that poetic enough for me?");
 MsgDisp("主人公","Hehe, yes.
-Thanks, ｛颯砂＊＊｝.");
+Thanks, ｛Sassa＊＊｝.");
 StlEye(2,2);
 StlMouth(2,0);
 VoicePlay("Q070201000_07_000");
@@ -124,7 +124,7 @@ BGMStop(2);
 MsgClose();
 ScrFadeOut(0);
 Wait(30,0);
-MsgDisp("主人公","(｛颯砂＊＊｝...
+MsgDisp("主人公","(｛Sassa＊＊｝...
 Thank you for the pretty gift.)");
 MsgClose();
 EnvAutoSet(1);

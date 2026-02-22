@@ -21,7 +21,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","...Phew, thank goodness.
 I told you I'd take care of the heavy
 stuff, right?");
-    MsgDisp("主人公","｛本多＊＊｝, thanks...
+    MsgDisp("主人公","｛Honda＊＊｝, thanks...
 But I can't leave everything to you.");
     ChEye(3,1);
     ChMouth(3,4);
@@ -41,7 +41,7 @@ carelessness can lead to accidents.");
     MsgDisp("Honda","Then, leave the rest to me.
 I'll leave the cash register to you.");
     MsgDisp("主人公","(Haa...
-I made ｛本多＊＊｝ worry.)");
+I made ｛Honda＊＊｝ worry.)");
     break ;
     case 4:
     case 5:
@@ -98,7 +98,7 @@ easy.");
     MsgDisp("Honda","Ah, for payments, use the spare money and
 calculator in that drawer.");
     MsgDisp("主人公","Yeah...
-Thanks, ｛本多＊＊｝.");
+Thanks, ｛Honda＊＊｝.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -108,7 +108,7 @@ Thanks, ｛本多＊＊｝.");
 cry. The customers are waiting for your
 smile, so smile!");
     MsgDisp("主人公","(Haa...
-I made a lot of extra work for ｛本多＊＊｝.)");
+I made a lot of extra work for ｛Honda＊＊｝.)");
     break ;
     default :
     DbgAssert(1);

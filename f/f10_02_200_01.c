@@ -14,7 +14,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,4,#1,#1,0,1);
 ChOpen(5,254,0,0,4,#1,#1,0,2);
-MsgDisp("主人公","(Ah, ｛颯砂＊＊｝ and ｛柊＊＊＊｝.
+MsgDisp("主人公","(Ah, ｛Sassa＊＊｝ and ｛Hiiragi＊＊＊｝.
 That means...)");
 MsgDisp("主人公","Is this the hot spring club?");
 ChEye(2,0);
@@ -64,7 +64,7 @@ VoicePlay("F100220001_02_030");
 MsgDisp("Sassa","Well, next time, let's discuss our
 thoughts about these hot spring salts.");
 MsgDisp("主人公","Hehe, understood.
-｛柊＊＊＊｝, thank you.");
+｛Hiiragi＊＊＊｝, thank you.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

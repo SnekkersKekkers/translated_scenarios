@@ -16,7 +16,7 @@ VoicePlay("B070100002_01_400");
 MsgDisp("Kazama","You're always a bit dazed out, but thos
 was different?");
 MsgDisp("主人公","Hey.
-Maybe it's because I'm with ｛風真＊＊｝?");
+Maybe it's because I'm with ｛Kazama＊＊｝?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);

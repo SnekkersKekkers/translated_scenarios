@@ -43,7 +43,7 @@ match?");
     VoicePlay("X110100000_01_040");
     MsgDisp("Kazama","I don't know what the players think, but I
 think you're hitting it out of the park.");
-    MsgDisp("主人公","(｛風真＊＊｝ was pleased.
+    MsgDisp("主人公","(｛Kazama＊＊｝ was pleased.
 I'm glad I did my best as a manager!)");
     break ;
     default :

@@ -12,7 +12,7 @@ ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B360203101_02_000");
 MsgDisp("Sassa","Yeah, we can take our time here.");
-MsgDisp("主人公","｛颯砂＊＊｝, do you like aquariums that
+MsgDisp("主人公","｛Sassa＊＊｝, do you like aquariums that
 much?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -28,7 +28,7 @@ MsgDisp("Sassa","Honestly, I feel bad for the fish but, as
 long as I can be with you uninterrupted,
 anywhere is fine.");
 MsgDisp("主人公","Umm...
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
@@ -41,7 +41,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360203101_02_040");
 MsgDisp("Sassa","You're like a mermaid, isn't that great?");
-MsgDisp("主人公","(｛颯砂＊＊｝ seems to be in high
+MsgDisp("主人公","(｛Sassa＊＊｝ seems to be in high
 spirits...?)");
 BGMStop();
 MsgClose();

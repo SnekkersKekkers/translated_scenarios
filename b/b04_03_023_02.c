@@ -4,7 +4,7 @@ ChOpen(3,255,0,0,3,#1,#1,0,0);
 VoicePlay("B040302302_03_000");
 MsgDisp("Honda","Everyone is enjoying themselves in their
 own way, reading, running...");
-MsgSel("...and dating too.","｛本多＊＊｝, do you want to read too?","Let's go for a run!");
+MsgSel("...and dating too.","｛Honda＊＊｝, do you want to read too?","Let's go for a run!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -83,7 +83,7 @@ But hey, new discovery.");
         MsgDisp("Honda","My mind becomes clearer while running.
 Just the act of putting my legs forward
 leaves no room for unnecessary thoughts.");
-        MsgDisp("主人公","Hehe, yeah. ｛本多＊＊｝ you're always
+        MsgDisp("主人公","Hehe, yeah. ｛Honda＊＊｝ you're always
 thinking about all sorts of things, so
 running might be good for you.");
         ChEye(3,3);

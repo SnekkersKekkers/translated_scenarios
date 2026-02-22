@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040617002_06_000");
 MsgDisp("Himuro","...How do I say this, I'm surprised you
 never get tired of this.");
-MsgSel("Of course not! It's fun","Isn't it about time for you to sing too ｛氷室＊＊｝?","I put on \"Love Between the Waves\"!");
+MsgSel("Of course not! It's fun","Isn't it about time for you to sing too ｛Himuro＊＊｝?","I put on \"Love Between the Waves\"!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -63,7 +63,7 @@ together?");
         ChCheek(6,10);
         VoicePlay("B040617002_06_050");
         MsgDisp("Himuro","...I know it.");
-        MsgDisp("主人公","Eh! then I want to hear ｛氷室＊＊｝ sing
+        MsgDisp("主人公","Eh! then I want to hear ｛Himuro＊＊｝ sing
 all the more now.");
         ChEye(6,0);
         ChMouth(6,0);

@@ -44,7 +44,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020240002_02_060");
 MsgDisp("Sassa","...No.
 After all if so many of them were here...");
-MsgDisp("主人公","(Seeing that ｛颯砂＊＊｝ is scared of
+MsgDisp("主人公","(Seeing that ｛Sassa＊＊｝ is scared of
 ghosts is kind of cute...?)");
 BGMStop();
 MsgClose();

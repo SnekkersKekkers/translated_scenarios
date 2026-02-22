@@ -9,7 +9,7 @@ ChNanaType(0);
 ChOpen(4,254,0,1,0,#1,#1,0,0,0,60);
 VoicePlay("F100420000_04_000");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","｛七ツ森＊｝.
+MsgDisp("主人公","｛Nanatsumori＊｝.
 What are you looking at?");
 VoicePlay("F100420000_04_010");
 MsgDisp("Nanatsumori","Himuro-kun.");
@@ -21,7 +21,7 @@ VoicePlay("F100420000_04_020");
 MsgDisp("Nanatsumori","There is no way I would stare at Vice
 Principal Himuro.");
 MsgDisp("主人公","Y-Yeah.
-Why are you staring at ｛氷室＊＊｝?");
+Why are you staring at ｛Himuro＊＊｝?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -37,7 +37,7 @@ ChOpen(6,254,2,1,0,0,#1,0,2,0,60);
 VoicePlay("F100420000_06_000");
 MsgDisp("Himuro","What was up with you just now?");
 MsgDisp("主人公","Ah...
-｛氷室＊＊｝.");
+｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

@@ -52,8 +52,8 @@ MsgDisp("Himuro","I'll watch Yonosuke-senpai's heroic
 performance with my own eyes.");
 ChEye(5,3);
 ChMouth(5,2);
-MsgDisp("主人公","What's up with ｛氷室＊＊｝ and
-｛御影＊＊｝?");
+MsgDisp("主人公","What's up with ｛Himuro＊＊｝ and
+｛Mikage＊＊｝?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -106,7 +106,7 @@ MsgDisp("Hiiragi","Well, let's enjoy ourselves to the
 fullest?");
 MsgDisp("主人公","Yeah...!");
 MsgDisp("主人公","(I'm happy but, Is it really okay to leave
-｛氷室＊＊｝ and ｛御影＊＊｝ behind?)");
+｛Himuro＊＊｝ and ｛Mikage＊＊｝ behind?)");
 BGMStop();
 MsgClose();
 ChEye(5,0);

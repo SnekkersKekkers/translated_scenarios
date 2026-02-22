@@ -9,7 +9,7 @@ MsgDisp("Hiiragi","Our home field.
 The hometown festival.");
 MsgDisp("主人公","Yeah.
 Habataki City is now completely your home
-town, isn't it, ｛柊＊＊＊｝?");
+town, isn't it, ｛Hiiragi＊＊＊｝?");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
@@ -63,14 +63,14 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B040506402_05_060");
 MsgDisp("Hiiragi","Uh...");
 MsgDisp("主人公","Eh?
-｛柊＊＊＊｝, what's wrong?");
+｛Hiiragi＊＊＊｝, what's wrong?");
 ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040506402_05_070");
 MsgDisp("Hiiragi","Haaー I'm alright.
 I'm happy about everyone's feelings...");
-MsgDisp("主人公","｛柊＊＊＊｝...
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 That's good.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
@@ -89,7 +89,7 @@ MsgDisp("Hiiragi","Look, the fireworks display.
 It's starting now.
 Let's go!");
 MsgDisp("主人公","Y-Yeah.");
-MsgDisp("主人公","(｛柊＊＊＊｝, you've been recognized by
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you've been recognized by
 the people of Habataki City.
 That's good.)");
 MsgClose();

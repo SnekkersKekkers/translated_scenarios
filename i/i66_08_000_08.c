@@ -29,7 +29,7 @@ Time for us high schoolers to get home.");
     VoicePlay("I660800008_08_020");
     MsgDisp("Shirahane","Though I wanna stay with ya just a little
 longer.");
-    MsgDisp("主人公","Geez, ｛大地＊＊｝.
+    MsgDisp("主人公","Geez, ｛Daichi＊＊｝.
 Hehe!");
     ChEye(8,3);
     ChMouth(8,3);
@@ -72,7 +72,7 @@ Seems like it's calmed down a bit.");
     VoicePlay("I660800008_08_060");
     MsgDisp("Shirahane","｛主人公｝.
 Nice work t'day.");
-    MsgDisp("主人公","｛大地＊＊｝.
+    MsgDisp("主人公","｛Daichi＊＊｝.
 Ah...hehe!
 There's oil on your nose.");
     ChEye(8,5);

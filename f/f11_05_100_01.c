@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("F110510001_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","Oh, ｛柊＊＊＊｝.
+MsgDisp("主人公","Oh, ｛Hiiragi＊＊＊｝.
 Information desk again this year?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -15,7 +15,7 @@ VoicePlay("F110510001_05_010");
 MsgDisp("Hiiragi","Yes. In-between student council duties, I
 manage registration, booth validation, and
 sampling, too.");
-MsgDisp("主人公","What is ｛柊＊＊＊｝'s yakisoba
+MsgDisp("主人公","What is ｛Hiiragi＊＊＊｝'s yakisoba
 recommendation, then?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -57,7 +57,7 @@ VoicePlay("F110510001_05_060");
 MsgDisp("Hiiragi","If that is the case, try yakisoba.
 I will take you there.");
 MsgDisp("主人公","(Haha.
-｛柊＊＊＊｝ seems like he could go for
+｛Hiiragi＊＊＊｝ seems like he could go for
 yakisoba.)");
 MsgClose();
 ScrFadeOut(0,0);

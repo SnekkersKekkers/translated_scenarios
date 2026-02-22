@@ -28,7 +28,7 @@ MsgDisp("Himuro","Yeah.
 I thought you were reliable.
 As expected.");
 MsgDisp("主人公","(Yay!
-｛氷室＊＊｝ praised me!)");
+｛Himuro＊＊｝ praised me!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("H3A0400000_04_000");
     MsgDisp("Nanatsumori","You were cool.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 I won!");
     ChEye(4,0);
     ChMouth(4,3);
@@ -31,7 +31,7 @@ Today's the best day ever!)");
     VoiceEVSPlay(4);
     VoicePlay("H3A0400000_04_020");
     MsgDisp("Nanatsumori","｛主人公｝, good work.");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 I won, me!");
     ChEye(4,2);
     ChMouth(4,3);

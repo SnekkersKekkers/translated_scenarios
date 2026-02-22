@@ -13,7 +13,7 @@ ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B360603101_06_000");
 MsgDisp("Himuro","We're finally alone.");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -54,7 +54,7 @@ VoicePlay("B360603101_06_060");
 MsgDisp("Himuro","...But I don't want to be the kind of
 person that's so insensitive to say
 something like that.");
-MsgDisp("主人公","...｛氷室＊＊｝ did you not have enjoy?");
+MsgDisp("主人公","...｛Himuro＊＊｝ did you not have enjoy?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,5);

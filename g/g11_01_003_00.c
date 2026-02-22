@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
-MsgDisp("主人公","(Ah, a message from ｛風真＊＊｝. 
+MsgDisp("主人公","(Ah, a message from ｛Kazama＊＊｝. 
 \"Let's walk home together today\" huh...
 Okay let's prepare to go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -74,7 +74,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110100300_01_080");
 MsgDisp("Kazama","...Then, it's decided.");
-MsgDisp("主人公","(Huh? ｛風真＊＊｝...I wonder if he's
+MsgDisp("主人公","(Huh? ｛Kazama＊＊｝...I wonder if he's
 worried about not being able to go home
 with me last time...?)");
 BGMStop();

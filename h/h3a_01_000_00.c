@@ -15,7 +15,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H3A0100000_01_000");
     MsgDisp("Kazama","You won championships?
 Amazing.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 We did it!");
     ChEye(1,2);
     ChMouth(1,3);
@@ -47,7 +47,7 @@ I'm glad I practiced so much!)");
     MsgDisp("Kazama","Awesome.
 It felt like that stage was made just for
 you.");
-    MsgDisp("主人公","｛風真＊＊｝, you came to cheer for me!");
+    MsgDisp("主人公","｛Kazama＊＊｝, you came to cheer for me!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -84,7 +84,7 @@ Thanks!");
     MsgDisp("Kazama","Ah, I'm just telling you now, but don't go
 off too far on your own.
 I'll be in trouble if I can't reach you.");
-    MsgDisp("主人公","(Hehe, ｛風真＊＊｝ congratulated me!
+    MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ congratulated me!
 I'm glad I practiced so much!)");
     break ;
     default :

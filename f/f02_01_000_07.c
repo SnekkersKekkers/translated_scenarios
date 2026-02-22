@@ -6,7 +6,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ScrFadeIn(0);
 MsgDisp("主人公","It's almost summer break, you know.
-｛風真＊＊｝, do you have plans?");
+｛Kazama＊＊｝, do you have plans?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -21,7 +21,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100007_01_010");
 MsgDisp("Kazama","Too normal.");
-MsgDisp("主人公","Then, what does ｛風真＊＊｝ want?");
+MsgDisp("主人公","Then, what does ｛Kazama＊＊｝ want?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);
@@ -48,5 +48,5 @@ ChMotion(1,3);
 VoicePlay("F020100007_01_040");
 MsgDisp("Kazama","Right?
 I wonder, what's the best way to do it...");
-MsgDisp("主人公","(｛風真＊＊｝, are you seriously thinking
+MsgDisp("主人公","(｛Kazama＊＊｝, are you seriously thinking
 about it?)");

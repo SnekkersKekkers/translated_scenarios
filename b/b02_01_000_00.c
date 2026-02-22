@@ -13,5 +13,5 @@ MsgDisp("Kazama","That look you have on. You could say that
 it suits you...It fits you well. It's
 proof you know what looks good on
 yourself.");
-MsgDisp("主人公","(｛風真＊＊｝ complimented my outfit!
+MsgDisp("主人公","(｛Kazama＊＊｝ complimented my outfit!
 I'm glad I chose to wear it!)");

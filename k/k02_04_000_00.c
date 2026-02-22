@@ -13,7 +13,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("K020400000_04_000");
 MsgDisp("Nanatsumori","Evening.");
-MsgDisp("主人公","｛七ツ森＊｝!?
+MsgDisp("主人公","｛Nanatsumori＊｝!?
 Um, what's up?");
 ChEye(4,2);
 ChMouth(4,3);
@@ -28,7 +28,7 @@ ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("K020400000_04_020");
 MsgDisp("Nanatsumori","｛主人公｝, happy birthday.");
-MsgDisp("主人公","Thank you, ｛七ツ森＊｝.");
+MsgDisp("主人公","Thank you, ｛Nanatsumori＊｝.");
 ChMotion(4,1,1);
 VoicePlay("K020400000_04_030");
 MsgDisp("Nanatsumori","And...here.
@@ -57,6 +57,6 @@ BGMStop();
 MsgClose();
 ChClose(4,0,30);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛七ツ森＊｝!)");
+MsgDisp("主人公","(I got a present from ｛Nanatsumori＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

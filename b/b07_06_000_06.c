@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey, ｛氷室＊＊｝, what were you like in
+MsgDisp("主人公","Hey, ｛Himuro＊＊｝, what were you like in
 middle school?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -26,7 +26,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600000_06_330");
 MsgDisp("Himuro","Anyway, I wasn't cute.");
-MsgDisp("主人公","That's just ｛氷室＊＊｝ though?");
+MsgDisp("主人公","That's just ｛Himuro＊＊｝ though?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

@@ -23,7 +23,7 @@ MsgDisp("Hiiragi","You were concentrating well.
 Your expressions, walk and turns were
 perfect.");
 MsgDisp("主人公","Really?
-Thank you, ｛柊＊＊＊｝...");
+Thank you, ｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -52,7 +52,7 @@ ChEyeOpenLevel(5,#1);
 ChCheek(5,0);
 VoicePlay("P740500004_05_050");
 MsgDisp("Hiiragi","Yes, that's right.");
-MsgDisp("主人公","(｛柊＊＊＊｝...? Yeah, I'm glad I gave it
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...? Yeah, I'm glad I gave it
 my best in the handicrafts club these last
 three years...!)");
 MsgClose();

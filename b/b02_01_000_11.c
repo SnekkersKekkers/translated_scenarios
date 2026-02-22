@@ -15,5 +15,5 @@ MsgDisp("Kazama","I see.
 That's 30% better than I imagined it'd be.");
 ChMouth(1,3);
 ChMotion(1,0);
-MsgDisp("主人公","(｛風真＊＊｝ seems to be happy about it!
+MsgDisp("主人公","(｛Kazama＊＊｝ seems to be happy about it!
 I'm glad I wore it!)");

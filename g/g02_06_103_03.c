@@ -80,7 +80,7 @@ ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G020610303_06_110");
 MsgDisp("Himuro","Absolutely not.");
-MsgDisp("主人公","(｛氷室＊＊｝, your eyes are scary...?)");
+MsgDisp("主人公","(｛Himuro＊＊｝, your eyes are scary...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

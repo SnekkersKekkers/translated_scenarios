@@ -10,7 +10,7 @@ SEWait();
 ChOpen(6,254,1,1,0,0,#1,0,0);
 VoicePlay("P740600004_06_000");
 MsgDisp("Himuro","Welcome back.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝ Q How was it?");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝ Q How was it?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -40,7 +40,7 @@ MsgDisp("Himuro","When I sent you off, I felt really
 uncertain and even thought that it would
 be good if there was no one in the
 audience.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

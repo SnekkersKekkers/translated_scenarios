@@ -22,7 +22,7 @@ ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010130200_01_010");
 MsgDisp("Kazama","What's going on?
 You're standing around.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝!
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Going out?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -67,7 +67,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,255,0,2,0,#1,#1,0,2);
-MsgDisp("主人公","I knew it, ｛七ツ森＊｝!
+MsgDisp("主人公","I knew it, ｛Nanatsumori＊｝!
 What's wrong?");
 ChEye(4,2);
 ChMouth(4,0);
@@ -101,7 +101,7 @@ Don't drop it again, alright?");
 ChEye(4,0);
 SEPlay("EV_SE_662");
 SEWait();
-MsgDisp("主人公","｛風真＊＊｝ said he's going too.
+MsgDisp("主人公","｛Kazama＊＊｝ said he's going too.
 Aren't you two just brought together by
 fate?");
 ChEye(1,0);

@@ -10,7 +10,7 @@ ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","Eh!
-｛御影＊＊｝ and ｛柊＊＊＊｝?");
+｛Mikage＊＊｝ and ｛Hiiragi＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -50,7 +50,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("Q020C00100_07_020");
     MsgDisp("Mikage","Good job.
 I'm sure Inori is also happy.");
-    MsgDisp("主人公","Wait, ｛氷室＊＊｝?");
+    MsgDisp("主人公","Wait, ｛Himuro＊＊｝?");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);

@@ -50,7 +50,7 @@ know these things.");
         MsgDisp("Sassa","Yeah.
 It makes me want to start learning more
 bits of information.");
-        MsgDisp("主人公","Hehe, ｛颯砂＊＊｝ can gather information
+        MsgDisp("主人公","Hehe, ｛Sassa＊＊｝ can gather information
 by foot.");
         ChEye(2,0);
         ChMouth(2,3);

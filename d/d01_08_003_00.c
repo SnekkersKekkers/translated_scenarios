@@ -8,7 +8,7 @@ ChOpen(8,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(8);
 VoicePlay("D010800300_08_000");
 MsgDisp("Shirahane","｛主人公｝, I've been waiting for ya!");
-MsgDisp("主人公","Ah, ｛大地＊＊｝!");
+MsgDisp("主人公","Ah, ｛Daichi＊＊｝!");
 ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);
@@ -57,7 +57,7 @@ BGOpen("sc130",1);
 MsgClose();
 ChOpen(8,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛大地＊＊｝ and ｛本多＊＊｝ know each
+MsgDisp("主人公","｛Daichi＊＊｝ and ｛Honda＊＊｝ know each
 other?");
 ChEye(8,0);
 ChMouth(8,0);
@@ -90,7 +90,7 @@ MsgDisp("Shirahane","Hehe!
 Since we're already here, wanna go home
 together?");
 MsgDisp("主人公","Sure!");
-MsgDisp("主人公","(...Come to think of it, where did ｛本多＊＊｝
+MsgDisp("主人公","(...Come to think of it, where did ｛Honda＊＊｝
 get the Perfect Score Anpan from anyway?)");
 BGMStop();
 MsgClose();

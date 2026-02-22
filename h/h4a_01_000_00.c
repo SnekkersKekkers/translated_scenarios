@@ -12,7 +12,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("H4A0100000_01_000");
     MsgDisp("Kazama","Congrats.");
-    MsgDisp("主人公","｛風真＊＊｝!
+    MsgDisp("主人公","｛Kazama＊＊｝!
 We won!");
     ChEye(1,0);
     ChMouth(1,0);
@@ -30,7 +30,7 @@ I did make some mistakes, you know?");
 you to do something like that.
 Full points.");
     MsgDisp("主人公","Hehe.");
-    MsgDisp("主人公","(To think ｛風真＊＊｝ would be so happy
+    MsgDisp("主人公","(To think ｛Kazama＊＊｝ would be so happy
 about this. I'm glad I stayed in the
 rhythmic gymnastics club!)");
     break ;
@@ -43,7 +43,7 @@ rhythmic gymnastics club!)");
     VoiceEVSPlay(1);
     VoicePlay("H4A0100000_01_030");
     MsgDisp("Kazama","｛主人公｝, congrats.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Were you watching?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -68,7 +68,7 @@ It was dazzling.");
     ChMotion(1,0);
     MsgDisp("主人公","Thanks.
 It makes me happy to hear you praise me so
-much, ｛風真＊＊｝.");
+much, ｛Kazama＊＊｝.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -76,7 +76,7 @@ much, ｛風真＊＊｝.");
     MsgDisp("Kazama","You were shining even more brightly than
 usual.
 Congratulations on winning.");
-    MsgDisp("主人公","(I did it, I won! ｛風真＊＊｝ praised me
+    MsgDisp("主人公","(I did it, I won! ｛Kazama＊＊｝ praised me
 too. I'm glad I stayed in the rhythmic
 gymnastics club!)");
     break ;

@@ -1,5 +1,5 @@
-MsgDisp("主人公","What does ｛風真＊＊｝, ｛本多＊＊｝ and
-｛七ツ森＊｝ think of me?");
+MsgDisp("主人公","What does ｛Kazama＊＊｝, ｛Honda＊＊｝ and
+｛Nanatsumori＊｝ think of me?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -34,7 +34,7 @@ VoicePlay("B070100002_01_310");
 MsgDisp("Kazama","I don't know.
 I guess it's a good thing because you're
 like a familiar presence?");
-MsgDisp("主人公","What about you, ｛風真＊＊｝?");
+MsgDisp("主人公","What about you, ｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);
@@ -43,7 +43,7 @@ MsgDisp("Kazama","I'm an only child so I don't get these
 feelings, but we can't lose in terms of
 closeness. We've known each other way
 longer!");
-MsgDisp("主人公","(｛風真＊＊｝ seems kind of mad?");
+MsgDisp("主人公","(｛Kazama＊＊｝ seems kind of mad?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

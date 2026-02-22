@@ -46,7 +46,7 @@ I wish I tried harder.)");
     VoiceEVSPlay(3);
     VoicePlay("O020300001_03_030");
     MsgDisp("Honda","｛主人公｝.");
-    MsgDisp("主人公","Hm, ｛本多＊＊｝?");
+    MsgDisp("主人公","Hm, ｛Honda＊＊｝?");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,1);
@@ -69,7 +69,7 @@ the winner! Like you, right?");
     MsgDisp("Honda","Yeah yeah, that expression!
 The sports festival is still going on, so
 let's have fun!");
-    MsgDisp("主人公","(｛本多＊＊｝, thank you.
+    MsgDisp("主人公","(｛Honda＊＊｝, thank you.
 I lost, but I'll still enjoy the rest of
 the festival.)");
     break ;

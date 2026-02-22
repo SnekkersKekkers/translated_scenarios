@@ -12,7 +12,7 @@ VoicePlay("T020520022_05_000");
 MsgDisp("Hiiragi","｛主人公｝, what's the matter?");
 MsgDisp("主人公","I was worried I couldn't fully express it
 in words...
-I also like ｛柊＊＊＊｝.");
+I also like ｛Hiiragi＊＊＊｝.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEye(5,0);

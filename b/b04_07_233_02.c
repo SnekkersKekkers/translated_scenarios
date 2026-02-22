@@ -82,7 +82,7 @@ It's a win-win situation.");
         MsgDisp("Mikage","As punishment, I'm jumping again.");
         MsgDisp("主人公","Eh...
 Ehhh∋
-｛御影＊＊｝∋");
+｛Mikage＊＊｝∋");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
@@ -94,7 +94,7 @@ Ehhh∋
         SEWait();
         VoicePlay("B040723302_07_090");
         MsgDisp("Mikage","Uwaaah∈");
-        MsgDisp("主人公","(I wonder if ｛御影＊＊｝ will be
+        MsgDisp("主人公","(I wonder if ｛Mikage＊＊｝ will be
 okay?)");
         break ;
         default :

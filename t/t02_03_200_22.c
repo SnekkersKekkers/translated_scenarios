@@ -4,7 +4,7 @@ ChMotion(3,0,1);
 ChCheek(3,10);
 VoicePlay("T020320000_03_290");
 MsgDisp("Honda","...! W-What does this mean?");
-MsgDisp("主人公","It means I also like ｛本多＊＊｝.");
+MsgDisp("主人公","It means I also like ｛Honda＊＊｝.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);

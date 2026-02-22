@@ -71,7 +71,7 @@ VoicePlay("G020230200_02_100");
 MsgDisp("Sassa","No way.
 If I don't decide now, we won't have the
 same thing.");
-MsgDisp("主人公","(｛颯砂＊＊｝ really likes planning
+MsgDisp("主人公","(｛Sassa＊＊｝ really likes planning
 everything out, doesn't he?)");
 BGMStop();
 MsgClose();

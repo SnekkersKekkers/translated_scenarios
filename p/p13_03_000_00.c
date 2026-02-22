@@ -18,8 +18,8 @@ gathering...)");
     VoicePlay("P130300000_03_000");
     MsgDisp("Honda","Ah, perhaps...
 Molly, as in Kojiro-sensei's pet cow∋");
-    MsgDisp("主人公","｛本多＊＊｝, welcome! Yes, it's
-｛御影＊＊｝'s family cow Molly. If you
+    MsgDisp("主人公","｛Honda＊＊｝, welcome! Yes, it's
+｛Mikage＊＊｝'s family cow Molly. If you
 like, do you want to try the maze?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -41,7 +41,7 @@ maze∋
 Super interesting∈");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Ah, ｛本多＊＊｝, welcome.");
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝, welcome.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);

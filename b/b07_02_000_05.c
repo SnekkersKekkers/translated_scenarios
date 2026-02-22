@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey ｛颯砂＊＊｝, what are your hobbies?");
+MsgDisp("主人公","Hey ｛Sassa＊＊｝, what are your hobbies?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -37,7 +37,7 @@ VoicePlay("B070200000_02_260");
 MsgDisp("Sassa","Nope. Camping is more fun when everyone is
 enjoying it together. You can come too, of
 course.");
-MsgDisp("主人公","(｛颯砂＊＊｝ and survival...
+MsgDisp("主人公","(｛Sassa＊＊｝ and survival...
 No matter what, he'll protect me!)");
 BGMStop();
 MsgClose();

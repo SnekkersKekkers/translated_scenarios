@@ -20,7 +20,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("P840600002_06_020");
 MsgDisp("Himuro","As expected.");
-MsgDisp("主人公","By the way, ｛氷室＊＊｝, I gave you extra
+MsgDisp("主人公","By the way, ｛Himuro＊＊｝, I gave you extra
 chairs, didn't I?
 Are they still not enough?");
 ChEye(6,0);
@@ -40,7 +40,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6,0,0);
 Wait(30);
-MsgDisp("主人公","(｛氷室＊＊｝ appreciated me!
+MsgDisp("主人公","(｛Himuro＊＊｝ appreciated me!
 Alrーight, let's do our best until the
 end.)");
 MsgClose();

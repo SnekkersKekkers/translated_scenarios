@@ -55,7 +55,7 @@ ChMotion(5,0);
 VoicePlay("B360522100_05_060");
 MsgDisp("Hiiragi","No, I wanted to see it with you alone.");
 MsgDisp("主人公","I see...
-Thank you, ｛柊＊＊＊｝.");
+Thank you, ｛Hiiragi＊＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

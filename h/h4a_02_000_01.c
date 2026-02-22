@@ -15,7 +15,7 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H4A0200001_02_000");
     MsgDisp("Sassa","｛主人公｝, good work.");
-    MsgDisp("主人公","｛颯砂＊＊｝.
+    MsgDisp("主人公","｛Sassa＊＊｝.
 Sorry you came all this way.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -45,7 +45,7 @@ disrespectful of your own hard work.");
     MsgDisp("Sassa","It's something no one else but you can do.
 Right?
 Look forward and keep going!");
-    MsgDisp("主人公","(It's just as ｛颯砂＊＊｝ says.
+    MsgDisp("主人公","(It's just as ｛Sassa＊＊｝ says.
 I lost, but I'm glad I stayed in the
 rhythmic gymnastics club.)");
     break ;

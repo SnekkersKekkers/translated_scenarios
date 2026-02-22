@@ -15,7 +15,7 @@ VoicePlay("B070200001_02_420");
 MsgDisp("Sassa","Are you feeling sick?
 That's no good, you should get some rest.");
 MsgDisp("主人公","No, I'm not sick...
-I was looking at ｛颯砂＊＊｝ and it
+I was looking at ｛Sassa＊＊｝ and it
 suddenly started.");
 ChEye(2,5);
 ChMouth(2,0);
@@ -46,7 +46,7 @@ ChEyeOpenLevel(2,0);
 ChCheek(2,5);
 VoicePlay("B070200001_02_460");
 MsgDisp("Sassa","Fuuu...");
-MsgDisp("主人公","｛颯砂＊＊｝, are you okay...?");
+MsgDisp("主人公","｛Sassa＊＊｝, are you okay...?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);

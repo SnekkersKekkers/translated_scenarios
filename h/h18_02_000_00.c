@@ -14,7 +14,7 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("H180200000_02_000");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Did you come to cheer us on?");
     ChEye(2,0);
     ChMouth(2,4);

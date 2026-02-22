@@ -1,4 +1,4 @@
-MsgDisp("主人公","I also like ｛柊＊＊＊｝.");
+MsgDisp("主人公","I also like ｛Hiiragi＊＊＊｝.");
 ChEyeOpenLevel(5,0);
 Wait(16,0);
 ChEye(5,0);
@@ -22,7 +22,7 @@ ChMouth(5,4);
 ChCheek(5,5);
 VoicePlay("T020500020_05_020");
 MsgDisp("Hiiragi","If so, my confession is a success.");
-MsgDisp("主人公","｛柊＊＊＊｝ Are you also smiling?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ Are you also smiling?");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 Wait(16,0);

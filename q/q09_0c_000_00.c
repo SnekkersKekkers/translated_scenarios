@@ -11,7 +11,7 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("Q090C00000_07_000");
 MsgDisp("Mikage","Oh, here you are.");
-MsgDisp("主人公","｛柊＊＊＊｝, ｛御影＊＊｝, good morning.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, ｛Mikage＊＊｝, good morning.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -45,7 +45,7 @@ ChMotion(5,4);
 VoicePlay("Q090C00000_05_020");
 MsgDisp("Hiiragi","Inori kun's gonna be angry～");
 MsgDisp("主人公","(Hehe!
-What should I buy ｛氷室＊＊｝?)");
+What should I buy ｛Himuro＊＊｝?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

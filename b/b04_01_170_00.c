@@ -10,7 +10,7 @@ ChMotion(1,2);
 VoicePlay("B040117000_01_000");
 MsgDisp("Kazama","Karaoke huh...
 It's a unique situation.");
-MsgSel("I want to hear ｛風真＊＊｝'s beautiful voice.","Let's sing a duet together.","Please listen to my song!");
+MsgSel("I want to hear ｛Kazama＊＊｝'s beautiful voice.","Let's sing a duet together.","Please listen to my song!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -10,7 +10,7 @@ Wait(70,0);
 VoicePlay("B040703202_07_000");
 MsgDisp("Mikage","Oi, oi, don't get too excited.");
 SEStop("EV_SE_567",1);
-MsgSel("Yes, I'll be careful!","｛御影＊＊｝'s voice is so loud","You hear that, boys～!");
+MsgSel("Yes, I'll be careful!","｛Mikage＊＊｝'s voice is so loud","You hear that, boys～!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -74,7 +74,7 @@ We'll be careful, so you guys should be
 quiet too.");
         SEPlay("EV_SE_GAYA_023");
         Wait(70,0);
-        MsgDisp("主人公","(When he says, \"we\", ｛御影＊＊｝ means
+        MsgDisp("主人公","(When he says, \"we\", ｛Mikage＊＊｝ means
 me and him, right?
 I feel kind of weird...)");
         SEStop("EV_SE_GAYA_023",1);

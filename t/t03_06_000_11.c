@@ -1,4 +1,4 @@
-MsgDisp("","｛氷室＊＊｝ went on to become a third year
+MsgDisp("","｛Himuro＊＊｝ went on to become a third year
 student. He took part in school events
 more enthusiastically than before and led
 a fulfilling life at Haba High.");
@@ -12,9 +12,9 @@ than ever.");
 MsgClear();
 MsgDisp("","We also ran into Vice Principal Himuro in
 the middle of our date once.");
-MsgDisp("","Not letting go of my hand, ｛氷室＊＊｝ said
+MsgDisp("","Not letting go of my hand, ｛Himuro＊＊｝ said
 \"She's my girlfriend...\"");
-MsgDisp("","I was embarrassed, but both ｛氷室＊＊｝ and
+MsgDisp("","I was embarrassed, but both ｛Himuro＊＊｝ and
 Vice Principal Himuro had somewhat of a
 contented smile on their faces.");
 MsgClear();

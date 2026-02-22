@@ -7,7 +7,7 @@ VoiceEVSPlay(2);
 VoicePlay("F110210000_02_000");
 MsgDisp("Sassa","｛主人公｝, are you having fun?");
 MsgDisp("主人公","Yep!
-What about you, ｛颯砂＊＊｝?");
+What about you, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -16,7 +16,7 @@ MsgDisp("Sassa","I'm taking it easy this festival.
 There's no winning, losing, or time
 pressure.");
 MsgDisp("主人公","Haha.
-Is it not enough for ｛颯砂＊＊｝?");
+Is it not enough for ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -53,7 +53,7 @@ Afterwards, should we go try the food?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(Hehe, guess ｛颯砂＊＊｝ really will teach
+MsgDisp("主人公","(Hehe, guess ｛Sassa＊＊｝ really will teach
 him.)");
 MsgClose();
 ScrFadeOut(0);

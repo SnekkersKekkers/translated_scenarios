@@ -79,7 +79,7 @@ that.");
         ChMotion(5,4);
         VoicePlay("B040511102_05_080");
         MsgDisp("Hiiragi","An Ice Show huh...");
-        MsgDisp("主人公","Seeing ｛柊＊＊＊｝ perform on ice in a
+        MsgDisp("主人公","Seeing ｛Hiiragi＊＊＊｝ perform on ice in a
 beautiful costume would be wonderful.");
         ChEye(5,3);
         ChMouth(5,4);
@@ -96,7 +96,7 @@ I'll try it.");
         MsgDisp("Hiiragi","Ahhh!");
         SEPlay("EV_SE_009",0,1);
         ScrQuake(2);
-        MsgDisp("主人公","｛柊＊＊＊｝, are you okay∋");
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you okay∋");
         VoicePlay("B040511102_41_000");
         MsgDisp("Male Customer","What the- that sounds kind of amazing.");
         VoicePlay("B040511102_47_000");

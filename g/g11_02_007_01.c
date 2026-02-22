@@ -1,6 +1,6 @@
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 You had a good time today too.");
 MsgClose();
 SEPlay("EV_SE_628");
@@ -16,7 +16,7 @@ SEPlay("EV_SE_672");
 ChClose(2);
 MsgDisp("主人公","(That's eight times the amount of practice
 compared to someone doing a single
-event...｛颯砂＊＊｝'s octathlon skills are
+event...｛Sassa＊＊｝'s octathlon skills are
 truly amazing.)");
 SEWait();
 MsgDisp("","　　　　　　　　　　 ・
@@ -24,7 +24,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("G110200701_02_010");
 MsgDisp("Sassa","Hey, over here.");
-MsgDisp("主人公","Eh, ｛颯砂＊＊｝?");
+MsgDisp("主人公","Eh, ｛Sassa＊＊｝?");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -78,7 +78,7 @@ VoicePlay("G110200701_02_070");
 MsgDisp("Sassa","For me, running like this whilst talking
 to you is the best.
 Thank you, as always!");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -98,7 +98,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛颯砂＊＊｝'s records are better than
+MsgDisp("主人公","(｛Sassa＊＊｝'s records are better than
 that of a solo athlete...Hmm, there are
 still some difficult aspects, huh?)");
 MsgClose();

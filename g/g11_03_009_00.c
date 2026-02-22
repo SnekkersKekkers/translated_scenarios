@@ -22,7 +22,7 @@ BGOpen("ev003",0);
 ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","...Huh?
-｛本多＊＊｝ still hasn't taken a break?");
+｛Honda＊＊｝ still hasn't taken a break?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -37,7 +37,7 @@ VoicePlay("G110300900_03_020");
 MsgDisp("Honda","When customers look at the cover, it
 catches their eye, right?");
 MsgDisp("主人公","Amazing.
-This is ｛本多＊＊｝'s recommendations
+This is ｛Honda＊＊｝'s recommendations
 corner, right? '");
 ChEye(3,1);
 ChMouth(3,1);
@@ -53,7 +53,7 @@ MsgDisp("Honda","In the future, wouldn't it be so fun if we
 could gather all the books we like and
 open a bookstore together?");
 MsgDisp("主人公","A bookstore that only sells books selected
-by ｛本多＊＊｝...
+by ｛Honda＊＊｝...
 I bet it would be really popular.");
 ChEye(3,0);
 ChMouth(3,0);

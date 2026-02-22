@@ -46,7 +46,7 @@ ChMotion(3,5);
 VoicePlay("G020320200_03_070");
 MsgDisp("Honda","No, that's not it!
 I mean, it is, but!");
-MsgDisp("主人公","｛本多＊＊｝...?");
+MsgDisp("主人公","｛Honda＊＊｝...?");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -83,7 +83,7 @@ ChMotion(3,2);
 VoicePlay("G020320200_03_120");
 MsgDisp("Honda","It's just that, right now, seeing you two
 together hurts a little...");
-MsgDisp("主人公","(Hehe, I'm glad I heard ｛本多＊＊｝'s true
+MsgDisp("主人公","(Hehe, I'm glad I heard ｛Honda＊＊｝'s true
 feelings.)");
 BGMStop();
 MsgClose();

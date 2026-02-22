@@ -5,7 +5,7 @@ ChOpen(7,255,3,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150700500_07_000");
 MsgDisp("Mikage","Today is a full moon...");
-MsgDisp("主人公","｛御影＊＊｝...?");
+MsgDisp("主人公","｛Mikage＊＊｝...?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 ChClose(7);
 ChLayout(0);
@@ -42,7 +42,7 @@ VoicePlay("B150700500_07_050");
 MsgDisp("Mikage","There's no point in saying it to someone
 unaware and defenseless. I tried to get
 revenge, and this is what happens.");
-MsgDisp("主人公","｛御影＊＊｝, sorry.
+MsgDisp("主人公","｛Mikage＊＊｝, sorry.
 Did I go too far again?");
 ChEye(7,2);
 ChMouth(7,3);
@@ -68,6 +68,6 @@ between my legs.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(｛御影＊＊｝, I'm sorry...)");
+MsgDisp("主人公","(｛Mikage＊＊｝, I'm sorry...)");
 MsgClose();
 ScrFadeOut(0,0);

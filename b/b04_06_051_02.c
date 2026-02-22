@@ -82,7 +82,7 @@ your surroundings...?");
         MsgDisp("Himuro","I...haven't experienced something like
 that.");
         MsgDisp("主人公","Would you also want to experience a love
-like that one day, ｛氷室＊＊｝?");
+like that one day, ｛Himuro＊＊｝?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -113,7 +113,7 @@ That's a violation of privacy.");
         ChClose(6);
         SEWait();
         MsgDisp("主人公","(?
-｛氷室＊＊｝'s face is red?)");
+｛Himuro＊＊｝'s face is red?)");
         MsgClose();
         ScrFadeOut(0);
         MsgClose();

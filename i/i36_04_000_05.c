@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛七ツ森＊｝'s modeling
+snacks to ｛Nanatsumori＊｝'s modeling
 agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
@@ -30,9 +30,9 @@ I'm delivering from Cafe Alucard.");
     ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400005_04_000");
     MsgDisp("Nanatsumori","Are you...working?");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 Yeah, it's my first delivery job.
-｛七ツ森＊｝, are you on break?");
+｛Nanatsumori＊｝, are you on break?");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,1,1);
@@ -55,13 +55,13 @@ I'll do that.");
 industry.
 Impressive.");
     MsgDisp("主人公","(Hehe!
-｛七ツ森＊｝ praised me.
+｛Nanatsumori＊｝ praised me.
 I did it!)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛七ツ森＊｝'s modeling
+snacks to ｛Nanatsumori＊｝'s modeling
 agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
@@ -84,7 +84,7 @@ I'm delivering from Cafe Alucard.");
     VoiceEVSPlay(4);
     VoicePlay("I360400005_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝.
+    MsgDisp("主人公","｛Nanatsumori＊｝.
 I came to deliver this!");
     MsgDisp("主人公","...Hm?
 There aren't many people around.
@@ -124,7 +124,7 @@ Good luck with work!");
     VoicePlay("I360400005_04_090");
     MsgDisp("Nanatsumori","I'll work hard.
 Super hard.");
-    MsgDisp("主人公","(｛七ツ森＊｝ seems really fired up?
+    MsgDisp("主人公","(｛Nanatsumori＊｝ seems really fired up?
 Alright, I'll work more efficiently too!)");
     break ;
     default :

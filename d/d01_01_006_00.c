@@ -58,7 +58,7 @@ MsgDisp("Kazama","A champaigne glass designed by Mr.
 Goro Hanatsubaki.");
 MsgDisp("主人公","(Eh...
 Ehh∋
-｛風真＊＊｝∋)");
+｛Kazama＊＊｝∋)");
 VoicePlay("D010100600_01_020");
 MsgDisp("Kazama","Goro Hanatsubaki is a world famous fashion
 designer.");
@@ -69,7 +69,7 @@ VoicePlay("D010100600_01_030");
 MsgDisp("Kazama","We will open at 300 Rich.
 Please raise your paddle if you have an
 interest in purchasing it.");
-MsgDisp("主人公","(Wow, ｛風真＊＊｝ is amazing.
+MsgDisp("主人公","(Wow, ｛Kazama＊＊｝ is amazing.
 Even with so many guests...
 He's doing such a great job!)");
 StlEyeOpenLevel(1,#1);
@@ -135,7 +135,7 @@ MsgDisp("Kazama","Even though it's a charity, they selected
 me, a highschooler of all people.");
 MsgDisp("Kazama","Because my dad used to do this...");
 MsgDisp("主人公","I see.
-Well maybe in the future, ｛風真＊＊｝, you
+Well maybe in the future, ｛Kazama＊＊｝, you
 can be just like your dad——");
 ChEye(1,0);
 ChMouth(1,1);
@@ -173,7 +173,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(｛風真＊＊｝, did something happen between
+MsgDisp("主人公","(｛Kazama＊＊｝, did something happen between
 you and your dad...?)");
 MsgClose();
 ScrFadeOut(0,0);

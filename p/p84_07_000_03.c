@@ -11,7 +11,7 @@ VoiceEVSPlay(7);
 VoicePlay("P840700003_07_000");
 MsgDisp("Mikage","｛主人公｝.
 Is there a lot of cardboard leftover?");
-MsgDisp("主人公","Ah, ｛御影＊＊｝.
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 If it's cardboard you want, there's lots
 of it.");
 ChEye(7,2);

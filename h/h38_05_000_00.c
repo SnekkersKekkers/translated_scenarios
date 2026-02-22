@@ -13,7 +13,7 @@ switch (ChPrmGet(5,6)){
     VoiceEVSPlay(5);
     VoicePlay("H380500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.");
     ChEye(5,4);
     VoicePlay("H380500000_05_010");
     MsgDisp("Hiiragi","...I see, how exquisite.");

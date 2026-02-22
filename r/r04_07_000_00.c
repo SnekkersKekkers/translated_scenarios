@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
     VoiceEVSPlay(7);
     VoicePlay("R040700000_07_000");
     MsgDisp("Mikage","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Merry Christmas!");
     ChEye(7,0);
     ChMouth(7,3);
@@ -26,7 +26,7 @@ Make sure to have loads of fun.");
     VoiceEVSPlay(7);
     VoicePlay("R040700000_07_020");
     MsgDisp("Mikage","｛主人公｝, Merry Christmas.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Merry Christmas!");
     ChEye(7,0);
     ChMouth(7,0);
@@ -50,7 +50,7 @@ authentic as this.");
     VoicePlay("R040700000_07_050");
     MsgDisp("Mikage","｛主人公｝.
 Merry Christmas.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Merry Christmas!");
     ChEye(7,0);
     ChMouth(7,3);

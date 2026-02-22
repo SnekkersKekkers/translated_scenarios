@@ -15,7 +15,7 @@ I like it but...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("P730200001_02_000");
     MsgDisp("Sassa","Heeー, it's like legit.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Legit?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -56,7 +56,7 @@ It looks like I came to put pressure on
 you.");
     MsgDisp("主人公","No, thank you for coming.
 Then, I'll do my best.");
-    MsgDisp("主人公","(I'll give ｛颯砂＊＊｝ a good show!)");
+    MsgDisp("主人公","(I'll give ｛Sassa＊＊｝ a good show!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);
@@ -74,7 +74,7 @@ I like it but...)");
     VoiceEVSPlay(2);
     VoicePlay("P730200001_02_060");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝!
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝!
 How does my first dress look?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -108,7 +108,7 @@ afraid to appear anywhere.");
     MsgDisp("Sassa","Alright, I'll also be cheering you on from
 a good seat.
 Have fun!");
-    MsgDisp("主人公","(Alright, let's live up to ｛颯砂＊＊｝'s
+    MsgDisp("主人公","(Alright, let's live up to ｛Sassa＊＊｝'s
 expectations!)");
     MsgClose();
     ScrFadeOut(0,0);

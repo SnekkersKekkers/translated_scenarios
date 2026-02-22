@@ -10,7 +10,7 @@ VoicePlay("B040401102_04_000");
 MsgDisp("Nanatsumori","I like the atmosphere here.
 It's just a bit, but I feel like I've
 become an adult.");
-MsgSel("I also like it!","I feel a bit out of place...","It fits ｛七ツ森＊｝ perfectly!");
+MsgSel("I also like it!","I feel a bit out of place...","It fits ｛Nanatsumori＊｝ perfectly!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -51,7 +51,7 @@ I don't get what you mean at all.");
         ChEyeOpenLevel(4,7);
         VoicePlay("B040401102_04_030");
         MsgDisp("Nanatsumori","Why?");
-        MsgDisp("主人公","｛七ツ森＊｝ is so grown-up, it suits
+        MsgDisp("主人公","｛Nanatsumori＊｝ is so grown-up, it suits
 him, but I'm completely——");
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(4,0,30);
@@ -79,7 +79,7 @@ Your own charm.");
         MsgDisp("Nanatsumori","...｛主人公｝.
 You really are a great girl.
 Believe in yourself.");
-        MsgDisp("主人公","｛七ツ森＊｝...");
+        MsgDisp("主人公","｛Nanatsumori＊｝...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMouthOpenLevel(4,0);

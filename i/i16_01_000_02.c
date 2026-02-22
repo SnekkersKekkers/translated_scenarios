@@ -65,7 +65,7 @@ really good.");
 instead of pushing it.
 It was really natural.");
     MsgDisp("主人公","(I did it!
-｛風真＊＊｝ praised me.
+｛Kazama＊＊｝ praised me.
 Let's keep doing our best!)");
     break ;
     default :

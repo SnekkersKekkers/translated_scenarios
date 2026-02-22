@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040505100_05_000");
 MsgDisp("Hiiragi","So this is the planetarium...");
-MsgSel("The whole sky being filled with stars is romantic huh?","｛柊＊＊＊｝, were you sleeping?","The seats were so soft I was sound asleep...");
+MsgSel("The whole sky being filled with stars is romantic huh?","｛Hiiragi＊＊＊｝, were you sleeping?","The seats were so soft I was sound asleep...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

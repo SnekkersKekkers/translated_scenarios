@@ -82,7 +82,7 @@ Well, I guess you didn't know, did you?");
         MsgDisp("Kazama","When you were little you were kind of a
 shrinking violet, so I guess you've
 changed some while I was gone.");
-        MsgDisp("主人公","｛風真＊＊｝?");
+        MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEyeOpenLevel(1,0);
         Wait(12,0);
         ChEye(1,0);
@@ -102,7 +102,7 @@ health is something I wished for, too.");
         MsgDisp("Kazama","But, you know, I wish I could have seen
 even a small change like that for myself
 as it happened.");
-        MsgDisp("主人公","｛風真＊＊｝...");
+        MsgDisp("主人公","｛Kazama＊＊｝...");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         ChCheek(1,0);
@@ -113,7 +113,7 @@ as it happened.");
         MsgDisp("Kazama","I'm sure we'll both change bit by bit as
 time goes on. Maybe it's actually better
 to always stay together, and not notice?");
-        MsgDisp("主人公","(｛風真＊＊｝, you've always cared about
+        MsgDisp("主人公","(｛Kazama＊＊｝, you've always cared about
 me...
 I'm really happy.)");
         break ;

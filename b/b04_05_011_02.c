@@ -66,7 +66,7 @@ front of you.");
         MsgDisp("Hiiragi","What is it about you that causes this...
 I am surprised that such feelings
 themselves remain within me.");
-        MsgDisp("主人公","｛柊＊＊＊｝, I would be happy if you were
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝, I would be happy if you were
 to talk to me about whatever was on your
 mind.");
         ChEye(5,4);
@@ -89,7 +89,7 @@ Can we walk around once holding hands?");
         VoicePlay("B040501102_05_100");
         MsgDisp("Hiiragi","Unlike the lines on stage, in real life,
 only simple words come out.");
-        MsgDisp("主人公","(｛柊＊＊＊｝, are you relying on me?)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, are you relying on me?)");
         break ;
         default :
         DbgAssert(1);

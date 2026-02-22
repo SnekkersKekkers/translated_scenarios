@@ -66,7 +66,7 @@ of the fun.");
 countless glowing eyes of animals, and
 feel like you've become the prey～?");
         MsgDisp("主人公","Hehe.
-｛本多＊＊｝ seems like he's enjoying it.");
+｛Honda＊＊｝ seems like he's enjoying it.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);
@@ -92,7 +92,7 @@ Let me see them for a bit.");
         VoicePlay("B040321102_03_080");
         MsgDisp("Honda","Perhaps, you have a glowing plate in your
 eye too...");
-        MsgDisp("主人公","｛本多＊＊｝, are you alright?");
+        MsgDisp("主人公","｛Honda＊＊｝, are you alright?");
         ChEye(3,5);
         ChMouth(3,4);
         VoicePlay("B040321102_03_090");

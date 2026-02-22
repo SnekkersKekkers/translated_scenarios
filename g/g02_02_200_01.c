@@ -31,7 +31,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("G020220001_02_040");
 MsgDisp("Sassa","I totally lost.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -45,7 +45,7 @@ ChMotion(2,3);
 VoicePlay("G020220001_02_060");
 MsgDisp("Sassa","I'm really not used to someone running in
 front of me.");
-MsgDisp("主人公","(What's wrong with ｛颯砂＊＊｝...?)");
+MsgDisp("主人公","(What's wrong with ｛Sassa＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

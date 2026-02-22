@@ -6,7 +6,7 @@ VoiceEVSPlay(1);
 VoicePlay("T020121000_01_370");
 MsgDisp("Kazama","｛主人公｝, was that a promise kiss?");
 ChEye(1,3);
-MsgDisp("主人公","Yes, I also like ｛風真＊＊｝.
+MsgDisp("主人公","Yes, I also like ｛Kazama＊＊｝.
 Thank you for always thinking of me.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -64,7 +64,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020121000_01_460");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝...
+MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);
@@ -84,7 +84,7 @@ ScrFadeIn(0);
 VoicePlay("T020121000_01_490");
 MsgDisp("Kazama","Sorry to those guys, but...
 There will be no attendees.");
-MsgDisp("主人公","...｛風真＊＊｝.");
+MsgDisp("主人公","...｛Kazama＊＊｝.");
 VoiceEVSPlay(1);
 VoicePlay("T020121000_01_500");
 MsgDisp("Kazama","｛主人公｝, I won't let you go again.");

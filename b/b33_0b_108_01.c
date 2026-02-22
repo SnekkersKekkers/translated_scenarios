@@ -90,7 +90,7 @@ ChClose(4,0,30);
 ScrQuake(0);
 SEWait();
 MsgDisp("主人公","(Waa～!
-｛風真＊＊｝ is so mean∈))");
+｛Kazama＊＊｝ is so mean∈))");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

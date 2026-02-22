@@ -11,7 +11,7 @@ VoicePlay("G020810304_08_010");
 MsgDisp("Shirahane","I feel like I want to give you this whole
 view as a present.");
 MsgDisp("主人公","Hehe! The birthday present I received from
-｛大地＊＊｝ the other day was also
+｛Daichi＊＊｝ the other day was also
 lovely.");
 ChEye(8,3);
 ChMouth(8,0);
@@ -51,7 +51,7 @@ VoicePlay("G020810304_08_060");
 MsgDisp("Shirahane","Yeah.
 After all, I wanted you to be happy
 receiving it.");
-MsgDisp("主人公","(｛大地＊＊｝...
+MsgDisp("主人公","(｛Daichi＊＊｝...
 I'm happy.)");
 BGMStop();
 MsgClose();

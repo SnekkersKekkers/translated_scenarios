@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
-MsgDisp("主人公","(Ah, a message from ｛風真＊＊｝. 
+MsgDisp("主人公","(Ah, a message from ｛Kazama＊＊｝. 
 \"Let's go home together today\", huh...
 Okay, let's prepare to go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -72,7 +72,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100200_01_060");
 MsgDisp("Kazama","...Phew.");
-MsgDisp("主人公","(｛風真＊＊｝ was really worried...
+MsgDisp("主人公","(｛Kazama＊＊｝ was really worried...
 The next time he invites me, I should make
 sure I accept.)");
 BGMStop();

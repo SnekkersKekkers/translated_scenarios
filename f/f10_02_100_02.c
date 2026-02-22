@@ -17,7 +17,7 @@ MsgDisp("Librarian","\"Exercise Learning Theory in Practice\" is
 scheduled to arrive next month.");
 VoicePlay("F100210002_02_000");
 MsgDisp("Sassa?","Is that so...?");
-MsgDisp("主人公","(It's ｛颯砂＊＊｝. \"
+MsgDisp("主人公","(It's ｛Sassa＊＊｝. \"
 Exercise Learning Theory in Practice\"...)");
 BGOpen("sc330",0);
 MsgClose();
@@ -29,7 +29,7 @@ MsgDisp("Sassa","Yo, so it's you.
 Are you returning that top ranked book?");
 MsgDisp("主人公","It looks like you couldn't borrow the
 \"Exercise Learning Theory in Practice\",
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -59,7 +59,7 @@ VoicePlay("F100210002_02_050");
 MsgDisp("Sassa","Well, when it's written in a book like
 this, it kind of backs up what you're
 already doing, and it's a bit of a relief.");
-MsgDisp("主人公","Wow...you're amazing, ｛颯砂＊＊｝.");
+MsgDisp("主人公","Wow...you're amazing, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -72,7 +72,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝ is amazing...
+MsgDisp("主人公","(｛Sassa＊＊｝ is amazing...
 He's giving it his all with his whole body
 and mind.)");
 MsgClose();

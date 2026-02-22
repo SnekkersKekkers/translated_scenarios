@@ -14,7 +14,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("O040701000_07_000");
     MsgDisp("Mikage","Oh, we're on the same team.");
     MsgDisp("主人公","Huh?
-You're participating too, ｛御影＊＊｝?");
+You're participating too, ｛Mikage＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -38,7 +38,7 @@ But, if I'm going out, I'm going to win!");
     MsgDisp("Mikage","Yo.
 Let's do our best.");
     MsgDisp("主人公","Hm, you're participating too,
-｛御影＊＊｝?");
+｛Mikage＊＊｝?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -71,7 +71,7 @@ Let's do our best.");
     MsgDisp("Mikage","｛主人公｝, let's win.");
     MsgDisp("主人公","Huh?
 So you're participating too,
-｛御影＊＊｝.");
+｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

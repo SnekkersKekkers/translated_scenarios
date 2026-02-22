@@ -12,7 +12,7 @@ Who is it?");
     VoicePlay("S040500000_05_000");
     MsgDisp("Hiiragi","Hello.
 It's Hiiragi.");
-    MsgDisp("主人公","｛柊＊＊＊｝?
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝?
 Happy New Years!");
     VoicePlay("S040500000_05_010");
     MsgDisp("Hiiragi","Happy New Years.
@@ -61,12 +61,12 @@ Who is it?");
     MsgDisp("Hiiragi","Hello.
 It's Hiiragi.
 Happy New Year.");
-    MsgDisp("主人公","Happy New Years, ｛柊＊＊＊｝!");
+    MsgDisp("主人公","Happy New Years, ｛Hiiragi＊＊＊｝!");
     VoicePlay("S040500000_05_060");
     MsgDisp("Hiiragi","Such a cheerful voice on the first day of
 the year.
 I'm happy to hear it.");
-    MsgDisp("主人公","Hehe, I'm happy to hear ｛柊＊＊＊｝'s voice
+    MsgDisp("主人公","Hehe, I'm happy to hear ｛Hiiragi＊＊＊｝'s voice
 too.");
     VoicePlay("S040500000_05_070");
     MsgDisp("Hiiragi","How about we both go and cheerfully say

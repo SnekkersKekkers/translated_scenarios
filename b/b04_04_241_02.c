@@ -6,7 +6,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040424102_04_000");
 MsgDisp("Nanatsumori","Then what should we do today?");
-MsgSel("The cow milking experience▼","Let's interact with sheep!","Let's do what ｛七ツ森＊｝ wants");
+MsgSel("The cow milking experience▼","Let's interact with sheep!","Let's do what ｛Nanatsumori＊｝ wants");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -110,7 +110,7 @@ make it a date.");
         MsgDisp("Nanatsumori","The time we spend thinking about what to
 do together like this, is good enough for
 me.");
-        MsgDisp("主人公","(｛七ツ森＊｝...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :
         DbgAssert(1);

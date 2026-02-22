@@ -12,7 +12,7 @@ switch (ChPrmGet(2,6)){
     MsgClose();
     BGMPlay("BGM_C02_SASSA_C",0.01);
     ChOpen(2,254,2,2,2,0,#1,0,0);
-    MsgDisp("主人公","｛颯砂＊＊｝...");
+    MsgDisp("主人公","｛Sassa＊＊｝...");
     ChEye(2,2);
     ChMouth(2,2);
     ChMotion(2,2);
@@ -27,7 +27,7 @@ just out of reach...");
 I'm sorry.");
     MsgDisp("主人公","No, not at all.
 It's fine as long as you're satisfied,
-｛颯砂＊＊｝.");
+｛Sassa＊＊｝.");
     ChEye(2,2);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -35,7 +35,7 @@ It's fine as long as you're satisfied,
     MsgDisp("Sassa","You're not just my manager. Winning on my
 own isn't enough...I wanted the team to
 take the championship.");
-    MsgDisp("主人公","｛颯砂＊＊｝...");
+    MsgDisp("主人公","｛Sassa＊＊｝...");
     ChEye(2,4);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -43,7 +43,7 @@ take the championship.");
     MsgDisp("Sassa","If we had won overall...
 I could've given you a medal, too.");
     MsgDisp("主人公","I'm happy you thought of that...
-｛颯砂＊＊｝, thank you.");
+｛Sassa＊＊｝, thank you.");
     ChEye(2,4);
     ChMouth(2,4);
     ChMotion(2,0);

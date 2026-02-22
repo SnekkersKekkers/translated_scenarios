@@ -53,7 +53,7 @@ Please go easy on me.");
     MsgDisp("Sassa","｛主人公｝.
 Did I made it in time!?");
     MsgDisp("主人公","Hm?
-｛颯砂＊＊｝, what is it?");
+｛Sassa＊＊｝, what is it?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);

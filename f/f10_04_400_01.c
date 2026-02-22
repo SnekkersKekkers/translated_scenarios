@@ -2,7 +2,7 @@ BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","...Ah!
-｛七ツ森＊｝, ｛本多＊＊｝!");
+｛Nanatsumori＊｝, ｛Honda＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -26,14 +26,14 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChMotion(4,0,1);
 ChClose(4,0,30);
 ChPosition(3,0);
-MsgDisp("主人公","Hey, ｛本多＊＊｝.
+MsgDisp("主人公","Hey, ｛Honda＊＊｝.
 Can I ask you something?");
 ChSet(3,3);
 VoicePlay("F100440001_03_020");
 MsgDisp("Honda","Yeah yeah.
 I'll tell you anything I know!");
 MsgDisp("主人公","Umm...
-How did you know about ｛七ツ森＊｝'s job
+How did you know about ｛Nanatsumori＊｝'s job
 as a model?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -41,7 +41,7 @@ ChMotion(3,0,1);
 VoicePlay("F100440001_03_030");
 MsgDisp("Honda","Because Mi-kun was in a magazine.");
 MsgDisp("主人公","But he's completely different to the usual
-｛七ツ森＊｝? His hair is different,
+｛Nanatsumori＊｝? His hair is different,
 he's got makeup on, and he's not even
 wearing glasses.");
 ChEye(3,0);
@@ -100,7 +100,7 @@ VoicePlay("F100440001_03_070");
 MsgDisp("Honda","Hmm.
 Shouldn't everyone know by now?
 Right?");
-MsgDisp("主人公","(To think that ｛本多＊＊｝ could tell only
+MsgDisp("主人公","(To think that ｛Honda＊＊｝ could tell only
 by his bone structure...)");
 BGMStop();
 MsgClose();

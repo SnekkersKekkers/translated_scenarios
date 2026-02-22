@@ -38,7 +38,7 @@ ChMouth(6,0);
 ChEyeOpenLevel(6,0);
 MsgDisp("Himuro","Because if I don't, I'll just end up alone
 again.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 VoicePlay("T020621000_06_420");
 ChEye(6,2);
 ChMouth(6,3);

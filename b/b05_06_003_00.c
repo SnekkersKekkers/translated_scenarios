@@ -25,7 +25,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","Eh, ｛氷室＊＊｝?");
+MsgDisp("主人公","Eh, ｛Himuro＊＊｝?");
 SEPlay("EV_SE_501",0,0.9);
 SEWait();
 VoicePlay("B050600300_06_030");
@@ -41,7 +41,7 @@ ScrFadeIn(0);
 VoicePlay("B050600300_06_040");
 MsgDisp("Himuro","I have it...!");
 MsgDisp("主人公","Uwah, awesome!
-You're really amazing, ｛氷室＊＊｝!");
+You're really amazing, ｛Himuro＊＊｝!");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("B050600300_06_050");
@@ -72,7 +72,7 @@ StlEyeOpenLevel(6,0);
 VoicePlay("B050600300_06_090");
 MsgDisp("Himuro","It's really distracting, or I guess,
 embarrassing...");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
 StlEye(6,0);
 StlMouth(6,0);
 StlCheek(6,0);
@@ -106,5 +106,5 @@ VoicePlay("B050600300_06_120");
 MsgDisp("Himuro","Wait there.
 I'm going to exchange more money.");
 MsgDisp("主人公","(Ehh!
-｛氷室＊＊｝ wants to get revenge?)");
+｛Himuro＊＊｝ wants to get revenge?)");
 ChPrmTblAdd(6,0);

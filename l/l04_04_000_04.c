@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","Ah, handmade.");
     MsgDisp("主人公","Yeah.
 I thought you'd like this kind of thing,
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0);
@@ -31,7 +31,7 @@ He seemed happy!)");
     VoicePlay("L040400004_04_020");
     MsgDisp("Nanatsumori","The handmade one came.");
     MsgDisp("主人公","Yeah. I tried making it to your liking,
-｛七ツ森＊｝. How is it?");
+｛Nanatsumori＊｝. How is it?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1);
@@ -57,13 +57,13 @@ Thank goodness!)");
 Oh, looking good.");
     MsgDisp("主人公","Really?
 I did my best so you'd like it,
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("L040400004_04_050");
     MsgDisp("Nanatsumori","I see. Then you're right on the money. I
 like this kind of decoration. You got it.");
-    MsgDisp("主人公","Because it's ｛七ツ森＊｝, you know?");
+    MsgDisp("主人公","Because it's ｛Nanatsumori＊｝, you know?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1);

@@ -76,7 +76,7 @@ I'm nervous...)");
     MsgDisp("Mikage","｛主人公｝.
 That's quite nicely done isn't it, those
 clothes?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Is it really...?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -100,7 +100,7 @@ walk.");
     MsgDisp("Mikage","Hey, hold your head high and go.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Seems like after talking to
-｛御影＊＊｝ my anxieties seem to have
+｛Mikage＊＊｝ my anxieties seem to have
 been relieved. Alright, let's do our
 best!)");
     break ;

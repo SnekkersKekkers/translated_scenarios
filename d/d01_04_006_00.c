@@ -25,7 +25,7 @@ VoicePlay("D010400600_04_010");
 MsgDisp("Nanatsumori","of course.
 Geez...
 What are you worried about?");
-MsgDisp("主人公","(｛七ツ森＊｝!
+MsgDisp("主人公","(｛Nanatsumori＊｝!
 I wonder who that woman is...?)");
 VoicePlay("D010400600_46_020");
 MsgDisp("Woman","It's because you never call me.");
@@ -113,7 +113,7 @@ VoicePlay("D010400600_04_130");
 MsgDisp("Nanatsumori","Ahーh.
 When will she finally let it go?");
 MsgDisp("主人公","(Maybe instead of being bothered by
-｛七ツ森＊｝, she's actually really
+｛Nanatsumori＊｝, she's actually really
 proud of him?)");
 BGMStop();
 MsgClose();

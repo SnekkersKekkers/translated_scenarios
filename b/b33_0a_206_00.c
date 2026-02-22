@@ -42,7 +42,7 @@ MsgDisp("Kazama","Yeah, please.
 No one will be able to stop you.");
 MsgDisp("主人公","Hehe.
 Come to think of it, maybe he looked a
-little bit like ｛颯砂＊＊｝?");
+little bit like ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -92,7 +92,7 @@ ChClose(6,0,30);
 ChClose(1,0,30);
 ChClose(2,0,30);
 MsgDisp("主人公","(Hehe!
-In the end, ｛颯砂＊＊｝ got into it too!)");
+In the end, ｛Sassa＊＊｝ got into it too!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

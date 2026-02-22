@@ -111,7 +111,7 @@ VoicePlay("B330A20400_06_030");
 MsgDisp("Himuro","Yeah, I'll be cheering you on.");
 MsgDisp("主人公","Yes, me too.
 Hehe, this is kind of turning into a
-send-off party for ｛颯砂＊＊｝, isn't it?");
+send-off party for ｛Sassa＊＊｝, isn't it?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -120,7 +120,7 @@ VoicePlay("B330A20400_02_050");
 MsgDisp("Sassa","Thank you.
 Well, shall we have the after-party at a
 cafe?");
-MsgDisp("主人公","(｛颯砂＊＊｝ doesn't really talk about
+MsgDisp("主人公","(｛Sassa＊＊｝ doesn't really talk about
 athletics but...everyone really
 cares...I'm happy the three of them get
 along so well.)");

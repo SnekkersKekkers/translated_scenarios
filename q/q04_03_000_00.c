@@ -4,11 +4,11 @@ switch (ChPrmGet(3,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛本多＊＊｝, good morning!");
+    MsgDisp("主人公","｛Honda＊＊｝, good morning!");
     ChMotion(3,1,1);
     VoicePlay("Q040300000_03_000");
     MsgDisp("Honda","Good morning.");
-    MsgDisp("主人公","｛本多＊＊｝, have you already decided on
+    MsgDisp("主人公","｛Honda＊＊｝, have you already decided on
 who you want to go with for today's free
 time?");
     ChEye(3,0);
@@ -23,7 +23,7 @@ If it's fine with you, want to go
 together?");
     break ;
     case 3:
-    MsgDisp("主人公","｛本多＊＊｝, so you're here.");
+    MsgDisp("主人公","｛Honda＊＊｝, so you're here.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -31,7 +31,7 @@ together?");
     VoicePlay("Q040300000_03_020");
     MsgDisp("Honda","｛主人公｝, good morning!
 Did you need something?");
-    MsgDisp("主人公","Yeah, good morning! ｛本多＊＊｝, I was
+    MsgDisp("主人公","Yeah, good morning! ｛Honda＊＊｝, I was
 wondering if you have anything planned for
 the free period, is all.");
     ChEye(3,3);
@@ -47,7 +47,7 @@ together with me?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛本多＊＊｝, good morning!");
+    MsgDisp("主人公","｛Honda＊＊｝, good morning!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

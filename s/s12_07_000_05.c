@@ -69,7 +69,7 @@ quietly, understood?");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(My high school days will be over in the
-spring...like ｛御影＊＊｝ said, let's
+spring...like ｛Mikage＊＊｝ said, let's
 spend the rest of it without any regrets!)");
     break ;
     case 4:
@@ -111,7 +111,7 @@ feels like I'll be stuck here forever.");
     MsgDisp("Mikage","It's the same as the plants in the
 gardening club, growing roots holding them
 in place...");
-    MsgDisp("主人公","｛御影＊＊｝?");
+    MsgDisp("主人公","｛Mikage＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -138,7 +138,7 @@ Let's move on.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(｛御影＊＊｝ seems a little sad...
+    MsgDisp("主人公","(｛Mikage＊＊｝ seems a little sad...
 But I'm glad I could go with him for my
 final shrine visit.)");
     break ;

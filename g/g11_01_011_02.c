@@ -1,7 +1,7 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛風真＊＊｝ said he had
+MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he had
 something he wanted to talk to me about on
 the way home ...I wonder what it is?)");
 SEStop("EV_SE_SCHOOL_002",1.5);

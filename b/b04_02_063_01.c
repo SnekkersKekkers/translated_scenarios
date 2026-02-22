@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040206301_02_000");
 MsgDisp("Sassa","When you walk slowly, the waves sound so
 loud.");
-MsgSel("｛颯砂＊＊｝ is always running, huh?","The waves make a \"BANG!\" sound.","It's good to walk slowly.");
+MsgSel("｛Sassa＊＊｝ is always running, huh?","The waves make a \"BANG!\" sound.","It's good to walk slowly.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

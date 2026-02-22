@@ -5,7 +5,7 @@ ChMotion(2,0);
 VoiceEVSPlay(2);
 VoicePlay("P640200004_02_000");
 MsgDisp("Sassa","｛主人公｝, thank you for the meal.");
-MsgDisp("主人公","｛颯砂＊＊｝, how did it taste?");
+MsgDisp("主人公","｛Sassa＊＊｝, how did it taste?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -24,7 +24,7 @@ MsgDisp("Sassa","It went extraordinarily well with the
 vegetables. I think if you sold the
 dressing too, it would be super popular");
 MsgDisp("主人公","Yay!
-I'm happy that ｛颯砂＊＊｝ likes it.");
+I'm happy that ｛Sassa＊＊｝ likes it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -37,7 +37,7 @@ ChMotion(2,3);
 VoicePlay("P640200004_02_040");
 MsgDisp("Sassa","Seeing you working in an apron, I'd become
 a regular if this were an everyday shop.");
-MsgDisp("主人公","(Seems like this fits ｛颯砂＊＊｝'s tastes
+MsgDisp("主人公","(Seems like this fits ｛Sassa＊＊｝'s tastes
 perfectly.
 Yay, a huge success!)");
 MsgClose();

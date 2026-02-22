@@ -12,5 +12,5 @@ VoicePlay("B020300002_03_010");
 MsgDisp("Honda","Bingo!
 Green has a relaxing effect.
 Today I can look at you and feel healed.");
-MsgDisp("主人公","(｛本多＊＊｝ likes the color green.
+MsgDisp("主人公","(｛Honda＊＊｝ likes the color green.
 I'll have to remember that.)");

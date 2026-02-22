@@ -33,7 +33,7 @@ with our legs tied together.");
     MsgDisp("主人公","Huh!?");
     MsgDisp("主人公","(Last, huh...
 Looks like something weird started in
-｛風真＊＊｝...)");
+｛Kazama＊＊｝...)");
     break ;
     case 4:
     case 5:
@@ -69,7 +69,7 @@ too.");
     MsgDisp("Kazama","It depends on how you look at it.
 For us, last is fine, isn't it?");
     MsgDisp("主人公","(Last, huh...
-But ｛風真＊＊｝ doesn't seem to care
+But ｛Kazama＊＊｝ doesn't seem to care
 about our rank...)");
     break ;
     default :

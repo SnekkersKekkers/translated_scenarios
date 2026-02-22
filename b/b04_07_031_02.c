@@ -48,7 +48,7 @@ I'm sorry.");
         MsgClose();
         ScrFadeOut(0,0,45);
         ScrFadeIn(0);
-        MsgDisp("主人公","｛御影＊＊｝, I'm sorry.");
+        MsgDisp("主人公","｛Mikage＊＊｝, I'm sorry.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,1);
@@ -81,7 +81,7 @@ apologize when it's absolutely necessary.");
         ChClose(7);
         VoicePlay("B040703102_07_080");
         MsgDisp("Mikage","I'll buy you a Giant Isopod pen set.");
-        MsgDisp("主人公","(｛御影＊＊｝ is kind.
+        MsgDisp("主人公","(｛Mikage＊＊｝ is kind.
 ...But let's be more careful about
 forgetting things.)");
         break ;

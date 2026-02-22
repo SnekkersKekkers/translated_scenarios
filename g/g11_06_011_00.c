@@ -6,7 +6,7 @@ ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(6);
 VoicePlay("G110601100_06_000");
 MsgDisp("Himuro","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 What's wrong?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -88,7 +88,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G110601100_06_110");
 MsgDisp("Himuro","Well, it's been quite fun.
 Thanks for everything.");
-MsgDisp("主人公","(｛氷室＊＊｝...)");
+MsgDisp("主人公","(｛Himuro＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

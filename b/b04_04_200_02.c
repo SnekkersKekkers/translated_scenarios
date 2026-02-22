@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040420002_04_000");
 MsgDisp("Nanatsumori","Skiwear is tough, isn't it?
 I mean, it makes you look bulky...");
-MsgSel("It's not a problem if you can ski coolly.","I don't care about fashion when skiing","If it's you, ｛七ツ森＊｝, you can pull it off!");
+MsgSel("It's not a problem if you can ski coolly.","I don't care about fashion when skiing","If it's you, ｛Nanatsumori＊｝, you can pull it off!");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){
@@ -64,7 +64,7 @@ half-baked.");
         ChCheek(4,8);
         VoicePlay("B040420002_04_070");
         MsgDisp("Nanatsumori","Why are you laughing?");
-        MsgDisp("主人公","That's just like you, ｛七ツ森＊｝.");
+        MsgDisp("主人公","That's just like you, ｛Nanatsumori＊｝.");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,1,1);
@@ -83,7 +83,7 @@ If you took that from me, I would have
 nothing left.");
         MsgDisp("主人公","That's not true.
 I respect that of you very much,
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -103,7 +103,7 @@ I only need to try looking cool at work.");
         VoicePlay("B040420002_04_120");
         MsgDisp("Nanatsumori","You accept me as I am.
 ...Thank you.");
-        MsgDisp("主人公","(｛七ツ森＊｝...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :
         DbgAssert(1);

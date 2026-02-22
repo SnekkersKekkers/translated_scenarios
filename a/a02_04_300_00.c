@@ -146,7 +146,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.5);
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝?");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝?");
 ChEye(4,5);
 ChMouth(4,2);
 ChMotion(4,5,1);
@@ -211,7 +211,7 @@ VoicePlay("A020430000_04_170");
 MsgDisp("Nanatsumori","It's worse if you apologize...
 Realizing I just shot myself in the foot
 like an idiot.");
-MsgDisp("主人公","｛七ツ森＊｝, is it possible that
+MsgDisp("主人公","｛Nanatsumori＊｝, is it possible that
 you're keeping your model identity a
 secret from people at school?");
 ChEye(4,0);
@@ -264,8 +264,8 @@ MsgDisp("主人公","(Now that I think of it, there's a famous
 modelling agency right around the corner,
 isn't there?)");
 SEStop("EV_SE_DOOR_014",1);
-MsgDisp("主人公","(｛七ツ森＊｝ probably does modelling
+MsgDisp("主人公","(｛Nanatsumori＊｝ probably does modelling
 jobs as NANA there. Do your best,
-｛七ツ森＊｝! )");
+｛Nanatsumori＊｝! )");
 MsgClose();
 ScrFadeOut(0);

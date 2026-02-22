@@ -67,7 +67,7 @@ very happy with it.");
         VoicePlay("B040516002_05_060");
         MsgDisp("Hiiragi","Ah, do you doubt my technique?");
         MsgDisp("主人公","No, if I got to see your happy face when
-you were able to win, ｛柊＊＊＊｝,
+you were able to win, ｛Hiiragi＊＊＊｝,
 anything would be good with me.");
         ChEye(5,3);
         ChMouth(5,2);
@@ -94,7 +94,7 @@ definitely win.");
         ChClose(5);
         SEWait();
         MsgDisp("主人公","(I'm happy...
-｛柊＊＊＊｝ is always trying to make me
+｛Hiiragi＊＊＊｝ is always trying to make me
 happy.)");
         MsgClose();
         ScrFadeOut(0,0);

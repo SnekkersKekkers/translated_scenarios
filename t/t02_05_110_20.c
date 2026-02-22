@@ -1,4 +1,4 @@
-MsgDisp("主人公","I too, like ｛柊＊＊＊｝.");
+MsgDisp("主人公","I too, like ｛Hiiragi＊＊＊｝.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEye(5,4);
@@ -7,7 +7,7 @@ ChEyeOpenLevel(5,10);
 ChCheek(5,5);
 VoicePlay("T020511020_05_000");
 MsgDisp("Hiiragi","Eh...");
-MsgDisp("主人公","Even if times are tough, ｛柊＊＊＊｝
+MsgDisp("主人公","Even if times are tough, ｛Hiiragi＊＊＊｝
 always tries his best and shines so
 brightly.");
 ChMotion(5,0,1);

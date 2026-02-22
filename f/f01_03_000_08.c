@@ -1,6 +1,6 @@
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛本多＊＊｝.");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,254,0,1,4,#1,#1,0,0);
@@ -10,4 +10,4 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(3);
 SEWait();
-MsgDisp("主人公","(｛本多＊＊｝ looked mad...)");
+MsgDisp("主人公","(｛Honda＊＊｝ looked mad...)");

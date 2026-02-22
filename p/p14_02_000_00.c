@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("P140200000_02_000");
 MsgDisp("Sassa","Yahoo, it's the finish line!
 That took some timeー");
-MsgDisp("主人公","｛颯砂＊＊｝, how was it?");
+MsgDisp("主人公","｛Sassa＊＊｝, how was it?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -30,7 +30,7 @@ I'm off.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛颯砂＊＊｝, seems like you're completely
+MsgDisp("主人公","(｛Sassa＊＊｝, seems like you're completely
 hooked!
 Yay, it's a great success.)");
 MsgClose();

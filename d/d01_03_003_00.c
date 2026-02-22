@@ -9,7 +9,7 @@ SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0.3,0.5);
 Wait(80,1);
 SEStop("EV_SE_FOOT_WALK_KEEP_ALONE",0.5);
 Wait(30,1);
-MsgDisp("主人公","...｛本多＊＊｝? You're here for the
+MsgDisp("主人公","...｛Honda＊＊｝? You're here for the
 extracurricular lesson! What's up?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_C",0.01);
@@ -78,7 +78,7 @@ StlMouth(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300300_03_090");
 MsgDisp("Honda","I guess it something similar to that～");
-MsgDisp("主人公","(｛本多＊＊｝'s explanation is easy to
+MsgDisp("主人公","(｛Honda＊＊｝'s explanation is easy to
 understand but to use his dad's shirt in
 the analogy is kind of...)");
 MsgClose();
@@ -107,7 +107,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 MsgDisp("主人公","O-Okay.
 I'll give it a try!");
-MsgDisp("主人公","(｛本多＊＊｝'s shirt is probably so baggy
+MsgDisp("主人公","(｛Honda＊＊｝'s shirt is probably so baggy
 on him because it's actually his
 father's...)");
 MsgClose();

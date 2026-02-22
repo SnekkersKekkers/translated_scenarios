@@ -12,7 +12,7 @@ ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("P740400001_04_000");
 MsgDisp("Nanatsumori","Good work.
 Are you okay?");
-MsgDisp("主人公","｛七ツ森＊｝, I...");
+MsgDisp("主人公","｛Nanatsumori＊｝, I...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

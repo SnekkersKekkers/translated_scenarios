@@ -126,7 +126,7 @@ ScrFadeOut(0);
 StlClose();
 SEPlay("EV_SE_080");
 MsgDisp("主人公","(Weird...
-Thanks to ｛御影＊＊｝, I feel like I
+Thanks to ｛Mikage＊＊｝, I feel like I
 got some strength back!)");
 MsgClose();
 SEStop("EV_SE_080");

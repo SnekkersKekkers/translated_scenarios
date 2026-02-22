@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,2);
     VoicePlay("H480400000_04_000");
     MsgDisp("Nanatsumori","Oh...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 Did you come to cheer me on?");
     ChEye(4,4);
     ChMouth(4,4);
@@ -41,7 +41,7 @@ performance.");
     VoicePlay("H480400000_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.
 I came to cheer you on.");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 Thank you.");
     VoicePlay("H480400000_04_050");
     MsgDisp("Nanatsumori","Yeah.");

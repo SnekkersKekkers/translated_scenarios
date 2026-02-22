@@ -14,4 +14,4 @@ MsgDisp("Honda","Ah, that might be it!
 ...But even so, why am I feeling so
 excited?");
 MsgDisp("主人公","(Oh, good!
-｛本多＊＊｝ seems to really like this.)");
+｛Honda＊＊｝ seems to really like this.)");

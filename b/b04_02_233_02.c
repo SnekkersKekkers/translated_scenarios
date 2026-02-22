@@ -64,7 +64,7 @@ I'm sorry.");
         VoicePlay("B040223302_02_050");
         MsgDisp("Sassa","I'm kind of insensitive, huhー");
         MsgDisp("主人公","I didn't mean to blame you like that...
-｛颯砂＊＊｝ is always kind and looking out
+｛Sassa＊＊｝ is always kind and looking out
 for me.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -114,7 +114,7 @@ in an instant.");
         VoicePlay("B040223302_02_120");
         MsgDisp("Sassa","Then, just so I won't be mean to you, I'll
 be careful.");
-        MsgDisp("主人公","(MAybe this is a worry only ｛颯砂＊＊｝
+        MsgDisp("主人公","(MAybe this is a worry only ｛Sassa＊＊｝
 has...)");
         break ;
         default :

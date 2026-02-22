@@ -17,7 +17,7 @@ ChMotion(2,4);
 VoicePlay("G020220100_02_020");
 MsgDisp("Sassa","Though maybe I just think that 'cause of
 how I feel.");
-MsgDisp("主人公","How you feel, ｛颯砂＊＊｝?");
+MsgDisp("主人公","How you feel, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -41,7 +41,7 @@ VoicePlay("G020220100_02_050");
 MsgDisp("Sassa","I think there's still time to the finish
 line.
 The real race starts now.");
-MsgDisp("主人公","(｛颯砂＊＊｝...)");
+MsgDisp("主人公","(｛Sassa＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

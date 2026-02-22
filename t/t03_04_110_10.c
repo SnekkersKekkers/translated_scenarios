@@ -1,7 +1,7 @@
 MsgDisp("","After graduating, I went to a vocational
-school with ｛七ツ森＊｝.");
+school with ｛Nanatsumori＊｝.");
 MsgClear();
-MsgDisp("","｛七ツ森＊｝ is aiming to become a
+MsgDisp("","｛Nanatsumori＊｝ is aiming to become a
 video creator, taking the promotion
 techniques he learned from social media
 during high school and the ways of

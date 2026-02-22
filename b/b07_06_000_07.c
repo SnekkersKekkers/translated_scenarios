@@ -1,5 +1,5 @@
 MsgDisp("主人公","What's your dream for the future,
-｛氷室＊＊｝?");
+｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -57,7 +57,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600000_06_420");
 MsgDisp("Himuro","Thanks.");
-MsgDisp("主人公","(I hope ｛氷室＊＊｝ finds the thing he
+MsgDisp("主人公","(I hope ｛Himuro＊＊｝ finds the thing he
 wants to do.)");
 BGMStop();
 MsgClose();

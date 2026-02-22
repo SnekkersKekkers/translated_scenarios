@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Haa...why did I say such a thing...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","My phone...
-Ah, ｛柊＊＊＊｝!");
+Ah, ｛Hiiragi＊＊＊｝!");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","...Hello?");
@@ -47,6 +47,6 @@ MsgDisp("Hiiragi","Yes, please be careful.
 I'll see you then.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛柊＊＊＊｝ called me out of concern...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ called me out of concern...)");
 MsgClose();
 ScrFadeOut(0,0);

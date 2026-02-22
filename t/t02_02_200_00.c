@@ -11,7 +11,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛颯砂＊＊｝...
+MsgDisp("主人公","｛Sassa＊＊｝...
 Why are you here?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -64,7 +64,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("T020220000_02_080");
 MsgDisp("Sassa","But I don't put in any effort.
 I just like it and it's fun, that's all.");
-MsgDisp("主人公","It's so ｛颯砂＊＊｝ -like.
+MsgDisp("主人公","It's so ｛Sassa＊＊｝ -like.
 That's amazing.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -83,7 +83,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220000_02_110");
 MsgDisp("Sassa","...That's easy.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -142,7 +142,7 @@ MsgDisp("Sassa","I don't want to be some track and field
 fanatic isolated from everyone else, I
 want to make my dreams come true as Nozomu
 Sassa.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 MsgClear();
 ChClose(2);
 ChCustomLayout(2,5,0,-2.8);

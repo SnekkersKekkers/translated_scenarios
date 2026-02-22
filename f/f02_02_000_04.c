@@ -5,7 +5,7 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, it's almost your birthday,
+MsgDisp("主人公","｛Sassa＊＊｝, it's almost your birthday,
 right?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -22,7 +22,7 @@ VoicePlay("F020200004_02_010");
 MsgDisp("Sassa","Yeah, it would be nice to age all at once.
 That way, I could do decathlons earlier.");
 MsgDisp("主人公","That's right.
-｛颯砂＊＊｝'s goal is the decathlon, right?");
+｛Sassa＊＊｝'s goal is the decathlon, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -35,7 +35,7 @@ ChMotion(2,4);
 VoicePlay("F020200004_02_030");
 MsgDisp("Sassa","So I've long awaited the birthday where I
 can finally go to the higher meetings.");
-MsgDisp("主人公","Sounds like ｛颯砂＊＊｝.");
+MsgDisp("主人公","Sounds like ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -63,7 +63,7 @@ ChMotion(2,4);
 VoicePlay("F020200004_02_070");
 MsgDisp("Sassa","I hope to welcome another good year.");
 MsgDisp("主人公","I get it.
-If it's ｛颯砂＊＊｝, then your record will
+If it's ｛Sassa＊＊｝, then your record will
 definitely keep growing.");
 ChEye(2,3);
 ChMouth(2,4);
@@ -75,4 +75,4 @@ ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","(To think about sports so much you tie
 your birthday to them...it makes me root
-for ｛颯砂＊＊｝ even more!)");
+for ｛Sassa＊＊｝ even more!)");

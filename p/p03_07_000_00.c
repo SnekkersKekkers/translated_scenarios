@@ -17,7 +17,7 @@ come...)");
     ChOpen(7,254,4,0,0,#1,#1,0,0);
     VoicePlay("P030700000_07_000");
     MsgDisp("Mikage","Ooh, pretty busy here.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 It's been a great success.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -49,7 +49,7 @@ come...)");
     MsgDisp("Mikage","Woah!
 Don't you think our class is the most
 popular?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Did you come to check on us?");
     ChEye(7,0);
     ChMouth(7,0);

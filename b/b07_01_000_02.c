@@ -14,7 +14,7 @@ VoicePlay("B070100000_01_070");
 MsgDisp("Kazama","Delicious.
 Especially fresh soba, fewly-made.");
 MsgDisp("主人公","I can see you making it yourself,
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
@@ -42,7 +42,7 @@ ChCheek(1,7);
 VoicePlay("B070100000_01_100");
 MsgDisp("Kazama","Y-You...");
 MsgDisp("主人公","(Ahh, how embarrassing...
-But why is ｛風真＊＊｝ getting shy?)");
+But why is ｛Kazama＊＊｝ getting shy?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

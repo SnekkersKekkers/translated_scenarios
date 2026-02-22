@@ -5,7 +5,7 @@ Wait(60,0);
 VoicePlay("T020101000_01_340");
 MsgDisp("Kazama","...A promise kiss.");
 ChEye(1,4);
-MsgDisp("主人公","Yes, I also like ｛風真＊＊｝.
+MsgDisp("主人公","Yes, I also like ｛Kazama＊＊｝.
 Thank you for always thinking of me.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -55,7 +55,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020101000_01_430");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝...
+MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);

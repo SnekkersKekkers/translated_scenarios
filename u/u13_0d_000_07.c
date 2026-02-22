@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛大地＊＊｝, I guess...");
+MsgDisp("主人公","｛Daichi＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -51,7 +51,7 @@ lot of interest in Habataki celebrities.");
     MsgDisp("Michiru","I think Mari should show him how cool she
 is. Making a lot of friends at school
 might ignite his competitive side");
-    MsgDisp("主人公","(｛大地＊＊｝ is competitive, huh...
+    MsgDisp("主人公","(｛Daichi＊＊｝ is competitive, huh...
 If I become friends with him, will I be
 able to see every side of him?)");
     break ;
@@ -91,7 +91,7 @@ He's setting his sights on it...");
     MsgDisp("Hikaru","If Mari likes him too, then I think the
 key is to have the same goals.
 Good luck♪");
-    MsgDisp("主人公","(The same goals as ｛大地＊＊｝...)");
+    MsgDisp("主人公","(The same goals as ｛Daichi＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

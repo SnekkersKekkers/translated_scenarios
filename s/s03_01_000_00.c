@@ -6,7 +6,7 @@ switch (ChPrmGet(1,6)){
     case 2:
     VoicePlay("S030100000_01_000");
     MsgDisp("Kazama","Happy New Year.");
-    MsgDisp("主人公","｛風真＊＊｝, Happy New Years!");
+    MsgDisp("主人公","｛Kazama＊＊｝, Happy New Years!");
     VoicePlay("S030100000_01_010");
     MsgDisp("Kazama","You're doing well this year too.");
     MsgDisp("主人公","Hehe, yep.
@@ -15,7 +15,7 @@ Are you going to visit the shrine?");
     case 3:
     VoicePlay("S030100000_01_020");
     MsgDisp("Kazama","Happy New Year.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, Happy New Year.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, Happy New Year.
 Please treat me well this year too.");
     VoicePlay("S030100000_01_030");
     MsgDisp("Kazama","Same to you.");

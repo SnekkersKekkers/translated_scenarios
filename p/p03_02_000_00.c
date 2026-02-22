@@ -19,7 +19,7 @@ come...)");
     VoicePlay("P030200000_02_000");
     MsgDisp("Sassa","Excuse me!
 Wow...this is pretty fancy.");
-    MsgDisp("主人公","｛颯砂＊＊｝, welcome!");
+    MsgDisp("主人公","｛Sassa＊＊｝, welcome!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -55,7 +55,7 @@ come...)");
     VoicePlay("P030200000_02_030");
     MsgDisp("Sassa","｛主人公｝, I was lured here by the smell
 of those dango.");
-    MsgDisp("主人公","It's ｛颯砂＊＊｝!
+    MsgDisp("主人公","It's ｛Sassa＊＊｝!
 Welcome!");
     ChEye(2,0);
     ChMouth(2,4);

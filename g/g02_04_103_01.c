@@ -7,7 +7,7 @@ MsgDisp("Nanatsumori","The firefly lights are so warm, huh.");
 MsgDisp("主人公","You're right.
 Warm, cozy colors in the sky...
 Ah.");
-MsgDisp("主人公","｛七ツ森＊｝, it looks like the lights
+MsgDisp("主人公","｛Nanatsumori＊｝, it looks like the lights
 from the equipment room!");
 ChEye(4,0);
 ChMouth(4,3);
@@ -60,7 +60,7 @@ MsgDisp("Nanatsumori","Well, that's fine.
 You can visit my room again.
 I'll get you a nice cake.");
 MsgDisp("主人公","(Yay!
-But, I wonder what ｛七ツ森＊｝ meant
+But, I wonder what ｛Nanatsumori＊｝ meant
 by saying I don't see him as a man...)");
 BGMStop();
 MsgClose();

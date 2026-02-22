@@ -9,7 +9,7 @@ ChOpen(3,255,4,4,0,#1,#1,0,0);
 VoicePlay("M010300000_03_000");
 MsgDisp("Honda","Ah, thank goodness.
 You're doing better than I expected.");
-MsgDisp("主人公","Eh, ｛本多＊＊｝∋");
+MsgDisp("主人公","Eh, ｛Honda＊＊｝∋");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,5);
@@ -57,7 +57,7 @@ ChMotion(3,0);
 VoicePlay("M010300000_03_070");
 MsgDisp("Honda","And how school's not as fun without you
 around, too.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -99,5 +99,5 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(｛本多＊＊｝ paid me a get well visit...
+MsgDisp("主人公","(｛Honda＊＊｝ paid me a get well visit...
 I better get better fast!)");

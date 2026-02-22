@@ -26,7 +26,7 @@ student.");
 Then, maybe I'll ask you to teach me too,
 next time?");
     MsgDisp("主人公","(There's nothing I can teach you,
-｛風真＊＊｝...!
+｛Kazama＊＊｝...!
 But, I'm happy everyone is saying that.)");
     break ;
     case 4:

@@ -8,7 +8,7 @@ MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","It's so beautiful...
-Hey, ｛本多＊＊｝!");
+Hey, ｛Honda＊＊｝!");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -46,7 +46,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B140300000_03_040");
 MsgDisp("Honda","Hehe, Merry Christmas!");
 MsgDisp("主人公","(Both yesterday and today, I spent with
-｛本多＊＊｝.
+｛Honda＊＊｝.
 What a happy Christmas!)");
 BGMStop();
 MsgClose();

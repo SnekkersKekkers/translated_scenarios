@@ -74,7 +74,7 @@ my shoulder, even hold my hand.");
         MsgDisp("Kazama","You get it? We can do something a little
 bit different, since the two of us have
 come this far...");
-        MsgDisp("主人公","(｛風真＊＊｝, but aren't we still in
+        MsgDisp("主人公","(｛Kazama＊＊｝, but aren't we still in
 Habataki City?)");
         break ;
         default :

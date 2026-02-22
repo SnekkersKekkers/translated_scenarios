@@ -11,7 +11,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540700005_07_000");
 MsgDisp("Mikage","Good work.");
-MsgDisp("主人公","｛御影＊＊｝...
+MsgDisp("主人公","｛Mikage＊＊｝...
 I failed...");
 ChEye(7,0);
 ChMouth(7,4);
@@ -42,7 +42,7 @@ ChMotion(7,0);
 VoicePlay("P540700005_07_040");
 MsgDisp("Mikage","Alright, good girl.
 If you understand, go find everyone.");
-MsgDisp("主人公","(｛御影＊＊｝...thank you very much.
+MsgDisp("主人公","(｛Mikage＊＊｝...thank you very much.
 Although it was a fail in the end, I'm
 glad I continued with the wind music
 club.)");

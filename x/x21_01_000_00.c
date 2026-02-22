@@ -6,7 +6,7 @@ VoiceEVSPlay(1);
 VoicePlay("X210100000_01_000");
 MsgDisp("Kazama","｛主人公｝.
 Congratulations on being Rose Queen.");
-MsgDisp("主人公","｛風真＊＊｝, thank you.
+MsgDisp("主人公","｛Kazama＊＊｝, thank you.
 But, I wonder if I'm really good enough.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -58,7 +58,7 @@ VoicePlay("X210100000_01_060");
 MsgDisp("Kazama","That's why, it is only right that you
 became Rose Queen.");
 MsgDisp("主人公","Thank you.
-I'm happy to hear ｛風真＊＊｝ say it like
+I'm happy to hear ｛Kazama＊＊｝ say it like
 that.");
 ChEye(1,0);
 ChMouth(1,2);

@@ -7,7 +7,7 @@ ChOpen(2,41,0,2,0,#1,#1,0,0);
 VoicePlay("D010200400_02_000");
 MsgDisp("Sassa","That's strange...
 Is it broken?");
-MsgDisp("主人公","｛颯砂＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Sassa＊＊｝, what's wrong?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -74,7 +74,7 @@ StlMouth(2,0);
 VoicePlay("D010200400_02_090");
 MsgDisp("Sassa","R-Really?");
 MsgDisp("主人公","Your heart rate is so fast...!
-｛颯砂＊＊｝, are you okay?");
+｛Sassa＊＊｝, are you okay?");
 StlEye(2,1);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);

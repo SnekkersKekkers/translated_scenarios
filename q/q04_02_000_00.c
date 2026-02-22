@@ -2,9 +2,9 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(I wonder if ｛颯砂＊＊｝ is here...
+    MsgDisp("主人公","(I wonder if ｛Sassa＊＊｝ is here...
 Ah, there he is!)");
-    MsgDisp("主人公","｛颯砂＊＊｝.
+    MsgDisp("主人公","｛Sassa＊＊｝.
 Good morning!");
     MsgClose();
     SEPlay("EV_SE_544");
@@ -18,7 +18,7 @@ Hey, why don't we go together for today's
 free period?");
     break ;
     case 3:
-    MsgDisp("主人公","｛颯砂＊＊｝.
+    MsgDisp("主人公","｛Sassa＊＊｝.
 Good morning!");
     MsgClose();
     SEPlay("EV_SE_544");
@@ -31,7 +31,7 @@ Wanna go together for today's free time?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛颯砂＊＊｝, morning!
+    MsgDisp("主人公","｛Sassa＊＊｝, morning!
 Did you sleep well?");
     MsgClose();
     SEPlay("EV_SE_544");

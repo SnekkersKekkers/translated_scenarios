@@ -18,7 +18,7 @@ I can't do that.");
 VoicePlay("F110410001_47_010");
 MsgDisp("Woman Customer B","Come on!
 I think you'd be totally handsome～!");
-MsgDisp("主人公","｛七ツ森＊｝!");
+MsgDisp("主人公","｛Nanatsumori＊｝!");
 ChMotion(4,1,1);
 VoicePlay("F110410001_04_010");
 MsgDisp("Nanatsumori","Ah, someone's calling me.
@@ -61,7 +61,7 @@ MsgDisp("Nanatsumori","Here.
 Take a takoyaki.
 My thanks for rescuing me.");
 MsgDisp("主人公","(Yay!
-Even though ｛七ツ森＊｝ is in a school
+Even though ｛Nanatsumori＊｝ is in a school
 uniform, he still stands out, huh...)");
 MsgClose();
 MsgClose();

@@ -42,7 +42,7 @@ MsgClose();
 VoicePlay("B360316001_03_030");
 MsgDisp("Honda","Ugh...
 I can't keep up at all...");
-MsgDisp("主人公","｛本多＊＊｝ you picked a really
+MsgDisp("主人公","｛Honda＊＊｝ you picked a really
 high-difficulty stage right off the bat.");
 ChEye(3,2);
 ChMouth(3,4);
@@ -68,7 +68,7 @@ ChMotion(3,4,1);
 VoicePlay("B360316001_03_060");
 MsgDisp("Honda","Yeah, your one comment has me sweating
 buckets.");
-MsgDisp("主人公","(｛本多＊＊｝, are you okay..?)");
+MsgDisp("主人公","(｛Honda＊＊｝, are you okay..?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -13,7 +13,7 @@ BGMPlay("BGM_C06_INORI_KOKU",0.01);
 ChOpen(6,254,2,4,0,8,#1,0,0);
 VoicePlay("T020600000_06_010");
 MsgDisp("Himuro","Thank goodness.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020600000_06_020");

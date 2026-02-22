@@ -36,7 +36,7 @@ rest!");
     VoicePlay("Q120300000_03_030");
     MsgDisp("Honda","The free activity is over.
 It was sooo fun.");
-    MsgDisp("主人公","Yeah, thanks to you, ｛本多＊＊｝, it was
+    MsgDisp("主人公","Yeah, thanks to you, ｛Honda＊＊｝, it was
 very fulfilling.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -72,7 +72,7 @@ I'm gonna peek into the kitchen!");
     SEWait();
     MsgDisp("主人公","(Hehe!
 I'm happy I was able to look around with
-｛本多＊＊｝)");
+｛Honda＊＊｝)");
     break ;
     case 4:
     case 5:
@@ -106,7 +106,7 @@ where I went with you.
     MsgDisp("Honda","Daaah, in the way I put it, Nagasaki is no
 longer relevant, I guess?");
     MsgDisp("主人公","Hehe, but it's also true for me that
-anywhere with you, ｛本多＊＊｝, becomes
+anywhere with you, ｛Honda＊＊｝, becomes
 fun.");
     ChEye(3,0);
     ChMouth(3,0);

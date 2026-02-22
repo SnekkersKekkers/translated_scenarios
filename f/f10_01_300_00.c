@@ -32,7 +32,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,2,0,30);
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,0,2,8,#1,0,0);
-MsgDisp("主人公","Oh, ｛風真＊＊｝.");
+MsgDisp("主人公","Oh, ｛Kazama＊＊｝.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -101,7 +101,7 @@ ChMotion(22,0,1);
 VoicePlay("F100130000_22_050");
 MsgDisp("Hikaru","No, nothing.");
 MsgDisp("主人公","(They really just came to mess with
-｛風真＊＊｝...)");
+｛Kazama＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

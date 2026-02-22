@@ -15,7 +15,7 @@ switch (ChPrmGet(5,6)){
     VoiceEVSPlay(5);
     VoicePlay("H1A0500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝, congratulations.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, we did it!
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, we did it!
 We won.");
     ChEye(5,3);
     ChMouth(5,3);
@@ -43,7 +43,7 @@ I'm so happy...");
     VoicePlay("H1A0500000_05_040");
     MsgDisp("Hiiragi","Rather than me, please show those
 beautiful tears to the players.");
-    MsgDisp("主人公","Yes, thank you, ｛柊＊＊＊｝!");
+    MsgDisp("主人公","Yes, thank you, ｛Hiiragi＊＊＊｝!");
     MsgDisp("主人公","(I'm glad that I stayed as the baseball
 club manager...!)");
     break ;

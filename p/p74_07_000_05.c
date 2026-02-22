@@ -12,7 +12,7 @@ VoiceEVSPlay(7);
 VoicePlay("P740700005_07_000");
 MsgDisp("Mikage","｛主人公｝, are you okay?
 Are you hurt?");
-MsgDisp("主人公","｛御影＊＊｝...
+MsgDisp("主人公","｛Mikage＊＊｝...
 Yes, I'm okay...");
 ChEye(7,2);
 ChMouth(7,0);
@@ -48,7 +48,7 @@ VoicePlay("P740700005_07_050");
 MsgDisp("Mikage","That's right.
 I'm sure at that time, you'll remember
 today too.");
-MsgDisp("主人公","(｛御影＊＊｝, you're kind...
+MsgDisp("主人公","(｛Mikage＊＊｝, you're kind...
 But if I prepared more carefully, I'm sure
 this would be a nicer memory...)");
 MsgClose();

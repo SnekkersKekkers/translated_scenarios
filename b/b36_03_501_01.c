@@ -29,7 +29,7 @@ MsgDisp("Honda","I never really knew what it was like to be
 so caught up in the moment that I can't
 see what's ahead.");
 MsgDisp("主人公","Well, you're always thinking about so many
-things, ｛本多＊＊｝.");
+things, ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -45,7 +45,7 @@ MsgDisp("Honda","People are fascinating, huh?
 It's like there are parts of myself I'm
 still discovering.");
 MsgDisp("主人公","Maybe it's your way of thinking that's
-interesting, ｛本多＊＊｝.");
+interesting, ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -60,7 +60,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B360350101_03_060");
 MsgDisp("Honda","Who would've thought I'd find something so
 interesting so close by!");
-MsgDisp("主人公","(｛本多＊＊｝ seems to have turned himself
+MsgDisp("主人公","(｛Honda＊＊｝ seems to have turned himself
 into his own research subject...)");
 BGMStop();
 MsgClose();

@@ -1,6 +1,6 @@
 MsgDisp("主人公","(I should slowly make my way home...Ah,
 it's still early. Let's try going to the
-beach. Maybe ｛颯砂＊＊｝ is training
+beach. Maybe ｛Sassa＊＊｝ is training
 there?)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -9,12 +9,12 @@ MsgClose();
 BGOpen("wf210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Hmm...
-It doesn't seem like ｛颯砂＊＊｝ is here.
+It doesn't seem like ｛Sassa＊＊｝ is here.
 It can't be helped, time to go home...)");
 VoicePlay("G110200200_02_000");
 MsgDisp("Sassa?","Heeey!
 Over here, over here!");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝?");
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝?");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -25,7 +25,7 @@ ChOpen(2,41,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200200_02_010");
 MsgDisp("Sassa","Huh...what are you doing here?");
-MsgDisp("主人公","I thought maybe ｛颯砂＊＊｝ was out
+MsgDisp("主人公","I thought maybe ｛Sassa＊＊｝ was out
 running here.");
 ChEye(2,0);
 ChMouth(2,3);
@@ -92,6 +92,6 @@ SEStop("EV_SE_FOOT_037",2);
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(I would be happy if my article was even a
-little bit of help to ｛颯砂＊＊｝!)");
+little bit of help to ｛Sassa＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

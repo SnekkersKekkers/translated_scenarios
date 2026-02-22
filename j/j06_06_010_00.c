@@ -23,7 +23,7 @@ There you go.");
         MsgDisp("Himuro","Then don't be late on that day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(｛氷室＊＊｝ He just asked me out on a
+        MsgDisp("主人公","(｛Himuro＊＊｝ He just asked me out on a
 date.
 I'm looking forward to Sunday!)");
         break ;

@@ -59,7 +59,7 @@ the taste.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Thank goodness, ｛柊＊＊＊｝ seems
+    MsgDisp("主人公","(Thank goodness, ｛Hiiragi＊＊＊｝ seems
 happy!)");
     break ;
     case 4:
@@ -86,7 +86,7 @@ this.");
     MsgDisp("Hiiragi","This chocolate is the fruit of your time
 and effort.
 That makes me very happy.");
-    MsgDisp("主人公","｛柊＊＊＊｝, you're exaggerating a bit.");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, you're exaggerating a bit.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -106,7 +106,7 @@ Let us eat it together.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(Thank goodness...
-｛柊＊＊＊｝ seemed happy!)");
+｛Hiiragi＊＊＊｝ seemed happy!)");
     break ;
     default :
     DbgAssert(1);

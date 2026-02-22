@@ -7,7 +7,7 @@ switch (ChPrmGet(2,6)){
     case 2:
     MsgDisp("主人公","Welcome!
 ...Hm?
-｛颯砂＊＊｝.");
+｛Sassa＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,0,#1,#1,0,0);
@@ -65,12 +65,12 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ seemed to like it.
+    MsgDisp("主人公","(｛Sassa＊＊｝ seemed to like it.
 I'm glad.
 Let's work harder!)");
     break ;
     case 3:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Welcome!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -112,17 +112,17 @@ I can tell the store trusts you.");
     MsgDisp("Sassa","Ah, take care of your hands.
 I take care of my body, too.
 It's the same.");
-    MsgDisp("主人公","Yeah, thanks, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Yeah, thanks, ｛Sassa＊＊｝.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ encouraged me...
+    MsgDisp("主人公","(｛Sassa＊＊｝ encouraged me...
 Alright, let's do our best!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Welcome!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -165,7 +165,7 @@ I'm feeling a little strange.");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","(Strange...?
-I wonder what happened to ｛颯砂＊＊｝?)");
+I wonder what happened to ｛Sassa＊＊｝?)");
     break ;
     default :
     DbgAssert(1);

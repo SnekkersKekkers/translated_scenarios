@@ -23,7 +23,7 @@ VoicePlay("D010500000_47_000");
 MsgDisp("Woman Customer B","Yeah, he was lovely～!");
 SEStop("EV_SE_637",2);
 MsgDisp("主人公","(It looks like the play just finished.
-｛柊＊＊＊｝ was really popular.
+｛Hiiragi＊＊＊｝ was really popular.
 Now, where are the dressing rooms...?)");
 MsgClose();
 ScrFadeOut(0,0);
@@ -51,7 +51,7 @@ VoicePlay("D010500000_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
 What are you doing here?");
 MsgDisp("主人公","Eh...
-｛柊＊＊＊｝, is that you?");
+｛Hiiragi＊＊＊｝, is that you?");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500000_05_020");
 MsgDisp("Hiiragi","Yes.
@@ -85,7 +85,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛柊＊＊＊｝ as a woman looks lovely...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ as a woman looks lovely...
 He was so beautiful it made me nervous.)");
 VoicePlay("D010500000_05_060");
 MsgDisp("Hiiragi","Excuse me.
@@ -127,7 +127,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 MsgDisp("主人公","(Phew...That was a good interview!
-｛柊＊＊＊｝ shared a lot with me, even
+｛Hiiragi＊＊＊｝ shared a lot with me, even
 though we didn't have much time.)");
 MsgClose();
 Wait(40,0);

@@ -10,7 +10,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah...
-｛氷室＊＊｝!
+｛Himuro＊＊｝!
 Were you out shopping?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -28,7 +28,7 @@ ChOpen(7,255,0,0,0,#1,#1,0,2);
 VoicePlay("E010630100_07_000");
 MsgDisp("Mikage","Yo!
 Are you ready?");
-MsgDisp("主人公","Ah, ｛御影＊＊｝!");
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -36,7 +36,7 @@ VoicePlay("E010630100_06_020");
 MsgDisp("Himuro","Kojiro-senpai...
 Why are you here?");
 MsgDisp("主人公","Huh?
-Isn't ｛御影＊＊｝ the person you're
+Isn't ｛Mikage＊＊｝ the person you're
 meeting with?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -116,7 +116,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("E010630100_07_070");
 MsgDisp("Mikage","...Yes.");
-MsgDisp("主人公","(｛御影＊＊｝ is in trouble...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ is in trouble...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

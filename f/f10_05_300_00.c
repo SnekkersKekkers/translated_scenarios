@@ -10,7 +10,7 @@ VoicePlay("F100530000_44_000");
 MsgDisp("School Girl B","Morningー.");
 VoicePlay("F100530000_05_000");
 MsgDisp("Hiiragi","Good morning.");
-MsgDisp("主人公","｛柊＊＊＊｝, morning.
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, morning.
 Thank you for your hard work.");
 ChEye(5,0);
 ChMouth(5,4);
@@ -130,7 +130,7 @@ ChClose(5,0,30);
 ChLayout(1);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Y-Yeah.
-Then ｛柊＊＊＊｝, do your best, okay?");
+Then ｛Hiiragi＊＊＊｝, do your best, okay?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -138,7 +138,7 @@ VoicePlay("F100530000_05_070");
 MsgDisp("Hiiragi","Yes.
 Greeting reinforcement is truly enjoyable.");
 MsgDisp("主人公","(Hmm, maybe I need to keep an eye on
-｛柊＊＊＊｝ and ｛ひかる＊｝...?)");
+｛Hiiragi＊＊＊｝ and ｛ひかる＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

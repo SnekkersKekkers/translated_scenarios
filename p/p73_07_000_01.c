@@ -15,7 +15,7 @@ I like it but...)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700001_07_000");
     MsgDisp("Mikage","Ehhh, it's splendid, huh.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Did you come to see it?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -54,7 +54,7 @@ okay?");
     MsgDisp("Mikage","Well, it's your turn.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alーright.
-Let's charm both ｛御影＊＊｝ the
+Let's charm both ｛Mikage＊＊｝ the
 audience and the customers.)");
     break ;
     case 4:
@@ -68,7 +68,7 @@ I like it but...)");
     VoicePlay("P730700001_07_060");
     MsgDisp("Mikage","Oh, amazing.
 I wondered if it was a princess.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝!
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 I don't know about princess...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -89,7 +89,7 @@ It really brings out your diligent charm.");
     VoicePlay("P730700001_07_090");
     MsgDisp("Mikage","Yeah, that's your number one charm point.
 A hardworking and adorable princess?");
-    MsgDisp("主人公","｛御影＊＊｝...");
+    MsgDisp("主人公","｛Mikage＊＊｝...");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(7,0);

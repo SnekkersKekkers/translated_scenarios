@@ -48,7 +48,7 @@ VoicePlay("G020410303_04_060");
 MsgDisp("Nanatsumori","Yeah, so get stronger, seriously.
 The way you are now, I won't be able to
 leave you on your own.");
-MsgDisp("主人公","(｛七ツ森＊｝, why are you so
+MsgDisp("主人公","(｛Nanatsumori＊｝, why are you so
 concerned...?)");
 BGMStop();
 MsgClose();

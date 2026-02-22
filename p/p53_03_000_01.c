@@ -19,7 +19,7 @@ There are a lot of customers...)");
     MsgDisp("Honda","｛主人公｝.
 Pardon the intrusion!
 I came for a tour.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 ...Enjoy yourself.");
     ChEye(3,4);
     ChMouth(3,4);
@@ -55,7 +55,7 @@ it the most.");
     VoicePlay("P530300001_03_050");
     MsgDisp("Honda","Then, 'game start', right?");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Thanks to ｛本多＊＊｝, it seems a bit
+    MsgDisp("主人公","(Thanks to ｛Honda＊＊｝, it seems a bit
 easier. Alright, then I'll also enjoy my
 performance!)");
     break ;
@@ -72,7 +72,7 @@ There are a lot of customers...)");
     VoicePlay("P530300001_03_060");
     MsgDisp("Honda","｛主人公｝.
 I came to listen to some gaming music.");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝...");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);

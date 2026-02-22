@@ -6,7 +6,7 @@ switch (ChPrmGet(3,6)){
     SEWait();
     VoicePlay("S030300000_03_000");
     MsgDisp("Honda","Hello?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝?
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝?
 Happy New Year.");
     VoicePlay("S030300000_03_010");
     MsgDisp("Honda","Happy New Year!
@@ -20,7 +20,7 @@ me?");
     SEWait();
     VoicePlay("S030300000_03_020");
     MsgDisp("Honda","Hello?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝?
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝?
 Happy New Year.");
     VoicePlay("S030300000_03_030");
     MsgDisp("Honda","Happy New Year!

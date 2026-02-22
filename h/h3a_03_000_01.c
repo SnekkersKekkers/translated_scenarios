@@ -38,7 +38,7 @@ MsgDisp("Honda","But you should give yourself some credit
 for working hard these past three years,
 okay?");
 MsgDisp("主人公","Yeah...
-｛本多＊＊｝, thank you.");
+｛Honda＊＊｝, thank you.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4);

@@ -9,7 +9,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,34,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","(Ah...
-It's ｛氷室＊＊｝.)");
+It's ｛Himuro＊＊｝.)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -33,7 +33,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(｛氷室＊＊｝, where on earth did you go?
+MsgDisp("主人公","(｛Himuro＊＊｝, where on earth did you go?
 He should be here somewhere...
 Ah.)");
 MsgClose();
@@ -47,7 +47,7 @@ StlEyeOpenLevel(6,0,1);
 ScrFadeIn(0);
 VoicePlay("R080600000_06_010");
 MsgDisp("Himuro","......");
-MsgDisp("主人公","(...｛氷室＊＊｝? It looks like he is
+MsgDisp("主人公","(...｛Himuro＊＊｝? It looks like he is
 praying...I shouldn't interrupt him.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.5);
 Wait(50,0);
@@ -62,7 +62,7 @@ StlMouth(6,1);
 VoicePlay("R080600000_06_020");
 MsgDisp("Himuro","What are you doing?");
 MsgDisp("主人公","Ah...
-｛氷室＊＊｝, that's what I need to ask you.
+｛Himuro＊＊｝, that's what I need to ask you.
 Are you praying?");
 StlEye(6,0,0);
 StlMouth(6,0);
@@ -93,7 +93,7 @@ StlEye(6,2);
 StlMouth(6,0);
 VoicePlay("R080600000_06_070");
 MsgDisp("Himuro","Did you have fun?");
-MsgDisp("主人公","...｛氷室＊＊｝, did you?");
+MsgDisp("主人公","...｛Himuro＊＊｝, did you?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -134,7 +134,7 @@ StlMouth(6,0);
 VoicePlay("R080600000_06_140");
 MsgDisp("Himuro","Haha, you look troubled.");
 MsgDisp("主人公","Not at all. I'm glad I was able to hear
-how you feel, ｛氷室＊＊｝. Thank you.");
+how you feel, ｛Himuro＊＊｝. Thank you.");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -155,7 +155,7 @@ MsgDisp("Himuro","And...
 Merry Christmas.
 Just wanted to let you know.");
 MsgDisp("主人公","Hehe, yeah.
-Merry Christmas, ｛氷室＊＊｝!");
+Merry Christmas, ｛Himuro＊＊｝!");
 BGMStop(3);
 MsgClose();
 ScrFadeOut(0);

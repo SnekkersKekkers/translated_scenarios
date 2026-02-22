@@ -19,7 +19,7 @@ You almost had it.");
     MsgDisp("Sassa","It's fine.
 Rather than just feeling bad after losing,
 I like this feeling a lot better.");
-    MsgDisp("主人公","(｛颯砂＊＊｝, is that a compliment...?
+    MsgDisp("主人公","(｛Sassa＊＊｝, is that a compliment...?
 Haa, how frustrating.)");
     break ;
     case 3:
@@ -51,7 +51,7 @@ But I still wanted to win.");
 victory is sure to come. Let's do our best
 until the end.");
     MsgDisp("主人公","(Haa...How frustrating. But, like
-｛颯砂＊＊｝ said, let's do our best until
+｛Sassa＊＊｝ said, let's do our best until
 the end of the sports festival.)");
     break ;
     case 4:
@@ -62,7 +62,7 @@ the end of the sports festival.)");
     VoiceEVSPlay(2);
     VoicePlay("O020200001_02_060");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","｛颯砂＊＊｝, I lost...");
+    MsgDisp("主人公","｛Sassa＊＊｝, I lost...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -94,7 +94,7 @@ fun.");
 Let's do our best for the rest of them.");
     MsgDisp("主人公","Yeah.
 You're right.");
-    MsgDisp("主人公","(｛颯砂＊＊｝, thank you.
+    MsgDisp("主人公","(｛Sassa＊＊｝, thank you.
 Yeah, let's enjoy the sports festival
 until the end!)");
     break ;

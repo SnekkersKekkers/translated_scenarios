@@ -6,7 +6,7 @@ I feel like I messed up somewhat
 today....)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(An incoming call...?
-Ah, it's from ｛颯砂＊＊｝)");
+Ah, it's from ｛Sassa＊＊｝)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Yes, hello.");
@@ -41,7 +41,7 @@ MsgDisp("Sassa","That's it.
 Then, I'll see you!");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛颯砂＊＊｝...is so kind, he called me
+MsgDisp("主人公","(｛Sassa＊＊｝...is so kind, he called me
 out of concern.)");
 MsgClose();
 ScrFadeOut(0,0);

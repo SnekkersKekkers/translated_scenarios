@@ -8,7 +8,7 @@ VoiceEVSPlay(3);
 VoicePlay("D100310000_03_000");
 MsgDisp("Honda","｛主人公｝.
 Good timing!");
-MsgDisp("主人公","｛本多＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Honda＊＊｝, what's wrong?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -35,7 +35,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D100310000_03_040");
 MsgDisp("Honda","I wonder if they have yellow roses～?");
-MsgDisp("主人公","(｛本多＊＊｝ and yellow roses?
+MsgDisp("主人公","(｛Honda＊＊｝ and yellow roses?
 Sounds familiar...)");
 BGMStop();
 MsgClose();

@@ -17,7 +17,7 @@ BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 VoicePlay("T020160000_01_010");
 MsgDisp("Kazama","Did I make it in time?");
-MsgDisp("主人公","｛風真＊＊｝!
+MsgDisp("主人公","｛Kazama＊＊｝!
 The graduation ceremony is already over∋");
 ChEye(1,4);
 ChMouth(1,0);
@@ -58,7 +58,7 @@ MsgDisp("Kazama","Hey, shall we go to a coffee shop?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","Ah...
-｛風真＊＊｝, wait!");
+｛Kazama＊＊｝, wait!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop(6);
 MsgClose();

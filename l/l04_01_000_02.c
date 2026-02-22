@@ -95,7 +95,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(｛風真＊＊｝ was happy about it, right?");
+    MsgDisp("主人公","(｛Kazama＊＊｝ was happy about it, right?");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

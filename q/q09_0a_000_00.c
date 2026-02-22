@@ -11,7 +11,7 @@ ChMotion(2,3);
 VoicePlay("Q090A00000_02_000");
 MsgDisp("Sassa","Yo, good morning.");
 MsgDisp("主人公","Good morning!
-｛風真＊＊｝, ｛颯砂＊＊｝, how early.");
+｛Kazama＊＊｝, ｛Sassa＊＊｝, how early.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -64,7 +64,7 @@ MsgDisp("Kazama","Who knows?
 Anyways, let's go.");
 MsgDisp("主人公","Yeah!
 Oh, of course.
-We need to buy a souvenir for ｛氷室＊＊｝.");
+We need to buy a souvenir for ｛Himuro＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

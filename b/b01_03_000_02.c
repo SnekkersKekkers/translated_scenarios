@@ -6,7 +6,7 @@ Huh?)");
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
 ChOpen(3,253,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛本多＊＊｝!
+MsgDisp("主人公","｛Honda＊＊｝!
 Did I have the wrong time?");
 switch (ChPrmGet(3,6)){
     case 0:
@@ -79,7 +79,7 @@ What kind of dream was it?");
 The real you is more important than my
 dreams.");
     MsgDispSksp(1,0);
-    MsgDisp("主人公","(｛本多＊＊｝...)");
+    MsgDisp("主人公","(｛Honda＊＊｝...)");
     MsgDispSksp(0);
     break ;
     default :

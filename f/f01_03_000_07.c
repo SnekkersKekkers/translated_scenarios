@@ -19,7 +19,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","｛主人公｝.
 Are you going home now?");
     MsgDisp("主人公","Yes.
-You too, ｛本多＊＊｝?");
+You too, ｛Honda＊＊｝?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);
@@ -34,7 +34,7 @@ So, how about we go together?");
     ChMotion(3,5);
     VoicePlay("F010300007_03_020");
     MsgDisp("Honda","Oh, there you are!");
-    MsgDisp("主人公","Oh, ｛本多＊＊｝.
+    MsgDisp("主人公","Oh, ｛Honda＊＊｝.
 What's up?");
     ChEye(3,4);
     ChMouth(3,3);

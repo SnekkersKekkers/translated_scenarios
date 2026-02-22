@@ -27,7 +27,7 @@ VoicePlay("P740300005_03_020");
 MsgDisp("Honda","Even though you fell, you did your best
 until the end. You were more beautiful
 than anything, and anyone.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -35,7 +35,7 @@ VoicePlay("P740300005_03_030");
 MsgDisp("Honda","So, hold your chin up high!
 My bride!");
 MsgDisp("主人公","Ehh...∋
-T-Thank you, ｛本多＊＊｝.");
+T-Thank you, ｛Honda＊＊｝.");
 MsgDisp("主人公","(I might have failed but, I'm glad I
 continued with the Handicrafts club for
 the three years until now.)");

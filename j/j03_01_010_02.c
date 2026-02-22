@@ -1,10 +1,10 @@
 Wait(20,0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","(Ah, it's from ｛風真＊＊｝.)");
+MsgDisp("主人公","(Ah, it's from ｛Kazama＊＊｝.)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
-MsgDisp("主人公","｛風真＊＊｝, hello.");
+MsgDisp("主人公","｛Kazama＊＊｝, hello.");
 VoicePlay("J030101002_01_000");
 MsgDisp("Kazama","Hey, I got your message.");
 MsgDisp("主人公","Thanks.

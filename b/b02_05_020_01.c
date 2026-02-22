@@ -19,4 +19,4 @@ VoicePlay("B020502001_05_020");
 MsgDisp("Hiiragi","No, it just feels as though the feeling of
 it being the two of us will fade away.");
 MsgDisp("主人公","(I see, I can't see his face on it, but
-｛柊＊＊＊｝ can...)");
+｛Hiiragi＊＊＊｝ can...)");

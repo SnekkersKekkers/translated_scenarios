@@ -11,7 +11,7 @@ MsgDisp("主人公","Wow...it's beautiful!");
 VoicePlay("B360350400_03_000");
 MsgDisp("Honda?","You look just as beautiful!");
 MsgDisp("主人公","...Huh?
-｛本多＊＊｝, what's going on?");
+｛Honda＊＊｝, what's going on?");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,255,4,4,4,#1,#1,0,0);
@@ -26,7 +26,7 @@ MsgDisp("Honda","Ah, I prepared in advance...
 I wanted to say something cool while
 looking at the illuminations.");
 MsgDisp("主人公","Um...
-I think I prefer the usual ｛本多＊＊｝.");
+I think I prefer the usual ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

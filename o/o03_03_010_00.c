@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("O030301000_03_000");
     MsgDisp("Honda","Could it be that you're still looking for
 a partner?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Yeah, I haven't found one yet.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -29,7 +29,7 @@ Then, do you want to be a team?");
     VoiceEVSPlay(3);
     VoicePlay("O030301000_03_020");
     MsgDisp("Honda","｛主人公｝, what's up?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 I haven't found a partner for the
 three-legged race, yet...");
     ChEye(3,4);
@@ -37,7 +37,7 @@ three-legged race, yet...");
     ChMotion(3,1,1);
     VoicePlay("O030301000_03_030");
     MsgDisp("Honda","There's one right in front of you, though?");
-    MsgDisp("主人公","Huh, ｛本多＊＊｝?");
+    MsgDisp("主人公","Huh, ｛Honda＊＊｝?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,3);
@@ -56,7 +56,7 @@ Let's do this!");
     ChOpen(3,30,5,2,4,#1,#1,0,0);
     VoicePlay("O030301000_03_050");
     MsgDisp("Honda","Da, I'm late!");
-    MsgDisp("主人公","Huh, ｛本多＊＊｝?");
+    MsgDisp("主人公","Huh, ｛Honda＊＊｝?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,1,1);

@@ -35,7 +35,7 @@ invitation.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(5);
-        MsgDisp("主人公","(｛柊＊＊＊｝ invited me to go out with him
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ invited me to go out with him
 ...
 Is this a date?)");
         break ;

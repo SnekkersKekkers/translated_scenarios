@@ -71,7 +71,7 @@ ChMotion(6,0);
 VoicePlay("G020610306_06_090");
 MsgDisp("Himuro","......Hate them.");
 MsgDisp("主人公","(Hehe.
-I got to hear ｛氷室＊＊｝'s true thoughts.
+I got to hear ｛Himuro＊＊｝'s true thoughts.
 ♪)");
 BGMStop();
 MsgClose();

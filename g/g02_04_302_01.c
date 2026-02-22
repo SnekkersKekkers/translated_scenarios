@@ -58,7 +58,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("G020430201_04_080");
 MsgDisp("Nanatsumori","Hey, you're my friend, right?");
-MsgDisp("主人公","(｛七ツ森＊｝, I think you'll have plenty
+MsgDisp("主人公","(｛Nanatsumori＊｝, I think you'll have plenty
 of chances to make friends...)");
 BGMStop();
 MsgClose();

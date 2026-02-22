@@ -46,7 +46,7 @@ with?");
     MsgDisp("Nanatsumori","The pear tart looks damn good...!
 Pictures, pictures...");
     MsgDisp("主人公","(Hehe!
-｛七ツ森＊｝ praised me!)");
+｛Nanatsumori＊｝ praised me!)");
     break ;
     case 4:
     case 5:
@@ -74,7 +74,7 @@ Here is your pear and custard tart.");
     ChMotion(4,0,1);
     VoicePlay("I360400004_04_070");
     MsgDisp("Nanatsumori","I sure waited.");
-    MsgDisp("主人公","｛七ツ森＊｝, have you been whispering
+    MsgDisp("主人公","｛Nanatsumori＊｝, have you been whispering
 something for a while now?");
     ChEye(4,0);
     ChMouth(4,4);
@@ -103,7 +103,7 @@ But, do you mean it?");
     MsgDisp("Nanatsumori","Yeah.
 You're completely used to it.");
     MsgDisp("主人公","(Hehe!
-｛七ツ森＊｝ praised me!)");
+｛Nanatsumori＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

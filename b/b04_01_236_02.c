@@ -79,7 +79,7 @@ leave you alone.");
         VoicePlay("B040123602_01_060");
         MsgDisp("Kazama","Come on, let's go!");
         SEPlay("EV_SE_504");
-        MsgDisp("主人公","Waa, ｛風真＊＊｝!");
+        MsgDisp("主人公","Waa, ｛Kazama＊＊｝!");
         SEWait();
         MsgClose();
         SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
@@ -109,7 +109,7 @@ man.");
         MsgDisp("Kazama","But, thank you.
 Just one word of yours gave me yet another
 unforgettable memory.");
-        MsgDisp("主人公","(｛風真＊＊｝...
+        MsgDisp("主人公","(｛Kazama＊＊｝...
 I also made some amazing memories.)");
         break ;
         default :

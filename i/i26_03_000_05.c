@@ -47,7 +47,7 @@ watching you work!");
     MsgDisp("Honda","If I'm not careful, you'll surpass me.");
     MsgDisp("主人公","(Hehe!
 I still have a long way to go...
-But I'm happy ｛本多＊＊｝ praised me!)");
+But I'm happy ｛Honda＊＊｝ praised me!)");
     break ;
     case 4:
     case 5:
@@ -65,7 +65,7 @@ titles are all perfect.
 Even the heights are in line...");
     MsgDisp("主人公","Yeah, I noticed it so I fixed it.
 But, I'm surprised you noticed,
-｛本多＊＊｝.");
+｛Honda＊＊｝.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,1,1);

@@ -65,13 +65,13 @@ be, it's worth thinking about.");
         VoicePlay("B040309002_03_060");
         MsgDisp("Honda","I was able to enjoy a conversation like
 this, you're the best!");
-        MsgDisp("主人公","｛本多＊＊｝, your voice is loud.");
+        MsgDisp("主人公","｛Honda＊＊｝, your voice is loud.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040309002_03_070");
         MsgDisp("Honda","A loud voice will make you grow bigger.");
-        MsgDisp("主人公","(｛本多＊＊｝, I'm not a bug.)");
+        MsgDisp("主人公","(｛Honda＊＊｝, I'm not a bug.)");
         break ;
         default :
         DbgAssert(1);

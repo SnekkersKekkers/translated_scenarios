@@ -1,5 +1,5 @@
 MsgDisp("主人公","What do you usually talk about with
-｛氷室＊＊｝ and ｛御影＊＊｝?");
+｛Himuro＊＊｝ and ｛Mikage＊＊｝?");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,2);
@@ -36,7 +36,7 @@ VoicePlay("B070500001_05_330");
 MsgDisp("Hiiragi","Inori-kun says it must be marshmallow
 roasting.");
 MsgDisp("主人公","Hehe, I see.
-What does ｛柊＊＊＊｝ think?");
+What does ｛Hiiragi＊＊＊｝ think?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_340");

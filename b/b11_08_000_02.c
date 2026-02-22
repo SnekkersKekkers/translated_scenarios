@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛大地＊＊｝ still isn't here...)");
+MsgDisp("主人公","(｛Daichi＊＊｝ still isn't here...)");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,1,0,#1,#1,0,0);
@@ -29,7 +29,7 @@ ScrFadeIn(0);
 VoicePlay("B110800002_08_000");
 MsgDisp("Shirahane","what an impatient person...
 It's all gibberish to me.");
-MsgDisp("主人公","Ah, ｛大地＊＊｝.");
+MsgDisp("主人公","Ah, ｛Daichi＊＊｝.");
 ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110800002_35_030");

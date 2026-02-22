@@ -58,7 +58,7 @@ ChMotion(6,5);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360618001_06_060");
 MsgDisp("Himuro","...Pfft, hehe.");
-MsgDisp("主人公","｛氷室＊＊｝?");
+MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0,1);

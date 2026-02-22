@@ -34,7 +34,7 @@ MsgDisp("Shirahane","They're here∈ There they are!");
 MsgClose();
 SEPlay("EV_SE_672");
 ChClose(8,0,30);
-MsgDisp("主人公","Eh, ｛大地＊＊｝∋");
+MsgDisp("主人公","Eh, ｛Daichi＊＊｝∋");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_08_01");
@@ -75,7 +75,7 @@ us...");
 VoicePlay("B050800000_08_100");
 MsgDisp("Shirahane","Please, I ask of you...
 Amenー...");
-MsgDisp("主人公","(｛大地＊＊｝ is serious...)");
+MsgDisp("主人公","(｛Daichi＊＊｝ is serious...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -89,7 +89,7 @@ ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B050800000_08_110");
 MsgDisp("Shirahane","Alright, with this we can relax!");
-MsgDisp("主人公","｛大地＊＊｝, you did well to find that
+MsgDisp("主人公","｛Daichi＊＊｝, you did well to find that
 heart koi!");
 ChEye(8,2);
 ChMouth(8,3);
@@ -103,7 +103,7 @@ ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B050800000_08_130");
 MsgDisp("Shirahane","Hehe Today is my super lucky day▼");
-MsgDisp("主人公","(｛大地＊＊｝ is in a super good mood.
+MsgDisp("主人公","(｛Daichi＊＊｝ is in a super good mood.
 He even asked on my behalf.)");
 BGMStop();
 MsgClose();

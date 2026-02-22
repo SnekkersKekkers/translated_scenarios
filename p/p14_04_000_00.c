@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("P140400000_04_000");
 MsgDisp("Nanatsumori","Goal.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Good work!");
 ChMotion(4,1,1);
 VoicePlay("P140400000_04_010");

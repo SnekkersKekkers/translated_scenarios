@@ -79,7 +79,7 @@ MsgDisp("Sassa","...Yeah.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(But just now, ｛颯砂＊＊｝ said \"yet\"
+MsgDisp("主人公","(But just now, ｛Sassa＊＊｝ said \"yet\"
 right?)");
 BGMStop();
 MsgClose();

@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("N020100001_01_000");
     MsgDisp("Kazama","Hmm, I think I ranked quite high.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, how was it?");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, how was it?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -29,14 +29,14 @@ I'll have you know I was quite motivated.");
     ScrFadeIn(0);
     VoicePlay("N020100001_01_030");
     MsgDisp("Kazama","Did you make it?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("N020100001_01_040");
     MsgDisp("Kazama","I'm feeling nervous too.");
     MsgDisp("主人公","Haha, there's no way I can compete with
-you, ｛風真＊＊｝.");
+you, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -63,7 +63,7 @@ I'll really have to do better than this.)");
     ScrFadeIn(0);
     VoicePlay("N020100001_01_070");
     MsgDisp("Kazama","Hmm, this is bad.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Have you seen the results?");
     ChEye(1,4);
     ChMouth(1,2);

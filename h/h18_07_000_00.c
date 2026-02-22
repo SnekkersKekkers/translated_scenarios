@@ -5,7 +5,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("H180700000_07_000");
 MsgDisp("Mikage","So this is the Koshien, it's pretty
 amazing.");
-MsgDisp("主人公","Ah, ｛御影＊＊｝!
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Did you come to support us?");
 ChEye(7,0);
 ChMouth(7,3);

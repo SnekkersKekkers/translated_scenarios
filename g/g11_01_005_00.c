@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to head home.)");
-MsgDisp("主人公","(...Huh? ｛風真＊＊｝ is over there, huh.
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there, huh.
 Let's chat a bit then head home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -66,7 +66,7 @@ ChMotion(1,1);
 VoicePlay("G110100500_01_050");
 MsgDisp("Kazama","Ah, yeah, that's right.
 Is there a problem?");
-MsgDisp("主人公","(｛風真＊＊｝...
+MsgDisp("主人公","(｛Kazama＊＊｝...
 I feel like you're saying something really
 huge...)");
 BGMStop();

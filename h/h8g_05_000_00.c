@@ -26,7 +26,7 @@ but to be honored as an individual...");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","I wouldn't have been able to do anything
 on my own. It's thanks to you and everyone
-else, ｛柊＊＊＊｝.");
+else, ｛Hiiragi＊＊＊｝.");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("H8G0500000_05_030");

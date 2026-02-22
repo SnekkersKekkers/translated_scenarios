@@ -2,11 +2,11 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh...
-｛風真＊＊｝ isn't here yet.");
+｛Kazama＊＊｝ isn't here yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","｛風真＊＊｝, I wonder if something
+MsgDisp("主人公","｛Kazama＊＊｝, I wonder if something
 happened...");
 MsgClose();
 SEPlay("EV_SE_544");

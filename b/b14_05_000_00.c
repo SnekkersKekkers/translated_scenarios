@@ -42,7 +42,7 @@ VoicePlay("B140500000_05_040");
 MsgDisp("Hiiragi","Merry Christmas.");
 MsgDisp("主人公","Merry Christmas.");
 MsgDisp("主人公","(Continuing on from yesterday, I also
-spent today with ｛柊＊＊＊｝...
+spent today with ｛Hiiragi＊＊＊｝...
 I'm happy.)");
 BGMStop();
 MsgClose();

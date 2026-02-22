@@ -68,8 +68,8 @@ ChMotion(4,2,1);
 VoicePlay("G020440001_04_090");
 MsgDisp("Nanatsumori","Then, maybe it's just my sister who is
 that kind of person...");
-MsgDisp("主人公","(What is ｛七ツ森＊｝'s older sister
-doing with ｛七ツ森＊｝...∋)");
+MsgDisp("主人公","(What is ｛Nanatsumori＊｝'s older sister
+doing with ｛Nanatsumori＊｝...∋)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

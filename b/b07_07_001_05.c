@@ -7,8 +7,8 @@ VoicePlay("B070700001_07_340");
 MsgDisp("Mikage","What's up?
 Why are you saying weird things all of a
 sudden?");
-MsgDisp("主人公","It's just that when ｛御影＊＊｝,
-｛柊＊＊＊｝ and ｛氷室＊＊｝ are together,
+MsgDisp("主人公","It's just that when ｛Mikage＊＊｝,
+｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ are together,
 I get that sort of feeling...");
 ChEye(7,0);
 ChMouth(7,0);

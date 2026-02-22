@@ -13,4 +13,4 @@ VoicePlay("B020602115_06_010");
 MsgDisp("Himuro","You're a special case.
 It gives me a stimulating kind of energy.");
 MsgDisp("主人公","(Oh, good!
-｛氷室＊＊｝ seems to like these clothes!)");
+｛Himuro＊＊｝ seems to like these clothes!)");

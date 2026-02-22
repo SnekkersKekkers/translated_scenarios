@@ -14,7 +14,7 @@ ChMotion(6,0);
 VoicePlay("B070600001_06_480");
 MsgDisp("Himuro","...Why?");
 MsgDisp("主人公","I don't know for sure...but it might be
-because I'm with ｛氷室＊＊｝?");
+because I'm with ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -39,7 +39,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600001_06_520");
 MsgDisp("Himuro","......");
-MsgDisp("主人公","...Hey, ｛氷室＊＊｝.");
+MsgDisp("主人公","...Hey, ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -50,7 +50,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600001_06_540");
 MsgDisp("Himuro","I think it's spread to me.");
-MsgDisp("主人公","(｛氷室＊＊｝'s face is also red...
+MsgDisp("主人公","(｛Himuro＊＊｝'s face is also red...
 What happened to us?)");
 BGMStop();
 MsgClose();

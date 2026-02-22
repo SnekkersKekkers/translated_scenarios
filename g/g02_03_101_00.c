@@ -11,7 +11,7 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310100_03_010");
 MsgDisp("Honda","Is that so...yeah.");
-MsgDisp("主人公","｛本多＊＊｝?");
+MsgDisp("主人公","｛Honda＊＊｝?");
 ChEye(3,2);
 ChEye(3,2);
 ChMotion(3,4);
@@ -36,7 +36,7 @@ there. I thought such an awful thing.");
 ChMotion(3,4);
 VoicePlay("G020310100_03_050");
 MsgDisp("Honda","I love those two, though...");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5);
@@ -56,7 +56,7 @@ VoicePlay("G020310100_03_080");
 MsgDisp("Honda","We need to try different situations to
 really understand our feelings!
 Yeah.");
-MsgDisp("主人公","(｛本多＊＊｝, has complicated feelings
+MsgDisp("主人公","(｛Honda＊＊｝, has complicated feelings
 about this, huh...?)");
 BGMStop();
 MsgClose();

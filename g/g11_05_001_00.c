@@ -8,7 +8,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(5,254,4,0,4,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 What are you up to?");
 ChEye(5,4);
 VoicePlay("G110500100_05_000");
@@ -68,7 +68,7 @@ MsgDisp("Hiiragi","I'm not good with computers, and after
 school I still have to do work with the
 theatre company too, right?");
 MsgDisp("主人公","I see.
-｛柊＊＊＊｝, don't push yourself too hard,
+｛Hiiragi＊＊＊｝, don't push yourself too hard,
 okay?");
 ChEye(5,0);
 ChMouth(5,1);

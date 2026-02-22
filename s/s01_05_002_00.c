@@ -1,3 +1,3 @@
-MsgDisp("主人公","This one is from ｛柊＊＊＊｝.
+MsgDisp("主人公","This one is from ｛Hiiragi＊＊＊｝.
 As expected of the Chairman...
 I bet he sends these to his patrons too.");

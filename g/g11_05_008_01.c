@@ -8,7 +8,7 @@ MsgDisp("Male Student","Good work todayー.
 Please lock up.");
 MsgDisp("主人公","Yeees.");
 MsgDisp("主人公","(Huh?
-｛柊＊＊＊｝...)");
+｛Hiiragi＊＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
@@ -21,7 +21,7 @@ ChMouthOpenLevel(5,0);
 VoicePlay("G110500801_05_000");
 MsgDisp("Hiiragi","......");
 MsgDisp("主人公","Ah...hehe");
-MsgDisp("主人公","(｛柊＊＊＊｝ is dozing off?
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is dozing off?
 He seems tired.
 Maybe I'll close his laptop...)");
 while (1){
@@ -80,7 +80,7 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,2);
 SEStop("EV_SE_712",0);
-MsgDisp("主人公","(｛柊＊＊＊｝, you were definitely asleep
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you were definitely asleep
 just now right?)");
 BGMStop();
 MsgClose();

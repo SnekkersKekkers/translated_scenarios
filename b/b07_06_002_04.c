@@ -1,5 +1,5 @@
 MsgDisp("主人公","What do you normally talk about with
-｛柊＊＊＊｝ and ｛御影＊＊｝?");
+｛Hiiragi＊＊＊｝ and ｛Mikage＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

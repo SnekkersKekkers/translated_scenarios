@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛御影＊＊｝...
+MsgDisp("主人公","(｛Mikage＊＊｝...
 Doesn't seem to be here yet.)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();

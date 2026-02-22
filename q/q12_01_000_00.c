@@ -16,7 +16,7 @@ tomorrow...");
     MsgDisp("Kazama","That was quick.
 Any regrets?");
     MsgDisp("主人公","Nope.
-Thanks to you, ｛風真＊＊｝ It became a
+Thanks to you, ｛Kazama＊＊｝ It became a
 good memory.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -131,7 +131,7 @@ But everyone else is here too?");
     MsgDisp("Kazama","That's still fine.
 This would have been a dream for me back
 in the day.");
-    MsgDisp("主人公","(｛風真＊＊｝...)");
+    MsgDisp("主人公","(｛Kazama＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

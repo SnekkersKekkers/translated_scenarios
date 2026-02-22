@@ -14,7 +14,7 @@ SEPlay("EV_SE_062");
 SEWait();
 VoicePlay("B360615200_06_000");
 MsgDisp("Himuro","...Alright.");
-MsgDisp("主人公","｛氷室＊＊｝, that's amazing!");
+MsgDisp("主人公","｛Himuro＊＊｝, that's amazing!");
 MsgClose();
 ChOpen(6,255,4,0,0,#1,#1,5,0);
 VoicePlay("B360615200_06_010");

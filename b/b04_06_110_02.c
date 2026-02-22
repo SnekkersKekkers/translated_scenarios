@@ -74,7 +74,7 @@ about it.");
 　　　　　　　　　　 ・");
         ScrFadeIn(0);
         MsgDisp("主人公","Haa, that was fun!
-How was it for you, ｛氷室＊＊｝?");
+How was it for you, ｛Himuro＊＊｝?");
         ChOpen(6,31,2,0,2,#1,#1,10,0);
         VoicePlay("B040611002_06_070");
         MsgDisp("Himuro","...Closer than I thought.");

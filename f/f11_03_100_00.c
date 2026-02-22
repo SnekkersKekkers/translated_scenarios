@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("F110310000_03_000");
 MsgDisp("Honda","Welcome, welcome.");
 MsgDisp("主人公","Huh?
-｛本多＊＊｝, what are you doing?");
+｛Honda＊＊｝, what are you doing?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -45,7 +45,7 @@ MsgDisp("Male Student","What is that, a haircut death match∋");
 VoicePlay("F110310000_03_060");
 MsgDisp("Honda","Welcome!
 Well then, that's a win for me!");
-MsgDisp("主人公","(｛本多＊＊｝ will never lose, so he'll be
+MsgDisp("主人公","(｛Honda＊＊｝ will never lose, so he'll be
 fine.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040324202_03_000");
 MsgDisp("Honda","Apparently solo camping is becoming a
 trend?");
-MsgSel("Going with ｛本多＊＊｝ is great▼","I can understand that feeling.","I think it'll be lonely.");
+MsgSel("Going with ｛Honda＊＊｝ is great▼","I can understand that feeling.","I think it'll be lonely.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){
@@ -73,7 +73,7 @@ something newly strange about me! Camping
 with us two is the best!");
         SEPlay("EV_SE_569",0,0.5);
         Wait(50,0);
-        MsgDisp("主人公","(｛本多＊＊｝, yu're echoing...)");
+        MsgDisp("主人公","(｛Honda＊＊｝, yu're echoing...)");
         SEStop("EV_SE_569",1);
         break ;
         default :

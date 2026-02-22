@@ -9,7 +9,7 @@ VoicePlay("B040522102_05_000");
 MsgDisp("Hiiragi","I've been given the honor to use this
 place as a setting in my plays, so I think
 I'm always on edge here.");
-MsgSel("The lords would definitely be happy!","｛柊＊＊＊｝ is starting to look like a lord...","Relax a bit?");
+MsgSel("The lords would definitely be happy!","｛Hiiragi＊＊＊｝ is starting to look like a lord...","Relax a bit?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){
@@ -53,7 +53,7 @@ history?");
         MsgDisp("Hiiragi","That may be true...");
         MsgDisp("主人公","The number of visitors to this castle has
 increased.
-It's thanks to ｛柊＊＊＊｝ and everyone.");
+It's thanks to ｛Hiiragi＊＊＊｝ and everyone.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040522102_05_050");

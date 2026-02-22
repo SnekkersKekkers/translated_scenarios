@@ -10,7 +10,7 @@ MsgDisp("Hiiragi","Even just going to school every day is a
 new experience for me, and on top of that,
 I'm involved in student council
 activities.");
-MsgDisp("主人公","Furthermore, you have the ｛柊＊＊＊｝
+MsgDisp("主人公","Furthermore, you have the ｛Hiiragi＊＊＊｝
 theatre troupe.
 It really must be tough.");
 ChEye(5,4);
@@ -46,7 +46,7 @@ MsgDisp("Hiiragi","That's good to hear. Well, I'm looking
 forward to the next time we can go
 together. Let's eat the same thing at that
 time.");
-MsgDisp("主人公","(｛柊＊＊＊｝ seems to be enjoying his
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to be enjoying his
 student life at Haba High for the first
 time.)");
 BGMStop();

@@ -1,5 +1,5 @@
 MsgDisp("主人公","Recently you've been talking to
-｛柊＊＊＊｝, huh?");
+｛Hiiragi＊＊＊｝, huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -52,8 +52,8 @@ ChMotion(6,0);
 VoicePlay("B070600002_06_070");
 MsgDisp("Himuro","He's an interesting character in many
 ways.");
-MsgDisp("主人公","(I wonder if ｛柊＊＊＊｝'s existence will
-expand ｛氷室＊＊｝'s world.)");
+MsgDisp("主人公","(I wonder if ｛Hiiragi＊＊＊｝'s existence will
+expand ｛Himuro＊＊｝'s world.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

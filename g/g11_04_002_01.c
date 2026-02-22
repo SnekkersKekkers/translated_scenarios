@@ -31,7 +31,7 @@ BGOpen("ev004",0);
 ChNanaType(1);
 ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400201_04_010");
@@ -55,7 +55,7 @@ MsgDisp("Nanatsumori","If you see a girl walk into a coffee shop
 alone with that look on her face, you can
 easily guess.");
 MsgDisp("主人公","Hehe, I see.
-That's impressive, ｛七ツ森＊｝.");
+That's impressive, ｛Nanatsumori＊｝.");
 ChMotion(4,1);
 VoicePlay("G110400201_04_060");
 MsgDisp("Nanatsumori","Oh. This item from Habatcher. I heard it
@@ -71,7 +71,7 @@ ChMotion(4,2);
 VoicePlay("G110400201_04_090");
 MsgDisp("Nanatsumori","Yeah.
 You should give it a try.");
-MsgDisp("主人公","(｛七ツ森＊｝ sure has all the info!)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ sure has all the info!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

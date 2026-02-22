@@ -58,7 +58,7 @@ VoicePlay("B150300500_03_070");
 MsgDisp("Honda","I've been unconsciously holding it back,
 trying not to notice, but...
 I guess I reached my limit.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChClose(3);
 ChLayout(1);
 ChOpen(3,255,5,3,3,0,#1,0,0);

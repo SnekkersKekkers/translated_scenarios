@@ -93,7 +93,7 @@ ChMotion(3,3,1);
 VoicePlay("B330B20301_03_030");
 MsgDisp("Honda","We have to go!
 Right?");
-MsgDisp("主人公","(I'm sure ｛本多＊＊｝ will start
+MsgDisp("主人公","(I'm sure ｛Honda＊＊｝ will start
 explaining lots of different things to us
 whilst we're sampling the fruit.)");
 BGMStop();

@@ -58,7 +58,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 Wait(30);
-MsgDisp("主人公","(｛本多＊＊｝ celebrated my birthday...
+MsgDisp("主人公","(｛Honda＊＊｝ celebrated my birthday...
 This year is going to be a good year!)");
 MsgClose();
 ScrFadeOut(0,0);

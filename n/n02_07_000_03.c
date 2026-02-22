@@ -11,7 +11,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","｛主人公｝.
 Are you okay?
 This isn't like you.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -30,7 +30,7 @@ do it, right?");
     VoicePlay("N020700003_07_020");
     MsgDisp("Mikage","Come on, this must be a joke.
 This score is very concerning.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -51,7 +51,7 @@ not to do it.");
     MsgDisp("Mikage","Look, your potential extends everywhere.
 Even in your studies.
 Next time, do it right, okay?");
-    MsgDisp("主人公","(｛御影＊＊｝...
+    MsgDisp("主人公","(｛Mikage＊＊｝...
 I have to study harder...)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -64,7 +64,7 @@ I have to study harder...)");
     VoiceEVSPlay(7);
     VoicePlay("N020700003_07_060");
     MsgDisp("Mikage","｛主人公｝, this isn't funny at all.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -98,7 +98,7 @@ want to do.");
     VoicePlay("N020700003_07_110");
     MsgDisp("Mikage","If you agree, please study harder next
 time.");
-    MsgDisp("主人公","(｛御影＊＊｝, is really worried about
+    MsgDisp("主人公","(｛Mikage＊＊｝, is really worried about
 me...
 I have to study harder...)");
     MsgClose();

@@ -35,7 +35,7 @@ VoicePlay("Q070700000_07_020");
 MsgDisp("Mikage","Oh come on...it's supposed to be fun.
 Are you having a good time?");
 MsgDisp("主人公","Of course. Extracurricular activities with
-｛御影＊＊｝ as just the two of us.
+｛Mikage＊＊｝ as just the two of us.
 It'll definitely be fun.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -67,7 +67,7 @@ ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("Q070700000_07_050");
 MsgDisp("Mikage","Yeah, they say it's 105 meters high.");
-MsgDisp("主人公","｛御影＊＊｝, are you afraid of heights?");
+MsgDisp("主人公","｛Mikage＊＊｝, are you afraid of heights?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -93,7 +93,7 @@ VoicePlay("Q070700000_07_080");
 MsgDisp("Mikage","Let's go, shall we?");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(｛御影＊＊｝, thank you for keeping me
+MsgDisp("主人公","(｛Mikage＊＊｝, thank you for keeping me
 company. Huis Ten Bosch was so fun! Let's
 move on now.)");
 BGMStop(2);
@@ -126,7 +126,7 @@ ChMotion(7,3);
 VoicePlay("Q070700000_07_100");
 MsgDisp("Mikage","I guess he came to a foreign land, to
 plant some flowers from his homeland.");
-MsgDisp("主人公","｛御影＊＊｝, if you were him, what
+MsgDisp("主人公","｛Mikage＊＊｝, if you were him, what
 flowers would you plant?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -173,7 +173,7 @@ ChMotion(7,4);
 VoicePlay("Q070700000_07_160");
 MsgDisp("Mikage","I bet that he found a beautiful flower
 here and couldn't go back.");
-MsgDisp("主人公","｛御影＊＊｝?");
+MsgDisp("主人公","｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -181,7 +181,7 @@ VoicePlay("Q070700000_07_170");
 MsgDisp("Mikage","That makes me think of merchants from the
 west.
 That'd make a good extracurricular lesson.");
-MsgDisp("主人公","(｛御影＊＊｝...?
+MsgDisp("主人公","(｛Mikage＊＊｝...?
 He's acting a bit strange...)");
 BGMStop(2);
 MsgClose();

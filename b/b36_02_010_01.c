@@ -46,7 +46,7 @@ ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("B360201001_02_030");
 MsgDisp("Sassa","Ehhh, there's a grown-up feel to it.");
 MsgDisp("主人公","Do you like ths kind of fashion,
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -75,7 +75,7 @@ ChMotion(2,0);
 VoicePlay("B360201001_02_070");
 MsgDisp("Sassa","It'd be troubling if we saw Ryota nd Inori
 in a place like thisー.");
-MsgDisp("主人公","(｛颯砂＊＊｝, you seem to be super
+MsgDisp("主人公","(｛Sassa＊＊｝, you seem to be super
 happy...)");
 BGMStop();
 MsgClose();

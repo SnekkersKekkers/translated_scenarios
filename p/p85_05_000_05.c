@@ -4,7 +4,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(5,254,0,2,2,0,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, good work...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, good work...");
 ChMouth(5,4);
 ChEyeOpenLevel(5,9);
 VoiceEVSPlay(5);

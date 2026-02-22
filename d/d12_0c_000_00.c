@@ -17,7 +17,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D120C00000_06_000");
 MsgDisp("Himuro","You have time, right?");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝ and ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝.
 Yeah, that sounds good!");
 ChEye(6,0);
 ChMouth(6,4);
@@ -31,7 +31,7 @@ VoicePlay("D120C00000_05_010");
 MsgDisp("Hiiragi","That's correct.
 But I think it might be troublesome if we
 were to invite him in the staff room?");
-MsgDisp("主人公","Yeah...Ah! I think ｛御影＊＊｝ is
+MsgDisp("主人公","Yeah...Ah! I think ｛Mikage＊＊｝ is
 actually in the Gardening Club around this
 time?");
 BGMStop();
@@ -55,7 +55,7 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4,1);
 MsgDisp("主人公","Eh...
-｛御影＊＊｝?");
+｛Mikage＊＊｝?");
 VoicePlay("D120C00000_07_010");
 MsgDisp("Mikage","Come this way, over here.");
 ChEye(6,0);
@@ -120,7 +120,7 @@ VoicePlay("D120C00000_06_030");
 MsgDisp("Himuro","...Yeah.
 Thanks for the food.");
 MsgDisp("主人公","Hehe.
-｛氷室＊＊｝, it's yummy, right?");
+｛Himuro＊＊｝, it's yummy, right?");
 StlEye(6,2);
 StlMouth(6,1);
 VoicePlay("D120C00000_06_040");
@@ -234,7 +234,7 @@ MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(Haa, that was fun!
 Having a barbecue at school...
-｛御影＊＊｝, thank you so much!)");
+｛Mikage＊＊｝, thank you so much!)");
 BGMStop();
 MsgClose();
 ChPrmTblAdd(5,0);

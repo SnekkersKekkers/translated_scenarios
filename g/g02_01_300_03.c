@@ -15,7 +15,7 @@ VoicePlay("G020130003_01_010");
 MsgDisp("Kazama","That reminds me.
 They talked about this place too,
 remember?");
-MsgDisp("主人公","｛本多＊＊｝ and ｛七ツ森＊｝?");
+MsgDisp("主人公","｛Honda＊＊｝ and ｛Nanatsumori＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -33,7 +33,7 @@ MsgDisp("Kazama","Nanatsumori would probably desperately
 mess with his phone and takes pictures.
 Doesn't really seem like the type to enjoy
 the view.");
-MsgDisp("主人公","I think ｛七ツ森＊｝ would enjoy things
+MsgDisp("主人公","I think ｛Nanatsumori＊｝ would enjoy things
 like this.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -70,8 +70,8 @@ VoicePlay("G020130003_01_070");
 MsgDisp("Kazama","Most likely. And if they find out, they'll
 probably keep bringing it up for a week...
 So don't say anything.");
-MsgDisp("主人公","(Hahah, it sounds like ｛風真＊＊｝ loves
-｛本多＊＊｝ and ｛七ツ森＊｝.)");
+MsgDisp("主人公","(Hahah, it sounds like ｛Kazama＊＊｝ loves
+｛Honda＊＊｝ and ｛Nanatsumori＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

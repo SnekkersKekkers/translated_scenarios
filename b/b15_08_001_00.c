@@ -34,7 +34,7 @@ ChCheek(8,10);
 VoicePlay("B150800100_08_040");
 MsgDisp("Shirahane","∈ No!
 I can't say it after all!");
-MsgDisp("主人公","｛大地＊＊｝?");
+MsgDisp("主人公","｛Daichi＊＊｝?");
 ChEye(8,2);
 ChMouth(8,4);
 ChEyeOpenLevel(8,8);
@@ -51,6 +51,6 @@ Well then, see ya.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);
-MsgDisp("主人公","(｛大地＊＊｝'s face is red...)");
+MsgDisp("主人公","(｛Daichi＊＊｝'s face is red...)");
 MsgClose();
 ScrFadeOut(0,0);

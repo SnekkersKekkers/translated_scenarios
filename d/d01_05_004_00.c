@@ -24,7 +24,7 @@ StlEyeOpenLevel(5,5);
 VoicePlay("D010500400_05_000");
 MsgDisp("Hiiragi","It would be better if one of you does it
 rather than me.");
-MsgDisp("主人公","(｛柊＊＊＊｝...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 He turned down the lead role offer...)");
 VoicePlay("D010500400_41_020");
 MsgDisp("Male Student B","Why though∋
@@ -39,9 +39,9 @@ MsgDisp("Male Student A","I can do that!");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("D010500400_05_020");
 MsgDisp("Hiiragi","...That is not possible.");
-MsgDisp("主人公","｛柊＊＊＊｝, everyone is looking forward
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, everyone is looking forward
 to it. Me too, I want to see the
-performance with ｛柊＊＊＊｝.");
+performance with ｛Hiiragi＊＊＊｝.");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -78,7 +78,7 @@ ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("D010500400_42_060");
 MsgDisp("Male Student A","...Haa, it's no good, huh?");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 SEStop("EV_SE_724",1);
 StlEye(5,1);
 StlMouth(5,1);
@@ -116,7 +116,7 @@ MsgDisp("School Girl","Awesome! We'll get to see a real Theater
 Company performance at our school! That's
 amazing!");
 MsgDisp("主人公","Yeah...!
-｛柊＊＊＊｝, thank you!");
+｛Hiiragi＊＊＊｝, thank you!");
 SEStop("EV_SE_GAYA_025",1.5);
 MsgClose();
 ScrFadeOut(0,0);
@@ -128,7 +128,7 @@ MsgClose();
 BGOpen("sc300",1);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, shall we pack up for today?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, shall we pack up for today?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -170,7 +170,7 @@ MsgDisp("主人公","Eh...?");
 VoicePlay("D010500400_05_100");
 MsgDisp("Hiiragi","...Sorry.
 I've been making you worry.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChLayout(1);
 BGOpen("sc300",1);
 SEPlay("EV_SE_675",1,0.4)ChEye(5,4);
@@ -197,7 +197,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("D010500400_05_130");
 MsgDisp("Hiiragi","...It was a late realization, but it is
 better than not realizing at all.");
-MsgDisp("主人公","(｛柊＊＊＊｝...
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 Yeah, let's do our best together.)");
 BGMStop();
 MsgClose();

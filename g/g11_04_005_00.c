@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("G110400500_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 What's up?");
 VoicePlay("G110400500_04_010");
 MsgDisp("Nanatsumori","Did you plan to come by Cafe Alucard
@@ -60,7 +60,7 @@ ChMouth(4,1);
 ChMotion(4,0);
 VoicePlay("G110400500_04_060");
 MsgDisp("Nanatsumori","Well...");
-MsgDisp("主人公","(｛七ツ森＊｝, what do you mean by that...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, what do you mean by that...)");
 while (1){
     RunEverydaySksp(4,0,0,1,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -96,7 +96,7 @@ ChMotion(4,2);
 MsgDisp("Nanatsumori","Ah, my bad!
 I didn't mean to talk while standing,
 let's go take a seat here.");
-MsgDisp("主人公","(Am I ｛七ツ森＊｝'s ideal type?)");
+MsgDisp("主人公","(Am I ｛Nanatsumori＊｝'s ideal type?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

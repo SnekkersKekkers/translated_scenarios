@@ -68,7 +68,7 @@ VoicePlay("D120A00000_01_030");
 MsgDisp("Kazama","Please stop.
 Don't call me \"Young Master\".");
 MsgDisp("主人公","Hehe.
-A lot of people call ｛風真＊＊｝ a young
+A lot of people call ｛Kazama＊＊｝ a young
 master, huh?");
 StlEyeOpenLevel(1,#1);
 StlEye(6,0);
@@ -86,7 +86,7 @@ VoicePlay("D120A00000_02_010");
 MsgDisp("Sassa","Auntie!
 This is way too much.");
 MsgDisp("主人公","Ehh∋
-｛颯砂＊＊｝'s serving...");
+｛Sassa＊＊｝'s serving...");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_040");
@@ -116,7 +116,7 @@ StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_060");
 MsgDisp("Kazama","...Shut up.");
-MsgDisp("主人公","(｛風真＊＊｝ looks a bit annoyed...?)");
+MsgDisp("主人公","(｛Kazama＊＊｝ looks a bit annoyed...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

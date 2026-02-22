@@ -8,8 +8,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Haa...
 It's already graduation soon huh?)");
 MsgDisp("主人公","(For three years, I got to be in the same
-class as ｛風真＊＊｝)");
-MsgDisp("主人公","(...｛風真＊＊｝, I wonder what you're doing
+class as ｛Kazama＊＊｝)");
+MsgDisp("主人公","(...｛Kazama＊＊｝, I wonder what you're doing
 right now in England?)");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
@@ -21,7 +21,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoicePlay("D130B00200_03_000");
 MsgDisp("Honda","I found you!");
-MsgDisp("主人公","｛本多＊＊｝.
+MsgDisp("主人公","｛Honda＊＊｝.
 What are you in such a hurry for?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -38,7 +38,7 @@ ChOpen(4,254,0,0,0,#1,#1,0,2);
 VoicePlay("D130B00200_04_000");
 MsgDisp("Nanatsumori","Huh.
 You're still here.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChEye(4,2);
 ChMouth(4,3);
 VoiceEVSPlay(4);
@@ -97,7 +97,7 @@ VoiceEVSPlay(3);
 MsgDisp("Honda","That's right!
 Let's go, ｛主人公｝.");
 MsgDisp("主人公","...Yeah!");
-MsgDisp("主人公","(I'm curious what ｛風真＊＊｝'s message
+MsgDisp("主人公","(I'm curious what ｛Kazama＊＊｝'s message
 said though...I see, there is only a
 little bit of time left where I can be
 with everyone together like this...)");

@@ -93,7 +93,7 @@ Let's get some firewood...");
         MsgDisp("Shirahane","As for the place, somewhere by the
 lakeside would be good.
 Hehe!");
-        MsgDisp("主人公","(｛大地＊＊｝, that seems fun!
+        MsgDisp("主人公","(｛Daichi＊＊｝, that seems fun!
 I'll have to help too!)");
         break ;
         default :

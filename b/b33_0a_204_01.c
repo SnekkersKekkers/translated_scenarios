@@ -57,7 +57,7 @@ Why?");
 ChMouth(1,2);
 ChMotion(1,0);
 MsgDisp("主人公","Hehe, I'm excited.
-Is ｛颯砂＊＊｝ up last?");
+Is ｛Sassa＊＊｝ up last?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -104,7 +104,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B330A20401_01_040");
 MsgDisp("Kazama","Shut up.");
 MsgDisp("主人公","Hehe, I think both are good.
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
 ChEye(1,3);
 ChMotion(1,3);
 ChCheek(1,0);
@@ -116,7 +116,7 @@ MsgDisp("Sassa","\"Firefly Final\"");
 ChEye(1,0);
 ChMotion(1,0);
 MsgDisp("主人公","Ahaha, nice!
-Just like ｛颯砂＊＊｝.");
+Just like ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

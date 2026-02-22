@@ -23,7 +23,7 @@ SEStop("EV_SE_679");
 MsgClear();
 MsgDisp("主人公","\"Hehe!
 It looks like they caused trouble for
-｛颯砂＊＊｝ intentionally?\"");
+｛Sassa＊＊｝ intentionally?\"");
 MsgDisp("","｛主人公名前｝.
 We have another member now.");
 MsgDisp("","At first the dogs tilted their heads
@@ -39,7 +39,7 @@ MsgDisp("","She laughs, but dogs are sensitive to
 the pecking order within their pack.");
 MsgDisp("","...Seems like I'm below her.");
 MsgClear();
-MsgDisp("主人公","\"Hey, ｛颯砂＊＊｝.
+MsgDisp("主人公","\"Hey, ｛Sassa＊＊｝.
 One more round?
 Beach dash!\"");
 MsgDisp("","With this, surely my rank is bellow

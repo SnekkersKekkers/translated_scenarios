@@ -25,7 +25,7 @@ ChMotion(7,5);
 VoicePlay("B330C30101_07_010");
 MsgDisp("Mikage","Eh?
 That...");
-MsgDisp("主人公","｛氷室＊＊｝, is there something you want?");
+MsgDisp("主人公","｛Himuro＊＊｝, is there something you want?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -80,7 +80,7 @@ ChClose(7,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,4,#1,#1,0,0,0,30);
-MsgDisp("主人公","Are you coming too, ｛御影＊＊｝?");
+MsgDisp("主人公","Are you coming too, ｛Mikage＊＊｝?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -89,7 +89,7 @@ MsgDisp("Mikage","O-Oi.
 I can't afford to buy something that
 expensive...");
 MsgDisp("主人公","Hehe, it's alright. I think both
-｛氷室＊＊｝ and ｛御影＊＊｝ have no
+｛Himuro＊＊｝ and ｛Mikage＊＊｝ have no
 intention of buying it at all.");
 ChEye(7,0);
 ChMouth(7,4);
@@ -97,7 +97,7 @@ ChMotion(7,2);
 VoicePlay("B330C30101_07_050");
 MsgDisp("Mikage","Ah, really?
 None at all, huh...");
-MsgDisp("主人公","(｛御影＊＊｝ will end up wanting to grant
+MsgDisp("主人公","(｛Mikage＊＊｝ will end up wanting to grant
 any of his student's wishes...");
 BGMStop();
 MsgClose();

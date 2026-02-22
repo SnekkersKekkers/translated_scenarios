@@ -9,7 +9,7 @@ MsgDisp("主人公","That voice is...");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,254,0,3,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","｛本多＊＊｝!
+MsgDisp("主人公","｛Honda＊＊｝!
 Are you out shopping?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -18,7 +18,7 @@ VoicePlay("D010300000_03_010");
 MsgDisp("Honda","Yeah.
 I like to come here sometimes because my
 roots are here.");
-MsgDisp("主人公","｛本多＊＊｝'s roots?");
+MsgDisp("主人公","｛Honda＊＊｝'s roots?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -90,7 +90,7 @@ StlClose();
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","So ｛本多＊＊｝'s current lifestyle was born
+MsgDisp("主人公","So ｛Honda＊＊｝'s current lifestyle was born
 from his mother's advice.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -107,7 +107,7 @@ MsgDisp("Honda","That's why I still come to see
 Ammonite-kun from time to time.");
 MsgDisp("主人公","I get it. For you, this is an important
 place. Thanks for teaching me about it,
-｛本多＊＊｝.");
+｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -120,7 +120,7 @@ VoicePlay("D010300000_03_130");
 MsgDisp("Honda","...Wait.
 I think you may be the first person I've
 told this besides my sister...?");
-MsgDisp("主人公","(Thank you, ｛本多＊＊｝.
+MsgDisp("主人公","(Thank you, ｛Honda＊＊｝.
 For sharing your precious memories with
 me.)");
 BGMStop();

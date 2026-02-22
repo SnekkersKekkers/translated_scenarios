@@ -14,7 +14,7 @@ ChMouthOpenLevel(8,0);
 ChCheek(8,6);
 VoicePlay("G020820300_08_010");
 MsgDisp("Shirahane","......");
-MsgDisp("主人公","...｛大地＊＊｝?
+MsgDisp("主人公","...｛Daichi＊＊｝?
 What's wrong?");
 ChEye(8,4);
 ChMouth(8,4);
@@ -52,7 +52,7 @@ ChEyeOpenLevel(8,0);
 VoicePlay("G020820300_08_070");
 MsgDisp("Shirahane","No, this is bad...this is bad!
 I need to clear my mind...");
-MsgDisp("主人公","(｛大地＊＊｝...
+MsgDisp("主人公","(｛Daichi＊＊｝...
 What on earth is he thinking about right
 now?)");
 BGMStop();

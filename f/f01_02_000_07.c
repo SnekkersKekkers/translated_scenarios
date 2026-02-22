@@ -31,7 +31,7 @@ What do you think?");
     VoiceEVSPlay(2);
     VoicePlay("F010200007_02_020");
     MsgDisp("Sassa","｛主人公｝.");
-    MsgDisp("主人公","Oh, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Oh, ｛Sassa＊＊｝.
 Were you waiting for me?");
     ChEye(2,0);
     ChMouth(2,4);

@@ -31,7 +31,7 @@ MsgDisp("Honda","But our failure hasn't been decided, has
 it?");
 MsgDisp("主人公","(S-Somewhat...
 He's returned to being the usual
-｛本多＊＊｝∋)");
+｛Honda＊＊｝∋)");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -48,7 +48,7 @@ dilemma...
 In this country?");
 SEPlay("EV_SE_GAYA_008",0,0.7);
 Wait(90,0);
-MsgDisp("主人公","(Come on, he's become ｛本多＊＊｝ again!)");
+MsgDisp("主人公","(Come on, he's become ｛Honda＊＊｝ again!)");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);

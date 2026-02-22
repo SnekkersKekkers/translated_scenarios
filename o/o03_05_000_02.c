@@ -25,7 +25,7 @@ I wish I had tried a little harder...)");
 My apologizes for pulling on your leg.
 Are you hurt?");
     MsgDisp("主人公","No, I'm fine.
-What about you, ｛柊＊＊＊｝?");
+What about you, ｛Hiiragi＊＊＊｝?");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);

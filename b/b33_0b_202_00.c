@@ -108,7 +108,7 @@ ChMotion(3,4,1);
 VoicePlay("B330B20200_03_050");
 MsgDisp("Honda","Hm?
 Is there something on my face?");
-MsgDisp("主人公","(A romance with ｛本多＊＊｝...
+MsgDisp("主人公","(A romance with ｛Honda＊＊｝...
 I don't think there's anything to worry
 about though...)");
 BGMStop();

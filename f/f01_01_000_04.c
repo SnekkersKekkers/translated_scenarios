@@ -58,7 +58,7 @@ I'll go home alone today...)");
     VoicePlay("F010100004_01_050");
     MsgDisp("Kazama","Yeah, something like that.");
     MsgDisp("主人公","It can't be helped.
-｛風真＊＊｝ is busy.");
+｛Kazama＊＊｝ is busy.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);

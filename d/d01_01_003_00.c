@@ -1,6 +1,6 @@
 BGOpen("sc520",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛風真＊＊｝...
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝...
 I want to go up to the rooftop.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -33,7 +33,7 @@ VoicePlay("D010100300_01_030");
 MsgDisp("Kazama","No, I'm not like dad...
 I don't think I'll ever be like him.");
 MsgDisp("主人公","(I don't want to eavesdrop but...
-I wonder who ｛風真＊＊｝ is talking to.)");
+I wonder who ｛Kazama＊＊｝ is talking to.)");
 SEPlay("EV_SE_602");
 BGMVol(0.5,2);
 MsgDisp("主人公","Ah...");
@@ -63,7 +63,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D010100300_01_050");
 MsgDisp("Kazama","So you ARE following me.");
 MsgDisp("主人公","Geez.
-｛風真＊＊｝, are you okay?
+｛Kazama＊＊｝, are you okay?
 That seemed like a serious phone call...?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -89,7 +89,7 @@ Does that make me sound uncool?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
-MsgDisp("主人公","(｛風真＊＊｝...)");
+MsgDisp("主人公","(｛Kazama＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

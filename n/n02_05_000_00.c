@@ -8,7 +8,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020500000_05_000");
     MsgDisp("Hiiragi","Hello.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Are you also here to see the results?");
     ChMouth(5,4);
     VoicePlay("N020500000_05_010");
@@ -72,7 +72,7 @@ hidden it at all.");
     VoicePlay("N020500000_05_080");
     MsgDisp("Hiiragi","｛主人公｝.
 You got the first place, congratulations.");
-    MsgDisp("主人公","｛柊＊＊＊｝!
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝!
 Thank you!");
     ChEye(5,0);
     ChMotion(5,3);
@@ -80,7 +80,7 @@ Thank you!");
     MsgDisp("Hiiragi","I will start paying more attention again.
 I might be taking advantage of my
 position.");
-    MsgDisp("主人公","｛柊＊＊＊｝, you might be just trying too
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, you might be just trying too
 hard.");
     ChEye(5,4);
     ChMouth(5,4);
@@ -89,7 +89,7 @@ hard.");
     MsgDisp("Hiiragi","Thank you. But it's not good at all. I
 have to try harder. There's no doubt you
 are shining brightly today.");
-    MsgDisp("主人公","(｛柊＊＊＊｝, you must be very happy...
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you must be very happy...
 I'm glad I did my best!)");
     MsgClose();
     ScrFadeOut(0,0);

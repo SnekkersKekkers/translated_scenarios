@@ -1,10 +1,10 @@
 Wait(20,0);
 SEPlay("EV_SE_577");
-MsgDisp("主人公","(Ah, a phone call from ｛颯砂＊＊｝.)");
+MsgDisp("主人公","(Ah, a phone call from ｛Sassa＊＊｝.)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
-MsgDisp("主人公","Hello, ｛颯砂＊＊｝?");
+MsgDisp("主人公","Hello, ｛Sassa＊＊｝?");
 VoicePlay("J030201002_02_000");
 MsgDisp("Sassa","Hey, it's me.
 Did you leave something on my voicemail?");

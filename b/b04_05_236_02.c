@@ -14,7 +14,7 @@ ScrFadeIn(0);
 VoicePlay("B040523602_05_000");
 MsgDisp("Hiiragi","Why is the amusement park so fun both
 during the day and at night?");
-MsgSel("｛柊＊＊＊｝ is like a kid","Because the amusement park is a fun place!","Today's an all nighter!");
+MsgSel("｛Hiiragi＊＊＊｝ is like a kid","Because the amusement park is a fun place!","Today's an all nighter!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -104,7 +104,7 @@ smiling.");
         ChMotion(5,0);
         VoicePlay("B040523602_05_100");
         MsgDisp("Hiiragi","Well, let's hurry and head home!");
-        MsgDisp("主人公","(｛柊＊＊＊｝, thank you for always
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, thank you for always
 thinking of me...)");
         break ;
         default :

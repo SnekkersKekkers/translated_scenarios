@@ -24,6 +24,6 @@ VoicePlay("B030710004_07_020");
 MsgDisp("Mikage","Direct all questions to the museum
 curators.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","(｛御影＊＊｝ looks a little like he's
+MsgDisp("主人公","(｛Mikage＊＊｝ looks a little like he's
 having a good time...?)");
 MsgDispSksp(0);

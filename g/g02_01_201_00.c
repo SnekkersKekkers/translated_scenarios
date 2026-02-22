@@ -57,7 +57,7 @@ VoicePlay("G020120100_01_070");
 MsgDisp("Kazama","I know you better than anyone. So I don't
 need to rely on weird things like 'hearing
 how you really feel', but still.");
-MsgDisp("主人公","｛風真＊＊｝?");
+MsgDisp("主人公","｛Kazama＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -65,7 +65,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_080");
 MsgDisp("Kazama","I guess being at a slight disadvantage is
 just the right handicap.");
-MsgDisp("主人公","(I think ｛風真＊＊｝ is worried about
+MsgDisp("主人公","(I think ｛Kazama＊＊｝ is worried about
 something...)");
 BGMStop();
 MsgClose();

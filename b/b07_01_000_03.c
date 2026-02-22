@@ -8,7 +8,7 @@ MsgDisp("Kazama","Not really.
 I don't do any.
 Is there a problem?");
 MsgDisp("主人公","There's no problem.
-Since ｛風真＊＊｝ is also good at
+Since ｛Kazama＊＊｝ is also good at
 physical activity.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -31,7 +31,7 @@ VoicePlay("B070100000_01_140");
 MsgDisp("Kazama","Ah, there is one thing.
 I like sumo, it's interesting.");
 MsgDisp("主人公","Eh, ...
-｛風真＊＊｝ does sumo?");
+｛Kazama＊＊｝ does sumo?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);

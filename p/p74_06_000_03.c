@@ -10,7 +10,7 @@ SEWait();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("P740600003_06_000");
 MsgDisp("Himuro","Good work.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝...");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -32,7 +32,7 @@ VoicePlay("P740600003_06_030");
 MsgDisp("Himuro","Just accept that you did everything that
 you could?");
 MsgDisp("主人公","Yeah...");
-MsgDisp("主人公","(｛氷室＊＊｝...
+MsgDisp("主人公","(｛Himuro＊＊｝...
 That's right, I failed, but I need to get
 over it...)");
 MsgClose();

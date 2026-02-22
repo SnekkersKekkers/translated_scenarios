@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("H4A0400000_04_000");
     MsgDisp("Nanatsumori","Amazing...
 I got goosebumps.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
     ChMotion(4,1,1);
     VoicePlay("H4A0400000_04_010");
     MsgDisp("Nanatsumori","And your technique.
@@ -37,7 +37,7 @@ Today's the best day ever!)");
     VoiceEVSPlay(4);
     VoicePlay("H4A0400000_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 I won!");
     VoicePlay("H4A0400000_04_040");
     MsgDisp("Nanatsumori","Oh no...");
@@ -64,7 +64,7 @@ It makes me almost lose my rationality.");
     VoicePlay("H4A0400000_04_070");
     MsgDisp("Nanatsumori","Ugh...!
 If you look at me like that, I'll...");
-    MsgDisp("主人公","(｛七ツ森＊｝...I'm glad I stayed in the
+    MsgDisp("主人公","(｛Nanatsumori＊｝...I'm glad I stayed in the
 rhythmic gymnastics club...Today's the
 best day ever!)");
     break ;

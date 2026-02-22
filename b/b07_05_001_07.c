@@ -15,7 +15,7 @@ ChMouth(5,2);
 VoicePlay("B070500001_05_520");
 MsgDisp("Hiiragi","Hm, and what is 'that'?");
 MsgDisp("主人公","I suddenly thought about how me and
-｛柊＊＊＊｝...are alone together.");
+｛Hiiragi＊＊＊｝...are alone together.");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -38,7 +38,7 @@ them.");
 ChEye(5,4);
 VoicePlay("B070500001_05_560");
 MsgDisp("Hiiragi","Furthermore, I feel the same.");
-MsgDisp("主人公","｛柊＊＊＊｝ too?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ too?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B070500001_05_570");
@@ -67,7 +67,7 @@ ChCheek(5,0);
 VoicePlay("B070500001_05_600");
 MsgDisp("Hiiragi","If both our hearts are racing, then
 there's no need for either of us to worry.");
-MsgDisp("主人公","(｛柊＊＊＊｝'s heart also races when he's
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝'s heart also races when he's
 around me...?)");
 BGMStop();
 MsgClose();

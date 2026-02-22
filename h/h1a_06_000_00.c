@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("H1A0600000_06_000");
     MsgDisp("Himuro","You won?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);
@@ -28,7 +28,7 @@ club manager!)");
     ScrFadeIn(0);
     VoicePlay("H1A0600000_06_020");
     MsgDisp("Himuro","Congrats on winning.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
 Thank you.");
     ChEye(6,0);
     ChMouth(6,4);

@@ -33,7 +33,7 @@ ChMotion(2,1);
 VoicePlay("G110200900_02_010");
 MsgDisp("Sassa","Yeah, seems like you could be an athlete.");
 MsgDisp("主人公","(Huh?
-｛颯砂＊＊｝, it seems like your arms are
+｛Sassa＊＊｝, it seems like your arms are
 stiffer than usual today...?)");
 while (1){
     RunEverydaySksp(2,0,0,0,0,1);
@@ -87,7 +87,7 @@ MsgDisp("Sassa","Today I'm going to relax and loosen up my
 muscles. I almost ended up regretting it,
 before the real thing.");
 MsgDisp("主人公","(It's already the Inter-High...
-Let's cheer for ｛颯砂＊＊｝ so he can
+Let's cheer for ｛Sassa＊＊｝ so he can
 finish satisfied!)");
 MsgClose();
 BGMStop();

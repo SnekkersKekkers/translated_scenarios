@@ -6,7 +6,7 @@ MsgDisp("主人公","Yeah, it's beautiful.");
 ChMotion(5,4);
 VoicePlay("G020510000_05_010");
 MsgDisp("Hiiragi","To me, you seem to be illuminated.");
-MsgDisp("主人公","Hehe, ｛柊＊＊＊｝ also.");
+MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝ also.");
 ChEye(5,2);
 VoicePlay("G020510000_05_020");
 MsgDisp("Hiiragi","Right now, I'm the only one looking at
@@ -27,7 +27,7 @@ MsgDisp("Hiiragi","Because I'm the closest to you right
 now...When I think of a future where
 that's not the case, it frightens me.");
 ChEyeOpenLevel(5,9);
-MsgDisp("主人公","Ummm ｛柊＊＊＊｝?");
+MsgDisp("主人公","Ummm ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
@@ -39,7 +39,7 @@ VoicePlay("G020510000_05_060");
 MsgDisp("Hiiragi","I should just be happy about this
 situation, but somewhat, at the same time,
 I'm also feeling afraid of losing it...");
-MsgDisp("主人公","(｛柊＊＊＊｝...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

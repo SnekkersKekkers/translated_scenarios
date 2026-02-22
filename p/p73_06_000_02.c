@@ -18,7 +18,7 @@ make it a success!)");
     MsgDisp("Himuro","It's amazing huh.
 To think you can handmake even such a
 thing.");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -71,7 +71,7 @@ festival...I have to make it a success!)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730600002_06_060");
     MsgDisp("Himuro","Ah...");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Did you come to watch?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -107,14 +107,14 @@ Then, I'm off, okay?");
     VoicePlay("P730600002_06_100");
     MsgDisp("Himuro","...What's this.
 This feels like I'm sending off a bride...");
-    MsgDisp("主人公","｛氷室＊＊｝...?");
+    MsgDisp("主人公","｛Himuro＊＊｝...?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("P730600002_06_110");
     MsgDisp("Himuro","It's nothing.
 ...I'll be waiting from here.");
-    MsgDisp("主人公","(｛氷室＊＊｝, what's wrong?
+    MsgDisp("主人公","(｛Himuro＊＊｝, what's wrong?
 But this is my last stage, so let's
 carefully follow this through!)");
     MsgClose();

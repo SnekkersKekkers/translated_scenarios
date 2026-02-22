@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,0,2,#1,#1,0,0);
-    MsgDisp("主人公","What is it, ｛風真＊＊｝?");
+    MsgDisp("主人公","What is it, ｛Kazama＊＊｝?");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,3);
@@ -40,7 +40,7 @@ I need to get it together...!)");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,4,2,#1,#1,0,0);
-    MsgDisp("主人公","What is it, ｛風真＊＊｝?");
+    MsgDisp("主人公","What is it, ｛Kazama＊＊｝?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);

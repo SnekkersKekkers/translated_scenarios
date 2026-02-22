@@ -1,6 +1,6 @@
 MsgDisp("","After graduation, there were times when we
 couldn't see each other, but at those
-times, ｛氷室＊＊｝ would send me the
+times, ｛Himuro＊＊｝ would send me the
 'Habataki News'. When I read it, I was
 instantly sent back to my high school
 days. After that, we got in touch and

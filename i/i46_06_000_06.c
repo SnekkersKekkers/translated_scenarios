@@ -87,7 +87,7 @@ Got something on your mind?");
 motivation.");
     MsgDisp("主人公","You're right.
 Thanks.");
-    MsgDisp("主人公","(I'm glad ｛氷室＊＊｝ said that.
+    MsgDisp("主人公","(I'm glad ｛Himuro＊＊｝ said that.
 Let's get it together...!)");
     break ;
     default :

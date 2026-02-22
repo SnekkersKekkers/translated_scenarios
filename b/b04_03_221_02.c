@@ -64,7 +64,7 @@ This way.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(3);
         SEWait();
-        MsgDisp("主人公","(｛本多＊＊｝ ended up calling me 'a
+        MsgDisp("主人公","(｛Honda＊＊｝ ended up calling me 'a
 princess.')");
         MsgClose();
         ScrFadeOut(0,0);

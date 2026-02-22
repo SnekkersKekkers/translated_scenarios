@@ -14,7 +14,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("K020300000_03_000");
 MsgDisp("Honda","Good evening!");
-MsgDisp("主人公","｛本多＊＊｝!?
+MsgDisp("主人公","｛Honda＊＊｝!?
 What are you doing here all of a sudden?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -51,6 +51,6 @@ BGMStop();
 MsgClose();
 ChClose(3);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛本多＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛Honda＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

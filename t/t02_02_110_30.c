@@ -13,7 +13,7 @@ VoicePlay("T020211030_02_000");
 MsgDisp("Sassa","I see...
 I'm the one who should apologize.
 I have nothing but gratitude for you.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 BGMPlay("BGM_C02_SASSA_C",0.01);
 Wait(40,0);
 ChEye(2,3);
@@ -38,7 +38,7 @@ VoicePlay("T020211030_02_030");
 MsgDisp("Sassa","I can't run with you, but...it's okay.
 I'm not just a track and field fanatic
 anymore.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,3);
 ChMotion(2,1);

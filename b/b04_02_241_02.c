@@ -54,7 +54,7 @@ I feel bad for the ponies.");
         ChEyeOpenLevel(2,0);
         VoicePlay("B040224102_02_040");
         MsgDisp("Sassa","Yeah, yeah.");
-        MsgDisp("主人公","｛颯砂＊＊｝, what's wrong?");
+        MsgDisp("主人公","｛Sassa＊＊｝, what's wrong?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -90,7 +90,7 @@ real.");
 Lots of slightly dirty ponies!");
         MsgDisp("主人公","(Umm...
 Is it okay to be happy about how cute
-｛颯砂＊＊｝ is...?)");
+｛Sassa＊＊｝ is...?)");
         break ;
         default :
         DbgAssert(1);

@@ -4,7 +4,7 @@ VoicePlay("G020510401_05_000");
 MsgDisp("Hiiragi","I've been performing in plays themed
 around romance without ever experiencing
 real romance myself...");
-MsgDisp("主人公","｛柊＊＊＊｝, what's this all of a sudden?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, what's this all of a sudden?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020510401_05_010");
@@ -36,7 +36,7 @@ ChMotion(5,0);
 VoicePlay("G020510401_05_060");
 MsgDisp("Hiiragi","Meeting you has changed me.
 It even affects my roles on stage.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 VoicePlay("G020510401_05_070");
 MsgDisp("Hiiragi","My father used to often say that, when he

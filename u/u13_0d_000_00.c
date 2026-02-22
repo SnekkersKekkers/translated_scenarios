@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛風真＊＊｝, I guess...");
+MsgDisp("主人公","｛Kazama＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -23,7 +23,7 @@ switch (ChPrmGet(1,6)){
 I wonder if Kazama-kun and Mari have two
 different definitions of \"love\"?");
     MsgDisp("主人公","(Is there a difference between my love and
-｛風真＊＊｝'s \"love\"?
+｛Kazama＊＊｝'s \"love\"?
 I wonder what that means...)");
     break ;
     case 3:
@@ -54,7 +54,7 @@ that can't make up her mind!");
 over-the-top heroines, Kazama-kun would
 lose easily, wouldn't he?");
     StlEye(22,0);
-    MsgDisp("主人公","(If I go after ｛風真＊＊｝ more
+    MsgDisp("主人公","(If I go after ｛Kazama＊＊｝ more
 aggressively, would he notice it?)");
     break ;
     case 4:

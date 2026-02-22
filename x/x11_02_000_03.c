@@ -36,7 +36,7 @@ I'll work harder!)");
     MsgDisp("Sassa","｛主人公｝, congratulations!
 I heard that you've decided on a great new
 move.");
-    MsgDisp("主人公","Thank you ｛颯砂＊＊｝, though it's a joint
+    MsgDisp("主人公","Thank you ｛Sassa＊＊｝, though it's a joint
 practice.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -45,7 +45,7 @@ practice.");
     MsgDisp("Sassa","I'd like to go and support you to see your
 new technique, but it's not safe if
 someone like me is peeking in ...");
-    MsgDisp("主人公","Huh, that's not true, though, ｛颯砂＊＊｝
+    MsgDisp("主人公","Huh, that's not true, though, ｛Sassa＊＊｝
 must be busy with track and field
 practice, right?");
     ChEye(2,0);
@@ -55,7 +55,7 @@ practice, right?");
     MsgDisp("Sassa","Well, you're right ...
 But I always support you in heart!");
     MsgDisp("主人公","(Yay! t's nice to be cheered on by
-｛颯砂＊＊｝)");
+｛Sassa＊＊｝)");
     break ;
     default :
     DbgAssert(1);

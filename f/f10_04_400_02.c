@@ -12,7 +12,7 @@ VoicePlay("F100440002_03_000");
 MsgDisp("Honda","Thank you, Mi-kun!");
 VoicePlay("F100440002_04_000");
 MsgDisp("Nanatsumori","Mm.");
-MsgDisp("主人公","｛七ツ森＊｝, ｛本多＊＊｝!");
+MsgDisp("主人公","｛Nanatsumori＊｝, ｛Honda＊＊｝!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(4,0,1);
@@ -27,7 +27,7 @@ VoicePlay("F100440002_03_010");
 MsgDisp("Honda","｛主人公｝.
 Thanks to Mi-kun, my little sister is in a
 good mood!");
-MsgDisp("主人公","Thanks to ｛七ツ森＊｝?");
+MsgDisp("主人公","Thanks to ｛Nanatsumori＊｝?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

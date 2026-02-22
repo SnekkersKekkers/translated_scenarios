@@ -5,7 +5,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(My last Christmas in high school is
 over...)");
-MsgDisp("主人公","(Which reminds me, ｛大地＊＊｝ is having
+MsgDisp("主人公","(Which reminds me, ｛Daichi＊＊｝ is having
 a Hanegasaki Christmas party and then he's
 going on a ski trip.)");
 MsgDisp("主人公","...Wish I could have gone with them.");
@@ -18,7 +18,7 @@ MsgDisp("主人公","Huh...");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(8,255,0,0,0,#1,#1,5,0);
-MsgDisp("主人公","｛大地＊＊｝∋
+MsgDisp("主人公","｛Daichi＊＊｝∋
 What are you doing here...");
 ChEye(8,4);
 ChMouth(8,3);
@@ -35,7 +35,7 @@ VoicePlay("R080800000_08_020");
 MsgDisp("Shirahane","Ya but...well, who cares?
 Today is my last Christmas in high school,
 and I wanted to see ya.");
-MsgDisp("主人公","｛大地＊＊｝...");
+MsgDisp("主人公","｛Daichi＊＊｝...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -71,7 +71,7 @@ ScrFadeIn(0);
 VoicePlay("R080800000_08_060");
 MsgDisp("Shirahane","So did ya have fun at the Christmas party?");
 MsgDisp("主人公","Yeah.
-How about you, ｛大地＊＊｝?
+How about you, ｛Daichi＊＊｝?
 Did you enjoy the ski trip?");
 ChEye(8,0);
 ChMouth(8,3);
@@ -112,7 +112,7 @@ VoicePlay("R080800000_08_100");
 MsgDisp("Shirahane","Ah...it's warm.
 Your hand.");
 MsgDisp("主人公","Hehe.
-｛大地＊＊｝, your hands are cold...");
+｛Daichi＊＊｝, your hands are cold...");
 StlEye(8,0,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,0,1);
@@ -199,7 +199,7 @@ MsgDisp("Shirahane","Well then...our hangout for today stops
 here.");
 MsgDisp("主人公","...Okay.
 Thank you for spending time with me.
-I had fun, ｛大地＊＊｝.");
+I had fun, ｛Daichi＊＊｝.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -214,7 +214,7 @@ ChMotion(8,0,1);
 VoiceEVSPlay(8);
 VoicePlay("R080800000_08_220");
 MsgDisp("Shirahane","｛主人公｝, Merry Christmas.");
-MsgDisp("主人公","Merry Christmas, ｛大地＊＊｝.");
+MsgDisp("主人公","Merry Christmas, ｛Daichi＊＊｝.");
 VoicePlay("R080800000_08_230");
 MsgDisp("Shirahane","Thank you...for being here.");
 BGMStop(2.5);

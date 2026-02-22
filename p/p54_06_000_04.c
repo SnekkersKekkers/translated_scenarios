@@ -12,7 +12,7 @@ ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(6);
 VoicePlay("P540600004_06_000");
 MsgDisp("Himuro","｛主人公｝, good work.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝!");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -53,7 +53,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("P540600004_06_050");
 MsgDisp("Himuro","Even if you're crying tears of joy, I
 don't want anyone to see that face.");
-MsgDisp("主人公","｛氷室＊＊｝...");
+MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

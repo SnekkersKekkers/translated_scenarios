@@ -23,7 +23,7 @@ MsgDisp("Kazama","Actually, stop-it.
 What is up with you.");
 MsgDisp("主人公","Yeah.
 This is sudden, but I just thought about
-how I'm here with ｛風真＊＊｝ right now.");
+how I'm here with ｛Kazama＊＊｝ right now.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

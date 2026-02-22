@@ -19,7 +19,7 @@ ChMotion(5,4);
 VoicePlay("G020510200_05_030");
 MsgDisp("Hiiragi","I don't like this situation, it's like
 soaking in lukewarm water for too long.");
-MsgDisp("主人公","｛柊＊＊＊｝...?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020510200_05_040");

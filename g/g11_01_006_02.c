@@ -1,7 +1,7 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...today ｛風真＊＊｝ invited
+MsgDisp("主人公","(That's right...today ｛Kazama＊＊｝ invited
 me to walk home together.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -27,7 +27,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G110100602_01_000");
 MsgDisp("Kazama","Hey, you've been getting along with Honda
 recently, huh?");
-MsgDisp("主人公","Eh, ｛本多＊＊｝...?");
+MsgDisp("主人公","Eh, ｛Honda＊＊｝...?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

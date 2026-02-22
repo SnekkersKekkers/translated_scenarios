@@ -2,7 +2,7 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm late!
-｛七ツ森＊｝ is...
+｛Nanatsumori＊｝ is...
 Ah, he's already here!)");
 BGMPlay("BGM_C04_NANA_A",0.01);
 switch (ChPrmGet(4,6)){

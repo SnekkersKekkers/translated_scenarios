@@ -12,7 +12,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 Wait(55,0);
 SEPlay("EV_SE_DOOR_013");
 SEWait();
-MsgDisp("主人公","｛柊＊＊＊｝ Ha?
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ Ha?
 Have you had lunch?");
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -40,7 +40,7 @@ VoicePlay("G110500803_05_010");
 MsgDisp("Hiiragi","Yes, I have to be efficient.");
 ChMouth(5,0);
 MsgDisp("主人公","(Huh?
-On ｛柊＊＊＊｝'s lips, is that...red bean
+On ｛Hiiragi＊＊＊｝'s lips, is that...red bean
 paste?)");
 while (1){
     RunEverydaySksp(5,0,0,1,0,0);

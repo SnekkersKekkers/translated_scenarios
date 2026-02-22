@@ -19,5 +19,5 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("B020502134_05_020");
 MsgDisp("Hiiragi","You'll take responsibility for twisting my
 tastes, won't you?");
-MsgDisp("主人公","(｛柊＊＊＊｝ seems to really like this
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to really like this
 outfit!)");

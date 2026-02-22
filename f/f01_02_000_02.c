@@ -5,7 +5,7 @@ switch (MsgSelRsltGet()){
         case 0:
         case 1:
         case 2:
-        MsgDisp("主人公","｛颯砂＊＊｝.");
+        MsgDisp("主人公","｛Sassa＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C02_SASSA_A",0.01);
         ChOpen(2,254,0,0,4,#1,#1,0,0);
@@ -39,7 +39,7 @@ Should we go together?");
         }
     break ;
     case 1:
-    MsgDisp("主人公","｛颯砂＊＊｝.");
+    MsgDisp("主人公","｛Sassa＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,254,0,0,0,#1,#1,0,0);

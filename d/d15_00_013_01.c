@@ -35,7 +35,7 @@ MsgDisp ( "Honda","Right. I wish I could eat and talk at the
 same time. It's hard not being able to do
 both." ) ;
 MsgDisp ( "主人公","Hehe, that's just the sort of problem
-you'd expect from ｛本多＊＊｝." ) ;
+you'd expect from ｛Honda＊＊｝." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,3 ) ;
 ChMotion ( 1,0 ) ;

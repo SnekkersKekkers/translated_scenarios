@@ -11,4 +11,4 @@ MsgDisp("Hiiragi","I see, then it is the fashion you have on.
 It seems to be a little bit more mature
 than usual. How wonderful.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems to like these clothes!)");
+｛Hiiragi＊＊＊｝ seems to like these clothes!)");

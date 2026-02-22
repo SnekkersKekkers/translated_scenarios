@@ -63,7 +63,7 @@ VoicePlay("B330A10600_06_010");
 MsgDisp("Himuro","Eh∋
 That can't be true.");
 MsgDisp("主人公","Hehe.
-｛氷室＊＊｝, aren't you glad?");
+｛Himuro＊＊｝, aren't you glad?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -141,7 +141,7 @@ MsgDisp("Himuro","...I don't even understand it myself.
 Maybe the impact of the Indian movie was
 so strong, I went crazy...");
 MsgDisp("主人公","(Ehh∋
-I wonder if ｛氷室＊＊｝ is okay...?)");
+I wonder if ｛Himuro＊＊｝ is okay...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

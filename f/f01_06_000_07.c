@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("F010600007_06_000");
     MsgDisp("Himuro","Hello.");
-    MsgDisp("主人公","Oh, ｛氷室＊＊｝.
+    MsgDisp("主人公","Oh, ｛Himuro＊＊｝.
 What's up?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -28,7 +28,7 @@ So, how about we walk home together?");
     VoiceEVSPlay(6);
     VoicePlay("F010600007_06_020");
     MsgDisp("Himuro","｛主人公｝.");
-    MsgDisp("主人公","Oh, ｛氷室＊＊｝.
+    MsgDisp("主人公","Oh, ｛Himuro＊＊｝.
 What's up?");
     ChEye(6,1);
     ChMouth(6,0);

@@ -41,7 +41,7 @@ manager until now!)");
     ChMotion(1,3);
     VoicePlay("H2A0100000_01_030");
     MsgDisp("Kazama","Winning championships is pretty amazing.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝!
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Yes, it's thanks to everyone's hard work.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -79,7 +79,7 @@ working exclusively for me.");
     VoicePlay("H2A0100000_01_080");
     MsgDisp("Kazama","It's fine if you know.
 Come on, everyone's waiting.");
-    MsgDisp("主人公","(｛風真＊＊｝ seemed really happy.
+    MsgDisp("主人公","(｛Kazama＊＊｝ seemed really happy.
 I'm glad I did my best!)");
     break ;
     default :

@@ -15,7 +15,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("I350500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝, are you working part-time?");
     MsgDisp("主人公","Yes, that's right.
-｛柊＊＊＊｝, are you alone?");
+｛Hiiragi＊＊＊｝, are you alone?");
     ChMotion(5,4);
     VoicePlay("I350500000_05_010");
     MsgDisp("Hiiragi","No, I believe that someone arrived
@@ -31,7 +31,7 @@ Go ahead.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛柊＊＊＊｝ feels different from how he
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ feels different from how he
 is at school...He is the chairman of the
 theater troupe, huh.)");
     break ;
@@ -44,7 +44,7 @@ theater troupe, huh.)");
     VoicePlay("I350500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝, if I may have a moment of your
 time.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, you came.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, you came.");
     VoicePlay("I350500000_05_040");
     MsgDisp("Hiiragi","Yes, we come here for meetings.");
     MsgDisp("主人公","You're busy as always.");
@@ -77,7 +77,7 @@ Well, thank you.");
     BGMStop();
     ChClose(5);
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(I'm glad to be of help to ｛柊＊＊＊｝...
+    MsgDisp("主人公","(I'm glad to be of help to ｛Hiiragi＊＊＊｝...
 Let's do our best smiling!)");
     break ;
     case 4:
@@ -91,7 +91,7 @@ Let's do our best smiling!)");
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_090");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝, welcome.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, welcome.");
     ChEye(5,4);
     VoicePlay("I350500000_05_100");
     MsgDisp("Hiiragi","Good evening.

@@ -53,7 +53,7 @@ You're still just a beginner.");
 forgiven just because you're not used to
 this. Be more aware.");
     MsgDisp("主人公","Yes...");
-    MsgDisp("主人公","(｛氷室＊＊｝ got mad at me...
+    MsgDisp("主人公","(｛Himuro＊＊｝ got mad at me...
 I'll have to get it together...)");
     break ;
     case 4:

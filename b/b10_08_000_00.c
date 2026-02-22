@@ -5,13 +5,13 @@ MsgDisp("主人公","(Haa...why did I end up saying such a
 thing...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Ah...
-It's from ｛大地＊＊｝!)");
+It's from ｛Daichi＊＊｝!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Yes, hello.");
 VoicePlay("B100800000_08_000");
 MsgDisp("Shirahane","...Hello?");
-MsgDisp("主人公","｛大地＊＊｝, what's wrong?");
+MsgDisp("主人公","｛Daichi＊＊｝, what's wrong?");
 VoicePlay("B100800000_08_010");
 MsgDisp("Shirahane","I was worried you were hurt.");
 MsgDisp("主人公","Eh...");
@@ -33,9 +33,9 @@ Let's go on a date again, okay?");
 VoicePlay("B100800000_08_060");
 MsgDisp("Shirahane","Well then, I'll see you later.
 Goodnight.");
-MsgDisp("主人公","Goodnight, ｛大地＊＊｝.");
+MsgDisp("主人公","Goodnight, ｛Daichi＊＊｝.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛大地＊＊｝...called me out of concern.)");
+MsgDisp("主人公","(｛Daichi＊＊｝...called me out of concern.)");
 MsgClose();
 ScrFadeOut(0,0);

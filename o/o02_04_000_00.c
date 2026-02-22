@@ -41,7 +41,7 @@ I'm glad I did my best.)");
     ScrFadeIn(0);
     VoicePlay("O020400000_04_030");
     MsgDisp("Nanatsumori","Wow...");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 I won!");
     ChEye(4,0);
     ChMouth(4,3);

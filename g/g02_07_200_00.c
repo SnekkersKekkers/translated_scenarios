@@ -5,7 +5,7 @@ ChMotion(7,0);
 VoicePlay("G020720000_07_000");
 MsgDisp("Mikage","Recently, several boys have come to me for
 advice.");
-MsgDisp("主人公","｛御影＊＊｝ is an easy-to-talk-to
+MsgDisp("主人公","｛Mikage＊＊｝ is an easy-to-talk-to
 teacher, after all.");
 ChEye(7,1);
 ChMouth(7,0);
@@ -62,7 +62,7 @@ ChEyeOpenLevel(7,8);
 VoicePlay("G020720000_07_080");
 MsgDisp("Mikage","Alright, that's good news for those guys.
 They'll be happy～?");
-MsgDisp("主人公","(｛御影＊＊｝ also seems happy though...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ also seems happy though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

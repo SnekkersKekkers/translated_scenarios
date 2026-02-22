@@ -15,4 +15,4 @@ VoicePlay("B020102135_01_010");
 MsgDisp("Kazama","That's great.
 I'm looking forward to what else you wear.");
 MsgDisp("主人公","(Yay!
-｛風真＊＊｝ praised me!)");
+｛Kazama＊＊｝ praised me!)");

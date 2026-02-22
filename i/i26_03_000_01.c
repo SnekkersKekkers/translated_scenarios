@@ -32,7 +32,7 @@ Then, can I leave the rest to you?");
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_150");
     MsgDisp("Honda","Of course!");
-    MsgDisp("主人公","(I'll let myself be spoiled by ｛本多＊＊｝,
+    MsgDisp("主人公","(I'll let myself be spoiled by ｛Honda＊＊｝,
 and take a little break.)");
     break ;
     case 4:

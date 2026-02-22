@@ -4,7 +4,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(5,254,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, good work.
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, good work.
 I'm sorry I only made mistakes.");
 ChEye(5,2);
 ChMotion(5,4);
@@ -32,7 +32,7 @@ VoicePlay("P850500009_05_030");
 MsgDisp("Hiiragi","It's alright.
 Many years later, we'll be able to look
 back on this and laugh.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P850500009_05_040");

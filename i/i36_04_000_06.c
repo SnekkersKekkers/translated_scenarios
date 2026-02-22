@@ -91,7 +91,7 @@ Well, see ya.");
     MsgDisp("主人公","Alright, let's clean up.
 ...Hm?
 What's this piece of paper?");
-    MsgDisp("主人公","Something ｛七ツ森＊｝ left? But, if
+    MsgDisp("主人公","Something ｛Nanatsumori＊｝ left? But, if
 it's still here, I guess it's trash. Well,
 into the garbage bag...");
     MsgClose();
@@ -106,7 +106,7 @@ into the garbage bag...");
     VoicePlay("I360400006_04_070");
     MsgDisp("Nanatsumori","Um, I feel like I just forgot something at
 my table-");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Is it...");
     ChEye(4,4);
     ChMouth(4,4);

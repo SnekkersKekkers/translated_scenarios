@@ -25,7 +25,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("P230700000_07_010");
     MsgDisp("Mikage","Even if the leading actor is suddenly
 absent...");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Xu Xiang's costume fits you.");
     ChEye(7,2);
     ChMouth(7,0);
@@ -40,7 +40,7 @@ memorized the lines though...");
     VoicePlay("P230700000_07_030");
     MsgDisp("Mikage","Is it really okay...?");
     MsgDisp("主人公","Yes. The only person who remembers the
-lines is ｛御影＊＊｝. I look forward to
+lines is ｛Mikage＊＊｝. I look forward to
 working with you!");
     VoicePlay("P230700000_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin

@@ -47,7 +47,7 @@ ChMotion(4,0,1);
 VoicePlay("G020430100_04_070");
 MsgDisp("Nanatsumori","What's with that mischevious smile!
 Where do I fall in that∋");
-MsgDisp("主人公","(｛七ツ森＊｝, you're funny.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, you're funny.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

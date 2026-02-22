@@ -107,7 +107,7 @@ ChMotion(5,4);
 VoicePlay("B330C30700_05_020");
 MsgDisp("Hiiragi","It was fun sketching with everyone.");
 MsgDisp("主人公","(Hehe!
-｛柊＊＊＊｝ seems to be having fun.
+｛Hiiragi＊＊＊｝ seems to be having fun.
 Alright, I'll also finish it at home.)");
 BGMStop();
 MsgClose();

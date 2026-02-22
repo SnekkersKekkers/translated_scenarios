@@ -1,7 +1,7 @@
 ChEye(4,4);
 ChMouth(4,4);
 MsgDisp("主人公","Me too...
-I also like ｛七ツ森＊｝.");
+I also like ｛Nanatsumori＊｝.");
 ChEye(4,2);
 ChMouth(4,4);
 ChCheek(4,8);

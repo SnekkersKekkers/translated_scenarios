@@ -8,12 +8,12 @@ MsgDisp("Daichi?","｛主人公｝.");
 MsgClose();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 ChOpen(8,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛大地＊＊｝!");
+MsgDisp("主人公","Ah, ｛Daichi＊＊｝!");
 VoicePlay("E010810000_08_010");
 MsgDisp("Shirahane","What a coincidence.
 Are you shopping too?");
 MsgDisp("主人公","Yeah.
-｛大地＊＊｝, is that food?");
+｛Daichi＊＊｝, is that food?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

@@ -10,7 +10,7 @@ MsgClose();
 ScrFadeIn(0);
 SEStop("EV_SE_507",5);
 BGMStop(2);
-MsgDisp("主人公","(｛風真＊＊｝ told me to wait here but...
+MsgDisp("主人公","(｛Kazama＊＊｝ told me to wait here but...
 where did he go?)");
 SEPlay("EV_SE_508");
 SEWait();
@@ -27,7 +27,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ah, you're finally back.");
 VoicePlay("B050100100_01_010");
 MsgDisp("Kazama","There were nothing but kiddy ones.");
-MsgDisp("主人公","Thank you...hey, ｛風真＊＊｝ also uses
+MsgDisp("主人公","Thank you...hey, ｛Kazama＊＊｝ also uses
 floats?");
 StlEye(1,0);
 StlMouth(1,0);
@@ -65,7 +65,7 @@ really have stuff like swimming, so I
 can't really swim that well.");
 MsgDisp("主人公","I see.
 I think it's okay to just enjoy it how you
-want then, ｛風真＊＊｝.");
+want then, ｛Kazama＊＊｝.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);
@@ -103,7 +103,7 @@ But you have to forget it.
 Got it?");
 MsgDisp("主人公","Hehe, got it.
 Thank you for picking a cute float out for
-me, ｛風真＊＊｝.");
+me, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

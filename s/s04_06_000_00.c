@@ -4,10 +4,10 @@ switch (ChPrmGet(6,6)){
     case 2:
     case 3:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Oh, it's from ｛氷室＊＊｝?");
+    MsgDisp("主人公","Oh, it's from ｛Himuro＊＊｝?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
-    MsgDisp("主人公","Hello, ｛氷室＊＊｝?
+    MsgDisp("主人公","Hello, ｛Himuro＊＊｝?
 Happy New Year.");
     VoicePlay("S040600000_06_000");
     MsgDisp("Himuro","Ah, yeah.
@@ -27,7 +27,7 @@ I'll pick you up so wait home.");
 Okay, see you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A shrine visit with ｛氷室＊＊｝.
+        MsgDisp("主人公","(A shrine visit with ｛Himuro＊＊｝.
 Well then, what should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -53,11 +53,11 @@ something wrong...)");
     case 5:
     SEPlay("EV_SE_579");
     MsgDisp("主人公","Huh?
-｛氷室＊＊｝ is calling.");
+｛Himuro＊＊｝ is calling.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
-    MsgDisp("主人公","Hello, ｛氷室＊＊｝?");
+    MsgDisp("主人公","Hello, ｛Himuro＊＊｝?");
     VoicePlay("S040600000_06_050");
     MsgDisp("Himuro","Ah, yeah...
 Happy New Year.");
@@ -82,7 +82,7 @@ I'll come pick you up, so wait for me.");
 I'll come slowly.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A shrine visit with ｛氷室＊＊｝ Now what
+        MsgDisp("主人公","(A shrine visit with ｛Himuro＊＊｝ Now what
 to wear?)");
         MsgClose();
         ScrFadeOut(0,0);

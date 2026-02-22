@@ -13,7 +13,7 @@ ChNanaType(0);
 ChOpen(4,255,0,1,1,#1,#1,0,1);
 ChOpen(3,255,0,0,4,#1,#1,0,2);
 MsgDisp("主人公","Just as I thought.
-｛七ツ森＊｝, ｛本多＊＊｝!");
+｛Nanatsumori＊｝, ｛Honda＊＊｝!");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
@@ -40,7 +40,7 @@ There are night shows being held for a
 limited time.");
 MsgDisp("主人公","Wow, really?
 It's fine with me but...
-｛七ツ森＊｝ looks annoyed.");
+｛Nanatsumori＊｝ looks annoyed.");
 ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,2,1);
@@ -83,7 +83,7 @@ ChMotion(3,1,1);
 VoicePlay("E010430100_03_050");
 MsgDisp("Honda","Shall we go together?");
 MsgDisp("主人公","Ehh? ∋");
-MsgDisp("主人公","(｛七ツ森＊｝, how could you run away after
+MsgDisp("主人公","(｛Nanatsumori＊｝, how could you run away after
 seeing those puppy dog eyes...)");
 BGMStop();
 MsgClose();

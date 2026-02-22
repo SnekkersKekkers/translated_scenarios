@@ -13,5 +13,5 @@ VoicePlay("B020500011_05_010");
 MsgDisp("Hiiragi","To think that you may have it on even when
 I am not with you, it is a strange
 feeling.");
-MsgDisp("主人公","(｛柊＊＊＊｝ seems really happy!
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems really happy!
 I'm glad I chose to wear it!)");

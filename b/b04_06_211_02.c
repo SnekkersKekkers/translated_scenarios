@@ -87,7 +87,7 @@ Come on, let's go then big sister.");
         VoicePlay("B040621102_06_090");
         MsgDisp("Himuro","Is something wrong?");
         MsgDisp("主人公","Waa!
-Y-You're so close, ｛氷室＊＊｝!");
+Y-You're so close, ｛Himuro＊＊｝!");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -96,7 +96,7 @@ Y-You're so close, ｛氷室＊＊｝!");
         MsgDisp("Himuro","Really?
 That's only normal.
 We're siblings after all.");
-        MsgDisp("主人公","(Is ｛氷室＊＊｝ angry...?)");
+        MsgDisp("主人公","(Is ｛Himuro＊＊｝ angry...?)");
         break ;
         default :
         DbgAssert(1);

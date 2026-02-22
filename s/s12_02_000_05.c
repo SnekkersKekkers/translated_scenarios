@@ -51,7 +51,7 @@ See you.");
     MsgClose();
     ChClose(2);
     MsgDisp("主人公","(No matter what the future holds, like
-｛颯砂＊＊｝ says, let's try our best and
+｛Sassa＊＊｝ says, let's try our best and
 live without regrets!)");
     break ;
     case 4:
@@ -89,7 +89,7 @@ strength.");
 happy about this?");
     MsgDisp("主人公","Not at all.
 I'm really happy I was able to support
-｛颯砂＊＊｝'s single-minded goal.");
+｛Sassa＊＊｝'s single-minded goal.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -119,7 +119,7 @@ thank you enough.");
     MsgDisp("Sassa","So today I'll just say thank you.
 I need a little more time, until we
 graduate.");
-    MsgDisp("主人公","｛颯砂＊＊｝...");
+    MsgDisp("主人公","｛Sassa＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

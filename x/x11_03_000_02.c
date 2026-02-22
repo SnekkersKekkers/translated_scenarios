@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("X110300002_03_000");
     MsgDisp("Honda","I heard you won the judo match.
 Congratulations!");
-    MsgDisp("主人公","｛本多＊＊｝, thanks!");
+    MsgDisp("主人公","｛Honda＊＊｝, thanks!");
     MsgDisp("主人公","(I'm glad I won!)");
     break ;
     case 4:
@@ -23,7 +23,7 @@ Congratulations!");
     MsgDisp("Honda","I heard it! You won by a knockout, didn't
 you? I wish I could have seen it, your
 brilliant shoulder throw!");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Hmmm, thanks!");
     ChEye(3,3);
     ChMouth(3,3);

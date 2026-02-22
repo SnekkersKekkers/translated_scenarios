@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("I330400001_04_000");
     MsgDisp("Nanatsumori","...Ah.");
     MsgDisp("主人公","Huh...
-｛七ツ森＊｝?");
+｛Nanatsumori＊｝?");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,4,1);
@@ -56,7 +56,7 @@ Got it. See you around!");
     VoicePlay("I330400001_04_060");
     MsgDisp("Nanatsumori","Hm?
 You...");
-    MsgDisp("主人公","Huh, ｛七ツ森＊｝?");
+    MsgDisp("主人公","Huh, ｛Nanatsumori＊｝?");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,4,1);

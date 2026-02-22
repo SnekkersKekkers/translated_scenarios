@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("H2A0400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 We won!");
     ChEye(4,0);
     ChMouth(4,3);
@@ -30,7 +30,7 @@ field club manager!)");
     VoiceEVSPlay(4);
     VoicePlay("H2A0400000_04_020");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 We w-");
     ChEye(4,0);
     ChMouth(4,3);

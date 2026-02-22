@@ -29,4 +29,4 @@ VoicePlay("B020102001_01_030");
 MsgDisp("Kazama","I wonder about that.
 Well, time for the three of us to be off
 again then.");
-MsgDisp("主人公","(｛風真＊＊｝ seems like he's having fun?)");
+MsgDisp("主人公","(｛Kazama＊＊｝ seems like he's having fun?)");

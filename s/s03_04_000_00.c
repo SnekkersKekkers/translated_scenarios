@@ -6,7 +6,7 @@ switch (ChPrmGet(4,6)){
     SEWait();
     VoicePlay("S030400000_04_000");
     MsgDisp("Nanatsumori","Yes?");
-    MsgDisp("主人公","Hello, ｛七ツ森＊｝?
+    MsgDisp("主人公","Hello, ｛Nanatsumori＊｝?
 Happy New Year!");
     VoicePlay("S030400000_04_010");
     MsgDisp("Nanatsumori","Happy New Year.");
@@ -17,7 +17,7 @@ Happy New Year!");
     SEWait();
     VoicePlay("S030400000_04_020");
     MsgDisp("Nanatsumori","Hello?");
-    MsgDisp("主人公","Hello, ｛七ツ森＊｝?
+    MsgDisp("主人公","Hello, ｛Nanatsumori＊｝?
 Happy New Year!");
     VoicePlay("S030400000_04_030");
     MsgDisp("Nanatsumori","Yeah, Happy New Year.");
@@ -36,7 +36,7 @@ I'll be totally fine!");
     VoicePlay("S030400000_04_050");
     MsgDisp("Nanatsumori","Happy New Year.");
     MsgDisp("主人公","Hehe, Happy New Year.
-Treat me well this year, ｛七ツ森＊｝.");
+Treat me well this year, ｛Nanatsumori＊｝.");
     VoicePlay("S030400000_04_060");
     MsgDisp("Nanatsumori","You too.
 ...Haha.");

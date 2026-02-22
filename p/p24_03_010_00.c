@@ -65,7 +65,7 @@ ChMotion(3,1,1);
 VoicePlay("P240301000_03_040");
 MsgDisp("Honda","Haha, so maybe Kuroda Kanbei used some of
 that eye medicine after this?");
-MsgDisp("主人公","(｛本多＊＊｝, this is such a good part...)");
+MsgDisp("主人公","(｛Honda＊＊｝, this is such a good part...)");
 VoicePlay("P240301000_34_060");
 MsgDisp("Kuroda Kanbei","Indeed, it is Mitsuhime.
 I have returned to you...");
@@ -82,7 +82,7 @@ MsgDisp("主人公","Ah, yeah.
 That's right...");
 SEStop("EV_SE_GAYA_021",3);
 MsgDisp("主人公","(That play went well, though...
-I was so distracted by ｛本多＊＊｝'s talking
+I was so distracted by ｛Honda＊＊｝'s talking
 I couldn't concentrate on the last scene.");
 MsgClose();
 ScrFadeOut(0,0);

@@ -7,7 +7,7 @@ SEPlay("EV_SE_872",0.5);
 Wait(46,0);
 ChOpen(2,254,7,4,0,#1,#1,0,0);
 MsgDisp("主人公","Eh...
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -44,7 +44,7 @@ ChLayout(0);
 ChOpen(2,254,7,4,0,#1,#1,0,0);
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝...?");
+MsgDisp("主人公","｛Sassa＊＊｝...?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -101,7 +101,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("T020211000_02_110");
 MsgDisp("Sassa","I was beginning to lose track of which
 side was the true me.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -146,7 +146,7 @@ VoicePlay("T020211000_02_180");
 MsgDisp("Sassa","So I gave up on the idea.
 That if you went to someone else, it would
 be your choice.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

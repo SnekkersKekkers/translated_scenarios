@@ -29,7 +29,7 @@ ChMotion(2,4);
 VoicePlay("K020200001_02_020");
 MsgDisp("Sassa","I didn't have the time to hand it over.
 Again, happy birthday.");
-MsgDisp("主人公","Thank you, ｛颯砂＊＊｝!");
+MsgDisp("主人公","Thank you, ｛Sassa＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -44,6 +44,6 @@ BGMStop();
 MsgClose();
 ChClose(2);
 Wait(30);
-MsgDisp("主人公","(I got a present from ｛颯砂＊＊｝!)");
+MsgDisp("主人公","(I got a present from ｛Sassa＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

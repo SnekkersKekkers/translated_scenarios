@@ -40,7 +40,7 @@ Even though you came to cheer for me...");
     MsgDisp("Himuro","But it was a good match.
 It was worth it to come cheer.
 Good work.");
-    MsgDisp("主人公","(｛氷室＊＊｝, thank you.
+    MsgDisp("主人公","(｛Himuro＊＊｝, thank you.
 And we were so close...)");
     break ;
     default :

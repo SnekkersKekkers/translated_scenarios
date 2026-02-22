@@ -5,7 +5,7 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛颯砂＊＊｝!");
+    MsgDisp("主人公","｛Sassa＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
@@ -19,7 +19,7 @@ Valentine's chocolate.");
     SEWait();
     break ;
     case 3:
-    MsgDisp("主人公","｛颯砂＊＊｝!");
+    MsgDisp("主人公","｛Sassa＊＊｝!");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
@@ -42,7 +42,7 @@ Valentine's chocolate.");
     VoicePlay("L040200000_02_020");
     MsgDisp("Sassa","｛主人公｝.");
     MsgDisp("主人公","Ah, good timing.
-I was looking for you, ｛颯砂＊＊｝.");
+I was looking for you, ｛Sassa＊＊｝.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

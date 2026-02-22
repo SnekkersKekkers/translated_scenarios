@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("L060400000_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 SEPlay("EV_SE_664");
 SEWait();
 VoicePlay("L060400000_04_010");

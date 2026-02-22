@@ -18,7 +18,7 @@ That increases the New Years vibe.");
     MsgDisp("Shirahane","Super cute.
 Eye candy▼");
     MsgDisp("主人公","(What a relief.
-｛大地＊＊｝ seems really happy!)");
+｛Daichi＊＊｝ seems really happy!)");
     break ;
     case 3:
     ChEye(8,0);
@@ -44,7 +44,7 @@ Cute.");
     MsgDisp("Shirahane","I'm so happy I get to walk around with a
 beautiful girl on New Year's▼");
     MsgDisp("主人公","(What a relief.
-｛大地＊＊｝ seems really happy!)");
+｛Daichi＊＊｝ seems really happy!)");
     break ;
     case 4:
     case 5:
@@ -87,7 +87,7 @@ wanna give ya my honest opinion.");
 The thought of walking around together is
 making me grin.");
     MsgDisp("主人公","(What a relief.
-｛大地＊＊｝ seems happy!)");
+｛Daichi＊＊｝ seems happy!)");
     break ;
     default :
     DbgAssert(1);

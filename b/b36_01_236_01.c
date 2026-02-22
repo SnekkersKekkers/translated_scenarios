@@ -62,7 +62,7 @@ Wait(60,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360123601_01_060");
 MsgDisp("Kazama","But, I'm by your side now.");
-MsgDisp("主人公","｛風真＊＊｝?");
+MsgDisp("主人公","｛Kazama＊＊｝?");
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
@@ -78,7 +78,7 @@ VoicePlay("B360123601_01_080");
 MsgDisp("Kazama","You're always doing new things.
 I'm praising you.");
 MsgDisp("主人公","Hmm.
-Even ｛風真＊＊｝ looks like he's having
+Even ｛Kazama＊＊｝ looks like he's having
 fun.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -97,7 +97,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","(I wonder what it would feel like to have
-been able to come with ｛風真＊＊｝ here
+been able to come with ｛Kazama＊＊｝ here
 in elementary school...)");
 BGMStop();
 MsgClose();

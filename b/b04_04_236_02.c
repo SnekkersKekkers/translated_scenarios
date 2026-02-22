@@ -76,7 +76,7 @@ too.");
         ChMotion(4,0,1);
         VoicePlay("B040423602_04_060");
         MsgDisp("Nanatsumori","No problem.");
-        MsgDisp("主人公","｛七ツ森＊｝, are you nearly done with
+        MsgDisp("主人公","｛Nanatsumori＊｝, are you nearly done with
 the homework?");
         ChEye(4,2);
         ChMouth(4,3);

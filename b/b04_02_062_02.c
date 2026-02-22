@@ -73,7 +73,7 @@ And you would cook.");
         MsgDisp("Sassa","Having your home-cooked meals everyday...
 Yeah, survival like that wouldn't be half
 bad.");
-        MsgDisp("主人公","｛颯砂＊＊｝?
+        MsgDisp("主人公","｛Sassa＊＊｝?
 What's wrong?");
         ChEye(2,0);
         ChMouth(2,4);

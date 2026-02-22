@@ -49,7 +49,7 @@ people.");
         MsgDisp("Sassa","It was only just born, I want it to be
 able to rest well.");
         MsgDisp("主人公","I see.
-｛颯砂＊＊｝ is kind huh?");
+｛Sassa＊＊｝ is kind huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

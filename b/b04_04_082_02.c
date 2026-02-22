@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040408202_04_000");
 MsgDisp("Nanatsumori","Waah∋
 There's something flying this way∈");
-MsgSel("It's a small cabbage butterfly","Isn't it a grasshopper?","｛七ツ森＊｝, you're too surprised!");
+MsgSel("It's a small cabbage butterfly","Isn't it a grasshopper?","｛Nanatsumori＊｝, you're too surprised!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -119,7 +119,7 @@ have only scared me..");
         MsgDisp("Nanatsumori","｛主人公｝, you understand, right?
 How I feel.");
         MsgDisp("主人公","(I understand how he feels, but...
-The ｛七ツ森＊｝ who's scared of
+The ｛Nanatsumori＊｝ who's scared of
 insects is kind of cute?)");
         break ;
         default :

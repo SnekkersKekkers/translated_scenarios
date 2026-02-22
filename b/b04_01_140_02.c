@@ -94,7 +94,7 @@ kinda liked the song.");
         MsgDisp("Kazama","Well, your side profile and this song is
 imprinted on me as a set. This feels like
 the background music to your merry self.");
-        MsgDisp("主人公","(｛風真＊＊｝, did you not look at the
+        MsgDisp("主人公","(｛Kazama＊＊｝, did you not look at the
 stage...?)");
         break ;
         default :

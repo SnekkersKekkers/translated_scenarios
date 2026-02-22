@@ -4,7 +4,7 @@ switch (ChPrmGet(5,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Oh, it's a call from ｛柊＊＊＊｝.)");
+    MsgDisp("主人公","(Oh, it's a call from ｛Hiiragi＊＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -25,11 +25,11 @@ Now, if you'll excuse me.");
     break ;
     case 3:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Oh, it's a call from ｛柊＊＊＊｝.)");
+    MsgDisp("主人公","(Oh, it's a call from ｛Hiiragi＊＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello, ｛柊＊＊＊｝?");
+    MsgDisp("主人公","Hello, ｛Hiiragi＊＊＊｝?");
     VoicePlay("J030501001_05_020");
     MsgDisp("Hiiragi","Yes, it is Hiiragi.
 Thanks for your message.");
@@ -52,11 +52,11 @@ Well, I'll see you around?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Oh, it's a call from ｛柊＊＊＊｝.)");
+    MsgDisp("主人公","(Oh, it's a call from ｛Hiiragi＊＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello, ｛柊＊＊＊｝?");
+    MsgDisp("主人公","Hello, ｛Hiiragi＊＊＊｝?");
     VoicePlay("J030501001_05_060");
     MsgDisp("Hiiragi","Yes, it is Hiiragi.
 I'm sorry I couldn't get to the phone.");

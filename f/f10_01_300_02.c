@@ -34,7 +34,7 @@ SEPlay("EV_SE_544");
 ChOpen(1,254,0,0,2,8,#1,0,0);
 VoicePlay("F100130002_01_000");
 MsgDisp("Kazama","Ha...");
-MsgDisp("主人公","｛風真＊＊｝?");
+MsgDisp("主人公","｛Kazama＊＊｝?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);

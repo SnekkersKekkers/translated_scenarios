@@ -16,7 +16,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("Hiiragi","｛主人公｝, good morning.
 Are you enjoying the school trip?");
     MsgDisp("主人公","Good morning.
-Yes, and you ｛柊＊＊＊｝?");
+Yes, and you ｛Hiiragi＊＊＊｝?");
     ChMotion(5,4);
     VoicePlay("Q020500000_05_010");
     MsgDisp("Hiiragi","About that, I have something to ask you.");
@@ -83,7 +83,7 @@ invited me...)");
     ChMotion(5,4);
     VoicePlay("Q020500000_05_070");
     MsgDisp("Hiiragi","I never knew school trips could be so fun.");
-    MsgDisp("主人公","Hehe, I'm happy for you, ｛柊＊＊＊｝.");
+    MsgDisp("主人公","Hehe, I'm happy for you, ｛Hiiragi＊＊＊｝.");
     ChEye(5,4);
     ChMotion(5,3);
     Wait(20,1);
@@ -119,7 +119,7 @@ I'll get ready quickly!");
         VoicePlay("Q020500000_05_120");
         MsgDisp("Hiiragi","Oh right, please take your time.
 I will rejoice here as I wait for you.");
-        MsgDisp("主人公","(Hehe! ｛柊＊＊＊｝ looks so excited. I'm
+        MsgDisp("主人公","(Hehe! ｛Hiiragi＊＊＊｝ looks so excited. I'm
 sure it will be a wonderful school trip!)");
         MsgClose();
         ScrFadeOut(0,0);

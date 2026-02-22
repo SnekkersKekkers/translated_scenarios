@@ -85,7 +85,7 @@ surface.");
         MsgDisp("Nanatsumori","So it was like that.
 Those guys are 100 years too early to
 scare me like that.");
-        MsgDisp("主人公","(｛七ツ森＊｝ is quite scared, huh...)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝ is quite scared, huh...)");
         break ;
         default :
         DbgAssert(1);

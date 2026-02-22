@@ -40,7 +40,7 @@ VoicePlay("G020130100_01_050");
 MsgDisp("Kazama","I normally put up with it, since I figure
 I'm special, but...to be honest, it
 worries me.");
-MsgDisp("主人公","｛風真＊＊｝?");
+MsgDisp("主人公","｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -59,7 +59,7 @@ ChMotion(1,0);
 VoicePlay("G020130100_01_080");
 MsgDisp("Kazama","That's the one thing I won't let anyone
 else have.");
-MsgDisp("主人公","(｛風真＊＊｝'s expression is really
+MsgDisp("主人公","(｛Kazama＊＊｝'s expression is really
 serious...)");
 BGMStop();
 MsgClose();

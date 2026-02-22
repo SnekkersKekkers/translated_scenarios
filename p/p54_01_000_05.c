@@ -12,7 +12,7 @@ ChOpen(1,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(1);
 VoicePlay("P540100005_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","｛風真＊＊｝...
+MsgDisp("主人公","｛Kazama＊＊｝...
 I, I failed...");
 ChEye(1,0);
 ChMouth(1,0);
@@ -47,7 +47,7 @@ VoicePlay("P540100005_01_050");
 MsgDisp("Kazama","Oi, really, don't tell me you're not
 satisfied with me.");
 MsgDisp("主人公","No, thank you.
-｛風真＊＊｝.");
+｛Kazama＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 MsgDisp("主人公","(I failed though...

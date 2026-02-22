@@ -22,7 +22,7 @@ MsgDisp("Mikage","Nice.
 Let me join in some time.");
 MsgDisp("主人公","Hehe, sounds good.
 What are you looking forwards to,
-｛御影＊＊｝?");
+｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -45,7 +45,7 @@ MsgDisp("Mikage","Even when I'm drinking tea in the science
 preparation room, the whole school is dead
 silent.");
 MsgDisp("主人公","You sure like school don't you,
-｛御影＊＊｝?");
+｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -66,6 +66,6 @@ ChMotion(7,4);
 VoicePlay("F020700007_07_070");
 MsgDisp("Mikage","That's exactly it.
 That's why summer break is a bit boring.");
-MsgDisp("主人公","(So what ｛御影＊＊｝ is looking
+MsgDisp("主人公","(So what ｛Mikage＊＊｝ is looking
 forward to in the summer break is for
 school to start again...)");

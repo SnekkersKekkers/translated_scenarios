@@ -31,7 +31,7 @@ the day.");
         BGMStop();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(I'm going out with ｛颯砂＊＊｝.
+        MsgDisp("主人公","(I'm going out with ｛Sassa＊＊｝.
 ...This is a date, right?)");
         break ;
         case 4:
@@ -66,7 +66,7 @@ See you.");
         BGMStop();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(｛颯砂＊＊｝.
+        MsgDisp("主人公","(｛Sassa＊＊｝.
 He asked me out on a date.
 I'm looking forward to it!!)");
         break ;

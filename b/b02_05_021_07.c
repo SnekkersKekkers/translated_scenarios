@@ -9,4 +9,4 @@ MsgDisp("Hiiragi","Yes.
 Your purity and innocence has overlapped
 in perfection here.");
 MsgDisp("主人公","(Oh, good!
-｛柊＊＊＊｝ seems really happy!)");
+｛Hiiragi＊＊＊｝ seems really happy!)");

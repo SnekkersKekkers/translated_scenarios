@@ -45,7 +45,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(｛氷室＊＊｝...?)");
+MsgDisp("主人公","(｛Himuro＊＊｝...?)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -53,7 +53,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder where ｛氷室＊＊｝ went.
+MsgDisp("主人公","(I wonder where ｛Himuro＊＊｝ went.
 ...Ah——)");
 VoicePlay("B050600200_06_060");
 MsgDisp("Himuro","...Come here.
@@ -147,7 +147,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B050600200_06_170");
 MsgDisp("Himuro","Really, so you heard everything...
 Forget it.");
-MsgDisp("主人公","(Did I get to hear ｛氷室＊＊｝'s true
+MsgDisp("主人公","(Did I get to hear ｛Himuro＊＊｝'s true
 feelings?)");
 BGMStop();
 ChPrmTblAdd(6,0);

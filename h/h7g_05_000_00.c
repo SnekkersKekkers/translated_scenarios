@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("H7G0500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝.
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 What is it?");
 ChEye(5,0);
 ChMotion(5,4);
@@ -34,7 +34,7 @@ Well, then.");
 MsgClose();
 ChClose(5);
 MsgDisp("主人公","(I'd be happy if I could be of use to
-｛柊＊＊＊｝...I'm glad I worked so hard for
+｛Hiiragi＊＊＊｝...I'm glad I worked so hard for
 the handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

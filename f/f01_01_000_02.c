@@ -5,7 +5,7 @@ switch (MsgSelRsltGet()){
         case 0:
         case 1:
         case 2:
-        MsgDisp("主人公","｛風真＊＊｝.");
+        MsgDisp("主人公","｛Kazama＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C01_RYOUTA_A",0.01);
         ChOpen(1,254,0,0,0,#1,#1,0,0);
@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","If it's okay, can we go home together?");
         break ;
         case 3:
-        MsgDisp("主人公","｛風真＊＊｝.");
+        MsgDisp("主人公","｛Kazama＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C01_RYOUTA_A",0.01);
         ChOpen(1,254,0,0,3,#1,#1,0,0);
@@ -25,7 +25,7 @@ If it's alright, lets go together.");
         break ;
         case 4:
         case 5:
-        MsgDisp("主人公","｛風真＊＊｝.");
+        MsgDisp("主人公","｛Kazama＊＊｝.");
         MsgClose();
         BGMPlay("BGM_C01_RYOUTA_A",0.01);
         ChOpen(1,254,0,4,3,#1,#1,0,0);
@@ -43,7 +43,7 @@ Should we go together?");
         }
     break ;
     case 1:
-    MsgDisp("主人公","｛風真＊＊｝.");
+    MsgDisp("主人公","｛Kazama＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,254,0,0,0,#1,#1,0,0);

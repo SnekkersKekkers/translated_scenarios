@@ -24,7 +24,7 @@ ChMotion ( 6,4 ) ;
 VoicePlay ( "D150002600_06_010" ) ;
 MsgDisp ( "Himuro","It just sounds like something
 Nozomu-senpai would say." ) ;
-MsgDisp ( "主人公","Hehe ｛颯砂＊＊｝, you got caught." ) ;
+MsgDisp ( "主人公","Hehe ｛Sassa＊＊｝, you got caught." ) ;
 ChEye ( 2,0 ) ;
 ChMouth ( 2,1 ) ;
 ChMotion ( 2,2 ) ;

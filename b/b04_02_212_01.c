@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040221201_02_000");
 MsgDisp("Sassa","What's this?
 Headbands with animal ears?");
-MsgSel("A horse would suit ｛颯砂＊＊｝.","Should I try on the bunny ears?","I think the cat ears would suit ｛颯砂＊＊｝.");
+MsgSel("A horse would suit ｛Sassa＊＊｝.","Should I try on the bunny ears?","I think the cat ears would suit ｛Sassa＊＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

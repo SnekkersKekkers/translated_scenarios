@@ -14,7 +14,7 @@ delicious but...)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700000_07_000");
     MsgDisp("Mikage","Yoo, how are the customers?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 It's going so-so.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -42,7 +42,7 @@ delicious but...)");
     VoicePlay("P630700000_07_030");
     MsgDisp("Mikage","How is it, how is it?
 It's deserted huh?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 There were people who took a quick peek
 but....");
     ChEye(7,0);

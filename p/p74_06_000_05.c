@@ -10,7 +10,7 @@ SEWait();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("P740600005_06_000");
 MsgDisp("Himuro","Good work.");
-MsgDisp("主人公","｛氷室＊＊｝...
+MsgDisp("主人公","｛Himuro＊＊｝...
 Thank you.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -35,7 +35,7 @@ VoicePlay("P740600005_06_030");
 MsgDisp("Himuro","You did well.
 Truly, thank you for your hard work these
 last three years.");
-MsgDisp("主人公","(｛氷室＊＊｝...
+MsgDisp("主人公","(｛Himuro＊＊｝...
 I failed in the end, but these were a good
 three years, huh?)");
 MsgClose();

@@ -40,7 +40,7 @@ MsgDisp("Himuro","Nozomu-senpai is a glutton and...
 Ryota-senpai is a fussy eater.");
 ChEye(1,0);
 ChMouth(1,2);
-MsgDisp("主人公","｛風真＊＊｝ definitely has quite
+MsgDisp("主人公","｛Kazama＊＊｝ definitely has quite
 sensitive tastes?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -81,7 +81,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("D140A03100_06_030");
 MsgDisp("Himuro","...Cup noodles.");
-MsgDisp("主人公","(｛氷室＊＊｝ is a picky eater.)");
+MsgDisp("主人公","(｛Himuro＊＊｝ is a picky eater.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

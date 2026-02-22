@@ -1,5 +1,5 @@
-MsgDisp("主人公","By the way, what makes ｛七ツ森＊｝ and
-｛風真＊＊｝ compatible?");
+MsgDisp("主人公","By the way, what makes ｛Nanatsumori＊｝ and
+｛Kazama＊＊｝ compatible?");
 VoicePlay("B070400001_04_010");
 MsgDisp("Nanatsumori","What's this all of a sudden.");
 MsgDisp("主人公","I was kinda curious.

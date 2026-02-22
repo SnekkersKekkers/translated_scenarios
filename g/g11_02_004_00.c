@@ -12,7 +12,7 @@ SEPlay("EV_SE_625");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,41,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Were you running today too?");
 ChEye(2,2);
 ChMouth(2,4);
@@ -45,7 +45,7 @@ MsgDisp("Sassa","You've gotten a lot better.
 You can keep up with me just fine, huh?");
 MsgDisp("主人公","R-Really?");
 MsgDisp("主人公","(Hehe...
-｛颯砂＊＊｝'s hair is so cute, the way it
+｛Sassa＊＊｝'s hair is so cute, the way it
 flutters...like a horse's mane?)");
 BGMVol(0.5,2);
 while (1){

@@ -5,7 +5,7 @@ VoicePlay("F100540002_05_000");
 MsgDisp("Hiiragi","Yes, please.");
 VoicePlay("F100540002_07_000");
 MsgDisp("Mikage","Then, let's do it today after school.");
-MsgDisp("主人公","Ah, ｛柊＊＊＊｝ and ｛御影＊＊｝?");
+MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝ and ｛Mikage＊＊｝?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,4,0,4,#1,#1,0,1);
@@ -96,7 +96,7 @@ you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(｛柊＊＊＊｝, there is no way that is
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, there is no way that is
 true...!)");
 BGMStop();
 MsgClose();

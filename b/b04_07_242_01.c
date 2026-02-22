@@ -5,7 +5,7 @@ ChMouth(7,3);
 ScrFadeIn(0);
 VoicePlay("B040724201_07_000");
 MsgDisp("Mikage","Let's fully enjoy nature for today!");
-MsgSel("｛御影＊＊｝, I'm counting on you♪","Camping means BBQ!","It seems inconvenient and hard...");
+MsgSel("｛Mikage＊＊｝, I'm counting on you♪","Camping means BBQ!","It seems inconvenient and hard...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

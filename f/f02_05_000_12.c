@@ -5,7 +5,7 @@ ChMouth(5,0);
 ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, is there anything you want to
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, is there anything you want to
 do over spring break?");
 ChMouth(5,4);
 VoicePlay("F020500012_05_000");
@@ -36,7 +36,7 @@ homeroom teachers. That excitement and
 tension of a new school semester is the
 greatest pleasure of spring break.");
 MsgDisp("主人公","Mhm, that's right.
-Talking with ｛柊＊＊＊｝ really gives me
+Talking with ｛Hiiragi＊＊＊｝ really gives me
 a fresh mindset for the new year.");
 ChEye(5,4);
 ChMotion(5,2);

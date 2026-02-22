@@ -9,7 +9,7 @@ ChMotion(2,4);
 VoicePlay("D140A03200_02_000");
 MsgDisp("Sassa","Well, enjoying your food is the most
 important thing.");
-MsgDisp("主人公","I see, it's because ｛風真＊＊｝ lives
+MsgDisp("主人公","I see, it's because ｛Kazama＊＊｝ lives
 alone, right?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -58,7 +58,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140A03200_01_030");
 MsgDisp("Kazama","I wasn't sending anything.");
 MsgDisp("主人公","I see, you're lonely by yourself.
-Shall we all go to ｛風真＊＊｝'s house?");
+Shall we all go to ｛Kazama＊＊｝'s house?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

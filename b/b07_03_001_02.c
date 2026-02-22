@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛本多＊＊｝, you and ｛七ツ森＊｝ have
+MsgDisp("主人公","｛Honda＊＊｝, you and ｛Nanatsumori＊｝ have
 been hanging out a lot lately, huh?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -38,7 +38,7 @@ VoicePlay("B070300001_03_140");
 MsgDisp("Honda","Because of that, I feel like we get along
 pretty well.");
 MsgDisp("主人公","(Hehe, one day I'd like to ask
-｛七ツ森＊｝ for his side of things.)");
+｛Nanatsumori＊｝ for his side of things.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

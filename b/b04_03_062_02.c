@@ -64,7 +64,7 @@ Making decisions on your own is dangerous,
 so I shouldn't have suggested that.");
         MsgDisp("主人公","I see.
 I was feeling safe because you were with
-me ｛本多＊＊｝.");
+me ｛Honda＊＊｝.");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,4);
@@ -82,7 +82,7 @@ charge ahead recklessly when I get
 excited.");
         MsgDisp("主人公","Hehe.
 It's one of the things that makes you
-amazing ｛本多＊＊｝.");
+amazing ｛Honda＊＊｝.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,1);
@@ -104,7 +104,7 @@ Curiosity killed the cat!");
         MsgDisp("Honda","It'd be one thing if it were just me, but
 I don't want anything to happen to you.
 I'll keep that in mind.");
-        MsgDisp("主人公","(｛本多＊＊｝...thank you.");
+        MsgDisp("主人公","(｛Honda＊＊｝...thank you.");
         break ;
         default :
         DbgAssert(1);

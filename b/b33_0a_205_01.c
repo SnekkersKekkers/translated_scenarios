@@ -28,7 +28,7 @@ VoicePlay("B330A20501_02_010");
 MsgDisp("Sassa","My 3rd throw in the 10th frame.
 If I get a spare, I'll turn the tables on
 Ryota!");
-MsgDisp("主人公","｛颯砂＊＊｝, do your best!");
+MsgDisp("主人公","｛Sassa＊＊｝, do your best!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -59,7 +59,7 @@ ChOpen(2,255,3,0,3,#1,#1,0,3,0,0);
 ChOpen(1,255,0,2,2,0,#1,0,3,0,0);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝, amazing∈ You got a spare!");
+MsgDisp("主人公","｛Sassa＊＊｝, amazing∈ You got a spare!");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);
 ChMouth(2,3);

@@ -46,7 +46,7 @@ Can I worship you?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ seems to be happy too?
+    MsgDisp("主人公","(｛Sassa＊＊｝ seems to be happy too?
 I'm glad I did my best!)");
     break ;
     case 4:
@@ -70,7 +70,7 @@ gave it your all.");
     ChMotion(2,0);
     VoicePlay("N020200000_02_070");
     MsgDisp("Sassa","I really respect your hard work.");
-    MsgDisp("主人公","Thank you, ｛颯砂＊＊｝.");
+    MsgDisp("主人公","Thank you, ｛Sassa＊＊｝.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -80,7 +80,7 @@ get motivated. Congratulations!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛颯砂＊＊｝ really praised me, I'm glad I
+    MsgDisp("主人公","(｛Sassa＊＊｝ really praised me, I'm glad I
 did my best.)");
     break ;
     default :

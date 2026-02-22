@@ -29,7 +29,7 @@ Are you going home right now?");
     MsgDisp("Mikage","Oh.
 If you've got time, how about we walk home
 together?");
-    MsgDisp("主人公","Oh, ｛御影＊＊｝!");
+    MsgDisp("主人公","Oh, ｛Mikage＊＊｝!");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,4);

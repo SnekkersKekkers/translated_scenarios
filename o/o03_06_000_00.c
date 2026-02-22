@@ -27,7 +27,7 @@ I was kinda surprised.");
     MsgDisp("Himuro","I didn't expect it, but maybe we're a
 little compatible.");
     MsgDisp("主人公","(Yay!
-I got first place with ｛氷室＊＊｝!)");
+I got first place with ｛Himuro＊＊｝!)");
     break ;
     case 4:
     case 5:
@@ -36,7 +36,7 @@ I got first place with ｛氷室＊＊｝!)");
     ScrFadeIn(0);
     VoicePlay("O030600000_06_030");
     MsgDisp("Himuro","Alright, first...!");
-    MsgDisp("主人公","We did it, ｛氷室＊＊｝!");
+    MsgDisp("主人公","We did it, ｛Himuro＊＊｝!");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);
@@ -52,7 +52,7 @@ sync.");
     MsgDisp("Himuro","A happy miscalculation.
 I'm glad I worked with you.");
     MsgDisp("主人公","(First place, huh.
-I'm glad I worked hard with ｛氷室＊＊｝!)");
+I'm glad I worked hard with ｛Himuro＊＊｝!)");
     break ;
     default :
     DbgAssert(1);

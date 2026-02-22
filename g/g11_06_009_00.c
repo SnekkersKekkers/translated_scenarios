@@ -1,6 +1,6 @@
 BGOpen("ar200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Good work today.
 Are you going home already?");
 MsgClose();
@@ -93,7 +93,7 @@ VoicePlay("G110600900_06_100");
 MsgDisp("Himuro","Your health comes first, just remember
 that.");
 MsgDisp("主人公","Ah...yes.
-Thank you, ｛氷室＊＊｝.");
+Thank you, ｛Himuro＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

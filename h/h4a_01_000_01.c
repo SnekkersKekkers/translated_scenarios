@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H4A0100001_01_000");
     MsgDisp("Kazama","Good work.
 You did your best.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -28,7 +28,7 @@ You really impressed me out there.");
     MsgDisp("Kazama","It's okay.
 The audience saw what you wanted to
 convey.");
-    MsgDisp("主人公","Hehe, you're pretty nice, ｛風真＊＊｝.
+    MsgDisp("主人公","Hehe, you're pretty nice, ｛Kazama＊＊｝.
 Thanks.");
     ChEye(1,2);
     ChMouth(1,3);
@@ -38,7 +38,7 @@ Thanks.");
 I'd be in trouble if you won and went out
 of reach.");
     MsgDisp("主人公","(I'm disappointed that I lost, but I'm
-happy to hear how ｛風真＊＊｝ feels.)");
+happy to hear how ｛Kazama＊＊｝ feels.)");
     break ;
     case 4:
     case 5:
@@ -49,7 +49,7 @@ happy to hear how ｛風真＊＊｝ feels.)");
     VoiceEVSPlay(1);
     VoicePlay("H4A0100001_01_040");
     MsgDisp("Kazama","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝...
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝...
 Sorry you came all this way to see that.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -89,7 +89,7 @@ end.");
     MsgDisp("Kazama","I'll watch the closing ceremony with you,
 as your close associate.");
     MsgDisp("主人公","Hehe.
-I'm glad you came, ｛風真＊＊｝.");
+I'm glad you came, ｛Kazama＊＊｝.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -99,7 +99,7 @@ Come on, let's go.");
     MsgDisp("主人公","...Yeah!");
     MsgDisp("主人公","(I'm frustrated that I didn't win, but...
 I worked hard.
-Thank you, ｛風真＊＊｝...)");
+Thank you, ｛Kazama＊＊｝...)");
     break ;
     default :
     DbgAssert(1);

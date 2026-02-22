@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey, ｛風真＊＊｝ what were you like in
+MsgDisp("主人公","Hey, ｛Kazama＊＊｝ what were you like in
 middle school?");
 ChEye(1,4);
 ChMouth(1,4);
@@ -45,7 +45,7 @@ ceremony with cherry blossoms again, it
 really hit me that I was back.");
 MsgDisp("主人公","Yeah.
 I was also really happy to have been able
-to enter high school with ｛風真＊＊｝.");
+to enter high school with ｛Kazama＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

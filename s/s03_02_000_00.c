@@ -6,7 +6,7 @@ switch (ChPrmGet(2,6)){
     case 2:
     VoicePlay("S030200000_02_000");
     MsgDisp("Sassa","Yes, hello.");
-    MsgDisp("主人公","｛颯砂＊＊｝, Happy New Year.");
+    MsgDisp("主人公","｛Sassa＊＊｝, Happy New Year.");
     VoicePlay("S030200000_02_010");
     MsgDisp("Sassa","Happy New Year!
 Treat me well this year.");
@@ -19,7 +19,7 @@ me?");
     case 3:
     VoicePlay("S030200000_02_030");
     MsgDisp("Sassa","Yes, hello.");
-    MsgDisp("主人公","｛颯砂＊＊｝, Happy New Year.");
+    MsgDisp("主人公","｛Sassa＊＊｝, Happy New Year.");
     VoicePlay("S030200000_02_040");
     MsgDisp("Sassa","Happy New Year!
 I'm counting on you this year too.");

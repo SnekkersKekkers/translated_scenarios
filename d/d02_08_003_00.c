@@ -27,7 +27,7 @@ MsgDisp("Shirahane","You know, yesterday I got into a fight
 with my sister.
 The three of us got into a big mess.");
 MsgDisp("主人公","Eh?
-｛大地＊＊｝, you live with your siblings?");
+｛Daichi＊＊｝, you live with your siblings?");
 ChCheek(8,0);
 ChEye(8,3);
 ChMouth(8,3);
@@ -74,7 +74,7 @@ VoicePlay("D020800300_08_070");
 MsgDisp("Shirahane","Hehe...
 Really?");
 MsgDisp("主人公","(Hehe!
-I bet ｛大地＊＊｝'s siblings also shine
+I bet ｛Daichi＊＊｝'s siblings also shine
 brightly.)");
 BGMStop();
 MsgClose();

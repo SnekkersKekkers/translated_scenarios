@@ -75,7 +75,7 @@ It wasn't my favorite.");
         MsgDisp("Kazama","No, it's fun now. Back then, it wasn't
 just this one, amusement parks themselves
 weren't that great.");
-        MsgDisp("主人公","｛風真＊＊｝?");
+        MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,0);
@@ -106,7 +106,7 @@ after all.");
         ChMotion(1,3);
         VoicePlay("B040123402_01_100");
         MsgDisp("Kazama","Hey, do you want a second helping?");
-        MsgDisp("主人公","(｛風真＊＊｝, you were thinking of me even
+        MsgDisp("主人公","(｛Kazama＊＊｝, you were thinking of me even
 in England.)");
         break ;
         default :

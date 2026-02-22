@@ -9,5 +9,5 @@ VoicePlay("B020500002_05_010");
 MsgDisp("Hiiragi","Azure blue is my favorite color.
 Things that have blue in them are very
 calming.");
-MsgDisp("主人公","(｛柊＊＊＊｝ likes the color blue.
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ likes the color blue.
 I'll have to remember that.)");

@@ -6,7 +6,7 @@ MsgDisp("Hiiragi?","｛主人公｝.");
 SEPlay("EV_SE_872",0.5);
 Wait(50,0);
 ChOpen(5,254,0,4,0,#1,#1,0,0);
-MsgDisp("主人公","Eh, ｛柊＊＊＊｝?");
+MsgDisp("主人公","Eh, ｛Hiiragi＊＊＊｝?");
 VoicePlay("T020511000_05_010");
 MsgDisp("Hiiragi","Please give me some of your time.
 By any means.");
@@ -44,7 +44,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("T020511000_05_030");
 MsgDisp("Hiiragi","I should have done this as soon as you
 left me and went to someone else.");
-MsgDisp("主人公","｛柊＊＊＊｝...?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...?");
 Wait(40,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -64,7 +64,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_050");
 MsgDisp("Hiiragi","But, I could graduate thanks to you.");
-MsgDisp("主人公","That...That's because ｛柊＊＊＊｝ worked
+MsgDisp("主人公","That...That's because ｛Hiiragi＊＊＊｝ worked
 really hard both at the theatre company
 and at his school life.");
 ChMotion(5,4);
@@ -137,7 +137,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("T020511000_05_140");
 MsgDisp("Hiiragi","When I go to school, I see your smile.
 And how much it has helped me...");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChEye(5,2);

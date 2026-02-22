@@ -19,7 +19,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,255,0,0,2,8,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 MsgDisp("主人公","Just as I guessed!
-｛風真＊＊｝ and ｛氷室＊＊｝!");
+｛Kazama＊＊｝ and ｛Himuro＊＊｝!");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -121,7 +121,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(Did ｛氷室＊＊｝ just break
+MsgDisp("主人公","(Did ｛Himuro＊＊｝ just break
 confidentiality?)");
 MsgClose();
 ScrFadeOut(0,0);

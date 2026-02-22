@@ -11,7 +11,7 @@ ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("P740200005_02_000");
 MsgDisp("Sassa","｛主人公｝, did you sprain your foot?");
-MsgDisp("主人公","Ah, ｛颯砂＊＊｝...
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝...
 I'm fine, but I failed.");
 ChEye(2,2);
 ChMouth(2,0);
@@ -41,7 +41,7 @@ ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("P740200005_02_040");
 MsgDisp("Sassa","It'll definitely come!");
-MsgDisp("主人公","(｛颯砂＊＊｝...? But, I worked hard for
+MsgDisp("主人公","(｛Sassa＊＊｝...? But, I worked hard for
 three years for this day, so I wanted to
 make it a success...)");
 MsgClose();

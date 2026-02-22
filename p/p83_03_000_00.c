@@ -17,7 +17,7 @@ is...organizing the documents.)");
     VoicePlay("P830300000_03_000");
     MsgDisp("Honda","Huh?
 What are you up to?");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝. The student council
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝. The student council
 committee have been entrusted with
 managing the cultural festival.");
     ChEye(3,0);
@@ -45,7 +45,7 @@ is...organizing the documents.)");
     VoicePlay("P830300000_03_030");
     MsgDisp("Honda","Ah, you're here, you're here.
 You're the unsung hero.");
-    MsgDisp("主人公","Eh, ｛本多＊＊｝.
+    MsgDisp("主人公","Eh, ｛Honda＊＊｝.
 Is something the matter?");
     ChEye(3,0);
     ChMouth(3,0);
@@ -63,7 +63,7 @@ Right now I can't leave here.");
 with, just let me know!
 I'll just be wandering around anyways.");
     MsgDisp("主人公","Hehe, yeah.
-Thank you, ｛本多＊＊｝.");
+Thank you, ｛Honda＊＊｝.");
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("P830300000_03_060");

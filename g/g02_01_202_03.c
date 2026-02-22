@@ -39,7 +39,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020120203_01_050");
 MsgDisp("Kazama","I know that Nanatsumori's a good guy.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,1);
@@ -50,7 +50,7 @@ to be all considerate, and he's not blunt
 or pushy.");
 MsgDisp("主人公","Yeah.
 I know how close you are with
-｛七ツ森＊｝, ｛風真＊＊｝.");
+｛Nanatsumori＊｝, ｛Kazama＊＊｝.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -71,7 +71,7 @@ ChMotion(1,1);
 VoicePlay("G020120203_01_090");
 MsgDisp("Kazama","I can't do what he does, but I'm going to
 stick to my feelings like I always have.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -79,8 +79,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020120203_01_100");
 MsgDisp("Kazama","(sigh) I just keep saying stuff that I
 really shouldn't.");
-MsgDisp("主人公","(So that's how ｛風真＊＊｝ feels about
-｛七ツ森＊｝...)");
+MsgDisp("主人公","(So that's how ｛Kazama＊＊｝ feels about
+｛Nanatsumori＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

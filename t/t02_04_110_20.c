@@ -1,6 +1,6 @@
 ChEye(4,2);
 ChMouth(4,4);
-MsgDisp("主人公","I also...like ｛七ツ森＊｝.");
+MsgDisp("主人公","I also...like ｛Nanatsumori＊｝.");
 ChMotion(4,0,1);
 VoicePlay("T020411000_04_130");
 MsgDisp("Nanatsumori","...Is that alright?");
@@ -20,7 +20,7 @@ MsgDisp("Nanatsumori","I was afraid that if I confessed to you
 like this, you'd hate me.");
 MsgDisp("主人公","No.
 I think I was actually waiting for
-｛七ツ森＊｝...");
+｛Nanatsumori＊｝...");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);

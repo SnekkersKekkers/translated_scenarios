@@ -10,7 +10,7 @@ SEStop("EV_SE_SCHOOL_002",2.5);
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","｛風真＊＊｝, what's up?");
+MsgDisp("主人公","｛Kazama＊＊｝, what's up?");
 VoicePlay("D010100900_01_010");
 MsgDisp("Kazama","Are you going home now?
 If so, let's go together.");
@@ -39,7 +39,7 @@ ChMotion(1,0);
 VoicePlay("D010100900_01_030");
 MsgDisp("Kazama","While I was gone, did you hear that bell?");
 MsgDisp("主人公","...The bell, do you mean that church bell
-that ｛風真＊＊｝ used to hear? It's weird
+that ｛Kazama＊＊｝ used to hear? It's weird
 but I haven't heard it since then.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -59,7 +59,7 @@ MsgDisp("Kazama","Alright, let's give it a try.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","Eh?
-Wait up, ｛風真＊＊｝!");
+Wait up, ｛Kazama＊＊｝!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.6);
 MsgClose();
@@ -90,7 +90,7 @@ StlMouth(1,1);
 StlMouthOpenLevel(1,0);
 VoicePlay("D010100900_01_080");
 MsgDisp("Kazama","......");
-MsgDisp("主人公","(｛風真＊＊｝ is really focusing.
+MsgDisp("主人公","(｛Kazama＊＊｝ is really focusing.
 Okay, I will too...!)");
 MsgClose();
 ScrFadeOut(3,30);
@@ -139,7 +139,7 @@ MsgDisp("Kazama","I can carry you in my arms, on my back,
 even on my shoulders would be fine with
 me, though?");
 MsgDisp("主人公","(...I need to watch my step when I'm with
-｛風真＊＊｝.)");
+｛Kazama＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

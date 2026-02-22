@@ -7,12 +7,12 @@ ChEye(1,3);
 ChMouth(1,2);
 VoicePlay("T020101000_01_180");
 MsgDisp("Kazama","Huh, really...?");
-MsgDisp("主人公","Yes, I also like ｛風真＊＊｝.
+MsgDisp("主人公","Yes, I also like ｛Kazama＊＊｝.
 Thank you for always thinking of me.");
 ChEye(1,4);
 ChMouth(1,2);
 ChCheek(1,6);
-MsgDisp("主人公","I'm sorry I've disappointed ｛風真＊＊｝
+MsgDisp("主人公","I'm sorry I've disappointed ｛Kazama＊＊｝
 so much by forgetting so many things.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -62,7 +62,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020101000_01_270");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝...
+MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);

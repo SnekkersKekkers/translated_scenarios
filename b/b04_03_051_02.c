@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040305102_03_000");
 MsgDisp("Honda","You know, I always wanted to try being a
 planetarium commentator～");
-MsgSel("I feel like ｛本多＊＊｝ would go on a tangent.","｛本多＊＊｝'s commentary sounds more fun.","Next time, please do it!");
+MsgSel("I feel like ｛Honda＊＊｝ would go on a tangent.","｛Honda＊＊｝'s commentary sounds more fun.","Next time, please do it!");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){

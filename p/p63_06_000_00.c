@@ -13,7 +13,7 @@ wonder if everyone will come...?)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600000_06_000");
     MsgDisp("Himuro","Is this the Gardening Club?");
-    MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+    MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 You came?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -46,7 +46,7 @@ wonder if everyone will come...?)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600000_06_030");
     MsgDisp("Himuro","I came.");
-    MsgDisp("主人公","｛氷室＊＊｝!
+    MsgDisp("主人公","｛Himuro＊＊｝!
 Welcome.");
     ChEye(6,0);
     ChMouth(6,0);

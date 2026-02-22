@@ -45,7 +45,7 @@ VoicePlay("P140300000_03_050");
 MsgDisp("Honda","Ahーthat was fun.
 I'll go and promote it!");
 MsgDisp("主人公","(I'm glad!
-｛本多＊＊｝, seems to have really liked it!");
+｛Honda＊＊｝, seems to have really liked it!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

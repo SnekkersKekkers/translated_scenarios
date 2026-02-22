@@ -34,7 +34,7 @@ I wish I had tried harder.)");
     VoiceEVSPlay(4);
     VoicePlay("O020400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝, I lost...");
+    MsgDisp("主人公","｛Nanatsumori＊｝, I lost...");
     ChMotion(4,1,1);
     VoicePlay("O020400001_04_040");
     MsgDisp("Nanatsumori","Guess so.
@@ -49,7 +49,7 @@ Thanks for worrying.");
 I'm glad you aren't hurt.
 Good work.");
     MsgDisp("主人公","(I might have lost the match, but I got
-healed by ｛七ツ森＊｝'s kindness...)");
+healed by ｛Nanatsumori＊｝'s kindness...)");
     break ;
     default :
     DbgAssert(1);

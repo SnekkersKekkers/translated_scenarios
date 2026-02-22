@@ -13,5 +13,5 @@ ChEyeOpenLevel(2,0);
 VoicePlay("B020202105_02_010");
 MsgDisp("Sassa","If it's you wearing it, it's like the
 feeling is being multiplied!");
-MsgDisp("主人公","(Hmm, seems like ｛颯砂＊＊｝ is
+MsgDisp("主人公","(Hmm, seems like ｛Sassa＊＊｝ is
 complimenting me.)");

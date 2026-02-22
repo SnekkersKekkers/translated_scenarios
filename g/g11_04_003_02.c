@@ -28,7 +28,7 @@ BGOpen("ev004",0);
 ChNanaType(1);
 ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛七ツ森＊｝!");
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
 ChEye(4,1);
 ChMouth(4,1);
 VoicePlay("G110400302_04_010");
@@ -64,7 +64,7 @@ VoicePlay("G110400302_04_060");
 MsgDisp("Nanatsumori","Yeah. I'm a fan of this new reporter, so
 I'm really looking forward to reading this
 new article.");
-MsgDisp("主人公","(Oof...pressure. But if ｛七ツ森＊｝ is
+MsgDisp("主人公","(Oof...pressure. But if ｛Nanatsumori＊｝ is
 going to read it, I'll do my best to write
 a good article!)");
 BGMStop();

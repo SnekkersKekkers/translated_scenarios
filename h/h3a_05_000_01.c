@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     VoicePlay("H3A0500001_05_000");
     MsgDisp("Hiiragi","...Good work.");
-    MsgDisp("主人公","｛柊＊＊＊｝...
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 I lost.");
     ChEye(5,4);
     VoicePlay("H3A0500001_05_010");
@@ -35,7 +35,7 @@ chest out with confidence.");
     ChMotion(5,0);
     VoicePlay("H3A0500001_05_040");
     MsgDisp("Hiiragi","Yes, that's your beautiful face.");
-    MsgDisp("主人公","(Thank you, ｛柊＊＊＊｝...
+    MsgDisp("主人公","(Thank you, ｛Hiiragi＊＊＊｝...
 I didn't win, but I'm glad I stayed in the
 judo club...)");
     break ;

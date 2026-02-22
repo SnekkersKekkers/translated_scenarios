@@ -6,7 +6,7 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 VoicePlay("B090100000_01_000");
 MsgDisp("Kazama","Hello.");
 MsgDisp("主人公","Huh?
-It's ｛風真＊＊｝...");
+It's ｛Kazama＊＊｝...");
 VoicePlay("B090100000_01_010");
 MsgDisp("Kazama","About today.");
 VoicePlay("B090100000_01_020");

@@ -1,12 +1,12 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛颯砂＊＊｝ still isn't here
+MsgDisp("主人公","Looks like ｛Sassa＊＊｝ still isn't here
 yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(｛颯砂＊＊｝, you're late...
+MsgDisp("主人公","(｛Sassa＊＊｝, you're late...
 Did something happen?)");
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
@@ -89,7 +89,7 @@ MsgDisp("Sassa","Ah, more importantly, I'm sorry.
 It's my fault for being late.
 Were you scared?");
 MsgDisp("主人公","No.
-I felt safe because ｛颯砂＊＊｝ was there.");
+I felt safe because ｛Sassa＊＊｝ was there.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);

@@ -23,7 +23,7 @@ VoicePlay("G020110301_01_020");
 MsgDisp("Kazama","Yeah, it's like we're making up for that
 ten-year blank crazy fast.");
 MsgDisp("主人公","But I want to know about your time in the
-UK too, ｛風真＊＊｝.");
+UK too, ｛Kazama＊＊｝.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -95,7 +95,7 @@ MsgDisp("Kazama","I didn't have any chances to go to the
 pool or even swim really over there so I
 totally forgot how.");
 MsgDisp("主人公","Hahah.
-But you were really cute, ｛風真＊＊｝.");
+But you were really cute, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -111,7 +111,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_130");
 MsgDisp("Kazama","(sigh) I wanna go to a timeline where I
 didn't borrow that floatie that day...");
-MsgDisp("主人公","(｛風真＊＊｝ using a floatie to stay above
+MsgDisp("主人公","(｛Kazama＊＊｝ using a floatie to stay above
 water...might be something I want to see
 again.)");
 BGMStop();

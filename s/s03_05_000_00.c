@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 2:
     VoicePlay("S030500000_05_000");
     MsgDisp("Hiiragi","Hiiragi here.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝?
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝?
 It's ｛主人公苗字｝.");
     VoicePlay("S030500000_05_010");
     MsgDisp("Hiiragi","Oh.
@@ -17,7 +17,7 @@ Hey, are you going to visit the shrine?");
     case 3:
     VoicePlay("S030500000_05_020");
     MsgDisp("Hiiragi","Hiiragi here.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝?
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝?
 ｛主人公苗字｝ here.
 Happy New Year!");
     VoicePlay("S030500000_05_030");
@@ -32,13 +32,13 @@ together.");
     case 5:
     VoicePlay("S030500000_05_040");
     MsgDisp("Hiiragi","Hello.");
-    MsgDisp("主人公","Ah, ｛柊＊＊＊｝?
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝?
 I...");
     VoicePlay("S030500000_05_050");
     MsgDisp("Hiiragi","Yup. Happy New Year. I'm looking forward
 to spending time with you again this year.");
     MsgDisp("主人公","Same here!
-｛柊＊＊＊｝, do you have time today?
+｛Hiiragi＊＊＊｝, do you have time today?
 Would you like to visit the shrine?");
     break ;
     default :

@@ -27,7 +27,7 @@ It's because everyone did their best!");
     VoicePlay("H1A0100000_01_020");
     MsgDisp("Kazama","All I know is that you were always working
 hard for everyone.");
-    MsgDisp("主人公","Thanks, ｛風真＊＊｝!");
+    MsgDisp("主人公","Thanks, ｛Kazama＊＊｝!");
     MsgDisp("主人公","(We won!
 I'm glad I did my best for the club!)");
     break ;
@@ -39,7 +39,7 @@ I'm glad I did my best for the club!)");
     VoicePlay("H1A0100000_01_030");
     MsgDisp("Kazama","Thank goodness.
 Congrats on the win.");
-    MsgDisp("主人公","｛風真＊＊｝!
+    MsgDisp("主人公","｛Kazama＊＊｝!
 Thank you!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -57,7 +57,7 @@ What should I do, I'm so happy...");
     VoicePlay("H1A0100000_01_050");
     MsgDisp("Kazama","Isn't it fine?
 You don't have to hold back your tears.");
-    MsgDisp("主人公","｛風真＊＊｝...");
+    MsgDisp("主人公","｛Kazama＊＊｝...");
     SEPlay("EV_SE_551",0,0.7,0.8);
     MsgClose();
     ScrFadeOut(0,0);

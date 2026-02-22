@@ -60,7 +60,7 @@ ChMotion(4,0,1);
 VoicePlay("B360415200_04_070");
 MsgDisp("Nanatsumori","...and. That was close! I was about to
 blurt out something really cheap∋");
-MsgDisp("主人公","｛七ツ森＊｝?");
+MsgDisp("主人公","｛Nanatsumori＊｝?");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);

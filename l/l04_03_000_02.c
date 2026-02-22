@@ -39,7 +39,7 @@ aroma of the cacao beans they mentioned.");
     MsgDisp("Honda","I'l savor it.
 Thank you!");
     MsgDisp("主人公","(Thank goodness.
-｛本多＊＊｝ seemed happy.)");
+｛Honda＊＊｝ seemed happy.)");
     break ;
     case 4:
     case 5:
@@ -77,7 +77,7 @@ So, I'll eat it carefully.");
     MsgDisp("Honda","Ah, of course, I'm not going to give my
 sister any!");
     MsgDisp("主人公","(Hehe!
-｛本多＊＊｝ seemed really happy!)");
+｛Honda＊＊｝ seemed really happy!)");
     break ;
     default :
     DbgAssert(1);

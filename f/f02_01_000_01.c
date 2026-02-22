@@ -46,4 +46,4 @@ VoicePlay("F020100001_01_050");
 MsgDisp("Kazama","It's a bit eerie how perfect everything is
 going...It'll be wasted if I don't make
 the most of it.");
-MsgDisp("主人公","(...｛風真＊＊｝?)");
+MsgDisp("主人公","(...｛Kazama＊＊｝?)");

@@ -112,7 +112,7 @@ Mikage-sensei▼ right, Mari?");
 MsgDisp("主人公","Y-Yeah.");
 MsgDisp("主人公","(Goro-sensei's fashion is quite original
 though...?
-Will ｛御影＊＊｝ be alright...)");
+Will ｛Mikage＊＊｝ be alright...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

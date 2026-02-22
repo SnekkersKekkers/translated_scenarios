@@ -63,7 +63,7 @@ MsgDisp("Market Clerk","Right away! ...Oh? You're Kazama-san's
 boy! Alright, this is on the house!");
 VoicePlay("B040106400_01_080");
 MsgDisp("Kazama","Oh, thank you very much.");
-MsgDisp("主人公","(｛風真＊＊｝'s popularity is seriously
+MsgDisp("主人公","(｛Kazama＊＊｝'s popularity is seriously
 amazing...)");
 SEPlay("EV_SE_625");
 SEWait();

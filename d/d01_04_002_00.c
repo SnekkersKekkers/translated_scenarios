@@ -7,7 +7,7 @@ Should we eat our lunch on the rooftop?");
 SEPlay("EV_SE_787");
 Wait(50,0);
 MsgDisp("主人公","(Oh, a text message.
-...Ah, it's from ｛七ツ森＊｝.
+...Ah, it's from ｛Nanatsumori＊｝.
 Is it an invitation for lunch?)");
 MsgDisp("主人公","(\"Where? Music now. In the room.
 Really...Really, the room. The corner...\"
@@ -23,7 +23,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_013");
 BGOpen("sc340",0);
 ScrFadeIn(0);
-MsgDisp("主人公","...｛七ツ森＊｝?");
+MsgDisp("主人公","...｛Nanatsumori＊｝?");
 MsgDisp("主人公","(Huh?
 I guess he isn't here...)");
 VoicePlay("D010400200_04_000");

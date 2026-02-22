@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650400000_04_000");
     MsgDisp("Nanatsumori","Ah.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
     ChEye(4,4);
     ChMouth(4,4);
@@ -41,7 +41,7 @@ But, he came to check on me, right?)");
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650400000_04_030");
     MsgDisp("Nanatsumori","Yo, good work.");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 Are you about to go on a trip?");
     ChMotion(4,1,1);
     VoicePlay("I650400000_04_040");
@@ -60,7 +60,7 @@ cheer you on. Do your best.");
     BGMStop();
     MsgClose();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Hehe, ｛七ツ森＊｝ cheered me on.
+    MsgDisp("主人公","(Hehe, ｛Nanatsumori＊｝ cheered me on.
 Let's do our best until we go home!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -73,7 +73,7 @@ Let's do our best until we go home!)");
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650400000_04_060");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 What's up?");
     VoicePlay("I650400000_04_070");
     MsgDisp("Nanatsumori","A delivery.");
@@ -107,7 +107,7 @@ Um, not for another hour...");
     VoicePlay("I650400000_04_110");
     MsgDisp("Nanatsumori","I wish I had a real car for times like
 this, so I could wait for you...");
-    MsgDisp("主人公","(｛七ツ森＊｝?
+    MsgDisp("主人公","(｛Nanatsumori＊｝?
 He came to cheer me on, right?
 I'm so happy he gave me hand cream!)");
     BGMStop();

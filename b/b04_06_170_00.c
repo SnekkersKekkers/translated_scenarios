@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040617000_06_000");
 MsgDisp("Himuro","...What are we doing in such a stuffy
 place like this?");
-MsgSel("I want to hear ｛氷室＊＊｝'s beautiful voice","Let's do a duet together.","Please listen to one song of mine.");
+MsgSel("I want to hear ｛Himuro＊＊｝'s beautiful voice","Let's do a duet together.","Please listen to one song of mine.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

@@ -43,7 +43,7 @@ VoicePlay("D140A06100_06_020");
 MsgDisp("Himuro","Nozome-senpai, be careful.
 This is a crucial period for those two.");
 MsgDisp("主人公","Eh...?
-Are you talking about ｛風真＊＊｝ 's club
+Are you talking about ｛Kazama＊＊｝ 's club
 activities?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -71,7 +71,7 @@ VoicePlay("D140A06100_06_040");
 MsgDisp("Himuro","Yes, it'll be helpful for future
 reference.");
 MsgDisp("主人公","Ehhh∋
-Development between ｛風真＊＊｝ and me...
+Development between ｛Kazama＊＊｝ and me...
 We've been close forever though?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -83,7 +83,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("D140A06100_06_050");
 MsgDisp("Himuro","It's no good, let's do this again.");
-MsgDisp("主人公","(｛風真＊＊｝ isn't here, these two are
+MsgDisp("主人公","(｛Kazama＊＊｝ isn't here, these two are
 relentless with their questioning...!)");
 BGMStop();
 MsgClose();

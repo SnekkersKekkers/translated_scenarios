@@ -28,7 +28,7 @@ VoicePlay("G020240001_02_030");
 MsgDisp("Sassa","Extremely so. They practically attacked
 me. They're normally so docile, even the
 owner was surprised.");
-MsgDisp("主人公","When they saw ｛颯砂＊＊｝, they couldn't
+MsgDisp("主人公","When they saw ｛Sassa＊＊｝, they couldn't
 hold back their excitement huh?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -65,7 +65,7 @@ VoicePlay("G020240001_02_080");
 MsgDisp("Sassa","So I ended up pushing myself even harder
 after my training...");
 MsgDisp("主人公","(The dogs must have had so much fun
-training with ｛颯砂＊＊｝, huh!)");
+training with ｛Sassa＊＊｝, huh!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

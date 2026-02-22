@@ -1,3 +1,3 @@
-MsgDisp("主人公","Ah, it's from ｛氷室＊＊｝. It says \"Thanks
+MsgDisp("主人公","Ah, it's from ｛Himuro＊＊｝. It says \"Thanks
 for Last Year\"...that's it. I guess that's
-typical for ｛氷室＊＊｝.");
+typical for ｛Himuro＊＊｝.");

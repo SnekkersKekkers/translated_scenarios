@@ -18,7 +18,7 @@ to be placed in front of each classroom.)");
     VoicePlay("P830200000_02_000");
     MsgDisp("Sassa","｛主人公｝.
 How come you're sweating that much?");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 I was carrying some buckets with water in
 it for extinguishing fires.");
     ChEye(2,0);
@@ -34,7 +34,7 @@ it for extinguishing fires.");
     MsgDisp("Sassa","If it's that much physical work, tell me.
 Hey, which classroom too next?");
     MsgDisp("主人公","Ah...
-｛颯砂＊＊｝, thank you!");
+｛Sassa＊＊｝, thank you!");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);
@@ -54,7 +54,7 @@ to be placed in front of each classroom.)");
     VoicePlay("P830200000_02_030");
     MsgDisp("Sassa","｛主人公｝.
 I was waiting for you.");
-    MsgDisp("主人公","Ah, ｛颯砂＊＊｝.
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 But...");
     ChEye(2,0);
     ChMouth(2,0);
@@ -99,7 +99,7 @@ tell me.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(｛颯砂＊＊｝ is kind....)");
+    MsgDisp("主人公","(｛Sassa＊＊｝ is kind....)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

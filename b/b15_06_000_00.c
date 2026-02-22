@@ -14,7 +14,7 @@ MsgDisp("Himuro","Were you unaware of it yourself?
 Even amongst girls, you're one of the more
 aggressive ones.");
 MsgDisp("主人公","...Do other girls touch you too,
-｛氷室＊＊｝?");
+｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);

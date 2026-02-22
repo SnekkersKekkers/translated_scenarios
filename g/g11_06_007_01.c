@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("G110600701_06_000");
 MsgDisp("Himuro","Hey.");
-MsgDisp("主人公","Ah, ｛氷室＊＊｝.
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Are you on your way home?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -26,7 +26,7 @@ BGOpen("ev006",1);
 ChOpen(6,100,2,0,0,#1,#1,0,0);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","｛氷室＊＊｝, are you going to participate in
+MsgDisp("主人公","｛Himuro＊＊｝, are you going to participate in
 more surfing exhibitions?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -81,7 +81,7 @@ ChMouth(6,1);
 ChMotion(6,2);
 VoicePlay("G110600701_06_090");
 MsgDisp("Himuro","I'm really grateful for that.");
-MsgDisp("主人公","(｛氷室＊＊｝ feels indebted to the shop
+MsgDisp("主人公","(｛Himuro＊＊｝ feels indebted to the shop
 chairman...that's wonderful.)");
 BGMStop();
 MsgClose();

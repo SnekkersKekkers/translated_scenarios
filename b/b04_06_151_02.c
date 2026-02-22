@@ -47,7 +47,7 @@ I'm the one who should say sorry.");
         VoicePlay("B040615102_06_040");
         MsgDisp("Himuro","I'm just annoyed with myself.
 DOn't mind it.");
-        MsgDisp("主人公","Hehe, ｛氷室＊＊｝, you shouldn't mind it
+        MsgDisp("主人公","Hehe, ｛Himuro＊＊｝, you shouldn't mind it
 either?");
         ChEye(6,2);
         ChMouth(6,0);
@@ -56,7 +56,7 @@ either?");
         VoicePlay("B040615102_06_050");
         MsgDisp("Himuro","No, that's impossible.
 I've shown you my uncool side.");
-        MsgDisp("主人公","I want to see all sides of ｛氷室＊＊｝
+        MsgDisp("主人公","I want to see all sides of ｛Himuro＊＊｝
 though?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -79,7 +79,7 @@ good side.");
         ChCheek(6,0);
         VoicePlay("B040615102_06_080");
         MsgDisp("Himuro","That's just my pride.");
-        MsgDisp("主人公","｛氷室＊＊｝...");
+        MsgDisp("主人公","｛Himuro＊＊｝...");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,1);

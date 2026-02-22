@@ -12,7 +12,7 @@ VoicePlay("P840100002_01_000");
 MsgDisp("Kazama","Here she is, here she is, Japan's ＭＶＰ.
 It was a huge success.");
 MsgDisp("主人公","Hehe, thank you.
-It was because ｛風真＊＊｝ was looking
+It was because ｛Kazama＊＊｝ was looking
 out for me.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -59,7 +59,7 @@ VoicePlay("P840100002_01_060");
 MsgDisp("Kazama","Then, let's eat this cold sweet potato
 together.");
 MsgDisp("主人公","(I'm happy.
-｛風真＊＊｝ is caring for me!)");
+｛Kazama＊＊｝ is caring for me!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

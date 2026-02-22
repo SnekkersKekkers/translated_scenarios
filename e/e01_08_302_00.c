@@ -24,7 +24,7 @@ ChEyeOpenLevel(9,6);
 MsgDisp("Kuya","I know.
 I'll definitely make it up to you.
 Okay?");
-MsgDisp("主人公","｛大地＊＊｝, Kuya-san!");
+MsgDisp("主人公","｛Daichi＊＊｝, Kuya-san!");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,0,1);
@@ -126,7 +126,7 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 MsgDisp("Daichi","Of course!
 I'm proud he's my brother!");
-MsgDisp("主人公","(Both ｛大地＊＊｝ and Kuya are so funny
+MsgDisp("主人公","(Both ｛Daichi＊＊｝ and Kuya are so funny
 and kind...
 They're such wonderful brothers.)");
 BGMStop();

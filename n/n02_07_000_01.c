@@ -49,7 +49,7 @@ Then you can accomplish anything.");
     VoiceEVSPlay(7);
     VoicePlay("N020700001_07_040");
     MsgDisp("Mikage","｛主人公｝, those are good results.");
-    MsgDisp("主人公","｛御影＊＊｝, thank you very much.
+    MsgDisp("主人公","｛Mikage＊＊｝, thank you very much.
 But...I think I could have tried a little
 harder.");
     ChEye(7,0);
@@ -80,7 +80,7 @@ I'll be here.");
     ChMotion(7,2);
     VoicePlay("N020700001_07_080");
     MsgDisp("Mikage","See ya.");
-    MsgDisp("主人公","(When ｛御影＊＊｝ supports me, I feel
+    MsgDisp("主人公","(When ｛Mikage＊＊｝ supports me, I feel
 even more determined!)");
     MsgClose();
     ScrFadeOut(0,0);

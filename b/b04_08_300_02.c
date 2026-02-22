@@ -69,7 +69,7 @@ respond coolly to things like that?");
         ChEyeOpenLevel(8,0);
         VoicePlay("B040830002_08_070");
         MsgDisp("Shirahane","Haa...");
-        MsgDisp("主人公","｛大地＊＊｝?");
+        MsgDisp("主人公","｛Daichi＊＊｝?");
         ChEye(8,2);
         ChMouth(8,0);
         ChMotion(8,2,1);
@@ -96,7 +96,7 @@ cherish you.");
         VoicePlay("B040830002_08_110");
         MsgDisp("Shirahane","Hehe..
 I said it.");
-        MsgDisp("主人公","(｛大地＊＊｝...)");
+        MsgDisp("主人公","(｛Daichi＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

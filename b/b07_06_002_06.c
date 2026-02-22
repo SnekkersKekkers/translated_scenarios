@@ -1,5 +1,5 @@
-MsgDisp("主人公","It's become natural for me, ｛氷室＊＊｝,
-｛柊＊＊＊｝ and ｛御影＊＊｝ to be
+MsgDisp("主人公","It's become natural for me, ｛Himuro＊＊｝,
+｛Hiiragi＊＊＊｝ and ｛Mikage＊＊｝ to be
 together.");
 ChEye(6,2);
 ChMouth(6,0);
@@ -43,7 +43,7 @@ ChCheek(6,10);
 VoicePlay("B070600002_06_410");
 MsgDisp("Himuro","...No, it's nothing.
 There's no point even if I say it now.");
-MsgDisp("主人公","(｛氷室＊＊｝...?)");
+MsgDisp("主人公","(｛Himuro＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

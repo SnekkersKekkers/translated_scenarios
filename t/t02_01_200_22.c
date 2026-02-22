@@ -8,7 +8,7 @@ What's wrong?");
 ChEye(1,3);
 MsgDisp("主人公","I'm sorry, I can't put it into words...");
 MsgDisp("主人公","Thank you for always thinking of me.
-I also like ｛風真＊＊｝.");
+I also like ｛Kazama＊＊｝.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -74,7 +74,7 @@ StlEyeOpenLevel(1,5,1);
 VoicePlay("T020120000_01_630");
 MsgDisp("Kazama","——I promised to definitely give it to
 you one day.");
-MsgDisp("主人公","｛風真＊＊｝...
+MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
 Wait(8,0);

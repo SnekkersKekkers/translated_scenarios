@@ -40,7 +40,7 @@ You look gorgeous in a kimono, huh?");
 It's a good omen that good things will
 happen this year too.");
     MsgDisp("主人公","(Yay!
-I was praised by ｛御影＊＊｝...!)");
+I was praised by ｛Mikage＊＊｝...!)");
     break ;
     case 4:
     case 5:
@@ -78,7 +78,7 @@ they?");
     ChMotion(7,0);
     VoicePlay("S060700001_07_090");
     MsgDisp("Mikage","Ahh, I'm so proud.");
-    MsgDisp("主人公","(｛御影＊＊｝ seems really happy about it.
+    MsgDisp("主人公","(｛Mikage＊＊｝ seems really happy about it.
 But vegetables...?)");
     break ;
     default :

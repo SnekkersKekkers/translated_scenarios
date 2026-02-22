@@ -147,7 +147,7 @@ Hold my hand so we don't get separated.");
         MsgDisp("Kazama","Maybe you'll change your mind after one
 lap around. Don't regret it. We can look
 for another chance to draw fortunes.");
-        MsgDisp("主人公","(｛風真＊＊｝ is so kind.)");
+        MsgDisp("主人公","(｛Kazama＊＊｝ is so kind.)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

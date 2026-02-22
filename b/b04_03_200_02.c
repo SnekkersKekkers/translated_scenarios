@@ -48,7 +48,7 @@ it's brimming with life.");
         MsgDisp("Honda","That's right.
 The pure whiteness makes it feel like it
 has a uniform beauty.");
-        MsgDisp("主人公","｛本多＊＊｝?");
+        MsgDisp("主人公","｛Honda＊＊｝?");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,4);
@@ -57,7 +57,7 @@ has a uniform beauty.");
 think I'll be able to discover lots of new
 things. It'll be difficult to do while
 skiing.");
-        MsgDisp("主人公","Then, today shall we do what ｛本多＊＊｝
+        MsgDisp("主人公","Then, today shall we do what ｛Honda＊＊｝
 wants to do?");
         ChSet(3,5);
         VoicePlay("B040320002_03_050");

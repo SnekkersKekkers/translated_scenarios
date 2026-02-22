@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
     VoiceEVSPlay(1);
     VoicePlay("H3A0100001_01_000");
     MsgDisp("Kazama","｛主人公｝, I thought it was a good match.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝...
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝...
 But I lost...");
     ChEye(1,0);
     ChMouth(1,3);
@@ -29,7 +29,7 @@ you the winner.");
     VoicePlay("H3A0100001_01_020");
     MsgDisp("Kazama","But it's true that you did your best.
 Today's results aren't everything.");
-    MsgDisp("主人公","(｛風真＊＊｝ is so kind...
+    MsgDisp("主人公","(｛Kazama＊＊｝ is so kind...
 But I really wanted to win.)");
     break ;
     case 4:
@@ -40,7 +40,7 @@ But I really wanted to win.)");
     ScrFadeIn(0);
     VoicePlay("H3A0100001_01_030");
     MsgDisp("Kazama","Did you get hurt?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 No, I'm fine.
 But I lost that last match.");
     ChEye(1,0);
@@ -57,7 +57,7 @@ you know?");
     VoicePlay("H3A0100001_01_050");
     MsgDisp("Kazama","Well, at least I won't have to worry about
 you for a while.");
-    MsgDisp("主人公","Hehe, thanks ｛風真＊＊｝.
+    MsgDisp("主人公","Hehe, thanks ｛Kazama＊＊｝.
 For worrying about me.");
     ChClose(1,0,30);
     ChLayout(0);
@@ -67,7 +67,7 @@ For worrying about me.");
     VoicePlay("H3A0100001_01_060");
     MsgDisp("Kazama","Honestly, I was scared to death.
 But you really did your best.");
-    MsgDisp("主人公","(｛風真＊＊｝...
+    MsgDisp("主人公","(｛Kazama＊＊｝...
 I lost, but I'm glad I did my best.)");
     break ;
     default :

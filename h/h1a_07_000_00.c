@@ -12,7 +12,7 @@ switch (ChPrmGet(7,6)){
     VoiceEVSPlay(7);
     VoicePlay("H1A0700000_07_000");
     MsgDisp("Mikage","｛主人公｝, congrats.");
-    MsgDisp("主人公","｛御影＊＊｝!
+    MsgDisp("主人公","｛Mikage＊＊｝!
 Thank you!");
     ChEye(7,0);
     ChMouth(7,0);

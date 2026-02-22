@@ -19,7 +19,7 @@ We won!)");
     ScrFadeIn(0);
     VoicePlay("O030100000_01_010");
     MsgDisp("Kazama","We should have won, and we did.");
-    MsgDisp("主人公","｛風真＊＊｝, we won because you supported
+    MsgDisp("主人公","｛Kazama＊＊｝, we won because you supported
 me.
 Thanks!");
     ChEye(1,4);
@@ -36,7 +36,7 @@ Isn't that great?");
     VoicePlay("O030100000_01_030");
     MsgDisp("Kazama","Just this event is enough for the sports
 festival.");
-    MsgDisp("主人公","(Is ｛風真＊＊｝ just satisfied by winning
+    MsgDisp("主人公","(Is ｛Kazama＊＊｝ just satisfied by winning
 first?)");
     break ;
     case 4:
@@ -48,7 +48,7 @@ first?)");
     ChMotion(1,3);
     VoicePlay("O030100000_01_040");
     MsgDisp("Kazama","We were crazy out there.");
-    MsgDisp("主人公","Yeah, we did it, ｛風真＊＊｝!
+    MsgDisp("主人公","Yeah, we did it, ｛Kazama＊＊｝!
 First place!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -64,7 +64,7 @@ You mean a red thread, right?");
     VoicePlay("O030100000_01_060");
     MsgDisp("Kazama","A rope is thicker and safer.
 Let's stay like this for a while longer.");
-    MsgDisp("主人公","(Hehe, ｛風真＊＊｝ seems really happy.)");
+    MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ seems really happy.)");
     break ;
     default :
     DbgAssert(1);

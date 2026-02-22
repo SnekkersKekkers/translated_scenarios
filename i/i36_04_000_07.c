@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Today, I have to deliver coffee and
-snacks to ｛七ツ森＊｝'s modeling
+snacks to ｛Nanatsumori＊｝'s modeling
 agency.)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
@@ -34,7 +34,7 @@ all on break...");
     VoicePlay("I360400007_04_000");
     MsgDisp("Nanatsumori","Yo.
 Delivery from Alucard?");
-    MsgDisp("主人公","Ah, ｛七ツ森＊｝!
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 Yeah.
 Is everyone on break?");
     ChMotion(4,1,1);
@@ -73,7 +73,7 @@ He seemed really happy!)");
     case 4:
     case 5:
     MsgDisp("主人公","(Today, I have to deliver coffee and
-snacks to ｛七ツ森＊｝'s modeling
+snacks to ｛Nanatsumori＊｝'s modeling
 agency.)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
@@ -101,7 +101,7 @@ all on break...");
     MsgDisp("Nanatsumori","｛主人公｝.
 I heard you were coming today, so I've
 been waiting.");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 No one's here, huh?
 On break?");
     ChEye(4,4);
@@ -146,7 +146,7 @@ Please enjoy it with everyone.");
     MsgDisp("Nanatsumori","Ah, aah...sure.
 I'm happy, I guess?");
     MsgDisp("主人公","? I thought you'd be the most happy about
-this, ｛七ツ森＊｝...");
+this, ｛Nanatsumori＊｝...");
     ChEye(4,4);
     VoicePlay("I360400007_04_120");
     MsgDisp("Nanatsumori","Huh∋
@@ -156,7 +156,7 @@ Super happy∈");
     ChMotion(4,2,1);
     VoicePlay("I360400007_04_130");
     MsgDisp("Nanatsumori","My timing was just a little off...");
-    MsgDisp("主人公","(｛七ツ森＊｝?
+    MsgDisp("主人公","(｛Nanatsumori＊｝?
 You're happy about the new sweets, right?)");
     break ;
     default :

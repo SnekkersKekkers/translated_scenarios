@@ -5,6 +5,6 @@ SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Simple shoulder bag\")");
 MsgDisp("主人公","(Ah, it looks so useful!
 It's a practical gift.
-Hehe, as expected of ｛氷室＊＊｝, maybe?)");
+Hehe, as expected of ｛Himuro＊＊｝, maybe?)");
 MsgClose();
 ScrFadeOut(0,0);

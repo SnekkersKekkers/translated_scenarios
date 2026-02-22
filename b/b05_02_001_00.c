@@ -7,7 +7,7 @@ VoicePlay("B050200100_02_000");
 MsgDisp("Sassa","Sometimes even you want to come here.");
 MsgDisp("主人公","Yeah.
 It may be scary, but it's okay when I'm
-with ｛颯砂＊＊｝.");
+with ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -56,7 +56,7 @@ StlOpen("ev_02_02");
 StlEye(2,1);
 StlMouth(2,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛颯砂＊＊｝!");
+MsgDisp("主人公","｛Sassa＊＊｝!");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
@@ -125,7 +125,7 @@ ChCheek(2,10);
 VoicePlay("B050200100_02_120");
 MsgDisp("Sassa","...Yeah.
 Yeah, for me too.");
-MsgDisp("主人公","Holding onto ｛颯砂＊＊｝ while walking
+MsgDisp("主人公","Holding onto ｛Sassa＊＊｝ while walking
 made me feel a bit better.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -144,6 +144,6 @@ MsgDisp("Sassa","Just saying.
 If you still feel scared, hold onto me
 again, okay?");
 MsgDisp("主人公","Uh, sure.");
-MsgDisp("主人公","(...｛颯砂＊＊｝?)");
+MsgDisp("主人公","(...｛Sassa＊＊｝?)");
 BGMStop();
 ChPrmTblAdd(2,0);

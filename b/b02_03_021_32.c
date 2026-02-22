@@ -13,5 +13,5 @@ ChMotion(3,0);
 VoicePlay("B020302128_03_010");
 MsgDisp("Honda","I did before.
 But now, I can't take my eyes off you.");
-MsgDisp("主人公","(｛本多＊＊｝ seems to have really come to
+MsgDisp("主人公","(｛Honda＊＊｝ seems to have really come to
 like this kind of outfit!)");

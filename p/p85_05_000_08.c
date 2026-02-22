@@ -4,7 +4,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛柊＊＊＊｝, good work.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, good work.");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
@@ -29,14 +29,14 @@ It's the truth evident to everyone.");
 VoicePlay("P850500008_05_030");
 MsgDisp("Hiiragi","The management know-how you left behind
 will surely be passed on.");
-MsgDisp("主人公","｛柊＊＊＊｝, thank you.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P850500008_05_040");
 MsgDisp("Hiiragi","I should be the one saying that.
 I'm happy I got to manage the cultural
 festival alongside you.");
-MsgDisp("主人公","(I'm happy that ｛柊＊＊＊｝ seems
+MsgDisp("主人公","(I'm happy that ｛Hiiragi＊＊＊｝ seems
 pleased. I was able to make some great
 memories in my last year of high school!)");
 MsgClose();

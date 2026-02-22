@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("N020100002_01_000");
     MsgDisp("Kazama","｛主人公｝.
 Your grades are quite average, huh.");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);
@@ -32,7 +32,7 @@ This isn't funny.");
     ScrFadeIn(0);
     VoicePlay("N020100002_01_030");
     MsgDisp("Kazama","Hmm...");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝, what's up with you?");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, what's up with you?");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -67,7 +67,7 @@ Yeah, I'll do my best.)");
     ScrFadeIn(0);
     VoicePlay("N020100002_01_070");
     MsgDisp("Kazama","What's going on?");
-    MsgDisp("主人公","Ah, ｛風真＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -91,7 +91,7 @@ score a bit higher.
 See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Alright, ｛風真＊＊｝ should be surprised
+    MsgDisp("主人公","(Alright, ｛Kazama＊＊｝ should be surprised
 next time, I'll do my best!)");
     break ;
     default :

@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321202_03_000");
 MsgDisp("Honda","It's a talking cockatiel plushie.");
-MsgSel("The golden feather on its head is cute.","It seems a bit loud huh?","It looks a bit like ｛本多＊＊｝?");
+MsgSel("The golden feather on its head is cute.","It seems a bit loud huh?","It looks a bit like ｛Honda＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -107,7 +107,7 @@ Let's enjoy today together!");
         ChEyeOpenLevel(3,9);
         VoicePlay("B040321202_03_090");
         MsgDisp("Honda","Let's go whilst they're not mimicking us.");
-        MsgDisp("主人公","(｛本多＊＊｝, thank you for always giving
+        MsgDisp("主人公","(｛Honda＊＊｝, thank you for always giving
 me a good time.)");
         break ;
         default :

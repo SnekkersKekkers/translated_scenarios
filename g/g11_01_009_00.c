@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛風真＊＊｝ said he had
+MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he had
 something he wanted to talk to me about.
 ...I wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -37,7 +37,7 @@ MsgDisp("Kazama","I had something to say...
 But the moment we sat next to each other
 in the cold, it totally slipped my mind.");
 MsgDisp("主人公","Eh?");
-MsgDisp("主人公","(｛風真＊＊｝, your hands.
+MsgDisp("主人公","(｛Kazama＊＊｝, your hands.
 They look really cold.
 They're even shivering a little.)");
 while (1){

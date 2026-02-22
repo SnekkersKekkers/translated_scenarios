@@ -8,7 +8,7 @@ MsgDisp("Himuro","Recently, the guys in my class have been
 talking to me a lot.");
 MsgDisp("主人公","Eh!
 Doesn't that mean they want to be friends
-with ｛氷室＊＊｝?");
+with ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -55,7 +55,7 @@ VoicePlay("G020630200_06_070");
 MsgDisp("Himuro","You only need friends who you can cherish
 and who you know well.");
 MsgDisp("主人公","I see.
-So this is what ｛氷室＊＊｝ thinks?");
+So this is what ｛Himuro＊＊｝ thinks?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

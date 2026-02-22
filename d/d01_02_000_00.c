@@ -8,7 +8,7 @@ VoicePlay("D010200000_02_000");
 MsgDisp("Sassa?","Hey!");
 MsgDisp("主人公","Huh?
 Is that...
-｛颯砂＊＊｝?");
+｛Sassa＊＊｝?");
 VoicePlay("D010200000_02_010");
 MsgDisp("Sassa","Over here!
 Come this way!");
@@ -28,7 +28,7 @@ ScrFadeIn(0);
 VoicePlay("D010200000_02_020");
 MsgDisp("Sassa","Aaaah...!
 That feels good!");
-MsgDisp("主人公","｛颯砂＊＊｝ are you done training for
+MsgDisp("主人公","｛Sassa＊＊｝ are you done training for
 today?");
 StlEye(2,1);
 StlMouth(2,1);
@@ -107,7 +107,7 @@ ChMotion(2,4);
 VoicePlay("D010200000_02_120");
 MsgDisp("Sassa","Under the light of the setting sun, you
 looked beautiful, like a goddess.");
-MsgDisp("主人公","｛颯砂＊＊｝...");
+MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

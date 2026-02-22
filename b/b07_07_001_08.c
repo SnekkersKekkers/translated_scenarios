@@ -25,7 +25,7 @@ MsgDisp("Mikage","Come on, this is at maximum magnification.
 Observe carefully.");
 MsgDisp("主人公","...Y-You're close.
 But, your eyes are pretty aren't they,
-｛御影＊＊｝?");
+｛Mikage＊＊｝?");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,1);
@@ -60,7 +60,7 @@ ChMotion(7,4);
 VoicePlay("B070700001_07_680");
 MsgDisp("Mikage","That's right.
 Phew...that was dangerous.");
-MsgDisp("主人公","(｛御影＊＊｝'s eyes were so pretty, my
+MsgDisp("主人公","(｛Mikage＊＊｝'s eyes were so pretty, my
 heart started to race...)");
 BGMStop();
 MsgClose();

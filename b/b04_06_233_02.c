@@ -89,7 +89,7 @@ moment.");
 You'ree free to come up with your own
 conclusions based off the situation.");
         MsgDisp("主人公","I see...so, did your heart race,
-｛氷室＊＊｝?");
+｛Himuro＊＊｝?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

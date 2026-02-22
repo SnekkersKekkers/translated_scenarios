@@ -18,7 +18,7 @@ ChMotion(2,3);
 VoicePlay("P740200000_02_010");
 MsgDisp("Sassa","When you appeared on stage, the applause
 and cheers were the loudest.");
-MsgDisp("主人公","That was thanks to ｛颯砂＊＊｝, huh?");
+MsgDisp("主人公","That was thanks to ｛Sassa＊＊｝, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -32,7 +32,7 @@ VoicePlay("P740200000_02_030");
 MsgDisp("Sassa","It's proof of how you mesmerized everyone
 in the audience.
 Hurray!");
-MsgDisp("主人公","(I was praised by ｛颯砂＊＊｝!
+MsgDisp("主人公","(I was praised by ｛Sassa＊＊｝!
 I'm happy!
 A huge success.)");
 MsgClose();

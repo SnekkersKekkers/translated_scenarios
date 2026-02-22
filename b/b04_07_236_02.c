@@ -14,7 +14,7 @@ VoicePlay("B040723602_07_000");
 MsgDisp("Mikage","There's a lot of people...
 It's night time, so don't get separated,
 okay?");
-MsgSel("Please hold my hand.","Can we get a little closer?","｛御影＊＊｝'s head stands out, so it'll be okay.");
+MsgSel("Please hold my hand.","Can we get a little closer?","｛Mikage＊＊｝'s head stands out, so it'll be okay.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -77,7 +77,7 @@ So as you'd like.");
         MsgDisp("Mikage","Look. Now, there's no need to worry we'll
 get separated, but you can't see anything,
 right?～?");
-        MsgDisp("主人公","I can see ｛御影＊＊｝ very well.");
+        MsgDisp("主人公","I can see ｛Mikage＊＊｝ very well.");
         ChEye(7,1);
         ChMouth(7,1);
         ChMotion(7,1);

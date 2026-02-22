@@ -1,5 +1,5 @@
 MsgDisp("主人公","Recently, it's been lively around you,
-｛柊＊＊＊｝.");
+｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 VoicePlay("B070500001_05_180");
 MsgDisp("Hiiragi","Yes.
@@ -15,14 +15,14 @@ ChMotion(5,0);
 VoicePlay("B070500001_05_200");
 MsgDisp("Hiiragi","But thanks to Inori-kun and Mikage-sensei,
 my world has changed.");
-MsgDisp("主人公","Eh, ｛御影＊＊｝ isn't the same age
+MsgDisp("主人公","Eh, ｛Mikage＊＊｝ isn't the same age
 though...");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B070500001_05_210");
 MsgDisp("Hiiragi","Please excuse me.
 Mikage-sensei is also an adult, yes.");
-MsgDisp("主人公","Hehe, ｛御影＊＊｝ is definitely like a
+MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ is definitely like a
 high schooler from time to time.");
 ChEye(5,3);
 VoicePlay("B070500001_05_220");
@@ -54,7 +54,7 @@ ChMotion(5,0);
 VoicePlay("B070500001_05_270");
 MsgDisp("Hiiragi","Yes, I would be happy if we continued to
 spend time together like this...");
-MsgDisp("主人公","(I would be happy if ｛柊＊＊＊｝
+MsgDisp("主人公","(I would be happy if ｛Hiiragi＊＊＊｝
 continued to enjoy his school life like
 this...)");
 BGMStop();

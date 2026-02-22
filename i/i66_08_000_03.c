@@ -30,7 +30,7 @@ Right away...");
     ChMouth(8,3);
     VoicePlay("I660800003_08_010");
     MsgDisp("Shirahane","Alright, we'll start refueling.");
-    MsgDisp("主人公","｛大地＊＊｝, thanks...");
+    MsgDisp("主人公","｛Daichi＊＊｝, thanks...");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,0,1);
@@ -86,7 +86,7 @@ I thought that it was unlocked...");
     MsgDisp("Shirahane","It's easier t'see the cause if ya slow
 down and look properly.
 You can do it, yeah?");
-    MsgDisp("主人公","(｛大地＊＊｝...
+    MsgDisp("主人公","(｛Daichi＊＊｝...
 Yeah, let's look carefully.)");
     break ;
     default :

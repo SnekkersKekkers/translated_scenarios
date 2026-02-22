@@ -36,7 +36,7 @@ ChMouth(4,0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G020410100_04_050");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","...｛七ツ森＊｝?");
+MsgDisp("主人公","...｛Nanatsumori＊｝?");
 ChMotion(4,1,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("G020410100_04_060");

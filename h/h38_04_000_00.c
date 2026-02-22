@@ -7,7 +7,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("H380400000_04_000");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 You came to cheer me on?");
     ChEye(4,0);
     ChMouth(4,0);
@@ -36,7 +36,7 @@ I'll do my best!");
     VoiceEVSPlay(4);
     VoicePlay("H380400000_04_040");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","｛七ツ森＊｝!
+    MsgDisp("主人公","｛Nanatsumori＊｝!
 You came to cheer me on?");
     VoicePlay("H380400000_04_050");
     MsgDisp("Nanatsumori","Yeah.");
@@ -60,14 +60,14 @@ just a little...");
 Sorry, that was uncalled for.");
     MsgDisp("主人公","That's not true!
 Thank you for worrying about me,
-｛七ツ森＊｝.");
+｛Nanatsumori＊｝.");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("H380400000_04_090");
     MsgDisp("Nanatsumori","Yeah. I'll be cheering for you with
 everything I have. ...In my heart.");
-    MsgDisp("主人公","(｛七ツ森＊｝...
+    MsgDisp("主人公","(｛Nanatsumori＊｝...
 Alright, I have to do my best!)");
     break ;
     default :

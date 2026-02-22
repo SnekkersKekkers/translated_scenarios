@@ -15,7 +15,7 @@ MsgClose();
 SEWait();
 BGOpen("ho000",2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛御影＊＊｝, thank you for walking me
+MsgDisp("主人公","｛Mikage＊＊｝, thank you for walking me
 home.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -63,7 +63,7 @@ StlEyeOpenLevel(7,5);
 VoicePlay("B050700100_07_060");
 MsgDisp("Mikage","This is as much retaliation as I can
 muster.");
-MsgDisp("主人公","...｛御影＊＊｝?");
+MsgDisp("主人公","...｛Mikage＊＊｝?");
 StlEye(7,0,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,0,1);
@@ -113,7 +113,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B050700100_07_130");
 MsgDisp("Mikage","...Thank you.");
-MsgDisp("主人公","｛御影＊＊｝...");
+MsgDisp("主人公","｛Mikage＊＊｝...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.5,0.3);
 ChClose(7);
@@ -128,7 +128,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(｛御影＊＊｝ held my hand in his...
+MsgDisp("主人公","(｛Mikage＊＊｝ held my hand in his...
 But, what did he mean by take a step
 forward?)");
 MsgClose();

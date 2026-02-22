@@ -27,7 +27,7 @@ Is it really okay if I take this?");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(｛颯砂＊＊｝ seemed happy, right?)");
+    MsgDisp("主人公","(｛Sassa＊＊｝ seemed happy, right?)");
     break ;
     case 3:
     ChEye(2,0);
@@ -55,7 +55,7 @@ to expect something better in return.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(｛颯砂＊＊｝ seemed happy!)");
+    MsgDisp("主人公","(｛Sassa＊＊｝ seemed happy!)");
     break ;
     case 4:
     case 5:

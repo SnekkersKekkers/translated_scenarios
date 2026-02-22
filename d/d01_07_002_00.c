@@ -25,7 +25,7 @@ StlEyeOpenLevel(7,0,1);
 BGMPlay("BGM_C07_MIKAGE_B",0.01);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","∈ ｛御影＊＊｝...!
+MsgDisp("主人公","∈ ｛Mikage＊＊｝...!
 What's wrong?");
 StlEye(7,0);
 StlMouth(7,0);
@@ -83,7 +83,7 @@ ScrFadeIn(0);
 VoicePlay("D010700200_07_070");
 MsgDisp("Mikage","You should hurry home nowー!");
 MsgDisp("主人公","Ah, yes sir!");
-MsgDisp("主人公","(｛御影＊＊｝ left. I hope they don't scold
+MsgDisp("主人公","(｛Mikage＊＊｝ left. I hope they don't scold
 him in the staff room...But he looks kind
 of cool, huh?)");
 MsgClose();

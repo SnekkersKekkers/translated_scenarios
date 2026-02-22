@@ -1,7 +1,7 @@
 BGOpen("sc211",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...｛風真＊＊｝, missed the graduation
+MsgDisp("主人公","(...｛Kazama＊＊｝, missed the graduation
 ceremony...)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
@@ -10,7 +10,7 @@ VoicePlay("T020B30000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
 BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(1,254,0,4,3,#1,#1,0,0);
-MsgDisp("主人公","｛風真＊＊｝!
+MsgDisp("主人公","｛Kazama＊＊｝!
 You're back!");
 MsgDisp("主人公","But...the graduation ceremony is already
 over.");
@@ -28,7 +28,7 @@ Wait(8,0);
 ChEye(1,4);
 VoicePlay("T020B21000_01_020");
 MsgDisp("Kazama","Ah, congratulations on graduating.");
-MsgDisp("主人公","｛風真＊＊｝, you too.");
+MsgDisp("主人公","｛Kazama＊＊｝, you too.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -74,7 +74,7 @@ ChMotion(1,0);
 VoicePlay("T020B21000_01_070");
 MsgDisp("Kazama","That's right.
 I'm back.");
-MsgDisp("主人公","｛本多＊＊｝.
+MsgDisp("主人公","｛Honda＊＊｝.
 Congratualitions on your graduation!");
 ChEye(3,3);
 ChMouth(3,3);

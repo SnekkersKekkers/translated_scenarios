@@ -72,7 +72,7 @@ us before.");
         SEWait();
         VoicePlay("B040322202_03_060");
         MsgDisp("Honda","Excuse me, could you take a picture of us?");
-        MsgDisp("主人公","(｛本多＊＊｝?)");
+        MsgDisp("主人公","(｛Honda＊＊｝?)");
         MsgClose();
         ScrFadeOut(0);
         SEPlay("EV_SE_041");

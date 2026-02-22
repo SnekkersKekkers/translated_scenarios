@@ -81,7 +81,7 @@ Thank you.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(｛七ツ森＊｝ is so kind...
+    MsgDisp("主人公","(｛Nanatsumori＊｝ is so kind...
 But, I wish I tried a little harder...)");
     break ;
     default :

@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛風真＊＊｝, recently you've been talking
-to ｛七ツ森＊｝ a lot, haven't you?");
+MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking
+to ｛Nanatsumori＊｝ a lot, haven't you?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -14,7 +14,7 @@ VoicePlay("B070100002_01_080");
 MsgDisp("Kazama","Despite hoe he looks, he's got a sweet
 tooth.
 Not that I dislike it either.");
-MsgDisp("主人公","｛風真＊＊｝ and ｛七ツ森＊｝ talks
+MsgDisp("主人公","｛Kazama＊＊｝ and ｛Nanatsumori＊｝ talks
 about sweets huh?
 That's kind of cute.");
 ChEye(1,0);

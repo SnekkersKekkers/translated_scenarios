@@ -40,7 +40,7 @@ VoicePlay("G020310400_03_050");
 MsgDisp("Honda","It's because I've been thinking about it a
 lot lately. About what kind of feelings I
 have for you.");
-MsgDisp("主人公","｛本多＊＊｝...");
+MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -66,7 +66,7 @@ VoicePlay("G020310400_03_090");
 MsgDisp("Honda","Maybe trying to find reasons or logical
 explanations for 'liking' someone is
 pointless");
-MsgDisp("主人公","(｛本多＊＊｝, seems troubled about
+MsgDisp("主人公","(｛Honda＊＊｝, seems troubled about
 love...)");
 BGMStop();
 MsgClose();

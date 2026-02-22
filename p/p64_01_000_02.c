@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("P640100002_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","｛風真＊＊｝, what did you think?");
+MsgDisp("主人公","｛Kazama＊＊｝, what did you think?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -25,7 +25,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P640100002_01_030");
 MsgDisp("Kazama","I'll eat them at home with Grandpa.");
-MsgDisp("主人公","(I was praised by ｛風真＊＊｝!
+MsgDisp("主人公","(I was praised by ｛Kazama＊＊｝!
 YAy, it was a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);

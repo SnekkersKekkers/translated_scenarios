@@ -6,7 +6,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ScrFadeIn(0);
 MsgDisp("主人公","It's almost winter vacation.
-｛風真＊＊｝, do you have plans?");
+｛Kazama＊＊｝, do you have plans?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

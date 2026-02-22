@@ -113,7 +113,7 @@ What I want to say.");
         VoicePlay("B040423202_04_140");
         MsgDisp("Nanatsumori","Mm.
 Alright.");
-        MsgDisp("主人公","(｛七ツ森＊｝...you really are worried
+        MsgDisp("主人公","(｛Nanatsumori＊｝...you really are worried
 about me.)");
         break ;
         default :

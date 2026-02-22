@@ -7,7 +7,7 @@ ChNanaType(1);
 ChOpen(4,35,0,0,0,#1,#1,0,0);
 VoicePlay("E010430200_04_000");
 MsgDisp("Nanatsumori","Yo.");
-MsgDisp("主人公","Ah, ｛七ツ森＊｝.
+MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Are you working?");
 ChMotion(4,1,1);
 VoicePlay("E010430200_04_010");
@@ -30,7 +30,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(4,1);
 MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,60);
-MsgDisp("主人公","｛御影＊＊｝!");
+MsgDisp("主人公","｛Mikage＊＊｝!");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -92,7 +92,7 @@ MsgDisp("Nanatsumori","Phew...");
 ChEyeOpenLevel(4,#1);
 MsgDisp("主人公","I'm sorry.
 I almost exposed your identity,
-｛七ツ森＊｝...");
+｛Nanatsumori＊｝...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);

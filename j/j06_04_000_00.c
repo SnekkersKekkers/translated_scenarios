@@ -24,7 +24,7 @@ do you think?");
         VoicePlay("J060400000_04_010");
         MsgDisp("Nanatsumori","OK.
 On Sunday, don't oversleep.");
-        MsgDisp("主人公","Hmmm, ｛七ツ森＊｝ is the best!");
+        MsgDisp("主人公","Hmmm, ｛Nanatsumori＊｝ is the best!");
         ChEye(4,1);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -37,7 +37,7 @@ See you.");
         MsgClose();
         ChClose(4,0,30);
         Wait(30);
-        MsgDisp("主人公","(｛七ツ森＊｝.
+        MsgDisp("主人公","(｛Nanatsumori＊｝.
 He asked me out on a date.
 I'm looking forward to Sunday!)");
         break ;

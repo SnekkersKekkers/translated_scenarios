@@ -8,14 +8,14 @@ ChCheek(2,8);
 VoicePlay("T020200021_02_000");
 MsgDisp("Sassa","Oh, ah...
 Was that a kiss...?");
-MsgDisp("主人公","Yes I also like ｛颯砂＊＊｝.");
+MsgDisp("主人公","Yes I also like ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("T020200021_02_010");
 MsgDisp("Sassa","Seriously...");
-MsgDisp("主人公","｛颯砂＊＊｝?");
+MsgDisp("主人公","｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -33,7 +33,7 @@ MsgDisp("Sassa","Haha! I'm so happy. I guess I wasn't just
 forcing you into this.");
 MsgDisp("主人公","I was really happy too spending the last
 three years challenging myself alongside
-｛颯砂＊＊｝.");
+｛Sassa＊＊｝.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);

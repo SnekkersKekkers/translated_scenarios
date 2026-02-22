@@ -76,7 +76,7 @@ this by myself.");
         VoicePlay("B040521102_05_080");
         MsgDisp("Hiiragi","I couldn't really play with friends my
 age.");
-        MsgDisp("主人公","｛柊＊＊＊｝...");
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
         ChEye(5,2);
         VoicePlay("B040521102_05_090");
         MsgDisp("Hiiragi","It's not a sad story.
@@ -92,7 +92,7 @@ what he would imagine?");
         ChMotion(5,4);
         VoicePlay("B040521102_05_110");
         MsgDisp("Hiiragi","...How would it go, right?");
-        MsgDisp("主人公","(｛柊＊＊＊｝, just now you were imagining
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, just now you were imagining
 something and laughing...)");
         break ;
         default :

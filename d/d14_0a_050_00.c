@@ -36,7 +36,7 @@ ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("D140A05000_06_010");
 MsgDisp("Himuro","Eh...were we wrong?");
-MsgDisp("主人公","｛風真＊＊｝...?");
+MsgDisp("主人公","｛Kazama＊＊｝...?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

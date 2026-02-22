@@ -13,7 +13,7 @@ switch (ChPrmGet(7,6)){
     VoiceEVSPlay(7);
     VoicePlay("H4A0700001_07_000");
     MsgDisp("Mikage","｛主人公｝, good work.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝...");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -43,7 +43,7 @@ clear to the audience.");
     VoicePlay("H4A0700001_07_040");
     MsgDisp("Mikage","Well, thanks to you, my hands are bright
 red, though.");
-    MsgDisp("主人公","(｛御影＊＊｝ cheered for me a lot...that
+    MsgDisp("主人公","(｛Mikage＊＊｝ cheered for me a lot...that
 makes me happy.
 But I wanted to win...)");
     break ;

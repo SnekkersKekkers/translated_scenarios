@@ -19,6 +19,6 @@ MsgClose();
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);
-MsgDisp("主人公","(｛七ツ森＊｝ walked me home.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ walked me home.)");
 MsgClose();
 ScrFadeOut(0,0);

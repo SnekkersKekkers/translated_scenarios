@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛氷室＊＊｝, I guess...");
+MsgDisp("主人公","｛Himuro＊＊｝, I guess...");
 StlEyeOpenLevel(21,#1);
 StlMouthOpenLevel(21,#1);
 StlNear(0,0,15);
@@ -25,7 +25,7 @@ charm to him.");
 Himuro-chan is still a baby bird. If Mari
 teaches him well, he may become a fine
 man♪");
-    MsgDisp("主人公","(I have to teach ｛氷室＊＊｝∋
+    MsgDisp("主人公","(I have to teach ｛Himuro＊＊｝∋
 I wonder if I can do that sort of
 thing...)");
     break ;
@@ -98,7 +98,7 @@ that ice wall of his.");
 doesn't have to overwork himself all the
 time.");
     StlEye(22,0);
-    MsgDisp("主人公","(｛氷室＊＊｝'s ice wall...
+    MsgDisp("主人公","(｛Himuro＊＊｝'s ice wall...
 Lately I don't get that feeling from him
 anymore...)");
     break ;

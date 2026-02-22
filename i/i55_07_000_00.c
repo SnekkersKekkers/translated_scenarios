@@ -11,7 +11,7 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550700000_07_000");
     MsgDisp("Mikage","Excuse me.");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
@@ -59,7 +59,7 @@ check on me...)");
     VoicePlay("I550700000_07_060");
     MsgDisp("Mikage","Excuse me.");
     MsgDisp("主人公","Yes!
-Ah, ｛御影＊＊｝.
+Ah, ｛Mikage＊＊｝.
 Welcome!");
     ChEye(7,0);
     ChMouth(7,0);
@@ -90,7 +90,7 @@ a gift, please.");
     MsgDisp("Mikage","I was thinking of handing them out during
 tea time in the staff room.
 You know, to keep everyone in a good mood.");
-    MsgDisp("主人公","(｛御影＊＊｝...did you do something wrong
+    MsgDisp("主人公","(｛Mikage＊＊｝...did you do something wrong
 again?)");
     MsgClose();
     BGMStop();
@@ -106,7 +106,7 @@ again?)");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I550700000_07_110");
     MsgDisp("Mikage","Yo, working hard?");
-    MsgDisp("主人公","Ah, ｛御影＊＊｝.
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Welcome!");
     ChEye(7,0);
     ChMouth(7,0);

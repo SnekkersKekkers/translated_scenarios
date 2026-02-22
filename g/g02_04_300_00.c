@@ -7,7 +7,7 @@ MsgDisp("Nanatsumori","I wonder what they're up to right
 nowー...those guys.");
 MsgDisp("主人公","Those guys...
 Ah.
-You mean ｛風真＊＊｝ and ｛本多＊＊｝?");
+You mean ｛Kazama＊＊｝ and ｛Honda＊＊｝?");
 ChMotion(4,1,1);
 VoicePlay("G020430000_04_010");
 MsgDisp("Nanatsumori","Yeah.
@@ -53,7 +53,7 @@ VoicePlay("G020430000_04_080");
 MsgDisp("Nanatsumori","Well, maybe I'll treat them to some
 delicious sweets soon and apologize to
 them in my heart.");
-MsgDisp("主人公","(｛七ツ森＊｝ really cares about his
+MsgDisp("主人公","(｛Nanatsumori＊｝ really cares about his
 friends, huh?)");
 BGMStop();
 MsgClose();

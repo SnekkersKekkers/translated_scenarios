@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Well, I think it's time to go home.
 ...Huh?");
-MsgDisp("主人公","｛柊＊＊＊｝!");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝!");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
 ChOpen(5,255,0,0,4,#1,#1,0,0);
@@ -12,7 +12,7 @@ VoicePlay("E010510000_05_000");
 MsgDisp("Hiiragi","Hello, ｛主人公｝.
 Are you going shopping?");
 MsgDisp("主人公","Yeah, but I'm about to go home now.
-What about you, ｛柊＊＊＊｝?");
+What about you, ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("E010510000_05_010");
@@ -21,7 +21,7 @@ I came to buy some, but it seems they
 don't have any today.");
 MsgDisp("主人公","None?
 But the items at your feet are
-｛柊＊＊＊｝'s , arent they?");
+｛Hiiragi＊＊＊｝'s , arent they?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("E010510000_05_020");

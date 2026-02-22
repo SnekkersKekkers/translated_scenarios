@@ -1,4 +1,4 @@
-MsgDisp("主人公","｛本多＊＊｝, what are your dreams for the
+MsgDisp("主人公","｛Honda＊＊｝, what are your dreams for the
 future?
 I want to know.");
 ChEye(3,0);
@@ -24,7 +24,7 @@ ChMotion(3,1);
 VoicePlay("B070300000_03_390");
 MsgDisp("Honda","Yepyep, the elementary school part is
 especially important.");
-MsgDisp("主人公","I see, ｛本多＊＊｝ must love children,
+MsgDisp("主人公","I see, ｛Honda＊＊｝ must love children,
 huh?");
 ChMouth(3,4);
 ChMouth(3,0);
@@ -41,8 +41,8 @@ MsgDisp("Honda","Elementary schools get to teach all
 subjects, right? Japanese, Mathematics,
 Science, Social Studies∈");
 MsgDisp("主人公","That makes sense. You know so many
-｛本多＊＊｝ different things, so it's
-perfect for you, ｛本多＊＊｝.");
+｛Honda＊＊｝ different things, so it's
+perfect for you, ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -56,7 +56,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_430");
 MsgDisp("Honda","So I guess that's why it would be an
 elementary school teacher for now.");
-MsgDisp("主人公","(｛本多＊＊｝ would make a really great
+MsgDisp("主人公","(｛Honda＊＊｝ would make a really great
 elementary school teacher.)");
 BGMStop();
 MsgClose();

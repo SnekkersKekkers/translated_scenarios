@@ -5,7 +5,7 @@ Wait(10,0);
 SEWait();
 VoicePlay("J010100001_01_000");
 MsgDisp("Kazama","Hello, this is Kazama Ryota speaking.");
-MsgDisp("主人公","Ah, ｛風真＊＊｝?
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝?
 It's ｛主人公苗字｝...");
 VoicePlay("J010100001_01_010");
 MsgDisp("Kazama","Sorry, I can't answer the phone right now.

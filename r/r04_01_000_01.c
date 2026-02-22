@@ -54,7 +54,7 @@ Just don't let it get it to your head.");
     VoicePlay("R040100001_01_050");
     MsgDisp("Kazama","I don't need anything else in front of me
 other than you and that dress.");
-    MsgDisp("主人公","｛風真＊＊｝...");
+    MsgDisp("主人公","｛Kazama＊＊｝...");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0,1);
@@ -62,7 +62,7 @@ other than you and that dress.");
     MsgDisp("Kazama","Thanks for coming in that beautiful dress
 for me.");
     MsgDisp("主人公","Umm...
-｛風真＊＊｝?");
+｛Kazama＊＊｝?");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,1);
@@ -77,7 +77,7 @@ for me.");
     VoicePlay("R040100001_01_080");
     MsgDisp("Kazama","Don't get cocky!");
     MsgDisp("主人公","(Hehe!
-｛風真＊＊｝ seems to really like my
+｛Kazama＊＊｝ seems to really like my
 dress.)");
     break ;
     default :

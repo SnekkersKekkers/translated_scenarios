@@ -111,7 +111,7 @@ about different things, OK?");
         VoicePlay("B040403302_04_100");
         MsgDisp("Nanatsumori","...Thank you.
 Hehe.");
-        MsgDisp("主人公","(｛七ツ森＊｝ seems happy.)");
+        MsgDisp("主人公","(｛Nanatsumori＊｝ seems happy.)");
         break ;
         default :
         DbgAssert(1);

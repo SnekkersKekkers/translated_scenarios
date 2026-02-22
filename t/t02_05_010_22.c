@@ -8,7 +8,7 @@ MsgDisp("Hiiragi","...! What does this mean?");
 ChEyeOpenLevel(5,0);
 Wait(8,0);
 ChEye(5,3);
-MsgDisp("主人公","I also like ｛柊＊＊＊｝.");
+MsgDisp("主人公","I also like ｛Hiiragi＊＊＊｝.");
 ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

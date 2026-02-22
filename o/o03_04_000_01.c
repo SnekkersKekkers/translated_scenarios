@@ -24,7 +24,7 @@ We weren't really in sync...)");
     MsgDisp("Nanatsumori","You won't get first if you're with me.
 Remember that next time.");
     MsgDisp("主人公","I thought that I would be in sync with
-you, ｛七ツ森＊｝...
+you, ｛Nanatsumori＊｝...
 It was close.");
     ChEye(4,2);
     ChMouth(4,0);
@@ -70,7 +70,7 @@ Sorry.");
     VoicePlay("O030400001_04_070");
     MsgDisp("Nanatsumori","I'll become a man you can rely on in other
 areas.");
-    MsgDisp("主人公","(｛七ツ森＊｝...
+    MsgDisp("主人公","(｛Nanatsumori＊｝...
 But, it really is a shame.)");
     break ;
     default :

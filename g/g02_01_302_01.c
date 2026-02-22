@@ -22,7 +22,7 @@ MsgDisp("Kazama","Though a big preamble to that is that it
 won't matter if you don't train your eyes
 beforehand.");
 MsgDisp("主人公","But your eyes are never wrong, are they,
-｛風真＊＊｝?");
+｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -71,7 +71,7 @@ ChMotion(1,0);
 VoicePlay("G020130201_01_090");
 MsgDisp("Kazama","It's okay if no one else knows.
 It's enough if I know.");
-MsgDisp("主人公","(｛風真＊＊｝...
+MsgDisp("主人公","(｛Kazama＊＊｝...
 That makes me happy, but it's embarrassing
 too.)");
 BGMStop();

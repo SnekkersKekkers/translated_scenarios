@@ -1,6 +1,6 @@
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, ｛七ツ森＊｝.");
+MsgDisp("主人公","Oh, ｛Nanatsumori＊｝.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChNanaType(0);
@@ -11,4 +11,4 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);
 SEWait();
-MsgDisp("主人公","(｛七ツ森＊｝ looked mad...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ looked mad...)");

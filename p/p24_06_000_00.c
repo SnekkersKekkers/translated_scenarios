@@ -42,7 +42,7 @@ VoicePlay("P240600000_06_030");
 MsgDisp("Himuro","However, since the day I was called by the
 Celestial Emperor and the day I first laid
 eyes on you, everything changed.");
-MsgDisp("主人公","(｛氷室＊＊｝'s not wearing his glasses—so
+MsgDisp("主人公","(｛Himuro＊＊｝'s not wearing his glasses—so
 close!
 This is nothing like what we practiced!)");
 StlEye(6,0,0);
@@ -111,7 +111,7 @@ VoicePlay("P240600000_06_100");
 MsgDisp("Himuro","Not so much ad-libbing, but more like my
 true feelings...");
 MsgDisp("主人公","Hehe, for you to incorporate that, isn't
-that amazing, ｛氷室＊＊｝?");
+that amazing, ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -122,7 +122,7 @@ Let's leave it at that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","(｛氷室＊＊｝)?");
+MsgDisp("主人公","(｛Himuro＊＊｝)?");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(6,0);

@@ -50,7 +50,7 @@ ChCheek(5,5);
 VoicePlay("B360550401_05_060");
 MsgDisp("Hiiragi","For me, that's you.
 There's no one else.");
-MsgDisp("主人公","｛柊＊＊＊｝...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,3);
 ChMotion(5,4);
 ChCheek(5,0);
@@ -58,7 +58,7 @@ VoicePlay("B360550401_05_070");
 MsgDisp("Hiiragi","I'm sorry to Inori-kun and Mikage-sensei.
 Will you forgive me?");
 MsgDisp("主人公","Yeah.
-Thank you, ｛柊＊＊＊｝.");
+Thank you, ｛Hiiragi＊＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

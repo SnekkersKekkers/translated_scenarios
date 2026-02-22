@@ -25,7 +25,7 @@ ChEyeOpenLevel(8,0);
 VoicePlay("D010800100_08_020");
 MsgDisp("Shirahane","Thank'ya for coming～!");
 SEStop("EV_SE_589",2);
-MsgDisp("主人公","(Hehe, ｛大地＊＊｝ is doing well today,
+MsgDisp("主人公","(Hehe, ｛Daichi＊＊｝ is doing well today,
 too.)");
 MsgClose();
 ScrFadeOut(0);
@@ -93,14 +93,14 @@ ChOpen(8,35,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010800100_08_090");
 MsgDisp("Shirahane","Thank ya for coming～!");
-MsgDisp("主人公","｛大地＊＊｝ was popular today, huh?");
+MsgDisp("主人公","｛Daichi＊＊｝ was popular today, huh?");
 ChEye(8,2);
 ChMouth(8,3);
 VoicePlay("D010800100_08_100");
 MsgDisp("Shirahane","It's not like that.
 Those people c'mere all the time.");
 MsgDisp("主人公","But it looked like they came here just to
-see you, ｛大地＊＊｝.");
+see you, ｛Daichi＊＊｝.");
 ChEye(8,0);
 ChMouth(8,2);
 ChMotion(8,2,1);
@@ -109,7 +109,7 @@ MsgDisp("Shirahane","Now that I think about it, everyone always
 comes over during my shift.
 ...I guess they wanted to see me?");
 MsgDisp("主人公","Hehe, I'm sure that's it.
-Because ｛大地＊＊｝ is such a famous
+Because ｛Daichi＊＊｝ is such a famous
 salesman.");
 ChEye(8,3);
 ChMouth(8,4);
@@ -120,8 +120,8 @@ VoicePlay("D010800100_08_120");
 MsgDisp("Shirahane","You're praising me too much～
 Saying I'm some popular salesman!");
 MsgDisp("主人公","(Hehe! Customers really seem to love
-｛大地＊＊｝. His popularity is a bit
-different from ｛風真＊＊｝'s , though.)");
+｛Daichi＊＊｝. His popularity is a bit
+different from ｛Kazama＊＊｝'s , though.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

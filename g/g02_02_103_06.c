@@ -13,7 +13,7 @@ VoicePlay("G020210306_02_010");
 MsgDisp("Sassa","Yeah, it's like a hot spring for the
 fireflies.");
 MsgDisp("主人公","I see.
-You do love baths, ｛颯砂＊＊｝.");
+You do love baths, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

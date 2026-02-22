@@ -5,7 +5,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛七ツ森＊｝, do you have plans for
+MsgDisp("主人公","｛Nanatsumori＊｝, do you have plans for
 spring break?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -42,4 +42,4 @@ MsgDisp("Nanatsumori","Well, I guess gender has nothing to do
 with it.");
 MsgDisp("主人公","(Uh...
 Even then, I'm no match for
-｛七ツ森＊｝...)");
+｛Nanatsumori＊｝...)");

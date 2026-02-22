@@ -7,7 +7,7 @@ ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("B040222102_02_000");
 MsgDisp("Sassa","You like the view from here don't you?");
-MsgSel("Yeah, because Habataki City looks beautiful","It's only natural as a Habataki citizen!","If I can watch with ｛颯砂＊＊｝, anywhere is okay▼");
+MsgSel("Yeah, because Habataki City looks beautiful","It's only natural as a Habataki citizen!","If I can watch with ｛Sassa＊＊｝, anywhere is okay▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -87,7 +87,7 @@ Rotations of a Year\" together.");
         MsgDisp("Sassa","A combination and order that fulfills both
 efficiency and satisfaction...");
         MsgDisp("主人公","(Ummm...
-｛颯砂＊＊｝, this is beginning to look like
+｛Sassa＊＊｝, this is beginning to look like
 a training program.)");
         break ;
         default :

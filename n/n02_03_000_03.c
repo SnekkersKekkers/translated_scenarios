@@ -11,7 +11,7 @@ switch (ChPrmGet(3,6)){
     ChEyeOpenLevel(3,6);
     VoicePlay("N020300003_03_000");
     MsgDisp("Honda","Oof...");
-    MsgDisp("主人公","Ah, ｛本多＊＊｝.
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 What's wrong?");
     ChEye(3,4);
     ChMouth(3,0);
@@ -46,7 +46,7 @@ column. I do that a lot.");
     VoicePlay("N020300003_03_040");
     MsgDisp("Honda","Huh∋
 Am I wrong∋");
-    MsgDisp("主人公","(｛本多＊＊｝ believes that my results are
+    MsgDisp("主人公","(｛Honda＊＊｝ believes that my results are
 unbelievable...
 I've got to study harder...)");
     break ;
@@ -57,7 +57,7 @@ I've got to study harder...)");
     ChMotion(3,4);
     VoicePlay("N020300003_03_050");
     MsgDisp("Honda","Hey, am I taking away your study time?");
-    MsgDisp("主人公","Huh, ｛本多＊＊｝...?");
+    MsgDisp("主人公","Huh, ｛Honda＊＊｝...?");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,0);
@@ -111,7 +111,7 @@ stop me and let me know!");
     VoicePlay("N020300003_03_130");
     MsgDisp("Honda","I'll look into how I can teach you.
 I want you to see how fun it is to learn.");
-    MsgDisp("主人公","(Thank you, ｛本多＊＊｝.
+    MsgDisp("主人公","(Thank you, ｛Honda＊＊｝.
 I've got to study much harder...)");
     break ;
     default :

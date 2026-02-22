@@ -2,7 +2,7 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛七ツ森＊｝.");
+    MsgDisp("主人公","｛Nanatsumori＊｝.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
@@ -20,7 +20,7 @@ He doesn't seem to like it when I call him
 that.)");
     break ;
     case 3:
-    MsgDisp("主人公","｛七ツ森＊｝.");
+    MsgDisp("主人公","｛Nanatsumori＊｝.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
@@ -45,7 +45,7 @@ that.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛七ツ森＊｝.");
+    MsgDisp("主人公","｛Nanatsumori＊｝.");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);
     ChNanaType(0);
