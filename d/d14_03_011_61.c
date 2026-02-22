@@ -4,7 +4,7 @@ ChMotion(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140301161_03_000");
 MsgDisp("Honda","Yay, now we're guaranteed to get full
-narks on our test!");
+marks on our test!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
