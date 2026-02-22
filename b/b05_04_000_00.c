@@ -112,7 +112,7 @@ If he was the real deal, he wouldn't stand
 like thatー.");
 VoicePlay("B050400000_47_030");
 MsgDisp("Woman Customer A","Got it, he's Nana's fan!
-' There are quite a lot of guys who copy
+There are quite a lot of guys who copy
 Nana's hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
 MsgDisp("Woman Customer B","That's right.
