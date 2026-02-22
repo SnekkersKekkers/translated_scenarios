@@ -5,7 +5,7 @@ ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040124102_01_000");
 MsgDisp("Kazama","There's always a nice breeze blowing here.");
-MsgSel("I'm sure it feels nice for the animals too","*Sniff, sniff*, I smell something...","The windmills are spinning too");
+MsgSel("I'm sure it feels nice for the animals too","*Sniff, sniff*, I smell something...","The windmills are spinning too!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -27,7 +27,7 @@ Another time?");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(...It can't be helped.
-I'll go home alone");
+I'll go home alone.)");
     break ;
     case 4:
     case 5:

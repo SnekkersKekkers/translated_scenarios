@@ -62,7 +62,7 @@ Didn't you already know?");
         ChMotion(2,4);
         ChCheek(2,10);
         VoicePlay("B040221102_02_050");
-        MsgDisp("Sassa","You too, are the kindest person in my
+        MsgDisp("Sassa","You, too, are the kindest person in my
 eyes.");
         MsgDisp("主人公","Eh....");
         SEPlay("EV_SE_537");

@@ -79,7 +79,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
 MsgDisp("主人公","(...Hey, that smells good...
-Ah, it's a castella tasting!)");
+Ah, castella samples!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

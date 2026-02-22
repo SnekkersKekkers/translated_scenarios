@@ -108,7 +108,7 @@ Now...please listen to what I really mean.");
         MsgDisp("主人公","Yeah.");
         ChMotion(4,1,1);
         VoicePlay("B040430002_04_110");
-        MsgDisp("Nanatsumori","Packed inside this little room, are many
+        MsgDisp("Nanatsumori","Packed inside this little room are many
 things that are important to me.");
         ChEye(4,4);
         ChMouth(4,0);

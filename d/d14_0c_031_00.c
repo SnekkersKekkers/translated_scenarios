@@ -76,7 +76,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C03100_06_020");
 MsgDisp("Himuro","I don't really feel like eating anymore...");
-MsgDisp("主人公","(｛氷室＊＊｝ weakenly looks at
+MsgDisp("主人公","(｛氷室＊＊｝ weakly looks at
 ｛御影＊＊｝ who is growing a baby
 eggplant ｛柊＊＊＊｝...Hehe, what an
 interesting picture.)");

@@ -51,7 +51,7 @@ ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300604_03_050");
-MsgDisp("Honda","Beep beep!
+MsgDisp("Honda","Ding ding!
 That's right!
 I cut my hair yesterday.");
 ChEye(3,0);

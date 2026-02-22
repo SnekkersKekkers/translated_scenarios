@@ -43,7 +43,7 @@ StlEyeOpenLevel(4,5,1);
 VoicePlay("B050400200_04_030");
 MsgDisp("Nanatsumori","What.");
 MsgDisp("主人公","This is the first time you've taken off
-your glasses with that hairstyle right?");
+your glasses with that hairstyle, right?");
 StlEyeOpenLevel(4,0,1);
 VoicePlay("B050400200_04_040");
 MsgDisp("Nanatsumori","That's right.
