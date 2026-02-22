@@ -47,7 +47,7 @@ move again.");
         ChMotion(4,1,1);
         VoicePlay("B040406202_04_030");
         MsgDisp("Nanatsumori","Wait a minute.
-Your eyes are kinda scary");
+Your eyes are kinda scary!");
         MsgDateResultDisp();
         break ;
         case 4:
