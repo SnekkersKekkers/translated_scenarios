@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040406202_04_000");
 MsgDisp("Nanatsumori","I could stay here all day and never get
 bored.");
-MsgSel("It's a bit chilly in a swim suit, isn't it?","You mightneed a table and chair","I'll join you▼");
+MsgSel("It's a bit chilly in a swim suit, isn't it?","You might need a table and chair","I'll join you▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
