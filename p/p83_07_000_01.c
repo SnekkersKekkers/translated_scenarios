@@ -44,7 +44,7 @@ Well, then.");
     ChClose(7);
     MsgDisp("主人公","Eh, ｛御影＊＊｝ ——");
     VoicePlay("P830700001_48_000");
-    MsgDisp("School Girl B","Exーcuse me.
+    MsgDisp("School Girl B","Excuse me!
 Could I get two rolls of packing tape?");
     MsgDisp("主人公","Ah, yes!
 Please wait a moment.");
