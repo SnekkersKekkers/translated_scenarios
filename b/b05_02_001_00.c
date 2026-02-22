@@ -45,7 +45,7 @@ SEStop("EV_SE_AMUSE_008",1);
 MsgDisp("","(Foooー)");
 VoicePlay("B050200100_02_040");
 MsgDisp("Sassa","Uwaa∋");
-MsgDisp("主人公","Kyaa!");
+MsgDisp("主人公","Kyaaaaa!");
 SEPlay("EV_SE_603");
 SEWait();
 Wait(60,0);
