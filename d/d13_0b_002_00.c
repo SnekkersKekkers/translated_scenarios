@@ -77,7 +77,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D130B00200_04_040");
 MsgDisp("Nanatsumori","Ahー...I see. That guy's warning us all
-the way from england.");
+the way from England.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
