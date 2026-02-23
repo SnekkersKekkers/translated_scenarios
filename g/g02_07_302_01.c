@@ -5,8 +5,8 @@ VoicePlay("G020730201_07_000");
 MsgDisp("Mikage","You're get along with the Hanatsubaki's,
 right?");
 MsgDisp("主人公","Yes. ｛みちる＊｝ and ｛ひかる＊｝
-are always supporting me and teach me all
-sorts of things.");
+are always supporting me and teaching me 
+all sorts of things.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
