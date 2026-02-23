@@ -17,7 +17,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_120");
 MsgDisp("Kazama","Being able to do something is different to
 liking it.");
-MsgDisp("主人公","Is that how it is.");
+MsgDisp("主人公","Is that how it is?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
