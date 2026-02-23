@@ -22,5 +22,5 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Shoot∈ There was general practice with
 the brass band today...)");
-MsgDisp("","(I was kicked off the brass band.)");
+MsgDisp("","(I was kicked out of the brass band.)");
 MsgClose();
