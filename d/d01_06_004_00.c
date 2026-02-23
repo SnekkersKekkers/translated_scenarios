@@ -23,7 +23,7 @@ Time for payback!");
 SEPlay("EV_SE_632");
 SEWait();
 VoicePlay("D010600400_41_010");
-MsgDisp("Male Student B","Haha, no shot-wait Look out!");
+MsgDisp("Male Student B","Haha, no shot— Wait, look out!");
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝ ∈");
 ChEye(6,0);
 ChMouth(6,0);
