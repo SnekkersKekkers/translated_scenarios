@@ -137,7 +137,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D010600400_06_120");
-MsgDisp("Himuro","It's fine isn't it?
+MsgDisp("Himuro","It's fine, isn't it?
 We made them just now.");
 MsgDisp("主人公","Ehh?");
 BGMStop();
