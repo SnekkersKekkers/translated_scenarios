@@ -14,6 +14,6 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","Shoot!
 I was careless...");
-MsgDisp("","(I was kicked off the rhythmic gymnastics
-club.)");
+MsgDisp("","(I was kicked out of the rhythmic 
+gymnastics club.)");
 MsgClose();
