@@ -6,7 +6,7 @@ ScrFadeIn(0);
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B150100200_01_000");
-MsgDisp("Kazama","Phew..");
+MsgDisp("Kazama","Phew...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
