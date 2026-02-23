@@ -48,7 +48,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010100500_01_040");
-MsgDisp("Kazama","But you came for the food right?
+MsgDisp("Kazama","But you came for the food, right?
 Come on in, I was just finishing up.");
 MsgClose();
 ScrFadeOut(0,0);
