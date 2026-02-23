@@ -3,7 +3,7 @@ BGOpen("ad131",0);
 ChLayout(1);
 BGMPlay("BGM_XMAS_TRHEE",0.01);
 ScrFadeIn(0);
-MsgDisp("","\"It was my last christmas eve of high
+MsgDisp("","\"It was my last Christmas Eve of high
 school.\"");
 MsgDisp("","Grandpa went to a meeting for the
 shopping district.");
