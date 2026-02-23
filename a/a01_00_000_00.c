@@ -126,7 +126,7 @@ VoicePlay("A010000000_01_110");
 MsgDisp("Ryota","It's fine. In fact, I made it using the
 same method as the pinwheels in the
 treasure room at Habataki Castle.");
-MsgDisp("主人公","...the treasure room pinwheels?");
+MsgDisp("主人公","...The treasure room pinwheels?");
 VoicePlay("A010000000_01_120");
 MsgDisp("Ryota","Yeah. It seems that they're castle
 treasures, and orange like the setting
