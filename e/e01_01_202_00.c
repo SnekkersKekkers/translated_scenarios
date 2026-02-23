@@ -172,6 +172,6 @@ BGMStop();
 ChClose(2);
 MsgDisp("主人公","(The expression on ｛Sassa＊＊｝'s face just
 now, it surprised me a little...Maybe I
-understand ｛Kazama＊＊｝'s feelings a bit!')");
+understand ｛Kazama＊＊｝'s feelings a bit!)");
 MsgClose();
 ScrFadeOut(0,0);
