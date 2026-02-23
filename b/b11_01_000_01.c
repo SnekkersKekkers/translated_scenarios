@@ -25,7 +25,7 @@ ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110100001_34_020");
 MsgDisp("Guy","This body is an avatar.
-NAmes have no meaning.");
+Names have no meaning.");
 MsgDisp("主人公","???");
 ChEye(34,0);
 ChMouth(34,0);
