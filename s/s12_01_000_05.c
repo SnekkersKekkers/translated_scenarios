@@ -117,8 +117,8 @@ Yeah, that's it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Distance? What does he mean...This year,
-｛Kazama＊＊｝ and I, will graduate
+    MsgDisp("主人公","(Distance? What does he mean...? This year,
+｛Kazama＊＊｝ and I will graduate
 together...)");
     break ;
     default :
