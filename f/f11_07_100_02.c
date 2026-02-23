@@ -15,7 +15,7 @@ MsgDisp("Boy","Yippee!
 Quickly!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 SEWait();
-MsgDisp("主人公","(...zoo?)");
+MsgDisp("主人公","(...Zoo?)");
 MsgClose();
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
