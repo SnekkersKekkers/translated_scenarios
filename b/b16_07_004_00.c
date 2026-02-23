@@ -5,7 +5,8 @@ ScrFadeIn(0);
 VoicePlay("B160700400_07_000");
 MsgDisp("Mikage","Again?
 You're testing me, aren't you?");
-MsgSel("What would that be?","It's an endurance test, ｛Mikage＊＊｝?");
+MsgSel("What would that be?","It's an endurance test, ｛Mikage＊＊｝?
+test!");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(7,2);
