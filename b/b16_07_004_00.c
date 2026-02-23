@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160700400_07_000");
 MsgDisp("Mikage","Again?
-You're testing me, aren't you?");
+You're testing me, aren't you? test");
 MsgSel("What would that be?","It's an endurance test, ｛Mikage＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
