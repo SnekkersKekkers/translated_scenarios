@@ -108,7 +108,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B050100300_01_100");
-MsgDisp("Kazama","I need to reflect on my wicket thoughts.");
+MsgDisp("Kazama","I need to reflect on my wicked thoughts.");
 ChEye(1,2);
 ChMouth(1,4);
 ChMotion(1,4);
