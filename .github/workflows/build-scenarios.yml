@@ -309,10 +309,10 @@ jobs:
         $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes"
         Write-Host "Found $($bytesFiles.Count) .bytes files"
         
-        # Get already cached asset bundles
+        # Get already cached asset bundles (with their timestamps)
         $cachedBundles = @{}
         Get-ChildItem -Path "output/assetbundles" -Recurse -Filter "*.assetbundle" -ErrorAction SilentlyContinue | ForEach-Object {
-          $cachedBundles[$_.BaseName] = $true
+          $cachedBundles[$_.BaseName] = $_
         }
         Write-Host "Found $($cachedBundles.Count) cached asset bundles"
         
@@ -320,15 +320,19 @@ jobs:
         $workItems = @()
         $skipped = 0
         $cached = 0
+        $stale = 0
         
         foreach ($bytesFile in $bytesFiles) {
           $name = $bytesFile.BaseName
           $folder = if ($name -match '^([a-z]+)') { $matches[1] } else { "other" }
           
           if ($availableBundles.ContainsKey($name)) {
-            if ($cachedBundles.ContainsKey($name)) {
+            $cachedBundle = $cachedBundles[$name]
+            # Only use cache if bundle is NEWER than the bytes file (bytes not recompiled)
+            if ($cachedBundle -and $cachedBundle.LastWriteTime -ge $bytesFile.LastWriteTime) {
               $cached++
             } else {
+              if ($cachedBundle) { $stale++ }
               $workItems += [PSCustomObject]@{
                 Name = $name
                 Folder = $folder
@@ -341,7 +345,7 @@ jobs:
           }
         }
         
-        Write-Host "To process: $($workItems.Count) files"
+        Write-Host "To process: $($workItems.Count) files (including $stale stale cache entries)"
         Write-Host "From cache: $cached"
         Write-Host "Skipped (no matching original): $skipped"
         
