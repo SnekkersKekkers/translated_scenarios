@@ -25,7 +25,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B070501000_05_020");
 MsgDisp("Hiiragi","After that, I've been thinking about it in
-my own way.
+my own way. test
 ...Even now.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,0);
