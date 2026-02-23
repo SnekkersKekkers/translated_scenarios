@@ -9,7 +9,7 @@ MsgDisp("","Grandpa went to a meeting for the
 shopping district.");
 MsgDisp("","Thanks to that, I got to run the
 antique shop with her.");
-MsgDisp("","The dream I had on christmas eve
+MsgDisp("","The dream I had on Christmas Eve
 became reality.");
 MsgClear();
 BGOpen("ad130",0);
