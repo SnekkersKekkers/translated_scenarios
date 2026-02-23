@@ -56,7 +56,7 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("B070501000_05_060");
 MsgDisp("Hiiragi","Now, when I speak to you, it feels as
-those I have heard those words before.");
+though I have heard those words before.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);
