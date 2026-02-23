@@ -6,7 +6,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("主人公","So...");
     MsgDisp("主人公","It says...\"Michiru and Hikaru offered to
 trade me a picture of you in pajamas for
-the final exam questions.▼～");
+the final exam questions.▼～\"");
     MsgDisp("主人公","(Eeeh∋
 How did those two even obtain such a
 photo...!)");
