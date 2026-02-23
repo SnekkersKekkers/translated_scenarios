@@ -21,7 +21,7 @@ I didn't live overseas 10 years for
 nothing.");
 MsgDisp("主人公","I see.
 British people are really physically
-affectionate aren't they?");
+affectionate, aren't they?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
