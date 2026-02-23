@@ -29,7 +29,7 @@ together?");
         MsgDisp("Hikaru","Oh, Mari!
 Going home now?");
         MsgDisp("主人公","Yes.
-If it's alright, why dont' we go home
+If it's alright, why don't we go home
 together?");
         break ;
         case 4:
