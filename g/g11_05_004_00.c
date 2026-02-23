@@ -74,7 +74,7 @@ SEPlay("EV_SE_712");
 VoicePlay("G110500400_05_050");
 MsgDisp("Hiiragi","Because, when I see you, you're calmly
 facing the canvas. Or happily hanging out
-with the Hanatsubakis──");
+with the Hanatsubaki twins──");
 VoicePlay("G110500400_05_060");
 MsgDisp("Hiiragi","You're good at going in between your own
 world and the world outside.");
