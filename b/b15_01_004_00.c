@@ -51,7 +51,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B150100400_01_050");
 MsgDisp("Kazama","I feel like I've reached the other side of
-impulse");
+impulse.");
 MsgDisp("主人公","The other side of impulse?");
 ChEye(1,0);
 ChMouth(1,3);
