@@ -206,8 +206,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("R080100000_01_130");
-MsgDisp("Kazama","Don't you think you are too dressed up to
-be an antique owner's wife, today?");
+MsgDisp("Kazama","Don't you think you are too dressed up 
+today to be an antique owner's wife?");
 MsgDisp("主人公","Huh...a wife?");
 MsgClose();
 ChClose(1,0,30);
