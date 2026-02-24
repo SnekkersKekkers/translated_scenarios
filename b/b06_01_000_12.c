@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     ChCheek(1,0);
     ScrFadeIn(0);
     VoicePlay("B060100012_01_000");
-    MsgDisp("Kazama","You live near anyways, so I'll walke you
+    MsgDisp("Kazama","You live near anyways, so I'll walk you
 home.");
     MsgDispSksp(0);
     break ;
