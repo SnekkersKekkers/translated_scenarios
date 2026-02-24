@@ -77,7 +77,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is amazing. even though he's
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is amazing. Even though he's
 so busy...I would like to be able to help
 out any way that I can.)");
 MsgClose();
