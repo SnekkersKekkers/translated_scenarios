@@ -30,7 +30,7 @@ ChMotion(1,3);
 VoicePlay("B070100000_01_140");
 MsgDisp("Kazama","Ah, there is one thing.
 I like sumo, it's interesting.");
-MsgDisp("主人公","Eh, ...
+MsgDisp("主人公","Eh...
 ｛Kazama＊＊｝ does sumo?");
 ChEye(1,2);
 ChMouth(1,0);
