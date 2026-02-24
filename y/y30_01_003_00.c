@@ -23,7 +23,7 @@ VoicePlay("Y300100300_01_010");
 MsgDisp("Kazama","Grandpa, you're late.");
 MsgClear();
 VoicePlay("Y300100300_36_010");
-MsgDisp("Ryota's Grandpa","You were too.");
+MsgDisp("Ryota's Grandpa","\"You were too.\"");
 MsgDisp("","He smiled, with one eye drooping
 slightly. Seems like he already knew
 she had come here...");
