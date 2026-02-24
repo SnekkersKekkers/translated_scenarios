@@ -60,10 +60,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,2);
 VoicePlay("A020310000_03_080");
-MsgDisp("Honda","...or maybe not, I don't really know,
-but classroom windows are basically
-designed to be on the left side of the
-room.");
+MsgDisp("Honda","...or maybe not, I don't really know, but 
+classroom windows are basically designed
+to be on the left side of the room.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
