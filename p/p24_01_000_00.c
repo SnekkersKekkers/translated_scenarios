@@ -165,7 +165,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Kazama＊＊｝, that was the wrong foot
+MsgDisp("主人公","｛Kazama＊＊｝, that was the wrong foot,
 right?
 I was surprised!");
 ChEye(1,2);
