@@ -34,8 +34,8 @@ uncomfortable. I knew that
 intuitively.");
 MsgClear();
 VoicePlay("Y300200100_02_000");
-MsgDisp("Sassa","(...This way, I'm not an idiot, but just
-an unlikable person...)");
+MsgDisp("Sassa","(...This way, I'm not an idiot, but
+just an unlikable person...)");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
