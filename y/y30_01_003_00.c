@@ -47,7 +47,7 @@ he slowly shook his head and went
 back to the main room.");
 VoicePlay("Y300100300_36_030");
 MsgDisp("Ryota's Grandpa","\"The weight of the scales. It's not
-just that is it? It's a disservice to
+just that, is it? It's a disservice to
 her. You should settle this on your
 own.");
 MsgClear();
