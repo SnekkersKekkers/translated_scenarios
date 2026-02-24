@@ -36,7 +36,7 @@ MsgDisp("Ryota's Grandpa","\"Many decades ago, I also did the
 same thing. But it was after I had
 clearly decided my own path.\"");
 MsgDisp("","He directly addressed what had been
-on my mind");
+on my mind.");
 VoicePlay("Y300100300_01_040");
 MsgDisp("Kazama","\"Sorry, this doesn't mean I'm
 weighing out Grandpa's work and Dad's
