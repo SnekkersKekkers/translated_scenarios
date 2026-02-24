@@ -45,7 +45,7 @@ together?");
         MsgDisp("Hikaru","Mari!
 What a coincidence～");
         MsgDisp("主人公","Hehe.
-If it's alright, why dont' we go home
+If it's alright, why don't we go home
 together?");
         break ;
         default :
