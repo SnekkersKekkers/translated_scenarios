@@ -104,7 +104,9 @@ When it rings again, let's come take a
 look!");
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","Ever since we found the church bell, we'd stop by whenever it rang. But after that day, it never rang again.");
+MsgDisp("主人公","Ever since we found the church bell,
+we'd stop by whenever it rang. But after
+that day, it never rang again.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
