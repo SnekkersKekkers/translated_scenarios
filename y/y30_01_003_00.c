@@ -13,7 +13,7 @@ MsgDisp("","The dream I had on Christmas Eve
 became reality.");
 MsgClear();
 BGOpen("ad130",0);
-MsgDisp("","After I saw her off, and returned to
+MsgDisp("","After I saw her off and returned to
 the store, Grandpa had already
 returned.");
 VoicePlay("Y300100300_36_000");
