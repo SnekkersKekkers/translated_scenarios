@@ -78,8 +78,7 @@ ChMotion(3,4);
 VoicePlay("A020310000_03_100");
 MsgDisp("Honda","Mm-hm, it's because it's hard to see your
 notebook when the shadow of your hand
-holding your pen is coming from the right
-side.");
+holding your pen is coming from the right.");
 MsgDisp("主人公","It was designed with the students in mind.
 It's something so familiar, yet I didn't
 notice at all.");
