@@ -13,7 +13,7 @@ BGOpen("ad210",0);
 ScrFadeIn(0);
 VoicePlay("Y300200100_40_000");
 MsgDisp("Track Club Member","\"Listen, this is the last year for
-the seniors, If you act like that
+the seniors. If you act like that
 after winning, the losers can't rest
 in peace.\"");
 MsgDisp("","This is the first time I knew that
