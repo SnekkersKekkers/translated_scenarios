@@ -23,7 +23,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_130");
-MsgDisp("Kazama","Yes it is.");
+MsgDisp("Kazama","Yes, it is.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
