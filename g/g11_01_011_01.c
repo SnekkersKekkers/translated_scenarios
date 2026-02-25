@@ -63,7 +63,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110101101_01_050");
 MsgDisp("Kazama","Wait a second. I'm not the one who decides
-your wages, sop there's no need to be so
+your wages, so there's no need to be so
 serious about it.");
 BGMStop();
 MsgClose();
