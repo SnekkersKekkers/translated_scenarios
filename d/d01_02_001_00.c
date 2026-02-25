@@ -30,7 +30,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("D010200100_02_010");
 MsgDisp("Sassa","It's not like that...
-I also have to try my best you know...");
+I also have to try my best, you know...");
 VoicePlay("D010200100_40_020");
 MsgDisp("Member","That's all you need to win, huh?
 That makes us look like idiots.");
