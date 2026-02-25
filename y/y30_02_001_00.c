@@ -2,8 +2,8 @@ MsgType(3);
 BGOpen("ex990",0);
 ScrFadeIn(0);
 BGMPlay("BGM_C02_SASSA_C",0.01);
-MsgDisp("","I wanted to win all the events. But,
-I didn't. So, I'm regretful That's
+MsgDisp("","I wanted to win all the events. But
+I didn't. So, I'm regretful. That's
 all. It's simple.");
 MsgDisp("","But...");
 MsgClear();
