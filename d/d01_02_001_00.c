@@ -53,8 +53,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","The final event, the 1500 meter race...
 ｛Sassa＊＊｝, good luck!");
 VoicePlay("D010200100_40_030");
-MsgDisp("Member","With such a large gap in scores, even if
-he just runs however, he'll win.");
+MsgDisp("Member","With such a large gap in scores, no
+matter how he runs, he'll win.");
 MsgDisp("主人公","What...?");
 VoicePlay("D010200100_40_040");
 MsgDisp("Member","That guy will win no matter what.
