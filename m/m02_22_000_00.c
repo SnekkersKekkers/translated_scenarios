@@ -25,7 +25,7 @@ VoicePlay("M022200000_22_040");
 MsgDisp("Hikaru","So...
 Get better fast.
 Let's meet at school again.");
-MsgDisp("主人公","Mm!");
+MsgDisp("主人公","Okay!");
 VoicePlay("M022200000_22_050");
 MsgDisp("Hikaru","Haa...Thank God. I got to hear Mari
 sounding healthy. It's like Hikaru can
