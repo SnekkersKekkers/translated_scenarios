@@ -31,7 +31,8 @@ VoicePlay("A020601000_06_030");
 MsgDisp("Himuro?","Or should I ask you first?
 I know exactly what Habataki High students
 want to ask me.");
-MsgDisp("主人公","? I mean...Are you and Vice Principal
+MsgDisp("主人公","Huh? 
+I mean...Are you and Vice Principal
 Himuro——");
 ChEye(6,0);
 ChMouth(6,4);
