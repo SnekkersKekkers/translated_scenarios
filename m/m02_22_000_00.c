@@ -20,7 +20,7 @@ MsgDisp("主人公","I'm sorry I worried you?");
 VoicePlay("M022200000_22_030");
 MsgDisp("Hikaru","You did.
 Hikaru was really worried, you know?
-There's been no Mari, I miss her...");
+You haven't been around, I miss you...");
 VoicePlay("M022200000_22_040");
 MsgDisp("Hikaru","So...
 Get better fast.
