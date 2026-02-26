@@ -3,7 +3,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Huh...Feels good to get a little
 exercise!");
 VoicePlay("A020210000_02_000");
-MsgDisp("Sassa?","I think so too!");
+MsgDisp("Sassa?","I think so too! test");
 MsgDisp("主人公","What?");
 MsgClose();
 SEPlay("EV_SE_628");
