@@ -10,7 +10,7 @@ MsgDisp("主人公","Ah, ｛ひかる＊｝, what's up?");
 VoicePlay("M022200000_22_010");
 MsgDisp("Hikaru","Hikaru wanted to know if Mari's okay.
 Are you still sick?");
-MsgDisp("主人公","Uh-uh, I'm better now.
+MsgDisp("主人公","Nope, I'm better now.
 I think I'll be able to go to school next
 week.");
 VoicePlay("M022200000_22_020");
