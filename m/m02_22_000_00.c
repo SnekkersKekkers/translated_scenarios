@@ -6,7 +6,7 @@ SEWait();
 MsgDisp("主人公","Yes, hello.");
 VoicePlay("M022200000_22_000");
 MsgDisp("Hikaru","Hello, it's Hikaru.");
-MsgDisp("主人公","Ah, ｛ひかる＊｝, what's wrong??");
+MsgDisp("主人公","Ah, ｛ひかる＊｝, what's up?");
 VoicePlay("M022200000_22_010");
 MsgDisp("Hikaru","Hikaru wanted to know if Mari's okay.
 Are you still sick?");
