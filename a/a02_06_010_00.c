@@ -134,9 +134,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(｛Himuro＊＊｝...Seems like I should stay
-away from bringing up his relationship
-with the vice principal.)");
+MsgDisp("主人公","(｛Himuro＊＊｝...Seems like I should avoid
+bringing up his relationship with the 
+Vice Principal.)");
 ChPrmTblAdd(6,0);
 MsgClose();
 ScrFadeOut(0);
