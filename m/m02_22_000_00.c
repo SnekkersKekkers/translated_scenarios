@@ -23,8 +23,8 @@ Hikaru was really worried, you know?
 There's been no Mari, I miss her...");
 VoicePlay("M022200000_22_040");
 MsgDisp("Hikaru","So...
-Get better fast.
-Let's meet at school again.");
+Get well soon.
+So we can hang out at school again.");
 MsgDisp("主人公","Mm!");
 VoicePlay("M022200000_22_050");
 MsgDisp("Hikaru","Haa...Thank God. I got to hear Mari
