@@ -9,9 +9,9 @@ BGMPlay("BGM_C06_INORI_I",0.01);
 ChOpen(6,254,2,1,1,0,#1,0,0);
 VoicePlay("A020601000_06_000");
 MsgDisp("Himuro?","......");
-MsgDisp("主人公","(It's the guy who was talking to Vice
-Principal Himuro in the corridor ...I
-think?)");
+MsgDisp("主人公","(That's the guy who was talking to Vice
+Principal Himuro in the corridor, isn't 
+it?)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
