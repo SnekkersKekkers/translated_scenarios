@@ -32,9 +32,9 @@ sounding healthy. It's like Hikaru can
 feel better now too.");
 MsgDisp("主人公","Hehe, I'm glad.");
 VoicePlay("M022200000_22_060");
-MsgDisp("Hikaru","Ehe▼
-After all, Mari and Hikaru both gotta keep
-up the pep♪");
+MsgDisp("Hikaru","Hehe▼
+Hikaru and Mari need to stay happy and
+healthy together, after all♪");
 VoicePlay("M022200000_22_070");
 MsgDisp("Hikaru","Get lots of sleep tonight, okay?
 Take care, Mari.");
