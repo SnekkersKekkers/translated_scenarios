@@ -16,7 +16,7 @@ week.");
 VoicePlay("M022200000_22_020");
 MsgDisp("Hikaru","Really?
 Thank God...!");
-MsgDisp("主人公","I'm sorry I worried you?");
+MsgDisp("主人公","Sorry if I made you worry.");
 VoicePlay("M022200000_22_030");
 MsgDisp("Hikaru","You did.
 Hikaru was really worried, you know?
