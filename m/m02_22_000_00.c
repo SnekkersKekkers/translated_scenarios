@@ -36,7 +36,7 @@ MsgDisp("Hikaru","Ehe▼
 After all, Mari and Hikaru both gotta keep
 up the pep♪");
 VoicePlay("M022200000_22_070");
-MsgDisp("Hikaru","Then, get lots of sleep tonight.
+MsgDisp("Hikaru","Get lots of sleep tonight, okay?
 Take care, Mari.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
