@@ -49,10 +49,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,#1);
 VoicePlay("E010110000_01_060");
-MsgDisp("Kazama","I mean If you happen to see someone you're
-bound to be curious, right? So, I've been
-thinking about it all day and it got me
-really tired.");
+MsgDisp("Kazama","When you spot someone in the wild, it 
+makes you curious, right? Thinking about it
+all day made me tired.");
 MsgDisp("主人公","Errr...
 That's not my fault, is it?");
 ChEye(1,2);
