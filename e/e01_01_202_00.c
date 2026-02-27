@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","...Alright.
 Time to head home.
-Huh, is that...");
+Huh, is that...?");
 VoicePlay("E010120200_02_000");
 MsgDisp("Sassa?","Hey, you're wasting some good legs!
 Exercise a little.");
