@@ -88,7 +88,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("E010140000_01_040");
 MsgDisp("Kazama","Selfish as ever.");
 VoicePlay("E010140000_22_060");
-MsgDisp("Hikaru","Ah, my sis is probably gonna come and ask
+MsgDisp("Hikaru","Ah, big sis is probably gonna come and ask
 you, so keep Mari close to save you
 again～!♪");
 ChEye(1,2);
