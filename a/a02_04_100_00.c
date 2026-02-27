@@ -18,7 +18,7 @@ MsgDisp("Nanatsumori?","Something just blew over here.");
 SEPlay("EV_SE_662");
 SEWait();
 VoicePlay("A020410000_04_010");
-MsgDisp("Nanatsumori?","...Huh, isn't it Habatcher's.");
+MsgDisp("Nanatsumori?","...Huh, isn't that Habatcher?");
 SEPlay("EV_SE_593",0,0.8);
 Wait(50,0);
 VoicePlay("A020410000_04_020");
