@@ -95,8 +95,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("E010140000_01_050");
-MsgDisp("Kazama","Uh, is she for real.
-These Hanatsubakis are intense...
+MsgDisp("Kazama","Ugh, is she for real.
+The Hanatsubakis are intense...
 I'm counting on you when time comes!");
 MsgDisp("主人公","Yeah!
 But I think you'd make everyone happy by
