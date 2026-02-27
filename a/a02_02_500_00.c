@@ -135,7 +135,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("A020250000_01_060");
-MsgDisp("Kazama","You were looking for me weren't you?");
+MsgDisp("Kazama","You were looking for me, weren't you?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
