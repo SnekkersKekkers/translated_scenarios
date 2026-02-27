@@ -50,8 +50,9 @@ ChMotion(7,0);
 VoicePlay("G110700900_07_050");
 MsgDisp("Mikage","That's a good thing, though.
 That's what I like about you.");
-MsgDisp("主人公","(∈ It surprised me just now when he said
-'like'...)");
+MsgDisp("主人公","(∈
+The way he said "like" caught me
+completely off guard...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
