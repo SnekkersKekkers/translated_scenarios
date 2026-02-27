@@ -28,7 +28,7 @@ well.");
 go on a leisurely walk. 
 Next thing I knew, I was already here.");
     MsgDisp("主人公","You must be a fast walker.
-Well, let's be off then!");
+Well then, let's be off!");
     MsgDispSksp(1,0);
     ChMouth(5,3);
     ChMotion(5,3);
