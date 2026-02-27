@@ -7,7 +7,7 @@ VoicePlay("R080100000_01_000");
 VoiceEVSPlay(1);
 MsgDisp("Kazama","Okay, enjoy the Christmas party until the
 end, ｛主人公｝.");
-MsgDisp("主人公","Huh, what about you, ｛Kazama＊＊｝?");
+MsgDisp("主人公","Huh? What about you, ｛Kazama＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
