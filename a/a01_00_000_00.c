@@ -123,7 +123,7 @@ Here, you can have it!");
 SEPlay("EV_SE_552",0.4,0.1);
 Wait(10,0);
 BGOpen("pr009",0);
-MsgDisp("主人公","Really, I can have it?");
+MsgDisp("主人公","Really? Can I have it?");
 VoicePlay("A010000000_01_110");
 MsgDisp("Ryota","It's fine. In fact, I made it using the
 same method as the pinwheels in the
