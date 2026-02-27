@@ -14,8 +14,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_000");
     MsgDisp("Hiiragi","Yes, I finished my previous errand with
-haste.
-Waiting a little is no problem as well.");
+haste. Waiting a little is no problem as 
+well.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Hehe, I see.");
     MsgDispSksp(0);
