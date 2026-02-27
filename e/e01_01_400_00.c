@@ -47,7 +47,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("E010140000_01_020");
 MsgDisp("Kazama","I told you I don't wanna do it.");
 MsgDisp("主人公","Hey, ｛ひかる＊｝...
-You're bothering ｛Kazama＊＊｝, right?");
+I think you're bothering ｛Kazama＊＊｝...");
 ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,2,1);
