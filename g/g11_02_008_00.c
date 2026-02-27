@@ -13,7 +13,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G110200800_02_010");
 MsgDisp("Sassa","Yeah, it's all thanks to you.
-Join me for a cool down, run!");
+Join me for a cooldown run!");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
