@@ -69,7 +69,7 @@ ChMouth(1,4);
 ChMotion(1,0,1);
 VoicePlay("P240100000_01_050");
 MsgDisp("Kazama","Cinderella...
-...Please step forward.");
+...Please, step forward.");
 MsgDisp("主人公","Y-Yes, Prince.");
 MsgClose();
 ScrFadeOut(0,0);
