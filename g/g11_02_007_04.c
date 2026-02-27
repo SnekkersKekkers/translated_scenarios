@@ -62,7 +62,7 @@ MsgDisp("主人公","Eh...");
 VoicePlay("G110200704_34_040");
 MsgDisp("Member C","Three, two, three, fourー.");
 VoicePlay("G110200704_42_050");
-MsgDisp("Member A","five, six, seven, eight/");
+MsgDisp("Member A","five, six, seven, eightー.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
