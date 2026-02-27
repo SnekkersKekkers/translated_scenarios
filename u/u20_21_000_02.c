@@ -1,5 +1,5 @@
 SEPlay("EV_SE_083");
-MsgDisp("主人公","(\"I got the latest fashion magazine.");
+MsgDisp("主人公","(\"I got the latest fashion magazine. test");
 MsgDisp("主人公","(I feel like I've become more
 fashionable!)");
 MsgClose();
