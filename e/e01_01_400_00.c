@@ -28,7 +28,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010140000_01_010");
 MsgDisp("Kazama","You always show up at an incredible time.");
-MsgDisp("主人公","Ask him about what?...
+MsgDisp("主人公","Ask him about what...?
 What were you guys talking about?");
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);
