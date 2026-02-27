@@ -122,7 +122,7 @@ MsgDisp("Mikage","But I was about to start homeroom...");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("A020700000_32_030");
-MsgDisp("VP Himuro","\"Immediately.\"");
+MsgDisp("VP Himuro","Immediately.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
