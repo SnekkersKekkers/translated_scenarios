@@ -22,9 +22,9 @@ BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Good work. ｛Honda＊＊｝'s introductory text
+MsgDisp("主人公","Good work. ｛Honda＊＊｝'s promo
 was well-received, and even praised by the
-manager.'");
+manager.");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);
