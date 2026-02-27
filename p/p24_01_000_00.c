@@ -16,7 +16,7 @@ VoicePlay("P240100000_47_000");
 MsgDisp("Audience","Kazama-kun, look this way～!");
 SEStop("EV_SE_588",3);
 SEStop("EV_SE_858",2);
-MsgDisp("主人公","(｛Kazama＊＊｝ is really popular huh...
+MsgDisp("主人公","(｛Kazama＊＊｝ is really popular, huh...
 Ah, I need to concentrate more∈)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.7);
