@@ -24,8 +24,8 @@ well.");
     MsgClose();
     ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_010");
-    MsgDisp("Hiiragi","I left my home early because I intended to
-go on a leisurely walk.
+    MsgDisp("Hiiragi","I left home early because I intended to 
+go on a leisurely walk. 
 Next thing I knew, I was already here.");
     MsgDisp("主人公","You must be a fast walker.
 Well, let's be off then!");
