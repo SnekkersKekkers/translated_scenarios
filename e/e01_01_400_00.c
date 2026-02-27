@@ -52,9 +52,7 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,2,1);
 VoicePlay("E010140000_22_030");
-MsgDisp("Hikaru","Heh, really?? I thought he was playing
-hard to get, but I'd eventually get my
-\"oka～y\". Sorry about that.");
+MsgDisp("Hikaru","Ehh, really? Hikaru thought he was just\nplaying hard to get, but he'd eventually\nsay \"oka～y\". Sorry about that.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
