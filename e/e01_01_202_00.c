@@ -59,9 +59,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("E010120200_01_040");
 MsgDisp("Kazama","I was running after a client who forgot
-something. Since they got on the bus, I
-had no choice but to run after the bus,
-right?");
+something. They got on the bus, so I had 
+no choice but to run after it, right?");
 MsgDisp("主人公","Amazing!
 Did you manage to catch up to them?");
 ChEye(1,0);
