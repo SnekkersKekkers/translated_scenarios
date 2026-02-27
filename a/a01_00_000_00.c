@@ -73,7 +73,7 @@ SEPlay("EV_SE_794",0,0.5);
 SEWait();
 VoicePlay("A010000000_01_070");
 MsgDisp("Ryota","Ah...
-I guess we can't after all.");
+I guess we can't, after all.");
 SEPlay("EV_SE_702",0.2,0.4);
 Wait(140,0);
 BGOpen("pr005",0);
