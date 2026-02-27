@@ -72,7 +72,7 @@ MsgDisp("School Girl B","Kidding right?");
 VoicePlay("A020700000_42_060");
 MsgDisp("Male Student A","Seriously?");
 VoicePlay("A020700000_41_070");
-MsgDisp("Male Student B","Oh man, for real!");
+MsgDisp("Male Student B","Oh man, for real!?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
