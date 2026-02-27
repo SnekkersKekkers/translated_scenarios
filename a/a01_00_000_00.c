@@ -183,8 +183,8 @@ ScrFadeOut(0,1);
 BGOpen("pr010",0);
 ScrFadeIn(0);
 VoicePlay("A010000000_01_190");
-MsgDisp("Ryota","Eh! Well maybe, I guess that's true...?
-...So what did you wish for?");
+MsgDisp("Ryota","Eh!? Well, maybe, I guess that's true...?
+...So, what did you wish for?");
 MsgDisp("主人公","My wish?...It's a secret.
 It's embarrassing.");
 VoicePlay("A010000000_01_200");
