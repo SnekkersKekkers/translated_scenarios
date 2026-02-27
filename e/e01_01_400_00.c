@@ -76,7 +76,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("E010140000_22_050");
-MsgDisp("Hikaru","Alri～ght! I'll go look for handsome guys
+MsgDisp("Hikaru","Alri～ght! Hikaru will go look for handsome guys
 somewhere else! Salut♪");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
