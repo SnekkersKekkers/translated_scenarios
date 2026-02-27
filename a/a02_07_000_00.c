@@ -264,7 +264,8 @@ SEPlay("EV_SE_788",0.2);
 VoicePlay("A020700000_44_030");
 MsgDisp("School Girl A","Hahaha! So funny!");
 VoicePlay("A020700000_45_040");
-MsgDisp("School Girl B","But I wanna know more～!");
+MsgDisp("School Girl B","But I wanna know more～!
+test");
 VoicePlay("A020700000_42_150");
 MsgDisp("Male Student A","A teacher with a pet cow!");
 VoicePlay("A020700000_41_160");
