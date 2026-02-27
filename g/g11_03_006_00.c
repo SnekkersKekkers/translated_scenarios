@@ -48,8 +48,8 @@ ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110300600_03_020");
 MsgDisp("Honda","Ah, me?
-Somehow I met you.
-It's odd, huh?");
+Somehow I met you instead.
+That's weird, isn't it?");
 MsgDisp("主人公","Eh-?");
 MsgDisp("主人公","(What does he mean by that...?)");
 BGMStop();
