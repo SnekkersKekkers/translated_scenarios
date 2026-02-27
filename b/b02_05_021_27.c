@@ -10,7 +10,7 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("B020502127_05_010");
 MsgDisp("Hiiragi","Oh, excuse me.
 Up until now, I always thought that more
-revealing clothes lost any grace.");
+revealing clothes made one look unrefined.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
