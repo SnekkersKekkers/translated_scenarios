@@ -98,4 +98,4 @@ MsgDisp("Kazama","Sorry, this was because I was late.
 But you now, Habataki City has a lot of
 weird stuff?");
 MsgDisp("主人公","T-That might be true...
-Shall we go now...");
+Should we go now...");
