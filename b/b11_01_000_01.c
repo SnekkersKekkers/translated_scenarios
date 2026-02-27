@@ -94,8 +94,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B110100001_01_050");
-MsgDisp("Kazama","Sorry, this was because I was late.
-But you now, Habataki City has a lot of
-weird stuff?");
+MsgDisp("Kazama","It's my fault for being late.
+But you know, how come so much weird stuff
+happens in Habataki City?");
 MsgDisp("主人公","T-That might be true...
 Shall we go now...");
