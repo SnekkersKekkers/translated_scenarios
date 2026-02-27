@@ -38,8 +38,8 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
 VoicePlay("A020410000_04_030");
-MsgDisp("Nanatsumori?","Right.
-Then, you have it.");
+MsgDisp("Nanatsumori?","Got it.
+Here, take it then.");
 SEPlay("EV_SE_592",0,1);
 SEWait();
 MsgDisp("主人公","Thank you.
