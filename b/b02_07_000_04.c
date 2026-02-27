@@ -9,8 +9,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B020700004_07_010");
 MsgDisp("Mikage","Well that's no good.
-You'll sweat up a storm and catch cold.
-Take a layer off.");
+You'll sweat up a storm and get sick.
+Take something off.");
 MsgDisp("主人公","(Ugh...
 I have too much on.
 What a failure...)");
