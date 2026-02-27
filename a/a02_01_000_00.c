@@ -293,8 +293,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("A020100000_01_190");
-MsgDisp("Kazama","......Can't hear them～ And don't
-listen, either.");
+MsgDisp("Kazama","......Not listening～ 
+And you shouldn't listen to them either.");
 MsgDisp("主人公","(\"Young Master\" huh...
 Now I'm super curious...)");
 ChMotion(1,0);
