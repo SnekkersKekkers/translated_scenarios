@@ -89,7 +89,7 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("R080100000_21_020");
 MsgDisp("Michiru","I see...
-Kazama-kun must have it rough, huh.");
+Kazama-kun must have it rough, huh?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
