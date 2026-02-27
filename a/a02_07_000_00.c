@@ -219,8 +219,8 @@ ChMotion(7,0);
 VoicePlay("A020700000_07_150");
 MsgDisp("Mikage","That's essential information, right? I
 teach biology. I'm also the advisor for
-gardening and track-and-field clubs.
-Although for track-and-field, I merely
+the Gardening and Track and Field club.
+Although for track and field, I merely
 serve as decoration.");
 ChEye(7,0);
 ChMouth(7,0);
