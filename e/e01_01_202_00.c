@@ -41,7 +41,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010120200_02_020");
-MsgDisp("Sassa","Ryota was racing with the bus.
+MsgDisp("Sassa","Ryota was racing against the bus.
 He's still got a good spring, so I was
 recommending the sports club to him.");
 ChEye(1,2);
