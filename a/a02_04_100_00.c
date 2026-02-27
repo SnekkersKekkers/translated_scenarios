@@ -15,7 +15,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Oh no, it blew away...
 Where did it go?)");
 VoicePlay("A020410000_04_000");
-MsgDisp("Nanatsumori?","Something's blew over here.");
+MsgDisp("Nanatsumori?","Something just blew over here.");
 SEPlay("EV_SE_662");
 SEWait();
 VoicePlay("A020410000_04_010");
