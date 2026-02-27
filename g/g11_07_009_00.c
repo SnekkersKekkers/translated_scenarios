@@ -1,7 +1,7 @@
 BGOpen("sc606",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew...
-Gardening club is hard work, but it's
+Gardening is hard work, but it's
 rewarding.");
 VoiceEVSPlay(7);
 VoicePlay("G110700900_07_000");
