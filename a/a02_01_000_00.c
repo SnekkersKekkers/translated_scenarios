@@ -174,7 +174,7 @@ NSSEye(1,0);
 NSSMouth(1,3);
 VoicePlay("A020100000_01_110");
 MsgDisp("Kazama","Yeah, only me, without my parents.");
-MsgDisp("Kazama","Yeah. I came back early. School in England
+MsgDisp("Kazama","I came back early. School in England
 starts in September, so transferring now
 took some work.");
 MsgDisp("主人公","Oh, that makes sense...");
