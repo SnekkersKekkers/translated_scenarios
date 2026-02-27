@@ -43,7 +43,7 @@ BGMStop();
 ChClose(21);
 VoicePlay("F102110000_21_050");
 MsgDisp("Michiru","Ha...
-What should I do...");
+What should I do...?");
 MsgDisp("主人公","(She seems super troubled.
 Will she be alright...?)");
 MsgClose();
