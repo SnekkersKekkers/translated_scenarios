@@ -23,7 +23,7 @@ MsgDisp("Nanatsumori?","...Huh, isn't it Habatcher's.");
 SEPlay("EV_SE_593",0,0.8);
 Wait(50,0);
 VoicePlay("A020410000_04_020");
-MsgDisp("Nanatsumori?","That's bad.");
+MsgDisp("Nanatsumori?","Incredible.");
 SEPlay("EV_SE_594",0,0.8);
 MsgClose();
 ScrFadeOut(0);
