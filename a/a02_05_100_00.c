@@ -35,7 +35,7 @@ MsgDisp("Hiiragi?","Excuse me.
 Are you alright?");
 MsgDisp("主人公","I'm fine.
 ...Oh, what beautiful flowers.
-Glad they didn't get crushed...");
+Glad they didn't get crushed...test");
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,1);
 VoicePlay("A020510000_05_010");
