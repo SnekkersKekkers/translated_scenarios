@@ -41,7 +41,7 @@ ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300600_03_010");
-MsgDisp("Honda","Yeah yeah, give it a try.
+MsgDisp("Honda","Yepyep, give it a try.
 I wonder if you can meet tomorrow's you.");
 MsgDisp("主人公","Did you manage to meet tomorrow's
 ｛Honda＊＊｝?");
