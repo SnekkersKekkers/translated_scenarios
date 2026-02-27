@@ -13,4 +13,5 @@ MsgDisp("Hiiragi","Yes.
 Walking briskly will even increase your
 charm.");
 MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝, seems to like these clothes!)");
+｛Hiiragi＊＊＊｝ seems to like these 
+clothes!)");
