@@ -3,7 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm late!
 ｛Hiiragi＊＊＊｝ is...
-Ah, here's already here!)");
+Ah, he's already here!)");
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
 MsgClose();
 ChOpen(5,253,0,0,2,#1,#1,0,0);
