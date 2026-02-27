@@ -7,8 +7,8 @@ MsgDisp("主人公",""A book for adults to meet their high
 school selves, and for high school
 students to meet themselves tomorrow"...");
 VoicePlay("G110300600_42_000");
-MsgDisp("Manager","Honda-kun's ＰＯＰ is great, huh?
-One day I'll ask you to do one too.");
+MsgDisp("Manager","Honda-kun's promo is great, right?
+One day I'll ask you to make one too.");
 MsgDisp("主人公","Ah, yes!
 I don't think I can do it like ｛Honda＊＊｝,
 but it looks fun...");
