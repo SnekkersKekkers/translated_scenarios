@@ -15,7 +15,8 @@ ChLayout(1);
 SEPlay("EV_SE_515",0.2,0.2);
 SEPlay("EV_SE_860");
 VoicePlay("A020700000_44_000");
-MsgDisp("School Girl A","∋　Who's that guy?");
+MsgDisp("School Girl A","∋
+Who's that guy?");
 SEStop("EV_SE_860",1.5);
 VoicePlay("A020700000_42_010");
 MsgDisp("Male Student A","The electrician?");
