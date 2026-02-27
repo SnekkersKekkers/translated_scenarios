@@ -1,7 +1,7 @@
 BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The introduction text that ｛Honda＊＊｝
+MsgDisp("主人公","(The advertisement that ｛Honda＊＊｝
 came up with was well-received...)");
 MsgDisp("主人公","'A book for adults to meet their high
 school selves, and for high school
