@@ -16,5 +16,5 @@ MsgDisp("Hiiragi","Those clothes.
 I knew that there were two sides to you,
 but combined they are truly attractive...");
 MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems to like clothes like
-these, too!)");
+｛Hiiragi＊＊＊｝ seems to like clothes 
+like these, too!)");
