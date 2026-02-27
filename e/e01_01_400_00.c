@@ -8,8 +8,8 @@ VoicePlay("E010140000_01_000");
 MsgDisp("Kazama?","You're being a pain!
 I said no.");
 VoicePlay("E010140000_22_000");
-MsgDisp("Hikaru?","But whyyy～∋
-Mari will be sooo happy, I swear!");
+MsgDisp("Hikaru?","But whyyy not～∋
+It would definitely make Mari happy!");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(1,255,0,0,2,8,#1,0,1,0,30);
