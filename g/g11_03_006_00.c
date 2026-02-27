@@ -3,10 +3,9 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The introduction text that ｛Honda＊＊｝
 came up with was well-received...)");
-MsgDisp("主人公","'A book for adults to meet their high
+MsgDisp("主人公",""A book for adults to meet their high
 school selves, and for high school
-students to meet themselves tomorrow'
-huh...");
+students to meet themselves tomorrow"...");
 VoicePlay("G110300600_42_000");
 MsgDisp("Manager","Honda-kun's ＰＯＰ is great, huh?
 One day I'll ask you to do one too.");
