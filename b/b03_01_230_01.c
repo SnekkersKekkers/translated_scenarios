@@ -124,7 +124,7 @@ That's totally that.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B030123001_01_100");
     MsgDisp("Kazama","Yeah.
-This place has great vibes right here.");
+This place has great vibes.");
     break ;
     default :
     DbgAssert(0);
