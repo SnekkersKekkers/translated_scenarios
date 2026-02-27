@@ -134,7 +134,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("A020410000_04_150");
-MsgDisp("Nanatsumori","Sorr-...My bad too. I've been yelling
+MsgDisp("Nanatsumori","Sorr-...My bad. I've been yelling
 too.");
 ChEye(4,2);
 ChMouth(4,0);
