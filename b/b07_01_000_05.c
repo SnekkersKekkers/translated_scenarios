@@ -11,7 +11,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_240");
-MsgDisp("Kazama","I do ocean fishing too but, my specialty
+MsgDisp("Kazama","I do ocean fishing too, but my specialty
 is fly fishing.");
 MsgDisp("主人公","Fly fishing.");
 ChEye(1,0);
