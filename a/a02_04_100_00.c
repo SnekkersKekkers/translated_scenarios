@@ -5,8 +5,7 @@ issue of Habataki Watcher! Let's head
 straight to the rooftop and read it!)");
 SEPlay("EV_SE_591");
 Wait(60,0);
-MsgDisp("主人公","Oh no,
-the bonus poster...!");
+MsgDisp("主人公","Ah, the bonus poster...!");
 SEPlay("EV_SE_FOOT_RUN_KEEP_ALONE");
 MsgClose();
 ScrFadeOut(0);
