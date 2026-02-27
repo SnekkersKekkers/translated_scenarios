@@ -23,7 +23,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("A020700000_07_000");
-MsgDisp("Mikage?","...Hmph.");
+MsgDisp("Mikage?","...Hmm.");
 SEPlay("EV_SE_026",0,0.8,1);
 ChEye(7,0);
 ChMouth(7,3);
