@@ -3,7 +3,7 @@ MsgClose();
 ChOpen(21,254,2,2,4,#1,#1,5,0,0,0);
 ScrFadeIn(0);
 VoicePlay("F112110000_21_000");
-MsgDisp("Michiru","Ha...");
+MsgDisp("Michiru","Sigh...");
 MsgDisp("主人公","Oh, ｛みちる＊｝!");
 ChMotion(21,0);
 VoicePlay("F112110000_21_010");
