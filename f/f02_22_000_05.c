@@ -4,7 +4,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
 ScrFadeIn(0);
-MsgDisp("主人公","It's the end of term tests soon.");
+MsgDisp("主人公","Exams are coming up soon.");
 ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,1,1);
