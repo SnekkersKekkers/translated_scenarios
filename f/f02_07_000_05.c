@@ -5,8 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","The end of term tests are coming up
-already...");
+MsgDisp("主人公","Exams are almost here already...");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,3);
