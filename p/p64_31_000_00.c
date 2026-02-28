@@ -3,7 +3,7 @@ ChMouth(31,2);
 ChMotion(31,2);
 ScrFadeIn(0);
 VoicePlay("P643100000_31_000");
-MsgDisp("Goro","Delicious, waah.");
+MsgDisp("Goro","How delightful.");
 MsgDisp("主人公","Hehe, I'm glad.
 That herb tea has relaxing effects.");
 ChEye(31,0);
