@@ -47,7 +47,7 @@ recommending the sports club to him.");
 ChEye(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Racing with the bus?");
+MsgDisp("主人公","Racing against the bus?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
