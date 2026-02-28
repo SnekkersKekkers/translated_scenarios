@@ -5,7 +5,7 @@ MsgDisp("主人公","(Yeah, I think it's time to go home now.
 Wait, over there, is that...)");
 VoicePlay("E010340000_22_000");
 MsgDisp("Hikaru?","Because～...
-I don't like being called that!");
+Hikaru doesn't like being called that!");
 VoicePlay("E010340000_03_000");
 MsgDisp("Honda?","Do you not like it?
 Pika-chan.");
