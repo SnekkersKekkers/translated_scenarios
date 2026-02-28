@@ -19,8 +19,8 @@ ChMouth(31,0);
 ChMotion(31,1);
 VoicePlay("P643100000_31_020");
 MsgDisp("Goro","Yes, I like it!
-Next time, give me some tea that makes me
-feel happy♪");
+Next time, bring me a tea that
+makes my heart flutter with excitement♪");
 MsgDisp("主人公","(Yay!
 A huge success♪)");
 MsgClose();
