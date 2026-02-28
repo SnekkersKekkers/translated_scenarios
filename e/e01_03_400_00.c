@@ -51,7 +51,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("E010340000_03_030");
 MsgDisp("Honda","Yeah, I guess you could say we're similar,
-I sympathize with you.");
+I totally relate.");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,1,1);
