@@ -32,7 +32,7 @@ ChMotion(2,2);
 VoicePlay("A020220000_02_010");
 MsgDisp("Sassa?","Hm—m...
 The admissions are usually made with
-Mikage-sensei?");
+Mikage-sensei, though?");
 MsgDisp("主人公","｛Mikage＊＊｝ told me to look for the
 club captain...");
 ChEye(2,0);
