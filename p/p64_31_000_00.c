@@ -10,9 +10,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("P643100000_31_010");
-MsgDisp("Goro","I see, is that so...
-I thought the adrenaline secretion was
-mild.");
+MsgDisp("Goro","I see, so that's the secret...
+No wonder my adrenaline levels
+have calmed down.");
 MsgDisp("主人公","Eh?");
 ChEye(31,0);
 ChMouth(31,0);
