@@ -23,7 +23,7 @@ ChMotion(7,1);
 VoicePlay("P650700000_07_020");
 MsgDisp("Mikage","Thanks to you, I was praised by Vice
 Principal Himuro for the first time.
-Thanks?");
+So, thanks—really.");
 MsgDisp("主人公","(Yay, a huge success!
 It was worth giving it my all.)");
 MsgClose();
