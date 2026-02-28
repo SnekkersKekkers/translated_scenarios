@@ -72,8 +72,8 @@ ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300601_03_080");
 MsgDisp("Honda","A magazine∋
-Yep yep, it's good.
-That's so 'you', nice perspective!");
+Yepyep, that's good.
+It's very "you", nice perspective!");
 MsgDisp("主人公","(Is it really okay...?)");
 BGMStop();
 MsgClose();
