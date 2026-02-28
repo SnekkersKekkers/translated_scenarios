@@ -24,7 +24,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F020200006_02_020");
 MsgDisp("Sassa","I can find total strangers that have good
-springs or are good at running.");
+form and are good at running.");
 MsgDisp("主人公","Really?
 So, you scout for the track and field
 club?");
