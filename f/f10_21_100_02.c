@@ -62,7 +62,7 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102110002_21_080");
 MsgDisp("Michiru","Hikaru doesn't like this kind of thing, so
-she doesn't sympathize with me at all....
+she doesn't sympathize with me at all...
 I can't even say this much.");
 ChEye(21,0);
 ChMouth(21,4);
