@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year the Gardening Club's program is
+    MsgDisp("主人公","(This year the Gardening Club is running
 a cafe.
 We prepared herb tea and cookies, but...)");
     MsgClose();
