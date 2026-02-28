@@ -59,7 +59,8 @@ VoicePlay("E010340000_22_040");
 MsgDisp("Hikaru","Even if Dahon sympathizes with me, it's a
 bit weird...
 What do you think, Mari?");
-MsgDisp("主人公","Well...both are unique I like them both.");
+MsgDisp("主人公","Umm... you're both pretty unique,
+but I like that about you.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
