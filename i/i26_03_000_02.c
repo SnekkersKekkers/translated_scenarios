@@ -23,7 +23,7 @@ The person who arranged this shelf...");
 But, wasn't it difficult?
 Sorry for making you do it all.");
     MsgDisp("主人公","No problem.
-You were in the middle of helping our
+You were busy helping our
 customers, right, ｛Honda＊＊｝?");
     ChEye(3,3);
     ChMouth(3,3);
