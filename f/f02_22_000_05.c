@@ -9,7 +9,7 @@ ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("F022200005_22_000");
-MsgDisp("Hikaru","What a botherー...");
+MsgDisp("Hikaru","How annoyingー...");
 ChEye(22,4);
 ChMouth(22,5);
 ChMotion(22,2,1);
