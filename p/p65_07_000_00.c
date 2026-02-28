@@ -9,7 +9,7 @@ MsgDisp("Mikage","｛主人公｝, you really did your best. You
 put your efforts into growing plants, came
 up with how to serve tea. Even the
 staffroom had high praise.");
-MsgDisp("主人公","Genuinely?");
+MsgDisp("主人公","Really?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
