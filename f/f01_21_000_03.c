@@ -7,7 +7,7 @@ switch (ChPrmGet(21,6)){
     ChMouth(21,0);
     ChMotion(21,1);
     VoicePlay("F012100003_21_000");
-    MsgDisp("Michiru","We shall do that.");
+    MsgDisp("Michiru","We should do that.");
     MsgDisp("主人公","Hehe, I'm glad!");
     break ;
     case 3:
