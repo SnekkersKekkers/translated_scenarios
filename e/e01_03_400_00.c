@@ -13,7 +13,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,255,0,2,1,#1,#1,0,2,0,30);
-MsgDisp("主人公","What's happening with you both?");
+MsgDisp("主人公","What's up with you two?");
 ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,3,1);
