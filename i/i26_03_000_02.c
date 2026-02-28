@@ -14,7 +14,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("I260300000_03_220");
     MsgDisp("Honda","Hm?
 The person who arranged this shelf...");
-    MsgDisp("主人公","It was me, but should I not have?");
+    MsgDisp("主人公","It was me. Did I do something wrong?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
