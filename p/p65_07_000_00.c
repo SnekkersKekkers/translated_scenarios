@@ -14,9 +14,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P650700000_07_010");
-MsgDisp("Mikage","Yeah.
-Even Vice Principal Himuro said he had
-high hopes for your future.");
+MsgDisp("Mikage","Yeah. Even Vice Principal Himuro said he's
+looking forward to seeing more from you
+in the future.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
