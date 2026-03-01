@@ -14,7 +14,7 @@ SEStop("EV_SE_579",0);
 SEWait();
 MsgDisp("主人公","He, hello...?");
 VoicePlay("Q190600000_06_000");
-MsgDisp("Himuro","...Why are you answering.
+MsgDisp("Himuro","...Why did you pick up?
 Isn't it past lights out time?");
 MsgDisp("主人公","Aren't you, ｛Himuro＊＊｝, the one who called?");
 VoicePlay("Q190600000_06_010");
