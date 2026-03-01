@@ -56,7 +56,7 @@ ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("E010340000_22_040");
-MsgDisp("Hikaru","Even if Dahon sympathizes with me, it's a
+MsgDisp("Hikaru","Even if Dahon is similar, it's a
 bit weird...
 What do you think, Mari?");
 MsgDisp("主人公","Well...both are unique I like them both.");
