@@ -14,7 +14,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("I260300000_03_220");
     MsgDisp("Honda","Hm?
 The person who arranged this shelf...");
-    MsgDisp("主人公","It was me, but should I not have?");
+    MsgDisp("主人公","It was me. Did I do something wrong?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -23,7 +23,7 @@ The person who arranged this shelf...");
 But, wasn't it difficult?
 Sorry for making you do it all.");
     MsgDisp("主人公","No problem.
-You were in the middle of helping our
+You were busy helping our
 customers, right, ｛Honda＊＊｝?");
     ChEye(3,3);
     ChMouth(3,3);
@@ -31,7 +31,7 @@ customers, right, ｛Honda＊＊｝?");
     VoicePlay("I260300000_03_240");
     MsgDisp("Honda","But, finding things to do and doing it on
 your own means you're getting used to your
-job, right?");
+the job, right?");
     MsgDisp("主人公","(I did it!
 I'm glad I could be of some help.)");
     break ;

@@ -8,8 +8,8 @@ VoicePlay("E010140000_01_000");
 MsgDisp("Kazama?","You're being a pain!
 I said no.");
 VoicePlay("E010140000_22_000");
-MsgDisp("Hikaru?","But whyyy～∋
-Mari will be sooo happy, I swear!");
+MsgDisp("Hikaru?","But whyyy not～∋
+It would definitely make Mari happy!");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(1,255,0,0,2,8,#1,0,1,0,30);
@@ -28,7 +28,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010140000_01_010");
 MsgDisp("Kazama","You always show up at an incredible time.");
-MsgDisp("主人公","Ask him about what?...
+MsgDisp("主人公","Ask him about what...?
 What were you guys talking about?");
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);
@@ -45,16 +45,14 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010140000_01_020");
-MsgDisp("Kazama","I told you I don't wanna do it.");
+MsgDisp("Kazama","I told you I don't wanna do it, though.");
 MsgDisp("主人公","Hey, ｛ひかる＊｝...
-You're bothering ｛Kazama＊＊｝, right?");
+I think you're bothering ｛Kazama＊＊｝...");
 ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,2,1);
 VoicePlay("E010140000_22_030");
-MsgDisp("Hikaru","Heh, really?? I thought he was playing
-hard to get, but I'd eventually get my
-\"oka～y\". Sorry about that.");
+MsgDisp("Hikaru","Ehh, really? Hikaru thought he was just\nplaying hard to get, but he'd eventually\nsay \"oka～y\". Sorry about that.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -76,8 +74,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("E010140000_22_050");
-MsgDisp("Hikaru","Alri～ght! I'll go look for handsome guys
-somewhere else! Salut♪");
+MsgDisp("Hikaru","Alri～ght! Hikaru will go look for 
+handsome guys somewhere else! Salut♪");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(22);
@@ -90,15 +88,15 @@ ChEyeOpenLevel(1,8);
 VoicePlay("E010140000_01_040");
 MsgDisp("Kazama","Selfish as ever.");
 VoicePlay("E010140000_22_060");
-MsgDisp("Hikaru","Ah, my sis is probably gonna come and ask
+MsgDisp("Hikaru","Ah, big sis is probably gonna come and ask
 you, so keep Mari close to save you
 again～!♪");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("E010140000_01_050");
-MsgDisp("Kazama","Uh, is she for real.
-These Hanatsubakis are intense...
+MsgDisp("Kazama","Ugh, is she for real.
+The Hanatsubakis are intense...
 I'm counting on you when time comes!");
 MsgDisp("主人公","Yeah!
 But I think you'd make everyone happy by

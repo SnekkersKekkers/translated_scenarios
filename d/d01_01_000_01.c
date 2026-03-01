@@ -1,12 +1,12 @@
 BGOpen("sc310",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm a second year student starting today.
-I wonder what this year will be like?
-Hehe, I'm looking forward to it!)");
+MsgDisp("主人公","(I'm a second-year starting today. 
+I wonder what my class will be like?
+Hehe... I'm really excited.)");
 VoicePlay("D010100001_01_000");
-MsgDisp("Kazama?","Don't just stand here and smile all by
+MsgDisp("Kazama?","Don't just stand there grinning to
 yourself.
-...Geez, what a crazy person.");
+...Honestly, you look kind of suspicious.");
 MsgClose();
 ScrFadeOut(0,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
@@ -19,7 +19,7 @@ MsgDisp("主人公","Eh...
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D010100001_01_010");
-MsgDisp("Kazama","Well, I guess I get why you're smiling.");
+MsgDisp("Kazama","Well, I guess I get why.");
 MsgDisp("主人公","Uhm...
 No way, are we in the same class again
 this year?");
@@ -37,14 +37,13 @@ ScrFadeIn(0);
 VoicePlay("D010100001_01_020");
 MsgDisp("Kazama","What do you mean by \"again\"?
 Are you complaining?");
-MsgDisp("主人公","I don't think I meant it like that.");
+MsgDisp("主人公","I didn't mean it like that, but...");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100001_01_030");
-MsgDisp("Kazama","Huh?
-What do you mean by \"I think\"?");
+MsgDisp("Kazama","Huh?\nWhat's with the \"but\"?");
 MsgClose();
 BGMStop(1.5);
 MsgClose();

@@ -75,7 +75,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D010100200_01_060");
 MsgDisp("Kazama","The value can only be decided by someone
-understands it.
+who understands it.
 Earlier it was only worth 1 Rich.");
 MsgDisp("主人公","I see, but now it's 5 Rich.");
 ChEye(1,4);

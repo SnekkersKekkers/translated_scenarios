@@ -49,7 +49,7 @@ Thanks.");
     ChMotion(2,2);
     VoicePlay("I250200000_02_050");
     MsgDisp("Sassa","Ah, there it is.
-It's that.");
+This one here.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

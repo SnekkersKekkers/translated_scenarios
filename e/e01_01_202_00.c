@@ -41,13 +41,13 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010120200_02_020");
-MsgDisp("Sassa","Ryota was racing with the bus.
-He's still got a good spring, so I was
+MsgDisp("Sassa","Ryota was racing against the bus.
+He's got a good stride, so I was
 recommending the sports club to him.");
 ChEye(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Racing with the bus?");
+MsgDisp("主人公","Racing against the bus?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -79,9 +79,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010120200_01_050");
-MsgDisp("Kazama","Sassa, you don't get it do you?
-It doesn't matter how much \"sense\" I got,
-as long as you're around, I feel mediocre.");
+MsgDisp("Kazama","Sassa, you don't get it do you?\nIt doesn't matter how much \"sense\" I have,\nas long as you're around, I feel mediocre.");
 MsgDisp("主人公","Is that so?
 But you can do anything, ｛Kazama＊＊｝, I
 don't think you're mediocre at all!");

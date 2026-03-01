@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040310200_03_010");
     MsgDisp("Honda","Yep yep, that's right.
-Let's learn from scratch");
+Let's learn from scratch.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

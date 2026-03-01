@@ -255,9 +255,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("A020700000_07_190");
-MsgDisp("Mikage","No more! Didn't I say \"last question\"?
-If I have to tell you everything, a year
-isn't enough!");
+MsgDisp("Mikage","No more! Didn't I say \"last question\"?\nIf I tell you everything now, there won't\nbe anything left for the rest of the year!");
 SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.9);
 SEPlay("EV_SE_788",0.2);
@@ -273,8 +271,8 @@ SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.8);
 SEPlay("EV_SE_788",0.2);
 MsgDisp("主人公","(Mikage-sensei...He's a bit eccentric,
-but he seems like a funny teacher.
-I hope it's gonna be a fun year!)");
+but he seems like an interesting teacher.
+I hope we have a fun year!)");
 SEStop("EV_SE_864",2)SEStop("EV_SE_GAYA_023",2);
 SEStop("EV_SE_788",2);
 BGMStop(2);
