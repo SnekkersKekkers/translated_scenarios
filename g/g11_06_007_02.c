@@ -55,9 +55,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_040");
-MsgDisp("Himuro","What...?
+MsgDisp("Himuro","Huh...?
 Why are you staring at my arm all of a
-sudden.");
+sudden?");
 MsgDisp("主人公","Ah, sorry.
 I'm just thinking about before, that time
 we went to the livehouse.");
