@@ -33,8 +33,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Z710700000_07_020");
 MsgDisp("Mikage","Come on, be quiet.
-I don't want to get yelled at by vice
-principal Himuro on the first day again.");
+I don't want to get yelled at by Vice
+Principal Himuro on the first day again.");
 SEStop("EV_SE_863",2);
 ChEye(7,0);
 ChMouth(7,0);
