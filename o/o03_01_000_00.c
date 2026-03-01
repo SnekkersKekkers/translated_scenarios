@@ -36,8 +36,8 @@ Isn't that great?");
     VoicePlay("O030100000_01_030");
     MsgDisp("Kazama","Just this event is enough for the sports
 festival.");
-    MsgDisp("主人公","(Is ｛Kazama＊＊｝ just satisfied by winning
-first?)");
+    MsgDisp("主人公","(｛Kazama＊＊｝ seems happy that we won
+first place.)");
     break ;
     case 4:
     case 5:
