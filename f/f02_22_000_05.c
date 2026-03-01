@@ -14,9 +14,9 @@ ChEye(22,4);
 ChMouth(22,5);
 ChMotion(22,2,1);
 VoicePlay("F022200005_22_010");
-MsgDisp("Hikaru","But, if you fail you can't take part in
+MsgDisp("Hikaru","And if you fail you can't take part in
 club activities or have a job～...
-Ha...");
+Sigh...");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,5,1);
