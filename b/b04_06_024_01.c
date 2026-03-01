@@ -4,7 +4,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(6,255,0,0,2,#1,#1,0,0);
 VoicePlay("B040602401_06_000");
-MsgDisp("Himuro","...What's this.");
+MsgDisp("Himuro","...What was that?");
 MsgSel("I was surprised!","Art is complicated...","Ahaha, what a weird sound!");
 switch (MsgSelRsltGet()){
     case 0:
