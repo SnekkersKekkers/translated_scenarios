@@ -75,7 +75,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q100100000_01_070");
 MsgDisp("Kazama","Okay, let's have a competition to decide
-whose the better shopper.
+who's the better shopper.
 How's that?");
 MsgDisp("主人公","Hehe, sure.");
 ChEye(1,4);
