@@ -39,7 +39,7 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("Q190600000_06_040");
 MsgDisp("Himuro","Of course.
-You're making a call.");
+We're on a call.");
 MsgDisp("主人公","Yeah, true...
 This feels new, though.");
 StlEye(6,1,0);
