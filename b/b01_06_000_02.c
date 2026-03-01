@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("B010600002_06_000");
     MsgDisp("Himuro","Acting ahead of time is the natural thing
 to do.");
-    MsgDisp("主人公","You're an on-the-dot type, huh.");
+    MsgDisp("主人公","You're an on-the-dot type, huh?");
     MsgDispSksp(1,0);
     ChEye(6,0);
     ChMouth(6,0);
