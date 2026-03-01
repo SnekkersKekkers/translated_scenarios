@@ -14,10 +14,9 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F022100001_21_010");
-MsgDisp("Michiru","Hehe, there's a church within the school
-premises; there's a legend those two had
-promised their love there, and was tied
-together for eternity.");
+MsgDisp("Michiru","Hehe, there's a church on school premises.
+Legend has it that the two said their vows
+there and were bound together for eternity.");
 MsgDisp("主人公","A legend...");
 ChEye(21,0);
 ChMouth(21,0);
