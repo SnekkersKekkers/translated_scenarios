@@ -64,7 +64,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610306_06_080");
 MsgDisp("Himuro","......Still, eggplants.");
-MsgDisp("主人公","Do you still hate eggplants?");
+MsgDisp("主人公","Would you still hate them then?");
 ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,0);
