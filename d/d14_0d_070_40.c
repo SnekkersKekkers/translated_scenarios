@@ -37,7 +37,7 @@ ChMotion(22,4,1);
 VoicePlay("D140D07040_22_020");
 MsgDisp("Hikaru","The cool one is Minoru-kun.
 We're cute▼");
-MsgDisp("主人公","Ah, is that right?");
+MsgDisp("主人公","Ah, I guess that's true.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
