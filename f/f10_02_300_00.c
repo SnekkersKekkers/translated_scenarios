@@ -50,8 +50,8 @@ Sassa-kun is the epitome of gap moe.");
 MsgDisp("主人公","...Gap moe?");
 ChMotion(22,4,1);
 VoicePlay("F100230000_22_020");
-MsgDisp("Hikaru","That's no good, Mari. when we're talking
-about Sassa-kun, you can't leave this out.");
+MsgDisp("Hikaru","That's no good, Mari. You can't talk 
+about Sassa-kun without mentioning this.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
