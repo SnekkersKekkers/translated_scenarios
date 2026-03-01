@@ -86,7 +86,8 @@ pretending...can't tell which.");
 VoicePlay("G110400301_04_060");
 ChMouth(4,2);
 ChCheek(4,5);
-MsgDisp("Nanatsumori","I haven't eaten enough to do a review...");
+MsgDisp("Nanatsumori","I didn't eat anything special enough to
+warrant a review...");
 MsgDisp("主人公","Hehe, I was just joking, you know?");
 VoicePlay("G110400301_04_080");
 ChEye(4,1);
