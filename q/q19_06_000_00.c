@@ -69,7 +69,7 @@ StlMouth(6,2);
 VoicePlay("Q190600000_06_080");
 MsgDisp("Himuro","I just forgot to put them on.
 More importantly, how is it there?
-Are you enjoying?");
+Are you enjoying yourself?");
 MsgDisp("主人公","Hehe, yeah!
 The weather is great and it's a very nice
 place.");
