@@ -41,7 +41,7 @@ VoicePlay("Q190600000_06_040");
 MsgDisp("Himuro","Of course.
 You're making a call.");
 MsgDisp("主人公","Yeah, true...
-But it's kind of fresh.");
+This feels new, though.");
 StlEye(6,1,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,5,1);
