@@ -92,9 +92,9 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,0);
 MsgDisp("Nanatsumori","Oof...touche.");
-MsgDisp("主人公","(Hehe! It would be interesting to write an
-article about this conversation with
-｛Nanatsumori＊｝!)");
+MsgDisp("主人公","(Hehe! It would be fun to write about 
+spending time with ｛Nanatsumori＊｝
+like this!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
