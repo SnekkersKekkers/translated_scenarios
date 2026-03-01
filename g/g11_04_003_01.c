@@ -71,7 +71,8 @@ ChMouth(4,1);
 VoicePlay("G110400301_04_050");
 MsgDisp("Nanatsumori","Don't...don't take it so seriously.
 It was a joke.");
-MsgDisp("主人公","(He was groaning with his eyes...)");
+MsgDisp("主人公","(Maybe I'll try giving him
+the puppy-dog eyes...)");
 while (1){
     RunEverydaySksp(4,0,1,0,0,0);
     if (RunEverydaySkspRsltGet()){
