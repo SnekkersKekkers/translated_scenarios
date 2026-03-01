@@ -86,7 +86,7 @@ A customer's here.");
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("I450300000_03_100");
-    MsgDisp("Honda","Da, I'm sorry for bothering you...
+    MsgDisp("Honda","Ah, I'm sorry for bothering you...
 I'll get going, okay?
 See you.");
     MsgDisp("主人公","(He came to check on me, right?
