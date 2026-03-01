@@ -34,7 +34,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q100100000_01_030");
 MsgDisp("Kazama","Stop it.
-I can't stop but imagine him wearing round
+I can't help but imagine him wearing round
 glasses.");
 ChEye(1,0);
 ChMouth(1,3);
