@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030601000_06_000");
     MsgDisp("Himuro","Hey, it's me.
-About the voicemail thing, okay.");
+About the voicemail, it's fine.");
     MsgDisp("主人公","Really?
 Then, on ｛日付｝ I'll be waiting
 for you at ｛待ち合わせ場所｝.");
