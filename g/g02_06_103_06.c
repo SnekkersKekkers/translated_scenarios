@@ -69,7 +69,7 @@ ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,0);
 VoicePlay("G020610306_06_090");
-MsgDisp("Himuro","......Hate them.");
+MsgDisp("Himuro","...I hate them.");
 MsgDisp("主人公","(Hehe.
 I got to hear ｛Himuro＊＊｝'s 
 true thoughts♪)");
