@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040108100_01_010");
     MsgDisp("Kazama","Ooh, even you say nice things once in a
-while. Now I'm a little scared of the
-recoil, though.");
+while. Now I'm kinda nervous about what's 
+coming next.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

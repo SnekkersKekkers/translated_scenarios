@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040614000_06_010");
-    MsgDisp("Himuro","We shared the same sentiments?
-I feel like my heart is even warmer.");
+    MsgDisp("Himuro","You feel the same way?
+That makes my heart feel even warmer.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -73,8 +73,8 @@ MsgDisp("Sassa","It's impossible.
 If you have the leash, you have no choice
 but to run.");
 MsgDisp("主人公","(Haha!
-｛Nanatsumori＊｝ and ｛Sassa＊＊｝, you really
-like dogs, don't you?)");
+｛Nanatsumori＊｝ and ｛Sassa＊＊｝, you 
+really like dogs, don't you?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

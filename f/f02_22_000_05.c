@@ -4,19 +4,19 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
 ScrFadeIn(0);
-MsgDisp("主人公","It's the end of term tests soon.");
+MsgDisp("主人公","Exams are coming up soon.");
 ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("F022200005_22_000");
-MsgDisp("Hikaru","What a botherー...");
+MsgDisp("Hikaru","How annoyingー...");
 ChEye(22,4);
 ChMouth(22,5);
 ChMotion(22,2,1);
 VoicePlay("F022200005_22_010");
-MsgDisp("Hikaru","But, if you fail you can't take part in
+MsgDisp("Hikaru","And if you fail you can't take part in
 club activities or have a job～...
-Ha...");
+Sigh...");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,5,1);
@@ -29,7 +29,7 @@ ChEye(22,0);
 ChMouth(22,4);
 ChMotion(22,0,1);
 VoicePlay("F022200005_22_030");
-MsgDisp("Hikaru","Then, how exactly do I go about getting 50
+MsgDisp("Hikaru","Then, how exactly does one score 50
 points in one sitting?");
 MsgDisp("主人公","(......)");
 MsgClose();
