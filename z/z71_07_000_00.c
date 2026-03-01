@@ -72,7 +72,7 @@ SEPlay("EV_SE_743");
 SEPlay("EV_SE_863",0,0.7);
 Wait(30,0);
 VoicePlay("Z710700000_45_000");
-MsgDisp("School Girl B","Look forward to it, Mikagecchi!");
+MsgDisp("School Girl B","I'm looking forward to it too, Mikagecchi!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
