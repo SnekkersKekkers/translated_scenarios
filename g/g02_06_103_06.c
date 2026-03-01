@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("G020610306_06_000");
-MsgDisp("Himuro","Tey say that the light of fireflies
+MsgDisp("Himuro","They say that the light of fireflies
 represents the souls of the dead, right?");
 MsgDisp("主人公","Yeah, seems that way, huh?");
 ChEye(6,0);
