@@ -32,7 +32,7 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,5,1);
 VoicePlay("E010340000_22_020");
-MsgDisp("Hikaru","That's Dahon's hobby, isn't it!");
+MsgDisp("Hikaru","That's just Dahon's opinion, isn't it!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
