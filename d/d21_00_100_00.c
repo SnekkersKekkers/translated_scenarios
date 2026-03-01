@@ -4,9 +4,7 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(...Ah! It's a text message from
 Goro-sensei. It says:)");
-MsgDisp("主人公","(\"It seems like a new spot has opened up
-in a corner of the Forest Park Please make
-sure to write about it♪\")");
+MsgDisp("主人公","(\"It seems like a new spot has opened up\nin a corner of the Forest Park. Please make\nsure to write about it♪\")");
 MsgDisp("主人公","(Alright, as Habatcher's newest staff
 member, let's get to it!)");
 MsgClose();

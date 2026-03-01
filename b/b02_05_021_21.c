@@ -13,5 +13,5 @@ MsgDisp("Hiiragi","Of course, it's very fitting.
 If the model isn't good too, this wouldn't
 be possible.");
 MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝, seems to like clothes like
-these, too!)");
+｛Hiiragi＊＊＊｝ seems to like clothes 
+like these, too!)");

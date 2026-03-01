@@ -38,7 +38,7 @@ animals. The horseback instructor is
 taking care of the ranch.");
 MsgDisp("主人公","Oh, are you the zookeeper?
 The one that boy from earlier said was
-super interesting.");
+super interesting?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

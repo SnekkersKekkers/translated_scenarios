@@ -73,7 +73,7 @@ SEPlay("EV_SE_794",0,0.5);
 SEWait();
 VoicePlay("A010000000_01_070");
 MsgDisp("Ryota","Ah...
-I guess we can't after all.");
+I guess we can't, after all.");
 SEPlay("EV_SE_702",0.2,0.4);
 Wait(140,0);
 BGOpen("pr005",0);
@@ -123,7 +123,8 @@ Here, you can have it!");
 SEPlay("EV_SE_552",0.4,0.1);
 Wait(10,0);
 BGOpen("pr009",0);
-MsgDisp("主人公","Really, I can have it?");
+MsgDisp("主人公","Is it really okay for me
+to have it?");
 VoicePlay("A010000000_01_110");
 MsgDisp("Ryota","It's fine. In fact, I made it using the
 same method as the pinwheels in the
@@ -183,8 +184,8 @@ ScrFadeOut(0,1);
 BGOpen("pr010",0);
 ScrFadeIn(0);
 VoicePlay("A010000000_01_190");
-MsgDisp("Ryota","Eh! Well maybe, I guess that's true...?
-...So what did you wish for?");
+MsgDisp("Ryota","Eh!? Well, maybe, I guess that's true...?
+...So, what did you wish for?");
 MsgDisp("主人公","My wish?...It's a secret.
 It's embarrassing.");
 VoicePlay("A010000000_01_200");

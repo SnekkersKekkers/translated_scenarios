@@ -30,8 +30,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("D140D07041_22_010");
-MsgDisp("Hikaru","Or maybe Mari just broke through Minoru
-kun's guard?");
+MsgDisp("Hikaru","Or maybe Mari just broke through 
+Minoru-kun's guard?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);

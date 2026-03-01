@@ -108,8 +108,8 @@ are they okay...?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B030123001_01_090");
-    MsgDisp("Kazama","It's here.
-That's totally that.");
+    MsgDisp("Kazama","That's it.
+We should definitely do that.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -124,7 +124,7 @@ That's totally that.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B030123001_01_100");
     MsgDisp("Kazama","Yeah.
-This place has great vibes right here.");
+This place has great vibes.");
     break ;
     default :
     DbgAssert(0);

@@ -11,7 +11,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200008_02_000");
-MsgDisp("Sassa","My class is continuing to work on our
+MsgDisp("Sassa","My class is still working on our
 exhibit.
 I'm painting.");
 MsgDisp("主人公","Huh, ｛Sassa＊＊｝, painting?");

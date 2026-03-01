@@ -27,7 +27,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B340C00000_06_000");
 MsgDisp("Himuro","That's right.
-But.. friends?");
+But...friends?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
