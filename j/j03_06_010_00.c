@@ -64,7 +64,7 @@ waiting for you at ｛待ち合わせ場所｝.");
     VoicePlay("J030601000_06_070");
     MsgDisp("Himuro","Gotcha.
 You promised me, so don't forget.
-Well then.");
+Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
