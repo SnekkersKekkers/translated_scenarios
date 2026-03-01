@@ -79,8 +79,8 @@ while (1){
         }
     BGMVol(0.5,2);
     VoicePlay("G110400301_04_070");
-    MsgDisp("Nanatsumori","I don't know if I just do that naturally
-or if I'm good at acting...");
+    MsgDisp("Nanatsumori","You're either totally oblivious or you're
+pretending...can't tell which.");
     }
 VoicePlay("G110400301_04_060");
 ChMouth(4,2);
