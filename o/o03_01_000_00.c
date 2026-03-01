@@ -34,8 +34,8 @@ Isn't that great?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("O030100000_01_030");
-    MsgDisp("Kazama","Just this event is enough for the sports
-festival.");
+    MsgDisp("Kazama","Just this event is enough to make it
+a good sports festival.");
     MsgDisp("主人公","(Is ｛Kazama＊＊｝ just satisfied by winning
 first?)");
     break ;
