@@ -18,7 +18,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("K010400101_04_020");
 MsgDisp("Nanatsumori","It's great.
-I really like this kind of sense.
+I really like this kind of thing.
 Thank you.");
 MsgDisp("主人公","(He looks super happy...
 Thank goodness!)");
