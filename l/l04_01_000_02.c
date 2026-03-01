@@ -67,7 +67,7 @@ He seemed happy.)");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("L040100002_01_060");
-    MsgDisp("Kazama","Did you push yourself for this?");
+    MsgDisp("Kazama","Did you work hard for this?");
     MsgDisp("主人公","Huh?");
     ChEye(1,2);
     ChMouth(1,3);
