@@ -27,7 +27,7 @@ VoicePlay("D010200300_02_010");
 MsgDisp("Sassa","Aha.
 You're soaking wet.
 Look, your shivering so much.");
-MsgDisp("主人公","｛Sassa＊＊｝ !");
+MsgDisp("主人公","｛Sassa＊＊｝!");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_020");

@@ -27,7 +27,7 @@ Thanks!");
     ChMotion(1,0);
     ChCheek(1,5);
     VoicePlay("O030100000_01_020");
-    MsgDisp("Kazama","I, I see...
+    MsgDisp("Kazama","I-I see...
 Isn't that great?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -36,8 +36,8 @@ Isn't that great?");
     VoicePlay("O030100000_01_030");
     MsgDisp("Kazama","Just this event is enough for the sports
 festival.");
-    MsgDisp("主人公","(Is ｛Kazama＊＊｝ just satisfied by winning
-first?)");
+    MsgDisp("主人公","(｛Kazama＊＊｝ seems happy that we won
+first place.)");
     break ;
     case 4:
     case 5:
