@@ -66,8 +66,7 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("E010340000_22_050");
 MsgDisp("Hikaru","Hmm...if Mari is okay with it, fine!
-Dahon, I'll forgive you for calling me
-that for now.");
+Dahon, Hikaru will allow it for now.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
