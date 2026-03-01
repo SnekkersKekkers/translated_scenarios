@@ -103,8 +103,8 @@ StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("Q190600000_06_130");
 MsgDisp("Himuro","Be careful.
-Don't get boisterous.");
-MsgDisp("主人公","Hehe, okay.
+Don't get carried away.");
+MsgDisp("主人公","Hehe, yeah.
 Thanks, ｛Himuro＊＊｝.");
 StlEye(6,0,0);
 StlMouth(6,0);
