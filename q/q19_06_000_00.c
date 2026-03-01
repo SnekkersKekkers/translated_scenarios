@@ -110,7 +110,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("Q190600000_06_140");
-MsgDisp("Himuro","...yeah.
+MsgDisp("Himuro","...Yeah.
 Good night, then.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 BGMStop();
