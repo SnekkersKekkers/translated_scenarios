@@ -35,7 +35,8 @@ SEPlay("EV_SE_542",0,0.4);
 SEWait();
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 VoicePlay("G110600702_06_020");
-MsgDisp("Himuro","...? What.");
+MsgDisp("Himuro","...? 
+What?");
 MsgDisp("主人公","(Come to think of it, he used to play bass
 too. He's not only athletic, but good with
 his hands...?)");
