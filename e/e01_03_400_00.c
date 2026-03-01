@@ -5,7 +5,7 @@ MsgDisp("主人公","(Yeah, I think it's time to go home now.
 Wait, over there, is that...)");
 VoicePlay("E010340000_22_000");
 MsgDisp("Hikaru?","Because～...
-I don't like being called that!");
+Hikaru doesn't like being called that!");
 VoicePlay("E010340000_03_000");
 MsgDisp("Honda?","Do you not like it?
 Pika-chan.");
@@ -13,7 +13,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,255,0,2,1,#1,#1,0,2,0,30);
-MsgDisp("主人公","What's happening with you both?");
+MsgDisp("主人公","What's up with you two?");
 ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,3,1);
@@ -32,7 +32,7 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,5,1);
 VoicePlay("E010340000_22_020");
-MsgDisp("Hikaru","That's Dahon's hobby, isn't it!");
+MsgDisp("Hikaru","That's just Dahon's opinion, isn't it!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -45,28 +45,28 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("E010340000_22_030");
 MsgDisp("Hikaru","Huh?
-Well, yeah, isn't that right?");
+Well, yeah, you do?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("E010340000_03_030");
 MsgDisp("Honda","Yeah, I guess you could say we're similar,
-I sympathize with you.");
+I totally relate.");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("E010340000_22_040");
-MsgDisp("Hikaru","Even if Dahon sympathizes with me, it's a
+MsgDisp("Hikaru","Even if Dahon is similar, it's a
 bit weird...
 What do you think, Mari?");
-MsgDisp("主人公","Well...both are unique I like them both.");
+MsgDisp("主人公","Umm... you both have pretty unique taste 
+in nicknames, but I like it.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("E010340000_22_050");
 MsgDisp("Hikaru","Hmm...if Mari is okay with it, fine!
-Dahon, I'll forgive you for calling me
-that for now.");
+Dahon, Hikaru will allow it for now.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
