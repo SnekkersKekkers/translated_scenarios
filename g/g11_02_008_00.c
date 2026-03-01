@@ -13,7 +13,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G110200800_02_010");
 MsgDisp("Sassa","Yeah, it's all thanks to you.
-Join me for a cool down, run!");
+Join me for a cooldown run!");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -73,7 +73,7 @@ ChClose(2,0,0);
 BGOpen("ex110",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(He's gone...huh?
-Wasn't this supposed to be a cool down
+Wasn't this supposed to be a cooldown
 run?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -74,9 +74,9 @@ MsgDisp("","The only one who knew both sides of
 me, interacted with both normally,
 was her.");
 MsgDisp("","When I was with her, I could laugh
-naturally without caring which I was.");
+naturally without caring who I was.");
 MsgClear();
-MsgDisp("","Hey, managerー, the seniors might be
+MsgDisp("","Hey, manager, the seniors might be
 annoyed with me, and I might become
 even more isolated.");
 MsgDisp("","But, if I give up now, my dream will

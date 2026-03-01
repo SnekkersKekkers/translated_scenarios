@@ -51,7 +51,7 @@ StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600000_06_030");
-MsgDisp("Himuro","What's with that surprised look.");
+MsgDisp("Himuro","What's with that surprised look?");
 MsgDisp("主人公","It's not like that.
 I think it's amazing.
 I want to watch you do it!");

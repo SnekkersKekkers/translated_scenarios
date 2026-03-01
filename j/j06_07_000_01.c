@@ -3,7 +3,7 @@ ChMouthOpenLevel(7,#1);
 ChCheek(7,0);
 MsgDisp("主人公","(What shall I do...?)");
 SEStop("EV_SE_GAYA_017",1.5);
-MsgSel("Raise your hand.", "Don't raise your hand");
+MsgSel("Raise your hand.", "Don't raise your hand.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","(Okay, let's join in!)");

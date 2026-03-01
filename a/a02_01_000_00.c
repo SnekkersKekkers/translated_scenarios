@@ -174,7 +174,7 @@ NSSEye(1,0);
 NSSMouth(1,3);
 VoicePlay("A020100000_01_110");
 MsgDisp("Kazama","Yeah, only me, without my parents.");
-MsgDisp("Kazama","Yeah. I came back early. School in England
+MsgDisp("Kazama","I came back early. School in England
 starts in September, so transferring now
 took some work.");
 MsgDisp("主人公","Oh, that makes sense...");
@@ -190,8 +190,7 @@ NSSMouth(1,0);
 VoicePlay("A020100000_01_130");
 MsgDisp("Kazama","My dad still has work over there, but
 since Grandpa owns an antique store here I
-decided to come live here on my own for a
-while.");
+decided to live here on my own for a while.");
 MsgDisp("主人公","You're gonna live in that big house all by
 yourself?
 Well, if you're ever in trouble—");
@@ -294,8 +293,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("A020100000_01_190");
-MsgDisp("Kazama","......Can't hear them～ And don't
-listen, either.");
+MsgDisp("Kazama","......Not listening～ 
+And you shouldn't listen to them either.");
 MsgDisp("主人公","(\"Young Master\" huh...
 Now I'm super curious...)");
 ChMotion(1,0);

@@ -10,7 +10,7 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("B020502127_05_010");
 MsgDisp("Hiiragi","Oh, excuse me.
 Up until now, I always thought that more
-revealing clothes lost any grace.");
+revealing clothes made one look unrefined.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -19,5 +19,5 @@ MsgDisp("Hiiragi","But oddly enough, I don't think that about
 what you're wearing.
 If anything, I can't seem to look away.");
 MsgDisp("主人公","(Oh, good.
-｛Hiiragi＊＊＊｝ seems to have come to like
-these clothes now.)");
+｛Hiiragi＊＊＊｝ seems to have come to 
+like these clothes now.)");

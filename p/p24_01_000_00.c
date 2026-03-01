@@ -16,7 +16,7 @@ VoicePlay("P240100000_47_000");
 MsgDisp("Audience","Kazama-kun, look this way～!");
 SEStop("EV_SE_588",3);
 SEStop("EV_SE_858",2);
-MsgDisp("主人公","(｛Kazama＊＊｝ is really popular huh...
+MsgDisp("主人公","(｛Kazama＊＊｝ is really popular, huh...
 Ah, I need to concentrate more∈)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.7);
@@ -69,7 +69,7 @@ ChMouth(1,4);
 ChMotion(1,0,1);
 VoicePlay("P240100000_01_050");
 MsgDisp("Kazama","Cinderella...
-...Please step forward.");
+...Please, step forward.");
 MsgDisp("主人公","Y-Yes, Prince.");
 MsgClose();
 ScrFadeOut(0,0);

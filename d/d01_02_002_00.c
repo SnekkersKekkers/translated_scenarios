@@ -2,7 +2,7 @@ BGOpen("sc330",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Looks like a variety of new books have
-been requested.
+been added.
 Should we look around?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

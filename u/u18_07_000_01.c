@@ -9,7 +9,7 @@ trade me a picture of you in pajamas for
 the final exam questions.▼～\"");
     MsgDisp("主人公","(Eeeh∋
 How did those two even obtain such a
-photo...!)");
+photo...∋)");
     break ;
     case 4:
     case 5:

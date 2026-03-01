@@ -5,8 +5,7 @@ issue of Habataki Watcher! Let's head
 straight to the rooftop and read it!)");
 SEPlay("EV_SE_591");
 Wait(60,0);
-MsgDisp("主人公","Oh no,
-the bonus poster...!");
+MsgDisp("主人公","Ah, the bonus poster...!");
 SEPlay("EV_SE_FOOT_RUN_KEEP_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -15,15 +14,15 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Oh no, it blew away...
 Where did it go?)");
 VoicePlay("A020410000_04_000");
-MsgDisp("Nanatsumori?","Something's blew over here.");
+MsgDisp("Nanatsumori?","Something just blew over here.");
 SEPlay("EV_SE_662");
 SEWait();
 VoicePlay("A020410000_04_010");
-MsgDisp("Nanatsumori?","...Huh, isn't it Habatcher's.");
+MsgDisp("Nanatsumori?","...Huh, isn't that Habatcher?");
 SEPlay("EV_SE_593",0,0.8);
 Wait(50,0);
 VoicePlay("A020410000_04_020");
-MsgDisp("Nanatsumori?","That's bad.");
+MsgDisp("Nanatsumori?","Oh no.");
 SEPlay("EV_SE_594",0,0.8);
 MsgClose();
 ScrFadeOut(0);
@@ -38,8 +37,8 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
 VoicePlay("A020410000_04_030");
-MsgDisp("Nanatsumori?","Right.
-Then, you have it.");
+MsgDisp("Nanatsumori?","Got it.
+Here, take it then.");
 SEPlay("EV_SE_592",0,1);
 SEWait();
 MsgDisp("主人公","Thank you.
@@ -102,7 +101,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_100");
-MsgDisp("Nanatsumori?","Well, he's a model you know.");
+MsgDisp("Nanatsumori?","Yeah but, he's just some model...");
 MsgDisp("主人公","He's all, he's got style, he's got that
 special wild vibe, and his face...when
 he's doing that 'shhh'...pose?");
@@ -135,7 +134,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("A020410000_04_150");
-MsgDisp("Nanatsumori","Sorr-...My bad too. I've been yelling
+MsgDisp("Nanatsumori","Sorr-...My bad. I've been yelling
 too.");
 ChEye(4,2);
 ChMouth(4,0);
