@@ -92,8 +92,9 @@ StlMouth(6,2);
 VoicePlay("Q190600000_06_110");
 MsgDisp("Himuro","It's too silent.
 Because the noisy one is away.");
-MsgDisp("主人公","Hey, why say in that way...
-You're so dishonest.");
+MsgDisp("主人公","Wow... 
+You really can't be honest with your
+feelings, huh?");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("Q190600000_06_120");
