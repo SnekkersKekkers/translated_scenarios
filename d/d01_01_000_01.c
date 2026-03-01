@@ -19,7 +19,7 @@ MsgDisp("主人公","Eh...
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D010100001_01_010");
-MsgDisp("Kazama","Well, I guess I get why you're smiling.");
+MsgDisp("Kazama","Well, I guess I get why.");
 MsgDisp("主人公","Uhm...
 No way, are we in the same class again
 this year?");
