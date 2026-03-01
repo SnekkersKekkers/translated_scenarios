@@ -20,8 +20,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700900_07_010");
-MsgDisp("Mikage","Haha, you're speed ahead straight from the
-start, aren't you?");
+MsgDisp("Mikage","Haha, you’re moving at full speed from 
+the get-go, aren't you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

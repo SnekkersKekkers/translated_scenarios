@@ -83,7 +83,7 @@ SEPlay("EV_SE_626");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Phew...
-I'm a bit tired but It was fun running
+I'm a bit tired but it was fun running
 with ｛Sassa＊＊｝.)");
 MsgClose();
 ScrFadeOut(0,0);
