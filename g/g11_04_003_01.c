@@ -91,7 +91,7 @@ VoicePlay("G110400301_04_080");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,0);
-MsgDisp("Nanatsumori","Oof...touche.");
+MsgDisp("Nanatsumori","Ach. You got me.");
 MsgDisp("主人公","(Hehe! It would be interesting to write an
 article about this conversation with
 ｛Nanatsumori＊｝!)");
