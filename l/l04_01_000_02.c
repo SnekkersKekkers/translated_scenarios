@@ -51,8 +51,8 @@ It looks delicious, so eat it properly.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100002_01_050");
-    MsgDisp("Kazama","I guess so.
-I eat it thankfully.");
+    MsgDisp("Kazama","You're right.
+I'll appreciate it properly.");
     MsgDisp("主人公","(Yeah.
 He seemed happy.)");
     MsgClose();
