@@ -73,8 +73,8 @@ He seemed happy.)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100002_01_070");
-    MsgDisp("Kazama","...Geez, it's fine.
-As long as your feelings are in this.");
+    MsgDisp("Kazama","...Honestly, you didn't have to do that.
+It's the thought that counts.");
     ChMotion(1,0);
     MsgDisp("主人公","Well, the chocolate looked super
 delicious, too.");
