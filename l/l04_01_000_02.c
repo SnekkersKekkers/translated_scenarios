@@ -84,7 +84,7 @@ delicious, too.");
     VoicePlay("L040100002_01_080");
     MsgDisp("Kazama","Of course it's delicious.
 You were the one who gave it to me.");
-    MsgDisp("主人公","Hm...?");
+    MsgDisp("主人公","Um...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
