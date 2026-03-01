@@ -20,7 +20,7 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("K010200100_02_010");
-    MsgDisp("Sassa","You got one for me?
+    MsgDisp("Sassa","You got a gift for me?
 I'm happy.");
     MsgDisp("主人公","Yeah, I chose it for you, ｛Sassa＊＊｝.");
     break ;
