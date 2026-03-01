@@ -16,8 +16,8 @@ About the voicemail thing, okay.");
 Then, on ｛日付｝ I'll be waiting
 for you at ｛待ち合わせ場所｝.");
     VoicePlay("J030601000_06_010");
-    MsgDisp("Himuro","I get it.
-Then, on the day, there we go.");
+    MsgDisp("Himuro","Got it.
+See you then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
