@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("L040100002_01_000");
     MsgDisp("Kazama","Hey, is this fine?
 This is expensive, isn't it?");
-    MsgDisp("主人公","I'm always in your care.");
+    MsgDisp("主人公","You're always looking out for me.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -51,8 +51,8 @@ It looks delicious, so eat it properly.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100002_01_050");
-    MsgDisp("Kazama","I guess so.
-I eat it thankfully.");
+    MsgDisp("Kazama","You're right.
+I'll appreciate it properly.");
     MsgDisp("主人公","(Yeah.
 He seemed happy.)");
     MsgClose();
@@ -67,14 +67,14 @@ He seemed happy.)");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("L040100002_01_060");
-    MsgDisp("Kazama","Did you push yourself for this?");
+    MsgDisp("Kazama","Did you work hard for this?");
     MsgDisp("主人公","Huh?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100002_01_070");
-    MsgDisp("Kazama","...Geez, it's fine.
-As long as your feelings are in this.");
+    MsgDisp("Kazama","...Honestly, you didn't have to do that.
+It's the thought that counts.");
     ChMotion(1,0);
     MsgDisp("主人公","Well, the chocolate looked super
 delicious, too.");
@@ -84,7 +84,7 @@ delicious, too.");
     VoicePlay("L040100002_01_080");
     MsgDisp("Kazama","Of course it's delicious.
 You were the one who gave it to me.");
-    MsgDisp("主人公","Hm...?");
+    MsgDisp("主人公","Um...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

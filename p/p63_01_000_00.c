@@ -8,9 +8,9 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year the Gardening Club's program is
-a cafe.
-We prepared herb tea and cookies, but...)");
+    MsgDisp("主人公","(This year the Gardening Club is running
+a cafe. We prepared herbal tea and 
+cookies, but...)");
     MsgClose();
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630100000_01_000");

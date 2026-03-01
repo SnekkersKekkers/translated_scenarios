@@ -7,7 +7,7 @@ VoicePlay("R080100000_01_000");
 VoiceEVSPlay(1);
 MsgDisp("Kazama","Okay, enjoy the Christmas party until the
 end, ｛主人公｝.");
-MsgDisp("主人公","Huh, what about you, ｛Kazama＊＊｝?");
+MsgDisp("主人公","Huh? What about you, ｛Kazama＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -89,7 +89,7 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("R080100000_21_020");
 MsgDisp("Michiru","I see...
-Kazama-kun must have it rough, huh.");
+Kazama-kun must have it rough, huh?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

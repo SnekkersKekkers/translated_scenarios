@@ -18,10 +18,9 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G110300601_03_020");
-MsgDisp("Honda","Right, right, if the manager didn't trust
-you, they wouldn't let you give monthly
-recommendations to the customer, would
-they?");
+MsgDisp("Honda","Yepyep, if the manager didn't trust you, 
+they wouldn't let you give the
+recommendation, would they?");
 MsgDisp("主人公","｛Honda＊＊｝, what should I do...");
 ChEye(3,0);
 ChMouth(3,3);
@@ -73,8 +72,8 @@ ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300601_03_080");
 MsgDisp("Honda","A magazine∋
-Yep yep, it's good.
-That's so 'you', nice perspective!");
+Yepyep, that's good.
+It's very "you", nice perspective!");
 MsgDisp("主人公","(Is it really okay...?)");
 BGMStop();
 MsgClose();

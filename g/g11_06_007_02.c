@@ -9,7 +9,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_000");
-MsgDisp("Himuro","Yeah, but I'm going to stop by the beach.");
+MsgDisp("Himuro","Yeah, but I'm going to stop by the beach
+first.");
 MsgDisp("主人公","Ah, are you maybe going surfing?
 Can I come to watch?");
 ChEye(6,0);
@@ -35,10 +36,11 @@ SEPlay("EV_SE_542",0,0.4);
 SEWait();
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 VoicePlay("G110600702_06_020");
-MsgDisp("Himuro","...? What.");
+MsgDisp("Himuro","...? 
+What?");
 MsgDisp("主人公","(Come to think of it, he used to play bass
 too. He's not only athletic, but good with
-his hands too...?)");
+his hands...?)");
 while (1){
     RunEverydaySksp(6,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -55,9 +57,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_040");
-MsgDisp("Himuro","What...?
+MsgDisp("Himuro","Huh...?
 Why are you staring at my arm all of a
-sudden.");
+sudden?");
 MsgDisp("主人公","Ah, sorry.
 I'm just thinking about before, that time
 we went to the livehouse.");
@@ -66,8 +68,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_050");
 MsgDisp("Himuro","Oh...that?");
-MsgDisp("主人公","｛Himuro＊＊｝, borrowed a bass from one of the
-band members and started playing, right?");
+MsgDisp("主人公","｛Himuro＊＊｝ borrowed a bass from one 
+of the band members and started 
+playing, remember?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

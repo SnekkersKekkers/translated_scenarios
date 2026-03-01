@@ -71,7 +71,8 @@ ChMouth(4,1);
 VoicePlay("G110400301_04_050");
 MsgDisp("Nanatsumori","Don't...don't take it so seriously.
 It was a joke.");
-MsgDisp("主人公","(He was groaning with his eyes...)");
+MsgDisp("主人公","(Maybe I'll try giving him
+the puppy-dog eyes...)");
 while (1){
     RunEverydaySksp(4,0,1,0,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -79,22 +80,22 @@ while (1){
         }
     BGMVol(0.5,2);
     VoicePlay("G110400301_04_070");
-    MsgDisp("Nanatsumori","I don't know if I just do that naturally
-or if I'm good at acting...");
+    MsgDisp("Nanatsumori","You're either totally oblivious or you're
+pretending...can't tell which.");
     }
 VoicePlay("G110400301_04_060");
 ChMouth(4,2);
 ChCheek(4,5);
 MsgDisp("Nanatsumori","I haven't eaten enough to do a review...");
-MsgDisp("主人公","Hehe, was that just a joke then too?");
+MsgDisp("主人公","Hehe, I was just joking, you know?");
 VoicePlay("G110400301_04_080");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,0);
 MsgDisp("Nanatsumori","Oof...touche.");
-MsgDisp("主人公","(Hehe! It would be interesting to write an
-article about this conversation with
-｛Nanatsumori＊｝!)");
+MsgDisp("主人公","(Hehe! It would be fun to write about 
+spending time with ｛Nanatsumori＊｝
+like this!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

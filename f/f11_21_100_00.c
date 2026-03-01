@@ -3,7 +3,7 @@ MsgClose();
 ChOpen(21,254,2,2,4,#1,#1,5,0,0,0);
 ScrFadeIn(0);
 VoicePlay("F112110000_21_000");
-MsgDisp("Michiru","Ha...");
+MsgDisp("Michiru","Sigh...");
 MsgDisp("主人公","Oh, ｛みちる＊｝!");
 ChMotion(21,0);
 VoicePlay("F112110000_21_010");
@@ -37,7 +37,7 @@ ChCheek(21,10);
 VoicePlay("F112110000_21_050");
 MsgDisp("Michiru","They were exchanging super bittersweet
 words, and my heart couldn't stop beating.
-Ha...what do I do?");
+Ahh, what should I do?");
 MsgDisp("主人公","(｛みちる＊｝, her face is a deep red.
 So she's somewhat pure.)");
 MsgClose();

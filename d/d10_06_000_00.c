@@ -13,7 +13,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D100600000_06_010");
 MsgDisp("Himuro","What's up...not much, I guess?
-I just saw you so I said hi.");
+I just saw you and wanted to say hi.");
 MsgDisp("主人公","Oh.
 Hehe, thank you.");
 ChEye(6,0);
@@ -25,7 +25,7 @@ MsgDisp("Himuro","...Bye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(It's rare that ｛Himuro＊＊｝ talks to me for
-no reason...)");
+MsgDisp("主人公","(It's rare for ｛Himuro＊＊｝ to talk to
+me without a reason...)");
 MsgClose();
 ScrFadeOut(0);

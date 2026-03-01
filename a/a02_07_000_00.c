@@ -15,7 +15,8 @@ ChLayout(1);
 SEPlay("EV_SE_515",0.2,0.2);
 SEPlay("EV_SE_860");
 VoicePlay("A020700000_44_000");
-MsgDisp("School Girl A","∋　Who's that guy?");
+MsgDisp("School Girl A","∋
+Who's that guy?");
 SEStop("EV_SE_860",1.5);
 VoicePlay("A020700000_42_010");
 MsgDisp("Male Student A","The electrician?");
@@ -23,7 +24,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("A020700000_07_000");
-MsgDisp("Mikage?","...Hmph.");
+MsgDisp("Mikage?","...Hmm.");
 SEPlay("EV_SE_026",0,0.8,1);
 ChEye(7,0);
 ChMouth(7,3);
@@ -72,7 +73,7 @@ MsgDisp("School Girl B","Kidding right?");
 VoicePlay("A020700000_42_060");
 MsgDisp("Male Student A","Seriously?");
 VoicePlay("A020700000_41_070");
-MsgDisp("Male Student B","Oh man, for real!");
+MsgDisp("Male Student B","Oh man, for real!?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -122,7 +123,7 @@ MsgDisp("Mikage","But I was about to start homeroom...");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("A020700000_32_030");
-MsgDisp("VP Himuro","\"Immediately.\"");
+MsgDisp("VP Himuro","Immediately.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -219,8 +220,8 @@ ChMotion(7,0);
 VoicePlay("A020700000_07_150");
 MsgDisp("Mikage","That's essential information, right? I
 teach biology. I'm also the advisor for
-gardening and track-and-field clubs.
-Although for track-and-field, I merely
+the Gardening and Track and Field club.
+Although for track and field, I merely
 serve as decoration.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -228,7 +229,7 @@ ChMotion(7,3);
 VoicePlay("A020700000_07_160");
 MsgDisp("Mikage","Alright, last one...
 You, who's smiling, by the window.");
-MsgDisp("主人公","Smiling, by the window......
+MsgDisp("主人公","Smiling by the window...?
 Does he mean me∋");
 ChEye(7,0);
 ChMouth(7,3);
@@ -254,9 +255,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("A020700000_07_190");
-MsgDisp("Mikage","No more! Didn't I say \"last question\"?
-If I have to tell you everything, a year
-isn't enough!");
+MsgDisp("Mikage","No more! Didn't I say \"last question\"?\nIf I tell you everything now, there won't\nbe anything left for the rest of the year!");
 SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.9);
 SEPlay("EV_SE_788",0.2);
@@ -272,8 +271,8 @@ SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.8);
 SEPlay("EV_SE_788",0.2);
 MsgDisp("主人公","(Mikage-sensei...He's a bit eccentric,
-but he seems like a funny teacher.
-I hope it's gonna be a fun year!)");
+but he seems like an interesting teacher.
+I hope we have a fun year!)");
 SEStop("EV_SE_864",2)SEStop("EV_SE_GAYA_023",2);
 SEStop("EV_SE_788",2);
 BGMStop(2);
