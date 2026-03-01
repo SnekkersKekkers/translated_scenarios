@@ -79,7 +79,7 @@ StlEyeOpenLevel(6,5,1);
 StlCheek(6,0);
 VoicePlay("Q190600000_06_090");
 MsgDisp("Himuro","Ah, is that so...");
-MsgDisp("主人公","I don't feel the spirit from you...");
+MsgDisp("主人公","That didn't sound genuine...");
 StlEye(6,0,0);
 StlMouth(6,2);
 StlEyeOpenLevel(6,5,1);
