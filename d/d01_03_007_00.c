@@ -25,7 +25,8 @@ SEPlay("EV_SE_GAYA_003",0,0.8);
 SEStop("EV_SE_707",1.5);
 VoicePlay("D010300700_43_010");
 MsgDisp("Moderator","Iku Honda-kun!");
-MsgDisp("主人公","∈ ｛Honda＊＊｝∋");
+MsgDisp("主人公","∈
+｛Honda＊＊｝∋");
 VoicePlay("D010300700_43_020");
 MsgDisp("Moderator","Honda-kun, congrats!
 How are you feeling?");
