@@ -49,9 +49,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Z710700000_07_040");
-MsgDisp("Mikage","It's not about that.
-Let's find something interesting in what
-we have to do.");
+MsgDisp("Mikage","That's not the point.
+We have to find something interesting
+to do.");
 SEStop("EV_SE_GAYA_016",5);
 MsgClose();
 ScrFadeOut(0);
