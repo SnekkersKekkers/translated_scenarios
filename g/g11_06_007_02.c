@@ -9,7 +9,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_000");
-MsgDisp("Himuro","Yeah, but I'm going to stop by the beach.");
+MsgDisp("Himuro","Yeah, but I'm going to stop by the beach
+first.");
 MsgDisp("主人公","Ah, are you maybe going surfing?
 Can I come to watch?");
 ChEye(6,0);
