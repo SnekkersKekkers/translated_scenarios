@@ -12,7 +12,7 @@ from ｛Himuro＊＊｝?)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 SEWait();
-MsgDisp("主人公","He, hello...?");
+MsgDisp("主人公","H-Hello...?");
 VoicePlay("Q190600000_06_000");
 MsgDisp("Himuro","...Why are you answering.
 Isn't it past lights out time?");
