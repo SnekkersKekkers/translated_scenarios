@@ -45,7 +45,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610306_06_050");
 MsgDisp("Himuro","Ugh...");
-MsgDisp("主人公","WOuld you still dislike them even if they
+MsgDisp("主人公","Would you still dislike them even if they
 were cooked deliciously?");
 ChEye(6,0);
 ChMouth(6,0);
