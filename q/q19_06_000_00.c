@@ -2,7 +2,7 @@ BGOpen("sc816",2);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's past lights out time, I have to go
-to bed early too...)");
+to bed early...)");
 SEPlay("EV_SE_670");
 SEWait();
 SEPlay("EV_SE_579");
@@ -110,7 +110,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("Q190600000_06_140");
-MsgDisp("Himuro","...yeah.
+MsgDisp("Himuro","...Yeah.
 Good night, then.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 BGMStop();
@@ -122,7 +122,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛Himuro＊＊｝ even gave me a call...
+MsgDisp("主人公","(｛Himuro＊＊｝ went out of his way to
+give me a call...
 I'm so happy.)");
 MsgClose();
 ScrFadeOut(0);
