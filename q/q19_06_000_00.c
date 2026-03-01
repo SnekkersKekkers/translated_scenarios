@@ -2,7 +2,7 @@ BGOpen("sc816",2);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's past lights out time, I have to go
-to bed early too...)");
+to bed early...)");
 SEPlay("EV_SE_670");
 SEWait();
 SEPlay("EV_SE_579");
