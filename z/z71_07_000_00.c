@@ -97,8 +97,8 @@ MsgDisp("Mikage","Good question.
 This girl is Molly, a female Holstein.
 The real one is even more beautiful.");
 VoicePlay("Z710700000_41_050");
-MsgDisp("Male Student B","We know.
-It's Mikagecchi's girlfriend, right?");
+MsgDisp("Male Student B","I get it.
+She's Mikagecchi's girlfriend, right?");
 SEPlay("EV_SE_GAYA_016");
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863",0,0.4)VoicePlay("Z710700000_45_010");
