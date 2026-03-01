@@ -7,7 +7,7 @@ ChMotion(21,7);
 ScrFadeIn(0);
 VoicePlay("F022100001_21_000");
 MsgDisp("Michiru","Come to think of it.
-There's a Prince and Princess at Habataki
+There's a Prince and Princess of Habataki
 Academy.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(21,0);
