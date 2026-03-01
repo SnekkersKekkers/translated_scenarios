@@ -4,9 +4,9 @@ MsgDisp("主人公","(I'm a second year student starting today.
 I wonder what this year will be like?
 Hehe, I'm looking forward to it!)");
 VoicePlay("D010100001_01_000");
-MsgDisp("Kazama?","Don't just stand here and smile all by
+MsgDisp("Kazama?","Don't just stand there grinning to
 yourself.
-...Geez, what a crazy person.");
+...Honestly, you look kind of suspicious.");
 MsgClose();
 ScrFadeOut(0,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
