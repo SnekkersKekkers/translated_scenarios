@@ -66,8 +66,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_050");
 MsgDisp("Himuro","Oh...that?");
-MsgDisp("主人公","｛Himuro＊＊｝, borrowed a bass from one of the
-band members and started playing, right?");
+MsgDisp("主人公","｛Himuro＊＊｝ borrowed a bass from one 
+of the band members and started 
+playing, remember?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
