@@ -51,7 +51,7 @@ ChMotion(22,5,1);
 VoicePlay("D140D07040_22_030");
 MsgDisp("Hikaru","I totally get it!
 It would be impossible for Hikaru; that
-multi-faceted sort of like.");
+multi-faceted sort of life.");
 MsgDisp("主人公","(Multi-faceted? Not a \"Double life\"? You
 are talking about the four eyes
 ｛Nanatsumori＊｝ at school And the model
