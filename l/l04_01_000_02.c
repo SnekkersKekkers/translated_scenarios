@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("L040100002_01_000");
     MsgDisp("Kazama","Hey, is this fine?
 This is expensive, isn't it?");
-    MsgDisp("主人公","I'm always in your care.");
+    MsgDisp("主人公","You're always looking out for me.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
