@@ -30,7 +30,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100100_01_010");
-MsgDisp("Kazama","Ah, that's right huh.
+MsgDisp("Kazama","Ah, that's right, huh.
 It's completely trivial, it's just about
 the school cafeteria.");
 MsgDisp("主人公","Cafeteria?");
