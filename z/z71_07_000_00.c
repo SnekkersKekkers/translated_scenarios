@@ -127,7 +127,7 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Z710700000_07_090");
-MsgDisp("Mikage","Aah, hey.
+MsgDisp("Mikage","Ahh, hey.
 Keep your voices down.
 It'll end up like last year again.");
 SEStop("EV_SE_GAYA_023",2);
