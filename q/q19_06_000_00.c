@@ -62,7 +62,7 @@ StlEye(6,2);
 StlMouth(6,2);
 StlCheek(6,5);
 VoicePlay("Q190600000_06_070");
-MsgDisp("Himuro","...I was not concentrating.");
+MsgDisp("Himuro","...I wasn't paying attention.");
 MsgDisp("主人公","Eh, you put them on∋");
 StlEye(6,0);
 StlMouth(6,2);
