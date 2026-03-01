@@ -8,7 +8,7 @@ VoicePlay("P650700000_07_000");
 MsgDisp("Mikage","｛主人公｝, you did great. The herbs were
 raised with care and served perfectly. It 
 was highly praised in the staff room, too.");
-MsgDisp("主人公","Genuinely?");
+MsgDisp("主人公","Really?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
