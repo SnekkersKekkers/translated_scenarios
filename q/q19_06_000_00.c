@@ -97,7 +97,7 @@ You're so dishonest.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("Q190600000_06_120");
-MsgDisp("Himuro","Well, you'll be back in two day anyway.
+MsgDisp("Himuro","Well, you'll be back in two days anyway.
 I'll talk to you then.");
 StlEye(6,0);
 StlMouth(6,0);
