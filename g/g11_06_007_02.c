@@ -38,7 +38,7 @@ VoicePlay("G110600702_06_020");
 MsgDisp("Himuro","...? What.");
 MsgDisp("主人公","(Come to think of it, he used to play bass
 too. He's not only athletic, but good with
-his hands too...?)");
+his hands...?)");
 while (1){
     RunEverydaySksp(6,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
