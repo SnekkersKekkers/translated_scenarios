@@ -4,15 +4,15 @@ ChMotion(31,2);
 ScrFadeIn(0);
 VoicePlay("P643100000_31_000");
 MsgDisp("Goro","How delightful.");
-MsgDisp("主人公","Hehe, I'm glad.
-That herb tea has relaxing effects.");
+MsgDisp("主人公","Hehe, I'm glad you like it.
+That herbal tea has a calming effect.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("P643100000_31_010");
-MsgDisp("Goro","I see, is that so...
-I thought the adrenaline secretion was
-mild.");
+MsgDisp("Goro","I see, so that's the secret...
+No wonder my adrenaline levels
+have calmed down.");
 MsgDisp("主人公","Eh?");
 ChEye(31,0);
 ChMouth(31,0);

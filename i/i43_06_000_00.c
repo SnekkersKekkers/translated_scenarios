@@ -21,7 +21,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,35,0,0,0,#1,#1,0,0);
     VoicePlay("I430600000_06_000");
     MsgDisp("Himuro","...Ah.");
-    MsgDisp("主人公","Hm, ｛Himuro＊＊｝∋
+    MsgDisp("主人公","Eh, ｛Himuro＊＊｝∋
 Why are you here?");
     ChEye(6,0);
     ChMouth(6,0);
