@@ -90,8 +90,8 @@ MsgDisp("主人公","Eh...");
 StlEye(6,0);
 StlMouth(6,2);
 VoicePlay("Q190600000_06_110");
-MsgDisp("Himuro","It's too silent.
-Because the noisy one is away.");
+MsgDisp("Himuro","It's too quiet here.
+Now that the noisy person is gone.");
 MsgDisp("主人公","Hey, why say in that way...
 You're so dishonest.");
 StlEye(6,0);
