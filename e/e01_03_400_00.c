@@ -59,7 +59,8 @@ VoicePlay("E010340000_22_040");
 MsgDisp("Hikaru","Even if Dahon is similar, it's a
 bit weird...
 What do you think, Mari?");
-MsgDisp("主人公","Well...both are unique I like them both.");
+MsgDisp("主人公","Umm... you both have pretty unique taste 
+in nicknames, but I like it.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
