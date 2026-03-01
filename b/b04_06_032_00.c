@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040603200_06_000");
 MsgDisp("Himuro","Uwa...
 It's filled with couples...");
-MsgSel("Let's get lovey-dovey too!","Shall we go somewhere else?","People are people, us is us.");
+MsgSel("Let's get lovey-dovey too!","Shall we go somewhere else?","Let's just be ourselves.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

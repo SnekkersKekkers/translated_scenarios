@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("G020610306_06_000");
-MsgDisp("Himuro","Tey say that the light of fireflies
+MsgDisp("Himuro","They say that the light of fireflies
 represents the souls of the dead, right?");
 MsgDisp("主人公","Yeah, seems that way, huh?");
 ChEye(6,0);
@@ -45,7 +45,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610306_06_050");
 MsgDisp("Himuro","Ugh...");
-MsgDisp("主人公","WOuld you still dislike them even if they
+MsgDisp("主人公","Would you still dislike them even if they
 were cooked deliciously?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -64,15 +64,15 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610306_06_080");
 MsgDisp("Himuro","......Still, eggplants.");
-MsgDisp("主人公","Do you still hate eggplants?");
+MsgDisp("主人公","Would you still hate them then?");
 ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,0);
 VoicePlay("G020610306_06_090");
-MsgDisp("Himuro","......Hate them.");
+MsgDisp("Himuro","...I hate them.");
 MsgDisp("主人公","(Hehe.
-I got to hear ｛Himuro＊＊｝'s true thoughts.
-♪)");
+I got to hear ｛Himuro＊＊｝'s 
+true thoughts♪)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

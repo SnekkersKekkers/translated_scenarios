@@ -34,7 +34,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q100100000_01_030");
 MsgDisp("Kazama","Stop it.
-I can't stop but imagine him wearing round
+I can't help but imagine him wearing round
 glasses.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -62,8 +62,8 @@ VoicePlay("Q100100000_01_050");
 MsgDisp("Kazama","Huh...
 There sure are a lot of stylish shops
 around here.");
-MsgDisp("主人公","If it's coming from ｛Kazama＊＊｝ then
-there's no doubt about it, right?");
+MsgDisp("主人公","If ｛Kazama＊＊｝ says it, it must
+really be true!");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -75,7 +75,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q100100000_01_070");
 MsgDisp("Kazama","Okay, let's have a competition to decide
-whose the better shopper.
+who's the better shopper.
 How's that?");
 MsgDisp("主人公","Hehe, sure.");
 ChEye(1,4);

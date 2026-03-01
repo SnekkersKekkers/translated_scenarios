@@ -33,8 +33,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Z710700000_07_020");
 MsgDisp("Mikage","Come on, be quiet.
-I don't want to get yelled at by vice
-principal Himuro on the first day again.");
+I don't want to get yelled at by Vice
+Principal Himuro on the first day again.");
 SEStop("EV_SE_863",2);
 ChEye(7,0);
 ChMouth(7,0);
@@ -49,9 +49,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Z710700000_07_040");
-MsgDisp("Mikage","It's not about that.
-Let's find something interesting in what
-we have to do.");
+MsgDisp("Mikage","That's not the point.
+We have to find something interesting
+to do.");
 SEStop("EV_SE_GAYA_016",5);
 MsgClose();
 ScrFadeOut(0);
@@ -72,7 +72,7 @@ SEPlay("EV_SE_743");
 SEPlay("EV_SE_863",0,0.7);
 Wait(30,0);
 VoicePlay("Z710700000_45_000");
-MsgDisp("School Girl B","Look forward to it, Mikagecchi!");
+MsgDisp("School Girl B","I'm looking forward to it too, Mikagecchi!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -87,7 +87,8 @@ SEStop("EV_SE_743",2);
 VoicePlay("Z710700000_42_040");
 MsgDisp("Male Student A","Mikagecchi, how awful!
 You're too much!");
-MsgDisp("主人公","Um...Ah! Please tell us about the cow on
+MsgDisp("主人公","Um...
+Ah! Please tell us about the cow on
 the blackboard.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -95,10 +96,10 @@ ChMotion(7,3);
 VoicePlay("Z710700000_07_070");
 MsgDisp("Mikage","Good question.
 This girl is Molly, a female Holstein.
-The real one is even more beautiful.");
+She's even more beautiful in person.");
 VoicePlay("Z710700000_41_050");
-MsgDisp("Male Student B","We know.
-It's Mikagecchi's girlfriend, right?");
+MsgDisp("Male Student B","I get it.
+She's Mikagecchi's girlfriend, right?");
 SEPlay("EV_SE_GAYA_016");
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863",0,0.4)VoicePlay("Z710700000_45_010");
@@ -127,7 +128,7 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Z710700000_07_090");
-MsgDisp("Mikage","Aah, hey.
+MsgDisp("Mikage","Ahh, hey.
 Keep your voices down.
 It'll end up like last year again.");
 SEStop("EV_SE_GAYA_023",2);

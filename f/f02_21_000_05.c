@@ -5,7 +5,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,7);
 ScrFadeIn(0);
-MsgDisp("主人公","It's the end of term tests soon.");
+MsgDisp("主人公","Exams are coming up soon.");
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F022100005_21_000");
