@@ -12,7 +12,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D100D00000_22_000");
-MsgDisp("Hikaru","Ma～ ri▼
+MsgDisp("Hikaru","Mari～▼
 A flower has bloomed in the garden of your
 heart♪");
 MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝.
