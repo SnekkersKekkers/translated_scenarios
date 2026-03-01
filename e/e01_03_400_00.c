@@ -45,7 +45,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("E010340000_22_030");
 MsgDisp("Hikaru","Huh?
-Well, yeah, isn't that right?");
+Well, yeah, you do?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
