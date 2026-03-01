@@ -9,7 +9,7 @@ Wait(15,0);
 ChOpen(21,254,0,0,0,#1,#1,0,0);
 VoicePlay("F102110002_21_000");
 MsgDisp("Michiru","Mari.");
-MsgDisp("主人公","Um..");
+MsgDisp("主人公","Um...");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
