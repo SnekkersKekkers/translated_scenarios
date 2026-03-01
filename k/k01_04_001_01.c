@@ -10,8 +10,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("K010400101_04_010");
-MsgDisp("Nanatsumori","How nice.
-A mission success.");
+MsgDisp("Nanatsumori","Nice work.
+Mission accomplished.");
 MsgDisp("主人公","In other words...");
 ChEye(4,3);
 ChMouth(4,3);
