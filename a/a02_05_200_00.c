@@ -39,8 +39,7 @@ Looking forward to working with you.");
 MsgDisp("主人公","O-Of course!
 Looking forward too!");
 VoicePlay("A020520000_41_000");
-MsgDisp("President","Ah, a new member? Welcome. Hiiragi-kun,
-you introduced yourself already?");
+MsgDisp("President","Ah, a new member? Welcome. \nHiiragi-kun, did you introduce yourself \nalready?");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);
