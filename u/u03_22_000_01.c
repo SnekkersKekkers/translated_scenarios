@@ -23,7 +23,7 @@ I'll cherish it.");
 Hikaru will as well.
 Hikaru got the same one as Mari▼");
     SEPlay("EV_SE_083");
-    MsgDisp("主人公","(\"I got an animal printed mug!)");
+    MsgDisp("主人公","(\"I got an animal print coffee mug!\")");
     SEPlay("EV_SE_080");
     MsgDisp("主人公","(I feel like my intuition is getting
 stronger...)");
