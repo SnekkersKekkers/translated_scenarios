@@ -38,7 +38,7 @@ VoicePlay("A020430000_04_010");
 MsgDisp("Nanatsumori?","No thanks. I'll have a strawberry parfait,
 macaron special, slice of chocolate cake
 and banana pie, with hot coffee.");
-MsgDisp("主人公","R- Right away!!");
+MsgDisp("主人公","R-Right away!!");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
