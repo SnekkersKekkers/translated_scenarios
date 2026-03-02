@@ -47,7 +47,7 @@ ChMotion(5,4);
 VoicePlay("A020520000_05_020");
 MsgDisp("Hiiragi","We were just introducing ourselves.");
 VoicePlay("A020520000_41_010");
-MsgDisp("President","So, are you surprised?");
+MsgDisp("President","Hey you, are you surprised?");
 MsgDisp("主人公","About what?");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
