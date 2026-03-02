@@ -32,9 +32,9 @@ VoicePlay("G110300600_03_000");
 MsgDisp("Honda","Really?
 I was a bit worried because it's a girl's
 comic, but I'm glad.");
-MsgDisp("主人公","It made me want to read it too. "Adults 
+MsgDisp("主人公","It made me want to read it too. \"Adults 
 meet their high school selves and high 
-schoolers meet their tomorrow selves..."");
+schoolers meet their tomorrow selves...\"");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,2);
