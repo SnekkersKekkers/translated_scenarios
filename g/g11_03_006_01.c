@@ -73,7 +73,7 @@ ChMotion(3,1);
 VoicePlay("G110300601_03_080");
 MsgDisp("Honda","A magazine∋
 Yepyep, that's good.
-It's very "you", nice perspective!");
+It's very \"you\", nice perspective!");
 MsgDisp("主人公","(Is it really okay...?)");
 BGMStop();
 MsgClose();
