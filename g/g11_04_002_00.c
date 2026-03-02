@@ -17,9 +17,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(Phew...
-I guess it's too early to tell...
-I'll just have some tea and go home.)");
+MsgDisp("主人公","(Phew...\nI guess I'm too early...\nI'll just have some tea and go home.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
 MsgClose();
