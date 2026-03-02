@@ -132,8 +132,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChCheek(1,5);
 VoicePlay("D020100000_01_250");
-MsgDisp("Kazama","Oy∈ Don't just lift your legs up like
-that here!");
+MsgDisp("Kazama","Oy∈ \nDon't just lift your legs up like\nthat here!");
 MsgDisp("主人公","Ah, sorry.
 I guess it's rude to do that...");
 ChEye(1,0);
