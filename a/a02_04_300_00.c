@@ -247,7 +247,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_220");
 MsgDisp("Nanatsumori","You, what's your name?");
-MsgDisp("主人公","｛主人公姓名｝. See you in school, okay?");
+MsgDisp("主人公","I'm ｛主人公姓名｝. \nSee you at school, okay?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);
