@@ -217,9 +217,7 @@ secret from people at school?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_180");
-MsgDisp("Nanatsumori","Yeah. It's a peculiar job, I got a feeling
-it'd mean trouble if I was discovered at
-school.");
+MsgDisp("Nanatsumori","Yeah. \nIt's an unusual job. I feel like it would\nbe trouble if people at school found out.");
 MsgDisp("主人公","I see.
 Then, I'll keep it a secret, okay?");
 ChEye(4,2);
