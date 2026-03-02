@@ -220,8 +220,7 @@ VoicePlay("A020430000_04_180");
 MsgDisp("Nanatsumori","Yeah. It's a peculiar job, I got a feeling
 it'd mean trouble if I was discovered at
 school.");
-MsgDisp("主人公","I see.
-Then, I'll keep it a secret, okay?");
+MsgDisp("主人公","I see.\nI'll keep it a secret then, okay?");
 ChEye(4,2);
 ChMouth(4,0);
 VoicePlay("A020430000_04_190");
