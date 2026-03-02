@@ -104,7 +104,7 @@ VoicePlay("A020410000_04_100");
 MsgDisp("Nanatsumori?","Yeah but, he's just some model...");
 MsgDisp("主人公","But he's so stylish...and tall. He's got a
 great figure. He looks so wild when he does
-that "Shhh!" pose.");
+that \"Shhh!\" pose.");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,2,1);
