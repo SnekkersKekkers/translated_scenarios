@@ -36,8 +36,7 @@ VoicePlay("A020520000_05_010");
 MsgDisp("Hiiragi?","Yes, I'm listening.
 I'm Hiiragi Yanosuke.
 Looking forward to working with you.");
-MsgDisp("主人公","O-Of course!
-Looking forward too!");
+MsgDisp("主人公","Y-Yes!\nI'm looking forward to it too!");
 VoicePlay("A020520000_41_000");
 MsgDisp("President","Ah, a new member? Welcome. Hiiragi-kun,
 you introduced yourself already?");
