@@ -26,7 +26,7 @@ SEWait();
 BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020520000_05_000");
-MsgDisp("Hiiragi?","Can I help you?");
+MsgDisp("Hiiragi?","May I help you with something?");
 MsgDisp("主人公","Err...My name is ｛主人公姓名｝, and I
 would like to join the student council!");
 ChEye(5,0);
