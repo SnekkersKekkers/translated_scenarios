@@ -33,9 +33,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("A020520000_05_010");
-MsgDisp("Hiiragi?","Yes, I'm listening.
-I'm Hiiragi Yanosuke.
-Looking forward to working with you.");
+MsgDisp("Hiiragi?","Yes, I'm listening.\nI'm Hiiragi Yanosuke.\nI'm looking forward to working with you.");
 MsgDisp("主人公","O-Of course!
 Looking forward too!");
 VoicePlay("A020520000_41_000");
