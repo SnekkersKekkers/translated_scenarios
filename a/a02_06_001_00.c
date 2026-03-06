@@ -4,8 +4,9 @@ MsgDisp("主人公","(It's gotten late.
 Gotta go back home.)");
 VoicePlay("A020600100_32_000");
 MsgDisp("VP Himuro?","Alright, finally.");
-MsgDisp("主人公","(Hmm? That voice...Vice Principal
-Himuro?)");
+MsgDisp("主人公","(Hmm?
+That voice...
+Vice Principal Himuro?)");
 VoicePlay("A020600100_06_000");
 MsgDisp("Himuro?","Yes. I'll be counting on you from next
 month.");
@@ -16,8 +17,9 @@ VoicePlay("A020600100_06_010");
 MsgDisp("Himuro?","Of course.
 I'm not expecting any.");
 VoicePlay("A020600100_32_020");
-MsgDisp("VP Himuro","Hmm...I like this mindset. Looking
-forward to it.");
+MsgDisp("VP Himuro","Hmm...
+I like this mindset.
+Looking forward to it.");
 VoicePlay("A020600100_06_020");
 MsgDisp("Himuro?","Thank you.
 Now if you'll excuse me.");

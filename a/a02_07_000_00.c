@@ -190,8 +190,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("A020700000_07_120");
-MsgDisp("Mikage","Wait wait wait! Shh! Shh! Stop the noise,
-I tell you!");
+MsgDisp("Mikage","Wait wait wait!
+Shh! Shh!
+Stop the noise, I tell you!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

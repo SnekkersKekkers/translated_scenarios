@@ -55,8 +55,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("A020220000_02_040");
-MsgDisp("Sassa?","Yeah. Let me walk you to the captain! He's
-on the field!");
+MsgDisp("Sassa?","Yeah.
+Let me walk you to the captain!
+He's on the field!");
 MsgDisp("主人公","Wait, you aren't the captain?");
 ChEye(2,0);
 ChMouth(2,4);

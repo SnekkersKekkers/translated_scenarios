@@ -39,7 +39,8 @@ ChMouth(6,4);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("A020601000_06_040");
-MsgDisp("Himuro?","Huh...As expected.
+MsgDisp("Himuro?","Huh...
+As expected.
 You think we look alike?");
 MsgDisp("主人公","Huh?\nNow that you mention it...I see it!");
 MsgClose();

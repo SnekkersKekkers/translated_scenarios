@@ -26,8 +26,9 @@ ChMotion(3,1);
 VoicePlay("A020310000_03_030");
 MsgDisp("Honda?","...Ah, I'm Honda Iku.
 And you are?");
-MsgDisp("主人公","｛主人公姓名｝. ｛Honda＊＊｝, is it? What
-were you doing?");
+MsgDisp("主人公","｛主人公姓名｝.
+｛Honda＊＊｝, is it?
+What were you doing?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -46,7 +47,8 @@ VoicePlay("A020310000_03_060");
 MsgDisp("Honda","Yes, correct! Now think back to your
 middle school classrooms. Do you
 remember?");
-MsgDisp("主人公","Hmm...Oh!
+MsgDisp("主人公","Hmm...
+Oh!
 It's always been on the left!");
 ScrFadeIn(4,30);
 ChEye(3,3);

@@ -25,8 +25,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_030");
-MsgDisp("Sassa","Err...I'm Sassa Nozomu. From the track
-and field club. You?");
+MsgDisp("Sassa","Err...I'm Sassa Nozomu.
+From the track and field club.
+You?");
 MsgDisp("主人公","I'm ｛主人公姓名｝.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -104,7 +105,8 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("A020210000_02_120");
 MsgDisp("Sassa","Phew, that was nice!
 Feeling a little tired?");
-MsgDisp("主人公","Huh...Yeah, a little, but it was fun!
+MsgDisp("主人公","Huh...
+Yeah, a little, but it was fun!
 Thank you, ｛Sassa＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);

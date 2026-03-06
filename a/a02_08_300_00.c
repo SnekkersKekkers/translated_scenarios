@@ -17,7 +17,8 @@ SEPlay("EV_SE_589");
 MsgDisp("主人公","Thank you and come again!");
 SEStop("EV_SE_589",1);
 SEPlay("EV_SE_519");
-MsgDisp("主人公","Ah...Welcome!
+MsgDisp("主人公","Ah...
+Welcome!
 Bring your car right this way, please.");
 MsgDisp("主人公","(There are so many customers coming to the
 gas station, it's so busy...!)");
@@ -59,7 +60,8 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_040");
-MsgDisp("Shirahane","Ah... Not good.
+MsgDisp("Shirahane","Ah...
+Not good.
 Gotta keep it moving!");
 MsgDisp("主人公","Ah, that's right!");
 MsgClose();

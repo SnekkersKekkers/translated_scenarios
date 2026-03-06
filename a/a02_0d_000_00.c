@@ -64,7 +64,8 @@ VoicePlay("A020D00000_21_040");
 MsgDisp("Michiru","And I'm Hanatsubaki Michiru.
 It's a pleasure, Mari.");
 MsgDisp("主人公","Wait...
-You mean me? I'm...Mari?");
+You mean me?
+I'm...Mari?");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -114,8 +115,9 @@ ChMotion(21,0);
 VoicePlay("A020D00000_21_080");
 MsgDisp("Michiru","And if it's fashion advice, I've got you
 covered.");
-MsgDisp("主人公","O-Oh...okay! Thank you so much,
-Michiru-san...Hikaru-san!");
+MsgDisp("主人公","O-Oh...okay!
+Thank you so much, Michiru-san...
+Hikaru-san!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -125,7 +127,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("A020D00000_21_090");
-MsgDisp("Michiru","Same here— \"Michiru\" is fine.
+MsgDisp("Michiru","Same here—
+\"Michiru\" is fine.
 See you around, Mari.");
 MsgClose();
 SEPlay("EV_SE_856");

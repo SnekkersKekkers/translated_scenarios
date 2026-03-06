@@ -91,7 +91,8 @@ VoicePlay("A020430000_04_060");
 MsgDisp("Nanatsumori?","Here, seems heavy.
 Put the tray down.
 I'll get it myself.");
-MsgDisp("主人公","Ah...Sorry.
+MsgDisp("主人公","Ah...
+Sorry.
 Thank you very much.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -245,8 +246,9 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("A020430000_04_230");
-MsgDisp("Nanatsumori","Okay. Oh, and for saving me from losing my
-ID. Thank you.");
+MsgDisp("Nanatsumori","Okay.
+Oh, and for saving me from losing my ID.
+Thank you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
