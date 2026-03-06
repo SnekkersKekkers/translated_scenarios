@@ -186,7 +186,7 @@ ChMotion(4,0,1);
 VoicePlay("A020430000_04_140");
 MsgDisp("Nanatsumori","Not that!
 The NANA thing!");
-MsgDisp("主人公","NANA...? Ah!");
+MsgDisp("主人公","NANA...? \nAh!");
 MsgDisp("主人公","That's it!
 I knew I'd seen you somewhere!
 You're the high school model NANA!");
