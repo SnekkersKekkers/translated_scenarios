@@ -13,8 +13,7 @@ BGMPlay("BGM_C04_NANA_I",0.01);
 ChLayout(1);
 ChNanaType(1);
 ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Welcome! Let me guide your to your
-seat——");
+MsgDisp("主人公","Welcome! Let me guide you to your\nseat——");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_000");
@@ -91,7 +90,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_060");
-MsgDisp("Nanatsumori?","Hey, isn't that heavy?\nYou can put the tray down.\nI'll serve myself.");
+MsgDisp("Nanatsumori?","Here, seems heavy.
+Put the tray down.
+I'll get it myself.");
 MsgDisp("主人公","Ah...Sorry.
 Thank you very much.");
 ChEye(4,0);
@@ -125,7 +126,9 @@ SEPlay("EV_SE_DOOR_014",0.5);
 MsgDisp("主人公","(That customer really threw me off, first
 the amount of food, and then he came back
 looking so differently...)");
-MsgDisp("主人公","Time to clean up!\nHm? Something's on the chair, that guy \nmust have dropped it?");
+MsgDisp("主人公","Now, I'll get to cleaning up! ...Hmm?
+Something's on the chair, that guy must
+have dropped it?");
 SEPlay("EV_SE_595",0,0.6);
 SEWait();
 MsgDisp("主人公","It's a student card from Haba High!
@@ -160,11 +163,13 @@ ChMotion(4,0,1);
 VoicePlay("A020430000_04_110");
 MsgDisp("Nanatsumori","Ah, yeah, right.
 Thanks.");
-MsgDisp("主人公","Hehe. I'm in the same year as you. I go\nto Habataki High too. Nice to meet you I\nguess?");
+MsgDisp("主人公","Hehe. I'm in the same year as you, in
+Habataki High too. Nice to meet you I
+guess?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_120");
-MsgDisp("Nanatsumori","Seriously∋");
+MsgDisp("Nanatsumori","Really∋");
 MsgDisp("主人公","Yeah.");
 ChEye(4,2);
 ChMouth(4,0);
@@ -172,14 +177,15 @@ ChMotion(4,1,1);
 VoicePlay("A020430000_04_130");
 MsgDisp("Nanatsumori","...Hey, you.
 What you saw here today, forget about it?");
-MsgDisp("主人公","You want me to forget all the sweets you\nate?");
+MsgDisp("主人公","You mean,
+that you ate a lot of sweets?");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("A020430000_04_140");
 MsgDisp("Nanatsumori","Not that!
 The NANA thing!");
-MsgDisp("主人公","NANA...? \nAh!");
+MsgDisp("主人公","NANA...? Ah!");
 MsgDisp("主人公","That's it!
 I knew I'd seen you somewhere!
 You're the high school model NANA!");
@@ -213,18 +219,20 @@ VoicePlay("A020430000_04_180");
 MsgDisp("Nanatsumori","Yeah. It's a peculiar job, I got a feeling
 it'd mean trouble if I was discovered at
 school.");
-MsgDisp("主人公","I see.\nI'll keep it a secret then, okay?");
+MsgDisp("主人公","I see.
+Then, I'll keep it a secret, okay?");
 ChEye(4,2);
 ChMouth(4,0);
 VoicePlay("A020430000_04_190");
-MsgDisp("Nanatsumori","Rather than keep a secret, I'd prefer if\nyou could just forget about today.");
+MsgDisp("Nanatsumori","Rather than a secret, I'd like you to
+forget about today.");
 MsgDisp("主人公","That's impossible!
 I can't forget...");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_200");
-MsgDisp("Nanatsumori","...You, You're the serious kind, huh?");
+MsgDisp("Nanatsumori","...You, you're the serious kind.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -238,12 +246,13 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_220");
 MsgDisp("Nanatsumori","You, what's your name?");
-MsgDisp("主人公","I'm ｛主人公姓名｝. \nSee you at school, okay?");
+MsgDisp("主人公","｛主人公姓名｝. See you in school, okay?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("A020430000_04_230");
-MsgDisp("Nanatsumori","Nice to meet you. \nOh, and thanks for saving me from losing\nmy ID.");
+MsgDisp("Nanatsumori","Okay. Oh, and for saving me from losing my
+ID. Thank you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
