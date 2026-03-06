@@ -63,8 +63,7 @@ VoicePlay("G110400700_04_050");
 MsgDisp("Nanatsumori","Haha!
 Really?
 You think I'm funny?");
-MsgDisp("主人公","(｛Nanatsumori＊｝ makes me laugh more here than
-when we're at school, huh?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ makes me laugh more here \nthan when we're at school, huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

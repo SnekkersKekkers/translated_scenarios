@@ -112,9 +112,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500100_05_100");
-MsgDisp("Hiiragi","I can't let myself be spoiled like that.
-You have done your job well.
-The work is is mine to complete.");
+MsgDisp("Hiiragi","I can't let myself be spoiled like that.\nYou have done your job well.\nThe work is mine to complete.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

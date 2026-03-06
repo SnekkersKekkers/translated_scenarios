@@ -133,9 +133,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝...He said he's a
-Habataki student, but he's also the
-chairman of the troupe Amazing...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...\nBeing the troupe chairman while still in\nhighschool is pretty incredible...)");
 MsgDisp("主人公","(Oh, there's the poster for his play!
 ...Hmm? \"Starring actor : Hiiragi
 Yanosuke\"∋)");

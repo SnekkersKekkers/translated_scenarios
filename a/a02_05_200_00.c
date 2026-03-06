@@ -26,43 +26,36 @@ SEWait();
 BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020520000_05_000");
-MsgDisp("Hiiragi?","Can I help you?");
-MsgDisp("主人公","Err...My name is ｛主人公姓名｝, and I
-would like to join the student council!");
+MsgDisp("Hiiragi?","May I help you with something?");
+MsgDisp("主人公","Uhm...\nMy name is ｛主人公姓名｝, and I\nwould like to join the student council!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("A020520000_05_010");
-MsgDisp("Hiiragi?","Yes, I'm listening.
-I'm Hiiragi Yanosuke.
-Looking forward to working with you.");
-MsgDisp("主人公","O-Of course!
-Looking forward too!");
+MsgDisp("Hiiragi?","Yes, I'm listening.\nI'm Hiiragi Yanosuke.\nI'm looking forward to working with you.");
+MsgDisp("主人公","Y-Yes!\nI'm looking forward to it too!");
 VoicePlay("A020520000_41_000");
-MsgDisp("President","Ah, a new member? Welcome. Hiiragi-kun,
-you introduced yourself already?");
+MsgDisp("President","Ah, a new member? Welcome. \nHiiragi-kun, did you introduce yourself \nalready?");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("A020520000_05_020");
 MsgDisp("Hiiragi","We were just introducing ourselves.");
 VoicePlay("A020520000_41_010");
-MsgDisp("President","So, are you surprised?");
-MsgDisp("主人公","About what?");
+MsgDisp("President","Hey you, are you surprised?");
+MsgDisp("主人公","Surprised about what?");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("A020520000_41_020");
 MsgDisp("President","Did no one tell you? Hiiragi-kun is not\nonly a member of the Student Council but\nalso the Habataki Theater Company Chairman.");
-MsgDisp("主人公","Whoa, the troupe chairman ...∋");
+MsgDisp("主人公","Woah, he's the chairman...∋");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("A020520000_05_030");
-MsgDisp("Hiiragi","President, we're at school here.
-Let's not make it about the theater.");
+MsgDisp("Hiiragi","President, we are currently at school.\nMy theater work isn't relevant here.");
 VoicePlay("A020520000_41_030");
-MsgDisp("President","Huh, you're right.
-Well then, let's make our school exciting!");
+MsgDisp("President","R-Right. Of course.\nLet's work hard to make Habataki High\neven better, then!");
 MsgDisp("主人公","Yes!!");
 ChEye(5,0);
 ChMouth(5,4);
@@ -74,9 +67,6 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝, was it...I can't
-believe the theater troupe chairman is in
-the same year as me. He seems a bit
-strict, though.)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, was it...I can't\nbelieve the theater chairman is in the \nsame year as me. He seems a bit strict...)");
 MsgClose();
 ScrFadeOut(0,0);
