@@ -60,9 +60,7 @@ VoicePlay("D010200100_40_040");
 MsgDisp("Member","That guy will win no matter what.
 He's going for first place.");
 VoicePlay("D010200100_39_050");
-MsgDisp("Manager","I keep telling him that the Octathalon
-isn't supposed to be like this, but he
-doesn't listen.");
+MsgDisp("Manager","I keep telling him that the Octathlon\nisn't supposed to be like this, but he\ndoesn't listen.");
 MsgDisp("主人公","(I see...)");
 MsgClose();
 ScrFadeOut(0);

@@ -30,10 +30,7 @@ ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("A020330100_03_020");
-MsgDisp("Honda?","You see, today is the biggest day of the
-month. We bring in a lot of magazines and
-books. So it feels like you were called in
-here today on purpose!");
+MsgDisp("Honda?","You see, today is the busiest day of the\nmonth. We bring in a lot of magazines and\nbooks today. That's why it's like this!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3);

@@ -58,8 +58,7 @@ MsgDisp("主人公","Hehe, I see.
 That's impressive, ｛Nanatsumori＊｝.");
 ChMotion(4,1);
 VoicePlay("G110400201_04_060");
-MsgDisp("Nanatsumori","Oh. This item from Habatcher. I heard it
-sold out the day it was released.");
+MsgDisp("Nanatsumori","Oh. This item from Habatcher. \nI heard it sold out the day it was \nreleased.");
 MsgDisp("主人公","I see...");
 VoicePlay("G110400201_04_070");
 MsgDisp("Nanatsumori","But I have good news for you.");

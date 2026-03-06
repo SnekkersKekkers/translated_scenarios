@@ -114,9 +114,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(He left a super realistic giant isopod
-plushie on his sister's bed Will she be
-okay...?)");
+MsgDisp("主人公","(He left a super realistic giant isopod\nplushie on his sister's bed... Will she be\nokay...?)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

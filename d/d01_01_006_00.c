@@ -54,8 +54,7 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 VoicePlay("D010100600_01_010");
-MsgDisp("Kazama","A champaigne glass designed by Mr.
-Goro Hanatsubaki.");
+MsgDisp("Kazama","A champagne glass designed by \nGoro Hanatsubaki.");
 MsgDisp("主人公","(Eh...
 Ehh∋
 ｛Kazama＊＊｝∋)");
@@ -134,9 +133,7 @@ VoicePlay("D010100600_01_090");
 MsgDisp("Kazama","Even though it's a charity, they selected
 me, a highschooler of all people.");
 MsgDisp("Kazama","Because my dad used to do this...");
-MsgDisp("主人公","I see.
-Well maybe in the future, ｛Kazama＊＊｝, you
-can be just like your dad——");
+MsgDisp("主人公","I see.\nWell maybe in the future, ｛Kazama＊＊｝, \nyou can be just like your dad——");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -173,8 +170,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(｛Kazama＊＊｝, did something happen between
-you and your dad...?)");
+MsgDisp("主人公","(｛Kazama＊＊｝, did something happen \nbetween you and your dad...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);

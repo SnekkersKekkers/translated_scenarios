@@ -44,8 +44,7 @@ MsgDisp("主人公","Y-YES!");
 SEPlay("EV_SE_544");
 ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020600100_32_040");
-MsgDisp("VP Himuro","...Your tie is crooked.
-Fix it.");
+MsgDisp("VP Himuro","...Your ribbon is crooked.\nFix it.");
 MsgDisp("主人公","What?
 Ah, alright...");
 SEPlay("EV_SE_623",0,0.4);
@@ -53,8 +52,7 @@ SEWait();
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("A020600100_32_050");
-MsgDisp("VP Himuro","Very well. Make sure to be properly
-dressed at all times. Dismissed.");
+MsgDisp("VP Himuro","Very well. \nMake sure to be properly dressed at all \ntimes. Dismissed.");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
