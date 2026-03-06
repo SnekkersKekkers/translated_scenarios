@@ -31,7 +31,8 @@ StlOpen("ev_04_01");
 StlEye(4,0);
 StlMouth(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah!! \nIt's my poster! I must have dropped\nit in the hallway...");
+MsgDisp("主人公","Ah!! It's my poster! I must have dropped
+it from the roof...");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
@@ -59,7 +60,8 @@ StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("A020410000_04_060");
-MsgDisp("Nanatsumori?","Not really.\nIt's very common.");
+MsgDisp("Nanatsumori?","Yeah not really.
+It's very common.");
 MsgDisp("主人公","But it's the exact same.
 Here, even the color is the same.
 The stones are in the exact same order!");
@@ -92,7 +94,9 @@ ChMotion(4,2,1);
 VoicePlay("A020410000_04_090");
 MsgDisp("Nanatsumori?","Ah...
 Yeah yeah, I'm a fan.");
-MsgDisp("主人公","I see!\nNANA-kun is so cool and handsome, isn't he?");
+MsgDisp("主人公","I see!
+NANA-kun is so cool and handsome, how
+could you not be!");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -146,8 +150,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_180");
-MsgDisp("Nanatsumori","So you call me \"Nanatsumori Minoru\"
-alright? Habataki student, normal guy. OK?");
+MsgDisp("Nanatsumori","So you can call me \"Nanatsumori Minoru\"\nalright? Habataki student, normal guy. \nOK?");
 MsgDisp("主人公","Yeah, ok!");
 ChEye(4,4);
 ChMouth(4,0);
