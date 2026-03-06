@@ -59,8 +59,9 @@ VoicePlay("B040106400_01_070");
 MsgDisp("Kazama","Excuse me.
 One candied apple, please.");
 VoicePlay("B040106400_36_000");
-MsgDisp("Market Clerk","Right away! ...Oh? You're Kazama-san's
-boy! Alright, this is on the house!");
+MsgDisp("Market Clerk","Right away! ...Oh?
+You're Kazama-san's boy!
+Alright, this is on the house!");
 VoicePlay("B040106400_01_080");
 MsgDisp("Kazama","Oh, thank you very much.");
 MsgDisp("主人公","(｛Kazama＊＊｝'s popularity is seriously

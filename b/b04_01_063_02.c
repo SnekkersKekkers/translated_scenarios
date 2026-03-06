@@ -39,10 +39,9 @@ footprints.");
         ChEye(1,0);
         ChMouth(1,1);
         VoicePlay("B040106302_01_030");
-        MsgDisp("Kazama","Look, once something has made its impact,
-it doesn't just disappear. Even if it's
-invisible. So you can just redo it over
-the old copy.");
+        MsgDisp("Kazama","Listen, once something's been carved,
+it doesn't vanish even if you can't
+see it. Just retrace the original.");
         MsgDisp("主人公","Umm, ｛Kazama＊＊｝, what's wrong?");
         ChEye(1,4);
         ChMouth(1,4);

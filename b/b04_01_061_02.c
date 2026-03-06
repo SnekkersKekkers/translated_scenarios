@@ -6,10 +6,9 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040106102_01_000");
-MsgDisp("Kazama","Listen up, there's some dangerous
-creatures out there. Don't get too close,
-and don't touch them. Walking barefoot is
-prohibited.");
+MsgDisp("Kazama","Listen, there are dangerous creatures
+out here. Don't go near or touch them.
+And going barefoot is banned.");
 MsgSel("Right, like jellyfish and such","Hehe, you're such a worrier","Umm, like a man-eating shark?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -65,10 +64,9 @@ man-eating sharks.");
         ChMotion(1,3);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040106102_01_050");
-        MsgDisp("Kazama","That's exactly what I mean. That cutesy
-vibe. Get it? Even in normal
-circumstances, you're like a magnet, and
-the way you stand out...");
+        MsgDisp("Kazama","That right there. That airheaded vibe.
+You already stand out way too much,
+and people just flock to you...");
         MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEye(1,0);
         ChMouth(1,1);

@@ -104,10 +104,9 @@ Going my way～!");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040103202_01_070");
-        MsgDisp("Kazama","Sheesh, I can't take my eyes off you for
-an instant. You stand out way too much.
-From here on, you can't stand around
-alone.");
+        MsgDisp("Kazama","Sheesh, I can't take my eyes off you.
+You stand out way too much.
+From now on, no standing around alone.");
         MsgDisp("主人公","(That's not realistic, ｛Kazama＊＊｝...)");
         break ;
         default :

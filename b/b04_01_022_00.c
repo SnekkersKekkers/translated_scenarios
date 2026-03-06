@@ -41,10 +41,9 @@ with that.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040102200_01_030");
-    MsgDisp("Kazama","That's a Black Kite, a bird of prey. They
-swoop down and steal human food.
-Somehow...I feel like you're about to get
-snatched up.");
+    MsgDisp("Kazama","That's a Black Kite, a bird of prey.
+They dive down and snatch people's food.
+Somehow...I feel like you'd get snatched.");
     MsgDateResultDisp();
     break ;
     default :

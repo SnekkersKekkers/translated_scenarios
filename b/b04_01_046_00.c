@@ -10,10 +10,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("B040104600_01_000");
-    MsgDisp("Kazama","He's a well known pianist in Europe.
-Unless you're a Haba High alumni, you
-wouldn't be able to listen this close
-here.");
+    MsgDisp("Kazama","He's a well-known pianist in Europe.
+If he weren't a Haba High alum, you'd
+never hear him in a venue this close.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
