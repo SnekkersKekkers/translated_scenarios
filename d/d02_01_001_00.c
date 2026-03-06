@@ -88,8 +88,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChCheek(1,5);
 VoicePlay("D020100100_01_070");
-MsgDisp("Kazama","Oh, Grandpa. She wants to write an article
-on this place. That's okay, right?");
+MsgDisp("Kazama","Oh, Grandpa. \nShe wants to write an article\non this place. That's okay, right?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
