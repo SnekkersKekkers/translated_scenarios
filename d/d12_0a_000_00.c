@@ -58,7 +58,7 @@ Wait(40,0);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_020");
 MsgDisp("Kazama","Huh...
-This is really a big serving, isn't it?");
+I didn't order a large serving, though?");
 VoicePlay("D120A00000_47_000");
 MsgDisp("Staff","A service for the young master▼
 Itadakimasu.");

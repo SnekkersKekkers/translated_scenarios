@@ -19,8 +19,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("D100200000_02_020");
-MsgDisp("Sassa","I always get here on time.
-Even if I have to run here, I get a good
+MsgDisp("Sassa","I'm always in top form.
+Even if I ran right here, I'd clock a good
 time.");
 MsgDisp("主人公","Don't run in the halls, okay?");
 ChEye(2,0);

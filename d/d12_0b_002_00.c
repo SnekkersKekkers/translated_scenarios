@@ -136,8 +136,8 @@ VoicePlay("D120B00200_01_080");
 MsgDisp("Kazama","And I won't lose from now on.");
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00200_03_050");
-MsgDisp("Honda","Come to think of it, Ryo-kun has been
-standing next to me since we were walking
+MsgDisp("Honda","Come to think of it, Ryo-kun has been next
+to her ever since we started walking
 here.");
 StlEyeOpenLevel(4,5,1);
 StlMouth(4,1);

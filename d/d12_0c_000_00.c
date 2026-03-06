@@ -81,7 +81,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 VoicePlay("D120C00000_07_020");
-MsgDisp("Mikage","Look, doesn't it make you hungry?");
+MsgDisp("Mikage","Look, it's ready to eat!");
 MsgClose();
 StlOpen("ev_0c_02");
 StlEye(7,1);

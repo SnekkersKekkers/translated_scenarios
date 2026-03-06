@@ -8,7 +8,7 @@ ChOpen(4,33,0,4,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040406502_04_000");
 MsgDisp("Nanatsumori","...I feel like the fireworks this year are
-more beautiful than usual this year.");
+more beautiful than usual.");
 MsgSel("Is it because it's our last fireworks of our high school life?","Yeah, I think that too.","Aren't they the same as usual?");
 switch (MsgSelRsltGet()){
     case 0:

@@ -13,7 +13,7 @@ SEPlay("EV_SE_625");
 SEWait();
 ChOpen(2,30,3,0,4,#1,#1,0,0);
 VoicePlay("D120A00200_02_000");
-MsgDisp("Sassa","Hey, are you coming?");
+MsgDisp("Sassa","Yo, are you running too?");
 MsgDisp("主人公","Hehe, even if I don't, ｛Sassa＊＊｝ will
 still come in first place, right?");
 ChEye(2,0);
@@ -44,7 +44,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120A00200_01_010");
 MsgDisp("Kazama","You guys don't remember.
-I ran a lot back in kindergarten.");
+We raced plenty back in kindergarten.");
 VoicePlay("D120A00200_47_010");
 MsgDisp("Broadcast","Students participating in the men's 100m
 dash please gather at the starting gate.");
@@ -91,8 +91,8 @@ VoicePlay("D120A00200_02_040");
 MsgDisp("Sassa","I remember having fun.");
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D120A00200_01_030");
-MsgDisp("Kazama","Yeah, beating me in front of all of those
-people must have been fun...");
+MsgDisp("Kazama","Yeah, beating me in front of her must have
+been fun...");
 VoicePlay("D120A00200_39_020");
 MsgDisp("Referee","On your marks!
 Get set——");
@@ -193,7 +193,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D120A00200_01_090");
 MsgDisp("Kazama","But...
 Thank you.
-I get to share this feeling with you.");
+This feeling...it's the same as back then.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,3);

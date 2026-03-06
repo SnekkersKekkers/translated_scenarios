@@ -40,8 +40,8 @@ MsgDisp("Shirahane","Alright, alright...
 Okay, stop!
 Thanks like always, Kondo-san!");
 VoicePlay("D010800100_43_020");
-MsgDisp("Male Customer A","It's time for the big girl, today.
-Wash her up and give her a full tank
+MsgDisp("Male Customer A","Today's Dai-chan's day, after all.
+Car wash and a full tank of premium,
 please.");
 StlEyeOpenLevel(8,5);
 VoicePlay("D010800100_08_040");

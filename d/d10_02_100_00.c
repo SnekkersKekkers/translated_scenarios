@@ -13,7 +13,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D100210000_02_010");
-MsgDisp("Sassa","I had a weird dream.
+MsgDisp("Sassa","I had a lucky dream.
 You were in it.");
 MsgDisp("主人公","What kind of dream?");
 ChEye(2,0);
