@@ -60,8 +60,7 @@ StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("A020410000_04_060");
-MsgDisp("Nanatsumori?","Yeah not really.
-It's very common.");
+MsgDisp("Nanatsumori?","Not really.\nIt's very common.");
 MsgDisp("主人公","But it's the exact same.
 Here, even the color is the same.
 The stones are in the exact same order!");
