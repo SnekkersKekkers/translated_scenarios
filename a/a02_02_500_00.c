@@ -78,7 +78,7 @@ ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("A020250000_02_070");
 MsgDisp("Sassa","There was a girl like you...?
-I dont't remember at all.");
+I don't remember at all.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

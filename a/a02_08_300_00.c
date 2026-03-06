@@ -42,7 +42,7 @@ Uhm...");
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_020");
-MsgDisp("Shirahane","You're the highschool girl what started
+MsgDisp("Shirahane","You're the highschool girl who started
 part time today, right? I'm Shirahane
 Daichi. I'm a Hanegasaki Blue Necktie,
 myself.");
@@ -55,7 +55,7 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("A020830000_08_030");
 MsgDisp("Shirahane","The famous Habataki High, innit?
-You're just so wicked.");
+That's wicked cool.");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);

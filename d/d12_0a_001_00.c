@@ -76,7 +76,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("D120A00100_06_030");
-MsgDisp("Himuro","Until I say its okay to stop.");
+MsgDisp("Himuro","Until I say it's okay to stop.");
 StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);

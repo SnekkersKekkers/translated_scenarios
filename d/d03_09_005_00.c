@@ -164,7 +164,7 @@ MsgDisp("Kuya","This soft cream bread is interesting,
 right?
 Doesn't it appeal to your \"art\"istic side?");
 MsgDisp("主人公","Hmm...
-For me its a bit much...");
+For me it's a bit much...");
 ChEye(9,3);
 ChMouth(9,2);
 ChMotion(9,0,1);

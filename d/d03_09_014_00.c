@@ -145,7 +145,7 @@ ChMotion(9,1,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_130");
 MsgDisp("Kuya","That's not it. But...I guess it's true
-that my work style in becoming more
+that my work style is becoming more
 simple.");
 MsgDisp("主人公","Hehe!");
 ChEye(9,3);

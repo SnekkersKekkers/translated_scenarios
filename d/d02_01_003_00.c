@@ -55,7 +55,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100300_01_040");
-MsgDisp("Kazama","Everytime I talk to my dad, you just
+MsgDisp("Kazama","Every time I talk to my dad, you just
 happen to be here.");
 MsgDisp("主人公","Like I thought, it was your dad...
 ｛Kazama＊＊｝, are you going to England?");

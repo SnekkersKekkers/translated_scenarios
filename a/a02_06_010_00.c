@@ -62,9 +62,9 @@ MsgDisp("主人公","∋");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("A020601000_06_060");
-MsgDisp("Himuro?","I can see it on everyone's face, \"What
-about his name, Himuro?\", or \"What's he
-gotta do with Reiichi-san?\"");
+MsgDisp("Himuro?","I can see it on everyone's face, \"Himuro,
+huh?\", or \"What's his connection to
+Reiichi-san?\"");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("A020601000_06_070");

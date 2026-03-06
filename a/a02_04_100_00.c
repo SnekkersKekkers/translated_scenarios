@@ -59,8 +59,8 @@ StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("A020410000_04_060");
-MsgDisp("Nanatsumori?","Yeah not really.
-It's very common.");
+MsgDisp("Nanatsumori?","Not really.
+It's pretty common, I think.");
 MsgDisp("主人公","But it's the exact same.
 Here, even the color is the same.
 The stones are in the exact same order!");
@@ -94,16 +94,15 @@ VoicePlay("A020410000_04_090");
 MsgDisp("Nanatsumori?","Ah...
 Yeah yeah, I'm a fan.");
 MsgDisp("主人公","I see!
-NANA-kun is so cool and handsome, how
-could you not be!");
+NANA-kun is so cool, right!");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_100");
 MsgDisp("Nanatsumori?","Yeah but, he's just some model...");
-MsgDisp("主人公","But he's so stylish...and tall. He's got a
-great figure. He looks so wild when he does
-that \"Shhh!\" pose.");
+MsgDisp("主人公","He's tall with a great figure, and he's
+got this wild vibe, and his face is so
+sharp and... Wait a sec...");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,2,1);

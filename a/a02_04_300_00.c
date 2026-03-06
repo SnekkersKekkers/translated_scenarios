@@ -123,7 +123,7 @@ ChClose(4);
 SEPlay("EV_SE_DOOR_014",0.5);
 MsgDisp("主人公","(That customer really threw me off, first
 the amount of food, and then he came back
-looking so differently...)");
+looking so different...)");
 MsgDisp("主人公","Now, I'll get to cleaning up! ...Hmm?
 Something's on the chair, that guy must
 have dropped it?");

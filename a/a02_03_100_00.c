@@ -44,7 +44,7 @@ Now, which way is the window?");
 MsgDisp("主人公","On the left?");
 VoicePlay("A020310000_03_060");
 MsgDisp("Honda","Yes, correct! Now think back to your
-primary school classrooms. Do you
+middle school classrooms. Do you
 remember?");
 MsgDisp("主人公","Hmm...Oh!
 It's always been on the left!");
@@ -74,9 +74,10 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("A020310000_03_100");
-MsgDisp("Honda","Mm-hm, it's because it's hard to see your
-notebook when the shadow of your hand
-holding your pen is coming from the right.");
+MsgDisp("Honda","Mm-hm, it's because when the light comes
+from the right, the shadow of your writing
+hand falls on your notebook and makes it
+hard to see.");
 MsgDisp("主人公","It was designed with the students in mind.
 It's something so familiar, yet I didn't
 notice at all.");

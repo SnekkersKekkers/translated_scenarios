@@ -154,7 +154,7 @@ MsgDisp("Kuya","Good luck. As a journalist you have to
 have a keen sense for \"style\". I'll cheer
 you on from the shadows.");
 MsgDisp("主人公","Thank you so much.
-Uhm, actually, I was wondering if I I
+Uhm, actually, I was wondering if I
 could interview——");
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_180");

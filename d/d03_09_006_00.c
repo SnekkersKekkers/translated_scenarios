@@ -98,7 +98,7 @@ ChMouth(9,0);
 ChMotion(9,1,1);
 VoicePlay("D030900600_09_070");
 MsgDisp("Kuya","He accidentally spilled all those
-chestnuts props everywhere.");
+chestnut props everywhere.");
 MsgDisp("主人公","Really, it's like this kind of thing
 follows you around, Kuya-san...");
 ChEye(9,3);
@@ -145,7 +145,7 @@ VoicePlay("D030900600_09_120");
 MsgDisp("Kuya","...Huh? Don't tell me you're becoming a
 \"Jack of All Trades\" too? Haha!");
 MsgDisp("主人公","(Kuya-san's penchant for getting involved
-in things is still going strong");
+in things is still going strong.");
 MsgDisp("主人公","(But I guess I'm starting to see the
 appeal in being a \"Jack of All Trades\"?)");
 BGMStop();

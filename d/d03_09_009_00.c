@@ -69,7 +69,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900900_09_070");
 MsgDisp("Kuya","...Haha. You're really an interesting kid,
-you know? Everytime we meet, I'm dazzled
+you know? Every time we meet, I'm dazzled
 by your energy.");
 ChEye(9,0);
 ChMouth(9,0);

@@ -129,7 +129,7 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(1,0);
 VoicePlay("D120B00200_01_070");
-MsgDisp("Kazama","So, it's be my victory.");
+MsgDisp("Kazama","So, it'll be my victory.");
 MsgDisp("主人公","???");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D120B00200_01_080");

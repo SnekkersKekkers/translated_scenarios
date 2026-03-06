@@ -72,7 +72,7 @@ StlEye(6,2);
 StlMouth(6,0);
 VoicePlay("D120C00100_06_010");
 MsgDisp("Himuro","What are you laughing at?
-Do you want to join them");
+Do you want to join them?");
 MsgDisp("主人公","Ehh?");
 StlEye(7,2);
 StlMouth(7,1);

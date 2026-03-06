@@ -35,7 +35,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_750");
 SEWait();
 VoicePlay("D010700300_07_030");
-MsgDisp("Mikage","Okay, first thing first!
+MsgDisp("Mikage","Okay, first things first!
 Finish cleaning duty quickly!");
 BGMStop(3);
 Wait(20,0);

@@ -76,7 +76,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D130C00100_07_040");
 MsgDisp("Mikage","Hmm, then it would probably be faster for
-everyone o give you a present.");
+everyone to give you a present.");
 MsgDisp("主人公","Ehh?");
 ChEye(5,4);
 ChMouth(5,4);

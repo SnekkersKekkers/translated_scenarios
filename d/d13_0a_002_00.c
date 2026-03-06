@@ -30,7 +30,7 @@ MsgDisp("主人公","I wonder what ｛Kazama＊＊｝ is doing at
 this moment?");
 VoicePlay("D130A00200_02_000");
 MsgDisp("Sassa?","Oh, you guys were here huh?
-What are you two up do?");
+What are you two up to?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChPosition(6,1);
 MsgClose();

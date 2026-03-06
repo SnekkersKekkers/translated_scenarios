@@ -76,8 +76,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("A020D00000_22_040");
-MsgDisp("Hikaru","Hehe～ It's subtle, but Hikaru can feel
-it～");
+MsgDisp("Hikaru","Hehe～ It's subtle, but you give off 
+the same scent as us～");
 MsgDisp("主人公","N-No way...
 I'm nothing like that...");
 ChEye(22,4);

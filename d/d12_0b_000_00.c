@@ -180,7 +180,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D120B00000_04_080");
 MsgDisp("Nanatsumori","Even if you're not always aware of it, you
-should try to remember that the people are
+should try to remember that the people around
 you are always watching.");
 ChEye(1,2);
 ChMouth(1,0);

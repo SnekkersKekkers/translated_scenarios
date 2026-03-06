@@ -33,7 +33,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D130C00002_06_010");
-MsgDisp("Himuro","Look's like she hasn't forgot.
+MsgDisp("Himuro","Looks like she hasn't forgotten.
 We can calm down now.");
 ChEye(5,4);
 ChMouth(5,4);
