@@ -42,8 +42,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_050");
 MsgDisp("Sassa","Wanna run together?");
-MsgDisp("主人公","Ehh∋ I can't rival with someone from
-track!");
+MsgDisp("主人公","Ehh∋\nThere's no way I can keep up with someone\nfrom the track club!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
