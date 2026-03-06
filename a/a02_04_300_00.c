@@ -77,7 +77,7 @@ seated here——");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_040");
-MsgDisp("Nanatsumori?","Uh, yeah, that's me.");
+MsgDisp("Nanatsumori?","That's me.");
 MsgDisp("主人公","What∋");
 ChEye(4,4);
 ChMouth(4,4);
