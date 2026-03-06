@@ -12,14 +12,14 @@ ScrFadeIn(0);
 SEPlay("EV_SE_001");
 SEWait();
 VoicePlay("B360550301_34_000");
-MsgDisp("Clerk","Here it is.
-Please enjoy.");
+MsgDisp("Clerk","Let me clear these.
+Please take your time.");
 ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550301_05_000");
-MsgDisp("Hiiragi","I've been demoted to 'water boy'...
-Now there's no way I can relax.");
+MsgDisp("Hiiragi","Even the water was taken away...
+There's no way we can take our time now.");
 MsgDisp("主人公","Uh, yeah.
 Shall we go now?");
 ChEye(5,0);

@@ -64,7 +64,7 @@ ChMotion(3,1,1);
 VoicePlay("B330B20101_03_030");
 MsgDisp("Honda","At the fresh fish corner have you ever
 seen a fish with a round thing poking out
-of it's mouth?");
+of its mouth?");
 ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,0,1);

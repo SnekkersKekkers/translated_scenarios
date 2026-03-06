@@ -87,10 +87,9 @@ You can be a little angrier.");
     ChMouth(2,2);
     ChMotion(2,2);
     VoicePlay("B010200001_02_080");
-    MsgDisp("Sassa","If you were already expecting me here,
-you'd probably feel anxious when I
-wasn't...Unless you aren't looking forward
-to this?");
+    MsgDisp("Sassa","It feels like you weren't expecting me,
+and that makes me anxious.
+Were you not looking forward to this?");
     MsgDisp("主人公","That's not the case at all!");
     ChEye(2,0);
     ChMouth(2,4);

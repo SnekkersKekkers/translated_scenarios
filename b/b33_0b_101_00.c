@@ -28,7 +28,7 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330B10100_01_000");
-MsgDisp("Kazama","There's should be more to it right?
+MsgDisp("Kazama","There should be more to it right?
 Right?");
 MsgDisp("主人公","...Eh?");
 ChEye(1,0);

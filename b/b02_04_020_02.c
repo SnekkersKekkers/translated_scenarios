@@ -13,9 +13,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3);
 VoicePlay("B020402002_04_010");
-MsgDisp("Nanatsumori","I wasn't interested in that type before.
-But...I've started to come to like it.
-What you wear and the way you wear it is
-perfect.");
+MsgDisp("Nanatsumori","I had zero interest in that style, but
+somehow I'm starting to like it.
+Your look and how you wear it is perfect.");
 MsgDisp("主人公","(Oh, good.
 Looks like I'm dressed stylishly!)");

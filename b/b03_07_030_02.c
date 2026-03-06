@@ -17,10 +17,9 @@ switch (MsgSelRsltGet()){
     ChMotion(7,0);
     MsgDispSksp(1,0);
     VoicePlay("B030703002_07_010");
-    MsgDisp("Mikage","Alright, those going to the aquarium come
-with me. We'll take turns looking at
-different places, so other groups please
-watch quietly.");
+    MsgDisp("Mikage","Right, aquarium group, follow me.
+We'll visit each area in turn, so
+everyone else wait quietly.");
     MsgDispSksp(0);
     break ;
     case 1:

@@ -22,7 +22,7 @@ You'll make my heart race even more...");
     NSSEyeOpenLevel(8,0);
     VoicePlay("B160800200_08_020");
     MsgDisp("Shirahane","It's a joke, it's a joke.
-You're such a interestin' girl!");
+You're such an interestin' girl!");
     break ;
     default :
     DbgAssert(0);

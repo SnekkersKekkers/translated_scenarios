@@ -16,8 +16,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B020202000_02_020");
-MsgDisp("Sassa","I see. I'm sure I've seen him in posters
-and magazines. He's our senior, then.");
+MsgDisp("Sassa","I see.
+I'm sure I've seen him in magazines.
+He's our senior, then.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);

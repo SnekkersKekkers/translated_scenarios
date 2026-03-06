@@ -17,8 +17,7 @@ it will become as if second nature to
 wear.");
 ChMotion(5,0);
 VoicePlay("B020502130_05_030");
-MsgDisp("Hiiragi","As a matter of fact, it's become second
-nature to me to associate you with
-fashion. It may just be clothes, but you
-are amazing.");
+MsgDisp("Hiiragi","I've come to naturally associate you
+with that fashion now. It may just be
+clothes, but that's quite impressive.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to really like this!");

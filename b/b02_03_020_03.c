@@ -11,10 +11,9 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("B020302003_03_010");
-MsgDisp("Honda","No, no! It's not that. I wasn't interested
-in that kind of fashion before, but
-recently I've been noticing it more
-because of you.");
+MsgDisp("Honda","No, no! I never cared about that
+kind of fashion before, but lately
+you've been making me notice it.");
 MsgDisp("主人公","(Yay!
 It seems like I managed to pull it off
 well.)");

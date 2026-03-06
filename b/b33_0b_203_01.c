@@ -14,7 +14,7 @@ ChMotion(4,0,1);
 ScrFadeIn(0);
 ChMouth(1,2);
 VoicePlay("B330B20301_01_000");
-MsgDisp("Kazama","Ah, there's banana's growing.");
+MsgDisp("Kazama","Ah, there's bananas growing.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
