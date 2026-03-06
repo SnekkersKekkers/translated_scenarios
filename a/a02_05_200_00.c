@@ -47,11 +47,7 @@ MsgDisp("主人公","Surprised about what?");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("A020520000_41_020");
-MsgDisp("President","No one told you? Hiiragi-kun is the
-chairman of the Habataki Theater Company
-even though he's still a high schooler. On
-top of that he's a member of our student
-council.");
+MsgDisp("President","Did no one tell you? Hiiragi-kun is not\nonly a member of the Student Council but\nalso the Habataki Theater Company Chairman.");
 MsgDisp("主人公","Woah, he's the chairman...∋");
 ChEye(5,0);
 ChMouth(5,0);
