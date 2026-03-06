@@ -1,7 +1,6 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's almost time for the new fashion
-items to be revealed...)");
+MsgDisp("主人公","(It's almost time for the new fashion\nitems to be released...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
