@@ -54,7 +54,7 @@ chairman of the Habataki Theater Company
 even though he's still a high schooler. On
 top of that he's a member of our student
 council.");
-MsgDisp("主人公","Whoa, the troupe chairman ...∋");
+MsgDisp("主人公","Woah, he's the chairman...∋");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);
