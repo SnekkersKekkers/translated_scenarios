@@ -5,7 +5,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B320C00001_06_000");
-MsgDisp("Himuro","Just as I though, you're last to arrive.");
+MsgDisp("Himuro","Just as I thought, you're last to arrive.");
 ChMotion(5,4);
 VoicePlay("B320C00001_05_000");
 MsgDisp("Hiiragi","Inori was right about you I suppose.");

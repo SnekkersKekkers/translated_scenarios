@@ -22,7 +22,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A20100_06_000");
-MsgDisp("Himuro","Then you can juts say we're a regular
+MsgDisp("Himuro","Then you can just say we're a regular
 group of friends can't we?");
 ChEye(1,4);
 ChMouth(1,0);

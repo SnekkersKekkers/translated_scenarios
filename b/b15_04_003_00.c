@@ -22,7 +22,7 @@ MsgDisp("Nanatsumori","You broke me.
 Get ready.");
 MsgDisp("主人公","Umm...sorry?");
 VoicePlay("B150400300_04_040");
-MsgDisp("Nanatsumori","Yeah, thats' even worse.
+MsgDisp("Nanatsumori","Yeah, that's even worse.
 It's just provoking meー.");
 MsgDisp("主人公","Ugh...
 ｛Nanatsumori＊｝, you're different to usual?");

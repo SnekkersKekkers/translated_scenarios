@@ -35,7 +35,7 @@ ChMouth(4,1);
 VoicePlay("B330B10400_03_010");
 MsgDisp("Honda","Just look, in the pond.
 It's full of aquatic life.
-It's a treasure trove of excitement1");
+It's a treasure trove of excitement!");
 ChMotion(4,2,1);
 ChEye(1,0);
 ChMouth(1,3);

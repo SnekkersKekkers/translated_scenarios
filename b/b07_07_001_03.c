@@ -27,7 +27,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B070700001_07_190");
 MsgDisp("Mikage","Listen up, the highest form of praise you
-can receive life is being called
+can receive in life is being called
 interesting.");
 ChEye(7,0);
 ChMouth(7,0);

@@ -23,7 +23,7 @@ ChEyeOpenLevel(1,0);
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("B330B10801_04_000");
-MsgDisp("Nanatsumori","In other words, t here's been a version
+MsgDisp("Nanatsumori","In other words, there's been a version
 update.");
 MsgDisp("主人公","∋");
 ChEye(3,3);

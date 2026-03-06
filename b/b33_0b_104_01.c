@@ -21,7 +21,7 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("B330B10401_03_010");
 MsgDisp("Honda","Ah!
-Didyou hear something?");
+Did you hear something?");
 ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -32,7 +32,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B330B10401_01_000");
 MsgDisp("Kazama","Ha?
-What are you saying1");
+What are you saying!");
 MsgDisp("主人公","Eh, really?");
 ChEye(1,0);
 ChMouth(1,2);

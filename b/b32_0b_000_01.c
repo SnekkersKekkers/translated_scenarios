@@ -1,7 +1,7 @@
 BGMPlay("BGM_HANYOU_A",0.01);
 VoicePlay("B320B00001_03_000");
 MsgDisp("Honda","Right, right.
-You arent't late, so you can relax.");
+You aren't late, so you can relax.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

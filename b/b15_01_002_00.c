@@ -48,7 +48,7 @@ MsgDisp("Kazama","If you get it, that's fine.
 See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(A English style repayal three-fold...
+MsgDisp("主人公","(An English-style repayment three-fold...
 Seems kinda intense...)");
 MsgClose();
 ScrFadeOut(0,0);
