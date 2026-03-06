@@ -41,8 +41,7 @@ ChEyeOpenLevel(6,8);
 VoicePlay("A020601000_06_040");
 MsgDisp("Himuro?","Huh...As expected.
 You think we look alike?");
-MsgDisp("主人公","Huh?
-Huh...Yeah sure!");
+MsgDisp("主人公","Huh?\nNow that you mention it...I see it!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);
@@ -63,7 +62,9 @@ MsgDisp("主人公","∋");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("A020601000_06_060");
-MsgDisp("Himuro?","I can see it on everyone's face.\nEvery single person, it's always 'Himuro \nthis' or 'Reiichi-san that.'");
+MsgDisp("Himuro?","I can see it on everyone's face, \"What
+about his name, Himuro?\", or \"What's he
+gotta do with Reiichi-san?\"");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("A020601000_06_070");
