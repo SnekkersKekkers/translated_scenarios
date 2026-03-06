@@ -156,7 +156,7 @@ I don't know what it is, but I'm gonna
 give it my bestー∈");
 MsgDisp("主人公","(Hehe!
 I wonder where ｛Daichi＊＊｝'s dream will
-take him? ')");
+take him?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

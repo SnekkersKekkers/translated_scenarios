@@ -39,7 +39,7 @@ VoicePlay("B050400300_04_030");
 MsgDisp("Nanatsumori","It's that I haven't come across anything I
 like.");
 MsgDisp("主人公","I see...
-What kid of thing are you looking for?");
+What kind of thing are you looking for?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

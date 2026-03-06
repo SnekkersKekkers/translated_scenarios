@@ -23,8 +23,7 @@ Are you okay?");
     MsgDispSksp(0);
     ScrFadeIn(0);
     VoicePlay("B060300002_03_010");
-    MsgDisp("Honda","\"Not bad\" is the way the perfect way to
-describe it.");
+    MsgDisp("Honda","\"Not bad\" is the perfect way to describe it.");
     MsgDispSksp(0);
     break ;
     case 4:

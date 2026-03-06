@@ -5,7 +5,7 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message from ｛Mikage＊＊｝. \"The
 cherry blossoms are beautiful, won't you
-come see itー\" ...He says.))");
+come see itー\" ...He says.)");
 MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is at the
 forest park? Alright, it's good weather,
 let's head out!)");

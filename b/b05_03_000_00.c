@@ -97,7 +97,7 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B050300000_03_100");
-MsgDisp("Honda","It was my a song from my sister's favorite
+MsgDisp("Honda","It was a song from my sister's favorite
 idol group.
 I hear it all the time at home...");
 MsgDisp("主人公","Hehe.

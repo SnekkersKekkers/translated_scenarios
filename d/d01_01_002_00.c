@@ -18,8 +18,9 @@ MsgDisp("Kazama","I guess so.
 Under normal circumstances, such a high
 quality cup should be stored properly.");
 VoicePlay("D010100200_34_010");
-MsgDisp("Clerk","Right, right. You get it. OK, I'll give it
-to on discount, only 10 RICH!");
+MsgDisp("Clerk","Right, right.
+You get it. OK, I'll give it to on 
+discount, only 10 RICH!");
 StlEye(1,1);
 VoicePlay("D010100200_01_010");
 MsgDisp("Kazama","Even though it was in the box of 1 rich

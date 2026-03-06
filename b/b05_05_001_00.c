@@ -58,8 +58,8 @@ StlMouth(5,0);
 ScrFadeIn(0);
 VoicePlay("B050500100_05_040");
 MsgDisp("Hiiragi","First of all...
-The right side should be wrapped over the
-left when you're dead.");
+The left side should be wrapped over the 
+right when you're dead.");
 StlEyeOpenLevel(5,5);
 SEPlay("EV_SE_623",0.3);
 SEWait();

@@ -95,14 +95,14 @@ ChEye(8,2);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("B050800000_08_120");
-MsgDisp("Shirahane","Actually, I heard it from m older sister.
+MsgDisp("Shirahane","Actually, I heard it from my older sister.
 She knows all the good info.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B050800000_08_130");
-MsgDisp("Shirahane","Hehe Today is my super lucky day▼");
+MsgDisp("Shirahane","Hehe. Today is my super lucky day▼");
 MsgDisp("主人公","(｛Daichi＊＊｝ is in a super good mood.
 He even asked on my behalf.)");
 BGMStop();
