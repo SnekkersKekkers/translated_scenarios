@@ -55,9 +55,7 @@ SEWait();
 MsgDisp("主人公","(Is he going to eat all this by himself∋
 And he can recite the menu, is he some
 sort of regular?)");
-MsgDisp("主人公","(...But anyway, this guy.
-I feel like I've seen him somewhere.
-Maybe he's a celebrity or something...)");
+MsgDisp("主人公","(...But anyway, this guy.\nI feel like I've seen him before.\nMaybe he's a celebrity or something...)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
