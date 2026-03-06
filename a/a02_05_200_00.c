@@ -59,8 +59,7 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("A020520000_05_030");
-MsgDisp("Hiiragi","President, we're at school here.
-Let's not make it about the theater.");
+MsgDisp("Hiiragi","President, we are currently at school.\nMy theater work isn't relevant here.");
 VoicePlay("A020520000_41_030");
 MsgDisp("President","R-Right. Of course.\nLet's work hard to make Habataki High\neven better, then!");
 MsgDisp("主人公","Yes!!");
