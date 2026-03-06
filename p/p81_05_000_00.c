@@ -2,9 +2,7 @@ BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P810500000_41_000");
-MsgDisp("President","The student council will be managing
-the cultural festival. It's important work, so
-please take it seriously.");
+MsgDisp("President","The student council will be managing\nthe cultural festival. It's important work, \nso please take it seriously.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();

@@ -124,9 +124,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);
 SEPlay("EV_SE_DOOR_014",0.5);
-MsgDisp("主人公","(That customer really threw me off, first
-the amount of food, and then he came back
-looking so differently...)");
+MsgDisp("主人公","(That customer really threw me off, first\nthe amount of food, and then he came back\nlooking so different...)");
 MsgDisp("主人公","Now, I'll get to cleaning up! ...Hmm?
 Something's on the chair, that guy must
 have dropped it?");
@@ -140,8 +138,7 @@ Wait(70,0);
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,1);
 Wait(60,0);
 VoicePlay("A020430000_04_090");
-MsgDisp("Nanatsumori?","Sorry!! I think I forgot something! Do you
-mind if I——");
+MsgDisp("Nanatsumori?","Sorry!! \nI think I forgot something! \nDo you mind if I——");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
 ChNanaType(0);
@@ -176,8 +173,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_130");
-MsgDisp("Nanatsumori","...Hey, you.
-What you saw here today, forget about it?");
+MsgDisp("Nanatsumori","...Hey, you.\nWhat you saw here today, could you\nmaybe forget about it?");
 MsgDisp("主人公","You mean,
 that you ate a lot of sweets?");
 ChEye(4,1);
@@ -217,9 +213,7 @@ secret from people at school?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_180");
-MsgDisp("Nanatsumori","Yeah. It's a peculiar job, I got a feeling
-it'd mean trouble if I was discovered at
-school.");
+MsgDisp("Nanatsumori","Yeah. \nIt's an unusual job. I feel like it would\nbe trouble if people at school found out.");
 MsgDisp("主人公","I see.
 Then, I'll keep it a secret, okay?");
 ChEye(4,2);

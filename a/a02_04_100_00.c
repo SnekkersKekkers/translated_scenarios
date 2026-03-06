@@ -31,8 +31,7 @@ StlOpen("ev_04_01");
 StlEye(4,0);
 StlMouth(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah!! It's my poster! I must have dropped
-it from the roof...");
+MsgDisp("主人公","Ah!! \nIt's my poster! \nI must have dropped it in the hallway...");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
@@ -150,8 +149,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_180");
-MsgDisp("Nanatsumori","So you call me \"Nanatsumori Minoru\"
-alright? Habataki student, normal guy. OK?");
+MsgDisp("Nanatsumori","So you can call me \"Nanatsumori Minoru\"\nalright? Habataki student, normal guy. \nOK?");
 MsgDisp("主人公","Yeah, ok!");
 ChEye(4,4);
 ChMouth(4,0);

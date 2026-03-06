@@ -140,7 +140,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("A020250000_02_120");
-MsgDisp("Sassa","I completely forgot!");
+MsgDisp("Sassa","Forget about that for now!");
 ChEye(1,0);
 ChMouth(1,2);
 BGMVol(0.5,0.1);
