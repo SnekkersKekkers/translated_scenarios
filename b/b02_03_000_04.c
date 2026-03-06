@@ -3,7 +3,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B020300004_03_000");
 MsgDisp("Honda","Hey, hey.
-Is there a reason for you're wearing such
+Is there a reason you're wearing such
 thick clothing?");
 MsgDisp("主人公","Huh, a reason?");
 ChEye(3,2);

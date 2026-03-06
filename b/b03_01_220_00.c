@@ -18,7 +18,7 @@ ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("B030122000_01_010");
 MsgDisp("Kazama","Well, what route should we take?");
-MsgSel("I want to see Habataki Tower","Let's go to the Exhibition Corner.");
+MsgSel("I want to see the castle tower","Let's go to the Exhibition Corner.");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(1,4);

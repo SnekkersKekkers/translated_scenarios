@@ -21,7 +21,7 @@ You're early.");
     VoicePlay("B010100002_01_010");
     MsgDisp("Kazama","I left home at the wrong time.
 But it seems like it worked out in my
-favor anyway.");
+favor anyway. I feel like I lucked out.");
     MsgDispSksp(0);
     break ;
     case 3:

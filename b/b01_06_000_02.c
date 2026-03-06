@@ -37,13 +37,13 @@ to do.");
     MsgDisp("Himuro","About 15 minutes ago.
 It would be a problem if something
 unexpected popped up.");
-    MsgDisp("主人公","Are you worried about something...?");
+    MsgDisp("主人公","Would something like that really happen...?");
     MsgDispSksp(1,0);
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("B010600002_06_040");
-    MsgDisp("Himuro","The future is unpredictable.
+    MsgDisp("Himuro","You're too naive.
 That's all.");
     MsgDispSksp(0);
     break ;

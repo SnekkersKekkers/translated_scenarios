@@ -53,7 +53,7 @@ What's wrong?");
     ChMotion(5,4);
     VoicePlay("B010500001_05_050");
     MsgDisp("Hiiragi","If you hadn't been waiting here...
-No, I'll perish the thought.");
+I kept imagining the worst.");
     MsgDisp("主人公","Hey, I waited for you.");
     MsgDispSksp(1,0);
     ChEye(5,4);

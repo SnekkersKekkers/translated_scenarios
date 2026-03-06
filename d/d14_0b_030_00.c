@@ -50,7 +50,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B03000_01_010");
 MsgDisp("Kazama","Who else could it be?
-I can se even from here.");
+I can see even from here.");
 MsgDisp("主人公","(I've been found out...)");
 ChEye(1,0);
 ChMouth(1,2);

@@ -41,7 +41,7 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C03400_05_020");
-MsgDisp("Hiiragi","Could you not own a dogs or a cat?");
+MsgDisp("Hiiragi","Could you not own a dog or a cat?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -82,7 +82,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C03400_06_020");
 MsgDisp("Himuro","Haa...to Kojiro-sensei, we look like
-plants ans animals?");
+plants and animals?");
 ChMotion(5,4);
 ChEye(7,0);
 ChMouth(7,3);

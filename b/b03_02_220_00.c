@@ -12,7 +12,7 @@ ChMotion(2,3);
 VoicePlay("B030222000_02_010");
 MsgDisp("Sassa","Then please be my guide.
 I don't get this stuff at all.");
-MsgSel("I want to see Habataki Tower","Let's go to the Exhibition Corner");
+MsgSel("I want to see the castle tower","Let's go to the Exhibition Corner");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

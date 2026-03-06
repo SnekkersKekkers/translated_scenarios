@@ -10,6 +10,6 @@ ChMotion(6,0);
 VoicePlay("B020600005_06_010");
 MsgDisp("Himuro","Well even if you're an idiot, you'll still
 catch a cold wearing that.");
-MsgDisp("主人公","(That was shocking.
+MsgDisp("主人公","(He seemed upset.
 I didn't make a very good choice in
 clothes...)");

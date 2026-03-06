@@ -14,8 +14,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B020202100_02_020");
-MsgDisp("Sassa","It's pretty girlish, but it feels like you
-still?");
+MsgDisp("Sassa","More than just girly, it feels like it's
+just... you, you know?");
 MsgDisp("主人公","(This seems to be just to ｛Sassa＊＊｝'s
 tastes.
 Yay!)");

@@ -25,7 +25,7 @@ communication and reporting is important.");
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B010500000_05_010");
-    MsgDisp("Hiiragi","It was very careless.");
+    MsgDisp("Hiiragi","That's quite the panicked rush you're in.");
     MsgDisp("主人公","Urgh...
 I'm sorry.");
     MsgDispSksp(1,0);

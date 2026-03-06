@@ -49,7 +49,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D120B00000_03_010");
-MsgDisp("Honda","\"The Young Mastery of Habataki City\".
+MsgDisp("Honda","\"The Young Master of Habataki City\".
 Some girls always have their antennas up
 for everything Ryo-kun says and does.");
 ChEye(1,0);
