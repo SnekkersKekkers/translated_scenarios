@@ -44,13 +44,13 @@ Its cheerfulness gives me a good feeling.");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040321202_03_030");
-        MsgDisp("Honda","Is thats so?
+        MsgDisp("Honda","Is that so?
 I'll give it a whirl.
 Good morningー.");
         ChMouth(3,0);
         SEPlay("EV_SE_796",0,0.9);
         MsgDisp("Stuffed Animal","Good morningー.");
-        MsgDisp("主人公","Hehe, it's voice is a little off.
+        MsgDisp("主人公","Hehe, its voice is a little off.
 But it's cute.");
         ChEye(3,0);
         ChMouth(3,3);

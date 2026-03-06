@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040324102_03_000");
 MsgDisp("Honda","There's homemade sausages being sold as
 souvenirs.");
-MsgSel("It's be nice if there were herbs in it","Looks like they have samples too!","I have a little bit of mixed feelings about this...");
+MsgSel("It'd be nice if there were herbs in it","Looks like they have samples too!","I have a little bit of mixed feelings about this...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

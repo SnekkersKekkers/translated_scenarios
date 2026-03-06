@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040322200_03_000");
 MsgDisp("Honda","There's so much display items here that
 are valuable enough to be put in a museum.");
-MsgSel("A letter form 100 years ago?","A beautiful katana","This armor and helmet
+MsgSel("A letter from 100 years ago?","A beautiful katana","This armor and helmet
  looks heavy...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040322200_03_010");
-    MsgDisp("Honda","Yep yep, that looks like a IOU.
+    MsgDisp("Honda","Yep yep, that looks like an IOU.
 The feudal lord borrowed money from a
 wealthy merchant.");
     MsgDispSksp(1,0);

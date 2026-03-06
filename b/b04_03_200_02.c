@@ -95,7 +95,7 @@ observe you.");
         ChMouth(3,3);
         ChMotion(3,5);
         VoicePlay("B040320002_03_100");
-        MsgDisp("Honda","Hey, let's skii!
+        MsgDisp("Honda","Hey, let's ski!
 This is a waste of time!");
         MsgDisp("主人公","(Observe me he says...that's a little
 embarrassing.)");

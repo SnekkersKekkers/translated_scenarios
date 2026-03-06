@@ -73,7 +73,7 @@ something newly strange about me! Camping
 with us two is the best!");
         SEPlay("EV_SE_569",0,0.5);
         Wait(50,0);
-        MsgDisp("主人公","(｛Honda＊＊｝, yu're echoing...)");
+        MsgDisp("主人公","(｛Honda＊＊｝, you're echoing...)");
         SEStop("EV_SE_569",1);
         break ;
         default :

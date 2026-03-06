@@ -2,7 +2,7 @@ BGOpen("tr500",0);
 MsgClose();
 ChOpen(2,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","It's looks like there are a lot of
+MsgDisp("主人公","It looks like there are a lot of
 hands-on activities right now.");
 ChEye(2,0);
 ChMouth(2,0);

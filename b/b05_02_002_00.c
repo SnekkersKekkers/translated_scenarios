@@ -78,7 +78,7 @@ That's kind of embarrassing...");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("B050200200_02_080");
-MsgDisp("Sassa","H-Huh, don't get embarrased!
+MsgDisp("Sassa","H-Huh, don't get embarrassed!
 This is a jacuzzi.");
 MsgDisp("主人公","Y-Yeah.");
 StlEye(2,1);

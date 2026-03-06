@@ -89,7 +89,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100100_01_070");
-MsgDisp("Kazama","And it's like I've retuned to 10 years ago
+MsgDisp("Kazama","And it's like I've returned to 10 years ago
 in my mind?");
 MsgDisp("主人公","Hehe.
 I'm like that too sometimes.");
