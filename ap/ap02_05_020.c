@@ -3,5 +3,5 @@ NSSMouth(5,4);
 NSSCheek(5,5);
 MsgDispHide();
 VoicePlay("AP0205020_05_000");
-MsgDisp("Hiiragi","Has something happened?");
+MsgDisp("Hiiragi","Did something happen?");
 MsgClose();

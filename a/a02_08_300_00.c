@@ -9,7 +9,7 @@ MsgDisp("Manager","Your shift will be every week, Wednesday
 and Friday, we decided, yeah?
 Counting on you.");
 MsgDisp("主人公","Yes, understood.");
-MsgDisp("主人公","(Allllright, let's do our best!)");
+MsgDisp("主人公","(Alright, let's do our best!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

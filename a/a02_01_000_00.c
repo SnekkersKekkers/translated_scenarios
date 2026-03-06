@@ -107,8 +107,7 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("A020100000_01_060");
-MsgDisp("Kazama","Yeah. I didn't expect this either. I told
-your mom yesterday. Did she not tell you?");
+MsgDisp("Kazama","Yeah. I didn't expect this either. \nI told your mom yesterday. \nDid she not tell you?");
 MsgDisp("主人公","Sorry ｛Kazama＊＊｝, I was so surprised to
 hear that you came back, maybe I wasn't
 listening all that well...");

@@ -134,10 +134,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("A020220000_02_120");
-MsgDisp("Sassa","Well, I'm still thinking about it. There
-are eight events: short distance, long
-distance, jumping, and throwing. And then,
-we count scores.");
+MsgDisp("Sassa","Well, I guess you wouldn't know. There\nare eight events: short distance, long\ndistance, jumping, and throwing. And then,\nwe count scores.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,1);
