@@ -24,7 +24,7 @@ MsgDisp("Hiiragi","I'm troubled...
 Then, how about this.");
 VoicePlay("B100500000_05_040");
 MsgDisp("Hiiragi","Only we know of what happened today. If
-both us forgot it, it would no longer
+both of us forgot it, it would no longer
 exist in this world. I've forgotten, so
 it's only you.");
 MsgDisp("主人公","Yeah, thank you.");
@@ -35,7 +35,7 @@ MsgDisp("主人公","...I'm glad.");
 VoicePlay("B100500000_05_060");
 MsgDisp("Hiiragi","From now on too, can I see and hear the
 same things with you, and spend time
-together. the same as before?");
+together. The same as before?");
 MsgDisp("主人公","Yeah.");
 VoicePlay("B100500000_05_070");
 MsgDisp("Hiiragi","I'm glad.

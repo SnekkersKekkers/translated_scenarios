@@ -26,7 +26,7 @@ ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110700000_33_020");
 MsgDisp("Guy","Is that okay? Even if you don't believe
-it, you have been chosen. That's an fact.
+it, you have been chosen. That's a fact.
 Well, shall we go?");
 ChPosition(33,2);
 MsgClose();

@@ -27,7 +27,7 @@ MsgClose();
 ChOpen(8,253,0,2,4,#1,#1,0,1);
 ScrFadeIn(0);
 VoicePlay("B110800002_08_000");
-MsgDisp("Shirahane","what an impatient person...
+MsgDisp("Shirahane","What an impatient person...
 It's all gibberish to me.");
 MsgDisp("主人公","Ah, ｛Daichi＊＊｝.");
 ChEye(35,0);

@@ -61,7 +61,7 @@ ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110300001_34_040");
 MsgDisp("Guy","W-What do you know!
-First of all, this is is just an avatar
+First of all, this is just an avatar
 and——");
 ChEye(3,4);
 ChMouth(3,3);

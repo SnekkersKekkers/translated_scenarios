@@ -110,7 +110,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B110400001_04_070");
-MsgDisp("Nanatsumori","Well, who know.
+MsgDisp("Nanatsumori","Well, who knows.
 Let's go.");
 ChEyeOpenLevel(4,#1);
 ChMouthOpenLevel(4,#1);

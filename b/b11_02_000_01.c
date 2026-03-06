@@ -56,7 +56,7 @@ MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110200001_34_030");
-MsgDisp("Guy","Yeah, cause this is the rendevouz point.");
+MsgDisp("Guy","Yeah, cause this is the rendezvous point.");
 MsgDispSksp(1,5);
 ChEye(2,1);
 ChMouth(2,0);
@@ -79,7 +79,7 @@ ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110200001_34_050");
 MsgDisp("Guy","Eh, no way.
-DOn'yt report me to the adminsー!");
+Don't report me to the adminsー!");
 SEPlay("EV_SE_580");
 MsgClose();
 ChClose(34);
@@ -101,7 +101,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B110200001_02_080");
 MsgDisp("Sassa","Anyways, I'm sorry.
-I got help up, and you ended up in this
+I got held up, and you ended up in this
 scary situation.");
 MsgDisp("主人公","No, I'm alright.
 Thank you for helping me.
