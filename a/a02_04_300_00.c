@@ -86,7 +86,7 @@ VoicePlay("A020430000_04_050");
 MsgDisp("Nanatsumori?","Well, I don't blame you...Don't worry.
 I'm the same person that was seating here
 earlier.");
-MsgDisp("主人公","A...Alright.");
+MsgDisp("主人公","O-Oh.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
