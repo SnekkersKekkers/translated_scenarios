@@ -13,17 +13,13 @@ VoicePlay("A030000000_49_000");
 MsgDisp("Host","Thank you, principal.\nNext up is the vice principal.\nPlease give him a warm welcome.");
 BGOpen("sc400",0);
 VoicePlay("A030000000_32_000");
-MsgDisp("VP Himuro","I'm Vice Principal Himuro. After hearing
-the principal's admission speech, you are
-now officially students of \"Habataki High
-School\".");
+MsgDisp("VP Himuro","I'm Vice Principal Himuro. With the
+principal's admission speech, you are
+now students of \"Habataki High School.\"");
 VoicePlay("A030000000_32_010");
-MsgDisp("VP Himuro","You were destined to meet here, to work
-hard and encourage each other, to bring
-each other up. You need to train your
-wings so that in three years time, you are
-able to spread your wings and soar from
-this school.");
+MsgDisp("VP Himuro","Work hard with the peers fate brought
+you here with, lift each other up, and
+spend three years forging wings to soar.");
 VoicePlay("A030000000_32_020");
 MsgDisp("VP Himuro","We the teachers and staff are proud to
 enlighten you, and it is our intention to

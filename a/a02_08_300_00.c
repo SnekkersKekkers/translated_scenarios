@@ -42,10 +42,9 @@ Uhm...");
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_020");
-MsgDisp("Shirahane","You're the highschool girl who started
-part time today, right? I'm Shirahane
-Daichi. I'm in the blue necktie year at
-Hanegasaki Academy.");
+MsgDisp("Shirahane","You're the new part-timer startin' today,
+right? I'm Shirahane Daichi. I'm in the
+blue necktie year at Hanegasaki Academy.");
 ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","I'm ｛主人公姓名｝. Blue...So that
 means, the same grade as me, doesn't it!
@@ -108,11 +107,9 @@ ChEyeOpenLevel(8,0);
 VoicePlay("A020830000_08_080");
 MsgDisp("Shirahane","Then, once more: lookin' forward to
 workin' with you～!");
-MsgDisp("主人公","(Hanegasaki High School's
-｛Daichi＊＊｝...His smile and
-characteristic intonation might be kinda
-cute. I'm looking forward to work days
-now!)");
+MsgDisp("主人公","(｛Daichi＊＊｝ from Hanegasaki Academy...
+His smile and unique way of talking
+are kinda cute. I can't wait for work!)");
 BGMStop()MsgClose();
 ScrFadeOut(0);
 ChClose(8);

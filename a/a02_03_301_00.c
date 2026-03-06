@@ -61,10 +61,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("A020330100_03_060");
-MsgDisp("Honda","Yep. But don't you think meeting someone
-from school at your job first and not at
-school is a rare thing? I got a little
-excited!");
+MsgDisp("Honda","Yep. But meeting someone from school
+at your job instead is pretty rare,
+right? I'm getting excited!");
 MsgDisp("主人公","A rare thing?");
 ChEye(3,3);
 ChMouth(3,2);

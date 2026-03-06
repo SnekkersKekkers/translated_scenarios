@@ -135,10 +135,9 @@ SEPlay("EV_SE_856");
 BGMStop();
 ChClose(21,0,30);
 ChClose(22,0,30);
-MsgDisp("主人公","(No way...The Hanatsubaki Twin models,
-and relatives of world-famous designer
-\"Hanatsubaki Goro\"— go to this
-school...!?)");
+MsgDisp("主人公","(The popular twin models related to
+world-famous designer \"Hanatsubaki Goro\"
+go to this school...!?)");
 MsgDisp("主人公","(I can go to Michiru for fashion and
 Hikaru for relationship advice...
 Anyway, why do they call me \"Mari\"?)");
