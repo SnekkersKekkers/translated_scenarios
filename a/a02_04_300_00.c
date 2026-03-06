@@ -164,9 +164,7 @@ ChMotion(4,0,1);
 VoicePlay("A020430000_04_110");
 MsgDisp("Nanatsumori","Ah, yeah, right.
 Thanks.");
-MsgDisp("主人公","Hehe. I'm in the same year as you, in
-Habataki High too. Nice to meet you I
-guess?");
+MsgDisp("主人公","Hehe. I'm in the same year as you. I go\nto Habataki High too. Nice to meet you I\nguess?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_120");
