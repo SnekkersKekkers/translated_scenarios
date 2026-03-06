@@ -252,8 +252,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("A020430000_04_230");
-MsgDisp("Nanatsumori","Okay. Oh, and for saving me from losing my
-ID. Thank you.");
+MsgDisp("Nanatsumori","Nice to meet you. \nOh, and thanks for saving me from losing\nmy ID.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
