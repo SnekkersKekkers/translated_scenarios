@@ -192,7 +192,7 @@ ChMouth(1,2);
 ChSet(3,3);
 VoicePlay("D120B00000_03_040");
 MsgDisp("Honda","That was fun!
-Being a celebrity is really popular, huh");
+Being a celebrity is really something, huh!");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,4,1);

@@ -12,14 +12,14 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D100610000_06_010");
-MsgDisp("Himuro","I have a sleeping habit.");
+MsgDisp("Himuro","You have bed head.");
 MsgDisp("主人公","Eh!
-Sleep walking?");
+Where?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D100610000_06_020");
-MsgDisp("Himuro","No, not like that.");
+MsgDisp("Himuro","No, not that side.");
 MsgClose();
 ChClose(6);
 ChLayout(0);

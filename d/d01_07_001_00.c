@@ -100,7 +100,7 @@ ChMotion(7,0);
 VoicePlay("D010700100_07_090");
 MsgDisp("Mikage","Thank you, you're going to make me cry.
 Molly was actually the first kid I
-adopted.");
+delivered.");
 MsgDisp("主人公","Oh, really?");
 ChEye(7,2);
 ChMouth(7,0);

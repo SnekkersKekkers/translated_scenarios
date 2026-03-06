@@ -19,7 +19,7 @@ ChEye ( 3,0 ) ;
 ChMouth ( 3,3 ) ;
 ChMotion ( 3,1 ) ;
 VoicePlay ( "D150001300_03_010" ) ;
-MsgDisp ( "Honda","Yepyep. Sugar cookies are famous.
+MsgDisp ( "Honda","Yepyep. Icing cookies are famous.
 Apparently they originated from the royal
 family." ) ;
 MsgDisp ( "主人公","Royal sweets...

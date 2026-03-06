@@ -7,14 +7,14 @@ ChOpen(4,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("D100410000_04_000");
-MsgDisp("Nanatsumori","There's less cobbler...");
+MsgDisp("Nanatsumori","I'm a bit peckish...");
 MsgDisp("主人公","Eh?
 But lunch only started an hour ago.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D100410000_04_010");
-MsgDisp("Nanatsumori","It's only the cobbler that's gone.
+MsgDisp("Nanatsumori","It's just a small craving.
 I want something sweet...");
 MsgDisp("主人公","Hehe.
 I have some sweets in my bag.

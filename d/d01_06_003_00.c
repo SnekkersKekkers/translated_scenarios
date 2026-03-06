@@ -118,7 +118,7 @@ MsgClose();
 BGOpen("wf620",1);
 ScrFadeIn(0);
 MsgDisp("主人公","Thanks for today, ｛Himuro＊＊｝.
-It had a great time!");
+I had a great time!");
 MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0);
 VoicePlay("D010600300_06_130");

@@ -27,8 +27,8 @@ ChMotion ( 1,0 ) ;
 ChEyeOpenLevel ( 1,0 ) ;
 ChCheek ( 1,0 ) ;
 VoicePlay ( "D150001600_01_010" ) ;
-MsgDisp ( "Kazama","Haa, the grass always seems greener on the
-other side." ) ;
+MsgDisp ( "Kazama","Haa, you can't see what's right under your
+nose." ) ;
 ChEye ( 6,0 ) ;
 ChMouth ( 6,0 ) ;
 ChMotion ( 6,1 ) ;
