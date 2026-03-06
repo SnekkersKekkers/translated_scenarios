@@ -233,7 +233,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_200");
-MsgDisp("Nanatsumori","...You, you're the serious kind.");
+MsgDisp("Nanatsumori","...You, You're the serious kind, huh?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
