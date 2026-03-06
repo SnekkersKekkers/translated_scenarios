@@ -103,8 +103,9 @@ ChOpen(1,254,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(1,3);
 VoicePlay("D020100000_01_150");
-MsgDisp("Kazama","Hahaha! A bubbly and clumsy person. That's
-good. You're too funny.");
+MsgDisp("Kazama","Hahaha!
+A bubbly and clumsy person.
+That's good. You're too funny.");
 MsgDisp("主人公","Geez...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

@@ -136,10 +136,9 @@ ChMouth(9,0);
 ChMotion(9,1,1);
 ChEyeOpenLevel(9,7);
 VoicePlay("D030900500_09_130");
-MsgDisp("Kuya","If you hadn't asked me out on a date
-today, I wouldn't have ran into that food
-truck and been able to get this \"Soft
-Cream Bread\"?");
+MsgDisp("Kuya","If you hadn't asked me on a date today,
+I wouldn't have found that food truck
+or this \"Soft Cream Bread\", right?");
 MsgDisp("主人公","...But this is an interview?");
 ChEye(9,3);
 ChMouth(9,0);

@@ -206,10 +206,9 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("D010600200_06_080");
 MsgDisp("Himuro","Next year we will definitely win.");
-MsgDisp("主人公","(Will Vice Principal Himuro participate
-again next year? Even though that's after
-I graduate, I think I want to watch
-it...?)");
+MsgDisp("主人公","(Vice Principal Himuro again next year?
+That's after I graduate, but I kinda
+want to watch it...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

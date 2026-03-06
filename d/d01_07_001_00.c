@@ -123,8 +123,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D010700100_07_120");
-MsgDisp("Mikage","Right. I'll put some pictures up of Molly
-and her baby. Come check them out anytime!");
+MsgDisp("Mikage","Right. I'll put some 
+pictures up of Molly and her baby.
+Come check them out anytime!");
 MsgDisp("主人公","Ah, okay.");
 MsgDisp("主人公","(｛Mikage＊＊｝ has things to do, huh...?
 Does he mean something besides teaching?)");
