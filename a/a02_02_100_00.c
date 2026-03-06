@@ -32,10 +32,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("A020210000_02_040");
-MsgDisp("Sassa","I see. I'm pretty much running every
-chance I get, before club activities or
-when I have free time. So I'm always glad
-to meet someone who's into sports too.");
+MsgDisp("Sassa","I see. I run whenever I can, before\npractice and in my free time. So it's \ngreat to meet someone else into sports.");
 MsgDisp("主人公","Hehe, I see.");
 ChEye(2,0);
 ChMouth(2,4);
