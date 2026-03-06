@@ -27,7 +27,7 @@ MsgDisp("Himuro","From now on, tell me these things
 beforehand. If you don't,
 misunderstandings will happen.");
 MsgDisp("主人公","Mm, I'll be careful.
-Really sorry?");
+I'm really sorry.");
 VoicePlay("C010600000_06_040");
 MsgDisp("Himuro","You've apologized enough now.
 Then, later.");

@@ -64,9 +64,9 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D130A00000_01_040");
-MsgDisp("Kazama","Haa...well, it's only natural for three
-guys to talk to each other on that kind of
-day.");
+MsgDisp("Kazama","Haa...well, what three guys would talk
+about on a day like this is obvious,
+right?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1,0,30);

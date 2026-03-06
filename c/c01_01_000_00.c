@@ -18,11 +18,12 @@ MsgDisp("Kazama","Haa...");
 MsgDisp("主人公","｛Kazama＊＊｝?");
 VoicePlay("C010100000_01_030");
 MsgDisp("Kazama","...Listen, you.
-Tell me these kinds of things sooner.");
+Tell me these things sooner.");
 MsgDisp("主人公","I, I'm sorry...");
 VoicePlay("C010100000_01_040");
-MsgDisp("Kazama","I know you are. But don't put me through
-this kind of thing anymore. Yeah?");
+MsgDisp("Kazama","Fine, I get it.
+But don't put me through this anymore. 
+Yeah?");
 MsgDisp("主人公","Yeah, thanks!");
 VoicePlay("C010100000_01_050");
 MsgDisp("Kazama","Aa, later.");

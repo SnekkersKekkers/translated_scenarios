@@ -12,7 +12,7 @@ VoicePlay("C010400000_04_010");
 MsgDisp("Nanatsumori","I know who this is.
 And?
 What now?");
-MsgDisp("主人公","(Ugh, this sucks...
+MsgDisp("主人公","(Ugh, this is so awkward...
 But if I don't have a proper talk with him
 now...)");
 MsgDisp("","　　　　　　　　　　 ・
@@ -28,7 +28,7 @@ sooner...");
 VoicePlay("C010400000_04_040");
 MsgDisp("Nanatsumori","You're fine.
 I'm glad we could make up.
-I think I'll sleep good tonight.");
+I think I'll sleep well tonight.");
 MsgDisp("主人公","Ah...
 Were you not sleeping well?
 Then, good night for now, ｛Nanatsumori＊｝.");
