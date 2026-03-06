@@ -33,8 +33,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("A020520000_05_010");
 MsgDisp("Hiiragi?","Yes, I'm listening.\nI'm Hiiragi Yanosuke.\nI'm looking forward to working with you.");
-MsgDisp("主人公","O-Of course!
-Looking forward too!");
+MsgDisp("主人公","Y-Yes!\nI'm looking forward to it too!");
 VoicePlay("A020520000_41_000");
 MsgDisp("President","Ah, a new member? Welcome. \nHiiragi-kun, did you introduce yourself \nalready?");
 ChEye(5,0);
