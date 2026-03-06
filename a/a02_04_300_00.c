@@ -127,9 +127,7 @@ SEPlay("EV_SE_DOOR_014",0.5);
 MsgDisp("主人公","(That customer really threw me off, first
 the amount of food, and then he came back
 looking so differently...)");
-MsgDisp("主人公","Now, I'll get to cleaning up! ...Hmm?
-Something's on the chair, that guy must
-have dropped it?");
+MsgDisp("主人公","Time to clean up!\nHm? Something's on the chair, that guy \nmust have dropped it?");
 SEPlay("EV_SE_595",0,0.6);
 SEWait();
 MsgDisp("主人公","It's a student card from Haba High!
