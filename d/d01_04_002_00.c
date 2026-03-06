@@ -28,7 +28,7 @@ MsgDisp("主人公","(Huh?
 I guess he isn't here...)");
 VoicePlay("D010400200_04_000");
 MsgDisp("Nanatsumori?","Zzz......");
-MsgDisp("主人公","Zzz...");
+MsgDisp("主人公","Ah...");
 MsgClose();
 ScrFadeOut(0);
 BGMPlay("BGM_C04_NANA_B",0.01);
