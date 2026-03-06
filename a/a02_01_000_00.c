@@ -207,7 +207,7 @@ NSSEyeOpenLevel(1,0);
 Wait(20,0);
 NSSEye(1,0);
 MsgDisp("主人公","That thing...?");
-MsgSel("The mysterious church with the ringing bell?","The wishes we made together to the pinwheel?","A lot of time has passed, I wonder what you're talking about...");
+MsgSel("The mysterious church with the ringing bell?","The wishes we made together to the pinwheel?","We had lots of different moments, I wonder which one...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","The mysterious church with the ringing

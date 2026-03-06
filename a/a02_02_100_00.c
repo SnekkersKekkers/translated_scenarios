@@ -110,8 +110,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_130");
-MsgDisp("Sassa","Thank you too.
-I'm sorry I put you through that!");
+MsgDisp("Sassa","I should be the one apologizing for
+dragging you along!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

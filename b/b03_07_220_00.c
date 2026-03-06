@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,0);
     VoicePlay("B030722000_07_020");
     MsgDisp("Mikage","Alright then.
-I'll lead the Habataki Tower group, so
+I'll lead the castle tower group, so
 please follow me.");
     MsgDisp("主人公","Okay!");
     ChEye(7,0);

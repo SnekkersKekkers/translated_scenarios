@@ -13,7 +13,7 @@ ChMotion(3,4);
 VoicePlay("B030322000_03_010");
 MsgDisp("Honda","This time we're on the attack.
 What area will we capture first?");
-MsgSel("I want to see Habataki Tower","Let's go to the Exhibition Corner");
+MsgSel("I want to see the castle tower","Let's go to the Exhibition Corner");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

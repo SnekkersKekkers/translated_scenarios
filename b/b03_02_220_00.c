@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B030222000_02_020");
     MsgDisp("Sassa","Yeah, that seems like fun.
-Anything that tall up will feel good.");
+Being at the very top always feels good.");
     MsgDispSksp(0);
     break ;
     case 1:

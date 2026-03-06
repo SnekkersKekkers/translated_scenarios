@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B030123000_01_020");
-    MsgDisp("Kazama","Now that you're here, you know you can't
-get off.");
+    MsgDisp("Kazama","Since we're here, I get that you can't
+skip it.");
     ChEye(1,0);
     ChEyeOpenLevel(1,10);
     break ;
