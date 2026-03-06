@@ -9,7 +9,7 @@ MsgDisp("Manager","Your shift will be every week, Wednesday
 and Friday, we decided, yeah?
 Counting on you.");
 MsgDisp("主人公","Yes, understood.");
-MsgDisp("主人公","(Allllright, let's do our best!)");
+MsgDisp("主人公","(Alright, let's do our best!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -42,7 +42,10 @@ Uhm...");
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_020");
-MsgDisp("Shirahane","You're the highschool girl that started\npart time today, right? I'm Shirahane\nDaichi. I'm a Hanegasaki Blue Necktie.");
+MsgDisp("Shirahane","You're the highschool girl what started
+part time today, right? I'm Shirahane
+Daichi. I'm a Hanegasaki Blue Necktie,
+myself.");
 ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","I'm ｛主人公姓名｝. Blue...So that
 means, the same grade as me, doesn't it!
@@ -51,7 +54,8 @@ ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("A020830000_08_030");
-MsgDisp("Shirahane","The famous Habataki High, innit?\nThat's wicked cool.");
+MsgDisp("Shirahane","The famous Habataki High, innit?
+You're just so wicked.");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
