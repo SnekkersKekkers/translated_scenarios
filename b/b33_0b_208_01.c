@@ -23,7 +23,7 @@ MsgDisp("主人公","Hey...are we really going in?
 Into the haunted house.");
 ChMotion(1,0);
 VoicePlay("B330B20801_01_010");
-MsgDisp("Kazama","We're already here, m Might as well go in.");
+MsgDisp("Kazama","We're already here, might as well go in.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);

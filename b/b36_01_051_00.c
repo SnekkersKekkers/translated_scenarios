@@ -15,7 +15,7 @@ MsgDisp("Kazama","It's quiet huh.
 It's hard to believe it was so noisy just
 a minute ago.");
 MsgDisp("主人公","Hehe.
-That's because it was s o lively today.");
+That's because it was so lively today.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

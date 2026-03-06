@@ -67,7 +67,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B330C10100_07_020");
 MsgDisp("Mikage","I see.
-Isn't that proof that you're staring to
+Isn't that proof that you're starting to
 have more freedom now?");
 ChEye(5,0);
 ChMouth(5,4);

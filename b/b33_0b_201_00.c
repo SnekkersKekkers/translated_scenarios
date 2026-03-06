@@ -56,7 +56,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20100_03_020");
-MsgDisp("Honda","I'm ver satisfied, this is wonderful!");
+MsgDisp("Honda","I'm very satisfied, this is wonderful!");
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
@@ -90,7 +90,7 @@ MsgDisp("Honda","It's alright! It's super cool. Mi-kun will
 also definitely come to like it.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","(I'm pretty sure it'll b e a no-go for
+MsgDisp("主人公","(I'm pretty sure it'll be a no-go for
 ｛Nanatsumori＊｝...");
 BGMStop();
 MsgClose();

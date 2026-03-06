@@ -80,7 +80,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B330B20701_03_040");
 MsgDisp("Honda","Even the way their crest jumps around; I
-relate even to their appreances!");
+relate even to their appearances!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

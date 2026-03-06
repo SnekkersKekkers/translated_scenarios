@@ -83,8 +83,8 @@ VoicePlay("B330C10200_07_030");
 MsgDisp("Mikage","Yeah, probably something like snails or
 shrimp.
 They eat the algae in the tank.");
-MsgDisp("主人公","It's amazing huh. for the creatures you
-keep t o clean up for you.");
+MsgDisp("主人公","It's amazing huh. For the creatures you
+keep to clean up for you.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -69,7 +69,7 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B20600_03_030");
-MsgDisp("Honda","You want't to know? But if you watch this
+MsgDisp("Honda","You want to know? But if you watch this
 movie after hearing this, it'll be a lot
 scarier...will you be okay?");
 MsgDisp("主人公","(I-I don't want to hear it...)");

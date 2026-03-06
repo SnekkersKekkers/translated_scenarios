@@ -20,7 +20,7 @@ ChMotion(4,0,1);
 VoicePlay("B360417001_04_010");
 MsgDisp("Nanatsumori","Eh∋");
 MsgDisp("主人公","I mean, if there are only two people using
-it, it often ends up being a cramp room
+it, it often ends up being a cramped room
 like this.");
 ChEye(4,4);
 ChMouth(4,0);
