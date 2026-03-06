@@ -2,5 +2,5 @@ NSSEye(8,3);
 NSSMouth(8,3);
 NSSEyeOpenLevel(8,5);
 VoicePlay("AP0608200_08_000");
-MsgDisp("Shirahane","You sure are a frisky one, huh?");
+MsgDisp("Shirahane","You sure are a mischievous one, huh?");
 MsgClose();
