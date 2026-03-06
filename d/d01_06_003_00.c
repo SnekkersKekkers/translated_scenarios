@@ -82,7 +82,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600300_06_080");
-MsgDisp("Himuro","Without you, this would be be pointless.");
+MsgDisp("Himuro","Without you, this would be pointless.");
 MsgDisp("主人公","Eh...?");
 VoicePlay("D010600300_06_090");
 MsgDisp("Himuro","It's true that I used to like surfing by

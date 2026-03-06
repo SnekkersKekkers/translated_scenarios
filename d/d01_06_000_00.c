@@ -81,8 +81,7 @@ MsgDisp("Guy A","What a horrible thing to say.
 You shouldn't take it personally.");
 MsgDisp("主人公","Eh?");
 VoicePlay("D010600000_42_030");
-MsgDisp("Guy B","That guy is famous good at surfing but, he
-doesn't get along with us well.");
+MsgDisp("Guy B","That guy is famously good at surfing but, \nhe doesn't get along with us well.");
 MsgDisp("主人公","I see...");
 MsgDisp("主人公","(｛Himuro＊＊｝, isn't that lonely...?)");
 MsgClose();

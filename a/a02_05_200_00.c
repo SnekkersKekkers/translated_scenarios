@@ -27,15 +27,13 @@ BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020520000_05_000");
 MsgDisp("Hiiragi?","May I help you with something?");
-MsgDisp("主人公","Err...My name is ｛主人公姓名｝, and I
-would like to join the student council!");
+MsgDisp("主人公","Uhm...\nMy name is ｛主人公姓名｝, and I\nwould like to join the student council!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("A020520000_05_010");
 MsgDisp("Hiiragi?","Yes, I'm listening.\nI'm Hiiragi Yanosuke.\nI'm looking forward to working with you.");
-MsgDisp("主人公","O-Of course!
-Looking forward too!");
+MsgDisp("主人公","Y-Yes!\nI'm looking forward to it too!");
 VoicePlay("A020520000_41_000");
 MsgDisp("President","Ah, a new member? Welcome. \nHiiragi-kun, did you introduce yourself \nalready?");
 ChEye(5,0);
@@ -45,15 +43,11 @@ VoicePlay("A020520000_05_020");
 MsgDisp("Hiiragi","We were just introducing ourselves.");
 VoicePlay("A020520000_41_010");
 MsgDisp("President","Hey you, are you surprised?");
-MsgDisp("主人公","About what?");
+MsgDisp("主人公","Surprised about what?");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("A020520000_41_020");
-MsgDisp("President","No one told you? Hiiragi-kun is the
-chairman of the Habataki Theater Company
-even though he's still a high schooler. On
-top of that he's a member of our student
-council.");
+MsgDisp("President","Did no one tell you? Hiiragi-kun is not\nonly a member of the Student Council but\nalso the Habataki Theater Company Chairman.");
 MsgDisp("主人公","Woah, he's the chairman...∋");
 ChEye(5,0);
 ChMouth(5,0);

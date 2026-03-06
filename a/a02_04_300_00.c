@@ -13,8 +13,7 @@ BGMPlay("BGM_C04_NANA_I",0.01);
 ChLayout(1);
 ChNanaType(1);
 ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Welcome! Let me guide your to your
-seat——");
+MsgDisp("主人公","Welcome! Let me guide you to your\nseat——");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_000");
@@ -83,9 +82,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("A020430000_04_050");
-MsgDisp("Nanatsumori?","Well, I don't blame you...Don't worry.
-I'm the same person that was seating here
-earlier.");
+MsgDisp("Nanatsumori?","Well, I don't blame you...Don't worry.\nI'm the same person that was sitting here\nearlier.");
 MsgDisp("主人公","A...Alright.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -124,7 +121,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);
 SEPlay("EV_SE_DOOR_014",0.5);
-MsgDisp("主人公","(That customer really threw me off, first\nthe amount of food, and then he came back\nlooking so different...)");
+MsgDisp("主人公","(That customer really threw me off, first
+the amount of food, and then he came back
+looking so differently...)");
 MsgDisp("主人公","Now, I'll get to cleaning up! ...Hmm?
 Something's on the chair, that guy must
 have dropped it?");
@@ -138,8 +137,7 @@ Wait(70,0);
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,1);
 Wait(60,0);
 VoicePlay("A020430000_04_090");
-MsgDisp("Nanatsumori?","Sorry!! I think I forgot something! Do you
-mind if I——");
+MsgDisp("Nanatsumori?","Sorry!! \nI think I forgot something! \nDo you mind if I——");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
 ChNanaType(0);
