@@ -83,7 +83,9 @@ VoicePlay("D010400600_04_080");
 MsgDisp("Nanatsumori","Hold up!
 That way of framing it is no good.
 Forget that.");
-MsgDisp("主人公","Eh? Okay. G...Got it.");
+MsgDisp("主人公","Eh?
+Okay.
+G-Got it.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);

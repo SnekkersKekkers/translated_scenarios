@@ -9,8 +9,9 @@ SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0.3,0.5);
 Wait(80,1);
 SEStop("EV_SE_FOOT_WALK_KEEP_ALONE",0.5);
 Wait(30,1);
-MsgDisp("主人公","...｛Honda＊＊｝? You're here for the
-extracurricular lesson! What's up?");
+MsgDisp("主人公","...｛Honda＊＊｝?
+You're here for the extracurricular lesson!
+What's up?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_C",0.01);
 StlOpen("ev_03_09");

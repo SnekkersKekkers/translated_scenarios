@@ -63,8 +63,9 @@ MsgDisp("Mikage","Ahh, thank you!
 She did such a great job～");
 StlEye(7,0);
 VoicePlay("D010700100_07_050");
-MsgDisp("Mikage","Look at her eyes. They look just like
-Molly's. Pitch black and huge...Right?");
+MsgDisp("Mikage","Look at her eyes.
+They look just like Molly's.
+Pitch black and huge...Right?");
 MsgDisp("主人公","Yeah!");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700100_07_060");
