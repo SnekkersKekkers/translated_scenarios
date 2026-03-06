@@ -71,8 +71,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_090");
-MsgDisp("Himuro","But don't bring it up too much please.
-...cause I'll get angry.");
+MsgDisp("Himuro","But don't bring it up too much please.\n...'cause I'll get angry.");
 MsgDisp("主人公","A-Alright.");
 ChEye(6,0);
 ChMouth(6,0);
