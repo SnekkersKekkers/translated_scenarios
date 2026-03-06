@@ -31,8 +31,7 @@ StlOpen("ev_04_01");
 StlEye(4,0);
 StlMouth(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah!! It's my poster! I must have dropped
-it from the roof...");
+MsgDisp("主人公","Ah!! \nIt's my poster! \nI must have dropped it in the hallway...");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
