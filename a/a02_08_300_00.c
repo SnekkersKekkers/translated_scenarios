@@ -29,8 +29,7 @@ BGMPlay("BGM_C08_DAICHI_I",0.01);
 ChOpen(8,35,0,3,3,0,#1,0,0);
 ChMotion(8,1,1);
 VoicePlay("A020830000_08_000");
-MsgDisp("Shirahane?","In that case, it'd be my honor to spiff
-her up for you.
+MsgDisp("Shirahane?","Then, allow me to clean it up for you～
 Would you like the windows done too?");
 MsgDisp("主人公","...Eh?");
 ChEyeOpenLevel(8,#1);
@@ -44,8 +43,8 @@ ChMotion(8,0,1);
 VoicePlay("A020830000_08_020");
 MsgDisp("Shirahane","You're the highschool girl who started
 part time today, right? I'm Shirahane
-Daichi. I'm a Hanegasaki Blue Necktie,
-myself.");
+Daichi. I'm in the blue necktie year at
+Hanegasaki Academy.");
 ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","I'm ｛主人公姓名｝. Blue...So that
 means, the same grade as me, doesn't it!

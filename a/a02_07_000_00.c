@@ -228,7 +228,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("A020700000_07_160");
 MsgDisp("Mikage","Alright, last one...
-You, who's smiling, by the window.");
+The girl smiling by the window.");
 MsgDisp("主人公","Smiling by the window...?
 Does he mean me∋");
 ChEye(7,0);

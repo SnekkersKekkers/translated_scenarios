@@ -53,8 +53,9 @@ StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("A020410000_04_050");
 MsgDisp("Nanatsumori?","Yeah but...");
-MsgDisp("主人公","Your bracelet, it's the same as high
-school model NANA on the picture?");
+MsgDisp("主人公","That bracelet you're wearing, isn't it
+the same as high school model NANA's on
+the poster?");
 StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
@@ -114,7 +115,7 @@ NANA-kun, uhhh...");
 ChMouthOpenLevel(4,#1);
 VoicePlay("A020410000_04_120");
 MsgDisp("Nanatsumori","...Nanatsumori Minoru.");
-MsgDisp("主人公","Even the name matches.");
+MsgDisp("主人公","Even the name is similar.");
 ChMouthOpenLevel(4,0);
 VoicePlay("A020410000_04_130");
 MsgDisp("Nanatsumori","......");
@@ -154,8 +155,8 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("A020410000_04_190");
-MsgDisp("Nanatsumori","Good kid.
-I trust you.");
+MsgDisp("Nanatsumori","Nice.
+I'm counting on you.");
 MsgDisp("主人公","Hehe.
 See you then, N——");
 ChEye(4,2);
@@ -179,7 +180,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("A020410000_04_220");
-MsgDisp("Nanatsumori","I trust you, for real...");
+MsgDisp("Nanatsumori","I'm seriously counting on you...");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();

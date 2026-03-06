@@ -25,7 +25,7 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("A020D00000_22_010");
-MsgDisp("Hikaru?","If she did, Michiru, we totally would've
+MsgDisp("Hikaru?","If she did, big sis, we totally would've
 noticed her already.");
 ChEye(21,0);
 ChMouth(21,4);
@@ -84,7 +84,7 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("A020D00000_22_050");
-MsgDisp("Hikaru","You just haven't bloomed yet. But your
+MsgDisp("Hikaru","You just haven't awakened yet. But your
 bud's already starting to show color.
 Right, sis?");
 ChEye(21,4);

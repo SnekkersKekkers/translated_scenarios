@@ -118,8 +118,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("A020100000_01_070");
-MsgDisp("Kazama","Yeah. ...We should get going. This
-reunion's dragging out.");
+MsgDisp("Kazama","Yeah.
+...We should get going.
+This reunion's dragging out.");
 MsgDisp("主人公","Oh, true!
 Let's go!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");

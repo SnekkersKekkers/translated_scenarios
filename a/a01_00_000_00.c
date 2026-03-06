@@ -96,7 +96,7 @@ ScrFadeOut(0,1);
 BGOpen("pr007",0);
 EnvPlay("SE_ENV_BG_PR007_CO0",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Woah...! \nA big bell! \nIs this the one we always hear ringing?");
+MsgDisp("主人公","Woah...! \nA big bell! \nIs that the bell we heard ringing earlier?");
 VoicePlay("A010000000_01_090");
 MsgDisp("Ryota","It has to be!
 When it rings again, let's come take a
@@ -183,7 +183,8 @@ ScrFadeOut(0,1);
 BGOpen("pr010",0);
 ScrFadeIn(0);
 VoicePlay("A010000000_01_190");
-MsgDisp("Ryota","Eh!? Well, maybe, I guess that's true...?
+MsgDisp("Ryota","Eh!?
+Well, maybe, I guess that's true...?
 ...So, what did you wish for?");
 MsgDisp("主人公","My wish?...It's a secret.
 It's embarrassing.");

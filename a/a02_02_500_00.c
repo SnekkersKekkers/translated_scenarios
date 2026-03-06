@@ -149,8 +149,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("A020250000_02_130");
-MsgDisp("Sassa","Ah, it's bad!
-I gotta change class!
+MsgDisp("Sassa","Ah, crap!
+I have class in another room!
 See you later, childhood buddies!");
 MsgDisp("主人公","Hehe. See you later, ｛Sassa＊＊｝!");
 ChEye(1,4);

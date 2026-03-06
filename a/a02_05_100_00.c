@@ -45,8 +45,8 @@ ahead.");
 StlEye(5,0);
 StlMouth(5,0);
 VoicePlay("A020510000_05_020");
-MsgDisp("Hiiragi?","Actually, it's my fault for standing there
-with such a big cargo.");
+MsgDisp("Hiiragi?","Actually, it's my fault for standing
+around with such a big armful.");
 MsgDisp("主人公","No no, it's me wh——");
 StlEye(5,1);
 StlMouth(5,1);

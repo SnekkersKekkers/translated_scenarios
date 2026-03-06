@@ -53,9 +53,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("A020330100_03_050");
-MsgDisp("Honda","You were probably thinking we've met
-before. That's because you're going to
-Haba High too, right? Me too.");
+MsgDisp("Honda","I'm pretty sure we've met before.
+You go to Haba High too, right?
+Me too.");
 MsgDisp("主人公","Yeah, exactly!");
 ChEye(3,0);
 ChMouth(3,3);
@@ -80,9 +80,8 @@ Here, you come with me too.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(｛Honda＊＊｝...He's talking about
-complicated things...We'll probably
-get to see each other at work and in
-school too!)");
+MsgDisp("主人公","(｛Honda＊＊｝...He says some complicated
+things, but...I'm looking forward to
+seeing him at work and school!)");
 MsgClose();
 ScrFadeOut(0);

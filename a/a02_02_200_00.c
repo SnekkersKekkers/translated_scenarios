@@ -140,9 +140,9 @@ ChMouth(2,4);
 ChMotion(2,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("A020220000_02_130");
-MsgDisp("Sassa","I'm a track and field idiot who's aiming
-for a clean sweep. 1st place in every
-category. It surprises people.");
+MsgDisp("Sassa","I'm a track and field idiot aiming for
+1st place in every event.
+Even the others think I'm crazy.");
 ChEye(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,10);

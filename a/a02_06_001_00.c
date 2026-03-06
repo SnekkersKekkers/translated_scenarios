@@ -13,8 +13,8 @@ VoicePlay("A020600100_32_010");
 MsgDisp("VP Himuro","Although let me tell you, you are not
 getting any special treatment.");
 VoicePlay("A020600100_06_010");
-MsgDisp("Himuro?","Of course, I understand.
-I didn't expect you to.");
+MsgDisp("Himuro?","Of course.
+I'm not expecting any.");
 VoicePlay("A020600100_32_020");
 MsgDisp("VP Himuro","Hmm...I like this mindset. Looking
 forward to it.");
