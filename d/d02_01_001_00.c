@@ -121,8 +121,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100100_01_080");
-MsgDisp("Kazama","It's fine. Grandpa was happy to do so and
-wanted me to thank you. So, thank you.");
+MsgDisp("Kazama","It's fine. \nGrandpa enjoyed it and wanted me to thank\nyou. So, thank you.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
