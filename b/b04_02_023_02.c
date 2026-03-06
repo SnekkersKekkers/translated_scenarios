@@ -80,7 +80,7 @@ That's why I was acting kind of weird.");
         ChMouth(2,4);
         ChMotion(2,1);
         VoicePlay("B040202302_02_080");
-        MsgDisp("Sassa","I won't let your words become fairytale.
+        MsgDisp("Sassa","I won't let your words become a fairytale.
 That's a promise.");
         MsgDisp("主人公","Good.");
         ChEye(2,0);

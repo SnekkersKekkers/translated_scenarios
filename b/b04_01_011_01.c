@@ -32,7 +32,7 @@ frantic, busy everyday lives?");
     VoicePlay("B040101101_01_020");
     MsgDisp("Kazama","That's because of the speed of the
 elevator. Have you tried pinching your
-nose and pulling your ears?");
+nose and popping your ears?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

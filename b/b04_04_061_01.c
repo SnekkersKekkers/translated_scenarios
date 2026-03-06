@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040406101_04_010");
-    MsgDisp("Nanatsumori","You really are thoughtful/ But, I'm all
+    MsgDisp("Nanatsumori","You really are thoughtful. But, I'm all
 prepared, so it's fine.
 Thank you.");
     MsgDispSksp(1,7);

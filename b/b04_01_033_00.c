@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChEye(1,4);
 VoicePlay("B040103300_01_000");
 MsgDisp("Kazama","Apparently they don't have bones...
-That's how they can be so buoyant.");
+That's how they can be so squishy.");
 MsgSel("It's full of collagen!","Maybe it's easy to eat▼","There's a fish with a funny face!");
 switch (MsgSelRsltGet()){
     case 0:

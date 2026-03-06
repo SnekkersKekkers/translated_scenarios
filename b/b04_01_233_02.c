@@ -46,7 +46,7 @@ when you jump off.");
         ChMouth(1,0);
         ChMotion(1,0);
         VoicePlay("B040123302_01_040");
-        MsgDisp("Kazama","Well, it's fine. But keep it in mimd. I
+        MsgDisp("Kazama","Well, it's fine. But keep it in mind. I
 hate seeing you so frightened, and going
 through danger.");
         MsgDisp("主人公","Yeah, thank you, ｛Kazama＊＊｝.");

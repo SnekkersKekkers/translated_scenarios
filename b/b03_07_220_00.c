@@ -18,7 +18,7 @@ ChMotion(7,3);
 VoicePlay("B030722000_07_010");
 MsgDisp("Mikage","But I'll still hear out your requests.
 Raise your hand for where you want to go.");
-MsgSel("Raise your hand for Habataki Tower","Raise your hand for the exhibition area");
+MsgSel("Raise your hand for the castle tower","Raise your hand for the exhibition area");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(7,0);

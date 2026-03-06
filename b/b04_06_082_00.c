@@ -6,7 +6,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608200_06_000");
 MsgDisp("Himuro","The sunlight feels nice...");
-MsgSel("Yeah, I'm getting sleepy...","It really feels  like spring...","Shall we bask in the sun?");
+MsgSel("Yeah, I'm getting sleepy...","It really feels like spring...","Shall we bask in the sun?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

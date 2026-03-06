@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040603201_06_000");
 MsgDisp("Himuro","It feels just like a date spot.
 I feel uneasy.");
-MsgSel("I wonder if wer're out of place?","Shall we hold hands? It might help you calm down?","Why...?");
+MsgSel("I wonder if we're out of place?","Shall we hold hands? It might help you calm down?","Why...?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

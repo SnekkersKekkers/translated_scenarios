@@ -53,7 +53,7 @@ you?");
         ChMotion(4,2,1);
         VoicePlay("B040408102_04_030");
         MsgDisp("Nanatsumori","Ahー, definitely...
-There's probably a lof of drunkards
+There's probably a lot of drunkards
 there...");
         MsgDateResultDisp();
         break ;

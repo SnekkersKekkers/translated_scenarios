@@ -7,7 +7,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040121200_01_000");
-MsgDisp("Kazama","Wow, they've come ut with quite a few
+MsgDisp("Kazama","Wow, they've come out with quite a few
 original goods.");
 MsgSel("They have animal cookies!","Cute▼ They even have panda slippers","They have leopard print leggings!");
 switch (MsgSelRsltGet()){

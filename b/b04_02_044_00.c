@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040204400_02_000");
-    MsgDisp("Sassa","Yeah the music hit me right in gut.
+    MsgDisp("Sassa","Yeah the music hit me right in the gut.
 Live music really is awesome!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

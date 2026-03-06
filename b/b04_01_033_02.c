@@ -81,7 +81,7 @@ all.");
         ChMotion(1,0);
         ChCheek(1,5);
         VoicePlay("B040103302_01_060");
-        MsgDisp("Kazama","See, now I'm hungry too.");
+        MsgDisp("Kazama","See, I feel the same way.");
         SEPlay("EV_SE_GAYA_017",0.01,0.5);
         SEWait();
         ChEye(1,0);

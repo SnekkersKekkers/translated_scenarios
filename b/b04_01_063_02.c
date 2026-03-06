@@ -39,7 +39,7 @@ footprints.");
         ChEye(1,0);
         ChMouth(1,1);
         VoicePlay("B040106302_01_030");
-        MsgDisp("Kazama","Look, once something has made it's impact,
+        MsgDisp("Kazama","Look, once something has made its impact,
 it doesn't just disappear. Even if it's
 invisible. So you can just redo it over
 the old copy.");

@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123200_01_000");
-MsgDisp("Kazama","It took it's time to go round, didn't it?");
+MsgDisp("Kazama","It took its time to go round, didn't it?");
 MsgSel("We were able to enjoy some beautiful scenery♪","It felt so nice I fell asleep...","It was high up, cramped, and scary..");
 switch (MsgSelRsltGet()){
     case 0:

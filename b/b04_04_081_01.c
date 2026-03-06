@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040408101_04_010");
     MsgDisp("Nanatsumori","Right.
-I'll take a picture for noe.");
+I'll take a picture for now.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

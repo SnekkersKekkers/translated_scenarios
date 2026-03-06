@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040608402_06_000");
 MsgDisp("Himuro","It's peaceful.
 You can really let your guard down.");
-MsgSel("It's an nice Indian Summer.","Autumn sure is nice.","There's not enough excitement though.");
+MsgSel("It's a nice Indian Summer.","Autumn sure is nice.","There's not enough excitement though.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

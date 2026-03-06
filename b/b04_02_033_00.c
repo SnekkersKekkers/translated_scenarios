@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040203300_02_000");
 MsgDisp("Sassa","That's the world's biggest crab.
 It looks kind of like an alien.");
-MsgSel("It's long limbs are scary","I wonder if you can eat it?","Looks straight out of a scifi movie");
+MsgSel("Its long limbs are scary","I wonder if you can eat it?","Looks straight out of a scifi movie");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

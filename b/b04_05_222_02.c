@@ -9,7 +9,7 @@ VoicePlay("B040522202_05_000");
 MsgDisp("Hiiragi","Haa...
 It feels as if I'm being crushed by the
 weight of history.");
-MsgSel("Isn'yt it the pressure to study?","They're like test questions huh...","It makes you want an easier to understand explanation huh?");
+MsgSel("Isn't it the pressure to study?","They're like test questions huh...","It makes you want an easier to understand explanation huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
