@@ -11,8 +11,7 @@ ChMotion(5,4);
 VoicePlay("P850500000_05_010");
 MsgDisp("Hiiragi","I was delighted to see so many students
 enjoying themselves.");
-MsgDisp("主人公","Yeah.
-We managed to help out in some way, didn't we?");
+MsgDisp("主人公","Yeah.\nWe managed to help out in some way, \ndidn't we?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("P850500000_05_020");
