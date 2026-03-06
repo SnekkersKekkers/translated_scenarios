@@ -225,8 +225,7 @@ Then, I'll keep it a secret, okay?");
 ChEye(4,2);
 ChMouth(4,0);
 VoicePlay("A020430000_04_190");
-MsgDisp("Nanatsumori","Rather than a secret, I'd like you to
-forget about today.");
+MsgDisp("Nanatsumori","Rather than keep a secret, I'd prefer if\nyou could just forget about today.");
 MsgDisp("主人公","That's impossible!
 I can't forget...");
 ChEye(4,4);
