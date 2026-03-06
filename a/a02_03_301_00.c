@@ -30,7 +30,7 @@ ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("A020330100_03_020");
-MsgDisp("Honda?","Today is our busiest day of the month. We \nget a lot of new books today. So it feels \nlike you were called in on purpose!");
+MsgDisp("Honda?","You see, today is the biggest day of the\nmonth. We bring in a lot of magazines and\nbooks today. That's why it's like this!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3);
@@ -61,7 +61,10 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("A020330100_03_060");
-MsgDisp("Honda","Yeah, but isn't it rare to meet someone \nfrom school at your job instead of at \nschool? I got a bit excited!");
+MsgDisp("Honda","Yep. But don't you think meeting someone
+from school at your job first and not at
+school is a rare thing? I got a little
+excited!");
 MsgDisp("主人公","A rare thing?");
 ChEye(3,3);
 ChMouth(3,2);
@@ -77,6 +80,9 @@ Here, you come with me too.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(｛Honda＊＊｝ talks about complicated \nthings...We'll probably be seeing each\nother at school and at work too!)");
+MsgDisp("主人公","(｛Honda＊＊｝...He's talking about
+complicated things...We'll probably
+get to see each other at work and in
+school too!)");
 MsgClose();
 ScrFadeOut(0);
