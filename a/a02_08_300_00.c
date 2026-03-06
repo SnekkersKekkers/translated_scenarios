@@ -42,10 +42,7 @@ Uhm...");
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_020");
-MsgDisp("Shirahane","You're the highschool girl what started
-part time today, right? I'm Shirahane
-Daichi. I'm a Hanegasaki Blue Necktie,
-myself.");
+MsgDisp("Shirahane","You're the highschool girl that started\npart time today, right? I'm Shirahane\nDaichi. I'm a Hanegasaki Blue Necktie.");
 ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","I'm ｛主人公姓名｝. Blue...So that
 means, the same grade as me, doesn't it!
