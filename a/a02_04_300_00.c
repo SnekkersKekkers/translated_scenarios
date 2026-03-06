@@ -138,8 +138,7 @@ Wait(70,0);
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,1);
 Wait(60,0);
 VoicePlay("A020430000_04_090");
-MsgDisp("Nanatsumori?","Sorry!! I think I forgot something! Do you
-mind if I——");
+MsgDisp("Nanatsumori?","Sorry!! \nI think I forgot something! \nDo you mind if I——");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
 ChNanaType(0);
