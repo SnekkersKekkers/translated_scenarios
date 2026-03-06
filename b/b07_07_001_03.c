@@ -57,7 +57,7 @@ VoicePlay("B070700001_07_230");
 MsgDisp("Mikage","Everyone is doing their own things, but to
 me, that attitude makes them cute, cool
 and pretty.");
-MsgDisp("主人公","I'm supper happy but...
+MsgDisp("主人公","I'm super happy but...
 I'm not like that at a——");
 ChEye(7,0);
 ChMouth(7,0);

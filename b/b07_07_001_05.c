@@ -21,7 +21,7 @@ ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("B070700001_07_360");
-MsgDisp("Mikage","Also, your presence makes adds something
+MsgDisp("Mikage","Also, your presence adds something
 to their character.");
 MsgDisp("主人公","Adds something to their character?");
 ChEye(7,0);

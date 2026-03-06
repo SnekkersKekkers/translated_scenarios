@@ -20,7 +20,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_310");
-MsgDisp("Shirahane","I moved here in high school. and I was
+MsgDisp("Shirahane","I moved here in high school. And I was
 surprised by something.");
 ChMouth(8,0);
 VoicePlay("B070800000_08_320");

@@ -20,8 +20,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_030");
 MsgDisp("Mikage","But, you know, he's the kind of serious
-kid I like. He told me he can't stand t
-hat part of himself.");
+kid I like. He told me he can't stand that
+part of himself.");
 MsgDisp("主人公","So that's how it is.");
 ChEye(7,4);
 ChMouth(7,3);

@@ -46,7 +46,7 @@ ChEyeOpenLevel(8,0);
 VoicePlay("B070801000_08_060");
 MsgDisp("Shirahane","Hehe, that's good.
 I'm relieved.");
-MsgDisp("主人公","relieved?");
+MsgDisp("主人公","Relieved?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);

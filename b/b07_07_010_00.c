@@ -38,7 +38,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070701000_07_040");
-MsgDisp("Mikage","Thanking about things seriously, and
+MsgDisp("Mikage","Thinking about things seriously, and
 coming up with an answer isn't the only
 solution.——");
 ChEye(7,0);
