@@ -77,7 +77,7 @@ StlEye(3,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300300_03_090");
-MsgDisp("Honda","I guess it something similar to that～");
+MsgDisp("Honda","I guess it's something similar to that～");
 MsgDisp("主人公","(｛Honda＊＊｝'s explanation is easy to
 understand but to use his dad's shirt in
 the analogy is kind of...)");

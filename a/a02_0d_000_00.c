@@ -38,8 +38,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("A020D00000_22_020");
-MsgDisp("Hikaru?","Hehehe! We're the \"Hanatsubaki Twins\"!
-Mari▼");
+MsgDisp("Hikaru?","Hehehe! \nWe're the \"Hanatsubaki Twins\"!\nMari▼");
 MsgDisp("主人公","Mari?");
 ChEye(21,1);
 ChMouth(21,4);
@@ -72,7 +71,7 @@ ChMotion(21,4);
 VoicePlay("A020D00000_21_050");
 MsgDisp("Michiru","Yes. A girl full of grace, overflowing
 with charm...Like a delicate flower in
-bloom..");
+bloom...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

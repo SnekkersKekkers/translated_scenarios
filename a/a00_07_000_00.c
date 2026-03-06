@@ -10,8 +10,7 @@ VoicePlay("A000700000_07_020");
 MsgDisp("Mikage","Next...Your bedroom?
 Well then, tell me about your room.");
 VoicePlay("A000700000_07_030");
-MsgDisp("Mikage","Just in case,
-How do you pronounce your last name?");
+MsgDisp("Mikage","Just in case...\nHow do you pronounce your last name?");
 VoicePlay("A000700000_07_040");
 MsgDisp("Mikage","The first name too.
 How do you pronounce it?");
@@ -22,4 +21,4 @@ VoicePlay("A000700000_07_060");
 MsgDisp("Mikage","Okay, you can go then.
 Phew...How many more?");
 VoicePlay("A000700000_07_070");
-MsgDisp("Mikage","Whoops, where did I go wrong?");
+MsgDisp("Mikage","Whoops, did you make a mistake?");
