@@ -30,7 +30,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("A020700000_07_010");
-MsgDisp("Mikage?","Hehehehe.");
+MsgDisp("Mikage?","Heh.");
 VoicePlay("A020700000_41_020");
 MsgDisp("Male Student B","He's laughing?");
 VoicePlay("A020700000_45_000");

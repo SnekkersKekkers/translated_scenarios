@@ -74,9 +74,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("A020210000_02_090");
-MsgDisp("Sassa","That's good.
-Your posture is nice.
-Now, keep your gaze a bit further away.");
+MsgDisp("Sassa","That's good.\nNow, keep your gaze a bit further away.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);
