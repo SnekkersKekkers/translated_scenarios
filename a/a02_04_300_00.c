@@ -174,8 +174,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_130");
-MsgDisp("Nanatsumori","...Hey, you.
-What you saw here today, forget about it?");
+MsgDisp("Nanatsumori","...Hey, you.\nWhat you saw here today, could you\nmaybe forget about it?");
 MsgDisp("主人公","You mean,
 that you ate a lot of sweets?");
 ChEye(4,1);
