@@ -83,9 +83,6 @@ Here, you come with me too.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(｛Honda＊＊｝...He's talking about
-complicated things...We'll probably
-get to see each other at work and in
-school too!)");
+MsgDisp("主人公","(｛Honda＊＊｝ talks about complicated \nthings...We'll probably be seeing each\nother at school and at work too!)");
 MsgClose();
 ScrFadeOut(0);
