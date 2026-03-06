@@ -27,7 +27,7 @@ MsgDisp("主人公","...｛Nanatsumori＊｝?");
 MsgDisp("主人公","(Huh?
 I guess he isn't here...)");
 VoicePlay("D010400200_04_000");
-MsgDisp("Nanatsumori?","......");
+MsgDisp("Nanatsumori?","Zzz......");
 MsgDisp("主人公","Zzz...");
 MsgClose();
 ScrFadeOut(0);
