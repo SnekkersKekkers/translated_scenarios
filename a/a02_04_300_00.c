@@ -82,9 +82,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("A020430000_04_050");
-MsgDisp("Nanatsumori?","Well, I don't blame you...Don't worry.
-I'm the same person that was seating here
-earlier.");
+MsgDisp("Nanatsumori?","Well, I don't blame you...Don't worry.\nI'm the same person that was sitting here\nearlier.");
 MsgDisp("主人公","A...Alright.");
 ChEye(4,0);
 ChMouth(4,0);
