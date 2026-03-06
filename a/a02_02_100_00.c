@@ -32,14 +32,18 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("A020210000_02_040");
-MsgDisp("Sassa","I see. I run whenever I can, before\npractice and in my free time. So it's \ngreat to meet someone else into sports.");
+MsgDisp("Sassa","I see. I'm pretty much running every
+chance I get, before club activities or
+when I have free time. So I'm always glad
+to meet someone who's into sports too.");
 MsgDisp("主人公","Hehe, I see.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_050");
 MsgDisp("Sassa","Wanna run together?");
-MsgDisp("主人公","Ehh∋\nThere's no way I can keep up with someone\nfrom the track club!");
+MsgDisp("主人公","Ehh∋ I can't rival with someone from
+track!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -70,9 +74,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("A020210000_02_090");
-MsgDisp("Sassa","That's good.
-Your posture is nice.
-Now, keep your gaze a bit further away.");
+MsgDisp("Sassa","That's good.\nNow, keep your gaze a bit further away.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);
