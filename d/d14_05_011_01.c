@@ -16,7 +16,7 @@ We get along well.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("D140501101_05_010");
-    MsgDisp("Hiiragi","Ah, we got te same.
+    MsgDisp("Hiiragi","Ah, we got the same.
 Somehow, I feel as though I have gained
 something.");
     break ;

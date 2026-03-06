@@ -3,7 +3,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140601057_06_000");
 MsgDisp("Himuro","If you're going to take on the challenge,
-then I will too. after all, isn't this the
+then I will too. After all, isn't this the
 item Hazuki Kei used to overcome his
 weakness?");
 ChEye(6,0);

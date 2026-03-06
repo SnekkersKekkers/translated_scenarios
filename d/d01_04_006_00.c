@@ -22,7 +22,7 @@ StlEye(4,1);
 StlMouth(4,1);
 StlEyeOpenLevel(4,5);
 VoicePlay("D010400600_04_010");
-MsgDisp("Nanatsumori","of course.
+MsgDisp("Nanatsumori","Of course.
 Geez...
 What are you worried about?");
 MsgDisp("主人公","(｛Nanatsumori＊｝!

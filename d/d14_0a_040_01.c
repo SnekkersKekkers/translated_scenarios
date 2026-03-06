@@ -14,7 +14,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140A04001_01_010");
-MsgDisp("Kazama","Come ton think of it, I heard Sassa's
+MsgDisp("Kazama","Come to think of it, I heard Sassa's
 laughter coming all the way from the
 schoolyard?");
 MsgDisp("主人公","Eh, is that right?");

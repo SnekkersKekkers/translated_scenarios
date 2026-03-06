@@ -20,7 +20,7 @@ ChMouth ( 5,3 ) ;
 ChMotion ( 5,0 ) ;
 VoicePlay ( "D150001500_05_010" ) ;
 MsgDisp ( "Hiiragi","Such color, shine and fragrance.
-It feels me with happiness even before I
+It fills me with happiness even before I
 eat it." ) ;
 ChEye ( 1,0 ) ;
 ChMouth ( 1,0 ) ;
