@@ -173,8 +173,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(｛Kazama＊＊｝, did something happen between
-you and your dad...?)");
+MsgDisp("主人公","(｛Kazama＊＊｝, did something happen \nbetween you and your dad...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);
