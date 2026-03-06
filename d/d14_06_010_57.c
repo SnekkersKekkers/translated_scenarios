@@ -2,10 +2,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140601057_06_000");
-MsgDisp("Himuro","If you're going to take on the challenge,
-then I will too. After all, isn't this the
-item Hazuki Kei used to overcome his
-weakness?");
+MsgDisp("Himuro","If you're taking on the challenge, then
+so will I. After all, this is Hazuki Kei's
+weakness-conquering menu item, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

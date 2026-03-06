@@ -4,10 +4,9 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message from ｛Himuro＊＊｝...)");
-MsgDisp("主人公","(It says...\"Right now there's a surfing
-lesson being held at the beach.
-Ryota-senpai and Nozomu-senpai are
-students if you'd like to come watch.\")");
+MsgDisp("主人公","(It says..."There's a surfing lesson at
+the beach right now. Ryota-senpai and
+Nozomu-senpai are students. Come watch.")");
 MsgDisp("主人公","(That sounds kind of interesting?
 Alright, let's go!)");
 MsgClose();

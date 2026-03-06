@@ -9,7 +9,6 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D140101058_01_010");
-MsgDisp("Kazama","Apparently the owner is very enthusiastic,
-and has come to the school cafeteria to
-give cooking guidance. I'm sure it'll
-taste good.");
+MsgDisp("Kazama","Apparently the owner was so into it, he
+came to the cafeteria to coach the cooks.
+The food should be pretty good.");

@@ -2,10 +2,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("D140301057_03_000");
-MsgDisp("Honda","Hey, hey, did you see its menu
-description? Apparently, this was an item
-for Haba High alumnus Hazuki Kei to
-overcome his weakness.");
+MsgDisp("Honda","Hey, did you see the menu description?
+This is a dish Haba High alum Hazuki Kei
+used to overcome his least favorite food.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);

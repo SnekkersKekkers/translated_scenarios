@@ -182,8 +182,9 @@ MsgDisp("Hiiragi","Ah, but the wind is blowing towards the
 school!");
 StlEye(7,1);
 VoicePlay("D120C00000_07_080");
-MsgDisp("Mikage","Huh? That's not good. Let's get all the
-cooked food onto a plate.");
+MsgDisp("Mikage","Huh?
+That's not good. Let's get 
+all the cooked food onto a plate.");
 StlMouth(6,1);
 StlEye(5,1);
 SEStop("EV_SE_807",2);

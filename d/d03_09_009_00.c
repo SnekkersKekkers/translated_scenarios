@@ -188,10 +188,9 @@ this, I just want to say ...Thank you.");
     ChMotion(9,2,1);
     ChEyeOpenLevel(9,0);
     VoicePlay("D030900900_09_210");
-    MsgDisp("Kuya","Haha...I guess the being the \"Jack of All
-Trades\" will stop for a while. Maybe we'll
-become the \"Jack of Studying\" together
-instead?");
+    MsgDisp("Kuya","Haha... The \"Jack of All Trades\" will
+be on hiatus for a while. Let's both
+do our best at studying, yeah?");
     MsgDisp("主人公","(This is a surprise but...I want to
 support Kuya-san in his goals! I need to
 prioritize my \"studies\" over interviews.)");
