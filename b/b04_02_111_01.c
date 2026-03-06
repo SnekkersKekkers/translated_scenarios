@@ -6,7 +6,7 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040211101_02_000");
-MsgDisp("Sassa","Figure skaters sense of balance is
+MsgDisp("Sassa","A figure skater's sense of balance is
 amazing, huh?
 I wonder how they train");
 MsgSel("They revolve like a spinning top, huh?","Isn't it natural born talent?","Amusement park coffee cups?");

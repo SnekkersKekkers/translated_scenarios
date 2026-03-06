@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040310102_03_000");
 MsgDisp("Honda","Which exhibition did you like best?");
-MsgSel("MAybe the dinosaur fossils","Maybe the seasonal special exhibit","...I don't really know.");
+MsgSel("Maybe the dinosaur fossils","Maybe the seasonal special exhibit","...I don't really know.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

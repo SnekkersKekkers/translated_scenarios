@@ -105,7 +105,7 @@ About being called a couple...");
         VoicePlay("B040212101_02_100");
         MsgDisp("Sassa","That's why, let's walk around once more.
 THis time we'll be more convincing.");
-        MsgDisp("主人公","(We look like a lovers to the people
+        MsgDisp("主人公","(We look like lovers to the people
 around us...
 That's somewhat embarrassing.)");
         break ;

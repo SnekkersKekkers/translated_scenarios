@@ -9,7 +9,7 @@ VoicePlay("B040221102_02_000");
 MsgDisp("Sassa","Ehhh.
 The baby tiger just born last month is now
 available to see.");
-MsgSel("It's like am kitten huh?","Apparently there's also a photo session","After this, I might buy some goods to take home.");
+MsgSel("It's like a kitten huh?","Apparently there's also a photo session","After this, I might buy some goods to take home.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

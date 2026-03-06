@@ -74,7 +74,7 @@ market in any season?");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040312102_03_070");
-        MsgDisp("Honda","I cam aim for sales, since I have lots of
+        MsgDisp("Honda","I can aim for sales, since I have lots of
 them at home.");
         MsgDisp("主人公","Lots of them at home...");
         ChEye(3,3);

@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223202_02_010");
-    MsgDisp("Sassa","It's fine, but It's fine, but what kind of
+    MsgDisp("Sassa","It's fine, but what kind of
 expression should I make when I'm kneeling
 and still?");
     MsgDispSksp(1,0);

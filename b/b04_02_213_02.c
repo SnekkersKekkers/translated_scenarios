@@ -96,7 +96,7 @@ could be world champion.");
         MsgDisp("Sassa","Oh, definitely.
 Maybe I should get a dog as a training
 partner then.");
-        MsgDisp("主人公","Hehe, might be good/ Then you could
+        MsgDisp("主人公","Hehe, might be good. Then you could
 compete against the dog everyday.");
         ChEye(2,0);
         ChMouth(2,4);
