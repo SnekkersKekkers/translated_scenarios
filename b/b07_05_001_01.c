@@ -13,7 +13,7 @@ MsgDisp("主人公","｛Himuro＊＊｝ is an adult?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_030");
-MsgDisp("Hiiragi","Yes. for some reason when Inori-kun is
+MsgDisp("Hiiragi","Yes. For some reason when Inori-kun is
 around, the conversation becomes more
 lively.");
 VoicePlay("B070500001_05_040");

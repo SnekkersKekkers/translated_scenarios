@@ -1,4 +1,4 @@
-MsgDisp("主人公","Is there any sports you do?");
+MsgDisp("主人公","Are there any sports you do?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

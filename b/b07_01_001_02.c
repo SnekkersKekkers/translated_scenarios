@@ -48,7 +48,7 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("B070100001_01_130");
 MsgDisp("Kazama","Then, what about you?");
-MsgDisp("主人公","(I wonder if I'm also draw in by
+MsgDisp("主人公","(I wonder if I'm also drawn in by
 ｛Kazama＊＊｝?)");
 BGMStop();
 MsgClose();

@@ -11,7 +11,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_360");
 MsgDisp("Himuro","I wouldn't say I don't have one...just
-that I don't now what it is yet.");
+that I don't know what it is yet.");
 MsgDisp("主人公","Do you want to be a pro surfer?");
 ChEye(6,0);
 ChMouth(6,0);

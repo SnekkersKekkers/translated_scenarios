@@ -11,7 +11,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_080");
-MsgDisp("Kazama","Despite hoe he looks, he's got a sweet
+MsgDisp("Kazama","Despite how he looks, he's got a sweet
 tooth.
 Not that I dislike it either.");
 MsgDisp("主人公","｛Kazama＊＊｝ and ｛Nanatsumori＊｝ talks
@@ -67,7 +67,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_140");
 MsgDisp("Kazama","He was eating a limited edition sweet that
 time too...");
-MsgDisp("主人公","(These two relly are sweets guys.)");
+MsgDisp("主人公","(These two really are sweets guys.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

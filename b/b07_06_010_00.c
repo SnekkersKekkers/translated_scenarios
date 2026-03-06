@@ -97,7 +97,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070601000_06_110");
 MsgDisp("Himuro","It's fine.
-I'm alright/ I just need to cool my head
+I'm alright. I just need to cool my head
 for a bit.");
 ChEye(6,0);
 ChMouth(6,0);

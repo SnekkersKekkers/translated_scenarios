@@ -7,7 +7,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_360");
 MsgDisp("Himuro","Really.
-What a strage combination.");
+What a strange combination.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -19,8 +19,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B070600002_06_380");
-MsgDisp("Himuro","Yeah. Age and gender have no baring when
-it comes to who you hang out with. I think
+MsgDisp("Himuro","Yeah. Age and gender have no bearing when it comes to who you hang out with. I think
 this is a good example of that.");
 ChEye(6,0);
 ChMouth(6,0);

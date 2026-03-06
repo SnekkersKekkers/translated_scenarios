@@ -38,7 +38,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_190");
 MsgDisp("Kazama","Don't \"Huh?\" me.
-Come on, what's yoru question.");
+Come on, what's your question.");
 MsgDisp("主人公","That...
 What's the most important thing to you,
 ｛Kazama＊＊｝?");

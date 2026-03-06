@@ -38,7 +38,7 @@ MsgDisp("Mikage","If I listen to it in the morning, I get
 ready faster.");
 MsgDisp("主人公","(Hehe.
 Seems like ｛Mikage＊＊｝ likes songs
-witha nice tempo.)");
+with a nice tempo.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

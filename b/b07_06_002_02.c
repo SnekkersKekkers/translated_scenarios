@@ -45,7 +45,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B070600002_06_140");
-MsgDisp("Himuro","But I wish ehe would show more of his
+MsgDisp("Himuro","But I wish he would show more of his
 teacher side though.");
 ChEye(6,2);
 ChMouth(6,0);

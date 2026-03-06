@@ -32,7 +32,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600002_06_270");
-MsgDisp("Himuro","It's no laughing atter.");
+MsgDisp("Himuro","It's no laughing matter.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

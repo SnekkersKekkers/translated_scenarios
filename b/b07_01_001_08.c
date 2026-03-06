@@ -68,7 +68,7 @@ ChCheek(1,7);
 VoicePlay("B070100001_01_490");
 MsgDisp("Kazama","Sorry.
 This ends with your win.
-I'm at an disadvantage...");
+I'm at a disadvantage...");
 MsgDisp("主人公","(Yay!
 But, my heart is racing so fast...)");
 BGMStop();

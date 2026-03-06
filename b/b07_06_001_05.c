@@ -16,7 +16,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_340");
-MsgDisp("Himuro","Of course. there are things you can only
+MsgDisp("Himuro","Of course. There are things you can only
 talk about among guys.");
 ChEye(6,0);
 ChMouth(6,0);
