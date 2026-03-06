@@ -94,9 +94,7 @@ ChMotion(4,2,1);
 VoicePlay("A020410000_04_090");
 MsgDisp("Nanatsumori?","Ah...
 Yeah yeah, I'm a fan.");
-MsgDisp("主人公","I see!
-NANA-kun is so cool and handsome, how
-could you not be!");
+MsgDisp("主人公","I see!\nNANA-kun is so cool and handsome, isn't he?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
