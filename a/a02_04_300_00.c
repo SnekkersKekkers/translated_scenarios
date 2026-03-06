@@ -170,7 +170,7 @@ guess?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_120");
-MsgDisp("Nanatsumori","Really∋");
+MsgDisp("Nanatsumori","Seriously∋");
 MsgDisp("主人公","Yeah.");
 ChEye(4,2);
 ChMouth(4,0);
