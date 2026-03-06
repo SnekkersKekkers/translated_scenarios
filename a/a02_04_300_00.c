@@ -72,8 +72,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Eh...? Excuse me, the customer who was
-seated here——");
+MsgDisp("主人公","Eh...? \nExcuse me, the customer who was\nseated here——");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_040");
