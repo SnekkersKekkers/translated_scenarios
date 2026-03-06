@@ -91,9 +91,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_060");
-MsgDisp("Nanatsumori?","Here, seems heavy.
-Put the tray down.
-I'll get it myself.");
+MsgDisp("Nanatsumori?","Hey, isn't that heavy?\nYou can put the tray down.\nI'll serve myself.");
 MsgDisp("主人公","Ah...Sorry.
 Thank you very much.");
 ChEye(4,0);
