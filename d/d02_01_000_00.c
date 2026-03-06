@@ -86,8 +86,7 @@ I remember it clearly.");
 NSSEye(1,0);
 NSSMouth(1,0);
 VoicePlay("D020100000_01_070");
-MsgDisp("Kazama","Isn't the fact that we both have the same
-memory is proof enough?");
+MsgDisp("Kazama","Isn't the fact that we both have the same\nmemory proof enough?");
 MsgDisp("主人公","That's true.
 The two of us wouldn't have the same
 dream, I guess?");
