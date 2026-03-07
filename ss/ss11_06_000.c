@@ -4,5 +4,5 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("SS1106000_06_000");
-MsgDisp("Himuro","I'm taking it in now.");
+MsgDisp("Himuro","I'm busy right now.");
 MsgClose();

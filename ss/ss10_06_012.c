@@ -4,5 +4,5 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("SS1006012_06_000");
-MsgDisp("Himuro","He said later.");
+MsgDisp("Himuro","Save it for later.");
 MsgClose();
