@@ -29,8 +29,8 @@ Goodbye.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Hehe, look like this year will be another
-good year!)");
+    MsgDisp("主人公","(Hehe, looks like this year will be 
+another good year!)");
     break ;
     case 4:
     case 5:
@@ -64,8 +64,8 @@ New Years.");
 But——");
     ChMotion(5,0);
     VoicePlay("S120500001_05_150");
-    MsgDisp("Hiiragi","Even if you can't, I think I would want
-you to.");
+    MsgDisp("Hiiragi","I think I'd like to see an unreasonable
+side of you, too.");
     MsgDisp("主人公","Uhm...");
     ChEye(5,0);
     ChMotion(5,4);

@@ -73,7 +73,7 @@ Like you're running.");
     ChMotion(2,0);
     VoicePlay("S120200002_02_070");
     MsgDisp("Sassa","I know.
-Even though I feel like it");
+Even though I feel like it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     break ;
     case 4:

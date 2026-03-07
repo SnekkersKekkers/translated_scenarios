@@ -84,7 +84,7 @@ Thank you.");
     ChMotion(3,1,1);
     VoicePlay("S120300003_03_070");
     MsgDisp("Honda","It's nothing.
-I'd say there about 50 on the list.");
+I'd say there are about 50 on the list.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,2,1);

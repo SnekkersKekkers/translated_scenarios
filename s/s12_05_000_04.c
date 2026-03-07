@@ -29,12 +29,12 @@ schooler?");
     ChMotion(5,2);
     VoicePlay("S120500002_05_020");
     MsgDisp("Hiiragi","No, it's just that, for me, graduating
-isn't such a nice thing.");
+isn't such a simple thing.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("S120500002_05_030");
-    MsgDisp("Hiiragi","My New Years mood is ruined because of
-you.
+    MsgDisp("Hiiragi","Thanks to you, I've snapped out of my New
+Year's daze.
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -90,7 +90,7 @@ I prayed to graduate properly with you.");
     ChEye(5,4);
     VoicePlay("S120500002_05_120");
     MsgDisp("Hiiragi","The shrine was really crowded this year.
-Its sad to think that this is the last
+It's sad to think that this is the last
 year.");
     MsgDisp("主人公","Eh?");
     ChEye(5,2);

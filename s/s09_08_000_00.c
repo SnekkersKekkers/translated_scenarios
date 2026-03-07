@@ -19,7 +19,8 @@ There are so many people in line...");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("S090800000_08_010");
-        MsgDisp("Shirahane","Yeah, that's the standard.");
+        MsgDisp("Shirahane","Yeah, gotta do the standard stuff.
+Let's get in line.");
         MsgDisp("主人公","Yep.");
         break ;
         case 1:

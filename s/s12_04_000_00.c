@@ -25,7 +25,7 @@ At school.");
     ChClose(4,0,30);
     Wait(30);
     VoicePlay("S120400000_04_020");
-    MsgDisp("Nanatsumori","Same!");
+    MsgDisp("Nanatsumori","Cold!");
     MsgDisp("主人公","(A New Year.
 I wonder what kind of year it will be?)");
     BGMStop();

@@ -101,9 +101,9 @@ I'm sorry for saying something weird.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("S120200003_02_090");
-    MsgDisp("Sassa","Don't be. For stubborn guys like me who do
-everything by themselves, I like just
-listening you.");
+    MsgDisp("Sassa","Don't be. A stubborn guy like me who does
+everything by himself can somehow just
+listen to you.");
     MsgDisp("主人公","...Why?");
     ChEye(2,0);
     ChMouth(2,4);

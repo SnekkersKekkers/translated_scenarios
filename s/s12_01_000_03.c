@@ -63,7 +63,7 @@ well this year!)");
     ChMotion(1,0);
     ScrFadeIn(0);
     MsgDisp("主人公","Thanks for taking me.
-If you're ready, you can leave now?");
+Would you like to come inside?");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,1);

@@ -28,9 +28,9 @@ Sorry I can't help.");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("S120700001_07_010");
-    MsgDisp("Mikage","What are you saying?
-It wouldn't be a good New Years without
-saying hello to the flowers and plants.");
+    MsgDisp("Mikage","What are you saying? No matter 
+how pretty you are, you can't do a shrine 
+visit with vegetables and flowers, right?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

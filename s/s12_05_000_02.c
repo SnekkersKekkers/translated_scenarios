@@ -16,8 +16,8 @@ switch (ChPrmGet(5,6)){
     VoicePlay("S120500001_05_000");
     MsgDisp("Hiiragi","All of our enthusiasm blew away the cold.");
     MsgDisp("主人公","Yep.
-You were really fun today, thanks for
-bringing me.");
+There were so many people today.
+Good job out there.");
     VoicePlay("S120500001_05_010");
     MsgDisp("Hiiragi","Yeah.
 Bye then.");

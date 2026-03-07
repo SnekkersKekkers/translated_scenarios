@@ -90,13 +90,14 @@ spend the rest of it without any regrets!)");
     ChMotion(7,2);
     VoicePlay("S120700005_07_080");
     MsgDisp("Mikage","I can't go on any further.");
-    MsgDisp("主人公","Ah...further?");
+    MsgDisp("主人公","Ah...would you like to come inside?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S120700005_07_090");
-    MsgDisp("Mikage","I'm not graduating, I have to stay at
-school.");
+    MsgDisp("Mikage","I won't come in.
+Well, I have to show my face at school
+too.");
     MsgDisp("主人公","Oh, I see...");
     ChEye(7,0);
     ChMouth(7,0);
