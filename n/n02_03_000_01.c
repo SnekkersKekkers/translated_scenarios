@@ -37,8 +37,8 @@ I have to do my best too!)");
     MsgDisp("Honda","It's truly amazing to put in the effort
 and see those results pay off.
 Nice work!");
-    MsgDisp("主人公","(｛Honda＊＊｝ you made it sound even more
-impressive but...yeah, I did my best!)");
+    MsgDisp("主人公","(｛Honda＊＊｝ is even more impressive,
+but...yeah, I'll take the compliment!)");
     break ;
     case 4:
     case 5:

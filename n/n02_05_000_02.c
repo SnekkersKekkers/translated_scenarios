@@ -82,7 +82,7 @@ I'll try my best to be more interested.");
     VoicePlay("N020500002_05_100");
     MsgDisp("Hiiragi","Yeah, I think your ranking would jump
 right to the first place.
-If that's what you are after.");
+You're someone I believe in, after all.");
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("N020500002_05_110");
@@ -93,7 +93,7 @@ For some reason, that motivated me.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("N020500002_05_120");
-    MsgDisp("Hiiragi","Woah, I wish you good luck then.");
+    MsgDisp("Hiiragi","Yeah, I'll do my best too.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);

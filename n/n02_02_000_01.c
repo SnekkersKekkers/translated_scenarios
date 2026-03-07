@@ -92,7 +92,7 @@ You definitely have a shot.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("N020200001_02_100");
-    MsgDisp("Sassa","I think, am I convincing you in any way?");
+    MsgDisp("Sassa","...Though, am I really one to talk?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);

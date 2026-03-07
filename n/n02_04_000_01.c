@@ -44,15 +44,16 @@ Very cool.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("N020400001_04_050");
-    MsgDisp("Nanatsumori","In this environment, I'm still the modest
-and introverted Nanatsumori, huh...");
+    MsgDisp("Nanatsumori","When it comes to academics, I'm still
+just the plain, quiet Nanatsumori,
+huh...");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("N020400001_04_060");
-    MsgDisp("Nanatsumori","If I don't put in a bit more effort, maybe
-I won't win your heart...
-Whoops, see you.");
+    MsgDisp("Nanatsumori","If I don't put in a bit more effort,
+maybe you'll get fed up with me one
+day... That would be bad.");
     MsgDisp("主人公","(I'll work a little harder too...!
 ｛Nanatsumori＊｝, do your best!)");
     break ;

@@ -74,7 +74,7 @@ Yeah, I did so-so.");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("N020200002_02_070");
-    MsgDisp("Sassa","Something's wrong with your face.");
+    MsgDisp("Sassa","You look kind of down.");
     MsgDisp("主人公","Huh?
 What do you mean...?");
     ChEye(2,0);

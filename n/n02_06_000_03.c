@@ -7,7 +7,7 @@ switch (ChPrmGet(6,6)){
     MsgClose();
     ChOpen(6,254,0,0,0,8,#1,0,0);
     VoicePlay("N020600003_06_000");
-    MsgDisp("Himuro","What's up with this results...");
+    MsgDisp("Himuro","What's up with these results...");
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -63,8 +63,8 @@ That was not a good idea.");
     ChMotion(6,0);
     VoicePlay("N020600003_06_070");
     MsgDisp("Himuro","If you need help, talk to me.
-I think there are some things I can
-understand in your senior exam.");
+I think I can help with some parts, even
+if it's upperclassman material.");
     MsgDisp("主人公","Okay, thank you...");
     ChEye(6,0);
     ChMouth(6,4);

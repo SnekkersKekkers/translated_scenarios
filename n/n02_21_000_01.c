@@ -9,10 +9,9 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("N022100001_21_010");
-MsgDisp("Michiru","You're getting closer, looks like you'll
-reach first place soon. With your
-determination, I have no doubt you can do
-it.");
+MsgDisp("Michiru","You're getting closer to first place.
+With your determination, I have no doubt
+you can do it.");
 MsgDisp("主人公","(Yeah.
 I'll work a little harder.)");
 MsgClose();

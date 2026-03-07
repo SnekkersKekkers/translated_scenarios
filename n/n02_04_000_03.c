@@ -29,8 +29,9 @@ Your name...where is it on the list?");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("N020400003_04_030");
-    MsgDisp("Nanatsumori","Hm? Huh, for real∋ This is not good. Not
-good at all.");
+    MsgDisp("Nanatsumori","Hm?
+Huh, for real∋ This is not good.
+Not good at all.");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,0,1);

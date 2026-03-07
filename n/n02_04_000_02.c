@@ -29,8 +29,8 @@ I thought you'd be higher on the list.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChMotion(4,1,1);
     VoicePlay("N020400002_04_030");
-    MsgDisp("Nanatsumori","Well, if you do well on school exams your
-stomach won't turn.");
+    MsgDisp("Nanatsumori","Well, doing well on school exams won't
+fill your stomach.");
     MsgDisp("主人公","(Oof...
 I've got to study harder.)");
     break ;
@@ -49,7 +49,7 @@ Are you taking this seriously?");
     ChMotion(4,0,1);
     VoicePlay("N020400002_04_060");
     MsgDisp("Nanatsumori","It's okay to not care too much but, this
-is a little suprising.
+is a little surprising.
 I see...");
     MsgDisp("主人公","(Hmm, I've got to study harder.)");
     break ;

@@ -14,7 +14,7 @@ VoicePlay("N022200002_22_010");
 MsgDisp("Hikaru","Don't look at the list, let's talk over
 there▼");
 MsgDisp("主人公","(Hmm...
-I have a study a bit harder...)");
+I have to study a bit harder...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(22);

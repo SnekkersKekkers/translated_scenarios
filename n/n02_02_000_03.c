@@ -51,7 +51,8 @@ Yeah, I guess you're right.");
     ChEyeOpenLevel(2,7);
     VoicePlay("N020200003_02_050");
     MsgDisp("Sassa","Yeah, I'm serious.
-I don't want to worry about you.");
+If even I'm worried about you, that's
+a problem.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);

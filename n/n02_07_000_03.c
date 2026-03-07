@@ -98,7 +98,7 @@ want to do.");
     VoicePlay("N020700003_07_110");
     MsgDisp("Mikage","If you agree, please study harder next
 time.");
-    MsgDisp("主人公","(｛Mikage＊＊｝, is really worried about
+    MsgDisp("主人公","(｛Mikage＊＊｝ is really worried about
 me...
 I have to study harder...)");
     MsgClose();

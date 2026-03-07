@@ -7,14 +7,14 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020100001_01_000");
-    MsgDisp("Kazama","Hmm, I think I ranked quite high.");
+    MsgDisp("Kazama","Not bad, that's a pretty good rank.");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝, how was it?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("N020100001_01_010");
-    MsgDisp("Kazama","Same as usual.
-I'll have you know I was quite motivated.");
+    MsgDisp("Kazama","Same as usual for me.
+But you've given me some good motivation.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -28,13 +28,13 @@ I'll have you know I was quite motivated.");
     ChOpen(1,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020100001_01_030");
-    MsgDisp("Kazama","Did you make it?");
+    MsgDisp("Kazama","You're doing pretty well, aren't you?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("N020100001_01_040");
-    MsgDisp("Kazama","I'm feeling nervous too.");
+    MsgDisp("Kazama","I can't afford to slack off either.");
     MsgDisp("主人公","Haha, there's no way I can compete with
 you, ｛Kazama＊＊｝.");
     ChEye(1,0);
@@ -51,8 +51,8 @@ suddenly jump into first place?");
     ChMotion(1,0);
     VoicePlay("N020100001_01_060");
     MsgDisp("Kazama","I'm just joking.
-That being said, with you at this level,
-beating you is too easy.");
+But it's true that with you at this
+level, it motivates me to compete.");
     MsgDisp("主人公","(That's right...
 I'll really have to do better than this.)");
     break ;
@@ -62,7 +62,7 @@ I'll really have to do better than this.)");
     ChOpen(1,254,1,0,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020100001_01_070");
-    MsgDisp("Kazama","Hmm, this is bad.");
+    MsgDisp("Kazama","Hmm, about what I expected.");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Have you seen the results?");
     ChEye(1,4);
@@ -85,10 +85,9 @@ You're right!");
     ChMotion(1,3);
     VoicePlay("N020100001_01_100");
     MsgDisp("Kazama","That's the spirit!
-The two of us, let's grab the top spot
-from those guys there.");
-    MsgDisp("主人公","(Yes, I'll have to make my way through the
-top!)");
+Let's give those top rankers a run for
+their money, the two of us.");
+    MsgDisp("主人公","(Alright, I've got to work even harder!)");
     break ;
     default :
     DbgAssert(1);

@@ -46,8 +46,8 @@ me.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("N020500003_05_050");
-    MsgDisp("Hiiragi","It's surprising that you be able to get
-into Haba High.
+    MsgDisp("Hiiragi","Getting into Haba High is impressive
+enough on its own.
 It's okay.");
     ChMotion(5,4);
     VoicePlay("N020500003_05_060");

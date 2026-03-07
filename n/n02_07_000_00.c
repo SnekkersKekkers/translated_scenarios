@@ -42,7 +42,7 @@ feel that way.");
     ChMotion(7,1);
     VoicePlay("N020700000_07_040");
     MsgDisp("Mikage","Hey, being too good of a student can have
-it's downsides too.
+its downsides too.
 Don't push yourself too hard.");
     MsgDisp("主人公","(｛Mikage＊＊｝ praised me!
 I'll do my best next time too.)");
@@ -70,10 +70,9 @@ class.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("N020700000_07_070");
-    MsgDisp("Mikage","Hey...I mean, you're smart enough that you
-probably know this, but it's also
-important to enjoy yourself during your
-high school years.");
+    MsgDisp("Mikage","Hey...you're smart, so you probably know
+this, but enjoying yourself during your
+high school years is important too.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

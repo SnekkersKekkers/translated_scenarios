@@ -20,12 +20,12 @@ You got an impressive ranking.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("N020500001_05_020");
-    MsgDisp("Hiiragi","In my point of view...
-Never mind, I can't say that.");
+    MsgDisp("Hiiragi","From where I stand...
+No, I can't even see you from there.");
     ChEye(5,0);
     VoicePlay("N020500001_05_030");
-    MsgDisp("Hiiragi","As long as you can see it yourself, keep
-doing your best.
+    MsgDisp("Hiiragi","I'll work hard enough to at least see
+where you are.
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -58,8 +58,7 @@ energy left in you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(The chairman is a praise and extend
-type...
+    MsgDisp("主人公","(The chairman motivates through praise...
 Alright, time to aim for the first place!)");
     MsgClose();
     ScrFadeOut(0,0);
