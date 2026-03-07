@@ -21,9 +21,9 @@ We did it!");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("H2A0200000_02_010");
-    MsgDisp("Sassa","Yeah. I set a lot of new personal bests.
-And Haba High won the championship as a
-team!");
+    MsgDisp("Sassa","Yeah. Almost everyone set new personal 
+bests. And Haba High won the 
+championship as a team!");
     MsgDisp("主人公","Yes, it was the best result we could have
 gotten.
 Congrats!");

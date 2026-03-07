@@ -68,7 +68,7 @@ It's reassuring just having you here,
     ChMotion(1,3);
     VoicePlay("H380100000_01_070");
     MsgDisp("Kazama","Don't worry.
-I'll pick up you later with the best
+I'll pick you up later with the best
 reaction.");
     MsgDisp("主人公","(Alright.
 Let's do our best, for ｛Kazama＊＊｝ too!)");

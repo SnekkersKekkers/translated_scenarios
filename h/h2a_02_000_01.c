@@ -23,7 +23,7 @@ just out of reach...");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("H2A0200001_02_010");
-    MsgDisp("Sassa","I couldn't give you a good smile.
+    MsgDisp("Sassa","I couldn't make you smile your brightest.
 I'm sorry.");
     MsgDisp("主人公","No, not at all.
 It's fine as long as you're satisfied,

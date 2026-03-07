@@ -72,7 +72,7 @@ strong.
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H3A0100000_01_070");
-    MsgDisp("Kazama","Even though I doesn't know much about
+    MsgDisp("Kazama","Even though I don't know much about
 judo, I feel like I could understand the
 appeal.");
     MsgDisp("主人公","That makes me happy.

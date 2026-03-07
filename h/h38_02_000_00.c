@@ -13,7 +13,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoicePlay("H380200000_02_000");
     MsgDisp("Sassa","That's a good expression.
-You're getting into it, huh");
+You're getting into it, huh.");
     MsgDisp("主人公","｛Sassa＊＊｝.
 Did you come to cheer me on?");
     ChEye(2,0);

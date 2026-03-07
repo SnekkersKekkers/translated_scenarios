@@ -54,7 +54,8 @@ my eyes...");
     ChMotion(4,0,1);
     VoicePlay("H4A0400000_04_060");
     MsgDisp("Nanatsumori","Even now, it's dazzling...
-It makes me almost lose my rationality.");
+Being blinded by someone really does 
+happen.");
     MsgDisp("主人公","Geez, you're making me feel shy...");
     ChEye(4,1);
     ChMouth(4,2);

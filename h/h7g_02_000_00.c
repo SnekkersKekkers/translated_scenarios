@@ -39,7 +39,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("H7G0200000_02_040");
 MsgDisp("Sassa","Haha, just kidding. But I really think
 you've accomplished something amazing.
-Congrats");
+Congrats.");
 MsgDisp("主人公","Thank you, ｛Sassa＊＊｝.");
 MsgDisp("主人公","(I don't want to get lifted, but I'm happy
 to be congratulated...I'm glad I worked so

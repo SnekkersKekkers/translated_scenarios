@@ -24,7 +24,7 @@ ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("H5G0500000_05_030");
 MsgDisp("Hiiragi","Haa...
-I'll have to do with remembering hearing
+I'll have to make do with remembering
 your practices at school.");
 MsgDisp("主人公","Hehe.
 I'm glad you took such a liking to it,

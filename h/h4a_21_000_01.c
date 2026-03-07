@@ -20,8 +20,8 @@ I showed you a weird performance...");
     VoicePlay("H4A2100001_21_010");
     MsgDisp("Michiru","Hehe! I'm sorry, I shouldn't laugh, but
 you know...I still enjoyed it.");
-    MsgDisp("主人公","(...Ugh. But I'm glad I stayed in the
-rhythmic gymnastics club.)");
+    MsgDisp("主人公","(...Ugh. But was it worth staying in the
+rhythmic gymnastics club...?)");
     break ;
     case 4:
     case 5:

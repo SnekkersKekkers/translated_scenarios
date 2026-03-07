@@ -33,7 +33,7 @@ ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("H6G0200000_02_030");
 MsgDisp("Sassa","Haha, next time at school, then.
-Mikage-sensei and I will do it");
+Mikage-sensei and I will do it.");
 MsgDisp("主人公","Geez, we can't do it anywhere...
 Hehe, thanks, though.");
 ChEye(2,0);

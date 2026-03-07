@@ -25,7 +25,7 @@ manager though, you know?");
     ChMotion(5,4);
     VoicePlay("H280500000_05_020");
     MsgDisp("Hiiragi","Yes, that's the job of a manager.
-You're working hard as well.");
+I'm struggling with it myself, too.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("H280500000_05_030");

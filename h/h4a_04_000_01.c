@@ -61,8 +61,8 @@ Hehe, thanks.");
     ChMotion(4,0,1);
     VoicePlay("H4A0400001_04_060");
     MsgDisp("Nanatsumori","Yeah.
-So, for making me feel like I was the only
-one who got it, thank you.");
+So I feel like I'm the only one who got
+to appreciate that. Thanks.");
     MsgDisp("主人公","(｛Nanatsumori＊｝...
 I lost, but I'm glad I stayed in the
 rhythmic gymnastics club.)");

@@ -29,7 +29,7 @@ is something I understand well.");
     ChMotion(5,4);
     VoicePlay("H2A0500000_05_020");
     MsgDisp("Hiiragi","It would simply not be possible without
-their constant efforts and a great
+their constant efforts and great
 support.");
     MsgDisp("主人公","Yes, that's right.");
     ChEye(5,4);

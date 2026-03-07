@@ -37,7 +37,7 @@ efforts.");
     ChMotion(2,0);
     VoicePlay("H3A0200000_02_030");
     MsgDisp("Sassa","It's not just about strength. It begins
-and ends with courtesy. I think started
+and ends with courtesy. I think I started
 liking judo because of you.");
     MsgDisp("主人公","(I did it!
 I'm glad I practiced so much∈)");

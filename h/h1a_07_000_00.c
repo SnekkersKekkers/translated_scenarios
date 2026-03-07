@@ -36,7 +36,7 @@ get the win.");
 Go on and show 'em your smile.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(We did it!
-We won the Koushien!
+We won the Koshien!
 I'm so glad I worked hard at this club!)");
     break ;
     default :

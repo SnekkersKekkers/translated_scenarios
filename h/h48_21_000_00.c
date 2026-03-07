@@ -65,8 +65,9 @@ I'm fine...!");
     SEPlay("EV_SE_544");
     ChOpen(21,254,5,4,4,#1,#1,0,0);
     VoicePlay("H482100000_21_050");
-    MsgDisp("Michiru","Geez. You're not fine at all. Here, give
-me your hand. And close your eyes.");
+    MsgDisp("Michiru","Geez. You're not fine at all.
+Here, give me your hand.
+And close your eyes.");
     MsgDisp("主人公","My hands?
 ...Okay.");
     MsgClose();

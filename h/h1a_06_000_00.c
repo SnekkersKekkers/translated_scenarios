@@ -47,7 +47,7 @@ good results.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("H1A0600000_06_050");
-    MsgDisp("Himuro","What a short-sighted perspective.
+    MsgDisp("Himuro","That's too self-deprecating.
 It's a fact that your efforts helped the
 club.");
     ChEye(6,0);

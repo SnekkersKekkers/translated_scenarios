@@ -23,9 +23,9 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("H5G0300000_03_020")
-MsgDisp("Honda","Gardening's tricky. Even if it comes
-easily to some people, there are still
-times when it doesn't go as planned.");
+MsgDisp("Honda","Gardening's tricky. Since you're dealing
+with nature, there are times when it
+doesn't go as planned.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

@@ -43,7 +43,7 @@ most is you. Supporting the players must
 be hard, so leave supporting you to me,
 okay?");
 MsgDisp("主人公","Hehe, okay!
-Thanks ｛Honda＊＊｝!");
+Thanks, ｛Honda＊＊｝!");
 MsgDisp("主人公","(Alright, let's do our best!)");
 BGMStop();
 MsgClose();
