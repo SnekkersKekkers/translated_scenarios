@@ -1,8 +1,9 @@
 BGOpen("wf000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Alright. Time to head home. Huh, is
-that.....)");
+MsgDisp("主人公","(...Alright.
+Time to head home.
+Huh, is that.....)");
 VoicePlay("E010220200_02_000");
 MsgDisp("Sassa?","Hmmmm...
 So that's the way it is, isn't it?");

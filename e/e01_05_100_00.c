@@ -63,8 +63,9 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 VoicePlay("E010510000_47_000");
-MsgDisp("Woman","Oh my! The chairman really was here! Ah!
-Here, these are for you!");
+MsgDisp("Woman","Oh my!
+The chairman really was here!
+Ah! Here, these are for you!");
 VoicePlay("E010510000_05_080");
 MsgDisp("Hiiragi","Ah, I'm honored.
 Thank you very much.");

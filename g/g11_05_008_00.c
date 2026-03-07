@@ -32,7 +32,7 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 VoicePlay("G110500800_05_020");
 MsgDisp("Hiiragi","No, I like doing things even if I'm bad at
-them. I like sitting here and doing student
+them. I like sitting here doing student
 council work.");
 MsgDisp("主人公","I see.
 Isn't it difficult when you're also busy

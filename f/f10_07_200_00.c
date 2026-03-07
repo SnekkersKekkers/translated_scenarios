@@ -53,7 +53,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("F100720000_05_030");
-MsgDisp("Hiiragi","Unfortunately, it is in regards to Biology. 
+MsgDisp("Hiiragi","Unfortunately, it is not about Biology.
 That blackboard is an efficient
 way to make effective use of the wall
 space. It is an exceptional item.");

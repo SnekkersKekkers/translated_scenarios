@@ -44,8 +44,8 @@ VoicePlay("F020500012_05_040");
 MsgDisp("Hiiragi","I feel the same—like a bond between
 classmates. It truly is wonderful. Maybe I
 can put this to use on the stage...");
-MsgDisp("主人公","Is the Habataki Theater Company going to be
-putting on a youth drama next?");
+MsgDisp("主人公","Is the Habataki Theater Company putting on
+a youth drama next?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("F020500012_05_050");

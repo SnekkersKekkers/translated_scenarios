@@ -75,8 +75,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,1);
 VoicePlay("E012150000_21_080");
-MsgDisp("Michiru","Yeah. What a relief. Now I can work in
-peace. Okay, see you later.");
+MsgDisp("Michiru","Yeah. What a relief.
+Now I can work in peace.
+Okay, see you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(21);
