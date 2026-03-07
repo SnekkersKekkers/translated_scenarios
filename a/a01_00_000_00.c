@@ -151,14 +151,14 @@ VoicePlay("A010000000_01_150");
 MsgDisp("Ryota","(I wish that we're always happy and
 healthy and that we definitely, definitely
 get married!)");
-MsgDisp("主人公","(What to do, I can't think of a wish so
-suddenly...)");
+MsgDisp("主人公","(What do I do, I can't come up with a
+wish on the spot like this...)");
 MsgDisp("主人公","(Ah, yeah!
 \"I wish that Ryota-kun's wish will come
 true!\")");
 VoicePlay("A010000000_01_160");
-MsgDisp("Ryota","Alright, let's go!
-Ready, set, blow!!");
+MsgDisp("Ryota","Okay, here we go!
+Ready... set...!!");
 ScrFadeOut(0,1);
 BGMStop(4);
 VoicePlay("A010000000_01_170");
@@ -205,7 +205,7 @@ Wait(140,0);
 BGOpen("ho410",2);
 EnvPlay("SE_ENV_BG_EV004_CO0",1,0.5);
 ScrFadeIn(4,60);
-MsgDisp("主人公","That dream...");
+MsgDisp("主人公","A dream...");
 MsgDisp("主人公","(Hehe, it's been a while since I've heard
 his name. All the old memories are coming
 back to me.)");

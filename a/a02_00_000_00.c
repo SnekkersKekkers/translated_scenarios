@@ -1,7 +1,7 @@
 BGOpen("ho210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Starting tomorrow, I'll be a freshman 
-at the prestigious \"Habataki High School\". 
+MsgDisp("主人公","(Starting tomorrow, I'll be a freshman
+at the prestigious \"Habataki High School\".
 I'm so nervous!)");
 MsgClose();
 ScrFadeOut(0);

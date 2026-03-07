@@ -47,8 +47,9 @@ them! If you talk to them directly, Hikaru
 thinks the misunderstanding will clear up.");
 MsgDisp("主人公","Yeah, I got it.");
 VoicePlay("C022200000_22_090");
-MsgDisp("Hikaru","Mari, good luck! If you get stuck,
-give Hikaru a call. Salut!");
+MsgDisp("Hikaru","Mari, good luck!
+If you get stuck, give Hikaru a call.
+Salut!");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Someone is hurting because of my actions.

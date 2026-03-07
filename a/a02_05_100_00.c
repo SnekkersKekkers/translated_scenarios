@@ -94,7 +94,7 @@ MsgDisp("Hiiragi","Excuse me, I'll be right back.");
 MsgDisp("主人公","Huh?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.5);
 SEWait();
-MsgDisp("主人公","(Did these people just call ｛Hiiragi＊＊＊｝
+MsgDisp("主人公","(Did they just call ｛Hiiragi＊＊＊｝
 \"Chairman\"...?)");
 Wait(40);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

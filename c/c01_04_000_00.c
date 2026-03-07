@@ -29,7 +29,8 @@ VoicePlay("C010400000_04_040");
 MsgDisp("Nanatsumori","You're fine.
 I'm glad we could make up.
 I think I'll sleep well tonight.");
-MsgDisp("主人公","Ah... Were you not sleeping well?
+MsgDisp("主人公","Ah...
+Were you not sleeping well?
 Good night then, ｛Nanatsumori＊｝.");
 VoicePlay("C010400000_04_050");
 MsgDisp("Nanatsumori","Aa, night.
