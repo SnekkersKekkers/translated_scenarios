@@ -4,5 +4,5 @@ ChMotion(5,0);
 ChCheek(5,0);
 MsgDispHide();
 VoicePlay("SS0005014_05_000");
-MsgDisp("Hiiragi","Yes, how merry.");
+MsgDisp("Hiiragi","Yes, I'm in high spirits.");
 MsgClose();

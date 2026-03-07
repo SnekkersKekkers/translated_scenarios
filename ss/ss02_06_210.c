@@ -4,5 +4,5 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("SS0206210_06_000");
-MsgDisp("Himuro","I have plenty of energy left.");
+MsgDisp("Himuro","You've got energy to spare, huh.");
 MsgClose();

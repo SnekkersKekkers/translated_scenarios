@@ -4,5 +4,5 @@ ChMouth(6,4);
 ChMotion(6,0);
 MsgDispHide();
 VoicePlay("SS0006006_06_000");
-MsgDisp("Himuro","Calm down.");
+MsgDisp("Himuro","It's calming.");
 MsgClose();

@@ -4,5 +4,5 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("SS0406321_06_000");
-MsgDisp("Himuro","What's those eyes?");
+MsgDisp("Himuro","What's with that look?");
 MsgClose();

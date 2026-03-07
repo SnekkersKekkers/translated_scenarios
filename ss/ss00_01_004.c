@@ -2,5 +2,5 @@ ChSet(1,0);
 ChCheek(1,0);
 MsgDispHide();
 VoicePlay("SS0001004_01_000");
-MsgDisp("Kazama","It's quiet....");
+MsgDisp("Kazama","It's quiet...");
 MsgClose();
