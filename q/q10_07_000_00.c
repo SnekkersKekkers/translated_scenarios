@@ -77,7 +77,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3);
 VoicePlay("Q100700000_22_020");
-MsgDisp("Hikaru","Agree～ d♪
+MsgDisp("Hikaru","Agreed～♪
 Let's go, Mari!");
 MsgDisp("主人公","Huh!");
 ChEye(21,0);

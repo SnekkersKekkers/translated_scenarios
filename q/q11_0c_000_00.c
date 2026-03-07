@@ -54,14 +54,14 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q110C00000_07_030");
-MsgDisp("Mikage","All castella's?
+MsgDisp("Mikage","All castellas?
 I wonder what Inori will say about this.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q110C00000_05_020");
-MsgDisp("Hiiragi","The sence of flavors are similar too.");
+MsgDisp("Hiiragi","The sense of flavors is similar too.");
 MsgDisp("主人公","But I'm sure he'll be happy.");
 ChEyeOpenLevel(5,9);
 ChEye(7,2);

@@ -71,7 +71,7 @@ It's good that you're full of energy.");
     ChMotion(4,1,1);
     VoicePlay("Q020400000_04_070");
     MsgDisp("Nanatsumori","Wanna hang out during the free period
-period together?");
+together?");
     MsgSel("Sure, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:

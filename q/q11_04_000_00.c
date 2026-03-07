@@ -1,6 +1,6 @@
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","There's alot, I can't choose...
+MsgDisp("主人公","There's a lot, I can't choose...
 Something that will make good memories,
 huh...");
 MsgDisp("主人公","(I wonder where ｛Nanatsumori＊｝ went...)");

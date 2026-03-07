@@ -1,7 +1,7 @@
 BGOpen("sc810",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","The school trip is ending tommorow...");
+MsgDisp("主人公","The school trip is ending tomorrow...");
 MsgClose();
 ChOpen(5,254,0,4,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
@@ -49,7 +49,7 @@ leading class, but I was also enjoying
 myself. Don't tell anyone, ok?");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝, ｛Mikage＊＊｝, Also thank
 you ｛Himuro＊＊｝.
-It was a very enjoying school trip.)");
+It was a very enjoyable school trip.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

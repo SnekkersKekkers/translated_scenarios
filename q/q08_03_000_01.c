@@ -37,7 +37,7 @@ Thanks for inviting me!");
     VoicePlay("Q080300001_03_030");
     MsgDisp("Honda","So, for the next free period, wanna go
 together? With you, I'm sure we can
-experience more than we can expected!");
+experience more than we can expect!");
     MsgDisp("主人公","Hehe, yeah!");
     break ;
     case 4:

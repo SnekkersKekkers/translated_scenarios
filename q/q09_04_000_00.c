@@ -64,7 +64,7 @@ Are you ok?");
 I'm such a kid, not able to sleep when I'm
 excited.");
     MsgDisp("主人公","Hehe!
-Lets's have fun today!");
+Let's have fun today!");
     ChEye(4,1);
     ChMouth(4,3);
     ChMotion(4,0,1);

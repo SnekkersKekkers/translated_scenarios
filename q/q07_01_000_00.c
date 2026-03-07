@@ -13,7 +13,7 @@ MsgDisp("Kazama","It really has a unique shape.
 Some grind flour and some pump water, so
 they have different uses.");
 MsgDisp("主人公","Is that so.
-｛Kazama＊＊｝, you really know alot, huh?");
+｛Kazama＊＊｝, you really know a lot, huh?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

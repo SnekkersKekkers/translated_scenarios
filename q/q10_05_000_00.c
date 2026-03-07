@@ -32,7 +32,7 @@ VoicePlay("Q100500000_05_040");
 MsgDisp("Hiiragi","...It would be wonderful if I could make
 use of what I saw and experienced here in
 Nagasaki on stage.");
-MsgDisp("主人公","Yeah, I'm looking forward.");
+MsgDisp("主人公","Yeah, I'm looking forward to it.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("Q100500000_05_050");

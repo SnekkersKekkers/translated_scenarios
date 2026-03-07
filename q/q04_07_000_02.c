@@ -7,7 +7,7 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,2);
     VoicePlay("Q040700002_07_000");
     MsgDisp("Mikage","Wait a second.
-Thanks alot.
+Thanks a lot.
 Sounds fun, but it's a no from me.");
     MsgDisp("主人公","I see...");
     ChEye(7,0);

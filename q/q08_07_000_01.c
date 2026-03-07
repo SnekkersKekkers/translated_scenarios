@@ -12,7 +12,7 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","This is the end of today's lessons.
 Did you enjoy it?");
     MsgDisp("主人公","Yes, thank you very much.
-May I join younext time too?");
+May I join you next time too?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -47,8 +47,7 @@ If possible!");
     ChMotion(7,0);
     VoicePlay("Q080700001_07_040");
     MsgDisp("Mikage","Extracurricular lesson, Nagasaki version.
-This is the end of the first episode.
-Thank you for listening.");
+This is the end of the first episode.");
     MsgDisp("主人公","Eh, first episode?");
     ChEye(7,0);
     ChMouth(7,0);

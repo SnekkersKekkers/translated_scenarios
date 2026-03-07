@@ -93,7 +93,7 @@ I was practicing that in my head.");
         ChMotion(2,0);
         VoicePlay("Q020200000_02_080");
         MsgDisp("Sassa","It worked, then.
-Whether or not I get to go with you or is
+Whether or not I get to go with you is
 the turning point of fate.");
         MsgDisp("主人公","(T-That much...?
 Still, I'm glad you asked me!)");

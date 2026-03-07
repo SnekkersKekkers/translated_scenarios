@@ -58,8 +58,8 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("Q110D00000_22_030");
-MsgDisp("Hikaru","There are all color different colored
-glass beads...?
+MsgDisp("Hikaru","They're all different colored glass
+beads...?
 We all thought of the same thing∋");
 ChEye(22,3);
 ChMouth(22,3);

@@ -23,7 +23,8 @@ around together for today's free period?");
     MsgDisp("Nanatsumori","Mornin'.
 You're really energetic today, huh.");
     MsgDisp("主人公","Hehe!
-Won't you come with me this the free time?");
+Won't you come with me for the free 
+period?");
     break ;
     case 4:
     case 5:

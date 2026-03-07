@@ -23,7 +23,7 @@ edition, let's go!");
     ChMotion(7,3);
     VoicePlay("Q040700001_07_020");
     MsgDisp("Mikage","It's fine of course.
-I was also thinking of a extracurricular
+I was also thinking of an extracurricular
 lesson Nagasaki edition.");
     MsgDisp("主人公","Yay!
 I'm looking forward to the extracurricular

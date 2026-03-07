@@ -1,7 +1,7 @@
 BGOpen("sc811",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I walked a lot today, So let's take a
+MsgDisp("主人公","(I walked a lot today, so let's take a
 relaxing bath.)");
 VoicePlay("Q070701000_22_000");
 MsgDisp("Hikaru?","Mari, found you!");

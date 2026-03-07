@@ -35,7 +35,7 @@ switch (MsgSelRsltGet()){
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("Q050D00000_21_010");
-    MsgDisp("Michiru","Let's make lot of memories together.");
+    MsgDisp("Michiru","Let's make a lot of memories together.");
     MsgDisp("主人公","(Together with ｛ひかる＊｝ and
 ｛みちる＊｝, this is gonna be fun!)");
     break ;

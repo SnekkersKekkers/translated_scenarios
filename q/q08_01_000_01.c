@@ -20,7 +20,7 @@ ten.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("Q080100001_01_010");
-    MsgDisp("Kazama","Thank me not yet.
+    MsgDisp("Kazama","Don't thank me yet.
 You have one more free day left, right?");
     MsgDisp("主人公","Yes.");
     ChEye(1,0);
@@ -70,7 +70,7 @@ Wanna spend the next one together too?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q080100001_01_080");
-    MsgDisp("Kazama","Alright, we're going for a even better
+    MsgDisp("Kazama","Alright, we're going for an even better
 day! You've got to be ready for it. See
 you back here.");
     break ;

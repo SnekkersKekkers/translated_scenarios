@@ -33,7 +33,7 @@ I was looking for you just now too.");
     MsgDisp("Kazama","I guess I lost.
 I'll spend the entire day with you.");
     MsgDisp("主人公","(Yay!
-I'm happy I'll able to look around with
+I'm happy I'll be able to look around with
 ｛Kazama＊＊｝.)");
     break ;
     default :

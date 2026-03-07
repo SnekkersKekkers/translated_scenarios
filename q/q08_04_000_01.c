@@ -29,7 +29,7 @@ too.");
     MsgDisp("Nanatsumori","Thanks for inviting me.
 It was fun.");
     MsgDisp("主人公","Me too.
-I'm happy I could spent it with
+I'm happy I could spend it with
 ｛Nanatsumori＊｝!");
     ChMotion(4,1,1);
     VoicePlay("Q080400001_04_030");

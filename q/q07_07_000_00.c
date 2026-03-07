@@ -4,7 +4,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...the windmills and flowers are So
+MsgDisp("主人公","Wow...the windmills and flowers are so
 pretty!");
 ChEye(7,0);
 ChMouth(7,0);
@@ -119,7 +119,7 @@ ChMotion(7,0);
 VoicePlay("Q070700000_07_090");
 MsgDisp("Mikage","Yes.
 Maybe the owner of this place liked
-flowers alot.");
+flowers a lot.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

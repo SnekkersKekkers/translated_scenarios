@@ -2,7 +2,8 @@ BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc822",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow, it really do look glasses, huh?");
+MsgDisp("主人公","Wow, it really does look like glasses, 
+huh?");
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
@@ -22,7 +23,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q100C00000_05_010");
 MsgDisp("Hiiragi","I am only on the starting point.
-It'd be wonderful if I could make a
+It'd be wonderful if I could make
 entertainment even for future people.");
 MsgDisp("主人公","I'm sure you can do this, ｛Hiiragi＊＊＊｝!");
 ChEye(5,4);
@@ -65,8 +66,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q100C00000_07_020");
 MsgDisp("Mikage","Yeah...
-If you go into the wrong, he's gonna drag
-it for a long time.");
+If you get it wrong, he's gonna hold it
+against you for a long time.");
 SEPlay("EV_SE_837");
 SEWait();
 ChMouth(5,2);

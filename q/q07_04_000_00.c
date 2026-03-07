@@ -55,7 +55,7 @@ ScrFadeIn(0);
 VoicePlay("Q070400000_04_050");
 MsgDisp("Nanatsumori","Woah...so big.");
 MsgDisp("主人公","True...
-It's feels like I'm really in a foreign
+It feels like I'm really in a foreign
 country.");
 VoicePlay("Q070400000_04_060");
 MsgDisp("Nanatsumori","Yeah...");
@@ -106,7 +106,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q070400000_04_110");
 MsgDisp("Nanatsumori","The best location overlooking the sea and
-an Retro architecture.
+retro architecture.
 I'd love to live in a place like this.");
 MsgDisp("主人公","Hehe.
 Maybe it's a bit like Habataki City?");

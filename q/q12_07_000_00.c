@@ -61,14 +61,14 @@ write about it. Thank you, ｛Mikage＊＊｝.)");
     case 4:
     case 5:
     VoicePlay("Q120700000_07_060");
-    MsgDisp("Mikage","Alright then, here is Extracurricular
-class Nagasaki version over.");
+    MsgDisp("Mikage","Alright then, the Extracurricular lesson
+Nagasaki version is now over.");
     MsgDisp("主人公","Sigh, is it the end...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("Q120700000_07_070");
-    MsgDisp("Mikage","Don't look so recognizablely sad.");
+    MsgDisp("Mikage","Don't look so obviously sad.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

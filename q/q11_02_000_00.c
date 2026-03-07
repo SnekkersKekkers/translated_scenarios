@@ -16,7 +16,7 @@ ChMotion(2,3);
 VoicePlay("Q110200000_02_010");
 MsgDisp("Sassa","I chose instantly.");
 MsgDisp("主人公","You did?
-It looks like it you took a while.");
+It looks like you took a while.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

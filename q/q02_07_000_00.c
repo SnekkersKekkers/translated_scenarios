@@ -51,7 +51,7 @@ Chapter!\", but I guess nobody's up for it.");
         MsgDisp("Mikage","Well, that's settled. I'm still
 recruiting, but at this rate ...there
 won't be any others. Are you sure?");
-        MsgDisp("主人公","Yes, I don't mind.");
+        MsgDisp("主人公","Yes, I'm looking forward to it.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,1);

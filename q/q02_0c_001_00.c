@@ -5,7 +5,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,5,0,3,#1,#1,0,2,0,30);
 VoicePlay("Q020C00100_07_000");
-MsgDisp("Mikage","Shall we go, then?");
+MsgDisp("Mikage","Sorry to keep you waiting.
+Shall we go, then?");
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
