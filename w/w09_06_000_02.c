@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     MsgClose();
     ChOpen(6,255,2,0,0,0,#1,0,0);
     VoicePlay("W090600002_06_010");
-    MsgDisp("Himuro","I wonder how long this hang out will last.");
+    MsgDisp("Himuro","I guess I could pass the time with you.");
     break ;
     case 4:
     case 5:

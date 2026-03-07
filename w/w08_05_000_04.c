@@ -13,7 +13,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,4,0,3,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500004_05_010");
-    MsgDisp("Hiiragi","This is a ride that goes round and round,
+    MsgDisp("Hiiragi","It's a spinning contest,
 Hanatsubaki-san.");
     break ;
     case 4:

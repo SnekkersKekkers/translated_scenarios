@@ -6,7 +6,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,255,0,0,4,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500007_05_000");
-    MsgDisp("Hiiragi","Hanatsubaki-san, are okay with heights?");
+    MsgDisp("Hiiragi","Hanatsubaki-san, are you okay with
+heights?");
     break ;
     case 3:
     MsgClose();

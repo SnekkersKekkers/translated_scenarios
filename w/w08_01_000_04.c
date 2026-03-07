@@ -6,7 +6,8 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,255,0,2,3,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080100004_01_000");
-    MsgDisp("Kazama","Well, let's keep the noise level the same.");
+    MsgDisp("Kazama","Well, the noise level's the same either
+way.");
     break ;
     case 3:
     MsgClose();

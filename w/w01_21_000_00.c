@@ -42,7 +42,7 @@ I wonder who else will be coming.)");
     ChMouth(21,4);
     ChMotion(21,0);
     VoicePlay("W012100000_21_040");
-    MsgDisp("Michiru","I see, errands huh.
+    MsgDisp("Michiru","I see, that's too bad.
 Maybe next time, then.
 Okay?");
     MsgDisp("主人公","(I feel a little bad saying that after she

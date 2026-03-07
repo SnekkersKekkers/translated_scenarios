@@ -31,7 +31,7 @@ Wanna try?");
     VoicePlay("W090300000_03_030");
     MsgDisp("Honda","Cough!
 ...Ah, phew.
-Okay, my vocal chords are ready.");
+Okay, my vocal cords are ready.");
     break ;
     default :
     DbgAssert(1);

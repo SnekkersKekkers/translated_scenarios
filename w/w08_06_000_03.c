@@ -6,7 +6,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,255,0,0,0,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080600003_06_000");
-    MsgDisp("Himuro","hm.");
+    MsgDisp("Himuro","Hm.");
     break ;
     case 3:
     MsgClose();

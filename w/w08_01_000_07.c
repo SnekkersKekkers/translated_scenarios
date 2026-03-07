@@ -6,7 +6,8 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,255,0,0,2,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080100007_01_000");
-    MsgDisp("Kazama","Are you not excited?");
+    MsgDisp("Kazama","Don't get too excited and start rocking 
+this thing, alright?");
     break ;
     case 3:
     MsgClose();

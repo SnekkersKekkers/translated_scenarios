@@ -12,8 +12,8 @@ Let's go!");
     MsgClose();
     ChOpen(3,255,4,4,3,#1,#1,0,0);
     VoicePlay("W090300002_03_010");
-    MsgDisp("Honda","Do you have a strong grip?
-Be careful not to turn it too much.");
+    MsgDisp("Honda","Can you handle spinning?
+Be careful not to spin it too much.");
     break ;
     case 4:
     case 5:

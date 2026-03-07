@@ -8,5 +8,5 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("W040600000_06_010");
-MsgDisp("Himuro","...Let's have fun.");
+MsgDisp("Himuro","...I'll try my best.");
 ChMotion(6,0);

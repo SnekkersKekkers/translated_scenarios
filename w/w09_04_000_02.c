@@ -14,8 +14,8 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,255,0,0,3,#1,#1,0,0);
     VoicePlay("W090400002_04_010");
-    MsgDisp("Nanatsumori","We have to pick a color for the gondola.
-Any color fine with you?");
+    MsgDisp("Nanatsumori","I wonder what color gondola we'll get.
+What's your guess?");
     break ;
     case 4:
     case 5:

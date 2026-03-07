@@ -26,8 +26,8 @@ After you.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("W090500000_05_030");
-    MsgDisp("Hiiragi","Even a blink and you'll be missing out.
-I enjoyed this from beginning to end!");
+    MsgDisp("Hiiragi","Even a blink and you'll miss something.
+Let's enjoy this from beginning to end!");
     break ;
     default :
     DbgAssert(1);

@@ -18,8 +18,8 @@ switch (ChPrmGet(6,6)){
     MsgClose();
     ChOpen(6,255,4,0,0,#1,#1,5,0);
     VoicePlay("W090600001_06_020");
-    MsgDisp("Himuro","I'm not saying this just cause it's you.
-How can you get on things like this?");
+    MsgDisp("Himuro","I'm only saying this because it's you.
+Are we really riding this thing?");
     MsgDisp("主人公","Because I think it'll be fun?");
     ChEye(6,2);
     ChMouth(6,0);

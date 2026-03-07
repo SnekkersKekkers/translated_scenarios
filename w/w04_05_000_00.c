@@ -11,6 +11,5 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("W040500000_05_010");
-MsgDisp("Hiiragi","Yeah.
-Let's have fun then.");
+MsgDisp("Hiiragi","Yes. I think so too.");
 ChMotion(5,0);
