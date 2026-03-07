@@ -40,7 +40,7 @@ ChMotion(21,3);
 ChCheek(21,8);
 VoicePlay("F032100000_21_520");
 MsgDisp("Michiru","Hey.
-Both Hikaru and Mari says the same thing.");
+Both Hikaru and Mari say the same thing.");
 ChMotion(21,4);
 ChEyeOpenLevel(21,0);
 VoicePlay("F032100000_21_530");
@@ -49,7 +49,7 @@ If there was a red string of fate, I would
 follow it...");
 MsgDisp("主人公","(Hmmm.
 Maybe ｛みちる＊｝ is a huge
-romantic.))");
+romantic.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

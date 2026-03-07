@@ -87,7 +87,7 @@ Let us be off.");
         ChMotion(5,3);
         VoicePlay("F010500007_05_070");
         MsgDisp("Hiiragi","I see no reason to decline.
-That is an lovely idea.");
+That is a lovely idea.");
         break ;
         default :
         DbgAssert(1);

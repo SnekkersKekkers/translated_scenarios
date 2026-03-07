@@ -72,8 +72,8 @@ ChMotion(5,4);
 VoicePlay("F100520001_05_060");
 MsgDisp("Hiiragi","Yes, I am looking forward to it.");
 MsgDisp("主人公","(It seems like ｛Kazama＊＊｝, ｛Hiiragi＊＊＊｝
-and ｛Kazama＊＊｝'s grandpa has a super good
-relationship.)");
+and ｛Kazama＊＊｝'s grandpa have a really
+good relationship.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

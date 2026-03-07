@@ -39,7 +39,7 @@ ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("F100630002_06_020");
 MsgDisp("Himuro","Just once.
-DOn't forget that.");
+Don't forget that.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -18,7 +18,7 @@ ChMouth(5,4);
 VoicePlay("F020500013_05_010");
 MsgDisp("Hiiragi","I have gone several times for
 performances. It truly is a great place,
-with an overflowing sense of enthusiasm.");
+with an overflowing sense of exotic charm.");
 MsgDisp("主人公","I see.
 So it's gonna be a little boring for you,
 huh?");

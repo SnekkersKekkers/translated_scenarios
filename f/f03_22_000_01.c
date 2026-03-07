@@ -34,7 +34,7 @@ big sis cry out loud is also super funny.
 And then——");
 MsgDisp("主人公","(When ｛ひかる＊｝ watches TV, she
 mostly enjoys watching ｛みちる＊｝'s
-reactions huh...')");
+reactions huh...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

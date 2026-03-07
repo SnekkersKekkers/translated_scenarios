@@ -21,9 +21,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F110510001_05_020");
-MsgDisp("Hiiragi","I was wondering why last year, everyone
-asked for sweets recommendations, but this
-year, everyone is asking for yakisoba.");
+MsgDisp("Hiiragi","Last year, people asked for sweets
+recommendations, so this year I studied
+sweets instead of yakisoba.");
 MsgDisp("主人公","Is that how it was?");
 ChEye(5,2);
 ChMouth(5,4);

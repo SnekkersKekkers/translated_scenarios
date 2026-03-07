@@ -20,7 +20,7 @@ ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("F020300013_03_010");
 MsgDisp("Honda","You know how there are cultural and
-historial sites all over?
+historical sites all over?
 Well, I've been compiling them together.");
 MsgDisp("Honda","Visiting them is twice as much fun when
 you've done your research.");

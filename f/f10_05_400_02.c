@@ -28,7 +28,7 @@ ChMotion(5,0,1);
 VoicePlay("F100540002_05_020");
 MsgDisp("Hiiragi","Mikage-sensei is treating us to Hiyashi
 Chuuka at a store he recommends.");
-MsgDisp("主人公","so that's it! I think I'lll pass. Because
+MsgDisp("主人公","So that's it! I think I'll pass. Because
 I might not be able to eat dinner
 otherwise.");
 ChEye(7,0);

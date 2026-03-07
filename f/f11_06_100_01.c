@@ -34,8 +34,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F110610001_06_050");
 MsgDisp("Himuro","Maybe.
-Well, you asked your questions.
-I'll go back now.");
+I'll go ask about it.");
 MsgDisp("主人公","Okay.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

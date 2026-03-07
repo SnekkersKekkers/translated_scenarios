@@ -35,7 +35,7 @@ I didn't ride my bike today.");
     ChMotion(7,2);
     VoicePlay("F010700003_07_030");
     MsgDisp("Mikage","If you're going to be that happy, maybe I
-should forget my bike everyday.");
+should forget my bike every day.");
     break ;
     default :
     DbgAssert(1);

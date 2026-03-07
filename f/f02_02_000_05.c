@@ -43,4 +43,4 @@ VoicePlay("F020200005_02_040");
 MsgDisp("Sassa","Huh...
 I guess there's not much point in taking
 chances with cramming the night before.");
-MsgDisp("主人公","(Well, I think gave him some hope...)");
+MsgDisp("主人公","(Well, I think I gave him some hope...)");

@@ -81,7 +81,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
 VoicePlay("F100710000_07_080");
-MsgDisp("Mikage","Sorry, so ahead.
+MsgDisp("Mikage","Sorry, go ahead.
 I'll go after I change into my suit.");
 MsgDisp("主人公","Hehe, yes.");
 SEStop("EV_SE_SCHOOL_002",1);

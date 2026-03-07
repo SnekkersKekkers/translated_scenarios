@@ -17,7 +17,7 @@ Let's go.");
     ChMotion(7,3);
     VoicePlay("F010700005_07_010");
     MsgDisp("Mikage","Oh, let's go, let's go.
-For me, I want a smoothie.");
+For me, I want a coffee.");
     MsgDisp("主人公","Haha, sure!");
     break ;
     case 4:

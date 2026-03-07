@@ -56,7 +56,8 @@ I'll go home alone today...)");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("F010100004_01_050");
-    MsgDisp("Kazama","Yeah, something like that.");
+    MsgDisp("Kazama","Huh, you're being surprisingly nonchalant 
+about that.");
     MsgDisp("主人公","It can't be helped.
 ｛Kazama＊＊｝ is busy.");
     ChEye(1,2);
@@ -65,7 +66,7 @@ I'll go home alone today...)");
     ChEyeOpenLevel(1,0);
     VoicePlay("F010100004_01_060");
     MsgDisp("Kazama","Ha...
-I don't feel like doing errands anymore..");
+I don't feel like doing errands anymore...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -40,7 +40,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0);
 VoicePlay("F020400010_04_041");
-MsgDisp("Nanatsumori","But I think regardless of whether your a
+MsgDisp("Nanatsumori","But I think regardless of whether you're a
 lead part, a supporting part, or
 behind-the-scenes, you'll make some good
 memories.");

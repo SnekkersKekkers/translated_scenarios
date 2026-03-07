@@ -17,8 +17,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600008_06_010");
-MsgDisp("Himuro","It's much calmer when you just float
-around.");
+MsgDisp("Himuro","When everyone else gets excited, it makes
+me lose interest.");
 MsgDisp("主人公","Very ｛Himuro＊＊｝ -like.");
 ChEye(6,0);
 ChMouth(6,0);

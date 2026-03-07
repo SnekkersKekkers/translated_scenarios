@@ -10,9 +10,8 @@ MsgDisp("主人公","It's almost time for winter break.
 ChMouth(5,4);
 VoicePlay("F020500011_05_000");
 MsgDisp("Hiiragi","Winter break passes in the blink of an
-eye. By the time I give someone a New
-Years Greeting, it is already the end of
-the year.");
+eye. Once I finish the New Year's
+Greetings, it's already over.");
 MsgDisp("主人公","I see.
 I guess it's difficult for ｛Hiiragi＊＊＊｝ to
 have a restful New Years Day.");

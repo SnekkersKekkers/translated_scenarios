@@ -10,7 +10,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F022200006_22_000");
-MsgDisp("Hikaru","Yeah yeah, I'm lookin g forward to it～▼");
+MsgDisp("Hikaru","Yeah yeah, I'm looking forward to it～▼");
 MsgDisp("主人公","｛ひかる＊｝, you seem good at
 athletics!");
 ChEye(22,0);

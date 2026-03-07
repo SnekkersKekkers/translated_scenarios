@@ -27,7 +27,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F110710002_07_010");
-MsgDisp("Mikage","The Kojiro Mobile Zoo is back.");
+MsgDisp("Mikage","The Mikage Mobile Zoo is back.");
 MsgDisp("主人公","Um, is that alright?");
 ChEye(7,0);
 ChMouth(7,0);

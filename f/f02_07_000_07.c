@@ -28,7 +28,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700007_07_020");
 MsgDisp("Mikage","What am I looking forwards to, you say?
-It's got ot be school starting up again.");
+It's got to be school starting up again.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(7,0);
 ChMouth(7,0);

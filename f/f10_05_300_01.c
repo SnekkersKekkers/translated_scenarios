@@ -21,7 +21,7 @@ VoicePlay("F100530001_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
 An important job of the student council is
 to enforce greetings.");
-MsgDisp("主人公","You really do l ike them, don't you?");
+MsgDisp("主人公","You really do like them, don't you?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);

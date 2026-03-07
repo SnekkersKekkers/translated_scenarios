@@ -22,7 +22,7 @@ MsgDisp("Mikage","Hey hey, don't make that face. Class
 change is a huge event in your school
 life, right? Like the highest level of
 seat change?");
-MsgDisp("主人公","But, I wanted ｛Mikage＊＊｝ to e my
+MsgDisp("主人公","But, I wanted ｛Mikage＊＊｝ to be my
 homeroom teacher.");
 ChEye(7,0);
 ChMouth(7,0);

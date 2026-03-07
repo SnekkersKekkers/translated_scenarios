@@ -42,7 +42,7 @@ I'll go home alone today.)");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("F010200004_02_030");
-    MsgDisp("Sassa","Sory, it's the timing.
+    MsgDisp("Sassa","Sorry, it's the timing.
 Next time for sure.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

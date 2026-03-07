@@ -123,7 +123,7 @@ it just wasn't right...)");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("F010700007_07_090");
-        MsgDisp("Mikage","Hey, why are you apologize?
+        MsgDisp("Mikage","Hey, why are you apologizing?
 It's my fault.
 See you.");
         MsgClose();

@@ -20,8 +20,8 @@ ChMotion(7,5);
 VoicePlay("F020700001_07_010");
 MsgDisp("Mikage","It really is famous, huh? The princess
 waited for the prince to return from his
-journey after being unreasonable demands
-were imposed on their marriage.");
+journey after unreasonable demands were
+imposed on their marriage.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

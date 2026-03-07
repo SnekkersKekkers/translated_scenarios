@@ -115,7 +115,7 @@ MsgDisp("Mikage","Thank you. It's all thanks to you guys.
 I'm looking forward to the next
 evaluation!");
 VoicePlay("F100740002_42_070");
-MsgDisp("Male Student A","Mikagechi, treat us when you get a raise!");
+MsgDisp("Male Student A","Mikagecchi, treat us when you get a raise!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

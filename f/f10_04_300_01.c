@@ -67,7 +67,7 @@ ChMouth(22,2);
 ChMotion(22,2,1);
 VoicePlay("F100430001_22_040");
 MsgDisp("Hikaru","Oh no...
-I thought she found out long ago and were
+I thought she found out long ago and was
 having this kind of girl talk.");
 MsgDisp("主人公","(Girl talk with ｛Nanatsumori＊｝?)");
 ChEye(4,0);

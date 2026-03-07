@@ -5,7 +5,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F032200000_22_240");
-MsgDisp("Hikaru","Asides fom the tests, everything is fun♪");
+MsgDisp("Hikaru","Aside from the tests, everything is fun♪");
 MsgDisp("主人公","I-I see.");
 ChEye(22,0);
 ChMouth(22,3);

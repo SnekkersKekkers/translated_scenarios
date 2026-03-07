@@ -15,7 +15,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F102110002_21_010");
 MsgDisp("Michiru","Hehe, it's alright.
-I'v decided to confide in Mari.");
+I've decided to confide in Mari.");
 MsgDisp("主人公","Yeah!
 So, what is it?");
 ChEye(21,0);

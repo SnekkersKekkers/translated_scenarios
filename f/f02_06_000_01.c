@@ -48,4 +48,4 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F020600001_06_050");
 MsgDisp("Himuro","I don't.");
-MsgDisp("主人公","(What a liar...)");
+MsgDisp("主人公","(He's so not honest with himself...)");

@@ -23,7 +23,7 @@ ChMouth(21,4);
 ChMotion(21,1);
 VoicePlay("F102120001_21_010");
 MsgDisp("Michiru","Hey!
-You really are a contrararian.");
+You really are a contrarian.");
 MsgDisp("主人公","Hey, ｛みちる＊｝, ｛Himuro＊＊｝!
 What are you two talking about?");
 ChEye(21,0);

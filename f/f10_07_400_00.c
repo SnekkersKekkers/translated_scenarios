@@ -74,7 +74,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100740000_07_060");
 MsgDisp("Mikage","Hey, go home already.
-Be careful on you way back.");
+Be careful on your way back.");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -5,7 +5,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","It's almost time for final exams, huh..");
+MsgDisp("主人公","It's almost time for final exams, huh...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

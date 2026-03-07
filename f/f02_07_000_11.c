@@ -18,7 +18,7 @@ ChMotion(7,0);
 VoicePlay("F020700011_07_010");
 MsgDisp("Mikage","I'm looking forward to the Christmas party
 lots, but I'm feeling pretty bummed out
-about the new year.)");
+about the new year.");
 MsgDisp("主人公","What's the matter?");
 ChEye(7,2);
 ChMouth(7,0);

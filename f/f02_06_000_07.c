@@ -42,7 +42,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600007_06_040");
-MsgDisp("Himuro","Its fine.
+MsgDisp("Himuro","It's fine.
 It's true that it feels good.");
 ChEye(6,0);
 ChMouth(6,0);

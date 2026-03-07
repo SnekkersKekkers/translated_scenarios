@@ -57,6 +57,6 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F020600002_06_060");
-MsgDisp("Himuro","...you don't get it all, do you.");
+MsgDisp("Himuro","...you don't get it at all, do you.");
 MsgDisp("主人公","(We got way off topic from the legend, but
 I had fun going home with ｛Himuro＊＊｝.)");

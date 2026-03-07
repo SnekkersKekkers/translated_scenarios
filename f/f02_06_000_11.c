@@ -42,7 +42,7 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F020600011_06_040");
-MsgDisp("Himuro","It's more of an equal ice room.");
+MsgDisp("Himuro","That doesn't mean it's a Himuro thing.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

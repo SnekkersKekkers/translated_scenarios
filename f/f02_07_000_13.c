@@ -17,7 +17,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F020700013_07_010");
-MsgDisp("Mikage","What, yo're so composed.
+MsgDisp("Mikage","What, you're so composed.
 Even us chaperones are this excited?");
 ChEye(7,0);
 ChMouth(7,0);

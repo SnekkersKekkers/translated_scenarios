@@ -25,7 +25,7 @@ together?");
         MsgDisp("Nanatsumori","Yo.
 Are you going home right now?");
         MsgDisp("主人公","Yeah.
-If its okay, how about we walk home
+If it's okay, how about we walk home
 together?");
         break ;
         case 4:

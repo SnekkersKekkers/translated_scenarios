@@ -27,7 +27,7 @@ Well then, let's go.");
     ChCheek(1,7);
     VoicePlay("F010100003_01_020");
     MsgDisp("Kazama","Yes, that's fine.
-I don't mind if we do this everyday.");
+I don't mind if we do this every day.");
     ChMotion(1,0);
     MsgDisp("主人公","Yay!
 Well then, let's go!");

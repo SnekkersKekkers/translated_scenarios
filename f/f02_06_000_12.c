@@ -54,7 +54,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("F020600012_06_060");
-MsgDisp("Himuro","...If I feel like i.");
+MsgDisp("Himuro","...If I feel like it.");
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(I'd like it if I could hang out with
 ｛Himuro＊＊｝.)");

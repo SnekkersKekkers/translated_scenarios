@@ -12,8 +12,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F110710000_07_010");
-MsgDisp("Mikage","Oh, it's because the gardening club left
-the food stand to me.
+MsgDisp("Mikage","I left the gardening club and class booth
+to you guys.
 I have my own exhibit, too.");
 MsgDisp("主人公","Really?");
 ChEye(7,0);

@@ -46,7 +46,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600003_06_050");
-MsgDisp("Himuro","That guy, he's kind of a a romantic at
+MsgDisp("Himuro","That guy, he's kind of a romantic at
 heart.");
 MsgDisp("主人公","Huh?");
 ChEye(6,0);

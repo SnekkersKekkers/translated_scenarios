@@ -59,7 +59,7 @@ ChMotion(1,1);
 VoicePlay("F100520002_01_030");
 MsgDisp("Kazama","I see.
 As expected of the chairman.
-It's interesting to dig deeper");
+It's interesting to dig deeper.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

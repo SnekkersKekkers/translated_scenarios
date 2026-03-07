@@ -46,7 +46,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720002_05_020");
 MsgDisp("Hiiragi","Hehe, Mikage-sensei, the bar is getting
-higher f or the audience.");
+higher for the audience.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

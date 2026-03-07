@@ -32,7 +32,7 @@ Wait(10,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,#1);
 VoicePlay("F100110000_01_010");
-MsgDisp("Kazama","More like I was gawking at you.
+MsgDisp("Kazama","Your head was drooping.
 Three times.");
 MsgDisp("主人公","...you were counting?");
 ChEye(1,2);
@@ -64,8 +64,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110000_01_050");
-MsgDisp("Kazama","If you start to fall asleep, try to think
-about me.");
+MsgDisp("Kazama","Next time you get sleepy, I'll be counting
+on you again.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

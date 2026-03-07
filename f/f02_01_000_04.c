@@ -25,8 +25,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100004_01_020");
-MsgDisp("Kazama","It doesn't seem impossible If we're just
-talking about you.");
+MsgDisp("Kazama","With you, there's no way you'd forget,
+right?");
 MsgDisp("主人公","Naturally.
 Well, is there anything you want?");
 ChEye(1,0);
@@ -42,4 +42,4 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100004_01_040");
 MsgDisp("Kazama","I'm counting on you, alright?");
-MsgDisp("主人公","(Agh, what to do....)");
+MsgDisp("主人公","(Ugh, what to do...)");

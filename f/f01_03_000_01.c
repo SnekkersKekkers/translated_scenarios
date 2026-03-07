@@ -14,7 +14,7 @@ Um, ｛Honda＊＊｝?");
     ChMouth(3,5);
     ChMotion(3,5);
     VoicePlay("F010300001_03_010");
-    MsgDisp("Honda","'Da'— You forgot the 'Hon'!");
+    MsgDisp("Honda","Dah— I forgot to return the book!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

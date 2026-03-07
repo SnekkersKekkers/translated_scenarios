@@ -46,7 +46,7 @@ MsgDisp("Hiiragi","Could you come here for a second?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","Yeah1");
+MsgDisp("主人公","Yeah!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.5);
 MsgClose();
 ScrFadeOut(0,0);

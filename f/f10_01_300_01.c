@@ -44,8 +44,8 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F100130001_21_000");
 MsgDisp("Michiru","Haha.
-We have no problem with you, Kazama-kun.
-We just came to see Mari.");
+We like watching Mari when she's getting
+along with you, Kazama-kun.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);

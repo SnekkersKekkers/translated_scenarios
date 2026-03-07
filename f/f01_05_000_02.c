@@ -23,7 +23,7 @@ together?");
         VoicePlay("F010500002_05_010");
         MsgDisp("Hiiragi","Are you going home as well?");
         MsgDisp("主人公","Yep.
-If its okay, how about we walk home
+If it's okay, how about we walk home
 together?");
         break ;
         case 4:

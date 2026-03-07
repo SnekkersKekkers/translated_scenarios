@@ -56,7 +56,7 @@ ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F102230001_22_040");
 MsgDisp("Hikaru","I mean, it was a swan with a short neck...
-what was the red thing on it's head?");
+what was the red thing on its head?");
 ChEye(21,1);
 ChMouth(21,4);
 ChMotion(21,2,1);

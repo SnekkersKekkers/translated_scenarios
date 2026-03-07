@@ -117,7 +117,7 @@ Well, another time?");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(21);
-        MsgDisp("主人公","(Hmm, Did I do something wrong?)");
+        MsgDisp("主人公","(Hmm, did I do something wrong?)");
         break ;
         case 4:
         case 5:
@@ -136,7 +136,7 @@ Well then, another time?");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(21);
-        MsgDisp("主人公","(Hmm, Did I do something wrong?)");
+        MsgDisp("主人公","(Hmm, did I do something wrong?)");
         break ;
         default :
         DbgAssert(1);

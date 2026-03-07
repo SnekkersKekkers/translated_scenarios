@@ -31,7 +31,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("F110110002_01_030");
 MsgDisp("Kazama","Yeah, but this time, I can see it with
 you.");
-MsgDisp("主人公","...Right. Let's go!");
+MsgDisp("主人公","...Yeah, thank you!");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

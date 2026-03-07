@@ -18,7 +18,7 @@ ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("F020200013_02_010");
 MsgDisp("Sassa","The castella, tempura, and chanpon...");
-MsgDisp("主人公","You only thinking about food.");
+MsgDisp("主人公","You're only thinking about food.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -47,7 +47,7 @@ ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("F020200013_02_050");
 MsgDisp("Sassa","If I yelled, would you hear me on the
-girls side?
+girls' side?
 Can I call your name?");
 MsgDisp("主人公","...I'd prefer it if you didn't.");
 ChEye(2,2);

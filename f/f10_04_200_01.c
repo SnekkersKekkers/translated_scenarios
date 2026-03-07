@@ -64,7 +64,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100420001_04_040");
 MsgDisp("Nanatsumori","Right.
-DO you want to try it too?
+Do you want to try it too?
 Guri guri that is.");
 MsgDisp("主人公","(Guriguri...
 I'll look it up next time.)");
