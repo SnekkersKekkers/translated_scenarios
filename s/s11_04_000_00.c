@@ -10,9 +10,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("S110400000_04_010");
-MsgDisp("Nanatsumori","Good Luck.
-It's a fortune here, the last one in the
-Good Luck Group.");
+MsgDisp("Nanatsumori","Half Luck.
+At this shrine's fortune ranking, it's the
+last one in the Good Luck group.");
 MsgDisp("主人公","Oh I see, but it's still good to have
 right?");
 ChEye(4,0);

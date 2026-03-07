@@ -17,12 +17,13 @@ I'm sorry!");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200000_32_010");
-MsgDisp("VP Himuro","...It'll be too late for apologies if you
-get hurt.
+MsgDisp("VP Himuro","...It'll be too late once you get hurt,
+or hurt someone else.
 Take care from this point on.");
 MsgDisp("主人公","Yes, sir.");
-MsgDisp("主人公","(...Ah. There's dust on Himuro-sensei's
-necktie...Let's get that for him.)");
+MsgDisp("主人公","(...Ah. There's chalk dust on 
+Himuro-sensei's necktie...
+Let's get that for him.)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChLayout(0);

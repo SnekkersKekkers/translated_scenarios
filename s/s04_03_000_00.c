@@ -91,7 +91,7 @@ I'm looking forward to seeing you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He clearly just said Kimono.
-Well then, what should we wear?)");
+Well then, what should I wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

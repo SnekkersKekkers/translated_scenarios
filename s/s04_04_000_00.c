@@ -62,7 +62,7 @@ wrong...)");
     MsgDisp("Nanatsumori","I'm so relieved you picked up.");
     MsgDisp("主人公","Huh?");
     VoicePlay("S040400000_04_070");
-    MsgDisp("Nanatsumori","I want to us to go to the shrine together.
+    MsgDisp("Nanatsumori","I want us to go to the shrine together.
 What do you think?");
     MsgSel("Sure, let's go!","Sorry, I can't...");
     switch (MsgSelRsltGet()){

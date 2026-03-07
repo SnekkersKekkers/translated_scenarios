@@ -24,8 +24,8 @@ ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("S110800000_08_030");
-MsgDisp("Shirahane","Hm.
-In the end, it's just so mediocre.");
+MsgDisp("Shirahane","So?
+What does it say inside?");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("S110800000_08_040");

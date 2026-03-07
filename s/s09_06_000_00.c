@@ -150,8 +150,8 @@ that.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("S090600000_06_120");
-        MsgDisp("Himuro","Are you okay not with not getting your
-Fortune?");
+        MsgDisp("Himuro","Are you okay with not getting your
+fortune?");
         MsgDisp("主人公","Yeah, I'm getting tired.");
         ChEye(6,0);
         ChMouth(6,0);

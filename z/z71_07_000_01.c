@@ -93,8 +93,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Z710700001_07_080");
-MsgDisp("Mikage","Hey, come on. There's no way that's true.
-We have to go through this. Right?");
+MsgDisp("Mikage","Hey, come on. That's not the point.
+These routines are important. Right?");
 SEStop("EV_SE_GAYA_023",2);
 SEStop("EV_SE_863",2);
 SEStop("EV_SE_864",2);

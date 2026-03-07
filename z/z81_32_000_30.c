@@ -8,7 +8,7 @@ ChMouth(32,0);
 VoicePlay("Z813200030_32_010");
 MsgDisp("VP Himuro","Keep in mind that your relationship with
 your partner will also affect their
-satisfaction with skinskip.");
+satisfaction with skinship.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200030_32_020");

@@ -8,7 +8,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("S110200000_02_000");
-MsgDisp("Sassa","Hmm, it says Future Luck.
+MsgDisp("Sassa","Hmm, it says Half Luck.
 Should I try again?");
 MsgDisp("主人公","Eh?
 Read it properly.");
@@ -18,8 +18,8 @@ ChMotion(2,0);
 ChEyeOpenLevel(2,8);
 VoicePlay("S110200000_02_010");
 MsgDisp("Sassa","Ehー, what does it say...\"
-Future Luck means you will have more good
-luck in the future than now\".");
+Half Luck means your good luck will
+expand in the future\".");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

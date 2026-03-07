@@ -21,7 +21,7 @@ ChMouth(32,0);
 VoicePlay("Z813200022_32_030");
 MsgDisp("VP Himuro","Remember these three actions well.
 Where you touch them, and how.
-That culminates into skinskip.");
+That culminates into skinship.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200022_32_040");

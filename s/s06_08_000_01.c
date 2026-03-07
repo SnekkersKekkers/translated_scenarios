@@ -34,7 +34,7 @@ Eye candy▼");
     ChEyeOpenLevel(8,0);
     ChCheek(8,5);
     VoicePlay("S060800001_08_030");
-    MsgDisp("Shirahane","It's suits you perfectly.
+    MsgDisp("Shirahane","It suits you perfectly.
 Cute.");
     MsgDisp("主人公","Thank you!");
     ChEye(8,3);

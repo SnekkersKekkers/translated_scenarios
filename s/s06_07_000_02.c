@@ -7,7 +7,7 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,0,1);
     VoicePlay("S060700002_07_000");
     MsgDisp("Mikage","Shall we go then?
-It's better if we visit the shrine early");
+It's better if we visit the shrine early.");
     break ;
     case 3:
     ChEye(7,0);

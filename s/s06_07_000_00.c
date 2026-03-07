@@ -19,7 +19,7 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("S060700000_07_010");
-    MsgDisp("Mikage","｛主人公｝, Happy Holidays!
+    MsgDisp("Mikage","｛主人公｝, Happy New Year!
 Have a great year.");
     MsgDisp("主人公","｛Mikage＊＊｝, Happy New Year.");
     break ;

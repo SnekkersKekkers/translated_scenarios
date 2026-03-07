@@ -51,7 +51,7 @@ though...");
     MsgDisp("Sassa","Really?
 I have to turn that hard work into hard
 results.");
-    MsgDisp("主人公","I want to support (｛Sassa＊＊｝ and his
+    MsgDisp("主人公","(I want to support ｛Sassa＊＊｝ and his
 challenges again this year!)");
     break ;
     case 4:

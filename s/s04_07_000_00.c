@@ -74,7 +74,7 @@ Are you free?");
 We're together this year.");
         MsgDisp("主人公","Hehe, what should we pray for?");
         VoicePlay("S040700000_07_090");
-        MsgDisp("Mikage","What do pray for, hmm?
+        MsgDisp("Mikage","What do we pray for, hmm?
 I'll think about it while I come to pick
 you up.");
         SEPlay("SYS_SE_PHONE_POWER_ON");

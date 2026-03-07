@@ -19,7 +19,7 @@ ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,5,1);
 VoicePlay("S110D00000_22_010");
-MsgDisp("Hikaru","Very Bad luck!
+MsgDisp("Hikaru","Very Bad Luck!
 Why, what did I do wrong～∋");
 ChEye(21,4);
 ChMouth(21,0);

@@ -95,7 +95,7 @@ Let me take you home.");
     MsgDisp("Kazama","Going to the shrine with you felt like a
 distant dream.");
     MsgDisp("主人公","Is this your first time? Hmm...Didn't you
-go before in when we were in kindergarten?");
+go when we were in kindergarten?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

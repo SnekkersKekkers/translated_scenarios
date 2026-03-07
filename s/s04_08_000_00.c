@@ -66,7 +66,7 @@ Please treat me well again this year.");
     MsgDisp("主人公","Happy New Year.
 And the same to you.");
     VoicePlay("S040800000_08_070");
-    MsgDisp("Shirahane","Hey, do ya wanna to go to the shrine...?");
+    MsgDisp("Shirahane","Hey, do ya wanna go to the shrine...?");
     MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -106,7 +106,7 @@ Alright, seeya.");
         SEWait();
         MsgDisp("主人公","(Even though he went through all the
 trouble of inviting me...
-Did I make wrong choice?)");
+Did I make the wrong choice?)");
         break ;
         default :
         DbgAssert(0);

@@ -10,7 +10,7 @@ ChMotion(8,0,1);
 VoicePlay("S110800001_08_010");
 MsgDisp("Shirahane","No way.
 I pulled it...");
-MsgDisp("主人公","No way, Terrible Luck...?");
+MsgDisp("主人公","No way, Very Bad Luck...?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

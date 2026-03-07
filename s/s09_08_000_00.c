@@ -106,7 +106,7 @@ can't get a bad result!");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("S090800000_08_100");
-        MsgDisp("Shirahane","Lets gooー!");
+        MsgDisp("Shirahane","Let's gooー!");
         break ;
         case 1:
         ChEye(8,2);

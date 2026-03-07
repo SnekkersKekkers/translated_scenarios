@@ -11,9 +11,8 @@ Happy New Year.");
     VoicePlay("S030300000_03_010");
     MsgDisp("Honda","Happy New Year!
 Good luck this year too.");
-    MsgDisp("主人公","This year, we're together again.
-Would you like to go to the shrine with
-me?");
+    MsgDisp("主人公","Hey, would you like to go to the shrine
+together?");
     break ;
     case 3:
     SEPlay("EV_SE_663");
@@ -26,8 +25,8 @@ Happy New Year.");
     MsgDisp("Honda","Happy New Year!
 Let's treat each other well this year!");
     MsgDisp("主人公","Yep.
-Let's meet up a lot this year.
-Would you like to visit the shrine?");
+If you'd like, would you want to visit the
+shrine together?");
     break ;
     case 4:
     case 5:

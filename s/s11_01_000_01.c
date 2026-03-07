@@ -23,7 +23,7 @@ ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("S110100001_01_030");
 MsgDisp("Kazama","Wait a sec.
-Everytime something good happens to me...
+Every time something good happens to me...
 You're involved.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);

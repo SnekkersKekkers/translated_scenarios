@@ -8,7 +8,7 @@ SEWait();
 ChOpen(21,255,3,0,0,#1,#1,0,1,0,30);
 ChOpen(22,255,0,0,3,#1,#1,0,2,0,30);
 VoicePlay("S060D00000_21_000");
-MsgDisp("Michiru","Welcome to the New Year.");
+MsgDisp("Michiru","Happy New Year.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);

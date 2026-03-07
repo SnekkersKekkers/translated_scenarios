@@ -17,7 +17,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("S110D00001_22_010");
-MsgDisp("Hikaru","Excellent luck▼
+MsgDisp("Hikaru","Excellent Luck▼
 I'm so happy～♪");
 ChEyeOpenLevel(22,#1);
 ChEye(21,3);

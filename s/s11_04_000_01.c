@@ -10,8 +10,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("S110400001_04_010");
-MsgDisp("Nanatsumori","Medium Luck.
-This fortune is one level below Good Luck.");
+MsgDisp("Nanatsumori","Good Luck.
+At this shrine, it's one level below
+Excellent Luck.");
 MsgDisp("主人公","I see.
 Isn't that a shame...");
 ChEye(4,2);

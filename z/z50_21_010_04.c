@@ -6,7 +6,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Z502101004_21_000");
-MsgDisp("Michiru","I wonder if it's too difficult...");
+MsgDisp("Michiru","It's a bit rough...");
 MsgDisp("主人公","What?");
 ChEye(21,2);
 ChMouth(21,4);

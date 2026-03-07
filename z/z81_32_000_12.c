@@ -1,7 +1,7 @@
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200012_32_000");
-MsgDisp("VP Himuro","Skinskip is divided into five areas.
+MsgDisp("VP Himuro","Skinship is divided into five areas.
 Head, eyes, mouth, body, and arms.");
 ChEye(32,0);
 ChMouth(32,0);
