@@ -60,7 +60,7 @@ Too bad.)");
     VoicePlay("J030201001_02_060");
     MsgDisp("Sassa","Yeah, it's me.
 Got your message.");
-    MsgDisp("主人公","Yeah, what's up?");
+    MsgDisp("主人公","Y-Yeah. What's up?");
     VoicePlay("J030201001_02_070");
     MsgDisp("Sassa","That day, it's not good for me.
 Got stuff, you know.");

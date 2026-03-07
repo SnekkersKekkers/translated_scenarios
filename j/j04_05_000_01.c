@@ -37,7 +37,8 @@ I am sorry to hear that.");
 See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(This Sunday, or whatever it was ...
+        MsgDisp("主人公","(This Sunday... I wonder what it was
+about.
 I may have done something wrong.)");
         MsgClose();
         break ;

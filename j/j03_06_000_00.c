@@ -7,8 +7,8 @@ switch (ChPrmGet(6,6)){
     MsgDisp("主人公","Then, on ｛日付｝ I'll be waiting at
 ｛待ち合わせ場所｝!");
     VoicePlay("J030600000_06_010");
-    MsgDisp("Himuro","Yeah, yeah.
-Well then.");
+    MsgDisp("Himuro","Got it.
+See you then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!
@@ -36,7 +36,7 @@ Let's meet on ｛日付｝ at
 ｛待ち合わせ場所｝, then?");
     VoicePlay("J030600000_06_050");
     MsgDisp("Himuro","Alright.
-Can you try not being late?");
+Don't you dare be late, okay?");
     MsgDisp("主人公","Hmmm, okay.
 We want to have lots of fun, don't we?");
     VoicePlay("J030600000_06_060");

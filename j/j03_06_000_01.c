@@ -14,7 +14,7 @@ Later.");
     break ;
     case 3:
     VoicePlay("J030600001_06_020");
-    MsgDisp("Himuro","I can't because I have plans that day..");
+    MsgDisp("Himuro","I can't because I have plans that day.");
     MsgDisp("主人公","I see.
 Too bad...");
     VoicePlay("J030600001_06_030");
@@ -28,7 +28,7 @@ See you later.");
     case 4:
     case 5:
     VoicePlay("J030600001_06_040");
-    MsgDisp("Himuro","Are you free, only that day?");
+    MsgDisp("Himuro","Are you not free on any other day?");
     MsgDisp("主人公","Maybe you already have a plan?");
     VoicePlay("J030600001_06_050");
     MsgDisp("Himuro","Yeah...");
@@ -38,7 +38,7 @@ I'll invite you next time, okay?");
     VoicePlay("J030600001_06_060");
     MsgDisp("Himuro","...Alright.
 Be sure to invite me.");
-    MsgDisp("主人公","Yeah, I'll see you later..");
+    MsgDisp("主人公","Yeah, I'll see you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Too bad, I'll invite him again...)");

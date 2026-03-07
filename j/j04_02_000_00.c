@@ -93,7 +93,7 @@ I'll call on you again.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("J040200000_02_080");
-        MsgDisp("Sassa","Thank you...
+        MsgDisp("Sassa","A thank-you, huh...
 Yeah, I appreciate it too.
 See you later.");
         MsgClose();

@@ -19,10 +19,11 @@ You called me, right?");
     MsgDisp("主人公","I see.
 Too bad.");
     VoicePlay("J030601001_06_020");
-    MsgDisp("Himuro","That's all I wanted to say.");
+    MsgDisp("Himuro","That's all I had to say.
+Later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","Hmmm, too bad...)");
+    MsgDisp("主人公","(Hmmm, too bad...)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh, it's a call from ｛Himuro＊＊｝.)");

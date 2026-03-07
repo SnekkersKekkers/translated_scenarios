@@ -52,9 +52,9 @@ It's a call from ｛Sassa＊＊｝.)");
     SEWait();
     MsgDisp("主人公","Yes, hello.");
     VoicePlay("J040200001_02_040");
-    MsgDisp("Sassa","Hey, I'm here.
-I was wondering if you don't mind if I
-call you right now.?");
+    MsgDisp("Sassa","Hey, it's me.
+I was wondering if it's okay to call you
+right now?");
     MsgDisp("主人公","Yeah, I'm fine.
 So?");
     VoicePlay("J040200001_02_050");
