@@ -14,7 +14,7 @@ That's good, Ryo-kun.
 You're doubting me right?\"");
 MsgClear();
 MsgDisp("","After school, when I listen to Honda
-talk, in the blink fo an eye it's
+talk, in the blink of an eye it's
 already evening.");
 MsgDisp("","Honda really is strange. It's as if
 he senses when we're losing interest,
@@ -53,9 +53,9 @@ invite her today. If this was going
 to happen, I should've just asked her
 upfront.");
 MsgClear();
-MsgDisp("","Sometimes, when we were on the
-rooftop, she would unexpectedly show
-up.");
+MsgDisp("","With my comment, even Honda started
+getting ready to leave, dusting off
+his uniform pants as he stood up.");
 VoicePlay("Y300100400_03_010");
 MsgDisp("Honda","\"Ahー, there she is!
 Ryo-kun, Mi-kun, look!
@@ -64,7 +64,7 @@ MsgClear();
 MsgDisp("","Honda called out to us whilst holding
 onto the handrails of the rooftop.");
 VoicePlay("Y300100400_04_010");
-MsgDisp("Nanatsumori","\"What do you think, Ryo-kun?\"");
+MsgDisp("Nanatsumori","\"You heard him, Ryo-kun?\"");
 VoicePlay("Y300100400_01_020");
 MsgDisp("Kazama","Shall we check it out, Mi-kun?");
 MsgClear();
@@ -79,7 +79,7 @@ shook his head.");
 MsgClear();
 VoicePlay("Y300100400_03_020");
 MsgDisp("Honda","\"It's a telekinesis experiment.
-Who's thoughts will reach her?\"");
+Whose thoughts will reach her?\"");
 VoicePlay("Y300100400_04_020");
 MsgDisp("Nanatsumori","What's that?");
 VoicePlay("Y300100400_03_030");
@@ -90,7 +90,7 @@ MsgClear();
 MsgDisp("","\"The next instant, she turned around.
 With her usual, indescribable, gentle
 expression.\"");
-MsgDisp("","——Hey, who's voice did you hear?");
+MsgDisp("","——Hey, whose voice did you hear?");
 BGMStop();
 MsgClear();
 MsgClose();

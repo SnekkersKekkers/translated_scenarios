@@ -12,9 +12,9 @@ ScrFadeIn(0);
 MsgDisp("","His swirl is lovely today too.
 If I come to the shopping mall, my
 feet naturally gravitate here.");
-MsgDisp("","In elementary school, my Mum told me
+MsgDisp("","In middle school, my Mum told me
 about him. Since then, I've often
-comehere by myself to see him.");
+come here by myself to see him.");
 MsgClear();
 MsgDisp("","But the other day, for the first time
 I took someone outside of my family
@@ -34,15 +34,15 @@ nostalgic feeling.");
 VoicePlay("Y300300100_03_010");
 MsgDisp("Honda","(Huh...is it close to the feeling
 when I was talking to my sister in
-elementary school? But, it's little
+middle school? But, it's a little
 bit different...)");
 MsgDisp("","She nodded happily, and asked more
 questions as if she wanted to hear
 more.");
 MsgClear();
-MsgDisp("","I wonder if that when I'm with her,
-would I be able to feel this strange
-feeling in my chest again...");
+MsgDisp("","I wonder if I'd be able to feel this
+strange feeling in my chest again
+if I spent time with her...");
 MsgDisp("","This is my origin here. Roots. But
 there are so many things I like about
 this town.");

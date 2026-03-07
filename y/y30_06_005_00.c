@@ -18,7 +18,7 @@ MsgClear();
 MsgDisp("","It's been two months since she
 graduated.");
 MsgDisp("","It's the same as it was then, as it
-is now. when wwe went out together on
+is now. When we went out together on
 the weekends, she would check the
 same thing.");
 MsgDisp("","How's school life going?
@@ -93,14 +93,14 @@ of this school.");
 MsgClear();
 MsgDisp("","The importance and value of sharing
 time—— that was something taught to
-be completely by her.");
+me completely by her.");
 MsgDisp("","When I told her about my committee
 activities. Just as I had intended,
 it became a topic that would reassure
 her.");
 MsgClear();
 VoicePlay("Y300600500_06_010");
-MsgDisp("Himuro","\"Yeah, good. WIth this order,
+MsgDisp("Himuro","\"Yeah, good. With this order,
 progression will be smooth.
 Excellent.\"");
 VoicePlay("Y300600500_40_020");

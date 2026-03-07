@@ -56,7 +56,7 @@ MsgClear();
 MsgDisp("","It was as if we weren't on a snowy
 mountain...
 I felt warm...");
-MsgDisp("","It was thanks to her drinking Amazuke
+MsgDisp("","It was thanks to her drinking Amazake
 at Kamakura Cafe with me and happily
 listening to me talk.");
 VoicePlay("Y300500100_05_040");

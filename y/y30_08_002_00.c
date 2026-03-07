@@ -33,7 +33,7 @@ MsgDisp("","I didn't think too deeply about going
 to Hanegasaki High School.");
 MsgDisp("","Reason bein', my big bro went there.
 It's said ta be a good school.
-There interestin' teachers too.");
+There's interestin' teachers too.");
 MsgDisp("","That's why, that's the reason.");
 MsgClear();
 MsgDisp("","Even if I'm sayin' so myself, my

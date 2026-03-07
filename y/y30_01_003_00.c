@@ -54,8 +54,8 @@ MsgClear();
 BGOpen("ad131",0);
 MsgDisp("","｛主人公名前｝...I've known. From the day
 of the entrance ceremony.");
-MsgDisp("","The reason why I'm here isn't to
-keep the promise I made with Dad.");
+MsgDisp("","The reason I'm here, and why I can't
+keep my promise to Dad.");
 MsgDisp("","Saying I'm training with Grandpa is
 just a disrespectful excuse to both
 Dad and Grandpa.");

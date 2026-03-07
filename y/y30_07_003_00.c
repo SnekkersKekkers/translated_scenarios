@@ -57,14 +57,14 @@ than most people, but when I see her,
 I naturally unintentionally smile.");
 MsgDisp("","That's the kind of girl she is.");
 MsgClear();
-MsgDisp("主人公","\"I planted them next to
-｛Mikage＊＊｝'s bulbs.'\"");
+MsgDisp("主人公","\"I'll plant them next to
+｛Mikage＊＊｝'s bulbs.\"");
 VoicePlay("Y300700300_07_030");
 MsgDisp("Mikage","\"Uh-huh. When they bloom, we can tell
 our fortunes based off the colour of
 the flowers.\"");
 MsgDisp("主人公","\"Hehe!
-Yes, I look forwards to it.\"");
+Yes, I look forward to it.\"");
 SEPlay("EV_SE_SCHOOL_001");
 Wait(60,0);
 VoicePlay("Y300700300_07_040");

@@ -21,8 +21,8 @@ MsgDisp("","It rained hard the days before so the
 soil was quite wet. We dug sweet
 potatoes and played in the mud.");
 MsgClear();
-MsgDisp("","I had trouble pulling her up from the
-ground.");
+MsgDisp("","She was having trouble pulling them
+out of the ground.");
 MsgDisp("","But I couldn't bear to watch her, so
 I helped her out.");
 MsgDisp("","It was like a fairy tale about

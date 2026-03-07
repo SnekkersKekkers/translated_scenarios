@@ -44,11 +44,11 @@ MsgDisp("","...Big sis?");
 MsgDisp("","Even though I've only seen her a few
 times and she only just came over to
 our house...");
-MsgDisp("","Why do she understand my feelin's?");
+MsgDisp("","Why does she understand my feelin's?");
 MsgClear();
 VoicePlay("Y300800300_09_030");
 MsgDisp("Kuya","\"She says it's a woman's intuition.\"");
-MsgDisp("","With that, big bro left my rom.");
+MsgDisp("","With that, big bro left my room.");
 MsgDisp("","Big sis's intuition...");
 MsgClear();
 SEPlay("EV_SE_DOOR_007");
@@ -56,7 +56,7 @@ MsgDisp("","(*CLICK*)");
 MsgDisp("","In his place, big sis entered my
 room, smilin' widely.");
 MsgDisp("","After this, it goes without sayin'
-that big sis barraged me with with
+that big sis barraged me with
 questions....");
 MsgClear();
 MsgClose();

@@ -76,7 +76,7 @@ I felt as if I was on par with the
 legendary high school model.");
 MsgDisp("","I wonder if somewhere in my heart I'm
 becoming conscious of Hazuki-san's
-actions. It's might be a respect
+actions. It might be a respect
 thing.");
 MsgClear();
 MsgDisp("","Things like the way he talked, his
@@ -117,7 +117,7 @@ MsgDisp("","I'm not being influenced by
 Hazuki-sa——");
 MsgClear();
 MsgDisp("","As she continued to laugh lightly,
-the continuation fo the words in my
+the continuation of the words in my
 head, were swallowed alongside with
 the piping hot coffee.");
 BGMStop();

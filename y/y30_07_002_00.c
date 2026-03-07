@@ -11,7 +11,7 @@ be absent due to family
 circumstances.\"");
 SEPlay("EV_SE_GAYA_007");
 Wait(50,0);
-MsgDisp("","The schoolplay is the highlight of
+MsgDisp("","The school play is the highlight of
 the cultural festival. If the lead
 actor isn't here, we can't start.");
 MsgClear();
@@ -28,8 +28,8 @@ who worked so hard. I wanted her to
 take the stage");
 MsgClear();
 VoicePlay("Y300700200_45_000");
-MsgDisp("School Girl B","\"For now, should we stop the school
-play?\"");
+MsgDisp("School Girl B","\"No way, is the school play going to
+be cancelled...?\"");
 MsgDisp("","The quiet voices of the female
 students rippled across the
 classroom.");
@@ -65,7 +65,7 @@ SEPlay("EV_SE_815",0,0.8);
 Wait(20,0);
 SEPlay("EV_SE_621");
 Wait(30,0);
-MsgDisp("","The male students pf the class stood
+MsgDisp("","The male students of the class stood
 on their seats.");
 VoicePlay("Y300700200_07_030");
 MsgDisp("Mikage","\"I understand you guys' feelings
@@ -106,8 +106,8 @@ would push me like this.");
 MsgClear();
 VoicePlay("Y300700200_32_020");
 MsgDisp("VP Himuro","\"I have experience with this too.
-And such, now I have no regrets of
-it.\"");
+And now, I have no regrets about it
+whatsoever.\"");
 VoicePlay("Y300700200_07_060");
 MsgDisp("Mikage","\"Eh?
 Vice Principal Himuro was in a school
@@ -117,8 +117,8 @@ guard down a little, as if he was
 reminiscing about the past.");
 MsgClear();
 VoicePlay("Y300700200_32_030");
-MsgDisp("VP Himuro","Talk with it carefully with your
-students and make decision.");
+MsgDisp("VP Himuro","Talk it over carefully with your
+students and make a decision.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ScrFadeOut(0);
 SEWait();

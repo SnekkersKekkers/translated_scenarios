@@ -12,7 +12,7 @@ Ryota-senpai, Nozomu-senpai and
 ｛主人公苗字｝ -senpai a lot.");
 MsgClear();
 MsgDisp("","I wonder what triggered this.");
-MsgDisp("","I can't remember now, but it much
+MsgDisp("","I can't remember now, but it must
 have been her....
 ｛主人公苗字｝ -senpai was the reason.");
 MsgDisp("","Maybe because I met her shortly after
@@ -127,7 +127,7 @@ MsgClear();
 VoicePlay("Y300600400_06_010");
 MsgDisp("Himuro","\"It's none of your business.
 Come on, let's hurry up and eat.\"");
-MsgDisp("","Evn though I snapped at them like
+MsgDisp("","Even though I snapped at them like
 that, they just laughed it off.");
 MsgDisp("","Sooner or later, they won't be at
 this school.

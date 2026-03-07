@@ -13,9 +13,9 @@ Are we not?\"");
 MsgDisp("","｛主人公名前｝, from time to time, will
 come to my house and cook for me.");
 MsgClear();
-MsgDisp("","After I graduated and while I'm
-studying in university, I'll help out
-at my Grandpa's shop.");
+MsgDisp("","After graduating, while attending
+university, I help out at my
+Grandpa's shop.");
 MsgDisp("","Even though she's supposed to be busy
 with her new life too, she'll still
 be overly helpful like this.");
@@ -56,7 +56,7 @@ with a happy expression on her face.");
 MsgDisp("主人公","\"...Hey, is it good?\"");
 MsgClear();
 MsgDisp("","I nodded greatly, and softly put a
-hand on ｛主人公名前｝'s head.'");
+hand on ｛主人公名前｝'s head.");
 MsgDisp("主人公","\"｛Kazama＊＊｝...?\"");
 VoicePlay("Y300100500_01_030");
 MsgDisp("Kazama","\"It's truly delicious...\"");

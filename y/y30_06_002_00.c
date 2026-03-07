@@ -18,9 +18,9 @@ MsgDisp("","In doing the rounds, of course, we
 show up at Reiichi-san's house.
 Naturally, I haven't even missed this
 once.");
-MsgDisp("","Since I gained conscience, until this
+MsgDisp("","Since as long as I can remember,
 year I had thought it was a
-commonplace occurence.");
+commonplace occurrence.");
 MsgClear();
 MsgDisp("","This year however—— An exception to
 this situation has occurred.");

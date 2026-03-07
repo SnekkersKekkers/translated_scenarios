@@ -2,8 +2,8 @@ MsgType(3);
 BGMPlay("BGM_C03_HONDA_I",0.01);
 BGOpen("ad320",0);
 ScrFadeIn(0);
-MsgDisp("","The'Quiz Brain Interhigh' is the most
-enjoyable.");
+MsgDisp("","The 'Quiz Brain Interhigh' is the
+most enjoyable.");
 MsgDisp("","The title of Quiz King, the crown,
 and the gown felt great.
 I wish they had given them to me...");
@@ -69,10 +69,8 @@ ScrFadeIn(0);
 MsgDisp("","How long did we talk for I wonder...
 It had gotten completely dark.");
 MsgDisp("","I probably told her a lot of things
-she didn't even ask. I must have
-talked about a lot of things that
-weren't asked. But she nodded happily
-and kept listening.");
+she didn't even ask. But she nodded
+happily and kept listening.");
 MsgDisp("","...I, really do like talking to her.");
 BGMStop();
 MsgClear();

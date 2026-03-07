@@ -9,7 +9,7 @@ MsgDisp("","Both hands are filled with bright red
 strawberries I harvested.");
 MsgDisp("","This is the third year of growing
 strawberries at Habataki green farm.
-This year they're the best quality/");
+This year they're the best quality.");
 MsgClear();
 MsgDisp("","With the quality this good, it's
 disappointing I'll have to eat them
@@ -41,7 +41,7 @@ MsgDisp("","I'll make a fruit sandwich.");
 SEPlay("EV_SE_811");
 Wait(30,0);
 MsgDisp("","Whilst cooling it with ice, I'll whip
-some fresh cream in a bowl I like
+some fresh cream in a bowl. I like
 this kind of work.");
 MsgClear();
 SEStop("EV_SE_811",2);
@@ -60,7 +60,7 @@ BGOpen("ad712",0);
 ScrFadeIn(0);
 VoicePlay("Y300700100_07_010");
 MsgDisp("Mikage","\"The cherry blossoms are beautiful.
-Won't you come see it?\"");
+Won't you come see them?\"");
 BGMStop();
 MsgClear();
 MsgClose();

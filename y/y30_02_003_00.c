@@ -19,11 +19,11 @@ seniors, and just continued
 practicing in a way that I was
 satisfied with.");
 MsgClear();
-MsgDisp("","I insisted on doing it my way, but In
+MsgDisp("","I insisted on doing it my way, but in
 the end, I couldn't win overall
 victory by placing first in all
 events.");
-MsgDisp("","I intended to stop that yet...");
+MsgDisp("","I intended to end it there...");
 MsgDisp("","But my seniors in third year gave me
 a push. They even said that my
 challenge was their dream.");

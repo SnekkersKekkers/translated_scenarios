@@ -4,7 +4,7 @@ BGOpen("ad450",0);
 ScrFadeIn(0);
 VoicePlay("Y300400500_04_000");
 MsgDisp("Nanatsumori","\"Then...
-It's time head in.\"");
+It's time to head in.\"");
 MsgClear();
 MsgDisp("","Even though it's my house...my family
 home, I'm even more nervous than she
@@ -17,7 +17,7 @@ BGMPlay("BGM_C04_NANA_C",0.01);
 BGOpen("ad451",0);
 VoicePlay("Y300400500_04_010");
 MsgDisp("Nanatsumori","\"I'm home.\"");
-MsgDisp("","It's been over three years since I've
+MsgDisp("","It's been over three years since I
 came home, the entrance of my family
 home has a faintly sweet scent.");
 MsgClear();
@@ -41,7 +41,7 @@ girlfriend.");
 MsgClear();
 MsgDisp("","I had planned on staying for my
 mother's hospitality in the living
-froom for a little while before
+room for a little while before
 returning to my room——");
 SEPlay("EV_SE_DOOR_007");
 SEWait();

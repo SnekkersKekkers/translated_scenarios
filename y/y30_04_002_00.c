@@ -7,7 +7,7 @@ MsgDisp("","Thinking back, I'm surprised I even
 got in.");
 MsgClear();
 MsgDisp("","It was a day in my 3rd year of
-elementary school. If I hadn't come
+middle school. If I hadn't come
 to Habataki City, I wouldn't be here
 now.");
 MsgDisp("","I also definitely wouldn't have

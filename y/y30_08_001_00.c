@@ -83,7 +83,7 @@ MsgClear();
 MsgDisp("","\"Thanks\", she said, smilin' while
 acceptin' the cup.");
 MsgDisp("","No good...
-With that, my hearts beatin'....");
+With that, my heart's beatin'....");
 MsgDisp("","I feel like I'm fallin' in love...!");
 MsgClear();
 MsgClose();

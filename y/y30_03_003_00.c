@@ -42,7 +42,7 @@ BGOpen("ad330",0);
 ScrFadeIn(0);
 MsgDisp("","A long time ago, when I discovered
 things I didn't know or didn't
-realize, I would be supper happy.");
+realize, I would be super happy.");
 MsgDisp("","But, I never thought such a change
 within me would occur. A chemical
 reaction...a thermal reaction?");

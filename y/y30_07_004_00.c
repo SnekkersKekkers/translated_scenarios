@@ -6,7 +6,7 @@ VoicePlay("Y300700400_05_000");
 MsgDisp("Hiiragi","Mikage-sensei, what are your plans
 for this weekend?");
 MsgDisp("","The student council room after
-school. Yansosuke, who was reporting
+school. Yanosuke, who was reporting
 activities onto his laptop, looked up
 at me.");
 VoicePlay("Y300700400_07_000");
@@ -39,7 +39,7 @@ VoicePlay("Y300700400_06_000");
 MsgDisp("Himuro","Excuse me.");
 MsgDisp("","Inori. Himuro Inori. He's well known
 within this school. He's the nephew
-of Vice Principal Inori.");
+of Vice Principal Himuro.");
 VoicePlay("Y300700400_07_020");
 MsgDisp("Mikage","\"You came at a good time. Just now,
 Yanosuke was inviting us out. Will
@@ -77,7 +77,7 @@ out, of course I'm happy.\"");
 MsgDisp("","I said that, placing my hand on
 Inori's shoulder, he seemed a little
 annoyed. He seemed more stiff than
-before../");
+before...");
 MsgDisp("","Maybe he's opened up considerably.");
 MsgClear();
 BGOpen("ad742",0);

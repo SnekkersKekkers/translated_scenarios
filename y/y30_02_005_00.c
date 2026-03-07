@@ -42,7 +42,7 @@ MsgClear();
 MsgDisp("主人公","\"Hey, ｛Sassa＊＊｝.
 One more round?
 Beach dash!\"");
-MsgDisp("","With this, surely my rank is bellow
+MsgDisp("","With this, surely my rank is below
 her.");
 MsgClear();
 VoicePlay("Y300200500_02_020");

@@ -54,8 +54,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClear();
 VoicePlay("Y300500300_05_040");
-MsgDisp("Hiiragi","\"...You must have been disillusioned
-by this kind of me.\"");
+MsgDisp("Hiiragi","\"...You must be disillusioned
+with me like this.\"");
 MsgDisp("","But, by chance, maybe it's a good
 thing you got to see the real me.");
 MsgDisp("","Being chairman and in the student
@@ -63,10 +63,9 @@ council...I'm only good at keeping up
 with appearances, this is the real
 me.");
 MsgClear();
-MsgDisp("主人公","\"No, ｛Hiiragi＊＊＊｝, for the sake of
-everyone always gives it his best in
-both the theatre troupe and student
-council.\"");
+MsgDisp("主人公","\"No, ｛Hiiragi＊＊＊｝ always gives it
+his best for everyone in both the
+theatre troupe and student council.\"");
 MsgDisp("","Even when you see me like this, you
 still say that.");
 MsgClear();
@@ -96,7 +95,7 @@ But...");
 MsgClear();
 VoicePlay("Y300500300_05_050");
 MsgDisp("Hiiragi","(But, what I should do...
-I don't know even know that.)");
+I don't even know that.)");
 BGMStop();
 MsgClear();
 MsgClose();

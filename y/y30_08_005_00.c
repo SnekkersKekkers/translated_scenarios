@@ -4,7 +4,7 @@ BGOpen("ad850",0);
 ScrFadeIn(0);
 MsgDisp("","I've gotten too accustomed to waitin'
 for her at the gates of Haba High.");
-MsgDisp("","I wonder why...my hearts beatin'
+MsgDisp("","I wonder why...my heart's beatin'
 fast.");
 MsgDisp("","Even the glances I get from people
 passin' by in different school
@@ -61,7 +61,7 @@ MsgDisp("Daichi","\"Eh, um...\"");
 MsgDisp("","I was so intimidated by the tall,
 glasses-wearin' teacher I couldn't
 get my words out properly. With this,
-I must seriously look like an
+I must seriously look like a
 suspicious person...");
 MsgClear();
 VoicePlay("Y300800500_08_020");

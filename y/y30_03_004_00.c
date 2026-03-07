@@ -29,7 +29,7 @@ school, so it's difficult to
 understand his facial expressions.
 But his voice sounds like he's
 amused.");
-MsgDisp("","Today's theme will interest surely
+MsgDisp("","Today's theme will surely interest
 even you two, I said, laughing——");
 MsgClear();
 VoicePlay("Y300300400_01_010");
@@ -77,7 +77,7 @@ MsgClear();
 VoicePlay("Y300300400_03_030");
 MsgDisp("Honda","\"Right, right, that's her.
 ever-changing and with no key to
-understanding her. That's whys he's
+understanding her. That's why she's
 interesting.\"");
 VoicePlay("Y300300400_04_030");
 MsgDisp("Nanatsumori","\"True...\"");

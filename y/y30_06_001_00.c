@@ -2,9 +2,9 @@ MsgType(3);
 BGMPlay("BGM_C06_INORI_B",0.01);
 BGOpen("ad610",0);
 ScrFadeIn(0);
-MsgDisp("","Third year of middle school.
-My classmates were noisily talking
-over a piece of paper.");
+MsgDisp("","Early summer, third year of middle
+school. My classmates were noisily
+talking over a piece of paper.");
 MsgDisp("","It was the career path survey sheet
 handed out during the homeroom at the
 end of the day.");
@@ -13,7 +13,7 @@ MsgDisp("","Students at Habataki's Middle School
 generally advance to the high school
 division through the escalator
 system.");
-MsgDisp("","Of course, to advance There's
+MsgDisp("","Of course, to advance there are
 required grades in addition, and you
 need to take a written exam.");
 MsgDisp("","To me, it's like both those hurdles
@@ -81,7 +81,7 @@ realize something. When I advance
 onto the high school division——");
 MsgClear();
 MsgDisp("","I'll be labelled as 'that relative of
-Vice Principal of Himuro' It's easy
+Vice Principal Himuro'. It's easy
 to imagine being looked at with
 curiosity.");
 MsgDisp("","That's how strong of an impression,
@@ -157,8 +157,8 @@ MsgDisp("","The answer is already clear.");
 VoicePlay("Y300600100_06_040");
 MsgDisp("Himuro","\"Because I am who I am.\"");
 MsgClear();
-MsgDisp("","Muttering this, I stared into the
-horizon and stretched.");
+MsgDisp("","Muttering this, I stared at the
+horizon stretching out to my left.");
 MsgDisp("","As I bathed in the early summer sun,
 the sparkling ocean was even more
 dazzling than usual.");

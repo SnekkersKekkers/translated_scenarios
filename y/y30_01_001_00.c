@@ -46,7 +46,7 @@ MsgClear();
 MsgDisp("","That Sunday, I locked myself in my
 room and looked up the distance to
 England in the encyclopedia I had
-received for graduating.");
+received for starting school.");
 MsgDisp("","9000 kilometers...We had never even
 traveled to nearby towns before. That
 distance felt impossible.");

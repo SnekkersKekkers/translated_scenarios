@@ -21,8 +21,8 @@ this.");
 MsgClear();
 VoicePlay("Y300500400_05_000");
 MsgDisp("Hiiragi","\"Yes.
-Mikage-sensei, Didn't you go on a
-bike today\"");
+Mikage-sensei, didn't you go on a
+bike today?\"");
 MsgDisp("","As I said that, he touches the tie on
 his suit, and says; \"Today is no good
 huh?\" and gives me a smile that makes
@@ -47,13 +47,13 @@ MsgDisp("Mikage","\"Ohh, are you the rumoured high
 school chairman?\"");
 VoicePlay("Y300500400_05_020");
 MsgDisp("Hiiragi","\"Eh? Yes...My name is Hiiragi
-Yanosuke. ...Are a staff member?\"");
+Yanosuke. ...Are you a staff member?\"");
 MsgDisp("","When I asked curiously, he showed me
 the same smile as before.");
 MsgClear();
 VoicePlay("Y300500400_07_020");
 MsgDisp("Mikage","\"My name is Kojiro Mikage. I'm a
-teacher here. I look forwards to
+teacher here. I look forward to
 seeing you around?\"");
 MsgDisp("","——From the day I went for the
 entrance ceremony procedures, he has
@@ -109,7 +109,7 @@ ScrFadeIn(0);
 MsgDisp("","——And there's one more person.
 They're a mysterious person who makes
 the two of us...maybe Mikage-sensei
-too, smile maturely.");
+too, smile naturally.");
 MsgDisp("主人公","\"What is everyone talking about?\"");
 MsgDisp("","A smile illuminated by the orange of
 the sunset.");
@@ -118,8 +118,8 @@ MsgDisp("","｛主人公苗字｝ ｛主人公名前｝.");
 MsgDisp("","When we heard her voice, me and Inori
 made a little eye contact, and looked
 at Mikage-sensei.");
-MsgDisp("","Then, he raised his shoulders and
-brows and gave us a big smile.
+MsgDisp("","Then, he raised one eyebrow
+and gave us a big smile.
 Perhaps...Mikage-sensei is interested
 in her?");
 MsgClear();
