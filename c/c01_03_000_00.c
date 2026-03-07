@@ -28,8 +28,8 @@ I was running away from you.");
 MsgDisp("主人公","No, I'm the one who...");
 VoicePlay("C010300000_03_040");
 MsgDisp("Honda","Then, this conversation's over!
-Next talk, let's make it a more beneficial
-one?");
+Next time, let's have a more enjoyable
+chat, yeah?");
 VoicePlay("C010300000_03_050");
 MsgDisp("Honda","Then...
 Later, yeah?");

@@ -191,8 +191,8 @@ NSSEye(1,0);
 NSSMouth(1,0);
 VoicePlay("A020100000_01_130");
 MsgDisp("Kazama","My dad still has work over there, but
-since Grandpa owns an antique store here I
-decided to live here on my own for a while.");
+Grandpa runs an antique store here,
+so I decided to live on my own a while.");
 MsgDisp("主人公","You're gonna live in that big house all by
 yourself?
 Well, if you're ever in trouble—");
