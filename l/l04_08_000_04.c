@@ -25,7 +25,7 @@ He seemed happy!)");
     ChMotion(8,1,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("L040800004_08_020");
-    MsgDisp("Shirahane","Ah, this handmade?");
+    MsgDisp("Shirahane","Ah, is this handmade?");
     MsgDisp("主人公","Yes, I did my best.");
     ChEye(8,0);
     ChMouth(8,3);

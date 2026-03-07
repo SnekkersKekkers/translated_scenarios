@@ -97,9 +97,9 @@ Won't Himuro-sensei scold you...?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("L040700002_07_110");
-    MsgDisp("Mikage","It's fine. I'll eat it sneakily. Though,
-it feels wrong to do that considering you
-put your all into it.");
+    MsgDisp("Mikage","It's fine. It'd feel wrong to eat it
+sneakily, considering you put your all
+into it.");
     MsgDisp("主人公","(Thank goodness!
 ｛Mikage＊＊｝ seemed happy.
 But will he be fine...?)");

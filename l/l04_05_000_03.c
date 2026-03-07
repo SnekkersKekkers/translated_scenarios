@@ -39,8 +39,8 @@ Thank you.");
     ChMotion(5,3);
     VoicePlay("L040500003_05_040");
     MsgDisp("Hiiragi","Of course I do.
-You must have put a lot of effort into
-choosing it.");
+You must have put a lot of thought into
+choosing and making it.");
     MsgDisp("主人公","Yes, I'm glad I made it myself.");
     ChEye(5,4);
     ChMouth(5,4);

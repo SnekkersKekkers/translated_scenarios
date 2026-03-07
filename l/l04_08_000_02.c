@@ -80,8 +80,8 @@ today...");
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800002_08_080");
     VoiceEVSPlay(8);
-    MsgDisp("Shirahane","So I'll be braggin' 'bout this chocolate
-until I get scolded by the manager.
+    MsgDisp("Shirahane","So I'll go brag 'bout this chocolate
+before the manager scolds me.
 Thanks, ｛主人公｝.");
     MsgDisp("主人公","(Huh!? Will he be fine...
 But, he seemed really happy.

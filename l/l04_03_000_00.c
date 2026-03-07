@@ -37,7 +37,7 @@ Can I guess?");
     VoicePlay("L040300000_03_020");
     MsgDisp("Honda","No!
 I won't.
-I'd be awkward if I was wrong.");
+It'd be awkward if I was wrong.");
     MsgDisp("主人公","Hehe!
 Here you go.
 Valentine's chocolate.");

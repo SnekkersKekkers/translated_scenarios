@@ -94,7 +94,7 @@ reason to be proud.");
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600004_06_100");
     MsgDisp("Himuro","I see you put your feelings in these, too.
-Thanks, for the snack.");
+Thanks for the snack.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

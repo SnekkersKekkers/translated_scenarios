@@ -14,14 +14,14 @@ This is expensive, isn't it?");
     ChMotion(1,0);
     VoicePlay("L040100002_01_010");
     MsgDisp("Kazama","I guess so.
-You do sometimes trouble me.");
+I do look after you a lot.");
     MsgDisp("主人公","Geez.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100002_01_020");
-    MsgDisp("Kazama","Well, I'll take it as a good luck charm.
-Thank you very much.");
+    MsgDisp("Kazama","Well, I'll accept it as payment for
+looking after you. Thank you very much.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -95,7 +95,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(｛Kazama＊＊｝ was happy about it, right?");
+    MsgDisp("主人公","(｛Kazama＊＊｝ was happy about it, right?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

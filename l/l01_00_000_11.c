@@ -43,8 +43,8 @@ Let's start.");
     ChClose(22,0,30);
     break ;
     case 1:
-    MsgDisp("主人公","Yeah, I don't need to this time.
-Let's reject them...");
+    MsgDisp("主人公","Yeah, I think I'll pass this time.
+I'll turn them down...");
     MsgClose();
     ScrFadeOut(0);
     break ;

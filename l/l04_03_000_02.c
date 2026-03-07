@@ -14,7 +14,7 @@ Is it fine if I take this?");
     ChMotion(3,1);
     VoicePlay("L040300002_03_010");
     MsgDisp("Honda","I see. We don't get this often, so I'll
-have with my sister. Thanks!");
+have it with my sister. Thanks!");
     MsgDisp("主人公","(Was it too much...?)");
     break ;
     case 3:
@@ -36,7 +36,7 @@ aroma of the cacao beans they mentioned.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300002_03_040");
-    MsgDisp("Honda","I'l savor it.
+    MsgDisp("Honda","I'll savor it.
 Thank you!");
     MsgDisp("主人公","(Thank goodness.
 ｛Honda＊＊｝ seemed happy.)");

@@ -37,7 +37,7 @@ Valentine's chocolate?");
     ChMouth(7,4);
     ChMotion(7,0);
     VoicePlay("L040700000_07_030");
-    MsgDisp("Mikage","The rule that says teacher's can't accept,
+    MsgDisp("Mikage","The rule that says teachers can't accept,
 huh?");
     MsgDisp("主人公","Ah, is it really not allowed...?");
     ChEye(7,0);

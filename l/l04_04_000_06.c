@@ -67,7 +67,7 @@ But, you did your best, right?");
     MsgDisp("主人公","Yes.");
     ChMotion(4,0);
     VoicePlay("L040400006_04_070");
-    MsgDisp("Nanatsumori","On this, for me.");
+    MsgDisp("Nanatsumori","This, just for me.");
     MsgDisp("主人公","Yes.");
     ChEye(4,0);
     ChMouth(4,3);

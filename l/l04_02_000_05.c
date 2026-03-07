@@ -112,7 +112,7 @@ something for me.");
     ChClose(2);
     Wait(30);
     MsgDisp("主人公","(I added something he didn't like...
-But, he seemed pleased enough.))");
+But, he seemed pleased enough.)");
     break ;
     default :
     DbgAssert(1);

@@ -44,8 +44,8 @@ Really?");
     ChMotion(1,1);
     VoicePlay("L040100001_01_040");
     MsgDisp("Kazama","Yeah.
-Simon's customers, and grandmothers out
-for shopping at the mall.");
+Simon's customers, and grandmothers from
+the shopping district.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);

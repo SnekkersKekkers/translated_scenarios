@@ -61,7 +61,7 @@ I should've tried harder...)");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300006_03_070");
-    MsgDisp("Honda","I see, that's come.");
+    MsgDisp("Honda","I see, so that's how they are.");
     MsgDisp("主人公","｛Honda＊＊｝?");
     ChEye(3,0);
     ChMouth(3,3);
