@@ -5,7 +5,7 @@ SEPlay("EV_SE_049");
 SEPlay("EV_SE_006",0,0.4);
 SEWait();
 VoicePlay("M010200000_02_000");
-MsgDisp("Sassa?","She's sleeping...
+MsgDisp("Sassa?","Ow, ow...
 S-Sorry.
 Ah, no, it's fine.");
 MsgDisp("主人公","Ehh∋ this voice is...");
@@ -49,10 +49,11 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("M010200000_02_050");
 MsgDisp("Sassa","I gave up and cut it short.
-Either way, I was wondering about you so
-my body wasn't feeling it.");
-MsgDisp("主人公","Di, did you? I'm sorry. I'm resting a lot,
-I think I can go to school soon.");
+Either way, I was worried about you so
+I couldn't focus.");
+MsgDisp("主人公","D-Did you? I'm sorry.
+I rested a lot, so I think I can go to
+school soon.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

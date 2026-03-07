@@ -37,8 +37,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("M010600000_06_040");
-MsgDisp("Himuro","Moreover, what if you took better care of
-yourself?");
+MsgDisp("Himuro","More importantly, shouldn't you be more
+aware of your health?");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -53,12 +53,12 @@ ChMotion(6,0);
 VoicePlay("M010600000_06_060");
 MsgDisp("Himuro","Resting at certain times is important too.
 'More haste, less speed' as they say.");
-MsgDisp("主人公","That's true isn't it...");
+MsgDisp("主人公","That's true, isn't it...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("M010600000_06_070");
-MsgDisp("Himuro","...Well, just be on guard from now on.");
+MsgDisp("Himuro","...Well, just be careful from now on.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);

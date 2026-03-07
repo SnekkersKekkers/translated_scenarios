@@ -27,8 +27,9 @@ Get well soon.
 So we can hang out at school again.");
 MsgDisp("主人公","Okay!");
 VoicePlay("M022200000_22_050");
-MsgDisp("Hikaru","Mari sounds healthy. What a relief.
-Now Hikaru can feel better, too.");
+MsgDisp("Hikaru","Phew... Thank goodness.
+Hearing Mari's cheerful voice...
+Hikaru feels a bit better now, too.");
 MsgDisp("主人公","Hehe, I'm glad.");
 VoicePlay("M022200000_22_060");
 MsgDisp("Hikaru","Hehe▼

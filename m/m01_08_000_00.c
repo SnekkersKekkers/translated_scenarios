@@ -25,7 +25,7 @@ VoicePlay("M010800000_08_020");
 MsgDisp("Shirahane","Ah...
 Sorry, yeah?
 For shouting.");
-MsgDisp("主人公","MmMmm.
+MsgDisp("主人公","Mm-mm.
 So you came to wish me well?");
 ChEye(8,4);
 ChMouth(8,0);
@@ -53,7 +53,7 @@ ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("M010800000_08_070");
 MsgDisp("Shirahane","Heheh, that's good!
-I'll be biding the time.");
+I'll be waiting for ya.");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,0,1);

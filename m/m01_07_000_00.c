@@ -34,10 +34,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("M010700000_07_060");
-MsgDisp("Mikage","Listen? I love how you put your all into
-everything. But you know, there's a
-difference between doing your best and
-overdoing it.");
+MsgDisp("Mikage","Listen. I love how you put your all
+into everything. But there's a difference
+between doing your best and overdoing it.");
 MsgDisp("主人公","Yes...
 I understand.");
 ChEye(7,0);

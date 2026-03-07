@@ -5,13 +5,14 @@ VoicePlay("M010500000_05_000");
 MsgDisp("Hiiragi?","Good evening, pardon my suddenness.");
 MsgDisp("主人公","Eh, ｛Hiiragi＊＊＊｝∋");
 VoicePlay("M010500000_05_010");
-MsgDisp("Hiiragi","How are you fairing?");
+MsgDisp("Hiiragi","How are you faring?");
 MsgDisp("主人公","Mm, I've gotten a lot better.
 Sorry...
 I made you worry.");
 VoicePlay("M010500000_05_020");
-MsgDisp("Hiiragi","...I see. I can be at ease now that I've
-heard your voice. Please rest. Well, then.");
+MsgDisp("Hiiragi","...I see.
+I can rest easy now that I've heard your
+voice. Please rest. Take care.");
 MsgDisp("主人公","Eh∋
 Wait a minute...!");
 MsgClose();
@@ -46,15 +47,15 @@ were seeking you out.");
 ChEye(5,2);
 ChMotion(5,1);
 VoicePlay("M010500000_05_070");
-MsgDisp("Hiiragi","I became a wandering-eyed, and strange
+MsgDisp("Hiiragi","I became a wandering-eyed and strange
 person.");
 MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, that doesn't sound like
 you.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("M010500000_05_080");
-MsgDisp("Hiiragi","With that, a smile that is more like you
-has returned to your face, yes?");
+MsgDisp("Hiiragi","It seems a smile more like yourself
+has returned, yes?");
 MsgDisp("主人公","Mm, thanks.
 Thanks to ｛Hiiragi＊＊＊｝ I feel a lot better
 already!");

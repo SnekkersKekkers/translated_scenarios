@@ -52,7 +52,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("M012100000_21_050");
 MsgDisp("Michiru","As a get well gift, I brought some jelly
-kashi from Himetsubakiya. So eat it later,
+sweets from Himetsubakiya. So eat it later,
 yes? It's gentle on your throat.");
 MsgDisp("主人公","Thank you.
 Next week, I'll see you at school.");

@@ -24,8 +24,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("M010400000_04_020");
-MsgDisp("Nanatsumori","I got some ice sweets that'll feel good in
-your throat, and gave them to the missus.
+MsgDisp("Nanatsumori","I got some frozen sweets that feel good
+on your throat, and gave them to your mom.
 Eat some later.");
 MsgDisp("主人公","｛Nanatsumori＊｝, thank you.");
 ChEye(4,2);
@@ -47,8 +47,8 @@ sound's left the world, it feels too
 quiet.");
 ChMotion(4,2,1);
 VoicePlay("M010400000_04_060");
-MsgDisp("Nanatsumori","I could feel all over again how big your
-existence is inside of me.");
+MsgDisp("Nanatsumori","I realized all over again just how
+important you are to me.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChMotion(4,1,1);
 VoiceEVSPlay(4);
@@ -67,7 +67,7 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("M010400000_04_090");
 MsgDisp("Nanatsumori","About time to go.
-Don't overdo it again?");
+Don't push yourself yet, okay?");
 MsgDisp("主人公","Mm.");
 ChEye(4,0);
 ChMouth(4,3);

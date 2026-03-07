@@ -55,7 +55,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("M012200000_22_070");
-MsgDisp("Hikaru","Ah, that's right. I gave a potpurri made
+MsgDisp("Hikaru","Ah, that's right. I gave a potpourri made
 from herbs and flowers to your mom. It's
 good for when you're tired.");
 ChMouth(22,3);
