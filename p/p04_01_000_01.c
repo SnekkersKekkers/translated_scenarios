@@ -28,8 +28,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("P040100001_01_030");
-MsgDisp("Kazama","You might have to change what your
-signboard says.");
+MsgDisp("Kazama","Your signboard is false advertising.");
 MsgDisp("主人公","(Haa...
 I should've prepared a little more...)");
 MsgClose();

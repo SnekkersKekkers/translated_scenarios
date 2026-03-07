@@ -48,7 +48,8 @@ Isn't that why you chose game music?");
     ChMotion(4,1,1);
     VoicePlay("P530400001_04_050");
     MsgDisp("Nanatsumori","Right, that face.
-The face of a her stepping onto the field.");
+The face of a hero stepping onto 
+the field.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Then, I'm off!");
@@ -58,7 +59,7 @@ The face of a her stepping onto the field.");
     VoicePlay("P530400001_04_060");
     MsgDisp("Nanatsumori","I wish you a good fight!");
     MsgDisp("主人公","(Alright, for everyone who came all this
-way to listen, let'd deliver a good
+way to listen, let's deliver a good
 performance!)");
     break ;
     case 4:

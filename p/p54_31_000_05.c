@@ -19,13 +19,13 @@ ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("P543100005_31_010");
 MsgDisp("Goro","Nnghー...But you did continue with the
-wind music club for the last three years.
+brass band for the last three years.
 That's truly good work.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
 MsgDisp("主人公","(Goro-sensei didn't seem pleased, huh.
 But, I think I'm truly happy that I
-continued wind music club for three years.");
+continued brass band for three years.)");
 MsgClose();
 ScrFadeOut(0);

@@ -9,8 +9,8 @@ ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("P553200003_32_000");
 MsgDisp("VP Himuro","What's wrong.");
 MsgDisp("主人公","Himuro-sensei.
-It failed by myself.
-I troubled");
+I failed all on my own.
+I caused trouble for everyone...");
 ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);

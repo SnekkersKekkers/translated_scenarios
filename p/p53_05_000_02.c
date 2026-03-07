@@ -86,7 +86,7 @@ Thank you for coming.");
     ChEyeOpenLevel(5,9);
     VoicePlay("P530500002_05_060");
     MsgDisp("Hiiragi","Heheh.
-I seem to be more tense than you, who sis
+I seem to be more tense than you, who is
 performing on stage.");
     MsgDisp("主人公","Eh?");
     ChEyeOpenLevel(5,0);

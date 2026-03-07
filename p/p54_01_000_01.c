@@ -29,7 +29,6 @@ terms with it.
 You can start practicing today, right?");
 MsgDisp("主人公","...Yeah.");
 MsgDisp("主人公","(It's as ｛Kazama＊＊｝ says.
-Kazama is right.
 I'll practice until I'm satisfied!)");
 MsgClose();
 ScrFadeOut(0,0);

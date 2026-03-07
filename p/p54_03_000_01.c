@@ -21,7 +21,7 @@ Is that right?
 I thought your arrangement was good.");
 MsgDisp("主人公","(Ughh...
 I meant to arrange it...
-I wish I practiced more...");
+I wish I practiced more...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

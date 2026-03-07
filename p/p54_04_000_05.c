@@ -32,7 +32,7 @@ Failure is the foundation of success,
 right?");
 MsgDisp("主人公","(｛Nanatsumori＊｝...Thank you. Even though it
 was a fail in the end, I'm glad I
-continued with the wind music club.)");
+continued with the brass band.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

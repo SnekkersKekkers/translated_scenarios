@@ -66,7 +66,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","...Yes!");
 MsgDisp("主人公","(｛Mikage＊＊｝ patted my head...
 I'm glad I devoted myself to club
-activities the l;ast three years...!)");
+activities the last three years...!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

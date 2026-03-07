@@ -46,7 +46,7 @@ hold your head high?");
 MsgDisp("主人公","...Thank you.");
 MsgDisp("主人公","(I might have failed in the end, But I
 made so many memories these last three
-years in the wind music club.)");
+years in the brass band.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

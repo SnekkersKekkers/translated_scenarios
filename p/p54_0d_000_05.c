@@ -23,7 +23,7 @@ ChMotion(21,4);
 VoicePlay("P540D00005_21_010");
 MsgDisp("Michiru","Your performance...even though it was like
 that, I think it's amazing you continued
-with the wind music club for three years.");
+with the brass band for three years.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -45,7 +45,7 @@ MsgDisp("Hikaru","Right, right!
 The future will shine even brighter!");
 MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝...My last
 performance was a failure, but I'm glad I
-continued with the wind music club!)");
+continued with the brass band!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

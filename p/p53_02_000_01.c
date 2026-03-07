@@ -35,7 +35,7 @@ You have to enjoy playing it, no?");
     ChMotion(2,4);
     VoicePlay("P530200001_02_030");
     MsgDisp("Sassa","Hey if you make that troubled face, it
-doesn't seem like an fun game, does it?");
+doesn't seem like a fun game, does it?");
     MsgDisp("主人公","Yeah...");
     ChEye(2,0);
     ChMouth(2,0);

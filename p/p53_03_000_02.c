@@ -38,7 +38,7 @@ Enjoy the culmination of your hard work of
 the last three years!");
     MsgDisp("主人公","(Yeah.
 This has continued for three years, so I
-have to make the last stage a success!");
+have to make the last stage a success!)");
     break ;
     case 4:
     case 5:

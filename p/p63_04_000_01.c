@@ -18,7 +18,7 @@ well-received...)");
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
-Welcome～ 1");
+Welcome～!");
     ChEye(4,2);
     ChMouth(4,0);
     ChMotion(4,1,1);

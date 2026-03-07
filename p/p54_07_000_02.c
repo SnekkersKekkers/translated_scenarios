@@ -37,7 +37,7 @@ Everyone is probably lonely without you.");
 MsgDisp("主人公","Yes!");
 MsgDisp("主人公","(Thanks to ｛Mikage＊＊｝, I was able to
 perform well.
-I', glad I gave it my all!)");
+I'm glad I gave it my all!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

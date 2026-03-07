@@ -31,7 +31,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("P240D01000_22_000");
 MsgDisp("Hikaru","That was nice...
-I anted to be Purple Angel");
+I wanted to be Purple Angel");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

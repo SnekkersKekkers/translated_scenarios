@@ -33,7 +33,7 @@ Have you grown?");
     MsgDisp("Himuro","Then, I guess I'll listen to the
 culmination of your hard work to my
 heart's content.");
-    MsgDisp("主人公","I'll leave it to you1");
+    MsgDisp("主人公","I'll leave it to you!");
     MsgDisp("主人公","(This is my last concert...
 Alright!
 Let's have fun with all my heartー∈)");
@@ -107,7 +107,7 @@ I'm off now.");
     ChMotion(6,0);
     VoicePlay("P530600002_06_100");
     MsgDisp("Himuro","...No, have fun.
-I'll see yu later.");
+I'll see you later.");
     MsgDisp("主人公","Thank you!");
     MsgDisp("主人公","(The last concert...
 Okay, let's have as much fun as we can!)");

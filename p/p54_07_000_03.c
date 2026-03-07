@@ -43,7 +43,7 @@ VoicePlay("P540700003_07_040");
 MsgDisp("Mikage","That's a nice expression.
 You should quickly show everyone that
 expression.");
-MsgDisp("主人公","(｛Mikage＊＊｝,you're kind huh...
+MsgDisp("主人公","(｛Mikage＊＊｝, you're kind huh...
 But I should have practiced more with
 everyone.)");
 MsgClose();

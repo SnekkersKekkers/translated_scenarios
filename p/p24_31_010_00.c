@@ -20,7 +20,7 @@ ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,4);
 VoicePlay("P243101000_31_010");
-MsgDisp("Goro","Then, I'll go too12");
+MsgDisp("Goro","Then, I'll go too!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);

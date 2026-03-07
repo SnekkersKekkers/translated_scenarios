@@ -83,7 +83,7 @@ I'll do my bestー!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Wow...There are alot of customers this
+    MsgDisp("主人公","(Wow...There are a lot of customers this
 year. It seems like there are more than
 last year. Ah, I'm nervous...)");
     MsgClose();
@@ -111,7 +111,8 @@ What did you expect?");
     VoicePlay("P530100001_01_110");
     MsgDisp("Kazama","A strong sense of responsibility is one of
 your great points.
-Everyone has been practicing, aren't they?");
+Everyone has been practicing, 
+haven't they?");
     MsgDisp("主人公","I see, that's right.");
     ChEye(1,0);
     ChMouth(1,3);

@@ -37,7 +37,7 @@ Your club members are waiting?
 Please go on ahead.");
 MsgDisp("主人公","Yeah...thank you.");
 MsgDisp("主人公","(Even though I failed in the end, I'm glad
-I continued with the wind music club...)");
+I continued with the brass band...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

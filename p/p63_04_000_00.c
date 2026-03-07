@@ -63,7 +63,7 @@ I came to see how you're doing——");
     VoicePlay("P630400000_04_060");
     MsgDisp("Nanatsumori","No...
 It's herb tea and cookies right?
-The Gardening Clubs store.");
+The Gardening Club's store.");
     MsgDisp("主人公","Yeah it is.
 I have confidence it's delicious!");
     ChEye(4,0);

@@ -9,8 +9,8 @@ switch (ChPrmGet(1,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Things are looking more calm this year.
-Maybe, It's because I'm working hard for
-the past three years?)");
+Maybe it's because I've been working hard
+for the past three years??)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -60,8 +60,8 @@ we don't have any regrets!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Things are looking more calm this year.
-Maybe, It's because I'm working hard for
-the past three years?)");
+Maybe it's because I've been working hard
+for the past three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -89,14 +89,14 @@ I'll be okay no matter what the result is.");
     ChMotion(1,3);
     VoicePlay("P530100002_01_070");
     MsgDisp("Kazama","Wow, that's so cool.
-I'm fell in love all over again.");
+I fell in love all over again.");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P530100002_01_080");
-    MsgDisp("Kazama","I've always thought that you are a
-charming ghost.
+    MsgDisp("Kazama","I've always thought you had charm to
+spare.
 But it seems like you have guts too?");
     SEPlay("EV_SE_038");
     SEWait();

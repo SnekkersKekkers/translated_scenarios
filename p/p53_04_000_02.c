@@ -83,7 +83,7 @@ I'll give it my all, yeah?");
     ChMotion(4,2,1);
     VoicePlay("P530400002_04_080");
     MsgDisp("Nanatsumori","...Crap.
-Why am I the one who's heart is racing?");
+Why am I the one whose heart is racing?");
     MsgDisp("主人公","?");
     SEPlay("EV_SE_038");
     SEWait();

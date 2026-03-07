@@ -41,7 +41,7 @@ MsgDisp("Honda","...Ah, here we go again.
 This might be hopeless.");
 MsgDisp("主人公","(Seems like he was super moved!
 I'm truly glad I gave it my all these last
-three years in the wind music club...)");
+three years in the brass band...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

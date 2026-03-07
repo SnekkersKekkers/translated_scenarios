@@ -46,8 +46,8 @@ MsgDisp("Kazama","Yes, that's exactly it.
 You really gave it your best.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 MsgDisp("主人公","(Seems like he was super satisfied!
-I'm truly happy I gave my best at the wind
-music club for these last three years.");
+I'm truly happy I gave my best in
+brass band for these last three years.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);
