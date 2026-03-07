@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040203200_02_010");
-    MsgDisp("Sassa","Oh, am I the only one who's out of the loop?
+    MsgDisp("Sassa","Oh, am I the only one out of the loop?
 I should reflect on that.");
     MsgDateResultDisp();
     break ;

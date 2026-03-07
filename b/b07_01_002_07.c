@@ -13,7 +13,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B070100002_01_400");
-MsgDisp("Kazama","You're always a bit dazed out, but this was different?");
+MsgDisp("Kazama","You're always a bit dazed, but this
+was different?");
 MsgDisp("主人公","Hey.
 Maybe it's because I'm with ｛Kazama＊＊｝?");
 ChEye(1,4);

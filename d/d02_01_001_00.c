@@ -6,7 +6,8 @@ Store...)");
 MsgDisp("主人公","(I've known him for so long and yet I've
 never been here...)");
 VoicePlay("D020100100_01_000");
-MsgDisp("Kazama?","This suspicious person has been staring at \nour store for a while now.");
+MsgDisp("Kazama?","This suspicious person has been staring at
+our store for a while now.");
 MsgDisp("主人公","Eh...
 Ah, ｛Kazama＊＊｝!");
 MsgClose();

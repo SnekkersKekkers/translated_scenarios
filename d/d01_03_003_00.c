@@ -10,7 +10,7 @@ Wait(80,1);
 SEStop("EV_SE_FOOT_WALK_KEEP_ALONE",0.5);
 Wait(30,1);
 MsgDisp("主人公","...｛Honda＊＊｝?
-You're here for the extracurricular lesson!
+You're here for the lesson!
 What's up?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_C",0.01);

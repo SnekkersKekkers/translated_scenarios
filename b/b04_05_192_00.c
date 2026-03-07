@@ -34,7 +34,7 @@ extent.");
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("B040519200_05_020");
-    MsgDisp("Hiiragi","It's a shame I didn't get to see you smile.");
+    MsgDisp("Hiiragi","Too bad I didn't get to see you smile.");
     MsgDateResultDisp();
     break ;
     default :

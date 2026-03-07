@@ -35,7 +35,7 @@ switch (MsgSelRsltGet()){
 Then, I'll see you next time.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(4);
-    MsgDisp("主人公","(I wonder if it was bad to turn him down...)");
+    MsgDisp("主人公","(Was it bad of me to turn him down...?)");
     MsgClose();
     ScrFadeOut(0);
     break ;

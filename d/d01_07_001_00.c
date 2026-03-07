@@ -108,7 +108,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 ChEyeOpenLevel(7,0);
 VoicePlay("D010700100_07_100");
-MsgDisp("Mikage","Yep, and while the heir of the ranch was off
+MsgDisp("Mikage","Yep, and while the ranch heir was off
 having fun with you guys, Molly
 unexpectedly became a mother.");
 ChEye(7,0);

@@ -7,8 +7,7 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,4);
 VoicePlay("B150100000_01_000");
-MsgDisp("Kazama","...You're kinda used to that sort of thing,
-aren't you?");
+MsgDisp("Kazama","...You're used to that sort of thing, huh?");
 MsgDisp("主人公","I'm not used to it but...
 Did you dislike it?");
 ChEye(1,0);
