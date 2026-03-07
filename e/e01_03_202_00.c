@@ -8,7 +8,7 @@ MsgDisp("Himuro?","Ohhh.
 So Iku-senpai is good at Shogi too.");
 VoicePlay("E010320200_03_000");
 MsgDisp("Honda?","Back when I was in elementary school I
-would play against my Dad on Saturdays.");
+would play against my Dad on Sundays.");
 MsgDisp("主人公","｛Honda＊＊｝, ｛Himuro＊＊｝, what are you guys
 up to?");
 MsgClose();

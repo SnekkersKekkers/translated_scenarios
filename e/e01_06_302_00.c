@@ -14,7 +14,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(32,254,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","Hello, Himuro-sensei");
+MsgDisp("主人公","Hello, Himuro-sensei..");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("E010630200_32_010");
@@ -30,7 +30,7 @@ ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("E010630200_32_020");
 MsgDisp("VP Himuro","Inori.
-Greetings are basic curtesy.");
+Greetings are basic courtesy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -115,7 +115,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630200_06_110");
 MsgDisp("Himuro","Eh...
-I see Let's go.");
+I see.
+Let's go.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("E010630200_32_060");

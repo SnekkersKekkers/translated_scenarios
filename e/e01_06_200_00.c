@@ -65,7 +65,7 @@ ChMotion(6,0);
 VoicePlay("E010620000_06_040");
 MsgDisp("Himuro","It's probably cushioning material.
 Like the bubble wrap used for fragile
-items");
+items.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -106,8 +106,8 @@ Wait(20,0);
 VoicePlay("E010620000_05_080");
 MsgDisp("Hiiragi","...By the way, \"squish\" mean?");
 VoicePlay("E010620000_06_070");
-MsgDisp("Himuro","That's just a way of saying to crush
-something.");
+MsgDisp("Himuro","There's just a game where you pop
+them.");
 VoicePlay("E010620000_05_090");
 MsgDisp("Hiiragi","I don't know what that means, ...maybe
 I'll give it a try.");

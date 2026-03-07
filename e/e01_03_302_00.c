@@ -64,9 +64,9 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010330200_03_050");
-MsgDisp("Honda","No, I cant.
-I accidentally went back the other day.
-My family scolded me.");
+MsgDisp("Honda","No, I can't.
+I accidentally returned them to the wrong
+one the other day. My family scolded me.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);

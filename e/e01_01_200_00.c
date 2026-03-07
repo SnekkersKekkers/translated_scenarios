@@ -62,7 +62,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("E010120000_06_040");
 MsgDisp("Himuro","But if you think about it, our
-arrangements comes with a clause of
+arrangement comes with a clause of
 confidentiality, doesn't it?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -107,7 +107,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("E010120000_06_060");
-MsgDisp("Himuro","Ryota-senpai asked to me teach him how to
+MsgDisp("Himuro","Ryota-senpai asked me to teach him how to
 swim.
 His request.");
 ChEye(6,0);

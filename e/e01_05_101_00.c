@@ -40,10 +40,9 @@ ChEye(5,4);
 ChMouth(5,0);
 ChMotion(5,2);
 VoicePlay("E010510100_05_040");
-MsgDisp("Hiiragi","If it's done automatically, you miss the
-process of the space being cleaned, or
-feeling the room become bigger once it's
-tidy.");
+MsgDisp("Hiiragi","If it's done automatically, you miss
+the space being cleaned, or feeling
+the room grow once it's tidy.");
 MsgDisp("主人公","Such a deep way of thinking.");
 ChEye(5,2);
 ChMouth(5,0);
@@ -56,7 +55,7 @@ ChEye(5,4);
 ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("E010510100_05_060");
-MsgDisp("Hiiragi","It's better if we eliminate inconvenience
+MsgDisp("Hiiragi","We mustn't eliminate inconvenience
 from the start.");
 MsgDisp("主人公","Um...");
 ChEye(5,2);

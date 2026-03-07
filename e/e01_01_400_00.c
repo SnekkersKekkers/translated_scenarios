@@ -22,7 +22,7 @@ ChMotion(22,3,1);
 VoicePlay("E010140000_22_010");
 MsgDisp("Hikaru","Mariii!
 Nice timing!▼
-Come one, let's ask Kazama-kun together～");
+Come on, let's ask Kazama-kun together～");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -52,7 +52,7 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,2,1);
 VoicePlay("E010140000_22_030");
-MsgDisp("Hikaru","Ehh, really? Hikaru thought he was just\nplaying hard to get, but he'd eventually\nsay \"oka～y\". Sorry about that.");
+MsgDisp("Hikaru","Ehh, really? Hikaru thought he was just\nplaying hard to get, but he'd eventually\nsay \"oka～y\". Too bad.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

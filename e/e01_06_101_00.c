@@ -111,8 +111,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("E010610100_06_130");
-MsgDisp("Himuro","Well, I'll be heading home now Thanks for
-today.");
+MsgDisp("Himuro","Well, I'll be heading home now.
+Thanks for today.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

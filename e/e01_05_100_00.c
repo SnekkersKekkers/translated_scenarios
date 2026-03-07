@@ -21,7 +21,7 @@ I came to buy some, but it seems they
 don't have any today.");
 MsgDisp("主人公","None?
 But the items at your feet are
-｛Hiiragi＊＊＊｝'s , arent they?");
+｛Hiiragi＊＊＊｝'s, aren't they?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("E010510000_05_020");

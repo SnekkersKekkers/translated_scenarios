@@ -31,10 +31,9 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("E010220100_03_030");
-MsgDisp("Honda","No, not really. But I can't see him and
-not say hi, you see? But since I'm waiting
-for my sister, I can't really move from
-here.");
+MsgDisp("Honda","No, but I can't see him and not say hi.
+But since I'm waiting for my sister,
+I can't really move from here.");
 MsgDisp("主人公","Oh, I see.");
 ChMotion(3,0);
 VoicePlay("E010220100_02_000");
@@ -59,7 +58,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("E010220100_02_020");
-MsgDisp("Sassa","The passerbys were like \"Who's that Sakkun
+MsgDisp("Sassa","The passersby were like \"Who's that Sakkun
 person?\".");
 ChEye(2,0);
 ChMouth(2,4);

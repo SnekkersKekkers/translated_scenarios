@@ -45,13 +45,13 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010210000_02_050");
 MsgDisp("Sassa","I ended up buying them though.");
-MsgDisp("主人公","Maybe that's why.");
+MsgDisp("主人公","You actually bought them?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010210000_02_060");
 MsgDisp("Sassa","Yeah, I got one that's supposed to keep
-the skin's firmness and elasticity");
+the skin's firmness and elasticity..");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

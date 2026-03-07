@@ -104,8 +104,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("E010120100_01_070");
-MsgDisp("Kazama","I didn't think I could get 20 units.
-But I did it successfully!");
+MsgDisp("Kazama","I didn't expect you'd need 20.
+But it seems I can order them in!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

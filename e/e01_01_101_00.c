@@ -16,7 +16,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("E010110100_01_010");
 MsgDisp("Kazama","No, just filling in.
-I was just gonna take a break.");
+I was just on my break.");
 MsgDisp("主人公","I see, good work!");
 ChEye(1,2);
 ChMouth(1,3);

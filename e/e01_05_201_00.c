@@ -50,7 +50,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("E010520100_02_030");
-MsgDisp("Sassa","Well, it's...");
+MsgDisp("Sassa","Who knows.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

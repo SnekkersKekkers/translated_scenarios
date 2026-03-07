@@ -125,8 +125,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010320000_01_090");
-MsgDisp("Kazama","I still have work so. At least he changed
-his mind, thanks to you. See you later.");
+MsgDisp("Kazama","I still have work so. Well, thanks to you
+it was a nice change of pace. See you
+later.");
 MsgDisp("主人公","Yeah, bye bye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

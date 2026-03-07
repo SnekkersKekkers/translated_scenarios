@@ -6,7 +6,8 @@ MsgDisp("Michiru?","No way.
 I can't do that...");
 VoicePlay("E010440000_04_000");
 MsgDisp("Nanatsumori?","Really?
-Could it be Michiru is actually quite shy?");
+Could it be Michiru is surprisingly 
+quite shy?");
 MsgDisp("主人公","(Hm?
 That voice just now was...)");
 MsgClose();
@@ -16,7 +17,7 @@ ChOpen(4,255,0,0,3,#1,#1,0,1);
 ChOpen(21,255,3,0,4,#1,#1,0,2);
 MsgDisp("主人公","(｛Nanatsumori＊｝ and ｛みちる＊｝!)");
 VoicePlay("E010440000_21_010");
-MsgDisp("Michiru","You don't need to be surprised about it.");
+MsgDisp("Michiru","The 'surprisingly' part was uncalled for.");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("E010440000_04_010");

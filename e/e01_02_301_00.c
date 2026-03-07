@@ -38,7 +38,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("E010230100_02_030");
-MsgDisp("Sassa","But Inori was glued to store window,
+MsgDisp("Sassa","But Inori was glued to the store window,
 looking like he really wanted something,
 right?");
 MsgDisp("主人公","Hehe, is that so?");

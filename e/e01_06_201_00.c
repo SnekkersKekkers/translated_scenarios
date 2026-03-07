@@ -54,7 +54,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("E010620100_02_030");
-MsgDisp("Sassa","Dont lie!
+MsgDisp("Sassa","Don't lie!
 You were so confident in the beginning!");
 MsgDisp("主人公","Hehe, but in the end ｛Sassa＊＊｝ was the
 winner.");
