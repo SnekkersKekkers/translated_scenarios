@@ -33,16 +33,16 @@ Well then.");
     case 4:
     case 5:
     VoicePlay("J030400001_04_050");
-    MsgDisp("Nanatsumori","Oh, my God...
-Ah-.");
+    MsgDisp("Nanatsumori","Seriously...
+Hmm.");
     MsgDisp("主人公","Perhaps you have a prior engagement?");
     VoicePlay("J030400001_04_060");
-    MsgDisp("Nanatsumori","Yeah. I can't leave this one out...Nope,
-nope. Sorry.");
+    MsgDisp("Nanatsumori","Yeah. I can't get out of this one...
+No way around it. Sorry.");
     MsgDisp("主人公","Ahh.
 I'll ask you out again?");
     VoicePlay("J030400001_04_070");
-    MsgDisp("Nanatsumori","Like that.
+    MsgDisp("Nanatsumori","Yeah, do that.
 Oh, I'll ask you out too.");
     MsgDisp("主人公","Ha ha!
 Okay, I'll see you later.");

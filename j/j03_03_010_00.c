@@ -44,8 +44,9 @@ Of course, it's okay.");
     MsgDisp("主人公","Then, on ｛日付｝ ｛待ち合わせ場所｝.
 I'll be there.");
     VoicePlay("J030301000_03_050");
-    MsgDisp("Honda","Got it. Ah! So Excited! Well, see you
-later?");
+    MsgDisp("Honda","Got it.
+Ah! So Excited!
+Well, see you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yay!

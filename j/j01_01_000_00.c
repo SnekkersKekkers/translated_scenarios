@@ -21,8 +21,8 @@ Are you free to talk right now?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝?
 Are you busy right now?");
     VoicePlay("J010100000_01_030");
-    MsgDisp("Kazama","I've got nothing going on.
-Even if it's just for a bit, I don't mind!");
+    MsgDisp("Kazama","Yeah, I'm free.
+We don't have to keep it short, you know.");
     MsgDisp("主人公","Hehe, okay.
 Well...");
     break ;

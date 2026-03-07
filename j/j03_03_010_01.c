@@ -15,10 +15,11 @@ switch (ChPrmGet(3,6)){
 Is this a good time?
 For calling me.");
     MsgDisp("主人公","Uh, yeah.
-I don't know?");
+What do you think?");
     VoicePlay("J030301001_03_010");
-    MsgDisp("Honda","That's actually what I'm supposed to do.
-It can't be another day, can it?");
+    MsgDisp("Honda","The thing is, I actually have plans
+already.
+We can't do another day, can we?");
     MsgDisp("主人公","Is that so.
 Then I'll ask you out again?");
     VoicePlay("J030301001_03_020");
@@ -37,7 +38,7 @@ See you later.");
     VoicePlay("J030301001_03_030");
     MsgDisp("Honda","Sorry I didn't reply sooner.");
     MsgDisp("主人公","No, it's fine.
-So, I don't know?");
+So, what do you think?");
     VoicePlay("J030301001_03_040");
     MsgDisp("Honda","It's not possible, I've a prior
 commitment...
@@ -63,7 +64,7 @@ Well, I'll see you later?");
     VoicePlay("J030301001_03_060");
     MsgDisp("Honda","Yeah, I am.
 About the voicemail...");
-    MsgDisp("主人公","The way it looks, he already had plans?");
+    MsgDisp("主人公","The way it sounds, you already had plans?");
     VoicePlay("J030301001_03_070");
     MsgDisp("Honda","That's right.
 Bingo.");
@@ -76,9 +77,9 @@ all though.");
 Why are you apologizing?
 This is no one's fault.");
     VoicePlay("J030301001_03_100");
-    MsgDisp("Honda","Okay, well, I'll see you soon.
-I'll schedule the next one.
-Blow your mind!");
+    MsgDisp("Honda","Okay, well, let's make plans again soon.
+That'll blow away these disappointed
+feelings!");
     MsgDisp("主人公","Hmmm, yes.");
     VoicePlay("J030301001_03_110");
     MsgDisp("Honda","Yeah, see you then?

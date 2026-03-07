@@ -10,7 +10,7 @@ MsgDisp("Honda","Oh, is now a good moment?");
 VoicePlay("J030301002_03_010");
 MsgDisp("Honda","It's about the voicemail I got, I wanted
 to go so bad!");
-MsgDisp("主人公","By the looks of it, he had some prior
+MsgDisp("主人公","By the looks of it, you had some prior
 commitments?");
 VoicePlay("J030301002_03_020");
 MsgDisp("Honda","Yeah, that's right.

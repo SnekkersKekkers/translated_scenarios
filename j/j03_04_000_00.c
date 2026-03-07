@@ -22,7 +22,7 @@ The rendezvous point will be?");
 for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030400000_04_030");
     MsgDisp("Nanatsumori","Roger.
-I'll be the guest of honor.");
+See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray-!
@@ -41,8 +41,9 @@ you at the ｛待ち合わせ場所｝.");
     MsgDisp("Nanatsumori","Wait.");
     MsgDisp("主人公","What's up?");
     VoicePlay("J030400000_04_070");
-    MsgDisp("Nanatsumori","Ah...Sorry. I'll save the talk for our
-date. See you.");
+    MsgDisp("Nanatsumori","Ah...Sorry.
+I'll save the talk for our date.
+See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray-!

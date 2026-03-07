@@ -7,7 +7,7 @@ switch (ChPrmGet(1,6)){
 I have something on that day...");
     MsgDisp("主人公","Oh, I see, that's too bad...");
     VoicePlay("J030100001_01_010");
-    MsgDisp("Kazama","Yeah, see you around, mh?");
+    MsgDisp("Kazama","Yeah, see you around, okay?");
     MsgDisp("主人公","Yeah.
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");

@@ -33,7 +33,7 @@ Well, I'll see you later?");
     MsgDisp("Hiiragi","...Oh...no, it's difficult that day.");
     MsgDisp("主人公","Oh ...you're busy.");
     VoicePlay("J030500001_05_060");
-    MsgDisp("Hiiragi","Sorry, I just can not take it off.");
+    MsgDisp("Hiiragi","Sorry, I just can't get out of it.");
     MsgDisp("主人公","It's fine!
 I'll ask you out again.");
     VoicePlay("J030500001_05_070");

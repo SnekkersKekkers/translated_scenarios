@@ -45,8 +45,8 @@ Bye...");
     MsgDisp("主人公","B-Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmph...
-I called at a bad time.)");
+    MsgDisp("主人公","(Hmm...
+That's too bad.)");
     break ;
     default :
     DbgAssert(1);

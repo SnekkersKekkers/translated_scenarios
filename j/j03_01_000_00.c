@@ -41,11 +41,11 @@ Alright?");
     VoicePlay("J030100000_01_060");
     MsgDisp("Kazama","Yeah, take care on the way.
 But you know that.");
-    MsgDisp("主人公","I got it!
-Take care too, ｛Kazama＊＊｝!");
+    MsgDisp("主人公","Geez, I'll be fine!
+You be careful too, ｛Kazama＊＊｝!");
     VoicePlay("J030100000_01_070");
-    MsgDisp("Kazama","I don't have to worry about you anymore,
-do I?
+    MsgDisp("Kazama","If you're the one worrying about me, I
+must be in trouble, huh?
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

@@ -57,7 +57,7 @@ I hope ｛日付｝ arrives fast!)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","｛Kazama＊＊｝, it's ｛主人公苗字｝.");
+    MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030201000_02_060");
     MsgDisp("Sassa","Ah, it's me.
 Sorry for not picking up!");

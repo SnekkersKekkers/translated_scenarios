@@ -29,13 +29,13 @@ I hope ｛日付｝ arrives fast!)");
     case 4:
     case 5:
     VoicePlay("J030300000_03_040");
-    MsgDisp("Honda","Yes of course!
-Whatever you ask, from now on, the answer
-is okay, get it?");
+    MsgDisp("Honda","Of course!
+I'd even be okay with going right now,
+you know?");
     MsgDisp("主人公","Eh!!");
     VoicePlay("J030300000_03_050");
-    MsgDisp("Honda","After all, that'd be troublesome, right?
-Sorry sorry.");
+    MsgDisp("Honda","Ahh, that would be a bit much, huh?
+Sorry, sorry.");
     MsgDisp("主人公","Then let's meet on ｛日付｝.
 I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_060");
@@ -43,8 +43,8 @@ I'll wait for you at the ｛待ち合わせ場所｝.");
     MsgDisp("主人公","Is something wrong?");
     VoicePlay("J030300000_03_070");
     MsgDisp("Honda","No...
-I just thought since you called, it'd be
-too bad to hang up just now.");
+I just thought it'd be a waste to hang up
+already.");
     VoicePlay("J030300000_03_080");
     MsgDisp("Honda","But there'd be no end!
 And it's better to talk in person.");
