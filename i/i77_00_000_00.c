@@ -4,7 +4,7 @@ MsgDisp("主人公","I finished the check sheet.
 Today was busy, too.");
 VoicePlay("I770000000_36_000");
 MsgDisp("President","Yo, good work.");
-MsgDisp("主人公","Ah, manager.
+MsgDisp("主人公","Ah, President.
 Good work today.");
 VoicePlay("I770000000_36_010");
 MsgDisp("President","I like the way you work.

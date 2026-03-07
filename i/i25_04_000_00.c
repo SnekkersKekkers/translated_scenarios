@@ -59,8 +59,8 @@ You're kinda cool.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(All the covers in the sweets magazine
-cover are so cute.
+    MsgDisp("主人公","(All the magazines in the sweets section
+are so cute.
 They look delicious...)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);

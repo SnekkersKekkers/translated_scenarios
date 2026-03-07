@@ -87,7 +87,7 @@ one being taught.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600007_06_090");
-    MsgDisp("Himuro","Don't get carried way.
+    MsgDisp("Himuro","Don't get carried away.
 I'll surpass you again soon.");
     MsgDisp("主人公","Sure.");
     MsgDisp("主人公","(I'm so happy to be appreciated by

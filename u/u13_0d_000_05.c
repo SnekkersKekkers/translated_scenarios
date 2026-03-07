@@ -59,7 +59,7 @@ he's mellowed out a lot, don't you think?");
     VoicePlay("U130D00005_22_030");
     MsgDisp("Hikaru","Uh-huh!
 Mari should continue to be friendly with
-him and get rid all the thorns!");
+him and get rid of all the thorns!");
     StlEyeOpenLevel(21,5,1);
     StlEye(22,0);
     MsgDisp("主人公","(Eehh∋

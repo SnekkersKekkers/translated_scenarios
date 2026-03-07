@@ -15,6 +15,6 @@ after you graduated.
 Could you give it some thought?");
 MsgDisp("主人公","Y-Yes...");
 MsgDisp("主人公","(Working at this store...
-I'll think about it.");
+I'll think about it.)");
 MsgClose();
 ScrFadeOut(0);

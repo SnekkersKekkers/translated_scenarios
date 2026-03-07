@@ -109,7 +109,8 @@ You're working hard at the bookstore.");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("I350300000_03_120");
-    MsgDisp("Honda","Da, I'm really glad I took over.");
+    MsgDisp("Honda","Man, I'm glad I got someone to cover for
+me.");
     MsgDisp("主人公","Hm?");
     ChEye(3,0);
     ChMouth(3,0);

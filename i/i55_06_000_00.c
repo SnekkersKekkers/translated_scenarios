@@ -137,7 +137,7 @@ often?");
     MsgDisp("Himuro","More importantly, would you give me your
 recommendations?");
     MsgDisp("主人公","Got it!
-How many do you need?");
+What's your budget?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

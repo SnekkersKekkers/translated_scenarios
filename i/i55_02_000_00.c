@@ -150,7 +150,7 @@ You came to check on me, right?");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I550200000_02_160");
-    MsgDisp("Sassa","If you say that, then it's fine, but A big
+    MsgDisp("Sassa","If you say that, then it's fine, but a big
 guy like me coming to a store like this
 for no reason...isn't it weird?");
     MsgDisp("主人公","Not at all, the manager would be happy

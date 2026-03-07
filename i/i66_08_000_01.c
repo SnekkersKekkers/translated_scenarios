@@ -22,7 +22,7 @@ Thanks.");
     ChOpen(8,35,0,4,0,#1,#1,0,0);
     VoicePlay("I660800001_08_000");
     MsgDisp("Shirahane","You pay attention even to the smallest
-details now, dont'cha?");
+details now, don'tcha?");
     MsgDisp("主人公","Yeah.
 You're setting a good example,
 ｛Daichi＊＊｝.");

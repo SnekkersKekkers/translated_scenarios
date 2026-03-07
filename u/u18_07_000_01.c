@@ -15,7 +15,7 @@ photo...∋)");
     case 5:
     MsgDisp("主人公","So...");
     MsgDisp("主人公","\"When I bump into Michiru and Hikaru,
-they're always talking about you It seems
+they're always talking about you. It seems
 as though they like you too.");
     MsgDisp("主人公","(What kind of stories are they telling?
 I'm curious...!)");

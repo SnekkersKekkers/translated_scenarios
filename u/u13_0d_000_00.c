@@ -34,7 +34,8 @@ I wonder what that means...)");
     StlMouth(21,0);
     VoicePlay("U130D00000_21_010");
     MsgDisp("Michiru","Hehe.
-The amazing childhood sweethearts.");
+What a mysterious childhood sweetheart
+couple.");
     MsgDisp("主人公","...Eh?");
     StlEyeOpenLevel(21,0,1);
     VoicePlay("U130D00000_21_020");
@@ -55,7 +56,7 @@ over-the-top heroines, Kazama-kun would
 lose easily, wouldn't he?");
     StlEye(22,0);
     MsgDisp("主人公","(If I go after ｛Kazama＊＊｝ more
-aggressively, would he notice it?)");
+aggressively, he'd see right through me?)");
     break ;
     case 4:
     case 5:

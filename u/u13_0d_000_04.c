@@ -67,7 +67,7 @@ I think it would really motivate him.");
     StlMouth(22,1);
     MsgDisp("主人公","(Mmm. It's complicated but, I wonder if I
 should try to have a lot of new
-experiences with ｛Hiiragi＊＊＊｝.");
+experiences with ｛Hiiragi＊＊＊｝.)");
     break ;
     case 4:
     case 5:

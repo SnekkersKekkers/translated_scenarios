@@ -34,10 +34,10 @@ ChMouth(21,2);
 ChMotion(21,4);
 ChCheek(21,0);
 VoicePlay("U022100001_21_040");
-MsgDisp("Michiru","...I was the only one on a date, maybe
-that's why it wasn't enough.");
-MsgDisp("主人公","I'm so happy that today I went on a date
-with ｛みちる＊｝.");
+MsgDisp("Michiru","...Wasn't I inadequate as a date
+partner?");
+MsgDisp("主人公","Today's date with ｛みちる＊｝ was
+perfectly satisfying!");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);

@@ -119,7 +119,7 @@ Compared to that, I...");
     ChEyeOpenLevel(5,#1);
     VoicePlay("I650500000_05_130");
     MsgDisp("Hiiragi","From now, when I begin to feel the urge to
-sigh at during work, I will remember your
+sigh during work, I will remember your
 smiling face.");
     VoicePlay("I650500000_05_140");
     MsgDisp("Hiiragi","See you again.");

@@ -30,7 +30,7 @@ too.");
     VoicePlay("I460600008_06_020");
     MsgDisp("Himuro","It's not about being used to this.
 The store moves around you, like you're
-managing it");
+managing it.");
     MsgDisp("主人公","You're exaggerating.");
     ChEye(6,0);
     ChMouth(6,0);

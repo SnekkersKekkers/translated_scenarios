@@ -11,11 +11,12 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("I440000000_49_010");
 MsgDisp("Manager","...I see, that's a shame.
-Feel free come back if the chance arises.");
+Feel free to come back if the chance 
+arises.");
 MsgDisp("主人公","Thank you for looking after me.
 Bye...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("","(I quit my part-time job at Annalee Flower
-Shop.)");
+MsgDisp("","(I quit my part-time job at Annallee 
+Flower Shop.)");
 MsgClose();

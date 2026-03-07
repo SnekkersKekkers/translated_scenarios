@@ -65,7 +65,7 @@ direction...)");
     VoicePlay("U130D00003_22_030");
     MsgDisp("Hikaru","Uh-huh.
 You've been getting along well with
-Minoru-kun lately, haven't you");
+Minoru-kun lately, haven't you?");
     MsgDisp("主人公","Have I?");
     StlEyeOpenLevel(21,#1);
     VoicePlay("U130D00003_21_040");

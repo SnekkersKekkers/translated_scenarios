@@ -33,7 +33,7 @@ See you at school♪");
 See you later, ｛ひかる＊｝!");
     break ;
     case 1:
-    MsgDisp("主人公","I'm sorry but...no");
+    MsgDisp("主人公","I'm sorry but...no.");
     ChEye(22,0);
     ChMouth(22,0);
     ChEyeOpenLevel(22,10);
@@ -45,7 +45,7 @@ See you later, ｛ひかる＊｝!");
     VoicePlay("U032200002_22_050");
     MsgDisp("Hikaru","Ok, I see.
 Well, that's enough for today.
-See you next later?");
+See you later?");
     MsgDisp("主人公","Okay.
 See you later, ｛ひかる＊｝.");
     break ;

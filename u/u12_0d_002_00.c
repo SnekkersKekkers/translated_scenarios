@@ -10,8 +10,8 @@ Are you sure you're not in love∋");
 StlEye(21,1);
 StlMouth(21,0);
 VoicePlay("U120D00200_21_000");
-MsgDisp("Michiru","I want to tell Mari something too, but
-maybe Mari isn't interested?");
+MsgDisp("Michiru","I have an idea who it might be, but
+maybe Mari herself isn't interested?");
 StlEyeOpenLevel(22,0);
 VoicePlay("U120D00200_22_010");
 MsgDisp("Hikaru","Sigh...

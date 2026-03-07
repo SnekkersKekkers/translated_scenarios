@@ -10,19 +10,19 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("U032100002_21_010");
 MsgDisp("Michiru","Camellia perfume.
-It has a light scent so it's easy to use
+It has a light scent so it's easy to use.
 As thanks for today...");
 MsgSel("Accept Camellia perfume","Don't accept it");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Thank you!
-I this for me to use, ｛みちる＊｝?");
+Is this for me, ｛みちる＊｝?");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("U032100002_21_020");
     MsgDisp("Michiru","Yes.
-It smells like Mari.");
+Now we have a matching scent.");
     SEPlay("EV_SE_083");
     MsgDisp("主人公","(I got Camellia perfume!)");
     SEPlay("EV_SE_080");

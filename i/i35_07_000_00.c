@@ -154,7 +154,7 @@ Thank you for your continued patronage.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(ALright!
+    MsgDisp("主人公","(Alright!
 ｛Mikage＊＊｝ ate a lot of delicious
 cakes.)");
     MsgClose();

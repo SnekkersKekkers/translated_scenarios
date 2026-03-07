@@ -8,7 +8,7 @@ ChMotion(22,5,1);
 VoicePlay("U022200001_22_000");
 MsgDisp("Hikaru","Okay, that's all of them!");
 MsgDisp("主人公","｛ひかる＊｝, that's amazing!
-You really do know a path that let's you
+You really do know a path that lets you
 see all the animals in one day.");
 ChEye(22,0);
 ChMouth(22,3);
@@ -21,7 +21,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("U022200001_22_020");
-MsgDisp("Hikaru","I'm cuter and cooler and smarter than most
+MsgDisp("Hikaru","They're cute, cool, and smarter than most
 people in the world, you know?");
 ChEye(22,4);
 ChMouth(22,0);

@@ -94,19 +94,20 @@ jobs:
       run: |
         $forceRebuild = "${{ inputs.force_rebuild }}" -eq "true"
         $exactCacheHit = "${{ steps.cache-restore.outputs.cache-hit }}" -eq "true"
-        
+        $cacheCommitFile = "output/bytes/.cache-commit"
+
         # Check if we actually have cached bytes
         $cachedBytesCount = (Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes" -ErrorAction SilentlyContinue | Measure-Object).Count
         Write-Host "Found $cachedBytesCount cached .bytes files"
         Write-Host "Exact cache hit: $exactCacheHit"
         Write-Host "Force rebuild: $forceRebuild"
-        
+
         # Get all .c files
         $allCFiles = Get-ChildItem -Path "scripts" -Recurse -Filter "*.c" -File
         Write-Host "Total .c files in repo: $($allCFiles.Count)"
-        
+
         $filesToCompile = @()
-        
+
         if ($forceRebuild) {
           # Force rebuild - compile everything
           Write-Host "Force rebuild requested - compiling all files"
@@ -125,20 +126,49 @@ jobs:
           if ($filesToCompile.Count -gt 0) {
             Write-Host "Found $($filesToCompile.Count) missing .bytes files"
           }
+        } elseif ($cachedBytesCount -gt 0 -and (Test-Path $cacheCommitFile)) {
+          # Partial cache restore - find what changed since the cached commit
+          $baseCommit = (Get-Content $cacheCommitFile).Trim()
+          Write-Host "Partial cache from commit: $baseCommit"
+
+          # Get changed .c files since the cached commit
+          $changedFiles = git -C scripts diff --name-only $baseCommit HEAD -- '*.c' 2>$null
+          if ($changedFiles) {
+            if ($changedFiles -is [string]) { $changedFiles = @($changedFiles) }
+            Write-Host "Changed .c files since cache: $($changedFiles.Count)"
+            foreach ($changed in $changedFiles) {
+              $fullPath = "scripts/$changed"
+              if (Test-Path $fullPath) {
+                $filesToCompile += Get-Item $fullPath
+              }
+            }
+          }
+
+          # Also find any .c files missing a corresponding .bytes
+          foreach ($cFile in $allCFiles) {
+            $bytesName = $cFile.BaseName + ".bytes"
+            $bytesExists = Get-ChildItem -Path "output/bytes" -Recurse -Filter $bytesName -File -ErrorAction SilentlyContinue
+            if (-not $bytesExists) {
+              if ($filesToCompile.FullName -notcontains $cFile.FullName) {
+                $filesToCompile += $cFile
+              }
+            }
+          }
+
+          Write-Host "Files to recompile: $($filesToCompile.Count) (changed + missing)"
         } else {
-          # Cache miss or partial restore - .c files changed since last cache
-          # Must recompile everything because we don't know which files changed
-          Write-Host "Cache miss or files changed - full recompilation needed"
+          # No cache at all - compile everything
+          Write-Host "No usable cache - full compilation needed"
           $filesToCompile = $allCFiles
         }
-        
+
         Write-Host "Total files to compile: $($filesToCompile.Count)"
-        
+
         # Copy files to compile to temp folder
         foreach ($file in $filesToCompile) {
           Copy-Item $file.FullName -Destination "to_compile/"
         }
-        
+
         echo "count=$($filesToCompile.Count)" >> $env:GITHUB_OUTPUT
 
     - name: Compile scripts to bytes
@@ -218,6 +248,13 @@ jobs:
           }
           exit 1
         }
+    # Record which commit this cache was built from
+    - name: Write cache commit marker
+      if: always()
+      shell: pwsh
+      run: |
+        "${{ github.sha }}" | Out-File -FilePath "output/bytes/.cache-commit" -NoNewline
+
     # Save cache with new compiled bytes
     - name: Save compiled bytes cache
       uses: actions/cache/save@v4

@@ -18,8 +18,8 @@ rate...");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_130");
-    MsgDisp("Honda","I know that work might be hard at first,
-since you just started.");
+    MsgDisp("Honda","I can tell you're starting to find the
+work rewarding.");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_140");
     MsgDisp("Honda","But you can't just try hard, you have to

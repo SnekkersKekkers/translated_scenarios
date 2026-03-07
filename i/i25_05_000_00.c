@@ -28,8 +28,8 @@ I shall go look.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(I see, ｛Hiiragi＊＊＊｝ is the chairman of a
-theater company...I can't believe I know
-such a great person.)");
+theater company...He's close by, but he
+really is an amazing person.)");
     break ;
     case 3:
     MsgDisp("主人公","Welcome.");

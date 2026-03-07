@@ -11,7 +11,7 @@ MsgDisp("Michiru","The items on display were wonderful but
 the souvenirs were...
 Novelty, weren't they?");
 MsgDisp("主人公","Yeah.
-Combining works of art with stationary is
+Combining works of art with stationery is
 a really fashionable idea!");
 ChEye(21,0);
 ChMouth(21,3);

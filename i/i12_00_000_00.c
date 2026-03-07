@@ -19,7 +19,7 @@ MsgDisp("Manager","I look forward to working with you from
 now on.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","I'll be working part-time every week from
-Monday to Saturday at the general store.
+MsgDisp("主人公","I'll be working part-time every Tuesday
+and Thursday at the general store.
 Alright, I'll do my best!");
 MsgClose();

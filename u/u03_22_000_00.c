@@ -37,7 +37,7 @@ A bientot～♪");
     ChMouth(22,2);
     ChMotion(22,0,1);
     VoicePlay("U032200000_22_040");
-    MsgDisp("Hikaru","Oh, is that not your preference?
+    MsgDisp("Hikaru","Oh, did you already have a favorite?
 Too bad.");
     ChEye(22,0);
     ChMouth(22,3);

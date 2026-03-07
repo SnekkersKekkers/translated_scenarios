@@ -83,7 +83,7 @@ But, let's do our best!)");
     VoicePlay("I130100001_01_060");
     MsgDisp("Kazama","｛主人公｝, you, that apron...");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
-Does it suit me?");
+We match, don't we?");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,0);

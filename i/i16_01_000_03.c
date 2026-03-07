@@ -13,7 +13,7 @@ display...)");
     ChOpen(1,35,0,2,2,#1,#1,0,0);
     VoicePlay("I160100003_01_000");
     MsgDisp("Kazama","You...
-Are you having fun?");
+Aren't you slacking off a bit?");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,2);

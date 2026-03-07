@@ -15,8 +15,8 @@ switch (ChPrmGet(8,6)){
     StlMouth(21,0);
     VoicePlay("U130D00007_21_000");
     MsgDisp("Michiru","Hehe.
-Are you breaking up with Habataki High
-School?");
+So you've ventured outside of Habataki
+Academy?");
     StlEye(21,0);
     StlEye(22,2);
     StlMouth(22,0);
@@ -25,8 +25,8 @@ School?");
 Hikaru is rooting for you!");
     StlEye(22,0);
     VoicePlay("U130D00007_22_010");
-    MsgDisp("Hikaru","Treasure the way you two met!
-That was a lucky opportunity, wasn't it?");
+    MsgDisp("Hikaru","Treasure how you two met!
+This part is important, okay?");
     MsgDisp("主人公","(How we met...
 I guess I should continue working at my
 part-time job.)");
@@ -48,9 +48,9 @@ boy♪");
 lot of interest in Habataki celebrities.");
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00007_21_020");
-    MsgDisp("Michiru","I think Mari should show him how cool she
-is. Making a lot of friends at school
-might ignite his competitive side");
+    MsgDisp("Michiru","He might want to show his cool side to
+Mari. Making lots of friends at school
+might ignite his competitive side..");
     MsgDisp("主人公","(｛Daichi＊＊｝ is competitive, huh...
 If I become friends with him, will I be
 able to see every side of him?)");

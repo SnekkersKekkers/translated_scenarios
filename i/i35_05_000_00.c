@@ -94,7 +94,7 @@ Let's do our best smiling!)");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, welcome.");
     ChEye(5,4);
     VoicePlay("I350500000_05_100");
-    MsgDisp("Hiiragi","Good evening.
+    MsgDisp("Hiiragi","Good afternoon.
 May I order two cups of coffee for
 delivery?");
     MsgDisp("主人公","Yes, understood.");
