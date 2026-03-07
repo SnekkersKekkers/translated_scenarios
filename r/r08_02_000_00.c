@@ -59,9 +59,9 @@ MsgDisp("Sassa","...I've never thought of training as hard.");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("R080200000_02_050");
-MsgDisp("Sassa","So I have to thank everyone for making a
-place where I can train easily for my
-sports results.");
+MsgDisp("Sassa","So my Inter-High results were also thanks
+to everyone who made an environment where
+I could focus on training.");
 StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
@@ -74,7 +74,7 @@ StlMouth(2,0);
 VoicePlay("R080200000_02_070");
 MsgDisp("Sassa","This ground is something that everyone has
 prepared for us.
-And I ran on it with spiky shoes.");
+And I ran on it roughly with spiked shoes.");
 StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);

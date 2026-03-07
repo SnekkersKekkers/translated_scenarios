@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,3);
     ChMotion(7,2,1);
     VoicePlay("R060700006_07_000");
-    MsgDisp("Mikage","Is this really okay?
-I guess this is a safe gift.");
+    MsgDisp("Mikage","This works just fine.
+It's a safe choice.");
     MsgDisp("主人公","(Hmm, he liked the gift ...right?)");
     break ;
     case 3:

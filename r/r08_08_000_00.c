@@ -136,7 +136,7 @@ VoicePlay("R080800000_08_130");
 MsgDisp("Shirahane","Merry Christmas.
 A present from Santa Daichi▼");
 MsgDisp("主人公","Is this...candy?
-There's so many.");
+There's so many different kinds.");
 StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("R080800000_08_140");
@@ -176,7 +176,7 @@ StlEye(8,2,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("R080800000_08_180");
-MsgDisp("Shirahane","Haha...there's so much.
+MsgDisp("Shirahane","Haha...this is too perfect.
 What should I do?");
 MsgDisp("主人公","Hehe.");
 StlEye(8,0,0);
@@ -198,8 +198,7 @@ VoicePlay("R080800000_08_200");
 MsgDisp("Shirahane","Well then...our hangout for today stops
 here.");
 MsgDisp("主人公","...Okay.
-Thank you for spending time with me.
-I had fun, ｛Daichi＊＊｝.");
+Thank you for coming, ｛Daichi＊＊｝.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

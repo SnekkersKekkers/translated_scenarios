@@ -37,8 +37,8 @@ Merry Christmas!");
     ChMotion(5,3);
     VoicePlay("R040500000_05_040");
     MsgDisp("Hiiragi","Merry Christmas.
-I've been here for a long time waiting for
-you...");
+It took me a long time to get to you after
+I spotted you...");
     break ;
     default :
     DbgAssert(1);

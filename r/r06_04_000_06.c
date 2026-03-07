@@ -20,8 +20,8 @@ I think?)");
     ChMotion(4,1);
     VoicePlay("R060400006_04_010");
     MsgDisp("Nanatsumori","I see...
-I guess this is a pleasing gift for
-anyone.");
+So you went with something that appeals
+to everyone.");
     MsgDisp("主人公","(Hmm, he seems pleased with my gift...
 I think?)");
     break ;

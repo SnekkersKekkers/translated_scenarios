@@ -98,7 +98,7 @@ StlEyeOpenLevel(4,5,1);
 VoicePlay("R080400000_04_120");
 MsgDisp("Nanatsumori","It's always like this...
 You always stick to me everywhere, and you
-prove my common sence wrong.");
+prove my common sense wrong.");
 MsgDisp("主人公","Umm...
 Well, I'm sorry?");
 StlEye(4,2);

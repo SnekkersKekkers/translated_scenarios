@@ -10,5 +10,5 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Bath goods for spa lovers\")");
-MsgDisp("主人公","(It's a set of cotton hand towels and hot
-water flowers.)");
+MsgDisp("主人公","(It's a set of cotton hand towels and
+bath salts.)");

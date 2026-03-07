@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,2,1);
     VoicePlay("R060700007_07_000");
-    MsgDisp("Mikage","It's okay to make mistakes, but not if you
-got this carried away.");
+    MsgDisp("Mikage","Going for a joke gift is fine, but it
+should actually be funny.");
     MsgDisp("主人公","(Darn, I don't think he is very happy with
 my gift...)");
     break ;

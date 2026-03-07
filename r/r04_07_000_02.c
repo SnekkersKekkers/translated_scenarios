@@ -28,8 +28,9 @@ I should say hello...properly.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("R040700002_07_010");
-    MsgDisp("Mikage","Sigh, school is hard.
-After all, I am a teacher.");
+    MsgDisp("Mikage","Sigh, school life is tough.
+At the end of the day, I'm still a 
+teacher.");
     MsgDisp("主人公","Huh?");
     ChEye(7,2);
     ChMouth(7,0);

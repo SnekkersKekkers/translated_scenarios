@@ -73,7 +73,7 @@ Could it be that you, ｛Hiiragi＊＊＊｝...");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("R060500003_05_100");
-    MsgDisp("Hiiragi","No, I wouldn't be so selfish.
+    MsgDisp("Hiiragi","No, I wouldn't do something so tactless.
 On a night like this, it was a miracle.
 That's all.");
     VoicePlay("R060500003_05_110");

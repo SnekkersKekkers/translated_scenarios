@@ -14,8 +14,8 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,8);
     VoicePlay("R040100001_01_010");
     MsgDisp("Kazama","Yeah, really.
-In the right angle, it looks like you're
-shining.");
+I'm biased, but you're shining the
+brightest.");
     MsgDisp("主人公","Hehe, thank you.");
     break ;
     case 3:
@@ -42,7 +42,7 @@ powerful.");
     VoicePlay("R040100001_01_040");
     MsgDisp("Kazama","Don't play dumb.
 You are very attractive today.
-Just don't let it get it to your head.");
+You need to smile a bit less.");
     MsgDisp("主人公","Jeez, stop being weird!");
     break ;
     case 4:

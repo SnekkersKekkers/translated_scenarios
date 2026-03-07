@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,0,1);
     VoicePlay("R060700005_07_000");
-    MsgDisp("Mikage","I see, is this a famous type of gift?
-Very enlightening.
+    MsgDisp("Mikage","I see, so this is what's popular these
+days? Very enlightening.
 Thank you.");
     MsgDisp("主人公","(It seems that he really likes my gift!)");
     break ;

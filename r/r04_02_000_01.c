@@ -46,8 +46,8 @@ Does it suit me?");
     ChMotion(2,4);
     VoicePlay("R040200001_02_050");
     MsgDisp("Sassa","Of course it does.
-You have a different atmosphere from
-always, so my heart raced.");
+You have a different vibe from
+usual, so my heart raced.");
     MsgDisp("主人公","Hehe.
 Have I already said you also look cool,
 ｛Sassa＊＊｝?");
@@ -94,7 +94,8 @@ next to you.");
     ChCheek(2,10);
     VoicePlay("R040200001_02_110");
     MsgDisp("Sassa","How do I look?
-People are saying I look a wedding groom.");
+People are saying I look like a 
+wedding groom.");
     MsgDisp("主人公","Yeah.
 You do look like a wedding groom.");
     ChEye(2,0);

@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("R060600004_06_000");
     MsgDisp("Himuro","Woah...
-I could use this for a hobby, nice.
+Nice taste.
 I feel very lucky to get this.");
     MsgDisp("主人公","(Yay!
 He seems really happy with my gift.)");

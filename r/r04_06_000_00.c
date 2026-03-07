@@ -18,7 +18,7 @@ switch (ChPrmGet(6,6)){
 You too?");
     MsgDisp("主人公","Hehe.
 I guess.
-Aren't you not, ｛Himuro＊＊｝?");
+Aren't you, ｛Himuro＊＊｝?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

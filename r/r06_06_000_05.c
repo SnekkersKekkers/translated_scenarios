@@ -9,7 +9,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("R060600005_06_000");
     MsgDisp("Himuro","Well, this was a safe bet for a gift.
-I hope it wasn't too hard to get.");
+It won't hurt to have around.");
     MsgDisp("主人公","(It seems that he's happy about my gift!)");
     break ;
     case 3:

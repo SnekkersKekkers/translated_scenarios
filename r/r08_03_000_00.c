@@ -19,9 +19,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("R080300000_03_010");
-MsgDisp("Honda","I was thinking about what I would do if
-you left, so I started running in case you
-were already gone.");
+MsgDisp("Honda","I was worried you might have already left,
+so I was hurrying to get everything
+ready.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -113,7 +113,8 @@ MsgDisp("主人公","I see...");
 StlEye(3,3);
 StlMouth(3,1);
 VoicePlay("R080300000_03_120");
-MsgDisp("Honda","Yeah, this is my sacred book and place.
+MsgDisp("Honda","Yeah, this is my precious place and my
+precious book.
 I wanted you to see it.");
 MsgDisp("主人公","｛Honda＊＊｝...
 Thank you.");
@@ -121,8 +122,8 @@ StlEye(3,3,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("R080300000_03_130");
-MsgDisp("Honda","Did you know, you now know every side of
-me?");
+MsgDisp("Honda","With this, there's no side of me I
+haven't shown you.");
 MsgDisp("主人公","Huh?");
 StlEye(3,2);
 StlMouth(3,0);

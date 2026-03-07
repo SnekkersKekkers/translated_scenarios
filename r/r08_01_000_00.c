@@ -162,7 +162,8 @@ StlEye(1,2);
 StlMouth(1,2);
 StlCheek(1,7);
 VoicePlay("R080100000_01_090");
-MsgDisp("Kazama","An antique shop just for us two.");
+MsgDisp("Kazama","A Christmas Eve-only antique shop, just 
+for us two.");
 MsgDisp("主人公","So pretty...");
 StlEye(1,3);
 StlMouth(1,2);
@@ -206,8 +207,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("R080100000_01_130");
-MsgDisp("Kazama","Don't you think you are too dressed up 
-today to be an antique owner's wife?");
+MsgDisp("Kazama","Don't you think you're a bit too dressed 
+up today to be an antique shop 
+owner's wife?");
 MsgDisp("主人公","Huh...a wife?");
 MsgClose();
 ChClose(1,0,30);
@@ -218,8 +220,8 @@ ChOpen(1,34,0,4,3,10,#1,0,0,0,30);
 SEWait();
 ChEyeOpenLevel(1,0);
 VoicePlay("R080100000_01_140");
-MsgDisp("Kazama","You're scratching a lot there.
-...Here.");
+MsgDisp("Kazama","Why are you getting hung up on that?
+...Geez.");
 ChEyeOpenLevel(1,10);
 MsgClose();
 ScrFadeOut(0,0,30);

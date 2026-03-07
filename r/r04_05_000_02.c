@@ -54,7 +54,7 @@ Well then, please enjoy this party.");
     VoicePlay("R040500002_05_030");
     MsgDisp("Hiiragi","I would love to have you for myself, but
 I'm afraid of what would happen if I do
-so, so I'll see you soon again soon.");
+so, so I'll see you again soon.");
     MsgDisp("主人公","Yeah, see you!");
     break ;
     default :
