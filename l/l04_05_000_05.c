@@ -13,8 +13,9 @@ Ah.");
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("L040500005_05_010");
-    MsgDisp("Hiiragi","Ah, no. Pay me no mind. I will have this
-later. Farewell.");
+    MsgDisp("Hiiragi","Ah, no. Pay me no mind.
+I will have this later.
+Farewell.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
