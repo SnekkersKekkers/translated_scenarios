@@ -12,7 +12,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720000_07_010");
 MsgDisp("Mikage","Yeah, because we're on the same
-level—hey, don't laugh at that.");
+level—hey, leave me alone.");
 MsgDisp("主人公","Hehe.");
 ChEye(7,0);
 ChMouth(7,0);

@@ -61,7 +61,7 @@ ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);
 VoicePlay("G020610305_06_070");
-MsgDisp("Himuro","...Haa If I could turn back time, I'd want
+MsgDisp("Himuro","...Haa. If I could turn back time, I'd want
 to do it over...");
 MsgDisp("主人公","(｛Himuro＊＊｝...
 So that's how you felt...)");

@@ -20,8 +20,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710300_07_020");
-MsgDisp("Mikage","...Ah the other day, on the way home...
-I'm sorry I said something crazy");
+MsgDisp("Mikage","...Ah, the other day, on the way home...
+you know...
+Sorry I said something so outlandish.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);

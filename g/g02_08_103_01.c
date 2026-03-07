@@ -53,7 +53,7 @@ ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("G020810301_08_070");
 MsgDisp("Shirahane","Hehe!
-I guess that's why I'm smiling ven now?");
+I guess that's why I'm smiling even now?");
 MsgDisp("主人公","(Hehe!
 ｛Daichi＊＊｝ is a really bright person.)");
 BGMStop();

@@ -23,7 +23,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210400_02_030");
-MsgDisp("Sassa","f the theory is that being fast on your
+MsgDisp("Sassa","If the theory is that being fast on your
 feet makes you popular, then I should have
 been the ultimate popular guy, right?");
 MsgDisp("主人公","Yeah, that's right huh.");

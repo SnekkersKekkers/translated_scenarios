@@ -1,14 +1,14 @@
 MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020540002_05_000");
-MsgDisp("Hiiragi","The fireflies here live mush longer than
+MsgDisp("Hiiragi","The fireflies here live much longer than
 normal fireflies, huh?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020540002_05_010");
 MsgDisp("Hiiragi","It's mysterious.
 There are also rumours about inner voices,
-hust how many secrets are there...");
+just how many secrets are there...");
 MsgDisp("主人公","Could it be due to the benefits of the
 spring water?");
 ChEye(5,0);

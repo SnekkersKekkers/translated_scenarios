@@ -5,7 +5,7 @@ ChMotion(4,0);
 VoiceEVSPlay(4);
 VoicePlay("G020420200_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.
-I need you to listen to this truth.");
+I'll ask you straight out.");
 MsgDisp("主人公","What?");
 ChMotion(4,1,1);
 VoicePlay("G020420200_04_010");

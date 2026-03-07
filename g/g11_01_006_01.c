@@ -30,7 +30,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G110100601_01_000");
 MsgDisp("Kazama","There was something, but I lost it.");
 MsgDisp("主人公","Eh?
-What does that mean?");
+Oh, really?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);

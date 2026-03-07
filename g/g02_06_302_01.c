@@ -30,18 +30,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630201_06_040");
 MsgDisp("Himuro","If you're really friends, you should
-respect each other. If you're truly
-friends, you should respect the other
-person.");
-MsgDisp("Himuro","I'm sorry, but I don't want to impose my
-desire to make noise on you.");
+respect each other. I don't want people
+forcing their desire to hang out on me.");
 MsgDisp("主人公","Right.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630201_06_050");
-MsgDisp("Himuro","Well, at least even I can socialize with
-you.");
+MsgDisp("Himuro","Well, I can at least manage minimal
+socializing.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -66,23 +63,22 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630201_06_090");
-MsgDisp("Himuro","Well it's not easy to meet someone like
+MsgDisp("Himuro","Well, it's not easy to meet someone like
 that.");
-MsgDisp("主人公","That's why if you met a person like that,
-you'd treasure them, right?");
+MsgDisp("主人公","That's why, if you meet someone like that,
+you should treasure them, right?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630201_06_100");
 MsgDisp("Himuro","Well, yeah.
-We'd definitely be friends for a long
-time.");
+We'd probably be friends for a long time.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630201_06_110");
-MsgDisp("Himuro","...What were we talking about.");
-MsgDisp("主人公","(Hehe, I'm glad I finally got to hear
+MsgDisp("Himuro","....What were we talking about again?");
+MsgDisp("主人公","(Hehe, I'm glad I got to hear
 ｛Himuro＊＊｝'s thoughts on friendships.)");
 BGMStop();
 MsgClose();

@@ -19,8 +19,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710201_07_020");
-MsgDisp("Mikage","You don't know what I'm saying, do you?
-It's really scary.");
+MsgDisp("Mikage","You don't know what it'll say on its own,
+right?
+That's terrifying.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

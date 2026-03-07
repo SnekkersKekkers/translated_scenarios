@@ -37,7 +37,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110401_01_040");
-MsgDisp("Kazama","Can you talk?");
+MsgDisp("Kazama","You said it, huh?");
 MsgDisp("主人公","Hahah.");
 ChEye(1,0);
 ChMouth(1,3);

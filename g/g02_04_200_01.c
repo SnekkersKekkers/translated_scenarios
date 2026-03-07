@@ -37,7 +37,7 @@ ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("G020420001_04_050");
 MsgDisp("Nanatsumori","...｛主人公｝.
-Among the knights, don't one of them get
+Among the knights, doesn't one of them get
 special treatment?");
 MsgDisp("主人公","Huh...");
 ChEye(4,2);

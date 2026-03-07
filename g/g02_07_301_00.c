@@ -26,8 +26,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020730100_07_030");
-MsgDisp("Mikage","I see By the way, it feels like I'm also
-included in that group of friends, right??");
+MsgDisp("Mikage","I see.
+By the way, it feels like I'm also
+included in that group of friends, right?");
 MsgDisp("主人公","When ｛Mikage＊＊｝ joins us, everyone
 looks like they're having fun.");
 ChEye(7,2);
@@ -38,7 +39,7 @@ MsgDisp("Mikage","When I join and things get lively, Vice
 Principal Himuro eventually comes over,
 scolds us, and then we all have to
 disperse, right?～");
-MsgDisp("主人公","Hehe, that's fu too, right?");
+MsgDisp("主人公","Hehe, that's fun too, right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

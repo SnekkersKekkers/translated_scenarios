@@ -5,7 +5,7 @@ ChMotion(8,0);
 VoicePlay("G020840000_08_000");
 MsgDisp("Shirahane","The light of the fireflies is somewhat
 warm.");
-MsgDisp("主人公","Yes, that's what it feel like.");
+MsgDisp("主人公","Yes, that's what it feels like.");
 ChMotion(8,2,1);
 VoicePlay("G020840000_08_010");
 MsgDisp("Shirahane","I wonder if it's because of thatー...");

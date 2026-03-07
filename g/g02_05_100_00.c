@@ -1,7 +1,7 @@
 MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510000_05_000");
-MsgDisp("Hiiragi","t's a beauty that makes me sigh.");
+MsgDisp("Hiiragi","It's a beauty that makes me sigh.");
 MsgDisp("主人公","Yeah, it's beautiful.");
 ChMotion(5,4);
 VoicePlay("G020510000_05_010");

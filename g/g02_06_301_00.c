@@ -66,7 +66,7 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630100_06_090");
 MsgDisp("Himuro","I'm merely rambling.
-You don't have to respond..");
+You don't have to respond.");
 MsgDisp("主人公","(N-Now I'm worried...)");
 BGMStop();
 MsgClose();

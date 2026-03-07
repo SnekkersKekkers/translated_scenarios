@@ -16,7 +16,7 @@ you won't seem to leave you alone...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020510303_05_020");
-MsgDisp("Hiiragi","t made me think of the guy who was
+MsgDisp("Hiiragi","It made me think of the guy who was
 pestering you today.");
 MsgDisp("主人公","Ah...but, it's not the firefly's fault?");
 ChEye(5,4);

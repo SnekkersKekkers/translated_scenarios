@@ -21,7 +21,7 @@ ChMotion(5,0);
 VoicePlay("G020510401_05_030");
 MsgDisp("Hiiragi","Recently, I realized that I don't know
 anything about love.
-I became wiser to my oen ignorance.");
+I became wiser to my own ignorance.");
 VoicePlay("G020510401_05_040");
 MsgDisp("Hiiragi","It was because I met you.");
 MsgDisp("主人公","Me...?");

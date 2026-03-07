@@ -25,7 +25,7 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,7);
 VoicePlay("G020110101_01_030");
 MsgDisp("Kazama","You know what, screw it.
-Okay, so Sassa and Inori seem to getting
+Okay, so Sassa and Inori seem to be getting
 along with you recently.");
 ChEye(1,1);
 ChMouth(1,1);

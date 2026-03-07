@@ -5,7 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020730200_07_000");
 MsgDisp("Mikage","The other day, Vice Principal Himuro
-reprimanded seriously...");
+really let me have it...");
 MsgDisp("主人公","Are you okay?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -48,7 +48,7 @@ ChEye(7,1);
 ChMouth(7,4);
 ChEyeOpenLevel(7,8);
 VoicePlay("G020730200_07_060");
-MsgDisp("Mikage","I heard Vice Principal HImuro clear his
+MsgDisp("Mikage","I heard Vice Principal Himuro clear his
 throat just now.");
 MsgDisp("主人公","Ehh?");
 ChEye(7,2);

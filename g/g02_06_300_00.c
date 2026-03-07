@@ -3,7 +3,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630000_06_000");
-MsgDisp("Himuro","Ryota-senpai and Nozumu-senpai are
+MsgDisp("Himuro","Ryota-senpai and Nozomu-senpai are
 popular, aren't they?
 I often hear girls talking about them.");
 ChEye(6,0);

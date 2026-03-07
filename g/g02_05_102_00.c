@@ -37,7 +37,7 @@ relationship forward.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020510200_05_070");
-MsgDisp("Hiiragi","Are you prepared");
+MsgDisp("Hiiragi","Are you prepared?");
 MsgDisp("主人公","(Moving our relationship forwards...what
 could he mean...?)");
 BGMStop();

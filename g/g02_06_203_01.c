@@ -50,7 +50,7 @@ ChMotion(6,0);
 VoicePlay("G020620301_06_060");
 MsgDisp("Himuro","I wonder if there are any useful books as
 references...");
-MsgDisp("主人公","Like a 'how to' on love book?'");
+MsgDisp("主人公","Like a 'how-to' book on love?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

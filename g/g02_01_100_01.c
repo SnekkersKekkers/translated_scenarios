@@ -68,7 +68,7 @@ ChMotion(1,1);
 VoicePlay("G020110001_01_090");
 MsgDisp("Kazama","...Huh?
 It doesn't smell like roses anymore.");
-MsgDisp("主人公","(I can't belive I'm the reason
+MsgDisp("主人公","(I can't believe I'm the reason
 ｛Kazama＊＊｝ likes sweets...
 That's kind of embarrassing.");
 BGMStop();

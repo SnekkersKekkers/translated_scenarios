@@ -21,7 +21,7 @@ VoicePlay("G020410301_04_020");
 MsgDisp("Nanatsumori","At night, isn't it as sparkly and
 beautiful as the fireflies here?");
 MsgDisp("主人公","That's true!
-I definitely can kind of see that.");
+I kind of want to see that.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,1,1);

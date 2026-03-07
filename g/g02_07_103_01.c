@@ -10,7 +10,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710301_07_010");
-MsgDisp("Mikage","t reminds me of that day with the cherry
+MsgDisp("Mikage","It reminds me of that day with the cherry
 blossom petals falling.
 Do you remember?");
 MsgDisp("主人公","｛Mikage＊＊｝ made strawberry fruit

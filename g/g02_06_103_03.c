@@ -16,7 +16,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610303_06_020");
-MsgDisp("Himuro","There's a chance you'll get hit on.
+MsgDisp("Himuro","It's because you're so unguarded 
+that guys try to hit on you.
 Are you aware of that?");
 MsgDisp("主人公","Umm...");
 ChEye(6,2);

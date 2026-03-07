@@ -30,7 +30,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630004_06_040");
-MsgDisp("Himuro","Even if you make that face...");
+MsgDisp("Himuro","Even if you make that lonely face...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
@@ -69,7 +69,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("G020630004_06_100");
-MsgDisp("Himuro","Like how Mr. Kojiro and the others
+MsgDisp("Himuro","Like how Kojiro-sensei and the others
 wouldn't understand what you and I are
 talking about right now.");
 MsgDisp("主人公","(That's true, but...something about that

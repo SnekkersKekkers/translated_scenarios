@@ -39,7 +39,7 @@ ChMouth(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020330100_03_040");
-MsgDisp("Honda","RIght, right!");
+MsgDisp("Honda","Right, right!");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0);

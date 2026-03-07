@@ -47,7 +47,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("G020230001_02_060");
 MsgDisp("Sassa","Heheh.");
 MsgDisp("主人公","(\"｛Sassa＊＊｝, are you enjoying
-yourself...?\"");
+yourself...?\")");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

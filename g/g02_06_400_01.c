@@ -33,7 +33,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G020640001_06_040");
 MsgDisp("Himuro","Keeping a detailed record of things that
 happened each day is very
-\"Himuro-like\",isn't it?");
+\"Himuro-like\", isn't it?");
 MsgDisp("主人公","Is it?
 Then, how about taking it easy?");
 ChEye(6,0);

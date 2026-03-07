@@ -26,7 +26,7 @@ MsgDisp("Nanatsumori","...Well, I'll just forget about it then.
 It was about asking you what you think
 about love.");
 MsgDisp("主人公","Ah...｛Nanatsumori＊｝, maybe by the time you
-graduate you will heard all kinds of
+graduate you will have heard all kinds of
 romance and love?");
 ChEye(4,2);
 ChMouth(4,4);

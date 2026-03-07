@@ -3,7 +3,7 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he had
 something he wanted to talk to me about
-when we go home ...DId something happen?)");
+when we go home...Did something happen?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

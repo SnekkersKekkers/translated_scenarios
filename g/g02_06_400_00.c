@@ -20,9 +20,8 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("G020640000_06_020");
 MsgDisp("Himuro","There's no need for them to go out of
-their way to ride an eggplant.");
-MsgDisp("Himuro","...I don't understand the need for
-cucumbers either.");
+their way to ride an eggplant.
+...I don't get cucumbers either, though.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

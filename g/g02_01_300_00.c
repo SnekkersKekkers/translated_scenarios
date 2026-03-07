@@ -4,7 +4,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130000_01_000");
-MsgDisp("Kazama","What do you think would happen of they
+MsgDisp("Kazama","What do you think would happen if they
 learned we came here?");
 MsgDisp("主人公","Are you talking about ｛Sassa＊＊｝ and
 ｛Himuro＊＊｝?");

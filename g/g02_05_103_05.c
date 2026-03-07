@@ -27,8 +27,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020510305_05_030");
 MsgDisp("Hiiragi","So, I don't want to do things halfway.");
-MsgDisp("主人公","U...
-Ummm?");
+MsgDisp("主人公","U-Ummm?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

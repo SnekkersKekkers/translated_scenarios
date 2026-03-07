@@ -4,7 +4,7 @@ ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020710304_07_000");
 MsgDisp("Mikage","Fireflies are a little different, but in
 both insects and animals, males give gifts
-to females. .");
+to females.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

@@ -18,9 +18,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720001_07_020");
-MsgDisp("Mikage","Well, without knowing it, the superiority
-or inferiority is decided before you know
-it.");
+MsgDisp("Mikage","Well, before you know it, winners and
+losers are decided.");
 MsgDisp("主人公","Superiority or inferiority?");
 ChEye(7,2);
 ChMouth(7,0);

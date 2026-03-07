@@ -58,7 +58,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100700_01_050");
-MsgDisp("Kazama","Is that a life hack?");
+MsgDisp("Kazama","Is that a good thing or a bad thing?");
 MsgDisp("主人公","Umm...
 I don't really know.");
 ChEyeOpenLevel(1,0);

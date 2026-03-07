@@ -14,7 +14,7 @@ VoicePlay("G020740001_07_010");
 MsgDisp("Mikage","Curry filled with lots of vegetables is
 the best, and the hamburger steak is good
 too.");
-MsgDisp("主人公","Yes, it's delicious");
+MsgDisp("主人公","Yes, it's delicious!");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,4);

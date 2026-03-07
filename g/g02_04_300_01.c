@@ -23,7 +23,7 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020430001_04_050");
-MsgDisp("Nanatsumori","They say \"Kindness calls friends\".
+MsgDisp("Nanatsumori","They say \"Birds of a feather flock together\".
 Or maybe I'm a lot like them?");
 MsgDisp("主人公","Hmm...");
 ChEye(4,0);

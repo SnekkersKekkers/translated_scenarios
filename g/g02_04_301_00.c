@@ -45,7 +45,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("G020430100_04_070");
-MsgDisp("Nanatsumori","What's with that mischevious smile!
+MsgDisp("Nanatsumori","What's with that mischievous smile!
 Where do I fall in that∋");
 MsgDisp("主人公","(｛Nanatsumori＊｝, you're funny.)");
 BGMStop();

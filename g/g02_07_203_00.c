@@ -25,10 +25,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020720300_07_030");
-MsgDisp("Mikage","It's a good conversation, but I don't know
-how I feel about marrying her off to an
-unknown place.");
-MsgDisp("主人公","Molly-chan is the cow that Is being raised
+MsgDisp("Mikage","It's a good offer, but sending her off to
+a place I don't know...");
+MsgDisp("主人公","Molly-chan is the cow that is being raised
 on ｛Mikage＊＊｝'s family farm, right?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -40,8 +39,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020720300_07_050");
-MsgDisp("Mikage","Anyhow, I rarely get to see her maybe her
-happiness is on that farm...");
+MsgDisp("Mikage","Anyhow, I rarely get to see her, so maybe
+her happiness is on that farm...");
 MsgDisp("主人公","But, I think Molly-chan is lonely too,
 don't you think?");
 ChEye(7,2);
@@ -56,7 +55,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720300_07_070");
 MsgDisp("Mikage","Yeah, surely.
-Ven molly must think so too.");
+Even Molly must think so too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

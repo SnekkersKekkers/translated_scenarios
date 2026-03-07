@@ -3,7 +3,7 @@ ChOpen(1,255,0,4,3,10,#1,0,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_000");
-MsgDisp("Kazama","Can't get this evening cool in the UK.");
+MsgDisp("Kazama","Can't beat this evening cool in the UK.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

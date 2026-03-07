@@ -88,7 +88,7 @@ ChMotion(1,2);
 VoicePlay("G110101000_01_090");
 MsgDisp("Kazama","Yeah, I see.
 I'll tell him what I'm thinking, and see
-if he still lets me does it.");
+if he still lets me do it.");
 MsgDisp("主人公","I hope he understands.");
 MsgDisp("主人公","(I hope we get to see ｛Kazama＊＊｝ hosting
 again...)");

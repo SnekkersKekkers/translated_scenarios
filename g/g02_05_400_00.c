@@ -40,9 +40,9 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020540000_05_060");
 MsgDisp("Hiiragi","Heh, that's an entirely separate matter.
-I still have. alot left in me, you know?");
+I still have a lot left in me, you know?");
 MsgDisp("主人公","(I'm so happy ｛Hiiragi＊＊＊｝'s efforts are
-starting to bare fruit!)");
+starting to bear fruit!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

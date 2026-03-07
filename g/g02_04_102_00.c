@@ -42,7 +42,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020410200_04_080");
-MsgDisp("Nanatsumori","I should taken better initiative.
+MsgDisp("Nanatsumori","I should have taken better initiative.
 Right?");
 MsgDisp("主人公","???");
 ChEye(4,0);

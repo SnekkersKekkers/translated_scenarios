@@ -76,7 +76,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610302_06_100");
-MsgDisp("Himuro","Then, together with me...");
+MsgDisp("Himuro","Oh, so with me...");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,1);

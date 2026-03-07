@@ -4,8 +4,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0,1);
 VoicePlay("G020710302_07_000");
-MsgDisp("Mikage","wonder if fireflies also get excited when
-their colors and blinking timings match?");
+MsgDisp("Mikage","I wonder if fireflies also get excited
+when their colors and blinking timings
+match?");
 MsgDisp("主人公","Haha, like us today?");
 ChEye(7,0);
 ChMouth(7,3);

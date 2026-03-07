@@ -6,7 +6,7 @@ VoicePlay("G020210401_02_000");
 MsgDisp("Sassa","This scenery, it's only for a limited
 time, isn't it?
 I'm glad I can see it with you.");
-MsgDisp("主人公","Yeah/");
+MsgDisp("主人公","Yeah.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

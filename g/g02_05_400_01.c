@@ -3,7 +3,7 @@ ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020540001_05_000");
 MsgDisp("Hiiragi","Lately, I've been approached more often by
 people I don't know.");
-MsgDisp("主人公","They must be ｛Hiiragi＊＊＊｝'s fans.'");
+MsgDisp("主人公","They must be ｛Hiiragi＊＊＊｝'s fans.");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("G020540001_05_010");

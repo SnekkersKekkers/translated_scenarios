@@ -77,7 +77,7 @@ ChMotion(1,1);
 VoicePlay("G110100602_01_060");
 MsgDisp("Kazama","This is our time together.
 Don't disturb us!");
-MsgDisp("主人公","Hehe, it doesn't look like him at all.");
+MsgDisp("主人公","Hehe, they don't look like him at all.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

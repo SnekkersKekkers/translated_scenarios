@@ -40,8 +40,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020620202_06_050");
-MsgDisp("Himuro","I've seen you with Yanosuke-senpai a lot
-recently.");
+MsgDisp("Himuro","Lately, I keep seeing you together with
+Yanosuke-senpai.");
 MsgDisp("主人公","Ah...that's right.");
 ChEye(6,2);
 ChMouth(6,2);
@@ -65,7 +65,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620202_06_090");
-MsgDisp("Himuro","Yonousuke-senpai would hate that kind of
+MsgDisp("Himuro","Yanosuke-senpai would hate that kind of
 hesitation, after all.");
 ChEye(6,0);
 ChMouth(6,0);

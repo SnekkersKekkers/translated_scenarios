@@ -33,7 +33,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610400_06_040");
-MsgDisp("Himuro","...I was careless");
+MsgDisp("Himuro","...I was careless.");
 MsgDisp("主人公","Your mom is amazing, huh?");
 ChEye(6,0);
 ChMouth(6,0);

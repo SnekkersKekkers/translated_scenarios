@@ -10,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630003_06_010");
-MsgDisp("Himuro","Why am I closer to Mr.
-Kojiro than my class's homeroom teacher?");
+MsgDisp("Himuro","Why am I closer to Kojiro-sensei than my
+own class's homeroom teacher?");
 MsgDisp("主人公","That's right huh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -65,7 +65,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("G020630003_06_090");
 MsgDisp("Himuro","That's true.
-I'm glad to be lucky.");
+Then I guess I've been lucky.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

@@ -12,7 +12,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020340003_03_010");
-MsgDisp("Honda","Right, right! he base is a chicken broth,
+MsgDisp("Honda","Right, right! The base is a chicken broth,
 and then I adjust the flavor with soy
 sauce or miso.");
 ChMotion(3,4);
