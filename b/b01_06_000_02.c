@@ -37,7 +37,7 @@ to do.");
     MsgDisp("Himuro","About 15 minutes ago.
 It would be a problem if something
 unexpected popped up.");
-    MsgDisp("主人公","Would something like that really happen...?");
+    MsgDisp("主人公","Does that sort of thing really happen...?");
     MsgDispSksp(1,0);
     ChEye(6,0);
     ChMouth(6,0);

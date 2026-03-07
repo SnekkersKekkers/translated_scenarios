@@ -235,7 +235,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("A020700000_07_170");
 MsgDisp("Mikage","Yeah, you, give us a nice end question.");
-MsgDisp("主人公","What a request—— Emm...
+MsgDisp("主人公","What a request—— Umm...
 Ah, why did you draw a cow on the black
 board?");
 ChEye(7,0);
