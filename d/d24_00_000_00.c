@@ -8,8 +8,8 @@ recognized. As a result, your \"Journalist
 Level\" has increased!)");
 VoicePlay("D240000000_45_000");
 MsgDisp("Shirahane Mayo","Congrats!
-I'm looking forward to seeing what the future
-has in store for you.");
+I'm looking forward to seeing what the
+future has in store for you.");
 VoicePlay("D240000000_41_010");
 MsgDisp("Tanaka Shin","Let's do our best together!");
 MsgClose();

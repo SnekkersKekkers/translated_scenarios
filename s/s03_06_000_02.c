@@ -36,8 +36,9 @@ I'll just go alone.)");
     MsgDisp("Himuro","My family has a gathering today.");
     MsgDisp("主人公","Ah, I see...");
     VoicePlay("S030600002_06_060");
-    MsgDisp("Himuro","Huh...I miscalculated. I didn't expect to
-be asked out. I wasn't thinking...");
+    MsgDisp("Himuro","Huh...I miscalculated.
+I didn't expect to be asked out.
+I wasn't thinking...");
     MsgDisp("主人公","It was too sudden.
 Sorry.");
     VoicePlay("S030600002_06_070");

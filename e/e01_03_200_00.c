@@ -1,8 +1,8 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Alright then, I guess it's about time to
-go home?)");
+MsgDisp("主人公","(...Alright then, I guess it's time to go
+home?)");
 VoicePlay("E010320000_01_000");
 MsgDisp("Kazama?","Honda, don't be so noisy in the store.");
 VoicePlay("E010320000_03_000");

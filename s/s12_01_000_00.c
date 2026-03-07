@@ -65,8 +65,9 @@ What do you mean?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("S120100000_01_050");
-    MsgDisp("Kazama","That. Just like that. Innocent, I guess? I
-guess you were just born that way.");
+    MsgDisp("Kazama","That.
+Just like that. Innocent, I guess?
+I guess you were just born that way.");
     MsgDisp("主人公","...Are you praising me?");
     ChEye(1,0);
     ChMouth(1,3);
