@@ -69,8 +69,9 @@ I have a schedule I can't miss.
 I'm afraid I can't even coordinate.");
     MsgDisp("主人公","I'm sorry I pushed you.");
     VoicePlay("J030501001_05_080");
-    MsgDisp("Hiiragi","It's your invitation. I want to take it
-easy. But I'm sorry. I'll see you later...");
+    MsgDisp("Hiiragi","It's your invitation.
+It makes me want to try to make it work.
+But I'm sorry. See you another time...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Ah, what a shame...)");

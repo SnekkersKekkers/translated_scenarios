@@ -30,7 +30,7 @@ What's wrong?");
         ChEyeOpenLevel(1,8);
         VoicePlay("J040100000_01_020");
         MsgDisp("Kazama","Oh, I see.
-Then, okay.");
+Then, never mind.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

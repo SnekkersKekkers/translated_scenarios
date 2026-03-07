@@ -31,7 +31,8 @@ I'll see you later.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("J040200000_02_030");
-        MsgDisp("Sassa","Next time you're free, call me.");
+        MsgDisp("Sassa","Next time, I'll ask you on a day you're
+free.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

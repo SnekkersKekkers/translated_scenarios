@@ -23,7 +23,8 @@ switch (MsgSelRsltGet()){
 I'll see you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(I'm sorry you had to call me...
+    MsgDisp("主人公","(I feel bad since he went to the trouble
+of calling me...
 Yeah, maybe next time I'd like to go out.)");
     MsgClose();
     break ;

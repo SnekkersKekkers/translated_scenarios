@@ -29,9 +29,9 @@ Are you free?");
         MsgDisp("Kazama","What's with that.");
         MsgDisp("主人公","It's just kinda, you know...");
         VoicePlay("J040100001_01_030");
-        MsgDisp("Kazama","Just a quick errand.
-Yes, I understand.
-See you.");
+        MsgDisp("Kazama","Just a little errand, huh.
+Okay, I get it.
+See ya.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Was he trying to ask me out?
@@ -56,7 +56,7 @@ It's ｛Kazama＊＊｝)");
     MsgDisp("Kazama","Yes, it's me.");
     MsgDisp("主人公","｛Kazama＊＊｝, what's up?");
     VoicePlay("J040100001_01_051");
-    MsgDisp("Kazama","I'm not up to anything.
+    MsgDisp("Kazama","Nothing in particular.
 I was just wondering if you're free this
 Sunday.");
     MsgSel("Yeah, I'm free.","I have some business to take care of...");
@@ -65,11 +65,11 @@ Sunday.");
         break ;
         case 1:
         VoicePlay("J040100001_01_060");
-        MsgDisp("Kazama","...Good grief, who are you saying no to
-and making plans.");
+        MsgDisp("Kazama","...Good grief, who said you could go
+making plans without checking with me.");
         MsgDisp("主人公","Uh, I'm sorry...");
         VoicePlay("J040100001_01_070");
-        MsgDisp("Kazama","Hey, you.
+        MsgDisp("Kazama","Just kidding.
 Next time I'll call you first.
 See you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");

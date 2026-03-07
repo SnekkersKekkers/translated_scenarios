@@ -28,7 +28,8 @@ Can I talk to you now?");
         break ;
         case 1:
         VoicePlay("J040400001_04_020");
-        MsgDisp("Nanatsumori","I don't blame you for running errands.");
+        MsgDisp("Nanatsumori","Errands, huh...
+Well, can't be helped then.");
         MsgDisp("主人公","Sorry.");
         VoicePlay("J040400001_04_030");
         MsgDisp("Nanatsumori","Alright, I'll see you later.");

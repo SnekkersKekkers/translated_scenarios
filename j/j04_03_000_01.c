@@ -67,15 +67,15 @@ What's wrong?");
 That's right.");
         MsgDisp("主人公","Well, it was an invitation of some sort?");
         VoicePlay("J040300001_03_080");
-        MsgDisp("Honda","Oh, yeah. And yet, I.., I was so excited
-on my own, I didn't think about the
-possibility I didn't even consider that
-our schedules might not match.");
+        MsgDisp("Honda","Oh, yeah. I got so excited on my own that 
+I didn't even consider the possibility 
+that our schedules might not match.");
         VoicePlay("J040300001_03_090");
         MsgDisp("Honda","Well, see you next time.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Sorry, I'm sorry I turned you down...)");
+        MsgDisp("主人公","(I feel bad for turning down his
+invitation...)");
         MsgClose();
         break ;
         default :

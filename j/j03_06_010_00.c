@@ -58,7 +58,7 @@ I'm sorry I didn't answer the phone.");
 So, will you go out with me?");
     VoicePlay("J030601000_06_060");
     MsgDisp("Himuro","Of course I'm going.
-When is it?");
+Where should we meet?");
     MsgDisp("主人公","Okay then, on ｛日付｝ I'll be
 waiting for you at ｛待ち合わせ場所｝.");
     VoicePlay("J030601000_06_070");
