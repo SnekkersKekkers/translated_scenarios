@@ -4,7 +4,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("X210200000_02_000");
 MsgDisp("Sassa?","｛主人公｝!
-Congratulations on Rose QUeen!");
+Congratulations on Rose Queen!");
 MsgClose();
 ChOpen(2,254,3,0,4,#1,#1,0,0);
 Wait(40);

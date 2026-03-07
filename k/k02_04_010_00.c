@@ -28,7 +28,7 @@ ChMotion(4,1,1);
 VoicePlay("K020401000_04_020");
 MsgDisp("Nanatsumori","Well...
 It's the happiest day of the year, right?");
-MsgDisp("主人公","Ah, that's true too, it?");
+MsgDisp("主人公","Ah, that's true too, isn't it?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -42,7 +42,7 @@ SEWait();
 ChMotion(4,1,1);
 VoicePlay("K020401000_04_040");
 MsgDisp("Nanatsumori","Here's your present.
-Open it carefully later.");
+Take your time looking at it later.");
 MsgDisp("主人公","Okay.");
 ChMotion(4,0,1);
 VoicePlay("K020401000_04_050");

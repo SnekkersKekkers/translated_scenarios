@@ -53,7 +53,7 @@ ChEye(3,3);
 ChMotion(3,3);
 VoicePlay("K020301000_03_050");
 MsgDisp("Honda","Well, I'm going home.
-Again, please take care of me this year!");
+Looking forward to another year together!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);

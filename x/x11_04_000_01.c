@@ -28,9 +28,9 @@ But I'm just the manager.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("X110400001_04_020");
-    MsgDisp("Nanatsumori","But you are absolutely vital. He says the
-track team is strong because of you. I
-guess ....");
+    MsgDisp("Nanatsumori","But you are absolutely vital. The track
+team is strong because of you... I
+think.");
     MsgDisp("主人公","Phew, thanks.");
     MsgDisp("主人公","(Yeah, I'm a track and field manager.
 I'm glad I did my best ...!)");

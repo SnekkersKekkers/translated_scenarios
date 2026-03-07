@@ -54,7 +54,7 @@ practice, right?");
     VoicePlay("X110200003_02_040");
     MsgDisp("Sassa","Well, you're right ...
 But I always support you in heart!");
-    MsgDisp("主人公","(Yay! t's nice to be cheered on by
+    MsgDisp("主人公","(Yay! It's nice to be cheered on by
 ｛Sassa＊＊｝)");
     break ;
     default :

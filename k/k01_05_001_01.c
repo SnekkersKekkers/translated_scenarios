@@ -15,7 +15,7 @@ It suits me, and you as well.
 I'm truly happy.");
 ChMotion(5,0);
 VoicePlay("K010500101_05_020");
-MsgDisp("Hiiragi","I will be cherishing it.
+MsgDisp("Hiiragi","I'll cherish it.
 Thank you very much.");
 MsgDisp("主人公","(He looks super happy...
 Thank goodness!)");

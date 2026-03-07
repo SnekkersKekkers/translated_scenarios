@@ -31,7 +31,7 @@ Yeah, I know!");
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("X110300001_03_020");
-    MsgDisp("Honda","When you are happy with me like that, I
+    MsgDisp("Honda","When you celebrate with me like that, I
 feel like I can do my best.
 Thanks for your support and hard work!");
     MsgDisp("主人公","(I was praised by ｛Honda＊＊｝!)");

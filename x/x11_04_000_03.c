@@ -27,10 +27,9 @@ a legend with your amazing moves.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("X110400003_04_020");
-    MsgDisp("Nanatsumori","You performed a new super high
-school-level move, didn't you? I don't
-know much about rhythmic gymnastics, but I
-would have loved to have seen it ...");
+    MsgDisp("Nanatsumori","You performed an amazing new move, right?
+I don't know much about gymnastics, but
+I'd have loved to see it...");
     MsgDisp("主人公","(It's a little embarrassing, but ...
 I'm glad I've been working hard on my
 rhythmic gymnastics club!)");

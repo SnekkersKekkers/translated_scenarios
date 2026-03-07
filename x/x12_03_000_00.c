@@ -17,7 +17,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Recently, I've been looking forward to
 hearing the Orchestra's performance coming
 from the music room!");
-    MsgDisp("主人公","(Yay!))");
+    MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
     case 5:

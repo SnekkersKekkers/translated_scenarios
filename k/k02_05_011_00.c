@@ -30,8 +30,8 @@ MsgDisp("主人公","Oh...?
 A present?");
 ChEye(5,2);
 VoicePlay("K020501100_05_030");
-MsgDisp("Hiiragi","It's quite embarrassing.
-I'm quite used to receiving gifts, but the
+MsgDisp("Hiiragi","It's rather embarrassing.
+I'm used to receiving gifts, but the
 reverse is quite difficult.");
 MsgDisp("主人公","Hehe, it's something that you chose for
 me, ｛Hiiragi＊＊＊｝.");

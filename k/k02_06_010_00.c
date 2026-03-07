@@ -43,13 +43,15 @@ ChMouth(6,4);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("K020601000_06_040");
-MsgDisp("Himuro","Still, today was doubly as happy, right?");
-MsgDisp("主人公","Hehe, well said.");
+MsgDisp("Himuro","Anyway...Today is double as
+special, isn't it?");
+MsgDisp("主人公","Hehe, I get that a lot.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("K020601000_06_050");
-MsgDisp("Himuro","Was that arrogant of me to say?");
+MsgDisp("Himuro","Claiming that yourself is a bit arrogant, 
+don't you think?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);

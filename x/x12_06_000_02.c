@@ -17,7 +17,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("Himuro","You're skilled.
 I'll ask you for help next time a button
 falls off.");
-    MsgDisp("主人公","(Yay1)");
+    MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
     case 5:

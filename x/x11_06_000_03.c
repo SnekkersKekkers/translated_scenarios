@@ -23,7 +23,7 @@ I heard you decided on a new move?");
     MsgDisp("Himuro","Your performance was captivating.
 You have a certain charm.");
     MsgDisp("主人公","Could it be that you came to see the
-rhythmic gymnastics' club joint practice?");
+rhythmic gymnastics club's joint practice?");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);

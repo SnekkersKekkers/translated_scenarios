@@ -14,7 +14,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("X120600000_06_000");
-    MsgDisp("Himuro","Recety the orchestras's performance has
+    MsgDisp("Himuro","Recently the orchestra's performance has
 improved significantly.");
     MsgDisp("主人公","(Yay!)");
     break ;

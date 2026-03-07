@@ -31,7 +31,7 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("K020500000_05_030");
-MsgDisp("Hiiragi","I glad I got to see that face.
+MsgDisp("Hiiragi","I'm glad I got to see that face.
 Well then, apologies for the sudden visit.");
 MsgDisp("主人公","Hehe, I was surprised, but I'm really
 happy.");

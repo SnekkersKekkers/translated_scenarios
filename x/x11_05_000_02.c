@@ -5,10 +5,9 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500002_05_000");
-    MsgDisp("Hiiragi","The match was so heated, almost to the
-point it didn't seem like a practice match
-right? This is also the result of your
-daily discipline.");
+    MsgDisp("Hiiragi","The match was so heated, it didn't seem
+like a practice match, right? This is the
+result of your daily discipline.");
     MsgDisp("主人公","Hehe, thank you!");
     MsgDisp("主人公","(I'm glad I won...!)");
     break ;

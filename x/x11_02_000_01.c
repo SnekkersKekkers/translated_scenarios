@@ -16,9 +16,8 @@ People are talking about it a lot.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("X110200001_02_010");
-    MsgDisp("Sassa","I told him that I have a very talented
-manager.
-I bragged about it.");
+    MsgDisp("Sassa","I bragged about having a talented
+manager.");
     MsgDisp("主人公","(I'm glad ｛Sassa＊＊｝ is happy.
 Let's continue to do our best in club
 activities!)");
@@ -30,8 +29,8 @@ activities!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110200001_02_020");
-    MsgDisp("Sassa","I don't know...our practice games...
-It's all over the news at school.");
+    MsgDisp("Sassa","You know, our practice matches...
+They're the talk of the school.");
     MsgDisp("主人公","Is that so?");
     ChEye(2,0);
     ChMouth(2,3);

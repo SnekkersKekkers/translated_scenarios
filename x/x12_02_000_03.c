@@ -16,7 +16,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("X120200003_02_000");
     MsgDisp("Sassa","The student council work is tough right?
 I say thanks on behalf of everyone.
-Thank you for always!");
+Thanks as always!");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

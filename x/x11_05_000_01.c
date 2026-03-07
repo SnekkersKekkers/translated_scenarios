@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     VoicePlay("X110500001_05_000");
     MsgDisp("Hiiragi","I heard some good results came out of the
-practice relay? The Haba Academy
+practice match? The Haba Academy
 track-and-field club is in perfect form.");
     MsgDisp("主人公","Hehe, thank you!");
     MsgDisp("主人公","(I'm glad I gave it my all...!)");
@@ -20,7 +20,7 @@ track-and-field club is in perfect form.");
     VoicePlay("X110500001_05_010");
     MsgDisp("Hiiragi","Apparently every athlete came out with
 good record times from this practice
-relay.");
+match.");
     MsgDisp("主人公","Yeah, that's right!");
     ChEye(5,4);
     VoicePlay("X110500001_05_020");

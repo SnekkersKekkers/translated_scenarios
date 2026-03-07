@@ -13,7 +13,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("X120500003_05_000");
     MsgDisp("Hiiragi","It is because you are there working with
 me, that I can overcome even the most
-difficult of tasks. Thank you for always.");
+difficult of tasks. Thank you, as always.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
@@ -24,8 +24,8 @@ difficult of tasks. Thank you for always.");
     VoicePlay("X120500003_05_010");
     MsgDisp("Hiiragi","I believe that doing student council
 activities with you, is the most sparkling
-time within my high school life. Thank you
-for always.");
+time within my high school life. 
+Thank you, as always.");
     MsgDisp("主人公","(Yay!
 I was praised!)");
     break ;

@@ -8,16 +8,15 @@ switch (ChPrmGet(2,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110200002_02_000");
-    MsgDisp("Sassa","In a practice match, I heard that you got
-a cool single-point win in a practice
-match. Congratulations.");
+    MsgDisp("Sassa","I heard that you got a cool single-point
+win in a practice match.
+Congratulations.");
     MsgDisp("主人公","Yeah, thanks!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);
     VoicePlay("X110200002_02_010");
-    MsgDisp("Sassa","I see you are training hard and working
-hard.
+    MsgDisp("Sassa","I see you've been working really hard.
 I can't lose either.");
     MsgDisp("主人公","(Yay, ｛Sassa＊＊｝ praised me!
 Let's practice harder!)");

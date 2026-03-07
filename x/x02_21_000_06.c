@@ -1,7 +1,7 @@
 BGOpen("sc230",0);
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa, this week I feel refreshed...)");
+MsgDisp("主人公","(Haa, things didn't go well this week...)");
 ChOpen(21,254,2,2,4,#1,#1,0,0);
 VoicePlay("X022100006_21_000");
 MsgDisp("Michiru","Was this week not a good match?

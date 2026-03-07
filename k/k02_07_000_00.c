@@ -16,7 +16,8 @@ MsgDisp("Mikage","Good evening, this is Mikage Delivery.
 I have a package for you.");
 SEPlay("EV_SE_665");
 SEWait();
-MsgDisp("主人公","Huh!? Mikage Delivery? Um...
+MsgDisp("主人公","Huh!?
+Mikage Delivery? Um...
 ｛Mikage＊＊｝, what is it?");
 ChEye(7,1);
 ChMouth(7,0);

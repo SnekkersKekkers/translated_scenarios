@@ -11,7 +11,7 @@ switch (ChPrmGet(7,6)){
 difficult move during the rhythmic
 gymnastics club's joint practice.
 Congrats.");
-    MsgDisp("主人公","Yes, thank you very much1");
+    MsgDisp("主人公","Yes, thank you very much!");
     MsgDisp("主人公","(Yay!
 I was praised by ｛Mikage＊＊｝!)");
     break ;

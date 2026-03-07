@@ -27,7 +27,7 @@ gradually improving.");
     VoicePlay("X120100003_01_010");
     MsgDisp("Kazama","You have the ability to move people.
 It's thanks to that everyone cooperates
-with student council club activities.");
+with student council activities.");
     MsgDisp("主人公","(Yay!
 I was praised!)");
     break ;

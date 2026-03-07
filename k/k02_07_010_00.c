@@ -13,12 +13,12 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("K020701000_07_000");
 MsgDisp("Mikage","Today really is a happy day～
-Your birthday, and New Years!");
+Your birthday, and New Year's!");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("K020701000_07_010");
-MsgDisp("Mikage","Was I being too proud?");
+MsgDisp("Mikage","Sorry for keeping you in suspense.");
 MsgDisp("主人公","Ah...!");
 SEPlay("EV_SE_665");
 SEWait();

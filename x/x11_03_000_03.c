@@ -38,7 +38,7 @@ newspaper club from another school, right?");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("X110300003_03_030");
-    MsgDisp("Honda","Still, it's an attention-getter. right?");
+    MsgDisp("Honda","Still, it's an attention-getter, right?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);

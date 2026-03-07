@@ -61,6 +61,6 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(4,0,30);
 Wait(30);
-MsgDisp("主人公","(Hehe, Today was a lovely birthday...)");
+MsgDisp("主人公","(Hehe, today was a lovely birthday...)");
 MsgClose();
 ScrFadeOut(0,0);
