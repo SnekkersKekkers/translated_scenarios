@@ -39,14 +39,14 @@ I wish I tried harder.)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O020600001_06_040");
-    MsgDisp("Himuro","It's really childish to be so frustrated
-that you start crying.");
+    MsgDisp("Himuro","Being so frustrated you want to cry...
+You're really living your youth.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("O020600001_06_050");
-    MsgDisp("Himuro","That's enough, I thought your team would
-win, you know?");
+    MsgDisp("Himuro","That alone is enough to make you
+a winner, don't you think?");
     MsgDisp("主人公","...Yeah, thanks.");
     ChEye(6,3);
     ChMouth(6,4);

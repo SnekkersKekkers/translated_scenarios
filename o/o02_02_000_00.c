@@ -45,7 +45,7 @@ You did it!");
     ChEyeOpenLevel(2,7);
     VoicePlay("O020200000_02_040");
     MsgDisp("Sassa","Huh.
-Somehow, I feel like I'm more happy than
+Somehow, I feel like I'm happier than
 you?");
     MsgDisp("主人公","Huh?");
     ChEye(2,0);

@@ -51,7 +51,7 @@ Please go easy on me.");
     VoiceEVSPlay(2);
     VoicePlay("O030201000_02_040");
     MsgDisp("Sassa","｛主人公｝.
-Did I made it in time!?");
+Did I make it in time!?");
     MsgDisp("主人公","Hm?
 ｛Sassa＊＊｝, what is it?");
     ChEye(2,0);

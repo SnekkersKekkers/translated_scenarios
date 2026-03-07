@@ -34,7 +34,7 @@ It was close.");
 I did try, but you can't count on me for
 exercise.");
     MsgDisp("主人公","(Hm...
-I guess that's it.)");
+We were so close, though...)");
     break ;
     case 4:
     case 5:

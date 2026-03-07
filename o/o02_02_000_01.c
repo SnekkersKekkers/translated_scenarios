@@ -17,9 +17,10 @@ You almost had it.");
     ChMotion(2,0);
     VoicePlay("O020200001_02_010");
     MsgDisp("Sassa","It's fine.
-Rather than just feeling bad after losing,
-I like this feeling a lot better.");
-    MsgDisp("主人公","(｛Sassa＊＊｝, is that a compliment...?
+Rather than laughing it off after losing,
+I like this attitude way more.");
+    MsgDisp("主人公","(｛Sassa＊＊｝, is he trying to console
+me...?
 Haa, how frustrating.)");
     break ;
     case 3:

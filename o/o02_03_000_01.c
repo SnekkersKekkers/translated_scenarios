@@ -16,7 +16,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("O020300001_03_000");
     MsgDisp("Honda","Hm...
 The other team was really in sync.
-Did the all practice together?");
+Did they all practice together?");
     MsgDisp("主人公","(I lost...
 I wish I tried harder.)");
     break ;

@@ -55,7 +55,7 @@ last in athletics.");
     ChMotion(2,0);
     VoicePlay("O030200002_02_060");
     MsgDisp("Sassa","And in the competition with you?
-I'm sorry, I was rushing.
+Sorry, I was overconfident.
 I wanted to win for you...");
     MsgDisp("主人公","(Ugh, I should've tried harder...)");
     break ;

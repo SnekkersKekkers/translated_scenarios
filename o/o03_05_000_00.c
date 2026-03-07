@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,4);
     VoicePlay("O030500000_05_000");
     MsgDisp("Hiiragi","To think we would achieve first...
-Splendid.");
+I'm so happy.");
     MsgDisp("主人公","(We did it, first place!
 A victory for both of us!)");
     break ;

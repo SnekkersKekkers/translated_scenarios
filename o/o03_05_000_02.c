@@ -22,7 +22,7 @@ I wish I had tried a little harder...)");
     VoiceEVSPlay(5);
     VoicePlay("O030500002_05_010");
     MsgDisp("Hiiragi","｛主人公｝.
-My apologizes for pulling on your leg.
+My apologies for pulling on your leg.
 Are you hurt?");
     MsgDisp("主人公","No, I'm fine.
 What about you, ｛Hiiragi＊＊＊｝?");
@@ -31,7 +31,7 @@ What about you, ｛Hiiragi＊＊＊｝?");
     ChMotion(5,0);
     VoicePlay("O030500002_05_020");
     MsgDisp("Hiiragi","Yes, I'm fine. Remember that a horse that
-doesn't get injured to superior to one
+doesn't get injured is superior to one
 with a slightly higher ability.");
     MsgDisp("主人公","(Haa...last...
 I wish I had tried a little harder...)");

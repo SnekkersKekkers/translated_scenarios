@@ -25,7 +25,7 @@ We were so close...)");
     ChMouth(3,0);
     ChMotion(3,5);
     VoicePlay("O020300002_03_010");
-    MsgDisp("Honda","Da, how close!
+    MsgDisp("Honda","Gah, how close!
 Nice fight!");
     MsgDisp("主人公","(A draw, huh...
 We were so close...)");

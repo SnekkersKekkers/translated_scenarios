@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     SEWait();
     ChOpen(1,30,0,0,0,#1,#1,0,0);
     VoicePlay("O040101000_01_000");
-    MsgDisp("Kazama","Isn't this great?");
+    MsgDisp("Kazama","Let's have a good time, yeah?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 We're together.");
     ChEye(1,0);

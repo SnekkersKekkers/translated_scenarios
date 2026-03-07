@@ -30,12 +30,12 @@ It was a nice fight.");
     ChMotion(1,0);
     VoicePlay("O020100001_01_020");
     MsgDisp("Kazama","If you're not hurt, then it's okay.");
-    MsgDisp("主人公","It's not okay, it's frustrated.");
+    MsgDisp("主人公","It's not okay, I'm frustrated.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O020100001_01_030");
-    MsgDisp("Kazama","That's right, you're were serious about
+    MsgDisp("Kazama","That's right, you were serious about
 this.
 My bad.");
     ChEye(1,0);

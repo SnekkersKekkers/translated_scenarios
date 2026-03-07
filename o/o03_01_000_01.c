@@ -47,7 +47,7 @@ tied together?");
     ScrFadeIn(0);
     ChMotion(1,3);
     VoicePlay("O030100001_01_040");
-    MsgDisp("Kazama","Sorry, was I going too fast.");
+    MsgDisp("Kazama","Sorry, was I going too fast?");
     MsgDisp("主人公","No, I'm sorry, too.");
     ChEyeOpenLevel(1,0);
     Wait(8,0);

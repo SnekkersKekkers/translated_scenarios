@@ -51,8 +51,7 @@ I won!");
     ChMotion(1,3);
     VoicePlay("O020100000_01_030");
     MsgDisp("Kazama","Congrats, I was watching.
-You know, it kinda made me feel powerful,
-too.");
+You know, I got really into it, too.");
     MsgDisp("主人公","Hehe, my hands hurt a little, too.");
     MsgClose();
     SEPlay("EV_SE_628");

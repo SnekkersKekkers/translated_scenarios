@@ -52,7 +52,7 @@ feels like this targeted my weakness.");
     ChMotion(6,0,1);
     VoicePlay("O030600001_06_060");
     MsgDisp("Himuro","I learned a lot.
-Thanks to you.");
+Good job too.");
     MsgDisp("主人公","(Hm, if we were just a little more in
 sync...)");
     break ;

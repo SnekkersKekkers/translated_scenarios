@@ -40,7 +40,7 @@ No, we were definitely out of sync...)");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("O030300001_03_030");
-    MsgDisp("Honda","Da, we couldn't make it to first.");
+    MsgDisp("Honda","Gah, we couldn't make it to first.");
     MsgDisp("主人公","Sorry.");
     ChEye(3,4);
     ChMouth(3,4);
