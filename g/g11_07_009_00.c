@@ -51,7 +51,7 @@ VoicePlay("G110700900_07_050");
 MsgDisp("Mikage","That's a good thing, though.
 That's what I like about you.");
 MsgDisp("主人公","(∈
-The way he said "like" caught me
+The way he said \"like\" caught me
 completely off guard...)");
 BGMStop();
 MsgClose();
