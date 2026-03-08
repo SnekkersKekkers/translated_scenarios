@@ -109,10 +109,12 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("A020100000_01_060");
-MsgDisp("Kazama","Yeah. I didn't expect this either. \nI told your mom yesterday. \nDid she not tell you?");
-MsgDisp("主人公","Sorry ｛Kazama＊＊｝, I was so surprised to
-hear that you came back, maybe I wasn't
-listening all that well...");
+MsgDisp("Kazama","Yeah. I didn't expect this either.
+I told your mom yesterday.
+Did she not tell you?");
+MsgDisp("主人公","Sorry, ｛Kazama＊＊｝. I was so surprised
+to hear you came back, I wasn't
+really listening...");
 MsgDisp("主人公","Same school again, huh?
 Feels like we're back in elementary
 school.");
@@ -228,13 +230,13 @@ pinwheel?");
     NSSMouth(1,3);
     NSSCheek(1,7);
     VoicePlay("A020100000_01_170");
-    MsgDisp("Kazama","That's it. I can tell just by looking at
-you, that there's a good chance the wish
-will come true...");
+    MsgDisp("Kazama","That's it. Just looking at you...
+I'd say there's a good chance
+that wish'll come true.");
     break ;
     case 2:
-    MsgDisp("主人公","A lot of time has passed, I wonder what
-you're talking about...");
+    MsgDisp("主人公","We had lots of different moments, I 
+wonder which one...");
     NSSEye(1,2);
     NSSMouth(1,0);
     VoicePlay("A020100000_01_180");
@@ -295,8 +297,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("A020100000_01_190");
-MsgDisp("Kazama","......Not listening～ 
-And you shouldn't listen to them either.");
+MsgDisp("Kazama","......Not listening～
+And you shouldn't listen
+to them either.");
 MsgDisp("主人公","(\"Young Master\" huh...
 Now I'm super curious...)");
 ChMotion(1,0);

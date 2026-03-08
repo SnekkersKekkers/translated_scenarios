@@ -23,14 +23,16 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("A020330100_03_010");
 MsgDisp("Honda?","Yeah yeah, I know.
-But, you know, starting the job today...
-The manager set you up didn't he?");
+But, you know, starting today...
+The manager threw you in, huh?");
 MsgDisp("主人公","What?");
 ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("A020330100_03_020");
-MsgDisp("Honda?","You see, today is the busiest day of the\nmonth. We bring in a lot of magazines and\nbooks today. That's why it's like this!");
+MsgDisp("Honda?","You see, today's the busiest day
+of the month. Tons of new magazines
+and books. That's why it's so hectic!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3);

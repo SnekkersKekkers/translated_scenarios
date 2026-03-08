@@ -31,7 +31,9 @@ StlOpen("ev_04_01");
 StlEye(4,0);
 StlMouth(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah!! \nIt's my poster! \nI must have dropped it in the hallway...");
+MsgDisp("主人公","Ah!!
+It's my poster!
+I must have dropped it in the hall...");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
@@ -143,14 +145,16 @@ VoicePlay("A020410000_04_160");
 MsgDisp("Nanatsumori","...Hey. I'm telling you this because I
 know you'll understand the situation.");
 VoicePlay("A020410000_04_170");
-MsgDisp("Nanatsumori","\"NANA\" the model, and \"Nanatsumori Minoru\"
-that's right in front of you, we exist in
-different worlds, alright?");
+MsgDisp("Nanatsumori","\"NANA\" the model and
+\"Nanatsumori Minoru\" right in front
+of you live in different worlds, ok?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_180");
-MsgDisp("Nanatsumori","So you can call me \"Nanatsumori Minoru\"\nalright? Habataki student, normal guy. \nOK?");
+MsgDisp("Nanatsumori","So you can call me \"Nanatsumori Minoru\", 
+alright? Habataki student, normal guy. 
+OK?");
 MsgDisp("主人公","Yeah, ok!");
 ChEye(4,4);
 ChMouth(4,0);

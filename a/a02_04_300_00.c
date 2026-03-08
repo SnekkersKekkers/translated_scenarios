@@ -13,7 +13,8 @@ BGMPlay("BGM_C04_NANA_I",0.01);
 ChLayout(1);
 ChNanaType(1);
 ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Welcome! Let me guide you to your\nseat——");
+MsgDisp("主人公","Welcome! Let me guide you to your
+seat—");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_000");
@@ -82,7 +83,9 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("A020430000_04_050");
-MsgDisp("Nanatsumori?","Well, I don't blame you...Don't worry.\nI'm the same person that was sitting here\nearlier.");
+MsgDisp("Nanatsumori?","Well, I don't blame you...
+Don't worry. I'm the same person
+that was sitting here earlier.");
 MsgDisp("主人公","A...Alright.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -138,7 +141,9 @@ Wait(70,0);
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,1);
 Wait(60,0);
 VoicePlay("A020430000_04_090");
-MsgDisp("Nanatsumori?","Sorry!! \nI think I forgot something! \nDo you mind if I——");
+MsgDisp("Nanatsumori?","Sorry!!
+I think I forgot something!
+Do you mind if I—");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
 ChNanaType(0);
@@ -161,9 +166,9 @@ ChMotion(4,0,1);
 VoicePlay("A020430000_04_110");
 MsgDisp("Nanatsumori","Ah, yeah, right.
 Thanks.");
-MsgDisp("主人公","Hehe. I'm in the same year as you, in
-Habataki High too. Nice to meet you I
-guess?");
+MsgDisp("主人公","Hehe. I'm in the same year as
+you at Habataki High too.
+Nice to meet you, I guess?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_120");
@@ -173,7 +178,9 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_130");
-MsgDisp("Nanatsumori","...Hey, you.\nWhat you saw here today, could you\nmaybe forget about it?");
+MsgDisp("Nanatsumori","...Hey, you.
+What you saw here today, could you
+maybe forget about it?");
 MsgDisp("主人公","You mean,
 that you ate a lot of sweets?");
 ChEye(4,1);
@@ -213,7 +220,9 @@ secret from people at school?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_180");
-MsgDisp("Nanatsumori","Yeah. \nIt's an unusual job. I feel like it would\nbe trouble if people at school found out.");
+MsgDisp("Nanatsumori","Yeah.
+It's an unusual job. I feel like it'd be 
+trouble if everyone at school found out.");
 MsgDisp("主人公","I see.
 Then, I'll keep it a secret, okay?");
 ChEye(4,2);
@@ -259,8 +268,8 @@ MsgDisp("主人公","(Now that I think of it, there's a famous
 modelling agency right around the corner,
 isn't there?)");
 SEStop("EV_SE_DOOR_014",1);
-MsgDisp("主人公","(｛Nanatsumori＊｝ probably does modelling
-jobs as NANA there. Do your best,
-｛Nanatsumori＊｝! )");
+MsgDisp("主人公","(｛Nanatsumori＊｝ probably does
+modelling jobs as NANA there.
+Do your best, ｛Nanatsumori＊｝!)");
 MsgClose();
 ScrFadeOut(0);

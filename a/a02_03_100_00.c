@@ -5,8 +5,8 @@ didn't see time go by.
 I should hurry back home...)");
 VoicePlay("A020310000_03_000");
 MsgDisp("Honda?","Investigation complete～!");
-MsgDisp("主人公","(Eh? Looks like someone's still 
-here.)");
+MsgDisp("主人公","(Eh? Looks like someone's
+still here.)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_I");
@@ -18,7 +18,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("A020310000_03_020");
-MsgDisp("Honda?","—Oops! Sorry sorry! \nI scared you, right?\nAre you alright?");
+MsgDisp("Honda?","—Oops! Sorry sorry!
+I scared you, right?
+Are you alright?");
 MsgDisp("主人公","I'm okay!");
 ChEye(3,0);
 ChMouth(3,3);
@@ -61,8 +63,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,2);
 VoicePlay("A020310000_03_080");
-MsgDisp("Honda","...or maybe not, I don't really know, but 
-classroom windows are basically designed
+MsgDisp("Honda","...or maybe not, I don't know, but
+classroom windows are designed
 to be on the left side of the room.");
 ChEye(3,0);
 ChMouth(3,3);

@@ -1,7 +1,7 @@
 BGOpen("sc100",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Alright, let's join the student 
+MsgDisp("主人公","Alright, let's join the student
 council!");
 MsgClose();
 ScrFadeOut(0,0);
@@ -27,15 +27,22 @@ BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020520000_05_000");
 MsgDisp("Hiiragi?","May I help you with something?");
-MsgDisp("主人公","Uhm...\nMy name is ｛主人公姓名｝, and I\nwould like to join the student council!");
+MsgDisp("主人公","Uhm...
+My name is ｛主人公姓名｝, and I
+would like to join the student council!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("A020520000_05_010");
-MsgDisp("Hiiragi?","Yes, I'm listening.\nI'm Hiiragi Yanosuke.\nI'm looking forward to working with you.");
-MsgDisp("主人公","Y-Yes!\nI'm looking forward to it too!");
+MsgDisp("Hiiragi?","Yes, I'm listening.
+I'm Hiiragi Yanosuke.
+I'm looking forward to working with you.");
+MsgDisp("主人公","Y-Yes!
+I'm looking forward to it too!");
 VoicePlay("A020520000_41_000");
-MsgDisp("President","Ah, a new member? Welcome. \nHiiragi-kun, did you introduce yourself \nalready?");
+MsgDisp("President","Ah, a new member? Welcome.
+Hiiragi-kun, did you introduce
+yourself already?");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);

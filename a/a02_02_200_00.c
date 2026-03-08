@@ -24,8 +24,8 @@ BGMPlay("BGM_C02_SASSA_I",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","(Wow, he's so big...
 Is he the club captain?)");
-MsgDisp("主人公","Um, hello, I brought the admission 
-form.");
+MsgDisp("主人公","Um, hello, I brought
+the admission form.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
@@ -65,8 +65,8 @@ ChMotion(2,0);
 VoicePlay("A020220000_02_050");
 MsgDisp("Sassa?","Me?
 No way, I'm not on that level.");
-MsgDisp("主人公","I honestly thought you were the 
-captain...");
+MsgDisp("主人公","I honestly thought you were
+the captain...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,3);
@@ -101,9 +101,9 @@ BGOpen("sc601",0);
 Wait(40);
 ScrFadeIn(0);
 VoicePlay("A020220000_39_000");
-MsgDisp("Manager","Every month, on the third Sunday of the
-month, the club is holding general
-practice. So be sure to participate.");
+MsgDisp("Manager","On the third Sunday of every month,
+the club holds group practice.
+Make sure to participate.");
 MsgDisp("主人公","Understood!");
 VoicePlay("A020220000_39_010");
 MsgDisp("Manager","Well then, I'll be counting on you from
@@ -135,7 +135,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("A020220000_02_120");
-MsgDisp("Sassa","Well, I guess you wouldn't know. There\nare eight events: short distance, long\ndistance, jumping, and throwing. And then,\nwe count scores.");
+MsgDisp("Sassa","You probably don't know it. There
+are eight events, and your total
+score across all of them counts.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,1);

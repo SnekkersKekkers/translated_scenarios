@@ -96,7 +96,9 @@ ScrFadeOut(0,1);
 BGOpen("pr007",0);
 EnvPlay("SE_ENV_BG_PR007_CO0",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Woah...! \nA big bell! \nIs that the bell we heard ringing earlier?");
+MsgDisp("主人公","Woah...!
+A big bell!
+Is that the bell we heard ringing earlier?");
 VoicePlay("A010000000_01_090");
 MsgDisp("Ryota","It has to be!
 When it rings again, let's come take a
