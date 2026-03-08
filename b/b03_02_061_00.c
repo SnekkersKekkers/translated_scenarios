@@ -5,8 +5,8 @@ ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030206100_02_000");
-MsgDisp("Sassa","Everyone looks like they're having a lot
-of fun from here.");
+MsgDisp("Sassa","Everyone looks like they're having so
+much fun. It's getting me excited too.");
 MsgDisp("主人公","Hehe, it looks that way.");
 ChEye(2,0);
 ChMouth(2,4);

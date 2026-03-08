@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛Daichi＊＊｝ isn't here...)");
+MsgDisp("主人公","(｛Daichi＊＊｝ is running late...)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C08_DAICHI_A",0.01);

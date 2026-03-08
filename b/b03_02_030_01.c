@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B030203001_02_010");
-    MsgDisp("Sassa","Sounds good for me too.
-Well then, let's go.");
+    MsgDisp("Sassa","I was thinking the same thing.
+Alright, let's go.");
     MsgDispSksp(0);
     break ;
     case 1:

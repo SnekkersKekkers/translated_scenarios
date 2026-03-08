@@ -15,6 +15,6 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("B020202102_02_020");
-MsgDisp("Sassa","You really make my days stand out.");
-MsgDisp("主人公","(Stand out?
+MsgDisp("Sassa","Today's look is totally working for you.");
+MsgDisp("主人公","(Totally working...?
 In any case, it seems like he's happy!)");

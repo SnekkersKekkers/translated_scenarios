@@ -37,9 +37,9 @@ Alright, let's go!");
     MsgClose();
     ChOpen(3,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010300001_03_030");
-    MsgDisp("Honda","Isn't it a common excuse to be late
-because you helped an old lady on the way
-there?");
+    MsgDisp("Honda","You know how people always say they're
+late because they were helping an old
+lady?");
     MsgDisp("主人公","Did you help out an old lady?");
     ChEye(3,4);
     ChMouth(3,0);

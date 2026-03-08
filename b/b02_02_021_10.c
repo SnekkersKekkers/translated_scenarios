@@ -3,8 +3,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 VoicePlay("B020202110_02_000");
 MsgDisp("Sassa","Oh...
-I thought it would be your usual outfit,
-so I was a little shocked.");
+It's your usual style, but my heart
+skipped a beat.");
 MsgDisp("主人公","What do you think of it?");
 ChEye(2,0);
 ChMouth(2,0);

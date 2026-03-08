@@ -63,7 +63,7 @@ Thank you though, sorry.");
     VoicePlay("B010600000_06_060");
     MsgDisp("Himuro","...Oh.
 I see.
-Well, then.");
+Then it's fine.");
     MsgDispSksp(0);
     break ;
     default :

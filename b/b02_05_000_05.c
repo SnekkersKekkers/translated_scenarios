@@ -8,8 +8,8 @@ ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("B020500005_05_010");
-MsgDisp("Hiiragi","Being cold can be a large danger to women,
-so do not let your guard down. No matter
-the reason. Does that make sense?");
+MsgDisp("Hiiragi","Getting cold is a woman's worst enemy, so
+don't let your guard down. No matter the
+reason. Understood?");
 MsgDisp("主人公","(Urgh...
 I don't think I have enough on...)");

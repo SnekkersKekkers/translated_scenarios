@@ -10,8 +10,9 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102134_01_010");
-MsgDisp("Kazama","Yeah, you're a one-of-a-kind person.
-I've come to like it too, thanks to you.");
+MsgDisp("Kazama","Yeah, you’re one of the few people who 
+can really pull off those clothes.
+I've come to like them too, thanks to you.");
 MsgDisp("主人公","(Oh, good!
 ｛Kazama＊＊｝ seems to have started to love
 clothes like these, too!)");

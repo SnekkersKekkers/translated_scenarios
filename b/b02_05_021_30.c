@@ -20,4 +20,4 @@ VoicePlay("B020502130_05_030");
 MsgDisp("Hiiragi","I've come to naturally associate you
 with that fashion now. It may just be
 clothes, but that's quite impressive.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to really like this!");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to really like this!)");

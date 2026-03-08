@@ -3,9 +3,9 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0,1);
 VoicePlay("B020200010_02_000");
-MsgDisp("Sassa","Is what you have today a must have item
+MsgDisp("Sassa","Is what you're wearing today a must-have
 for girls?
-I've seen it around a bit.");
+I've been seeing it around.");
 MsgDisp("主人公","This ｛流行アクセサリ名｝ is popular right now.");
 ChEye(2,0);
 ChMouth(2,4);

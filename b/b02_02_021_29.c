@@ -11,7 +11,7 @@ ChMotion(2,0);
 VoicePlay("B020202129_02_010");
 MsgDisp("Sassa","Yeah.
 There's something cute about it, even when
-it's so adult.");
+it's so modest.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

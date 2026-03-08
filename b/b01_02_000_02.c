@@ -73,9 +73,9 @@ Why?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B010200002_02_070");
-    MsgDisp("Sassa","You asked why too...Seems like I walked
-here normally at first? But before I knew
-it, I started running.");
+    MsgDisp("Sassa","Why, you ask...
+I was walking normally at first, you know?
+But before I knew it, I started running.");
     MsgDisp("主人公","What?
 You came here running?");
     ChEye(2,4);
@@ -93,9 +93,9 @@ Somehow, that makes me a little happy.");
     ChMotion(2,2);
     ChCheek(2,10);
     VoicePlay("B010200002_02_090");
-    MsgDisp("Sassa","I end up running towards things I like
-naturally...
-I'm sort of like a dog, in that way.");
+    MsgDisp("Sassa","I just naturally start running toward
+things I like...
+I'm sort of like a dog, huh?");
     MsgDispSksp(0);
     break ;
     default :

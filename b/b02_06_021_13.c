@@ -2,7 +2,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602113_06_000");
-MsgDisp("Himuro","Well, when I look up close it isn't so
+MsgDisp("Himuro","Well, looking more closely, it's not so
 bad.");
 MsgDisp("主人公","When you look up close it isn't bad?");
 ChEye(6,0);

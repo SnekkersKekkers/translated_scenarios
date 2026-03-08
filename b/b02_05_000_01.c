@@ -9,5 +9,5 @@ ChMouth(5,3);
 VoicePlay("B020500001_05_010");
 MsgDisp("Hiiragi","That sort of fashion is also fitting for
 you.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊} seems to like these 
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to like these 
 types of clothes.)");

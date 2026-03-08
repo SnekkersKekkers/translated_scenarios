@@ -14,9 +14,9 @@ switch (ChPrmGet(5,6)){
     case 2:
     ChMotion(5,1);
     VoicePlay("B010500000_05_000");
-    MsgDisp("Hiiragi","If you believe you will be running late,
-please tell me in advance. Proper
-communication and reporting is important.");
+    MsgDisp("Hiiragi","If you're going to be late, let me know
+ahead of time. Communication is
+important.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Yes, I'll be more careful...");
     MsgDispSksp(0);

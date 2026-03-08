@@ -70,9 +70,9 @@ I'll get here first from now on.");
     MsgDisp("Himuro","I didn't want to keep you waiting.
 Wasting someone's time is the worst thing
 a person can do.");
-    MsgDisp("主人公","But isn't it fun to wait a little,
-wondering anxiously when the person will
-arrive?");
+    MsgDisp("主人公","But isn't it kind of exciting to wait,
+wondering when the other person will
+show up?");
     ChEye(6,0);
     ChMouth(6,2);
     ChMotion(6,5);

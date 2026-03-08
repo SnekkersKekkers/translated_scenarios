@@ -2,7 +2,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B020700014_07_000");
-MsgDisp("Mikage","Ah, you're wearing that outfit.");
+MsgDisp("Mikage","Ah, looks like we're matching.");
 MsgDisp("主人公","Oh, you're right.
 What a coincidence.");
 ChEye(7,2);

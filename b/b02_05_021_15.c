@@ -14,8 +14,8 @@ MsgDisp("Hiiragi","No, I am giving a compliment.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B020502115_05_020");
-MsgDisp("Hiiragi","With you wearing it, it isn't a missed
-opportunity.
+MsgDisp("Hiiragi","When you wear it, you don't lose any
+of your elegance.
 Just as one would expect.");
 MsgDisp("主人公","(Oh, good!
 ｛Hiiragi＊＊＊｝ seems to like this 

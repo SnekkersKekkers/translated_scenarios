@@ -9,8 +9,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B020700005_07_010");
 MsgDisp("Mikage","You just now noticed it.
-Here, let's buy something to wear over
-here.");
+C'mon, I'll buy you something to put on
+nearby.");
 MsgDisp("主人公","(Ugh...
 I'm not wearing enough layers.
 What a failure...)");

@@ -5,7 +5,7 @@ ChMotion(2,3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030211100_02_000");
-MsgDisp("Sassa","Be careful about slipping down.
+MsgDisp("Sassa","Watch your step, okay?
 If it gets too dangerous, grab onto me.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Okay!");

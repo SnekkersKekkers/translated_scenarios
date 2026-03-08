@@ -11,7 +11,7 @@ ChMotion(5,0,1);
 VoicePlay("B020502125_05_010");
 MsgDisp("Hiiragi","Yes.
 But thanks to you, I have my answer.
-Rather than being bad, it's quite nice.");
+It's not bad at all. In fact, it's lovely.");
 MsgDisp("主人公","(Oh, good.
 Seems like it's okay to wear these clothes
 now.)");

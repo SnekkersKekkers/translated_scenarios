@@ -10,6 +10,6 @@ ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B020600000_06_010");
 MsgDisp("Himuro","...Not bad.
-You could even, maybe say it suits you.");
+You could even say it suits you.");
 MsgDisp("主人公","(Hooray!
 My outfit got a good reaction!)");

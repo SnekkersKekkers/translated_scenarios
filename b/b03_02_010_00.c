@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030201000_02_000");
-MsgDisp("Sassa","Where do you wanna look around at?");
+MsgDisp("Sassa","Where do you wanna look around?");
 MsgDisp("主人公","Hmm...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -17,6 +17,6 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B030201000_02_010");
 MsgDisp("Sassa","Alright, let's go.
-Leave carrying the goods to me.");
+Leave the bags to me.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

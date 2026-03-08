@@ -2,7 +2,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B020100005_01_000");
-MsgDisp("Kazama","What's wrong with you?");
+MsgDisp("Kazama","What happened?");
 MsgDisp("主人公","Huh...?");
 ChEye(1,2);
 ChMouth(1,2);

@@ -17,8 +17,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B020202128_02_020");
-MsgDisp("Sassa","But, I was kind of wrong.
-Combining strong colors and a strong
-personality is a new discovery for me.");
+MsgDisp("Sassa","But I was wrong.
+Combining bold colors with a bold
+personality might just be the best combo.");
 MsgDisp("主人公","(He seems to have started to like clothes
 in bright colors like this.)");

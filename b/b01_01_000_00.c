@@ -90,7 +90,7 @@ not going to just leave.");
     VoicePlay("B010100000_01_060");
     MsgDisp("Kazama","It's fine.
 You ran here for my sake, right?
-That's enough as-is.");
+That's more than enough.");
     MsgDispSksp(0);
     break ;
     default :

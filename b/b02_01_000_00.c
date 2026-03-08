@@ -10,7 +10,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020100000_01_010");
 MsgDisp("Kazama","That outfit. It really suits you.
-It's proof you know what looks
-good on yourself.");
+It's proof that you know what looks good
+on yourself.");
 MsgDisp("主人公","(｛Kazama＊＊｝ complimented my outfit!
 I'm glad I chose to wear it!)");

@@ -27,15 +27,15 @@ well.");
     MsgDisp("Hiiragi","I left home early because I intended to 
 go on a leisurely walk. 
 Next thing I knew, I was already here.");
-    MsgDisp("主人公","You must be a fast walker.
-Well then, let's be off!");
+    MsgDisp("主人公","You must walk fast, ｛Hiiragi＊＊＊｝.
+Let's take it slowly!");
     MsgDispSksp(1,0);
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B010500002_05_020");
-    MsgDisp("Hiiragi","Yes.
-Though I am sure I would enjoy walking
-with you more.");
+    MsgDisp("Hiiragi","Sounds good.
+Walking with you is sure to be more
+enjoyable.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -56,8 +56,9 @@ I wanted to see your surprised face.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B010500002_05_050");
-    MsgDisp("Hiiragi","No, it is nothing.
-Let us be off.");
+    MsgDisp("Hiiragi","Oh, nothing. 
+Just thinking out loud.
+Let's make haste.");
     MsgDispSksp(0);
     break ;
     default :

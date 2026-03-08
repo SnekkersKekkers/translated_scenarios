@@ -12,7 +12,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B030209000_02_010");
-MsgDisp("Sassa","Kind of an old person thing to do, right?
-Actually, it's fine.");
+MsgDisp("Sassa","It kinda has an old person vibe, y'know?
+I mean, it's fine though.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

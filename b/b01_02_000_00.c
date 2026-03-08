@@ -40,8 +40,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B010200000_02_030");
-    MsgDisp("Sassa","Well, I waited a bit, but I said I would.
-No need to sweat the small stuff.");
+    MsgDisp("Sassa","Well, I did wait a bit, I guess.
+But no need to sweat the small stuff.");
     MsgDispSksp(1,0);
     ChEye(2,0);
     ChMouth(2,4);
@@ -73,9 +73,9 @@ next time?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B010200000_02_070");
-    MsgDisp("Sassa","So next time you can be on time.
-That way it can overwrite you being late
-today.");
+    MsgDisp("Sassa","Then next time, make sure you're on time.
+That way, today's lateness gets
+overwritten.");
     MsgDispSksp(1,0);
     ChEye(2,0);
     ChMouth(2,4);

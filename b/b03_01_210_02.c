@@ -22,7 +22,8 @@ switch (MsgSelRsltGet()){
     MsgDisp("Kazama","So I guess the cats and dogs live
 together, huh?");
     MsgDispSksp(1,0);
-    MsgDisp("主人公","They probably enjoy it.");
+    MsgDisp("主人公","That way both dog and cat lovers can
+enjoy it.");
     MsgDispSksp(0);
     break ;
     case 2:

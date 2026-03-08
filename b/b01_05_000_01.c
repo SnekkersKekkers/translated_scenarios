@@ -35,8 +35,8 @@ Then, let's be off.");
     MsgDispSksp(1,0);
     ChMotion(5,2);
     VoicePlay("B010500001_05_030");
-    MsgDisp("Hiiragi","I am hesitant to forgive myself for
-keeping you waiting.");
+    MsgDisp("Hiiragi","I can't forgive myself for making you
+wait.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -60,7 +60,7 @@ I kept imagining the worst.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B010500001_05_060");
-    MsgDisp("Hiiragi","Thank you for that.
+    MsgDisp("Hiiragi","Thank you.
 However, I will not let myself become
 complacent to your kindness.");
     MsgDispSksp(0);

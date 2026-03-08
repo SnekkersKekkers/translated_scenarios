@@ -18,6 +18,5 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B020202112_02_020");
-MsgDisp("Sassa","...I think pretty much anything is fine
-for me.");
+MsgDisp("Sassa","...Wait, am I really okay with anything?");
 MsgDisp("主人公","(I think he likes this outfit!)");

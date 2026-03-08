@@ -12,8 +12,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402102_04_010");
-MsgDisp("Nanatsumori","You don't have to do that when you're
-naturally so energetic.
-You're full of energy even here.");
+MsgDisp("Nanatsumori","You don't even need to try that hard.
+It naturally suits you. That energy
+is contagious.");
 MsgDisp("主人公","(Awesome!
 ｛Nanatsumori＊｝ is really happy!)");

@@ -2,8 +2,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B020502104_05_000");
-MsgDisp("Hiiragi","Easy to move in clothes are the choice for
-the theater group's practice...");
+MsgDisp("Hiiragi","Easy-to-move-in clothes, just like what
+we wear for theater practice...");
 ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("B020502104_05_010");

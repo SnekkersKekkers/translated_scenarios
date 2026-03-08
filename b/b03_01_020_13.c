@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B030102002_01_000");
-    MsgDisp("Kazama","Well, let's get going.");
+    MsgDisp("Kazama","Figured you'd pick that.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     break ;

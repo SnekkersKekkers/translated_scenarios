@@ -11,6 +11,6 @@ ChMotion(2,3,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("B020200011_02_010");
 MsgDisp("Sassa","You wearing it makes me happy.
-I'm glad I gave it for you!");
+I'm glad I gave it to you!");
 MsgDisp("主人公","(｛Sassa＊＊｝ seems really happy!
 I'm glad I wore it. ♪)");

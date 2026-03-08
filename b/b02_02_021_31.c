@@ -21,7 +21,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B020202131_02_030");
-MsgDisp("Sassa","That's why from now on I'll have to rely
-on you!");
+MsgDisp("Sassa","So from now on, keep wearing stuff like
+that for me!");
 MsgDisp("主人公","(He seems to have really learned to love
 this outfit!)");

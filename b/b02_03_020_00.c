@@ -18,6 +18,6 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B020302000_03_020");
-MsgDisp("Honda","He's the most famous person from our
+MsgDisp("Honda","He's one of the famous alumni from our
 school, of course I do!");
 MsgDisp("主人公","(I wonder if ｛Honda＊＊｝ likes it?)");

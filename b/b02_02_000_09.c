@@ -11,7 +11,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B020200009_02_010");
 MsgDisp("Sassa","Ooh.
-I'm glad you're always up to date with the
-trends.");
+I like how you always put effort into
+looking nice.");
 MsgDisp("主人公","(Awesome!
 ｛Sassa＊＊｝ praised me!)");

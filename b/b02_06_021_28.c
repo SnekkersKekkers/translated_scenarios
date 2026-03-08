@@ -2,14 +2,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602128_06_000");
-MsgDisp("Himuro","Wearing something like that is what I'm
-used to seeing at the beach.");
+MsgDisp("Himuro","I should be used to seeing outfits like
+that at the beach, and yet...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602128_06_010");
-MsgDisp("Himuro","You dressing like that recently has me
-feeling anxious...
+MsgDisp("Himuro","But lately, when you dress like that,
+I can't stop staring...
 Why?");
 MsgDisp("主人公","(Oh, good.
 ｛Himuro＊＊｝ seems to have come to like

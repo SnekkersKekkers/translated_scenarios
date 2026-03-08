@@ -2,8 +2,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,5,1);
 VoicePlay("B020200006_02_000");
-MsgDisp("Sassa","That's one impressive, real original
-outfit.");
+MsgDisp("Sassa","That outfit's impressive, super original.");
 MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030208001_02_000");
 MsgDisp("Sassa","This is the perfect weather.
-It makes me want to start moving my body.");
+Makes me want to get moving.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe, I see.");
 MsgDispSksp(0);

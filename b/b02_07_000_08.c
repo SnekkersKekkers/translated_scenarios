@@ -11,7 +11,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B020700008_07_010");
-MsgDisp("Mikage","Very, very valuable.
-Take advantage of it all.");
+MsgDisp("Mikage","That's really important.
+Always hop on trends when you can.");
 MsgDisp("主人公","(Hooray!
 I got a compliment.♪)");

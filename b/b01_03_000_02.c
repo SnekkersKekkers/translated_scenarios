@@ -15,7 +15,7 @@ switch (ChPrmGet(3,6)){
     ChSet(3,0,1);
     VoicePlay("B010300002_03_000");
     MsgDisp("Honda","Looks like I'm the one who got it wrong.
-You're here so early.");
+I got here way too early.");
     MsgDisp("主人公","I see.
 I was surprised because I thought I was
 running late.");
@@ -24,9 +24,9 @@ running late.");
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B010300002_03_010");
-    MsgDisp("Honda","Isn't that good? Feelings of surprise like
-that are rare to come by. It accentuates
-it.");
+    MsgDisp("Honda","Isn't that a good thing?
+Surprise is a rare emotion to experience.
+Nice little accent to the day.");
     MsgDispSksp(0);
     break ;
     case 3:

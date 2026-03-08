@@ -3,8 +3,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B020102001_01_000");
-MsgDisp("Kazama","Hazuki Kei is looking at me...
-Again...");
+MsgDisp("Kazama","Hazuki Kei is staring at me again...");
 MsgDisp("主人公","Umm...");
 ChEye(1,3);
 ChMouth(1,2);

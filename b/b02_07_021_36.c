@@ -3,7 +3,7 @@ ChEye(7,5);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B020702136_07_000");
-MsgDisp("Mikage","You're amazing, what you have on today.");
+MsgDisp("Mikage","Your outfit today is amazing.");
 MsgDisp("主人公","What do you mean?");
 ChEye(7,0);
 ChMouth(7,0);
