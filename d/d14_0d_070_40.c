@@ -49,9 +49,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("D140D07040_22_030");
-MsgDisp("Hikaru","I totally get it!
-It would be impossible for Hikaru; that
-multi-faceted sort of like.");
+MsgDisp("Hikaru","I totally get it!\nIt would be impossible for Hikaru; that\nmulti-faceted sort of life.");
 MsgDisp("主人公","(Multi-faceted? Not a \"Double life\"? Is\nshe talking about how ｛Nanatsumori＊｝ \nis different at school than \"Nana\"...?)");
 BGMStop();
 MsgClose();
