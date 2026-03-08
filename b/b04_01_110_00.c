@@ -47,9 +47,8 @@ More like the Habataki Merlion.");
     ChMouth(1,2);
     ChMotion(1,1);
     VoicePlay("B040111000_01_030");
-    MsgDisp("Kazama","I don't have the qualifications to teach.
-Can't you just kind of paddle your way
-through?");
+    MsgDisp("Kazama","I don't have the skill or knowledge to
+teach you. Can't you just kinda wing it?");
     MsgDispSksp(1,7);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();

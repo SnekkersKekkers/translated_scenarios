@@ -69,8 +69,8 @@ airhead!");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108402_01_040");
-        MsgDisp("Kazama","Hey you, do you know what you're saying
-means?");
+        MsgDisp("Kazama","Hey, do you even know what you're
+saying?");
         MsgDisp("主人公","Umm...");
         ChEye(1,2);
         ChMouth(1,2);
@@ -119,7 +119,7 @@ fall, right?");
         MsgClose();
         ChOpen(1,255,3,3,1,#1,#1,0,0,0,30);
         VoicePlay("B040108402_01_100");
-        MsgDisp("Kazama","Definitely∋
+        MsgDisp("Kazama","Why∋
 Hey, you know I can totally hear you?
 That inner voice of yours.");
         MsgDisp("主人公","(Umm...

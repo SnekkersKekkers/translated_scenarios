@@ -20,7 +20,7 @@ BGMPlay("BGM_PLACE_PLANETA_RIUM",0.01);
 ScrFadeIn(0);
 VoicePlay("B030305000_03_010");
 MsgDisp("Honda","Right now, at this very moment, there are
-countless starts being born and dying
+countless stars being born and dying
 out...Oh, it's starting!");
 MsgDispSksp(0);
 MsgClose();

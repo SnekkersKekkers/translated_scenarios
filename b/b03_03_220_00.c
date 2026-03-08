@@ -32,8 +32,8 @@ Let's attack the main building in one go!");
     ChEyeOpenLevel(3,0);
     VoicePlay("B030322000_03_030");
     MsgDisp("Honda","You got it.
-Every time I visit here, there's new
-historical documents added");
+Every time I visit, there are new
+historical documents on display.");
     MsgDisp("主人公","New historical documents...?");
     MsgDispSksp(1,0);
     ChEye(3,0);

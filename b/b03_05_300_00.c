@@ -15,8 +15,8 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("B030530000_05_010");
 MsgDisp("Hiiragi","At school and in the theater, I always
-have a role to perform. ...But here,
-there's nothing in particular.");
+have a role to play. ...But right now,
+I'm nobody.");
 ChEye(5,0);
 ChMotion(5,3);
 ChEyeOpenLevel(5,#1);

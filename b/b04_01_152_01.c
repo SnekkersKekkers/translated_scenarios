@@ -30,7 +30,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,8);
     VoicePlay("B040115201_01_020");
     MsgDisp("Kazama","Good attitude.
-Then, coach also can't lose.");
+Then your coach can't afford to lose,
+either.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -13,7 +13,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B030706100_07_010");
-MsgDisp("Mikage","What, don't I look like I am?");
+MsgDisp("Mikage","Of course I am!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

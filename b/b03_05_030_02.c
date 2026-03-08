@@ -29,8 +29,8 @@ I thought the same.");
     MsgDispSksp(1,0);
     ChMotion(5,4);
     VoicePlay("B030503002_05_030");
-    MsgDisp("Hiiragi","The words 'deep sea' has a strange charm
-to it.
+    MsgDisp("Hiiragi","The words 'deep sea' have a strange charm
+to them.
 Yes, let's go there.");
     MsgDispSksp(0);
     break ;

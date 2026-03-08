@@ -12,7 +12,7 @@ ChEye(5,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B030518000_05_010");
-MsgDisp("Hiiragi","Are you not phased by it?
+MsgDisp("Hiiragi","Are you not fazed by it?
 The smell of popcorn.");
 MsgDisp("主人公","No, I want to eat it!
 Let's go buy some.");

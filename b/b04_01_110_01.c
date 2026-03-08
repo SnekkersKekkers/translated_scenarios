@@ -48,7 +48,7 @@ Especially looking at you.");
     ChEyeOpenLevel(1,0);
     ChCheek(1,10);
     VoicePlay("B040111001_01_030");
-    MsgDisp("Kazama","I don't have any preference in girl
+    MsgDisp("Kazama","I don't have preferences about girls'
 swimsuits!");
     MsgDateResultDisp();
     break ;

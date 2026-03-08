@@ -39,7 +39,7 @@ listen to what I have to say.");
     ChMotion(1,0);
     VoicePlay("B040115200_01_030");
     MsgDisp("Kazama","First is posture.
-Stand up straight/.");
+Stand up straight.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

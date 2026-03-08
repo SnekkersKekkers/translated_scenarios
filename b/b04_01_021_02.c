@@ -57,9 +57,8 @@ appeal.");
         ChMotion(1,0);
         VoicePlay("B040102102_01_040");
         MsgDisp("Kazama","...It's like I can't hear it at all.");
-        MsgDisp("主人公","That's no good.
-Listen really close.
-Close your eyes.");
+        MsgDisp("主人公","No, you have to close your eyes
+properly.");
         ChEye(1,2);
         ChMouth(1,1);
         ChMotion(1,3);

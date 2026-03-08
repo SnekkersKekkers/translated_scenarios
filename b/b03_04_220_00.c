@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("B030422000_04_020");
-    MsgDisp("Nanatsumori","Well, tower sounds good.
+    MsgDisp("Nanatsumori","Well, the weather's nice, so why not.
 You got it.");
     MsgDispSksp(0);
     break ;

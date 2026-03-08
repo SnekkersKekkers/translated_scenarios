@@ -42,7 +42,7 @@ What, is that really that unusual?");
     VoicePlay("B040102100_01_030");
     MsgDisp("Kazama","Yeah, but you have that aura that just
 attracts people to you.
-We'll never be safe.");
+I can never let my guard down.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

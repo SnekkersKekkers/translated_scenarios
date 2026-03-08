@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030614000_06_000");
 MsgDisp("Himuro","......");
-MsgDisp("主人公","...Having fun?");
+MsgDisp("主人公","...You're excited, aren't you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

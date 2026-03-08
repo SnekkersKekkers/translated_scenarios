@@ -41,7 +41,7 @@ footprints.");
         VoicePlay("B040106302_01_030");
         MsgDisp("Kazama","Listen, once something's been carved,
 it doesn't vanish even if you can't
-see it. Just retrace the original.");
+see it. Just trace over what's left.");
         MsgDisp("主人公","Umm, ｛Kazama＊＊｝, what's wrong?");
         ChEye(1,4);
         ChMouth(1,4);
@@ -98,9 +98,9 @@ future!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040106302_01_090");
-    MsgDisp("Kazama","Your stride is just too small. Something
-about your tiny footprints feels like I'm
-walking alongside a little dog, huh?");
+    MsgDisp("Kazama","Yours are just too narrow. These
+footprints kinda look like I'm out
+walking a little dog, huh?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

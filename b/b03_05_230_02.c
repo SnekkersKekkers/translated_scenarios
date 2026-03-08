@@ -37,8 +37,8 @@ Let's watch it from the best spot.");
     ChMotion(5,2);
     ChEyeOpenLevel(5,8);
     VoicePlay("B030523002_05_020");
-    MsgDisp("Hiiragi","I see...That's unfortunate. It's a bit
-backwards, but it can't be helped.");
+    MsgDisp("Hiiragi","I see...That's unfortunate. It's hard to
+leave, but it can't be helped.");
     MsgDispSksp(0);
     break ;
     default :

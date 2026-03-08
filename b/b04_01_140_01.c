@@ -5,9 +5,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040114001_01_000");
-MsgDisp("Kazama","Listen up.
-Don't get separated from me.
-There might be some dodgy guys here.");
+MsgDisp("Kazama","Listen, don't get separated from me.
+There might be some sketchy guys here.");
 MsgSel("It's so packed, we can't get separated","You're worrying too much","It's because today's show was a punk band");
 switch (MsgSelRsltGet()){
     case 0:

@@ -24,8 +24,8 @@ never hear him in a venue this close.");
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040104600_01_010");
-    MsgDisp("Kazama","The performance was okay.
-You, on the other hand, are amazing.");
+    MsgDisp("Kazama","You're the amazing one here.
+Calling that performance just 'okay'.");
     MsgDateResultDisp();
     break ;
     case 2:

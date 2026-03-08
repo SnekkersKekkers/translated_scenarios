@@ -30,8 +30,8 @@ things need proper appreciation.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040102101_01_020");
-    MsgDisp("Kazama","Not really, do you think it needs a better
-name?");
+    MsgDisp("Kazama","Nah, it doesn't need to be flashy,
+right?");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030822000_08_000");
 MsgDisp("Shirahane","Sucha big and regal castle...");
 MsgDisp("主人公","Yeah.
-It's our city's number 1 pride.");
+It's our city's pride and joy.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,2,1);

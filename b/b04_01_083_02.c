@@ -44,8 +44,8 @@ second longer?");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108302_01_030");
-        MsgDisp("Kazama","You should study up more about the mood of
-the atmosphere, seriously.");
+        MsgDisp("Kazama","You should study up a bit more on how to
+set the mood, seriously.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,8 +62,8 @@ the atmosphere, seriously.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108302_01_050");
-        MsgDisp("Kazama","It just made a self introduction.
-You're a really dummy, you know?");
+        MsgDisp("Kazama","It just made a self-introduction.
+You're a real dummy, you know?");
         MsgDisp("主人公","Aww...");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
@@ -90,8 +90,8 @@ normal conversation.");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108302_01_080");
         MsgDisp("Kazama","Wait a second.
-Thought I heard something weird just
-now...");
+Don't just suddenly put me on the spot
+like that...");
         ChEye(1,4);
         ChMouth(1,4);
         ChMotion(1,4);

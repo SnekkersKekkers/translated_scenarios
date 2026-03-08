@@ -62,7 +62,7 @@ So it can't be helped.");
     ChMotion(2,3);
     VoicePlay("B030223000_02_050");
     MsgDisp("Sassa","Oh, that's awesome.
-Let's jump with all our heart in it!");
+Let's go all out together!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -83,7 +83,7 @@ Let's jump with all our heart in it!");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B030223000_02_070");
-    MsgDisp("Sassa","If you want to ride it's fine I guess...");
+    MsgDisp("Sassa","If you want to ride, it's fine I guess...");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

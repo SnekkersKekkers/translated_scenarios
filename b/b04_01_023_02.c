@@ -65,9 +65,9 @@ What do they know about you?");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040102302_01_060");
-        MsgDisp("Kazama","Listen, I don't like it when others just
-say things like they know anything about
-someone. I especially can't stand you.");
+        MsgDisp("Kazama","Listen, I don't like it when others act
+like they know everything.
+Especially when it's about you.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,1);

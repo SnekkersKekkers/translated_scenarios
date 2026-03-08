@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,1);
     VoicePlay("B030623001_06_020");
-    MsgDisp("Himuro","Are you not scared?
-Come, let's go.");
+    MsgDisp("Himuro","Getting cold feet?
+Come on, let's go.");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -65,7 +65,7 @@ Come, let's go.");
     ChMotion(6,3);
     VoicePlay("B030623001_06_050");
     MsgDisp("Himuro","Good choice.
-That's the the only option.");
+That's the only option.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -104,7 +104,7 @@ Are you kidding?");
     ChMouth(6,2);
     ChMotion(6,2);
     VoicePlay("B030623001_06_080");
-    MsgDisp("Himuro","Already...");
+    MsgDisp("Himuro","Ugh...");
     break ;
     case 4:
     MsgDispSksp(1,0);

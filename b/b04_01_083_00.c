@@ -37,7 +37,8 @@ That phrase means they're in a grave.");
     ChMotion(1,3);
     VoicePlay("B040108300_01_030");
     MsgDisp("Kazama","Right?
-This is just an empty lot, right?");
+This is basically just a vacant house,
+huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

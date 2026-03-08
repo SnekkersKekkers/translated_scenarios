@@ -22,8 +22,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040112101_01_010");
     MsgDisp("Kazama","It's nice. Flea markets like this were
 popular in England, too. People would sell
-items straight out of the trunk of their
-cars.");
+stuff straight out of their car trunks.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

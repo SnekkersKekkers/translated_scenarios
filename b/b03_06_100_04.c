@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030610004_06_000");
-MsgDisp("Himuro","It doesn't matter whether or not you
-understand it.");
+MsgDisp("Himuro","Whether you can actually understand it
+is another matter, though.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

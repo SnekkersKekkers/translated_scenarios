@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040101000_01_010");
     MsgDisp("Kazama","Right?
-I knew I had a good opinion.
-You can wear it next time we go out.");
+My eye for this stuff is spot-on.
+Wear it next time we go out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

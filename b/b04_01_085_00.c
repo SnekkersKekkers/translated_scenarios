@@ -13,8 +13,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040108500_01_010");
-    MsgDisp("Kazama","It's refreshing to hear some just
-reasoning come from your mouth.");
+    MsgDisp("Kazama","It's refreshing to hear such a
+an obvious point come from your
+mouth.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +43,8 @@ Even now.");
     ChEyeOpenLevel(1,7);
     VoicePlay("B040108500_01_030");
     MsgDisp("Kazama","Ohh, that could be...
-Maybe they're hiding something by saying
-it's just the home of the fireflies.");
+Maybe they're using the firefly habitat
+as a cover to hide something.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

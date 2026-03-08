@@ -71,9 +71,9 @@ my shoulder, even hold my hand.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040105102_01_080");
-        MsgDisp("Kazama","You get it? We can do something a little
-bit different, since the two of us have
-come this far...");
+        MsgDisp("Kazama","Listen, we came all the way out here
+together, so there's gotta be something
+different from usual, right...");
         MsgDisp("主人公","(｛Kazama＊＊｝, but aren't we still in
 Habataki City?)");
         break ;

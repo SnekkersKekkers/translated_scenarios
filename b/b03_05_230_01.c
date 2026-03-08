@@ -54,9 +54,9 @@ Let's enjoy the view.");
     ScrFadeIn(0);
     ChMotion(5,4);
     VoicePlay("B030523001_05_040");
-    MsgDisp("Hiiragi","The scenery is beautiful until you look
-down...This is the charm of riding the
-Ferris Wheel.");
+    MsgDisp("Hiiragi","The scenery is beautiful, until you
+happen to look down...
+That's the charm of the Ferris wheel.");
     break ;
     case 2:
     MsgDispSksp(1,0);
@@ -64,8 +64,8 @@ Ferris Wheel.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030523001_05_050");
-    MsgDisp("Hiiragi","That feeling of falling for a long time,
-is that something you like?");
+    MsgDisp("Hiiragi","That feeling of falling...
+Do you like it too?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

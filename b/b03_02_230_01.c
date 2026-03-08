@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223001_02_020");
-    MsgDisp("Sassa","We have to get on before we can get
-started, right?");
+    MsgDisp("Sassa","We can't get going without riding this 
+first, right?");
     break ;
     case 1:
     MsgDispSksp(1,0);

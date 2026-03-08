@@ -9,8 +9,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B030522000_05_000");
 MsgDisp("Hiiragi","The grandeur of Habataki Castle.
-It makes you want to improve your own
-home.");
+It makes you want to straighten up in
+respect.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B030522000_05_010");

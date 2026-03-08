@@ -93,8 +93,8 @@ I haven't readied my mind yet!");
     ChMotion(3,4);
     ScrFadeIn(0);
     VoicePlay("B030323000_03_080");
-    MsgDisp("Honda","It's hard to get your ears used to the
-dizziness.");
+    MsgDisp("Honda","It's really hard to train your inner ear
+for this kind of thing.");
     break ;
     default :
     DbgAssert(0);

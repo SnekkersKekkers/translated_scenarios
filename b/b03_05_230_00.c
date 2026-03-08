@@ -18,9 +18,9 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030523000_05_010");
-    MsgDisp("Hiiragi","Correct answer.
-It would be nice if we were in front of
-the line already!");
+    MsgDisp("Hiiragi","Great choice.
+It'd be amazing if we got the front
+seats!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

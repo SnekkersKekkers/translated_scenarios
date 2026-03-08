@@ -84,8 +84,8 @@ They made it huge...");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B030723000_07_060");
-    MsgDisp("Mikage","I said I would too, after all...
-Didn't I?");
+    MsgDisp("Mikage","I guess I have to do it too...
+Don't I?");
     break ;
     case 3:
     MsgDispSksp(1,0);

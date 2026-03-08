@@ -39,8 +39,7 @@ There's no such activity like that here.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040106201_01_030");
-    MsgDisp("Kazama","This is why you're always giving me death
-flags.
+    MsgDisp("Kazama","This is why you're always worrying me.
 Hey, get over here.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

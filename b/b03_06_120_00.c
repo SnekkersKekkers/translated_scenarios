@@ -15,5 +15,6 @@ ChMouth(6,2);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("B030612000_06_010");
-MsgDisp("Himuro","Unexpected, I didn't research enough.");
+MsgDisp("Himuro","I wasn't expecting this. Should've done
+more research.");
 MsgDispSksp(0);

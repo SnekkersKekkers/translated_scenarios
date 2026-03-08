@@ -72,9 +72,9 @@ Hear what?");
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108502_01_060");
-        MsgDisp("Kazama","No, I mean something different. Obviously
-you can't hear the voice like this. I'm
-not trying to check your hearing.");
+        MsgDisp("Kazama","You're going off track again. Obviously
+you can hear my normal voice. I'm not
+trying to check your hearing.");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);

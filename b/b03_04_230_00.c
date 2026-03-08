@@ -28,9 +28,9 @@ switch (MsgSelRsltGet()){
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("B030423000_04_020");
-    MsgDisp("Nanatsumori","Thinking about how to make a shoot in high
-winds...Of course, you just have to
-quickly fix your hair.");
+    MsgDisp("Nanatsumori","If I think of it as shooting photos in
+high winds...Right, I can just fix my
+hair afterward.");
     break ;
     case 1:
     MsgDispSksp(1,0);

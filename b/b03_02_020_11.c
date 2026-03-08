@@ -23,7 +23,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,2);
     ChMotion(2,4);
     MsgDisp("Sassa","The wharf...
-I wonder what kind of place that is?");
+What was that place like again?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

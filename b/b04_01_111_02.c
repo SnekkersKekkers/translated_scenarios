@@ -110,7 +110,8 @@ Here, give me your hand.");
         SEPlay("EV_SE_760");
         SEWait();
         MsgDisp("主人公","(Huh?
-Feels like something's different now...)");
+Feels like nothing's different from
+usual...)");
         break ;
         default :
         DbgAssert(1);

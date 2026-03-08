@@ -29,8 +29,8 @@ Absolutely, never touch one!");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040106102_01_020");
-    MsgDisp("Kazama","This is normal behavior.
-All because you're a curious monster.");
+    MsgDisp("Kazama","It's your usual behavior that worries me.
+You're a total curiosity monster.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -47,7 +47,7 @@ All because you're a curious monster.");
         VoicePlay("B040106102_01_030");
         MsgDisp("Kazama","Haah...
 I'm being serious here.
-Jeez, what do other people think?");
+Jeez, you never think about how I feel.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -75,7 +75,7 @@ and people just flock to you...");
         ChCheek(1,7);
         VoicePlay("B040106102_01_060");
         MsgDisp("Kazama","And consider what you're wearing today.
-You're like sitting bait.");
+You're basically just bait.");
         MsgDisp("主人公","You don't need to say that...");
         ChEye(1,0);
         ChMouth(1,1);
@@ -83,9 +83,8 @@ You're like sitting bait.");
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("B040106102_01_070");
-        MsgDisp("Kazama","No, that's just how amazing you are.
-You have that power to draw others in.
-Especially today.");
+        MsgDisp("Kazama","No, that's just how amazing your 
+attraction powers are. Especially today.");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,0);

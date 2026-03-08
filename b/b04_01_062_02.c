@@ -51,7 +51,7 @@ were curious about...");
         MsgDisp("Kazama","Ahh, that's right.
 Like that ringing bell?");
         MsgDisp("主人公","Yeah.
-If it was just me myself, I would have
+If it was just me alone, I would have
 never done anything like that.");
         ChEye(1,4);
         ChMouth(1,2);

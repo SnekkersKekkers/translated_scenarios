@@ -28,7 +28,7 @@ Let's go to the farm and see them.");
     ChMotion(7,3);
     VoicePlay("B030724001_07_020");
     MsgDisp("Mikage","Camping, huh.
-That's great, gets me riled up.");
+Nice, I can feel the excitement!");
     MsgDispSksp(0);
     break ;
     default :

@@ -34,7 +34,7 @@ You always say whatever's on your mind.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108202_01_020");
         MsgDisp("Kazama","What's with that?
-I pretty much usually say what I'm
+I pretty much always say what I'm
 thinking.");
         MsgDateResultDisp();
         break ;
@@ -47,7 +47,8 @@ thinking.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108202_01_030");
         MsgDisp("Kazama","What do you mean, feel better.
-...Sheesh, I'm not the type to do that.");
+...Sheesh, I'm not carefree like a certain
+someone I know.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -90,8 +91,8 @@ changed some while I was gone.");
         ChMotion(1,0);
         VoicePlay("B040108202_01_080");
         MsgDisp("Kazama","It's fine.
-That fact that you were always in good
-health is something I wished for, too.");
+You always being happy and healthy is
+something I wished for, too.");
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         Wait(12,0);
@@ -129,8 +130,8 @@ I'm really happy.)");
     ChMotion(1,0,1);
     VoicePlay("B040108202_01_110");
     MsgDisp("Kazama","Pink?
-Doesn't that feel a little suspicious?
-There's not atmosphere about that at all.");
+That sounds kind of sketchy.
+Bit of a vibe-killer.");
     MsgDateResultDisp();
     break ;
     default :

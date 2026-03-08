@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B030623000_06_010");
-    MsgDisp("Himuro","Hmm, that doesn't scare me.");
+    MsgDisp("Himuro","Hmm, so you're not scared.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

@@ -63,8 +63,8 @@ But you know, I remember.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108102_01_060");
         MsgDisp("Kazama","You were just a scared, timid little kid.
-And from the day on that we were in the
-same class, we always went home together.");
+And from the day we were in the same
+class, we always went home together.");
         MsgDisp("主人公","Yeah.
 You were always cheering me up.");
         ChEye(1,0);
@@ -72,7 +72,7 @@ You were always cheering me up.");
         ChMotion(1,0,1);
         VoicePlay("B040108102_01_070");
         MsgDisp("Kazama","Ooh, so you do remember a thing or two?
-And I think it was zero.");
+I thought it'd be zero.");
         MsgDisp("主人公","Hey, jeez.
 But, thank you.");
         ChEye(1,0);
@@ -80,9 +80,9 @@ But, thank you.");
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108102_01_080");
-        MsgDisp("Kazama","Oh-hoh. That honesty is nice. A proper
-thank you. From here on out, thank me
-everyday.");
+        MsgDisp("Kazama","Oh-hoh. That honesty is nice. Make sure
+you're always grateful, okay? From now on,
+thank me once a day.");
         MsgDisp("主人公","(｛Kazama＊＊｝, you've cared about me for so
 long now...
 It makes me happy.)");

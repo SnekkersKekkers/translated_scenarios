@@ -47,9 +47,8 @@ that awhile back.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040103102_01_030");
-        MsgDisp("Kazama","...Are you serious right now?
-I was talking about like how the fish see
-us.");
+        MsgDisp("Kazama","...That's obviously not what I meant.
+I was asking how the fish see us.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,8 +58,9 @@ us.");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040103102_01_040");
-        MsgDisp("Kazama","Are we talking about working now?
-You say the most random things.");
+        MsgDisp("Kazama","That's not what I meant by 'behind the
+glass'.
+You say the most random things sometimes.");
         ChEye(1,3);
         ChMouth(1,2);
         MsgDisp("主人公","Was what I said really that weird...?");

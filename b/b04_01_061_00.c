@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040106100_01_020");
     MsgDisp("Kazama","Sounds good to me.
-Better than being shoved in the ocean like
-sardines in a can.");
+Better than being packed in like
+sardines out there.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

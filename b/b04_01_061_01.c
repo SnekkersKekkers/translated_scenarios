@@ -44,7 +44,7 @@ all year-round.");
     VoicePlay("B040106101_01_030");
     MsgDisp("Kazama","Yeah, that's for sure.
 That moment when the waves break, that's a
-shine that's only found in summer.");
+brilliance you only see in summer.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

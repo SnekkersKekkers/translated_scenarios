@@ -25,7 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,1);
     VoicePlay("B030615000_06_020");
-    MsgDisp("Himuro","I thought as much.");
+    MsgDisp("Himuro","That's the spirit.");
     MsgDispSksp(0);
     break ;
     default :

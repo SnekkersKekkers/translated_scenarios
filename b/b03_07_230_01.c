@@ -107,7 +107,7 @@ Surely you're kidding?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B030723001_07_080");
-    MsgDisp("Mikage","Look like I better not let my guard
+    MsgDisp("Mikage","Looks like I better not let my guard
 down...");
     break ;
     case 4:

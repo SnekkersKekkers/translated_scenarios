@@ -28,7 +28,7 @@ Let's go!");
     ChMotion(3,1);
     ScrFadeIn(0);
     VoicePlay("B030323001_03_020");
-    MsgDisp("Honda","I'm full of energy today!");
+    MsgDisp("Honda","I've got a good feeling about today!");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -57,7 +57,8 @@ but we're trapped in here.");
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("B030323001_03_050");
-    MsgDisp("Honda","I'm meeting your challenge, alright?");
+    MsgDisp("Honda","I'll be right there cheering you on,
+okay?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
