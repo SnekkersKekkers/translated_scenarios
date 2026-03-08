@@ -49,12 +49,12 @@ ChMotion(5,4);
 VoicePlay("A020520000_05_020");
 MsgDisp("Hiiragi","We were just introducing ourselves.");
 VoicePlay("A020520000_41_010");
-MsgDisp("President","Hey you, are you surprised?");
-MsgDisp("主人公","Surprised about what?");
+MsgDisp("President","So, were you surprised?");
+MsgDisp("主人公","Huh?");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("A020520000_41_020");
-MsgDisp("President","Did no one tell you? Hiiragi-kun is
+MsgDisp("President","What, he didn't tell you? Hiiragi-kun is
 the Habataki Theater Company chairman
 and a Student Council member too.");
 MsgDisp("主人公","Woah, he's the chairman...∋");
@@ -73,8 +73,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("A020520000_05_040");
-MsgDisp("Hiiragi","Alright then, I'm off to the school's
-beautification campaign.");
+MsgDisp("Hiiragi","Now then, I'm off to the school
+cleanup campaign.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

@@ -84,8 +84,8 @@ MsgClose();
 BGOpen("wf400",1);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh, we're here.
-This is the event hall right here, and——");
+MsgDisp("主人公","Okay, here we are.
+This is the event hall, and—");
 VoicePlay("A020510000_43_000");
 MsgDisp("Theater Member","Ahh! You're here, Chairman!");
 MsgDisp("主人公","(Chairman...?)");
@@ -118,8 +118,8 @@ VoicePlay("A020510000_05_110");
 MsgDisp("Hiiragi","I wanted to do a bit of shopping,
 but I lost my way back to the hall.
 I'm glad that I met you.");
-MsgDisp("主人公","Don't worry, it was just a few
-blocks...");
+MsgDisp("主人公","Oh, it's no trouble.
+It was really close by...");
 VoicePlay("A020510000_43_010");
 MsgDisp("Theater Member","Chairman! It's time!");
 ChEye(5,0);
@@ -128,7 +128,7 @@ ChMotion(5,0);
 VoicePlay("A020510000_05_120");
 MsgDisp("Hiiragi","If you'd like to come and see the play,
 you're welcome anytime.
-Well, then.");
+Until we meet again.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

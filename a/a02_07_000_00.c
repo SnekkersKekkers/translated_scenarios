@@ -157,8 +157,8 @@ ChOpen(7,254,0,0,3,#1,#1,0,0);
 BGMPlay("BGM_C07_MIKAGE_C",0.01);
 ScrFadeIn(0);
 VoicePlay("A020700000_07_080");
-MsgDisp("Mikage","So, let's try again from the top.
-I kind of let you see some bad stuff.");
+MsgDisp("Mikage","Man, I showed you guys something uncool
+right off the bat.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -190,9 +190,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("A020700000_07_120");
-MsgDisp("Mikage","Wait wait wait!
-Shh! Shh!
-Stop the noise, I tell you!");
+MsgDisp("Mikage","Wait wait, shh! Shh!
+Keep it down already!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -209,9 +208,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("A020700000_07_140");
-MsgDisp("Mikage","It's already time. Before we go, is there
-someone who desperately needs an answer to
-their question?");
+MsgDisp("Mikage","Wow, look at the time.
+Anyone got a final question they're
+just dying to ask?");
 VoicePlay("A020700000_45_030");
 MsgDisp("School Girl B","Sensei, what subject do you 
 teach?");

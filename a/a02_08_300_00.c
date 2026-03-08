@@ -5,9 +5,9 @@ MsgDisp("主人公","I'm ｛主人公苗字｝ and I'll be
 working here starting today.
 Nice to meet you.");
 VoicePlay("A020830000_40_000");
-MsgDisp("Manager","Your shift will be every week, Wednesday
-and Friday, we decided, yeah?
-Counting on you.");
+MsgDisp("Manager","Your shifts are Wednesdays and Fridays
+every week, okay?
+I'm counting on you.");
 MsgDisp("主人公","Yes, understood.");
 MsgDisp("主人公","(Alright, let's do our best!)");
 MsgDisp("","　　　　　　　　　　 ・
@@ -82,9 +82,9 @@ SEStop("EV_SE_589",1);
 ChEye(8,3);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_050");
-MsgDisp("Shirahane","It was my pleasure. So by the by, what's a
-girl like you from a posh school doin'
-working at a gas station?");
+MsgDisp("Shirahane","Don't mention it. But hey, what's a girl
+from a fancy school like yours doin'
+workin' at a gas station?");
 MsgDisp("主人公","Eh, is it that weird?");
 ChEye(8,2);
 ChMouth(8,0);

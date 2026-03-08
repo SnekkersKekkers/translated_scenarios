@@ -9,24 +9,23 @@ ScrFadeOut(0,0);
 SEWait();
 BGOpen("ho000",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah～ What a nice morning. I get the
-feeling that a lot of good things will
-happen in my high school life!)");
-MsgDisp("主人公","(Ryota-kun came over yesterday, but I
-wasn't home to see him...
-Wonder how he's changed?)");
-MsgDisp("主人公","(He might look different now, but I bet
-he's still the same smart, lively boy I
-knew.)");
+MsgDisp("主人公","(Ahh～ What a beautiful morning.
+I just know good things are gonna happen
+in my high school life!)");
+MsgDisp("主人公","(Ryota-kun came by my house yesterday.
+But I wasn't there to see him...)");
+MsgDisp("主人公","(I wonder if his vibe has changed.
+But I bet he's still the same smart,
+lively boy he always was...)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0,0);
 SEWait();
 BGOpen("sc010",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's the same road I always walked back
-in elementary school, how nostalgic.
-It feels kind of strange...)");
+MsgDisp("主人公","(The same path I walked in elementary
+school. Just like last night's dream...
+How strange...)");
 Wait(30,1);
 EfctOpen(6);
 MsgDisp("主人公","(Whoa—! The sun's so bright!)");
@@ -35,17 +34,17 @@ ScrFadeOut(0,1);
 EfctClose();
 Wait(40,1);
 VoicePlay("A020100000_01_000");
-MsgDisp("Kazama?","I know it's been a long time since we last
-saw each other, but, a frown, really?");
+MsgDisp("Kazama?","It's been forever and that's the face
+you're making? Really?");
 StlOpen("ev_01_01");
 StlEye(1,0);
 StlMouth(1,0);
 EfctOpen(6);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","∋ Wait...no way...
-Ryota!?
-Er, ｛Kazama＊＊｝?");
+MsgDisp("主人公","∋ Wait... No way...
+Ryo—!?
+｛Kazama＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);
 Wait(30,1);
@@ -62,17 +61,17 @@ ChOpen(1,254,0,2,3,0,#1,0,0);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("A020100000_01_010");
-MsgDisp("Kazama","Yup, that's me.
-Ka-za-ma here.
-We used to play together a lot, remember?");
+MsgDisp("Kazama","Yeah, that's right. Ka-za-ma.
+We used to play together all the time,
+remember?");
 ChMotion(1,0);
 Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("A020100000_01_020");
-MsgDisp("Kazama","...Well, that's just like you.
-Guess I got my hopes up.
-That's on me.");
+MsgDisp("Kazama","...Well, that's so like you.
+Got my hopes up for nothing.
+That's my fault, I guess.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,0);
@@ -81,7 +80,7 @@ ChMotion(1,0);
 VoicePlay("A020100000_01_030");
 MsgDisp("Kazama","Anyway...
 It's been 9 years.
-Glad to see you're still lively.");
+Glad to see you look as well as ever.");
 MsgDisp("主人公","It's really been such a long time!
 ｛Kazama＊＊｝, you've grown up so much!
 Nothing like the boy I saw in my dream!");
@@ -99,18 +98,18 @@ ChMotion(1,4);
 VoicePlay("A020100000_01_050");
 MsgDisp("Kazama","...N-Not really.
 It's not that weird.");
-MsgDisp("主人公","That uniform...
-Wait— are you going to Habataki High
-School too?");
+MsgDisp("主人公","Oh, that uniform...
+Does that mean you're going to Habataki
+High School too?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("A020100000_01_060");
-MsgDisp("Kazama","Yeah. I didn't expect this either.
-I told your mom yesterday.
-Did she not tell you?");
+MsgDisp("Kazama","Yep. Even I'm surprised by this twist.
+I told your mom yesterday, though.
+Did she not mention it?");
 MsgDisp("主人公","Sorry, ｛Kazama＊＊｝. I was so surprised
 to hear you came back, I wasn't
 really listening...");
@@ -122,8 +121,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("A020100000_01_070");
 MsgDisp("Kazama","Yeah.
-...We should get going.
-This reunion's dragging out.");
+...We should get going, though.
+This heartfelt reunion's gone on too long.");
 MsgDisp("主人公","Oh, true!
 Let's go!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
@@ -146,8 +145,8 @@ BGMVol(0.5,0.5);
 MsgDisp("Kazama","In first grade, we used to walk up this
 same street to get to school together,
 remember?");
-MsgDisp("主人公","Right...
-...Oh, I forgot something!");
+MsgDisp("主人公","Yeah...
+...Oh, that reminds me!");
 NSSEye(1,3);
 NSSMouth(1,2);
 VoicePlay("A020100000_01_080");
@@ -284,11 +283,12 @@ ChMouth(1,1);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("A020100000_48_010");
-MsgDisp("School Girl A","I know right! My grandpa even called him
-\"young master\" once! It's like he's
-royalty or something!");
-MsgDisp("主人公","? ｛Kazama＊＊｝, I think they're talking
-about you...");
+MsgDisp("School Girl A","I know, right!? My grandpa even calls
+him \"young master\"!
+He's like, royalty or something!!");
+MsgDisp("主人公","?
+Hey, ｛Kazama＊＊｝, it sounds like
+they're talking about you...");
 SEStop("EV_SE_588",1);
 SEStop("EV_SE_789",1);
 ChEye(1,0);

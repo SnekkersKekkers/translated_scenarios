@@ -23,8 +23,8 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("A020330100_03_010");
 MsgDisp("Honda?","Yeah yeah, I know.
-But, you know, starting today...
-The manager threw you in, huh?");
+But starting today, huh...
+The manager totally set you up.");
 MsgDisp("主人公","What?");
 ChEye(3,2);
 ChMouth(3,1);
@@ -63,10 +63,10 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("A020330100_03_060");
-MsgDisp("Honda","Yep. But meeting someone from school
-at your job instead is pretty rare,
-right? I'm getting excited!");
-MsgDisp("主人公","A rare thing?");
+MsgDisp("Honda","Yeah! But meeting someone from school
+at your part-time job is a rare 
+phenomenon, right? I'm getting excited!");
+MsgDisp("主人公","A rare... phenomenon?");
 ChEye(3,3);
 ChMouth(3,2);
 ChMotion(3,1);

@@ -13,7 +13,7 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("A020210000_02_010");
 MsgDisp("Sassa?","You've been exercising around here lately,
 right?
-I saw that you like to move your body.");
+Looks like you really enjoy working out.");
 MsgDisp("主人公","Uhh...");
 ChEye(2,0);
 ChMouth(2,0);
@@ -74,9 +74,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("A020210000_02_090");
-MsgDisp("Sassa","That's good.
-Now, keep your gaze
-a bit further away.");
+MsgDisp("Sassa","Nice, looking good!
+Now, keep your gaze straight.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);

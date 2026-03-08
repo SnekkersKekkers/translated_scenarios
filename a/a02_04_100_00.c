@@ -55,9 +55,9 @@ StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("A020410000_04_050");
 MsgDisp("Nanatsumori?","Yeah but...");
-MsgDisp("主人公","That bracelet you're wearing, isn't it
-the same as high school model NANA's on
-the poster?");
+MsgDisp("主人公","That bracelet you're wearing...
+Isn't it the same one high school model
+NANA-kun has on the poster?");
 StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
@@ -87,9 +87,9 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_080");
 MsgDisp("Nanatsumori?","...What if it's the same?");
-MsgDisp("主人公","I thought maybe you were a fan.
-You know, NANA-kun has a lot of male fans
-too.");
+MsgDisp("主人公","I thought maybe you were a fan!
+NANA-kun has a lot of male fans too,
+you know.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
@@ -152,8 +152,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_180");
-MsgDisp("Nanatsumori","So you can call me \"Nanatsumori Minoru\", 
-alright? Habataki student, normal guy. 
+MsgDisp("Nanatsumori","So right now, I'm \"Nanatsumori Minoru\". 
+Just a normal Habataki High student.
 OK?");
 MsgDisp("主人公","Yeah, ok!");
 ChEye(4,4);

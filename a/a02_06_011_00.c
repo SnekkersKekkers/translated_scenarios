@@ -65,8 +65,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("A020601100_06_080");
-MsgDisp("Himuro","My senpai by one year?
-Sorry for speaking so bluntly.");
+MsgDisp("Himuro","You're a year above me?
+Sorry for being so rude.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -84,7 +84,7 @@ That's all.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(｛Himuro＊＊｝...Seems like I should 
+MsgDisp("主人公","(｛Himuro＊＊｝...Seems like I should
 avoid bringing up his relationship
 with the vice principal.)");
 MsgClose();

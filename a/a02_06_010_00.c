@@ -10,7 +10,7 @@ ChOpen(6,254,2,1,1,0,#1,0,0);
 VoicePlay("A020601000_06_000");
 MsgDisp("Himuro?","......");
 MsgDisp("主人公","(That's the guy who was talking to Vice
-Principal Himuro in the corridor, isn't 
+Principal Himuro in the corridor, isn't
 it?)");
 ChEye(6,0);
 ChMouth(6,0);
@@ -22,8 +22,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601000_06_020");
-MsgDisp("Himuro?","If you've got something to ask, just do it
-already.");
+MsgDisp("Himuro?","If you've got something to ask, just ask.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -31,16 +30,16 @@ VoicePlay("A020601000_06_030");
 MsgDisp("Himuro?","Or should I ask you first?
 I know exactly what Habataki High students
 want to ask me.");
-MsgDisp("主人公","Huh? 
-I mean...Are you and Vice Principal
+MsgDisp("主人公","Hmm?
+Umm... Are you and Vice Principal
 Himuro——");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("A020601000_06_040");
-MsgDisp("Himuro?","Huh...
-As expected.
+MsgDisp("Himuro?","Ha...
+Figured as much.
 You think we look alike?");
 MsgDisp("主人公","Huh?
 Now that you mention it...I see it!");
@@ -109,9 +108,9 @@ VoicePlay("A020601000_06_110");
 MsgDisp("Himuro?","No, I'm sorry too. It's our first time
 meeting and I've already been rude to you,
 even though you're my senpai.");
-MsgDisp("主人公","No no, that's okay. I'm ｛主人公姓名｝.
-Before anything else, it's nice to meet
-you, okay?");
+MsgDisp("主人公","No no, it's okay. I'm ｛主人公姓名｝.
+Let's start over.
+It's nice to meet you!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

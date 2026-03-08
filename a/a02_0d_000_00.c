@@ -115,9 +115,8 @@ ChMotion(21,0);
 VoicePlay("A020D00000_21_080");
 MsgDisp("Michiru","And if it's fashion advice, I've got you
 covered.");
-MsgDisp("主人公","O-Oh...okay!
-Thank you so much, Michiru-san...
-Hikaru-san!");
+MsgDisp("主人公","Oh, okay!
+Thank you, Michiru-san, Hikaru-san!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -135,9 +134,9 @@ SEPlay("EV_SE_856");
 BGMStop();
 ChClose(21,0,30);
 ChClose(22,0,30);
-MsgDisp("主人公","(The popular twin models related to
-world-famous designer \"Hanatsubaki Goro\"
-go to this school...!?)");
+MsgDisp("主人公","(The famous \"Hanatsubaki Twins\", from the
+family of world-renowned designer
+Hanatsubaki Goro, go to this school...!?)");
 MsgDisp("主人公","(I can go to Michiru for fashion and
 Hikaru for relationship advice...
 Anyway, why do they call me \"Mari\"?)");

@@ -69,17 +69,16 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("A020220000_02_060");
-MsgDisp("Sassa?","Did I make it sound that way? I know it
-might seem like my personality's just as
-big as I am...Kind of an issue.");
+MsgDisp("Sassa?","Did I come off that way? When you're 
+big like me, people think your attitude 
+is big too... It's a real problem.");
 MsgDisp("主人公","Hehe.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("A020220000_02_070");
-MsgDisp("Sassa","I'm Sassa Nozomu, regular member of the
-club. So you don't have to treat me any
-differently!");
+MsgDisp("Sassa","I'm Sassa Nozomu, just a regular member.
+So no need to be so formal with me!");
 MsgDisp("主人公","Ah, my name is ｛主人公姓名｝.
 Nice to meet you!");
 ChEye(2,0);
@@ -159,8 +158,8 @@ SEPlay("EV_SE_672");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(This guy, ｛Sassa＊＊｝...
+MsgDisp("主人公","(｛Sassa＊＊｝, huh...
 He has an amazing goal...
-I'll try my best to help!)");
+I'll do my best to support him!)");
 MsgClose();
 ScrFadeOut(0);

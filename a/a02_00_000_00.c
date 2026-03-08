@@ -1,8 +1,8 @@
 BGOpen("ho210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Starting tomorrow, I'll be a freshman
-at the prestigious \"Habataki High School\".
-I'm so nervous!)");
+at \"Habataki High School\".
+My heart is racing!)");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0,0.5);
@@ -27,9 +27,9 @@ Wait(50,0);
 VoicePlay("A020000000_46_000");
 MsgDisp("Clerk","Thank you very much.");
 SEWait();
-MsgDisp("主人公","(Hehe～ I'll start my high school life
-tomorrow with this brand-new pen! Let's
-make it special!)");
+MsgDisp("主人公","(Hehe～ 
+Tomorrow I'll bring this new pen
+with me to start my high school life!)");
 SEPlay("EV_SE_653");
 Wait(30,0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -57,15 +57,15 @@ BGOpen("ho210",2);
 ScrFadeIn(0);
 MsgDisp("主人公","(Mom told me something earlier that really
 surprised me...)");
-MsgDisp("主人公","(Ryota-kun is back.
-It's been 9 years since he moved to
-England.)");
+MsgDisp("主人公","(I see... Ryota-kun is really back.
+It's already been 9 years since he left
+for England.)");
 MsgDisp("主人公","(I hadn't heard his name in a while.
 It brought back a lot of memories of
 things from my childhood.)");
-MsgDisp("主人公","(\"It was the day before Ryota-kun moved
-to England. I think it was just me and him
-in that place—\")");
+MsgDisp("主人公","(\"It was just before Ryota-kun moved to
+England. I think it was just the two of
+us, at that place—\")");
 MsgClose();
 ScrFadeOut(0,1,120);
 BGOpen("ex980",0);

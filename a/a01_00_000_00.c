@@ -13,8 +13,8 @@ Wait(120,1);
 VoicePlay("A010000000_01_000");
 MsgDisp("Ryota","Ah, listen, do you hear the bell?
 It's ringing again!");
-MsgDisp("主人公","Yeah...It's quiet, but I can hear it
-too!");
+MsgDisp("主人公","Yeah... It's faint, but I can hear it
+too, I think?");
 SEStop("EV_SE_795",4);
 VoicePlay("A010000000_01_010");
 MsgDisp("Ryota","Right! I always hear it around here while
@@ -58,9 +58,9 @@ MsgDisp("Ryota","This is an old church.
 They say it's been abandoned.");
 MsgDisp("主人公","Oh...");
 VoicePlay("A010000000_01_050");
-MsgDisp("Ryota","Inside, you know, there's stained glass
-from abroad, and a lot of antiques and
-treasures.");
+MsgDisp("Ryota","Inside there's stained glass from other
+countries, and tons of antiques and
+treasures!");
 SEPlay("EV_SE_831",0,0.5);
 Wait(138,0);
 BGOpen("pr004",0);
@@ -78,18 +78,18 @@ Wait(140,0);
 BGOpen("pr005",0);
 SEPlay("EV_SE_828",0,0.5);
 SEWait();
-MsgDisp("主人公","Look, Ryota-kun.
-We can see the inside of the church a
-little bit from this window, see?");
+MsgDisp("主人公","Hey, Ryota-kun!
+You can see inside the church a little
+from this window! Look!");
 MsgClose();
 ScrFadeOut(0,0);
 BGOpen("pr006",0);
 EnvPlay("SE_ENV_BG_PR006_CO0",1);
 ScrFadeIn(0);
 VoicePlay("A010000000_01_080");
-MsgDisp("Ryota","That sparkling picture. That's what they
-call stained glass. And look, all the way
-up at the top, do you see it?");
+MsgDisp("Ryota","See that sparkly picture?
+That's called stained glass! And look,
+way up at the top, see that?");
 MsgClose();
 ScrFadeOut(0,1);
 BGOpen("pr007",0);
@@ -123,12 +123,12 @@ Here, you can have it!");
 SEPlay("EV_SE_552",0.4,0.1);
 Wait(10,0);
 BGOpen("pr009",0);
-MsgDisp("主人公","Is it really okay for me
-to have it?");
+MsgDisp("主人公","Huh? Really?
+Are you sure?");
 VoicePlay("A010000000_01_110");
-MsgDisp("Ryota","It's fine. In fact, I made it using the
-same method as the pinwheels in the
-treasure room at Habataki Castle.");
+MsgDisp("Ryota","I'm sure! Actually, I made it the same way
+as the pinwheels in the treasure room
+at Habataki Castle.");
 MsgDisp("主人公","...The treasure room pinwheels?");
 VoicePlay("A010000000_01_120");
 MsgDisp("Ryota","Yeah, they're castle treasures.
@@ -136,14 +136,14 @@ Orange like the sunset — if you make a wish
 and blow on it, anything can come true!");
 MsgDisp("主人公","Wow! Like magic!");
 VoicePlay("A010000000_01_130");
-MsgDisp("Ryota","Since my pinwheel is made in the same way,
-maybe if we make wishes they will also
-come true?");
+MsgDisp("Ryota","This pinwheel's made the same way, so
+maybe our wishes would come true
+too?");
 MsgDisp("主人公","Really∋");
 BGOpen("pr010",0);
 VoicePlay("A010000000_01_140");
-MsgDisp("Ryota","Let's try!
-Alright, make a wish, and go puuu-!!");
+MsgDisp("Ryota","Let's try it!
+Okay, make a wish, and then blow!");
 MsgDisp("主人公","Eh?
 O-Okay, I wish...");
 VoicePlay("A010000000_01_150");
@@ -174,8 +174,8 @@ Wait(120,1);
 VoicePlay("A010000000_01_180");
 MsgDisp("Ryota","The bell's ringing!");
 MsgDisp("主人公","It really was this church's bell!
-It sounds like a wedding ceremony, don't
-you think?");
+Doesn't it sound just like a wedding
+ceremony?");
 SEVol(0.4,2);
 MsgClose();
 ScrFadeOut(0,1);
@@ -185,8 +185,7 @@ VoicePlay("A010000000_01_190");
 MsgDisp("Ryota","Eh!?
 Well, maybe, I guess that's true...?
 ...So, what did you wish for?");
-MsgDisp("主人公","My wish?...
-It's a secret.
+MsgDisp("主人公","That's... a secret.
 It's embarrassing.");
 VoicePlay("A010000000_01_200");
 MsgDisp("Ryota","...I see.
@@ -205,14 +204,15 @@ BGOpen("ho410",2);
 EnvPlay("SE_ENV_BG_EV004_CO0",1,0.5);
 ScrFadeIn(4,60);
 MsgDisp("主人公","A dream...");
-MsgDisp("主人公","(Hehe, it's been a while since I've heard
-his name. All the old memories are coming
-back to me.)");
+MsgDisp("主人公","(Hehe, it's been so long since I heard
+his name. All those nostalgic memories
+are coming back to me.)");
 SEPlay("EV_SE_829",0,0.4);
 SEStop("JINGLE_019",0);
 SEWait();
-MsgDisp("主人公","(That's right.
-That very same Ryota is finally back...)");
+MsgDisp("主人公","(Oh, right.
+That very same Ryota is finally 
+coming back...)");
 SEPlay("EV_SE_629");
 SEWait();
 MsgDisp("主人公","Well, time to wake up and get ready!");
