@@ -7,7 +7,7 @@ VoicePlay("B070200000_02_110");
 MsgDisp("Sassa","It's difficult to say.
 For an athletic idiot like me, there's no
 sport I dislike.");
-MsgDisp("主人公","So like ｛Sassa＊＊｝.");
+MsgDisp("主人公","That's so like you, ｛Sassa＊＊｝.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);

@@ -44,8 +44,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10200_01_010");
-MsgDisp("Kazama","As he is satisfied with his food, he
-doesn't chase after the fleeing small
+MsgDisp("Kazama","Since it's satisfied with the food it
+gets, it doesn't chase after the smaller
 fish.");
 ChSet(3,3,1);
 VoicePlay("B330B10200_03_010");

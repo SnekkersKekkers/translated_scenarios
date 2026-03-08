@@ -43,10 +43,9 @@ you about today...");
     ChMouth(3,2);
     ChMotion(3,3);
     VoicePlay("B040310101_03_030");
-    MsgDisp("Honda","That's not true. Elementary school
-students' opinions are quite sharp,
-conversely, we might be able to hear a lot
-of interesting conversations?");
+    MsgDisp("Honda","That's not true. Elementary schoolers have
+pretty sharp perspectives. We might hear
+some interesting stuff, actually.");
     MsgDateResultDisp();
     break ;
     default :

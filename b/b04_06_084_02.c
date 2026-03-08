@@ -29,7 +29,7 @@ what it means, I'm impressed.");
     ChMotion(6,0);
     VoicePlay("B040608402_06_020");
     MsgDisp("Himuro","That's right, I agree.
-It's neither hot or cold, it's peaceful
+It's neither hot nor cold, it's peaceful
 and calming to the mind.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -121,9 +121,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(It wasn't what he expected, but it is
+MsgDisp("主人公","(It wasn't what he expected, but it's
 still a good song...
-That's ｛Honda＊＊｝ rating, huh?)");
+That's so like ｛Honda＊＊｝.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

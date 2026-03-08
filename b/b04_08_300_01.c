@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040830001_08_010");
     MsgDisp("Shirahane","...Ah.
 That's right, it's your smell!
-You smell this nice.");
+You smell so nice.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -47,9 +47,9 @@ Nee-chan to make us something?");
     ChMotion(8,4,1);
     ChCheek(8,3);
     VoicePlay("B040830001_08_030");
-    MsgDisp("Shirahane","Now that you mention it, I'm curious...
-something like my smell, is kinda
-embarrassing.");
+    MsgDisp("Shirahane","When you put it like that, now I'm
+curious... But my own smell?
+That's kinda embarrassing.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

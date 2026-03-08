@@ -23,7 +23,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,5);
     VoicePlay("B040723602_07_010");
     MsgDisp("Mikage","...That's right.
-I got it,");
+Got it, give me your hand.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -66,8 +66,8 @@ night parade.");
         ChMouth(7,0);
         ChMotion(7,4);
         VoicePlay("B040723602_07_050");
-        MsgDisp("Mikage","If you got it, that's good.
-So as you'd like.");
+        MsgDisp("Mikage","If you're fine with that, then okay.
+Suit yourself.");
         SEPlay("EV_SE_544",0,0.7);
         MsgClose();
         ChClose(7,0,30);

@@ -33,9 +33,9 @@ MsgDisp("Hiiragi","Hey, there's no need to thank me.
 With this, we're back to before.");
 MsgDisp("主人公","...I'm glad.");
 VoicePlay("B100500000_05_060");
-MsgDisp("Hiiragi","From now on too, can I see and hear the
-same things with you, and spend time
-together. The same as before?");
+MsgDisp("Hiiragi","Can we keep seeing and hearing the same
+things together, and spending time
+together? Like before?");
 MsgDisp("主人公","Yeah.");
 VoicePlay("B100500000_05_070");
 MsgDisp("Hiiragi","I'm glad.

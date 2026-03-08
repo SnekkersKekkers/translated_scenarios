@@ -5,7 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("B040624100_06_000");
-MsgDisp("Himuro","Is it peaceful or stimulating...");
+MsgDisp("Himuro","Is it peaceful, or just lacking
+stimulation...");
 MsgSel("It feels nice to be surrounded by Mother Nature!","...There's nothing here, huh?","That sheep keeps looking this way...");
 switch (MsgSelRsltGet()){
     case 0:

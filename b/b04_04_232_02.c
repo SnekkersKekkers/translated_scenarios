@@ -6,10 +6,9 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423202_04_000");
-MsgDisp("Nanatsumori","Come to think of it...did you know about
-the legend that if you kiss at the top of
-the ferris wheel, your love will come
-true?");
+MsgDisp("Nanatsumori","Come to think of it...did you know the
+legend that kissing at the top of the
+ferris wheel makes your love come true?");
 MsgSel("Wow, what a wonderful jinx!","...Do you want to try it?","K-K-kiss∋");
 switch (MsgSelRsltGet()){
     case 0:

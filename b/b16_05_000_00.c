@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160500000_05_000");
 MsgDisp("Hiiragi","Is it really that enjoyable?
 That sort of poking.");
-MsgSel("It's fun!","I'm doing it just because?");
+MsgSel("It's fun!","Just because?");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(5,3);

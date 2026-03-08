@@ -89,7 +89,7 @@ forget about it all and I just talk to you
 freely.");
         MsgDisp("主人公","(I can't believe ｛Honda＊＊｝ thinks of me
 that way...
-I'm so happy.");
+I'm so happy.)");
         break ;
         default :
         DbgAssert(1);

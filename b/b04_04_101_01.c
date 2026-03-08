@@ -37,8 +37,8 @@ years?");
     ChMotion(4,1,1);
     VoicePlay("B040410101_04_030");
     MsgDisp("Nanatsumori","Right.
-These items were used to be studied before
-they became retro items.");
+The items here are more like educational
+tools than retro items.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

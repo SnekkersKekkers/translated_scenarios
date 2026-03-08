@@ -25,7 +25,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("B070600001_06_200");
-MsgDisp("Himuro","Well it's not your fault, but those two's.");
+MsgDisp("Himuro","Well, it's not your fault, but those
+two's.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

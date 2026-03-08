@@ -9,7 +9,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040520000_05_000");
-MsgDisp("Hiiragi","How is your skiing abilities?");
+MsgDisp("Hiiragi","How are your skiing abilities?");
 MsgSel("Call me a princess on the snow!","It's to the point I won't fall over...","I was hoping you'd teach me...");
 switch (MsgSelRsltGet()){
     case 0:

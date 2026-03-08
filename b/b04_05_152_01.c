@@ -40,7 +40,8 @@ now.");
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040515201_05_030");
-    MsgDisp("Hiiragi","Such impoliteness will face expulsion.");
+    MsgDisp("Hiiragi","That kind of rudeness will get you
+expelled, you know.");
     MsgDateResultDisp();
     break ;
     default :

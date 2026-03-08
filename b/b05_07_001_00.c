@@ -98,8 +98,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B050700100_07_110");
-MsgDisp("Mikage","That sort of cowardly me, thanks to you
-was able to take a small step today.");
+MsgDisp("Mikage","Coward that I am, thanks to you I was
+able to take a small step today.");
 MsgDisp("主人公","Take a step?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -122,8 +122,9 @@ MsgClose();
 ChOpen(7,255,2,0,0,#1,#1,0,0);
 SEWait();
 VoicePlay("B050700100_07_140");
-MsgDisp("Mikage","Phew...See you, it'll be the same as usual
-tomorrow. Well then.");
+MsgDisp("Mikage","Phew...
+Back to normal tomorrow, okay?
+See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

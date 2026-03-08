@@ -50,8 +50,8 @@ MsgDisp("主人公","Eh∋");
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_050");
 MsgDisp("Nanatsumori","I want a black one.
-Right, something with a lot of lace and a
-big ribbon all over.");
+Y'know, lots of lace, big ribbon...
+A real classic one.");
 MsgDisp("主人公","I-I see.
 Maybe the dress over there is close to
 that type?");
@@ -169,7 +169,7 @@ VoicePlay("B050400300_04_210");
 MsgDisp("Nanatsumori","Right.
 Even if it's a lie, I'm happy.
 ...Thank you.");
-MsgDisp("主人公","I'm being for real?");
+MsgDisp("主人公","I mean it though!");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -177,7 +177,7 @@ VoicePlay("B050400300_04_220");
 MsgDisp("Nanatsumori","Yeah.
 I believe it, because it's you.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
-MsgDisp("主人公","(But, I wonder if he'll show me how he
+MsgDisp("主人公","(But, I wonder if he'll show me what he
 looks like crossdressing.
 I think I kinda wanna see it...)");
 ChPrmTblAdd(4,0);

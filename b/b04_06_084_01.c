@@ -43,7 +43,7 @@ I've been feeling really hungry lately.");
     VoicePlay("B040608401_06_030");
     MsgDisp("Himuro","Good timing.
 Let's drop by somewhere on the way home.
-And think of what would be good.");
+Think about what you'd like.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

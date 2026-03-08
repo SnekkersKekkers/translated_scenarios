@@ -50,9 +50,9 @@ ChMotion(7,2);
 VoicePlay("D010700600_07_050");
 MsgDisp("Mikage","Should we forget the extracurricular class
 and just have some fun?");
-MsgDisp("主人公","Yes! Yay! That
-means I don't have
-to submit a report.");
+MsgDisp("主人公","Yes! Yay!
+That means I don't have to submit
+a report.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

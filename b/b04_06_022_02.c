@@ -20,8 +20,9 @@ switch (MsgSelRsltGet()){
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602202_06_010");
-        MsgDisp("Himuro","If you have something to say, just say it?
-Since I'm here anyways?");
+        MsgDisp("Himuro","If you have something to say, just say
+it. The person you're thinking about is
+right here.");
         MsgDateResultDisp();
         break ;
         case 4:

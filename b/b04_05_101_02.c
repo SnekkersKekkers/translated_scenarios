@@ -58,9 +58,9 @@ already....");
         MsgDisp("Hiiragi","That's right.
 I'm guessing you've come many times
 already?");
-        MsgDisp("主人公","But it's different to when I came here in
-elementary school.
-As the exhibits are different too.");
+        MsgDisp("主人公","But it's different from when I came here
+in elementary school.
+The exhibits change too.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040510102_05_050");
@@ -79,16 +79,16 @@ elementary school student.");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040510102_05_080");
-        MsgDisp("Hiiragi","I wish I could've come with you in
-elementary school? But If I think about
-it, it's more interesting now.");
+        MsgDisp("Hiiragi","I wish I could've come with you back in
+elementary school. But now that I think
+about it, it's more interesting now.");
         MsgDisp("主人公","...Interesting?");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040510102_05_090");
-        MsgDisp("Hiiragi","We won't get any further like this in
-conversation.");
+        MsgDisp("Hiiragi","At this rate, we'll never get anywhere
+with this conversation.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);

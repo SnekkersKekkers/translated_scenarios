@@ -69,8 +69,8 @@ And, I'm sorry.");
         MsgDisp("主人公","Eh?");
         ChMotion(5,2);
         VoicePlay("B040523602_05_050");
-        MsgDisp("Hiiragi","You're kind, so you put up with my strange
-anxieties.");
+        MsgDisp("Hiiragi","You're kind, so you put up with my
+strange moods.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040523602_05_060");
         MsgDisp("Hiiragi","But I don't want you staying out all

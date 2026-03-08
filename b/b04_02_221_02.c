@@ -67,10 +67,9 @@ went to the same places.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040222102_02_060");
-        MsgDisp("Sassa","Today will be the last time we come to
-Habataki castle. We'll go to a different
-place after that, then another place again
-after that.");
+        MsgDisp("Sassa","Today will be the last time we visit
+Habataki castle. We'll go somewhere new
+next time, then somewhere new again.");
         MsgDisp("主人公","But, even in one place, the scenery
 changes depending on season and time.");
         ChEye(2,0);

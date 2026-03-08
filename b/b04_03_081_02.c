@@ -29,10 +29,9 @@ That's the charm of Sakura.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040308102_03_020");
-    MsgDisp("Honda","Yep yep, grafting is when you take a plant
-with roots, then attach a part of a
-separate plant to it. It's a type of
-cloning technology!");
+    MsgDisp("Honda","Yep yep, grafting is when you take a
+rooted plant and attach a part of another
+plant to it. It's a type of cloning!");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -4,9 +4,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700000_07_180");
-MsgDisp("Mikage","A long time ago, I had a conversation
-about how making plants listen to
-classical music can make them grow well.");
+MsgDisp("Mikage","You know how there used to be talk about
+how plants grow better if you play
+classical music for them?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -40,9 +40,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("E010330200_03_030");
 MsgDisp("Honda","Even though there's a new library nearby,
-whenever I go to return a book at the
-faraway library, I always end up borrowing
-something.");
+whenever I go to return books at the far
+one, I always end up borrowing something.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -99,9 +98,8 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("E010330200_07_060");
 MsgDisp("Mikage","But I might end up borrowing something
-too. It'll be hard to ignore his
-recommendations and not borrow something,
-you know?");
+too. It's hard to ignore his
+recommendations, you know?");
 MsgDisp("主人公","Ah...
 That certainly sounds...difficult");
 ChEye(7,0);

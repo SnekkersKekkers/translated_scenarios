@@ -37,7 +37,7 @@ I'm envious of the people who can do that.");
     ChMouth(5,3);
     ChMotion(5,2);
     VoicePlay("B040502200_05_030");
-    MsgDisp("Hiiragi","You're only used to seeing people, huh?
+    MsgDisp("Hiiragi","It's really used to people, huh?
 Here, come this way.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -17,7 +17,7 @@ MsgDisp("主人公","How wonderful...
 Why are the illuminations so beautiful?");
 ChMotion(4,1,1);
 VoicePlay("B360423600_04_010");
-MsgDisp("Nanatsumori","It's like that in order to move everyone?");
+MsgDisp("Nanatsumori","Maybe that's the point? To move everyone?");
 MsgDisp("主人公","Ah, I see.
 Yeah, it is moving...");
 ChEye(4,4);

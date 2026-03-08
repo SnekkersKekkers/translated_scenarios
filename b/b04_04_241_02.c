@@ -64,9 +64,8 @@ Me?");
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040424102_04_060");
         MsgDisp("Nanatsumori","Milking...is not my style, and I'm not
-good at interacting with animals...but I
-also don't want to just stare off into
-space...");
+good with animals...but I also don't want
+to just stare off into space...");
         MsgDisp("主人公","It feels like you don't like farms very
 much?");
         ChEye(4,2);

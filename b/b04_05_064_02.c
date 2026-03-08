@@ -14,8 +14,8 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B040506402_05_010");
-MsgDisp("Hiiragi","As I serve as the leader as the local
-theatre troupe.");
+MsgDisp("Hiiragi","I do serve as the leader of the local
+theatre troupe, after all.");
 VoicePlay("B040506402_36_000");
 MsgDisp("Market Clerk","Yo, Chairman?
 How's about some takoyaki?");

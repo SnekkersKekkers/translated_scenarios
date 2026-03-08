@@ -42,9 +42,9 @@ It's difficult for me.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040222202_02_030");
-        MsgDisp("Sassa","To be honest, I don't have that much
-interest in IOUs But, I find it
-interesting that you are.");
+        MsgDisp("Sassa","To be honest, I don't have much interest
+in IOUs. But I find it interesting that
+you do.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -66,9 +66,8 @@ documents!");
         ChMotion(2,0);
         VoicePlay("B040222202_02_060");
         MsgDisp("Sassa","If we hadn't come here, I wouldn't have
-discovered this new side of you. If I
-think about it like that, the historical
-documents get a narrow pass.");
+discovered this new side of you. Thinking
+about it that way, the exhibit gets a pass.");
         MsgDisp("主人公","(Narrow pass...?)");
         break ;
         default :

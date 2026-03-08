@@ -65,7 +65,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B150600200_06_080");
 MsgDisp("Himuro","Haa...
-Your intuition is a bit childish.");
+Your sense of things is a bit childish.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(6,0);
 ChMouth(6,0);

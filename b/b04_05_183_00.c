@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,2);
     VoicePlay("B040518300_05_000");
     MsgDisp("Hiiragi","Hーm...
-I wonder if I should move seats.
+Do the seats really need to move?
 I can't concentrate at all.");
     MsgDateResultDisp();
     break ;

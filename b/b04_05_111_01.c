@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     DateRateSet(1);
     ChMotion(5,2);
     VoicePlay("B040511101_05_010");
-    MsgDisp("Hiiragi","With that, it means more people will be
-watching me...
-Haa, I can't fall even more...");
+    MsgDisp("Hiiragi","So that's why more people are watching
+me...
+Haa, now I really can't afford to fall...");
     MsgDateResultDisp();
     break ;
     case 1:

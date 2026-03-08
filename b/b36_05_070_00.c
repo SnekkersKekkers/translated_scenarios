@@ -24,7 +24,7 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360507000_05_020");
 MsgDisp("Hiiragi","Some time alone with you.
-I've been wanting this for a long time.");
+I've been wanting this all day.");
 MsgDisp("主人公","Eh, ｛Hiiragi＊＊＊｝...?");
 ChEye(5,0);
 VoicePlay("B360507000_05_030");

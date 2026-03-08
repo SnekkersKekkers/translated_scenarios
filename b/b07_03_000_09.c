@@ -22,8 +22,8 @@ I have a few hints.");
 ChEye(3,0);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_520");
-MsgDisp("Honda","Sometimes when we're together, I feel like
-things start to get a bit tense.");
+MsgDisp("Honda","Sometimes when we're together, I get this
+tight feeling right here.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -45,8 +45,8 @@ ChMotion(3,4);
 ChCheek(3,5);
 VoicePlay("B070300000_03_550");
 MsgDisp("Honda","It's happening right now.
-The tension.
-Sometimes this happens when we talk.");
+That tight feeling, right here.
+It happens sometimes when I hear your voice.");
 MsgDisp("主人公","That's somewhat embarrassing...");
 ChEye(3,0);
 ChMouth(3,0);

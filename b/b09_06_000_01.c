@@ -16,7 +16,7 @@ at least get in touch right? You should
 properly reflect for wasting someone's
 time. That's all.");
 SEWait();
-MsgDisp("主人公","I've done it!
+MsgDisp("主人公","Oh no!
 I got the date meeting spot wrong...!");
 MsgClose();
 ScrFadeOut(0,0);

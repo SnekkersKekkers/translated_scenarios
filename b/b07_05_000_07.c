@@ -32,8 +32,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B070500000_05_330");
-MsgDisp("Hiiragi","When you say that, I get that feeling too,
-it's troubling.");
+MsgDisp("Hiiragi","When you say it like that, I start to
+believe it, which is troubling.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B070500000_05_340");

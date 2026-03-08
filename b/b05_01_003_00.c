@@ -57,7 +57,7 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 VoicePlay("B050100300_01_050");
-MsgDisp("Kazama","You're pulling backー.
+MsgDisp("Kazama","Your hips are pulling backー.
 Look straight ahead.
 Don't let go of my hand～");
 MsgDisp("主人公","Y-Yes!");

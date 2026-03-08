@@ -46,7 +46,7 @@ inconvenienced by it though.");
     ChMotion(5,0);
     VoicePlay("B040530001_05_030");
     MsgDisp("Hiiragi","No, the lines come to me naturally.
-It's different to studying for school?");
+It's different from studying for school.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -84,9 +84,9 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070101000_01_090");
-MsgDisp("Kazama","Stop asking weird stuff on a whim.
-There are times when being simple-minded
-is inexcusable.");
+MsgDisp("Kazama","Don't just go asking stuff like that on
+a whim. Sometimes being naive doesn't
+cut it as an excuse.");
 MsgDisp("主人公","...I'm sorry, okay?");
 ChEye(1,4);
 ChMouth(1,2);

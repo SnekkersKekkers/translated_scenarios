@@ -66,10 +66,9 @@ person.");
         ChMouth(5,0);
         ChMotion(5,2);
         VoicePlay("B040514002_05_070");
-        MsgDisp("Hiiragi","I had considered holding back, but it was
-impossible. My feelings towards you are so
-great, it would be foolish to conceal
-them.");
+        MsgDisp("Hiiragi","I tried to hold back, but I couldn't.
+My feelings for you are too great to
+conceal.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040514002_05_080");

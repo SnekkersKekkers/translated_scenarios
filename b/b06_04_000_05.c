@@ -10,8 +10,8 @@ ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B060400005_04_000");
 MsgDisp("Nanatsumori","...By the way.
-Is this your current top recommendation?
-Cause I'm already bored of it.");
+Is this place your current top pick?
+'Cause I'm already bored of it.");
 MsgDisp("主人公","(I've done it!
 I should at least remember where we've
 been on our last date!)");

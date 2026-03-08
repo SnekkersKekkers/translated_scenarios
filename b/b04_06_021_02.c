@@ -51,16 +51,15 @@ are necessary too.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602102_06_040");
-        MsgDisp("Himuro","Even so, once in a while you'll make me
-say something that makes me take a step
-back.");
+        MsgDisp("Himuro","Even so, you say things that catch me off
+guard once in a while.");
         MsgDisp("主人公","Is that so?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602102_06_050");
-        MsgDisp("Himuro","Normally, that's how it always feels
-though.");
+        MsgDisp("Himuro","Even though you're usually so
+unassuming.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

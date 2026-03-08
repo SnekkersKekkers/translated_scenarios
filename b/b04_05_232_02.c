@@ -68,7 +68,7 @@ that indicates a fortune of love...");
         ChLayout(1);
         ScrFadeIn(0);
         VoicePlay("B040523202_05_050");
-        MsgDisp("Hiiragi","...Pft.");
+        MsgDisp("Hiiragi","...Phew.");
         MsgDisp("主人公","Hehe, it was yellow huh?");
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040523202_05_060");

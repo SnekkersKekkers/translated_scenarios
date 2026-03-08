@@ -49,9 +49,8 @@ plants?");
         ChMotion(6,0);
         VoicePlay("B040609002_06_040");
         MsgDisp("Himuro","But I'm starting to understand. When you
-experience things in person, that's when
-you really become interested. It's just
-like that.");
+experience things in person, you really
+do become interested. It's just like that.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

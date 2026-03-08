@@ -95,8 +95,7 @@ ChMouth(6,3);
 ChMotion(6,5);
 ChCheek(6,0);
 VoicePlay("B330A20401_06_040");
-MsgDisp("Himuro","...Is that the one where you drop an axe?
-Mercury and the Woodman?");
+MsgDisp("Himuro","...Is that the one where you drop an axe?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

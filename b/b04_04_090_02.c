@@ -114,10 +114,9 @@ I don't think I can do it.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040409002_04_120");
-    MsgDisp("Nanatsumori","Ahー,\"flowers\" (hana), and \"fireworks\"
-(hanabi). It's a bad pun, but it's easy to
-understand. Why don't you try suggesting
-that for real?");
+    MsgDisp("Nanatsumori","Ahー, \"flowers\" (hana) and \"fireworks\"
+(hanabi). It's a bad pun, but it's catchy.
+Why not suggest that for real?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

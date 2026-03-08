@@ -33,9 +33,8 @@ exploration!");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040308202_03_020");
-        MsgDisp("Honda","Even ordinary things you've become
-accustomed to seeing, will become great
-discoveries if you change your viewpoint.
+        MsgDisp("Honda","Even ordinary things become discoveries
+if you change your viewpoint.
 Huh? That's your specialty.");
         MsgDateResultDisp();
         break ;

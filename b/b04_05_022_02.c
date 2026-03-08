@@ -55,9 +55,9 @@ ship, I guess we could go there for work?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040502202_05_040");
-        MsgDisp("Hiiragi","I wonder.
-As I've never been on a boat for a
-prolonged trip.");
+        MsgDisp("Hiiragi","Hard to say.
+I've never been on a long boat trip
+before.");
         ChMotion(5,4);
         VoicePlay("B040502202_05_050");
         MsgDisp("Hiiragi","Before coming to Habataki City, I traveled

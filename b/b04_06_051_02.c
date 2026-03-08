@@ -93,7 +93,7 @@ wasn't interested.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040605102_06_100");
-        MsgDisp("Himuro","But, who it is very important.");
+        MsgDisp("Himuro","But who it is matters a lot.");
         MsgDisp("主人公","Are there any contenders?");
         ChEye(6,0);
         ChMouth(6,0);

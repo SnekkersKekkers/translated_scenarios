@@ -19,8 +19,8 @@ But, it's not just that?");
 MsgDisp("主人公","?");
 ChMotion(5,4);
 VoicePlay("B070500001_05_120");
-MsgDisp("Hiiragi","I understand that that Mikage-sensei is in
-a more complicated situation than myself.");
+MsgDisp("Hiiragi","I understand that Mikage-sensei is in a
+more complicated situation than myself.");
 VoicePlay("B070500001_05_130");
 MsgDisp("Hiiragi","Of course, he hasn't told me anything,
 yes?");

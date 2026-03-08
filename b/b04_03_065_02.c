@@ -125,7 +125,7 @@ me.");
         MsgDisp("Honda","Then, look at my face more.
 So that the effects last a long time!
 Forever from now on too.");
-        MsgDisp("主人公","(｛Honda＊＊｝, your face is so close...");
+        MsgDisp("主人公","(｛Honda＊＊｝, your face is so close...)");
         break ;
         default :
         DbgAssert(1);

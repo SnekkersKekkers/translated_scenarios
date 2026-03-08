@@ -6,7 +6,8 @@ ChMotion(6,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040601101_06_000");
-MsgDisp("Himuro","Are you smoke, or are you an idiot?");
+MsgDisp("Himuro","You know they say fools and smoke both
+rise to high places, right?");
 MsgSel("What does that mean?","You also like it huh, ｛Himuro＊＊｝?","It's not like that?");
 switch (MsgSelRsltGet()){
     case 0:

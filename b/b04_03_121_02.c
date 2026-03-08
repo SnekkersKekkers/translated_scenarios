@@ -81,10 +81,9 @@ them at home.");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040312102_03_080");
-        MsgDisp("Honda","Only that chrysalis season might be
-difficult though. It might be good, a flea
-market stall. Should we run a stall
-together?");
+        MsgDisp("Honda","Chrysalis season might be tough, though.
+But a flea market stall sounds fun.
+Should we run one together?");
         MsgDisp("主人公","(Lots of larvae huh...)");
         break ;
         default :

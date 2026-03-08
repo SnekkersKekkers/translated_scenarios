@@ -59,8 +59,8 @@ Apparently she produces a lot of milk.");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040724102_07_050");
-        MsgDisp("Mikage","There are so many girls I'm interested in,
-but I haven't been able to see them at
+        MsgDisp("Mikage","There are so many others I'm interested
+in, but I haven't been able to see them at
 all.");
         MsgDisp("主人公","｛Mikage＊＊｝?");
         ChEye(7,0);

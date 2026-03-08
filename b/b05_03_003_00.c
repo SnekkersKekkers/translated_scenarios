@@ -87,8 +87,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B050300300_03_100");
-MsgDisp("Honda","We have to continue on, otherwise coming
-here was pointless.");
+MsgDisp("Honda","Keeping up the observation is what makes
+it meaningful!");
 MsgDisp("主人公","(｛Honda＊＊｝ is so sweet.)");
 BGMStop();
 ChPrmTblAdd(3,0);

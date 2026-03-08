@@ -6,7 +6,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_010");
 MsgDisp("Kazama","Yeah, maybe.
-I've been stuck with him since
+He and I go all the way back to
 kindergarten.");
 ChEye(1,0);
 ChMouth(1,3);

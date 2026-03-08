@@ -6,10 +6,9 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040506400_05_000");
-MsgDisp("Hiiragi","From the disorderly queues of the food
-stalls, several different aromas and
-sounds overflow and mix together, I like
-this atmosphere.");
+MsgDisp("Hiiragi","Different aromas and sounds overflow from
+the cluttered food stalls and mix together.
+I love this atmosphere.");
 MsgDisp("主人公","It's exciting, isn't it?");
 ChEye(5,4);
 ChMotion(5,2);
@@ -21,9 +20,9 @@ MsgDisp("主人公","Ehhー Really?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B040506400_05_020");
-MsgDisp("Hiiragi","This is Habataki City's festival huh?
-I must say that this is my home with a
-sense of pride.");
+MsgDisp("Hiiragi","So this is Habataki City's festival, huh?
+I need to be able to proudly call this
+place my home.");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("B040506400_05_030");

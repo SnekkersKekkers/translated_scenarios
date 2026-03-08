@@ -111,7 +111,7 @@ BGOpen("fp210",0);
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛Mikage＊＊｝, thank you for the meal!
-It was a very cute and delicious meal.");
+It was such a cute and delicious lunch.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -123,7 +123,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B050700000_07_110");
-MsgDisp("Mikage","We have to work to digest our food.
+MsgDisp("Mikage","Time to walk off that food.
 Let's take a stroll.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
 MsgClose();

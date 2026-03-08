@@ -4,7 +4,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_420");
-MsgDisp("Nanatsumori","Well.
+MsgDisp("Nanatsumori","Who knows.
 Kazama clearly has feelings other than
 friendship.");
 MsgDisp("主人公","Eh?");

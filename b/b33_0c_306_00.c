@@ -70,7 +70,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C30600_05_020");
 MsgDisp("Hiiragi","The plays are live, and you never know
-what is going occur.
+what is going to occur.
 You can't predict anything with animals.");
 MsgDisp("主人公","It would be troubling if a cat suddenly
 ran into the audience.");

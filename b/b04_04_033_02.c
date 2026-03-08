@@ -99,10 +99,9 @@ share your empathy and discomfort with?");
         ChMotion(4,3,1);
         ChCheek(4,8);
         VoicePlay("B040403302_04_090");
-        MsgDisp("Nanatsumori","That's why, from now on, I want to
-continue to go to different places
-together, see different things, and talk
-about different things, OK?");
+        MsgDisp("Nanatsumori","That's why I wanna keep going to different
+places together, seeing different things,
+and talking about different things. OK?");
         MsgDisp("主人公","Hehe, OK!");
         ChEye(4,4);
         ChMouth(4,3);

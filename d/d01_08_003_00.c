@@ -32,7 +32,8 @@ BGMPlay("BGM_C08_DAICHI_I",0.01);
 ScrFadeIn(0);
 SEWait();
 VoicePlay("D010800300_08_030");
-MsgDisp("Shirahane","Surprise∈ All correct answers.");
+MsgDisp("Shirahane","Surprise∈
+All correct answers.");
 MsgDisp("主人公","Is this your test?");
 StlEye(8,1);
 VoicePlay("D010800300_08_040");

@@ -4,7 +4,7 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's from Habatcher's Editorial
 Department.
-It says...");
+It says...)");
 MsgDisp("主人公","(\"You received permission to interview the
 Habataki Theater Company\" ...
 Alright, let's go!)");

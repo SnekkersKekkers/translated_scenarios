@@ -46,8 +46,7 @@ distance between us right now is 'intimate
 distance.' It's a space usually reserved
 for very close friends.");
 MsgDisp("主人公","Oh...
-I'm sorry if it was too much.
-Did I make you uncomfortable?");
+Sorry, that was a bother, wasn't it?");
 ChEye(3,0);
 ChMotion(3,0,1);
 VoicePlay("B150300000_03_060");

@@ -15,10 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040308501_03_010");
-    MsgDisp("Honda","The spring's water temperature is higher
-than the air temperature. The firefly
-larvae must be cheerfully feasting on
-snails.");
+    MsgDisp("Honda","The spring water's warmer than the air, so
+the firefly larvae must be cheerfully
+feasting on snails.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,9 +30,8 @@ snails.");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040308501_03_020");
     MsgDisp("Honda","Yep yep! That story is found all over the
-world. Things like immortal mountain
-wizards, goddesses, appear in Aesop's
-Fables and Japanese folklore.");
+world. Immortal sages, goddesses... It's
+in Aesop's Fables and Japanese folklore!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

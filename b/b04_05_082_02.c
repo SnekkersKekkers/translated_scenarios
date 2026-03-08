@@ -84,10 +84,9 @@ Then, that goes for me too.");
         ChEye(5,3);
         ChMouth(5,4);
         VoicePlay("B040508202_05_090");
-        MsgDisp("Hiiragi","That depends on the contents. If it's
-something good, I'll take it at 100
-percent accuracy. If it's not, I'll take
-it with a grain of salt.");
+        MsgDisp("Hiiragi","That depends on the contents.
+If it's good, I'll take it at face value.
+If not, I'll take it with a grain of salt.");
         MsgDisp("主人公","(I wonder what ｛Hiiragi＊＊＊｝ means by
 something good?)");
         break ;

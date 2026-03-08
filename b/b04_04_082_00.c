@@ -38,8 +38,8 @@ I wonder why.");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,#1);
     VoicePlay("B040408200_04_030");
-    MsgDisp("Nanatsumori","That's what they say about autumn and
-spring days like this.");
+    MsgDisp("Nanatsumori","That's what everyone says on spring and
+autumn days like this.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

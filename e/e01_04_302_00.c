@@ -50,7 +50,7 @@ ChMotion(4,1,1);
 ChEyeOpenLevel(4,7);
 VoicePlay("E010430200_04_040");
 MsgDisp("Nanatsumori","He thinks you're being hit on by some
-flashy guy called Nana.
+flashy guy called NANA.
 AKA me."); 
 MsgDisp("主人公","Ah...");
 ChEyeOpenLevel(4,#1);

@@ -39,7 +39,7 @@ ChMotion(5,4);
 VoicePlay("B150500000_05_060");
 MsgDisp("Hiiragi","It's your turn to be the cat.
 Get ready.
-Well, then.");
+See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);

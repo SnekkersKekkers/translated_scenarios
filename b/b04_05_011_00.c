@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("B040501100_05_010");
-    MsgDisp("Hiiragi","It is truly beautiful isn't it.
-It was my dream to live in a town with a
-beach.");
+    MsgDisp("Hiiragi","It really is beautiful, isn't it?
+It was my dream to live in a town by the
+sea.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -104,7 +104,7 @@ Curiosity killed the cat!");
         MsgDisp("Honda","It'd be one thing if it were just me, but
 I don't want anything to happen to you.
 I'll keep that in mind.");
-        MsgDisp("主人公","(｛Honda＊＊｝...thank you.");
+        MsgDisp("主人公","(｛Honda＊＊｝...thank you.)");
         break ;
         default :
         DbgAssert(1);

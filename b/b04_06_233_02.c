@@ -46,7 +46,7 @@ into.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623302_06_030");
-        MsgDisp("Himuro","Can I not tell a joke?");
+        MsgDisp("Himuro","Can't I tell a joke?");
         MsgDateResultDisp();
         break ;
         case 4:

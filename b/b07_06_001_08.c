@@ -12,8 +12,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_560");
 MsgDisp("Himuro","For some reason, huh.
-You're the type to do that often.");
-MsgDisp("主人公","Eh, I often do that.");
+That's something you do a lot.");
+MsgDisp("主人公","Eh, I do that often?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

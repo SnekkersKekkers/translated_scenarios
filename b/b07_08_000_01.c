@@ -3,7 +3,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B070800000_08_010");
-MsgDisp("Shirahane","I see.
+MsgDisp("Shirahane","Hmm, let's see.
 I'll watch anythin'?
 I have to stockpile on information.");
 ChEye(8,3);

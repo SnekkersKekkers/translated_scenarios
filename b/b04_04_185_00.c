@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040418500_04_000");
     MsgDisp("Nanatsumori","I'm glad.
-It's super heart breaking when I remember
+It's super heartbreaking when I remember
 this is a true story.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

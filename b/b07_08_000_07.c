@@ -25,8 +25,8 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("B070800000_08_370");
-MsgDisp("Shirahane","This is bad.
-This is the answer of a bad man.");
+MsgDisp("Shirahane","That's no good.
+That's such a hopeless guy answer.");
 MsgDisp("主人公","Ummm...");
 ChEye(8,4);
 ChMouth(8,0);

@@ -82,7 +82,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B360603101_06_110");
-MsgDisp("Himuro","I'll be taking you for now.
+MsgDisp("Himuro","So I'm making up for lost time now.
 Be prepared.");
 MsgDisp("主人公","Hehe, okay!");
 BGMStop();

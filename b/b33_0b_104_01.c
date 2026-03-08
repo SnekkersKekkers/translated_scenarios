@@ -12,8 +12,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B330B10401_03_000");
-MsgDisp("Honda","There's a legend here that you can hear
-the heart's inner voice here right?");
+MsgDisp("Honda","There's a legend that you can hear
+people's inner voices here, right?");
 MsgDisp("主人公","Yeah, it's pretty mysterious.");
 ChMouth(1,2);
 ChEye(3,0);

@@ -82,9 +82,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10401_07_030");
 MsgDisp("Mikage","I read somewhere that it's based on
-empathy. I read somewhere that people
-close to you are apparently more likely to
-catch it.");
+empathy. People close to you are
+apparently more likely to catch it.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1,1);

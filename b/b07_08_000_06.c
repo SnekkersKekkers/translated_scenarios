@@ -33,8 +33,8 @@ VoicePlay("B070800000_08_330");
 MsgDisp("Shirahane","Everyone stands so straight on the left
 side, I've also started standing on the
 left side recently.");
-MsgDisp("主人公","(Do people get caught up in the line on
-escalators?)");
+MsgDisp("主人公","(Does the way people line up on escalators
+rub off on you?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -43,10 +43,9 @@ You don't give off that impression.");
         ChMouth(3,0);
         ChMotion(3,0,1);
         VoicePlay("B040302102_03_030");
-        MsgDisp("Honda","Really? I guess I have started talking
-more with everyone since entering high
-school though. I didn't talk much in
-junior high.");
+        MsgDisp("Honda","Really? I guess I have been talking more
+with everyone since entering high school.
+I didn't talk much in junior high.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,0,1);

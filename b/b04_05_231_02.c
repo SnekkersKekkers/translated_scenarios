@@ -43,7 +43,8 @@ rollercoaster...I'm free anytime.");
         ChMouth(5,2);
         ChMotion(5,5);
         VoicePlay("B040523102_05_030");
-        MsgDisp("Hiiragi","Ah, there are lots of other things too.");
+        MsgDisp("Hiiragi","Ah, sorry.
+There are lots of other things too.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -89,9 +90,9 @@ I wonder why?");
         ChMouth(5,4);
         ChMotion(5,2);
         VoicePlay("B040523102_05_100");
-        MsgDisp("Hiiragi","I guess it was unusual for me.
-My mother also forced herself to come
-along,");
+        MsgDisp("Hiiragi","I guess it was unusual for me, so my
+mother pushed herself to come along and
+ended up feeling sick.");
         MsgDisp("主人公","It must have been tough for your mom.
 But, I think she was happy.");
         ChEye(5,4);
@@ -115,9 +116,9 @@ Then I'll follow wherever you want to go.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         MsgClose();
         ChClose(5);
-        MsgDisp("主人公","(Since he was a kid, ｛Hiiragi＊＊＊｝ couldn't
-go to things like amusement parks because
-of things like work...)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ couldn't go to places like
+amusement parks since he was a kid because
+of work...)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(5,255,0,0,0,#1,#1,0,0,0,0);

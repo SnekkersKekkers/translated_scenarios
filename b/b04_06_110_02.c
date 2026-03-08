@@ -109,8 +109,8 @@ How was it for you, ｛Himuro＊＊｝?");
     ChMouth(6,3);
     ChMotion(6,1);
     VoicePlay("B040611002_06_110");
-    MsgDisp("Himuro","If neither of us get it, I wonder if it's
-worth trying...are you ready?");
+    MsgDisp("Himuro","If neither of us know, might be worth
+trying... Are you ready?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

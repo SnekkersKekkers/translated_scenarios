@@ -91,8 +91,8 @@ Then, hmm....");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040615202_06_090");
-        MsgDisp("Himuro","...Something like holding it on the way
-home.");
+        MsgDisp("Himuro","...Something like holding hands on the
+way home.");
         MsgDisp("主人公","Eh, holding what?");
         ChEye(6,0);
         ChMouth(6,0);

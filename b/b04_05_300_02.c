@@ -125,8 +125,7 @@ What is he planning to do with me...?)");
     VoicePlay("B040530002_05_140");
     MsgDisp("Hiiragi","Yes, there are all sorts of cleaning
 supplies here. But since I'm not usually
-here in the first place, the room doesn't
-get dirty.");
+here, the room doesn't get dirty.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -32,7 +32,7 @@ That's the charm of this attraction.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040523302_05_020");
-        MsgDisp("Hiiragi","Somewhat, ah, please excuse me.
+        MsgDisp("Hiiragi","Oh, ah, please excuse me.
 It seems like I was the only one having
 fun.");
         MsgDateResultDisp();
@@ -50,9 +50,8 @@ fun.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040523302_05_040");
-        MsgDisp("Hiiragi","It would be fine if we jumped together
-right?
-This I mean?");
+        MsgDisp("Hiiragi","It'd be nice if we could jump together,
+don't you think?");
         MsgDisp("主人公","Eh?");
         ChEye(5,4);
         ChMotion(5,0);
@@ -69,9 +68,9 @@ jumping as a pair? It'll feel like we're
 in the same boat.");
         ChMotion(5,4);
         VoicePlay("B040523302_05_070");
-        MsgDisp("Hiiragi","I may request for it.");
-        MsgDisp("主人公","(If we could really jump as a two...
-No, as I thought it's scary.)");
+        MsgDisp("Hiiragi","Maybe I'll ask them about it.");
+        MsgDisp("主人公","(If we could really jump together...
+No, it's still scary.)");
         break ;
         default :
         DbgAssert(1);

@@ -6,8 +6,7 @@ ChOpen(5,255,2,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040523501_05_000");
-MsgDisp("Hiiragi","I'd love to have the honour of producing
-something like this.");
+MsgDisp("Hiiragi","I'd love to produce something like this.");
 MsgSel("It seems like it'll be a wonderful haunted house.","A Haunted House by Habataki Theater Company?","If it's ｛Hiiragi＊＊＊｝, the ghost would be too pretty.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -46,8 +45,8 @@ components of a ghost story into a play.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040523501_05_030");
-        MsgDisp("Hiiragi","Who would act as a ghost?
-I said I would be a producer...");
+        MsgDisp("Hiiragi","Who's going to play the ghost?
+I said I'd be the producer...");
         MsgDateResultDisp();
         break ;
         case 4:

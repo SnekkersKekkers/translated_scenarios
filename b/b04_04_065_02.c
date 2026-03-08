@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040406502_04_020");
     MsgDisp("Nanatsumori","Right.
-I watched it with you three times in a
-row, I wonder if I was cast under a spell.");
+Watching them with you three times in a
+row, maybe I've fallen under a spell?");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,7 +45,7 @@ row, I wonder if I was cast under a spell.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040406502_04_030");
-        MsgDisp("Nanatsumori","It's ruined now....");
+        MsgDisp("Nanatsumori","It's ruined now...");
         MsgDateResultDisp();
         break ;
         case 4:

@@ -59,16 +59,16 @@ That——");
         ChMotion(6,1);
         VoicePlay("B040601102_06_060");
         MsgDisp("Himuro","Don't make me say that.
-Sort of nonsense.");
+Nonsense.");
         MsgDisp("主人公","Hehe!");
         ChEye(6,0);
         ChMouth(6,3);
         ChMotion(6,3);
         ChCheek(6,0);
         VoicePlay("B040601102_06_070");
-        MsgDisp("Himuro","...Well, the way your nose stretches out
-when you smile is probably more worth
-seeing than this place.");
+        MsgDisp("Himuro","...Well, the lovestruck look on your face
+is probably more worth seeing than this
+place.");
         MsgDisp("主人公","∋ It doesn't stretch out!");
         ChEye(6,3);
         ChMouth(6,3);

@@ -80,9 +80,9 @@ with me today.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040503202_05_080");
-        MsgDisp("Hiiragi","You finally smiled. This is somewhat nice.
-When the person you like laughs at your
-words.");
+        MsgDisp("Hiiragi","You finally smiled.
+It feels nice when the person you like
+laughs at your words.");
         MsgDisp("主人公","...Eh?");
         ChEye(5,3);
         VoicePlay("B040503202_05_090");

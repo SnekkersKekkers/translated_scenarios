@@ -33,7 +33,7 @@ StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("B050100100_01_020");
 MsgDisp("Kazama","Yeah.
-I do?
+Of course I do.
 It's normal.");
 MsgDisp("主人公","(Normal...
 Umm, I wonder about that...)");
@@ -55,7 +55,7 @@ BGOpen("fp510",0);
 MsgClose();
 ChOpen(1,31,7,2,2,0,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","This is fun huh.");
+MsgDisp("主人公","That was fun, huh.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

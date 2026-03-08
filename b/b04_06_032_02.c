@@ -6,9 +6,9 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040603202_06_000");
-MsgDisp("Himuro","The penguin is swimming leisurely whilst
-swimming past several different couples, I
-wonder how it feels...");
+MsgDisp("Himuro","A penguin swimming leisurely while being
+watched by all these couples... I wonder
+how it feels.");
 MsgSel("It doesn't seem interested.","It seems to be enjoying itself","It seems jealous.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +29,9 @@ Seems like we could get along.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040603202_06_020");
-    MsgDisp("Himuro","Well definitely, it might be funny for it
-if someone had a lover's quarrel.");
+    MsgDisp("Himuro","Well, true.
+It'd be funny if a couple had a lovers'
+quarrel in front of it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -90,8 +91,8 @@ this with someone other than you?");
         ChMouth(6,0);
         ChMotion(6,0,1);
         VoicePlay("B040603202_06_090");
-        MsgDisp("Himuro","The person penguin you would see me with
-is Reiichi-san.");
+        MsgDisp("Himuro","The person you'd see me with, as a
+penguin, is Reiichi-san.");
         MsgDisp("主人公","Reiichi-san...you mean vice president
 Himuro?");
         ChEye(6,0);

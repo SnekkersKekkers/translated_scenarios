@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040824202_08_010");
     MsgDisp("Shirahane","That's right!
 Then, let's prepare.
-So that this becomes a good memory.");
+This is gonna be a great memory.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -84,8 +84,7 @@ I see.");
         ChMotion(8,3,1);
         ChEyeOpenLevel(8,0);
         VoicePlay("B040824202_08_080");
-        MsgDisp("Shirahane","If you're being for real, let's prepare it
-together!
+        MsgDisp("Shirahane","Alright then, let's prepare it together!
 Let's get some firewood...");
         ChEye(8,3);
         ChMotion(8,2,1);

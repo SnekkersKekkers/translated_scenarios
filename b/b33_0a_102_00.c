@@ -101,8 +101,8 @@ ChMotion(6,0);
 VoicePlay("B330A10200_06_040");
 MsgDisp("Himuro","He's right.");
 MsgDisp("主人公","(Yeah, that's right...
-If everyone's here, no matter where we go
-It'll get lively...)");
+If everyone's here, it'll get lively
+no matter where we go...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

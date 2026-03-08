@@ -27,8 +27,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040621300_06_020");
-    MsgDisp("Himuro","If you were to handle them roughly, that
-would be sad.");
+    MsgDisp("Himuro","It'd be sad if you handled them roughly.");
     MsgDateResultDisp();
     break ;
     case 2:

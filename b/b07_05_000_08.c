@@ -22,8 +22,8 @@ MsgDisp("Hiiragi","That's right.");
 ChMotion(5,0);
 VoicePlay("B070500000_05_380");
 MsgDisp("Hiiragi","Every female student in Haba High
-recognizes me as special case.
-Their generosity is kind.");
+recognizes me as a special case.
+They're very generous and kind.");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("B070500000_05_390");

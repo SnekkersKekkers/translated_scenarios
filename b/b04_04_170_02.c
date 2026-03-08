@@ -142,7 +142,7 @@ stimulating...)");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040417002_04_150");
-    MsgDisp("Nanatsumori","It's small, and tense.
+    MsgDisp("Nanatsumori","It's cramped, and we're all worked up.
 Maybe I'll get something cold to drink.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

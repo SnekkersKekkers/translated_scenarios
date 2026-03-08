@@ -27,7 +27,8 @@ ChMotion(6,0);
 VoicePlay("B070600000_06_280");
 MsgDisp("Himuro","It's fun to plan out strategies and also
 interesting to read your opponent's mind.");
-MsgDisp("主人公","Then, match games are your hobby?");
+MsgDisp("主人公","Then, those competitive games are your
+hobby?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -35,7 +36,7 @@ VoicePlay("B070600000_06_290");
 MsgDisp("Himuro","It's just an interest.
 I wouldn't go as far as to call it a
 hobby.");
-MsgDisp("主人公","(But it sounds like a hobby...?)");
+MsgDisp("主人公","(That sounds like a hobby to me though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

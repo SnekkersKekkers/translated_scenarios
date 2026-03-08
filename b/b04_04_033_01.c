@@ -40,10 +40,9 @@ parts, it really might look like me.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040403301_04_030");
-    MsgDisp("Nanatsumori","Your inventiveness is amazing! It seems
-like a high hurdle, but if you could make
-this face, your views on social media
-would increase by tons.");
+    MsgDisp("Nanatsumori","Your inventiveness is amazing! It'd be
+tough, but if you made this face, your
+social media views would skyrocket.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

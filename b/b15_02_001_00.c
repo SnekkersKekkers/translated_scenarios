@@ -58,9 +58,9 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150200100_02_070");
-MsgDisp("Sassa","That being said, I hate having to keep
-being beaten. Haa...I'll think of an
-attack on my way home. See you.");
+MsgDisp("Sassa","That being said, I hate just taking it.
+Haa...I'll think of a strategy on my way
+home. See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 MsgDisp("主人公","(I wonder if I've troubled ｛Sassa＊＊｝...)");

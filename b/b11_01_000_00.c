@@ -42,7 +42,7 @@ ChEye(1,1);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B110100000_01_010");
-MsgDisp("Kazama","Don't shit around.
+MsgDisp("Kazama","Stop screwing around.
 Don't get any closer to her!");
 MsgDispSksp(0);
 ChEye(33,2);
@@ -68,12 +68,12 @@ ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B110100000_01_030");
 MsgDisp("Kazama","Hah?
-Stop shitting around!");
+Stop screwing around!");
 MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110100000_33_050");
-MsgDisp("Guy","I-I won't shit around anymore!");
+MsgDisp("Guy","I-I'm not screwing around!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(33);
 ChEye(1,1);

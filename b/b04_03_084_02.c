@@ -85,11 +85,9 @@ animal or insect.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040308402_03_090");
-        MsgDisp("Honda","A long time ago, I was always stuffed up
-in the library, in my room doing
-experiments, there was a period I didn't
-ever go outside. At that time I felt just
-like an insect.");
+        MsgDisp("Honda","I used to hole up in the library or do
+experiments in my room, never going out.
+Back then I felt just like a larva.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);

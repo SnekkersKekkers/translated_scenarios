@@ -117,8 +117,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();
 ChClose(2,0,30);
 ChClose(6,0,30);
-MsgDisp("主人公","(Yeah, it's just as ｛Sassa＊＊｝ and
-｛Himuro＊＊｝ says. You'll come home soon,
+MsgDisp("主人公","(Yeah, just like ｛Sassa＊＊｝ and ｛Himuro＊＊｝ said.
+You'll come home soon,
 won't you ｛Kazama＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);

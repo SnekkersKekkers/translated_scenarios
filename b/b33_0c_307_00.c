@@ -15,7 +15,7 @@ ScrFadeIn(0);
 ChEye(6,0);
 ChMouth(6,3);
 VoicePlay("B330C30700_06_000");
-MsgDisp("Himuro","The face of this zoo as I thought, is the
+MsgDisp("Himuro","As I thought, the face of this zoo is the
 elephant, Konami.");
 MsgDisp("主人公","You've been to this place for a long time
 huh?");

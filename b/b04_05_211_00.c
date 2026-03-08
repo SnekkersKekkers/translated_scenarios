@@ -37,9 +37,9 @@ I'm relieved if that's the case.");
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040521100_05_030");
-    MsgDisp("Hiiragi","That's right. If you don't wish to see
-that...Let's start with the elephant over
-there, in order of largest to smallest.");
+    MsgDisp("Hiiragi","That's right. If you don't have a
+preference... Let's start with the
+elephant over there, largest to smallest.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

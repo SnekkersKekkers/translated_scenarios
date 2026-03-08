@@ -56,8 +56,8 @@ StlMouth(1,1);
 StlCheek(1,7);
 VoicePlay("B050100200_01_060");
 MsgDisp("Kazama","Eh, ah that's right.
-You just looked so dazed when taking a
-bite.");
+You were just so focused on eating away at
+it.");
 StlEyeOpenLevel(1,0);
 Wait(14,0);
 StlEye(1,0);

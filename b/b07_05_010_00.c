@@ -17,8 +17,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B070501000_05_010");
-MsgDisp("Hiiragi","You've asked me for my impressions in
-relation to \"love\" before.");
+MsgDisp("Hiiragi","You asked me what I thought about
+\"love\" before, right?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

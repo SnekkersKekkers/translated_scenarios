@@ -72,7 +72,7 @@ You like the pretty scenery, right?");
         VoicePlay("B040722102_07_060");
         MsgDisp("Mikage","From now on, you will continue to see
 beautiful views, and hone your senses.");
-        MsgDisp("主人公","But, it would be even better if I would
+        MsgDisp("主人公","But, it would be even better if I could
 see it with ｛Mikage＊＊｝...");
         ChEye(7,0);
         ChMouth(7,0);

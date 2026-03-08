@@ -32,7 +32,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B360550300_05_030");
 MsgDisp("Hiiragi","Of course it's fun, but too many things
 cross my mind.");
-MsgDisp("主人公","Something unnecessary?");
+MsgDisp("主人公","Unwanted thoughts?");
 ChEye(5,2);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);

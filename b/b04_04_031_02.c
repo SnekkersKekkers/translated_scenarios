@@ -84,10 +84,9 @@ come here today.");
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040403102_04_070");
-        MsgDisp("Nanatsumori","Things like trends and limited-time
-exhibits. I take a picture of it, I share
-it, I'm satisfied. This is all simply for
-my own self satisfaction.");
+        MsgDisp("Nanatsumori","Trends and limited-time exhibits. I take a
+picture, share it, feel satisfied. It's
+all just self-satisfaction.");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);

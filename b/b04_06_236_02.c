@@ -71,8 +71,8 @@ changed.");
         ChMotion(6,0,1);
         VoicePlay("B040623602_06_070");
         MsgDisp("Himuro","Because I'll have to realize my own
-cowardliness and pathetic nature.
-Please forgive me for that.");
+cowardice and pathetic nature.
+I can't deal with that.");
         MsgDisp("主人公","Umm.");
         ChEye(6,0);
         ChMouth(6,4);

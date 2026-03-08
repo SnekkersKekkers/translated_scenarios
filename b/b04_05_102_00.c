@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040510200_05_010");
-    MsgDisp("Hiiragi","Yes, me too. If I think of anything and
-everything as improving my art, and I'll
-learn something new?");
+    MsgDisp("Hiiragi","Yes, me too. If we treat everything as
+nourishment for our craft, we might learn
+something new.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

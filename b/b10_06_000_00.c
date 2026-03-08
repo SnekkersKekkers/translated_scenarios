@@ -20,7 +20,7 @@ MsgDisp("Himuro","Stop.
 I don't want to hear it.");
 VoicePlay("B100600000_06_020");
 MsgDisp("Himuro","I also went a bit too far.
-Let's sweep today under the carpet.");
+Let's put today behind us.");
 MsgDisp("主人公","Y-Yeah.");
 VoicePlay("B100600000_06_030");
 MsgDisp("Himuro","Then, let's not say things like that to

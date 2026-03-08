@@ -28,7 +28,7 @@ all.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040416002_04_020");
-    MsgDisp("Nanatsumori","Huh, are you getting red?
+    MsgDisp("Nanatsumori","Huh, are you turning red?
 Cute.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

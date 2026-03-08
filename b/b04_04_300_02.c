@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040430002_04_010");
     MsgDisp("Nanatsumori","Yeah.
-You fit perfectly into the empty space
-that felt lonely when I was by myself.");
+You fit perfectly into the space that felt
+empty when I was alone.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

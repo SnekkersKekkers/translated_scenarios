@@ -15,9 +15,9 @@ MsgDisp("Mikage","Hey hey, what are you saying?
 ...I'm glad I called.");
 MsgDisp("主人公","Eh...?");
 VoicePlay("B100700000_07_020");
-MsgDisp("Mikage","It was my fault for dragging you about as
-I pleased. I also acted weird. I'm really
-sorry.");
+MsgDisp("Mikage","It was my fault for dragging you around
+however I wanted. I acted weird too.
+I'm really sorry.");
 VoicePlay("B100700000_07_030");
 MsgDisp("Mikage","Your unexpected reactions aren't anything
 new right?");

@@ -30,9 +30,9 @@ tortoise pasture!");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("B040321101_03_020");
-    MsgDisp("Honda","There it is～, the naked mole rat. Well,
-I'm purely interested. Even though it's a
-mouse it can live for 30 years～");
+    MsgDisp("Honda","There it is～, the naked mole rat.
+I'm fascinated. Even though it's a rodent,
+it can live for 30 years～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

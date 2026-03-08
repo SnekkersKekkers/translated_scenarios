@@ -67,15 +67,15 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("B360123601_01_070");
-MsgDisp("Kazama","I can't return back to when we were in
+MsgDisp("Kazama","I can't go back to when we were in
 elementary school, but your reactions now
-can't be inferior either.");
+are just as good.");
 MsgDisp("主人公","Are you saying I'm like a kid?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B360123601_01_080");
-MsgDisp("Kazama","You're always doing new things.
+MsgDisp("Kazama","You're always so refreshing.
 I'm praising you.");
 MsgDisp("主人公","Hmm.
 Even ｛Kazama＊＊｝ looks like he's having

@@ -68,8 +68,8 @@ even if you try your best.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040610102_06_060");
-        MsgDisp("Himuro","Even I don't like that I'm born after you
-either.");
+        MsgDisp("Himuro","It's not like I chose to be born after
+you either.");
         MsgDisp("主人公","That's true...sorry.");
         ChEye(6,2);
         ChMouth(6,0);
@@ -84,9 +84,8 @@ about, so it just came out.");
         ChMotion(6,0);
         VoicePlay("B040610102_06_080");
         MsgDisp("Himuro","No matter how hard I try, we can't take
-the same classes, not to mention it's
-impossible for us to end up in the same
-class.");
+the same classes, let alone end up in
+the same class.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,0);

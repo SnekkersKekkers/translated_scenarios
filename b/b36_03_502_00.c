@@ -11,8 +11,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360350200_03_000");
 MsgDisp("Honda","Oh look!
-Over there, someone drew a heart with an
-umbrella on the sand.");
+Over there, someone drew a love umbrella
+on the sand.");
 MsgDisp("主人公","Oh you're right.
 It's lovely.");
 ChEye(3,0);

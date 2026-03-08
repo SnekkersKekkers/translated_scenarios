@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(7,255,2,2,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723302_07_000");
-MsgDisp("Mikage","For the first time, I feel like I feel
+MsgDisp("Mikage","For the first time, I think I felt
 something other than fear...");
 MsgSel("The other side of fear, right?","Shall we go gain to make sure?","It feels like I can overcome it too.");
 switch (MsgSelRsltGet()){

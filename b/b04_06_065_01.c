@@ -83,8 +83,9 @@ would still like to meet up.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040606501_06_080");
-        MsgDisp("Himuro","...Still, we should treat a promise for a
-whole year later more lightly.");
+        MsgDisp("Himuro","...Still, maybe we shouldn't make a
+promise for a whole year later so
+casually.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);

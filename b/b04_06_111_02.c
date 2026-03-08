@@ -118,9 +118,9 @@ What is?");
         ChMouth(6,3);
         ChMotion(6,1);
         VoicePlay("B040611102_06_130");
-        MsgDisp("Himuro","It's nothing. At any rate, let's skate a
-bit more. I've gotten the hang of it, so I
-want to make the most of it.");
+        MsgDisp("Himuro","It's nothing. At any rate, let's skate
+a bit more. I've gotten the hang of it,
+so I want to make the most of it.");
         MsgDisp("主人公","Yeah!");
         break ;
         default :

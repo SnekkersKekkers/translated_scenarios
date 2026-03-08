@@ -78,13 +78,13 @@ SEWait();
 VoicePlay("B330C30300_07_020");
 MsgDisp("Mikage","That's good, Inori.
 You can conquer both the waves and the
-icetop.");
+ice.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C30300_06_020");
 MsgDisp("Himuro","It's as Kojiro-sensei says. Don't lean
-forward, and keep your gravity center.
+forward, and keep your center of gravity.
 It's the same as surfing.");
 ChEye(7,0);
 ChMouth(7,3);

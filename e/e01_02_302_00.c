@@ -88,8 +88,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_060");
 MsgDisp("Mikage","If I had to give you one piece of
-advice...\"It's not what you eat, but who
-you eat it with.\". That's my advice.");
+advice... \"It's not what you eat, but who
+you eat it with.\"");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

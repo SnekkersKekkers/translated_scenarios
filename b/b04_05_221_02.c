@@ -43,10 +43,9 @@ I wonder how?");
         MsgDisp("Hiiragi","My theatre production differs in both
 historical fact and interpretation. I
 wonder if they would take offense to it...");
-        MsgDisp("主人公","No, I don't think so. There were a lot of
-people who watched the play for the first
-time and developed a interest in the
-history?");
+        MsgDisp("主人公","No, I don't think so. A lot of people
+get interested in history for the first
+time after watching the play, you know?");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040522102_05_040");

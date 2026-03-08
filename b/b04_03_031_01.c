@@ -28,9 +28,8 @@ let's try it again!");
     ChMotion(3,1,1);
     VoicePlay("B040303101_03_020");
     MsgDisp("Honda","The Japanese spider crab, right? It's nice
-that they're caught in the waters near
-Japan. Let's start by taking an interest
-in something close to home!");
+that they're caught near Japan. Let's start
+by taking an interest in what's close!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

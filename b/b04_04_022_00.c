@@ -25,9 +25,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040402200_04_020");
-    MsgDisp("Nanatsumori","Sounds nice. I want to see it for myself
-and not from a picture in a guide book. I
-want to take pictures of nice things.");
+    MsgDisp("Nanatsumori","Sounds nice. Rather than a guide book
+photo, I wanna see it for myself and take
+my own pictures.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

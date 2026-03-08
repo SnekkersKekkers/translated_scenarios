@@ -61,8 +61,8 @@ Then, let me be clearer.");
         ChOpen(5,255,0,4,4,#1,#1,0,0);
         VoicePlay("B040503302_05_060");
         MsgDisp("Hiiragi","Phew...
-I should have said that from the first
-place.");
+I should have just said that from the
+start.");
         ChMotion(5,2);
         VoicePlay("B040503302_05_070");
         MsgDisp("Hiiragi","I wonder why that is.

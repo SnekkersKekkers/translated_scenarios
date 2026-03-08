@@ -91,9 +91,9 @@ running might be good for you.");
         ChMotion(3,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040302302_03_090");
-        MsgDisp("Honda","Yeah, that's right! Like this, when I look
-at you I start noticing things about your
-hair, eyes, ears, nose, and-");
+        MsgDisp("Honda","Yeah, that's right! When I look at you, I
+start noticing your hair, eyes, ears,
+nose, and-");
         MsgDisp("主人公","What∋
 Don't stare at me so hard!");
         ChEye(3,0);

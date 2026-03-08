@@ -66,8 +66,8 @@ Ah, you did it huh?");
         ChOpen(5,255,0,2,4,#1,#1,0,0);
         VoicePlay("B040515202_05_050");
         MsgDisp("Hiiragi","There was no need for a handicap.");
-        MsgDisp("主人公","｛Hiiragi＊＊＊｝'s method of teaching was
-successful.
+        MsgDisp("主人公","It's because you're such a good teacher,
+｛Hiiragi＊＊＊｝.
 Thank you.");
         ChMotion(5,4);
         VoicePlay("B040515202_05_060");

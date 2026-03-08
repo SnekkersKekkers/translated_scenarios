@@ -45,8 +45,8 @@ safe time.");
     ChMotion(5,0);
     VoicePlay("B040523601_05_030");
     MsgDisp("Hiiragi","Yes, thank you.
-Your words have made me come to a decision
-for us to go home.");
+Your words helped me make up my mind to
+head home.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -66,8 +66,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B150600300_06_080");
-MsgDisp("Himuro","\"Somewhat\" is prohibited from now on.
-Study and turn a new leaf.
+MsgDisp("Himuro","\"Somewhat\" is banned from now on.
+Go study and come back when you have.
 That's all!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);

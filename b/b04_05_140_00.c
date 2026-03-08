@@ -36,8 +36,8 @@ My patience was in vain...");
     ChMotion(5,0);
     VoicePlay("B040514000_05_030");
     MsgDisp("Hiiragi","Yes.
-It was strange that it was so loud that I
-couldn't hear it.");
+It's strange how it was so loud that I
+couldn't even hear it properly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

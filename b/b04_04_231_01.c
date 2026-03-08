@@ -40,9 +40,8 @@ Maybe I should've stayed quiet.");
     ChMotion(4,3,1);
     VoicePlay("B040423101_04_030");
     MsgDisp("Nanatsumori","I see...it depends on how you look at it.
-Now that you mention it, you and I both
-have naturally messy hair that looks
-great!");
+Now that you mention it, we both have
+natural messy hair that looks great!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

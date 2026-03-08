@@ -12,10 +12,9 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChSet(3,0);
     VoicePlay("B040302200_03_010");
-    MsgDisp("Honda","Yeah, this ship looks impressive when you
-see it in the harbour. But once it's out
-in the open sea, it's like a leaf on a
-tree.");
+    MsgDisp("Honda","Yeah, this ship looks impressive in the
+harbour. But once it's out in the open
+sea, it's like a leaf on a tree.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

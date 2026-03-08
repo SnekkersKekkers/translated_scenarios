@@ -92,10 +92,9 @@ tastier than the sausages we normally ate.");
         ChMouth(3,0);
         ChMotion(3,0);
         VoicePlay("B040324102_03_080");
-        MsgDisp("Honda","I think it's much better to be able to
-express the emotions you feel in the
-moment, like my sister and you, than to
-come off as cold.");
+        MsgDisp("Honda","I think being able to express how you feel
+in the moment, like my sister and you, is
+much better than coming off as cold.");
         MsgDisp("主人公","｛Honda＊＊｝ isn't cold at all.
 You're kind, and always make everyone 
 smile.");

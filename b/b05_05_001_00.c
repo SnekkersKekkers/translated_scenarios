@@ -79,7 +79,7 @@ VoicePlay("B050500100_39_020");
 MsgDisp("Ghost","I curse you～!");
 StlEyeOpenLevel(5,#1);
 VoicePlay("B050500100_05_060");
-MsgDisp("Hiiragi","The headscarf is also completely wrong.");
+MsgDisp("Hiiragi","The headscarf is on backwards too.");
 StlEyeOpenLevel(5,5,1);
 SEPlay("EV_SE_623",0.3,0.6);
 SEWait();

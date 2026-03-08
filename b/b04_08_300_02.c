@@ -110,7 +110,7 @@ I said it.");
     ChMotion(8,0,1);
     VoicePlay("B040830002_08_120");
     MsgDisp("Shirahane","That's right!
-Then, le's talk!
+Then, let's talk!
 There's plenty ta talk about♪");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);

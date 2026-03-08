@@ -28,10 +28,9 @@ many living things.");
     ChMotion(3,4);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040306300_03_020");
-    MsgDisp("Honda","But it's definitely cleaner than the
-summer sea. There's less plankton, so the
-visibility increases, and the seasonal
-winds bring the deep sea water up!");
+    MsgDisp("Honda","But the water is cleaner than in summer.
+Less plankton means better visibility, and
+seasonal winds bring deep sea water up!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

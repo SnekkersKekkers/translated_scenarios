@@ -97,10 +97,9 @@ I grew up being cared for by everyone.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040515102_05_100");
-        MsgDisp("Hiiragi","That being said, now I can go bowling any
-time I'd like, with the person I like,
-this may be the most wonderful time of my
-life.");
+        MsgDisp("Hiiragi","That said, being able to go bowling
+anytime with the person I like might be
+the best time of my life.");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you're exaggerating.)");
         break ;
         default :

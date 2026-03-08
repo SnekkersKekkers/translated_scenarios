@@ -43,8 +43,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360123600_01_050");
-MsgDisp("Kazama","My bad. But it was because we made it in
-time, that I got to see your sparkling
+MsgDisp("Kazama","My bad. But it's true that making it in
+time means I get to see your sparkling
 expression.");
 ChEye(1,0);
 ChMouth(1,3);

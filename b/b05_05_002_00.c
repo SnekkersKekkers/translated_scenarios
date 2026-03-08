@@ -15,9 +15,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B050500200_05_010");
-MsgDisp("Hiiragi","Yes. Desperate times call for desperate
-measures. If only I had more power, I
-could unify the theater company...");
+MsgDisp("Hiiragi","Yeah, I'm grasping at straws here.
+If only I had more power to bring the
+theater company together...");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMouth(5,4);

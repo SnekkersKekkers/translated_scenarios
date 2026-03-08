@@ -18,9 +18,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B040606400_06_020");
-MsgDisp("Himuro","The biggest difference between you and me
-is that I'm not a glutton.
-Things like foods stalls won't——");
+MsgDisp("Himuro","For starters, unlike you, I'm not a
+glutton.
+Food stalls won't——");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,1);

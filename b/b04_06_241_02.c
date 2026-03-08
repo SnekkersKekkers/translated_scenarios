@@ -53,7 +53,8 @@ see what kind of reaction you would have.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040624102_06_050");
-        MsgDisp("Himuro","It won't become that embarrassing.");
+        MsgDisp("Himuro","I wouldn't do something that
+embarrassing.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

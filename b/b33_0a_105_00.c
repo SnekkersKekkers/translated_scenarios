@@ -72,7 +72,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B330A10500_02_020");
-MsgDisp("Sassa","What's what?");
+MsgDisp("Sassa","What's that about?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

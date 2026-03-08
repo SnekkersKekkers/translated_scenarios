@@ -40,7 +40,7 @@ their shoes on...but it felt like they
 were relaxing in my room without me even
 noticing");
 MsgDisp("主人公","Hehe!
-It's weird to imagine that isn't it?");
+That's a funny image, isn't it?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

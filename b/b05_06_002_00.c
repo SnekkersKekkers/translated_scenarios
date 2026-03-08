@@ -28,8 +28,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B050600200_06_030");
-MsgDisp("Himuro","You only hang out with him while you're
-here, and then you leave when you're done.");
+MsgDisp("Himuro","You get him attached to you while you're
+here, then just leave whenever it suits
+you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -83,7 +84,7 @@ StlMouth(6,0);
 VoicePlay("B050600200_06_090");
 MsgDisp("Himuro","...But you know, deep down don't you want
 friends too?
-That's why I can't leave you alone there.");
+That's why you won't leave that spot.");
 SEPlay("EV_SE_839");
 SEWait();
 StlEye(6,0);

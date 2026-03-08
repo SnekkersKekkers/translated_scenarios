@@ -36,8 +36,9 @@ this sort of thing?");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040623500_06_030");
-    MsgDisp("Himuro","Wow, you're pretty calm. But, I agree. I'm
-fed up with those see-through productions.");
+    MsgDisp("Himuro","Wow, you're pretty calm.
+But, I agree. I'm fed up with those
+transparent gimmicks.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

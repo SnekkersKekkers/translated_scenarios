@@ -22,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B140600000_06_020");
-MsgDisp("Himuro","The way we've been together for two days
-straight.");
+MsgDisp("Himuro","Why have we been together for two days
+straight?");
 MsgDisp("主人公","Ah, I see!
 It's because yesterday was the school
 christmas party.");

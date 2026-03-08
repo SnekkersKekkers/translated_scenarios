@@ -8,8 +8,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B040530000_05_000");
-MsgDisp("Hiiragi","Please, there's nothing here, but please
-make yourself feel at home.");
+MsgDisp("Hiiragi","There's nothing special here, but please
+make yourself at home.");
 MsgSel("It's a wonderful room!","It's a boyish room","...It's a unique room, huh?");
 switch (MsgSelRsltGet()){
     case 0:

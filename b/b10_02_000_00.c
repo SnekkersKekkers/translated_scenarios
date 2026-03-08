@@ -15,12 +15,11 @@ MsgDisp("Sassa","Ah-, it's me, it's me.
 Is now a good time to call?");
 MsgDisp("主人公","Ah, yeah...");
 VoicePlay("B100200000_02_010");
-MsgDisp("Sassa","I somewhat got a dodgy feeling about
-today.");
+MsgDisp("Sassa","Today kinda ended on a weird note, huh.");
 VoicePlay("B100200000_02_020");
 MsgDisp("Sassa","It's my fault.
-I spoke in a nasty way.
-That's why, I'm sorry.");
+I said some mean things.
+So, I'm sorry.");
 MsgDisp("主人公","No, that's not true.
 I'm the one who's sorry.");
 VoicePlay("B100200000_02_030");

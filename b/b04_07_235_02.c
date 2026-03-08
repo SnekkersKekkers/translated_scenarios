@@ -77,8 +77,8 @@ he?");
         VoicePlay("B040723502_07_060");
         MsgDisp("Mikage","Ah, you're tricking me again?");
         MsgDisp("主人公","No.
-Because the usual ghosts are, look: at the
-entrance, aren't they?");
+Because the usual ghost person is, look,
+at the entrance, right?");
         ChEye(7,5);
         ChMouth(7,1);
         ChMotion(7,5);

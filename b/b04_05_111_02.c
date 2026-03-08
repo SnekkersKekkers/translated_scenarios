@@ -55,7 +55,7 @@ That's a bit of a stretch, isn't it?");
         ChEye(5,3);
         VoicePlay("B040511102_05_040");
         MsgDisp("Hiiragi","Maybe we should wear costumes next time?");
-        MsgDisp("主人公","Omg!
+        MsgDisp("主人公","Wow!
 Everyone would be surprised, huh?");
         ChEye(5,2);
         VoicePlay("B040511102_05_050");

@@ -94,8 +94,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30800_06_050");
-MsgDisp("Himuro","Kojiro-sensei, shouldn't you have come in
-your normal overalls today?");
+MsgDisp("Himuro","Kojiro-sensei, should you have worn your
+usual overalls today?");
 MsgDisp("主人公","(Hehe!
 Maybe it's just as ｛Himuro＊＊｝ says?)");
 MsgClose();

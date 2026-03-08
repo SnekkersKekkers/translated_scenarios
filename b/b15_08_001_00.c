@@ -39,7 +39,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChEyeOpenLevel(8,8);
 VoicePlay("B150800100_08_050");
-MsgDisp("Shirahane","Am I really that obscene...");
+MsgDisp("Shirahane","Am I really that indecent...");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,0,1);

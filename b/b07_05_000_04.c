@@ -20,8 +20,8 @@ MsgDisp("主人公","Hehe, it would definitely be surprising if
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B070500000_05_180");
-MsgDisp("Hiiragi","Ah, just now you were laughing about how
-much of mismatch me and rap music are.");
+MsgDisp("Hiiragi","Ah, just now you were laughing at how much
+of a mismatch me and rap are.");
 MsgDisp("主人公","Umm, I'm sorry.");
 ChEye(5,3);
 ChMotion(5,0);

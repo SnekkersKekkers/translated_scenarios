@@ -7,7 +7,7 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040409000_04_000");
-MsgDisp("Nanatsumori","Uwah...it's so hard to breathe...");
+MsgDisp("Nanatsumori","Uwah...it's so humid in here...");
 MsgSel("This flower is giving off an impressive smell...","It's humid, isn't it?","I wonder where the carnivorous plants are?");
 switch (MsgSelRsltGet()){
     case 0:

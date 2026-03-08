@@ -80,10 +80,9 @@ business.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040521202_05_080");
-        MsgDisp("Hiiragi","Now I have the honour of performing as
-part of a citizens' theatre troupe.
-There's no need to have a t-shirt with my
-face on it right?");
+        MsgDisp("Hiiragi","Now I perform as part of a citizens'
+theatre troupe. There's no need for a
+t-shirt with my face on it, right?");
         MsgDisp("主人公","...That's right...");
         ChEye(5,3);
         ChMotion(5,0);
@@ -102,7 +101,7 @@ There really is?");
         ChMotion(5,0);
         VoicePlay("B040521202_05_110");
         MsgDisp("Hiiragi","There are a lot of printing services like
-that, is there not?");
+that, aren't there?");
         VoicePlay("B040521202_05_120");
         MsgDisp("Hiiragi","I'd like to make a t-shirt of me and you.");
         MsgDisp("主人公","Umm, that can't be sold though.");

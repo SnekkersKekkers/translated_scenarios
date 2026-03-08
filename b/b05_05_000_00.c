@@ -45,7 +45,7 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0,1);
 VoicePlay("B050500000_05_040");
-MsgDisp("Hiiragi","So suddenly too, I wonder...");
+MsgDisp("Hiiragi","Why so suddenly, I wonder?");
 MsgDisp("主人公","I wonder if they think we're going to feed
 them?");
 ChEye(5,0);
@@ -112,14 +112,14 @@ ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B050500000_05_090");
 MsgDisp("Hiiragi","Yeah.
-The seagulls coming onto the stage with us
-like that.");
+It was just our two-person stage, with the
+seagulls crashing the show.");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("B050500000_05_100");
-MsgDisp("Hiiragi","Let's come again sometime to the ship's
-stage.");
+MsgDisp("Hiiragi","Let's come back to this stage on the ship
+again sometime.");
 MsgDisp("主人公","Yeah!");
 BGMStop();
 MsgClose();

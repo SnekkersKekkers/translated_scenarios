@@ -81,8 +81,9 @@ MsgDisp("Nanatsumori","That's not a reassuring answer...");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400700_04_080");
-MsgDisp("Nanatsumori","Alright. This is an order. Disobedience is
-not permitted. Go straight home today.");
+MsgDisp("Nanatsumori","Listen up.
+This is an order. No overdoing it.
+Go straight home today.");
 MsgDisp("主人公","Okay...");
 MsgClose();
 ScrFadeOut(0);

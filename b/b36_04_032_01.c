@@ -60,8 +60,8 @@ MsgDisp("Nanatsumori","You got itー.
 Just watching your facial expressions is
 fun.");
 MsgDisp("主人公","Hey!
-We came to the aquarium, so go look at the
-fish?");
+We came to the aquarium, so let's look at
+the fish!");
 ChEye(4,3);
 ChMouth(4,3);
 VoicePlay("B360403201_04_080");

@@ -77,9 +77,9 @@ StlEye(8,0);
 StlEyeOpenLevel(8,0,1);
 StlMouth(8,1);
 VoicePlay("B050800100_08_080");
-MsgDisp("Shirahane","I really respect anyone who can take on a
-big stage like that...It's like they live
-in a different dimension?");
+MsgDisp("Shirahane","Anyone who can perform on a stage like
+that, I really respect...
+Do they live in a different dimension?");
 MsgDisp("主人公","Hehe.");
 StlEye(8,2);
 StlMouth(8,1);

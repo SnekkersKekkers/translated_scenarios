@@ -27,8 +27,8 @@ I'm good at climbing trees though?");
     ChMotion(8,2,1);
     VoicePlay("B040824201_08_020");
     MsgDisp("Shirahane","Hmー.
-When you go camping, I think you're going
-to get dirty to some extent, right?");
+I mean, getting a little dirty is part of
+camping, right?");
     MsgDateResultDisp();
     break ;
     case 2:

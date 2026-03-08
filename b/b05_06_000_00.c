@@ -3,7 +3,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600000_06_000");
-MsgDisp("Himuro","There really are a lot of cherry blossoms.");
+MsgDisp("Himuro","Wow, look at all these petals.");
 MsgDisp("主人公","Yeah.
 They're soft to step on.");
 ChEye(6,0);

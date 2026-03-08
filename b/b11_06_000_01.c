@@ -92,8 +92,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B110600001_06_040");
-MsgDisp("Himuro","Honestly...people like that lower the
-quality of the sea.");
+MsgDisp("Himuro","Honestly...people like that drag down the
+whole vibe of the sea.");
 MsgDisp("主人公","Um, ｛Himuro＊＊｝...
 Thank you.");
 ChEye(6,0);

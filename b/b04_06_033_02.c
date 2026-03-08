@@ -44,9 +44,9 @@ I was just stating a fact.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040603302_06_030");
-        MsgDisp("Himuro","To think that there's a world like this at
-the bottom of the ocean I visit so often
-it's kind of scary.");
+        MsgDisp("Himuro","To think a world like this lies beneath
+the ocean I visit so often...
+It's kind of scary.");
         ChEye(6,0);
         ChMouth(6,2);
         ChMotion(6,0);
@@ -70,7 +70,7 @@ and actions angered you, made you upset...");
         ChMouth(6,2);
         ChMotion(6,2);
         VoicePlay("B040603302_06_070");
-        MsgDisp("Himuro","I would lose all sort of confidence.");
+        MsgDisp("Himuro","I would lose all sorts of confidence.");
         MsgDisp("主人公","｛Himuro＊＊｝...");
         ChEye(6,0);
         ChMouth(6,0);

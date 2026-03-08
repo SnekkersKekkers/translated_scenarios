@@ -47,7 +47,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B070600001_06_070");
-MsgDisp("Himuro","Sort of like you.");
+MsgDisp("Himuro","Because you're like that.");
 MsgDisp("主人公","Eh, me?");
 ChEye(6,4);
 ChMouth(6,3);

@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("B040523500_05_020");
-    MsgDisp("Hiiragi","Are you really?
-Which part scared you?");
+    MsgDisp("Hiiragi","Really?
+At which part?");
     MsgDateResultDisp();
     break ;
     case 2:

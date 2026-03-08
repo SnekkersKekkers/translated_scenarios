@@ -59,9 +59,9 @@ Okay, I understand.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040308502_03_050");
-        MsgDisp("Honda","The current weather forecasts, thanks to
-the supercomputers are very accurate, even
-down to the area.");
+        MsgDisp("Honda","These days, weather forecasts are super
+accurate down to the area, thanks to
+supercomputers.");
         ChSet(3,3);
         VoicePlay("B040308502_03_060");
         MsgDisp("Honda","See? You got the scenery you were hoping

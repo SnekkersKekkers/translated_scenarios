@@ -48,10 +48,9 @@ absurd.");
         ChMouth(3,3);
         ChMotion(3,3);
         VoicePlay("B040303202_03_040");
-        MsgDisp("Honda","Yeah! So, with a bit more research, an
-exhibit featuring deep-sea fish 'swimming'
-in the sky might be possible, right? I'm
-getting really excited∈");
+        MsgDisp("Honda","Yeah! So with more research, deep-sea fish
+'swimming' in the sky might be possible,
+right? I'm getting really excited∈");
         MsgDisp("主人公","Hehe, ｛Honda＊＊｝ looks like you're having
 fun.");
         ChEye(3,3);

@@ -56,7 +56,7 @@ MsgDisp("VP Himuro","Quiet down.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("D010600200_32_010");
-MsgDisp("VP Himuro","As announced, gentlemen, do not 
+MsgDisp("VP Himuro","As announced, gentlemen, do not
 hold back. I want you
 to give it your all.");
 ChEye(6,0);

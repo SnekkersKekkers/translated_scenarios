@@ -100,8 +100,7 @@ ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050700300_07_100");
 MsgDisp("Mikage","Thank you.
-This is thanks to you accompanying me
-today.");
+It's all because you came with me today.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

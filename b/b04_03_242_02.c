@@ -69,8 +69,8 @@ involvement from the cerebrum.");
         ChEyeOpenLevel(3,0);
         VoicePlay("B040324202_03_070");
         MsgDisp("Honda","Right right. Thanks to you, I discovered
-something newly strange about me! Camping
-with us two is the best!");
+something new and strange about myself!
+Camping together is the best!");
         SEPlay("EV_SE_569",0,0.5);
         Wait(50,0);
         MsgDisp("主人公","(｛Honda＊＊｝, you're echoing...)");

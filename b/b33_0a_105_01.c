@@ -106,7 +106,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A10501_02_020");
 MsgDisp("Sassa","Ooh.
-Dinner and a show.");
+Like a dinner show.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

@@ -44,9 +44,8 @@ but also luminescent paint!");
     ChMotion(3,1);
     VoicePlay("B040323601_03_030");
     MsgDisp("Honda","Yeah, it's an unusual perspective on the
-world. I can see the connection between
-the bear and the fish, but the meat on the
-bone? ...It's difficult.");
+world. I can see the bear and fish, but
+the meat on the bone? ...It's difficult.");
     MsgDateResultDisp();
     break ;
     default :

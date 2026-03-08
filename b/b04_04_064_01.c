@@ -24,7 +24,7 @@ ChMotion(4,0,1);
 VoicePlay("B040406401_04_030");
 MsgDisp("Nanatsumori","But, here, I can cast away that shield.
 I don't really even care if I'm revealed
-to be Nana.");
+to be NANA.");
 MsgDisp("主人公","Eh?
 Is that really okay?");
 ChMotion(4,1,1);

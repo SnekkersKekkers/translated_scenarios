@@ -56,9 +56,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010210000_02_070");
-MsgDisp("Sassa","Hmmmh...You don't need it, do you? Then,
-I'll give it to my mother as a gift. You
-hurry home too!");
+MsgDisp("Sassa","Hmm... You don't need it, do you?
+Then I'll give it to my mom as a gift.
+You hurry home too!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

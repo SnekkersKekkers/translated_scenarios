@@ -50,7 +50,7 @@ MsgDisp("Shirahane","...But, I have my limits too.
 Please...understand.");
 ChEye(8,4);
 VoicePlay("B150800400_08_090");
-MsgDisp("Shirahane","Well then.");
+MsgDisp("Shirahane","See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);

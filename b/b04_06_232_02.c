@@ -76,7 +76,7 @@ you like.");
         ChMouth(6,1);
         ChMotion(6,4);
         VoicePlay("B040623202_06_090");
-        MsgDisp("Himuro","Saying that, only invite me.");
+        MsgDisp("Himuro","But make sure you only invite me.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

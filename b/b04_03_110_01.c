@@ -38,9 +38,8 @@ everyone around him.");
     ChMotion(3,3);
     VoicePlay("B040311001_03_030");
     MsgDisp("Honda","That's true. That would bother others.
-Even if they can see underwater, if they
-can't see the people around them, that's a
-point deduction.");
+Even if they can see underwater, not seeing
+the people around them is a point off.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

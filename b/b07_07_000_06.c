@@ -26,7 +26,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070700000_07_330");
-MsgDisp("Mikage","Maybe I was different in high school.");
+MsgDisp("Mikage","For me, high school was the one period
+that was different.");
 MsgDisp("主人公","High school?");
 ChEye(7,0);
 ChMouth(7,0);

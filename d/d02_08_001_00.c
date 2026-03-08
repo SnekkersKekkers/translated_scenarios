@@ -23,7 +23,9 @@ VoicePlay("D020800100_08_020");
 MsgDisp("Shirahane","Ya.
 There's a track and field meet in August
 and I wanted to participate.");
-MsgDisp("主人公","｛Daichi＊＊｝, are you in the track and\nfield club? It seems like that would be\ndifficult to balance with work...");
+MsgDisp("主人公","｛Daichi＊＊｝, are you in the track and
+field club? It seems like that would be
+difficult to balance with work...");
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("D020800100_08_030");

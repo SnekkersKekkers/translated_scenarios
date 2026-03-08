@@ -116,7 +116,7 @@ There were a lot of customers after all.");
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_120");
         MsgDisp("Nanatsumori","That's true too.
-But, I also haven't prepared my heart just
+But, I'm also not mentally ready just
 yet.");
         MsgDisp("主人公","(?)");
         break ;

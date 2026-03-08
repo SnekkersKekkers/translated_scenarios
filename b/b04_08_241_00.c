@@ -26,8 +26,8 @@ It feels kinda nice.");
     ChMotion(8,2,1);
     VoicePlay("B040824100_08_020");
     MsgDisp("Shirahane","This is the world of the animals, after
-all...should we also just sprint around
-after all");
+all...should we just sprint around
+too?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -87,9 +87,8 @@ Especially...not to you.");
     ChMotion(6,3);
     VoicePlay("B040608202_06_080");
     MsgDisp("Himuro","That's not a bad suggestion. I've heard
-that a decent afternoon nap boosts
-efficiency. How about we lie down on the
-grass?");
+a decent nap boosts efficiency.
+How about we lie down on the grass?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

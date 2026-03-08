@@ -33,9 +33,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B070200001_02_130");
-MsgDisp("Sassa","Inori is really good at getting into our
-good graces, I guess he's kind of an
-incredible guy?");
+MsgDisp("Sassa","The way Inori just slides right into our
+inner circle... he might be kind of
+scary, actually?");
 MsgDisp("主人公","(｛Sassa＊＊｝ and ｛Himuro＊＊｝ seem to be
 really good friends.)");
 BGMStop();

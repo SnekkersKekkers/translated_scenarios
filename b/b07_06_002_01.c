@@ -19,9 +19,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_030");
-MsgDisp("Himuro","...Well, but on that note the usual
-Yanosuke-senpai isn't someone you feel
-like you can leave alone.");
+MsgDisp("Himuro","...Well, on the flip side, the everyday
+Yanosuke-senpai isn't someone you can
+just leave alone.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,1);
 ChMouth(6,0);

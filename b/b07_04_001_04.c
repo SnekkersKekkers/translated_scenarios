@@ -1,6 +1,6 @@
 MsgDisp("主人公","Hey.
-When I'm not there, ｛Nanatsumori＊｝ what
-do you and the others talk about?");
+What do you and the others talk about
+when I'm not there, ｛Nanatsumori＊｝?");
 VoicePlay("B070400001_04_270");
 MsgDisp("Nanatsumori","All sorts.");
 MsgDisp("主人公","For example?");

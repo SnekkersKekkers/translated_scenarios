@@ -88,9 +88,9 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D130B00200_04_050");
-MsgDisp("Nanatsumori","Well, I'll reply him later. We rarely go
-home altogether? There are only 4 days
-until graduation after all.");
+MsgDisp("Nanatsumori","Well, I'll reply later.
+Let's all walk home together for once?
+Only 4 days till graduation, after all.");
 ChSet(3,3);
 VoicePlay("D130B00200_03_050");
 VoiceEVSPlay(3);

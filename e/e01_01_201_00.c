@@ -116,8 +116,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","Hehe.
-(｛Hiiragi＊＊＊｝ and ｛Kazama＊＊｝ both are
+MsgDisp("主人公","(Hehe.
+｛Hiiragi＊＊＊｝ and ｛Kazama＊＊｝ are both
 amazing...)");
 MsgClose();
 ScrFadeOut(0,0);

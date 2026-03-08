@@ -44,10 +44,9 @@ sea huh?");
         ChEye(5,4);
         ChMotion(5,2);
         VoicePlay("B040506302_05_040");
-        MsgDisp("Hiiragi","Thank you. Thank you. But that would make
-it sound like you, who suits the summer
-sea, are surrounded by a relaxed
-atmosphere.");
+        MsgDisp("Hiiragi","Thank you. But that would make it sound
+like you, who suits the summer sea, have a
+relaxed air about you.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040506302_05_050");
         MsgDisp("Hiiragi","The air that surrounds you is calmer and

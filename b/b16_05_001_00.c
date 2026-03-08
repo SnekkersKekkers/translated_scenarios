@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     NSSEye(5,3);
     NSSMouth(5,3);
     VoicePlay("B160500100_05_010");
-    MsgDisp("Hiiragi","Won't you regret it to place your faith in
-me endlessly?");
+    MsgDisp("Hiiragi","If you keep trusting me so blindly,
+you'll regret it, you know?");
     break ;
     case 1:
     NSSEye(5,2);

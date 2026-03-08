@@ -13,9 +13,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100000_01_180");
-MsgDisp("Kazama","Is that so? Now I listen to my Grandpa's
-talk shows and rakugo CDs now. It's not
-music though.");
+MsgDisp("Kazama","Is that so? These days I listen to my
+Grandpa's talk shows and rakugo CDs.
+It's not music though.");
 MsgDisp("主人公","Ehhh, Rakugo huh? Come to think of it,
 I've not really gotten a chance to listen
 to one properly before.");

@@ -90,7 +90,7 @@ I'm not happy about it.");
         ChCheek(5,7);
         VoicePlay("B040508302_05_100");
         MsgDisp("Hiiragi","Ah, just now that was my inner voice.");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝'s liked person...
+        MsgDisp("主人公","(The person ｛Hiiragi＊＊＊｝ likes a lot...
 Ehhh∈)");
         break ;
         default :

@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040701000_07_020");
-    MsgDisp("Mikage","It is so?");
+    MsgDisp("Mikage","It is, though?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -92,8 +92,8 @@ and started laughing.");
         VoicePlay("B040520002_05_100");
         MsgDisp("Hiiragi","If you believe in me, I feel like I can do
 anything.");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, who does even the things
-he's bad at earnestly is so cool...)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is so cool, giving his all
+even at things he's bad at...)");
         break ;
         default :
         DbgAssert(1);

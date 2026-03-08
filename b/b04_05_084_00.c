@@ -26,9 +26,9 @@ stable.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040508400_05_020");
-    MsgDisp("Hiiragi","It seems bad to say that it's \"off\" But
+    MsgDisp("Hiiragi","Saying it's \"off\" sounds negative, but
 it's wonderful that you can enjoy it in a
-manner that's unique to this place.");
+way that's unique to this place.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

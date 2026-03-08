@@ -53,10 +53,9 @@ has a uniform beauty.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040320002_03_040");
-        MsgDisp("Honda","If I'm able to carefully look around, I
-think I'll be able to discover lots of new
-things. It'll be difficult to do while
-skiing.");
+        MsgDisp("Honda","If I could look around carefully, I'd find
+so many new things. But it's hard to do
+while skiing.");
         MsgDisp("主人公","Then, today shall we do what ｛Honda＊＊｝
 wants to do?");
         ChSet(3,5);

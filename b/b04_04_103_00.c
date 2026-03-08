@@ -30,7 +30,7 @@ I'd like you to tell me more about it...");
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B040410300_04_020");
-    MsgDisp("Nanatsumori","Me? Ahh, you mean Nana. We're on different
+    MsgDisp("Nanatsumori","Me? Ahh, you mean NANA. We're on different
 playing fields, but I'd like to be aware
 of that.");
     MsgDispSksp(1,0);

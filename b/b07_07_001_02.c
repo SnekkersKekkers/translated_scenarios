@@ -25,10 +25,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700001_07_110");
-MsgDisp("Mikage","If he had business with me, there are
-places I'd more likely to be at, like the
-science prep room or the gardening club,
-right?");
+MsgDisp("Mikage","If he needed me, there are places I'm
+more likely to be, like the science prep
+room or the gardening club, right?");
 MsgDisp("主人公","Now that you mention it...");
 ChEye(7,0);
 ChMouth(7,0);

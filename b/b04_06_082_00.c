@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040608200_06_010");
-    MsgDisp("Himuro","The spring is so comfortable that you
-sleep like a log? Geez...We're together,
+    MsgDisp("Himuro","Spring slumber knows no dawn?
+Geez... We're together,
 so don't fall asleep.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

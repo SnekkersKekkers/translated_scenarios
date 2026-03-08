@@ -59,16 +59,16 @@ What would you like?");
         ChEye(5,4);
         VoicePlay("B040516002_05_050");
         MsgDisp("Hiiragi","Your smile is my reward.
-It is absolutely necessary for you to be
-very happy with it.");
+So I need you to be really happy with
+what I win.");
         MsgDisp("主人公","Umm...");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040516002_05_060");
         MsgDisp("Hiiragi","Ah, do you doubt my technique?");
-        MsgDisp("主人公","No, if I got to see your happy face when
-you were able to win, ｛Hiiragi＊＊＊｝,
-anything would be good with me.");
+        MsgDisp("主人公","No, as long as I get to see your happy
+face when you win, ｛Hiiragi＊＊＊｝,
+anything is fine with me.");
         ChEye(5,3);
         ChMouth(5,2);
         ChMotion(5,0);
@@ -78,8 +78,8 @@ anything would be good with me.");
         ChMouth(5,3);
         VoicePlay("B040516002_05_080");
         MsgDisp("Hiiragi","Yes, I've never been this happy.
-I'm already happy even without having
-played the crane game.");
+We don't even need to play the crane game
+anymore.");
         MsgDisp("主人公","Ehh?
 We came all this way, why not try it?");
         ChEye(5,3);

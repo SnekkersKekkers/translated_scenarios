@@ -56,7 +56,9 @@ VoicePlay("D020800700_08_070");
 MsgDisp("Shirahane","Oh damn, it's late.
 Are ya getting sleepy?
 My bad.");
-MsgDisp("主人公","No, it's fine. Thanks for calling. Even\nthough we're in different places for our\ntrips, we've still got to make some good\nmemories.");
+MsgDisp("主人公","No, it's fine. Thanks for calling.
+Even though we're at different places,
+we still made some good memories, right?");
 VoicePlay("D020800700_08_080");
 MsgDisp("Shirahane","True. In that case, why don't you get some
 sleep for tomorrow? Night.");

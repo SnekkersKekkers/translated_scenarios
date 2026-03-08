@@ -36,8 +36,7 @@ theatrics, but it creaked as well～");
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723201_07_020");
     MsgDisp("Mikage","That's incompatible with me.
-Different values, different ways of
-living.");
+A difference in values, you could say.");
     MsgDateResultDisp();
     break ;
     case 2:

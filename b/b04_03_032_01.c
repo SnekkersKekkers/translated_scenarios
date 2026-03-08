@@ -18,9 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040303201_03_010");
     MsgDisp("Honda","Yup - you can see their abdomen clearly
-from below. The body fat percentage of
-seals is 50% - if it were a human, it
-would have to improve its lifestyle!");
+from below. Seals have 50% body fat.
+If it were human, it'd need a new diet!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

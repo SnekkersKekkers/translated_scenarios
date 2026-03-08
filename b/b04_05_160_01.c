@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,1);
     VoicePlay("B040516001_05_010");
     MsgDisp("Hiiragi","That's impossible. The moment I start,
-I'll feel the sense of dismay from
-spectators...even if I am unable to see
-it.");
+I can feel the spectators' dismay on my
+back... even without looking.");
     MsgDateResultDisp();
     break ;
     case 1:

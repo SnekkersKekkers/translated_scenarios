@@ -7,9 +7,8 @@ VoicePlay("B070100000_01_110");
 MsgDisp("Kazama","Not really.
 I don't do any.
 Is there a problem?");
-MsgDisp("主人公","There's no problem.
-Since ｛Kazama＊＊｝ is also good at
-physical activity.");
+MsgDisp("主人公","No problem at all.
+You're athletic, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
