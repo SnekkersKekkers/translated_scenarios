@@ -21,7 +21,7 @@ VoicePlay("A020310000_03_020");
 MsgDisp("Honda?","—Oops! Sorry sorry!
 I scared you, right?
 Are you alright?");
-MsgDisp("主人公","I'm okay!");
+MsgDisp("主人公","Oh, I'm fine.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

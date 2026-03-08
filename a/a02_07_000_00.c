@@ -254,7 +254,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("A020700000_07_190");
-MsgDisp("Mikage","No more! Didn't I say \"last question\"?\nIf I tell you everything now, there won't\nbe anything left for the rest of the year!");
+MsgDisp("Mikage","That's a wrap! I said \"last question\"!
+If I tell you everything now,
+I won't have anything left for the year!");
 SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.9);
 SEPlay("EV_SE_788",0.2);

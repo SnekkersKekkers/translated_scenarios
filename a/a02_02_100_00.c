@@ -113,8 +113,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_130");
-MsgDisp("Sassa","I should be thanking you
-for coming along!");
+MsgDisp("Sassa","Sorry for dragging you along!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

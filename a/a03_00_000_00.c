@@ -10,7 +10,9 @@ SEStop("EV_SE_CLAP_002",4);
 SEStop("EV_SE_CLAP_004",4);
 SEStop("EV_SE_GAYA_021",4);
 VoicePlay("A030000000_49_000");
-MsgDisp("Host","Thank you, principal.\nNext up is the vice principal.\nPlease give him a warm welcome.");
+MsgDisp("Host","Thank you, principal.
+Next up is the vice principal.
+Please give him a warm welcome.");
 BGOpen("sc400",0);
 VoicePlay("A030000000_32_000");
 MsgDisp("VP Himuro","I'm Vice Principal Himuro. With the

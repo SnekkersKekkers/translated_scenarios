@@ -40,10 +40,9 @@ SEWait();
 MsgDisp("主人公","Pant, pant...
 Ryota, where are we going?");
 VoicePlay("A010000000_01_030");
-MsgDisp("Ryota","We're almost there!
-It's just up ahead.
-I'm sure that's where the bell is ringing.");
-MsgDisp("Ryota","I've seen it before with my grandpa.");
+MsgDisp("Ryota","We're almost there! It's just up ahead.
+I'm sure that's where the bell is ringing.
+I've seen it before with my grandpa.");
 SEPlay("EV_SE_FOOT_008",0,0.2);
 Wait(5,0);
 SEPlay("EV_SE_688",0,0.18);
@@ -132,11 +131,9 @@ same method as the pinwheels in the
 treasure room at Habataki Castle.");
 MsgDisp("主人公","...The treasure room pinwheels?");
 VoicePlay("A010000000_01_120");
-MsgDisp("Ryota","Yeah. It seems that they're castle
-treasures, and orange like the setting
-sun."); 
-MsgDisp("Ryota","I heard that if you make a wish and blow
-on it, anything can come true!");
+MsgDisp("Ryota","Yeah, they're castle treasures.
+Orange like the sunset — if you make a wish
+and blow on it, anything can come true!");
 MsgDisp("主人公","Wow! Like magic!");
 VoicePlay("A010000000_01_130");
 MsgDisp("Ryota","Since my pinwheel is made in the same way,

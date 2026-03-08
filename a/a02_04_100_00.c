@@ -88,7 +88,7 @@ ChMotion(4,0,1);
 VoicePlay("A020410000_04_080");
 MsgDisp("Nanatsumori?","...What if it's the same?");
 MsgDisp("主人公","I thought maybe you were a fan.
-You know, NANA-kun has a lot of fanboys
+You know, NANA-kun has a lot of male fans
 too.");
 ChEye(4,4);
 ChMouth(4,4);
@@ -163,7 +163,7 @@ VoicePlay("A020410000_04_190");
 MsgDisp("Nanatsumori","Nice.
 I'm counting on you.");
 MsgDisp("主人公","Hehe.
-See you then, N——");
+See you later, N——");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);

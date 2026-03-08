@@ -82,10 +82,9 @@ VoicePlay("A020100000_01_030");
 MsgDisp("Kazama","Anyway...
 It's been 9 years.
 Glad to see you're still lively.");
-MsgDisp("主人公","It's really been such a long time!");
-MsgDisp("主人公","｛Kazama＊＊｝, you've grown up so much!
-You're nothing like the elementary school
-boy I saw in my dream last night!");
+MsgDisp("主人公","It's really been such a long time!
+｛Kazama＊＊｝, you've grown up so much!
+Nothing like the boy I saw in my dream!");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -177,10 +176,9 @@ yesterday?");
 NSSEye(1,0);
 NSSMouth(1,3);
 VoicePlay("A020100000_01_110");
-MsgDisp("Kazama","Yeah, only me, without my parents.");
-MsgDisp("Kazama","I came back early. School in England
-starts in September, so transferring now
-took some work.");
+MsgDisp("Kazama","Yeah, just me — ahead of my parents.
+School in England starts in September,
+so transferring now was a hassle.");
 MsgDisp("主人公","Oh, that makes sense...");
 NSSEye(1,6);
 NSSMouth(1,3);
@@ -207,7 +205,7 @@ NSSEye(1,6);
 NSSMouth(1,0);
 VoicePlay("A020100000_01_150");
 MsgDisp("Kazama","...Do you remember?
-That thing.");
+That time.");
 NSSEyeOpenLevel(1,0);
 Wait(20,0);
 NSSEye(1,0);
@@ -240,9 +238,9 @@ wonder which one...");
     NSSEye(1,2);
     NSSMouth(1,0);
     VoicePlay("A020100000_01_180");
-    MsgDisp("Kazama","\"A lot of time\", huh...You really
-haven't changed. Still as carefree. I'm
-worried.");
+    MsgDisp("Kazama","\"Lots of different moments\", huh...
+You really haven't changed. Still as 
+carefree as always. That worries me.");
     break ;
     default :
     DbgAssert(0);

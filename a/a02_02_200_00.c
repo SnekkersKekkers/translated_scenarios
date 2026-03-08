@@ -46,18 +46,16 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020220000_02_030");
-MsgDisp("Sassa?","The track team was having trouble finding
-an advisor, so Mikage-sensei helped us
-out. We're truly grateful for him!");
-MsgDisp("主人公","So that's how it is...
-I see.");
+MsgDisp("Sassa?","The track team couldn't find an advisor,
+and Mikage-sensei stepped up to help.
+Everyone's really grateful.");
+MsgDisp("主人公","Oh, I see.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("A020220000_02_040");
-MsgDisp("Sassa?","Yeah.
-Let me walk you to the captain!
-He's on the field!");
+MsgDisp("Sassa?","Sure, I'll take you to the captain.
+He's out on the field.");
 MsgDisp("主人公","Wait, you aren't the captain?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -83,7 +81,7 @@ MsgDisp("Sassa","I'm Sassa Nozomu, regular member of the
 club. So you don't have to treat me any
 differently!");
 MsgDisp("主人公","Ah, my name is ｛主人公姓名｝.
-Nice to meet you, regular member?");
+Nice to meet you!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
