@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040603102_06_020");
     MsgDisp("Himuro","Ehhh, that's pretty cold.
-Unexpected amd interesting.");
+Unexpected and interesting.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

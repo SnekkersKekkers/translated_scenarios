@@ -28,7 +28,6 @@ properly eat it.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040216002_02_020");
-    MsgDisp("Sassa","Come out, skull bear!
 Girls really like this stuff huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -87,7 +86,7 @@ even more.");
         ChMotion(2,2);
         VoicePlay("B040216002_02_070");
         MsgDisp("Sassa","It was no good..");
-        MsgDisp("主人公","It was bad luck huh?");
+        MsgDisp("主人公","That's too bad, huh?");
         SEPlay("EV_SE_009",0,1);
         SEWait();
         ChEye(2,0);
@@ -115,7 +114,7 @@ It had a delayed fall∈");
         MsgDisp("Sassa","That...
 Does that count as me winning it?");
         MsgDisp("主人公","Yeah, of course!
-It's ｛Sassa＊＊｝'s .");
+It's ｛Sassa＊＊｝'s win!");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);

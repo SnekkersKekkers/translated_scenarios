@@ -138,9 +138,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30300_06_060");
-MsgDisp("Himuro","No, it's nothing..");
+MsgDisp("Himuro","No, it's nothing.");
 MsgDisp("主人公","(Just now, was ｛Himuro＊＊｝ talking about
-Himuro-sensei....)");
+Himuro-sensei...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

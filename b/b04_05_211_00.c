@@ -6,7 +6,7 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521100_05_000");
-MsgDisp("Hiiragi","As expected of Habtaki Zoo.
+MsgDisp("Hiiragi","As expected of Habataki Zoo.
 It's abundant in both variety and
 quantity.");
 MsgSel("I want to see more up close!","Let's take a picture with the animals!","｛Hiiragi＊＊＊｝, do you have somewhere you want to see?");

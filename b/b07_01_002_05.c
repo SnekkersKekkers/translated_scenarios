@@ -43,7 +43,7 @@ MsgDisp("Kazama","I'm an only child so I don't get these
 feelings, but we can't lose in terms of
 closeness. We've known each other way
 longer!");
-MsgDisp("主人公","(｛Kazama＊＊｝ seems kind of mad?");
+MsgDisp("主人公","(｛Kazama＊＊｝ seems kind of mad?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

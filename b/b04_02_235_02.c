@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(2,255,4,2,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223502_02_000");
-MsgDisp("Sassa","Surely it's foul play to scary us with
+MsgDisp("Sassa","Surely it's foul play to scare us with
 loud noises?");
 MsgSel("Yeah, I want monsters to abide by the rules too.","Seems like someone knocked something over behind the scenes.","Noise? Was there...?");
 switch (MsgSelRsltGet()){

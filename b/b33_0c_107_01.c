@@ -28,8 +28,8 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("B330C10701_07_000");
-MsgDisp("Mikage","There was such a thing a s a four-seater
-cup?");
+MsgDisp("Mikage","So there is such a thing as a four-seater
+cup, huh?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -86,7 +86,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C10701_06_020");
-MsgDisp("Himuro","I'l stop testing my limits here too.");
+MsgDisp("Himuro","I'll stop testing my limits here too.");
 MsgClose();
 SEPlay("EV_SE_856");
 ChClose(6,0,30);
@@ -110,7 +110,7 @@ MsgDisp("Hiiragi","Just now, those two were there, so I held
 back. But if I'm with you, I can really go
 for it, right?");
 MsgDisp("主人公","Hehe!
-Bring it on! @");
+Bring it on!");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);

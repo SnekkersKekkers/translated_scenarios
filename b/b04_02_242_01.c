@@ -39,7 +39,7 @@ There's a homely feel.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040224201_02_030");
-    MsgDisp("Sassa","I bought it, so please bare with it.");
+    MsgDisp("Sassa","I bought it, so please bear with it.");
     MsgDateResultDisp();
     break ;
     default :

@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040223501_02_010");
-    MsgDisp("Sassa","IT definitely doesn't look that way...");
+    MsgDisp("Sassa","It definitely doesn't look that way...");
     MsgDateResultDisp();
     break ;
     case 1:

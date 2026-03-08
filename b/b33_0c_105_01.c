@@ -23,7 +23,7 @@ ChMotion(5,4);
 VoicePlay("B330C10501_05_010");
 MsgDisp("Hiiragi","Yes.
 You roll it around to pick up debris.
-The nae is good too.");
+The name is good too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -45,7 +45,7 @@ MsgDisp("Mikage","Oh, me too.
 There are ones that can be washed tens of
 thousands of times");
 MsgDisp("主人公","Hehe.
-You both seem to be very knowledgable.");
+You both seem to be very knowledgeable.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

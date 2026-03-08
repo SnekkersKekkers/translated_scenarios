@@ -90,7 +90,7 @@ that offended.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040611102_06_090");
-        MsgDisp("Himuro","Even though we were t talking about the
+        MsgDisp("Himuro","Even though we were talking about the
 Himuro name.");
         MsgDisp("主人公","Ah...that's right.");
         ChEye(6,0);

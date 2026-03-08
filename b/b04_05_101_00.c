@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("B040510100_05_010");
-    MsgDisp("Hiiragi","That's right. As a Habtaki citizen I'd
+    MsgDisp("Hiiragi","That's right. As a Habataki citizen I'd
 like to know about it. I would be happy if
 you taught me.");
     MsgDispSksp(1,0);

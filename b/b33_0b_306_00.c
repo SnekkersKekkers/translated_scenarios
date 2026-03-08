@@ -74,10 +74,10 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B330B30600_04_020");
 MsgDisp("Nanatsumori","Right.
-Thanks ti that, we had a lot more fun.
+Thanks to that, we had a lot more fun.
 Thank you.");
 MsgDisp("主人公","(Even if you thank me...
-I don't think I laughed THAT much∋))");
+I don't think I laughed THAT much∋)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

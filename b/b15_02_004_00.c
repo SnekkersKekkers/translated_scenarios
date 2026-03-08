@@ -41,7 +41,7 @@ VoicePlay("B150200400_02_050");
 MsgDisp("Sassa","T-That's right.
 You'd dislike it if I retaliated right?");
 MsgDisp("主人公","Y-Yeah...
-I might be trouble.");
+That might be a problem.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

@@ -109,7 +109,7 @@ ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(7,255,0,0,0,#1,#1,0,3,0,30);
 ChMotion(5,4);
 VoicePlay("B330C10401_05_030");
-MsgDisp("Hiiragi","Inori-kun is the only one who's not not
+MsgDisp("Hiiragi","Inori-kun is the only one who's not
 infected.");
 ChEye(7,2);
 ChMouth(7,2);

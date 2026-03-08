@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040523302_05_010");
     MsgDisp("Hiiragi","I can't help but laugh.
-That's the char of this attraction.");
+That's the charm of this attraction.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -83,7 +83,7 @@ No, as I thought it's scary.)");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040523302_05_080");
-    MsgDisp("Hiiragi","Yes, lets drink something cold.");
+    MsgDisp("Hiiragi","Yes, let's drink something cold.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

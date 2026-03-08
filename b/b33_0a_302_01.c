@@ -90,7 +90,7 @@ VoicePlay("B330A30201_06_040");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","But you said \"nothing in particular.'\"");
+MsgDisp("Himuro","But you said \"nothing in particular.\"");
 VoicePlay("B330A30201_01_040");
 ChEye(1,3);
 ChMouth(1,3);

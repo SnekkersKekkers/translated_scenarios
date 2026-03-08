@@ -86,7 +86,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B20801_01_030");
 MsgDisp("Kazama","Honda's technique?");
-MsgDisp("主人公","(It'll be fine as long, as I make it to
+MsgDisp("主人公","(It'll be fine as long as I make it to
 the finish line!)");
 BGMStop();
 MsgClose();

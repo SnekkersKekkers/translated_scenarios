@@ -49,7 +49,7 @@ ChMotion(8,4,1);
 ChCheek(8,10);
 VoicePlay("B070800000_08_460");
 MsgDisp("Shirahane","Ah～....
-That was embarassin'...");
+That was embarrassin'...");
 MsgDisp("主人公","(My heart is also racing...)");
 BGMStop();
 MsgClose();

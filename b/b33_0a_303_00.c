@@ -19,7 +19,7 @@ VoicePlay("B330A30300_01_000");
 MsgDisp("Kazama","I came to do some personal shopping today.
 See you then.");
 VoicePlay("B330A30300_47_010");
-MsgDisp("Woman Customer A","Ehhh～,you're leaving?");
+MsgDisp("Woman Customer A","Ehhh～, you're leaving?");
 MsgDisp("主人公","｛Kazama＊＊｝...is super popular huh.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -139,7 +139,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
 ChClose(6,0,30);
 ChClose(2,0,30);
 MsgDisp("主人公","(Hehe!
-Seems like we'll finally be able to ddo
+Seems like we'll finally be able to do
 some shopping now.)");
 BGMStop();
 MsgClose();

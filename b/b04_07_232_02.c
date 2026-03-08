@@ -30,7 +30,7 @@ switch (MsgSelRsltGet()){
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040723202_07_020");
-        MsgDisp("Mikage","Theres no way it would be nice?
+        MsgDisp("Mikage","There's no way it would be nice?
 What would we do if we were at the top...");
         MsgDateResultDisp();
         break ;

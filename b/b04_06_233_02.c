@@ -86,8 +86,8 @@ moment.");
         ChMotion(6,5);
         VoicePlay("B040623302_06_080");
         MsgDisp("Himuro","I'll keep quiet about that.
-You'ree free to come up with your own
-conclusions based off the situation.");
+You're free to come up with your own
+conclusions based on the situation.");
         MsgDisp("主人公","I see...so, did your heart race,
 ｛Himuro＊＊｝?");
         ChEye(6,0);

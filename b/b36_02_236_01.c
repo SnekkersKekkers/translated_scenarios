@@ -24,7 +24,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360223601_02_010");
 MsgDisp("Sassa","A-Ah, I see.
-Then, I'll watch itn next to you.");
+Then, I'll watch it next to you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();

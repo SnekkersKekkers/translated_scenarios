@@ -23,7 +23,7 @@ VoicePlay("B330B30700_03_000");
 MsgDisp("Honda","Hmm, an interesting comment!
 What do you find strange about it?");
 MsgDisp("主人公","Hmmm...
-Maybe it's the cute colour s or how fluffy
+Maybe it's the cute colours or how fluffy
 it feels?");
 ChEye(3,2);
 ChMouth(3,3);
@@ -86,7 +86,7 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B30700_03_040");
 MsgDisp("Honda","This is a hard one.
-I think it'll be impossible e even with a
+I think it'll be impossible even with a
 hint.");
 ChEye(4,2);
 ChMouth(4,3);

@@ -7,7 +7,7 @@ ChMotion(4,2);
 ScrFadeIn(0);
 VoicePlay("B040420001_04_000");
 MsgDisp("Nanatsumori","The landscape is beautiful but...
-It;s cold∈");
+It's cold∈");
 MsgSel("This cold is nice.","You'll get warm if you move about","Maybe it's best to look at it from indoors?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,7 +27,7 @@ Don't just say nonsense.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040420001_04_020");
-    MsgDisp("Nanatsumori","Our tempo is a bit dodgy but...well, lets
+    MsgDisp("Nanatsumori","Our tempo is a bit dodgy but...well, let's
 skate.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

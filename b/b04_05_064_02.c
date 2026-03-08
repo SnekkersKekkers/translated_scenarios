@@ -24,9 +24,9 @@ VoicePlay("B040506402_05_020");
 MsgDisp("Hiiragi","Ah, yes.
 Of course I'll have some.");
 VoicePlay("B040506402_47_000");
-MsgDisp("Market Clerk","I saw the Habtaki theatre troupe the other
-day, you know?
-I'll give you a free portion of yakisoba.");
+MsgDisp("Market Clerk","I saw the Habataki theatre troupe the
+other day, you know?
+I'll throw in some free yakisoba.");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("B040506402_05_030");

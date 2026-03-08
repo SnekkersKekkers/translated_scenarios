@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B050300100_03_000");
 MsgDisp("Honda","Hey, isn't it about time we eat lunch?
 I want to eat at the beach club.");
-MsgDisp("主人公","Sure, that's sounds good.
+MsgDisp("主人公","Sure, that sounds good.
 What do you want to eat?");
 ChEye(3,3);
 ChMouth(3,3);

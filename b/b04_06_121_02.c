@@ -39,7 +39,7 @@ one.");
         MsgDisp("Himuro","...Then, I'll buy it for you.");
         MsgDisp("主人公","Eh?
 It's fine!
-I'll but it.");
+I'll buy it.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -111,7 +111,7 @@ Then, let's go somewhere else.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040612102_06_100");
-    MsgDisp("Himuro","Then why no buy it?
+    MsgDisp("Himuro","Then why not buy it?
 It's fate you came across it here.
 And above all else, it's perfect for you.");
     MsgDispSksp(1,0);

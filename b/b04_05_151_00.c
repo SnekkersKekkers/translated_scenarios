@@ -29,7 +29,7 @@ If it's not like that, it's not fun.");
     ChMotion(5,0);
     VoicePlay("B040515100_05_020");
     MsgDisp("Hiiragi","Right, that's the secret.
-IF the ball is heavy, the pins will fall
+If the ball is heavy, the pins will fall
 over too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

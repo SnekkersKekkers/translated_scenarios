@@ -29,7 +29,7 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360415201_04_030");
-MsgDisp("Nanatsumori","what's up?
+MsgDisp("Nanatsumori","What's up?
 You're suddenly all quiet.");
 MsgDisp("主人公","It's just.
 I kinda feel like we're slighting those

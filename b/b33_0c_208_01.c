@@ -124,9 +124,9 @@ ChMotion(7,2);
 VoicePlay("B330C20801_07_070");
 MsgDisp("Mikage","It might be too much for a girl.
 Inori, Yanosuke, help me out.");
-MsgDisp("主人公","(...That means we'll alsoeat the fish that
-ate this bug...Yeah, let's not think about
-it so much and just enjoy it.)");
+MsgDisp("主人公","(...That means we'll also eat the fish
+that ate this bug...Yeah, let's not think
+about it so much and just enjoy it.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(5,0);

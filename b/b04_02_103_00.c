@@ -28,10 +28,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040210300_02_020");
-    MsgDisp("Sassa","They painted those pictures in the art
-room right? When I compare it to my own
-drawings, it's beyond pathetic I could
-laugh.");
+    MsgDisp("Sassa","They painted those in the art room,
+right? Comparing them to my own drawings
+is so sad it's actually funny.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,9 +41,9 @@ laugh.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040210300_02_030");
-    MsgDisp("Sassa","I feel a strong sense of affinity. Let's
-sneak one of your artworks in here too. No
-one would notice.");
+    MsgDisp("Sassa","You're feeling really close to him, huh!
+Let's sneak one of your artworks in here
+too. No one would notice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

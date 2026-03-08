@@ -46,7 +46,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040503202_05_030");
         MsgDisp("Hiiragi","Are you trying to make me laugh?");
         MsgDisp("主人公","Umm...
-I'm sorry Was that dull?");
+I'm sorry. Was that dull?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040503202_05_040");

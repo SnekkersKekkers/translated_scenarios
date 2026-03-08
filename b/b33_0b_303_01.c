@@ -71,7 +71,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B30301_03_010");
 MsgDisp("Honda","It's my Dad's shirt in the first place, so
-it's quite bit.
+it's quite big.
 It doesn't even fit tucked into my pants!");
 ChMouth(1,2);
 ChEye(4,5);
@@ -98,7 +98,7 @@ MsgDisp("Nanatsumori","Yeah. Hm. I can't imitate Dahon's sense of
 fashion in that respect.");
 MsgDisp("主人公","(Hehe! I might be caught off-guard if
 ｛Nanatsumori＊｝ wore his uniform in the
-casual way ｛Honda＊＊｝ does?");
+casual way ｛Honda＊＊｝ does?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

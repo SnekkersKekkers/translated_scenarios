@@ -45,7 +45,8 @@ Don't say that, even as a joke.");
         ChMotion(2,3);
         VoicePlay("B040223602_02_030");
         MsgDisp("Sassa","Too bad.
-I'm surprising good at that sort of thing.");
+I'm surprisingly good at that sort of
+thing.");
         MsgDisp("主人公","Eh...?");
         ChEye(2,0);
         ChMouth(2,4);

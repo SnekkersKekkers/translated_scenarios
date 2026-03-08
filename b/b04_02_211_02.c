@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040221102_02_010");
-    MsgDisp("Sassa","Really, just like a kitten.");
+    MsgDisp("Sassa","Really, just like a cat.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

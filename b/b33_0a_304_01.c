@@ -25,7 +25,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A30401_01_000");
-MsgDisp("Kazama","And this is a powerspot.");
+MsgDisp("Kazama","And this is a power spot.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -51,7 +51,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A30401_01_010");
 MsgDisp("Kazama","Well, your training is normally pretty
-scientific afer all.");
+scientific after all.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

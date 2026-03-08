@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040421300_04_010");
     MsgDisp("Nanatsumori","Right...
-They way they look when they come up to
+The way they look when they come up to
 you...they're like angels.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

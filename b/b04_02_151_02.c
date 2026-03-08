@@ -73,8 +73,7 @@ hint.");
         VoicePlay("B040215102_02_080");
         MsgDisp("Sassa","Temperature and humidity can easily change
 things by 0.01 seconds or 1 millimeter.
-Look, my hair's curling up from the
-humidity.");
+Look, my hair's curling from the humidity.");
         MsgDisp("主人公","Hehe, yeah.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -98,8 +97,8 @@ breakthrough.");
         MsgDisp("Sassa","It was far from doing nothing, to me,
 you're the world's best coach.");
         MsgDisp("主人公","(Even if it was just a little bit, I'm
-happy to to think that I helped
-｛Sassa＊＊｝)");
+happy to think that I helped
+｛Sassa＊＊｝.)");
         break ;
         default :
         DbgAssert(1);
@@ -113,7 +112,7 @@ happy to to think that I helped
     ChMotion(2,4);
     VoicePlay("B040215102_02_120");
     MsgDisp("Sassa","Is that right?
-I didn't notice/");
+I didn't notice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

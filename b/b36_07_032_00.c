@@ -32,7 +32,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360703200_07_030");
-MsgDisp("Mikage","No, I wont stop until he's crying. Then
+MsgDisp("Mikage","No, I won't stop until he's crying. Then
 Yanosuke will look at me with
 disappointment. That's how it ends.");
 MsgDisp("主人公","Wow, what a big mess.");

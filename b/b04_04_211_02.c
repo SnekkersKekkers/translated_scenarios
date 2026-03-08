@@ -63,7 +63,7 @@ them?");
         ChMotion(4,1,1);
         VoicePlay("B040421102_04_060");
         MsgDisp("Nanatsumori","It's fine.
-You do't have to force yourself.");
+You don't have to force yourself.");
         MsgDisp("主人公","But...");
         ChEye(4,2);
         ChMouth(4,3);

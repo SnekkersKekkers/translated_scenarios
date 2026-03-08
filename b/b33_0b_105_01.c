@@ -89,7 +89,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B10501_04_030");
-MsgDisp("Nanatsumori","Rock-paper scissors?");
+MsgDisp("Nanatsumori","Rock-paper-scissors?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

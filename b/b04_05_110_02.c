@@ -24,7 +24,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040511002_05_010");
         MsgDisp("Hiiragi","Eh?
 So suddenly?
-We're swimming, so we cant't.");
+We're swimming, so we can't.");
         MsgDateResultDisp();
         break ;
         case 4:

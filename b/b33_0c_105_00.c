@@ -46,8 +46,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C10500_05_010");
 MsgDisp("Hiiragi","Is that alright?
-Even though the four of were finally able
-to go out together?");
+Even though the four of us were finally
+able to go out together?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

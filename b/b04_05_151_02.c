@@ -78,7 +78,7 @@ alleys.");
         MsgDisp("Hiiragi","Indeed, but I wasn't allowed to play.
 Despite appearances, I've been a lead
 actor since I was little.");
-        MsgDisp("主人公","I see..");
+        MsgDisp("主人公","I see...");
         ChEye(5,0);
         ChMouth(5,3);
         ChMotion(5,3);

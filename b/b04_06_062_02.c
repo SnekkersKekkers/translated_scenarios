@@ -61,7 +61,7 @@ a trip to the convenience store.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040606202_06_050");
-        MsgDisp("Himuro","Well, that parts just a joke.");
+        MsgDisp("Himuro","Well, that part's just a joke.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

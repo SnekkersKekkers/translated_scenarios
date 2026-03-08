@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,2);
     VoicePlay("B040306202_03_010");
     MsgDisp("Honda","No way, it's not safe at all.
-I was just a just a little tempted.
+I was just a little tempted.
 I'm glad you're here with me!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

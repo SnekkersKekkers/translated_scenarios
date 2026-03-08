@@ -130,7 +130,7 @@ ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330A30500_06_060");
 MsgDisp("Himuro","It was thanks to the pressure from my
-seniors amd you cheering me on.");
+seniors and you cheering me on.");
 MsgDisp("主人公","Hehe, that was super cool.");
 ChEye(1,0);
 ChMouth(1,2);

@@ -82,8 +82,8 @@ StlEye(4,1);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400100_04_070");
-MsgDisp("Nanatsumori","I'll try a bit of this one. \"
-Devil Cocoa Mountain\"...");
+MsgDisp("Nanatsumori","I'll try a bit of this one.
+\"Devil Cocoa Mountain\"...");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("B050400100_04_080");

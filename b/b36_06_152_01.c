@@ -20,7 +20,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360615201_06_010");
 MsgDisp("Himuro","I feel like it's easier to hit the face of
-a troublemaker");
+a troublemaker.");
 MsgDisp("主人公","Wh...what∋");
 ChEye(6,1);
 ChMouth(6,0);

@@ -66,7 +66,7 @@ place.");
         ChMotion(5,2);
         VoicePlay("B040503302_05_070");
         MsgDisp("Hiiragi","I wonder why that is.
-When I'm in front of of you, I'm so
+When I'm in front of you, I'm so
 indirect.");
         MsgDisp("主人公","That's not true.
 I'm sorry for misunderstanding so often.");

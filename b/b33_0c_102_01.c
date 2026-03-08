@@ -13,7 +13,7 @@ ChMotion(7,5,1);
 ScrFadeIn(0);
 VoicePlay("B330C10201_07_000");
 MsgDisp("Mikage","Ohh, there's a manta ray over there.");
-MsgDisp("主人公","It's quite bit isn't it?");
+MsgDisp("主人公","It's quite big isn't it?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

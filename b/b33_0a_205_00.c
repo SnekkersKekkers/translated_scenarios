@@ -35,7 +35,7 @@ Do your best!");
 VoicePlay("B330A20500_06_000");
 MsgDisp("Himuro","High five...
 I see.
-Id I get a strike, I get to do that...");
+If I get a strike, I get to do that...");
 VoicePlay("B330A20500_01_000");
 MsgDisp("Kazama","If you have crooked thoughts, the ball
 won't roll straight you know?");

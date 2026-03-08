@@ -5,8 +5,8 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040502202_05_000");
-MsgDisp("Hiiragi","I's like to go overseas, not just cruise
-around Habataki bay.");
+MsgDisp("Hiiragi","I'd like to go overseas, not just cruise
+around Habataki Bay.");
 MsgSel("Alright, let's go!","A trip on a luxury cruise liner would be wonderful","Will you be alright with seasickness?");
 switch (MsgSelRsltGet()){
     case 0:

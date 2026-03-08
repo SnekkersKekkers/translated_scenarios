@@ -41,7 +41,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("B360250101_02_040");
-MsgDisp("Sassa","I'm going to climb it for abit!");
+MsgDisp("Sassa","I'm going to climb it for a bit!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);

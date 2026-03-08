@@ -103,8 +103,8 @@ ChMotion(4,0,1);
 VoicePlay("B330B30201_04_040");
 MsgDisp("Nanatsumori","Not a chance.
 Why don't you both try jumping up?");
-MsgDisp("主人公","｛Nanatsumori＊｝ seems to be having fun,
-but not by feeding the seagulls...?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to be having fun,
+but not from feeding the seagulls...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

@@ -39,7 +39,7 @@ about it than I do.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040502101_05_030");
-    MsgDisp("Hiiragi","Haha, how about around 4 'o clock?
+    MsgDisp("Hiiragi","Haha, how about around 4 o'clock?
 You're getting hasty, huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

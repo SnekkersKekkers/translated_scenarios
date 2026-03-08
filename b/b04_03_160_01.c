@@ -41,7 +41,7 @@ bit challenging.");
     ChMotion(3,2);
     VoicePlay("B040316001_03_030");
     MsgDisp("Honda","Oh yeah?
-I hypothesis that I can get it.
+By my calculations, I can totally get it.
 But you don't believe in meー.");
     MsgDateResultDisp();
     break ;

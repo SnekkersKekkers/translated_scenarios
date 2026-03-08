@@ -4,7 +4,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B320C00002_07_000");
-MsgDisp("Mikage","Oh. with that, everyone is here.");
+MsgDisp("Mikage","Oh, with that, everyone is here.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);

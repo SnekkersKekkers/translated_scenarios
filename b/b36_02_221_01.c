@@ -29,7 +29,7 @@ I was able to see you dyed in the red of
 the sunset.");
 MsgDisp("主人公","Ehh?
 I was red?
-It's somewhat embarasssing...");
+It's somewhat embarrassing...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

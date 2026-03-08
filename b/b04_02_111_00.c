@@ -39,8 +39,7 @@ said is pretty big?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040211100_02_030");
-    MsgDisp("Sassa","If you can do that, you'll somewhat
-manage.");
+    MsgDisp("Sassa","If you can do that, you'll be fine.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

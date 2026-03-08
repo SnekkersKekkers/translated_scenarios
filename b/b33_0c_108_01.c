@@ -38,7 +38,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330C10801_06_000");
-MsgDisp("Himuro","Kojiro -sensei, it is over when you give
+MsgDisp("Himuro","Kojiro-sensei, it is over when you give
 up.
 Let's go once more!");
 ChMouth(5,4);

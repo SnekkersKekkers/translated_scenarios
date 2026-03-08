@@ -24,7 +24,7 @@ ChEye(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360423600_04_020");
 MsgDisp("Nanatsumori","My, my.
-Your eyes are watering..");
+Your eyes are watering...");
 ChEye(4,0);
 VoicePlay("B360423600_04_030");
 MsgDisp("Nanatsumori","Hey, look this way.");
@@ -56,7 +56,7 @@ ScrFadeIn(0);
 ChMotion(4,5,1);
 VoicePlay("B360423600_04_060");
 MsgDisp("Nanatsumori","S-Sorry!
-I did't mean to do something like that
+I didn't mean to do something like that
 just no——");
 MsgDisp("主人公","Just now, on my n-nose...");
 ChEye(4,2);

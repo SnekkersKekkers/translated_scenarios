@@ -27,7 +27,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C10600_05_000");
-MsgDisp("Hiiragi","It was as good at people say.
+MsgDisp("Hiiragi","It was as good as people say.
 No, maybe even more so.");
 MsgDisp("主人公","Seems like ｛Hiiragi＊＊＊｝ liked it.");
 ChEye(6,2);

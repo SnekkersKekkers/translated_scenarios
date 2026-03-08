@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040308502_03_010");
     MsgDisp("Honda","Yep yep, that's right!
-It would be good if it was covered it
-snow!");
+It would be great if everything was
+covered in snow!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

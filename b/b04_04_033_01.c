@@ -10,7 +10,7 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040403301_04_000");
 MsgDisp("Nanatsumori","The deep sea fish' shape has evolved in a
-strange way. hasn't it?");
+strange way, hasn't it?");
 MsgSel("It's interesting.","Huh, it looks like you, ｛Nanatsumori＊｝.","It looks like I can learn to make weird faces here!");
 switch (MsgSelRsltGet()){
     case 0:

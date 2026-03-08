@@ -57,12 +57,12 @@ fuss or anythin'.");
         ChMotion(8,2,1);
         VoicePlay("B040824202_08_040");
         MsgDisp("Shirahane","No.
-I wasn't plannin' on fullin' around.");
+I wasn't plannin' on foolin' around.");
         ChEye(8,3);
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("B040824202_08_050");
-        MsgDisp("Shirahane","How should I put it...dont'cha yearn for
+        MsgDisp("Shirahane","How should I put it...don'tcha yearn for
 it?
 Relaxin' round a campfire?");
         ChEye(8,4);

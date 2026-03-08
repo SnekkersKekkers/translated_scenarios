@@ -30,7 +30,7 @@ doing okay?");
     ChMotion(2,0);
     VoicePlay("B040222200_02_020");
     MsgDisp("Sassa","Sorry, that's right.
-I'm sure it's irresistable for people who
+I'm sure it's irresistible for people who
 like it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

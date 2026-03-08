@@ -55,7 +55,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B360650100_06_060");
 MsgDisp("Himuro","Well, at least it's not the Haba High
 uniform.
-It'd be even worse if I knew the.");
+It'd be even worse if I knew them.");
 MsgDisp("主人公","Ah, um ｛Himuro＊＊｝...!");
 ChEye(6,0);
 ChMouth(6,0);

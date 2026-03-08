@@ -67,7 +67,7 @@ Me?");
 good at interacting with animals...but I
 also don't want to just stare off into
 space...");
-        MsgDisp("主人公","It feels like you don't like arms very
+        MsgDisp("主人公","It feels like you don't like farms very
 much?");
         ChEye(4,2);
         ChMouth(4,4);
@@ -101,7 +101,7 @@ today.");
         ChMotion(4,1,1);
         VoicePlay("B040424102_04_110");
         MsgDisp("Nanatsumori","Alright.
-It's not like we have to do s something to
+It's not like we have to do something to
 make it a date.");
         ChEye(4,4);
         ChMouth(4,3);

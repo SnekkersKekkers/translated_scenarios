@@ -117,7 +117,7 @@ It's not that I'm leaving you behind...");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040610102_06_130");
-        MsgDisp("Himuro","Yeah.. at the very least, I have to make
+        MsgDisp("Himuro","Yeah... at the very least, I have to make
 you miss me.");
         break ;
         default :

@@ -27,7 +27,7 @@ VoicePlay("B040706400_07_030");
 MsgDisp("Mikage","Only those who have the financial power of
 an adult but retained their childlike mind
 can enjoy this.");
-MsgDisp("主人公","Hhe, you're gonna do a haul aren't you?");
+MsgDisp("主人公","Hehe, you're gonna do a haul, aren't you?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);

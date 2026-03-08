@@ -50,7 +50,7 @@ ChMotion(7,0);
 VoicePlay("B150700200_07_060");
 MsgDisp("Mikage","Actually instead of calming me down,
 touching me too much might have the
-opposite effect`?");
+opposite effect~?");
 MsgDisp("主人公","(Maybe I overdid it today...
 But what will happen when there's the
 'opposite effect? ')");

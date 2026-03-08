@@ -125,7 +125,7 @@ It's over.");
         ChMotion(4,1,1);
         VoicePlay("B040417002_04_140");
         MsgDisp("Nanatsumori","Crap.
-I don' feel like singing anymore.
+I don't feel like singing anymore.
 Right?");
         MsgDisp("主人公","(Definitely.
 That might've been a bit too

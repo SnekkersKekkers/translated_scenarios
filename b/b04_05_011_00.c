@@ -6,8 +6,8 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040501100_05_000");
-MsgDisp("Hiiragi","Everything which can be seen here is
-Habataki CIty.");
+MsgDisp("Hiiragi","Everything you can see from here is
+Habataki City.");
 MsgSel("Waa! The horizon appears as if it's shining!","Can we see ｛Hiiragi＊＊＊｝'s home?","The height has me frozen in fear...");
 switch (MsgSelRsltGet()){
     case 0:

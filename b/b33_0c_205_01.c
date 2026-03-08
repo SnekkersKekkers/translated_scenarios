@@ -52,7 +52,7 @@ ChOpen(6,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330C20501_05_010");
-MsgDisp("Hiiragi","Mikage sensei was last place.");
+MsgDisp("Hiiragi","Mikage-sensei was last place.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -65,7 +65,7 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20501_05_020");
 MsgDisp("Hiiragi","If that bitterness of his was an act, I'll
-let him join t he theater troupe.");
+let him join the theater troupe.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("B330C20501_07_010");
 MsgDisp("Mikage","O-i, I bought it.");

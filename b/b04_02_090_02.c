@@ -69,8 +69,9 @@ Does ｛Sassa＊＊｝ like salad?");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040209002_02_060");
-        MsgDisp("Sassa","Vegetables help with nutrition, and at
-least, are very important to athletes.");
+        MsgDisp("Sassa","Vegetables are good for nutrition, and
+they're important for athletes. That's
+about it.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

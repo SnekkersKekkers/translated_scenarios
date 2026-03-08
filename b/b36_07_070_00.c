@@ -9,7 +9,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360707000_07_000");
-MsgDisp("Mikage","The shopping district it so lively at this
+MsgDisp("Mikage","The shopping district is so lively at this
 time～");
 MsgDisp("主人公","People are shopping for things like their
 dinner.");

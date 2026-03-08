@@ -46,7 +46,7 @@ I'm the one who should say sorry.");
         ChMotion(6,4);
         VoicePlay("B040615102_06_040");
         MsgDisp("Himuro","I'm just annoyed with myself.
-DOn't mind it.");
+Don't mind it.");
         MsgDisp("主人公","Hehe, ｛Himuro＊＊｝, you shouldn't mind it
 either?");
         ChEye(6,2);

@@ -44,7 +44,7 @@ life.");
         ChMotion(2,0);
         VoicePlay("B040223402_02_040");
         MsgDisp("Sassa","But, I have experience with throwing
-pitches with the centrifrucal force, but
+events that use centrifugal force, but
 this was a different level.");
         ChEye(2,0);
         ChMouth(2,0);

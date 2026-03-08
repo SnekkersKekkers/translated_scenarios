@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040223101_02_010");
     MsgDisp("Sassa","If you don't experience it for yourself,
-you won't know1");
+you won't know!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

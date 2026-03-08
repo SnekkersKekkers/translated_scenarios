@@ -27,7 +27,7 @@ MsgDisp("Kazama","Even if we run around aimlessly at times,
 that's just like us, so don't worry.");
 MsgDisp("主人公","...Yeah.");
 VoicePlay("B100100000_01_050");
-MsgDisp("Kazama","That being said, we don't need anymore
+MsgDisp("Kazama","That being said, we don't need any more
 days like today for a while, okay?");
 MsgDisp("主人公","Hehe, yeah.
 For a while!");

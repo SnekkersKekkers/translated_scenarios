@@ -44,7 +44,7 @@ What kind of store would you set up?");
     ChMotion(2,2);
     VoicePlay("B040212100_02_030");
     MsgDisp("Sassa","Well yeah.
-But a lot of second hand clothes sized
+But a lot of second hand clothes sizes
 don't fit me...");
     MsgDateResultDisp();
     break ;

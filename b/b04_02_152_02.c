@@ -66,7 +66,7 @@ Once more...");
         MsgClose();
         ChOpen(2,253,2,0,0,#1,#1,0,0);
         VoicePlay("B040215202_02_040");
-        MsgDisp("Sassa","Hey, straighten your elbow. tighten your
+        MsgDisp("Sassa","Hey, straighten your elbow. Tighten your
 armpits, swing your hands vertically.");
         MsgDisp("主人公","L-Like this?");
         ChEye(2,0);

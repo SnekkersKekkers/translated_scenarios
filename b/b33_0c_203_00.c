@@ -20,14 +20,14 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C20300_06_000");
 MsgDisp("Himuro","This is just some research.
-But I think you're everyone is interested
-in that.");
+But I think everyone is interested in
+that.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20300_06_010");
 MsgDisp("Himuro","What's popular amongst girls right now?
-What sort of presets do they want?
+What sort of presents do they want?
 Stuff like that.");
 ChEye(7,0);
 ChMouth(7,0);

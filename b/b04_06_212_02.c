@@ -100,7 +100,7 @@ Is my gaze that mean?");
         ChMotion(6,1);
         VoicePlay("B040621202_06_100");
         MsgDisp("Himuro","And he seems kind of cheeky?
-He gives of the vibe that he rejects
+He gives off the vibe that he rejects
 everything.");
         ChEye(6,0);
         ChMouth(6,0);

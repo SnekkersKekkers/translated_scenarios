@@ -11,7 +11,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_320");
-MsgDisp("Himuro","An irreplacable person?
+MsgDisp("Himuro","An irreplaceable person?
 Or a special person?");
 MsgDisp("主人公","Umm...");
 ChEye(6,1);

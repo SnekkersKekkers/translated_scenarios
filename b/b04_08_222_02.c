@@ -66,7 +66,7 @@ an individual sense of what's valuable.");
         MsgDisp("Shirahane","All sorts of different things I received
 as birthday presents from Nii-chan,
 Nee-chan and all my friends are all my
-treaures.");
+treasures.");
         MsgDisp("主人公","Hehe!");
         ChEye(8,3);
         ChMouth(8,4);

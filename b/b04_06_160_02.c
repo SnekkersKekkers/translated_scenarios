@@ -83,7 +83,7 @@ Then, I'll invite you next time okay?");
         MsgDisp("Himuro","...Haa.
 Why is it that I could only phrase it like
 that....");
-        MsgDisp("主人公","(?)
+        MsgDisp("主人公","(?
 ｛Himuro＊＊｝ seems to be worried about
 something?)");
         break ;

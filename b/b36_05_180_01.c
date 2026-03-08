@@ -29,7 +29,7 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B360518001_05_030");
 MsgDisp("Hiiragi","Yeah. But the image of four people
-standing in like and watching a movie
+standing in line and watching a movie
 together sounds like an odd scene.");
 MsgDisp("主人公","Does it really?");
 ChEye(5,4);

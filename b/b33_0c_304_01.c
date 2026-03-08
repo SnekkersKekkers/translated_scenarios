@@ -123,7 +123,7 @@ VoicePlay("B330C30401_06_040");
 MsgDisp("Himuro","But, he does look more energised?");
 MsgDisp("主人公","(Are these two actually worried about
 ｛Mikage＊＊｝ or are they just teasing
-him....)");
+him...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

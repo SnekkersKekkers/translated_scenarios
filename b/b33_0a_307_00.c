@@ -26,7 +26,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A30700_01_000");
 MsgDisp("Kazama","Maybe.
-IF it was all quiet, it would feel boring.");
+If it was all quiet, it would feel boring.");
 SEWait();
 ChEye(6,0);
 ChMouth(6,0);
@@ -58,7 +58,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330A30700_01_020");
 MsgDisp("Kazama","Yeah, of course.
 It's fine.
-The oen who's scared is her.");
+The one who's scared is her.");
 MsgDisp("主人公","Maybe I should sit this one out after
 all...?");
 ChEye(1,2);

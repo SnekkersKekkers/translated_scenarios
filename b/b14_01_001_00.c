@@ -25,7 +25,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B140100100_01_010");
 MsgDisp("Kazama","It's a thanks for tending to the store in
-your christmas outfit. I thought you
+your Christmas outfit. I thought you
 would've known about it, seeing that
 you're well-informed about the city.");
 MsgDisp("主人公","No, I didn't know.

@@ -13,7 +13,7 @@ ChMotion(4,0,1);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B330B10400_04_000");
-MsgDisp("Nanatsumori","This isn't the type of place High school
+MsgDisp("Nanatsumori","This isn't the type of place high school
 students would come to hang out...");
 ChEye(3,0);
 ChMouth(3,3);

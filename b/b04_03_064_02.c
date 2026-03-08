@@ -56,15 +56,15 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B040306402_03_080");
-MsgDisp("Honda","Hey, next let's get grilled squid from
-over there next!
+MsgDisp("Honda","Hey, let's get grilled squid from over
+there next!
 Let's go!");
 MsgClose();
 SEPlay("EV_SE_672");
 ChClose(3);
 SEWait();
-MsgDisp("主人公","(He's off...
+MsgDisp("主人公","(He's gone...
 ｛Honda＊＊｝'s way of thinking is
-amazing...')");
+amazing...)");
 MsgClose();
 ScrFadeOut(0);

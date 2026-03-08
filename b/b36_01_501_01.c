@@ -69,8 +69,9 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,4);
 VoicePlay("B360150101_01_060");
-MsgDisp("Kazama","Did we go into one of those holesand talk,
-or was my memory wrong to begin with?");
+MsgDisp("Kazama","Did we go into one of those holes and 
+talk, or was my memory wrong to 
+begin with?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -55,15 +55,14 @@ get injured.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040220002_02_040");
-        MsgDisp("Sassa","Oh, seems like you're getting the hang of
-it.
+        MsgDisp("Sassa","Oh, you know about that?
 There is.");
         MsgDisp("主人公","Really?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040220002_02_050");
-        MsgDisp("Sassa","Yeah, it's an incredibly nice view.");
+        MsgDisp("Sassa","Yeah, it has an incredibly nice view.");
         MsgDisp("主人公","Ehhh!
 I want to see it!");
         ChEye(2,0);

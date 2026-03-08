@@ -95,14 +95,14 @@ ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B330B30401_04_040");
 MsgDisp("Nanatsumori","Ah, wait.
-Them you can decide.
+Then you can decide.
 What do you want to do?");
 MsgDisp("主人公","Eh...me?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30401_04_050");
-MsgDisp("Nanatsumori","RIght.
+MsgDisp("Nanatsumori","Right.
 This is a day without any plans, so we'll
 just go with what you want.");
 ChMouth(1,3);

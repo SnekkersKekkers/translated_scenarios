@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040509000_05_000");
 MsgDisp("Hiiragi","This is a splendid establishment.
-The mantainence is very thorough.");
+The maintenance is very thorough.");
 MsgSel("This flower has an amazing smell...","It's pretty clammy due to the humidity huh?","Where are the carnivorous plants?");
 switch (MsgSelRsltGet()){
     case 0:

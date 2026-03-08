@@ -23,7 +23,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040602300_06_020");
     MsgDisp("Himuro","I think that's a bit too abstract.
-Then, let's first decided on a theme to
+Then, let's first decide on a theme to
 talk about!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

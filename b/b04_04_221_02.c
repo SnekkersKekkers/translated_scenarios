@@ -67,7 +67,7 @@ That means——");
         ChMotion(4,0,1);
         VoicePlay("B040422102_04_060");
         MsgDisp("Nanatsumori","On us?");
-        MsgDisp("主人公","COngratulations, as they would say.");
+        MsgDisp("主人公","Congratulations, as they would say.");
         ChEye(4,5);
         ChMouth(4,1);
         ChMotion(4,1,1);

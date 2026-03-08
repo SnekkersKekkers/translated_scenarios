@@ -69,7 +69,7 @@ It's a win-win situation.");
         ChMouth(7,0);
         ChMotion(7,4);
         VoicePlay("B040723302_07_060");
-        MsgDisp("Mikage","Iy's when both parties benef——");
+        MsgDisp("Mikage","It's when both parties benef——");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,2);

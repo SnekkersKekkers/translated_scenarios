@@ -40,7 +40,7 @@ I got it,");
         ChMotion(7,1);
         VoicePlay("B040723602_07_020");
         MsgDisp("Mikage","Hey, hey.
-You won;t be able to see anything like
+You won't be able to see anything like
 that.");
         MsgDateResultDisp();
         DateRateSet(5);

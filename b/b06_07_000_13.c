@@ -31,8 +31,8 @@ quick detour.");
     MsgDisp("Mikage","Oh, I see. Be careful on your way home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
-    MsgDisp("主人公","Hmmm, I wonder if I shouldn't have turned
-him down...)");
+    MsgDisp("主人公","(Hmmm, I wonder if I shouldn't have
+turned him down...)");
     MsgClose();
     ScrFadeOut(0);
     break ;

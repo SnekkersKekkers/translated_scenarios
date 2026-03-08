@@ -31,7 +31,7 @@ fired up in cleaning—! Hehe!");
     ChMouth(8,4);
     ChMotion(8,0,1);
     VoicePlay("B040830000_08_020");
-    MsgDisp("Shirahane","I wan't really aware of it...
+    MsgDisp("Shirahane","I wasn't really aware of it...
 Well, both me and Nii-chan are guys, after
 all.");
     MsgDispBGSksp(1,2);

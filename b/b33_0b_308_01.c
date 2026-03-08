@@ -80,7 +80,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30801_01_040");
 MsgDisp("Kazama","Why is that?
-Let's ride is a four.");
+Let's ride as four.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -99,7 +99,7 @@ MsgDisp("Nanatsumori","If you say so, sure.
 Let's all go on it as four.");
 MsgDisp("主人公","(Hehe!
 But I might've wanted to see ｛Kazama＊＊｝
-and ｛Honda＊＊｝'s couple photo together? ')");
+and ｛Honda＊＊｝'s couple photo together?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

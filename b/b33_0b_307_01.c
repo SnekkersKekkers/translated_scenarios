@@ -14,8 +14,8 @@ ChOpen(1,253,0,0,0,#1,#1,0,3);
 ChOpen(3,253,0,0,0,#1,#1,0,3);
 ScrFadeIn(0);
 VoicePlay("B330B30701_04_000");
-MsgDisp("Nanatsumori","Mugs and towels are classics And jigsaw
-puzzles.");
+MsgDisp("Nanatsumori","Mugs and towels are classics.
+And jigsaw puzzles.");
 MsgDisp("主人公","Hey, there are some animal models.
 Do you assemble them yourself?");
 ChEye(1,2);

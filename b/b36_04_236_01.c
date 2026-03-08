@@ -49,7 +49,7 @@ MsgDisp("主人公","I see...");
 ChEye(4,0);
 ChMotion(4,1,1);
 VoicePlay("B360423601_04_060");
-MsgDisp("Nanatsumori","With this, I can be satisfied. what about
+MsgDisp("Nanatsumori","With this, I can be satisfied. What about
 you?");
 MsgDisp("主人公","I think we made some good memories?");
 ChEye(4,2);

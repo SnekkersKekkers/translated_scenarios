@@ -110,7 +110,7 @@ was 5 years old.");
         VoicePlay("B040408202_04_120");
         MsgDisp("Nanatsumori","Right...
 Since then, insects and groups of insects
-have only scared me..");
+have only scared me...");
         ChEye(4,4);
         ChMouth(4,2);
         ChMotion(4,1,1);

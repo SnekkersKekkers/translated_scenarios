@@ -11,7 +11,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B070100000_01_070");
-MsgDisp("Kazama","Delicious.\nEspecially freshly-made soba.");
+MsgDisp("Kazama","Delicious.
+Especially freshly-made soba.");
 MsgDisp("主人公","I can see you making it yourself,
 ｛Kazama＊＊｝.");
 ChEye(1,4);

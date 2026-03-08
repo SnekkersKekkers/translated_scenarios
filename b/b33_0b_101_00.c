@@ -22,7 +22,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B10100_03_000");
-MsgDisp("Honda","what kind of course would the four of us
+MsgDisp("Honda","What kind of course would the four of us
 enjoy at the shopping mall?");
 ChEye(1,3);
 ChMouth(1,3);

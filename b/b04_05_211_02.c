@@ -70,7 +70,7 @@ I was impolite, wasn't I?");
         MsgDisp("主人公","Ehh?");
         ChEye(5,4);
         VoicePlay("B040521102_05_070");
-        MsgDisp("Hiiragi","when I was little, I used to play like
+        MsgDisp("Hiiragi","When I was little, I used to play like
 this by myself.");
         ChMotion(5,4);
         VoicePlay("B040521102_05_080");

@@ -5,7 +5,7 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040416002_04_000");
-MsgDisp("Nanatsumori","I've never dont photo stickers before.
+MsgDisp("Nanatsumori","I've never done photo stickers before.
 Shall we take some?");
 MsgSel("Eh∋That's surprising...","Are you okay with doing it with me?","Maybe it's better not to?");
 switch (MsgSelRsltGet()){

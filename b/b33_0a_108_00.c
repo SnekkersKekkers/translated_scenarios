@@ -24,7 +24,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10800_06_000");
-MsgDisp("Himuro","Nozome-senpai, this is just a question;
+MsgDisp("Himuro","Nozomu-senpai, this is just a question;
 but if you struggle that much, why did you
 come?");
 ChEye(1,0);

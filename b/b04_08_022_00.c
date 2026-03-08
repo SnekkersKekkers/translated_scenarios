@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(8,2,1);
     VoicePlay("B040802200_08_010");
     MsgDisp("Shirahane","Vast and grand...
-They mean the same thung don't they?");
+They mean the same thing, don't they?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

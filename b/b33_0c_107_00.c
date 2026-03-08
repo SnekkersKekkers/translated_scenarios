@@ -42,13 +42,13 @@ ChMouth(7,0);
 ChMotion(7,4);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C10700_07_010");
-MsgDisp("Mikage","I-Ill leave the rest to you Yanosuke.");
+MsgDisp("Mikage","I-I'll leave the rest to you, Yanosuke.");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330C10700_06_010");
-MsgDisp("Himuro","I'll watch Yonosuke-senpai's heroic
+MsgDisp("Himuro","I'll watch Yanosuke-senpai's heroic
 performance with my own eyes.");
 ChEye(5,3);
 ChMouth(5,2);

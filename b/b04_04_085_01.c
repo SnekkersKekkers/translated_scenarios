@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(4);
     ChMotion(4,3,1);
     VoicePlay("B040408501_04_010");
-    MsgDisp("Nanatsumori","Right, tight.
+    MsgDisp("Nanatsumori","Right, right.
 You can just keep sleeping like this,
 little bugs...");
     MsgDispSksp(1,8);

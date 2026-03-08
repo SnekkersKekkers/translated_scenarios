@@ -38,7 +38,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B360523600_05_040");
 MsgDisp("Hiiragi","But my feelings are the same as the ones
 written there.");
-MsgDisp("主人公","I wont be deceived anymore.");
+MsgDisp("主人公","I won't be deceived anymore.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

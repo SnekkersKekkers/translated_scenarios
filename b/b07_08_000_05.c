@@ -28,7 +28,7 @@ MsgDisp("Shirahane","The articles and photos are always
 interesting, right? I like it so much that
 I read it over and over.");
 MsgDisp("主人公","(So ｛Daichi＊＊｝'s hobbies are challenging
-himself and reading Habcha...)");
+himself and reading Habatcher...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

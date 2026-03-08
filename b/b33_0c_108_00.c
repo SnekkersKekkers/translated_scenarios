@@ -89,7 +89,7 @@ ChMouth(7,4);
 ChMotion(7,5);
 VoicePlay("B330C10800_07_040");
 MsgDisp("Mikage","See, there's no absolutes.");
-MsgDisp("主人公","That's, right...");
+MsgDisp("主人公","That's right...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

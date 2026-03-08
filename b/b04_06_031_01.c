@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040603101_06_010");
-    MsgDisp("Himuro","It's an man-made environment so there's a
+    MsgDisp("Himuro","It's a man-made environment, so there's a
 limit...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -58,7 +58,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360115101_01_060");
 MsgDisp("Kazama","Those 7 and 10 splits.
-It looked a bit like tem.");
+It looked a bit like them.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);

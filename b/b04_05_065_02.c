@@ -98,9 +98,9 @@ I wonder what you were going to say...)");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040506502_05_090");
-    MsgDisp("Hiiragi","Yes, even if circumstances and everything
-and everything change. If I can be here
-next year too, I'll be truly happy.");
+    MsgDisp("Hiiragi","Yes, I'm sure circumstances and everything
+will change. If I can still be here next
+year, I'll be truly happy.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

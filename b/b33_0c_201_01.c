@@ -12,7 +12,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20101_06_000");
-MsgDisp("Himuro","The giant isopod here seems to be poplar
+MsgDisp("Himuro","The giant isopod here seems to be popular
 with young people.");
 ChEye(7,2);
 ChMouth(7,0);

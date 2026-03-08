@@ -98,8 +98,8 @@ If you feel like coming.");
         MsgDisp("Mikage","Wait.
 Do you have heat stroke?
 Come on. let's go to the rest area.");
-        MsgDisp("主人公","(I hope me and ｛Mikage＊＊｝...can come
-here as a two one day.)");
+        MsgDisp("主人公","(I hope ｛Mikage＊＊｝ and I...can come
+here just the two of us one day.)");
         break ;
         default :
         DbgAssert(1);

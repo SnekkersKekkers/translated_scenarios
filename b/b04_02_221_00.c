@@ -37,7 +37,7 @@ I think I'm fine with it though.");
     ChMouth(2,4);
     ChMotion(2,4,1);
     VoicePlay("B040222100_02_030");
-    MsgDisp("Sassa","The handrailings here are quite low, so be
+    MsgDisp("Sassa","The handrails here are quite low, so be
 careful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

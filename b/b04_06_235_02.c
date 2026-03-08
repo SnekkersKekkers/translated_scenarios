@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623502_06_010");
-    MsgDisp("Himuro","Seems like you'v had your fill.
+    MsgDisp("Himuro","Seems like you've had your fill.
 Isn't that a win?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

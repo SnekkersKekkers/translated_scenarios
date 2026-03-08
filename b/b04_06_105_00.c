@@ -17,9 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040610500_06_010");
-    MsgDisp("Himuro","Yeah. They're chaneling their talent into
-these works. It's like they're from a
-completely different dimension.");
+    MsgDisp("Himuro","Yeah. They're channeling their talent
+into these works. It's like they're from
+a completely different dimension.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

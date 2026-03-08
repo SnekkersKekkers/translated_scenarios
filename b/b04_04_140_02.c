@@ -66,7 +66,7 @@ in terms of outfits.");
         VoicePlay("B040414002_04_070");
         MsgDisp("Nanatsumori","...Pfft!
 Even you're considering it.");
-        MsgDisp("主人公","It's making me imagin e all sorts of
+        MsgDisp("主人公","It's making me imagine all sorts of
 things.");
         ChEye(4,4);
         ChMouth(4,3);

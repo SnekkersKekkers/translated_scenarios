@@ -36,10 +36,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040210500_02_030");
-    MsgDisp("Sassa","I see, so if you understand it, it's dull
-huh? Does that mean everyone who comes
-here is part of the \"I don't get it\"
-circle?");
+    MsgDisp("Sassa","I see, so once you get it, it's boring?
+Does that mean everyone here is part of
+the \"I don't get it\" club?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

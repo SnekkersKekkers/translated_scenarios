@@ -53,7 +53,7 @@ You're also beautiful.");
         VoicePlay("B040508102_05_040");
         MsgDisp("Hiiragi","Ah, you're welcome.");
         MsgDisp("主人公","Ah, maybe...
-I misunterstoo——");
+I misunderstoo——");
         ChEye(5,3);
         ChMouth(5,4);
         VoicePlay("B040508102_05_050");

@@ -91,7 +91,7 @@ That's good right?");
         ChMotion(6,0);
         VoicePlay("B040609002_06_100");
         MsgDisp("Himuro","Fine.
-Fore you to say all that, I'll think about
+For you to say all that, I'll think about
 growing a cactus.");
         MsgDisp("主人公","(He really does look like a prickly
 cactus...!)");

@@ -58,7 +58,7 @@ more fun.");
         ChMotion(2,4);
         VoicePlay("B040221302_02_040");
         MsgDisp("Sassa","I know.
-Just walking my acquaintances dogs is
+Just walking my acquaintance's dogs is
 already tough.");
         ChEye(2,0);
         ChMouth(2,0);

@@ -29,7 +29,7 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("B360150400_01_020");
-MsgDisp("Kazama","Hey, why don't why stand side-by-side like
+MsgDisp("Kazama","Hey, why don't we stand side-by-side like
 the others?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -50,7 +50,7 @@ do, but this sort of thing is refreshing.");
 MsgDisp("主人公","Yeah we can take our time and also enjoy
 ourselves.");
 VoicePlay("B360150400_01_050");
-MsgDisp("Kazama","Phew...I feel bad for those guys, but But
+MsgDisp("Kazama","Phew...I feel bad for those guys, but
 this has really turned around from the
 noisy first half.");
 MsgDisp("主人公","Hey...everyone will get angry you know?");

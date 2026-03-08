@@ -44,8 +44,8 @@ ChMotion(4,2,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("B360401101_04_050");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","Hm, whats wrong?
-Your brows are furrowed.");
+MsgDisp("主人公","Hm, what's wrong?
+Your brows are intense.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

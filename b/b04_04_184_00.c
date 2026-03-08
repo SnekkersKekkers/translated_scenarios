@@ -37,8 +37,8 @@ take my eyes off them.");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("B040418400_04_020");
-    MsgDisp("Nanatsumori","Seas slugs are that much of a no-go for
-girls huh...");
+    MsgDisp("Nanatsumori","Sea slugs are that much of a no-go for
+girls, huh...");
     MsgDateResultDisp();
     break ;
     default :

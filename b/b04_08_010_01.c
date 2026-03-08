@@ -40,7 +40,7 @@ reaction!");
     ChMotion(8,3,1);
     VoicePlay("B040801001_08_030");
     MsgDisp("Shirahane","Right!
-If it suited ya, I'd troubled.");
+If it suited ya, I'd be troubled.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

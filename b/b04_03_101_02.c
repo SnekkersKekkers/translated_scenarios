@@ -27,9 +27,8 @@ here is also well done.");
     ChEye(3,3);
     ChMotion(3,5);
     VoicePlay("B040310102_03_020");
-    MsgDisp("Honda","I get it! Even in the permanent
-exhibitions you can see appearance changes
-matching the the season, as expected of
+    MsgDisp("Honda","I get it! Even the permanent exhibits
+change with the season. As expected of
 Habataki City!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

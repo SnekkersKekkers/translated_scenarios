@@ -89,7 +89,7 @@ the girl.");
         MsgDisp("Mikage","Thanks to you, I was able to experience
 embarrassment and the trials of spinning
 around.");
-        MsgDisp("主人公","Umm, is that it's charm?");
+        MsgDisp("主人公","Umm, is that its charm?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,3);
