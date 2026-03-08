@@ -27,10 +27,9 @@ with just us two!");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040206300_02_020");
-    MsgDisp("Sassa","I don't know what you mean by sad. When I
-come out here to run, the only thing
-that's sad is the washed up seaweed that
-gets in the way.");
+    MsgDisp("Sassa","I don't really get 'sad.' When I come
+here to run, all I think about is the
+washed-up seaweed getting in the way.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

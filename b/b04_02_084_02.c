@@ -69,10 +69,9 @@ I might stand a chance.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040208402_02_070");
-        MsgDisp("Sassa","I was just thinking of how to protect you
-from dangerous people. I think the best
-thing to do is to carry you on my back and
-run.");
+        MsgDisp("Sassa","I was thinking of how to protect you
+from dangerous people. Best plan is to
+carry you on my back and run.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

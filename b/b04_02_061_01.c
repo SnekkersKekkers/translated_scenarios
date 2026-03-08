@@ -41,8 +41,8 @@ half-naked delinquents.");
     ChMouth(2,4);
     ChMotion(2,0,1);
     VoicePlay("B040206101_02_030");
-    MsgDisp("Sassa","That way of looking at it is I'll try to
-reconsider.");
+    MsgDisp("Sassa","Your way of looking at it is better.
+I'll try to reconsider.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -39,8 +39,8 @@ a suspense drama.");
     ChMotion(2,3);
     VoicePlay("B040208500_02_030");
     MsgDisp("Sassa","I've done my homework.
-It seems like you can hear the other
-person's inner voice.");
+It's the one where you can hear the other
+person's inner voice, right?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

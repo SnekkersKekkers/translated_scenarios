@@ -42,7 +42,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206302_02_030");
-        MsgDisp("Sassa","Not knowing is what makes it fun.");
+        MsgDisp("Sassa","Figuring out the limit is what makes it
+fun.");
         MsgDateResultDisp();
         break ;
         case 4:

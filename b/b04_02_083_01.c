@@ -25,7 +25,7 @@ They'll go back to being larvae.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040208301_02_020");
-    MsgDisp("Sassa","Year, the real show is at night time.
+    MsgDisp("Sassa","Yeah, the real show is at nighttime.
 They're probably doing some flexibility
 training or stretching.");
     MsgDispSksp(1,0);

@@ -28,7 +28,7 @@ That's the only word I can think to use.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040202200_02_020");
-    MsgDisp("Sassa","That'd be good.
+    MsgDisp("Sassa","Sure.
 But I wonder how long that would take.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

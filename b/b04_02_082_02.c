@@ -39,7 +39,7 @@ failed.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040208202_02_030");
-        MsgDisp("Sassa","You're know this town well right?");
+        MsgDisp("Sassa","You know this town well, right?");
         MsgDisp("主人公","But ｛Sassa＊＊｝ is very knowledgable not
 just about track and field but also
 exercise and the body too.");
@@ -79,7 +79,7 @@ teaches it to a lot of people.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040208202_02_090");
-        MsgDisp("Sassa","Sorry I said that.
+        MsgDisp("Sassa","Sorry, I got off track.
 At any rate, I admire you.");
         MsgDisp("主人公","(｛Sassa＊＊｝...
 I wonder if he's worried about something.)");

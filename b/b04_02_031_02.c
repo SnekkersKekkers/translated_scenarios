@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040203102_02_010");
-    MsgDisp("Sassa","That's it, those teeth! What's with that∋
-They just have to swing around and
-effortlessly hurt all those little fish.");
+    MsgDisp("Sassa","Those are teeth! What even is that∋
+Just swinging that thing around can
+hurt all the little fish.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

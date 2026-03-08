@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040208300_02_000");
-MsgDisp("Sassa","Since it's this hot, won't the fireflies
-be defeated too?");
+MsgDisp("Sassa","With this heat, the fireflies might be
+worn out too, huh?");
 MsgSel("Will they be alright...?","I can't wait for nighttime","It's more refreshing here than elsewhere though?");
 switch (MsgSelRsltGet()){
     case 0:

@@ -39,9 +39,8 @@ me.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040203202_02_030");
-        MsgDisp("Sassa","I like teaching you things about the city
-that you don't know but it's rare that I
-know these things.");
+        MsgDisp("Sassa","It's rare for me to know something about
+the city that you don't.");
         MsgDisp("主人公","Ah, I see how that could be frustrating.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -56,9 +55,9 @@ by foot.");
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040203202_02_050");
-        MsgDisp("Sassa","By foot? Okay, next time let's go to
-together to Mt. Habataki for information
-gathering okay?");
+        MsgDisp("Sassa","By foot? Okay, next time let's go
+together to Mt. Habataki to gather
+information!");
         MsgDisp("主人公","Hehe, but isn't that just like a normal
 date?");
         ChEye(2,0);
@@ -92,7 +91,7 @@ should be fine.");
     ChMotion(2,3);
     VoicePlay("B040203202_02_080");
     MsgDisp("Sassa","Doesn't it?
-I knew you would like that kind of thing");
+I knew you would like that kind of thing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

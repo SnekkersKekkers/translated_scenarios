@@ -44,7 +44,7 @@ Maybe I'm wrong...");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040206502_02_030");
-        MsgDisp("Sassa","Mo, I guess it's a bit weird...
+        MsgDisp("Sassa","Nah, it's hard to tell...
 If it's only a small change, you wouldn't
 be able to tell at a glance.");
         MsgDisp("主人公","｛Sassa＊＊｝?");

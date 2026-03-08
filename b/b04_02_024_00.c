@@ -28,8 +28,8 @@ Is it making you sleepy?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040202400_02_020");
-    MsgDisp("Sassa","It's important to ask those questions.
-I want to know too.");
+    MsgDisp("Sassa","It's important to have that curiosity.
+I should learn from you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,7 +40,7 @@ I want to know too.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040202400_02_030");
-    MsgDisp("Sassa","Are you calling me cute?");
+    MsgDisp("Sassa","Wait, you just call me cute?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

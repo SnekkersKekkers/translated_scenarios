@@ -45,7 +45,7 @@ I like it.");
         ChMotion(2,0);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040205102_02_030");
-        MsgDisp("Sassa","That's sounds incredible.");
+        MsgDisp("Sassa","That sounds incredible.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -102,8 +102,8 @@ A movie about stars or something.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040205102_02_100");
-    MsgDisp("Sassa","When the stars twinkle in my eyes it
-blinds me, though.");
+    MsgDisp("Sassa","If stars were twinkling right in front of
+me, I'd probably get dizzy, though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -41,9 +41,8 @@ What else can we say?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040203101_02_030");
-    MsgDisp("Sassa","I found some information about it over
-there. It seems that the amount and
-frequency of the feeding is
+    MsgDisp("Sassa","I read the info over there. Looks like
+the food content and frequency are
 well-controlled.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

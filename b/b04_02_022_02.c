@@ -62,10 +62,9 @@ There are many places I would like to go.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040202202_02_060");
-        MsgDisp("Sassa","I want to go to many different places with
-you. Whether they're places I like or
-don't like, it doesn't matter. ...That's
-the truth.");
+        MsgDisp("Sassa","Whether I like the place or not, I want
+to go everywhere with you.
+...That's the truth.");
         MsgDisp("主人公","I see.
 That makes me happy.");
         ChEye(2,4);

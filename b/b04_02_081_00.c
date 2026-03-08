@@ -24,9 +24,9 @@ Which part?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040208100_02_020");
-    MsgDisp("Sassa","Heeー, so that's how you see at it.
-I feel like I only have to wait until next
-year.");
+    MsgDisp("Sassa","Ehh, so that's how you look at it.
+For me, I just feel like there's always
+next year.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

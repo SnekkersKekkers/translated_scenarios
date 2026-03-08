@@ -61,8 +61,8 @@ There's no dressing.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040209002_02_050");
-        MsgDisp("Sassa","But the way you described \"The grass here\"
-is basically the main reason.");
+        MsgDisp("Sassa","But the way you said \"the grass here\"
+is pretty out there too, you know?");
         MsgDisp("主人公","Hehe, that's right.
 Does ｛Sassa＊＊｝ like salad?");
         ChEye(2,0);

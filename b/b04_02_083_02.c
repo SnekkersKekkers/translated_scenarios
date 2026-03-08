@@ -79,8 +79,8 @@ stick it out to get on.");
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040208302_02_070");
-        MsgDisp("Sassa","The swans would look like they have two
-necks won't they?");
+        MsgDisp("Sassa","The swan would look like it has two
+necks, wouldn't it?");
         MsgDisp("主人公","Eh...
 Hehe!");
         ChEye(2,0);

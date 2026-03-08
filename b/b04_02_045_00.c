@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040204500_02_000");
-    MsgDisp("Sassa","Yeah, that scary scene in the middle made
-me shiver.");
+    MsgDisp("Sassa","Yeah, there was an intense scene in the
+middle. I almost teared up.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -22,8 +22,8 @@ me shiver.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040204500_02_010");
-    MsgDisp("Sassa","Yeah, all the long dialogue was
-forgetable.");
+    MsgDisp("Sassa","Yeah, it's impressive they can memorize
+all those long lines.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     ChEyeOpenLevel(2,8);
     VoicePlay("B040203100_02_010");
-    MsgDisp("Sassa","Oi, even I know this one.
+    MsgDisp("Sassa","Hey, even I know this one.
 Isn't that a clown fish?");
     MsgDateResultDisp();
     break ;

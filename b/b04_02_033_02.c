@@ -76,8 +76,8 @@ has the same vibe as a Haunted House.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040203302_02_080");
-        MsgDisp("Sassa","The people that died on the sunken ship
-becomes ghosts.
+        MsgDisp("Sassa","The people who died on the sunken ship
+become ghosts.
 It's basically the same.");
         MsgDisp("主人公","U-Uhm...");
         ChEye(2,0);

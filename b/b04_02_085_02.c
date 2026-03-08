@@ -118,8 +118,8 @@ Here?");
         ChMouth(2,3);
         ChMotion(2,3,1);
         VoicePlay("B040208502_02_130");
-        MsgDisp("Sassa","...Crap, something's come.
-I'll be of for a bit!");
+        MsgDisp("Sassa","...Crap, something's coming on.
+I'll be off for a bit!");
         MsgDisp("主人公","Ehhh∋");
         ChEye(2,0);
         ChMouth(2,3);

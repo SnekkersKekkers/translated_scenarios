@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040208102_02_000");
-MsgDisp("Sassa","It suddenly blooms, then suddenly fade.
-It's a bit too short huh?");
+MsgDisp("Sassa","It suddenly blooms, then suddenly fades.
+It's a bit fleeting, huh?");
 MsgSel("That's the beauty of their fall!","They'll bloom again next year though?","Let's take lots of pictures");
 switch (MsgSelRsltGet()){
     case 0:
@@ -54,9 +54,9 @@ right? That kind of thing?");
         ChMouth(2,4);
         ChMotion(2,4,1);
         VoicePlay("B040208102_02_040");
-        MsgDisp("Sassa","Yeah. But the cherry blossoms will
-continue every year, I go to the
-Inter-High a limited amount of times.");
+        MsgDisp("Sassa","Yeah. But cherry blossoms bloom every
+year. My chances at Inter-High are
+limited.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
