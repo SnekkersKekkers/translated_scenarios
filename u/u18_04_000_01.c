@@ -6,9 +6,9 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Uhm...");
     MsgDisp("主人公","It says...\"What did you tell Michiru-san
 and Hikaru-san? They told me to get along
-with you.");
+with you.\"");
     MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝...
-I told ｛Nanatsumori＊｝ about the
+You told ｛Nanatsumori＊｝ about the
 sleepover∋)");
     break ;
     case 4:
@@ -16,7 +16,7 @@ sleepover∋)");
     MsgDisp("主人公","Uhm...");
     MsgDisp("主人公","It says...\"You know, you should be
 discreet about our relationship. Michiru
-and Hikaru tease me a lot.");
+and Hikaru tease me a lot.\"");
     MsgDisp("主人公","(Is this about the sleepover? Geez,
 ｛みちる＊｝ and ｛ひかる＊｝ are
 so...｛Nanatsumori＊｝, sorry.)");
