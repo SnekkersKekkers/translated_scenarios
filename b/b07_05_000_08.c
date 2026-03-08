@@ -29,7 +29,7 @@ ChMotion(5,3);
 VoicePlay("B070500000_05_390");
 MsgDisp("Hiiragi","I really like everyone like that.");
 MsgDisp("主人公","Umm, so that means...all the girls at Haba
-High is your type.");
+High are your type?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

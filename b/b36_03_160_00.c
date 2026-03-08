@@ -10,7 +10,7 @@ ChMotion(3,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360316000_03_000");
-MsgDisp("Honda","Oh, there's a new version of the quiz game
+MsgDisp("Honda","Oh, a new version of the quiz game
 is here!∋");
 ChEye(3,4);
 ChMouth(3,0);

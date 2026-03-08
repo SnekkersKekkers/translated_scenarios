@@ -29,7 +29,7 @@ Yeah, the air is fresh.");
     ChMotion(6,0);
     VoicePlay("B040624201_06_020");
     MsgDisp("Himuro","You look sleepy.
-You're so easy to understand");
+You're so easy to understand.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,7 +41,7 @@ You're so easy to understand");
     ChMotion(6,5);
     VoicePlay("B040624201_06_030");
     MsgDisp("Himuro","Pfft...what's with that?
-But if it's you, that's possible");
+But if it's you, that's possible.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

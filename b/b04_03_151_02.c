@@ -29,9 +29,9 @@ switch (MsgSelRsltGet()){
         DateRateSet(1);
         ChSet(3,2);
         VoicePlay("B040315102_03_020");
-        MsgDisp("Honda","Hah...official records say it's less
-common than a perfect game.
-Ah, it's impossible...");
+        MsgDisp("Honda","Seems like it. Official records say it's
+rarer than a perfect game.
+Ahh, there's no way I can do that...");
         MsgDateResultDisp();
         break ;
         case 4:

@@ -88,7 +88,7 @@ You thought that of me...");
         ChMotion(4,2);
         VoicePlay("B040402102_04_110");
         MsgDisp("Nanatsumori","Ah, it's no good.
-My heart is being made to race again.");
+You're making my heart race again.");
         MsgDisp("主人公","(?)");
         break ;
         default :

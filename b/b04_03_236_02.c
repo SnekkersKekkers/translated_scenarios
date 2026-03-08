@@ -7,7 +7,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040323602_03_000");
-MsgDisp("Honda","That tuna man has been flocking around in
+MsgDisp("Honda","That tuna man has been circling around in
 front of us for a while.");
 MsgSel("Does he have business with ｛Honda＊＊｝?","Is he ｛Honda＊＊｝'s acquaintance?","Does he want to dance with us?");
 switch (MsgSelRsltGet()){
@@ -41,7 +41,7 @@ Is the tuna repaying your kindness?");
         ChMotion(3,1);
         VoicePlay("B040323602_03_030");
         MsgDisp("Honda","Right right, when I was in elementary
-school, there was a weakening tuna at an
+school, I saw a sickly tuna at an
 aquarium, so I told the caretaker.");
         ChEye(3,3);
         ChMouth(3,3);
@@ -70,8 +70,8 @@ right?");
         ChMouth(3,3);
         ChCheek(3,8);
         VoicePlay("B040323602_03_070");
-        MsgDisp("Honda","Well, in my surroundings, the beautiful
-woman that appears before me is you.");
+        MsgDisp("Honda","Well, the beautiful woman who appeared in
+my life is you.");
         MsgDisp("主人公","｛Honda＊＊｝...");
         ChEye(3,3);
         ChMouth(3,3);

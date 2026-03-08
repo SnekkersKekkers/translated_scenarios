@@ -74,7 +74,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B360107001_01_070");
 MsgDisp("Kazama","Let's not.
 I want it to be just the two of us.");
-MsgDisp("主人公","I-I see. so that's how it is.");
+MsgDisp("主人公","I-I see. So that's how it is.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

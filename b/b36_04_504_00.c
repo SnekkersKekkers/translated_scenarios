@@ -38,7 +38,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B360450400_04_040");
-MsgDisp("Nanatsumori","If this isn't kind of situation you
+MsgDisp("Nanatsumori","If this isn't the kind of situation you
 wanted...
 Sorry.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");

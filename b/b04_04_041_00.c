@@ -35,8 +35,8 @@ the moves and fighters.");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040404100_04_020");
-    MsgDisp("Nanatsumori","Whatever it may be, my impression after
-watching the show was awful.");
+    MsgDisp("Nanatsumori","Whatever it may be, that's a terrible
+thing to say after watching a show.");
     MsgDateResultDisp();
     break ;
     default :

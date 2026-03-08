@@ -1,5 +1,5 @@
 MsgDisp("主人公","｛Himuro＊＊｝, do you listen to music?
-Is there a type you like.");
+Is there a type you like?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

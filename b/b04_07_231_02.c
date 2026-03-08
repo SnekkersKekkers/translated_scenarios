@@ -78,8 +78,8 @@ It's not that dangerous of a ride though.");
         ChMotion(7,4);
         ChEyeOpenLevel(7,10);
         VoicePlay("B040723102_07_070");
-        MsgDisp("Mikage","that's right, what if this thing moved
-super fast, but was in a low place?
+        MsgDisp("Mikage","That's right, what if this thing moved
+super fast, but in a low place?
 Maybe even underground?");
         MsgDisp("主人公","An underground rollercoaster?");
         ChEye(7,0);

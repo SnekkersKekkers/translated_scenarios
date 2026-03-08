@@ -42,7 +42,7 @@ types of princesses.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040320000_03_030");
-    MsgDisp("Honda","Yepyep, I want you to teach me that.");
+    MsgDisp("Honda","Yep yep, I want you to teach me that.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

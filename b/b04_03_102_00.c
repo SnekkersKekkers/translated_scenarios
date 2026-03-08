@@ -6,9 +6,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040310200_03_000");
-MsgDisp("Honda","This is wasted on someone like me who
-doesn't understand the merit of this
-placeー.");
+MsgDisp("Honda","This place might be wasted on someone like
+me who can't appreciate itー.");
 MsgSel("Shall we learn together?","Let's start with a motorbike license first!","Let's ask the curator");
 switch (MsgSelRsltGet()){
     case 0:

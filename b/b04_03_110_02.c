@@ -76,8 +76,9 @@ That's what I meant!");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040311002_03_070");
-        MsgDisp("Honda","Then, I'll tell you especially a secret on
-why I always look like I'm having fun.");
+        MsgDisp("Honda","Then, I'll let you in on a special secret
+about why I always look like I'm having
+fun.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -97,8 +98,9 @@ Yeah, thank you!");
     DateRateSet(2);
     ChSet(3,0,1);
     VoicePlay("B040311002_03_090");
-    MsgDisp("Honda","Yep yep. Yeah, exactly. Starting with the
-look is important to get your spirits up.");
+    MsgDisp("Honda","Yep yep. 
+Yeah, exactly. Dressing the part
+is important to get your spirits up.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

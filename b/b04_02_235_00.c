@@ -26,7 +26,7 @@ At least that's a relief.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040223500_02_020");
-    MsgDisp("Sassa","I got weak in the legs many times...");
+    MsgDisp("Sassa","My legs gave out so many times...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

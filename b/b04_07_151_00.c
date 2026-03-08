@@ -40,7 +40,7 @@ Adults compete with their heads.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040715100_07_030");
-    MsgDisp("Mikage","What's that, you're quitting whilst you're
+    MsgDisp("Mikage","What's that, you're quitting while you're
 ahead?");
     MsgDateResultDisp();
     break ;

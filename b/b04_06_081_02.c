@@ -90,7 +90,7 @@ When you're surfing?");
         VoicePlay("B040608102_06_080");
         MsgDisp("Himuro","Ah, no...
 I thought you would say something like
-studying or being an honor's student....");
+studying or being an honor student...");
         ChEye(6,2);
         ChMouth(6,2);
         ChMotion(6,2);

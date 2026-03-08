@@ -117,7 +117,7 @@ I'm out of things to reveal.");
     ChMotion(7,1);
     VoicePlay("B040724202_07_090");
     MsgDisp("Mikage","Right. In front of nature, humans are
-completely naked. aah, I don't mean that
+completely naked. Aah, I don't mean that
 in a weird way.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

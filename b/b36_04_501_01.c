@@ -26,7 +26,7 @@ VoicePlay("B360450101_04_010");
 MsgDisp("Nanatsumori","No, not at all.
 Rather, it feels like I haven't played
 enough.");
-MsgDisp("主人公","Really? then, should we go play at this
+MsgDisp("主人公","Really? Then, should we go play at this
 park?");
 ChEye(4,5);
 ChMouth(4,1);
@@ -59,7 +59,7 @@ ChMotion(4,0,1);
 VoicePlay("B360450101_04_060");
 MsgDisp("Nanatsumori","You've got a lot of memories from your
 childhood engraved into it, right? I don't
-want to destroy those things either");
+want to destroy those things either.");
 MsgDisp("主人公","｛Nanatsumori＊｝ ...you're kind.");
 ChEye(4,0);
 ChMouth(4,3);

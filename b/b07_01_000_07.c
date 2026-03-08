@@ -1,4 +1,5 @@
-MsgDisp("主人公","What's ｛Kazama＊＊｝'s dreams for the future?");
+MsgDisp("主人公","What are ｛Kazama＊＊｝'s dreams for the
+future?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);

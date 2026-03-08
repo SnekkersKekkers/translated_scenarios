@@ -12,8 +12,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B350600000_06_010");
 MsgDisp("Himuro","What are you gonna do after this?");
-MsgDisp("主人公","what am I going to do you say...
-I'm going home arent I?");
+MsgDisp("主人公","What am I going to do you say...
+I'm going home, aren't I?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

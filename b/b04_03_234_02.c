@@ -49,9 +49,9 @@ not good with these sorts of things.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040323402_03_050");
-        MsgDisp("Honda","Nuhーuh. If I was by myself, I couldn't
-ride on a teacup? And I couldn't envision
-it like I had just now.");
+        MsgDisp("Honda","Nuhーuh. I wouldn't ride a teacup by
+myself, right? And then I wouldn't
+have come to that conclusion just now.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);

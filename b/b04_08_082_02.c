@@ -61,7 +61,7 @@ But I definitely can't do that...");
         ChMotion(8,0,1);
         ChCheek(8,5);
         VoicePlay("B040808202_08_040");
-        MsgDisp("Shirahane","eh...why?");
+        MsgDisp("Shirahane","Eh...why?");
         MsgDisp("主人公","I want to know what ｛Daichi＊＊｝ is
 thinking.");
         ChEye(8,4);

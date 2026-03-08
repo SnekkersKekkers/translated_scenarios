@@ -52,9 +52,9 @@ Amazing.");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040322102_03_050");
-        MsgDisp("Honda","Right right, a secret, underground passage
-in order for a beautiful princess like you
-to stealthily escape.");
+        MsgDisp("Honda","Right right, a secret underground passage
+for a beautiful princess like you to
+sneak away through.");
         ChEye(3,1);
         ChMouth(3,3);
         ChMotion(3,4);

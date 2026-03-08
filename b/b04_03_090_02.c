@@ -63,14 +63,15 @@ be, it's worth thinking about.");
         ChSet(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040309002_03_060");
-        MsgDisp("Honda","I was able to enjoy a conversation like
-this, you're the best!");
-        MsgDisp("主人公","｛Honda＊＊｝, your voice is loud.");
+        MsgDisp("Honda","Being able to have a fun conversation like
+this... you're the best!");
+        MsgDisp("主人公","｛Honda＊＊｝, you're being too loud.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040309002_03_070");
-        MsgDisp("Honda","A loud voice will make you grow bigger.");
+        MsgDisp("Honda","The louder the voice, the bigger you
+grow!");
         MsgDisp("主人公","(｛Honda＊＊｝, I'm not a plant.)");
         break ;
         default :
@@ -82,8 +83,8 @@ this, you're the best!");
     DateRateSet(4);
     ChSet(3,3);
     VoicePlay("B040309002_03_080");
-    MsgDisp("Honda","Right right, listening to classical music
-makes it sweet.");
+    MsgDisp("Honda","Right right, they say playing classical
+music makes the fruit sweeter.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -23,7 +23,7 @@ SEPlay("EV_SE_550");
 MsgClose();
 ChOpen(2,31,3,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110200001_02_000");
-MsgDisp("Sassa","Of course not. don't just take someone's
+MsgDisp("Sassa","Of course not. Don't just take someone's
 name as you like.");
 MsgDisp("主人公","Ah, ｛Sassa＊＊｝.");
 ChEye(2,0);

@@ -46,7 +46,7 @@ quite modest.");
         ChMotion(7,2);
         VoicePlay("B040722102_07_030");
         MsgDisp("Mikage","Hahaha.
-You really like high places don't you?");
+You really like high places, don't you?");
         MsgDateResultDisp();
         break ;
         case 4:

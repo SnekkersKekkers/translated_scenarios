@@ -105,9 +105,9 @@ Do you feel anything else?");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040306502_03_090");
-        MsgDisp("Honda","There's a possibility the components of
-lemongrass have an effect of a love
-potion.");
+        MsgDisp("Honda","They say the compounds in lemongrass
+might work as a love potion...or
+something like that?");
         MsgDisp("主人公","Eehhh!");
         ChSet(3,4);
         ChCheek(3,10);

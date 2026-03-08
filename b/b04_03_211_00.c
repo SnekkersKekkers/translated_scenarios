@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321100_03_000");
 MsgDisp("Honda","Hey, over here, over here!
-We're dillydallying.");
+We're wasting time!");
 MsgSel("Let's take a closer look!","Let's take a picture with the animals!","｛Honda＊＊｝, do you have anywhere you wanna see?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -43,8 +43,8 @@ Ah, let's take a video too.");
     ChMotion(3,4);
     VoicePlay("B040321100_03_030");
     MsgDisp("Honda","Eh?
-I want to see everything.
-You too right?");
+There's nothing here I don't want to see.
+Same for you, right?");
     MsgDateResultDisp();
     break ;
     default :

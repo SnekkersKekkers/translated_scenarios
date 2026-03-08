@@ -120,8 +120,8 @@ in the water tank?");
         MsgDisp("Nanatsumori","Pfft...ahaha!
 You really are the best.");
         MsgDisp("主人公","(Ah...
-Just now, didn't ｛Nanatsumori＊｝'s face look
-like he was sparkling lots right now?)");
+Right now, isn't ｛Nanatsumori＊｝'s smile
+sparkling a lot too?)");
         break ;
         default :
         DbgAssert(1);

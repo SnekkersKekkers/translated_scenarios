@@ -38,8 +38,8 @@ blue high-rise?");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040401100_04_030");
-    MsgDisp("Nanatsumori","If you're bad with high places, it would
-be good if you didn't push yourself.");
+    MsgDisp("Nanatsumori","If you're not good with heights, you
+didn't have to push yourself.");
     MsgDateResultDisp();
     break ;
     default :

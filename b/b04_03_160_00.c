@@ -38,7 +38,7 @@ I won't go easy on you okayー?");
     ChMotion(3,4);
     VoicePlay("B040316000_03_030");
     MsgDisp("Honda","Ehh?
-With one rich?
+For 1 rich?
 Ours?");
     MsgDateResultDisp();
     break ;

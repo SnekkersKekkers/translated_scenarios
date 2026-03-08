@@ -95,8 +95,8 @@ My ear!");
         ChMotion(6,5);
         VoicePlay("B040608402_06_090");
         MsgDisp("Himuro","Haha!
-That's the excitement you wanted right? an
-external stimulation!");
+That's the excitement you wanted, right?
+An external stimulation!");
         MsgDisp("主人公","(So frustrating...)");
         break ;
         default :

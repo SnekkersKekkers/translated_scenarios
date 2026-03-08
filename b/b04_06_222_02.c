@@ -84,7 +84,7 @@ Nothing more, nothing less.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040622202_06_080");
-        MsgDisp("Himuro","why are you laughing?");
+        MsgDisp("Himuro","Why are you laughing?");
         MsgDisp("主人公","I was just happy you're enjoying yourself.");
         ChEye(6,0);
         ChMouth(6,0);

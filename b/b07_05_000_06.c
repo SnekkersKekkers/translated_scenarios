@@ -15,7 +15,7 @@ ChMotion(5,4);
 VoicePlay("B070500000_05_250");
 MsgDisp("Hiiragi","I suppose it was like being in a small
 box, and that box was transported around
-the country");
+the country.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B070500000_05_260");

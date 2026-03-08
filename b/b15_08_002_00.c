@@ -35,7 +35,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("B150800200_08_050");
-MsgDisp("Shirahane","I know you like ticklin' me. and I..
+MsgDisp("Shirahane","I know you like ticklin' me, and I...
 looked like I was happy 'bout it?");
 ChEye(8,2);
 ChMouth(8,0);

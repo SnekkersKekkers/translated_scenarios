@@ -1,7 +1,7 @@
 MsgClose();
 ChClose(6,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh, ｛Himuro＊＊｝ Still hasn't come yet?");
+MsgDisp("主人公","Huh, ｛Himuro＊＊｝ still hasn't come yet?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

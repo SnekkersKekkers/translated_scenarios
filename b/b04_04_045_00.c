@@ -36,8 +36,8 @@ powerful too.");
     ChMouth(4,2);
     VoicePlay("B040404500_04_020");
     MsgDisp("Nanatsumori","You say it was a miss?
-Their chairman is the same age as us, you
-know?");
+Their troupe leader is the same age as us,
+you know?");
     MsgDateResultDisp();
     break ;
     default :

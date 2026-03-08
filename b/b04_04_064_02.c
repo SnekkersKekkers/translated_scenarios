@@ -13,8 +13,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_010");
-MsgDisp("Nanatsumori","Don't drift so far away.
-It'll be a big problem if you got lost.");
+MsgDisp("Nanatsumori","Don't wander too far away.
+It'll be a big problem if you get lost.");
 MsgDisp("主人公","Hey, I won't get lost!");
 ChEye(4,2);
 VoicePlay("B040406402_04_020");
@@ -24,8 +24,8 @@ ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_030");
 MsgDisp("Nanatsumori","We can keep in contact with our phones,
-but before that, if you were to get mixed
-up with some dopey people...");
+but before that, if some shady guys
+tried hitting on you...");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);
@@ -60,8 +60,8 @@ ChMotion(4,2,1);
 ChCheek(4,8);
 VoicePlay("B040406402_04_080");
 MsgDisp("Nanatsumori","I'm not mad.
-I'm just worrying too much on my own
-accord.");
+I'm just getting carried away worrying
+on my own.");
 MsgDisp("主人公","Thank you.");
 ChEye(4,0);
 ChMouth(4,4);

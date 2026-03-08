@@ -55,7 +55,7 @@ ChMotion(2,4);
 VoicePlay("B330A30100_02_010");
 MsgDisp("Sassa","Playfulness...you say it well. Training
 can get suffocating if I only think of
-efficiency. it can be hard to breathe.");
+efficiency.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);

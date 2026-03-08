@@ -62,7 +62,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30101_01_010");
 MsgDisp("Kazama","Hm?
-Is it not just a sunken ship.");
+Isn't it just a sunken ship?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

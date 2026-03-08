@@ -23,7 +23,7 @@ ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("B150100300_01_020");
 MsgDisp("Kazama","Hey, you know it's been 10 years since
-we've last met, but neither me or you are
+we've last met, but neither you nor I are
 the same as back then.");
 MsgDisp("主人公","Y-Yeah.
 I know that.");

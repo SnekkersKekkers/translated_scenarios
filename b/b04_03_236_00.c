@@ -7,7 +7,7 @@ ChMouth(3,1);
 ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("B040323600_03_000");
-MsgDisp("Honda","Urkー, we got a late start!
+MsgDisp("Honda","Gahー, we got a late start!
 It's already filled with peopleー.");
 MsgSel("Let's just enjoy the atmosphere!","We should be able to get a little further forward...","It can't be helped, so let's just give up");
 switch (MsgSelRsltGet()){

@@ -42,7 +42,7 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B330B20100_04_010");
 MsgDisp("Nanatsumori","Dahon's standards for beauty and cuteness
-is too weird...");
+are too weird...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

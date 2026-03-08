@@ -37,8 +37,8 @@ Well, if we get the chance okay.");
     ChMotion(6,0);
     VoicePlay("B040608201_06_030");
     MsgDisp("Himuro","That's rare nowadays isn't it? It's like
-an oasis in the city. There's also not
-that much people, so it's a real hidden
+an oasis in the city. There aren't that
+many people either, so it's a real hidden
 spot.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

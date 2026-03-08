@@ -16,7 +16,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B040406401_04_020");
 MsgDisp("Nanatsumori","School is the same but, I mean...
-I'm a silent, reticent existence there.");
+I'm the quiet, keep-to-myself type there.");
 MsgDisp("主人公","I see.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -61,7 +61,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B040406401_04_080");
-MsgDisp("Nanatsumori","Then, shall we head now?");
+MsgDisp("Nanatsumori","Then, shall we head over?");
 MsgDisp("主人公","Yeah!");
 MsgClose();
 ScrFadeOut(0,0);

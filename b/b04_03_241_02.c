@@ -70,9 +70,9 @@ and I kept eating happily.");
         ChMouth(3,3);
         ChMotion(3,0);
         VoicePlay("B040324102_03_050");
-        MsgDisp("Honda","Right right, and at that time, my Mom not
-only praised my sister's kindness, but my
-attitude.");
+        MsgDisp("Honda","Right right, and at that time, my mom
+praised not only my sister's kindness, but
+my attitude too.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -96,8 +96,9 @@ tastier than the sausages we normally ate.");
 express the emotions you feel in the
 moment, like my sister and you, than to
 come off as cold.");
-        MsgDisp("主人公","｛Honda＊＊｝ isn't cold?
-He's kind, and always amuses everyone.");
+        MsgDisp("主人公","｛Honda＊＊｝ isn't cold at all.
+You're kind, and always make everyone 
+smile.");
         ChEye(3,4);
         ChMouth(3,3);
         ChMotion(3,4);

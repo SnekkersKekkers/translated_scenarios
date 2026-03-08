@@ -110,5 +110,5 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B110600000_06_080");
-MsgDisp("Himuro","Let's go already. before we get caught up
+MsgDisp("Himuro","Let's go already. Before we get caught up
 in something weird again.");

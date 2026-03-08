@@ -13,7 +13,7 @@ so I also need physical strength.");
 MsgDisp("主人公","Sword fights, huh....");
 ChMotion(5,4);
 VoicePlay("B070500000_05_130");
-MsgDisp("Hiiragi","Are you interested.");
+MsgDisp("Hiiragi","Are you interested?");
 MsgDisp("主人公","No way.
 I just thought it was cool.");
 ChEye(5,3);

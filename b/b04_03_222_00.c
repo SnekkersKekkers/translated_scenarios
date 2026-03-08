@@ -30,9 +30,9 @@ wealthy merchant.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040322200_03_020");
-    MsgDisp("Honda","That's right. That's right. The scabbard
-of the sword was made with a style
-depending on the era.");
+    MsgDisp("Honda","That's right. Sword scabbards were
+actually made as fashion items depending
+on the era.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

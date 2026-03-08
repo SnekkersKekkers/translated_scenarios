@@ -7,7 +7,7 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,4,1);
 VoicePlay("B040822101_08_000");
-MsgDisp("Shirahane","the scenery musta been completely
+MsgDisp("Shirahane","The scenery musta been completely
 different to now hundreds of years ago...");
 MsgSel("It might change 10 years later too?","Maybe some relics still remain?","I can feel the flow of history.");
 switch (MsgSelRsltGet()){

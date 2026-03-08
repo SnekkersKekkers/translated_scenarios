@@ -13,7 +13,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C30101_07_000");
 MsgDisp("Mikage","It feels like you can get whatever you
-wanted here.");
+want here.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

@@ -11,7 +11,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B150600200_06_010");
 MsgDisp("Himuro","I told you it was fine to touch me in
-moderation right?");
+moderation, right?");
 MsgDisp("主人公","Ah...");
 ChEye(6,0);
 ChMouth(6,0);

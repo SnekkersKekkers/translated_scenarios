@@ -22,8 +22,8 @@ I'll go on a separate cup to you.");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040323400_03_020");
-    MsgDisp("Honda","Yes, thanks to you, I've realized that my
-ear canals are sensitive.");
+    MsgDisp("Honda","Yeah, thanks to you, I've realized that my
+inner ear is sensitive.");
     MsgDateResultDisp();
     break ;
     case 2:

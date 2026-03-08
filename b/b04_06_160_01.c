@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,1);
     VoicePlay("B040616001_06_010");
     MsgDisp("Himuro","Then, look forward to it.
-It'll be present for you.");
+It'll be a present for you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

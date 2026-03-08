@@ -25,13 +25,12 @@ VoicePlay("B150400300_04_040");
 MsgDisp("Nanatsumori","Yeah, that's even worse.
 It's just provoking meー.");
 MsgDisp("主人公","Ugh...
-｛Nanatsumori＊｝, you're different to usual?");
+｛Nanatsumori＊｝, you're different from usual?");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B150400300_04_050");
-MsgDisp("Nanatsumori","Even you're acting differently to usual
-too?
+MsgDisp("Nanatsumori","You're acting differently from usual too.
 You don't do things like that at school.");
 ChEye(4,2);
 ChMouth(4,4);

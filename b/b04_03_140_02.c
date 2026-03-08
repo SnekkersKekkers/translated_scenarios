@@ -89,7 +89,7 @@ Maybe your sister got bored of it?");
         MsgDisp("Honda","That's right, my sister's interests change
 quickly, and by the time I finish my
 research and analysis, she's already bored
-of me.");
+of it.");
         ChSet(3,4);
         VoicePlay("B040314002_03_090");
         MsgDisp("Honda","...What about you?
@@ -105,11 +105,11 @@ I was worried.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040314002_03_110");
-        MsgDisp("Honda","About you saying that you were already
-bored of me....");
-        MsgDisp("主人公","｛Honda＊＊｝ is always teaching me lots of
-different things, I couldn't think such a
-thing?");
+        MsgDisp("Honda","If you ever told me you were bored of
+me...");
+        MsgDisp("主人公","｛Honda＊＊｝ is always teaching me fun new
+things, so I don't think that would
+happen.");
         ChMouth(3,4);
         VoicePlay("B040314002_03_120");
         MsgDisp("Honda","Always?");
@@ -119,8 +119,8 @@ thing?");
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040314002_03_130");
-        MsgDisp("Honda","Always, huh? ー.
-Forever with you huh? ー.
+        MsgDisp("Honda","Always, huhー.
+Just the two of us, foreverー.
 Yeah, this is the best!");
         MsgDisp("主人公","(...Hm?
 Is he happy with some other meaning?)");

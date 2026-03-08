@@ -18,7 +18,7 @@ ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B070600001_06_190");
 MsgDisp("Himuro","...Even more so when you're involved.");
-MsgDisp("主人公","eh?");
+MsgDisp("主人公","Eh?");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,2);

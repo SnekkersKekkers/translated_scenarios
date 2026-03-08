@@ -66,8 +66,8 @@ Then it's the same for me.");
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("B040408302_04_070");
-        MsgDisp("Nanatsumori","But, when I'm here, I have that feeling as
-much as I feel fear.");
+        MsgDisp("Nanatsumori","But here, the fear is just as strong as
+that feeling.");
         MsgDisp("主人公","Fear?");
         ChMotion(4,0,1);
         VoicePlay("B040408302_04_080");

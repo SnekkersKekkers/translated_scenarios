@@ -52,7 +52,7 @@ depending on the individual.");
         MsgDisp("Shirahane","Ah...that's right. When it comes to
 heirlooms, each one of those families have
 an individual sense of what's valuable.");
-        MsgDisp("主人公","That's right. by the way, does
+        MsgDisp("主人公","That's right. By the way, does
 ｛Daichi＊＊｝ have his own treasures?");
         ChEye(8,4);
         ChMouth(8,4);

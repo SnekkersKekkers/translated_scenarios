@@ -5,7 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040722200_07_000");
-MsgDisp("Mikage","This is a safe bet for a class field trip
+MsgDisp("Mikage","This is a safe bet for a class field trip,
 right?");
 MsgSel("Ah, looks like there's a new exhibition!","It's not typical of ｛Mikage＊＊｝.","I would prefer a more fun place...");
 switch (MsgSelRsltGet()){

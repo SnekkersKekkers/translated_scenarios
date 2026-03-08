@@ -38,8 +38,8 @@ It must be wonderful.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040710400_07_030");
-    MsgDisp("Mikage","I wonder where in that small body do they
-have all that energy?");
+    MsgDisp("Mikage","Where do they store all that energy in
+such a small body?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

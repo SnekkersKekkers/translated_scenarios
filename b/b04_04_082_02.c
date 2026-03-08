@@ -42,7 +42,7 @@ It's not stuck to me, is it∋");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040408202_04_030");
-        MsgDisp("Nanatsumori","You don't care about people's feelings...");
+        MsgDisp("Nanatsumori","You have no idea how I feel...");
         MsgDateResultDisp();
         break ;
         case 4:

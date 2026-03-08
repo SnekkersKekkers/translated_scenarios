@@ -74,7 +74,7 @@ ChMotion(7,3);
 VoicePlay("B330C10600_07_020");
 MsgDisp("Mikage","I see.
 I think I was watching it from the boy's
-parents perspective.");
+parents' perspective.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -101,8 +101,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10600_07_030");
 MsgDisp("Mikage","As expected of Yanosuke. So that's what it
-means someone says \"It's a movie you can
-watch over and over again.\"");
+means when someone says \"It's a movie you
+can watch over and over again.\"");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

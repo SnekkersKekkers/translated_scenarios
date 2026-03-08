@@ -24,8 +24,8 @@ They look so alike after all.");
     ChMotion(4,3);
     VoicePlay("B040402101_04_020");
     MsgDisp("Nanatsumori","Hmmm?
-Then, explain your reasoning in 20
-characters or less.");
+Then, explain your reasoning in 20 words
+or less.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -83,7 +83,7 @@ want to become one.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040621302_06_080");
-        MsgDisp("Himuro","There are less things you can do as an
+        MsgDisp("Himuro","There are fewer things you can do as an
 animal.");
         ChEye(6,0);
         ChMouth(6,0);

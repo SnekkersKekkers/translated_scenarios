@@ -34,7 +34,7 @@ covered in snow!");
         ChMotion(3,1);
         VoicePlay("B040308502_03_020");
         MsgDisp("Honda","That's right.
-But I liked today's landscape too.");
+But I like today's scenery too.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -64,15 +64,14 @@ the supercomputers are very accurate, even
 down to the area.");
         ChSet(3,3);
         VoicePlay("B040308502_03_060");
-        MsgDisp("Honda","Look, a scenery just as you hoped for has
-appeared.");
+        MsgDisp("Honda","See? You got the scenery you were hoping
+for.");
         MsgDisp("主人公","Yeah, ｛Honda＊＊｝ thank you.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040308502_03_070");
-        MsgDisp("Honda","You shouldn't be saying that to me, but
-the supercomputer.");
+        MsgDisp("Honda","Don't thank me, thank the supercomputer.");
         MsgDisp("主人公","Hehe.");
         ChEye(3,4);
         ChMouth(3,0);

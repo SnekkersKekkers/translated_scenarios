@@ -47,7 +47,7 @@ your glasses with that hairstyle, right?");
 StlEyeOpenLevel(4,0,1);
 VoicePlay("B050400200_04_040");
 MsgDisp("Nanatsumori","That's right.
-I'll never take it off at school.");
+I'd never take them off at school.");
 MsgDisp("主人公","Yeah.
 ｛Nanatsumori＊｝ is super cool even now.");
 StlEye(4,1);

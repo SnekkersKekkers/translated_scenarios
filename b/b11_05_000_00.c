@@ -88,7 +88,7 @@ ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("B110500000_05_040");
-MsgDisp("Hiiragi","More Importantly, I apologize.
+MsgDisp("Hiiragi","More importantly, I apologize.
 It was because I was late that you had to
 face this scary situation.");
 MsgDisp("主人公","No.

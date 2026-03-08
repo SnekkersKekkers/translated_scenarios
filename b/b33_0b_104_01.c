@@ -51,7 +51,7 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B330B10401_01_020");
-MsgDisp("Kazama","Wait wait, why are you guys the only one
+MsgDisp("Kazama","Wait wait, why are you guys the only ones
 hearing something?");
 ChEye(3,0);
 ChMouth(3,0);

@@ -14,8 +14,8 @@ VoicePlay("B070100002_01_080");
 MsgDisp("Kazama","Despite how he looks, he's got a sweet
 tooth.
 Not that I dislike it either.");
-MsgDisp("主人公","｛Kazama＊＊｝ and ｛Nanatsumori＊｝ talks
-about sweets huh?
+MsgDisp("主人公","｛Kazama＊＊｝ and ｛Nanatsumori＊｝ talk
+about sweets together huh?
 That's kind of cute.");
 ChEye(1,0);
 ChMouth(1,1);

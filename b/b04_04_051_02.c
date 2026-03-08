@@ -79,7 +79,7 @@ focus on the commentary.");
         ChEyeOpenLevel(4,0);
         VoicePlay("B040405102_04_070");
         MsgDisp("Nanatsumori","In the dim light of the starry sky, the
-romantic stories of constellations tickles
+romantic stories of constellations tickle
 my ears.");
         MsgDisp("主人公","Yeah...");
         VoicePlay("B040405102_04_080");

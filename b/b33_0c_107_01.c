@@ -34,7 +34,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10701_05_010");
-MsgDisp("Hiiragi","It seems as there weren't many of them,
+MsgDisp("Hiiragi","It seems like there weren't many of them,
 but we were lucky.");
 MsgDisp("主人公","Thanks to that, we all rode together.");
 ChEye(6,0);

@@ -41,8 +41,8 @@ MsgDisp("Honda","Elementary schools get to teach all
 subjects, right? Japanese, Mathematics,
 Science, Social Studies∈");
 MsgDisp("主人公","That makes sense. You know so many
-｛Honda＊＊｝ different things, so it's
-perfect for you, ｛Honda＊＊｝.");
+different things, so it's perfect for you,
+｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

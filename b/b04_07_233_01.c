@@ -26,7 +26,7 @@ You didn't look like you loved it.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040723301_07_020");
-    MsgDisp("Mikage","there's no point in both of us suffering,
+    MsgDisp("Mikage","There's no point in both of us suffering,
 right?");
     MsgDateResultDisp();
     break ;

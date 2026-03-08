@@ -95,7 +95,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C10401_06_040");
-MsgDisp("Himuro","Ha? what are you saying?
+MsgDisp("Himuro","Ha? What are you saying?
 Let's go to the gazebo.");
 MsgClose();
 SEPlay("EV_SE_626");
@@ -146,7 +146,7 @@ ChMotion(7,2);
 VoicePlay("B330C10401_07_060");
 MsgDisp("Mikage","You were holding it in, Inori.
 Should I pretend I didn't hear you?");
-MsgDisp("主人公","(Hehe, holding in yawn is typical of
+MsgDisp("主人公","(Hehe, holding in a yawn is typical of
 ｛Himuro＊＊｝ isn't it?)");
 BGMStop();
 MsgClose();

@@ -116,7 +116,7 @@ What am I saying～∋");
         ChMotion(3,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308402_03_130");
-        MsgDisp("Honda","Sorry, forget about just now∈");
+        MsgDisp("Honda","Sorry, forget what I just said∈");
         MsgDisp("主人公","(｛Honda＊＊｝, what were you saying?)");
         break ;
         default :
@@ -130,8 +130,8 @@ What am I saying～∋");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040308402_03_140");
-    MsgDisp("Honda","They're nice huhー, burning autumn leaves.
-I also love them.");
+    MsgDisp("Honda","Leaf bonfires are nice, huhー.
+I love them too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

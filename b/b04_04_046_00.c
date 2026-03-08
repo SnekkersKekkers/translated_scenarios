@@ -21,9 +21,9 @@ My piano knowledge isn't the best.
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("B040404600_04_010");
-    MsgDisp("Nanatsumori","The pianist playing has elegantly mastered
-the piano; I understood that part very
-well. And, he's an alumnus of our school.");
+    MsgDisp("Nanatsumori","I could tell the pianist was an elegant
+master of the piano. Also, he's an alumnus
+of our school.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

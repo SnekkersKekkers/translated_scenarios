@@ -95,7 +95,8 @@ Ah, I saw Habataki Castle!");
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040723202_07_090");
-        MsgDisp("Mikage","O-Oh. don't stand up～");
+        MsgDisp("Mikage","O-Oh.
+Don't stand up～");
         MsgDisp("主人公","｛Mikage＊＊｝ and Hanegasaki beach too!");
         ChEye(7,1);
         ChMouth(7,3);

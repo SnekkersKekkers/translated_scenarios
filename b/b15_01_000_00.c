@@ -34,7 +34,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B150100000_01_030");
-MsgDisp("Kazama","But, you're the other party so It's
+MsgDisp("Kazama","But, you're the other party so it's
 troubling that I can't deal with you
 normally.");
 MsgDisp("主人公","Eh, why?");

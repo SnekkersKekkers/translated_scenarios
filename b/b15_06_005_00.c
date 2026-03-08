@@ -31,7 +31,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600500_06_040");
-MsgDisp("Himuro","That's why I need you to confirm one thing");
+MsgDisp("Himuro","That's why I need you to confirm one 
+thing.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

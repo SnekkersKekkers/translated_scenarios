@@ -5,7 +5,7 @@ ChMotion(1,0,1);
 VoicePlay("B070100000_01_060");
 MsgDisp("Kazama","Soba I guess.
 Since I came back, my love for soba
-noodles have been rekindled.");
+noodles has been rekindled.");
 MsgDisp("主人公","Soba is delicious isn't it?");
 ChEye(1,4);
 ChMouth(1,3);

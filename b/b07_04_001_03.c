@@ -60,7 +60,7 @@ ChMotion(4,0,1);
 VoicePlay("B070400001_04_250");
 MsgDisp("Nanatsumori","Everyone just ignores my bothersome
 secrets.
-In a good way");
+In a good way.");
 VoicePlay("B070400001_04_260");
 MsgDisp("Nanatsumori","That's why, now...
 Every day is so fulfilling, really.");

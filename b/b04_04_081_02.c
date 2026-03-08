@@ -95,8 +95,8 @@ us high schoolers?");
         ChMotion(4,0,1);
         VoicePlay("B040408102_04_090");
         MsgDisp("Nanatsumori","Really.
-You might even get taken in by the police
-for protection.");
+We might even get stopped by the police
+for being out too late.");
         MsgDisp("主人公","Ah...
 That's true.");
         ChEye(4,4);

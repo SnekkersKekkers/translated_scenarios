@@ -45,7 +45,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B050400000_47_000");
 MsgDisp("Woman Customer A","Hey hey, over there.
-Is that Nana?");
+Is that NANA?");
 VoicePlay("B050400000_48_000");
 MsgDisp("Woman Customer B","Eh, seriously?
 Doesn't it look like he's with a girl?");
@@ -105,15 +105,15 @@ MsgDisp("Woman Customer B","Eh, seriously∋
 They're super lovey-dovey!");
 VoicePlay("B050400000_47_020");
 MsgDisp("Woman Customer A","I don't believe it...
-I mean that's really Nana isn't it.");
+I mean that's really NANA isn't it.");
 VoicePlay("B050400000_48_020");
 MsgDisp("Woman Customer B","But it's kinda suspicious.
 If he was the real deal, he wouldn't stand
 like thatー.");
 VoicePlay("B050400000_47_030");
-MsgDisp("Woman Customer A","Got it, he's Nana's fan!
+MsgDisp("Woman Customer A","Got it, he's NANA's fan!
 There are quite a lot of guys who copy
-Nana's hairstyle and fashion right?");
+NANA's hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
 MsgDisp("Woman Customer B","That's right.
 Ahー That scared meー!");

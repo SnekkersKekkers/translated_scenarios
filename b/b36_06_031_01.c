@@ -54,7 +54,7 @@ VoicePlay("B360603101_06_060");
 MsgDisp("Himuro","...But I don't want to be the kind of
 person that's so insensitive to say
 something like that.");
-MsgDisp("主人公","...｛Himuro＊＊｝ did you not have enjoy?");
+MsgDisp("主人公","...｛Himuro＊＊｝, did you not enjoy it?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,5);

@@ -81,7 +81,7 @@ ChMotion(1,0,1);
 VoicePlay("B330A10101_01_020");
 MsgDisp("Kazama","No, you're not supposed to move around in
 these sorts of clothes.
-You know that much right?");
+You know that much, right?");
 MsgDisp("主人公","Eh?
 Why?");
 ChMouth(1,2);

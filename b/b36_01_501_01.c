@@ -82,7 +82,7 @@ can I?");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hehe.");
 MsgDisp("主人公","(It's like searching for memories with
-｛Kazama＊＊｝, It's kind of fun.)");
+｛Kazama＊＊｝. It's kind of fun.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

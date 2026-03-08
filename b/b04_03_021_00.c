@@ -38,9 +38,8 @@ might mistakenly ingest them.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040302100_03_030");
-    MsgDisp("Honda","Mm-hmm. Shall we both look out for the
-charm of this place that others might have
-overlooked?");
+    MsgDisp("Honda","Mm-hmm. Let's try to find hidden charms
+that others might have overlooked!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

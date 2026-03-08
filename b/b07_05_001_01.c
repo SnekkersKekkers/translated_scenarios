@@ -3,7 +3,7 @@ MsgDisp("主人公","Recently you've been getting along with
 ChMotion(5,4);
 VoicePlay("B070500001_05_010");
 MsgDisp("Hiiragi","Does it appear that way to you?
-It's thanks to Inori-kun");
+It's thanks to Inori-kun.");
 MsgDisp("主人公","｛Himuro＊＊｝?");
 VoicePlay("B070500001_05_020");
 MsgDisp("Hiiragi","Right, Inori-kun might be a year below us,

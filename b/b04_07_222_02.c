@@ -6,8 +6,8 @@ ChMotion(7,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040722202_07_000");
-MsgDisp("Mikage","How is it, there are discoveries that you
-wouldn't notice in a textbook right?");
+MsgDisp("Mikage","See? There are discoveries you'd never
+notice in a textbook, right?");
 MsgSel("seems like it would be difficult to control the temperature and humidity","It's surprisingly big for a koban coin.","Thw admission fee is one rich.");
 switch (MsgSelRsltGet()){
     case 0:

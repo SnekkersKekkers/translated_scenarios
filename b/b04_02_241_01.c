@@ -26,8 +26,9 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040224101_02_020");
-    MsgDisp("Sassa","Haha, definitely, something like \"Cute
-Baby Sheep\" would have been better huh?");
+    MsgDisp("Sassa","Haha, definitely, there are better ways to
+say it, like \"Cute Baby Sheep\" or
+something, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

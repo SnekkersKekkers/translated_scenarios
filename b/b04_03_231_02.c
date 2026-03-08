@@ -114,7 +114,7 @@ Come on, let's go!");
         SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
         SEWait();
         ScrFadeIn(0);
-        MsgDisp("主人公","...How was it.");
+        MsgDisp("主人公","...How was it?");
         ChMouth(3,0);
         ChMotion(3,0);
         VoicePlay("B040323102_03_110");

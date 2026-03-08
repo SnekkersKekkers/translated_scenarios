@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(3,0);
     VoicePlay("B040318200_03_000");
     MsgDisp("Honda","Yep yep, it was scaryー!
-It is absurdity that's the best spice,
+Absurdity really is the best spice,
 huh∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

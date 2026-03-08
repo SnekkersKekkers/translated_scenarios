@@ -7,7 +7,7 @@ ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("B130200000_02_000");
 MsgDisp("Sassa","Hey, um, I wasn't peeking.");
-MsgDisp("主人公","What's wrong.");
+MsgDisp("主人公","What's wrong?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);

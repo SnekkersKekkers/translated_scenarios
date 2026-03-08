@@ -103,7 +103,7 @@ been you.");
         VoicePlay("B040302202_03_100");
         MsgDisp("Honda","What?");
         MsgDisp("主人公","(｛Honda＊＊｝...
-I'm happy, but a kind of shy as well.)");
+I'm happy, but kind of shy as well.)");
         break ;
         default :
         DbgAssert(1);

@@ -5,7 +5,7 @@ ChOpen(7,255,1,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150700400_07_000");
 MsgDisp("Mikage","Haha, hey, I can't help but laugh.");
-MsgDisp("主人公","I'm sorry, did I touch you too much.");
+MsgDisp("主人公","I'm sorry, did I touch you too much?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

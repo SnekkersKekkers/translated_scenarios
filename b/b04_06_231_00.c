@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623100_06_000");
-MsgDisp("Himuro","It's been a while since I've rode on this.");
+MsgDisp("Himuro","It's been a while since I've ridden this.");
 MsgSel("That was wonderful! I want to ride it more!","Ugh, that was scary...","I wanted a bit more thrill...");
 switch (MsgSelRsltGet()){
     case 0:

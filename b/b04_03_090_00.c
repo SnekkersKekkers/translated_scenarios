@@ -38,9 +38,9 @@ environment.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040309000_03_030");
-    MsgDisp("Honda","Do you also like them? Venus flytraps that
-is. It's nice how their long eyelashes
-crackle!");
+    MsgDisp("Honda","Do you like them too? Venus flytraps.
+The way their long lashes snap shut is
+so cool!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

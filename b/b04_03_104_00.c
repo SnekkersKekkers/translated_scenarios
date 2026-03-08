@@ -32,8 +32,8 @@ dragonfly——the giant petaltail!");
     ChEyeOpenLevel(3,8);
     VoicePlay("B040310400_03_020");
     MsgDisp("Honda","Is that so?
-They're the great seniors of the earth
-though.");
+But they've been on this earth way longer
+than us.");
     MsgDateResultDisp();
     break ;
     case 2:
