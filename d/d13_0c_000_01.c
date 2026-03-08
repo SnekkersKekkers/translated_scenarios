@@ -95,7 +95,7 @@ BGMStop();
 ChClose(5,0,30);
 ChClose(7,0,30);
 MsgDisp("主人公","(Umm...
-Ah! was everyone fretting over Valentine's
+Ah! Was everyone fretting over Valentine's
 chocolates?)");
 MsgClose();
 ScrFadeOut(0,0);

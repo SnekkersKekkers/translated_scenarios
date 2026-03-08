@@ -32,7 +32,7 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B05102_04_020");
 MsgDisp("Nanatsumori","...You guys sure are quiet.
-Did you not watch it");
+Did you not watch it?");
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B05102_01_000");
 MsgDisp("Kazama","I did not.");
@@ -59,7 +59,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("D140B05102_04_040");
-MsgDisp("Nanatsumori","Shy are you sulking?");
+MsgDisp("Nanatsumori","Why are you sulking?");
 ChSet(3,0,1);
 VoicePlay("D140B05102_03_010");
 MsgDisp("Honda","Ryo-kun, did you actually want to watch

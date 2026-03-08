@@ -46,10 +46,9 @@ without any problems.");
         ChMouth(6,4);
         ChMotion(6,4);
         VoicePlay("B040614002_06_040");
-        MsgDisp("Himuro","That's why you might be surprised when you
-hear the original song. You should
-definitely listen to the original. I'd
-like to know what you think.");
+        MsgDisp("Himuro","You might be surprised when you hear the
+original. You should definitely listen
+to it. I'd like to know what you think.");
         MsgDisp("主人公","Yeah, got it.");
         ChEye(6,0);
         ChMouth(6,4);

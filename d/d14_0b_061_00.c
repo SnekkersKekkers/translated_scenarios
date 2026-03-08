@@ -27,7 +27,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("D140B06100_03_020");
-MsgDisp("Honda","Right? they say love is blind and Ryo-kun
+MsgDisp("Honda","Right? They say love is blind, and Ryo-kun
 has obviously been more conscious of you
 recently.");
 MsgDisp("主人公","That's...");

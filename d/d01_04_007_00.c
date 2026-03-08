@@ -19,7 +19,7 @@ SEWait();
 MsgDisp("主人公","(Ugh...
 I guess I'm a bit burnt out...)");
 VoicePlay("D010400700_04_000");
-MsgDisp("Nanatsumori?","Come here.");
+MsgDisp("Nanatsumori?","Hey.");
 MsgDisp("主人公","...Eh?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

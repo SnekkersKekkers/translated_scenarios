@@ -76,7 +76,7 @@ maintain impartiality.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("D010600200_32_030");
-MsgDisp("VP Himuro","If there aren't anymore questions...
+MsgDisp("VP Himuro","If there aren't any more questions...
 Everyone, take your positions.");
 MsgClose();
 SEPlay("EV_SE_626");

@@ -21,10 +21,9 @@ production.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040618600_06_010");
-    MsgDisp("Himuro","The only thing that was disappointing was
-the fact you could predict what was going
-to happen next. Other than that, it was
-good.");
+    MsgDisp("Himuro","The only disappointing thing was how
+predictable it was. Other than that,
+it was good.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

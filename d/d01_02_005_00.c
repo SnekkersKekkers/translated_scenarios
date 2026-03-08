@@ -2,9 +2,9 @@ BGOpen("sc623",0);
 ChLayout(1);
 BGMPlay("BGM_CLUB_IVENT",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(Today is the senior's final matches.
-Let's try our best so we don't have any
-regrets.)");
+MsgDisp("主人公","(Today is the seniors' final matches.
+I hope they can give it their all without
+any regrets.)");
 MsgClose();
 ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);

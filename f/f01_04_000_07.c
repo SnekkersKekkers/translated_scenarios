@@ -146,7 +146,7 @@ we can do.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("F010400007_04_120");
-        MsgDisp("Nanatsumori","Go ahead, get your stuff done.");
+        MsgDisp("Nanatsumori","When will you be done with—");
         ChEye(4,2);
         ChMouth(4,2);
         ChMotion(4,2,1);

@@ -16,8 +16,8 @@ Well then, let's go.");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("F010300005_03_010");
-    MsgDisp("Honda","Ah, that works!
-Quickly!");
+    MsgDisp("Honda","Oh, that works!
+Let's go, let's go!");
     MsgDisp("主人公","Hehe, okay!");
     break ;
     case 4:

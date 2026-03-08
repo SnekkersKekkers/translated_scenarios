@@ -60,8 +60,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C03100_05_020");
 MsgDisp("Hiiragi","Really?
-I guess my bowl cut looked like a eggplant
-stem.");
+I guess my bowl cut looked like an
+eggplant stem.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

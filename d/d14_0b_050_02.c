@@ -11,7 +11,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChCheek(3,0);
 VoicePlay("D140B05002_03_000");
-MsgDisp("Honda","So, are you guys dating");
+MsgDisp("Honda","So, are you guys dating?");
 ChEye(1,3);
 ChMouth(1,1);
 ChMotion(1,3);

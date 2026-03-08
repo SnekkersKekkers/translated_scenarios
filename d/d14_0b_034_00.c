@@ -19,7 +19,7 @@ MsgDisp("主人公","Yeah.");
 ChMouth(1,0);
 VoicePlay("D140B03400_01_010");
 MsgDisp("Kazama","Wasn't it a cooking class?");
-MsgDisp("主人公","That's right/ We made pound cake.");
+MsgDisp("主人公","That's right. We made pound cake.");
 ChEye(4,3);
 ChMouth(4,4);
 ChMotion(4,5,1);
@@ -62,7 +62,7 @@ ChMotion(1,0);
 VoicePlay("D140B03400_01_030");
 MsgDisp("Kazama","Did you have enough ingredients?");
 MsgDisp("主人公","I calculated the portions for everyone and
-brough a little extra.");
+brought a little extra.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);

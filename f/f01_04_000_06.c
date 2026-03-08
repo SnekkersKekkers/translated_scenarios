@@ -6,8 +6,8 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,0);
     ChMotion(4,2,1);
     VoicePlay("F010400006_04_000");
-    MsgDisp("Nanatsumori","That kind of thing...
-I don't want to do it.");
+    MsgDisp("Nanatsumori","I'm not really in the mood...
+Sorry.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

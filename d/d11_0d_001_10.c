@@ -44,7 +44,7 @@ VoicePlay("D110D00100_21_010");
 MsgDisp("Michiru","These three colors are also beautiful.
 Mari's love has been distributed well and
 they are all in harmony.");
-MsgDisp("主人公","The color of the roses have changed...?");
+MsgDisp("主人公","The colors of the roses have changed...?");
 MsgClose();
 ScrFadeOut(0);
 StlClose();

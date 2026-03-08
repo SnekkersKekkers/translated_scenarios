@@ -6,8 +6,8 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("F010100004_01_000");
-    MsgDisp("Kazama","Not today.
-I have to hurry somewhere today.
+    MsgDisp("Kazama","Sorry.
+I've got something urgent today.
 Maybe another time.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -42,7 +42,7 @@ I'll go home alone today...)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("F010100004_01_030");
-    MsgDisp("Kazama","...are you serious?");
+    MsgDisp("Kazama","...are you doing that on purpose?");
     MsgDisp("主人公","Huh?");
     ChEye(1,2);
     ChMouth(1,2);
@@ -56,7 +56,7 @@ I'll go home alone today...)");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("F010100004_01_050");
-    MsgDisp("Kazama","Huh, you're being surprisingly nonchalant 
+    MsgDisp("Kazama","Huh, you're being surprisingly nonchalant
 about that.");
     MsgDisp("主人公","It can't be helped.
 ｛Kazama＊＊｝ is busy.");

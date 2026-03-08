@@ -21,7 +21,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("D140B06102_03_000");
-MsgDisp("Honda","Then, I'm not eating too.");
+MsgDisp("Honda","Then, I won't eat either.");
 MsgDisp("主人公","Eh∋
 Did something happen to you two?");
 ChEye(3,0);

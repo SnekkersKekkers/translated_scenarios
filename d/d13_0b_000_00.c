@@ -30,7 +30,7 @@ ChEyeOpenLevel(1,0);
 ChMotion(4,1,1);
 VoicePlay("D130B00000_04_010");
 MsgDisp("Nanatsumori","Nah.
-Not us anyways. right, Dahon.");
+Not us anyways. Right, Dahon?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -42,7 +42,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("D140D07040_21_020");
-MsgDisp("Michiru","But, Minori kun at school and at work are
+MsgDisp("Michiru","But, Minoru-kun at school and at work are
 like two completely different people.
 I respect him for that.");
 ChEye(22,3);

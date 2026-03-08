@@ -162,8 +162,8 @@ ChEyeOpenLevel(9,10);
 VoicePlay("D030901700_09_170");
 MsgDisp("Kuya","The next time we meet, it will finally be
 over.");
-MsgDisp("主人公","(Kuya-san...\"
-Be over\"...maybe he means the exam?
+MsgDisp("主人公","(Kuya-san...
+\"Be over\"...maybe he means the exam?
 I have to work hard too.)");
 BGMStop();
 MsgClose();

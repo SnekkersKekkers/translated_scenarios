@@ -35,8 +35,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D010100700_01_010");
-MsgDisp("Kazama","I should be asking you that question.
-You're such a busybody.");
+MsgDisp("Kazama","I should be asking you that.
+You really do pop up everywhere.");
 MsgDisp("主人公","Geez, I'm doing my part-time job for
 Habatcher.");
 ChEye(1,2);

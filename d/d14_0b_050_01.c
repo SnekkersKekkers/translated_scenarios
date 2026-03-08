@@ -12,7 +12,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("D140B05001_03_000");
-MsgDisp("Honda","Today's meal is delicious too today!");
+MsgDisp("Honda","Today's meal is delicious too!");
 MsgDisp("主人公","Yeah!");
 VoicePlay("D140B05001_01_000");
 MsgDisp("Kazama","Suddenly, I don't feel like eating.");

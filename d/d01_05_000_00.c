@@ -55,7 +55,7 @@ MsgDisp("主人公","Eh...
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500000_05_020");
 MsgDisp("Hiiragi","Yes.
-We're just cleaning up the stage.");
+The show just ended.");
 StlMouth(5,1);
 VoicePlay("D010500000_05_030");
 MsgDisp("Hiiragi","And you?");
@@ -63,8 +63,8 @@ MsgDisp("主人公","Oh, me?
 I'm here to do an interview for Habatcher.");
 StlMouth(5,0);
 VoicePlay("D010500000_05_040");
-MsgDisp("Hiiragi","I'm all ears.
-Are you a reporter?");
+MsgDisp("Hiiragi","Ah, I've heard about that.
+You're the reporter?");
 MsgDisp("主人公","Yes!");
 StlEyeOpenLevel(5,0);
 Wait(6,0);

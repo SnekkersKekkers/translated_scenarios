@@ -102,7 +102,7 @@ MsgDisp("Nanatsumori","It's my fault for not contacting her as
 much as I should.
 But isn't it time for her to let it go?");
 MsgDisp("主人公","Hehe.
-She's not being a gentle and nice older
+She sounds like a really sweet older
 sister.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -114,9 +114,9 @@ ChMotion(4,2,1);
 VoicePlay("D010400600_04_130");
 MsgDisp("Nanatsumori","Ahーh.
 When will she finally let it go?");
-MsgDisp("主人公","(Maybe instead of being bothered by
-｛Nanatsumori＊｝, she's actually really
-proud of him?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ doesn't seem that
+bothered, really... I bet she's 
+actually a sister he's proud of?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

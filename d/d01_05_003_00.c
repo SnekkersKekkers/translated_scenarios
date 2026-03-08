@@ -29,7 +29,7 @@ VoicePlay("D010500300_33_020");
 MsgDisp("Theater Member A","We're not cut out to be actors.");
 VoicePlay("D010500300_46_000");
 MsgDisp("Theater Member B","No matter how much we practice, we aren't
-good enough to satisfy the chairman.
+good enough to satisfy the troupe leader.
 We're not enjoying ourselves.");
 VoicePlay("D010500300_05_010");
 MsgDisp("Hiiragi","Why are you giving up so easily?");
@@ -96,9 +96,9 @@ MsgDisp("Hiiragi","...Just a year ago those two smiled and
 told me how much they love the theater.");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("D010500300_05_090");
-MsgDisp("Hiiragi","And now, because of me, they think they
-aren't cut out for it and have given up on
-their dreams. It's not fun for them...");
+MsgDisp("Hiiragi","And yet, being with me made them give up
+on their dreams, saying they're not cut
+out for it... that it's not fun anymore...");
 MsgDisp("主人公","......");
 StlEye(5,0);
 VoicePlay("D010500300_05_100");
@@ -111,7 +111,7 @@ VoicePlay("D010500300_05_110");
 MsgDisp("Hiiragi","Isn't that ironic for a person like me
 whose job it is to convey hope to the
 audience on stage...");
-MsgDisp("Hiiragi","How hilarious it is that I'm the chairman.");
+MsgDisp("Hiiragi","How hilarious that I'm the troupe leader.");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500300_05_120");

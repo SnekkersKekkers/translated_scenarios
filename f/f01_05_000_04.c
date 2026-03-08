@@ -43,7 +43,7 @@ I'll go home alone.)");
     ChMotion(5,1);
     ChEyeOpenLevel(5,0);
     VoicePlay("F010500004_05_030");
-    MsgDisp("Hiiragi","...I can not.");
+    MsgDisp("Hiiragi","...I can't.");
     MsgDisp("主人公","Huh?");
     ChEye(5,2);
     ChMouth(5,4);

@@ -66,7 +66,7 @@ SEWait();
 ChOpen(2,254,3,3,3,#1,#1,0,0);
 VoicePlay("D010200000_02_060");
 MsgDisp("Sassa","Ah, that's my bad.
-My hand slipped!");
+My foot slipped!");
 MsgDisp("主人公","Geez...");
 ChEye(2,3);
 ChMouth(2,3);

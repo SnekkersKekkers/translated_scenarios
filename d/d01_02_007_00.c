@@ -65,7 +65,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_615");
 Wait(60,0);
 MsgDisp("主人公","Good luck!
-It's the final hurdle!");
+It's the last lap!");
 MsgClose();
 ScrFadeOut(0);
 SEStop("EV_SE_615",3);
@@ -106,8 +106,9 @@ MsgClose();
 BGMPlay("BGM_C02_SASSA_I",0.01);
 ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoicePlay("D010200700_02_050");
-MsgDisp("Sassa","In the end, it was a struggle to get first
-place, but I managed to pull through.");
+MsgDisp("Sassa","In the end I ran out of steam and couldn't
+get first place, but at least I made it
+back without collapsing.");
 MsgDisp("主人公","Hehe!
 Yeah, welcome back.");
 MsgClose();

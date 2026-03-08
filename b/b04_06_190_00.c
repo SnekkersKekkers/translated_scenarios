@@ -25,9 +25,8 @@ seeing.");
     ChMotion(6,4);
     VoicePlay("B040619000_06_010");
     MsgDisp("Himuro","That's a fair assessment. The pictures
-looked nice, but the story was lacking. I
-wish they put a little more effort into
-it.");
+looked nice, but the story was lacking.
+I wish they'd put a bit more effort in.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

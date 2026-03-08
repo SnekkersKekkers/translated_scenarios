@@ -40,7 +40,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A06100_06_020");
-MsgDisp("Himuro","Nozome-senpai, be careful.
+MsgDisp("Himuro","Nozomu-senpai, be careful.
 This is a crucial period for those two.");
 MsgDisp("主人公","Eh...?
 Are you talking about ｛Kazama＊＊｝ 's club

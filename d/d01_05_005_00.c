@@ -62,7 +62,7 @@ StlMouth(5,0);
 VoicePlay("D010500500_05_010");
 MsgDisp("Hiiragi","There!
 Look carefully.
-Remember it..");
+Remember it.");
 VoicePlay("D010500500_33_040");
 MsgDisp("Theater Member B","Y-Yes sir!");
 StlEye(5,0);

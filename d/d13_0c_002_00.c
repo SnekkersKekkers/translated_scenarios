@@ -33,8 +33,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D130C00200_05_010");
-MsgDisp("Hiiragi","Yes, well to be more precise; the three of
-us were.");
+MsgDisp("Hiiragi","Yes, well to be more precise, the three
+of us were.");
 MsgDisp("主人公","?");
 ChEye(6,0);
 ChMouth(6,0);

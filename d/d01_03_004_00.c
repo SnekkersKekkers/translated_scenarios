@@ -16,7 +16,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("D010300400_03_010");
 MsgDisp("Honda","｛主人公｝, look look!
-These babies are flying for this first
+These babies are flying for the first
 time!");
 MsgDisp("主人公","Wow, butterflies...!");
 StlEye(3,0);

@@ -15,7 +15,8 @@ ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,3);
 VoicePlay("D010100600_31_010");
-MsgDisp("Goro","Yeah, it's exactly as I thought.");
+MsgDisp("Goro","Yes, you're just the kind of girl I
+thought you were.");
 MsgDisp("主人公","? Uhm, what do you mean...?");
 ChEye(31,0);
 ChMouth(31,0);
@@ -130,8 +131,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100600_01_090");
-MsgDisp("Kazama","Even though it's a charity, they selected
-me, a highschooler of all people.");
+MsgDisp("Kazama","Since it's for charity, they picked a high
+schooler like me to do it.");
 MsgDisp("Kazama","Because my dad used to do this...");
 MsgDisp("主人公","I see.\nWell maybe in the future, ｛Kazama＊＊｝, \nyou can be just like your dad——");
 ChEye(1,0);

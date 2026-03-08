@@ -8,8 +8,8 @@ MsgDisp("主人公","(Will he show up again if there is someone
 in trouble like last time?)");
 MsgDisp("主人公","(But such a convenient thing like that
 definitely won't happen, huh...)");
-MsgDisp("主人公","Sigh...\"
-Kuya\"-san, I wonder where you are?");
+MsgDisp("主人公","Sigh...
+\"Kuya\"-san, I wonder where you are?");
 VoicePlay("D030900300_09_000");
 MsgDisp("Kuya?","You called?");
 MsgDisp("主人公","Eh?");

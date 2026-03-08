@@ -99,9 +99,8 @@ something?)");
     ChMotion(6,4);
     VoicePlay("B040616002_06_090");
     MsgDisp("Himuro","Then, I'll show you how to have fun here.
-There are all sorts of games here,
-there'll definitely be something that
-catches your interest.");
+There are all sorts of games, so there'll
+definitely be something you're into.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

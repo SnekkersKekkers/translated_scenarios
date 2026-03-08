@@ -101,7 +101,7 @@ Let's go!");
 ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("D010400200_04_110");
-MsgDisp("Nanatsumori","Yes ma-am.");
+MsgDisp("Nanatsumori","Yes ma'am.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

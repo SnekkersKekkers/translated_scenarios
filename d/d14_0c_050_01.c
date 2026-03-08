@@ -47,7 +47,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C05001_05_010");
 MsgDisp("Hiiragi","I was talking to Mikage-sensei about how
-you'and Inori-kun have been spending a lot
+you and Inori-kun have been spending a lot
 of time together.");
 ChEye(7,0);
 ChMouth(7,0);

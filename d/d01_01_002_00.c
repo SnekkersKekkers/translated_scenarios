@@ -19,7 +19,7 @@ Under normal circumstances, such a high
 quality cup should be stored properly.");
 VoicePlay("D010100200_34_010");
 MsgDisp("Clerk","Right, right.
-You get it. OK, I'll give it to on 
+You get it. OK, I'll give you a
 discount, only 10 RICH!");
 StlEye(1,1);
 VoicePlay("D010100200_01_010");

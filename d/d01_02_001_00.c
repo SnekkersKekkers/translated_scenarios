@@ -86,7 +86,7 @@ StlMouth(2,0);
 VoicePlay("D010200100_02_030");
 MsgDisp("Sassa","Yep, thank you.");
 VoicePlay("D010200100_47_000");
-MsgDisp("Broadcast","Officiates and athletes please prepare for
+MsgDisp("Broadcast","Officials and athletes, please prepare for
 the closing ceremony.");
 StlEye(2,0);
 StlMouth(2,0);

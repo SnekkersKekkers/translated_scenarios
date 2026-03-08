@@ -46,7 +46,7 @@ Let's go!");
     ChMotion(1,0);
     VoicePlay("F010100005_01_050");
     MsgDisp("Kazama","I get it.
-This way can be good, too.
+These simple moments are nice, too.
 Well, should we go?");
     MsgDisp("主人公","Hehe, yep!");
     break ;

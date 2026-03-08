@@ -121,7 +121,7 @@ MsgDisp("Shirahane","You're praising me too much～
 Saying I'm some popular salesman!");
 MsgDisp("主人公","(Hehe! Customers really seem to love
 ｛Daichi＊＊｝. His popularity is a bit
-different from ｛Kazama＊＊｝'s , though.)");
+different from ｛Kazama＊＊｝'s, though.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

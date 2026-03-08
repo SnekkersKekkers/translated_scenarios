@@ -112,7 +112,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("D010300000_03_120");
-MsgDisp("Honda","Huh, what did I teach you?");
+MsgDisp("Honda","I'll teach you anything you want to know!");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

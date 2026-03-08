@@ -27,9 +27,9 @@ I can't go with you today.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("F010100006_01_020");
-    MsgDisp("Kazama","But, next time?
-I promise.
-When neither of us have any detours.");
+    MsgDisp("Kazama","But, next time? I promise.
+So you go straight home too,
+no detours.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

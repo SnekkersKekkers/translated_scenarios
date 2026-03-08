@@ -37,8 +37,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("D140B03000_04_010");
-MsgDisp("Nanatsumori","There's someone who's eyes glinted as you
-said that.");
+MsgDisp("Nanatsumori","There's someone whose eyes glinted when
+you said that.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

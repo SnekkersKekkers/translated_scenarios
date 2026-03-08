@@ -141,8 +141,8 @@ VoicePlay("D010400100_04_130");
 MsgDisp("Nanatsumori","No...
 There isn't, not anymore.");
 MsgDisp("主人公","Good.
-It was embarrassing so I keep checking to
-see if there's anymore left.");
+Your hand was still reaching out so I
+thought there was a lot more on my face.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);

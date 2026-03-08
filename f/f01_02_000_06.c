@@ -43,7 +43,7 @@ I'll go straight home today.)");
     ChMotion(2,0);
     VoicePlay("F010200006_02_030");
     MsgDisp("Sassa","Sorry, I can't go with you.
-I can't use my pocket money freely.");
+I really need to budget my allowance better...");
     MsgDisp("主人公","Hehe.
 Well, next time.
 When you have a lot of pocket money.");
@@ -52,7 +52,7 @@ When you have a lot of pocket money.");
     ChMotion(2,4);
     VoicePlay("F010200006_02_040");
     MsgDisp("Sassa","Mhm, see you.
-Go home safe.");
+I'll head straight home.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

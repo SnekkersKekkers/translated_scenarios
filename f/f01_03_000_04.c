@@ -36,15 +36,15 @@ I'll go home alone.)");
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("F010300004_03_020");
-    MsgDisp("Honda","Well～
-I already did it～");
+    MsgDisp("Honda","Dah—
+I already made other plans!");
     MsgDisp("主人公","Oh, you already made plans?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("F010300004_03_030");
-    MsgDisp("Honda","Sigh...you'll ask me out again, right?
-Of course, I'll ask you too!");
+    MsgDisp("Honda","Yeah... Hey, make sure to invite me again?
+I'll definitely invite you too!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

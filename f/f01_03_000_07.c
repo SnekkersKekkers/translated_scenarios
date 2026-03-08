@@ -61,7 +61,7 @@ switch (MsgSelRsltGet()){
         ChMouth(3,3);
         ChMotion(3,0);
         VoicePlay("F010300007_03_040");
-        MsgDisp("Honda","Okay～
+        MsgDisp("Honda","Great!
 Let's go!");
         break ;
         case 4:
@@ -77,8 +77,8 @@ So, right to it—");
         ChMouth(3,4);
         ChMotion(3,5);
         VoicePlay("F010300007_03_060");
-        MsgDisp("Honda","Sorry, I got too excited.
-Okay, onward we walk!");
+        MsgDisp("Honda","I got ahead of myself.
+We can talk while we walk!");
         MsgDisp("主人公","Hehe, okay.");
         break ;
         default :
@@ -151,8 +151,8 @@ Well then, I'll just finish my errands～");
         ChMouth(3,4);
         ChMotion(3,5);
         VoicePlay("F010300007_03_120");
-        MsgDisp("Honda","So, don't worry!
-Be careful, later!");
+        MsgDisp("Honda","Dah— never mind!
+Be careful out there, bye!");
         break ;
         default :
         DbgAssert(1);

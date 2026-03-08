@@ -37,7 +37,7 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("D010200800_02_010");
 MsgDisp("Sassa","...I was able to end my high school
-sport's career in success.");
+sports career with no regrets.");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200800_02_020");
@@ -69,8 +69,8 @@ MsgDisp("主人公","Why...?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200800_02_070");
-MsgDisp("Sassa","I'm completely burned out when it comes to
-training for my next goal.");
+MsgDisp("Sassa","I gave it everything I had, and now I'm
+already training toward my next goal.");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);

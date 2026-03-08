@@ -12,7 +12,7 @@ ChMotion(6,7);
 ChCheek(6,0);
 VoicePlay("D140C05102_07_000");
 MsgDisp("Mikage","Let's do a rotation of vegetable,
-vegetanlle, meat, then vegetable?");
+vegetable, meat, then vegetable?");
 MsgDisp("主人公","Hehe, it's mostly just vegetables isn't
 it?");
 ChEye(6,0);

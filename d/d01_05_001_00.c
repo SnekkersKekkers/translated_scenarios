@@ -39,7 +39,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("D010500100_05_020");
 MsgDisp("Hiiragi","I usually do not get hungry when I have
 business to attend to.
-Well then——");
+Now if you'll excuse me——");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -71,8 +71,8 @@ MsgDisp("主人公","｛Hiiragi＊＊＊｝, why don't you eat properly?");
 StlEye(5,1);
 StlMouth(5,0);
 VoicePlay("D010500100_05_060");
-MsgDisp("Hiiragi","When I'm busy I cannot just stop what I am
-doing to eat.");
+MsgDisp("Hiiragi","When I'm busy, eating just feels like
+too much trouble.");
 StlEye(5,0);
 StlMouth(5,0);
 MsgDisp("主人公","That kind of thing is a big no-no.

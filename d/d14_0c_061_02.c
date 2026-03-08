@@ -48,7 +48,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C06102_06_030");
 MsgDisp("Himuro","Recently you've been spending more time
-with kojiro-sensei, haven't you?");
+with Kojiro-sensei, haven't you?");
 MsgDisp("主人公","Umm...");
 ChEye(5,4);
 ChMouth(5,4);

@@ -6,9 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040622202_06_000");
-MsgDisp("Himuro","You frequently visit here; is this you
-embodying the ethos of \"Learning new
-things from the old?\"");
+MsgDisp("Himuro","You visit so often; embodying the ethos
+of \"Learning new things from the old?\"");
 MsgSel("Uhmm....?","That's exactly it!","Do you need a reason for everything?");
 switch (MsgSelRsltGet()){
     case 0:

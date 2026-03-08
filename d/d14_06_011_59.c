@@ -4,7 +4,7 @@ ChMotion(6,5);
 VoicePlay("D140601159_06_000");
 MsgDisp("Himuro","No, why did you get the same thing∋
 Don't you see how much there is?
-I can't eat of this by myself.");
+I can't eat all of this by myself.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

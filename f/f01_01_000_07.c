@@ -85,7 +85,7 @@ different classes.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("F010100007_01_050");
-    MsgDisp("Kazama","Well, should we go home?");
+    MsgDisp("Kazama","So, are we walking home together?");
     MsgSel("Sure, let's go together.","How about a cafe?","Sorry, I'm busy.");
     switch (MsgSelRsltGet()){
         case 0:

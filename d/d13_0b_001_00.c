@@ -77,7 +77,7 @@ MsgDisp("Kazama","Alright!
 I guessed correctly!");
 ChMotion(4,1,1);
 VoicePlay("D130B00100_04_020");
-MsgDisp("Nanatsumori","well, it couldn't be helped.
+MsgDisp("Nanatsumori","Well, it couldn't be helped.
 I wanted to pick that one too.");
 ChEyeOpenLevel(1,0);
 ChEye(3,4);

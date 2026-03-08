@@ -13,6 +13,6 @@ MsgDisp("主人公","(...It's from ｛Himuro＊＊｝!)");
 MsgDisp("主人公","\"I didn't think it would actually be made
 into an article.
 I'll keep an eye on it.\")");
-MsgDisp("主人公","Hehe, looks like he read it right away!
+MsgDisp("主人公","(Hehe, looks like he read it right away!
 Let's keep working hard!)");
 MsgClose();

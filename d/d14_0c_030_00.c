@@ -26,7 +26,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("D140C03000_05_000");
-MsgDisp("Hiiragi","I eat with my family an d the theater
+MsgDisp("Hiiragi","I eat with my family and the theater
 troupe.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -56,7 +56,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C03000_05_020");
 MsgDisp("Hiiragi","Yes, definitely.
-It's always lively around Mikage-sensei..");
+It's always lively around Mikage-sensei.");
 MsgDisp("主人公","Yeah, it always looks like fun.");
 ChEye(7,0);
 ChMouth(7,0);

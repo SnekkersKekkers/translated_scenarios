@@ -38,15 +38,15 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100800_01_030");
-MsgDisp("Kazama","You can make your wish now.");
+MsgDisp("Kazama","We don't need wishes anymore.");
 MsgDisp("主人公","Eh?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100800_01_040");
-MsgDisp("Kazama","For me, I wish that I'm no longer such a
-child that has to obey the demands of my
-parents.");
+MsgDisp("Kazama","I'm not a kid anymore who has no choice
+but to go along with whatever my parents
+decide.");
 SEPlay("EV_SE_022",0.5);
 Wait(30,0);
 ChEye(1,3);

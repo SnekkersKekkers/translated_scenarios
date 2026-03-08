@@ -5,7 +5,7 @@ ChMotion(22,0,1);
 VoicePlay("D140D07091_22_000");
 MsgDisp("Hikaru","Mari, there's something I'd like to ask
 you about.");
-MsgDisp("主人公","What is it??");
+MsgDisp("主人公","What is it?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);

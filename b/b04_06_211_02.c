@@ -110,9 +110,8 @@ We're siblings after all.");
     ChMotion(6,0);
     VoicePlay("B040621102_06_110");
     MsgDisp("Himuro","Hmm, is this what they mean by maternal
-instincts? To be able to unconditionally
-think a kid is adorable...it's amazing.
-No, I mean it in a good way.");
+instincts? Unconditionally finding a kid
+adorable... that's amazing. In a good way.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

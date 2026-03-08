@@ -10,7 +10,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D130C00000_07_000");
-MsgDisp("Mikage","Oh, she's coming-.");
+MsgDisp("Mikage","Oh, she's coming.");
 MsgDisp("主人公","What's up?");
 ChEye(7,0);
 ChMouth(7,4);

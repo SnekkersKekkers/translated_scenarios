@@ -10,8 +10,8 @@ switch (ChPrmGet(5,6)){
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,254,4,4,4,#1,#1,0,0);
     VoicePlay("F010500007_05_000");
-    MsgDisp("Hiiragi","Somehow, I had a feeling you would come.
-When I was just standing there.");
+    MsgDisp("Hiiragi","I had a feeling you would come,
+so I was just standing here waiting.");
     MsgDisp("主人公","Oh, how cool!");
     ChEye(5,0);
     ChMotion(5,0);
