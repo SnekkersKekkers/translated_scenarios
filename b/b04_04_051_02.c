@@ -64,7 +64,7 @@ after all.");
         ChCheek(4,8);
         VoicePlay("B040405102_04_050");
         MsgDisp("Nanatsumori","Actually, it'll be pretty bad if I don't
-focus on the commentary");
+focus on the commentary.");
         MsgDisp("主人公","Why?");
         ChEye(4,0);
         ChMouth(4,0);
@@ -92,7 +92,7 @@ coincides with our own.");
         MsgDisp("主人公","Yeah...");
         ChEye(4,0);
         VoicePlay("B040405102_04_100");
-        MsgDisp("Nanatsumori","In that dream like state, I look over next
+        MsgDisp("Nanatsumori","In that dream-like state, I look over next
 to me...");
         MsgDisp("主人公","Yeah...
 Hm?");

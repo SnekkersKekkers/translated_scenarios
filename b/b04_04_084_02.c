@@ -30,7 +30,7 @@ The sky is high.");
         ChMotion(4,2,1);
         VoicePlay("B040408402_04_020");
         MsgDisp("Nanatsumori","I won't do that.
-Feel free to by yourself?");
+Feel free to go by yourself.");
         MsgDateResultDisp();
         break ;
         case 4:

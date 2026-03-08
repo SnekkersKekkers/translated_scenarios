@@ -32,8 +32,8 @@ There's a disquieting feeling to it.");
     ChMotion(5,2);
     VoicePlay("B040509002_05_020");
     MsgDisp("Hiiragi","Apparently it's a survival strategy that
-focuses on moths. There's something to be
-learnt from that way of thinking...");
+targets moths. There's something to be
+learned from that way of thinking...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

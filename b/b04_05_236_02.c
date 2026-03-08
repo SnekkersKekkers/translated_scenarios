@@ -36,7 +36,7 @@ kid, so now I'm having fun.");
     VoicePlay("B040523602_05_020");
     MsgDisp("Hiiragi","Haha, understood.
 So you're saying not to think about it too
-logically");
+logically.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -98,7 +98,7 @@ this situation.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523602_05_090");
-        MsgDisp("Hiiragi","Look. even that tuna over there is
+        MsgDisp("Hiiragi","Look. Even that tuna over there is
 smiling.");
         ChMouth(5,3);
         ChMotion(5,0);

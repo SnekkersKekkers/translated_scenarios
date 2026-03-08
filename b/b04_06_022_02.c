@@ -85,7 +85,7 @@ Then, I'll give you 30 seconds.");
         ChMotion(6,0);
         VoicePlay("B040602202_06_100");
         MsgDisp("Himuro","I'll set this as homework.
-Submit it next time");
+Submit it next time.");
         MsgDisp("主人公","Submit∋");
         ChEye(6,0);
         ChMouth(6,1);

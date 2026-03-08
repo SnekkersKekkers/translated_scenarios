@@ -26,7 +26,7 @@ But don't put me through this anymore.
 Yeah?");
 MsgDisp("主人公","Yeah, thanks!");
 VoicePlay("C010100000_01_050");
-MsgDisp("Kazama","Aa, later.");
+MsgDisp("Kazama","Yeah, see ya.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Thank goodness...

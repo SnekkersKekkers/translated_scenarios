@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040515101_05_000");
 MsgDisp("Hiiragi","I see.
 So even people with weak skills can get
-good scores");
+good scores.");
 MsgSel("There are skilled women players, after all!","But it's still about strength, right?","Shall we take a lesson together?");
 switch (MsgSelRsltGet()){
     case 0:

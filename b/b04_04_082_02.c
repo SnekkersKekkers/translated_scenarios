@@ -54,7 +54,7 @@ It's not stuck to me, is it∋");
         VoicePlay("B040408202_04_040");
         MsgDisp("Nanatsumori","It can't be helped.
 I'm not good with bugs.");
-        MsgDisp("主人公","I see. why do you dislike bugs?");
+        MsgDisp("主人公","I see. Why do you dislike bugs?");
         ChEye(4,1);
         ChMouth(4,1);
         ChEyeOpenLevel(4,0);

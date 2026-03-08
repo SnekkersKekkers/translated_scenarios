@@ -67,8 +67,8 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_090");
-MsgDisp("Nanatsumori","That's why, your hand.
-Let me hold them.");
+MsgDisp("Nanatsumori","So, your hand.
+Let me hold it.");
 SEPlay("EV_SE_504");
 SEWait();
 VoicePlay("B040406402_04_100");
@@ -97,8 +97,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_120");
 MsgDisp("Nanatsumori","...There, got it off.
-I wonder if this is how Fathers with
-daughters feelー...");
+I wonder if this is how fathers with
+daughters feel...");
 MsgDisp("主人公","Ah, you're treating me like a child!");
 ChEye(4,4);
 ChMouth(4,3);

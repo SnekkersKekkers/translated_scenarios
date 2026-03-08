@@ -27,7 +27,7 @@ You're not getting quite enough exercise.");
     VoicePlay("B040222101_02_020");
     MsgDisp("Sassa","Oh, as expected of you!
 But, the descent is quite hard on your
-legs too, so lets conserve our energy.");
+legs too, so let's conserve our energy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

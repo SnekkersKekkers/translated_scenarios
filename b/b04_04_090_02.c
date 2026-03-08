@@ -55,7 +55,7 @@ lively changes all the more interesting.");
         VoicePlay("B040409002_04_050");
         MsgDisp("Nanatsumori","Maybe it's my own ego that forces changes
 that are not wanted.");
-        MsgDisp("主人公","that's not...");
+        MsgDisp("主人公","That's not...");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);

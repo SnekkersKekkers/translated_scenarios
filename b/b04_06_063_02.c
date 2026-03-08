@@ -5,7 +5,7 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606302_06_000");
-MsgDisp("Himuro","...With this little people around, I can
+MsgDisp("Himuro","...With this few people around, I can
 once again feel just how vast the ocean
 is.");
 MsgSel("Really?","...Is it okay if I got a little closer?","Then, let's make some noise!");

@@ -47,7 +47,7 @@ they're not going out...");
         VoicePlay("B040402302_04_050");
         MsgDisp("Nanatsumori","No, no, how did it come to that∋
 Are you...not bothered?");
-        MsgDisp("主人公","eh.
+        MsgDisp("主人公","Eh.
 I...");
         ChEye(4,0);
         ChMouth(4,2);

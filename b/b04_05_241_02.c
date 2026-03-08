@@ -87,8 +87,8 @@ and delicious experience.");
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040524102_05_100");
-        MsgDisp("Hiiragi","You should try everything once. we're the
-only ones who did it twice right?");
+        MsgDisp("Hiiragi","You should try everything once. We're the
+only ones who did it twice, right?");
         MsgDisp("主人公","Yeah.
 Thanks to that, we might have gotten a bit
 better at milking.");

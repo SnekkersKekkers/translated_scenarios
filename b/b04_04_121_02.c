@@ -54,10 +54,10 @@ excited!");
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_040");
         MsgDisp("Nanatsumori","Ah...that reminds me. Do you remember the
-store selling silver accessories we saw
-while passing by earlier?");
+silver accessories shop we spotted while
+walking past earlier?");
         MsgDisp("主人公","Silver accessories?
-Ah, the shop with queue and a cool
+Ah, the shop with a queue and a cool
 salesperson?");
         ChEye(4,0);
         ChMouth(4,3);
@@ -72,7 +72,7 @@ Didn't you notice?");
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_060");
         MsgDisp("Nanatsumori","Well...that's fine.
-That person's silver accessories has a
+That person's silver accessories have a
 warmth to them.");
         ChEye(4,4);
         ChMouth(4,4);

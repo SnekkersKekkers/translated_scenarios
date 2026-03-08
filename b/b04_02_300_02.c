@@ -102,7 +102,7 @@ in?");
         VoicePlay("B040230002_02_100");
         MsgDisp("Sassa","Why are you both getting flustered?
 You make a good combination you know?");
-        MsgDisp("主人公","Me and ｛Sassa＊＊｝'s mom?");
+        MsgDisp("主人公","｛Sassa＊＊｝'s mom and me?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);

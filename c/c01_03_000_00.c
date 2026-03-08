@@ -28,7 +28,7 @@ I was running away from you.");
 MsgDisp("主人公","No, I'm the one who...");
 VoicePlay("C010300000_03_040");
 MsgDisp("Honda","Then, this conversation's over!
-Next time, let's have a more enjoyable
+Next time, let's have a more meaningful
 chat, yeah?");
 VoicePlay("C010300000_03_050");
 MsgDisp("Honda","Then...

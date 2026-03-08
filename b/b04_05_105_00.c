@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMouth(5,3);
 VoicePlay("B040510500_05_000");
 MsgDisp("Hiiragi","Say, what can you perceive?
-I feel like contemporary art tests you");
+I feel like contemporary art tests you.");
 MsgSel("Seems difficult...","Isn't it fine to just enjoy it?","What do I do if I feel nothing?");
 switch (MsgSelRsltGet()){
     case 0:

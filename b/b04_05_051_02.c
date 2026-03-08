@@ -56,7 +56,7 @@ also your comfortable sleeping face.");
         VoicePlay("B040505102_05_050");
         MsgDisp("Hiiragi","Yes, I saw.");
         MsgDisp("主人公","Hey...
-You should have woke me.");
+You should have woken me up.");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,0);

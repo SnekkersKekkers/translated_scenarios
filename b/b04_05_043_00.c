@@ -32,7 +32,7 @@ you like to come here again?");
     ChEye(5,4);
     ChMouth(5,0);
     VoicePlay("B040504300_05_020");
-    MsgDisp("Hiiragi","That's a honest opinion.
+    MsgDisp("Hiiragi","That's an honest opinion.
 Please tell me why you thought that way.");
     MsgDateResultDisp();
     break ;

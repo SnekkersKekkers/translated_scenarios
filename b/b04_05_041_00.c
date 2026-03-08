@@ -30,8 +30,8 @@ even I could sense.");
     ChEye(5,4);
     ChMouth(5,4);
     VoicePlay("B040504100_05_020");
-    MsgDisp("Hiiragi","It can't helped.
-As it just wasn't suited for us.");
+    MsgDisp("Hiiragi","It can't be helped.
+It just wasn't suited for us.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -70,8 +70,8 @@ Well, don't worry about it.");
         MsgDisp("Nanatsumori","It's nice.
 The fact that you're here feels nice.");
         MsgDisp("主人公","I see.
-Hey, you say that it \"feels nice\" But what
-feeling is that?");
+Hey, you say it \"feels nice,\" but what
+kind of feeling is that?");
         ChMotion(4,2,1);
         VoicePlay("B040430002_04_060");
         MsgDisp("Nanatsumori","Like living together with my

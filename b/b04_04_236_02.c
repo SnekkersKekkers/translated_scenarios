@@ -69,7 +69,7 @@ this atmosphere?");
         VoicePlay("B040423602_04_050");
         MsgDisp("Nanatsumori","It also just came to my mind.
 Oh dear, oh dear.");
-        MsgDisp("主人公","Ugh...sorry. we were having so much fun
+        MsgDisp("主人公","Ugh...sorry. We were having so much fun
 too.");
         ChEye(4,0);
         ChMouth(4,3);

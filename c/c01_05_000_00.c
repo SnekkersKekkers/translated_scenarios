@@ -21,8 +21,8 @@ VoicePlay("C010500000_05_020");
 MsgDisp("Hiiragi","...I should have properly spoken with you
 sooner.");
 VoicePlay("C010500000_05_030");
-MsgDisp("Hiiragi","My own circumstances ended up
-causing you trouble.
+MsgDisp("Hiiragi","I put you through something unpleasant
+because of my own issues.
 I'm sorry.");
 MsgDisp("主人公","No, I'm the one who's sorry.");
 VoicePlay("C010500000_05_040");

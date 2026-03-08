@@ -56,7 +56,7 @@ That's a weird thing to ask.");
         ChMotion(2,4);
         VoicePlay("B040224202_02_040");
         MsgDisp("Sassa","Why?
-Did something happen.");
+Did something happen?");
         MsgDisp("主人公","No.
 It's because ｛Sassa＊＊｝ seemed interested
 in camping alone.");

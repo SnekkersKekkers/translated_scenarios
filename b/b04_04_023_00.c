@@ -21,7 +21,7 @@ Well, it's definitely pretty.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040402300_04_020");
-    MsgDisp("Nanatsumori","it's not a place to get excited and play.
+    MsgDisp("Nanatsumori","It's not a place to get excited and play.
 Well, you can see some unusual objects
 here. Let's relax and enjoy it.");
     MsgDispSksp(1,0);

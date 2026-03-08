@@ -60,7 +60,7 @@ Did I press some sort of weird switch?");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040222102_02_050");
-        MsgDisp("Sassa","Then, let's see as much sights as we can
+        MsgDisp("Sassa","Then, let's see as many sights as we can
 together. It would be a shame if we always
 went to the same places.");
         ChEye(2,0);

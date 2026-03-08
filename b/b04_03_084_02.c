@@ -44,7 +44,7 @@ I haven't enjoyed autumn with you yet.");
         ChMotion(3,0,1);
         VoicePlay("B040308402_03_030");
         MsgDisp("Honda","You're anxiously waiting for winter huh?");
-        MsgDisp("主人公","which season does ｛Honda＊＊｝ like?");
+        MsgDisp("主人公","Which season does ｛Honda＊＊｝ like?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);

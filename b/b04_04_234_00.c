@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040423400_04_020");
-    MsgDisp("Nanatsumori","You were spinning the wheel too much. this
+    MsgDisp("Nanatsumori","You were spinning the wheel too much. This
 is far from a fairytale.");
     MsgDateResultDisp();
     break ;

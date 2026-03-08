@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0);
     VoicePlay("B040419000_04_000");
     MsgDisp("Nanatsumori","Well, I think the costumes and the
-performance were amazing");
+performance were amazing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

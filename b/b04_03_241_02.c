@@ -65,7 +65,7 @@ as you.");
         VoicePlay("B040324102_03_040");
         MsgDisp("Honda","Apparently I didn't really worry about it,
 and I kept eating happily.");
-        MsgDisp("主人公","Hehe is that so.");
+        MsgDisp("主人公","Hehe, is that so?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,0);

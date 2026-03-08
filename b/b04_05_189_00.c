@@ -34,7 +34,7 @@ Or was that just my imagination?");
     VoicePlay("B040518900_05_020");
     MsgDisp("Hiiragi","I see, I'm sorry.
 I guess I was the only one really enjoying
-it");
+it.");
     MsgDateResultDisp();
     break ;
     default :

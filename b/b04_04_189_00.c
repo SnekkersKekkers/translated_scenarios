@@ -26,7 +26,7 @@ That dance was addictiveー...");
     ChMotion(4,1,1);
     VoicePlay("B040418900_04_010");
     MsgDisp("Nanatsumori","I get what you mean. It's probably not a
-matter of reason. i think it's about going
+matter of reason. I think it's about going
 along with the flow.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

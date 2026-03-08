@@ -89,7 +89,7 @@ huh?");
         VoicePlay("B040223502_02_080");
         MsgDisp("Sassa","They probably didn't expect a customer as
 tall as me, maybe I'll be able to spot
-more funny things");
+more funny things.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
@@ -108,8 +108,8 @@ Let's go elsewhere!");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         SEWait();
-        MsgDisp("主人公","(Hehe ｛Sassa＊＊｝ is bad with haunted
-houses, It's a bit cute!)");
+        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ is bad at haunted
+houses. It's a bit cute!)");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(2,253,0,0,4,#1,#1,0,0);

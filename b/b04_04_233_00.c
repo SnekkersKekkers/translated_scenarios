@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040423300_04_010");
-    MsgDisp("Nanatsumori","That's impossible to understand. what's so
-addictive about it.");
+    MsgDisp("Nanatsumori","That's impossible to understand. What's so
+addictive about it?");
     MsgDateResultDisp();
     break ;
     case 1:

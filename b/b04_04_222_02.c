@@ -31,7 +31,8 @@ interested too.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,10);
     VoicePlay("B040422202_04_020");
-    MsgDisp("Nanatsumori","Eh? then, why did we come here?");
+    MsgDisp("Nanatsumori","Eh? 
+Then, why did we come here?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -71,8 +72,7 @@ I don't think it's suited for a date.");
         ChMotion(4,1,1);
         VoicePlay("B040422202_04_060");
         MsgDisp("Nanatsumori","So?
-Is the reason you came here with me is
-because it's fun?");
+Why is coming here with me fun for you?");
         MsgDisp("主人公","That's because...
 It feels like we're going back in time,
 the two of us.");

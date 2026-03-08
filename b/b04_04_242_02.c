@@ -109,7 +109,7 @@ saying?");
         ChMouth(4,0);
         ChMotion(4,2,1);
         VoicePlay("B040424202_04_150");
-        MsgDisp("Nanatsumori","I see. that's good...");
+        MsgDisp("Nanatsumori","I see. That's good...");
         MsgDisp("主人公","Was it a good dream?");
         ChEye(4,4);
         ChMouth(4,3);

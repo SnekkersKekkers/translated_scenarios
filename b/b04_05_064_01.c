@@ -31,8 +31,7 @@ ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B040506401_05_030");
-MsgDisp("Hiiragi","I assure you it's not an abuse of power
-yes?
+MsgDisp("Hiiragi","It's not an abuse of power, okay?
 They just happened to get it for us.");
 ChEye(5,3);
 VoicePlay("B040506401_05_040");

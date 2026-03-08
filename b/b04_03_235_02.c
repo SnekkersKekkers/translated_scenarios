@@ -79,7 +79,8 @@ how cute you are.");
         VoicePlay("B040323502_03_070");
         MsgDisp("Honda","Huh?
 Huh?
-Somethings tightening up here in my chest.");
+Something's tightening up here in 
+my chest.");
         MsgDisp("主人公","Eh, are you alright?");
         ChEye(3,5);
         ChMouth(3,4);

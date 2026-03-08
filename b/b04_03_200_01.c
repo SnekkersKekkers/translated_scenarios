@@ -7,7 +7,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040320001_03_000");
 MsgDisp("Honda","Look closely.
-The snowflakes remain unmelted");
+The snowflakes haven't melted.");
 MsgSel("They're a beautiful shape...","They melt as soon as you put them on your hand","Let's start skiing already!");
 switch (MsgSelRsltGet()){
     case 0:

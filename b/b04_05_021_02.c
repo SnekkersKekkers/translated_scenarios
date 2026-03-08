@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040502102_05_000");
 MsgDisp("Hiiragi","There really aren't many people here.
 It looks like I can do some vocal
-exercises");
+exercises.");
 MsgSel("I want to hear it.","This is the feeling of the springtime of life.","Teach me too");
 switch (MsgSelRsltGet()){
     case 0:

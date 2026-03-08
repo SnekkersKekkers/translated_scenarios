@@ -92,7 +92,7 @@ Come hereー.");
         ChMouth(4,3);
         VoicePlay("B040421302_04_080");
         MsgDisp("Nanatsumori","Little miss jealous.
-You can have me all to yourself now?");
+You can have me all to yourself now.");
         MsgDisp("主人公","Hey...");
         ChEye(4,0);
         ChMouth(4,3);

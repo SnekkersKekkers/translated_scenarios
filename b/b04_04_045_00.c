@@ -24,8 +24,8 @@ dancing.");
     ChMouth(4,4);
     VoicePlay("B040404500_04_010");
     MsgDisp("Nanatsumori","The costumes and dancing were seriously
-amazingー.
-The actor's performance were also powerful");
+amazing. The actors' performances were 
+powerful too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

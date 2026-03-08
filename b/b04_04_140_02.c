@@ -96,7 +96,7 @@ vocals...");
         VoicePlay("B040414002_04_110");
         MsgDisp("Nanatsumori","In the end, we're better off as the
 audience.");
-        MsgDisp("主人公","right?");
+        MsgDisp("主人公","Right?");
         break ;
         default :
         DbgAssert(1);

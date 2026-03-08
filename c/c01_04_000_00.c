@@ -21,8 +21,9 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("C010400000_04_020");
 MsgDisp("Nanatsumori","That's enough, I get it.");
 VoicePlay("C010400000_04_030");
-MsgDisp("Nanatsumori","Hell, I'm sorry too. I should've talked to
-you directly and confirmed it. I'm sorry.");
+MsgDisp("Nanatsumori","I mean, I'm the one who should be sorry.
+I should've just talked to you directly.
+My bad.");
 MsgDisp("主人公","Yeah, I should have contacted you
 sooner...");
 VoicePlay("C010400000_04_040");
@@ -33,7 +34,7 @@ MsgDisp("主人公","Ah...
 Were you not sleeping well?
 Good night then, ｛Nanatsumori＊｝.");
 VoicePlay("C010400000_04_050");
-MsgDisp("Nanatsumori","Aa, night.
+MsgDisp("Nanatsumori","Yeah, night.
 See you later.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
