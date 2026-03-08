@@ -8,7 +8,7 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360750401_07_000");
 MsgDisp("Mikage","Let's head home before it gets dark.");
-MsgDisp("主人公","The stars are beautiful when it gets dark
+MsgDisp("主人公","The lights are beautiful when it gets dark
 out, aren't they?");
 ChEye(7,2);
 ChMouth(7,0);

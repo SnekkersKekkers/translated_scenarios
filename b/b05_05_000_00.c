@@ -92,8 +92,8 @@ SEPlay("EV_SE_729");
 Wait(50,0);
 StlEye(5,1);
 VoicePlay("B050500000_05_080");
-MsgDisp("Hiiragi","Come, it's tasty!
-Haha, come here too!");
+MsgDisp("Hiiragi","Nice catch!
+Haha, come over here too!");
 SEStop("EV_SE_729",1);
 MsgDisp("主人公","(Hehe, it's my first time seeing
 ｛Hiiragi＊＊＊｝ smile so innocently.

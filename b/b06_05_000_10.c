@@ -6,6 +6,6 @@ ChMouth(5,2);
 ChMotion(5,2,1);
 ScrFadeIn(0);
 VoicePlay("B060500010_05_000");
-MsgDisp("Hiiragi","I'm not ready to deal with that look on
-your face...");
+MsgDisp("Hiiragi","To think I made you look like that...
+I still have a long way to go.");
 MsgDispSksp(0);

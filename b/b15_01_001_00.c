@@ -58,8 +58,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B150100100_01_070");
-MsgDisp("Kazama","If you'd rather do it to someone else,
-then do as you like.
+MsgDisp("Kazama","Rather than having other guys do it,
+do as you like with me.
 Go ahead.");
 MsgDisp("主人公","(Umm, even if you say go ahead...)");
 MsgClose();

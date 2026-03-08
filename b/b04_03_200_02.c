@@ -88,8 +88,8 @@ still gorgeous!");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040320002_03_090");
-        MsgDisp("Honda","And, from the day I met you, I wanted to
-observe you.");
+        MsgDisp("Honda","And on days when I get to see you, I want
+to spend the time observing you.");
         MsgDisp("主人公","Ehh.");
         ChEye(3,3);
         ChMouth(3,3);

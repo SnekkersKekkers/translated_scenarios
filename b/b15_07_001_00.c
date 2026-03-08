@@ -4,7 +4,8 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150700100_07_000");
-MsgDisp("Mikage","...I'm still hesitant.");
+MsgDisp("Mikage","...You're still hesitant.
+I can see the doubt.");
 MsgDisp("主人公","Eh?
 Are you...talking about skinship?");
 ChEye(7,0);

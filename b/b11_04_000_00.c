@@ -85,7 +85,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B110400000_04_050");
-MsgDisp("Nanatsumori","I'm very sorry. It was my fault for being
+MsgDisp("Nanatsumori","Don't thank me. It was my fault for being
 late. I let such a cheap-looking guy mess
 with you...");
 ChEye(4,4);

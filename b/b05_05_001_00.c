@@ -70,8 +70,8 @@ MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("B050500100_05_050");
 MsgDisp("Hiiragi","I couldn't help but notice.
-Even in a broad sense, professionally we
-aren't on the same level.");
+In a broad sense, you could say we're in
+the same line of work.");
 StlEyeOpenLevel(5,5,1);
 SEPlay("EV_SE_552",0,0.8);
 SEWait();

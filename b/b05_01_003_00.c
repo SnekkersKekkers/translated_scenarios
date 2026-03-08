@@ -37,7 +37,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B050100300_01_030");
 MsgDisp("Kazama","Hmm.
-Then, why don't you give it a try?");
+Then, shall we get out there?");
 MsgDisp("主人公","You're going back already?");
 ChEye(1,0);
 ChMouth(1,3);

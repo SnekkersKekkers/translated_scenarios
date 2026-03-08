@@ -20,7 +20,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B360218000_02_010");
 MsgDisp("Sassa","My dad helped with the coaching for this
-sports film.");
+sports documentary.");
 MsgDisp("主人公","Is that so?
 ｛Sassa＊＊｝'s dad is amazing.");
 ChEye(2,3);

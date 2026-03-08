@@ -38,7 +38,7 @@ enjoy your voice.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040517000_05_030");
-    MsgDisp("Hiiragi","Yes, I'll leave the interlude to you.");
+    MsgDisp("Hiiragi","Yes, leave the backup vocals to me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

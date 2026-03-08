@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040301102_03_010");
-    MsgDisp("Honda","Eh, it's not.");
+    MsgDisp("Honda","Eh, it's not dangerous.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,7 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040301102_03_020");
-    MsgDisp("Honda","Will do～");
+    MsgDisp("Honda","Well then, after you～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

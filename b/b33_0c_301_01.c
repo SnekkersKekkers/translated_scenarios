@@ -88,9 +88,9 @@ VoicePlay("B330C30101_07_040");
 MsgDisp("Mikage","O-Oi.
 I can't afford to buy something that
 expensive...");
-MsgDisp("主人公","Hehe, it's alright. I think both
-｛Himuro＊＊｝ and ｛Mikage＊＊｝ have no
-intention of buying it at all.");
+MsgDisp("主人公","Hehe, it's alright. I think ｛Himuro＊＊｝
+has no intention of having ｛Mikage＊＊｝
+buy it at all.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);

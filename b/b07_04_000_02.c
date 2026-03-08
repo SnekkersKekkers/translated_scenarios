@@ -26,8 +26,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B070400000_04_090");
-MsgDisp("Nanatsumori","Cream-filled sweets that turn your mouth
-bright red.
+MsgDisp("Nanatsumori","A cream-loaded sweet after your mouth is
+bright red from spice.
 It's supreme.");
 MsgDisp("主人公","Hmm...
 But, if you do that every meal, won't that

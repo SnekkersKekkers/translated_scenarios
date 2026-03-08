@@ -5,8 +5,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_010");
 MsgDisp("Honda","Yeah!
-Ryota-kun knows a lot about antiques,
-right?");
+Ryota-kun's family deals in a lot of
+antiques, right?");
 ChMotion(3,4);
 VoicePlay("B070300001_03_020");
 MsgDisp("Honda","He has a lot of expertise on things that I

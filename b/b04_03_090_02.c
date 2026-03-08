@@ -71,7 +71,7 @@ this, you're the best!");
         ChMotion(3,1);
         VoicePlay("B040309002_03_070");
         MsgDisp("Honda","A loud voice will make you grow bigger.");
-        MsgDisp("主人公","(｛Honda＊＊｝, I'm not a bug.)");
+        MsgDisp("主人公","(｛Honda＊＊｝, I'm not a plant.)");
         break ;
         default :
         DbgAssert(1);

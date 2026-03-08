@@ -41,7 +41,7 @@ VoicePlay("B100500000_05_070");
 MsgDisp("Hiiragi","I'm glad.
 Ah, is your house nearby?");
 MsgDisp("主人公","Yeah it's alright.
-Be careful on your way home.");
+I'll be careful on my way home.");
 VoicePlay("B100500000_05_080");
 MsgDisp("Hiiragi","Yes, please be careful.
 I'll see you then.");

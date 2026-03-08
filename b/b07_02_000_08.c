@@ -28,8 +28,8 @@ ChEye(2,1);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200000_02_420");
-MsgDisp("Sassa","Is there anything else...
-...Oh, curly hair.");
+MsgDisp("Sassa","With just that, it could be anyone...
+...Add curly hair to the list.");
 MsgDisp("主人公","(Just like ｛Sassa＊＊｝...?)");
 BGMStop();
 MsgClose();

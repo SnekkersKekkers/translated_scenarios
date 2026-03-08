@@ -51,8 +51,8 @@ Are there any other adaptations?");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040703302_07_040");
-        MsgDisp("Mikage","Light adaptation is the opposite right?
-And there's...altitude adaptation, right?");
+        MsgDisp("Mikage","Light adaptation is the opposite, right?
+And altitude adaptation...no, never mind.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);

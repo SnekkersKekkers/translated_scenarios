@@ -28,7 +28,7 @@ you won't know!");
     ChMotion(2,0);
     VoicePlay("B040223101_02_020");
     MsgDisp("Sassa","You have your stubborn points too.
-Well, it's fun in the front too.");
+Well, that's part of your charm though.");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -41,8 +41,8 @@ StlEye(2,0);
 StlMouth(2,0);
 SEVol(0.3,2);
 VoicePlay("B050200200_02_030");
-MsgDisp("Sassa","Woo...
-It was waiting for us.
+MsgDisp("Sassa","Woah...
+We've got it all to ourselves.
 Let's warm up.");
 MsgDisp("主人公","Yep, it's nice and warm.
 Thanks, ｛Sassa＊＊｝.");

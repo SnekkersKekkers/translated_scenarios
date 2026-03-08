@@ -31,7 +31,8 @@ I might collapse.");
     ChMotion(3,4);
     ScrFadeIn(0);
     VoicePlay("B060300004_03_020");
-    MsgDisp("Honda","I'm happy you invited me.");
+    MsgDisp("Honda","I mean, I was happy when you invited me,
+at least.");
     MsgDispSksp(0);
     break ;
     default :

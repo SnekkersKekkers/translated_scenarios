@@ -2,7 +2,7 @@ BGMPlay("BGM_PLACE_SHOP",0.01);
 ChSet(3,0);
 ScrFadeIn(0);
 VoicePlay("B040301000_03_000");
-MsgDisp("Honda","Do you like this kind of thing?");
+MsgDisp("Honda","You like this kind of thing, don't you?");
 MsgSel("I do, I might buy it!","I wonder about that...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:

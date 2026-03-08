@@ -70,9 +70,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360603100_06_100");
-MsgDisp("Himuro","Well, even if it's late I'll let you know
-if I think of something.
-We can take it slow.");
+MsgDisp("Himuro","Well, even if it gets late I'll walk you
+home, so take your time with me.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

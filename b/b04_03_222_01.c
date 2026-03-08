@@ -28,7 +28,8 @@ Should I get one?");
     VoicePlay("B040322201_03_020");
     MsgDisp("Honda","Interesting!
 It's a reproduction of the onigawara tiles
-from when the castle was built.");
+from when the castle was built.
+The motif is a bellflower.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

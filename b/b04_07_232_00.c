@@ -33,7 +33,7 @@ I'm glad.");
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723200_07_020");
     MsgDisp("Mikage","I understand the feeling of wanting to
-fall asleep.");
+close your eyes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

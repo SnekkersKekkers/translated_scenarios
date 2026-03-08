@@ -29,9 +29,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C10800_06_000");
-MsgDisp("Himuro","That's close to how it's like for me too.
+MsgDisp("Himuro","That's close to how it is for me too.
 My facial muscles naturally relax just
-before falling.");
+before jumping.");
 MsgDisp("主人公","You two are amazing...
 Isn't it scary?");
 ChEye(7,2);

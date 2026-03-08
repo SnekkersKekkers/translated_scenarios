@@ -28,6 +28,7 @@ properly eat it.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040216002_02_020");
+    MsgDisp("Sassa","Come on out, skull bear!
 Girls really like this stuff huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

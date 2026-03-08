@@ -14,7 +14,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100000_01_011");
-MsgDisp("Kazama","Are you the PR guy here?");
+MsgDisp("Kazama","What are you, the park's spokesperson?");
 MsgDisp("主人公","Hehe.
 It's because I used to come here a lot
 with my family when I was younger.");
@@ -79,7 +79,9 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B050100000_01_010");
-MsgDisp("Kazama","Our gondola will soon reach the top...");
+MsgDisp("Kazama","Almost time.
+When the gondola reaches the top, that's
+my chance...");
 SEPlay("EV_SE_544");
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -230,7 +232,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,7);
 VoicePlay("B050100000_01_130");
-MsgDisp("Kazama","Whoever runs away from here fastest wins.");
+MsgDisp("Kazama","Sometimes running is the best strategy.
+Let's go!");
 MsgDisp("主人公","Ehhh∋");
 SEPlay("EV_SE_504");
 Wait(30,0);

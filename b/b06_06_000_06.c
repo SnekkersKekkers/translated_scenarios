@@ -19,7 +19,7 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("B060600006_06_000");
     MsgDisp("Himuro","Did you have fun?
-You don't have to answer that.");
+As for me... you can tell, right?");
     MsgDispSksp(0);
     break ;
     default :

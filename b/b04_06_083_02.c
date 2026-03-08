@@ -63,7 +63,7 @@ carried away.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040608302_06_050");
-        MsgDisp("Himuro","Your face feels hot.");
+        MsgDisp("Himuro","Your face is flushed.");
         MsgDisp("主人公","Eh, really?
 But it's alright——");
         MsgClose();

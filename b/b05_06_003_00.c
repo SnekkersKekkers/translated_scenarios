@@ -71,7 +71,7 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,0);
 VoicePlay("B050600300_06_090");
 MsgDisp("Himuro","It's really distracting, or I guess,
-embarrassing...");
+it fires me up...");
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
 StlEye(6,0);
 StlMouth(6,0);

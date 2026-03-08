@@ -65,8 +65,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650300_06_080");
-MsgDisp("Himuro","Somehow...
-I think I understand it now.");
+MsgDisp("Himuro","So just...
+Please understand.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

@@ -116,8 +116,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10700_01_060");
 MsgDisp("Kazama","...OK.
-Ask me for some funny stories in
-preparation.");
+I'll stock up on some funny stories.");
 MsgDisp("主人公","(If the four of us come to the castle
 again, I'll be happy to hear 
 ｛Kazama＊＊｝'s commentary.)");

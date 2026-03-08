@@ -5,8 +5,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040308302_03_000");
-MsgDisp("Honda","Doesn't the air temperature here feel two
-times cooler?");
+MsgDisp("Honda","Doesn't it feel about two degrees cooler
+here?");
 MsgSel("Seems like the fireflies are also comfortable with it","It's a mysterious spot","Maybe it's thanks to the spring water?");
 switch (MsgSelRsltGet()){
     case 0:

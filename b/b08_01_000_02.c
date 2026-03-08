@@ -3,7 +3,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B080100002_01_000");
 MsgDisp("Kazama","Did something happen?");
-MsgDisp("主人公","Yeah, somewhat...");
+MsgDisp("主人公","No, it's nothing really...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

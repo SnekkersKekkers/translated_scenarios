@@ -65,7 +65,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B360550301_05_070");
 MsgDisp("Hiiragi","I guess it wasn't such an important topic.
 Shall we head back?
-My eyes are starting to hurt.");
+The stares are getting to me.");
 MsgDisp("主人公","Hehe, that's true.");
 BGMStop();
 MsgClose();

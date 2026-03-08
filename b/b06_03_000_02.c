@@ -35,8 +35,8 @@ Are you okay?");
     MsgDispSksp(0);
     ScrFadeIn(0);
     VoicePlay("B060300002_03_020");
-    MsgDisp("Honda","As long as you had a good time, I'm
-relieved.");
+    MsgDisp("Honda","If you had a good time, then I'd say
+we're barely in the clear.");
     MsgDispSksp(0);
     break ;
     default :

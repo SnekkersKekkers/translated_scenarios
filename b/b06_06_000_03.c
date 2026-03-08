@@ -21,7 +21,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     ScrFadeIn(0);
     VoicePlay("B060600003_06_010");
-    MsgDisp("Himuro","Wasn't the mood bad?");
+    MsgDisp("Himuro","Were you feeling off or something?");
     MsgDispSksp(0);
     break ;
     case 4:

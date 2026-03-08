@@ -84,8 +84,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10501_01_040");
-MsgDisp("Kazama","That's the feeling you get after karaoke
-isn't it?");
+MsgDisp("Kazama","That's not the kind of comment you
+should have after karaoke.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

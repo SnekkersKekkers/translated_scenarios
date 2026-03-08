@@ -97,7 +97,7 @@ My ear!");
         MsgDisp("Himuro","Haha!
 That's the excitement you wanted right? an
 external stimulation!");
-        MsgDisp("主人公","(How annoying...)");
+        MsgDisp("主人公","(So frustrating...)");
         break ;
         default :
         DbgAssert(1);

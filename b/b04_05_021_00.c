@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040502100_05_010");
-    MsgDisp("Hiiragi","I feel the same.");
+    MsgDisp("Hiiragi","I feel the same.
+That settles it, then.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

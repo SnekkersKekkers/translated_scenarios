@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_150");
 MsgDisp("Himuro","There's nothing of interest at the moment.");
-MsgDisp("主人公","Are you not interested in sports?");
+MsgDisp("主人公","Would you try one if you got interested?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

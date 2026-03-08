@@ -58,7 +58,7 @@ I'm still not used to it.");
         ChCheek(6,10);
         VoicePlay("B040620002_06_040");
         MsgDisp("Himuro","......");
-        MsgDisp("主人公","Hehe, can you give me your hand?");
+        MsgDisp("主人公","Hehe, need a hand?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

@@ -18,8 +18,8 @@ ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110300002_35_010");
 MsgDisp("Guy","Got it!
-The perfect shot!
-You're a real Girl with the Pearl Earring!");
+A beauty looking back over her shoulder!
+Perfect shot!");
 MsgDisp("主人公","Excuse me?");
 ChEye(35,1);
 ChMouth(35,0);

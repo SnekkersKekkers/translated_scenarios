@@ -20,7 +20,8 @@ MsgDisp("Nanatsumori","Sorry for just now.
 I started getting irritated on my own, and
 I said some nasty things to you.");
 VoicePlay("B100400000_04_030");
-MsgDisp("Nanatsumori","I really was an idiot.");
+MsgDisp("Nanatsumori","I really was an idiot.
+Sorry.");
 MsgDisp("主人公","No.
 I'm the one who said weird things, I'm
 sorry.");

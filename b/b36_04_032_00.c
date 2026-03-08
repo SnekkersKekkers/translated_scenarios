@@ -32,7 +32,7 @@ ChMotion(4,2,1);
 VoicePlay("B360403200_04_030");
 MsgDisp("Nanatsumori","When you're in the aquarium, you feel like
 you've been teleported to the depths of
-the earth.");
+the ocean.");
 MsgDisp("主人公","That's for sure...
 These are familiar fish and jellyfish, but
 there's a mystical feeling?");

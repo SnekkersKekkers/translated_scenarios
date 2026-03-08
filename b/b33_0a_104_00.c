@@ -79,7 +79,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
 VoicePlay("B330A10400_06_040");
-MsgDisp("Himuro","Using your hand is different to being sly.");
+MsgDisp("Himuro","Using your head is different from 
+being sly.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

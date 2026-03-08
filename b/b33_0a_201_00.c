@@ -52,8 +52,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A20100_02_020");
-MsgDisp("Sassa","You were the only one who decided to judge
-it by personality?");
+MsgDisp("Sassa","You're calling yourself dignified?");
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
 ChEye(2,0);

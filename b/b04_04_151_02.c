@@ -67,9 +67,9 @@ to see the fun part of it?");
         MsgDisp("Nanatsumori","Well, lots of games that are loved for
 that long tend to be simple and
 replayable, that's for sure.");
-        MsgDisp("主人公","I think it's nice that you can laugh, cry
-and suffer together even if you're not
-good at it.");
+        MsgDisp("主人公","I think it's nice that you can share the
+highs and lows and laugh together, even
+if you're not good at it.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);

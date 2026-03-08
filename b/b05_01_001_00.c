@@ -60,7 +60,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100100_01_040");
-MsgDisp("Kazama","Well, yeah. Schools in England don't
+MsgDisp("Kazama","Good, I'm glad. Schools in England don't
 really have stuff like swimming, so I
 can't really swim that well.");
 MsgDisp("主人公","I see.

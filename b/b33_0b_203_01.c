@@ -19,7 +19,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B20301_04_000");
-MsgDisp("Nanatsumori","Ohー, they're ripe.");
+MsgDisp("Nanatsumori","Ohー, they're impressive.");
 ChMouth(1,0);
 ChMotion(1,0);
 MsgDisp("主人公","Hehe!

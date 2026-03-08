@@ -48,7 +48,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B070200000_02_490");
 MsgDisp("Sassa","Right?
-Next time I'll ask you something, then.");
+I'll ask him about it next time, then.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","(...Huh? But I wanted to hear how

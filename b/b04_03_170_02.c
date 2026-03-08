@@ -84,8 +84,8 @@ Any requests?");
         SEPlay("EV_SE_768",0,0.6);
         ScrFadeIn(0);
         VoicePlay("B040317002_03_060");
-        MsgDisp("Honda","No matter how many times I try...
-I can't do it.
+        MsgDisp("Honda","No matter how many times I try, I keep
+failing...
 Alright, next song.");
         MsgDisp("主人公","Um, how about we take a short break?");
         ChEye(3,1);

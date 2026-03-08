@@ -17,7 +17,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10500_05_000");
-MsgDisp("Hiiragi","No, it's fun just hanging out with one.");
+MsgDisp("Hiiragi","No, it's fun just hanging out with 
+everyone.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

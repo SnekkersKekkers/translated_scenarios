@@ -37,8 +37,8 @@ That one isn't it.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040601001_06_030");
-    MsgDisp("Himuro","What, you fell for it?
-Well, go you.");
+    MsgDisp("Himuro","What, you didn't fall for it?
+Well, good for you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

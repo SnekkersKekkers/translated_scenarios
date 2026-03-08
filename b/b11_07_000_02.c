@@ -29,8 +29,8 @@ ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110700002_35_030");
 MsgDisp("Guy","No can do, you could be anything from an
-actress to a model, I've been in the
-industry for a decade, and I give you my
+actress to a model, with decades in the
+industry, and I give you my
 stamp of approval♪");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C07_MIKAGE_A",0.01);

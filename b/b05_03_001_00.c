@@ -116,8 +116,8 @@ ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B050300100_03_130");
 MsgDisp("Honda","I know! We have to eat some real longevity
-noodles someday. Someone recommended me a
-store.");
+noodles someday. I know a great place for
+them.");
 MsgDisp("主人公","Hehe, I would love to.");
 ChEye(3,3);
 ChMouth(3,3);

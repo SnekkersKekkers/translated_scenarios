@@ -12,7 +12,7 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoicePlay("B060200003_02_000");
     MsgDisp("Sassa","Did you have a good time?
-It was somewhat awkward.");
+I'm a bit worried.");
     MsgDispSksp(0);
     break ;
     case 3:

@@ -25,7 +25,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A10801_02_000");
-MsgDisp("Sassa","Unexpectedly, it looks fun.");
+MsgDisp("Sassa","You say that, but you sure look like
+you're having fun.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(1,4);
 ChMouth(1,3);

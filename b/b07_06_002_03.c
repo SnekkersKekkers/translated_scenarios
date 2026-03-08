@@ -45,7 +45,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600002_06_210");
-MsgDisp("Himuro","Because it's not funny.");
+MsgDisp("Himuro","It's no laughing matter.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

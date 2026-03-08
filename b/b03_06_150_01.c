@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B030615000_06_000");
 MsgDisp("Himuro","Bowling or darts.
 Where to?");
-MsgSel("Let's go bowling","I like darts");
+MsgSel("Let's go bowling","Darts Corner sounds good");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

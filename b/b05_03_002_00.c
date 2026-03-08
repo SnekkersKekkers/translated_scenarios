@@ -100,8 +100,8 @@ VoicePlay("B050300200_03_110");
 MsgDisp("Honda","Yeah.
 My sister really liked it, so we had fun
 memorizing the stars.");
-MsgDisp("主人公","That kind of upbringing made ｛Honda＊＊｝
-who he is today, huh?");
+MsgDisp("主人公","That experience shaped who ｛Honda＊＊｝ is
+today, huh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

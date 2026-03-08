@@ -34,8 +34,9 @@ ChMotion(2,3);
 VoicePlay("B070200000_02_150");
 MsgDisp("Sassa","Really though, running, jumping, and
 throwing.
-Track and field has it all.");
-MsgDisp("主人公","(Any sport is good for ｛Sassa＊＊｝.)");
+Track and field is perfect for me.");
+MsgDisp("主人公","(｛Sassa＊＊｝ could probably be the best
+at any sport.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

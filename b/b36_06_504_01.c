@@ -21,13 +21,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360650401_06_010");
-MsgDisp("Himuro","Jokes aside, what's so bad about seeing
-the Christmas lights with just one person?");
+MsgDisp("Himuro","You're kidding, right?
+Why would I want to see the lights with
+other guys around?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650401_06_020");
-MsgDisp("Himuro","There's no point in running away.");
+MsgDisp("Himuro","It would defeat the purpose of sneaking
+away.");
 MsgDisp("主人公","Eh...?");
 ChEye(6,0);
 ChMouth(6,0);

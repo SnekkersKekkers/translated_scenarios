@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(6,0);
     VoicePlay("B040624201_06_010");
     MsgDisp("Himuro","Hu...haaa..
-Yeah, the water is fresh.");
+Yeah, the air is fresh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

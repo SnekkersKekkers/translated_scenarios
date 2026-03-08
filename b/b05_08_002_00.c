@@ -47,8 +47,9 @@ ChMouth(8,4);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("B050800200_08_060");
-MsgDisp("Shirahane","I don't really know why, but I'm relieved.
-I was just one-sidedly making ya——");
+MsgDisp("Shirahane","I don't really know why, but I got
+anxious. I was just one-sidedly making
+ya——");
 MsgClose();
 ScrFadeOut(0);
 ChClose(8);

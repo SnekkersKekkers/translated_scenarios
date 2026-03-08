@@ -30,9 +30,9 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B040406400_04_040");
-MsgDisp("Nanatsumori","At least, he's quite well-known around
+MsgDisp("Nanatsumori","Well, I'm quite well-known around
 town.
-That \"Nana\" person, I mean.");
+The \"NANA\" side, I mean.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,0);
 ChMotion(4,0,1);

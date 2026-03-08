@@ -61,7 +61,7 @@ That's right.");
         MsgDisp("Mikage","That's fine, but if you're only looking at
 me, there's no point in coming to the
 night parade.");
-        MsgDisp("主人公","Got it.");
+        MsgDisp("主人公","I don't mind.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,4);

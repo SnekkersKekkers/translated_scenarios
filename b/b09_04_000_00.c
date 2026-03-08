@@ -12,7 +12,7 @@ MsgDisp("主人公","Huh?
 It's ｛Nanatsumori＊｝.");
 VoicePlay("B090400000_04_010");
 MsgDisp("Nanatsumori","We were supposed to go out today.
-There's no way I would forget.");
+Don't tell me you forgot.");
 VoicePlay("B090400000_04_020");
 MsgDisp("Nanatsumori","Anyways, if you can't come, at least let
 me know. ...see you.");

@@ -83,7 +83,7 @@ that much?)");
     ChMotion(5,4);
     VoicePlay("B040511002_05_070");
     MsgDisp("Hiiragi","Yes.
-Shall we go for a swim?");
+Shall we swim a bit, then get in?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
