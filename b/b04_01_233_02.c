@@ -55,8 +55,8 @@ through danger.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123302_01_050");
-        MsgDisp("Kazama","If you get it, then alright.
-Then, shall we do it again?");
+        MsgDisp("Kazama","If you get it, then good.
+So, you still wanna do that?");
         MsgDisp("主人公","No, I'm fine.");
         ChEye(1,4);
         ChMouth(1,3);

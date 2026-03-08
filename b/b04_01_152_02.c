@@ -43,7 +43,7 @@ too carried away.");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040115202_01_030");
-        MsgDisp("Kazama","I see it.
+        MsgDisp("Kazama","Alright, I got it.
 Hey, do your best.");
         ChEyeOpenLevel(1,0);
         Wait(8,0);

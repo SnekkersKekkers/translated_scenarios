@@ -84,14 +84,14 @@ one. And also, she was a girl?");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040121302_01_070");
         MsgDisp("Kazama","Oi, how do you know that?
-Don't just say stuff like that casually?");
+Don't just say stuff like that casually.");
         MsgDisp("主人公","Her name tag said Catherine.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,4);
         VoicePlay("B040121302_01_080");
-        MsgDisp("Kazama","Eh...i-is that so?
-Well, I guess that can't be helped");
+        MsgDisp("Kazama","Eh...I-Is that so?
+Well, I guess that can't be helped.");
         ChEye(1,2);
         ChMouth(1,2);
         ChMotion(1,4);

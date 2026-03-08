@@ -30,7 +30,7 @@ thinking?\"");
     ChMotion(1,3);
     VoicePlay("B040122101_01_020");
     MsgDisp("Kazama","What's wrong?
-Did gou eat something strange?");
+Did you eat something strange?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

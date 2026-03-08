@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040122102_01_020");
-    MsgDisp("Kazama","Look, it's one rich.
+    MsgDisp("Kazama","Look, it's one Rich.
 Being a lord is tough.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -71,7 +71,7 @@ Then, you go first.");
         ScrFadeIn(0);
         MsgDisp("主人公","Amazing!
 Look, you can see the beautiful sky and
-mountains");
+mountains!");
         VoicePlay("B040122102_01_050");
         MsgDisp("Kazama","Oi, don't get so carried away");
         SEPlay("EV_SE_026",0,0.4);
@@ -107,8 +107,8 @@ it's now red around your eyes.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040122102_01_090");
-        MsgDisp("Kazama","You don'have to do anything.
-Just do your best at whatever, and be
+        MsgDisp("Kazama","You don't have to do anything.
+Just try your best at whatever, and be
 yourself.");
         MsgDisp("主人公","(Even if you praise me...
 I'm still worried about the area around my

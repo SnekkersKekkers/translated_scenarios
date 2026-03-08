@@ -15,7 +15,7 @@ ChEye(1,3);
 ChMotion(1,3);
 VoicePlay("B040123600_01_000");
 MsgDisp("Kazama","Wow, that's impressive.
-We're seeing Habataki Land in all of it's
+We're seeing Habataki Land in all of its
 glory.");
 MsgSel("The skull bear is sparkling","That fish like person is dancing","Yeah, there's so many lights!");
 switch (MsgSelRsltGet()){
@@ -38,8 +38,8 @@ it's...not bad?");
     ChMouth(1,0);
     ChMotion(1,1);
     VoicePlay("B040123600_01_020");
-    MsgDisp("Kazama","So it's bottom half is human?
-The opposite to a mermaid.");
+    MsgDisp("Kazama","So its bottom half is human?
+The opposite of a mermaid.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

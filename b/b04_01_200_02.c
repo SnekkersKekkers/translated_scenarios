@@ -7,10 +7,9 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040120002_01_000");
-MsgDisp("Kazama","The weather at the foot of the mountain is
-great, but what about when you go up? They
-say the weather on the mountain changes
-easily.");
+MsgDisp("Kazama","The weather at the foot is great, but
+what about up top? They say mountain
+weather changes fast.");
 MsgSel("Yeah, let's be careful","Let's be careful not to get stranded!","As does a woman's heart...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -62,18 +61,17 @@ scary.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_040");
-        MsgDisp("Kazama","Wait a minute, so you're aware of that?
+        MsgDisp("Kazama","Wait a minute, you're aware of that?
 You look around restlessly, stick your
-nose into things; you're curiosity in
-human form.");
+nose into everything—you're curiosity
+in human form.");
         MsgDisp("主人公","Umm...");
         ChEye(1,2);
         ChMouth(1,1);
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_050");
-        MsgDisp("Kazama","There it is. \"
-Umm...\" , no.
+        MsgDisp("Kazama","There it is. \"Umm...\" No.
 Put yourself in my shoes for once!");
         MsgDisp("主人公","｛Kazama＊＊｝, are you angry?");
         ChEye(1,1);
@@ -112,7 +110,7 @@ I'll just leave it as it is after all.");
 It was a battle I had no chance of
 winning...");
         MsgDisp("主人公","(When you say \"chance of winning\", against
-what???))");
+what???)");
         break ;
         default :
         DbgAssert(1);

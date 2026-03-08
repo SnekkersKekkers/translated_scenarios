@@ -55,7 +55,7 @@ or carpentry tools left behind.");
         ChEyeOpenLevel(1,9);
         VoicePlay("B040122202_01_040");
         MsgDisp("Kazama","Hey, that writing that says \"XX was here!\"
-might also become an precious artifact in
+might also become a precious artifact in
 100 years.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
@@ -132,9 +132,9 @@ It's a fun thing to imagine.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040122202_01_100");
-    MsgDisp("Kazama","I really won't forgive them. \"
-We were here\", \"We're here\"! just who are
-they reporting to?");
+    MsgDisp("Kazama","I really can't forgive them.
+\"We were here\", \"We're here\"! Who are
+they even reporting to?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

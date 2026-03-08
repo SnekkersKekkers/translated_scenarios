@@ -14,9 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040123102_01_010");
-    MsgDisp("Kazama","Apparently, there's more speed at the
-back. You can't really see much either, so
-there's probably a larger sense of dread.");
+    MsgDisp("Kazama","Apparently, you get more speed in the
+back. You can't see much either, so
+there's probably more of a thrill.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

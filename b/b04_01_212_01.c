@@ -4,7 +4,7 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121201_01_000");
-MsgDisp("Kazama","Look, they even have a stationary set.");
+MsgDisp("Kazama","Look, they even have a stationery set.");
 MsgSel("The bear eraser is cute▼","The thoroughbred pencil case is cool▼","Even the cockatiel clip is interesting▼");
 switch (MsgSelRsltGet()){
     case 0:

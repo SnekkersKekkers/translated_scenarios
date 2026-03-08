@@ -62,7 +62,7 @@ create a sense of unity.");
         ChCheek(2,10);
         VoicePlay("B040202102_02_060");
         MsgDisp("Sassa","The round one next to it is you then...");
-        MsgDisp("主人公","The Round one?");
+        MsgDisp("主人公","The round one?");
         ChEye(2,4);
         ChMouth(2,4);
         ChMotion(2,0);

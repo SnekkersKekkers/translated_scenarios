@@ -27,7 +27,7 @@ sky.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040123201_01_020");
-    MsgDisp("Kazama","Right, the draught was awful.");
+    MsgDisp("Kazama","Right, the draft was awful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

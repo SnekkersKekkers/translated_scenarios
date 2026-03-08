@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040201001_02_000");
 MsgDisp("Sassa","This dress is nice.
-It suits you a bit.");
+Try it on.");
 MsgSel("You're right! I think I should buy it!","I guess so...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:

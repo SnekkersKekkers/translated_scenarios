@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040130000_01_010");
     MsgDisp("Kazama","Wonderful?
-It's just normal kid's room?");
+It's just a normal kid's room?");
     MsgDateResultDisp();
     break ;
     case 1:

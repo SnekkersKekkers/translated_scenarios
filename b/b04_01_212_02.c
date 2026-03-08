@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040121202_01_010");
-    MsgDisp("Kazama","Its main is in the way.
+    MsgDisp("Kazama","Its mane is in the way.
 It looks like it might burn, is that okay?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);

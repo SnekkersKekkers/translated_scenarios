@@ -80,7 +80,7 @@ lot of wishes, right?");
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040124102_01_070");
-        MsgDisp("Kazama","...Geez, don't be son greedy.");
+        MsgDisp("Kazama","...Geez, don't be so greedy.");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,1);

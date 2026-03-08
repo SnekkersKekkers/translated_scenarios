@@ -36,7 +36,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040117002_01_020");
         MsgDisp("Kazama","Got it.
 Then, pick something you like from the
-menu");
+menu.");
         MsgDisp("主人公","Really∋
 ｛Kazama＊＊｝, thank you!
 The sweets here are delicious, right?");
@@ -57,7 +57,7 @@ The sweets here are delicious, right?");
         VoicePlay("B040117002_01_040");
         MsgDisp("Kazama","Please give me your most popular sweet.");
         VoicePlay("B040117002_01_050");
-        MsgDisp("Kazama","O-Of course. that's alright.");
+        MsgDisp("Kazama","O-Of course. That's alright.");
         MsgDisp("主人公","Are you alright...?");
         SEPlay("EV_SE_762");
         SEWait();

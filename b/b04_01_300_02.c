@@ -77,7 +77,7 @@ same as before.");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040130002_01_060");
         MsgDisp("Kazama","And you're the same as before.
-Actually, above my imagination actually.");
+Even more than I imagined, actually.");
         MsgDisp("主人公","I see, we've grown quite a lot.");
         ChEye(1,4);
         ChMouth(1,4);
@@ -99,10 +99,9 @@ What am I even saying...");
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("B040130002_01_090");
-        MsgDisp("Kazama","I take back what I said at the beginning
-about time travel. This room is completely
-different now from the old one. You being
-here made me realize that.");
+        MsgDisp("Kazama","I take back what I said about time travel.
+This room is completely different now.
+You being here made me realize that.");
         MsgDisp("主人公","Me?");
         ChEye(1,0);
         ChMouth(1,2);

@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,5);
     VoicePlay("B040123602_01_010");
     MsgDisp("Kazama","O-Oi, wait a second...
-My body is moving on it's own...");
+My body is moving on its own...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

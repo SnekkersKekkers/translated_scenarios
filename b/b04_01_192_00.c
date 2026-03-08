@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040119200_01_000");
     MsgDisp("Kazama","Featuring cat paws that much...
-Well, I do think they were decisive in
-that decision.");
+Well, I do have to commend their
+commitment.");
     MsgDispSksp(1,0);
     ChEye(1,0);
     ChMotion(1,0);

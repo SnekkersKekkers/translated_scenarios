@@ -91,9 +91,9 @@ would grow to like you.");
         ChMotion(1,0);
         VoicePlay("B040121102_01_080");
         MsgDisp("Kazama","After all, everyone naturally gathers
-around you, besides, is there anyone who
-doesn't like you?");
-        MsgDisp("主人公","Umm...a person who doesn't like me...");
+around you. Besides, is there anyone
+you don't get along with?");
+        MsgDisp("主人公","Umm...someone I don't get along with...");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0,1);
@@ -104,7 +104,7 @@ doesn't like you?");
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121102_01_100");
-        MsgDisp("Kazama","That might be a problem in itself...");
+        MsgDisp("Kazama","That in itself is a problem for me...");
         MsgDisp("主人公","(｛Kazama＊＊｝ is there something troubling
 you?)");
         break ;

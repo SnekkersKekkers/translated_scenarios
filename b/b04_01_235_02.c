@@ -23,7 +23,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040123502_01_010");
         MsgDisp("Kazama","Sure, sure.
 Behind you is the spirit of a gluttonous
-women...");
+woman...");
         MsgDateResultDisp();
         break ;
         case 4:

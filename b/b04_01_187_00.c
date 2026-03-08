@@ -38,7 +38,7 @@ talent in itself.");
     ChMotion(1,0);
     VoicePlay("B040118700_01_020");
     MsgDisp("Kazama","I'm glad we value the same things.
-That's my oly relief.");
+That's my only relief.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

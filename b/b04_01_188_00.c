@@ -36,7 +36,7 @@ Your evaluation criteria is a mystery.");
     ChMotion(1,0,1);
     VoicePlay("B040118800_01_020");
     MsgDisp("Kazama","For sure.
-After all, your face was dead-pan half way
+After all, your face was deadpan halfway
 through.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
