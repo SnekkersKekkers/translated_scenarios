@@ -32,7 +32,7 @@ improve!)");
     case 5:
     VoicePlay("I260300000_55_000");
     VoicePlay("I260300006_33_000");
-    MsgDisp("Male Customer","Huh, you don't have it even though I
+    MsgDisp("Customer","Huh, you don't have it even though I
 reserved it?");
     MsgDisp("主人公","My apologies!");
     MsgClose();
@@ -69,7 +69,7 @@ I'll go check in the back.");
 time!");
     VoicePlay("I260300000_55_010");
     VoicePlay("I260300006_33_010");
-    MsgDisp("Male Customer","It's fine.
+    MsgDisp("Customer","It's fine.
 I bought it in the end.");
     ChEye(3,0);
     ChMouth(3,3);

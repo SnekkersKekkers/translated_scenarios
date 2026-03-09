@@ -18,9 +18,9 @@ ScrFadeIn(0);
 SEPlay("EV_SE_637",0,0.4);
 Wait(30,0);
 VoicePlay("D010500000_45_000");
-MsgDisp("Woman Customer A","Yanosuke-sama was beautiful today too.");
+MsgDisp("Woman A","Yanosuke-sama was beautiful today too.");
 VoicePlay("D010500000_47_000");
-MsgDisp("Woman Customer B","Yeah, he was lovely～!");
+MsgDisp("Woman B","Yeah, he was lovely～!");
 SEStop("EV_SE_637",2);
 MsgDisp("主人公","(It looks like the play just finished.
 ｛Hiiragi＊＊＊｝ was really popular.

@@ -18,7 +18,7 @@ ScrFadeIn(0);
 VoicePlay("Z710700000_07_010");
 MsgDisp("Mikage","Please, be quiet this year.");
 VoicePlay("Z710700000_42_000");
-MsgDisp("Male Student A","Mikagecchi.
+MsgDisp("Student A","Mikagecchi.
 You're properly wearing a suit, huh?");
 SEPlay("EV_SE_GAYA_017");
 SEPlay("EV_SE_863",0,0.6);
@@ -27,7 +27,7 @@ MsgDisp("主人公","(Ah!
 ｛Mikage＊＊｝ is my homeroom teacher
 again this year!?)");
 VoicePlay("Z710700000_44_000");
-MsgDisp("School Girl A","Even though the overalls were cool.");
+MsgDisp("Girl A","Even though the overalls were cool.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -42,7 +42,7 @@ ChMotion(7,0);
 VoicePlay("Z710700000_07_030");
 MsgDisp("Mikage","Well, let me introduce myself first.");
 VoicePlay("Z710700000_41_020");
-MsgDisp("Male Student B","Everyone already knows you.");
+MsgDisp("Student B","Everyone already knows you.");
 SEPlay("EV_SE_GAYA_016",0,0.9);
 Wait(50,1);
 ChEye(7,0);
@@ -72,7 +72,7 @@ SEPlay("EV_SE_743");
 SEPlay("EV_SE_863",0,0.7);
 Wait(30,0);
 VoicePlay("Z710700000_45_000");
-MsgDisp("School Girl B","I'm looking forward to it too, Mikagecchi!");
+MsgDisp("Girl B","I'm looking forward to it too, Mikagecchi!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -85,7 +85,7 @@ MsgDisp("主人公","What?
 Interesting...");
 SEStop("EV_SE_743",2);
 VoicePlay("Z710700000_42_040");
-MsgDisp("Male Student A","Mikagecchi, how awful!
+MsgDisp("Student A","Mikagecchi, how awful!
 You're too much!");
 MsgDisp("主人公","Um...
 Ah! Please tell us about the cow on
@@ -98,12 +98,12 @@ MsgDisp("Mikage","Good question.
 This girl is Molly, a female Holstein.
 She's even more beautiful in person.");
 VoicePlay("Z710700000_41_050");
-MsgDisp("Male Student B","I get it.
+MsgDisp("Student B","I get it.
 She's Mikagecchi's girlfriend, right?");
 SEPlay("EV_SE_GAYA_016");
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863",0,0.4)VoicePlay("Z710700000_45_010");
-MsgDisp("School Girl B","What!?");
+MsgDisp("Girl B","What!?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -111,14 +111,14 @@ VoicePlay("Z710700000_07_080");
 MsgDisp("Mikage","Molly is closer to family than a lover.
 Just like you guys.");
 VoicePlay("Z710700000_44_010");
-MsgDisp("School Girl A","What?
+MsgDisp("Girl A","What?
 I'd like to be sensei's lover, though.");
 SEStop("EV_SE_GAYA_016",2);
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Z710700000_45_020");
-MsgDisp("School Girl B","Ah, me too!");
+MsgDisp("Girl B","Ah, me too!");
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863",0,0.6);
 SEPlay("EV_SE_864",0,0.9);

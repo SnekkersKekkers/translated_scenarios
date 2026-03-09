@@ -48,7 +48,7 @@ SEWait();
 MsgDisp("","Seems like I was too late...");
 MsgClear();
 VoicePlay("Y300400500_46_000");
-MsgDisp("Nana's Sister","\"Hello～!
+MsgDisp("Nana Sis","\"Hello～!
 Nice to meet you, I'm his sister\"");
 MsgDisp("","The final boss abruptly appears ——
 With a smile, she introduces herself
@@ -58,7 +58,7 @@ MsgClear();
 MsgDisp("","For a while after that, my sister
 wouldn't leave the living room.");
 VoicePlay("Y300400500_46_010");
-MsgDisp("Nana's Sister","\"Haa...it's somewhat like I have a
+MsgDisp("Nana Sis","\"Haa...it's somewhat like I have a
 cute little sister now, I'm excited～\"");
 MsgDisp("","Please sis, just leave already....");
 MsgClear();

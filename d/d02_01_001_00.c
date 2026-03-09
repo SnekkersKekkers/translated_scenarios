@@ -62,7 +62,7 @@ children's toys, you name it.");
 MsgDisp("主人公","Hehe, that's amazing.
 You never run out of things to see.");
 VoicePlay("D020100100_36_000");
-MsgDisp("Ryota's Grandpa?","Welcome.");
+MsgDisp("Grandpa?","Welcome.");
 ChMouth(1,0);
 ChMotion(1,0);
 ChPosition(1,1);
@@ -74,7 +74,7 @@ MsgDisp("主人公","Ah, it's nice to meet you.
 I'm ｛主人公姓名｝.");
 ChMouth(36,0);
 VoicePlay("D020100100_36_010");
-MsgDisp("Ryota's Grandpa","Yes, I know you.
+MsgDisp("Grandpa","Yes, I know you.
 For a long time now, you have been quite
 the famous person in our family.");
 ChEye(1,0);

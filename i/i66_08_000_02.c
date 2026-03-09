@@ -41,7 +41,7 @@ Well, lemme learn from you!");
 Thank you very much!");
     SEPlay("EV_SE_589",1);
     VoicePlay("I660800002_39_000");
-    MsgDisp("Male Customer","See you!");
+    MsgDisp("Customer","See you!");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     SEStop("EV_SE_589",1);
     MsgClose();

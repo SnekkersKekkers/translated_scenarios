@@ -57,7 +57,7 @@ MsgDisp("Honda","\"To think it would be that
 interesting!
 As I thought, she's the best!\"");
 VoicePlay("Y300300300_44_000");
-MsgDisp("Honda's Sister","\"Hey, bro, shut up!\"");
+MsgDisp("Honda Sis","\"Hey, bro, shut up!\"");
 MsgClear();
 MsgDisp("","Haa...
 I'm only getting scolded today...");

@@ -43,11 +43,11 @@ with you.");
     case 5:
     MsgDisp("主人公","(What should I do about my partner...)");
     VoicePlay("O030601000_48_000");
-    MsgDisp("School Girl A","I wanna run with Himuro-kun～!");
+    MsgDisp("Girl A","I wanna run with Himuro-kun～!");
     VoicePlay("O030601000_46_000");
-    MsgDisp("School Girl B","But you just got rejected, right?");
+    MsgDisp("Girl B","But you just got rejected, right?");
     VoicePlay("O030601000_48_010");
-    MsgDisp("School Girl A","Huh～!");
+    MsgDisp("Girl A","Huh～!");
     MsgDisp("主人公","...?");
     MsgClose();
     SEPlay("EV_SE_625");

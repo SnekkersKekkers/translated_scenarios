@@ -104,7 +104,7 @@ But some places are still open, so let's
 hurry!");
 MsgDisp("主人公","O-Okay!");
 VoicePlay("D010800000_42_000");
-MsgDisp("Male Student A","Oi, Daichi!
+MsgDisp("Student A","Oi, Daichi!
 You have a girl from Habataki with you,
 what's that about∋");
 StlEyeOpenLevel(9,#1);
@@ -113,7 +113,7 @@ VoicePlay("D010800000_08_070");
 MsgDisp("Daichi","Hehe!
 I guess I can brag about it?");
 VoicePlay("D010800000_42_010");
-MsgDisp("Male Student A","Don't tell me...
+MsgDisp("Student A","Don't tell me...
 Your girlfriend∋");
 StlEyeOpenLevel(8,0,1);
 VoicePlay("D010800000_08_080");
@@ -129,7 +129,7 @@ MsgDisp("Kuya","That's right.
 Well then, we're in a hurry.");
 StlEyeOpenLevel(9,#1);
 VoicePlay("D010800000_33_020");
-MsgDisp("Male Student B","Daichi!
+MsgDisp("Student B","Daichi!
 Who is that girl∋
 She's wearing a Habataki uniform!");
 StlEye(8,1);

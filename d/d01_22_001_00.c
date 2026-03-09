@@ -22,11 +22,11 @@ SEPlay("EV_SE_GAYA_025",0,0.6);
 MsgDisp("主人公","(Woah...
 ｛ひかる＊｝, so beautiful!)");
 VoicePlay("D012200100_47_000");
-MsgDisp("School Girl A","Amazing...
+MsgDisp("Girl A","Amazing...
 Just like you'd expect from Hikaru-san...");
 SEStop("EV_SE_GAYA_025",1);
 VoicePlay("D012200100_46_000");
-MsgDisp("School Girl B","The performance and visuals are both
+MsgDisp("Girl B","The performance and visuals are both
 great...
 You could watch her for hours...");
 MsgDisp("主人公","(Hehe.

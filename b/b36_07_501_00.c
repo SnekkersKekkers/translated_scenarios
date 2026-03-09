@@ -12,9 +12,9 @@ VoicePlay("B360750100_07_000");
 MsgDisp("Mikage","There are quite a few Haba students.");
 MsgDisp("主人公","Is there a club activity?");
 VoicePlay("B360750100_44_000");
-MsgDisp("School Girl A","Ah, Mikage-sensei～!");
+MsgDisp("Girl A","Ah, Mikage-sensei～!");
 VoicePlay("B360750100_45_000");
-MsgDisp("School Girl B","Sensei what are you doing?");
+MsgDisp("Girl B","Sensei what are you doing?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -23,7 +23,7 @@ MsgDisp("Mikage","I'm on a date today～
 ...Isn't that right?");
 MsgDisp("主人公","Uh...!");
 VoicePlay("B360750100_44_010");
-MsgDisp("School Girl A","That's unfair, we're only here for a club
+MsgDisp("Girl A","That's unfair, we're only here for a club
 activityー.");
 ChEye(7,1);
 ChMouth(7,0);

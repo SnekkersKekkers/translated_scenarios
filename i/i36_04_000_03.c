@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     VoicePlay("I360400003_47_000");
-    MsgDisp("Woman Customer","Um, miss.
+    MsgDisp("Customer","Um, miss.
 The sugar pot is empty...");
     MsgDisp("主人公","My apologies!
 I'll bring you a new one right away.");
@@ -51,7 +51,7 @@ Let's check the tables more...)");
     case 4:
     case 5:
     VoicePlay("I360400003_47_010");
-    MsgDisp("Woman Customer","Excuse me.
+    MsgDisp("Customer","Excuse me.
 I don't think there's any sugar here...");
     MsgDisp("主人公","My apologies!
 I'll bring you a new one right away.");

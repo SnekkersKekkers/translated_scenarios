@@ -17,10 +17,10 @@ Wait(80,0);
 SEStop("EV_SE_744",1);
 SEStop("EV_SE_608",2);
 VoicePlay("D010700400_42_000");
-MsgDisp("Male Student A","Huh...
+MsgDisp("Student A","Huh...
 Is it over already?");
 VoicePlay("D010700400_44_000");
-MsgDisp("School Girl A","I don't want to go home already!");
+MsgDisp("Girl A","I don't want to go home already!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -39,10 +39,10 @@ ChMotion(7,1);
 VoicePlay("D010700400_07_030");
 MsgDisp("Mikage","Do you guys want to go with me?");
 VoicePlay("D010700400_44_010");
-MsgDisp("School Girl A","Eh, what is it?
+MsgDisp("Girl A","Eh, what is it?
 I'll go!");
 VoicePlay("D010700400_42_030");
-MsgDisp("Male Student A","Me too!");
+MsgDisp("Student A","Me too!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -71,13 +71,13 @@ MsgDisp("Mikage","I love you guys～!");
 StlEyeOpenLevel(7,5);
 SEPlay("EV_SE_GAYA_022");
 VoicePlay("D010700400_44_020");
-MsgDisp("School Girl A","Ahahaha!
+MsgDisp("Girl A","Ahahaha!
 Mikage-sensei, what in the world are you
 doing?");
 VoicePlay("D010700400_41_050");
-MsgDisp("Male Student B","I love Mikagechi too!");
+MsgDisp("Student B","I love Mikagechi too!");
 VoicePlay("D010700400_45_000");
-MsgDisp("School Girl B","Eh?
+MsgDisp("Girl B","Eh?
 Well, I love Mikage-sensei too!");
 StlEyeOpenLevel(7,0);
 SEPlay("EV_SE_GAYA_016");
@@ -105,14 +105,14 @@ MsgDisp("Mikage","Alright, you pass.");
 StlEyeOpenLevel(7,#1);
 MsgDisp("主人公","(Ah, ｛Mikage＊＊｝'s hand...)");
 VoicePlay("D010700400_42_080");
-MsgDisp("Male Student A","I also love Vice Principal Himuro!");
+MsgDisp("Student A","I also love Vice Principal Himuro!");
 StlEye(7,1);
 StlMouth(7,0);
 VoicePlay("D010700400_07_100");
 MsgDisp("Mikage","Ahhh?
 Vice Principal Himuro?");
 VoicePlay("D010700400_41_090");
-MsgDisp("Male Student B","Mikagechi, that scared you way too much～!");
+MsgDisp("Student B","Mikagechi, that scared you way too much～!");
 SEPlay("EV_SE_GAYA_016");
 VoicePlay("D010700400_38_010");
 MsgDisp("Students","Hahaha!");

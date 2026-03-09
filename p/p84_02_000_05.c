@@ -15,10 +15,10 @@ VoicePlay("P840200005_02_000");
 MsgDisp("Sassa","Right. How about we all collaborate? Us,
 the matcha shop, and the yakisoba stand?");
 VoicePlay("P840200005_48_000");
-MsgDisp("School Girl A","A collab?
+MsgDisp("Girl A","A collab?
 Sounds interesting.");
 VoicePlay("P840200005_46_000");
-MsgDisp("School Girl B","Do you think buying both would be worth
+MsgDisp("Girl B","Do you think buying both would be worth
 it?
 Okay, let's try working together.");
 MsgDisp("主人公","Phew...

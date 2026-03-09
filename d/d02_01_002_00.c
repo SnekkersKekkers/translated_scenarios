@@ -15,7 +15,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(36,254,0,0,1,#1,#1,0,0);
 VoicePlay("D020100200_36_000");
-MsgDisp("Ryota's Grandpa","Welcome.
+MsgDisp("Grandpa","Welcome.
 ...Oh, you're the reporter.");
 MsgDisp("主人公","I wanted to thank you for all your help
 last time. Ah, I didn't come to interview
@@ -23,17 +23,17 @@ you today...");
 ChEye(36,0);
 ChMouth(36,0);
 VoicePlay("D020100200_36_010");
-MsgDisp("Ryota's Grandpa","I'm happy you stopped by even though it's
+MsgDisp("Grandpa","I'm happy you stopped by even though it's
 not for work.");
 ChEyeOpenLevel(36,#1);
 VoicePlay("D020100200_36_020");
-MsgDisp("Ryota's Grandpa","I asked Ryota to help me with bug drying.
+MsgDisp("Grandpa","I asked Ryota to help me with bug drying.
 So he's working hard in the back.");
 MsgDisp("主人公","Eh, ｛Kazama＊＊｝ is here?");
 ChEye(36,1);
 ChMouth(36,0);
 VoicePlay("D020100200_36_030");
-MsgDisp("Ryota's Grandpa","Yes...
+MsgDisp("Grandpa","Yes...
 You're not here to see Ryota either?
 That makes me even happier.");
 ChEye(36,0);
@@ -42,20 +42,20 @@ talking about, \"bug drying\"?");
 ChEye(36,0);
 ChMouth(36,2);
 VoicePlay("D020100200_36_040");
-MsgDisp("Ryota's Grandpa","Ahh, you know how we have so many books?
+MsgDisp("Grandpa","Ahh, you know how we have so many books?
 We dry them out with air to get rid of any
 insects from the summer.");
 MsgDisp("主人公","I see, you have to air the books out too.");
 ChEye(36,2);
 ChMouth(36,0);
 VoicePlay("D020100200_36_050");
-MsgDisp("Ryota's Grandpa","Yes, it requires a lot of patience and can
+MsgDisp("Grandpa","Yes, it requires a lot of patience and can
 be quite challenging.
 So it's difficult for me to do alone.");
 ChEye(36,0);
 ChMouth(36,0);
 VoicePlay("D020100200_36_060");
-MsgDisp("Ryota's Grandpa","Ryota seems to like this kind of work,
+MsgDisp("Grandpa","Ryota seems to like this kind of work,
 though. He does it quietly and obediently,
 differently from his father.");
 BGMVol(0.5,1.5);
@@ -88,7 +88,7 @@ interrogate him about anything, okay?");
 ChEye(36,0);
 ChMouth(36,1);
 VoicePlay("D020100200_36_070");
-MsgDisp("Ryota's Grandpa","Do you have something you want to hide?");
+MsgDisp("Grandpa","Do you have something you want to hide?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -99,7 +99,7 @@ There's nothing like that.");
 ChEye(36,1);
 ChMouth(36,0);
 VoicePlay("D020100200_36_080");
-MsgDisp("Ryota's Grandpa","Then it should be fine.
+MsgDisp("Grandpa","Then it should be fine.
 ...Right?");
 ChEye(1,2);
 ChMouth(1,2);

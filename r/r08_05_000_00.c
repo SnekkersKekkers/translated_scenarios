@@ -92,10 +92,10 @@ StlEye(5,1);
 VoicePlay("R080500000_05_100");
 MsgDisp("Hiiragi","See, pretty just as I thought.");
 VoicePlay("R080500000_39_000");
-MsgDisp("Male Student A","Hm?
+MsgDisp("Student A","Hm?
 Is that Hiiragi up on stage?");
 VoicePlay("R080500000_41_010");
-MsgDisp("Male Student B","It is!
+MsgDisp("Student B","It is!
 Is this a surprise play∋");
 StlEye(5,2);
 StlMouth(5,2);
@@ -128,7 +128,7 @@ belongs for eternity to only thou.");
 SEPlay("EV_SE_741",0.5,0.7);
 SEPlay("EV_SE_842",0,0.3);
 VoicePlay("R080500000_39_030");
-MsgDisp("Male Student A","Way to go!");
+MsgDisp("Student A","Way to go!");
 StlEyeOpenLevel(5,0,1);
 Wait(3,0);
 StlEye(5,1);

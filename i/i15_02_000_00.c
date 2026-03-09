@@ -88,10 +88,10 @@ We have things for men, too-");
     SEPlay("EV_SE_FOOT_WALK_COME_TWO");
     SEWait();
     VoicePlay("I150200000_47_000");
-    MsgDisp("Woman Customer A","Wah, this is it!
+    MsgDisp("Woman A","Wah, this is it!
 The new product that came out.");
     VoicePlay("I150200000_48_000");
-    MsgDisp("Woman Customer B","It's true, so cute～!");
+    MsgDisp("Woman B","It's true, so cute～!");
     MsgDisp("主人公","Ah, welcome!");
     ChEye(2,0);
     ChMouth(2,0);

@@ -19,10 +19,10 @@ Shouldn't the event be starting soon?)");
 SEPlay("EV_SE_588",0,0.6);
 SEPlay("EV_SE_511",0.2,0.7);
 VoicePlay("D010400000_46_000");
-MsgDisp("Woman Customer A","I finally got to meet her!
+MsgDisp("Woman A","I finally got to meet her!
 So inspiring～!");
 VoicePlay("D010400000_47_000");
-MsgDisp("Woman Customer B","Excuse me, can I get a photo?");
+MsgDisp("Woman B","Excuse me, can I get a photo?");
 MsgDisp("主人公","(The excited voices of women...!
 My reporter antenna tells me there's a
 crowd of people nearby!)");
@@ -41,10 +41,10 @@ MsgDisp("主人公","Woah...
 Such a cool witch!
 She's tall and slender...so beautiful!");
 VoicePlay("D010400000_46_010");
-MsgDisp("Woman Customer A","Sigh...
+MsgDisp("Woman A","Sigh...
 She looks even more lovely in person!");
 VoicePlay("D010400000_47_010");
-MsgDisp("Woman Customer B","Nana▼ｃо-san, you look like you can do
+MsgDisp("Woman B","Nana▼ｃо-san, you look like you can do
 real magic～♪");
 MsgDisp("主人公","(Nanaco-san?
 Oh, it's a woman...she looks like a
@@ -61,9 +61,9 @@ StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0,1);
 VoicePlay("D010400000_47_020");
-MsgDisp("Woman Customer B","Kyaaa!");
+MsgDisp("Woman B","Kyaaa!");
 VoicePlay("D010400000_46_020");
-MsgDisp("Woman Customer A","Show us, show us～▼");
+MsgDisp("Woman A","Show us, show us～▼");
 SEStop("EV_SE_588",2);
 SEStop("EV_SE_511",2);
 StlEye(4,0);
@@ -89,10 +89,10 @@ SEPlay("EV_SE_842",0.2,0.5);
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400000_46_030");
-MsgDisp("Woman Customer A","Nana▼ ｃо-san, that's amazing!
+MsgDisp("Woman A","Nana▼ ｃо-san, that's amazing!
 An interview with Habatcher!");
 VoicePlay("D010400000_47_030");
-MsgDisp("Woman Customer B","Amazing!
+MsgDisp("Woman B","Amazing!
 I want to hear it too～!");
 SEStop("EV_SE_511",3);
 SEStop("EV_SE_842",3);

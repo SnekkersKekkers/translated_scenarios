@@ -38,7 +38,7 @@ ChClose(22);
 MsgDisp("主人公","(Maybe I'll go see it later...
 Hm?)");
 VoicePlay("F102210000_40_000");
-MsgDisp("Garden Club Member","The flowers are missing from the
+MsgDisp("Garden Club","The flowers are missing from the
 flowerbed!
 Who took them without permission∋");
 MsgDisp("主人公","(Eh?

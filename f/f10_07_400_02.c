@@ -12,9 +12,9 @@ BGOpen("sc320",0);
 ChOpen(32,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F100740002_44_000");
-MsgDisp("School Girl A","Ehhh, why is Vice Principal Himuro here?");
+MsgDisp("Girl A","Ehhh, why is Vice Principal Himuro here?");
 VoicePlay("F100740002_42_010");
-MsgDisp("Male Student A","We have biology next right?
+MsgDisp("Student A","We have biology next right?
 Where's Mikagecchi?");
 ChEye(32,0);
 ChMouth(32,0);
@@ -24,9 +24,9 @@ MsgDisp("VP Himuro","...Quiet.
 I have something to tell Mikage-sensei, so
 I'll have to wait here.");
 VoicePlay("F100740002_41_020");
-MsgDisp("Male Student B","Did Mikagecchi do something wrong?");
+MsgDisp("Student B","Did Mikagecchi do something wrong?");
 VoicePlay("F100740002_45_000");
-MsgDisp("School Girl B","Is he gonna get scolded by Himuro-sensei?
+MsgDisp("Girl B","Is he gonna get scolded by Himuro-sensei?
 Poor guy.");
 MsgDisp("主人公","(Ehh?
 ｛Mikage＊＊｝ was praised the other day,
@@ -79,9 +79,9 @@ Thank you.");
 SEPlay("EV_SE_GAYA_025");
 Wait(60,0);
 VoicePlay("F100740002_42_040");
-MsgDisp("Male Student A","Mikagecchi, that's amazing!");
+MsgDisp("Student A","Mikagecchi, that's amazing!");
 VoicePlay("F100740002_44_010");
-MsgDisp("School Girl A","Yeah, that's great!");
+MsgDisp("Girl A","Yeah, that's great!");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("F100740002_32_050");
@@ -90,7 +90,7 @@ only by students, but also by parents.
 You can take pride in that.");
 MsgDisp("主人公","｛Mikage＊＊｝, that's amazing right?!");
 VoicePlay("F100740002_41_060");
-MsgDisp("Male Student B","Mikagecchi, you're awesome!");
+MsgDisp("Student B","Mikagecchi, you're awesome!");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740002_32_060");
@@ -115,7 +115,7 @@ MsgDisp("Mikage","Thank you. It's all thanks to you guys.
 I'm looking forward to the next
 evaluation!");
 VoicePlay("F100740002_42_070");
-MsgDisp("Male Student A","Mikagecchi, treat us when you get a raise!");
+MsgDisp("Student A","Mikagecchi, treat us when you get a raise!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

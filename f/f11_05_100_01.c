@@ -41,7 +41,7 @@ MsgDisp("Hiiragi","I cannot eat another bite.");
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("F110510001_45_000");
-MsgDisp("Woman Customer","Clerk-san, the taiyaki you recommended was
+MsgDisp("Customer","Clerk-san, the taiyaki you recommended was
 super delicious!
 Now I want to eat something salty.");
 ChEye(5,0);

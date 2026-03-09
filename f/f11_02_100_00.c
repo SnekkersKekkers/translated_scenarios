@@ -24,7 +24,7 @@ VoicePlay("F110210000_02_020");
 MsgDisp("Sassa","I don't think that's it, but...");
 ChMouth(2,2);
 VoicePlay("F110210000_42_000");
-MsgDisp("Male Customer","Um, are you Sassa Nozomu from the track
+MsgDisp("Customer","Um, are you Sassa Nozomu from the track
 team?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -33,7 +33,7 @@ VoicePlay("F110210000_02_030");
 MsgDisp("Sassa","Huh?
 Uh, yeah.");
 VoicePlay("F110210000_42_010");
-MsgDisp("Male Customer","I'm in track and field, too.
+MsgDisp("Customer","I'm in track and field, too.
 How'd you do it?
 How'd you set that record?");
 ChEye(2,0);

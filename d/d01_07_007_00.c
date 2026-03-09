@@ -45,7 +45,7 @@ StlEyeOpenLevel(7,5);
 MsgDisp("主人公","｛Mikage＊＊｝∋");
 SEPlay("EV_SE_846",0.1,0.8);
 VoicePlay("D010700700_33_040");
-MsgDisp("Male Customer","Wow, that's amazing!
+MsgDisp("Man","Wow, that's amazing!
 So fast!");
 StlEyeOpenLevel(7,#1);
 VoicePlay("D010700700_48_020");
@@ -65,7 +65,7 @@ StlNear(0,0,30);
 Wait(30,1);
 StlMouth(7,0);
 VoicePlay("D010700700_45_000");
-MsgDisp("Woman Customer","Kyaa, how cool!
+MsgDisp("Woman","Kyaa, how cool!
 He has such a nice smile!");
 MsgDisp("主人公","｛Mikage＊＊｝, what are you...");
 StlEyeOpenLevel(7,#1);

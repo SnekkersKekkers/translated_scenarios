@@ -41,13 +41,13 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 SEWait();
 VoicePlay("F110610001_48_000");
-MsgDisp("School Girl A","Ah, Himuro-kun.
+MsgDisp("Girl A","Ah, Himuro-kun.
 He already left...");
 VoicePlay("F110610001_46_000");
-MsgDisp("School Girl B","I should've been braver...
+MsgDisp("Girl B","I should've been braver...
 Enough to greet him before he left...");
 VoicePlay("F110610001_48_010");
-MsgDisp("School Girl A","There's still time.
+MsgDisp("Girl A","There's still time.
 Go run after him!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO",0,0.6);
 SEWait();

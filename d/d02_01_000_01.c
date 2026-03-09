@@ -139,14 +139,14 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D020100000_44_000");
-MsgDisp("School Girl A","Hey, isn't that Kazama-kun?
+MsgDisp("Girl A","Hey, isn't that Kazama-kun?
 I wonder what he's doing?");
 SEStop("EV_SE_857",2);
 VoicePlay("D020100000_45_000");
-MsgDisp("School Girl B","Who is that girl with him?");
+MsgDisp("Girl B","Who is that girl with him?");
 ChMouth(1,3);
 VoicePlay("D020100000_44_010");
-MsgDisp("School Girl A","I'm not sure.
+MsgDisp("Girl A","I'm not sure.
 But they look really close.");
 SEPlay("EV_SE_857",0.7,0.3);
 SEPlay("EV_SE_515",0.2,0.4);

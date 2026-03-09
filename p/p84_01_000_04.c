@@ -3,9 +3,9 @@ ChClose(1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","From now on, please be careful.");
 VoicePlay("P840100004_39_000");
-MsgDisp("Male Student A","I apologize for the inconvenience...");
+MsgDisp("Student A","I apologize for the inconvenience...");
 VoicePlay("P840100004_41_010");
-MsgDisp("Male Student B","We're very sorry...");
+MsgDisp("Student B","We're very sorry...");
 MsgDisp("主人公","Haa, I'm glad that was resolved without
 incidence.");
 MsgClose();

@@ -54,10 +54,10 @@ Let's live together.");
 MsgDisp("主人公","...Is that really okay?");
 StlEyeOpenLevel(7,0,1);
 VoicePlay("P240700000_44_000");
-MsgDisp("School Girl A","Mikage-sensei, how wonderful...
+MsgDisp("Girl A","Mikage-sensei, how wonderful...
 He's like a real actor.");
 VoicePlay("P240700000_45_000");
-MsgDisp("School Girl B","Yeah, I'm shedding tears...");
+MsgDisp("Girl B","Yeah, I'm shedding tears...");
 VoicePlay("P240700000_33_030");
 MsgDisp("Fahai","Don't mingle with humans, you demon!");
 StlEye(7,1);

@@ -5,10 +5,10 @@ ChMotion(9,5,1);
 ChEyeOpenLevel(9,10);
 ChMouthOpenLevel(9,5);
 VoicePlay("D030901610_40_000");
-MsgDisp("Male Student A","Yo, heroine!
+MsgDisp("Student A","Yo, heroine!
 Nice work!");
 VoicePlay("D030901610_48_000");
-MsgDisp("Female Student A","The play was really amazing～!
+MsgDisp("Girl A","The play was really amazing～!
 The story had me captivated!");
 MsgDisp("主人公","Thank you!");
 ChEye(9,0);
@@ -19,19 +19,19 @@ ChMouthOpenLevel(9,0);
 VoicePlay("D030901610_09_000");
 MsgDisp("Kuya","......");
 VoicePlay("D030901610_41_020");
-MsgDisp("Male Student B","Hey, let's take a picture with the
+MsgDisp("Student B","Hey, let's take a picture with the
 heroine!");
 VoicePlay("D030901610_45_000");
-MsgDisp("School Girl B","Nice idea!
+MsgDisp("Girl B","Nice idea!
 It'll make a good memory.");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901610_40_040");
-MsgDisp("Male Student A","I want a photo with just the two of us!");
+MsgDisp("Student A","I want a photo with just the two of us!");
 VoicePlay("D030901610_41_050");
-MsgDisp("Male Student B","Me too!");
+MsgDisp("Student B","Me too!");
 MsgDisp("主人公","W-Wait a minute...");
 ChEye(9,0);
 ChMouth(9,4);

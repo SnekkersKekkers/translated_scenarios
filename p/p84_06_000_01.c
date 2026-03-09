@@ -11,7 +11,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P840600001_48_000");
-MsgDisp("Woman Customer","Hey, I'm still waiting for my tea.");
+MsgDisp("Customer","Hey, I'm still waiting for my tea.");
 MsgDisp("主人公","P-Please wait a momentー!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

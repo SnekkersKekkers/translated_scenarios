@@ -49,7 +49,7 @@ I'll give it a whirl.
 Good morningー.");
         ChMouth(3,0);
         SEPlay("EV_SE_796",0,0.9);
-        MsgDisp("Stuffed Animal","Good morningー.");
+        MsgDisp("Plushie","Good morningー.");
         MsgDisp("主人公","Hehe, its voice is a little off.
 But it's cute.");
         ChEye(3,0);
@@ -69,7 +69,7 @@ just as it is.");
         ChMouth(3,4);
         ChMotion(3,5);
         SEPlay("EV_SE_797",0,0.9);
-        MsgDisp("Stuffed Animal","Let's enjoy today together!
+        MsgDisp("Plushie","Let's enjoy today together!
 Let's enjoy today together!
 Let's enjoy today toget——");
         MsgDisp("主人公","Ehhh!");

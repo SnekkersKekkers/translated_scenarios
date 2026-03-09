@@ -34,11 +34,11 @@ MsgDisp("Kazama","Isn't it weird?
 How did they know I'd be here today, if
 I'm just filling in...");
 VoicePlay("E010110100_47_000");
-MsgDisp("Woman Customer A","I heard Kazama-kun's at Simon today!");
+MsgDisp("Woman A","I heard Kazama-kun's at Simon today!");
 ChEye(1,0);
 ChMotion(1,3);
 VoicePlay("E010110100_48_000");
-MsgDisp("Woman Customer B","Yeah, I got the info too.
+MsgDisp("Woman B","Yeah, I got the info too.
 Let's hurry!");
 ChEye(1,2);
 ChMouth(1,2);
@@ -63,7 +63,7 @@ MsgDisp("Kazama","Sorry for keeping you waiting.");
 SEPlay("EV_SE_637",0.3,0.3);
 Wait(30,0);
 VoicePlay("E010110100_47_010");
-MsgDisp("Woman Customer A","Ah, there's Kazama-kun!
+MsgDisp("Woman A","Ah, there's Kazama-kun!
 We need your advice for a gift～!");
 SEStop("EV_SE_637",2);
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to be getting more and

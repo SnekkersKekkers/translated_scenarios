@@ -35,7 +35,7 @@ I'm not a suspicious person, right?");
     VoicePlay("D030901300_08_000");
     MsgDisp("Daichi?","What's suspicious?");
     VoicePlay("D030901300_45_000");
-    MsgDisp("Shirahane Mayo?","Wait, Kuya, who are you calling?");
+    MsgDisp("Mayo?","Wait, Kuya, who are you calling?");
     VoicePlay("D030901300_09_020");
     MsgDisp("Kuya","Wait a moment...");
     VoicePlay("D030901300_09_030");

@@ -17,7 +17,7 @@ switch (ChPrmGet(8,6)){
 ...Full marks!");
     MsgDisp("主人公","Yes!");
     VoicePlay("I660800005_39_000");
-    MsgDisp("Male Customer","Ooh!
+    MsgDisp("Customer","Ooh!
 My car's looking nice and shiny!");
     ChEye(8,3);
     ChMouth(8,3);
@@ -26,7 +26,7 @@ My car's looking nice and shiny!");
     MsgDisp("Shirahane","Her techniques are top notch.
 Come again!");
     VoicePlay("I660800005_39_010");
-    MsgDisp("Male Customer","Yeah, this is amazing.
+    MsgDisp("Customer","Yeah, this is amazing.
 Take care of it next time too.");
     ChMotion(8,3,1);
     ChEyeOpenLevel(8,0);
@@ -62,7 +62,7 @@ A full 100 points!");
     ChEyeOpenLevel(8,#1);
     MsgDisp("主人公","Yay!");
     VoicePlay("I660800005_39_020");
-    MsgDisp("Male Customer","Wow!
+    MsgDisp("Customer","Wow!
 My car looks good as new∋");
     ChEye(8,3);
     ChMouth(8,3);
@@ -73,7 +73,7 @@ With her techniques, any car can look good
 as new～!");
     MsgDisp("主人公","That's...");
     VoicePlay("I660800005_39_030");
-    MsgDisp("Male Customer","It really is amazing.
+    MsgDisp("Customer","It really is amazing.
 I'll ask for you again, pretty lady.");
     ChEye(8,4);
     ChMouth(8,2);
@@ -84,7 +84,7 @@ I'll ask for you again, pretty lady.");
 You should be leaving with a clean car and
 heart.");
     VoicePlay("I660800005_39_040");
-    MsgDisp("Male Customer","Sorry, sorry, Dai-chan.
+    MsgDisp("Customer","Sorry, sorry, Dai-chan.
 Well, I'll ask for her again next time!");
     SEPlay("EV_SE_589",1);
     Wait(50,0);

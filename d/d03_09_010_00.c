@@ -31,7 +31,7 @@ VoicePlay("D030901000_09_020");
 MsgDisp("Kuya","My sister called me here to help her with
 something.");
 VoicePlay("D030901000_45_000");
-MsgDisp("Shirahane Mayo","Kuya, over here!");
+MsgDisp("Mayo","Kuya, over here!");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);

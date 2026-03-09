@@ -7,7 +7,7 @@ switch (ChPrmGet(8,6)){
     case 2:
     case 3:
     VoicePlay("I660800007_39_000");
-    MsgDisp("Male Customer","Thanks.
+    MsgDisp("Customer","Thanks.
 See you again ▼");
     SEPlay("EV_SE_589",1);
     Wait(90,0);
@@ -46,7 +46,7 @@ recognized.)");
     case 4:
     case 5:
     VoicePlay("I660800007_39_010");
-    MsgDisp("Male Customer","See ya, thanks ▼");
+    MsgDisp("Customer","See ya, thanks ▼");
     SEPlay("EV_SE_589");
     Wait(90,0);
     MsgDisp("主人公","Thank you very much!

@@ -15,11 +15,11 @@ ChLayout(1);
 SEPlay("EV_SE_515",0.2,0.2);
 SEPlay("EV_SE_860");
 VoicePlay("A020700000_44_000");
-MsgDisp("School Girl A","∋
+MsgDisp("Girl A","∋
 Who's that guy?");
 SEStop("EV_SE_860",1.5);
 VoicePlay("A020700000_42_010");
-MsgDisp("Male Student A","The electrician?");
+MsgDisp("Student A","The electrician?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -32,9 +32,9 @@ ChMotion(7,1);
 VoicePlay("A020700000_07_010");
 MsgDisp("Mikage?","Heh.");
 VoicePlay("A020700000_41_020");
-MsgDisp("Male Student B","He's laughing?");
+MsgDisp("Student B","He's laughing?");
 VoicePlay("A020700000_45_000");
-MsgDisp("School Girl B","His smile is so cute!");
+MsgDisp("Girl B","His smile is so cute!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -67,13 +67,13 @@ SEPlay("EV_SE_862",0,0.5);
 SEPlay("EV_SE_863",0,0.6);
 SEPlay("EV_SE_GAYA_022",0,0.4);
 VoicePlay("A020700000_44_010");
-MsgDisp("School Girl A","What!!");
+MsgDisp("Girl A","What!!");
 VoicePlay("A020700000_45_010");
-MsgDisp("School Girl B","Kidding right?");
+MsgDisp("Girl B","Kidding right?");
 VoicePlay("A020700000_42_060");
-MsgDisp("Male Student A","Seriously?");
+MsgDisp("Student A","Seriously?");
 VoicePlay("A020700000_41_070");
-MsgDisp("Male Student B","Oh man, for real!?");
+MsgDisp("Student B","Oh man, for real!?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -167,7 +167,7 @@ MsgDisp("Mikage","I managed to survive, but I was forced to
 change in the process...");
 SEPlay("EV_SE_GAYA_017",0,1);
 VoicePlay("A020700000_45_020");
-MsgDisp("School Girl B","Sensei, you look good!");
+MsgDisp("Girl B","Sensei, you look good!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -183,7 +183,7 @@ MsgDisp("Mikage","Well, I guess today you get a
 special edition version of me. So?
 Where were we?");
 VoicePlay("A020700000_42_090");
-MsgDisp("Male Student A","You barely told us your name.");
+MsgDisp("Student A","You barely told us your name.");
 SEPlay("EV_SE_864",0.2,0.4);
 SEPlay("EV_SE_GAYA_016",0.3,0.7);
 SEPlay("EV_SE_788",0.2,0.5);
@@ -213,7 +213,7 @@ MsgDisp("Mikage","Wow, look at the time.
 Anyone got a final question they're
 just dying to ask?");
 VoicePlay("A020700000_45_030");
-MsgDisp("School Girl B","Sensei, what subject do you 
+MsgDisp("Girl B","Sensei, what subject do you 
 teach?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -246,9 +246,9 @@ MsgDisp("Mikage","This is Molly.
 She's a Holstein we have back at home.");
 MsgDisp("主人公","A cow back at home∋");
 VoicePlay("A020700000_42_110");
-MsgDisp("Male Student A","Wow, his pet is a cow?");
+MsgDisp("Student A","Wow, his pet is a cow?");
 VoicePlay("A020700000_44_020");
-MsgDisp("School Girl A","Sensei, you're from a farm or 
+MsgDisp("Girl A","Sensei, you're from a farm or 
 something?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -261,13 +261,13 @@ SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.9);
 SEPlay("EV_SE_788",0.2);
 VoicePlay("A020700000_44_030");
-MsgDisp("School Girl A","Hahaha! So funny!");
+MsgDisp("Girl A","Hahaha! So funny!");
 VoicePlay("A020700000_45_040");
-MsgDisp("School Girl B","But I wanna know more～!");
+MsgDisp("Girl B","But I wanna know more～!");
 VoicePlay("A020700000_42_150");
-MsgDisp("Male Student A","A teacher with a pet cow!");
+MsgDisp("Student A","A teacher with a pet cow!");
 VoicePlay("A020700000_41_160");
-MsgDisp("Male Student B","So crazy!");
+MsgDisp("Student B","So crazy!");
 SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.8);
 SEPlay("EV_SE_788",0.2);

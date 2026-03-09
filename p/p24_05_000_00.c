@@ -50,9 +50,9 @@ ideals.
 I cannot let it be extinguished.");
 SEPlay("EV_SE_736",0.2,0.7);
 VoicePlay("P240500000_40_010");
-MsgDisp("Male Student A","Wow that's impressive...");
+MsgDisp("Student A","Wow that's impressive...");
 VoicePlay("P240500000_48_000");
-MsgDisp("School Girl A","Yes, it's wonderful...");
+MsgDisp("Girl A","Yes, it's wonderful...");
 SEStop("EV_SE_736",2);
 MsgDisp("主人公","The lord's heart has reached the people of
 the town.");
@@ -160,13 +160,13 @@ ChMouth(5,2);
 ChMotion(5,5);
 ChCheek(5,5);
 VoicePlay("P240500000_42_030");
-MsgDisp("Male Student B","That was great, huh.
+MsgDisp("Student B","That was great, huh.
 So moving!");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P240500000_44_000");
-MsgDisp("School Girl B","Yeah, I teared up.
+MsgDisp("Girl B","Yeah, I teared up.
 Thanks for showing up, Hiiragi-kun.");
 ChEye(5,4);
 ChMouth(5,4);

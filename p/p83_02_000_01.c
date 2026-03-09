@@ -8,11 +8,11 @@ switch (ChPrmGet(2,6)){
     BGOpen("sc605",0);
     ScrFadeIn(0);
     VoicePlay("P830200001_48_000");
-    MsgDisp("School Girl A","Is there enough garbage bags?");
+    MsgDisp("Girl A","Is there enough garbage bags?");
     MsgDisp("主人公","Yes, we do.
 There's lots prepared.");
     VoicePlay("P830200001_44_000");
-    MsgDisp("School Girl B","Be careful to not ru n out of other
+    MsgDisp("Girl B","Be careful to not ru n out of other
 supplies.");
     MsgDisp("主人公","Yeーs.");
     MsgClose();
@@ -54,7 +54,7 @@ Then, I'll see you later.");
     BGOpen("sc605",0);
     ScrFadeIn(0);
     VoicePlay("P830200001_48_010");
-    MsgDisp("School Girl A","How is it, does it look like there's
+    MsgDisp("Girl A","How is it, does it look like there's
 enough garbage bags?");
     MsgDisp("主人公","Yes, we do.
 There's lots prepared.");
@@ -87,7 +87,7 @@ seem busy.");
     MsgDisp("主人公","Thank you.
 Yeah, now is a bit...");
     VoicePlay("P830200001_46_000");
-    MsgDisp("School Girl C","Umーexcuse me.
+    MsgDisp("Girl C","Umーexcuse me.
 Do you have a garbage bag?");
     MsgDisp("主人公","Ah, yes.
 I have them here.");

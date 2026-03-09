@@ -5,15 +5,15 @@ MsgDisp("主人公","(This year's a success, too.
 Maybe there are more general visitors than
 last year?)");
 VoicePlay("F110710001_47_000");
-MsgDisp("Woman Customer A","Um, excuse me.
+MsgDisp("Woman A","Um, excuse me.
 Where do I go to meet the pony prince?");
 MsgDisp("主人公","Huh?
 Pony prince?");
 VoicePlay("F110710001_48_000");
-MsgDisp("Woman Customer B","I met him!
+MsgDisp("Woman B","I met him!
 At the horse riding lessons.");
 VoicePlay("F110710001_47_010");
-MsgDisp("Woman Customer A","Really∋
+MsgDisp("Woman A","Really∋
 Sorry, looks like it's over there!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 SEWait();

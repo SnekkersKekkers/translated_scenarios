@@ -21,7 +21,7 @@ MsgDisp("主人公","He's a kind person that always helps those
 in trouble. But the only other thing I
 know is that his name is \"Kuya\"...");
 VoicePlay("D030900200_45_000");
-MsgDisp("Shirahane Mayo","Eh, \"Kuya\"?");
+MsgDisp("Mayo","Eh, \"Kuya\"?");
 VoicePlay("D030900200_41_010");
 MsgDisp("Tanaka Shin","That \"Kuya\" you're talking about is
 probably Mayo-senpai's...");

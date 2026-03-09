@@ -20,7 +20,7 @@ SEWait();
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("F110510002_45_000");
-MsgDisp("Woman Customer A","Clerk-san, where's the tastiest yakisoba?");
+MsgDisp("Woman A","Clerk-san, where's the tastiest yakisoba?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -29,7 +29,7 @@ MsgDisp("Hiiragi","For a classic sauce flavor, there's the
 baseball club's traditional Habataki High
 Sauce yakisoba.");
 VoicePlay("F110510002_47_000");
-MsgDisp("Woman Customer B","Yeah, you can't go wrong with a classic.
+MsgDisp("Woman B","Yeah, you can't go wrong with a classic.
 I'll try going there now.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);

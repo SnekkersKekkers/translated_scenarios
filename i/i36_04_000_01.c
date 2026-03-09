@@ -13,7 +13,7 @@ shortcake.");
     SEPlay("EV_SE_001",0,0.5);
     SEWait();
     VoicePlay("I360400001_36_000");
-    MsgDisp("Male Customer","Yeah, thanks.
+    MsgDisp("Customer","Yeah, thanks.
 You're getting more used to this.");
     MsgDisp("主人公","Yes, thank you very much!");
     MsgClose();
@@ -52,7 +52,7 @@ shortcake.");
     SEPlay("EV_SE_001",0,0.5);
     SEWait();
     VoicePlay("I360400001_36_010");
-    MsgDisp("Male Customer","Yeah, thanks.
+    MsgDisp("Customer","Yeah, thanks.
 The strawberries look delicious.");
     MsgDisp("主人公","Thank you very much!");
     MsgClose();

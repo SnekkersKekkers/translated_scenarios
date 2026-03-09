@@ -22,7 +22,7 @@ MsgClose();
 SEPlay("EV_SE_723");
 Wait(50,0);
 VoicePlay("D010500500_43_000");
-MsgDisp("Theater Member A","Ooogh!
+MsgDisp("Troupe A","Ooogh!
 Taah!");
 VoicePlay("D010500500_05_000");
 MsgDisp("Hiiragi?","If you can't do it in practice, how will
@@ -46,14 +46,14 @@ ScrFadeIn(0);
 SEPlay("EV_SE_723");
 Wait(50,0);
 VoicePlay("D010500500_43_010");
-MsgDisp("Theater Member A","Ouugh!
+MsgDisp("Troupe A","Ouugh!
 Ahhh!");
 MsgDisp("主人公","(Wow, so intense...)");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500500_33_020");
-MsgDisp("Theater Member B","The chairman is difficult today too...");
+MsgDisp("Troupe B","The chairman is difficult today too...");
 VoicePlay("D010500500_46_000");
-MsgDisp("Theater Member C","Yeah, the chairman is on a completely
+MsgDisp("Troupe C","Yeah, the chairman is on a completely
 different level...
 If you're not careful, you'll get hurt.");
 MsgDisp("主人公","(......)");
@@ -64,14 +64,14 @@ MsgDisp("Hiiragi","There!
 Look carefully.
 Remember it.");
 VoicePlay("D010500500_33_040");
-MsgDisp("Theater Member B","Y-Yes sir!");
+MsgDisp("Troupe B","Y-Yes sir!");
 StlEye(5,0);
 StlMouth(5,1);
 VoicePlay("D010500500_05_020");
 MsgDisp("Hiiragi","Let's do it again.
 Starting from the beginning.");
 VoicePlay("D010500500_38_000");
-MsgDisp("Theater Members","Yes sir!");
+MsgDisp("Troupe","Yes sir!");
 SEPlay("EV_SE_723");
 Wait(50,0);
 SEStop("EV_SE_723",2);
@@ -100,7 +100,7 @@ MsgDisp("Hiiragi","I hope you are able to write a good
 article.");
 ChMouth(5,2);
 VoicePlay("D010500500_38_010");
-MsgDisp("Theater Members","Hahaha.");
+MsgDisp("Troupe","Hahaha.");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -135,7 +135,7 @@ ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500500_38_020");
-MsgDisp("Theater Members","Hahaha.");
+MsgDisp("Troupe","Hahaha.");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,4);

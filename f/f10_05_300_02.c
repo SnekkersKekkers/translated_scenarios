@@ -10,14 +10,14 @@ greeting enforcement campaign.)");
 VoicePlay("F100530002_05_000");
 MsgDisp("Hiiragi","Good morning.");
 VoicePlay("F100530002_40_000");
-MsgDisp("Male Student A","Yo.");
+MsgDisp("Student A","Yo.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100530002_05_010");
 MsgDisp("Hiiragi","Ah, that is also a fun greeting.");
 VoicePlay("F100530002_39_010");
-MsgDisp("Male Student B","Yoー!");
+MsgDisp("Student B","Yoー!");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -34,7 +34,7 @@ MsgDisp("Hiiragi","Yes.
 Fun greetings are great because they make
 everyone smile naturally.");
 VoicePlay("F100530002_40_020");
-MsgDisp("Male Student A","I see, use it as much as you like,
+MsgDisp("Student A","I see, use it as much as you like,
 Yanosuke.");
 ChEye(5,0);
 ChMouth(5,4);

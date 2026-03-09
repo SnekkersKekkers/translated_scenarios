@@ -11,7 +11,7 @@ School.");
 SEStop("EV_SE_820",3);
 MsgClear();
 VoicePlay("Y300800400_42_000");
-MsgDisp("Male Student A","\"Honestly speaking!
+MsgDisp("Student A","\"Honestly speaking!
 That Haba High girl, which brother's
 girlfriend is she～?\"");
 MsgDisp("","Idiot!
@@ -20,7 +20,7 @@ like that!");
 MsgDisp("","That girl...is not my girlfriend.");
 MsgClear();
 VoicePlay("Y300800400_33_010");
-MsgDisp("Male Student B","\"Rather than Daichi, I feel like
+MsgDisp("Student B","\"Rather than Daichi, I feel like
 she's more well matched for
 Kuya-senpaiー!\"");
 MsgDisp("","Unh.");
@@ -75,7 +75,7 @@ lookin' at us brothers with their
 mouths hung open. That's what you
 call looking like an idiot...");
 VoicePlay("Y300800400_42_030");
-MsgDisp("Male Student A","\"No, that's not really an answer...\"");
+MsgDisp("Student A","\"No, that's not really an answer...\"");
 MsgClear();
 BGOpen("ad842",0);
 VoicePlay("Y300800400_47_010");

@@ -8,14 +8,14 @@ switch (ChPrmGet(8,6)){
     case 3:
     MsgDisp("主人公","Alright, alright...");
     VoicePlay("I660800000_39_000");
-    MsgDisp("Male Customer","Wait, wait!");
+    MsgDisp("Man","Wait, wait!");
     MsgDisp("主人公","Huh?");
     VoicePlay("I660800000_39_010");
-    MsgDisp("Male Customer","There's a car over here, too, so be
+    MsgDisp("Man","There's a car over here, too, so be
 careful.");
     MsgDisp("主人公","I'm so sorry!");
     VoicePlay("I660800000_45_000");
-    MsgDisp("Woman Customer","Excuse me!
+    MsgDisp("Woman","Excuse me!
 The gas flap is still open!");
     MsgDisp("主人公","Ah...
 I'm sorry!");
@@ -46,10 +46,10 @@ C'mon, hurry.");
     case 5:
     MsgDisp("主人公","Alright, alright...");
     VoicePlay("I660800000_39_030");
-    MsgDisp("Male Customer","Stop, stop!");
+    MsgDisp("Man","Stop, stop!");
     MsgDisp("主人公","Huh?");
     VoicePlay("I660800000_39_040");
-    MsgDisp("Male Customer","Geez...look behind properly, my car's
+    MsgDisp("Man","Geez...look behind properly, my car's
 right there!");
     MsgDisp("主人公","I'm so sorry!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
@@ -63,7 +63,7 @@ right there!");
 She's still gettin' used to it, so please
 understand!");
     VoicePlay("I660800000_39_050");
-    MsgDisp("Male Customer","Dai-chan, I'm counting on you.");
+    MsgDisp("Man","Dai-chan, I'm counting on you.");
     SEPlay("EV_SE_589",1);
     Wait(50,0);
     ChEye(8,4);

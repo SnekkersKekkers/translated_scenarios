@@ -11,7 +11,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);
 VoicePlay("F110210001_42_000");
-MsgDisp("Male Customer A","Sassa-kun!
+MsgDisp("Man A","Sassa-kun!
 I brought my team this year.");
 ChEye(2,5);
 ChMouth(2,0);
@@ -22,7 +22,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("F110210001_33_010");
-MsgDisp("Male Customer B","Sassa-kun!
+MsgDisp("Man B","Sassa-kun!
 Nice to meet you!");
 ChEye(2,0);
 ChMouth(2,0);
@@ -31,7 +31,7 @@ VoicePlay("F110210001_02_020");
 MsgDisp("Sassa","Oh, you're the one from track I spoke to
 last year, right...?");
 VoicePlay("F110210001_42_020");
-MsgDisp("Male Customer A","Yep.
+MsgDisp("Man A","Yep.
 I told you I'd bring my friends last year.
 My track and field club.");
 ChEye(2,0);

@@ -12,7 +12,7 @@ ScrFadeOut(0);
 BGOpen("ad210",0);
 ScrFadeIn(0);
 VoicePlay("Y300200100_40_000");
-MsgDisp("Track Club Member","\"Listen, this is the last year for
+MsgDisp("Track Club","\"Listen, this is the last year for
 the seniors. If you act like that
 after winning, the losers can't rest
 in peace.\"");

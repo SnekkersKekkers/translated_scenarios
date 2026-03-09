@@ -11,15 +11,15 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B330A30300_47_000");
-MsgDisp("Woman Customer A","Amazing, I got to see Kazama-kun!");
+MsgDisp("Woman A","Amazing, I got to see Kazama-kun!");
 VoicePlay("B330A30300_48_000");
-MsgDisp("Woman Customer B","I heard you weren't on shift today though.");
+MsgDisp("Woman B","I heard you weren't on shift today though.");
 ChMotion(2,4);
 VoicePlay("B330A30300_01_000");
 MsgDisp("Kazama","I came to do some personal shopping today.
 See you then.");
 VoicePlay("B330A30300_47_010");
-MsgDisp("Woman Customer A","Ehhh～, you're leaving?");
+MsgDisp("Woman A","Ehhh～, you're leaving?");
 MsgDisp("主人公","｛Kazama＊＊｝...is super popular huh.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -49,10 +49,10 @@ MsgDisp("Sassa","Ryota.");
 VoicePlay("B330A30300_06_020");
 MsgDisp("Himuro","Excuse me, Ryota-senpai!");
 VoicePlay("B330A30300_47_020");
-MsgDisp("Woman Customer A","He called him \"Ryota-senpai\".
+MsgDisp("Woman A","He called him \"Ryota-senpai\".
 That's kind of cute.");
 VoicePlay("B330A30300_48_010");
-MsgDisp("Woman Customer B","Yeah, the red glasses are stylish too.");
+MsgDisp("Woman B","Yeah, the red glasses are stylish too.");
 VoicePlay("B330A30300_06_030");
 MsgDisp("Himuro","...Eh?");
 MsgDisp("","　　　　　　　　　　 ・

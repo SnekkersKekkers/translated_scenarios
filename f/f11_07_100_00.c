@@ -36,7 +36,7 @@ VoicePlay("F110710000_07_040");
 MsgDisp("Mikage","Miss, don't you want to have a go at
 riding the pony?");
 VoicePlay("F110710000_47_000");
-MsgDisp("Woman Customer","Huh?
+MsgDisp("Customer","Huh?
 Is this horse riding?");
 VoicePlay("F110710000_07_050");
 MsgDisp("Mikage","That's right, with a cute pony.");

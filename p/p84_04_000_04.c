@@ -3,9 +3,9 @@ MsgDisp("主人公","No one was injured.
 Has the issue with the order of things
 been settled?");
 VoicePlay("P840400004_39_000");
-MsgDisp("Male Student A","Yes, we're sorry.");
+MsgDisp("Student A","Yes, we're sorry.");
 VoicePlay("P840400004_41_010");
-MsgDisp("Male Student B","We also panicked and caused you
+MsgDisp("Student B","We also panicked and caused you
 trouble....
 We're very sorry!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");

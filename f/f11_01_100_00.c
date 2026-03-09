@@ -15,14 +15,14 @@ ChEyeOpenLevel(1,8);
 VoicePlay("F110110000_01_010");
 MsgDisp("Kazama","Well, you see...");
 VoicePlay("F110110000_47_000");
-MsgDisp("Woman Customer A","Ah, found you!
+MsgDisp("Woman A","Ah, found you!
 Kazama-kun!");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("F110110000_48_000");
-MsgDisp("Woman Customer B","Show us around Habataki High!");
+MsgDisp("Woman B","Show us around Habataki High!");
 ChEye(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
@@ -57,7 +57,7 @@ I'll guide you now.");
 VoicePlay("F110110000_45_010");
 MsgDisp("Girl","Yay!");
 VoicePlay("F110110000_47_010");
-MsgDisp("Woman Customer A","Thank you, Kazama-kun!");
+MsgDisp("Woman A","Thank you, Kazama-kun!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(16,0);

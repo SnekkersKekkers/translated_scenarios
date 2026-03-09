@@ -35,10 +35,10 @@ SEPlay("EV_SE_511",3,0.3);
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D010100400_47_000");
-MsgDisp("Woman Customer A","Wow, look.
+MsgDisp("Woman A","Wow, look.
 There's a new item.");
 VoicePlay("D010100400_48_000");
-MsgDisp("Woman Customer B","Oh, you're right.
+MsgDisp("Woman B","Oh, you're right.
 Huh...
 Where is Kazama-kun?");
 SEStop("EV_SE_843",2);

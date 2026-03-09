@@ -269,14 +269,14 @@ ChMouth(1,4);
 ChMotion(1,0);
 Wait(60,1);
 VoicePlay("A020100000_48_000");
-MsgDisp("School Girl A","Look, over there!
+MsgDisp("Girl A","Look, over there!
 That's Kazama Ryota-kun.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("A020100000_44_000");
-MsgDisp("School Girl B","So the rumors were true～∈
+MsgDisp("Girl B","So the rumors were true～∈
 What should we do if we
 end up in his class～∋");
 ChEye(1,4);
@@ -284,7 +284,7 @@ ChMouth(1,1);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("A020100000_48_010");
-MsgDisp("School Girl A","I know, right!?
+MsgDisp("Girl A","I know, right!?
 My grandpa even calls him \"young master\"!
 He's like, royalty or something!!");
 MsgDisp("主人公","?

@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgDisp("主人公","These are the recommended products today.");
     VoicePlay("I160100002_47_000");
-    MsgDisp("Woman Customer","What color do you recommend?");
+    MsgDisp("Customer","What color do you recommend?");
     MsgDisp("主人公","Let's see...
 Personally, I have the pink shade.
 The other colors-");
@@ -39,7 +39,7 @@ Let's keep doing our best!)");
 There are a lot of different colors, so
 please take your time.");
     VoicePlay("I160100002_47_010");
-    MsgDisp("Woman Customer","Thank you.
+    MsgDisp("Customer","Thank you.
 What color do you recommend?");
     MsgDisp("主人公","For you, I think bright colors would be
 best.

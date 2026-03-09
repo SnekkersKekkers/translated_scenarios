@@ -15,7 +15,7 @@ build and reclaim land which expanded the
 country.");
 MsgDisp("主人公","The windmills were used to pump water.");
 VoicePlay("Q070700000_42_000");
-MsgDisp("Male Student A","Sensei, are we still having the
+MsgDisp("Student A","Sensei, are we still having the
 extracurricular activity?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -26,7 +26,7 @@ participants is closed.
 Right?");
 MsgDisp("主人公","Hehe, yes.");
 VoicePlay("Q070700000_41_010");
-MsgDisp("Male Student B","I mean, nobody wanted to anyway.
+MsgDisp("Student B","I mean, nobody wanted to anyway.
 See you later.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -76,9 +76,9 @@ MsgDisp("Mikage","That type is the most terrifying.
 Not the modern skyscrapers, but the old
 stuff.");
 VoicePlay("Q070700000_46_000");
-MsgDisp("School Girl A","Let's go to the observation room next!");
+MsgDisp("Girl A","Let's go to the observation room next!");
 VoicePlay("Q070700000_47_000");
-MsgDisp("School Girl B","Agreed!");
+MsgDisp("Girl B","Agreed!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

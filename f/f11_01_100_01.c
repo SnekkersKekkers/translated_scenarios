@@ -19,7 +19,7 @@ me.");
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
 VoicePlay("F110110001_48_000");
-MsgDisp("School Girl A","Kazama-senpai, if it's okay, can we walk
+MsgDisp("Girl A","Kazama-senpai, if it's okay, can we walk
 around together?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -27,7 +27,7 @@ ChMotion(1,0);
 VoicePlay("F110110001_01_020");
 MsgDisp("Kazama","Ah.");
 VoicePlay("F110110001_46_000");
-MsgDisp("School Girl B","Kazama-senpai, go with me, too～
+MsgDisp("Girl B","Kazama-senpai, go with me, too～
 I want to enjoy the festival!");
 ChEye(1,2);
 ChMouth(1,2);
@@ -59,7 +59,7 @@ VoicePlay("F110110001_01_050");
 MsgDisp("Kazama","Sorry, everyone!
 I have to go...!");
 VoicePlay("F110110001_48_010");
-MsgDisp("School Girl A","Huh?
+MsgDisp("Girl A","Huh?
 Kazama-senpai!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);

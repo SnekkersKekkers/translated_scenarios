@@ -59,7 +59,7 @@ well?");
     MsgDisp("Hiiragi","Yes, if it was practice or rehearsals it
 would not be a problem at all, but...");
     VoicePlay("I650500000_43_000");
-    MsgDisp("Theater Member","Chairman, if we don't hurry, we'll be
+    MsgDisp("Troupe","Chairman, if we don't hurry, we'll be
 late.");
     ChEye(5,0);
     ChMotion(5,4,1);

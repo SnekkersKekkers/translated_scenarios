@@ -4,9 +4,9 @@ switch (ChPrmGet(1,6)){
     case 2:
     MsgDisp("主人公","(What should I do about my partner...)");
     VoicePlay("O030101000_44_000");
-    MsgDisp("School Girl A","Kazama-kun, where are you?");
+    MsgDisp("Girl A","Kazama-kun, where are you?");
     VoicePlay("O030101000_45_000");
-    MsgDisp("School Girl B","He's probably been taken by someone else
+    MsgDisp("Girl B","He's probably been taken by someone else
 already.
 Let's give up, okay?");
     MsgDisp("主人公","(Taken...?
@@ -38,9 +38,9 @@ Let's do our best!");
     case 3:
     MsgDisp("主人公","(What should I do about my partner...)");
     VoicePlay("O030101000_44_010");
-    MsgDisp("School Girl A","Kazama-kun was walking around here...");
+    MsgDisp("Girl A","Kazama-kun was walking around here...");
     VoicePlay("O030101000_45_010");
-    MsgDisp("School Girl B","Yeah, let's look around some more.");
+    MsgDisp("Girl B","Yeah, let's look around some more.");
     MsgDisp("主人公","(Looks like everyone wants to be in the
 three-legged race with ｛Kazama＊＊｝.)");
     MsgClose();
@@ -83,13 +83,13 @@ partners that way, right?");
     case 5:
     MsgDisp("主人公","(What should I do about my partner...)");
     VoicePlay("O030101000_44_020");
-    MsgDisp("School Girl A","Ah, Kazama-kun.
+    MsgDisp("Girl A","Ah, Kazama-kun.
 Do you want to do the three-legged race
 with me?");
     VoicePlay("O030101000_01_070");
     MsgDisp("Kazama?","Sorry, I already have a partner.");
     VoicePlay("O030101000_44_030");
-    MsgDisp("School Girl A","Someone else already got you～
+    MsgDisp("Girl A","Someone else already got you～
 Too bad.");
     MsgClose();
     SEPlay("EV_SE_625");

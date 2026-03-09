@@ -11,16 +11,16 @@ SEPlay("EV_SE_619",0.2);
 SEPlay("EV_SE_844",0.2,0.6);
 ScrFadeIn(0);
 VoicePlay("D010400500_40_000");
-MsgDisp("Male Student A","Awesome...
+MsgDisp("Student A","Awesome...
 This is seriously cool!");
 VoicePlay("D010400500_41_010");
-MsgDisp("Male Student B","Isn't it～
+MsgDisp("Student B","Isn't it～
 It's different when a model wears it.");
 MsgDisp("主人公","(Ah...
 It looks like the boys are looking at the
 latest edition of Habatcher.)");
 VoicePlay("D010400500_41_020");
-MsgDisp("Male Student B","Nana really is cool huh～");
+MsgDisp("Student B","Nana really is cool huh～");
 MsgDisp("主人公","!");
 MsgClose();
 SEStop("EV_SE_619",1);
@@ -32,9 +32,9 @@ StlEye(4,0);
 StlMouth(4,0);
 ScrFadeIn(0);
 VoicePlay("D010400500_40_030");
-MsgDisp("Male Student A","Let me see, too.");
+MsgDisp("Student A","Let me see, too.");
 VoicePlay("D010400500_39_040");
-MsgDisp("Male Student C","Oy, don't pull on the book!
+MsgDisp("Student C","Oy, don't pull on the book!
 You'll tear the Nana special edition∋");
 MsgDisp("主人公","(Come to think of it, this month's issue
 is on new items from \"Nana\".)");
@@ -42,30 +42,30 @@ StlMouthOpenLevel(4,0);
 VoicePlay("D010400500_04_000");
 MsgDisp("Nanatsumori","......");
 VoicePlay("D010400500_40_050");
-MsgDisp("Male Student A","Nana's even cool with guys.
+MsgDisp("Student A","Nana's even cool with guys.
 Those clothes and accessories look really
 good on him.");
 VoicePlay("D010400500_39_060");
-MsgDisp("Male Student C","It's because anything Nana wears ends up
+MsgDisp("Student C","It's because anything Nana wears ends up
 looking cool, right?");
 VoicePlay("D010400500_41_070");
-MsgDisp("Male Student B","That's true～");
+MsgDisp("Student B","That's true～");
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400500_04_010");
 MsgDisp("Nanatsumori","......");
 VoicePlay("D010400500_41_080");
-MsgDisp("Male Student B","I feel the same way as you guys.
+MsgDisp("Student B","I feel the same way as you guys.
 God is really cruel, huh～...");
 VoicePlay("D010400500_39_090");
-MsgDisp("Male Student C","Maybe you should try wearing the same
+MsgDisp("Student C","Maybe you should try wearing the same
 clothes as Nana.
 You never know, it might surprise you?");
 VoicePlay("D010400500_40_100");
-MsgDisp("Male Student A","No way!
+MsgDisp("Student A","No way!
 Our starting points are just way too
 different!");
 VoicePlay("D010400500_41_110");
-MsgDisp("Male Student B","You don't have to tell me that!
+MsgDisp("Student B","You don't have to tell me that!
 Even if I put my mind to it——");
 SEVol(0.7);
 SEPlay("EV_SE_GAYA_016",0,0.3);
@@ -73,7 +73,7 @@ SEPlay("EV_SE_864",0,0.8);
 MsgDisp("主人公","(Hehe!
 Everyone is excited about \"Nana\")");
 VoicePlay("D010400500_39_120");
-MsgDisp("Male Student C","Hey, Nanatsumori.");
+MsgDisp("Student C","Hey, Nanatsumori.");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("D010400500_04_020");
@@ -82,14 +82,14 @@ SEStop("EV_SE_GAYA_016",3);
 SEStop("EV_SE_864",3);
 MsgDisp("主人公","(!)");
 VoicePlay("D010400500_39_130");
-MsgDisp("Male Student C","You'd look good in this kind of thing,
+MsgDisp("Student C","You'd look good in this kind of thing,
 right?");
 VoicePlay("D010400500_41_140");
-MsgDisp("Male Student B","Of course he would, he's tall.
+MsgDisp("Student B","Of course he would, he's tall.
 I bet he'd look better if he took off his
 glasses and changed his hairstyle?");
 VoicePlay("D010400500_40_150");
-MsgDisp("Male Student A","Ah, I see it!
+MsgDisp("Student A","Ah, I see it!
 He could really transform with a little
 work!");
 StlEye(4,0);

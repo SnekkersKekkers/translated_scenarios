@@ -6,7 +6,7 @@ MsgClose();
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,0);
 VoicePlay("F102210002_46_000");
-MsgDisp("Art Club Member","Thank you, Hanatsubaki-san!
+MsgDisp("Art Club","Thank you, Hanatsubaki-san!
 I'm truly happy...");
 ChEye(22,3);
 ChMouth(22,3);
@@ -16,7 +16,7 @@ VoicePlay("F102210002_22_000");
 MsgDisp("Hikaru","No, it wasn't Hikaru's doing, it was just
 that your work was charming♪");
 VoicePlay("F102210002_40_010");
-MsgDisp("Garden Club Member","Hanatsubaki-san, you are truly amazing!
+MsgDisp("Garden Club","Hanatsubaki-san, you are truly amazing!
 Thanks to you, we've gained more members,
 thank you!");
 ChEye(22,0);
@@ -27,11 +27,11 @@ MsgDisp("Hikaru","Yay♪
 They were super pretty flowers～
 Hikaru liked them too after all▼");
 VoicePlay("F102210002_40_020");
-MsgDisp("Garden Club Member","We were truly in the wrong to doubt you!
+MsgDisp("Garden Club","We were truly in the wrong to doubt you!
 I had no idea that Mikage-sensei had given
 you the flowers...");
 VoicePlay("F102210002_46_010");
-MsgDisp("Art Club Member","Me too...I never imagined my artwork would
+MsgDisp("Art Club","Me too...I never imagined my artwork would
 end up near the recycling area...But in
 the end, you actually saved my painting.");
 ChEye(22,0);

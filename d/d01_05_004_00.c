@@ -15,7 +15,7 @@ SEPlay("EV_SE_724",0.8,0.5);
 ScrFadeIn(0);
 Wait(30,0);
 VoicePlay("D010500400_42_000");
-MsgDisp("Male Student A","Hiiragi, I'm begging you!
+MsgDisp("Student A","Hiiragi, I'm begging you!
 Play the lead role!");
 VoicePlay("D010500400_44_000");
 MsgDisp("School Girl","Yes, please!");
@@ -27,7 +27,7 @@ rather than me.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 He turned down the lead role offer...)");
 VoicePlay("D010500400_41_020");
-MsgDisp("Male Student B","Why though∋
+MsgDisp("Student B","Why though∋
 Everyone wants to see your professional
 acting.");
 StlEye(5,0,1);
@@ -35,7 +35,7 @@ VoicePlay("D010500400_05_010");
 MsgDisp("Hiiragi","...No, I have been put in charge of making
 the stage props.");
 VoicePlay("D010500400_42_030");
-MsgDisp("Male Student A","I can do that!");
+MsgDisp("Student A","I can do that!");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("D010500400_05_020");
 MsgDisp("Hiiragi","...That is not possible.");
@@ -55,7 +55,7 @@ VoicePlay("D010500400_05_030");
 MsgDisp("Hiiragi","｛主人公｝...
 Everyone is looking forward to it...");
 VoicePlay("D010500400_42_040");
-MsgDisp("Male Student A","That's right.
+MsgDisp("Student A","That's right.
 Everyone wants to see it.");
 ChEyeOpenLevel(5,7);
 VoicePlay("D010500400_44_010");
@@ -77,7 +77,7 @@ SEPlay("EV_SE_724",0.3);
 ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("D010500400_42_060");
-MsgDisp("Male Student A","...Haa, it's no good, huh?");
+MsgDisp("Student A","...Haa, it's no good, huh?");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 SEStop("EV_SE_724",1);
 StlEye(5,1);
@@ -103,13 +103,13 @@ MsgDisp("主人公","∈");
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 SEPlay("EV_SE_GAYA_025",0,0.6);
 VoicePlay("D010500400_42_070");
-MsgDisp("Male Student A","Yes!
+MsgDisp("Student A","Yes!
 Thanks a lot, Hiiragi!");
 ChEye(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500400_41_080");
-MsgDisp("Male Student B","This is big news.
+MsgDisp("Student B","This is big news.
 I have to tell everyone∈");
 VoicePlay("D010500400_44_020");
 MsgDisp("School Girl","Awesome! We'll get to see a real Theater

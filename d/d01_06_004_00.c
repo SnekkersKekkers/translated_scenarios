@@ -18,12 +18,12 @@ ChMotion(6,0);
 VoicePlay("D010600400_06_010");
 MsgDisp("Himuro","I was waiting for you.");
 VoicePlay("D010600400_40_000");
-MsgDisp("Male Student A","Damn, how dare you?
+MsgDisp("Student A","Damn, how dare you?
 Time for payback!");
 SEPlay("EV_SE_632");
 SEWait();
 VoicePlay("D010600400_41_010");
-MsgDisp("Male Student B","Haha, no shot— Wait, look out!");
+MsgDisp("Student B","Haha, no shot— Wait, look out!");
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝ ∈");
 ChEye(6,0);
 ChMouth(6,0);
@@ -54,7 +54,7 @@ It won't work against me...");
 MsgDisp("主人公","(Woah...
 ｛Himuro＊＊｝ caught the snowball!)");
 VoicePlay("D010600400_40_020");
-MsgDisp("Male Student A","My bad, Himuro!
+MsgDisp("Student A","My bad, Himuro!
 My hand slipped!");
 StlEye(6,0);
 StlMouth(6,0);
@@ -62,7 +62,7 @@ VoicePlay("D010600400_06_040");
 MsgDisp("Himuro","...Hmph.
 This is nothing.");
 VoicePlay("D010600400_41_030");
-MsgDisp("Male Student B","I guess that's exactly what you'd expect
+MsgDisp("Student B","I guess that's exactly what you'd expect
 from Himuro?");
 StlEye(6,0,0);
 StlMouth(6,0);
@@ -70,7 +70,7 @@ StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600400_06_050");
 MsgDisp("Himuro","...Huh?");
 VoicePlay("D010600400_41_040");
-MsgDisp("Male Student B","Legend has it that once Vice Principal
+MsgDisp("Student B","Legend has it that once Vice Principal
 Himuro caught a blackboard eraser before
 it fell on his head——");
 StlEye(6,1);
@@ -79,14 +79,14 @@ VoicePlay("D010600400_06_060");
 MsgDisp("Himuro","How does that catch just now have anything
 to do with that?");
 VoicePlay("D010600400_41_050");
-MsgDisp("Male Student B","It's because——");
+MsgDisp("Student B","It's because——");
 StlEye(6,1);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0);
 VoicePlay("D010600400_06_070");
 MsgDisp("Himuro","......");
 VoicePlay("D010600400_41_060");
-MsgDisp("Male Student B","...Ugh, sorry.");
+MsgDisp("Student B","...Ugh, sorry.");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600400_06_080");

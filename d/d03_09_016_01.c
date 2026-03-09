@@ -5,10 +5,10 @@ ChMotion(9,0);
 ChEyeOpenLevel(9,10);
 ScrFadeIn(0);
 VoicePlay("D030901601_48_000");
-MsgDisp("School Girl A","Hey.
+MsgDisp("Girl A","Hey.
 Doesn't that guy look super cool?");
 VoicePlay("D030901601_44_000");
-MsgDisp("School Girl B","He really does～!
+MsgDisp("Girl B","He really does～!
 Even the lead roles in the play we just
 watched lose to him～!");
 ChMotion(9,4,1);

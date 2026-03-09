@@ -66,7 +66,7 @@ Really?");
 Perhaps it's due to the smell of coffee,
 and your smile?");
     VoicePlay("I350500000_43_000");
-    MsgDisp("Theater Member","Chairman?");
+    MsgDisp("Troupe","Chairman?");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("I350500000_05_080");

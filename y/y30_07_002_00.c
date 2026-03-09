@@ -17,7 +17,7 @@ actor isn't here, we can't start.");
 MsgClear();
 SEStop("EV_SE_GAYA_007",1);
 VoicePlay("Y300700200_44_000");
-MsgDisp("School Girl A","\"Mikage-sensei, what should we do?\"");
+MsgDisp("Girl A","\"Mikage-sensei, what should we do?\"");
 MsgDisp("","My worried looking students raised
 their voices. Among them, the girl
 playing the heroine looked at me
@@ -28,7 +28,7 @@ who worked so hard. I wanted her to
 take the stage");
 MsgClear();
 VoicePlay("Y300700200_45_000");
-MsgDisp("School Girl B","\"No way, is the school play going to
+MsgDisp("Girl B","\"No way, is the school play going to
 be cancelled...?\"");
 MsgDisp("","The quiet voices of the female
 students rippled across the
@@ -142,7 +142,7 @@ SEPlay("EV_SE_793",1,0.6);
 VoicePlay("Y300700200_42_020");
 MsgDisp("Male Student","\"As expected of Mikagecchi!\"");
 VoicePlay("Y300700200_44_010");
-MsgDisp("School Girl A","\"I want to see Mikage-sensei as the
+MsgDisp("Girl A","\"I want to see Mikage-sensei as the
 lead!\"");
 SEStop("EV_SE_741",2);
 SEStop("EV_SE_793",2);

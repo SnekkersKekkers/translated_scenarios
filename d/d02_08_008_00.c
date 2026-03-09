@@ -11,7 +11,7 @@ today...)");
 SEPlay("EV_SE_519");
 SEWait();
 VoicePlay("D020800800_36_000");
-MsgDisp("Male Customer","Hey, attendant!
+MsgDisp("Customer","Hey, attendant!
 Where should I park my car?");
 ChEye(8,5);
 ChMouth(8,2);

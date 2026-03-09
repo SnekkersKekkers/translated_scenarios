@@ -113,7 +113,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("E010320000_03_050");
 MsgDisp("Honda","Yeah, you got to see it live.");
 VoicePlay("E010320000_47_000");
-MsgDisp("Woman Customer","Uhm, Kazama-kun, excuse me...");
+MsgDisp("Customer","Uhm, Kazama-kun, excuse me...");
 ChSet(3,0);
 ChEye(1,3);
 ChMouth(1,2);

@@ -69,13 +69,13 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("D020500000_46_000");
-MsgDisp("Theater Member B","This sword from your father will be like a
+MsgDisp("Troupe B","This sword from your father will be like a
 radiant light that guides and protects
 you. Now, march onwards.");
 VoicePlay("D020500000_33_020");
-MsgDisp("Theater Member A","But Mother...");
+MsgDisp("Troupe A","But Mother...");
 VoicePlay("D020500000_46_010");
-MsgDisp("Theater Member B","I am already one with that sword.
+MsgDisp("Troupe B","I am already one with that sword.
 I will always be with you.");
 MsgDisp("主人公","(Ah!
 Those actors...)");

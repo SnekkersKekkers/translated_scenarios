@@ -87,7 +87,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Okay, here we are.
 This is the event hall, and—");
 VoicePlay("A020510000_43_000");
-MsgDisp("Theater Member","Ahh! You're here, Chairman!");
+MsgDisp("Troupe","Ahh! You're here, Chairman!");
 MsgDisp("主人公","(Chairman...?)");
 VoicePlay("A020510000_05_080");
 MsgDisp("Hiiragi","Excuse me, I'll be right back.");
@@ -121,7 +121,7 @@ I'm glad that I met you.");
 MsgDisp("主人公","Oh, it's no trouble.
 It was really close by...");
 VoicePlay("A020510000_43_010");
-MsgDisp("Theater Member","Chairman! It's time!");
+MsgDisp("Troupe","Chairman! It's time!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

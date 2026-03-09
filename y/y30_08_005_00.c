@@ -12,20 +12,20 @@ uniforms have started to feel kind of
 fun!");
 MsgClear();
 VoicePlay("Y300800500_48_000");
-MsgDisp("School Girl A","\"That uniform, it's Hane School's
+MsgDisp("Girl A","\"That uniform, it's Hane School's
 right? I wonder if he has a
 girlfriend at Haba High?\"");
 VoicePlay("Y300800500_46_000");
-MsgDisp("School Girl B","\"That's incredible?
+MsgDisp("Girl B","\"That's incredible?
 For him to wait so proudly at the
 school gates, I'm a bit jealous...\"");
 MsgDisp("","Hehe, it makes me feel kind of funny.");
 MsgClear();
 VoicePlay("Y300800500_41_020");
-MsgDisp("Male Student B","\"Maybe he's here challenging a club
+MsgDisp("Student B","\"Maybe he's here challenging a club
 member somewhere for a duel?\"");
 VoicePlay("Y300800500_40_030");
-MsgDisp("Male Student A","\"Seriously?
+MsgDisp("Student A","\"Seriously?
 Well, the track team should be fine
 though.\"");
 MsgDisp("","...Hmm, now I'm curious.

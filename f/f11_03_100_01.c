@@ -18,13 +18,13 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("F110310001_39_000");
-MsgDisp("Male Student A","Woah, so they did it this year, too?");
+MsgDisp("Student A","Woah, so they did it this year, too?");
 VoicePlay("F110310001_40_010");
-MsgDisp("Male Student B","That's the quiz haircut deathmatch from
+MsgDisp("Student B","That's the quiz haircut deathmatch from
 the rumors, right?");
 ChMouth(3,0);
 VoicePlay("F110310001_39_020");
-MsgDisp("Male Student A","Yeah, another year of competition.
+MsgDisp("Student A","Yeah, another year of competition.
 I know I won't win the quiz, but I'm
 scared anyway.");
 ChEye(3,3);

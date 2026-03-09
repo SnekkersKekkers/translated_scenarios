@@ -17,7 +17,7 @@ for the final scene, right?");
 MsgDisp("主人公","Yes, this scene is great♪");
 ChMouth(3,4);
 VoicePlay("P240301000_34_000");
-MsgDisp("Kuroda Kanbei","Ah...
+MsgDisp("Kanbei","Ah...
 I've finally returned...");
 VoicePlay("P240301000_44_000");
 MsgDisp("Mitsuki","After being imprisoned for so long, to see
@@ -33,7 +33,7 @@ environment, Kuroda Kanbei's sight had
 deteriorated.");
 MsgDisp("主人公","Is that right...?");
 VoicePlay("P240301000_34_020");
-MsgDisp("Kuroda Kanbei","It's not a dream.
+MsgDisp("Kanbei","It's not a dream.
 Your hand...let me feel your hand...");
 VoicePlay("P240301000_44_010");
 MsgDisp("Mitsuki","Yes.");
@@ -47,7 +47,7 @@ Kuroda Kanbei had ascertained it was
 Mitsuhime by feeling her hand.");
 MsgDisp("主人公","Yeah...");
 VoicePlay("P240301000_34_040");
-MsgDisp("Kuroda Kanbei","Yeah, this hand, it's Mitsuhime's warmth.
+MsgDisp("Kanbei","Yeah, this hand, it's Mitsuhime's warmth.
 I have indeed returned...");
 VoicePlay("P240301000_44_020");
 MsgDisp("Mitsuki","I am so glad you are safe...");
@@ -67,7 +67,7 @@ MsgDisp("Honda","Haha, so maybe Kuroda Kanbei used some of
 that eye medicine after this?");
 MsgDisp("主人公","(｛Honda＊＊｝, this is such a good part...)");
 VoicePlay("P240301000_34_060");
-MsgDisp("Kuroda Kanbei","Indeed, it is Mitsuhime.
+MsgDisp("Kanbei","Indeed, it is Mitsuhime.
 I have returned to you...");
 BGMStop(2);
 SEPlay("EV_SE_GAYA_021");

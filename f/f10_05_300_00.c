@@ -5,9 +5,9 @@ ChOpen(5,254,0,0,4,#1,#1,0,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("F100530000_48_000");
-MsgDisp("School Girl A","Good morning!");
+MsgDisp("Girl A","Good morning!");
 VoicePlay("F100530000_44_000");
-MsgDisp("School Girl B","Morningー.");
+MsgDisp("Girl B","Morningー.");
 VoicePlay("F100530000_05_000");
 MsgDisp("Hiiragi","Good morning.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, morning.

@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("D010800100_08_000");
 MsgDisp("Shirahane","Okay, 5 Rich will be yer change.");
 VoicePlay("D010800100_48_000");
-MsgDisp("Woman Customer A","Oh my, what lovely service.
+MsgDisp("Woman A","Oh my, what lovely service.
 Can't you give me a bit more～?");
 ChEye(8,2);
 ChMouth(8,1);
@@ -15,7 +15,7 @@ VoicePlay("D010800100_08_010");
 MsgDisp("Shirahane","I can't give ya more.
 The store would go broke!");
 VoicePlay("D010800100_48_010");
-MsgDisp("Woman Customer A","Hahaha!
+MsgDisp("Woman A","Hahaha!
 Thank you, then～!");
 SEPlay("EV_SE_589");
 Wait(30,0);
@@ -40,7 +40,7 @@ MsgDisp("Shirahane","Alright, alright...
 Okay, stop!
 Thanks like always, Kondo-san!");
 VoicePlay("D010800100_43_020");
-MsgDisp("Male Customer A","Today's Dai-chan's day, after all.
+MsgDisp("Man A","Today's Dai-chan's day, after all.
 Car wash and a full tank of premium,
 please.");
 StlEyeOpenLevel(8,5);
@@ -52,7 +52,7 @@ VoicePlay("D010800100_08_050");
 MsgDisp("Shirahane","Ah, the coffee is free but please limit
 yourself to less than 20 cups!");
 VoicePlay("D010800100_43_030");
-MsgDisp("Male Customer A","I'd be too full if I drank all that
+MsgDisp("Man A","I'd be too full if I drank all that
 coffee. My mom will get mad at me if I
 don't eat dinner!");
 StlEyeOpenLevel(8,#1);
@@ -61,7 +61,7 @@ MsgDisp("Shirahane","The shop would also go bankrupt due to
 coffee costs, so let's help each other
 out!");
 VoicePlay("D010800100_39_040");
-MsgDisp("Male Customer B","Dai-chan, how many candies are okay to
+MsgDisp("Man B","Dai-chan, how many candies are okay to
 take?");
 StlEye(8,1,0);
 StlEyeOpenLevel(8,5,1);
@@ -69,9 +69,9 @@ VoicePlay("D010800100_08_070");
 MsgDisp("Shirahane","I'd say 1 handful but you have big hands
 so...1 pinch!");
 VoicePlay("D010800100_39_050");
-MsgDisp("Male Customer B","Ahaha!");
+MsgDisp("Man B","Ahaha!");
 VoicePlay("D010800100_45_000");
-MsgDisp("Woman Customer B","Okay, I'll get you a handful then.
+MsgDisp("Woman B","Okay, I'll get you a handful then.
 That's okay, right?
 Daichi-kun▼");
 StlEyeOpenLevel(8,#1);

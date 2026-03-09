@@ -98,9 +98,9 @@ I'll try it.");
         ScrQuake(2);
         MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you okay∋");
         VoicePlay("B040511102_41_000");
-        MsgDisp("Male Customer","What the- that sounds kind of amazing.");
+        MsgDisp("Man","What the- that sounds kind of amazing.");
         VoicePlay("B040511102_47_000");
-        MsgDisp("Woman Customer","A-Are you okay?");
+        MsgDisp("Woman","A-Are you okay?");
         VoicePlay("B040511102_05_110");
         MsgDisp("Hiiragi","Ah, uhm, yes.
 Sorry for the trouble...");

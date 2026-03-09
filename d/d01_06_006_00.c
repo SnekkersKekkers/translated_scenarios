@@ -20,11 +20,11 @@ MsgDisp("主人公","(The exhibition was a huge success!
 There are a lot of people in Habataki who
 love surfing...)");
 VoicePlay("D010600600_33_000");
-MsgDisp("Male Customer A","Oh, it's that kid!
+MsgDisp("Man A","Oh, it's that kid!
 Apparently that guy won the 15 and Under
 category.");
 VoicePlay("D010600600_39_010");
-MsgDisp("Male Customer B","Oh, look, he's catching a wave!");
+MsgDisp("Man B","Oh, look, he's catching a wave!");
 MsgDisp("主人公","(Hmm, I guess there's an amazing
 candidate...)");
 SEStop("EV_SE_GAYA_003",3);

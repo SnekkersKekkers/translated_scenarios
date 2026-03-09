@@ -8,7 +8,7 @@ ChMouth(7,4);
 ChMotion(7,0,1);
 Wait(50,0);
 VoicePlay("B050700200_41_000");
-MsgDisp("Male Customer","Ah, that's dangerous!");
+MsgDisp("Customer","Ah, that's dangerous!");
 VoicePlay("B050700200_48_000");
 MsgDisp("Staff","Please get away from that horse∈");
 ChEye(7,1);

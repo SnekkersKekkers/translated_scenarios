@@ -17,13 +17,13 @@ MsgDisp("","After I saw her off and returned to
 the store, Grandpa had already
 returned.");
 VoicePlay("Y300100300_36_000");
-MsgDisp("Ryota's Grandpa","\"Ryota, thank you.
+MsgDisp("Grandpa","\"Ryota, thank you.
 For helping me tend to the store.\"");
 VoicePlay("Y300100300_01_010");
 MsgDisp("Kazama","Grandpa, you're late.");
 MsgClear();
 VoicePlay("Y300100300_36_010");
-MsgDisp("Ryota's Grandpa","\"You were too.\"");
+MsgDisp("Grandpa","\"You were too.\"");
 MsgDisp("","He smiled, with one eye drooping
 slightly. Seems like he already knew
 she had come here...");
@@ -32,7 +32,7 @@ that I had kept the shop open longer,
 Grandpa laughed even more.");
 MsgClear();
 VoicePlay("Y300100300_36_020");
-MsgDisp("Ryota's Grandpa","\"Many decades ago, I also did the
+MsgDisp("Grandpa","\"Many decades ago, I also did the
 same thing. But it was after I had
 clearly decided my own path.\"");
 MsgDisp("","He directly addressed what had been
@@ -46,7 +46,7 @@ MsgDisp("","When I hastily tried to cover it up,
 he slowly shook his head and went
 back to the main room.");
 VoicePlay("Y300100300_36_030");
-MsgDisp("Ryota's Grandpa","\"The weight of the scales. It's not
+MsgDisp("Grandpa","\"The weight of the scales. It's not
 just that, is it? It's a disservice to
 her. You should settle this on your
 own.");

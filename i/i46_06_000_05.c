@@ -7,18 +7,18 @@ switch (ChPrmGet(6,6)){
     case 2:
     case 3:
     VoicePlay("I460600005_40_000");
-    MsgDisp("Male Customer","......");
+    MsgDisp("Man","......");
     MsgDisp("主人公","Are you looking for a specific flower?");
     VoicePlay("I460600005_40_010");
-    MsgDisp("Male Customer","Umm...");
+    MsgDisp("Man","Umm...");
     MsgDisp("主人公","If it's for a gift, the mini bouquets and
 arrangements are popular.");
     VoicePlay("I460600005_40_020");
-    MsgDisp("Male Customer","I, see...");
+    MsgDisp("Man","I, see...");
     MsgDisp("主人公","There are also male clerks if you'd like
 me to call one over?");
     VoicePlay("I460600005_40_030");
-    MsgDisp("Male Customer","Ah...yes, please.");
+    MsgDisp("Man","Ah...yes, please.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -49,7 +49,7 @@ He said he gets nervous around women.");
     case 4:
     case 5:
     VoicePlay("I460600005_47_000");
-    MsgDisp("Woman Customer","Could I purchase that dried flower?");
+    MsgDisp("Woman","Could I purchase that dried flower?");
     MsgDisp("主人公","Yes!");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

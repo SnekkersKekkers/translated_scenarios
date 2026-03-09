@@ -37,7 +37,7 @@ shadows.");
     MsgDisp("主人公","(Hehe.
 ｛Mikage＊＊｝ came to cheer me on.)");
     VoicePlay("P830700000_36_000");
-    MsgDisp("Male Customer","Excuse me, I hope this is the reception.");
+    MsgDisp("Customer","Excuse me, I hope this is the reception.");
     MsgDisp("主人公","Ah, yes!");
     break ;
     case 4:
@@ -89,7 +89,7 @@ See you then～");
     ChClose(7);
     MsgDisp("主人公","(｛Mikage＊＊｝ came to support me huh?)");
     VoicePlay("P830700000_36_000");
-    MsgDisp("Male Customer","Excuse me, I hope this is the reception.");
+    MsgDisp("Customer","Excuse me, I hope this is the reception.");
     MsgDisp("主人公","Ah, yes!");
     break ;
     default :

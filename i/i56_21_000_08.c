@@ -2,13 +2,13 @@ BGOpen("ar500",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("I562100008_49_000");
-MsgDisp("Woman Customer","Thank you for helping me choose the
+MsgDisp("Customer","Thank you for helping me choose the
 sweets.");
 MsgDisp("主人公","Not at all. It's fine as long as you know
 what kind of sweets you'd like. Please
 feel free to ask for help.");
 VoicePlay("I562100008_49_010");
-MsgDisp("Woman Customer","Oh, is that so?
+MsgDisp("Customer","Oh, is that so?
 I'll leave it to you next time, too, then.
 Thank you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.5);

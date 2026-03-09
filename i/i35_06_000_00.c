@@ -107,7 +107,7 @@ I haven't.");
     VoicePlay("I350600000_06_110");
     MsgDisp("Himuro","Ah, is that so.");
     VoicePlay("I350600000_36_000");
-    MsgDisp("Male Customer","Excuse me.");
+    MsgDisp("Customer","Excuse me.");
     MsgDisp("主人公","Yes, I'll be right there!
 ...Um.");
     ChEye(6,0);

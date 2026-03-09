@@ -31,7 +31,7 @@ Did you need something?");
 working Miss Diligent, alone.");
     MsgDisp("主人公","Yes...?");
     VoicePlay("P830700001_46_000");
-    MsgDisp("School Girl A","Um, excuse me～
+    MsgDisp("Girl A","Um, excuse me～
 But we don't have enough blackout
 curtains.");
     ChEye(7,2);
@@ -44,7 +44,7 @@ Well, then.");
     ChClose(7);
     MsgDisp("主人公","Eh, ｛Mikage＊＊｝ ——");
     VoicePlay("P830700001_48_000");
-    MsgDisp("School Girl B","Exーcuse me.
+    MsgDisp("Girl B","Exーcuse me.
 Could I get two rolls of packing tape?");
     MsgDisp("主人公","Ah, yes!
 Please wait a moment.");
@@ -75,7 +75,7 @@ I came to talk to Miss Diligent.");
     MsgDisp("主人公","Hehe.
 But I'm a bit busy right no——");
     VoicePlay("P830700001_46_010");
-    MsgDisp("School Girl A","Um, excuse me.
+    MsgDisp("Girl A","Um, excuse me.
 There's not enough blackout curtains in
 our class.");
     ChEye(7,2);
@@ -94,7 +94,7 @@ I'll cheer you on from behind the scenes.");
     ChClose(7);
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝ ——");
     VoicePlay("P830700001_48_010");
-    MsgDisp("School Girl B","Exーcuse me.
+    MsgDisp("Girl B","Exーcuse me.
 Could I get two rolls of packing tape?");
     MsgDisp("主人公","Yeーs!
 Please wait a moment.");

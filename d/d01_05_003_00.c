@@ -1,11 +1,11 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
 VoicePlay("D010500300_44_000");
-MsgDisp("School Girl A","Hey, did you know?
+MsgDisp("Girl A","Hey, did you know?
 There's a limited time one day sale
 ongoing at the shopping mall!");
 VoicePlay("D010500300_45_000");
-MsgDisp("School Girl B","Really∋
+MsgDisp("Girl B","Really∋
 Let's go there then!");
 MsgDisp("主人公","(A sale at the shopping mall, huh?
 That sounds good, I guess I should check
@@ -26,17 +26,17 @@ MsgDisp("Hiiragi?","Why on Earth would you be leaving the
 theater company?");
 MsgDisp("主人公","(Eh, that voice...)");
 VoicePlay("D010500300_33_020");
-MsgDisp("Theater Member A","We're not cut out to be actors.");
+MsgDisp("Troupe A","We're not cut out to be actors.");
 VoicePlay("D010500300_46_000");
-MsgDisp("Theater Member B","No matter how much we practice, we aren't
+MsgDisp("Troupe B","No matter how much we practice, we aren't
 good enough to satisfy the chairman.
 We're not enjoying ourselves.");
 VoicePlay("D010500300_05_010");
 MsgDisp("Hiiragi","Why are you giving up so easily?");
 VoicePlay("D010500300_33_040");
-MsgDisp("Theater Member A","It's not that simple for us either.");
+MsgDisp("Troupe A","It's not that simple for us either.");
 VoicePlay("D010500300_46_010");
-MsgDisp("Theater Member B","There's no point in discussing this.
+MsgDisp("Troupe B","There's no point in discussing this.
 Let's go.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 SEWait();

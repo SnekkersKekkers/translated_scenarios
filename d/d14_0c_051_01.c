@@ -11,13 +11,13 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("D140C05101_42_000");
-MsgDisp("Male Student A","We're even giving away a glass of Habataki
+MsgDisp("Student A","We're even giving away a glass of Habataki
 Mixed juice for free!");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C05101_41_010");
-MsgDisp("Male Student B","Oh, seriously∋");
+MsgDisp("Student B","Oh, seriously∋");
 SEPlay("EV_SE_815");
 Wait(50,1);
 SEPlay("EV_SE_FOOT_RUN_AWAY_MANY");

@@ -70,7 +70,7 @@ many generations of lords here.");
         VoicePlay("B040522102_05_070");
         MsgDisp("Hiiragi","......");
         VoicePlay("B040522102_43_000");
-        MsgDisp("Castle Lord's Voice?","You should proceed on your own path
+        MsgDisp("Castle Lord?","You should proceed on your own path
 without hesitation.");
         MsgDisp("主人公","...Huh?
 Just now...");

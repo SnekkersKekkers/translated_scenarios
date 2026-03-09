@@ -44,12 +44,12 @@ Alright, let's keep doing our best!)");
     case 4:
     case 5:
     VoicePlay("I460600004_47_000");
-    MsgDisp("Woman Customer","Excuse me.
+    MsgDisp("Customer","Excuse me.
 Which flower is best for a sick visit?");
     MsgDisp("主人公","Let's see. How about this arrangement? The
 pink and orange is sure to cheer them up.");
     VoicePlay("I460600004_47_010");
-    MsgDisp("Woman Customer","Waah, pretty.
+    MsgDisp("Customer","Waah, pretty.
 Then, I'll take this, please.");
     MsgDisp("主人公","Okay!");
     MsgDisp("","　　　　　　　　　　 ・

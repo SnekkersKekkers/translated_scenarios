@@ -5,11 +5,11 @@ MsgClose();
 BGOpen("sc710",0);
 ScrFadeIn(0);
 VoicePlay("P840200004_48_000");
-MsgDisp("School Girl A","Thank you very much. Thanks to you, the
+MsgDisp("Girl A","Thank you very much. Thanks to you, the
 scent of matcha spread through the
 festival and customers came in droves!");
 VoicePlay("P840200004_46_000");
-MsgDisp("School Girl B","Same here. The yakisoba and okonomiyaki
+MsgDisp("Girl B","Same here. The yakisoba and okonomiyaki
 stand next door had great synergy and
 increased our sales!");
 MsgDisp("主人公","Phew, I'm glad it all worked out...");

@@ -44,17 +44,17 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B050400000_47_000");
-MsgDisp("Woman Customer A","Hey hey, over there.
+MsgDisp("Woman A","Hey hey, over there.
 Is that NANA?");
 VoicePlay("B050400000_48_000");
-MsgDisp("Woman Customer B","Eh, seriously?
+MsgDisp("Woman B","Eh, seriously?
 Doesn't it look like he's with a girl?");
 ChEye(4,1);
 ChMouth(4,0);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,8);
 VoicePlay("B050400000_47_010");
-MsgDisp("Woman Customer A","Right!
+MsgDisp("Woman A","Right!
 Don't tell me that's his girlfriend∋");
 MsgDisp("主人公","H-Hey, ｛Nanatsumori＊｝...");
 ChEye(4,0);
@@ -101,21 +101,21 @@ StlEye(4,0,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0,1);
 VoicePlay("B050400000_48_010");
-MsgDisp("Woman Customer B","Eh, seriously∋
+MsgDisp("Woman B","Eh, seriously∋
 They're super lovey-dovey!");
 VoicePlay("B050400000_47_020");
-MsgDisp("Woman Customer A","I don't believe it...
+MsgDisp("Woman A","I don't believe it...
 I mean that's really NANA isn't it.");
 VoicePlay("B050400000_48_020");
-MsgDisp("Woman Customer B","But it's kinda suspicious.
+MsgDisp("Woman B","But it's kinda suspicious.
 If he was the real deal, he wouldn't stand
 like thatー.");
 VoicePlay("B050400000_47_030");
-MsgDisp("Woman Customer A","Got it, he's NANA's fan!
+MsgDisp("Woman A","Got it, he's NANA's fan!
 There are quite a lot of guys who copy
 NANA's hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
-MsgDisp("Woman Customer B","That's right.
+MsgDisp("Woman B","That's right.
 Ahー That scared meー!");
 MsgDisp("主人公","(I'm glad...
 Looks like they didn't even discover it

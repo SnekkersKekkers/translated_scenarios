@@ -7,7 +7,7 @@ Habatcher's Editorial Department has been
 recognized. As a result, your \"Journalist
 Level\" has increased!)");
 VoicePlay("D240000001_45_000");
-MsgDisp("Shirahane Mayo","Your articles are really popular～!
+MsgDisp("Mayo","Your articles are really popular～!
 Please keep them coming!");
 VoicePlay("D240000001_41_010");
 MsgDisp("Tanaka Shin","I'm learning a lot from you too.

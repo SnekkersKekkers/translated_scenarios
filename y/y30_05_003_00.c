@@ -21,11 +21,11 @@ MsgClear();
 BGOpen("ad531",0);
 ScrFadeIn(0);
 VoicePlay("Y300500300_46_000");
-MsgDisp("Theater Member A","\"I love 'Habataki Castle: Flames
+MsgDisp("Troupe A","\"I love 'Habataki Castle: Flames
 Rising'. I look forward to working
 with you from now on.\"");
 VoicePlay("Y300500300_33_010");
-MsgDisp("Theater Member B","\"To think I could be in this
+MsgDisp("Troupe B","\"To think I could be in this
 wonderful play, 'Habataki Castle'
 that I'm so familiar with...so that I
 can be of help, I'll give it my all.\"");

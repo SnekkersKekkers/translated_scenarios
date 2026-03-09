@@ -63,7 +63,7 @@ recommend them to customers.");
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("F110510000_45_000");
-MsgDisp("Woman Customer","Clerk-san, the yakisoba stand that you
+MsgDisp("Customer","Clerk-san, the yakisoba stand that you
 recommended was delicious.
 Do you have any sweets recommendations?");
 ChEye(5,0);

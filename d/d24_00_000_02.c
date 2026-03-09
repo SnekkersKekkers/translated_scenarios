@@ -7,7 +7,7 @@ Habatcher's Editorial Department has been
 recognized. As a result, your \"Journalist
 Level\" has increased!");
 VoicePlay("D240000002_45_000");
-MsgDisp("Shirahane Mayo","You're already such an integral part of
+MsgDisp("Mayo","You're already such an integral part of
 our team.");
 VoicePlay("D240000002_41_010");
 MsgDisp("Tanaka Shin","Let's continue to make Habatcher even

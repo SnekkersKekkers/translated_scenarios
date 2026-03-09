@@ -13,7 +13,7 @@ Then, please allow me.");
 your car? If you'd like, I can throw it
 away for you.");
     VoicePlay("I660800001_39_000");
-    MsgDisp("Male Customer","Then, could you throw this away?
+    MsgDisp("Customer","Then, could you throw this away?
 Thanks.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -43,7 +43,7 @@ Then, please allow me.");
 your car? If you'd like, I can throw it
 away for you.");
     VoicePlay("I660800001_39_010");
-    MsgDisp("Male Customer","Nothing today.
+    MsgDisp("Customer","Nothing today.
 Thanks as always.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

@@ -9,7 +9,7 @@ MsgClear();
 MsgDisp("主人公","\"Hehe, I'll be watching with a
 critical eye!\"");
 VoicePlay("Y300500500_33_000");
-MsgDisp("Theater Member A","Yes, whether the chairman or I play
+MsgDisp("Troupe A","Yes, whether the chairman or I play
 the lead role, the ticket price is
 the same. We won't let the audience
 regret their decision!");
@@ -73,7 +73,7 @@ gratitude.");
 MsgDisp("","Gratitude for the guests.
 Love and respect for her.");
 VoicePlay("Y300500500_43_010");
-MsgDisp("Theater Member B","\"It's opening tiーme.
+MsgDisp("Troupe B","\"It's opening tiーme.
 The guests are coming in.\"");
 MsgClear();
 VoicePlay("Y300500500_05_030");
