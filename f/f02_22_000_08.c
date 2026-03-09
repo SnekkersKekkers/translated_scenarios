@@ -34,9 +34,8 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F022200008_22_030");
 MsgDisp("Hikaru","Ah!
-Of course I'm looking forward to the 
-exhibits!
-And watching couples enjoying them♪");
+Of course I'm looking forward to the
+exhibits and watching couples enjoy them♪");
 MsgDisp("主人公","(｛ひかる＊｝'s way of enjoying the
 cultural festival is a bit weird...)");
 MsgClose();

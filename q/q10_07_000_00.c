@@ -115,7 +115,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q100700000_07_070");
 MsgDisp("Mikage","...Phew.
-It's hard to do extracurricular lessons
+It's hard to do extracurricular activities
 when you have more participants.");
 MsgDisp("主人公","Hehe, but it was very fun.");
 ChEye(7,0);
@@ -155,7 +155,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q100700000_07_120");
-MsgDisp("Mikage","So, extracurricular lesson Nagasaki
+MsgDisp("Mikage","So, extracurricular activity Nagasaki
 version, we're breaking up for now.");
 MsgDisp("主人公","Okay!");
 MsgClose();

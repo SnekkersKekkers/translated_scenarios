@@ -13,6 +13,6 @@ contact me if something happened.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Ah, I've done it!
-I had an extracurricular lesson today!");
+I had an extracurricular activity today!");
 MsgClose();
 ScrFadeOut(0,0);

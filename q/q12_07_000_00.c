@@ -14,7 +14,7 @@ I'm sorry I dragged you around.
 Do your legs hurt?");
     MsgDisp("主人公","I'm totally fine.
 I really enjoyed the Nagasaki
-extracurricular lesson.");
+extracurricular activity.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
@@ -38,7 +38,7 @@ I am fine.");
     MsgDisp("Mikage","Well, I'm what you call comfortably tired.
 Thanks.");
     MsgDisp("主人公","My pleasure, I enjoyed the Nagasaki
-extracurricular lesson.");
+extracurricular activity.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

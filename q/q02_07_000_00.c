@@ -33,9 +33,9 @@ Did something happen?");
     ChMotion(7,1);
     VoicePlay("Q020700000_07_020");
     MsgDisp("Mikage","Yeah. I was thinking of doing an
-\"Extracurricular Lesson: Nagasaki
+\"Extracurricular Activity: Nagasaki
 Chapter!\", but I guess nobody's up for it.");
-    MsgDisp("主人公","Extracurricular Lesson: Nagasaki Chapter?");
+    MsgDisp("主人公","Extracurricular Activity: Nagasaki Chapter?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -57,7 +57,7 @@ won't be any others. Are you sure?");
         ChMotion(7,1);
         VoicePlay("Q020700000_07_050");
         MsgDisp("Mikage","Well, let's enjoy.");
-        MsgDisp("主人公","(Extracurricular Lesson: Nagasaki
+        MsgDisp("主人公","(Extracurricular Activity: Nagasaki
 Chapter...
 Hehe, I'm excited!)");
         break ;
@@ -106,9 +106,9 @@ period?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("Q020700000_07_100");
-    MsgDisp("Mikage","How does 'Extracurricular Lesson: Nagasaki
+    MsgDisp("Mikage","How does 'Extracurricular Activity: Nagasaki
 Chapter' sound to you?");
-    MsgDisp("主人公","Eh, extracurricular lesson?");
+    MsgDisp("主人公","Eh, extracurricular activity?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

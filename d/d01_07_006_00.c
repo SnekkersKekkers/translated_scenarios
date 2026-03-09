@@ -40,7 +40,7 @@ MsgClose();
 ChOpen(7,254,0,2,0,#1,#1,0,0);
 VoicePlay("D010700600_07_040");
 MsgDisp("Mikage","Nobody is coming. Even if the two of us
-call it an extracurricular lesson...Yeah,
+call it an extracurricular activity...Yeah,
 I guess we should cancel today?");
 MsgDisp("主人公","Ah, okay...
 I guess so.");
@@ -48,8 +48,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D010700600_07_050");
-MsgDisp("Mikage","Should we forget the extracurricular class
-and just have some fun?");
+MsgDisp("Mikage","Should we forget the extracurricular 
+lesson and just have some fun?");
 MsgDisp("主人公","Yes! Yay!
 That means I don't have to submit
 a report.");

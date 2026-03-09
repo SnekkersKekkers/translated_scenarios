@@ -2,7 +2,7 @@ BGOpen("sc310",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm sure ｛Mikage＊＊｝ said he would
 give me the handout for the
-extracurricular lesson...)");
+extracurricular activity...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -29,7 +29,7 @@ ChMotion(7,0);
 VoicePlay("G110700200_07_010");
 MsgDisp("Mikage","I guess I should expect that from the
 little worker bee who joins me for
-extracurricular lessons.");
+extracurricular activities.");
 MsgDisp("主人公","You usually aren't in the faculty room
 after all, ｛Mikage＊＊｝.");
 ChEye(7,0);
@@ -49,7 +49,7 @@ MsgDisp("Mikage","Yeah, I get scolded for being in these
 clothes even when I haven't done anything.");
 MsgDisp("主人公","Haha.
 ...Ah, before I forget, I came to get the
-handout for the extracurricular lesson.");
+handout for the extracurricular activity.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -65,7 +65,7 @@ ChMotion(7,1);
 VoicePlay("G110700200_07_050");
 MsgDisp("Mikage","That, I can't let you do.
 I can't keep causing trouble for a regular
-at extracurricular lessons.");
+at extracurricular activities.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

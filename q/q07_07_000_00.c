@@ -16,7 +16,7 @@ country.");
 MsgDisp("主人公","The windmills were used to pump water.");
 VoicePlay("Q070700000_42_000");
 MsgDisp("Male Student A","Sensei, are we still having the
-extracurricular lesson?");
+extracurricular activity?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -180,7 +180,7 @@ ChMotion(7,0);
 VoicePlay("Q070700000_07_170");
 MsgDisp("Mikage","That makes me think of merchants from the
 west.
-That'd make a good extracurricular lesson.");
+That'd make a good extracurricular activity.");
 MsgDisp("主人公","(｛Mikage＊＊｝...?
 He's acting a bit strange...)");
 BGMStop(2);

@@ -9,7 +9,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("Q090700000_07_000");
     MsgDisp("Mikage","Good morning, you look excited.");
     MsgDisp("主人公","Yes.
-Extracurricular lessons Nagasaki edition,
+Extracurricular activities Nagasaki edition,
 I'm looking forward to it.");
     ChEye(7,0);
     ChMouth(7,0);

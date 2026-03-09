@@ -13,7 +13,7 @@ Of course, I'm coming.");
     ChMotion(7,2);
     ChEyeOpenLevel(7,8);
     VoicePlay("Q040700001_07_010");
-    MsgDisp("Mikage","Haha, extracurricular lesson Nagasaki
+    MsgDisp("Mikage","Haha, extracurricular activity Nagasaki
 edition, let's go!");
     MsgDisp("主人公","Yes, let's go!");
     break ;
@@ -37,7 +37,7 @@ lesson Nagasaki edition.");
     VoicePlay("Q040700001_07_030");
     MsgDisp("Mikage","Whoa, you're in the right place!
 I was also searching for participants of
-extracurricular lesson Nagasaki edition.");
+extracurricular activity Nagasaki edition.");
     MsgDisp("主人公","Ehm...
 I was actually hoping to go sightseeing
 with ｛Mikage＊＊｝...");

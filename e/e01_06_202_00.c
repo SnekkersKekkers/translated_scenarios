@@ -71,8 +71,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0);
 VoicePlay("E010620200_04_040");
-MsgDisp("Nanatsumori","He's such a spoiled brat.
-It's impossible to ignore him.");
+MsgDisp("Nanatsumori","He's super clingy.
+There's no way you can just walk past him.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1);

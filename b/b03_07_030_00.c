@@ -7,7 +7,7 @@ SEPlay("EV_SE_566",0.3);
 ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030703000_07_000");
-MsgDisp("Mikage","Alright, today's field trip is at the
+MsgDisp("Mikage","Alright, today's extracurricular activity is at the
 aquarium.
 Don't get too wild, you guys.");
 VoicePlay("B030703000_42_000");
