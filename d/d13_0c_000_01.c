@@ -86,9 +86,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D130C00001_05_030");
-MsgDisp("Hiiragi","But there was some reasoning as to why he
-said that.
-I was looking forward to it a little.");
+MsgDisp("Hiiragi","But he has a point about not knowing
+until we see what happens.
+I'm looking forward to it a little.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();

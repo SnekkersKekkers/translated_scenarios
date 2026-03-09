@@ -36,7 +36,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("F100710002_07_030");
-MsgDisp("Mikage","Other than this, I only wear overalls");
+MsgDisp("Mikage","Other than this, I only have overalls.");
 MsgDisp("主人公","Eh? We have class in the science room
 next, ｛Mikage＊＊｝, don't you normally
 wear overalls?");

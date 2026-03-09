@@ -66,6 +66,6 @@ ChMotion(7,3);
 VoicePlay("F020700013_07_070");
 MsgDisp("Mikage","Something else...I'll think about it.
 Sigh, I'm seriously not going to be able
-to sleep");
+to sleep.");
 MsgDisp("主人公","(It doesn't seem like ｛Mikage＊＊｝, is
 planning on leading...)");

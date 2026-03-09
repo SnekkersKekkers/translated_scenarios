@@ -11,7 +11,7 @@ ChMouth(21,0);
 ChMotion(21,4);
 ChEyeOpenLevel(21,0);
 VoicePlay("F022100013_21_000");
-MsgDisp("Michiru","I'm really looking forwards to it.
+MsgDisp("Michiru","I'm really looking forward to it.
 A land full of historic romance...");
 MsgDisp("主人公","Hehe.
 I want to go around lots of famous places.");

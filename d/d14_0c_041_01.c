@@ -24,7 +24,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140C04101_05_010");
 MsgDisp("Hiiragi","I've been transferring schools over and
-over since around middle school. So, I've
+over since elementary school. So, I've
 become numb to that sort of feeling.");
 MsgDisp("主人公","I see...");
 ChEye(5,0);

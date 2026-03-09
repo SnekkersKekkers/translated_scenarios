@@ -36,10 +36,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("E010140000_22_020");
-MsgDisp("Hikaru","Next issue, I'm doing a special in a
-fashion magazine about \"Super handsome
-high school students\"! And I can't do it
-without mentioning Kazama-kun, right?");
+MsgDisp("Hikaru","Next issue, there's a fashion magazine
+special about \"Super Handsome High School
+Students\"! Kazama-kun's perfect, right?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -52,7 +51,9 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,2,1);
 VoicePlay("E010140000_22_030");
-MsgDisp("Hikaru","Ehh, really? Hikaru thought he was just\nplaying hard to get, but he'd eventually\nsay \"oka～y\". Too bad.");
+MsgDisp("Hikaru","Ehh, really? Hikaru thought he was just
+playing hard to get, but he'd eventually
+say \"okay～\". Too bad.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

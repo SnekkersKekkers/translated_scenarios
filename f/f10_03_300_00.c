@@ -58,7 +58,7 @@ ChMouth(22,1);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,6);
 VoicePlay("F100330000_22_030");
-MsgDisp("Hikaru","Hey, stop calling me that?");
+MsgDisp("Hikaru","Hey, stop calling us that!");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -98,7 +98,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("F100330000_03_040");
 MsgDisp("Honda","Really?
-I like them, though");
+I like them, though.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);

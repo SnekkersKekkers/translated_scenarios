@@ -52,8 +52,8 @@ ChEye(22,2);
 ChMouth(22,4);
 ChMotion(22,2,1);
 VoicePlay("E012250000_22_070");
-MsgDisp("Hikaru","Hikaru guesses it wouldn't be that hard if
-Hikaru studied.
+MsgDisp("Hikaru","It's not worth going so far as to
+study for it, though.
 Hmm...");
 MsgDisp("主人公","Hmm, since it's just a trial class, why
 don't you try it out?");

@@ -50,7 +50,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("E010720200_07_020");
-MsgDisp("Mikage","Thats right.
+MsgDisp("Mikage","That's right.
 We both like animals and the outdoors...
 We have quite a lot in common.");
 ChEye(2,0);

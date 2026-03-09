@@ -59,7 +59,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F102230002_21_040");
-MsgDisp("Michiru","Thank you, Mari");
+MsgDisp("Michiru","Thank you, Mari.");
 ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,4,1);

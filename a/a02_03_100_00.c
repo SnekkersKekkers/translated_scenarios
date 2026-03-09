@@ -45,9 +45,9 @@ your seat.
 Now, which way is the window?");
 MsgDisp("主人公","On the left?");
 VoicePlay("A020310000_03_060");
-MsgDisp("Honda","Yes, correct! Now think back to your
-middle school classrooms. Do you
-remember?");
+MsgDisp("Honda","Yes, correct!
+Now think back to your
+middle school classrooms. Do you remember?");
 MsgDisp("主人公","Hmm...
 Oh!
 It's always been on the left!");

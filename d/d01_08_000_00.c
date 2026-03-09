@@ -3,7 +3,7 @@ ChLayout(1);
 BGMPlay("BGM_FESTIVAL",0.01);
 ScrFadeIn(0);
 VoicePlay("D010800000_08_000");
-MsgDisp("Daichi?","Look over here, big bro!");
+MsgDisp("Daichi?","Found her, big bro!");
 MsgDisp("主人公","(Huh?
 That voice just now...)");
 MsgClose();

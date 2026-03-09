@@ -48,8 +48,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B05001_01_020");
-MsgDisp("Kazama","We've become nothing.
-We're like air.");
+MsgDisp("Kazama","Just become nothing.
+We are air.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);

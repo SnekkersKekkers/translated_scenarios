@@ -30,8 +30,8 @@ ChOpen(9,35,0,4,4,#1,#1,0,2);
 VoicePlay("E010830100_09_000");
 MsgDisp("Kuya","Dai-chan, sorry to keep you waiting.
 You are...");
-MsgDisp("主人公","Hello, Kuya-san I happened to pass by and
-spotted ｛Daichi＊＊｝.");
+MsgDisp("主人公","Hello, Kuya-san. I happened to pass by
+and spotted ｛Daichi＊＊｝.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);

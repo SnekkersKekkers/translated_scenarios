@@ -75,9 +75,9 @@ ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,2,1);
 VoicePlay("D030900900_09_080");
-MsgDisp("Kuya","Sigh...Being with you like this all the
-time, I don't know if I would even want to
-change...");
+MsgDisp("Kuya","Sigh...
+If I could be with you like this all the
+time, I wonder if I could change...");
 ChEye(9,3);
 ChMouth(9,2);
 ChEyeOpenLevel(9,10);

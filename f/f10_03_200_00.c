@@ -7,7 +7,7 @@ VoicePlay("F100320000_03_000");
 MsgDisp("Honda?","Sakkun's muscles are amazing!");
 VoicePlay("F100320000_02_000");
 MsgDisp("Sassa?","Oh, yeah?
-Well, I'm training");
+Well, I'm training.");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);

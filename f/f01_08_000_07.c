@@ -116,7 +116,7 @@ Well, later.");
         ChMouth(8,4);
         ChMotion(8,2,1);
         VoicePlay("F010800007_08_090");
-        MsgDisp("Shirahane","Then, I guess I gotta go...");
+        MsgDisp("Shirahane","That's so mean...");
         ChEye(8,3);
         ChMouth(8,0);
         ChMotion(8,0,1);
@@ -157,7 +157,7 @@ In that case, be careful on yer way home.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(8,0,30);
         MsgDisp("主人公","(He went to the trouble of waiting for me,
-so I feel like I did something wrong..)");
+so I feel bad...)");
         break ;
         default :
         DbgAssert(1);

@@ -58,14 +58,14 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Mom told me something earlier that really
 surprised me...)");
 MsgDisp("主人公","(I see... Ryota-kun is really back.
-It's already been 9 years since he left
-for England.)");
+It's already been 9 years
+since he left for England.)");
 MsgDisp("主人公","(I hadn't heard his name in a while.
 It brought back a lot of memories of
 things from my childhood.)");
-MsgDisp("主人公","(\"It was just before Ryota-kun moved to
-England. I think it was just the two of
-us, at that place—\")");
+MsgDisp("主人公","(\"It was just before Ryota-kun moved
+to England. I think it was just
+the two of us, at that place—\")");
 MsgClose();
 ScrFadeOut(0,1,120);
 BGOpen("ex980",0);

@@ -31,7 +31,7 @@ ChMouth(22,0);
 ChMotion(22,0);
 VoicePlay("E010640000_22_020");
 MsgDisp("Hikaru","Aha ▼
-But you know, Himuro-chan is so kind. he
+But you know, Himuro-chan is so kind. He
 doesn't just ignore Hikaru ♪");
 ChEye(6,0);
 ChMouth(6,1);
@@ -76,7 +76,7 @@ ChMouth(22,3);
 ChMotion(22,5);
 VoicePlay("E010640000_22_040");
 MsgDisp("Hikaru","Ah!
-Mari!");
+You just looked at Mari!");
 MsgDisp("主人公","Huh, me?");
 ChEye(22,0);
 ChMouth(22,0);

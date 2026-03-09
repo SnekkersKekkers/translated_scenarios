@@ -57,8 +57,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010700600_07_060");
-MsgDisp("Mikage","Oy!
-You're right!
+MsgDisp("Mikage","Hey!
+That's what you care about?!
 So...what about bowling?");
 MsgDisp("主人公","Eh?");
 BGMStop();

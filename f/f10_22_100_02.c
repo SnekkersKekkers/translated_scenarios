@@ -47,7 +47,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F102210002_22_030");
 MsgDisp("Hikaru","...Ah, Mari!");
-MsgDisp("主人公","I didn't mean to eavesdrop but..
+MsgDisp("主人公","I didn't mean to eavesdrop, but...
 Sorry, I also doubted you a little,
 ｛ひかる＊｝.");
 ChEye(22,4);

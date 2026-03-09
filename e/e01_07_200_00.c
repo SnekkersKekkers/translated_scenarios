@@ -74,7 +74,7 @@ ChMotion(7,1);
 VoicePlay("E010720000_07_060");
 MsgDisp("Mikage","My hair is unique, you know?
 It's a hassle to explain, and there's
-certain way to treat it.");
+a certain way to treat it.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -105,8 +105,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("E010720000_04_040");
-MsgDisp("Nanatsumori","...So Mikage-sensei went to the beauty
-salon. He kinda doesn't seem like the
+MsgDisp("Nanatsumori","...So Mikage-sensei used to go to a beauty
+salon. He doesn't really seem like the
 type, does he?");
 MsgDisp("主人公","(I like ｛Mikage＊＊｝'s hairstyle. I hope
 he always keeps it that way...)");

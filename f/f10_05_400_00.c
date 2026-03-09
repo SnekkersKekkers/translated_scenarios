@@ -2,7 +2,7 @@ BGOpen("sc530",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F100540000_07_000");
-MsgDisp("Mikage?","If so, I definitely recommend it.
+MsgDisp("Mikage?","IIf so, I definitely recommend it.
 You'll like it!");
 VoicePlay("F100540000_05_000");
 MsgDisp("Hiiragi?","Yes, I'll try it next time.");

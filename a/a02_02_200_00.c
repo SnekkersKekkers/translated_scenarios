@@ -115,8 +115,8 @@ VoiceEVSPlay(2);
 VoicePlay("A020220000_02_090");
 MsgDisp("Sassa","｛主人公｝. So you're gonna be the
 manager, huh?");
-MsgDisp("主人公","Yeah, I'll do whatever I can to help you
-guys!");
+MsgDisp("主人公","Yeah, I'll do whatever
+I can to help you guys!");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,1);

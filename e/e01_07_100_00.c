@@ -45,15 +45,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010710000_07_050");
-MsgDisp("Mikage","How about you in class?");
+MsgDisp("Mikage","There are some in the classroom too,
+right?");
 MsgDisp("主人公","Huh...are you talking about us
 students...?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("E010710000_07_060");
-MsgDisp("Mikage","I think you can find beauty in every
-field.");
+MsgDisp("Mikage","Every field's got its share of beauties.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -63,7 +63,7 @@ MsgDisp("Mikage","See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Hmm maybe ｛Mikage＊＊｝ sees his
+MsgDisp("主人公","(Hmm, maybe ｛Mikage＊＊｝ sees his
 students as vegetables?)");
 MsgClose();
 ScrFadeOut(0,0);

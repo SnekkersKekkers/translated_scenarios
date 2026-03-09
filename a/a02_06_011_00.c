@@ -22,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_020");
-MsgDisp("Himuro?","If you've got something to ask, just do
-it.");
+MsgDisp("Himuro?","If you've got something
+to ask, just do it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -28,7 +28,7 @@ MsgDisp("","(*Plop*)");
 MsgDisp("主人公","Hm?
 His bus pass...");
 MsgDisp("主人公","｛Nanatsumori＊｝!
-Did you drop this just now!");
+Did you drop this just now?");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,0.8);
 SEWait();
 MsgClose();

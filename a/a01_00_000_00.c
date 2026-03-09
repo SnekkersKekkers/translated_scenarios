@@ -88,8 +88,8 @@ EnvPlay("SE_ENV_BG_PR006_CO0",1);
 ScrFadeIn(0);
 VoicePlay("A010000000_01_080");
 MsgDisp("Ryota","See that sparkly picture?
-That's called stained glass! And look,
-way up at the top, see that?");
+That's called stained glass!
+And look, way up at the top, see that?");
 MsgClose();
 ScrFadeOut(0,1);
 BGOpen("pr007",0);
@@ -136,9 +136,9 @@ Orange like the sunset — if you make a wish
 and blow on it, anything can come true!");
 MsgDisp("主人公","Wow! Like magic!");
 VoicePlay("A010000000_01_130");
-MsgDisp("Ryota","This pinwheel's made the same way, so
-maybe our wishes would come true
-too?");
+MsgDisp("Ryota","This pinwheel's made the
+same way, so maybe our
+wishes would come true too?");
 MsgDisp("主人公","Really∋");
 BGOpen("pr010",0);
 VoicePlay("A010000000_01_140");
@@ -204,9 +204,9 @@ BGOpen("ho410",2);
 EnvPlay("SE_ENV_BG_EV004_CO0",1,0.5);
 ScrFadeIn(4,60);
 MsgDisp("主人公","A dream...");
-MsgDisp("主人公","(Hehe, it's been so long since I heard
-his name. All those nostalgic memories
-are coming back to me.)");
+MsgDisp("主人公","(Hehe, it's been so long since I
+heard his name. All those nostalgic
+memories are coming back to me.)");
 SEPlay("EV_SE_829",0,0.4);
 SEStop("JINGLE_019",0);
 SEWait();

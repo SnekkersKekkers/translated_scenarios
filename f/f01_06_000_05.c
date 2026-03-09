@@ -19,7 +19,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,4);
     ChMotion(6,0,1);
     VoicePlay("F010600005_06_010");
-    MsgDisp("Himuro","Because you want to talk to me?");
+    MsgDisp("Himuro","You're okay with me?");
     MsgDisp("主人公","I like talking to ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,4);

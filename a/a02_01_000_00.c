@@ -42,8 +42,8 @@ StlMouth(1,0);
 EfctOpen(6);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","∋ Wait... No way...
-Ryo—!?
+MsgDisp("主人公","∋ Wait...
+No way... Ryo—!?
 ｛Kazama＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);
@@ -62,8 +62,8 @@ ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("A020100000_01_010");
 MsgDisp("Kazama","Yeah, that's right. Ka-za-ma.
-We used to play together all the time,
-remember?");
+We used to play together
+all the time, remember?");
 ChMotion(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -110,9 +110,9 @@ VoicePlay("A020100000_01_060");
 MsgDisp("Kazama","Yep. Even I'm surprised by this twist.
 I told your mom yesterday, though.
 Did she not mention it?");
-MsgDisp("主人公","Sorry, ｛Kazama＊＊｝. I was so surprised
-to hear you came back, I wasn't
-really listening...");
+MsgDisp("主人公","Sorry, ｛Kazama＊＊｝.
+I was so surprised to hear you came
+back, I wasn't really listening...");
 MsgDisp("主人公","Same school again, huh?
 Feels like we're back in elementary
 school.");
@@ -204,16 +204,16 @@ NSSEye(1,6);
 NSSMouth(1,0);
 VoicePlay("A020100000_01_150");
 MsgDisp("Kazama","...Do you remember?
-That time.");
+That one time.");
 NSSEyeOpenLevel(1,0);
 Wait(20,0);
 NSSEye(1,0);
-MsgDisp("主人公","That thing...?");
+MsgDisp("主人公","That one time...?");
 MsgSel("The mysterious church with the ringing bell?","The wishes we made together to the pinwheel?","We had lots of different moments, I wonder which one...");
 switch (MsgSelRsltGet()){
     case 0:
-    MsgDisp("主人公","The mysterious church with the ringing
-bell?");
+    MsgDisp("主人公","The mysterious church
+with the ringing bell?");
     NSSEye(1,6);
     NSSMouth(1,0);
     VoicePlay("A020100000_01_160");
@@ -276,15 +276,16 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("A020100000_44_000");
-MsgDisp("School Girl B","So the rumors were true～∈ What should we
-do if we end up in his class～∋");
+MsgDisp("School Girl B","So the rumors were true～∈
+What should we do if we
+end up in his class～∋");
 ChEye(1,4);
 ChMouth(1,1);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("A020100000_48_010");
-MsgDisp("School Girl A","I know, right!? My grandpa even calls
-him \"young master\"!
+MsgDisp("School Girl A","I know, right!?
+My grandpa even calls him \"young master\"!
 He's like, royalty or something!!");
 MsgDisp("主人公","?
 Hey, ｛Kazama＊＊｝, it sounds like

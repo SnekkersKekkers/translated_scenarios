@@ -5,7 +5,7 @@ VoicePlay("E010830000_08_000");
 MsgDisp("Daichi?","Ugh!
 Big bro is such an idiot!");
 VoicePlay("E010830000_09_000");
-MsgDisp("Kuya?","Sorry.
+MsgDisp("Kuya?","Sorry 'bout that.
 But they were in trouble, weren't they?");
 MsgDisp("主人公","(Huh?
 Those voices...)");
@@ -14,16 +14,16 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(8,255,4,2,2,#1,#1,0,1);
 ChOpen(9,35,0,0,0,#1,#1,0,2);
 VoicePlay("E010830000_08_010");
-MsgDisp("Daichi","That's true but...
-But it troubled me too....");
+MsgDisp("Daichi","Ya, I get that, but still!
+It messed me over too, y'know…");
 VoicePlay("E010830000_09_010");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
-MsgDisp("Kuya","I know.
-I'll definitely make it up to you.
-Okay?");
+MsgDisp("Kuya","I gotcha.
+I'll definitely make it up to ya.
+Deal?");
 MsgDisp("主人公","｛Daichi＊＊｝, Kuya-san!");
 ChEye(9,3);
 ChMouth(9,4);
@@ -52,8 +52,8 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,4,1);
 MsgDisp("Kuya","I was asked for directions, and while I
-was showing them, the movie had
-finished...");
+was showing them, the movie
+ended...");
 MsgDisp("主人公","I see.");
 VoicePlay("E010830000_08_040");
 ChEye(8,2);
@@ -61,19 +61,20 @@ ChMouth(8,2);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 MsgDisp("Daichi","Ahh...
-I was really looking forward to it...");
+I was really looking forward ta it...");
 ChEyeOpenLevel(8,#1);
 VoicePlay("E010830000_09_040");
 ChMotion(9,0,1);
-MsgDisp("Kuya","Sorry about that.
-Shall we see it again another time?");
+MsgDisp("Kuya","C'mon, I said m'sorry...
+How 'bout we go see it again 
+some other day?");
 ChEye(8,0);
 ChMouth(8,4);
 MsgDisp("主人公","......");
 VoicePlay("E010830000_08_050");
 ChMotion(8,0,1);
 MsgDisp("Daichi","What's wrong?
-Look closely at me, big bro");
+She's starin' at ya, big bro.");
 VoicePlay("E010830000_09_050");
 ChEye(9,0);
 ChMouth(9,4);

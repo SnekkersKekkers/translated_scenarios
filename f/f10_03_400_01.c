@@ -20,7 +20,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100340001_03_020");
 MsgDisp("Honda","Ah, it's times like these that really test
-how well I know Me-kun.");
+how well I know Mi-kun.");
 MsgDisp("主人公","Hehe, maybe.
 Where do you think he is?");
 ChEye(3,0);

@@ -2,8 +2,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140101060_01_000");
-MsgDisp("Kazama","It drew me in.
-It's a very interesting menu.");
+MsgDisp("Kazama","You dragged me into this one.
+What an aggressive-looking menu.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -26,9 +26,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("D140D07030_21_010");
-MsgDisp("Michiru","If you think about it like that, it makes
-more sense.
-Honda-kun likes to study.");
+MsgDisp("Michiru","If you think about it that way, it means
+Honda-kun likes studying, and that
+actually makes a lot of sense.");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);

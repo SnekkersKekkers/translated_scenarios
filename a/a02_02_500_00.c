@@ -2,7 +2,8 @@ BGOpen("sc310",0);
 ScrFadeIn(0);
 VoicePlay("A020250000_02_000");
 MsgDisp("Sassa?","Ryota, you here～?");
-MsgDisp("主人公","Ah, ｛Sassa＊＊｝! What's going on?");
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝!
+What's going on?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);

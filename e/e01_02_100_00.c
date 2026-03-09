@@ -39,7 +39,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("E010210000_02_040");
 MsgDisp("Sassa","Is it funny?
 There were only girls there, so I got some
-weird looks.....");
+weird looks...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -51,7 +51,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010210000_02_060");
 MsgDisp("Sassa","Yeah, I got one that's supposed to keep
-the skin's firmness and elasticity..");
+the skin's firmness and elasticity.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

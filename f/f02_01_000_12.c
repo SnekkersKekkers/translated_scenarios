@@ -18,15 +18,15 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100012_01_010");
 MsgDisp("Kazama","Thanks to you, I was never bored.");
-MsgDisp("主人公","Thanks to me?");
+MsgDisp("主人公","Thanks to you, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100012_01_020");
-MsgDisp("Kazama","Of course.
-I had a very calm year, so there's no
-question about it.");
+MsgDisp("Kazama","Why would you say that?
+I wouldn't have minded a slightly calmer
+year, though.");
 MsgDisp("主人公","I see, that's good.
 When the new year starts, I hope it stays
 calm...");

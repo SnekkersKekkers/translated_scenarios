@@ -13,8 +13,8 @@ BGMPlay("BGM_C04_NANA_I",0.01);
 ChLayout(1);
 ChNanaType(1);
 ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Welcome! Let me guide you to your
-seat—");
+MsgDisp("主人公","Welcome!
+Let me guide you to your seat—");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_000");
@@ -251,7 +251,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_220");
 MsgDisp("Nanatsumori","You, what's your name?");
-MsgDisp("主人公","｛主人公姓名｝. See you in school, okay?");
+MsgDisp("主人公","｛主人公姓名｝.
+See you in school, okay?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);

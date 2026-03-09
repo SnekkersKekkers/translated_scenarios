@@ -54,8 +54,8 @@ good.");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("F010800001_08_040");
-    MsgDisp("Shirahane","Nah.
-I forgive ya, but...
+    MsgDisp("Shirahane","Yeah.
+Forgive me...
 Later.");
     MsgClose();
     BGMStop();

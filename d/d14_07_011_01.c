@@ -20,7 +20,7 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("D140701101_07_020");
-    MsgDisp("Mikage","How's it going?");
+    MsgDisp("Mikage","I bet you're copying me, huh?");
     break ;
     default :
     DbgAssert(1);

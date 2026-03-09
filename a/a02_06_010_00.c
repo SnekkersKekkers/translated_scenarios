@@ -9,9 +9,9 @@ BGMPlay("BGM_C06_INORI_I",0.01);
 ChOpen(6,254,2,1,1,0,#1,0,0);
 VoicePlay("A020601000_06_000");
 MsgDisp("Himuro?","......");
-MsgDisp("主人公","(That's the guy who was talking to Vice
-Principal Himuro in the corridor, isn't
-it?)");
+MsgDisp("主人公","(That's the guy who was talking
+to Vice Principal Himuro
+in the corridor, isn't it?)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -30,9 +30,8 @@ VoicePlay("A020601000_06_030");
 MsgDisp("Himuro?","Or should I ask you first?
 I know exactly what Habataki High students
 want to ask me.");
-MsgDisp("主人公","Hmm?
-Umm... Are you and Vice Principal
-Himuro——");
+MsgDisp("主人公","Hmm? Umm...
+Are you and Vice Principal Himuro——");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
@@ -135,9 +134,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(｛Himuro＊＊｝... It seems like I
-shouldn't bring up his relationship
-with the Vice Principal.)");
+MsgDisp("主人公","(｛Himuro＊＊｝...
+It seems like I shouldn't bring up his
+relationship with the Vice Principal.)");
 ChPrmTblAdd(6,0);
 MsgClose();
 ScrFadeOut(0);

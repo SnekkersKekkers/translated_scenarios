@@ -28,8 +28,8 @@ VoicePlay("F100340002_03_030");
 MsgDisp("Honda","Right right, that's what it said on the
 message. That I should look with you.
 Where do you think he is?");
-MsgDisp("主人公","even if you ask me that...where could he
-be?");
+MsgDisp("主人公","Even if you ask me that...
+Where could he be?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);

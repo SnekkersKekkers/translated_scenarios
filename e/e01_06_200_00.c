@@ -65,7 +65,7 @@ ChMotion(6,0);
 VoicePlay("E010620000_06_040");
 MsgDisp("Himuro","It's probably cushioning material.
 Like the bubble wrap used for fragile
-items.");
+items..");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

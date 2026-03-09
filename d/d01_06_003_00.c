@@ -15,7 +15,7 @@ What's up?");
 VoicePlay("D010600300_06_000");
 MsgDisp("Himuro","...Were you sleeping?");
 MsgDisp("主人公","Y-Yeah.
-It's already this late...");
+It's still so early...");
 VoicePlay("D010600300_06_010");
 MsgDisp("Himuro","So...
 Can you come out?

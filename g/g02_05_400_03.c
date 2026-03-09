@@ -6,11 +6,11 @@ with my father quite interesting.");
 MsgDisp("主人公","Your father?");
 ChMotion(5,4);
 VoicePlay("G020540003_05_010");
-MsgDisp("Hiiragi","Yes, the former troupe leader.
+MsgDisp("Hiiragi","Yes, the former chairman.
 He still talks about theater theory,
 though.");
 MsgDisp("主人公","Hehe, it sounds more like a conversation
-between the old and new troupe leaders
+between the old and new chairmans
 than father and son.");
 ChEye(5,4);
 ChMotion(5,0);

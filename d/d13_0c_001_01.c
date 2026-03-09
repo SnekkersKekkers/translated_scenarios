@@ -94,7 +94,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("D130C00101_06_030");
-MsgDisp("Himuro","For me, it's not...");
+MsgDisp("Himuro","I wouldn't mind that...");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -150,9 +150,9 @@ ChMotion(6,4);
 VoicePlay("D130C00101_06_050");
 MsgDisp("Himuro","It's a promise.");
 MsgDisp("主人公","Hehe, yes!");
-MsgDisp("主人公","(Everyone seems to be having fun at the
-Christmas Party...
-I wonder what will happen next year...?)");
+MsgDisp("主人公","(It would be so much fun if we could
+all have a Christmas party together...
+I wonder what next year will be like...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

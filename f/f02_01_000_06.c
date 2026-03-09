@@ -40,9 +40,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("F020100006_01_040");
-MsgDisp("Kazama","You could at least comfort me.
-Well, can I expect you won't forget your
-high school sports day?");
+MsgDisp("Kazama","Well, that's a relief, at least.
+But you're not gonna forget your high
+school sports day, right?");
 MsgDisp("主人公","I'm not that forgetful anymore.");
 ChEye(1,2);
 ChMouth(1,2);

@@ -103,7 +103,7 @@ ChMotion(6,0);
 VoicePlay("D130A00200_06_070");
 MsgDisp("Himuro","That's right.
 Despite how he looks, he's earnest.
-He'll be back before then.");
+He'll be back the day before, at least.");
 MsgDisp("主人公","Hehe, yeah that's right.");
 ChEye(2,0);
 ChMouth(2,4);

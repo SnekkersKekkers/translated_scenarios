@@ -13,8 +13,8 @@ MsgDisp("Hiiragi","Winter break passes in the blink of an
 eye. Once I finish the New Year's
 Greetings, it's already over.");
 MsgDisp("主人公","I see.
-I guess it's difficult for ｛Hiiragi＊＊＊｝ to
-have a restful New Years Day.");
+I guess a lazy New Year's Day just isn't
+in the cards for ｛Hiiragi＊＊＊｝.");
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("F020500011_05_010");

@@ -48,8 +48,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A05101_01_020");
-MsgDisp("Kazama","...It's because I'm not getting worked up,
-that I'm talking to you.");
+MsgDisp("Kazama","...I'm saying, don't make us have to
+worry about you.");
 ChEyeOpenLevel(1,0);
 ChEye(2,0);
 ChMouth(2,4);

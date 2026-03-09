@@ -29,7 +29,7 @@ VoicePlay("D010500300_33_020");
 MsgDisp("Theater Member A","We're not cut out to be actors.");
 VoicePlay("D010500300_46_000");
 MsgDisp("Theater Member B","No matter how much we practice, we aren't
-good enough to satisfy the troupe leader.
+good enough to satisfy the chairman.
 We're not enjoying ourselves.");
 VoicePlay("D010500300_05_010");
 MsgDisp("Hiiragi","Why are you giving up so easily?");
@@ -111,7 +111,7 @@ VoicePlay("D010500300_05_110");
 MsgDisp("Hiiragi","Isn't that ironic for a person like me
 whose job it is to convey hope to the
 audience on stage...");
-MsgDisp("Hiiragi","How hilarious that I'm the troupe leader.");
+MsgDisp("Hiiragi","How hilarious that I'm the chairman.");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500300_05_120");

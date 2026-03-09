@@ -10,8 +10,9 @@ VoicePlay("E010710100_07_000");
 MsgDisp("Mikage","Thank you as always.
 In return, here are some vegetables.");
 VoicePlay("E010710100_47_010");
-MsgDisp("Clerk","Wow!
-Your vegetables look delicious.");
+MsgDisp("Clerk","Oh, thank you!
+Your vegetables are always so beautiful 
+and delicious.");
 VoicePlay("E010710100_07_010");
 MsgDisp("Mikage","Looks and tastes great.
 Same as you, miss.");

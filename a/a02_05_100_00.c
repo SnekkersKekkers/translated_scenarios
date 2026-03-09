@@ -137,8 +137,8 @@ MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 Being the troupe chairman while
 still in high school is incredible...)");
 MsgDisp("主人公","(Oh, there's the poster for his play!
-...Hmm? \"Starring actor: Hiiragi
-Yanosuke\"∋)");
+...Hmm?
+\"Starring actor: Hiiragi Yanosuke\"∋)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(5,0);

@@ -33,9 +33,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("A020210000_02_040");
-MsgDisp("Sassa","I see. I run whenever I can, before
-club or during breaks. Nice to meet
-a fellow sports lover!");
+MsgDisp("Sassa","I see. I run whenever I can,
+before club or during breaks.
+Nice to meet a fellow sports lover!");
 MsgDisp("主人公","Hehe, I see.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -126,8 +126,8 @@ ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("A020210000_02_150");
 MsgDisp("Sassa","And also...When you run with someone,
-you get to know them a little. I think
-you're a good person.");
+you get to know them a little.
+I think you're a good person.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

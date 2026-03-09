@@ -53,7 +53,8 @@ ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("D110D00100_22_030");
 MsgDisp("Hikaru","Aha▼
-I hope \"Mari's Garden\" is a lot of fun～♪");
+Hikaru hopes \"Mari's Garden\" is a 
+lot of fun～♪");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);

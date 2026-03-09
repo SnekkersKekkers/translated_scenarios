@@ -10,9 +10,9 @@ Do you have any plans?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("F020500007_05_000");
-MsgDisp("Hiiragi","I will be putting on a special summer
-performance, but nothing more high school
-student, no.");
+MsgDisp("Hiiragi","I have a special summer performance
+planned, but nothing as a regular high
+school student, no.");
 MsgDisp("主人公","I see...");
 ChEye(5,0);
 ChMouth(5,4);

@@ -56,8 +56,8 @@ ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("A020600100_32_050");
 MsgDisp("VP Himuro","Very well.
-Make sure to be properly dressed at all
-times. Dismissed.");
+Make sure to be properly
+dressed at all times. Dismissed.");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

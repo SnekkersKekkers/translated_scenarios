@@ -49,13 +49,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("D130A00101_02_010");
-MsgDisp("Sassa","I think I deserve a picture with you guys.
+MsgDisp("Sassa","The prize is the right to take a photo
+with you.
 Since it's our last Christmas party.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D130A00101_01_030");
-MsgDisp("Kazama","Not a bad idea.");
+MsgDisp("Kazama","That's right.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -145,7 +146,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130A00101_06_020");
-MsgDisp("Himuro","Ryota-senpai, don't do anything bad.");
+MsgDisp("Himuro","Ryota-senpai, karma really does catch up,
+huh?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);

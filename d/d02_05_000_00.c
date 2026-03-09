@@ -54,7 +54,7 @@ BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 EnvPlay("SE_ENV_BG_EV004_CO0",1);
 ScrFadeIn(0);
 VoicePlay("D020500000_05_030");
-MsgDisp("Hiiragi","It is just a dress rehearsal, so I hope
+MsgDisp("Hiiragi","It is just a dress rehearsal, but I think
 you will be able to follow the story.");
 VoicePlay("D020500000_05_040");
 MsgDisp("Hiiragi","Let's begin, then.");
@@ -75,9 +75,8 @@ you. Now, march onwards.");
 VoicePlay("D020500000_33_020");
 MsgDisp("Theater Member A","But Mother...");
 VoicePlay("D020500000_46_010");
-MsgDisp("Theater Member B","It's already too late for me to take up
-that sword.
-Go on.");
+MsgDisp("Theater Member B","I am already one with that sword.
+I will always be with you.");
 MsgDisp("主人公","(Ah!
 Those actors...)");
 VoicePlay("D020500000_05_060");
@@ -137,7 +136,7 @@ ChOpen(5,40,0,4,4,#1,#1,0,0,0,30);
 SEWait();
 VoicePlay("D020500000_05_110");
 MsgDisp("Hiiragi","You...
-That face, make that face again.");
+There you go, making that face again.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -163,8 +162,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D020500000_05_140");
 MsgDisp("Hiiragi","I can't relax yet, though.
-Depending on the reviews we get, we may
-have to shut down the show.");
+Depending on the reviews, I may truly
+have to give up the lead role.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

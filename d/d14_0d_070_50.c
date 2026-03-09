@@ -20,7 +20,7 @@ ChMouth(22,0);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("D140D07050_22_010");
-MsgDisp("Hikaru","He is the chairman after all?
+MsgDisp("Hikaru","He's the chairman, after all?
 Even though he's the same age as us, he
 manages adults too, right?");
 ChEye(21,0);
@@ -47,9 +47,9 @@ VoicePlay("D140D07050_22_030");
 MsgDisp("Hikaru","Yanosuke-san doesn't let it show on his
 face much, but I wonder if he's actually
 suffering?");
-MsgDisp("主人公","(As chairman, you are in a position of
-authority...It's definitely a feeling we
-can't understand as High School students.)");
+MsgDisp("主人公","(The chairman is a position of
+authority... It's definitely a feeling we 
+can't understand as high school students.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

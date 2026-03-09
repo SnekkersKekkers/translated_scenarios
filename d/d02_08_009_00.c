@@ -42,7 +42,7 @@ MsgDisp("主人公","What a relief...
 It scared me when I heard that you
 suddenly quit your job...");
 VoicePlay("D020800900_08_010");
-MsgDisp("Shirahane","...Dontcha worry, okay?
+MsgDisp("Shirahane","...I'm sorry.
 I hafta work really hard to catch up.");
 MsgDisp("主人公","What do you mean?");
 VoicePlay("D020800900_08_020");
@@ -78,7 +78,7 @@ switch (MsgSelRsltGet()){
 too!");
     VoicePlay("D020800900_08_070");
     MsgDisp("Shirahane","Ehh∋
-You're fired up...?");
+Don't do anything reckless...!");
     MsgDisp("主人公","I'm not going to lose to ｛Daichi＊＊｝.
 I need to study for the exam.");
     VoicePlay("D020800900_08_080");
@@ -104,7 +104,7 @@ Gas\".)");
     MsgDisp("主人公","I'm rooting for ｛Daichi＊＊｝!
 Good luck!");
     VoicePlay("D020800900_08_110");
-    MsgDisp("Shirahane","That's huge.
+    MsgDisp("Shirahane","Thanks.
 Just knowin' that you're cheerin' me on
 makes me feel energized.");
     MsgDisp("主人公","Hehe.");

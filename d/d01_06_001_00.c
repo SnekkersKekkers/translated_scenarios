@@ -35,7 +35,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600100_06_010");
 MsgDisp("Himuro","Yeah.
-...Alright, time to get started.");
+...Alright, looks like it's done.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
@@ -141,15 +141,15 @@ ChEyeOpenLevel(6,0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","...Am I bad at cooking eggplant?");
+MsgDisp("主人公","...You really can't stand eggplant, huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,5);
 VoicePlay("D010600100_06_140");
 MsgDisp("Himuro","Not really.
-It's not that you're bad at it, I just
-don't have the nerve to eat it.");
+I just can't understand how anyone has
+the nerve to eat it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

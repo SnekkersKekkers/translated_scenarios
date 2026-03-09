@@ -18,7 +18,7 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100011_21_010");
 MsgDisp("Michiru","So?
-Did you have a fulfilling year Mari?");
+Did you have a fulfilling year, Mari?");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);

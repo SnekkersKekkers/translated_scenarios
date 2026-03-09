@@ -35,7 +35,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C06102_05_020");
-MsgDisp("Hiiragi","Ah, Mikage-senpai has yet another role.");
+MsgDisp("Hiiragi","Ah, Mikage-sensei has yet another role.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

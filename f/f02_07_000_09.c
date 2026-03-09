@@ -50,7 +50,7 @@ MsgDisp("Mikage","I wonder how many more school festivals I
 have to go through before I can think as
 smartly as you.");
 MsgDisp("主人公","I want to spend as many cultural festivals
-as I can with ｛Mikage＊＊｝?");
+as I can with ｛Mikage＊＊｝!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

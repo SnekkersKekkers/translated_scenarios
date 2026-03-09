@@ -135,8 +135,8 @@ StlEye(3,1);
 StlEye(4,1);
 VoicePlay("D120B00000_44_000");
 MsgDisp("School Girl A","Kazama-kun's hairstyle looks like
-something I saw in a special edition of
-Nana's magazine! Let me take a picture!");
+something from the NANA special in a
+magazine! Let me take a picture!");
 StlEyeOpenLevel(1,5,1);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("D120B00000_45_000");

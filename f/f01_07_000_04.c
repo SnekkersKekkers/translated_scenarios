@@ -21,7 +21,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("F010700004_07_010");
     MsgDisp("Mikage","Sorry.
 There's a staff meeting today.
-Ah, I really do want to go with you.");
+Ahh, I just wanna go home.");
     MsgDisp("主人公","That's fine, please do your best.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

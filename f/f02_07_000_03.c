@@ -11,7 +11,7 @@ ChMotion(7,0);
 VoicePlay("F020700003_07_000");
 MsgDisp("Mikage","Hey, there seems to be more and more tales
 surrounding that church legend, right?");
-MsgDisp("主人公","What kind of tales.");
+MsgDisp("主人公","What kind of tales?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -62,7 +62,7 @@ ChMotion(7,2);
 VoicePlay("F020700003_07_070");
 MsgDisp("Mikage","That's not all.
 Apparently the ostriches started breeding
-and escaping");
+and escaping.");
 MsgDisp("主人公","T-That's not true, right?");
 ChEye(7,2);
 ChMouth(7,0);

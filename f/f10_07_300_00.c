@@ -83,7 +83,7 @@ ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("F100730000_21_030");
 MsgDisp("Michiru","But, these sorts of clothes are no
-good-for a date, right?");
+good for a date, right?");
 ChMouth(22,0);
 MsgDisp("主人公","Yeah, that...");
 ChEye(7,0);

@@ -11,7 +11,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600005_06_000");
 MsgDisp("Himuro","Is that so?");
-MsgDisp("主人公","'Are they? ', he says...
+MsgDisp("主人公","'Is that so,' he says...
 Are you not even studying?");
 ChEye(6,0);
 ChMouth(6,0);

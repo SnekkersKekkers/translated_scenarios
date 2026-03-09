@@ -4,4 +4,4 @@ ChMotion(1,0);
 VoicePlay("D140101002_01_000");
 MsgDisp("Kazama","We're like-minded.
 This was the only choice.
-My stomach just can't get enough.");
+The texture going down is just the best.");

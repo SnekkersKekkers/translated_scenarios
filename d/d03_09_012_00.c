@@ -40,13 +40,14 @@ What about Kuya-san, how's studying for
 entrance exams going?");
 VoicePlay("D030901200_09_050");
 MsgDisp("Kuya","I'm desperate...
-I can't stop thinking about you and I hate
-that I can't concentrate on studying.");
+When I think of you I can't focus, and I
+don't like studying enough to concentrate.");
 MsgDisp("主人公","I-I see.
 Maybe we should study together, then?");
 VoicePlay("D030901200_09_060");
 MsgDisp("Kuya","No way.
-I don't need extra study-time.");
+That would make me want to study 
+even less.");
 MsgDisp("主人公","?");
 VoicePlay("D030901200_09_070");
 MsgDisp("Kuya","I have to do this on my own.

@@ -46,9 +46,9 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800000_08_060");
-MsgDisp("Shirahane","If you come watch me, I'm sure you'll
-see I'm just as good as \"Haba High's
-Young Master\", yeah~?");
+MsgDisp("Shirahane","Customers ask for me by name, y'know.
+If you come watch, you'll see I'm just
+as good as \"Haba High's Young Master\"~!");
 MsgDisp("主人公","(Hehe! ｛Kazama＊＊｝ and ｛Daichi＊＊｝ are
 completely different, but I think I can
 see it...!)");

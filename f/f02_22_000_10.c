@@ -5,7 +5,7 @@ ChMouth(22,0);
 ChMotion(22,0);
 ScrFadeIn(0);
 MsgDisp("主人公","The cultural festival is fast approaching.
-This is my last one of high school..");
+This is my last one of high school...");
 ChEye(22,4);
 ChMouth(22,4);
 ChMotion(22,2,1);
@@ -17,8 +17,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F022200010_22_010");
-MsgDisp("Hikaru","Ah, that's right! i wonder who will be the
-leading role for our school play～♪");
+MsgDisp("Hikaru","Ah, that's right! I wonder who will be the
+lead role in our school play～♪");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -26,8 +26,8 @@ VoicePlay("F022200010_22_020");
 MsgDisp("Hikaru","If Mari becomes the heroine, Hikaru will 
 be cheering for her lots▼");
 MsgDisp("主人公","Y-Yeah.
-If I got the leading part, I'll do my
-best, okay?");
+If I get the lead role, I'll do my best,
+okay?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);

@@ -28,7 +28,7 @@ ChMotion(2,4);
 VoicePlay("F100210001_02_010");
 MsgDisp("Sassa","Ohh, it's you.
 Did you know?
-The limit here is 20 books");
+The limit here is 20 books.");
 MsgDisp("主人公","Yeah.
 ｛Sassa＊＊｝, you borrowed 20 books before.
 Are you a bookworm?");
@@ -39,7 +39,7 @@ VoicePlay("F100210001_02_020");
 MsgDisp("Sassa","Hm?
 It's not like that.");
 MsgDisp("主人公","Eh?
-But..");
+But...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

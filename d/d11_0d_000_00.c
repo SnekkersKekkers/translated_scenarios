@@ -38,7 +38,8 @@ together in harmony.");
 VoicePlay("D110D00000_21_010");
 MsgDisp("Michiru","That's the feeling Mari has nurtured.
 I'm certain they will all cherish Mari.");
-MsgDisp("主人公","3 Roses of Different Colors...");
+MsgDisp("主人公","3 Roses of Different Colors...
+My feelings...");
 MsgClose();
 ScrFadeOut(0);
 StlClose();

@@ -58,7 +58,7 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("F102220001_31_030");
-MsgDisp("Goro","I don't need run-of-the mill designs in my
+MsgDisp("Goro","I don't need run-of-the-mill designs in my
 world.
 Well then, adieu!");
 MsgClose();

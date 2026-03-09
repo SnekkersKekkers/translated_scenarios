@@ -30,7 +30,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F022200002_22_030");
 MsgDisp("Hikaru","And guess what!
-It's ran by some uncle!");
+It's run by some uncle!");
 MsgDisp("主人公","Uncle...
 Eh∋
 Do you mean Goro-sensei?");
@@ -68,7 +68,7 @@ ChMotion(22,2,1);
 VoicePlay("F022200002_22_080");
 MsgDisp("Hikaru","That's right though. Hikaru can believe
 that uncle part, but Hazuki Kei? No way!");
-MsgDisp("主人公","(I know it's just a rumor. but it gives
+MsgDisp("主人公","(I know it's just a rumor, but it gives
 the illusion that it could be true...)");
 MsgClose();
 ScrFadeOut(0,0);

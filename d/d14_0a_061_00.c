@@ -18,8 +18,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A06100_02_010");
 MsgDisp("Sassa","Eh...∋
-Ahh, I mean why doesn't he ever do
-anything with you?");
+Ahh, I don't mean like that, between you
+and him?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

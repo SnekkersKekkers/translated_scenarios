@@ -77,8 +77,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("E010620200_04_050");
-MsgDisp("Nanatsumori","He was also sneaking around Himuro-kun's
-feet.
+MsgDisp("Nanatsumori","He was rubbing all over Himuro-kun's feet
+too.
 ...Right?");
 ChEye(6,0);
 ChMouth(6,0);

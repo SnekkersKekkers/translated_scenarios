@@ -21,9 +21,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D100110000_01_020");
-MsgDisp("Kazama","I was waiting for you somewhere that
-looked like a tower, overlooking the
-garden.");
+MsgDisp("Kazama","You were waiting somewhere that looked
+like a tower, overlooking the garden.");
 ChMotion(1,0);
 Wait(12,0);
 ChEye(1,0);

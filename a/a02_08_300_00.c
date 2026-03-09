@@ -46,9 +46,9 @@ MsgDisp("Shirahane","You're the new part-timer startin' today,
 right? I'm Shirahane Daichi. I'm in the
 blue necktie year at Hanegasaki Academy.");
 ChEyeOpenLevel(8,#1);
-MsgDisp("主人公","I'm ｛主人公姓名｝. Blue...So that
-means, the same grade as me, doesn't it!
-I'm from——");
+MsgDisp("主人公","I'm ｛主人公姓名｝.
+Blue...So that means, the
+same grade as me, doesn't it! I'm from——");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -82,9 +82,9 @@ SEStop("EV_SE_589",1);
 ChEye(8,3);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_050");
-MsgDisp("Shirahane","Don't mention it. But hey, what's a girl
-from a fancy school like yours doin'
-workin' at a gas station?");
+MsgDisp("Shirahane","Don't mention it.
+But hey, what's a girl from a fancy school
+like yours doin' workin' at a gas station?");
 MsgDisp("主人公","Eh, is it that weird?");
 ChEye(8,2);
 ChMouth(8,0);

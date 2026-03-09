@@ -15,7 +15,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100120000_07_000");
-MsgDisp("Mikage","It's course for men who live alone.");
+MsgDisp("Mikage","It's a course for men who live alone.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

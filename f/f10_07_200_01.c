@@ -10,8 +10,8 @@ ScrFadeOut(0);
 SEWait();
 BGOpen("sc352",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛Mikage＊＊｝ and ｛Hiiragi＊＊＊｝ is
-also here!");
+MsgDisp("主人公","Ah, ｛Mikage＊＊｝ is here,
+and ｛Hiiragi＊＊＊｝ too!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,37,0,0,0,#1,#1,0,1,0,30);

@@ -28,7 +28,7 @@ ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("F100230000_02_000");
 MsgDisp("Sassa","Hey, that's enough.");
-MsgDisp("主人公","What's up.");
+MsgDisp("主人公","What's up?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

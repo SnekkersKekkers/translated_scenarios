@@ -22,7 +22,7 @@ VoicePlay("D140C03400_07_000");
 MsgDisp("Mikage","Yeah.
 What's this all of a sudden, Yanosuke?");
 VoicePlay("D140C03400_05_010");
-MsgDisp("Hiiragi","You own pets right?");
+MsgDisp("Hiiragi","You don't have any pets, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

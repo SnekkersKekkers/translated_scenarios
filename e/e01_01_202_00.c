@@ -52,8 +52,8 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("E010120200_01_030");
-MsgDisp("Kazama","Sassa, why did you have to make it more
-interesting than it is?");
+MsgDisp("Kazama","Sassa, why'd you have to make it sound
+more interesting than it is?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -79,7 +79,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010120200_01_050");
-MsgDisp("Kazama","Sassa, you don't get it do you?\nIt doesn't matter how much \"sense\" I have,\nas long as you're around, I feel mediocre.");
+MsgDisp("Kazama","Sassa, you don't get it, do you?
+It doesn't matter how much \"sense\" I have,
+as long as you're around, I feel mediocre.");
 MsgDisp("主人公","Is that so?
 But you can do anything, ｛Kazama＊＊｝, I
 don't think you're mediocre at all!");
@@ -161,8 +163,7 @@ VoicePlay("E010120200_02_080");
 MsgDisp("Sassa","Ah, I gotta go too!
 I still have training!
 See ya!");
-MsgDisp("主人公","Y-Yeah!
-See you!");
+MsgDisp("主人公","Y-Yeah!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

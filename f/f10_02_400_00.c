@@ -7,7 +7,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,4,#1,#1,0,1);
 ChOpen(6,254,0,0,0,#1,#1,0,2);
-MsgDisp("主人公","Good afternoon?
+MsgDisp("主人公","Good afternoon.
 What are you two in the middle of talking
 about?");
 ChEye(2,0);
@@ -51,7 +51,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100240000_02_030");
 MsgDisp("Sassa","Inori and I both like spending time on our
-own..");
+own.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

@@ -105,7 +105,7 @@ ChMotion(7,4);
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("A020700000_32_010");
-MsgDisp("VP Himuro","Hmm.");
+MsgDisp("VP Himuro","Agh!");
 MsgDisp("主人公","(The vice principal!
 If I remember correctly, his name's
 Himuro...)");
@@ -179,8 +179,9 @@ ChMouth(7,3);
 ChMotion(7,0);
 SEStop("EV_SE_GAYA_017");
 VoicePlay("A020700000_07_110");
-MsgDisp("Mikage","Well, I guess today you get a special
-edition version of me. So? Where were we?");
+MsgDisp("Mikage","Well, I guess today you get a
+special edition version of me. So?
+Where were we?");
 VoicePlay("A020700000_42_090");
 MsgDisp("Male Student A","You barely told us your name.");
 SEPlay("EV_SE_864",0.2,0.4);
@@ -253,9 +254,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("A020700000_07_190");
-MsgDisp("Mikage","That's a wrap! I said \"last question\"!
-If I tell you everything now,
-I won't have anything left for the year!");
+MsgDisp("Mikage","That's enough! I said \"last question\"!
+If I tell you everything now, I won't
+have anything left for the year!");
 SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.9);
 SEPlay("EV_SE_788",0.2);
