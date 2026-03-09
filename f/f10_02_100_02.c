@@ -26,7 +26,8 @@ BGMPlay("BGM_C02_SASSA_A",0.01);
 ScrFadeIn(0);
 VoicePlay("F100210002_02_010");
 MsgDisp("Sassa","Yo, so it's you.
-Are you returning that top ranked book?");
+Were you able to borrow that top-ranked 
+book?");
 MsgDisp("主人公","It looks like you couldn't borrow the
 \"Exercise Learning Theory in Practice\",
 ｛Sassa＊＊｝?");

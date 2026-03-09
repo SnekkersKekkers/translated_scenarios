@@ -30,9 +30,9 @@ I've always lived in Habataki City.");
 ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("F020400008_04_020");
-MsgDisp("Nanatsumori","Well, yeah, but at least those friends
-that you lost touch with after high school
-still come to visit you, right?");
+MsgDisp("Nanatsumori","But friends you drifted apart from when
+you started high school might come visit,
+right?");
 MsgDisp("主人公","Oh...
 I guess.");
 ChEye(4,4);

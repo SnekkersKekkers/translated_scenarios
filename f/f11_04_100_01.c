@@ -7,10 +7,10 @@ MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110410001_46_000");
-MsgDisp("Woman Customer A","Eh, isn't that the student council
+MsgDisp("Woman Customer A","Eh, so he's not the student council
 president?");
 VoicePlay("F110410001_47_000");
-MsgDisp("Woman Customer B","I feel like something new!
+MsgDisp("Woman Customer B","He totally looks the part, though!
 Hey hey, can you take off your glasses?");
 VoicePlay("F110410001_04_000");
 MsgDisp("Nanatsumori","No.

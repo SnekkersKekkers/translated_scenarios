@@ -40,9 +40,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300002_03_040");
-MsgDisp("Honda","Mhm! I hope you're excited, cause I've got
-plenty of legends in store for you. Which
-one first??");
+MsgDisp("Honda","Mhm! So I'm really excited about the
+legend you've got! What's it about??");
 MsgDisp("主人公","Um, so you know the stained glass in the
 church?
 I want to know—");
@@ -61,8 +60,8 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("F020300002_03_070");
-MsgDisp("Honda","Unfortunately, no one cares about that one
-anymore. I'm having trouble stocking up on
-new legends...");
+MsgDisp("Honda","Unfortunately, that one's been debunked
+too. At this point, finding new legends is
+a real struggle...");
 MsgDisp("主人公","(...we kept talking about something like
 that as we walked home.)");

@@ -13,28 +13,30 @@ ChMotion(2,3);
 VoicePlay("F020200004_02_000");
 MsgDisp("Sassa","Oh, you remembered.
 I'm glad.");
-MsgDisp("主人公","You know what they say about birthdays.
-The older you turn, the happier they are.");
+MsgDisp("主人公","Birthdays are always something to be
+happy about, no matter how old you get.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F020200004_02_010");
 MsgDisp("Sassa","Yeah, it would be nice to age all at once.
-That way, I could do decathlons earlier.");
+That way, I could do octathlons earlier.");
 MsgDisp("主人公","That's right.
-｛Sassa＊＊｝'s goal is the decathlon, right?");
+｛Sassa＊＊｝'s goal is the octathlon, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200004_02_020");
-MsgDisp("Sassa","I've done octathlons since I was little.
-I was too limited in junior track meets.");
+MsgDisp("Sassa","There aren't 8 events until high school. 
+I've been at it since I was little,
+but junior meets have a lot of limits.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200004_02_030");
-MsgDisp("Sassa","So I've long awaited the birthday where I
-can finally go to the higher meetings.");
+MsgDisp("Sassa","So just being able to compete at higher
+levels made my birthdays something to
+look forward to.");
 MsgDisp("主人公","Sounds like ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);

@@ -31,5 +31,5 @@ VoicePlay("F020100010_01_020");
 MsgDisp("Kazama","OK! Let's make it one you'll remember for
 years to come. Whether it's a success or a
 failure.");
-MsgDisp("主人公","(But...
-I don't want it to be a failure?)");
+MsgDisp("主人公","(That's why...
+I don't want it to be a failure.)");

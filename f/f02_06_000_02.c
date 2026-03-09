@@ -25,8 +25,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600002_06_020");
-MsgDisp("Himuro","You can't just depend on God to do selfish
-favors for you.");
+MsgDisp("Himuro","It must be tough for God, only being
+relied on when it's convenient for people.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

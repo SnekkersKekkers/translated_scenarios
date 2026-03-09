@@ -29,8 +29,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F020300008_03_030");
-MsgDisp("Honda","No, not really.
-I just told them some history.");
+MsgDisp("Honda","Not really.
+Some of the info in their exhibit was
+outdated, so I just pointed it out.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

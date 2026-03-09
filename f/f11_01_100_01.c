@@ -42,23 +42,22 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("F110110001_47_000");
 MsgDisp("Broadcast","Habataki High School 2nd year Kazama
-Ryota, please come to the staff room. The
-Respect-Senior-Citizens association is
-here.");
+Ryota, please come to the staff room.
+The senior citizens' association is here.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("F110110001_01_040");
 MsgDisp("Kazama","Huh?
-The Respect-Senior-Citizens association?
-...Oh, my grandfather's suggestion.");
+The senior citizens' association?
+...Oh, my grandfather's behind this.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("F110110001_01_050");
-MsgDisp("Kazama","Sorry everyone!
-Don't follow me!");
+MsgDisp("Kazama","Sorry, everyone!
+I have to go...!");
 VoicePlay("F110110001_48_010");
 MsgDisp("School Girl A","Huh?
 Kazama-senpai!");
@@ -75,7 +74,7 @@ together.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(It's another bad year for ｛Kazama＊＊｝,
-huh...)");
+MsgDisp("主人公","(Looks like another tough year for
+｛Kazama＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

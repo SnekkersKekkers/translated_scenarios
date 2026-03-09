@@ -11,16 +11,16 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100014_01_000");
-MsgDisp("Kazama","Right. Let's go back this way. It feels
-like when I went to your house from the
-airport.");
+MsgDisp("Kazama","Yeah. Coming back here and heading
+straight to your house from the airport...
+It feels like just yesterday.");
 MsgDisp("主人公","I'm sorry I wasn't home that day, okay?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("F020100014_01_010");
-MsgDisp("Kazama","You've wounded me from the beginning.");
+MsgDisp("Kazama","I was done for from the very start.");
 ChEyeOpenLevel(1,#1);
 Wait(4,0);
 ChEye(1,2);

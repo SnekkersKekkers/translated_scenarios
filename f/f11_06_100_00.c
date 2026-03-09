@@ -29,8 +29,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F110610000_06_040");
-MsgDisp("Himuro","...Should I skip out on my class'
-exhibition?");
+MsgDisp("Himuro","...Is it 'cause I'm skipping out on my
+class's exhibition?");
 MsgDisp("主人公","No, that's no good.
 Wouldn't that just make everything worse?");
 ChEye(6,2);

@@ -43,7 +43,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("F110710002_07_030");
-MsgDisp("Mikage","Oh, I guess so.");
+MsgDisp("Mikage","Oh, that's good to hear.");
 MsgDisp("主人公","Ah, then I'll let you go back early.
 That boy said he would be running back.");
 ChEye(7,0);

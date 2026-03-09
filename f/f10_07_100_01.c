@@ -31,8 +31,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F100710001_07_030");
-MsgDisp("Mikage","I've already finished changing clothes for
-the day, so I'm all good.");
+MsgDisp("Mikage","I've already finished changing for the
+day, so I'm all set.
+How do I look?");
 MsgDisp("主人公","Hehe, yes.
 It looks good.");
 ChEye(7,0);

@@ -37,7 +37,7 @@ ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("F110510001_05_040");
-MsgDisp("Hiiragi","Still, I have not been able to eat it.");
+MsgDisp("Hiiragi","I cannot eat another bite.");
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("F110510001_45_000");

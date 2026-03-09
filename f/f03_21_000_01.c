@@ -22,10 +22,9 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F032100000_21_040");
-MsgDisp("Michiru","Ah...I mean, the two people in love,
-become conscious of the other, so they
-change their demeanor, and take different
-things into consideration...");
+MsgDisp("Michiru","Ah...I mean, when two people are in love,
+they dress up for each other and change
+how they act, so it's good reference...");
 MsgDisp("主人公","Hmmm...?");
 ChEye(21,4);
 ChMouth(21,4);

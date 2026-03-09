@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("F020200002_02_000");
 MsgDisp("Sassa","There's a lot of legends about that
 church.
-A lot of them are like stories.");
+Most of them sound like jokes, though.");
 MsgDisp("主人公","Yeah, people find them amusing.
 But the story about the prince and the
 princess is the most famous.");

@@ -50,9 +50,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100330000_03_010");
-MsgDisp("Honda","Right, right, in her room she has a poster
-of her two favourite idols, Hikachan and
-Chiruchan hung up.");
+MsgDisp("Honda","Right, right, in her room she has posters
+of her favorite idol, plus Pika-chan and
+Chiru-chan, all hung up.");
 ChEye(22,0);
 ChMouth(22,1);
 ChMotion(22,0,1);

@@ -48,8 +48,8 @@ the answer sheet. This is my mantra.");
 ChEye(5,2);
 ChMotion(5,2);
 VoicePlay("F020500005_05_050");
-MsgDisp("Hiiragi","At any rate, if you are aiming for self
-improvement, you must learn what you do
-not know.");
+MsgDisp("Hiiragi","After all, even if I end up in remedial
+class, I need to at least know what I
+don't know.");
 MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ attended school normally,
 I'm sure he'd be great at studying.)");

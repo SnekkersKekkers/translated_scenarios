@@ -26,8 +26,8 @@ and watched dramas. I built a tolerance.");
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F112110002_21_030");
-MsgDisp("Michiru","So this year, I don't get annoyed when I
-see a lovey-dovey situation.");
+MsgDisp("Michiru","So this year, even if I see a bittersweet
+situation, I won't be fazed.");
 MsgDisp("主人公","R-Right.");
 ChEye(21,0);
 ChMouth(21,0);

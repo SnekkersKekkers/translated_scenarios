@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("F010100003_01_000");
     MsgDisp("Kazama","Oh, sure.");
     MsgDisp("主人公","Yay!
-Well then, let's go.");
+Alright, let's go.");
     break ;
     case 3:
     ChEye(1,0);
@@ -17,7 +17,7 @@ Well then, let's go.");
     VoicePlay("F010100003_01_010");
     MsgDisp("Kazama","Yeah, let's walk together.");
     MsgDisp("主人公","Yay!
-Well then, let's go.");
+Alright, let's go.");
     break ;
     case 4:
     case 5:

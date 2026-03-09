@@ -10,8 +10,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100012_21_000");
-MsgDisp("Michiru","After spring break, we'll go up a year.
-We'll become upperclassmen.");
+MsgDisp("Michiru","After spring break, we'll move up a year.
+We'll finally have underclassmen.");
 MsgDisp("主人公","Yeah, that's right.");
 ChEye(21,0);
 ChMouth(21,3);

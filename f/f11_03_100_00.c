@@ -44,8 +44,8 @@ VoicePlay("F110310000_39_000");
 MsgDisp("Male Student","What is that, a haircut death match∋");
 VoicePlay("F110310000_03_060");
 MsgDisp("Honda","Welcome!
-Well then, that's a win for me!");
-MsgDisp("主人公","(｛Honda＊＊｝ will never lose, so he'll be
-fine.)");
+Alright, let's have a quiz battle!");
+MsgDisp("主人公","(｛Honda＊＊｝ would never lose at quizzes,
+so it should be fine...right?)");
 MsgClose();
 ScrFadeOut(0,0);

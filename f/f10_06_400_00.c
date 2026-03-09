@@ -60,7 +60,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100640000_06_030");
-MsgDisp("Himuro","Please——");
+MsgDisp("Himuro","Tell Ryota-senpai——");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);

@@ -42,5 +42,5 @@ VoicePlay("F020100008_01_040");
 MsgDisp("Kazama","The performance is coming up.
 You should have fun during this time
 before it's over.");
-MsgDisp("主人公","(｛Kazama＊＊｝, I hope you also enjoy the
-festival.)");
+MsgDisp("主人公","(｛Kazama＊＊｝ seems to be really
+enjoying the festival.)");

@@ -26,7 +26,7 @@ VoicePlay("F020600004_06_020");
 MsgDisp("Himuro","Birthdays are no different from other
 days. Just reminders that time is passing
 you by.");
-MsgDisp("主人公","...isn't that way too pessimistic?");
+MsgDisp("主人公","...isn't that a little pessimistic?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

@@ -54,7 +54,7 @@ ChMotion(2,0);
 VoicePlay("F020200001_02_060");
 MsgDisp("Sassa","Right?
 One year is too short, so...three years?");
-MsgDisp("主人公","Is that so...");
+MsgDisp("主人公","Well, even if you ask me...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

@@ -19,7 +19,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("F020200005_02_010");
 MsgDisp("Sassa","What, is that weird?");
-MsgDisp("主人公","Um, it's a little out of place.");
+MsgDisp("主人公","Um, no, not really.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -27,15 +27,15 @@ VoicePlay("F020200005_02_020");
 MsgDisp("Sassa","Well, that's fine. Maybe I'm calm because
 I've already given up. I can struggle, but
 nothing will change much.");
-MsgDisp("主人公","So even the night before, you'll just
-leave things the way they are?");
+MsgDisp("主人公","But what if you crammed the night before
+and those exact topics showed up?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,5);
 VoicePlay("F020200005_02_030");
-MsgDisp("Sassa","Well, I'll cross that bridge when I get to
-it∋");
-MsgDisp("主人公","That...doesn't seem right.");
+MsgDisp("Sassa","Wait, do you have any info on what'll be
+on the test∋");
+MsgDisp("主人公","No clue...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

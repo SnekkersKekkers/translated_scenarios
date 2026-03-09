@@ -8,7 +8,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("F010200003_02_000");
     MsgDisp("Sassa","Yeah, that's good.");
     MsgDisp("主人公","Thanks.
-Well then, let's go.");
+Alright, let's go.");
     break ;
     case 3:
     ChEye(2,0);

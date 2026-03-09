@@ -57,8 +57,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200014_02_060");
 MsgDisp("Sassa","There's still time until graduation, so
-I'll say my thanks for you then.
-I'll keep them just a little longer.");
+I'll save my thanks for then.
+Until then, let's keep things as they are.");
 MsgDisp("主人公","Um, okay.");
 MsgDisp("主人公","(Graduation...
 I'll definitely cry.)");

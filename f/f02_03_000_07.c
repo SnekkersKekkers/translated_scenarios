@@ -43,8 +43,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("F020300007_03_050");
-MsgDisp("Honda","But don't think that I want to go all the
-way to the forest. I'm fine with the bugs
-in foreign homes, okay?");
-MsgDisp("主人公","(The bugs that come out in homes...huh.
-Maybe ｛Honda＊＊｝ can be sensible?)");
+MsgDisp("Honda","I wouldn't even need to go all the way to
+a forest! I'd be totally fine with bugs
+you find in foreign homes!");
+MsgDisp("主人公","(Bugs that show up in homes, huh...
+That's such a ｛Honda＊＊｝ thing to say...)");

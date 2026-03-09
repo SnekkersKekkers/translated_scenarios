@@ -2,7 +2,7 @@ MsgDisp("","After graduating, I went on to a top
 sports university with ｛Sassa＊＊｝.");
 MsgClear();
 MsgDisp("","｛Sassa＊＊｝ has been competing in track
-meets as a decathlon athlete since his
+meets as a octathlon athlete since his
 first year, and has been attracting a lot
 of attention. Everyone around him is
 surprised, but we are both calm. Because

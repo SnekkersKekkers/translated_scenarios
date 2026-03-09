@@ -23,8 +23,8 @@ home...");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("F010700006_07_010");
-    MsgDisp("Mikage","I'm about to go to some kind of meeting.
-...sorry?");
+    MsgDisp("Mikage","I've got to go to some kind of meeting.
+...Sorry about that.");
     MsgDisp("主人公","Don't be.
 Good luck!");
     MsgClose();

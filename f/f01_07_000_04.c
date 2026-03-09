@@ -42,8 +42,9 @@ Vice Principal Himuro called me to talk.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("F010700004_07_030");
-    MsgDisp("Mikage","I should just go home with you...
-Isn't it my choice?");
+    MsgDisp("Mikage","Maybe I should just ditch and go home
+with you instead.
+That's an option, right?");
     MsgDisp("主人公","Huh∋
 That would be bad, wouldn't it?");
     ChEye(7,2);

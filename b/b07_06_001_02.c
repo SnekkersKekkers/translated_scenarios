@@ -54,7 +54,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_160");
 MsgDisp("Himuro","But the fact that he's recommending
-decathlon to me is just nonsense.");
+octathlon to me is just nonsense.");
 MsgDisp("主人公","(｛Himuro＊＊｝ recognizes ｛Sassa＊＊｝ in his
 own way, doesn't he?)");
 BGMStop();

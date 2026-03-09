@@ -56,8 +56,8 @@ Are you joking?");
     ChMotion(21,5);
     VoicePlay("F012100001_21_040");
     MsgDisp("Michiru","No...
-But wouldn't even Mari get mad for the
-second time?");
+But even for you, Mari, a second time
+and I'd get angry, okay?");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

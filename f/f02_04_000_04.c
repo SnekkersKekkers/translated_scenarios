@@ -30,7 +30,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("F020400004_04_030");
-MsgDisp("Nanatsumori","...Oh, so like that.
+MsgDisp("Nanatsumori","...Oh. That's what it is.
 We do presents at my house, but not cake.");
 ChEye(4,2);
 VoicePlay("F020400004_04_040");

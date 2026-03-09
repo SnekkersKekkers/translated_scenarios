@@ -36,8 +36,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F102120001_06_010");
-MsgDisp("Himuro","...Seems like it's a puzzling
-conversation.");
+MsgDisp("Himuro","...Things are about to get complicated.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

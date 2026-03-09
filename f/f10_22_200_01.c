@@ -28,8 +28,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102220001_22_010");
 MsgDisp("Hikaru","Nope～! Uncle's new designs are for men.
-He gets his friend, the chairman to try it
-on every time.");
+He gets his friend, the principal, to
+try them on every time.");
 ChEye(31,1);
 ChMouth(31,1);
 ChMotion(31,5);

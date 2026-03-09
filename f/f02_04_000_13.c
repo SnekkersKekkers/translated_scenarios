@@ -35,9 +35,9 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F020400013_04_040");
-MsgDisp("Nanatsumori","What?
-I've seen it in pictures, but I want to
-feel the real thing");
+MsgDisp("Nanatsumori","Huh? You don't get it?
+That desire to see if the real thing 
+lives up to your imagination.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
@@ -45,6 +45,6 @@ VoicePlay("F020400013_04_050");
 MsgDisp("Nanatsumori","The contrast between the yellow and the
 brown, the soft and smooth texture, the
 light sweetness...ah, I can't wait.");
-MsgDisp("主人公","(Uh huh...
-Is ｛Nanatsumori＊｝ really interested in
-the whole shape of the castella?)");
+MsgDisp("主人公","(Hmm...
+A whole castella to himself might just be
+｛Nanatsumori＊｝'s dreaml...)");

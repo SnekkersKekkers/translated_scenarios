@@ -27,6 +27,6 @@ MsgDisp("Nanatsumori","Well, I'm aware that my academic abilities
 are of no use to the world.");
 ChMotion(4,0,1);
 VoicePlay("F020400005_04_040");
-MsgDisp("Nanatsumori","So, stuff like studying...
-I don't spend too much time on it.");
+MsgDisp("Nanatsumori","So yeah. Exams aren't exactly a big event
+on my calendar.");
 MsgDisp("主人公","(He's all defiant now...)");

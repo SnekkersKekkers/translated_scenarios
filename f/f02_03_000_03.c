@@ -28,8 +28,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("F020300003_03_030");
-MsgDisp("Honda","If such a thing existed, I would have
-checked it out by now.");
+MsgDisp("Honda","If something like that existed, I'd
+practically live there.");
 MsgDisp("主人公","But the library is an urban legend itself?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -43,8 +43,8 @@ ChMouth(3,3);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("F020300003_03_050");
-MsgDisp("Honda","If I had enough books to fill a huge
-library, I doubt I'd have any time for
-schoolwork.");
+MsgDisp("Honda","If there were enough to fill a huge
+library, I'd never be bored for the rest
+of my school days!");
 MsgDisp("主人公","(...we kept talking about something like
 that as we walked home.)");

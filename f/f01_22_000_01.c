@@ -28,8 +28,8 @@ call her that.)");
     ChMotion(22,2,1);
     VoicePlay("F012200001_22_020");
     MsgDisp("Hikaru","No, no!
-It might be Mari, but you can't call
-Hikaru that.");
+Even if it's you, Mari, that name is
+a no-go!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

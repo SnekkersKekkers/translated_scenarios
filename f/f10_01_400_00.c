@@ -90,7 +90,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100140000_02_060");
 MsgDisp("Sassa","He left.
-Maybe we can talk about it next time?");
+Should we try playing along next time?");
 MsgDisp("主人公","(He's still the same...
 But ｛Kazama＊＊｝, he really does remember
 when we were little kids.)");

@@ -19,17 +19,17 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200007_02_010");
-MsgDisp("Sassa","Oh, some of my family members go overseas
-every year.
+MsgDisp("Sassa","Oh, the dogs' owners go on an overseas
+trip every year.
 When they do, I take care of their pets.");
 MsgDisp("主人公","Oh, so we can't meet during that time.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200007_02_020");
-MsgDisp("Sassa","Yep. Walking dogs will be hard if I can't
-meet you for a while. How about you walk
-with me?");
+MsgDisp("Sassa","Yeah. Walking the dogs is tough, but not
+seeing you for a while is kinda lonely.
+How about you walk with me?");
 MsgDisp("主人公","Huh∋
 As a dog substitute?");
 ChEye(2,5);
@@ -62,4 +62,5 @@ VoicePlay("F020200007_02_060");
 MsgDisp("Sassa","Got it.
 Thanks, I appreciate it.");
 MsgDisp("主人公","(Morning walks with ｛Sassa＊＊｝...
-Is it more fun than with the dogs?)");
+Wouldn't it be more fun with the dogs
+too?)");

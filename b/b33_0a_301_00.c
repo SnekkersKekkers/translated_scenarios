@@ -76,7 +76,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30100_06_050");
-MsgDisp("Himuro","Choosing the paths of decathlon and
+MsgDisp("Himuro","Choosing the paths of octathlon and
 antiques in itself is filled with
 playfulness.");
 ChEye(1,0);

@@ -27,9 +27,9 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F110410000_04_040");
-MsgDisp("Nanatsumori","That's right. Well, the vice president
-said I only needed to patrol like this
-three times a day, so I'll go now.");
+MsgDisp("Nanatsumori","Who knows. Well, Vice Principal 
+Himuro asked me to patrol like this 
+three times a day, so I'll go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);

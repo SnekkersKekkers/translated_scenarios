@@ -20,14 +20,14 @@ MsgDisp("Hiiragi","I like exercise, or rather, athletic
 competitions.
 New competitions are always welcome to me.");
 MsgDisp("主人公","I see.
-But in middle school, you couldn't
-participate in them often, right?");
+So back in elementary and middle school,
+you couldn't participate much?");
 ChEye(5,2);
 ChMotion(5,4);
 VoicePlay("F020500006_05_020");
 MsgDisp("Hiiragi","Yes.
-But even the times I did participate, I
-just held up the signs.");
+I've been a leading actor for as long as
+I can remember, after all.");
 MsgDisp("主人公","Well then, for the Haba High Sports
 Festival, let's enjoy it as much as we
 can.");

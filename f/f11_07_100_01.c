@@ -14,10 +14,10 @@ MsgDisp("Woman Customer B","I met him!
 At the horse riding lessons.");
 VoicePlay("F110710001_47_010");
 MsgDisp("Woman Customer A","Really∋
-Sorry, I really want to see him.");
+Sorry, looks like it's over there!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 SEWait();
-MsgDisp("主人公","('Pony', huh...how strange.)");
+MsgDisp("主人公","('Pony'...could it be...?)");
 MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110710001_07_000");
@@ -42,7 +42,7 @@ just walk around quietly now.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(That expression...
-Didn't he look kind of upset?
-...Was he disappointed?)");
+He must have really gotten chewed out...
+I feel kind of bad for him.)");
 MsgClose();
 ScrFadeOut(0,0);

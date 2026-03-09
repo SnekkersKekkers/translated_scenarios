@@ -42,9 +42,8 @@ I'll go home alone.)");
     ChMouth(21,2);
     ChMotion(21,5);
     VoicePlay("F012100006_21_030");
-    MsgDisp("Michiru","Teatime and Mari...
-I want to.
-However, I can't.");
+    MsgDisp("Michiru","Teatime with Mari...
+I want to, but I can't.");
     MsgDisp("主人公","Do you have errands to run?");
     ChEye(21,4);
     ChMouth(21,4);

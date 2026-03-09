@@ -35,19 +35,20 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F020600011_06_030");
-MsgDisp("Himuro","Not really.");
+MsgDisp("Himuro","That's just a stereotype.");
 MsgDisp("主人公","Really?
-So then, you're not close?");
+But isn't it true, though?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F020600011_06_040");
-MsgDisp("Himuro","That doesn't mean it's a Himuro thing.");
+MsgDisp("Himuro","That doesn't mean it's because
+we're Himuros.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600011_06_050");
-MsgDisp("Himuro","Really...");
-MsgDisp("主人公","(Himuro means ice room, so it seems like
-he's kind of sensitive about it...)");
+MsgDisp("Himuro","Geez...");
+MsgDisp("主人公","(He's gets really sensitive 
+whenever his family is mentioned…)");

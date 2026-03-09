@@ -34,9 +34,9 @@ MsgDisp("Hiiragi","Too soon?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("F020500014_05_040");
-MsgDisp("Hiiragi","...But still. It was my first time going
-to school, but I managed to make it to
-graduation. It truly is a dream come true.");
+MsgDisp("Hiiragi","...But still. Being able to go from 
+enrollment to graduation all
+ at one school...it truly is like a dream.");
 MsgDisp("主人公","I see...
 I'm glad...");
 ChMotion(5,4);

@@ -12,10 +12,11 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("F020400010_04_001");
-MsgDisp("Nanatsumori","I hear both the script and the lead actors
-are excellent.");
-MsgDisp("主人公","Is that so?
-I shouldn't think about it too much...");
+MsgDisp("Nanatsumori","Sounds like they're in the middle of
+voting on the play and the cast.");
+MsgDisp("主人公","Yeah.
+I'm curious about what play 
+they'll pick...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

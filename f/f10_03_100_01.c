@@ -19,8 +19,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100310001_03_020");
-MsgDisp("Honda","Right right, it was there too today?
-But, I saw it just now.");
+MsgDisp("Honda","Right right, it's there today too, right?
+And guess what, I saw it again the 
+other day.");
 MsgDisp("主人公","Eh, the owner?");
 ChSet(3,3);
 VoicePlay("F100310001_03_030");

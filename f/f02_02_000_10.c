@@ -12,8 +12,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200010_02_000");
-MsgDisp("Sassa","We've already done enough worrying, so
-let's take it easy.");
+MsgDisp("Sassa","You're already worrying about it?
+Just take it easy.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -54,8 +54,8 @@ ChMotion(2,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("F020200010_02_060");
 MsgDisp("Sassa","Close your eyes and cross your arms over
-your chest. Inhale deeply. Take all your
-anxiety and stress and let it out.");
+your chest. Then exhale slowly, and let
+all the tension and anxiety flow out.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);

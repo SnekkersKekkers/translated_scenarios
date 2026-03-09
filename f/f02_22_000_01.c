@@ -8,9 +8,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("F022200001_22_000");
-MsgDisp("Hikaru","Ah, that's right. There's a rumor that in
-the church on school grounds, the prince
-and princess were joined in marriage.");
+MsgDisp("Hikaru","Ah, that's right. There's a rumor about
+the church on school grounds, where a
+prince and princess were united.");
 MsgDisp("主人公","Yeah, it's a wonderful story.");
 ChEye(22,0);
 ChMouth(22,3);

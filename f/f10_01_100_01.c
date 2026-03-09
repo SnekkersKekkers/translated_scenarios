@@ -66,7 +66,7 @@ ChMotion(1,1);
 VoicePlay("F100110001_01_050");
 MsgDisp("Kazama","Huh?
 ...Oh, I see.
-Then you'd better hurry to lunch.");
+Alright, let's hurry to the cafeteria.");
 ChEye(1,0);
 ChMotion(1,0);
 MsgDisp("主人公","Oh...");

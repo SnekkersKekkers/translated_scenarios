@@ -62,7 +62,7 @@ The school bell has rung.");
 MsgClose();
 ChOpen(7,37,1,0,0,#1,#1,0,0);
 VoicePlay("F100710000_07_050");
-MsgDisp("Mikage","I don't mind.
+MsgDisp("Mikage","Sorry I couldn't be a better host.
 Well, let's go.");
 MsgDisp("主人公","Today we're in the science room, and not
 the classroom though...");

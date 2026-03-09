@@ -13,15 +13,14 @@ The one about the prince and the princess?");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("F020500001_05_010");
-MsgDisp("Hiiragi","Since I first heard it, that one has been
-my favorite.");
+MsgDisp("Hiiragi","Since that's the first one that came to
+mind, it must be your favorite.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("F020500001_05_020");
-MsgDisp("Hiiragi","To tell the truth, I've been thinking
-about making it the subject of my new
-theater production, but I lack enough
-information about Haba High.");
+MsgDisp("Hiiragi","Actually, I've been thinking about a new
+original production. I was wondering if I
+could use a Haba High legend as the basis.");
 MsgDisp("主人公","For the Habataki Theater Company?");
 ChEye(5,4);
 ChMotion(5,0);

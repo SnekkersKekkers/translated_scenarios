@@ -63,9 +63,9 @@ VoicePlay("F102220000_22_030");
 MsgDisp("Hikaru","Well, he is a Habataki Alumnus.
 So I guess that makes him an authorized
 person～?");
-MsgDisp("主人公","(I heard that Goro-sensei is acquainted to
-the Haba High School chairman...maybe he
-came to see him?)");
+MsgDisp("主人公","((I heard that Goro-sensei knows the
+Haba High School principal...
+maybe he came to see him?))");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

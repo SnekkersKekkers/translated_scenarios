@@ -52,7 +52,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F110210001_02_050");
-MsgDisp("Sassa","It's all good.
+MsgDisp("Sassa","Yeah, I'm happy about it.
 Well, I'll see you later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

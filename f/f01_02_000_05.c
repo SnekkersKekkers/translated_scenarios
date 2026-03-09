@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","A cafe?
 Sure.");
     MsgDisp("主人公","I'm glad.
-Well then, let's go.");
+Alright, let's go.");
     break ;
     case 3:
     ChEye(2,0);

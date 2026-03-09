@@ -25,11 +25,11 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F110510002_05_020");
-MsgDisp("Hiiragi","If you want a royal sauce, there is the
+MsgDisp("Hiiragi","For a classic sauce flavor, there's the
 baseball club's traditional Habataki High
 Sauce yakisoba.");
 VoicePlay("F110510002_47_000");
-MsgDisp("Woman Customer B","Huh, is it really royal?
+MsgDisp("Woman Customer B","Yeah, you can't go wrong with a classic.
 I'll try going there now.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);

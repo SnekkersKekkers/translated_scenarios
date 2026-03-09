@@ -40,8 +40,8 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("F020400014_04_050");
-MsgDisp("Nanatsumori","I realized you don't need to worry about
-the beginning or the end.
+MsgDisp("Nanatsumori","You don't need to obsess over what's your
+public face and what's hidden.
 He really taught me a lot.");
 ChEye(4,4);
 ChMouth(4,3);

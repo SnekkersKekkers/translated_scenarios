@@ -36,8 +36,9 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("F020500003_05_050");
-MsgDisp("Hiiragi","Is it? I guess you are right. But at least
-there is some reasoning behind it.");
+MsgDisp("Hiiragi","Is it? I suppose you're right. But the
+way he talked, it sounded like there was
+more to the story.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("F020500003_05_060");

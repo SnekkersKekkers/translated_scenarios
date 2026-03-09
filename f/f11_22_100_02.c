@@ -34,8 +34,8 @@ ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F112210002_22_040");
 MsgDisp("Hikaru","...Oh, look.
-Those two people over there look like a
-couple.");
+Those two over there look like they're
+about to become a couple.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

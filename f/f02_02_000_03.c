@@ -7,8 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F020200003_02_000");
 MsgDisp("Sassa","I heard another story about the church.");
-MsgDisp("主人公","Hmm, the one about the princess
-disappearing?");
+MsgDisp("主人公","Hehe, the one without the princess?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

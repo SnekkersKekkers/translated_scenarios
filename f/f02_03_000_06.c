@@ -16,8 +16,8 @@ MsgDisp("主人公","You sure look happy about that, don't you?");
 ChMotion(3,4);
 VoicePlay("F020300006_03_010");
 MsgDisp("Honda","That's right～
-I think sports are amazing.
-But they aren't my strong point.");
+I actually really like sports.
+I'm just not good at them.");
 MsgDisp("主人公","Is that so?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -30,15 +30,16 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("F020300006_03_030");
-MsgDisp("Honda","What do I even do with that? I've watched
-pros and studied their movements, but I
-don't have the physical ability.");
+MsgDisp("Honda","I know exactly what to do in any
+situation from watching pros, but I don't
+have the physical ability to match.");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("F020300006_03_040");
-MsgDisp("Honda","I'm having a tough time differentiating
-between truth and reality.");
+MsgDisp("Honda","The gap between my ideal and what I can
+actually do just keeps growing.
+It's rough.");
 MsgDisp("主人公","(Maybe being too smart isn't all a walk in
 the park...)");

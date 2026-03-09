@@ -13,9 +13,9 @@ It's fun to have everyone working on one
 thing.");
 ChEye(5,4);
 VoicePlay("F020500010_05_010");
-MsgDisp("Hiiragi","Yes. I also understand that feeling. It is
-the same when working on a play at the
-theater troupe.");
+MsgDisp("Hiiragi","Yes. That's something all of 
+you taught me. It's the same as 
+putting on a play with the troupe.");
 MsgDisp("主人公","Is it really the same as a school play?");
 ChEye(5,0);
 ChMotion(5,4);
