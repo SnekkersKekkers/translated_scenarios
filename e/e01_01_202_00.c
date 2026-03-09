@@ -117,8 +117,8 @@ ChEyeOpenLevel(1,#1);
 ChCheek(1,0);
 VoicePlay("E010120200_01_080");
 MsgDisp("Kazama","If you're so eager to recruit someone, why
-don't you recruit this one?
-She's always sloppily running around.");
+not recruit this one?
+She's always running around.");
 MsgDisp("主人公","...Eh?
 This one, you mean me?");
 ChEye(1,0);

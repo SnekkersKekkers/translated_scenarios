@@ -109,7 +109,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 MsgDisp("Daichi","But he seems a bit distant.
 He doesn't act like the same big bro when
-he's out");
+he's out.");
 VoicePlay("E010830000_09_080");
 ChEye(9,3);
 ChMouth(9,0);

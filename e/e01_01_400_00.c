@@ -98,7 +98,7 @@ ChMotion(1,3);
 VoicePlay("E010140000_01_050");
 MsgDisp("Kazama","Ugh, is she for real.
 The Hanatsubakis are intense...
-I'm counting on you when time comes!");
+I'm counting on you when the time comes!");
 MsgDisp("主人公","Yeah!
 But I think you'd make everyone happy by
 modeling for their article, right?");
@@ -106,9 +106,9 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010140000_01_060");
-MsgDisp("Kazama","That kind of stuff, y'know I'm not cut out
-for that. Thanks for saving the day. See
-ya.");
+MsgDisp("Kazama","You know that stuff's not for me.
+Thanks for the save today.
+See ya.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

@@ -53,9 +53,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010210100_02_060");
-MsgDisp("Sassa","My dad didn't seem to want to develop as a
-competitor. He says the theory of coaching
-is closer to his nature.");
+MsgDisp("Sassa","My dad didn't really grow as a competitor.
+He says coaching theory is more his
+thing.");
 MsgDisp("主人公","It seems you've inherited both their
 talents, ｛Sassa＊＊｝.");
 ChEye(2,0);

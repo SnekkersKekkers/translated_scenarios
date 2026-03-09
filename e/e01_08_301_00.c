@@ -81,7 +81,7 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("E010830100_09_050");
 MsgDisp("Kuya","That's true.
-But it's my special skill");
+But it's my special skill.");
 MsgDisp("主人公","(skill...?)");
 ChEye(8,3);
 ChMouth(8,3);

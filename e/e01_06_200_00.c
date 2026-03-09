@@ -104,7 +104,7 @@ ChClose(5,0,30);
 SEWait();
 Wait(20,0);
 VoicePlay("E010620000_05_080");
-MsgDisp("Hiiragi","...By the way, \"squish\" mean?");
+MsgDisp("Hiiragi","...By the way, what does \"squish\" mean?");
 VoicePlay("E010620000_06_070");
 MsgDisp("Himuro","There's just a game where you pop
 them.");
