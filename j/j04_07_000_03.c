@@ -12,5 +12,6 @@ VoicePlay("J040700003_07_000");
 MsgDisp("Mikage","Hello.");
 MsgDisp("主人公","Ah, ｛Mikage＊＊｝, what's wrong?");
 VoicePlay("J040700003_07_010");
-MsgDisp("Mikage","Oh. We're having an extracurricular activity
-next Sunday. Come out if you're free.");
+MsgDisp("Mikage","Oh. We're having an extracurricular
+activity next Sunday. Come out if you're
+free.");

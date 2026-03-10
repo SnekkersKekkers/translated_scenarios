@@ -17,8 +17,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020410302_04_020");
-MsgDisp("Nanatsumori","My embarrassment is at max level, but now I'm
-even happier.");
+MsgDisp("Nanatsumori","My embarrassment is at max level, but now
+I'm even happier.");
 VoicePlay("G020410302_04_030");
 MsgDisp("Nanatsumori","Even if we never talked to each other, we
 have the same hobbies.");

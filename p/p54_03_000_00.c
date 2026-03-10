@@ -4,8 +4,8 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm glad!
-Seems like my first performance went well!)");
+MsgDisp("主人公","(I'm glad! Seems like my first performance
+went well!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,254,1,0,3,#1,#1,0,0);

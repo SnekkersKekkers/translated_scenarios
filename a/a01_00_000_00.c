@@ -134,9 +134,9 @@ as the pinwheels in the treasure room
 at Habataki Castle.");
 MsgDisp("主人公","...The treasure room pinwheels?");
 VoicePlay("A010000000_01_120");
-MsgDisp("Ryota","Yeah, they're castle treasures.
-Orange like the sunset — if you make a wish
-and blow on it, anything can come true!");
+MsgDisp("Ryota","Yeah, they're castle treasures. Orange
+like the sunset — if you make a wish and
+blow on it, anything can come true!");
 MsgDisp("主人公","Wow! Like magic!");
 VoicePlay("A010000000_01_130");
 MsgDisp("Ryota","This pinwheel's made the same way, so

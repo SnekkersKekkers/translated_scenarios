@@ -49,8 +49,8 @@ ChMouth(8,0);
 ChMotion(8,4,1);
 ChCheek(8,7);
 VoicePlay("E010810000_08_050");
-MsgDisp("Shirahane","Oh gosh!
-That sounded way too much like a pick-up line.");
+MsgDisp("Shirahane","Oh gosh! That sounded way too much like a
+pick-up line.");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,0,1);

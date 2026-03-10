@@ -41,8 +41,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020230200_02_060");
 MsgDisp("Sassa","Next time we go to the school cafeteria,
-let's have udon. My excitement goes up when
-we have the same dish.");
+let's have udon. My excitement goes up
+when we have the same dish.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

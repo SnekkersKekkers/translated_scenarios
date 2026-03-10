@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040506400_05_000");
 MsgDisp("Hiiragi","Different aromas and sounds overflow from
-the cluttered food stalls and mix together.
-I love this atmosphere.");
+the cluttered food stalls and mix
+together. I love this atmosphere.");
 MsgDisp("主人公","It's exciting, isn't it?");
 ChEye(5,4);
 ChMotion(5,2);

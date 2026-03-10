@@ -179,8 +179,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_170");
 MsgDisp("Mikage","That makes me think of merchants from the
-west.
-That'd make a good extracurricular activity.");
+west. That'd make a good extracurricular
+activity.");
 MsgDisp("主人公","(｛Mikage＊＊｝...?
 He's acting a bit strange...)");
 BGMStop(2);

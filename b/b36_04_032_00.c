@@ -14,9 +14,9 @@ MsgDisp("Nanatsumori","I surprisingly really like aquariums.");
 MsgDisp("主人公","Surprisingly?");
 ChMotion(4,1,1);
 VoicePlay("B360403200_04_010");
-MsgDisp("Nanatsumori","Yeah.
-Setting aside things like how photogenic it is.
-I've enjoyed aquariums since I was a kid.");
+MsgDisp("Nanatsumori","Yeah. Setting aside things like how
+photogenic it is. I've enjoyed aquariums
+since I was a kid.");
 MsgDisp("主人公","I see.");
 ChEye(4,0);
 ChMouth(4,3);

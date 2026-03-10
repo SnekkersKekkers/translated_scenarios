@@ -42,8 +42,8 @@ I'll go straight home today.)");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("F010200006_02_030");
-    MsgDisp("Sassa","Sorry, I can't go with you.
-I really need to budget my allowance better...");
+    MsgDisp("Sassa","Sorry, I can't go with you. I really need
+to budget my allowance better...");
     MsgDisp("主人公","Hehe.
 Well, next time.
 When you have a lot of pocket money.");

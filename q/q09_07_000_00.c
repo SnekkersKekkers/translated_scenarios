@@ -8,9 +8,8 @@ switch (ChPrmGet(7,6)){
     case 2:
     VoicePlay("Q090700000_07_000");
     MsgDisp("Mikage","Good morning, you look excited.");
-    MsgDisp("主人公","Yes.
-Extracurricular activities Nagasaki edition,
-I'm looking forward to it.");
+    MsgDisp("主人公","Yes. Extracurricular activities Nagasaki
+edition, I'm looking forward to it.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

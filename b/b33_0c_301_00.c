@@ -43,7 +43,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30100_07_010");
-MsgDisp("Mikage","Then shall we all hold hands while we walk?");
+MsgDisp("Mikage","Then shall we all hold hands while we
+walk?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

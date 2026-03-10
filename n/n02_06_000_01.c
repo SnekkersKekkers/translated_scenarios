@@ -29,8 +29,8 @@ I'm glad I worked hard.)");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("N020600001_06_030");
-    MsgDisp("Himuro","You're up near the top.
-I guess next you're aiming for first place.");
+    MsgDisp("Himuro","You're up near the top. I guess next
+you're aiming for first place.");
     MsgDisp("主人公","Y-Yeah!
 I'll do my best.");
     ChEye(6,0);

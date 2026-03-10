@@ -44,9 +44,9 @@ ChMouth(3,4);
 ChMotion(3,4);
 ChCheek(3,5);
 VoicePlay("B070300000_03_550");
-MsgDisp("Honda","It's happening right now.
-That tight feeling, right here.
-It happens sometimes when I hear your voice.");
+MsgDisp("Honda","It's happening right now. That tight
+feeling, right here. It happens sometimes
+when I hear your voice.");
 MsgDisp("主人公","That's somewhat embarrassing...");
 ChEye(3,0);
 ChMouth(3,0);

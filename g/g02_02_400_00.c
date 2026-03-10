@@ -31,8 +31,9 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("G020240000_02_040");
 MsgDisp("Sassa","Hey, have you ever seen so many colors?");
-MsgDisp("主人公","This place is known for mysterious legends.
-Maybe these fireflies are special?");
+MsgDisp("主人公","This place is known for mysterious
+legends. Maybe these fireflies are
+special?");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
