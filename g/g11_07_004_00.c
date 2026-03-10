@@ -5,10 +5,7 @@ EnvPlay("SE_ENV_BG_SC350_CS0",0.2);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110700400_07_000");
-MsgDisp("Mikage","Well, that's all for today. It's fine
-whether you're going to club activities,
-taking a detour or heading straight home,
-but take care.");
+MsgDisp("Mikage","That's all for today. Whether you're \ngoing to club activities, taking a detour \nor heading straight home, take care.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -33,14 +30,13 @@ ChOpen(7,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_020");
-MsgDisp("Mikage","......");
+MsgDisp("Mikage","...Yeah.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_030");
 MsgDisp("Mikage","It's just like I thought.\nAren't you feeling a bit tired?");
-MsgDisp("主人公","Eh?
-But that's not true...");
+MsgDisp("主人公","Eh?\nNot really...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -58,24 +54,18 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_060");
-MsgDisp("Mikage","Plant leaves have scent sachets, which
-bugs dislike, but have a relaxing effect
-on people.");
+MsgDisp("Mikage","Plant leaves have scent sachets, which\nbugs dislike. They have a relaxing effect\non people, though.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_070");
-MsgDisp("Mikage","It's cool when you're always giving it
-your all, but sometimes you need to relax
-too.");
+MsgDisp("Mikage","It's cool that you're always working \nhard, but you need to relax sometimes\ntoo.");
 MsgDisp("主人公","...Ah, yes.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G110700400_07_080");
-MsgDisp("Mikage","Okay, then.
-Take another deep breath before you go
-home.");
+MsgDisp("Mikage","Alright.\nTake another deep breath before you go\nhome.");
 Wait(30,0);
 SEPlay("EV_SE_080");
 MsgDisp("主人公","(Huh?

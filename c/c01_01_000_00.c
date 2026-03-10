@@ -19,7 +19,7 @@ MsgDisp("主人公","｛Kazama＊＊｝?");
 VoicePlay("C010100000_01_030");
 MsgDisp("Kazama","...Listen, you.
 Tell me these things sooner.");
-MsgDisp("主人公","I, I'm sorry...");
+MsgDisp("主人公","I-I'm sorry...");
 VoicePlay("C010100000_01_040");
 MsgDisp("Kazama","Fine, I get it.
 But don't put me through this anymore. 
