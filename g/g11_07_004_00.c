@@ -74,9 +74,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G110700400_07_080");
-MsgDisp("Mikage","Okay, then.
-Take another deep breath before you go
-home.");
+MsgDisp("Mikage","Alright.\nTake another deep breath before you go\nhome.");
 Wait(30,0);
 SEPlay("EV_SE_080");
 MsgDisp("主人公","(Huh?
