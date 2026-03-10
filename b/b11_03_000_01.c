@@ -84,7 +84,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B110300001_03_040");
-MsgDisp("Honda","...You must be lonely, right?
+MsgDisp("Honda","...He must be lonely, right?
 I can understand what it's like to be a
 shut-in.");
 MsgDisp("主人公","(｛Honda＊＊｝, wow...that guy was opening
