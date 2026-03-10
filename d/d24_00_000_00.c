@@ -3,8 +3,8 @@ ScrFadeIn(0);
 SEPlay("EV_SE_080");
 Wait(20,0);
 MsgDisp("主人公","(Your hard work at Habatcher's Editorial
-Department has been recognized. Your
-\"Journalist Level\" has increased!)");
+Department has been recognized.
+Your \"Journalist Level\" has increased!)");
 VoicePlay("D240000000_45_000");
 MsgDisp("Mayo","Congrats!
 I'm looking forward to seeing what the

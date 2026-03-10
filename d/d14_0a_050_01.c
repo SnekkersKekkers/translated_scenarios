@@ -100,7 +100,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D140A05001_02_050");
-MsgDisp("Sassa","Ryota, Inori! You should be more happy!
+MsgDisp("Sassa","Ryota, Inori!
+You should be more happy!
 You get to eat her homemade bento! Right?");
 MsgDisp("主人公","(It'll be tough making enough for four
 people but...It would be fun if we made it

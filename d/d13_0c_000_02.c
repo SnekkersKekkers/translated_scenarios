@@ -26,7 +26,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D130C00002_07_010");
 MsgDisp("Mikage","Wait wait, don't panic.
-The day is still young. ...right?");
+The day is still young.
+...Right?");
 MsgDisp("主人公","Today...ah.
 Are you talking about Valentine's day?");
 ChEye(6,0);

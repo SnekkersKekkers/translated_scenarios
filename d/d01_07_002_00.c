@@ -84,9 +84,9 @@ ScrFadeIn(0);
 VoicePlay("D010700200_07_070");
 MsgDisp("Mikage","You should hurry home nowー!");
 MsgDisp("主人公","Ah, yes sir!");
-MsgDisp("主人公","(｛Mikage＊＊｝ left. I hope they don't scold
-him in the staff room...But he looks kind
-of cool, huh?)");
+MsgDisp("主人公","(｛Mikage＊＊｝ left.
+I hope they don't scold him in the staff
+room...But he looks kind of cool, huh?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

@@ -1,9 +1,9 @@
 BGOpen("sc310",0);
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh...My favorite pen is missing! Maybe I
-left it during my last class in the
-science lab?)");
+MsgDisp("主人公","(Huh...My favorite pen is missing!
+Maybe I left it during my last class in
+the science lab?)");
 SEPlay("EV_SE_FOOT_RUN_KEEP_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0);

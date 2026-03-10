@@ -9,8 +9,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("D140D07000_22_000");
-MsgDisp("Hikaru","Something Mari wants to ask us? Is it
-about love? Style? Which is it?");
+MsgDisp("Hikaru","Something Mari wants to ask us?
+Is it about love? Style? 
+Which is it?");
 MsgDisp("主人公","No, that's not it.
 You two are twin sisters but your hair
 colors are completely different?");

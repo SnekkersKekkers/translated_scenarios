@@ -1,8 +1,9 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ugh...I feel a bit tired? I guess I'll
-get some fresh air on the rooftop.)");
+MsgDisp("主人公","(Ugh...I feel a bit tired?
+I guess I'll get some fresh air on the
+rooftop.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -82,8 +83,8 @@ StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400700_04_080");
 MsgDisp("Nanatsumori","Listen up.
-This is an order. No overdoing it.
-Go straight home today.");
+This is an order.
+No overdoing it. Go straight home today.");
 MsgDisp("主人公","Okay...");
 MsgClose();
 ScrFadeOut(0);

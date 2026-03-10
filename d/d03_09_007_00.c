@@ -181,9 +181,9 @@ ChMotion(9,3,1);
 ChEyeOpenLevel(9,0);
 MsgDisp("Kuya","Haha!
 Right!");
-MsgDisp("主人公","(Haa...What a relief. Kuya-san is too
-naive...Or I guess he's just too used to
-others relying on him.)");
+MsgDisp("主人公","(Haa...What a relief.
+Kuya-san is too naive...Or I guess he's
+just too used to others relying on him.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

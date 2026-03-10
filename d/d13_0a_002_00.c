@@ -117,8 +117,8 @@ BGMStop();
 ChClose(2,0,30);
 ChClose(6,0,30);
 MsgDisp("主人公","(Yeah, just like ｛Sassa＊＊｝ and ｛Himuro＊＊｝ said.
-You'll come home soon,
-won't you ｛Kazama＊＊｝...)");
+You'll come home soon, won't you
+｛Kazama＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 ChLayout(1);

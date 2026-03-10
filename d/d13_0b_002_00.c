@@ -76,8 +76,9 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D130B00200_04_040");
-MsgDisp("Nanatsumori","Ahー...I see. That guy's warning us all
-the way from England.");
+MsgDisp("Nanatsumori","Ahー...I see.
+That guy's warning us all the way from
+England.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -97,9 +98,9 @@ VoiceEVSPlay(3);
 MsgDisp("Honda","That's right!
 Let's go, ｛主人公｝.");
 MsgDisp("主人公","...Yeah!");
-MsgDisp("主人公","(｛Kazama＊＊｝'s message is bugging me,
-but... I see, being at school together
-like this is almost over...)");
+MsgDisp("主人公","(｛Kazama＊＊｝'s message is bugging me, but...
+I see, being at school together like this
+is almost over...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

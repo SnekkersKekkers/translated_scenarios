@@ -112,8 +112,8 @@ the end?)");
 SEWait();
 SEPlay("EV_SE_635");
 SEWait();
-MsgDisp("主人公","(Let's see, it says...\"
-Don't run in the hallways∈\"...
+MsgDisp("主人公","(Let's see, it says...
+\" Don't run in the hallways∈\"...
 Hehe, that's surprisingly simple?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -60,9 +60,9 @@ StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00100_03_040");
 MsgDisp("Honda","Mine was the most surprising, right?");
 StlEyeOpenLevel(1,#1);
-MsgDisp("主人公","S...Sorry! I felt like someone was
-watching me but I couldn't tell who it
-was!");
+MsgDisp("主人公","S...Sorry!
+I felt like someone was watching me but I
+couldn't tell who it was!");
 StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00100_03_050");
 MsgDisp("Honda","I see.
@@ -76,8 +76,8 @@ BGOpen("sc130",1);
 Wait(15,1);
 ScrFadeIn(0);
 MsgDisp("主人公","(They're all waving together...Hehe!
-I bet it's ｛Honda＊＊｝ who comes up with
-such weird games for them to play?)");
+I bet it's ｛Honda＊＊｝ who comes up with such
+weird games for them to play?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);

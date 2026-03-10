@@ -49,9 +49,9 @@ VoicePlay("D020800000_08_060");
 MsgDisp("Shirahane","Customers ask for me by name, y'know.
 If you come watch, you'll see I'm just
 as good as \"Haba High's Young Master\"~!");
-MsgDisp("主人公","(Hehe! ｛Kazama＊＊｝ and ｛Daichi＊＊｝ are
-completely different, but I think I can
-see it...!)");
+MsgDisp("主人公","(Hehe!
+｛Kazama＊＊｝ and ｛Daichi＊＊｝ are completely
+different, but I think I can see it...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

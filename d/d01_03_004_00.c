@@ -74,8 +74,8 @@ a lot of insects!");
 MsgDisp("主人公","Y-Yeah.
 That's true...");
 MsgDisp("主人公","(A lot of bugs huh...
-I bet there's a lot of them for
-｛Honda＊＊｝ to observe at school...)");
+I bet there's a lot of them for ｛Honda＊＊｝ to
+observe at school...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

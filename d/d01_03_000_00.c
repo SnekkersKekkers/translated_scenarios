@@ -105,9 +105,9 @@ ChMotion(3,4);
 VoicePlay("D010300000_03_110");
 MsgDisp("Honda","That's why I still come to see
 Ammonite-kun from time to time.");
-MsgDisp("主人公","I get it. For you, this is an important
-place. Thanks for teaching me about it,
-｛Honda＊＊｝.");
+MsgDisp("主人公","I get it.
+For you, this is an important place.
+Thanks for teaching me about it, ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

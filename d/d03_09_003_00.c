@@ -136,8 +136,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900300_09_150");
 MsgDisp("Kuya","But...I guess today I have a situation of
-my own to deal with? It's a strange
-feeling.");
+my own to deal with?
+It's a strange feeling.");
 MsgDisp("主人公","Hehe.");
 ChEye(9,3);
 ChMouth(9,0);
@@ -156,8 +156,8 @@ MsgDisp("Kuya","Good luck. As a journalist you have to
 have a keen sense for \"style\". I'll cheer
 you on from the shadows.");
 MsgDisp("主人公","Thank you so much.
-Uhm, actually, I was wondering if I
-could interview——");
+Uhm, actually, I was wondering if I could
+interview——");
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_180");
 MsgDisp("Kuya","Here we are, then.

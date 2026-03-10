@@ -9,8 +9,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("D140D07031_22_000");
-MsgDisp("Hikaru","Ah, Hikaru totally sees that～! ...you
-know, it's because Dahon-, I mean
+MsgDisp("Hikaru","Ah, Hikaru totally sees that～!
+...you know, it's because Dahon-, I mean
 Honda-kun has bad grades in love.");
 MsgDisp("主人公","Bad grades in love...");
 ChEye(22,4);

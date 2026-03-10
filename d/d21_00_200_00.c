@@ -10,8 +10,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("fp200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Huh? I wonder how I ended up at \"The
-Home of the Fireflies\".)");
+MsgDisp("主人公","(...Huh?
+I wonder how I ended up at \"The Home of
+the Fireflies\".)");
 MsgDisp("主人公","(It's almost like something was calling me
 here...?)");
 VoicePlay("D200000200_31_000");

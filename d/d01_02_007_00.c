@@ -76,8 +76,8 @@ MsgClose();
 BGOpen("sc628",0);
 ScrFadeIn(0);
 VoicePlay("D010200700_47_000");
-MsgDisp("Broadcast","The Octathlon winner is Habataki High
-3rd year, Sassa Nozomu.
+MsgDisp("Broadcast","The Octathlon winner is Habataki High 3rd
+year, Sassa Nozomu.
 He's set a new high school record.");
 SEPlay("EV_SE_GAYA_003",0.5);
 SEPlay("EV_SE_GAYA_021",0.5);

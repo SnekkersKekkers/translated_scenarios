@@ -6,7 +6,8 @@ the next Habatcher Column...
 Okay, first let's explore the city!)");
 SEPlay("EV_SE_569",0.2,0.5);
 Wait(30,0);
-MsgDisp("主人公","(...Huh? It seems crowded over there.
+MsgDisp("主人公","(...Huh?
+It seems crowded over there.
 Let's check it out.)");
 SEStop("EV_SE_569",1);
 MsgClose();

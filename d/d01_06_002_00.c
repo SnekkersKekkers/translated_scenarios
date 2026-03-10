@@ -56,9 +56,8 @@ MsgDisp("VP Himuro","Quiet down.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("D010600200_32_010");
-MsgDisp("VP Himuro","As announced, gentlemen, do not
-hold back. I want you
-to give it your all.");
+MsgDisp("VP Himuro","As announced, gentlemen, do not hold back.
+I want you to give it your all.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -131,7 +130,8 @@ SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_792",2);
 SEStop("EV_SE_847",2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ahhh∈ They're neck and neck...
+MsgDisp("主人公","(Ahhh∈
+They're neck and neck...
 It's like the two of them are fighting??)");
 StlEye(32,0);
 StlMouth(32,0);
@@ -142,9 +142,9 @@ of War!");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600200_06_050");
-MsgDisp("Himuro","That's it! Keep pulling like this! We
-can't lose as long as we keep it up! This
-is Tug of War!");
+MsgDisp("Himuro","That's it! Keep pulling like this!
+We can't lose as long as we keep it up!
+This is Tug of War!");
 MsgDisp("主人公","(Ehh∋
 Are they having a conversation??)");
 StlEye(6,0,0);

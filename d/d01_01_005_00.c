@@ -64,8 +64,7 @@ BGMPlay("BGM_C01_RYOUTA_B",0.01);
 SEPlay("EV_SE_604",1);
 ScrFadeIn(0);
 MsgDisp("主人公","Woah...
-｛Kazama＊＊｝, are you actually good at
-cooking?");
+｛Kazama＊＊｝, are you actually good at cooking?");
 SEVol(0.5,0.8);
 StlMouth(1,1);
 VoicePlay("D010100500_01_050");

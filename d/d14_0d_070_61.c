@@ -32,8 +32,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("D140D07061_21_020");
 MsgDisp("Michiru","Hehe.
-If you want to know his tastes, I can
-tell you anytime.");
+If you want to know his tastes, I can tell
+you anytime.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

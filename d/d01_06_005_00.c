@@ -96,8 +96,8 @@ MsgDisp("Himuro","I haven't changed at all...
 Taking it out on you again like this, I
 haven't matured at all.");
 MsgDisp("主人公","That's not true.
-｛Himuro＊＊｝ shows more of his true self
-than when we first met.");
+｛Himuro＊＊｝ shows more of his true self than
+when we first met.");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("D010600500_06_110");

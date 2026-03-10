@@ -18,9 +18,9 @@ VoicePlay("D010300500_03_000");
 MsgDisp("Honda?","Why～!");
 SEPlay("EV_SE_616",0,0.6);
 SEWait();
-MsgDisp("主人公","(∋ That voice just now...Was that
-｛Honda＊＊｝? Huh, didn't something like
-this happen before...)");
+MsgDisp("主人公","(∋ That voice just now...Was that ｛Honda＊＊｝?
+Huh, didn't something like this happen
+before...)");
 StlOpen("ev_03_11");
 BGMPlay("BGM_C03_HONDA_C",0.01);
 EfctOpen(6);
@@ -65,8 +65,8 @@ VoicePlay("D010300500_03_060");
 MsgDisp("Honda","She said she wasn't interested in the
 botanical gardens either though...");
 MsgDisp("主人公","I see...But you know, it's not good to lie
-down in a place like this. Come on, let me
-help you up.");
+down in a place like this.
+Come on, let me help you up.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300500_03_070");

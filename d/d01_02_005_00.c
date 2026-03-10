@@ -94,9 +94,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D010200500_02_060");
-MsgDisp("Sassa","Sigh...Alright. From now on the strategy
-is to keep a steady pace and aim for a
-high score!");
+MsgDisp("Sassa","Sigh...Alright.
+From now on the strategy is to keep a
+steady pace and aim for a high score!");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);

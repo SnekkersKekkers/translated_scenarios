@@ -9,7 +9,8 @@ ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("D140D07021_21_010");
 MsgDisp("Michiru","Sassa-kun is the perfect sportsman, isn't
-he? Do you like that kind of person?");
+he?
+Do you like that kind of person?");
 MsgDisp("主人公","Ehh∋");
 ChMouth(21,0);
 ChEye(22,4);

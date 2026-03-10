@@ -37,8 +37,9 @@ MsgDisp("Grandpa","Yes...
 You're not here to see Ryota either?
 That makes me even happier.");
 ChEye(36,0);
-MsgDisp("主人公","Hehe! Uhm...What's that thing you were
-talking about, \"bug drying\"?");
+MsgDisp("主人公","Hehe!
+Uhm...What's that thing you were talking
+about, \"bug drying\"?");
 ChEye(36,0);
 ChMouth(36,2);
 VoicePlay("D020100200_36_040");

@@ -192,9 +192,9 @@ ChMouth(9,4);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D010800000_09_070");
-MsgDisp("Kuya","Ah...Dai-chan, the time! If we don't help
-clean up, we'll ruin all those good
-memories.");
+MsgDisp("Kuya","Ah...Dai-chan, the time!
+If we don't help clean up, we'll ruin all
+those good memories.");
 ChEye(8,2);
 ChMouth(8,1);
 ChMotion(8,0,1);

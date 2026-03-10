@@ -38,8 +38,9 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901700_09_020");
-MsgDisp("Kuya","But you know...I'm sorry. Even though it's
-Christmas, I didn't bring you a gift.");
+MsgDisp("Kuya","But you know...I'm sorry.
+Even though it's Christmas, I didn't bring
+you a gift.");
 MsgDisp("主人公","It's fine.
 I didn't bring anything either.");
 MsgClose();

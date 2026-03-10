@@ -103,8 +103,8 @@ VoicePlay("D030900400_09_100");
 MsgDisp("Kuya","Hey, I told you, didn't I?
 There's no point in interviewing me.");
 MsgDisp("主人公","(What should I do...As things are, the
-interview is going no where. Maybe I
-should follow him around instead?)");
+interview is going no where.
+Maybe I should follow him around instead?)");
 MsgSel("Ask for a close coverage interview","Let's end here");
 switch (MsgSelRsltGet()){
     case 0:

@@ -36,9 +36,10 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("D140D07090_22_020");
-MsgDisp("Hikaru","Ah! Hikaru once saw the Chairman and
-Uncle getting scolded together!");
-MsgDisp("主人公","(Goro-sensei and the chairman...
+MsgDisp("Hikaru","Ah!
+Hikaru once saw the principal and Uncle
+getting scolded together!");
+MsgDisp("主人公","(Goro-sensei and the principal...
 What on Earth happened there?)");
 BGMStop();
 MsgClose();

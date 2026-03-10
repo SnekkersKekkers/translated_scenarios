@@ -113,8 +113,8 @@ ChMotion(4,1,1);
 VoicePlay("D010400300_04_060");
 MsgDisp("Nanatsumori","...So?");
 MsgDisp("主人公","That was really inspiring...I was able to
-experience a real life photoshoot. That
-outfit looked great on you too!");
+experience a real life photoshoot.
+That outfit looked great on you too!");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

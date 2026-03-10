@@ -57,8 +57,9 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B06102_01_020");
-MsgDisp("Kazama","Honda. Please. That's enough. There's no
-point in clarifying it.");
+MsgDisp("Kazama","Honda.
+Please. That's enough.
+There's no point in clarifying it.");
 MsgDisp("主人公","?");
 MsgDisp("主人公","(I think I'm getting along well with
 ｛Nanatsumori＊｝ but...everyone seems so

@@ -2,8 +2,9 @@ BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Phew, it's finally break time.)");
-MsgDisp("主人公","(...Huh? That person over there with their
-head down on the desk...)");
+MsgDisp("主人公","(...Huh?
+That person over there with their head
+down on the desk...)");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_22_01");
@@ -29,8 +30,9 @@ MsgDisp("主人公","Eh?");
 StlEye(22,1);
 StlMouth(22,1);
 VoicePlay("D012200000_22_020");
-MsgDisp("Hikaru","Ah...Sorry. That sounds like Hikaru is
-taking out her anger on you.");
+MsgDisp("Hikaru","Ah...Sorry.
+That sounds like Hikaru is taking out her
+anger on you.");
 StlEyeOpenLevel(22,5,1);
 VoicePlay("D012200000_22_030");
 MsgDisp("Hikaru","Hikaru's fine.

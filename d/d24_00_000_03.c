@@ -3,8 +3,8 @@ ScrFadeIn(0);
 SEPlay("EV_SE_080");
 Wait(20,0);
 MsgDisp("主人公","(Your hard work at Habatcher's Editorial
-Department has been recognized. Your
-\"Journalist Level\" has increased!)");
+Department has been recognized.
+Your \"Journalist Level\" has increased!)");
 MsgClose();
 ChOpen(31,254,2,0,0,#1,#1,0,0);
 VoicePlay("D230000003_31_000");

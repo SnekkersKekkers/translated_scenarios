@@ -39,9 +39,9 @@ riding the waves, Inori took it seriously.");
 StlEye(7,2);
 StlMouth(7,0);
 VoicePlay("D120C00100_07_010");
-MsgDisp("Mikage","O...Oh, it's nice of you to come. Inori is
-really strict...Please say something to
-him.");
+MsgDisp("Mikage","O...Oh, it's nice of you to come.
+Inori is really strict...Please say
+something to him.");
 StlEye(5,0);
 StlEye(6,0,0);
 StlEyeOpenLevel(6,5,1);

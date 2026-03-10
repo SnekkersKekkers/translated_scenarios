@@ -71,8 +71,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("D140C03200_07_030");
 MsgDisp("Mikage","We're business minded, so we'll dabble in
-everything. \"
-Ranch Milk Ramen, with added calcium\"!");
+everything.
+\" Ranch Milk Ramen, with added calcium\"!");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);

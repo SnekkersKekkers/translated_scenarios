@@ -1,9 +1,9 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Phew, I had a big lunch. I think I'll
-spend the rest of my break on the
-rooftop.)");
+MsgDisp("主人公","(...Phew, I had a big lunch.
+I think I'll spend the rest of my break on
+the rooftop.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -68,9 +68,8 @@ MsgClose();
 ChOpen(3,254,0,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010300200_03_050");
-MsgDisp("Honda","She always says...\"
-Thank you for the unnecessary
-explanation...\"");
+MsgDisp("Honda","She always says...\" Thank you for the
+unnecessary explanation...\"");
 MsgDisp("主人公","Hehe!");
 ChEye(3,1);
 ChMouth(3,4);

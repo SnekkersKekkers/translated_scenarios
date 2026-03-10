@@ -46,9 +46,9 @@ ChMotion(21,3);
 VoicePlay("D100D00000_21_010");
 MsgDisp("Michiru","The garden is a bit lonely right now but
 maybe someday it will be beautiful?");
-MsgDisp("主人公","(Mari's Garden...My maiden heart? If I
-call ｛ひかる＊｝, she can tell me
-what's going on!)");
+MsgDisp("主人公","(Mari's Garden...My maiden heart?
+If I call ｛ひかる＊｝, she can tell me what's
+going on!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

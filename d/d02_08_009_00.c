@@ -82,13 +82,14 @@ Don't do anything reckless...!");
     MsgDisp("主人公","I'm not going to lose to ｛Daichi＊＊｝.
 I need to study for the exam.");
     VoicePlay("D020800900_08_080");
-    MsgDisp("Shirahane","Wait...Are ya listenin' to me? If ya do
-that then I won't be able ta beatcha...");
+    MsgDisp("Shirahane","Wait...Are ya listenin' to me?
+If ya do that then I won't be able ta
+beatcha...");
     MsgDisp("主人公","Hehe!");
     VoicePlay("D020800900_08_090");
     MsgDisp("Shirahane","Haha...Just like ya'd expect from a
-scholar like yourself. Now I'm fired up
-too!");
+scholar like yourself.
+Now I'm fired up too!");
     VoicePlay("D020800900_08_100");
     MsgDisp("Shirahane","Let's try our best!
 But we can still go on dates, right?");
@@ -125,9 +126,9 @@ But can we go on a date once in a while?
 I'll miss seein' ya around...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(｛Daichi＊＊｝ is concentrating on his
-exams. I'll continue working part-time a
-bit longer.)");
+    MsgDisp("主人公","(｛Daichi＊＊｝ is concentrating on his exams.
+I'll continue working part-time a bit
+longer.)");
     break ;
     default :
     DbgAssert(0);

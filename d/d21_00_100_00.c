@@ -2,11 +2,12 @@ BGOpen("ne000",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(...Ah! It's a text message from
-Goro-sensei. It says:)");
-MsgDisp("主人公","(\"It seems a new spot has opened up in
-a corner of the Forest Park. Please make
-sure to write about it♪\")");
+MsgDisp("主人公","(...Ah!
+It's a text message from Goro-sensei.
+It says:)");
+MsgDisp("主人公","(\"It seems a new spot has opened up in a
+corner of the Forest Park.
+Please make sure to write about it♪\")");
 MsgDisp("主人公","(Alright, as Habatcher's newest staff
 member, let's get to it!)");
 MsgClose();
@@ -24,9 +25,9 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("fp200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Wow...What a beautiful spring! This is
-the Forest Park's new spot, ——\"The Home
-of the Fireflies\"!)");
+MsgDisp("主人公","(Wow...What a beautiful spring!
+This is the Forest Park's new spot,
+——\"The Home of the Fireflies\"!)");
 VoicePlay("D210000110_31_000");
 MsgDisp("Goro?","You got here quickly.");
 MsgClose();

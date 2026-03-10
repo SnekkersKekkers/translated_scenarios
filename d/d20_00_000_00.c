@@ -53,8 +53,8 @@ MsgDisp("Goro?","I'm telling you to close your eyes∈");
 MsgDisp("主人公","Y-Yes!");
 ScrFadeOut(3,30);
 VoicePlay("D200000000_31_040");
-MsgDisp("Goro?","...Hmm, I see. Eh...Oh. Oh my. This
-hairpin is...Hehe.");
+MsgDisp("Goro?","...Hmm, I see. Eh...Oh. Oh my. 
+This hairpin is...Hehe.");
 VoicePlay("D200000000_31_050");
 MsgDisp("Goro?","...Okay, that's enough.");
 ChEye(31,0);
@@ -71,9 +71,9 @@ VoicePlay("D200000000_31_060");
 MsgDisp("Goro","Hello♪
 But right now I'm Goro Hanatsubaki,
 special advisor of Habatcher!");
-MsgDisp("主人公","Uhm...Habatcher? That's Habataki City's
-information magazine \"Habataki Watcher \",
-right?...");
+MsgDisp("主人公","Uhm...Habatcher?
+That's Habataki City's information
+magazine \"Habataki Watcher \", right?...");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,3);
@@ -94,9 +94,9 @@ ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,0);
 VoicePlay("D200000000_31_090");
-MsgDisp("Goro","That's right. Young people with shimmering
-talent hidden within...Beautiful Diamonds
-in the Rough!");
+MsgDisp("Goro","That's right.
+Young people with shimmering talent hidden
+within...Beautiful Diamonds in the Rough!");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
