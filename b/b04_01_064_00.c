@@ -49,8 +49,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B040106400_01_060");
-MsgDisp("Kazama","Well, I said to, right?
-No regrets now.");
+MsgDisp("Kazama","Well, you're the one who 
+said it.
+You can't take it back now.");
 MsgClose();
 SEPlay("EV_SE_568");
 ChClose(1);
