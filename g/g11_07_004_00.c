@@ -66,9 +66,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_070");
-MsgDisp("Mikage","It's cool when you're always giving it
-your all, but sometimes you need to relax
-too.");
+MsgDisp("Mikage","It's cool that you're always working \nhard, but you need to relax sometimes\ntoo.");
 MsgDisp("主人公","...Ah, yes.");
 ChEye(7,0);
 ChMouth(7,0);
