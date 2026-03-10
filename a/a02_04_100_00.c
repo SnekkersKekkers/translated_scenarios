@@ -33,7 +33,7 @@ StlMouth(4,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah!!
 It's my poster!
-I must have dropped it in the hall...");
+I dropped it in the hall...");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
