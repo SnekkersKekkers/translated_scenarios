@@ -16,7 +16,7 @@ My answer is OK.");
 ｛日付｝. I'll wait for you at the
 ｛待ち合わせ場所｝.");
     VoicePlay("J030101000_01_010");
-    MsgDisp("Kazama","I'll be expecting yo-u.
+    MsgDisp("Kazama","I'll be expecting you〜
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
