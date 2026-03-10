@@ -51,7 +51,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010110100_01_050");
-MsgDisp("Kazama","I'll get going, I can't cause trouble for the manager.
+MsgDisp("Kazama","I'll get going, I can't cause trouble for
+the manager.
 See ya.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

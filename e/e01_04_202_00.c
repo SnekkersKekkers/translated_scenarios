@@ -30,8 +30,8 @@ MsgDisp("主人公","Yeah.");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("E010420200_04_010");
-MsgDisp("Nanatsumori","I gave Yano-san the opportunity to enjoy
-the 1 Rich shop to the fullest.");
+MsgDisp("Nanatsumori","I showed Yano-san around the 1 rich store
+to his heart's content.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,3);
@@ -55,16 +55,16 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010420200_05_040");
-MsgDisp("Hiiragi","They are often used by the theater
-company, so I cannot get anything
-extravagant. It's a big help.");
+MsgDisp("Hiiragi","They're consumables for the theater
+company, so I can't be too picky.
+It's a big help.");
 ChEye(4,5);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("E010420200_04_030");
 MsgDisp("Nanatsumori","Wow-...You're the leader, an actor, and a
-handyman. Yano-san, you're seriously
-amazing.");
+handyman.
+Yano-san, you're seriously amazing.");
 ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);

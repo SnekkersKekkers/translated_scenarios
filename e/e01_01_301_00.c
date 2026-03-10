@@ -87,8 +87,9 @@ MsgDisp("Honda","But I haven't said anything yet.
 Ryo-kun, you're too many steps ahead.");
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","Ehm...Excuse me? I don't have any plans
-for a haircut right now.");
+MsgDisp("主人公","Ehm...Excuse me?
+I don't have any plans for a haircut right
+now.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

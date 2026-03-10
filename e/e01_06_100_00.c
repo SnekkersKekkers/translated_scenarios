@@ -36,9 +36,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010610000_06_040");
-MsgDisp("Himuro","I'm only this way for snacks.
-When I maintain my diet, I feel like
-eating like this as a response.");
+MsgDisp("Himuro","This is just a snack.
+When you eat healthy all the time, you get
+cravings for this kind of stuff.");
 MsgDisp("主人公","Ah, I see.
 But it seems like a lot for a snack.");
 ChEye(6,0);

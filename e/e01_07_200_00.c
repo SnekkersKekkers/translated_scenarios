@@ -79,16 +79,16 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010720000_04_030");
-MsgDisp("Nanatsumori","Ahー...I totally get it. I'm also nervous
-about having my hair done by someone I
-never met.");
+MsgDisp("Nanatsumori","Ahー...I totally get it.
+I'm also nervous about having my hair done
+by someone I never met.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("E010720000_07_070");
-MsgDisp("Mikage","Yeah, yeah that's it.
-So I was considering if I would go into
-that store...");
+MsgDisp("Mikage","Yeah, exactly.
+So I was thinking about just popping into
+that shop on a whim...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -108,7 +108,7 @@ VoicePlay("E010720000_04_040");
 MsgDisp("Nanatsumori","...So Mikage-sensei used to go to a beauty
 salon. He doesn't really seem like the
 type, does he?");
-MsgDisp("主人公","(I like ｛Mikage＊＊｝'s hairstyle. I hope
-he always keeps it that way...)");
+MsgDisp("主人公","(I like ｛Mikage＊＊｝'s hairstyle.
+I hope he always keeps it that way...)");
 MsgClose();
 ScrFadeOut(0,0);

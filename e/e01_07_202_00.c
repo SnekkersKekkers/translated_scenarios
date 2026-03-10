@@ -25,7 +25,7 @@ VoicePlay("E010720200_07_000");
 MsgDisp("Mikage","I happened to be near an outdoor equipment
 store.");
 MsgDisp("主人公","I see.
-Your hobbies are almost similar.");
+You two have similar hobbies, huh.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -64,8 +64,9 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("E010720200_07_030");
-MsgDisp("Mikage","...Hmm I think Sassa and I have other
-similarities too...");
+MsgDisp("Mikage","...Huh?
+I feel like there's an even more obvious
+thing Sassa and I have in common...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

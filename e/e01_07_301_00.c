@@ -49,15 +49,16 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,#1);
 VoicePlay("E010730100_03_030");
 MsgDisp("Honda","Yeah!
-The magnification is 1000 times∈ It's
-amazing, you definitely have to see!");
+The magnification is 1000 times∈
+It's amazing, you definitely have to see!");
 MsgDisp("主人公","Hehe.
 ｛Honda＊＊｝, I'm happy for you.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010730100_07_030");
-MsgDisp("Mikage","You did well at your job and bought it.");
+MsgDisp("Mikage","You worked hard at your part-time job to
+buy it, right?");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4);
