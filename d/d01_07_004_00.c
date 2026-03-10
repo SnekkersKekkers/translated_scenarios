@@ -37,7 +37,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("D010700400_07_030");
-MsgDisp("Mikage","Do you guys want to go with me?");
+MsgDisp("Mikage","Do you guys want to do it with me?");
 VoicePlay("D010700400_44_010");
 MsgDisp("Girl A","Eh, what is it?
 I'll go!");
