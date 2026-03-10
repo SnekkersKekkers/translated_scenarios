@@ -52,7 +52,7 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900000_09_040");
 MsgDisp("Kuya?","I got kissed on the cheek.");
-MsgDisp("主人公","∈ I'm really sorry!");
+MsgDisp("主人公","∈\nI'm really sorry!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,1,1);
