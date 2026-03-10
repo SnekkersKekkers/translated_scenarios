@@ -198,7 +198,7 @@ MsgClose();
 ScrFadeOut(3,60);
 Wait(40,1);
 SEPlay("EV_SE_505");
-MsgDisp("","Smooch");
+MsgDisp("","*Smooch*");
 MsgClose();
 ScrFadeIn(4,30);
 MsgDisp("主人公","Eh∈ ｛Kazama＊＊｝?");
