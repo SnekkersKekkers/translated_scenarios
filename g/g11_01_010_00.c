@@ -49,9 +49,9 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110101000_01_030");
 MsgDisp("Kazama","That's right huh...");
-MsgDisp("主人公","(｛Kazama＊＊｝ tends to overthink things, so
-even if it's just a little, I hope I can
-give him a bit of push...)");
+MsgDisp("主人公","(｛Kazama＊＊｝ tends to overthink things,
+so even if it's just a little, I hope I
+can give him a bit of push...)");
 while (1){
     RunEverydaySksp(1,0,0,0,1,1);
     if (RunEverydaySkspRsltGet()){

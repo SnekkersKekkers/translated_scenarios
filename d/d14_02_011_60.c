@@ -11,4 +11,4 @@ ChMotion(2,3);
 VoicePlay("D140201160_02_010");
 MsgDisp("Sassa","And this is good quality beef. Apparently
 a Haba High alum got it through shady
-channels. Garnished with Mikage-sensei's veggies.");
+channels. With veggies from Mikage-sensei.");

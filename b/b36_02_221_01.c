@@ -43,8 +43,8 @@ MsgClose();
 ChOpen(2,255,4,0,4,#1,#1,10,0);
 VoicePlay("B360222101_02_040");
 MsgDisp("Sassa","Hey, your cheeks are red...");
-MsgDisp("主人公","(It seems like ｛Sassa＊＊｝'s face is getting
-red too...?)");
+MsgDisp("主人公","(It seems like ｛Sassa＊＊｝'s face is
+getting red too...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

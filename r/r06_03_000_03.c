@@ -9,8 +9,8 @@ switch (ChPrmGet(3,6)){
     VoicePlay("R060300003_03_000");
     MsgDisp("Honda","Hey hey.
 You're holding my gift!");
-    MsgDisp("主人公","This is your gift, ｛Honda＊＊｝?
-Ah, ｛Honda＊＊｝, you also got the present I
+    MsgDisp("主人公","This is your gift, ｛Honda＊＊｝? Ah,
+｛Honda＊＊｝, you also got the present I
 brought.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -64,14 +64,15 @@ could go to you, so this is a miracle.");
     VoicePlay("R060300003_03_070");
     MsgDisp("Honda","But I didn't think it would become a
 reality.");
-    MsgDisp("主人公","Oh, then this is your present, ｛Honda＊＊｝?");
+    MsgDisp("主人公","Oh, then this is your present,
+｛Honda＊＊｝?");
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("R060300003_03_080");
     MsgDisp("Honda","Ding Ding Ding!
 Right on the money!");
-    MsgDisp("主人公","Ah, ｛Honda＊＊｝, did you know that you also
-got the present I brought?");
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝, did you know that you
+also got the present I brought?");
     ChEye(3,5);
     ChMouth(3,4);
     ChMotion(3,5,1);

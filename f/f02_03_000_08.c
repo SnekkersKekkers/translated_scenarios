@@ -38,8 +38,8 @@ ChMotion(3,1);
 VoicePlay("F020300008_03_040");
 MsgDisp("Honda","It was some pretty recent research, so I'm
 not surprised they didn't know about it.");
-MsgDisp("主人公","But somehow ｛Honda＊＊｝, you knew about it,
-didn't you?");
+MsgDisp("主人公","But somehow ｛Honda＊＊｝, you knew about
+it, didn't you?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);

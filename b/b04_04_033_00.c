@@ -32,8 +32,8 @@ unreliable.");
     ChMotion(4,0,1);
     VoicePlay("B040403300_04_020");
     MsgDisp("Nanatsumori","Unlike the showy creatures in the main
-exhibit, these guys need an environment
-suited to them. This lighting protects them.");
+exhibit, they need the right environment.
+This lighting is there to protect them.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

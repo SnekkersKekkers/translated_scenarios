@@ -54,9 +54,9 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360501100_05_070");
 MsgDisp("Hiiragi","Of course, even if it's just us two.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems a little different than
-when he's with everyone...
-I was a bit startled.)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems a little different
+than when he's with everyone... I was a
+bit startled.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

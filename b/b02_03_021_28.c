@@ -13,6 +13,6 @@ ChMotion(3,0);
 VoicePlay("B020302128_03_010");
 MsgDisp("Honda","Maybe before.
 But now, I can't take my eyes off you.");
-MsgDisp("主人公","(That's a little embarrassing, ｛Honda＊＊｝.
-But, he seems to have come to like this
-kind of outfit. I'm glad!)");
+MsgDisp("主人公","(That's a little embarrassing,
+｛Honda＊＊｝. But, he seems to have come to
+like this kind of outfit. I'm glad!)");

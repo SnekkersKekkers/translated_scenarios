@@ -1,6 +1,6 @@
-MsgDisp("主人公","Lately, I've been seeing you, ｛Kazama＊＊｝,
-and ｛Nanatsumori＊｝ together a lot.
-What do you guys talk about?");
+MsgDisp("主人公","Lately, I've been seeing you,
+｛Kazama＊＊｝, and ｛Nanatsumori＊｝ together
+a lot. What do you guys talk about?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);

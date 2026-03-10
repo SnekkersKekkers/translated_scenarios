@@ -60,8 +60,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G110400202_04_050");
 MsgDisp("Nanatsumori","Yeah.");
-MsgDisp("主人公","(｛Nanatsumori＊｝, what kind of websites are
-you checking...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, what kind of websites
+are you checking...)");
 while (1){
     RunEverydaySksp(4,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){

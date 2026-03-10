@@ -56,8 +56,8 @@ I'm off now!");
     VoicePlay("P530400000_04_060");
     MsgDisp("Nanatsumori","Yeah.");
     MsgDisp("主人公","(Before I knew it, my stress was coming
-off...｛Nanatsumori＊｝, thank you! Alr-ight!
-let's give it our best!)");
+off...｛Nanatsumori＊｝, thank you!
+Alr-ight! let's give it our best!)");
     break ;
     case 4:
     case 5:
@@ -111,9 +111,9 @@ excited, aren't you?");
     MsgDisp("Nanatsumori","ＧＯ!
 Have fun to the fullest!");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for encouraging
-me!
-Alright, let's do our best!)");
+    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for
+encouraging me! Alright, let's do our
+best!)");
     break ;
     default :
     DbgAssert(1);

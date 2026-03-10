@@ -24,9 +24,8 @@ we'll meet there.");
 Well, see you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yippee!
-On ｛日付｝, I can't wait for that to
-come!)");
+    MsgDisp("主人公","(Yippee! On ｛日付｝, I can't wait
+for that to come!)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh, it's from ｛Honda＊＊｝.)");

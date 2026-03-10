@@ -104,9 +104,9 @@ the buzzer for a wrong answer.");
     MsgDisp("主人公","Hehe, are you okay?
 Even though you specifically wanted to
 relax?");
-    MsgDisp("主人公","(Huh...thanks to ｛Honda＊＊｝, It seems like
-I'm not anxious anymore.
-Yeah, I'll give it my best.)");
+    MsgDisp("主人公","(Huh...thanks to ｛Honda＊＊｝, It seems
+like I'm not anxious anymore. Yeah, I'll
+give it my best.)");
     break ;
     default :
     DbgAssert(1);

@@ -33,8 +33,8 @@ You've been working hard up until now.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(It must be hard on ｛Hiiragi＊＊＊｝, having to
-travel far even at this hour...)");
+    MsgDisp("主人公","(It must be hard on ｛Hiiragi＊＊＊｝, having
+to travel far even at this hour...)");
     break ;
     case 3:
     SEPlay("EV_SE_658");

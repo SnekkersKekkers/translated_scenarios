@@ -90,8 +90,8 @@ VoicePlay("B050400100_04_080");
 MsgDisp("Nanatsumori","Yum!
 The cocoa powder is really rich!
 The hidden milk pie is too awesome...");
-MsgDisp("主人公","(Hehe.
-｛Nanatsumori＊｝'s food commentary is funny.)");
+MsgDisp("主人公","(Hehe. ｛Nanatsumori＊｝'s food commentary
+is funny.)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

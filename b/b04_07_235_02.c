@@ -95,9 +95,8 @@ Let's go to the next one!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(｛Mikage＊＊｝ seems to be really enjoying
-himself.
-I'm happy too.)");
+        MsgDisp("主人公","(｛Mikage＊＊｝ seems to be really
+enjoying himself. I'm happy too.)");
         break ;
         default :
         DbgAssert(1);

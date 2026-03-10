@@ -40,9 +40,9 @@ I'm going to go for another run.");
     BGMStop();
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝'s really getting into it.
-Let's do our best so we can be of help to
-everyone!)");
+    MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝'s really getting into
+it. Let's do our best so we can be of help
+to everyone!)");
     break ;
     case 4:
     case 5:
@@ -63,9 +63,9 @@ you.");
     MsgDisp("Sassa","Same here. But you know, with your sense,
 I think you could be great in both short
 and long distance.");
-    MsgDisp("主人公","Thanks!
-But, I'll be helping out as a manager to
-support you and everyone else, ｛Sassa＊＊｝.");
+    MsgDisp("主人公","Thanks! But, I'll be helping out as a
+manager to support you and everyone else,
+｛Sassa＊＊｝.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);

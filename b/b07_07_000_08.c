@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Mikage＊＊｝, do you have a type of girl
-you like?");
+MsgDisp("主人公","｛Mikage＊＊｝, do you have a type of
+girl you like?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

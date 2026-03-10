@@ -116,8 +116,8 @@ ChMotion(7,1);
 VoicePlay("B330C30801_07_050");
 MsgDisp("Mikage","You two seem really motivated.
 That's just like high school boys.");
-MsgDisp("主人公","(｛Mikage＊＊｝ seems to be having the most
-fun though...I wonder if the campfire
+MsgDisp("主人公","(｛Mikage＊＊｝ seems to be having the
+most fun though...I wonder if the campfire
 effect is true...?)");
 MsgClose();
 ScrFadeOut(0,0);

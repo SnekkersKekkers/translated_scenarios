@@ -57,8 +57,8 @@ VoicePlay("G020130000_01_060");
 MsgDisp("Kazama","I'd say so.
 The truth is that I don't hate them.");
 ChEye(1,0);
-MsgDisp("主人公","(Hahah, I know, ｛Kazama＊＊｝, that you like
-them.)");
+MsgDisp("主人公","(Hahah, I know, ｛Kazama＊＊｝, that you
+like them.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

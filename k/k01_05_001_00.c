@@ -31,9 +31,8 @@ Ah, sorry for the trouble.");
     VoicePlay("K010500100_05_020");
     MsgDisp("Hiiragi","It's alright.
 Did you need something?");
-    MsgDisp("主人公","Yes.
-｛Hiiragi＊＊＊｝, today is your birthday, right?
-Here's a present!");
+    MsgDisp("主人公","Yes. ｛Hiiragi＊＊＊｝, today is your birthday,
+right? Here's a present!");
     SEPlay("EV_SE_664");
     SEWait();
     ChEye(5,4);

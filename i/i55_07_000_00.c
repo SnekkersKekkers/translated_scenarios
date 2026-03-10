@@ -90,8 +90,8 @@ a gift, please.");
     MsgDisp("Mikage","I was thinking of handing them out during
 tea time in the staff room.
 You know, to keep everyone in a good mood.");
-    MsgDisp("主人公","(｛Mikage＊＊｝...did you do something wrong
-again?)");
+    MsgDisp("主人公","(｛Mikage＊＊｝...did you do something
+wrong again?)");
     MsgClose();
     BGMStop();
     MsgClose();

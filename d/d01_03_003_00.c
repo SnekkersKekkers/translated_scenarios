@@ -109,8 +109,9 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 MsgDisp("主人公","O-Okay.
 I'll give it a try!");
-MsgDisp("主人公","(｛Honda＊＊｝'s shirt is probably so baggy on him
-because it's actually his father's...)");
+MsgDisp("主人公","(｛Honda＊＊｝'s shirt is probably so baggy
+on him because it's actually his
+father's...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

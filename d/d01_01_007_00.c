@@ -148,9 +148,9 @@ MsgClose();
 BGMStop();
 SEPlay("EV_SE_626");
 ChClose(1);
-MsgDisp("主人公","(Hehe ｛Kazama＊＊｝ is in a good mood today.
-Maybe someday he can teach me how to do
-fly fishing?)");
+MsgDisp("主人公","(Hehe ｛Kazama＊＊｝ is in a good mood
+today. Maybe someday he can teach me how
+to do fly fishing?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);

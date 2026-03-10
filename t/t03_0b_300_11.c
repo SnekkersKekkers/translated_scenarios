@@ -1,5 +1,5 @@
-MsgDisp("","Me ｛Kazama＊＊｝, and ｛Honda＊＊｝ went on to
-study at first-rate universities.");
+MsgDisp("","Me ｛Kazama＊＊｝, and ｛Honda＊＊｝ went on
+to study at first-rate universities.");
 MsgDisp("","｛Nanatsumori＊｝ is going to a vocational
 school.");
 MsgClear();

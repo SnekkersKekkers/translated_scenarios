@@ -15,7 +15,8 @@ MsgDisp("主人公","T-Turns out, it's quite high isn't it?");
 StlMouthOpenLevel(4,#1);
 VoicePlay("B050400200_04_010");
 MsgDisp("Nanatsumori","Haa...");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems to be in a bad mood...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to be in a bad
+mood...)");
 VoicePlay("B050400200_48_000");
 MsgDisp("Staff","Excuse me, Sir.
 Please remove your glasses.");

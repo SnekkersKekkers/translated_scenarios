@@ -92,7 +92,8 @@ get sick of me.");
 conversation to be had under fireworks.
 Let's talk about this properly once I've
 collected myself.");
-        MsgDisp("主人公","(｛Mikage＊＊｝...did something happen...?)");
+        MsgDisp("主人公","(｛Mikage＊＊｝...did something
+happen...?)");
         break ;
         default :
         DbgAssert(1);

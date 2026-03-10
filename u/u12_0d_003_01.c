@@ -13,7 +13,8 @@ StlMouth(22,0);
 VoicePlay("U120D00301_22_000");
 MsgDisp("Hikaru","If you keep thinking about it like that,
 you might end up falling for Mari too♪");
-MsgDisp("主人公","...｛ひかる＊｝, are you enjoying this?");
+MsgDisp("主人公","...｛ひかる＊｝, are you enjoying
+this?");
 StlEye(21,2);
 StlEye(22,2);
 StlMouth(22,0);

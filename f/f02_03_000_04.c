@@ -5,7 +5,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Honda＊＊｝'s birthday is coming up, right?");
+MsgDisp("主人公","｛Honda＊＊｝'s birthday is coming up,
+right?");
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300004_03_000");

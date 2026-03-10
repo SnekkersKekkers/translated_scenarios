@@ -28,9 +28,8 @@ VoicePlay("G020220301_02_030");
 MsgDisp("Sassa","What?
 I asked you because you always wear
 different styles.");
-MsgDisp("主人公","Sorry.
-But with ｛Sassa＊＊｝'s figure, it seems any
-style would fit.");
+MsgDisp("主人公","Sorry. But with ｛Sassa＊＊｝'s figure, it
+seems any style would fit.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);

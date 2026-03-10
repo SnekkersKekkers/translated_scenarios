@@ -100,9 +100,9 @@ Let's walk there slowly.");
 Thank you for coming with me.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
-    MsgDisp("主人公","Of course, I feel the same.
-｛Sassa＊＊｝, you wished really hard in your
-prayer, didn't you?");
+    MsgDisp("主人公","Of course, I feel the same. ｛Sassa＊＊｝,
+you wished really hard in your prayer,
+didn't you?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);

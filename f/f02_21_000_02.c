@@ -46,7 +46,7 @@ ChMotion(21,4);
 VoicePlay("F022100002_21_050");
 MsgDisp("Michiru","I wonder if Mikage-sensei will be
 alright...");
-MsgDisp("主人公","(｛みちる＊｝, are you really worried even
-though it's just a rumor?)");
+MsgDisp("主人公","(｛みちる＊｝, are you really worried
+even though it's just a rumor?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -41,8 +41,9 @@ Nagasaki.");
         MsgDisp("Sassa","Me too.
 This is my first time, and I even get to
 be with you!");
-        MsgDisp("主人公","(Spending my free period with ｛Sassa＊＊｝...
-This will surely be a fun day!)");
+        MsgDisp("主人公","(Spending my free period with
+｛Sassa＊＊｝... This will surely be a fun
+day!)");
         break ;
         case 1:
         ChEye(2,0);

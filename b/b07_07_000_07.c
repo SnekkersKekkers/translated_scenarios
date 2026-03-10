@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Mikage＊＊｝, do you have any dreams for
-the future?");
+MsgDisp("主人公","｛Mikage＊＊｝, do you have any dreams
+for the future?");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);

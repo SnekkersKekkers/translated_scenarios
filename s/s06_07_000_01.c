@@ -78,8 +78,8 @@ they?");
     ChMotion(7,0);
     VoicePlay("S060700001_07_090");
     MsgDisp("Mikage","Ahh, I'm so proud.");
-    MsgDisp("主人公","(｛Mikage＊＊｝ seems really happy about it.
-But vegetables...?)");
+    MsgDisp("主人公","(｛Mikage＊＊｝ seems really happy about
+it. But vegetables...?)");
     break ;
     default :
     DbgAssert(1);

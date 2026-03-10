@@ -54,8 +54,8 @@ VoicePlay("B360750201_07_050");
 MsgDisp("Mikage","...Geez, they're so easygoing.
 If it was me I would stay until the very
 end～");
-MsgDisp("主人公","(｛Mikage＊＊｝ is always thinking about his
-students...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ is always thinking about
+his students...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

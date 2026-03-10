@@ -78,8 +78,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝, was it...I can't believe the
-chairman is in the same year as me.
-He seems a bit strict...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, was it...I can't believe
+the chairman is in the same year as me. He
+seems a bit strict...)");
 MsgClose();
 ScrFadeOut(0,0);

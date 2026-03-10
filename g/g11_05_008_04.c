@@ -81,8 +81,8 @@ ChEyeOpenLevel(5,13);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500804_05_060");
 MsgDisp("Hiiragi","W-What's the matter?");
-MsgDisp("主人公","I'm so happy that ｛Hiiragi＊＊＊｝'s efforts are
-being recognized...");
+MsgDisp("主人公","I'm so happy that ｛Hiiragi＊＊＊｝'s efforts
+are being recognized...");
 ChMouth(5,1);
 ChEyeOpenLevel(5,0);
 Wait(10,0);

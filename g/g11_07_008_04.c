@@ -18,8 +18,8 @@ ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("G110700804_07_000");
-MsgDisp("Mikage","｛主人公｝, you've come to the right place.
-Please help me with weeding.");
+MsgDisp("Mikage","｛主人公｝, you've come to the right
+place. Please help me with weeding.");
 MsgDisp("主人公","Yes.
 Then, I'll start from the other side.");
 ChEye(7,0);
@@ -50,7 +50,8 @@ ChMotion(7,1);
 VoicePlay("G110700804_07_040");
 MsgDisp("Mikage","Phew...
 Don't make me cry so much...");
-MsgDisp("主人公","(Ehh∋ tears in ｛Mikage＊＊｝'s eyes...?)");
+MsgDisp("主人公","(Ehh∋ tears in ｛Mikage＊＊｝'s
+eyes...?)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(7,0,1,1,0,0);

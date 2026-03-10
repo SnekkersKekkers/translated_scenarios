@@ -32,9 +32,8 @@ ChSet(3,3);
 VoicePlay("F100440001_03_020");
 MsgDisp("Honda","Yeah yeah.
 I'll tell you anything I know!");
-MsgDisp("主人公","Umm...
-How did you know about ｛Nanatsumori＊｝'s job
-as a model?");
+MsgDisp("主人公","Umm... How did you know about
+｛Nanatsumori＊｝'s job as a model?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

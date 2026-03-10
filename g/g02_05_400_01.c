@@ -40,8 +40,8 @@ MsgDisp("Hiiragi","If the people of Habataki City are
 starting to acknowledge me, even if it's
 just a little, I'd be happy.");
 MsgDisp("主人公","Yeah, that must be it.");
-MsgDisp("主人公","(I'm happy that ｛Hiiragi＊＊＊｝'s best efforts
-got through to everyone...)");
+MsgDisp("主人公","(I'm happy that ｛Hiiragi＊＊＊｝'s best
+efforts got through to everyone...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

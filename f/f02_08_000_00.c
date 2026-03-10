@@ -4,7 +4,8 @@ ChMotion(8,0);
 ChCheek(8,0);
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I enjoyed walking home with ｛Daichi＊＊｝)");
+MsgDisp("主人公","(I enjoyed walking home with
+｛Daichi＊＊｝)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(8,0,0);

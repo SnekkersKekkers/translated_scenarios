@@ -112,9 +112,9 @@ looking forwards to it, right?");
     MsgDisp("Nanatsumori","You've done everything you can until now.
 ＧＯ!");
     MsgDisp("主人公","Yes, I'm off!");
-    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for encouraging
-me!
-Alright, let's do our best!)");
+    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for
+encouraging me! Alright, let's do our
+best!)");
     break ;
     default :
     DbgAssert(1);

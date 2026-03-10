@@ -31,8 +31,9 @@ VoicePlay("G110101002_01_000");
 MsgDisp("Kazama","We've been so immersed in talking.
 Let's go home before it gets dark.");
 MsgDisp("主人公","Yeah.");
-MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝'s pockets are bulging?
-I wonder if he's got something in them.)");
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝'s pockets are
+bulging? I wonder if he's got something in
+them.)");
 while (1){
     RunEverydaySksp(1,0,0,0,1,1);
     if (RunEverydaySkspRsltGet()){

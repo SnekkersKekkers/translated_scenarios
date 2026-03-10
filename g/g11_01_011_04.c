@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he wanted
-to talk to me on his way home. ...I wonder
-if something happened?)");
+MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he
+wanted to talk to me on his way home. ...I
+wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -56,9 +56,9 @@ VoicePlay("G110101104_01_030");
 MsgDisp("Kazama","It's given me a simulation of the future,
 while I also get paid for my part time
 job. I'm grateful for General Store simon.");
-MsgDisp("主人公","｛Kazama＊＊｝'s contribution to the store is
-amazing.
-I have to do my best to catch up to him.");
+MsgDisp("主人公","｛Kazama＊＊｝'s contribution to the store
+is amazing. I have to do my best to catch
+up to him.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,2);

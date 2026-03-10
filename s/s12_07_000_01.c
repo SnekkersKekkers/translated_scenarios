@@ -42,8 +42,9 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(I visited the shrine with ｛Mikage＊＊｝.
-It's going to be a great year!)");
+    MsgDisp("主人公","(I visited the shrine with
+｛Mikage＊＊｝. It's going to be a great
+year!)");
     break ;
     case 4:
     case 5:

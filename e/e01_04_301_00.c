@@ -83,8 +83,8 @@ ChMotion(3,1,1);
 VoicePlay("E010430100_03_050");
 MsgDisp("Honda","Shall we go together?");
 MsgDisp("主人公","Ehh? ∋");
-MsgDisp("主人公","(｛Nanatsumori＊｝, how could you run away after
-seeing those puppy dog eyes...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, how could you run away
+after seeing those puppy dog eyes...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -57,9 +57,9 @@ VoicePlay("D020800100_08_070");
 MsgDisp("Shirahane","Hey, I know since you're from Haba Academy
 you must be rooting for Sassa but it would
 be nice if you could come cheer me on too?");
-MsgDisp("主人公","(｛Daichi＊＊｝ and ｛Sassa＊＊｝ at the track
-and field competition...
-I think I want to watch!)");
+MsgDisp("主人公","(｛Daichi＊＊｝ and ｛Sassa＊＊｝ at the
+track and field competition... I think I
+want to watch!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

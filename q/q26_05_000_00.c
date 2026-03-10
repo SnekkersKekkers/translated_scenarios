@@ -30,7 +30,7 @@ MsgClose();
 SEPlay("EV_SE_799");
 ChClose(5);
 SEWait();
-MsgDisp("主人公","(Eeh∋
-So that feeling just now was ｛Hiiragi＊＊＊｝...?)");
+MsgDisp("主人公","(Eeh∋ So that feeling just now was
+｛Hiiragi＊＊＊｝...?)");
 MsgClose();
 ScrFadeOut(0,0);

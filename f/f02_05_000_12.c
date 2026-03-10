@@ -5,8 +5,8 @@ ChMouth(5,0);
 ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, is there anything you want to
-do over spring break?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, is there anything you want
+to do over spring break?");
 ChMouth(5,4);
 VoicePlay("F020500012_05_000");
 MsgDisp("Hiiragi","I have special permission to attend Haba

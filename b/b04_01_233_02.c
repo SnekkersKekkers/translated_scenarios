@@ -74,8 +74,8 @@ Let's go.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(1);
         SEWait();
-        MsgDisp("主人公","(｛Kazama＊＊｝ thank you for always worrying
-about me.)");
+        MsgDisp("主人公","(｛Kazama＊＊｝ thank you for always
+worrying about me.)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);

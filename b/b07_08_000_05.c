@@ -27,8 +27,9 @@ VoicePlay("B070800000_08_270");
 MsgDisp("Shirahane","The articles and photos are always
 interesting, right? I like it so much that
 I read it over and over.");
-MsgDisp("主人公","(So ｛Daichi＊＊｝'s hobbies are challenging
-himself and reading Habatcher...)");
+MsgDisp("主人公","(So ｛Daichi＊＊｝'s hobbies are
+challenging himself and reading
+Habatcher...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

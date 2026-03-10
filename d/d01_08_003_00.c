@@ -91,8 +91,9 @@ MsgDisp("Shirahane","Hehe!
 Since we're already here, wanna go home
 together?");
 MsgDisp("主人公","Sure!");
-MsgDisp("主人公","(...Come to think of it, where did ｛Honda＊＊｝
-get the Perfect Score Anpan from anyway?)");
+MsgDisp("主人公","(...Come to think of it, where did
+｛Honda＊＊｝ get the Perfect Score Anpan
+from anyway?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

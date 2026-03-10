@@ -4,8 +4,8 @@ switch (ChPrmGet(3,6)){
     case 2:
     VoicePlay("J030300000_03_000");
     MsgDisp("Honda","Yeah, it's okay.");
-    MsgDisp("主人公","Then, let's meet on ｛日付｝.
-I'll wait for you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Then, let's meet on ｛日付｝. I'll
+wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_010");
     MsgDisp("Honda","Yes ma～m!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -16,8 +16,9 @@ I hope ｛日付｝ arrives fast!)");
     case 3:
     VoicePlay("J030300000_03_020");
     MsgDisp("Honda","Mm-hm, let's go!");
-    MsgDisp("主人公","Alright, then let's meet on ｛日付｝.
-I'll wait for you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Alright, then let's meet on
+｛日付｝. I'll wait for you at the
+｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_030");
     MsgDisp("Honda","Oka～ y!
 I'm excited!");
@@ -36,8 +37,8 @@ you know?");
     VoicePlay("J030300000_03_050");
     MsgDisp("Honda","Ahh, that would be a bit much, huh?
 Sorry, sorry.");
-    MsgDisp("主人公","Then let's meet on ｛日付｝.
-I'll wait for you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Then let's meet on ｛日付｝. I'll
+wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_060");
     MsgDisp("Honda","Ah, wait!!");
     MsgDisp("主人公","Is something wrong?");

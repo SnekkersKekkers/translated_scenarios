@@ -1,3 +1,3 @@
-MsgDisp("主人公","Ah, it's from ｛Daichi＊＊｝. Believe in your 
-strengths and keep moving forward, huh...
-Yep, ｛Daichi＊＊｝ seems like he'll be just fine!");
+MsgDisp("主人公","Ah, it's from ｛Daichi＊＊｝.
+Believe in your strengths, huh...
+Yep, ｛Daichi＊＊｝ will be just fine!");

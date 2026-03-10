@@ -3,11 +3,9 @@ is participating in school events more
 enthusiastically than before and seems to
 be enjoying a fulfilling school life.");
 MsgClear();
-MsgDisp("","One of my favorite things to do after
-school is watch him surf at our usual
-beach. He has more surfing friends and
-｛Himuro＊＊｝'s smile at the beach is even more
-dazzling than before.");
+MsgDisp("","After school, I watch him surf at our
+usual beach with his many new friends.
+｛Himuro＊＊｝'s smile there is so dazzling.");
 MsgClear();
 MsgDisp("","Come to think of it, I once bumped into
 Himuro-sensei during a date.");

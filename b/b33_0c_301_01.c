@@ -97,8 +97,8 @@ ChMotion(7,2);
 VoicePlay("B330C30101_07_050");
 MsgDisp("Mikage","Ah, really?
 None at all, huh...");
-MsgDisp("主人公","(｛Mikage＊＊｝ will end up wanting to grant
-any of his student's wishes...");
+MsgDisp("主人公","(｛Mikage＊＊｝ will end up wanting to
+grant any of his student's wishes...");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

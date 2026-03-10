@@ -21,8 +21,8 @@ ChMotion(2,3);
 VoicePlay("F020200004_02_010");
 MsgDisp("Sassa","Yeah, it would be nice to age all at once.
 That way, I could do octathlons earlier.");
-MsgDisp("主人公","That's right.
-｛Sassa＊＊｝'s goal is the octathlon, right?");
+MsgDisp("主人公","That's right. ｛Sassa＊＊｝'s goal is the
+octathlon, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

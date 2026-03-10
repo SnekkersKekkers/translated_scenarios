@@ -5,7 +5,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(1);
 VoicePlay("P140100001_01_000");
 MsgDisp("Kazama","｛主人公｝.");
-MsgDisp("主人公","Ah, ｛Kazama＊＊｝, that was fast, wasn't it?");
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝, that was fast, wasn't
+it?");
 ChEye(1,2);
 ChMouth(1,4);
 ChMotion(1,0);

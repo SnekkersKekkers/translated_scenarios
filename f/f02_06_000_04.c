@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Come to think of it, ｛Himuro＊＊｝, isn't your
-birthday coming up?");
+MsgDisp("主人公","Come to think of it, ｛Himuro＊＊｝, isn't
+your birthday coming up?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

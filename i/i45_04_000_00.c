@@ -80,8 +80,8 @@ You're really into this, huh?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(｛Nanatsumori＊｝ came to check on me, right?
-I'm happy I got complimented!)");
+    MsgDisp("主人公","(｛Nanatsumori＊｝ came to check on me,
+right? I'm happy I got complimented!)");
     break ;
     case 4:
     case 5:

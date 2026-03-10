@@ -28,8 +28,8 @@ ScrFadeIn(0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G110400702_04_010");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","(｛Nanatsumori＊｝ is intensely looking at his
-phone.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ is intensely looking at
+his phone.)");
 MsgDisp("主人公","(I wonder what he's looking at...)");
 while (1){
     RunEverydaySksp(4,0,1,1,0,0);

@@ -56,7 +56,8 @@ MsgDisp("Sassa","I hope I can update it every time I come
 here.
 Firefly record.");
 MsgDisp("主人公","(Hehe, I would be happy if I could have
-another wonderful memory with ｛Sassa＊＊｝.)");
+another wonderful memory with
+｛Sassa＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

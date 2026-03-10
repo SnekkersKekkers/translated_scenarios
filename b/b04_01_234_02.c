@@ -106,8 +106,8 @@ after all.");
         ChMotion(1,3);
         VoicePlay("B040123402_01_100");
         MsgDisp("Kazama","Hey, do you want a second helping?");
-        MsgDisp("主人公","(｛Kazama＊＊｝, you were thinking of me even
-in England.)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, you were thinking of me
+even in England.)");
         break ;
         default :
         DbgAssert(1);

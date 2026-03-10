@@ -13,9 +13,8 @@ ChOpen(5,254,0,4,4,#1,#1,0,0);
 ChEye(5,4);
 VoicePlay("T020C30000_05_010");
 MsgDisp("Hiiragi","Congratulations on graduating.");
-MsgDisp("主人公","Thank you.
-｛Hiiragi＊＊＊｝, congratulations to you too on
-graduating.");
+MsgDisp("主人公","Thank you. ｛Hiiragi＊＊＊｝, congratulations
+to you too on graduating.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -60,8 +60,8 @@ Excuse me.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, so you're going to be eating
-it all by yourself...)");
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, so you're going to be
+eating it all by yourself...)");
     break ;
     case 3:
     MsgClose();

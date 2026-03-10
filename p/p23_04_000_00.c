@@ -24,9 +24,9 @@ even before the performance begins?");
     ChOpen(4,38,0,2,3,#1,#1,0,0,0,60);
     MsgDisp("主人公","｛Nanatsumori＊｝...
 Eh-∋");
-    MsgDisp("主人公","｛Nanatsumori＊｝, haven't you even done your
-beast makeup yet?
-The show is about to start!");
+    MsgDisp("主人公","｛Nanatsumori＊｝, haven't you even done
+your beast makeup yet? The show is about
+to start!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

@@ -4,7 +4,7 @@ SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Herbal nail oil\")");
 MsgDisp("主人公","(...Mm, it's a nice, soothing scent.
-My nails look moisturized and pretty...As
-expected of something ｛Nanatsumori＊｝ chose♪)");
+My nails look moisturized and pretty...
+As expected of ｛Nanatsumori＊｝'s taste♪)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -16,5 +16,5 @@ VoicePlay("B020402126_04_010");
 MsgDisp("Nanatsumori","Right.
 The natural look really grows on you
 the more you see it.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes like
-these too.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes
+like these too.)");

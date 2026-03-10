@@ -22,9 +22,8 @@ period?");
     VoicePlay("Q040500000_05_010");
     MsgDisp("Hiiragi","Good morning.
 Why are you in such a hurry?");
-    MsgDisp("主人公","Yeah, I wanted to go with ｛Hiiragi＊＊＊｝, for
-the free period.
-How about it?");
+    MsgDisp("主人公","Yeah, I wanted to go with ｛Hiiragi＊＊＊｝,
+for the free period. How about it?");
     break ;
     case 4:
     case 5:

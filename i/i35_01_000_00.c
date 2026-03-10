@@ -111,9 +111,8 @@ See you.");
     ChClose(1,0,30);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(｛Kazama＊＊｝ came all this way to check on
-me.
-I'm so happy!)");
+    MsgDisp("主人公","(｛Kazama＊＊｝ came all this way to check
+on me. I'm so happy!)");
     break ;
     case 4:
     case 5:
@@ -196,7 +195,8 @@ It was just for a moment?");
     ChClose(1);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","...Wait, ｛Kazama＊＊｝, you forgot the cake!");
+    MsgDisp("主人公","...Wait, ｛Kazama＊＊｝, you forgot the
+cake!");
     break ;
     default :
     DbgAssert(1);

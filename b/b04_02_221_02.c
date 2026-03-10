@@ -85,9 +85,8 @@ Rotations of a Year\" together.");
         VoicePlay("B040222102_02_080");
         MsgDisp("Sassa","A combination and order that fulfills both
 efficiency and satisfaction...");
-        MsgDisp("主人公","(Ummm...
-｛Sassa＊＊｝, this is beginning to look like
-a training program.)");
+        MsgDisp("主人公","(Ummm... ｛Sassa＊＊｝, this is beginning to
+look like a training program.)");
         break ;
         default :
         DbgAssert(1);

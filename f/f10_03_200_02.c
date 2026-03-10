@@ -103,8 +103,8 @@ VoicePlay("F100320002_03_060");
 MsgDisp("Honda","The fact remains that the shortcut is to
 lose even a little bit of weight without
 changing muscle mass, right?");
-MsgDisp("主人公","(...Looks like ｛Honda＊＊｝'s haircut training
-menu is still kicking...)");
+MsgDisp("主人公","(...Looks like ｛Honda＊＊｝'s haircut
+training menu is still kicking...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

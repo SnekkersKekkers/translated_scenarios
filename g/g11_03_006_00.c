@@ -9,9 +9,8 @@ their tomorrow selves...\"?");
 VoicePlay("G110300600_42_000");
 MsgDisp("Manager","Honda-kun's promo is great, right?
 One day I'll ask you to make one too.");
-MsgDisp("主人公","Ah, yes!
-I don't think I can do it like ｛Honda＊＊｝,
-but it looks fun...");
+MsgDisp("主人公","Ah, yes! I don't think I can do it like
+｛Honda＊＊｝, but it looks fun...");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

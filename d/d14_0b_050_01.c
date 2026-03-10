@@ -86,7 +86,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B05001_01_040");
 MsgDisp("Kazama","Hey, that's enough.");
-MsgDisp("主人公","(｛Kazama＊＊｝ feels jealousy of ｛Honda＊＊｝...?)");
+MsgDisp("主人公","(｛Kazama＊＊｝ feels jealousy of
+｛Honda＊＊｝...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -23,7 +23,8 @@ What's up?");
     ChMotion(1,3);
     VoicePlay("I450100000_01_020");
     MsgDisp("Kazama","I was lured in by the flowers, too.");
-    MsgDisp("主人公","Then you're a bee too, right, ｛Kazama＊＊｝?");
+    MsgDisp("主人公","Then you're a bee too, right,
+｛Kazama＊＊｝?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -89,7 +90,8 @@ See you.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Let's replenish our sugar with
-｛Kazama＊＊｝'s candy and get back to work!)");
+｛Kazama＊＊｝'s candy and get back to
+work!)");
     break ;
     case 4:
     case 5:

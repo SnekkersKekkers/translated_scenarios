@@ -2,8 +2,8 @@ BGOpen("sc510",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(...Huh? It's a message from ｛Himuro＊＊｝. It
-says \"I'd like to talk, do you have
+MsgDisp("主人公","(...Huh? It's a message from ｛Himuro＊＊｝.
+It says \"I'd like to talk, do you have
 time?\"...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

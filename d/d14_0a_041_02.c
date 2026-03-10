@@ -26,8 +26,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140A04102_01_010");
 MsgDisp("Kazama","That's better than him holding back what
 he really thinks.");
-MsgDisp("主人公","Hehe.
-You both really like ｛Himuro＊＊｝, don't you?");
+MsgDisp("主人公","Hehe. You both really like ｛Himuro＊＊｝,
+don't you?");
 ChEye(1,0);
 ChMouth(1,0);
 ChEye(2,0);

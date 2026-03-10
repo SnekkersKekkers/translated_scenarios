@@ -55,5 +55,5 @@ VoicePlay("F020400004_04_070");
 MsgDisp("Nanatsumori","...but there's nothing like that at my
 house.
 Man...it would be nice, though.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems to have a surprisingly
-huge heart...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to have a
+surprisingly huge heart...)");

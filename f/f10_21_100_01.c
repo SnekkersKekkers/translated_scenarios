@@ -53,7 +53,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(21);
-MsgDisp("主人公","(｛みちる＊｝...yeah, let's wait a little
-longer.)");
+MsgDisp("主人公","(｛みちる＊｝...yeah, let's wait a
+little longer.)");
 MsgClose();
 ScrFadeOut(0,0);

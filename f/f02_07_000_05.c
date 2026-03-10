@@ -51,6 +51,6 @@ VoicePlay("F020700005_07_050");
 MsgDisp("Mikage","I did that once and Vice Principal Himuro
 raked me over the coals...
 I really am sorry...");
-MsgDisp("主人公","(｛Mikage＊＊｝ seems to have it harder...
-All I have to do is study.
-Let's do our best!)");
+MsgDisp("主人公","(｛Mikage＊＊｝ seems to have it
+harder... All I have to do is study. Let's
+do our best!)");

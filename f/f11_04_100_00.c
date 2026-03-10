@@ -33,9 +33,9 @@ three times a day, so I'll go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
-MsgDisp("主人公","(｛Nanatsumori＊｝ really has the air of a model
-student when he's at school.
-Good luck!)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ really has the air of a
+model student when he's at school. Good
+luck!)");
 MsgClose();
 MsgClose();
 ScrFadeOut(0,0);

@@ -106,8 +106,8 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C03200_05_030");
 MsgDisp("Hiiragi","Stealth marketing?");
-MsgDisp("主人公","(｛Mikage＊＊｝'s parents really do dabble in
-everything...)");
+MsgDisp("主人公","(｛Mikage＊＊｝'s parents really do
+dabble in everything...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

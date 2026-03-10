@@ -181,6 +181,6 @@ VoicePlay("D030900500_09_180");
 MsgDisp("Kuya","Yeah, good luck.");
 MsgDisp("主人公","(Being a \"Jack of All Trades\" is really
 tough. I got caught up in so many things
-that I couldn't interview Kuya-san at all...)");
+I couldn't interview Kuya-san at all...)");
 MsgClose();
 ScrFadeOut(0,0);

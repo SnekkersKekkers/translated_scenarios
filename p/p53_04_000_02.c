@@ -94,10 +94,9 @@ Why am I the one whose heart is racing?");
     VoicePlay("P530400002_04_090");
     MsgDisp("Nanatsumori","Have fun.
 I'll be watching over from the audience.");
-    MsgDisp("主人公","(｛Nanatsumori＊｝ is cheering me on. Alright,
-using the culmination of my three years of
-hard work, let's perform so that I don't
-regret it!)");
+    MsgDisp("主人公","(｛Nanatsumori＊｝ is cheering me on.
+Three years of hard work led to this.
+I'll perform with no regrets!)");
     break ;
     default :
     DbgAssert(1);

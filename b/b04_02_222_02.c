@@ -66,8 +66,8 @@ documents!");
         ChMotion(2,0);
         VoicePlay("B040222202_02_060");
         MsgDisp("Sassa","If we hadn't come here, I wouldn't have
-discovered this new side of you. Thinking
-about it that way, the exhibit gets a pass.");
+found this new side of you. Thinking of
+it that way, the exhibit gets a pass.");
         MsgDisp("主人公","(Narrow pass...?)");
         break ;
         default :

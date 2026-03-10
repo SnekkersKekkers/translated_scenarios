@@ -65,8 +65,8 @@ happen.");
     VoicePlay("H4A0400000_04_070");
     MsgDisp("Nanatsumori","Ugh...!
 If you look at me like that, I'll...");
-    MsgDisp("主人公","(｛Nanatsumori＊｝...I'm glad I stayed in the
-rhythmic gymnastics club...Today's the
+    MsgDisp("主人公","(｛Nanatsumori＊｝...I'm glad I stayed in
+the rhythmic gymnastics club...Today's the
 best day ever!)");
     break ;
     default :

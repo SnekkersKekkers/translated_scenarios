@@ -44,8 +44,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F112210000_22_060");
 MsgDisp("Hikaru","Hikaru hopes that girl's love comes true.");
-MsgDisp("主人公","(｛ひかる＊｝ seems more like a fortune
-teller...)");
+MsgDisp("主人公","(｛ひかる＊｝ seems more like a
+fortune teller...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(22,0,0);

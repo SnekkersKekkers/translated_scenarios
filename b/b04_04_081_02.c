@@ -113,7 +113,7 @@ anywhere.");
         VoicePlay("B040408102_04_110");
         MsgDisp("Nanatsumori","When we're old enough to not get stopped
 by the police, I'll take you on a night
-cherry blossom date. If you're okay with it.");
+cherry blossom date. If you're up for it.");
         MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :

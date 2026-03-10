@@ -122,7 +122,8 @@ MsgDisp("Shirahane","Yeah, I'm satisfied, though!
 After all, the king is a genius!
 So I can relax now.");
 MsgDisp("主人公","(｛Daichi＊＊｝ was also amazing, though.
-...By king, does he maybe mean ｛Sassa＊＊｝?)");
+...By king, does he maybe mean
+｛Sassa＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

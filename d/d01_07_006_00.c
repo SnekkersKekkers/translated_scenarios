@@ -39,9 +39,9 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChOpen(7,254,0,2,0,#1,#1,0,0);
 VoicePlay("D010700600_07_040");
-MsgDisp("Mikage","Nobody is coming. Even if the two of us
-call it an extracurricular activity...Yeah,
-I guess we should cancel today?");
+MsgDisp("Mikage","Nobody's coming. Even if we call it an
+extracurricular activity... Yeah, I guess
+we should cancel today?");
 MsgDisp("主人公","Ah, okay...
 I guess so.");
 ChEye(7,0);

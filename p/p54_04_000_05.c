@@ -30,8 +30,8 @@ VoicePlay("P540400005_04_030");
 MsgDisp("Nanatsumori","Look forwards.
 Failure is the foundation of success,
 right?");
-MsgDisp("主人公","(｛Nanatsumori＊｝...Thank you. Even though it
-was a fail in the end, I'm glad I
+MsgDisp("主人公","(｛Nanatsumori＊｝...Thank you. Even though
+it was a fail in the end, I'm glad I
 continued with the brass band.)");
 MsgClose();
 ScrFadeOut(0,0);

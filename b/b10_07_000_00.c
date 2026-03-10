@@ -31,6 +31,7 @@ VoicePlay("B100700000_07_050");
 MsgDisp("Mikage","See you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛Mikage＊＊｝...called me out of concern.)");
+MsgDisp("主人公","(｛Mikage＊＊｝...called me out of
+concern.)");
 MsgClose();
 ScrFadeOut(0,0);

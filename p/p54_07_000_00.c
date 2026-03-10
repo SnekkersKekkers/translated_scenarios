@@ -25,8 +25,8 @@ VoicePlay("P540700000_07_020");
 MsgDisp("Mikage","Alright, everyone is waiting.
 Go rejoice with your friends.");
 MsgDisp("主人公","Thank you very much!");
-MsgDisp("主人公","(Hurray!
-I'm happy to be praised by ｛Mikage＊＊｝!)");
+MsgDisp("主人公","(Hurray! I'm happy to be praised by
+｛Mikage＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

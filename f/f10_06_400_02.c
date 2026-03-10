@@ -39,8 +39,8 @@ VoicePlay("F100640002_06_020");
 MsgDisp("Himuro","Yeah, why...so, what are you doing?");
 ChEye(1,4);
 MsgDisp("主人公","I forgot to do something for
-｛Mikage＊＊｝, so I'm heading back to the
-classroom now.");
+｛Mikage＊＊｝, so I'm heading back to
+the classroom now.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);

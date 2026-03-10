@@ -59,8 +59,8 @@ MsgDisp("Sassa","...sigh, it's just like with these
 fireflies. They're so cute and beautiful,
 and I want to catch them, but I won't
 right now.");
-MsgDisp("主人公","(Like the fireflies...?
-｛Sassa＊＊｝'s feelings make me happy but...)");
+MsgDisp("主人公","(Like the fireflies...? ｛Sassa＊＊｝'s
+feelings make me happy but...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -9,7 +9,7 @@ MsgClear();
 MsgDisp("","Instead of studying abroad, she rented a
 small apartment and is now enjoying
 foreign culture to the fullest.");
-MsgDisp("","She said that after she learns about art
-and fashion in Italy, she will go to
-Canada next. ｛みちる＊｝, that's so cool!");
+MsgDisp("","She said after learning about art and
+fashion in Italy, Canada is next.
+｛みちる＊｝, that's so cool!");
 MsgClear();

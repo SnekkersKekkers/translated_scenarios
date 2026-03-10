@@ -80,7 +80,8 @@ stimulated in all sorts of ways.");
 my high school years, when I should've be
 growing. That's why I'm getting it from
 you guys now...");
-        MsgDisp("主人公","(｛Mikage＊＊｝'s time at high school...')");
+        MsgDisp("主人公","(｛Mikage＊＊｝'s time at high
+school...')");
         break ;
         default :
         DbgAssert(1);

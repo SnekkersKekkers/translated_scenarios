@@ -73,7 +73,8 @@ BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 SEPlay("EV_SE_084",0);
 Wait(30,0);
-MsgDisp("主人公","...｛Kazama＊＊｝, do you like ferris wheels?");
+MsgDisp("主人公","...｛Kazama＊＊｝, do you like ferris
+wheels?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

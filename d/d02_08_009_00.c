@@ -126,9 +126,9 @@ But can we go on a date once in a while?
 I'll miss seein' ya around...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(｛Daichi＊＊｝ is concentrating on his exams.
-I'll continue working part-time a bit
-longer.)");
+    MsgDisp("主人公","(｛Daichi＊＊｝ is concentrating on his
+exams. I'll continue working part-time a
+bit longer.)");
     break ;
     default :
     DbgAssert(0);

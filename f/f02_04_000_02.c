@@ -52,5 +52,5 @@ VoicePlay("F020400002_04_060");
 MsgDisp("Nanatsumori","You can't do anything but laugh, right?
 Still, it would be amazing if something
 like that were real...");
-MsgDisp("主人公","(What?
-｛Nanatsumori＊｝, you look weirdly happy...)");
+MsgDisp("主人公","(What? ｛Nanatsumori＊｝, you look weirdly
+happy...)");

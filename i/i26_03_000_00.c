@@ -107,8 +107,8 @@ Thanks, ｛Honda＊＊｝.");
     MsgDisp("Honda","Come on, stop looking like you're about to
 cry. The customers are waiting for your
 smile, so smile!");
-    MsgDisp("主人公","(Haa...
-I made a lot of extra work for ｛Honda＊＊｝.)");
+    MsgDisp("主人公","(Haa... I made a lot of extra work for
+｛Honda＊＊｝.)");
     break ;
     default :
     DbgAssert(1);

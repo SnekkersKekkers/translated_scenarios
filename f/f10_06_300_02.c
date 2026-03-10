@@ -141,7 +141,8 @@ MsgDisp("Himuro","Eh!
 No∋
 That's not what I meant...!");
 MsgDisp("主人公","(Even ｛Himuro＊＊｝ is no match for
-｛みちる＊｝ and ｛ひかる＊｝, huh?)");
+｛みちる＊｝ and ｛ひかる＊｝,
+huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

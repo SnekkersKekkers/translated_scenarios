@@ -28,7 +28,7 @@ VoicePlay("F022200007_22_020");
 MsgDisp("Hikaru","Yay!
 Where should we go play?
 I'll think about it lots♪");
-MsgDisp("主人公","(｛ひかる＊｝ is already in the mood to
-play!)");
+MsgDisp("主人公","(｛ひかる＊｝ is already in the mood
+to play!)");
 MsgClose();
 ScrFadeOut(0,0);

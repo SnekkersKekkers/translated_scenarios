@@ -64,9 +64,9 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020710300_07_080");
 MsgDisp("Mikage","That was my inner voice.");
-MsgDisp("主人公","(｛Mikage＊＊｝ was really concerned about
-it. I'm happy that he always thinks about
-me seriously...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ was really concerned
+about it. I'm happy that he always thinks
+about me seriously...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -2,10 +2,9 @@ MsgDisp("","It seems that ｛Honda＊＊｝ is attending a
 first-rate university and has already
 begun his research.");
 MsgClear();
-MsgDisp("","｛Honda＊＊｝'s research theme is people. It's
-amazing that he's in a genome analysis lab
-even though he's only a first-year
-student.");
+MsgDisp("","｛Honda＊＊｝'s research theme is people.
+It's amazing he's in a genome analysis
+lab as only a first-year student.");
 MsgDisp("","Although it's difficult research,
 ｛Honda＊＊｝ explains it in a fascinating
 way that piques my interest. So when I

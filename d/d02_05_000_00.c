@@ -111,8 +111,8 @@ VoicePlay("D020500000_05_080");
 MsgDisp("Hiiragi","Making a production we're proud of and
 meeting the viewer's expectations,
 hopefully we were able to achieve both.");
-MsgDisp("主人公","Yeah...But what about ｛Hiiragi＊＊＊｝?
-I can't believe ｛Hiiragi＊＊＊｝ isn't in it...");
+MsgDisp("主人公","Yeah...But what about ｛Hiiragi＊＊＊｝? I
+can't believe ｛Hiiragi＊＊＊｝ isn't in it...");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);

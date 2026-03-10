@@ -35,8 +35,8 @@ I did it!)");
     VoicePlay("N020700000_07_030");
     MsgDisp("Mikage","Well done.
 Thanks to you, I'm in a great mood too.");
-    MsgDisp("主人公","｛Mikage＊＊｝, it makes me happy that you
-feel that way.");
+    MsgDisp("主人公","｛Mikage＊＊｝, it makes me happy that
+you feel that way.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);

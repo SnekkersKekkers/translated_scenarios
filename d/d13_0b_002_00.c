@@ -9,8 +9,8 @@ MsgDisp("主人公","(Haa...
 It's already graduation soon huh?)");
 MsgDisp("主人公","(For three years, I got to be in the same
 class as ｛Kazama＊＊｝)");
-MsgDisp("主人公","(...｛Kazama＊＊｝, I wonder what you're doing
-right now in England?)");
+MsgDisp("主人公","(...｛Kazama＊＊｝, I wonder what you're
+doing right now in England?)");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 MsgDisp("主人公","...Hm?");
@@ -98,9 +98,9 @@ VoiceEVSPlay(3);
 MsgDisp("Honda","That's right!
 Let's go, ｛主人公｝.");
 MsgDisp("主人公","...Yeah!");
-MsgDisp("主人公","(｛Kazama＊＊｝'s message is bugging me, but...
-I see, being at school together like this
-is almost over...)");
+MsgDisp("主人公","(｛Kazama＊＊｝'s message is bugging me,
+but... I see, being at school together
+like this is almost over...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

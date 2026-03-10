@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he wanted
-to talk to me on the way home. ...I wonder
-what could it be?)");
+MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he
+wanted to talk to me on the way home. ...I
+wonder what could it be?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

@@ -54,8 +54,7 @@ Take care on your way home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Amazing...
-｛Mikage＊＊｝'s home is full of vegetables
-and plants!)");
+MsgDisp("主人公","(Amazing... ｛Mikage＊＊｝'s home is full
+of vegetables and plants!)");
 MsgClose();
 ScrFadeOut(0,0);

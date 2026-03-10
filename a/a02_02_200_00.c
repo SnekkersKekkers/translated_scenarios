@@ -32,8 +32,8 @@ VoicePlay("A020220000_02_010");
 MsgDisp("Sassa?","Hm—m...
 The admissions are usually made through
 Mikage-sensei, though?");
-MsgDisp("主人公","｛Mikage＊＊｝ told me to look for the club
-captain...");
+MsgDisp("主人公","｛Mikage＊＊｝ told me to look for the
+club captain...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

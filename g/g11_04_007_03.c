@@ -110,8 +110,8 @@ ChMotion(4,0);
 VoicePlay("G110400703_04_080");
 MsgDisp("Nanatsumori","Aah...that's enough, it can be a pain
 sometimes.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems very serious about his
-work.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems very serious about
+his work.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

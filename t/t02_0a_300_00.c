@@ -76,7 +76,8 @@ ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("T020A30000_02_010");
 MsgDisp("Sassa","Huh?");
-MsgDisp("主人公","｛Sassa＊＊｝, congratulations on graduating!");
+MsgDisp("主人公","｛Sassa＊＊｝, congratulations on
+graduating!");
 ChEye(1,2);
 ChMouth(1,3);
 ChEye(2,3);

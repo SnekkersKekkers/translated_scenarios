@@ -130,8 +130,8 @@ before I embarrass myself any more.");
     MsgDisp("Nanatsumori","Heheh...
 Forget healing, you're like a dose of
 energy.");
-    MsgDisp("主人公","(｛Nanatsumori＊｝ looks like he's having fun.
-I think I'm feeling better, too!)");
+    MsgDisp("主人公","(｛Nanatsumori＊｝ looks like he's having
+fun. I think I'm feeling better, too!)");
     break ;
     default :
     DbgAssert(1);

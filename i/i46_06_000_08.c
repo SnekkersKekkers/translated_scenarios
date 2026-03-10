@@ -89,8 +89,8 @@ Why don't you consider it as an option?");
     ChCheek(6,5);
     VoicePlay("I460600008_06_090");
     MsgDisp("Himuro","If you make it big, I'll have you hire me.");
-    MsgDisp("主人公","Running a flower shop with ｛Himuro＊＊｝, huh.
-It might be nice.");
+    MsgDisp("主人公","Running a flower shop with ｛Himuro＊＊｝,
+huh. It might be nice.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

@@ -151,9 +151,9 @@ Leave it to me.");
         VoicePlay("S090700000_07_140");
         MsgDisp("Mikage","Oh, I see.
 If you don't like it, then you shouldn't.");
-        MsgDisp("主人公","(｛Mikage＊＊｝, feels like he really wanted
-to pull fortunes...
-Did I make the wrong choice?)");
+        MsgDisp("主人公","(｛Mikage＊＊｝, feels like he really
+wanted to pull fortunes... Did I make the
+wrong choice?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

@@ -63,7 +63,8 @@ ChCheek(4,10);
 VoicePlay("G020420301_04_080");
 MsgDisp("Nanatsumori","Ach...
 I told you not to look at me like that!");
-MsgDisp("主人公","(｛Nanatsumori＊｝, why is your face so red?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, why is your face so
+red?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

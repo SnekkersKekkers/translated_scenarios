@@ -44,7 +44,8 @@ ScrFadeOut(0);
 BGOpen("tr520",0);
 ScrFadeIn(0);
 MsgDisp("主人公","\"Wow, when did this happen?
-｛Kazama＊＊｝, you're like a magician!\"");
+｛Kazama＊＊｝, you're like a
+magician!\"");
 MsgDisp("","I showed her the roasted sweet
 potato. The only difference from now
 and then, is she doesn't have mud on

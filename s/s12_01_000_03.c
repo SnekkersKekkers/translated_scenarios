@@ -100,8 +100,8 @@ Thanks anyway.");
     MsgDisp("Kazama","I do.
 You're dressed so beautifully right now.
 Thanks for that.");
-    MsgDisp("主人公","(｛Kazama＊＊｝ said I'm dressed beautifully,
-I'm so happy he said that...
+    MsgDisp("主人公","(｛Kazama＊＊｝ said I'm dressed
+beautifully, I'm so happy he said that...
 This year will be another good year.)");
     break ;
     default :

@@ -3,8 +3,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright, ｛Himuro＊＊｝'s souvenir is gonna be
-the mildly sweet matcha castella.)");
+MsgDisp("主人公","(Alright, ｛Himuro＊＊｝'s souvenir is gonna
+be the mildly sweet matcha castella.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();

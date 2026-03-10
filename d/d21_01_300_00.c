@@ -43,10 +43,9 @@ MsgDisp("Goro","Well then, let's get moving. Be safe! I'm
 looking forward to reading your lovely
 articles♪");
 MsgDisp("主人公","Y-Yes!");
-MsgDisp("主人公","(I see, if it's ｛Kazama＊＊｝...Yeah. I think
-he suits the description of a \"wonderful
-and shining person\". Okay, I have to write
-a great article!)");
+MsgDisp("主人公","(I see, if it's ｛Kazama＊＊｝...Yeah.
+He fits \"wonderful and shining
+person\". I have to write a great article!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

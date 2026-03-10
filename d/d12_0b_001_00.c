@@ -75,8 +75,8 @@ StlClose();
 BGOpen("sc130",1);
 Wait(15,1);
 ScrFadeIn(0);
-MsgDisp("主人公","(They're all waving together...Hehe!
-I bet it's ｛Honda＊＊｝ who comes up with such
+MsgDisp("主人公","(They're all waving together...Hehe! I bet
+it's ｛Honda＊＊｝ who comes up with such
 weird games for them to play?)");
 MsgClose();
 ScrFadeOut(0,0);

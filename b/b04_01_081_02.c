@@ -83,9 +83,8 @@ But, thank you.");
         MsgDisp("Kazama","Oh-hoh. That honesty is nice. Make sure
 you're always grateful, okay? From now on,
 thank me once a day.");
-        MsgDisp("主人公","(｛Kazama＊＊｝, you've cared about me for so
-long now...
-It makes me happy.)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, you've cared about me for
+so long now... It makes me happy.)");
         break ;
         default :
         DbgAssert(1);

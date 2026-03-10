@@ -13,9 +13,8 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Hm?
 I heard that there was someone new coming
 today, was that you?");
-    MsgDisp("主人公","Yes, it's me.
-｛Honda＊＊｝, I'm looking forward to working
-together.");
+    MsgDisp("主人公","Yes, it's me. ｛Honda＊＊｝, I'm looking
+forward to working together.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

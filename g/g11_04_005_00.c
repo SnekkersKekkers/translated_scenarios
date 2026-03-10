@@ -60,7 +60,8 @@ ChMouth(4,1);
 ChMotion(4,0);
 VoicePlay("G110400500_04_060");
 MsgDisp("Nanatsumori","Well...");
-MsgDisp("主人公","(｛Nanatsumori＊｝, what do you mean by that...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, what do you mean by
+that...)");
 while (1){
     RunEverydaySksp(4,0,0,1,0,0);
     if (RunEverydaySkspRsltGet()){

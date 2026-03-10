@@ -143,9 +143,9 @@ VoicePlay("B330C10501_07_050");
 MsgDisp("Mikage","｛主人公｝, come on let's go!
 That demonstration is super interesting.");
 MsgDisp("主人公","Hehe, yes!");
-MsgDisp("主人公","(It's not just ｛Himuro＊＊｝ and ｛Hiiragi＊＊＊｝,
-｛Mikage＊＊｝ also seems like he's
-having so much fun. I'm glad we came!)");
+MsgDisp("主人公","(Not just ｛Himuro＊＊｝ and ｛Hiiragi＊＊＊｝,
+｛Mikage＊＊｝ seems like he's having
+so much fun too. I'm glad we came!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

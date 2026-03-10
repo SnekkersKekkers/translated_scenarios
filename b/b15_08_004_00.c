@@ -54,6 +54,7 @@ MsgDisp("Shirahane","See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);
-MsgDisp("主人公","(I wonder if I've troubled ｛Daichi＊＊｝...)");
+MsgDisp("主人公","(I wonder if I've troubled
+｛Daichi＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

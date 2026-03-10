@@ -49,8 +49,8 @@ ChMotion(7,1);
 VoicePlay("B070700001_07_070");
 MsgDisp("Mikage","Crap.
 My serious side came out today.");
-MsgDisp("主人公","(｛Mikage＊＊｝ is always worrying about us,
-huh...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ is always worrying about
+us, huh...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

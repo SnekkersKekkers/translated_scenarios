@@ -18,9 +18,9 @@ ChMotion(21,4);
 VoicePlay("F032100000_21_240");
 MsgDisp("Michiru","Something like a fancy general store,
 maybe.");
-MsgDisp("主人公","Eh, is that so?
-But, ｛みちる＊｝, you don't really wear
-any cute items like that?");
+MsgDisp("主人公","Eh, is that so? But, ｛みちる＊｝, you
+don't really wear any cute items like
+that?");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,2);

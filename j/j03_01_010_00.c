@@ -12,9 +12,9 @@ switch (ChPrmGet(1,6)){
     VoicePlay("J030101000_01_000");
     MsgDisp("Kazama","I got your message.
 My answer is OK.");
-    MsgDisp("主人公","Really?
-Then, let's meet on ｛日付｝.
-I'll wait for you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Really? Then, let's meet on
+｛日付｝. I'll wait for you at the
+｛待ち合わせ場所｝.");
     VoicePlay("J030101000_01_010");
     MsgDisp("Kazama","I'll be expecting yo-u.
 See you later.");
@@ -34,8 +34,9 @@ I can't wait for ｛日付｝.)");
 Got your message.");
     VoicePlay("J030101000_01_030");
     MsgDisp("Kazama","Of course my answer is OK!");
-    MsgDisp("主人公","Alright, then let's meet on ｛日付｝.
-I'll wait for you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Alright, then let's meet on
+｛日付｝. I'll wait for you at the
+｛待ち合わせ場所｝.");
     VoicePlay("J030101000_01_040");
     MsgDisp("Kazama","Got it.
 I'm looking forward to a lot of things.
@@ -59,9 +60,9 @@ Did you listen to my message?
 What's your answer?");
     VoicePlay("J030101000_01_060");
     MsgDisp("Kazama","There's no way I'd say no.");
-    MsgDisp("主人公","Really?
-Then, let's meet on ｛日付｝.
-I'll wait for you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Really? Then, let's meet on
+｛日付｝. I'll wait for you at the
+｛待ち合わせ場所｝.");
     VoicePlay("J030101000_01_070");
     MsgDisp("Kazama","Understood. Don't hurry too much, just get
 there in one piece. Okay?");

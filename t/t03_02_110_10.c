@@ -8,7 +8,7 @@ of attention. Everyone around him is
 surprised, but we are both calm. Because
 ｛Sassa＊＊｝ is aiming to become the king
 of athletes.");
-MsgDisp("","Also...with ｛Sassa＊＊｝'s encouragement I'm
-thinking of taking up the women's
+MsgDisp("","Also...with ｛Sassa＊＊｝'s encouragement
+I'm thinking of taking up the women's
 heptathlon too!");
 MsgClear();

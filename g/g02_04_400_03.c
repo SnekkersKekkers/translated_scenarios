@@ -35,9 +35,9 @@ ChMotion(4,0,1);
 VoicePlay("G020440003_04_050");
 MsgDisp("Nanatsumori","It's really amazing how fireflies manage
 to even be friends with humans.");
-MsgDisp("主人公","Yeah, you're right!
-...Ah, ｛Nanatsumori＊｝, a firefly landed on
-your shoulder.");
+MsgDisp("主人公","Yeah, you're right! ...Ah,
+｛Nanatsumori＊｝, a firefly landed on your
+shoulder.");
 ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,5,1);

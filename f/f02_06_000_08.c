@@ -46,4 +46,5 @@ VoicePlay("F020600008_06_050");
 MsgDisp("Himuro","I'll figure it out in time.
 Since you care so much, why don't you stop
 by on the day?");
-MsgDisp("主人公","(Should I try to go to ｛Himuro＊＊｝'s class?)");
+MsgDisp("主人公","(Should I try to go to ｛Himuro＊＊｝'s
+class?)");

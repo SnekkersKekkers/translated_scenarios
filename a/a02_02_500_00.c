@@ -12,9 +12,8 @@ VoiceEVSPlay(2);
 VoicePlay("A020250000_02_010");
 MsgDisp("Sassa","｛主人公｝.
 You're in the same class as Ryota?");
-MsgDisp("主人公","Yeah.
-And you ｛Sassa＊＊｝, do you and ｛Kazama＊＊｝ 
-know each other?");
+MsgDisp("主人公","Yeah. And you ｛Sassa＊＊｝, do you and
+｛Kazama＊＊｝ know each other?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

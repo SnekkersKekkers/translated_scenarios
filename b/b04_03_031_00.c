@@ -43,7 +43,7 @@ they see far surpasses our imagination.");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040303100_03_030");
-    MsgDisp("Honda","From behind the rocks? Maybe it's rockfish.
+    MsgDisp("Honda","From behind the rocks? Maybe rockfish.
 Black rockfish, fat greenling, grouper...
 There are many high-quality fish.");
     MsgDispSksp(1,0);

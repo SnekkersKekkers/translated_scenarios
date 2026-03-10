@@ -7,8 +7,8 @@ SEWait();
 ChOpen(2,255,3,0,3,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("H8G0200000_02_000");
-MsgDisp("Sassa","｛主人公｝, I heard our student council got
-an award.");
+MsgDisp("Sassa","｛主人公｝, I heard our student council
+got an award.");
 MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Yes, that's right.");
 ChEye(2,0);

@@ -63,9 +63,9 @@ like that?");
         VoicePlay("B040408502_04_050");
         MsgDisp("Nanatsumori","∋ ...H-Hugging?
 Is that okay?");
-        MsgDisp("主人公","It's a bit embarrassing but, I don't have
-any hand warmers or anything like that.
-And ｛Nanatsumori＊｝, you're sensitive to cold.");
+        MsgDisp("主人公","It's a bit embarrassing but,
+I don't have any hand warmers.
+And ｛Nanatsumori＊｝, you get cold easily.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);

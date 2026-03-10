@@ -1,6 +1,6 @@
-MsgDisp("主人公","Recently, me, ｛Nanatsumori＊｝, ｛Kazama＊＊｝
-and ｛Honda＊＊｝ have been spending more
-time together as a four.");
+MsgDisp("主人公","Recently, me, ｛Nanatsumori＊｝,
+｛Kazama＊＊｝ and ｛Honda＊＊｝ have been
+spending more time together as a four.");
 VoicePlay("B070400001_04_360");
 MsgDisp("Nanatsumori","Yeah.");
 MsgDisp("主人公","Um...
