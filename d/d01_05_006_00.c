@@ -3,12 +3,12 @@ ScrFadeIn(0);
 VoicePlay("D010500600_05_000");
 MsgDisp("Hiiragi?","Good Morning!");
 VoicePlay("D010500600_40_000");
-MsgDisp("Male Student","Cheese.");
+MsgDisp("School Boy","Cheese.");
 VoicePlay("D010500600_05_010");
 MsgDisp("Hiiragi?","\"Cheese\"?
 That's an interesting greeting?");
 VoicePlay("D010500600_40_010");
-MsgDisp("Male Student","Since we've been cleaning up all morning,
+MsgDisp("School Boy","Since we've been cleaning up all morning,
 I thought it would be better to say hello
 in a more fun way.");
 VoicePlay("D010500600_05_020");

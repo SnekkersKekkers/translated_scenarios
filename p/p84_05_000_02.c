@@ -1,13 +1,13 @@
 ScrFadeIn(0);
 VoicePlay("P840500002_39_000");
-MsgDisp("Male Student","Excuse me!
+MsgDisp("School Boy","Excuse me!
 Do you have any cardboard boxes?");
 MsgDisp("主人公","Yes, in this rental notebook, please write
 your year, class, and number of items
 taken. Then press this counter machine for
 the number of items.");
 VoicePlay("P840500002_39_010");
-MsgDisp("Male Student","OK!
+MsgDisp("School Boy","OK!
 I'll press three times.");
 SEPlay("EV_SE_757");
 SEWait();

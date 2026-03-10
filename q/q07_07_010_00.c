@@ -18,7 +18,7 @@ MsgDisp("Michiru","Mari, are you going to take a bath now
 too?
 If so——");
 VoicePlay("Q070701000_42_000");
-MsgDisp("Male Student","Mikagecchi!
+MsgDisp("School Boy","Mikagecchi!
 The tap is broken!");
 ChMouth(21,2);
 ChMotion(21,0);

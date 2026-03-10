@@ -7,7 +7,7 @@ VoicePlay("F100610000_06_000");
 MsgDisp("Himuro?","I don't know.
 Why don't you ask him yourself?");
 VoicePlay("F100610000_41_000");
-MsgDisp("Male Student","Don't say that, Himuroo～");
+MsgDisp("School Boy","Don't say that, Himuroo～");
 MsgDisp("主人公","...?");
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
 MsgClose();

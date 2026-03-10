@@ -2,7 +2,7 @@ BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("G110501000_40_000");
-MsgDisp("Male Student","Hiiragi, don't leave your slip here.");
+MsgDisp("School Boy","Hiiragi, don't leave your slip here.");
 VoicePlay("G110501000_05_000");
 MsgDisp("Hiiragi","Okay.
 I'll put it into the management book.");

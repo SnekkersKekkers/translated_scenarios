@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     BGOpen("sc605",0);
     ScrFadeIn(0);
     VoicePlay("P830600001_41_000");
-    MsgDisp("Male Student","Excuse meー.
+    MsgDisp("School Boy","Excuse meー.
 Could I get more cardboardー?");
     MsgDisp("主人公","Yes, understood!");
     MsgClose();
@@ -46,7 +46,7 @@ Do you have any spare duct tape?");
     BGOpen("sc605",0);
     ScrFadeIn(0);
     VoicePlay("P830600001_41_020");
-    MsgDisp("Male Student","Excuse meー.
+    MsgDisp("School Boy","Excuse meー.
 Could I get more cardboardー?");
     MsgDisp("主人公","Yes, I got it.");
     MsgClose();

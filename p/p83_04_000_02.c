@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     break ;
     case 3:
     VoicePlay("P830400002_41_000");
-    MsgDisp("Male Student","Crap, I have to hurry!");
+    MsgDisp("School Boy","Crap, I have to hurry!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     SEWait();
     MsgDisp("主人公","Please don't run in the corridorsー!");
@@ -41,7 +41,7 @@ committee.");
     case 4:
     case 5:
     VoicePlay("P830400002_41_010");
-    MsgDisp("Male Student","Hurry!
+    MsgDisp("School Boy","Hurry!
 Next up is the bunny cafe!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     SEWait();

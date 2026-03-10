@@ -1,6 +1,6 @@
 ScrFadeIn(0);
 VoicePlay("P840700005_41_000");
-MsgDisp("Male Student","Sorry, I mistook that for our class's
+MsgDisp("School Boy","Sorry, I mistook that for our class's
 supplies.");
 VoicePlay("P840700005_48_000");
 MsgDisp("School Girl","No that was because ours was put in that
@@ -9,7 +9,7 @@ MsgDisp("主人公","I'm sorry.
 Seems like management's directions were
 wrong.");
 VoicePlay("P840700005_41_020");
-MsgDisp("Male Student","Ehh? is that right.
+MsgDisp("School Boy","Ehh? is that right.
 Get your act together, student council.");
 MsgDisp("主人公","(I'm glad it ended peacefully, but I
 caused confusion for everyone.)");

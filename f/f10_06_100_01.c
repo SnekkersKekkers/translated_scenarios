@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Today's weather is nice too!)
 Then, I'll bring my bento-)");
 VoicePlay("F100610001_41_000");
-MsgDisp("Male Student","Then, I'll leave the rest to you, Himuro!
+MsgDisp("School Boy","Then, I'll leave the rest to you, Himuro!
 Please confirm it with Himurocchi!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 Wait(30,0);

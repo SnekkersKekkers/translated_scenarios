@@ -7,7 +7,7 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     VoicePlay("Q020700000_42_000");
-    MsgDisp("Male Student","Sorry, Mikage-sensei.
+    MsgDisp("School Boy","Sorry, Mikage-sensei.
 We have other plans...");
     VoicePlay("Q020700000_44_000");
     MsgDisp("School Girl","Us too, we're really sorry...");

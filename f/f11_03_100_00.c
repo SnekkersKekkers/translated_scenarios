@@ -41,7 +41,7 @@ VoicePlay("F110310000_03_050");
 MsgDisp("Honda","Welcome to the Quiz Haircut Battle!
 Win the quiz, get a free haircut～");
 VoicePlay("F110310000_39_000");
-MsgDisp("Male Student","What is that, a haircut death match∋");
+MsgDisp("School Boy","What is that, a haircut death match∋");
 VoicePlay("F110310000_03_060");
 MsgDisp("Honda","Welcome!
 Alright, let's have a quiz battle!");

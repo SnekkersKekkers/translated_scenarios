@@ -4,7 +4,7 @@ SEPlay("EV_SE_852",1,0.6);
 ScrFadeIn(0);
 MsgDisp("主人公","(Mmm, that bath felt good...)");
 VoicePlay("D010500700_40_000");
-MsgDisp("Male Student","You've got this, Hiiragi!
+MsgDisp("School Boy","You've got this, Hiiragi!
 You're so good!");
 MsgDisp("主人公","(Eh, ｛Hiiragi＊＊＊｝?)");
 SEStop("EV_SE_852",1);
@@ -29,7 +29,7 @@ VoicePlay("D010500700_38_000");
 MsgDisp("Students","Woah, amazing!");
 SEStop("EV_SE_GAYA_025",2);
 VoicePlay("D010500700_40_020");
-MsgDisp("Male Student","It's not over yet!
+MsgDisp("School Boy","It's not over yet!
 I bet you can't return this serve!
 ...Here!");
 SEPlay("EV_SE_851",0,0.8);
@@ -54,7 +54,7 @@ Wait(15,0);
 MsgDisp("主人公","Ahh∋");
 SEPlay("EV_SE_GAYA_016");
 VoicePlay("D010500700_40_030");
-MsgDisp("Male Student","Ahahaha, don't just suddenly smash it
+MsgDisp("School Boy","Ahahaha, don't just suddenly smash it
 towards the girls!");
 SEStop("EV_SE_GAYA_016",1.5);
 BGMVol(0.5,2);

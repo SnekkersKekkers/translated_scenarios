@@ -81,7 +81,7 @@ VoicePlay("D010100100_44_000");
 MsgDisp("School Girl","Gym is next so I'm going to change～
 Huh, are those two hiding or something?");
 VoicePlay("D010100100_42_010");
-MsgDisp("Male Student","Oy, what are you guys doing behind the
+MsgDisp("School Boy","Oy, what are you guys doing behind the
 curtains∋");
 BGMVol(0.5,2);
 StlClose();

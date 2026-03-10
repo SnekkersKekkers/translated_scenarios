@@ -18,7 +18,7 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,0);
     ScrFadeIn(0);
     VoicePlay("R040200002_39_000");
-    MsgDisp("Male Student","Heey, Sassa!");
+    MsgDisp("School Boy","Heey, Sassa!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -59,7 +59,7 @@ I'm gonna go check it out.");
     ChMotion(2,0);
     ScrFadeIn(0);
     VoicePlay("R040200002_39_010");
-    MsgDisp("Male Student","Heey, Sassa!
+    MsgDisp("School Boy","Heey, Sassa!
 Isn't the food here amazing?");
     ChEye(2,0);
     ChMouth(2,0);

@@ -30,7 +30,7 @@ ChMotion(7,1);
 VoicePlay("Z710700001_07_020");
 MsgDisp("Mikage","I see, you're finally in.");
 VoicePlay("Z710700001_42_010");
-MsgDisp("Male Student","It's been two years in a row for me, you
+MsgDisp("School Boy","It's been two years in a row for me, you
 know～?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -38,7 +38,7 @@ ChMotion(7,0);
 VoicePlay("Z710700001_07_030");
 MsgDisp("Mikage","Wow, isn't that great?");
 VoicePlay("Z710700001_42_020");
-MsgDisp("Male Student","You're saying that?");
+MsgDisp("School Boy","You're saying that?");
 SEPlay("EV_SE_GAYA_016",0,0.9);
 MsgClose();
 ScrFadeOut(0);
@@ -84,7 +84,7 @@ MsgDisp("Mikage","That's right.
 This cow here is Molly, and she's part of
 my family.");
 VoicePlay("Z710700001_42_030");
-MsgDisp("Male Student","Everyone knows that too.");
+MsgDisp("School Boy","Everyone knows that too.");
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863",0,0.6);
 SEPlay("EV_SE_864",0,0.9);

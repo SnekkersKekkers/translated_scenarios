@@ -19,7 +19,7 @@ gym's storage room. Please write your name
 and the number you need here before taking
 them.");
 VoicePlay("P840D00002_39_010");
-MsgDisp("Male Student","Excuse me, I want some cardboard, do you
+MsgDisp("School Boy","Excuse me, I want some cardboard, do you
 have any?");
 MsgDisp("主人公","How many do you need?
 Please give me a moment to prepare them.");

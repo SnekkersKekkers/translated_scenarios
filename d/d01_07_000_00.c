@@ -8,7 +8,7 @@ Once you're finished taking notes, you can
 leave.");
 SEPlay("EV_SE_666",0.8,0.6);
 VoicePlay("D010700000_42_000");
-MsgDisp("Male Student","It's over, time for food!");
+MsgDisp("School Boy","It's over, time for food!");
 VoicePlay("D010700000_44_000");
 MsgDisp("School Girl","Let's go to the cafeteria!");
 MsgDisp("主人公","(Phew...

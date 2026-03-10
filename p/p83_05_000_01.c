@@ -13,13 +13,13 @@ materials management record...)");
     SEPlay("EV_SE_DOOR_013");
     SEWait();
     VoicePlay("P830500001_39_000");
-    MsgDisp("Male Student","Excーuse me!
+    MsgDisp("School Boy","Excーuse me!
 I would like some masking tape please!");
     MsgDisp("主人公","Yeーs!
 Please enter your year, class and name,
 then take the one on the shelf.");
     VoicePlay("P830500001_39_010");
-    MsgDisp("Male Student","Understood!
+    MsgDisp("School Boy","Understood!
 Then, I'll take this.");
     MsgDisp("主人公","(Phew, this year I'm in charge of
 materials.
@@ -52,13 +52,13 @@ materials management record...");
     SEPlay("EV_SE_DOOR_013");
     SEWait();
     VoicePlay("P830500001_39_020");
-    MsgDisp("Male Student","Excuse meー!
+    MsgDisp("School Boy","Excuse meー!
 I would like some masking tape and some
 garbage bags!");
     MsgDisp("主人公","Yeーs!
 Please take the ones on the shelf.");
     VoicePlay("P830500001_39_030");
-    MsgDisp("Male Student","Huh?
+    MsgDisp("School Boy","Huh?
 But neither of them are there.");
     MsgDisp("主人公","Ehhh∋");
     SEPlay("EV_SE_DOOR_013");
@@ -71,7 +71,7 @@ But neither of them are there.");
     MsgDisp("Hiiragi","Yes, here's the masking tape and garbage
 bags.");
     VoicePlay("P830500001_39_040");
-    MsgDisp("Male Student","Hiiragi, thank you!
+    MsgDisp("School Boy","Hiiragi, thank you!
 I'm borrowing this!");
     ChEye(5,0);
     ChMotion(5,0);

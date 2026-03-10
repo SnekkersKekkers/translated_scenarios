@@ -11,7 +11,7 @@ MsgDisp("Mikage","Alright, today's extracurricular activity
 is at the aquarium. Don't get too wild,
 you guys.");
 VoicePlay("B030703000_42_000");
-MsgDisp("Male Student","Okaay.");
+MsgDisp("School Boy","Okaay.");
 VoicePlay("B030703000_44_000");
 MsgDisp("School Girl","Let's go, let's go!");
 SEStop("EV_SE_566",1);

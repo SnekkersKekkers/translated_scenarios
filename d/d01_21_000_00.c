@@ -18,20 +18,20 @@ VoicePlay("D012100000_21_000");
 MsgDisp("Michiru","Uhm...
 Is there something on my face?");
 VoicePlay("D012100000_40_000");
-MsgDisp("Male Student","No, that...
+MsgDisp("School Boy","No, that...
 You're just really cute...");
 StlEyeOpenLevel(21,5,1);
 VoicePlay("D012100000_21_010");
 MsgDisp("Michiru","Eh?
 No way...");
 VoicePlay("D012100000_40_010");
-MsgDisp("Male Student","Uhm, Michiru Hanatsubaki-san!");
+MsgDisp("School Boy","Uhm, Michiru Hanatsubaki-san!");
 StlEyeOpenLevel(21,0,1);
 VoicePlay("D012100000_21_020");
 MsgDisp("Michiru","I can hear you so you don't need to be so
 loud...");
 VoicePlay("D012100000_40_020");
-MsgDisp("Male Student","Sorry!
+MsgDisp("School Boy","Sorry!
 I've, uhm...for a long time now...
 I've had a crush on you!");
 StlEye(21,1);
@@ -41,7 +41,7 @@ StlEyeOpenLevel(21,5,1);
 VoicePlay("D012100000_21_040");
 MsgDisp("Michiru","Me...?");
 VoicePlay("D012100000_40_030");
-MsgDisp("Male Student","Yes.
+MsgDisp("School Boy","Yes.
 So...
 Will you please go out with me?");
 StlEyeOpenLevel(21,0,1);
@@ -53,13 +53,13 @@ StlEye(21,0);
 VoicePlay("D012100000_21_060");
 MsgDisp("Michiru","Even if you say something like that, I...");
 VoicePlay("D012100000_40_040");
-MsgDisp("Male Student","...Do you maybe already like another guy?");
+MsgDisp("School Boy","...Do you maybe already like another guy?");
 StlEyeOpenLevel(21,5,1);
 VoicePlay("D012100000_21_070");
 MsgDisp("Michiru","That's not it.
 But this uhm...is troubling.");
 VoicePlay("D012100000_40_050");
-MsgDisp("Male Student","It's fine if you don't reply right away.
+MsgDisp("School Boy","It's fine if you don't reply right away.
 I'll...
 I'll wait for you forever!");
 StlEyeOpenLevel(21,0,1);

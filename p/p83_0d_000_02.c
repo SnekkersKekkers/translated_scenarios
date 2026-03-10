@@ -42,7 +42,7 @@ ChMotion(21,4);
 VoicePlay("P830D00002_21_020");
 MsgDisp("Michiru","I'll leave it to you.");
 VoicePlay("P830D00002_39_000");
-MsgDisp("Male Student","Excuse meー.
+MsgDisp("School Boy","Excuse meー.
 I brought along a lost kidー.");
 ChEye(22,0);
 ChMouth(22,3);

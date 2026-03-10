@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Hmm, the weather is nice today too!
 I'll go eat lunch on the rooft—)");
 VoicePlay("F100610002_41_000");
-MsgDisp("Male Student","Finally got some useful information!
+MsgDisp("School Boy","Finally got some useful information!
 Thank you, Himuro!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 SEWait();

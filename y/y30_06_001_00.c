@@ -28,7 +28,7 @@ immediately circled 'advance onto
 high school'.");
 MsgClear();
 VoicePlay("Y300600100_42_000");
-MsgDisp("Male Student","\"Must be nice to be Himuroー, the high
+MsgDisp("School Boy","\"Must be nice to be Himuroー, the high
 school's vice principal is his
 relative.\"");
 MsgDisp("","After homeroom endedー, immediately
@@ -38,14 +38,14 @@ MsgDisp("","When I looked up, the class clown was
 looking at me, smiling happily.");
 MsgClear();
 VoicePlay("Y300600100_42_010");
-MsgDisp("Male Student","\"Not only can you get in through
+MsgDisp("School Boy","\"Not only can you get in through
 connections, won't you also get
 various kinds of favourable
 treatments?\"");
 VoicePlay("Y300600100_06_000");
 MsgDisp("Himuro","\"...Ha?\"");
 VoicePlay("Y300600100_42_020");
-MsgDisp("Male Student","\"You know, like getting the test
+MsgDisp("School Boy","\"You know, like getting the test
 questions leaked to you or
 something.\"");
 MsgClear();
@@ -58,7 +58,7 @@ MsgClear();
 VoicePlay("Y300600100_06_010");
 MsgDisp("Himuro","\"...How ridiculous.\"");
 VoicePlay("Y300600100_42_030");
-MsgDisp("Male Student","\"Eh?\"");
+MsgDisp("School Boy","\"Eh?\"");
 VoicePlay("Y300600100_06_020");
 MsgDisp("Himuro","Just listening to you is a waste of
 time.");

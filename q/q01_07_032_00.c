@@ -8,7 +8,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("Q010703200_07_000");
 MsgDisp("Mikage","Alright, fun's over—!");
 VoicePlay("Q010703200_42_000");
-MsgDisp("Male Student","Crap, it's Mikage-sensei!");
+MsgDisp("School Boy","Crap, it's Mikage-sensei!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -39,7 +39,7 @@ ChMouth(7,0);
 VoicePlay("Q010703200_07_030");
 MsgDisp("Mikage","Ah...");
 VoicePlay("Q010703200_42_030");
-MsgDisp("Male Student","Yikes, it's the Vice Principal∈ Everyone,
+MsgDisp("School Boy","Yikes, it's the Vice Principal∈ Everyone,
 hide!");
 SEPlay("EV_SE_739",0,0.6);
 MsgClose();

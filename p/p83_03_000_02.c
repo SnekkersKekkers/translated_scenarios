@@ -11,7 +11,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("主人公","Yes, then I'll return this to you.
 Be careful not to lose your belongings.");
     VoicePlay("P830300002_39_000");
-    MsgDisp("Male Student","Thank you very much!");
+    MsgDisp("School Boy","Thank you very much!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -60,7 +60,7 @@ ticket...)");
     MsgDisp("主人公","Yes, then I'll return this to you.
 Be careful not to lose your belongings.");
     VoicePlay("P830300002_39_010");
-    MsgDisp("Male Student","Thank you very much!");
+    MsgDisp("School Boy","Thank you very much!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

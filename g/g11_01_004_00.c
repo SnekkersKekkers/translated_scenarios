@@ -38,7 +38,7 @@ stand proudly, and loudly.");
 MsgDisp("主人公","Y-Yeah.
 You say that but...");
 VoicePlay("G110100400_41_000");
-MsgDisp("Male Student","Isn't that the Rose Queen-senpai over
+MsgDisp("School Boy","Isn't that the Rose Queen-senpai over
 there?");
 ChEye(1,0);
 ChMouth(1,0);
@@ -63,7 +63,7 @@ VoicePlay("G110100400_01_040");
 MsgDisp("Kazama?","Hey, I can hear everything you guys are
 saying!");
 VoicePlay("G110100400_41_020");
-MsgDisp("Male Student","We're very sorry.");
+MsgDisp("School Boy","We're very sorry.");
 VoicePlay("G110100400_48_010");
 MsgDisp("School Girl","Please excuse us.");
 MsgDisp("主人公","(｛Kazama＊＊｝ is so loud...everyone is

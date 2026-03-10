@@ -46,7 +46,7 @@ awake.");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 VoicePlay("F100110002_42_000");
-MsgDisp("Male Student","Take your seats.");
+MsgDisp("School Boy","Take your seats.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

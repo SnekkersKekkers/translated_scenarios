@@ -140,7 +140,7 @@ Is it okay?\"");
 SEPlay("EV_SE_741",1);
 SEPlay("EV_SE_793",1,0.6);
 VoicePlay("Y300700200_42_020");
-MsgDisp("Male Student","\"As expected of Mikagecchi!\"");
+MsgDisp("School Boy","\"As expected of Mikagecchi!\"");
 VoicePlay("Y300700200_44_010");
 MsgDisp("Girl A","\"I want to see Mikage-sensei as the
 lead!\"");

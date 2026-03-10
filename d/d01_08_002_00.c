@@ -50,7 +50,7 @@ SEPlay("EV_SE_GAYA_003",0.5);
 ScrFadeIn(0);
 MsgDisp("主人公","It's ｛Daichi＊＊｝ ∈");
 VoicePlay("D010800200_42_020");
-MsgDisp("Male Student","Go Daichi!");
+MsgDisp("School Boy","Go Daichi!");
 MsgDisp("主人公","(I feel like he might be able to catch up
 to ｛Sassa＊＊｝!)");
 MsgDisp("主人公","(What should I do...

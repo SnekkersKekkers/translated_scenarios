@@ -3,7 +3,7 @@ ChLayout(1);
 SEPlay("EV_SE_736",1,0.4);
 ScrFadeIn(0);
 VoicePlay("D010300100_42_000");
-MsgDisp("Male Student","I can't believe you have a poster.
+MsgDisp("School Boy","I can't believe you have a poster.
 That's amazing, Honda!");
 VoicePlay("D010300100_44_000");
 MsgDisp("School Girl","Iku-kun is really cool∈");
@@ -43,7 +43,7 @@ across the country?");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300100_42_020");
-MsgDisp("Male Student","Wow, we have a famous person!
+MsgDisp("School Boy","Wow, we have a famous person!
 Honda, can I get your autograph?");
 VoicePlay("D010300100_44_010");
 MsgDisp("School Girl","Us too!");

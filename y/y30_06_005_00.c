@@ -36,14 +36,14 @@ BGOpen("ad651",0);
 EnvPlay("SE_ENV_BG_SC510_CS0",1);
 ScrFadeIn(0);
 VoicePlay("Y300600500_40_000");
-MsgDisp("Male Student","\"Ah, Himuro-senpai!
+MsgDisp("School Boy","\"Ah, Himuro-senpai!
 Just the person I needed.\"");
 MsgDisp("","Just as I was coming out the
 staffroom, having finished some
 business, a junior suddenly called
 out to me.");
 VoicePlay("Y300600500_40_010");
-MsgDisp("Male Student","\"Could you do a final check of the
+MsgDisp("School Boy","\"Could you do a final check of the
 program order?\"");
 VoicePlay("Y300600500_06_000");
 MsgDisp("Himuro","Of course.");
@@ -104,7 +104,7 @@ MsgDisp("Himuro","\"Yeah, good. With this order,
 progression will be smooth.
 Excellent.\"");
 VoicePlay("Y300600500_40_020");
-MsgDisp("Male Student","\"Is it really?!
+MsgDisp("School Boy","\"Is it really?!
 I'm glad!
 Thank you very much, senpai!\"");
 MsgDisp("","I couldn't help but smile back at the
@@ -112,12 +112,12 @@ junior who was smiling so
 delightfully.");
 MsgClear();
 VoicePlay("Y300600500_40_030");
-MsgDisp("Male Student","\"Umm...actually, I always thought
+MsgDisp("School Boy","\"Umm...actually, I always thought
 Himuro-senpai was a scary person.\"");
 VoicePlay("Y300600500_06_020");
 MsgDisp("Himuro","\"Eh?\"");
 VoicePlay("Y300600500_40_040");
-MsgDisp("Male Student","\"But, that was completely wrong.
+MsgDisp("School Boy","\"But, that was completely wrong.
 You're reliable, and cool!\"");
 VoicePlay("Y300600500_06_030");
 MsgDisp("Himuro","T...

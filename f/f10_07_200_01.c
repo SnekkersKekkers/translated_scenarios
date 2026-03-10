@@ -106,7 +106,7 @@ VoicePlay("F100720001_07_050");
 MsgDisp("Mikage","It's about time for the curtains to raise
 for \"Biology Basics\".");
 VoicePlay("F100720001_42_000");
-MsgDisp("Male Student","Curtain rises?
+MsgDisp("School Boy","Curtain rises?
 Mikagecchi, what's wrong?");
 MsgDisp("主人公","(Hehe!
 It looks like ｛Mikage＊＊｝ is trying to

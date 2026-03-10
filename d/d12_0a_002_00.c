@@ -111,7 +111,7 @@ SEPlay("EV_SE_792",0.2);
 SEPlay("EV_SE_793",0.2);
 Wait(50,0);
 VoicePlay("D120A00200_42_030");
-MsgDisp("Male Student","Sassa is amazing!
+MsgDisp("School Boy","Sassa is amazing!
 So fast!");
 VoicePlay("D120A00200_44_000");
 MsgDisp("School Girl","Ah, Kazama's going to lose!");
@@ -134,7 +134,7 @@ MsgDisp("Sassa","Thank you!
 It's been a while since I raced with
 Ryota, so it was fun.");
 VoicePlay("D120A00200_42_050");
-MsgDisp("Male Student","As expected of the Track and Field Club's
+MsgDisp("School Boy","As expected of the Track and Field Club's
 Ace!");
 VoicePlay("D120A00200_44_010");
 MsgDisp("School Girl","Yeah, Sassa-kun was amazing!");

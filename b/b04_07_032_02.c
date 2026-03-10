@@ -52,7 +52,7 @@ But you know, your voice is pretty loud
 too.");
         MsgDisp("主人公","Ehhh∈");
         VoicePlay("B040703202_42_000");
-        MsgDisp("Male Student","Aren't you two being way louder than the
+        MsgDisp("School Boy","Aren't you two being way louder than the
 rest of us?");
         SEPlay("EV_SE_GAYA_016",0.01,0.5);
         Wait(100,0);

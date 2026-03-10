@@ -17,7 +17,7 @@ enough blackout curtains.");
 MsgDisp("主人公","Eh, blackout curtains?
 Umm, where do we...store them again?");
 VoicePlay("P840D00003_39_010");
-MsgDisp("Male Student","Excuse meー!
+MsgDisp("School Boy","Excuse meー!
 The cardboard I requested hasn't been
 delivered.");
 MsgDisp("主人公","Requested cardboard...?

@@ -103,7 +103,7 @@ ChEyeOpenLevel(5,0);
 SEPlay("EV_SE_DOOR_013");
 SEWait();
 VoicePlay("G110500300_40_000");
-MsgDisp("Male Student","Please excuse me.
+MsgDisp("School Boy","Please excuse me.
 Oh, are both of you working together?
 I appreciate the hard work.");
 ChEye(5,2);

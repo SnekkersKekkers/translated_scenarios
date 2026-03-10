@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("主人公","Please make an announcement for lost
 children every five minutes.");
     VoicePlay("P830500002_40_000");
-    MsgDisp("Male Student","Ah, yes!");
+    MsgDisp("School Boy","Ah, yes!");
     MsgDisp("主人公","Let's discuss the issue of the class that
 was quarreling over the noise with a small
 group after this.");
@@ -50,7 +50,7 @@ I have to leave room to enjoy myself too!)");
     MsgDisp("主人公","Please make an announcement for lost
 children every five minutes.");
     VoicePlay("P830500002_40_020");
-    MsgDisp("Male Student","Ah, yes!");
+    MsgDisp("School Boy","Ah, yes!");
     MsgDisp("主人公","How is the matter regarding the signboards
 giving wrong information?");
     VoicePlay("P830500002_48_010");
