@@ -40,8 +40,7 @@ ChMotion(7,0);
 VoicePlay("G110700400_07_030");
 MsgDisp("Mikage","As expected.
 Aren't you feeling a bit tired?");
-MsgDisp("主人公","Eh?
-But that's not true...");
+MsgDisp("主人公","Eh?\nNot really...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
