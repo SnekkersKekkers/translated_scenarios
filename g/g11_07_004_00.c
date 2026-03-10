@@ -59,9 +59,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_060");
-MsgDisp("Mikage","Plant leaves have scent sachets, which
-bugs dislike, but have a relaxing effect
-on people.");
+MsgDisp("Mikage","Plant leaves have scent sachets, which\nbugs dislike. They have a relaxing effect\non people, though.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
