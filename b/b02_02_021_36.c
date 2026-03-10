@@ -10,8 +10,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B020202136_02_010");
-MsgDisp("Sassa","There's other girls wearing it too, but
-they're no threat to you, right?");
+MsgDisp("Sassa","There's other girls wearing it too, but\nthey're no match for you, huh?");
 MsgDisp("主人公","Huh?");
 ChEye(2,3);
 ChMouth(2,4);
