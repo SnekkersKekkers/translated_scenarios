@@ -45,17 +45,16 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C03300_05_010");
-MsgDisp("Hiiragi","Yes, it would be optimal for both my
-weight and height to remain the same.
-Otherwise, the costumes will no longer
-fit.");
+MsgDisp("Hiiragi","Yes, ideally both my weight and height
+would stay the same.
+Otherwise, the costumes won't fit.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C03300_07_010");
-MsgDisp("Mikage","I see. If, like Yanosuke you take female
-roles as well, the amount of costumes
-needed must be staggering.");
+MsgDisp("Mikage","I see.
+If you also play female roles like
+Yanosuke, the costume count must be huge.");
 ChEye(5,0);
 ChEye(6,0);
 ChMouth(6,0);
@@ -76,10 +75,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C03300_07_020");
-MsgDisp("Mikage","Oh. But you know, it goes for both people
-and vegetables that even if they're big,
-there's no point if they have a hollow
-inside.");
+MsgDisp("Mikage","Oh. But you know, for both people and
+vegetables, being big means nothing if
+you're hollow inside.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

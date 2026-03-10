@@ -54,10 +54,9 @@ ChMotion(3,0,1);
 VoicePlay("D140B04100_03_030");
 MsgDisp("Honda","Ehhh. It must be convenient to have your
 house so close by. ...Right?");
-MsgDisp("主人公","(It's definitely convenient but it's a
-big shock when you forget something. I'm
-sure ｛Kazama＊＊｝ is super frustrated
-about now...)");
+MsgDisp("主人公","(It's convenient, but forgetting something
+is rough... I'm sure ｛Kazama＊＊｝ is super
+frustrated right about now.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

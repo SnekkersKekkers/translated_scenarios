@@ -91,8 +91,7 @@ VoicePlay("D010800200_08_010");
 MsgDisp("Shirahane","Ya really came!
 That makes me happy!");
 MsgDisp("主人公","I saw it.
-The 400m race was really exciting all the
-way to the end!");
+The 400m race was so close at the end!");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);

@@ -25,8 +25,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B04102_01_010");
 MsgDisp("Kazama","I'm not talking about that.
-I'm talking about your incessant
-machine-gun rapid questions.");
+I'm talking about your non-stop rapid-fire
+questions.");
 MsgDisp("主人公","Ahaha...");
 ChEye(3,0);
 ChMouth(3,4);

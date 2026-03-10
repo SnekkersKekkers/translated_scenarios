@@ -39,10 +39,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("D210000110_31_010");
-MsgDisp("Goro","Hehe, it's a beautiful place, right?
-Thanks to the reconstruction of the dam, I
-heard there will be a lot more fireflies
-now in the summer.");
+MsgDisp("Goro","Hehe, it's a beautiful place, right? 
+Thanks to the reconstruction of the dam,
+I heard there will be lots more fireflies in summer.");
 MsgDisp("主人公","Fireflies!
 That's amazing!");
 ChEye(31,4);

@@ -29,8 +29,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("D010700500_07_010");
-MsgDisp("Mikage","An honest girl is working hard, so I came
-here to help.");
+MsgDisp("Mikage","My favorite hard worker is studying away,
+so I came to help.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,0);
@@ -60,8 +60,8 @@ Will it really be alright, though?");
 StlEye(7,0,0);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("D010700500_07_050");
-MsgDisp("Mikage","An honest girl can do anything she tries,
-can't she?");
+MsgDisp("Mikage","A hard worker like you can do anything
+she puts her mind to, right?");
 MsgDisp("主人公","Y-Yeah...");
 MsgClose();
 ScrFadeOut(0);

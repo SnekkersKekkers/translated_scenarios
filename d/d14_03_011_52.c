@@ -1,6 +1,6 @@
 ChSet(3,3);
 VoicePlay("D140301152_03_000");
-MsgDisp("Honda","Bing Bong!
+MsgDisp("Honda","Ding-ding-ding!
 Correct choice!
 This is definitely the best one.");
 ChEye(3,0);

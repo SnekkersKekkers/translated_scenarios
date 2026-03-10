@@ -96,7 +96,7 @@ MsgDisp("Kazama","I don't need any explanation.
 It's just natural.");
 StlEyeOpenLevel(4,#1);
 VoicePlay("D120B00200_04_030");
-MsgDisp("Nanatsumori","You're making a move, huh...");
+MsgDisp("Nanatsumori","So you're being shameless about it, huh...");
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00200_03_030");
 MsgDisp("Honda","You're more aggressive than usual...");

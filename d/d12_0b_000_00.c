@@ -116,8 +116,8 @@ MsgDisp("主人公","(It seems so!
 But using my hair clip...)");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("D120B00000_01_040");
-MsgDisp("Kazama","...Hey, we're done here.
-So you can take it off now——");
+MsgDisp("Kazama","...Hey, this looks silly on me, right?
+So I can take it off now—");
 StlEyeOpenLevel(4,5,1);
 VoicePlay("D120B00000_04_060");
 MsgDisp("Nanatsumori","No.");

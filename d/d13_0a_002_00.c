@@ -5,8 +5,8 @@ MsgClose();
 BGOpen("sc300",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I don't have much time left learning in
-this classroom...)");
+MsgDisp("主人公","(I won't be able to study in this
+classroom for much longer...)");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -110,8 +110,7 @@ ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("D130A00200_02_060");
 MsgDisp("Sassa","Okay.
-Then, let's go home without Ryota, shall
-we?");
+Let's head home without Ryota, then?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();

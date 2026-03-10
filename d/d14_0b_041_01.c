@@ -30,7 +30,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B04101_01_010");
 MsgDisp("Kazama","Even the fussy Nanatsumori is content.");
 ChEye(1,0);
-MsgDisp("主人公","Heh");
+MsgDisp("主人公","Hehe.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -41,8 +41,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D140B04101_01_020");
-MsgDisp("Kazama","I'm guessing he's talking to his work.
-He was taking notes whilst he was on the
+MsgDisp("Kazama","He was probably on a work call.
+He was taking notes while he was on the
 phone.");
 MsgDisp("主人公","So that's how it is.");
 ChEye(1,4);

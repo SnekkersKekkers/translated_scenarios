@@ -179,9 +179,9 @@ You make me feel so fulfilled.");
     ChMouth(9,0);
     ChMotion(9,4,1);
     VoicePlay("D030900900_09_200");
-    MsgDisp("Kuya","For the two of us being able to benefit
-each other and work towards goals like
-this, I just want to say ...Thank you.");
+    MsgDisp("Kuya","We've been pushing each other to improve,
+little by little, and now we have a goal.
+Thank you.");
     MsgDisp("主人公","It's nothing...");
     ChEye(9,3);
     ChMouth(9,0);

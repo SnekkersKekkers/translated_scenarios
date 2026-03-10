@@ -19,7 +19,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010700600_07_020");
-MsgDisp("Mikage","Did you not have something better to do
+MsgDisp("Mikage","You didn't have anything more fun to do
 today?");
 MsgDisp("主人公","Nothing in particular. But you know, isn't
 it fun to hang out with your friends and

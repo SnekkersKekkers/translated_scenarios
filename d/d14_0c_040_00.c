@@ -30,10 +30,9 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C04000_07_010");
 MsgDisp("Mikage","I want him to get a perfect score.");
-MsgDisp("主人公","That's right. He's not only working very
-hard at the student council and the
-theatre troupe, but giving his all to
-study too.");
+MsgDisp("主人公","That's right.
+He works so hard at student council and
+the theater troupe, and studies hard too.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

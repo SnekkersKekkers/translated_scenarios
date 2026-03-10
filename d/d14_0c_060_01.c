@@ -72,8 +72,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C06001_05_050");
-MsgDisp("Hiiragi","The first thing he'll say is...\"
-What are you all so solemn for\".");
+MsgDisp("Hiiragi","The first thing he'll say is...
+\"What are you all so sad about?\"");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

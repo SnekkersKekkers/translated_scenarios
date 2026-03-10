@@ -58,7 +58,7 @@ ChOpen(5,254,4,2,4,0,#1,0,0,0,30);
 VoicePlay("D130C00000_05_010");
 MsgDisp("Hiiragi","Those two have been like that since this
 morning.");
-MsgDisp("主人公","Hehe, that's how they're like.");
+MsgDisp("主人公","Hehe, that's what they've been like?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

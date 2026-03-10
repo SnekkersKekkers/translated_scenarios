@@ -17,10 +17,9 @@ this?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("D140301101_03_010");
-    MsgDisp("Honda","We could have ordered different things and
-swapped, but it's nice that now we ordered
-the same thing, we can eat together and
-share our thoughts.");
+    MsgDisp("Honda","We could've ordered different things and
+swapped, but eating the same thing and
+sharing our thoughts is nice too.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);

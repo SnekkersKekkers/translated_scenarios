@@ -40,8 +40,8 @@ StlEyeOpenLevel(5,5,1);
 VoicePlay("D010500400_05_020");
 MsgDisp("Hiiragi","...That is not possible.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, everyone is looking forward
-to it. Me too, I want to see the
-performance with ｛Hiiragi＊＊＊｝.");
+to it. Me too...
+I want to put on a show with you.");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();

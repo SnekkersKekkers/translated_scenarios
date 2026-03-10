@@ -9,10 +9,10 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("D140D07050_21_000");
-MsgDisp("Michiru","Even as a man, he looks like a beautiful
-woman even to women.
-That's the sort of life he lives.");
-MsgDisp("主人公","The sort of life he lives...
+MsgDisp("Michiru","He's beautiful as a man, and even from a
+woman's perspective.
+It's his way of life.");
+MsgDisp("主人公","His way of life...
 It's definitely something that's
 unthinkable normally.");
 ChEye(22,3);
@@ -38,8 +38,8 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07050_21_020");
 MsgDisp("Michiru","When you're in a position of authority,
-you need to be prepared to sacrifice
-yourself for those who are under you.");
+you need the resolve to protect your
+people, even at the cost of yourself.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,2,1);

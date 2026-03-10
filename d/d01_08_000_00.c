@@ -126,7 +126,7 @@ brothers▼");
 StlEyeOpenLevel(9,0,1);
 VoicePlay("D010800000_09_040");
 MsgDisp("Kuya","That's right.
-Well then, we're in a hurry.");
+Anyway, we've gotta run.");
 StlEyeOpenLevel(9,#1);
 VoicePlay("D010800000_33_020");
 MsgDisp("Student B","Daichi!
@@ -206,9 +206,9 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("D010800000_08_150");
-MsgDisp("Daichi","It's really nice of you to come with us
-today. We'll talk more later so look
-forward to it!");
+MsgDisp("Daichi","Thanks so much for hangin' out with us
+today. I'll hit you up later.
+See ya!");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_856");

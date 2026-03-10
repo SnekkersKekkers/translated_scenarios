@@ -79,8 +79,8 @@ ChMotion(4,1,1);
 VoicePlay("D140B03400_04_030");
 MsgDisp("Nanatsumori","I'm ready to eat now.");
 MsgDisp("主人公","(Everyone's eyes are serious...
-I was thinking after lunch but. maybe it's
-better to bring it out now?)");
+I was going to save it for after lunch,
+but maybe I should bring it out now?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

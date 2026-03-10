@@ -34,9 +34,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("D140D07060_22_030");
-MsgDisp("Hikaru","Even for Big sis, if our uncle was in the
-same school as us every day, it would sure
-be tough, don't you think?");
+MsgDisp("Hikaru","Even for big sis, if our uncle was at the
+same school as us every day, it'd be
+pretty tough, don't you think?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2);

@@ -44,8 +44,8 @@ EfctOpen(6);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","∋ Wait...
-No way... Ryo—!?
-｛Kazama＊＊｝?");
+No way...
+Ryo—!? ｛Kazama＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);
 Wait(30,1);

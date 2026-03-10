@@ -1,8 +1,8 @@
 BGOpen("sc310",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's time for lunch.
-Shall we eat on the rooftop today?)");
+MsgDisp("主人公","(I brought a bento today.
+Shall I eat it on the rooftop today?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);

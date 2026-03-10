@@ -18,7 +18,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("D140D07061_22_000");
 MsgDisp("Hikaru","Eh, Mari likes younger guys?
-Is she in love?");
+Are you in love?");
 MsgDisp("主人公","Hey.
 ｛ひかる＊｝, you're overthinking it!");
 ChEye(22,0);

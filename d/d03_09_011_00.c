@@ -116,7 +116,7 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030901100_09_110");
 MsgDisp("Kuya","What a relief.
-Let's work hard in \"study\"ing and in art
+Let's work hard on \"studies\" and \"art\"
 and aim for a first-rate university!");
 MsgDisp("主人公","Yes!");
 ChEye(9,2);

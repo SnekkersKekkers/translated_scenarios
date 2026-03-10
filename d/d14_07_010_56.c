@@ -3,8 +3,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D140701056_07_000");
 MsgDisp("Mikage","I got it too.
-I want to eat these beautiful vegetables
-plainly.");
+Beautiful veggies like these, you just
+want to bite right into them.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

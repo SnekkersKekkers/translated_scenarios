@@ -49,11 +49,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A04102_02_030");
-MsgDisp("Sassa","Ah, but the other day, he was being
-praised by a teacher in the hallway and
-made an absurdly scary face, he was
-probably trying to hold back in his own
-way.");
+MsgDisp("Sassa","Ah, but the other day, a teacher praised
+him in the hallway and he made the
+scariest face. He was holding back though.");
 ChMouth(1,2);
 MsgDisp("主人公","Eh?
 He was being praised though, wasn't he?");
@@ -99,10 +97,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A04102_02_070");
-MsgDisp("Sassa","It may seem like he's speaking what's on
-his mind very clearly to everyone and
-anyone, but he definitely has some
-boundaries that won't be crossed.");
+MsgDisp("Sassa","It may seem like he says whatever's on his
+mind to anyone, but he definitely has his
+own boundaries.");
 MsgDisp("主人公","Yeah.
 I'm sure ｛Himuro＊＊｝ trusts you two deeply.");
 ChEye(1,0);

@@ -44,10 +44,9 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("D140B06100_03_030");
-MsgDisp("Honda","Eh—! I want to hear! Recently, I've been
-interested in people's psychological
-states. I want to know how love changes
-people's state of mind.");
+MsgDisp("Honda","Eh—! I want to hear! I've been into
+psychology lately. I want to know how love
+changes people's state of mind.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);

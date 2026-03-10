@@ -86,8 +86,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140B04002_01_040");
-MsgDisp("Kazama","Honda, you can't since both chocolate and
-cream are sweet breads.");
+MsgDisp("Kazama","Honda, no chocolate or cream pastries,
+got it?");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);

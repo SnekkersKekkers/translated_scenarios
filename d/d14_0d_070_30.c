@@ -41,8 +41,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07030_22_020");
 MsgDisp("Hikaru","Right, right!
-I occasionally heard that a first year was
-reading library books!");
+Hikaru heard he read through all the
+library books in his first year!");
 MsgDisp("主人公","(Amazing!
 Like I thought, ｛Honda＊＊｝ really likes
 to study...)");

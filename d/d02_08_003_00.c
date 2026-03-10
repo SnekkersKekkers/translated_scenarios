@@ -63,8 +63,9 @@ VoicePlay("D020800300_08_060");
 MsgDisp("Shirahane","｛主人公｝ is smiling brightly today too!
 I won't lose to you!");
 ChEyeOpenLevel(8,#1);
-MsgDisp("主人公","Haha! It seems you won't! ...I mean, your
-smile is way brighter than mine.");
+MsgDisp("主人公","Haha! That doesn't sound like you!
+...I mean, your smile is way brighter
+than mine.");
 ChEye(8,3);
 ChMouth(8,4);
 ChMotion(8,2,1);

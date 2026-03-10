@@ -47,7 +47,7 @@ ChMotion(2,3);
 VoicePlay("D130A00100_02_010");
 MsgDisp("Sassa","After all, the three of us are lined up in
 our best suits.
-If it were me, I would probably laugh too?");
+I'd probably laugh too?");
 MsgDisp("主人公","Hehe, yeah.
 You all look cool though.");
 ChEye(1,0);
@@ -60,7 +60,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D130A00100_06_020");
-MsgDisp("Himuro","Ryota-senpai has that kind of thing
+MsgDisp("Himuro","Ryota-senpai's got that side to him,
 doesn't he?");
 ChEyeOpenLevel(1,0);
 ChCheek(1,5);
@@ -81,8 +81,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130A00100_06_030");
-MsgDisp("Himuro","Then let's have our rankings be defined
-clearly right here, right now.");
+MsgDisp("Himuro","Then why don't we have her rank us
+right here, right now?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);

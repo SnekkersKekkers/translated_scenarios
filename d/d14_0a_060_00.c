@@ -44,8 +44,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A06000_02_020");
-MsgDisp("Sassa","Inori, are you taking this time whilst
-Ryota isn't here to appeal?");
+MsgDisp("Sassa","Inori, are you using Ryota's absence to
+make your move?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

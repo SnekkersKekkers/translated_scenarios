@@ -24,7 +24,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D100510000_05_030");
-MsgDisp("Hiiragi","If it's fine, would you like to sit on
+MsgDisp("Hiiragi","Since we're here, would you like to sit on
 that bench and chat?");
 MsgDisp("主人公","Hehe, sure.");
 ChEye(5,4);

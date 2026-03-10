@@ -3,9 +3,9 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140101061_01_000");
-MsgDisp("Kazama","Ah, we matched... It's not about what's
-effective, it's just popular, right?
-They had some left, so I ordered it.");
+MsgDisp("Kazama","Ah, we matched on this...
+It's not for the superstition, it's just
+popular, right? They had some left.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

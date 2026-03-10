@@ -44,9 +44,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("D130C00002_07_020");
-MsgDisp("Mikage","Right. With the three of us altogether,
-it'll be tough for you too right? Then,
-we're all going now.");
+MsgDisp("Mikage","Right. With the three of us together,
+it'd be hard on you too, right?
+Alright, we're heading out.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
 BGMStop();

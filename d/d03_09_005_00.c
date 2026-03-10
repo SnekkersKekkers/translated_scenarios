@@ -179,8 +179,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900500_09_180");
 MsgDisp("Kuya","Yeah, good luck.");
-MsgDisp("主人公","(Interviewing Mr.\"Jack of All Trades\" was
-really hard. I kept getting caught up in
-everything happening...)");
+MsgDisp("主人公","(Being a \"Jack of All Trades\" is really
+tough. I got caught up in so many things
+that I couldn't interview Kuya-san at all...)");
 MsgClose();
 ScrFadeOut(0,0);

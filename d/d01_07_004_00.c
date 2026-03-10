@@ -93,7 +93,7 @@ MsgDisp("主人公","Eh...
 Ehh∋");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700400_07_080");
-MsgDisp("Mikage","Come on, say something!");
+MsgDisp("Mikage","Come on, just say it!");
 MsgDisp("主人公","Uhm...
 I-I love ｛Mikage＊＊｝ too!");
 StlNear(1,0,15);

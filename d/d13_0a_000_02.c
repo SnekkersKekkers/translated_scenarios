@@ -7,7 +7,7 @@ ChOpen(2,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(1,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah, what's up?
-Everyone's altogether.");
+Everyone's all here.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

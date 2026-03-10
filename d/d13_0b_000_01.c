@@ -8,9 +8,8 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("D130B00001_04_000");
-MsgDisp("Nanatsumori","Ah...they're holding quite a lot of
-things.
-Maybe...it's there.");
+MsgDisp("Nanatsumori","Ah...extra baggage today.
+That means...she brought it.");
 MsgDisp("主人公","Ah, you guys.
 Good morning!");
 ChEye(3,0);

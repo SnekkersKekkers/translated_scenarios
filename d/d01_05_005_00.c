@@ -68,8 +68,8 @@ MsgDisp("Troupe B","Y-Yes sir!");
 StlEye(5,0);
 StlMouth(5,1);
 VoicePlay("D010500500_05_020");
-MsgDisp("Hiiragi","Let's do it again.
-Starting from the beginning.");
+MsgDisp("Hiiragi","Once more, from the top.
+This time, a full run-through.");
 VoicePlay("D010500500_38_000");
 MsgDisp("Troupe","Yes sir!");
 SEPlay("EV_SE_723");

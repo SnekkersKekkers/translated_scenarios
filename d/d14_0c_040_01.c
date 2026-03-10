@@ -92,8 +92,8 @@ ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("D140C04001_07_050");
 MsgDisp("Mikage","｛主人公｝, Yanosuke, Inori...
-I think you're all so diligent to the
-point it's funny.");
+I think you're all hardworking and
+interesting.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);

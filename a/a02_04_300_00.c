@@ -129,8 +129,8 @@ SEPlay("EV_SE_DOOR_014",0.5);
 MsgDisp("主人公","(What an interesting customer...
 The amount of food he ordered, and how 
 different he looked when he came back...)");
-MsgDisp("主人公","Alright, time to clean up! ...Hmm?
-There's something on the chair.
+MsgDisp("主人公","Alright, time to clean up!
+...Hmm? There's something on the chair.
 Did that customer leave it behind?");
 SEPlay("EV_SE_595",0,0.6);
 SEWait();

@@ -68,7 +68,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C05001_06_010");
-MsgDisp("Himuro","Kojiro-sensei is number one most childish.");
+MsgDisp("Himuro","Kojiro-sensei, you're the most childish
+one here.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);

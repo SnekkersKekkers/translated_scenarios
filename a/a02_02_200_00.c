@@ -130,8 +130,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("A020220000_02_120");
-MsgDisp("Sassa","You probably don't know it. There
-are eight events, and your total
+MsgDisp("Sassa","You probably don't know it.
+There are eight events, and your total
 score across all of them counts.");
 ChEye(2,3);
 ChMouth(2,4);

@@ -3,9 +3,8 @@ ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("D140301058_03_000");
 MsgDisp("Honda","I also got the tropical yakisoba today!
-It's a popular menu item at \"Coral Reef
-Cafe\" near Hanegasaki lighthouse, after
-all!∈");
+It's a popular item at \"Coral Reef Cafe\"
+near Hanegasaki lighthouse, after all!∈");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

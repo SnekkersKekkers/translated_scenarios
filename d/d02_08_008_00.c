@@ -64,8 +64,8 @@ MsgDisp("Shirahane","...I...
 MsgDisp("主人公","A goal?");
 VoicePlay("D020800800_08_070");
 MsgDisp("Shirahane","Yeah.
-But I have to be careful and consider both
-you and myself.");
+So I need to draw the line, for my own
+sake and for yours.");
 MsgDisp("主人公","(｛Daichi＊＊｝ isn't his usual self.
 I wonder what his goal is...?)");
 MsgClose();

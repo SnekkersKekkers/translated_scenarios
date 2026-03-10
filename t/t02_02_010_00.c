@@ -119,7 +119,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020201000_02_160");
 MsgDisp("Sassa","I don't want to be some track and field
-fanatic isolated from everyone else, I
+idiot isolated from everyone else, I
 want to make my dreams come true as Nozomu
 Sassa.");
 ChEye(2,4);

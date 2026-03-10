@@ -1,9 +1,9 @@
 BGOpen("wf200",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I had a nice interview today so I went
-ahead and bought a drink from that new
-cafe.)");
+MsgDisp("主人公","(I had a nice interview today, and I even
+got a drink from that new cafe.
+Let me take a little break.)");
 MsgDisp("主人公","(Okay, that bench over there...)");
 SEPlay("EV_SE_685");
 SEPlay("EV_SE_593");

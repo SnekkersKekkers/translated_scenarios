@@ -76,7 +76,7 @@ ChMotion(6,0);
 VoicePlay("D130A00001_06_030");
 MsgDisp("Himuro","What day is it today?
 That's all I'll say.
-...Well then.");
+...See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();

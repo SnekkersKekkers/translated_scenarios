@@ -61,8 +61,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D130B00000_01_020");
-MsgDisp("Kazama","It's more on your part.
-I'm gonna return to class first.");
+MsgDisp("Kazama","You're the one who should have something.
+I'm gonna head back to class first.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

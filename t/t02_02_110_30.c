@@ -36,7 +36,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020211030_02_030");
 MsgDisp("Sassa","I can't run with you, but...it's okay.
-I'm not just a track and field fanatic
+I'm not just a track and field idiot
 anymore.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);

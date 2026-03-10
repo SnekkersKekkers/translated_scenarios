@@ -84,8 +84,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,2,1);
 VoicePlay("D130B00100_03_020");
-MsgDisp("Honda","Being childhood friends you just know each
-other's preferences after all, huhー.");
+MsgDisp("Honda","I guess childhood friends just know each
+other's tastes, huhー.");
 MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -98,8 +98,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("D130B00100_04_030");
 MsgDisp("Nanatsumori","Hey, hey.
-We can't enter this world between the two
-of you.");
+Don't go getting lost in your own little
+world, you two.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

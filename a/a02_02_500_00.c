@@ -12,14 +12,14 @@ VoiceEVSPlay(2);
 VoicePlay("A020250000_02_010");
 MsgDisp("Sassa","｛主人公｝.
 You're in the same class as Ryota?");
-MsgDisp("主人公","Yeah. And you ｛Sassa＊＊｝, do you and
-｛Kazama＊＊｝ know each other?");
+MsgDisp("主人公","Yeah.
+And you ｛Sassa＊＊｝, do you and ｛Kazama＊＊｝ know each
+other?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("A020250000_02_020");
-MsgDisp("Sassa","Ah— rather than know each other,
-we're-");
+MsgDisp("Sassa","Ah— rather than know each other, we're-");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -103,8 +103,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020250000_02_090");
-MsgDisp("Sassa","Hmm. So, you don't remember me either,
-right?");
+MsgDisp("Sassa","Hmm.
+So, you don't remember me either, right?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
