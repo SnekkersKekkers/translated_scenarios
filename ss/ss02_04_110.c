@@ -3,5 +3,5 @@ ChMouth(4,1);
 ChMotion(4,1);
 ChEyeOpenLevel(4,8);
 VoicePlay("SS0204110_04_000");
-MsgDisp("Nanatsumori","Stop the prank.");
+MsgDisp("Nanatsumori","Stop messing around.");
 MsgClose();
