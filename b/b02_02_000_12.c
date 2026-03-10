@@ -3,7 +3,7 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 VoicePlay("B020200012_02_000");
 MsgDisp("Sassa","Huh, are those the clothes from before?");
-MsgDisp("主人公","Ah, so it seems.");
+MsgDisp("主人公","Ah, it seems so.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
