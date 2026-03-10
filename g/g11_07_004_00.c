@@ -33,7 +33,7 @@ ChOpen(7,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_020");
-MsgDisp("Mikage","......");
+MsgDisp("Mikage","...Yeah.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
