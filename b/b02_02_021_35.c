@@ -10,8 +10,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("B020202135_02_010");
-MsgDisp("Sassa","I'll admit it.
-But you're pulling it off well.");
+MsgDisp("Sassa","I did.
+You're pulling it off well, too.");
 MsgDisp("主人公","(｛Sassa＊＊｝ noticed it and gave me a
 compliment!
 I'm glad I wore this.)");
