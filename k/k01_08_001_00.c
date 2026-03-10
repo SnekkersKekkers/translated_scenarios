@@ -70,7 +70,7 @@ Can I open 'er up right here?");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,35,3,0,5,#1,#1,4,0);
     VoicePlay("K010800100_08_060");
-    MsgDisp("Shirahane","...! W-What's the matter?");
+    MsgDisp("Shirahane","...! \nW-What's the matter?");
     MsgDisp("主人公","Today is your birthday, right,
 ｛Daichi＊＊｝?
 I brought you a present.");
