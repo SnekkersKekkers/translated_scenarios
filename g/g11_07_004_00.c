@@ -5,10 +5,7 @@ EnvPlay("SE_ENV_BG_SC350_CS0",0.2);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110700400_07_000");
-MsgDisp("Mikage","Well, that's all for today. It's fine
-whether you're going to club activities,
-taking a detour or heading straight home,
-but take care.");
+MsgDisp("Mikage","That's all for today. Whether you're \ngoing to club activities, taking a detour \nor heading straight home, take care.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
