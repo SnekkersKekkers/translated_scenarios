@@ -19,7 +19,7 @@ MsgDisp("","Is it okay to be conceited?");
 MsgDisp("","A successful high school model.
 I...it's not an exaggeration to say
 that there isn't a high school
-student who doesn't know me, Nana");
+student who doesn't know me, NANA");
 MsgDisp("","I was enveloped in an indescribable
 sense of excitement.");
 MsgClear();
@@ -32,7 +32,7 @@ on set.");
 MsgClear();
 MsgDisp("","...That's right.
 This shoot isn't a special feature of
-Nana.");
+NANA.");
 MsgDisp("","This is just a page in Hazuki-san's
 birthday special. A modern high
 school model will wear a legendary
@@ -44,7 +44,7 @@ posed expression contorted.");
 SEPlay("EV_SE_046");
 Wait(30,0);
 VoicePlay("Y300400100_41_010");
-MsgDisp("Staff B","\"Nana-kun, that's it! That's good,
+MsgDisp("Staff B","\"NANA-kun, that's it! That's good,
 that's good, that expression! First
 rate sexy∈\"");
 SEStop("EV_SE_046",2);
@@ -92,7 +92,7 @@ MsgDisp("","My brow furrows.");
 MsgClear();
 BGOpen("ad412",0);
 VoicePlay("Y300400100_41_020");
-MsgDisp("Staff B","\"Nana-kun, are you tired?
+MsgDisp("Staff B","\"NANA-kun, are you tired?
 Let's take a bit of a break!\"");
 MsgDisp("","...I've done it.
 What am I thinking while I'm working?");

@@ -56,7 +56,7 @@ MsgDisp("Nanatsumori","Do you want me to leave?");
 MsgDisp("主人公","Huh?");
 VoicePlay("G110400301_04_030");
 MsgDisp("Nanatsumori","Miss Habatcher's newest reporter.
-Nana is now available.");
+NANA is now available.");
 MsgDisp("主人公","Hehe!
 Are you letting me do an interview then?");
 ChMotion(4,2);
@@ -64,7 +64,7 @@ VoicePlay("G110400301_04_040");
 MsgDisp("Nanatsumori","Let me think.
 As long as I can give you a review of what
 I just ate.");
-MsgDisp("主人公","I'm sure Nana-kun's fans would be
+MsgDisp("主人公","I'm sure NANA-kun's fans would be
 overjoyed!");
 ChEye(4,1);
 ChMouth(4,1);

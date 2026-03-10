@@ -48,7 +48,7 @@ VoicePlay("D010400200_04_030");
 MsgDisp("Nanatsumori","Mnnn...");
 MsgDisp("主人公","Hehe!
 Your glasses are falling off.");
-MsgDisp("主人公","People will find out you're Nana-kun like
+MsgDisp("主人公","People will find out you're NANA-kun like
 this!");
 VoicePlay("D010400200_04_040");
 MsgDisp("Nanatsumori","Na...na...");

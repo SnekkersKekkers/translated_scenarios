@@ -38,7 +38,7 @@ BGOpen("ex100",0);
 BGMPlay("BGM_C04_NANA_C",0.01);
 ScrFadeIn(0);
 VoicePlay("D010400300_41_000");
-MsgDisp("Staff A","Nana-kun, that vibe is perfect～!
+MsgDisp("Staff A","NANA-kun, that vibe is perfect～!
 Now look at the camera.");
 SEPlay("EV_SE_041");
 SEWait();
@@ -62,7 +62,7 @@ SEPlay("EV_SE_041");
 SEWait();
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400300_44_000");
-MsgDisp("Staff B","As expected of Nana-kun!
+MsgDisp("Staff B","As expected of NANA-kun!
 He looks great in that outfit worn by
 legendary high school model Hazuki Kei!");
 VoicePlay("D010400300_34_030");

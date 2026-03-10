@@ -4,7 +4,7 @@ video creator.");
 MsgClear();
 MsgDisp("","At the vocational school, it seemed like
 people quickly found out that he was the
-model Nana. But ｛Nanatsumori＊｝ laughed
+model NANA. But ｛Nanatsumori＊｝ laughed
 when he talked about it.");
 MsgDisp("","Since he continues to live alone, I
 sometimes go over to his house to make

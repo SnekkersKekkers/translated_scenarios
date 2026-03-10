@@ -34,7 +34,7 @@ to start!");
     MsgDisp("Nanatsumori","It'll be alright.
 Makeup can be done in an instant.");
     MsgDisp("主人公","That might be true, though...");
-    MsgDisp("主人公","(Even so, Nana wearing the
+    MsgDisp("主人公","(Even so, NANA wearing the
 lord-of-the-castle costume looks really
 cool...)");
     ChEye(4,2);

@@ -20,7 +20,7 @@ MsgDisp("主人公","(Ah...
 It looks like the boys are looking at the
 latest edition of Habatcher.)");
 VoicePlay("D010400500_41_020");
-MsgDisp("Student B","Nana really is cool huh～");
+MsgDisp("Student B","NANA really is cool huh～");
 MsgDisp("主人公","!");
 MsgClose();
 SEStop("EV_SE_619",1);
@@ -35,18 +35,18 @@ VoicePlay("D010400500_40_030");
 MsgDisp("Student A","Let me see, too.");
 VoicePlay("D010400500_39_040");
 MsgDisp("Student C","Oy, don't pull on the book!
-You'll tear the Nana special edition∋");
+You'll tear the NANA special edition∋");
 MsgDisp("主人公","(Come to think of it, this month's issue
-is on new items from \"Nana\".)");
+is on new items from \"NANA\".)");
 StlMouthOpenLevel(4,0);
 VoicePlay("D010400500_04_000");
 MsgDisp("Nanatsumori","......");
 VoicePlay("D010400500_40_050");
-MsgDisp("Student A","Nana's even cool with guys.
+MsgDisp("Student A","NANA's even cool with guys.
 Those clothes and accessories look really
 good on him.");
 VoicePlay("D010400500_39_060");
-MsgDisp("Student C","It's because anything Nana wears ends up
+MsgDisp("Student C","It's because anything NANA wears ends up
 looking cool, right?");
 VoicePlay("D010400500_41_070");
 MsgDisp("Student B","That's true～");
@@ -58,7 +58,7 @@ MsgDisp("Student B","I feel the same way as you guys.
 God is really cruel, huh～...");
 VoicePlay("D010400500_39_090");
 MsgDisp("Student C","Maybe you should try wearing the same
-clothes as Nana.
+clothes as NANA.
 You never know, it might surprise you?");
 VoicePlay("D010400500_40_100");
 MsgDisp("Student A","No way!
@@ -71,7 +71,7 @@ SEVol(0.7);
 SEPlay("EV_SE_GAYA_016",0,0.3);
 SEPlay("EV_SE_864",0,0.8);
 MsgDisp("主人公","(Hehe!
-Everyone is excited about \"Nana\")");
+Everyone is excited about \"NANA\")");
 VoicePlay("D010400500_39_120");
 MsgDisp("Student C","Hey, Nanatsumori.");
 StlEye(4,1);

@@ -21,7 +21,7 @@ MsgDisp("主人公","Why?");
 ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("B040406400_04_030");
-MsgDisp("Nanatsumori","Whether I'm Minori Nanatsumori or Nana, I
+MsgDisp("Nanatsumori","Whether I'm Minori Nanatsumori or NANA, I
 can't upload it.
 They'll wonder who took the picture.");
 MsgDisp("主人公","Ah...

@@ -119,7 +119,7 @@ MsgDisp("Woman B","That's right.
 Ahー That scared meー!");
 MsgDisp("主人公","(I'm glad...
 Looks like they didn't even discover it
-was \"Nana\".)");
+was \"NANA\".)");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("B050400000_04_060");
@@ -154,7 +154,7 @@ ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B050400000_04_090");
 MsgDisp("Nanatsumori","Those two shared a filter that made them
-believe that \"Nana\" couldn't have a
+believe that \"NANA\" couldn't have a
 girlfriend.");
 MsgDisp("主人公","I see.
 I'm glad your true identity didn't get

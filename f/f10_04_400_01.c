@@ -54,7 +54,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("F100440001_03_050");
-MsgDisp("Honda","That's why, both Nana and Mi-kun are the
+MsgDisp("Honda","That's why, both NANA and Mi-kun are the
 same to me.");
 MsgDisp("主人公","I-I see.");
 ChPosition(3,2);

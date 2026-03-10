@@ -103,7 +103,7 @@ then.");
 ChMotion(4,1);
 VoicePlay("G110400703_04_070");
 MsgDisp("Nanatsumori","I will.");
-MsgDisp("主人公","Nana-kun is a pretty cool model, huh?");
+MsgDisp("主人公","NANA-kun is a pretty cool model, huh?");
 ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,0);

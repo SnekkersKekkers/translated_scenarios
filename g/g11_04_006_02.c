@@ -61,7 +61,7 @@ ChMotion(4,1);
 VoicePlay("G110400602_04_080");
 MsgDisp("Nanatsumori","Interesting.");
 MsgDisp("主人公","(I don't think anyone can believe the wild
-\"Nana\" can become so cute...)");
+\"NANA\" can become so cute...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

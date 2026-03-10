@@ -10,7 +10,7 @@ ChMotion(4,1,1);
 VoicePlay("D020400000_04_010");
 MsgDisp("Nanatsumori","Let me ask you, then.
 Are you okay with it like this?");
-MsgSel("The glasses wearing ｛Nanatsumori＊｝ is fine","I want to go on a date with Nana...");
+MsgSel("The glasses wearing ｛Nanatsumori＊｝ is fine","I want to go on a date with NANA...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,0);
@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("D020400000_04_020");
     MsgDisp("Nanatsumori","I see.
-Even if you preferred \"Nana\", I guess it's
+Even if you preferred \"NANA\", I guess it's
 better not to change it.");
     MsgDisp("主人公","Yeah.");
     ChEye(4,0);
