@@ -29,8 +29,7 @@ misunderstandings will happen.");
 MsgDisp("主人公","Mm, I'll be careful.
 I'm really sorry.");
 VoicePlay("C010600000_06_040");
-MsgDisp("Himuro","You've apologized enough now.
-Then, later.");
+MsgDisp("Himuro","You've apologized enough now.\nLater.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Thank goodness...
