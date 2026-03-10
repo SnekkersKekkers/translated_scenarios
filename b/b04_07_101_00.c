@@ -5,9 +5,10 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040710100_07_000");
-MsgDisp("Mikage","Listen up! Even permanent exhibits have
-something to discover if you really look!
-Since we're here, let's find it.");
+MsgDisp("Mikage","Listen up, okay? Even in the permanent
+exhibits, if you look hard enough, you'll
+discover something! We're here anyways,
+let's go find something and go home.");
 MsgSel("That mask looks like ｛Mikage＊＊｝!","Can I really see Habataki City's history in a new light...?","I'll try for real next time!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +29,7 @@ home.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040710100_07_020");
-    MsgDisp("Mikage","Do your best.
-Nice fight!");
+    MsgDisp("Mikage","Try your best.\nFighting spirit!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
