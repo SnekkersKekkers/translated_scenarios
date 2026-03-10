@@ -8,8 +8,8 @@ MsgDisp("主人公","(Hmm?
 That voice...
 Vice Principal Himuro?)");
 VoicePlay("A020600100_06_000");
-MsgDisp("Himuro?","Yes. I'll be counting on you from next
-month.");
+MsgDisp("Himuro?","Yes.
+I'll be counting on you from next month.");
 VoicePlay("A020600100_32_010");
 MsgDisp("VP Himuro","Although let me tell you, you are not
 getting any special treatment.");
@@ -65,7 +65,6 @@ ChClose(32);
 Wait(30);
 MsgDisp("主人公","(Phew...I thought I was gonna get
 scolded!)");
-MsgDisp("主人公","(But still, who was that boy just
-now...?)");
+MsgDisp("主人公","(But still, who was that boy just now...?)");
 MsgClose();
 ScrFadeOut(0);

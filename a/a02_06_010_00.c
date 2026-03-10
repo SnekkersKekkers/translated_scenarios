@@ -1,7 +1,6 @@
 BGOpen("sc211",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's time for the entrance
-ceremony...)");
+MsgDisp("主人公","(It's time for the entrance ceremony...)");
 MsgDisp("主人公","(...Huh?
 This boy right here...)");
 MsgClose();
@@ -30,7 +29,8 @@ VoicePlay("A020601000_06_030");
 MsgDisp("Himuro?","Or should I ask you first?
 I know exactly what Habataki High students
 want to ask me.");
-MsgDisp("主人公","Hmm? Umm...
+MsgDisp("主人公","Hmm?
+Umm...
 Are you and Vice Principal Himuro——");
 ChEye(6,0);
 ChMouth(6,4);
@@ -107,9 +107,9 @@ VoicePlay("A020601000_06_110");
 MsgDisp("Himuro?","No, I'm sorry too. It's our first time
 meeting and I've already been rude to you,
 even though you're my senpai.");
-MsgDisp("主人公","No no, it's okay. I'm ｛主人公姓名｝.
-Let's start over.
-It's nice to meet you!");
+MsgDisp("主人公","No no, it's okay.
+I'm ｛主人公姓名｝.
+Let's start over. It's nice to meet you!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

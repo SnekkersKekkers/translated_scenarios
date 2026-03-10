@@ -113,8 +113,9 @@ BGMPlay("BGM_HANYOU_C",0.01);
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("A020700000_32_020");
-MsgDisp("VP Himuro","Ahem. Mikage-sensei, follow me to the
-staff room immediately.");
+MsgDisp("VP Himuro","Ahem.
+Mikage-sensei, follow me to the staff room
+immediately.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -197,9 +198,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("A020700000_07_130");
-MsgDisp("Mikage","...Alright, let me introduce myself
-again. I'm Mikage Kojiro, born on 25 May,
-I'm a cheerful and easy-going type O.");
+MsgDisp("Mikage","...Alright, let me introduce myself again.
+I'm Mikage Kojiro, born on 25 May, I'm a
+cheerful and easy-going type O.");
 MsgDisp("主人公","(Hehe, it's the first time I've had a
 teacher tell us his birthday in his
 introduction!)");
@@ -213,8 +214,7 @@ MsgDisp("Mikage","Wow, look at the time.
 Anyone got a final question they're
 just dying to ask?");
 VoicePlay("A020700000_45_030");
-MsgDisp("Girl B","Sensei, what subject do you 
-teach?");
+MsgDisp("Girl B","Sensei, what subject do you teach?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -248,8 +248,7 @@ MsgDisp("主人公","A cow back at home∋");
 VoicePlay("A020700000_42_110");
 MsgDisp("Student A","Wow, his pet is a cow?");
 VoicePlay("A020700000_44_020");
-MsgDisp("Girl A","Sensei, you're from a farm or 
-something?");
+MsgDisp("Girl A","Sensei, you're from a farm or something?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

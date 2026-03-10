@@ -1,7 +1,7 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh...Feels good to get a little
-exercise!");
+MsgDisp("主人公","Huh...
+Feels good to get a little exercise!");
 VoicePlay("A020210000_02_000");
 MsgDisp("Sassa?","I think so too!");
 MsgDisp("主人公","What?");
@@ -42,8 +42,9 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_050");
 MsgDisp("Sassa","Wanna run together?");
-MsgDisp("主人公","Ehh∋ There's no way I can
-keep up with a track athlete!");
+MsgDisp("主人公","Ehh∋
+There's no way I can keep up with a track
+athlete!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

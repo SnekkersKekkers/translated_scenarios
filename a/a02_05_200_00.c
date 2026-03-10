@@ -1,8 +1,7 @@
 BGOpen("sc100",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Alright, let's join the student
-council!");
+MsgDisp("主人公","Alright, let's join the student council!");
 MsgClose();
 ScrFadeOut(0,0);
 BGOpen("sc510",0);
@@ -28,8 +27,8 @@ ChOpen(5,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020520000_05_000");
 MsgDisp("Hiiragi?","May I help you with something?");
 MsgDisp("主人公","Uhm...
-My name is ｛主人公姓名｝, and I
-would like to join the student council!");
+My name is ｛主人公姓名｝, and I would like to
+join the student council!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -79,8 +78,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝, was it...I can't
-believe the chairman is in the
-same year as me. He seems a bit strict...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, was it...I can't believe the
+chairman is in the same year as me.
+He seems a bit strict...)");
 MsgClose();
 ScrFadeOut(0,0);

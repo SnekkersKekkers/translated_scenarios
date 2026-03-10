@@ -142,12 +142,13 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("A020410000_04_160");
-MsgDisp("Nanatsumori","...Hey. I'm telling you this because I
-know you'll understand the situation.");
+MsgDisp("Nanatsumori","...Hey.
+I'm telling you this because I know you'll
+understand the situation.");
 VoicePlay("A020410000_04_170");
-MsgDisp("Nanatsumori","\"NANA\" the model and
-\"Nanatsumori Minoru\" right in front
-of you live in different worlds, ok?");
+MsgDisp("Nanatsumori","\"NANA\" the model and \"Nanatsumori Minoru\"
+right in front of you live in different
+worlds, ok?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

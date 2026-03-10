@@ -40,8 +40,7 @@ StlEyeOpenLevel(5,5,1);
 StlMouth(5,1);
 VoicePlay("A020510000_05_010");
 MsgDisp("Hiiragi?","Yes, they made it out safely.");
-MsgDisp("主人公","I'm truly sorry,
-I wasn't looking ahead.");
+MsgDisp("主人公","I'm truly sorry, I wasn't looking ahead.");
 StlEye(5,0);
 StlMouth(5,0);
 VoicePlay("A020510000_05_020");
@@ -57,8 +56,8 @@ MsgDisp("主人公","I am...?");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("A020510000_05_040");
 MsgDisp("Hiiragi?","My name is Hiiragi Yanosuke.
-Please forgive me for greeting
-you with my hands full.");
+Please forgive me for greeting you with my
+hands full.");
 MsgDisp("主人公","Don't worry about that!
 My name is ｛主人公姓名｝.");
 StlEyeOpenLevel(5,#1);
@@ -115,8 +114,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("A020510000_05_110");
-MsgDisp("Hiiragi","I wanted to do a bit of shopping,
-but I lost my way back to the hall.
+MsgDisp("Hiiragi","I wanted to do a bit of shopping, but I
+lost my way back to the hall.
 I'm glad that I met you.");
 MsgDisp("主人公","Oh, it's no trouble.
 It was really close by...");
@@ -134,8 +133,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
-Being the troupe chairman while
-still in high school is incredible...)");
+Being the troupe chairman while still in
+high school is incredible...)");
 MsgDisp("主人公","(Oh, there's the poster for his play!
 ...Hmm?
 \"Starring actor: Hiiragi Yanosuke\"∋)");

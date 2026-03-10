@@ -1,7 +1,6 @@
 BGOpen("sc211",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's time for the entrance
-ceremony...)");
+MsgDisp("主人公","(It's time for the entrance ceremony...)");
 MsgDisp("主人公","(...Huh?
 This boy right here...)");
 BGMPlay("BGM_C06_INORI_I",0.01);
@@ -44,8 +43,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_050");
 MsgDisp("Himuro","And as you may have guessed, a relative of
-Reiichi-sa...
-of Vice Principal Himuro.");
+Reiichi-sa... of Vice Principal Himuro.");
 MsgDisp("主人公","Oh...I see!");
 ChEye(6,0);
 ChMouth(6,0);

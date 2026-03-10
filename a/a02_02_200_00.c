@@ -24,8 +24,7 @@ BGMPlay("BGM_C02_SASSA_I",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","(Wow, he's so big...
 Is he the club captain?)");
-MsgDisp("主人公","Um, hello, I brought
-the admission form.");
+MsgDisp("主人公","Um, hello, I brought the admission form.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
@@ -33,8 +32,8 @@ VoicePlay("A020220000_02_010");
 MsgDisp("Sassa?","Hm—m...
 The admissions are usually made through
 Mikage-sensei, though?");
-MsgDisp("主人公","｛Mikage＊＊｝ told me to look for the
-club captain...");
+MsgDisp("主人公","｛Mikage＊＊｝ told me to look for the club
+captain...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -63,8 +62,7 @@ ChMotion(2,0);
 VoicePlay("A020220000_02_050");
 MsgDisp("Sassa?","Me?
 No way, I'm not on that level.");
-MsgDisp("主人公","I honestly thought you were
-the captain...");
+MsgDisp("主人公","I honestly thought you were the captain...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,3);
@@ -113,8 +111,8 @@ MsgClose();
 ChOpen(2,37,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("A020220000_02_090");
-MsgDisp("Sassa","｛主人公｝. So you're gonna be the
-manager, huh?");
+MsgDisp("Sassa","｛主人公｝.
+So you're gonna be the manager, huh?");
 MsgDisp("主人公","Yeah, I'll do whatever
 I can to help you guys!");
 ChEye(2,3);

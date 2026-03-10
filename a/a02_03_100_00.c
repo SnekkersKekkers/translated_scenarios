@@ -17,9 +17,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("A020310000_03_020");
-MsgDisp("Honda?","—Oops! Sorry sorry!
-I scared you, right?
-Are you alright?");
+MsgDisp("Honda?","—Oops!
+Sorry sorry!
+I scared you, right? Are you alright?");
 MsgDisp("主人公","Oh, I'm fine.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -78,8 +78,8 @@ ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("A020310000_03_100");
 MsgDisp("Honda","Mm-hm, when light comes from the right,
-your writing hand casts a shadow on
-your notebook and makes it hard to see.");
+your writing hand casts a shadow on your
+notebook and makes it hard to see.");
 MsgDisp("主人公","It was designed with the students in mind.
 It's something so familiar, yet I didn't
 notice at all.");

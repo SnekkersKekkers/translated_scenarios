@@ -13,12 +13,14 @@ Wait(120,1);
 VoicePlay("A010000000_01_000");
 MsgDisp("Ryota","Ah, listen, do you hear the bell?
 It's ringing again!");
-MsgDisp("主人公","Yeah... It's faint, but I can hear it
-too, I think?");
+MsgDisp("主人公","Yeah...
+It's faint, but I can hear it too, I
+think?");
 SEStop("EV_SE_795",4);
 VoicePlay("A010000000_01_010");
-MsgDisp("Ryota","Right! I always hear it around here while
-I'm on the way to school.");
+MsgDisp("Ryota","Right!
+I always hear it around here while I'm on
+the way to school.");
 MsgDisp("主人公","Oh, really?");
 VoicePlay("A010000000_01_020");
 MsgDisp("Ryota","Over here!
@@ -104,9 +106,9 @@ When it rings again, let's come take a
 look!");
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","Ever since we found the church bell,
-we'd stop by whenever it rang. But after
-that day, it never rang again.");
+MsgDisp("主人公","Ever since we found the church bell, we'd
+stop by whenever it rang.
+But after that day, it never rang again.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -123,7 +125,8 @@ Here, you can have it!");
 SEPlay("EV_SE_552",0.4,0.1);
 Wait(10,0);
 BGOpen("pr009",0);
-MsgDisp("主人公","Huh? Really?
+MsgDisp("主人公","Huh?
+Really?
 Are you sure?");
 VoicePlay("A010000000_01_110");
 MsgDisp("Ryota","I'm sure! Actually, I made it the same way
@@ -136,9 +139,8 @@ Orange like the sunset — if you make a wish
 and blow on it, anything can come true!");
 MsgDisp("主人公","Wow! Like magic!");
 VoicePlay("A010000000_01_130");
-MsgDisp("Ryota","This pinwheel's made the
-same way, so maybe our
-wishes would come true too?");
+MsgDisp("Ryota","This pinwheel's made the same way, so
+maybe our wishes would come true too?");
 MsgDisp("主人公","Really∋");
 BGOpen("pr010",0);
 VoicePlay("A010000000_01_140");
@@ -150,8 +152,8 @@ VoicePlay("A010000000_01_150");
 MsgDisp("Ryota","(I wish that we're always happy and
 healthy and that we definitely, definitely
 get married!)");
-MsgDisp("主人公","(What do I do, I can't come up with a
-wish on the spot like this...)");
+MsgDisp("主人公","(What do I do, I can't come up with a wish
+on the spot like this...)");
 MsgDisp("主人公","(Ah, yeah!
 \"I wish that Ryota-kun's wish will come
 true!\")");

@@ -30,8 +30,7 @@ SEWait();
 BGOpen("ar110",0);
 ScrFadeIn(0);
 ChMotion(4,2);
-MsgDisp("主人公","Here's your menu, sorry for the
-wai——");
+MsgDisp("主人公","Here's your menu, sorry for the wai——");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_010");
@@ -73,8 +72,9 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Eh...? Excuse me, the customer who was
-seated here——");
+MsgDisp("主人公","Eh...?
+Excuse me, the customer who was seated
+here——");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_040");
@@ -182,8 +182,7 @@ VoicePlay("A020430000_04_130");
 MsgDisp("Nanatsumori","...Hey, you.
 What you saw here today, could you
 maybe forget about it?");
-MsgDisp("主人公","You mean,
-that you ate a lot of sweets?");
+MsgDisp("主人公","You mean, that you ate a lot of sweets?");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,0,1);

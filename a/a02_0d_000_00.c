@@ -7,8 +7,7 @@ Hey, Hikaru—look!
 It's her.");
 VoicePlay("A020D00000_22_000");
 MsgDisp("Hikaru?","Ah...!
-The girl with Kazama-kun
-yesterday!");
+The girl with Kazama-kun yesterday!");
 MsgDisp("主人公","(...?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
@@ -19,8 +18,9 @@ ChOpen(22,254,0,0,0,#1,#1,0,2);
 VoicePlay("A020D00000_21_010");
 MsgDisp("Michiru?","You...You weren't a student at Habataki
 Middle School, were you?");
-MsgDisp("主人公","Me? No, I didn't go to Habataki Middle
-School, actually...");
+MsgDisp("主人公","Me?
+No, I didn't go to Habataki Middle School,
+actually...");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,3,1);
@@ -32,8 +32,8 @@ ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("A020D00000_21_020");
 MsgDisp("Michiru?","I know.");
-MsgDisp("主人公","Huh? I feel like I've seen you two
-somewh——");
+MsgDisp("主人公","Huh?
+I feel like I've seen you two somewh——");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -77,8 +77,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("A020D00000_22_040");
-MsgDisp("Hikaru","Hehe～ It's subtle, but you give off 
-the same scent as us～");
+MsgDisp("Hikaru","Hehe～
+It's subtle, but you give off the same
+scent as us～");
 MsgDisp("主人公","N-No way...
 I'm nothing like that...");
 ChEye(22,4);
@@ -93,15 +94,15 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("A020D00000_21_060");
 MsgDisp("Michiru","Don't think we're weird, okay?
-The Hanatsubaki family...
-holds a unique power.");
+The Hanatsubaki family... holds a unique
+power.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("A020D00000_21_070");
-MsgDisp("Michiru","Which means...
-we can already see it— all the flowers
-waiting to bloom in your high school life.");
+MsgDisp("Michiru","Which means... we can already see it— all
+the flowers waiting to bloom in your high
+school life.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

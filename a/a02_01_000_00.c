@@ -35,7 +35,8 @@ EfctClose();
 Wait(40,1);
 VoicePlay("A020100000_01_000");
 MsgDisp("Kazama?","It's been forever and that's the face
-you're making? Really?");
+you're making?
+Really?");
 StlOpen("ev_01_01");
 StlEye(1,0);
 StlMouth(1,0);
@@ -111,8 +112,8 @@ MsgDisp("Kazama","Yep. Even I'm surprised by this twist.
 I told your mom yesterday, though.
 Did she not mention it?");
 MsgDisp("主人公","Sorry, ｛Kazama＊＊｝.
-I was so surprised to hear you came
-back, I wasn't really listening...");
+I was so surprised to hear you came back,
+I wasn't really listening...");
 MsgDisp("主人公","Same school again, huh?
 Feels like we're back in elementary
 school.");
@@ -170,8 +171,8 @@ VoicePlay("A020100000_01_100");
 MsgDisp("Kazama","It's fine.
 My flight back home got delayed so I just
 kind of stopped by out of the blue.");
-MsgDisp("主人公","Eh∋ So you really just got back
-yesterday?");
+MsgDisp("主人公","Eh∋
+So you really just got back yesterday?");
 NSSEye(1,0);
 NSSMouth(1,3);
 VoicePlay("A020100000_01_110");
@@ -297,8 +298,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("A020100000_01_190");
 MsgDisp("Kazama","......Not listening～
-And you shouldn't listen
-to them either.");
+And you shouldn't listen to them either.");
 MsgDisp("主人公","(\"Young Master\" huh...
 Now I'm super curious...)");
 ChMotion(1,0);
