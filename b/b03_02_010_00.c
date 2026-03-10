@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030201000_02_000");
-MsgDisp("Sassa","Where do you wanna look around?");
+MsgDisp("Sassa","Where do you wanna go?");
 MsgDisp("主人公","Hmm...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
