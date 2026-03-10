@@ -48,7 +48,7 @@ BGMPlay("BGM_C08_DAICHI_I",0.01,0.6);
 SEPlay("EV_SE_791",0.5,0.8);
 SEPlay("EV_SE_GAYA_003",0.5);
 ScrFadeIn(0);
-MsgDisp("主人公","It's ｛Daichi＊＊｝ ∈");
+MsgDisp("主人公","It's ｛Daichi＊＊｝∈");
 VoicePlay("D010800200_42_020");
 MsgDisp("School Boy","Go Daichi!");
 MsgDisp("主人公","(I feel like he might be able to catch up
@@ -106,7 +106,7 @@ ChEyeOpenLevel(8,10);
 VoicePlay("D010800200_08_030");
 MsgDisp("Shirahane","I don't think there's anyone in high
 school that could compete with Sassa.
-He's already a God.");
+He's already the king.");
 ChEye(8,2);
 ChMouth(8,0);
 VoicePlay("D010800200_08_040");
