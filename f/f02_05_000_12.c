@@ -31,10 +31,9 @@ MsgDisp("主人公","Haha, same.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("F020500012_05_030");
-MsgDisp("Hiiragi","The classes will change, and so will the
-homeroom teachers. That excitement and
-tension of a new school semester is the
-greatest pleasure of spring break.");
+MsgDisp("Hiiragi","New classes, new homeroom teachers.
+That excitement and tension of a new
+semester is the best part of spring break.");
 MsgDisp("主人公","Mhm, that's right.
 Talking with ｛Hiiragi＊＊＊｝ really gives me
 a fresh mindset for the new year.");

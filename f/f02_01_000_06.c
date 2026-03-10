@@ -11,7 +11,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100006_01_000");
-MsgDisp("Kazama","I know, huh.");
+MsgDisp("Kazama","Yeah, I know.");
 MsgDisp("主人公","｛Kazama＊＊｝, you're good at sports.
 You'll be fine.");
 VoicePlay("F020100006_01_010");

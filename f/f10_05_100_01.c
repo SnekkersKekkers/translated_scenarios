@@ -65,7 +65,7 @@ ChMotion(5,0);
 ChCheek(5,0);
 VoicePlay("F100510001_05_050");
 MsgDisp("Hiiragi","I was able to enroll with the kindness of
-the board chairman.");
+the principal.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

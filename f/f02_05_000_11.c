@@ -18,8 +18,8 @@ in the cards for ｛Hiiragi＊＊＊｝.");
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("F020500011_05_010");
-MsgDisp("Hiiragi","On a restful New Years Day, do you really
-only rest?");
+MsgDisp("Hiiragi","A lazy New Year's Day...does that mean you
+just sleep?");
 MsgDisp("主人公","Not exactly.
 It's more like you loaf around under a
 kotatsu, I think.");
@@ -27,9 +27,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("F020500011_05_020");
-MsgDisp("Hiiragi","Kotatsus are amazing, huh.
-I will attempt to make some time for that
-'restful New Years', then.");
+MsgDisp("Hiiragi","Kotatsus are wonderful.
+I'll try to find some time for this
+'lazy New Year's' of yours, then.");
 MsgDisp("主人公","Um...it's not really something you need
 to 'attempt' to do, you know?");
 ChEye(5,0);

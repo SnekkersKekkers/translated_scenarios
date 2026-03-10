@@ -53,7 +53,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F020500013_05_060");
-MsgDisp("Hiiragi","Was there free time on the itinerary?");
+MsgDisp("Hiiragi","There's free time on the itinerary, right?");
 MsgDisp("主人公","Yeah, there was.");
 ChMouth(5,2);
 VoicePlay("F020500013_05_070");

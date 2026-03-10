@@ -41,10 +41,9 @@ on the day of, right?");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("F020500009_05_050");
-MsgDisp("Hiiragi","I guess you are right. The ending of the
-preparation period is sad, but if in
-exchange for some food cart yakisoba...it
-can't be helped.");
+MsgDisp("Hiiragi","You're right.
+The end of the prep period is sad, but if
+it means food cart yakisoba...I'll allow it.");
 MsgDisp("主人公","(Maybe the one working the hardest to
 prepare for the culture festival is
 ｛Hiiragi＊＊＊｝?)");

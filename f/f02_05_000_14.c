@@ -20,10 +20,9 @@ VoicePlay("F020500014_05_010");
 MsgDisp("Hiiragi","As do I to you.");
 ChMotion(5,0);
 VoicePlay("F020500014_05_020");
-MsgDisp("Hiiragi","It was my first time and there were many
-things I did not know, but thanks to you,
-my friends and my teachers, I was able to
-make it this far.");
+MsgDisp("Hiiragi","It was my first time, and I didn't know
+much, but thanks to you, my friends, and
+my teachers, I made it this far.");
 MsgDisp("主人公","Haha.
 Why are you saying that like you've
 already graduated?");
@@ -55,8 +54,8 @@ times.");
 ChEye(5,2);
 ChMotion(5,4);
 VoicePlay("F020500014_05_080");
-MsgDisp("Hiiragi","I cannot.
-It really is starting to feel like we are
+MsgDisp("Hiiragi","Oh dear.
+It really is starting to feel like we're
 graduating.");
 ChEye(5,4);
 ChMotion(5,0);
@@ -72,7 +71,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("F020500014_05_110");
-MsgDisp("Hiiragi","Haha, well, on that note, let us enjoy
-what is left of our life at Haba High.");
+MsgDisp("Hiiragi","Haha, well, in that spirit, let's enjoy
+what's left of our life at Haba High
+together, shall we?");
 MsgDisp("主人公","(Graduation...
 Unsurprisingly, it's sad...)");

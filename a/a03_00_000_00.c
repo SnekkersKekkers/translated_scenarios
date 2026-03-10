@@ -36,7 +36,7 @@ BGOpen("sc401",0);
 Wait(60,0);
 VoicePlay("A030000000_49_010");
 MsgDisp("Host","Thank you, vice principal.
-Moving on, the Board Chairman of the
+Moving on, the board chairman of the
 school will now say his greetings.");
 BGMStop(2);
 SEStop("EV_SE_CLAP_002",2.2);
