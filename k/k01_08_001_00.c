@@ -27,8 +27,7 @@ What's the matter?");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("K010800100_08_020");
-    MsgDisp("Shirahane","'s it really alright?
-I'm so happy, can I open it?");
+    MsgDisp("Shirahane","Is it really alright?\nI'm so happy, can I open it?");
     MsgDisp("主人公","Of course!");
     break ;
     case 3:
