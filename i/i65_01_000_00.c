@@ -141,9 +141,7 @@ Why?");
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("I650100000_01_130");
-    MsgDisp("Kazama","What are you going to do if you get caught
-up by something like that when I'm not
-here?");
+    MsgDisp("Kazama","What are you going to do if you get caught\nup in something like that when I'm not\nhere?");
     MsgDisp("主人公","Um, I'll be fine?
 Their cars are crazy, but they're nice
 people.");
