@@ -196,9 +196,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Geez...
-I can't help customers with an angry
-face.)");
+    MsgDisp("主人公","(Geez...\nI can't serve customers with an angry\nface.)");
     break ;
     default :
     DbgAssert(1);
