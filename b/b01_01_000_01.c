@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
     MsgClose();
     ChOpen(1,253,1,0,1,8,#1,0,0,0,30);
     VoicePlay("B010100001_01_000");
-    MsgDisp("Kazama","Ah, I found you...");
+    MsgDisp("Kazama","Ah, you caught me...");
     MsgDisp("主人公","Huh?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
