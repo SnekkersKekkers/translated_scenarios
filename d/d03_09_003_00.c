@@ -124,11 +124,9 @@ MsgDisp("Kuya","I'm glad to hear that.
 For some reason, I tend to encounter
 people in troublesome situations a lot.");
 VoicePlay("D030900300_09_140");
-MsgDisp("Kuya","You know how I told you before that it's
-my \"job?\"");
-MsgDisp("Kuya","Because I have this sort of power, I've
-become a \"Jack of All Trades\" who goes
-around helping people in need.");
+MsgDisp("Kuya","I said before that it's my \"job,\" right?
+With this sort of power, I became a Jack
+of All Trades, helping people in need.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);

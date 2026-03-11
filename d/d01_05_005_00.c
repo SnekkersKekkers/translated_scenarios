@@ -2,12 +2,9 @@ MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, it's from Habatcher's Editorial
-Department.
-It says...)");
-MsgDisp("主人公","(\"We'd like you to sneak into the Habataki
-Theater Company rehearsal studio for an
-insider scoop!\"...Ehh∋)");
+MsgDisp("主人公","(Ah, from Habatcher. \"Please sneak into
+the Habataki Theater Company's rehearsal
+studio for an insider scoop!\" ...Ehh∋)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

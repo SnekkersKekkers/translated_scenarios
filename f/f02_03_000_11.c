@@ -21,11 +21,9 @@ MsgDisp("Honda","Every year, I get pestered by the kids in
 my neighborhood and end up making them.");
 ChMotion(3,4);
 VoicePlay("F020300011_03_020");
-MsgDisp("Honda","But there's less and less snow each year,
-and when factoring in the weather,
-temperature, and humidity..."); 
-MsgDisp("Honda","It'd be sad if you made one and it melted
-right away, right?");
+MsgDisp("Honda","But there's less snow each year. Factoring
+in weather, temperature, and humidity, you
+have to pick the right day.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);

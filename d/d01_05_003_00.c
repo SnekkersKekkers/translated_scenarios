@@ -108,10 +108,9 @@ realizing it.");
 StlEyeOpenLevel(5,0);
 StlMouth(5,0);
 VoicePlay("D010500300_05_110");
-MsgDisp("Hiiragi","Isn't that ironic for a person like me
-whose job it is to convey hope to the
-audience on stage...");
-MsgDisp("Hiiragi","How hilarious that I'm the chairman.");
+MsgDisp("Hiiragi","Isn't that ironic for a person whose job
+is to convey hope on stage...
+How hilarious that I'm the troupe leader.");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500300_05_120");

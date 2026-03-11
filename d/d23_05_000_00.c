@@ -9,10 +9,9 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(...Huh?
 I got a text message, who's it from?)");
-MsgDisp("主人公","(...It's from ｛Hiiragi＊＊＊｝!)");
-MsgDisp("主人公","(\"This will be a great opportunity for
-people to learn more about the theater
-company.\")");
+MsgDisp("主人公","(...It's from ｛Hiiragi＊＊＊｝!
+\"It'll be a great opportunity for people
+to learn about the troupe. Thank you.\")");
 MsgDisp("主人公","(Hehe, looks like he read it right away!
 Let's keep working hard!)");
 MsgClose();

@@ -8,11 +8,9 @@ since you've seen that smile.");
 MsgDisp("","Since you've met, you've never been
 apart this long.");
 MsgDisp("","After graduation, I was preoccupied
-with resignation procedures and
-communicating to back home.");
-MsgDisp("","Time passed without us having spent
-time in person together, and I
-returned to my parent's home.");
+with resignation procedures and calls
+home. Time flew without us spending
+time together, and I went back home.");
 MsgClear();
 MsgDisp("","I was super busy, but she was the
 same. Even then, to prepare for my

@@ -66,11 +66,9 @@ SEStop("EV_SE_GAYA_003",2);
 MsgClose();
 ScrFadeOut(0);
 StlClose();
-MsgDisp("主人公","(Hehe! It ended in the middle of what he
-was saying. ｛Honda＊＊｝ was amazing
-though...)");
-MsgDisp("主人公","(I wonder if he'll let me interview him
-for Habatcher?)");
+MsgDisp("主人公","(Hehe! Got cut off mid-sentence, but
+｛Honda＊＊｝ was amazing... Maybe I can
+interview him for Habatcher?)");
 MsgClose();
 Wait(40,0);
 MsgDisp("","　　　　　　　　　　 ・

@@ -152,11 +152,9 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 Wait(10,0);
 VoicePlay("D020100000_01_270");
-MsgDisp("Kazama","It's fine, I understand now.
-I underestimated how much of a natural
-airhead you are."); 
-MsgDisp("Kazama","I'll have to keep my eyes on you from now
-until we graduate...");
+MsgDisp("Kazama","Fine, I get it now. I underestimated your
+natural airheadedness. Can't take my eyes
+off you until graduation...");
 MsgDisp("主人公","(｛Kazama＊＊｝ reminds me of my dad...)");
 MsgClose();
 ScrFadeOut(0,0);

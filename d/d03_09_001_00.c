@@ -112,10 +112,9 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900100_09_090");
-MsgDisp("Kuya?","That used to be the only way to get him to
-stop crying.");
-MsgDisp("Kuya?","Sometimes I'd have to carry him around for
-hours, so I had to exercise frequently.");
+MsgDisp("Kuya?","That was the only way to stop his crying.
+Sometimes I'd carry him for hours, so I
+had to exercise regularly.");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);

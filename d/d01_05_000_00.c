@@ -2,12 +2,9 @@ MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, it's from Habatcher's Editorial
-Department.
-It says...)");
-MsgDisp("主人公","(\"You received permission to interview the
-Habataki Theater Company\" ...
-Alright, let's go!)");
+MsgDisp("主人公","(Ah, from Habatcher's Editorial Department.
+\"Permission to interview the Habataki
+Theater Company granted!\" ...Alright!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

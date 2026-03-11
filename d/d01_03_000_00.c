@@ -70,11 +70,9 @@ MsgDisp("主人公","Your mother?");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300000_03_080");
-MsgDisp("Honda","That's right.
-I was always reading books and then one
-day she told me—"); 
-MsgDisp("Honda","\"The outside world is more interesting
-than pictures in a book!\"");
+MsgDisp("Honda","Yeah. I was always reading books, so she
+said \"The real world's more fun than a
+book! And you can touch the fossils!\"");
 MsgDisp("主人公","Hehe, she sounds like a good mom.");
 StlEye(3,0);
 StlMouth(3,0);

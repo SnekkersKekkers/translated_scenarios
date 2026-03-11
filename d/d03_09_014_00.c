@@ -98,12 +98,9 @@ ChMotion(9,4,1);
 VoicePlay("D030901400_09_080");
 MsgDisp("Kuya","...I've changed?
 How so?");
-MsgDisp("主人公","It's because...Even though there were
-people asking for directions and asking
-you to carry their luggage...");
-MsgDisp("主人公","You didn't help them.
-That's completely unlike the Jack of All
-Trades.");
+MsgDisp("主人公","It's because...people were asking for
+directions and help with luggage, but you
+didn't help. That's unlike you.");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,0,1);

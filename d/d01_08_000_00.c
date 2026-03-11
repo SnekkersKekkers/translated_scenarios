@@ -214,10 +214,9 @@ BGMStop();
 SEPlay("EV_SE_856");
 ChClose(8,0,30);
 ChClose(9,0,30);
-MsgDisp("主人公","(The second half was a blur...)");
-MsgDisp("主人公","(But it's impossible not to have a good
-time when you attend both the Hanegasaki
-and Habataki festivals...!)");
+MsgDisp("主人公","(The second half was hectic, but enjoying
+both schools' festivals at once is a rare
+treat...!)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(8,0);

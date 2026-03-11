@@ -152,10 +152,9 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ScrFadeIn(0);
 VoicePlay("D030901700_09_160");
-MsgDisp("Kuya","I got such a big present this year.");
-MsgDisp("Kuya","Now it's time for the final push, I'll
-study hard and get into the same
-university as you.");
+MsgDisp("Kuya","I got such a big present this year. Time
+for the final push—I'll study hard to get
+into the same university as you.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

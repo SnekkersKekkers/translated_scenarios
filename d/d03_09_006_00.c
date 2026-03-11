@@ -145,9 +145,8 @@ VoicePlay("D030900600_09_120");
 MsgDisp("Kuya","...Huh? Don't tell me you're becoming a
 \"Jack of All Trades\" too? Haha!");
 MsgDisp("主人公","(Kuya-san's penchant for getting involved
-in things is still going strong.)");
-MsgDisp("主人公","(But I guess I'm starting to see the
-appeal in being a \"Jack of All Trades\"?)");
+hasn't changed, but I'm starting to see
+the appeal of a \"Jack of All Trades\"?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

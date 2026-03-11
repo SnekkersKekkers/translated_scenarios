@@ -9,10 +9,9 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(...Huh?
 I got a text message, who's it from?)");
-MsgDisp("主人公","(...It's from ｛Himuro＊＊｝!)");
-MsgDisp("主人公","\"I didn't think it would actually be made
-into an article.
-I'll keep an eye on it.\")");
+MsgDisp("主人公","(...It's from ｛Himuro＊＊｝!
+\"I didn't think it'd actually become an
+article. I'll keep an eye on it.\")");
 MsgDisp("主人公","(Hehe, looks like he read it right away!
 Let's keep working hard!)");
 MsgClose();

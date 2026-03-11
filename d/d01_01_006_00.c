@@ -61,9 +61,8 @@ Ehh∋
 ｛Kazama＊＊｝∋)");
 VoicePlay("D010100600_01_020");
 MsgDisp("Kazama","Goro Hanatsubaki is a world famous fashion
-designer.");
-MsgDisp("Kazama","This is a great piece that beautifully
-showcases his talents.");
+designer. This piece beautifully showcases
+his creative vision.");
 StlEyeOpenLevel(1,5);
 VoicePlay("D010100600_01_030");
 MsgDisp("Kazama","We will open at 300 Rich.

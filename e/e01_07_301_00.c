@@ -73,10 +73,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("E010730100_07_040");
-MsgDisp("Mikage","That's Honda's talent.
-When he has an interest he gets so
-invested that he forgets to eat or sleep.");
-MsgDisp("Mikage","He's suited to become a researcher.");
+MsgDisp("Mikage","That's Honda's talent. He gets so into
+his interests he forgets to eat or sleep.
+He'd make a great researcher.");
 MsgDisp("主人公","Hehe.");
 ChEye(7,0);
 ChMouth(7,3);

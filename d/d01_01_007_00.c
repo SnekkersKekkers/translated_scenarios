@@ -4,10 +4,9 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's an email from Habatcher's
 Editorial Department.)");
-MsgDisp("主人公","(Let's see, it says...
-\"A fishing tournament is being held at the
-Habataki Campsite\"...)");
-MsgDisp("主人公","(A good opportunity for an interview!)");
+MsgDisp("主人公","(Let's see... \"Fishing tournament at
+Habataki Campsite.\" Might as well go
+cover it!)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);
@@ -43,11 +42,9 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010100700_01_020");
-MsgDisp("Kazama","It's fine if you want to interview me, but
-I'm serious about this, so don't get in my
-way."); 
-MsgDisp("Kazama","If you make a fuss, the fish will run
-away.");
+MsgDisp("Kazama","Interview me if you want, but I'm
+serious, so don't get in my way.
+Make a fuss and the fish will run.");
 MsgDisp("主人公","Got it.");
 ChEye(1,0);
 ChMouth(1,2);

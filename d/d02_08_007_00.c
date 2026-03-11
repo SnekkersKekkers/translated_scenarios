@@ -65,9 +65,8 @@ sleep for tomorrow? Night.");
 MsgDisp("主人公","Good night.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(Hehe, I can't help but think about
-｛Daichi＊＊｝ guiding everyone at Hane
-Academy.)"); 
-MsgDisp("主人公","(I wish we were in the same place...)");
+MsgDisp("主人公","(Hehe, I can picture ｛Daichi＊＊｝ guiding
+everyone at Hane Academy. I wish we were
+together...)");
 MsgClose();
 ScrFadeOut(0);
