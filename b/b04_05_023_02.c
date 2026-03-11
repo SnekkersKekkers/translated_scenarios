@@ -2,8 +2,8 @@ MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040502302_05_000");
 MsgDisp("Hiiragi","No matter when I come here, this place
-always has such a unique worldview.");
-MsgSel("That's a fantastical mushroom, huh","This really is a trichromatic world","It unifies with the blue of the sea");
+always has such a unique atmosphere.");
+MsgSel("Those mushrooms look so fantastical, huh","This really is a trichromatic world","It blends right into the blue of the sea");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){
@@ -45,17 +45,16 @@ Just don't be too certain.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040502302_05_050");
-        MsgDisp("Hiiragi","I suppose it was the artist's intentions
-to evoke different images within the
-people looking at it.");
+        MsgDisp("Hiiragi","I suppose the artist's intention was to
+evoke different images in the people
+looking at it.");
         MsgDisp("主人公","I see.
 Then, what do you think it is,
 ｛Hiiragi＊＊＊｝?");
         ChEye(5,2);
         ChMotion(5,1);
         VoicePlay("B040502302_05_060");
-        MsgDisp("Hiiragi","...Hey, for today I can only see it as a
-mushroom.");
+        MsgDisp("Hiiragi","...Now all I can see today is a mushroom.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040502302_05_070");
@@ -81,8 +80,7 @@ I'm somewhat happy...)");
     DateRateSet(3);
     ChEye(5,4);
     VoicePlay("B040502302_05_090");
-    MsgDisp("Hiiragi","You've really gotten invested in this,
-haven't you?");
+    MsgDisp("Hiiragi","You're really into this, aren't you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -93,10 +91,9 @@ haven't you?");
     ChMouth(5,4);
     ChMotion(5,3);
     VoicePlay("B040502302_05_100");
-    MsgDisp("Hiiragi","I see, the spirit of incorporating the
-natural scenery...The artist made the
-background sea part of the world of their
-work.");
+    MsgDisp("Hiiragi","I see, the spirit of borrowed scenery...
+The artist made the background sea part of
+their work's world.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

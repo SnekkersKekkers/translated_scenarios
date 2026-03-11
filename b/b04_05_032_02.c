@@ -50,25 +50,24 @@ I'm sorry. Was that dull?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040503202_05_040");
-        MsgDisp("Hiiragi","I see...I'm the one who should say that,
-sorry. I made you take my needs into
-consideration.");
+        MsgDisp("Hiiragi","I see...I'm the one who should be sorry.
+I didn't realize I was making you worry
+about me.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("B040503202_05_050");
-        MsgDisp("Hiiragi","Properly speaking, even though I'm the one
-who should be making sure you're having
-fun, it's pathetic of me.");
+        MsgDisp("Hiiragi","I should be the one making sure you're
+having fun. How pathetic of me.");
         MsgDisp("主人公","No, I'm always having fun.");
         ChEye(5,0);
         ChMouth(5,3);
         ChMotion(5,3);
         VoicePlay("B040503202_05_060");
-        MsgDisp("Hiiragi","I'm sorry. I'll be the one entering the
-tube and swimming. In order to rid myself
-of my dullness.");
-        MsgDisp("主人公","Umm, the thing about entering a tube was a
-joke, so it's not doable?");
+        MsgDisp("Hiiragi","I'll reflect on that. I should be the one
+swimming in the tube. To break out of my
+boring shell.");
+        MsgDisp("主人公","Umm, entering the tube was a joke, so you
+can't actually do that, okay?");
         ChEye(5,3);
         ChMotion(5,4);
         VoicePlay("B040503202_05_070");
@@ -86,8 +85,8 @@ laughs at your words.");
         MsgDisp("主人公","...Eh?");
         ChEye(5,3);
         VoicePlay("B040503202_05_090");
-        MsgDisp("Hiiragi","I could grow accustomed to this.
-From now on, prepare yourself, okay?");
+        MsgDisp("Hiiragi","I could get hooked on this.
+From now on, brace yourself, okay?");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 Just now, did you say \"Person you like\"?)");
         break ;
@@ -101,8 +100,8 @@ Just now, did you say \"Person you like\"?)");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("B040503202_05_100");
-    MsgDisp("Hiiragi","Speaking of the south, it is southern in a
-way. The penguins here are apparently from
+    MsgDisp("Hiiragi","South in a way, I suppose.
+The penguins here are apparently from
 areas around Antarctica.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

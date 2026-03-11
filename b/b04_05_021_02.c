@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040502102_05_010");
-    MsgDisp("Hiiragi","Hmmm....Ahーーー. Basically you have to
-breathe from your stomach.");
+    MsgDisp("Hiiragi","Hmm...Ahー.
+Basically you have to breathe from your
+stomach.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -75,7 +76,7 @@ Let's do it together.");
         VoicePlay("B040502102_05_080");
         MsgDisp("Hiiragi","I like youー!");
         MsgDisp("主人公","Ah...
-EHh∋");
+Ehh∋");
         SEPlay("EV_SE_544",0.01);
         MsgClose();
         ChOpen(5,255,2,2,4,#1,#1,10,0,0,30);

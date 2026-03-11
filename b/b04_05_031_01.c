@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040503101_05_000");
 MsgDisp("Hiiragi","It seems it's a recreation of the south
 sea...");
-MsgSel("The colors of the coral are so pretty","There's also big sharks","The face of the ray are so cute");
+MsgSel("The colors of the coral are so pretty","There's also big sharks","The face of the ray is so cute");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -39,7 +39,7 @@ They're not eating the small fish?");
     ChMouth(5,3);
     ChMotion(5,5);
     VoicePlay("B040503101_05_030");
-    MsgDisp("Hiiragi","Really, he's smiling fully.
+    MsgDisp("Hiiragi","You're right, it's totally smiling.
 I wonder if something good happened?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

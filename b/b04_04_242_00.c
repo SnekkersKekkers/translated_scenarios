@@ -29,8 +29,8 @@ I'm the indoors type...");
     ChMotion(4,2,1);
     VoicePlay("B040424200_04_020");
     MsgDisp("Nanatsumori","Seriously∋
-I didn't really think about it that
-seriously...");
+I didn't think about it that
+hard...");
     MsgDateResultDisp();
     break ;
     case 2:

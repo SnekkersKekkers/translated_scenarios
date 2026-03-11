@@ -9,7 +9,7 @@ ChMouth(5,3);
 ChMotion(5,2);
 VoicePlay("B040503300_05_000");
 MsgDisp("Hiiragi","It's amazing isn't it.
-This deep sea production...it's really
+The deep sea set...it's really
 well done.");
 MsgSel("There are creatures living in the sunken ship!","The music also makes it like we're in the sea","It's dark at our feet, so be careful");
 switch (MsgSelRsltGet()){
@@ -30,8 +30,8 @@ It's as if we're in the deep sea.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040503300_05_020");
-    MsgDisp("Hiiragi","The effects of background music ...
-I didn't realize.
+    MsgDisp("Hiiragi","The effect of background music, huh...
+I hadn't noticed.
 That's important too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -43,8 +43,8 @@ That's important too.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("B040503300_05_030");
-    MsgDisp("Hiiragi","I apologize for not paying attention.
-That should've been my responsibility...");
+    MsgDisp("Hiiragi","Sorry for not noticing.
+That should've been my job...");
     MsgDateResultDisp();
     break ;
     default :

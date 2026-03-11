@@ -9,7 +9,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040503200_05_000");
 MsgDisp("Hiiragi","Penguins swimming in the sky.
-It matches what's stated on the sign.");
+Truth in advertising, huh.");
 MsgSel("It really looks like they're flying in the sky...","Doesn't it only say water garden?","Looks like it feels good!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,7 +30,7 @@ waddling on land.");
     ChMotion(5,2);
     VoicePlay("B040503200_05_020");
     MsgDisp("Hiiragi","I'm sorry...
-I over exaggerated a little.");
+I went a little overboard.");
     MsgDateResultDisp();
     break ;
     case 2:

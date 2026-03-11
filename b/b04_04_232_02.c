@@ -68,7 +68,7 @@ I'm asking you this seriously.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_070");
-        MsgDisp("Nanatsumori","If you reorganise it in your head, the
+        MsgDisp("Nanatsumori","If you reorganize it in your head, the
 flow of this conversation just now,
 ...will go there, right?");
         MsgDisp("主人公","...Ah.");

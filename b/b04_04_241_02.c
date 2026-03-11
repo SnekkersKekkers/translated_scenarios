@@ -41,7 +41,7 @@ matter what.");
         ChMotion(4,2,1);
         VoicePlay("B040424102_04_030");
         MsgDisp("Nanatsumori","I don't feel like doing anything though.
-Shall I go home?");
+Wanna go home?");
         MsgDateResultDisp();
         break ;
         case 4:

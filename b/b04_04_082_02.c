@@ -99,7 +99,7 @@ You should get it now too!");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040408202_04_110");
-        MsgDisp("Nanatsumori","I realised for the first time, that there
+        MsgDisp("Nanatsumori","I realized for the first time, that there
 are just some realities I don't need to
 know about...that was the summer when I
 was 5 years old.");

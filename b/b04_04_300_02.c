@@ -116,7 +116,7 @@ things that are important to me.");
         VoicePlay("B040430002_04_120");
         MsgDisp("Nanatsumori","Amongst it all, there's been another
 important thing added. It might just be
-the most important thing of all");
+the most important thing of all.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0);

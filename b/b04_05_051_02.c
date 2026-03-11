@@ -10,7 +10,7 @@ ChMotion(5,4);
 VoicePlay("B040505102_05_000");
 MsgDisp("Hiiragi","The stories of the constellations are
 rather interesting.");
-MsgSel("How about incorporating it in your performance.","I can't help but feel a bit sleepy?","It's a love story huh?");
+MsgSel("How about incorporating it into a performance?","Doesn't it make you a bit sleepy?","It's a love story huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -63,7 +63,7 @@ You should have woken me up.");
         VoicePlay("B040505102_05_060");
         MsgDisp("Hiiragi","Why is that?
 Even though you were that comfortable?");
-        MsgDisp("主人公","You should have because it's embarrassing.");
+        MsgDisp("主人公","Because it's embarrassing, obviously.");
         ChEye(5,2);
         ChMouth(5,2);
         ChMotion(5,2);
@@ -84,13 +84,14 @@ I was the one who fell asleep...");
         VoicePlay("B040505102_05_090");
         MsgDisp("Hiiragi","Hehe, we didn't even say our impressions
 on the planetarium.");
-        MsgDisp("主人公","Hehe, speaking of, that's strange isn't
-it?");
+        MsgDisp("主人公","Hehe.
+Come to think of it, that is strange,
+isn't it?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040505102_05_100");
-        MsgDisp("Hiiragi","Yes. Talking about being sleepy, being
-woken up...What were we even saying?");
+        MsgDisp("Hiiragi","Yes. Going on about being sleepy, about
+waking me up...What were we even saying?");
         MsgDisp("主人公","Seriously.");
         ChEye(5,4);
         ChMotion(5,0);

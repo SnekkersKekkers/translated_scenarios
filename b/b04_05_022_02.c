@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040502202_05_010");
     MsgDisp("Hiiragi","Sounds good.
-When you say it, it sounds as if it could
-simply be reality, and it gets me excited.");
+When you say it, it feels like it could
+actually happen. That gets me excited.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -80,8 +80,8 @@ different areas, and that was fun.");
         ChEye(5,2);
         ChMotion(5,2);
         VoicePlay("B040502202_05_080");
-        MsgDisp("Hiiragi","But, it would be more difficult on a small
-child right?");
+        MsgDisp("Hiiragi","But it must be harder on a young child,
+right?");
         MsgDisp("主人公","That's right.");
         ChEye(5,4);
         ChMotion(5,0);
