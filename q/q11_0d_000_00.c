@@ -71,7 +71,7 @@ We made a perfect memory!");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);
-VoicePlay("Q110D00000_21_040");
+VoicePlay("Q110D00000_21_050");
 MsgDisp("Michiru","Yeah, really.
 How could you forget such an interesting
 event?");

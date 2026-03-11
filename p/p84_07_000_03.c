@@ -1,4 +1,5 @@
-
+ScrFadeIn(0);
+VoicePlay("P840700003_48_000");
 MsgDisp("School Girl","Haa...this much is left over...
 Seems like the wrong amount of materials
 were ordered...");

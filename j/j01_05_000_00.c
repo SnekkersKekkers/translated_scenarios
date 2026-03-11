@@ -19,7 +19,7 @@ Is there anything you need?");
     VoicePlay("J010500000_05_020");
     MsgDisp("Hiiragi","Hello, Hiiragi speaking.");
     MsgDisp("主人公","Ah, hello, it's ｛主人公苗字｝.");
-    VoicePlay("J010500000_05_010");
+    VoicePlay("J010500000_05_030");
     MsgDisp("Hiiragi","Yes.
 Is something the matter?");
     MsgDisp("主人公","Uhm, well...");

@@ -24,7 +24,7 @@ What's this about?");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝?
 It's ｛主人公苗字｝.
 Is this a good time to talk?");
-    VoicePlay("J010400000_04_010");
+    VoicePlay("J010400000_04_030");
     MsgDisp("Nanatsumori","Yeah, it's fine.
 What's up?");
     MsgDisp("主人公","Uh, well...");

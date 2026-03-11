@@ -6,4 +6,5 @@ I'm sick...");
 MsgDisp("主人公","But because the Gardening Club is doing a
 cafe and selling vegetables, I have to go
 prepare...");
+MsgClose();
 ScrFadeOut(0);

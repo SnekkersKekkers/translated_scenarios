@@ -98,6 +98,9 @@ love.");
     MsgDisp("Hikaru","If it's the chairman, there's nothing to
 worry about.
 The love show will become reality soon▼");
+    StlEye(22,2);
+    StlMouth(22,0);
+    VoicePlay("U130D00004_22_050");
     MsgDisp("Hikaru","Do you think we'll get to see Yanosuke's
 passionate side soon? Ah～n, Hikaru wants
 to see that performance～▼");

@@ -52,6 +52,7 @@ VoicePlay("Q110100000_01_060");
 MsgDisp("Kazama","...It was worth the time it took to
 choose.");
 MsgDisp("主人公","Eh?");
+ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q110100000_01_070");

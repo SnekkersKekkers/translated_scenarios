@@ -24,7 +24,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0);
 VoiceEVSPlay(3);
-VoicePlay("X210300000_03_010");
+VoicePlay("X210300000_03_000");
 MsgDisp("Honda","｛主人公｝.");
 MsgDisp("主人公","W-What?");
 ChEye(3,4);

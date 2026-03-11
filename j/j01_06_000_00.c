@@ -20,7 +20,7 @@ It's ｛主人公苗字｝, is now a good time?");
     MsgDisp("Himuro","Yes.");
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝?
 It's ｛主人公苗字｝, is now a good time?");
-    VoicePlay("J010600000_06_010");
+    VoicePlay("J010600000_06_030");
     MsgDisp("Himuro","Yeah it's fine, what's going on?");
     MsgDisp("主人公","Um, well...");
     break ;
