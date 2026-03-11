@@ -81,8 +81,8 @@ fire?");
         MsgDisp("Kazama","Right. It's just me and you warming
 ourselves by the fire. What do you think
 of that?");
-        MsgDisp("主人公","Yeah, I feel kinda, overwhelmingly at
-peace?");
+        MsgDisp("主人公","Yeah, it feels... really peaceful,
+somehow?");
         VoicePlay("B040124202_01_080");
         MsgDisp("Kazama","Alright!");
         SEPlay("EV_SE_524",0,1);

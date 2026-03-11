@@ -6,8 +6,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040314000_03_000");
 MsgDisp("Honda","It was an unknown experience.");
-MsgSel("Haa, that was the best!","That was so-so, huh...","The sound was so loud,
- my ears are ringing...");
+MsgSel("Haa, that was the best!","That was so-so, huh...","The sound was so loud, my ears are ringing...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

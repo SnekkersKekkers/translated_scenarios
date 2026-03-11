@@ -40,8 +40,8 @@ The screen there is brighter, though.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040205101_02_030");
-    MsgDisp("Sassa","You think that's funny, huh? Well, you got
-me. It's worse though because you're
+    MsgDisp("Sassa","You think that's funny, huh? Well, you're
+right. It's worse, though, because you're
 forced to sit still.");
     MsgDateResultDisp();
     break ;

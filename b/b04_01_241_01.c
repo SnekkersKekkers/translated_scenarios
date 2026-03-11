@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040124101_01_010");
     MsgDisp("Kazama","Phewー...
-Thanks to you, I inhaled the smell of the
-animals with all of my might.");
+Thanks to you, I just took a huge whiff
+of animal stink.");
     MsgDateResultDisp();
     break ;
     case 1:

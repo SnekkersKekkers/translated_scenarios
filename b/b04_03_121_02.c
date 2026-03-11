@@ -46,7 +46,7 @@ aiming on making a profit.");
         VoicePlay("B040312102_03_030");
         MsgDisp("Honda","But I think it's fine.
 Deciding on a goal for your stall, and
-thinking up on how to achieve it.");
+figuring out how to achieve it.");
         MsgDisp("主人公","｛Honda＊＊｝, what sort of stall would you
 set up?");
         ChEye(3,0);

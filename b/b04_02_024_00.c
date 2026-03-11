@@ -40,7 +40,7 @@ I should learn from you.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040202400_02_030");
-    MsgDisp("Sassa","Wait, you just call me cute?");
+    MsgDisp("Sassa","Wait, did you just call me cute?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

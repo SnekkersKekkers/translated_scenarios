@@ -16,10 +16,9 @@ switch (MsgSelRsltGet()){
     ChEye(3,0);
     ChMotion(3,0);
     VoicePlay("B040308401_03_010");
-    MsgDisp("Honda","Yep yep, it's amazing that you can't tell
-whether the autumn colours are reflected
-on the water's surface...or fallen leaves
-are actually floating on the water.");
+    MsgDisp("Honda","Yep yep, it's hard to tell if the autumn
+colours are reflected on the water or if
+fallen leaves are actually floating.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,10 +29,9 @@ are actually floating on the water.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040308401_03_020");
-    MsgDisp("Honda","The fallen leaves will become food for the
-little snails, and then these snails will
-be eaten by the firefly larvae. Hey, the
-cycle is complete huh?");
+    MsgDisp("Honda","The fallen leaves become food for little
+snails, and those snails get eaten by
+firefly larvae. The cycle is complete!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -3,9 +3,9 @@ ChLayout(1);
 ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311002_03_000");
-MsgDisp("Honda","If I also wore a high speed, competitive
-swim suit, I wonder if I could swim
-quicker?");
+MsgDisp("Honda","If I wore a high-speed competitive
+swimsuit, I wonder if I could swim
+faster?");
 MsgSel("Like a sharkskin swimsuit?","Is speed really the issue?","Starting with the looks first?");
 switch (MsgSelRsltGet()){
     case 0:

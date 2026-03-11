@@ -116,8 +116,8 @@ didn't have as a child.");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040130002_01_110");
-        MsgDisp("Kazama","You're not just the cute girl from the
-neighborhood who was my friend now.");
+        MsgDisp("Kazama","You're not just the cute neighborhood girl
+who used to be my friend anymore.");
         MsgDisp("主人公","I'm now——");
         ChEye(1,1);
         ChMouth(1,1);

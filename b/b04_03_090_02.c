@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040309002_03_010");
-    MsgDisp("Honda","Yep yep, it's interesting.
-It's good if you stroke them too.
-I'll try that next time.");
+    MsgDisp("Honda","Yep yep, it's interesting, right?
+Apparently stroking them is good too.
+Let's try that next time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

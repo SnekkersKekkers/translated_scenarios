@@ -3,7 +3,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,2,8,#1,0,0);
 VoicePlay("B040402302_04_000");
 MsgDisp("Nanatsumori","There's lots of couples huh...");
-MsgSel("Aren't we also one?","How sweet","Is there some sort of jinx on us?");
+MsgSel("Aren't we also one?","How sweet","Is there some sort of superstition about this place?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){
