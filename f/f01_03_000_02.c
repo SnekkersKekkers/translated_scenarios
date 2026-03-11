@@ -22,6 +22,7 @@ Do you need something?");
         VoicePlay("F010300002_03_010");
         MsgDisp("Honda","Hm?
 What's up?");
+        MsgDisp("主人公","How about we go home together today?");
         break ;
         case 4:
         case 5:
