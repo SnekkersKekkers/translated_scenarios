@@ -43,9 +43,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B150500300_05_070");
-MsgDisp("Hiiragi","I'm happy with our relationship the way it
-is now.
-You understand that right?");
+MsgDisp("Hiiragi","I'm happy with our relationship as it is.
+You understand that, right?");
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500300_05_080");
 MsgDisp("Hiiragi","Please.");

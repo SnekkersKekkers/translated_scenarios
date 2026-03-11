@@ -38,9 +38,9 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100300_01_040");
-MsgDisp("Kazama","Haa...Listen, we're basically in front of
-your house. What would you do if your
-family saw you?");
+MsgDisp("Kazama","Haa...we're basically in front of your
+house. What would you do if your family
+saw you?");
 MsgDisp("主人公","Ah...
 I would probably be a bit embarrassed.");
 ChEye(1,0);

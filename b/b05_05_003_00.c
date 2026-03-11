@@ -64,10 +64,9 @@ MsgDisp("主人公","Yeah, it's delicious.");
 StlEye(5,1);
 StlMouth(5,0);
 VoicePlay("B050500300_05_060");
-MsgDisp("Hiiragi","A long time ago, I attended elementary
-school in Tohoku for a short period. At
-that time, we built an igloo in the school
-yard.");
+MsgDisp("Hiiragi","A long time ago, I went to school in
+Tohoku for a while. We built an igloo in
+the schoolyard.");
 MsgDisp("主人公","Eh...that's amazing!");
 StlEyeOpenLevel(5,5);
 StlMouth(5,0);

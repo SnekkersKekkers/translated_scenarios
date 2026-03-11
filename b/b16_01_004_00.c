@@ -12,9 +12,8 @@ switch (MsgSelRsltGet()){
     NSSMouth(1,0);
     NSSEyeOpenLevel(1,5);
     VoicePlay("B160100400_01_010");
-    MsgDisp("Kazama","If you understand then, it's your own
-responsibility.
-No matter what I do.");
+    MsgDisp("Kazama","If you understand, then it's your own
+responsibility. No matter what I do.");
     break ;
     case 1:
     NSSEye(1,2);

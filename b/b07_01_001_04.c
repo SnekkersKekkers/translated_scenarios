@@ -23,10 +23,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_200");
-MsgDisp("Kazama","Inori joins Sassa and keeps saying things
-like I should do track and field or go
-surfing. In the end, it's like, \"Why not
-try e-sports instead?\"");
+MsgDisp("Kazama","Inori joins in too, saying I should do
+track, surfing... In the end, it's like,
+\"Why not try e-sports instead?\"");
 MsgDisp("主人公","Hehe, ｛Himuro＊＊｝ wants to go surfing with
 ｛Kazama＊＊｝ doesn't he?");
 ChEye(1,0);

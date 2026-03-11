@@ -62,10 +62,9 @@ MsgDisp("主人公","......");
 ChEye(33,2);
 ChMouth(33,2);
 VoicePlay("B110500000_33_050");
-MsgDisp("Guy","I-I'm sorry. Today's one is only visible
-to respectable individuals so I'll come
-back next time when there's something that
-can be seen.");
+MsgDisp("Guy","I-I'm sorry. Today's is only visible to
+respectable folks, so I'll come back when
+there's one you can see.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(33);

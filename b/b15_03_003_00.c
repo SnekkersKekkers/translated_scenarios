@@ -30,10 +30,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B150300300_03_040");
-MsgDisp("Honda","Hey, can you tell me about your side of
-things? Is the reason you touch me the
-same? Does it come from romantic feelings
-too?");
+MsgDisp("Honda","Hey, tell me about your side of things.
+Is the reason you touch me the same?
+Does it come from romantic feelings too?");
 MsgDisp("主人公","Well...");
 ChEye(3,0);
 ChMouth(3,4);

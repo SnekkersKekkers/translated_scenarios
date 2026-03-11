@@ -28,8 +28,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B150700300_07_030");
-MsgDisp("Mikage","Haha, you're on par with an athlete.
-Do my movements appear frozen to you?");
+MsgDisp("Mikage","Haha, you're practically an athlete.
+Do my movements look frozen to you?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

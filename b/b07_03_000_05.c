@@ -13,9 +13,8 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("B070300000_03_260");
 MsgDisp("Honda","Yeah, I guess it depends on how you define
-the word hobby. Do you mean it in the
-sense of something you like and do
-habitually...");
+hobby. If you mean something you enjoy
+and do habitually...");
 MsgDisp("主人公","Don't overthink it.");
 ChMotion(3,4);
 VoicePlay("B070300000_03_270");
@@ -46,9 +45,8 @@ ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_300");
 MsgDisp("Honda","When aquatic plants form oxygen bubbles,
-doesn't it make you think of Earth's
-ancient oceans? In addition to that, I
-like to use my telescope.");
+it makes you think of Earth's ancient
+oceans, right? Then I go peek through my telescope.");
 MsgDisp("主人公","(｛Honda＊＊｝'s hobbies are not so easy to
 learn...)");
 BGMStop();

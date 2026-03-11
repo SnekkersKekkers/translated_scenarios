@@ -31,10 +31,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360217001_02_030");
-MsgDisp("Sassa","Hmm, I listened to it too much during
-training that when I hear that sort of
-song, my body starts to move naturally on
-its own.");
+MsgDisp("Sassa","Hmm, I listened to it so much during
+training that when I hear those songs,
+my body just starts moving on its own.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

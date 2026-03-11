@@ -132,10 +132,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20501_05_040");
 MsgDisp("Hiiragi","Sounds good.");
-MsgDisp("主人公","(I can understand why ｛Mikage＊＊｝ is
-popular with the male students too...Both
-｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ look like
-they're having fun...)");
+MsgDisp("主人公","(I can see why ｛Mikage＊＊｝ is popular
+with the male students too... ｛Hiiragi＊＊＊｝
+and ｛Himuro＊＊｝ look like they're having fun...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

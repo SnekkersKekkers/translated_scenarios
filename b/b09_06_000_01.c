@@ -9,12 +9,11 @@ VoicePlay("B090600001_06_000");
 MsgDisp("Himuro","Hello, it's me.");
 MsgDisp("主人公","Huh, ｛Himuro＊＊｝?");
 VoicePlay("B090600001_06_010");
-MsgDisp("Himuro","You know why I called you right?");
+MsgDisp("Himuro","You know why I called you, right?");
 VoicePlay("B090600001_06_020");
 MsgDisp("Himuro","Normally, if something happens you should
-at least get in touch right? You should
-properly reflect for wasting someone's
-time. That's all.");
+at least get in touch, right? Reflect on
+wasting someone's time. That's all.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Oh no!

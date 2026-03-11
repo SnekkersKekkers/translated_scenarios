@@ -25,10 +25,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B150300400_03_030");
-MsgDisp("Honda","Maybe a big bang! Just kidding. I don't
-really get it, but when you touch me,
-something deep inside my chest starts
-getting out of hand.");
+MsgDisp("Honda","Maybe a big bang! Just kidding.
+I don't really get it, but when you touch
+me, something in my chest grows restless.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);

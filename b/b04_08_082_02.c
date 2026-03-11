@@ -6,10 +6,9 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,2,1);
 VoicePlay("B040808202_08_000");
-MsgDisp("Shirahane","There's an an urban legend here. When you
-look at the fireflies flying around,
-you'll unintentionally reveal what's in
-your heart.");
+MsgDisp("Shirahane","There's an urban legend here. When you
+look at the fireflies flying around, you
+unintentionally reveal what's in your heart.");
 MsgSel("I don't believe it.","It sure is strange, isn't it...","I want to know what's in ｛Daichi＊＊｝'s heart▼");
 switch (MsgSelRsltGet()){
     case 0:

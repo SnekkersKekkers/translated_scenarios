@@ -71,10 +71,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20701_03_030");
-MsgDisp("Honda","Males sing a lot, and even talk. They like
-their flock a lot, and are always in
-groups. I have a lot more fun with
-everyone too.");
+MsgDisp("Honda","Males sing a lot, and even talk. They love
+their flock and are always in groups.
+I have more fun with everyone too.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

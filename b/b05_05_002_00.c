@@ -121,8 +121,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B050500200_05_120");
-MsgDisp("Hiiragi","Thank you. I suppose this gives me more of
-the unifying power I need. Shall we leave?");
+MsgDisp("Hiiragi","Thank you.
+Maybe now I have a bit more of that
+unifying power. Shall we go?");
 MsgDisp("主人公","Y-Yeah.");
 MsgClose();
 SEPlay("EV_SE_626");

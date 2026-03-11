@@ -61,10 +61,9 @@ VoicePlay("B150100500_01_060");
 MsgDisp("Kazama","Well, it's fine. Just know I grew up in a
 culture where hugs and kisses were used as
 a greeting. Be prepared.");
-MsgDisp("主人公","(He's talking about English-style
-skinship...Huh, haven't I heard this
-before? I wonder if ｛Kazama＊＊｝ is
-alright?)");
+MsgDisp("主人公","(English-style skinship again...
+Haven't I heard this before?
+I wonder if ｛Kazama＊＊｝ is alright?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

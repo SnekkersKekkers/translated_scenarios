@@ -23,10 +23,9 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B070100002_01_090");
-MsgDisp("Kazama","What's up with you saying it's cute! Don't
-get the wrong idea, it just happens to
-come up. Doesn't mean we always talk about
-sweets.");
+MsgDisp("Kazama","What's cute about it?! Don't get the wrong
+idea, it just comes up sometimes. We don't
+always talk about sweets.");
 MsgDisp("主人公","What other sorts of things do you talk
 about?");
 ChEye(1,0);

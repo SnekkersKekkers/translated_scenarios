@@ -52,8 +52,8 @@ MsgDisp("Mikage","Actually instead of calming me down,
 touching me too much might have the
 opposite effect~?");
 MsgDisp("主人公","(Maybe I overdid it today...
-But what will happen when there's the
-'opposite effect? ')");
+But what does he mean by
+'opposite effect'?)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

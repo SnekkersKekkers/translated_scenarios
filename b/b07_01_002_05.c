@@ -39,10 +39,9 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);
 VoicePlay("B070100002_01_320");
-MsgDisp("Kazama","I'm an only child so I don't get these
-feelings, but we can't lose in terms of
-closeness. We've known each other way
-longer!");
+MsgDisp("Kazama","I'm an only child so I don't get that,
+but we can't lose on closeness.
+We've known each other way longer!");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems kind of mad?)");
 BGMStop();
 MsgClose();

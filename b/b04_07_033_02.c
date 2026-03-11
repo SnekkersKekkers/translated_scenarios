@@ -32,7 +32,7 @@ I can't refute a single word.");
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040703302_07_020");
-        MsgDisp("Mikage","Please talk about sea creatures.");
+        MsgDisp("Mikage","Please talk about deep sea creatures.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -57,7 +57,7 @@ And altitude adaptation...no, never mind.");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040703302_07_050");
-        MsgDisp("Mikage","That would be easier, right?");
+        MsgDisp("Mikage","That would be nice, wouldn't it?");
         MsgDisp("主人公","Then, next time let's go somewhere high up
 and count to 10 together?");
         ChEye(7,0);

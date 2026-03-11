@@ -63,10 +63,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_240");
-MsgDisp("Mikage","Listen up, at first glance you might be
-different but you should cherish the
-friends you can empathize with on a deeper
-level okay?");
+MsgDisp("Mikage","Listen up, at first glance you might seem
+different, but cherish the friends you
+can empathize with on a deeper level.");
 MsgDisp("主人公","(｛Mikage＊＊｝, ｛Hiiragi＊＊＊｝
 and ｛Himuro＊＊｝ seem different,
 but maybe they're similar too?)");

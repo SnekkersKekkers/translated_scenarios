@@ -54,8 +54,7 @@ ChCheek(4,10);
 VoicePlay("B070400000_04_610");
 MsgDisp("Nanatsumori","Honestly, it's fun, and...they're amazing.
 They can turn anything into something
-positive. That's how powerful their
-presence is.");
+positive. That presence is incredible.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);

@@ -31,10 +31,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_620");
-MsgDisp("Honda","I've used a boar bristle brush that's
-supposed to be good for hair, and tried
-all sorts of shampoos from different
-brands.");
+MsgDisp("Honda","I've used a boar bristle brush that's good
+for hair, and tried all sorts of shampoos
+from different brands.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
@@ -42,10 +41,9 @@ VoicePlay("B070300001_03_630");
 MsgDisp("Honda","Oh yeah!");
 ChSet(3,3);
 VoicePlay("B070300001_03_640");
-MsgDisp("Honda","I even tried applying oil before drying my
-hair because I heard it adds shine and
-keeps it from getting damaged. I've used
-everything from camellia oil to olive oil!");
+MsgDisp("Honda","I heard applying oil before drying keeps
+it from getting damaged and adds shine.
+I tried everything from camellia to olive oil!");
 MsgDisp("主人公","Wow, that's impressive!");
 ChEye(3,3);
 ChMouth(3,3);

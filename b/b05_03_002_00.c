@@ -113,10 +113,9 @@ ChMouth(3,3);
 ChMouth(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("B050300200_03_130");
-MsgDisp("Honda","It's good that I discovered how much fun
-this sort of thing could be back in
-elementary school. To be honest, it's how
-I got started.");
+MsgDisp("Honda","Discovering that joy back in elementary
+school was huge. To be honest, it's how I
+got started.");
 MsgDisp("主人公","(｛Honda＊＊｝ has a really happy look on
 his face...)");
 BGMStop();

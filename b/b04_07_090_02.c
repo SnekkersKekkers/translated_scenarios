@@ -76,10 +76,9 @@ stimulated in all sorts of ways.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040709002_07_080");
-        MsgDisp("Mikage","You know, I didn't get any stimulus during
-my high school years, when I should've be
-growing. That's why I'm getting it from
-you guys now...");
+        MsgDisp("Mikage","I didn't get any stimulus during my high
+school years, when I should've been
+growing. That's why I'm getting it now...");
         MsgDisp("主人公","(｛Mikage＊＊｝'s time at high
 school...')");
         break ;

@@ -76,7 +76,7 @@ Suit yourself.");
         VoicePlay("B040723602_07_060");
         MsgDisp("Mikage","Look. Now, there's no need to worry we'll
 get separated, but you can't see anything,
-right?～?");
+right～?");
         MsgDisp("主人公","I can see ｛Mikage＊＊｝ very well.");
         ChEye(7,1);
         ChMouth(7,1);

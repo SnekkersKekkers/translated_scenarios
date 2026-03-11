@@ -117,10 +117,9 @@ VoicePlay("B050700300_07_120");
 MsgDisp("Mikage","That's right.
 I'll be counting on you to stick with me
 for everything the free pass covers today.");
-MsgDisp("主人公","(After bowling, the next thing that
-｛Mikage＊＊｝ wants to do is go to the
-theme park...Alright, I'll enjoy it with
-him too!)");
+MsgDisp("主人公","(After bowling, ｛Mikage＊＊｝'s next thing
+is the theme park... Alright, I'll enjoy
+it with him too!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

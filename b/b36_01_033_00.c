@@ -18,10 +18,9 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360103300_01_010");
-MsgDisp("Kazama","It's got nothing to do with the place. I
-like the difference between how you are
-when we're part of a group to when it's
-just the two of us.");
+MsgDisp("Kazama","It's got nothing to do with the place.
+I like the difference between how you are
+in a group vs. just the two of us.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,3);

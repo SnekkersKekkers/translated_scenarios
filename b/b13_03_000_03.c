@@ -7,5 +7,4 @@ ChMotion(3,1,1);
 VoicePlay("B130300003_03_000");
 MsgDisp("Honda","Oh, right, be careful with your skirt!
 Make sure to hold it down properly. My
-sister had a bit of an incident with hers
-once.");
+sister had an incident with hers once.");

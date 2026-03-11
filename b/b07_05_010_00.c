@@ -104,10 +104,9 @@ ChCheek(5,0);
 VoicePlay("B070501000_05_120");
 MsgDisp("Hiiragi","Fuu...
 I nearly said something outrageous.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝...? It seems like he's
-thinking very thoroughly about love. But,
-what kind of outrageous thing was he
-talking about?)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...? It seems like he really
+thought hard about love. But what kind of
+outrageous thing was he talking about?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

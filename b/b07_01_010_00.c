@@ -44,18 +44,16 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("B070101000_01_040");
 MsgDisp("Kazama","Ever since then, I've been thinking about
-it. It might have been unconscious for
-you, but I thought about the meaning of
-you asking me that kind of question.");
+it. It might've been unconscious, but I
+thought about why you'd ask me that.");
 MsgDisp("主人公","｛風真＊＊｝...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B070101000_01_050");
-MsgDisp("Kazama","I decide a lot of different things based
-on only my own circumstance, so the time
-and place where I'll tell you my feelings
-have already been decided.");
+MsgDisp("Kazama","I tend to decide things based on my own
+circumstances, so the time and place to
+tell you my feelings are already decided.");
 MsgDisp("主人公","Eehh∋");
 ChEye(1,4);
 ChMouth(1,2);
@@ -69,9 +67,8 @@ ChMotion(1,0);
 VoicePlay("B070101000_01_070");
 MsgDisp("Kazama","...How about it?");
 MsgDisp("主人公","Ummm...before, I just wanted to ask a
-little on ｛風真＊＊｝'s views on love. I
-didn't really think about it too
-carefully.");
+little about ｛風真＊＊｝'s views on love.
+I didn't really think about it carefully.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

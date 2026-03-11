@@ -49,10 +49,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20800_02_010");
-MsgDisp("Sassa","Then how about this: we each take turns
-going with her; one person takes the
-rollercoaster, one the ferris wheel, and
-another teacups. Keep the peace.");
+MsgDisp("Sassa","How about we pair up for each ride:
+rollercoaster, ferris wheel, and teacups?
+That'll keep the peace.");
 ChMouth(1,0);
 ChMotion(1,0,1);
 ChEye(2,3);

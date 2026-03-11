@@ -12,9 +12,8 @@ The girl I approached was a member of
 Habataki Theater Company～?");
 VoicePlay("B110500002_35_010");
 MsgDisp("Guy?","That makes it easier, right? Theater is
-lowly, tough work so dangle a debut in
-front of them, and they'll sign right
-away!");
+tough grunt work, so dangle a debut and
+they'll sign right away!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,0,0,#1,#1,0,0);

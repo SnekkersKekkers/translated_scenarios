@@ -23,10 +23,9 @@ VoicePlay("B100500000_05_030");
 MsgDisp("Hiiragi","I'm troubled...
 Then, how about this.");
 VoicePlay("B100500000_05_040");
-MsgDisp("Hiiragi","Only we know of what happened today. If
-both of us forgot it, it would no longer
-exist in this world. I've forgotten, so
-it's only you.");
+MsgDisp("Hiiragi","Only we know what happened today. If we
+both forget, it won't exist in this world.
+I've already forgotten. Now it's your turn.");
 MsgDisp("主人公","Yeah, thank you.");
 VoicePlay("B100500000_05_050");
 MsgDisp("Hiiragi","Hey, there's no need to thank me.

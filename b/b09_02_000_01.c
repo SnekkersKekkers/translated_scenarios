@@ -13,10 +13,9 @@ VoicePlay("B090200000_02_010");
 MsgDisp("Sassa","I was waiting for a while, but I'm going
 home now.");
 VoicePlay("B090200000_02_020");
-MsgDisp("Sassa","It's not like I'm mad or anything, but
-next time can you at least send me a
-message? I was worried sick. See you
-later.");
+MsgDisp("Sassa","If you just forgot, that's bad, but okay.
+But I worry, so at least message me.
+See you later.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Damn it!

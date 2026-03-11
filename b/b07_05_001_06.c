@@ -11,9 +11,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B070500001_05_440");
-MsgDisp("Hiiragi","Yes, of course. I have no intention of
-leaving you to decide on your own, but
-that's dependent on you.");
+MsgDisp("Hiiragi","Yes, of course. I don't intend to leave
+it all up to you, but it does depend on
+you.");
 MsgDisp("主人公","Dependent on me?");
 ChEye(5,4);
 ChMotion(5,0);
@@ -32,16 +32,14 @@ I wouldn't say that!");
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B070500001_05_470");
-MsgDisp("Hiiragi","It's a joke. But even though we completely
-differ in terms of age, gender, club
-activities and interests, we still
-naturally gathered together.");
+MsgDisp("Hiiragi","It's a joke. But even though we differ
+completely in age, gender, hobbies, and
+clubs, we still naturally came together.");
 ChEye(5,4);
 VoicePlay("B070500001_05_480");
-MsgDisp("Hiiragi","It's strange isn't it? I don't even
-understand the reasoning myself. It's
-difficult to destroy something you do not
-understand.");
+MsgDisp("Hiiragi","Strange, isn't it? I don't even understand
+the reason myself. It's hard to destroy
+something you don't understand.");
 MsgDisp("主人公","Yeah.
 Yeah, we're definitely a weird lineup.");
 ChEye(5,3);

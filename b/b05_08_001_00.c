@@ -92,10 +92,9 @@ StlEye(8,1);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("B050800100_08_110");
-MsgDisp("Shirahane","Actually, I heard about someone who used
-to come here to image train for their
-dreams. They were a former student at Hane
-School.");
+MsgDisp("Shirahane","I heard an alum from Hane School used to
+come here to do image training for their
+dreams.");
 StlEye(8,1);
 StlMouth(8,0);
 VoicePlay("B050800100_08_120");

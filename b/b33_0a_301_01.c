@@ -89,10 +89,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30101_06_040");
-MsgDisp("Himuro","Even though both Nozomu-senpai and
-Ryota-senpai are superhuman, it's good
-that their weak point is so easy to
-understand.");
+MsgDisp("Himuro","Even though Nozomu-senpai and Ryota-senpai
+are superhuman, it's nice that their weak
+points are so easy to understand.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -114,9 +113,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30101_06_060");
-MsgDisp("Himuro","Your weakness is the easiest to understand
-...
-Right?");
+MsgDisp("Himuro","Your weakness is the easiest to
+understand... Right?");
 MsgDisp("主人公","Eh?
 Me...?");
 ChEye(1,0);

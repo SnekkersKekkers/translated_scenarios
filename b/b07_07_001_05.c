@@ -48,10 +48,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700001_07_400");
-MsgDisp("Mikage","And then, Yanosuke will say something like
-\"Now that you mention it, the other day we
-ordered the same thing\" as if to get the
-upper hand.");
+MsgDisp("Mikage","Then Yanosuke will say something like
+\"We ordered the same thing the other day\"
+as if to get the upper hand.");
 MsgDisp("主人公","Hah...");
 ChEye(7,0);
 ChMouth(7,0);

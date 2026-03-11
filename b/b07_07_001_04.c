@@ -51,17 +51,15 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_310");
 MsgDisp("Mikage","They can't forgive that I'm the only one
-who has information on you. Even if I say
-it's because I'm your homeroom teacher,
-they can't accept that.");
+with info on you. Even if I say it's
+because I'm your homeroom teacher.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B070700001_07_320");
-MsgDisp("Mikage","Yanosuke will go, \"That's hardly fair\" and
-Inori will normally say something like
-\"How childish\", nonsensical stuff like
-that.");
+MsgDisp("Mikage","Yanosuke will go, \"That's hardly fair\"
+and Inori says stuff like \"How childish\".
+Nonsensical stuff like that.");
 MsgDisp("主人公","What information do you have on me?");
 ChEye(7,0);
 ChMouth(7,0);

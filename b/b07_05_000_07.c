@@ -22,10 +22,9 @@ ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B070500000_05_320");
-MsgDisp("Hiiragi","Apart from that, putting Habataki Theater
-troupe on track to being loved by citizens
-for years to come, that is also my
-personal dream.");
+MsgDisp("Hiiragi","Apart from that, getting Habataki Theater
+on track to be loved by citizens for years
+to come is also my personal dream.");
 MsgDisp("主人公","Yeah, you'll be able to make both dreams
 come true, ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);

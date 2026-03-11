@@ -58,10 +58,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330B20300_01_010");
 MsgDisp("Kazama","This is because you're talking about bugs
 to Nanatsumori.");
-MsgDisp("主人公","Hey, there are also a lot of different
-kinds of flowers, so why don't you
-concentrate on looking at them when
-walking around?");
+MsgDisp("主人公","Hey, there are lots of different flowers
+too, so why don't we focus on looking at
+those instead?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

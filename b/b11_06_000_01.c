@@ -52,9 +52,8 @@ ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110600001_34_040");
 MsgDisp("Guy","Exactly. I've been lost in the sea of
-information for 10 years. Finally, I've
-found you. Now, let's go surfing the net
-together———");
+information for 10 years. Finally, I found
+you. Now, let's go net surfing together—");
 MsgDispSksp(1,5);
 ChEye(6,1);
 ChMouth(6,0);
@@ -73,10 +72,9 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B110600001_06_030");
-MsgDisp("Himuro","It's enough to refer to anyone who hides
-their face with a hood and sunglasses to
-deceive people as \"this\". If you don't
-like it, act properly.");
+MsgDisp("Himuro","Anyone who hides behind a hood and
+sunglasses to deceive people is a \"this\".
+If you don't like it, act properly.");
 MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);

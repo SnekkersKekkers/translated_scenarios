@@ -46,10 +46,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700000_07_110");
-MsgDisp("Mikage","Yeah. But, for some reason, it's not on
+MsgDisp("Mikage","Yeah. But for some reason, it's not on
 the school cafeteria menu. If I have one
-complaint about Habataki High School, it's
-that");
+complaint about Habataki High, it's that.");
 MsgDisp("主人公","(That's true...why is that?)");
 BGMStop();
 MsgClose();

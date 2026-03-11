@@ -5,10 +5,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B070100001_01_300");
-MsgDisp("Kazama","Well yeah. I get me, you and Sassa. We're
-childhood friends after all. But if you
-think about it, Inori is a strange
-addition.");
+MsgDisp("Kazama","Well yeah. Me, you and Sassa make sense,
+we're childhood friends. But if you think
+about it, Inori is a strange addition.");
 MsgDisp("主人公","It's not strange but, I wonder if
 ｛Himuro＊＊｝ likes us?");
 ChEye(1,2);

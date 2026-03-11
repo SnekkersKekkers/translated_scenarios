@@ -13,10 +13,9 @@ Wait(8,0);
 ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("B070100000_01_020");
-MsgDisp("Kazama","I'm not interested, there are so many
-stupid shows. Especially variety shows?
-Pranks and stuff. Watching those makes me
-feel bad.");
+MsgDisp("Kazama","I'm not interested, they're all garbage.
+Especially variety shows? Pranks and stuff.
+Watching those makes me feel bad.");
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Sometimes they do pretty extreme stuff...");
 ChEye(1,0);

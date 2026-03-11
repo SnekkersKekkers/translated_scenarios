@@ -33,10 +33,9 @@ yourself in a fairytale world after all.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040623601_06_020");
-    MsgDisp("Himuro","They can't survive if they don't make an
-effort. So I guess they're putting a lot
-of effort into their selling point, the
-parade.");
+    MsgDisp("Himuro","They can't survive without effort. So
+they're probably putting a lot into their
+selling point, the parade.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

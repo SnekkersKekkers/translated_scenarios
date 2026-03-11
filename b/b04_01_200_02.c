@@ -86,7 +86,7 @@ Put yourself in my shoes for once!");
         ChMotion(1,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_080");
-        MsgDisp("Kazama","Phewwー,I'm not angryー. It's just that
+        MsgDisp("Kazama","Phewwー, I'm not angryー. It's just that
 you suddenly throw in some things out of
 nowhere, and they're critical for me.");
         MsgDisp("主人公","I'm sorry...

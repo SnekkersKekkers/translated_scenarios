@@ -10,10 +10,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070200000_02_350");
-MsgDisp("Sassa","If I can't win the Inter-High, I don't
-think I have the right to talk about
-anything beyond that, even if they're
-dreams.");
+MsgDisp("Sassa","If I can't win the Inter-High the way I
+want, I don't even have the right to talk
+about what comes after, not even as dreams.");
 MsgDisp("主人公","All I can do is cheer you on.
 Even so, ｛Sassa＊＊｝, good luck.");
 ChEye(2,0);

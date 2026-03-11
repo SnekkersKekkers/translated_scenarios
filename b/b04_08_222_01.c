@@ -20,8 +20,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040822201_08_010");
     MsgDisp("Shirahane","That's not even the worst part. There were
 no phones, so I couldn't go on a date with
-you like this. That would be troublin',
-right?");
+you like this. That'd be troublin', right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

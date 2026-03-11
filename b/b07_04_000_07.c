@@ -46,8 +46,9 @@ ChMouth(4,5);
 ChMotion(4,1,1);
 ChEyeOpenLevel(4,1);
 VoicePlay("B070400000_04_470");
-MsgDisp("Nanatsumori","Ahh! Stop it! Your voice is too loud! Was
-that me∋");
+MsgDisp("Nanatsumori","Ahh! Stop it! 
+Your voice is too loud!
+That was me∋");
 MsgDisp("主人公","(Total meltdown...)");
 BGMStop();
 MsgClose();

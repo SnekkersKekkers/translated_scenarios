@@ -84,10 +84,9 @@ MsgDisp("Nanatsumori","｛主人公｝.
 Thank you for spending today with me.");
 ChMotion(4,3,1);
 VoicePlay("B140400100_04_100");
-MsgDisp("Nanatsumori","For the first time in my life, I was able
-to experience what it was like to be
-overflowing with happiness and overcome
-with emotion on this day.");
+MsgDisp("Nanatsumori","For the first time in my life, on this day
+I got to feel what it's like to overflow
+with happiness and be moved to tears.");
 MsgDisp("主人公","Yeah...");
 ChMotion(4,0,1);
 VoicePlay("B140400100_04_110");

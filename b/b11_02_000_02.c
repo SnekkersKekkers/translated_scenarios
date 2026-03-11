@@ -71,10 +71,9 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110200002_35_050");
-MsgDisp("Guy","That girl? She'd probably sell well
-anywhere, but as for you, Mr. Muscle, I'll
-take you under my wing. Take your time and
-think it over.");
+MsgDisp("Guy","That girl would sell well anywhere, but
+you, Mr. Muscle, I'll take under my wing.
+Take your time and think it over.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(35);

@@ -20,10 +20,9 @@ VoicePlay("B070400000_04_500");
 MsgDisp("Nanatsumori","Not someone who interrupts with \"but\" or
 \"even so\" whenever I say something.");
 VoicePlay("B070400000_04_510");
-MsgDisp("Nanatsumori","And I don't want someone who twists
-everything around to suit herself, like
-taking things in a weirdly positive way
-that benefits only her...");
+MsgDisp("Nanatsumori","And someone who twists things in a weirdly
+positive way to only benefit herself...
+I don't want that.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

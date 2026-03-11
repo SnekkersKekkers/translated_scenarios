@@ -64,10 +64,9 @@ VoicePlay("B050400100_46_000");
 MsgDisp("Clerk","Okay then, cool guy♪
 The \"60 Minute Shaved Ice Challenge\"
 starts now～ ∈");
-MsgDisp("主人公","(T-There are so many kinds of Shaved
-Ice...To keep eating this for 60
-minutes...｛Nanatsumori＊｝, is it really
-okay∋)");
+MsgDisp("主人公","(S-So many kinds of shaved ice...
+Eating for 60 minutes straight...
+｛Nanatsumori＊｝, will you be okay∋)");
 VoicePlay("B050400100_04_050");
 MsgDisp("Nanatsumori","Thanks for the meal.
 Then, let's start with the \"Heaven Berry\"

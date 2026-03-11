@@ -29,18 +29,16 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200001_02_040");
-MsgDisp("Sassa","Stories about playing tag, attending
-sports days, field trips...Maybe they are
-made-up but the field trip thing was
-interesting.");
+MsgDisp("Sassa","Playing tag, sports day, field trips...
+I can't rule out he's making it up, but
+the field trip story was interesting.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B070200001_02_050");
 MsgDisp("Sassa","Apparently at the Habataki Mountain
-picnic, the loser of a rock, paper,
-scissors game had to carry the other's
-stuff.");
+picnic, the loser of rock-paper-scissors
+had to carry the other's stuff.");
 MsgDisp("主人公","Really...!");
 ChEye(2,0);
 ChMouth(2,3);

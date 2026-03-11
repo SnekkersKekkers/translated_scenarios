@@ -18,10 +18,9 @@ MsgDisp("Hiiragi","For making you ask that question.");
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B070500001_05_390");
-MsgDisp("Hiiragi","Maybe someone had said something to you...
-Or maybe you had sensed something...
-Either way, it must've not been a nice
-feeling.");
+MsgDisp("Hiiragi","Maybe someone said something to you...
+Or maybe you sensed something...
+Either way, it must not have felt nice.");
 MsgDisp("主人公","No, I just wanted to ask for some reason.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -31,10 +30,9 @@ MsgDisp("Hiiragi","Is that so?
 Then this is something that I've been
 thinking about.");
 VoicePlay("B070500001_05_410");
-MsgDisp("Hiiragi","Since you were there, we went from
-difficult students brought together by a
-teacher to good friends who came together
-because we wanted to.");
+MsgDisp("Hiiragi","With you here, we went from difficult
+students brought together by a teacher to
+friends who came together by choice.");
 MsgDisp("主人公","That's...");
 ChEye(5,3);
 ChMotion(5,4);

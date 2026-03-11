@@ -6,10 +6,9 @@ MsgDisp("Hiiragi","Yes.
 It's a little perplexing even to me.");
 ChMotion(5,4);
 VoicePlay("B070500001_05_190");
-MsgDisp("Hiiragi","I'm always spending my time being
-surrounded by adults at the theatre
-troupe. Thanks to that I don't know how to
-interact with others my age.");
+MsgDisp("Hiiragi","I spent all my time surrounded by adults
+in the troupe. Because of that, I didn't 
+know how to interact with my peers.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B070500001_05_200");
@@ -31,9 +30,8 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_230");
 MsgDisp("Hiiragi","Conversely, Inori-kun behaves like an
-adult. But he's completely different to
-the adults I've been around since I was
-young.");
+adult. But he's completely different from
+the adults I grew up around.");
 MsgDisp("主人公","Three special people.");
 ChEye(5,0);
 VoicePlay("B070500001_05_240");

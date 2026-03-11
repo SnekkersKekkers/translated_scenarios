@@ -85,10 +85,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330A30400_01_050");
-MsgDisp("Kazama","Winter is nice here too. Since the water
-temperature is high, when the air gets
-cold, a mist appears and it's like a sea
-of clouds.");
+MsgDisp("Kazama","Winter is nice here too. Since the spring
+water is warm, the cold air creates a mist
+that looks like a sea of clouds.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

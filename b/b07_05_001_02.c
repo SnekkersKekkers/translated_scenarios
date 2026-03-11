@@ -7,8 +7,7 @@ ChMotion(5,2);
 VoicePlay("B070500001_05_100");
 MsgDisp("Hiiragi","My upbringing and my current situation.
 It's a series of scenes that are difficult
-to explain. But Mikage- sensei understands
-right away.");
+to explain. But Mikage-sensei gets it.");
 MsgDisp("主人公","｛Mikage＊＊｝ seems like a good
 listener.");
 ChEye(5,4);

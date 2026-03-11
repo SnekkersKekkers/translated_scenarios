@@ -23,9 +23,9 @@ to usual, so maybe I was a little hopeful?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B070500001_05_310");
-MsgDisp("Hiiragi","It's not different, but we do talk about
-things like, 'What would you say in this
-situation?' and get excited about that.");
+MsgDisp("Hiiragi","It's not different, but we talk about what
+you'd probably say in certain situations
+and get excited about that.");
 ChEye(5,4);
 VoicePlay("B070500001_05_320");
 MsgDisp("Hiiragi","For example...when it comes to barbecues,

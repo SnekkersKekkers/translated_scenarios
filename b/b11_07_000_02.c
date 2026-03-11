@@ -61,9 +61,8 @@ ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110700002_35_050");
 MsgDisp("Guy","Haha, this is the gold jacket of a
-successful man! I made a fortune in no
-time at all, and now I'll make more with
-this girl——");
+successful man! Easy money, baby. Next
+I'll make a fortune with this girl——");
 MsgDispSksp(1,5);
 ChEye(7,0);
 ChMouth(7,0);
@@ -77,9 +76,9 @@ ChClose(7,0,15);
 ChPosition(35,2);
 ChClose(35,0,15);
 VoicePlay("B110700002_35_060");
-MsgDisp("Guy","If you grab me like that, you'll stretch
-my gold jacket! Wait, wait, let's settle
-this peacefully, okay? Okay?");
+MsgDisp("Guy","You'll stretch my gold jacket grabbing me
+like that! Wait, let's settle this
+peacefully, okay? Okay?");
 VoicePlay("B110700002_07_030");
 MsgDisp("Mikage","Don't show your face around here again.");
 VoicePlay("B110700002_35_070");

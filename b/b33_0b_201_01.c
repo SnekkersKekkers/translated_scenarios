@@ -23,9 +23,8 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B20101_03_000");
 MsgDisp("Honda","That's right. Deep sea fish are different
-to the fish we normally see since they've
-evolved in a unique way at the bottom of
-the ocean.");
+from the ones we normally see since they
+evolved at the bottom of the ocean.");
 ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,0,1);

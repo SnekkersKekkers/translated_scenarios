@@ -33,10 +33,9 @@ VoicePlay("B360415200_04_030");
 MsgDisp("Nanatsumori","Something like...your time?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B360415200_04_040");
-MsgDisp("Nanatsumori","Counting up the points, the more points I
-get, the more of your time I receive. The
-more points you get, the more time I'll
-give back.");
+MsgDisp("Nanatsumori","We count up points. The more I score,
+the more of your time I get. The more you
+score, the more time I give back.");
 MsgDisp("主人公","Hey, what is the advantage of that
 wager...");
 ChEye(4,2);

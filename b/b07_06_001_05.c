@@ -22,10 +22,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_350");
-MsgDisp("Himuro","But those kinds of conversations can
-happen between individuals, regardless of
-gender. There are things we only talk
-about between us, too.");
+MsgDisp("Himuro","But that happens between individuals too,
+regardless of gender. There are things we
+only talk about between us.");
 MsgDisp("主人公","Is that so...?");
 ChEye(6,0);
 ChMouth(6,0);

@@ -45,7 +45,7 @@ ChMotion(3,1,1);
 VoicePlay("B330B30300_03_010");
 MsgDisp("Honda","Ryo-kun, look!
 The price of those shoes in the same
-showcase");
+showcase!");
 ChEye(1,5);
 ChMouth(1,1);
 ChMotion(1,5);

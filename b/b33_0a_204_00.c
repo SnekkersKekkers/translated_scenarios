@@ -50,10 +50,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20400_02_030");
-MsgDisp("Sassa","In addition to the parts of athletics that
-need to be improved through planned
-training, there are other aspects that
-require more fortune.");
+MsgDisp("Sassa","In addition to what you improve through
+planned training, there are aspects that
+require fortune too.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -121,9 +120,8 @@ MsgDisp("Sassa","Thank you.
 Well, shall we have the after-party at a
 cafe?");
 MsgDisp("主人公","(｛Sassa＊＊｝ doesn't really talk about
-athletics but...everyone really
-cares...I'm happy the three of them get
-along so well.)");
+athletics, but everyone cares...I'm happy
+the three of them get along so well.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

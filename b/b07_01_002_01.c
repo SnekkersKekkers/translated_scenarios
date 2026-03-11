@@ -22,8 +22,7 @@ ChMotion(1,0);
 VoicePlay("B070100002_01_030");
 MsgDisp("Kazama","Teaching demon more like. But he's clever
 at sparking your interest, which makes it
-worse. In the end, I still end up
-listening.");
+worse. I still end up listening.");
 MsgDisp("主人公","Hehe, isn't ｛Kazama＊＊｝ a good listener?");
 ChEye(1,0);
 ChMouth(1,2);

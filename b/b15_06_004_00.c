@@ -25,10 +25,9 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("B150600400_06_030");
-MsgDisp("Himuro","If you're telling me that just now was
-after studying, self-restraint and
-watching yourself, then what would going
-all out be like?");
+MsgDisp("Himuro","If that was you after studying and
+exercising self-restraint, then what
+would going all out be like?");
 MsgDisp("主人公","All-out...");
 ChEye(6,1);
 ChMouth(6,1);

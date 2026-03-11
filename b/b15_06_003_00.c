@@ -56,10 +56,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600300_06_070");
-MsgDisp("Himuro","I'll search for meaning in those actions,
-and then I can't help but become conscious
-of what comes after. ...You understand,
-right?");
+MsgDisp("Himuro","I'll look for meaning in those actions,
+and I can't help but think about what
+comes after. ...You understand, right?");
 MsgDisp("主人公","Y-Yeah...somewhat.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -42,8 +42,9 @@ Mikage-sensei's humor...");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550300_05_050");
-MsgDisp("Hiiragi","There's no way I could imitate those I
-feel inferior to them It's pathetic....");
+MsgDisp("Hiiragi","There's no way I could imitate them.
+I feel inferior to those two.
+It's pathetic...");
 MsgDisp("主人公","Huh∋
 ｛Hiiragi＊＊＊｝ feels inferior?");
 ChMouth(5,4);

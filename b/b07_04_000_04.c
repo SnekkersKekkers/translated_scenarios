@@ -18,9 +18,8 @@ made by an amateur.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400000_04_220");
-MsgDisp("Nanatsumori","Although recently, there are quite a few
-people who became famous from there and
-made a real debut.");
+MsgDisp("Nanatsumori","Though recently, quite a few people got
+famous from there and made a real debut.");
 MsgDisp("主人公","Wow, that's amazing!");
 ChEye(4,0);
 ChMouth(4,2);

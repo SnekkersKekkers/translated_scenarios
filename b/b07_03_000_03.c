@@ -38,10 +38,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B070300000_03_170");
-MsgDisp("Honda","I start to wonder about the rotation speed
-and axis of the ball, so I stare at it
-when the pitcher throws. Even though
-that's not something you can see.");
+MsgDisp("Honda","I get curious about the spin speed and
+axis, so I end up just staring at the
+pitch. Even though you can't see that!");
 MsgDisp("主人公","So I guess you strike out then?");
 ChEye(3,3);
 ChMouth(3,3);
