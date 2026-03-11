@@ -26,8 +26,7 @@ VoicePlay("D020800300_08_020");
 MsgDisp("Shirahane","You know, yesterday I got into a fight
 with my sister.
 The three of us got into a big mess.");
-MsgDisp("主人公","Eh? ｛Daichi＊＊｝, you live with your
-siblings?");
+MsgDisp("主人公","Eh? \n｛Daichi＊＊｝, you live with your\nsiblings?");
 ChCheek(8,0);
 ChEye(8,3);
 ChMouth(8,3);
