@@ -5,7 +5,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,7);
 ScrFadeIn(0);
-MsgDisp("主人公","It's almost the sports festival soon.");
+MsgDisp("主人公","The sports festival is coming up soon.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
@@ -18,16 +18,16 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100006_21_010");
-MsgDisp("Michiru","That's true for individual games.
-I like the ones where everyone
-participates.");
+MsgDisp("Michiru","That's true for individual events.
+But I like the ones where everyone
+participates together.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,5);
 VoicePlay("F022100006_21_020");
-MsgDisp("Michiru","Other reliable team members help out
-someone as useless as me.
-Isn't that super beautiful?");
+MsgDisp("Michiru","The reliable team members help cover for
+someone as hopeless as me.
+Isn't that kind of beautiful?");
 MsgDisp("主人公","Hehe, that's right!");
 ChEye(21,2);
 ChMouth(21,4);

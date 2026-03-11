@@ -37,8 +37,9 @@ VoicePlay("F100510001_05_020");
 MsgDisp("Hiiragi","Is that so?
 Thank you.
 Absolutely, please do.");
-MsgDisp("主人公","Yeah. Yeah. I don't feel motivated when
-I'm alone either.");
+MsgDisp("主人公","Yeah.
+I don't feel motivated
+when I'm alone either.");
 MsgDisp("主人公","Huh, that's...");
 ChEye(5,0);
 ChMouth(5,4);

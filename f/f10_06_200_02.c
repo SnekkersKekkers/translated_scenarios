@@ -72,9 +72,9 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("F100620002_06_050");
-MsgDisp("Himuro","I just prefer instant, but it doesn't mean
-I don't like the taste from the ones at
-restaurants.");
+MsgDisp("Himuro","I just prefer instant.
+That doesn't mean I dislike the
+restaurant's flavor.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);

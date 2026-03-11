@@ -37,8 +37,7 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("F100720000_05_020");
-MsgDisp("Hiiragi","That would be quite surprising, would it
-not?");
+MsgDisp("Hiiragi","You seem quite surprised.");
 MsgDisp("主人公","Eh, not at all!");
 ChEye(7,0);
 ChMouth(7,0);

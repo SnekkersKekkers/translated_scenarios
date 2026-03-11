@@ -89,8 +89,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100740001_07_070");
-MsgDisp("Mikage","It's kind of crazy.
-But, it's fine every once in a while.");
+MsgDisp("Mikage","It kinda throws me off.
+But hey, it's nice every once in a while.");
 ChEye(7,0);
 ChMouth(7,3);
 VoicePlay("F100740001_07_080");

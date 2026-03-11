@@ -22,8 +22,8 @@ Yes, it looks like they did not have
 Hiyashi Chuuka.");
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","I see.
-You were so excited for it the other day
-too?");
+You two were really excited about it the
+other day, huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

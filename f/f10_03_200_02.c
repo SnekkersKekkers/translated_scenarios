@@ -27,7 +27,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("F100320002_02_010");
-MsgDisp("Sassa","Haha, I wasn't in really any kind of
+MsgDisp("Sassa","Haha, I wasn't really in any kind of
 trouble.");
 ChEye(3,0);
 ChMouth(3,4);

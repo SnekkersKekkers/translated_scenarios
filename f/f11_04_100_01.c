@@ -44,9 +44,9 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("F110410001_04_030");
-MsgDisp("Nanatsumori","That amount of girls is scary.
-No matter what I say, they stick around...
-There's no way.");
+MsgDisp("Nanatsumori","Girls hitting on you is scary.
+No matter what I say to turn them down,
+they don't flinch... I had no moves left.");
 ChMotion(4,2,1);
 VoicePlay("F110410001_04_040");
 MsgDisp("Nanatsumori","I wonder what would've happened if you

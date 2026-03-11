@@ -39,10 +39,9 @@ VoicePlay("F020700013_07_040");
 MsgDisp("Mikage","Ah, by the way I like pillow fights after
 taking a bath.
 That's something that I've wanted to try.");
-MsgDisp("主人公","Umm...The teacher isn't supposed to take
-baths with the students, and they're also
-supposed to give the students a warning
-for pillow fighting.");
+MsgDisp("主人公","Umm...teachers don't bathe with students,
+and you're supposed to scold them for
+pillow fighting...");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -67,5 +66,5 @@ VoicePlay("F020700013_07_070");
 MsgDisp("Mikage","Something else...I'll think about it.
 Sigh, I'm seriously not going to be able
 to sleep.");
-MsgDisp("主人公","(It doesn't seem like ｛Mikage＊＊｝, is
-planning on leading...)");
+MsgDisp("主人公","(It doesn't seem like ｛Mikage＊＊｝ is
+planning on chaperoning...)");

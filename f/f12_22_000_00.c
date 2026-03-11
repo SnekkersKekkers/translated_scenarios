@@ -45,8 +45,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F122200000_22_040");
-MsgDisp("Hikaru","Both Sis and Hikaru will help Mari with
-full strength.");
+MsgDisp("Hikaru","Both Sis and Hikaru will give it
+their all to help Mari!");
 MsgDisp("主人公","(Right, Valentine's Day is coming up...)");
 MsgClose();
 ScrFadeOut(0,0);

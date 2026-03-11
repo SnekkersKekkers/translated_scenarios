@@ -49,8 +49,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F100410002_04_070");
-MsgDisp("Nanatsumori","If I lose it every time I see you, I
-wouldn't be able to function.");
+MsgDisp("Nanatsumori","If I lose it every time I see you,
+I wouldn't be able to keep up.");
 BGMVol(0.5,1);
 SEPlay("EV_SE_SCHOOL_002");
 Wait(30,0);
@@ -68,7 +68,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);
 SEPlay("EV_SE_642",0,0.6);
 MsgDisp("主人公","...Ah∈");
-MsgDisp("主人公","A commuter pass has fallen where
+MsgDisp("主人公","There's a pass case on the ground where
 ｛Nanatsumori＊｝ was standing...
 ｛Nanatsumori＊｝ ∈");
 MsgDisp("主人公","(Why on earth does he drop it every

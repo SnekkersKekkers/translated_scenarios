@@ -19,9 +19,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700001_07_010");
 MsgDisp("Mikage","It really is famous, huh? The princess
-waited for the prince to return from his
-journey after unreasonable demands were
-imposed on their marriage.");
+waited for the prince to return after
+unreasonable demands were imposed on them.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -36,17 +35,15 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700001_07_030");
 MsgDisp("Mikage","Right, the secret MVP of this legend is
-the King. Normally, it seems like he would
-probably find some new fault, call for a
-timeout or make a new rule.");
+the king. Normally, he'd find some new
+fault, call a timeout, or make a new rule.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F020700001_07_040");
-MsgDisp("Mikage","Nowadays, if a student confesses their
-love at the church, they'll end up
-together right? We need to be grateful to
-the king.");
+MsgDisp("Mikage","Nowadays, if a student confesses at the
+church, they'll end up together, right?
+We need to be grateful to the king.");
 MsgDisp("主人公","Hehe, I don't think I've ever thought
 about the King in this story.");
 ChEye(7,0);

@@ -44,8 +44,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600013_06_050");
-MsgDisp("Himuro","I'd have to decide then. ...but, it
-probably wouldn't be bad.");
+MsgDisp("Himuro","Depends on the situation.
+...But it probably wouldn't be bad.");
 MsgDisp("主人公","Then we could go on the school trip
 together, right?");
 ChEye(6,1);

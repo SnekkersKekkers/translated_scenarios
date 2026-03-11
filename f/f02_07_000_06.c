@@ -35,8 +35,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700006_07_030");
-MsgDisp("Mikage","Ah-, I'm gonna do both?
-My blood as a festival boy is boiling.");
+MsgDisp("Mikage","Ah, I'm gonna do both!
+The festival spirit in me is fired up.");
 MsgDisp("主人公","Teachers and guardians who get too excited
 often get injured, so be careful.");
 ChEye(7,0);

@@ -24,8 +24,8 @@ VoicePlay("F020300011_03_020");
 MsgDisp("Honda","But there's less and less snow each year,
 and when factoring in the weather,
 temperature, and humidity..."); 
-MsgDisp("Honda","Yeah, it gets hard to choose the optimal
-day.");
+MsgDisp("Honda","It'd be sad if you made one and it melted
+right away, right?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);

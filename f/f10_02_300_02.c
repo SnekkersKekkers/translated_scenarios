@@ -94,7 +94,7 @@ ChMotion(21,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("F100230002_21_050");
 MsgDisp("Michiru","Classes are starting.
-Then, this is it from me.");
+Well, I'll be going now.");
 SEPlay("EV_SE_856",0,0.5);
 MsgClose();
 ChClose(21,0,30);

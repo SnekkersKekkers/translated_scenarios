@@ -41,8 +41,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100120001_07_020");
-MsgDisp("Mikage","As soon as you hang up your vacuum, you'll
-know.
+MsgDisp("Mikage","You can tell as soon as you vacuum, right?
 Most of the dirt in your house is dust.");
 ChEye(1,4);
 ChMouth(1,2);

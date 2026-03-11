@@ -29,7 +29,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600011_06_020");
 MsgDisp("Himuro","Good fences make good neighbors.
-Though you can't draw a perfect boundary.");
+You have to keep proper boundaries.");
 MsgDisp("主人公","Your family seems close.");
 ChEye(6,1);
 ChMouth(6,0);

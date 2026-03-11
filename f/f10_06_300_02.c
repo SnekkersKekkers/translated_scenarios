@@ -80,7 +80,7 @@ ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("F100630002_06_050");
 MsgDisp("Himuro","Ehh?");
-MsgDisp("主人公","You say cuter, give us an example.");
+MsgDisp("主人公","Cuter, like what for example?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,2,1);
@@ -130,8 +130,8 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F100630002_21_030");
-MsgDisp("Michiru","Then, are you saying you're going to call
-her that properly, from the beginning?");
+MsgDisp("Michiru","Then, you're going to say it properly
+this time?");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,0);

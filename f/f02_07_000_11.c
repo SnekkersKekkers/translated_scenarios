@@ -31,10 +31,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700011_07_030");
-MsgDisp("Mikage","Every year, I'm asked the same questions,
-and I give the same replies. It's like
-thawing a conversation that's been frozen,
-over and over.");
+MsgDisp("Mikage","Every year, same questions, same answers.
+It's like thawing out a frozen
+conversation.");
 MsgDisp("主人公","Seems tough.");
 ChEye(7,2);
 ChMouth(7,3);

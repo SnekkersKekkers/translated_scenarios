@@ -41,7 +41,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F102120001_06_020");
-MsgDisp("Himuro","Then, that's all from me.");
+MsgDisp("Himuro","Well, I'm out of here.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 ChEye(21,4);
@@ -53,8 +53,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F102120001_21_040");
-MsgDisp("Michiru","Maybe he would be at a disadvantage with
-Mari here?");
+MsgDisp("Michiru","Maybe the reason is something
+inconvenient when Mari's around?");
 MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();

@@ -29,7 +29,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F110510000_05_030");
 MsgDisp("Hiiragi","I am fine.
-Though, my stomach is a bit full.");
+My stomach is a little full, though.");
 MsgDisp("主人公","Huh?");
 ChEye(5,0);
 ChMouth(5,4);

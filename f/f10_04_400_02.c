@@ -33,8 +33,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F100440002_04_020");
 MsgDisp("Nanatsumori","Well...
-I told him how to deal with a female
-sibling.");
+I taught him the proper strategy
+for dealing with a sister.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);

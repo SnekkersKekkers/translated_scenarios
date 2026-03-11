@@ -22,9 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F110610000_06_030");
-MsgDisp("Himuro","It's too much.
-I feel like I'm getting a lot of
-attention.");
+MsgDisp("Himuro","Well...I feel like I'm getting stared at
+a lot.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -39,8 +38,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F110610000_06_050");
 MsgDisp("Himuro","Sigh...
-That's annoying.
-Feeling guilty wouldn't help either.");
+What a pain.
+But feeling guilty about it is pointless too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

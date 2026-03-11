@@ -129,7 +129,7 @@ ChOpen(22,254,0,0,2,#1,#1,0,2,0,30);
 ChMotion(22,4,1);
 VoicePlay("F100730001_22_060");
 MsgDisp("Hikaru","...Hey.
-Aren't we dealing with this too well?");
+Aren't we being totally brushed off?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);

@@ -28,9 +28,9 @@ ChMotion(5,0,1);
 VoicePlay("F100540002_05_020");
 MsgDisp("Hiiragi","Mikage-sensei is treating us to Hiyashi
 Chuuka at a store he recommends.");
-MsgDisp("主人公","So that's it! I think I'll pass. Because
-I might not be able to eat dinner
-otherwise.");
+MsgDisp("主人公","So that's it!
+I think I'll pass, though. I might not be 
+able to eat dinner otherwise.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -90,9 +90,9 @@ Wait(60,0);
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("F100540002_05_050");
-MsgDisp("Hiiragi","It is amazing that you get hungry after
-eating. I'm looking forward to it. See
-you.");
+MsgDisp("Hiiragi","Getting hungry after eating is amazing...
+I'm looking forward to it.
+See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);

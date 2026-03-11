@@ -53,15 +53,16 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100140000_02_040");
-MsgDisp("Sassa","Then, Ryota's top spun till the end until
-I stopped it with my hand.");
+MsgDisp("Sassa","And then, Ryota's top was the last one
+spinning, so I stopped it with my hand.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("F100140000_01_030");
-MsgDisp("Kazama","Well, I knew I'd won, but I just wanted to
-see how long it'd spin.");
+MsgDisp("Kazama","Yeah. I'd already won, but they were also
+timing it, so I wanted to watch it spin
+till the end.");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);
 ChMouth(2,0);

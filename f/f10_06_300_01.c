@@ -5,7 +5,7 @@ MsgDisp("主人公","(I have to return to class now...)");
 VoicePlay("F100630001_06_000");
 MsgDisp("Himuro?","T-That's why I won't call you that!
 That's all.
-Well then.");
+Goodbye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
 VoicePlay("F100630001_22_000");
@@ -39,14 +39,14 @@ ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,5,1);
 VoicePlay("F100630001_22_030");
-MsgDisp("Hikaru","It's too coarse.");
+MsgDisp("Hikaru","That's so lazy, right?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("F100630001_21_010");
 MsgDisp("Michiru","But that was still a bit too much for
 Himuro-chan...");
-MsgDisp("主人公","What did you ask to be called by?");
+MsgDisp("主人公","What did you ask him to call you?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

@@ -28,7 +28,7 @@ Those clothes...");
 ChEye(7,2);
 ChMouth(7,0);
 VoicePlay("F100710002_07_020");
-MsgDisp("Mikage","I forgot to take my suit to the dry
+MsgDisp("Mikage","I forgot I sent my suit to the dry
 cleaner...");
 MsgDisp("主人公","Ehh∋");
 ChEye(7,2);

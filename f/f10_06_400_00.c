@@ -67,7 +67,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("F100640000_06_040");
 MsgDisp("Himuro","Give my best regards to Ryota-senpai.
-Well then.");
+See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

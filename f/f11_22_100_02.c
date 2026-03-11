@@ -40,8 +40,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F112210002_22_050");
-MsgDisp("Hikaru","Hikaru will go now!
-See you later～");
+MsgDisp("Hikaru","Hikaru's gonna go check on them!
+See you later♪");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(22);

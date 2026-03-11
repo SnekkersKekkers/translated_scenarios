@@ -42,9 +42,9 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F100520002_01_020");
-MsgDisp("Kazama","It's not like that. It's a \"Yuzurijou\", a
-certificate of an property transfer from
-ancient times. Tell me, is it interesting?");
+MsgDisp("Kazama","It's not like that. It's a \"Yuzurijou\",
+a property transfer certificate from
+ancient times. Interesting, right?");
 MsgDisp("主人公","Ummm...");
 ChEye(5,0);
 ChMouth(5,4);

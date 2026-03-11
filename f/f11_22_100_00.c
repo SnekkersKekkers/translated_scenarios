@@ -24,8 +24,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F112210000_22_030");
-MsgDisp("Hikaru","At the fortune-telling corner, there's a
-girl who told Hikaru's fortune.");
+MsgDisp("Hikaru","A girl at the fortune-telling corner told
+Hikaru's fortune.");
 MsgDisp("主人公","Hm?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -36,8 +36,8 @@ saw the girl's face, and realized.
 That girl's in love with someone～");
 ChMotion(22,4,1);
 VoicePlay("F112210000_22_050");
-MsgDisp("Hikaru","So, Hikaru will give you advice.
-Then, you'll thank her～!");
+MsgDisp("Hikaru","So Hikaru gave her some advice,
+and she thanked Hikaru as thanks▼");
 MsgDisp("主人公","S-Sure.");
 ChEye(22,3);
 ChMouth(22,3);

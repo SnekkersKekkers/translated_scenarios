@@ -11,8 +11,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F020700009_07_000");
 MsgDisp("Mikage","Yeah. The vegetables for sale are just
-ripe, so it looks like this year we're in
-good time for them to be eaten.");
+ripening, so this year the timing looks
+perfect.");
 MsgDisp("主人公","Yes.
 The herbs have grown nicely.");
 ChEye(7,0);
@@ -26,8 +26,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700009_07_020");
 MsgDisp("Mikage","Ha...but...
-It feels like I'm giving my daughter, whom
-I've raised with care, as a wife.");
+It feels like sending off a daughter I've
+raised with care.");
 MsgDisp("主人公","But the customers will be happy?");
 ChEye(7,2);
 ChMouth(7,0);

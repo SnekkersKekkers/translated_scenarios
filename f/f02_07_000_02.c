@@ -18,9 +18,9 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F020700002_07_010");
-MsgDisp("Mikage","This one isn't about the prince, or
-princess. But one about Vice Principal
-Himuro's love.");
+MsgDisp("Mikage","This one isn't about the prince or the
+princess. It's about Vice Principal
+Himuro's love life.");
 MsgDisp("主人公","Ehh∋");
 ChEye(7,0);
 ChMouth(7,0);
@@ -33,10 +33,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700002_07_030");
-MsgDisp("Mikage","...And, just like that he passed by that
-person. Since then, Vice Principal Himuro
-hasn't tolerated tardiness for even one
-second.");
+MsgDisp("Mikage","...And just like that, they missed each
+other. Since then, Vice Principal Himuro
+hasn't tolerated tardiness at all.");
 MsgDisp("主人公","Is that true?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -66,5 +65,5 @@ ChMotion(7,1);
 VoicePlay("F020700002_07_070");
 MsgDisp("Mikage","Don't.
 That curiosity will be fatal.");
-MsgDisp("主人公","(...We walked home happily whilst talking
-about this story.)");
+MsgDisp("主人公","(...We happily walked home talking about
+this story.)");

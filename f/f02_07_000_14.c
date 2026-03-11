@@ -41,10 +41,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700014_07_040");
-MsgDisp("Mikage","Even little things are fine. For
-example...you managed to put up with
-having the same homeroom teacher for three
-years～, right?");
+MsgDisp("Mikage","Even little things are fine. For example...
+you managed to endure the same 
+homeroom teacher for three years～, right?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -58,10 +57,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700014_07_060");
-MsgDisp("Mikage","As expected of my prized Miss Diligent.
-There's no need to say anymore. Cherish
-what you could do, and remember it as many
-times as you need to in your life.");
+MsgDisp("Mikage","That's my prized Miss Diligent for you.
+Cherish what you could do, and remember it
+as many times as you need to in your life.");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -38,7 +38,8 @@ MsgDisp("Mikage","That's elementary.
 If you buy a whole loaf, it'll spoil
 before you can eat it.");
 MsgDisp("主人公","I see...
-You can only do that when you live alone.");
+That's something only someone living alone
+would know.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

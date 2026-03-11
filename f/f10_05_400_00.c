@@ -35,7 +35,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F100540000_07_020");
-MsgDisp("Mikage","Why is it that delicious?");
+MsgDisp("Mikage","How come? It's so good!");
 ChEye(5,0);
 ChMotion(5,4);
 MsgDisp("主人公","Hehe.

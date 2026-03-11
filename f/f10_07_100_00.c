@@ -64,8 +64,8 @@ ChOpen(7,37,1,0,0,#1,#1,0,0);
 VoicePlay("F100710000_07_050");
 MsgDisp("Mikage","Sorry I couldn't be a better host.
 Well, let's go.");
-MsgDisp("主人公","Today we're in the science room, and not
-the classroom though...");
+MsgDisp("主人公","Today we're in the classroom, not the
+science room though...");
 VoicePlay("F100710000_07_060");
 MsgDisp("Mikage","That's right.");
 MsgDisp("主人公","If you show up dressed like that, you'll

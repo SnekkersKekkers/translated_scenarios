@@ -95,7 +95,7 @@ ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740002_32_060");
 MsgDisp("VP Himuro","...That is all.
-Then, move onto your lesson.");
+Now then, carry on with your lesson.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(32);

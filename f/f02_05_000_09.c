@@ -26,9 +26,9 @@ more than the day of the festival itself.");
 MsgDisp("主人公","Huh?");
 ChMotion(5,2);
 VoicePlay("F020500009_05_030");
-MsgDisp("Hiiragi","The day before the festival, there is a
-nervousness in the air. We have to work to
-support the festival behind the scenes.");
+MsgDisp("Hiiragi","It's like the day before a festival,
+everyone buzzing with excitement.
+And we're the ones supporting it backstage.");
 MsgDisp("主人公","Oh, so that's a more fulfilling time.");
 ChEye(5,0);
 ChMotion(5,0);

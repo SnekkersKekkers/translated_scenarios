@@ -63,7 +63,7 @@ ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100140001_01_030");
-MsgDisp("Kazama","You're being too nostalgic.");
+MsgDisp("Kazama","Why are you romanticizing it?");
 MsgDisp("主人公","What?
 Is that not what happened?");
 ChEye(1,0);

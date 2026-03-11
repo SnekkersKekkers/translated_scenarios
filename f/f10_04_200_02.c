@@ -71,8 +71,8 @@ Minoru-senpai, you're amazing.");
 ChMotion(4,3,1);
 VoicePlay("F100420002_04_050");
 MsgDisp("Nanatsumori","Mameko.
-Yeah, she's cute and looks pretty strong.
-That's pretty cruel...");
+Yeah, she's cute and looks pretty tough.
+Brutal...");
 MsgDisp("主人公","(\"Mameko Shining\", that's my handle
 name...
 What kind of game is this∋)");

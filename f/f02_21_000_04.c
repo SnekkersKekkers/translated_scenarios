@@ -12,29 +12,28 @@ ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F022100004_21_000");
 MsgDisp("Michiru","Yes.
-The 22nd of the 11th month.
-The date is also easy to remember.");
+November 22nd.
+The date is easy to remember, right?");
 MsgDisp("主人公","Hehe, that's right!");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F022100004_21_010");
 MsgDisp("Michiru","But...
-We're twins, so I always feel a bit
-ashamed to receive presents.");
+Since we're twins, I always feel a bit
+guilty about receiving presents.");
 MsgDisp("主人公","Why?");
 ChMotion(21,3);
 VoicePlay("F022100004_21_020");
 MsgDisp("Michiru","Well, you have to give two people presents
 at the same time.
-It's a lot to consider?");
+That's a lot to deal with, right?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100004_21_030");
-MsgDisp("Michiru","Just hearing you think of me makes me so
-happy. So, Mari shouldn't mind too much
-too, okay?");
+MsgDisp("Michiru","Just the thought alone makes me happy.
+So don't worry about it too much, okay?");
 MsgDisp("主人公","(｛みちる＊｝ really is the older
 sister.)");
 MsgClose();

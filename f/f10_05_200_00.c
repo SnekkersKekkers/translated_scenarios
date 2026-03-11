@@ -25,8 +25,8 @@ VoicePlay("F100520000_05_010");
 MsgDisp("Hiiragi","Yes.
 I heard that the Kazama family storehouse
 has museum-quality items.");
-MsgDisp("主人公","I see, ｛Kazama＊＊｝ is of an esteemed
-family after all.");
+MsgDisp("主人公","Right, ｛Kazama＊＊｝'s family does have a
+long history, after all.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -45,8 +45,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("F100520000_01_030");
 MsgDisp("Kazama","To put it simply, you guys are pure.
-...This is the first time I've come to
-know of any similarities between you guys.");
+...This is the first time I've noticed
+you two have something in common.");
 MsgDisp("主人公","Eh?");
 ChMotion(5,0);
 VoicePlay("F100520000_05_030");
@@ -79,7 +79,7 @@ ChMotion(5,0);
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("F100520000_05_060");
-MsgDisp("Hiiragi","Then, I will go too.");
+MsgDisp("Hiiragi","Well then, I'll be on my way too.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

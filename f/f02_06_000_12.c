@@ -12,7 +12,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600012_06_000");
 MsgDisp("Himuro","Who knows?
-Carry on adequately?");
+Just taking it easy, I guess?");
 MsgDisp("主人公","Adequately...");
 ChEye(6,1);
 ChMouth(6,0);

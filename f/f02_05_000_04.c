@@ -24,8 +24,8 @@ I bet you get a lot of expensive gifts.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("F020500004_05_020");
-MsgDisp("Hiiragi","Yes, well, I often end up taking gifts
-that are more than I deserve.");
+MsgDisp("Hiiragi","Yes, well, I often receive gifts that are
+more than I deserve.");
 MsgDisp("主人公","So even if I gave you a gift, it'd look
 worthless in comparison...");
 ChEye(5,2);

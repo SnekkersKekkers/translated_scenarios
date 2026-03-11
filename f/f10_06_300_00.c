@@ -5,7 +5,7 @@ MsgDisp("主人公","(Umm, what was my next lesson again?)");
 VoicePlay("F100630000_06_000");
 MsgDisp("Himuro?","At any rate, please stop that.
 That's all.
-Well then.");
+Goodbye.");
 VoicePlay("F100630000_22_000");
 MsgDisp("Hikaru?","Ehhh∋
 Himuro-chan, wait～!");
@@ -34,7 +34,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F100630000_21_010");
-MsgDisp("Michiru","I don't think that's it...
+MsgDisp("Michiru","I don't think those work...
 Himuro-chan was really troubled.");
 MsgDisp("主人公","Eeh.
 What did you call him?");

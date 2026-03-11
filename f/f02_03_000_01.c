@@ -14,10 +14,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300001_03_010");
-MsgDisp("Honda","There's a princess in the church waiting
-for the prince. When he returns, they'll
-get married and live happily ever after.
-At least, that's how the legend goes.");
+MsgDisp("Honda","A princess waits in the church for her
+prince. He returns, they get married, and
+live happily ever after.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

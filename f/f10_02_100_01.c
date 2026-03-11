@@ -53,7 +53,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("F100210001_02_040");
-MsgDisp("Sassa","It's just a brain game to me right?
+MsgDisp("Sassa","Pretty brainy for me, right?
 See you then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

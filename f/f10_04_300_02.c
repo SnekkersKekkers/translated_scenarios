@@ -74,7 +74,7 @@ They asked me how much I knew about
 ChEye(4,2);
 ChMouth(4,2);
 VoicePlay("F100430002_04_020");
-MsgDisp("Nanatsumori","That's a coarse way of saying it...");
+MsgDisp("Nanatsumori","What a crude way to ask...");
 MsgDisp("主人公","｛みちる＊｝ said the same thing...");
 ChEye(4,1);
 ChMouth(4,1);

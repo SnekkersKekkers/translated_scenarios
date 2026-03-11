@@ -10,10 +10,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700008_07_000");
-MsgDisp("Mikage","That's right. What I'm looking forward to
-most is the actual event, but it's nice to
-have a bit of fun during the preparation
-period.");
+MsgDisp("Mikage","That's right.
+The actual event is exciting, but having
+fun during the prep period is great too.");
 MsgDisp("主人公","Yes, the participation rate in our class
 sure is high during the preparation
 period.");
@@ -29,9 +28,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("F020700008_07_020");
-MsgDisp("Mikage","That's because I can't help but want to
-show off the DIY skills I've learned on
-the hammer.");
+MsgDisp("Mikage","I can't help but want to show off my
+hammer skills honed from all my DIY work.");
 MsgDisp("主人公","Is that so?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -44,9 +42,9 @@ ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("F020700008_07_040");
-MsgDisp("Mikage","I'll only butt in during the preparation
-period, could I just get a bit excited
-here?");
+MsgDisp("Mikage","I only butt in during the prep period.
+Just let me get excited about this part,
+okay?");
 MsgDisp("主人公","Yes, but if ｛Mikage＊＊｝ was the one
 standing out during the actual event,
 everyone would probably be happy.");

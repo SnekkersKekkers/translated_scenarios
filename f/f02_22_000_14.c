@@ -38,8 +38,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F022200014_22_040");
 MsgDisp("Hikaru","Mari, thank you for always being my
-friend. We'll continue to be friends from
-here on out, right?");
+friend. We'll stay friends after this too,
+right?");
 MsgDisp("主人公","Yeah, of course!");
 MsgClose();
 ScrFadeOut(0,0);

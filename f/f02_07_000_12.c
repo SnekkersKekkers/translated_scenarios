@@ -18,10 +18,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700012_07_010");
-MsgDisp("Mikage","Hey hey, don't make that face. Class
-change is a huge event in your school
-life, right? Like the highest level of
-seat change?");
+MsgDisp("Mikage","Hey, don't make that face. Class 
+changes are a huge event in school life, 
+right? Like the ultimate seat swap?");
 MsgDisp("主人公","But, I wanted ｛Mikage＊＊｝ to be my
 homeroom teacher.");
 ChEye(7,0);
@@ -35,13 +34,12 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700012_07_030");
-MsgDisp("Mikage","When you graduate and remember Haba
-Academy, I think it's better to remember
-many different teachers than just one
-homeroom teacher, don't you think?");
-MsgDisp("主人公","Umm...Do you want to be the homeroom
-teacher of many students, ｛Mikage＊＊｝
-and not just us?");
+MsgDisp("Mikage","When you graduate and look back, I think
+it's better to remember many teachers
+than just one homeroom teacher, right?");
+MsgDisp("主人公","Umm...Does ｛Mikage＊＊｝ want to be
+homeroom teacher for lots of different
+students, not just us?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

@@ -23,7 +23,7 @@ ChMotion(5,0);
 VoicePlay("F100510002_05_010");
 MsgDisp("Hiiragi","Yes.
 After I found the middle school textbook,
-I was no longer dumbfounded.");
+I stopped spacing out.");
 MsgDisp("主人公","I'm glad.
 If you keep progressing like this, you'll
 be alright.");

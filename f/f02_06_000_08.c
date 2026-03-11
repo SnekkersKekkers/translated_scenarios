@@ -19,14 +19,15 @@ ChEyeOpenLevel(6,0);
 VoicePlay("F020600008_06_010");
 MsgDisp("Himuro","When everyone else gets excited, it makes
 me lose interest.");
-MsgDisp("主人公","Very ｛Himuro＊＊｝ -like.");
+MsgDisp("主人公","That's so like you, ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("F020600008_06_020");
 MsgDisp("Himuro","And for you?");
 MsgDisp("主人公","I'm looking forward to it.
-It's not easy, preparing with everyone.");
+It's not every day you get to prepare
+something with everyone.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

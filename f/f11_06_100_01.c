@@ -16,7 +16,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F110610001_06_020");
 MsgDisp("Himuro","Oh, it's you.");
-MsgDisp("主人公","That's weird.
+MsgDisp("主人公","Don't tell me...
 Are you skipping this year, too?");
 ChEye(6,1);
 ChMouth(6,0);

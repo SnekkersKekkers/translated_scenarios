@@ -36,7 +36,8 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F110110002_01_040");
-MsgDisp("Kazama","Well then, let's start at the school gate!");
+MsgDisp("Kazama","Alright, let's start over from the school
+gate!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

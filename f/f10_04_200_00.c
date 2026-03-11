@@ -60,8 +60,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100420000_04_050");
 MsgDisp("Nanatsumori","Alright.
-I'll summon you under the name of NA at 8
-o'clock tonight, so come.");
+I'll send out a summons under N.A. at 8
+tonight, so be there.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

@@ -30,9 +30,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F100730000_07_000");
-MsgDisp("Mikage","There's no need for something very harsh,
-right?
-So this isn't for fashion——");
+MsgDisp("Mikage","No need to be so harsh, right?
+Besides, this isn't fashion, it's——");
 ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);

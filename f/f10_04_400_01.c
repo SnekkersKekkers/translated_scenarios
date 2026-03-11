@@ -47,9 +47,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("F100440001_03_040");
-MsgDisp("Honda","No. Whether you're skinny or fat, your
-bone structure is the same. Makeup and
-hairstyle can't change anything.");
+MsgDisp("Honda","Nah. Whether you're skinny or fat, your
+bone structure stays the same. No amount 
+of makeup or hairstyling changes that.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -85,8 +85,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("F100440001_04_030");
-MsgDisp("Nanatsumori","Walls have ears and shoji screens have
-eyes.
+MsgDisp("Nanatsumori","Walls have ears, you know.
 Don't forget that, you two.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -99,8 +98,8 @@ VoicePlay("F100440001_03_070");
 MsgDisp("Honda","Hmm.
 Shouldn't everyone know by now?
 Right?");
-MsgDisp("主人公","(To think that ｛Honda＊＊｝ could tell only
-by his bone structure...)");
+MsgDisp("主人公","(I think only ｛Honda＊＊｝ could tell just
+from bone structure alone...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -61,7 +61,7 @@ ChMotion(3,1,1);
 VoicePlay("F100340002_03_050");
 MsgDisp("Honda","Yes, I found Mi-kun.");
 MsgDisp("主人公","Hehe, you really did!
-As you strategized, ｛Honda＊＊｝.");
+Just as you planned, ｛Honda＊＊｝.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);

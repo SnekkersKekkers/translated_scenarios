@@ -45,8 +45,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720002_05_020");
-MsgDisp("Hiiragi","Hehe, Mikage-sensei, the bar is getting
-higher for the audience.");
+MsgDisp("Hiiragi","Hehe, Mikage-sensei, the audience's
+expectations are rising.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -68,9 +68,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100720002_05_030");
-MsgDisp("Hiiragi","Well then, that's it from me,
-Mikage-sensei.
-Please enjoy yourself.");
+MsgDisp("Hiiragi","Mikage-sensei, farewell.
+And you, please enjoy the show.");
 MsgDisp("主人公","Yeah, see you later.");
 MsgClose();
 SEStop("EV_SE_SCHOOL_002",2);

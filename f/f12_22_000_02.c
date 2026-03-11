@@ -42,8 +42,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F122200002_22_040");
-MsgDisp("Hikaru","Ehe, it's good, because Hikaru is Mari's
-cupid in love."); 
+MsgDisp("Hikaru","Ehe▼
+It's fine! Hikaru and Sis are
+Mari's cupids of love, after all."); 
 MsgDisp("主人公","(Right, this Valentine's Day is the last
 one of high school...)");
 MsgClose();

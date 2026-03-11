@@ -40,8 +40,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100330001_22_020");
 MsgDisp("Hikaru","Aha▼
-What a precocious child～♪
-Her future will be bright.");
+What a precocious girl～♪
+She's got a bright future!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

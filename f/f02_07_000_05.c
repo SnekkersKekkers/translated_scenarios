@@ -24,10 +24,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700005_07_020");
-MsgDisp("Mikage","That's why I don't just make textbook
-questions, but also nitpicky trick
-questions so that students are ranked
-clearly.");
+MsgDisp("Mikage","That's why I make nitpicky trick questions
+on top of the basics, so students are
+ranked clearly.");
 MsgDisp("主人公","So that's how it is...seems difficult.");
 ChEye(7,0);
 ChMouth(7,0);

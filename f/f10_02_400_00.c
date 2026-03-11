@@ -88,10 +88,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100240000_02_060");
-MsgDisp("Sassa","No, it's interesting to hear how you can
-ride the wave and at the same time and
-display techniques that force others to
-yield.");
+MsgDisp("Sassa","No, it's cool hearing about how you ride
+the wave while pulling off techniques.");
 MsgDisp("主人公","Finding commonalities and learning from
 different sports, you're both amazing...");
 ChEye(2,0);

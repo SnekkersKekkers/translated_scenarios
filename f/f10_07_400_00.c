@@ -60,8 +60,8 @@ ChMotion(7,0);
 VoicePlay("F100740000_07_040");
 MsgDisp("Mikage","Why are you apologizing for working so
 hard on your class duties?");
-MsgDisp("主人公","After all, it was because of that, that
-Himuro-sensei got angry with you.");
+MsgDisp("主人公","But because of that, Himuro-sensei 
+scolded you, didn't he?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

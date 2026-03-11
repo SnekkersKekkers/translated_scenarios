@@ -115,8 +115,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100140002_01_070");
-MsgDisp("Kazama","That's a matter for another time.
-For now, let's take our time.");
+MsgDisp("Kazama","Your case is a whole different story.
+We'll take our time with that one.");
 MsgDisp("主人公","(｛Kazama＊＊｝, you'd be a great
 detective...)");
 BGMStop();

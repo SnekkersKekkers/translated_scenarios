@@ -40,10 +40,9 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700010_07_030");
-MsgDisp("Mikage","You've been working hard for dear life
-with your fellow classmates, right? So no
-matter what happens during the real thing,
-it will become the best memory.");
+MsgDisp("Mikage","You worked hard with your classmates,
+right? So no matter what happens on stage,
+it'll become the best memory.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -59,7 +58,6 @@ VoicePlay("F020700010_07_050");
 MsgDisp("Mikage","That's right.
 Now it's up to you to decide what shape of
 success you're going for.");
-MsgDisp("主人公","(I want to get the best possible result,
-not only for everyone, but also for
-｛Mikage＊＊｝ who had helped with all of
-the preparations.)");
+MsgDisp("主人公","(I want the best result possible, not just
+for everyone, but for ｛Mikage＊＊｝ who
+helped with all the preparations.)");
