@@ -54,7 +54,7 @@ MsgDisp("主人公","What are you guys talking about?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("D150001600_01_030");
 MsgDisp("Kazama","Your story.");
 ChEye(6,0);

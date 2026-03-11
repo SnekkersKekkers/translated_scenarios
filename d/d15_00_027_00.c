@@ -56,7 +56,7 @@ Vice Principal Himuro is also using the
 cafeteria.");
 SEPlay("EV_SE_594",0,0,0,8);
 SEWait();
-ChOpen(7,254,0,2,0,-1,-1,0,3);
+ChOpen(7,254,0,2,0,#1,#1,0,3);
 VoicePlay("D150002700_07_040");
 MsgDisp("Mikage","What the...
 Don't scare me like that.");

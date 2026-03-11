@@ -17,7 +17,7 @@ MsgDisp("主人公","It's both fun and delicious.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
-ChEyeOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
 VoicePlay("D150002501_02_010");
 MsgDisp("Sassa","Ah, I have an idea.
 Wouldn't it be cool if there was hotpot on

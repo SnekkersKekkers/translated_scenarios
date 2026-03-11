@@ -8,7 +8,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("D150002601_02_000");
 MsgDisp("Sassa","Sniff sniff.
 There are so many nice smells.");
-ChEyeOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

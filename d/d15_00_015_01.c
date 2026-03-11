@@ -26,7 +26,7 @@ What a huge leap.");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);
-ChEyeOpenLevel(5,-1);
+ChEyeOpenLevel(5,#1);
 VoicePlay("D150001501_05_010");
 MsgDisp("Hiiragi","I think Kazama could be a talented actor.
 Right?");
@@ -50,7 +50,7 @@ MsgDisp("主人公","Ehh∋");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("D150001501_01_030");
 MsgDisp("Kazama","Alright.
 You won't get away with it now.

@@ -87,8 +87,3 @@ cheering me up!");
     DbgAssert(1);
     break ;
     }
-break ;
-default :
-DbgAssert(0);
-break ;
-}

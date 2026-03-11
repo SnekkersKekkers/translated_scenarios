@@ -32,7 +32,7 @@ MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("D150001601_01_020");
 MsgDisp("Kazama","That's true...");
 MsgDisp("主人公","I guess so...?");

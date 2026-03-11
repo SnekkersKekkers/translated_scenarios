@@ -11,7 +11,7 @@ MsgDisp("主人公","｛Himuro＊＊｝, what's the matter?");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
-ChEyeOpenLevel(6,-1);
+ChEyeOpenLevel(6,#1);
 VoicePlay("D150006700_06_010");
 MsgDisp("Himuro","That poster over there.
 It isn't very appetizing.");

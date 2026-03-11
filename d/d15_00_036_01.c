@@ -48,7 +48,7 @@ It's dangerous.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,0);
-ChEyeOpenLevel(3,-1);
+ChEyeOpenLevel(3,#1);
 VoicePlay("D150003601_03_030");
 MsgDisp("Honda","Okayyy.");
 MsgDisp("主人公","(Hehe.

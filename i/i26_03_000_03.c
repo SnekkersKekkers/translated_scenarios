@@ -94,11 +94,6 @@ ChClose(3);
 MsgClose();
 MsgDisp("主人公","(I can't forget how I started...
 I'll have to be careful.)");
-break ;
-default :
-DbgAssert(1);
-break ;
-}
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

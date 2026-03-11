@@ -51,7 +51,7 @@ rice?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
-ChEyeOpenLevel(1,-1);
+ChEyeOpenLevel(1,#1);
 VoicePlay("D150001701_01_040");
 MsgDisp("Kazama","No, that would be normal.
 It's bread with bread as a side dish.

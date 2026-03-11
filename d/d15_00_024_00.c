@@ -37,7 +37,7 @@ I might still be growing.");
 ChEye(2,4);
 ChMouth(2,3);
 ChMotion(2,4);
-ChEyeOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
 VoicePlay("D150002400_02_030");
 MsgDisp("Sassa","Not that.
 Nanatsumori is asking what you like.");

@@ -56,7 +56,7 @@ That's too long for a nickname.");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,0);
-ChEyeOpenLevel(2,-1);
+ChEyeOpenLevel(2,#1);
 VoicePlay("D150002600_02_040");
 MsgDisp("Sassa","Ehhh...");
 MsgDisp("主人公","(Hehe!
