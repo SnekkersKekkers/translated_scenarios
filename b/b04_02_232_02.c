@@ -14,9 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223202_02_010");
-    MsgDisp("Sassa","It's fine, but what kind of
-expression should I make when I'm kneeling
-and still?");
+    MsgDisp("Sassa","It's fine, but what expression should I
+make sitting face-to-face like this
+without moving?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

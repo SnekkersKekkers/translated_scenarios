@@ -39,7 +39,7 @@ is over, right?");
     VoicePlay("B040223201_02_030");
     MsgDisp("Sassa","Right. Maybe the axis of rotation could
 change gradually? There are all sorts of
-possibilities to consider");
+possibilities to consider.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

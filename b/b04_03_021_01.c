@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040302101_03_010");
-    MsgDisp("Honda","Right, neither.
+    MsgDisp("Honda","Right, me neither.
 I'm glad I came here today!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040216002_02_000");
 MsgDisp("Sassa","There's a lot of crane game prizes.
 Is there something you want?");
-MsgSel("How about that huge sweet?","The skull bear plush!","They all seem complicated?");
+MsgSel("How about that huge sweet?","The skull bear plush!","They all seem kinda meh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

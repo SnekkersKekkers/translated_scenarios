@@ -28,9 +28,9 @@ Alright, let's go all the way to the top!");
         ChMouth(2,2);
         ChMotion(2,0,1);
         VoicePlay("B040220000_02_020");
-        MsgDisp("Sassa","That's no good.
-If you don't push yourself, you won't get
-better.");
+        MsgDisp("Sassa","That's not great.
+You won't get better if you don't push
+yourself a little.");
         MsgDateResultDisp();
         }
     break ;

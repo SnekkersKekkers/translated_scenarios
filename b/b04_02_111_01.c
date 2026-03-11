@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040211101_02_000");
 MsgDisp("Sassa","A figure skater's sense of balance is
 amazing, huh?
-I wonder how they train");
+I wonder how they train.");
 MsgSel("They revolve like a spinning top, huh?","Isn't it natural born talent?","Amusement park coffee cups?");
 switch (MsgSelRsltGet()){
     case 0:

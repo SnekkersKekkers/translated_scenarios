@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040223101_02_000");
 MsgDisp("Sassa","Apparently sitting at the end of a
 rollercoaster is most fun.");
-MsgSel("Let's do a field study","I prefer then front","Let's keep riding until we get to the back");
+MsgSel("Let's do a field study","I prefer the front","Let's keep riding until we get to the back");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

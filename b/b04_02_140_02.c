@@ -33,7 +33,7 @@ practice.");
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040214002_02_020");
-        MsgDisp("Sassa","Don't retort so coolly?");
+        MsgDisp("Sassa","Don't shoot me down so coolly!");
         MsgDateResultDisp();
         break ;
         case 4:

@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("B040218100_02_000");
-    MsgDisp("Sassa","I spontaneously got excited whilst
-watching.
+    MsgDisp("Sassa","I got so pumped up watching that.
 Shall we run home?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

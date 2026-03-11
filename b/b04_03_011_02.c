@@ -25,7 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040301102_03_020");
-    MsgDisp("Honda","Well then, after you～");
+    MsgDisp("Honda","Well then, I'll go first～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
