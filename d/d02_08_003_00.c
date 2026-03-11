@@ -33,9 +33,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("D020800300_08_030");
-MsgDisp("Shirahane","Bet.
-Me and my bro live together in sis'
-apartment.");
+MsgDisp("Shirahane","Ya.\nMe and my bro live together in sis'\napartment.");
 MsgDisp("主人公","You have a brother too!
 I didn't know that...");
 MsgDisp("主人公","(Now that I think about it, isn't there
