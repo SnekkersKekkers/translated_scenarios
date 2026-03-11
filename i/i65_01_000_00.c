@@ -63,9 +63,7 @@ What's up?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I650100000_01_060");
-    MsgDisp("Kazama","What.
-Is it that weird that I'd come to a gas
-station?");
+    MsgDisp("Kazama","What?\nIs it that weird that I'd come to a gas\nstation?");
     MsgDisp("主人公","Not at all.
 But, are you refuelling something?");
     ChEye(1,0);
