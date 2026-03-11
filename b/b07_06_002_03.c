@@ -6,8 +6,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_160");
 MsgDisp("Himuro","It's because Yanosuke-senpai and
-Kojiro-sensei are noisily making up a
-fuss.");
+Kojiro-sensei are always making a fuss.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -20,8 +19,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_180");
-MsgDisp("Himuro","I mean, normally people wouldn't come
-approach would they?
+MsgDisp("Himuro","I mean, normally people wouldn't
+approach me, would they?
 ...Me that is.");
 MsgDisp("主人公","Y-Yeah...maybe?");
 ChEye(6,0);

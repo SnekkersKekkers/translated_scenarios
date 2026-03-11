@@ -46,9 +46,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 ScrFadeOut(0);
-MsgDisp("主人公","(Maybe he's not really gone to an
-amusement park before, like how he's not
-really gone bowling...?)");
+MsgDisp("主人公","(Like with bowling, maybe he hasn't
+really been to an amusement park
+before...?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.7);
 SEWait();
@@ -75,9 +75,9 @@ MsgDisp("主人公","Yes, I'm excited!");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("B050700300_07_070");
-MsgDisp("Mikage","Yes, it looks like it's sparkling in my
-eyes too.
-Aren't the kids getting too excited?");
+MsgDisp("Mikage","Yeah, everything looks like it's
+sparkling to me too.
+Those kids must be losing their minds.");
 StlEye(7,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,5,1);
@@ -115,11 +115,11 @@ ChMotion(7,3);
 ChEyeOpenLevel(7,10);
 VoicePlay("B050700300_07_120");
 MsgDisp("Mikage","That's right.
-I'll be counting on you to stick with me
-for everything the free pass covers today.");
-MsgDisp("主人公","(After bowling, ｛Mikage＊＊｝'s next thing
-is the theme park... Alright, I'll enjoy
-it with him too!)");
+Today you're sticking with me until we've
+used up every ride on this free pass.");
+MsgDisp("主人公","(After bowling, ｛Mikage＊＊｝'s next big
+first is the theme park... Alright, I'll
+enjoy it with him too!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

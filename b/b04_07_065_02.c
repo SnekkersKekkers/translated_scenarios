@@ -80,9 +80,9 @@ come.");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040706502_07_080");
-        MsgDisp("Mikage","If I kept repeating \"eternal highschooler\"
-shtick, like an idiot, you'd probably just
-get sick of me.");
+        MsgDisp("Mikage","If I kept playing the \"eternal high
+schooler\" like an idiot, you'd probably
+just get sick of me.");
         MsgDisp("主人公","｛Mikage＊＊｝...?");
         ChEye(7,2);
         ChMouth(7,3);

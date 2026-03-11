@@ -27,8 +27,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B050700100_07_020");
-MsgDisp("Mikage","Is it because I submitted to your fierce
-attack the other day?");
+MsgDisp("Mikage","Is it because I gave in to your onslaught
+the other day?");
 MsgDisp("主人公","Are you...talking about skinship?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -61,15 +61,15 @@ StlEye(7,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5);
 VoicePlay("B050700100_07_060");
-MsgDisp("Mikage","This is as much retaliation as I can
-muster.");
+MsgDisp("Mikage","This is the most I can do to return the
+favor.");
 MsgDisp("主人公","...｛Mikage＊＊｝?");
 StlEye(7,0,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("B050700100_07_070");
-MsgDisp("Mikage","Ehhh, I feel relieved.
-When I do this.");
+MsgDisp("Mikage","Huh, it's calming.
+Doing this.");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("B050700100_07_080");
@@ -86,8 +86,8 @@ SEStop("EV_SE_781",0.4);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050700100_07_090");
-MsgDisp("Mikage","I don't have the guts, so I couldn't even
-move a single step.");
+MsgDisp("Mikage","I don't have the courage, so I couldn't
+even take a single step.");
 MsgDisp("主人公","...What's wrong?");
 ChEye(7,2);
 ChMouth(7,3);
@@ -98,8 +98,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B050700100_07_110");
-MsgDisp("Mikage","Coward that I am, thanks to you I was
-able to take a small step today.");
+MsgDisp("Mikage","Even though I'm such a coward, thanks to
+you I was able to take a small step
+today.");
 MsgDisp("主人公","Take a step?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -129,8 +130,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(｛Mikage＊＊｝ held my hand in his...
-But, what did he mean by take a step
+MsgDisp("主人公","(｛Mikage＊＊｝ held my hand...
+But what did he mean by taking a step
 forward?)");
 MsgClose();
 ScrFadeOut(0,0);

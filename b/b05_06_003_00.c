@@ -45,8 +45,8 @@ You're really amazing, ｛Himuro＊＊｝!");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("B050600300_06_050");
-MsgDisp("Himuro","Don't jump.
-If it swings too much, it'll fall.");
+MsgDisp("Himuro","Don't bounce around.
+The vibrations will make it fall.");
 MsgDisp("主人公","Ah...
 Sorry?");
 StlEye(6,0);

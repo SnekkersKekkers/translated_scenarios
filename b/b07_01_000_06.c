@@ -16,7 +16,7 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("B070100000_01_310");
 MsgDisp("Kazama","Haaー...
-Yeah, sure..");
+Yeah, sure...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -60,9 +60,9 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B070100000_01_360");
-MsgDisp("Kazama","Seriously, you're always up and down.
-It seems like I'm going to have
-trouble...from now on.");
+MsgDisp("Kazama","Seriously, you're always building me up
+and knocking me down.
+You're gonna be the death of me...I swear.");
 MsgDisp("主人公","(What does that mean?)");
 BGMStop();
 MsgClose();

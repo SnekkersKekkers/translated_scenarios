@@ -76,15 +76,15 @@ StlEye(7,1);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("B050700000_07_060");
-MsgDisp("Mikage","She's a beauty isn't she?");
+MsgDisp("Mikage","She's a real beauty, huh?");
 MsgDisp("主人公","Yes!
 It's almost a pity I have to eat it.");
 StlEye(7,0,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("B050700000_07_070");
-MsgDisp("Mikage","Isn't itー.
-I don't have the courage to bite into it
+MsgDisp("Mikage","Right?
+I can't bring myself to bite into it
 either.");
 StlEye(7,2);
 StlMouth(7,1);

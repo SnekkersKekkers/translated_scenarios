@@ -6,7 +6,7 @@ ChOpen(7,255,3,2,1,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723102_07_000");
 MsgDisp("Mikage","Closing my eyes didn't help.
-Hey, there's nothing left.");
+Man, I've got nothing left in me.");
 MsgSel("Let's relax and cheer \"Banzai!\"","Hey, let's stop riding already.","Let's hold hands.");
 switch (MsgSelRsltGet()){
     case 0:

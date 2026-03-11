@@ -31,7 +31,7 @@ I'm sure something happy will happen.");
     ChMotion(7,5);
     VoicePlay("B040708102_07_020");
     MsgDisp("Mikage","Sorry, sorry!
-You're right, being distracted is
+You're right, spacing out is
 disrespectful to the cherry blossoms.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);

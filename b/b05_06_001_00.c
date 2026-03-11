@@ -70,18 +70,18 @@ ScrFadeIn(0);
 MsgDisp("主人公","Woah...
 ｛Himuro＊＊｝ is playing...!");
 VoicePlay("B050600100_34_040");
-MsgDisp("Band Guy","You're going hard!");
+MsgDisp("Band Guy","You're a natural!");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("B050600100_06_060");
-MsgDisp("Himuro","Not much to it.");
+MsgDisp("Himuro","It's nothing special.");
 MsgDisp("主人公","That's not true.
 You're amazing, ｛Himuro＊＊｝!");
 StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
 VoicePlay("B050600100_06_070");
-MsgDisp("Himuro","...My rhythm is messy.");
+MsgDisp("Himuro","...You're throwing me off.");
 VoicePlay("B050600100_34_050");
 MsgDisp("Band Guy","Alright, let's have a quick jam session.");
 Wait(30,0);
@@ -153,7 +153,7 @@ MsgDisp("Himuro","Excuse me!
 Would it be okay for me to borrow your
 bass again?");
 MsgDisp("主人公","W-Wait a minute!
-｛Himuro＊＊｝, geez...!");
+｛Himuro＊＊｝, I'm fine...!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

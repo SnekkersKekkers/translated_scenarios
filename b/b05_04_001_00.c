@@ -16,7 +16,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B050400100_04_000");
 MsgDisp("Nanatsumori","Hmm—we still have time.
-What should we do.");
+What should we do?");
 MsgDisp("主人公","That's right...");
 VoicePlay("B050400100_04_010");
 MsgDisp("Nanatsumori","...Hey actually, I——");
@@ -103,8 +103,8 @@ StlEyeOpenLevel(4,5);
 ScrFadeIn(0);
 VoicePlay("B050400100_46_010");
 MsgDisp("Clerk","Um, dear customer.
-Even though you have 10 minutes left, we
-are terribly sorry to say...");
+Even though there are still 10 minutes
+left, we are terribly sorry to say...");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("B050400100_04_090");
@@ -155,13 +155,14 @@ MsgDisp("Nanatsumori","I was the only one having fun, I was
 stuffing myself and ended up neglecting
 you...");
 MsgDisp("主人公","Nah.
-We enjoyed the movie together and I had
-fun seeing ｛Nanatsumori＊｝'s brave form!");
+We enjoyed the movie together, and
+watching ｛Nanatsumori＊｝'s heroic display
+was so much fun!");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B050400100_04_140");
-MsgDisp("Nanatsumori","Don't lie...");
+MsgDisp("Nanatsumori","No way...");
 MsgDisp("主人公","It's true.");
 ChEye(4,2);
 ChMouth(4,2);

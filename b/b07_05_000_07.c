@@ -14,10 +14,9 @@ of.");
 MsgDisp("主人公","Eh, school life is your dream?");
 ChMotion(5,2);
 VoicePlay("B070500000_05_310");
-MsgDisp("Hiiragi","Yes. Attending the same school with you
-and my friends, spending time together
-from entrance to graduation; it feels like
-a dream.");
+MsgDisp("Hiiragi","Yes. Attending school with you and my
+friends, spending time together from
+entrance to graduation; it feels like a dream.");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,3);

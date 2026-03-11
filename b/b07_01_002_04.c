@@ -16,8 +16,7 @@ ChMotion(1,0);
 VoicePlay("B070100002_01_240");
 MsgDisp("Kazama","Then Honda throws in his own analysis
 about the historical context of when it
-was popular. When that happens, it's just
-chaos.");
+was popular. After that, it's just chaos.");
 MsgDisp("主人公","Yeah, it seems super interesting.");
 ChEye(1,0);
 ChMouth(1,2);

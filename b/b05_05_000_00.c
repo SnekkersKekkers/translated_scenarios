@@ -52,9 +52,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B050500000_05_050");
-MsgDisp("Hiiragi","I get it.
-...Wait here a minute.
-I'll go buy some.");
+MsgDisp("Hiiragi","I see...
+Wait here a minute.
+I'll go buy some from the shop.");
 MsgClose();
 SEStop("EV_SE_729",1);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -79,11 +79,10 @@ Wait(50,0);
 StlEyeOpenLevel(5,5);
 VoicePlay("B050500000_05_070");
 MsgDisp("Hiiragi","Good job!
-...Did you see that?
-It caught it.");
+...Did you see that catch just now?");
 MsgDisp("主人公","Yeah, that was cute!
-My turn now...
-Catch!");
+Okay, my turn...
+Here goes!");
 SEStop("EV_SE_729",0.5);
 SEPlay("EV_SE_668",0,0.6);
 SEWait();

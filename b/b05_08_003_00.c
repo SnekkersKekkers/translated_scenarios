@@ -39,7 +39,7 @@ ChEye(8,0);
 ChMouth(8,3);
 VoicePlay("B050800300_08_030");
 MsgDisp("Shirahane","Hehe!
-Hehe, why don't we hang out a little
+Hey, why don't we hang out a little
 longer?");
 MsgDisp("主人公","Eh, that's fine but...");
 ChEye(8,3);
@@ -96,8 +96,9 @@ VoicePlay("B050800300_08_100");
 MsgDisp("Shirahane","As I thought, it's different for a model.
 That's how it is.
 Haha!");
-MsgDisp("主人公","(...But I wonder how one would look cool
-wearing that hat and doll?)");
+MsgDisp("主人公","(Hehe!
+...But how do you look cool wearing that
+hat and doll?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

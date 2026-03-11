@@ -9,7 +9,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2,1);
 VoicePlay("B060700000_07_000");
-MsgDisp("Mikage","That's great. You took time out of your 
-day to be here.");
+MsgDisp("Mikage","That's great.
+You gave up your day off to be here,
+after all.");
 MsgClose();
 ScrFadeOut(0,0);

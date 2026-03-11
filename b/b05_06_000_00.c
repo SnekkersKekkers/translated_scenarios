@@ -69,8 +69,8 @@ StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
 VoicePlay("B050600000_06_080");
-MsgDisp("Himuro","Ah, I guess you don't have any worries so
-you don't need to lay down.");
+MsgDisp("Himuro","Oh, I guess you don't have any worries.
+So you didn't need to lie down?");
 MsgDisp("主人公","Geez!");
 MsgClose();
 ScrFadeOut(0);

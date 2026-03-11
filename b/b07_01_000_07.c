@@ -30,8 +30,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B070100000_01_400");
-MsgDisp("Kazama","What's up with that textbook response?
-You're saying it so casuallyー.");
+MsgDisp("Kazama","What's with that textbook answer?
+You say it so casuallyー.");
 MsgDisp("主人公","Eh?
 I think ｛Kazama＊＊｝ will be able to make
 any of his dreams come true though.");
@@ -40,7 +40,7 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChCheek(1,7);
 VoicePlay("B070100000_01_410");
-MsgDisp("Kazama","Well, if someone can help.");
+MsgDisp("Kazama","Well, if someone's willing to help.");
 MsgDisp("主人公","I'll help however I can!
 When that time comes, just let me know.");
 ChMotion(1,0);

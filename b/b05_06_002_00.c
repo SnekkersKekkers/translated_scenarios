@@ -117,7 +117,7 @@ StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600200_06_140");
 MsgDisp("Himuro","...What?
-You suddenly meowed.
+You suddenly started purring.
 Is that...sympathy?");
 MsgDisp("主人公","Hehe.");
 StlEye(6,2);

@@ -26,18 +26,16 @@ ChMotion(4,1,1);
 VoicePlay("B050400300_04_010");
 MsgDisp("Nanatsumori","Treasure hunting.");
 MsgDisp("主人公","Hehe!
-You end up being drawn to too many things
-don't you?");
+There's so much to look at, huh?");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B050400300_04_020");
-MsgDisp("Nanatsumori","Hmm....
-That's not quite right.");
+MsgDisp("Nanatsumori","Hmm...
+Not really.");
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_030");
-MsgDisp("Nanatsumori","It's that I haven't come across anything I
-like.");
+MsgDisp("Nanatsumori","I haven't found anything that clicks.");
 MsgDisp("主人公","I see...
 What kind of thing are you looking for?");
 ChEye(4,0);
@@ -105,7 +103,7 @@ StlEyeOpenLevel(4,5,1);
 VoicePlay("B050400300_04_120");
 MsgDisp("Nanatsumori","I'm guessing it's \"Don't tell me you're
 going to wear that∋
-You like crossdressing\".");
+You like to crossdress∋\".");
 MsgDisp("主人公","Uh...");
 StlEyeOpenLevel(4,0,1);
 StlMouthOpenLevel(4,0);
@@ -144,23 +142,22 @@ BGMVol(0.5,2);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_180");
-MsgDisp("Nanatsumori","Ahー, it's good that they're about to
-close up shop.
-It's easier to negotiate a lower priceー.");
+MsgDisp("Nanatsumori","Ahー, being here right before closing is
+great.
+Way easier to haggle for a discountー.");
 MsgDisp("主人公","｛Nanatsumori＊｝ is good at haggling huh?");
 ChMotion(4,0,1);
 VoicePlay("B050400300_04_190");
-MsgDisp("Nanatsumori","That's cause there were a lot of good
-things in that store that were too good to
-be thrown away, so I ended up buying them.");
+MsgDisp("Nanatsumori","That store had so many good things that'd
+be a waste to throw away, so I couldn't
+help myself.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_200");
 MsgDisp("Nanatsumori","...Hey.
-Have you been disillusioned?
-By me, that is.");
+Are you disappointed in me?");
 MsgDisp("主人公","Nope.");
 ChEye(4,4);
 ChMouth(4,3);
@@ -177,7 +174,7 @@ VoicePlay("B050400300_04_220");
 MsgDisp("Nanatsumori","Yeah.
 I believe it, because it's you.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
-MsgDisp("主人公","(But, I wonder if he'll show me what he
+MsgDisp("主人公","(I wonder if he'll ever show me what he
 looks like crossdressing.
-I think I kinda wanna see it...)");
+I kind of want to see it...)");
 ChPrmTblAdd(4,0);

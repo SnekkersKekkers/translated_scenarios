@@ -57,7 +57,8 @@ StlEyeOpenLevel(7,0,1);
 VoicePlay("B050700200_07_030");
 MsgDisp("Mikage","Calm down...");
 MsgDisp("主人公","(｛Mikage＊＊｝, amazing...
-He's calmed down an enraged horse...)");
+The horse that was going wild is calming
+down...)");
 StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700200_07_040");

@@ -20,7 +20,7 @@ VoicePlay("B050800000_08_010");
 MsgDisp("Shirahane","Hmmm...");
 MsgDisp("主人公","?");
 VoicePlay("B050800000_08_020");
-MsgDisp("Shirahane","I don't know if they're movin'...");
+MsgDisp("Shirahane","Can't tell with 'em movin' around...");
 MsgDisp("主人公","???");
 ChEye(8,0);
 ChMouth(8,4);
@@ -30,7 +30,8 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,1,1);
 VoicePlay("B050800000_08_040");
-MsgDisp("Shirahane","They're here∈ There they are!");
+MsgDisp("Shirahane","Found 'em∈
+There they are!");
 MsgClose();
 SEPlay("EV_SE_672");
 ChClose(8,0,30);

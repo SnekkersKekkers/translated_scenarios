@@ -16,8 +16,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B050500200_05_010");
 MsgDisp("Hiiragi","Yeah, I'm grasping at straws here.
-If only I had more power to bring the
-theater company together...");
+If only I had more charisma to unite the
+theater company...");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -68,7 +68,7 @@ StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("B050500200_05_050");
 MsgDisp("Hiiragi","Give me your hand.
-Here, please give it a touch.");
+Here, touch it.");
 MsgDisp("主人公","Sure.");
 SEPlay("EV_SE_504",0.2);
 SEWait();
@@ -76,17 +76,17 @@ StlEye(5,0);
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,0);
 VoicePlay("B050500200_05_060");
-MsgDisp("Hiiragi","This is the energy source...I'm sure of
-it. I can feel that gentle and warm
-feeling in my palms.");
+MsgDisp("Hiiragi","This is the source of the energy...
+Yeah, I can feel something gentle and
+warm flowing into my palms.");
 StlEyeOpenLevel(5,#1);
 VoicePlay("B050500200_05_070");
 MsgDisp("Hiiragi","...Hmm?");
 MsgDisp("主人公","What's wrong?");
 VoicePlay("B050500200_05_080");
-MsgDisp("Hiiragi","This is strange.
-I can feel it in my left hand as well as
-my right hand.");
+MsgDisp("Hiiragi","How strange.
+I can feel it in my left hand too, not
+just my right.");
 StlEye(5,1);
 VoicePlay("B050500200_05_090");
 MsgDisp("Hiiragi","The left...is coming from your hand...");
@@ -104,8 +104,8 @@ ChOpen(5,255,0,0,4,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050500200_05_100");
-MsgDisp("Hiiragi","Today I got great power, from both the
-water and you.");
+MsgDisp("Hiiragi","Today I received great power from both
+the spring and from you.");
 MsgDisp("主人公","Huh?
 I don't think I have that sort of
 ability...");

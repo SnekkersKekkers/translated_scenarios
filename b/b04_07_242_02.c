@@ -57,9 +57,9 @@ you can see it even on the regular?");
         ChMotion(7,5);
         ChEyeOpenLevel(7,10);
         VoicePlay("B040724202_07_050");
-        MsgDisp("Mikage","Well, it's a camp where you'll notice it
-more naturally. It's not just with guys,
-too? Then, I'm counting on you?");
+        MsgDisp("Mikage","Camping is where that stuff comes out
+naturally. And it's not just guys, either.
+So, I'm counting on you.");
         MsgClose();
         SEPlay("EV_SE_626");
         ChClose(7);

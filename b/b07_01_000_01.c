@@ -5,7 +5,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_010");
 MsgDisp("Kazama","TV?
-Geez, you're such a sheep.");
+Geez, you're such a trend-chaser.");
 MsgDisp("主人公","Does ｛Kazama＊＊｝ not watch it at all?");
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
@@ -13,9 +13,9 @@ Wait(8,0);
 ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("B070100000_01_020");
-MsgDisp("Kazama","I'm not interested, they're all garbage.
-Especially variety shows? Pranks and stuff.
-Watching those makes me feel bad.");
+MsgDisp("Kazama","Not interested. It's nothing but mindless
+shows. Especially variety shows? Pranks
+and stuff. Watching those puts me off.");
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Sometimes they do pretty extreme stuff...");
 ChEye(1,0);

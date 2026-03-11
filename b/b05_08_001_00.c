@@ -92,9 +92,9 @@ StlEye(8,1);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("B050800100_08_110");
-MsgDisp("Shirahane","I heard an alum from Hane School used to
-come here to do image training for their
-dreams.");
+MsgDisp("Shirahane","I heard a Hane School alum used to come
+here to visualize their dreams coming
+true.");
 StlEye(8,1);
 StlMouth(8,0);
 VoicePlay("B050800100_08_120");
@@ -138,7 +138,7 @@ ChMotion(8,3,1);
 VoicePlay("B050800100_08_170");
 MsgDisp("Shirahane","...But, I'm fired up now!
 Thanks to that senior!");
-MsgDisp("主人公","He's a wonderful senpai isn't he?");
+MsgDisp("主人公","What a wonderful senpai, huh?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);

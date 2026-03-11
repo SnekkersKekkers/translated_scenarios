@@ -39,7 +39,7 @@ Then, let's play another game.");
     ChMouth(8,4);
     VoicePlay("B040816001_08_030");
     MsgDisp("Shirahane","That's fine, but.
-Isn't it easy for a beginner?");
+It's not easy for a beginner, y'know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

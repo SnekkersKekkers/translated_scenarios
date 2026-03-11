@@ -27,8 +27,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B070201000_02_020");
-MsgDisp("Sassa","At that time I stupidly believed that love
-is something beyond me.");
+MsgDisp("Sassa","After that, I thought about it in my own
+way, and love just doesn't rank in my
+priorities.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

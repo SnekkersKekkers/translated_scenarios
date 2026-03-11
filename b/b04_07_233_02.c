@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040723302_07_000");
 MsgDisp("Mikage","For the first time, I think I felt
 something other than fear...");
-MsgSel("The other side of fear, right?","Shall we go gain to make sure?","It feels like I can overcome it too.");
+MsgSel("The other side of fear, right?","Shall we go again to make sure?","It feels like I can overcome it too.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -33,7 +33,7 @@ Is that the other side?");
         ChMouth(7,0);
         ChMotion(7,1);
         VoicePlay("B040723302_07_020");
-        MsgDisp("Mikage","I won't look.");
+        MsgDisp("Mikage","I'll pass.");
         MsgDateResultDisp();
         break ;
         case 4:

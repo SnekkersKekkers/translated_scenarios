@@ -47,8 +47,8 @@ ChMouth(8,4);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("B050800200_08_060");
-MsgDisp("Shirahane","I don't really know why, but I got
-anxious. I was just one-sidedly making
+MsgDisp("Shirahane","I can't really explain it, but...I got
+anxious. I was just one-sidedly dragging
 ya——");
 MsgClose();
 ScrFadeOut(0);

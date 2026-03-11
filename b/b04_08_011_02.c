@@ -62,9 +62,9 @@ So it's like that after all.");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040801102_08_050");
-        MsgDisp("Shirahane","I've come ta this place where I stick out
-like a sore thumb many times, and I regret
-it a lot...");
+        MsgDisp("Shirahane","I keep endin' up in places where I stick
+out like a sore thumb, and I really regret
+it...");
         MsgDisp("主人公","???");
         ChEye(8,2);
         ChMouth(8,0);

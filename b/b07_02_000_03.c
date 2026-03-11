@@ -19,7 +19,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_130");
 MsgDisp("Sassa","I don't really like games but when people
-call them \"E-Sports \", I think about
+call them \"E-Sports\", I think about
 checking them out.");
 MsgDisp("主人公","｛Sassa＊＊｝ playing e-sports?
 I might want to watch.");
