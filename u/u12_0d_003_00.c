@@ -23,8 +23,9 @@ with Mari, so isn't that okay?");
 StlEyeOpenLevel(22,5,1);
 StlMouth(22,1);
 VoicePlay("U120D00300_22_020");
-MsgDisp("Hikaru","But if they end up going head-to-head, 
-sparks are gonna fly. So watch out!");
+MsgDisp("Hikaru","But if they end up going head-to-head,
+sparks are gonna fly.
+So watch out!");
 MsgDisp("主人公","(I see.
 If I don't want to be misunderstood by
 boys, I need to be careful...)");

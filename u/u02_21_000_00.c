@@ -34,6 +34,6 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U022100000_21_040");
 MsgDisp("Michiru","Well, thanks to Mari, today was a good
-day. I found so many great things,
-right?");
+day.
+I found so many great things, right?");
 MsgDisp("主人公","Yes!");

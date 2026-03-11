@@ -34,8 +34,7 @@ ChMouth(21,2);
 ChMotion(21,4);
 ChCheek(21,0);
 VoicePlay("U022100001_21_040");
-MsgDisp("Michiru","...Wasn't I inadequate as a date
-partner?");
+MsgDisp("Michiru","...Wasn't I inadequate as a date partner?");
 MsgDisp("主人公","Today's date with ｛みちる＊｝ was
 perfectly satisfying!");
 ChEye(21,4);

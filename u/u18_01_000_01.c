@@ -6,8 +6,8 @@ switch (ChPrmGet(1,6)){
     case 3:
     MsgDisp("主人公","Uhm...");
     MsgDisp("主人公","It says...\"The Hanatsubaki twins keep
-smiling at me and interrogating me. What
-did you tell them?\"");
+smiling at me and interrogating me.
+What did you tell them?\"");
     MsgDisp("主人公","\"...Listen, if you have something to say,
 tell me yourself.\"");
     MsgDisp("主人公","(What did those two ask ｛Kazama＊＊｝
