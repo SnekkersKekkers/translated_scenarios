@@ -50,8 +50,8 @@ I haven't enjoyed autumn with you yet.");
         ChMotion(3,4);
         VoicePlay("B040308402_03_040");
         MsgDisp("Honda","This is when fireflies live, so summer is
-nice. But I simply like the awakening of
-insects around spring time, march.");
+nice. But I simply like the Awakening of
+Insects around springtime, in March.");
         MsgDisp("主人公","Awakening of insects?");
         ChEye(3,0);
         ChMouth(3,3);
@@ -93,8 +93,9 @@ Back then I felt just like a larva.");
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308402_03_100");
-        MsgDisp("Honda","Because of that I'm an adult bug now!
-I'm flying around the town with you?");
+        MsgDisp("Honda","And now, I'm a full-grown bug!
+I'm flying around the town with you,
+right?");
         ChEye(3,1);
         ChMouth(3,4);
         ChMotion(3,2);

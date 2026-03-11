@@ -67,8 +67,8 @@ sister when she was younger...");
         ChMotion(3,1);
         VoicePlay("B040308202_03_060");
         MsgDisp("Honda","Right right, she started asking all sorts
-of questions when I taught her, and it
-started to instill some doubt within me.");
+of questions when I taught her, and new
+questions started popping up for me too.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,0);

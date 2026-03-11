@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040118500_01_000");
-    MsgDisp("Kazama","Yeah, but even so, don't you think it
-kinda overlapped with our situation?!");
+    MsgDisp("Kazama","Yeah, but even so, didn't it kinda hit
+close to home for us?!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,9 +24,9 @@ kinda overlapped with our situation?!");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118500_01_010");
-    MsgDisp("Kazama","You say it was so-so, so it was neither
-good or bad?
-That was a meaningless use of time.");
+    MsgDisp("Kazama","So-so means it was neither good nor bad,
+right?
+What a waste of time.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -35,9 +35,9 @@ That was a meaningless use of time.");
     ChMouth(1,2);
     ChMotion(1,0,1);
     VoicePlay("B040118500_01_020");
-    MsgDisp("Kazama","It's a difference of opinion.
-Well, if it's that definitive, I won't
-argue.");
+    MsgDisp("Kazama","A difference of opinion, huh.
+Well, if you're gonna be that decisive
+about it, I won't argue.");
     MsgDateResultDisp();
     break ;
     default :

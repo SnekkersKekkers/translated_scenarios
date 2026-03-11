@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChSet(3,3);
     VoicePlay("B040306500_03_010");
     MsgDisp("Honda","Kagーyaー!
-It's a feeling of Japan's summer.");
+Now this is what Japanese summer is about.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

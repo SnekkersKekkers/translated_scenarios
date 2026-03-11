@@ -7,7 +7,7 @@ VoicePlay("B040121102_01_000");
 MsgDisp("Kazama","When I come here, I don't know if I'm
 looking at the animals, or if the animals
 are looking at me?");
-MsgSel("I wonder how we look like to the animals","They're looking at us as if we're strange, huh","Maybe they think we look delicious?");
+MsgSel("I wonder what we look like to the animals","They're looking at us as if we're strange, huh","Maybe they think we look delicious?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

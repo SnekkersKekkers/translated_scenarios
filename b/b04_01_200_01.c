@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040120001_01_000");
 MsgDisp("Kazama","The weather is also nice, shall we go to
 the summit?");
-MsgSel("Let's take on a super hard course!","It does no good to underestimate the winter mountains...","there's a two person sled!");
+MsgSel("Let's take on a super hard course!","You shouldn't underestimate the winter mountains...","There's a two-person sled!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040120001_01_010");
-    MsgDisp("Kazama","You really don't take jokes huh?");
+    MsgDisp("Kazama","You really can't take a joke, can you?");
     MsgDateResultDisp();
     break ;
     case 1:

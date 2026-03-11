@@ -64,7 +64,7 @@ scary.");
         MsgDisp("Kazama","Wait a minute, you're aware of that?
 You look around restlessly, stick your
 nose into everything—you're curiosity
-in human form.");
+personified.");
         MsgDisp("主人公","Umm...");
         ChEye(1,2);
         ChMouth(1,1);
@@ -87,8 +87,8 @@ Put yourself in my shoes for once!");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_080");
         MsgDisp("Kazama","Phewwー, I'm not angryー. It's just that
-you suddenly throw in some things out of
-nowhere, and they're critical for me.");
+the stuff you randomly throw out there
+hits me right where it hurts.");
         MsgDisp("主人公","I'm sorry...
 I won't say it anymore, okay?");
         ChEye(1,1);
@@ -98,7 +98,7 @@ I won't say it anymore, okay?");
         ChCheek(1,5);
         VoicePlay("B040120002_01_090");
         MsgDisp("Kazama","Ahhhー, it's fine.
-I'll just leave it as it is after all.");
+Just stay the way you are.");
         ChEye(1,2);
         ChMouth(1,2);
         ChMotion(1,1);

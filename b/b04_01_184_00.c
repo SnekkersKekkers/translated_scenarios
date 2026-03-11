@@ -35,9 +35,9 @@ wasn't to our taste.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040118400_01_020");
-    MsgDisp("Kazama","Well, that's true, though. Didn't you give
-up too early? You were fast asleep even
-when it was still the intro.");
+    MsgDisp("Kazama","Well, that's true. But you gave up way
+too fast, didn't you? You were asleep
+before the intro even ended.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
