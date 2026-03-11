@@ -23,8 +23,7 @@ Did you run here?");
     MsgDisp("Sassa","Yeah.
 Every light was green the whole way, so I
 ran nonstop from home.");
-    MsgDisp("主人公","What??
-You ran all the way here from your house?");
+    MsgDisp("主人公","Huh?\nYou ran all the way here from your house?");
     MsgDispSksp(1,0);
     ChEye(2,0);
     ChMouth(2,4);
