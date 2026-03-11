@@ -4,8 +4,8 @@ BGOpen("ad750",0);
 ScrFadeIn(0);
 MsgDisp("","Soon I'll be back in the nostalgic
 Habataki City. It's been three months
-since you've seen that smile.");
-MsgDisp("","Since you've met, you've never been
+since I've seen that smile.");
+MsgDisp("","Since we've met, we've never been
 apart this long.");
 MsgDisp("","After graduation, I was preoccupied
 with resignation procedures and calls
@@ -80,7 +80,7 @@ MsgDisp("主人公","\"｛Mikage＊＊｝!\"");
 MsgDisp("","And then I heard a strangely
 nostalgic and ticklish voice.");
 MsgDisp("","The voice that I had imagined calling
-out for me everyday under afar,
+out for me every day under a far,
 distant sky.");
 MsgClear();
 MsgDisp("","Then, what should my first words be

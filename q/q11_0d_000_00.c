@@ -42,16 +42,16 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("Q110D00000_22_020");
-MsgDisp("Hikaru","As a memory, of the school trip, a
-matching one for us all▼
-How do you think?");
+MsgDisp("Hikaru","A matching set for all of us, as a memory
+of the school trip▼
+What do you think?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Q110D00000_21_030");
 MsgDisp("Michiru","Oh no...
-I also bought for us three as memory...
-Look...");
+I also bought something for the three of
+us as a memory... Look...");
 MsgDisp("主人公","Actually, me too...");
 ChEye(22,0);
 ChMouth(22,0);

@@ -43,9 +43,8 @@ MsgDisp("Moderator","Yes, it really suits you.
 Is there anyone you would like to thank?");
 StlEye(3,1);
 VoicePlay("D010300700_03_020");
-MsgDisp("Honda","My dad.
-My mom and my sister will be really happy
-too.");
+MsgDisp("Honda","My dad would be so happy.
+My mom and my sister too.");
 StlEye(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300700_43_040");

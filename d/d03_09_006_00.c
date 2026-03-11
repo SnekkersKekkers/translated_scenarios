@@ -106,7 +106,7 @@ ChMouth(9,4);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900600_09_080");
-MsgDisp("Kuya","Is that a detestable thing?");
+MsgDisp("Kuya","Hey, doesn't that make me sound bad?");
 MsgDisp("主人公","I didn't mean it that way.
 As usual, you're still getting involved in
 everything.");

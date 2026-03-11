@@ -94,9 +94,9 @@ MsgDisp("主人公","Disco...?
 I would have wanted to see that.");
 StlEyeOpenLevel(9,5,1);
 VoicePlay("D010800000_09_030");
-MsgDisp("Kuya","We were searching for you and your stall
-back at Habataki High School.
-I guess we're late getting back here.");
+MsgDisp("Kuya","We were looking for you at Habataki and
+checking out the stalls while we were at
+it. That's why we're late getting back.");
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800000_08_060");
 MsgDisp("Daichi","That's true...
@@ -163,9 +163,9 @@ MsgClose();
 ChOpen(8,254,0,0,3,#1,#1,0,1);
 ChOpen(9,254,0,0,0,#1,#1,0,2);
 ScrFadeIn(0);
-MsgDisp("主人公","Thank you for walking me back. The
-festival at Hanegasaki was really amazing.
-I had a good time!");
+MsgDisp("主人公","Thank you for walking me back. I got to
+enjoy Hane's festival too, so this year
+was a really special festival!");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,4,1);

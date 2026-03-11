@@ -132,7 +132,7 @@ ChMotion(1,0);
 VoicePlay("D010100600_01_090");
 MsgDisp("Kazama","Since it's for charity, they picked a high
 schooler like me to do it.
-Because my dad used to do this...");
+I used to watch my dad's auctions, so...");
 MsgDisp("主人公","I see.\nWell maybe in the future, ｛Kazama＊＊｝, \nyou can be just like your dad——");
 ChEye(1,0);
 ChMouth(1,1);
@@ -147,9 +147,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D010100600_01_110");
-MsgDisp("Kazama","I just did it today because it was for
-charity. But I didn't really enjoy the
-auction all that much.");
+MsgDisp("Kazama","Today's was for charity, but the auctions
+I saw over there...
+I couldn't really bring myself to like them.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);

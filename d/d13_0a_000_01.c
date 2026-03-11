@@ -42,7 +42,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130A00001_06_020");
 MsgDisp("Himuro","Your childhood friend over here is
-completely conscious over it.");
+totally self-conscious about it.");
 ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);

@@ -100,7 +100,7 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900800_09_090");
-MsgDisp("Kuya","Is that surprising?");
+MsgDisp("Kuya","Does that bother you?");
 MsgDisp("主人公","No...
 Are you distracted by all the things that
 keep happening?");
