@@ -37,10 +37,9 @@ itself a history.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040122202_01_020");
-        MsgDisp("Kazama","That's right. Apparently there was a big
-renovation 50 years ago. My grandpa told
-me that valuable cultural assets were
-found at that time, too.");
+        MsgDisp("Kazama","That's right. There was a big renovation
+50 years ago, and my grandpa said valuable
+cultural assets were found then, too.");
         MsgDisp("主人公","Treasure?");
         ChEye(1,0);
         ChMouth(1,3);

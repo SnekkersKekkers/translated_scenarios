@@ -39,7 +39,7 @@ sky.");
     ChMotion(1,0);
     VoicePlay("B040123201_01_030");
     MsgDisp("Kazama","That has nothing to do with the peak...
-It's more to do with the production.");
+That's just a special effect, right?");
     MsgDateResultDisp();
     break ;
     default :

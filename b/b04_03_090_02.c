@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040309002_03_000");
 MsgDisp("Honda","Did you know about how if you talk to
 plants, they'll grow quicker?");
-MsgSel("If you talk to them gently, they'll grow up strong huh?","There's no way they understand words though?","It's good to make them listen to music to, right?");
+MsgSel("If you talk to them gently, they'll grow up strong, huh?","There's no way they understand words though?","It's good to make them listen to music too, right?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040406102_04_000");
 MsgDisp("Nanatsumori","So.
 What do you want to play first?");
-MsgSel("I want to swim.","I want to bury myself in the sand.","Hoe about splashing around in the water?");
+MsgSel("I want to swim.","I want to bury myself in the sand.","How about splashing around in the water?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){

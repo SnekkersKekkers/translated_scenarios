@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040422200_04_000");
 MsgDisp("Nanatsumori","I don't know where to start or how I
 should look at it.");
-MsgSel("Of course, we're studying historu1","Isn't there an air of long ago?","That's not a good way of putting it.");
+MsgSel("Of course, we're studying history!","Isn't there an air of long ago?","That's not a good way of putting it.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

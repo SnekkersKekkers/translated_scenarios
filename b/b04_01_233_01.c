@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040123301_01_010");
-    MsgDisp("Kazama","That's just your hope.");
+    MsgDisp("Kazama","That's just wishful thinking on your part.");
     MsgDateResultDisp();
     break ;
     case 1:

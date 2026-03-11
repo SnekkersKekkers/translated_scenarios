@@ -20,9 +20,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     VoicePlay("B040122201_01_010");
     MsgDisp("Kazama","Yeah, that's right. Especially since this
-is the castle tower. There are very few
-castles in the whole country with their
-castle tower still standing.");
+is the castle tower. Nationwide, very few 
+castles still have their tower standing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

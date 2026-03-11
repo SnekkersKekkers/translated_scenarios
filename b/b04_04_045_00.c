@@ -3,7 +3,7 @@ ChLayout(1);
 ChNanaType(#1);
 ChOpen(4,253,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgSel("Today's event was wonderful!","Today's event was so-so","Today's even was a miss, huh?");
+MsgSel("Today's event was wonderful!","Today's event was so-so","Today's event was a miss, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

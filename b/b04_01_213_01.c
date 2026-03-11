@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040121301_01_000");
 MsgDisp("Kazama","It gives you a sense of security that's
 different to other animals.");
-MsgSel("It's nice to be able to hold and stroke them","t's nice to be able to feed them","Recently, there's been some doggy and kitty cafes.");
+MsgSel("It's nice to be able to hold and stroke them","It's nice to be able to feed them","Recently, there's been some doggy and kitty cafes.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -31,10 +31,9 @@ annoyed!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040121301_01_020");
-    MsgDisp("Kazama","It's said to be high in protein, low in
-calories, and made from natural
+    MsgDisp("Kazama","High protein, low calorie, natural
 ingredients. They must be eating better
-food than us, right?");
+than us, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

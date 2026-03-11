@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,4);
     ChMotion(1,4);
     VoicePlay("B040121302_01_010");
-    MsgDisp("Kazama","You always have a, how should I put it...
-a fluffy smell.");
+    MsgDisp("Kazama","You always have this, how should I put
+it... fluffy kind of smell.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -99,8 +99,8 @@ Well, I guess that can't be helped.");
         VoicePlay("B040121302_01_090");
         MsgDisp("Kazama","Still, it's kind of annoying when she just
 casually licked you...");
-        MsgDisp("主人公","(｛Kazama＊＊｝, really is a neat freak
-huh?)");
+        MsgDisp("主人公","(Is ｛Kazama＊＊｝ really that particular
+about things?)");
         break ;
         default :
         DbgAssert(1);

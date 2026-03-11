@@ -29,7 +29,7 @@ that I don't know.");
     ChMotion(1,3);
     VoicePlay("B040123300_01_020");
     MsgDisp("Kazama","Right.
-No one benefits off this.");
+Nobody wins with this.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -52,18 +52,18 @@ Am I gonna be done in here by you?");
         ChEyeOpenLevel(1,0);
         ChCheek(1,0);
         VoicePlay("B040123202_01_030");
-        MsgDisp("Kazama","That's for sure, if we got to the peak,
-the angle won't let us be seen from the
-carriage in front...");
+        MsgDisp("Kazama","True, once we reach the top, the angle
+means we can't be seen from the gondola
+in front...");
         MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,2);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123202_01_040");
-        MsgDisp("Kazama","No, I have to think about how long we'll
-be at the top.");
-        MsgDisp("主人公","Eh, what's this?");
+        MsgDisp("Kazama","No, I was just thinking about how many
+seconds we'd be at the top.");
+        MsgDisp("主人公","Hmm, I wonder?");
         ChMotion(1,0);
         Wait(8,0);
         ChEye(1,0);
@@ -106,9 +106,9 @@ gonna do it.");
     ChMotion(1,0);
     ChCheek(1,0);
     VoicePlay("B040123202_01_080");
-    MsgDisp("Kazama","It'd be a problem if it was just a small
-room. But it's an attraction, so this
-distance is allowed.");
+    MsgDisp("Kazama","If it were just a small room, that'd be
+awkward. But since it's an attraction,
+this distance is allowed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

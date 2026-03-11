@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121200_01_010");
     MsgDisp("Kazama","Yeah, they do.
-They also have similar ones at the super
-market.");
+They have similar ones at the supermarket,
+too.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -34,8 +34,8 @@ market.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121200_01_020");
-    MsgDisp("Kazama","So you're the type to trample on cute
-things.");
+    MsgDisp("Kazama","So you'd wear cute things on your feet,
+huh.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -45,8 +45,8 @@ things.");
     ChMotion(1,0);
     VoicePlay("B040121200_01_030");
     MsgDisp("Kazama","Seriously...?
-That's something that ladies who like that
-kind of thing often wear, right?");
+Isn't that what middle-aged women who are
+into that sort of thing usually wear?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

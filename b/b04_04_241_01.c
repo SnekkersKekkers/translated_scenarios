@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040424101_04_000");
 MsgDisp("Nanatsumori","There's a stall, do you want to eat
 something?");
-MsgSel("Let's eat some soft serve!","Let;s drink some freshly-squeezed milk!","A barbecue would be nice...");
+MsgSel("Let's eat some soft serve!","Let's drink some freshly-squeezed milk!","A barbecue would be nice...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

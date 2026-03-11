@@ -10,7 +10,7 @@ VoicePlay("B040401001_04_000");
 MsgDisp("Nanatsumori","OhhhーHow's this?
 Doesn't it look like it was especially
 designed for you?");
-MsgSel("Really, I'll go but it!","I wonder...","It doesn't suit me!");
+MsgSel("I might buy it!","I wonder...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

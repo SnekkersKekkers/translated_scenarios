@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040123502_01_000");
 MsgDisp("Kazama","Apparently these sorts of places attract
 spirits don't they?");
-MsgSel("There's a fleeing soldier behind ｛Kazama＊＊｝...","Then, they wouldn't need staff would they?","Eh, i-is that so...?");
+MsgSel("There's a fallen warrior behind ｛Kazama＊＊｝...","Then, they wouldn't need staff would they?","Eh, i-is that so...?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){
@@ -33,8 +33,8 @@ woman...");
         ChMouth(1,2);
         ChMotion(1,3);
         VoicePlay("B040123502_01_020");
-        MsgDisp("Kazama","Is there not anyone else but the fallen
-warrior?");
+        MsgDisp("Kazama","A fallen warrior? Couldn't you have come
+up with something better?");
         MsgDisp("主人公","Umm, anyone else?");
         ChEye(1,2);
         ChMouth(1,3);

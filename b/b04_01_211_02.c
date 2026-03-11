@@ -47,7 +47,7 @@ to them?");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040121102_01_030");
-        MsgDisp("Kazama","You would be the biggest target...
+        MsgDisp("Kazama","You'd be the first one targeted...
 Don't get too close.");
         MsgDateResultDisp();
         break ;
@@ -71,7 +71,7 @@ You wouldn't survive in the Savannah.");
 you. A spacey person like you is the
 perfect target.");
         MsgDisp("主人公","Hey, that's not true.
-I'll live strongly in the Savannah.");
+I'd survive just fine in the Savannah.");
         ChEye(1,3);
         ChMouth(1,3);
         ChMotion(1,3);
@@ -83,15 +83,15 @@ me.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040121102_01_070");
-        MsgDisp("Kazama","Because even your natural born enemies
-would grow to like you.");
+        MsgDisp("Kazama","Even your natural predators would end up
+liking you.");
         MsgDisp("主人公","Ehh?");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040121102_01_080");
-        MsgDisp("Kazama","After all, everyone naturally gathers
-around you. Besides, is there anyone
+        MsgDisp("Kazama","I mean, everyone just naturally gathers
+around you. And is there even anyone
 you don't get along with?");
         MsgDisp("主人公","Umm...someone I don't get along with...");
         ChEye(1,0);
@@ -105,7 +105,7 @@ you don't get along with?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121102_01_100");
         MsgDisp("Kazama","That in itself is a problem for me...");
-        MsgDisp("主人公","(｛Kazama＊＊｝ is there something troubling
+        MsgDisp("主人公","(｛Kazama＊＊｝, is something bothering
 you?)");
         break ;
         default :

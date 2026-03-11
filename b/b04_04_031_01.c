@@ -16,7 +16,7 @@ VoicePlay("B040403101_04_000");
 MsgDisp("Nanatsumori","A king penguin...chick∋
 It's huge∈");
 ChEyeOpenLevel(4,#1);
-MsgSel("Waa, it's so fluffy!","Its so big...there could be a person in there","It's too big, it's scary");
+MsgSel("Waa, it's so fluffy!","It's so big...there could be a person in there","It's too big, it's scary");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
