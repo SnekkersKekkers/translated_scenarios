@@ -132,8 +132,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100600_01_090");
 MsgDisp("Kazama","Since it's for charity, they picked a high
-schooler like me to do it.");
-MsgDisp("Kazama","Because my dad used to do this...");
+schooler like me to do it.
+Because my dad used to do this...");
 MsgDisp("主人公","I see.\nWell maybe in the future, ｛Kazama＊＊｝, \nyou can be just like your dad——");
 ChEye(1,0);
 ChMouth(1,1);

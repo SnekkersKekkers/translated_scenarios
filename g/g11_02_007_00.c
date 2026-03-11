@@ -31,9 +31,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G110200700_02_030");
 MsgDisp("Sassa","Yeah, I'm more concerned with my form than
-the time.
-Ah, have a look.");
-MsgDisp("Sassa","If anything looks off, tell me.");
+the time. Ah, have a look. If anything
+looks off, tell me.");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -83,8 +82,7 @@ MsgDisp("Member B","He's the only one who's on a different
 level.");
 MsgDisp("主人公","Eh...?");
 MsgDisp("主人公","(Just now, they were talking about
-｛Sassa＊＊｝...)");
-MsgDisp("主人公","(I want everybody to be able to feel good
-during track practice...)");
+｛Sassa＊＊｝...) (I want everybody to be able
+to feel good during track practice...)");
 MsgClose();
 ScrFadeOut(0,0);

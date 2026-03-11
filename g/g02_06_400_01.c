@@ -53,9 +53,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640001_06_070");
 MsgDisp("Himuro","That's why I've been working on my memory
-lately.");
-MsgDisp("Himuro","Instead of writing it down in my diary, I
-thought I'd just remember it.");
+lately. Instead of writing it down in my
+diary, I thought I'd just remember it.");
 MsgDisp("主人公","Today's fireflies too?");
 ChEye(6,0);
 ChMouth(6,4);

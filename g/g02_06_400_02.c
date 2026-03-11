@@ -63,9 +63,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640002_06_090");
 MsgDisp("Himuro","But I'd rather be soaked than covered in
-mud.");
-MsgDisp("Himuro","Mud seems like it would be a pain to get
-the stains off.");
+mud. Mud seems like it would be a pain to
+get the stains off.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,1);
 ChMouth(6,0);

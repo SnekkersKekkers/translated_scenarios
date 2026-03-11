@@ -34,10 +34,9 @@ MsgDisp("Kuya?","Haha, so it seems, huh.");
 MsgDisp("主人公","Eh, how did you know?");
 StlEye(9,0);
 VoicePlay("D030900300_09_030");
-MsgDisp("Kuya?","I heard it from someone I know.
-Someone in the Habatcher editorial
-department.");
-MsgDisp("Kuya?","To be honest, she's my older sister.");
+MsgDisp("Kuya?","I heard it from someone I know. Someone in
+the Habatcher editorial department. To be
+honest, she's my older sister.");
 MsgDisp("主人公","Someone in the editorial department...
 Do you maybe mean Mayo Shirahane?");
 StlEyeOpenLevel(9,5);

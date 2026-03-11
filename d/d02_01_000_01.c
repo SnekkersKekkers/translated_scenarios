@@ -128,8 +128,7 @@ ChMotion(1,0);
 VoicePlay("D020100000_01_170");
 MsgDisp("Kazama","Ah, maybe you should just take off your
 shoes and let me carry you until we get to
-the shoe lockers.");
-MsgDisp("Kazama","Here, piggyback ride.");
+the shoe lockers. Here, piggyback ride.");
 MsgDisp("主人公","W-Wait, ｛Kazama＊＊｝∋
 I said I'm fine so...
 Hey, everyone is staring at us∋");
