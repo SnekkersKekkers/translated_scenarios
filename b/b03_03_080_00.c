@@ -5,8 +5,8 @@ ChMotion(3,3,1);
 ScrFadeIn(0);
 VoicePlay("B030308000_03_000");
 MsgDisp("Honda","The insects in the park are full of energy
-in the spring. Let's give our greetings to
-them while we look at the blossoms!");
+in the spring. Let's greet them while we 
+view the blossoms!");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe, you're right.");
 MsgDispSksp(0);

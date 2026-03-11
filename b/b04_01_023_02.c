@@ -105,7 +105,7 @@ I can't read a thing.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040102302_01_090");
-    MsgDisp("Kazama","It's sort of got an evil style.");
+    MsgDisp("Kazama","The art style's kinda malicious, huh.");
     MsgDateResultDisp();
     break ;
     default :

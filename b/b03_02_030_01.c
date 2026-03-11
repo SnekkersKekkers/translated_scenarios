@@ -5,7 +5,7 @@ ChMotion(2,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030203001_02_000");
-MsgDisp("Sassa","The Water Garden's here.
+MsgDisp("Sassa","The Water Garden's open right now.
 What should we do?");
 MsgSel("Let's go to the aquarium.","Water Garden sounds nice.");
 switch (MsgSelRsltGet()){

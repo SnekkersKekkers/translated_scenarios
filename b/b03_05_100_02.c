@@ -8,7 +8,7 @@ MsgDispSksp(1,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B030510002_05_000");
-MsgDisp("Hiiragi","I'm a bit of an expressionist myself.
-Let me examine it.");
+MsgDisp("Hiiragi","I'm a performer myself, after all.
+Let me learn from this.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

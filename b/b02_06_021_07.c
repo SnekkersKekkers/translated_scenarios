@@ -2,7 +2,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602107_06_000");
-MsgDisp("Himuro","You look like the girl next door.");
+MsgDisp("Himuro","You look like a textbook girly-girl.");
 MsgDisp("主人公","Is it not your kind of taste?");
 ChEye(6,0);
 ChMouth(6,0);

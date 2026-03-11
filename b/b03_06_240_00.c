@@ -18,6 +18,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B030624000_06_010");
-MsgDisp("Himuro","Time is passing peacefully.");
+MsgDisp("Himuro","Somehow, it feels like time flows more
+gently here.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

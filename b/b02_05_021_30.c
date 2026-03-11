@@ -13,8 +13,7 @@ about the clothes. Not the acting.");
 ChMotion(5,4);
 VoicePlay("B020502130_05_020");
 MsgDisp("Hiiragi","But if you put in the effort and training,
-it will become as if second nature to
-wear.");
+the clothes become second nature to you.");
 ChMotion(5,0);
 VoicePlay("B020502130_05_030");
 MsgDisp("Hiiragi","I've come to naturally associate you

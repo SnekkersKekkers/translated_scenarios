@@ -41,10 +41,9 @@ activities, though.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040110300_01_030");
-    MsgDisp("Kazama","Hearing Vice-Principal Himuro's name makes
-it feel familiar. Maybe he went up to him
-like, \"Mihara, attend your remedial
-lessons.\"");
+    MsgDisp("Kazama","Vice-Principal Himuro's name makes it feel
+familiar. Maybe he told him, \"Mihara,
+attend your remedial lessons.\"");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

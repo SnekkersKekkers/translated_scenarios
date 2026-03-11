@@ -25,9 +25,9 @@ ChMouth(4,4);
 ChMotion(4,2);
 ChCheek(4,7);
 VoicePlay("B020401000_04_020");
-MsgDisp("Nanatsumori","Haa...Instead of praising you for that
-critical hit, I've got an electric current
-through my body.");
-MsgDisp("主人公","(Hehe ｛Nanatsumori＊｝ seems to really like
-this swimsuit!)");
+MsgDisp("Nanatsumori","Haa...When it hits this hard, forget
+compliments - there's electricity running
+through my whole body.");
+MsgDisp("主人公","(Hehe, ｛Nanatsumori＊｝ seems to really
+like this swimsuit!)");
 ChCheek(4,5);

@@ -5,8 +5,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030504000_05_000");
-MsgDisp("Hiiragi","It's opening.
-Let's go inside.");
+MsgDisp("Hiiragi","The doors are opening.
+Let's head inside.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();

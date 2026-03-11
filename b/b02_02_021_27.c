@@ -9,9 +9,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B020202127_02_010");
-MsgDisp("Sassa","Anything that you wear is the best!
-That's why you can be so filled with
-energy!");
+MsgDisp("Sassa","Whatever's most like you is the best!
+So energetic styles are totally fine!");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);

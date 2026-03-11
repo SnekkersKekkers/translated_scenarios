@@ -14,6 +14,6 @@ ChMouth(6,2);
 ChMotion(6,2);
 VoicePlay("B030621000_06_010");
 MsgDisp("Himuro","I see...
-That's a shame.");
+Too bad for me, then.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

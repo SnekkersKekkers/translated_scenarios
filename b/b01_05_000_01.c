@@ -61,8 +61,8 @@ I kept imagining the worst.");
     ChMotion(5,0);
     VoicePlay("B010500001_05_060");
     MsgDisp("Hiiragi","Thank you.
-However, I will not let myself become
-complacent to your kindness.");
+However, I won't take your kindness for
+granted anymore.");
     MsgDispSksp(0);
     break ;
     default :

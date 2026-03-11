@@ -10,8 +10,8 @@ ChMouth(5,2);
 ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("B020500006_05_010");
-MsgDisp("Hiiragi","That's a very exciting combination. It
-feels as though I have seen it
+MsgDisp("Hiiragi","That's quite a bold combination.
+It feels as though I have seen it
 somewhere...Perhaps as a stage costume?");
 MsgDisp("主人公","(This is bad...
 I wish I had thought about this more

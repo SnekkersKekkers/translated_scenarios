@@ -5,7 +5,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030608002_06_000");
-MsgDisp("Himuro","I expected it but it's still so hot.");
+MsgDisp("Himuro","I knew it'd be like this, but it's still
+so hot.");
 MsgDisp("主人公","Right...");
 MsgDispSksp(1,0);
 ChEye(6,0);

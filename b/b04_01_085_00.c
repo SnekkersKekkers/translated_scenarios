@@ -13,9 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040108500_01_010");
-    MsgDisp("Kazama","It's refreshing to hear such a
-an obvious point come from your
-mouth.");
+    MsgDisp("Kazama","It's refreshing to hear such an
+obvious point come from your mouth.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

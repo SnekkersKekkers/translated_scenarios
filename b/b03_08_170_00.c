@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMotion(8,4,1);
 ChCheek(8,5);
 VoicePlay("B030817000_08_000");
-MsgDisp("Shirahane","Ohhh man.
-I'm just so excited...");
+MsgDisp("Shirahane","Oh no.
+My heart won't stop racin'...");
 MsgDisp("主人公","Hehe, aren't you having fun?");
 ChEye(8,3);
 ChMouth(8,3);

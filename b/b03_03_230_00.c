@@ -50,8 +50,8 @@ My sister likes riding it too.");
     ScrFadeIn(0);
     VoicePlay("B030323000_03_040");
     MsgDisp("Honda","I like looking at the way it's built.
-It kind of looks like spokes on a wheel
-bike, don't you think?");
+It kind of looks like spokes on a bicycle
+wheel, don't you think?");
     break ;
     case 2:
     MsgDispSksp(1,0);

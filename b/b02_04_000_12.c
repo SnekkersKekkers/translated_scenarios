@@ -5,8 +5,8 @@ ChEye(4,1);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B020400012_04_000");
-MsgDisp("Nanatsumori","Even if it's your favorite thing, that's a
-blunder.");
+MsgDisp("Nanatsumori","The 'it's my favorite' excuse?
+Not gonna fly.");
 MsgDisp("主人公","Huh?");
 ChEye(4,0);
 VoicePlay("B020400012_04_010");

@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040102100_01_010");
-    MsgDisp("Kazama","Yeah. It would be hard to be able to spend
-time together like this without mutual
-trust, right?");
+    MsgDisp("Kazama","Yeah. You can't really spend time like
+this together without trusting each other,
+right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

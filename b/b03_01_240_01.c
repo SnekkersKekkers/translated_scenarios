@@ -23,7 +23,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B030124000_01_010");
-    MsgDisp("Kazama","It would be troublesome if there weren't.");
+    MsgDisp("Kazama","I'd sure hope so, it's the great outdoors.");
     MsgDispSksp(0);
     break ;
     case 1:

@@ -8,6 +8,6 @@ MsgDispSksp(1,0);
 VoicePlay("B030411100_04_000");
 MsgDisp("Nanatsumori","It's cold outside.
 It's cold inside.
-Stuck between a rock and a hard place...");
+There's no escape...");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

@@ -7,8 +7,8 @@ ScrFadeIn(0);
 MsgDispSksp(1,0);
 ChEye(5,4);
 VoicePlay("B030520000_05_000");
-MsgDisp("Hiiragi","It's getting cold.
-We should do some exercise to warm-up.");
+MsgDisp("Hiiragi","It's cold out.
+Let's make sure to stretch properly.");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

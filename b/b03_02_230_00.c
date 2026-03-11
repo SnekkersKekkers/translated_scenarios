@@ -53,7 +53,7 @@ So it can't be helped.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223000_02_040");
-    MsgDisp("Sassa","15 minutes stuck in here, huh...");
+    MsgDisp("Sassa","Fifteen minutes trapped in here, huh...");
     break ;
     case 2:
     MsgDispSksp(1,0);

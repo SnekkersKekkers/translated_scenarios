@@ -8,8 +8,8 @@ ChMouth(5,3);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B020502108_05_010");
-MsgDisp("Hiiragi","Yes, it feels as though I am prey that
-will not be able to escape.
-But I won't give up, either.");
+MsgDisp("Hiiragi","Yes, that look has an aura that won't let
+its prey escape.
+I can't afford to lose, either.");
 MsgDisp("主人公","(Oh, good!
 ｛Hiiragi＊＊＊｝ seems really happy!)");

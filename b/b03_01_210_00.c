@@ -6,8 +6,8 @@ ChEyeOpenLevel(1,8);
 ScrFadeIn(0);
 ChMouth(1,3);
 VoicePlay("B030121000_01_000");
-MsgDisp("Kazama","There's all kinds of signs of things
-living here.");
+MsgDisp("Kazama","You can really feel the wildlife all
+around here.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","I suppose that is true...");
 MsgDispSksp(0);

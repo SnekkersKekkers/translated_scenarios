@@ -2,7 +2,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);
 VoicePlay("B020202134_02_000");
-MsgDisp("Sassa","Ooh, is this that \"adult coordination\"
+MsgDisp("Sassa","Ooh, is this that \"grown-up look\"
 that girls are talking about?");
 MsgDisp("主人公","Does it suit me?");
 ChEye(2,0);
@@ -10,7 +10,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B020202134_02_010");
 MsgDisp("Sassa","What a great, calm feeling.
-I'll have to do my best too.");
+Gotta step up my game too.");
 MsgDisp("主人公","Thank you.
 But you don't need to do anything...");
 ChEye(2,0);

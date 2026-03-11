@@ -15,6 +15,6 @@ ChMouth(6,2);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("B030612000_06_010");
-MsgDisp("Himuro","I wasn't expecting this. Should've done
-more research.");
+MsgDisp("Himuro","Didn't expect this.
+Should've done my homework.");
 MsgDispSksp(0);

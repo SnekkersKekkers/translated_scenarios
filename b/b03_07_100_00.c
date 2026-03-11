@@ -24,5 +24,5 @@ together, there's new stuff to see, right?
 So then, let's go.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","(Is ｛Mikage＊＊｝ being a little
-careless?)");
+half-hearted?)");
 MsgDispSksp(0);

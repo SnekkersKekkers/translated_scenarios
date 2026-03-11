@@ -3,7 +3,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B020102104_01_000");
 MsgDisp("Kazama","Those clothes are nice.
-Seems like you're in good spirits.");
+They really match your energetic vibe.");
 MsgDisp("主人公","Really?
 Thank you.");
 ChEye(1,4);

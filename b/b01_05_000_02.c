@@ -56,9 +56,9 @@ I wanted to see your surprised face.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B010500002_05_050");
-    MsgDisp("Hiiragi","Oh, nothing. 
-Just thinking out loud.
-Let's make haste.");
+    MsgDisp("Hiiragi","Oh, nothing.
+Just talking to myself.
+Let's go.");
     MsgDispSksp(0);
     break ;
     default :

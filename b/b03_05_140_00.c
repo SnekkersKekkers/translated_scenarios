@@ -7,9 +7,9 @@ ScrFadeIn(0);
 ChMouth(5,2);
 ChMotion(5,2);
 VoicePlay("B030514000_05_000");
-MsgDisp("Hiiragi","It's good that the audience and performers
-are so close to each other. Is there
-really sound coming from those speakers?");
+MsgDisp("Hiiragi","It's nice that the audience and performers
+are so close.
+Wait, is that sound coming from speakers?");
 MsgClose();
 ScrFadeOut(0,0);
 Wait(40,0);
@@ -21,9 +21,8 @@ ScrFadeIn(0);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B030514000_05_010");
-MsgDisp("Hiiragi","I don't know the first thing about the
-etiquette here. What is the correct way to
-spend my time...");
+MsgDisp("Hiiragi","First of all, I don't know the etiquette.
+What's the right way to act here...");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Ah, it's starting!");
 MsgDispSksp(0);

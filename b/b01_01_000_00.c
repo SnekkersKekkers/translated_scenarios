@@ -16,7 +16,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B010100000_01_000");
-    MsgDisp("Kazama","Yeah, I waited.");
+    MsgDisp("Kazama","Why yes, I did wait.");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,1);

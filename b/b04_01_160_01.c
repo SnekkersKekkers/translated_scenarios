@@ -6,9 +6,9 @@ ChMotion(1,0);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040116001_01_000");
-MsgDisp("Kazama","There are quite a lot of elderly people
-here?
-Maybe the same age as my Grandpa.");
+MsgDisp("Kazama","There are quite a lot of older folks here,
+huh?
+Maybe around my Grandpa's age.");
 MsgSel("Looks like there are games here that are popular with the elderly.","Maybe it's because they have stuff like Go and Shogi","Maybe your Grandpa is here too, ｛Kazama＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040116001_01_010");
-    MsgDisp("Kazama","Wow, that's not the image I have of the
-elderly people I know.");
+    MsgDisp("Kazama","Wow, that's not what I picture when I
+think of old folks.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

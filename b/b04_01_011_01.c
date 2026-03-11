@@ -43,9 +43,9 @@ nose and popping your ears?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040101101_01_030");
-    MsgDisp("Kazama","Only you would be able to point something
-like that out.
-You're a funny person, you know?");
+    MsgDisp("Kazama","You're really the type to attract that
+kind of stuff, aren't you.
+You're something else, you know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

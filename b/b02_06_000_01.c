@@ -10,6 +10,6 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B020600001_06_010");
 MsgDisp("Himuro","Why would I lie?
-You're just fishing for compliments.");
+I'm going out of my way to compliment you.");
 MsgDisp("主人公","(Hooray!
 I'm glad I wore this!)");

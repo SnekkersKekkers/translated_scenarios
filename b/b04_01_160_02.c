@@ -5,8 +5,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040116002_01_000");
-MsgDisp("Kazama","The feeling of reeling in something is so
-realistic on that fishing game.");
+MsgDisp("Kazama","That fishing game has a really realistic
+feel when you reel something in.");
 MsgSel("It's like real fishing huh?","You get medals for catching fish","Shall we play fishing-fishing champ again?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -76,8 +76,8 @@ away from you, it'll be nothing.");
         ChEye(1,0);
         ChMouth(1,3);
         VoicePlay("B040116002_01_070");
-        MsgDisp("Kazama","Then, let's start imagining it.
-Let's aim for a big one in
+        MsgDisp("Kazama","Then let's start with some visualization
+training. Let's aim for a big one in
 \"fishing-fishing\" champ.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

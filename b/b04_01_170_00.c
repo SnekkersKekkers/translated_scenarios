@@ -42,7 +42,8 @@ right?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040117000_01_030");
-    MsgDisp("Kazama","Has the songstress of Haba High arrived?");
+    MsgDisp("Kazama","The songstress of Haba High has arrived,
+huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -112,7 +112,7 @@ Are you kidding?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B030623001_06_090");
-    MsgDisp("Himuro","Really, those childish tricks?");
+    MsgDisp("Himuro","Of all things, those childish tricks?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

@@ -2,8 +2,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 VoicePlay("B020202132_02_000");
-MsgDisp("Sassa","That looks easy to move in, and it's
-stylish.");
+MsgDisp("Sassa","Easy to move in and stylish?
+That's the best.");
 MsgDisp("主人公","These clothes I'm wearing?");
 ChEye(2,3);
 ChMouth(2,4);

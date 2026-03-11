@@ -4,8 +4,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B030422000_04_000");
-MsgDisp("Nanatsumori","So refined, huh.
-This is our destination after all.");
+MsgDisp("Nanatsumori","Pretty old-school, huh.
+I mean, for a hangout spot for us.");
 VoicePlay("B030422000_04_010");
 MsgDisp("Nanatsumori","Castle or exhibit, which do you want to
 see?");
@@ -28,8 +28,8 @@ You got it.");
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B030422000_04_030");
-    MsgDisp("Nanatsumori","It's becoming even more refined...
-Are you really serious?");
+    MsgDisp("Nanatsumori","Doubling down on the old-school...
+Are you secretly a serious type?");
     MsgDispSksp(0);
     break ;
     default :

@@ -9,7 +9,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102121_01_010");
 MsgDisp("Kazama","Yeah.
-That's the kind of thing you can feel even
-in fashion.");
+That kind of thing works as a fashion
+statement too.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
 this.)");

@@ -7,8 +7,8 @@ do not suddenly break into a run, alright?");
 MsgDisp("主人公","Hey, I wouldn't do that!");
 ChMouth(5,3);
 VoicePlay("B020502109_05_010");
-MsgDisp("Hiiragi","Though, it would be appropriate to see you
-run like that.
+MsgDisp("Hiiragi","Though, I bet you'd look great running in
+that outfit.
 I'd love to see it.");
 MsgDisp("主人公","(Oh, good!
 ｛Hiiragi＊＊＊｝ seems really happy!)");

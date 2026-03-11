@@ -12,7 +12,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102112_01_010");
-MsgDisp("Kazama","No, it's like perfection.
-A model right off the page.");
+MsgDisp("Kazama","No, you totally put the magazine models
+to shame.");
 MsgDisp("主人公","(I'm glad!
 He seems to like it.)");

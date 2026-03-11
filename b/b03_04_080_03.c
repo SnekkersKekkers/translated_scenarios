@@ -4,7 +4,7 @@ ChMouth(4,2);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B030408003_04_000");
-MsgDisp("Nanatsumori","Fireflies make their homes here, in fall.
+MsgDisp("Nanatsumori","Firefly habitat, fall.
 Let's go.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Okay.");

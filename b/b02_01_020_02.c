@@ -3,8 +3,8 @@ ChMouth(1,4);
 ChMotion(1,0);
 VoicePlay("B020102002_01_000");
 MsgDisp("Kazama","Ooh.
-So it's possible even for something like
-that?");
+When you're the one wearing it, even
+something like that can work.");
 MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,3);

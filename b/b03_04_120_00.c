@@ -10,5 +10,5 @@ looking for something specific.
 That's the true charm of flea markets.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe!
-It's fun to find a good bargain.");
+Hope we find some hidden gems.");
 MsgDispSksp(0);

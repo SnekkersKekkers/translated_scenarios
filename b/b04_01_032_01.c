@@ -30,8 +30,8 @@ Alright, let's wait for it to happen!");
     ChMotion(1,3);
     ChEyeOpenLevel(1,7);
     VoicePlay("B040103201_01_020");
-    MsgDisp("Kazama","∋ No, seriously, some just got in my
-mouth.");
+    MsgDisp("Kazama","∋
+No, seriously, some just got in my mouth.");
     MsgDateResultDisp();
     break ;
     case 2:

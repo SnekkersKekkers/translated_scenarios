@@ -9,7 +9,7 @@ Wait(60,0);
 ChEye(1,4);
 ChMotion(1,3);
 VoicePlay("B040117002_01_000");
-MsgDisp("Kazama","Oi, 96 points is amazing you know?");
+MsgDisp("Kazama","Oi, 96 points is pretty amazing, right?");
 MsgSel("And for my prize?","I did it! New record!","I wonder where I got points deducted?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -45,7 +45,7 @@ The sweets here are delicious, right?");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040117002_01_030");
-        MsgDisp("Kazama","Alright dear customer, order received.");
+        MsgDisp("Kazama","Order received, ma'am.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.01,0.5);
         ChClose(1);

@@ -29,8 +29,8 @@ Sure thing.");
     BGOpen("tr420",0);
     ScrFadeIn(0);
     VoicePlay("B030423001_04_020");
-    MsgDisp("Nanatsumori","Caring about my hair at an amusement park
-is pretty girly...
+    MsgDisp("Nanatsumori","Worrying about my hair at an amusement
+park is pretty lame...
 Alright, I'm ready.");
     break ;
     case 1:
@@ -51,8 +51,8 @@ We can take it easy.");
     BGOpen("tr430",0);
     ScrFadeIn(0);
     VoicePlay("B030423001_04_040");
-    MsgDisp("Nanatsumori","Sit on the other side toward the left.
-It's got an amazing view.");
+    MsgDisp("Nanatsumori","Sit on the left side.
+The view's amazing from there.");
     break ;
     case 2:
     MsgDispSksp(1,0);
@@ -84,8 +84,8 @@ my bravery...!");
     ChMouth(4,0);
     VoicePlay("B030423001_04_070");
     MsgDisp("Nanatsumori","You got it.
-But it's absolutely against the rules to
-turn the handle like you're a DJ.");
+But spinning the handle like a DJ is
+off-limits.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -99,7 +99,7 @@ turn the handle like you're a DJ.");
     ChMotion(4,1,1);
     VoicePlay("B030423001_04_080");
     MsgDisp("Nanatsumori","Let me tell you something.
-What I said before, I wasn't joking, okay?");
+What I said before wasn't a dare, okay?");
     break ;
     case 4:
     MsgDispSksp(1,0);

@@ -5,7 +5,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040117001_01_000");
-MsgDisp("Kazama","It looks like you're enjoying singing?");
+MsgDisp("Kazama","You really look like you enjoy singing,
+huh?");
 MsgSel("It would be a pity if ｛Kazama＊＊｝ didn't also sing.","My throat is parched!","I'm kinda short of breath?");
 switch (MsgSelRsltGet()){
     case 0:

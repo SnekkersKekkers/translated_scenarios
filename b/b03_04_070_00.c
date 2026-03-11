@@ -6,8 +6,8 @@ ChMotion(4,3,1);
 ScrFadeIn(0);
 VoicePlay("B030407000_04_000");
 MsgDisp("Nanatsumori","Hmm...
-Feeling good.
-Well then, where do you want to look?");
+Feels nice.
+So, where should we start?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","About that...");
 MsgDispSksp(0);

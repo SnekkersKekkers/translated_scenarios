@@ -13,7 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B030103002_01_010");
-    MsgDisp("Kazama","That's a good, safe choice.");
+    MsgDisp("Kazama","Can't go wrong with that.
+Sounds good to me.");
     MsgDispSksp(0);
     break ;
     case 1:

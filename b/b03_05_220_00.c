@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B030522000_05_020");
     MsgDisp("Hiiragi","That's fine.
-When you go up the castle, the first thing
-that comes to mind is the tower.");
+When visiting a castle, you start with
+the tower.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Hehe, yeah.
 I want to feel like a lord.");

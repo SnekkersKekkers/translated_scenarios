@@ -4,7 +4,7 @@ SEPlay("EV_SE_788",0.3);
 ScrFadeIn(0);
 Wait(30,0);
 MsgDisp("主人公","(Everyone is already here...
-I wonder what's wrong?)");
+I wonder what happened to ｛Mikage＊＊｝?)");
 SEPlay("EV_SE_FOOT_025",1.2,0.9);
 Wait(88,1);
 MsgClose();
@@ -15,7 +15,7 @@ SEStop("EV_SE_788",2);
 VoicePlay("B010700003_07_000");
 MsgDisp("Mikage","Phew, whoo...
 I made it just in time!");
-MsgDisp("主人公","Umm, but teacher...
+MsgDisp("主人公","Umm, but ｛Mikage＊＊｝...
 You're really not on time.");
 ChEye(7,2);
 ChMouth(7,0);

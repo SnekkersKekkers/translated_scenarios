@@ -31,7 +31,7 @@ I thought the same.");
     VoicePlay("B030503002_05_030");
     MsgDisp("Hiiragi","The words 'deep sea' have a strange charm
 to them.
-Yes, let's go there.");
+Yes, let's go see for ourselves.");
     MsgDispSksp(0);
     break ;
     default :

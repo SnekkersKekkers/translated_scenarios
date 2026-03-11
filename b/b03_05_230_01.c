@@ -109,7 +109,7 @@ you like.");
     ChMouth(5,4);
     ChEyeOpenLevel(5,8);
     VoicePlay("B030523001_05_090");
-    MsgDisp("Hiiragi","It's over there, alright...");
+    MsgDisp("Hiiragi","Over there, huh... understood...");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -123,7 +123,7 @@ you like.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030523001_05_100");
-    MsgDisp("Hiiragi","The props here need a bit more work,
+    MsgDisp("Hiiragi","I want to fix these sets and props,
 somehow...");
     break ;
     default :

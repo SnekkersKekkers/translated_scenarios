@@ -38,8 +38,9 @@ hair afterward.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B030423000_04_030");
-    MsgDisp("Nanatsumori","I agree.
-A relaxed start to a cheerful day.");
+    MsgDisp("Nanatsumori","Agreed.
+On a nice day like this, we should start
+off relaxed.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -61,9 +62,9 @@ Ah, watch your step getting on.");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,7);
     VoicePlay("B030423000_04_050");
-    MsgDisp("Nanatsumori","There's still the tried and true way...
-We could still do something completely
-different...");
+    MsgDisp("Nanatsumori","If it were the usual pick, sure, but...
+You're really going off the rails
+here...");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -79,7 +80,7 @@ different...");
     VoicePlay("B030423000_04_060");
     MsgDisp("Nanatsumori","That's right.
 I can always fix my hair later, right?
-I'm resolved now!");
+I've made up my mind!");
     break ;
     case 3:
     MsgDispSksp(1,0);

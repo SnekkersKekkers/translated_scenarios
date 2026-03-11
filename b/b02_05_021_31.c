@@ -9,7 +9,7 @@ ChEye(5,4);
 ChMouth(5,3);
 ChMotion(5,1);
 VoicePlay("B020502131_05_010");
-MsgDisp("Hiiragi","However, now it is your fault.");
+MsgDisp("Hiiragi","But now, it's your fault.");
 MsgDisp("主人公","Huh?");
 ChEye(5,3);
 ChMotion(5,0);

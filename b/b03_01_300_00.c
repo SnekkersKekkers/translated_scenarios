@@ -4,8 +4,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B030130000_01_000");
-MsgDisp("Kazama","Don't scrutinize it too much, now.
-It's fine.");
+MsgDisp("Kazama","Don't go staring at everything, okay?
+Got it?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe, of course.
 Excuse the intrusion.");

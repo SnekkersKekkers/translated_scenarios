@@ -10,7 +10,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B030606000_06_000");
-MsgDisp("Himuro","Let's meet back here in 10 minutes.");
+MsgDisp("Himuro","Ten minutes, then.
+We'll meet back here.");
 MsgDispSksp(1,0);
 ChEye(6,0);
 ChMouth(6,4);

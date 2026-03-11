@@ -11,5 +11,5 @@ ChMotion(1,1);
 VoicePlay("B030112000_01_000");
 MsgDisp("Kazama","All this hustle and bustle...
 All these items around...
-I'm full of nervous, excited energy!");
+My heart's pounding with excitement!");
 MsgDispSksp(0);

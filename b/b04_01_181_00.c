@@ -12,8 +12,9 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118100_01_000");
-    MsgDisp("Kazama","The story had no twists, almost to the
-point it made me feel uneasy.");
+    MsgDisp("Kazama","The story had zero twists.
+It was almost unsettling how predictable
+it was.");
     MsgDateResultDisp();
     break ;
     case 1:

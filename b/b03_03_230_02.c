@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1,1);
     VoicePlay("B030323002_03_010");
     MsgDisp("Honda","Right on.
-Let's get a good look at all the full
-colors of LED lights.");
+Let's get a good look at what full-color
+LED tech can do.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);

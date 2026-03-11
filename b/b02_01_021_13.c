@@ -9,6 +9,6 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102113_01_010");
-MsgDisp("Kazama","Yeah, you're setting a new standard.");
+MsgDisp("Kazama","Yeah, that's your signature look.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
 these.)");
