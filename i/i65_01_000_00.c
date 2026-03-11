@@ -179,8 +179,7 @@ pretty often.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("I650100000_01_180");
-    MsgDisp("Kazama","Listening? Your powers of attraction work
-on all ages. Keep your smiles at just 20%.");
+    MsgDisp("Kazama","Listen to me.\nYour powers of attraction work\non all ages. Keep your smiles at just 20%.");
     MsgDisp("主人公","Geez!
 What are you talking about?");
     ChEye(1,0);
