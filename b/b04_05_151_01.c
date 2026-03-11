@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040515101_05_010");
-    MsgDisp("Hiiragi","This is the iron law of any art.
-Today we shall carefully observe all the
-skilled players!");
+    MsgDisp("Hiiragi","That's right, watch and learn.
+That's the golden rule of any craft.
+Today we observe the skilled players!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

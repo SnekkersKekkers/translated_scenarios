@@ -57,7 +57,8 @@ And altitude adaptation...no, never mind.");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040703302_07_050");
-        MsgDisp("Mikage","That would be nice, wouldn't it?");
+        MsgDisp("Mikage","That would make things easier, wouldn't
+it?");
         MsgDisp("主人公","Then, next time let's go somewhere high up
 and count to 10 together?");
         ChEye(7,0);

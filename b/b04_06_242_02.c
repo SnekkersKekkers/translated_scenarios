@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040624202_06_010");
-        MsgDisp("Himuro","I like my rice hard.
-And what's with the \" clumsy thing\"?");
+        MsgDisp("Himuro","I like my rice on the firm side.
+And what's with the \"clumsy thing\"?");
         MsgDateResultDisp();
         break ;
         case 4:

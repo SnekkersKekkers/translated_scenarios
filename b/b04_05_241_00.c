@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("B040524100_05_010");
-    MsgDisp("Hiiragi","Yes, a great opportunity.
+    MsgDisp("Hiiragi","Well, we came all this way.
 Let's take our time and enjoy ourselves
 today.");
     MsgDispSksp(1,0);
@@ -27,8 +27,8 @@ today.");
     ChMotion(5,0);
     VoicePlay("B040524100_05_020");
     MsgDisp("Hiiragi","Not at all. They've got horseback riding,
-milking experiences, gift shops— they're
-doing their best");
+milking experiences, gift shops—
+they're really putting in the effort.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -37,8 +37,8 @@ doing their best");
     ChMotion(5,0);
     VoicePlay("B040524100_05_030");
     MsgDisp("Hiiragi","The goats and horses...are looking at us.
-We're the ones in the way, let's go greet
-them.");
+We're the ones intruding, so let's go
+say hello.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

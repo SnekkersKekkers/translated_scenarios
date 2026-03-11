@@ -6,7 +6,8 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040603102_06_000");
-MsgDisp("Himuro","Does it feel like...you're in the ocean?");
+MsgDisp("Himuro","Does it feel like you're in the ocean...
+or something?");
 MsgSel("Yeah, of course!","An aquarium is an aquarium","Do you think that, ｛Himuro＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:

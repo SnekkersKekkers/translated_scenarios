@@ -9,7 +9,7 @@ ChEye(5,2);
 ChMouth(5,4);
 VoicePlay("B040511101_05_000");
 MsgDisp("Hiiragi","Well, it seems like I can somewhat stand.");
-MsgSel("Your outer figure is like an athlete's.","Be careful not to get hurt.","Shall I give you a push?");
+MsgSel("You look just like a figure skater.","Be careful not to get hurt.","Shall I give you a push?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

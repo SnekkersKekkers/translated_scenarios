@@ -21,8 +21,7 @@ switch (MsgSelRsltGet()){
         ChMotion(6,0);
         VoicePlay("B040602202_06_010");
         MsgDisp("Himuro","If you have something to say, just say
-it. The person you're thinking about is
-right here.");
+it. I'm right here, you know.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -52,7 +51,7 @@ like that——");
         ChMotion(6,1);
         VoicePlay("B040602202_06_050");
         MsgDisp("Himuro","...No, it's nothing.
-Just a bit dubious.");
+Just overthinking things.");
         MsgDisp("主人公","Eh?
 Dubious?");
         ChEye(6,0);

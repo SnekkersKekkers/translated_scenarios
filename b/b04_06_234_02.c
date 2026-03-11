@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040623402_06_000");
 MsgDisp("Himuro","There's nothing but children and couples
 around us...");
-MsgSel("Everyone is having fun!","They have our business; we have ours","They're the same as us");
+MsgSel("Everyone is having fun!","They're them, and we're us","They're the same as us");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

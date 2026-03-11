@@ -9,8 +9,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040506102_05_000");
-MsgDisp("Hiiragi","What is that.. that delicious smell...");
-MsgSel("There are people broiling freshly caught seafood","I think it's the beach house yakisoba","Maybe I put on too much sunlotion?");
+MsgDisp("Hiiragi","What's that...
+Something smells delicious.");
+MsgSel("There are people broiling freshly caught seafood","I think it's the beach house yakisoba","Maybe I put on too much tanning oil?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -47,8 +48,8 @@ Hey, why don't we go?");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040506102_05_030");
-        MsgDisp("Hiiragi","That might be why your body is shining
-immensely.");
+        MsgDisp("Hiiragi","So that's why your body is unusually
+shiny.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -63,8 +64,8 @@ immensely.");
         ChCheek(5,7);
         VoicePlay("B040506102_05_050");
         MsgDisp("Hiiragi","I apologize.
-S-Saying it smelt delicious...
-What was I saying...");
+S-Saying it smells delicious...
+What am I saying...");
         MsgDisp("主人公","Umm, don't pay too much mind to that.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040506102_05_060");

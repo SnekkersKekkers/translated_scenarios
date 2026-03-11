@@ -81,10 +81,9 @@ here with you now.");
         ChMouth(6,1);
         ChMotion(6,4);
         VoicePlay("B040606102_06_080");
-        MsgDisp("Himuro","Not only that, I prefer the time I spend
-with you over the time alone I've never
-given away until now. And how much of
-that——");
+        MsgDisp("Himuro","Not only that, I chose time with you over
+the solitude I never gave up before.
+And how much of that—");
         ChEye(6,2);
         ChMouth(6,1);
         ChMotion(6,2);

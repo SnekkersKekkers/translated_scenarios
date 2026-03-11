@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040605101_06_000");
 MsgDisp("Himuro","Aren't the shapes of the constellations
-kind of forced? ?");
+kind of forced?");
 MsgSel("The power of imagination is important!","It is quite unreasonable","People in ancient times were amazing huh");
 switch (MsgSelRsltGet()){
     case 0:

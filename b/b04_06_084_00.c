@@ -5,9 +5,9 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608400_06_000");
-MsgDisp("Himuro","Autumn is the season for reading, appetite
-and exercise...There are different types
-of autumn, which one do you like?");
+MsgDisp("Himuro","Reading, appetite, exercise...
+There are all kinds of autumn.
+Which one is yours?");
 MsgSel("Reading!","Appetite!","｛Himuro＊＊｝'s autumn.");
 switch (MsgSelRsltGet()){
     case 0:

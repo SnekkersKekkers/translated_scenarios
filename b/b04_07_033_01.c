@@ -24,8 +24,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040703301_07_020");
-    MsgDisp("Mikage","Oh thank goodness.
-That teacher's pretend was way too lame.");
+    MsgDisp("Mikage","Oh, thank goodness.
+My teacher act was way too boring, huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

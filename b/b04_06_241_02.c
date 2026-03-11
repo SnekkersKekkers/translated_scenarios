@@ -47,7 +47,7 @@ Then maybe I'll try horseriding.");
         VoicePlay("B040624102_06_040");
         MsgDisp("Himuro","If I rode that horse, I'm interested to
 see what kind of reaction you would have.");
-        MsgDisp("主人公","Would you become prince charming");
+        MsgDisp("主人公","Would you become Prince Charming?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

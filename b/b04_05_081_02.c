@@ -78,7 +78,8 @@ thing, hanami dango.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
         SEWait();
-        MsgDisp("主人公","(You backed up my weird understanding...
+        MsgDisp("主人公","(He covered for my silly
+misunderstanding...
 ｛Hiiragi＊＊＊｝, thank you.)");
         break ;
         default :

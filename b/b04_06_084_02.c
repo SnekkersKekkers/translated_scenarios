@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("B040608402_06_010");
-    MsgDisp("Himuro","Heh? You used those words correctly.
-There's a lot of people who misinterpret
-what it means, I'm impressed.");
+    MsgDisp("Himuro","Oh? You used that term correctly.
+Lots of people get it wrong, so I'm
+impressed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

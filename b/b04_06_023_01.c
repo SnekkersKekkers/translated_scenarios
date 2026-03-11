@@ -10,9 +10,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040602301_06_010");
-    MsgDisp("Himuro","...What are you saying?
-If you're talking about height, it's a
-work in progress.");
+    MsgDisp("Himuro","...What's that supposed to mean?
+If you're talking about height, I'm still
+growing.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -22,7 +22,7 @@ work in progress.");
     ChMotion(6,1);
     VoicePlay("B040602301_06_020");
     MsgDisp("Himuro","On what grounds?
-Don't just say irresponsible stuff okay?");
+Don't just say irresponsible stuff.");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040602101_06_010");
-    MsgDisp("Himuro","Could you give a bit more of a reaction?");
+    MsgDisp("Himuro","Can't you come up with something better
+than that?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,7 +40,7 @@ I'll treat you to something after this.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040602101_06_030");
-    MsgDisp("Himuro","That's offensive to say it's \"surprising\".");
+    MsgDisp("Himuro","Calling it \"surprising\" is offensive.");
     MsgDateResultDisp();
     break ;
     default :

@@ -6,7 +6,7 @@ ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("B040630002_06_000");
 MsgDisp("Himuro","Is there something you want to do?");
-MsgSel("I want to look at your albums","Let's study?","let's get closer▼");
+MsgSel("I want to look at your albums","Let's study?","Let's get closer▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -46,7 +46,7 @@ nightmare?");
     VoicePlay("B040623600_06_030");
     MsgDisp("Himuro","Yeah. I was more interested in that than
 the production. I wonder how much the
-utility bill was.");
+electricity bill is.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

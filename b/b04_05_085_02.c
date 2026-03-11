@@ -9,7 +9,7 @@ ChMouth(5,4);
 VoicePlay("B040508502_05_000");
 MsgDisp("Hiiragi","Haaー.
 We came on such a cold day didn't we?");
-MsgSel("It's cold because you think it's cold!","Haaー,Haaー, my breath is really pure white!","Shall we hold hands?");
+MsgSel("It's cold because you think it's cold!","Haaー, haaー, my breath is totally white!","Shall we hold hands?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

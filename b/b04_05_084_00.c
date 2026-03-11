@@ -5,9 +5,9 @@ ChMotion(5,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040508400_05_000");
-MsgDisp("Hiiragi","The time at which the leaves
-change color is a bit off from other
-places. Maybe it's because of the water...");
+MsgDisp("Hiiragi","Maybe it's because of the water
+temperature...The autumn colors here are a
+bit off from other places.");
 MsgSel("It's thanks to the spring water.","Slightly off?","The fallen leaves floating on the water are beautiful.");
 switch (MsgSelRsltGet()){
     case 0:

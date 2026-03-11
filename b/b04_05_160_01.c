@@ -23,9 +23,9 @@ back... even without looking.");
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040516001_05_020");
-    MsgDisp("Hiiragi","A long time ago, I would play this in the
-hotspring district.
-I've missed it.");
+    MsgDisp("Hiiragi","I used to play this in hot spring towns a
+long time ago...
+How nostalgic.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

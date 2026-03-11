@@ -34,8 +34,7 @@ will feel good.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040524201_05_030");
-        MsgDisp("Hiiragi","If I am speaking honestly, I am a bit
-sleep deprived.");
+        MsgDisp("Hiiragi","Honestly, I'm a bit sleep deprived.");
         MsgDisp("主人公","Eh?
 Are you alright?");
         ChEye(5,4);

@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("B040508201_05_010");
-    MsgDisp("Hiiragi","There's rumours you can hear one's inner
-voice yes?");
+    MsgDisp("Hiiragi","There's a rumor you can hear people's
+inner voice, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

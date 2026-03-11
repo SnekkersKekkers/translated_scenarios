@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("B040524200_05_010");
-    MsgDisp("Hiiragi","Yes, I'll do all the odd jobs.");
+    MsgDisp("Hiiragi","Sure, I can handle all the grunt work.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

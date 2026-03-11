@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040601001_06_010");
-    MsgDisp("Himuro","...You're so accepting of that, that it's
+    MsgDisp("Himuro","...You just accept that so easily, it's
 worrying.");
     MsgDateResultDisp();
     break ;
@@ -26,7 +26,7 @@ worrying.");
     ChMotion(6,0);
     VoicePlay("B040601001_06_020");
     MsgDisp("Himuro","Well, that's a normal reaction.
-That one isn't it.");
+That one's a no.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

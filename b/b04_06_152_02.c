@@ -99,7 +99,7 @@ way home.");
         ChMotion(6,4);
         VoicePlay("B040615202_06_100");
         MsgDisp("Himuro","...Your hand.");
-        MsgDisp("主人公","eh!
+        MsgDisp("主人公","Eh!
 Y-Yeah...okay.");
         ChEye(6,0);
         ChMouth(6,0);

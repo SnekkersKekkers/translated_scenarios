@@ -35,9 +35,8 @@ switch (MsgSelRsltGet()){
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040601102_06_030");
-        MsgDisp("Himuro","Even though it's not like it's a place I
-especially like, I've come here three
-times.");
+        MsgDisp("Himuro","It's not even a place I particularly like,
+yet I've come here three times.");
         MsgDisp("主人公","Uh...
 I'm sorry.");
         ChEye(6,0);

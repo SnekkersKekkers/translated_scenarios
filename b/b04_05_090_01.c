@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040509001_05_000");
 MsgDisp("Hiiragi","There are both butterflies and insects.");
-MsgSel("They're meals for the carnivorous plants.","It's because pollination is necessary","The big fireflies give off a dodgy vibe");
+MsgSel("They're meals for the carnivorous plants.","It's because pollination is necessary","The big butterflies are unsettling...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("B040509001_05_010");
-    MsgDisp("Hiiragi","Not everything is right?");
+    MsgDisp("Hiiragi","Not all of them are though, right?");
     MsgDateResultDisp();
     break ;
     case 1:

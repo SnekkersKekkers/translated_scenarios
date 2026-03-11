@@ -9,7 +9,7 @@ VoicePlay("B040703102_07_000");
 MsgDisp("Mikage","Today is the last day to submit a report.
 The theme is up to you, anything is
 fineー.");
-MsgSel("I'm sorry, but I forgot to bring something to write with","I'll do it on the correlation between the number of creatures kept and the number of visitors.","I'll do it on the Giant Isopods");
+MsgSel("I'm sorry, but I forgot to bring something to write with","My theme is the correlation between visitor numbers and species count","I'll do it on the Giant Isopods");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(7,6)){

@@ -7,7 +7,7 @@ ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B040608202_06_000");
 MsgDisp("Himuro","Haaa...");
-MsgSel("That was a big yawn!","Was it boring?","Did you not sleep enough?");
+MsgSel("That was a big yawn!","Was it boring?","Want to take a little nap?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

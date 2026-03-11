@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040508302_05_000");
-MsgDisp("Hiiragi","Over there, the walking pavement stretches
+MsgDisp("Hiiragi","Over there, the walking path stretches
 deep into the forest.");
 MsgSel("It's a popular walking course","Seems like there's lots of mosquitoes...","Evening, the time of the fireflies is wonderful");
 switch (MsgSelRsltGet()){
@@ -80,9 +80,9 @@ The fact I did something so childish.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040508302_05_090");
-        MsgDisp("Hiiragi","A powerspot that makes you mean to the
-person you like a lot.
-I'm not happy about it.");
+        MsgDisp("Hiiragi","A power spot that makes you tease the
+person you really like.
+I'm not too thrilled about that.");
         MsgDisp("主人公","Eh, like a lot...");
         ChEye(5,2);
         ChMouth(5,4);

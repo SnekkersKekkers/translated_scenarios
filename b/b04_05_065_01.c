@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040506501_05_000");
 MsgDisp("Hiiragi","It reverberates in my stomach.
-It has an amazing strength.");
+The intensity is amazing.");
 MsgSel("It's amazing how the fireworks shoot up right overhead!","Shall we eat some yakisoba?","Waa, my juice spilt!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +29,8 @@ satisfied.");
     ChMotion(5,3);
     VoicePlay("B040506501_05_020");
     MsgDisp("Hiiragi","Yeah.
-My interest was also piqued by the aromas
-of the sauces.");
+I've been curious about the smell of sauce
+too.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,9 +41,9 @@ of the sauces.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("B040506501_05_030");
-    MsgDisp("Hiiragi","Are you alright? Use this to wipe it right
-away. You went to the trouble of dressing
-up so nicely too.");
+    MsgDisp("Hiiragi","Are you alright? 
+Quick, wipe it with this.
+You dressed up so nicely today, after all.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

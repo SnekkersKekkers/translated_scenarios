@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040601101_06_000");
 MsgDisp("Himuro","You know they say fools and smoke both
 rise to high places, right?");
-MsgSel("What does that mean?","You also like it huh, ｛Himuro＊＊｝?","It's not like that?");
+MsgSel("What does that mean?","You also like it huh, ｛Himuro＊＊｝?","That's not true");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -32,7 +32,7 @@ Then, let's aim to catch two.");
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("B040524202_05_030");
-    MsgDisp("Hiiragi","There's a risk to everything though?");
+    MsgDisp("Hiiragi","Risk comes with the territory, you know?");
     MsgDateResultDisp();
     break ;
     default :

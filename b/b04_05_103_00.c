@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040510300_05_000");
-MsgDisp("Hiiragi","I want to be able to interpret something
-of our great senior's work.");
+MsgDisp("Hiiragi","A work by our great senior...
+I want to take something away from it.");
 MsgSel("He's the pride of Haba Students!","It seems like it'll be difficult for me","It looks a little like ｛Hiiragi＊＊＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
