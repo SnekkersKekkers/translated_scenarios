@@ -20,7 +20,7 @@ right?");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("F100420002_04_010");
-MsgDisp("Nanatsumori","\"Grilled Green Peas\", \"GuriGuri\". for
+MsgDisp("Nanatsumori","\"Grilled Green Peas\", \"GuriGuri\" for
 short.
 Correct.");
 ChEye(6,0);
@@ -41,7 +41,7 @@ ChMotion(6,0);
 VoicePlay("F100420002_06_020");
 MsgDisp("Himuro","But I don't want to give up midway...
 It's a brutal game that takes advantage of
-your gambling instincts");
+your gambling instincts.");
 MsgDisp("主人公","Um, what kind of game is it?");
 ChEye(4,0);
 ChMouth(4,3);

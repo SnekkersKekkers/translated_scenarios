@@ -85,7 +85,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100430001_22_060");
-MsgDisp("Hikaru","I mean, Mari. you're too oblivious～!");
+MsgDisp("Hikaru","I mean, Mari, you're too oblivious～!");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);

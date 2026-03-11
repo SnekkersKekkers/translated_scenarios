@@ -41,9 +41,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0);
 VoicePlay("F020400010_04_041");
-MsgDisp("Nanatsumori","But I think regardless of whether you're a
-lead part, a supporting part, or
-behind-the-scenes, you'll make some good
-memories.");
+MsgDisp("Nanatsumori","Whether you're the lead, a supporting
+role, or behind the scenes, I think
+you'll make some good memories.");
 MsgDisp("主人公","(He's right.
 This is my last culture festival...)");

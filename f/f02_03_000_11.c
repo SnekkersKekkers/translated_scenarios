@@ -28,9 +28,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("F020300011_03_030");
-MsgDisp("Honda","Sure, the fun's in the process, but it'd
-be pretty depressing if the snowman melted
-right away, right?");
+MsgDisp("Honda","It'd be pretty sad if you made one and
+it melted right away, right?");
 MsgDisp("主人公","Absolutely.
 Especially for the kids.");
 ChEye(3,0);

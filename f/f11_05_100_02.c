@@ -59,9 +59,8 @@ MsgDisp("Hiiragi","Understood.
 I will see you then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(The yakisoba ｛Hiiragi＊＊＊｝ recommends
-sound good...Since it's our last year I
-have to wonder about the royal sauce
-yakisoba.)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝'s salt yakisoba sounds
+great...but since it's our last year,
+the classic sauce one is tempting too.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -23,8 +23,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200010_22_020");
-MsgDisp("Hikaru","If Mari becomes the heroine, Hikaru will 
-be cheering for her lots▼");
+MsgDisp("Hikaru","If Mari becomes the heroine, Hikaru will
+be cheering for her like crazy▼");
 MsgDisp("主人公","Y-Yeah.
 If I get the lead role, I'll do my best,
 okay?");

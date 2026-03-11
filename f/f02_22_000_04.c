@@ -19,10 +19,9 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F022200004_22_010");
-MsgDisp("Hikaru","Actually, I wanted to hold a birthday
-party, but I'm so busy with work this time
-of year, that I don't have any personal
-time...");
+MsgDisp("Hikaru","I wanted to throw a birthday party, but
+I'm so busy with work this time of year
+that I have no personal time...");
 MsgDisp("主人公","It's a bit complicated huh...");
 ChEye(22,0);
 ChMouth(22,0);

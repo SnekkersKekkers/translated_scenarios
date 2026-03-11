@@ -24,9 +24,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_320");
-MsgDisp("Hikaru","I want to put my talents to good use,
-there's lots of things I can do right now,
-so I want to use any one of them for my
+MsgDisp("Hikaru","There's lots of things I can do right now,
+and I want to connect any of them to my
 future.");
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_330");

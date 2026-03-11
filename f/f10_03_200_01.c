@@ -21,9 +21,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100320001_03_010");
 MsgDisp("Honda","Sakkun is fighting for every tenth of a
-second, so I thought if he cut his hair,
-even with the same muscle mass as now,
-he'd be able to improve his record.");
+second, so I figured cutting his hair could
+improve his record without muscle gain.");
 MsgDisp("主人公","Ehh?
 But, it doesn't seem like ｛Sassa＊＊｝
 wants to cut his hair...");

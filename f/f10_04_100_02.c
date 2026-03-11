@@ -68,7 +68,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);
 SEPlay("EV_SE_642",0,0.6);
 MsgDisp("主人公","...Ah∈");
-MsgDisp("主人公","There's a pass case on the ground where
+MsgDisp("主人公","There's a bus pass on the ground where
 ｛Nanatsumori＊｝ was standing...
 ｛Nanatsumori＊｝ ∈");
 MsgDisp("主人公","(Why on earth does he drop it every

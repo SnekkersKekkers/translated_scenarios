@@ -1,10 +1,9 @@
 BGOpen("sc500",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, that's right. Before I head home, I
-have to deliver the notebook
-｛Mikage＊＊｝ asked me to deliver to the
-staff room!)");
+MsgDisp("主人公","(Ah, that's right. Before I head home,
+I have to deliver the notebook
+｛Mikage＊＊｝ asked me to bring to the staff room!)");
 VoiceEVSPlay(1);
 VoicePlay("F100640002_01_000");
 MsgDisp("Kazama?","｛主人公｝.");

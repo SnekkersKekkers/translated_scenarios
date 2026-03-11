@@ -86,9 +86,8 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100630002_22_040");
-MsgDisp("Hikaru","Hmmm....\"
-Pikacchi\"? \"
-Pikatan\"?");
+MsgDisp("Hikaru","Hmmm...
+\"Pikacchi\"? \"Pikatan\"?");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);

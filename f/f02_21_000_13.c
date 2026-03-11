@@ -19,10 +19,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100013_21_010");
-MsgDisp("Michiru","Even though we have free time, we're not
-free to do what we want the entire trip,
-so we have to plan our sightseeing within
-the time limit, okay?");
+MsgDisp("Michiru","We have free time, but it's not a free
+trip, so we need to plan our sightseeing
+within the time limit, okay?");
 MsgDisp("主人公","Right.");
 ChEye(21,0);
 ChMouth(21,4);

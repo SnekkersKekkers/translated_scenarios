@@ -36,10 +36,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("F100320000_03_020");
-MsgDisp("Honda","Yeah, the physiques of sprinters and long
-distance runners are polar opposites,
-right? He has it all in this one body.
-It's amazing.");
+MsgDisp("Honda","Yeah, sprinters and long-distance runners
+have polar opposite physiques, right?
+He's got both in one body. It's amazing.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

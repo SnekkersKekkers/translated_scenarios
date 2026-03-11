@@ -6,10 +6,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F020500002_05_000");
-MsgDisp("Hiiragi","Come to think of it, there is a certain
-rumor about the church I have found
-interesting that I would like to share
-with you.");
+MsgDisp("Hiiragi","Come to think of it, I heard an
+interesting rumor about the church.");
 MsgDisp("主人公","Which rumor?");
 ChEye(5,4);
 ChMotion(5,4);

@@ -82,7 +82,7 @@ ChMotion(4,1,1);
 VoicePlay("F100430002_04_030");
 MsgDisp("Nanatsumori","So Hikaru is the ringleader, then?");
 MsgDisp("主人公","Hey.
-｛Nanatsumori＊｝ is there something else
+｛Nanatsumori＊｝, is there something else
 you're hiding from me?");
 ChEye(4,2);
 ChMouth(4,5);

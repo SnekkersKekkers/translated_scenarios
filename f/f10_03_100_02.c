@@ -1,9 +1,8 @@
 BGOpen("sc501",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Lunch break is going to end soon. I have
-to head back to the classroom...Ah, there
-are two umbrellas lying around today
-too...)");
+MsgDisp("主人公","(Lunch break is ending soon...
+I have to head back to the classroom.
+Ah, today there are two umbrellas too...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -26,10 +25,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("F100310002_03_020");
-MsgDisp("Honda","My hypothesis is. On days when the owners
-of the pink umbrella and blue umbrella can
-go home together, the umbrella handles
-will be facing the same way.");
+MsgDisp("Honda","Here's my theory: on days the owners of 
+the pink and blue umbrellas can walk home 
+together, the handles face the same way.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -70,9 +68,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(｛Honda＊＊｝ has an extensive list of
-observation targets. It's not just plants
-and insects.. Maybe I'm being observed
-too?)");
+MsgDisp("主人公","(｛Honda＊＊｝ has so many things to observe.
+It's not just plants and insects...
+Maybe I'm being observed too?)");
 MsgClose();
 ScrFadeOut(0,0);

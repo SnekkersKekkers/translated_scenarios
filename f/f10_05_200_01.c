@@ -57,8 +57,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100520001_05_050");
-MsgDisp("Hiiragi","Next time, we will prepare hanging scrolls
-and folding screens.");
+MsgDisp("Hiiragi","Next time, he'll have hanging scrolls and
+folding screens prepared for us.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

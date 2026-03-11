@@ -26,10 +26,9 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F022100010_21_020");
-MsgDisp("Michiru","Whether you're the lead role, supporting
-part, behind the stage or even the
-audience who comes to see it; I hope it's
-a show that satisfies everyone.");
+MsgDisp("Michiru","Whether you're the lead, a supporting
+role, backstage crew, or in the audience;
+I hope it's a show that satisfies everyone.");
 MsgDisp("主人公","(Yeah...
 I have to give it my all!)");
 MsgClose();

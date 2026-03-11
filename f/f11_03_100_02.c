@@ -70,10 +70,11 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("F110310002_03_090");
-MsgDisp("Honda","I'd only give you a haircut if you won.
-So why would you want to lose?");
+MsgDisp("Honda","I'll only cut the hair of people who beat 
+me.
+I don't plan on losing, though.");
 MsgDisp("主人公","Y-Yeah.
-You'd definitely want to win, right?");
+Please make sure you do that, okay?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

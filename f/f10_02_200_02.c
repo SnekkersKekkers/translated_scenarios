@@ -48,10 +48,9 @@ ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("F100220002_05_020");
-MsgDisp("Hiiragi","Yes, I have the student council, too. Work
-in the theater company is often
-unpredictable, so it seems difficult for
-me.");
+MsgDisp("Hiiragi","Yes, I have student council too.
+Theater work is often unpredictable,
+so it seems difficult for me.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

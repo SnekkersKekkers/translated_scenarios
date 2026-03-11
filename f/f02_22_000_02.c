@@ -21,10 +21,9 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F022200002_22_020");
-MsgDisp("Hikaru","Apparently at that church, on full moon
-nights, they hold a fashion show for men,
-and on new moon nights, they hold a
-fashion show for women.");
+MsgDisp("Hikaru","Apparently at that church, they hold a
+men's fashion show on full moon nights,
+and a women's one on new moon nights.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);

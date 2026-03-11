@@ -34,8 +34,8 @@ ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("F100510000_05_020");
-MsgDisp("Hiiragi","No, it's my own problem. I've wasted 
-precious time on nothing again.");
+MsgDisp("Hiiragi","No, it's my own problem.
+I've wasted precious time on nothing again.");
 VoicePlay("F100510000_05_030");
 MsgDisp("Hiiragi","I thought I'd study, opened my notebook
 and textbook, but then I just sat there in

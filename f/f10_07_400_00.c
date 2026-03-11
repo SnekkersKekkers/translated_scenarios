@@ -30,10 +30,9 @@ MsgDisp("主人公","Yes...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("F100740000_32_020");
-MsgDisp("VP Himuro","It seems that Mikage-sensei was just
-waiting for the students to finish their
-class duties. ...My complaint was off the
-mark.");
+MsgDisp("VP Himuro","It seems Mikage-sensei was just waiting
+for the students to finish their duties.
+...My complaint was off the mark.");
 MsgDisp("主人公","Eh...");
 ChEye(7,2);
 ChMouth(7,0);

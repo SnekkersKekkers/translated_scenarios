@@ -3,7 +3,7 @@ ScrFadeIn(0);
 VoicePlay("F100320002_03_000");
 MsgDisp("Honda?","I realized once again how amazing Sakkun
 is. The training for the octathlon is a
-battle with a dilemma");
+battle with a dilemma.");
 VoicePlay("F100320002_02_000");
 MsgDisp("Sassa?","Yeah, that's right.
 It's difficult because it's not just about
@@ -51,10 +51,9 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("F100320002_03_040");
-MsgDisp("Honda","If you raise one skill, you have to raise
-another. Adjusting and managing this well
-is more like a job of risk management than
-a sport.");
+MsgDisp("Honda","If you raise one, another suffers.
+Managing and adjusting all that is more
+like risk management than a sport.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

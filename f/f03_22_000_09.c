@@ -10,10 +10,9 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F032200000_22_410");
-MsgDisp("Hikaru","Whether it's love where you think of only
-one person, love you enjoy with lots of
-people. I don't think there's a correct
-interpretation.");
+MsgDisp("Hikaru","Whether it's love where you devote
+yourself to one person, or love you enjoy
+with many. There's no right answer.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);

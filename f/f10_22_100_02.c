@@ -38,10 +38,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F102210002_22_020");
-MsgDisp("Hikaru","It's alright, Hikaru doesn't mind. Both
-the flowers and the painting brought
-happiness, so in the end, everyone was
-happy♪");
+MsgDisp("Hikaru","It's alright, Hikaru doesn't mind.
+The flowers and painting brought happiness,
+so everyone ended up happy♪");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);

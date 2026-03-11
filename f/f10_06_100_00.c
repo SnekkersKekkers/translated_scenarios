@@ -1,8 +1,8 @@
 BGOpen("sc230",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Today's weather is so good, it might be
-nice to eat lunch on the rooftop.");
+MsgDisp("主人公","(Today's weather is so nice, it might be
+good to eat lunch on the rooftop.)");
 VoicePlay("F100610000_06_000");
 MsgDisp("Himuro?","I don't know.
 Why don't you ask him yourself?");

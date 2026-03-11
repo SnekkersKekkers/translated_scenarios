@@ -21,10 +21,9 @@ ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,2,1);
 VoicePlay("F022200014_22_020");
-MsgDisp("Hikaru","I feel sad when I think I only have a few
-more days to wear this uniform, to chat to
-Mari and where I'll be able to eat lunch
-with her...");
+MsgDisp("Hikaru","When I think about how I only have a few
+more days to wear this uniform, chat with
+Mari, and eat lunch together... it's sad.");
 MsgDisp("主人公","｛ひかる＊｝...");
 ChEye(22,4);
 ChMouth(22,3);

@@ -43,7 +43,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F100410001_04_050");
-MsgDisp("Nanatsumori","It's my commuter pass again...thank you.");
+MsgDisp("Nanatsumori","My bus pass again...
+Thanks.");
 SEPlay("EV_SE_595",0,0.5);
 SEWait();
 MsgClose();

@@ -20,10 +20,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("F020400008_04_010");
-MsgDisp("Nanatsumori","Well, there aren't that many of them. But
-I can think of a few who were absolutely
-determined to go to the Haba High
-festival.");
+MsgDisp("Nanatsumori","Well, not that many. But I can think of a
+few who are dead set on coming to the Haba
+High festival.");
 MsgDisp("主人公","Haha!
 It's nice that you have friends like that.
 I've always lived in Habataki City.");

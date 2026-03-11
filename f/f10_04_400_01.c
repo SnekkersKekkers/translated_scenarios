@@ -39,10 +39,9 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("F100440001_03_030");
 MsgDisp("Honda","Because Mi-kun was in a magazine.");
-MsgDisp("主人公","But he's completely different to the usual
-｛Nanatsumori＊｝? His hair is different,
-he's got makeup on, and he's not even
-wearing glasses.");
+MsgDisp("主人公","But he looks nothing like the usual
+｛Nanatsumori＊｝? Different hair, makeup,
+and he's not even wearing glasses.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

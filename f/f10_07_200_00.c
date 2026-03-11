@@ -52,9 +52,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("F100720000_05_030");
-MsgDisp("Hiiragi","Unfortunately, it is not about Biology.
-That blackboard is an efficient
-way to make effective use of the wall
+MsgDisp("Hiiragi","Unfortunately, it's not about biology.
+That blackboard efficiently uses wall
 space. It is an exceptional item.");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(60,0);
@@ -105,10 +104,9 @@ ChClose(7);
 Wait(60,0);
 SEPlay("EV_SE_666",1,0.6);
 Wait(60,0);
-MsgDisp("主人公","(Hehe, so ｛Hiiragi＊＊＊｝ wasn't asking him
-about the lesson, but was interested in
-the blackboard. ｛Mikage＊＊｝ is so
-kind.)");
+MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ wasn't asking about
+the lesson, but the blackboard.
+｛Mikage＊＊｝ is so kind.)");
 SEStop("EV_SE_666");
 MsgClose();
 ScrFadeOut(0,0);

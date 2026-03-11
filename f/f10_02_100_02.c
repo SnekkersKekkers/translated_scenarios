@@ -49,10 +49,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100210002_02_040");
-MsgDisp("Sassa","Yeah, it's written in a difficult way
-about how you should rest properly and eat
-properly after putting stress on your body
-through training.");
+MsgDisp("Sassa","Yeah, it's a complicated way of saying you
+should rest and eat right after putting
+stress on your body through training.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

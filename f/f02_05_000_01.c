@@ -30,10 +30,9 @@ troupe. The more familiar the story is to
 the locals, the more it pleases them.");
 ChEye(5,0);
 VoicePlay("F020500001_05_040");
-MsgDisp("Hiiragi","And from what I have heard, there are an
-astounding amount of rumors among the
-girls. If you come across any interesting
-ones, please tell them to me.");
+MsgDisp("Hiiragi","Even just from what I've heard, there are
+quite a few. If you hear any interesting
+ones among the girls, please do tell me.");
 MsgDisp("主人公","(...Well, I can only hope one of them will
 be interesting enough to make for a decent
 play.)");

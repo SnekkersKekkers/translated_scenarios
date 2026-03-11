@@ -1,8 +1,8 @@
 BGOpen("sc230",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Today's weather is nice too!)
-Then, I'll bring my bento-)");
+MsgDisp("主人公","(Today's weather is nice too!
+Now then, I'll bring my bento—)");
 VoicePlay("F100610001_41_000");
 MsgDisp("School Boy","Then, I'll leave the rest to you, Himuro!
 Please confirm it with Himurocchi!");

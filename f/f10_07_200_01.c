@@ -53,10 +53,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720001_05_020");
-MsgDisp("Hiiragi","I understand that. Even if it's the same
-play, you want to change the gaps and
-timing of your lines based on the
-audience's reaction.");
+MsgDisp("Hiiragi","I understand that. Even with the same
+play, you want to adjust the pauses and
+timing based on the audience's reaction.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

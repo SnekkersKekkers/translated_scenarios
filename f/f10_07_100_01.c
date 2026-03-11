@@ -1,10 +1,9 @@
 ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I have class with ｛Mikage＊＊｝ next. I
-wonder if there's anything to prepare...
-I'll stop by the science preparation
-room.)");
+MsgDisp("主人公","(I have class with ｛Mikage＊＊｝ next.
+Is there anything to prepare?
+I'll stop by the science prep room.)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE");
 MsgClose();
 ScrFadeOut(0);

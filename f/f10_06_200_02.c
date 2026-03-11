@@ -42,10 +42,9 @@ ChMouth(3,3);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("F100620002_03_020");
-MsgDisp("Honda","Yep yep, I guess you were yearning for the
-flavour of the restaurant as you were
-eating it, right? As the one who
-introduced it to you, I'm super happy!");
+MsgDisp("Honda","Yep yep, you were craving the real thing
+while eating it, right?
+As the one who introduced you, I'm super happy!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

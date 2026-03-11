@@ -44,7 +44,7 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,8);
 VoicePlay("F110210001_02_040");
-MsgDisp("Sassa","Well, I did make that promise...");
+MsgDisp("Sassa","Did I even make that promise...?");
 MsgDisp("主人公","Hehe. Seems like the culture festival is
 becoming more like ｛Sassa＊＊｝'s track and
 field class.");

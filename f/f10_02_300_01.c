@@ -51,10 +51,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("F100230001_02_020");
-MsgDisp("Sassa","But when you think of Hikaru-san's
-favorite food, doesn't high-class French
-cuisine come to mind? And yet, it's
-hamburgers?");
+MsgDisp("Sassa","When you think of Hikaru-san's favorite
+food, you'd expect fancy French cuisine,
+right? But it's hamburgers?");
 ChMouth(22,1);
 ChMotion(22,1,1);
 VoicePlay("F100230001_22_010");

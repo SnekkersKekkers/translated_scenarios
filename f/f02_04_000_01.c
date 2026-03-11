@@ -10,10 +10,9 @@ MsgDisp("Nanatsumori","Apparently, there's a legendary church on
 the Haba High campus.
 And a handful of rumors surrounding it.");
 VoicePlay("F020400001_04_010");
-MsgDisp("Nanatsumori","For one, the prince and the princess. The
-prince returns after his arduous journey
-to find the princess still waiting in the
-church. A happy ending.");
+MsgDisp("Nanatsumori","One is the prince and princess story.
+The prince returns from his journey to
+find the princess waiting. Happy ending.");
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F020400001_04_020");
