@@ -67,9 +67,9 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("D120B00000_04_020");
-MsgDisp("Nanatsumori","The two of you...your attentiveness level
+MsgDisp("Nanatsumori","The two of you...your awareness level
 is ZERO!");
-MsgDisp("主人公","(Attentiveness level...)");
+MsgDisp("主人公","(Awareness level...)");
 ChEye(4,5);
 ChMouth(4,0);
 ChMotion(4,0,1);

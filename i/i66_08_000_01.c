@@ -53,7 +53,7 @@ Thanks as always.");
     ChMotion(8,3,1);
     VoicePlay("I660800001_08_020");
     MsgDisp("Shirahane","As expected...
-Full points on attentiveness!");
+Full points on service!");
     MsgDisp("主人公","Ah, ｛Daichi＊＊｝.
 Thanks to you.");
     ChEye(8,3);
@@ -74,7 +74,7 @@ I won't deny it.");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800001_08_050");
-    MsgDisp("Shirahane","But your attentiveness ain't bad to see,
+    MsgDisp("Shirahane","But your service skills ain't bad to see,
 either.
 It feels good just watchin' it.");
     MsgDisp("主人公","(Yay!
