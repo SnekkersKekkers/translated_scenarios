@@ -63,7 +63,7 @@ ChMotion(3,3,1);
 VoicePlay("D010300400_03_080");
 MsgDisp("Honda","That's right, they were my special
 project. They were hibernating in the
-Pepper tree in the gardening club.");
+pepper tree in the gardening club.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
