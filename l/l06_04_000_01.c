@@ -30,7 +30,7 @@ A present...?");
 ChMotion(4,1);
 VoicePlay("L060400001_04_040");
 MsgDisp("Nanatsumori","Yeah.
-This is the triple return.");
+This is triple the return.");
 MsgDisp("主人公","Thanks so much!");
 ChMotion(4,0);
 VoicePlay("L060400001_04_050");
