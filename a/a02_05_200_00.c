@@ -39,8 +39,8 @@ I'm looking forward to working with you.");
 MsgDisp("主人公","Y-Yes!
 I'm looking forward to it too!");
 VoicePlay("A020520000_41_000");
-MsgDisp("President","Ah, a new member? Welcome.
-Hiiragi-kun, did you introduce
+MsgDisp("President","Ah, a new member?
+Welcome. Hiiragi-kun, did you introduce
 yourself already?");
 ChEye(5,0);
 ChMouth(5,0);
@@ -53,9 +53,9 @@ MsgDisp("主人公","Huh?");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("A020520000_41_020");
-MsgDisp("President","What, he didn't tell you? Hiiragi-kun is
-the Habataki Theater Company chairman
-and a Student Council member too.");
+MsgDisp("President","What, he didn't tell you?
+Hiiragi-kun is the Habataki Theater Company
+chairman and a Student Council member too.");
 MsgDisp("主人公","Woah, he's the chairman...∋");
 ChEye(5,0);
 ChMouth(5,0);
@@ -64,22 +64,22 @@ VoicePlay("A020520000_05_030");
 MsgDisp("Hiiragi","President, we are currently at school.
 My theater work isn't relevant here.");
 VoicePlay("A020520000_41_030");
-MsgDisp("President","R-Right. Of course.
-Let's work hard to make
-Habataki High even better, then!");
+MsgDisp("President","R-Right.
+Of course. Let's work hard to make Habataki
+High even better, then!");
 MsgDisp("主人公","Yes!!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("A020520000_05_040");
-MsgDisp("Hiiragi","Now then, I'm off to the school
-cleanup campaign.");
+MsgDisp("Hiiragi","Now then, I'm off to the school cleanup
+campaign.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝, was it...I can't believe
-the chairman is in the same year as me. He
-seems a bit strict...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, was it...
+I can't believe the chairman is in the same
+year as me. He seems a bit strict...)");
 MsgClose();
 ScrFadeOut(0,0);

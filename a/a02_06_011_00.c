@@ -21,8 +21,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_020");
-MsgDisp("Himuro?","If you've got something
-to ask, just do it.");
+MsgDisp("Himuro?","If you've got something to ask, just do it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -44,7 +43,8 @@ ChMotion(6,0);
 VoicePlay("A020601100_06_050");
 MsgDisp("Himuro","And as you may have guessed, a relative of
 Reiichi-sa... of Vice Principal Himuro.");
-MsgDisp("主人公","Oh...I see!");
+MsgDisp("主人公","Oh...
+I see!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -69,8 +69,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_090");
-MsgDisp("Himuro","But don't bring up the Himuro thing
-too much please.
+MsgDisp("Himuro","But don't bring up the Himuro thing too much
+please.
 ...'cause I'll get angry.");
 MsgDisp("主人公","A-Alright.");
 ChEye(6,0);
@@ -82,8 +82,8 @@ That's all.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(6);
-MsgDisp("主人公","(｛Himuro＊＊｝...Seems like I should
-avoid bringing up his relationship
-with the vice principal.)");
+MsgDisp("主人公","(｛Himuro＊＊｝...
+Seems like I should avoid bringing up his
+relationship with the vice principal.)");
 MsgClose();
 ScrFadeOut(0);

@@ -35,8 +35,8 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_010");
 MsgDisp("Nanatsumori?","No thanks. I'll have a strawberry parfait,
-macaron special, slice of chocolate cake
-and banana pie, with hot coffee.");
+macaron special, slice of chocolate cake and
+banana pie, with hot coffee.");
 MsgDisp("主人公","R- Right away!!");
 ChEye(4,0);
 ChMouth(4,0);
@@ -63,8 +63,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgDisp("主人公","Sorry for the wait.
 Strawberry parfait and...eh?
 Huh?");
-MsgDisp("主人公","(He's not in his seat anymore, what should
-I do?)");
+MsgDisp("主人公","(He's not in his seat anymore, what should I
+do?)");
 VoicePlay("A020430000_04_030");
 MsgDisp("Nanatsumori?","Ah, sorry.
 Got a call, went outside.");
@@ -85,8 +85,8 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("A020430000_04_050");
 MsgDisp("Nanatsumori?","Well, I don't blame you...
-Don't worry. I'm the same person
-that was sitting here earlier.");
+Don't worry. I'm the same person that was
+sitting here earlier.");
 MsgDisp("主人公","A...Alright.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -118,8 +118,7 @@ ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("A020430000_04_080");
 MsgDisp("Nanatsumori?","Thanks for the food.");
-MsgDisp("主人公","Thank you for coming, now, for the
-bill——");
+MsgDisp("主人公","Thank you for coming, now, for the bill——");
 SEPlay("EV_SE_043");
 SEWait();
 MsgClose();
@@ -180,8 +179,8 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("A020430000_04_130");
 MsgDisp("Nanatsumori","...Hey, you.
-What you saw here today, could you
-maybe forget about it?");
+What you saw here today, could you maybe
+forget about it?");
 MsgDisp("主人公","You mean, that you ate a lot of sweets?");
 ChEye(4,1);
 ChMouth(4,1);
@@ -189,7 +188,8 @@ ChMotion(4,0,1);
 VoicePlay("A020430000_04_140");
 MsgDisp("Nanatsumori","Not that!
 The NANA thing!");
-MsgDisp("主人公","NANA...? Ah!");
+MsgDisp("主人公","NANA...?
+Ah!");
 MsgDisp("主人公","That's it!
 I knew I'd seen you somewhere!
 You're the high school model NANA!");
@@ -212,11 +212,11 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("A020430000_04_170");
 MsgDisp("Nanatsumori","It's worse if you apologize...
-Realizing I just shot myself in the foot
-like an idiot.");
-MsgDisp("主人公","｛Nanatsumori＊｝, is it possible that
-you're keeping your model identity a
-secret from people at school?");
+Realizing I just shot myself in the foot like
+an idiot.");
+MsgDisp("主人公","｛Nanatsumori＊｝, is it possible that you're
+keeping your model identity a secret from
+people at school?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_180");
@@ -228,8 +228,8 @@ Then, I'll keep it a secret, okay?");
 ChEye(4,2);
 ChMouth(4,0);
 VoicePlay("A020430000_04_190");
-MsgDisp("Nanatsumori","Rather than keeping it secret, I want you
-to just forget about today.");
+MsgDisp("Nanatsumori","Rather than keeping it secret, I want you to
+just forget about today.");
 MsgDisp("主人公","That's impossible!
 I can't forget...");
 ChEye(4,4);
@@ -241,9 +241,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("A020430000_04_210");
-MsgDisp("Nanatsumori","Well, I suppose if I could be forgotten 
-that easily, there'd be no point in 
-being a model.");
+MsgDisp("Nanatsumori","Well, I suppose if I could be forgotten that
+easily, there'd be no point in being a model.");
 MsgDisp("主人公","Haha!");
 ChEye(4,4);
 ChMouth(4,3);
@@ -269,8 +268,8 @@ MsgDisp("主人公","(Now that I think of it, there's a famous
 modelling agency right around the corner,
 isn't there?)");
 SEStop("EV_SE_DOOR_014",1);
-MsgDisp("主人公","(｛Nanatsumori＊｝ must work as NANA
-at that agency.
+MsgDisp("主人公","(｛Nanatsumori＊｝ must work as NANA at that
+agency.
 Good luck, ｛Nanatsumori＊｝!)");
 MsgClose();
 ScrFadeOut(0);

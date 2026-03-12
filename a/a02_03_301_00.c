@@ -5,7 +5,8 @@ I need to find a staff member...)");
 SEPlay("EV_SE_590",0,0.6);
 Wait(20,0);
 ScrQuake(0);
-MsgDisp("主人公","Ah! Sorry!");
+MsgDisp("主人公","Ah!
+Sorry!");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("ev003",0);
@@ -14,7 +15,8 @@ MsgClose();
 ChOpen(3,100,1,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("A020330100_03_000");
-MsgDisp("Honda?","Ah-! You're the newbie!");
+MsgDisp("Honda?","Ah-!
+You're the newbie!");
 MsgDisp("主人公","Y-Yes!
 I'm the new employee here.
 My name is ｛主人公苗字｝.");
@@ -30,9 +32,9 @@ ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("A020330100_03_020");
-MsgDisp("Honda?","You see, today's the busiest day
-of the month. Tons of new magazines
-and books. That's why it's so hectic!");
+MsgDisp("Honda?","You see, today's the busiest day of the
+month. Tons of new magazines and books.
+That's why it's so hectic!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3);
@@ -43,7 +45,8 @@ ChOpen(3,35,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("A020330100_03_030");
 MsgDisp("Honda","I'm Honda Iku.
 I'll teach you anything you need, okay?");
-MsgDisp("主人公","(｛Honda＊＊｝...I feel like I've...)");
+MsgDisp("主人公","(｛Honda＊＊｝...
+I feel like I've...)");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
@@ -63,9 +66,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("A020330100_03_060");
-MsgDisp("Honda","Yeah! But meeting someone from school
-at your part-time job is a rare 
-phenomenon, right? I'm getting excited!");
+MsgDisp("Honda","Yeah! But meeting someone from school at your
+part-time job is a rare phenomenon, right?
+I'm getting excited!");
 MsgDisp("主人公","A rare... phenomenon?");
 ChEye(3,3);
 ChMouth(3,2);
@@ -81,8 +84,8 @@ Here, you come with me too.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(｛Honda＊＊｝...He says some complicated
-things, but...I'm looking forward to
-seeing him at work and school!)");
+MsgDisp("主人公","(｛Honda＊＊｝... He says some complicated
+things, but... I'm looking forward to seeing
+him at work and school!)");
 MsgClose();
 ScrFadeOut(0);

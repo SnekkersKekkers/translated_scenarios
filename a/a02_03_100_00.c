@@ -1,11 +1,12 @@
 BGOpen("sc510",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I've been studying in the library and
-didn't see time go by.
+MsgDisp("主人公","(I've been studying in the library and didn't
+see time go by.
 I should hurry back home...)");
 VoicePlay("A020310000_03_000");
 MsgDisp("Honda?","Investigation complete～!");
-MsgDisp("主人公","(Huh? Looks like someone's still here.)");
+MsgDisp("主人公","(Huh?
+Looks like someone's still here.)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_I");
@@ -37,7 +38,8 @@ VoicePlay("A020310000_03_040");
 MsgDisp("Honda","You wanna know?
 Alright, I'll let you in on it.
 Close your eyes for a sec.");
-MsgDisp("主人公","What...? Eh, okay.");
+MsgDisp("主人公","What...?
+Eh, okay.");
 ScrFadeOut(3,30);
 VoicePlay("A020310000_03_050");
 MsgDisp("Honda","You are now in your classroom, sitting in
@@ -46,8 +48,8 @@ Now, which way is the window?");
 MsgDisp("主人公","On the left?");
 VoicePlay("A020310000_03_060");
 MsgDisp("Honda","Yes, correct!
-Now think back to your
-middle school classrooms. Do you remember?");
+Now think back to your middle school
+classrooms. Do you remember?");
 MsgDisp("主人公","Hmm...
 Oh!
 It's always been on the left!");
@@ -62,24 +64,24 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,2);
 VoicePlay("A020310000_03_080");
-MsgDisp("Honda","...well, I can't say for sure, but
-classroom windows are actually designed
-to be on the left.");
+MsgDisp("Honda","...well, I can't say for sure, but classroom
+windows are actually designed to be on the
+left.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("A020310000_03_090");
-MsgDisp("Honda","And I've confirmed it myself, each and
-every classroom in Haba High too!");
+MsgDisp("Honda","And I've confirmed it myself, each and every
+classroom in Haba High too!");
 MsgDisp("主人公","Amazing, I hadn't noticed at all!
 But how come?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("A020310000_03_100");
-MsgDisp("Honda","Mm-hm, when light comes from the right,
-your writing hand casts a shadow on your
-notebook and makes it hard to see.");
+MsgDisp("Honda","Mm-hm, when light comes from the right, your
+writing hand casts a shadow on your notebook
+and makes it hard to see.");
 MsgDisp("主人公","It was designed with the students in mind.
 It's something so familiar, yet I didn't
 notice at all.");
@@ -95,8 +97,8 @@ BGMStop();
 ChClose(3);
 SEWait();
 VoicePlay("A020310000_03_120");
-MsgDisp("Honda","Ah, but you know, I'm left-handed so it's
-a little complicated～!");
+MsgDisp("Honda","Ah, but you know, I'm left-handed so it's a
+little complicated～!");
 MsgDisp("主人公","(Hehe, ｛Honda＊＊｝, was it?...
 He's a bit odd, but he's funny.)");
 MsgClose();

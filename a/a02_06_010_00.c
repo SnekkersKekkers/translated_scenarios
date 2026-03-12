@@ -8,9 +8,8 @@ BGMPlay("BGM_C06_INORI_I",0.01);
 ChOpen(6,254,2,1,1,0,#1,0,0);
 VoicePlay("A020601000_06_000");
 MsgDisp("Himuro?","......");
-MsgDisp("主人公","(That's the guy who was talking
-to Vice Principal Himuro
-in the corridor, isn't it?)");
+MsgDisp("主人公","(That's the guy who was talking to Vice
+Principal Himuro in the corridor, isn't it?)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -41,7 +40,8 @@ MsgDisp("Himuro?","Ha...
 Figured as much.
 You think we look alike?");
 MsgDisp("主人公","Huh?
-Now that you mention it...I see it!");
+Now that you mention it...
+I see it!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);
@@ -75,8 +75,8 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("A020601000_06_080");
 MsgDisp("Himuro?","You're gonna ignore my personal identity?
-Is it so much more important to satisfy
-your own curiosity?");
+Is it so much more important to satisfy your
+own curiosity?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
@@ -91,8 +91,8 @@ SEPlay("EV_SE_552",0,0.8);
 ChOpen(6,254,5,1,0,#1,#1,0,0);
 Wait(60);
 ScrFadeIn(0);
-MsgDisp("主人公","...Um, I said something that offended
-you, didn't I?
+MsgDisp("主人公","...Um, I said something that offended you,
+didn't I?
 ...I'm sorry.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -115,8 +115,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("A020601000_06_120");
 MsgDisp("Himuro","I'm Himuro Inori. First year. As you might
-have guessed, I'm Reiichi-san's...Vice
-Principal Himuro and I are related.");
+have guessed, I'm Reiichi-san's...
+Vice Principal Himuro and I are related.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -129,7 +129,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601000_06_140");
-MsgDisp("Himuro","Alright. That's all.");
+MsgDisp("Himuro","Alright.
+That's all.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

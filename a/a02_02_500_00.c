@@ -12,8 +12,9 @@ VoiceEVSPlay(2);
 VoicePlay("A020250000_02_010");
 MsgDisp("Sassa","｛主人公｝.
 You're in the same class as Ryota?");
-MsgDisp("主人公","Yeah. And you ｛Sassa＊＊｝, do you and
-｛Kazama＊＊｝ know each other?");
+MsgDisp("主人公","Yeah.
+And you ｛Sassa＊＊｝, do you and ｛Kazama＊＊｝
+know each other?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -47,7 +48,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(1,10);
 VoicePlay("A020250000_02_040");
 MsgDisp("Sassa","The three of us?");
-MsgDisp("主人公","Huh...What do you mean, ｛Kazama＊＊｝?");
+MsgDisp("主人公","Huh...
+What do you mean, ｛Kazama＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -60,8 +62,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("A020250000_02_050");
-MsgDisp("Sassa","I've heard it from my parents, and from
-Ryota too...");
+MsgDisp("Sassa","I've heard it from my parents, and from Ryota
+too...");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -84,8 +86,8 @@ ChMouth(1,1);
 ChMotion(1,1);
 VoicePlay("A020250000_01_030");
 MsgDisp("Kazama","You didn't even remember me that much.
-Though I'd be annoyed if you only
-remembered her.");
+Though I'd be annoyed if you only remembered
+her.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);
@@ -97,7 +99,8 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("A020250000_01_040");
-MsgDisp("Kazama","No...No reason.");
+MsgDisp("Kazama","No...
+No reason.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -152,7 +155,8 @@ VoicePlay("A020250000_02_130");
 MsgDisp("Sassa","Ah, crap!
 I have class in another room!
 See you later, childhood buddies!");
-MsgDisp("主人公","Hehe. See you later, ｛Sassa＊＊｝!");
+MsgDisp("主人公","Hehe.
+See you later, ｛Sassa＊＊｝!");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -166,8 +170,8 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("A020250000_01_080");
-MsgDisp("Kazama","Huh, looks like it's gonna get noisy
-around here.");
+MsgDisp("Kazama","Huh, looks like it's gonna get noisy around
+here.");
 MsgDisp("主人公","(So I'm not just childhood friends with
 ｛Kazama＊＊｝, but also with ｛Sassa＊＊｝.
 What a coincidence...)");

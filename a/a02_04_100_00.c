@@ -1,8 +1,8 @@
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Hehe, I got my hands on the latest
-issue of Habataki Watcher! Let's head
-straight to the rooftop and read it!)");
+MsgDisp("主人公","(Hehe, I got my hands on the latest issue of
+Habataki Watcher! Let's head straight to the
+rooftop and read it!)");
 SEPlay("EV_SE_591");
 Wait(60,0);
 MsgDisp("主人公","Ah, the bonus poster...!");
@@ -88,8 +88,8 @@ ChMotion(4,0,1);
 VoicePlay("A020410000_04_080");
 MsgDisp("Nanatsumori?","...What if it's the same?");
 MsgDisp("主人公","I thought maybe you were a fan!
-NANA-kun has a lot of male fans too,
-you know.");
+NANA-kun has a lot of male fans too, you
+know.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
@@ -103,9 +103,9 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_100");
 MsgDisp("Nanatsumori?","Yeah but, he's just some model...");
-MsgDisp("主人公","He's tall with a great figure, and he's
-got this wild vibe, and his face is so
-sharp and... Wait a sec...");
+MsgDisp("主人公","He's tall with a great figure, and he's got
+this wild vibe, and his face is so sharp
+and... Wait a sec...");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,2,1);
@@ -197,8 +197,8 @@ ChClose(4);
 BGOpen("sc510",0);
 SEWait();
 ScrFadeIn(0);
-MsgDisp("主人公","(I can't believe I'm going to the same
-school as high school model NANA...
+MsgDisp("主人公","(I can't believe I'm going to the same school
+as high school model NANA...
 I gotta protect this secret!)");
 MsgClose();
 ScrFadeOut(0);

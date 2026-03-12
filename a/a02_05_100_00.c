@@ -28,7 +28,8 @@ StlMouth(5,0);
 Wait(145,0);
 BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah...I'm so sorry!");
+MsgDisp("主人公","Ah...
+I'm so sorry!");
 StlEye(5,1);
 VoicePlay("A020510000_05_000");
 MsgDisp("Hiiragi?","Excuse me.
@@ -44,8 +45,8 @@ MsgDisp("主人公","I'm truly sorry, I wasn't looking ahead.");
 StlEye(5,0);
 StlMouth(5,0);
 VoicePlay("A020510000_05_020");
-MsgDisp("Hiiragi?","Actually, it's my fault for standing
-around with such a big armful.");
+MsgDisp("Hiiragi?","Actually, it's my fault for standing around
+with such a big armful.");
 MsgDisp("主人公","No no, it's me wh——");
 StlEye(5,1);
 StlMouth(5,1);
@@ -71,8 +72,8 @@ MsgDisp("Hiiragi","Yes, what a wonderful coincidence.");
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,0);
 VoicePlay("A020510000_05_070");
-MsgDisp("Hiiragi","Excuse me, would you be so kind
-as to give me directions?");
+MsgDisp("Hiiragi","Excuse me, would you be so kind as to give me
+directions?");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -86,7 +87,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Okay, here we are.
 This is the event hall, and—");
 VoicePlay("A020510000_43_000");
-MsgDisp("Troupe","Ahh! You're here, Chairman!");
+MsgDisp("Troupe","Ahh!
+You're here, Chairman!");
 MsgDisp("主人公","(Chairman...?)");
 VoicePlay("A020510000_05_080");
 MsgDisp("Hiiragi","Excuse me, I'll be right back.");
@@ -114,13 +116,14 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("A020510000_05_110");
-MsgDisp("Hiiragi","I wanted to do a bit of shopping, but I
-lost my way back to the hall.
+MsgDisp("Hiiragi","I wanted to do a bit of shopping, but I lost
+my way back to the hall.
 I'm glad that I met you.");
 MsgDisp("主人公","Oh, it's no trouble.
 It was really close by...");
 VoicePlay("A020510000_43_010");
-MsgDisp("Troupe","Chairman! It's time!");
+MsgDisp("Troupe","Chairman!
+It's time!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -133,8 +136,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
-Being the troupe chairman while still in
-high school is incredible...)");
+Being the troupe chairman while still in high
+school is incredible...)");
 MsgDisp("主人公","(Oh, there's the poster for his play!
 ...Hmm?
 \"Starring actor: Hiiragi Yanosuke\"∋)");

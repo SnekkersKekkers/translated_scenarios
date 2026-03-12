@@ -1,6 +1,7 @@
 VoicePlay("A000D00000_21_000");
-MsgDisp("Michiru","Welcome. Please enter the first and last
-name you want to display.");
+MsgDisp("Michiru","Welcome.
+Please enter the first and last name you want
+to display.");
 VoicePlay("A000D00000_22_000");
 MsgDisp("Hikaru","Enter your birthday and blood type!▼");
 VoicePlay("A000D00000_21_010");

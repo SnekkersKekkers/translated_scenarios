@@ -25,17 +25,17 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_030");
-MsgDisp("Sassa","Err...I'm Sassa Nozomu.
-From the track and field club.
-You?");
+MsgDisp("Sassa","Err...
+I'm Sassa Nozomu.
+From the track and field club. You?");
 MsgDisp("主人公","I'm ｛主人公姓名｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("A020210000_02_040");
-MsgDisp("Sassa","I see. I run whenever I can,
-before club or during breaks.
-Nice to meet a fellow sports lover!");
+MsgDisp("Sassa","I see.
+I run whenever I can, before club or during
+breaks. Nice to meet a fellow sports lover!");
 MsgDisp("主人公","Hehe, I see.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -89,8 +89,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("A020210000_02_110");
 MsgDisp("Sassa","Yes, really.
-To the point that I'd recruit you in
-track!");
+To the point that I'd recruit you in track!");
 SEStop("EV_SE_FOOT_037",2);
 MsgClose();
 ScrFadeOut(0);
@@ -119,16 +118,16 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_140");
 MsgDisp("Sassa","But you have good sense for this.
-I have a good eye for athletics, so you
-can trust me.");
+I have a good eye for athletics, so you can
+trust me.");
 MsgDisp("主人公","Hehe, alright then.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("A020210000_02_150");
-MsgDisp("Sassa","And also...When you run with someone,
-you get to know them a little.
-I think you're a good person.");
+MsgDisp("Sassa","And also...
+When you run with someone, you get to know
+them a little. I think you're a good person.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

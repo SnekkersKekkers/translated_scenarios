@@ -14,13 +14,12 @@ VoicePlay("A010000000_01_000");
 MsgDisp("Ryota","Ah, listen, do you hear the bell?
 It's ringing again!");
 MsgDisp("主人公","Yeah...
-It's faint, but I can hear it too, I
-think?");
+It's faint, but I can hear it too, I think?");
 SEStop("EV_SE_795",4);
 VoicePlay("A010000000_01_010");
 MsgDisp("Ryota","Right!
-I always hear it around here while I'm on
-the way to school.");
+I always hear it around here while I'm on the
+way to school.");
 MsgDisp("主人公","Oh, really?");
 VoicePlay("A010000000_01_020");
 MsgDisp("Ryota","Over here!
@@ -81,8 +80,8 @@ BGOpen("pr005",0);
 SEPlay("EV_SE_828",0,0.5);
 SEWait();
 MsgDisp("主人公","Hey, Ryota-kun!
-You can see inside the church a little
-from this window! Look!");
+You can see inside the church a little from
+this window! Look!");
 MsgClose();
 ScrFadeOut(0,0);
 BGOpen("pr006",0);
@@ -102,8 +101,7 @@ A big bell!
 Is that the bell we heard ringing earlier?");
 VoicePlay("A010000000_01_090");
 MsgDisp("Ryota","It has to be!
-When it rings again, let's come take a
-look!");
+When it rings again, let's come take a look!");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("主人公","Ever since we found the church bell, we'd
@@ -129,18 +127,19 @@ MsgDisp("主人公","Huh?
 Really?
 Are you sure?");
 VoicePlay("A010000000_01_110");
-MsgDisp("Ryota","I'm sure! Actually, I made it the same way
-as the pinwheels in the treasure room
-at Habataki Castle.");
+MsgDisp("Ryota","I'm sure! Actually, I made it the same way as
+the pinwheels in the treasure room at
+Habataki Castle.");
 MsgDisp("主人公","...The treasure room pinwheels?");
 VoicePlay("A010000000_01_120");
-MsgDisp("Ryota","Yeah, they're castle treasures. Orange
-like the sunset — if you make a wish and
-blow on it, anything can come true!");
-MsgDisp("主人公","Wow! Like magic!");
+MsgDisp("Ryota","Yeah, they're castle treasures.
+Orange like the sunset — if you make a wish
+and blow on it, anything can come true!");
+MsgDisp("主人公","Wow!
+Like magic!");
 VoicePlay("A010000000_01_130");
-MsgDisp("Ryota","This pinwheel's made the same way, so
-maybe our wishes would come true too?");
+MsgDisp("Ryota","This pinwheel's made the same way, so maybe
+our wishes would come true too?");
 MsgDisp("主人公","Really∋");
 BGOpen("pr010",0);
 VoicePlay("A010000000_01_140");
@@ -149,11 +148,11 @@ Okay, make a wish, and then blow!");
 MsgDisp("主人公","Eh?
 O-Okay, I wish...");
 VoicePlay("A010000000_01_150");
-MsgDisp("Ryota","(I wish that we're always happy and
-healthy and that we definitely, definitely
-get married!)");
-MsgDisp("主人公","(What do I do, I can't come up with a wish
-on the spot like this...)");
+MsgDisp("Ryota","(I wish that we're always happy and healthy
+and that we definitely, definitely get
+married!)");
+MsgDisp("主人公","(What do I do, I can't come up with a wish on
+the spot like this...)");
 MsgDisp("主人公","(Ah, yeah!
 \"I wish that Ryota-kun's wish will come
 true!\")");
@@ -194,8 +193,8 @@ MsgDisp("Ryota","...I see.
 Then mine is a secret too.
 We probably wished for the same thing!");
 MsgDisp("主人公","(The same wish...
-I wished for Ryota-kun's wish to come
-true, though?)");
+I wished for Ryota-kun's wish to come true,
+though?)");
 SEStop("EV_SE_695",4);
 MsgClose();
 ScrFadeOut(0,0);
@@ -206,15 +205,15 @@ BGOpen("ho410",2);
 EnvPlay("SE_ENV_BG_EV004_CO0",1,0.5);
 ScrFadeIn(4,60);
 MsgDisp("主人公","A dream...");
-MsgDisp("主人公","(Hehe, it's been so long since I
-heard his name. All those nostalgic
-memories are coming back to me.)");
+MsgDisp("主人公","(Hehe, it's been so long since I heard his
+name. All those nostalgic memories are coming
+back to me.)");
 SEPlay("EV_SE_829",0,0.4);
 SEStop("JINGLE_019",0);
 SEWait();
 MsgDisp("主人公","(Oh, right.
-That very same Ryota is finally 
-coming back...)");
+That very same Ryota is finally coming
+back...)");
 SEPlay("EV_SE_629");
 SEWait();
 MsgDisp("主人公","Well, time to wake up and get ready!");

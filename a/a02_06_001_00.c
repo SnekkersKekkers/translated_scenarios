@@ -10,8 +10,8 @@ VoicePlay("A020600100_06_000");
 MsgDisp("Himuro?","Yes.
 I'll be counting on you from next month.");
 VoicePlay("A020600100_32_010");
-MsgDisp("VP Himuro","Although let me tell you, you are not
-getting any special treatment.");
+MsgDisp("VP Himuro","Although let me tell you, you are not getting
+any special treatment.");
 VoicePlay("A020600100_06_010");
 MsgDisp("Himuro?","Of course.
 I'm not expecting any.");
@@ -55,15 +55,15 @@ ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("A020600100_32_050");
 MsgDisp("VP Himuro","Very well.
-Make sure to be properly
-dressed at all times. Dismissed.");
+Make sure to be properly dressed at all
+times. Dismissed.");
 MsgClose();
 BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(32);
 Wait(30);
-MsgDisp("主人公","(Phew...I thought I was gonna get
-scolded!)");
+MsgDisp("主人公","(Phew...
+I thought I was gonna get scolded!)");
 MsgDisp("主人公","(But still, who was that boy just now...?)");
 MsgClose();
 ScrFadeOut(0);
