@@ -11,9 +11,9 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("D140D07030_22_010");
-MsgDisp("Hikaru","I wonder how the people with top scores
-can be so smart.
-Do they actually like to study?");
+MsgDisp("Hikaru","Hikaru wonders how the people with top
+scores can be so smart. Do they actually
+like to study?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

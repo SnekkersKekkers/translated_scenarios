@@ -7,8 +7,8 @@ MsgDisp("Hikaru","Himuro-chan sure is strange huh～");
 MsgDisp("主人公","Eh, strange?");
 ChMotion(22,0,1);
 VoicePlay("D140D07060_22_010");
-MsgDisp("Hikaru","I mean his glasses aren't very strong are
-they?");
+MsgDisp("Hikaru","Hikaru means his glasses aren't very strong
+are they?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);

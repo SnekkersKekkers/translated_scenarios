@@ -18,7 +18,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("E010540000_22_010");
-MsgDisp("Hikaru","I'm waiting for the chairman.");
+MsgDisp("Hikaru","Hikaru's waiting for the chairman.");
 MsgDisp("主人公","Chairman...
 ｛Hiiragi＊＊＊｝?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -86,7 +86,7 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("E010540000_22_060");
 MsgDisp("Hikaru","Mhm!
-My uncle is a big supporter of the
+Hikaru's uncle is a big supporter of the
 company～");
 ChEye(5,0);
 ChMouth(5,4);

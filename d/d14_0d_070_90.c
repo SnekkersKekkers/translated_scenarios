@@ -15,8 +15,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07090_22_000");
-MsgDisp("Hikaru","Right, right.
-He's been getting jealous of me and sis♪");
+MsgDisp("Hikaru","Right, right. He's been getting jealous of
+Hikaru and sis♪");
 MsgDisp("主人公","Jealous...?");
 ChEye(22,0);
 ChMouth(22,3);

@@ -17,9 +17,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07070_22_010");
-MsgDisp("Hikaru","You know what I mean.
-The curly hair above his bangs.
-At first I thought he was wearing a wig!");
+MsgDisp("Hikaru","You know what Hikaru means. The curly hair
+above his bangs. At first Hikaru thought
+he was wearing a wig!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

@@ -25,7 +25,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("D140D07051_22_010");
-MsgDisp("Hikaru","I like Mari the way she is.
+MsgDisp("Hikaru","Hikaru likes Mari the way she is.
 She's like a shiny egg▼");
 ChEye(21,0);
 ChMouth(21,3);
@@ -38,9 +38,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("D140D07051_22_020");
-MsgDisp("Hikaru","When you put it like that, I'd like to see
-it too...
-Yeah, yep.");
+MsgDisp("Hikaru","When you put it like that, Hikaru would
+like to see it too... Yeah, yep.");
 MsgDisp("主人公","(Both of their eyes are serious...
 I wonder what on earth they're thinking
 about...)");

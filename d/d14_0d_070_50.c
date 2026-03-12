@@ -45,8 +45,8 @@ ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("D140D07050_22_030");
 MsgDisp("Hikaru","Yanosuke-san doesn't let it show on his
-face much, but I wonder if he's actually
-suffering?");
+face much, but Hikaru wonders if he's
+actually suffering?");
 MsgDisp("主人公","(The chairman is a position of
 authority... It's definitely a feeling we 
 can't understand as high school students.)");

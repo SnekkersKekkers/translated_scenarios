@@ -9,8 +9,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("D140D07031_22_000");
-MsgDisp("Hikaru","Ah, Hikaru totally sees that～!
-...you know, it's because Dahon-, I mean
+MsgDisp("Hikaru","Ah, Hikaru totally sees that～! ...You
+know, it's because Dahon, uhm,
 Honda-kun has bad grades in love.");
 MsgDisp("主人公","Bad grades in love...");
 ChEye(22,4);
@@ -29,8 +29,8 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,6);
 VoicePlay("D140D07031_22_020");
-MsgDisp("Hikaru","I guess you could say the same thing about
-big sis, huh?");
+MsgDisp("Hikaru","Hikaru guesses you could say the same thing
+about big sis, huh?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
