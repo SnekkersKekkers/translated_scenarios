@@ -8,16 +8,15 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B030704000_07_000");
 MsgDisp("Mikage","Hey, all of you.
-Make sure you have your 
-tickets ready.");
+Make sure you have your tickets ready.");
 VoicePlay("B030704000_38_000");
 MsgDisp("Students","Yes!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B030704000_07_010");
-MsgDisp("Mikage","And make sure to be quiet
-during the performance!");
+MsgDisp("Mikage","And make sure to be quiet during the
+performance!");
 VoicePlay("B030704000_38_010");
 MsgDisp("Students","Yes!");
 MsgDisp("主人公","Yes!");

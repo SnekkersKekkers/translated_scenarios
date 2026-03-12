@@ -5,8 +5,7 @@ ChMouth(8,4);
 ChMotion(8,0);
 VoicePlay("B080800004_08_000");
 MsgDisp("Shirahane","They left...
-Say, maybe they had some business with
-you?");
+Say, maybe they had some business with you?");
 MsgDisp("主人公","Y-Yeah...");
 ChEye(8,2);
 ChMouth(8,0);

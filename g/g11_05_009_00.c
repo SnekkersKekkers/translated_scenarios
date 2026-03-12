@@ -7,7 +7,7 @@ I'll do some sketching?)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(Okay, that's enough for today. ——That's
+MsgDisp("主人公","(Okay, that's enough for today. That's
 right ｛Hiiragi＊＊＊｝, Might still be in the
 student council room. Let's go and take a
 look.)");

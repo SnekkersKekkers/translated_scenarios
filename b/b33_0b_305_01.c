@@ -38,12 +38,12 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B330B30501_03_010");
 MsgDisp("Honda","Right.
-Are there live performances where they
-only sing along to their own instruments?");
+Are there live performances where they only
+sing along to their own instruments?");
 ChMouth(1,3);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Both the male and female singer had
-wonderful voices!");
+MsgDisp("主人公","Both the male and female singer had wonderful
+voices!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

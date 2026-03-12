@@ -7,7 +7,7 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B040822100_08_000");
-MsgDisp("Shirahane","Woahー!
+MsgDisp("Shirahane","Woah—!
 It really is a great view!");
 MsgSel("It would be nice if we were up even higher though...","It's a good thing it's nice weather, isn't it?","The ground is so far away...");
 switch (MsgSelRsltGet()){
@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(8,0,1);
     VoicePlay("B040822100_08_020");
     MsgDisp("Shirahane","For sure.
-It's because both of us have been on our
-best behaviour▼");
+It's because both of us have been on our best
+behaviour▼");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

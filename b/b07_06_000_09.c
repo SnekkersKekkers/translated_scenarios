@@ -7,8 +7,8 @@ ChMotion(6,0);
 VoicePlay("B070600000_06_480");
 MsgDisp("Himuro","Seriously?
 What is it.");
-MsgDisp("主人公","Um, you know, ｛Himuro＊＊｝, what do you
-think about love?");
+MsgDisp("主人公","Um, you know, ｛Himuro＊＊｝, what do you think
+about love?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);

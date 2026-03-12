@@ -20,7 +20,7 @@ anxious...)");
     VoicePlay("P230500000_05_000");
     MsgDisp("Hiiragi","｛主人公｝.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
-I' m getting nervous——");
+I' m getting nervous—");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

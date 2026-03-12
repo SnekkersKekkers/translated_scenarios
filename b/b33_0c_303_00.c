@@ -11,8 +11,8 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C30300_06_000");
-MsgDisp("Himuro","To think that Kojiro-sensei had an
-interest in skating.");
+MsgDisp("Himuro","To think that Kojiro-sensei had an interest
+in skating.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -26,8 +26,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C30300_05_000");
-MsgDisp("Hiiragi","I can barely stand, so I would be honored
-if you were to teach me.");
+MsgDisp("Hiiragi","I can barely stand, so I would be honored if
+you were to teach me.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
@@ -77,21 +77,20 @@ ChOpen(6,255,1,0,0,#1,#1,0,2,0,30);
 SEWait();
 VoicePlay("B330C30300_07_020");
 MsgDisp("Mikage","That's good, Inori.
-You can conquer both the waves and the
-ice.");
+You can conquer both the waves and the ice.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C30300_06_020");
-MsgDisp("Himuro","It's as Kojiro-sensei says. Don't lean
-forward, and keep your center of gravity.
-It's the same as surfing.");
+MsgDisp("Himuro","It's as Kojiro-sensei says.
+Don't lean forward, and keep your center of
+gravity. It's the same as surfing.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C30300_07_030");
-MsgDisp("Mikage","Yanosuke, your stance is pretty cool-
-looking too.
+MsgDisp("Mikage","Yanosuke, your stance is pretty cool- looking
+too.
 Like a figure skater.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -117,11 +116,10 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0,0,30);
 VoicePlay("B330C30300_06_030");
 MsgDisp("Himuro","Could it be...
-Kojiro-sensei is actually good at
-teaching?");
+Kojiro-sensei is actually good at teaching?");
 MsgDisp("主人公","Yeah.
-Yes, he explains things gently, whether
-it's academics or anything else.");
+Yes, he explains things gently, whether it's
+academics or anything else.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -131,8 +129,8 @@ ChEye(6,0);
 ChMouth(6,2);
 ChMotion(6,2);
 VoicePlay("B330C30300_06_050");
-MsgDisp("Himuro","So that's why sometimes Reiichi-san will
-say he's the ideal teacher...");
+MsgDisp("Himuro","So that's why sometimes Reiichi-san will say
+he's the ideal teacher...");
 MsgDisp("主人公","Hm?");
 ChEye(6,0);
 ChMouth(6,0);

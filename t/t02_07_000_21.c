@@ -22,7 +22,7 @@ ChEye(7,0);
 VoicePlay("T020700021_07_030");
 MsgDisp("Mikage","Thank you, my precious serious girl.");
 MsgDisp("主人公","Hey!
-If you call me that——");
+If you call me that—");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,3);

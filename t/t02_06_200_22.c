@@ -12,7 +12,7 @@ ChMouth(6,1);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 ChCheek(6,10);
-MsgDisp("Himuro","But still—— Is it normal to hug someone
+MsgDisp("Himuro","But still— Is it normal to hug someone
 in this situation?");
 VoicePlay("T020620000_06_260");
 ChEye(6,0);

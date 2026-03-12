@@ -5,8 +5,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040316002_03_000");
-MsgDisp("Honda","Ah, those are those print stickers that
-are really popular amongst girls right?");
+MsgDisp("Honda","Ah, those are those print stickers that are
+really popular amongst girls right?");
 MsgSel("Have you ever taken one?","This room is a private booth right?","Where do you stick them?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040316002_03_010");
-    MsgDisp("Honda","Yup. My little sister used to have a
-special album for these ages ago. We took
-a lot of them together.");
+    MsgDisp("Honda","Yup. My little sister used to have a special
+album for these ages ago.
+We took a lot of them together.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,8 +33,8 @@ a lot of them together.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040316002_03_020");
-        MsgDisp("Honda","Yeah, it's completely out of sight...hang
-on, what are you planning to do?");
+        MsgDisp("Honda","Yeah, it's completely out of sight...hang on,
+what are you planning to do?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -45,8 +45,8 @@ on, what are you planning to do?");
         ChMotion(3,0);
         ChCheek(3,3);
         VoicePlay("B040316002_03_030");
-        MsgDisp("Honda","Yeah, it's completely out of sight...just
-the two of us.");
+        MsgDisp("Honda","Yeah, it's completely out of sight...just the
+two of us.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,5);

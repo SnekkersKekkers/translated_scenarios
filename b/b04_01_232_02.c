@@ -7,9 +7,8 @@ ScrFadeIn(0);
 ChMotion(1,4);
 ChCheek(1,5);
 VoicePlay("B040123202_01_000");
-MsgDisp("Kazama","Even though there are a lot of people
-around, if you ride this, it's just the
-two of us.");
+MsgDisp("Kazama","Even though there are a lot of people around,
+if you ride this, it's just the two of us.");
 MsgSel("It's a perfect locked room!","They won't know anything no matter what we do huh?","Yeah, it's like a small room.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -52,9 +51,8 @@ Am I gonna be done in here by you?");
         ChEyeOpenLevel(1,0);
         ChCheek(1,0);
         VoicePlay("B040123202_01_030");
-        MsgDisp("Kazama","True, once we reach the top, the angle
-means we can't be seen from the gondola
-in front...");
+        MsgDisp("Kazama","True, once we reach the top, the angle means
+we can't be seen from the gondola in front...");
         MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEye(1,4);
         ChMouth(1,2);
@@ -89,9 +87,9 @@ That's not it.");
         ChEye(1,4);
         ChMouth(1,1);
         VoicePlay("B040123202_01_070");
-        MsgDisp("Kazama","No, my bad, my bad. But, I've made up my
-mind. Now that I've made up my mind, I'm
-gonna do it.");
+        MsgDisp("Kazama","No, my bad, my bad.
+But, I've made up my mind. Now that I've made
+up my mind, I'm gonna do it.");
         MsgDisp("主人公","(｛Kazama＊＊｝, what are you gonna do?)");
         break ;
         default :
@@ -107,8 +105,8 @@ gonna do it.");
     ChCheek(1,0);
     VoicePlay("B040123202_01_080");
     MsgDisp("Kazama","If it were just a small room, that'd be
-awkward. But since it's an attraction,
-this distance is allowed.");
+awkward. But since it's an attraction, this
+distance is allowed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

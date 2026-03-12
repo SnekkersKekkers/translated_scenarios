@@ -45,7 +45,7 @@ Wait(120,0);
 StlOpen("ev_02_17");
 ScrFadeIn(0);
 VoicePlay("T020220020_02_040");
-MsgDisp("Sassa","...I'm in your care from now on——");
+MsgDisp("Sassa","...I'm in your care from now on—");
 VoicePlay("T020220020_02_050");
 MsgDisp("Sassa","My beloved.");
 StlEffect(1,1,60);

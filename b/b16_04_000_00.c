@@ -20,8 +20,9 @@ It tickles.");
     NSSMouth(4,4);
     NSSCheek(4,8);
     VoicePlay("B160400000_04_020");
-    MsgDisp("Nanatsumori","Eh? Ah, right. If you do it in moderation,
-then go ahead...");
+    MsgDisp("Nanatsumori","Eh?
+Ah, right.
+If you do it in moderation, then go ahead...");
     break ;
     default :
     DbgAssert(0);

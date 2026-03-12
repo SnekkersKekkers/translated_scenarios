@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040504200_05_000");
-    MsgDisp("Hiiragi","Yes, it's the continuous day-to-day
-training that moves people.");
+    MsgDisp("Hiiragi","Yes, it's the continuous day-to-day training
+that moves people.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,9 +34,9 @@ with the performers.");
     ChMouth(5,2);
     ChMotion(5,2);
     VoicePlay("B040504200_05_020");
-    MsgDisp("Hiiragi","Yes? Is that how you felt? Phew...I was
-once again reminded of the difficulties of
-running a show.");
+    MsgDisp("Hiiragi","Yes? Is that how you felt?
+Phew... I was once again reminded of the
+difficulties of running a show.");
     MsgDateResultDisp();
     break ;
     default :

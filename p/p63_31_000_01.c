@@ -15,7 +15,7 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("P633100001_31_010");
-MsgDisp("Goro","Heeーllo.
+MsgDisp("Goro","Hello〜
 The vegetables are like works of art.");
 MsgDisp("主人公","Yes!
 Everyone in the gardening club grew them.

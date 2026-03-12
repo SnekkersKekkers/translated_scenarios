@@ -18,7 +18,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("Q260500000_05_020");
 MsgDisp("Hiiragi","E-Excuse me.
-I could not see——");
+I could not see—");
 ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

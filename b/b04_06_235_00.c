@@ -26,8 +26,8 @@ That's good.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623500_06_020");
-    MsgDisp("Himuro","Did you not know you had a weakness for
-this sort of thing?");
+    MsgDisp("Himuro","Did you not know you had a weakness for this
+sort of thing?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -37,8 +37,8 @@ this sort of thing?");
     ChMotion(6,3);
     VoicePlay("B040623500_06_030");
     MsgDisp("Himuro","Wow, you're pretty calm.
-But, I agree. I'm fed up with those
-transparent gimmicks.");
+But, I agree.
+I'm fed up with those transparent gimmicks.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

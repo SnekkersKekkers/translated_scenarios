@@ -56,7 +56,7 @@ Wait(10,0);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020520021_05_060");
-MsgDisp("Hiiragi","So, one more time——");
+MsgDisp("Hiiragi","So, one more time—");
 MsgDisp("主人公","Eh...");
 BGMStop(2.8);
 MsgClear();

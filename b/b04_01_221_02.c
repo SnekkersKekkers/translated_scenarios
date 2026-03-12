@@ -6,8 +6,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040122102_01_000");
-MsgDisp("Kazama","There's a coin operated telescope over
-there.");
+MsgDisp("Kazama","There's a coin operated telescope over there.");
 MsgSel("Can you see all the way to Hanegasaki Beach?","My lord, let's take a look at how the people live!","There's that prank where it gets all black around your eyes.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -98,8 +97,8 @@ Your face.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040122102_01_080");
-        MsgDisp("Kazama","You pressed your face too hard into it,
-it's now red around your eyes.");
+        MsgDisp("Kazama","You pressed your face too hard into it, it's
+now red around your eyes.");
         MsgDisp("主人公","Eh, what should I do...");
         ChEyeOpenLevel(1,0);
         Wait(10,0);

@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040203202_02_000");
-MsgDisp("Sassa","Apparently during the night the aquarium
-is all lit up.");
+MsgDisp("Sassa","Apparently during the night the aquarium is
+all lit up.");
 MsgSel("Wow, you know a lot","I wonder if that blinds the fish?","Sounds romantic");
 switch (MsgSelRsltGet()){
     case 0:
@@ -39,27 +39,26 @@ me.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040203202_02_030");
-        MsgDisp("Sassa","It's rare for me to know something about
-the city that you don't.");
+        MsgDisp("Sassa","It's rare for me to know something about the
+city that you don't.");
         MsgDisp("主人公","Ah, I see how that could be frustrating.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040203202_02_040");
         MsgDisp("Sassa","Yeah.
-It makes me want to start learning more
-bits of information.");
-        MsgDisp("主人公","Hehe, ｛Sassa＊＊｝ can gather information
-by foot.");
+It makes me want to start learning more bits
+of information.");
+        MsgDisp("主人公","Hehe, ｛Sassa＊＊｝ can gather information by
+foot.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040203202_02_050");
-        MsgDisp("Sassa","By foot? Okay, next time let's go
-together to Mt. Habataki to gather
-information!");
-        MsgDisp("主人公","Hehe, but isn't that just like a normal
-date?");
+        MsgDisp("Sassa","By foot?
+Okay, next time let's go together to Mt.
+Habataki to gather information!");
+        MsgDisp("主人公","Hehe, but isn't that just like a normal date?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);

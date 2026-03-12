@@ -12,7 +12,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B020502135_05_010");
 MsgDisp("Hiiragi","It looks good.
-You've really made it your own, and
-more than anything, it suits you.");
+You've really made it your own, and more than
+anything, it suits you.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ complimented me.♪
 I'm glad I checked what's trending!)");

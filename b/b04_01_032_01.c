@@ -41,8 +41,7 @@ No, seriously, some just got in my mouth.");
     ChMotion(1,3);
     VoicePlay("B040103201_01_030");
     MsgDisp("Kazama","That sounds nice.
-Next time let's have a relaxing lunch
-here.");
+Next time let's have a relaxing lunch here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

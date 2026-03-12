@@ -17,9 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040211101_02_010");
-    MsgDisp("Sassa","Totally like a spinning top. They suddenly
-stop, then make a signature pose at the
-end. How do they do it?");
+    MsgDisp("Sassa","Totally like a spinning top.
+They suddenly stop, then make a signature
+pose at the end. How do they do it?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,8 +30,8 @@ end. How do they do it?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040211101_02_020");
-    MsgDisp("Sassa","There's no way it's natural for every
-figure skater.");
+    MsgDisp("Sassa","There's no way it's natural for every figure
+skater.");
     MsgDateResultDisp();
     break ;
     case 2:

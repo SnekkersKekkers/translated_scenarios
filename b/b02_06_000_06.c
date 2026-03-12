@@ -10,7 +10,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B020600006_06_010");
 MsgDisp("Himuro","Did you take a good look?
-If you did and still can't tell,
-that's a serious problem.");
+If you did and still can't tell, that's a
+serious problem.");
 MsgDisp("主人公","(I guess this coordination didn't work
 out...)");

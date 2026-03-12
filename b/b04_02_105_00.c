@@ -37,8 +37,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040210500_02_030");
     MsgDisp("Sassa","I see, so once you get it, it's boring?
-Does that mean everyone here is part of
-the \"I don't get it\" club?");
+Does that mean everyone here is part of the
+\"I don't get it\" club?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -113,8 +113,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B050700200_07_100");
-MsgDisp("Mikage","She saw that I brought a cute girl with
-me, and got jealous.");
+MsgDisp("Mikage","She saw that I brought a cute girl with me,
+and got jealous.");
 MsgDisp("主人公","Ehh?");
 BGMStop();
 MsgClose();

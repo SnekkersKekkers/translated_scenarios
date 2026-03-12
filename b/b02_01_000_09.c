@@ -10,7 +10,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020100009_01_010");
-MsgDisp("Kazama","Following trends while being yourself,
-that's nice.");
+MsgDisp("Kazama","Following trends while being yourself, that's
+nice.");
 MsgDisp("主人公","(Awesome!
 I'm glad I checked out the trends!)");

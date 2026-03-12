@@ -14,7 +14,7 @@ There's lots prepared.");
     VoicePlay("P830200001_44_000");
     MsgDisp("Girl B","Be careful to not ru n out of other
 supplies.");
-    MsgDisp("主人公","Yeーs.");
+    MsgDisp("主人公","Ye—s.");
     MsgClose();
     SEPlay("EV_SE_DOOR_019");
     SEWait();
@@ -87,7 +87,7 @@ seem busy.");
     MsgDisp("主人公","Thank you.
 Yeah, now is a bit...");
     VoicePlay("P830200001_46_000");
-    MsgDisp("Girl C","Umーexcuse me.
+    MsgDisp("Girl C","Um—excuse me.
 Do you have a garbage bag?");
     MsgDisp("主人公","Ah, yes.
 I have them here.");
@@ -96,7 +96,7 @@ I have them here.");
     ChMotion(2,1);
     VoicePlay("P830200001_02_070");
     MsgDisp("Sassa","Then, I'll come back later.
-Do your bestー!");
+Do your best—!");
     MsgDisp("主人公","Thank you, ｛Sassa＊＊｝!");
     MsgClose();
     ScrFadeOut(0,0);

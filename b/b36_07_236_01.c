@@ -56,8 +56,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 MsgDisp("Mikage","Fine!
-How about we stay until the skull bear
-passes by?");
+How about we stay until the skull bear passes
+by?");
 MsgDisp("主人公","(Yay!
 I got to watch the Night Parade with
 ｛Mikage＊＊｝ today!)");

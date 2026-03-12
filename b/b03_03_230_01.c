@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B030323001_03_010");
-    MsgDisp("Honda","Sounds good, they say you have to get used
-to it, right?
+    MsgDisp("Honda","Sounds good, they say you have to get used to
+it, right?
 Let's go!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -48,8 +48,8 @@ Let's go!");
     ChMotion(3,0,1);
     ScrFadeIn(0);
     VoicePlay("B030323001_03_040");
-    MsgDisp("Honda","They say it's just 15 minutes in the air,
-but we're trapped in here.");
+    MsgDisp("Honda","They say it's just 15 minutes in the air, but
+we're trapped in here.");
     break ;
     case 2:
     MsgDispSksp(1,0);
@@ -57,8 +57,7 @@ but we're trapped in here.");
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("B030323001_03_050");
-    MsgDisp("Honda","I'll be right there cheering you on,
-okay?");
+    MsgDisp("Honda","I'll be right there cheering you on, okay?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

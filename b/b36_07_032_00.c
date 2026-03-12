@@ -10,30 +10,30 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360703200_07_000");
 MsgDisp("Mikage","They were having fun today, weren't they?");
-MsgDisp("主人公","Hehe, it looked like ｛Mikage＊＊｝ had
-fun too.");
+MsgDisp("主人公","Hehe, it looked like ｛Mikage＊＊｝ had fun
+too.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B360703200_07_010");
 MsgDisp("Mikage","Huh, I guess you caught on.
 I was trying to play it cool.");
-MsgDisp("主人公","Well, then, what happens when you enjoy it
-to the fullest?");
+MsgDisp("主人公","Well, then, what happens when you enjoy it to
+the fullest?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B360703200_07_020");
 MsgDisp("Mikage","Well...
-First, it'd probably be an intense
-discussion with Inori.");
+First, it'd probably be an intense discussion
+with Inori.");
 MsgDisp("主人公","It might be a good match.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360703200_07_030");
-MsgDisp("Mikage","No, I won't stop until he's crying. Then
-Yanosuke will look at me with
+MsgDisp("Mikage","No, I won't stop until he's crying.
+Then Yanosuke will look at me with
 disappointment. That's how it ends.");
 MsgDisp("主人公","Wow, what a big mess.");
 ChEye(7,0);

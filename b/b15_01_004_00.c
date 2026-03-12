@@ -18,16 +18,17 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("B150100400_01_010");
-MsgDisp("Kazama","I see. Just as I thought. You stop as soon
-as I tell you to continue.");
+MsgDisp("Kazama","I see.
+Just as I thought.
+You stop as soon as I tell you to continue.");
 MsgDisp("主人公","That's not what I intended...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100400_01_020");
-MsgDisp("Kazama","That's why it's fine. Whether it's in
-front of your house, at school, wherever.
+MsgDisp("Kazama","That's why it's fine. Whether it's in front
+of your house, at school, wherever.
 Do as you like and go ahead?");
 MsgDisp("主人公","Even if you say that...
 I'm sorry for getting carried away.");

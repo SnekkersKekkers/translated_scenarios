@@ -24,9 +24,8 @@ Crap...it's slowly growing on me...");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("B040418800_04_010");
-    MsgDisp("Nanatsumori","There was some dark humour, but it was
-nicely balanced by the heroine's pure
-nature.");
+    MsgDisp("Nanatsumori","There was some dark humour, but it was nicely
+balanced by the heroine's pure nature.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,8 +36,8 @@ nature.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040418800_04_020");
-    MsgDisp("Nanatsumori","That's a shame. There were lots of
-highlights too?");
+    MsgDisp("Nanatsumori","That's a shame.
+There were lots of highlights too?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

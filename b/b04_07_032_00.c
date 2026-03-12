@@ -6,8 +6,8 @@ ChMouth(7,3);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040703200_07_000");
-MsgDisp("Mikage","We get to observe the penguins from a
-unique angle.");
+MsgDisp("Mikage","We get to observe the penguins from a unique
+angle.");
 MsgSel("Let's run under the tube.","I want to swim with them too.","The penguins are starting to walk.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,9 +38,9 @@ don't swim very fast.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040703200_07_030");
-    MsgDisp("Mikage","Oh, that's good. Penguins look like
-they're bi-pedal, upright walkers but
-they're not. Take a good look.");
+    MsgDisp("Mikage","Oh, that's good.
+Penguins look like they're bi-pedal, upright
+walkers but they're not. Take a good look.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

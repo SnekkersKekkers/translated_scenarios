@@ -22,8 +22,8 @@ Well, that's fine.");
     ChMotion(2,4);
     VoicePlay("B040218200_02_010");
     MsgDisp("Sassa","Sorry.
-I wasn't watching it properly enough to
-talk about it.");
+I wasn't watching it properly enough to talk
+about it.");
     MsgDateResultDisp();
     break ;
     case 2:

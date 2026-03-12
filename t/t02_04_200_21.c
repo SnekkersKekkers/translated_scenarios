@@ -28,7 +28,7 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 ChCheek(4,0);
 VoicePlay("T020420000_04_210");
-MsgDisp("Nanatsumori","I can't tell themー...");
+MsgDisp("Nanatsumori","I can't tell them—...");
 MsgDisp("主人公","Haha!");
 ChEye(4,0);
 ChMouth(4,3);

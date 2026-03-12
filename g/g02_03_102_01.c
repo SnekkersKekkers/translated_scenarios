@@ -13,7 +13,7 @@ way..");
 ChMouth(3,0);
 VoicePlay("G020310201_03_020");
 MsgDisp("Honda","Going out with you like this has become so
-natural, I've gotten so used to it——");
+natural, I've gotten so used to it—");
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020310201_03_030");

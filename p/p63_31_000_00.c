@@ -18,6 +18,6 @@ MsgDisp("Goro","I've decided!
 I'll have tea time here.
 Is that okay?");
 MsgDisp("主人公","Yes!
-One customer, this way pleaseー!");
+One customer, this way please—!");
 MsgClose();
 ScrFadeOut(0);

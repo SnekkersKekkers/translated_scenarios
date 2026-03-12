@@ -19,14 +19,13 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360303100_03_010");
 MsgDisp("Honda","Yeah.
-Ryou-kun and Mi-kun were eager to talk to
-you too.");
+Ryou-kun and Mi-kun were eager to talk to you
+too.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360303100_03_020");
-MsgDisp("Honda","Honestly, I wanted to have you all to
-myself.");
+MsgDisp("Honda","Honestly, I wanted to have you all to myself.");
 MsgDisp("主人公","Really?");
 ChEye(3,5);
 ChMouth(3,4);
@@ -37,18 +36,18 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B360303100_03_040");
-MsgDisp("Honda","Look at this big fish tank! The schools of
-horse mackerel are swimming by! Isn't it
-beautiful?");
+MsgDisp("Honda","Look at this big fish tank!
+The schools of horse mackerel are swimming
+by! Isn't it beautiful?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B360303100_03_050");
-MsgDisp("Honda","Mackerel form schools that swim in a
-perfect line even without a leader, you
-know? Do you know why?");
-MsgDisp("主人公","Um, it's to reduce the chance of being
-preyed upon, right?");
+MsgDisp("Honda","Mackerel form schools that swim in a perfect
+line even without a leader, you know?
+Do you know why?");
+MsgDisp("主人公","Um, it's to reduce the chance of being preyed
+upon, right?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -68,8 +67,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B360303100_03_080");
 MsgDisp("Honda","Yep!
-If we keep some topics for later, we can
-come back to the aquarium together again.");
+If we keep some topics for later, we can come
+back to the aquarium together again.");
 MsgDisp("主人公","Ah...haha!
 I'll look forward to it!");
 ChMouth(3,3);

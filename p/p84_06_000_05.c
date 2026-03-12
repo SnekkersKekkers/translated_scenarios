@@ -5,7 +5,7 @@ MsgClose();
 BGOpen("sc710",0);
 ScrFadeIn(0);
 VoicePlay("P840600005_45_000");
-MsgDisp("Girl","Moooーm...!");
+MsgDisp("Girl","Mooo—m...!");
 SEPlay("EV_SE_688");
 SEWait();
 MsgDisp("主人公","Ah, wait.");

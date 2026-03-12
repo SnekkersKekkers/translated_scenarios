@@ -22,8 +22,8 @@ production.");
     ChMotion(6,0);
     VoicePlay("B040618600_06_010");
     MsgDisp("Himuro","The only disappointing thing was how
-predictable it was. Other than that,
-it was good.");
+predictable it was.
+Other than that, it was good.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,8 +34,8 @@ it was good.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040618600_06_020");
-    MsgDisp("Himuro","If you were hoping for a story, then I
-guess that would be true.");
+    MsgDisp("Himuro","If you were hoping for a story, then I guess
+that would be true.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

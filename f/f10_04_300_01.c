@@ -15,7 +15,7 @@ wig and outfit?
 Are you going to throw it all away?");
 VoicePlay("F100430001_04_010");
 MsgDisp("Nanatsumori?","Hikaru-san, if there's anything you like
-I'll give it to you——");
+I'll give it to you—");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -43,7 +43,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("F100430001_22_020");
 MsgDisp("Hikaru","Hey, Mari would be lonely too right?
-Nanako——");
+Nanako—");
 ChEye(4,5);
 ChMouth(4,1);
 ChMotion(4,4,1);
@@ -79,7 +79,7 @@ ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("F100430001_22_050");
-MsgDisp("Hikaru","How bothersomeー...");
+MsgDisp("Hikaru","How bothersome—...");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

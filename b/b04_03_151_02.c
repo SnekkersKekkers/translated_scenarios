@@ -48,8 +48,7 @@ I'll go for the safe one.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040315102_03_040");
-        MsgDisp("Honda","When you say that, I start to feel
-confident.
+        MsgDisp("Honda","When you say that, I start to feel confident.
 You're good at influencing me.");
         MsgDisp("主人公","I didn't mean to?");
         ChEye(3,4);
@@ -57,8 +56,8 @@ You're good at influencing me.");
         ChMotion(3,0);
         VoicePlay("B040315102_03_050");
         MsgDisp("Honda","Really?
-If it was unintentional, then maybe I'm
-just pretty susceptible to you...");
+If it was unintentional, then maybe I'm just
+pretty susceptible to you...");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -85,8 +84,8 @@ If you say that, I can do it!");
         ChOpen(3,255,5,3,3,#1,#1,0,0);
         VoicePlay("B040315102_03_080");
         MsgDisp("Honda","That's incredible!
-The odds of me knocking down a split 7 and
-10 are astronomical!");
+The odds of me knocking down a split 7 and 10
+are astronomical!");
         MsgDisp("主人公","It's 'cause you're skilled, ｛Honda＊＊｝.");
         ChEye(3,3);
         ChMouth(3,3);

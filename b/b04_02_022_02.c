@@ -62,8 +62,8 @@ There are many places I would like to go.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040202202_02_060");
-        MsgDisp("Sassa","Whether I like the place or not, I want
-to go everywhere with you.
+        MsgDisp("Sassa","Whether I like the place or not, I want to go
+everywhere with you.
 ...That's the truth.");
         MsgDisp("主人公","I see.
 That makes me happy.");
@@ -76,9 +76,8 @@ That makes me happy.");
 you, right?
 Ah, I don't mean that in a weird way.");
         MsgDisp("主人公","Hehe, I think I understand?");
-        MsgDisp("主人公","(I hope ｛Sassa＊＊｝ and I can continue
-going to many different places in the
-future.)");
+        MsgDisp("主人公","(I hope ｛Sassa＊＊｝ and I can continue going
+to many different places in the future.)");
         break ;
         default :
         DbgAssert(1);

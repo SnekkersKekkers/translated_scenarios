@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040316000_03_010");
     MsgDisp("Honda","Okay.
-It feels good when those jangling medals
-come out.");
+It feels good when those jangling medals come
+out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,7 +26,7 @@ come out.");
     ChSet(3,3);
     VoicePlay("B040316000_03_020");
     MsgDisp("Honda","Yes, yeees!
-I won't go easy on you okayー?");
+I won't go easy on you okay—?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -55,8 +55,8 @@ Are you the type to find it romantic?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040405102_04_040");
-        MsgDisp("Nanatsumori","I don't sleep every time I come here,
-after all.");
+        MsgDisp("Nanatsumori","I don't sleep every time I come here, after
+all.");
         MsgDisp("主人公","Ah, sorry...");
         ChEye(4,4);
         ChMouth(4,4);
@@ -79,8 +79,8 @@ focus on the commentary.");
         ChEyeOpenLevel(4,0);
         VoicePlay("B040405102_04_070");
         MsgDisp("Nanatsumori","In the dim light of the starry sky, the
-romantic stories of constellations tickle
-my ears.");
+romantic stories of constellations tickle my
+ears.");
         MsgDisp("主人公","Yeah...");
         VoicePlay("B040405102_04_080");
         MsgDisp("Nanatsumori","There are also lots of love stories.");
@@ -92,8 +92,8 @@ coincides with our own.");
         MsgDisp("主人公","Yeah...");
         ChEye(4,0);
         VoicePlay("B040405102_04_100");
-        MsgDisp("Nanatsumori","In that dream-like state, I look over next
-to me...");
+        MsgDisp("Nanatsumori","In that dream-like state, I look over next to
+me...");
         MsgDisp("主人公","Yeah...
 Hm?");
         ChEye(4,4);

@@ -52,8 +52,8 @@ yourself a little.");
     ChMotion(2,3);
     VoicePlay("B040220000_02_040");
     MsgDisp("Sassa","Is that so.
-First of all, let's learn how to fall
-without injury.");
+First of all, let's learn how to fall without
+injury.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -8,7 +8,7 @@ ChSet(3,0);
 VoicePlay("G020320001_03_010");
 MsgDisp("Honda","When I was a kid, I sometimes thought it
 would be nice to be as fast as some other
-kid in a race, but——");
+kid in a race, but—");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);

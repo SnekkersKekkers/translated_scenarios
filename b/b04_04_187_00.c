@@ -24,9 +24,9 @@ through.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040418700_04_010");
-    MsgDisp("Nanatsumori","Yeah. It wasn't bad, but I can't openly
-say it was great. It was a bit
-unsatisfying.");
+    MsgDisp("Nanatsumori","Yeah.
+It wasn't bad, but I can't openly say it was
+great. It was a bit unsatisfying.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

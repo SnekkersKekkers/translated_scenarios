@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040221300_02_010");
-    MsgDisp("Sassa","Come to think of it, I drank a protein
-shake before I left the house...
+    MsgDisp("Sassa","Come to think of it, I drank a protein shake
+before I left the house...
 Do you think they also like it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

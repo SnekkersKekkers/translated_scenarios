@@ -25,9 +25,9 @@ MsgDisp("主人公","I-I don't believe you.");
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110700000_33_020");
-MsgDisp("Guy","Is that okay? Even if you don't believe
-it, you have been chosen. That's a fact.
-Well, shall we go?");
+MsgDisp("Guy","Is that okay?
+Even if you don't believe it, you have been
+chosen. That's a fact. Well, shall we go?");
 ChPosition(33,2);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -84,8 +84,8 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B110700000_07_050");
-MsgDisp("Mikage","Whether you believe it, or don't believe
-it, is up to you.");
+MsgDisp("Mikage","Whether you believe it, or don't believe it,
+is up to you.");
 ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,7);

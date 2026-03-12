@@ -12,8 +12,7 @@ ChMouth(7,0);
 ChMotion(7,4,1);
 ScrFadeIn(0);
 VoicePlay("B330C20301_06_000");
-MsgDisp("Himuro","Yanosuke-senpai, did something good
-happen?");
+MsgDisp("Himuro","Yanosuke-senpai, did something good happen?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -23,9 +22,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20301_06_010");
-MsgDisp("Himuro","As we were walking in the boulevard, you
-were smiling from time to time, weren't
-you?");
+MsgDisp("Himuro","As we were walking in the boulevard, you were
+smiling from time to time, weren't you?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -36,10 +34,10 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20301_07_000");
-MsgDisp("Mikage","Come to think of it, you were glancing at
-the shop windows weren't you?");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, is there something you
-wanted to buy?");
+MsgDisp("Mikage","Come to think of it, you were glancing at the
+shop windows weren't you?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, is there something you wanted
+to buy?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -52,9 +50,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20301_06_020");
-MsgDisp("Himuro","Ehhh...Yanosuke-senpai is also concerned
-about appearance. Is that how it is for
-actors?");
+MsgDisp("Himuro","Ehhh...
+Yanosuke-senpai is also concerned about
+appearance. Is that how it is for actors?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -74,9 +72,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20301_05_040");
-MsgDisp("Hiiragi","Until I entered Haba High, I had never
-gone out like this before, I was looking
-at myself, together with everyone.");
+MsgDisp("Hiiragi","Until I entered Haba High, I had never gone
+out like this before, I was looking at
+myself, together with everyone.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -106,8 +104,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20301_06_040");
-MsgDisp("Himuro","I'm the same as Yanosuke-senpai. These
-kinds of experiences have been practically
+MsgDisp("Himuro","I'm the same as Yanosuke-senpai. These kinds
+of experiences have been practically
 non-existent to me. And...there's you.");
 MsgDisp("主人公","Eh...");
 ChEye(5,0);

@@ -30,7 +30,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("D020801000_08_040");
 MsgDisp("Shirahane","I think I got first this time.
-But later——");
+But later—");
 MsgDisp("主人公","But later?");
 ChEye(8,3);
 ChMouth(8,3);

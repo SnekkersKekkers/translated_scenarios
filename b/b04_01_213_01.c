@@ -32,8 +32,8 @@ annoyed!");
     ChMotion(1,0);
     VoicePlay("B040121301_01_020");
     MsgDisp("Kazama","High protein, low calorie, natural
-ingredients. They must be eating better
-than us, right?");
+ingredients.
+They must be eating better than us, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

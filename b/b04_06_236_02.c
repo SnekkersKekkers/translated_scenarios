@@ -38,8 +38,8 @@ switch (MsgSelRsltGet()){
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623602_06_020");
-        MsgDisp("Himuro","The theme will probably change, and we
-will have changed as well.");
+        MsgDisp("Himuro","The theme will probably change, and we will
+have changed as well.");
         MsgDisp("主人公","Us too?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -63,15 +63,14 @@ too.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040623602_06_060");
-        MsgDisp("Himuro","...No, I'll be troubled if it hasn't
-changed.");
+        MsgDisp("Himuro","...No, I'll be troubled if it hasn't changed.");
         MsgDisp("主人公","Why would that be a problem?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0,1);
         VoicePlay("B040623602_06_070");
-        MsgDisp("Himuro","Because I'll have to realize my own
-cowardice and pathetic nature.
+        MsgDisp("Himuro","Because I'll have to realize my own cowardice
+and pathetic nature.
 I can't deal with that.");
         MsgDisp("主人公","Umm.");
         ChEye(6,0);
@@ -85,8 +84,8 @@ I hope you're looking forward to it.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040623602_06_090");
-        MsgDisp("Himuro","For our relationship to change, in a good
-way in the future.");
+        MsgDisp("Himuro","For our relationship to change, in a good way
+in the future.");
         MsgDisp("主人公","...Yeah, got it!");
         ChEye(6,0);
         ChMouth(6,4);

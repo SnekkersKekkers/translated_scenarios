@@ -27,8 +27,8 @@ Let's go somewhere warm quickly.");
     ChMotion(4,1,1);
     VoicePlay("B040408500_04_020");
     MsgDisp("Nanatsumori","Of course.
-If pink breath came out of you, I would
-take a picture right away.");
+If pink breath came out of you, I would take
+a picture right away.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

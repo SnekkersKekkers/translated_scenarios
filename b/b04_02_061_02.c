@@ -47,8 +47,8 @@ Maybe that's the beach club's strategy?");
         ChEyeOpenLevel(2,7);
         VoicePlay("B040206102_02_030");
         MsgDisp("Sassa","I understand wanting to ride a dolphin.
-But in what situation would you want to
-ride a killer whale?");
+But in what situation would you want to ride
+a killer whale?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -66,8 +66,8 @@ N-No?");
         ChMotion(2,0);
         VoicePlay("B040206102_02_050");
         MsgDisp("Sassa","I'm not saying no.
-But you know, me floating in the ocean all
-by myself, straddling that thing...");
+But you know, me floating in the ocean all by
+myself, straddling that thing...");
         MsgDisp("主人公","Hehe, that would be cute, though?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -84,8 +84,8 @@ together.");
         VoicePlay("B040206102_02_070");
         MsgDisp("Sassa","Me...with you?");
         MsgDisp("主人公","Yeah.
-It's hard to stay afloat with two people
-on top.");
+It's hard to stay afloat with two people on
+top.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,2);

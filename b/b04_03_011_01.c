@@ -14,9 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040301101_03_010");
-    MsgDisp("Honda","It's okay. The foundation pillars attach
-to the ground like tree roots, as if
-they're growing out of the earth!");
+    MsgDisp("Honda","It's okay. The foundation pillars attach to
+the ground like tree roots, as if they're
+growing out of the earth!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ You should look at the scenery.");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("B040301101_03_030");
-    MsgDisp("Honda","Mhm, looking at it again this way, I think
-so too.");
+    MsgDisp("Honda","Mhm, looking at it again this way, I think so
+too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

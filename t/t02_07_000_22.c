@@ -18,7 +18,7 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 ChCheek(7,0);
 VoicePlay("T020700022_07_020");
-MsgDisp("Mikage","But...you and I have graduated now——");
+MsgDisp("Mikage","But...you and I have graduated now—");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);

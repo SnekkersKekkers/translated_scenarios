@@ -6,8 +6,8 @@ MsgClose();
 ChOpen(1,33,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040106500_01_000");
-MsgDisp("Kazama","They're going to get fired off one after
-the other from here on.");
+MsgDisp("Kazama","They're going to get fired off one after the
+other from here on.");
 MsgSel("A summer tradition painting the sky! Tamayaaa!","Oh, look! A big heart shape∈","I'm a little sad it's over.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -31,7 +31,7 @@ student that loves this classic that much.");
     VoicePlay("B040106500_01_020");
     MsgDisp("Kazama","You're right. To be able to make it into a
 heart no matter what direction you see it
-from...That's some amazing craftsmanship.");
+from... That's some amazing craftsmanship.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

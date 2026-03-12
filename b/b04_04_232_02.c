@@ -6,9 +6,9 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423202_04_000");
-MsgDisp("Nanatsumori","Come to think of it...did you know the
-legend that kissing at the top of the
-ferris wheel makes your love come true?");
+MsgDisp("Nanatsumori","Come to think of it...did you know the legend
+that kissing at the top of the ferris wheel
+makes your love come true?");
 MsgSel("Wow, what a wonderful jinx!","...Do you want to try it?","K-K-kiss∋");
 switch (MsgSelRsltGet()){
     case 0:
@@ -68,9 +68,9 @@ I'm asking you this seriously.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_070");
-        MsgDisp("Nanatsumori","If you reorganize it in your head, the
-flow of this conversation just now,
-...will go there, right?");
+        MsgDisp("Nanatsumori","If you reorganize it in your head, the flow
+of this conversation just now, ...will go
+there, right?");
         MsgDisp("主人公","...Ah.");
         ChEye(4,2);
         ChMouth(4,3);
@@ -91,8 +91,8 @@ the most harmful thing.");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040423202_04_110");
-        MsgDisp("Nanatsumori","That's why....you shouldn't fluster the
-other person, but look at them properly.");
+        MsgDisp("Nanatsumori","That's why....you shouldn't fluster the other
+person, but look at them properly.");
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_120");
         MsgDisp("Nanatsumori","I can still stay calm.

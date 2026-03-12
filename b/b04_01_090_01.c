@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040109001_01_000");
-MsgDisp("Kazama","With this many plants, it must be a real
-pain to pollinate them all.");
+MsgDisp("Kazama","With this many plants, it must be a real pain
+to pollinate them all.");
 MsgSel("Want to get some honey from here as a souvenir?","Are there a lot of bugs here?","Are there butterflies hard at work here?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -41,8 +41,8 @@ Well, you're probably right.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040109001_01_030");
     MsgDisp("Kazama","That's probably right.
-You can see a lot of insects around here
-too, not just plants.");
+You can see a lot of insects around here too,
+not just plants.");
     MsgDispSksp(1,0);
     ChEye(1,0);
     MsgDateResultDisp();

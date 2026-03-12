@@ -11,7 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040204500_02_000");
     MsgDisp("Sassa","Yeah, there was an intense scene in the
-middle. I almost teared up.");
+middle.
+I almost teared up.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -22,8 +23,8 @@ middle. I almost teared up.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040204500_02_010");
-    MsgDisp("Sassa","Yeah, it's impressive they can memorize
-all those long lines.");
+    MsgDisp("Sassa","Yeah, it's impressive they can memorize all
+those long lines.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

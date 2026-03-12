@@ -70,7 +70,7 @@ SEPlay("EV_SE_827",0.1);
 SEWait();
 ScrFadeIn(0);
 MsgDisp("","She placed two desserts on my table.");
-MsgDisp("","\"Banana＆chocolate sundaeー\" and
+MsgDisp("","\"Banana＆chocolate sundae—\" and
 \"Biscuit kingdom\"...");
 MsgDisp("","I see...that's how it is!");
 MsgClear();

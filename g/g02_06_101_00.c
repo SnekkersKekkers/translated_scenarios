@@ -31,7 +31,7 @@ ChMotion(6,0);
 VoicePlay("G020610100_06_040");
 MsgDisp("Himuro","It's a contest to see who can shine the
 brightest. If you slack off even a little,
-you lose. ——Everyone is tough
+you lose. Everyone is tough
 competition.");
 ChEye(6,0);
 ChMouth(6,0);

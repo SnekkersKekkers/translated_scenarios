@@ -77,7 +77,7 @@ usual self too.");
     MsgDisp("Honda","Ah, it's time.
 Have fun!");
     MsgDisp("主人公","Thank you, I'm off now!");
-    MsgDisp("主人公","(Alーright, I'll do it perfectly!)");
+    MsgDisp("主人公","(Al—right, I'll do it perfectly!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

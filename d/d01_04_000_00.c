@@ -68,7 +68,7 @@ SEStop("EV_SE_511",2);
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400000_04_010");
-MsgDisp("Witch","Then look this way——");
+MsgDisp("Witch","Then look this way—");
 StlEye(4,1);
 StlMouth(4,1);
 StlNear(1,0,15);

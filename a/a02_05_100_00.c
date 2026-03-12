@@ -14,7 +14,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf100",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The art store, where was it——)");
+MsgDisp("主人公","(The art store, where was it—)");
 SEPlay("EV_SE_049");
 Wait(10,0);
 ScrQuake(1);
@@ -47,7 +47,7 @@ StlMouth(5,0);
 VoicePlay("A020510000_05_020");
 MsgDisp("Hiiragi?","Actually, it's my fault for standing around
 with such a big armful.");
-MsgDisp("主人公","No no, it's me wh——");
+MsgDisp("主人公","No no, it's me wh—");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("A020510000_05_030");

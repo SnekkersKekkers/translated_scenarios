@@ -23,8 +23,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330C30700_06_010");
-MsgDisp("Himuro","I drew her again and again at sketch
-sessions in Elementary School.");
+MsgDisp("Himuro","I drew her again and again at sketch sessions
+in Elementary School.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -41,8 +41,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330C30700_06_020");
-MsgDisp("Himuro","...If Yanosuke-senpai wants to try it,
-that's fine.");
+MsgDisp("Himuro","...If Yanosuke-senpai wants to try it, that's
+fine.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -93,8 +93,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C30700_07_030");
-MsgDisp("Mikage","Now that we've come this far, let's color
-it and finish it off on our own.
+MsgDisp("Mikage","Now that we've come this far, let's color it
+and finish it off on our own.
 Today's sketching contest ends here.");
 ChEye(6,0);
 ChMouth(6,3);

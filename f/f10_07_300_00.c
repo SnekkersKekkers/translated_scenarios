@@ -31,7 +31,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F100730000_07_000");
 MsgDisp("Mikage","No need to be so harsh, right?
-Besides, this isn't fashion, it's——");
+Besides, this isn't fashion, it's—");
 ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);

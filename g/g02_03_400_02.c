@@ -50,7 +50,7 @@ ChMotion(3,0);
 VoicePlay("G020340002_03_060");
 MsgDisp("Honda","Ah, I see.
 Sorry, didn't mean to worry you.");
-MsgDisp("主人公","Eh, but——");
+MsgDisp("主人公","Eh, but—");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);

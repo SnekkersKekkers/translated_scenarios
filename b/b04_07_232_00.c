@@ -32,8 +32,8 @@ I'm glad.");
     ChMotion(7,1);
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723200_07_020");
-    MsgDisp("Mikage","I understand the feeling of wanting to
-close your eyes.");
+    MsgDisp("Mikage","I understand the feeling of wanting to close
+your eyes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +45,7 @@ close your eyes.");
     ChMotion(7,5);
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723200_07_030");
-    MsgDisp("Mikage","Wait, wait, then no one was having any
-fun?");
+    MsgDisp("Mikage","Wait, wait, then no one was having any fun?");
     MsgDateResultDisp();
     break ;
     default :

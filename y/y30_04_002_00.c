@@ -14,7 +14,7 @@ MsgDisp("","I also definitely wouldn't have
 become a model.");
 MsgClear();
 MsgDisp("","\"Reality\" is bothersome.");
-MsgDisp("","That's why—— I wanted to live in a
+MsgDisp("","That's why— I wanted to live in a
 dream world where I could carelessly
 be satisfied with most things.
 Outside of electricity bills, I
@@ -79,7 +79,7 @@ MsgDisp("Man","\"Ah, this is what I do. I am in
 charge of looking for new talent at
 the Habataki City model offices.\"");
 MsgDisp("","Huh? This office, if I'm not
-mistak—— Isn't that the place that
+mistak— Isn't that the place that
 debuts legendary high school models?");
 MsgClear();
 MsgDisp("","I only took his business card, and

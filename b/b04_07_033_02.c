@@ -42,8 +42,8 @@ I can't refute a single word.");
         ChMouth(7,3);
         ChMotion(7,0);
         VoicePlay("B040703302_07_030");
-        MsgDisp("Mikage","When you're in trouble, close your eyes
-and count to ten. You'll get used to it.
+        MsgDisp("Mikage","When you're in trouble, close your eyes and
+count to ten. You'll get used to it.
 That's adapting to the dark.");
         MsgDisp("主人公","Yes.
 Are there any other adaptations?");
@@ -57,8 +57,7 @@ And altitude adaptation...no, never mind.");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040703302_07_050");
-        MsgDisp("Mikage","That would make things easier, wouldn't
-it?");
+        MsgDisp("Mikage","That would make things easier, wouldn't it?");
         MsgDisp("主人公","Then, next time let's go somewhere high up
 and count to 10 together?");
         ChEye(7,0);
@@ -92,8 +91,8 @@ It's scary to get accustomed to things.");
     ChMotion(7,0);
     VoicePlay("B040703302_07_090");
     MsgDisp("Mikage","There are a lot of high quality fish.
-Kinki, blackthroat sea perch, aaah, I
-want to eat them.");
+Kinki, blackthroat sea perch, aaah, I want to
+eat them.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -8,14 +8,14 @@ VoicePlay("B070300000_03_370");
 MsgDisp("Honda","Dreams, huh!
 I'm interested in how dreams work but I
 suppose that's not what you want, huh?");
-MsgDisp("主人公","Hehe, I'm talking about your aspirations
-for the future.");
+MsgDisp("主人公","Hehe, I'm talking about your aspirations for
+the future.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300000_03_380");
-MsgDisp("Honda","I guess becoming an elementary school
-teacher is a strong possibility?");
+MsgDisp("Honda","I guess becoming an elementary school teacher
+is a strong possibility?");
 MsgDisp("主人公","Elementary school teacher?
 Not a university professor?");
 ChEye(3,0);
@@ -24,8 +24,7 @@ ChMotion(3,1);
 VoicePlay("B070300000_03_390");
 MsgDisp("Honda","Yepyep, the elementary school part is
 especially important.");
-MsgDisp("主人公","I see, ｛Honda＊＊｝ must love children,
-huh?");
+MsgDisp("主人公","I see, ｛Honda＊＊｝ must love children, huh?");
 ChMouth(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -37,12 +36,12 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B070300000_03_410");
-MsgDisp("Honda","Elementary schools get to teach all
-subjects, right? Japanese, Mathematics,
-Science, Social Studies∈");
-MsgDisp("主人公","That makes sense. You know so many
-different things, so it's perfect for you,
-｛Honda＊＊｝.");
+MsgDisp("Honda","Elementary schools get to teach all subjects,
+right? Japanese, Mathematics, Science, Social
+Studies∈");
+MsgDisp("主人公","That makes sense.
+You know so many different things, so it's
+perfect for you, ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

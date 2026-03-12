@@ -6,8 +6,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040110500_01_000");
-MsgDisp("Kazama","Are you interested in the modern art
-exhibit?");
+MsgDisp("Kazama","Are you interested in the modern art exhibit?");
 MsgSel("It's hard to understand, but interesting, right?","Yeah, there's a lot of fascinating works.","Not really.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -32,8 +31,8 @@ Well, that's the way it goes then.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040110500_01_020");
     MsgDisp("Kazama","No kidding.
-I don't think there's anything harder to
-get than the modern art exhibit.");
+I don't think there's anything harder to get
+than the modern art exhibit.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -42,9 +41,9 @@ get than the modern art exhibit.");
     ChMouth(1,3);
     ChMotion(1,4);
     VoicePlay("B040110500_01_030");
-    MsgDisp("Kazama","Right? I think the work is interesting,
-but I can't help but think about the
-future sales value...What a bad habit.");
+    MsgDisp("Kazama","Right? I think the work is interesting, but I
+can't help but think about the future sales
+value... What a bad habit.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

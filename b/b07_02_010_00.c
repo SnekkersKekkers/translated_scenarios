@@ -13,8 +13,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B070201000_02_000");
-MsgDisp("Sassa","Hey, you know how you asked me before
-about what love means to me?");
+MsgDisp("Sassa","Hey, you know how you asked me before about
+what love means to me?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -27,9 +27,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B070201000_02_020");
-MsgDisp("Sassa","After that, I thought about it in my own
-way, and love just doesn't rank in my
-priorities.");
+MsgDisp("Sassa","After that, I thought about it in my own way,
+and love just doesn't rank in my priorities.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -43,8 +42,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070201000_02_040");
 MsgDisp("Sassa","But you know, that's completely wrong.
-How can I put working out in the same slot
-as love?");
+How can I put working out in the same slot as
+love?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -55,9 +54,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070201000_02_060");
-MsgDisp("Sassa","...When I realized that, I started
-thinking about you non-stop. Above
-everything else, you were in the lead.");
+MsgDisp("Sassa","...When I realized that, I started thinking
+about you non-stop.
+Above everything else, you were in the lead.");
 MsgDisp("主人公","Eh, me?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -97,6 +96,6 @@ BGMStop();
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(｛Sassa＊＊｝ equates me with love?
-That's——)");
+That's—)");
 MsgClose();
 ScrFadeOut(0);

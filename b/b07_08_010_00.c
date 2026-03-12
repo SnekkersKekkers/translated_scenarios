@@ -32,8 +32,8 @@ What, isn't it the same thing!");
 MsgDisp("主人公","Eh?");
 ChMotion(8,0,1);
 VoicePlay("B070801000_08_040");
-MsgDisp("Shirahane","Isn't this the same question ya asked me
-the other day?");
+MsgDisp("Shirahane","Isn't this the same question ya asked me the
+other day?");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -52,8 +52,8 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("B070801000_08_070");
 MsgDisp("Shirahane","Yeah.
-When it comes to love, we both have the
-same amount of experience.");
+When it comes to love, we both have the same
+amount of experience.");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,2,1);

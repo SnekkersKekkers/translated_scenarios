@@ -38,8 +38,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B30500_03_010");
 MsgDisp("Honda","Mi-kun, was there a band you liked?
-It looked like you were pretty quiet
-during the show.");
+It looked like you were pretty quiet during
+the show.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
@@ -57,8 +57,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30500_04_020");
 MsgDisp("Nanatsumori","I don't know the bands, but when you hear
-them live at a livehouse, don't they all
-feel cool?");
+them live at a livehouse, don't they all feel
+cool?");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -19,8 +19,8 @@ ChOpen(8,255,0,4,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(8,2);
 VoicePlay("B030804000_08_010");
-MsgDisp("Shirahane","The atmosphere before a show sure has its
-own vibe, huh...
+MsgDisp("Shirahane","The atmosphere before a show sure has its own
+vibe, huh...
 I'm gettin' a little nervous...");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe.

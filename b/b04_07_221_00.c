@@ -38,8 +38,8 @@ creak...right?");
     ChMouth(7,3);
     ChMotion(7,4);
     VoicePlay("B040722100_07_030");
-    MsgDisp("Mikage","It would be a great help if you could hold
-my hand.");
+    MsgDisp("Mikage","It would be a great help if you could hold my
+hand.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

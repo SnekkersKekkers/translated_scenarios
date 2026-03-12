@@ -8,7 +8,7 @@ VoicePlay("B040308301_03_000");
 MsgDisp("Honda","Hey hey, did you hear the rumours of this
 place? The thing where you can hear your
 companion's true thoughts.");
-MsgSel("I might want to hear ｛Honda＊＊｝'s true thoughts.","It's a bit scary...","Shhー, try being a bit quieter.");
+MsgSel("I might want to hear ｛Honda＊＊｝'s true thoughts.","It's a bit scary...","Shh—, try being a bit quieter.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B040308301_03_010");
-    MsgDisp("Honda","? Sure, ask me anything.");
+    MsgDisp("Honda","?
+Sure, ask me anything.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +28,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("B040308301_03_020");
-    MsgDisp("Honda","Is there something you're worried I'll
-hear?");
+    MsgDisp("Honda","Is there something you're worried I'll hear?");
     MsgDateResultDisp();
     break ;
     case 2:

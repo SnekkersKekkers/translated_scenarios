@@ -11,7 +11,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020430201_04_010");
-MsgDisp("Nanatsumori","Ahー ...
+MsgDisp("Nanatsumori","Ah— ...
 I get it.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -51,7 +51,7 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("G020430201_04_070");
 MsgDisp("Nanatsumori","I'm a bit slow at making those, so I
-wonder if I'll struggle from now onー...
+wonder if I'll struggle from now on—...
 Haa");
 ChEye(4,2);
 ChMouth(4,4);

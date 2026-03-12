@@ -16,8 +16,8 @@ switch (ChPrmGet(1,6)){
     ChSet(1,0,1);
     ScrFadeIn(0);
     VoicePlay("B060100002_01_010");
-    MsgDisp("Kazama","I guess it's fine because I got to see
-your face.");
+    MsgDisp("Kazama","I guess it's fine because I got to see your
+face.");
     MsgDispSksp(0);
     break ;
     case 4:

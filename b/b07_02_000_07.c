@@ -1,5 +1,5 @@
-MsgDisp("主人公","I want to know ｛Sassa＊＊｝'s dreams for
-the future.");
+MsgDisp("主人公","I want to know ｛Sassa＊＊｝'s dreams for the
+future.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -10,9 +10,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B070200000_02_350");
-MsgDisp("Sassa","If I can't win the Inter-High the way I
-want, I don't even have the right to talk
-about what comes after, not even as dreams.");
+MsgDisp("Sassa","If I can't win the Inter-High the way I want,
+I don't even have the right to talk about
+what comes after, not even as dreams.");
 MsgDisp("主人公","All I can do is cheer you on.
 Even so, ｛Sassa＊＊｝, good luck.");
 ChEye(2,0);

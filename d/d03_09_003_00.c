@@ -51,7 +51,7 @@ VoicePlay("D030900300_09_050");
 MsgDisp("Kuya?","Thank me?
 For what, I wonder...");
 MsgDisp("主人公","The day we first met, you helped me when I
-fell——");
+fell—");
 StlEye(9,1);
 VoicePlay("D030900300_09_060");
 MsgDisp("Kuya?","Ah, the kiss.");
@@ -153,7 +153,7 @@ keen sense for \"style\".
 I'll cheer you on from the shadows.");
 MsgDisp("主人公","Thank you so much.
 Uhm, actually, I was wondering if I could
-interview——");
+interview—");
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_180");
 MsgDisp("Kuya","Here we are, then.

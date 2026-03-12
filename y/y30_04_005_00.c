@@ -42,7 +42,7 @@ MsgClear();
 MsgDisp("","I had planned on staying for my
 mother's hospitality in the living
 room for a little while before
-returning to my room——");
+returning to my room—");
 SEPlay("EV_SE_DOOR_007");
 SEWait();
 MsgDisp("","Seems like I was too late...");
@@ -50,7 +50,7 @@ MsgClear();
 VoicePlay("Y300400500_46_000");
 MsgDisp("Nana Sis","\"Hello～!
 Nice to meet you, I'm his sister\"");
-MsgDisp("","The final boss abruptly appears ——
+MsgDisp("","The final boss abruptly appears —
 With a smile, she introduces herself
 to my sister.");
 MsgDisp("","I hope this event ends soon...");

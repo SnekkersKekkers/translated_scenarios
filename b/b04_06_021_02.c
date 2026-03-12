@@ -45,8 +45,8 @@ everyday life though?");
         ChMotion(6,0);
         VoicePlay("B040602102_06_030");
         MsgDisp("Himuro","I see...
-Escapism is nonsense, but times like this
-are necessary too.");
+Escapism is nonsense, but times like this are
+necessary too.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -58,14 +58,12 @@ guard once in a while.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602102_06_050");
-        MsgDisp("Himuro","Even though you're usually so
-unassuming.");
+        MsgDisp("Himuro","Even though you're usually so unassuming.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602102_06_060");
-        MsgDisp("Himuro","...I also want to get some form of
-payback.");
+        MsgDisp("Himuro","...I also want to get some form of payback.");
         MsgDisp("主人公","Ehh.
 Payback...");
         ChEye(6,0);
@@ -73,22 +71,20 @@ Payback...");
         ChMotion(6,4);
         VoicePlay("B040602102_06_070");
         MsgDisp("Himuro","Stuff like being able to see through your
-thoughts, saying things that hit the nail
-on the head, catching you off guard.");
+thoughts, saying things that hit the nail on
+the head, catching you off guard.");
         ChEye(6,0);
         ChMouth(6,2);
         ChMotion(6,2);
         VoicePlay("B040602102_06_080");
-        MsgDisp("Himuro","...Haa, I feel like I can't do that at
-all.");
+        MsgDisp("Himuro","...Haa, I feel like I can't do that at all.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         ChCheek(6,10);
         VoicePlay("B040602102_06_090");
         MsgDisp("Himuro","If I could see through your thoughts, I
-wouldn't be that troubled in the first
-place.");
+wouldn't be that troubled in the first place.");
         MsgDisp("主人公","｛Himuro＊＊｝, you're feeling troubled?");
         ChEye(6,0);
         ChMouth(6,0);

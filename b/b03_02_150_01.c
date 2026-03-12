@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3,1);
     VoicePlay("B030215000_02_010");
-    MsgDisp("Sassa","Alright!
-300 points for a perfect score!");
+    MsgDisp("Sassa","Alright! 300 points for a perfect score!");
     MsgDispSksp(0);
     break ;
     case 1:

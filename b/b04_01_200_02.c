@@ -7,9 +7,9 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040120002_01_000");
-MsgDisp("Kazama","The weather at the foot is great, but
-what about up top? They say mountain
-weather changes fast.");
+MsgDisp("Kazama","The weather at the foot is great, but what
+about up top?
+They say mountain weather changes fast.");
 MsgSel("Yeah, let's be careful","Let's be careful not to get stranded!","As does a woman's heart...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040120002_01_010");
-    MsgDisp("Kazama","That's right, you can never be too
-careful.");
+    MsgDisp("Kazama","That's right, you can never be too careful.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,8 +29,7 @@ careful.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040120002_01_020");
-    MsgDisp("Kazama","Right, we don't have any winter camping
-gear.");
+    MsgDisp("Kazama","Right, we don't have any winter camping gear.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -61,18 +59,18 @@ scary.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_040");
-        MsgDisp("Kazama","Wait a minute, you're aware of that?
-You look around restlessly, stick your
-nose into everything—you're curiosity
-personified.");
+        MsgDisp("Kazama","Wait a minute, you're aware of that? You look
+around restlessly, stick your nose into
+everything—you're curiosity personified.");
         MsgDisp("主人公","Umm...");
         ChEye(1,2);
         ChMouth(1,1);
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_050");
-        MsgDisp("Kazama","There it is. \"Umm...\" No.
-Put yourself in my shoes for once!");
+        MsgDisp("Kazama","There it is.
+\"Umm...\"
+No. Put yourself in my shoes for once!");
         MsgDisp("主人公","｛Kazama＊＊｝, are you angry?");
         ChEye(1,1);
         ChMouth(1,2);
@@ -86,9 +84,9 @@ Put yourself in my shoes for once!");
         ChMotion(1,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_080");
-        MsgDisp("Kazama","Phewwー, I'm not angryー. It's just that
-the stuff you randomly throw out there
-hits me right where it hurts.");
+        MsgDisp("Kazama","Pheww—, I'm not angry—.
+It's just that the stuff you randomly throw
+out there hits me right where it hurts.");
         MsgDisp("主人公","I'm sorry...
 I won't say it anymore, okay?");
         ChEye(1,1);
@@ -97,7 +95,7 @@ I won't say it anymore, okay?");
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040120002_01_090");
-        MsgDisp("Kazama","Ahhhー, it's fine.
+        MsgDisp("Kazama","Ahhh—, it's fine.
 Just stay the way you are.");
         ChEye(1,2);
         ChMouth(1,2);
@@ -106,8 +104,7 @@ Just stay the way you are.");
         ChCheek(1,0);
         VoicePlay("B040120002_01_100");
         MsgDisp("Kazama","Haa..
-It was a battle I had no chance of
-winning...");
+It was a battle I had no chance of winning...");
         MsgDisp("主人公","(When you say \"chance of winning\", against
 what???)");
         break ;

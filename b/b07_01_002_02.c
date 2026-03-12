@@ -1,21 +1,20 @@
-MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking
-to ｛Nanatsumori＊｝ a lot, haven't you?");
+MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking to
+｛Nanatsumori＊｝ a lot, haven't you?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B070100002_01_070");
-MsgDisp("Kazama","Maybe? I got the impression he didn't talk
-much but, he's actually quite interesting
-to talk to.");
+MsgDisp("Kazama","Maybe?
+I got the impression he didn't talk much but,
+he's actually quite interesting to talk to.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_080");
-MsgDisp("Kazama","Despite how he looks, he's got a sweet
-tooth.
+MsgDisp("Kazama","Despite how he looks, he's got a sweet tooth.
 Not that I dislike it either.");
-MsgDisp("主人公","｛Kazama＊＊｝ and ｛Nanatsumori＊｝ talk
-about sweets together huh?
+MsgDisp("主人公","｛Kazama＊＊｝ and ｛Nanatsumori＊｝ talk about
+sweets together huh?
 That's kind of cute.");
 ChEye(1,0);
 ChMouth(1,1);
@@ -23,11 +22,10 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B070100002_01_090");
-MsgDisp("Kazama","What's cute about it?! Don't get the wrong
-idea, it just comes up sometimes. We don't
-always talk about sweets.");
-MsgDisp("主人公","What other sorts of things do you talk
-about?");
+MsgDisp("Kazama","What's cute about it?!
+Don't get the wrong idea, it just comes up
+sometimes. We don't always talk about sweets.");
+MsgDisp("主人公","What other sorts of things do you talk about?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

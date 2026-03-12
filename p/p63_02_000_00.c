@@ -29,14 +29,14 @@ We grew it.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P630200000_02_020");
-    MsgDisp("Sassa","Ehhhー, is it tasty?");
+    MsgDisp("Sassa","Ehhh—, is it tasty?");
     MsgDisp("主人公","We can prepare a blend that's easy to
 drink for your first time trying it♪");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P630200000_02_030");
-    MsgDisp("Sassa","Ehhhー,that's pretty good.");
+    MsgDisp("Sassa","Ehhh—,that's pretty good.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

@@ -34,8 +34,8 @@ end.");
     ChMouth(1,0);
     ChMotion(1,4);
     VoicePlay("B040104400_01_020");
-    MsgDisp("Kazama","It's enough that we were able to just
-spend that time together.");
+    MsgDisp("Kazama","It's enough that we were able to just spend
+that time together.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

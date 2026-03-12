@@ -32,8 +32,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B360323600_03_020");
 MsgDisp("Honda","Yup.
-I want to have you all to myself——
-that's what makes it a special day!");
+I want to have you all to myself— that's
+what makes it a special day!");
 MsgDisp("主人公","Huh..?");
 ChEye(3,3);
 ChMouth(3,3);

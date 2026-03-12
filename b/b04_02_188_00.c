@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("B040218800_02_000");
-    MsgDisp("Sassa","That surprise after the end credits
-totally got me.");
+    MsgDisp("Sassa","That surprise after the end credits totally
+got me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,8 +37,8 @@ It was hard to not laugh.");
     ChMotion(2,0);
     VoicePlay("B040218800_02_020");
     MsgDisp("Sassa","Ehh?
-I think I'll be laughing at this for a
-while though...");
+I think I'll be laughing at this for a while
+though...");
     MsgDateResultDisp();
     break ;
     default :

@@ -10,8 +10,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360403201_04_000");
-MsgDisp("Nanatsumori","At this time of day, there are more
-couples here.");
+MsgDisp("Nanatsumori","At this time of day, there are more couples
+here.");
 MsgDisp("主人公","Hmm...");
 ChEye(4,2);
 ChMouth(4,3);
@@ -56,12 +56,11 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360403201_04_070");
-MsgDisp("Nanatsumori","You got itー.
-Just watching your facial expressions is
-fun.");
+MsgDisp("Nanatsumori","You got it—.
+Just watching your facial expressions is fun.");
 MsgDisp("主人公","Hey!
-We came to the aquarium, so let's look at
-the fish!");
+We came to the aquarium, so let's look at the
+fish!");
 ChEye(4,3);
 ChMouth(4,3);
 VoicePlay("B360403201_04_080");

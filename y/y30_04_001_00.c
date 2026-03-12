@@ -14,7 +14,7 @@ legendary high school model, Hazuki
 Kei.");
 MsgClear();
 MsgDisp("","...This is a strange feeling.
-How should I put it——");
+How should I put it—");
 MsgDisp("","Is it okay to be conceited?");
 MsgDisp("","A successful high school model.
 I...it's not an exaggeration to say
@@ -114,7 +114,7 @@ reason I put on airs isn't to look
 cool. And it's not particularly when
 you're in front of me...");
 MsgDisp("","I'm not being influenced by
-Hazuki-sa——");
+Hazuki-sa—");
 MsgClear();
 MsgDisp("","As she continued to laugh lightly,
 the continuation of the words in my

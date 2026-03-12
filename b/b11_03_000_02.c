@@ -1,8 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Hm...looks like ｛Honda＊＊｝ isn't here
-yet.");
+MsgDisp("主人公","Hm...looks like ｛Honda＊＊｝ isn't here yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -24,9 +23,9 @@ MsgDisp("主人公","Excuse me?");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110300002_35_020");
-MsgDisp("Guy","Oh, sorry about that! I'm actually out of
-business cards right now. Despite how it
-looks, I'm——");
+MsgDisp("Guy","Oh, sorry about that!
+I'm actually out of business cards right now.
+Despite how it looks, I'm—");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChPosition(35,1);
@@ -47,8 +46,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 MsgDispSksp(1,5);
 VoicePlay("B110300002_03_010");
-MsgDisp("Honda","Yeah, you must be a CEO of a big company
-or something?");
+MsgDisp("Honda","Yeah, you must be a CEO of a big company or
+something?");
 MsgDispSksp(0);
 ChEye(35,0);
 ChMouth(35,0);
@@ -85,7 +84,7 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B110300002_03_040");
 MsgDisp("Honda","No, it's my fault.
-Because I was late the gold jacket guy
-showed up.");
+Because I was late the gold jacket guy showed
+up.");
 MsgDisp("主人公","(｛Honda＊＊｝...somehow, you were really
 reliable.)");

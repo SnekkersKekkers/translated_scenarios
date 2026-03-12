@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
         ChMotion(6,5);
         VoicePlay("B040620000_06_010");
         MsgDisp("Himuro","What's with that?
-But, I guess I do have no choice but to
-call you that.");
+But, I guess I do have no choice but to call
+you that.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -30,8 +30,8 @@ call you that.");
         ChMotion(6,4);
         ChEyeOpenLevel(6,7);
         VoicePlay("B040620000_06_020");
-        MsgDisp("Himuro","...What you're saying doesn't match up
-with your abilities.");
+        MsgDisp("Himuro","...What you're saying doesn't match up with
+your abilities.");
         MsgDateResultDisp();
         }
     break ;
@@ -41,8 +41,9 @@ with your abilities.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040620000_06_030");
-    MsgDisp("Himuro","Isn't that enough? It's not like it's a
-competition. Come on. Let's ski.");
+    MsgDisp("Himuro","Isn't that enough?
+It's not like it's a competition.
+Come on. Let's ski.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

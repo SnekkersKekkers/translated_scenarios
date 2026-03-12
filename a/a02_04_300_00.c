@@ -30,7 +30,7 @@ SEWait();
 BGOpen("ar110",0);
 ScrFadeIn(0);
 ChMotion(4,2);
-MsgDisp("主人公","Here's your menu, sorry for the wai——");
+MsgDisp("主人公","Here's your menu, sorry for the wai—");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_010");
@@ -74,7 +74,7 @@ ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Eh...?
 Excuse me, the customer who was seated
-here——");
+here—");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_040");
@@ -118,7 +118,7 @@ ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("A020430000_04_080");
 MsgDisp("Nanatsumori?","Thanks for the food.");
-MsgDisp("主人公","Thank you for coming, now, for the bill——");
+MsgDisp("主人公","Thank you for coming, now, for the bill—");
 SEPlay("EV_SE_043");
 SEWait();
 MsgClose();

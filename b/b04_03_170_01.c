@@ -24,8 +24,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040317001_03_020");
     MsgDisp("Honda","That one?
-But it looks like the stomach area will
-get cold.");
+But it looks like the stomach area will get
+cold.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

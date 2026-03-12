@@ -107,8 +107,8 @@ Sorry for the trouble...");
         MsgClose();
         ChOpen(5,255,0,2,4,#1,#1,0,0);
         VoicePlay("B040511102_05_120");
-        MsgDisp("Hiiragi","I think it will be difficult for me to
-turn your idea into a reality...");
+        MsgDisp("Hiiragi","I think it will be difficult for me to turn
+your idea into a reality...");
         MsgDisp("主人公","(Phew, thank goodness nobody got hurt...)");
         break ;
         default :

@@ -5,8 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040722102_07_000");
-MsgDisp("Mikage","Today we're going to investigate the role
-of the castle tower.");
+MsgDisp("Mikage","Today we're going to investigate the role of
+the castle tower.");
 MsgSel("Apparently it's the last place to barricade yourself in.","Isn't it where the lord resides?","It's a viewing platform, isn't it!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ It's not a penthouse.");
     ChMotion(7,4);
     VoicePlay("B040722102_07_020");
     MsgDisp("Mikage","Apparently not.
-If you look carefully, you'll see it's
-quite modest.");
+If you look carefully, you'll see it's quite
+modest.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -58,8 +58,8 @@ You really like high places don't you?");
         VoicePlay("B040722102_07_040");
         MsgDisp("Mikage","You really like high places, don't you?");
         MsgDisp("主人公","Ah, sorry...
-｛Mikage＊＊｝ isn't great with high
-places, right?");
+｛Mikage＊＊｝ isn't great with high places,
+right?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -72,8 +72,8 @@ You like the pretty scenery, right?");
         VoicePlay("B040722102_07_060");
         MsgDisp("Mikage","From now on, you will continue to see
 beautiful views, and hone your senses.");
-        MsgDisp("主人公","But, it would be even better if I would
-see it with ｛Mikage＊＊｝...");
+        MsgDisp("主人公","But, it would be even better if I would see
+it with ｛Mikage＊＊｝...");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -93,8 +93,7 @@ I'll take three steps forward.");
         SEPlay("EV_SE_544");
         ChOpen(7,254,4,0,4,#1,#1,0,0);
         MsgDisp("主人公","Ehh∋
-｛Mikage＊＊｝, you're going the other
-way?");
+｛Mikage＊＊｝, you're going the other way?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,3);

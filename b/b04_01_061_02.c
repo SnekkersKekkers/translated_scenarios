@@ -6,8 +6,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040106102_01_000");
-MsgDisp("Kazama","Listen, there are dangerous creatures
-out here. Don't go near or touch them.
+MsgDisp("Kazama","Listen, there are dangerous creatures out
+here. Don't go near or touch them.
 And going barefoot is banned.");
 MsgSel("Right, like jellyfish and such","Hehe, you're such a worrier","Umm, like a man-eating shark?");
 switch (MsgSelRsltGet()){
@@ -64,9 +64,9 @@ man-eating sharks.");
         ChMotion(1,3);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040106102_01_050");
-        MsgDisp("Kazama","That right there. That airheaded vibe.
-You already stand out way too much,
-and people just flock to you...");
+        MsgDisp("Kazama","That right there.
+That airheaded vibe. You already stand out
+way too much, and people just flock to you...");
         MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEye(1,0);
         ChMouth(1,1);
@@ -83,8 +83,9 @@ You're basically just bait.");
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("B040106102_01_070");
-        MsgDisp("Kazama","No, that's just how amazing your 
-attraction powers are. Especially today.");
+        MsgDisp("Kazama","No, that's just how amazing your attraction
+powers are.
+Especially today.");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,0);
@@ -93,8 +94,8 @@ attraction powers are. Especially today.");
         VoicePlay("B040106102_01_080");
         MsgDisp("Kazama","You understand?
 So leaving my side today is prohibited.");
-        MsgDisp("主人公","(Seems like ｛Kazama＊＊｝ is banning more
-and more things these days...)");
+        MsgDisp("主人公","(Seems like ｛Kazama＊＊｝ is banning more and
+more things these days...)");
         break ;
         default :
         DbgAssert(1);

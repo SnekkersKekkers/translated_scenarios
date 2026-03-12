@@ -23,8 +23,8 @@ SEPlay("EV_SE_550");
 MsgClose();
 ChOpen(2,31,3,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110200001_02_000");
-MsgDisp("Sassa","Of course not. Don't just take someone's
-name as you like.");
+MsgDisp("Sassa","Of course not.
+Don't just take someone's name as you like.");
 MsgDisp("主人公","Ah, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -50,8 +50,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B110200001_02_030");
 MsgDisp("Sassa","Hey, you...
-Have you been standing here this whole
-time?");
+Have you been standing here this whole time?");
 MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);
@@ -79,7 +78,7 @@ ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110200001_34_050");
 MsgDisp("Guy","Eh, no way.
-Don't report me to the adminsー!");
+Don't report me to the admins—!");
 SEPlay("EV_SE_580");
 MsgClose();
 ChClose(34);
@@ -101,8 +100,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B110200001_02_080");
 MsgDisp("Sassa","Anyways, I'm sorry.
-I got held up, and you ended up in this
-scary situation.");
+I got held up, and you ended up in this scary
+situation.");
 MsgDisp("主人公","No, I'm alright.
 Thank you for helping me.
 ｛Sassa＊＊｝ is kind, isn't he?");

@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(3,0);
     VoicePlay("B040321100_03_010");
     MsgDisp("Honda","Yep yep.
-I somewhat even want to go inside the
-cage.");
+I somewhat even want to go inside the cage.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

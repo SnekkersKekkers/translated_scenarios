@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey ｛Honda＊＊｝, what were you like in
-middle school?");
+MsgDisp("主人公","Hey ｛Honda＊＊｝, what were you like in middle
+school?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -18,9 +18,9 @@ ChMouth(3,4);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_330");
-MsgDisp("Honda","No, I couldn't do it. Just when I was
-getting close, they swapped out the
-library cards for a digital rental system.");
+MsgDisp("Honda","No, I couldn't do it. Just when I was getting
+close, they swapped out the library cards for
+a digital rental system.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -32,8 +32,8 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300000_03_350");
 MsgDisp("Honda","It isn't. If you can't remember if you've
-read it or not, that means you didn't
-really learn from it, right?");
+read it or not, that means you didn't really
+learn from it, right?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -42,8 +42,8 @@ MsgDisp("Honda","But thanks to that, I was freed from the
 library curse and started going outside.
 That's also when I discovered I love teaching.");
 MsgDisp("主人公","(...I see, as a junior high schooler
-｛Honda＊＊｝ was even more of a bookworm
-than he is now.)");
+｛Honda＊＊｝ was even more of a bookworm than
+he is now.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

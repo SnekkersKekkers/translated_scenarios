@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 ScrFadeIn(0);
 VoicePlay("B040120001_01_000");
-MsgDisp("Kazama","The weather is also nice, shall we go to
-the summit?");
+MsgDisp("Kazama","The weather is also nice, shall we go to the
+summit?");
 MsgSel("Let's take on a super hard course!","You shouldn't underestimate the winter mountains...","There's a two-person sled!");
 switch (MsgSelRsltGet()){
     case 0:

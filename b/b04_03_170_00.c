@@ -26,7 +26,8 @@ My voice is beautiful?");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040317000_03_020");
-    MsgDisp("Honda","Huh? But then the listener's role will be
+    MsgDisp("Honda","Huh?
+But then the listener's role will be
 diminished. Is that okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

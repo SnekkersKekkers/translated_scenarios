@@ -26,8 +26,8 @@ But before that, you're up first.");
     ChMotion(5,4);
     VoicePlay("B040517000_05_020");
     MsgDisp("Hiiragi","That won't do.
-If we sing together, I won't be able to
-enjoy your voice.");
+If we sing together, I won't be able to enjoy
+your voice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

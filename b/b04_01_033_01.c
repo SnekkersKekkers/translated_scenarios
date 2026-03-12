@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040103301_01_000");
-MsgDisp("Kazama","This atmosphere is a little different,
-just in this place.");
+MsgDisp("Kazama","This atmosphere is a little different, just
+in this place.");
 MsgSel("The jellyfish look like fairy lights","It's like time is moving slower","The darkness makes me a little sleepy...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040103301_01_010");
     MsgDisp("Kazama","Yeah, it's beautiful.
-And more eco-friendly than electric
-lights.");
+And more eco-friendly than electric lights.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,8 +30,7 @@ lights.");
     ChMotion(1,0);
     VoicePlay("B040103301_01_020");
     MsgDisp("Kazama","You're right.
-Deep sea creatures all seem to move
-slowly.");
+Deep sea creatures all seem to move slowly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

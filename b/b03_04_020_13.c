@@ -25,9 +25,9 @@ That's fine.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,10);
-    MsgDisp("Nanatsumori","∋ But that place is a date spo— No,
-nevermind.
-...Let's go.");
+    MsgDisp("Nanatsumori","∋
+But that place is a date spo—
+No, nevermind. ...Let's go.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

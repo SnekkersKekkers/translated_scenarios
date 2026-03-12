@@ -25,9 +25,9 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,0,1);
     VoicePlay("B040515102_05_020");
-    MsgDisp("Hiiragi","Definitely start with the appearances
-first. I suppose that's an affliction of
-my occupation?");
+    MsgDisp("Hiiragi","Definitely start with the appearances first.
+I suppose that's an affliction of my
+occupation?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -68,16 +68,15 @@ I phrased it weirdly.");
         ChMouth(5,4);
         ChMotion(5,2);
         VoicePlay("B040515102_05_060");
-        MsgDisp("Hiiragi","But, I really am familiar with it. Back
-when our theater group used to tour the
-country, we stayed in places with bowling
-alleys.");
+        MsgDisp("Hiiragi","But, I really am familiar with it. Back when
+our theater group used to tour the country,
+we stayed in places with bowling alleys.");
         MsgDisp("主人公","I see, hotels have bowling facilities.");
         ChEye(5,4);
         VoicePlay("B040515102_05_070");
         MsgDisp("Hiiragi","Indeed, but I wasn't allowed to play.
-Despite appearances, I've been a lead
-actor since I was little.");
+Despite appearances, I've been a lead actor
+since I was little.");
         MsgDisp("主人公","I see...");
         ChEye(5,0);
         ChMouth(5,3);
@@ -97,9 +96,9 @@ I grew up being cared for by everyone.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040515102_05_100");
-        MsgDisp("Hiiragi","That said, being able to go bowling
-anytime with the person I like might be
-the best time of my life.");
+        MsgDisp("Hiiragi","That said, being able to go bowling anytime
+with the person I like might be the best time
+of my life.");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you're exaggerating.)");
         break ;
         default :

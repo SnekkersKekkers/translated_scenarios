@@ -29,8 +29,8 @@ bubble ring in your face.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040103102_01_020");
-    MsgDisp("Kazama","I think there was an animated film about
-that awhile back.");
+    MsgDisp("Kazama","I think there was an animated film about that
+awhile back.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

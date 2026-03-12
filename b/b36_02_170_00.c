@@ -13,7 +13,7 @@ ChEyeOpenLevel(2,0);
 ScrFadeIn(0);
 Wait(30,0);
 VoicePlay("B360217000_02_000");
-MsgDisp("Sassa","Haaー, I sang so much!");
+MsgDisp("Sassa","Haa—, I sang so much!");
 MsgDisp("主人公","｛Sassa＊＊｝, won't you lose your voice?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -25,9 +25,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B360217000_02_020");
-MsgDisp("Sassa","Might as well act like we were meant to go
-to karaoke by ourselves in the first
-place.");
+MsgDisp("Sassa","Might as well act like we were meant to go to
+karaoke by ourselves in the first place.");
 MsgDisp("主人公","Ehh?
 If ｛Kazama＊＊｝ and ｛Himuro＊＊｝ hear that
 they'll get mad.");
@@ -36,8 +35,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360217000_02_030");
 MsgDisp("Sassa","Well, yeah.
-Both Ryota and Inori are strangely
-sensitive about these things.");
+Both Ryota and Inori are strangely sensitive
+about these things.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -48,8 +47,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B360217000_02_050");
-MsgDisp("Sassa","If I lose my voice, they'll find out I
-went to karaoke won't they?");
+MsgDisp("Sassa","If I lose my voice, they'll find out I went
+to karaoke won't they?");
 MsgDisp("主人公","Hmmm...
 They won't know from just that will they?");
 ChEye(2,0);

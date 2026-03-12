@@ -8,7 +8,7 @@ BGOpen("wf200",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The sunset is so beautiful from here...
 ...Hmm?
-Over there, is that——)");
+Over there, is that—)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ScrFadeOut(0,0);

@@ -16,8 +16,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A10700_01_000");
-MsgDisp("Kazama","Ah, this inkstone...This was in my
-Grandpa's storehouse a long time ago.
+MsgDisp("Kazama","Ah, this inkstone... This was in my Grandpa's
+storehouse a long time ago.
 Apparently I used it without permission.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(1,0);
@@ -25,8 +25,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A10700_01_010");
 MsgDisp("Kazama","Look, there's a bit of a scratch right?
-That's from when I roughly ground the
-ink.");
+That's from when I roughly ground the ink.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -55,15 +54,15 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10700_01_030");
-MsgDisp("Kazama","Apparently so. Of all things, I decided to
-play with this. It's become a funny topic
-now though.");
+MsgDisp("Kazama","Apparently so.
+Of all things, I decided to play with this.
+It's become a funny topic now though.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A10700_06_010");
-MsgDisp("Himuro","Ryota-senpai's commentary on his anecdotes
-is funny...");
+MsgDisp("Himuro","Ryota-senpai's commentary on his anecdotes is
+funny...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -86,22 +85,22 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("B330A10700_02_020");
-MsgDisp("Sassa","I mean, would four friends normally come
-here on a day off?");
+MsgDisp("Sassa","I mean, would four friends normally come here
+on a day off?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10700_01_050");
-MsgDisp("Kazama","If you thought that, you should have said
-so earlier.
+MsgDisp("Kazama","If you thought that, you should have said so
+earlier.
 ...Geez.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330A10700_06_030");
-MsgDisp("Himuro","But now, I might even be willing to ask
-you to bring us here again.");
+MsgDisp("Himuro","But now, I might even be willing to ask you
+to bring us here again.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -117,9 +116,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330A10700_01_060");
 MsgDisp("Kazama","...OK.
 I'll stock up on some funny stories.");
-MsgDisp("主人公","(If the four of us come to the castle
-again, I'd love to hear
-｛Kazama＊＊｝'s commentary.)");
+MsgDisp("主人公","(If the four of us come to the castle again,
+I'd love to hear ｛Kazama＊＊｝'s commentary.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

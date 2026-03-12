@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(2,255,4,0,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223302_02_000");
-MsgDisp("Sassa","For some reason, I always look at your
-face just before I jump.");
+MsgDisp("Sassa","For some reason, I always look at your face
+just before I jump.");
 MsgSel("Eh, why?","I feel like I understand!","That's mean...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -62,7 +62,7 @@ I'm sorry.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040223302_02_050");
-        MsgDisp("Sassa","I'm kind of insensitive, huhー");
+        MsgDisp("Sassa","I'm kind of insensitive, huh—");
         MsgDisp("主人公","I didn't mean to blame you like that...
 ｛Sassa＊＊｝ is always kind and looking out
 for me.");
@@ -77,14 +77,14 @@ that often.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223302_02_070");
-        MsgDisp("Sassa","When I was a kid, when I played tag,
-everyone would cry when I was it.");
+        MsgDisp("Sassa","When I was a kid, when I played tag, everyone
+would cry when I was it.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040223302_02_080");
-        MsgDisp("Sassa","I was fast and big, so when I would run
-for real, apparently they got scared.");
+        MsgDisp("Sassa","I was fast and big, so when I would run for
+real, apparently they got scared.");
         MsgDisp("主人公","Hehe.");
         ChEye(2,0);
         ChMouth(2,3);
@@ -96,8 +96,8 @@ for real, apparently they got scared.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040223302_02_100");
-        MsgDisp("Sassa","With me having this build, and doing
-sports, I'm aware I can be a bit off.");
+        MsgDisp("Sassa","With me having this build, and doing sports,
+I'm aware I can be a bit off.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -105,15 +105,15 @@ sports, I'm aware I can be a bit off.");
         MsgDisp("Sassa","So, if I'm acting weird, let me know.
 As long as you're watching, I don't think
 I'll chase anyone until they cry.");
-        MsgDisp("主人公","Hehe. But you already don't play tag
-anymore? If you did, you'd catch everyone
-in an instant.");
+        MsgDisp("主人公","Hehe.
+But you already don't play tag anymore? If
+you did, you'd catch everyone in an instant.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040223302_02_120");
-        MsgDisp("Sassa","Then, just so I won't be mean to you, I'll
-be careful.");
+        MsgDisp("Sassa","Then, just so I won't be mean to you, I'll be
+careful.");
         MsgDisp("主人公","(Maybe this is a worry only ｛Sassa＊＊｝
 has...)");
         break ;

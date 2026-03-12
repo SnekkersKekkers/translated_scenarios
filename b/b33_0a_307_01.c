@@ -14,22 +14,21 @@ ChOpen(2,255,0,0,0,7,#1,0,3);
 SEPlay("EV_SE_817");
 ScrFadeIn(0);
 VoicePlay("B330A30701_02_000");
-MsgDisp("Sassa","The roller coaster is fun, but the feeling
-of having to entrust everything to that
-safety bar is...");
+MsgDisp("Sassa","The roller coaster is fun, but the feeling of
+having to entrust everything to that safety
+bar is...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A30701_01_000");
-MsgDisp("Kazama","Your body still sticks out of it doesn't
-it?");
+MsgDisp("Kazama","Your body still sticks out of it doesn't it?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A30701_02_010");
 MsgDisp("Sassa","That's right.
-That's why I can't help but give it a
-shake around to make sure.");
+That's why I can't help but give it a shake
+around to make sure.");
 SEWait();
 ChEye(1,2);
 ChMouth(1,2);
@@ -67,8 +66,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30701_01_020");
 MsgDisp("Kazama","That bar is definitely quite thin...");
-MsgDisp("主人公","Yeah, if it's ｛Sassa＊＊｝ who has it on,
-it sure seems that way.");
+MsgDisp("主人公","Yeah, if it's ｛Sassa＊＊｝ who has it on, it
+sure seems that way.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -95,9 +94,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30701_01_030");
-MsgDisp("Kazama","If we think of it in terms of balance,
-Inori and Sassa should sit next to each
-other.");
+MsgDisp("Kazama","If we think of it in terms of balance, Inori
+and Sassa should sit next to each other.");
 MsgDisp("主人公","(Umm...we ended up talking about seats
 again...)");
 BGMStop();

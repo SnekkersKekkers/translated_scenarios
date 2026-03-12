@@ -16,7 +16,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360218001_02_000");
-MsgDisp("Sassa","Hmmー...
+MsgDisp("Sassa","Hmm—...
 To be honest, I don't really know why.
 Is there something you wanted to watch?");
 SEPlay("EV_SE_018");
@@ -25,8 +25,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("B360218001_02_010");
-MsgDisp("Sassa","...Is that a sign that the screening is
-about to start?");
+MsgDisp("Sassa","...Is that a sign that the screening is about
+to start?");
 MsgDisp("主人公","Ehh?
 It's a sign you're hungry?");
 ChEye(2,0);

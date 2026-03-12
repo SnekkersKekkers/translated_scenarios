@@ -6,8 +6,8 @@ MsgClose();
 ChOpen(1,33,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040106501_01_000");
-MsgDisp("Kazama","The sky gets lit up as bright as daytime
-for a bit.");
+MsgDisp("Kazama","The sky gets lit up as bright as daytime for
+a bit.");
 MsgSel("I can clearly see your face","It's so surprising when it's suddenly lit up like that","Even the sea is sparkling");
 switch (MsgSelRsltGet()){
     case 0:
@@ -41,8 +41,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040106501_01_030");
-    MsgDisp("Kazama","Yeah, both the sea and the sky are
-beautiful.");
+    MsgDisp("Kazama","Yeah, both the sea and the sky are beautiful.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

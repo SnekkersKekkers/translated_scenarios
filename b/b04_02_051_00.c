@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040205100_02_010");
-    MsgDisp("Sassa","Really? I couldn't relax. It felt like
-something could be hidden in the dark.");
+    MsgDisp("Sassa","Really?
+I couldn't relax. It felt like something
+could be hidden in the dark.");
     MsgDateResultDisp();
     break ;
     case 1:

@@ -31,7 +31,7 @@ ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("D020100000_01_020");
 MsgDisp("Kazama","...Have I?");
-MsgDisp("主人公","You've gotten so much——");
+MsgDisp("主人公","You've gotten so much—");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -84,7 +84,7 @@ NSSMouth(1,2);
 VoicePlay("D020100000_01_200");
 MsgDisp("Kazama","Fine.
 I'll ask you again. It's about that time in
-first grade, when the two of us——");
+first grade, when the two of us—");
 MsgClose();
 ScrFadeOut(0,0,30);
 NSSClose();

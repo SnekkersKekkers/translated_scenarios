@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040521102_05_000");
-MsgDisp("Hiiragi","There are elderly married couples coming
-here too.");
+MsgDisp("Hiiragi","There are elderly married couples coming here
+too.");
 MsgSel("I wonder if it's a date...that's wonderful.","It's definitely a place of memories for them.","Maybe they used to work here a long time ago?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -60,8 +60,8 @@ romantic?");
         ChMotion(5,4);
         VoicePlay("B040521102_05_050");
         MsgDisp("Hiiragi","Even after they retired, they wondered how
-the animals they were looking after were,
-and came to check how they were doing.");
+the animals they were looking after were, and
+came to check how they were doing.");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040521102_05_060");
@@ -70,12 +70,11 @@ I was impolite, wasn't I?");
         MsgDisp("主人公","Ehh?");
         ChEye(5,4);
         VoicePlay("B040521102_05_070");
-        MsgDisp("Hiiragi","When I was little, I used to play like
-this by myself.");
+        MsgDisp("Hiiragi","When I was little, I used to play like this
+by myself.");
         ChMotion(5,4);
         VoicePlay("B040521102_05_080");
-        MsgDisp("Hiiragi","I couldn't really play with friends my
-age.");
+        MsgDisp("Hiiragi","I couldn't really play with friends my age.");
         MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
         ChEye(5,2);
         VoicePlay("B040521102_05_090");
@@ -84,8 +83,8 @@ I was just imagining things for fun.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040521102_05_100");
-        MsgDisp("Hiiragi","If the me back then saw us now, I wonder
-what he would imagine?");
+        MsgDisp("Hiiragi","If the me back then saw us now, I wonder what
+he would imagine?");
         MsgDisp("主人公","Yeah, I wonder?");
         ChEye(5,3);
         ChMouth(5,4);

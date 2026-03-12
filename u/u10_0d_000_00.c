@@ -62,7 +62,7 @@ This will be fun!)");
     ChMouth(22,1);
     ChMotion(22,5,1);
     VoicePlay("U100D00000_22_040");
-    MsgDisp("Hikaru","Ehーh∋
+    MsgDisp("Hikaru","Eh—h∋
 No way...");
     ChEye(21,0);
     ChMouth(21,4);

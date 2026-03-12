@@ -51,15 +51,14 @@ SEPlay("EV_SE_544");
 MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoicePlay("B360316001_03_040");
-MsgDisp("Honda","But...if I don't push myself, I'd look so
-bad in comparison.");
+MsgDisp("Honda","But...if I don't push myself, I'd look so bad
+in comparison.");
 MsgDisp("主人公","Huh?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360316001_03_050");
-MsgDisp("Honda","You said that person was cool earlier,
-so...");
+MsgDisp("Honda","You said that person was cool earlier, so...");
 MsgDisp("主人公","Huh∋
 You went overboard just because of that?");
 ChEye(3,2);

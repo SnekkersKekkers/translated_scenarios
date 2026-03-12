@@ -8,8 +8,9 @@ ChMouth(2,2);
 ChMotion(2,4);
 SEStop("EV_SE_517",2);
 VoicePlay("B040202400_02_000");
-MsgDisp("Sassa","Eh. It looks completely different from how
-it sounds. Cute.");
+MsgDisp("Sassa","Eh.
+It looks completely different from how it
+sounds. Cute.");
 MsgSel("It's soothing","I wonder how it works","Just like you.");
 switch (MsgSelRsltGet()){
     case 0:

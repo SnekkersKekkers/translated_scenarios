@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Sassa＊＊｝ and ｛Himuro＊＊｝ have been
-hanging out a lot lately, huh?");
+MsgDisp("主人公","｛Sassa＊＊｝ and ｛Himuro＊＊｝ have been hanging
+out a lot lately, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -34,10 +34,10 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B070200001_02_130");
 MsgDisp("Sassa","The way Inori just slides right into our
-inner circle... he might be kind of
-scary, actually?");
-MsgDisp("主人公","(｛Sassa＊＊｝ and ｛Himuro＊＊｝ seem to be
-really good friends.)");
+inner circle... he might be kind of scary,
+actually?");
+MsgDisp("主人公","(｛Sassa＊＊｝ and ｛Himuro＊＊｝ seem to be really
+good friends.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

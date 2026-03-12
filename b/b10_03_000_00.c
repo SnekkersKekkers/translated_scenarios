@@ -3,7 +3,8 @@ ChClose(3,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Hah...today didn't go well...)");
 SEPlay("EV_SE_579");
-MsgDisp("主人公","Oh, a phone call. ...from ｛Honda＊＊｝?");
+MsgDisp("主人公","Oh, a phone call.
+...from ｛Honda＊＊｝?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Hello?");
@@ -17,9 +18,9 @@ I didn't want to go home feeling uneasy.
 I'm sorry about today!");
 MsgDisp("主人公","No, I'm the one who said weird things...");
 VoicePlay("B100300000_03_020");
-MsgDisp("Honda","It's more fun saying weird things than
-saying the obvious. So let's say lots of
-weird things to each other.");
+MsgDisp("Honda","It's more fun saying weird things than saying
+the obvious. So let's say lots of weird
+things to each other.");
 MsgDisp("主人公","Hahaha.
 Thanks ｛Honda＊＊｝.");
 VoicePlay("B100300000_03_030");

@@ -2,7 +2,7 @@ BGOpen("sc530",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah.
-Over there is——");
+Over there is—");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);

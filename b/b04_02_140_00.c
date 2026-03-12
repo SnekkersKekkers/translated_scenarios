@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040214000_02_000");
-MsgDisp("Sassa","The sound you hear at a livehouse is
-totally different!");
+MsgDisp("Sassa","The sound you hear at a livehouse is totally
+different!");
 MsgSel("Haa, it was the best!","It was so-so...","The sound was so loud my ears are ringing!");
 switch (MsgSelRsltGet()){
     case 0:

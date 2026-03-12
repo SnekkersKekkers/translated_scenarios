@@ -74,7 +74,7 @@ about it now.");
     MsgDisp("Himuro","I suppose so.
 Be careful to not get separated.");
     MsgDisp("主人公","Understood.
-I'll be careful——");
+I'll be careful—");
     SEPlay("EV_SE_699");
     Wait(10,0);
     ScrQuake(5);

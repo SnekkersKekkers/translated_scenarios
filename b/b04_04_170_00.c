@@ -30,7 +30,7 @@ I think mostly anything goes.");
     VoicePlay("B040417000_04_020");
     MsgDisp("Nanatsumori","Nice!
 I'll leave the song choice to you.
-I wonder what you'll pickー");
+I wonder what you'll pick—");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

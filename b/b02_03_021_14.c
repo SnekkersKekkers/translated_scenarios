@@ -11,5 +11,5 @@ VoicePlay("B020302114_03_010");
 MsgDisp("Honda","Are you not confident in it?
 That's too bad, it really suits you.");
 MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like clothes like
-this, too.)");
+｛Honda＊＊｝ seems to like clothes like this,
+too.)");

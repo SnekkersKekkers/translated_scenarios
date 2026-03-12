@@ -14,9 +14,9 @@ ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,3);
 ScrFadeIn(1);
 VoicePlay("B330B20800_03_000");
-MsgDisp("Honda","Alright, we're here. If we're talking
-amusement park attractions, we can't miss
-out on this one!");
+MsgDisp("Honda","Alright, we're here.
+If we're talking amusement park attractions,
+we can't miss out on this one!");
 ChMouth(1,3);
 MsgDisp("主人公","Ehhh...");
 ChEye(4,1);
@@ -31,8 +31,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("B330B20800_01_000");
-MsgDisp("Kazama","｛主人公｝, I'm expecting a good reason
-for this.");
+MsgDisp("Kazama","｛主人公｝, I'm expecting a good reason for
+this.");
 MsgDisp("主人公","Hey, everyone's already having fun right?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -63,9 +63,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B330B20800_03_020");
-MsgDisp("Honda","When I went to a haunted house with my
-little sister, it was fine when I did
-that. But we were in elementary school.");
+MsgDisp("Honda","When I went to a haunted house with my little
+sister, it was fine when I did that.
+But we were in elementary school.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -94,8 +94,8 @@ VoicePlay("B330B20800_03_040");
 MsgDisp("Honda","Sad?
 It's alright, once we go in, all those
 feelings will be gone in a flash!");
-MsgDisp("主人公","(Even if you hold my hand, I don't think
-it changes the fact that this is scary...)");
+MsgDisp("主人公","(Even if you hold my hand, I don't think it
+changes the fact that this is scary...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

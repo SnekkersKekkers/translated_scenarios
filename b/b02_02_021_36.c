@@ -16,7 +16,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B020202136_02_020");
-MsgDisp("Sassa","The one standing in front of me is wearing
-it best.");
+MsgDisp("Sassa","The one standing in front of me is wearing it
+best.");
 MsgDisp("主人公","(I got a ton of compliments.
 I'm glad I did my best to be stylish.)");

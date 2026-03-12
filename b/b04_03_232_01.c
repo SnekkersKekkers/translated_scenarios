@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040323201_03_010");
-    MsgDisp("Honda","Rightー!
-If it felt short to you, you must've
-enjoyed it!");
+    MsgDisp("Honda","Right—!
+If it felt short to you, you must've enjoyed
+it!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,7 +39,7 @@ enjoyed it!");
     ChMouth(3,1);
     ChMotion(3,5);
     VoicePlay("B040323201_03_030");
-    MsgDisp("Honda","Ehー?
+    MsgDisp("Honda","Eh—?
 That depends on the customer.");
     MsgDateResultDisp();
     break ;

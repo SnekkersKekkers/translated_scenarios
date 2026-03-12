@@ -108,7 +108,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ScrFadeIn(0);
 VoicePlay("D010600200_39_050");
-MsgDisp("Referee","On your mark, get set——");
+MsgDisp("Referee","On your mark, get set—");
 SEPlay("EV_SE_612",0,0.9);
 Wait(30,0);
 SEPlay("EV_SE_GAYA_003",0.5);

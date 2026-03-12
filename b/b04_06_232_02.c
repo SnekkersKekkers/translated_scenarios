@@ -6,8 +6,8 @@ ChOpen(6,255,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623202_06_000");
 MsgDisp("Himuro","Haven't you noticed?
-For guys, you have to overcome a high
-hurdle to ride on here.");
+For guys, you have to overcome a high hurdle
+to ride on here.");
 MsgSel("I'm sure there are guys that like it? ","But I want to ride it with ｛Himuro＊＊｝.","I haven't noticed at all.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -51,7 +51,7 @@ other guys?");
         ChMotion(6,1);
         ChCheek(6,10);
         VoicePlay("B040623202_06_050");
-        MsgDisp("Himuro","——Not particularly.");
+        MsgDisp("Himuro","—Not particularly.");
         MsgDisp("主人公","Hmm?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -70,8 +70,8 @@ other guys?");
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040623202_06_080");
-        MsgDisp("Himuro","Whether it's the ferris wheel or whatever
-you like.");
+        MsgDisp("Himuro","Whether it's the ferris wheel or whatever you
+like.");
         ChEye(6,0);
         ChMouth(6,1);
         ChMotion(6,4);

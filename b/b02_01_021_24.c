@@ -9,8 +9,8 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,0);
 VoicePlay("B020102124_01_010");
-MsgDisp("Kazama","Yeah. Even though that fashion is
-difficult, you look very natural in it.
-Just as I'd expect.");
+MsgDisp("Kazama","Yeah.
+Even though that fashion is difficult, you
+look very natural in it. Just as I'd expect.");
 MsgDisp("主人公","(Yay!
 ｛Kazama＊＊｝ praised me!)");

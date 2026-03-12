@@ -17,8 +17,8 @@ ChMotion(2,0);
 VoicePlay("B360223601_02_000");
 MsgDisp("Sassa","Yeah, beautiful...");
 MsgDisp("主人公","Eh, ｛Sassa＊＊｝...
-If you're looking this way, you won't be
-able to see the parade?");
+If you're looking this way, you won't be able
+to see the parade?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

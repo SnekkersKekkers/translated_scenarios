@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040609002_06_010");
-    MsgDisp("Himuro","I guess it's just one of my interests out
-of many.");
+    MsgDisp("Himuro","I guess it's just one of my interests out of
+many.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -49,16 +49,16 @@ plants?");
         ChMotion(6,0);
         VoicePlay("B040609002_06_040");
         MsgDisp("Himuro","But I'm starting to understand. When you
-experience things in person, you really
-do become interested. It's just like that.");
+experience things in person, you really do
+become interested. It's just like that.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040609002_06_050");
-        MsgDisp("Himuro","Well, it's not to the point it'll affect
-my future.");
-        MsgDisp("主人公","Then, why don't you try growing a cactus
-or something?");
+        MsgDisp("Himuro","Well, it's not to the point it'll affect my
+future.");
+        MsgDisp("主人公","Then, why don't you try growing a cactus or
+something?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

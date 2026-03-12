@@ -32,8 +32,9 @@ You smell so nice.");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("B040830001_08_020");
-    MsgDisp("Shirahane","Haha! Are you hungry? Should I ask
-Nee-chan to make us something?");
+    MsgDisp("Shirahane","Haha!
+Are you hungry?
+Should I ask Nee-chan to make us something?");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -47,8 +48,8 @@ Nee-chan to make us something?");
     ChMotion(8,4,1);
     ChCheek(8,3);
     VoicePlay("B040830001_08_030");
-    MsgDisp("Shirahane","When you put it like that, now I'm
-curious... But my own smell?
+    MsgDisp("Shirahane","When you put it like that, now I'm curious...
+But my own smell?
 That's kinda embarrassing.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);

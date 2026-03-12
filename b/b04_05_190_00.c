@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040519000_05_000");
-    MsgDisp("Hiiragi","Yes, the costumes, the props, everywhere
-you looked it was perfect.");
+    MsgDisp("Hiiragi","Yes, the costumes, the props, everywhere you
+looked it was perfect.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

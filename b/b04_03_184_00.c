@@ -23,9 +23,9 @@ waves were really intricate.");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040318400_03_010");
-    MsgDisp("Honda","Yep, this is an anime adults can enjoy
-too...Ah, could it be because we're
-neither adults or children?");
+    MsgDisp("Honda","Yep, this is an anime adults can enjoy too...
+Ah, could it be because we're neither adults
+or children?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +36,8 @@ neither adults or children?");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040318400_03_020");
-    MsgDisp("Honda","Thanks to that, I ate too much popcorn and
-my throat is dry～");
+    MsgDisp("Honda","Thanks to that, I ate too much popcorn and my
+throat is dry～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

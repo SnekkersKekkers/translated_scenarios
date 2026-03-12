@@ -22,8 +22,8 @@ footage.");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("B040519100_05_010");
-    MsgDisp("Hiiragi","Yes, thanks to it I was able to learn
-about a world I didn't know before.");
+    MsgDisp("Hiiragi","Yes, thanks to it I was able to learn about a
+world I didn't know before.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,8 +34,8 @@ about a world I didn't know before.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040519100_05_020");
-    MsgDisp("Hiiragi","It's a documentary, so don't expect it to
-be entertaining.");
+    MsgDisp("Hiiragi","It's a documentary, so don't expect it to be
+entertaining.");
     MsgDateResultDisp();
     break ;
     default :

@@ -39,7 +39,7 @@ ChEyeOpenLevel(5,9);
 VoicePlay("D010500100_05_020");
 MsgDisp("Hiiragi","I usually do not get hungry when I have
 business to attend to.
-Now if you'll excuse me——");
+Now if you'll excuse me—");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);

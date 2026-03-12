@@ -106,7 +106,7 @@ and polish them into a wonderful and shining
 person♪");
 MsgDisp("主人公","Ehh∋
 I'm not sure if I'm the kind of person who
-can do that——");
+can do that—");
 ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,2);

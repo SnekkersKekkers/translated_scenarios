@@ -6,8 +6,7 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040822102_08_000");
-MsgDisp("Shirahane","How many times have I come here with you
-now?");
+MsgDisp("Shirahane","How many times have I come here with you now?");
 MsgSel("Is this not the first time?","Why?","I don't mind how many times we come here.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -57,9 +56,9 @@ time\".");
         ChMouth(8,3);
         ChMotion(8,3,1);
         VoicePlay("B040822102_08_060");
-        MsgDisp("Shirahane","If ya think about it like that, let's go
-to lotsa different places, and keep
-experiencing more of our \"firsts\"?");
+        MsgDisp("Shirahane","If ya think about it like that, let's go to
+lotsa different places, and keep experiencing
+more of our \"firsts\"?");
         ChEye(8,3);
         ChMouth(8,0);
         ChMotion(8,2,1);
@@ -79,9 +78,9 @@ Let's go on lotsa dates▼");
     DateRateSet(2);
     ChMotion(8,2,1);
     VoicePlay("B040822102_08_080");
-    MsgDisp("Shirahane","I don't think it's really a place ta come
-on a date. It's more like fer a class
-field trip, right?");
+    MsgDisp("Shirahane","I don't think it's really a place ta come on
+a date.
+It's more like fer a class field trip, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -92,9 +91,9 @@ field trip, right?");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("B040822102_08_090");
-    MsgDisp("Shirahane","That's right. If I'm with you, no matter
-how many times we go to the same place,
-it'll be enjoyable anyways?");
+    MsgDisp("Shirahane","That's right. If I'm with you, no matter how
+many times we go to the same place, it'll be
+enjoyable anyways?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

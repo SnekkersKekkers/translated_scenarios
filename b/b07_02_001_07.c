@@ -15,8 +15,8 @@ VoicePlay("B070200001_02_420");
 MsgDisp("Sassa","Are you feeling sick?
 That's no good, you should get some rest.");
 MsgDisp("主人公","No, I'm not sick...
-I was looking at ｛Sassa＊＊｝ and it
-suddenly started.");
+I was looking at ｛Sassa＊＊｝ and it suddenly
+started.");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,5);
@@ -37,7 +37,7 @@ ChEyeOpenLevel(2,8);
 ChCheek(2,5);
 VoicePlay("B070200001_02_450");
 MsgDisp("Sassa","Wait a minute.
-Now it's my turn——");
+Now it's my turn—");
 MsgDisp("主人公","Eh∋");
 ChEye(2,2);
 ChMouth(2,0);
@@ -52,8 +52,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B070200001_02_470");
 MsgDisp("Sassa","That's strange...
-My heart rate shouldn't raise so
-quickly...");
+My heart rate shouldn't raise so quickly...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

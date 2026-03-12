@@ -14,14 +14,14 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B070500001_05_630");
-MsgDisp("Hiiragi","Does the 'you' reflected in my eyes look
-like she's enjoying herself?");
+MsgDisp("Hiiragi","Does the 'you' reflected in my eyes look like
+she's enjoying herself?");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
 VoicePlay("B070500001_05_640");
-MsgDisp("Hiiragi","The you I see is always having fun and is
-so lovely. And that's why I wanted to show
-it to you too.");
+MsgDisp("Hiiragi","The you I see is always having fun and is so
+lovely. And that's why I wanted to show it to
+you too.");
 ChEye(5,3);
 VoicePlay("B070500001_05_650");
 MsgDisp("Hiiragi","Come on, take a closer look.");

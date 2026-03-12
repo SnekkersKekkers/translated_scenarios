@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("B040510100_05_010");
-    MsgDisp("Hiiragi","That's right. As a Habataki citizen I'd
-like to know about it. I would be happy if
-you taught me.");
+    MsgDisp("Hiiragi","That's right.
+As a Habataki citizen I'd like to know about
+it. I would be happy if you taught me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ you taught me.");
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040510100_05_020");
-    MsgDisp("Hiiragi","Come to think of it, I think I see it
-every morning.
+    MsgDisp("Hiiragi","Come to think of it, I think I see it every
+morning.
 ...Does it resemble me?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

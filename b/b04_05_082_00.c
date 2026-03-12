@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040508200_05_010");
     MsgDisp("Hiiragi","I see.
-I wonder if it's similar to them standing
-by on the stage wings.");
+I wonder if it's similar to them standing by
+on the stage wings.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

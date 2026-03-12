@@ -45,16 +45,15 @@ Then maybe I'll try horseriding.");
         ChMouth(6,4);
         ChMotion(6,0,1);
         VoicePlay("B040624102_06_040");
-        MsgDisp("Himuro","If I rode that horse, I'm interested to
-see what kind of reaction you would have.");
+        MsgDisp("Himuro","If I rode that horse, I'm interested to see
+what kind of reaction you would have.");
         MsgDisp("主人公","Would you become Prince Charming?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040624102_06_050");
-        MsgDisp("Himuro","I wouldn't do something that
-embarrassing.");
+        MsgDisp("Himuro","I wouldn't do something that embarrassing.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -66,8 +65,8 @@ embarrassing.");
         ChMotion(6,5);
         VoicePlay("B040624102_06_070");
         MsgDisp("Himuro","It was a joke, I'm kidding.
-I was just going along with the flow of
-the conversation!");
+I was just going along with the flow of the
+conversation!");
         MsgDisp("主人公","I see.");
         ChEye(6,0);
         ChMouth(6,2);

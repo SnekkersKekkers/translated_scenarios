@@ -11,8 +11,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B360105101_01_000");
 MsgDisp("Kazama","It seems to be good here.
-As expected, I'm tired from the
-overly-high spirits.");
+As expected, I'm tired from the overly-high
+spirits.");
 MsgDisp("主人公","Hehe, did we come here to have a break?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -32,8 +32,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360105101_01_030");
-MsgDisp("Kazama","Those guys will be outraged if they find
-us.");
+MsgDisp("Kazama","Those guys will be outraged if they find us.");
 MsgDisp("主人公","Then, we can all have fun together again.");
 ChEye(1,0);
 ChMouth(1,1);
@@ -67,9 +66,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360105101_01_070");
-MsgDisp("Kazama","Haa, finally. We've been together since
-morning, but this is the first time I've
-held your hand.");
+MsgDisp("Kazama","Haa, finally.
+We've been together since morning, but this
+is the first time I've held your hand.");
 MsgDisp("主人公","(｛Kazama＊＊｝...?)");
 BGMStop();
 MsgClose();

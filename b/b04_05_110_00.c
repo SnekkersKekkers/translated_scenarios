@@ -32,8 +32,8 @@ Just like a mermaid princess.");
         ChMouth(5,2);
         VoicePlay("B040511000_05_020");
         MsgDisp("Hiiragi","You were swimming?
-Make sure to call out to me if you ever
-need help.");
+Make sure to call out to me if you ever need
+help.");
         MsgDateResultDisp();
         }
     break ;
@@ -42,8 +42,8 @@ need help.");
     ChMotion(5,4);
     VoicePlay("B040511000_05_030");
     MsgDisp("Hiiragi","Let's do the fundamentals then.
-For anything more than that, let's learn
-it together.");
+For anything more than that, let's learn it
+together.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

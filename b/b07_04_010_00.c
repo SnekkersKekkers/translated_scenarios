@@ -11,13 +11,12 @@ BGMPlay("BGM_C04_NANA_B",0.01);
 Wait(60,0);
 VoicePlay("B070401000_04_000");
 MsgDisp("Nanatsumori","Before.
-Do you remember when you asked me about
-love?");
+Do you remember when you asked me about love?");
 MsgDisp("主人公","Ah, yeah.");
 ChMotion(4,1,1);
 VoicePlay("B070401000_04_010");
-MsgDisp("Nanatsumori","After that, I've been thinking about it
-ever since.
+MsgDisp("Nanatsumori","After that, I've been thinking about it ever
+since.
 Stuff about love, about romance.");
 ChEyeOpenLevel(4,0);
 VoicePlay("B070401000_04_020");
@@ -25,8 +24,8 @@ MsgDisp("Nanatsumori","I feel like I can't get it out of my head.");
 ChMotion(4,0,1);
 ChEyeOpenLevel(4,#1);
 VoicePlay("B070401000_04_030");
-MsgDisp("Nanatsumori","...Maybe, it's because you were the one
-who asked me about it.");
+MsgDisp("Nanatsumori","...Maybe, it's because you were the one who
+asked me about it.");
 MsgDisp("主人公","Eh?");
 ChEye(4,2);
 ChMouth(4,4);
@@ -44,8 +43,8 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B070401000_04_060");
 MsgDisp("Nanatsumori","That's unfair.
-I feel like I'm the only one who has had
-all my feelings exposed.");
+I feel like I'm the only one who has had all
+my feelings exposed.");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -65,14 +64,14 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B070401000_04_090");
 MsgDisp("Nanatsumori","You don't have to do anything right now.
-But——");
+But—");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B070401000_04_100");
 MsgDisp("Nanatsumori","All the answers of love and romance in my
-head, I'll tell you by the time we
-graduate, so be prepared.");
+head, I'll tell you by the time we graduate,
+so be prepared.");
 MsgDisp("主人公","(｛Nanatsumori＊｝'s eyes are serious...)");
 BGMStop();
 MsgClose();

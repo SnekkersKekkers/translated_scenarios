@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040122202_01_000");
 MsgDisp("Kazama","The exhibit artifacts are important, but
-there's a history behind each scratch on
-the pillars and floors.");
+there's a history behind each scratch on the
+pillars and floors.");
 MsgSel("The castle itself was rebuilt right?","Were they cut with swords during a battle?","How cruel...there's graffiti too.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -23,9 +23,9 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040122202_01_010");
-        MsgDisp("Kazama","Listen up, okay? The fact that it has been
-renovated and repaired so many times is
-itself a history.");
+        MsgDisp("Kazama","Listen up, okay?
+The fact that it has been renovated and
+repaired so many times is itself a history.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -37,8 +37,8 @@ itself a history.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040122202_01_020");
-        MsgDisp("Kazama","That's right. There was a big renovation
-50 years ago, and my grandpa said valuable
+        MsgDisp("Kazama","That's right. There was a big renovation 50
+years ago, and my grandpa said valuable
 cultural assets were found then, too.");
         MsgDisp("主人公","Treasure?");
         ChEye(1,0);
@@ -46,16 +46,16 @@ cultural assets were found then, too.");
         ChMotion(1,3);
         VoicePlay("B040122202_01_030");
         MsgDisp("Kazama","It wasn't anything like that.
-Just like graffiti from people of the past
-or carpentry tools left behind.");
+Just like graffiti from people of the past or
+carpentry tools left behind.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,1);
         ChEyeOpenLevel(1,9);
         VoicePlay("B040122202_01_040");
         MsgDisp("Kazama","Hey, that writing that says \"XX was here!\"
-might also become a precious artifact in
-100 years.");
+might also become a precious artifact in 100
+years.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         Wait(16,0);
@@ -132,8 +132,8 @@ It's a fun thing to imagine.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040122202_01_100");
     MsgDisp("Kazama","I really can't forgive them.
-\"We were here\", \"We're here\"! Who are
-they even reporting to?");
+\"We were here\", \"We're here\"!
+Who are they even reporting to?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

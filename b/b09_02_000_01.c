@@ -10,8 +10,8 @@ What was up with today?");
 MsgDisp("主人公","(It's ｛Sassa＊＊｝!
 Ah...)");
 VoicePlay("B090200000_02_010");
-MsgDisp("Sassa","I was waiting for a while, but I'm going
-home now.");
+MsgDisp("Sassa","I was waiting for a while, but I'm going home
+now.");
 VoicePlay("B090200000_02_020");
 MsgDisp("Sassa","If you just forgot, that's bad, but okay.
 But I worry, so at least message me.
@@ -19,7 +19,6 @@ See you later.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Damn it!
-I got the meeting place for our date
-wrong!");
+I got the meeting place for our date wrong!");
 MsgClose();
 ScrFadeOut(0,0);

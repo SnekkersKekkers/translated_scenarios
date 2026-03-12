@@ -29,8 +29,7 @@ ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20101_04_010");
-MsgDisp("Nanatsumori","That means deep sea fish are fish too
-right?
+MsgDisp("Nanatsumori","That means deep sea fish are fish too right?
 Does that mean you could eat them?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -61,9 +60,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20101_03_030");
-MsgDisp("Honda","At the fresh fish corner have you ever
-seen a fish with a round thing poking out
-of its mouth?");
+MsgDisp("Honda","At the fresh fish corner have you ever seen a
+fish with a round thing poking out of its
+mouth?");
 ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -81,8 +80,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B20101_01_010");
-MsgDisp("Kazama","Deep sea fish are delicious, but when you
-see them like that, it's a bit sad.");
+MsgDisp("Kazama","Deep sea fish are delicious, but when you see
+them like that, it's a bit sad.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

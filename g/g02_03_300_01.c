@@ -38,7 +38,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("G020330001_03_050");
 MsgDisp("Honda","Why didn't you tell me? ' in his blunt
 tone.
-So troublesomeー.");
+So troublesome—.");
 MsgDisp("主人公","It doesn't seem that way to me.
 You look like you're having fun.");
 ChEye(3,0);

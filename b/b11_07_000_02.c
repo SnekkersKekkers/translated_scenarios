@@ -8,8 +8,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgDisp("主人公","｛Mikage＊＊｝ sure is late, huh....");
 VoicePlay("B110700002_35_000");
 MsgDisp("Guy?","Hmm, too weak, too weak～
-I need to find a more energetic girl
-okay～?");
+I need to find a more energetic girl okay～?");
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,2,0,#1,#1,0,0,0,30);
 VoicePlay("B110700002_35_010");
@@ -28,8 +27,8 @@ Please stop.");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110700002_35_030");
-MsgDisp("Guy","No can do! You could be an actress, a
-model, anything you want!
+MsgDisp("Guy","No can do! You could be an actress, a model,
+anything you want!
 My decades of experience guarantee it♪");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
@@ -59,9 +58,9 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110700002_35_050");
-MsgDisp("Guy","Haha, this is the gold jacket of a
-successful man! Easy money, baby. Next
-I'll make a fortune with this girl——");
+MsgDisp("Guy","Haha, this is the gold jacket of a successful
+man! Easy money, baby.
+Next I'll make a fortune with this girl—");
 MsgDispSksp(1,5);
 ChEye(7,0);
 ChMouth(7,0);

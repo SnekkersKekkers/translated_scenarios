@@ -6,7 +6,7 @@ ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030410004_04_000");
 MsgDisp("Nanatsumori","Modern art, man...
-When something vibes with you, you just
-can't look away.");
+When something vibes with you, you just can't
+look away.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

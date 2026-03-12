@@ -4,7 +4,7 @@ BGMPlay("BGM_C02_SASSA_B",0.01);
 BGOpen("ad220",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_522");
-MsgDisp("","(*SLOSH*ー,*SLOSH*ー,*SLOSH*ー)");
+MsgDisp("","(*SLOSH*—,*SLOSH*—,*SLOSH*—)");
 MsgDisp("主人公","\"I think I'm getting the hang of it?
 ...here goes!\"");
 MsgClear();
@@ -51,7 +51,7 @@ MsgDisp("主人公","\"｛Sassa＊＊｝, are you not good with
 cow milk?\"");
 MsgClear();
 MsgDisp("","I said I didn't like it if it was
-warm—— but, I just didn't like it
+warm— but, I just didn't like it
 much.");
 MsgDisp("","Even though my Mom told me I needed
 to drink it to build muscle when I

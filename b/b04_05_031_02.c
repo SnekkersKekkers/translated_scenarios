@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040503102_05_000");
-MsgDisp("Hiiragi","The sound of the water, the darkness, the
-air temperature...it's all so calming.");
+MsgDisp("Hiiragi","The sound of the water, the darkness, the air
+temperature...it's all so calming.");
 MsgSel("｛Hiiragi＊＊＊｝ is like a fish","Maybe I'd like a little more excitement?","It should be feeding time soon");
 switch (MsgSelRsltGet()){
     case 0:
@@ -61,9 +61,9 @@ Or I was too reliant on you.");
         ChMouth(5,0);
         ChMotion(5,4);
         VoicePlay("B040503102_05_050");
-        MsgDisp("Hiiragi","Right. Before I realized it, I was only
-seeking comfort in the times in which I
-was with you.");
+        MsgDisp("Hiiragi","Right.
+Before I realized it, I was only seeking
+comfort in the times in which I was with you.");
         ChEye(5,0);
         ChMouth(5,3);
         ChMotion(5,0);
@@ -79,7 +79,7 @@ Huh, Yanosuke-sama∈");
 I wonder if that girl is Yanosuke-sama's
 girlfriend?");
         VoicePlay("B040503102_45_010");
-        MsgDisp("Woman A","Ehー, no way.
+        MsgDisp("Woman A","Eh—, no way.
 That would be impossible.");
         ChMotion(5,4);
         VoicePlay("B040503102_05_070");
@@ -110,8 +110,7 @@ My heart is still pounding...)");
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040503102_05_090");
     MsgDisp("Hiiragi","It appears that way.
-The fish are beginning to get restless
-too.");
+The fish are beginning to get restless too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

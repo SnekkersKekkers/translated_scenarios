@@ -18,8 +18,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B010600001_06_010");
-    MsgDisp("Himuro","I wouldn't be late unless there was a
-reason.");
+    MsgDisp("Himuro","I wouldn't be late unless there was a reason.");
     MsgDispSksp(1,0);
     ChEye(6,0);
     ChMouth(6,0);
@@ -68,11 +67,10 @@ I'll get here first from now on.");
     ChMotion(6,0);
     VoicePlay("B010600001_06_070");
     MsgDisp("Himuro","I didn't want to keep you waiting.
-Wasting someone's time is the worst thing
-a person can do.");
+Wasting someone's time is the worst thing a
+person can do.");
     MsgDisp("主人公","But isn't it kind of exciting to wait,
-wondering when the other person will
-show up?");
+wondering when the other person will show up?");
     ChEye(6,0);
     ChMouth(6,2);
     ChMotion(6,5);
@@ -84,8 +82,8 @@ show up?");
     ChMotion(6,4);
     ChCheek(6,10);
     VoicePlay("B010600001_06_090");
-    MsgDisp("Himuro","...I'm seriously jealous of how carefree
-you are.");
+    MsgDisp("Himuro","...I'm seriously jealous of how carefree you
+are.");
     MsgDispSksp(0);
     break ;
     default :

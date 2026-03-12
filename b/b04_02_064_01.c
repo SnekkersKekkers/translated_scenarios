@@ -11,8 +11,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B040206401_02_010");
-MsgDisp("Sassa","When I was a kid I used to beg my parents
-for those shiny toys.");
+MsgDisp("Sassa","When I was a kid I used to beg my parents for
+those shiny toys.");
 MsgDisp("主人公","Yeah, I think I did that too.");
 ChEye(2,0);
 ChMouth(2,4);

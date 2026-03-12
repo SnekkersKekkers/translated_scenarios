@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602202_06_010");
-        MsgDisp("Himuro","If you have something to say, just say
-it. I'm right here, you know.");
+        MsgDisp("Himuro","If you have something to say, just say it.
+I'm right here, you know.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -32,20 +32,20 @@ it. I'm right here, you know.");
         ChMotion(6,5);
         ChCheek(6,10);
         VoicePlay("B040602202_06_020");
-        MsgDisp("Himuro","Hey——∋");
+        MsgDisp("Himuro","Hey—∋");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602202_06_030");
-        MsgDisp("Himuro","...If there's something you're curious
-about, why don't you ask me directly?");
+        MsgDisp("Himuro","...If there's something you're curious about,
+why don't you ask me directly?");
         MsgDisp("主人公","T-That's true huh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602202_06_040");
-        MsgDisp("Himuro","Besides, if you suddenly say something
-like that——");
+        MsgDisp("Himuro","Besides, if you suddenly say something like
+that—");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
@@ -79,7 +79,7 @@ Then, I'll give you 30 seconds.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602202_06_090");
-        MsgDisp("Himuro","...３,２,１——Yeah, you're out.");
+        MsgDisp("Himuro","...３,２,１—Yeah, you're out.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

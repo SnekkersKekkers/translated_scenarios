@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,3);
     VoicePlay("B040324201_03_010");
     MsgDisp("Honda","Yep yep.
-I want to try surviving for realー!");
+I want to try surviving for real—!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,8 +26,8 @@ I want to try surviving for realー!");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040324201_03_020");
-    MsgDisp("Honda","Hmm, I don't think the neighbors would
-want that either.");
+    MsgDisp("Honda","Hmm, I don't think the neighbors would want
+that either.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -37,8 +37,8 @@ want that either.");
     ChMotion(3,1);
     VoicePlay("B040324201_03_030");
     MsgDisp("Honda","Yeah, yeah, that's good.
-Today, let's imagine it's a secret
-research facility.");
+Today, let's imagine it's a secret research
+facility.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

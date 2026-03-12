@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040518200_05_010");
-    MsgDisp("Hiiragi","It's nice even when you're trying to put
-on a brave front.");
+    MsgDisp("Hiiragi","It's nice even when you're trying to put on a
+brave front.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +35,7 @@ on a brave front.");
     ChMotion(5,4);
     VoicePlay("B040518200_05_020");
     MsgDisp("Hiiragi","It was no good huh...
-I thought it was an interesting
-perspective.");
+I thought it was an interesting perspective.");
     MsgDateResultDisp();
     break ;
     default :

@@ -28,8 +28,7 @@ have fun.");
     ChMotion(5,0);
     VoicePlay("B040515201_05_020");
     MsgDisp("Hiiragi","You are most welcome.
-I think you're probably better than me
-now.");
+I think you're probably better than me now.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +39,8 @@ now.");
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040515201_05_030");
-    MsgDisp("Hiiragi","That kind of rudeness will get you
-expelled, you know.");
+    MsgDisp("Hiiragi","That kind of rudeness will get you expelled,
+you know.");
     MsgDateResultDisp();
     break ;
     default :

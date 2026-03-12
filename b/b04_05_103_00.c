@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040510300_05_010");
     MsgDisp("Hiiragi","Yes.
-Even if it's just a little, I would like
-to get to know it more.");
+Even if it's just a little, I would like to
+get to know it more.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ to get to know it more.");
     ChEye(5,4);
     VoicePlay("B040510300_05_020");
     MsgDisp("Hiiragi","Do not fret, I am the same.
-As long as you can currently feel
-something from it, that's enough.");
+As long as you can currently feel something
+from it, that's enough.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

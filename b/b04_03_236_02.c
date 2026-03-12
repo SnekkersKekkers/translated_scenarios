@@ -40,19 +40,19 @@ Is the tuna repaying your kindness?");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040323602_03_030");
-        MsgDisp("Honda","Right right, when I was in elementary
-school, I saw a sickly tuna at an
-aquarium, so I told the caretaker.");
+        MsgDisp("Honda","Right right, when I was in elementary school,
+I saw a sickly tuna at an aquarium, so I told
+the caretaker.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,4);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040323602_03_040");
-        MsgDisp("Honda","He definitely remembers me, so he's
-showing me a dance as a thanks.");
+        MsgDisp("Honda","He definitely remembers me, so he's showing
+me a dance as a thanks.");
         MsgDisp("主人公","Hehe.
-It's like a mix of the \"Grateful Crane\"
-and Urashima Taro.");
+It's like a mix of the \"Grateful Crane\" and
+Urashima Taro.");
         ChFace(3,4);
         ChMotion(3,0);
         VoicePlay("B040323602_03_050");
@@ -70,8 +70,8 @@ right?");
         ChMouth(3,3);
         ChCheek(3,8);
         VoicePlay("B040323602_03_070");
-        MsgDisp("Honda","Well, the beautiful woman who appeared in
-my life is you.");
+        MsgDisp("Honda","Well, the beautiful woman who appeared in my
+life is you.");
         MsgDisp("主人公","｛Honda＊＊｝...");
         ChEye(3,3);
         ChMouth(3,3);

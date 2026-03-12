@@ -98,8 +98,7 @@ leave you alone.");
         ChMotion(1,3);
         VoicePlay("B040123602_01_070");
         MsgDisp("Kazama","Hahaha!
-Your strange dancing attracted the fish
-man.");
+Your strange dancing attracted the fish man.");
         MsgDisp("主人公","Hey.");
         ChEye(1,0);
         ChMouth(1,3);

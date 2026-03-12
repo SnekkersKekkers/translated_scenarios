@@ -9,10 +9,10 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602000_06_010");
 MsgDisp("Himuro","I know.
-The fact that we went to the same school
-is pretty hard to believe.");
-MsgDisp("主人公","I'm pretty proud to have someone like that
-as an alumni.");
+The fact that we went to the same school is
+pretty hard to believe.");
+MsgDisp("主人公","I'm pretty proud to have someone like that as
+an alumni.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);

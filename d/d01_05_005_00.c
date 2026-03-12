@@ -117,7 +117,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("D010500500_05_070");
 MsgDisp("Hiiragi","I'm grateful for it, but we're lacking
 intensity...");
-MsgDisp("主人公","I don't see it like that——");
+MsgDisp("主人公","I don't see it like that—");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,0);

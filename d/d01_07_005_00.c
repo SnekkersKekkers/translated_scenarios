@@ -44,7 +44,7 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("D010700500_07_020");
-MsgDisp("Mikage","——So, which part of it don't you
+MsgDisp("Mikage","—So, which part of it don't you
 understand?");
 MsgDisp("主人公","Uhm...
 I guess I don't even know what I don't

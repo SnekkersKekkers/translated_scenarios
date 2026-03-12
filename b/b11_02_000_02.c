@@ -13,9 +13,9 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110200002_35_000");
-MsgDisp("Guy","Oh, it's been a while since I've felt such
-a spark! How about we go to that café
-over there and talk?");
+MsgDisp("Guy","Oh, it's been a while since I've felt such a
+spark! How about we go to that café over
+there and talk?");
 MsgDisp("主人公","W-What∋
 I have nothing to talk about.");
 ChEye(35,1);
@@ -71,8 +71,8 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110200002_35_050");
-MsgDisp("Guy","That girl would sell well anywhere, but
-you, Mr. Muscle, I'll take under my wing.
+MsgDisp("Guy","That girl would sell well anywhere, but you,
+Mr. Muscle, I'll take under my wing.
 Take your time and think it over.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -86,12 +86,11 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B110200002_02_040");
-MsgDisp("Sassa","Yeah...wait, why am I the one getting
-worried over?");
+MsgDisp("Sassa","Yeah...wait, why am I the one getting worried
+over?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B110200002_02_050");
-MsgDisp("Sassa","Sorry, things got weird because I was
-late.
+MsgDisp("Sassa","Sorry, things got weird because I was late.
 Come on, let's go now.");

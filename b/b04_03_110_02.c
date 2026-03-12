@@ -3,9 +3,8 @@ ChLayout(1);
 ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311002_03_000");
-MsgDisp("Honda","If I wore a high-speed competitive
-swimsuit, I wonder if I could swim
-faster?");
+MsgDisp("Honda","If I wore a high-speed competitive swimsuit,
+I wonder if I could swim faster?");
 MsgSel("Like a sharkskin swimsuit?","Is speed really the issue?","Starting with the looks first?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -14,9 +13,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040311002_03_010");
-    MsgDisp("Honda","Right right. Like if just wearing it gives
-you more buoyancy. I'd also like to try
-it.");
+    MsgDisp("Honda","Right right.
+Like if just wearing it gives you more
+buoyancy. I'd also like to try it.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,7 +42,7 @@ Yes, I'll learn how to swim first.");
         ChMouth(3,2);
         ChMotion(3,1);
         VoicePlay("B040311002_03_030");
-        MsgDisp("Honda","Ehー.
+        MsgDisp("Honda","Eh—.
 You don't have to put it like that.
 I'm starting to float a little you know?");
         ChEye(3,4);
@@ -64,8 +63,8 @@ Your words somewhat have a bite to them
 today.");
         MsgDisp("主人公","Eh, that's not what I meant!");
         MsgDisp("主人公","It's just that I think it's amazing that
-｛Honda＊＊｝ enjoys even the things he's
-bad at.");
+｛Honda＊＊｝ enjoys even the things he's bad
+at.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -77,8 +76,7 @@ That's what I meant!");
         ChMotion(3,4);
         VoicePlay("B040311002_03_070");
         MsgDisp("Honda","Then, I'll let you in on a special secret
-about why I always look like I'm having
-fun.");
+about why I always look like I'm having fun.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -98,9 +96,9 @@ Yeah, thank you!");
     DateRateSet(2);
     ChSet(3,0,1);
     VoicePlay("B040311002_03_090");
-    MsgDisp("Honda","Yep yep. 
-Yeah, exactly. Dressing the part
-is important to get your spirits up.");
+    MsgDisp("Honda","Yep yep.
+Yeah, exactly. Dressing the part is important
+to get your spirits up.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

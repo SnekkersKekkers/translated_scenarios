@@ -7,9 +7,9 @@ ChMotion(7,3);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040706102_07_000");
-MsgDisp("Mikage","When you think about summer break as a
-high school student, you think of your
-friends and the beach right?");
+MsgDisp("Mikage","When you think about summer break as a high
+school student, you think of your friends and
+the beach right?");
 MsgSel("Do you have any good memories of it?","You would prefer the mountains, wouldn't you?","It would be better to go as a two▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,2);
     VoicePlay("B040706102_07_010");
     MsgDisp("Mikage","Unfortunately not.
-I don't have any good or bad memories of
-it.");
+I don't have any good or bad memories of it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -65,25 +64,25 @@ It's just a different way of enjoying it.");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040706102_07_050");
-        MsgDisp("Mikage","Listen up, okay? You can still go to the
-beach as a couple in the future. Even when
-you're an old lady.");
+        MsgDisp("Mikage","Listen up, okay?
+You can still go to the beach as a couple in
+the future. Even when you're an old lady.");
         MsgDisp("主人公","Ehh?");
         ChEye(7,1);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040706102_07_060");
         MsgDisp("Mikage","But, the time in which you can go to the
-beach with your classmates is only in
-these three years now, you know?");
+beach with your classmates is only in these
+three years now, you know?");
         ChEye(7,1);
         ChMouth(7,3);
         ChMotion(7,3);
         VoicePlay("B040706102_07_070");
         MsgDisp("Mikage","It'll be too late to regret in ten years.
 Sensei said it, so it can't be wrong.");
-        MsgDisp("主人公","But...this is the only time I can go to
-the beach with ｛Mikage＊＊｝?");
+        MsgDisp("主人公","But...this is the only time I can go to the
+beach with ｛Mikage＊＊｝?");
         ChEye(7,0);
         ChMouth(7,1);
         ChMotion(7,4);
@@ -98,8 +97,8 @@ If you feel like coming.");
         MsgDisp("Mikage","Wait.
 Do you have heat stroke?
 Come on, let's go to the rest area.");
-        MsgDisp("主人公","(I hope ｛Mikage＊＊｝ and I...can come
-here just the two of us one day.)");
+        MsgDisp("主人公","(I hope ｛Mikage＊＊｝ and I...can come here
+just the two of us one day.)");
         break ;
         default :
         DbgAssert(1);

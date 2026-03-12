@@ -33,8 +33,8 @@ ChMouth(31,0);
 ChMotion(31,1);
 VoicePlay("B050200300_31_020");
 MsgDisp("Goro","Mmhm.
-Hey, isn't that guy with you a diamond in
-the rough?");
+Hey, isn't that guy with you a diamond in the
+rough?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -79,7 +79,7 @@ ChOpen(31,254,4,0,0,#1,#1,0,0);
 VoicePlay("B050200300_31_050");
 MsgDisp("Goro","We're B・a・c・k.");
 MsgDisp("主人公","Ah, welcome back.
-EH——");
+EH—");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);
@@ -112,8 +112,7 @@ StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("B050200300_31_080");
 MsgDisp("Goro","Nonono～
-I'm just trying out the clothes on your
-body.");
+I'm just trying out the clothes on your body.");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -130,8 +129,7 @@ Wait(90,0);
 VoicePlay("B050200300_02_060");
 MsgDisp("Sassa","Ah.
 Thank you so much...");
-MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ seems a bit
-disappointed.
+MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ seems a bit disappointed.
 The suit really made him look cool.)");
 BGMStop();
 ChPrmTblAdd(2,0);

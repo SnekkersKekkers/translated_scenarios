@@ -40,9 +40,9 @@ It'll be a pity to wake up.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040406501_04_030");
-    MsgDisp("Nanatsumori","Yeah. I think I'll remember today for next
-year, the year after, and for a long time
-to come.");
+    MsgDisp("Nanatsumori","Yeah.
+I think I'll remember today for next year,
+the year after, and for a long time to come.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

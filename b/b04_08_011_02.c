@@ -62,26 +62,25 @@ So it's like that after all.");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040801102_08_050");
-        MsgDisp("Shirahane","I keep endin' up in places where I stick
-out like a sore thumb, and I really regret
-it...");
+        MsgDisp("Shirahane","I keep endin' up in places where I stick out
+like a sore thumb, and I really regret it...");
         MsgDisp("主人公","???");
         ChEye(8,2);
         ChMouth(8,0);
         ChMotion(8,2,1);
         VoicePlay("B040801102_08_060");
-        MsgDisp("Shirahane","Don't look at me with such a strange look
-on your face.");
-        MsgDisp("主人公","That's because this isn't like
-｛Daichi＊＊｝ at all.");
+        MsgDisp("Shirahane","Don't look at me with such a strange look on
+your face.");
+        MsgDisp("主人公","That's because this isn't like ｛Daichi＊＊｝
+at all.");
         ChEye(8,0);
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040801102_08_070");
         MsgDisp("Shirahane","Not like me...?");
         MsgDisp("主人公","Yeah.
-Why do you think this place is cool or
-that you're out of place here?");
+Why do you think this place is cool or that
+you're out of place here?");
         ChEye(8,1);
         ChMouth(8,4);
         ChMotion(8,4,1);
@@ -99,9 +98,9 @@ Why am I worried 'bout stuff like that?");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("B040801102_08_100");
-        MsgDisp("Shirahane","When I'm with you, I feel like I have to
-look cool, that's probably why I was
-worried about somethin' dumb like that.");
+        MsgDisp("Shirahane","When I'm with you, I feel like I have to look
+cool, that's probably why I was worried about
+somethin' dumb like that.");
         ChEye(8,3);
         ChMouth(8,3);
         ChEyeOpenLevel(8,0);

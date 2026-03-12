@@ -12,8 +12,7 @@ Are my clothes weird?");
 ChMotion(4,0);
 VoicePlay("B020400000_04_010");
 MsgDisp("Nanatsumori","Not weird.
-I like it. I may not be able to 
-take my eyes off you today.");
+I like it. I may not be able to take my eyes
+off you today.");
 MsgDisp("主人公","(Oh, good!
-｛Nanatsumori＊｝ seems to like this
-fashion!)");
+｛Nanatsumori＊｝ seems to like this fashion!)");

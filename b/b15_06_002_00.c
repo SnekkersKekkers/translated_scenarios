@@ -17,8 +17,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B150600200_06_020");
-MsgDisp("Himuro","If I stay quiet, you'll get carried
-away...");
+MsgDisp("Himuro","If I stay quiet, you'll get carried away...");
 MsgDisp("主人公","I'm sorry...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -56,8 +55,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("B150600200_06_070");
-MsgDisp("Himuro","Then, do you understand that you're a
-girl?");
+MsgDisp("Himuro","Then, do you understand that you're a girl?");
 MsgDisp("主人公","O-Of course!");
 ChEye(6,2);
 ChMouth(6,0);
@@ -72,8 +70,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B150600200_06_090");
-MsgDisp("Himuro","Hey, could you get a better hold of
-yourself?
+MsgDisp("Himuro","Hey, could you get a better hold of yourself?
 You are a year older than me after all.");
 MsgDisp("主人公","Y-Yeah...
 I'll do my best.");

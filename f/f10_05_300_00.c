@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("F100530000_48_000");
 MsgDisp("Girl A","Good morning!");
 VoicePlay("F100530000_44_000");
-MsgDisp("Girl B","Morningー.");
+MsgDisp("Girl B","Morning—.");
 VoicePlay("F100530000_05_000");
 MsgDisp("Hiiragi","Good morning.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, morning.

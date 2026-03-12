@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(2,0);
     VoicePlay("B040224101_02_020");
     MsgDisp("Sassa","Haha, definitely, there are better ways to
-say it, like \"Cute Baby Sheep\" or
-something, right?");
+say it, like \"Cute Baby Sheep\" or something,
+right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +40,8 @@ something, right?");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040224101_02_030");
-    MsgDisp("Sassa","Are you talking about whether I like
-eating them?");
+    MsgDisp("Sassa","Are you talking about whether I like eating
+them?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -2,13 +2,13 @@ BGOpen("ho210",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I finished my summer homework.
-Time to take a break and watch some TV——)");
+Time to take a break and watch some TV—)");
 SEPlay("EV_SE_721",0,0.6);
 SEWait();
 VoicePlay("D010300700_43_000");
 MsgDisp("Moderator","Correct answer∈
 And the winner of the \"Quiz Brain Interhigh\"
-is Habataki Academy's second year student——");
+is Habataki Academy's second year student—");
 MsgDisp("主人公","(Eh...)");
 MsgClose();
 ScrFadeOut(0);
@@ -58,7 +58,7 @@ StlMouth(3,0);
 VoicePlay("D010300700_03_030");
 MsgDisp("Honda","Eh, already?
 Wait, wait!
-There's one more person I'd like to——");
+There's one more person I'd like to—");
 BGMStop();
 SEStop("EV_SE_GAYA_003",2);
 MsgClose();

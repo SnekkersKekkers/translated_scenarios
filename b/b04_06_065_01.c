@@ -63,14 +63,14 @@ How should I take that?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040606501_06_050");
-        MsgDisp("Himuro","...But, it's not like we have to stop
-hanging out after you graduate.");
+        MsgDisp("Himuro","...But, it's not like we have to stop hanging
+out after you graduate.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,4,1);
         VoicePlay("B040606501_06_060");
-        MsgDisp("Himuro","We'll both live in Habataki City, we can
-at least still meet up.");
+        MsgDisp("Himuro","We'll both live in Habataki City, we can at
+least still meet up.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
@@ -83,15 +83,13 @@ would still like to meet up.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040606501_06_080");
-        MsgDisp("Himuro","...Still, maybe we shouldn't make a
-promise for a whole year later so
-casually.");
+        MsgDisp("Himuro","...Still, maybe we shouldn't make a promise
+for a whole year later so casually.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);
         VoicePlay("B040606501_06_090");
-        MsgDisp("Himuro","But, I don't think my feelings will
-change.");
+        MsgDisp("Himuro","But, I don't think my feelings will change.");
         MsgDisp("主人公","Yeah!
 Thank you.");
         break ;

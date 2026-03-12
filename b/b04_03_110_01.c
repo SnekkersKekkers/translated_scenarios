@@ -4,8 +4,8 @@ ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311001_03_000");
 MsgDisp("Honda","Look, that guy is amazing.
-I wonder how it feels to be able to swim
-like that.");
+I wonder how it feels to be able to swim like
+that.");
 MsgSel("You end up enchanted huh","Maybe he's a swimmer?","But, the splashing might be annoying");
 switch (MsgSelRsltGet()){
     case 0:
@@ -25,8 +25,8 @@ Haa, I couldn't take my eyes off you.");
     ChMotion(3,1);
     VoicePlay("B040311001_03_020");
     MsgDisp("Honda","Yeah, maybe.
-Because he's on a different level to
-everyone around him.");
+Because he's on a different level to everyone
+around him.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ everyone around him.");
     ChMotion(3,3);
     VoicePlay("B040311001_03_030");
     MsgDisp("Honda","That's true. That would bother others.
-Even if they can see underwater, not
-seeing those around them is a point off.");
+Even if they can see underwater, not seeing
+those around them is a point off.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

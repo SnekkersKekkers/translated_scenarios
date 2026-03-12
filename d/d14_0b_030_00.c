@@ -60,7 +60,7 @@ ChMotion(3,3,1);
 VoicePlay("D140B03000_03_020");
 MsgDisp("Honda","I see!
 If you're interested in dieting, I have the
-program just for y——");
+program just for y—");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -68,7 +68,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B03000_01_020");
 MsgDisp("Kazama","To those who don't want to ruin their
 enjoyable lunchtime with a lecture on dieting
-please say yeー.");
+please say ye—.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,2,1);

@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040121101_01_010");
     MsgDisp("Kazama","Yeah, that surprised me.
-It was especially impressive seeing it
-from under water.");
+It was especially impressive seeing it from
+under water.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

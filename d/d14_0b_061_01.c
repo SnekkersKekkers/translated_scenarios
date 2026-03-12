@@ -49,7 +49,7 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B06101_04_020");
 MsgDisp("Nanatsumori","Dahon isn't here.
-Don't force yourself to keep us compa——");
+Don't force yourself to keep us compa—");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);

@@ -13,8 +13,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B180700000_07_010");
 MsgDisp("Mikage","...Is it no good?
-I thought it would change the mood in a
-fun way.");
+I thought it would change the mood in a fun
+way.");
 MsgSel("No, it's fine.","Mm~, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
     ChCheek(7,5);
     VoicePlay("B180700000_07_030");
     MsgDisp("Mikage","I said it myself, but I'm getting bashful.");
-    MsgDisp("主人公","(When you say something like that, I'll
-feel shy too...)");
+    MsgDisp("主人公","(When you say something like that, I'll feel
+shy too...)");
     ChCheek(7,0);
     break ;
     case 1:

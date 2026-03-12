@@ -75,8 +75,7 @@ Then...next time?");
         VoicePlay("B040715102_07_070");
         MsgDisp("Mikage","The strike is a double-edged sword.");
         MsgDisp("主人公","(Double-edged sword...?
-Even so, ｛Mikage＊＊｝ has improved a
-lot.)");
+Even so, ｛Mikage＊＊｝ has improved a lot.)");
         break ;
         default :
         DbgAssert(1);

@@ -49,14 +49,14 @@ So you like swimming?");
         MsgDisp("Nanatsumori","No, I can swim.
 It's just that outside of school lessons I
 don't have any interest in swimming.");
-        MsgDisp("主人公","I don't think you need to think about it
-so seriously...");
+        MsgDisp("主人公","I don't think you need to think about it so
+seriously...");
         ChEye(4,2);
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("B040411002_04_050");
-        MsgDisp("Nanatsumori","But, if I just float around, I'll bother
-the other customers.");
+        MsgDisp("Nanatsumori","But, if I just float around, I'll bother the
+other customers.");
         MsgDisp("主人公","As long as it's not a competitive swimming
 pool, it's no problem if you float around.");
         ChEye(4,3);
@@ -72,8 +72,8 @@ pool, it's no problem if you float around.");
         MsgDisp("Nanatsumori","Then, let's play in the pool you like so
 much.");
         MsgDisp("主人公","Yay!
-Then, do you want to go down the water
-slide together?");
+Then, do you want to go down the water slide
+together?");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,3,1);

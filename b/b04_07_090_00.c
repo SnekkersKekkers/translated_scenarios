@@ -7,8 +7,8 @@ ChEyeOpenLevel(7,0);
 ScrFadeIn(0);
 VoicePlay("B040709000_07_000");
 MsgDisp("Mikage","*Sniff-sniff*...
-Lots of different plants are giving their
-own aroma.");
+Lots of different plants are giving their own
+aroma.");
 MsgSel("It smells sweet.","There's mint isn't there?","It's a strong aroma.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,0);
     VoicePlay("B040709000_07_010");
     MsgDisp("Mikage","Flowers and fruit attract insects and
-animals. You've also fallen for the
-plant's strategies, haven't you?");
+animals. You've also fallen for the plant's
+strategies, haven't you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,8 +43,7 @@ You've got a good nose.");
     ChMotion(7,1);
     VoicePlay("B040709000_07_030");
     MsgDisp("Mikage","Hmm, right～
-Well, I guess it's irresistible to
-insects.");
+Well, I guess it's irresistible to insects.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

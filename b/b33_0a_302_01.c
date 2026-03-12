@@ -20,8 +20,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A30201_01_000");
-MsgDisp("Kazama","I'll commend you for not suggesting we
-should swim out to sea.");
+MsgDisp("Kazama","I'll commend you for not suggesting we should
+swim out to sea.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -32,8 +32,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A30201_02_010");
-MsgDisp("Sassa","We can peacefully play with a beachball
-here.");
+MsgDisp("Sassa","We can peacefully play with a beachball here.");
 MsgClose();
 SEPlay("EV_SE_561");
 ChClose(2,0,30);
@@ -48,8 +47,9 @@ MsgDisp("Kazama","Soba!");
 SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
 VoicePlay("B330A30201_02_020");
-MsgDisp("Sassa","Haa∋ You suddenly made up that rule!
-Errー...Udon!");
+MsgDisp("Sassa","Haa∋
+You suddenly made up that rule!
+Err—...Udon!");
 SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
 VoicePlay("B330A30201_06_010");

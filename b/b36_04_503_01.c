@@ -14,14 +14,15 @@ ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("B360450301_04_000");
 MsgDisp("Nanatsumori","Well, it's half of my dinner as well.");
-MsgDisp("主人公","Ah...I see. Since ｛Nanatsumori＊｝ lives
-alone after all.");
+MsgDisp("主人公","Ah...
+I see.
+Since ｛Nanatsumori＊｝ lives alone after all.");
 ChEye(4,0);
 ChMotion(4,1,1);
 VoicePlay("B360450301_04_010");
 MsgDisp("Nanatsumori","Right.
-That's why, when I go out to eat, I make
-sure to fill my stomach a little.");
+That's why, when I go out to eat, I make sure
+to fill my stomach a little.");
 MsgDisp("主人公","Hmm...
 Do you cook for yourself?");
 ChEye(4,0);
@@ -29,13 +30,12 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B360450301_04_020");
 MsgDisp("Nanatsumori","Yeah.
-If it's a dish I like, I can usually make
-it.");
+If it's a dish I like, I can usually make it.");
 MsgDisp("主人公","That's impressive.");
 ChMouth(4,3);
 VoicePlay("B360450301_04_030");
-MsgDisp("Nanatsumori","If you also lived alone, you could
-definitely do it.");
+MsgDisp("Nanatsumori","If you also lived alone, you could definitely
+do it.");
 MsgDisp("主人公","I wonder?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -50,8 +50,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360450301_04_050");
 MsgDisp("Nanatsumori","Well for me, if it was something sweet or
-spicy, you can win me over 90 percent of
-the time.");
+spicy, you can win me over 90 percent of the
+time.");
 MsgDisp("主人公","(Is this a hint to win ｛Nanatsumori＊｝
 over???)");
 BGMStop();

@@ -52,8 +52,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B330B30400_04_030");
-MsgDisp("Nanatsumori","The model is the one sitting in that
-chair.");
+MsgDisp("Nanatsumori","The model is the one sitting in that chair.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,0);
@@ -89,8 +88,8 @@ VoicePlay("B330B30400_04_060");
 MsgDisp("Nanatsumori","But, the fact that there's a stylist here
 means they're putting a lot of effort into
 today's shoot.");
-MsgDisp("主人公","(Does that mean that woman is an
-incredible stylist?)");
+MsgDisp("主人公","(Does that mean that woman is an incredible
+stylist?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

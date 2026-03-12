@@ -28,7 +28,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P840400002_04_020");
 MsgDisp("Nanatsumori","No, no.
-Let me at least get some tea——");
+Let me at least get some tea—");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);

@@ -8,7 +8,7 @@ BGMPlay("BGM_PLACE_CASTLE",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360222100_02_000");
-MsgDisp("Sassa","Phewー...
+MsgDisp("Sassa","Phew—...
 The castle at sunset is nice, huh.");
 MsgDisp("主人公","Yeah.
 The town is dyed red, it's beautiful.");
@@ -23,23 +23,23 @@ ChMouth(2,4);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B360222100_02_020");
-MsgDisp("Sassa","There's very few visitors at this time, so
-we get this place to ourselves.
+MsgDisp("Sassa","There's very few visitors at this time, so we
+get this place to ourselves.
 I feel bad for Ryota and Inori though.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B360222100_02_030");
 MsgDisp("Sassa","And I'm an idiot, so I like high places.
-Both the top of castle and podium stand
-are great.");
+Both the top of castle and podium stand are
+great.");
 MsgDisp("主人公","Hehe.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360222100_02_040");
-MsgDisp("Sassa","That's why, even in the podium stand of
-your mind, I'll be climbing to the top.");
+MsgDisp("Sassa","That's why, even in the podium stand of your
+mind, I'll be climbing to the top.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);

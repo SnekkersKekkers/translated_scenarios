@@ -9,9 +9,9 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403200_04_000");
-MsgDisp("Nanatsumori","Excitingー.
-It looks nice no matter what I take a
-picture of.");
+MsgDisp("Nanatsumori","Exciting—.
+It looks nice no matter what I take a picture
+of.");
 MsgSel("Aren't you aiming for too much?","Yeah, it's pretty!","It kinda makes my heart race");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,9 +29,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040403200_04_020");
-    MsgDisp("Nanatsumori","You look happy. I guess when you see or
-experience something nice, you end up
-making that kind of face.");
+    MsgDisp("Nanatsumori","You look happy.
+I guess when you see or experience something
+nice, you end up making that kind of face.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -24,8 +24,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMouth(5,2);
     VoicePlay("B040516002_05_020");
-    MsgDisp("Hiiragi","The form of the bear will make it
-difficult to catch, but, I'll try it.");
+    MsgDisp("Hiiragi","The form of the bear will make it difficult
+to catch, but, I'll try it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +42,7 @@ difficult to catch, but, I'll try it.");
         ChMotion(5,4);
         VoicePlay("B040516002_05_030");
         MsgDisp("Hiiragi","That's putting the cart before the horse.
-Please find something you would want
-first.");
+Please find something you would want first.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,21 +58,22 @@ What would you like?");
         ChEye(5,4);
         VoicePlay("B040516002_05_050");
         MsgDisp("Hiiragi","Your smile is my reward.
-So I need you to be really happy with
-what I win.");
+So I need you to be really happy with what I
+win.");
         MsgDisp("主人公","Umm...");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040516002_05_060");
         MsgDisp("Hiiragi","Ah, do you doubt my technique?");
-        MsgDisp("主人公","No, as long as I get to see your happy
-face when you win, ｛Hiiragi＊＊＊｝,
-anything is fine with me.");
+        MsgDisp("主人公","No, as long as I get to see your happy face
+when you win, ｛Hiiragi＊＊＊｝, anything is fine
+with me.");
         ChEye(5,3);
         ChMouth(5,2);
         ChMotion(5,0);
         VoicePlay("B040516002_05_070");
-        MsgDisp("Hiiragi","! You're the same as me...");
+        MsgDisp("Hiiragi","!
+You're the same as me...");
         ChEye(5,4);
         ChMouth(5,3);
         VoicePlay("B040516002_05_080");
@@ -86,9 +86,9 @@ We came all this way, why not try it?");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040516002_05_090");
-        MsgDisp("Hiiragi","Hーm...
-Let's search for a machine I can
-definitely win.");
+        MsgDisp("Hiiragi","H—m...
+Let's search for a machine I can definitely
+win.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);

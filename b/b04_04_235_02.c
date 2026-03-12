@@ -7,9 +7,9 @@ ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040423502_04_000");
-MsgDisp("Nanatsumori","There were a lot of disembodied souls
-flying around on the graveyard course,
-weren't there?");
+MsgDisp("Nanatsumori","There were a lot of disembodied souls flying
+around on the graveyard course, weren't
+there?");
 MsgSel("Eh...?","There were so many of them, that it was pretty well-lit","I was so scared, I didn't look that much...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -37,13 +37,13 @@ They were there...they were there∋");
         MsgDisp("Nanatsumori","Eh?
 What's with that reaction?
 They were there.");
-        MsgDisp("主人公","There were so many that I couldn't see
-them.");
+        MsgDisp("主人公","There were so many that I couldn't see them.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423502_04_030");
-        MsgDisp("Nanatsumori","∋ T-They were there.
+        MsgDisp("Nanatsumori","∋
+T-They were there.
 About 100 of them appeared.");
         MsgDisp("主人公","You're kidding...
 Dozens of them?");
@@ -52,8 +52,7 @@ Dozens of them?");
         ChMotion(4,0,1);
         VoicePlay("B040423502_04_040");
         MsgDisp("Nanatsumori","Are you joking...
-You're even trying to scare me like
-that——");
+You're even trying to scare me like that—");
         MsgDisp("主人公","......");
         ChEye(4,2);
         ChMouth(4,2);
@@ -83,8 +82,8 @@ surface.");
         ChMotion(4,2,1);
         VoicePlay("B040423502_04_090");
         MsgDisp("Nanatsumori","So it was like that.
-Those guys are 100 years too early to
-scare me like that.");
+Those guys are 100 years too early to scare
+me like that.");
         MsgDisp("主人公","(｛Nanatsumori＊｝ is quite scared, huh...)");
         break ;
         default :
@@ -111,8 +110,8 @@ I could see our feet quite well.");
     ChMotion(4,0,1);
     VoicePlay("B040423502_04_110");
     MsgDisp("Nanatsumori","That's a shame.
-Then next time I'll hold your hand, so
-make sure you get a proper look.");
+Then next time I'll hold your hand, so make
+sure you get a proper look.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

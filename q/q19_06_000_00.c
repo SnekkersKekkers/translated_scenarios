@@ -53,7 +53,7 @@ StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("Q190600000_06_060");
 MsgDisp("Himuro","Eh...
-Ah——");
+Ah—");
 MsgClose();
 SEPlay("EV_SE_689");
 SEWait();

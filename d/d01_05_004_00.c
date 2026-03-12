@@ -187,7 +187,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500400_05_120");
-MsgDisp("Hiiragi","Making people happy——
+MsgDisp("Hiiragi","Making people happy—
 I do this for that reason alone.");
 ChEye(5,2);
 ChMouth(5,4);

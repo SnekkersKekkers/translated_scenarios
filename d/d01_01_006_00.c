@@ -46,7 +46,7 @@ MsgDisp("主人公","(Haa, that surprised me.
 But I managed to get to the auction in time.
 I wonder what's happening here...?)");
 VoicePlay("D010100600_01_000");
-MsgDisp("Kazama?","——Charity Auction Catalog: Collection
+MsgDisp("Kazama?","—Charity Auction Catalog: Collection
 Number 1");
 MsgDisp("主人公","(Huh?
 That voice, that's...)");
@@ -133,7 +133,7 @@ VoicePlay("D010100600_01_090");
 MsgDisp("Kazama","Since it's for charity, they picked a high
 schooler like me to do it.
 I used to watch my dad's auctions, so...");
-MsgDisp("主人公","I see.\nWell maybe in the future, ｛Kazama＊＊｝, \nyou can be just like your dad——");
+MsgDisp("主人公","I see.\nWell maybe in the future, ｛Kazama＊＊｝, \nyou can be just like your dad—");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

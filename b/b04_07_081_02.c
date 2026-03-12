@@ -31,8 +31,8 @@ I'm sure something happy will happen.");
     ChMotion(7,5);
     VoicePlay("B040708102_07_020");
     MsgDisp("Mikage","Sorry, sorry!
-You're right, spacing out is
-disrespectful to the cherry blossoms.");
+You're right, spacing out is disrespectful to
+the cherry blossoms.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -86,16 +86,15 @@ character?");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040708102_07_080");
-        MsgDisp("Mikage","On the other hand, you guys are growing
-well.
+        MsgDisp("Mikage","On the other hand, you guys are growing well.
 I'm happy.");
         ChEye(7,1);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040708102_07_090");
-        MsgDisp("Mikage","You guys, the plants in the gardening
-club, Molly at home...you're all only
-growing bigger...");
+        MsgDisp("Mikage","You guys, the plants in the gardening club,
+Molly at home...you're all only growing
+bigger...");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,2);

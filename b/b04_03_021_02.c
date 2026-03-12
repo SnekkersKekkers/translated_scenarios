@@ -43,8 +43,8 @@ You don't give off that impression.");
         ChMouth(3,0);
         ChMotion(3,0,1);
         VoicePlay("B040302102_03_030");
-        MsgDisp("Honda","Really? I guess I have been talking more
-with everyone since entering high school.
+        MsgDisp("Honda","Really? I guess I have been talking more with
+everyone since entering high school.
 I didn't talk much in junior high.");
         ChEye(3,0);
         ChMouth(3,0);
@@ -54,9 +54,8 @@ I didn't talk much in junior high.");
         ChMouth(3,4);
         ChMotion(3,2,1);
         VoicePlay("B040302102_03_040");
-        MsgDisp("Honda","Yeah, back then I was always reading
-books. Well, I guess that hasn't changed
-even now.");
+        MsgDisp("Honda","Yeah, back then I was always reading books.
+Well, I guess that hasn't changed even now.");
         ChEye(3,0);
         ChMouth(3,2);
         ChMotion(3,0,1);
@@ -83,9 +82,9 @@ high, and something I have now - it's you.");
         ChMotion(3,4,1);
         ChCheek(3,5);
         VoicePlay("B040302102_03_080");
-        MsgDisp("Honda","I haven't changed at all, but the
-difference between having you and not
-having you is immense.");
+        MsgDisp("Honda","I haven't changed at all, but the difference
+between having you and not having you is
+immense.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,0,1);
@@ -96,8 +95,8 @@ having you is immense.");
         ChMotion(3,3,1);
         VoicePlay("B040302102_03_090");
         MsgDisp("Honda","If you can do this without doing anything,
-just imagine what it'll be like when you
-do something.");
+just imagine what it'll be like when you do
+something.");
         ChEye(3,1);
         ChMouth(3,4);
         ChLayout(0);
@@ -110,8 +109,8 @@ do something.");
         ChLayout(1);
         VoicePlay("B040302102_03_110");
         MsgDisp("Honda","...what I wonder?");
-        MsgDisp("主人公","(｛Honda＊＊｝, is there something you want
-me to do?)");
+        MsgDisp("主人公","(｛Honda＊＊｝, is there something you want me
+to do?)");
         break ;
         default :
         DbgAssert(1);

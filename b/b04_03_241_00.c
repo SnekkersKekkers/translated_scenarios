@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040324100_03_010");
-    MsgDisp("Honda","Yep yep, like piercing through it with a
-big fork, right?");
+    MsgDisp("Honda","Yep yep, like piercing through it with a big
+fork, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ Working animals, huh?");
     ChSet(3,3);
     VoicePlay("B040324100_03_030");
     MsgDisp("Honda","Ding ding ding! When I think of a farm, I
-also think of those tall silos. I hear
-they haven't been used lately.");
+also think of those tall silos.
+I hear they haven't been used lately.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

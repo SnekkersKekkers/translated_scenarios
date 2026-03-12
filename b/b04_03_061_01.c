@@ -39,8 +39,8 @@ Be careful of burns.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040306101_03_030");
-    MsgDisp("Honda","Haha, yeah, I've seen several people
-buried up to their whole bodies, for sure.
+    MsgDisp("Honda","Haha, yeah, I've seen several people buried
+up to their whole bodies, for sure.
 Be careful not to step on them!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

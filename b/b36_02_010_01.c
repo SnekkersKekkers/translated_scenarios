@@ -12,7 +12,7 @@ ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B360201001_46_000");
 MsgDisp("Clerk","We're having a limited-time sale just now.
-There's some great bargainsー!");
+There's some great bargains—!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -66,17 +66,16 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360201001_02_060");
-MsgDisp("Sassa","No, hey...we also look like a couple from
-the back, don't we?
+MsgDisp("Sassa","No, hey...we also look like a couple from the
+back, don't we?
 It's nice.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B360201001_02_070");
-MsgDisp("Sassa","It'd be bad if Ryota and Inori saw us
-in a place like thisー.");
-MsgDisp("主人公","(｛Sassa＊＊｝, you seem to be super
-happy...)");
+MsgDisp("Sassa","It'd be bad if Ryota and Inori saw us in a
+place like this—.");
+MsgDisp("主人公","(｛Sassa＊＊｝, you seem to be super happy...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

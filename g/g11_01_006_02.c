@@ -46,7 +46,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100602_01_030");
-MsgDisp("Kazama","Haaー, I wish I didn't ask.");
+MsgDisp("Kazama","Haa—, I wish I didn't ask.");
 MsgDisp("主人公","Umm...");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -84,7 +84,7 @@ ChMotion(1,1);
 VoicePlay("G110100602_01_070");
 MsgDisp("Kazama","No, that cloud over there also looks like
 him.");
-MsgDisp("主人公","Ehhー?");
+MsgDisp("主人公","Ehh—?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -13,8 +13,8 @@ ChOpen(2,255,0,0,4,#1,#1,0,3);
 ChOpen(6,255,0,0,0,#1,#1,0,3);
 ScrFadeIn(0);
 VoicePlay("B330A10801_06_000");
-MsgDisp("Himuro","Ryota-senpai, you really like haunted
-houses don't you...");
+MsgDisp("Himuro","Ryota-senpai, you really like haunted houses
+don't you...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -25,8 +25,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A10801_02_000");
-MsgDisp("Sassa","You say that, but you sure look like
-you're having fun.");
+MsgDisp("Sassa","You say that, but you sure look like you're
+having fun.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -109,8 +109,8 @@ ChMotion(1,1);
 VoicePlay("B330A10801_01_040");
 MsgDisp("Kazama","Yeah, we got split up along the way.");
 VoicePlay("B330A10801_06_040");
-MsgDisp("Himuro","What, why are you saying it as if it was
-some divine force at play?");
+MsgDisp("Himuro","What, why are you saying it as if it was some
+divine force at play?");
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
@@ -121,8 +121,8 @@ ChOpen(1,255,0,0,2,8,#1,0,3,0,30);
 SEPlay("EV_SE_544",0,0.5);
 ChOpen(6,255,2,0,0,0,#1,0,3,0,30);
 VoicePlay("B330A10801_06_050");
-MsgDisp("Himuro","You and Ryota-senpai were clearly just
-trying to be alone right?");
+MsgDisp("Himuro","You and Ryota-senpai were clearly just trying
+to be alone right?");
 MsgDisp("主人公","Ehh?
 It was scary...so I just wanted to get out
 quickly?");
@@ -189,8 +189,8 @@ ChMotion(1,0);
 VoicePlay("B330A10801_01_070");
 MsgDisp("Kazama","And why is that?
 Hey?");
-MsgDisp("主人公","(｛Kazama＊＊｝, you were thinking of
-something like that...)");
+MsgDisp("主人公","(｛Kazama＊＊｝, you were thinking of something
+like that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

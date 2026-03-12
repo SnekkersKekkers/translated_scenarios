@@ -10,7 +10,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040412100_04_000");
-MsgDisp("Nanatsumori","Ahー, I'm getting excited...");
+MsgDisp("Nanatsumori","Ah—, I'm getting excited...");
 MsgSel("Let's find some bargains!","Setting up a stall seems fun","This is an environmentally-friendly event.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,8 +33,8 @@ clothing, let me know.");
     ChMotion(4,1,1);
     VoicePlay("B040412100_04_020");
     MsgDisp("Nanatsumori","Maybe.
-I would be happy if people liked the items
-I chose.");
+I would be happy if people liked the items I
+chose.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

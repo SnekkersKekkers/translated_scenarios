@@ -14,7 +14,7 @@ VoicePlay("B100600000_06_000");
 MsgDisp("Himuro","It's me.
 Today was a bit, you know.");
 MsgDisp("主人公","Um...
-I——");
+I—");
 VoicePlay("B100600000_06_010");
 MsgDisp("Himuro","Stop.
 I don't want to hear it.");
@@ -23,13 +23,13 @@ MsgDisp("Himuro","I also went a bit too far.
 Let's put today behind us.");
 MsgDisp("主人公","Y-Yeah.");
 VoicePlay("B100600000_06_030");
-MsgDisp("Himuro","Then, let's not say things like that to
-each other anymore. That's all I had to
-say. ...Goodnight.");
+MsgDisp("Himuro","Then, let's not say things like that to each
+other anymore.
+That's all I had to say. ...Goodnight.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛Himuro＊＊｝...went to the trouble of
-calling me.
+MsgDisp("主人公","(｛Himuro＊＊｝...went to the trouble of calling
+me.
 I'm so happy.)");
 MsgClose();
 ScrFadeOut(0,0);

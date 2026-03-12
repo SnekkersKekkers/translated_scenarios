@@ -12,8 +12,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B360105100_01_000");
 MsgDisp("Kazama","It's quiet huh.
-It's hard to believe it was so noisy just
-a minute ago.");
+It's hard to believe it was so noisy just a
+minute ago.");
 MsgDisp("主人公","Hehe.
 That's because it was so lively today.");
 ChEye(1,4);
@@ -21,8 +21,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360105100_01_010");
 MsgDisp("Kazama","Well yeah.
-But you're supposed to go to these kinds
-of places as a pair, right?");
+But you're supposed to go to these kinds of
+places as a pair, right?");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -36,18 +36,16 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360105100_01_030");
 MsgDisp("Kazama","Is that so?
-But that also adds to the spice, doesn't
-it?");
+But that also adds to the spice, doesn't it?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360105100_01_040");
 MsgDisp("Kazama","But those guys have good intuition.
-It'll be a pain in the ass if they find
-out.");
-MsgDisp("主人公","｛Kazama＊＊｝, you seem like you're having
-a lot of fun.");
+It'll be a pain in the ass if they find out.");
+MsgDisp("主人公","｛Kazama＊＊｝, you seem like you're having a
+lot of fun.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

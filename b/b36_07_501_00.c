@@ -24,13 +24,12 @@ MsgDisp("Mikage","I'm on a date today～
 MsgDisp("主人公","Uh...!");
 VoicePlay("B360750100_44_010");
 MsgDisp("Girl A","That's unfair, we're only here for a club
-activityー.");
+activity—.");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750100_07_020");
-MsgDisp("Mikage","It's not unfair, club activities are fun
-too!
+MsgDisp("Mikage","It's not unfair, club activities are fun too!
 Do your best everyone～");
 ChEye(7,0);
 ChMouth(7,0);

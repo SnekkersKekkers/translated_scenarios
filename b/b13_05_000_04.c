@@ -13,5 +13,5 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B130500004_05_010");
-MsgDisp("Hiiragi","No one would be scared of such a lovely
-ghost though.");
+MsgDisp("Hiiragi","No one would be scared of such a lovely ghost
+though.");

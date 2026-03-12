@@ -12,8 +12,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402105_04_010");
-MsgDisp("Nanatsumori","Natural fabrics can end up looking
-old or wrinkly, so I'm not great with 
-them...but your styling taught me a lot.");
+MsgDisp("Nanatsumori","Natural fabrics can end up looking old or
+wrinkly, so I'm not great with them...but
+your styling taught me a lot.");
 MsgDisp("主人公","(Oh, good!
 ｛Nanatsumori＊｝ seems to have liked it!)");

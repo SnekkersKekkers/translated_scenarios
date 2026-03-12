@@ -12,14 +12,14 @@ switch (ChPrmGet(3,6)){
     MsgClose();
     ChOpen(3,253,1,4,4,#1,#1,0,0);
     VoicePlay("B010300001_03_000");
-    MsgDisp("Honda","Sorry, I found an interesting road on the
-way here.");
+    MsgDisp("Honda","Sorry, I found an interesting road on the way
+here.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B010300001_03_010");
-    MsgDisp("Honda","I thought it was going to be a shortcut,
-but it ended up being a detour.");
+    MsgDisp("Honda","I thought it was going to be a shortcut, but
+it ended up being a detour.");
     MsgDisp("主人公","Be more careful next time.");
     MsgDispSksp(1,0);
     ChEye(3,0);
@@ -37,17 +37,16 @@ Alright, let's go!");
     MsgClose();
     ChOpen(3,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010300001_03_030");
-    MsgDisp("Honda","You know how people always say they're
-late because they were helping an old
-lady?");
+    MsgDisp("Honda","You know how people always say they're late
+because they were helping an old lady?");
     MsgDisp("主人公","Did you help out an old lady?");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,2);
     VoicePlay("B010300001_03_040");
     MsgDisp("Honda","Nope.
-I was just talking with an old lady about
-the old days in Habataki City.");
+I was just talking with an old lady about the
+old days in Habataki City.");
     MsgDisp("主人公","Hehe, I guess that's just the way it is.");
     MsgDispSksp(1,0);
     ChEye(3,3);

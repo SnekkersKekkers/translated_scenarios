@@ -21,8 +21,8 @@ Thank you very much.");
     ChMotion(5,3,1);
     ScrFadeIn(0);
     VoicePlay("B060500000_05_010");
-    MsgDisp("Hiiragi","I'm starting to get into the habit of
-hanging out with you.
+    MsgDisp("Hiiragi","I'm starting to get into the habit of hanging
+out with you.
 I had a good time.");
     MsgDispSksp(0);
     break ;
@@ -34,8 +34,8 @@ I had a good time.");
     ChMotion(5,0,1);
     ScrFadeIn(0);
     VoicePlay("B060500000_05_020");
-    MsgDisp("Hiiragi","I'm sad that our time together is coming
-to an end.
+    MsgDisp("Hiiragi","I'm sad that our time together is coming to
+an end.
 ...Ah, I said that out loud.");
     MsgDispSksp(0);
     break ;

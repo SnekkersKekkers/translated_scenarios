@@ -20,7 +20,7 @@ in front of you is a special experience,
 like giving a cute girl away to be married
 off, right?");
 VoicePlay("P610700002_45_000");
-MsgDisp("Member A","Ehー, Sensei, do you have kids?");
+MsgDisp("Member A","Eh—, Sensei, do you have kids?");
 VoicePlay("P610700004_07_010");
 ChEye(7,0);
 ChMouth(7,0);
@@ -28,7 +28,7 @@ ChMotion(7,3);
 MsgDisp("Mikage","I do, I do.
 Lots of summer vegetables and you guys.");
 VoicePlay("P610700002_40_030");
-MsgDisp("Member B","We're the same as vegetablesー?");
+MsgDisp("Member B","We're the same as vegetables—?");
 VoicePlay("P610700004_07_020");
 ChEye(7,0);
 ChMouth(7,3);

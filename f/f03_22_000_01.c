@@ -31,7 +31,7 @@ ChEyeOpenLevel(22,0);
 VoicePlay("F032200000_22_040");
 MsgDisp("Hikaru","When it's a touching documentary, watching
 big sis cry out loud is also super funny.
-And then——");
+And then—");
 MsgDisp("主人公","(When ｛ひかる＊｝ watches TV, she
 mostly enjoys watching ｛みちる＊｝'s
 reactions huh...)");

@@ -29,7 +29,7 @@ will feel good.");
         DateRateSet(5);
         ChEye(5,4);
         VoicePlay("B040524201_05_020");
-        MsgDisp("Hiiragi","No——");
+        MsgDisp("Hiiragi","No—");
         ChEye(5,2);
         ChMouth(5,4);
         ChMotion(5,4);
@@ -41,9 +41,9 @@ Are you alright?");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040524201_05_040");
-        MsgDisp("Hiiragi","Yes, it's nothing to worry about. But, I
-wanted to be completely honest with you.
-That's how I feel.");
+        MsgDisp("Hiiragi","Yes, it's nothing to worry about.
+But, I wanted to be completely honest with
+you. That's how I feel.");
         ChEye(5,2);
         VoicePlay("B040524201_05_050");
         MsgDisp("Hiiragi","Am I troubling you?");

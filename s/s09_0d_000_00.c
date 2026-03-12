@@ -55,7 +55,7 @@ Just have fun▼");
     ChMotion(22,5,1);
     ChEyeOpenLevel(22,10);
     VoicePlay("S090D00000_22_040");
-    MsgDisp("Hikaru","Ehー∋
+    MsgDisp("Hikaru","Eh—∋
 You don't want to get your fortune?");
     ChEye(21,0);
     ChMouth(21,0);

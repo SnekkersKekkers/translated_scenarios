@@ -29,8 +29,8 @@ MsgDisp("Honda","Is it because of me..?
 Did I do something?");
 ChMotion(3,2);
 VoicePlay("B070300001_03_520");
-MsgDisp("Honda","I was just keeping an eye on you, because
-you seemed unwell.");
+MsgDisp("Honda","I was just keeping an eye on you, because you
+seemed unwell.");
 MsgDisp("主人公","...That might be it.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -44,7 +44,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_540");
 MsgDisp("Honda","Oh, is that it?
-I was surprised——");
+I was surprised—");
 ChEye(3,5);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -55,8 +55,8 @@ ChMouth(3,0);
 ChMotion(3,4);
 ChCheek(3,8);
 VoicePlay("B070300001_03_560");
-MsgDisp("Honda","I don't know what it is, but now I'm
-feeling nervous too.");
+MsgDisp("Honda","I don't know what it is, but now I'm feeling
+nervous too.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);

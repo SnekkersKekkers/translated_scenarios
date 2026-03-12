@@ -20,9 +20,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200000_02_010");
-MsgDisp("Sassa","I've been in Habataki City for a long
-time, but it seems like there are things I
-still don't know about.");
+MsgDisp("Sassa","I've been in Habataki City for a long time,
+but it seems like there are things I still
+don't know about.");
 MsgDisp("主人公","It seems like this is only available for a
 limited time.");
 ChEye(2,0);
@@ -34,9 +34,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200000_02_030");
-MsgDisp("Sassa","I've spent both days of Christmas with
-you, so I want to be able to make this
-into a special memory.");
+MsgDisp("Sassa","I've spent both days of Christmas with you,
+so I want to be able to make this into a
+special memory.");
 MsgDisp("主人公","Hehe, yeah!");
 MsgDisp("主人公","(I'm glad I got to spend both days of
 Christmas with ｛Sassa＊＊｝)");

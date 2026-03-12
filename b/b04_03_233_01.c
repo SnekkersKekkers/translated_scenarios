@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,1);
     ChMotion(3,5);
     VoicePlay("B040323301_03_010");
-    MsgDisp("Honda","Ehhー, is that necessary?");
+    MsgDisp("Honda","Ehh—, is that necessary?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -24,8 +24,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040323301_03_020");
-    MsgDisp("Honda","What in the world is it about bungee
-jumping that draws you in so much...?");
+    MsgDisp("Honda","What in the world is it about bungee jumping
+that draws you in so much...?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,8 +37,8 @@ jumping that draws you in so much...?");
     ChMotion(3,1);
     VoicePlay("B040323301_03_030");
     MsgDisp("Honda","I see...
-Maybe something will change if I observe
-it objectively.");
+Maybe something will change if I observe it
+objectively.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

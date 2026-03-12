@@ -10,7 +10,7 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Thanks for walking me home.
-Well, seeー");
+Well, see—");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);

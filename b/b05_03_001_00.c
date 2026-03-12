@@ -51,8 +51,8 @@ StlMouth(3,0);
 SEStop("EV_SE_574",1);
 VoicePlay("B050300100_03_050");
 MsgDisp("Honda","Try picking the ramen up with your
-chopsticks. Aren't the noodles crazy
-long～? Look!");
+chopsticks.
+Aren't the noodles crazy long～? Look!");
 MsgDisp("主人公","You're right!
 Maybe they're stuck together?");
 StlEye(3,1);
@@ -71,9 +71,9 @@ dough long and thin without any cutting.");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("B050300100_03_080");
-MsgDisp("Honda","The word \"Longevity\" comes from how long
-they are. It's said that if you eat them a
-lot, you'll live a long life.");
+MsgDisp("Honda","The word \"Longevity\" comes from how long they
+are. It's said that if you eat them a lot,
+you'll live a long life.");
 MsgDisp("主人公","These are those \"Longevity Noodles\"?");
 StlEye(3,0);
 StlMouth(3,0);
@@ -115,17 +115,16 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B050300100_03_130");
-MsgDisp("Honda","I know! We have to eat some real longevity
-noodles someday. I know a great place for
-them.");
+MsgDisp("Honda","I know!
+We have to eat some real longevity noodles
+someday. I know a great place for them.");
 MsgDisp("主人公","Hehe, I would love to.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B050300100_03_140");
 MsgDisp("Honda","We have to go.
-Let's eat them and live a long life
-together!");
+Let's eat them and live a long life together!");
 MsgDisp("主人公","(...Hm?
 He just said something crazy...)");
 BGMStop();

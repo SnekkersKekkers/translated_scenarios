@@ -23,7 +23,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140A05002_02_010");
-MsgDisp("Sassa","Hey——");
+MsgDisp("Sassa","Hey—");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);

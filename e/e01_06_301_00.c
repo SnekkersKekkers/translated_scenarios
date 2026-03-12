@@ -94,7 +94,7 @@ ChEye(7,5);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010630100_07_050");
-MsgDisp("Mikage","Ummー The sales are about to begin at the
+MsgDisp("Mikage","Umm— The sales are about to begin at the
 supermarket.
 I'll go ahead-");
 ChEye(32,1);

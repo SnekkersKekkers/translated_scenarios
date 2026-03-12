@@ -10,6 +10,6 @@ ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B020602132_06_010");
 MsgDisp("Himuro","...That I got weak in the knees.");
-MsgDisp("主人公","(Erm...If he means my fashion, is that a
-good thing? Maybe his tastes have
-changed.)");
+MsgDisp("主人公","(Erm...
+If he means my fashion, is that a good thing?
+Maybe his tastes have changed.)");

@@ -32,8 +32,8 @@ Don't just say irresponsible stuff.");
     ChMotion(6,0);
     VoicePlay("B040602301_06_030");
     MsgDisp("Himuro","...Hmm, maybe we see it differently?
-It's interesting to see values different
-to my own.");
+It's interesting to see values different to
+my own.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

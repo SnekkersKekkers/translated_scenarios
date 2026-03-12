@@ -29,8 +29,8 @@ spinning around, so I was worried.");
     ChMotion(7,0);
     VoicePlay("B040723401_07_020");
     MsgDisp("Mikage","I'm satisfied.
-If I were to be greedy, I'd like to see
-your delighted face.");
+If I were to be greedy, I'd like to see your
+delighted face.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

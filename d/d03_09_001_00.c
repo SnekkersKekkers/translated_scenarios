@@ -8,7 +8,7 @@ here?");
 MsgDisp("主人公","(...Huh?)");
 VoicePlay("D030900100_44_000");
 MsgDisp("Boy","I don't know.
-Uーwah!");
+U—wah!");
 VoicePlay("D030900100_09_010");
 MsgDisp("Kuya?","I can't understand you if you cry.
 Boys have to stay strong.");

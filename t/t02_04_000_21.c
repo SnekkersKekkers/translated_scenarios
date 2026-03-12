@@ -25,7 +25,7 @@ ChEye(4,0);
 ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("T020400000_04_270");
-MsgDisp("Nanatsumori","Hmー...
+MsgDisp("Nanatsumori","Hm—...
 But I didn't expect that to come first.");
 MsgDisp("主人公","?");
 ChEye(4,0);

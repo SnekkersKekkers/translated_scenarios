@@ -42,8 +42,7 @@ I can't take my eyes off you...");
     ChMotion(8,0,1);
     VoicePlay("B040811100_08_030");
     MsgDisp("Shirahane","That's already good.
-The rest is a matter of gettin' used to
-it.");
+The rest is a matter of gettin' used to it.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

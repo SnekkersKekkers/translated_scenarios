@@ -7,8 +7,8 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406301_04_000");
 MsgDisp("Nanatsumori","There's nothing I can take pictures of...
-It's cold...Is there anything to gain from
-coming here?");
+It's cold...
+Is there anything to gain from coming here?");
 MsgSel("Maybe the chilly ambience is better?","｛Nanatsumori＊｝ is here!","There's no need for that.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -37,7 +37,7 @@ Then, you can be my windbreak too!");
     DateRateSet(1);
     ChMotion(4,2,1);
     VoicePlay("B040406301_04_030");
-    MsgDisp("Nanatsumori","I don't know what you meanー...");
+    MsgDisp("Nanatsumori","I don't know what you mean—...");
     MsgDateResultDisp();
     break ;
     default :

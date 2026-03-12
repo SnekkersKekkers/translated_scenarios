@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(8,1,1);
     VoicePlay("B040801001_08_010");
     MsgDisp("Shirahane","Wait a sec!
-I'm just kiddin' so ya don't actually need
-ta buy it.");
+I'm just kiddin' so ya don't actually need ta
+buy it.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -27,8 +27,7 @@ ta buy it.");
     ChMotion(8,0,1);
     VoicePlay("B040801001_08_020");
     MsgDisp("Shirahane","Sorry!
-I was messin' with ya to see your
-reaction!");
+I was messin' with ya to see your reaction!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

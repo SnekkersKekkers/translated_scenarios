@@ -11,8 +11,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B020402130_04_010");
-MsgDisp("Nanatsumori","I mean you. There's something soothing
-about your presence. Like watching a
-therapeutic show.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems to really like
-this!)");
+MsgDisp("Nanatsumori","I mean you.
+There's something soothing about your
+presence. Like watching a therapeutic show.");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to really like this!)");

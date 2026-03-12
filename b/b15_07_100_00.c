@@ -8,8 +8,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B150710000_07_000");
 MsgDisp("Mikage","Ahh...
-I've raised the white flag, but you show
-no mercy.");
+I've raised the white flag, but you show no
+mercy.");
 MsgDisp("主人公","Ah...it was an accident.
 I'm sorry.");
 ChEye(7,0);

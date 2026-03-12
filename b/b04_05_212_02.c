@@ -6,9 +6,8 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521202_05_000");
-MsgDisp("Hiiragi","I wonder if Habataki Theater Company would
-be happy if we could set up a store like
-this");
+MsgDisp("Hiiragi","I wonder if Habataki Theater Company would be
+happy if we could set up a store like this");
 MsgSel("Habataki Theater Manju would be perfect!","You should sell those fox plushies","I want a Yanosuke t-shirt.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -62,13 +61,13 @@ country...we did sell that.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040521202_05_050");
-        MsgDisp("Hiiragi","When I was younger I would at least
-question \"Why is my face on someone else's
+        MsgDisp("Hiiragi","When I was younger I would at least question
+\"Why is my face on someone else's
 clothes?\"...");
         ChMotion(5,4);
         VoicePlay("B040521202_05_060");
-        MsgDisp("Hiiragi","It was tough for me around elementary
-school age.");
+        MsgDisp("Hiiragi","It was tough for me around elementary school
+age.");
         MsgDisp("主人公","Is that so?
 I'm sorry.
 I had no idea...");
@@ -80,9 +79,9 @@ business.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040521202_05_080");
-        MsgDisp("Hiiragi","Now I perform as part of a citizens'
-theatre troupe. There's no need for a
-t-shirt with my face on it, right?");
+        MsgDisp("Hiiragi","Now I perform as part of a citizens' theatre
+troupe. There's no need for a t-shirt with my
+face on it, right?");
         MsgDisp("主人公","...That's right...");
         ChEye(5,3);
         ChMotion(5,0);

@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I prepared the materials for the next
 meeting...)");
 VoicePlay("G110500800_40_000");
-MsgDisp("School Boy","Good work todayー
+MsgDisp("School Boy","Good work today—
 Please lock up.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

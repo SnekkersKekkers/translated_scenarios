@@ -12,8 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     VoicePlay("B040404100_04_000");
     MsgDisp("Nanatsumori","Ah...
-I'm not that knowledgable about martial
-arts.");
+I'm not that knowledgable about martial arts.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -22,9 +21,9 @@ arts.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040404100_04_010");
-    MsgDisp("Nanatsumori","That's exactly it. I had a bit of a panic
-halfway through and mixed up the names of
-the moves and fighters.");
+    MsgDisp("Nanatsumori","That's exactly it.
+I had a bit of a panic halfway through and
+mixed up the names of the moves and fighters.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +34,8 @@ the moves and fighters.");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040404100_04_020");
-    MsgDisp("Nanatsumori","Whatever it may be, that's a terrible
-thing to say after watching a show.");
+    MsgDisp("Nanatsumori","Whatever it may be, that's a terrible thing
+to say after watching a show.");
     MsgDateResultDisp();
     break ;
     default :

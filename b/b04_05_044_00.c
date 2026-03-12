@@ -19,9 +19,9 @@ My ears in particular...");
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("B040504400_05_010");
-    MsgDisp("Hiiragi","Their performance technique was
-spectacular. But...I wanted to listen to
-it more carefully.");
+    MsgDisp("Hiiragi","Their performance technique was spectacular.
+But...
+I wanted to listen to it more carefully.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,9 +31,9 @@ it more carefully.");
     ChEye(5,4);
     ChMouth(5,4);
     VoicePlay("B040504400_05_020");
-    MsgDisp("Hiiragi","Yes, it was unfortunate. It would have
-been nice if I could enjoy purely just the
-musical performance and the singing.");
+    MsgDisp("Hiiragi","Yes, it was unfortunate. It would have been
+nice if I could enjoy purely just the musical
+performance and the singing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

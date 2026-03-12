@@ -34,8 +34,8 @@ Then we'll start back-to-back!");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040101102_01_020");
         MsgDisp("Kazama","I know that.
-...Sheesh, no matter where you go, it's
-not like it's going to collapse.");
+...Sheesh, no matter where you go, it's not
+like it's going to collapse.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -70,8 +70,8 @@ me.");
         SEWait();
         VoicePlay("B040101102_01_060");
         MsgDisp("Kazama","Here, what about this?");
-        MsgDisp("主人公","Jeez, I already said don't do it because
-it's dangerous.");
+        MsgDisp("主人公","Jeez, I already said don't do it because it's
+dangerous.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,3);

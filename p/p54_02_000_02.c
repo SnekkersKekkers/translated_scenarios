@@ -10,7 +10,7 @@ SEPlay("EV_SE_544");
 ChOpen(2,254,3,0,3,#1,#1,0,0);
 VoicePlay("P540200002_02_000");
 MsgDisp("Sassa","That was amazing.
-The audience was so hyped upー!");
+The audience was so hyped up—!");
 MsgDisp("主人公","Yes, I'm happy that they liked it.");
 ChEye(2,0);
 ChMouth(2,3);

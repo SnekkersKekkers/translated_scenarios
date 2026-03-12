@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChSet(3,0);
     VoicePlay("B040302200_03_010");
     MsgDisp("Honda","Yeah, this ship looks impressive in the
-harbor. But once it's out in the open
-sea, it's like a leaf on a tree.");
+harbor. But once it's out in the open sea,
+it's like a leaf on a tree.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

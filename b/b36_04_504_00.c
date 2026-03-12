@@ -32,8 +32,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B360450400_04_030");
 MsgDisp("Nanatsumori","Um, how should I say this...
-We sort of ditched them to go on a date
-in a place like this.");
+We sort of ditched them to go on a date in a
+place like this.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
@@ -46,11 +46,11 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360450400_04_050");
-MsgDisp("Nanatsumori","I got carried away, and before I knew it,
-I was chasing after you.");
+MsgDisp("Nanatsumori","I got carried away, and before I knew it, I
+was chasing after you.");
 VoicePlay("B360450400_04_060");
-MsgDisp("Nanatsumori","This season, I can't suppress my feelings
-of wanting to be with you.");
+MsgDisp("Nanatsumori","This season, I can't suppress my feelings of
+wanting to be with you.");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,1,1);
@@ -66,8 +66,8 @@ ChMotion(4,0,1);
 ChCheek(4,8);
 VoiceEVSPlay(4);
 VoicePlay("B360450400_04_080");
-MsgDisp("Nanatsumori","｛主人公｝...seriously, I might actually
-fall for you.");
+MsgDisp("Nanatsumori","｛主人公｝...seriously, I might actually fall
+for you.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -8,7 +8,7 @@ VoicePlay("P840600000_06_000");
 MsgDisp("Himuro","Your dexterity is good.");
 MsgDisp("主人公","Eheh, thank you.");
 MsgDisp("主人公","Here's your tea, sorry to have kept you
-waitingー!");
+waiting—!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

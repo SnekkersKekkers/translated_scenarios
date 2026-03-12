@@ -25,15 +25,15 @@ VoicePlay("B050700300_07_020");
 MsgDisp("Mikage","\"Quickly, quickly!\"
 I understand what that feels like.");
 MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝, you're also somewhat in
-high spirits aren't you?");
+｛Mikage＊＊｝, you're also somewhat in high
+spirits aren't you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B050700300_07_030");
 MsgDisp("Mikage","Well yeah.
-This is a place that's been far removed
-from me.");
+This is a place that's been far removed from
+me.");
 MsgDisp("主人公","Is that right?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -46,9 +46,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 ScrFadeOut(0);
-MsgDisp("主人公","(Like with bowling, maybe he hasn't
-really been to an amusement park
-before...?)");
+MsgDisp("主人公","(Like with bowling, maybe he hasn't really
+been to an amusement park before...?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.7);
 SEWait();
@@ -75,21 +74,21 @@ MsgDisp("主人公","Yes, I'm excited!");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("B050700300_07_070");
-MsgDisp("Mikage","Yeah, everything looks like it's
-sparkling to me too.
+MsgDisp("Mikage","Yeah, everything looks like it's sparkling to
+me too.
 Those kids must be losing their minds.");
 StlEye(7,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("B050700300_07_080");
 MsgDisp("Mikage","Hey the rollercoaster is massive too!
-The ferris wheel——");
+The ferris wheel—");
 StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700300_07_090");
 MsgDisp("Mikage","Is it really that tall...?");
-MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is more
-surprised than the kids?)");
+MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is more surprised
+than the kids?)");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -118,8 +117,8 @@ MsgDisp("Mikage","That's right.
 Today you're sticking with me until we've
 used up every ride on this free pass.");
 MsgDisp("主人公","(After bowling, ｛Mikage＊＊｝'s next big
-first is the theme park... Alright, I'll
-enjoy it with him too!)");
+first is the theme park...
+Alright, I'll enjoy it with him too!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

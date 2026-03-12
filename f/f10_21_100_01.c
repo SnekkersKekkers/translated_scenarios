@@ -30,7 +30,7 @@ It won't fix itself even if I keep moping
 about it.");
 MsgDisp("主人公","Um...
 If we thought about it together, maybe
-we really could——");
+we really could—");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

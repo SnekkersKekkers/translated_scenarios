@@ -18,8 +18,7 @@ ChMotion(1,0);
 VoicePlay("B330B30301_01_000");
 MsgDisp("Kazama","Oh, so you didn't buy it in the end?");
 MsgDisp("主人公","Yeah.
-I kind of thought I couldn't pull it
-off...");
+I kind of thought I couldn't pull it off...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -56,15 +55,15 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B330B30301_04_020");
-MsgDisp("Nanatsumori","I mean, Dahon does wear his uniform like
-that I guess...");
+MsgDisp("Nanatsumori","I mean, Dahon does wear his uniform like that
+I guess...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B30301_01_020");
 MsgDisp("Kazama","Would you even call that revealing?
-I wonder why he doesn't get called out for
-it often though.");
+I wonder why he doesn't get called out for it
+often though.");
 MsgDisp("主人公","Hehe, for sure!");
 ChEye(3,3);
 ChMouth(3,3);
@@ -94,8 +93,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30301_04_040");
-MsgDisp("Nanatsumori","Yeah. Hm. I can't imitate Dahon's sense of
-fashion in that respect.");
+MsgDisp("Nanatsumori","Yeah.
+Hm. I can't imitate Dahon's sense of fashion
+in that respect.");
 MsgDisp("主人公","(Hehe! I might be caught off-guard if
 ｛Nanatsumori＊｝ wore his uniform in the
 casual way ｛Honda＊＊｝ does?)");

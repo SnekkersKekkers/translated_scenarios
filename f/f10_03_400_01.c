@@ -92,7 +92,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("F100340001_03_080");
-MsgDisp("Honda","It's recess, so let's talk——");
+MsgDisp("Honda","It's recess, so let's talk—");
 SEPlay("EV_SE_SCHOOL_002");
 BGMStop(0.5);
 Wait(50,0);

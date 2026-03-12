@@ -9,8 +9,7 @@ ScrFadeIn(0);
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B040122201_01_000");
-MsgDisp("Kazama","I feel like I stand taller when I come
-here.");
+MsgDisp("Kazama","I feel like I stand taller when I come here.");
 MsgSel("The atmosphere is different from outside the castle","This is where your ancestors lived after all, ｛Kazama＊＊｝.","Yeah, my voice gets all quiet too...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("B040122201_01_010");
-    MsgDisp("Kazama","Yeah, that's right. Especially since this
-is the castle tower. Nationwide, very few 
+    MsgDisp("Kazama","Yeah, that's right. Especially since this is
+the castle tower. Nationwide, very few
 castles still have their tower standing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

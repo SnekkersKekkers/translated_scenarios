@@ -27,7 +27,7 @@ ChMotion(2,1);
 VoicePlay("G110200600_02_000");
 MsgDisp("Sassa","Oh, good work.
 Can I ask you to help me cool down?");
-MsgDisp("主人公","Of course. ...｛Sassa＊＊｝, you see——");
+MsgDisp("主人公","Of course. ...｛Sassa＊＊｝, you see—");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

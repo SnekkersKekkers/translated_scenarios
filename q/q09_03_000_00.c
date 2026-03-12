@@ -18,7 +18,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("Q090300000_03_010");
     MsgDisp("Honda","This is our last free period.
-Have no regrets——");
+Have no regrets—");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

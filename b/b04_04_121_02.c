@@ -40,9 +40,9 @@ though.");
         VoicePlay("B040412102_04_020");
         MsgDisp("Nanatsumori","This is enough for me.
 I want you to enjoy this event too.");
-        MsgDisp("主人公","I am enjoying it. Both the shops and the
-customers are so lively. I'm super
-excited!");
+        MsgDisp("主人公","I am enjoying it.
+Both the shops and the customers are so
+lively. I'm super excited!");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -53,9 +53,9 @@ excited!");
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_040");
-        MsgDisp("Nanatsumori","Ah...that reminds me. Do you remember the
-silver accessories shop we spotted while
-walking past earlier?");
+        MsgDisp("Nanatsumori","Ah...that reminds me.
+Do you remember the silver accessories shop
+we spotted while walking past earlier?");
         MsgDisp("主人公","Silver accessories?
 Ah, the shop with a queue and a cool
 salesperson?");
@@ -116,8 +116,7 @@ There were a lot of customers after all.");
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_120");
         MsgDisp("Nanatsumori","That's true too.
-But, I'm also not mentally ready just
-yet.");
+But, I'm also not mentally ready just yet.");
         MsgDisp("主人公","(?)");
         break ;
         default :
@@ -132,8 +131,8 @@ yet.");
     ChMotion(4,0,1);
     VoicePlay("B040412102_04_130");
     MsgDisp("Nanatsumori","Eh...
-Is that something worth going to the
-trouble of looking for here?");
+Is that something worth going to the trouble
+of looking for here?");
     MsgDateResultDisp();
     break ;
     case 2:

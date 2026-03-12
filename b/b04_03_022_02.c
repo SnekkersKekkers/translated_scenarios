@@ -6,8 +6,8 @@ ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("B040302202_03_000");
 MsgDisp("Honda","Oh!
-They're accepting suggestions for the name
-of the tour boat.");
+They're accepting suggestions for the name of
+the tour boat.");
 MsgSel("I wonder if they didn't have one until now?","What about the usual: Habataki?","How about calling it HMS ｛Honda＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -76,26 +76,26 @@ Ah, what about Habataki?");
         ChMouth(3,0);
         ChMotion(3,4,1);
         VoicePlay("B040302202_03_070");
-        MsgDisp("Honda","If it was up to me, I would name it after
-you too.");
+        MsgDisp("Honda","If it was up to me, I would name it after you
+too.");
         MsgDisp("主人公","Really?");
         ChEye(3,3);
         ChMouth(3,0);
         ChMotion(3,5,1);
         VoicePlay("B040302202_03_080");
         MsgDisp("Honda","That's it!
-What about a secret nickname just between
-us; Rose Queen?");
-        MsgDisp("主人公","Oh?
-After the Habataki High School Festival
+What about a secret nickname just between us;
 Rose Queen?");
+        MsgDisp("主人公","Oh?
+After the Habataki High School Festival Rose
+Queen?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1,1);
         VoicePlay("B040302202_03_090");
         MsgDisp("Honda","Yes!
-Because the Rose Queen for me has always
-been you.");
+Because the Rose Queen for me has always been
+you.");
         ChEye(3,4);
         ChMouth(3,3);
         ChMotion(3,3,1);

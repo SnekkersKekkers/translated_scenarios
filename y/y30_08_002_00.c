@@ -27,7 +27,7 @@ MsgDisp("","...It's childish, huh?
 Maybe, if I go to show it to her,
 I'll get laughed at.");
 MsgDisp("","I've become a bit worried.");
-MsgDisp("","If Hane school thinks I'm a kid——");
+MsgDisp("","If Hane school thinks I'm a kid—");
 MsgClear();
 MsgDisp("","I didn't think too deeply about going
 to Hanegasaki High School.");

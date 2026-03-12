@@ -14,8 +14,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_000");
     MsgDisp("Hiiragi","Yes, I finished my previous errand with
-haste. Waiting a little is no problem as 
-well.");
+haste.
+Waiting a little is no problem as well.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Hehe, I see.");
     MsgDispSksp(0);
@@ -24,8 +24,8 @@ well.");
     MsgClose();
     ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_010");
-    MsgDisp("Hiiragi","I left home early because I intended to 
-go on a leisurely walk. 
+    MsgDisp("Hiiragi","I left home early because I intended to go on
+a leisurely walk.
 Next thing I knew, I was already here.");
     MsgDisp("主人公","You must walk fast, ｛Hiiragi＊＊＊｝.
 Let's take it slowly!");

@@ -27,8 +27,7 @@ had fun.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040623400_06_020");
-    MsgDisp("Himuro","I see, we definitely got to experience
-that.");
+    MsgDisp("Himuro","I see, we definitely got to experience that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

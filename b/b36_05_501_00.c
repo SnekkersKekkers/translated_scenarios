@@ -10,8 +10,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, did you want to go to the
-park?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, did you want to go to the park?");
 ChEye(5,3);
 VoicePlay("B360550100_05_000");
 MsgDisp("Hiiragi","I wonder.");
@@ -19,23 +18,23 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360550100_05_010");
 MsgDisp("Hiiragi","I thought about it yesterday.
-But when I was alone with you, anywhere
-feels good.");
+But when I was alone with you, anywhere feels
+good.");
 MsgDisp("主人公","Hehe, I see.");
 ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550100_05_020");
-MsgDisp("Hiiragi","It might be disrespectful to the park to
-say that anywhere is fine.
+MsgDisp("Hiiragi","It might be disrespectful to the park to say
+that anywhere is fine.
 But that's honestly how I feel.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChEye(5,4);
 VoicePlay("B360550100_05_030");
-MsgDisp("Hiiragi","I'm sorry to those two, but I wanted to
-talk to you alone.");
+MsgDisp("Hiiragi","I'm sorry to those two, but I wanted to talk
+to you alone.");
 MsgDisp("主人公","I see...");
 ChEye(5,2);
 ChEyeOpenLevel(5,0);
@@ -47,8 +46,8 @@ ChMouth(5,2);
 ChMotion(5,0,1);
 VoicePlay("B360550100_05_050");
 MsgDisp("Hiiragi","Eh?");
-MsgDisp("主人公","Well you wanted to talk, just the two of
-us, right?");
+MsgDisp("主人公","Well you wanted to talk, just the two of us,
+right?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -36,6 +36,6 @@ VoicePlay("P630D00000_21_010");
 MsgDisp("Michiru","Let's do that.
 Then, let's go by Mari's recommendation.");
 MsgDisp("主人公","Certainly.
-Two customers, this way pleーase!");
+Two customers, this way ple—ase!");
 MsgClose();
 ScrFadeOut(0,0);

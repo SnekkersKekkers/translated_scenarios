@@ -92,13 +92,13 @@ ChMotion(5,2);
 VoicePlay("D140C05100_05_040");
 MsgDisp("Hiiragi","It was a clear day, and it felt nice.
 When you showed up at the meeting place, your
-clothes were more mature than usual——");
+clothes were more mature than usual—");
 MsgDisp("主人公","∋");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C05100_07_040");
-MsgDisp("Mikage","Ehhhー, as expected of Yanosuke.
+MsgDisp("Mikage","Ehhh—, as expected of Yanosuke.
 I can picture the scene.
 Nice.");
 ChEye(6,0);

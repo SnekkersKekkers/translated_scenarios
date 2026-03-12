@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B040201001_02_010");
-    MsgDisp("Sassa","Being open-minded is good but where would
-you even wear this?");
+    MsgDisp("Sassa","Being open-minded is good but where would you
+even wear this?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -27,8 +27,7 @@ you even wear this?");
     ChEyeOpenLevel(2,9);
     VoicePlay("B040201001_02_020");
     MsgDisp("Sassa","Yeah, it suits you.
-...Wait, are you seriously thinking about
-it?");
+...Wait, are you seriously thinking about it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +40,7 @@ it?");
     ChEyeOpenLevel(2,0);
     VoicePlay("B040201001_02_030");
     MsgDisp("Sassa","Haha, right!
-It feels good to get back at you like
-this.");
+It feels good to get back at you like this.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

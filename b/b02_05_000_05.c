@@ -9,7 +9,7 @@ ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("B020500005_05_010");
 MsgDisp("Hiiragi","Getting cold is a woman's worst enemy, so
-don't let your guard down. No matter the
-reason. Understood?");
+don't let your guard down.
+No matter the reason. Understood?");
 MsgDisp("主人公","(Urgh...
 I don't think I have enough on...)");

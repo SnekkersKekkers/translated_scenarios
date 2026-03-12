@@ -6,8 +6,8 @@ ChMotion(3,3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040322202_03_000");
-MsgDisp("Honda","Seems like you can wear the armor and
-helmet and take a commemorative photo!");
+MsgDisp("Honda","Seems like you can wear the armor and helmet
+and take a commemorative photo!");
 MsgSel("Yeah, let's do it!","Do they have a town girl outfit too?","It might be a bit embarrassing.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -57,15 +57,15 @@ Then, I won't do it.");
         ChMouth(3,3);
         ChMotion(3,4,1);
         VoicePlay("B040322202_03_040");
-        MsgDisp("Honda","Well, let's just take a commemorative
-photo then.");
+        MsgDisp("Honda","Well, let's just take a commemorative photo
+then.");
         MsgDisp("主人公","eh?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,0);
         VoicePlay("B040322202_03_050");
-        MsgDisp("Honda","We haven't taken a photo with the two of
-us before.");
+        MsgDisp("Honda","We haven't taken a photo with the two of us
+before.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(3);
@@ -83,8 +83,8 @@ us before.");
         MsgClose();
         ScrFadeIn(0);
         VoicePlay("B040322202_03_070");
-        MsgDisp("Honda","...Yep yep, turns out this sort of picture
-is better than you in armor.");
+        MsgDisp("Honda","...Yep yep, turns out this sort of picture is
+better than you in armor.");
         MsgClose();
         SEPlay("EV_SE_544");
         ChOpen(3,255,1,3,3,0,#1,0,0);
@@ -99,7 +99,7 @@ is better than you in armor.");
         MsgDisp("Honda","Yeah.
 I should've taken lots of normal pictures
 with you first.");
-        MsgDisp("主人公","I see, I too——");
+        MsgDisp("主人公","I see, I too—");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,2);

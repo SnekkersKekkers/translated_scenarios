@@ -6,16 +6,16 @@ ScrFadeIn(0);
 VoicePlay("B050200100_02_000");
 MsgDisp("Sassa","Sometimes even you want to come here.");
 MsgDisp("主人公","Yeah.
-It may be scary, but it's okay when I'm
-with ｛Sassa＊＊｝.");
+It may be scary, but it's okay when I'm with
+｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 ChCheek(2,10);
 VoicePlay("B050200100_02_010");
-MsgDisp("Sassa","When you say it like that, I guess I have
-no choice.");
+MsgDisp("Sassa","When you say it like that, I guess I have no
+choice.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -42,7 +42,7 @@ VoicePlay("B050200100_02_030");
 MsgDisp("Sassa","Just like that.");
 SEPlay("EV_SE_707");
 SEStop("EV_SE_AMUSE_008",1);
-MsgDisp("","(Foooー)");
+MsgDisp("","(Fooo—)");
 VoicePlay("B050200100_02_040");
 MsgDisp("Sassa","Uwaa∋");
 MsgDisp("主人公","Kyaaaaa!");
@@ -84,8 +84,7 @@ StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("B050200100_02_090");
-MsgDisp("Sassa","...Maybe Haunted Houses are nice after
-all?");
+MsgDisp("Sassa","...Maybe Haunted Houses are nice after all?");
 MsgDisp("主人公","Eh?");
 BGMStop(2);
 MsgClose();
@@ -125,8 +124,8 @@ ChCheek(2,10);
 VoicePlay("B050200100_02_120");
 MsgDisp("Sassa","...Yeah.
 Yeah, for me too.");
-MsgDisp("主人公","Holding onto ｛Sassa＊＊｝ while walking
-made me feel a bit better.");
+MsgDisp("主人公","Holding onto ｛Sassa＊＊｝ while walking made
+me feel a bit better.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -141,8 +140,8 @@ ChEyeOpenLevel(2,7);
 ChCheek(2,10);
 VoicePlay("B050200100_02_140");
 MsgDisp("Sassa","Just saying.
-If you still feel scared, hold onto me
-again, okay?");
+If you still feel scared, hold onto me again,
+okay?");
 MsgDisp("主人公","Uh, sure.");
 MsgDisp("主人公","(...｛Sassa＊＊｝?)");
 BGMStop();

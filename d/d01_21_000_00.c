@@ -70,7 +70,7 @@ StlEye(21,1);
 StlMouth(21,1);
 VoicePlay("D012100000_21_090");
 MsgDisp("Michiru","No, don't do that.
-I——");
+I—");
 MsgClose();
 ScrFadeOut(0);
 StlClose();

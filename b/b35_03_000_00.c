@@ -62,8 +62,8 @@ The idea was pretty sudden after all.");
 Let's definitely go somewhere together.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","(｛Honda＊＊｝ seemed to be putting on a
-brave face...
+    MsgDisp("主人公","(｛Honda＊＊｝ seemed to be putting on a brave
+face...
 Maybe I did something wrong...)");
     break ;
     default :

@@ -27,8 +27,8 @@ thrill ride?!");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B040223201_02_020");
-    MsgDisp("Sassa","If you put it that way, the conversation
-is over, right?");
+    MsgDisp("Sassa","If you put it that way, the conversation is
+over, right?");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -107,8 +107,7 @@ Surely you're kidding?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B030723001_07_080");
-    MsgDisp("Mikage","Looks like I better not let my guard
-down...");
+    MsgDisp("Mikage","Looks like I better not let my guard down...");
     break ;
     case 4:
     MsgDispSksp(1,0);
@@ -117,8 +116,8 @@ down...");
     ChMotion(7,3);
     VoicePlay("B030723001_07_090");
     MsgDisp("Mikage","Yeah.
-It's only around for a limited time, so
-let's go.");
+It's only around for a limited time, so let's
+go.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

@@ -5,8 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040710102_07_000");
-MsgDisp("Mikage","Phew, let's sit down and take a
-breather...");
+MsgDisp("Mikage","Phew, let's sit down and take a breather...");
 MsgSel("Should I tell Vice-Principal Himuro?","Then, me too...","｛Mikage＊＊｝, do your best!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -77,8 +76,8 @@ while.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040710102_07_070");
-    MsgDisp("Mikage","Oooh, Madonna-chan's cute voice is
-cheering me up!");
+    MsgDisp("Mikage","Oooh, Madonna-chan's cute voice is cheering
+me up!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

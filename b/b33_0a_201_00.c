@@ -22,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A20100_06_000");
-MsgDisp("Himuro","Can't you just say we're a regular group
-of friends?");
+MsgDisp("Himuro","Can't you just say we're a regular group of
+friends?");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -34,8 +34,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20100_02_010");
-MsgDisp("Sassa","Well, if we're talking physique, I'm the
-dad, and you're the mom?");
+MsgDisp("Sassa","Well, if we're talking physique, I'm the dad,
+and you're the mom?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -59,8 +59,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A20100_02_030");
-MsgDisp("Sassa","Well, either way Inori is definitely the
-son.");
+MsgDisp("Sassa","Well, either way Inori is definitely the son.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(6,0);

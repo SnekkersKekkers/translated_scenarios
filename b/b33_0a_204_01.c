@@ -14,8 +14,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20401_02_000");
-MsgDisp("Sassa","The name of \"Firefly Habitat\" was decided
-by the public right?");
+MsgDisp("Sassa","The name of \"Firefly Habitat\" was decided by
+the public right?");
 MsgDisp("主人公","Yeah.
 Contributions were taken in by the park
 office and Habcha editorial department.");
@@ -41,8 +41,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20401_01_000");
-MsgDisp("Kazama","Haha, this is what's called
-self-destruction.");
+MsgDisp("Kazama","Haha, this is what's called self-destruction.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -127,8 +126,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20401_01_050");
-MsgDisp("Kazama","...Geez, you got caught up in the heat of
-the moment.");
+MsgDisp("Kazama","...Geez, you got caught up in the heat of the
+moment.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

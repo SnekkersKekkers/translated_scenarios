@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040118500_01_000");
-    MsgDisp("Kazama","Yeah, but even so, didn't it kinda hit
-close to home for us?!");
+    MsgDisp("Kazama","Yeah, but even so, didn't it kinda hit close
+to home for us?!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +36,8 @@ What a waste of time.");
     ChMotion(1,0,1);
     VoicePlay("B040118500_01_020");
     MsgDisp("Kazama","A difference of opinion, huh.
-Well, if you're gonna be that decisive
-about it, I won't argue.");
+Well, if you're gonna be that decisive about
+it, I won't argue.");
     MsgDateResultDisp();
     break ;
     default :

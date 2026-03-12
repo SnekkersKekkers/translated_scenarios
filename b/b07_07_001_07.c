@@ -50,8 +50,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_590");
 MsgDisp("Mikage","You're doing this on purpose, aren't you?
-Little lady, if you get too carried
-away...");
+Little lady, if you get too carried away...");
 MsgDisp("主人公","Eh?");
 ChEye(7,1);
 ChMouth(7,3);

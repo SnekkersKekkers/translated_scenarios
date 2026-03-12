@@ -52,7 +52,7 @@ Thanks for inviting me.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("Q080500000_05_040");
-    MsgDisp("Hiiragi","If we're both satisfied, I'm glad——");
+    MsgDisp("Hiiragi","If we're both satisfied, I'm glad—");
     ChMouth(5,2);
     ChEyeOpenLevel(5,#1);
     VoicePlay("Q080500000_05_050");
@@ -64,7 +64,7 @@ Actually, I'm not satisfied.");
     ChMotion(5,0);
     VoicePlay("Q080500000_05_060");
     MsgDisp("Hiiragi","I want to have even more fun.
-So, for the next free period——");
+So, for the next free period—");
     MsgDisp("主人公","Yeah, let's go together!");
     ChEye(5,4);
     ChMotion(5,4);

@@ -21,7 +21,7 @@ shrine together! ...What should I wear?)");
     VoicePlay("S030600001_06_020");
     MsgDisp("Himuro","Sure.");
     MsgDisp("主人公","Yay!
-Then let's meet up at——");
+Then let's meet up at—");
     VoicePlay("S030600001_06_030");
     MsgDisp("Himuro","I'll pick you up.
 You should get ready.");

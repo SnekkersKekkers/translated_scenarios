@@ -119,7 +119,7 @@ ChMotion(2,0);
 VoicePlay("T020220000_02_160");
 MsgDisp("Sassa","The time I spent running alongside you,
 having normal conversations that was the
-only time——");
+only time—");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);

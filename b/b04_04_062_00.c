@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040406200_04_010");
-    MsgDisp("Nanatsumori","That's right, but is that the first thing
-you say when you see this view?");
+    MsgDisp("Nanatsumori","That's right, but is that the first thing you
+say when you see this view?");
     MsgDateResultDisp();
     break ;
     case 1:

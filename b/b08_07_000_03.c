@@ -17,7 +17,7 @@ ChMouth(7,4);
 ChMotion(7,3);
 VoicePlay("B080700003_07_010");
 MsgDisp("Mikage","...Hm?
-That's——");
+That's—");
 Wait(30,0);
 ChEye(7,0);
 ChMouth(7,0);

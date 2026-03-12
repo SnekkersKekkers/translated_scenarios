@@ -12,5 +12,5 @@ VoicePlay("B020100015_01_010");
 MsgDisp("Kazama","Right?
 Well, no surprise there, right?
 Just like old times.");
-MsgDisp("主人公","(Maybe one of these days, we'll be able to
-be a matching couple?)");
+MsgDisp("主人公","(Maybe one of these days, we'll be able to be
+a matching couple?)");

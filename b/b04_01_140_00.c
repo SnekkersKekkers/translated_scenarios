@@ -31,8 +31,8 @@ head...");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040114000_01_020");
     MsgDisp("Kazama","Are you saying that seriously?
-If you didn't enjoy it, there was no point
-in having come here.");
+If you didn't enjoy it, there was no point in
+having come here.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -41,8 +41,8 @@ in having come here.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040114000_01_030");
-    MsgDisp("Kazama","Me too. Somehow, I end up speaking louder
-than usual.");
+    MsgDisp("Kazama","Me too.
+Somehow, I end up speaking louder than usual.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

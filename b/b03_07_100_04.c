@@ -21,9 +21,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B030710004_07_020");
-MsgDisp("Mikage","Direct all questions to the museum
-curators.");
+MsgDisp("Mikage","Direct all questions to the museum curators.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","(｛Mikage＊＊｝ seems like he's slacking
-off a bit...?)");
+MsgDisp("主人公","(｛Mikage＊＊｝ seems like he's slacking off
+a bit...?)");
 MsgDispSksp(0);

@@ -13,9 +13,9 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150210000_02_010");
-MsgDisp("Sassa","That's enough. No matter how many times I
-say it, you'll just do it again, won't
-you? I know that already.");
+MsgDisp("Sassa","That's enough. No matter how many times I say
+it, you'll just do it again, won't you?
+I know that already.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

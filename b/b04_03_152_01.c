@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,2);
     ChMotion(3,2);
     VoicePlay("B040315201_03_010");
-    MsgDisp("Honda","But it's fun to start with the gear,
-right?");
+    MsgDisp("Honda","But it's fun to start with the gear, right?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -26,8 +25,8 @@ right?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040315201_03_020");
-    MsgDisp("Honda","When you throw them, the door opens and
-your family comes in.
+    MsgDisp("Honda","When you throw them, the door opens and your
+family comes in.
 That happens, that happens.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

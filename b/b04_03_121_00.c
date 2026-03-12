@@ -10,9 +10,9 @@ ChMouth(3,3);
 ChMotion(3,3);
 ScrFadeIn(0);
 VoicePlay("B040312100_03_000");
-MsgDisp("Honda","From household goods to antique-like
-things, it's fun to feel like there's a
-bit of everything here.");
+MsgDisp("Honda","From household goods to antique-like things,
+it's fun to feel like there's a bit of
+everything here.");
 MsgSel("Let's find some bargains!","It looks like it'd be fun to set up a booth.","It's a very eco-friendly event.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -44,8 +44,8 @@ It might be more fun like that!");
     ChMouth(3,4);
     ChMotion(3,2);
     VoicePlay("B040312100_03_030");
-    MsgDisp("Honda","I can't deny recycling, but is it really
-that eco-friendly?");
+    MsgDisp("Honda","I can't deny recycling, but is it really that
+eco-friendly?");
     MsgDateResultDisp();
     break ;
     default :

@@ -9,8 +9,8 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B020302123_03_010");
 MsgDisp("Honda","Exactly, you struck the perfect balance!
-Even if I tried, I could never pull it 
-off the way you do.");
+Even if I tried, I could never pull it off
+the way you do.");
 MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like clothes like
-this, too.)");
+｛Honda＊＊｝ seems to like clothes like this,
+too.)");

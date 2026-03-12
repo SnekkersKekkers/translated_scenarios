@@ -13,8 +13,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("B040523200_05_010");
-    MsgDisp("Hiiragi","Yes, Habataki City is truly a scenic
-place.");
+    MsgDisp("Hiiragi","Yes, Habataki City is truly a scenic place.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

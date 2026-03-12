@@ -113,8 +113,8 @@ MsgDisp("Mikage","Yeah, good luck to the both of us, yeah?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(I'm also not really good with
-rollercoasters...but ｛Mikage＊＊｝ might
-be worse?)");
+rollercoasters...but ｛Mikage＊＊｝ might be
+worse?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

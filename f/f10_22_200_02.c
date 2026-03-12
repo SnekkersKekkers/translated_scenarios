@@ -67,7 +67,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("F102220002_22_040");
 MsgDisp("Hikaru","Right, right.
-Age is a taboo topic for Uncleー.");
+Age is a taboo topic for Uncle—.");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,0,1);

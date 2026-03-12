@@ -20,8 +20,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(7,0);
     VoicePlay("B040703202_07_010");
     MsgDisp("Mikage","\"I hope you guys understand that you are
-representing the school\", that sorta
-thing.");
+representing the school\", that sorta thing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -48,12 +47,11 @@ thing.");
         ChMotion(7,5);
         VoicePlay("B040703202_07_030");
         MsgDisp("Mikage","Hahaha, my bad, my bad.
-But you know, your voice is pretty loud
-too.");
+But you know, your voice is pretty loud too.");
         MsgDisp("主人公","Ehhh∈");
         VoicePlay("B040703202_42_000");
-        MsgDisp("School Boy","Aren't you two being way louder than the
-rest of us?");
+        MsgDisp("School Boy","Aren't you two being way louder than the rest
+of us?");
         SEPlay("EV_SE_GAYA_016",0.01,0.5);
         Wait(100,0);
         ChEye(7,2);
@@ -70,12 +68,12 @@ I feel a bit embarrassed.)");
         ChMotion(7,2);
         VoicePlay("B040703202_07_050");
         MsgDisp("Mikage","Got it.
-We'll be careful, so you guys should be
-quiet too.");
+We'll be careful, so you guys should be quiet
+too.");
         SEPlay("EV_SE_GAYA_023");
         Wait(70,0);
-        MsgDisp("主人公","(When he says, \"we\", ｛Mikage＊＊｝ means
-me and him, right?
+        MsgDisp("主人公","(When he says, \"we\", ｛Mikage＊＊｝ means me
+and him, right?
 I feel kind of weird...)");
         SEStop("EV_SE_GAYA_023",1);
         break ;
@@ -91,8 +89,8 @@ I feel kind of weird...)");
     ChMotion(7,2);
     VoicePlay("B040703202_07_060");
     MsgDisp("Mikage","That, that!
-I wanted to hear a girl say, \"Boys～\" once
-in my life!");
+I wanted to hear a girl say, \"Boys～\" once in
+my life!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -1,8 +1,7 @@
 ChLayout(1);
 ChClose(4,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Seems like ｛Nanatsumori＊｝ isn't here
-yet...");
+MsgDisp("主人公","Seems like ｛Nanatsumori＊｝ isn't here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -17,8 +16,7 @@ ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110400001_34_010");
 MsgDisp("Guy","Ehhh, that gear looks good on you.");
-MsgDisp("主人公","(This guy is pretty weird himself
-though...)");
+MsgDisp("主人公","(This guy is pretty weird himself though...)");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110400001_34_020");
@@ -64,16 +62,16 @@ MsgClose();
 SEPlay("EV_SE_557",0.2);
 ChOpen(34,254,0,1,2,#1,#1,0,1);
 VoicePlay("B110400001_34_030");
-MsgDisp("Guy","Well there's three people, but we can
-still go to the \"Big Wave of Love\".");
+MsgDisp("Guy","Well there's three people, but we can still
+go to the \"Big Wave of Love\".");
 MsgDispSksp(1,5);
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B110400001_04_040");
 MsgDisp("Nanatsumori","You're still here.
-If you're serious about picking up
-girls—— That's right...yeah.");
+If you're serious about picking up girls—
+That's right...yeah.");
 MsgDispSksp(0);
 MsgDispSksp(1,5);
 ChEye(4,2);
@@ -81,8 +79,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B110400001_04_050");
 MsgDisp("Nanatsumori","Nah. I was going to give you advice to
-increase your success rate, but I can't
-think of anything.");
+increase your success rate, but I can't think
+of anything.");
 MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);

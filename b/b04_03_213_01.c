@@ -6,8 +6,8 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321301_03_000");
-MsgDisp("Honda","Huh, there's an animal that wasn't here
-last time?");
+MsgDisp("Honda","Huh, there's an animal that wasn't here last
+time?");
 MsgSel("Amazing! You have a good memory","The kitten sleeping on the sofa?","The doggy by the entrance is an ornament?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040321301_03_010");
-    MsgDisp("Honda","It's quite rare to see a Scottish Fold
-with perfectly folded ears, you know?");
+    MsgDisp("Honda","It's quite rare to see a Scottish Fold with
+perfectly folded ears, you know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,7 +41,7 @@ It looks a bit like you?");
     ChMouth(3,3);
     ChMotion(3,5);
     VoicePlay("B040321301_03_030");
-    MsgDisp("Honda","Urkー, how did you find out?
+    MsgDisp("Honda","Urk—, how did you find out?
 I meant it as a joke!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

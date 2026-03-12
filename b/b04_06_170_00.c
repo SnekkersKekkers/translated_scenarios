@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040617000_06_000");
-MsgDisp("Himuro","...What are we doing in such a stuffy
-place like this?");
+MsgDisp("Himuro","...What are we doing in such a stuffy place
+like this?");
 MsgSel("I want to hear ｛Himuro＊＊｝'s beautiful voice","Let's do a duet together.","Please listen to one song of mine.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -34,8 +34,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040617000_06_030");
-    MsgDisp("Himuro","Don't stop at one song, feel free to sing
-to your heart's content.");
+    MsgDisp("Himuro","Don't stop at one song, feel free to sing to
+your heart's content.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -40,8 +40,8 @@ Let's go!");
     ChMotion(8,0,1);
     VoicePlay("B030822000_08_040");
     MsgDisp("Shirahane","Sounds good.
-Let's study the history of Habataki City
-real good.");
+Let's study the history of Habataki City real
+good.");
     MsgDispSksp(0);
     break ;
     default :

@@ -15,8 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,2);
     ChMotion(3,0,1);
     VoicePlay("B040324200_03_010");
-    MsgDisp("Honda","Really? Why? I don't think it's any fun
-unless you do it yourself.");
+    MsgDisp("Honda","Really?
+Why? I don't think it's any fun unless you do
+it yourself.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -25,8 +26,8 @@ unless you do it yourself.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040324200_03_020");
-    MsgDisp("Honda","Right right, let's start with making a
-fire without a match!");
+    MsgDisp("Honda","Right right, let's start with making a fire
+without a match!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

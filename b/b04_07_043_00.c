@@ -3,8 +3,8 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040704300_07_000");
-MsgDisp("Mikage","The brief story before the main one is
-called a \"pillow\".");
+MsgDisp("Mikage","The brief story before the main one is called
+a \"pillow\".");
 MsgSel("It was kinda hard to understand","That was what hooked me!","That was more interesting than the punch line.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040704300_07_010");
-    MsgDisp("Mikage","The pillow is supposed to make it easier
-to understand though?");
+    MsgDisp("Mikage","The pillow is supposed to make it easier to
+understand though?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

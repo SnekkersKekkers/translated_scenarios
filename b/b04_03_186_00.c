@@ -36,7 +36,7 @@ composites than the story itself.");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040318600_03_020");
     MsgDisp("Honda","Right right, same here.
-The trailers hyped it up too muchー.");
+The trailers hyped it up too much—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

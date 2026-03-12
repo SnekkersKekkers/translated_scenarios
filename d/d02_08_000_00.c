@@ -12,7 +12,7 @@ ChEye(8,4);
 ChMotion(8,2,1);
 VoicePlay("D020800000_08_010");
 MsgDisp("Shirahane","Lately there's been a rumor going around
-school——");
+school—");
 VoicePlay("D020800000_08_020");
 MsgDisp("Shirahane","About some \"Young Master\" at Haba Academy,\na charismatic salesman with great style?");
 MsgDisp("主人公","(Is he maybe talking about ｛Kazama＊＊｝ and

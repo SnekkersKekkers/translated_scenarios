@@ -25,9 +25,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B330A30300_06_000");
-MsgDisp("Himuro","Is this why he said he didn't want to go
-too close to the store he works part
-time...");
+MsgDisp("Himuro","Is this why he said he didn't want to go too
+close to the store he works part time...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -37,9 +36,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A30300_06_010");
-MsgDisp("Himuro","Right. It's also partly our responsibility
-for dragging him around. You wait here a
-second.");
+MsgDisp("Himuro","Right.
+It's also partly our responsibility for
+dragging him around. You wait here a second.");
 MsgClose();
 SEPlay("EV_SE_856");
 ChClose(6,0,30);
@@ -73,9 +72,9 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A30300_01_010");
-MsgDisp("Kazama","Sorry. Sassa and Inori helped me out
-but...Inori basically got caught in the
-second half right?");
+MsgDisp("Kazama","Sorry. Sassa and Inori helped me out but...
+Inori basically got caught in the second half
+right?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -87,8 +86,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A30300_02_030");
-MsgDisp("Sassa","You're sharing Ryota's popularity; the
-second star shop assistant at Simon's.");
+MsgDisp("Sassa","You're sharing Ryota's popularity; the second
+star shop assistant at Simon's.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -139,8 +138,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
 ChClose(6,0,30);
 ChClose(2,0,30);
 MsgDisp("主人公","(Hehe!
-Seems like we'll finally be able to do
-some shopping now.)");
+Seems like we'll finally be able to do some
+shopping now.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

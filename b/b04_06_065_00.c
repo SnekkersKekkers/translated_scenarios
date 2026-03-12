@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040606500_06_010");
-    MsgDisp("Himuro","That's cliche but I respect how you can
-say it so unashamedly.");
+    MsgDisp("Himuro","That's cliche but I respect how you can say
+it so unashamedly.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

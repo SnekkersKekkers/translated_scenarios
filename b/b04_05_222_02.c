@@ -44,8 +44,8 @@ I'm getting dizzy...");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522202_05_030");
-        MsgDisp("Hiiragi","Haa...even then, it may be difficult for
-me to understand.");
+        MsgDisp("Hiiragi","Haa...even then, it may be difficult for me
+to understand.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -58,9 +58,9 @@ It's difficult for me.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040522202_05_050");
-        MsgDisp("Hiiragi","I may not enjoy the historical documents,
-but it does feel like we have a several
-hundred year old castle to ourselves.");
+        MsgDisp("Hiiragi","I may not enjoy the historical documents, but
+it does feel like we have a several hundred
+year old castle to ourselves.");
         MsgDisp("主人公","Eh?");
         ChMotion(5,0);
         VoicePlay("B040522202_05_060");
@@ -89,8 +89,7 @@ Troupe's play?");
         MsgDisp("Hiiragi","No, the line is \"My soul will also be with
 you for eternity.\"");
         MsgDisp("主人公","Ummm...\"
-My soul will also be with you for
-eternity.\"");
+My soul will also be with you for eternity.\"");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -103,10 +102,10 @@ It was a play...");
         ChMotion(5,3);
         VoicePlay("B040522202_05_110");
         MsgDisp("Hiiragi","Heheh, you did well.
-Hearing those words from your lips, even
-as a line, made my day.");
-        MsgDisp("主人公","(Umm, somehow it seems like I fell right
-into ｛Hiiragi＊＊＊｝'s plan.)");
+Hearing those words from your lips, even as a
+line, made my day.");
+        MsgDisp("主人公","(Umm, somehow it seems like I fell right into
+｛Hiiragi＊＊＊｝'s plan.)");
         break ;
         default :
         DbgAssert(1);

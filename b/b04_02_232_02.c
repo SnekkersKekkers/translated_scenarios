@@ -14,9 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223202_02_010");
-    MsgDisp("Sassa","It's fine, but what expression should I
-make sitting face-to-face like this
-without moving?");
+    MsgDisp("Sassa","It's fine, but what expression should I make
+sitting face-to-face like this without
+moving?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -32,8 +32,8 @@ without moving?");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040223202_02_020");
-        MsgDisp("Sassa","I've never had to force myself when I'm
-with you.");
+        MsgDisp("Sassa","I've never had to force myself when I'm with
+you.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -56,8 +56,8 @@ But, in front of me is your smile.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223202_02_050");
-        MsgDisp("Sassa","I'm being attacked in a way I both like
-and cannot stand.
+        MsgDisp("Sassa","I'm being attacked in a way I both like and
+cannot stand.
 For 15 minutes too.");
         MsgDisp("主人公","Ehh!
 Then, what should we do next time?");
@@ -72,9 +72,9 @@ already okay for next time.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223202_02_070");
-        MsgDisp("Sassa","That's why, from next time, just think
-that \"This person is struggling huhー\" and
-that'll be enough.");
+        MsgDisp("Sassa","That's why, from next time, just think that
+\"This person is struggling huh—\" and that'll
+be enough.");
         MsgDisp("主人公","Hehe, if you put it that way, I'll end up
 laughing at ｛Sassa＊＊｝ who's making a
 troubled face.");

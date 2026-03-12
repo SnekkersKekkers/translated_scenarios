@@ -49,9 +49,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_670");
-MsgDisp("Mikage","Listen, as the magnification increases,
-your field of vision narrows. Not seeing
-your surroundings would be dangerous.");
+MsgDisp("Mikage","Listen, as the magnification increases, your
+field of vision narrows. Not seeing your
+surroundings would be dangerous.");
 MsgDisp("主人公","Eh, is it dangerous?");
 ChEye(7,2);
 ChMouth(7,0);

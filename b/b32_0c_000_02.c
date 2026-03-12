@@ -14,8 +14,8 @@ like a school field trip.");
 ChMotion(5,4);
 VoicePlay("B320C00002_05_000");
 MsgDisp("Hiiragi","Yes.
-Mikage-sensei, please conduct today with
-that sort of feeling.");
+Mikage-sensei, please conduct today with that
+sort of feeling.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

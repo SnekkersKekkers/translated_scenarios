@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040615202_06_010");
-    MsgDisp("Himuro","Ehhh, so that means you have no intention
-of losing?
+    MsgDisp("Himuro","Ehhh, so that means you have no intention of
+losing?
 Then, let's bet on one drink.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -75,8 +75,8 @@ Amazing!");
         ChMouth(6,4);
         ChMotion(6,4);
         VoicePlay("B040615202_06_070");
-        MsgDisp("Himuro","But, the probability raises depending on
-the reward.");
+        MsgDisp("Himuro","But, the probability raises depending on the
+reward.");
         MsgDisp("主人公","You want a drink or something?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -91,8 +91,8 @@ Then, hmm....");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040615202_06_090");
-        MsgDisp("Himuro","...Something like holding hands on the
-way home.");
+        MsgDisp("Himuro","...Something like holding hands on the way
+home.");
         MsgDisp("主人公","Eh, holding what?");
         ChEye(6,0);
         ChMouth(6,0);

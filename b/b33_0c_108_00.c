@@ -23,29 +23,27 @@ ScrFadeIn(0);
 ChMouth(5,3);
 VoicePlay("B330C10800_05_000");
 MsgDisp("Hiiragi","The moment I jump into the sky, I feel as
-though I have been liberated from
-everything.");
+though I have been liberated from everything.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C10800_06_000");
 MsgDisp("Himuro","That's close to how it is for me too.
-My facial muscles naturally relax just
-before jumping.");
+My facial muscles naturally relax just before
+jumping.");
 MsgDisp("主人公","You two are amazing...
 Isn't it scary?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("B330C10800_07_000");
-MsgDisp("Mikage","Yeah, what kind of thought process is
-that?");
+MsgDisp("Mikage","Yeah, what kind of thought process is that?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10800_05_010");
-MsgDisp("Hiiragi","Then, what do you feel the moment you
-jump, Mikage-sensei?");
+MsgDisp("Hiiragi","Then, what do you feel the moment you jump,
+Mikage-sensei?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -127,8 +125,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330C10800_06_060");
-MsgDisp("Himuro","Haha, that's right, just try not to miss
-the mark.");
+MsgDisp("Himuro","Haha, that's right, just try not to miss the
+mark.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -142,8 +140,8 @@ VoicePlay("B330C10800_07_050");
 MsgDisp("Mikage","Yeah, do as you like.
 I'll be waiting here.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ are both
-amazing. But missing the mark is no
-laughing matter...!)");
+amazing. But missing the mark is no laughing
+matter...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

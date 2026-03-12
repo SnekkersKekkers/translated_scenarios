@@ -13,7 +13,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,3,1);
 VoicePlay("B040423600_04_000");
-MsgDisp("Nanatsumori","Amazingー...
+MsgDisp("Nanatsumori","Amazing—...
 I'm super excited...");
 MsgSel("That float is so cute! I'll take a picture.","Pretty...It's like I'm in a dream.","I can't see anything because people are in the way...");
 switch (MsgSelRsltGet()){
@@ -35,8 +35,9 @@ It's about time for a photo opp.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040423600_04_020");
-    MsgDisp("Nanatsumori","Yeah. It's kinda like...I feel like I'm
-flying in the sky like this?");
+    MsgDisp("Nanatsumori","Yeah.
+It's kinda like...
+I feel like I'm flying in the sky like this?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

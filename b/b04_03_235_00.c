@@ -6,7 +6,7 @@ ChOpen(3,255,1,0,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040323500_03_000");
 MsgDisp("Honda","This really has the haunted house feeling.
-I love this kind of atmosphereー.");
+I love this kind of atmosphere—.");
 MsgSel("It's scary, but fun!","I think I'm unable to stand...","The tricks are too sloppy, no good!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,7 +38,7 @@ Was it that scary?");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040323500_03_030");
-    MsgDisp("Honda","Reallyー?
+    MsgDisp("Honda","Really—?
 The roughness is part of the charm of this
 place, isn't it?");
     MsgDateResultDisp();

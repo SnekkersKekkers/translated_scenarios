@@ -11,9 +11,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040219100_02_000");
-    MsgDisp("Sassa","The best huh...I think I'm into flashier
-entertainment than stuff that requires me
-to use my head.");
+    MsgDisp("Sassa","The best huh...
+I think I'm into flashier entertainment than
+stuff that requires me to use my head.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -23,8 +23,7 @@ to use my head.");
     ChMotion(2,4);
     VoicePlay("B040219100_02_010");
     MsgDisp("Sassa","Yeah, that's about right.
-Even I could watch it without getting
-bored.");
+Even I could watch it without getting bored.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +35,9 @@ bored.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040219100_02_020");
-    MsgDisp("Sassa","Right right. Those experts who popped out
-every now and again? That was painfulー.");
+    MsgDisp("Sassa","Right right.
+Those experts who popped out every now and
+again? That was painful—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

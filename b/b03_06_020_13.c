@@ -22,8 +22,7 @@ switch (MsgSelRsltGet()){
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
-    MsgDisp("Himuro","I hope there aren't any loud people
-around.");
+    MsgDisp("Himuro","I hope there aren't any loud people around.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

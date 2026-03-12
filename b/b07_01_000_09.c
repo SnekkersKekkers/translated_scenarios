@@ -5,8 +5,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_490");
-MsgDisp("Kazama","That's fine but, I have a bad feeling
-about this.");
+MsgDisp("Kazama","That's fine but, I have a bad feeling about
+this.");
 MsgDisp("主人公","Hey.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -29,24 +29,24 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("B070100000_01_520");
-MsgDisp("Kazama","There's no particular way to think about
-it. I've been thinking seriously about it
-for a long time.");
+MsgDisp("Kazama","There's no particular way to think about it.
+I've been thinking seriously about it for a
+long time.");
 MsgDisp("主人公","I see.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100000_01_530");
-MsgDisp("Kazama","For me, love is entwined with my dreams,
-my memories and my current life.");
+MsgDisp("Kazama","For me, love is entwined with my dreams, my
+memories and my current life.");
 ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 Wait(16,0);
 ChEye(1,4);
 ChMouth(1,2);
 VoicePlay("B070100000_01_540");
-MsgDisp("Kazama","So to only extract \"love\" from the
-equation is difficult.
+MsgDisp("Kazama","So to only extract \"love\" from the equation
+is difficult.
 I can't do it.");
 MsgDisp("主人公","I see.
 I guess I should also think about it more

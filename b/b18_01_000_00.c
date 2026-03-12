@@ -12,9 +12,8 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,4);
 VoicePlay("B180100000_01_010");
-MsgDisp("Kazama","I missed my chance on the day of the
-entrance ceremony, but this is how I used
-to call you.");
+MsgDisp("Kazama","I missed my chance on the day of the entrance
+ceremony, but this is how I used to call you.");
 MsgDisp("主人公","Ah, yeah.
 You used to call me like that.");
 ChCheek(1,0);
@@ -45,17 +44,17 @@ switch (MsgSelRsltGet()){
     ChCheek(1,0);
     VoicePlay("B180100000_01_040");
     MsgDisp("Kazama","You caught me.
-Honestly, I've been waiting for the
-perfect opportunity for a while.");
+Honestly, I've been waiting for the perfect
+opportunity for a while.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,4);
     ChEyeOpenLevel(1,0);
     VoicePlay("B180100000_01_050");
-    MsgDisp("Kazama","Seriously, I would've had no idea what to
-do if things stayed like this.");
-    MsgDisp("主人公","(Hehe, somehow there's a tingling feeling
-to it...)");
+    MsgDisp("Kazama","Seriously, I would've had no idea what to do
+if things stayed like this.");
+    MsgDisp("主人公","(Hehe, somehow there's a tingling feeling to
+it...)");
     break ;
     case 1:
     ChEye(1,0);

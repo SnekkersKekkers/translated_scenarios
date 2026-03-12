@@ -7,8 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521100_05_000");
 MsgDisp("Hiiragi","As expected of Habataki Zoo.
-It's abundant in both variety and
-quantity.");
+It's abundant in both variety and quantity.");
 MsgSel("I want to see more up close!","Let's take a picture with the animals!","｛Hiiragi＊＊＊｝, do you have somewhere you want to see?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040521100_05_010");
-    MsgDisp("Hiiragi","That's fine but, that depends on what
-animal it is.");
+    MsgDisp("Hiiragi","That's fine but, that depends on what animal
+it is.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -38,8 +37,8 @@ I'm relieved if that's the case.");
     ChMotion(5,4);
     VoicePlay("B040521100_05_030");
     MsgDisp("Hiiragi","That's right. If you don't have a
-preference... Let's start with the
-elephant over there, largest to smallest.");
+preference... Let's start with the elephant
+over there, largest to smallest.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

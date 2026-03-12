@@ -14,8 +14,7 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B140300100_03_000");
 MsgDisp("Honda","Yeah, it feels like we've stepped into the
-world of that pop-up book we saw
-yesterday.");
+world of that pop-up book we saw yesterday.");
 MsgDisp("主人公","It really does...what a magical feeling.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -28,8 +27,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B140300100_03_020");
-MsgDisp("Honda","Wait...does that mean if we look up, we
-might see ourselves from yesterday?");
+MsgDisp("Honda","Wait...does that mean if we look up, we might
+see ourselves from yesterday?");
 MsgDisp("主人公","Eh∋");
 ChEye(3,3);
 ChMouth(3,3);
@@ -49,8 +48,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B140300100_03_050");
-MsgDisp("Honda","Spending two Christmases in a row with you
-is just the best.");
+MsgDisp("Honda","Spending two Christmases in a row with you is
+just the best.");
 MsgDisp("主人公","Yeah, it really is!");
 ChEye(3,0);
 ChMouth(3,3);

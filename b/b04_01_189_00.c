@@ -24,8 +24,8 @@ now.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040118900_01_010");
-    MsgDisp("Kazama","No, something like today's movie is either
-a hit or a miss.");
+    MsgDisp("Kazama","No, something like today's movie is either a
+hit or a miss.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -35,8 +35,8 @@ a hit or a miss.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118900_01_020");
-    MsgDisp("Kazama","Yeah, I think the sound and afterimages
-are gonna haunt me for a while...");
+    MsgDisp("Kazama","Yeah, I think the sound and afterimages are
+gonna haunt me for a while...");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();

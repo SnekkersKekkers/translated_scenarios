@@ -88,7 +88,7 @@ For the show I walk by myself though?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P730700002_07_080");
-    MsgDisp("Mikage","Seriously, what a shameー.
+    MsgDisp("Mikage","Seriously, what a shame—.
 Making a bride like this walk by herself.");
     ChEye(7,0);
     ChMouth(7,0);

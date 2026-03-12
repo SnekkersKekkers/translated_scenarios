@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040606201_06_010");
-    MsgDisp("Himuro","You're curious too, huh. Even if they're
-all blue grottos, I wonder how they
-differ. I want to compare them.");
+    MsgDisp("Himuro","You're curious too, huh.
+Even if they're all blue grottos, I wonder
+how they differ. I want to compare them.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ differ. I want to compare them.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040606201_06_020");
-    MsgDisp("Himuro","Did you get excited because you thought
-this was the only one?
+    MsgDisp("Himuro","Did you get excited because you thought this
+was the only one?
 That's unfortunate.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

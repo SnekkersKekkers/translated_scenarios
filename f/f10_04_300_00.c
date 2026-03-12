@@ -16,7 +16,7 @@ If I could design and make my own clothes,
 it'd be even more fun.");
 VoicePlay("F100430000_21_010");
 MsgDisp("Michiru?","Minoru-kun, don't you make them yourself?
-That——");
+That—");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);

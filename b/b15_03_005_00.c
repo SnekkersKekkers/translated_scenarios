@@ -29,12 +29,11 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B150300500_03_040");
 MsgDisp("Honda","...It's fine.
-But in return, can you forgive me for
-this?");
+But in return, can you forgive me for this?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(3);
 SEWait();
-MsgDisp("主人公","Huh——");
+MsgDisp("主人公","Huh—");
 SEPlay("EV_SE_504");
 SEWait();
 ChLayout(0);
@@ -43,14 +42,14 @@ ChOpen(3,255,4,0,4,#1,#1,0,0);
 VoicePlay("B150300500_03_050");
 MsgDisp("Honda","I figured it out.
 That overflowing feeling that felt like it
-might burst while you were touching me——");
+might burst while you were touching me—");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B150300500_03_060");
-MsgDisp("Honda","I think it's this. My own feelings of
-wanting to touch you more. Way more than
-just a little.");
+MsgDisp("Honda","I think it's this.
+My own feelings of wanting to touch you more.
+Way more than just a little.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);

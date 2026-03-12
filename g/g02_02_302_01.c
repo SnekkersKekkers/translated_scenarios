@@ -33,7 +33,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020230201_02_040");
-MsgDisp("Sassa","Ehhhー?
+MsgDisp("Sassa","Ehhh—?
 I don't know who else you've seen it with
 but.");
 ChEye(2,0);

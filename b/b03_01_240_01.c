@@ -7,11 +7,11 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B030124000_01_000");
-MsgDisp("Kazama","'Leave the city behind and get in touch
-with nature', huh...
+MsgDisp("Kazama","'Leave the city behind and get in touch with
+nature', huh...
 That's a common catchphrase.");
-MsgDisp("主人公","Like, 'forget your everyday life and
-become one with nature'!");
+MsgDisp("主人公","Like, 'forget your everyday life and become
+one with nature'!");
 ChEye(1,0);
 ChMouth(1,0);
 MsgSel("I wonder if there are animals?","Want to head to the camping ground?");

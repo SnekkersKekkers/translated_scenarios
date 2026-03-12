@@ -57,7 +57,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020211000_02_050");
 MsgDisp("Sassa","Since then, no matter what the competition
-was, I never lost to anyone——");
+was, I never lost to anyone—");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -119,7 +119,7 @@ ChMotion(2,0);
 VoicePlay("T020211000_02_140");
 MsgDisp("Sassa","The time I spent running alongside you,
 having normal conversations that was the
-only time——");
+only time—");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -154,7 +154,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("T020211000_02_190");
 MsgDisp("Sassa","But it didn't work.
 The times I ran alongside you will stay
-within me——");
+within me—");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,1);

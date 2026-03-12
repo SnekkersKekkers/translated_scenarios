@@ -40,9 +40,8 @@ Those guys sure can be picky, huh?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040108301_01_030");
-    MsgDisp("Kazama","Hey, I don't know what you're hoping for,
-but I'm not the type of character for
-that.");
+    MsgDisp("Kazama","Hey, I don't know what you're hoping for, but
+I'm not the type of character for that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

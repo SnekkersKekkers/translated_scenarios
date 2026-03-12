@@ -28,8 +28,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B050500000_05_020");
-MsgDisp("Hiiragi","The deck of the ship looks exactly like
-the stage.");
+MsgDisp("Hiiragi","The deck of the ship looks exactly like the
+stage.");
 MsgDisp("主人公","Hehe, that's true.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -94,8 +94,8 @@ VoicePlay("B050500000_05_080");
 MsgDisp("Hiiragi","Nice catch!
 Haha, come over here too!");
 SEStop("EV_SE_729",1);
-MsgDisp("主人公","(Hehe, it's my first time seeing
-｛Hiiragi＊＊＊｝ smile so innocently.
+MsgDisp("主人公","(Hehe, it's my first time seeing ｛Hiiragi＊＊＊｝
+smile so innocently.
 I guess it's a bit cute...?)");
 MsgClose();
 ScrFadeOut(0,0);

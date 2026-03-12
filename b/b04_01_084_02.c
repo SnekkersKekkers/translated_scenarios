@@ -56,8 +56,7 @@ you.");
         ChMotion(1,1);
         VoicePlay("B040108402_01_030");
         MsgDisp("Kazama","Body warmth∋
-...Sheesh, you can really be such an
-airhead!");
+...Sheesh, you can really be such an airhead!");
         MsgDateResultDisp();
         ChCheek(1,0);
         break ;
@@ -69,8 +68,7 @@ airhead!");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108402_01_040");
-        MsgDisp("Kazama","Hey, do you even know what you're
-saying?");
+        MsgDisp("Kazama","Hey, do you even know what you're saying?");
         MsgDisp("主人公","Umm...");
         ChEye(1,2);
         ChMouth(1,2);
@@ -82,8 +80,7 @@ saying?");
         ChMouth(1,1);
         ChMotion(1,0);
         VoicePlay("B040108402_01_060");
-        MsgDisp("Kazama","Listen, do not ever say that again in
-public.
+        MsgDisp("Kazama","Listen, do not ever say that again in public.
 You get it?");
         MsgDisp("主人公","O-Okay.");
         MsgClose();
@@ -100,8 +97,9 @@ You get it?");
         ChEyeOpenLevel(1,8);
         ChCheek(1,7);
         VoicePlay("B040108402_01_080");
-        MsgDisp("Kazama","Didn't you just say you missed body
-warmth? So, here. My hand.");
+        MsgDisp("Kazama","Didn't you just say you missed body warmth?
+So, here.
+My hand.");
         MsgDisp("主人公","Hehe, yeah, thank you.");
         ChEye(1,4);
         ChMouth(1,3);
@@ -109,10 +107,9 @@ warmth? So, here. My hand.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040108402_01_090");
-        MsgDisp("Kazama","Phew, this season isn't so bad after
-all...");
-        MsgDisp("主人公","Ooh, ｛Kazama＊＊｝, you definitely like
-fall, right?");
+        MsgDisp("Kazama","Phew, this season isn't so bad after all...");
+        MsgDisp("主人公","Ooh, ｛Kazama＊＊｝, you definitely like fall,
+right?");
         MsgClose();
         ChClose(1,0,30);
         ChLayout(1);

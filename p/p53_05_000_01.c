@@ -92,7 +92,7 @@ Is that right...");
     ChMotion(5,4);
     VoicePlay("P530500001_05_080");
     MsgDisp("Hiiragi","Yes.
-A moderate elation——In other words, your
+A moderate elation—In other words, your
 heart is racing.");
     MsgDisp("主人公","Yeah, my heart is racing.");
     ChEye(5,0);

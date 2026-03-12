@@ -8,7 +8,7 @@ VoicePlay("T040620000_06_000");
 MsgDisp("Himuro","...That's right. Do you remember? That
 time I taught those two how to surf at the
 beach. And I stealthily sent you a
-message——");
+message—");
 MsgClose();
 StlOpen("ev_06_20");
 StlEye(1,0);

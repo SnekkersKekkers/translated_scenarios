@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040318900_03_000");
-    MsgDisp("Honda","My body started moving naturally, isn't
-that amazing?
+    MsgDisp("Honda","My body started moving naturally, isn't that
+amazing?
 I'd like to watch other Indian movies too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

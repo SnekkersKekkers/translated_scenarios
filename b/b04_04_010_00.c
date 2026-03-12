@@ -42,8 +42,8 @@ Is there something bothering you?");
     ChMouth(4,1);
     ChMotion(4,4,1);
     VoicePlay("B040401000_04_030");
-    MsgDisp("Nanatsumori","Shh, you're being too loud∈ What's going
-on...");
+    MsgDisp("Nanatsumori","Shh, you're being too loud∈
+What's going on...");
     MsgDateResultDisp();
     break ;
     default :

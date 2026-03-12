@@ -45,7 +45,7 @@ VoicePlay("D010100002_01_030");
 MsgDisp("Kazama","Hmm?
 No wait...
 I swear there were others.");
-MsgDisp("主人公","Eh——");
+MsgDisp("主人公","Eh—");
 MsgClose();
 BGMStop(1.5);
 MsgClose();

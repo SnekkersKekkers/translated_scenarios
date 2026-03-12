@@ -41,14 +41,14 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B330B20100_04_010");
-MsgDisp("Nanatsumori","Dahon's standards for beauty and cuteness
-are too weird...");
+MsgDisp("Nanatsumori","Dahon's standards for beauty and cuteness are
+too weird...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B20100_01_010");
-MsgDisp("Kazama","If I gave it the benefit of the doubt,
-would I think it's cute?
+MsgDisp("Kazama","If I gave it the benefit of the doubt, would
+I think it's cute?
 No, I wouldn't.");
 MsgDisp("主人公","Hehe!
 ｛Honda＊＊｝, are you satisfied?");
@@ -86,8 +86,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20100_03_040");
-MsgDisp("Honda","It's alright! It's super cool. Mi-kun will
-also definitely come to like it.");
+MsgDisp("Honda","It's alright!
+It's super cool.
+Mi-kun will also definitely come to like it.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","(I'm pretty sure it'll be a no-go for

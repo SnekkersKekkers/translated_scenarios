@@ -11,12 +11,12 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_100");
-MsgDisp("Honda","Mi-kun sometimes finds items from brands
-that no one knows about.");
+MsgDisp("Honda","Mi-kun sometimes finds items from brands that
+no one knows about.");
 ChMotion(3,0);
 VoicePlay("B070300001_03_110");
 MsgDisp("Honda","So I ask him, \"Hey where do you find these
-things?——\"");
+things?—\"");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -28,9 +28,9 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_130");
-MsgDisp("Honda","Yeah, but you know, even though he seems
-like he's annoyed, he always stays with me
-until the end.");
+MsgDisp("Honda","Yeah, but you know, even though he seems like
+he's annoyed, he always stays with me until
+the end.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

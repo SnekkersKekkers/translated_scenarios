@@ -12,8 +12,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B330B10401_03_000");
-MsgDisp("Honda","There's a legend that you can hear
-people's inner voices here, right?");
+MsgDisp("Honda","There's a legend that you can hear people's
+inner voices here, right?");
 MsgDisp("主人公","Yeah, it's pretty mysterious.");
 ChMouth(1,2);
 ChEye(3,0);
@@ -57,15 +57,14 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B10401_03_020");
-MsgDisp("Honda","Isn't it because it's Ryo-kun's inner
-voice?");
+MsgDisp("Honda","Isn't it because it's Ryo-kun's inner voice?");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B330B10401_04_020");
-MsgDisp("Nanatsumori","I see, the person themselves can't hear
-their own inner voice.");
+MsgDisp("Nanatsumori","I see, the person themselves can't hear their
+own inner voice.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -140,8 +139,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B10401_03_040");
-MsgDisp("Honda","And if you didn't hear it...then was it
-your inner voice?");
+MsgDisp("Honda","And if you didn't hear it...then was it your
+inner voice?");
 ChEye(1,0);
 ChMouth(1,2);
 MsgDisp("主人公","Ehhh∈");

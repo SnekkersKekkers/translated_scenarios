@@ -14,8 +14,8 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B040506402_05_010");
-MsgDisp("Hiiragi","I do serve as the leader of the local
-theatre troupe, after all.");
+MsgDisp("Hiiragi","I do serve as the leader of the local theatre
+troupe, after all.");
 VoicePlay("B040506402_36_000");
 MsgDisp("Market Clerk","Yo, Chairman?
 How's about some takoyaki?");
@@ -24,8 +24,8 @@ VoicePlay("B040506402_05_020");
 MsgDisp("Hiiragi","Ah, yes.
 Of course I'll have some.");
 VoicePlay("B040506402_47_000");
-MsgDisp("Market Clerk","I saw the Habataki theatre troupe the
-other day, you know?
+MsgDisp("Market Clerk","I saw the Habataki theatre troupe the other
+day, you know?
 I'll throw in some free yakisoba.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -68,7 +68,7 @@ ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040506402_05_070");
-MsgDisp("Hiiragi","Haaー I'm alright.
+MsgDisp("Hiiragi","Haa— I'm alright.
 I'm happy about everyone's feelings...");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 That's good.");
@@ -79,8 +79,7 @@ MsgDisp("Hiiragi","Yes...");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B040506402_05_090");
-MsgDisp("Hiiragi","Haa, I was fine until I saw your face,
-but...");
+MsgDisp("Hiiragi","Haa, I was fine until I saw your face, but...");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,0);
@@ -89,8 +88,8 @@ MsgDisp("Hiiragi","Look, the fireworks display.
 It's starting now.
 Let's go!");
 MsgDisp("主人公","Y-Yeah.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you've been recognized by
-the people of Habataki City.
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you've been recognized by the
+people of Habataki City.
 That's good.)");
 MsgClose();
 ScrFadeOut(0,0);

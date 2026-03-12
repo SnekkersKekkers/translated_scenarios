@@ -4,19 +4,19 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B070100000_01_370");
-MsgDisp("Kazama","I want to have a store that sells only
-items that I have seen with my own eyes
-and am satisfied with.");
+MsgDisp("Kazama","I want to have a store that sells only items
+that I have seen with my own eyes and am
+satisfied with.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_380");
 MsgDisp("Kazama","I want to protect the precious cultural
-heritage items that my grandfather
-inherited from his ancestors.");
-MsgDisp("主人公","Yeah, I think both the townspeople and
-your grandfather would be very happy.
+heritage items that my grandfather inherited
+from his ancestors.");
+MsgDisp("主人公","Yeah, I think both the townspeople and your
+grandfather would be very happy.
 That's a very important dream.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -31,10 +31,10 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B070100000_01_400");
 MsgDisp("Kazama","What's with that textbook answer?
-You say it so casuallyー.");
+You say it so casually—.");
 MsgDisp("主人公","Eh?
-I think ｛Kazama＊＊｝ will be able to make
-any of his dreams come true though.");
+I think ｛Kazama＊＊｝ will be able to make any
+of his dreams come true though.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,4);

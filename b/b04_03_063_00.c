@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("B040306300_03_010");
-    MsgDisp("Honda","The winter sea definitely doesn't have
-many living things.");
+    MsgDisp("Honda","The winter sea definitely doesn't have many
+living things.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +40,8 @@ seasonal winds bring deep sea water up!");
     ChSet(3,3,1);
     VoicePlay("B040306300_03_030");
     MsgDisp("Honda","Yep yep, that's right!
-The cold makes the body fatty, large fish
-are best in winter!");
+The cold makes the body fatty, large fish are
+best in winter!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

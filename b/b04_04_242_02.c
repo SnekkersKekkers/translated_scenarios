@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040424202_04_000");
-MsgDisp("Nanatsumori","Phewー.
+MsgDisp("Nanatsumori","Phew—.
 Shall we go for a walk after eating?");
 MsgSel("Sounds good, let's go!","I still don't want to move...","Walk...?");
 switch (MsgSelRsltGet()){
@@ -72,8 +72,9 @@ Ah, he's asleep.");
 Aahn....");
         MsgDisp("主人公","(Looks like he's dreaming.)");
         VoicePlay("B040424202_04_080");
-        MsgDisp("Nanatsumori","...Mmm. Tasty. Then...I'm up next.
-Alright, open up....");
+        MsgDisp("Nanatsumori","...Mmm.
+Tasty.
+Then... I'm up next. Alright, open up....");
         MsgDisp("主人公","(Hehe, he seems happy.)");
         VoicePlay("B040424202_04_090");
         MsgDisp("Nanatsumori","I'm happy...");
@@ -103,13 +104,13 @@ Alright, open up....");
         VoicePlay("B040424202_04_140");
         MsgDisp("Nanatsumori","...What was I saying?");
         MsgDisp("主人公","S-Sorry.
-I couldn't really catch what you were
-saying?");
+I couldn't really catch what you were saying?");
         ChEye(4,4);
         ChMouth(4,0);
         ChMotion(4,2,1);
         VoicePlay("B040424202_04_150");
-        MsgDisp("Nanatsumori","I see. That's good...");
+        MsgDisp("Nanatsumori","I see.
+That's good...");
         MsgDisp("主人公","Was it a good dream?");
         ChEye(4,4);
         ChMouth(4,3);

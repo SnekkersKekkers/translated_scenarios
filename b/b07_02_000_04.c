@@ -11,8 +11,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_170");
-MsgDisp("Sassa","The ones with heroes or sports usually
-have exciting songs.");
+MsgDisp("Sassa","The ones with heroes or sports usually have
+exciting songs.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

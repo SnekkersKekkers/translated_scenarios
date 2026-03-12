@@ -7,7 +7,7 @@ ChMouthOpenLevel(4,0);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("P640400005_04_000");
-MsgDisp("Nanatsumori","Hmmー...");
+MsgDisp("Nanatsumori","Hmm—...");
 MsgDisp("主人公","How is it?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -28,7 +28,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("P640400005_04_030");
 MsgDisp("Nanatsumori","Well, I guess it's full of lycopene.
-I'll eat it all to get beautiful skinー.");
+I'll eat it all to get beautiful skin—.");
 MsgDisp("主人公","(It would have been better if I researched
 how to grow them to be more delicious...
 In the end it was a fail...)");

@@ -21,8 +21,8 @@ Did you run here?");
     ChMotion(2,4);
     VoicePlay("B010200001_02_010");
     MsgDisp("Sassa","Yeah.
-Every light was green the whole way, so I
-ran nonstop from home.");
+Every light was green the whole way, so I ran
+nonstop from home.");
     MsgDisp("主人公","Huh?\nYou ran all the way here from your house?");
     MsgDispSksp(1,0);
     ChEye(2,0);
@@ -48,8 +48,8 @@ I made you wait.");
     ChMotion(2,1);
     VoicePlay("B010200001_02_040");
     MsgDisp("Sassa","Yeah...
-Then as an apology, I'll carry all your
-bags today.");
+Then as an apology, I'll carry all your bags
+today.");
     MsgDisp("主人公","Hehe, it's okay.
 I run late sometimes too.");
     ChEye(2,0);
@@ -86,8 +86,8 @@ You can be a little angrier.");
     ChMouth(2,2);
     ChMotion(2,2);
     VoicePlay("B010200001_02_080");
-    MsgDisp("Sassa","It feels like you didn't have high hopes
-for me, and that makes me anxious.
+    MsgDisp("Sassa","It feels like you didn't have high hopes for
+me, and that makes me anxious.
 Were you not looking forward to this?");
     MsgDisp("主人公","That's not the case at all!");
     ChEye(2,0);
@@ -95,8 +95,8 @@ Were you not looking forward to this?");
     ChMotion(2,3);
     VoicePlay("B010200001_02_090");
     MsgDisp("Sassa","I see, I'm glad.
-Well, I'll just have to make a full
-recovery from this today!");
+Well, I'll just have to make a full recovery
+from this today!");
     MsgDispSksp(1,0);
     ChEye(2,0);
     ChMouth(2,4);

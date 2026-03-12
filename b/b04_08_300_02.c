@@ -62,8 +62,8 @@ That sorta...");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040830002_08_060");
-        MsgDisp("Shirahane","Should I become the kinda guy who can
-respond coolly to things like that?");
+        MsgDisp("Shirahane","Should I become the kinda guy who can respond
+coolly to things like that?");
         ChEye(8,2);
         ChMouth(8,2);
         ChEyeOpenLevel(8,0);
@@ -81,15 +81,15 @@ I'm a late bloomer when it comes ta love.");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("B040830002_08_090");
-        MsgDisp("Shirahane","That's why I might not be able ta meet up
-ta yer expectations.");
+        MsgDisp("Shirahane","That's why I might not be able ta meet up ta
+yer expectations.");
         ChEye(8,0);
         ChMouth(8,4);
         ChEyeOpenLevel(8,10);
         VoicePlay("B040830002_08_100");
         MsgDisp("Shirahane","But, I want ta understand.
-I like you, so I feel like I want ta
-cherish you.");
+I like you, so I feel like I want ta cherish
+you.");
         ChEye(8,4);
         ChMouth(8,0);
         ChMotion(8,4,1);

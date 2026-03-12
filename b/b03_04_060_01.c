@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B030406001_04_020");
     MsgDisp("Nanatsumori","Sounds good.
-...Kinda feels like I didn't need to
-change into my swimsuit, though.");
+...Kinda feels like I didn't need to change
+into my swimsuit, though.");
     break ;
     default :
     DbgAssert(0);

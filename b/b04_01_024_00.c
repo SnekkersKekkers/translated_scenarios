@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040102400_01_010");
     MsgDisp("Kazama","It's alright.
-Wouldn't it be better if there was a
-little bit more oomph to it?");
+Wouldn't it be better if there was a little
+bit more oomph to it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

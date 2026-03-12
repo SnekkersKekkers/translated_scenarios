@@ -6,14 +6,14 @@ MsgDisp("Hiiragi","Yes.
 It's a little perplexing even to me.");
 ChMotion(5,4);
 VoicePlay("B070500001_05_190");
-MsgDisp("Hiiragi","I spent all my time surrounded by adults
-in the troupe. Because of that, I didn't 
-know how to interact with my peers.");
+MsgDisp("Hiiragi","I spent all my time surrounded by adults in
+the troupe. Because of that, I didn't know
+how to interact with my peers.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B070500001_05_200");
-MsgDisp("Hiiragi","But thanks to Inori-kun and Mikage-sensei,
-my world has changed.");
+MsgDisp("Hiiragi","But thanks to Inori-kun and Mikage-sensei, my
+world has changed.");
 MsgDisp("主人公","Eh, ｛Mikage＊＊｝ isn't the same age
 though...");
 ChEye(5,4);
@@ -29,17 +29,17 @@ MsgDisp("Hiiragi","Yes, so much so that I was confused.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_230");
-MsgDisp("Hiiragi","Conversely, Inori-kun behaves like an
-adult. But he's completely different from
-the adults I grew up around.");
+MsgDisp("Hiiragi","Conversely, Inori-kun behaves like an adult.
+But he's completely different from the adults
+I grew up around.");
 MsgDisp("主人公","Three special people.");
 ChEye(5,0);
 VoicePlay("B070500001_05_240");
 MsgDisp("Hiiragi","Is it not four?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B070500001_05_250");
-MsgDisp("Hiiragi","Without you there, Inori-kun would have
-the stage to himself.");
+MsgDisp("Hiiragi","Without you there, Inori-kun would have the
+stage to himself.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B070500001_05_260");
@@ -52,9 +52,8 @@ ChMotion(5,0);
 VoicePlay("B070500001_05_270");
 MsgDisp("Hiiragi","Yes, I would be happy if we continued to
 spend time together like this...");
-MsgDisp("主人公","(I would be happy if ｛Hiiragi＊＊＊｝
-continued to enjoy his school life like
-this...)");
+MsgDisp("主人公","(I would be happy if ｛Hiiragi＊＊＊｝ continued
+to enjoy his school life like this...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

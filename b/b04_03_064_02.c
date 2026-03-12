@@ -22,9 +22,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B040306402_03_030");
-MsgDisp("Honda","You see, the smells of the various stores
-are all mixed together, like they're
-sticking together and melting together.");
+MsgDisp("Honda","You see, the smells of the various stores are
+all mixed together, like they're sticking
+together and melting together.");
 ChEye(3,3);
 ChMouth(3,0);
 ChMotion(3,3);
@@ -48,23 +48,22 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("B040306402_03_070");
-MsgDisp("Honda","That's why, when we're having fun like
-this, it feels like we're swimming in a
-sea of soup in a bowl?");
+MsgDisp("Honda","That's why, when we're having fun like this,
+it feels like we're swimming in a sea of soup
+in a bowl?");
 MsgDisp("主人公","Ehh, in a bowl?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B040306402_03_080");
-MsgDisp("Honda","Hey, let's get grilled squid from over
-there next!
+MsgDisp("Honda","Hey, let's get grilled squid from over there
+next!
 Let's go!");
 MsgClose();
 SEPlay("EV_SE_672");
 ChClose(3);
 SEWait();
 MsgDisp("主人公","(He's gone...
-｛Honda＊＊｝'s way of thinking is
-amazing...)");
+｛Honda＊＊｝'s way of thinking is amazing...)");
 MsgClose();
 ScrFadeOut(0);

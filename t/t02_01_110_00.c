@@ -81,7 +81,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020111000_01_070");
 MsgDisp("Kazama","And then, even after you left me to stand
-by someone else's side——");
+by someone else's side—");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

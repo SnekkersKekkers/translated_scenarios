@@ -16,8 +16,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_340");
-MsgDisp("Himuro","Of course. There are things you can only
-talk about among guys.");
+MsgDisp("Himuro","Of course.
+There are things you can only talk about
+among guys.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -31,8 +32,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600001_06_360");
 MsgDisp("Himuro","It is. As long as we're getting along well
-right now, that's all that matters. Is
-there any problem?");
+right now, that's all that matters.
+Is there any problem?");
 MsgDisp("主人公","No, there isn't.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -47,8 +48,8 @@ ChCheek(6,10);
 VoicePlay("B070600001_06_380");
 MsgDisp("Himuro","It's nothing.
 I'm just stating facts.");
-MsgDisp("主人公","(｛Himuro＊＊｝'s way of thinking might've
-just saved me...)");
+MsgDisp("主人公","(｛Himuro＊＊｝'s way of thinking might've just
+saved me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

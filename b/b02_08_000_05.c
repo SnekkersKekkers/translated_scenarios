@@ -4,7 +4,8 @@ ChMotion(8,0);
 ChEyeOpenLevel(8,10);
 VoicePlay("B020800005_08_000");
 MsgDisp("Shirahane","Y'know that phrase, 'idiots don't catch
-colds'? That's just a superstition.");
+colds'?
+That's just a superstition.");
 MsgDisp("主人公","Huh?");
 ChEye(8,2);
 ChMouth(8,4);

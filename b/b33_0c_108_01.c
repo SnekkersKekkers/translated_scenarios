@@ -21,8 +21,7 @@ ChOpen(6,255,0,0,0,#1,#1,0,3);
 ChOpen(7,255,2,2,2,0,#1,0,3);
 ScrFadeIn(0);
 VoicePlay("B330C10801_07_000");
-MsgDisp("Mikage","I can't no matter how many times I do
-it...");
+MsgDisp("Mikage","I can't no matter how many times I do it...");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -38,8 +37,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330C10801_06_000");
-MsgDisp("Himuro","Kojiro-sensei, it is over when you give
-up.
+MsgDisp("Himuro","Kojiro-sensei, it is over when you give up.
 Let's go once more!");
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);
@@ -53,28 +51,28 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C10801_06_010");
-MsgDisp("Himuro","Wasn't it Kojiro-sensei who said he wanted
-to overcome his fear of heights?");
+MsgDisp("Himuro","Wasn't it Kojiro-sensei who said he wanted to
+overcome his fear of heights?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("B330C10801_07_030");
-MsgDisp("Mikage","That's right, but there's a limit to
-drastic measures.
+MsgDisp("Mikage","That's right, but there's a limit to drastic
+measures.
 Isn't there something milder?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10801_05_000");
 MsgDisp("Hiiragi","That's right...
-How about starting with the ferris wheel
-and slowly becoming accustomed to it?");
+How about starting with the ferris wheel and
+slowly becoming accustomed to it?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C10801_06_020");
-MsgDisp("Himuro","Either go all the way to the top in one
-go, or climb one step at a time.
+MsgDisp("Himuro","Either go all the way to the top in one go,
+or climb one step at a time.
 It's one of those.");
 ChEye(5,2);
 ChMouth(5,4);

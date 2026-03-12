@@ -54,7 +54,7 @@ MsgDisp("Nanatsumori","......");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("F020400003_04_060");
-MsgDisp("Nanatsumori","That——");
+MsgDisp("Nanatsumori","That—");
 ScrQuake(1);
 MsgDisp("主人公","...Eh∋ Ha...Hahaha! Oh my god, stop! That
 tickles!");

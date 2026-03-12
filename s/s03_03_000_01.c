@@ -19,7 +19,7 @@ What should I wear?)");
     VoicePlay("S030300001_03_020");
     MsgDisp("Honda","Let's go, let's go!");
     MsgDisp("主人公","Yay.
-Okay then, let's meet up at——");
+Okay then, let's meet up at—");
     VoicePlay("S030300001_03_030");
     MsgDisp("Honda","I'm going to pick you up. I'll be there
 soon so get ready and wait for me, okay?

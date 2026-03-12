@@ -90,15 +90,15 @@ animal.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040621302_06_090");
-        MsgDisp("Himuro","If I were a cat or dog I wouldn't want to
-see you on a date here with someone else.");
+        MsgDisp("Himuro","If I were a cat or dog I wouldn't want to see
+you on a date here with someone else.");
         MsgDisp("主人公","Eh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040621302_06_100");
-        MsgDisp("Himuro","I would rather be the one watching the
-fluffy lump.");
+        MsgDisp("Himuro","I would rather be the one watching the fluffy
+lump.");
         ChEye(6,3);
         ChMouth(6,4);
         ChMotion(6,0);

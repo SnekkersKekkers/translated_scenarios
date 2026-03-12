@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040506102_05_010");
-    MsgDisp("Hiiragi","They catch it at sea, then eat it right
-away? ...seems fun.");
+    MsgDisp("Hiiragi","They catch it at sea, then eat it right away?
+...seems fun.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -48,8 +48,7 @@ Hey, why don't we go?");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040506102_05_030");
-        MsgDisp("Hiiragi","So that's why your body is unusually
-shiny.");
+        MsgDisp("Hiiragi","So that's why your body is unusually shiny.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -85,8 +84,8 @@ It's too radiant...");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040506102_05_080");
-        MsgDisp("Hiiragi","You're shining even more than usual in
-that swimsuit.
+        MsgDisp("Hiiragi","You're shining even more than usual in that
+swimsuit.
 In more ways than one.");
         MsgDisp("主人公","(Umm...did I put on too much sun lotion?)");
         break ;

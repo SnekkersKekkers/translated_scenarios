@@ -64,9 +64,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10400_03_020");
-MsgDisp("Honda","They're not just in the water, they're in
-the grass too!
-I wonder where they areー...");
+MsgDisp("Honda","They're not just in the water, they're in the
+grass too!
+I wonder where they are—...");
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEye(4,2);
@@ -85,8 +85,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B330B10400_04_040");
-MsgDisp("Nanatsumori","Your guys' idea of \"the worst\" and my idea
-of \"the worst\" are on a different level.");
+MsgDisp("Nanatsumori","Your guys' idea of \"the worst\" and my idea of
+\"the worst\" are on a different level.");
 MsgDisp("主人公","Hehe!");
 ChEye(1,3);
 ChMouth(1,2);
@@ -127,8 +127,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B10400_01_040");
 MsgDisp("Kazama","Ehhh.
-It's been a long time since I've seen a
-rice fish.");
+It's been a long time since I've seen a rice
+fish.");
 ChEye(4,2);
 ChMouth(4,3);
 MsgDisp("主人公","(Hehe!

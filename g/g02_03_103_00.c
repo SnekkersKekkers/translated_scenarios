@@ -31,7 +31,7 @@ about it, but that's just not like me.");
 ChMotion(3,0);
 VoicePlay("G020310300_03_040");
 MsgDisp("Honda","I wanted to properly apologize
-face-to-face, and most importantly——");
+face-to-face, and most importantly—");
 ChSet(3,2);
 VoicePlay("G020310300_03_050");
 MsgDisp("Honda","I really hate the idea of it being

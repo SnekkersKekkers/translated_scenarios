@@ -106,7 +106,7 @@ first, before they're sold out.");
     MsgClose();
     ChClose(2);
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝!
-Why don't you order firs——");
+Why don't you order firs—");
     VoicePlay("P630200002_02_090");
     MsgDisp("Sassa","One of your signature!");
     MsgDisp("主人公","Yeess.

@@ -65,7 +65,7 @@ ChMotion(6,0);
 VoicePlay("G020610000_06_090");
 MsgDisp("Himuro","But I think it's good.
 Honestly.
-Because you're like that, I——");
+Because you're like that, I—");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

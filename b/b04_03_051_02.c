@@ -22,8 +22,9 @@ switch (MsgSelRsltGet()){
         ChMotion(3,0);
         ChEyeOpenLevel(3,8);
         VoicePlay("B040305102_03_010");
-        MsgDisp("Honda","Oh...I see...I can't help but want to
-share anything I know...");
+        MsgDisp("Honda","Oh...
+I see... I can't help but want to share
+anything I know...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -51,8 +52,8 @@ though.");
         ChMotion(3,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040305102_03_040");
-        MsgDisp("Honda","I'm sure I'll talk not only about stars,
-but projectors too.");
+        MsgDisp("Honda","I'm sure I'll talk not only about stars, but
+projectors too.");
         MsgDisp("主人公","Hehe, that's still fun though.");
         ChEye(3,3);
         ChMouth(3,3);
@@ -64,8 +65,8 @@ but projectors too.");
         ChMotion(3,3);
         VoicePlay("B040305102_03_060");
         MsgDisp("Honda","If you're okay with it, then it's fine.
-Let's do our own planetarium next time,
-just the two of us.");
+Let's do our own planetarium next time, just
+the two of us.");
         MsgDisp("主人公","Okay, I'm looking forward to it.");
         break ;
         default :

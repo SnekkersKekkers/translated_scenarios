@@ -84,7 +84,7 @@ ChMouth(3,0);
 ChMotion(3,2,1);
 VoicePlay("D130B00100_03_020");
 MsgDisp("Honda","I guess childhood friends just know each
-other's tastes, huhー.");
+other's tastes, huh—.");
 MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,3);

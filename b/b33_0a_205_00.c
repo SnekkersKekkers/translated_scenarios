@@ -37,8 +37,8 @@ MsgDisp("Himuro","High five...
 I see.
 If I get a strike, I get to do that...");
 VoicePlay("B330A20500_01_000");
-MsgDisp("Kazama","If you have crooked thoughts, the ball
-won't roll straight you know?");
+MsgDisp("Kazama","If you have crooked thoughts, the ball won't
+roll straight you know?");
 VoicePlay("B330A20500_06_010");
 MsgDisp("Himuro","...That goes for you too.");
 ChEye(2,0);
@@ -94,8 +94,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330A20500_06_050");
-MsgDisp("Himuro","Does the trajectory of the ball reflect
-the person who threw it?");
+MsgDisp("Himuro","Does the trajectory of the ball reflect the
+person who threw it?");
 MsgDisp("主人公","Hehe, maybe?");
 ChEye(1,0);
 ChMouth(1,1);
@@ -114,8 +114,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A20500_01_030");
-MsgDisp("Kazama","It's like Inori has turned the other way
-in a huff.");
+MsgDisp("Kazama","It's like Inori has turned the other way in a
+huff.");
 MsgDisp("主人公","Hehe, true.");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);

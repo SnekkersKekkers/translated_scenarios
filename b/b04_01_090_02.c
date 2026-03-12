@@ -7,8 +7,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040109002_01_000");
-MsgDisp("Kazama","Gardening was pretty popular in England,
-too.");
+MsgDisp("Kazama","Gardening was pretty popular in England, too.");
 MsgSel("Where they drink good tea in beautiful gardens, right?","I really admire English gardens","｛Kazama＊＊｝, can you also garden?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -72,10 +71,10 @@ So why don't you garden?");
         ChMotion(1,0);
         VoicePlay("B040109002_01_050");
         MsgDisp("Kazama","You know, when you're working with things
-like antiques, you have to have a broad
-range of knowledge to sell the items.");
-        MsgDisp("主人公","Yeah, even now you make a really good
-antique seller.");
+like antiques, you have to have a broad range
+of knowledge to sell the items.");
+        MsgDisp("主人公","Yeah, even now you make a really good antique
+seller.");
         ChEye(1,2);
         ChMouth(1,0);
         ChMotion(1,1);
@@ -88,28 +87,27 @@ Whether I want to or not is the question.");
         ChMouth(1,0);
         ChMotion(1,0);
         VoicePlay("B040109002_01_070");
-        MsgDisp("Kazama","Japanese and English gardens both have
-their merits, and I do like them both.
+        MsgDisp("Kazama","Japanese and English gardens both have their
+merits, and I do like them both.
 But isn't that sort of superficial?");
         MsgDisp("主人公","Huh?");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040109002_01_080");
-        MsgDisp("Kazama","Any time, any place, any part of the
-world...That's my dad's favorite saying.
-But isn't it better to be devoted to one
-thing?");
+        MsgDisp("Kazama","Any time, any place, any part of the world...
+That's my dad's favorite saying. But isn't it
+better to be devoted to one thing?");
         ChEye(1,2);
         ChMouth(1,0);
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040109002_01_090");
-        MsgDisp("Kazama","That's all I've been thinking about, since
-I came back.");
-        MsgDisp("主人公","I don't think there's anything shallow
-about you. I think it's amazing how much
-you know and can do.");
+        MsgDisp("Kazama","That's all I've been thinking about, since I
+came back.");
+        MsgDisp("主人公","I don't think there's anything shallow about
+you. I think it's amazing how much you know
+and can do.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,0);
@@ -123,9 +121,9 @@ Thank you.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040109002_01_110");
-        MsgDisp("Kazama","Strangely enough, if you think something
-is amazing, then I feel like it must be
-okay after all.");
+        MsgDisp("Kazama","Strangely enough, if you think something is
+amazing, then I feel like it must be okay
+after all.");
         MsgDisp("主人公","(｛Kazama＊＊｝ seems a little troubled...)");
         break ;
         default :

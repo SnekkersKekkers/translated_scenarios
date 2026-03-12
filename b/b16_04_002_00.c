@@ -21,8 +21,8 @@ I have to send you home safely...");
     NSSMouth(4,3);
     VoicePlay("B160400200_04_020");
     MsgDisp("Nanatsumori","It's not impossible.
-I guess I'll be the one to properly teach
-a pure and unaware girl like you...");
+I guess I'll be the one to properly teach a
+pure and unaware girl like you...");
     break ;
     default :
     DbgAssert(0);

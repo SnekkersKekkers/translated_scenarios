@@ -60,7 +60,7 @@ noticed.");
         ChEyeOpenLevel(4,10);
         VoicePlay("B040422102_04_050");
         MsgDisp("Nanatsumori","...Eh?
-That means——");
+That means—");
         MsgDisp("主人公","Umm, I meant a blessing on us.");
         ChEye(4,4);
         ChMouth(4,4);
@@ -91,7 +91,7 @@ I'm sorry, okay?");
         ChMotion(4,1,1);
         VoicePlay("B040422102_04_100");
         MsgDisp("Nanatsumori","T-That's exactly it.
-You're so sneakyー...");
+You're so sneaky—...");
         MsgDisp("主人公","Uugh.");
         ChEye(4,3);
         ChMouth(4,3);
@@ -103,8 +103,9 @@ You're so sneakyー...");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040422102_04_120");
-        MsgDisp("Nanatsumori","So...Could you explain why the rainbow is
-a blessing on us? Hmm?");
+        MsgDisp("Nanatsumori","So...
+Could you explain why the rainbow is a
+blessing on us? Hmm?");
         MsgDisp("主人公","(｛Nanatsumori＊｝, you're teasing me...)");
         break ;
         default :

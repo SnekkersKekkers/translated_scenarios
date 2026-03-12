@@ -26,7 +26,7 @@ just wanted to hear your reasoning.");
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040610102_06_020");
-    MsgDisp("Himuro","Hmm....Maybe there's some merit to it I
+    MsgDisp("Himuro","Hmm.... Maybe there's some merit to it I
 don't get. If that's the case, there is
 probably a point in tagging along.");
     MsgDispSksp(1,0);
@@ -45,8 +45,8 @@ probably a point in tagging along.");
         ChMotion(6,1);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040610102_06_030");
-        MsgDisp("Himuro","It's the museum's problem if children
-don't understand it.");
+        MsgDisp("Himuro","It's the museum's problem if children don't
+understand it.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -68,24 +68,24 @@ even if you try your best.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040610102_06_060");
-        MsgDisp("Himuro","It's not like I chose to be born after
-you either.");
+        MsgDisp("Himuro","It's not like I chose to be born after you
+either.");
         MsgDisp("主人公","That's true...sorry.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,2);
         VoicePlay("B040610102_06_070");
         MsgDisp("Himuro","...No, I'm the one who should say sorry.
-This is normally something I'm worried
-about, so it just came out.");
+This is normally something I'm worried about,
+so it just came out.");
         MsgDisp("主人公","Really?");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040610102_06_080");
-        MsgDisp("Himuro","No matter how hard I try, we can't take
-the same classes, let alone end up in
-the same class.");
+        MsgDisp("Himuro","No matter how hard I try, we can't take the
+same classes, let alone end up in the same
+class.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -96,8 +96,8 @@ the same class.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040610102_06_100");
-        MsgDisp("Himuro","No matter what, I can't get over this wall
-of one year.");
+        MsgDisp("Himuro","No matter what, I can't get over this wall of
+one year.");
         MsgDisp("主人公","｛Himuro＊＊｝...");
         ChEye(6,0);
         ChMouth(6,4);
@@ -116,8 +116,8 @@ It's not that I'm leaving you behind...");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040610102_06_130");
-        MsgDisp("Himuro","Yeah... at the very least, I have to make
-you miss me.");
+        MsgDisp("Himuro","Yeah... at the very least, I have to make you
+miss me.");
         break ;
         default :
         DbgAssert(1);

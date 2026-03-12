@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040106201_01_010");
-    MsgDisp("Kazama","Not while I'm alive we aren't. You'd
-forget your goggles, or carry in an empty
-air-tank, with your scatterbrained self.");
+    MsgDisp("Kazama","Not while I'm alive we aren't. You'd forget
+your goggles, or carry in an empty air-tank,
+with your scatterbrained self.");
     MsgDateResultDisp();
     break ;
     case 1:

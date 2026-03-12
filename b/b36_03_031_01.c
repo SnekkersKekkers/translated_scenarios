@@ -18,8 +18,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360303101_03_010");
 MsgDisp("Honda","I thought I was pretty proactive, but it's
-the first time I've directed that towards
-a person.");
+the first time I've directed that towards a
+person.");
 MsgDisp("主人公","So...does that mean...you're interested in
 me?");
 ChEye(3,0);
@@ -38,9 +38,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("B360303101_03_040");
-MsgDisp("Honda","...The way you said that makes it sound
-like you and the sunfish are on the same
-level. That's not it at all!");
+MsgDisp("Honda","...The way you said that makes it sound like
+you and the sunfish are on the same level.
+That's not it at all!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

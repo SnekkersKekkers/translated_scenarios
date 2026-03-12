@@ -75,7 +75,7 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F100710000_07_070");
 MsgDisp("Mikage","Ohh, that's right!
-That was closeー.");
+That was close—.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040421102_04_010");
-    MsgDisp("Nanatsumori","OK! Be careful when you're feeding the
-camels, okay? There's a chance they'll
-spit at you.");
+    MsgDisp("Nanatsumori","OK!
+Be careful when you're feeding the camels,
+okay? There's a chance they'll spit at you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -48,15 +48,15 @@ spit at you.");
         ChMouth(4,2);
         ChMotion(4,0,1);
         VoicePlay("B040421102_04_040");
-        MsgDisp("Nanatsumori","Could it be that you're not really
-interested in animals?");
+        MsgDisp("Nanatsumori","Could it be that you're not really interested
+in animals?");
         MsgDisp("主人公","That's not it but...did you want to feed
 them?");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("B040421102_04_050");
-        MsgDisp("Nanatsumori","Well, I did butー");
+        MsgDisp("Nanatsumori","Well, I did but—");
         MsgDisp("主人公","Then, let's do it.");
         ChEye(4,4);
         ChMouth(4,3);
@@ -110,8 +110,8 @@ Then, it'll be me feeding you.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040421102_04_130");
-    MsgDisp("Nanatsumori","Then, should I take a picture of you
-feeding them?");
+    MsgDisp("Nanatsumori","Then, should I take a picture of you feeding
+them?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

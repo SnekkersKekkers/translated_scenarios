@@ -21,8 +21,7 @@ VoicePlay("B030504000_05_010");
 MsgDisp("Hiiragi","Even from the audience, I can feel the
 tension before the curtain rises.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Hehe, you're not even on stage,
-｛Hiiragi＊＊＊｝.
+MsgDisp("主人公","Hehe, you're not even on stage, ｛Hiiragi＊＊＊｝.
 ...Ah, it's starting!");
 MsgDispSksp(0);
 SEPlay("EV_SE_038");

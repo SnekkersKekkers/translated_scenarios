@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("B040701001_07_010");
-    MsgDisp("Mikage","Wait, wait, looks like you didn't catch
-on.");
+    MsgDisp("Mikage","Wait, wait, looks like you didn't catch on.");
     MsgDateResultDisp();
     break ;
     case 1:

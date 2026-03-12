@@ -7,7 +7,7 @@ ChMotion(3,4,1);
 ChCheek(3,8);
 ScrFadeIn(0);
 VoicePlay("B130300005_03_000");
-MsgDisp("Honda","It's strange...I could ignore it at the
-meeting place, but here at home, I can
-barely keep my eyes off you.");
+MsgDisp("Honda","It's strange... I could ignore it at the
+meeting place, but here at home, I can barely
+keep my eyes off you.");
 ChCheek(3,0);

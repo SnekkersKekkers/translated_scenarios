@@ -5,11 +5,11 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200001_02_260");
-MsgDisp("Sassa","Before we even realized it, there were
-four of us.");
+MsgDisp("Sassa","Before we even realized it, there were four
+of us.");
 MsgDisp("主人公","Yeah.
-But sometimes I wonder if it's okay for me
-to hang around you guys.");
+But sometimes I wonder if it's okay for me to
+hang around you guys.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -28,9 +28,9 @@ ChMouth(2,4);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B070200001_02_290");
-MsgDisp("Sassa","That's right. As long as you're having
-fun, everyone's safe. If you get bored,
-then it's a foul.");
+MsgDisp("Sassa","That's right.
+As long as you're having fun, everyone's
+safe. If you get bored, then it's a foul.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

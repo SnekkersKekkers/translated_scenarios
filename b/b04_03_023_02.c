@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,0,3,#1,#1,0,0);
 VoicePlay("B040302302_03_000");
-MsgDisp("Honda","Everyone is enjoying themselves in their
-own way, reading, running...");
+MsgDisp("Honda","Everyone is enjoying themselves in their own
+way, reading, running...");
 MsgSel("...and dating too.","｛Honda＊＊｝, do you want to read too?","Let's go for a run!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -57,8 +57,7 @@ That sounds wonderful!");
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040302302_03_050");
-        MsgDisp("Honda","You gotta do it when you feel like doing
-it.
+        MsgDisp("Honda","You gotta do it when you feel like doing it.
 Well, let's get started.");
         SEPlay("EV_SE_FOOT_005",0,0.9);
         ChClose(3);
@@ -91,9 +90,9 @@ running might be good for you.");
         ChMotion(3,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040302302_03_090");
-        MsgDisp("Honda","Yeah, that's right! When I look at you, I
-start noticing your hair, eyes, ears,
-nose, and-");
+        MsgDisp("Honda","Yeah, that's right!
+When I look at you, I start noticing your
+hair, eyes, ears, nose, and-");
         MsgDisp("主人公","What∋
 Don't stare at me so hard!");
         ChEye(3,0);
@@ -102,8 +101,8 @@ Don't stare at me so hard!");
         ChEyeOpenLevel(3,#1);
         VoicePlay("B040302302_03_100");
         MsgDisp("Honda","Why?
-I'm just interested in everything about
-you, so I can't help it.");
+I'm just interested in everything about you,
+so I can't help it.");
         MsgDisp("主人公","(But still...!
 So embarrassing...)");
         break ;

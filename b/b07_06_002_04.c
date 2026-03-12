@@ -11,8 +11,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_240");
-MsgDisp("Himuro","Yanosuke-senpai has a unique pace, so I
-have to hurry him along sometimes...");
+MsgDisp("Himuro","Yanosuke-senpai has a unique pace, so I have
+to hurry him along sometimes...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -45,9 +45,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600002_06_290");
-MsgDisp("Himuro","During those times I find myself wishing
-that this time would last longer for some
-reason.");
+MsgDisp("Himuro","During those times I find myself wishing that
+this time would last longer for some reason.");
 MsgDisp("主人公","I see, so that's how it is.");
 ChEye(6,0);
 ChMouth(6,4);

@@ -19,8 +19,7 @@ ChMotion(4,5,1);
 ChCheek(4,5);
 VoicePlay("B020402111_04_020");
 MsgDisp("Nanatsumori","Wait, no!
-I see. So the older sister 
-look suits you too...Crud.");
+I see. So the older sister look suits you
+too...Crud.");
 MsgDisp("主人公","(?
-But, I wonder if ｛Nanatsumori＊｝ likes
-it?)");
+But, I wonder if ｛Nanatsumori＊｝ likes it?)");

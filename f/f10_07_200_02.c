@@ -89,7 +89,7 @@ VoicePlay("F100720002_44_000");
 MsgDisp("School Girl","Amazing, it's like a salad bar!");
 VoicePlay("F100720002_42_010");
 MsgDisp("School Boy","Mikagecchi, I don't like vegetables
-thoughー.");
+though—.");
 VoicePlay("F100720002_07_070");
 MsgDisp("Mikage","It's people like you that I want to feed
 my vegetables to.

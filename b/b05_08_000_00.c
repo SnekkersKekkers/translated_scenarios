@@ -47,8 +47,9 @@ BGMPlay("BGM_C08_DAICHI_B",0.01);
 ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("B050800000_08_050");
-MsgDisp("Shirahane","Mr. Koi, Mr. Koi...
-Please listen to me...");
+MsgDisp("Shirahane","Mr.
+Koi, Mr.
+Koi... Please listen to me...");
 MsgDisp("主人公","Waa, there's so many beautiful koi!");
 VoicePlay("B050800000_08_060");
 MsgDisp("Shirahane","Please give me your heart's blessing...");
@@ -59,8 +60,8 @@ StlEye(8,1);
 StlMouth(8,1);
 VoicePlay("B050800000_08_070");
 MsgDisp("Shirahane","That's right!
-That koi isn't just any koi; it's the
-Cupid of this pond.");
+That koi isn't just any koi; it's the Cupid
+of this pond.");
 StlEye(8,1);
 StlMouth(8,1);
 StlEyeOpenLevel(8,5);
@@ -75,7 +76,7 @@ Please bring a wonderful love to both of
 us...");
 VoicePlay("B050800000_08_100");
 MsgDisp("Shirahane","Please, I ask of you...
-Amenー...");
+Amen—...");
 MsgDisp("主人公","(｛Daichi＊＊｝ is serious...)");
 MsgClose();
 ScrFadeOut(0);
@@ -103,7 +104,8 @@ ChMouth(8,3);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B050800000_08_130");
-MsgDisp("Shirahane","Hehe. Today is my super lucky day▼");
+MsgDisp("Shirahane","Hehe.
+Today is my super lucky day▼");
 MsgDisp("主人公","(｛Daichi＊＊｝ is in a super good mood.
 He even asked on my behalf.)");
 BGMStop();

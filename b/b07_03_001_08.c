@@ -11,8 +11,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_590");
-MsgDisp("Honda","Oh, if that's the case, feel free to look
-as much as you want.");
+MsgDisp("Honda","Oh, if that's the case, feel free to look as
+much as you want.");
 MsgDisp("主人公","Heh, okay.");
 ChMotion(3,0);
 VoicePlay("B070300001_03_600");
@@ -24,9 +24,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300001_03_610");
-MsgDisp("Honda","Really? My dad's hair has been thinning,
-so I've been researching and trying a
-bunch of things to help.");
+MsgDisp("Honda","Really? My dad's hair has been thinning, so
+I've been researching and trying a bunch of
+things to help.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -41,9 +41,9 @@ VoicePlay("B070300001_03_630");
 MsgDisp("Honda","Oh yeah!");
 ChSet(3,3);
 VoicePlay("B070300001_03_640");
-MsgDisp("Honda","I heard applying oil before drying keeps
-it from getting damaged and adds shine.
-I tried everything from camellia to olive oil!");
+MsgDisp("Honda","I heard applying oil before drying keeps it
+from getting damaged and adds shine. I tried
+everything from camellia to olive oil!");
 MsgDisp("主人公","Wow, that's impressive!");
 ChEye(3,3);
 ChMouth(3,3);

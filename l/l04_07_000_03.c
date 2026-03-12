@@ -89,7 +89,7 @@ so I'm happy about this.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("L040700003_07_100");
-    MsgDisp("Mikage","Ohー, there's even that topping I like...
+    MsgDisp("Mikage","Oh—, there's even that topping I like...
 You're a good person.");
     MsgDisp("主人公","It's making me a little shy, being praised
 this much.");

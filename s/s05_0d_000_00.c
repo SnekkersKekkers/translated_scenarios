@@ -5,7 +5,7 @@ SEStop("EV_SE_579",0);
 VoicePlay("S050D00000_22_000");
 MsgDisp("Hikaru","Hi～ i, Mari!
 It's Hikaru▼
-Hapー・py New Yeーarー!");
+Hap—・py New Ye—ar—!");
 MsgDisp("主人公","Oh, it's ｛ひかる＊｝.
 Happy New Year!");
 VoicePlay("S050D00000_22_010");

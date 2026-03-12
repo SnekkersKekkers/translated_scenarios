@@ -30,7 +30,7 @@ I know exactly what Habataki High students
 want to ask me.");
 MsgDisp("主人公","Hmm?
 Umm...
-Are you and Vice Principal Himuro——");
+Are you and Vice Principal Himuro—");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);

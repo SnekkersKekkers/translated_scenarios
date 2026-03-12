@@ -33,8 +33,9 @@ woman...");
         ChMouth(1,2);
         ChMotion(1,3);
         VoicePlay("B040123502_01_020");
-        MsgDisp("Kazama","A fallen warrior? Couldn't you have come
-up with something better?");
+        MsgDisp("Kazama","A fallen warrior?
+Couldn't you have come up with something
+better?");
         MsgDisp("主人公","Umm, anyone else?");
         ChEye(1,2);
         ChMouth(1,3);
@@ -52,8 +53,8 @@ of.");
         VoicePlay("B040123502_01_040");
         MsgDisp("Kazama","I won't tell you that easily.");
         MsgDisp("主人公","Eh, is there such a thing?
-I thought ｛Kazama＊＊｝ could do anything,
-and didn't have anything he was scared of.");
+I thought ｛Kazama＊＊｝ could do anything, and
+didn't have anything he was scared of.");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -65,8 +66,8 @@ and didn't have anything he was scared of.");
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123502_01_060");
-        MsgDisp("Kazama","It's not quite being scared, but even I
-have weaknesses.");
+        MsgDisp("Kazama","It's not quite being scared, but even I have
+weaknesses.");
         MsgDisp("主人公","Is that so?
 Tell me.");
         ChEye(1,0);
@@ -74,8 +75,8 @@ Tell me.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123502_01_070");
-        MsgDisp("Kazama","Well, since you're super naive, I'll give
-you a special hint.");
+        MsgDisp("Kazama","Well, since you're super naive, I'll give you
+a special hint.");
         MsgClose();
         SEPlay("EV_SE_544");
         ChClose(1,0,30);
@@ -93,8 +94,8 @@ I can't see anything though.");
         ChEye(1,4);
         ChMouth(1,3);
         VoicePlay("B040123502_01_090");
-        MsgDisp("Kazama","There's some fluffy thing peering into
-them, right?");
+        MsgDisp("Kazama","There's some fluffy thing peering into them,
+right?");
         MsgDisp("主人公","Eh?");
         ChEye(1,4);
         ChMouth(1,3);

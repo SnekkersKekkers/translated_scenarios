@@ -18,7 +18,7 @@ make it pretty but...)");
     ChNanaType(0);
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P730400002_04_000");
-    MsgDisp("Nanatsumori","As expected that dress is foul playー.");
+    MsgDisp("Nanatsumori","As expected that dress is foul play—.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
     ChEye(4,4);
     ChMouth(4,3);
@@ -44,7 +44,7 @@ stage.
 Look your best!");
     MsgDisp("主人公","Yeah!
 Then, I'm off!");
-    MsgDisp("主人公","(Alーright!
+    MsgDisp("主人公","(Al—right!
 This is the last runway of my high school
 life, let's do it properly!)");
     MsgClose();
@@ -102,7 +102,7 @@ the future.");
     MsgDisp("Nanatsumori","It feels strange sending you off, but...
 do your best.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Alーright!
+    MsgDisp("主人公","(Al—right!
 Let's do the last runway of my high school
 life properly!)");
     MsgClose();

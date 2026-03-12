@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(5,8);
     VoicePlay("B030506001_05_010");
     MsgDisp("Hiiragi","Sounds good.
-After all, it's only available this
-season.");
+After all, it's only available this season.");
     break ;
     case 1:
     ChMouth(5,3);

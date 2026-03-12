@@ -69,8 +69,8 @@ called children anymore though.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040623402_06_060");
-        MsgDisp("Himuro","Well, I can't deny there's a chance we'll
-be seen that way.");
+        MsgDisp("Himuro","Well, I can't deny there's a chance we'll be
+seen that way.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -81,8 +81,8 @@ be seen that way.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040623402_06_080");
-        MsgDisp("Himuro","...Since we're here anyways, shall we try
-to go along with it?");
+        MsgDisp("Himuro","...Since we're here anyways, shall we try to
+go along with it?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

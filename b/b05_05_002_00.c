@@ -6,8 +6,7 @@ ChLayout(1);
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050500200_05_000");
-MsgDisp("Hiiragi","Where around here would the spring water
-be?");
+MsgDisp("Hiiragi","Where around here would the spring water be?");
 MsgDisp("主人公","Hmm...
 ｛Hiiragi＊＊＊｝, is there something on your
 mind?");
@@ -23,9 +22,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B050500200_05_020");
-MsgDisp("Hiiragi","Don't worry, it's not that serious. Shall
-we look around? I want to find the source
-of the spring's energy.");
+MsgDisp("Hiiragi","Don't worry, it's not that serious.
+Shall we look around? I want to find the
+source of the spring's energy.");
 MsgDisp("主人公","S-Sure.");
 MsgClose();
 BGMStop();
@@ -77,16 +76,16 @@ StlEyeOpenLevel(5,5,1);
 StlMouth(5,0);
 VoicePlay("B050500200_05_060");
 MsgDisp("Hiiragi","This is the source of the energy...
-Yeah, I can feel something gentle and
-warm flowing into my palms.");
+Yeah, I can feel something gentle and warm
+flowing into my palms.");
 StlEyeOpenLevel(5,#1);
 VoicePlay("B050500200_05_070");
 MsgDisp("Hiiragi","...Hmm?");
 MsgDisp("主人公","What's wrong?");
 VoicePlay("B050500200_05_080");
 MsgDisp("Hiiragi","How strange.
-I can feel it in my left hand too, not
-just my right.");
+I can feel it in my left hand too, not just
+my right.");
 StlEye(5,1);
 VoicePlay("B050500200_05_090");
 MsgDisp("Hiiragi","The left...is coming from your hand...");
@@ -104,26 +103,24 @@ ChOpen(5,255,0,0,4,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050500200_05_100");
-MsgDisp("Hiiragi","Today I received great power from both
-the spring and from you.");
+MsgDisp("Hiiragi","Today I received great power from both the
+spring and from you.");
 MsgDisp("主人公","Huh?
-I don't think I have that sort of
-ability...");
+I don't think I have that sort of ability...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B050500200_05_110");
 MsgDisp("Hiiragi","No, I'm sure I felt it.
-Yours is even stronger than the spring
-water.");
+Yours is even stronger than the spring water.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B050500200_05_120");
 MsgDisp("Hiiragi","Thank you.
-Maybe now I have a bit more of that
-unifying power. Shall we go?");
+Maybe now I have a bit more of that unifying
+power. Shall we go?");
 MsgDisp("主人公","Y-Yeah.");
 MsgClose();
 SEPlay("EV_SE_626");

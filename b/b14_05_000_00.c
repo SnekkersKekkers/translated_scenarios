@@ -19,8 +19,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B140500000_05_010");
 MsgDisp("Hiiragi","But on the other hand, when I see how
-delighted and happy you are, I feel a
-little bit jealous. I can't lose either.");
+delighted and happy you are, I feel a little
+bit jealous. I can't lose either.");
 MsgDisp("主人公","Ehh?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -41,8 +41,8 @@ ChMotion(5,0);
 VoicePlay("B140500000_05_040");
 MsgDisp("Hiiragi","Merry Christmas.");
 MsgDisp("主人公","Merry Christmas.");
-MsgDisp("主人公","(Continuing on from yesterday, I also
-spent today with ｛Hiiragi＊＊＊｝...
+MsgDisp("主人公","(Continuing on from yesterday, I also spent
+today with ｛Hiiragi＊＊＊｝...
 I'm happy.)");
 BGMStop();
 MsgClose();

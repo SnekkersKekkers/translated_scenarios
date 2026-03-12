@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040324102_03_010");
-    MsgDisp("Honda","I seeー.
-I'm not really good with herbsー.");
+    MsgDisp("Honda","I see—.
+I'm not really good with herbs—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,8 @@ I'm not really good with herbsー.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040324102_03_020");
-    MsgDisp("Honda","Yep yep, seems like they have lots of
-novelty sausages.");
+    MsgDisp("Honda","Yep yep, seems like they have lots of novelty
+sausages.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +45,7 @@ novelty sausages.");
         ChMotion(3,2);
         VoicePlay("B040324102_03_030");
         MsgDisp("Honda","Is that so?
-I don't really get sentimental like
-thatー.");
+I don't really get sentimental like that—.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -55,9 +54,8 @@ thatー.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,4);
-        VoicePlay("B040324102_03_031")MsgDisp("Honda","A long time ago when I came to a farm with
-my family, my sister said the same thing
-as you.");
+        VoicePlay("B040324102_03_031")MsgDisp("Honda","A long time ago when I came to a farm with my
+family, my sister said the same thing as you.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);
@@ -70,9 +68,9 @@ and I kept eating happily.");
         ChMouth(3,3);
         ChMotion(3,0);
         VoicePlay("B040324102_03_050");
-        MsgDisp("Honda","Right right, and at that time, my mom
-praised not only my sister's kindness, but
-my attitude too.");
+        MsgDisp("Honda","Right right, and at that time, my mom praised
+not only my sister's kindness, but my
+attitude too.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -92,12 +90,11 @@ tastier than the sausages we normally ate.");
         ChMouth(3,0);
         ChMotion(3,0);
         VoicePlay("B040324102_03_080");
-        MsgDisp("Honda","I think being able to express how you feel
-in the moment, like my sister and you, is
-much better than coming off as cold.");
+        MsgDisp("Honda","I think being able to express how you feel in
+the moment, like my sister and you, is much
+better than coming off as cold.");
         MsgDisp("主人公","｛Honda＊＊｝ isn't cold at all.
-You're kind, and always make everyone 
-smile.");
+You're kind, and always make everyone smile.");
         ChEye(3,4);
         ChMouth(3,3);
         ChMotion(3,4);
@@ -121,8 +118,8 @@ smile.");
         ChMotion(3,4);
         VoicePlay("B040324102_03_120");
         MsgDisp("Honda","I want a kind person like you to keep
-checking over my words and actions from
-now on. How about it?");
+checking over my words and actions from now
+on. How about it?");
         MsgDisp("主人公","Hehe, understood.");
         ChSet(3,3);
         ChEyeOpenLevel(3,0);

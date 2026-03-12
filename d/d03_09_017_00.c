@@ -60,7 +60,7 @@ StlEye(9,0,0);
 StlMouth(9,0);
 StlEyeOpenLevel(9,5,1);
 VoicePlay("D030901700_09_040");
-MsgDisp("Kuya","This moment——");
+MsgDisp("Kuya","This moment—");
 StlBG(1,1,60);
 StlBase(9,1);
 StlEffect(1,1);

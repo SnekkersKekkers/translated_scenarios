@@ -21,16 +21,16 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100001_01_360");
 MsgDisp("Kazama","Eh...");
-MsgDisp("主人公","It's not about my wellbeing... Maybe, it's
-because I'm with ｛Kazama＊＊｝...");
+MsgDisp("主人公","It's not about my wellbeing...
+Maybe, it's because I'm with ｛Kazama＊＊｝...");
 ChEye(1,3);
 ChMouth(1,1);
 ChMotion(1,5);
 ChCheek(1,10);
 VoicePlay("B070100001_01_370");
 MsgDisp("Kazama","Ehh∋
-This development is too sudden—— Hang on
-a second.");
+This development is too sudden—
+Hang on a second.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -40,8 +40,8 @@ VoicePlay("B070100001_01_380");
 MsgDisp("Kazama","......Alright, I'm OK.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","...Haa.
-Maybe I feel calmer now that I've said it
-out loud.");
+Maybe I feel calmer now that I've said it out
+loud.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

@@ -35,7 +35,7 @@ cow-patterned t-shirt as a present!");
     VoicePlay("P130200000_02_020");
     MsgDisp("Sassa","Matching with you, huh...interesting.
 I'll break the record.");
-    MsgDisp("主人公","Then, admission for oーne!");
+    MsgDisp("主人公","Then, admission for o—ne!");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(2,#1);

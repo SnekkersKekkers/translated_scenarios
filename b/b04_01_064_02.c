@@ -5,8 +5,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040106402_01_000");
-MsgDisp("Kazama","Candied apples, yakisoba, takoyaki,
-chocolate bananas...
+MsgDisp("Kazama","Candied apples, yakisoba, takoyaki, chocolate
+bananas...
 Which will you start with?");
 MsgDisp("主人公","Hey, that's nothing but food.");
 ChEye(1,0);
@@ -14,8 +14,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B040106402_01_010");
-MsgDisp("Kazama","I already know exactly what you're
-thinking.
+MsgDisp("Kazama","I already know exactly what you're thinking.
 I can see right through you.");
 MsgDisp("主人公","Jeez, well, I can always guess what you're
 thinking of?");

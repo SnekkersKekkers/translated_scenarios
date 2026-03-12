@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Kazama＊＊｝, do you have a type of girl
-you like?");
+MsgDisp("主人公","｛Kazama＊＊｝, do you have a type of girl you
+like?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -21,18 +21,18 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_460");
 MsgDisp("Kazama","There, that's it!
 You should really think about that.");
-MsgDisp("主人公","The reason why I was curious about what
-kind of girl ｛Kazama＊＊｝ likes?");
+MsgDisp("主人公","The reason why I was curious about what kind
+of girl ｛Kazama＊＊｝ likes?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("B070100000_01_470");
-MsgDisp("Kazama","If you understand that, you'll also
-naturally know what kind of girl I like.");
-MsgDisp("主人公","｛Kazama＊＊｝ says difficult things from
-time to time...");
+MsgDisp("Kazama","If you understand that, you'll also naturally
+know what kind of girl I like.");
+MsgDisp("主人公","｛Kazama＊＊｝ says difficult things from time
+to time...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

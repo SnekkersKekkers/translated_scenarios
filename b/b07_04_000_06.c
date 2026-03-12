@@ -45,8 +45,8 @@ VoicePlay("B070400000_04_400");
 MsgDisp("Nanatsumori","It's hard to explain...
 I'll think about how to answer this.
 I'm sorry but I think I'll pass for today.");
-MsgDisp("主人公","(What the heck kind of middle school
-student was he...)");
+MsgDisp("主人公","(What the heck kind of middle school student
+was he...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

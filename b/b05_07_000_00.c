@@ -3,12 +3,12 @@ BGOpen("ho210",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, a message from ｛Mikage＊＊｝. \"The
-cherry blossoms are beautiful, won't you
-come see itー\" ...He says.)");
-MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is at the
-forest park? Alright, it's good weather,
-let's head out!)");
+MsgDisp("主人公","(Ah, a message from ｛Mikage＊＊｝.
+\"The cherry blossoms are beautiful, won't you
+come see it—\" ...He says.)");
+MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is at the forest
+park?
+Alright, it's good weather, let's head out!)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -18,8 +18,8 @@ MsgClose();
 BGOpen("fp210",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Waa...pretty!
-I have the cherry blossoms in full bloom
-all to myself～!");
+I have the cherry blossoms in full bloom all
+to myself～!");
 VoicePlay("B050700000_07_000");
 MsgDisp("Mikage?","Hey hey, there's two of us!");
 MsgClose();
@@ -38,8 +38,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B050700000_07_020");
-MsgDisp("Mikage","...The two of us had a bit of a false
-start.");
+MsgDisp("Mikage","...The two of us had a bit of a false start.");
 MsgDisp("主人公","Hehe, that's right.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -65,8 +64,7 @@ Wait(7,0);
 VoicePlay("B050700000_07_040");
 MsgDisp("Mikage","It's a special-made fruit sandwich.");
 MsgDisp("主人公","Amazing!
-Did you make this yourself,
-｛Mikage＊＊｝?");
+Did you make this yourself, ｛Mikage＊＊｝?");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("B050700000_07_050");
@@ -84,8 +82,7 @@ StlMouth(7,1);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("B050700000_07_070");
 MsgDisp("Mikage","Right?
-I can't bring myself to bite into it
-either.");
+I can't bring myself to bite into it either.");
 StlEye(7,2);
 StlMouth(7,1);
 VoicePlay("B050700000_07_080");
@@ -117,8 +114,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B050700000_07_100");
 MsgDisp("Mikage","I see.
-If you were that happy, my strawberries
-must be very satisfied too.");
+If you were that happy, my strawberries must
+be very satisfied too.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

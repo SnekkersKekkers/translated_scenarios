@@ -11,6 +11,5 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102104_01_010");
 MsgDisp("Kazama","Yeah.
-Like it's giving me some kind of power
-too.");
+Like it's giving me some kind of power too.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like it!)");

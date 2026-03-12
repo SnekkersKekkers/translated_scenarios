@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B360201000_46_000");
 MsgDisp("Clerk","We're currently having some limited-time
 sales.
-These are some great dealsー!");
+These are some great deals—!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -26,8 +26,8 @@ ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B360201000_02_010");
 MsgDisp("Sassa","Haha.
-Well, it's written on your face that you
-want to go.");
+Well, it's written on your face that you want
+to go.");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -44,14 +44,12 @@ MsgDisp("Sassa","A j-jewelry store?
 Won't I be too out-of-place?");
 VoicePlay("B360201000_46_010");
 MsgDisp("Clerk","Welcome～!
-We have some new engagement rings in
-stock.");
+We have some new engagement rings in stock.");
 MsgDisp("主人公","Wow, they're beautiful.
 How wonderful...");
 VoicePlay("B360201000_46_020");
-MsgDisp("Clerk","If you reserve it now, it'll be in time
-for a ceremony within the next three
-months?");
+MsgDisp("Clerk","If you reserve it now, it'll be in time for a
+ceremony within the next three months?");
 MsgDisp("主人公","Eh∋");
 ChEye(2,5);
 ChMouth(2,0);
@@ -79,8 +77,7 @@ MsgDisp("Sassa","...Yeah.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(But just now, ｛Sassa＊＊｝ said \"yet\"
-right?)");
+MsgDisp("主人公","(But just now, ｛Sassa＊＊｝ said \"yet\" right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

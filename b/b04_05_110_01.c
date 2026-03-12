@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040511001_05_010");
     MsgDisp("Hiiragi","Yes, it's a combination of a pool and an
-amusement park. It can't be dull. The
-concept is amazing!");
+amusement park.
+It can't be dull. The concept is amazing!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

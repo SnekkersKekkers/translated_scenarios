@@ -26,14 +26,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20600_02_000");
-MsgDisp("Sassa","Amazingー!
+MsgDisp("Sassa","Amazing—!
 I really empathized with him!");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("B330A20600_06_000");
-MsgDisp("Himuro","Nozomu-senpai, please don't go berserk
-like in the movie.");
+MsgDisp("Himuro","Nozomu-senpai, please don't go berserk like
+in the movie.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -41,8 +41,8 @@ VoicePlay("B330A20600_01_000");
 MsgDisp("Kazama","Yeah, please.
 No one will be able to stop you.");
 MsgDisp("主人公","Hehe.
-Come to think of it, maybe he looked a
-little bit like ｛Sassa＊＊｝?");
+Come to think of it, maybe he looked a little
+bit like ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -59,15 +59,15 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
 VoicePlay("B330A20600_06_010");
-MsgDisp("Himuro","The hairstyle and the fact he was wearing
-a headband too.");
+MsgDisp("Himuro","The hairstyle and the fact he was wearing a
+headband too.");
 MsgDisp("主人公","Ah, yeah he was.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A20600_02_020");
-MsgDisp("Sassa","What about the part where he's strong and
-has a sense of justice....");
+MsgDisp("Sassa","What about the part where he's strong and has
+a sense of justice....");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -78,8 +78,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330A20600_06_020");
-MsgDisp("Himuro","That's all we need to complete the
-cosplay.");
+MsgDisp("Himuro","That's all we need to complete the cosplay.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

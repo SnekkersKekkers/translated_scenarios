@@ -15,9 +15,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B020202132_02_020");
-MsgDisp("Sassa","If you have clothes like that on, you can
-go from a date downtown to outside in a
-snap, right?");
+MsgDisp("Sassa","If you have clothes like that on, you can go
+from a date downtown to outside in a snap,
+right?");
 MsgDisp("主人公","Whoa, that sounds fun.");
 ChEye(2,3);
 ChMouth(2,3);

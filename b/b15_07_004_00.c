@@ -10,8 +10,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B150700400_07_010");
-MsgDisp("Mikage","Yeah, I thought I could guard against it,
-but that was impossible.");
+MsgDisp("Mikage","Yeah, I thought I could guard against it, but
+that was impossible.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -40,8 +40,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("B150700400_07_060");
-MsgDisp("Mikage","By the way, I don't have that kind of
-resolve either.");
+MsgDisp("Mikage","By the way, I don't have that kind of resolve
+either.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 SEWait();

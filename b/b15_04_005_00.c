@@ -39,7 +39,7 @@ SEPlay("EV_SE_551");
 SEWait();
 VoicePlay("B150400500_04_050");
 MsgDisp("Nanatsumori","Haa...");
-MsgDisp("主人公","Ughー...
+MsgDisp("主人公","Ugh—...
 ｛Nanatsumori＊｝, it hurts.");
 VoicePlay("B150400500_04_060");
 MsgDisp("Nanatsumori","I bet.
@@ -80,8 +80,7 @@ MsgDisp("Nanatsumori","You're the one who's mean.
 Truth is you like it.");
 ChMotion(4,0,1);
 VoicePlay("B150400500_04_110");
-MsgDisp("Nanatsumori","From now on, touch me as much as you'd
-like.
+MsgDisp("Nanatsumori","From now on, touch me as much as you'd like.
 And I'll do the same.");
 ChMotion(4,1,1);
 VoicePlay("B150400500_04_120");

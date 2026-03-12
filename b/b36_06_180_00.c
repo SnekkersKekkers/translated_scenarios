@@ -31,8 +31,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360618000_06_030");
 MsgDisp("Himuro","Yeah.
-The atmosphere isn't nice if there's too
-many people.");
+The atmosphere isn't nice if there's too many
+people.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

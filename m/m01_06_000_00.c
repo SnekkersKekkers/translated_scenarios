@@ -5,7 +5,7 @@ I slept a lot.
 I think I'm better now.");
 SEPlay("EV_SE_DOOR_024");
 SEWait();
-MsgDisp("主人公","Yes, I'm upー!");
+MsgDisp("主人公","Yes, I'm up—!");
 VoicePlay("M010600000_06_000");
 MsgDisp("Himuro","It's me, but.
 ...Can I come in?");

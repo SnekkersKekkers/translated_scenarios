@@ -6,8 +6,8 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040322100_03_000");
-MsgDisp("Honda","Castles with surviving towers like
-Habataki Castle are precious.");
+MsgDisp("Honda","Castles with surviving towers like Habataki
+Castle are precious.");
 MsgSel("As expected of Habataki City?","Seems like it was sturdily built.","The cracks in the floor are scary, huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040322100_03_010");
-    MsgDisp("Honda","Right right, it's the pride of Habataki
-City!");
+    MsgDisp("Honda","Right right, it's the pride of Habataki City!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

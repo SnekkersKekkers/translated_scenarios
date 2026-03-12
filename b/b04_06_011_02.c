@@ -52,7 +52,7 @@ I'm sorry.");
         MsgDisp("Himuro","...Well, it's fun when you're with someone
 who has a new reaction each time right?");
         MsgDisp("主人公","Eh...
-That——");
+That—");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
@@ -65,10 +65,10 @@ Nonsense.");
         ChMotion(6,3);
         ChCheek(6,0);
         VoicePlay("B040601102_06_070");
-        MsgDisp("Himuro","...Well, the lovestruck look on your face
-is probably more worth seeing than this
-place.");
-        MsgDisp("主人公","∋ It doesn't stretch out!");
+        MsgDisp("Himuro","...Well, the lovestruck look on your face is
+probably more worth seeing than this place.");
+        MsgDisp("主人公","∋
+It doesn't stretch out!");
         ChEye(6,3);
         ChMouth(6,3);
         ChMotion(6,0);

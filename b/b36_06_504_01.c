@@ -13,31 +13,29 @@ ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B360650401_06_000");
 MsgDisp("Himuro","It was full of couples.
-It was a good idea for us to come
-together.");
-MsgDisp("主人公","I think it would've been fun if we all
-went together, don't you?");
+It was a good idea for us to come together.");
+MsgDisp("主人公","I think it would've been fun if we all went
+together, don't you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360650401_06_010");
 MsgDisp("Himuro","You're kidding, right?
-Why would I want to see the lights with
-other guys around?");
+Why would I want to see the lights with other
+guys around?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650401_06_020");
-MsgDisp("Himuro","It would defeat the purpose of sneaking
-away.");
+MsgDisp("Himuro","It would defeat the purpose of sneaking away.");
 MsgDisp("主人公","Eh...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650401_06_030");
 MsgDisp("Himuro","I don't want to worry about other people.");
-MsgDisp("主人公","Are you uncomfortable about being around
-lots of people?");
+MsgDisp("主人公","Are you uncomfortable about being around lots
+of people?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

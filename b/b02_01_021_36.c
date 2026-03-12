@@ -4,8 +4,8 @@ ChMouth(1,2);
 ChMotion(1,3,1);
 VoicePlay("B020102136_01_000");
 MsgDisp("Kazama","Amazing.
-Your clothes, colors, and accessories are
-all perfect.");
+Your clothes, colors, and accessories are all
+perfect.");
 MsgDisp("主人公","If you're going to do it, do it right!");
 ChEye(1,4);
 ChMouth(1,3);

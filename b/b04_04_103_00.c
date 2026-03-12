@@ -30,9 +30,9 @@ I'd like you to tell me more about it...");
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B040410300_04_020");
-    MsgDisp("Nanatsumori","Me? Ahh, you mean NANA. We're on different
-playing fields, but I'd like to be aware
-of that.");
+    MsgDisp("Nanatsumori","Me? Ahh, you mean NANA.
+We're on different playing fields, but I'd
+like to be aware of that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +45,8 @@ of that.");
     ScrFadeIn(0);
     VoicePlay("B040410300_04_030");
     MsgDisp("Nanatsumori","Eh, seriously?
-Tell me what this chaos is trying to
-convey to us!");
+Tell me what this chaos is trying to convey
+to us!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

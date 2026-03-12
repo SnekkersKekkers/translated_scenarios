@@ -11,7 +11,7 @@ ChSet(3,4);
 VoicePlay("G020310302_03_010");
 MsgDisp("Honda","Without planning it in advance, we started
 to look alike.
-That means——");
+That means—");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

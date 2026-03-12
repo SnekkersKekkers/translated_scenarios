@@ -27,7 +27,7 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("P840400004_04_010");
-MsgDisp("Nanatsumori","How should I say itーI guess...
+MsgDisp("Nanatsumori","How should I say it—I guess...
 It feels like a mother's lecture?");
 MsgDisp("主人公","Eh?");
 ChEye(4,1);

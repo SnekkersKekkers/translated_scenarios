@@ -7,9 +7,9 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040115102_01_000");
-MsgDisp("Kazama","Hey, look at that. If you get a perfect
-score, you'll get a travel voucher as a
-coupon∋ Seriously?");
+MsgDisp("Kazama","Hey, look at that.
+If you get a perfect score, you'll get a
+travel voucher as a coupon∋ Seriously?");
 MsgSel("Something like that is definitely impossible","A meal voucher would be better","Perfect they say?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -48,8 +48,8 @@ You're greedy.");
         VoicePlay("B040115102_01_030");
         MsgDisp("Kazama","...Geez, you're a big eater.
 A travel voucher is better right?");
-        MsgDisp("主人公","But, if we got a meal voucher, we could
-eat together after this?");
+        MsgDisp("主人公","But, if we got a meal voucher, we could eat
+together after this?");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,0);
@@ -63,16 +63,17 @@ eat together after this?");
         ChCheek(1,5);
         VoicePlay("B040115102_01_050");
         MsgDisp("Kazama","A fancy dinner in the waterfront area...");
-        MsgDisp("主人公","Hehe, ｛Kazama＊＊｝ is also a gourmand,
-isn't he?");
+        MsgDisp("主人公","Hehe, ｛Kazama＊＊｝ is also a gourmand, isn't
+he?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("B040115102_01_060");
-        MsgDisp("Kazama","Ha? Don't lump me in with you. When it's
-about food, anything is fine for me.");
+        MsgDisp("Kazama","Ha?
+Don't lump me in with you. When it's about
+food, anything is fine for me.");
         MsgDisp("主人公","Eh?
 Then what?");
         ChEye(1,2);
@@ -82,9 +83,8 @@ Then what?");
         VoicePlay("B040115102_01_070");
         MsgDisp("Kazama","...Drop it.
 A fancy dinner is fine.");
-        MsgDisp("主人公","(｛Kazama＊＊｝, even if you did get a
-perfect score, the prize is a travel
-voucher?)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, even if you did get a perfect
+score, the prize is a travel voucher?)");
         break ;
         default :
         DbgAssert(1);

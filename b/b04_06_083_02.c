@@ -45,8 +45,8 @@ I don't want to see you exhausted.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040608302_06_030");
-        MsgDisp("Himuro","It's gonna be painful if you get too
-carried away.");
+        MsgDisp("Himuro","It's gonna be painful if you get too carried
+away.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -58,14 +58,15 @@ carried away.");
         ChEyeOpenLevel(6,7);
         VoicePlay("B040608302_06_040");
         MsgDisp("Himuro","......");
-        MsgDisp("主人公","? What's wrong?");
+        MsgDisp("主人公","?
+What's wrong?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040608302_06_050");
         MsgDisp("Himuro","Your face is flushed.");
         MsgDisp("主人公","Eh, really?
-But it's alright——");
+But it's alright—");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(6,0,30);
@@ -84,8 +85,8 @@ You'd better hydrate properly.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040608302_06_070");
-        MsgDisp("Himuro","That's right, loosen the clothes around
-your neck.");
+        MsgDisp("Himuro","That's right, loosen the clothes around your
+neck.");
         MsgDisp("主人公","Yeah...
 Eh?");
         ChEye(6,0);

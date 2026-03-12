@@ -68,7 +68,7 @@ Senpai.");
         MsgDisp("Himuro","Let's do the things you want.
 Come on.");
         MsgDisp("主人公","Umm, I'm really sorry.
-Just now was——");
+Just now was—");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -107,8 +107,7 @@ Thanks.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040630002_06_110");
-        MsgDisp("Himuro","Seriously, you throw me for a loop so
-easily.");
+        MsgDisp("Himuro","Seriously, you throw me for a loop so easily.");
         MsgDisp("主人公","(...?
 ｛Himuro＊＊｝ seems happy for some reason?)");
         break ;

@@ -59,7 +59,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_080");
 MsgDisp("Himuro","That's why you and I should hurry up
-and——");
+and—");
 MsgDisp("主人公","...You and I?");
 ChEye(6,0);
 ChMouth(6,0);

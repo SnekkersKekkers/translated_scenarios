@@ -18,7 +18,7 @@ ChMotion(6,4);
 VoicePlay("G020620100_06_020");
 MsgDisp("Himuro","It's not just me, you're close with
 someone else, aren't you?");
-MsgDisp("主人公","...Could it be——");
+MsgDisp("主人公","...Could it be—");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

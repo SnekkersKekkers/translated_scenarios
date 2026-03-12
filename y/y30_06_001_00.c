@@ -28,10 +28,10 @@ immediately circled 'advance onto
 high school'.");
 MsgClear();
 VoicePlay("Y300600100_42_000");
-MsgDisp("School Boy","\"Must be nice to be Himuroー, the high
+MsgDisp("School Boy","\"Must be nice to be Himuro—, the high
 school's vice principal is his
 relative.\"");
-MsgDisp("","After homeroom endedー, immediately
+MsgDisp("","After homeroom ended—, immediately
 after the homeroom teacher left,
 somewhere, a voice called out.");
 MsgDisp("","When I looked up, the class clown was
@@ -78,7 +78,7 @@ things so innocently, proved they
 didn't know Reiichi-san at all.");
 MsgDisp("","Ironically enough, his words made me
 realize something. When I advance
-onto the high school division——");
+onto the high school division—");
 MsgClear();
 MsgDisp("","I'll be labelled as 'that relative of
 Vice Principal Himuro'. It's easy
@@ -139,7 +139,7 @@ MsgDisp("","In that instant, for the first time,
 I felt as though I had a feeling, a
 moment that was unique to me.");
 MsgClear();
-MsgDisp("","——That's right.
+MsgDisp("","—That's right.
 No matter what other people say, I am
 me.");
 MsgDisp("","Until I prove that to myself, even if

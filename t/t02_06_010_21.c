@@ -18,7 +18,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 MsgDisp("Himuro","That's fine!
-But still, why did you kiss me? ——");
+But still, why did you kiss me? —");
 VoicePlay("T020601000_06_210");
 ChEye(6,0);
 ChMouth(6,1);

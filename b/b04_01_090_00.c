@@ -4,8 +4,8 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040109000_01_000");
-MsgDisp("Kazama","It's like paradise no matter how many
-times you come here.");
+MsgDisp("Kazama","It's like paradise no matter how many times
+you come here.");
 MsgSel("This flower smells so good...","It's so damp and humid, right?","Where are the carnivorous plants?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,8 @@ You look like a honeybee.");
     ChMotion(1,1);
     VoicePlay("B040109000_01_020");
     MsgDisp("Kazama","Yeah, it is.
-It must be hard to adapt this place to
-where the plants originate from.");
+It must be hard to adapt this place to where
+the plants originate from.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -14,7 +14,7 @@ ScrFadeIn(0);
 VoicePlay("B040423602_04_000");
 MsgDisp("Nanatsumori","...When I see this, I feel like summer is
 coming to an end.");
-MsgSel("I won't forget this for the rest of my life...","It feels a bit sad, huh?","We've got summer homework huhー...");
+MsgSel("I won't forget this for the rest of my life...","It feels a bit sad, huh?","We've got summer homework huh—...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -50,7 +50,7 @@ summer.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040423602_04_030");
-        MsgDisp("Nanatsumori","You can't read the room huhー.");
+        MsgDisp("Nanatsumori","You can't read the room huh—.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -60,8 +60,8 @@ summer.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423602_04_040");
-        MsgDisp("Nanatsumori","My, oh my....you're bringing that up in
-this atmosphere?");
+        MsgDisp("Nanatsumori","My, oh my....you're bringing that up in this
+atmosphere?");
         MsgDisp("主人公","It just came to my mind.");
         ChEye(4,2);
         ChMouth(4,4);
@@ -69,15 +69,15 @@ this atmosphere?");
         VoicePlay("B040423602_04_050");
         MsgDisp("Nanatsumori","It also just came to my mind.
 Oh dear, oh dear.");
-        MsgDisp("主人公","Ugh...sorry. We were having so much fun
-too.");
+        MsgDisp("主人公","Ugh...sorry.
+We were having so much fun too.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040423602_04_060");
         MsgDisp("Nanatsumori","No problem.");
-        MsgDisp("主人公","｛Nanatsumori＊｝, are you nearly done with
-the homework?");
+        MsgDisp("主人公","｛Nanatsumori＊｝, are you nearly done with the
+homework?");
         ChEye(4,2);
         ChMouth(4,3);
         VoicePlay("B040423602_04_070");
@@ -86,8 +86,8 @@ the homework?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423602_04_080");
-        MsgDisp("Nanatsumori","As punishment for just now, I'll copy all
-of your notes.");
+        MsgDisp("Nanatsumori","As punishment for just now, I'll copy all of
+your notes.");
         MsgDisp("主人公","Ehhh∋");
         ChEye(4,0);
         ChMouth(4,0);
@@ -120,9 +120,9 @@ Sorry, it was a joke.");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040423602_04_140");
-        MsgDisp("Nanatsumori","How am I gonna be so embarrassed after I
-was the one who said it...
-I'm so patheticー...");
+        MsgDisp("Nanatsumori","How am I gonna be so embarrassed after I was
+the one who said it...
+I'm so pathetic—...");
         MsgDisp("主人公","(My heart is racing...)");
         break ;
         default :

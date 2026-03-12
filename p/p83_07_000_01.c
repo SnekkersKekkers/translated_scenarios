@@ -8,9 +8,9 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     VoicePlay("P830700001_41_000");
-    MsgDisp("School Boy","Excuse meー.
+    MsgDisp("School Boy","Excuse me—.
 Do you have any cardboard～?");
-    MsgDisp("主人公","Yeーs, it's all gathered behind the gym.
+    MsgDisp("主人公","Ye—s, it's all gathered behind the gym.
 Please write a note of the quantity you
 need, your class, and your name.");
     MsgClose();
@@ -42,9 +42,9 @@ curtains.");
 Well, then.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
-    MsgDisp("主人公","Eh, ｛Mikage＊＊｝ ——");
+    MsgDisp("主人公","Eh, ｛Mikage＊＊｝ —");
     VoicePlay("P830700001_48_000");
-    MsgDisp("Girl B","Exーcuse me.
+    MsgDisp("Girl B","Ex—cuse me.
 Could I get two rolls of packing tape?");
     MsgDisp("主人公","Ah, yes!
 Please wait a moment.");
@@ -52,9 +52,9 @@ Please wait a moment.");
     case 4:
     case 5:
     VoicePlay("P830700001_41_030");
-    MsgDisp("School Boy","Excuse meー.
+    MsgDisp("School Boy","Excuse me—.
 Do you have any cardboard～?");
-    MsgDisp("主人公","Yeーs, it's all gathered behind the gym.
+    MsgDisp("主人公","Ye—s, it's all gathered behind the gym.
 Please write a note of the quantity you
 need, your class, and your name.");
     MsgClose();
@@ -73,7 +73,7 @@ Did you want something?");
     MsgDisp("Mikage","I'm visiting you on the battlefield.
 I came to talk to Miss Diligent.");
     MsgDisp("主人公","Hehe.
-But I'm a bit busy right no——");
+But I'm a bit busy right no—");
     VoicePlay("P830700001_46_010");
     MsgDisp("Girl A","Um, excuse me.
 There's not enough blackout curtains in
@@ -92,11 +92,11 @@ I'll cheer you on from behind the scenes.");
     MsgDisp("Mikage","Then, do your best!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
-    MsgDisp("主人公","Ah, ｛Mikage＊＊｝ ——");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝ —");
     VoicePlay("P830700001_48_010");
-    MsgDisp("Girl B","Exーcuse me.
+    MsgDisp("Girl B","Ex—cuse me.
 Could I get two rolls of packing tape?");
-    MsgDisp("主人公","Yeーs!
+    MsgDisp("主人公","Ye—s!
 Please wait a moment.");
     break ;
     default :

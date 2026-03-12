@@ -45,8 +45,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B360550301_05_040");
 MsgDisp("Hiiragi","Ah, right.
-They said this is the seat you always sit
-in on your way home from school.");
+They said this is the seat you always sit in
+on your way home from school.");
 MsgDisp("主人公","That's right.
 I sit here a lot.");
 ChEye(5,4);

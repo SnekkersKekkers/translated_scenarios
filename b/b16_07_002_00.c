@@ -11,16 +11,14 @@ switch (MsgSelRsltGet()){
     NSSEye(7,3);
     NSSMouth(7,3);
     VoicePlay("B160700200_07_010");
-    MsgDisp("Mikage","Haha, you're funny.
-——Hey, stop!");
+    MsgDisp("Mikage","Haha, you're funny. Hey, stop!");
     break ;
     case 1:
     NSSEye(7,0);
     NSSMouth(7,3);
     NSSEyeOpenLevel(7,5);
     VoicePlay("B160700200_07_020");
-    MsgDisp("Mikage","My heart?
-——What are you making me say!");
+    MsgDisp("Mikage","My heart? —What are you making me say!");
     break ;
     default :
     DbgAssert(0);

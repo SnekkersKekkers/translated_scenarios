@@ -9,7 +9,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,254,4,4,3,#1,#1,0,0);
 VoicePlay("P540300004_03_000");
-MsgDisp("Honda","Ahー,I've been defeatedー...");
+MsgDisp("Honda","Ah—,I've been defeated—...");
 MsgDisp("主人公","Eh?
 ｛Honda＊＊｝, what's wrong?");
 ChEye(3,0);

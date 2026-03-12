@@ -12,8 +12,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402136_04_010");
-MsgDisp("Nanatsumori","I noticed it all. Your choice in items is
-great, and your coordination is perfect.
-An act of God.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ praised me.
-♪ I'm glad I checked what's trending!)");
+MsgDisp("Nanatsumori","I noticed it all.
+Your choice in items is great, and your
+coordination is perfect. An act of God.");
+MsgDisp("主人公","(｛Nanatsumori＊｝ praised me. ♪
+I'm glad I checked what's trending!)");

@@ -14,5 +14,4 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B130200004_02_010");
-MsgDisp("Sassa","Your clothes give off that kind of
-feeling.");
+MsgDisp("Sassa","Your clothes give off that kind of feeling.");

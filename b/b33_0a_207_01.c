@@ -38,8 +38,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A20701_02_010");
-MsgDisp("Sassa","Watching you relax, is making us feel
-relaxed too.
+MsgDisp("Sassa","Watching you relax, is making us feel relaxed
+too.
 Right?");
 ChCheek(1,0);
 ChCheek(6,0);
@@ -85,8 +85,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A20701_02_030");
-MsgDisp("Sassa","You're soothing enough as is, but seeing
-you hold the kitten is super soothing.");
+MsgDisp("Sassa","You're soothing enough as is, but seeing you
+hold the kitten is super soothing.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

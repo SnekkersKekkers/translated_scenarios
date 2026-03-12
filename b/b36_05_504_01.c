@@ -18,14 +18,14 @@ Thank you for bringing me.");
 ChEye(5,0);
 VoicePlay("B360550401_05_010");
 MsgDisp("Hiiragi","No problem.
-I only found out today that the lights
-would be here.");
+I only found out today that the lights would
+be here.");
 MsgDisp("主人公","Did you look it up?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360550401_05_020");
-MsgDisp("Hiiragi","To be honest, I learned about it from
-someone at the theater company.");
+MsgDisp("Hiiragi","To be honest, I learned about it from someone
+at the theater company.");
 VoicePlay("B360550401_05_030");
 MsgDisp("Hiiragi","When I told them I was going out with you
 today, they told me about it.");

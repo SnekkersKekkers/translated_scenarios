@@ -21,7 +21,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P840D00000_22_010");
 MsgDisp("Hikaru","Mari...is like a Mama!
-Amaーzing...!");
+Ama—zing...!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

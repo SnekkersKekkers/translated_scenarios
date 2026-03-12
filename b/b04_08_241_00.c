@@ -6,8 +6,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040824100_08_000");
 MsgDisp("Shirahane","It's so spacious...
-It would be nice to sprint around here to
-our heart's content...");
+It would be nice to sprint around here to our
+heart's content...");
 MsgSel("It feels nice to be surrounded by Mother Nature!","....There's nothing here.","That cow keeps looking this way...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,8 +26,7 @@ It feels kinda nice.");
     ChMotion(8,2,1);
     VoicePlay("B040824100_08_020");
     MsgDisp("Shirahane","This is the world of the animals, after
-all...should we just sprint around
-too?");
+all...should we just sprint around too?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

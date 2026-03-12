@@ -53,7 +53,7 @@ much talent.");
     MsgDisp("Himuro","Isn't it starting?");
     MsgDisp("主人公","Yeah, I'm off.");
     MsgDisp("主人公","(This is my last big stage...
-Alrーight, let's do it!)");
+Alr—ight, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(6,0,0);

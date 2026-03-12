@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040430001_04_010");
     MsgDisp("Nanatsumori","That is something girls would be curious
-about, after all. Okay. If you'd like, I
-can do your makeup too?");
+about, after all. Okay.
+If you'd like, I can do your makeup too?");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

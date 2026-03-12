@@ -31,7 +31,7 @@ ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("D020100000_01_020");
 MsgDisp("Kazama","...Have I?");
-MsgDisp("主人公","You've gotten so much——");
+MsgDisp("主人公","You've gotten so much—");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -88,7 +88,7 @@ NSSCheek(1,7);
 VoicePlay("D020100000_01_140");
 MsgDisp("Kazama","I-I see.
 You're definitely doing well.
-I just got over my jet lag so next——");
+I just got over my jet lag so next—");
 MsgClose();
 ScrFadeOut(0,0,30);
 NSSClose();

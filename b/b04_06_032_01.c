@@ -42,8 +42,8 @@ effect.");
     ChMotion(6,0);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040603201_06_030");
-    MsgDisp("Himuro","It doesn't seem like you'll understand
-even if I explain it.");
+    MsgDisp("Himuro","It doesn't seem like you'll understand even
+if I explain it.");
     MsgDateResultDisp();
     break ;
     default :

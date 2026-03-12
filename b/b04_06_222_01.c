@@ -6,8 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040622201_06_000");
-MsgDisp("Himuro","If you live in Habataki, you will
-definitely come here on a field trip.");
+MsgDisp("Himuro","If you live in Habataki, you will definitely
+come here on a field trip.");
 MsgSel("Let's learn today too!","In other words, you're bored of it?","Yeah, it's nostalgic.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,9 +28,9 @@ How surprising.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040622201_06_020");
-    MsgDisp("Himuro","Good judgement. Honestly, I'm already
-tired of looking at it. But I enjoy
-talking to you, though.");
+    MsgDisp("Himuro","Good judgement.
+Honestly, I'm already tired of looking at it.
+But I enjoy talking to you, though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

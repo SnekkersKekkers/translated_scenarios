@@ -3,7 +3,7 @@ BGOpen("wf000",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to go home.
 Huh?
-What's that on the other side——)");
+What's that on the other side—)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -98,7 +98,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("E010720200_02_060");
-MsgDisp("Sassa","——Ah.");
+MsgDisp("Sassa","—Ah.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

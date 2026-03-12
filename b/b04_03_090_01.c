@@ -10,8 +10,8 @@ ScrFadeIn(0);
 Wait(30,0);
 SEStop("EV_SE_766",3);
 VoicePlay("B040309001_03_000");
-MsgDisp("Honda","Some elementary school students came here
-for an extracurricular activity.");
+MsgDisp("Honda","Some elementary school students came here for
+an extracurricular activity.");
 SEStop("EV_SE_855",2);
 MsgSel("The teacher in charge looks like he's having a tough time, huh?","I wonder what grade they are?","Should we tag along too?");
 switch (MsgSelRsltGet()){
@@ -22,8 +22,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0,1);
     VoicePlay("B040309001_03_010");
     MsgDisp("Honda","Is that right?
-If it were me, I would join in with the
-fun.");
+If it were me, I would join in with the fun.");
     MsgDateResultDisp();
     break ;
     case 1:

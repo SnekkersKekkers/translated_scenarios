@@ -6,8 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606101_06_000");
-MsgDisp("Himuro","Haven't you been looking at the beach
-house for a while now?
+MsgDisp("Himuro","Haven't you been looking at the beach house
+for a while now?
 Do you want something to eat?");
 MsgSel("I-I've been found out...","After we go for a swim.","That's you isn't it, ｛Himuro＊＊｝?");
 switch (MsgSelRsltGet()){
@@ -44,8 +44,8 @@ Let's go for a swim first.");
     ChMotion(6,4);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040606101_06_030");
-    MsgDisp("Himuro","I had a proper meal before leaving the
-house, unfortunately you're mistaken.");
+    MsgDisp("Himuro","I had a proper meal before leaving the house,
+unfortunately you're mistaken.");
     MsgDateResultDisp();
     break ;
     default :

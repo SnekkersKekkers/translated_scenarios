@@ -4,10 +4,10 @@ ChMouth(4,2);
 ChMotion(4,1,1);
 ScrFadeIn(0);
 VoicePlay("B030408002_04_000");
-MsgDisp("Nanatsumori","Sure, fireflies are a summer thing, but
-is there any point coming at this hour?");
-MsgDisp("主人公","Hmm, I don't think we'd be able to see
-them glowing...
+MsgDisp("Nanatsumori","Sure, fireflies are a summer thing, but is
+there any point coming at this hour?");
+MsgDisp("主人公","Hmm, I don't think we'd be able to see them
+glowing...
 Let's just enjoy the pond in summer?");
 MsgDispSksp(1,0);
 ChEye(4,1);

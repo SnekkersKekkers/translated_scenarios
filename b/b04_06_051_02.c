@@ -6,8 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040605102_06_000");
-MsgDisp("Himuro","...The pair beside us weren't even looking
-at the stars at all.
+MsgDisp("Himuro","...The pair beside us weren't even looking at
+the stars at all.
 I wonder what they came here for.");
 MsgSel("To love each other?","What a waste of money!","I'm jealous!");
 switch (MsgSelRsltGet()){
@@ -72,17 +72,16 @@ crazy about right?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040605102_06_070");
-        MsgDisp("Himuro","If there's someone you love from the
-bottom of your heart, you don't care about
-your surroundings...?");
+        MsgDisp("Himuro","If there's someone you love from the bottom
+of your heart, you don't care about your
+surroundings...?");
         ChEye(6,0);
         ChMouth(6,2);
         ChMotion(6,2);
         VoicePlay("B040605102_06_080");
-        MsgDisp("Himuro","I...haven't experienced something like
-that.");
-        MsgDisp("主人公","Would you also want to experience a love
-like that one day, ｛Himuro＊＊｝?");
+        MsgDisp("Himuro","I...haven't experienced something like that.");
+        MsgDisp("主人公","Would you also want to experience a love like
+that one day, ｛Himuro＊＊｝?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

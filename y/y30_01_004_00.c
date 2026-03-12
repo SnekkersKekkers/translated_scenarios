@@ -57,7 +57,7 @@ MsgDisp("","With my comment, even Honda started
 getting ready to leave, dusting off
 his uniform pants as he stood up.");
 VoicePlay("Y300100400_03_010");
-MsgDisp("Honda","\"Ahー, there she is!
+MsgDisp("Honda","\"Ah—, there she is!
 Ryo-kun, Mi-kun, look!
 Over here\"");
 MsgClear();
@@ -90,7 +90,7 @@ MsgClear();
 MsgDisp("","\"The next instant, she turned around.
 With her usual, indescribable, gentle
 expression.\"");
-MsgDisp("","——Hey, whose voice did you hear?");
+MsgDisp("","—Hey, whose voice did you hear?");
 BGMStop();
 MsgClear();
 MsgClose();

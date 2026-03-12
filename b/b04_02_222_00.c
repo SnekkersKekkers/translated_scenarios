@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040222200_02_010");
     MsgDisp("Sassa","That's right.
-It's none of my business, but are they
-doing okay?");
+It's none of my business, but are they doing
+okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040110102_01_000");
 MsgDisp("Kazama","In the long history of Habataki City, I
-wonder if our ancestors ever met like we
-are now?");
+wonder if our ancestors ever met like we are
+now?");
 MsgSel("Maybe they were hunter-gatherers?","Maybe they fought on the battlefield together?","Maybe they lived together in Habataki Castle?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0,1);
     ChCheek(1,5);
     VoicePlay("B040110102_01_010");
-    MsgDisp("Kazama","Oh, that's nice. We could fish everyday,
-pick chestnuts, and eat them together.
+    MsgDisp("Kazama","Oh, that's nice. We could fish everyday, pick
+chestnuts, and eat them together.
 That sounds like a lot of fun.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -50,8 +50,7 @@ Well, I guess that is just like you.");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040110102_01_030");
-        MsgDisp("Kazama","You aren't saying you're a princess,
-right?
+        MsgDisp("Kazama","You aren't saying you're a princess, right?
 You're like the cheerful town peasant.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
@@ -64,9 +63,9 @@ You're like the cheerful town peasant.");
         ChMouth(1,3);
         ChMotion(1,0,1);
         VoicePlay("B040110102_01_040");
-        MsgDisp("Kazama","That's right. Our ancestors were having
-dumb conversations like this hundreds of
-years ago too, right?");
+        MsgDisp("Kazama","That's right.
+Our ancestors were having dumb conversations
+like this hundreds of years ago too, right?");
         MsgDisp("主人公","Hehe, that's fun to think about.");
         ChEye(1,0);
         ChMouth(1,3);
@@ -74,8 +73,8 @@ years ago too, right?");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040110102_01_050");
         MsgDisp("Kazama","Ooh, I bet your ancestor was one of those
-strange ones, always causing trouble for
-my ancestors, right?");
+strange ones, always causing trouble for my
+ancestors, right?");
         MsgDisp("主人公","Huh?
 Do I cause trouble for you?");
         ChMotion(1,4);

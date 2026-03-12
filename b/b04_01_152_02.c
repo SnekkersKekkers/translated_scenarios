@@ -124,8 +124,8 @@ That is my promise.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040115202_01_080");
     MsgDisp("Kazama","Nice.
-The penalty game will be to make a funny
-face with all your might.");
+The penalty game will be to make a funny face
+with all your might.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

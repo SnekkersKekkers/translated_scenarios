@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040304600_03_000");
-    MsgDisp("Honda","Yup! I bought \"Seiji Shitara, Genius
-Pianist Quotes\" at the merchandise stand.
+    MsgDisp("Honda","Yup! I bought \"Seiji Shitara, Genius Pianist
+Quotes\" at the merchandise stand.
 I'm looking forward to reading it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -24,8 +24,8 @@ I'm looking forward to reading it.");
     ChMotion(3,4);
     VoicePlay("B040304600_03_010");
     MsgDisp("Honda","Really?
-The brilliance of the performance somehow
-got through to me too.");
+The brilliance of the performance somehow got
+through to me too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

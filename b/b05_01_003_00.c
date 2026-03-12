@@ -15,8 +15,8 @@ MsgDisp("Kazama","Phew.");
 ChEye(1,0);
 ChMouth(1,3);
 MsgDisp("主人公","Good work.
-You must be thirsty, would you like
-something to drink?");
+You must be thirsty, would you like something
+to drink?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -57,7 +57,7 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 VoicePlay("B050100300_01_050");
-MsgDisp("Kazama","Your hips are pulling backー.
+MsgDisp("Kazama","Your hips are pulling back—.
 Look straight ahead.
 Don't let go of my hand～");
 MsgDisp("主人公","Y-Yes!");
@@ -76,16 +76,18 @@ Wait(10,0);
 StlEyeOpenLevel(1,#1);
 StlMouthOpenLevel(1,10);
 ScrQuake(1);
-MsgDisp("主人公","Waa∈ ｛Kazama＊＊｝, you can't let go of my
-hand no matter what∋");
+MsgDisp("主人公","Waa∈
+｛Kazama＊＊｝, you can't let go of my hand no
+matter what∋");
 StlEye(1,1);
 StlMouth(1,1);
 StlMouthOpenLevel(1,#1);
 StlCheek(1,7);
 VoicePlay("B050100300_01_070");
 MsgDisp("Kazama","......");
-MsgDisp("主人公","Phew...I'm steady now...Huh, ｛Kazama＊＊｝,
-your face is red. Are you cold?");
+MsgDisp("主人公","Phew... I'm steady now...
+Huh, ｛Kazama＊＊｝, your face is red.
+Are you cold?");
 StlEyeOpenLevel(1,5);
 StlCheek(1,7);
 VoicePlay("B050100300_01_080");
@@ -114,20 +116,20 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("B050100300_01_110");
-MsgDisp("Kazama","Honestly...your skating skills didn't
-really matter.
+MsgDisp("Kazama","Honestly...your skating skills didn't really
+matter.
 Just that...your hand...");
 MsgDisp("主人公","Hand?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B050100300_01_120");
-MsgDisp("Kazama","You couldn't skate, but I tried to drag
-you out onto the rink.
+MsgDisp("Kazama","You couldn't skate, but I tried to drag you
+out onto the rink.
 It was scary, right?");
 MsgDisp("主人公","Nope, I had fun. ｛Kazama＊＊｝ held my hand
-the whole time. I was glad that he taught
-me how to skate carefully.");
+the whole time. I was glad that he taught me
+how to skate carefully.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);

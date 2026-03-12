@@ -30,7 +30,7 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020720022_07_030");
 MsgDisp("Mikage","I got it.
-But, since you and I both graduated——");
+But, since you and I both graduated—");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);

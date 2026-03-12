@@ -33,7 +33,7 @@ NSSEye(1,6);
 NSSMouth(1,0);
 NSSCheek(1,7);
 VoicePlay("T040100000_01_030");
-MsgDisp("Kazama","Yes, then I'm counting on you——");
+MsgDisp("Kazama","Yes, then I'm counting on you—");
 NSSEye(1,0);
 NSSMouth(1,3);
 VoicePlay("T040100000_01_040");

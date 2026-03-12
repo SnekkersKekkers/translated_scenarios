@@ -36,7 +36,7 @@ VoicePlay("G020710400_07_040");
 MsgDisp("Mikage","They mentioned something about my
 hairstyle and curls.");
 MsgDisp("主人公","｛Mikage＊＊｝'s curls...
-Hehe, maybe——");
+Hehe, maybe—");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

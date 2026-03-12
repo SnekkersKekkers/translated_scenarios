@@ -24,8 +24,8 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("B350200000_02_030");
-MsgDisp("Sassa","Umm, for some reason, there's a place I
-want to go with you after this.
+MsgDisp("Sassa","Umm, for some reason, there's a place I want
+to go with you after this.
 How about it?");
 MsgSel("Yeah, sounds good!","There's something I have to do today.");
 switch (MsgSelRsltGet()){

@@ -40,8 +40,7 @@ Got it, give me your hand.");
         ChMotion(7,1);
         VoicePlay("B040723602_07_020");
         MsgDisp("Mikage","Hey, hey.
-You won't be able to see anything like
-that.");
+You won't be able to see anything like that.");
         MsgDateResultDisp();
         DateRateSet(5);
         break ;
@@ -59,8 +58,8 @@ That's right.");
         ChMotion(7,0);
         VoicePlay("B040723602_07_040");
         MsgDisp("Mikage","That's fine, but if you're only looking at
-me, there's no point in coming to the
-night parade.");
+me, there's no point in coming to the night
+parade.");
         MsgDisp("主人公","I don't mind.");
         ChEye(7,0);
         ChMouth(7,0);
@@ -74,8 +73,8 @@ Suit yourself.");
         ChLayout(0);
         ChOpen(7,253,1,0,0,#1,#1,0,0,0,30);
         VoicePlay("B040723602_07_060");
-        MsgDisp("Mikage","Look. Now, there's no need to worry we'll
-get separated, but you can't see anything,
+        MsgDisp("Mikage","Look. Now, there's no need to worry we'll get
+separated, but you can't see anything,
 right～?");
         MsgDisp("主人公","I can see ｛Mikage＊＊｝ very well.");
         ChEye(7,1);
@@ -94,16 +93,15 @@ right～?");
         ChMotion(7,3);
         VoicePlay("B040723602_07_080");
         MsgDisp("Mikage","Heheh, I finally surprised you.");
-        MsgDisp("主人公","Over there! The skull bear is changing
-colors∈");
+        MsgDisp("主人公","Over there!
+The skull bear is changing colors∈");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723602_07_090");
         MsgDisp("Mikage","Ha...what's with that?
 I feel like I can't win with you.");
-        MsgDisp("主人公","(Haa, my heart might be racing a
-little...)");
+        MsgDisp("主人公","(Haa, my heart might be racing a little...)");
         break ;
         default :
         DbgAssert(1);

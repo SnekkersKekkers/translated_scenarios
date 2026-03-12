@@ -80,7 +80,7 @@ BGOpen("sc510",1);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ScrFadeIn(0);
 VoicePlay("D010700200_07_070");
-MsgDisp("Mikage","You should hurry home nowー!");
+MsgDisp("Mikage","You should hurry home now—!");
 MsgDisp("主人公","Ah, yes sir!");
 MsgDisp("主人公","(｛Mikage＊＊｝ left.
 I hope they don't scold him in the staff

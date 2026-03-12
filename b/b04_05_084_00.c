@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040508400_05_000");
 MsgDisp("Hiiragi","Maybe it's because of the water
-temperature...The autumn colors here are a
+temperature... The autumn colors here are a
 bit off from other places.");
 MsgSel("It's thanks to the spring water.","Slightly off?","The fallen leaves floating on the water are beautiful.");
 switch (MsgSelRsltGet()){
@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040508400_05_010");
     MsgDisp("Hiiragi","That's right.
-As the spring water's temperature is
-stable.");
+As the spring water's temperature is stable.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,9 +25,9 @@ stable.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040508400_05_020");
-    MsgDisp("Hiiragi","Saying it's \"off\" sounds negative, but
-it's wonderful that you can enjoy it in a
-way that's unique to this place.");
+    MsgDisp("Hiiragi","Saying it's \"off\" sounds negative, but it's
+wonderful that you can enjoy it in a way
+that's unique to this place.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,9 +37,9 @@ way that's unique to this place.");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("B040508400_05_030");
-    MsgDisp("Hiiragi","Yes, thanks to the transparency of the
-spring water, the shadows of the leaves
-are reflected on the bottom of the water.");
+    MsgDisp("Hiiragi","Yes, thanks to the transparency of the spring
+water, the shadows of the leaves are
+reflected on the bottom of the water.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

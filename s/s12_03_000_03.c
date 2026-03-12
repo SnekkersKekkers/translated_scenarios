@@ -29,7 +29,7 @@ Maybe you're a bit tired?");
     ChMotion(3,0,1);
     VoicePlay("S120300003_03_010");
     MsgDisp("Honda","Really?
-I can still keep going——");
+I can still keep going—");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,5,1);

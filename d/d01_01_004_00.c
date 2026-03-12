@@ -26,7 +26,7 @@ ScrFadeIn(0);
 Wait(40,0);
 VoicePlay("D010100400_01_010");
 MsgDisp("Kazama","H-Hey...");
-MsgDisp("主人公","Ah, our hands——");
+MsgDisp("主人公","Ah, our hands—");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

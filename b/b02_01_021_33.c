@@ -9,9 +9,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102133_01_010");
-MsgDisp("Kazama","I realized it's not just about how it
-looks, it matches who you are as a
-person.");
+MsgDisp("Kazama","I realized it's not just about how it looks,
+it matches who you are as a person.");
 MsgDisp("主人公","(Oh, good!
 ｛Kazama＊＊｝ seems to have started to love
 clothes like these, too!)");

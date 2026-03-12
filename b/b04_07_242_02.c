@@ -7,8 +7,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B040724202_07_000");
-MsgDisp("Mikage","When you go camping together, you can see
-a side of the other person that is usually
+MsgDisp("Mikage","When you go camping together, you can see a
+side of the other person that is usually
 hidden");
 MsgSel("It's perfect for marriage interviews","｛Mikage＊＊｝'s hidden side?","It's a little scary...");
 switch (MsgSelRsltGet()){
@@ -44,8 +44,8 @@ would be like to live together.");
         VoicePlay("B040724202_07_030");
         MsgDisp("Mikage","But what I'm talking about, is more like
 seeing the other person's vitality.");
-        MsgDisp("主人公","｛Mikage＊＊｝'s vitality is so strong,
-you can see it even on the regular?");
+        MsgDisp("主人公","｛Mikage＊＊｝'s vitality is so strong, you
+can see it even on the regular?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -116,9 +116,9 @@ I'm out of things to reveal.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040724202_07_090");
-    MsgDisp("Mikage","Right. In front of nature, humans are
-completely naked. Aah, I don't mean that
-in a weird way.");
+    MsgDisp("Mikage","Right.
+In front of nature, humans are completely
+naked. Aah, I don't mean that in a weird way.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

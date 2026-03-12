@@ -19,7 +19,7 @@ ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 MsgDisp("Himuro","...That was my first kiss.");
-MsgDisp("主人公","Huh, you mean just now——");
+MsgDisp("主人公","Huh, you mean just now—");
 VoicePlay("T020621000_06_230");
 ChEye(6,1);
 ChMouth(6,0);

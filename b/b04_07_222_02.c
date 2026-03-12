@@ -6,8 +6,9 @@ ChMotion(7,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040722202_07_000");
-MsgDisp("Mikage","See? There are discoveries you'd never
-notice in a textbook, right?");
+MsgDisp("Mikage","See?
+There are discoveries you'd never notice in a
+textbook, right?");
 MsgSel("seems like it would be difficult to control the temperature and humidity","It's surprisingly big for a koban coin.","The admission fee is one rich.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -59,8 +60,8 @@ Don't worry about it.");
         ChMotion(7,3);
         VoicePlay("B040722202_07_040");
         MsgDisp("Mikage","This is Sensei's treat.
-You guys just make sure you get your
-money's worth.");
+You guys just make sure you get your money's
+worth.");
         MsgDisp("主人公","But, this is a school expense isn't it?");
         ChEye(7,2);
         ChMouth(7,3);
@@ -73,8 +74,8 @@ that.");
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040722202_07_060");
-        MsgDisp("Mikage","Until the advance payment is calculated,
-it's practically my treat.");
+        MsgDisp("Mikage","Until the advance payment is calculated, it's
+practically my treat.");
         MsgDisp("主人公","Hehe.
 ｛Mikage＊＊｝, thank you very much.");
         ChEye(7,0);

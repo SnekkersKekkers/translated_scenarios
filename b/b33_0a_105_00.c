@@ -20,8 +20,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A10500_02_000");
-MsgDisp("Sassa","The one who came up with karaoke was
-Ryota, right?");
+MsgDisp("Sassa","The one who came up with karaoke was Ryota,
+right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -84,8 +84,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10500_01_030");
 MsgDisp("Kazama","Right?
-Even if we sang about love, and romance
-and whatnot with this group...");
+Even if we sang about love, and romance and
+whatnot with this group...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
@@ -102,9 +102,9 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoiceEVSPlay(1);
 VoicePlay("B330A10500_01_040");
-MsgDisp("Kazama","｛主人公｝, choose already. If we keep up
-like this, we'll have run out of time
-without having sung a single song.");
+MsgDisp("Kazama","｛主人公｝, choose already.
+If we keep up like this, we'll have run out
+of time without having sung a single song.");
 MsgDisp("主人公","Umm...
 Then how about Haba High's anthem?");
 ChMouth(1,0);

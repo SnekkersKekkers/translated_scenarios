@@ -45,8 +45,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("B360150100_01_040");
 MsgDisp("Kazama","Since I've been away, I've started to feel
-nostalgic for this place and the memories
-I have here.");
+nostalgic for this place and the memories I
+have here.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -93,18 +93,17 @@ MsgDisp("Kazama","That's why, it's not the place that's
 important.
 Being alone with you is.");
 MsgDisp("主人公","From now on too, I want to go to lots of
-different places in Habataki City with
-you.");
+different places in Habataki City with you.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360150100_01_110");
 MsgDisp("Kazama","Right.
-...Well, maybe I'll invite those guys
-along once in about ten times.");
-MsgDisp("主人公","(Hehe, they'd probably be mad if they
-heard that?)");
+...Well, maybe I'll invite those guys along
+once in about ten times.");
+MsgDisp("主人公","(Hehe, they'd probably be mad if they heard
+that?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

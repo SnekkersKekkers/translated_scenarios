@@ -42,7 +42,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("P140300000_03_050");
-MsgDisp("Honda","Ahーthat was fun.
+MsgDisp("Honda","Ah—that was fun.
 I'll go and promote it!");
 MsgDisp("主人公","(I'm glad! ｛Honda＊＊｝, seems to have
 really liked it!");

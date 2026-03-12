@@ -47,8 +47,8 @@ It's taught me something again.");
         ChMotion(4,0,1);
         VoicePlay("B040409002_04_040");
         MsgDisp("Nanatsumori","I always thought that because there was a
-\"standard\", that made the flashy and
-lively changes all the more interesting.");
+\"standard\", that made the flashy and lively
+changes all the more interesting.");
         ChEye(4,2);
         ChMouth(4,0);
         ChMotion(4,2,1);
@@ -67,12 +67,12 @@ Thank you, as always.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040409002_04_070");
-        MsgDisp("Nanatsumori","When I'm with you, I begin to notice my
-own egotistic side.");
+        MsgDisp("Nanatsumori","When I'm with you, I begin to notice my own
+egotistic side.");
         ChMotion(4,3,1);
         VoicePlay("B040409002_04_080");
-        MsgDisp("Nanatsumori","That's why, you should continue to not
-hold back what you think.");
+        MsgDisp("Nanatsumori","That's why, you should continue to not hold
+back what you think.");
         MsgDisp("主人公","What I think...");
         ChEye(4,0);
         ChMouth(4,3);
@@ -86,8 +86,8 @@ Say what's on your mind.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040409002_04_100");
-        MsgDisp("Nanatsumori","Well even if we disagree and end up
-fighting, let's enjoy that too, okay?");
+        MsgDisp("Nanatsumori","Well even if we disagree and end up fighting,
+let's enjoy that too, okay?");
         MsgDisp("主人公","(Ehhh～∋)");
         break ;
         default :
@@ -114,7 +114,7 @@ I don't think I can do it.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040409002_04_120");
-    MsgDisp("Nanatsumori","Ahー, \"flowers\" (hana) and \"fireworks\"
+    MsgDisp("Nanatsumori","Ah—, \"flowers\" (hana) and \"fireworks\"
 (hanabi). It's a bad pun, but it's catchy.
 Why not suggest that for real?");
     MsgDispSksp(1,0);

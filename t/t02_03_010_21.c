@@ -8,7 +8,7 @@ ChCheek(3,10);
 VoicePlay("T020301000_03_200");
 MsgDisp("Honda","...Just now...
 It was soft and, I could smell
-you...and——");
+you...and—");
 MsgDisp("主人公","Don't say any more now...");
 ChEye(3,2);
 ChMouth(3,0);

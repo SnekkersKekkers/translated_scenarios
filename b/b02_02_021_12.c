@@ -2,8 +2,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);
 VoicePlay("B020202112_02_000");
-MsgDisp("Sassa","The way a girl dresses can really change
-the impact.");
+MsgDisp("Sassa","The way a girl dresses can really change the
+impact.");
 MsgDisp("主人公","Oh, you mean my fashion today?
 What do you think?");
 ChEye(2,0);

@@ -17,8 +17,8 @@ VoicePlay("B330B30300_04_000");
 MsgDisp("Nanatsumori","Ah...
 The top in that window.
 It looks like it would suit you.");
-MsgDisp("主人公","Waa, it's so stylish! ...it costs a lot
-though.");
+MsgDisp("主人公","Waa, it's so stylish!
+...it costs a lot though.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -30,14 +30,14 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("B330B30300_03_000");
 MsgDisp("Honda","Seriously!
-My sister says it a lot, girl's clothes
-are expensive.");
+My sister says it a lot, girl's clothes are
+expensive.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30300_04_010");
-MsgDisp("Nanatsumori","Well, this store is aimed at teens, but
-it's a designer brand.");
+MsgDisp("Nanatsumori","Well, this store is aimed at teens, but it's
+a designer brand.");
 MsgDisp("主人公","I see.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -74,8 +74,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Yeah!");
-MsgDisp("主人公","(Is it okay for me to be the only one
-having fun?)");
+MsgDisp("主人公","(Is it okay for me to be the only one having
+fun?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

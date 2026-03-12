@@ -33,8 +33,7 @@ here, so it's kinda embarrassing.");
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040430000_04_020");
-    MsgDisp("Nanatsumori","It's a bit messy, but it's not unclean,
-okay?");
+    MsgDisp("Nanatsumori","It's a bit messy, but it's not unclean, okay?");
     MsgDateResultDisp();
     break ;
     case 2:

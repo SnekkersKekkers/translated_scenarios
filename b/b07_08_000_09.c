@@ -6,8 +6,7 @@ ChMotion(8,0,1);
 VoicePlay("B070800000_08_470");
 MsgDisp("Shirahane","Yeah?
 What's with the serious turn?");
-MsgDisp("主人公","｛Daichi＊＊｝, what do you think about
-love?");
+MsgDisp("主人公","｛Daichi＊＊｝, what do you think about love?");
 ChEye(8,5);
 ChMouth(8,5);
 ChMotion(8,1,1);
@@ -40,8 +39,8 @@ VoicePlay("B070800000_08_520");
 MsgDisp("Shirahane","Forgive me...");
 ChEyeOpenLevel(8,8);
 VoicePlay("B070800000_08_530");
-MsgDisp("Shirahane","I wonder if these heart-racing exchanges
-have anything to do with love...");
+MsgDisp("Shirahane","I wonder if these heart-racing exchanges have
+anything to do with love...");
 ChEye(8,2);
 ChMouth(8,2);
 ChEyeOpenLevel(8,0);

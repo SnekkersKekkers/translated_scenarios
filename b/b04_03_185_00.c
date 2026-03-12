@@ -21,8 +21,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     MsgDispSksp(0);
     VoicePlay("B040318500_03_010");
-    MsgDisp("Honda","Yeah, it seems like they didn't make the
-best use of the original work huh?");
+    MsgDisp("Honda","Yeah, it seems like they didn't make the best
+use of the original work huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,7 +33,7 @@ best use of the original work huh?");
     ChEye(3,1);
     ChMouth(3,4);
     VoicePlay("B040318500_03_020");
-    MsgDisp("Honda","Ahー, was it that bad?
+    MsgDisp("Honda","Ah—, was it that bad?
 Filming was definitely difficult though.");
     MsgDateResultDisp();
     break ;

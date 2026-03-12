@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B030522000_05_020");
     MsgDisp("Hiiragi","That's fine.
-When visiting a castle, you start with
-the tower.");
+When visiting a castle, you start with the
+tower.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Hehe, yeah.
 I want to feel like a lord.");
@@ -32,8 +32,8 @@ I want to feel like a lord.");
     case 1:
     ChEye(5,4);
     VoicePlay("B030522000_05_030");
-    MsgDisp("Hiiragi","There is so much to learn about the
-history of Habataki City.");
+    MsgDisp("Hiiragi","There is so much to learn about the history
+of Habataki City.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Yeah, let's go.");
     MsgDispSksp(0);

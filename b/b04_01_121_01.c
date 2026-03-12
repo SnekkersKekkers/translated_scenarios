@@ -10,8 +10,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040112101_01_000");
-MsgDisp("Kazama","I always thought that the flea markets
-here were very lively.");
+MsgDisp("Kazama","I always thought that the flea markets here
+were very lively.");
 MsgSel("Wow, they're even selling fresh veggies.","There's so many different things, you can never tire of it.","If ｛Kazama＊＊｝ opened a stall, it would be the talk of the city.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,9 +33,9 @@ stuff straight out of their car trunks.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040112101_01_020");
-    MsgDisp("Kazama","Right? People trying to get rid of junk,
-people who are real salesmen...There's all
-kinds here.");
+    MsgDisp("Kazama","Right?
+People trying to get rid of junk, people who
+are real salesmen... There's all kinds here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -47,9 +47,9 @@ kinds here.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040112101_01_030");
-    MsgDisp("Kazama","You think so? Grandpa might find it an
-interesting venture, but Dad...Might think
-it's too much trouble.");
+    MsgDisp("Kazama","You think so?
+Grandpa might find it an interesting venture,
+but Dad... Might think it's too much trouble.");
     MsgDateResultDisp();
     break ;
     default :

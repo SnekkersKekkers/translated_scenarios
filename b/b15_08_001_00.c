@@ -18,7 +18,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("B150800100_08_020");
-MsgDisp("Shirahane","Hmー...
+MsgDisp("Shirahane","Hm—...
 I wanna explain how, but it's hard.");
 ChEye(8,0);
 ChMouth(8,4);
@@ -26,13 +26,14 @@ ChMotion(8,0,1);
 VoicePlay("B150800100_08_030");
 MsgDisp("Shirahane","Right, hey.
 Like my heart's poundin' when I think of
-you——");
+you—");
 ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,4,1);
 ChCheek(8,10);
 VoicePlay("B150800100_08_040");
-MsgDisp("Shirahane","∈ No!
+MsgDisp("Shirahane","∈
+No!
 I can't say it after all!");
 MsgDisp("主人公","｛Daichi＊＊｝?");
 ChEye(8,2);

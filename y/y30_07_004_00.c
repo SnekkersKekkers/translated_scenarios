@@ -111,7 +111,7 @@ inviting?\"");
 BGOpen("ad743",0);
 VoicePlay("Y300700400_07_080");
 MsgDisp("Mikage","\"Let's go?\"");
-MsgDisp("","\"First, rockー\" \"Rock-paper-scissors\"
+MsgDisp("","\"First, rock—\" \"Rock-paper-scissors\"
 \"Go!\"");
 MsgClear();
 MsgClose();

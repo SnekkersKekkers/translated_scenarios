@@ -8,7 +8,7 @@ space too.");
 MsgDisp("主人公","Phew...
 Then, please take care.");
 VoicePlay("P840700004_41_020");
-MsgDisp("School Boy","I'm sorry tp have caused you troubleー.");
+MsgDisp("School Boy","I'm sorry tp have caused you trouble—.");
 MsgDisp("主人公","(I'm glad it ended without any
 problems...)");
 VoiceEVSPlay(7);

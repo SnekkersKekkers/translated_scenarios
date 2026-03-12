@@ -4,7 +4,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     VoicePlay("S030400002_04_000");
     MsgDisp("Nanatsumori","Not possible.");
-    MsgDisp("主人公","Ehー...");
+    MsgDisp("主人公","Eh—...");
     VoicePlay("S030400002_04_010");
     MsgDisp("Nanatsumori","It's really cold outside.
 I don't want to catch a cold.");
@@ -25,7 +25,7 @@ Let's go alone then.)");
     VoicePlay("S030400002_04_040");
     MsgDisp("Nanatsumori","You're a child still.
 I'm an adult.");
-    MsgDisp("主人公","Ehー...");
+    MsgDisp("主人公","Eh—...");
     VoicePlay("S030400002_04_050");
     MsgDisp("Nanatsumori","Be safe then.
 And don't catch a cold, okay?");

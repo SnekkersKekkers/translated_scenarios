@@ -10,8 +10,7 @@ It's ｛Kazama＊＊｝...");
 VoicePlay("B090100000_01_010");
 MsgDisp("Kazama","About today.");
 VoicePlay("B090100000_01_020");
-MsgDisp("Kazama","I guess it didn't mean that much to you
-huh.");
+MsgDisp("Kazama","I guess it didn't mean that much to you huh.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Crap!

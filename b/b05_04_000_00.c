@@ -109,17 +109,17 @@ I mean that's really NANA isn't it.");
 VoicePlay("B050400000_48_020");
 MsgDisp("Woman B","But it's kinda suspicious.
 If he was the real deal, he wouldn't stand
-like thatー.");
+like that—.");
 VoicePlay("B050400000_47_030");
 MsgDisp("Woman A","Got it, he's NANA's fan!
-There are quite a lot of guys who copy
-NANA's hairstyle and fashion right?");
+There are quite a lot of guys who copy NANA's
+hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
 MsgDisp("Woman B","That's right.
-Ahー That scared meー!");
+Ah— That scared me—!");
 MsgDisp("主人公","(I'm glad...
-Looks like they didn't even discover it
-was \"NANA\".)");
+Looks like they didn't even discover it was
+\"NANA\".)");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("B050400000_04_060");
@@ -147,9 +147,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B050400000_04_080");
-MsgDisp("Nanatsumori","When humans come across a situation that
-is unfavorable for them, they can filter
-it out and make it disappear.");
+MsgDisp("Nanatsumori","When humans come across a situation that is
+unfavorable for them, they can filter it out
+and make it disappear.");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B050400000_04_090");
@@ -169,13 +169,12 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B050400000_04_110");
-MsgDisp("Nanatsumori","Next time you should match my performance
-a bit more.");
+MsgDisp("Nanatsumori","Next time you should match my performance a
+bit more.");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B050400000_04_120");
-MsgDisp("Nanatsumori","If you're that nervous, I'll look
-unhinged.");
+MsgDisp("Nanatsumori","If you're that nervous, I'll look unhinged.");
 MsgDisp("主人公","Ah, sorry...");
 ChEye(4,4);
 ChMouth(4,3);

@@ -11,16 +11,16 @@ MsgDisp("Guy?","Ehh?
 The girl I approached was a member of
 Habataki Theater Company～?");
 VoicePlay("B110500002_35_010");
-MsgDisp("Guy?","That makes it easier, right? Theater is
-tough grunt work, so dangle a debut and
-they'll sign right away!");
+MsgDisp("Guy?","That makes it easier, right?
+Theater is tough grunt work, so dangle a
+debut and they'll sign right away!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500002_35_020");
-MsgDisp("Guy","Wow, are you part of Habataki Theater
-Troupe too? Why don't you stop that work
-and come to us?");
+MsgDisp("Guy","Wow, are you part of Habataki Theater Troupe
+too?
+Why don't you stop that work and come to us?");
 MsgDisp("主人公","Ehh?");
 ChEye(35,1);
 ChMouth(35,0);
@@ -36,20 +36,19 @@ SEWait();
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
 ChOpen(5,253,0,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110500002_05_000");
-MsgDisp("Hiiragi","Is there something you need with one of
-our members?");
+MsgDisp("Hiiragi","Is there something you need with one of our
+members?");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110500002_35_040");
 MsgDisp("Guy","Huh? Ah, you want to debut in the mens?
-OK! We'll take care of both of you. The
-lesson fee will be tripled!");
+OK! We'll take care of both of you.
+The lesson fee will be tripled!");
 MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("B110500002_05_010");
-MsgDisp("Hiiragi","I am the chairman of Habataki Theater
-Troupe.
+MsgDisp("Hiiragi","I am the chairman of Habataki Theater Troupe.
 I am Hiiragi Yanosuke.");
 MsgDispSksp(0);
 ChEye(35,1);
@@ -76,8 +75,7 @@ ChMouth(5,0);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B110500002_05_030");
-MsgDisp("Hiiragi","I don't understand why I would have to
-lie.");
+MsgDisp("Hiiragi","I don't understand why I would have to lie.");
 MsgDispSksp(0);
 ChEye(35,2);
 ChMouth(35,1);
@@ -95,11 +93,10 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B110500002_05_040");
 MsgDisp("Hiiragi","Haa...
-I'm sorry, that was my fault for being
-late.");
+I'm sorry, that was my fault for being late.");
 MsgDisp("主人公","No, it's alright.
-But I ended up looking like a member of
-the Habataki Theater Company...");
+But I ended up looking like a member of the
+Habataki Theater Company...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

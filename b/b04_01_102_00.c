@@ -4,8 +4,8 @@ ChSet(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040110200_01_000");
-MsgDisp("Kazama","Old tools can really convey the feelings
-of their owner.");
+MsgDisp("Kazama","Old tools can really convey the feelings of
+their owner.");
 MsgSel("Does a motorcycle count as a tool?","It was really cherished","Can a hundred year old motorcycle still work?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,9 +28,9 @@ feelings of both the user and the creator.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040110200_01_020");
-    MsgDisp("Kazama","You're right. It's not just for
-decoration, it's also been taken care of
-so it can be driven on public roads.");
+    MsgDisp("Kazama","You're right. It's not just for decoration,
+it's also been taken care of so it can be
+driven on public roads.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,8 +43,8 @@ so it can be driven on public roads.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040110200_01_030");
     MsgDisp("Kazama","Of course it can.
-In terms of what's vintage, 100 years
-isn't even that old.");
+In terms of what's vintage, 100 years isn't
+even that old.");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();

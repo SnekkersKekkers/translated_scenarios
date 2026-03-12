@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040124101_01_010");
-    MsgDisp("Kazama","Phewー...
-Thanks to you, I just took a huge whiff
-of animal stink.");
+    MsgDisp("Kazama","Phew—...
+Thanks to you, I just took a huge whiff of
+animal stink.");
     MsgDateResultDisp();
     break ;
     case 1:

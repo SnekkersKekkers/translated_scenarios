@@ -17,8 +17,8 @@ ChMotion(5,0);
 ChCheek(5,0);
 VoicePlay("B150500400_05_020");
 MsgDisp("Hiiragi","I've told you before.
-I've already reached my limits of
-remaining my usual self.");
+I've already reached my limits of remaining
+my usual self.");
 MsgDisp("主人公","...Yeah.");
 ChEye(5,0);
 VoicePlay("B150500400_05_030");
@@ -27,9 +27,9 @@ MsgDisp("主人公","...Yeah.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B150500400_05_040");
-MsgDisp("Hiiragi","But you know, having first stepped onto
-the stage at two, I have more experience
-as an actor than I do as a man.");
+MsgDisp("Hiiragi","But you know, having first stepped onto the
+stage at two, I have more experience as an
+actor than I do as a man.");
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500400_05_050");
 MsgDisp("Hiiragi","Two year-olds aren't aware of being a man.
@@ -46,8 +46,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B150500400_05_070");
-MsgDisp("Hiiragi","If I didn't do that, I would have reached
-my limit.
+MsgDisp("Hiiragi","If I didn't do that, I would have reached my
+limit.
 Art saves me.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

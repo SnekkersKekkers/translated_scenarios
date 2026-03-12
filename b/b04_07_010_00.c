@@ -5,8 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040701000_07_000");
-MsgDisp("Mikage","Oh, apparently this sort of thing is
-stylish.
+MsgDisp("Mikage","Oh, apparently this sort of thing is stylish.
 I think it would suit you.");
 MsgSel("Really, I'll go buy it!","Is that so...?","It would not suit me!");
 switch (MsgSelRsltGet()){
@@ -38,7 +37,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040701000_07_030");
-    MsgDisp("Mikage","Uh Ohー.
+    MsgDisp("Mikage","Uh Oh—.
 Is it no good?");
     MsgDateResultDisp();
     break ;

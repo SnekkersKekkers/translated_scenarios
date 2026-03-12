@@ -48,7 +48,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("G020310101_03_070");
-MsgDisp("Honda","——Aah! Look over there, a huge group of
+MsgDisp("Honda","—Aah! Look over there, a huge group of
 fireflies! Let's go to see them!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");

@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0);
     ChMotion(3,4);
     VoicePlay("B040310102_03_010");
-    MsgDisp("Honda","Yep yep, the permanent dinosaur exhibit
-here is also well done.");
+    MsgDisp("Honda","Yep yep, the permanent dinosaur exhibit here
+is also well done.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,9 +27,9 @@ here is also well done.");
     ChEye(3,3);
     ChMotion(3,5);
     VoicePlay("B040310102_03_020");
-    MsgDisp("Honda","I get it! Even the permanent exhibits
-change with the season. As expected of
-Habataki City!");
+    MsgDisp("Honda","I get it!
+Even the permanent exhibits change with the
+season. As expected of Habataki City!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -66,31 +66,31 @@ thing was...");
         ChMouth(3,1);
         ChMotion(3,5);
         VoicePlay("B040310102_03_050");
-        MsgDisp("Honda","Ahー, this won't do!");
+        MsgDisp("Honda","Ah—, this won't do!");
         MsgDisp("主人公","W-What's wrong?");
         ChEye(3,2);
         ChMouth(3,2);
         ChMotion(3,2);
         VoicePlay("B040310102_03_060");
-        MsgDisp("Honda","This is because I totally failed at
-conveying the appeal of the permanent
-exhibits to you, right?");
+        MsgDisp("Honda","This is because I totally failed at conveying
+the appeal of the permanent exhibits to you,
+right?");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040310102_03_070");
-        MsgDisp("Honda","There's always so much I want to talk
-about that my explanations for one thing
-end up shallowー This is truly my fault.");
-        MsgDisp("主人公","Eh, I never thought they were shallow——");
+        MsgDisp("Honda","There's always so much I want to talk about
+that my explanations for one thing end up
+shallow— This is truly my fault.");
+        MsgDisp("主人公","Eh, I never thought they were shallow—");
         ChEye(3,1);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040310102_03_080");
-        MsgDisp("Honda","Today, let's take our time going through
-each one in order. Now that it's been
-decided... Let's go!");
+        MsgDisp("Honda","Today, let's take our time going through each
+one in order.
+Now that it's been decided... Let's go!");
         MsgDisp("主人公","(Ehh!
-Right nowー∋)");
+Right now—∋)");
         break ;
         default :
         DbgAssert(1);

@@ -33,7 +33,7 @@ StlEyeOpenLevel(5,5,1);
 VoicePlay("Q070501000_05_010");
 MsgDisp("Hiiragi","Thank you.
 I hope the person I'll be presenting will
-also be pleased——");
+also be pleased—");
 StlEye(5,0,1);
 SEPlay("EV_SE_777",0,0.9);
 Wait(150,1);

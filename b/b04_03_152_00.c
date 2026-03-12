@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,3);
     VoicePlay("B040315200_03_010");
     MsgDisp("Honda","Ehhh, I look forward to it.
-If you say that, you must be really good
-at it.");
+If you say that, you must be really good at
+it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

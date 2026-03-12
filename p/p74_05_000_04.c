@@ -2,7 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yayー!
+MsgDisp("主人公","(Yay—!
 A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -13,7 +13,7 @@ Wait(20,1);
 VoicePlay("P740500004_05_000");
 MsgDisp("Hiiragi","Thank you for your hard work.
 Could you hear the excited cheers?");
-MsgDisp("主人公","Hmーm I was so immersed in the moment, I
+MsgDisp("主人公","Hm—m I was so immersed in the moment, I
 couldn't really hear it well?");
 ChEye(5,0);
 ChMouth(5,4);

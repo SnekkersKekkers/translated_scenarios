@@ -26,8 +26,8 @@ wasn't great as a horror movie.");
     ChMotion(4,1,1);
     VoicePlay("B040418200_04_010");
     MsgDisp("Nanatsumori","Right.
-The motif being a closet completely threw
-me for a loop.");
+The motif being a closet completely threw me
+for a loop.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

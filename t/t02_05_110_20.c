@@ -41,7 +41,7 @@ VoicePlay("T020511020_05_030");
 MsgDisp("Hiiragi","Until now, and from this point forwards,
 your smile has always been my light.");
 VoicePlay("T020511020_05_040");
-MsgDisp("Hiiragi","——Thank you.");
+MsgDisp("Hiiragi","—Thank you.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(300,0);

@@ -16,8 +16,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A20101_02_000");
-MsgDisp("Sassa","Ahー...
-Just this vastness feels niceー.");
+MsgDisp("Sassa","Ah—...
+Just this vastness feels nice—.");
 MsgDisp("主人公","Right.
 The wind feels nice too...");
 ChEye(6,0);
@@ -53,8 +53,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330A20101_06_010");
-MsgDisp("Himuro","If something happens, I'll swim you back
-to shore.");
+MsgDisp("Himuro","If something happens, I'll swim you back to
+shore.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);

@@ -33,8 +33,8 @@ Then good for you.");
     ScrFadeIn(0);
     VoicePlay("B060300003_03_020");
     MsgDisp("Honda","Sometimes when you have high expectations,
-the gap between fantasy and reality is
-big. Don't worry!");
+the gap between fantasy and reality is big.
+Don't worry!");
     MsgDispSksp(0);
     break ;
     default :

@@ -37,8 +37,7 @@ You really are simple.
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602302_06_030");
-        MsgDisp("Himuro","I was trying to talk to you seriously
-though?");
+        MsgDisp("Himuro","I was trying to talk to you seriously though?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -68,8 +67,8 @@ Did you think I would be happy with that?");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040602302_06_070");
-        MsgDisp("Himuro","When someone likes you, it's normal to
-feel happy I guess.");
+        MsgDisp("Himuro","When someone likes you, it's normal to feel
+happy I guess.");
         MsgDisp("主人公","Eh∋");
         ChEye(6,0);
         ChMouth(6,0);

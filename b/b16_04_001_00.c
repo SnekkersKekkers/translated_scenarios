@@ -20,8 +20,8 @@ But, that's a big hit for me▼");
     NSSMouth(4,2);
     VoicePlay("B160400100_04_020");
     MsgDisp("Nanatsumori","Yeah, don't fool around.
-You're more like the lamb, so don't get
-eaten by a wolf, okay?");
+You're more like the lamb, so don't get eaten
+by a wolf, okay?");
     break ;
     default :
     DbgAssert(0);

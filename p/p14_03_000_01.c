@@ -25,7 +25,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("P140300001_03_030");
-MsgDisp("Honda","Ahー Sorry!
+MsgDisp("Honda","Ah— Sorry!
 I'll do it again, next time, I'll get lost
 properly.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

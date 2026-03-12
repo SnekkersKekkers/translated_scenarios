@@ -21,8 +21,7 @@ switch (MsgSelRsltGet()){
         ChMouth(8,4);
         ChMotion(8,4,1);
         VoicePlay("B040816002_08_010");
-        MsgDisp("Shirahane","Do I look like such a good-for-nothing
-guy?
+        MsgDisp("Shirahane","Do I look like such a good-for-nothing guy?
 I feel kinda dejected...");
         MsgDateResultDisp();
         break ;
@@ -34,8 +33,8 @@ I feel kinda dejected...");
         ChMotion(8,0,1);
         VoicePlay("B040816002_08_020");
         MsgDisp("Shirahane","Huh?
-Do I really look like such a
-good-for-nothing guy?");
+Do I really look like such a good-for-nothing
+guy?");
         MsgDisp("主人公","It's not like that...");
         ChEye(8,1);
         ChMouth(8,3);
@@ -96,8 +95,8 @@ I'll try once again!");
         SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
         ChClose(8,0,30);
         MsgDisp("主人公","(Hehe!
-｛Daichi＊＊｝ enjoys the challenge more
-than hating to lose, doesn't he?)");
+｛Daichi＊＊｝ enjoys the challenge more than
+hating to lose, doesn't he?)");
         SEWait();
         break ;
         default :

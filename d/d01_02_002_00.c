@@ -11,7 +11,7 @@ SEWait();
 MsgDisp("主人公","(On these shelves should be a lot of
 difficult speciality books...)");
 MsgDisp("主人公","(Huh...
-Is that——)");
+Is that—)");
 MsgClose();
 BGMPlay("BGM_C02_SASSA_B",0.01);
 StlOpen("ev_02_07");

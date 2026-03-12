@@ -12,9 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040318200_03_000");
-    MsgDisp("Honda","Yep yep, it was scaryー!
-Absurdity really is the best spice,
-huh∋");
+    MsgDisp("Honda","Yep yep, it was scary—!
+Absurdity really is the best spice, huh∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,9 +33,9 @@ next to me.");
     DateRateSet(0);
     ChSet(3,2);
     VoicePlay("B040318200_03_020");
-    MsgDisp("Honda","Hmmm...I knew it wouldn't be popular with
-the general public, but I thought you
-would like itー...");
+    MsgDisp("Honda","Hmmm... I knew it wouldn't be popular with
+the general public, but I thought you would
+like it—...");
     MsgDateResultDisp();
     break ;
     default :

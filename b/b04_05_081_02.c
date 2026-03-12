@@ -53,7 +53,7 @@ You're also beautiful.");
         VoicePlay("B040508102_05_040");
         MsgDisp("Hiiragi","Ah, you're welcome.");
         MsgDisp("主人公","Ah, maybe...
-I misunderstoo——");
+I misunderstoo—");
         ChEye(5,3);
         ChMouth(5,4);
         VoicePlay("B040508102_05_050");
@@ -64,8 +64,8 @@ You were not mistaken.");
         ChMotion(5,2);
         VoicePlay("B040508102_05_060");
         MsgDisp("Hiiragi","Proof of that is when I come here, my eyes
-continuously go back and forth from you
-and the cherry blossoms. I am truly busy.");
+continuously go back and forth from you and
+the cherry blossoms. I am truly busy.");
         MsgDisp("主人公","Umm...
 ｛Hiiragi＊＊＊｝, thank you.");
         ChEye(5,3);
@@ -78,8 +78,7 @@ thing, hanami dango.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
         SEWait();
-        MsgDisp("主人公","(He covered for my silly
-misunderstanding...
+        MsgDisp("主人公","(He covered for my silly misunderstanding...
 ｛Hiiragi＊＊＊｝, thank you.)");
         break ;
         default :

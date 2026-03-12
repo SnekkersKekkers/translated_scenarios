@@ -25,8 +25,8 @@ I'll watch.");
     ChMotion(4,2,1);
     VoicePlay("B040424102_04_020");
     MsgDisp("Nanatsumori","You go enjoy it yourself.
-I can't let sheep or cows lick me, no
-matter what.");
+I can't let sheep or cows lick me, no matter
+what.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -60,14 +60,13 @@ Me?");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040424102_04_050");
-        MsgDisp("Nanatsumori","Hmmー...what should we doー...");
+        MsgDisp("Nanatsumori","Hmm—...what should we do—...");
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040424102_04_060");
-        MsgDisp("Nanatsumori","Milking...is not my style, and I'm not
-good with animals...but I also don't want
-to just stare off into space...");
-        MsgDisp("主人公","It feels like you don't like farms very
-much?");
+        MsgDisp("Nanatsumori","Milking...is not my style, and I'm not good
+with animals...but I also don't want to just
+stare off into space...");
+        MsgDisp("主人公","It feels like you don't like farms very much?");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,1,1);
@@ -88,8 +87,7 @@ We came all the way here...");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040424102_04_090");
-        MsgDisp("Nanatsumori","We both decided to go on a date here
-today.");
+        MsgDisp("Nanatsumori","We both decided to go on a date here today.");
         MsgDisp("主人公","Yeah.");
         ChMotion(4,3,1);
         VoicePlay("B040424102_04_100");
@@ -100,15 +98,14 @@ today.");
         ChMotion(4,1,1);
         VoicePlay("B040424102_04_110");
         MsgDisp("Nanatsumori","Alright.
-It's not like we have to do something to
-make it a date.");
+It's not like we have to do something to make
+it a date.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040424102_04_120");
-        MsgDisp("Nanatsumori","The time we spend thinking about what to
-do together like this, is good enough for
-me.");
+        MsgDisp("Nanatsumori","The time we spend thinking about what to do
+together like this, is good enough for me.");
         MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :

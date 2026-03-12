@@ -19,11 +19,11 @@ switch (MsgSelRsltGet()){
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B030121002_01_010");
-    MsgDisp("Kazama","So I guess the cats and dogs live
-together, huh?");
+    MsgDisp("Kazama","So I guess the cats and dogs live together,
+huh?");
     MsgDispSksp(1,0);
-    MsgDisp("主人公","That way both dog and cat lovers can
-enjoy it.");
+    MsgDisp("主人公","That way both dog and cat lovers can enjoy
+it.");
     MsgDispSksp(0);
     break ;
     case 2:

@@ -10,7 +10,6 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B020700003_07_010");
 MsgDisp("Mikage","If it's popular, go for it.
-But don't forget about your own
-preferences.");
+But don't forget about your own preferences.");
 MsgDisp("主人公","(Urgh...
 I should have worn something else...)");

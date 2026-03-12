@@ -45,7 +45,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100620001_06_030");
 MsgDisp("Himuro","By the way, are you free after this?
-If you'd like——");
+If you'd like—");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChPosition(6,1);
 MsgClose();

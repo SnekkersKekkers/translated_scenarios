@@ -11,7 +11,7 @@ ChMotion(7,0);
 VoicePlay("G020710000_07_010");
 MsgDisp("Mikage","Living creatures are truly interesting.
 They seem to have a collective
-consciousness——");
+consciousness—");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B040122100_01_000");
-MsgDisp("Kazama","I wonder what the scenery was like
-hundreds of years ago?");
+MsgDisp("Kazama","I wonder what the scenery was like hundreds
+of years ago?");
 MsgSel("There was probably more green than there is now.","It was probably colder in the winter.","The air was probably clearer, so you could see further away.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040122100_01_010");
     MsgDisp("Kazama","Right.
-The types of plants were probably
-different too.");
+The types of plants were probably different
+too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +42,8 @@ different too.");
     ChMotion(1,0);
     VoicePlay("B040122100_01_030");
     MsgDisp("Kazama","Probably.
-I bet you could see towns people going
-about their lives from here.");
+I bet you could see towns people going about
+their lives from here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

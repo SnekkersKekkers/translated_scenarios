@@ -24,7 +24,7 @@ here with, lift each other up, and spend
 three years forging wings to soar.");
 VoicePlay("A030000000_32_020");
 MsgDisp("VP Himuro","We the teachers and staff are proud to guide
-you, and we intend to give our very best——");
+you, and we intend to give our very best—");
 MsgDisp("主人公","(Vice Principal Himuro...
 He seems like a strict but very reliable
 teacher.)");

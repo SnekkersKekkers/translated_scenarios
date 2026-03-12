@@ -28,9 +28,9 @@ here, huh?");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040206200_02_020");
-    MsgDisp("Sassa","Something about the wavelength of blue
-light, right? No matter how many times I
-hear it, I still don't get it.");
+    MsgDisp("Sassa","Something about the wavelength of blue light,
+right? No matter how many times I hear it, I
+still don't get it.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -41,8 +41,7 @@ skate.");
     ChEyeOpenLevel(4,8);
     VoicePlay("B040420001_04_030");
     MsgDisp("Nanatsumori","Seriously, that's it.
-In a warm place, gracefully, and
-comfortably.");
+In a warm place, gracefully, and comfortably.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -7,9 +7,8 @@ MsgDisp("Honda","I like everything.");
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300000_03_020");
-MsgDisp("Honda","Ah, but I especially like shows about the
-Big Bang and Earth's 4.6 billion year
-history.");
+MsgDisp("Honda","Ah, but I especially like shows about the Big
+Bang and Earth's 4.6 billion year history.");
 MsgDisp("主人公","That sounds like ｛Honda＊＊｝.
 What about quiz shows?");
 ChEye(3,3);
@@ -27,8 +26,8 @@ ChMotion(3,2);
 VoicePlay("B070300000_03_040");
 MsgDisp("Honda","But my little sister gets angry.
 She says it's boring watching it with me.");
-MsgDisp("主人公","Ahh, I think I can understand her feelings
-a little bit.");
+MsgDisp("主人公","Ahh, I think I can understand her feelings a
+little bit.");
 ChEye(3,4);
 ChMouth(3,1);
 ChMotion(3,5);

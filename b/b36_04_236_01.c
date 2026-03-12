@@ -9,8 +9,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","It's a good thing we made it in time for
-the night parade, isn't it?");
+MsgDisp("主人公","It's a good thing we made it in time for the
+night parade, isn't it?");
 VoicePlay("B360423601_04_000");
 MsgDisp("Nanatsumori","Yeah, we made it just in the nick of time.");
 MsgDisp("主人公","Hehe!
@@ -23,10 +23,9 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B360423601_04_020");
 MsgDisp("Nanatsumori","I feel bad for those guys but...
-I wanted to come here no matter what
-today.");
-MsgDisp("主人公","It would have been good if we could've
-come with everyone though?");
+I wanted to come here no matter what today.");
+MsgDisp("主人公","It would have been good if we could've come
+with everyone though?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -49,8 +48,8 @@ MsgDisp("主人公","I see...");
 ChEye(4,0);
 ChMotion(4,1,1);
 VoicePlay("B360423601_04_060");
-MsgDisp("Nanatsumori","With this, I can be satisfied. What about
-you?");
+MsgDisp("Nanatsumori","With this, I can be satisfied.
+What about you?");
 MsgDisp("主人公","I think we made some good memories?");
 ChEye(4,2);
 ChMouth(4,3);

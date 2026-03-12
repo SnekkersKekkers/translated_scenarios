@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040506500_05_010");
     MsgDisp("Hiiragi","Haha, it's stylish, isn't it?
-Kaーgya～!");
+Ka—gya～!");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

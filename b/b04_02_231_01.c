@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040223101_02_010");
-    MsgDisp("Sassa","If you don't experience it for yourself,
-you won't know!");
+    MsgDisp("Sassa","If you don't experience it for yourself, you
+won't know!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,7 +37,7 @@ Well, that's part of your charm though.");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("B040223101_02_030");
-    MsgDisp("Sassa","Did I say thatー?
+    MsgDisp("Sassa","Did I say that—?
 Then let's ride 100 times in a row!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

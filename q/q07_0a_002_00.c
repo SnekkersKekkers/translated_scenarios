@@ -42,7 +42,7 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("Q070A00200_01_020");
-MsgDisp("Kazama","Well since you're offering——");
+MsgDisp("Kazama","Well since you're offering—");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

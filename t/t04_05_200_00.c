@@ -15,7 +15,7 @@ BGMPlay("BGM_PROLOGUE",0.01);
 Wait(120);
 ScrFadeIn(0);
 Wait(60);
-MsgDisp("主人公","This month's student council posterー?");
+MsgDisp("主人公","This month's student council poster—?");
 VoicePlay("T040520000_05_010");
 MsgDisp("Hiiragi","Yes.
 I got some advice from Inori-kun, so I

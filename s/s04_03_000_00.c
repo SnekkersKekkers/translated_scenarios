@@ -59,7 +59,7 @@ choice...)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
-    MsgDisp("主人公","Hello——");
+    MsgDisp("主人公","Hello—");
     VoicePlay("S040300000_03_060");
     MsgDisp("Honda","Happy New Year!");
     MsgDisp("主人公","Happy New Year.
@@ -81,7 +81,7 @@ the shrine with me?");
 Get ready and wait for me.");
         MsgDisp("主人公","Okay, got it.");
         VoicePlay("S040300000_03_110");
-        MsgDisp("Honda","Kimono time——");
+        MsgDisp("Honda","Kimono time—");
         VoicePlay("S040300000_03_120");
         MsgDisp("Honda","Ah, that sounds so good.
 I'm looking forward to seeing you.");

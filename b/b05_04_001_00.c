@@ -19,7 +19,7 @@ MsgDisp("Nanatsumori","Hmm—we still have time.
 What should we do?");
 MsgDisp("主人公","That's right...");
 VoicePlay("B050400100_04_010");
-MsgDisp("Nanatsumori","...Hey actually, I——");
+MsgDisp("Nanatsumori","...Hey actually, I—");
 SEPlay("EV_SE_064");
 MsgDisp("","(*GROWL*～)");
 MsgDisp("主人公","Hehe!");
@@ -31,7 +31,7 @@ MsgDisp("Nanatsumori","Well...it's like that.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
-MsgDisp("主人公","Then, let's go somewhere we can eat——");
+MsgDisp("主人公","Then, let's go somewhere we can eat—");
 ChEye(4,5);
 ChMouth(4,1);
 VoicePlay("B050400100_04_030");
@@ -62,8 +62,8 @@ StlNear(1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050400100_46_000");
 MsgDisp("Clerk","Okay then, cool guy♪
-The \"60 Minute Shaved Ice Challenge\"
-starts now～ ∈");
+The \"60 Minute Shaved Ice Challenge\" starts
+now～ ∈");
 MsgDisp("主人公","(S-So many kinds of shaved ice...
 Eating for 60 minutes straight...
 ｛Nanatsumori＊｝, will you be okay∋)");
@@ -89,8 +89,8 @@ VoicePlay("B050400100_04_080");
 MsgDisp("Nanatsumori","Yum!
 The cocoa powder is really rich!
 The hidden milk pie is too awesome...");
-MsgDisp("主人公","(Hehe. ｛Nanatsumori＊｝'s food commentary
-is funny.)");
+MsgDisp("主人公","(Hehe.
+｛Nanatsumori＊｝'s food commentary is funny.)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -103,8 +103,8 @@ StlEyeOpenLevel(4,5);
 ScrFadeIn(0);
 VoicePlay("B050400100_46_010");
 MsgDisp("Clerk","Um, dear customer.
-Even though there are still 10 minutes
-left, we are terribly sorry to say...");
+Even though there are still 10 minutes left,
+we are terribly sorry to say...");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("B050400100_04_090");
@@ -118,8 +118,8 @@ StlMouth(4,1);
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400100_04_100");
 MsgDisp("Nanatsumori","Ah, that's cool. 'Matcha Whirlwind' is
-delicious, so I'm good with it. I'll take
-a refill.");
+delicious, so I'm good with it.
+I'll take a refill.");
 VoicePlay("B050400100_46_030");
 MsgDisp("Clerk","C-Certainly!
 One order of the \"Matcha whirlwind\"～!");
@@ -151,13 +151,11 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B050400100_04_130");
-MsgDisp("Nanatsumori","I was the only one having fun, I was
-stuffing myself and ended up neglecting
-you...");
-MsgDisp("主人公","Nah.
-We enjoyed the movie together, and
-watching ｛Nanatsumori＊｝'s heroic display
-was so much fun!");
+MsgDisp("Nanatsumori","I was the only one having fun, I was stuffing
+myself and ended up neglecting you...");
+MsgDisp("主人公","Nah. We enjoyed the movie together, and
+watching ｛Nanatsumori＊｝'s heroic display was
+so much fun!");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -174,8 +172,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B050400100_04_160");
-MsgDisp("Nanatsumori","Instead of that kind of 'bravery', I
-should have shown you something...cooler.");
+MsgDisp("Nanatsumori","Instead of that kind of 'bravery', I should
+have shown you something...cooler.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,2);
 ChMouth(4,3);

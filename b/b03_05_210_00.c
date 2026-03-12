@@ -6,8 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B030521000_05_000");
-MsgDisp("Hiiragi","The Habataki Mountain Zoo is always
-popular.");
+MsgDisp("Hiiragi","The Habataki Mountain Zoo is always popular.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Yeah, let's go!");
 MsgDispSksp(0);

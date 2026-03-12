@@ -10,7 +10,6 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B020202109_02_010");
-MsgDisp("Sassa","Then how about we run to our date spot
-today?");
+MsgDisp("Sassa","Then how about we run to our date spot today?");
 MsgDisp("主人公","(I'm glad!
 He seems to like today's clothes.)");

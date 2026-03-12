@@ -22,7 +22,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("S110700000_07_020");
 MsgDisp("Mikage","That's \"Mikage's Theory of Fortunes\".");
-MsgDisp("主人公","Ehーhmm...
+MsgDisp("主人公","Eh—hmm...
 What is that?");
 ChEye(7,0);
 ChMouth(7,0);

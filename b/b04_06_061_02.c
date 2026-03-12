@@ -62,8 +62,8 @@ Then, what am I to you?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040606102_06_050");
-        MsgDisp("Himuro","Should I keep watching you talk to the
-guys around here?");
+        MsgDisp("Himuro","Should I keep watching you talk to the guys
+around here?");
         MsgDisp("主人公","No, I was just making a joke just now....");
         ChEye(6,0);
         ChMouth(6,1);
@@ -81,8 +81,8 @@ here with you now.");
         ChMouth(6,1);
         ChMotion(6,4);
         VoicePlay("B040606102_06_080");
-        MsgDisp("Himuro","Not only that, I chose time with you over
-the solitude I never gave up before.
+        MsgDisp("Himuro","Not only that, I chose time with you over the
+solitude I never gave up before.
 And how much of that—");
         ChEye(6,2);
         ChMouth(6,1);
@@ -120,8 +120,8 @@ I was just starting to get hungry.");
         ChMotion(6,1);
         VoicePlay("B040606102_06_130");
         MsgDisp("Himuro","Don't go on your own, I'll go too.
-I'll be troubled if guys around here
-started hitting on you.");
+I'll be troubled if guys around here started
+hitting on you.");
         MsgDisp("主人公","They won't!");
         ChEye(6,0);
         ChMouth(6,4);

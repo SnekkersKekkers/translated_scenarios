@@ -28,16 +28,15 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360121200_01_020");
-MsgDisp("Kazama","That's fine, but who are the souvenirs
-for?");
+MsgDisp("Kazama","That's fine, but who are the souvenirs for?");
 MsgDisp("主人公","Umm...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360121200_01_030");
-MsgDisp("Kazama","Don't tell me you were planning to buy it
-for those two?");
+MsgDisp("Kazama","Don't tell me you were planning to buy it for
+those two?");
 MsgDisp("主人公","Yeah, great, huh!");
 ChEye(1,2);
 ChMouth(1,2);

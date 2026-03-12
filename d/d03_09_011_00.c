@@ -26,7 +26,7 @@ SEWait();
 BGMPlay("BGM_C09_KUYA_B",0.01);
 ChOpen(9,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Kuya-san!
-How did you——");
+How did you—");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

@@ -80,7 +80,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F100230000_21_030");
 MsgDisp("Michiru","Yes, there are many others.
-For example——");
+For example—");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,4);

@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,2);
     ChEyeOpenLevel(7,7);
     VoicePlay("B040723102_07_010");
-    MsgDisp("Mikage","Even if I surrender, this thing isn't
-gonna go easy on me.");
+    MsgDisp("Mikage","Even if I surrender, this thing isn't gonna
+go easy on me.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -56,7 +56,8 @@ Hey, what are you saying?");
         ChMouth(7,1);
         ChMotion(7,5);
         VoicePlay("B040723102_07_040");
-        MsgDisp("Mikage","Umm? ....");
+        MsgDisp("Mikage","Umm?
+....");
         MsgDisp("主人公","What's wrong?");
         ChEye(7,1);
         ChMouth(7,0);
@@ -78,8 +79,8 @@ It's not that dangerous of a ride though.");
         ChMotion(7,4);
         ChEyeOpenLevel(7,10);
         VoicePlay("B040723102_07_070");
-        MsgDisp("Mikage","That's right, what if this thing moved
-super fast, but in a low place?
+        MsgDisp("Mikage","That's right, what if this thing moved super
+fast, but in a low place?
 Maybe even underground?");
         MsgDisp("主人公","An underground rollercoaster?");
         ChEye(7,0);
@@ -94,10 +95,10 @@ avoiding plant roots.");
         ChMotion(7,2);
         ChEyeOpenLevel(7,7);
         VoicePlay("B040723102_07_090");
-        MsgDisp("Mikage","If we overdo it, the crops won't be able
-to grow though?");
-        MsgDisp("主人公","(Hehe, looks like ｛Mikage＊＊｝ really
-does not like high places.)");
+        MsgDisp("Mikage","If we overdo it, the crops won't be able to
+grow though?");
+        MsgDisp("主人公","(Hehe, looks like ｛Mikage＊＊｝ really does
+not like high places.)");
         break ;
         default :
         DbgAssert(1);

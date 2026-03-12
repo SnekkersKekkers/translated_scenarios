@@ -5,8 +5,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030311000_03_000");
-MsgDisp("Honda","I think it's amazing to be able to
-completely control your body underwater.");
+MsgDisp("Honda","I think it's amazing to be able to completely
+control your body underwater.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();

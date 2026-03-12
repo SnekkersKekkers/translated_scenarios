@@ -5,9 +5,9 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040709001_07_000");
-MsgDisp("Mikage","Is that okay～? One sketch of something
-that catches your eye. This is today's
-assignment.");
+MsgDisp("Mikage","Is that okay～?
+One sketch of something that catches your
+eye. This is today's assignment.");
 MsgSel("I'll draw a pretty flower!","I'll sketch ｛Mikage＊＊｝'s hair!","Would a flying butterfly be okay?");
 switch (MsgSelRsltGet()){
     case 0:

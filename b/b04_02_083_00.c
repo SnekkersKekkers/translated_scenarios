@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040208300_02_000");
-MsgDisp("Sassa","With this heat, the fireflies might be
-worn out too, huh?");
+MsgDisp("Sassa","With this heat, the fireflies might be worn
+out too, huh?");
 MsgSel("Will they be alright...?","I can't wait for nighttime","It's more refreshing here than elsewhere though?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040208300_02_010");
     MsgDisp("Sassa","That's right. They went to the trouble of
-becoming adults, so I want them to spend
-this time happily at least.");
+becoming adults, so I want them to spend this
+time happily at least.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,7 @@ this time happily at least.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040208300_02_020");
-    MsgDisp("Sassa","Somewhat, it's like you've become a
-firefly.");
+    MsgDisp("Sassa","Somewhat, it's like you've become a firefly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

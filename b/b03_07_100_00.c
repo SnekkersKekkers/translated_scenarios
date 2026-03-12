@@ -19,9 +19,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B030710000_07_010");
-MsgDisp("Mikage","Aw, don't say that. Since we're all
-together, there's new stuff to see, right?
-So then, let's go.");
+MsgDisp("Mikage","Aw, don't say that.
+Since we're all together, there's new stuff
+to see, right? So then, let's go.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","(Is ｛Mikage＊＊｝ being a little
 half-hearted?)");

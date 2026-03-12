@@ -34,7 +34,7 @@ so it'll be alright, right...?)");
 SEPlay("EV_SE_DOOR_019");
 Wait(50,0);
 VoicePlay("F100740002_07_000");
-MsgDisp("Mikage","Oh, you're all awfully quiet tod——");
+MsgDisp("Mikage","Oh, you're all awfully quiet tod—");
 VoicePlay("F100740002_07_010");
 MsgDisp("Mikage","Gah, Vice-Principal Himuro∋");
 ChEye(32,0);
@@ -50,7 +50,7 @@ MsgClose();
 ChOpen(7,254,0,2,0,#1,#1,0,2);
 VoicePlay("F100740002_07_020");
 MsgDisp("Mikage","Ahhh, is that so?
-Then, let's go outs——");
+Then, let's go outs—");
 VoicePlay("F100740002_32_020");
 MsgDisp("VP Himuro","Here is fine.");
 ChEye(7,2);

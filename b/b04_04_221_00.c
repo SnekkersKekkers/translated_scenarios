@@ -6,7 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040422100_04_000");
-MsgDisp("Nanatsumori","Hmー.
+MsgDisp("Nanatsumori","Hm—.
 The view is nice, as I thought.");
 MsgSel("You can see the whole of Habataki City in one sweep of the eye▼","Just the scenery?","I'm happy to see this with ｛Nanatsumori＊｝.");
 switch (MsgSelRsltGet()){
@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     VoicePlay("B040422100_04_010");
     MsgDisp("Nanatsumori","The city, the sea, the mountains, too.
-You can see it allー.");
+You can see it all—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +35,7 @@ You can see it allー.");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("B040422100_04_030");
-    MsgDisp("Nanatsumori","...Well, I'm also glad it's you next to
-me.");
+    MsgDisp("Nanatsumori","...Well, I'm also glad it's you next to me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -10,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","I didn't expect ｛Himuro＊＊｝ to choose a
-place like this.");
+MsgDisp("主人公","I didn't expect ｛Himuro＊＊｝ to choose a place
+like this.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -36,16 +36,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B360623600_06_030");
-MsgDisp("Himuro","I feel like I understand a lot of things
-now.");
+MsgDisp("Himuro","I feel like I understand a lot of things now.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360623600_06_040");
 MsgDisp("Himuro","I always disliked flashy places like this,
-and I couldn't understand the people who
-went to them.");
+and I couldn't understand the people who went
+to them.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

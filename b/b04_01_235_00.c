@@ -32,8 +32,7 @@ I understood that quite well.");
     ChMotion(1,0);
     VoicePlay("B040123500_01_020");
     MsgDisp("Kazama","Oi, are you alright?
-You're banned for haunted houses from now
-on.");
+You're banned for haunted houses from now on.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +45,8 @@ on.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040123500_01_030");
     MsgDisp("Kazama","The one who's the problem is you.
-Listen, this only works if both parties
-play along.");
+Listen, this only works if both parties play
+along.");
     MsgDateResultDisp();
     break ;
     default :

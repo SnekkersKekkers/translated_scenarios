@@ -46,7 +46,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110501100_05_030");
-MsgDisp("Hiiragi","It looked so tasty when you ate it——");
+MsgDisp("Hiiragi","It looked so tasty when you ate it—");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChMouth(5,0);

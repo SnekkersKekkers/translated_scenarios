@@ -31,9 +31,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360217001_02_030");
-MsgDisp("Sassa","Hmm, I listened to it so much during
-training that when I hear those songs,
-my body just starts moving on its own.");
+MsgDisp("Sassa","Hmm, I listened to it so much during training
+that when I hear those songs, my body just
+starts moving on its own.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -67,9 +67,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360217001_02_080");
-MsgDisp("Sassa","Right? They'll mess with you as soon as
-they spot an opening. You better be
-careful too.");
+MsgDisp("Sassa","Right?
+They'll mess with you as soon as they spot an
+opening. You better be careful too.");
 MsgDisp("主人公","(It seems like it would be tough if they
 found out about today too?)");
 BGMStop();

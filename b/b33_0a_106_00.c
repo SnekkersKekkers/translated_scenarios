@@ -26,8 +26,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10600_01_000");
-MsgDisp("Kazama","I was forcefully dragged into that
-world...");
+MsgDisp("Kazama","I was forcefully dragged into that world...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -54,8 +53,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A10600_02_010");
 MsgDisp("Sassa","Hahaha!
-Now that you mention it, Inori was so
-drawn in, his body started moving to it.");
+Now that you mention it, Inori was so drawn
+in, his body started moving to it.");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
@@ -129,8 +128,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10600_01_050");
-MsgDisp("Kazama","Normally, he's the one who hates that sort
-of thing the most...");
+MsgDisp("Kazama","Normally, he's the one who hates that sort of
+thing the most...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -138,8 +137,8 @@ ChEyeOpenLevel(6,0);
 ChCheek(6,5);
 VoicePlay("B330A10600_06_030");
 MsgDisp("Himuro","...I don't even understand it myself.
-Maybe the impact of the Indian movie was
-so strong, I went crazy...");
+Maybe the impact of the Indian movie was so
+strong, I went crazy...");
 MsgDisp("主人公","(Ehh∋
 I wonder if ｛Himuro＊＊｝ is okay...?)");
 MsgClose();

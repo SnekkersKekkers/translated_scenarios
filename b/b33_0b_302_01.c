@@ -15,8 +15,8 @@ MsgDisp("主人公","There's a lot of seabirds.");
 ChMotion(4,1,1);
 VoicePlay("B330B30201_04_000");
 MsgDisp("Nanatsumori","Yeah.
-There's a bird feeding experience, but do
-you want to do it?");
+There's a bird feeding experience, but do you
+want to do it?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -72,11 +72,11 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("B330B30201_03_010");
 MsgDisp("Honda","Ahh!
-The sea birds are only gathering around
-the food in Mi-kun's hand!");
-MsgDisp("主人公","｛Nanatsumori＊｝ is tall so it looks like
-all the birds gather in a place they can
-easily take the food right?");
+The sea birds are only gathering around the
+food in Mi-kun's hand!");
+MsgDisp("主人公","｛Nanatsumori＊｝ is tall so it looks like all
+the birds gather in a place they can easily
+take the food right?");
 SEStop("EV_SE_729",4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
@@ -103,8 +103,8 @@ ChMotion(4,0,1);
 VoicePlay("B330B30201_04_040");
 MsgDisp("Nanatsumori","Not a chance.
 Why don't you both try jumping up?");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems to be having fun,
-but not from feeding the seagulls...?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to be having fun, but
+not from feeding the seagulls...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

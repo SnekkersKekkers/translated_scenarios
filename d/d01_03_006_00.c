@@ -58,7 +58,7 @@ VoicePlay("D010300600_03_050");
 MsgDisp("Honda","Huh?
 What?");
 MsgDisp("主人公","We're still at work right now and if someone
-were to see us——");
+were to see us—");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300600_03_060");

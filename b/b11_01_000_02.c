@@ -8,9 +8,9 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("主人公","｛Kazama＊＊｝ sure is late...");
 VoicePlay("B110100002_35_000");
-MsgDisp("Guy?","Hmm, I can't do this without getting at
-least one. I finally found my cash cow...
-no, I mean, talent!");
+MsgDisp("Guy?","Hmm, I can't do this without getting at least
+one. I finally found my cash cow... no, I
+mean, talent!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,1,0,#1,#1,0,0);
@@ -23,8 +23,8 @@ ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110100002_35_020");
 MsgDisp("Guy","Yeah, I won't let other agencies have you.
-How about we cut out the middle man and do
-80 percent management?");
+How about we cut out the middle man and do 80
+percent management?");
 MsgDisp("主人公","What does that mean?");
 ChEye(35,2);
 ChMouth(35,0);

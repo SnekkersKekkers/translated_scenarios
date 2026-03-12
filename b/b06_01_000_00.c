@@ -22,8 +22,8 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,3);
     VoicePlay("B060100000_01_010");
     MsgDisp("Kazama","Thanks for today.
-Today made me think—I'm glad I came
-back here.");
+Today made me think—I'm glad I came back
+here.");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -35,8 +35,7 @@ back here.");
     ChCheek(1,5);
     ScrFadeIn(0);
     VoicePlay("B060100000_01_020");
-    MsgDisp("Kazama","Geez...the whole day flew by because of
-you.
+    MsgDisp("Kazama","Geez...the whole day flew by because of you.
 Next time, I'll be the one to invite you.");
     MsgDispSksp(0);
     break ;

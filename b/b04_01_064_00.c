@@ -13,8 +13,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B040106400_01_010");
 MsgDisp("Kazama","Well, you know.
-It's not like I could take you out when I
-was in kindergarten.");
+It's not like I could take you out when I was
+in kindergarten.");
 MsgDisp("主人公","Hehe.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -28,8 +28,8 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B040106400_01_030");
-MsgDisp("Kazama","That's right, I'm buying a ton of things
-at these stalls!");
+MsgDisp("Kazama","That's right, I'm buying a ton of things at
+these stalls!");
 MsgDisp("主人公","Hehe, just like I'd expect from you.");
 ChEye(1,0);
 ChMouth(1,1);
@@ -43,14 +43,13 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B040106400_01_050");
 MsgDisp("Kazama","Say what you want, don't be shy about it.");
 MsgDisp("主人公","Hehe, in that case...
-From here all the way to over there, I
-want it all!");
+From here all the way to over there, I want
+it all!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B040106400_01_060");
-MsgDisp("Kazama","Well, you're the one who 
-said it.
+MsgDisp("Kazama","Well, you're the one who said it.
 You can't take it back now.");
 MsgClose();
 SEPlay("EV_SE_568");
@@ -60,8 +59,8 @@ VoicePlay("B040106400_01_070");
 MsgDisp("Kazama","Excuse me.
 One candied apple, please.");
 VoicePlay("B040106400_36_000");
-MsgDisp("Market Clerk","Right away! ...Oh?
-You're Kazama-san's boy!
+MsgDisp("Market Clerk","Right away!
+...Oh? You're Kazama-san's boy!
 Alright, this is on the house!");
 VoicePlay("B040106400_01_080");
 MsgDisp("Kazama","Oh, thank you very much.");

@@ -14,7 +14,7 @@ MsgDisp("Honda","Gaah, sorry, I was staring!
 But you know, that outfit of yours is just
 unfair.");
 MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like clothes like
-this, too.)");
+｛Honda＊＊｝ seems to like clothes like this,
+too.)");
 ChEyeOpenLevel(3,#1);
 ChCheek(3,0);

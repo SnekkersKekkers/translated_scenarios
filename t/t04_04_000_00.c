@@ -10,7 +10,7 @@ NSSOpen(4,254,2,4,10,#1,10);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("T040400000_04_000");
-MsgDisp("Nanatsumori","Ahー...");
+MsgDisp("Nanatsumori","Ah—...");
 MsgDisp("主人公","What's wrong?
 ｛Nanatsumori＊｝'s face is bright red.");
 VoicePlay("T040400000_04_010");

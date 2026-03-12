@@ -38,8 +38,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040206500_02_030");
-    MsgDisp("Sassa","When the firework show ends, it really
-feels like summer vacation is over.");
+    MsgDisp("Sassa","When the firework show ends, it really feels
+like summer vacation is over.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

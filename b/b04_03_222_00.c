@@ -6,8 +6,8 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040322200_03_000");
-MsgDisp("Honda","There's so much display items here that
-are valuable enough to be put in a museum.");
+MsgDisp("Honda","There's so much display items here that are
+valuable enough to be put in a museum.");
 MsgSel("A letter from 100 years ago?","A beautiful katana","This armor and helmet
  looks heavy...");
 switch (MsgSelRsltGet()){
@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040322200_03_010");
     MsgDisp("Honda","Yep yep, that looks like an IOU.
-The feudal lord borrowed money from a
-wealthy merchant.");
+The feudal lord borrowed money from a wealthy
+merchant.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,9 +30,9 @@ wealthy merchant.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040322200_03_020");
-    MsgDisp("Honda","That's right. Sword scabbards were
-actually made as fashion items depending
-on the era.");
+    MsgDisp("Honda","That's right.
+Sword scabbards were actually made as fashion
+items depending on the era.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

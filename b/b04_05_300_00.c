@@ -8,8 +8,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B040530000_05_000");
-MsgDisp("Hiiragi","There's nothing special here, but please
-make yourself at home.");
+MsgDisp("Hiiragi","There's nothing special here, but please make
+yourself at home.");
 MsgSel("It's a wonderful room!","It's a boyish room","...It's a unique room, huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +30,8 @@ I'm not here very often though.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040530000_05_020");
-    MsgDisp("Hiiragi","My room has definitely been like this
-since I was a child.");
+    MsgDisp("Hiiragi","My room has definitely been like this since I
+was a child.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -44,8 +44,7 @@ since I was a child.");
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040530000_05_030");
-    MsgDisp("Hiiragi","It reflects my personality huh...which
-part?");
+    MsgDisp("Hiiragi","It reflects my personality huh...which part?");
     MsgDateResultDisp();
     break ;
     default :

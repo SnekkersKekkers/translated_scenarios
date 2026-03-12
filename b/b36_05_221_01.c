@@ -32,9 +32,8 @@ MsgDisp("Hiiragi","Yeah, I wanted to see it with you.");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360522101_05_040");
-MsgDisp("Hiiragi","If I had invited Inori-kun and
-Mikage-sensei as well, we would have made
-it on time──");
+MsgDisp("Hiiragi","If I had invited Inori-kun and Mikage-sensei
+as well, we would have made it on time──");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);
@@ -45,8 +44,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(5,0,30);
 VoicePlay("B360522101_05_060");
-MsgDisp("Hiiragi","We can see the castle being dyed in red
-from here.
+MsgDisp("Hiiragi","We can see the castle being dyed in red from
+here.
 It looks beautiful.");
 MsgDisp("主人公","Ah, you're right...
 The castle and sky are both dyed red.");

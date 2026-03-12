@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040523400_05_010");
-    MsgDisp("Hiiragi","No no, the kids around us were surprised
-too.");
+    MsgDisp("Hiiragi","No no, the kids around us were surprised too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

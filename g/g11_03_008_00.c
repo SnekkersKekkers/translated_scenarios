@@ -55,7 +55,7 @@ ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300800_03_040");
-MsgDisp("Honda","Ah, you want this one tooー!");
+MsgDisp("Honda","Ah, you want this one too—!");
 MsgDisp("主人公","That's because ｛Honda＊＊｝ was holding it
 so dearly.");
 ChEye(3,1);

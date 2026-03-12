@@ -42,8 +42,8 @@ switch (MsgSelRsltGet()){
         ChMouth(4,1);
         ChMotion(4,1,1);
         VoicePlay("B040423402_04_030");
-        MsgDisp("Nanatsumori","You don't need to do that, my head is
-already spinning.");
+        MsgDisp("Nanatsumori","You don't need to do that, my head is already
+spinning.");
         MsgDisp("主人公","Are you tired?");
         ChEye(4,0);
         ChMouth(4,0);
@@ -61,12 +61,12 @@ already spinning.");
         ChMotion(4,1,1);
         VoicePlay("B040423402_04_060");
         MsgDisp("Nanatsumori","......");
-        MsgDisp("主人公","? Why are you laughing?");
+        MsgDisp("主人公","?
+Why are you laughing?");
         ChMotion(4,0,1);
         VoicePlay("B040423402_04_070");
         MsgDisp("Nanatsumori","I wonder why?");
-        MsgDisp("主人公","Somehow, ｛Nanatsumori＊｝, looks a bit
-mean...");
+        MsgDisp("主人公","Somehow, ｛Nanatsumori＊｝, looks a bit mean...");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);

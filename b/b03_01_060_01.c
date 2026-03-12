@@ -24,8 +24,8 @@ Alright?");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B030106000_01_030");
-    MsgDisp("Kazama","It's a rocky place out here, so you'll
-hurt yourself if you fall.
+    MsgDisp("Kazama","It's a rocky place out here, so you'll hurt
+yourself if you fall.
 No running, okay?");
     break ;
     default :

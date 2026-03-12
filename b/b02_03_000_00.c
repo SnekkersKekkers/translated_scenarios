@@ -12,5 +12,5 @@ MsgDisp("Honda","Total opposite!
 It fits you amazingly well!
 I love what you're wearing!");
 MsgDisp("主人公","(I'm glad!
-｛Honda＊＊｝ seems to really like this kind
-of fashion!)");
+｛Honda＊＊｝ seems to really like this kind of
+fashion!)");

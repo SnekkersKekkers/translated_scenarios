@@ -30,8 +30,7 @@ They used a large sleigh to carry it.");
     ChMotion(3,1);
     VoicePlay("B040322101_03_020");
     MsgDisp("Honda","Yep yep, that huge pillar is Zelkova.
-It's hard and sturdy, with beautiful
-grain!");
+It's hard and sturdy, with beautiful grain!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,7 +41,7 @@ grain!");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("B040322101_03_030");
-    MsgDisp("Honda","Ahー, that, huh～
+    MsgDisp("Honda","Ah—, that, huh～
 I'll look into it properly next time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

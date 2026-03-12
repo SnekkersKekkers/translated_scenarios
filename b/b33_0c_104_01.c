@@ -81,9 +81,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10401_07_030");
-MsgDisp("Mikage","I read somewhere that it's based on
-empathy. People close to you are
-apparently more likely to catch it.");
+MsgDisp("Mikage","I read somewhere that it's based on empathy.
+People close to you are apparently more
+likely to catch it.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1,1);
@@ -94,7 +94,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C10401_06_040");
-MsgDisp("Himuro","Ha? What are you saying?
+MsgDisp("Himuro","Ha?
+What are you saying?
 Let's go to the gazebo.");
 MsgClose();
 SEPlay("EV_SE_626");
@@ -108,14 +109,13 @@ ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(7,255,0,0,0,#1,#1,0,3,0,30);
 ChMotion(5,4);
 VoicePlay("B330C10401_05_030");
-MsgDisp("Hiiragi","Inori-kun is the only one who's not
-infected.");
+MsgDisp("Hiiragi","Inori-kun is the only one who's not infected.");
 ChEye(7,2);
 ChMouth(7,2);
 ChMotion(7,2);
 VoicePlay("B330C10401_07_050");
-MsgDisp("Mikage","Wouldn't it be nice if he sympathized with
-me a bit more?");
+MsgDisp("Mikage","Wouldn't it be nice if he sympathized with me
+a bit more?");
 MsgDisp("主人公","Hehe.
 ｛Mikage＊＊｝, are you feeling down?");
 ChMouth(7,4);
@@ -137,8 +137,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10401_05_050");
-MsgDisp("Hiiragi","Hehe, I don't think there's any need to
-try.");
+MsgDisp("Hiiragi","Hehe, I don't think there's any need to try.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

@@ -6,8 +6,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040110300_01_000");
-MsgDisp("Kazama","The artist who spread his wings from
-Habataki into the greater world.
+MsgDisp("Kazama","The artist who spread his wings from Habataki
+into the greater world.
 His teenage works can only be seen here.");
 MsgSel("Wasn't some of it donated to Haba High?","Both he and his works are beautiful","He seems like one of Vice Principal Himuro's students.");
 switch (MsgSelRsltGet()){
@@ -42,8 +42,8 @@ activities, though.");
     ChMotion(1,3);
     VoicePlay("B040110300_01_030");
     MsgDisp("Kazama","Vice-Principal Himuro's name makes it feel
-familiar. Maybe he told him, \"Mihara,
-attend your remedial lessons.\"");
+familiar. Maybe he told him, \"Mihara, attend
+your remedial lessons.\"");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

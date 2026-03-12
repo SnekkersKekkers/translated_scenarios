@@ -20,8 +20,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360618001_06_010");
 MsgDisp("Himuro","Fun isn't really the issue.
-I'm just not good at getting along with
-other people.");
+I'm just not good at getting along with other
+people.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -29,7 +29,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B360618001_06_020");
 MsgDisp("Himuro","...Plus, everyone's after you.");
 MsgDisp("主人公","Huh?
-That's not true——");
+That's not true—");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -40,8 +40,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360618001_06_040");
-MsgDisp("Himuro","You were showing everyone that innocent
-face of yours.
+MsgDisp("Himuro","You were showing everyone that innocent face
+of yours.
 It was like you meant to charm them all.");
 MsgDisp("主人公","I wasn't doing that!");
 SEPlay("EV_SE_587");
@@ -63,9 +63,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0,1);
 VoicePlay("B360618001_06_070");
-MsgDisp("Himuro","It's nothing...I just think from an
-outside perspective, that might've looked
-like a lover's quarrel.");
+MsgDisp("Himuro","It's nothing...
+I just think from an outside perspective,
+that might've looked like a lover's quarrel.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

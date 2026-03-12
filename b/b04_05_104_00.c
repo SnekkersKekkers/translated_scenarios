@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040510400_05_010");
-    MsgDisp("Hiiragi","Legs? Are you tired already?
+    MsgDisp("Hiiragi","Legs?
+Are you tired already?
 Oh, you mean the insect legs?");
     MsgDateResultDisp();
     break ;
@@ -28,8 +29,7 @@ Oh, you mean the insect legs?");
     ChMotion(5,2);
     VoicePlay("B040510400_05_020");
     MsgDisp("Hiiragi","Eh, is that so...
-Let's pass by the butterfly specimen
-corner.");
+Let's pass by the butterfly specimen corner.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -39,8 +39,8 @@ corner.");
     ChMotion(5,3);
     VoicePlay("B040510400_05_030");
     MsgDisp("Hiiragi","That's precisely it! Butterflies that fly
-thousands of kilometers...Amazing would be
-an understatement.");
+thousands of kilometers...
+Amazing would be an understatement.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

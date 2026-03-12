@@ -38,8 +38,7 @@ Show me your skills first.");
     ChMotion(6,0);
     VoicePlay("B040615200_06_030");
     MsgDisp("Himuro","...Got it.
-We're here, so might as well have some
-fun.");
+We're here, so might as well have some fun.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

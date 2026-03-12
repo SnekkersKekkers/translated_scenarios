@@ -43,15 +43,15 @@ life.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040223402_02_040");
-        MsgDisp("Sassa","But, I have experience with throwing
-events that use centrifugal force, but
-this was a different level.");
+        MsgDisp("Sassa","But, I have experience with throwing events
+that use centrifugal force, but this was a
+different level.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040223402_02_050");
-        MsgDisp("Sassa","But you might have the skills of an
-astronaut or fighter pilot.");
+        MsgDisp("Sassa","But you might have the skills of an astronaut
+or fighter pilot.");
         MsgDisp("主人公","Ehh?");
         ChEye(2,0);
         ChMouth(2,0);
@@ -66,8 +66,8 @@ You're just simple minded?");
         ChMotion(2,0);
         ChCheek(2,10);
         VoicePlay("B040223402_02_070");
-        MsgDisp("Sassa","But whether it's the former or latter, I
-like both versions of you.");
+        MsgDisp("Sassa","But whether it's the former or latter, I like
+both versions of you.");
         MsgDisp("主人公","The astronaut me...?");
         ChEye(2,3);
         ChMouth(2,3);
@@ -83,9 +83,9 @@ What do you think of me liking you?");
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040223402_02_090");
-        MsgDisp("Sassa","Yeah. I'm glad that you're pleased with
-it. I'll get better at spinning and come
-back again.");
+        MsgDisp("Sassa","Yeah.
+I'm glad that you're pleased with it. I'll
+get better at spinning and come back again.");
         MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ said that he likes me!)");
         break ;
         default :

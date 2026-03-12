@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040101101_01_010");
     MsgDisp("Kazama","Right.
-Can't you see everyone living their
-frantic, busy everyday lives?");
+Can't you see everyone living their frantic,
+busy everyday lives?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,9 +30,9 @@ frantic, busy everyday lives?");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040101101_01_020");
-    MsgDisp("Kazama","That's because of the speed of the
-elevator. Have you tried pinching your
-nose and popping your ears?");
+    MsgDisp("Kazama","That's because of the speed of the elevator.
+Have you tried pinching your nose and popping
+your ears?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,8 +43,8 @@ nose and popping your ears?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040101101_01_030");
-    MsgDisp("Kazama","You're really the type to attract that
-kind of stuff, aren't you.
+    MsgDisp("Kazama","You're really the type to attract that kind
+of stuff, aren't you.
 You're something else, you know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

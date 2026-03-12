@@ -11,8 +11,8 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("B070500000_05_210");
 MsgDisp("Hiiragi","No, it's not something to be praised for.
-To be specific, I collect cleaning
-supplies. I can't help but buy them.");
+To be specific, I collect cleaning supplies.
+I can't help but buy them.");
 MsgDisp("主人公","I see, but that seems fun.");
 ChEye(5,3);
 ChMotion(5,0);
@@ -27,11 +27,11 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,2);
 VoicePlay("B070500000_05_230");
-MsgDisp("Hiiragi","Ah, recently I've been interested in
-cleaning robots.
+MsgDisp("Hiiragi","Ah, recently I've been interested in cleaning
+robots.
 They're rather unorthodox.");
-MsgDisp("主人公","(A cleaning showdown between ｛Hiiragi＊＊＊｝
-and a cleaning robot...
+MsgDisp("主人公","(A cleaning showdown between ｛Hiiragi＊＊＊｝ and
+a cleaning robot...
 I'm kind of curious.)");
 BGMStop();
 MsgClose();

@@ -34,7 +34,7 @@ ChMotion(2,3);
 VoicePlay("G020210201_02_040");
 MsgDisp("Sassa","Not like that.
 I mean, I want you to notice that I have
-feelings for you——");
+feelings for you—");
 ChEye(2,5);
 ChMouth(2,2);
 ChMotion(2,5);

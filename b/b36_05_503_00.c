@@ -25,8 +25,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550300_05_020");
 MsgDisp("Hiiragi","Yeah.
-Being with Mikage-sensei and Inori-kun
-makes my head a little tired.");
+Being with Mikage-sensei and Inori-kun makes
+my head a little tired.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550300_05_030");
@@ -52,8 +52,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("B360550300_05_060");
 MsgDisp("Hiiragi","Why are you so surprised?");
-MsgDisp("主人公","Even an amazing person like ｛Hiiragi＊＊＊｝
-can feel that way...");
+MsgDisp("主人公","Even an amazing person like ｛Hiiragi＊＊＊｝ can
+feel that way...");
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("B360550300_05_070");
@@ -62,8 +62,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B360550300_05_080");
-MsgDisp("Hiiragi","If that's the case, how can I describe
-you?
+MsgDisp("Hiiragi","If that's the case, how can I describe you?
 You make me feel this way.");
 MsgDisp("主人公","(Huh?
 It's troubling if you say that...)");

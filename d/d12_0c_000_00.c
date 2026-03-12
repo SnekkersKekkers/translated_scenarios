@@ -50,7 +50,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("D120C00000_07_000");
-MsgDisp("Mikage?","You guysー You have a good nose, huh?");
+MsgDisp("Mikage?","You guys— You have a good nose, huh?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4,1);

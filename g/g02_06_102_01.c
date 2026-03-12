@@ -40,7 +40,7 @@ ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("G020610201_06_050");
 MsgDisp("Himuro","It's because I like it that I'm
-troubled——");
+troubled—");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

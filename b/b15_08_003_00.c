@@ -27,7 +27,7 @@ VoicePlay("B150800300_08_030");
 MsgDisp("Shirahane","But, it's no good, I can't endure this.");
 ChMouth(8,4);
 VoicePlay("B150800300_08_040");
-MsgDisp("Shirahane","If we don't stop this now——");
+MsgDisp("Shirahane","If we don't stop this now—");
 ChMotion(8,0,1);
 ChCheek(8,8);
 VoicePlay("B150800300_08_050");
@@ -37,12 +37,11 @@ ChEye(8,4);
 ChMouth(8,4);
 ChEyeOpenLevel(8,10);
 VoicePlay("B150800300_08_060");
-MsgDisp("Shirahane","It's easier to understand if I'm blunt
-right?");
+MsgDisp("Shirahane","It's easier to understand if I'm blunt right?");
 ChMotion(8,0,1);
 VoicePlay("B150800300_08_070");
-MsgDisp("Shirahane","I don't want to do that, so I'm telling
-you directly.");
+MsgDisp("Shirahane","I don't want to do that, so I'm telling you
+directly.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,4,1);

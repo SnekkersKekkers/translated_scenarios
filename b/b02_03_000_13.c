@@ -9,8 +9,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B020300013_03_010");
-MsgDisp("Honda","No way! It's so beautiful, I was totally
-captivated. Look, even my heart is
-speeding up!");
+MsgDisp("Honda","No way!
+It's so beautiful, I was totally captivated.
+Look, even my heart is speeding up!");
 MsgDisp("主人公","(｛Honda＊＊｝ seems to be pleased.
 I'm glad I wore this!)");

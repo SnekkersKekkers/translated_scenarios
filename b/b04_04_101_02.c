@@ -41,7 +41,7 @@ I've been defeated...");
         ChEyeOpenLevel(4,0);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040410102_04_030");
-        MsgDisp("Nanatsumori","Hmー.");
+        MsgDisp("Nanatsumori","Hm—.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -61,8 +61,8 @@ You're having fun, right?");
         ChMotion(4,1,1);
         VoicePlay("B040410102_04_060");
         MsgDisp("Nanatsumori","...Alright!
-Then, how about you be my teacher and show
-me how to enjoy this?");
+Then, how about you be my teacher and show me
+how to enjoy this?");
         MsgDisp("主人公","Eh?");
         ChEye(4,0);
         ChMouth(4,4);
@@ -74,8 +74,8 @@ I find it boring.");
         ChMouth(4,4);
         VoicePlay("B040410102_04_080");
         MsgDisp("Nanatsumori","Then, since you know the trick to enjoying
-it, if you lead, we can find common
-ground, right?");
+it, if you lead, we can find common ground,
+right?");
         MsgDisp("主人公","If we could, that would be great but...
 Is it really okay for me to be teacher?");
         ChEye(4,0);

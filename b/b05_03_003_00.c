@@ -13,8 +13,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("B050300300_03_010");
-MsgDisp("Honda","It looks like one is missing. １, ２,
-３...
+MsgDisp("Honda","It looks like one is missing. １, ２, ３...
 Like I thought.");
 MsgDisp("主人公","?");
 ChEye(3,2);
@@ -51,8 +50,8 @@ StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5);
 VoicePlay("B050300300_03_050");
-MsgDisp("Honda","Guso-kun was the one I fed the first time
-I came here with my family...");
+MsgDisp("Honda","Guso-kun was the one I fed the first time I
+came here with my family...");
 StlEye(3,0,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,0);
@@ -67,8 +66,8 @@ ChOpen(3,253,0,2,2,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050300300_03_070");
-MsgDisp("Honda","So I was hoping I got to feed him again
-when I came this time.");
+MsgDisp("Honda","So I was hoping I got to feed him again when
+I came this time.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -87,8 +86,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B050300300_03_100");
-MsgDisp("Honda","Keeping up the observation is what makes
-it meaningful!");
+MsgDisp("Honda","Keeping up the observation is what makes it
+meaningful!");
 MsgDisp("主人公","(｛Honda＊＊｝ is so sweet.)");
 BGMStop();
 ChPrmTblAdd(3,0);

@@ -6,8 +6,8 @@ ChMotion(3,1,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040303202_03_000");
-MsgDisp("Honda","The idea of aquatic organisms swimming in
-the sky is interesting.");
+MsgDisp("Honda","The idea of aquatic organisms swimming in the
+sky is interesting.");
 MsgSel("It'd be amazing if deep-sea fish swam in the sky.","It'd be very popular; a must-see!","Yeah, just like carp windsocks.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -22,8 +22,7 @@ switch (MsgSelRsltGet()){
         ChMotion(3,2);
         VoicePlay("B040303202_03_010");
         MsgDisp("Honda","Deep-sea fish are really sensitive.
-They can't survive in outdoor
-environments.");
+They can't survive in outdoor environments.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -41,8 +40,7 @@ environments.");
         VoicePlay("B040303202_03_030");
         MsgDisp("Honda","No, no. I'm the one who should be
 apologizing. Viewing deep-sea creatures in
-above-ground tanks is already pretty
-absurd.");
+above-ground tanks is already pretty absurd.");
         MsgDisp("主人公","Yeah, I guess so.");
         ChEye(3,0);
         ChMouth(3,3);
@@ -67,11 +65,11 @@ You're exaggerating.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040303202_03_060");
-        MsgDisp("Honda","But, if you weren't with me, my deep-sea
-fish would have never been able to fly
-through the sky.");
-        MsgDisp("主人公","(I'd be very happy if I was able to
-inspire ｛Honda＊＊｝)");
+        MsgDisp("Honda","But, if you weren't with me, my deep-sea fish
+would have never been able to fly through the
+sky.");
+        MsgDisp("主人公","(I'd be very happy if I was able to inspire
+｛Honda＊＊｝)");
         break ;
         default :
         DbgAssert(1);
@@ -97,9 +95,9 @@ attracts people to this facility.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040303202_03_080");
-    MsgDisp("Honda","That's true. People have been making fish
-swim in the sky since long ago. Look at
-kites, for example.");
+    MsgDisp("Honda","That's true.
+People have been making fish swim in the sky
+since long ago. Look at kites, for example.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

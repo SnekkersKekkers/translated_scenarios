@@ -6,8 +6,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040102201_01_000");
-MsgDisp("Kazama","This boat is great for just cruising
-around Habataki bay.");
+MsgDisp("Kazama","This boat is great for just cruising around
+Habataki bay.");
 MsgSel("Yeah, it's like we can go anywhere","Yeah, it's like there's a secret to it","Yeah, it's a real luxury liner");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +29,8 @@ want to go?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040102201_01_020");
-    MsgDisp("Kazama","What, like it's going to fly off into
-space if there's a crisis on Earth?");
+    MsgDisp("Kazama","What, like it's going to fly off into space
+if there's a crisis on Earth?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

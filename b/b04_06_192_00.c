@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,3);
     VoicePlay("B040619200_06_000");
     MsgDisp("Himuro","Like most people, you have a weakness for
-living things? That's good. I'm glad to
-see that reaction.");
+living things?
+That's good. I'm glad to see that reaction.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

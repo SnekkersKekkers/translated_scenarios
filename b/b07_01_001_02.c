@@ -1,21 +1,20 @@
-MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking
-to ｛Himuro＊＊｝ a lot, haven't you?");
+MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking to
+｛Himuro＊＊｝ a lot, haven't you?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_080");
-MsgDisp("Kazama","Inori is the one who's one-sidedly
-involving himself with me.");
+MsgDisp("Kazama","Inori is the one who's one-sidedly involving
+himself with me.");
 MsgDisp("主人公","But when you talk to ｛Himuro＊＊｝, you look
-like you're having so much fun,
-｛Kazama＊＊｝.");
+like you're having so much fun, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100001_01_090");
-MsgDisp("Kazama","...Inori isn't the type to get involved
-with people in the first place is he?");
+MsgDisp("Kazama","...Inori isn't the type to get involved with
+people in the first place is he?");
 MsgDisp("主人公","That's definitely true.");
 ChEye(1,4);
 ChMouth(1,2);

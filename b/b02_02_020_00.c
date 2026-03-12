@@ -25,5 +25,4 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B020202000_02_030");
 MsgDisp("Sassa","But he sure has a strong gaze...");
-MsgDisp("主人公","(｛Sassa＊＊｝ seems to be a little
-troubled?)");
+MsgDisp("主人公","(｛Sassa＊＊｝ seems to be a little troubled?)");

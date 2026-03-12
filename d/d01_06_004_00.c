@@ -73,14 +73,14 @@ MsgDisp("Himuro","...Huh?");
 VoicePlay("D010600400_41_040");
 MsgDisp("Student B","Legend has it that once Vice Principal Himuro
 caught a blackboard eraser before it fell on
-his head——");
+his head—");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600400_06_060");
 MsgDisp("Himuro","How does that catch just now have anything to
 do with that?");
 VoicePlay("D010600400_41_050");
-MsgDisp("Student B","It's because——");
+MsgDisp("Student B","It's because—");
 StlEye(6,1);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0);

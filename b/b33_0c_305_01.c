@@ -6,15 +6,14 @@ BGOpen("ne320",0);
 BGMPlay("BGM_PLACE_BALLING_DARTS",0.01);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","This darts corner has a grown-up
-atmosphere.");
+MsgDisp("主人公","This darts corner has a grown-up atmosphere.");
 MsgClose();
 ChOpen(7,255,1,0,0,#1,#1,0,3,0,30);
 ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,30);
 VoicePlay("B330C30501_07_000");
-MsgDisp("Mikage","Does it feel like that even more now that
-I'm here?");
+MsgDisp("Mikage","Does it feel like that even more now that I'm
+here?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
@@ -26,16 +25,16 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30501_05_000");
 MsgDisp("Hiiragi","Hehe.
-It might be even better if you only look
-at him from behind.");
+It might be even better if you only look at
+him from behind.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 ChEyeOpenLevel(7,8);
 VoicePlay("B330C30501_07_010");
 MsgDisp("Mikage","Oh.
-So even Yanosuke has started messing with
-me huh?");
+So even Yanosuke has started messing with me
+huh?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -50,15 +49,15 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C30501_06_010");
-MsgDisp("Himuro","Yanosuke-senpai, with that you're
-indirectly teasing me too.");
+MsgDisp("Himuro","Yanosuke-senpai, with that you're indirectly
+teasing me too.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30501_05_020");
 MsgDisp("Hiiragi","Huh.
-I thought you were doing that
-intentionally, were you not, Inori-kun?");
+I thought you were doing that intentionally,
+were you not, Inori-kun?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -96,8 +95,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C30501_07_050");
-MsgDisp("Mikage","Does it feel like that even more now that
-I'm here?");
+MsgDisp("Mikage","Does it feel like that even more now that I'm
+here?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -138,8 +137,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30501_07_070");
-MsgDisp("Mikage","Oh, yeah continue with that attitude from
-now on.");
+MsgDisp("Mikage","Oh, yeah continue with that attitude from now
+on.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(Hehe, everyone seems to be having fun!

@@ -27,8 +27,7 @@ This is pretty intense.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("B040723400_07_020");
-    MsgDisp("Mikage","And there's today's Miss Diligent
-moment.");
+    MsgDisp("Mikage","And there's today's Miss Diligent moment.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

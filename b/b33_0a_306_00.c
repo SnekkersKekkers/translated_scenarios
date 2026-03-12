@@ -62,15 +62,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("B330A30600_02_010");
-MsgDisp("Sassa","I see, maybe Inori's perspective is
-correct.
+MsgDisp("Sassa","I see, maybe Inori's perspective is correct.
 Maybe I'm too conservative.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A30600_01_010");
-MsgDisp("Kazama","But, isn't it a good movie for it to
-generate a variety of opinions?");
+MsgDisp("Kazama","But, isn't it a good movie for it to generate
+a variety of opinions?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
@@ -93,9 +92,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30600_06_040");
-MsgDisp("Himuro","Then, it's as Ryota-senpai says, let's
-head to a coffee shop and discuss our
-impressions.");
+MsgDisp("Himuro","Then, it's as Ryota-senpai says, let's head
+to a coffee shop and discuss our impressions.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

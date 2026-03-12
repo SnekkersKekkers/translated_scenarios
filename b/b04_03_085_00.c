@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0,1);
     VoicePlay("B040308500_03_010");
     MsgDisp("Honda","Eh?
-But you have to put your hand in the water
-to catch them, you know?");
+But you have to put your hand in the water to
+catch them, you know?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -25,8 +25,8 @@ to catch them, you know?");
     ChMouth(3,4);
     ChMotion(3,2);
     VoicePlay("B040308500_03_020");
-    MsgDisp("Honda","Right now they're trying very hard to
-catch food in the water");
+    MsgDisp("Honda","Right now they're trying very hard to catch
+food in the water");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -34,8 +34,8 @@ catch food in the water");
     ChSet(3,3);
     VoicePlay("B040308500_03_030");
     MsgDisp("Honda","Yep yep, that's right!
-There's an abundance of spring water, so
-the water temperature stays high.");
+There's an abundance of spring water, so the
+water temperature stays high.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

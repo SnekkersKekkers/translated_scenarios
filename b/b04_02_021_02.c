@@ -30,9 +30,9 @@ I think it's nice that they're handmade.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040202102_02_020");
-        MsgDisp("Sassa","I guess. The look of being perfectly
-aligned and the look of everything
-clashing, both are good.");
+        MsgDisp("Sassa","I guess.
+The look of being perfectly aligned and the
+look of everything clashing, both are good.");
         MsgDisp("主人公","Yeah, that's true.");
         ChEye(2,0);
         ChMouth(2,0);
@@ -44,9 +44,9 @@ one of them is different.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040202102_02_040");
-        MsgDisp("Sassa","Even though they differ in color and
-shape, they are spread out evenly and
-create a sense of unity.");
+        MsgDisp("Sassa","Even though they differ in color and shape,
+they are spread out evenly and create a sense
+of unity.");
         MsgDisp("主人公","That big brick looks kind of like
 ｛Sassa＊＊｝.");
         ChEye(2,3);
@@ -83,8 +83,8 @@ Principal Himuro, doesn't it?");
         VoicePlay("B040202102_02_090");
         MsgDisp("Sassa","And that one, with the weird haircut.
 It's Mikage-sensei!");
-        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ looks like he's
-enjoying himself.)");
+        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ looks like he's enjoying
+himself.)");
         break ;
         default :
         DbgAssert(1);

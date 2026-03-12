@@ -30,8 +30,8 @@ feasting on snails.");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040308501_03_020");
     MsgDisp("Honda","Yep yep! That story is found all over the
-world. Immortal sages, goddesses... It's
-in Aesop's Fables and Japanese folklore!");
+world. Immortal sages, goddesses...
+It's in Aesop's Fables and Japanese folklore!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,9 +42,9 @@ in Aesop's Fables and Japanese folklore!");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040308501_03_030");
-    MsgDisp("Honda","I won't fall but...The way you said it,
-are you expecting something to happen? I
-won't do it. That sort of thing...");
+    MsgDisp("Honda","I won't fall but... The way you said it, are
+you expecting something to happen?
+I won't do it. That sort of thing...");
     MsgDateResultDisp();
     break ;
     default :

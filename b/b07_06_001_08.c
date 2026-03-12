@@ -19,15 +19,14 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_570");
 MsgDisp("Himuro","To stare for no reason, to touch me for no
-reason, to hang out together for no
-reason...");
+reason, to hang out together for no reason...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_580");
 MsgDisp("Himuro","The fact that we're here now, like this is
-also probably just because you felt like
-it right?");
+also probably just because you felt like it
+right?");
 MsgDisp("主人公","That's not true!");
 ChEye(6,0);
 ChMouth(6,2);
@@ -46,9 +45,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_610");
-MsgDisp("Himuro","When I look at you, when I touch you, when
-I hang out with you, there's a reason for
-all of it.");
+MsgDisp("Himuro","When I look at you, when I touch you, when I
+hang out with you, there's a reason for all
+of it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

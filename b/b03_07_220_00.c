@@ -8,8 +8,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B030722000_07_000");
 MsgDisp("Mikage","Here's today's extra credit.
-I don't want to hear anything about it
-being boring or too normal.");
+I don't want to hear anything about it being
+boring or too normal.");
 VoicePlay("B030722000_38_000");
 MsgDisp("Students","Okaay.");
 ChEye(7,0);
@@ -26,8 +26,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,0);
     VoicePlay("B030722000_07_020");
     MsgDisp("Mikage","Alright then.
-I'll lead the castle tower group, so
-please follow me.");
+I'll lead the castle tower group, so please
+follow me.");
     MsgDisp("主人公","Okay!");
     ChEye(7,0);
     ChMouth(7,0);

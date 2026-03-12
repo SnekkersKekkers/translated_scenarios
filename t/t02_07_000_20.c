@@ -14,7 +14,7 @@ ChEyeOpenLevel(7,10);
 ChCheek(7,0);
 VoicePlay("T020700020_07_010");
 MsgDisp("Mikage","There it is, my precious serious girl.");
-MsgDisp("主人公","That...if you call me that——");
+MsgDisp("主人公","That...if you call me that—");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);

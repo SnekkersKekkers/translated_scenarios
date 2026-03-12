@@ -23,7 +23,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("Q070B00200_01_010");
 MsgDisp("Kazama","Yeah, there are plenty of buildings over a
-century old——");
+century old—");
 ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
@@ -39,7 +39,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q070B00200_01_020");
 MsgDisp("Kazama","...Yeah, that.
-And also——");
+And also—");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(4,1,1);

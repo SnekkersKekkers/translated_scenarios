@@ -31,8 +31,8 @@ Today we'll have good economic fortune?");
         ChMotion(5,4);
         VoicePlay("B040523202_05_020");
         MsgDisp("Hiiragi","Hmm...
-It's not a lottery, since there's no hit
-or miss?");
+It's not a lottery, since there's no hit or
+miss?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -41,8 +41,8 @@ or miss?");
         ChEye(5,4);
         ChMouth(5,0);
         VoicePlay("B040523202_05_030");
-        MsgDisp("Hiiragi","Hmm, if two people ride in a pink one,
-that indicates a fortune of love...");
+        MsgDisp("Hiiragi","Hmm, if two people ride in a pink one, that
+indicates a fortune of love...");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -72,8 +72,8 @@ that indicates a fortune of love...");
         MsgDisp("主人公","Hehe, it was yellow huh?");
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040523202_05_060");
-        MsgDisp("Hiiragi","It's not a lottery, since there's no hit
-or miss?");
+        MsgDisp("Hiiragi","It's not a lottery, since there's no hit or
+miss?");
         MsgDisp("主人公","Yellow looks like economic fortune.
 It seems like Habataki Theater Company's
 performance will go well?");
@@ -88,8 +88,8 @@ Thank you.");
         VoicePlay("B040523202_05_080");
         MsgDisp("Hiiragi","Yes.
 But...do you want to try again?");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you like fortune telling
-this much...)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you like fortune telling this
+much...)");
         break ;
         default :
         DbgAssert(1);
@@ -102,9 +102,9 @@ this much...)");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040523202_05_090");
-    MsgDisp("Hiiragi","Right. The yellow means an increase in
-economic fortune. That's not very exciting
-is it?");
+    MsgDisp("Hiiragi","Right.
+The yellow means an increase in economic
+fortune. That's not very exciting is it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

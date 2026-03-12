@@ -22,8 +22,8 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B30701_01_000");
-MsgDisp("Kazama","Definitely seems like something Honda
-would like.");
+MsgDisp("Kazama","Definitely seems like something Honda would
+like.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -42,14 +42,14 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30701_04_010");
 MsgDisp("Nanatsumori","A rhino huh.
-It's kind of like a dinosaur, and the
-movable parts look interesting.");
+It's kind of like a dinosaur, and the movable
+parts look interesting.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B30701_03_010");
 MsgDisp("Honda","Ah, you get it?
-I'm happyー!");
+I'm happy—!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -96,8 +96,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B30701_01_030");
-MsgDisp("Kazama","Once he starts, he won't stop until he
-goes all the way.
+MsgDisp("Kazama","Once he starts, he won't stop until he goes
+all the way.
 Give up.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -107,8 +107,8 @@ MsgDisp("Nanatsumori","Yeah, sorry.
 I'll buy the shoebill once I'm done
 listening.");
 MsgDisp("主人公","(Hehe.
-Seems like ｛Nanatsumori＊｝ really likes
-the shoebill model!)");
+Seems like ｛Nanatsumori＊｝ really likes the
+shoebill model!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

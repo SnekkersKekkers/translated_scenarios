@@ -6,7 +6,7 @@ VoicePlay("B070700000_07_060");
 MsgDisp("Mikage","Fresh meat and vegetables are truly
 delicious～");
 MsgDisp("主人公","Then, the stuff you like to eat are the
-vegetables you grew, ｛Mikage＊＊｝ ——");
+vegetables you grew, ｛Mikage＊＊｝ —");
 ChEye(7,3);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -31,8 +31,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B070700000_07_090");
 MsgDisp("Mikage","That's right.
-But, you know Hiyashi Chuuka is good
-without vegetables too?");
+But, you know Hiyashi Chuuka is good without
+vegetables too?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -46,8 +46,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700000_07_110");
-MsgDisp("Mikage","Yeah. But for some reason, it's not on
-the school cafeteria menu. If I have one
+MsgDisp("Mikage","Yeah. But for some reason, it's not on the
+school cafeteria menu. If I have one
 complaint about Habataki High, it's that.");
 MsgDisp("主人公","(That's true...why is that?)");
 BGMStop();

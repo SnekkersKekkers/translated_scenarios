@@ -6,8 +6,8 @@ ChMotion(7,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040703100_07_000");
-MsgDisp("Mikage","It's perfect for a class field trip, but
-the atmosphere is dark and a bit heavy.");
+MsgDisp("Mikage","It's perfect for a class field trip, but the
+atmosphere is dark and a bit heavy.");
 MsgSel("Are you scared of the dark?","Are you not good with aquariums?","Do you prefer the mountains over the ocean?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -42,8 +42,8 @@ But, aren't wide, open spaces better?");
     ChMotion(7,3);
     VoicePlay("B040703100_07_030");
     MsgDisp("Mikage","Oh, you know me well.
-I'm a man who has taken root in the earth
-and lives alongside vegetables.");
+I'm a man who has taken root in the earth and
+lives alongside vegetables.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

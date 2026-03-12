@@ -30,9 +30,8 @@ MsgDisp("Nanatsumori","Ah...well, that's right.");
 ChMotion(4,0,1);
 VoicePlay("B360417001_04_030");
 MsgDisp("Nanatsumori","What's with this suddenly?");
-MsgDisp("主人公","I just thought about how it would be
-cramped if the four of us tried to fit in
-this room.");
+MsgDisp("主人公","I just thought about how it would be cramped
+if the four of us tried to fit in this room.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

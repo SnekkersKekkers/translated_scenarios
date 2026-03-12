@@ -10,7 +10,6 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 VoicePlay("B060700003_07_000");
 MsgDisp("Mikage","Really?
-Though, if it helped in some way that's
-good.");
+Though, if it helped in some way that's good.");
 MsgClose();
 ScrFadeOut(0,0);

@@ -36,8 +36,8 @@ If so, let me hear it.");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("B040404300_04_020");
-    MsgDisp("Nanatsumori","Well, everyone has their likes and
-dislikes. But not enjoying a single thing?
+    MsgDisp("Nanatsumori","Well, everyone has their likes and dislikes.
+But not enjoying a single thing?
 That's rough...");
     MsgDateResultDisp();
     break ;

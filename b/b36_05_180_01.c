@@ -28,9 +28,9 @@ see it too.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B360518001_05_030");
-MsgDisp("Hiiragi","Yeah. But the image of four people
-standing in line and watching a movie
-together sounds like an odd scene.");
+MsgDisp("Hiiragi","Yeah. But the image of four people standing
+in line and watching a movie together sounds
+like an odd scene.");
 MsgDisp("主人公","Does it really?");
 ChEye(5,4);
 VoicePlay("B360518001_05_040");
@@ -55,8 +55,8 @@ ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("B360518001_05_080");
 MsgDisp("Hiiragi","...It's getting late.
-I'll take my time to reflect on the movie
-on my way home.");
+I'll take my time to reflect on the movie on
+my way home.");
 MsgDisp("主人公","Yeah!");
 BGMStop();
 MsgClose();

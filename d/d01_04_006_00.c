@@ -75,7 +75,7 @@ VoicePlay("D010400600_04_070");
 MsgDisp("Nanatsumori","That was my sister.
 You know, the one we talked about before?");
 MsgDisp("主人公","Ah...
-The one who's always toying with you——");
+The one who's always toying with you—");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
@@ -111,7 +111,7 @@ MsgDisp("Nanatsumori","A gentle older sister, huh...
 I guess you're right.");
 ChMotion(4,2,1);
 VoicePlay("D010400600_04_130");
-MsgDisp("Nanatsumori","Ahーh.
+MsgDisp("Nanatsumori","Ah—h.
 When will she finally let it go?");
 MsgDisp("主人公","(｛Nanatsumori＊｝ doesn't seem that bothered,
 really...

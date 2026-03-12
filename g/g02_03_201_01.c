@@ -62,7 +62,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020320101_03_090");
-MsgDisp("Honda","On that note—— why am I so drawn to you?");
+MsgDisp("Honda","On that note— why am I so drawn to you?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);

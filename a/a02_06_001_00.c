@@ -40,7 +40,7 @@ MsgDisp("主人公","(I've never seen him before...
 He wasn't wearing a uniform.)");
 MsgClose();
 VoicePlay("A020600100_32_030");
-MsgDisp("VP Himuro","——You.");
+MsgDisp("VP Himuro","—You.");
 MsgDisp("主人公","Y-YES!");
 SEPlay("EV_SE_544");
 ChOpen(32,254,0,0,0,#1,#1,0,0);

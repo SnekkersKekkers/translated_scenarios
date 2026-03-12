@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608500_06_000");
-MsgDisp("Himuro","There's a lonely feeling to the forest
-park in winter, isn't there?");
+MsgDisp("Himuro","There's a lonely feeling to the forest park
+in winter, isn't there?");
 MsgSel("This is a world built on transient beauty.","Even though I'm here?","I like it.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -40,8 +40,8 @@ Were you listening?");
     ChMotion(6,3);
     VoicePlay("B040608500_06_030");
     MsgDisp("Himuro","Heh, you see it differently than me.
-Tell me more. How about we sit on that
-bench over there and talk?");
+Tell me more. How about we sit on that bench
+over there and talk?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

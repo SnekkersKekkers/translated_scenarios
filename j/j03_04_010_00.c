@@ -45,7 +45,7 @@ at ｛待ち合わせ場所｝?");
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hoorayー!
+    MsgDisp("主人公","(Hooray—!
 I hope that ｛日付｝ comes soon!)");
     break ;
     case 4:
@@ -71,7 +71,7 @@ so I don't oversleep.
 Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hoorayー!
+    MsgDisp("主人公","(Hooray—!
 I hope that ｛日付｝ comes soon!)");
     break ;
     default :

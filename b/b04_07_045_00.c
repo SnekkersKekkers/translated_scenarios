@@ -39,8 +39,8 @@ I think so too.");
     ChMotion(7,5);
     VoicePlay("B040704500_07_030");
     MsgDisp("Mikage","Don't give it to them.
-You're not supposed to give or receive
-money during class field trips, right～?");
+You're not supposed to give or receive money
+during class field trips, right～?");
     MsgDateResultDisp();
     break ;
     default :

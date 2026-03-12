@@ -27,9 +27,9 @@ served the lords and people as retainers.");
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040110101_01_020");
-    MsgDisp("Kazama","This is an anecdote about them advising
-the lord of Habataki Castle to reduce
-taxes... The total opposite of today.");
+    MsgDisp("Kazama","This is an anecdote about them advising the
+lord of Habataki Castle to reduce taxes...
+The total opposite of today.");
     ChEye(1,0);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -43,8 +43,8 @@ taxes... The total opposite of today.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040110101_01_030");
     MsgDisp("Kazama","Yeah, yeah.
-But if I'm the young master, then who do
-you think you are, ordering me around?");
+But if I'm the young master, then who do you
+think you are, ordering me around?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -9,8 +9,7 @@ MsgDisp("Hiiragi","Hello, this is Hiiragi.");
 MsgDisp("主人公","Huh?
 ｛Hiiragi＊＊＊｝?");
 VoicePlay("B090500000_05_010");
-MsgDisp("Hiiragi","I just wanted to check if you were
-alright.
+MsgDisp("Hiiragi","I just wanted to check if you were alright.
 I'll be awaiting your message.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();

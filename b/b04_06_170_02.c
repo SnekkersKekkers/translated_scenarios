@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040617002_06_000");
-MsgDisp("Himuro","...How do I say this, I'm surprised you
-never get tired of this.");
+MsgDisp("Himuro","...How do I say this, I'm surprised you never
+get tired of this.");
 MsgSel("Of course not! It's fun","Isn't it about time for you to sing too ｛Himuro＊＊｝?","I put on \"Love Between the Waves\"!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040617002_06_010");
-    MsgDisp("Himuro","Well the fact that you're enjoying it is
-most important.");
+    MsgDisp("Himuro","Well the fact that you're enjoying it is most
+important.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -55,8 +55,7 @@ That's enough, just give up.");
         VoicePlay("B040617002_06_040");
         MsgDisp("Himuro","W-Wait!
 I can't sing!");
-        MsgDisp("主人公","If you don't know it, shall we sing
-together?");
+        MsgDisp("主人公","If you don't know it, shall we sing together?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -64,8 +63,7 @@ together?");
         VoicePlay("B040617002_06_050");
         MsgDisp("Himuro","...I know it.");
         MsgDisp("主人公","Eh!
-I want to hear ｛Himuro＊＊｝
-sing even more now.");
+I want to hear ｛Himuro＊＊｝ sing even more now.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

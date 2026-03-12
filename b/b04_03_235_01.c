@@ -5,9 +5,8 @@ MsgClose();
 ChOpen(3,255,4,0,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040323501_03_000");
-MsgDisp("Honda","The performance here changes without
-warning, so it's always tense, which is
-niceー.");
+MsgDisp("Honda","The performance here changes without warning,
+so it's always tense, which is nice—.");
 MsgSel("What's changed?","It'd be nice if it was always the same though...","Ah, I noticed that too!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -40,8 +39,7 @@ coming, isn't it?");
     ChMotion(3,3);
     VoicePlay("B040323501_03_030");
     MsgDisp("Honda","Nice!
-After this, let's check each other's
-answers!");
+After this, let's check each other's answers!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -28,17 +28,16 @@ MsgDisp("Kazama","Why you say, what will we do when we're
 riding it?");
 ChSet(3,3);
 VoicePlay("B330B30800_03_000");
-MsgDisp("Honda","Let's all chat while travelling through
-the sky!");
+MsgDisp("Honda","Let's all chat while travelling through the
+sky!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30800_01_020");
 MsgDisp("Kazama","That's fine for you, but what about us?");
-MsgDisp("主人公","I guess we'll listen to ｛Honda＊＊｝'s
-chatter while looking at the beautiful
-scenery?");
+MsgDisp("主人公","I guess we'll listen to ｛Honda＊＊｝'s chatter
+while looking at the beautiful scenery?");
 ChSet(3,0);
 ChEye(4,0);
 ChMouth(4,3);
@@ -58,8 +57,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30800_04_020");
 MsgDisp("Nanatsumori","Kazama.
-When the four of us go out together,
-control your desires.");
+When the four of us go out together, control
+your desires.");
 ChMouth(3,4);
 ChEye(1,0);
 ChMouth(1,2);
@@ -92,8 +91,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30800_01_050");
 MsgDisp("Kazama","Leave it.");
-MsgDisp("主人公","(Umm...is there something I haven't
-noticed?)");
+MsgDisp("主人公","(Umm...is there something I haven't noticed?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

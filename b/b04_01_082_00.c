@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040108200_01_010");
-    MsgDisp("Kazama","Just because you can't see them doesn't
-mean they aren't there. This is about the
-time they start to pupate in the ground.");
+    MsgDisp("Kazama","Just because you can't see them doesn't mean
+they aren't there. This is about the time
+they start to pupate in the ground.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +41,8 @@ This is their home, right?");
     ChMotion(1,0);
     VoicePlay("B040108200_01_030");
     MsgDisp("Kazama","Oh, yeah, there are rumors like that.
-If the amount of spring water suddenly
-goes up, it's a spiritual hot spot, right?");
+If the amount of spring water suddenly goes
+up, it's a spiritual hot spot, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

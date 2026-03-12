@@ -25,8 +25,7 @@ VoicePlay("B330B20701_01_000");
 MsgDisp("Kazama","I think bears are braver.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hehe!
-Is there an enclosure you liked,
-｛Honda＊＊｝?");
+Is there an enclosure you liked, ｛Honda＊＊｝?");
 ChMouth(1,2);
 ChEye(3,4);
 ChMouth(3,4);
@@ -35,16 +34,14 @@ VoicePlay("B330B20701_03_000");
 MsgDisp("Honda","I can't decide on just one.
 I loved them all.");
 MsgDisp("主人公","I see.
-Is there not an animal you particularly
-like?");
+Is there not an animal you particularly like?");
 ChMouth(1,0);
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B20701_03_010");
 MsgDisp("Honda","I don't know about a favorite, but there's
-something about cockatiels that I'm drawn
-to.");
+something about cockatiels that I'm drawn to.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -63,7 +60,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B20701_03_020");
-MsgDisp("Honda","Ahー, that's right!
+MsgDisp("Honda","Ah—, that's right!
 Maybe it's cause they're like me.");
 ChEye(4,3);
 ChMouth(4,2);
@@ -71,9 +68,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20701_03_030");
-MsgDisp("Honda","Males sing a lot, and even talk. They love
-their flock and are always in groups.
-I have more fun with everyone too.");
+MsgDisp("Honda","Males sing a lot, and even talk.
+They love their flock and are always in
+groups. I have more fun with everyone too.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

@@ -6,8 +6,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040310200_03_000");
-MsgDisp("Honda","This place might be wasted on someone like
-me who can't appreciate itー.");
+MsgDisp("Honda","This place might be wasted on someone like me
+who can't appreciate it—.");
 MsgSel("Shall we learn together?","Let's start with a motorbike license first!","Let's ask the curator");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,7 +29,7 @@ Let's learn from scratch.");
     ChMotion(3,5);
     VoicePlay("B040310200_03_020");
     MsgDisp("Honda","Ehh∋
-You're starting from thereー.
+You're starting from there—.
 I need to follow your sense of initiative!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

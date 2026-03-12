@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040603300_06_010");
-    MsgDisp("Himuro","It's worth seeing, and the space is
-designed intricately...Maybe they're bad
-at advertising themselves?");
+    MsgDisp("Himuro","It's worth seeing, and the space is designed
+intricately...
+Maybe they're bad at advertising themselves?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,9 @@ at advertising themselves?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040603300_06_020");
-    MsgDisp("Himuro","Well, that's true. Since we're here, we
-might as well take it easy.");
+    MsgDisp("Himuro","Well, that's true.
+Since we're here, we might as well take it
+easy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

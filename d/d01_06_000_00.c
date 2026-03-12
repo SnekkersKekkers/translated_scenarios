@@ -19,7 +19,7 @@ The perfect day for surfing.");
 MsgDisp("主人公","(Eh...
 There are a lot of surfers out today.)");
 MsgDisp("主人公","(...Huh?
-Over at the cafe, is that——)");
+Over at the cafe, is that—)");
 SEPlay("EV_SE_531",0,0.3);
 MsgClose();
 ScrFadeOut(0);

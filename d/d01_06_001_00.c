@@ -101,7 +101,7 @@ MsgDisp("主人公","Sure, here you go.");
 SEPlay("EV_SE_623",0.8);
 SEWait();
 VoicePlay("D010600100_06_090");
-MsgDisp("Himuro","Thanks for the——");
+MsgDisp("Himuro","Thanks for the—");
 BGMStop();
 MsgClose();
 ScrFadeIn(0);
@@ -112,7 +112,7 @@ ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600100_06_110");
-MsgDisp("Himuro","T-This, eggplant——");
+MsgDisp("Himuro","T-This, eggplant—");
 MsgDisp("主人公","Yeah, it's grilled eggplant.
 It's in season right now and really
 delicious.");

@@ -22,9 +22,9 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040723601_07_010");
-    MsgDisp("Mikage","The dancers' costumes are intricate
-too—...The overall theme is a bit of a
-mystery, though.");
+    MsgDisp("Mikage","The dancers' costumes are intricate too—...
+The overall theme is a bit of a mystery,
+though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -23,7 +23,7 @@ I'm nervous..)");
 I'm nervous...");
     VoicePlay("P730400000_04_010");
     MsgDisp("Nanatsumori","I could guess.");
-    MsgDisp("主人公","Ehー....");
+    MsgDisp("主人公","Eh—....");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -47,7 +47,7 @@ So, I understand your feelings very well.");
 confidence.");
     MsgDisp("主人公","Yeah.
 Thank you!");
-    MsgDisp("主人公","(Alーright, in order for me to look
+    MsgDisp("主人公","(Al—right, in order for me to look
 wonderful too, I'll do my best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -95,7 +95,7 @@ Show your cool side.");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(Maybe when ｛Nanatsumori＊｝ cheers me on,
 I gain courage.
-Alーright, let's do it!)");
+Al—right, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

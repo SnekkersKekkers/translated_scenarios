@@ -37,8 +37,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("B040722201_07_030");
-    MsgDisp("Mikage","Hahaha, you're like an elementary school
-kid.");
+    MsgDisp("Mikage","Hahaha, you're like an elementary school kid.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

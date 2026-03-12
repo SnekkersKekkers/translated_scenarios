@@ -10,13 +10,13 @@ MsgDisp("Nanatsumori","Hmm.
 Summer really is about festivals.");
 MsgDisp("主人公","Yeah, that's right.");
 VoicePlay("B040406400_04_010");
-MsgDisp("Nanatsumori","There are lots of photogenic spots, so
-let's take a lot of pictures.");
+MsgDisp("Nanatsumori","There are lots of photogenic spots, so let's
+take a lot of pictures.");
 ChMotion(4,0,1);
 VoicePlay("B040406400_04_020");
-MsgDisp("Nanatsumori","Actually, I'd like to take some pictures
-in yukata and post them on social media,
-but that won't be possible.");
+MsgDisp("Nanatsumori","Actually, I'd like to take some pictures in
+yukata and post them on social media, but
+that won't be possible.");
 MsgDisp("主人公","Why?");
 ChEye(4,2);
 ChMouth(4,3);
@@ -30,8 +30,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B040406400_04_040");
-MsgDisp("Nanatsumori","Well, I'm quite well-known around
-town.
+MsgDisp("Nanatsumori","Well, I'm quite well-known around town.
 The \"NANA\" side, I mean.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,0);

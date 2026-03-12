@@ -37,15 +37,14 @@ switch (MsgSelRsltGet()){
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040215102_02_030");
-        MsgDisp("Sassa","Sorry sorry, I've just hit a bit of a
-wall. It's pretty crap if I'm bad at even
-bowling.");
+        MsgDisp("Sassa","Sorry sorry, I've just hit a bit of a wall.
+It's pretty crap if I'm bad at even bowling.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040215102_02_040");
-        MsgDisp("Sassa","Recently, I feel like I can't control my
-body perfectly.");
+        MsgDisp("Sassa","Recently, I feel like I can't control my body
+perfectly.");
         MsgDisp("主人公","I see.
 Sorry for saying something so careless.");
         ChEye(2,0);
@@ -53,8 +52,7 @@ Sorry for saying something so careless.");
         ChMotion(2,5);
         VoicePlay("B040215102_02_050");
         MsgDisp("Sassa","No, I'm the one who should apologize.
-Even though this was supposed to be a
-date.");
+Even though this was supposed to be a date.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);
@@ -79,9 +77,8 @@ Look, my hair's curling from the humidity.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040215102_02_090");
-        MsgDisp("Sassa","That's why, if I'm only looking for the
-cause in my own body, I'll be in deep
-trouble.");
+        MsgDisp("Sassa","That's why, if I'm only looking for the cause
+in my own body, I'll be in deep trouble.");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,3);
@@ -94,11 +91,10 @@ breakthrough.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040215102_02_110");
-        MsgDisp("Sassa","It was far from doing nothing, to me,
-you're the world's best coach.");
-        MsgDisp("主人公","(Even if it was just a little bit, I'm
-happy to think that I helped
-｛Sassa＊＊｝.)");
+        MsgDisp("Sassa","It was far from doing nothing, to me, you're
+the world's best coach.");
+        MsgDisp("主人公","(Even if it was just a little bit, I'm happy
+to think that I helped ｛Sassa＊＊｝.)");
         break ;
         default :
         DbgAssert(1);

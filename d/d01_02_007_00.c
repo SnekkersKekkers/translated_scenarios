@@ -18,7 +18,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D010200700_02_010");
 MsgDisp("Sassa","...But you know, I guess it would be bad if I
-couldn't move anymore——");
+couldn't move anymore—");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(2,0,30);
 ChLayout(0);

@@ -6,7 +6,7 @@ BGMPlay("BGM_C08_DAICHI_KOKU",0.01);
 ScrFadeIn(0);
 VoicePlay("T020801000_08_000");
 MsgDisp("Shirahane","The door is open...
-What is th——");
+What is th—");
 MsgDisp("主人公","Eh, ｛Daichi＊＊｝∋
 Why are you here...");
 ChEye(8,4);

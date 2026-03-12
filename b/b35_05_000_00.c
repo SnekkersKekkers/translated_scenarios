@@ -10,16 +10,14 @@ MsgDisp("主人公","What's wrong, ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B350500000_05_010");
-MsgDisp("Hiiragi","I was reluctant to part, so I stayed
-behind.
+MsgDisp("Hiiragi","I was reluctant to part, so I stayed behind.
 And then, I saw that you were still here.");
 MsgDisp("主人公","Hehe, I see.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B350500000_05_020");
 MsgDisp("Hiiragi","That's right.
-So, won't you stay with me a little
-longer?");
+So, won't you stay with me a little longer?");
 MsgSel("Yeah, of course!","There's something I have to take care of...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -52,8 +50,8 @@ Well, I'll cool my head and go home.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Even though he went out of his way to
-invite me, I made him feel guilty...)");
+    MsgDisp("主人公","(Even though he went out of his way to invite
+me, I made him feel guilty...)");
     break ;
     default :
     DbgAssert(0);

@@ -68,7 +68,7 @@ ChMotion(3,1);
 VoicePlay("G020320300_03_090");
 MsgDisp("Honda","Like, if my talk about firefly behavior
 was boring, I can switch to beetle
-hibernation methods——");
+hibernation methods—");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5);

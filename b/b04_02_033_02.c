@@ -64,8 +64,8 @@ again.");
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040203302_02_060");
-        MsgDisp("Sassa","...Now that I think about it, this place
-has the same vibe as a Haunted House.");
+        MsgDisp("Sassa","...Now that I think about it, this place has
+the same vibe as a Haunted House.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,4);
@@ -76,8 +76,8 @@ has the same vibe as a Haunted House.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040203302_02_080");
-        MsgDisp("Sassa","The people who died on the sunken ship
-become ghosts.
+        MsgDisp("Sassa","The people who died on the sunken ship become
+ghosts.
 It's basically the same.");
         MsgDisp("主人公","U-Uhm...");
         ChEye(2,0);
@@ -113,8 +113,8 @@ good for us to hold hands.");
     ChMotion(2,3);
     VoicePlay("B040203302_02_120");
     MsgDisp("Sassa","Yeah, it's got a great vibe.
-The two of us should try hunting for
-treasure someday.");
+The two of us should try hunting for treasure
+someday.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

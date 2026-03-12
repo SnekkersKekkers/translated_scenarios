@@ -46,42 +46,44 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040503202_05_030");
         MsgDisp("Hiiragi","Are you trying to make me laugh?");
         MsgDisp("主人公","Umm...
-I'm sorry. Was that dull?");
+I'm sorry.
+Was that dull?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040503202_05_040");
-        MsgDisp("Hiiragi","I see...I'm the one who should be sorry.
-I didn't realize I was making you worry
-about me.");
+        MsgDisp("Hiiragi","I see...
+I'm the one who should be sorry. I didn't
+realize I was making you worry about me.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("B040503202_05_050");
-        MsgDisp("Hiiragi","I should be the one making sure you're
-having fun. How pathetic of me.");
+        MsgDisp("Hiiragi","I should be the one making sure you're having
+fun.
+How pathetic of me.");
         MsgDisp("主人公","No, I'm always having fun.");
         ChEye(5,0);
         ChMouth(5,3);
         ChMotion(5,3);
         VoicePlay("B040503202_05_060");
-        MsgDisp("Hiiragi","I'll reflect on that. I should be the one
-swimming in the tube. To break out of my
-boring shell.");
+        MsgDisp("Hiiragi","I'll reflect on that.
+I should be the one swimming in the tube.
+To break out of my boring shell.");
         MsgDisp("主人公","Umm, entering the tube was a joke, so you
 can't actually do that, okay?");
         ChEye(5,3);
         ChMotion(5,4);
         VoicePlay("B040503202_05_070");
         MsgDisp("Hiiragi","Hey, how clueless do you think I am?
-I won't go in, I don't have my swimsuit
-with me today.");
+I won't go in, I don't have my swimsuit with
+me today.");
         MsgDisp("主人公","Hehe, come on.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040503202_05_080");
         MsgDisp("Hiiragi","You finally smiled.
-It feels nice when the person you like
-laughs at your words.");
+It feels nice when the person you like laughs
+at your words.");
         MsgDisp("主人公","...Eh?");
         ChEye(5,3);
         VoicePlay("B040503202_05_090");
@@ -101,8 +103,8 @@ Just now, did you say \"Person you like\"?)");
     ChMotion(5,0);
     VoicePlay("B040503202_05_100");
     MsgDisp("Hiiragi","South in a way, I suppose.
-The penguins here are apparently from
-areas around Antarctica.");
+The penguins here are apparently from areas
+around Antarctica.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

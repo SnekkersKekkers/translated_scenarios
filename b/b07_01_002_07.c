@@ -13,8 +13,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B070100002_01_400");
-MsgDisp("Kazama","You're always a bit dazed, but this
-was different?");
+MsgDisp("Kazama","You're always a bit dazed, but this was
+different?");
 MsgDisp("主人公","Hey.
 Maybe it's because I'm with ｛Kazama＊＊｝?");
 ChEye(1,4);
@@ -37,8 +37,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_430");
 MsgDisp("Kazama","Right?
-We've been the same since long ago,
-haven't we?");
+We've been the same since long ago, haven't
+we?");
 MsgDisp("主人公","Yeah.");
 BGMStop();
 MsgClose();

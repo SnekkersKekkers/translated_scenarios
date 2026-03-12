@@ -11,7 +11,7 @@ ChMouth(8,3);
 ChMotion(8,0);
 VoicePlay("B020800010_08_010");
 MsgDisp("Shirahane","Righty-o.
-I've seen it around a lot, but you look
-the best in it.");
+I've seen it around a lot, but you look the
+best in it.");
 MsgDisp("主人公","(I'm glad!
 ｛Daichi＊＊｝ gave me a compliment.)");

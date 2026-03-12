@@ -11,8 +11,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B020300005_03_010");
-MsgDisp("Honda","I also wore short sleeves and shorts all
-year round.
+MsgDisp("Honda","I also wore short sleeves and shorts all year
+round.
 But, of course, I don't do that anymore...");
 MsgDisp("主人公","(Ugh...
 I've definitely dressed too lightly...)");

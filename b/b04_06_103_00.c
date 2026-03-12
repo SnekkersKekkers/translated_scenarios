@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040610300_06_010");
-    MsgDisp("Himuro","Art is difficult to understand, but it
-would be better for you to pay more
-attention to how you say these things.");
+    MsgDisp("Himuro","Art is difficult to understand, but it would
+be better for you to pay more attention to
+how you say these things.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -26,9 +26,9 @@ attention to how you say these things.");
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("B040610300_06_020");
-    MsgDisp("Himuro","I completely agree. I wonder what sort of
-thought process he had? If only I could
-understand it from his work.");
+    MsgDisp("Himuro","I completely agree.
+I wonder what sort of thought process he had?
+If only I could understand it from his work.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,7 +40,8 @@ understand it from his work.");
     ChMotion(6,4);
     VoicePlay("B040610300_06_030");
     MsgDisp("Himuro","Wow, you can understand this sort of
-perception. Amazing...I kinda respect it.");
+perception.
+Amazing... I kinda respect it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

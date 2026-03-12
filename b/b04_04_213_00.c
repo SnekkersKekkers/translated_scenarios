@@ -26,8 +26,8 @@ you...they're like angels.");
     ChMouth(4,3);
     VoicePlay("B040421300_04_020");
     MsgDisp("Nanatsumori","Try it.
-Look, that kitty over there, is just
-waiting to be held?");
+Look, that kitty over there, is just waiting
+to be held?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

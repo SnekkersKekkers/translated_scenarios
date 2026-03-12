@@ -23,7 +23,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D100410000_04_020");
-MsgDisp("Nanatsumori","I'd like to say yes but——it's okay.
+MsgDisp("Nanatsumori","I'd like to say yes but—it's okay.
 Look.");
 MsgDisp("主人公","That's...
 That new chocolate with fruit jelly!");

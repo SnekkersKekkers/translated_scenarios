@@ -2,8 +2,8 @@ BGOpen("tr500",0);
 MsgClose();
 ChOpen(2,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","It looks like there are a lot of
-hands-on activities right now.");
+MsgDisp("主人公","It looks like there are a lot of hands-on
+activities right now.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,3);
@@ -24,15 +24,16 @@ ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("B050200000_02_020");
 MsgDisp("Sassa","Eh...∋
-When you say it like that, it sounds kind
-of awesome.");
+When you say it like that, it sounds kind of
+awesome.");
 MsgDisp("主人公","Eh, why?");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B050200000_02_030");
 MsgDisp("Sassa","Why you ask...");
-MsgDisp("主人公","? So do you want to milk them?");
+MsgDisp("主人公","?
+So do you want to milk them?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -55,15 +56,14 @@ VoicePlay("B050200000_02_050");
 MsgDisp("Sassa","I see...");
 MsgDisp("主人公","Uhm...
 So I hold it firmly at the base and
-squeeze——");
+squeeze—");
 SEPlay("EV_SE_521");
 SEWait();
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("B050200000_02_060");
 MsgDisp("Sassa","OOH!");
-MsgDisp("主人公","I think I'm starting to get the hang of
-it.
+MsgDisp("主人公","I think I'm starting to get the hang of it.
 ...Look!");
 SEPlay("EV_SE_522");
 SEWait();
@@ -76,7 +76,7 @@ StlEye(2,0);
 StlMouth(2,0);
 StlCheek(2,10);
 VoicePlay("B050200000_02_080");
-MsgDisp("Sassa","——Eh?
+MsgDisp("Sassa","—Eh?
 Ah, yeah.
 That's good.");
 MsgDisp("主人公","Right?
@@ -107,11 +107,11 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B050200000_02_110");
-MsgDisp("Sassa","Haha, yeah, it's special because you
-squeezed it, huh?");
+MsgDisp("Sassa","Haha, yeah, it's special because you squeezed
+it, huh?");
 MsgDisp("主人公","Come to think of it.
 ｛Sassa＊＊｝ didn't try at all.
-...Ah, maybe it's because——");
+...Ah, maybe it's because—");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,0);

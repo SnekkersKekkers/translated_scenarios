@@ -6,8 +6,8 @@ ChMouth(7,0);
 ChMotion(7,4,1);
 ScrFadeIn(0);
 VoicePlay("B040703300_07_000");
-MsgDisp("Mikage","The residents here will show you how
-living things adapt to their environment.");
+MsgDisp("Mikage","The residents here will show you how living
+things adapt to their environment.");
 MsgSel("I-It's so dark I can't see anything...","You mean how they overcome water pressure?","By environment, do you mean how they live on a boat?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("B040703300_07_010");
-    MsgDisp("Mikage","It's dangerous to move about. Close your
-eyes and count to ten. Adapt to the dark,
-your eyes will get used to it.");
+    MsgDisp("Mikage","It's dangerous to move about.
+Close your eyes and count to ten. Adapt to
+the dark, your eyes will get used to it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

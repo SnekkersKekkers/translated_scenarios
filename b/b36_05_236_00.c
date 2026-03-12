@@ -13,8 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B360523600_05_000");
 MsgDisp("Hiiragi","Phew, made it on time.");
 MsgDisp("主人公","Yeah, good thing.
-But ｛Hiiragi＊＊＊｝, do you enjoy night
-parades?");
+But ｛Hiiragi＊＊＊｝, do you enjoy night parades?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360523600_05_010");

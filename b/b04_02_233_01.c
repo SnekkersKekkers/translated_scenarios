@@ -39,8 +39,8 @@ it.");
     ChMotion(2,4);
     VoicePlay("B040223301_02_030");
     MsgDisp("Sassa","It is huh.
-You always help me by stopping me when I
-need it.");
+You always help me by stopping me when I need
+it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

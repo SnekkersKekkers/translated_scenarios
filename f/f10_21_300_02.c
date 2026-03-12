@@ -17,7 +17,7 @@ MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 What's up, you two?");
 ChMotion(21,3);
 VoicePlay("F102130002_21_010");
-MsgDisp("Michiru","The biology textbook——");
+MsgDisp("Michiru","The biology textbook—");
 ChEye(22,0);
 ChMouth(22,1);
 ChMotion(22,4,1);

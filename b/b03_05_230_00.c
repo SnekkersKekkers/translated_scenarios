@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B030523000_05_010");
     MsgDisp("Hiiragi","Great choice.
-It'd be amazing if we got the front
-seats!");
+It'd be amazing if we got the front seats!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -57,8 +56,8 @@ Let's go.");
     ScrFadeIn(0);
     VoicePlay("B030523000_05_040");
     MsgDisp("Hiiragi","I like that feeling you get when boarding.
-It's a little nerve-wracking, like being
-on a ski lift.");
+It's a little nerve-wracking, like being on a
+ski lift.");
     break ;
     case 2:
     MsgDispSksp(1,0);
@@ -106,8 +105,8 @@ Let's go for a ride.");
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("B030523000_05_080");
-    MsgDisp("Hiiragi","Sitting in the tea cup with you is
-definitely an interesting situation.");
+    MsgDisp("Hiiragi","Sitting in the tea cup with you is definitely
+an interesting situation.");
     break ;
     default :
     DbgAssert(0);

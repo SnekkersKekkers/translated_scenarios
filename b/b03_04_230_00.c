@@ -28,9 +28,9 @@ switch (MsgSelRsltGet()){
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("B030423000_04_020");
-    MsgDisp("Nanatsumori","If I think of it as shooting photos in
-high winds...Right, I can just fix my
-hair afterward.");
+    MsgDisp("Nanatsumori","If I think of it as shooting photos in high
+winds...
+Right, I can just fix my hair afterward.");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -39,8 +39,8 @@ hair afterward.");
     ChMotion(4,1,1);
     VoicePlay("B030423000_04_030");
     MsgDisp("Nanatsumori","Agreed.
-On a nice day like this, we should start
-off relaxed.");
+On a nice day like this, we should start off
+relaxed.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -63,8 +63,7 @@ Ah, watch your step getting on.");
     ChEyeOpenLevel(4,7);
     VoicePlay("B030423000_04_050");
     MsgDisp("Nanatsumori","If it were the usual pick, sure, but...
-You're really going off the rails
-here...");
+You're really going off the rails here...");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

@@ -35,7 +35,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,10);
 VoicePlay("T020100000_01_030");
-MsgDisp("Kazama","I heard it too—— The sound of the bell,
+MsgDisp("Kazama","I heard it too— The sound of the bell,
 and your voice.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -203,7 +203,7 @@ VoicePlay("T020100000_01_230");
 MsgDisp("Kazama","From the first time we saw each other, the
 ten years we were apart, the three years
 we spent at Haba High, and even into the
-future——");
+future—");
 MsgClear();
 ChClose(1);
 ChCustomLayout(1,5,0,-2.7);

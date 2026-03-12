@@ -9,8 +9,7 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B020300012_03_010");
 MsgDisp("Honda","Huh, you didn't notice?
-I get told off by my sister a lot too, so
-I understand how you feel.");
+I get told off by my sister a lot too, so I
+understand how you feel.");
 MsgDisp("主人公","(Crap!
-I'm wearing the same thing as last
-time...)");
+I'm wearing the same thing as last time...)");

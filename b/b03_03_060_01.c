@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B030306001_03_010");
     MsgDisp("Honda","Sure.
-This is the only time you can go swimming
-in the ocean, after all.");
+This is the only time you can go swimming in
+the ocean, after all.");
     break ;
     case 1:
     ChSet(3,3);

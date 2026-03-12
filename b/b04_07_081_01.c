@@ -29,8 +29,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,5);
     VoicePlay("B040708101_07_020");
     MsgDisp("Mikage","You are always right.
-Right, flowers should be seen with the
-sun.");
+Right, flowers should be seen with the sun.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -44,8 +43,8 @@ sun.");
     ChMotion(7,2);
     VoicePlay("B040708101_07_030");
     MsgDisp("Mikage","I'm guessing quite magical?
-But, if I were a flower, it'd be too
-bright, and I'd want them to stop.");
+But, if I were a flower, it'd be too bright,
+and I'd want them to stop.");
     MsgDateResultDisp();
     break ;
     default :

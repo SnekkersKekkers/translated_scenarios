@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040422202_04_010");
     MsgDisp("Nanatsumori","Got it.
-I feel like I'm getting somewhat
-interested too.");
+I feel like I'm getting somewhat interested
+too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -74,8 +74,8 @@ I don't think it's suited for a date.");
         MsgDisp("Nanatsumori","So?
 Why is coming here with me fun for you?");
         MsgDisp("主人公","That's because...
-It feels like we're going back in time,
-the two of us.");
+It feels like we're going back in time, the
+two of us.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,3,1);
@@ -87,8 +87,8 @@ the two of us.");
         ChMotion(4,1,1);
         VoicePlay("B040422202_04_080");
         MsgDisp("Nanatsumori","But, they are delusions?
-Are we following the story of the town
-girl and the lord, then?");
+Are we following the story of the town girl
+and the lord, then?");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,2,1);

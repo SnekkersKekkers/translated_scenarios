@@ -28,8 +28,8 @@ I don't dislike that way of thinking.");
     ChMotion(6,4);
     VoicePlay("B040622200_06_020");
     MsgDisp("Himuro","Really?
-I don't think it's something to worry
-about though?");
+I don't think it's something to worry about
+though?");
     MsgDateResultDisp();
     break ;
     case 2:

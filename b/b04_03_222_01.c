@@ -26,10 +26,9 @@ Should I get one?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040322201_03_020");
-    MsgDisp("Honda","Interesting!
-It's a reproduction of the onigawara tiles
-from when the castle was built.
-The motif is a bellflower.");
+    MsgDisp("Honda","Interesting! It's a reproduction of the
+onigawara tiles from when the castle was
+built. The motif is a bellflower.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,9 +39,9 @@ The motif is a bellflower.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040322201_03_030");
-    MsgDisp("Honda","Haha, the view from the castle tower and
-the stone walls, and the last one is a
-secret. ...Shall I buy one?");
+    MsgDisp("Honda","Haha, the view from the castle tower and the
+stone walls, and the last one is a secret.
+...Shall I buy one?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

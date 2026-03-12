@@ -31,17 +31,17 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360703201_07_030");
-MsgDisp("Mikage","Inori especially would love to hear this
-kind of thing, right?");
+MsgDisp("Mikage","Inori especially would love to hear this kind
+of thing, right?");
 MsgDisp("主人公","Hehe.
 Okay, I understand.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B360703201_07_040");
-MsgDisp("Mikage","Yanosuke is troublesome in a different
-way. He'll probably come up and ask \"What
-kind of mood are you in?\".");
+MsgDisp("Mikage","Yanosuke is troublesome in a different way.
+He'll probably come up and ask \"What kind of
+mood are you in?\".");
 MsgDisp("主人公","｛Mikage＊＊｝ knows those two very well.");
 ChEye(7,0);
 ChMouth(7,0);

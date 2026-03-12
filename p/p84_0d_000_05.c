@@ -22,7 +22,7 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P840D00005_22_000");
-MsgDisp("Hikaru","Ahー...Isn't that a last resort? You have
+MsgDisp("Hikaru","Ah—...Isn't that a last resort? You have
 to put yourself in the kid's shoes first.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

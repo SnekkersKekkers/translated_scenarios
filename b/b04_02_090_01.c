@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040209001_02_010");
-    MsgDisp("Sassa","Ehhh, cool. If they were vegetable seeds,
-I could bring them as a souvenir for
-Mikage-sensei.");
+    MsgDisp("Sassa","Ehhh, cool.
+If they were vegetable seeds, I could bring
+them as a souvenir for Mikage-sensei.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,7 +28,7 @@ Mikage-sensei.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040209001_02_020");
-    MsgDisp("Sassa","Hmmー Girls really do like flowers.");
+    MsgDisp("Sassa","Hmm— Girls really do like flowers.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

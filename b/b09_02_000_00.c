@@ -10,12 +10,12 @@ What was up with today?");
 MsgDisp("主人公","(It's ｛Sassa＊＊｝!
 Ah...?)");
 VoicePlay("B090200000_02_010");
-MsgDisp("Sassa","I was waiting for a while, but I'm going
-home now.");
+MsgDisp("Sassa","I was waiting for a while, but I'm going home
+now.");
 VoicePlay("B090200000_02_020");
-MsgDisp("Sassa","It's not good if you simply forgot, but
-it's fine. Though, I'll be worried, so at
-least drop me a message. See you later.");
+MsgDisp("Sassa","It's not good if you simply forgot, but it's
+fine. Though, I'll be worried, so at least
+drop me a message. See you later.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","This is bad!

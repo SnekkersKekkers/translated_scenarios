@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
         DateRateSet(1);
         ChSet(3,4);
         VoicePlay("B040322102_03_010");
-        MsgDisp("Honda","Umm, but the water moats are meant to
-guard the castle?");
+        MsgDisp("Honda","Umm, but the water moats are meant to guard
+the castle?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -31,30 +31,30 @@ guard the castle?");
         VoicePlay("B040322102_03_020");
         MsgDisp("Honda","Does it look that way to you?");
         MsgDisp("主人公","Yeah.
-It looks like it would be difficult to
-escape the castle.");
+It looks like it would be difficult to escape
+the castle.");
         ChMotion(3,1);
         VoicePlay("B040322102_03_030");
-        MsgDisp("Honda","Definitely. At that time you could only
-hole yourself up in the castle. Then wait
-for reinforcements.");
+        MsgDisp("Honda","Definitely.
+At that time you could only hole yourself up
+in the castle. Then wait for reinforcements.");
         MsgDisp("主人公","What if help never came?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,3);
         VoicePlay("B040322102_03_040");
-        MsgDisp("Honda","Yep yep, good question. At that time, they
-would exit through Habataki Castle's
-'legendary secret passage'.");
+        MsgDisp("Honda","Yep yep, good question.
+At that time, they would exit through
+Habataki Castle's 'legendary secret passage'.");
         MsgDisp("主人公","There's a secret passage?
 Amazing.");
         ChMouth(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040322102_03_050");
-        MsgDisp("Honda","Right right, a secret underground passage
-for a beautiful princess like you to
-sneak away through.");
+        MsgDisp("Honda","Right right, a secret underground passage for
+a beautiful princess like you to sneak away
+through.");
         ChEye(3,1);
         ChMouth(3,3);
         ChMotion(3,4);
@@ -82,7 +82,7 @@ princess.')");
     ChMotion(3,1);
     VoicePlay("B040322102_03_070");
     MsgDisp("Honda","Alright!
-Let's feed them on the way backー!");
+Let's feed them on the way back—!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -92,9 +92,9 @@ Let's feed them on the way backー!");
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040322102_03_080");
-    MsgDisp("Honda","Ding ding ding! Correct. They're common in
-castles from the early modern period
-onwards.");
+    MsgDisp("Honda","Ding ding ding!
+Correct. They're common in castles from the
+early modern period onwards.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

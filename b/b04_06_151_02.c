@@ -56,8 +56,7 @@ either?");
         VoicePlay("B040615102_06_050");
         MsgDisp("Himuro","No, that's impossible.
 I've shown you my uncool side.");
-        MsgDisp("主人公","I want to see all sides of ｛Himuro＊＊｝
-though?");
+        MsgDisp("主人公","I want to see all sides of ｛Himuro＊＊｝ though?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -84,8 +83,8 @@ good side.");
         ChMouth(6,4);
         ChMotion(6,1);
         VoicePlay("B040615102_06_090");
-        MsgDisp("Himuro","Right, watch carefully now.
-'Cause I'm gonna aim for a strike next.");
+        MsgDisp("Himuro","Right, watch carefully now. 'Cause I'm gonna
+aim for a strike next.");
         MsgDisp("主人公","Hehe, yeah!");
         break ;
         default :

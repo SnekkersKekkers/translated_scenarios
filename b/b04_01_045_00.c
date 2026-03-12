@@ -22,8 +22,8 @@ pretty entertaining!");
     ChMouth(1,2);
     ChMotion(1,0,1);
     VoicePlay("B040104500_01_010");
-    MsgDisp("Kazama","I thought it was fine, what part did you
-not like?");
+    MsgDisp("Kazama","I thought it was fine, what part did you not
+like?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -33,8 +33,8 @@ not like?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040104500_01_020");
-    MsgDisp("Kazama","As a resident of Habataki City, how can
-you be totally unaffected by this?");
+    MsgDisp("Kazama","As a resident of Habataki City, how can you
+be totally unaffected by this?");
     MsgDateResultDisp();
     break ;
     default :

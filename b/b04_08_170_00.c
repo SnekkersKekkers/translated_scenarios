@@ -39,8 +39,8 @@ I'll make sure not ta drag you down.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("B040817000_08_030");
-    MsgDisp("Shirahane","Don't just stop at one song, sing as many
-as you want▼");
+    MsgDisp("Shirahane","Don't just stop at one song, sing as many as
+you want▼");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -10,8 +10,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, did you want to see this
-movie?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, did you want to see this movie?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -37,8 +36,8 @@ MsgDisp("主人公","Ah, it's about to start.");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("B360518000_05_040");
-MsgDisp("Hiiragi","Well, since we're here, why don't we go
-ahead and watch it.");
+MsgDisp("Hiiragi","Well, since we're here, why don't we go ahead
+and watch it.");
 MsgDisp("主人公","Yeah.
 Let's continue talking later, okay?");
 BGMStop();

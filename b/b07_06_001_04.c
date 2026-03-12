@@ -13,8 +13,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B070600001_06_250");
 MsgDisp("Himuro","Please don't dig any deeper?");
-MsgDisp("主人公","...Is it something difficult to talk
-about?");
+MsgDisp("主人公","...Is it something difficult to talk about?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -24,9 +23,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_270");
-MsgDisp("Himuro","Nozomu-senpai will bring up a trivial
-topic, and Ryota-senpai will brush them
-off.");
+MsgDisp("Himuro","Nozomu-senpai will bring up a trivial topic,
+and Ryota-senpai will brush them off.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -44,7 +42,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("B070600001_06_300");
-MsgDisp("Himuro","——Well, there are other things we talk
+MsgDisp("Himuro","—Well, there are other things we talk
 about, but I can't say those.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);

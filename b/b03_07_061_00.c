@@ -19,8 +19,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B030706100_07_020");
 MsgDisp("Mikage","Hey, there's no time to waste.
-Let's browse the stalls until the
-fireworks launch!");
+Let's browse the stalls until the fireworks
+launch!");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe, okay!");
 MsgDispSksp(0);

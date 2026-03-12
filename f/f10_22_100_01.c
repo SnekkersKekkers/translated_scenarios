@@ -18,7 +18,7 @@ club and put it up in the classroom.
 It looks really stylish so Hikaru's happy▼");
 MsgDisp("主人公","Wow, is that so!
 By the way, about the flowers from the
-other d——");
+other d—");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);

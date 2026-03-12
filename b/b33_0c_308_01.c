@@ -37,8 +37,8 @@ ChMotion(5,0,1);
 VoicePlay("B330C30801_05_000");
 MsgDisp("Hiiragi","Yes, please tell me about today's plans.");
 MsgDisp("主人公","(Hehe!
-Both of them are looking forward to
-camping with ｛Mikage＊＊｝)");
+Both of them are looking forward to camping
+with ｛Mikage＊＊｝)");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -116,9 +116,9 @@ ChMotion(7,1);
 VoicePlay("B330C30801_07_050");
 MsgDisp("Mikage","You two seem really motivated.
 That's just like high school boys.");
-MsgDisp("主人公","(｛Mikage＊＊｝ seems to be having the
-most fun though...I wonder if the campfire
-effect is true...?)");
+MsgDisp("主人公","(｛Mikage＊＊｝ seems to be having the most
+fun though...
+I wonder if the campfire effect is true...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

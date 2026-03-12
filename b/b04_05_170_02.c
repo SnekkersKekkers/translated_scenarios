@@ -31,7 +31,7 @@ I love it too.");
         ChEye(5,2);
         ChMotion(5,2);
         VoicePlay("B040517002_05_020");
-        MsgDisp("Hiiragi","Hmー, I wonder what we'll be made to do...
+        MsgDisp("Hiiragi","Hm—, I wonder what we'll be made to do...
 It's a bit worrying.");
         MsgDateResultDisp();
         break ;
@@ -67,8 +67,8 @@ for Couples Only\"?");
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040517002_05_070");
-        MsgDisp("Hiiragi","Even if it's only for lovey-dovey couples,
-I don't mind at all.");
+        MsgDisp("Hiiragi","Even if it's only for lovey-dovey couples, I
+don't mind at all.");
         MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ has a surprisingly
 stubborn side...)");
         break ;

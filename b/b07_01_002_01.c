@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking
-to ｛Honda＊＊｝ a lot haven't you?");
+MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking to
+｛Honda＊＊｝ a lot haven't you?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -20,17 +20,17 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_030");
-MsgDisp("Kazama","Teaching demon more like. But he's clever
-at sparking your interest, which makes it
-worse. I still end up listening.");
+MsgDisp("Kazama","Teaching demon more like. But he's clever at
+sparking your interest, which makes it worse.
+I still end up listening.");
 MsgDisp("主人公","Hehe, isn't ｛Kazama＊＊｝ a good listener?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100002_01_040");
-MsgDisp("Kazama","No, Honda isn't the type of demon to
-choose his audience.
+MsgDisp("Kazama","No, Honda isn't the type of demon to choose
+his audience.
 He'll attack anyone in the same way.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
@@ -39,16 +39,16 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100002_01_050");
-MsgDisp("Kazama","When he caught Vice Principal Himuro at
-the school gates to talk about Italian
-cars I was still taken aback all the same.");
+MsgDisp("Kazama","When he caught Vice Principal Himuro at the
+school gates to talk about Italian cars I was
+still taken aback all the same.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_060");
-MsgDisp("Kazama","Well, in the end I ended up getting
-dragged into it.");
+MsgDisp("Kazama","Well, in the end I ended up getting dragged
+into it.");
 MsgDisp("主人公","(Hehe, as I thought ｛Kazama＊＊｝ is a good
 listener.)");
 BGMStop();

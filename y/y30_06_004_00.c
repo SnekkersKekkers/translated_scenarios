@@ -122,7 +122,7 @@ MsgDisp("","Pretending to change the subject,
 these two were trying to gauge how I
 felt.");
 MsgDisp("","Even though that nonchalant kindness
-was pleasant——");
+was pleasant—");
 MsgClear();
 VoicePlay("Y300600400_06_010");
 MsgDisp("Himuro","\"It's none of your business.

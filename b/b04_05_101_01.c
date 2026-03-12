@@ -6,8 +6,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040510101_05_000");
-MsgDisp("Hiiragi","There's plenty of documentation on
-Habataki Castle.");
+MsgDisp("Hiiragi","There's plenty of documentation on Habataki
+Castle.");
 MsgSel("There's even a helmet passed down generations by castle lords","A princess' kimono!","An expensive looking vase");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,8 @@ costumes.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040510101_05_020");
-    MsgDisp("Hiiragi","It was state of the art fashion back in
-those days.
+    MsgDisp("Hiiragi","It was state of the art fashion back in those
+days.
 Even now, it is perfectly beautiful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

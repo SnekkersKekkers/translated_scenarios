@@ -13,9 +13,9 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B020101001_01_010");
-MsgDisp("Kazama","You can basically pull off anything,
-right? It'd be harder for you to pick
-something that doesn't work.");
+MsgDisp("Kazama","You can basically pull off anything, right?
+It'd be harder for you to pick something that
+doesn't work.");
 MsgDisp("主人公","(Urgh...
 I don't really think he liked this
 swimsuit...)");

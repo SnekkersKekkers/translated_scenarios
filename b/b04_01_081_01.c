@@ -5,9 +5,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040108101_01_000");
-MsgDisp("Kazama","It just feels too obvious to compare
-cherry blossoms to life, you know what I
-mean?");
+MsgDisp("Kazama","It just feels too obvious to compare cherry
+blossoms to life, you know what I mean?");
 MsgSel("Fleeting, just like life...It's a little sad","The leaves that come after this are lovely, and twice as yummy right?","What a wonderful life, to see the flowers bloom every year");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,8 +46,8 @@ life.");
     ChMotion(1,0,1);
     VoicePlay("B040108101_01_030");
     MsgDisp("Kazama","That's an amazing way of thinking.
-Thinking that way, you'll live for
-hundreds of years.");
+Thinking that way, you'll live for hundreds
+of years.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

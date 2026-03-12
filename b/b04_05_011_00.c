@@ -6,8 +6,8 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040501100_05_000");
-MsgDisp("Hiiragi","Everything you can see from here is
-Habataki City.");
+MsgDisp("Hiiragi","Everything you can see from here is Habataki
+City.");
 MsgSel("Waa! The horizon appears as if it's shining!","Can we see ｛Hiiragi＊＊＊｝'s home?","The height has me frozen in fear...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040501100_05_010");
     MsgDisp("Hiiragi","It really is beautiful, isn't it?
-It was my dream to live in a town by the
-sea.");
+It was my dream to live in a town by the sea.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -35,7 +35,7 @@ ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020330101_03_050");
 MsgDisp("Honda","Hmm, seems like I have quite a few
-rivalsー.");
+rivals—.");
 MsgDisp("主人公","(Rivals huh...)");
 BGMStop();
 MsgClose();

@@ -57,8 +57,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650300_06_070");
-MsgDisp("Himuro","I want to say something clever, but I
-can't think of anything");
+MsgDisp("Himuro","I want to say something clever, but I can't
+think of anything");
 MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,1);
 ChMouth(6,0);
@@ -72,8 +72,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B360650300_06_090");
-MsgDisp("Himuro","In the end, the fact that we're together
-is already enough for me.");
+MsgDisp("Himuro","In the end, the fact that we're together is
+already enough for me.");
 MsgDisp("主人公","...Yeah.");
 ChEye(6,0);
 ChMouth(6,4);

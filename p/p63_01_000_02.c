@@ -54,7 +54,7 @@ Gardening Club...)");
     MsgClose();
     ChOpen(1,254,0,0,3,#1,#1,0,0);
     VoicePlay("P630100002_01_040");
-    MsgDisp("Kazama","Heeーh, your outfit also suits you,
+    MsgDisp("Kazama","Ehh, your outfit also suits you,
 doesn't it?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Welcome～!

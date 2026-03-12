@@ -10,8 +10,8 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403201_04_000");
 MsgDisp("Nanatsumori","Seems like a lot of the time, these
-garden-like places have heart-shaped
-things installed into them.");
+garden-like places have heart-shaped things
+installed into them.");
 MsgSel("Seems fun! Shall we look for it?","Hmmm...","It's perfect for the mood");
 switch (MsgSelRsltGet()){
     case 0:

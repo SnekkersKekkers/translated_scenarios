@@ -28,8 +28,8 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A30101_06_010");
 MsgDisp("Himuro","...I see.
-To Nozomu-senpai, this place is similar to
-a haunted house.");
+To Nozomu-senpai, this place is similar to a
+haunted house.");
 ChMouth(1,2);
 MsgDisp("主人公","Eh...a haunted house...if you say it like
 that...");
@@ -55,8 +55,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B330A30101_02_020");
 MsgDisp("Sassa","Because Inori is saying weird things, that
-boat is starting to look like a phantom
-ship.");
+boat is starting to look like a phantom ship.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -113,8 +112,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330A30101_06_060");
-MsgDisp("Himuro","Your weakness is the easiest to
-understand... Right?");
+MsgDisp("Himuro","Your weakness is the easiest to understand...
+Right?");
 MsgDisp("主人公","Eh?
 Me...?");
 ChEye(1,0);
@@ -130,10 +129,10 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A30101_02_050");
 MsgDisp("Sassa","Yeah.
-Inori's affinity with the deep sea corner
-is definitely good.");
-MsgDisp("主人公","(｛Himuro＊＊｝, maybe you're overwhelming
-those two more than usual today?)");
+Inori's affinity with the deep sea corner is
+definitely good.");
+MsgDisp("主人公","(｛Himuro＊＊｝, maybe you're overwhelming those
+two more than usual today?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -11,7 +11,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,3,3,#1,#1,0,2);
 ChMotion(22,5,1);
 VoicePlay("P730D00001_22_000");
-MsgDisp("Hikaru","Oohーlala!
+MsgDisp("Hikaru","Ooh—lala!
 Mari!");
 ChEye(21,4);
 ChMouth(21,3);

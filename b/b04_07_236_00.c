@@ -12,8 +12,7 @@ ChMouth(7,3);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040723600_07_000");
-MsgDisp("Mikage","Ehhh, it's completely different from
-daytime.
+MsgDisp("Mikage","Ehhh, it's completely different from daytime.
 So this is the night parade～");
 MsgSel("It's very popular.","Can you see it properly?","Let's dance together!");
 switch (MsgSelRsltGet()){

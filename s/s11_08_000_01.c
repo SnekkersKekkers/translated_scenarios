@@ -39,12 +39,12 @@ ChEye(8,2);
 ChMouth(8,4);
 VoicePlay("S110800001_08_060");
 MsgDisp("Shirahane","If you get too carried away, you will miss
-your good fortune——");
+your good fortune—");
 ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,1,1);
 VoicePlay("S110800001_08_070");
-MsgDisp("Shirahane","Ehー∋
+MsgDisp("Shirahane","Eh—∋
 Why do I gotta get lectured just because I
 got Excellent Luck?");
 MsgDisp("主人公","Even if you're very happy, try to stay

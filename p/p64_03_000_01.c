@@ -4,7 +4,7 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("P640300001_03_000");
-MsgDisp("Honda","Ahー, amazing.");
+MsgDisp("Honda","Ah—, amazing.");
 MsgDisp("主人公","How was it?");
 ChEye(3,0);
 ChMouth(3,0);

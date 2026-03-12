@@ -33,8 +33,8 @@ It's a nice way to spend the day.");
     ScrFadeIn(0);
     VoicePlay("B060500002_05_020");
     MsgDisp("Hiiragi","I get a lot of different emotions when I'm
-with you. Because of that, it can be
-tough. But I enjoy this feeling.");
+with you. Because of that, it can be tough.
+But I enjoy this feeling.");
     MsgDispSksp(0);
     break ;
     default :

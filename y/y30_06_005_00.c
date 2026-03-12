@@ -12,7 +12,7 @@ my other classmates were.");
 MsgDisp("","Not to mention, until now I haven't
 regretted not interacting with my
 classmates and juniors.");
-MsgDisp("","It's just that to that person—— I
+MsgDisp("","It's just that to that person— I
 didn't want to make her worry.");
 MsgClear();
 MsgDisp("","It's been two months since she
@@ -92,7 +92,7 @@ late, I felt as if I had become part
 of this school.");
 MsgClear();
 MsgDisp("","The importance and value of sharing
-time—— that was something taught to
+time— that was something taught to
 me completely by her.");
 MsgDisp("","When I told her about my committee
 activities. Just as I had intended,

@@ -9,8 +9,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B020300014_03_010");
-MsgDisp("Honda","Coincidences like this can happen∋ The
-chances we'd buy the same clothes and wear
-them at the same time... That's so rare!");
-MsgDisp("主人公","(Do ｛Honda＊＊｝ and I have similar tastes
-in clothes?)");
+MsgDisp("Honda","Coincidences like this can happen∋
+The chances we'd buy the same clothes and
+wear them at the same time... That's so rare!");
+MsgDisp("主人公","(Do ｛Honda＊＊｝ and I have similar tastes in
+clothes?)");

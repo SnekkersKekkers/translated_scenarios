@@ -32,7 +32,7 @@ ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("G020310001_03_040");
 MsgDisp("Honda","Ah, that!
-When you laugh like thatー I can't help
+When you laugh like that— I can't help
 but keep talking");
 ChSet(3,0);
 VoicePlay("G020310001_03_050");

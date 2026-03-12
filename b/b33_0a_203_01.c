@@ -30,8 +30,8 @@ VoicePlay("B330A20301_06_000");
 MsgDisp("Himuro","I don't mind.
 I might have a chance if it's in water.");
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","But, won't we bother the people around us
-if we have a competition?");
+MsgDisp("主人公","But, won't we bother the people around us if
+we have a competition?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
@@ -79,10 +79,10 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 MsgDisp("主人公","(...?
-No matter how you look at it, it's been
-too long...)");
+No matter how you look at it, it's been too
+long...)");
 MsgDisp("主人公","Everyone!
-Are you alri——");
+Are you alri—");
 SEPlay("EV_SE_573",0,0.9);
 SEWait();
 Wait(10,0);

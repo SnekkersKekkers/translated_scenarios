@@ -24,8 +24,8 @@ They look so alike after all.");
     ChMotion(4,3);
     VoicePlay("B040402101_04_020");
     MsgDisp("Nanatsumori","Hmmm?
-Then, explain your reasoning in 20 words
-or less.");
+Then, explain your reasoning in 20 words or
+less.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,9 +36,9 @@ or less.");
     ChMouth(4,3);
     ChMotion(4,3);
     VoicePlay("B040402101_04_030");
-    MsgDisp("Nanatsumori","Ahh, I see. If I can take it up this
-close, I might be able to get a nice
-picture of its wings and eyes.");
+    MsgDisp("Nanatsumori","Ahh, I see. If I can take it up this close, I
+might be able to get a nice picture of its
+wings and eyes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

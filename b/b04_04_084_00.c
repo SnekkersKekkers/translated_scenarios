@@ -33,8 +33,8 @@ Which part is photogenic?");
     ChMouth(4,4);
     VoicePlay("B040408400_04_030");
     MsgDisp("Nanatsumori","Yeah?
-There's nothing else to do, so I'll just
-take it easy and pass the time.");
+There's nothing else to do, so I'll just take
+it easy and pass the time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

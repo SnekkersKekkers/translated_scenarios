@@ -32,7 +32,7 @@ It says it's miso flavoured.");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040321201_03_020");
     MsgDisp("Honda","Yep yep, cooked bear paw.
-I've always wanted to try it onceー.");
+I've always wanted to try it once—.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

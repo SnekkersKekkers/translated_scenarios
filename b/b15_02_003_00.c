@@ -4,8 +4,8 @@ MsgClose();
 ChOpen(2,255,2,0,0,7,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150200300_02_000");
-MsgDisp("Sassa","Hey, you completely didn't understand what
-I said the other day, did you?");
+MsgDisp("Sassa","Hey, you completely didn't understand what I
+said the other day, did you?");
 MsgDisp("主人公","...Ah, sorry.
 It was an accident.");
 ChEye(2,2);
@@ -14,8 +14,8 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150200300_02_010");
 MsgDisp("Sassa","An accident you say...haa.
-Even though I thought we were pretty close
-to understanding each other.");
+Even though I thought we were pretty close to
+understanding each other.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);

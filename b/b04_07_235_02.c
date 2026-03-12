@@ -57,8 +57,8 @@ Aren't you too calm?");
         ChMotion(7,5);
         VoicePlay("B040723502_07_040");
         MsgDisp("Mikage","Ehh?
-Do you also remember the staff who played
-the ghosts?");
+Do you also remember the staff who played the
+ghosts?");
         MsgDisp("主人公","Yes, it's a prominent role.");
         ChEye(7,0);
         ChMouth(7,0);
@@ -68,8 +68,7 @@ the ghosts?");
 Your observation skills are the most scary
 thing.");
         MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝ is a timid person isn't
-he?");
+｛Mikage＊＊｝ is a timid person isn't he?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,3);
@@ -77,8 +76,8 @@ he?");
         VoicePlay("B040723502_07_060");
         MsgDisp("Mikage","Ah, you're tricking me again?");
         MsgDisp("主人公","No.
-Because the usual ghost person is, look,
-at the entrance, right?");
+Because the usual ghost person is, look, at
+the entrance, right?");
         ChEye(7,5);
         ChMouth(7,1);
         ChMotion(7,5);
@@ -95,8 +94,9 @@ Let's go to the next one!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(｛Mikage＊＊｝ seems to be really
-enjoying himself. I'm happy too.)");
+        MsgDisp("主人公","(｛Mikage＊＊｝ seems to be really enjoying
+himself.
+I'm happy too.)");
         break ;
         default :
         DbgAssert(1);

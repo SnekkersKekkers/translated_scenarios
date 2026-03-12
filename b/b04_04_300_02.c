@@ -70,12 +70,11 @@ Well, don't worry about it.");
         MsgDisp("Nanatsumori","It's nice.
 The fact that you're here feels nice.");
         MsgDisp("主人公","I see.
-Hey, you say it \"feels nice,\" but what
-kind of feeling is that?");
+Hey, you say it \"feels nice,\" but what kind
+of feeling is that?");
         ChMotion(4,2,1);
         VoicePlay("B040430002_04_060");
-        MsgDisp("Nanatsumori","Like living together with my
-girlfriend——");
+        MsgDisp("Nanatsumori","Like living together with my girlfriend—");
         MsgDisp("主人公","Eh?");
         ChEye(4,2);
         ChMouth(4,1);
@@ -115,8 +114,8 @@ things that are important to me.");
         ChMotion(4,0,1);
         VoicePlay("B040430002_04_120");
         MsgDisp("Nanatsumori","Amongst it all, there's been another
-important thing added. It might just be
-the most important thing of all.");
+important thing added. It might just be the
+most important thing of all.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0);
@@ -128,8 +127,8 @@ cherish it forever.\"");
         ChMotion(4,1,1);
         ChCheek(4,8);
         VoicePlay("B040430002_04_140");
-        MsgDisp("Nanatsumori","...I would be happy if you could
-understand this feeling.");
+        MsgDisp("Nanatsumori","...I would be happy if you could understand
+this feeling.");
         MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :

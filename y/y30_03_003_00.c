@@ -17,7 +17,7 @@ let \"I like you\" slip out of my
 mouth.");
 MsgClear();
 VoicePlay("Y300300300_03_010");
-MsgDisp("Honda","\"Aahー, But today I said \"love\" didn't
+MsgDisp("Honda","\"Aah—, But today I said \"love\" didn't
 I...
 Seriously, I'm losing it\"");
 MsgClear();

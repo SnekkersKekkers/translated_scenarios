@@ -19,8 +19,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_130");
 MsgDisp("Sassa","I don't really like games but when people
-call them \"E-Sports\", I think about
-checking them out.");
+call them \"E-Sports\", I think about checking
+them out.");
 MsgDisp("主人公","｛Sassa＊＊｝ playing e-sports?
 I might want to watch.");
 ChEye(2,2);
@@ -35,8 +35,8 @@ VoicePlay("B070200000_02_150");
 MsgDisp("Sassa","Really though, running, jumping, and
 throwing.
 Track and field is perfect for me.");
-MsgDisp("主人公","(｛Sassa＊＊｝ could probably be the best
-at any sport.)");
+MsgDisp("主人公","(｛Sassa＊＊｝ could probably be the best at
+any sport.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

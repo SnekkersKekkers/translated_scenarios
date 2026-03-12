@@ -28,8 +28,7 @@ I don't feel like I'll lose, though.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040611101_06_020");
-    MsgDisp("Himuro","In the sense that core strength is
-essential.");
+    MsgDisp("Himuro","In the sense that core strength is essential.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -17,7 +17,7 @@ last year. Haa, I'm nervous.)");
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P530400001_04_000");
     MsgDisp("Nanatsumori","Yo.
-The game's——");
+The game's—");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,0,1);
@@ -76,7 +76,7 @@ last year. Haa, I'm nervous.)");
     VoiceEVSPlay(4);
     VoicePlay("P530400001_04_070");
     MsgDisp("Nanatsumori","｛主人公｝.
-You're stressed, huhー.");
+You're stressed, huh—.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Yeah...");
     VoicePlay("P530400001_04_080");

@@ -98,7 +98,7 @@ SEPlay("EV_SE_544");
 ChOpen(32,1,0,0,0,#1,#1,0,2);
 VoicePlay("A020700000_32_000");
 MsgDisp("VP Himuro","Silence!
-What on earth is going o——");
+What on earth is going o—");
 ChEye(7,2);
 ChMouth(7,1);
 ChMotion(7,4);
@@ -235,7 +235,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("A020700000_07_170");
 MsgDisp("Mikage","Yeah, you, give us a nice end question.");
-MsgDisp("主人公","What a request—— Umm...
+MsgDisp("主人公","What a request— Umm...
 Ah, why did you draw a cow on the black
 board?");
 ChEye(7,0);

@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040418900_04_000");
     MsgDisp("Nanatsumori","No wonder it's a hot topic.
 It was pretty mind blowing.
-That dance was addictiveー...");
+That dance was addictive—...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,9 +25,9 @@ That dance was addictiveー...");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040418900_04_010");
-    MsgDisp("Nanatsumori","I get what you mean. It's probably not a
-matter of reason. I think it's about going
-along with the flow.");
+    MsgDisp("Nanatsumori","I get what you mean.
+It's probably not a matter of reason.
+I think it's about going along with the flow.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

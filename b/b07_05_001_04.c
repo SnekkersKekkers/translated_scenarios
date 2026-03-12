@@ -11,26 +11,26 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_290");
-MsgDisp("Hiiragi","Are you asking about when you're not
-around? ...there's nothing different.");
+MsgDisp("Hiiragi","Are you asking about when you're not around?
+...there's nothing different.");
 MsgDisp("主人公","I see.");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("B070500001_05_300");
 MsgDisp("Hiiragi","Are you disappointed?");
-MsgDisp("主人公","Hmm, I thought it would be a bit different
-to usual, so maybe I was a little hopeful?");
+MsgDisp("主人公","Hmm, I thought it would be a bit different to
+usual, so maybe I was a little hopeful?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B070500001_05_310");
 MsgDisp("Hiiragi","It's not different, but we talk about what
-you'd probably say in certain situations
-and get excited about that.");
+you'd probably say in certain situations and
+get excited about that.");
 ChEye(5,4);
 VoicePlay("B070500001_05_320");
 MsgDisp("Hiiragi","For example...when it comes to barbecues,
 Mikage-sensei says that you seem to like
-vegetables more than meat——");
+vegetables more than meat—");
 ChEye(5,3);
 VoicePlay("B070500001_05_330");
 MsgDisp("Hiiragi","Inori-kun says it must be marshmallow
@@ -40,8 +40,7 @@ What does ｛Hiiragi＊＊＊｝ think?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_340");
-MsgDisp("Hiiragi","I answered saying I think you like
-yakisoba.");
+MsgDisp("Hiiragi","I answered saying I think you like yakisoba.");
 ChEye(5,3);
 VoicePlay("B070500001_05_350");
 MsgDisp("Hiiragi","And to that, he responded \"You're talking

@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(8,3,1);
     VoicePlay("B040824101_08_010");
     MsgDisp("Shirahane","Right!
-It's made with freshly squeezed milk, so
-I'm sure it'll be super delicious!");
+It's made with freshly squeezed milk, so I'm
+sure it'll be super delicious!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -51,7 +51,7 @@ ChMotion(6,0);
 VoicePlay("F100610002_06_050");
 MsgDisp("Himuro","\"There's this rumor going around, do you
 know anything about it?\"
-And then——");
+And then—");
 BGMStop(0.6);
 Wait(30,0);
 VoicePlay("F100610002_32_000");

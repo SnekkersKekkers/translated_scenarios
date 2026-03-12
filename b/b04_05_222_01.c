@@ -7,8 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040522201_05_000");
-MsgDisp("Hiiragi","Unlike the castle tower, this place is
-empty.");
+MsgDisp("Hiiragi","Unlike the castle tower, this place is empty.");
 MsgSel("It's because it's a bit dull isn't it?","If you're a Habataki citizen you'll have come here many times for ages.","Looks like it's just the two of us!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +26,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040522201_05_020");
     MsgDisp("Hiiragi","I see, I want to join that circle soon.
-Until then, could you come with me many
-more times?");
+Until then, could you come with me many more
+times?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

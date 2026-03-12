@@ -3,8 +3,7 @@ future, ｛Hiiragi＊＊＊｝?");
 ChMouth(5,2);
 VoicePlay("B070500000_05_290");
 MsgDisp("Hiiragi","Apart from the theatre company?");
-MsgDisp("主人公","Yeah, ｛Hiiragi＊＊＊｝'s dreams as an
-individual.");
+MsgDisp("主人公","Yeah, ｛Hiiragi＊＊＊｝'s dreams as an individual.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -15,30 +14,29 @@ MsgDisp("主人公","Eh, school life is your dream?");
 ChMotion(5,2);
 VoicePlay("B070500000_05_310");
 MsgDisp("Hiiragi","Yes. Attending school with you and my
-friends, spending time together from
-entrance to graduation; it feels like a dream.");
+friends, spending time together from entrance
+to graduation; it feels like a dream.");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B070500000_05_320");
-MsgDisp("Hiiragi","Apart from that, getting Habataki Theater
-on track to be loved by citizens for years
-to come is also my personal dream.");
-MsgDisp("主人公","Yeah, you'll be able to make both dreams
-come true, ｛Hiiragi＊＊＊｝.");
+MsgDisp("Hiiragi","Apart from that, getting Habataki Theater on
+track to be loved by citizens for years to
+come is also my personal dream.");
+MsgDisp("主人公","Yeah, you'll be able to make both dreams come
+true, ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B070500000_05_330");
-MsgDisp("Hiiragi","When you say it like that, I start to
-believe it, which is troubling.");
+MsgDisp("Hiiragi","When you say it like that, I start to believe
+it, which is troubling.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B070500000_05_340");
 MsgDisp("Hiiragi","It's a tumultuous path, so getting there
 won't be simple.");
-MsgDisp("主人公","(As I thought, being a chairman is
-tough...)");
+MsgDisp("主人公","(As I thought, being a chairman is tough...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

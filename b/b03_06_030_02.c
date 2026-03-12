@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B030603002_06_020");
-    MsgDisp("Himuro","If it's a garden, couldn't we go
-somewhere else?");
+    MsgDisp("Himuro","If it's a garden, couldn't we go somewhere
+else?");
     MsgDispSksp(0);
     break ;
     case 2:

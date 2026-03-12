@@ -34,7 +34,7 @@ ChMotion(21,3);
 VoicePlay("A020D00000_21_020");
 MsgDisp("Michiru?","I know.");
 MsgDisp("主人公","Huh?
-I feel like I've seen you two somewh——");
+I feel like I've seen you two somewh—");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

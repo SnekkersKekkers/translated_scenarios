@@ -18,8 +18,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20101_07_000");
-MsgDisp("Mikage","You're also young enough to be considered
-as one of them.");
+MsgDisp("Mikage","You're also young enough to be considered as
+one of them.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -32,16 +32,15 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20101_07_010");
 MsgDisp("Mikage","It does look like that, it's mysterious.
-It seems that this one hasn't eaten in
-years.");
+It seems that this one hasn't eaten in years.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C20101_06_010");
 MsgDisp("Himuro","...Is that why it's so popular?");
-MsgDisp("主人公","It says on the pamphlet that it's a
-\"creepy cute\" creature.");
+MsgDisp("主人公","It says on the pamphlet that it's a \"creepy
+cute\" creature.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -70,9 +69,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20101_07_030");
-MsgDisp("Mikage","Eh, I see. My bad, my bad. I guess you
-guys are different from typical youths,
-so to speak.");
+MsgDisp("Mikage","Eh, I see.
+My bad, my bad. I guess you guys are
+different from typical youths, so to speak.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -86,8 +85,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C20101_05_030");
 MsgDisp("Hiiragi","If you say so, people like you who are
-willing to associate with people like us
-are also rather rare.");
+willing to associate with people like us are
+also rather rare.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

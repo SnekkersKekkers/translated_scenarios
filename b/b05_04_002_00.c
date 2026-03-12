@@ -43,8 +43,8 @@ MsgDisp("主人公","Ah.");
 StlEyeOpenLevel(4,5,1);
 VoicePlay("B050400200_04_030");
 MsgDisp("Nanatsumori","What.");
-MsgDisp("主人公","This is the first time you've taken off
-your glasses with that hairstyle, right?");
+MsgDisp("主人公","This is the first time you've taken off your
+glasses with that hairstyle, right?");
 StlEyeOpenLevel(4,0,1);
 VoicePlay("B050400200_04_040");
 MsgDisp("Nanatsumori","That's right.
@@ -56,7 +56,7 @@ VoicePlay("B050400200_04_050");
 MsgDisp("Nanatsumori","Thanks.
 Then, let's fly.");
 MsgDisp("主人公","Eh∋
-I haven't braced myself yet——");
+I haven't braced myself yet—");
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400200_04_060");
 MsgDisp("Nanatsumori","Too late");

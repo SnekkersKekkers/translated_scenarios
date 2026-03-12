@@ -19,17 +19,18 @@ VoicePlay("B100100000_01_020");
 MsgDisp("Kazama","Got it.
 You gave it your all didn't you?");
 VoicePlay("B100100000_01_030");
-MsgDisp("Kazama","I was also all worked up, trying to make
-it special. ...sorry.");
+MsgDisp("Kazama","I was also all worked up, trying to make it
+special.
+...sorry.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 VoicePlay("B100100000_01_040");
-MsgDisp("Kazama","Even if things don't go smoothly
-sometimes, that's just like us, right?
+MsgDisp("Kazama","Even if things don't go smoothly sometimes,
+that's just like us, right?
 So don't worry about it.");
 MsgDisp("主人公","...Yeah.");
 VoicePlay("B100100000_01_050");
-MsgDisp("Kazama","That being said, we don't need any more
-days like today for a while, okay?");
+MsgDisp("Kazama","That being said, we don't need any more days
+like today for a while, okay?");
 MsgDisp("主人公","Hehe, yeah.
 For a while!");
 VoicePlay("B100100000_01_060");

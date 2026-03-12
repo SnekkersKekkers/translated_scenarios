@@ -112,9 +112,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330A30200_06_040");
-MsgDisp("Himuro","I expected that of Nozomu-senpai, but you
-and Ryota-senpai also have an aptitude for
-it.");
+MsgDisp("Himuro","I expected that of Nozomu-senpai, but you and
+Ryota-senpai also have an aptitude for it.");
 VoicePlay("B330A30200_02_050");
 MsgDisp("Sassa","Inori!
 Look, we're going one last time!
@@ -158,8 +157,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A30200_06_060");
-MsgDisp("Himuro","Ryota-senpai and Nozomu-senpai have
-natural potential.
+MsgDisp("Himuro","Ryota-senpai and Nozomu-senpai have natural
+potential.
 Of course, that goes for you too.");
 MsgDisp("主人公","Really?
 Thanks.");
@@ -192,8 +191,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 MsgDisp("Himuro","...Then, as for the tuition fee, you guys
-will treat me to the next meal at the
-school cafeteria.");
+will treat me to the next meal at the school
+cafeteria.");
 MsgDisp("主人公","(Hehe, that's just like ｛Himuro＊＊｝.
 But it was super fun.
 I want to come here with everyone again!)");

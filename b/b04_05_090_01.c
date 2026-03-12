@@ -38,8 +38,8 @@ this establishment.");
     ChMotion(5,3);
     VoicePlay("B040509001_05_030");
     MsgDisp("Hiiragi","Heheh, I understand.
-When a big butterfly lands on your face,
-it looks like a masquerade ball.");
+When a big butterfly lands on your face, it
+looks like a masquerade ball.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

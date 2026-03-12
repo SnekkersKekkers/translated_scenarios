@@ -72,8 +72,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650301_06_090");
-MsgDisp("Himuro","You really don't think it's a bad thing,
-do you?
+MsgDisp("Himuro","You really don't think it's a bad thing, do
+you?
 Jeez...");
 MsgDisp("主人公","(You're not being honest, huh?)");
 BGMStop();

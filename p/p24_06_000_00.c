@@ -49,7 +49,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("P240600000_06_040");
-MsgDisp("Himuro","Since meeting you, I——");
+MsgDisp("Himuro","Since meeting you, I—");
 MsgDisp("主人公","(...Eh, 'I'?)");
 VoicePlay("P240600000_06_050");
 MsgDisp("Himuro","Whether it's at school, or at the beach,
@@ -65,7 +65,7 @@ No, I'll just keep going.)");
 MsgDisp("主人公","But...my father, the Celestial Emperor,
 does not view our current relationship
 favorably. If things continue like
-this——");
+this—");
 StlEye(6,1,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,5,1);

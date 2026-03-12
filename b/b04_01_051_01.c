@@ -31,8 +31,9 @@ planetarium.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040105101_01_020");
-    MsgDisp("Kazama","Hey. Don't group me in with you. I don't
-mind coming here together with you, but...");
+    MsgDisp("Kazama","Hey.
+Don't group me in with you. I don't mind
+coming here together with you, but...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

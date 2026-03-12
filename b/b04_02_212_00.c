@@ -41,8 +41,8 @@ Those are used to feed the animals though.");
     ChMotion(2,4);
     VoicePlay("B040221200_02_030");
     MsgDisp("Sassa","A close-up of a leopard...
-I kind of want to see you wearing it, but
-I don't want to see it either.");
+I kind of want to see you wearing it, but I
+don't want to see it either.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

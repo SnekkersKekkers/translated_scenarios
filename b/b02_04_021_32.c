@@ -16,5 +16,5 @@ MsgDisp("Nanatsumori","Yes, that expression exactly!
 It's not just about the clothes, but the
 person wearing it that makes it sexy too.");
 MsgDisp("主人公","(Umm...?
-But ｛Nanatsumori＊｝ seems to have really
-come to like these kinds of clothes.)");
+But ｛Nanatsumori＊｝ seems to have really come
+to like these kinds of clothes.)");

@@ -72,7 +72,7 @@ MsgDisp("","She would dress stylishly with
 various different clothes and
 accessories.");
 VoicePlay("Y300700500_07_040");
-MsgDisp("Mikage","\"Phewー...\"");
+MsgDisp("Mikage","\"Phew—...\"");
 MsgDisp("","Huh?
 Somehow, I feel nervous.");
 MsgClear();
@@ -85,7 +85,7 @@ distant sky.");
 MsgClear();
 MsgDisp("","Then, what should my first words be
 to her...");
-MsgDisp("","When I see that face—— These are the
+MsgDisp("","When I see that face— These are the
 words that come out naturally.");
 MsgClear();
 VoicePlay("Y300700500_07_050");

@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040421202_04_010");
-    MsgDisp("Nanatsumori","The rabbit is fine but not the gorillaー");
+    MsgDisp("Nanatsumori","The rabbit is fine but not the gorilla—");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -74,8 +74,8 @@ You're so funny.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040421202_04_070");
-        MsgDisp("Nanatsumori","I mean, bunny girls are something that
-guys yearn for?");
+        MsgDisp("Nanatsumori","I mean, bunny girls are something that guys
+yearn for?");
         MsgDisp("主人公","...Pervert.");
         ChEye(4,2);
         ChMouth(4,1);
@@ -83,8 +83,7 @@ guys yearn for?");
         ChCheek(4,8);
         VoicePlay("B040421202_04_080");
         MsgDisp("Nanatsumori","Eh∋
-I didn't say you had to be a full-body
-bunny.");
+I didn't say you had to be a full-body bunny.");
         MsgDisp("主人公","Your eyes are kind of serious though,
 ｛Nanatsumori＊｝.");
         ChEye(4,2);
@@ -94,7 +93,7 @@ bunny.");
         VoicePlay("B040421202_04_090");
         MsgDisp("Nanatsumori","Well...it can't be helped.
 I seriously do want to see it after all.");
-        MsgDisp("主人公","Ehー...");
+        MsgDisp("主人公","Eh—...");
         MsgDisp("主人公","Okay, understood.
 Then, I'll wear it.");
         ChEye(4,0);
@@ -102,7 +101,7 @@ Then, I'll wear it.");
         ChMotion(4,3,1);
         VoicePlay("B040421202_04_100");
         MsgDisp("Nanatsumori","Yay!");
-        MsgDisp("主人公","In exchange——");
+        MsgDisp("主人公","In exchange—");
         MsgClose();
         SEPlay("EV_SE_544",0,0.8,0.3);
         ChClose(4,0,30);

@@ -14,8 +14,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B180200000_02_010");
 MsgDisp("Sassa","Umm, well...
-I was thinking of addressing you like
-this...");
+I was thinking of addressing you like this...");
 MsgSel("Well, it's fine","Yeah～, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -57,14 +56,14 @@ necessary until we get used to it.");
     ChMotion(2,0);
     ChCheek(2,0);
     VoicePlay("B180200000_02_060");
-    MsgDisp("Sassa","Ahhー.
+    MsgDisp("Sassa","Ahh—.
 I-Is that right?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("B180200000_02_070");
     MsgDisp("Sassa","It doesn't really feel right all of a
-suddenー.
+sudden—.
 Haha...");
     MsgDisp("主人公","(Did I make him feel bad...?)");
     break ;

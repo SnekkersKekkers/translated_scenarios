@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040103101_01_010");
-    MsgDisp("Kazama","Oh, that's a pretty smart thing to say,
-huh?");
+    MsgDisp("Kazama","Oh, that's a pretty smart thing to say, huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,8 +29,8 @@ huh?");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040103101_01_020");
     MsgDisp("Kazama","I wonder just how much water pressure they
-apply to this thing...Don't get too close
-to it. Come over here.");
+apply to this thing...
+Don't get too close to it. Come over here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,9 +41,9 @@ to it. Come over here.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040103101_01_030");
-    MsgDisp("Kazama","Yeah they are. Safe, secure, and they
-don't even have to find their own meals
-since they fall from above.");
+    MsgDisp("Kazama","Yeah they are. Safe, secure, and they don't
+even have to find their own meals since they
+fall from above.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

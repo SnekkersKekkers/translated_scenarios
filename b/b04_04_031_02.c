@@ -20,9 +20,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040403102_04_010");
-    MsgDisp("Nanatsumori","A sushi restaurant in an aquarium? Damn.
-That's too edgy! The person who came up
-with that is a genius.");
+    MsgDisp("Nanatsumori","A sushi restaurant in an aquarium?
+Damn. That's too edgy!
+The person who came up with that is a genius.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,9 +33,9 @@ with that is a genius.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040403102_04_020");
-    MsgDisp("Nanatsumori","Wow, it's the jewelry illumination
-aquarium. The collab between the fish and
-the lights is incredible. Damn.");
+    MsgDisp("Nanatsumori","Wow, it's the jewelry illumination aquarium.
+The collab between the fish and the lights is
+incredible. Damn.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -65,7 +65,7 @@ home.");
         VoicePlay("B040403102_04_040");
         MsgDisp("Nanatsumori","Ah...right.");
         MsgDisp("主人公","Ah, did you want to take a picture?
-Then——");
+Then—");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);
@@ -77,16 +77,16 @@ I made you feel weird.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040403102_04_060");
-        MsgDisp("Nanatsumori","Look. If I'm causing you to make that
-face, there was no point for me to have
-come here today.");
+        MsgDisp("Nanatsumori","Look.
+If I'm causing you to make that face, there
+was no point for me to have come here today.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040403102_04_070");
-        MsgDisp("Nanatsumori","Trends and limited-time exhibits. I take a
-picture, share it, feel satisfied. It's
-all just self-satisfaction.");
+        MsgDisp("Nanatsumori","Trends and limited-time exhibits.
+I take a picture, share it, feel satisfied.
+It's all just self-satisfaction.");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);
@@ -109,8 +109,9 @@ Hey!");
         ChMotion(4,3,1);
         ChCheek(4,5);
         VoicePlay("B040403102_04_100");
-        MsgDisp("Nanatsumori","Ahaha! Okay, okay. I got to see the
-expression I wanted to see today.");
+        MsgDisp("Nanatsumori","Ahaha!
+Okay, okay. I got to see the expression I
+wanted to see today.");
         break ;
         default :
         DbgAssert(1);

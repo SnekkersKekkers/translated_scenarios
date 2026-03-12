@@ -33,7 +33,7 @@ ChCheek(21,6);
 VoicePlay("F032100000_21_450");
 MsgDisp("Michiru","We have to have the same values, mutual
 respect, and always hold the same love for
-the ot——");
+the ot—");
 ChEye(21,2);
 ChMouth(21,5);
 ChMotion(21,5);

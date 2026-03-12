@@ -35,8 +35,7 @@ Then, let's be off.");
     MsgDispSksp(1,0);
     ChMotion(5,2);
     VoicePlay("B010500001_05_030");
-    MsgDisp("Hiiragi","I can't forgive myself for making you
-wait.");
+    MsgDisp("Hiiragi","I can't forgive myself for making you wait.");
     MsgDispSksp(0);
     break ;
     case 4:

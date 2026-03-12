@@ -30,7 +30,7 @@ understand his facial expressions.
 But his voice sounds like he's
 amused.");
 MsgDisp("","Today's theme will surely interest
-even you two, I said, laughing——");
+even you two, I said, laughing—");
 MsgClear();
 VoicePlay("Y300300400_01_010");
 MsgDisp("Kazama","\"Don't put on airs and be quick.\"");

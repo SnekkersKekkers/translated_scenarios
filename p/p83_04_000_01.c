@@ -9,7 +9,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     MsgDisp("主人公","Supply management is not that easy...");
     VoicePlay("P830400001_46_000");
-    MsgDisp("School Girl","Excuse meー.
+    MsgDisp("School Girl","Excuse me—.
 We don't have enough flowers for
 decoration.");
     MsgDisp("主人公","Flowers?
@@ -22,7 +22,7 @@ Please just wait a second.");
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     ChMotion(4,1,1);
     VoicePlay("P830400001_04_000");
-    MsgDisp("Nanatsumori","...Seems difficultー.");
+    MsgDisp("Nanatsumori","...Seems difficult—.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Sorry, I'm a bit busy right now...");
     ChEye(4,2);
@@ -37,7 +37,7 @@ Let me just wait here slowly.");
     case 5:
     MsgDisp("主人公","Supply management is not that easy...");
     VoicePlay("P830400001_46_010");
-    MsgDisp("School Girl","Excuse meー.
+    MsgDisp("School Girl","Excuse me—.
 We don't have enough flowers for
 decoration.");
     MsgDisp("主人公","Flowers, right?

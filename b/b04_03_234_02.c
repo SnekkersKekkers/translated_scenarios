@@ -5,8 +5,8 @@ ChOpen(3,255,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323402_03_000");
-MsgDisp("Honda","I really like the structure of the
-planetary gear mechanism itself.");
+MsgDisp("Honda","I really like the structure of the planetary
+gear mechanism itself.");
 MsgSel("If you think about difficult things, you might end up motion-sick ","If you like it, how about another round?","Planetary gear mechanism??");
 switch (MsgSelRsltGet()){
     case 0:
@@ -36,9 +36,9 @@ even more motion sick.");
         ChMouth(3,3);
         ChMotion(3,0);
         VoicePlay("B040323402_03_030");
-        MsgDisp("Honda","Besides, when I'm in a cup that's rotating
-on its own axis while orbiting, it feels
-like I'm on some unknown planet.");
+        MsgDisp("Honda","Besides, when I'm in a cup that's rotating on
+its own axis while orbiting, it feels like
+I'm on some unknown planet.");
         MsgDisp("主人公","Waa, that's great.");
         ChMotion(3,3);
         VoicePlay("B040323402_03_040");
@@ -49,9 +49,9 @@ not good with these sorts of things.");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040323402_03_050");
-        MsgDisp("Honda","Nuhーuh. I wouldn't ride a teacup by
-myself, right? And then I wouldn't
-have come to that conclusion just now.");
+        MsgDisp("Honda","Nuh—uh. I wouldn't ride a teacup by myself,
+right? And then I wouldn't have come to that
+conclusion just now.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);
@@ -65,8 +65,8 @@ worthwhile going anywhere!");
         ChMotion(3,1);
         VoicePlay("B040323402_03_070");
         MsgDisp("Honda","Yep yep...
-Ah, but I think I'm good on the teacups
-for a while.");
+Ah, but I think I'm good on the teacups for a
+while.");
         MsgDisp("主人公","(Hmmm, what should we do?)");
         break ;
         default :
@@ -89,8 +89,8 @@ for a while.");
     ChMotion(3,1);
     VoicePlay("B040323402_03_090");
     MsgDisp("Honda","Yep yep, the mechanism of three axes and
-gears. The coffee cup is play equipment
-that that uses this principle.");
+gears. The coffee cup is play equipment that
+that uses this principle.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

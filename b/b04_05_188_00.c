@@ -34,8 +34,7 @@ explain a bit?");
     ChMotion(5,4);
     VoicePlay("B040518800_05_020");
     MsgDisp("Hiiragi","Ah, I'm glad.
-I didn't understand the funny parts
-either.");
+I didn't understand the funny parts either.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -29,8 +29,7 @@ refined adult.");
     ChMotion(4,1,1);
     VoicePlay("B040415200_04_020");
     MsgDisp("Nanatsumori","Rules be damned.
-Well, I guess that's not really wrong
-either.");
+Well, I guess that's not really wrong either.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

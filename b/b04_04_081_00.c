@@ -5,7 +5,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040408100_04_000");
-MsgDisp("Nanatsumori","Ohー, they're in full bloom.");
+MsgDisp("Nanatsumori","Oh—, they're in full bloom.");
 MsgSel("｛Nanatsumori＊｝, the flurry of falling cherry blossoms suit you.","The time in which you can see the falling cherry blossoms is so fleeting...","I want to eat some delicious cherry blossom mochi");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +29,8 @@ It suits you too.");
     ChMotion(4,2,1);
     VoicePlay("B040408100_04_020");
     MsgDisp("Nanatsumori","Fleeting, huh?
-It's definitely sad that they fall in such
-a short period of time.");
+It's definitely sad that they fall in such a
+short period of time.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -19,16 +19,16 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B070600002_06_380");
-MsgDisp("Himuro","Yeah. Age and gender don't matter when
-it comes to who you hang out with.
+MsgDisp("Himuro","Yeah. Age and gender don't matter when it
+comes to who you hang out with.
 I think this is a good example of that.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_390");
-MsgDisp("Himuro","...But maybe, even after we move on from
-Haba High and begin to walk our own paths,
-we'll meet somehow?");
+MsgDisp("Himuro","...But maybe, even after we move on from Haba
+High and begin to walk our own paths, we'll
+meet somehow?");
 MsgDisp("主人公","I hope so.");
 ChEye(6,0);
 ChMouth(6,0);

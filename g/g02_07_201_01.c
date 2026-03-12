@@ -22,7 +22,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720101_07_030");
 MsgDisp("Mikage","Shall I check it out?");
-MsgDisp("主人公","Eh, how——");
+MsgDisp("主人公","Eh, how—");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

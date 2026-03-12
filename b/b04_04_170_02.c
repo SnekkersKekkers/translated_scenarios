@@ -90,7 +90,8 @@ cool...)");
         ChMouthOpenLevel(4,#1);
         VoicePlay("B040417002_04_100");
         MsgDisp("Nanatsumori","You really are cute.");
-        MsgDisp("主人公","∈ Did you read my mind∋");
+        MsgDisp("主人公","∈
+Did you read my mind∋");
         ChEye(4,4);
         ChMouth(4,0);
         ChMotion(4,0,1);
@@ -116,8 +117,8 @@ You mean to say that I'm cute?");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040417002_04_130");
-        MsgDisp("Nanatsumori","The excitement of the closed room has come
-to an end.
+        MsgDisp("Nanatsumori","The excitement of the closed room has come to
+an end.
 It's over.");
         MsgDisp("主人公","Y-Yeah.");
         ChEye(4,4);
@@ -128,8 +129,7 @@ It's over.");
 I don't feel like singing anymore.
 Right?");
         MsgDisp("主人公","(Definitely.
-That might've been a bit too
-stimulating...)");
+That might've been a bit too stimulating...)");
         break ;
         default :
         DbgAssert(1);

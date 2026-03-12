@@ -34,8 +34,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C30800_07_000");
 MsgDisp("Mikage","Haha, that's a rough guess.
-Well, that's fine, should we go check it
-out?");
+Well, that's fine, should we go check it out?");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

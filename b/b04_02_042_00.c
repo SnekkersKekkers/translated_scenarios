@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040204200_02_000");
     MsgDisp("Sassa","The trapeze was awesome.
-That part where they almost fell was
-staged, right∋");
+That part where they almost fell was staged,
+right∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -23,9 +23,9 @@ staged, right∋");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040204200_02_010");
-    MsgDisp("Sassa","I guess...That clown dragged us around and
-made us do different things...Well, it was
-still a good experience.");
+    MsgDisp("Sassa","I guess... That clown dragged us around and
+made us do different things...
+Well, it was still a good experience.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

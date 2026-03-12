@@ -8,9 +8,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B040724200_07_000");
-MsgDisp("Mikage","Today we're going to cook rice and curry
-in the camping kit. Split into groups then
-start your preparations!");
+MsgDisp("Mikage","Today we're going to cook rice and curry in
+the camping kit. Split into groups then start
+your preparations!");
 MsgSel("Curry during camping is the best!","I'll do my best preparing the vegetables!","I brought some excellent instant curry.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -32,8 +32,8 @@ It can't be bad.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040724200_07_020");
-    MsgDisp("Mikage","Those vegetables were all beauties grown
-at the gardening club.
+    MsgDisp("Mikage","Those vegetables were all beauties grown at
+the gardening club.
 Please prepare them deliciously.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

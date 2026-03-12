@@ -54,7 +54,7 @@ ChMotion(6,0);
 VoicePlay("G020610200_06_070");
 MsgDisp("Himuro","It's really unlike me.
 To even find these trivial conversations
-enjoyable——");
+enjoyable—");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -25,7 +25,7 @@ ChOpen(4,253,0,0,0,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330B20200_03_000");
 MsgDisp("Honda","It's moving no matter how many times you
-watch it...The constellations, the myths;
+watch it... The constellations, the myths;
 the life of the stars.");
 ChEyeOpenLevel(3,#1);
 MsgDisp("主人公","Yeah.
@@ -54,15 +54,15 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B20200_03_010");
 MsgDisp("Honda","That's right.
-Zeus had many children with various
-goddesses and human women.");
+Zeus had many children with various goddesses
+and human women.");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B20200_03_020");
-MsgDisp("Honda","He made his wife Hera constantly jealous,
-and he had a lot of unhappy relationships.");
+MsgDisp("Honda","He made his wife Hera constantly jealous, and
+he had a lot of unhappy relationships.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
@@ -73,8 +73,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B330B20200_03_030");
-MsgDisp("Honda","But, it's because of the legends of Zeus
-that so many constellations exist.");
+MsgDisp("Honda","But, it's because of the legends of Zeus that
+so many constellations exist.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -85,8 +85,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20200_03_040");
-MsgDisp("Honda","No matter how he acted, when he came to
-like a woman, a romance was born.");
+MsgDisp("Honda","No matter how he acted, when he came to like
+a woman, a romance was born.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -98,9 +98,9 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("B330B20200_04_020");
-MsgDisp("Nanatsumori","Apparently Dahon thinks that when you come
-to like a girl, a romantic relationship is
-born. Be careful.");
+MsgDisp("Nanatsumori","Apparently Dahon thinks that when you come to
+like a girl, a romantic relationship is born.
+Be careful.");
 MsgDisp("主人公","Be careful?");
 ChEye(3,0);
 ChMouth(3,4);
@@ -109,8 +109,8 @@ VoicePlay("B330B20200_03_050");
 MsgDisp("Honda","Hm?
 Is there something on my face?");
 MsgDisp("主人公","(A romance with ｛Honda＊＊｝...
-I don't think there's anything to worry
-about though...)");
+I don't think there's anything to worry about
+though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

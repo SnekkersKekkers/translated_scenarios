@@ -55,9 +55,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20800_07_040");
-MsgDisp("Mikage","That's right— Would you like to try it?
-We have some fire starter as a last
-resort, so it's alright.");
+MsgDisp("Mikage","That's right—
+Would you like to try it? We have some fire
+starter as a last resort, so it's alright.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -88,8 +88,7 @@ VoicePlay("B330C20800_07_050");
 MsgDisp("Mikage","Yay!
 This is the true joy of camping.");
 MsgDisp("主人公","(Hehe, everyone seems to be having fun!
-Camping with four people is this much
-fun!)");
+Camping with four people is this much fun!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(2);

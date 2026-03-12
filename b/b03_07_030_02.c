@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     MsgDispSksp(1,0);
     VoicePlay("B030703002_07_010");
     MsgDisp("Mikage","Right, aquarium group, follow me.
-We'll visit each area in turn, so
-everyone else wait quietly.");
+We'll visit each area in turn, so everyone
+else wait quietly.");
     MsgDispSksp(0);
     break ;
     case 1:
@@ -28,9 +28,9 @@ everyone else wait quietly.");
     ChMotion(7,0);
     MsgDispSksp(1,0);
     VoicePlay("B030703002_07_020");
-    MsgDisp("Mikage","Water Garden group's with me. We'll take
-turns looking at different places, so
-other groups please watch quietly.");
+    MsgDisp("Mikage","Water Garden group's with me.
+We'll take turns looking at different places,
+so other groups please watch quietly.");
     MsgDispSksp(0);
     break ;
     case 2:
@@ -39,9 +39,9 @@ other groups please watch quietly.");
     ChMotion(7,0);
     MsgDispSksp(1,0);
     VoicePlay("B030703002_07_030");
-    MsgDisp("Mikage","I'm going to the Deep Sea Corner. We'll
-take turns looking at different places, so
-other groups please watch quietly.");
+    MsgDisp("Mikage","I'm going to the Deep Sea Corner.
+We'll take turns looking at different places,
+so other groups please watch quietly.");
     MsgDispSksp(0);
     break ;
     default :

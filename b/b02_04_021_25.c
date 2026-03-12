@@ -5,8 +5,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B020402125_04_000");
-MsgDisp("Nanatsumori","Honestly, I didn't think sporty clothes
-were my thing.");
+MsgDisp("Nanatsumori","Honestly, I didn't think sporty clothes were
+my thing.");
 MsgDisp("主人公","Really?");
 ChEye(4,0);
 ChMouth(4,3);

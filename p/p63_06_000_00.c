@@ -29,7 +29,7 @@ the herbs grown by the club.");
     VoicePlay("P630600000_06_020");
     MsgDisp("Himuro","Ah, I see.
 Then, I'll have some.");
-    MsgDisp("主人公","Yes, right awayー!");
+    MsgDisp("主人公","Yes, right away—!");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(6,#1);
@@ -70,7 +70,7 @@ love.");
     ChCheek(6,10);
     VoicePlay("P630600000_06_060");
     MsgDisp("Himuro","Then, I'll eat some.");
-    MsgDisp("主人公","Yes, with pleasureー!");
+    MsgDisp("主人公","Yes, with pleasure—!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,5);

@@ -5,33 +5,32 @@ MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050100000_01_001");
-MsgDisp("Kazama","This amusement park has quite the
-history...");
+MsgDisp("Kazama","This amusement park has quite the history...");
 MsgDisp("主人公","Yeah.
-But, the number of new attractions just
-keep on increasing.");
+But, the number of new attractions just keep
+on increasing.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100000_01_011");
 MsgDisp("Kazama","What are you, the park's spokesperson?");
 MsgDisp("主人公","Hehe.
-It's because I used to come here a lot
-with my family when I was younger.");
+It's because I used to come here a lot with
+my family when I was younger.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("B050100000_01_021");
-MsgDisp("Kazama","I see. Well, if I hadn't gone to England,
-we would've come here many times as well
-right?");
+MsgDisp("Kazama","I see.
+Well, if I hadn't gone to England, we
+would've come here many times as well right?");
 MsgDisp("主人公","Yeah, maybe.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100000_01_031");
-MsgDisp("Kazama","What do you mean \"Maybe\" ...Geez. Alright,
-let's make up for that today okay?");
+MsgDisp("Kazama","What do you mean \"Maybe\" ...Geez.
+Alright, let's make up for that today okay?");
 MsgDisp("主人公","Yeah!");
 BGMStop();
 MsgClose();
@@ -73,16 +72,15 @@ BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 SEPlay("EV_SE_084",0);
 Wait(30,0);
-MsgDisp("主人公","...｛Kazama＊＊｝, do you like ferris
-wheels?");
+MsgDisp("主人公","...｛Kazama＊＊｝, do you like ferris wheels?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B050100000_01_010");
 MsgDisp("Kazama","Almost time.
-When the gondola reaches the top, that's
-my chance...");
+When the gondola reaches the top, that's my
+chance...");
 SEPlay("EV_SE_544");
 MsgClose();
 ScrFadeOut(0,0,30);
@@ -123,8 +121,8 @@ StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 VoicePlay("B050100000_01_050");
 MsgDisp("Kazama","...Geez, what am I doing.
-Even though this isn't something you need
-to resolve yourself to do.");
+Even though this isn't something you need to
+resolve yourself to do.");
 MsgDisp("主人公","What?");
 StlEyeOpenLevel(1,0,1);
 Wait(1,0);
@@ -189,8 +187,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B050100000_01_100");
-MsgDisp("Kazama","Actually I was thinking the ferris wheel
-ride was kind of juvenile.");
+MsgDisp("Kazama","Actually I was thinking the ferris wheel ride
+was kind of juvenile.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
@@ -224,9 +222,8 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B050100000_01_120");
-MsgDisp("Kazama","...Come to think of it, the ferris wheel
-was supposed to be for avoiding the public
-gaze.");
+MsgDisp("Kazama","...Come to think of it, the ferris wheel was
+supposed to be for avoiding the public gaze.");
 MsgDisp("主人公","...");
 ChEye(1,0);
 ChMouth(1,3);

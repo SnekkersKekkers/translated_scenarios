@@ -7,7 +7,7 @@ potential within yourself.");
 MsgDisp("主人公","Huh?");
 ChEye(5,4);
 VoicePlay("B020502003_05_010");
-MsgDisp("Hiiragi","No matter what you wear, you always seem
-to have something shining within you.
+MsgDisp("Hiiragi","No matter what you wear, you always seem to
+have something shining within you.
 Not just anyone can do that.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ gave me a compliment!)");

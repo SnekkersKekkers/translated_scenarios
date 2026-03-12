@@ -7,7 +7,7 @@ switch (ChPrmGet(2,6)){
     case 3:
     BGOpen("sc710",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Phewー, that was heavy. In case of
+    MsgDisp("主人公","(Phew—, that was heavy. In case of
 emergency, a fire extinguishing bucket has
 to be placed in front of each classroom.)");
     MsgClose();
@@ -43,7 +43,7 @@ Hey, which classroom too next?");
     case 5:
     BGOpen("sc710",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Phewー, that was heavy. In case of
+    MsgDisp("主人公","(Phew—, that was heavy. In case of
 emergency, a fire extinguishing bucket has
 to be placed in front of each classroom.)");
     MsgClose();

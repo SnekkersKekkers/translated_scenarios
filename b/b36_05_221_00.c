@@ -13,23 +13,23 @@ SEPlay("EV_SE_084",0,0.5);
 ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("B360522100_05_000");
-MsgDisp("Hiiragi","Good, we made it in time to see the
-sunset.");
+MsgDisp("Hiiragi","Good, we made it in time to see the sunset.");
 MsgDisp("主人公","Yeah, it's beautiful.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B360522100_05_010");
-MsgDisp("Hiiragi","Yeah. The sky and castle are dyed red...
+MsgDisp("Hiiragi","Yeah.
+The sky and castle are dyed red...
 It's like \"Habataki Castle Ablaze\".");
 MsgDisp("主人公","Eh?
-Is that a performance by the Habataki
-Theater Company?");
+Is that a performance by the Habataki Theater
+Company?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522100_05_020");
 MsgDisp("Hiiragi","Yes.
-Before starting our activities, I would
-come here on my own.");
+Before starting our activities, I would come
+here on my own.");
 MsgDisp("主人公","I see.");
 ChEye(5,4);
 ChMotion(5,2);
@@ -40,15 +40,15 @@ this castle.");
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360522100_05_040");
-MsgDisp("Hiiragi","The idea for that performance was born
-from the fiery red sky and castle tower.");
+MsgDisp("Hiiragi","The idea for that performance was born from
+the fiery red sky and castle tower.");
 MsgDisp("主人公","...The play was born from this view.");
 ChMotion(5,3);
 Wait(22,0);
 ChEye(5,3);
 VoicePlay("B360522100_05_050");
 MsgDisp("Hiiragi","Yes.
-I wanted to see it with you once——");
+I wanted to see it with you once—");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522100_05_060");

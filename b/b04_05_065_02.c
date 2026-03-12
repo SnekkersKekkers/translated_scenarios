@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,2);
     VoicePlay("B040506502_05_010");
     MsgDisp("Hiiragi","That's right.
-I had forgotten there are people still
-honing their craft.");
+I had forgotten there are people still honing
+their craft.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -51,8 +51,8 @@ I hadn't noticed.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040506502_05_040");
-        MsgDisp("Hiiragi","But, even if the numbers diminished, I
-think I would have the same impressions.");
+        MsgDisp("Hiiragi","But, even if the numbers diminished, I think
+I would have the same impressions.");
         MsgDisp("主人公","Eh?");
         ChEye(5,4);
         ChMotion(5,0);
@@ -61,8 +61,8 @@ think I would have the same impressions.");
 My relationship with you, as we watch it
 together each year becomes stronger.");
         MsgDisp("主人公","I see, that's right.
-And also your relationship with the
-theatre troupe and people in the town....");
+And also your relationship with the theatre
+troupe and people in the town....");
         ChEye(5,2);
         ChMouth(5,4);
         ChMotion(5,2);

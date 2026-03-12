@@ -44,8 +44,8 @@ second longer?");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108302_01_030");
-        MsgDisp("Kazama","You should study up a bit more on how to
-set the mood, seriously.");
+        MsgDisp("Kazama","You should study up a bit more on how to set
+the mood, seriously.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -78,9 +78,9 @@ By all means, please continue.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040108302_01_070");
-        MsgDisp("Kazama","My bad. But if I really could hear your
-inner voice, I'm sure we could have a
-normal conversation.");
+        MsgDisp("Kazama","My bad.
+But if I really could hear your inner voice,
+I'm sure we could have a normal conversation.");
         MsgDisp("主人公","And what about your inner voice?");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
@@ -90,15 +90,17 @@ normal conversation.");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108302_01_080");
         MsgDisp("Kazama","Wait a second.
-Don't just suddenly put me on the spot
-like that...");
+Don't just suddenly put me on the spot like
+that...");
         ChEye(1,4);
         ChMouth(1,4);
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040108302_01_090");
-        MsgDisp("Kazama","...THIS. IS. HIS. INNER. VOICE. BEEP.");
+        MsgDisp("Kazama","...THIS.
+IS.
+HIS. INNER. VOICE. BEEP.");
         MsgDisp("主人公","Hehe, your inner voice did a self
 introduction too?");
         ChEye(1,2);

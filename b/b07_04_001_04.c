@@ -1,6 +1,6 @@
 MsgDisp("主人公","Hey.
-What do you and the others talk about
-when I'm not there, ｛Nanatsumori＊｝?");
+What do you and the others talk about when
+I'm not there, ｛Nanatsumori＊｝?");
 VoicePlay("B070400001_04_270");
 MsgDisp("Nanatsumori","All sorts.");
 MsgDisp("主人公","For example?");
@@ -16,28 +16,27 @@ He's always talking.");
 ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_300");
-MsgDisp("Nanatsumori","When it comes to Habatcher or other
-popular things, the baton is passed on to
-me.");
+MsgDisp("Nanatsumori","When it comes to Habatcher or other popular
+things, the baton is passed on to me.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B070400001_04_310");
 MsgDisp("Nanatsumori","Now that I think about it, Kazama doesn't
-really talk much about the pasー.");
+really talk much about the pas—.");
 MsgDisp("主人公","Really?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_320");
-MsgDisp("Nanatsumori","Yeah. I'm from the neighboring town, so
-I'd like to hear lots of different things
-about Habataki City.");
+MsgDisp("Nanatsumori","Yeah. I'm from the neighboring town, so I'd
+like to hear lots of different things about
+Habataki City.");
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_330");
-MsgDisp("Nanatsumori","Well, what Kazama won't tell you, Dahon
-will talk a lot, adding little tidbits.");
+MsgDisp("Nanatsumori","Well, what Kazama won't tell you, Dahon will
+talk a lot, adding little tidbits.");
 MsgDisp("主人公","I see.");
 ChEye(4,0);
 ChMouth(4,0);

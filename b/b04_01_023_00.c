@@ -33,8 +33,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040102300_01_030");
     MsgDisp("Kazama","They're gathering all around you.
-That attractive aura of yours even works
-on birds.");
+That attractive aura of yours even works on
+birds.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

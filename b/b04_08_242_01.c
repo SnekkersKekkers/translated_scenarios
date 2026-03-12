@@ -26,7 +26,7 @@ I'm good at climbing trees though?");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040824201_08_020");
-    MsgDisp("Shirahane","Hmー.
+    MsgDisp("Shirahane","Hm—.
 I mean, getting a little dirty is part of
 camping, right?");
     MsgDateResultDisp();
@@ -39,8 +39,8 @@ camping, right?");
     ChEyeOpenLevel(8,0);
     VoicePlay("B040824201_08_030");
     MsgDisp("Shirahane","Hehe, that's right.
-Then, let's look for a tree that's good
-for climbing!");
+Then, let's look for a tree that's good for
+climbing!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -14,13 +14,13 @@ skinship techniques before?");
 VoicePlay("B150300200_03_020");
 MsgDisp("Honda","I thought that maybe the reason it felt so
 good was because you're really good at
-it——at least, that was my hypothesis.");
+it—at least, that was my hypothesis.");
 MsgDisp("主人公","Y-Yeah?");
 ChEye(3,0);
 ChMotion(3,0,1);
 VoicePlay("B150300200_03_030");
-MsgDisp("Honda","But today, it didn't seem like you were
-doing anything special.");
+MsgDisp("Honda","But today, it didn't seem like you were doing
+anything special.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -33,9 +33,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B150300200_03_050");
-MsgDisp("Honda","Could it be that the reason I feel so
-happy isn't about the technique at all,
-but the fact that it's you doing it?");
+MsgDisp("Honda","Could it be that the reason I feel so happy
+isn't about the technique at all, but the
+fact that it's you doing it?");
 MsgDisp("主人公","I'd be really happy if that's the case...");
 ChEye(3,0);
 ChMouth(3,3);
@@ -47,9 +47,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B150300200_03_070");
-MsgDisp("Honda","But you know, if that's true, then I'm
-glad. Because it would mean that we both
-have feelings for each other, right?");
+MsgDisp("Honda","But you know, if that's true, then I'm glad.
+Because it would mean that we both have
+feelings for each other, right?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

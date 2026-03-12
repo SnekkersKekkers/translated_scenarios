@@ -32,9 +32,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10200_03_000");
-MsgDisp("Honda","Right right. The fish in this aquarium
-have adapted to this place, and are
-changing their way of life.");
+MsgDisp("Honda","Right right. The fish in this aquarium have
+adapted to this place, and are changing their
+way of life.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -44,9 +44,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10200_01_010");
-MsgDisp("Kazama","Since it's satisfied with the food it
-gets, it doesn't chase after the smaller
-fish.");
+MsgDisp("Kazama","Since it's satisfied with the food it gets,
+it doesn't chase after the smaller fish.");
 ChSet(3,3,1);
 VoicePlay("B330B10200_03_010");
 MsgDisp("Honda","Ding ding ding!
@@ -60,16 +59,16 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B330B10200_01_020");
 MsgDisp("Kazama","There's definitely exceptions.
-Like if something really delicious was
-right in front of them.");
+Like if something really delicious was right
+in front of them.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B10200_03_020");
-MsgDisp("Honda","Right right. Even humans can't help but
-look if something extremely charming came
-into their view right?");
+MsgDisp("Honda","Right right. Even humans can't help but look
+if something extremely charming came into
+their view right?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

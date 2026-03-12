@@ -9,8 +9,8 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 ScrFadeIn(0);
 VoicePlay("B040723201_07_000");
-MsgDisp("Mikage","Standing with their feet firmly planted
-onto the earth.
+MsgDisp("Mikage","Standing with their feet firmly planted onto
+the earth.
 That's how humans should be.");
 MsgSel("It shook quite a lot, huh?","It feels nicer up in the sky.","It's reassuring, right? ");
 switch (MsgSelRsltGet()){
@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723201_07_010");
     MsgDisp("Mikage","It shook.
-I don't know if it was part of the
-theatrics, but it creaked as well～");
+I don't know if it was part of the theatrics,
+but it creaked as well～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,9 +46,9 @@ A difference in values, you could say.");
     ChMotion(7,3);
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723201_07_030");
-    MsgDisp("Mikage","That's right. It suits me better to live
-with my roots on the ground. We get along
-well.");
+    MsgDisp("Mikage","That's right.
+It suits me better to live with my roots on
+the ground. We get along well.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

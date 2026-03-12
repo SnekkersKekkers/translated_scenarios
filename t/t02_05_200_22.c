@@ -31,7 +31,7 @@ ChCheek(5,0);
 VoicePlay("T020520022_05_020");
 MsgDisp("Hiiragi","Hehe.
 I got a reply in a way that's very typical
-of you——");
+of you—");
 ChEye(5,4);
 VoicePlay("T020520022_05_030");
 MsgDisp("Hiiragi","I think Inori-kun and Mikage-sensei will
@@ -47,7 +47,7 @@ ChEyeOpenLevel(5,10);
 VoicePlay("T020520022_05_040");
 MsgDisp("Hiiragi","I understand.
 But, you know, I've been beaten so many
-times——");
+times—");
 MsgDisp("主人公","?");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);

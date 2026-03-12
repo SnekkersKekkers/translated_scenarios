@@ -13,8 +13,8 @@ ChEyeOpenLevel(5,8);
 ChCheek(5,5);
 VoicePlay("B020502122_05_010");
 MsgDisp("Hiiragi","Those clothes.
-I knew that there were two sides to you,
-but combined they are truly attractive...");
+I knew that there were two sides to you, but
+combined they are truly attractive...");
 MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems to like clothes 
-like these, too!)");
+｛Hiiragi＊＊＊｝ seems to like clothes like
+these, too!)");

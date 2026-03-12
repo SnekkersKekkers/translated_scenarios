@@ -4,11 +4,9 @@ ChMouth(8,4);
 ChMotion(8,0);
 ChEyeOpenLevel(8,10);
 VoicePlay("B020802136_08_000");
-MsgDisp("Shirahane","You're at the very cutting edge of
-fashion...
+MsgDisp("Shirahane","You're at the very cutting edge of fashion...
 Seriously flawless!");
-MsgDisp("主人公","Yeah, I always make sure to check the
-trends.");
+MsgDisp("主人公","Yeah, I always make sure to check the trends.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3);

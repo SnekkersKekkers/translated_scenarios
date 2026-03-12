@@ -38,8 +38,8 @@ They also wash up on beaches.");
     ChMotion(5,3);
     VoicePlay("B040502100_05_030");
     MsgDisp("Hiiragi","Yes, it is a luxury.
-Let's walk down the brick road, just the
-two of us.");
+Let's walk down the brick road, just the two
+of us.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

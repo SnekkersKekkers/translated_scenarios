@@ -12,8 +12,7 @@ ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("B020202103_02_010");
 MsgDisp("Sassa","There's nothing weird about it.
-But looking in your direction makes me
-dizzy.");
+But looking in your direction makes me dizzy.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

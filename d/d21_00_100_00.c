@@ -26,7 +26,7 @@ ScrFadeOut(0);
 BGOpen("fp200",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Wow... What a beautiful spring!
-This is the Forest Park's new spot, ——\"The
+This is the Forest Park's new spot, —\"The
 Home of the Fireflies\"!)");
 VoicePlay("D210000110_31_000");
 MsgDisp("Goro?","You got here quickly.");
@@ -59,7 +59,7 @@ ChMotion(31,1);
 VoicePlay("D210000110_31_030");
 MsgDisp("Goro","That's right.
 If you visit the gazebo with your beloved
-while the fireflies are glowing——");
+while the fireflies are glowing—");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,4);
@@ -81,7 +81,7 @@ ChMotion(31,4);
 VoicePlay("D210000110_31_060");
 MsgDisp("Goro","Okay then!
 I'm looking forward to reading an article all
-full of your unique style. Adieuー♪");
+full of your unique style. Adieu—♪");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(31);

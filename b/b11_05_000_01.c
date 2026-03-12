@@ -14,9 +14,8 @@ MsgClose();
 SEPlay("EV_SE_557",0.2);
 ChOpen(34,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500001_34_010");
-MsgDisp("Guy","Let's get out of here quickly, because
-you're an easy target right after
-respawning.");
+MsgDisp("Guy","Let's get out of here quickly, because you're
+an easy target right after respawning.");
 SEPlay("EV_SE_542");
 ChPosition(34,2);
 MsgClose();
@@ -30,8 +29,9 @@ MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110500001_34_020");
-MsgDisp("Guy","Hm? I'm not adding a male character to my
-party. Just despawn.");
+MsgDisp("Guy","Hm?
+I'm not adding a male character to my party.
+Just despawn.");
 MsgDispSksp(1,5);
 ChEye(5,4);
 ChMouth(5,4);
@@ -69,7 +69,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B110500001_05_030");
 MsgDisp("Hiiragi","It's hot, isn't it...
-But ignoring it is probably the best
-course of action.");
+But ignoring it is probably the best course
+of action.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is amazing huh...
 I thought he really couldn't see him.)");

@@ -17,9 +17,9 @@ MsgDisp("Guy","Nice, nice, that's good～!");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110800002_35_020");
-MsgDisp("Guy","Alright, here we go! We've discovered a
-golden egg of a great actress! Let's head
-to the agency——");
+MsgDisp("Guy","Alright, here we go!
+We've discovered a golden egg of a great
+actress! Let's head to the agency—");
 ChPosition(35,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C08_DAICHI_A",0.01);
@@ -65,7 +65,7 @@ ChMotion(8,4,1);
 VoicePlay("B110800002_08_030");
 MsgDisp("Shirahane","Sorry, mister.
 We're goin' on a date now.
-See yaー.");
+See ya—.");
 MsgDispSksp(0);
 ChEye(35,0);
 ChMouth(35,0);
@@ -79,4 +79,4 @@ ChMouth(8,3);
 ChPosition(8,0);
 VoicePlay("B110800002_08_040");
 MsgDisp("Shirahane","Oh, I understood that!
-But we don't need ta meet again!ー");
+But we don't need ta meet again!—");

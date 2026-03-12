@@ -10,16 +10,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600500_06_010");
-MsgDisp("Himuro","Until now, I had been one-sidedly pushing
-my demands onto you.");
+MsgDisp("Himuro","Until now, I had been one-sidedly pushing my
+demands onto you.");
 MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B150600500_06_020");
-MsgDisp("Himuro","I asked for skinship in moderation, but
-you wanted excessive skinship don't you?");
+MsgDisp("Himuro","I asked for skinship in moderation, but you
+wanted excessive skinship don't you?");
 MsgDisp("主人公","T-That wording...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -31,14 +31,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600500_06_040");
-MsgDisp("Himuro","That's why I need you to confirm one 
-thing.");
+MsgDisp("Himuro","That's why I need you to confirm one thing.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B150600500_06_050");
-MsgDisp("Himuro","Are you only doing skinship in excess
-because it's with me, or——");
+MsgDisp("Himuro","Are you only doing skinship in excess because
+it's with me, or—");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -61,8 +60,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B150600500_06_090");
-MsgDisp("Himuro","That seems easier than getting you to
-control yourself.");
+MsgDisp("Himuro","That seems easier than getting you to control
+yourself.");
 MsgDisp("主人公","Thank you.");
 ChEye(6,0);
 ChMouth(6,4);

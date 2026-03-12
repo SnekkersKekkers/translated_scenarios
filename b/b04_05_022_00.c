@@ -24,8 +24,8 @@ There's no other way to put it.");
     ChEye(5,4);
     ChMotion(5,2);
     VoicePlay("B040502200_05_020");
-    MsgDisp("Hiiragi","Yes, traveling on a whim and going where
-the wind takes you...
+    MsgDisp("Hiiragi","Yes, traveling on a whim and going where the
+wind takes you...
 I'm envious of the people who can do that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -11,8 +11,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110600000_33_010");
-MsgDisp("Guy","You probably want to try knocking on the
-door too, don't you?
+MsgDisp("Guy","You probably want to try knocking on the door
+too, don't you?
 I know, it's alright now.");
 MsgDisp("主人公","Ummm...?");
 VoicePlay("B110600000_06_000");
@@ -36,7 +36,7 @@ ChMouth(33,1);
 VoicePlay("B110600000_33_020");
 MsgDisp("Guy","Hey, hey∋
 This girl is about to take a step with me
-into the new world——");
+into the new world—");
 MsgDispSksp(1,5);
 ChEye(6,0);
 ChMouth(6,0);
@@ -56,8 +56,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B110600000_06_030");
 MsgDisp("Himuro","Spouting meaningless nonsense to confuse
-someone and make them anxious is
-harassment.");
+someone and make them anxious is harassment.");
 MsgDispSksp(0);
 MsgDispSksp(1,5);
 ChEye(6,1);
@@ -71,8 +70,8 @@ ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110600000_33_040");
 MsgDisp("Guy","W-Why!
-I was just trying to open the door for
-this girl——");
+I was just trying to open the door for this
+girl—");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0.5);
 MsgClose();
@@ -96,19 +95,20 @@ Wait(60);
 MsgClose();
 ChOpen(6,253,2,2,0,0,#1,0,0);
 VoicePlay("B110600000_06_060");
-MsgDisp("Himuro","Haa...if he's running away, he must know
-he's being a nuisance.");
+MsgDisp("Himuro","Haa...if he's running away, he must know he's
+being a nuisance.");
 MsgDisp("主人公","｛Himuro＊＊｝, thank you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B110600000_06_070");
 MsgDisp("Himuro","No...
-It was my fault for being late in the
-first place.");
+It was my fault for being late in the first
+place.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B110600000_06_080");
-MsgDisp("Himuro","Let's go already. Before we get caught up
-in something weird again.");
+MsgDisp("Himuro","Let's go already.
+Before we get caught up in something weird
+again.");

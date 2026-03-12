@@ -13,8 +13,8 @@ switch (ChPrmGet(6,6)){
     MsgClose();
     ChOpen(6,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010600002_06_000");
-    MsgDisp("Himuro","Acting ahead of time is the natural thing
-to do.");
+    MsgDisp("Himuro","Acting ahead of time is the natural thing to
+do.");
     MsgDisp("主人公","You're an on-the-dot type, huh?");
     MsgDispSksp(1,0);
     ChEye(6,0);
@@ -35,8 +35,8 @@ to do.");
     ChMotion(6,0);
     VoicePlay("B010600002_06_030");
     MsgDisp("Himuro","About 15 minutes ago.
-It would be a problem if something
-unexpected popped up.");
+It would be a problem if something unexpected
+popped up.");
     MsgDisp("主人公","Does that sort of thing really happen...?");
     MsgDispSksp(1,0);
     ChEye(6,0);

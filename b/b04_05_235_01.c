@@ -7,8 +7,7 @@ ScrFadeIn(0);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040523502_05_000");
-MsgDisp("Hiiragi","That ghost from the well is way too
-buff.");
+MsgDisp("Hiiragi","That ghost from the well is way too buff.");
 MsgSel("As expected! You have a good eye, huh?","Impressive and scary...","I can't see that well!");
 switch (MsgSelRsltGet()){
     case 0:

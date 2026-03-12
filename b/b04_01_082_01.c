@@ -36,9 +36,9 @@ You're seriously goofy.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040108201_01_030");
-    MsgDisp("Kazama","Ooh, cool. That's more interesting than
-some spiritual hot spot. Ghost paintings 
-always have willows and waterfronts.");
+    MsgDisp("Kazama","Ooh, cool. That's more interesting than some
+spiritual hot spot. Ghost paintings always
+have willows and waterfronts.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

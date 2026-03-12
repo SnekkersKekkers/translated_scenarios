@@ -54,9 +54,9 @@ ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,0);
 VoicePlay("B110200000_33_030");
-MsgDisp("Guy","Haa, you're with a guy. T-Then it's
-impossible. It's disappointing, but you're
-disqualif——");
+MsgDisp("Guy","Haa, you're with a guy.
+T-Then it's impossible.
+It's disappointing, but you're disqualif—");
 MsgDispSksp(1,5);
 ChEye(2,1);
 ChMouth(2,0);
@@ -69,8 +69,8 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110200000_33_040");
-MsgDisp("Guy","D-Don't get carried away just because
-you're big～!");
+MsgDisp("Guy","D-Don't get carried away just because you're
+big～!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ChClose(33);
@@ -79,8 +79,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B110200000_02_040");
-MsgDisp("Sassa","What's with that guy, spouting about how
-big people are...");
+MsgDisp("Sassa","What's with that guy, spouting about how big
+people are...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

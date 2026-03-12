@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040108202_01_010");
-    MsgDisp("Kazama","In your case, I don't know if it would
-count as an inner voice.
+    MsgDisp("Kazama","In your case, I don't know if it would count
+as an inner voice.
 You always say whatever's on your mind.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -34,8 +34,7 @@ You always say whatever's on your mind.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108202_01_020");
         MsgDisp("Kazama","What's with that?
-I pretty much always say what I'm
-thinking.");
+I pretty much always say what I'm thinking.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -81,8 +80,8 @@ Well, I guess you didn't know, did you?");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108202_01_070");
         MsgDisp("Kazama","When you were little you were kind of a
-shrinking violet, so I guess you've
-changed some while I was gone.");
+shrinking violet, so I guess you've changed
+some while I was gone.");
         MsgDisp("主人公","｛Kazama＊＊｝?");
         ChEyeOpenLevel(1,0);
         Wait(12,0);
@@ -100,9 +99,9 @@ something I wished for, too.");
         ChMouth(1,4);
         ChCheek(1,5);
         VoicePlay("B040108202_01_090");
-        MsgDisp("Kazama","But, you know, I wish I could have seen
-even a small change like that for myself
-as it happened.");
+        MsgDisp("Kazama","But, you know, I wish I could have seen even
+a small change like that for myself as it
+happened.");
         MsgDisp("主人公","｛Kazama＊＊｝...");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
@@ -111,9 +110,9 @@ as it happened.");
         ChEye(1,4);
         ChMouth(1,3);
         VoicePlay("B040108202_01_100");
-        MsgDisp("Kazama","I'm sure we'll both change bit by bit as
-time goes on. Maybe it's actually better
-to always stay together, and not notice?");
+        MsgDisp("Kazama","I'm sure we'll both change bit by bit as time
+goes on. Maybe it's actually better to always
+stay together, and not notice?");
         MsgDisp("主人公","(｛Kazama＊＊｝, you've always cared about
 me...
 I'm really happy.)");

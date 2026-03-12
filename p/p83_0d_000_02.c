@@ -42,8 +42,8 @@ ChMotion(21,4);
 VoicePlay("P830D00002_21_020");
 MsgDisp("Michiru","I'll leave it to you.");
 VoicePlay("P830D00002_39_000");
-MsgDisp("School Boy","Excuse meー.
-I brought along a lost kidー.");
+MsgDisp("School Boy","Excuse me—.
+I brought along a lost kid—.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

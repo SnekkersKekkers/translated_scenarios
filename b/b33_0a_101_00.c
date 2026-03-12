@@ -86,9 +86,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10100_06_020");
-MsgDisp("Himuro","Ryota-senpai was jealous that
-Nozomu-senpai knew things about you that
-he didn't.");
+MsgDisp("Himuro","Ryota-senpai was jealous that Nozomu-senpai
+knew things about you that he didn't.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

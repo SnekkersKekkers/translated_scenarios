@@ -37,7 +37,7 @@ painstakingly grew.");
     VoicePlay("P630400000_04_030");
     MsgDisp("Nanatsumori","Then, I'll stop by here.");
     MsgDisp("主人公","Certainly.
-One customer, please follow meー!");
+One customer, please follow me—!");
     break ;
     case 4:
     case 5:
@@ -56,7 +56,7 @@ You came.");
     ChMouth(4,4);
     VoicePlay("P630400000_04_050");
     MsgDisp("Nanatsumori","Hm...well.
-I came to see how you're doing——");
+I came to see how you're doing—");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,2,1);

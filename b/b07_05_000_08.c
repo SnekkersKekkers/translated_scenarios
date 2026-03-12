@@ -1,5 +1,4 @@
-MsgDisp("主人公","What type of girl do you like,
-｛Hiiragi＊＊＊｝?");
+MsgDisp("主人公","What type of girl do you like, ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B070500000_05_350");
@@ -13,16 +12,15 @@ MsgDisp("Hiiragi","Once I was old enough to understand what
 was going on around me, I was mingling
 with adults in the theatre troupe. I don't
 recall talking to girls my age.");
-MsgDisp("主人公","There's lots of girls in school now
-though?");
+MsgDisp("主人公","There's lots of girls in school now though?");
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("B070500000_05_370");
 MsgDisp("Hiiragi","That's right.");
 ChMotion(5,0);
 VoicePlay("B070500000_05_380");
-MsgDisp("Hiiragi","Every female student in Haba High
-recognizes me as a special case.
+MsgDisp("Hiiragi","Every female student in Haba High recognizes
+me as a special case.
 They're very generous and kind.");
 ChEye(5,3);
 ChMotion(5,3);

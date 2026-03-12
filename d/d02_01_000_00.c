@@ -31,7 +31,7 @@ ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("D020100000_01_020");
 MsgDisp("Kazama","...Have I?");
-MsgDisp("主人公","You've gotten so much——");
+MsgDisp("主人公","You've gotten so much—");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -99,7 +99,7 @@ NSSMouth(1,0);
 VoicePlay("D020100000_01_090");
 MsgDisp("Kazama","So, you know...
 That thing that happened after the bell
-rang——");
+rang—");
 MsgClose();
 ScrFadeOut(0,0,30);
 NSSClose();

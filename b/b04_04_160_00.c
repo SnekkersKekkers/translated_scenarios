@@ -28,8 +28,8 @@ Got it.");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040416000_04_020");
-    MsgDisp("Nanatsumori","I don't really like things with time
-limits though...");
+    MsgDisp("Nanatsumori","I don't really like things with time limits
+though...");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -39,8 +39,7 @@ limits though...");
     ChMotion(4,0,1);
     VoicePlay("B040416000_04_030");
     MsgDisp("Nanatsumori","Okay.
-It'll be funny if the results are
-ridiculous.");
+It'll be funny if the results are ridiculous.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

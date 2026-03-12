@@ -47,8 +47,8 @@ the carpet.");
         MsgDisp("Hiiragi","No no, that's the fun part.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040521302_05_040");
-        MsgDisp("Hiiragi","After the lint roller passes through, a
-clean carpet appears.");
+        MsgDisp("Hiiragi","After the lint roller passes through, a clean
+carpet appears.");
         ChEyeOpenLevel(5,#1);
         MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, do you like cleaning?");
         ChEye(5,3);
@@ -69,23 +69,21 @@ theatre company must be difficult...");
         ChMotion(5,3);
         VoicePlay("B040521302_05_070");
         MsgDisp("Hiiragi","Yes, it is difficult.
-But, I have people who support and
-encourage me.");
+But, I have people who support and encourage
+me.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040521302_05_080");
         MsgDisp("Hiiragi","That's you.
-That's right, to me you are my lint
-roller.");
+That's right, to me you are my lint roller.");
         MsgDisp("主人公","Lint roller?");
         ChEye(5,3);
         ChMotion(5,4);
         VoicePlay("B040521302_05_090");
-        MsgDisp("Hiiragi","Yes, no matter what problem I have, you
-seem to resolve it neatly.");
-        MsgDisp("主人公","(I want ｛Hiiragi＊＊＊｝ to depend on me
-but...
+        MsgDisp("Hiiragi","Yes, no matter what problem I have, you seem
+to resolve it neatly.");
+        MsgDisp("主人公","(I want ｛Hiiragi＊＊＊｝ to depend on me but...
 Lint roller?)");
         break ;
         default :

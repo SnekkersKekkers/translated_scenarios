@@ -20,15 +20,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070700000_07_250");
-MsgDisp("Mikage","Even after all that effort explaining,
-people just go \"Ehhh?\" So then I came
-across the term DIY.");
+MsgDisp("Mikage","Even after all that effort explaining, people
+just go \"Ehhh?\"
+So then I came across the term DIY.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700000_07_260");
-MsgDisp("Mikage","Thanks to that, the usual reaction of
-\"Ehhh?\" comes much quicker.
+MsgDisp("Mikage","Thanks to that, the usual reaction of \"Ehhh?\"
+comes much quicker.
 Then, what do you think?");
 MsgDisp("主人公","Uummm, it's amazing that you can make
 anything yourself.
@@ -37,26 +37,25 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700000_07_270");
-MsgDisp("Mikage","Yeah, the first thing I made was probably
-a dog house in middle school?");
+MsgDisp("Mikage","Yeah, the first thing I made was probably a
+dog house in middle school?");
 MsgDisp("主人公","You made a dog house?
 That's so cute.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B070700000_07_280");
-MsgDisp("Mikage","I don't know about cute, but there were
-about 10 dogs so I had to build it
-carefully from scratch.");
+MsgDisp("Mikage","I don't know about cute, but there were about
+10 dogs so I had to build it carefully from
+scratch.");
 MsgDisp("主人公","This seems like more than a hobby...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("B070700000_07_290");
-MsgDisp("Mikage","That's probably why I get so excited
-during the cultural festival preparation
-period.");
+MsgDisp("Mikage","That's probably why I get so excited during
+the cultural festival preparation period.");
 MsgDisp("主人公","(It seems more like carpentry than DIY...)");
 BGMStop();
 MsgClose();

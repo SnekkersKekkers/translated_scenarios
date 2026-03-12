@@ -30,7 +30,7 @@ around Mari♪");
 MsgDisp("主人公","I-Is that so, I wonder?");
 MsgDisp("主人公","...Huh? And before I knew it, we're
 talking about me! What about
-｛ひかる＊｝'s love——");
+｛ひかる＊｝'s love—");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

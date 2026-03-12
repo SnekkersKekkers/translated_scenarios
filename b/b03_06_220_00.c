@@ -31,8 +31,7 @@ It would be cool to have a nice view.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B030622000_06_030");
-    MsgDisp("Himuro","Even the weekends are a chance to learn,
-huh.");
+    MsgDisp("Himuro","Even the weekends are a chance to learn, huh.");
     MsgDispSksp(0);
     break ;
     default :

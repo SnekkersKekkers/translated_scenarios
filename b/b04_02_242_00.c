@@ -5,8 +5,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("B040224200_02_000");
-MsgDisp("Sassa","Well then, hmm, where should we put our
-tent?");
+MsgDisp("Sassa","Well then, hmm, where should we put our tent?");
 MsgSel("｛Sassa＊＊｝, I'm counting on you♪","When there's camping, there's BBQs!","It seems to be a lot of inconvenience and trouble...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,1);
     VoicePlay("B040224200_02_010");
     MsgDisp("Sassa","Leave it to me!
-Well first, let's start with putting up
-the sun tarp...");
+Well first, let's start with putting up the
+sun tarp...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +40,8 @@ right?");
     ChMotion(2,0);
     VoicePlay("B040224200_02_030");
     MsgDisp("Sassa","Right. You really start to appreciate the
-conveniences of everyday life. That's
-camping.");
+conveniences of everyday life.
+That's camping.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -5,9 +5,9 @@ ChMouth(2,4);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040230002_02_000");
-MsgDisp("Sassa","In these sorts of situations, the Mom
-would usually be standing at the door and
-listening in right?");
+MsgDisp("Sassa","In these sorts of situations, the Mom would
+usually be standing at the door and listening
+in right?");
 MsgSel("It happens in drama and manga often huh?","I have to greet her once more","｛Sassa＊＊｝, can you go check?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -57,7 +57,7 @@ person.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040230002_02_040");
-        MsgDisp("Sassa","No, no it was just a joke——");
+        MsgDisp("Sassa","No, no it was just a joke—");
         ChEye(2,4);
         ChMouth(2,0);
         ChMotion(2,0);
@@ -94,8 +94,7 @@ I have to go greet her...");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040230002_02_090");
-        MsgDisp("Sassa","Didn't you already do that when you came
-in?");
+        MsgDisp("Sassa","Didn't you already do that when you came in?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

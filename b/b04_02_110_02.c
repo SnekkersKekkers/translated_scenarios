@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040211002_02_010");
-    MsgDisp("Sassa","That's why we're not stopping, we're
-taking a break.");
+    MsgDisp("Sassa","That's why we're not stopping, we're taking a
+break.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,9 +41,9 @@ taking a break.");
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040211002_02_030");
-        MsgDisp("Sassa","Yeah, why is that? Phew, getting tired
-from something like this...Is weird for
-me?");
+        MsgDisp("Sassa","Yeah, why is that?
+Phew, getting tired from something like
+this... Is weird for me?");
         MsgDisp("主人公","｛Sassa＊＊｝, are you alright?
 Are you not feeling well?");
         MsgClose();
@@ -66,9 +66,9 @@ This is high altitude training.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040211002_02_060");
-        MsgDisp("Sassa","When you're standing there in your
-swimsuit, it feels like I'm getting some
-good training in.");
+        MsgDisp("Sassa","When you're standing there in your swimsuit,
+it feels like I'm getting some good training
+in.");
         MsgDisp("主人公","Um...");
         ChEye(2,0);
         ChMouth(2,0);

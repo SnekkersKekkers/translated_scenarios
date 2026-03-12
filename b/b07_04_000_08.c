@@ -35,8 +35,8 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 ChCheek(4,5);
 VoicePlay("B070400000_04_530");
-MsgDisp("Nanatsumori","Then, why did you want to hear about...
-you know, what kind of type I like?");
+MsgDisp("Nanatsumori","Then, why did you want to hear about... you
+know, what kind of type I like?");
 MsgDisp("主人公","Eh?
 Hmm....");
 ChEye(4,2);

@@ -17,7 +17,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("P740300000_03_010");
-MsgDisp("Honda","Hmmーm, but you're number one.
+MsgDisp("Honda","Hmm—m, but you're number one.
 The audience's applause was loudest for
 you.");
 MsgDisp("主人公","(Hehe!

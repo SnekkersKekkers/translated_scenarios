@@ -6,8 +6,8 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 ScrFadeIn(0);
 VoicePlay("B040310500_03_000");
-MsgDisp("Honda","...As I thought, I feel like I shouldn't
-be stepping into this territory...");
+MsgDisp("Honda","...As I thought, I feel like I shouldn't be
+stepping into this territory...");
 MsgSel("Eh, it's moving to me though!","Ummm...is it upside down","I feel like I could draw this too.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,3);
     VoicePlay("B040310500_03_010");
-    MsgDisp("Honda","I seeー.
-You're already on that side huhー.
+    MsgDisp("Honda","I see—.
+You're already on that side huh—.
 Sorry, it might be impossible for me.");
     MsgDateResultDisp();
     break ;

@@ -17,7 +17,6 @@ ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B030816000_08_010");
 MsgDisp("Shirahane","Heheh!
-Wanna play all kinds'a stuff together,
-then?");
+Wanna play all kinds'a stuff together, then?");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

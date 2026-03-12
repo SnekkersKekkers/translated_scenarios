@@ -36,8 +36,8 @@ Let's go and take a look.");
         ChMotion(5,0);
         VoicePlay("B040512102_05_020");
         MsgDisp("Hiiragi","Did that tempt you?
-But I think it's a pity you have to be
-still for a long time.");
+But I think it's a pity you have to be still
+for a long time.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -47,13 +47,12 @@ still for a long time.");
         ChMotion(5,0);
         VoicePlay("B040512102_05_030");
         MsgDisp("Hiiragi","Are you interested?");
-        MsgDisp("主人公","｛Hiiragi＊＊＊｝, do you not like it that
-much?");
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝, do you not like it that much?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040512102_05_040");
-        MsgDisp("Hiiragi","Yes...well, in elementary school I was
-drawn in an amusing, exaggerated manner.
+        MsgDisp("Hiiragi","Yes...well, in elementary school I was drawn
+in an amusing, exaggerated manner.
 I also somehow looked like a fox.");
         MsgDisp("主人公","Fox...");
         ChEye(5,0);
@@ -72,9 +71,9 @@ I'm sorry.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040512102_05_070");
-        MsgDisp("Hiiragi","It's nothing now but at that time it was
-such a shock that I tried to pull my eyes
-so that they would be more droopy.");
+        MsgDisp("Hiiragi","It's nothing now but at that time it was such
+a shock that I tried to pull my eyes so that
+they would be more droopy.");
         MsgDisp("主人公","Hehe, that's kind of cute?");
         ChEye(5,2);
         ChMotion(5,0);
@@ -113,8 +112,8 @@ Let's go.");
     ChMotion(5,2);
     VoicePlay("B040512102_05_110");
     MsgDisp("Hiiragi","Yeah.
-There's nothing scarier than a piece of
-work with no price tag.");
+There's nothing scarier than a piece of work
+with no price tag.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

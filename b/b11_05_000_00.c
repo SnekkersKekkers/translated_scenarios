@@ -11,12 +11,12 @@ SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500000_33_000");
 MsgDisp("Guy","Do you want to see it or not?");
-MsgDisp("主人公","Eh∈ See what...?");
+MsgDisp("主人公","Eh∈
+See what...?");
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110500000_33_010");
-MsgDisp("Guy","It's alright, you look like the seeing
-type.
+MsgDisp("Guy","It's alright, you look like the seeing type.
 C'mon, come with me.");
 ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -31,8 +31,8 @@ ChEye(33,0);
 ChMouth(33,1);
 VoicePlay("B110500000_33_020");
 MsgDisp("Guy","Hm, no can do, no can do.
-It's unfortunate, but you're not the
-seeing type.");
+It's unfortunate, but you're not the seeing
+type.");
 MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,0);
@@ -44,7 +44,7 @@ ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110500000_33_030");
 MsgDisp("Guy","I said you can't, only the chosen ones can
-see——");
+see—");
 MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,0);
@@ -81,8 +81,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B110500000_05_030");
 MsgDisp("Hiiragi","I wonder?
-But enough of the \"can see, can't see\"
-talk.");
+But enough of the \"can see, can't see\" talk.");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);

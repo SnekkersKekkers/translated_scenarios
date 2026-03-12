@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040502302_05_000");
-MsgDisp("Hiiragi","No matter when I come here, this place
-always has such a unique atmosphere.");
+MsgDisp("Hiiragi","No matter when I come here, this place always
+has such a unique atmosphere.");
 MsgSel("Those mushrooms look so fantastical, huh","This really is a trichromatic world","It blends right into the blue of the sea");
 switch (MsgSelRsltGet()){
     case 0:
@@ -32,8 +32,8 @@ You really are an interesting person.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040502302_05_030");
-        MsgDisp("Hiiragi","You won't know if it's a mushroom unless
-you ask the artist");
+        MsgDisp("Hiiragi","You won't know if it's a mushroom unless you
+ask the artist");
         MsgDisp("主人公","Ah, that's right.
 My apologies.");
         ChEye(5,4);
@@ -45,12 +45,10 @@ Just don't be too certain.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040502302_05_050");
-        MsgDisp("Hiiragi","I suppose the artist's intention was to
-evoke different images in the people
-looking at it.");
+        MsgDisp("Hiiragi","I suppose the artist's intention was to evoke
+different images in the people looking at it.");
         MsgDisp("主人公","I see.
-Then, what do you think it is,
-｛Hiiragi＊＊＊｝?");
+Then, what do you think it is, ｛Hiiragi＊＊＊｝?");
         ChEye(5,2);
         ChMotion(5,1);
         VoicePlay("B040502302_05_060");
@@ -66,8 +64,8 @@ Please take some responsibility.");
         ChMotion(5,0);
         VoicePlay("B040502302_05_080");
         MsgDisp("Hiiragi","Hehe.
-I wonder why I have so much fun when I'm
-with you.");
+I wonder why I have so much fun when I'm with
+you.");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you laughed a lot today.
 I'm somewhat happy...)");
         break ;

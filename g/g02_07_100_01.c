@@ -30,7 +30,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020710001_07_040");
-MsgDisp("Mikage","'Mr. Mikage! As a teacher——' That would
+MsgDisp("Mikage","'Mr. Mikage! As a teacher—' That would
 be just the same as always, huh?");
 MsgDisp("主人公","Hehe, maybe you'll hear a kinder voice?");
 ChEye(7,2);

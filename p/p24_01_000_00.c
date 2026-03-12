@@ -51,7 +51,7 @@ ChEyeOpenLevel(1,10);
 VoicePlay("P240100000_01_030");
 MsgDisp("Kazama","The owner doesn't seem to be here either.");
 MsgDisp("主人公","Um, please wait a moment...
-Please let me try it on too——");
+Please let me try it on too—");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
@@ -145,7 +145,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P240100000_01_120");
-MsgDisp("Kazama","——Let's get married.");
+MsgDisp("Kazama","—Let's get married.");
 SEPlay("EV_SE_588",0,0.5);
 SEPlay("EV_SE_GAYA_021",0,0.9);
 MsgClose();

@@ -39,8 +39,8 @@ That nonsense makes no sense.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040601000_06_030");
-    MsgDisp("Himuro","You drag me along and then don't even
-listen to my opinion? 
+    MsgDisp("Himuro","You drag me along and then don't even listen
+to my opinion?
 What's with that?");
     MsgDateResultDisp();
     break ;

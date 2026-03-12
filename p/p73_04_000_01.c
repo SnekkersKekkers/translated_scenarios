@@ -17,7 +17,7 @@ I like it but...)");
     ChNanaType(0);
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P730400001_04_000");
-    MsgDisp("Nanatsumori","Ohー.
+    MsgDisp("Nanatsumori","Oh—.
 Pretty pretty.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Really?");
@@ -32,7 +32,7 @@ It seriously suits you, it's pretty.");
     VoicePlay("P730400001_04_020");
     MsgDisp("Nanatsumori","All that's left is to walk well on the
 runway?");
-    MsgDisp("主人公","Ugh...that's pressureー...");
+    MsgDisp("主人公","Ugh...that's pressure—...");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(4,3);
@@ -43,7 +43,7 @@ runway?");
 I'll be cheering you on.");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(｛Nanatsumori＊｝ will be cheering me on!
-Alーright, let's do it!)");
+Al—right, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -93,7 +93,7 @@ You'll knockout the audience.");
     MsgDisp("主人公","Hehe!
 Then, I'm off!");
     MsgDisp("主人公","(｛Nanatsumori＊｝ is cheering for me...!
-Alーright, let's do it!)");
+Al—right, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

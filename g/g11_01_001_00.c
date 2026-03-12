@@ -52,7 +52,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100100_01_040");
 MsgDisp("Kazama","That's it.");
-MsgDisp("主人公","Ehhhー?");
+MsgDisp("主人公","Ehhh—?");
 ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);

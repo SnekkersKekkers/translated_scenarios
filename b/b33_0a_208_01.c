@@ -38,8 +38,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330A20801_06_000");
-MsgDisp("Himuro","...You look like you're having a lot of
-fun.");
+MsgDisp("Himuro","...You look like you're having a lot of fun.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -150,8 +149,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A20801_01_070");
-MsgDisp("Kazama","Inori, riding a ferris wheel with a bunch
-of guys is embarrassing.
+MsgDisp("Kazama","Inori, riding a ferris wheel with a bunch of
+guys is embarrassing.
 But surely this will turn things around.");
 ChEye(6,0);
 ChMouth(6,0);

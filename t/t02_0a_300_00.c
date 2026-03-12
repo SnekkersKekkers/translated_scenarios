@@ -64,7 +64,7 @@ ChOpen(2,254,3,0,3,#1,#1,0,2,0,30);
 SEWait();
 VoicePlay("T020A30000_02_000");
 MsgDisp("Sassa","Ryota!
-You're lateー!");
+You're late—!");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,0);

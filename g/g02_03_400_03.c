@@ -35,7 +35,7 @@ ChMouth(3,0);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020340003_03_040");
-MsgDisp("Honda","I'm nowhere near a professionalー.
+MsgDisp("Honda","I'm nowhere near a professional—.
 That's not modesty; it's just the truth.");
 ChEye(3,0);
 ChMouth(3,0);

@@ -42,18 +42,18 @@ something else?");
         ChMouth(4,0);
         VoicePlay("B040406102_04_040");
         MsgDisp("Nanatsumori","...No.
-Let's swim.
-ＧＯ!");
+Let's swim. ＧＯ!");
         MsgDisp("主人公","But...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0);
         VoicePlay("B040406102_04_050");
-        MsgDisp("Nanatsumori","Actually, if I get injured or get a bad
-tan, it affects my modelling work, so I've
-been told to avoid this sort of thing.");
-        MsgDisp("主人公","Ah...I see. I'm sorry for not taking that
-into consideration.");
+        MsgDisp("Nanatsumori","Actually, if I get injured or get a bad tan,
+it affects my modelling work, so I've been
+told to avoid this sort of thing.");
+        MsgDisp("主人公","Ah...
+I see. I'm sorry for not taking that into
+consideration.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);
@@ -69,9 +69,8 @@ into consideration.");
         ChEye(4,4);
         ChMouth(4,3);
         VoicePlay("B040406102_04_080");
-        MsgDisp("Nanatsumori","If we hold hands and float out to the sea,
-I probably won't get injured or get a bad
-tan.");
+        MsgDisp("Nanatsumori","If we hold hands and float out to the sea, I
+probably won't get injured or get a bad tan.");
         MsgDisp("主人公","True!");
         ChEye(4,4);
         ChMouth(4,3);
@@ -94,8 +93,8 @@ It's a date after all, right?");
     ChMotion(4,0,1);
     VoicePlay("B040406102_04_100");
     MsgDisp("Nanatsumori","That's a weird way to put it, but I agree.
-Let's bury ourselves in the sand and take
-a nap.");
+Let's bury ourselves in the sand and take a
+nap.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

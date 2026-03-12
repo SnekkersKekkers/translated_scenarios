@@ -21,8 +21,7 @@ ChMotion(4,2,1);
 VoicePlay("B070400000_04_160");
 MsgDisp("Nanatsumori","...Probably.");
 MsgDisp("主人公","Probably...?
-Then you're a kid who can do it if they
-try?");
+Then you're a kid who can do it if they try?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);

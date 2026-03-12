@@ -8,9 +8,9 @@ VoicePlay("B040406401_04_000");
 MsgDisp("Nanatsumori","I sure love festivals.");
 MsgDisp("主人公","Hm?");
 VoicePlay("B040406401_04_010");
-MsgDisp("Nanatsumori","Everyone has the same objective, they
-dress the same, they're all enjoying this
-same place.");
+MsgDisp("Nanatsumori","Everyone has the same objective, they dress
+the same, they're all enjoying this same
+place.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -23,8 +23,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B040406401_04_030");
 MsgDisp("Nanatsumori","But, here, I can cast away that shield.
-I don't really even care if I'm revealed
-to be NANA.");
+I don't really even care if I'm revealed to
+be NANA.");
 MsgDisp("主人公","Eh?
 Is that really okay?");
 ChMotion(4,1,1);
@@ -39,13 +39,14 @@ ChMotion(4,0,1);
 VoicePlay("B040406401_04_050");
 MsgDisp("Nanatsumori","Of course it's private.
 I'm on a date after all.");
-MsgDisp("主人公","! Y-Yeah...");
+MsgDisp("主人公","!
+Y-Yeah...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B040406401_04_060");
-MsgDisp("Nanatsumori","You're the one who asked a leading
-question and now you're embarrassed?
+MsgDisp("Nanatsumori","You're the one who asked a leading question
+and now you're embarrassed?
 How funny.");
 MsgDisp("主人公","Hey, ｛Nanatsumori＊｝!");
 SEPlay("EV_SE_022",1);

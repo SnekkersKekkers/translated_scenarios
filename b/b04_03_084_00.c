@@ -40,8 +40,8 @@ their meal.");
     ChMotion(3,3);
     VoicePlay("B040308400_03_030");
     MsgDisp("Honda","Alright, I'll catch some to observe.
-But, raising them is troublesome, so I
-have to release them right away.");
+But, raising them is troublesome, so I have
+to release them right away.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

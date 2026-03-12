@@ -34,9 +34,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040221102_02_020");
-        MsgDisp("Sassa","It was only just born, I feel bad that it
-has to be held by so many different
-people.");
+        MsgDisp("Sassa","It was only just born, I feel bad that it has
+to be held by so many different people.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -46,8 +45,8 @@ people.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040221102_02_030");
-        MsgDisp("Sassa","It was only just born, I want it to be
-able to rest well.");
+        MsgDisp("Sassa","It was only just born, I want it to be able
+to rest well.");
         MsgDisp("主人公","I see.
 ｛Sassa＊＊｝ is kind huh?");
         ChEye(2,0);
@@ -62,8 +61,7 @@ Didn't you already know?");
         ChMotion(2,4);
         ChCheek(2,10);
         VoicePlay("B040221102_02_050");
-        MsgDisp("Sassa","You, too, are the kindest person in my
-eyes.");
+        MsgDisp("Sassa","You, too, are the kindest person in my eyes.");
         MsgDisp("主人公","Eh....");
         SEPlay("EV_SE_537");
         SEWait();

@@ -40,7 +40,7 @@ Wait(10,0);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020501021_05_040");
-MsgDisp("Hiiragi","Therefore, one more time——");
+MsgDisp("Hiiragi","Therefore, one more time—");
 MsgDisp("主人公","Eh...");
 BGMStop(2.8);
 MsgClear();

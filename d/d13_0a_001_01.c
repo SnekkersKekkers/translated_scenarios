@@ -90,7 +90,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D130A00101_02_020");
-MsgDisp("Sassa","If Mikage-sensei says so——");
+MsgDisp("Sassa","If Mikage-sensei says so—");
 MsgClose();
 SEPlay("EV_SE_544");
 ChClose(2,0,30);

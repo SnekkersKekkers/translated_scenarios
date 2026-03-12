@@ -47,7 +47,7 @@ ChEyeOpenLevel(5,10);
 ChCheek(5,0);
 VoicePlay("T020500022_05_040");
 MsgDisp("Hiiragi","But, I can't just keep getting beaten by
-you.—");
+you—");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

@@ -44,16 +44,15 @@ feel like it makes the fear fade away?");
         ChMotion(3,4);
         VoicePlay("B040323102_03_030");
         MsgDisp("Honda","Well, I don't know.
-To begin with, I can't really understand
-it myself.");
+To begin with, I can't really understand it
+myself.");
         MsgDisp("主人公","Ah, sorry, did you dislike it?");
         ChEye(3,1);
         ChMouth(3,1);
         ChMotion(3,5);
         VoicePlay("B040323102_03_040");
-        MsgDisp("Honda","Urkー, no.
-If you're having fun, it's fine with me
-too.");
+        MsgDisp("Honda","Urk—, no.
+If you're having fun, it's fine with me too.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);
@@ -69,8 +68,8 @@ things you enjoy and are interested in.");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040323102_03_060");
-        MsgDisp("Honda","That's why, whether I like it or not
-doesn't matter.");
+        MsgDisp("Honda","That's why, whether I like it or not doesn't
+matter.");
         MsgDisp("主人公","It does matter.
 It would be better if both of us had fun.");
         ChEye(3,5);

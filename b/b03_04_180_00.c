@@ -16,11 +16,10 @@ ChMotion(4,1,1);
 BGOpen("ne610",0);
 ScrFadeIn(0);
 VoicePlay("B030418000_04_010");
-MsgDisp("Nanatsumori","The limited edition popcorn is so good,
-don't eat too much.");
+MsgDisp("Nanatsumori","The limited edition popcorn is so good, don't
+eat too much.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Hehe, same goes for you,
-｛Nanatsumori＊｝!
+MsgDisp("主人公","Hehe, same goes for you, ｛Nanatsumori＊｝!
 Oh, it's starting.");
 MsgDispSksp(0);
 MsgClose();

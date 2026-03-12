@@ -48,7 +48,7 @@ ChMotion(3,2);
 VoicePlay("G110300300_03_030");
 MsgDisp("Honda","But, I'm sorry.
 I was conflicted on what to do as a store
-clerk and what to do as your friend——");
+clerk and what to do as your friend—");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);

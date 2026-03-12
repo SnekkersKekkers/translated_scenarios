@@ -5,8 +5,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040117001_01_000");
-MsgDisp("Kazama","You really look like you enjoy singing,
-huh?");
+MsgDisp("Kazama","You really look like you enjoy singing, huh?");
 MsgSel("It would be a pity if ｛Kazama＊＊｝ didn't also sing.","My throat is parched!","I'm kinda short of breath?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,4);
     VoicePlay("B040117001_01_010");
-    MsgDisp("Kazama","It would be hard to after your
-performance.");
+    MsgDisp("Kazama","It would be hard to after your performance.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,7 +26,8 @@ performance.");
     ChMotion(1,0);
     VoicePlay("B040117001_01_020");
     MsgDisp("Kazama","Apparently the Habataki mixed juice is a
-staple. Want some?");
+staple.
+Want some?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

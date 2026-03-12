@@ -10,9 +10,8 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040512101_05_000");
-MsgDisp("Hiiragi","There are people selling not just
-secondhand clothes, but their own
-handmade work too.");
+MsgDisp("Hiiragi","There are people selling not just secondhand
+clothes, but their own handmade work too.");
 MsgSel("What store would you set up ｛Hiiragi＊＊＊｝?","Is there food being sold too?","There's handmade accessories!");
 switch (MsgSelRsltGet()){
     case 0:

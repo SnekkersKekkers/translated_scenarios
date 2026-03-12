@@ -54,9 +54,9 @@ It's cold.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040406302_04_040");
-        MsgDisp("Nanatsumori","It's cold, there's nothing to see or to
-take pictures of. Honestly, I don't
-understand what's good about it.");
+        MsgDisp("Nanatsumori","It's cold, there's nothing to see or to take
+pictures of. Honestly, I don't understand
+what's good about it.");
         MsgDisp("主人公","I see.");
         ChEye(4,0);
         ChMotion(4,0,1);

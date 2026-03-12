@@ -40,8 +40,8 @@ compensate with the weight of the ball.");
     ChMotion(3,4);
     VoicePlay("B040315100_03_030");
     MsgDisp("Honda","Eh?
-Either way the score will be posted, and
-the winner will be clear, right?");
+Either way the score will be posted, and the
+winner will be clear, right?");
     MsgDateResultDisp();
     break ;
     default :

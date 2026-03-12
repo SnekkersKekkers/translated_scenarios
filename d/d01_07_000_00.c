@@ -101,7 +101,7 @@ MsgDisp("Mikage","Drink it slowly.
 It will warm your stomach and increase your
 appetite.");
 MsgDisp("主人公","Come to think of it...
-I'm getting a bit hungry now——");
+I'm getting a bit hungry now—");
 StlEye(7,0);
 StlMouth(7,1);
 SEPlay("EV_SE_017");

@@ -67,9 +67,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360707000_07_080");
-MsgDisp("Mikage","Yeah. That's why I always look forward to
-the school cafeteria. Tell Yanosuke and
-Inori to invite me too.");
+MsgDisp("Mikage","Yeah. That's why I always look forward to the
+school cafeteria.
+Tell Yanosuke and Inori to invite me too.");
 MsgDisp("主人公","(｛Mikage＊＊｝, I'd love to have dinner
 with you...)");
 BGMStop();

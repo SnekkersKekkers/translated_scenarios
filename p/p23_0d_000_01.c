@@ -22,7 +22,7 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P230D00001_22_010");
-MsgDisp("Hikaru","AaーAh. 
+MsgDisp("Hikaru","Aa—Ah. 
 \"Flora Angel\" I wanted to do it with the
 three of us～...");
 ChEye(21,0);

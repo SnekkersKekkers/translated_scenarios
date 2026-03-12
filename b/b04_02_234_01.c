@@ -38,9 +38,9 @@ That's an unreasonable ask.");
     ChMouth(2,2);
     ChMotion(2,3);
     VoicePlay("B040223401_02_030");
-    MsgDisp("Sassa","That's true...I've experienced it for
-myself. There's a lot of spinning play
-equipment for children.");
+    MsgDisp("Sassa","That's true...
+I've experienced it for myself. There's a lot
+of spinning play equipment for children.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -13,9 +13,9 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChCheek(3,0);
 VoicePlay("B150310000_03_010");
-MsgDisp("Honda","It's fine, but you know, I'm pretty
-curious too. Even I don't know what might
-happen to you.");
+MsgDisp("Honda","It's fine, but you know, I'm pretty curious
+too.
+Even I don't know what might happen to you.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

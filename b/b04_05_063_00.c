@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("B040506300_05_000");
-MsgDisp("Hiiragi","Doesn't the winter sea give off the image
-of a strict father?");
+MsgDisp("Hiiragi","Doesn't the winter sea give off the image of
+a strict father?");
 MsgSel("We have the winter sea to ourselves!","The winter sea is miserable...","The winter sea has lots of delicious things♪");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040506300_05_010");
     MsgDisp("Hiiragi","Did you not hear it over the sound of the
-waves? \"Doesn't the winter sea give off
-the image of a strict father?\"");
+waves? \"Doesn't the winter sea give off the
+image of a strict father?\"");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

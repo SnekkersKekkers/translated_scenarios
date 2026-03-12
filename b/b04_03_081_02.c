@@ -29,9 +29,9 @@ That's the charm of Sakura.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040308102_03_020");
-    MsgDisp("Honda","Yep yep, grafting is when you take a
-rooted plant and attach a part of another
-plant to it. It's a type of cloning!");
+    MsgDisp("Honda","Yep yep, grafting is when you take a rooted
+plant and attach a part of another plant to
+it. It's a type of cloning!");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -48,8 +48,7 @@ plant to it. It's a type of cloning!");
         ChSet(3,4,1);
         VoicePlay("B040308102_03_030");
         MsgDisp("Honda","Is that so?
-This sort of chaotic atmosphere is fun
-too.");
+This sort of chaotic atmosphere is fun too.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,8 +58,8 @@ too.");
         ChMouth(3,2);
         ChMotion(3,2);
         VoicePlay("B040308102_03_040");
-        MsgDisp("Honda","The period of time in which we can do this
-is limited.");
+        MsgDisp("Honda","The period of time in which we can do this is
+limited.");
         MsgDisp("主人公","Eh?");
         ChEye(3,2);
         ChMouth(3,4);
@@ -73,8 +72,8 @@ viewing of high school?");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040308102_03_060");
-        MsgDisp("Honda","Was I able to say something that'll remain
-in your memory?");
+        MsgDisp("Honda","Was I able to say something that'll remain in
+your memory?");
         MsgDisp("主人公","Yeah, of course.");
         ChEye(3,0);
         ChMouth(3,3);
@@ -86,11 +85,10 @@ it's super exciting.");
         ChEye(3,0);
         ChMouth(3,0);
         VoicePlay("B040308102_03_080");
-        MsgDisp("Honda","So that's why, if I could give you
-something back I would be happy.");
+        MsgDisp("Honda","So that's why, if I could give you something
+back I would be happy.");
         MsgDisp("主人公","You've taught me so many things, not just
-here, but all the places we go to
-together.");
+here, but all the places we go to together.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,2);
@@ -112,7 +110,8 @@ You seem to enjoy teaching other people,
         ChMouth(3,0);
         ChMotion(3,2);
         VoicePlay("B040308102_03_110");
-        MsgDisp("Honda","Huh? Umm...I wonder if that's a positive
+        MsgDisp("Honda","Huh?
+Umm... I wonder if that's a positive
 affirmation or not...");
         ChEye(3,3);
         ChMouth(3,3);
@@ -122,8 +121,8 @@ affirmation or not...");
         MsgDisp("Honda","Haha!
 You really are interesting!");
         MsgDisp("主人公","(｛Honda＊＊｝ called me interesting...
-I'm happy, but I have mixed feelings
-about it?)");
+I'm happy, but I have mixed feelings about
+it?)");
         break ;
         default :
         DbgAssert(1);

@@ -22,34 +22,34 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200100_02_010");
-MsgDisp("Sassa","Ah—, if I could return to daytime, I
-could spend more time with you.");
+MsgDisp("Sassa","Ah—, if I could return to daytime, I could
+spend more time with you.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B140200100_02_020");
 MsgDisp("Sassa","It's strange. Even though we spent all of
-yesterday and today together, I find
-myself wanting more time.");
+yesterday and today together, I find myself
+wanting more time.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B140200100_02_030");
-MsgDisp("Sassa","Ah, hey. Yesterday, I was a bit overcome
-with emotion, so I'm sorry if I said
-something strange.");
-MsgDisp("主人公","No. That ground was soaked with three
-years of your hard work after all,
-｛Sassa＊＊｝.");
+MsgDisp("Sassa","Ah, hey.
+Yesterday, I was a bit overcome with emotion,
+so I'm sorry if I said something strange.");
+MsgDisp("主人公","No.
+That ground was soaked with three years of
+your hard work after all, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B140200100_02_040");
 MsgDisp("Sassa","Yeah.
-But you were the one who was always
-watching over me like that.");
+But you were the one who was always watching
+over me like that.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

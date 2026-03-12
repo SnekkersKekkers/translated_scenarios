@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040203102_02_010");
-    MsgDisp("Sassa","Those are teeth! What even is that∋
-Just swinging that thing around can
-hurt all the little fish.");
+    MsgDisp("Sassa","Those are teeth!
+What even is that∋ Just swinging that thing
+around can hurt all the little fish.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +35,7 @@ hurt all the little fish.");
         ChMotion(2,2);
         VoicePlay("B040203102_02_020");
         MsgDisp("Sassa","Well, I guess that's true...
-But wouldn't a different reaction be
-better?");
+But wouldn't a different reaction be better?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -61,9 +60,8 @@ That's what winning truly means.");
         ChMouth(2,4);
         ChMotion(2,1);
         VoicePlay("B040203102_02_050");
-        MsgDisp("Sassa","Because I'm blessed with this body, I need
-to use it efficiently to my advantage and
-win.");
+        MsgDisp("Sassa","Because I'm blessed with this body, I need to
+use it efficiently to my advantage and win.");
         MsgDisp("主人公","(｛Sassa＊＊｝ always has competition on his
 mind...)");
         break ;

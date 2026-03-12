@@ -101,7 +101,7 @@ VoicePlay("D030901000_09_080");
 MsgDisp("Kuya","Chocolate.
 Because today is Valentine's Day.");
 MsgDisp("主人公","Eh, but...
-Sorry, I don't have anything prepared——");
+Sorry, I don't have anything prepared—");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,1,1);

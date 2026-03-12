@@ -79,10 +79,9 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B330A20300_01_020");
-MsgDisp("Kazama","That doesn't mean you should tailgate me
-on the waterslide.");
-MsgDisp("主人公","Then, next time should we change the
-order?");
+MsgDisp("Kazama","That doesn't mean you should tailgate me on
+the waterslide.");
+MsgDisp("主人公","Then, next time should we change the order?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -138,8 +137,8 @@ MsgDisp("Kazama","He's kind of not credible...");
 SEPlay("EV_SE_562");
 MsgClose();
 ChClose(1,0,30);
-MsgDisp("主人公","(Seems like ｛Kazama＊＊｝ really hates
-being chased by ｛Sassa＊＊｝?)");
+MsgDisp("主人公","(Seems like ｛Kazama＊＊｝ really hates being
+chased by ｛Sassa＊＊｝?)");
 BGMStop();
 SEStop("EV_SE_562",1);
 MsgClose();

@@ -21,8 +21,7 @@ switch (MsgSelRsltGet()){
         ChMotion(5,4);
         VoicePlay("B040515202_05_010");
         MsgDisp("Hiiragi","Huh?
-What's the matter, where's your usual
-guts?");
+What's the matter, where's your usual guts?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -46,7 +45,7 @@ Yeah, thank you.");
         ChMouth(5,3);
         ChMotion(5,1);
         VoicePlay("B040515202_05_040");
-        MsgDisp("Hiiragi","Phewー...
+        MsgDisp("Hiiragi","Phew—...
 Ah, you did it huh?");
         MsgDisp("主人公","Hehe, shall we have a competition then?");
         MsgClose();
@@ -71,15 +70,14 @@ Ah, you did it huh?");
 Thank you.");
         ChMotion(5,4);
         VoicePlay("B040515202_05_060");
-        MsgDisp("Hiiragi","I'm happy to be blessed with a good
-student.");
+        MsgDisp("Hiiragi","I'm happy to be blessed with a good student.");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040515202_05_070");
         MsgDisp("Hiiragi","Okay, let's move on to the second round.
-The true winner is the one who wins two
-out of three rounds.");
+The true winner is the one who wins two out
+of three rounds.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(5);
@@ -92,8 +90,7 @@ out of three rounds.");
         MsgDisp("主人公","Ehhh∋
 Sneaky!");
         MsgDisp("主人公","(Hey...
-｛Hiiragi＊＊＊｝, you really hate to lose
-huh...)");
+｛Hiiragi＊＊＊｝, you really hate to lose huh...)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(5,255,0,0,0,#1,#1,0,0,0,0);

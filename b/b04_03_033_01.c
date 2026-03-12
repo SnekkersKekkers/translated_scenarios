@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChSet(3,3,1);
     VoicePlay("B040303301_03_010");
     MsgDisp("Honda","Yay, me too!
-The mascot of the deep-sea corner,
-Guso-kun!");
+The mascot of the deep-sea corner, Guso-kun!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +28,8 @@ Guso-kun!");
     ChMotion(3,0,1);
     VoicePlay("B040303301_03_020");
     MsgDisp("Honda","Is that so?
-Then, let's go to the jellyfish tank
-instead of the deep-sea corner.");
+Then, let's go to the jellyfish tank instead
+of the deep-sea corner.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -39,9 +38,9 @@ instead of the deep-sea corner.");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040303301_03_030");
-    MsgDisp("Honda","...Yeah, me too, me too∈ Diving from the
-surface to 800 meters deep; they're
-certainly admirable deep-sea fish!");
+    MsgDisp("Honda","...Yeah, me too, me too∈
+Diving from the surface to 800 meters deep;
+they're certainly admirable deep-sea fish!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

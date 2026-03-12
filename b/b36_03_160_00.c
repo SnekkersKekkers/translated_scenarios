@@ -10,20 +10,19 @@ ChMotion(3,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360316000_03_000");
-MsgDisp("Honda","Oh, a new version of the quiz game
-is here!∋");
+MsgDisp("Honda","Oh, a new version of the quiz game is here!∋");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B360316000_03_010");
-MsgDisp("Honda","Hey, can we——");
+MsgDisp("Honda","Hey, can we—");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("B360316000_03_020");
 MsgDisp("Honda","No, never mind!
-I shouldn't get too into quiz games when
-I'm here with you.");
+I shouldn't get too into quiz games when I'm
+here with you.");
 MsgDisp("主人公","Why?
 You can play if you want.");
 ChEye(3,2);
@@ -45,14 +44,14 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("B360316000_03_050");
 MsgDisp("Honda","Oh, it's not that I felt excluded or
-anything! Ryou-kun and Mi-kun are really
-nice and would never do that!");
+anything! Ryou-kun and Mi-kun are really nice
+and would never do that!");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360316000_03_060");
-MsgDisp("Honda","...It's just that when you were talking
-with them, I felt uneasy and impatient.");
+MsgDisp("Honda","...It's just that when you were talking with
+them, I felt uneasy and impatient.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

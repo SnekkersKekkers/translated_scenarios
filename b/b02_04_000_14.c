@@ -14,8 +14,8 @@ ChEye(4,4);
 ChMotion(4,3,1);
 ChCheek(4,8);
 VoicePlay("B020400014_04_010");
-MsgDisp("Nanatsumori","Yeah. I guess they call this a matching
-look. Ah～ ...This is just a little
-embarrassing.");
-MsgDisp("主人公","(Hehe, seems like ｛Nanatsumori＊｝ and I
-have similar tastes in clothes!)");
+MsgDisp("Nanatsumori","Yeah.
+I guess they call this a matching look.
+Ah～ ...This is just a little embarrassing.");
+MsgDisp("主人公","(Hehe, seems like ｛Nanatsumori＊｝ and I have
+similar tastes in clothes!)");

@@ -14,8 +14,8 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("B070100000_01_020");
 MsgDisp("Kazama","Not interested. It's nothing but mindless
-shows. Especially variety shows? Pranks
-and stuff. Watching those puts me off.");
+shows. Especially variety shows?
+Pranks and stuff. Watching those puts me off.");
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Sometimes they do pretty extreme stuff...");
 ChEye(1,0);
@@ -35,9 +35,9 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_050");
-MsgDisp("Kazama","The \"Eating Around the Globe Series\" is
-good too. The episode about British home
-cooking was incredible.");
+MsgDisp("Kazama","The \"Eating Around the Globe Series\" is good
+too. The episode about British home cooking
+was incredible.");
 MsgDisp("主人公","(Umm, ｛Kazama＊＊｝ does like TV...)");
 BGMStop();
 MsgClose();

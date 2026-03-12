@@ -8,9 +8,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B030706000_07_000");
-MsgDisp("Mikage","Sure is hot. Summer means time for the
-sea, which is what today's extra credit
-class is all about. Have fun～!");
+MsgDisp("Mikage","Sure is hot. Summer means time for the sea,
+which is what today's extra credit class is
+all about. Have fun～!");
 VoicePlay("B030706000_38_000");
 MsgDisp("Students","Woohoo!");
 ChEye(7,2);
@@ -24,8 +24,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B030706000_07_020");
 MsgDisp("Mikage","Feel free to let your hair down.
-...Uh, just don't tell vice principal
-Himuro, okay?");
+...Uh, just don't tell vice principal Himuro,
+okay?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,0);

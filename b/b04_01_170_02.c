@@ -35,8 +35,7 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0);
         VoicePlay("B040117002_01_020");
         MsgDisp("Kazama","Got it.
-Then, pick something you like from the
-menu.");
+Then, pick something you like from the menu.");
         MsgDisp("主人公","Really∋
 ｛Kazama＊＊｝, thank you!
 The sweets here are delicious, right?");
@@ -57,7 +56,8 @@ The sweets here are delicious, right?");
         VoicePlay("B040117002_01_040");
         MsgDisp("Kazama","Please give me your most popular sweet.");
         VoicePlay("B040117002_01_050");
-        MsgDisp("Kazama","O-Of course. That's alright.");
+        MsgDisp("Kazama","O-Of course.
+That's alright.");
         MsgDisp("主人公","Are you alright...?");
         SEPlay("EV_SE_762");
         SEWait();
@@ -94,8 +94,8 @@ employee comes...)");
     ChMouth(1,3);
     ChMotion(1,3,1);
     VoicePlay("B040117002_01_080");
-    MsgDisp("Kazama","That was great, even better than the
-original song!");
+    MsgDisp("Kazama","That was great, even better than the original
+song!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -107,8 +107,7 @@ original song!");
     ChMotion(1,0);
     VoicePlay("B040117002_01_090");
     MsgDisp("Kazama","Yeah, they messed up on the judging.
-If I was the judge, I'd give it full
-marks!");
+If I was the judge, I'd give it full marks!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

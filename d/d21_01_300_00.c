@@ -25,7 +25,7 @@ ChMotion(31,2);
 MsgDisp("Goro","Let's see...
 How about a charismatic salesperson at
 Simon's General Store?");
-MsgDisp("主人公","Is that maybe——");
+MsgDisp("主人公","Is that maybe—");
 VoicePlay("D220100100_31_030");
 ChEye(31,0);
 ChMouth(31,0);

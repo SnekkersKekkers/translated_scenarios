@@ -30,7 +30,7 @@ ChMotion(22,2,1);
 VoicePlay("D100D00000_22_010");
 MsgDisp("Hikaru","Sis, Mari is too innocent, it'll make her
 feel uncomfortable, so...
-That's whyー...");
+That's why—...");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

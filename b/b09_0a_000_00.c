@@ -1,7 +1,8 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh?
-There's a new voicemail. Who is it...");
+There's a new voicemail.
+Who is it...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090A00000_02_000");
@@ -17,7 +18,6 @@ longer, give us a call okay?");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Oh no!
-I was supposed to go out with everyone
-today!");
+I was supposed to go out with everyone today!");
 MsgClose();
 ScrFadeOut(0);

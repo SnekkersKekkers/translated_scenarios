@@ -20,9 +20,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("B040623600_06_010");
-    MsgDisp("Himuro","Definitely. This is surrealism you won't
-see in other theme parks. It's hard to
-look away from it.");
+    MsgDisp("Himuro","Definitely.
+This is surrealism you won't see in other
+theme parks. It's hard to look away from it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -44,9 +44,9 @@ nightmare?");
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("B040623600_06_030");
-    MsgDisp("Himuro","Yeah. I was more interested in that than
-the production. I wonder how much the
-electricity bill is.");
+    MsgDisp("Himuro","Yeah. I was more interested in that than the
+production.
+I wonder how much the electricity bill is.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

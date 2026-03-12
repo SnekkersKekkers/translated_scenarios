@@ -4,7 +4,7 @@ ChMouth(8,0);
 ChMotion(8,2);
 ChCheek(8,7);
 VoicePlay("G020810300_08_000");
-MsgDisp("Shirahane","It's beautifulー...
+MsgDisp("Shirahane","It's beautiful—...
 Doesn't it feel like time is passing
 slowly?");
 MsgDisp("主人公","Yeah, that's right...");

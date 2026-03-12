@@ -47,7 +47,7 @@ do.");
     MsgDisp("主人公","Ah, it's starting.
 I'll to my best then!");
     MsgDisp("主人公","(Huh? After talking to ｛Kazama＊＊｝, I
-think I feel more at ease...Alーright,
+think I feel more at ease...Al—right,
 let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -106,7 +106,7 @@ So, relax your shoulder and go.");
     MsgDisp("Kazama","With that face, you're invincible.");
     SEPlay("EV_SE_038");
     SEWait();
-    MsgDisp("主人公","(Alーright.
+    MsgDisp("主人公","(Al—right.
 I was praised by ｛Kazama＊＊｝, so let's go
 with confidence!)");
     MsgClose();

@@ -96,15 +96,13 @@ VoicePlay("B330C30500_07_020");
 MsgDisp("Mikage","It's Yanosuke's victory.");
 ChEye(5,3);
 VoicePlay("B330C30500_05_010");
-MsgDisp("Hiiragi","This is my first victory against
-Inori-kun.");
+MsgDisp("Hiiragi","This is my first victory against Inori-kun.");
 ChEye(5,4);
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C30500_06_040");
-MsgDisp("Himuro","The quality of your cheering was
-different.");
+MsgDisp("Himuro","The quality of your cheering was different.");
 MsgDisp("主人公","Cheering quality?");
 ChEye(6,1);
 ChMouth(6,0);

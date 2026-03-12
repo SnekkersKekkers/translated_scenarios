@@ -29,7 +29,7 @@ I'm coming now.");
     ChMotion(7,4);
     VoicePlay("B040706101_07_020");
     MsgDisp("Mikage","Ah, no way!
-Do your bestー∈");
+Do your best—∈");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

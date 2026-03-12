@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040421200_04_000");
 MsgDisp("Nanatsumori","Oh.
 They have a pretty good selection of items
-hereー.");
+here—.");
 MsgSel("I have to get the limited edition stuff","Just looking is fine...","I want a plushie");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040421200_04_010");
     MsgDisp("Nanatsumori","I get it. It's limited by time, limited to
-this place, and limited to the zoo. It's
-like you have to get them all.");
+this place, and limited to the zoo.
+It's like you have to get them all.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

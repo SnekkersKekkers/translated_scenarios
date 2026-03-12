@@ -10,6 +10,6 @@ ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B060400007_04_000");
 MsgDisp("Nanatsumori","Just as I thought, it can't be anyone but
-you. So this is what it means to be
-content. ...Right?");
+you. So this is what it means to be content.
+...Right?");
 MsgDispSksp(0);

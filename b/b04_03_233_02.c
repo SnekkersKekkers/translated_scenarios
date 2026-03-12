@@ -21,9 +21,9 @@ switch (MsgSelRsltGet()){
         ChMouth(3,1);
         ChMotion(3,0);
         VoicePlay("B040323302_03_010");
-        MsgDisp("Honda","Aahhー.
-Don't interfere when I'm trying to
-convince myself!");
+        MsgDisp("Honda","Aahh—.
+Don't interfere when I'm trying to convince
+myself!");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -42,8 +42,8 @@ little.");
         ChMouth(3,3);
         ChMotion(3,5);
         VoicePlay("B040323302_03_030");
-        MsgDisp("Honda","Maybe, we've both reached the other side
-of fear?");
+        MsgDisp("Honda","Maybe, we've both reached the other side of
+fear?");
         MsgDisp("主人公","Hehe.");
         ChEye(3,3);
         ChMouth(3,3);
@@ -62,14 +62,13 @@ of fear?");
         VoicePlay("B040323302_03_060");
         MsgDisp("Honda","Yeah, that might be even scarier.");
         MsgDisp("主人公","Hehe.
-We're still not fully on the other side
-yet, huh?");
+We're still not fully on the other side yet,
+huh?");
         ChSet(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040323302_03_070");
-        MsgDisp("Honda","Yeah, I'm fine with either side as long as
-I can have conversations with you like
-this.");
+        MsgDisp("Honda","Yeah, I'm fine with either side as long as I
+can have conversations with you like this.");
         MsgDisp("主人公","(From now on too, I hope I can keep having
 fun conversations with ｛Honda＊＊｝ like
 this.)");

@@ -23,8 +23,7 @@ different person...");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040604500_06_010");
-    MsgDisp("Himuro","...You perceived it in a different way
-huh.");
+    MsgDisp("Himuro","...You perceived it in a different way huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +35,8 @@ huh.");
     ChMotion(6,0);
     VoicePlay("B040604500_06_020");
     MsgDisp("Himuro","In what respect? I want to have a thorough
-discussion. If we do that, I'm sure we'll
-be able to understand each other better.");
+discussion. If we do that, I'm sure we'll be
+able to understand each other better.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

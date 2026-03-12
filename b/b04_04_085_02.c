@@ -6,7 +6,7 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408502_04_000");
-MsgDisp("Nanatsumori","Hmmmー...
+MsgDisp("Nanatsumori","Hmmm—...
 Don't you want something warm?");
 MsgSel("Some hot chocolate would be nice.","Am I not warm enough?","A steaming meat bun...");
 switch (MsgSelRsltGet()){
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040408502_04_010");
     MsgDisp("Nanatsumori","Nice!
-I wonder if there's a place around here
-that does hot chocolate.");
+I wonder if there's a place around here that
+does hot chocolate.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -61,10 +61,11 @@ like that?");
         ChMotion(4,0,1);
         ChCheek(4,8);
         VoicePlay("B040408502_04_050");
-        MsgDisp("Nanatsumori","∋ ...H-Hugging?
+        MsgDisp("Nanatsumori","∋
+...H-Hugging?
 Is that okay?");
-        MsgDisp("主人公","It's a bit embarrassing but,
-I don't have any hand warmers.
+        MsgDisp("主人公","It's a bit embarrassing but, I don't have any
+hand warmers.
 And ｛Nanatsumori＊｝, you get cold easily.");
         ChEye(4,4);
         ChMouth(4,4);
@@ -115,8 +116,8 @@ Are you warm?");
         ChMotion(4,1,1);
         VoicePlay("B040408502_04_120");
         MsgDisp("Nanatsumori","Conclusion.
-This rapid rise in body temperature can
-cause serious physical and mental errors.");
+This rapid rise in body temperature can cause
+serious physical and mental errors.");
         MsgDisp("主人公","???");
         break ;
         default :
@@ -130,7 +131,7 @@ cause serious physical and mental errors.");
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040408502_04_130");
-    MsgDisp("Nanatsumori","Ahー....
+    MsgDisp("Nanatsumori","Ah—....
 I can't stand it when you give a specific
 example.");
     MsgDispSksp(1,8);

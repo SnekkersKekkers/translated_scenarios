@@ -4,8 +4,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B070100000_01_060");
 MsgDisp("Kazama","Soba I guess.
-Since I came back, my love for soba
-noodles has been rekindled.");
+Since I came back, my love for soba noodles
+has been rekindled.");
 MsgDisp("主人公","Soba is delicious isn't it?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -20,16 +20,16 @@ ChMouth(1,4);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_080");
-MsgDisp("Kazama","Come to think of it, when I was younger,
-my Grandpa did teach me how to make it.");
+MsgDisp("Kazama","Come to think of it, when I was younger, my
+Grandpa did teach me how to make it.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,2);
 VoicePlay("B070100000_01_090");
-MsgDisp("Kazama","I couldn't do it well at all, so in the
-end I made it into sobagaki.");
+MsgDisp("Kazama","I couldn't do it well at all, so in the end I
+made it into sobagaki.");
 MsgDisp("主人公","Sobagaki...that sounds delicious too!
-Ah——");
+Ah—");
 SEPlay("EV_SE_017");
 ChEye(1,0);
 ChMouth(1,2);

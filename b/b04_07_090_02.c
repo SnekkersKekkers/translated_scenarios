@@ -48,9 +48,9 @@ Just now, you've also just transformed.");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040709002_07_040");
-        MsgDisp("Mikage","High schools are just like this
-laboratory. No one knows how giving
-students various stimuli will affect them.");
+        MsgDisp("Mikage","High schools are just like this laboratory.
+No one knows how giving students various
+stimuli will affect them.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,1);
@@ -61,8 +61,8 @@ stimuli just growth?");
         ChMouth(7,3);
         ChMotion(7,4);
         VoicePlay("B040709002_07_060");
-        MsgDisp("Mikage","...Wow, that's a rare example of when I
-said something good.");
+        MsgDisp("Mikage","...Wow, that's a rare example of when I said
+something good.");
         MsgDisp("主人公","Hehe.
 ｛Mikage＊＊｝, I want to grow up being
 stimulated in all sorts of ways.");
@@ -77,10 +77,9 @@ stimulated in all sorts of ways.");
         ChMotion(7,2);
         VoicePlay("B040709002_07_080");
         MsgDisp("Mikage","I didn't get any stimulus during my high
-school years, when I should've been
-growing. That's why I'm getting it now...");
-        MsgDisp("主人公","(｛Mikage＊＊｝'s time at high
-school...')");
+school years, when I should've been growing.
+That's why I'm getting it now...");
+        MsgDisp("主人公","(｛Mikage＊＊｝'s time at high school...')");
         break ;
         default :
         DbgAssert(1);

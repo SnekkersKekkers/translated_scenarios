@@ -22,7 +22,7 @@ MsgClear();
 VoicePlay("Y300800400_33_010");
 MsgDisp("Student B","\"Rather than Daichi, I feel like
 she's more well matched for
-Kuya-senpaiー!\"");
+Kuya-senpai—!\"");
 MsgDisp("","Unh.");
 VoicePlay("Y300800400_08_000");
 MsgDisp("Daichi","\"Dummy, it's none of your business!\"");

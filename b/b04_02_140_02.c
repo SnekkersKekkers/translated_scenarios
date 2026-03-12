@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,1,1);
 ScrFadeIn(0);
 VoicePlay("B040214002_02_000");
-MsgDisp("Sassa","This might be the first time I've gotten
-this fired up until now.");
+MsgDisp("Sassa","This might be the first time I've gotten this
+fired up until now.");
 MsgSel("Hehe, you're sweating.","｛Sassa＊＊｝ is too excited","I'm also getting excited...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040214002_02_010");
     MsgDisp("Sassa","Haha!
-I don't even sweat this much when I
-practice.");
+I don't even sweat this much when I practice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -50,8 +49,8 @@ practice.");
         ChMotion(2,4);
         ChEyeOpenLevel(2,9);
         VoicePlay("B040214002_02_040");
-        MsgDisp("Sassa","Even you were moving your body quite a
-lot, you know?");
+        MsgDisp("Sassa","Even you were moving your body quite a lot,
+you know?");
         MsgDisp("主人公","Eh?
 I didn't notice...");
         ChEye(2,3);
@@ -65,8 +64,7 @@ I'm guessing you had fun?");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040214002_02_060");
-        MsgDisp("Sassa","I much prefer that over just standing
-still.");
+        MsgDisp("Sassa","I much prefer that over just standing still.");
         MsgDisp("主人公","Prefer?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -78,8 +76,8 @@ still.");
         ChMotion(2,5);
         ChCheek(2,10);
         VoicePlay("B040214002_02_080");
-        MsgDisp("Sassa","H-Hey, going to a concert with someone
-makes it way more fun.");
+        MsgDisp("Sassa","H-Hey, going to a concert with someone makes
+it way more fun.");
         MsgDisp("主人公","(｛Sassa＊＊｝ really likes concerts huh...)");
         break ;
         default :

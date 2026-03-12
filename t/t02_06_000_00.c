@@ -116,7 +116,7 @@ ChEyeOpenLevel(6,8);
 VoicePlay("T020600000_06_150");
 MsgDisp("Himuro","That's when I finally got it.
 How much of a blessing it is to be able to
-spend time together——");
+spend time together—");
 MsgClear();
 ChClose(6);
 ChCustomLayout(6,5,0,-2.5);

@@ -26,8 +26,9 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040523102_05_020");
-    MsgDisp("Hiiragi","Incredible. A night-sky trip with you on a
-rollercoaster...I'm free anytime.");
+    MsgDisp("Hiiragi","Incredible.
+A night-sky trip with you on a
+rollercoaster... I'm free anytime.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -62,14 +63,12 @@ What's wrong?");
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040523102_05_050");
         MsgDisp("Hiiragi","Sorry.
-I remember being told that a long time
-ago.");
+I remember being told that a long time ago.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523102_05_060");
-        MsgDisp("Hiiragi","I forgot what city it was in, but long
-ago, my parents took me to an amusement
-park.");
+        MsgDisp("Hiiragi","I forgot what city it was in, but long ago,
+my parents took me to an amusement park.");
         MsgDisp("主人公","That's a wonderful memory.");
         ChMouth(5,4);
         ChMotion(5,0);
@@ -90,9 +89,9 @@ I wonder why?");
         ChMouth(5,4);
         ChMotion(5,2);
         VoicePlay("B040523102_05_100");
-        MsgDisp("Hiiragi","I guess it was unusual for me, so my
-mother pushed herself to come along and
-ended up feeling sick.");
+        MsgDisp("Hiiragi","I guess it was unusual for me, so my mother
+pushed herself to come along and ended up
+feeling sick.");
         MsgDisp("主人公","It must have been tough for your mom.
 But, I think she was happy.");
         ChEye(5,4);
@@ -117,8 +116,8 @@ Then I'll follow wherever you want to go.");
         MsgClose();
         ChClose(5);
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝ couldn't go to places like
-amusement parks since he was a kid because
-of work...)");
+amusement parks since he was a kid because of
+work...)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(5,255,0,0,0,#1,#1,0,0,0,0);

@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,2);
     VoicePlay("B040306100_03_010");
     MsgDisp("Honda","Um...
-I'm not confident enough in my swimming
-for a long-distance swim.");
+I'm not confident enough in my swimming for a
+long-distance swim.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -40,8 +40,8 @@ delicious, right?");
     ChMotion(3,4);
     VoicePlay("B040306100_03_030");
     MsgDisp("Honda","I think the sandy beach at the sunbathing
-area is probably all cleaned, and there
-might not be any stones or seashells left.");
+area is probably all cleaned, and there might
+not be any stones or seashells left.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

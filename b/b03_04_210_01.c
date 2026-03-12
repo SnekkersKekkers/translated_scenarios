@@ -21,8 +21,8 @@ Let's go.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B030421001_04_010");
-    MsgDisp("Nanatsumori","For now, let's start with checking out
-the animals and snapping some pics.");
+    MsgDisp("Nanatsumori","For now, let's start with checking out the
+animals and snapping some pics.");
     MsgDispSksp(0);
     break ;
     default :

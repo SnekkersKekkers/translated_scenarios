@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040411102_04_000");
-MsgDisp("Nanatsumori","I hate the cold, but surprisingly I can
-stand it at the skating rink.");
+MsgDisp("Nanatsumori","I hate the cold, but surprisingly I can stand
+it at the skating rink.");
 MsgSel("It's strangely exciting isn't it?","Why is that?","It's because the couples are all lovey dovey here▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040411102_04_010");
     MsgDisp("Nanatsumori","I know how you feel.
-I remember playing on a frozen puddle in
-the middle of winter.");
+I remember playing on a frozen puddle in the
+middle of winter.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -70,7 +70,7 @@ Scary.");
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("B040411102_04_070");
-        MsgDisp("Nanatsumori","Ahー...
+        MsgDisp("Nanatsumori","Ah—...
 But, if you're still cold, I guess I was
 wrong.");
         MsgDisp("主人公","...I'm not cold.");
@@ -92,8 +92,7 @@ wrong.");
         ChCheek(4,9);
         VoicePlay("B040411102_04_100");
         MsgDisp("Nanatsumori","...Crap.
-Not only is it cold, I'm starting to get
-hot.");
+Not only is it cold, I'm starting to get hot.");
         MsgDisp("主人公","(Me too...)");
         break ;
         default :

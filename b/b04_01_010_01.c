@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040101001_01_010");
-    MsgDisp("Kazama","You...You get way too swept up in
-whatever's said. You need to use your own
-judgement.");
+    MsgDisp("Kazama","You...
+You get way too swept up in whatever's said.
+You need to use your own judgement.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -29,8 +29,7 @@ judgement.");
     ChEyeOpenLevel(1,#1);
     VoicePlay("B040101001_01_020");
     MsgDisp("Kazama","Don't 'I'm not sure' me.
-If you want to say no, say it loud and
-clear.");
+If you want to say no, say it loud and clear.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

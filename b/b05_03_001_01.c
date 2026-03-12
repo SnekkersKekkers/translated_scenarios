@@ -13,8 +13,8 @@ VoicePlay("B050300101_45_000");
 MsgDisp("Girl","Ah, it's the Quiz King!");
 VoicePlay("B050300101_44_000");
 MsgDisp("Boy","For real!
-Quiz King, there are a bunch of crabs in
-the rocks over there.");
+Quiz King, there are a bunch of crabs in the
+rocks over there.");
 VoicePlay("B050300101_03_000");
 MsgDisp("Honda","Yeppers, where are they?");
 SEStop("EV_SE_855",3);
@@ -72,8 +72,8 @@ ChOpen(3,253,0,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050300101_44_030");
-MsgDisp("Boy","By the way, Quiz King, are you and
-Onee-chan dating?");
+MsgDisp("Boy","By the way, Quiz King, are you and Onee-chan
+dating?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);

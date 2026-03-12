@@ -15,5 +15,5 @@ MsgDisp("Honda","Righty-o!
 Because you aren't too dressed up, your
 natural self can come through.");
 MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like clothes like
-this, too.)");
+｛Honda＊＊｝ seems to like clothes like this,
+too.)");

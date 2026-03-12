@@ -6,8 +6,8 @@ ChMotion(3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040310101_03_000");
-MsgDisp("Honda","It looks like there's a trip for
-elementary school students today.");
+MsgDisp("Honda","It looks like there's a trip for elementary
+school students today.");
 MsgSel("How nostalgic, I remember coming a long time ago.","I want to hear ｛Honda＊＊｝'s commentary though.","We might not be able to take our time looking around, huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040310101_03_010");
-    MsgDisp("Honda","Yep yep, me too. I was so deep in
-conversation with the curator, I was late
-for the bus back home...");
+    MsgDisp("Honda","Yep yep, me too.
+I was so deep in conversation with the
+curator, I was late for the bus back home...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,8 +31,8 @@ for the bus back home...");
     ChCheek(3,5);
     VoicePlay("B040310101_03_020");
     MsgDisp("Honda","That's fine but...
-There's lots of things I want to talk to
-you about today...");
+There's lots of things I want to talk to you
+about today...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -44,8 +44,8 @@ you about today...");
     ChMotion(3,3);
     VoicePlay("B040310101_03_030");
     MsgDisp("Honda","That's not true. Elementary schoolers have
-pretty sharp perspectives. We might hear
-some interesting stuff, actually.");
+pretty sharp perspectives. We might hear some
+interesting stuff, actually.");
     MsgDateResultDisp();
     break ;
     default :

@@ -5,8 +5,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608300_06_000");
-MsgDisp("Himuro","It might be a bit cooler at the
-waterfront.");
+MsgDisp("Himuro","It might be a bit cooler at the waterfront.");
 MsgSel("Is that so?","Feels nice...","Actually I want to get into the water");
 switch (MsgSelRsltGet()){
     case 0:

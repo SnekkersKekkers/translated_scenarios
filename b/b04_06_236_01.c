@@ -33,8 +33,8 @@ yourself in a fairytale world after all.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040623601_06_020");
-    MsgDisp("Himuro","They can't survive without effort. So
-they're probably putting a lot into their
+    MsgDisp("Himuro","They can't survive without effort.
+So they're probably putting a lot into their
 selling point, the parade.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -46,9 +46,9 @@ selling point, the parade.");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040623601_06_030");
-    MsgDisp("Himuro","That's true. It's amazing how they can
-enchant the audience. I could never do
-that.");
+    MsgDisp("Himuro","That's true.
+It's amazing how they can enchant the
+audience. I could never do that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

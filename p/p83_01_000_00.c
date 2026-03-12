@@ -92,7 +92,7 @@ Hey, what do you mean by \"hehe\"?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("P830100000_01_080");
-    MsgDisp("Kazama","That was closeー.");
+    MsgDisp("Kazama","That was close—.");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

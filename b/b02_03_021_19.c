@@ -13,5 +13,5 @@ MsgDisp("Honda","Yeah, yeah.
 See, it's fluffy and cute, right?
 You're exactly like a flower today.");
 MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like clothes like
-this, too.)");
+｛Honda＊＊｝ seems to like clothes like this,
+too.)");

@@ -65,7 +65,7 @@ Are you alright?");
     ChEyeOpenLevel(1,8);
     VoicePlay("B010100001_01_050");
     MsgDisp("Kazama","Ah, good...
-— Ugh, what's my problem?
+Ugh, what's my problem?
 I spent so long getting ready.");
     MsgDisp("主人公","Really now?");
     ChEye(1,0);

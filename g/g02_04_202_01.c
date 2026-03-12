@@ -5,7 +5,7 @@ ChMotion(4,0);
 VoicePlay("G020420201_04_000");
 MsgDisp("Nanatsumori","If it were him, seeing such a large swarm
 of fireflies, he'd probably teach me all
-sorts of thingsー");
+sorts of things—");
 MsgDisp("主人公","Are you talking about ｛Honda＊＊｝?");
 ChEye(4,2);
 ChMouth(4,3);

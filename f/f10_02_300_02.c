@@ -45,7 +45,7 @@ ChEye(22,0);
 ChMouth(22,2);
 VoicePlay("F100230002_22_020");
 MsgDisp("Hikaru","Ah!
-Shoujo manga——");
+Shoujo manga—");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,5);

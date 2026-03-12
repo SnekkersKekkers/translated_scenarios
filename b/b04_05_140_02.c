@@ -67,14 +67,12 @@ person.");
         ChMotion(5,2);
         VoicePlay("B040514002_05_070");
         MsgDisp("Hiiragi","I tried to hold back, but I couldn't.
-My feelings for you are too great to
-conceal.");
+My feelings for you are too great to conceal.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040514002_05_080");
         MsgDisp("Hiiragi","Haa.
-I feel better now, so that's the end of
-it.");
+I feel better now, so that's the end of it.");
         MsgDisp("主人公","(Ehh, ｛Hiiragi＊＊＊｝ was jealous?
 I feel like I heard something really
 significant...)");
@@ -89,8 +87,7 @@ significant...)");
     ChMotion(5,4);
     VoicePlay("B040514002_05_090");
     MsgDisp("Hiiragi","Yeah, it was interesting.
-A combination of live music and drama
-huh...");
+A combination of live music and drama huh...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -41,7 +41,7 @@ I can't take my eyes off her.");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,10);
     VoicePlay("B040415201_04_030");
-    MsgDisp("Nanatsumori","Please forgive meー...");
+    MsgDisp("Nanatsumori","Please forgive me—...");
     ChEyeOpenLevel(4,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

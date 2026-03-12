@@ -1,6 +1,6 @@
 MsgDisp("主人公","Recently, the four of us; me, you,
-｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ have been
-hanging out regularly huh?");
+｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ have been hanging
+out regularly huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -13,8 +13,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_450");
 MsgDisp("Mikage","Yeah, we're different from people who got
-together for the same goals or hobbies
-right?");
+together for the same goals or hobbies right?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -31,8 +30,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_480");
-MsgDisp("Mikage","But aren't those friendships the
-strongest? Can't do club activities...
+MsgDisp("Mikage","But aren't those friendships the strongest?
+Can't do club activities...
 Got different hobbies... Nothing changes.");
 MsgDisp("主人公","I see...");
 ChEye(7,0);
@@ -40,23 +39,22 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700001_07_490");
 MsgDisp("Mikage","I think those guys know it too.
-Yanosuke never talks about theater does
-he?");
+Yanosuke never talks about theater does he?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070700001_07_500");
 MsgDisp("Mikage","Inori is the same.
-I think both of them know that, somewhere,
-in some way.");
+I think both of them know that, somewhere, in
+some way.");
 MsgDisp("主人公","Then, our bond will be everlasting...");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B070700001_07_510");
 MsgDisp("Mikage","Hehe, so you think that?
-But there is one thing we all have in
-common, and it's standing right here.");
+But there is one thing we all have in common,
+and it's standing right here.");
 MsgDisp("主人公","?");
 ChEye(7,0);
 ChMouth(7,0);

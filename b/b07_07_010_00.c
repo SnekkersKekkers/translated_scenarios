@@ -12,14 +12,13 @@ Wait(60,0);
 ChEye(7,0);
 ChMouth(7,4);
 VoicePlay("B070701000_07_000");
-MsgDisp("Mikage","Hey, you——");
+MsgDisp("Mikage","Hey, you—");
 MsgDisp("主人公","Yes, what is it?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,3);
 VoicePlay("B070701000_07_010");
-MsgDisp("Mikage","No, you think about everything so
-seriously.");
+MsgDisp("Mikage","No, you think about everything so seriously.");
 ChEye(7,0);
 ChMouth(7,0);
 VoicePlay("B070701000_07_020");
@@ -38,9 +37,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070701000_07_040");
-MsgDisp("Mikage","Thinking about things seriously, and
-coming up with an answer isn't the only
-solution.——");
+MsgDisp("Mikage","Thinking about things seriously, and coming
+up with an answer isn't the only
+solution—");
 ChEye(7,0);
 ChMouth(7,0);
 ChEyeOpenLevel(7,8);
@@ -53,8 +52,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("B070701000_07_060");
-MsgDisp("Mikage","Love is something that suddenly grows
-bigger, gets heavier, and gets hotter?
+MsgDisp("Mikage","Love is something that suddenly grows bigger,
+gets heavier, and gets hotter?
 It changes in an instant.");
 MsgDisp("主人公","...What do you mean by that?");
 ChEye(7,0);
@@ -68,9 +67,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("B070701000_07_080");
-MsgDisp("Mikage","Even I, if I were told to think about
-romance right now, would end up making you
-the subject.");
+MsgDisp("Mikage","Even I, if I were told to think about romance
+right now, would end up making you the
+subject.");
 MsgDisp("主人公","Eh∋");
 ChEye(7,2);
 ChMouth(7,3);

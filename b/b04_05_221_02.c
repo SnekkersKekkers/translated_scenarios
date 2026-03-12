@@ -6,9 +6,9 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040522102_05_000");
-MsgDisp("Hiiragi","I've been given the honor to use this
-place as a setting in my plays, so I think
-I'm always on edge here.");
+MsgDisp("Hiiragi","I've been given the honor to use this place
+as a setting in my plays, so I think I'm
+always on edge here.");
 MsgSel("The lords would definitely be happy!","｛Hiiragi＊＊＊｝ is starting to look like a lord...","Relax a bit?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_010");
-        MsgDisp("Hiiragi","No matter how much you say it, I will
-never believe it to be true.");
+        MsgDisp("Hiiragi","No matter how much you say it, I will never
+believe it to be true.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -41,11 +41,11 @@ I wonder how?");
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040522102_05_030");
         MsgDisp("Hiiragi","My theatre production differs in both
-historical fact and interpretation. I
-wonder if they would take offense to it...");
-        MsgDisp("主人公","No, I don't think so. A lot of people
-get interested in history for the first
-time after watching the play, you know?");
+historical fact and interpretation.
+I wonder if they would take offense to it...");
+        MsgDisp("主人公","No, I don't think so. A lot of people get
+interested in history for the first time
+after watching the play, you know?");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040522102_05_040");
@@ -56,22 +56,22 @@ It's thanks to ｛Hiiragi＊＊＊｝ and everyone.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040522102_05_050");
-        MsgDisp("Hiiragi","When you say that, I feel as if I was of
-help in some small way.");
+        MsgDisp("Hiiragi","When you say that, I feel as if I was of help
+in some small way.");
         ChEye(5,4);
         ChMouth(5,0);
         ChMotion(5,2);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_060");
         MsgDisp("Hiiragi","As chairman of Habataki Theater Company, I
-once again express my gratitude to the
-many generations of lords here.");
+once again express my gratitude to the many
+generations of lords here.");
         ChMouthOpenLevel(5,0);
         VoicePlay("B040522102_05_070");
         MsgDisp("Hiiragi","......");
         VoicePlay("B040522102_43_000");
-        MsgDisp("Castle Lord?","You should proceed on your own path
-without hesitation.");
+        MsgDisp("Castle Lord?","You should proceed on your own path without
+hesitation.");
         MsgDisp("主人公","...Huh?
 Just now...");
         ChEye(5,4);
@@ -85,10 +85,10 @@ Just now...");
         ChEye(5,3);
         ChMouth(5,3);
         VoicePlay("B040522102_05_090");
-        MsgDisp("Hiiragi","Thank you, thanks to you, I feel as if a
-load has been lifted off my chest.");
-        MsgDisp("主人公","(That strange voice just now...could it
-have been...?)");
+        MsgDisp("Hiiragi","Thank you, thanks to you, I feel as if a load
+has been lifted off my chest.");
+        MsgDisp("主人公","(That strange voice just now...could it have
+been...?)");
         break ;
         default :
         DbgAssert(1);
@@ -112,8 +112,8 @@ Even without the costume?");
     ChEye(5,4);
     VoicePlay("B040522102_05_110");
     MsgDisp("Hiiragi","That's right.
-But I am grateful to the generations of
-lords and their ancestors.");
+But I am grateful to the generations of lords
+and their ancestors.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -61,7 +61,7 @@ MsgClose();
 ScrFadeIn(0);
 MsgDisp("主人公","(It's about time for ｛Kazama＊＊｝ and
 ｛Sassa＊＊｝ to start.
-...Huh? Over there, is that——)");
+...Huh? Over there, is that—)");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_0a_04");
@@ -95,7 +95,7 @@ MsgDisp("Kazama","Yeah, beating me in front of her must have
 been fun...");
 VoicePlay("D120A00200_39_020");
 MsgDisp("Referee","On your marks!
-Get set——");
+Get set—");
 StlEyeOpenLevel(1,5,1);
 StlEye(2,0,0);
 StlMouth(2,0);

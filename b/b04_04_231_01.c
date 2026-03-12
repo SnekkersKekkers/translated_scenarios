@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040423101_04_000");
 MsgDisp("Nanatsumori","Haa...
-Are you the type who doesn't mind your
-hair getting messy?");
+Are you the type who doesn't mind your hair
+getting messy?");
 MsgSel("Maybe my hair is weird∋","Eh, you're worried about that kinda thing?","It's just naturally messy♪");
 switch (MsgSelRsltGet()){
     case 0:
@@ -40,8 +40,8 @@ Maybe I should've stayed quiet.");
     ChMotion(4,3,1);
     VoicePlay("B040423101_04_030");
     MsgDisp("Nanatsumori","I see...it depends on how you look at it.
-Now that you mention it, we both have
-natural messy hair that looks great!");
+Now that you mention it, we both have natural
+messy hair that looks great!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -13,7 +13,7 @@ ChMotion(3,5,1);
 ChEyeOpenLevel(3,0);
 ChCheek(3,5);
 VoicePlay("T020300050_03_010");
-MsgDisp("Honda","Yayー∈");
+MsgDisp("Honda","Yay—∈");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

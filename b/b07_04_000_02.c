@@ -8,9 +8,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_060");
-MsgDisp("Nanatsumori","Cafe Alucard is the best. The seasonal
-menu is god-level. Hard to keep up with
-all the limited editions, though.");
+MsgDisp("Nanatsumori","Cafe Alucard is the best.
+The seasonal menu is god-level. Hard to keep
+up with all the limited editions, though.");
 MsgDisp("主人公","You're a regular huh.");
 ChEye(4,0);
 ChMouth(4,4);
@@ -50,9 +50,9 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B070400000_04_120");
-MsgDisp("Nanatsumori","No, not \"Eh!\" What's with this supreme
-joke thing? Wait, did I just set myself
-up too∋");
+MsgDisp("Nanatsumori","No, not \"Eh!\"
+What's with this supreme joke thing?
+Wait, did I just set myself up too∋");
 MsgDisp("主人公","(A one-man comedy act?)");
 BGMStop();
 MsgClose();

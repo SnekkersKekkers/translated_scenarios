@@ -34,8 +34,7 @@ ChCheek(5,7);
 ScrFadeIn(0);
 VoicePlay("B360507001_05_020");
 MsgDisp("Hiiragi","This area is for women...
-Moreover, the clothes are quite
-revealing...");
+Moreover, the clothes are quite revealing...");
 MsgDisp("主人公","This shop has a small selection, but they
 also carry men's clothes.");
 ChEye(5,2);

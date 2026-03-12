@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223001_02_020");
-    MsgDisp("Sassa","We can't get going without riding this 
-first, right?");
+    MsgDisp("Sassa","We can't get going without riding this first,
+right?");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -98,8 +98,7 @@ I was preparing for this anyway.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223001_02_080");
-    MsgDisp("Sassa","The more I look at it, the weirder it
-gets.
+    MsgDisp("Sassa","The more I look at it, the weirder it gets.
 It even spins around...");
     break ;
     case 4:
@@ -124,8 +123,8 @@ Is it okay to enter without permission?");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223001_02_100");
-    MsgDisp("Sassa","It's all fake, it's just their job, it's
-all fake...");
+    MsgDisp("Sassa","It's all fake, it's just their job, it's all
+fake...");
     break ;
     default :
     DbgAssert(0);

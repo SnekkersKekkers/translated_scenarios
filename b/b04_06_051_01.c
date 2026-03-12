@@ -6,8 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040605101_06_000");
-MsgDisp("Himuro","Aren't the shapes of the constellations
-kind of forced?");
+MsgDisp("Himuro","Aren't the shapes of the constellations kind
+of forced?");
 MsgSel("The power of imagination is important!","It is quite unreasonable","People in ancient times were amazing huh");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040605101_06_010");
     MsgDisp("Himuro","Definitely.
-If you didn't have a strong imagination,
-you wouldn't think of it.");
+If you didn't have a strong imagination, you
+wouldn't think of it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

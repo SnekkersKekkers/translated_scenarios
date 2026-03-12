@@ -13,10 +13,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("B330A10200_01_000");
-MsgDisp("Kazama","I like the aquarium but...but what's with
-us all...lined up like this?");
-MsgDisp("主人公","Hehe, everyone looks like they're having
-fun.
+MsgDisp("Kazama","I like the aquarium but...but what's with us
+all...lined up like this?");
+MsgDisp("主人公","Hehe, everyone looks like they're having fun.
 I think it's good?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -34,8 +33,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330A10200_06_000");
-MsgDisp("Himuro","Well, the three of us are lined up,
-reflected in the tank ...
+MsgDisp("Himuro","Well, the three of us are lined up, reflected
+in the tank ...
 It's definitely laughable.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -69,8 +68,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10200_06_020");
-MsgDisp("Himuro","Ryota-senpai likes aquariums because he
-can see his reflection in the water tank.");
+MsgDisp("Himuro","Ryota-senpai likes aquariums because he can
+see his reflection in the water tank.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -101,8 +100,8 @@ ChMotion(6,0);
 VoicePlay("B330A10200_06_040");
 MsgDisp("Himuro","He's right.");
 MsgDisp("主人公","(Yeah, that's right...
-If everyone's here, it'll get lively
-no matter where we go...)");
+If everyone's here, it'll get lively no
+matter where we go...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -18,8 +18,7 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_140");
 MsgDisp("Honda","Especially baseball.
-I get so into it that my body stops
-moving.");
+I get so into it that my body stops moving.");
 MsgDisp("主人公","It just stops?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -38,9 +37,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B070300000_03_170");
-MsgDisp("Honda","I get curious about the spin speed and
-axis, so I end up just staring at the
-pitch. Even though you can't see that!");
+MsgDisp("Honda","I get curious about the spin speed and axis,
+so I end up just staring at the pitch.
+Even though you can't see that!");
 MsgDisp("主人公","So I guess you strike out then?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -48,8 +47,8 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_180");
 MsgDisp("Honda","Yepyep, completely.");
-MsgDisp("主人公","(｛Honda＊＊｝ seems more like a curious
-person than a sports fan.)");
+MsgDisp("主人公","(｛Honda＊＊｝ seems more like a curious person
+than a sports fan.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

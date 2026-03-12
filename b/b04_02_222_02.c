@@ -7,8 +7,8 @@ ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040222202_02_000");
 MsgDisp("Sassa","Hm?
-\"Special Exhibition: A Large Compilation
-of Historical Documents\"?");
+\"Special Exhibition: A Large Compilation of
+Historical Documents\"?");
 MsgSel("There's even an old debt acknowledgement","I can barely even read the dates","There's even a letter from 400 years ago");
 switch (MsgSelRsltGet()){
     case 0:
@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040222202_02_010");
-        MsgDisp("Sassa","I wonder if there's anything interesting
-in looking at that.");
+        MsgDisp("Sassa","I wonder if there's anything interesting in
+looking at that.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -42,20 +42,19 @@ It's difficult for me.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040222202_02_030");
-        MsgDisp("Sassa","To be honest, I don't have much interest
-in IOUs. But I find it interesting that
-you do.");
+        MsgDisp("Sassa","To be honest, I don't have much interest in
+IOUs.
+But I find it interesting that you do.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040222202_02_040");
         MsgDisp("Sassa","Isn't that right?
-There's no common ground between you and
-debt agreements.");
-        MsgDisp("主人公","Hey, I'm not interested in debt
-agreements, I'm interested in historical
-documents!");
+There's no common ground between you and debt
+agreements.");
+        MsgDisp("主人公","Hey, I'm not interested in debt agreements,
+I'm interested in historical documents!");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -65,9 +64,9 @@ documents!");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040222202_02_060");
-        MsgDisp("Sassa","If we hadn't come here, I wouldn't have
-found this new side of you. Thinking of
-it that way, the exhibit gets a pass.");
+        MsgDisp("Sassa","If we hadn't come here, I wouldn't have found
+this new side of you. Thinking of it that
+way, the exhibit gets a pass.");
         MsgDisp("主人公","(Narrow pass...?)");
         break ;
         default :

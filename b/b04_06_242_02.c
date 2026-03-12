@@ -32,8 +32,7 @@ And what's with the \"clumsy thing\"?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040624202_06_020");
-        MsgDisp("Himuro","...I'm angry I can't even completely deny
-it.");
+        MsgDisp("Himuro","...I'm angry I can't even completely deny it.");
         MsgDisp("主人公","Sorry, it was just a joke.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -47,8 +46,8 @@ I'll cook another batch.");
         ChMotion(6,0);
         VoicePlay("B040624202_06_040");
         MsgDisp("Himuro","That's true but...
-Then, you should eat only the nicely
-cooked parts.");
+Then, you should eat only the nicely cooked
+parts.");
         MsgDisp("主人公","Thanks.
 But, let's eat the burnt parts together?");
         ChEye(6,0);

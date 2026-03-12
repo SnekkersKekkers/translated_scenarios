@@ -19,7 +19,7 @@ make it pretty but...)");
     ChOpen(2,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730200002_02_010");
     MsgDisp("Sassa","It's nice.
-You're a bride this yearー");
+You're a bride this year—");
     MsgDisp("主人公","Yeah. It's the handicraft's club
 tradition, the last cultural festival
 we'll do wedding dresses.");
@@ -54,7 +54,7 @@ If you show up on stage like that, smiling
 warmly, you've already won.");
     MsgDisp("主人公","(Thak you for helping me gain confidence,
 ｛Sassa＊＊｝!
-Alrーiight, let's do our best!)");
+Alr—iight, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);
@@ -106,7 +106,7 @@ confidence. Thank you. I'm off then.");
     MsgDisp("Sassa","Yeah, go with the intention of getting a
 winning run.");
     MsgDisp("主人公","(Hehe, I think I feel better now.
-Alーright, let;s do our best!)");
+Al—right, let;s do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

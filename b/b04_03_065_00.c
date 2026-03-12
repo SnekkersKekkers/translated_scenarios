@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(4);
     ChSet(3,3);
     VoicePlay("B040306500_03_010");
-    MsgDisp("Honda","Kagーyaー!
+    MsgDisp("Honda","Kag—ya—!
 Now this is what Japanese summer is about.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
@@ -25,9 +25,9 @@ Now this is what Japanese summer is about.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040306500_03_020");
-    MsgDisp("Honda","Yep yep. Whether you look at it from
-above, below, it's heart-shaped no matter
-which way you look at it.");
+    MsgDisp("Honda","Yep yep. Whether you look at it from above,
+below, it's heart-shaped no matter which way
+you look at it.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ which way you look at it.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040306500_03_030");
-    MsgDisp("Honda","Hey, focus with all your might while the
-fun lasts!");
+    MsgDisp("Honda","Hey, focus with all your might while the fun
+lasts!");
     MsgDateResultDisp();
     break ;
     default :

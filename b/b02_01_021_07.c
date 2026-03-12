@@ -14,6 +14,6 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,7);
 VoicePlay("B020102107_01_010");
 MsgDisp("Kazama","The opposite.
-Grinning at me in that outfit is breaking
-the rules.");
+Grinning at me in that outfit is breaking the
+rules.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like it!)");

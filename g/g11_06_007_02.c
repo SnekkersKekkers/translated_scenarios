@@ -95,14 +95,14 @@ MsgDisp("Himuro","Of course not.
 It's just that you only see me doing the
 things I'm good at.");
 MsgDisp("主人公","Is that right...?
-Then, ｛Himuro＊＊｝'s weaknesses——");
+Then, ｛Himuro＊＊｝'s weaknesses—");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600702_06_090");
 MsgDisp("Himuro","I won't tell you.");
 MsgDisp("主人公","Eh?
-Just a hint——");
+Just a hint—");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);

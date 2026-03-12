@@ -31,7 +31,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("Q110B00000_03_010");
 MsgDisp("Honda","Me too, me too!
-When you eat something sweet——");
+When you eat something sweet—");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(3,0);

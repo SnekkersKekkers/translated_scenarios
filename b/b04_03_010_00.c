@@ -12,8 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040301000_03_010");
     MsgDisp("Honda","Woohoo!
-Looks like I know what you like quite
-well!");
+Looks like I know what you like quite well!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

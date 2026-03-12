@@ -3,16 +3,16 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 VoicePlay("B020202110_02_000");
 MsgDisp("Sassa","Oh...
-It's your usual style, but my heart
-skipped a beat.");
+It's your usual style, but my heart skipped a
+beat.");
 MsgDisp("主人公","What do you think of it?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("B020202110_02_010");
-MsgDisp("Sassa","It's good, but I'm having a hard time
-calming down, and how do I put this...");
+MsgDisp("Sassa","It's good, but I'm having a hard time calming
+down, and how do I put this...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

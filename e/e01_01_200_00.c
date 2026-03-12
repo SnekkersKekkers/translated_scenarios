@@ -7,7 +7,7 @@ VoicePlay("E010120000_01_000");
 MsgDisp("Kazama?","Will sushi do?");
 VoicePlay("E010120000_06_000");
 MsgDisp("Himuro?","The only possible choice is hamburger.");
-MsgDisp("主人公","These voices——");
+MsgDisp("主人公","These voices—");
 VoicePlay("E010120000_01_010");
 MsgDisp("Kazama?","Inori, you have no decision power.
 I'm the wallet.");

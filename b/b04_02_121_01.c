@@ -42,8 +42,8 @@ this too huh...");
     ChEyeOpenLevel(2,8);
     VoicePlay("B040212102_02_030");
     MsgDisp("Sassa","Yes yes.
-I'm aware of that, but did you have to be
-so blunt about it?");
+I'm aware of that, but did you have to be so
+blunt about it?");
     MsgDateResultDisp();
     break ;
     default :

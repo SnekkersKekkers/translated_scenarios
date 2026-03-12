@@ -13,8 +13,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040106300_01_010");
-    MsgDisp("Kazama","Yeah, way better than feeling so
-cluttered.");
+    MsgDisp("Kazama","Yeah, way better than feeling so cluttered.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,9 +24,9 @@ cluttered.");
     ChMouth(1,4);
     ChMotion(1,2);
     VoicePlay("B040106300_01_020");
-    MsgDisp("Kazama","Right? I can just imagine all of the
-things drifting ashore, out there for who
-knows how long.");
+    MsgDisp("Kazama","Right?
+I can just imagine all of the things drifting
+ashore, out there for who knows how long.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,9 +38,9 @@ knows how long.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040106300_01_030");
-    MsgDisp("Kazama","Yeah, yeah. There's all kinds of seaweed
-coming up this time of year. Go ahead, eat
-all you want.");
+    MsgDisp("Kazama","Yeah, yeah.
+There's all kinds of seaweed coming up this
+time of year. Go ahead, eat all you want.");
     MsgDateResultDisp();
     break ;
     default :

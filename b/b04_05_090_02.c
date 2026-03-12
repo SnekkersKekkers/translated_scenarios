@@ -61,7 +61,7 @@ I'm sorry for getting your hopes up.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("B040509002_05_040");
-        MsgDisp("Hiiragi","Hーm...
+        MsgDisp("Hiiragi","H—m...
 It seems a bit too late for us.");
         ChEye(5,2);
         ChMouth(5,4);
@@ -75,8 +75,8 @@ It is unfortunate though...");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040509002_05_060");
-        MsgDisp("Hiiragi","I see, well let's ask Mikage-sensei. I'm
-sure he grows it at the horticulture club
+        MsgDisp("Hiiragi","I see, well let's ask Mikage-sensei.
+I'm sure he grows it at the horticulture club
 or at home; a plant that blooms at night.");
         MsgDisp("主人公","Umm...
 I wanted to go to the botanical garden at
@@ -90,10 +90,10 @@ night with ｛Hiiragi＊＊＊｝.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040509002_05_080");
-        MsgDisp("Hiiragi","The crucial part is to be with you at
-night, and not to look at plants!");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you can't say those kinds
-of things at a botanical garden?)");
+        MsgDisp("Hiiragi","The crucial part is to be with you at night,
+and not to look at plants!");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you can't say those kinds of
+things at a botanical garden?)");
         break ;
         default :
         DbgAssert(1);

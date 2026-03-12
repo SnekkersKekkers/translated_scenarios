@@ -12,12 +12,12 @@ MsgDisp("Michiru","Even though it was supposed to have been
 on the desk just a moment ago...");
 MsgDisp("主人公","The rulers too...where are they?");
 VoicePlay("P840D00003_46_000");
-MsgDisp("School Girl","Excuse meー, but our class doesn't have
+MsgDisp("School Girl","Excuse me—, but our class doesn't have
 enough blackout curtains.");
 MsgDisp("主人公","Eh, blackout curtains?
 Umm, where do we...store them again?");
 VoicePlay("P840D00003_39_010");
-MsgDisp("School Boy","Excuse meー!
+MsgDisp("School Boy","Excuse me—!
 The cardboard I requested hasn't been
 delivered.");
 MsgDisp("主人公","Requested cardboard...?

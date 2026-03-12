@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040311000_03_010");
-        MsgDisp("Honda","Yep yep, your swimming lives up to the
-name right?");
+        MsgDisp("Honda","Yep yep, your swimming lives up to the name
+right?");
         MsgDispSksp(1,7);
         MsgDateResultDisp();
         MsgDispSksp(0);

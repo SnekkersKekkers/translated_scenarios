@@ -23,8 +23,8 @@ that's great.");
     ChMouth(3,0);
     ChMotion(3,5);
     VoicePlay("B040304100_03_010");
-    MsgDisp("Honda","Eh, if that was just so-so...there's gotta
-be even more amazing matches∋");
+    MsgDisp("Honda","Eh, if that was just so-so...there's gotta be
+even more amazing matches∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +36,8 @@ be even more amazing matches∋");
     ChMotion(3,1);
     VoicePlay("B040304100_03_020");
     MsgDisp("Honda","Oh, really?
-I would've been happy if you'd
-enjoyed it though.");
+I would've been happy if you'd enjoyed it
+though.");
     MsgDateResultDisp();
     break ;
     default :

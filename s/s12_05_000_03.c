@@ -61,7 +61,7 @@ New Years.");
     ChMotion(5,2);
     VoicePlay("S120500001_05_140");
     MsgDisp("Hiiragi","Ha, you're so kind.
-But——");
+But—");
     ChMotion(5,0);
     VoicePlay("S120500001_05_150");
     MsgDisp("Hiiragi","I think I'd like to see an unreasonable

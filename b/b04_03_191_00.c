@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(3,0);
     VoicePlay("B040319100_03_000");
     MsgDisp("Honda","Yeah yeah, a big hit∋
-It's awesome to have the same rating as
-you!");
+It's awesome to have the same rating as you!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,9 +32,9 @@ I enjoyed it.");
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B040319100_03_020");
-    MsgDisp("Honda","Is that so? I'm the opposite! Somehow,
-when we disagree this much, it's actually
-interesting, right?");
+    MsgDisp("Honda","Is that so?
+I'm the opposite! Somehow, when we disagree
+this much, it's actually interesting, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

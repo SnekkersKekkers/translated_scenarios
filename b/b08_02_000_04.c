@@ -12,8 +12,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B080200004_02_010");
 MsgDisp("Sassa","Well.
-I don't know what it is, but if
-something's up, tell me.");
+I don't know what it is, but if something's
+up, tell me.");
 MsgDisp("主人公","Y-Yeah, I'll see you then.");
 ChEye(2,0);
 ChMouth(2,4);

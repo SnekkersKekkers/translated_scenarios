@@ -15,8 +15,7 @@ MsgDisp("Nanatsumori","A date like this in the park isn't bad.");
 MsgDisp("主人公","Yeah.");
 ChMotion(4,0,1);
 VoicePlay("B360450100_04_010");
-MsgDisp("Nanatsumori","Even more so that it's in your
-neighborhood.");
+MsgDisp("Nanatsumori","Even more so that it's in your neighborhood.");
 MsgDisp("主人公","Why?");
 ChEye(4,4);
 ChMouth(4,3);
@@ -40,9 +39,9 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360450100_04_050");
-MsgDisp("Nanatsumori","...I wonder if I lived in this
-neighborhood as well, would I have become
-friends with you?");
+MsgDisp("Nanatsumori","...I wonder if I lived in this neighborhood
+as well, would I have become friends with
+you?");
 MsgDisp("主人公","That's right...
 I think we would've definitely become
 friends.");

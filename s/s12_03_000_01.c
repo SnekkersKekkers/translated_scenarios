@@ -52,7 +52,7 @@ I think we have a good head start.");
 It's hard to get a good vibe.");
     VoicePlay("S120300001_03_050");
     MsgDisp("Honda","When there's not enough, I keep
-talking——");
+talking—");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,5,1);

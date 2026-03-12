@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(2,255,4,0,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223102_02_000");
-MsgDisp("Sassa","When it comes to rollercoasters, I never
-know when to stop, you know?");
+MsgDisp("Sassa","When it comes to rollercoasters, I never know
+when to stop, you know?");
 MsgSel("When your feet begin to stagger","Isn't once enough?","I wish it was longer");
 switch (MsgSelRsltGet()){
     case 0:
@@ -82,8 +82,7 @@ If I'm with you, anything is fine.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040223102_02_090");
-        MsgDisp("Sassa","Then, let's try each other's weaknesses
-once.
+        MsgDisp("Sassa","Then, let's try each other's weaknesses once.
 It's a gentleman's agreement.");
         MsgDisp("主人公","Yes.");
         ChEye(2,0);
@@ -91,8 +90,8 @@ It's a gentleman's agreement.");
         ChMotion(2,4);
         VoicePlay("B040223102_02_100");
         MsgDisp("Sassa","Alright, then next...");
-        MsgDisp("主人公","(｛Sassa＊＊｝, thanks for always looking
-out for me.)");
+        MsgDisp("主人公","(｛Sassa＊＊｝, thanks for always looking out
+for me.)");
         break ;
         default :
         DbgAssert(1);

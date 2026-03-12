@@ -20,5 +20,4 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B130100001_01_010");
 MsgDisp("Kazama","No, it's not showing!
-But there's only so much I can do to
-guard.");
+But there's only so much I can do to guard.");

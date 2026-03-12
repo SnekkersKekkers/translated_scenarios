@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040208302_02_000");
-MsgDisp("Sassa","This is quite transparent, hey, you can
-even see the aquatic plants swaying.");
+MsgDisp("Sassa","This is quite transparent, hey, you can even
+see the aquatic plants swaying.");
 MsgSel("It's like it's not in the water","The fish are completely visible too","I'd like to watch while floating on a boat.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,7 @@ It's like trick art, it's interesting.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040208302_02_020");
-    MsgDisp("Sassa","You say interesting things from time to
-time.
+    MsgDisp("Sassa","You say interesting things from time to time.
 It's in plain sight indeed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -65,8 +64,8 @@ though...");
         ChMotion(2,0);
         VoicePlay("B040208302_02_050");
         MsgDisp("Sassa","Boats are fine.
-But those swan paddling boats are all
-sorts of challenging.");
+But those swan paddling boats are all sorts
+of challenging.");
         MsgDisp("主人公","Do you dislike it?");
         ChEye(2,0);
         ChMouth(2,0);
@@ -79,8 +78,8 @@ stick it out to get on.");
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040208302_02_070");
-        MsgDisp("Sassa","The swan would look like it has two
-necks, wouldn't it?");
+        MsgDisp("Sassa","The swan would look like it has two necks,
+wouldn't it?");
         MsgDisp("主人公","Eh...
 Hehe!");
         ChEye(2,0);
@@ -92,8 +91,8 @@ Hehe!");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040208302_02_090");
-        MsgDisp("Sassa","Plus, I can't get both legs in so I have
-to paddle with one foot....
+        MsgDisp("Sassa","Plus, I can't get both legs in so I have to
+paddle with one foot....
 Haa...");
         MsgDisp("主人公","(I kind of want to see this...?)");
         break ;

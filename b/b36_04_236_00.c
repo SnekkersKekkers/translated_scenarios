@@ -11,13 +11,14 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360423600_04_000");
-MsgDisp("Nanatsumori","This really is something you have to see
-in the summer after all.");
+MsgDisp("Nanatsumori","This really is something you have to see in
+the summer after all.");
 MsgDisp("主人公","How wonderful...
 Why are the illuminations so beautiful?");
 ChMotion(4,1,1);
 VoicePlay("B360423600_04_010");
-MsgDisp("Nanatsumori","Maybe that's the point? To move everyone?");
+MsgDisp("Nanatsumori","Maybe that's the point?
+To move everyone?");
 MsgDisp("主人公","Ah, I see.
 Yeah, it is moving...");
 ChEye(4,4);
@@ -56,8 +57,8 @@ ScrFadeIn(0);
 ChMotion(4,5,1);
 VoicePlay("B360423600_04_060");
 MsgDisp("Nanatsumori","S-Sorry!
-I didn't mean to do something like that
-just no——");
+I didn't mean to do something like that just
+no—");
 MsgDisp("主人公","Just now, on my n-nose...");
 ChEye(4,2);
 ChMouth(4,2);

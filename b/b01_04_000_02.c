@@ -52,8 +52,8 @@ Don't tell me you didn't sleep-");
     ChMotion(4,3);
     VoicePlay("B010400002_04_050");
     MsgDisp("Nanatsumori","I didn't sleep.
-Isn't it a little funny to act like a kid
-who can't sleep because he's too excited?");
+Isn't it a little funny to act like a kid who
+can't sleep because he's too excited?");
     MsgDispSksp(0);
     break ;
     default :

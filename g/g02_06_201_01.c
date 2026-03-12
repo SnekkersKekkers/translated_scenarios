@@ -20,7 +20,7 @@ ChMotion(6,0);
 VoicePlay("G020620101_06_020");
 MsgDisp("Himuro","You seem to be having more fun than when
 you're with me.");
-MsgDisp("主人公","That's not——");
+MsgDisp("主人公","That's not—");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -70,7 +70,7 @@ ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("G020620101_06_100");
-MsgDisp("Himuro","——Pfft.");
+MsgDisp("Himuro","—Pfft.");
 MsgDisp("主人公","Eh-∋");
 ChEye(6,2);
 ChMouth(6,3);

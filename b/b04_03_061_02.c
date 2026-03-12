@@ -4,9 +4,8 @@ ChLayout(1);
 ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040306102_03_000");
-MsgDisp("Honda","Looks like there's loads of people
-sunbathing on the beach instead of
-swimming.");
+MsgDisp("Honda","Looks like there's loads of people sunbathing
+on the beach instead of swimming.");
 MsgSel("No one's really seriously swimming.","Hanegasaki beach's sand is very fine-grained.","Should we sunbathe too?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,9 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040306102_03_010");
-    MsgDisp("Honda","Is that so? So there's an option not to
-swim. The bar for going to the beach might
-have been lowered.");
+    MsgDisp("Honda","Is that so?
+So there's an option not to swim. The bar for
+going to the beach might have been lowered.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +27,8 @@ have been lowered.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040306102_03_020");
-    MsgDisp("Honda","Yeah, it's because the management
-association takes good care of it.
+    MsgDisp("Honda","Yeah, it's because the management association
+takes good care of it.
 It's the result of their effort.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
@@ -46,8 +45,8 @@ It's the result of their effort.");
         ChMouth(3,2);
         ChMotion(3,2);
         VoicePlay("B040306102_03_030");
-        MsgDisp("Honda","Sunbathing is nice, but do we have to do
-it here?");
+        MsgDisp("Honda","Sunbathing is nice, but do we have to do it
+here?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -66,8 +65,8 @@ together?");
         MsgDisp("Honda","If that's so, I feel like there are better
 places for that.
 Like a grassy field.");
-        MsgDisp("主人公","But it's fun to be on the beach in
-swimsuits, no?");
+        MsgDisp("主人公","But it's fun to be on the beach in swimsuits,
+no?");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,0);
@@ -100,8 +99,8 @@ What is it?");
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040306102_03_100");
-        MsgDisp("Honda","You look gorgeous in your swimsuit, and
-20% more radiant than usual!");
+        MsgDisp("Honda","You look gorgeous in your swimsuit, and 20%
+more radiant than usual!");
         MsgDisp("主人公","(...20%?)");
         break ;
         default :

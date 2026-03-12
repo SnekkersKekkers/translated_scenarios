@@ -37,8 +37,9 @@ fashion, how is it?");
     ChEye(5,2);
     ChMouth(5,2);
     VoicePlay("B040508501_05_030");
-    MsgDisp("Hiiragi","Eh? You should've said that sooner. Let's
-go somewhere warm. Come on.");
+    MsgDisp("Hiiragi","Eh?
+You should've said that sooner.
+Let's go somewhere warm. Come on.");
     MsgDateResultDisp();
     break ;
     default :

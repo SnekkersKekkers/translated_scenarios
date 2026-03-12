@@ -11,16 +11,14 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B150400000_04_010");
 MsgDisp("Nanatsumori","That's right.
-If you go too far, nothing will come of
-it.");
+If you go too far, nothing will come of it.");
 MsgDisp("主人公","Eh?");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B150400000_04_020");
 MsgDisp("Nanatsumori","Aah～ hey...
-Being unaware is the most dangerous
-thing....");
+Being unaware is the most dangerous thing....");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -33,15 +31,15 @@ ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B150400000_04_040");
 MsgDisp("Nanatsumori","Ugh...
-If you get sad like that, it seems like
-I'm the one at fault.");
+If you get sad like that, it seems like I'm
+the one at fault.");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B150400000_04_050");
 MsgDisp("Nanatsumori","I don't really mind...but.
-You can't do that recklessly, innocently
-to just anyone.");
+You can't do that recklessly, innocently to
+just anyone.");
 MsgDisp("主人公","Yeah.");
 ChEye(4,0);
 ChMouth(4,0);

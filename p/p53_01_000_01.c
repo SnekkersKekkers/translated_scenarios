@@ -74,7 +74,7 @@ harvest them okay?");
     MsgDisp("主人公","Hehe, yeah!");
     MsgDisp("主人公","(Alright, ｛Kazama＊＊｝ thanks to that, I
 think I was able to relax a bit?
-I'll do my bestー!)");
+I'll do my best—!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

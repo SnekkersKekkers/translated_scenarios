@@ -5,8 +5,7 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030608003_06_000");
-MsgDisp("Himuro","I think this weather is perfect for
-walking.");
+MsgDisp("Himuro","I think this weather is perfect for walking.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Yeah, it is.");
 MsgDispSksp(0);

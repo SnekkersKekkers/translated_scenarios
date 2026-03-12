@@ -30,8 +30,8 @@ normal?");
     ChMotion(6,0);
     VoicePlay("B040611102_06_020");
     MsgDisp("Himuro","Shall I give you some advice?
-It's pretty nerve-wracking when someone
-falls next to you.");
+It's pretty nerve-wracking when someone falls
+next to you.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -64,9 +64,9 @@ This has no relation to the Himuro name?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040611102_06_050");
-        MsgDisp("Himuro","Despite this, surfing is just something
-you have to just feel with your body, and
-get a feel for it that way.");
+        MsgDisp("Himuro","Despite this, surfing is just something you
+have to just feel with your body, and get a
+feel for it that way.");
         MsgDisp("主人公","So it's like that.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -84,14 +84,14 @@ get a feel for it that way.");
         ChMotion(6,0);
         VoicePlay("B040611102_06_080");
         MsgDisp("Himuro","Ah...no.
-I was just thinking about how I wasn't
-that offended.");
+I was just thinking about how I wasn't that
+offended.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040611102_06_090");
-        MsgDisp("Himuro","Even though we were talking about the
-Himuro name.");
+        MsgDisp("Himuro","Even though we were talking about the Himuro
+name.");
         MsgDisp("主人公","Ah...that's right.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -118,9 +118,9 @@ What is?");
         ChMouth(6,3);
         ChMotion(6,1);
         VoicePlay("B040611102_06_130");
-        MsgDisp("Himuro","It's nothing. At any rate, let's skate
-a bit more. I've gotten the hang of it,
-so I want to make the most of it.");
+        MsgDisp("Himuro","It's nothing. At any rate, let's skate a bit
+more. I've gotten the hang of it, so I want
+to make the most of it.");
         MsgDisp("主人公","Yeah!");
         break ;
         default :

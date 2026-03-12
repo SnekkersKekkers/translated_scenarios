@@ -2,7 +2,7 @@ BGOpen("sc121",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛Kazama＊＊｝, you said you'd come back
 before our graduation...)");
-MsgDisp("主人公","(——Ah, Maybe he's over there...?)");
+MsgDisp("主人公","(—Ah, Maybe he's over there...?)");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);

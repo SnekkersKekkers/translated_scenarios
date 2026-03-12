@@ -6,8 +6,8 @@ ChMouth(7,3);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040703201_07_000");
-MsgDisp("Mikage","Then, choose your own theme and walk
-around and look freely.");
+MsgDisp("Mikage","Then, choose your own theme and walk around
+and look freely.");
 MsgSel("My...theme...","｛Mikage＊＊｝, aren't you having fun?","There's a cafe over there, right?");
 switch (MsgSelRsltGet()){
     case 0:

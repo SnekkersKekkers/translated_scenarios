@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040319000_03_000");
     MsgDisp("Honda","Yep yep. They skillfully connected the
-various theories and explanations and made
-it into entertainment.");
+various theories and explanations and made it
+into entertainment.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,8 +26,8 @@ it into entertainment.");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040319000_03_010");
     MsgDisp("Honda","Same same, I completely feel the same.
-I like history but, that kind of
-unthinkable explanation is troubling.");
+I like history but, that kind of unthinkable
+explanation is troubling.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,7 +39,7 @@ unthinkable explanation is troubling.");
     ChMotion(3,5);
     VoicePlay("B040319000_03_020");
     MsgDisp("Honda","Uwaah, harsh!
-You're that blunt about it huhー.");
+You're that blunt about it huh—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

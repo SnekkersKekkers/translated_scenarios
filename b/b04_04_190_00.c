@@ -35,9 +35,8 @@ have enjoyed it a bit more.");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040419000_04_020");
-    MsgDisp("Nanatsumori","No no, even if it was difficult, there
-were still a lot of noteworthy things
-right?");
+    MsgDisp("Nanatsumori","No no, even if it was difficult, there were
+still a lot of noteworthy things right?");
     MsgDateResultDisp();
     break ;
     default :

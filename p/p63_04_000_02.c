@@ -54,7 +54,7 @@ Gardening Club...)");
     ChNanaType(0);
     ChOpen(4,254,0,5,4,#1,#1,0,0,0,60);
     VoicePlay("P630400002_04_040");
-    MsgDisp("Nanatsumori","Ohー...");
+    MsgDisp("Nanatsumori","Oh—...");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
 Welcome.");
     ChEye(4,0);

@@ -7,8 +7,8 @@ ChMouth(3,1);
 ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("B040323600_03_000");
-MsgDisp("Honda","Gahー, we got a late start!
-It's already filled with peopleー.");
+MsgDisp("Honda","Gah—, we got a late start!
+It's already filled with people—.");
 MsgSel("Let's just enjoy the atmosphere!","We should be able to get a little further forward...","It can't be helped, so let's just give up");
 switch (MsgSelRsltGet()){
     case 0:
@@ -41,8 +41,8 @@ people at the front will be in danger.");
     ChMotion(3,3);
     VoicePlay("B040323600_03_030");
     MsgDisp("Honda","There's no need to give up.
-Come on, let's enjoy the whole thing, the
-big crowd included!");
+Come on, let's enjoy the whole thing, the big
+crowd included!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

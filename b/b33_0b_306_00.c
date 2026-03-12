@@ -40,10 +40,10 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B30600_03_000");
 MsgDisp("Honda","That's true!
-I couldn't stop laughing halfway through,
-it was painful...");
-MsgDisp("主人公","Everyone was laughing, so I got caught up
-in it too.");
+I couldn't stop laughing halfway through, it
+was painful...");
+MsgDisp("主人公","Everyone was laughing, so I got caught up in
+it too.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -56,15 +56,14 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30600_01_010");
-MsgDisp("Kazama","Who was it that laughed so hard they
-cried?");
+MsgDisp("Kazama","Who was it that laughed so hard they cried?");
 MsgDisp("主人公","Um...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B30600_03_010");
-MsgDisp("Honda","Who was it that laughed so hard they
-almost fell off their chair?");
+MsgDisp("Honda","Who was it that laughed so hard they almost
+fell off their chair?");
 ChEyeOpenLevel(1,0);
 ChMouth(3,0);
 MsgDisp("主人公","Was it me?");

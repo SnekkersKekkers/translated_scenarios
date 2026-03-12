@@ -24,8 +24,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B140100100_01_010");
-MsgDisp("Kazama","A thank-you for working the store in
-your Christmas outfit.
+MsgDisp("Kazama","A thank-you for working the store in your
+Christmas outfit.
 I figured you'd already know about this.");
 MsgDisp("主人公","No, I didn't know.
 Thank you, ｛Kazama＊＊｝.");
@@ -33,8 +33,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B140100100_01_020");
-MsgDisp("Kazama","You should thank the people of Habataki
-City instead, right?");
+MsgDisp("Kazama","You should thank the people of Habataki City
+instead, right?");
 MsgDisp("主人公","Hehe, that's right.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -56,8 +56,8 @@ ChMouth(1,4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B140100100_01_040");
-MsgDisp("Kazama","You know, changes in your surroundings
-are kinda scary...");
+MsgDisp("Kazama","You know, changes in your surroundings are
+kinda scary...");
 MsgDisp("主人公","Eh...?");
 ChMotion(1,0);
 Wait(12,0);

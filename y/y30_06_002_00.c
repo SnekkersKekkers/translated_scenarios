@@ -22,7 +22,7 @@ MsgDisp("","Since as long as I can remember,
 year I had thought it was a
 commonplace occurrence.");
 MsgClear();
-MsgDisp("","This year however—— An exception to
+MsgDisp("","This year however— An exception to
 this situation has occurred.");
 MsgDisp("","\"I want to visit the shrine on new
 year's with that person.\"");

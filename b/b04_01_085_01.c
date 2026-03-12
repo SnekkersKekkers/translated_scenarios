@@ -13,9 +13,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040108501_01_010");
-    MsgDisp("Kazama","Yeah, that's what I mean. Like a turtle
-that's been alive for decades. There has
-to be a spirit in a pond, right?");
+    MsgDisp("Kazama","Yeah, that's what I mean.
+Like a turtle that's been alive for decades.
+There has to be a spirit in a pond, right?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

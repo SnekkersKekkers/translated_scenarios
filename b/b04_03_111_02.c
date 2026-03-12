@@ -32,8 +32,8 @@ But I'm fine - I've just bruised my butt!");
         ChMotion(3,0,1);
         VoicePlay("B040311102_03_020");
         MsgDisp("Honda","No, your hands will get cold then.
-Even if my hands freeze, I'm absolutely
-not letting that happen.");
+Even if my hands freeze, I'm absolutely not
+letting that happen.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -56,8 +56,7 @@ They probably won't fit well.");
         ChMotion(3,0);
         ChCheek(3,1);
         VoicePlay("B040311102_03_050");
-        MsgDisp("Honda","I mean...your hands are pretty small,
-huh...");
+        MsgDisp("Honda","I mean...your hands are pretty small, huh...");
         MsgDisp("主人公","Do you think so?");
         ChEye(3,4);
         ChMouth(3,4);

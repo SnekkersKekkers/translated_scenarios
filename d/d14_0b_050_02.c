@@ -21,7 +21,7 @@ ChMouth(4,4);
 ChMotion(4,5,1);
 VoicePlay("D140B05002_04_000");
 MsgDisp("Nanatsumori","∋
-What are you saying so abruptl——");
+What are you saying so abruptl—");
 MsgDisp("主人公","That surprised me...");
 ChEye(1,2);
 ChMouth(1,2);

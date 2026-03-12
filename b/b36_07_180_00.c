@@ -23,8 +23,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360718000_07_020");
-MsgDisp("Mikage","...maybe buying food for the theater
-company staff.");
+MsgDisp("Mikage","...maybe buying food for the theater company
+staff.");
 MsgDisp("主人公","Really?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -50,11 +50,10 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B360718000_07_060");
-MsgDisp("Mikage","It's kinda sad that that's the only thing
-I could think of.");
+MsgDisp("Mikage","It's kinda sad that that's the only thing I
+could think of.");
 MsgDisp("主人公","(Hehe.
-I guess ｛Mikage＊＊｝ really loves
-school.)");
+I guess ｛Mikage＊＊｝ really loves school.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

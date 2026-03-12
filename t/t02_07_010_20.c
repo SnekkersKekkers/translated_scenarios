@@ -16,7 +16,7 @@ ChEyeOpenLevel(7,10);
 ChCheek(7,0);
 VoicePlay("T020701020_07_010");
 MsgDisp("Mikage","That's my serious girl.");
-MsgDisp("主人公","That...that nickname——");
+MsgDisp("主人公","That...that nickname—");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);

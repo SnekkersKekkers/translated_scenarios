@@ -6,8 +6,8 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040202101_02_000");
 MsgDisp("Sassa","The wind feels good...
-When the weather is nice like this, it
-makes me want to run.");
+When the weather is nice like this, it makes
+me want to run.");
 MsgSel("You really like to exercise, huh?","Won't you hurt your feet here?","Eh? I'll wait here then.");
 switch (MsgSelRsltGet()){
     case 0:

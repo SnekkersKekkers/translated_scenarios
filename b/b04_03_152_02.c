@@ -28,8 +28,8 @@ Well, I'm just saying what I've heard.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040315202_03_020");
-    MsgDisp("Honda","They say \"you get good at what you love,\"
-and it's true, huh.");
+    MsgDisp("Honda","They say \"you get good at what you love,\" and
+it's true, huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -93,9 +93,9 @@ I'll mimic your form.");
         SEPlay("EV_SE_544");
         ChOpen(3,255,5,3,3,#1,#1,0,0);
         VoicePlay("B040315202_03_100");
-        MsgDisp("Honda","I think I've awoken something! It's all
-thanks to you! You're really amazing. One
-more time!");
+        MsgDisp("Honda","I think I've awoken something!
+It's all thanks to you!
+You're really amazing. One more time!");
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.01,0.5);
         ChClose(3);
         SEWait();

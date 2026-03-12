@@ -4,9 +4,9 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121102_01_000");
-MsgDisp("Kazama","When I come here, I don't know if I'm
-looking at the animals, or if the animals
-are looking at me?");
+MsgDisp("Kazama","When I come here, I don't know if I'm looking
+at the animals, or if the animals are looking
+at me?");
 MsgSel("I wonder what we look like to the animals","They're looking at us as if we're strange, huh","Maybe they think we look delicious?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,4);
     ChCheek(1,5);
     VoicePlay("B040121102_01_010");
-    MsgDisp("Kazama","Don't we just look like a pair of humans
-to them?");
+    MsgDisp("Kazama","Don't we just look like a pair of humans to
+them?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -67,9 +67,9 @@ You wouldn't survive in the Savannah.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040121102_01_050");
-        MsgDisp("Kazama","You'd be easy to catch, so they'd target
-you. A spacey person like you is the
-perfect target.");
+        MsgDisp("Kazama","You'd be easy to catch, so they'd target you.
+A spacey person like you is the perfect
+target.");
         MsgDisp("主人公","Hey, that's not true.
 I'd survive just fine in the Savannah.");
         ChEye(1,3);
@@ -91,8 +91,8 @@ liking you.");
         ChMotion(1,0);
         VoicePlay("B040121102_01_080");
         MsgDisp("Kazama","I mean, everyone just naturally gathers
-around you. And is there even anyone
-you don't get along with?");
+around you. And is there even anyone you
+don't get along with?");
         MsgDisp("主人公","Umm...someone I don't get along with...");
         ChEye(1,0);
         ChMouth(1,3);
@@ -105,8 +105,7 @@ you don't get along with?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121102_01_100");
         MsgDisp("Kazama","That in itself is a problem for me...");
-        MsgDisp("主人公","(｛Kazama＊＊｝, is something bothering
-you?)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, is something bothering you?)");
         break ;
         default :
         DbgAssert(1);

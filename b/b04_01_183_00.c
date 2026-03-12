@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040118300_01_000");
-    MsgDisp("Kazama","Yeah, it's true, the attention to detail
-in the props and sets was amazing.");
+    MsgDisp("Kazama","Yeah, it's true, the attention to detail in
+the props and sets was amazing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,9 +24,8 @@ in the props and sets was amazing.");
     ChMotion(1,4);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040118300_01_010");
-    MsgDisp("Kazama","With all the money they spent on
-production, hearing you call it \"so-so\"
-just hurts.");
+    MsgDisp("Kazama","With all the money they spent on production,
+hearing you call it \"so-so\" just hurts.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +37,8 @@ just hurts.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118300_01_020");
-    MsgDisp("Kazama","This movie was a miss? What kind of
-bogus critic are you?");
+    MsgDisp("Kazama","This movie was a miss?
+What kind of bogus critic are you?");
     MsgDateResultDisp();
     break ;
     default :

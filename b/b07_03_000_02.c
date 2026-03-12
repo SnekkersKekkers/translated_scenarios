@@ -18,14 +18,13 @@ VoicePlay("B070300000_03_090");
 MsgDisp("Honda","A niboshi, agodashi, tonkotsu and torikara
 blend is also good.");
 MsgDisp("主人公","Hehe.
-I get the feeling that ｛Honda＊＊｝ has
-been experimenting.");
+I get the feeling that ｛Honda＊＊｝ has been
+experimenting.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B070300000_03_100");
-MsgDisp("Honda","That's right, ramen is a chemical
-reaction.");
+MsgDisp("Honda","That's right, ramen is a chemical reaction.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,5);

@@ -6,8 +6,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,2,1);
 VoicePlay("B040808202_08_000");
-MsgDisp("Shirahane","There's an urban legend here. When you
-look at the fireflies flying around, you
+MsgDisp("Shirahane","There's an urban legend here. When you look
+at the fireflies flying around, you
 unintentionally reveal what's in your heart.");
 MsgSel("I don't believe it.","It sure is strange, isn't it...","I want to know what's in ｛Daichi＊＊｝'s heart▼");
 switch (MsgSelRsltGet()){
@@ -67,13 +67,13 @@ thinking.");
         ChMouth(8,4);
         ChMotion(8,4,1);
         VoicePlay("B040808202_08_050");
-        MsgDisp("Shirahane","Hmー...");
+        MsgDisp("Shirahane","Hm—...");
         ChMouth(8,4);
         ChEyeOpenLevel(8,#1);
         VoicePlay("B040808202_08_060");
         MsgDisp("Shirahane","That's right, but that won't be because we
-saw the fireflies, but because I'll
-confide in you myself.");
+saw the fireflies, but because I'll confide
+in you myself.");
         MsgDisp("主人公","That's fine, let's hear it?");
         ChEye(8,4);
         ChMouth(8,2);
@@ -87,9 +87,9 @@ I can't right now!");
         ChMouth(8,0);
         ChMotion(8,2,1);
         VoicePlay("B040808202_08_080");
-        MsgDisp("Shirahane","Please forgive me. When I properly muster
-the courage, I'll reveal it all to you.
-Okay?");
+        MsgDisp("Shirahane","Please forgive me.
+When I properly muster the courage, I'll
+reveal it all to you. Okay?");
         MsgDisp("主人公","(｛Daichi＊＊｝...)");
         break ;
         default :

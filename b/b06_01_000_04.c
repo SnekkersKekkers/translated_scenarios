@@ -36,8 +36,8 @@ I'll see you next time.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B060100004_01_020");
-    MsgDisp("Kazama","...I don't want to think about it but,
-maybe we're....no, my bad.
+    MsgDisp("Kazama","...I don't want to think about it but, maybe
+we're....no, my bad.
 It's nothing.");
     MsgDispSksp(0);
     break ;

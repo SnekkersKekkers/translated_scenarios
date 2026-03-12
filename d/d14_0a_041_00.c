@@ -73,7 +73,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A04100_02_040");
-MsgDisp("Sassa","That's——");
+MsgDisp("Sassa","That's—");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

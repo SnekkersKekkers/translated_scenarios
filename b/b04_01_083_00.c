@@ -5,8 +5,8 @@ ChSet(1,0,1);
 ScrFadeIn(0);
 ChMouth(1,4);
 VoicePlay("B040108300_01_000");
-MsgDisp("Kazama","When it's this hot out, won't the
-fireflies be exhausted?");
+MsgDisp("Kazama","When it's this hot out, won't the fireflies
+be exhausted?");
 MsgSel("They're probably resting a few feet under.","I've heard the water here is cool in summer and warm in winter.","Huh? There are no fireflies!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -37,8 +37,7 @@ That phrase means they're in a grave.");
     ChMotion(1,3);
     VoicePlay("B040108300_01_030");
     MsgDisp("Kazama","Right?
-This is basically just a vacant house,
-huh?");
+This is basically just a vacant house, huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

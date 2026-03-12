@@ -12,5 +12,4 @@ MsgDisp("Hiiragi","You do look more mature than usual, so
 hopefully I do not let my guard down and
 become distracted.");
 MsgDisp("主人公","(Oh, good!
-I think he was really happy with this
-look!)");
+I think he was really happy with this look!)");

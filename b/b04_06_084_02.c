@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("B040608402_06_010");
-    MsgDisp("Himuro","Oh? You used that term correctly.
-Lots of people get it wrong, so I'm
-impressed.");
+    MsgDisp("Himuro","Oh?
+You used that term correctly. Lots of people
+get it wrong, so I'm impressed.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +29,8 @@ impressed.");
     ChMotion(6,0);
     VoicePlay("B040608402_06_020");
     MsgDisp("Himuro","That's right, I agree.
-It's neither hot nor cold, it's peaceful
-and calming to the mind.");
+It's neither hot nor cold, it's peaceful and
+calming to the mind.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -47,7 +47,7 @@ and calming to the mind.");
         ChMotion(6,1);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040608402_06_030");
-        MsgDisp("Himuro","——Ah, right.");
+        MsgDisp("Himuro","—Ah, right.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -69,8 +69,8 @@ That's the first time I heard that.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040608402_06_060");
-        MsgDisp("Himuro","If you get that flustered, I'll have
-trouble responding.");
+        MsgDisp("Himuro","If you get that flustered, I'll have trouble
+responding.");
         MsgDisp("主人公","Ugh, sorry.");
         ChEye(6,0);
         ChMouth(6,4);

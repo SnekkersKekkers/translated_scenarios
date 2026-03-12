@@ -15,7 +15,7 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_010");
 MsgDisp("Himuro","It's okay but...
-Ryota-senpai—— Ah, nevermind.");
+Ryota-senpai— Ah, nevermind.");
 MsgDisp("主人公","(｛Kazama＊＊｝?)");
 MsgClose();
 MsgClose();

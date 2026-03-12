@@ -3,8 +3,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B070300000_03_190");
-MsgDisp("Honda","I've never really thought about that sort
-of thing.");
+MsgDisp("Honda","I've never really thought about that sort of
+thing.");
 MsgDisp("主人公","You don't listen to music?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -31,8 +31,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("B070300000_03_230");
-MsgDisp("Honda","We used to dance in front of the TV
-together but lately I'm just dancing solo.");
+MsgDisp("Honda","We used to dance in front of the TV together
+but lately I'm just dancing solo.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);

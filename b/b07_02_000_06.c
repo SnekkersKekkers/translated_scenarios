@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200000_02_270");
 MsgDisp("Sassa","What was I like, I was a complete idiot, I
-guess. I didn't study at all. All I did
-was track and field.");
+guess. I didn't study at all.
+All I did was track and field.");
 MsgDisp("主人公","｛Sassa＊＊｝ isn't an idiot.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -14,8 +14,7 @@ ChMotion(2,0);
 VoicePlay("B070200000_02_280");
 MsgDisp("Sassa","Eh, you're so nice.
 I was a track and field idiot then.");
-MsgDisp("主人公","Hehe, were you really athletic back then
-too?");
+MsgDisp("主人公","Hehe, were you really athletic back then too?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -52,11 +51,11 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("B070200000_02_330");
-MsgDisp("Sassa","Exactly. All I have to do now is just try
-my best to win. It's way more simple this
-way.");
-MsgDisp("主人公","(If it's ｛Sassa＊＊｝, I believe he can win
-it all and become a champion...!)");
+MsgDisp("Sassa","Exactly.
+All I have to do now is just try my best to
+win. It's way more simple this way.");
+MsgDisp("主人公","(If it's ｛Sassa＊＊｝, I believe he can win it
+all and become a champion...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

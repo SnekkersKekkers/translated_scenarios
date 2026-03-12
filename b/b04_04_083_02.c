@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(4,8);
     VoicePlay("B040408302_04_010");
     MsgDisp("Nanatsumori","I don't get it.
-I think there are more leaves in the
-spring.");
+I think there are more leaves in the spring.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -50,8 +49,8 @@ spring.");
         ChEyeOpenLevel(4,0);
         VoicePlay("B040408302_04_040");
         MsgDisp("Nanatsumori","...What are you saying?");
-        MsgDisp("主人公","That when I'm with ｛Nanatsumori＊｝, it's
-fun no matter where we are.");
+        MsgDisp("主人公","That when I'm with ｛Nanatsumori＊｝, it's fun
+no matter where we are.");
         ChEye(4,4);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040408302_04_050");
@@ -66,8 +65,8 @@ Then it's the same for me.");
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("B040408302_04_070");
-        MsgDisp("Nanatsumori","But here, the fear is just as strong as
-that feeling.");
+        MsgDisp("Nanatsumori","But here, the fear is just as strong as that
+feeling.");
         MsgDisp("主人公","Fear?");
         ChMotion(4,0,1);
         VoicePlay("B040408302_04_080");
@@ -81,15 +80,15 @@ Sorry, I didn't notice.");
         ChMotion(4,1,1);
         VoicePlay("B040408302_04_090");
         MsgDisp("Nanatsumori","No, I'm also sorry.
-I got irritated on my own, and took it out
-on you.");
+I got irritated on my own, and took it out on
+you.");
         MsgDisp("主人公","No, it's alright.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040408302_04_100");
-        MsgDisp("Nanatsumori","You and I both have fun when we're
-together, right?");
+        MsgDisp("Nanatsumori","You and I both have fun when we're together,
+right?");
         MsgDisp("主人公","Yeah.");
         ChEye(4,0);
         ChMouth(4,3);
@@ -111,8 +110,7 @@ resume our date.");
     ChMotion(4,0,1);
     VoicePlay("B040408302_04_120");
     MsgDisp("Nanatsumori","Agreed.
-Ah, but I won't treat you to kakigori,
-okay?");
+Ah, but I won't treat you to kakigori, okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

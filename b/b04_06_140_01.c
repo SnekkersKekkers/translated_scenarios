@@ -27,9 +27,9 @@ sense.");
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040614001_06_020");
-    MsgDisp("Himuro","Do you feel a rush of adrenaline? I wonder
-if it's stimulating for both of us? This
-experience is hard to come by.");
+    MsgDisp("Himuro","Do you feel a rush of adrenaline?
+I wonder if it's stimulating for both of us?
+This experience is hard to come by.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

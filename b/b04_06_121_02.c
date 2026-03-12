@@ -25,8 +25,7 @@ switch (MsgSelRsltGet()){
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040612102_06_010");
-        MsgDisp("Himuro","If you're buying it, just buy your own
-one.");
+        MsgDisp("Himuro","If you're buying it, just buy your own one.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -44,8 +43,8 @@ I'll buy it.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040612102_06_030");
-        MsgDisp("Himuro","Is that because you don't want a present
-from me?");
+        MsgDisp("Himuro","Is that because you don't want a present from
+me?");
         MsgDisp("主人公","It's not like that though...");
         ChEye(6,0);
         ChMouth(6,0);
@@ -84,8 +83,8 @@ presents for each other.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040612102_06_080");
-        MsgDisp("Himuro","And it's a reminder of today...so I'll
-also cherish it.");
+        MsgDisp("Himuro","And it's a reminder of today...so I'll also
+cherish it.");
         MsgDisp("主人公","Yeah...!");
         break ;
         default :

@@ -7,6 +7,6 @@ I love the color orange!");
 MsgDisp("主人公","Oh, really?");
 ChMotion(8,0);
 VoicePlay("B020800002_08_010");
-MsgDisp("Shirahane","It's got such a bright 'n beautiful feel
-to it!");
+MsgDisp("Shirahane","It's got such a bright 'n beautiful feel to
+it!");
 MsgDisp("主人公","(｛Daichi＊＊｝ likes the color orange.)");

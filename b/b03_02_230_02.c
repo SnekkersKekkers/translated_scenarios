@@ -26,8 +26,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B030223002_02_020");
     MsgDisp("Sassa","Sweet, let's go then.
-We need to find a place where we can see
-it easily.");
+We need to find a place where we can see it
+easily.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);

@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040623300_06_010");
-    MsgDisp("Himuro","I get it. It's a feeling you wouldn't
-experience in everyday life. It feels
-super good.");
+    MsgDisp("Himuro","I get it.
+It's a feeling you wouldn't experience in
+everyday life. It feels super good.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,8 +41,8 @@ about it huh...");
     ChMotion(6,0);
     VoicePlay("B040623300_06_030");
     MsgDisp("Himuro","Your eyes are darting about, you know.
-Even if you put on a brave front, I can
-see through it.");
+Even if you put on a brave front, I can see
+through it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -19,8 +19,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B150600300_06_020");
-MsgDisp("Himuro","If I wanted to, I could do anything I
-wanted to you solely by force.");
+MsgDisp("Himuro","If I wanted to, I could do anything I wanted
+to you solely by force.");
 MsgDisp("主人公","...By force?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -33,8 +33,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600300_06_040");
-MsgDisp("Himuro","You're provoking me even if you're not
-aware of it.");
+MsgDisp("Himuro","You're provoking me even if you're not aware
+of it.");
 MsgDisp("主人公","Ugh..");
 ChEye(6,0);
 ChMouth(6,0);
@@ -50,15 +50,15 @@ ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("B150600300_06_060");
 MsgDisp("Himuro","I don't hate it.
-But I'm not a dog, just being touched
-doesn't make me happy.");
+But I'm not a dog, just being touched doesn't
+make me happy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600300_06_070");
-MsgDisp("Himuro","I'll look for meaning in those actions,
-and I can't help but think about what
-comes after. ...You understand, right?");
+MsgDisp("Himuro","I'll look for meaning in those actions, and I
+can't help but think about what comes after.
+...You understand, right?");
 MsgDisp("主人公","Y-Yeah...somewhat.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -71,7 +71,6 @@ That's all!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 SEWait();
-MsgDisp("主人公","(He says to study, how should I do
-that...∋)");
+MsgDisp("主人公","(He says to study, how should I do that...∋)");
 MsgClose();
 ScrFadeOut(0,0);

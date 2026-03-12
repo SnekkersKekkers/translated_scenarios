@@ -12,13 +12,12 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20100_06_000");
-MsgDisp("Himuro","Out of all the attractions at the
-aquarium, this place is especially
-interesting.");
+MsgDisp("Himuro","Out of all the attractions at the aquarium,
+this place is especially interesting.");
 VoicePlay("B330C20100_05_000");
 MsgDisp("Hiiragi","I feel the same.
-There are many ways for people to have a
-good time here.");
+There are many ways for people to have a good
+time here.");
 MsgDisp("主人公","The atmosphere is like an amusement park.");
 ChEye(5,0);
 ChEye(7,0);
@@ -31,8 +30,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("B330C20100_07_010");
-MsgDisp("Mikage","Inori, did you invite us here with
-everyone's preferences in mind?
+MsgDisp("Mikage","Inori, did you invite us here with everyone's
+preferences in mind?
 That's very thoughtful, isn't it?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -45,8 +44,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20100_05_010");
-MsgDisp("Hiiragi","Heheh, we may look completely different,
-but we all prefer the same environment.
+MsgDisp("Hiiragi","Heheh, we may look completely different, but
+we all prefer the same environment.
 Much like the creatures living here.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -71,21 +70,21 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B330C20100_07_030");
-MsgDisp("Mikage","Oh, nice saveー.");
+MsgDisp("Mikage","Oh, nice save—.");
 ChEye(5,0);
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20100_06_020");
-MsgDisp("Himuro","But if you stupidly get too close, you'll
-get eaten.");
+MsgDisp("Himuro","But if you stupidly get too close, you'll get
+eaten.");
 MsgDisp("主人公","Ehh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20100_07_040");
-MsgDisp("Mikage","So you're risking your life just by
-getting close.");
+MsgDisp("Mikage","So you're risking your life just by getting
+close.");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);

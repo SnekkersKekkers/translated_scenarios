@@ -47,16 +47,15 @@ without any problems.");
         ChMotion(6,4);
         VoicePlay("B040614002_06_040");
         MsgDisp("Himuro","You might be surprised when you hear the
-original. You should definitely listen
-to it. I'd like to know what you think.");
+original. You should definitely listen to it.
+I'd like to know what you think.");
         MsgDisp("主人公","Yeah, got it.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
         ChCheek(6,10);
         VoicePlay("B040614002_06_050");
-        MsgDisp("Himuro","...If you'd like, I can lend the CD to
-you?");
+        MsgDisp("Himuro","...If you'd like, I can lend the CD to you?");
         MsgDisp("主人公","Eh, is that okay?
 Thank you.");
         ChEye(6,0);
@@ -68,8 +67,8 @@ Thank you.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040614002_06_070");
-        MsgDisp("Himuro","I...would also be happy if the CD sparked
-a conversation on this same topic.");
+        MsgDisp("Himuro","I...would also be happy if the CD sparked a
+conversation on this same topic.");
         MsgDisp("主人公","Hehe, yeah!");
         break ;
         default :
@@ -97,8 +96,8 @@ a conversation on this same topic.");
     ChEyeOpenLevel(6,0);
     VoicePlay("B040614002_06_090");
     MsgDisp("Himuro","Yeah.
-It completely changed the impression, but
-it wasn't bad.");
+It completely changed the impression, but it
+wasn't bad.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

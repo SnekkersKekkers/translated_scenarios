@@ -16,11 +16,11 @@ MsgDisp("Mikage","Hey hey, what are you saying?
 MsgDisp("主人公","Eh...?");
 VoicePlay("B100700000_07_020");
 MsgDisp("Mikage","It was my fault for dragging you around
-however I wanted. I acted weird too.
-I'm really sorry.");
+however I wanted.
+I acted weird too. I'm really sorry.");
 VoicePlay("B100700000_07_030");
-MsgDisp("Mikage","Your unexpected reactions aren't anything
-new right?");
+MsgDisp("Mikage","Your unexpected reactions aren't anything new
+right?");
 MsgDisp("主人公","Hehe, hey now.");
 VoicePlay("B100700000_07_040");
 MsgDisp("Mikage","Oh, you laughed at that huh.
@@ -31,7 +31,6 @@ VoicePlay("B100700000_07_050");
 MsgDisp("Mikage","See you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛Mikage＊＊｝...called me out of
-concern.)");
+MsgDisp("主人公","(｛Mikage＊＊｝...called me out of concern.)");
 MsgClose();
 ScrFadeOut(0,0);

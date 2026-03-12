@@ -37,8 +37,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360602301_06_040");
-MsgDisp("Himuro","I'm frustrated I can't talk to you for
-long.");
+MsgDisp("Himuro","I'm frustrated I can't talk to you for long.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

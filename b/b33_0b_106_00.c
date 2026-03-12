@@ -15,8 +15,8 @@ ChMotion(4,0);
 ChPosition(4,3);
 ScrFadeIn(0);
 VoicePlay("B330B10600_03_000");
-MsgDisp("Honda","\"The Road to First Love\" The title makes
-you wonder how the story will unfold.");
+MsgDisp("Honda","\"The Road to First Love\" The title makes you
+wonder how the story will unfold.");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B330B10600_04_000");
@@ -27,8 +27,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10600_01_000");
-MsgDisp("Kazama","Well, it's probably more enjoyable for
-actual couples to watch it together.");
+MsgDisp("Kazama","Well, it's probably more enjoyable for actual
+couples to watch it together.");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
 ChEye(4,3);
@@ -57,8 +57,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B330B10600_01_020");
-MsgDisp("Kazama","Oi, instead of laughing, you should help
-me out here.");
+MsgDisp("Kazama","Oi, instead of laughing, you should help me
+out here.");
 MsgDisp("主人公","Eh, me∋");
 MsgClose();
 ScrFadeOut(0);
@@ -127,8 +127,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B10600_04_040");
 MsgDisp("Nanatsumori","That's fine.
-I'm relieved to see that there's a pure
-side to you.");
+I'm relieved to see that there's a pure side
+to you.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

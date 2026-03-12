@@ -6,7 +6,7 @@ ChOpen(5,255,0,3,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 ChMotion(5,3);
 VoicePlay("B040523302_05_000");
-MsgDisp("Hiiragi","Haaー, the inside of my mouth is parched.");
+MsgDisp("Hiiragi","Haa—, the inside of my mouth is parched.");
 MsgSel("It's because you were laughing whilst jumping","Your voice was loud?","Shall we take a break?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,8 +33,7 @@ That's the charm of this attraction.");
         ChMotion(5,0);
         VoicePlay("B040523302_05_020");
         MsgDisp("Hiiragi","Oh, ah, please excuse me.
-It seems like I was the only one having
-fun.");
+It seems like I was the only one having fun.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -50,22 +49,22 @@ fun.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040523302_05_040");
-        MsgDisp("Hiiragi","It'd be nice if we could jump together,
-don't you think?");
+        MsgDisp("Hiiragi","It'd be nice if we could jump together, don't
+you think?");
         MsgDisp("主人公","Eh?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040523302_05_050");
         MsgDisp("Hiiragi","If we do it together, it won't be scary I
 suppose.");
-        MsgDisp("主人公","Yeah...but, if the lines get tangled it
-might be dangerous?");
+        MsgDisp("主人公","Yeah...but, if the lines get tangled it might
+be dangerous?");
         ChEye(5,3);
         ChMouth(5,3);
         VoicePlay("B040523302_05_060");
-        MsgDisp("Hiiragi","One thick line. How about enjoying bungee
-jumping as a pair? It'll feel like we're
-in the same boat.");
+        MsgDisp("Hiiragi","One thick line.
+How about enjoying bungee jumping as a pair?
+It'll feel like we're in the same boat.");
         ChMotion(5,4);
         VoicePlay("B040523302_05_070");
         MsgDisp("Hiiragi","Maybe I'll ask them about it.");

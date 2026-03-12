@@ -117,8 +117,8 @@ Don't stand up～");
         ScrFadeIn(0);
         VoicePlay("B040723202_07_110");
         MsgDisp("Mikage","Haa, that was fun～...");
-        MsgDisp("主人公","(I ended up getting to ride the ferris
-wheel twice, ｛Mikage＊＊｝, thank you.)");
+        MsgDisp("主人公","(I ended up getting to ride the ferris wheel
+twice, ｛Mikage＊＊｝, thank you.)");
         break ;
         default :
         DbgAssert(1);

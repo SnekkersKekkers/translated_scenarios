@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(3);
     ChMotion(5,4);
     VoicePlay("B040522100_05_010");
-    MsgDisp("Hiiragi","There are historical productions like
-that.");
+    MsgDisp("Hiiragi","There are historical productions like that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,8 +38,8 @@ Nature is mighty.");
     ChMotion(5,4);
     VoicePlay("B040522100_05_030");
     MsgDisp("Hiiragi","I've never thought of that.
-They would be astonished to see the
-buildings in the waterfront area.");
+They would be astonished to see the buildings
+in the waterfront area.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -18,8 +18,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30401_04_000");
 MsgDisp("Nanatsumori","The weather is nice.
-Well isn't it the ideal weather for a
-walk?");
+Well isn't it the ideal weather for a walk?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -32,8 +31,7 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B30401_03_000");
 MsgDisp("Honda","Mi-kun has something planned right?
-He chose this place specifically after
-all.");
+He chose this place specifically after all.");
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
@@ -61,7 +59,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B330B30401_03_010");
 MsgDisp("Honda","Alright alright!
-As for me, I——");
+As for me, I—");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -81,8 +79,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30401_01_020");
-MsgDisp("Kazama","I transfer my right to answer over to
-Dahon.");
+MsgDisp("Kazama","I transfer my right to answer over to Dahon.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);

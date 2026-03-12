@@ -56,14 +56,14 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(6,0);
         VoicePlay("B040621202_06_040");
         MsgDisp("Himuro","...I don't really need it.
-But since we're here, I'll gratefully
-receive it.");
+But since we're here, I'll gratefully receive
+it.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621202_06_050");
-        MsgDisp("Himuro","Ah, it's not like I particularly like
-stuffed animals or anything.
+        MsgDisp("Himuro","Ah, it's not like I particularly like stuffed
+animals or anything.
 Just to be sure.");
         ChEye(6,0);
         ChMouth(6,4);

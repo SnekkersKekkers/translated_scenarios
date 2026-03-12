@@ -62,7 +62,7 @@ MsgDisp("Kazama","I found and bought it when I was in
 England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_340");
-MsgDisp("Kazama","——I'll definitely give it to you one
+MsgDisp("Kazama","—I'll definitely give it to you one
 day.");
 MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");

@@ -35,8 +35,8 @@ What part was just okay for you?");
     ChMotion(3,1);
     VoicePlay("B040304500_03_020");
     MsgDisp("Honda","Huh...
-Were you really watching the same
-performance as me?");
+Were you really watching the same performance
+as me?");
     MsgDateResultDisp();
     break ;
     default :

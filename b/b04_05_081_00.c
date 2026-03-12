@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040508100_05_000");
-MsgDisp("Hiiragi","This is a present limited to only this
-time of year.
+MsgDisp("Hiiragi","This is a present limited to only this time
+of year.
 Let's enjoy it.");
 MsgSel("｛Hiiragi＊＊＊｝ suits the falling cherry blossoms, huh?","Being able to see the falling cherry blossoms is so fleeting...","I want to eat some delicious cherry blossom mochi");
 switch (MsgSelRsltGet()){

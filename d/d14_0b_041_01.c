@@ -35,7 +35,7 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D140B04101_03_020");
 MsgDisp("Honda","I bet Mi-kun wanted to come to the school
-cafeteria tooー.");
+cafeteria too—.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

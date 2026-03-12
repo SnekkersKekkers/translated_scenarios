@@ -55,7 +55,7 @@ VoicePlay("Y300500400_07_020");
 MsgDisp("Mikage","\"My name is Kojiro Mikage. I'm a
 teacher here. I look forward to
 seeing you around?\"");
-MsgDisp("","——From the day I went for the
+MsgDisp("","—From the day I went for the
 entrance ceremony procedures, he has
 concerned himself with my special
 circumstances.");
@@ -67,7 +67,7 @@ ScrFadeOut(0);
 VoicePlay("Y300500400_06_000");
 MsgDisp("Himuro","\"Yanosuke-senpai, are you heading
 home now?\"");
-MsgDisp("","——\"Senpai\".
+MsgDisp("","—\"Senpai\".
 The only one who calls me that is
 Himuro Inori-kun.");
 MsgClear();
@@ -106,7 +106,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("ad543",0);
 ScrFadeIn(0);
-MsgDisp("","——And there's one more person.
+MsgDisp("","—And there's one more person.
 They're a mysterious person who makes
 the two of us...maybe Mikage-sensei
 too, smile naturally.");

@@ -49,7 +49,7 @@ MsgDisp("Hiiragi","I must have made a mistake inputting the
 information.
 I'll start over from the beginning.");
 MsgDisp("主人公","Y-Yes....");
-MsgDisp("主人公","(Ah∈ under the laptop——)");
+MsgDisp("主人公","(Ah∈ under the laptop—)");
 while (1){
     RunEverydaySksp(5,0,0,0,1,0);
     if (RunEverydaySkspRsltGet()){

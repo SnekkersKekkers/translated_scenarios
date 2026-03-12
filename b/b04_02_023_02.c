@@ -87,12 +87,12 @@ That's a promise.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040202302_02_090");
-        MsgDisp("Sassa","Getting all passionate while out to sea
-like this, it really feels like an anime
-after all, huh?");
+        MsgDisp("Sassa","Getting all passionate while out to sea like
+this, it really feels like an anime after
+all, huh?");
         MsgDisp("主人公","Hehe!");
-        MsgDisp("主人公","(If it's ｛Sassa＊＊｝, I truly believe he
-will make his dreams come true.)");
+        MsgDisp("主人公","(If it's ｛Sassa＊＊｝, I truly believe he will
+make his dreams come true.)");
         break ;
         default :
         DbgAssert(1);

@@ -6,8 +6,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040221101_02_000");
-MsgDisp("Sassa","It's said that cheetahs are the fastest
-land animals, huh...");
+MsgDisp("Sassa","It's said that cheetahs are the fastest land
+animals, huh...");
 MsgSel("Do you want a competition?","I wonder how fast","Their body is like an athlete's.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040221101_02_010");
-    MsgDisp("Sassa","Even a world champion would have no
-chance.");
+    MsgDisp("Sassa","Even a world champion would have no chance.");
     MsgDateResultDisp();
     break ;
     case 1:

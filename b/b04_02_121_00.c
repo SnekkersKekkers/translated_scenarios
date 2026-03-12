@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040212100_02_010");
-    MsgDisp("Sassa","I'll help out, but be more detailed with
-what you want.");
+    MsgDisp("Sassa","I'll help out, but be more detailed with what
+you want.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -44,8 +44,8 @@ What kind of store would you set up?");
     ChMotion(2,2);
     VoicePlay("B040212100_02_030");
     MsgDisp("Sassa","Well yeah.
-But a lot of second hand clothes sizes
-don't fit me...");
+But a lot of second hand clothes sizes don't
+fit me...");
     MsgDateResultDisp();
     break ;
     default :

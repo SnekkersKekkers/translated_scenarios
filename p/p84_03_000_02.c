@@ -1,6 +1,6 @@
 ScrFadeIn(0);
 VoicePlay("P840300002_48_000");
-MsgDisp("School Girl","Excuse meー...
+MsgDisp("School Girl","Excuse me—...
 I want a vinyl string but...
 ...Do you have any?");
 MsgDisp("主人公","Ah, yes, here you go.");
@@ -18,7 +18,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(3,254,0,4,0,#1,#1,0,0);
 VoicePlay("P840300002_03_000");
-MsgDisp("Honda","Hーm, I'm sure that your smile at the end,
+MsgDisp("Honda","H—m, I'm sure that your smile at the end,
 made that girl super relieved.");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);

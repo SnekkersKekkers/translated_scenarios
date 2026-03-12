@@ -13,7 +13,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("P640700005_07_010");
 MsgDisp("Mikage","The shop's appearance is splendid, the
-ingredients are the best—— but the
+ingredients are the best— but the
 preparation is no good...");
 ChEye(7,2);
 ChMouth(7,0);

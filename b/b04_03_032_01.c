@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040303201_03_010");
-    MsgDisp("Honda","Yup - you can see their abdomen clearly
-from below. Seals have 50% body fat.
+    MsgDisp("Honda","Yup - you can see their abdomen clearly from
+below. Seals have 50% body fat.
 If it were human, it'd need a new diet!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

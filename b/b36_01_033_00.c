@@ -19,16 +19,15 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360103300_01_010");
 MsgDisp("Kazama","It's got nothing to do with the place.
-I like the difference between how you are
-in a group vs. just the two of us.");
+I like the difference between how you are in
+a group vs. just the two of us.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360103300_01_020");
-MsgDisp("Kazama","When we're alone, I can do things like
-this.");
+MsgDisp("Kazama","When we're alone, I can do things like this.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.5);
 ChClose(1,0,30);
@@ -55,10 +54,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360103300_01_040");
-MsgDisp("Kazama","Isn't it nice for it to be just the two of
-us after the ruckus with everyone?");
-MsgDisp("主人公","Hey, stop getting weird enjoyment from
-this!");
+MsgDisp("Kazama","Isn't it nice for it to be just the two of us
+after the ruckus with everyone?");
+MsgDisp("主人公","Hey, stop getting weird enjoyment from this!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

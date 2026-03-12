@@ -6,8 +6,7 @@ ChMouth(5,2);
 ChMotion(5,3);
 ChCheek(5,7);
 VoicePlay("B130500003_05_000");
-MsgDisp("Hiiragi","You're going to ride this in that
-skirt...?");
+MsgDisp("Hiiragi","You're going to ride this in that skirt...?");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,4);

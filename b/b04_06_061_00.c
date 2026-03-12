@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,1);
     VoicePlay("B040606100_06_010");
     MsgDisp("Himuro","I'm telling you in advance, I'm not going
-easy on you. You were the one who
-suggested it, so let's have fun.");
+easy on you. You were the one who suggested
+it, so let's have fun.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh, over there is——)");
+MsgDisp("主人公","(Huh, over there is—)");
 MsgClose();
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,0);

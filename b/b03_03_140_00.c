@@ -4,8 +4,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030314000_03_000");
-MsgDisp("Honda","From here on, you'll hear loud sounds in
-an enclosed space.");
+MsgDisp("Honda","From here on, you'll hear loud sounds in an
+enclosed space.");
 MsgClose();
 ScrFadeOut(0);
 ChMotion(3,0);

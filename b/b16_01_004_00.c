@@ -13,7 +13,8 @@ switch (MsgSelRsltGet()){
     NSSEyeOpenLevel(1,5);
     VoicePlay("B160100400_01_010");
     MsgDisp("Kazama","If you understand, then it's your own
-responsibility. No matter what I do.");
+responsibility.
+No matter what I do.");
     break ;
     case 1:
     NSSEye(1,2);
@@ -21,8 +22,8 @@ responsibility. No matter what I do.");
     NSSEyeOpenLevel(1,5);
     NSSCheek(1,0);
     VoicePlay("B160100400_01_020");
-    MsgDisp("Kazama","You...you should have more of a sense
-of danger.");
+    MsgDisp("Kazama","You...you should have more of a sense of
+danger.");
     break ;
     default :
     DbgAssert(0);

@@ -47,7 +47,7 @@ necktie year at Hanegasaki Academy.");
 ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","I'm ｛主人公姓名｝.
 Blue... So that means, the same grade as me,
-doesn't it! I'm from——");
+doesn't it! I'm from—");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,3,1);

@@ -4,8 +4,7 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121100_01_000");
-MsgDisp("Kazama","Looks like they've got more rare animals
-now.");
+MsgDisp("Kazama","Looks like they've got more rare animals now.");
 MsgSel("Let's get a closer look!","Let's take a picture with the animals!","Is there anything you wanna see, ｛Kazama＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040121100_01_010");
-    MsgDisp("Kazama","Oi oi, you're just asking for a blooper
-reel.");
+    MsgDisp("Kazama","Oi oi, you're just asking for a blooper reel.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +38,8 @@ animals over there.");
     ChMotion(1,4);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121100_01_030");
-    MsgDisp("Kazama","Actually, I've never seen a more rare
-animal than you.");
+    MsgDisp("Kazama","Actually, I've never seen a more rare animal
+than you.");
     MsgDispSksp(1,0);
     ChMotion(1,0);
     ChEyeOpenLevel(1,#1);

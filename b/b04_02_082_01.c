@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040208201_02_010");
-    MsgDisp("Sassa","Do I look like I lack that much common
-sense?");
+    MsgDisp("Sassa","Do I look like I lack that much common sense?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -25,9 +24,9 @@ sense?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040208201_02_020");
-    MsgDisp("Sassa","Ehhhー, you know? It seems like there's
-even a world tournament for it. Next time
-let's do it at a river.");
+    MsgDisp("Sassa","Ehhh—, you know?
+It seems like there's even a world tournament
+for it. Next time let's do it at a river.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,9 +37,9 @@ let's do it at a river.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040208201_02_030");
-    MsgDisp("Sassa","Sounds good. But we can't do it here. But
-stone skipping is fun. When I was little I
-even had my own personal stone.");
+    MsgDisp("Sassa","Sounds good. But we can't do it here.
+But stone skipping is fun. When I was little
+I even had my own personal stone.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

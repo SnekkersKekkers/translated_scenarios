@@ -20,8 +20,8 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_310");
-MsgDisp("Shirahane","I moved here in high school. And I was
-surprised by something.");
+MsgDisp("Shirahane","I moved here in high school.
+And I was surprised by something.");
 ChMouth(8,0);
 VoicePlay("B070800000_08_320");
 MsgDisp("Shirahane","Where to stand when riding an escalator.
@@ -30,9 +30,9 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_330");
-MsgDisp("Shirahane","Everyone lines up so neatly on the left
-that I've started standing on that side
-too recently.");
+MsgDisp("Shirahane","Everyone lines up so neatly on the left that
+I've started standing on that side too
+recently.");
 MsgDisp("主人公","(Does the way people line up on escalators
 rub off on you?)");
 BGMStop();

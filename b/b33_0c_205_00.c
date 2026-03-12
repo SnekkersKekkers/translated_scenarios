@@ -26,8 +26,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20500_05_000");
-MsgDisp("Hiiragi","Yes, it landed in the center all three
-times.");
+MsgDisp("Hiiragi","Yes, it landed in the center all three times.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -46,9 +45,9 @@ ChClose(7,0,30);
 ChEye(5,0);
 SEWait();
 VoicePlay("B330C20500_06_020");
-MsgDisp("Himuro","Sensei has a long reach, so stretch your
-arm as far as you can, get close to the
-target, and throw.");
+MsgDisp("Himuro","Sensei has a long reach, so stretch your arm
+as far as you can, get close to the target,
+and throw.");
 VoicePlay("B330C20500_07_010");
 MsgDisp("Mikage","Uh— h-how is it, like this?");
 VoicePlay("B330C20500_06_030");
@@ -87,8 +86,7 @@ ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("B330C20500_05_030");
-MsgDisp("Hiiragi","Eh, you were teaching Mikage-sensei just
-now?");
+MsgDisp("Hiiragi","Eh, you were teaching Mikage-sensei just now?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);

@@ -7,8 +7,7 @@ ChMotion(3,1);
 VoicePlay("B070300001_03_290");
 MsgDisp("Honda","Yeah, it's fun when we're all together.");
 MsgDisp("主人公","But I'm the only girl among you guys...
-I wonder if it seems weird from the
-outside?");
+I wonder if it seems weird from the outside?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
@@ -31,8 +30,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("B070300001_03_330");
-MsgDisp("Honda","It means you're the central point
-connecting multiple locations.
+MsgDisp("Honda","It means you're the central point connecting
+multiple locations.
 That's what a hub is.");
 ChEye(3,4);
 ChMouth(3,0);
@@ -58,9 +57,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_370");
-MsgDisp("Honda","But I'm sure they both, just like me,
-think you're an essential part of our
-group.");
+MsgDisp("Honda","But I'm sure they both, just like me, think
+you're an essential part of our group.");
 ChMotion(3,4);
 VoicePlay("B070300001_03_380");
 MsgDisp("Honda","Does that clear up your worries?");

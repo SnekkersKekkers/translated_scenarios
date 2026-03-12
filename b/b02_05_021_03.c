@@ -16,8 +16,8 @@ However, everything in moderation.");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B020502103_05_020");
-MsgDisp("Hiiragi","I do not want it to be exposed to anyone
-but myself.
+MsgDisp("Hiiragi","I do not want it to be exposed to anyone but
+myself.
 What a strange feeling.");
 MsgDisp("主人公","(Oh, good!
 ｛Hiiragi＊＊＊｝ seems really happy!)");

@@ -1,12 +1,11 @@
-MsgDisp("主人公","｛Mikage＊＊｝, recently you've been
-talking to ｛Hiiragi＊＊＊｝ a lot, haven't
-you?");
+MsgDisp("主人公","｛Mikage＊＊｝, recently you've been talking
+to ｛Hiiragi＊＊＊｝ a lot, haven't you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_010");
-MsgDisp("Mikage","Yeah, it feels like he's finally
-acknowledged me.");
+MsgDisp("Mikage","Yeah, it feels like he's finally acknowledged
+me.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -19,9 +18,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_030");
-MsgDisp("Mikage","But, you know, he's the kind of serious
-kid I like. He told me he can't stand that
-part of himself.");
+MsgDisp("Mikage","But, you know, he's the kind of serious kid I
+like. He told me he can't stand that part of
+himself.");
 MsgDisp("主人公","So that's how it is.");
 ChEye(7,4);
 ChMouth(7,3);
@@ -32,8 +31,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_050");
-MsgDisp("Mikage","He's seriously earnest to the core. Just
-like you. You two are a good match, and
+MsgDisp("Mikage","He's seriously earnest to the core.
+Just like you. You two are a good match, and
 I'm sure you'd understand each other.");
 MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,0);
@@ -49,8 +48,8 @@ ChMotion(7,1);
 VoicePlay("B070700001_07_070");
 MsgDisp("Mikage","Crap.
 My serious side came out today.");
-MsgDisp("主人公","(｛Mikage＊＊｝ is always worrying about
-us, huh...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ is always worrying about us,
+huh...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

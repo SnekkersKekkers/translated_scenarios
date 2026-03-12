@@ -15,7 +15,7 @@ ChEye(5,4);
 VoicePlay("T020520030_05_010");
 MsgDisp("Hiiragi","It'll be alright.
 I have you as my light, and Inori-kun and
-Mikage-sensei walking alongside me——");
+Mikage-sensei walking alongside me—");
 ChMotion(5,2);
 VoicePlay("T020520030_05_020");
 MsgDisp("Hiiragi","Now I know the way.

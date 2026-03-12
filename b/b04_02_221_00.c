@@ -6,8 +6,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040222100_02_000");
-MsgDisp("Sassa","As expected, it's really high when you go
-up to the castle tower.");
+MsgDisp("Sassa","As expected, it's really high when you go up
+to the castle tower.");
 MsgSel("Are you not good with tall places?","Do you think the lord would overlook the town from here too?","It's a bit scary...");
 switch (MsgSelRsltGet()){
     case 0:

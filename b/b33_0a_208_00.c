@@ -25,15 +25,15 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A20800_01_000");
 MsgDisp("Kazama","Don't push yourself.
-There'll have been no point in coming if
-it makes you sick.");
+There'll have been no point in coming if it
+makes you sick.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20800_06_000");
 MsgDisp("Himuro","That's right.
-Then, Ryota-senpai should let someone else
-go as well.");
+Then, Ryota-senpai should let someone else go
+as well.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -43,8 +43,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330A20800_06_010");
-MsgDisp("Himuro","Isn't that where the conversation was
-going?");
+MsgDisp("Himuro","Isn't that where the conversation was going?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -118,8 +117,8 @@ VoicePlay("B330A20800_01_050");
 MsgDisp("Kazama","Haa, got it.
 Everyone can't go against you.");
 MsgDisp("主人公","(Yay!
-We're all here anyways, so I wanna have
-fun with everyone.)");
+We're all here anyways, so I wanna have fun
+with everyone.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

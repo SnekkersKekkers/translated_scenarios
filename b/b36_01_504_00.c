@@ -14,8 +14,8 @@ VoicePlay("B360150400_01_000");
 MsgDisp("Kazama","Looks like it's a good one.
 I'm glad I brought you.");
 MsgDisp("主人公","Thank you, ｛Kazama＊＊｝.
-But I'm sure everyone else wanted to see
-this too right?");
+But I'm sure everyone else wanted to see this
+too right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -29,8 +29,8 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("B360150400_01_020");
-MsgDisp("Kazama","Hey, why don't we stand side-by-side like
-the others?");
+MsgDisp("Kazama","Hey, why don't we stand side-by-side like the
+others?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(1);
@@ -42,25 +42,24 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("B360150400_01_030");
-MsgDisp("Kazama","Isn't it nice for two people to idly stare
-at the same scenery?");
+MsgDisp("Kazama","Isn't it nice for two people to idly stare at
+the same scenery?");
 VoicePlay("B360150400_01_040");
-MsgDisp("Kazama","Normally, I look for something active to
-do, but this sort of thing is refreshing.");
+MsgDisp("Kazama","Normally, I look for something active to do,
+but this sort of thing is refreshing.");
 MsgDisp("主人公","Yeah we can take our time and also enjoy
 ourselves.");
 VoicePlay("B360150400_01_050");
-MsgDisp("Kazama","Phew...I feel bad for those guys, but
-this has really turned around from the
-noisy first half.");
+MsgDisp("Kazama","Phew... I feel bad for those guys, but this
+has really turned around from the noisy first
+half.");
 MsgDisp("主人公","Hey...everyone will get angry you know?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,255,0,4,3,#1,#1,0,0);
 VoicePlay("B360150400_01_060");
 MsgDisp("Kazama","If we get caught, they'll be noisy right?
-Then, this time let's take our time
-walking.");
+Then, this time let's take our time walking.");
 MsgDisp("主人公","Hehe, yeah!");
 BGMStop();
 MsgClose();

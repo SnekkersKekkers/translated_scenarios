@@ -33,8 +33,8 @@ MsgDisp("Nanatsumori","Oh dear, do you have to think about it?");
 ChMouth(4,0);
 VoicePlay("B140400100_04_040");
 MsgDisp("Nanatsumori","When was the last time we met?");
-MsgDisp("主人公","Yesterday's Christmas party-...Ah! Oh,
-we've spent both Christmas nights
+MsgDisp("主人公","Yesterday's Christmas party-...Ah!
+Oh, we've spent both Christmas nights
 together!");
 ChEye(4,0);
 ChMouth(4,3);
@@ -63,8 +63,7 @@ ChLayout(1);
 ChNanaType(#1);
 ChOpen(4,255,0,4,3,#1,#1,8,0,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Nanatsumori＊｝, just now, on my
-forehead...");
+MsgDisp("主人公","｛Nanatsumori＊｝, just now, on my forehead...");
 VoicePlay("B140400100_04_070");
 MsgDisp("Nanatsumori","A kiss-mas present.");
 ChEye(4,4);
@@ -84,16 +83,16 @@ MsgDisp("Nanatsumori","｛主人公｝.
 Thank you for spending today with me.");
 ChMotion(4,3,1);
 VoicePlay("B140400100_04_100");
-MsgDisp("Nanatsumori","For the first time in my life, on this day
-I got to feel what it's like to overflow
-with happiness and be moved to tears.");
+MsgDisp("Nanatsumori","For the first time in my life, on this day I
+got to feel what it's like to overflow with
+happiness and be moved to tears.");
 MsgDisp("主人公","Yeah...");
 ChMotion(4,0,1);
 VoicePlay("B140400100_04_110");
 VoiceEVSPlay(4);
-MsgDisp("Nanatsumori","Once more. So that I don't forget this
-moment for the rest of my life. Merry
-Christmas, ｛主人公｝.");
+MsgDisp("Nanatsumori","Once more.
+So that I don't forget this moment for the
+rest of my life. Merry Christmas, ｛主人公｝.");
 MsgDisp("主人公","Merry Christmas, ｛Nanatsumori＊｝.");
 MsgDisp("主人公","(I think I'm feeling happy too...)");
 BGMStop();

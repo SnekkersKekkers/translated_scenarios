@@ -6,7 +6,7 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406300_04_000");
-MsgDisp("Nanatsumori","Ahー...it's cold.
+MsgDisp("Nanatsumori","Ah—...it's cold.
 No way...");
 MsgSel("We have the winter sea to ourselves!","the winter sea feels sad...","There are many delicious things in the winter sea♪");
 switch (MsgSelRsltGet()){
@@ -32,9 +32,9 @@ It's too cold.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040406300_04_030");
-    MsgDisp("Nanatsumori","Seafood Nabe, crab, grilled seafood,
-Chinese buns, sweet potatoes, hot sweets,
-ah, hey it seems like anything warm is OK!");
+    MsgDisp("Nanatsumori","Seafood Nabe, crab, grilled seafood, Chinese
+buns, sweet potatoes, hot sweets, ah, hey it
+seems like anything warm is OK!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

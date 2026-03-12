@@ -35,8 +35,8 @@ enough to give a rating.");
     ChMotion(2,3);
     VoicePlay("B040204300_02_020");
     MsgDisp("Sassa","That's a relief.
-I guess I'm not the only one who didn't
-find it funny.");
+I guess I'm not the only one who didn't find
+it funny.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

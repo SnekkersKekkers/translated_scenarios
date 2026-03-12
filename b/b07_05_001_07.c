@@ -42,9 +42,9 @@ MsgDisp("主人公","｛Hiiragi＊＊＊｝ too?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B070500001_05_570");
-MsgDisp("Hiiragi","Yes, I never tire of spending time with
-you. It may be a bit different to
-excitement though.");
+MsgDisp("Hiiragi","Yes, I never tire of spending time with you.
+It may be a bit different to excitement
+though.");
 MsgDisp("主人公","...Is that so?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -65,8 +65,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 ChCheek(5,0);
 VoicePlay("B070500001_05_600");
-MsgDisp("Hiiragi","If both our hearts are racing, then
-there's no need for either of us to worry.");
+MsgDisp("Hiiragi","If both our hearts are racing, then there's
+no need for either of us to worry.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝'s heart also races when he's
 around me...?)");
 BGMStop();

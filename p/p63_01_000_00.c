@@ -30,7 +30,7 @@ I think we were able to make a good blend.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P630100000_01_020");
-    MsgDisp("Kazama","I look forwards to iーt.");
+    MsgDisp("Kazama","I look forwards to i—t.");
     MsgDisp("主人公","Entry for one customer please!");
     MsgClose();
     ScrFadeOut(0,0);

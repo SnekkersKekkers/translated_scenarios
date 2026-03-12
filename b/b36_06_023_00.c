@@ -43,8 +43,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B360602300_06_050");
-MsgDisp("Himuro","Would you rather be with everyone than
-just have us two together?");
+MsgDisp("Himuro","Would you rather be with everyone than just
+have us two together?");
 MsgDisp("主人公","Hmm...
 I think either is enjoyable.");
 ChEye(6,1);

@@ -19,7 +19,7 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("P840300003_03_010");
 MsgDisp("Honda","Maybe, it never existed from the first
-placeー?");
+place—?");
 MsgDisp("主人公","Eh?
 ｛Honda＊＊｝.");
 ChEye(3,0);

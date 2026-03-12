@@ -34,7 +34,7 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("D120B00200_01_010");
-MsgDisp("Kazama","I never promised anything like that——");
+MsgDisp("Kazama","I never promised anything like that—");
 MsgDisp("主人公","......");
 ChEye(1,2);
 ChMouth(1,2);

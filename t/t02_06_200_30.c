@@ -32,7 +32,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 MsgDisp("Himuro","I want them to take responsibility.");
 MsgDisp("主人公","Ehh∋
-That——");
+That—");
 VoicePlay("T020620000_06_360");
 ChEye(6,0);
 ChMouth(6,4);

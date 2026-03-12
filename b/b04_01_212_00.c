@@ -34,8 +34,7 @@ too.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121200_01_020");
-    MsgDisp("Kazama","So you'd wear cute things on your feet,
-huh.");
+    MsgDisp("Kazama","So you'd wear cute things on your feet, huh.");
     MsgDateResultDisp();
     break ;
     case 2:

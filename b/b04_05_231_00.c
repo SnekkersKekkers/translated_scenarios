@@ -5,9 +5,9 @@ MsgClose();
 ChOpen(5,255,1,4,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523100_05_000");
-MsgDisp("Hiiragi","Aah...this feeling of speed is
-invigorating. This is what comes to mind
-when I think of an amusement park.");
+MsgDisp("Hiiragi","Aah...this feeling of speed is invigorating.
+This is what comes to mind when I think of an
+amusement park.");
 MsgSel("It was the best! I want to ride it more!","Uugh, that was scary...","I wanted even more thrill...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,7 @@ I'm happy to hear you feel the same.");
     ChMotion(5,0);
     VoicePlay("B040523100_05_020");
     MsgDisp("Hiiragi","Are you alright?
-Sorry, it seems like only I enjoyed
-myself.");
+Sorry, it seems like only I enjoyed myself.");
     MsgDateResultDisp();
     break ;
     case 2:

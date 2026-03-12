@@ -11,8 +11,8 @@ ChMotion(5,4);
 VoicePlay("B050500100_05_000");
 MsgDisp("Hiiragi","I thought you weren't very good with this
 sort of thing?");
-MsgDisp("主人公","That may be true, but my legs just brought
-me here...");
+MsgDisp("主人公","That may be true, but my legs just brought me
+here...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -58,8 +58,8 @@ StlMouth(5,0);
 ScrFadeIn(0);
 VoicePlay("B050500100_05_040");
 MsgDisp("Hiiragi","First of all...
-For a burial kimono, the left side should
-be wrapped over the right.");
+For a burial kimono, the left side should be
+wrapped over the right.");
 StlEyeOpenLevel(5,5);
 SEPlay("EV_SE_623",0.3);
 SEWait();
@@ -70,8 +70,8 @@ MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("B050500100_05_050");
 MsgDisp("Hiiragi","I couldn't help but notice.
-In a broad sense, you could say we're in
-the same line of work.");
+In a broad sense, you could say we're in the
+same line of work.");
 StlEyeOpenLevel(5,5,1);
 SEPlay("EV_SE_552",0,0.8);
 SEWait();
@@ -117,8 +117,8 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B050500100_05_090");
 MsgDisp("Hiiragi","What about you?
 I didn't spoil your fun, did I?");
-MsgDisp("主人公","Ah, I guess because of ｛Hiiragi＊＊＊｝ it was
-a bit less scary?");
+MsgDisp("主人公","Ah, I guess because of ｛Hiiragi＊＊＊｝ it was a
+bit less scary?");
 ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,8);

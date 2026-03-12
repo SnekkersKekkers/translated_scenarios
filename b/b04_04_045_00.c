@@ -24,8 +24,8 @@ dancing.");
     ChMouth(4,4);
     VoicePlay("B040404500_04_010");
     MsgDisp("Nanatsumori","The costumes and dancing were seriously
-amazing. The actors' performances were 
-powerful too.");
+amazing.
+The actors' performances were powerful too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +36,8 @@ powerful too.");
     ChMouth(4,2);
     VoicePlay("B040404500_04_020");
     MsgDisp("Nanatsumori","You say it was a miss?
-Their chairman is the same age as us,
-you know?");
+Their chairman is the same age as us, you
+know?");
     MsgDateResultDisp();
     break ;
     default :

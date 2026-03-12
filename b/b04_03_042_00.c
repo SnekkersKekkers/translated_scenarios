@@ -21,8 +21,8 @@ like a person was inside right?");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040304200_03_010");
-    MsgDisp("Honda","Hmm, yeah there were a few mistakes, like
-in juggling.
+    MsgDisp("Honda","Hmm, yeah there were a few mistakes, like in
+juggling.
 But how about cutting them some slack?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

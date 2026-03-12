@@ -86,7 +86,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C10700_07_030");
-MsgDisp("Mikage","Oohhー.
+MsgDisp("Mikage","Oohh—.
 I think I'm falling for you, Yanosuke...");
 ChEye(6,0);
 ChMouth(6,4);
@@ -102,8 +102,7 @@ MsgDisp("主人公","Eh∋");
 MsgClose();
 ScrFadeOut(0,0);
 VoicePlay("B330C10700_05_030");
-MsgDisp("Hiiragi","Well, let's enjoy ourselves to the
-fullest?");
+MsgDisp("Hiiragi","Well, let's enjoy ourselves to the fullest?");
 MsgDisp("主人公","Yeah...!");
 MsgDisp("主人公","(I'm happy, but is it really okay to leave
 ｛Himuro＊＊｝ and ｛Mikage＊＊｝ behind?)");

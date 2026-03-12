@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040222102_02_010");
-    MsgDisp("Sassa","I think your sort of love for your
-hometown is always great.");
+    MsgDisp("Sassa","I think your sort of love for your hometown
+is always great.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -67,26 +67,27 @@ went to the same places.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040222102_02_060");
-        MsgDisp("Sassa","Today will be the last time we visit
-Habataki castle. We'll go somewhere new
-next time, then somewhere new again.");
-        MsgDisp("主人公","But, even in one place, the scenery
-changes depending on season and time.");
+        MsgDisp("Sassa","Today will be the last time we visit Habataki
+castle. We'll go somewhere new next time,
+then somewhere new again.");
+        MsgDisp("主人公","But, even in one place, the scenery changes
+depending on season and time.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040222102_02_070");
-        MsgDisp("Sassa","I see...If we're taking in the difference
-of seasons, let's think of a \"Date
-Rotations of a Year\" together.");
+        MsgDisp("Sassa","I see... If we're taking in the difference of
+seasons, let's think of a \"Date Rotations of
+a Year\" together.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040222102_02_080");
         MsgDisp("Sassa","A combination and order that fulfills both
 efficiency and satisfaction...");
-        MsgDisp("主人公","(Ummm... ｛Sassa＊＊｝, this is beginning to
-look like a training program.)");
+        MsgDisp("主人公","(Ummm...
+｛Sassa＊＊｝, this is beginning to look like a
+training program.)");
         break ;
         default :
         DbgAssert(1);

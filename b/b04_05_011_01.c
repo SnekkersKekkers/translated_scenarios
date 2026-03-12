@@ -37,8 +37,8 @@ separately?");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040501101_05_030");
-    MsgDisp("Hiiragi","Are you referring both to the height and
-the price?
+    MsgDisp("Hiiragi","Are you referring both to the height and the
+price?
 Hahaha, you're a funny person.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

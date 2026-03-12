@@ -27,7 +27,7 @@ not what I meant.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040210102_02_020");
-    MsgDisp("Sassa","Ehhhー,nice.
+    MsgDisp("Sassa","Ehhh—,nice.
 That's the best outcome.
 Well, I completely don't get it though.");
     MsgDispSksp(1,0);
@@ -81,8 +81,8 @@ I wonder why?");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040210102_02_080");
-        MsgDisp("Sassa","Then, well, we came all this way, why
-don't we take a look?");
+        MsgDisp("Sassa","Then, well, we came all this way, why don't
+we take a look?");
         MsgDisp("主人公","Yeah, since we came all the way.");
         ChEye(2,0);
         ChMouth(2,2);
@@ -95,14 +95,13 @@ fated person?");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040210102_02_100");
-        MsgDisp("Sassa","Come on, let's go see that weird mask
-again.");
+        MsgDisp("Sassa","Come on, let's go see that weird mask again.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         SEWait();
-        MsgDisp("主人公","(I'm happy that we're on the same page...
-but what did ｛Sassa＊＊｝ say?)");
+        MsgDisp("主人公","(I'm happy that we're on the same page... but
+what did ｛Sassa＊＊｝ say?)");
         break ;
         default :
         DbgAssert(1);

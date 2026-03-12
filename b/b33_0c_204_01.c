@@ -11,36 +11,36 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20401_06_000");
-MsgDisp("Himuro","Even though this Forest Park is vast, this
-is the only place with fireflies...how
+MsgDisp("Himuro","Even though this Forest Park is vast, this is
+the only place with fireflies...how
 mysterious.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20401_05_000");
-MsgDisp("Hiiragi","I heard it was because of the spring
-water, but is that not the case?");
+MsgDisp("Hiiragi","I heard it was because of the spring water,
+but is that not the case?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20401_07_000");
-MsgDisp("Mikage","It's easy to live in such clean water
-right? I wonder if they live longer if the
+MsgDisp("Mikage","It's easy to live in such clean water right?
+I wonder if they live longer if the
 temperature is stable.");
 MsgDisp("主人公","This place is special to the fireflies.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20401_07_010");
-MsgDisp("Mikage","That's right. But...I still don't
-understand the rumours about being able to
-hear inner voices here...");
+MsgDisp("Mikage","That's right.
+But... I still don't understand the rumours
+about being able to hear inner voices here...");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B330C20401_05_010");
-MsgDisp("Hiiragi","I wonder if that has something to do with
-the fireflies?");
+MsgDisp("Hiiragi","I wonder if that has something to do with the
+fireflies?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -59,8 +59,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330C20401_06_010");
-MsgDisp("Himuro","Kojiro-sensei, it's unfortunate but you
-hear the inner voice of the other person.
+MsgDisp("Himuro","Kojiro-sensei, it's unfortunate but you hear
+the inner voice of the other person.
 You can't hear it if you're alone.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -72,8 +72,8 @@ VoicePlay("B330C20401_07_040");
 MsgDisp("Mikage","Yes yes, I see how it is.
 I'm alone in any case.");
 MsgDisp("主人公","(Hehe.
-I wonder if ｛Mikage＊＊｝ is lonely
-living alone?)");
+I wonder if ｛Mikage＊＊｝ is lonely living
+alone?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(5,0);

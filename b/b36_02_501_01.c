@@ -18,15 +18,15 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360250101_02_010");
 MsgDisp("Sassa","Um, sorry.
-For some reason we ended up here whilst I
-was talking to you.");
+For some reason we ended up here whilst I was
+talking to you.");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B360250101_02_020");
-MsgDisp("Sassa","To be honest, the main part was inviting
-you out.
+MsgDisp("Sassa","To be honest, the main part was inviting you
+out.
 After that, the details are kinda fuzzy.");
 MsgDisp("主人公","Hehe.
 Well, we came all the way here.
@@ -46,8 +46,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
 MsgDisp("主人公","(｛Sassa＊＊｝ is like a little kid.
-Maybe we used to play like this together
-in kindergarten...?)");
+Maybe we used to play like this together in
+kindergarten...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

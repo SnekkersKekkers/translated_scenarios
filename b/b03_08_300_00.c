@@ -9,8 +9,8 @@ VoicePlay("B030830000_08_000");
 MsgDisp("Shirahane","Welcome, 'n come on in!");
 ChMotion(8,0,1);
 VoicePlay("B030830000_08_010");
-MsgDisp("Shirahane","Well, actually it's my older sis's place,
-but we're visitin' my room.");
+MsgDisp("Shirahane","Well, actually it's my older sis's place, but
+we're visitin' my room.");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);

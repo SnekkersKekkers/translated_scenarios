@@ -6,23 +6,23 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040506400_05_000");
-MsgDisp("Hiiragi","Different aromas and sounds overflow from
-the cluttered food stalls and mix
-together. I love this atmosphere.");
+MsgDisp("Hiiragi","Different aromas and sounds overflow from the
+cluttered food stalls and mix together.
+I love this atmosphere.");
 MsgDisp("主人公","It's exciting, isn't it?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B040506400_05_010");
 MsgDisp("Hiiragi","I've visited the festivals of many towns.
 Each one had their own unique
-characteristics...I really enjoyed it.");
-MsgDisp("主人公","Ehhー Really?");
+characteristics... I really enjoyed it.");
+MsgDisp("主人公","Ehh— Really?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B040506400_05_020");
 MsgDisp("Hiiragi","So this is Habataki City's festival, huh?
-I need to be able to proudly call this
-place my home.");
+I need to be able to proudly call this place
+my home.");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("B040506400_05_030");
@@ -32,9 +32,9 @@ ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,2);
 VoicePlay("B040506400_05_040");
-MsgDisp("Hiiragi","Ah, look at that. They have a sunny side
-up egg as a topping. Is this the flavour
-of home?");
+MsgDisp("Hiiragi","Ah, look at that.
+They have a sunny side up egg as a topping.
+Is this the flavour of home?");
 ChMotion(5,0);
 VoicePlay("B040506400_05_050");
 MsgDisp("Hiiragi","I'll buy two.");

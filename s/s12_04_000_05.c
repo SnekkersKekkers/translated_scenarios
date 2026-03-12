@@ -77,7 +77,7 @@ Maybe we can keep meeting like this.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("S120400005_04_080");
-    MsgDisp("Nanatsumori","I...more with you——");
+    MsgDisp("Nanatsumori","I...more with you—");
     ChMouth(4,3);
     VoicePlay("S120400005_04_090");
     MsgDisp("Nanatsumori","...Stop.

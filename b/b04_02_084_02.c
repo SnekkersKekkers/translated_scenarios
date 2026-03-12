@@ -39,11 +39,10 @@ But I've watched too many horror movies.");
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040208402_02_030");
-        MsgDisp("Sassa","The ones where young people camp by the
-lake.");
+        MsgDisp("Sassa","The ones where young people camp by the lake.");
         MsgDisp("主人公","Umm...
-It's a firefly sanctuary, so there won't
-be anyone there?");
+It's a firefly sanctuary, so there won't be
+anyone there?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
@@ -55,8 +54,8 @@ movie?");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040208402_02_050");
-        MsgDisp("Sassa","I thought it was totally set up like one
-of those scenarios.");
+        MsgDisp("Sassa","I thought it was totally set up like one of
+those scenarios.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,2);
@@ -69,15 +68,14 @@ I might stand a chance.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040208402_02_070");
-        MsgDisp("Sassa","I was thinking of how to protect you
-from dangerous people. Best plan is to
-carry you on my back and run.");
+        MsgDisp("Sassa","I was thinking of how to protect you from
+dangerous people.
+Best plan is to carry you on my back and run.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040208402_02_080");
-        MsgDisp("Sassa","Ah, is it also okay to hold you in the
-front?");
+        MsgDisp("Sassa","Ah, is it also okay to hold you in the front?");
         MsgDisp("主人公","(Feels like I'm being treated like
 luggage...)");
         break ;

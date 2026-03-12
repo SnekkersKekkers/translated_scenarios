@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040221202_02_000");
-MsgDisp("Sassa","Apparently Habataki zoo's mascot is the
-first park director.");
+MsgDisp("Sassa","Apparently Habataki zoo's mascot is the first
+park director.");
 MsgSel("He's a director that likes the spotlight huh","He's wearing wellies and carrying a bucket, right?","I think an animal would be a better mascot?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -21,9 +21,9 @@ switch (MsgSelRsltGet()){
         ChMouth(2,0);
         ChMotion(2,3);
         VoicePlay("B040221202_02_010");
-        MsgDisp("Sassa","Maybe. But it seems he built on a mountain
-that had nothing on it. His vitality is
-amazing.");
+        MsgDisp("Sassa","Maybe.
+But it seems he built on a mountain that had
+nothing on it. His vitality is amazing.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -34,8 +34,7 @@ amazing.");
         ChMotion(2,0);
         VoicePlay("B040221202_02_020");
         MsgDisp("Sassa","That may be true, but he turned a mountain
-that had nothing into a facility like
-this.");
+that had nothing into a facility like this.");
         MsgDisp("主人公","Yeah, he's definitely an amazing person.");
         ChEye(2,0);
         ChMouth(2,0);
@@ -44,9 +43,8 @@ this.");
         MsgDisp("Sassa","It's amazing that he makes so many people
 happy like this.
 I want to be that kind of person");
-        MsgDisp("主人公","I think ｛Sassa＊＊｝ is an amazing player
-that both surprises and entertains
-everyone?");
+        MsgDisp("主人公","I think ｛Sassa＊＊｝ is an amazing player that
+both surprises and entertains everyone?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -67,8 +65,7 @@ thoroughbred...that's nice.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040221202_02_060");
-        MsgDisp("Sassa","Then, let's find a plush that looks like
-you!
+        MsgDisp("Sassa","Then, let's find a plush that looks like you!
 If I'm a horse, you're a...pony?");
         MsgDisp("主人公","(Umm...are we limited to horses?)");
         break ;

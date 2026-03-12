@@ -66,21 +66,19 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10400_06_030");
-MsgDisp("Himuro","You should watch to see there's no
-cheating.");
+MsgDisp("Himuro","You should watch to see there's no cheating.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10400_01_020");
-MsgDisp("Kazama","Of course the person who's most likely to
-use a sly hand would say that.");
+MsgDisp("Kazama","Of course the person who's most likely to use
+a sly hand would say that.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
 VoicePlay("B330A10400_06_040");
-MsgDisp("Himuro","Using your head is different from 
-being sly.");
+MsgDisp("Himuro","Using your head is different from being sly.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -125,16 +123,16 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10400_01_040");
-MsgDisp("Kazama","Well yeah. Once with you, and twice with
-the other guys. I feel like there were a
-lot of negatives though.");
+MsgDisp("Kazama","Well yeah. Once with you, and twice with the
+other guys. I feel like there were a lot of
+negatives though.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A10400_02_060");
-MsgDisp("Sassa","If only I took a picture of Inori and
-Ryota's lovey dovey boat.");
+MsgDisp("Sassa","If only I took a picture of Inori and Ryota's
+lovey dovey boat.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(6,2);
@@ -142,9 +140,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10400_06_070");
-MsgDisp("Himuro","Nah, really you should have taken a
-picture of Nozomu-senpai and Ryota's swan
-boat.");
+MsgDisp("Himuro","Nah, really you should have taken a picture
+of Nozomu-senpai and Ryota's swan boat.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);

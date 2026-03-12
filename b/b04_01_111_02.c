@@ -6,8 +6,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040111102_01_000");
-MsgDisp("Kazama","Somehow, winter sports always get me
-pumped up.");
+MsgDisp("Kazama","Somehow, winter sports always get me pumped
+up.");
 MsgSel("Yeah, me too.","Between skiing and skating, which is your favorite?","I'm glad you're good at it, ｛Kazama＊＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +30,8 @@ Despite the cold, I'm all heated up.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040111102_01_020");
     MsgDisp("Kazama","Definitely skating.
-Skiing is too much trouble having to use
-the ski pole.");
+Skiing is too much trouble having to use the
+ski pole.");
     MsgDispSksp(1,8);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
@@ -76,9 +76,8 @@ I'm sorry.");
         ChMotion(1,4);
         ChCheek(1,7);
         VoicePlay("B040111102_01_060");
-        MsgDisp("Kazama","It's sort of a cliche, but when you're
-wobbly on the ice, holding hands makes it
-easier.");
+        MsgDisp("Kazama","It's sort of a cliche, but when you're wobbly
+on the ice, holding hands makes it easier.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         Wait(12,0);
@@ -86,10 +85,10 @@ easier.");
         ChMouth(1,1);
         ChCheek(1,0);
         VoicePlay("B040111102_01_070");
-        MsgDisp("Kazama","If you really want to get better, I'll
-make sure I teach you the right way.");
-        MsgDisp("主人公","Even if I do get better, I think it's okay
-to just hold hands and glide across.");
+        MsgDisp("Kazama","If you really want to get better, I'll make
+sure I teach you the right way.");
+        MsgDisp("主人公","Even if I do get better, I think it's okay to
+just hold hands and glide across.");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,2);
@@ -110,8 +109,7 @@ Here, give me your hand.");
         SEPlay("EV_SE_760");
         SEWait();
         MsgDisp("主人公","(Huh?
-Feels like nothing's different from
-usual...)");
+Feels like nothing's different from usual...)");
         break ;
         default :
         DbgAssert(1);

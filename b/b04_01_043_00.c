@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040104300_01_000");
     MsgDisp("Kazama","It was awesome.
-It was nice to laugh to our heart's
-content together.");
+It was nice to laugh to our heart's content
+together.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

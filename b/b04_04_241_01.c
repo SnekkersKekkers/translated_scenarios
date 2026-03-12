@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040424101_04_010");
     MsgDisp("Nanatsumori","OK!
-Soft serve ice cream from a farm is
-seriously addictive.");
+Soft serve ice cream from a farm is seriously
+addictive.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,8 +39,8 @@ Are you worried about calcium and stuff?");
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("B040424101_04_030");
-    MsgDisp("Nanatsumori","...Looking at those babies in front of
-you, do you still think so?");
+    MsgDisp("Nanatsumori","...Looking at those babies in front of you,
+do you still think so?");
     MsgDateResultDisp();
     break ;
     default :

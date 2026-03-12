@@ -79,34 +79,34 @@ if ( var0 !=21&& var0 !=22){
             switch ( var6 ){
                 case 1:
                 MsgDisp("主人公","(I'll get the same as ｛Kazama＊＊｝,
-｛学食メニュー｝...)");
+｛学食メニュ—｝...)");
                 break ;
                 case 2:
                 MsgDisp("主人公","(I'll get the same as ｛Sassa＊＊｝,
-｛学食メニュー｝...)");
+｛学食メニュ—｝...)");
                 break ;
                 case 3:
                 MsgDisp("主人公","(I'll get the same as ｛Honda＊＊｝,
-｛学食メニュー｝...)");
+｛学食メニュ—｝...)");
                 break ;
                 case 4:
                 MsgDisp("主人公","(I'll get the same as ｛Nanatsumori＊＊｝,
-｛学食メニュー｝...)");
+｛学食メニュ—｝...)");
                 break ;
                 case 5:
                 MsgDisp("主人公","(I'll get the same as ｛Hiiragi＊＊｝,
-｛学食メニュー｝...)");
+｛学食メニュ—｝...)");
                 break ;
                 case 6:
                 MsgDisp("主人公","(I'll get the same as ｛Himuro＊＊｝,
-｛学食メニュー｝...)");
+｛学食メニュ—｝...)");
                 break ;
                 case 7:
                 MsgDisp("主人公","(I'll get the same as ｛Mikage＊＊｝,
-｛学食メニュー｝...)");
+｛学食メニュ—｝...)");
                 break ;
                 default :
-                MsgDisp("主人公","(I'll get the ｛学食メニュー｝...)");
+                MsgDisp("主人公","(I'll get the ｛学食メニュ—｝...)");
                 break ;
                 }
             MsgExSel(7);

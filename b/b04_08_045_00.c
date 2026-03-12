@@ -35,8 +35,8 @@ Their chairman is the same age as us too?");
     ChMotion(8,4,1);
     VoicePlay("B040804500_08_020");
     MsgDisp("Shirahane","To go so far as to say \"It was a miss\"...
-their Chairman is the same age as us and
-he's that impressive...");
+their Chairman is the same age as us and he's
+that impressive...");
     MsgDateResultDisp();
     break ;
     default :

@@ -33,11 +33,10 @@ VoicePlay("B360415200_04_030");
 MsgDisp("Nanatsumori","Something like...your time?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B360415200_04_040");
-MsgDisp("Nanatsumori","We count up points. The more I score,
-the more of your time I get. The more you
-score, the more time I give back.");
-MsgDisp("主人公","Hey, what is the advantage of that
-wager...");
+MsgDisp("Nanatsumori","We count up points. The more I score, the
+more of your time I get. The more you score,
+the more time I give back.");
+MsgDisp("主人公","Hey, what is the advantage of that wager...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -57,8 +56,9 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B360415200_04_070");
-MsgDisp("Nanatsumori","...and. That was close! I was about to
-blurt out something really cheap∋");
+MsgDisp("Nanatsumori","...and.
+That was close! I was about to blurt out
+something really cheap∋");
 MsgDisp("主人公","｛Nanatsumori＊｝?");
 ChEye(4,1);
 ChMouth(4,1);

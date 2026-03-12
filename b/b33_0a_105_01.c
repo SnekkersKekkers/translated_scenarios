@@ -41,8 +41,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("B330A10501_02_000");
-MsgDisp("Sassa","Sorry. Inori. I wanted to try that too.
-One more please!");
+MsgDisp("Sassa","Sorry.
+Inori.
+I wanted to try that too. One more please!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -79,13 +80,13 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A10501_02_010");
-MsgDisp("Sassa","Haaー, that was deliciousー!");
+MsgDisp("Sassa","Haa—, that was delicious—!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10501_01_040");
-MsgDisp("Kazama","That's not the kind of comment you
-should have after karaoke.");
+MsgDisp("Kazama","That's not the kind of comment you should
+have after karaoke.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -112,7 +113,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10501_06_030");
 MsgDisp("Himuro","It's lunch though.
-So...a lunch and a showー?");
+So...a lunch and a show—?");
 MsgDisp("主人公","(It's troubling for me either way∋)");
 MsgClose();
 ScrFadeOut(0,0);

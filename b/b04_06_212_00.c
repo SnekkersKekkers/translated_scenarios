@@ -42,8 +42,7 @@ If there's no demand, why not make one?");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040621200_06_030");
-    MsgDisp("Himuro","Are you planning on squandering your
-money?");
+    MsgDisp("Himuro","Are you planning on squandering your money?");
     MsgDateResultDisp();
     break ;
     default :

@@ -73,7 +73,7 @@ gratitude.");
 MsgDisp("","Gratitude for the guests.
 Love and respect for her.");
 VoicePlay("Y300500500_43_010");
-MsgDisp("Troupe B","\"It's opening tiーme.
+MsgDisp("Troupe B","\"It's opening ti—me.
 The guests are coming in.\"");
 MsgClear();
 VoicePlay("Y300500500_05_030");

@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040623200_06_010");
     MsgDisp("Himuro","I'm glad I didn't endure it for nothing.
-I don't know what I would do if you were
-to say it was boring.");
+I don't know what I would do if you were to
+say it was boring.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

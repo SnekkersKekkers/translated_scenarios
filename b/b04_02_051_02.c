@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040205102_02_000");
-MsgDisp("Sassa","I've been thinking about what a new
-version of this place would look like.");
+MsgDisp("Sassa","I've been thinking about what a new version
+of this place would look like.");
 MsgSel("Musical of the Stars♪","Haunted House Collab?","Pop-Up Planetarium!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -50,8 +50,8 @@ I like it.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040205102_02_040");
-        MsgDisp("Sassa","And they'll force you to watch scary
-videos while you lay back in the chair.");
+        MsgDisp("Sassa","And they'll force you to watch scary videos
+while you lay back in the chair.");
         MsgDisp("主人公","Eh?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -64,9 +64,9 @@ The same as a movie theater?");
         ChMouth(2,4);
         ChMotion(2,5);
         VoicePlay("B040205102_02_060");
-        MsgDisp("Sassa","Oh...You're right. That's just a normal
-horror movie. And what about the star
-theme?");
+        MsgDisp("Sassa","Oh... You're right.
+That's just a normal horror movie.
+And what about the star theme?");
         MsgDisp("主人公","Hehe.
 Let's leave the horror movies to the movie
 theaters, shall we?");
@@ -102,8 +102,8 @@ A movie about stars or something.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040205102_02_100");
-    MsgDisp("Sassa","If stars were twinkling right in front of
-me, I'd probably get dizzy, though.");
+    MsgDisp("Sassa","If stars were twinkling right in front of me,
+I'd probably get dizzy, though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

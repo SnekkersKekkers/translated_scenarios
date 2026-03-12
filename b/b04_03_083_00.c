@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040308300_03_010");
-    MsgDisp("Honda","If that was the case, they would regress
-back into larvae?");
+    MsgDisp("Honda","If that was the case, they would regress back
+into larvae?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -38,8 +38,9 @@ preparation for night time.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040308300_03_030");
-    MsgDisp("Honda","Ding ding ding! Spot on! They're clinging
-to the blades of grass, taking a nap.");
+    MsgDisp("Honda","Ding ding ding!
+Spot on! They're clinging to the blades of
+grass, taking a nap.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

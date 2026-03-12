@@ -3,7 +3,7 @@ BGOpen("fp100",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ok, I think it's time to head home.
 ...Huh?
-Who's that over there——)");
+Who's that over there—)");
 VoicePlay("E010730100_07_000");
 MsgDisp("Mikage?","That's amazing.
 Is it easy to use?");
@@ -63,7 +63,7 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("E010730100_03_040");
-MsgDisp("Honda","AhーI feel like looking through it right
+MsgDisp("Honda","Ah—I feel like looking through it right
 now. I'm going home now! See you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

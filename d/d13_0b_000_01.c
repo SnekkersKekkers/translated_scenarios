@@ -17,7 +17,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D130B00001_03_000");
 MsgDisp("Honda","Good morning!
-Hey hey, today is——");
+Hey hey, today is—");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

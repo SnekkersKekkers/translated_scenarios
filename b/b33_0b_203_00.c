@@ -56,17 +56,17 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B20300_01_010");
-MsgDisp("Kazama","This is because you're talking about bugs
-to Nanatsumori.");
-MsgDisp("主人公","Hey, there are lots of different flowers
-too, so why don't we focus on looking at
-those instead?");
+MsgDisp("Kazama","This is because you're talking about bugs to
+Nanatsumori.");
+MsgDisp("主人公","Hey, there are lots of different flowers too,
+so why don't we focus on looking at those
+instead?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B20300_01_020");
-MsgDisp("Kazama","Sounds good, for example that red flower
-over there is weird.
+MsgDisp("Kazama","Sounds good, for example that red flower over
+there is weird.
 Shall we go check it out?");
 ChEye(4,2);
 ChMouth(4,0);
@@ -79,9 +79,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20300_03_020");
-MsgDisp("Honda","That flower is a Sarracenia. It may look
-like that, but it's a carnivorous plant.
-It digests in its leaves.");
+MsgDisp("Honda","That flower is a Sarracenia.
+It may look like that, but it's a carnivorous
+plant. It digests in its leaves.");
 ChEye(1,2);
 ChMouth(1,2);
 ChEye(4,2);

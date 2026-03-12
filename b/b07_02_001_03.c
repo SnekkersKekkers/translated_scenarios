@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Sassa＊＊｝ has gotten really popular
-lately, huh?");
+MsgDisp("主人公","｛Sassa＊＊｝ has gotten really popular lately,
+huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -20,8 +20,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200001_02_160");
-MsgDisp("Sassa","I've been competing for a long time but
-this feeling is new.");
+MsgDisp("Sassa","I've been competing for a long time but this
+feeling is new.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,2);

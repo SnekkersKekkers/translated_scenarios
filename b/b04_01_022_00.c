@@ -5,8 +5,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040102200_01_000");
-MsgDisp("Kazama","Seeing the sea from the port has a
-different charm to it than from the beach.");
+MsgDisp("Kazama","Seeing the sea from the port has a different
+charm to it than from the beach.");
 MsgSel("The ocean is truly amazing...","I want to sail around the world like this.","Look, the seagulls are so cute▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +29,8 @@ But what's wrong?");
     ChMotion(1,3);
     VoicePlay("B040102200_01_020");
     MsgDisp("Kazama","That sounds nice to me.
-But I think we'd really shock everyone
-with that.");
+But I think we'd really shock everyone with
+that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,7 +43,7 @@ with that.");
     VoicePlay("B040102200_01_030");
     MsgDisp("Kazama","That's a Black Kite, a bird of prey.
 They dive down and snatch people's food.
-Somehow...I feel like you'd get snatched.");
+Somehow... I feel like you'd get snatched.");
     MsgDateResultDisp();
     break ;
     default :

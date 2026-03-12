@@ -16,8 +16,8 @@ ChMouth(1,1);
 ChMotion(1,3,1);
 VoicePlay("B150100500_01_010");
 MsgDisp("Kazama","Don't \"eh?\" me.
-I told you to do as you like, and now
-you're just going wild.");
+I told you to do as you like, and now you're
+just going wild.");
 MsgDisp("主人公","Wild?
 Sorry, that's not what I intended...");
 ChEye(1,2);
@@ -42,8 +42,8 @@ ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,3);
 VoicePlay("B150100500_01_040");
-MsgDisp("Kazama","If you're really that interested, I'll
-teach you proper skinship.");
+MsgDisp("Kazama","If you're really that interested, I'll teach
+you proper skinship.");
 MsgDisp("主人公","H-Huh?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -59,8 +59,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B150100500_01_060");
 MsgDisp("Kazama","Well, it's fine. Just know I grew up in a
-culture where hugs and kisses were used as
-a greeting. Be prepared.");
+culture where hugs and kisses were used as a
+greeting. Be prepared.");
 MsgDisp("主人公","(English-style skinship again...
 Haven't I heard this before?
 I wonder if ｛Kazama＊＊｝ is alright?)");

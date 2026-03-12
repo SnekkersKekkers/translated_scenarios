@@ -12,7 +12,7 @@ VoicePlay("B100500000_05_000");
 MsgDisp("Hiiragi","It's Hiiragi.
 ...By any chance, are you still outside?");
 MsgDisp("主人公","Yeah...
-Um, I——");
+Um, I—");
 VoicePlay("B100500000_05_010");
 MsgDisp("Hiiragi","I'm very sorry...
 For having that kind of attitude.");
@@ -23,8 +23,8 @@ VoicePlay("B100500000_05_030");
 MsgDisp("Hiiragi","I'm troubled...
 Then, how about this.");
 VoicePlay("B100500000_05_040");
-MsgDisp("Hiiragi","Only we know what happened today. If we
-both forget, it won't exist in this world.
+MsgDisp("Hiiragi","Only we know what happened today. If we both
+forget, it won't exist in this world.
 I've already forgotten. Now it's your turn.");
 MsgDisp("主人公","Yeah, thank you.");
 VoicePlay("B100500000_05_050");
@@ -33,8 +33,8 @@ With this, we're back to before.");
 MsgDisp("主人公","...I'm glad.");
 VoicePlay("B100500000_05_060");
 MsgDisp("Hiiragi","Can we keep seeing and hearing the same
-things together, and spending time
-together? Like before?");
+things together, and spending time together?
+Like before?");
 MsgDisp("主人公","Yeah.");
 VoicePlay("B100500000_05_070");
 MsgDisp("Hiiragi","I'm glad.

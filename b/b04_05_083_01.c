@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("B040508301_05_000");
-MsgDisp("Hiiragi","When it turns night time, it becomes a
-world of fireflies.");
+MsgDisp("Hiiragi","When it turns night time, it becomes a world
+of fireflies.");
 MsgSel("Are they having a break right now?","I want to see it together▼","Look at me instead of the fireflies!");
 switch (MsgSelRsltGet()){
     case 0:

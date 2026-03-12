@@ -14,7 +14,7 @@ I like it but...)");
     SEWait();
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("P730200001_02_000");
-    MsgDisp("Sassa","Heeー, it's like legit.");
+    MsgDisp("Sassa","Ehh, it's like, legit.");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Legit?");
     ChEye(2,0);

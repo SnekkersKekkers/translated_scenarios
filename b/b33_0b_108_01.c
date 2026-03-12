@@ -16,9 +16,8 @@ ScrFadeIn(1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("B330B10801_01_000");
-MsgDisp("Kazama","Come to think of it, this haunted house
-went under some renovation work last
-month.");
+MsgDisp("Kazama","Come to think of it, this haunted house went
+under some renovation work last month.");
 ChEyeOpenLevel(1,0);
 ChEye(4,1);
 ChMouth(4,3);
@@ -41,8 +40,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B10801_03_010");
-MsgDisp("Honda","My eyes are drawn to the tricks before 
-I feel scared.
+MsgDisp("Honda","My eyes are drawn to the tricks before I feel
+scared.
 I don't often notice the ghosts.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -56,8 +55,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10801_01_010");
-MsgDisp("Kazama","I don't get scared of haunted houses in
-the first place.");
+MsgDisp("Kazama","I don't get scared of haunted houses in the
+first place.");
 MsgDisp("主人公","Ughh...");
 ChEye(1,4);
 ChMouth(1,3);
@@ -65,7 +64,7 @@ ChMotion(1,0,1);
 VoicePlay("B330B10801_01_020");
 MsgDisp("Kazama","But, it can't be helped.
 For the sake of the scaredy cat
-especially——");
+especially—");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

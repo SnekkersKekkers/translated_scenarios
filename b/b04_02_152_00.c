@@ -36,8 +36,7 @@ That's not the darts I know.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040215200_02_030");
-    MsgDisp("Sassa","That's how you start with anything after
-all.");
+    MsgDisp("Sassa","That's how you start with anything after all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

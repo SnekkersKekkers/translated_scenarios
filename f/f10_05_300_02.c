@@ -17,12 +17,12 @@ ChMotion(5,4);
 VoicePlay("F100530002_05_010");
 MsgDisp("Hiiragi","Ah, that is also a fun greeting.");
 VoicePlay("F100530002_39_010");
-MsgDisp("Student B","Yoー!");
+MsgDisp("Student B","Yo—!");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100530002_05_020");
-MsgDisp("Hiiragi","Yoー");
+MsgDisp("Hiiragi","Yo—");
 MsgDisp("主人公","Hehe.
 Looks like you've learned another
 greeting, ｛Hiiragi＊＊＊｝?");
@@ -40,7 +40,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100530002_05_040");
-MsgDisp("Hiiragi","Yoー");
+MsgDisp("Hiiragi","Yo—");
 ChPosition(5,1);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();

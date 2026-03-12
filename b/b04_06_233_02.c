@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040623302_06_010");
-    MsgDisp("Himuro","Yeah. I might mistakenly think I'm in love
-with you. What about you? Would you be
-mistaken?");
+    MsgDisp("Himuro","Yeah.
+I might mistakenly think I'm in love with
+you. What about you? Would you be mistaken?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -70,16 +70,15 @@ into.");
         ChMotion(6,0);
         VoicePlay("B040623302_06_060");
         MsgDisp("Himuro","The suspension bridge effect is merely the
-brain being mistaken, you'll snap out of
-it before long.");
+brain being mistaken, you'll snap out of it
+before long.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         ChCheek(6,0);
         VoicePlay("B040623302_06_070");
-        MsgDisp("Himuro","If you think about it, there's no value in
-an excitement that's only limited to a
-moment.");
+        MsgDisp("Himuro","If you think about it, there's no value in an
+excitement that's only limited to a moment.");
         MsgDisp("主人公","What if it wasn't limited to a moment?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -88,8 +87,7 @@ moment.");
         MsgDisp("Himuro","I'll keep quiet about that.
 You're free to come up with your own
 conclusions based on the situation.");
-        MsgDisp("主人公","I see...so, did your heart race,
-｛Himuro＊＊｝?");
+        MsgDisp("主人公","I see...so, did your heart race, ｛Himuro＊＊｝?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

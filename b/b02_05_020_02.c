@@ -8,8 +8,8 @@ What is it?");
 ChMouth(5,2);
 ChMotion(5,2);
 VoicePlay("B020502002_05_010");
-MsgDisp("Hiiragi","I never thought I would have any
-connection to clothes like those.");
+MsgDisp("Hiiragi","I never thought I would have any connection
+to clothes like those.");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B020502002_05_020");

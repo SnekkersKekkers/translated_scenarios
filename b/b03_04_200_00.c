@@ -7,8 +7,9 @@ ChEyeOpenLevel(4,7);
 ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030420000_04_000");
-MsgDisp("Nanatsumori","So much snow! I think I'll freeze to death
-if I take photos...Brr∈");
+MsgDisp("Nanatsumori","So much snow!
+I think I'll freeze to death if I take
+photos...Brr∈");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

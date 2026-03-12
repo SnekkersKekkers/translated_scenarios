@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B060200005_02_000");
-MsgDisp("Sassa","I know it's a bit late to say this, but
-we were just here, weren't we?
+MsgDisp("Sassa","I know it's a bit late to say this, but we
+were just here, weren't we?
 Did you forget something?");
 MsgDispSksp(1,#1);
 MsgDisp("主人公","(Ah, I made a mistake.

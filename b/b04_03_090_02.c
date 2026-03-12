@@ -6,8 +6,8 @@ ChMotion(3,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040309002_03_000");
-MsgDisp("Honda","Did you know about how if you talk to
-plants, they'll grow quicker?");
+MsgDisp("Honda","Did you know about how if you talk to plants,
+they'll grow quicker?");
 MsgSel("If you talk to them gently, they'll grow up strong, huh?","There's no way they understand words though?","It's good to make them listen to music too, right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -32,8 +32,8 @@ Let's try that next time.");
         DateRateSet(0);
         ChSet(3,2);
         VoicePlay("B040309002_03_020");
-        MsgDisp("Honda","It's not the words, but the feelings
-that'll be conveyed?");
+        MsgDisp("Honda","It's not the words, but the feelings that'll
+be conveyed?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -58,8 +58,8 @@ giant tree?");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040309002_03_050");
-        MsgDisp("Honda","Yeppers, no matter how silly a story may
-be, it's worth thinking about.");
+        MsgDisp("Honda","Yeppers, no matter how silly a story may be,
+it's worth thinking about.");
         ChSet(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040309002_03_060");
@@ -70,8 +70,7 @@ this... you're the best!");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040309002_03_070");
-        MsgDisp("Honda","The louder the voice, the bigger you
-grow!");
+        MsgDisp("Honda","The louder the voice, the bigger you grow!");
         MsgDisp("主人公","(｛Honda＊＊｝, I'm not a plant.)");
         break ;
         default :
@@ -83,8 +82,8 @@ grow!");
     DateRateSet(4);
     ChSet(3,3);
     VoicePlay("B040309002_03_080");
-    MsgDisp("Honda","Right right, they say playing classical
-music makes the fruit sweeter.");
+    MsgDisp("Honda","Right right, they say playing classical music
+makes the fruit sweeter.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

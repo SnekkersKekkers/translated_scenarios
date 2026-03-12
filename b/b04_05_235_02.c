@@ -89,9 +89,8 @@ haunted house.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523501_05_090");
-        MsgDisp("Hiiragi","Hmm, but you're a mix of fun and cuteness,
-so I guess you're not that scary after
-all.");
+        MsgDisp("Hiiragi","Hmm, but you're a mix of fun and cuteness, so
+I guess you're not that scary after all.");
         MsgDisp("主人公","Umm, there's no need for the \"fun\" part.");
         break ;
         default :

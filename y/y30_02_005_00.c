@@ -51,7 +51,7 @@ MsgDisp("","There's a mark 200 meters ahead on
 the beach. The training involves
 turning back there and sprinting back
 with full effort.");
-MsgDisp("主人公","\"Reaーdy——\"");
+MsgDisp("主人公","\"Rea—dy—\"");
 SEPlay("EV_SE_553");
 MsgDisp("","(Go!)");
 SEPlay("EV_SE_580",0,0.9);
@@ -70,7 +70,7 @@ MsgDisp("Sassa","\"Alright, turn around! ...hm?\"");
 MsgDisp("","Over there, there's a message she
 wrote in the sand.");
 MsgClear();
-MsgDisp("","——\"Do your best▼\".");
+MsgDisp("","—\"Do your best▼\".");
 MsgClear();
 VoicePlay("Y300200500_02_040");
 MsgDisp("Sassa","\"Ohh, I'm fired up!\"");
@@ -79,14 +79,14 @@ playing with me, as if inspired by my
 earnest shout, ran straight for the
 finish line.");
 MsgDisp("","I can't possibly keep up with them,
-but with such a message——");
+but with such a message—");
 MsgClear();
 MsgDisp("","Waving at me, the smile I love so
 much is getting closer.");
 MsgDisp("","She's shining brightly in the morning
 sun...");
 VoicePlay("Y300200500_02_050");
-MsgDisp("Sassa","\"Alriーght, I'll run along and hug
+MsgDisp("Sassa","\"Alri—ght, I'll run along and hug
 her.
 Wait for me...!\"");
 MsgClear();

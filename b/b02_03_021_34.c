@@ -13,5 +13,5 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B020302134_03_010");
 MsgDisp("Honda","Not only do I never get tired of it, but I
 fall more in love every time...");
-MsgDisp("主人公","(｛Honda＊＊｝ seems to really like
-these clothes?)");
+MsgDisp("主人公","(｛Honda＊＊｝ seems to really like these
+clothes?)");

@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(1);
     ChMotion(5,2);
     VoicePlay("B040511101_05_010");
-    MsgDisp("Hiiragi","So that's why more people are watching
-me...
+    MsgDisp("Hiiragi","So that's why more people are watching me...
 Haa, now I really can't afford to fall...");
     MsgDateResultDisp();
     break ;
@@ -24,8 +23,9 @@ Haa, now I really can't afford to fall...");
     DateRateSet(3);
     ChEye(5,4);
     VoicePlay("B040511101_05_020");
-    MsgDisp("Hiiragi","Thank you. That's right. I can't take a
-break from the stage or school.");
+    MsgDisp("Hiiragi","Thank you.
+That's right. I can't take a break from the
+stage or school.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

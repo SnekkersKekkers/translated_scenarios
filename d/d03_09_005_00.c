@@ -101,7 +101,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
 MsgDisp("主人公","Eh?
-Kuya-san, where did you——");
+Kuya-san, where did you—");
 MsgDisp("主人公","(He's gone...)");
 MsgClose();
 ScrFadeOut(0);

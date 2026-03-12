@@ -12,8 +12,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B030523002_05_000");
-MsgDisp("Hiiragi","Ah, it's about time for the Night Parade
-to start.
+MsgDisp("Hiiragi","Ah, it's about time for the Night Parade to
+start.
 Did you want to watch it?");
 MsgSel("Yeah, I want to","Sorry, today is a bit...");
 switch (MsgSelRsltGet()){
@@ -37,9 +37,9 @@ Let's watch it from the best spot.");
     ChMotion(5,2);
     ChEyeOpenLevel(5,8);
     VoicePlay("B030523002_05_020");
-    MsgDisp("Hiiragi","I see...That's unfortunate.
-It's hard to leave, but it can't be
-helped.");
+    MsgDisp("Hiiragi","I see...
+That's unfortunate.
+It's hard to leave, but it can't be helped.");
     MsgDispSksp(0);
     break ;
     default :

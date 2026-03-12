@@ -18,8 +18,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30401_06_000");
 MsgDisp("Himuro","It was Kojiro-sensei who decided on this
-place. You must've had some intention in
-mind right?");
+place.
+You must've had some intention in mind right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -72,10 +72,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C30401_05_010");
-MsgDisp("Hiiragi","That may be true. Mikage-sensei, I've
-heard that the spring water here is the
-source of its power. Please try touching
-it.");
+MsgDisp("Hiiragi","That may be true. Mikage-sensei, I've heard
+that the spring water here is the source of
+its power. Please try touching it.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -92,10 +91,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30401_05_020");
-MsgDisp("Hiiragi","That's right, Inori. Instead of
-sprinkling, it would be more effective if
-Mikage-sensei took it directly into his
-body.");
+MsgDisp("Hiiragi","That's right, Inori. Instead of sprinkling,
+it would be more effective if Mikage-sensei
+took it directly into his body.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

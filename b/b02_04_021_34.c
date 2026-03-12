@@ -13,9 +13,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B020402134_04_010");
-MsgDisp("Nanatsumori","Of course. Aren't you an elegant and
-refined high school student? I think
-that's extremely rare.");
+MsgDisp("Nanatsumori","Of course.
+Aren't you an elegant and refined high school
+student? I think that's extremely rare.");
 MsgDisp("主人公","(It's rare...
-But ｛Nanatsumori＊｝ seems to have really
-come to like these clothes!)");
+But ｛Nanatsumori＊｝ seems to have really come
+to like these clothes!)");

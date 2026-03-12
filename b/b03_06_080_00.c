@@ -5,8 +5,7 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030608000_06_000");
-MsgDisp("Himuro","I hope there aren't any loud people
-around.");
+MsgDisp("Himuro","I hope there aren't any loud people around.");
 MsgDisp("主人公","You should loosen up too, ｛Himuro＊＊｝.");
 MsgDispSksp(1,0);
 ChEye(6,0);

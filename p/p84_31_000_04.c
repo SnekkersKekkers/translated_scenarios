@@ -27,7 +27,7 @@ ChMotion(31,2);
 VoicePlay("P843100004_31_030");
 MsgDisp("Goro","It's fine!
 I'll pour this happy feeling all over
-him—— No, I'll share it with him!");
+him— No, I'll share it with him!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);

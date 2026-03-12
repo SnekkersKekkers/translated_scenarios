@@ -124,7 +124,7 @@ ChMotion(6,1);
 VoicePlay("F100630002_06_070");
 MsgDisp("Himuro","...Ha∋
 I didn't really call you that just now, I
-was just repeating it to yo——");
+was just repeating it to yo—");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

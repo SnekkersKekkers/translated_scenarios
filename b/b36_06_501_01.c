@@ -18,8 +18,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360650101_06_010");
-MsgDisp("Himuro","The two of them were really fawning over
-you today.");
+MsgDisp("Himuro","The two of them were really fawning over you
+today.");
 MsgDisp("主人公","Eh!");
 ChEye(6,1);
 ChMouth(6,0);
@@ -43,14 +43,13 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650101_06_040");
 MsgDisp("Himuro","I was also watching you.
-So I understand what everyone was looking
-at.");
+So I understand what everyone was looking at.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650101_06_050");
-MsgDisp("Himuro","...But I still don't know the most
-important part.");
+MsgDisp("Himuro","...But I still don't know the most important
+part.");
 MsgDisp("主人公","Important part...?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -89,8 +88,7 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B360650101_06_110");
 MsgDisp("Himuro","...Thanks.
-I almost lost sight of something
-important.");
+I almost lost sight of something important.");
 MsgDisp("主人公","(｛Himuro＊＊｝...)");
 BGMStop();
 MsgClose();

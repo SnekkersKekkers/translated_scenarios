@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,1);
     VoicePlay("B040104600_01_000");
     MsgDisp("Kazama","He's a well-known pianist in Europe.
-If he weren't a Haba High alum, you'd
-never hear him in a venue this close.");
+If he weren't a Haba High alum, you'd never
+hear him in a venue this close.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +36,8 @@ Calling that performance just 'okay'.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040104600_01_020");
     MsgDisp("Kazama","Ugh, you...
-If you don't understand it, you don't have
-to force a review on it.");
+If you don't understand it, you don't have to
+force a review on it.");
     MsgDateResultDisp();
     break ;
     default :

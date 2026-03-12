@@ -45,8 +45,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040201102_02_030");
-        MsgDisp("Sassa","I don't think so, but I think they
-probably have days like that.
+        MsgDisp("Sassa","I don't think so, but I think they probably
+have days like that.
 Couple only days.");
         MsgDisp("主人公","Eh, what if it's like that today...");
         ChEye(2,3);
@@ -56,8 +56,8 @@ Couple only days.");
         VoicePlay("B040201102_02_040");
         MsgDisp("Sassa","It's not a big deal, right?
 It's not like there's a certificate.");
-        MsgDisp("主人公","That's true, proving it would be
-difficult, I guess.");
+        MsgDisp("主人公","That's true, proving it would be difficult, I
+guess.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

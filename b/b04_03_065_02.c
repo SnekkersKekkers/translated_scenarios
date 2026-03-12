@@ -46,8 +46,7 @@ stomach.");
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040306502_03_030");
-        MsgDisp("Honda","A trade off for the large-flowered
-fireworks.
+        MsgDisp("Honda","A trade off for the large-flowered fireworks.
 We can't have everything and anything.");
         MsgDateResultDisp();
         break ;
@@ -85,9 +84,9 @@ This is lemongrass.");
         MsgDisp("Honda","Yep yep.
 It's a herb with insect-repellent effects.
 My own specially mixed, original cocktail!");
-        MsgDisp("主人公","Amazing! It has a nice smell, and
-mosquitoes won't go near it. ｛Honda＊＊｝,
-thank you.");
+        MsgDisp("主人公","Amazing!
+It has a nice smell, and mosquitoes won't go
+near it. ｛Honda＊＊｝, thank you.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);
@@ -105,9 +104,9 @@ Do you feel anything else?");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040306502_03_090");
-        MsgDisp("Honda","They say the compounds in lemongrass
-might work as a love potion...or
-something like that?");
+        MsgDisp("Honda","They say the compounds in lemongrass might
+work as a love potion...or something like
+that?");
         MsgDisp("主人公","Eehhh!");
         ChSet(3,4);
         ChCheek(3,10);

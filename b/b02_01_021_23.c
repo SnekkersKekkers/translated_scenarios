@@ -9,7 +9,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102123_01_010");
-MsgDisp("Kazama","Yeah. It's the perfect balance of cute and
-modern, right? That's nice.");
+MsgDisp("Kazama","Yeah.
+It's the perfect balance of cute and modern,
+right? That's nice.");
 MsgDisp("主人公","(Yay!
 ｛Kazama＊＊｝ praised me!)");

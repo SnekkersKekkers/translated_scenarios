@@ -25,28 +25,28 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700001_07_110");
-MsgDisp("Mikage","If he needed me, there are places I'm
-more likely to be, like the science prep
-room or the gardening club, right?");
+MsgDisp("Mikage","If he needed me, there are places I'm more
+likely to be, like the science prep room or
+the gardening club, right?");
 MsgDisp("主人公","Now that you mention it...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_120");
 MsgDisp("Mikage","Right?
-You're a year older than him, so you
-should be able to pick up on that.");
+You're a year older than him, so you should
+be able to pick up on that.");
 MsgDisp("主人公","Umm, so what should I do...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_130");
-MsgDisp("Mikage","If he shows up looking like he's looking
-for me, just go talk to him.
+MsgDisp("Mikage","If he shows up looking like he's looking for
+me, just go talk to him.
 That's enough.");
 MsgDisp("主人公","Yes.
-But, ｛Mikage＊＊｝ why are you so close
-to ｛Himuro＊＊｝?");
+But, ｛Mikage＊＊｝ why are you so close to
+｛Himuro＊＊｝?");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,4);
@@ -59,8 +59,8 @@ ChMotion(7,1);
 VoicePlay("B070700001_07_150");
 MsgDisp("Mikage","To overthrow Vice Principal Himuro.");
 MsgDisp("主人公","(Overthrow...
-What do ｛Mikage＊＊｝ and ｛Himuro＊＊｝
-intend to do together?)");
+What do ｛Mikage＊＊｝ and ｛Himuro＊＊｝ intend
+to do together?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

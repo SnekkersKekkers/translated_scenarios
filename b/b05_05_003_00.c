@@ -28,8 +28,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B050500300_05_020");
-MsgDisp("Hiiragi","After this it seems that the Igloo Cafe
-next to the rest house will be open.");
+MsgDisp("Hiiragi","After this it seems that the Igloo Cafe next
+to the rest house will be open.");
 MsgDisp("主人公","That sounds really fun...!");
 SEPlay("EV_SE_774");
 BGMStop();
@@ -48,7 +48,7 @@ StlEye(5,1);
 StlMouth(5,0);
 ScrFadeIn(0);
 VoicePlay("B050500300_05_030");
-MsgDisp("Hiiragi","Well then, I'm glad today ended safely——");
+MsgDisp("Hiiragi","Well then, I'm glad today ended safely—");
 StlEyeOpenLevel(5,5);
 StlMouth(5,1);
 VoicePlay("B050500300_05_040");
@@ -64,9 +64,9 @@ MsgDisp("主人公","Yeah, it's delicious.");
 StlEye(5,1);
 StlMouth(5,0);
 VoicePlay("B050500300_05_060");
-MsgDisp("Hiiragi","A long time ago, I went to school in
-Tohoku for a while. We built an igloo in
-the schoolyard.");
+MsgDisp("Hiiragi","A long time ago, I went to school in Tohoku
+for a while.
+We built an igloo in the schoolyard.");
 MsgDisp("主人公","Eh...that's amazing!");
 StlEyeOpenLevel(5,5);
 StlMouth(5,0);
@@ -85,8 +85,8 @@ StlEyeOpenLevel(5,5,1);
 StlMouth(5,0);
 VoicePlay("B050500300_05_090");
 MsgDisp("Hiiragi","You're making that face again.
-My old stories pretty much always end
-like this.");
+My old stories pretty much always end like
+this.");
 StlEyeOpenLevel(5,#1);
 StlMouth(5,1);
 VoicePlay("B050500300_05_100");
@@ -97,8 +97,8 @@ StlEye(5,0);
 StlMouth(5,0);
 VoicePlay("B050500300_05_110");
 MsgDisp("Hiiragi","Look though.
-It's been a few years but I was finally
-able to go inside an igloo.");
+It's been a few years but I was finally able
+to go inside an igloo.");
 StlEye(5,1);
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,1);
@@ -122,8 +122,8 @@ MsgClose();
 ScrFadeOut(0,0);
 StlClose();
 MsgDisp("主人公","(Thank you, ｛Hiiragi＊＊＊｝.
-Including the skiing, I also got to make
-some wonderful memories...)");
+Including the skiing, I also got to make some
+wonderful memories...)");
 MsgClose();
 Wait(40,0);
 ChPrmTblAdd(5,0);

@@ -16,12 +16,11 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0);
 VoicePlay("B020802001_08_020");
-MsgDisp("Shirahane","For all the citizens of Habataki City,
-he's our proud model.");
+MsgDisp("Shirahane","For all the citizens of Habataki City, he's
+our proud model.");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,4);
 VoicePlay("B020802001_08_030");
 MsgDisp("Shirahane","...If I buy one too, wanna be matchin'?");
-MsgDisp("主人公","(Hehe, ｛Daichi＊＊｝ and I can be
-matching!)");
+MsgDisp("主人公","(Hehe, ｛Daichi＊＊｝ and I can be matching!)");

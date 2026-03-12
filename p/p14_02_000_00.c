@@ -4,7 +4,7 @@ ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("P140200000_02_000");
 MsgDisp("Sassa","Yahoo, it's the finish line!
-That took some timeー");
+That took some time—");
 MsgDisp("主人公","｛Sassa＊＊｝, how was it?");
 ChEye(2,0);
 ChMouth(2,3);

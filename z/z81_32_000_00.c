@@ -34,7 +34,7 @@ MsgDisp("","(pat pat)");
 ChEye(32,2);
 ChMouth(32,1);
 VoicePlay("Z813200000_32_020");
-MsgDisp("VP Himuro","W-What are youー");
+MsgDisp("VP Himuro","W-What are you—");
 MsgDisp("主人公","Um, there was dust on your necktie, so...");
 ChEye(32,0);
 ChMouth(32,0);

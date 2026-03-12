@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(3,254,3,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D100300000_03_000");
-MsgDisp("Honda","Good Morningー!");
+MsgDisp("Honda","Good Morning—!");
 MsgDisp("主人公","Morning.
 Hehe, you're energetic as always.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

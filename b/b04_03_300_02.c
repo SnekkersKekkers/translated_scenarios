@@ -8,8 +8,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B040330002_03_000");
-MsgDisp("Honda","There's a separate room to raise insects
-and fish.");
+MsgDisp("Honda","There's a separate room to raise insects and
+fish.");
 MsgSel("Are they ｛Honda＊＊｝'s pets?","Won't they run away?","Haa, that's good.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -34,8 +34,8 @@ But I give them names.");
     ChMotion(3,3);
     VoicePlay("B040330002_03_020");
     MsgDisp("Honda","They have, they have.
-When I feed them, I sometimes forget to
-close the lid.");
+When I feed them, I sometimes forget to close
+the lid.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -70,21 +70,21 @@ them.");
         ChMouth(3,0);
         ChMotion(3,0);
         VoicePlay("B040330002_03_050");
-        MsgDisp("Honda","Then, let's put the creatures aside, and
-try some fortune telling?");
+        MsgDisp("Honda","Then, let's put the creatures aside, and try
+some fortune telling?");
         MsgDisp("主人公","Eh, ｛Honda＊＊｝, you can fortune-tell?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040330002_03_060");
         MsgDisp("Honda","Yep yep, yeah, I like the concept based on
-the Five Elements theory and I've read
-quite a few books on it");
+the Five Elements theory and I've read quite
+a few books on it");
         ChMotion(3,4);
         VoicePlay("B040330002_03_070");
-        MsgDisp("Honda","But it's more about compatibility, I
-think. It's the idea that everything in
-the world is connected and has a flow.");
+        MsgDisp("Honda","But it's more about compatibility, I think.
+It's the idea that everything in the world is
+connected and has a flow.");
         MsgDisp("主人公","｛Honda＊＊｝, that's amazing.");
         ChEye(3,3);
         ChMouth(3,3);
@@ -98,9 +98,9 @@ That's the positive flow.");
         ChMotion(3,4);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040330002_03_090");
-        MsgDisp("Honda","The people with whom this flow works
-smoothly are the ones you're compatible
-with. So, you and I are a perfect match.");
+        MsgDisp("Honda","The people with whom this flow works smoothly
+are the ones you're compatible with.
+So, you and I are a perfect match.");
         MsgDisp("主人公","(Umm...is this fortune telling?)");
         break ;
         default :

@@ -11,8 +11,8 @@ MsgDisp("主人公","Eh, you mean this ｛流行アクセサリ名｝?");
 ChMotion(4,3,1);
 ChEyeOpenLevel(4,#1);
 VoicePlay("B020400010_04_010");
-MsgDisp("Nanatsumori","Right. Seeing you wearing trendy items is
-far more satisfying than just seeing it on
-the net or in magazines.");
+MsgDisp("Nanatsumori","Right. Seeing you wearing trendy items is far
+more satisfying than just seeing it on the
+net or in magazines.");
 MsgDisp("主人公","(Yay!
 ｛Nanatsumori＊｝ praised me▼)");

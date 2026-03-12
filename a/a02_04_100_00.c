@@ -164,7 +164,7 @@ VoicePlay("A020410000_04_190");
 MsgDisp("Nanatsumori","Nice.
 I'm counting on you.");
 MsgDisp("主人公","Hehe.
-See you later, N——");
+See you later, N—");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -173,7 +173,7 @@ MsgDisp("Nanatsumori","Wait...
 You haven't told me your name∋");
 MsgDisp("主人公","Oh that's right!
 I'm ｛主人公姓名｝.
-See you later, NAN——");
+See you later, NAN—");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,4,1);

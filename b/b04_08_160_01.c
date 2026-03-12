@@ -6,8 +6,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 VoiceEVSPlay(8);
 VoicePlay("B040816001_08_000");
-MsgDisp("Shirahane","｛主人公｝, shall we go against each other
-on a fighting game?");
+MsgDisp("Shirahane","｛主人公｝, shall we go against each other on
+a fighting game?");
 MsgSel("I won't lose!","A fighting game is a little...","Could you teach me instead of competing?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(8,3,1);
     VoicePlay("B040816001_08_010");
     MsgDisp("Shirahane","Alright!
-My serious side will come out for the
-first time in a while!");
+My serious side will come out for the first
+time in a while!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

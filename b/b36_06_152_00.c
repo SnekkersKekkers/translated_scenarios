@@ -43,15 +43,14 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("B360615200_06_050");
 MsgDisp("Himuro","When the four of us were playing together,
-you looked like you were having so much
-fun.");
+you looked like you were having so much fun.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360615200_06_060");
-MsgDisp("Himuro","I was worried that once it was just the
-two of us, you wouldn't enjoy as much.");
+MsgDisp("Himuro","I was worried that once it was just the two
+of us, you wouldn't enjoy as much.");
 MsgDisp("主人公","That's not the case...");
 ChEye(6,0);
 ChMouth(6,4);
@@ -62,8 +61,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360615200_06_080");
-MsgDisp("Himuro","Now that I'm relieved, all that
-unnecessary tension is gone.");
+MsgDisp("Himuro","Now that I'm relieved, all that unnecessary
+tension is gone.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);

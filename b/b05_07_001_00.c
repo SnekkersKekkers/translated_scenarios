@@ -27,8 +27,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B050700100_07_020");
-MsgDisp("Mikage","Is it because I gave in to your onslaught
-the other day?");
+MsgDisp("Mikage","Is it because I gave in to your onslaught the
+other day?");
 MsgDisp("主人公","Are you...talking about skinship?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -86,8 +86,8 @@ SEStop("EV_SE_781",0.4);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050700100_07_090");
-MsgDisp("Mikage","I don't have the courage, so I couldn't
-even take a single step.");
+MsgDisp("Mikage","I don't have the courage, so I couldn't even
+take a single step.");
 MsgDisp("主人公","...What's wrong?");
 ChEye(7,2);
 ChMouth(7,3);
@@ -98,9 +98,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B050700100_07_110");
-MsgDisp("Mikage","Even though I'm such a coward, thanks to
-you I was able to take a small step
-today.");
+MsgDisp("Mikage","Even though I'm such a coward, thanks to you
+I was able to take a small step today.");
 MsgDisp("主人公","Take a step?");
 ChEye(7,0);
 ChMouth(7,0);

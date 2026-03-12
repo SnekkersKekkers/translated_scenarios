@@ -6,5 +6,5 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("B130300003_03_000");
 MsgDisp("Honda","Oh, right, be careful with your skirt!
-Make sure to hold it down properly. My
-sister had an incident with hers once.");
+Make sure to hold it down properly.
+My sister had an incident with hers once.");

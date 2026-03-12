@@ -7,9 +7,9 @@ ScrFadeIn(0);
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B040508502_05_000");
-MsgDisp("Hiiragi","Haaー.
+MsgDisp("Hiiragi","Haa—.
 We came on such a cold day didn't we?");
-MsgSel("It's cold because you think it's cold!","Haaー, haaー, my breath is totally white!","Shall we hold hands?");
+MsgSel("It's cold because you think it's cold!","Haa—, haa—, my breath is totally white!","Shall we hold hands?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -74,8 +74,8 @@ your breath.");
         VoicePlay("B040508502_05_080");
         MsgDisp("Hiiragi","Ah, please excuse me.
 Winter is a wonderful thing, isn't it?");
-        MsgDisp("主人公","(Hey, ｛Hiiragi＊＊＊｝, you say weird things
-from time to time don't you...)");
+        MsgDisp("主人公","(Hey, ｛Hiiragi＊＊＊｝, you say weird things from
+time to time don't you...)");
         break ;
         default :
         DbgAssert(1);
@@ -89,8 +89,8 @@ from time to time don't you...)");
     ChMotion(5,3);
     VoicePlay("B040508502_05_090");
     MsgDisp("Hiiragi","Sounds good.
-How about we hold hands and walk around
-the spring several times?");
+How about we hold hands and walk around the
+spring several times?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

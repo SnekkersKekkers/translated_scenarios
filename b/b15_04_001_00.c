@@ -13,22 +13,21 @@ ChMotion(4,1,1);
 VoicePlay("B150400100_04_010");
 MsgDisp("Nanatsumori","I warned you before!
 Yes, wait.");
-MsgDisp("主人公","Umm, that I can't randomly touch
-people...?");
+MsgDisp("主人公","Umm, that I can't randomly touch people...?");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B150400100_04_020");
 MsgDisp("Nanatsumori","Wrong.
-Girls shouldn't touch guys' bodies with
-that innocent look on their face.");
+Girls shouldn't touch guys' bodies with that
+innocent look on their face.");
 MsgDisp("主人公","Yes...");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B150400100_04_030");
-MsgDisp("Nanatsumori","...Ah, but I said that \"It's fine if it's
-me\" didn't I...");
+MsgDisp("Nanatsumori","...Ah, but I said that \"It's fine if it's me\"
+didn't I...");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -40,13 +39,13 @@ ChEye(4,4);
 ChMouth(4,4);
 ChCheek(4,8);
 VoicePlay("B150400100_04_050");
-MsgDisp("Nanatsumori","Skinship is fine, but If you go too far,
-my heart will also start strangely racing.");
+MsgDisp("Nanatsumori","Skinship is fine, but If you go too far, my
+heart will also start strangely racing.");
 ChMotion(4,2,1);
 VoicePlay("B150400100_04_060");
 MsgDisp("Nanatsumori","When you touch me like that just now,
-something inside of me feels like it's
-going to break...");
+something inside of me feels like it's going
+to break...");
 MsgDisp("主人公","I'll be careful.
 I'm sorry, okay?");
 ChEye(4,4);

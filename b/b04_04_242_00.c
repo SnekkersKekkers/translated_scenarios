@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040424200_04_010");
     MsgDisp("Nanatsumori","Oh, oh—.
-I'd like to say \"leave it to me\", but
-I'm the indoors type...");
+I'd like to say \"leave it to me\", but I'm the
+indoors type...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +29,7 @@ I'm the indoors type...");
     ChMotion(4,2,1);
     VoicePlay("B040424200_04_020");
     MsgDisp("Nanatsumori","Seriously∋
-I didn't think about it that
-hard...");
+I didn't think about it that hard...");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -39,9 +38,9 @@ hard...");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040424200_04_030");
-    MsgDisp("Nanatsumori","Is that how it looks? Then, you should
-help out too. That's what camping is all
-about, isn't it?");
+    MsgDisp("Nanatsumori","Is that how it looks?
+Then, you should help out too.
+That's what camping is all about, isn't it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

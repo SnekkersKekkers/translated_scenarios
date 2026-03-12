@@ -68,15 +68,15 @@ cleaning.");
         ChMotion(5,4);
         VoicePlay("B040530002_05_070");
         MsgDisp("Hiiragi","Yes, that's it.
-I like tidying up, especially when things
-are really messy.");
+I like tidying up, especially when things are
+really messy.");
         MsgDisp("主人公","Hehe, that's right.");
         ChEye(5,2);
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040530002_05_080");
-        MsgDisp("Hiiragi","Yes, as reality is filled with problems
-you cannot tidy away...");
+        MsgDisp("Hiiragi","Yes, as reality is filled with problems you
+cannot tidy away...");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040530002_05_090");
@@ -88,8 +88,8 @@ troupe?");
         ChMotion(5,4);
         VoicePlay("B040530002_05_100");
         MsgDisp("Hiiragi","Partly, but there's also something else
-lately, a special presence I have no idea
-how to handle.");
+lately, a special presence I have no idea how
+to handle.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040530002_05_110");
@@ -99,9 +99,9 @@ Getting tidied away?");
         ChEye(5,3);
         ChMotion(5,3);
         VoicePlay("B040530002_05_120");
-        MsgDisp("Hiiragi","Is that it? You truly are an interesting
-and wonderful person. I don't think you
-can simply be put away with a lint roller.");
+        MsgDisp("Hiiragi","Is that it? You truly are an interesting and
+wonderful person. I don't think you can
+simply be put away with a lint roller.");
         MsgDisp("主人公","A lint roller?");
         ChEye(5,4);
         ChMotion(5,0);
@@ -123,9 +123,9 @@ What is he planning to do with me...?)");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("B040530002_05_140");
-    MsgDisp("Hiiragi","Yes, there are all sorts of cleaning
-supplies here. But since I'm not usually
-here, the room doesn't get dirty.");
+    MsgDisp("Hiiragi","Yes, there are all sorts of cleaning supplies
+here. But since I'm not usually here, the
+room doesn't get dirty.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

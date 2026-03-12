@@ -16,9 +16,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B360750301_07_010");
-MsgDisp("Mikage","Just a moment ago there were four of us
-and soon I'll have to send you off...
-Ahー, it's so sad.");
+MsgDisp("Mikage","Just a moment ago there were four of us and
+soon I'll have to send you off...
+Ah—, it's so sad.");
 MsgDisp("主人公","Umm...if you don't mind, would you like to
 come over for dinner?");
 ChEye(7,0);
@@ -26,8 +26,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B360750301_07_020");
 MsgDisp("Mikage","Eh...
-Even I don't think I can be
-that bold～");
+Even I don't think I can be that bold～");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -38,8 +37,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360750301_07_040");
-MsgDisp("Mikage","I feel like if I was a bit more bold, I'd
-be able to do it.");
+MsgDisp("Mikage","I feel like if I was a bit more bold, I'd be
+able to do it.");
 MsgDisp("主人公","Hehe, please come over any time.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -47,9 +46,8 @@ ChMotion(7,5);
 VoicePlay("B360750301_07_050");
 MsgDisp("Mikage","Ah, it's no good.
 The obstacle is tougher than expected.");
-MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ were
-there, I wonder if ｛Mikage＊＊｝ would
-come.)");
+MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ were there, I
+wonder if ｛Mikage＊＊｝ would come.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -11,7 +11,7 @@ ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,0,4,#1,#1,0,0,0,60);
 VoicePlay("P540400002_04_000");
-MsgDisp("Nanatsumori","Amazingー...");
+MsgDisp("Nanatsumori","Amazing—...");
 MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 It went well.");
 ChEye(4,0);

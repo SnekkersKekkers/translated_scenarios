@@ -6,7 +6,8 @@ ScrFadeIn(0);
 VoicePlay("B150500500_05_000");
 MsgDisp("Hiiragi","Haa...wait.
 Please wait.");
-MsgDisp("主人公","∋ Um, ｛Hiiragi＊＊＊｝...");
+MsgDisp("主人公","∋
+Um, ｛Hiiragi＊＊＊｝...");
 ChEyeOpenLevel(5,9);
 VoicePlay("B150500500_05_010");
 MsgDisp("Hiiragi","Phew...");

@@ -63,8 +63,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A30500_01_020");
-MsgDisp("Kazama","Yeah, you'll get 60 points with a triple
-20.");
+MsgDisp("Kazama","Yeah, you'll get 60 points with a triple 20.");
 MsgDisp("主人公","So that's how it is!
 Do your best, ｛Himuro＊＊｝!");
 VoicePlay("B330A30500_06_030");
@@ -129,8 +128,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330A30500_06_060");
-MsgDisp("Himuro","It was thanks to the pressure from my
-seniors and you cheering me on.");
+MsgDisp("Himuro","It was thanks to the pressure from my seniors
+and you cheering me on.");
 MsgDisp("主人公","Hehe, that was super cool.");
 ChEye(1,0);
 ChMouth(1,2);

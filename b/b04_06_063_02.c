@@ -5,9 +5,8 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606302_06_000");
-MsgDisp("Himuro","...With this few people around, I can
-once again feel just how vast the ocean
-is.");
+MsgDisp("Himuro","...With this few people around, I can once
+again feel just how vast the ocean is.");
 MsgSel("Really?","...Is it okay if I got a little closer?","Then, let's make some noise!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040606302_06_010");
-    MsgDisp("Himuro","I was mistaken to bring up this sort of
-topic up with you.");
+    MsgDisp("Himuro","I was mistaken to bring up this sort of topic
+up with you.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -63,9 +62,9 @@ To think I would get a response like that.");
         ChMouth(6,3);
         ChMotion(6,3);
         VoicePlay("B040606302_06_050");
-        MsgDisp("Himuro","It's not that we can't...The flow of the
-conversation was clearly weird. But it's
-funny, so I'll go along with it.");
+        MsgDisp("Himuro","It's not that we can't... The flow of the
+conversation was clearly weird.
+But it's funny, so I'll go along with it.");
         ChEye(6,0);
         ChMouth(6,3);
         ChMotion(6,0);

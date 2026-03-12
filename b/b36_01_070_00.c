@@ -46,8 +46,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360107000_01_030");
-MsgDisp("Kazama","Seeing you happy about the bargains that
-is.");
+MsgDisp("Kazama","Seeing you happy about the bargains that is.");
 MsgDisp("主人公","Hey...
 I can buy two for the same price!
 Double the bargain.");
@@ -63,8 +62,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360107000_01_050");
-MsgDisp("Kazama","Right now, I'm the only one who can see
-you smile.");
+MsgDisp("Kazama","Right now, I'm the only one who can see you
+smile.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

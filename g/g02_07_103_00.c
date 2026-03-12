@@ -42,7 +42,7 @@ ChMotion(7,2);
 ChCheek(7,5);
 VoicePlay("G020710300_07_050");
 MsgDisp("Mikage","Thinking about it makes my ears turn
-red——");
+red—");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,0);

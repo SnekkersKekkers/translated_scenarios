@@ -90,7 +90,7 @@ to wear?)");
         case 1:
         VoicePlay("S040600000_06_100");
         MsgDisp("Himuro","Errands or something?
-Just do them another—— ...
+Just do them another— ...
 No, it's nothing.");
         VoicePlay("S040600000_06_110");
         MsgDisp("Himuro","See you later then.");

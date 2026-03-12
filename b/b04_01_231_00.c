@@ -5,8 +5,7 @@ MsgClose();
 ChOpen(1,255,0,0,0,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123100_01_000");
-MsgDisp("Kazama","You had a good look on your face didn't
-you?");
+MsgDisp("Kazama","You had a good look on your face didn't you?");
 MsgSel("That was awesome! I wanna ride again!","Uugh, that was scary...","I wanted a bit more thrill...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +27,8 @@ expressions.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040123100_01_020");
-    MsgDisp("Kazama","I see, you looked like you were having
-quite a lot of fun though.");
+    MsgDisp("Kazama","I see, you looked like you were having quite
+a lot of fun though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

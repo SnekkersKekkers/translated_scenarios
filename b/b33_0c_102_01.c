@@ -72,8 +72,8 @@ VoicePlay("B330C10201_06_020");
 MsgDisp("Himuro","I've never taken Kojiro-sensei's class.");
 ChEye(5,4);
 ChMouth(5,4);
-MsgDisp("主人公","Yeah, this feels like we're in the same
-class as ｛Himuro＊＊｝ now.");
+MsgDisp("主人公","Yeah, this feels like we're in the same class
+as ｛Himuro＊＊｝ now.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -94,8 +94,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10201_07_050");
-MsgDisp("Mikage","Did you invite Inori here so he could get
-a taste of what that would feel like?");
+MsgDisp("Mikage","Did you invite Inori here so he could get a
+taste of what that would feel like?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

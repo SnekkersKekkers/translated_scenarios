@@ -4,7 +4,7 @@ SEPlay("EV_SE_834",0.1);
 ScrFadeIn(0);
 VoicePlay("G110500700_40_000");
 MsgDisp("School Boy","Opposite side!
-Let's goー!");
+Let's go—!");
 MsgDisp("主人公","(The schoolyard is lively...
 It looks like the boys are playing
 soccer.)");

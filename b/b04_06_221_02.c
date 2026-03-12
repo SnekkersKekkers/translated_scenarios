@@ -56,8 +56,7 @@ But that could definitely be true.");
         ChMotion(6,4);
         VoicePlay("B040622102_06_040");
         MsgDisp("Himuro","Next time, you say.
-So do you plan on coming here with me
-again?");
+So do you plan on coming here with me again?");
         MsgDisp("主人公","Eh, are you not, ｛Himuro＊＊｝?");
         ChEye(6,2);
         ChMouth(6,0);
@@ -86,9 +85,9 @@ before that.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040622102_06_080");
-        MsgDisp("Himuro","After coming here a few times with you,
-I've started to think that this place
-isn't so bad after all.");
+        MsgDisp("Himuro","After coming here a few times with you, I've
+started to think that this place isn't so bad
+after all.");
         ChEye(6,3);
         ChMouth(6,4);
         ChMotion(6,0);

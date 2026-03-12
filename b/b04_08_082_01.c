@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(8,4,1);
     VoicePlay("B040808201_08_010");
     MsgDisp("Shirahane","Eh∋
-Don't dump something that unreasonable
-onto me...");
+Don't dump something that unreasonable onto
+me...");
     MsgDateResultDisp();
     break ;
     case 1:

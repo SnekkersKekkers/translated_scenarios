@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040224202_02_010");
-    MsgDisp("Sassa","Ehhhー, you're interested too huh!");
+    MsgDisp("Sassa","Ehhh—, you're interested too huh!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -58,8 +58,8 @@ That's a weird thing to ask.");
         MsgDisp("Sassa","Why?
 Did something happen?");
         MsgDisp("主人公","No.
-It's because ｛Sassa＊＊｝ seemed interested
-in camping alone.");
+It's because ｛Sassa＊＊｝ seemed interested in
+camping alone.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
@@ -70,14 +70,13 @@ in camping alone.");
         ChMotion(2,0);
         VoicePlay("B040224202_02_060");
         MsgDisp("Sassa","Hey, it's not just with camping, even in
-other places, it would be more fun with
-you.");
+other places, it would be more fun with you.");
         MsgDisp("主人公","...Yeah, sorry.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040224202_02_070");
-        MsgDisp("Sassa","Aahー, you tricked me huh!");
+        MsgDisp("Sassa","Aah—, you tricked me huh!");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
@@ -93,8 +92,8 @@ But, thank you.");
         ChEyeOpenLevel(2,0);
         VoicePlay("B040224202_02_090");
         MsgDisp("Sassa","That's no good.
-As a punishment, we'll go overnight
-camping together next!");
+As a punishment, we'll go overnight camping
+together next!");
         MsgDisp("主人公","Ehhh∋");
         break ;
         default :

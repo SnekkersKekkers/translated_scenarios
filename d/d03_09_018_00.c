@@ -34,7 +34,7 @@ MsgDisp("Kuya","...When everything is over, I have something
 I want to tell you.");
 MsgDisp("主人公","Okay.
 ...Huh? What you said on Christmas about it
-all being over, it was about the exam——");
+all being over, it was about the exam—");
 VoicePlay("D030901800_09_060");
 MsgDisp("Kuya","That's not it.
 ...When that time comes, you'll see.");

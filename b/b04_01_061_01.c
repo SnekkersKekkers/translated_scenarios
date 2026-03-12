@@ -6,9 +6,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040106101_01_000");
-MsgDisp("Kazama","You know, visiting in other seasons is
-like visiting a completely different
-world.");
+MsgDisp("Kazama","You know, visiting in other seasons is like
+visiting a completely different world.");
 MsgSel("Everyone's so happy and excited","It's the only time to enjoy swimming in the ocean","Yeah, the sea sparkles in the summer");
 switch (MsgSelRsltGet()){
     case 0:
@@ -32,8 +31,8 @@ yourself.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040106101_01_020");
     MsgDisp("Kazama","And I'm saved by that.
-I wouldn't be able to stand it if it was
-all year-round.");
+I wouldn't be able to stand it if it was all
+year-round.");
     MsgDateResultDisp();
     break ;
     case 2:

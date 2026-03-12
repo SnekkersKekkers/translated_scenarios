@@ -28,7 +28,7 @@ MsgDisp("Mikage","Is that so?
 Thanks to that, I worked up a good sweat.");
 MsgDisp("主人公","(Ah, ｛Mikage＊＊｝.
 If you wipe the sweat with dirty
-hands——)");
+hands—)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(7,0,1,1,0,0);

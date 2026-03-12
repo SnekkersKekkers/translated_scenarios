@@ -70,9 +70,9 @@ You won't catch a cold right?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040608502_06_060");
-        MsgDisp("Himuro","Don't overestimate yourself. If your
-health deteriorates, everyone around you
-will worry. Don't forget.");
+        MsgDisp("Himuro","Don't overestimate yourself.
+If your health deteriorates, everyone around
+you will worry. Don't forget.");
         MsgDisp("主人公","Yeah.");
         ChEye(6,0);
         ChMouth(6,0);
@@ -86,17 +86,15 @@ will worry. Don't forget.");
         ChMotion(6,1);
         VoicePlay("B040608502_06_080");
         MsgDisp("Himuro","...Ha?
-What was the point of saying thanks just
-now?");
+What was the point of saying thanks just now?");
         MsgDisp("主人公","Ehhh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         ChCheek(6,0);
         VoicePlay("B040608502_06_090");
-        MsgDisp("Himuro","I would be happier if you were healthy,
-than if you were to thank me for being
-worried.");
+        MsgDisp("Himuro","I would be happier if you were healthy, than
+if you were to thank me for being worried.");
         MsgDisp("主人公","Yeah...um, well, thanks after all.");
         ChEye(6,0);
         ChMouth(6,0);

@@ -110,7 +110,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you for bringing me home.
-See you later, the——");
+See you later, the—");
 ChEye(9,0);
 ChMouth(9,4);
 VoicePlay("D030900900_09_110");

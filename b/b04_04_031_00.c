@@ -18,9 +18,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040403100_04_010");
-    MsgDisp("Nanatsumori","Was it a yellowtail clown fish? Ah...not
-quite. It's a common clownfish. I like
-their coloring.");
+    MsgDisp("Nanatsumori","Was it a yellowtail clown fish?
+Ah...not quite. It's a common clownfish.
+I like their coloring.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -44,8 +44,8 @@ It's super stimulating.");
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("B040403100_04_030");
-    MsgDisp("Nanatsumori","Maybe there's a moray eel in there—— ...
-All I can see is your reflection in the
+    MsgDisp("Nanatsumori","Maybe there's a moray eel in there—
+... All I can see is your reflection in the
 glass.");
     MsgDateResultDisp();
     break ;

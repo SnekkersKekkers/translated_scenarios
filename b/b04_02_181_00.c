@@ -24,7 +24,7 @@ Shall we run home?");
     ChMotion(2,0,1);
     VoicePlay("B040218100_02_010");
     MsgDisp("Sassa","Yeah, that's right.
-It's different to a real matchー.");
+It's different to a real match—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

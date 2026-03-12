@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040303101_03_010");
-    MsgDisp("Honda","Hm...With that kind of enthusiasm, the
-penguins might be sad, you know? Come on,
-let's try it again!");
+    MsgDisp("Honda","Hm... With that kind of enthusiasm, the
+penguins might be sad, you know?
+Come on, let's try it again!");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -27,9 +27,9 @@ let's try it again!");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("B040303101_03_020");
-    MsgDisp("Honda","The Japanese spider crab, right? Nice
-that they're caught near Japan. Let's
-start with what's close to home!");
+    MsgDisp("Honda","The Japanese spider crab, right?
+Nice that they're caught near Japan.
+Let's start with what's close to home!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,9 +40,9 @@ start with what's close to home!");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040303101_03_030");
-    MsgDisp("Honda","That's okay. Hesitating is important. I'll
-wait as long as it takes until you have an
-answer∈");
+    MsgDisp("Honda","That's okay.
+Hesitating is important. I'll wait as long as
+it takes until you have an answer∈");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

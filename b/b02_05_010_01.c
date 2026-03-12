@@ -13,5 +13,5 @@ MsgDisp("Hiiragi","No, it was simply different than I had
 imagined, so I was a bit shaken.
 It's alright now.");
 MsgDisp("主人公","(Ugh.
-He doesn't seem to really like this
-swimsuit much...)");
+He doesn't seem to really like this swimsuit
+much...)");

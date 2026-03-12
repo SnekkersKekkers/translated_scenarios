@@ -31,7 +31,7 @@ NSSEye(8,0);
 NSSMouth(8,5);
 VoicePlay("T040800000_08_040");
 MsgDisp("Shirahane","...Ah!
-Could this be——");
+Could this be—");
 MsgDisp("主人公","Eh?");
 NSSEye(8,3);
 NSSMouth(8,5);

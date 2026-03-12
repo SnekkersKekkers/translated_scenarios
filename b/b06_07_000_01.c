@@ -9,7 +9,6 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0,1);
 VoicePlay("B060700001_07_000");
-MsgDisp("Mikage","I'll be counting on you next time too,
-then.");
+MsgDisp("Mikage","I'll be counting on you next time too, then.");
 MsgClose();
 ScrFadeOut(0,0);

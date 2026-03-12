@@ -2,8 +2,8 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("B020502115_05_000");
-MsgDisp("Hiiragi","I am not familiar with women's clothing
-such as that.");
+MsgDisp("Hiiragi","I am not familiar with women's clothing such
+as that.");
 MsgDisp("主人公","Ehh∋
 Does it look weird...?");
 ChEye(5,4);
@@ -14,9 +14,8 @@ MsgDisp("Hiiragi","No, I am giving a compliment.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B020502115_05_020");
-MsgDisp("Hiiragi","When you wear it, you don't lose any
-of your elegance.
+MsgDisp("Hiiragi","When you wear it, you don't lose any of your
+elegance.
 Just as one would expect.");
 MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems to like this 
-outfit.)");
+｛Hiiragi＊＊＊｝ seems to like this outfit.)");

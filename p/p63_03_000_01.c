@@ -41,7 +41,7 @@ was well-received...)");
     MsgClose();
     ChOpen(3,254,4,0,0,#1,#1,0,0);
     VoicePlay("P630300001_03_030");
-    MsgDisp("Honda","Ahー,Fuuー...
+    MsgDisp("Honda","Ah—,Fuu—...
 The aroma of fresh herbs is spreading,
 huh?");
     MsgDisp("主人公","Ah, ｛Honda＊＊｝.
@@ -60,7 +60,7 @@ It's certainly healing, huh?");
     ChMotion(3,5,1);
     VoicePlay("P630300001_03_050");
     MsgDisp("Honda","No, that smile!
-That'sーa triple effect～");
+That's—a triple effect～");
     MsgDisp("主人公","Umm...
 Should I show you to a table first?");
     break ;

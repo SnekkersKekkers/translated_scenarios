@@ -28,7 +28,7 @@ Let's get in line.");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("S090800000_08_020");
-        MsgDisp("Shirahane","Ehー!
+        MsgDisp("Shirahane","Eh—!
 You're not going to∋");
         MsgClose();
         ScrFadeOut(0,0);
@@ -107,7 +107,7 @@ can't get a bad result!");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("S090800000_08_100");
-        MsgDisp("Shirahane","Let's gooー!");
+        MsgDisp("Shirahane","Let's goo—!");
         break ;
         case 1:
         ChEye(8,2);

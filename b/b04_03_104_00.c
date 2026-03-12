@@ -5,8 +5,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040310400_03_000");
-MsgDisp("Honda","It's theorised that insects originated
-from around 400 million years ago.
+MsgDisp("Honda","It's theorised that insects originated from
+around 400 million years ago.
 They're humanity's great, great senpai!");
 MsgSel("Let's go greet our senpai!","I might not be very good with this 
 senpai...","I'm alright with butterflies!");
@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040310400_03_010");
     MsgDisp("Honda","Yep yep.
 Then let's start with the world's biggest
-dragonfly——the giant petaltail!");
+dragonfly—the giant petaltail!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -43,9 +43,9 @@ than us.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040310400_03_030");
-    MsgDisp("Honda","Yep yep, fine. Then let's start with the
-travelling butterfly—— the chestnut
-tiger butterfly.");
+    MsgDisp("Honda","Yep yep, fine.
+Then let's start with the travelling
+butterfly— the chestnut tiger butterfly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

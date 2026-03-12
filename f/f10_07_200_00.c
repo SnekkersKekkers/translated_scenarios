@@ -45,7 +45,7 @@ ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("F100720000_07_010");
 MsgDisp("Mikage","｛主人公｝.
-Yanosuke has a wide range of interestsー
+Yanosuke has a wide range of interests—
 Right now, it's that sliding blackboard.");
 MsgDisp("主人公","Blackboard?");
 ChEye(5,0);

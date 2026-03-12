@@ -7,8 +7,7 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040703102_07_000");
 MsgDisp("Mikage","Today is the last day to submit a report.
-The theme is up to you, anything is
-fineー.");
+The theme is up to you, anything is fine—.");
 MsgSel("I'm sorry, but I forgot to bring something to write with","My theme is the correlation between visitor numbers and species count","I'll do it on the Giant Isopods");
 switch (MsgSelRsltGet()){
     case 0:
@@ -67,8 +66,8 @@ Vice-Principal Himuro, after all.");
         ChMouth(7,3);
         ChMotion(7,0);
         VoicePlay("B040703102_07_060");
-        MsgDisp("Mikage","That's right. You should laugh. You
-shouldn't apologize so excessively. Only
+        MsgDisp("Mikage","That's right. You should laugh.
+You shouldn't apologize so excessively. Only
 apologize when it's absolutely necessary.");
         MsgDisp("主人公","Yes.");
         ChEye(7,0);
@@ -82,8 +81,8 @@ apologize when it's absolutely necessary.");
         VoicePlay("B040703102_07_080");
         MsgDisp("Mikage","I'll buy you a Giant Isopod pen set.");
         MsgDisp("主人公","(｛Mikage＊＊｝ is kind.
-...But let's be more careful about
-forgetting things.)");
+...But let's be more careful about forgetting
+things.)");
         break ;
         default :
         DbgAssert(1);
@@ -108,8 +107,8 @@ forgetting things.)");
     ChMotion(7,5);
     VoicePlay("B040703102_07_100");
     MsgDisp("Mikage","You've got your eye on something good.
-These guys can live five years without
-food, so it's worth looking into.");
+These guys can live five years without food,
+so it's worth looking into.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

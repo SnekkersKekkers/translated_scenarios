@@ -45,8 +45,8 @@ Okay, let's buy it.");
     ChMotion(6,1);
     VoicePlay("B040612101_06_030");
     MsgDisp("Himuro","Popularity doesn't matter.
-Lots of old CD's become out of print,
-that's all.");
+Lots of old CD's become out of print, that's
+all.");
     MsgDateResultDisp();
     break ;
     default :

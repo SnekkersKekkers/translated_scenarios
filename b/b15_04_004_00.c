@@ -9,9 +9,9 @@ VoicePlay("B150400400_04_000");
 MsgDisp("Nanatsumori","I told you didn't I?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B150400400_04_010");
-MsgDisp("Nanatsumori","Touching me all over. You've already
-destroyed me. I told you next time will
-already be no good.");
+MsgDisp("Nanatsumori","Touching me all over.
+You've already destroyed me.
+I told you next time will already be no good.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -35,8 +35,7 @@ ScrFadeOut(0);
 SEPlay("EV_SE_551");
 SEWait();
 VoicePlay("B150400400_04_050");
-MsgDisp("Nanatsumori","Even though I really wanted to cherish
-you...");
+MsgDisp("Nanatsumori","Even though I really wanted to cherish you...");
 VoicePlay("B150400400_04_060");
 MsgDisp("Nanatsumori","This is making me lose confidence.
 Come on, understand...");
@@ -59,7 +58,7 @@ ChMotion(4,3,1);
 ChCheek(4,0);
 VoicePlay("B150400400_04_090");
 MsgDisp("Nanatsumori","Pfft!
-You really are a weirdoー.");
+You really are a weirdo—.");
 MsgDisp("主人公","Uugh...");
 ChEye(4,0);
 ChMouth(4,3);

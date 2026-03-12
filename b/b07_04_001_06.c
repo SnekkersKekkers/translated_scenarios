@@ -26,8 +26,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_450");
 MsgDisp("Nanatsumori","Well, Dahon is the type who can become
-friends with anyone at any time, so it
-should be fine.");
+friends with anyone at any time, so it should
+be fine.");
 MsgDisp("主人公","Then, what about ｛Nanatsumori＊｝?");
 ChEye(4,4);
 ChMouth(4,0);
@@ -46,8 +46,8 @@ VoicePlay("B070400001_04_480");
 MsgDisp("Nanatsumori","These are the first friends I've had that
 could be called friends.");
 VoicePlay("B070400001_04_490");
-MsgDisp("Nanatsumori","So, as long as nothing messes it up, maybe
-we really can stay friends forever.");
+MsgDisp("Nanatsumori","So, as long as nothing messes it up, maybe we
+really can stay friends forever.");
 MsgDisp("主人公","I see.");
 ChEye(4,4);
 ChMouth(4,4);

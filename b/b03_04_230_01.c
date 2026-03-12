@@ -29,8 +29,8 @@ Sure thing.");
     BGOpen("tr420",0);
     ScrFadeIn(0);
     VoicePlay("B030423001_04_020");
-    MsgDisp("Nanatsumori","Worrying about my hair at an amusement
-park is pretty lame...
+    MsgDisp("Nanatsumori","Worrying about my hair at an amusement park
+is pretty lame...
 Alright, I'm ready.");
     break ;
     case 1:
@@ -75,8 +75,8 @@ I want to look away, but...");
     ScrFadeIn(0);
     VoicePlay("B030423001_04_060");
     MsgDisp("Nanatsumori","I'm turning on my serious switch too!
-My messed up hair will be a testament to
-my bravery...!");
+My messed up hair will be a testament to my
+bravery...!");
     break ;
     case 3:
     MsgDispSksp(1,0);

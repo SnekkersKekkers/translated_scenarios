@@ -35,8 +35,8 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040524101_05_030");
-    MsgDisp("Hiiragi","Yeah there's not enough information on
-that poster.
+    MsgDisp("Hiiragi","Yeah there's not enough information on that
+poster.
 Let's go and check it out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -31,7 +31,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_040");
 MsgDisp("Hiiragi","Consequently, I am in despair.");
 MsgDisp("主人公","Umm...
-Well, I also like ｛Mikage＊＊｝, but——");
+Well, I also like ｛Mikage＊＊｝, but—");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);

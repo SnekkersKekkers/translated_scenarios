@@ -2,7 +2,7 @@ BGMStop();
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Umm, the blackout curtains I prepared——");
+MsgDisp("主人公","Umm, the blackout curtains I prepared—");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();

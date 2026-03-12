@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040502101_05_010");
     MsgDisp("Hiiragi","That would be nice!
-It would be fun to spend new years day
-with you.");
+It would be fun to spend new years day with
+you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +29,9 @@ with you.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("B040502101_05_020");
-    MsgDisp("Hiiragi","Umm...I wonder? You appear to know more
-about it than I do.");
+    MsgDisp("Hiiragi","Umm...
+I wonder?
+You appear to know more about it than I do.");
     MsgDateResultDisp();
     break ;
     case 2:

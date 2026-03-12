@@ -12,7 +12,7 @@ switch (ChPrmGet(3,6)){
 a cafe. We prepared herbal tea and 
 cookies, but...)");
     VoicePlay("P630300000_03_000");
-    MsgDisp("Honda?","Haaー, how refreshing...");
+    MsgDisp("Honda?","Haa—, how refreshing...");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛Honda＊＊｝.
@@ -53,7 +53,7 @@ Welcome!");
     ChMotion(3,5,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("P630300000_03_040");
-    MsgDisp("Honda","Haaー,that's a nice smell.
+    MsgDisp("Honda","Haa—,that's a nice smell.
 This feels like another world, huh.");
     MsgDisp("主人公","Hehe, that's the relaxing effect.
 How about some herbal tea and some

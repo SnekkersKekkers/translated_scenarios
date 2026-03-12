@@ -40,9 +40,9 @@ You're right on time.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B010300002_03_030");
-    MsgDisp("Honda","Yeah, though I wonder why. As I was
-thinking about you, I started walking
-faster. Weird, huh?");
+    MsgDisp("Honda","Yeah, though I wonder why.
+As I was thinking about you, I started
+walking faster. Weird, huh?");
     MsgDispSksp(0);
     break ;
     case 4:
@@ -59,15 +59,15 @@ You don't have the wrong time.");
     ChMotion(3,4);
     VoicePlay("B010300002_03_050");
     MsgDisp("Honda","Yup yup. Actually, I couldn't wait to tell
-you this dream I had this morning, so I
-ended up here early.");
+you this dream I had this morning, so I ended
+up here early.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B010300002_03_060");
     MsgDisp("Honda","But then, as I got here early, I realized
-there was no point in being the only one
-here already.");
+there was no point in being the only one here
+already.");
     MsgDisp("主人公","Hehe.
 What kind of dream was it?");
     ChEye(3,3);

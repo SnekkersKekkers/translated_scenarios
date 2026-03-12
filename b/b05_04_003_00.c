@@ -16,8 +16,8 @@ ChMouth(4,4);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B050400300_04_000");
-MsgDisp("Nanatsumori","All things considered, this flea market
-has a wide range of items.
+MsgDisp("Nanatsumori","All things considered, this flea market has a
+wide range of items.
 I feel like I'm on an expedition.");
 MsgDisp("主人公","What does that mean?");
 ChEye(4,0);
@@ -51,8 +51,8 @@ MsgDisp("Nanatsumori","I want a black one.
 Y'know, lots of lace, big ribbon...
 A real classic one.");
 MsgDisp("主人公","I-I see.
-Maybe the dress over there is close to
-that type?");
+Maybe the dress over there is close to that
+type?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -101,8 +101,8 @@ StlEye(4,1);
 StlMouth(4,1);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("B050400300_04_120");
-MsgDisp("Nanatsumori","I'm guessing it's \"Don't tell me you're
-going to wear that∋
+MsgDisp("Nanatsumori","I'm guessing it's \"Don't tell me you're going
+to wear that∋
 You like to crossdress∋\".");
 MsgDisp("主人公","Uh...");
 StlEyeOpenLevel(4,0,1);
@@ -142,15 +142,15 @@ BGMVol(0.5,2);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_180");
-MsgDisp("Nanatsumori","Ahー, being here right before closing is
+MsgDisp("Nanatsumori","Ah—, being here right before closing is
 great.
-Way easier to haggle for a discountー.");
+Way easier to haggle for a discount—.");
 MsgDisp("主人公","｛Nanatsumori＊｝ is good at haggling huh?");
 ChMotion(4,0,1);
 VoicePlay("B050400300_04_190");
-MsgDisp("Nanatsumori","That store had so many good things that'd
-be a waste to throw away, so I couldn't
-help myself.");
+MsgDisp("Nanatsumori","That store had so many good things that'd be
+a waste to throw away, so I couldn't help
+myself.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -174,7 +174,7 @@ VoicePlay("B050400300_04_220");
 MsgDisp("Nanatsumori","Yeah.
 I believe it, because it's you.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
-MsgDisp("主人公","(I wonder if he'll ever show me what he
-looks like crossdressing.
+MsgDisp("主人公","(I wonder if he'll ever show me what he looks
+like crossdressing.
 I kind of want to see it...)");
 ChPrmTblAdd(4,0);

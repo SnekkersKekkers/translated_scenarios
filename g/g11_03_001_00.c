@@ -15,7 +15,7 @@ VoicePlay("G110300100_03_010");
 MsgDisp("Honda","Oh, there aren't many customers today, so
 it's a bit more relaxed.
 How about you?");
-MsgDisp("主人公","Yes, well, uh——");
+MsgDisp("主人公","Yes, well, uh—");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);

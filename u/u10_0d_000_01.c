@@ -26,7 +26,7 @@ I'm excited!");
 Ok then, I'll get ready to come over okay?");
     VoicePlay("U100D00001_22_030");
     MsgDisp("Hikaru","Take care.
-A bientotー♪");
+A bientot—♪");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(A sleepover...

@@ -10,15 +10,15 @@ MsgDisp("主人公","Eh?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B150500200_05_010");
-MsgDisp("Hiiragi","You start doing that when it becomes dark
-on the way home, don't you?");
+MsgDisp("Hiiragi","You start doing that when it becomes dark on
+the way home, don't you?");
 MsgDisp("主人公","By \"that\"...do you mean skinship?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B150500200_05_020");
-MsgDisp("Hiiragi","That's one way to put it. One after the
-other, one after the other, in rapid
-succession...I can't evade them all.");
+MsgDisp("Hiiragi","That's one way to put it.
+One after the other, one after the other, in
+rapid succession... I can't evade them all.");
 ChEye(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500200_05_030");
@@ -39,8 +39,7 @@ counterattack.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B150500200_05_060");
-MsgDisp("Hiiragi","If you don't want that, you should stop
-here.");
+MsgDisp("Hiiragi","If you don't want that, you should stop here.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(5,0);
 ChMouth(5,4);

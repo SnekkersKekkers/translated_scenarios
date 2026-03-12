@@ -11,9 +11,9 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("B180300000_03_010");
-MsgDisp("Honda","Ah, I know it's sudden but...I was just
-thinking that I'd like to call you by your
-first name. Is that okay?");
+MsgDisp("Honda","Ah, I know it's sudden but...
+I was just thinking that I'd like to call you
+by your first name. Is that okay?");
 MsgSel("Yeah, it's fine.","Hmm, I'm not sure...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -35,8 +35,7 @@ Yay!");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B180300000_03_040");
-    MsgDisp("Honda","This way of addressing you feels
-refreshing!");
+    MsgDisp("Honda","This way of addressing you feels refreshing!");
     MsgDisp("主人公","(It feels a little embarrassing..)");
     break ;
     case 1:

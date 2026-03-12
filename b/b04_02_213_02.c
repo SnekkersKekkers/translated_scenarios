@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,2);
     VoicePlay("B040221302_02_010");
-    MsgDisp("Sassa","That's rightー.
+    MsgDisp("Sassa","That's right—.
 Hey, that big one over there is cool.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -46,8 +46,8 @@ That sounds good too.");
         ChMotion(2,4);
         VoicePlay("B040221302_02_030");
         MsgDisp("Sassa","I know.
-The fact that it's hard makes it all the
-more fun.");
+The fact that it's hard makes it all the more
+fun.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -64,8 +64,8 @@ already tough.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040221302_02_050");
-        MsgDisp("Sassa","...But, you know, the hard work also makes
-it fun.
+        MsgDisp("Sassa","...But, you know, the hard work also makes it
+fun.
 Like running together.");
         MsgDisp("主人公","I see.
 But is there a doggy that can keep up with
@@ -74,9 +74,9 @@ But is there a doggy that can keep up with
         ChMouth(2,4);
         ChMotion(2,5);
         VoicePlay("B040221302_02_060");
-        MsgDisp("Sassa","There is, there is. Not only is there a
-dog that can match my speed, but I would
-completely lose to it too.");
+        MsgDisp("Sassa","There is, there is.
+Not only is there a dog that can match my
+speed, but I would completely lose to it too.");
         MsgDisp("主人公","Eh?
 Really?");
         ChEye(2,0);
@@ -96,17 +96,18 @@ could be world champion.");
         MsgDisp("Sassa","Oh, definitely.
 Maybe I should get a dog as a training
 partner then.");
-        MsgDisp("主人公","Hehe, might be good. Then you could
-compete against the dog everyday.");
+        MsgDisp("主人公","Hehe, might be good.
+Then you could compete against the dog
+everyday.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040221302_02_090");
-        MsgDisp("Sassa","Then you'll have to join us for the
-morning walks.
+        MsgDisp("Sassa","Then you'll have to join us for the morning
+walks.
 As a witness.");
-        MsgDisp("主人公","(Hehe, walking with ｛Sassa＊＊｝ and a
-doggy every morning...seems fun.)");
+        MsgDisp("主人公","(Hehe, walking with ｛Sassa＊＊｝ and a doggy
+every morning...seems fun.)");
         break ;
         default :
         DbgAssert(1);

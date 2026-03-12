@@ -7,7 +7,6 @@ MsgDisp("主人公","Um, what is it?");
 ChEye(5,0);
 ChMouth(5,3);
 VoicePlay("B020500001_05_010");
-MsgDisp("Hiiragi","That sort of fashion is also fitting for
-you.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to like these 
-types of clothes.)");
+MsgDisp("Hiiragi","That sort of fashion is also fitting for you.");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to like these types of
+clothes.)");

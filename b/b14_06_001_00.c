@@ -38,8 +38,9 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B140600100_06_040");
 MsgDisp("Himuro","You can't spend each continuous day with a
 person you don't trust.");
-MsgDisp("主人公","Ah...I see! We were together yesterday as
-well for the school Christmas Party!");
+MsgDisp("主人公","Ah...
+I see! We were together yesterday as well for
+the school Christmas Party!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -50,16 +51,16 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B140600100_06_060");
-MsgDisp("Himuro","Haa...On one hand, I want you to be more
-self-aware, on the other, I also don't
-want you to change.");
+MsgDisp("Himuro","Haa... On one hand, I want you to be more
+self-aware, on the other, I also don't want
+you to change.");
 MsgDisp("主人公","Umm...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B140600100_06_070");
-MsgDisp("Himuro","It's fine, because I'm sure that the one
-who should change is me.");
+MsgDisp("Himuro","It's fine, because I'm sure that the one who
+should change is me.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -76,14 +77,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B140600100_06_100");
-MsgDisp("Himuro","If it wasn't, we wouldn't be here
-together.");
+MsgDisp("Himuro","If it wasn't, we wouldn't be here together.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600100_06_110");
-MsgDisp("Himuro","...Come on, take responsibility for this
-and teach me more about the true joys of
+MsgDisp("Himuro","...Come on, take responsibility for this and
+teach me more about the true joys of
 Christmas.");
 MsgDisp("主人公","Yeah, of course!");
 MsgDisp("主人公","(I'm glad I got to spend Christmas with

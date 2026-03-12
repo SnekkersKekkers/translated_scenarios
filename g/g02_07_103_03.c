@@ -28,7 +28,7 @@ ChMotion(7,5);
 VoicePlay("G020710303_07_030");
 MsgDisp("Mikage","I wouldn't do something so reckless.
 I mean, I've lived abroad for a long time,
-so I have manners——");
+so I have manners—");
 MsgDisp("主人公","You don't need to make excuses.");
 ChEye(7,2);
 ChMouth(7,0);

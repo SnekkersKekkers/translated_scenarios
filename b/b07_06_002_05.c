@@ -33,8 +33,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_350");
-MsgDisp("Himuro","If you're worried about being the only
-girl, that's nonsense.
+MsgDisp("Himuro","If you're worried about being the only girl,
+that's nonsense.
 That's all.");
 MsgDisp("主人公","Yeah, thank you.");
 MsgDisp("主人公","(That's ｛Himuro＊＊｝'s way of supporting me.

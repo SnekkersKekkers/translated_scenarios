@@ -22,8 +22,7 @@ Live music really is awesome!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040204400_02_010");
-    MsgDisp("Sassa","It's better when you know more of the
-songs.");
+    MsgDisp("Sassa","It's better when you know more of the songs.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -25,9 +25,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040401100_04_020");
-    MsgDisp("Nanatsumori","Which one. If it's my family home...ahh, I
-see it, I see it. Look, can you see that
-blue high-rise?");
+    MsgDisp("Nanatsumori","Which one.
+If it's my family home...ahh, I see it, I see
+it. Look, can you see that blue high-rise?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +38,8 @@ blue high-rise?");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040401100_04_030");
-    MsgDisp("Nanatsumori","If you're not good with heights, you
-didn't have to push yourself.");
+    MsgDisp("Nanatsumori","If you're not good with heights, you didn't
+have to push yourself.");
     MsgDateResultDisp();
     break ;
     default :

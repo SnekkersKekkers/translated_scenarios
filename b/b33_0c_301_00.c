@@ -26,8 +26,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C30100_05_000");
-MsgDisp("Hiiragi","No matter how many times I come here, I
-end up losing my sense of direction.");
+MsgDisp("Hiiragi","No matter how many times I come here, I end
+up losing my sense of direction.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -43,8 +43,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30100_07_010");
-MsgDisp("Mikage","Then shall we all hold hands while we
-walk?");
+MsgDisp("Mikage","Then shall we all hold hands while we walk?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -76,10 +75,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C30100_07_020");
-MsgDisp("Mikage","Ohh, you're thinking about it huh～ Male
-high school students, man! 4 people
-walking side by side. So, how should we do
-this?");
+MsgDisp("Mikage","Ohh, you're thinking about it huh～ Male high
+school students, man! 4 people walking side
+by side. So, how should we do this?");
 MsgDisp("主人公","We would be a nuisance if the four of us
 walked side-by-side, so we can't do it.");
 ChEye(6,0);
@@ -94,11 +92,10 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C30100_07_030");
 MsgDisp("Mikage","Don't get so mad.
-Since the four of us are together, I
-wanted to make things more heart-pounding.");
-MsgDisp("主人公","(Hey...but it's rare to see ｛Hiiragi＊＊＊｝
-and ｛Himuro＊＊｝ both go along with it
-today?)");
+Since the four of us are together, I wanted
+to make things more heart-pounding.");
+MsgDisp("主人公","(Hey...but it's rare to see ｛Hiiragi＊＊＊｝ and
+｛Himuro＊＊｝ both go along with it today?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

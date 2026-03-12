@@ -24,9 +24,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10800_06_000");
-MsgDisp("Himuro","Nozomu-senpai, this is just a question;
-but if you struggle that much, why did you
-come?");
+MsgDisp("Himuro","Nozomu-senpai, this is just a question; but
+if you struggle that much, why did you come?");
 ChEye(1,0);
 ChEye(2,2);
 ChMouth(2,0);
@@ -121,8 +120,8 @@ MsgClose();
 ChOpen(2,255,0,2,0,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,30);
 VoicePlay("B330A10800_06_030");
-MsgDisp("Himuro","Someone dropped something, so I went to
-turn it in.");
+MsgDisp("Himuro","Someone dropped something, so I went to turn
+it in.");
 ChMouth(1,0);
 MsgDisp("主人公","Haa, I'm glad...");
 ChEye(6,0);
@@ -137,8 +136,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("B330A10800_02_040");
-MsgDisp("Sassa","Ryota said someone was missing so it made
-me anxious.");
+MsgDisp("Sassa","Ryota said someone was missing so it made me
+anxious.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
@@ -165,8 +164,8 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10800_01_050");
 MsgDisp("Kazama","Nice, Inori.");
-MsgDisp("主人公","(I feel like ｛Kazama＊＊｝ and ｛Himuro＊＊｝
-are messing with us...)");
+MsgDisp("主人公","(I feel like ｛Kazama＊＊｝ and ｛Himuro＊＊｝ are
+messing with us...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

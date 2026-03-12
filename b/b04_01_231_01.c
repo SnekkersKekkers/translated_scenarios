@@ -5,8 +5,7 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123101_01_000");
-MsgDisp("Kazama","The intensity at the front sure is
-different.");
+MsgDisp("Kazama","The intensity at the front sure is different.");
 MsgSel("Yeah, we were lucky.","The wind was so strong my hair got all messed up","I think something fell into my mouth...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -43,7 +42,7 @@ bad.");
     VoicePlay("B040123101_01_030");
     MsgDisp("Kazama","What was it?
 Open your mouth a bit, come on.
-Aaahー.");
+Aaah—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

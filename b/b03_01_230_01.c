@@ -30,8 +30,8 @@ Let's scream our lungs out!");
     ChMouth(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B030123001_01_020");
-    MsgDisp("Kazama","Everyone else's screams make for great
-sound effects, don't they?");
+    MsgDisp("Kazama","Everyone else's screams make for great sound
+effects, don't they?");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -77,8 +77,8 @@ Then we could ride for longer.");
     SEPlay("EV_SE_549",0.01);
     SEWait();
     VoicePlay("B030123001_01_060");
-    MsgDisp("Kazama","It's a totally different kind of scream
-from going on a roller coaster...");
+    MsgDisp("Kazama","It's a totally different kind of scream from
+going on a roller coaster...");
     break ;
     case 3:
     MsgDispSksp(1,0);
@@ -99,8 +99,8 @@ Looks like it's empty.");
     ChMotion(1,0,1);
     ScrFadeIn(0);
     VoicePlay("B030123001_01_080");
-    MsgDisp("Kazama","That person there looked a little pale,
-are they okay...?");
+    MsgDisp("Kazama","That person there looked a little pale, are
+they okay...?");
     break ;
     case 4:
     MsgDispSksp(1,0);

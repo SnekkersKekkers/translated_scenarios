@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223200_02_010");
-    MsgDisp("Sassa","Well, that's the only thing to do hereー.");
+    MsgDisp("Sassa","Well, that's the only thing to do here—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040223200_02_020");
-    MsgDisp("Sassa","If you want to sleep, there's better
-places for it.");
+    MsgDisp("Sassa","If you want to sleep, there's better places
+for it.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -35,8 +35,8 @@ places for it.");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B040223200_02_030");
-    MsgDisp("Sassa","Eh...you were the one who said you wanted
-to ride it.");
+    MsgDisp("Sassa","Eh...you were the one who said you wanted to
+ride it.");
     MsgDateResultDisp();
     break ;
     default :

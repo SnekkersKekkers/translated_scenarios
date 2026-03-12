@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118100_01_000");
     MsgDisp("Kazama","The story had zero twists.
-It was almost unsettling how predictable
-it was.");
+It was almost unsettling how predictable it
+was.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -39,8 +39,8 @@ so-so.");
     ChMotion(1,3);
     VoicePlay("B040118100_01_020");
     MsgDisp("Kazama","Right.
-When it's this far off the mark, it now
-feels good.");
+When it's this far off the mark, it now feels
+good.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

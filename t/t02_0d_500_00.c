@@ -34,7 +34,7 @@ ChMouth(22,3);
 ChMotion(22,0);
 ScrFadeIn(0);
 MsgDisp("主人公","...Huh?
-Now that I think of it, this——");
+Now that I think of it, this—");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);

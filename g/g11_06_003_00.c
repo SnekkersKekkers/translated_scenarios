@@ -38,7 +38,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600300_06_030");
 MsgDisp("Himuro","I knew that even without you telling me.
-Actually, it's not about that——");
+Actually, it's not about that—");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

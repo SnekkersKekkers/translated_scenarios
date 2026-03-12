@@ -6,8 +6,7 @@ ChMotion(6,4,1);
 ScrFadeIn(0);
 VoicePlay("B040614000_06_000");
 MsgDisp("Himuro","Haa...
-Live shows have a certain ambiance to
-them.");
+Live shows have a certain ambiance to them.");
 MsgSel("Ahh, that was wonderful!","That was fun, huh?","The sound was so loud that my ears are ringing...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +28,7 @@ That makes my heart feel even warmer.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040614000_06_020");
-    MsgDisp("Himuro","I guess it doesn't resonate with
-you...huh?");
+    MsgDisp("Himuro","I guess it doesn't resonate with you...huh?");
     MsgDateResultDisp();
     break ;
     case 2:

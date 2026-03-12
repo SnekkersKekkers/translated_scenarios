@@ -75,11 +75,11 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("G110300503_03_070");
-MsgDisp("Honda","Yaayー!");
+MsgDisp("Honda","Yaay—!");
 VoicePlay("G110300503_42_000");
 MsgDisp("Manager","You two!
 I told you that dating is prohibited in
-the storeー.");
+the store—.");
 MsgDisp("主人公","(After all that, Maybe the embarrassment
 is greater...)");
 BGMStop();

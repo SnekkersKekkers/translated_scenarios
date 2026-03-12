@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040224100_02_010");
     MsgDisp("Sassa","Yeah.
-Well, with that we end up wondering what
-to do.");
+Well, with that we end up wondering what to
+do.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,7 +28,7 @@ to do.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040224100_02_020");
-    MsgDisp("Sassa","That's rightー.
+    MsgDisp("Sassa","That's right—.
 Isn't running the only option?");
     MsgDateResultDisp();
     break ;
@@ -38,7 +38,7 @@ Isn't running the only option?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040224100_02_030");
-    MsgDisp("Sassa","Heyー.
+    MsgDisp("Sassa","Hey—.
 Do you need something?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

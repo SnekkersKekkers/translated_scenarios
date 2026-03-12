@@ -6,9 +6,9 @@ ChMotion(3,3);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040303302_03_000");
-MsgDisp("Honda","Seriously, no matter how many times I look
-at the deep-sea corner, I never run out of
-new discoveries!");
+MsgDisp("Honda","Seriously, no matter how many times I look at
+the deep-sea corner, I never run out of new
+discoveries!");
 MsgSel("Huh? Even for you ｛Honda＊＊｝?","Even though it's too dark to see anything clearly?","｛Honda＊＊｝, you really like the deep-sea corner.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -76,8 +76,8 @@ Close your eyes!");
         MsgDisp("主人公","Uh, okay.");
         VoicePlay("B040303302_03_070");
         MsgDisp("Honda","...Amazing!
-The deep-sea corner∋ ...another
-discovery∈");
+The deep-sea corner∋
+...another discovery∈");
         MsgDisp("主人公","(I wonder what ｛Honda＊＊｝ discovered?)");
         break ;
         default :
@@ -92,8 +92,8 @@ discovery∈");
     ChMotion(3,1);
     VoicePlay("B040303302_03_080");
     MsgDisp("Honda","That's right, this corner is especially
-interesting. I wonder if just saying that
-I \"like\" it is strong enough?");
+interesting. I wonder if just saying that I
+\"like\" it is strong enough?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -9,7 +9,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B020302133_03_010");
-MsgDisp("Honda","Anyone can wear flashy clothes, but how
-many can look as good as you do?");
+MsgDisp("Honda","Anyone can wear flashy clothes, but how many
+can look as good as you do?");
 MsgDisp("主人公","(｛Honda＊＊｝ seems to really love these
 clothes!)");

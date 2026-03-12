@@ -9,6 +9,6 @@ ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 ScrFadeIn(0);
 VoicePlay("B130600005_06_000");
-MsgDisp("Himuro","After leading you to my room, I'm
-convinced. That outfit is disrupting
-public morals. ...and my peace of mind.");
+MsgDisp("Himuro","After leading you to my room, I'm convinced.
+That outfit is disrupting public morals.
+...and my peace of mind.");

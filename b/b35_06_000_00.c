@@ -24,15 +24,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B350600000_06_030");
-MsgDisp("Himuro","Don't you want to spend more time
-together?");
+MsgDisp("Himuro","Don't you want to spend more time together?");
 MsgDisp("主人公","Eh.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B350600000_06_040");
-MsgDisp("Himuro","Since we're here already, let's go
-somewhere.
+MsgDisp("Himuro","Since we're here already, let's go somewhere.
 ...Just the two of us.");
 MsgSel("Yeah, sounds good!","I have some things to do...");
 switch (MsgSelRsltGet()){
@@ -42,8 +40,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B350600000_06_050");
     MsgDisp("Himuro","I thought as much.");
-    MsgDisp("主人公","My heart is racing a little, what about
-you?");
+    MsgDisp("主人公","My heart is racing a little, what about you?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -71,8 +68,7 @@ found out.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B350600000_06_090");
-    MsgDisp("Himuro","If you have things to do, it can't be
-helped.
+    MsgDisp("Himuro","If you have things to do, it can't be helped.
 ...Then, I'm going home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);

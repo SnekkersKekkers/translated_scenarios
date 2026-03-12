@@ -1,13 +1,12 @@
-MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking
-to ｛Sassa＊＊｝ often haven't you?");
+MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking to
+｛Sassa＊＊｝ often haven't you?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_010");
 MsgDisp("Kazama","Yeah, maybe.
-He and I go all the way back to
-kindergarten.");
+He and I go all the way back to kindergarten.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -19,8 +18,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100001_01_030");
-MsgDisp("Kazama","...You. Seriously, that's just part of who
-you are. As for me, I remember it vividly.");
+MsgDisp("Kazama","...You.
+Seriously, that's just part of who you are.
+As for me, I remember it vividly.");
 MsgDisp("主人公","What kind of things happened?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -36,15 +36,15 @@ VoicePlay("B070100001_01_050");
 MsgDisp("Kazama","Even though there were easier targets than
 me.
 For some reason he only chased me.");
-MsgDisp("主人公","｛Sassa＊＊｝ really likes ｛Kazama＊＊｝
-doesn't he?");
+MsgDisp("主人公","｛Sassa＊＊｝ really likes ｛Kazama＊＊｝ doesn't
+he?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100001_01_060");
-MsgDisp("Kazama","More than him liking me...it was like I
-was just right.
+MsgDisp("Kazama","More than him liking me...it was like I was
+just right.
 He treated me like suitable prey. Terrifying.");
 MsgDisp("主人公","Hehe.");
 ChEyeOpenLevel(1,0);

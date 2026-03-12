@@ -9,7 +9,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360417000_04_000");
-MsgDisp("Nanatsumori","Well. What are you gonna sing?
+MsgDisp("Nanatsumori","Well.
+What are you gonna sing?
 You can go first.");
 MsgDisp("主人公","We can start from ｛Nanatsumori＊｝.");
 ChEye(4,0);
@@ -26,7 +27,7 @@ ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("B360417000_04_020");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","Hmー...
+MsgDisp("主人公","Hm—...
 Hm?");
 ChEye(4,5);
 ChMouth(4,0);
@@ -45,11 +46,11 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B360417000_04_050");
-MsgDisp("Nanatsumori","It's risky for me when it's just the two
-of us in a dimly lit room together.");
+MsgDisp("Nanatsumori","It's risky for me when it's just the two of
+us in a dimly lit room together.");
 MsgDisp("主人公","Do you not remember the song?
 I'll look it up for you.
-The opening lyrics——");
+The opening lyrics—");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,1,1);
@@ -59,7 +60,8 @@ VoicePlay("B360417000_04_060");
 MsgDisp("Nanatsumori","Ahhh, hey!
 Don't say such cute things!
 I'm really gonna do something drastic!");
-MsgDisp("主人公","∋ T-Those are amazing lyrics...");
+MsgDisp("主人公","∋
+T-Those are amazing lyrics...");
 ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,0,1);

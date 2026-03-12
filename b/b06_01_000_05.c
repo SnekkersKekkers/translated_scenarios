@@ -12,6 +12,6 @@ MsgDisp("Kazama","...I know that you like this place.");
 MsgDispSksp(1,#1);
 ChMotion(1,0);
 MsgDisp("主人公","(Ah!
-The place that I invited him to last was
-also here!)");
+The place that I invited him to last was also
+here!)");
 MsgDispSksp(0);

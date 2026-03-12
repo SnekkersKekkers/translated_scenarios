@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040208202_02_000");
-MsgDisp("Sassa","The fireflies' home, isn't in a pond, but
-a spring.");
+MsgDisp("Sassa","The fireflies' home, isn't in a pond, but a
+spring.");
 MsgSel("It's because the spring water is abundant.","Then it's the firefly's spring","It seems like fairies could be there.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -21,8 +21,8 @@ switch (MsgSelRsltGet()){
         ChMotion(2,0);
         VoicePlay("B040208202_02_010");
         MsgDisp("Sassa","You knew that huh?
-Seems like it's going to be tough to beat
-you in terms of information.");
+Seems like it's going to be tough to beat you
+in terms of information.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -40,15 +40,15 @@ failed.");
         ChMotion(2,4);
         VoicePlay("B040208202_02_030");
         MsgDisp("Sassa","You know this town well, right?");
-        MsgDisp("主人公","But ｛Sassa＊＊｝ is very knowledgable not
-just about track and field but also
-exercise and the body too.");
+        MsgDisp("主人公","But ｛Sassa＊＊｝ is very knowledgable not just
+about track and field but also exercise and
+the body too.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040208202_02_040");
-        MsgDisp("Sassa","That's because since I was little, that's
-all I did.
+        MsgDisp("Sassa","That's because since I was little, that's all
+I did.
 So I became knowledgable.");
         ChEye(2,0);
         ChMouth(2,0);
@@ -72,8 +72,8 @@ have are things I learned for myself.");
         ChMouth(2,0);
         ChMotion(2,2,1);
         VoicePlay("B040208202_02_080");
-        MsgDisp("Sassa","It's completely different to you, who
-teaches it to a lot of people.");
+        MsgDisp("Sassa","It's completely different to you, who teaches
+it to a lot of people.");
         MsgDisp("主人公","｛Sassa＊＊｝...");
         ChEye(2,0);
         ChMouth(2,4);
@@ -96,8 +96,8 @@ I wonder if he's worried about something.)");
     ChMotion(2,3);
     VoicePlay("B040208202_02_100");
     MsgDisp("Sassa","That's right.
-Then, from today onwards, let's call it
-the firefly spring.");
+Then, from today onwards, let's call it the
+firefly spring.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -108,8 +108,8 @@ the firefly spring.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040208202_02_110");
-    MsgDisp("Sassa","Though there's already something that
-looks like a fairy in front of me.");
+    MsgDisp("Sassa","Though there's already something that looks
+like a fairy in front of me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

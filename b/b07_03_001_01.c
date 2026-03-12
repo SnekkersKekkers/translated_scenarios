@@ -1,6 +1,5 @@
-MsgDisp("主人公","｛Honda＊＊｝, you and ｛Kazama＊＊｝ have
-been hanging out together a lot lately,
-huh?");
+MsgDisp("主人公","｛Honda＊＊｝, you and ｛Kazama＊＊｝ have been
+hanging out together a lot lately, huh?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -17,16 +16,16 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("B070300001_03_030");
 MsgDisp("Honda","I always want to ask him more things.
-But he doesn't tell me anything, he says
-it's not his job to give out pointers.");
+But he doesn't tell me anything, he says it's
+not his job to give out pointers.");
 MsgDisp("主人公","I guess he doesn't like to talk about it?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("B070300001_03_040");
-MsgDisp("Honda","I don't think so? I think if you were the
-one asking he would answer. He wouldn't
-even give you a dirty look.");
+MsgDisp("Honda","I don't think so? I think if you were the one
+asking he would answer.
+He wouldn't even give you a dirty look.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -51,8 +50,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B070300001_03_080");
-MsgDisp("Honda","I'd like to learn a bit more from
-Ryota-kun but I'm not sure if I can?");
+MsgDisp("Honda","I'd like to learn a bit more from Ryota-kun
+but I'm not sure if I can?");
 MsgDisp("主人公","(｛Honda＊＊｝ seems to idolize
 ｛Kazama＊＊｝...!)");
 BGMStop();

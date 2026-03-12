@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(2,255,4,2,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223502_02_000");
-MsgDisp("Sassa","Surely it's foul play to scare us with
-loud noises?");
+MsgDisp("Sassa","Surely it's foul play to scare us with loud
+noises?");
 MsgSel("Yeah, I want monsters to abide by the rules too.","Seems like someone knocked something over behind the scenes.","Noise? Was there...?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223502_02_010");
-    MsgDisp("Sassa","But the fact that rules don't apply to
-them, is the scary partー.");
+    MsgDisp("Sassa","But the fact that rules don't apply to them,
+is the scary part—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -63,18 +63,18 @@ Even you were surprised.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040223502_02_050");
-        MsgDisp("Sassa","More importantly, did you see the small
-chair at the back of the old well?");
+        MsgDisp("Sassa","More importantly, did you see the small chair
+at the back of the old well?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223502_02_060");
-        MsgDisp("Sassa","Maybe you could only see it from my line
-of sight.
+        MsgDisp("Sassa","Maybe you could only see it from my line of
+sight.
 Maybe it's a break spot for the ghosts.");
         MsgDisp("主人公","Hehe.
-Rather than coming out the old well,
-they're sitting behind it, huh?");
+Rather than coming out the old well, they're
+sitting behind it, huh?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
@@ -88,28 +88,28 @@ huh?");
         ChEyeOpenLevel(2,0);
         VoicePlay("B040223502_02_080");
         MsgDisp("Sassa","They probably didn't expect a customer as
-tall as me, maybe I'll be able to spot
-more funny things.");
+tall as me, maybe I'll be able to spot more
+funny things.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040223502_02_090");
         MsgDisp("Sassa","Shall we try going again?");
-        MsgDisp("主人公","There might be...things we're not supposed
-to find?");
+        MsgDisp("主人公","There might be...things we're not supposed to
+find?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,5);
         VoicePlay("B040223502_02_100");
-        MsgDisp("Sassa","Oーi, stop it.
+        MsgDisp("Sassa","O—i, stop it.
 That's enough after all.
 Let's go elsewhere!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         SEWait();
-        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ is bad at haunted
-houses. It's a bit cute!)");
+        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ is bad at haunted houses.
+It's a bit cute!)");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(2,253,0,0,4,#1,#1,0,0);

@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     MsgDispSksp(1,0);
     VoicePlay("B030703001_07_010");
     MsgDisp("Mikage","Alright, that's that.
-Well then, if you're headed to the
-aquarium, follow me.");
+Well then, if you're headed to the aquarium,
+follow me.");
     MsgDispSksp(0);
     break ;
     case 1:

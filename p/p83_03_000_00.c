@@ -69,7 +69,7 @@ Thank you, ｛Honda＊＊｝.");
     VoicePlay("P830300000_03_060");
     MsgDisp("Honda","Then, I'll be watching you for a while
 then let's wander around.");
-    MsgDisp("主人公","(Alrーight, I have to show you I'm doing
+    MsgDisp("主人公","(Alr—ight, I have to show you I'm doing
 my job properly!)");
     break ;
     default :

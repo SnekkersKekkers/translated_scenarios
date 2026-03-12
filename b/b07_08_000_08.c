@@ -1,6 +1,6 @@
 MsgDisp("主人公","Hey...
-｛Daichi＊＊｝, do you have a type of girl
-you like?");
+｛Daichi＊＊｝, do you have a type of girl you
+like?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

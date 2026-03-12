@@ -12,8 +12,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B030221002_02_000");
-    MsgDisp("Sassa","Ooh, you looking for something in
-particular?");
+    MsgDisp("Sassa","Ooh, you looking for something in particular?");
     MsgDispSksp(0);
     break ;
     case 1:

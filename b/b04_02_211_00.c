@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040221100_02_010");
-    MsgDisp("Sassa","That's fine, but the monkeys have a
-tendency to take belongings.");
+    MsgDisp("Sassa","That's fine, but the monkeys have a tendency
+to take belongings.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -35,7 +35,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("S110800000_08_050");
-MsgDisp("Shirahane","Ehー! I was thinkin' about taking on a few
+MsgDisp("Shirahane","Eh—! I was thinkin' about taking on a few
 new challenges. Should I give it up?");
 MsgDisp("主人公","No...
 I didn't mean it like that.");

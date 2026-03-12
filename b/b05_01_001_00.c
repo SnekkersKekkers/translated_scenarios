@@ -61,8 +61,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100100_01_040");
 MsgDisp("Kazama","Good, I'm glad. Schools in England don't
-really have stuff like swimming, so I
-can't really swim that well.");
+really have stuff like swimming, so I can't
+really swim that well.");
 MsgDisp("主人公","I see.
 I think it's okay to just enjoy it how you
 want then, ｛Kazama＊＊｝.");
@@ -82,15 +82,15 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B050100100_01_060");
-MsgDisp("Kazama","If we were together in middle school what 
-would it have been like to go to the 
-beach or the pool together?");
+MsgDisp("Kazama","If we were together in middle school what
+would it have been like to go to the beach or
+the pool together?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100100_01_070");
-MsgDisp("Kazama","And it's like I've gone back 10 years ago
-in my mind?");
+MsgDisp("Kazama","And it's like I've gone back 10 years ago in
+my mind?");
 MsgDisp("主人公","Hehe.
 I'm like that too sometimes.");
 ChEye(1,0);

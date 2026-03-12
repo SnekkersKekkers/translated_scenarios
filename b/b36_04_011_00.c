@@ -19,7 +19,8 @@ Ah, you can see Haba High.");
 MsgDisp("主人公","Eh, where?");
 ChMotion(4,0,1);
 VoicePlay("B360401100_04_010");
-MsgDisp("Nanatsumori","There. Hey, come closer this way.");
+MsgDisp("Nanatsumori","There.
+Hey, come closer this way.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChClose(4,0,30);
@@ -54,13 +55,12 @@ ChOpen(4,255,0,4,4,#1,#1,0,0,0,60);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B360401100_04_050");
-MsgDisp("Nanatsumori","When it's suddenly just the two of us,
-it's hard to keep a distance, isn't it?");
+MsgDisp("Nanatsumori","When it's suddenly just the two of us, it's
+hard to keep a distance, isn't it?");
 MsgDisp("主人公","Ah...hehe!");
 ChMotion(4,0,1);
 VoicePlay("B360401100_04_060");
-MsgDisp("Nanatsumori","Well, I wonder what we'll find next
-timeー.");
+MsgDisp("Nanatsumori","Well, I wonder what we'll find next time—.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

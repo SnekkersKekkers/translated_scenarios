@@ -11,5 +11,4 @@ MsgDisp("Hiiragi","Yes. I believe they call this vigor.
 I can even feel your energy.
 It's very pleasant.");
 MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems to like this 
-outfit!)");
+｛Hiiragi＊＊＊｝ seems to like this outfit!)");

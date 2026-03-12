@@ -29,8 +29,8 @@ We get along huh.");
     ChEyeOpenLevel(6,0);
     VoicePlay("B040602201_06_020");
     MsgDisp("Himuro","Hmmm.
-Well, maybe with this you'll have a chance
-to like it.");
+Well, maybe with this you'll have a chance to
+like it.");
     MsgDateResultDisp();
     break ;
     case 2:

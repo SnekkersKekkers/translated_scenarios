@@ -28,8 +28,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10701_03_000");
-MsgDisp("Honda","Ryo-kun's Grandpa's Antique store also
-smells like this.");
+MsgDisp("Honda","Ryo-kun's Grandpa's Antique store also smells
+like this.");
 MsgDisp("主人公","Seems like you like it, ｛Honda＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -42,9 +42,9 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B10701_03_010");
-MsgDisp("Honda","Yep yep! I just happen to be heading in
-that direction, and before I know it,
-we're having a lively conversation!");
+MsgDisp("Honda","Yep yep! I just happen to be heading in that
+direction, and before I know it, we're having
+a lively conversation!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -69,14 +69,14 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10701_03_020");
 MsgDisp("Honda","We start with antiques, then the Kazama
-family ancestors. Once we start talking 
-about Habataki's history, we can't stop!");
+family ancestors. Once we start talking about
+Habataki's history, we can't stop!");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10701_01_040");
-MsgDisp("Kazama","Thanks to that, he never runs out of
-people to talk to.");
+MsgDisp("Kazama","Thanks to that, he never runs out of people
+to talk to.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

@@ -63,8 +63,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10201_06_020");
 MsgDisp("Himuro","Haa...
-I praised him just now, but I take it
-back.");
+I praised him just now, but I take it back.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -94,7 +93,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A10201_02_030");
-MsgDisp("Sassa","Ohー!");
+MsgDisp("Sassa","Oh—!");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

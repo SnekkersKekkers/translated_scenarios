@@ -10,17 +10,17 @@ MsgDisp("主人公","Eh?");
 ChEye(8,4);
 ChMouth(8,0);
 VoicePlay("B070800000_08_350");
-MsgDisp("Shirahane","If we're talking about things I want to
-do, there are so many things I want to
-challenge myself with.");
+MsgDisp("Shirahane","If we're talking about things I want to do,
+there are so many things I want to challenge
+myself with.");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("B070800000_08_360");
-MsgDisp("Shirahane","But when it comes to the future, I just
-can't picture it. Or more like...I can't
-see it yet.");
+MsgDisp("Shirahane","But when it comes to the future, I just can't
+picture it.
+Or more like... I can't see it yet.");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
@@ -33,15 +33,13 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_380");
 MsgDisp("Shirahane","It's not that I haven't thought about it.
-I just can't give a solid answer right
-now.");
+I just can't give a solid answer right now.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B070800000_08_390");
-MsgDisp("Shirahane","But I think it'll become clearer over
-time, and when it does, I'll tell you
-first.");
+MsgDisp("Shirahane","But I think it'll become clearer over time,
+and when it does, I'll tell you first.");
 MsgDisp("主人公","(I'm looking forward to the day I can hear
 ｛Daichi＊＊｝'s dream!)");
 BGMStop();

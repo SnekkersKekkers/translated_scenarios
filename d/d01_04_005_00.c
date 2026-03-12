@@ -66,7 +66,7 @@ Our starting points are just way too
 different!");
 VoicePlay("D010400500_41_110");
 MsgDisp("Student B","You don't have to tell me that!
-Even if I put my mind to it——");
+Even if I put my mind to it—");
 SEVol(0.7);
 SEPlay("EV_SE_GAYA_016",0,0.3);
 SEPlay("EV_SE_864",0,0.8);

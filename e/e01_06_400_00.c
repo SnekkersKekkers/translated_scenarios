@@ -91,7 +91,7 @@ ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("E010640000_06_070");
 MsgDisp("Himuro","Huh?
-I didn't say anything like that——");
+I didn't say anything like that—");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
@@ -105,7 +105,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010640000_06_080");
 MsgDisp("Himuro","Ahh, seriously.
-This is why——");
+This is why—");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5);

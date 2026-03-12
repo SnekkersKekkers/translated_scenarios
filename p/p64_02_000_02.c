@@ -3,7 +3,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P640200002_02_000");
-MsgDisp("Sassa","Ehhhー.
+MsgDisp("Sassa","Ehhh—.
 There's all kinds of herbal tea, huh?");
 MsgDisp("主人公","｛Sassa＊＊｝, do you like it?");
 ChEye(2,0);
@@ -20,7 +20,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("P640200002_02_020");
-MsgDisp("Sassa","Huuーm.
+MsgDisp("Sassa","Huu—m.
 But if you ask me, I think the herbs that
 you grew have quite a lot of benefits.");
 MsgDisp("主人公","Hehe, thank you!

@@ -30,27 +30,26 @@ switch (MsgSelRsltGet()){
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040308302_03_020");
-        MsgDisp("Honda","Yeah, the fireflies in the daytime take
-their time to rest so they can preserve
-their energy.");
+        MsgDisp("Honda","Yeah, the fireflies in the daytime take their
+time to rest so they can preserve their
+energy.");
         MsgDisp("主人公","Shining and flying around at night must be
 tough huh.");
         ChEye(3,1);
         ChMouth(3,3);
         ChMotion(3,3);
         VoicePlay("B040308302_03_030");
-        MsgDisp("Honda","Yep yep, nighttime is a battle for
-fireflies! In order to leave behind
-descendants, it's a battle of serious
-appeal.");
+        MsgDisp("Honda","Yep yep, nighttime is a battle for fireflies!
+In order to leave behind descendants, it's a
+battle of serious appeal.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,4); 
         VoicePlay("B040308302_03_040");
-        MsgDisp("Honda","They're definitely polishing their
-strategies right about now.");
-        MsgDisp("主人公","If ｛Honda＊＊｝ were a firefly, he'd come
-up with some amazing strategies huh?");
+        MsgDisp("Honda","They're definitely polishing their strategies
+right about now.");
+        MsgDisp("主人公","If ｛Honda＊＊｝ were a firefly, he'd come up
+with some amazing strategies huh?");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -67,10 +66,10 @@ This is if I were a firefly too?");
         ChEyeOpenLevel(3,10);
         VoicePlay("B040308302_03_060");
         MsgDisp("Honda","Yep yep!
-Even if you were a firefly, I'm sure I'd
-find you right away!");
-        MsgDisp("主人公","(I'm sure I'd find ｛Honda＊＊｝ as a
-firefly right away too.)");
+Even if you were a firefly, I'm sure I'd find
+you right away!");
+        MsgDisp("主人公","(I'm sure I'd find ｛Honda＊＊｝ as a firefly
+right away too.)");
         break ;
         default :
         DbgAssert(1);

@@ -66,15 +66,16 @@ Once more...");
         MsgClose();
         ChOpen(2,253,2,0,0,#1,#1,0,0);
         VoicePlay("B040215202_02_040");
-        MsgDisp("Sassa","Hey, straighten your elbow. Tighten your
-armpits, swing your hands vertically.");
+        MsgDisp("Sassa","Hey, straighten your elbow.
+Tighten your armpits, swing your hands
+vertically.");
         MsgDisp("主人公","L-Like this?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040215202_02_050");
-        MsgDisp("Sassa","Yeah, if you do it like that, it won't go
-off to the side.");
+        MsgDisp("Sassa","Yeah, if you do it like that, it won't go off
+to the side.");
         MsgDisp("主人公","Understood, I'll try that.");
         MsgClose();
         ChClose(2);

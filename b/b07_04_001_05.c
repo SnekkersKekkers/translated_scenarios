@@ -1,6 +1,6 @@
-MsgDisp("主人公","Recently, me, ｛Nanatsumori＊｝,
-｛Kazama＊＊｝ and ｛Honda＊＊｝ have been
-spending more time together as a four.");
+MsgDisp("主人公","Recently, me, ｛Nanatsumori＊｝, ｛Kazama＊＊｝
+and ｛Honda＊＊｝ have been spending more time
+together as a four.");
 VoicePlay("B070400001_04_360");
 MsgDisp("Nanatsumori","Yeah.");
 MsgDisp("主人公","Um...
@@ -19,8 +19,7 @@ VoicePlay("B070400001_04_380");
 MsgDisp("Nanatsumori","What.
 Is there something still bothering you?");
 MsgDisp("主人公","No, it's not that but.
-I'm worried I'm making you guys fuss over
-me.");
+I'm worried I'm making you guys fuss over me.");
 ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("B070400001_04_390");

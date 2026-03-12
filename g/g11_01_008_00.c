@@ -61,7 +61,7 @@ VoicePlay("G110100800_01_040");
 MsgDisp("Kazama","So what was it?
 I have plenty of time, so let's take the
 time to talk about it.");
-MsgDisp("主人公","Ehhー?
+MsgDisp("主人公","Ehh—?
 Can't I hear what ｛Kazama＊＊｝ had to say
 instead?");
 ChEye(1,0);

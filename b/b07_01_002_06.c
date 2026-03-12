@@ -1,6 +1,6 @@
-MsgDisp("主人公","Recently it's become normal for the four
-of us; me, you, ｛Honda＊＊｝ and
-｛Nanatsumori＊｝ to be together.");
+MsgDisp("主人公","Recently it's become normal for the four of
+us; me, you, ｛Honda＊＊｝ and ｛Nanatsumori＊｝
+to be together.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -35,16 +35,16 @@ ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_370");
-MsgDisp("Kazama","Ah, I see. Knowing Western and Japanese
-dressmaking is basic knowledge when you
-deal in antiques.");
+MsgDisp("Kazama","Ah, I see.
+Knowing Western and Japanese dressmaking is
+basic knowledge when you deal in antiques.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100002_01_380");
 MsgDisp("Kazama","Or maybe cooking?
-I live alone, and if no one makes sweets
-for me, I have to do it myself, right?");
+I live alone, and if no one makes sweets for
+me, I have to do it myself, right?");
 MsgDisp("主人公","(Maybe our bond is thanks to everyone's
 feminine power?)");
 BGMStop();

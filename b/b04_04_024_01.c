@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040402401_04_010");
     MsgDisp("Nanatsumori","No, it's probably not okay.
-Right now, I feel like laughing as hard as
-I can.");
+Right now, I feel like laughing as hard as I
+can.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

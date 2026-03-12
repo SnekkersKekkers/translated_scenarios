@@ -39,8 +39,7 @@ ChEye(8,0);
 ChMouth(8,3);
 VoicePlay("B050800300_08_030");
 MsgDisp("Shirahane","Hehe!
-Hey, why don't we hang out a little
-longer?");
+Hey, why don't we hang out a little longer?");
 MsgDisp("主人公","Eh, that's fine but...");
 ChEye(8,3);
 ChMouth(8,3);
@@ -80,15 +79,14 @@ MsgDisp("主人公","Eh?");
 StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("B050800300_08_080");
-MsgDisp("Shirahane","I saw a photo of the high school model
-NANA wearing this item.");
+MsgDisp("Shirahane","I saw a photo of the high school model NANA
+wearing this item.");
 StlEye(8,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5);
 VoicePlay("B050800300_08_090");
 MsgDisp("Shirahane","He looked super cool...
-I wondered if I could've pulled it off
-too...");
+I wondered if I could've pulled it off too...");
 MsgDisp("主人公","Hehe, is that right?");
 StlEye(8,2);
 StlMouth(8,0);
@@ -97,8 +95,8 @@ MsgDisp("Shirahane","As I thought, it's different for a model.
 That's how it is.
 Haha!");
 MsgDisp("主人公","(Hehe!
-...But how do you look cool wearing that
-hat and doll?)");
+...But how do you look cool wearing that hat
+and doll?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

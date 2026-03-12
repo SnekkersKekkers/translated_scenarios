@@ -9,8 +9,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B020302130_03_010");
-MsgDisp("Honda","I mean it in a good way. Maybe it's
-because of your natural outfit? Being next
-to you feels more comfortable than usual.");
-MsgDisp("主人公","(｛Honda＊＊｝ seems to have grown fond of
-this kind of outfit!)");
+MsgDisp("Honda","I mean it in a good way. Maybe it's because
+of your natural outfit? Being next to you
+feels more comfortable than usual.");
+MsgDisp("主人公","(｛Honda＊＊｝ seems to have grown fond of this
+kind of outfit!)");

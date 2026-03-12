@@ -12,8 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0,1);
     VoicePlay("B040518600_05_000");
     MsgDisp("Hiiragi","The action was amazing.
-But, I can't remember anything of the
-story.");
+But, I can't remember anything of the story.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +35,8 @@ The sound was too loud.");
     ChMotion(5,4);
     VoicePlay("B040518600_05_020");
     MsgDisp("Hiiragi","That's harsh.
-I'm sure they must have spent a lot of
-money on production.");
+I'm sure they must have spent a lot of money
+on production.");
     MsgDateResultDisp();
     break ;
     default :

@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,3);
     VoicePlay("B040308202_03_010");
     MsgDisp("Honda","Yep yep, we can't overlook even small
-changes. Then, let's start our two-person
-exploration!");
+changes.
+Then, let's start our two-person exploration!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,8 +33,8 @@ exploration!");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040308202_03_020");
-        MsgDisp("Honda","Even ordinary things become discoveries
-if you change your viewpoint.
+        MsgDisp("Honda","Even ordinary things become discoveries if
+you change your viewpoint.
 Huh? That's your specialty.");
         MsgDateResultDisp();
         break ;
@@ -45,8 +45,8 @@ Huh? That's your specialty.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040308202_03_030");
-        MsgDisp("Honda","When I'm with you, I'm always discovering
-new things.");
+        MsgDisp("Honda","When I'm with you, I'm always discovering new
+things.");
         MsgDisp("主人公","You're exaggerating there.");
         ChEye(3,4);
         ChMouth(3,0);
@@ -59,15 +59,15 @@ new things.");
         ChMotion(3,2);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308202_03_050");
-        MsgDisp("Honda","That's also what it was like with my
-sister when she was younger...");
+        MsgDisp("Honda","That's also what it was like with my sister
+when she was younger...");
         MsgDisp("主人公","Your sister?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040308202_03_060");
-        MsgDisp("Honda","Right right, she started asking all sorts
-of questions when I taught her, and new
+        MsgDisp("Honda","Right right, she started asking all sorts of
+questions when I taught her, and new
 questions started popping up for me too.");
         ChEye(3,4);
         ChMouth(3,4);

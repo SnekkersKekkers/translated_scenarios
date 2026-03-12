@@ -22,7 +22,7 @@ ChMouth(8,1);
 ChMotion(8,3,1);
 VoicePlay("D020800200_08_020");
 MsgDisp("Shirahane","Don't laugh!
-Sighー...");
+Sigh—...");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2,1);
@@ -39,7 +39,7 @@ MsgDisp("Shirahane","Isn't it?
 But I've never actually seen one.");
 MsgDisp("主人公","Now that I think about it, Haba High has a
 \"Perfect Score Anpan\" that makes you smarter.
-It's at the cafeteria——");
+It's at the cafeteria—");
 ChEye(8,0);
 ChMouth(8,5);
 ChMotion(8,1,1);

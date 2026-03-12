@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040402202_04_010");
-    MsgDisp("Nanatsumori","Right, right. No matter how you edit it,
-and make it beautiful, there's no sea
-breeze blowing from a photograph.");
+    MsgDisp("Nanatsumori","Right, right. No matter how you edit it, and
+make it beautiful, there's no sea breeze
+blowing from a photograph.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -47,8 +47,7 @@ Why are you sulking?");
         VoicePlay("B040402202_04_030");
         MsgDisp("Nanatsumori","You're sulking?");
         MsgDisp("主人公","I mean...
-We came out all this way together after
-all.");
+We came out all this way together after all.");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,2,1);
@@ -70,21 +69,20 @@ Do you want to take a picture?");
         ChEye(4,0);
         ChMouth(4,4);
         VoicePlay("B040402202_04_070");
-        MsgDisp("Nanatsumori","Let's take a picture together, the two of
-us.");
+        MsgDisp("Nanatsumori","Let's take a picture together, the two of us.");
         ChEye(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040402202_04_080");
-        MsgDisp("Nanatsumori","Of course, it won't be for social media,
-just for private use.");
+        MsgDisp("Nanatsumori","Of course, it won't be for social media, just
+for private use.");
         MsgDisp("主人公","Is that okay?");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040402202_04_090");
         MsgDisp("Nanatsumori","It's okay.
-But, that adds another secret that's
-between us.");
+But, that adds another secret that's between
+us.");
         MsgDisp("主人公","Hehe!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

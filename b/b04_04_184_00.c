@@ -12,8 +12,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040418400_04_000");
-    MsgDisp("Nanatsumori","Right! The world of colorful sea slugs is
-amazing. I'm going to buy merch.");
+    MsgDisp("Nanatsumori","Right!
+The world of colorful sea slugs is amazing.
+I'm going to buy merch.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -24,9 +25,9 @@ amazing. I'm going to buy merch.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040418400_04_010");
-    MsgDisp("Nanatsumori","Really? The sea slugs were the lead
-actors, it was so amazing that I couldn't
-take my eyes off them.");
+    MsgDisp("Nanatsumori","Really? The sea slugs were the lead actors,
+it was so amazing that I couldn't take my
+eyes off them.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,8 +38,8 @@ take my eyes off them.");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("B040418400_04_020");
-    MsgDisp("Nanatsumori","Sea slugs are that much of a no-go for
-girls, huh...");
+    MsgDisp("Nanatsumori","Sea slugs are that much of a no-go for girls,
+huh...");
     MsgDateResultDisp();
     break ;
     default :

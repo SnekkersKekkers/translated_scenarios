@@ -9,7 +9,7 @@ SEPlay("EV_SE_685");
 SEPlay("EV_SE_593");
 ScrQuake(1);
 MsgDisp("主人公","(Noo, my bag is about to fall∋
-Ahh, my drink is falling too——)");
+Ahh, my drink is falling too—)");
 VoicePlay("D030900000_09_000");
 MsgDisp("Kuya?","You, watch out.");
 MsgClose();
@@ -45,7 +45,7 @@ MsgDisp("Kuya?","Hm?
 So are you okay?");
 MsgDisp("主人公","Ah, yes!
 I'm fine but...
-Just now, you and I——");
+Just now, you and I—");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -107,7 +107,7 @@ MsgSel("Get his name","Let him go");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Excuse me!
-What's your name——");
+What's your name—");
     VoicePlay("D030900000_09_110");
     MsgDisp("Kuya?","Sorry!\nI have something to do!\nSee you later!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.4);

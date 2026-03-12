@@ -6,7 +6,7 @@ ChNanaType(0);
 ChOpen(4,254,0,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P840400000_04_000");
-MsgDisp("Nanatsumori","Haー...that was quite a lot to move.");
+MsgDisp("Nanatsumori","Ha—...that was quite a lot to move.");
 MsgDisp("主人公","Yeah.
 It's thanks to ｛Nanatsumori＊｝'s help, you
 really saved me!");
@@ -29,7 +29,7 @@ VoicePlay("P840400000_04_030");
 MsgDisp("Nanatsumori","Let's go out once you reach a stopping
 point?
 As a reward, I'll treat you to takoyaki.");
-MsgDisp("主人公","(Yayー!
+MsgDisp("主人公","(Yay—!
 I'm glad my work also went well.)");
 MsgClose();
 ScrFadeOut(0,0);

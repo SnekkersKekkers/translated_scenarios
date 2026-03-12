@@ -17,7 +17,7 @@ ScrFadeIn(0);
 Wait(60);
 VoicePlay("T040420000_04_010");
 MsgDisp("Nanatsumori","Kazama, you can take the hair pin off.
-I'll set your hair properly n——");
+I'll set your hair properly n—");
 VoicePlay("T040420000_01_000");
 MsgDisp("Kazama","It's fine.
 I'm okay like this.");

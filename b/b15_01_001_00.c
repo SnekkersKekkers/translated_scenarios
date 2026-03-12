@@ -13,8 +13,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B150100100_01_010");
 MsgDisp("Kazama","So you know what I'm talking about.
-So that means I can return the favour,
-right?");
+So that means I can return the favour, right?");
 MsgDisp("主人公","Umm, that...");
 ChEye(1,0);
 ChMouth(1,1);
@@ -58,8 +57,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B150100100_01_070");
-MsgDisp("Kazama","Rather than having other guys do it,
-do as you like with me.
+MsgDisp("Kazama","Rather than having other guys do it, do as
+you like with me.
 Go ahead.");
 MsgDisp("主人公","(Umm, even if you say go ahead...)");
 MsgClose();

@@ -14,9 +14,9 @@ MsgDisp("Nanatsumori","It's really beautiful.");
 MsgDisp("主人公","Yeah.
 It's amazing...!");
 VoicePlay("B360450401_04_010");
-MsgDisp("Nanatsumori","I've known about the lights in Habataki
-City since I lived in the neighboring
-town. One day...");
+MsgDisp("Nanatsumori","I've known about the lights in Habataki City
+since I lived in the neighboring town.
+One day...");
 ChEye(4,4);
 ChMotion(4,1,1);
 VoicePlay("B360450401_04_020");
@@ -34,16 +34,14 @@ VoicePlay("B360450401_04_050");
 MsgDisp("Nanatsumori","Are you just going to ignore that?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B360450401_04_060");
-MsgDisp("Nanatsumori","I thought I said something really
-shocking.");
+MsgDisp("Nanatsumori","I thought I said something really shocking.");
 MsgDisp("主人公","Umm...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B360450401_04_070");
-MsgDisp("Nanatsumori","Whoaー...
-Seems like it was casually brushed
-aside...");
+MsgDisp("Nanatsumori","Whoa—...
+Seems like it was casually brushed aside...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

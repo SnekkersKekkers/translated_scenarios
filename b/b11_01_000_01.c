@@ -31,8 +31,8 @@ ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110100001_34_030");
 MsgDisp("Guy","Well, quickly.
-From reality to the sea of the virtual
-world, let's go and surf the net.");
+From reality to the sea of the virtual world,
+let's go and surf the net.");
 MsgDisp("主人公","Ehh∋
 Hey, what are you talking about!?");
 ChPosition(34,2);
@@ -61,7 +61,7 @@ ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110100001_34_050");
 MsgDisp("Guy","Ehh, scary.
-This is why I hate realityー.");
+This is why I hate reality—.");
 ChMotion(1,1);
 SEPlay("EV_SE_580");
 ChClose(34);

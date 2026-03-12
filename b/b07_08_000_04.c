@@ -39,14 +39,13 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_210");
 MsgDisp("Shirahane","That's right.
-When I want ta concentrate during
-studying, when I want ta think carefully.");
+When I want ta concentrate during studying,
+when I want ta think carefully.");
 ChMouth(8,3);
 VoicePlay("B070800000_08_220");
-MsgDisp("Shirahane","I'm surprisingly more on the ball when I
-can hear music than when it's quiet.");
-MsgDisp("主人公","(I see...he listens to a wide range of
-music.
+MsgDisp("Shirahane","I'm surprisingly more on the ball when I can
+hear music than when it's quiet.");
+MsgDisp("主人公","(I see...he listens to a wide range of music.
 I wonder if he doesn't like singing?)");
 BGMStop();
 MsgClose();

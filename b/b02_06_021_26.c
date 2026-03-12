@@ -10,8 +10,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B020602126_06_010");
 MsgDisp("Himuro","Yeah.
-You wear it well, so it's not bad after
-all.");
+You wear it well, so it's not bad after all.");
 MsgDisp("主人公","(Oh, good.
-｛Himuro＊＊｝ seems to have come to like
-these clothes.)");
+｛Himuro＊＊｝ seems to have come to like these
+clothes.)");

@@ -5,8 +5,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040317002_03_000");
-MsgDisp("Honda","Did you know that if you score 100 points
-in karaoke, you get one hour free?");
+MsgDisp("Honda","Did you know that if you score 100 points in
+karaoke, you get one hour free?");
 MsgSel("The scoring criteria is pretty vague...","Alright, let's get it!","｛Honda＊＊｝, you always get a perfect score right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,9 +28,9 @@ Let's examine that first.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040317002_03_020");
-    MsgDisp("Honda","It'd be a pain if I scored too many 100s,
-no? We wouldn't be able to leave if I won
-that many free hours.");
+    MsgDisp("Honda","It'd be a pain if I scored too many 100s, no?
+We wouldn't be able to leave if I won that
+many free hours.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -56,10 +56,9 @@ that many free hours.");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040317002_03_040");
-        MsgDisp("Honda","Haha, it's way different from taking a
-test.");
-        MsgDisp("主人公","Hehe, but ｛Honda＊＊｝ doesn't suit
-anything less than 100 points.");
+        MsgDisp("Honda","Haha, it's way different from taking a test.");
+        MsgDisp("主人公","Hehe, but ｛Honda＊＊｝ doesn't suit anything
+less than 100 points.");
         ChEye(3,1);
         ChMouth(3,3);
         ChMotion(3,4);
@@ -92,8 +91,9 @@ Alright, next song.");
         ChMouth(3,4);
         ChMotion(3,1);
         VoicePlay("B040317002_03_070");
-        MsgDisp("Honda","No. I can't fail you. That's the one thing
-I absolutely won't do.");
+        MsgDisp("Honda","No.
+I can't fail you.
+That's the one thing I absolutely won't do.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040317002_03_080");

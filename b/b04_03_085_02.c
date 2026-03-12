@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040308502_03_010");
     MsgDisp("Honda","Yep yep, that's right!
-It would be great if everything was
-covered in snow!");
+It would be great if everything was covered
+in snow!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -64,8 +64,8 @@ accurate down to the area, thanks to
 supercomputers.");
         ChSet(3,3);
         VoicePlay("B040308502_03_060");
-        MsgDisp("Honda","See? You got the scenery you were hoping
-for.");
+        MsgDisp("Honda","See?
+You got the scenery you were hoping for.");
         MsgDisp("主人公","Yeah, ｛Honda＊＊｝ thank you.");
         ChEye(3,0);
         ChMouth(3,3);

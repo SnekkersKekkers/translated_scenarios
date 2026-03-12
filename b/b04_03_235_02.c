@@ -45,8 +45,8 @@ Could it have been...was it∋");
         ChMotion(3,1);
         VoicePlay("B040323502_03_030");
         MsgDisp("Honda","Your voice was really something.
-If you're not good with this kind of
-thing, you should tell me, okay?");
+If you're not good with this kind of thing,
+you should tell me, okay?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,15 +62,15 @@ My voice just came out on its own.");
         ChMouth(3,3);
         ChMotion(3,0);
         VoicePlay("B040323502_03_050");
-        MsgDisp("Honda","Cuteー.");
+        MsgDisp("Honda","Cute—.");
         MsgDisp("主人公","Eh?");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,5);
         VoicePlay("B040323502_03_060");
         MsgDisp("Honda","Ah, sorry, sorry!
-You were scared, why am I thinking about
-how cute you are.");
+You were scared, why am I thinking about how
+cute you are.");
         MsgDisp("主人公","That's right, come on!");
         ChEye(3,4);
         ChMouth(3,0);
@@ -79,8 +79,7 @@ how cute you are.");
         VoicePlay("B040323502_03_070");
         MsgDisp("Honda","Huh?
 Huh?
-Something's tightening up here in 
-my chest.");
+Something's tightening up here in my chest.");
         MsgDisp("主人公","Eh, are you alright?");
         ChEye(3,5);
         ChMouth(3,4);
@@ -95,8 +94,7 @@ It's chemistry!");
         ChMotion(3,2);
         ChCheek(3,10);
         VoicePlay("B040323502_03_090");
-        MsgDisp("Honda","They say love is a chemical reaction,
-right?
+        MsgDisp("Honda","They say love is a chemical reaction, right?
 What's happening to my body?");
         MsgDisp("主人公","(｛Honda＊＊｝, your face is red...
 I wonder if he's alright?)");

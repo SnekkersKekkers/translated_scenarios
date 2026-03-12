@@ -5,8 +5,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 ScrFadeIn(0);
 VoicePlay("B040710500_07_000");
-MsgDisp("Mikage","I brought you here, but it's a bit
-difficult for me!");
+MsgDisp("Mikage","I brought you here, but it's a bit difficult
+for me!");
 MsgSel("Don't think about it, feel it!","It's over for you as soon as you give up...","Same here!");
 switch (MsgSelRsltGet()){
     case 0:

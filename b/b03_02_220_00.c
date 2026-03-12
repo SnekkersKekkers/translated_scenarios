@@ -30,8 +30,7 @@ Being at the very top always feels good.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B030222000_02_030");
-    MsgDisp("Sassa","You're pretty into your studies, aren't
-you?");
+    MsgDisp("Sassa","You're pretty into your studies, aren't you?");
     MsgDispSksp(0);
     break ;
     default :

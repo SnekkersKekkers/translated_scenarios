@@ -24,7 +24,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P730D00000_22_010");
-MsgDisp("Hikaru","It'll be alーright!
+MsgDisp("Hikaru","It'll be al—right!
 If Mari is like her usual biiig smiling
 self, it'll be a huge success ♪");
 MsgDisp("主人公","Y-Yeah.");

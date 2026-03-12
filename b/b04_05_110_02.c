@@ -47,8 +47,9 @@ Looks like it's for private use.");
         ChMotion(5,5);
         ChCheek(5,7);
         VoicePlay("B040511002_05_040");
-        MsgDisp("Hiiragi","! Just the two of us—— Then, let's
-hurry.");
+        MsgDisp("Hiiragi","!
+Just the two of us—
+Then, let's hurry.");
         MsgClose();
         SEPlay("EV_SE_558");
         ChClose(5);
@@ -68,10 +69,10 @@ poolside.");
         ChMotion(5,3);
         VoicePlay("B040511002_05_060");
         MsgDisp("Hiiragi","But, let's hurry.
-To feel like I'm in a private hot spring
-with you, running by the poolside is okay.");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, do you like jacuzzi baths
-that much?)");
+To feel like I'm in a private hot spring with
+you, running by the poolside is okay.");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, do you like jacuzzi baths that
+much?)");
         break ;
         default :
         DbgAssert(1);
@@ -95,8 +96,7 @@ Shall we swim a bit, then get in?");
     ChCheek(5,7);
     VoicePlay("B040511002_05_080");
     MsgDisp("Hiiragi","That's right.
-Feeling like I'm in a hot spring with
-you...");
+Feeling like I'm in a hot spring with you...");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

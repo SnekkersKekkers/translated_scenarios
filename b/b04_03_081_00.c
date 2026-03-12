@@ -5,8 +5,8 @@ ChMotion(3,1,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040308100_03_000");
-MsgDisp("Honda","Yep, yep, everyone looks like they're
-having fun!");
+MsgDisp("Honda","Yep, yep, everyone looks like they're having
+fun!");
 MsgSel("｛Honda＊＊｝ suits the falling cherry blossoms, huh?","The falling cherry blossoms are so fleeting...","I want to eat some delicious cherry blossom mochi.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,8 +38,8 @@ That gives me a sense of strength.");
     ChMotion(3,1,1);
     VoicePlay("B040308100_03_030");
     MsgDisp("Honda","It's nice huh?
-That aroma of the pickled cherry blossom
-leaf is good.");
+That aroma of the pickled cherry blossom leaf
+is good.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

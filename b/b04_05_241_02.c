@@ -31,8 +31,8 @@ Why not have it in ice cream?");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040524102_05_020");
-        MsgDisp("Hiiragi","I personally do not like warm milk, so
-you'll be the one drinking it.");
+        MsgDisp("Hiiragi","I personally do not like warm milk, so you'll
+be the one drinking it.");
         MsgDisp("主人公","Ehh?
 It's troubling to be in charge of that.
 Then, shall we do something else?");
@@ -47,21 +47,21 @@ Then, shall we do something else?");
         ChEye(5,3);
         ChMotion(5,3);
         VoicePlay("B040524102_05_050");
-        MsgDisp("Hiiragi","Like, \"One, two, squeezeーー\" I suppose?");
+        MsgDisp("Hiiragi","Like, \"One, two, squeeze—\" I suppose?");
         MsgClose();
         ScrFadeOut(0,0);
         MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
         VoicePlay("B040524102_05_060");
-        MsgDisp("Hiiragi","One, two, squeezeーー!");
+        MsgDisp("Hiiragi","One, two, squeeze—!");
         SEPlay("EV_SE_521",0.1,0.7);
         SEWait();
-        MsgDisp("主人公","One, two, squeezeーー!");
+        MsgDisp("主人公","One, two, squeeze—!");
         SEPlay("EV_SE_521",0.2,0.6);
         SEWait();
         VoicePlay("B040524102_05_070");
-        MsgDisp("Hiiragi","One, two, squeezeーー!");
+        MsgDisp("Hiiragi","One, two, squeeze—!");
         SEPlay("EV_SE_521",0,0.8);
         SEWait();
         MsgClose();
@@ -81,22 +81,22 @@ Did you enjoy it, ｛Hiiragi＊＊＊｝?");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040524102_05_090");
-        MsgDisp("Hiiragi","Thanks to you, I was able to have a fun
-and delicious experience.");
+        MsgDisp("Hiiragi","Thanks to you, I was able to have a fun and
+delicious experience.");
         ChEye(5,4);
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040524102_05_100");
-        MsgDisp("Hiiragi","You should try everything once. We're the
-only ones who did it twice, right?");
+        MsgDisp("Hiiragi","You should try everything once.
+We're the only ones who did it twice, right?");
         MsgDisp("主人公","Yeah.
 Thanks to that, we might have gotten a bit
 better at milking.");
         ChEye(5,0);
         ChMouth(5,4);
         VoicePlay("B040524102_05_110");
-        MsgDisp("Hiiragi","If we told Mikage sensei this I wonder if
-he would be surprised...");
+        MsgDisp("Hiiragi","If we told Mikage sensei this I wonder if he
+would be surprised...");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

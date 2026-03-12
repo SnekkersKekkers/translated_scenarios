@@ -5,7 +5,7 @@ MsgDisp("主人公","(I'm done with entrance exams and it's
 finally time to graduate...)");
 MsgDisp("主人公","(Soon it'll be time to say goodbye to this
 building. Come to think of it, two years ago
-here I met Himuro——)");
+here I met Himuro—)");
 MsgClose();
 ChOpen(6,254,7,2,0,0,#1,0,0);
 MsgDisp("主人公","Eh...
@@ -81,7 +81,7 @@ StlEyeOpenLevel(6,0,1);
 VoicePlay("D010600500_06_080");
 MsgDisp("Himuro","Before I knew it, being alone started to
 become uncomfortable.
-...And yet——");
+...And yet—");
 StlEye(6,2);
 StlMouth(6,1);
 VoicePlay("D010600500_06_090");
@@ -129,7 +129,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","Eh, what now——");
+MsgDisp("主人公","Eh, what now—");
 MsgClose();
 ChOpen(6,254,2,2,0,0,#1,0,0);
 VoicePlay("D010600500_06_150");

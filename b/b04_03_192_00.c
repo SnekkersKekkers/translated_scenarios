@@ -35,7 +35,7 @@ You should give it a bit more credit.");
     ChMouth(3,0);
     ChMotion(3,5);
     VoicePlay("B040319200_03_020");
-    MsgDisp("Honda","Shhー, look.
+    MsgDisp("Honda","Shh—, look.
 A cat fanatic is glaring at you!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

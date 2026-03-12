@@ -14,7 +14,7 @@ VoicePlay("B050600300_06_010");
 MsgDisp("Himuro","The look in your eyes changed.
 Do you maybe...want one?");
 MsgDisp("主人公","Yeah!
-But I can't get it——");
+But I can't get it—");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -63,21 +63,20 @@ StlEye(6,1);
 StlMouth(6,0);
 StlCheek(6,10);
 VoicePlay("B050600300_06_080");
-MsgDisp("Himuro","You know, I didn't say to stare at my
-face.");
+MsgDisp("Himuro","You know, I didn't say to stare at my face.");
 MsgDisp("主人公","Ah...");
 StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0);
 VoicePlay("B050600300_06_090");
-MsgDisp("Himuro","It's really distracting, or I guess,
-it fires me up...");
+MsgDisp("Himuro","It's really distracting, or I guess, it fires
+me up...");
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
 StlEye(6,0);
 StlMouth(6,0);
 StlCheek(6,0);
 VoicePlay("B050600300_06_100");
-MsgDisp("Himuro","Eh——");
+MsgDisp("Himuro","Eh—");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -96,7 +95,7 @@ ChOpen(6,255,2,2,0,0,#1,0,0);
 VoicePlay("B050600300_06_110");
 MsgDisp("Himuro","Haa...");
 MsgDisp("主人公","Sorry?
-I shouldn't have said that I wanted——");
+I shouldn't have said that I wanted—");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

@@ -30,8 +30,7 @@ things need proper appreciation.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040102101_01_020");
-    MsgDisp("Kazama","Nah, it doesn't need to be flashy,
-right?");
+    MsgDisp("Kazama","Nah, it doesn't need to be flashy, right?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -40,8 +39,8 @@ right?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040102101_01_030");
-    MsgDisp("Kazama","I guess so. I wouldn't want to not be able
-to wander around with you like this, just
+    MsgDisp("Kazama","I guess so. I wouldn't want to not be able to
+wander around with you like this, just
 talking about nothing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

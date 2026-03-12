@@ -25,9 +25,9 @@ I wonder how deep it goes.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040506201_05_020");
-    MsgDisp("Hiiragi","Hahaha. You can't just say
-\"Immediately!\"like that. You really are
-something.");
+    MsgDisp("Hiiragi","Hahaha.
+You can't just say \"Immediately!\"like that.
+You really are something.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMouth(5,3);
     VoicePlay("B040506200_05_010");
-    MsgDisp("Hiiragi","Yes, the contrast between this and the
-beach is amazing.");
+    MsgDisp("Hiiragi","Yes, the contrast between this and the beach
+is amazing.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I've prepared the materials for the next
 meeting...)");
 VoicePlay("G110500801_40_000");
-MsgDisp("School Boy","Good work todayー.
+MsgDisp("School Boy","Good work today—.
 Please lock up.");
 MsgDisp("主人公","Yeees.");
 MsgDisp("主人公","(Huh?
@@ -31,7 +31,7 @@ while (1){
         }
     ChMouthOpenLevel(5,0);
     VoicePlay("G110500801_05_030");
-    MsgDisp("Hiiragi","Phewー,Zzzー...");
+    MsgDisp("Hiiragi","Phew—,Zzz—...");
     }
 ChMotion(5,1);
 Wait(20,0);
@@ -75,7 +75,7 @@ ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500801_05_060");
 MsgDisp("Hiiragi","Thank you.
-Phewー,I'll do a bit more for now.");
+Phew—,I'll do a bit more for now.");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,2);

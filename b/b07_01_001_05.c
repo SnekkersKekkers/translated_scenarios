@@ -6,8 +6,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100001_01_240");
 MsgDisp("Kazama","You're the lone girl in the group.");
-MsgDisp("主人公","I wonder if it looks strange to other
-people that I'm there...");
+MsgDisp("主人公","I wonder if it looks strange to other people
+that I'm there...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -38,9 +38,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,10);
 VoicePlay("B070100001_01_280");
-MsgDisp("Kazama","We can be together like this because
-you're there. If you weren't, it wouldn't
-be like this. Everyone likes——");
+MsgDisp("Kazama","We can be together like this because you're
+there. If you weren't, it wouldn't be like
+this. Everyone likes—");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

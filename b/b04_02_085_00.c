@@ -26,8 +26,8 @@ It's the middle of winter.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040208500_02_020");
-    MsgDisp("Sassa","Yeah, it's definitely like the setting of
-a suspense drama.");
+    MsgDisp("Sassa","Yeah, it's definitely like the setting of a
+suspense drama.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

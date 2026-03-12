@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040209002_02_000");
-MsgDisp("Sassa","When I come here, I can't help but think
-of salad.");
+MsgDisp("Sassa","When I come here, I can't help but think of
+salad.");
 MsgSel("Are you hungry?","Vegetables are important huh?","You can't eat the grass here.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040209002_02_010");
-    MsgDisp("Sassa","No, not that it looks delicious or
-anything.");
+    MsgDisp("Sassa","No, not that it looks delicious or anything.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -61,8 +60,8 @@ There's no dressing.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040209002_02_050");
-        MsgDisp("Sassa","But the way you said \"the grass here\"
-is pretty out there too, you know?");
+        MsgDisp("Sassa","But the way you said \"the grass here\" is
+pretty out there too, you know?");
         MsgDisp("主人公","Hehe, that's right.
 Does ｛Sassa＊＊｝ like salad?");
         ChEye(2,0);
@@ -70,14 +69,14 @@ Does ｛Sassa＊＊｝ like salad?");
         ChMotion(2,0);
         VoicePlay("B040209002_02_060");
         MsgDisp("Sassa","Vegetables are good for nutrition, and
-they're important for athletes. That's
-about it.");
+they're important for athletes.
+That's about it.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040209002_02_070");
-        MsgDisp("Sassa","Ah, but if you made them at home, I would
-eat lots of it.");
+        MsgDisp("Sassa","Ah, but if you made them at home, I would eat
+lots of it.");
         MsgDisp("主人公","Homegrown vegetables?");
         ChEye(2,0);
         ChMouth(2,4);

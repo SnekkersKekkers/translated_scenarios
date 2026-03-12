@@ -22,5 +22,5 @@ VoicePlay("B020202126_02_020");
 MsgDisp("Sassa","Oh, sorry!
 Man, what a weird thing to say.
 Anyway, it's just different when it's you.");
-MsgDisp("主人公","(He seems to have started to like this
-kind of fashion too!)");
+MsgDisp("主人公","(He seems to have started to like this kind
+of fashion too!)");

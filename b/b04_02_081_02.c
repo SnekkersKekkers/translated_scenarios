@@ -54,28 +54,27 @@ right? That kind of thing?");
         ChMouth(2,4);
         ChMotion(2,4,1);
         VoicePlay("B040208102_02_040");
-        MsgDisp("Sassa","Yeah. But cherry blossoms bloom every
-year. My chances at Inter-High are
-limited.");
+        MsgDisp("Sassa","Yeah.
+But cherry blossoms bloom every year.
+My chances at Inter-High are limited.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040208102_02_050");
         MsgDisp("Sassa","I have to make it bloom splendidly.");
-        MsgDisp("主人公","Yeah, if it's ｛Sassa＊＊｝, it'll be
-alright.");
+        MsgDisp("主人公","Yeah, if it's ｛Sassa＊＊｝, it'll be alright.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040208102_02_060");
-        MsgDisp("Sassa","When you say it, I strangely feel like
-it'll go well.");
+        MsgDisp("Sassa","When you say it, I strangely feel like it'll
+go well.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040208102_02_070");
-        MsgDisp("Sassa","Alright, I too will bloom suddenly, then
-fade suddenly!");
+        MsgDisp("Sassa","Alright, I too will bloom suddenly, then fade
+suddenly!");
         MsgDisp("主人公","Hehe, ｛Sassa＊＊｝ doesn't have to fade
 though?");
         ChEye(2,4);

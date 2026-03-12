@@ -6,8 +6,8 @@ ChMouth(2,3);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040206100_02_000");
-MsgDisp("Sassa","All the heat and sand, it really feels
-like summer.");
+MsgDisp("Sassa","All the heat and sand, it really feels like
+summer.");
 MsgSel("Want to race in the water?","Let's eat at the beach club!","Want to look for shells?");
 switch (MsgSelRsltGet()){
     case 0:

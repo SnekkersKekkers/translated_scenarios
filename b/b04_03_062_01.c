@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(3,0);
     VoicePlay("B040306201_03_010");
     MsgDisp("Honda","Yeah, listen closely.
-When no one's talking, you can only hear
-the sound of the waves echoing.");
+When no one's talking, you can only hear the
+sound of the waves echoing.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,8 +30,8 @@ the sound of the waves echoing.");
     ChMotion(3,1);
     ChEyeOpenLevel(3,9);
     VoicePlay("B040306201_03_020");
-    MsgDisp("Honda","Alright then my assistant, please gather
-up the wharf roaches.");
+    MsgDisp("Honda","Alright then my assistant, please gather up
+the wharf roaches.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

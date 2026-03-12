@@ -21,9 +21,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040110100_01_010");
-    MsgDisp("Kazama","Yeah, there's a lot of historical
-documents and sites intact. The people
-here really love their hometown.");
+    MsgDisp("Kazama","Yeah, there's a lot of historical documents
+and sites intact.
+The people here really love their hometown.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,9 +35,9 @@ here really love their hometown.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040110100_01_020");
-    MsgDisp("Kazama","...That airheaded response is just like
-you. Besides, my ancestors appeared in
-local history here in the medieval ages.");
+    MsgDisp("Kazama","...That airheaded response is just like you.
+Besides, my ancestors appeared in local
+history here in the medieval ages.");
     ChEyeOpenLevel(1,0);
     MsgDateResultDisp();
     break ;
@@ -47,8 +47,8 @@ local history here in the medieval ages.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040110100_01_030");
-    MsgDisp("Kazama","It's important to be more interested in
-your local history.");
+    MsgDisp("Kazama","It's important to be more interested in your
+local history.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -41,7 +41,7 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020310100_03_060");
-MsgDisp("Honda","Aahー, sorry!
+MsgDisp("Honda","Aah—, sorry!
 It must be troubling to hear me say this.");
 ChEye(3,0);
 ChMouth(3,0);

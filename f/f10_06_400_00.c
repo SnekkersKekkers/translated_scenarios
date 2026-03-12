@@ -15,7 +15,7 @@ ChMotion(6,0);
 VoicePlay("F100640000_06_010");
 MsgDisp("Himuro","Yeah.
 You?");
-MsgDisp("主人公","I think I——");
+MsgDisp("主人公","I think I—");
 VoiceEVSPlay(1);
 VoicePlay("F100640000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
@@ -48,7 +48,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100640000_01_030");
 MsgDisp("Kazama","What are you talking about?
-Come on, let's goー.");
+Come on, let's go—.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -60,7 +60,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100640000_06_030");
-MsgDisp("Himuro","Tell Ryota-senpai——");
+MsgDisp("Himuro","Tell Ryota-senpai—");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);

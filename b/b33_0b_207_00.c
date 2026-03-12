@@ -32,7 +32,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B20700_04_000");
-MsgDisp("Nanatsumori","They're no——");
+MsgDisp("Nanatsumori","They're no—");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("B330B20700_04_010");
@@ -80,8 +80,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B330B20700_03_030");
 MsgDisp("Honda","But it's fine.
-Because this zoo uses plant-derived inks
-on their tickets.");
+Because this zoo uses plant-derived inks on
+their tickets.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -92,8 +92,8 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20700_04_040");
-MsgDisp("Nanatsumori","No no, Dahon instead of watching, you
-should have told me.");
+MsgDisp("Nanatsumori","No no, Dahon instead of watching, you should
+have told me.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
 ChEye(3,3);
@@ -101,8 +101,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B20700_03_040");
-MsgDisp("Honda","But the way he stuck his nose into
-Mi-kun's pocket while eating was so cute!");
+MsgDisp("Honda","But the way he stuck his nose into Mi-kun's
+pocket while eating was so cute!");
 ChMotion(4,2,1);
 MsgDisp("主人公","(Hehe!
 I wish I saw it too.)");

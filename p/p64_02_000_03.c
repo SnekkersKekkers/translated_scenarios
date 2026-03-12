@@ -30,7 +30,7 @@ MsgDisp("Sassa","Well, it's fine.
 I thought it was a stimulant drug.
 The stimulus is amazing.");
 MsgDisp("主人公","Is it really that bad?
-Let me have a tas——");
+Let me have a tas—");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);

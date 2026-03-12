@@ -40,9 +40,9 @@ That would be the end.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040610101_06_030");
-    MsgDisp("Himuro","That seems like an easy solution. There
-are celebrities from this town after all.
-And it could help revitalize the area.");
+    MsgDisp("Himuro","That seems like an easy solution.
+There are celebrities from this town after
+all. And it could help revitalize the area.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

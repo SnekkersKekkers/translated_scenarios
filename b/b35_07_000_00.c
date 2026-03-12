@@ -2,7 +2,7 @@ BGDateAfterOpen();
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B350700000_07_000");
-MsgDisp("Mikage?","Oiー.");
+MsgDisp("Mikage?","Oi—.");
 MsgClose();
 ChOpen(7,255,5,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Huh, ｛Mikage＊＊｝?
@@ -38,7 +38,8 @@ I'm gonna scold them～");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B350700000_07_040");
-    MsgDisp("Mikage","Huh? Really? My bad, my bad, I'll have to
+    MsgDisp("Mikage","Huh?
+Really? My bad, my bad, I'll have to
 apologize to those guys too.");
     ChEye(7,0);
     ChMouth(7,0);

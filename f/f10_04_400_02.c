@@ -55,7 +55,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("F100440002_03_030");
 MsgDisp("Honda","That's right.");
-MsgDisp("主人公","Ehー...");
+MsgDisp("主人公","Eh—...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);

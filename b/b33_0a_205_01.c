@@ -22,8 +22,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A20501_01_000");
-MsgDisp("Kazama","They say the chances for a spare is less
-than 1 percent.");
+MsgDisp("Kazama","They say the chances for a spare is less than
+1 percent.");
 VoicePlay("B330A20501_02_010");
 MsgDisp("Sassa","My 3rd throw in the 10th frame.
 If I get a spare, I'll turn the tables on
@@ -59,7 +59,8 @@ ChOpen(2,255,3,0,3,#1,#1,0,3,0,0);
 ChOpen(1,255,0,2,2,0,#1,0,3,0,0);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Sassa＊＊｝, amazing∈ You got a spare!");
+MsgDisp("主人公","｛Sassa＊＊｝, amazing∈
+You got a spare!");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);
 ChMouth(2,3);
@@ -71,9 +72,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20501_01_020");
-MsgDisp("Kazama","Bravoー.
-...Geez, you couldn't even let me win
-in the end, huh?");
+MsgDisp("Kazama","Bravo—.
+...Geez, you couldn't even let me win in the
+end, huh?");
 ChEyeOpenLevel(1,#1);
 ChEye(6,0);
 ChMouth(6,4);

@@ -72,9 +72,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C20600_06_030");
-MsgDisp("Himuro","Yanosuke-senpai, are you going to
-incorporate this essence into Habataki
-Theater Troupe?");
+MsgDisp("Himuro","Yanosuke-senpai, are you going to incorporate
+this essence into Habataki Theater Troupe?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -110,8 +109,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20600_07_020");
 MsgDisp("Mikage","I felt sorry for the sheep.
-I wonder if they're alright after being
-made to dance like that.");
+I wonder if they're alright after being made
+to dance like that.");
 MsgDisp("主人公","Ehh?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -119,8 +118,8 @@ ChMotion(7,2);
 VoicePlay("B330C20600_07_030");
 MsgDisp("Mikage","Don't tell them.
 I don't want to rain on their parade.");
-MsgDisp("主人公","(Watching a movie then feeling sorry for
-the sheep...
+MsgDisp("主人公","(Watching a movie then feeling sorry for the
+sheep...
 Hehe, how typical of ｛Mikage＊＊｝...)");
 BGMStop();
 MsgClose();

@@ -44,7 +44,7 @@ songs would be good too.");
         ChMouth(3,4);
         ChMotion(3,5);
         VoicePlay("B040314002_03_030");
-        MsgDisp("Honda","Ehー, that's harsh.
+        MsgDisp("Honda","Eh—, that's harsh.
 I'm not really good at acting as a group
 though.");
         MsgDateResultDisp();
@@ -64,9 +64,9 @@ band.");
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040314002_03_050");
-        MsgDisp("Honda","Right right. My sister played the piano,
-my mum the guitar, my dad played the bass,
-and I, was on the drums.");
+        MsgDisp("Honda","Right right. My sister played the piano, my
+mum the guitar, my dad played the bass, and
+I, was on the drums.");
         MsgDisp("主人公","Ehhh, seems fun!");
         ChEye(3,0);
         ChMouth(3,3);
@@ -87,9 +87,8 @@ Maybe your sister got bored of it?");
         ChMotion(3,1);
         VoicePlay("B040314002_03_080");
         MsgDisp("Honda","That's right, my sister's interests change
-quickly, and by the time I finish my
-research and analysis, she's already bored
-of it.");
+quickly, and by the time I finish my research
+and analysis, she's already bored of it.");
         ChSet(3,4);
         VoicePlay("B040314002_03_090");
         MsgDisp("Honda","...What about you?
@@ -105,11 +104,9 @@ I was worried.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040314002_03_110");
-        MsgDisp("Honda","If you ever told me you were bored of
-me...");
+        MsgDisp("Honda","If you ever told me you were bored of me...");
         MsgDisp("主人公","｛Honda＊＊｝ is always teaching me fun new
-things, so I don't think that would
-happen.");
+things, so I don't think that would happen.");
         ChMouth(3,4);
         VoicePlay("B040314002_03_120");
         MsgDisp("Honda","Always?");
@@ -119,8 +116,8 @@ happen.");
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040314002_03_130");
-        MsgDisp("Honda","Always, huhー.
-Just the two of us, foreverー.
+        MsgDisp("Honda","Always, huh—.
+Just the two of us, forever—.
 Yeah, this is the best!");
         MsgDisp("主人公","(...Hm?
 Is he happy with some other meaning?)");

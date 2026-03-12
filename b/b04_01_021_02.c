@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040102102_01_010");
-    MsgDisp("Kazama","The scents and sounds are part of the
-appeal.");
+    MsgDisp("Kazama","The scents and sounds are part of the appeal.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -57,8 +56,7 @@ appeal.");
         ChMotion(1,0);
         VoicePlay("B040102102_01_040");
         MsgDisp("Kazama","...It's like I can't hear it at all.");
-        MsgDisp("主人公","No, you have to close your eyes
-properly.");
+        MsgDisp("主人公","No, you have to close your eyes properly.");
         ChEye(1,2);
         ChMouth(1,1);
         ChMotion(1,3);
@@ -106,8 +104,8 @@ Jeez, let's go!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040102102_01_090");
-    MsgDisp("Kazama","Well, I guess that's just how good it
-feels, huh?");
+    MsgDisp("Kazama","Well, I guess that's just how good it feels,
+huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

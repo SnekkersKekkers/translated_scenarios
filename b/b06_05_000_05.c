@@ -8,6 +8,6 @@ VoicePlay("B060500005_05_000");
 MsgDisp("Hiiragi","Did you have something to do?");
 MsgDispSksp(1,#1);
 MsgDisp("主人公","(Oh no!
-I should have remembered where we went
-last time!)");
+I should have remembered where we went last
+time!)");
 MsgDispSksp(0);

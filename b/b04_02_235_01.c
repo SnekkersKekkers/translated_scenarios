@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(2,255,4,2,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223501_02_000");
-MsgDisp("Sassa","Is it fine that I'm morbidly curious about
-it because it's scary?");
+MsgDisp("Sassa","Is it fine that I'm morbidly curious about it
+because it's scary?");
 MsgSel("Scary things are fun too?","Does it seem like something is calling out to us?","It's not scary because I'm with ｛Sassa＊＊｝.");
 switch (MsgSelRsltGet()){
     case 0:

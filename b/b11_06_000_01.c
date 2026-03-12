@@ -17,15 +17,14 @@ ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110600001_34_010");
 MsgDisp("Guy","This time will be slower.
-Your friend may also take a while to
-load...");
+Your friend may also take a while to load...");
 MsgDisp("主人公","...Yes?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110600001_34_020");
-MsgDisp("Guy","You don't know? That's better. There's no
-need to distinguish between virtuality and
-reality.");
+MsgDisp("Guy","You don't know?
+That's better. There's no need to distinguish
+between virtuality and reality.");
 MsgDisp("主人公","Ummmm?
 ...Ah, ｛Himuro＊＊｝!");
 ChPosition(34,2);
@@ -45,7 +44,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B110600001_06_010");
-MsgDisp("Himuro","? What's with this guy?");
+MsgDisp("Himuro","?
+What's with this guy?");
 MsgDispSksp(0);
 MsgDisp("主人公","Umm...maybe he's lost?");
 ChEye(34,0);
@@ -72,8 +72,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B110600001_06_030");
-MsgDisp("Himuro","Anyone who hides behind a hood and
-sunglasses to deceive people is a \"this\".
+MsgDisp("Himuro","Anyone who hides behind a hood and sunglasses
+to deceive people is a \"this\".
 If you don't like it, act properly.");
 MsgDispSksp(0);
 ChEye(34,1);

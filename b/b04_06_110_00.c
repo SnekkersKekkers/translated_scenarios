@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
         ChMotion(6,3);
         VoicePlay("B040611000_06_010");
         MsgDisp("Himuro","What's with that.
-Well, your swimming is definitely on par
-with a mermaid's.");
+Well, your swimming is definitely on par with
+a mermaid's.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -29,8 +29,8 @@ with a mermaid's.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040611000_06_020");
-        MsgDisp("Himuro","Well, maybe there are mermaids who can't
-swim in this world.");
+        MsgDisp("Himuro","Well, maybe there are mermaids who can't swim
+in this world.");
         MsgDateResultDisp();
         }
     break ;

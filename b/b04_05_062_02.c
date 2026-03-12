@@ -6,10 +6,9 @@ ChLayout(1);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040506202_05_000");
-MsgDisp("Hiiragi","It's hard to believe it's bustling
-outside.
+MsgDisp("Hiiragi","It's hard to believe it's bustling outside.
 It's mysterious.");
-MsgSel("We can talk calmly here.","It's like we're on a stage, ｛Hiiragi＊＊＊｝...","Ahー it's funny how our voices echo");
+MsgSel("We can talk calmly here.","It's like we're on a stage, ｛Hiiragi＊＊＊｝...","Ah— it's funny how our voices echo");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -17,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     VoicePlay("B040506202_05_010");
     MsgDisp("Hiiragi","Yes.
-I'd warmly welcome this kind of sea
-swimming.");
+I'd warmly welcome this kind of sea swimming.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +44,7 @@ Is this okay for the outfit?");
         ChMouth(5,2);
         ChMotion(5,1);
         VoicePlay("B040506202_05_030");
-        MsgDisp("Hiiragi","The constant bustling outside has
-returned.");
+        MsgDisp("Hiiragi","The constant bustling outside has returned.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -74,10 +71,10 @@ today though.");
         MsgClose();
         ChClose(5,0,30);
         MsgDisp("主人公","Uh...
-——Hm?
+Hm?
 ｛Hiiragi＊＊＊｝?");
         VoicePlay("B040506202_05_070");
-        MsgDisp("Hiiragi","Ahhーーー.");
+        MsgDisp("Hiiragi","Ahh—.");
         MsgDisp("主人公","Ehh∈");
         MsgClose();
         ChOpen(5,31,0,3,3,#1,#1,0,0,0,30);

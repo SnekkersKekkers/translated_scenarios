@@ -109,7 +109,7 @@ ChMotion(7,1);
 VoicePlay("T020711000_07_110");
 MsgDisp("Mikage","That's right.
 When I think back to that time, the moment
-the bowling pins flipped——");
+the bowling pins flipped—");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -132,7 +132,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020711000_07_140");
 MsgDisp("Mikage","But then the void was filled and there was
-no space left————");
+no space left—");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);

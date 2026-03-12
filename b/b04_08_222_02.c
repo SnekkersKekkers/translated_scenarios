@@ -6,9 +6,9 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040822202_08_000");
-MsgDisp("Shirahane","Some of the things here are heirlooms
-offered by local noble families. They may
-have been feudal lords in another era.");
+MsgDisp("Shirahane","Some of the things here are heirlooms offered
+by local noble families. They may have been
+feudal lords in another era.");
 MsgSel("Like someone in the imperial court?","I'm sure it's not limited to feudal lords?","Do you admire it?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -50,10 +50,11 @@ depending on the individual.");
         ChMotion(8,0,1);
         VoicePlay("B040822202_08_030");
         MsgDisp("Shirahane","Ah...that's right. When it comes to
-heirlooms, each one of those families have
-an individual sense of what's valuable.");
-        MsgDisp("主人公","That's right. By the way, does
-｛Daichi＊＊｝ have his own treasures?");
+heirlooms, each one of those families have an
+individual sense of what's valuable.");
+        MsgDisp("主人公","That's right.
+By the way, does ｛Daichi＊＊｝ have his own
+treasures?");
         ChEye(8,4);
         ChMouth(8,4);
         ChMotion(8,2,1);
@@ -63,10 +64,9 @@ an individual sense of what's valuable.");
         ChMouth(8,0);
         ChMotion(8,0,1);
         VoicePlay("B040822202_08_050");
-        MsgDisp("Shirahane","All sorts of different things I received
-as birthday presents from Nii-chan,
-Nee-chan and all my friends are all my
-treasures.");
+        MsgDisp("Shirahane","All sorts of different things I received as
+birthday presents from Nii-chan, Nee-chan and
+all my friends are all my treasures.");
         MsgDisp("主人公","Hehe!");
         ChEye(8,3);
         ChMouth(8,4);

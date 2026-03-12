@@ -67,7 +67,7 @@ It feels special.");
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("K010300100_03_060");
-    MsgDisp("Honda","Yaー hm, what's up?");
+    MsgDisp("Honda","Ya— hm, what's up?");
     MsgDisp("主人公","Ya?");
     ChEye(3,4);
     ChMouth(3,3);

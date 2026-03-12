@@ -17,8 +17,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10500_05_000");
-MsgDisp("Hiiragi","No, it's fun just hanging out with 
-everyone.");
+MsgDisp("Hiiragi","No, it's fun just hanging out with everyone.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -47,8 +46,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C10500_05_010");
 MsgDisp("Hiiragi","Is that alright?
-Even though the four of us were finally
-able to go out together?");
+Even though the four of us were finally able
+to go out together?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -71,8 +70,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10500_07_030");
 MsgDisp("Mikage","Being chairman is tough huh.
-Today I'll do anything, even carry your
-bags.");
+Today I'll do anything, even carry your bags.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
@@ -125,8 +123,7 @@ ChPosition(7,3);
 ScrFadeIn(0);
 MsgDisp("主人公","Amazing!");
 VoicePlay("B330C10500_05_050");
-MsgDisp("Hiiragi","I received some good fortune from
-everyone.
+MsgDisp("Hiiragi","I received some good fortune from everyone.
 I'll share it with you all.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -138,8 +135,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10500_05_060");
-MsgDisp("Hiiragi","No, not even the theater company can eat
-this much.");
+MsgDisp("Hiiragi","No, not even the theater company can eat this
+much.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -177,14 +174,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10500_07_070");
-MsgDisp("Mikage","We also want you to fuss over us. Right,
-Yanosuke?");
+MsgDisp("Mikage","We also want you to fuss over us.
+Right, Yanosuke?");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10500_05_080");
-MsgDisp("Hiiragi","Yes. But, I shouldn't push my luck more
-than this. I'll incur divine punishment.");
+MsgDisp("Hiiragi","Yes.
+But, I shouldn't push my luck more than this.
+I'll incur divine punishment.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

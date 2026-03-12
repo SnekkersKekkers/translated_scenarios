@@ -125,7 +125,7 @@ Confident answer.
 Well, if it's on the way home, I don't mind.");
 MsgDisp("主人公","Really∋
 Thanks!
-Let's get right to it then——");
+Let's get right to it then—");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

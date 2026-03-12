@@ -27,8 +27,8 @@ Isn't that a win?");
     ChMotion(6,1);
     VoicePlay("B040623502_06_020");
     MsgDisp("Himuro","Really?
-Aren't you starting to realize the pattern
-by now?");
+Aren't you starting to realize the pattern by
+now?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -83,8 +83,8 @@ priority.");
         ChMotion(6,0);
         ChCheek(6,0);
         VoicePlay("B040623502_06_080");
-        MsgDisp("Himuro","But you know, if I really think about it,
-I get to see your showy reactions, so I'm
+        MsgDisp("Himuro","But you know, if I really think about it, I
+get to see your showy reactions, so I'm
 having plenty of fun.");
         MsgDisp("主人公","(Showy reactions...)");
         break ;

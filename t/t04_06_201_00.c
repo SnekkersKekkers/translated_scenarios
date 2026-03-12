@@ -50,7 +50,7 @@ Inori-kun, I'll be in your care.");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("T040620100_07_020");
-MsgDisp("Mikage","Haaー,it's great to be young...but, I
+MsgDisp("Mikage","Haa—,it's great to be young...but, I
 still can't afford to lose, you know?");
 StlEye(6,0);
 StlMouth(6,0);

@@ -32,9 +32,8 @@ ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,2,1);
 VoicePlay("B150800500_08_050");
-MsgDisp("Shirahane","My heart's still poundin' the same as
-ever. But I'm startin' to think this is
-fine too.");
+MsgDisp("Shirahane","My heart's still poundin' the same as ever.
+But I'm startin' to think this is fine too.");
 MsgDisp("主人公","｛Daichi＊＊｝?");
 ChEye(8,3);
 ChMouth(8,3);
@@ -48,9 +47,9 @@ MsgDisp("主人公","Umm...");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("B150800500_08_070");
-MsgDisp("Shirahane","But still? It would be bad if you did the
-same things to another guy, ya know?
-Definitely so.");
+MsgDisp("Shirahane","But still?
+It would be bad if you did the same things to
+another guy, ya know? Definitely so.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

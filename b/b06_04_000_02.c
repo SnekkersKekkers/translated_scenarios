@@ -13,7 +13,7 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B060400002_04_000");
-    MsgDisp("Nanatsumori","Hmmー, it was so-so.
+    MsgDisp("Nanatsumori","Hmm—, it was so-so.
 Time to call it a day.");
     MsgDispSksp(0);
     break ;

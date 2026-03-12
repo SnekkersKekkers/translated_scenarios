@@ -36,7 +36,7 @@ heart's content.");
     MsgDisp("主人公","I'll leave it to you!");
     MsgDisp("主人公","(This is my last concert...
 Alright!
-Let's have fun with all my heartー∈)");
+Let's have fun with all my heart—∈)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(6,0,0);
@@ -100,7 +100,7 @@ I'm off now.");
     ChMotion(6,5);
     VoicePlay("P530600002_06_090");
     VoiceEVSPlay(6);
-    MsgDisp("Himuro","Ah—— ｛主人公｝.");
+    MsgDisp("Himuro","Ah— ｛主人公｝.");
     MsgDisp("主人公","Yeah?");
     ChEye(6,0);
     ChMouth(6,0);

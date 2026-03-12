@@ -67,7 +67,7 @@ ChMotion(3,1,1);
 VoicePlay("D140B06100_03_050");
 MsgDisp("Honda","Of course asking the person themselves is
 best.
-Then, I'll do my bestー.");
+Then, I'll do my best—.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);

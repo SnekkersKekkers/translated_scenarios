@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040206502_02_010");
-    MsgDisp("Sassa","I want to see more like that Saturn with
-the rings.");
+    MsgDisp("Sassa","I want to see more like that Saturn with the
+rings.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,16 +45,15 @@ Maybe I'm wrong...");
         ChMotion(2,4);
         VoicePlay("B040206502_02_030");
         MsgDisp("Sassa","Nah, it's hard to tell...
-If it's only a small change, you wouldn't
-be able to tell at a glance.");
+If it's only a small change, you wouldn't be
+able to tell at a glance.");
         MsgDisp("主人公","｛Sassa＊＊｝?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040206502_02_040");
-        MsgDisp("Sassa","Even if I try and change various things,
-it often isn't apparent in my times and
-records.");
+        MsgDisp("Sassa","Even if I try and change various things, it
+often isn't apparent in my times and records.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -87,8 +86,8 @@ there, watching me.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206502_02_090");
-        MsgDisp("Sassa","I guess it feels like you have some kind
-of special powers?");
+        MsgDisp("Sassa","I guess it feels like you have some kind of
+special powers?");
         MsgDisp("主人公","R-Really?");
         ChEye(2,4);
         ChMouth(2,4);

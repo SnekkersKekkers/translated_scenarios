@@ -5,8 +5,7 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040611002_06_000");
-MsgDisp("Himuro","I wonder what's so fun about a water
-slide.");
+MsgDisp("Himuro","I wonder what's so fun about a water slide.");
 MsgSel("Sliding down is exhilarating! ","Let's find out together!","I don't know...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -51,7 +50,7 @@ You don't want to?");
         ChMouth(6,0);
         ChMotion(6,2);
         VoicePlay("B040611002_06_040");
-        MsgDisp("Himuro","But that one——");
+        MsgDisp("Himuro","But that one—");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,2);
@@ -110,7 +109,8 @@ How was it for you, ｛Himuro＊＊｝?");
     ChMotion(6,1);
     VoicePlay("B040611002_06_110");
     MsgDisp("Himuro","If neither of us know, might be worth
-trying... Are you ready?");
+trying...
+Are you ready?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

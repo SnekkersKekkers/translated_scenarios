@@ -48,7 +48,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("X200D00000_21_030");
 MsgDisp("Michiru","Basically, a girl beyond reach.
-That's why she's the Queen of Roses——
+That's why she's the Queen of Roses—
 Given the title Rose Queen.");
 MsgDisp("主人公","Ehhh...amazing!");
 ChEye(21,0);

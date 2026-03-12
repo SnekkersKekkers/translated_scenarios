@@ -7,13 +7,11 @@ SEWait();
 VoicePlay("B090500000_05_000")MsgDisp("Hiiragi","Hello, this is Hiiragi.");
 MsgDisp("主人公","Huh?
 ｛Hiiragi＊＊＊｝?");
-VoicePlay("B090500000_05_010")MsgDisp("Hiiragi","I just wanted to check if you were
-alright.
+VoicePlay("B090500000_05_010")MsgDisp("Hiiragi","I just wanted to check if you were alright.
 I'll be awaiting your message.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Damn it!
-I got the meeting place for our date
-wrong!");
+I got the meeting place for our date wrong!");
 MsgClose();
 ScrFadeOut(0,0);

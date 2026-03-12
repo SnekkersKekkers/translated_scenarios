@@ -17,8 +17,7 @@ MsgDisp("Nanatsumori","Yeah.
 But maybe it's just the right sound for me
 right now.");
 MsgDisp("主人公","Hehe.
-Are you tired from hanging out with
-everyone?");
+Are you tired from hanging out with everyone?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -26,8 +25,8 @@ VoicePlay("B360450101_04_010");
 MsgDisp("Nanatsumori","No, not at all.
 Rather, it feels like I haven't played
 enough.");
-MsgDisp("主人公","Really? Then, should we go play at this
-park?");
+MsgDisp("主人公","Really?
+Then, should we go play at this park?");
 ChEye(4,5);
 ChMouth(4,1);
 VoicePlay("B360450101_04_020");
@@ -50,16 +49,16 @@ MsgDisp("主人公","Ugh...");
 ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("B360450101_04_050");
-MsgDisp("Nanatsumori","The playground equipment here belongs to
-the kids.
+MsgDisp("Nanatsumori","The playground equipment here belongs to the
+kids.
 It's too fragile for a big guy like me.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360450101_04_060");
 MsgDisp("Nanatsumori","You've got a lot of memories from your
-childhood engraved into it, right? I don't
-want to destroy those things either.");
+childhood engraved into it, right?
+I don't want to destroy those things either.");
 MsgDisp("主人公","｛Nanatsumori＊｝ ...you're kind.");
 ChEye(4,0);
 ChMouth(4,3);
