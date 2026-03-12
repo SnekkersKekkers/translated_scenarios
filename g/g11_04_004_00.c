@@ -40,7 +40,7 @@ MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400400_04_030");
-MsgDisp("Nanatsumori","You've got to keep the fashionista's
+MsgDisp("Nanatsumori","You've got to keep the fashionistas
 informed.");
 ChEye(4,2);
 ChMouth(4,2);
