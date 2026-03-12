@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
         MsgDisp("主人公","On ｛日付｝, at ｛待ち合わせ場所｝?");
         VoicePlay("J060201000_02_010");
         MsgDisp("Sassa","That's fine.
-I'll be looking forward to seeing you on
-the day.");
+I'll be looking forward to seeing you on the
+day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(I'm going out with ｛Sassa＊＊｝.
@@ -22,15 +22,16 @@ the day.");
         case 4:
         case 5:
         VoicePlay("J060201000_02_020");
-        MsgDisp("Sassa","Really? Cool! Okay, let's decide where
-we're going to meet.");
+        MsgDisp("Sassa","Really?
+Cool!
+Okay, let's decide where we're going to meet.");
         MsgDisp("主人公","Yeah.
 Okay, then, how about we meet at the
 ｛待ち合わせ場所｝?");
         VoicePlay("J060201000_02_030");
-        MsgDisp("Sassa","Yeah, it's fine.
-Well, you're striking, so you'll stand out
-wherever you are, right?");
+        MsgDisp("Sassa","Yeah, works for me.
+Well, I'm tall, so you'll spot me wherever I
+am, right?");
         MsgDisp("主人公","Hmmm...easy to find, isn't it?");
         VoicePlay("J060201000_02_040");
         MsgDisp("Sassa","Oh, you laughed.
@@ -79,8 +80,8 @@ I'm sorry ...)");
 I guess it was bad timing.
 Maybe some other time.");
         VoicePlay("J060201000_02_100");
-        MsgDisp("Sassa","I'm not good at reading moods.
-I'm sorry if I missed it next time.");
+        MsgDisp("Sassa","I'm not great at reading the room.
+Sorry if I miss the mark again next time.");
         MsgDisp("主人公","No, I'm sorry.");
         VoicePlay("J060201000_02_110");
         MsgDisp("Sassa","See you later.");

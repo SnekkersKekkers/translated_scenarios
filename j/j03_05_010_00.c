@@ -14,8 +14,8 @@ switch (ChPrmGet(5,6)){
 Thank you for your message.
 I'm available that day.");
     MsgDisp("主人公","Really?
-Then, on ｛日付｝ I'll be waiting
-for you at the ｛待ち合わせ場所｝.");
+Then, on ｛日付｝ I'll be waiting for
+you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030501000_05_010");
     MsgDisp("Hiiragi","Yes.
 Well then.");
@@ -36,9 +36,9 @@ I can't wait for ｛日付｝ to come.)");
 Did you get my voicemail?");
     VoicePlay("J030501000_05_030");
     MsgDisp("Hiiragi","Yes, thanks for the invitation.
-And don't worry, I can go");
-    MsgDisp("主人公","Okay, on ｛日付｝ I'll be waiting
-for you at ｛待ち合わせ場所｝.");
+And don't worry, I can go.");
+    MsgDisp("主人公","Okay, on ｛日付｝ I'll be waiting for
+you at ｛待ち合わせ場所｝.");
     VoicePlay("J030501000_05_040");
     MsgDisp("Hiiragi","I'm looking forward to it.
 Well then.");
@@ -62,8 +62,8 @@ So, are you free?");
     VoicePlay("J030501000_05_060");
     MsgDisp("Hiiragi","Yeah, I'm just available that day.
 We should go.");
-    MsgDisp("主人公","Then, on ｛日付｝ I'll be waiting
-for you at ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Then, on ｛日付｝ I'll be waiting for
+you at ｛待ち合わせ場所｝.");
     VoicePlay("J030501000_05_070");
     MsgDisp("Hiiragi","Yeah, I'll be waiting too.
 On that day.");

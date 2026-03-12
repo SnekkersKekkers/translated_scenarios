@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("J060601000_06_000");
         MsgDisp("Himuro","...Ah, so.
 What about meeting up?");
-        MsgDisp("主人公","At ｛待ち合わせ場所｝ How about that?");
+        MsgDisp("主人公","How about at the ｛待ち合わせ場所｝?");
         VoicePlay("J060601000_06_010");
         MsgDisp("Himuro","Okay, good.
 There you go.");
@@ -23,8 +23,7 @@ There you go.");
         MsgDisp("Himuro","Then don't be late on that day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(｛Himuro＊＊｝ He just asked me out on a
-date.
+        MsgDisp("主人公","(｛Himuro＊＊｝ asked me out on a date.
 I'm looking forward to Sunday!)");
         break ;
         default :
@@ -51,8 +50,8 @@ I'm looking forward to Sunday!)");
         MsgDisp("Himuro","...if you feel like it.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He went to the trouble of inviting me,
-I'm sorry I did that ...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, I'm
+sorry I did that ...)");
         break ;
         default :
         DbgAssert(1);

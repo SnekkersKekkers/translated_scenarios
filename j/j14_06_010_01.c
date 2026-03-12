@@ -21,8 +21,8 @@ That's okay then.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He went to the trouble of inviting me,
-Did I do something bad to everyone?)");
+    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
+do something bad to everyone?)");
     break ;
     default :
     DbgAssert(0);

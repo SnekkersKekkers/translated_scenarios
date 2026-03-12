@@ -24,8 +24,8 @@ we'll meet there.");
 Well, see you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yippee! On ｛日付｝, I can't wait
-for that to come!)");
+    MsgDisp("主人公","(Yay!
+I can't wait for ｛日付｝ to come!)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh, it's from ｛Honda＊＊｝.)");
@@ -44,8 +44,8 @@ Of course, it's okay.");
 I'll be there.");
     VoicePlay("J030301000_03_050");
     MsgDisp("Honda","Got it.
-Ah! So Excited!
-Well, see you later?");
+Ah!
+So Excited! Well, see you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yay!
@@ -62,17 +62,16 @@ I can't wait for ｛日付｝ to come.)");
     MsgDisp("Honda","Oh, it's me.
 Sorry, I couldn't answer your call.");
     MsgDisp("主人公","No problem.
-So, how about it??");
+So, what do you think?");
     VoicePlay("J030301000_03_070");
-    MsgDisp("Honda","Oh, the thing you mentioned in the
-voicemail?
+    MsgDisp("Honda","Oh, the thing you mentioned in the voicemail?
 Of course, it's okay.");
     VoicePlay("J030301000_03_080");
     MsgDisp("Honda","I mean, you invited me.
 There's no way I'd refuse, right?");
     MsgDisp("主人公","Hehe.
-Then, ｛日付｝ ｛待ち合わせ場所｝,
-I'll be there.");
+Then, ｛日付｝ ｛待ち合わせ場所｝, I'll
+be there.");
     VoicePlay("J030301000_03_090");
     MsgDisp("Honda","I'll be the one waiting!
 Don't rush, just come, okay?

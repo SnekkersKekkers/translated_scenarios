@@ -41,8 +41,8 @@ I'll see you later.");
     MsgClose();
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(｛Mikage＊＊｝ I guess I should have
-kept him company...)");
+    MsgDisp("主人公","(｛Mikage＊＊｝ I guess I should have kept
+him company...)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

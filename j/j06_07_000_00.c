@@ -17,9 +17,9 @@ Is that okay?");
     BGMStop();
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(｛Mikage＊＊｝ said we are going to go
-hang out together. It's like a date, but a
-little more exciting!)");
+    MsgDisp("主人公","(｛Mikage＊＊｝ said we are going to go hang
+out together. It's like a date, but a little
+more exciting!)");
     SEStop("EV_SE_GAYA_018",1);
     break ;
     case 1:
@@ -35,8 +35,8 @@ See you later.");
     BGMStop();
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(He went to the trouble of inviting me,
-Did I do something wrong?)");
+    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
+do something wrong?)");
     break ;
     default :
     DbgAssert(0);

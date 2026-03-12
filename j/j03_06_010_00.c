@@ -13,8 +13,8 @@ switch (ChPrmGet(6,6)){
     MsgDisp("Himuro","Hey, it's me.
 About the voicemail, it's fine.");
     MsgDisp("主人公","Really?
-Then, on ｛日付｝ I'll be waiting
-for you at ｛待ち合わせ場所｝.");
+Then, on ｛日付｝ I'll be waiting for
+you at ｛待ち合わせ場所｝.");
     VoicePlay("J030601000_06_010");
     MsgDisp("Himuro","Got it.
 See you then.");
@@ -35,8 +35,8 @@ I can't wait for ｛日付｝ to come.)");
     VoicePlay("J030601000_06_030");
     MsgDisp("Himuro","Heard it.
 Okay, let's go.");
-    MsgDisp("主人公","Okay then, on ｛日付｝ I'll be
-waiting for you at ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Okay then, on ｛日付｝ I'll be waiting
+for you at ｛待ち合わせ場所｝.");
     VoicePlay("J030601000_06_040");
     MsgDisp("Himuro","Alright, bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -59,8 +59,8 @@ So, will you go out with me?");
     VoicePlay("J030601000_06_060");
     MsgDisp("Himuro","Of course I'm going.
 Where should we meet?");
-    MsgDisp("主人公","Okay then, on ｛日付｝ I'll be
-waiting for you at ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Okay then, on ｛日付｝ I'll be waiting
+for you at ｛待ち合わせ場所｝.");
     VoicePlay("J030601000_06_070");
     MsgDisp("Himuro","Gotcha.
 You promised me, so don't forget.

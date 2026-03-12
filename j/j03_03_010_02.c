@@ -8,8 +8,8 @@ MsgDisp("主人公","Hello, ｛Honda＊＊｝?");
 VoicePlay("J030301002_03_000");
 MsgDisp("Honda","Oh, is now a good moment?");
 VoicePlay("J030301002_03_010");
-MsgDisp("Honda","It's about the voicemail I got, I wanted
-to go so bad!");
+MsgDisp("Honda","It's about the voicemail I got, I wanted to
+go so bad!");
 MsgDisp("主人公","By the looks of it, you had some prior
 commitments?");
 VoicePlay("J030301002_03_020");

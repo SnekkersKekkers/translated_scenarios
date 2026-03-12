@@ -1,5 +1,6 @@
 MsgDisp("主人公","Then, I'll meet you all at the
-｛待ち合わせ場所｝. Is that okay?");
+｛待ち合わせ場所｝.
+Is that okay?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

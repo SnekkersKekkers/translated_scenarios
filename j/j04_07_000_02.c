@@ -23,9 +23,9 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 SEStop("EV_SE_666",1);
 VoicePlay("J040700002_07_020");
-MsgDisp("Mikage","If there's any weirdo who actually wants
-to see my face on their day off, feel free
-to join.");
+MsgDisp("Mikage","If there's any weirdo who actually wants to
+see my face on their day off, feel free to
+join.");
 SEPlay("EV_SE_GAYA_017",0.1,0.7);
 Wait(30,0);
 ChEyeOpenLevel(7,#1);

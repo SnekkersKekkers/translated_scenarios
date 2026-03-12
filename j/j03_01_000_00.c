@@ -33,19 +33,19 @@ I hope ｛日付｝ comes fast!)");
     MsgDisp("主人公","Really?");
     VoicePlay("J030100000_01_050");
     MsgDisp("Kazama","No point in lying to you.
-Isn't that good?
-The telepathy.");
-    MsgDisp("主人公","Yeah! Then, I'll be waiting for you at the
-｛待ち合わせ場所｝ on ｛日付｝.
-Alright?");
+Pretty cool, right?
+Great minds think alike.");
+    MsgDisp("主人公","Yeah!
+Then, I'll be waiting for you at the
+｛待ち合わせ場所｝ on ｛日付｝. Alright?");
     VoicePlay("J030100000_01_060");
     MsgDisp("Kazama","Yeah, take care on the way.
 But you know that.");
     MsgDisp("主人公","Geez, I'll be fine!
 You be careful too, ｛Kazama＊＊｝!");
     VoicePlay("J030100000_01_070");
-    MsgDisp("Kazama","If you're the one worrying about me, I
-must be in trouble, huh?
+    MsgDisp("Kazama","If you're the one worrying about me, I must
+be in trouble, huh?
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

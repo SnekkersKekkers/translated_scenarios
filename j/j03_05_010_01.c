@@ -40,8 +40,8 @@ Sorry.");
     MsgDisp("主人公","Oh, I see... it's busy, isn't it?
 I can't blame you.");
     VoicePlay("J030501001_05_040");
-    MsgDisp("Hiiragi","I'm sorry you had to go through the
-trouble of inviting me.");
+    MsgDisp("Hiiragi","I'm sorry you had to go through the trouble
+of inviting me.");
     MsgDisp("主人公","No, it's okay!
 Well, I'll see you around?");
     VoicePlay("J030501001_05_050");

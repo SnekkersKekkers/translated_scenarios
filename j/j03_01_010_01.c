@@ -64,8 +64,9 @@ Thanks for calling earlier.");
 It's the only day I can't cancel stuff.");
     MsgDisp("主人公","I see...");
     VoicePlay("J030101001_01_080");
-    MsgDisp("Kazama","Come on, cheer up. It just means you have
-to stay excited a little longer. See ya?");
+    MsgDisp("Kazama","Come on, cheer up.
+It just means you have to stay excited a
+little longer. See ya?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(It's too bad but it can't be helped, I'll

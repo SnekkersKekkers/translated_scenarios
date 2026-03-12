@@ -20,9 +20,9 @@ Well, see you later then?");
     MsgDisp("Honda","Ah, on that day, I think...");
     MsgDisp("主人公","Does it seem inconvenient?");
     VoicePlay("J030300001_03_030");
-    MsgDisp("Honda","Yeah. Sorry, even though you went out of
-your way to invite me.. Can you invite me
-again sometime?");
+    MsgDisp("Honda","Yeah.
+Sorry, even though you went out of your way
+to invite me. Can you ask me again?");
     MsgDisp("主人公","Yeah, I understand.
 Well, see you later then?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -32,7 +32,7 @@ Well, see you later then?");
     case 4:
     case 5:
     VoicePlay("J030300001_03_040");
-    MsgDisp("Honda","Daー,that's it!");
+    MsgDisp("Honda","Dah, that's it!");
     MsgDisp("主人公","Did you already have plans?");
     VoicePlay("J030300001_03_050");
     MsgDisp("Honda","Yes...

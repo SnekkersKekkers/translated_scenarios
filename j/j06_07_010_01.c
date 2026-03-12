@@ -14,8 +14,8 @@ I'll have to try not to oversleep.)");
     break ;
     case 1:
     VoicePlay("J060701001_07_020");
-    MsgDisp("Mikage","I guess that's right!
-That's a healthy high school student.");
+    MsgDisp("Mikage","Yeah, figures!
+That's what a normal high schooler would say.");
     VoicePlay("J060701001_07_030");
     MsgDisp("Mikage","Don't worry about it, okay?");
     SEPlay("SYS_SE_PHONE_POWER_ON");

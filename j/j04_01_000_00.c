@@ -76,8 +76,7 @@ Are you free this Sunday?");
         ChMouth(1,3);
         ChMotion(1,0,1);
         VoicePlay("J040100000_01_060");
-        MsgDisp("Kazama","It's okay, this kind of uncertainty suits
-us.
+        MsgDisp("Kazama","It's okay, this kind of uncertainty suits us.
 See you.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

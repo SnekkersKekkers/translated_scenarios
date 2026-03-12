@@ -4,8 +4,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     VoicePlay("J030400000_04_000");
     MsgDisp("Nanatsumori","Well...it's fine.");
-    MsgDisp("主人公","Okay then, on ｛日付｝ I'll be
-waiting for you at ｛待ち合わせ場所｝!");
+    MsgDisp("主人公","Okay then, on ｛日付｝ I'll be waiting
+for you at ｛待ち合わせ場所｝!");
     VoicePlay("J030400000_04_010");
     MsgDisp("Nanatsumori","Okay.
 See you then.");
@@ -17,9 +17,9 @@ I hope that ｛日付｝ comes soon!)");
     case 3:
     VoicePlay("J030400000_04_020");
     MsgDisp("Nanatsumori","OK.
-The rendezvous point will be?");
-    MsgDisp("主人公","Then, on ｛日付｝ I'll be waiting
-for you at the ｛待ち合わせ場所｝.");
+Where do we meet?");
+    MsgDisp("主人公","Then, on ｛日付｝ I'll be waiting for
+you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030400000_04_030");
     MsgDisp("Nanatsumori","Roger.
 See ya.");
@@ -32,8 +32,8 @@ I hope that ｛日付｝ comes soon!)");
     case 5:
     VoicePlay("J030400000_04_040");
     MsgDisp("Nanatsumori","I'll be there.");
-    MsgDisp("主人公","Then, ｛日付｝ I'll be waiting for
-you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Then, ｛日付｝ I'll be waiting for you
+at the ｛待ち合わせ場所｝.");
     VoicePlay("J030400000_04_050");
     MsgDisp("Nanatsumori","Gotcha.");
     MsgDisp("主人公","See you later...");

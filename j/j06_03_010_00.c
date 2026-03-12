@@ -41,7 +41,7 @@ Ahhh, I can't wait for Sunday.
 See you later?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","｛Honda＊＊｝, Invited me on a date.
+        MsgDisp("主人公","(｛Honda＊＊｝ invited me on a date.
 I'm looking forward to Sunday!)");
         break ;
         default :
@@ -60,8 +60,8 @@ I'm looking forward to Sunday!)");
         MsgDisp("Honda","I see.");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("J060301000_03_070");
-        MsgDisp("Honda","But, well, it couldn't be helped.
-It was my fault for asking him out so
+        MsgDisp("Honda","But, well, it can't be helped.
+It was my fault for asking you out so
 suddenly.");
         VoicePlay("J060301000_03_080");
         MsgDisp("Honda","See you later.");
@@ -80,8 +80,8 @@ sorry I did that ...)");
 Now I finally understand.");
         VoicePlay("J060301000_03_110");
         MsgDisp("Honda","I was getting carried away all by myself
-again. That's why I wasn't prepared for
-the rejection.");
+again. That's why I wasn't prepared for the
+rejection.");
         MsgDisp("主人公","Uh...sorry");
         VoicePlay("J060301000_03_120");
         MsgDisp("Honda","No, you don't have to apologize!
@@ -91,8 +91,8 @@ I'm sorry too.");
 See ya?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He went to the trouble of inviting me,
-I'm sorry I did that ...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, I'm
+sorry I did that ...)");
         break ;
         default :
         DbgAssert(1);

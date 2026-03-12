@@ -1,3 +1,3 @@
 VoicePlay("J050601025_06_000");
-MsgDisp("Himuro","...Do you want to come over, my house?
-Once in a while, you know.");
+MsgDisp("Himuro","...Wanna come over to my place?
+Once in a while is fine, you know.");

@@ -33,13 +33,11 @@ Is something the matter?");
     MsgDisp("Hiiragi","Oh, what a pleasant coincidence.");
     MsgDisp("主人公","Huh?");
     VoicePlay("J010500000_05_060");
-    MsgDisp("Hiiragi","I found myself thinking about you
-suddenly.");
+    MsgDisp("Hiiragi","I found myself thinking about you suddenly.");
     MsgDisp("主人公","That's amazing!");
     VoicePlay("J010500000_05_070");
     MsgDisp("Hiiragi","Isn't it?
-So, is there anything I can do for you
-today?");
+So, is there anything I can do for you today?");
     MsgDisp("主人公","Uhm, well...");
     break ;
     default :

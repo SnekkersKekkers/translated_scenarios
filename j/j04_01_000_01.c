@@ -13,7 +13,8 @@ It's ｛Kazama＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
-    MsgDisp("主人公","Hello?");
+    MsgDisp("主人公","Hello?
+What's up?");
     VoicePlay("J040100001_01_000");
     MsgDisp("Kazama","Ah, can I talk to you for a second?");
     MsgDisp("主人公","Yeah, what's up?");
@@ -65,8 +66,8 @@ Sunday.");
         break ;
         case 1:
         VoicePlay("J040100001_01_060");
-        MsgDisp("Kazama","...Good grief, who said you could go
-making plans without checking with me.");
+        MsgDisp("Kazama","...Good grief, who said you could go making
+plans without checking with me.");
         MsgDisp("主人公","Uh, I'm sorry...");
         VoicePlay("J040100001_01_070");
         MsgDisp("Kazama","Just kidding.

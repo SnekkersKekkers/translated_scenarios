@@ -1,4 +1,3 @@
 VoicePlay("J050201025_02_000");
-MsgDisp("Sassa","You know...wanna come to my place?
-I was thinking about my place
-and...like...");
+MsgDisp("Sassa","You know...wanna come over?
+To my place...or something...");

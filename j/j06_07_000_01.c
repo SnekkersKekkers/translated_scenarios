@@ -18,8 +18,8 @@ I'm impressed.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("J060700001_07_010");
-    MsgDisp("Mikage","I'll see those who're participating on
-Sunday then.");
+    MsgDisp("Mikage","I'll see those who're participating on Sunday
+then.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -41,8 +41,7 @@ Well, I know how you guys feel.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("J060700001_07_030");
-    MsgDisp("Mikage","Well, if you change your mind, let me
-know.");
+    MsgDisp("Mikage","Well, if you change your mind, let me know.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

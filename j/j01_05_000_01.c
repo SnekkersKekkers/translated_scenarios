@@ -5,8 +5,8 @@ Wait(10,0);
 SEWait();
 VoicePlay("J010500001_05_000");
 MsgDisp("Hiiragi","This is Hiiragi. I apologize, but I'm
-currently unable to answer your call. I'll
-call back as soon as possible.");
+currently unable to answer your call.
+I'll call back as soon as possible.");
 VoicePlay("J010500001_05_010");
 MsgDisp("Hiiragi","Apologies, but could you please state your
 business after the tone.");

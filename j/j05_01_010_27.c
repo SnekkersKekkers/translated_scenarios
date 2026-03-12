@@ -1,3 +1,2 @@
 VoicePlay("J050101027_01_000");
-MsgDisp("Kazama","Well, let's go up to Mt.
-Habataki.");
+MsgDisp("Kazama","Let's go to Habataki Mountain, then.");

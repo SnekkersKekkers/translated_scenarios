@@ -18,8 +18,8 @@ I can't wait for ｛日付｝ to come!)");
     VoicePlay("J030500000_05_020");
     MsgDisp("Hiiragi","...Yes, I am available.
 I will go out with you.");
-    MsgDisp("主人公","Then, on ｛日付｝ I'll be waiting
-for you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Then, on ｛日付｝ I'll be waiting for
+you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030500000_05_030");
     MsgDisp("Hiiragi","Yes.
 I will be waiting for you too.");
@@ -35,8 +35,8 @@ I can't wait for ｛日付｝ to come.)");
     MsgDisp("主人公","Oh, are you busy?");
     VoicePlay("J030500000_05_050");
     MsgDisp("Hiiragi","No, it's alright.
-If we fill it now, I will be able to
-schedule it.");
+If we lock it in now, no other plans can get
+in the way.");
     MsgDisp("主人公","Really?
 Then, on ｛日付｝ at
 ｛待ち合わせ場所｝...okay?");

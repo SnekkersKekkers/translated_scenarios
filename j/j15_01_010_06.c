@@ -1,4 +1,4 @@
 VoicePlay("J150101007_01_000");
-MsgDisp("Kazama","I'm talking with Sassa and Inori. We're
-talking about going to Fluttering Castle.
+MsgDisp("Kazama","Sassa, Inori, and I are talking about going
+to Habataki Castle.
 You should come too.");

@@ -39,7 +39,7 @@ I got your message earlier.");
     VoicePlay("J030201001_02_040");
     MsgDisp("Sassa","I can't go on that day.
 You went through the trouble of calling...
-Sorry");
+Sorry.");
     MsgDisp("主人公","Nah, thanks for taking the time to contact
 me.");
     VoicePlay("J030201001_02_050");
@@ -60,20 +60,21 @@ Too bad.)");
     VoicePlay("J030201001_02_060");
     MsgDisp("Sassa","Yeah, it's me.
 Got your message.");
-    MsgDisp("主人公","Y-Yeah. What's up?");
+    MsgDisp("主人公","Y-Yeah.
+What's up?");
     VoicePlay("J030201001_02_070");
     MsgDisp("Sassa","That day, it's not good for me.
 Got stuff, you know.");
     MsgDisp("主人公","Ah, is that so!
 That's too bad.");
     VoicePlay("J030201001_02_080");
-    MsgDisp("Sassa","Yeah, even though you invited me. I
-thought I could make it work, but I
+    MsgDisp("Sassa","Yeah, even though you invited me.
+I thought I could make it work, but I
 couldn't. Really sorry.");
     VoicePlay("J030201001_02_090");
-    MsgDisp("Sassa","But your voice on the voicemail. Felt
-fresh and nice. Glad I heard it. See you
-later.");
+    MsgDisp("Sassa","But hearing your voice on the voicemail was
+kinda nice.
+See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Huhh, too bad he can't go...)");

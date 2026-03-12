@@ -20,8 +20,8 @@ Heh, it's me.");
     MsgDisp("主人公","Mm-hmm.
 What's up?");
     VoicePlay("J040800001_08_010");
-    MsgDisp("Shirahane","Hey, I was wondering what your plans are
-for this coming Sunday.
+    MsgDisp("Shirahane","Hey, I was wondering what your plans are for
+this coming Sunday.
 Are ya free?");
     MsgSel("Yeah, I'm free.", "I had some business to attend to...");
     switch (MsgSelRsltGet()){

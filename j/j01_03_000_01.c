@@ -9,8 +9,8 @@ Thanks for calling in!");
 MsgDisp("主人公","Ah, ｛Honda＊＊｝?
 It's ｛主人公苗字｝.");
 VoicePlay("J010300001_03_010");
-MsgDisp("Honda","——Unfortunately, I can't take your call
-at the moment!");
+MsgDisp("Honda","——Unfortunately, I can't take your call at
+the moment!");
 VoicePlay("J010300001_03_020");
 MsgDisp("Honda","I'll call you back later, so please leave
 your message!");
@@ -24,8 +24,7 @@ switch (MsgSelRsltGet()){
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","Oh well.
-I suppose I should try calling again
-later.");
+I suppose I should try calling again later.");
     break ;
     default :
     DbgAssert(0);

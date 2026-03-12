@@ -7,7 +7,7 @@ ChMotion(6,0);
 VoiceEVSPlay(6);
 VoicePlay("J140600000_06_000");
 MsgDisp("Himuro","｛主人公｝.");
-MsgDisp("主人公","Oh, what's upwith everyone?");
+MsgDisp("主人公","Oh, what are you guys up to?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

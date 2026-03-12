@@ -95,8 +95,8 @@ I'm looking forward to Sunday!)");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("J060300000_03_070");
-        MsgDisp("Honda","But, well, it couldn't be helped.
-It was my fault for asking him out so
+        MsgDisp("Honda","But, well, it can't be helped.
+It was my fault for asking you out so
 suddenly.");
         VoicePlay("J060300000_03_080");
         MsgDisp("Honda","See you later.");
@@ -127,8 +127,8 @@ Now I finally understand.");
         ChMotion(3,4);
         VoicePlay("J060300000_03_110");
         MsgDisp("Honda","I was getting carried away all by myself
-again. That's why I wasn't prepared for
-the rejection.");
+again. That's why I wasn't prepared for the
+rejection.");
         MsgDisp("主人公","Uh...sorry");
         ChEye(3,4);
         ChMouth(3,4);
@@ -147,8 +147,8 @@ See ya?");
         BGMStop();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(He went to the trouble of inviting me,
-I'm sorry I did that ...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, I'm
+sorry I did that ...)");
         break ;
         default :
         DbgAssert(1);

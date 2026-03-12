@@ -12,6 +12,5 @@ MsgDisp("Mikage","Hi.");
 MsgDisp("主人公","Oh, ｛Mikage＊＊｝!
 What's wrong?");
 VoicePlay("J140701000_07_010");
-MsgDisp("Mikage","I just wanted to know what your schedule
-is.
+MsgDisp("Mikage","I just wanted to know what your schedule is.
 Are you free this Sunday?");

@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
 Can you suggest a meeting place?");
         MsgDisp("主人公","At ｛待ち合わせ場所｝ sounds good?");
         VoicePlay("J060501000_05_010");
-        MsgDisp("Hiiragi","Yes, ma'am.
-It is my pleasure to be to accept your
-invitation.");
+        MsgDisp("Hiiragi","Understood.
+Having my invitation accepted...
+It makes me so happy.");
         VoicePlay("J060501000_05_020");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -46,11 +46,10 @@ I understand.");
         MsgDisp("主人公","I'm sorry about that ....
 I'm just ...");
         VoicePlay("J060501000_05_040");
-        MsgDisp("Hiiragi","No, no, we have no choice.");
+        MsgDisp("Hiiragi","No, no, it can't be helped.");
         VoicePlay("J060501000_05_050");
-        MsgDisp("Hiiragi","Next time, you should be OK with it
-without a second thought, I will invite
-you well.");
+        MsgDisp("Hiiragi","Next time, I'll invite you so well you won't
+be able to say no.");
         MsgDisp("主人公","Hmmm, yeah.
 See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");

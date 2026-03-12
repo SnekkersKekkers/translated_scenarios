@@ -18,8 +18,7 @@ Later.");
     MsgDisp("主人公","I see.
 Too bad...");
     VoicePlay("J030600001_06_030");
-    MsgDisp("Himuro","Well, invite me again when you feel like
-it.
+    MsgDisp("Himuro","Well, invite me again when you feel like it.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

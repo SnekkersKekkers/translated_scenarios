@@ -15,9 +15,9 @@ switch (ChPrmGet(2,6)){
     VoicePlay("J030201000_02_010");
     MsgDisp("Sassa","I got your message earlier.
 It's okay, I can go.");
-    MsgDisp("主人公","Really? Then, let's meet on
-｛日付｝. I'll wait for you at the
-｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Really?
+Then, let's meet on ｛日付｝.
+I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030201000_02_020");
     MsgDisp("Sassa","Yes, got it.
 Then, see you on that day.");
@@ -65,12 +65,12 @@ Sorry for not picking up!");
 So, what do you say?");
     VoicePlay("J030201000_02_070");
     MsgDisp("Sassa","Of course I'll go!");
-    MsgDisp("主人公","Then, let's meet on ｛日付｝! I'll
-wait for you at the ｛待ち合わせ場所｝.");
+    MsgDisp("主人公","Then, let's meet on ｛日付｝!
+I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030201000_02_080");
     MsgDisp("Sassa","Hah, I'm glad I reached you before you
-planned something else. It's gonna be fun!
-See ya.");
+planned something else.
+It's gonna be fun! See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yay!!

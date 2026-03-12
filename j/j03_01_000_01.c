@@ -12,7 +12,7 @@ I have something on that day...");
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(I asked him to go out at a bad timing...)");
+    MsgDisp("主人公","(I asked him out at a bad time...)");
     break ;
     case 3:
     VoicePlay("J030100001_01_020");
@@ -44,8 +44,8 @@ Sorry.");
     MsgDisp("主人公","No, that's my bad...
 Talk to you later?");
     VoicePlay("J030100001_01_070");
-    MsgDisp("Kazama","Hey, don't go ask some other g— Forget
-it.
+    MsgDisp("Kazama","Hey, don't go ask some other g—
+Forget it.
 Let's definitely go out next time.");
     MsgDisp("主人公","Yeah, I'll call again another day.
 See you!");

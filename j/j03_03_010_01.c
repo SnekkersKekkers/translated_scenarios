@@ -9,7 +9,7 @@ switch (ChPrmGet(3,6)){
     SEStop("EV_SE_577",0);
     SEWait();
     MsgDisp("主人公","Hello.
-｛主人公苗字｝ speaking");
+｛主人公苗字｝ speaking.");
     VoicePlay("J030301001_03_000");
     MsgDisp("Honda","Hey, it's me.
 Is this a good time?
@@ -17,8 +17,7 @@ For calling me.");
     MsgDisp("主人公","Uh, yeah.
 What do you think?");
     VoicePlay("J030301001_03_010");
-    MsgDisp("Honda","The thing is, I actually have plans
-already.
+    MsgDisp("Honda","The thing is, I actually have plans already.
 We can't do another day, can we?");
     MsgDisp("主人公","Is that so.
 Then I'll ask you out again?");
@@ -27,7 +26,7 @@ Then I'll ask you out again?");
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmmm, too bad ...)");
+    MsgDisp("主人公","(Hmm, too bad...)");
     break ;
     case 3:
     MsgDisp("主人公","(Oh, it's a phone call from ｛Honda＊＊｝)");
@@ -40,15 +39,13 @@ See you later.");
     MsgDisp("主人公","No, it's fine.
 So, what do you think?");
     VoicePlay("J030301001_03_040");
-    MsgDisp("Honda","It's not possible, I've a prior
-commitment...
+    MsgDisp("Honda","It's not possible, I've a prior commitment...
 I was hoping to adjust it somehow.");
     MsgDisp("主人公","Oh, I see.
 Never mind?
 I'm glad you feel that way.");
     VoicePlay("J030301001_03_050");
-    MsgDisp("Honda","Then next time, let's go have fun
-together!
+    MsgDisp("Honda","Then next time, let's go have fun together!
 Well, I'll see you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
@@ -69,8 +66,8 @@ About the voicemail...");
     MsgDisp("Honda","That's right.
 Bingo.");
     VoicePlay("J030301001_03_080");
-    MsgDisp("Honda","...I'm not happy about getting bingo at
-all though.");
+    MsgDisp("Honda","...I'm not happy about getting bingo at all
+though.");
     MsgDisp("主人公","Sorry for the bad timing.");
     VoicePlay("J030301001_03_090");
     MsgDisp("Honda","What?

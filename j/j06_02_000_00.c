@@ -15,16 +15,15 @@ switch (MsgSelRsltGet()){
         ChMotion(2,3);
         VoicePlay("J060200000_02_000");
         MsgDisp("Sassa","That's good, that's a deal.");
-        MsgDisp("主人公","Then on ｛日付｝, at
-｛待ち合わせ場所｝?");
+        MsgDisp("主人公","Then on ｛日付｝, at ｛待ち合わせ場所｝?");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,4);
         ChEyeOpenLevel(2,0);
         VoicePlay("J060200000_02_010");
         MsgDisp("Sassa","Alright.
-I'll be looking forward to seeing you on
-the day.");
+I'll be looking forward to seeing you on the
+day.");
         MsgClose();
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -40,8 +39,9 @@ the day.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("J060200000_02_020");
-        MsgDisp("Sassa","Really? Yes! Okay, let's decide where
-we're going to meet.");
+        MsgDisp("Sassa","Really?
+Yes!
+Okay, let's decide where we're going to meet.");
         MsgDisp("主人公","Yeah.
 Okay, then, how about we meet at the
 ｛待ち合わせ場所｝?");
@@ -49,9 +49,9 @@ Okay, then, how about we meet at the
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("J060200000_02_030");
-        MsgDisp("Sassa","Yeah, it's fine.
-Well, you're striking, so you'll stand out
-wherever you are, right?");
+        MsgDisp("Sassa","Yeah, works for me.
+Well, I'm tall, so you'll spot me wherever I
+am, right?");
         MsgDisp("主人公","Hmmm...easy to spot, huh?");
         ChEye(2,0);
         ChMouth(2,3);
@@ -130,8 +130,8 @@ Maybe some other time.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("J060200000_02_100");
-        MsgDisp("Sassa","I'm not good at reading moods.
-I'm sorry if I missed it next time.");
+        MsgDisp("Sassa","I'm not great at reading the room.
+Sorry if I miss the mark again next time.");
         MsgDisp("主人公","No, I'm sorry.");
         ChEye(2,0);
         ChMouth(2,4);

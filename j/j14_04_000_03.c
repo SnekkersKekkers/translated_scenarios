@@ -8,6 +8,6 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("J140400003_04_000");
-MsgDisp("Nanatsumori","I don't think I can do it.
-I'll talk to you later.");
+MsgDisp("Nanatsumori","Sounds like it won't work out.
+I'll hit you up again later.");
 MsgClose();

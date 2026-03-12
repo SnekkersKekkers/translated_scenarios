@@ -25,9 +25,9 @@ Can you suggest a meeting place?");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("J060500000_05_010");
-        MsgDisp("Hiiragi","Yes ma'am.
-It is my pleasure to accept your
-invitation.");
+        MsgDisp("Hiiragi","Understood.
+Having my invitation accepted...
+It makes me so happy.");
         ChMouth(5,3);
         VoicePlay("J060500000_05_020");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");
@@ -35,8 +35,9 @@ invitation.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(5);
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ invited me to go out with
-him ... Is this a date?)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ invited me to go out with him
+...
+Is this a date?)");
         break ;
         default :
         DbgAssert(1);
@@ -64,14 +65,13 @@ I'm just ...");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("J060500000_05_040");
-        MsgDisp("Hiiragi","No, no, we have no choice.");
+        MsgDisp("Hiiragi","No, no, it can't be helped.");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("J060500000_05_050");
-        MsgDisp("Hiiragi","Next time, you should be OK with it
-without a second thought, I will invite
-you well.");
+        MsgDisp("Hiiragi","Next time, I'll invite you so well you won't
+be able to say no.");
         MsgDisp("主人公","Hmmm, yeah.
 See you later.");
         MsgClose();

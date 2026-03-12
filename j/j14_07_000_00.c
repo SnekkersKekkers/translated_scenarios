@@ -11,6 +11,5 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("J140700000_07_010");
-MsgDisp("Mikage","I just wanted to know what your schedule
-is.
+MsgDisp("Mikage","I just wanted to know what your schedule is.
 Are you free this Sunday?");

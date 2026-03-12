@@ -1,4 +1,4 @@
 VoicePlay("J150101005_01_000");
-MsgDisp("Kazama","In a strange turn of events, I'm going out
-with Sassa and Inori We're going to see an
-Indian movie. Can I involve you in this?");
+MsgDisp("Kazama","In a weird turn of events, Sassa, Inori, and
+I are seeing an Indian movie.
+Can I drag you into this?");

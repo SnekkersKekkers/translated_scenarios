@@ -1,4 +1,4 @@
 VoicePlay("J150601015_06_000");
-MsgDisp("Himuro","Kojiro-sensei led me and Yonosuke-senpai
-to a camping trip. I'm going camping with
-them, do you want to join us?");
+MsgDisp("Himuro","Led by Kojiro-sensei, Yanosuke-senpai and I
+are going camping.
+Wanna join us?");

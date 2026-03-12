@@ -31,7 +31,7 @@ Well, I'll see you later?");
     case 5:
     VoicePlay("J030500001_05_050");
     MsgDisp("Hiiragi","...Oh...no, it's difficult that day.");
-    MsgDisp("主人公","Oh ...you're busy.");
+    MsgDisp("主人公","Oh... you're busy.");
     VoicePlay("J030500001_05_060");
     MsgDisp("Hiiragi","Sorry, I just can't get out of it.");
     MsgDisp("主人公","It's fine!
