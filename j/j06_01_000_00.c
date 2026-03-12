@@ -46,14 +46,14 @@ Where do you want to meet up?");
         MsgDisp("Kazama","OK.
 Well, knowing us, we'd find each other no
 matter where we are, right?");
-        MsgDisp("主人公","Hmmm.
+        MsgDisp("主人公","Hehe.
 You have to be at the meeting point.
-Don't you get it?");
+You know that, right?");
         ChEye(1,3);
         ChMouth(1,3);
         ChMotion(1,3,1);
         VoicePlay("J060100000_01_040");
-        MsgDisp("Kazama","Yes, it's better to see each other right
+        MsgDisp("Kazama","Yeah, it's better to see each other right
 away.
 It's a date, after all.");
         ChEye(1,0);
@@ -109,9 +109,8 @@ little bit\" means.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(1);
-        MsgDisp("主人公","(He went to the trouble of inviting me, I'm
-sorry I did that.
-...)");
+        MsgDisp("主人公","(He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         case 5:
         ChEye(1,2);
@@ -141,15 +140,15 @@ See you later?");
         ChMotion(1,2);
         ChEyeOpenLevel(1,7);
         VoicePlay("J060100000_01_120");
-        MsgDisp("Kazama","As long as we can be together, I guess it
-doesn't matter where we are...");
+        MsgDisp("Kazama","If we're together, who cares where we
+are...");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(1);
-        MsgDisp("主人公","(Hmmm ...
-He went to all the trouble of inviting me
-over, I'm sorry I did that...)");
+        MsgDisp("主人公","(Hmm...
+He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

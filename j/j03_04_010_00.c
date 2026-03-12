@@ -17,7 +17,7 @@ I heard your voicemail thing, it's fine.");
 Then, on ｛日付｝ I'll be waiting for
 you at ｛待ち合わせ場所｝.");
     VoicePlay("J030401000_04_010");
-    MsgDisp("Nanatsumori","Okay, okay.");
+    MsgDisp("Nanatsumori","Got it.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray-!
@@ -34,7 +34,7 @@ I hope that ｛日付｝ comes soon!)");
 It's Nanatsumori.
 Just heard the voicemail.");
     MsgDisp("主人公","Yeah.
-So, I suppose you'll come?");
+So, what do you think?");
     VoicePlay("J030401000_04_030");
     MsgDisp("Nanatsumori","It's OK.
 What about the day of the event?");

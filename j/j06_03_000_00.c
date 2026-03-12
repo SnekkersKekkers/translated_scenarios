@@ -70,7 +70,7 @@ See you later?");
         BGMStop();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(｛Honda＊＊｝, I've been invited on a date.
+        MsgDisp("主人公","(｛Honda＊＊｝ asked me out on a date!
 I'm looking forward to Sunday!)");
         break ;
         default :
@@ -105,8 +105,8 @@ suddenly.");
         BGMStop();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(He took the time to invite me over, I'm
-sorry I did that ...)");
+        MsgDisp("主人公","(He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         case 4:
         case 5:
@@ -147,8 +147,8 @@ See ya?");
         BGMStop();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(He went to the trouble of inviting me, I'm
-sorry I did that ...)");
+        MsgDisp("主人公","(He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

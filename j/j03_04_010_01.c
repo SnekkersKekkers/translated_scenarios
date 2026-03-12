@@ -14,7 +14,8 @@ It's ｛主人公苗字｝.");
     MsgDisp("Nanatsumori","Oh...
 Nanatsumori.
 I just heard the voicemail.");
-    MsgDisp("主人公","Yes?");
+    MsgDisp("主人公","Yeah.
+So, what do you think?");
     VoicePlay("J030401001_04_010");
     MsgDisp("Nanatsumori","I can't that day.
 I have to run an errand.");
@@ -36,15 +37,15 @@ See you.");
 It's ｛主人公苗字｝.");
     VoicePlay("J030401001_04_030");
     MsgDisp("Nanatsumori","Sorry about the voicemail.");
-    MsgDisp("主人公","Er, well.
+    MsgDisp("主人公","It's okay.
 So, can you?");
     VoicePlay("J030401001_04_040");
     MsgDisp("Nanatsumori","I have an appointment that day.
-Sorry.");
+Too bad.");
     MsgDisp("主人公","Oh...");
     VoicePlay("J030401001_04_050");
-    MsgDisp("Nanatsumori","Cheer up?
-I'll see you later.");
+    MsgDisp("Nanatsumori","Chin up, okay?
+See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmmm, too bad...)");
@@ -60,7 +61,7 @@ It's ｛主人公苗字｝.");
     VoicePlay("J030401001_04_060");
     MsgDisp("Nanatsumori","Yo.
 Sorry I missed your call.");
-    MsgDisp("主人公","Er, well.
+    MsgDisp("主人公","It's okay.
 So, about the voicemail.
 What do you think?");
     VoicePlay("J030401001_04_070");
@@ -70,7 +71,7 @@ I have an errand I can't miss.");
 Well, then I guess I can't blame you...");
     VoicePlay("J030401001_04_080");
     MsgDisp("Nanatsumori","Don't make that sound.
-I'll make sure to recover it next time.
+I'll make it up to you next time.
 Well then...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

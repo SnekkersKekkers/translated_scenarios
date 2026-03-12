@@ -36,8 +36,8 @@ Are ya free?");
 Well, I'll see you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Is there really something to do this
-Sunday?)");
+        MsgDisp("主人公","(I wonder what that was about this
+Sunday...)");
         break ;
         default :
         DbgAssert(0);

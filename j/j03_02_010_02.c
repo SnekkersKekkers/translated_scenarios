@@ -13,7 +13,7 @@ Do you think you can go?");
 VoicePlay("J030201002_02_010");
 MsgDisp("Sassa","It's nice to invite me, but I have club
 activities every 3rd Sunday of the month.");
-MsgDisp("主人公","Ah, that's true, sorry.");
+MsgDisp("主人公","Oh, I see.");
 VoicePlay("J030201002_02_020");
 MsgDisp("Sassa","Yeah, try to remember it.
 Bye.");

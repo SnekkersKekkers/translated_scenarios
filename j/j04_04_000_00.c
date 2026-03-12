@@ -35,8 +35,8 @@ Then I guess I don't have a choice.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("J040400000_04_030");
-        MsgDisp("Nanatsumori","Oh, no, no worries.
-I'll ask you out again without fail.");
+        MsgDisp("Nanatsumori","Nah, don't worry about it.
+I'll just keep asking.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

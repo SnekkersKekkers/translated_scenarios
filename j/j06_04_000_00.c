@@ -72,8 +72,8 @@ Bye.");
         MsgClose();
         ChClose(4,0,30);
         Wait(30);
-        MsgDisp("主人公","(He went to the trouble of inviting me, I'm
-sorry I did that ...)");
+        MsgDisp("主人公","(He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

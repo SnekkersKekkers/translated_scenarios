@@ -1,2 +1,2 @@
 VoicePlay("J050601016_06_000");
-MsgDisp("Himuro","Hey, Live House, want to go with me?");
+MsgDisp("Himuro","Wanna go to the Live House with me?");

@@ -22,7 +22,7 @@ It makes me so happy.");
         MsgDisp("Hiiragi","Well then, I look forward to the day.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ invited me out.....
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ invited me out...
 Is this a date?)");
         break ;
         default :
@@ -54,9 +54,9 @@ be able to say no.");
 See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Hmmm ...
-He went to all the trouble of inviting me
-over, I'm sorry I did that. ...)");
+        MsgDisp("主人公","(Hmm...
+He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

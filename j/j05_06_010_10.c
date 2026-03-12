@@ -1,2 +1,2 @@
 VoicePlay("J050601010_06_000");
-MsgDisp("Himuro","Wanna go to the Botanical Gardens?");
+MsgDisp("Himuro","Wanna go to the Botanical Garden?");

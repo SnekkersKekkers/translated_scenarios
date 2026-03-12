@@ -43,7 +43,7 @@ Well, I'll ask you out another time.");
         MsgClose();
         ChClose(3);
         Wait(30);
-        MsgDisp("主人公","(This Sunday....
+        MsgDisp("主人公","(This Sunday...
 What was that about?)");
         MsgClose();
         ScrFadeOut(0,0);

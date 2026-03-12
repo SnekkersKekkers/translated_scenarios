@@ -35,8 +35,8 @@ am, right?");
         MsgDisp("主人公","Hmmm...easy to find, isn't it?");
         VoicePlay("J060201000_02_040");
         MsgDisp("Sassa","Oh, you laughed.
-I'll be the one to mark the spot.
-See you.");
+I'll be your waypoint, then.
+See ya.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(｛Sassa＊＊｝, invited me out on a date.

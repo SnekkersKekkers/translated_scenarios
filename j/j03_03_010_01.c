@@ -59,7 +59,7 @@ Well, I'll see you later?");
     SEWait();
     MsgDisp("主人公","Hello, ｛Honda＊＊｝?");
     VoicePlay("J030301001_03_060");
-    MsgDisp("Honda","Yeah, I am.
+    MsgDisp("Honda","Yeah, it's me.
 About the voicemail...");
     MsgDisp("主人公","The way it sounds, you already had plans?");
     VoicePlay("J030301001_03_070");

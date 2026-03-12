@@ -69,6 +69,7 @@ So?");
         MsgDisp("主人公","Did you need something?");
         VoicePlay("J040200001_02_070");
         MsgDisp("Sassa","No, no big deal.
+It can be anytime.
 I'll call you again.");
         VoicePlay("J040200001_02_080");
         MsgDisp("Sassa","See you at school.");

@@ -58,8 +58,8 @@ am, right?");
         ChMotion(2,4);
         VoicePlay("J060200000_02_040");
         MsgDisp("Sassa","Oh, you laughed.
-I'll be the one to spot the mark.
-See you.");
+I'll be your waypoint, then.
+See ya.");
         MsgClose();
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

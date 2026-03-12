@@ -67,8 +67,8 @@ suddenly.");
         MsgDisp("Honda","See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He took the time to invite me over, I'm
-sorry I did that ...)");
+        MsgDisp("主人公","(He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         case 4:
         case 5:
@@ -91,8 +91,8 @@ I'm sorry too.");
 See ya?");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He went to the trouble of inviting me, I'm
-sorry I did that ...)");
+        MsgDisp("主人公","(He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

@@ -72,9 +72,8 @@ I'll just sit here figuring out what \"a
 little bit\" means.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He went to the trouble of inviting me, I'm
-sorry I did that.
-...)");
+        MsgDisp("主人公","(He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         case 5:
         VoicePlay("J060101000_01_090");
@@ -89,13 +88,13 @@ Even though it's not good.");
         MsgDisp("主人公","Uh-huh.
 See you later?");
         VoicePlay("J060101000_01_120");
-        MsgDisp("Kazama","If we can be together, it doesn't matter
-where you are....");
+        MsgDisp("Kazama","If we're together, who cares where we
+are...");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Hmmm ...
-You went to the trouble of inviting me, I'm
-sorry I did that. ...)");
+        MsgDisp("主人公","(Hmm...
+He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

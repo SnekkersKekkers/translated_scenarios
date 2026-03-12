@@ -1,2 +1,2 @@
 VoicePlay("J050101016_01_000");
-MsgDisp("Kazama","Want to go to a live house?");
+MsgDisp("Kazama","Want to go to the Live House?");

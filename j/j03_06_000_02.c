@@ -5,7 +5,7 @@ VoicePlay("J030600002_06_010");
 MsgDisp("Himuro","I work part-time on Wednesdays and Fridays.
 Keep that in mind.");
 VoicePlay("J030600002_06_020");
-MsgDisp("Himuro","Well then.");
+MsgDisp("Himuro","See you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Only Wednesday and Friday...

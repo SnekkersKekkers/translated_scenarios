@@ -40,8 +40,8 @@ Sorry.");
     MsgDisp("主人公","Oh, I see... it's busy, isn't it?
 I can't blame you.");
     VoicePlay("J030501001_05_040");
-    MsgDisp("Hiiragi","I'm sorry you had to go through the trouble
-of inviting me.");
+    MsgDisp("Hiiragi","I'm sorry, especially since you went
+out of your way to invite me.");
     MsgDisp("主人公","No, it's okay!
 Well, I'll see you around?");
     VoicePlay("J030501001_05_050");
@@ -65,8 +65,8 @@ So, what do you think?
 Are you good to go?");
     VoicePlay("J030501001_05_070");
     MsgDisp("Hiiragi","Oh, no.
-I have a schedule I can't miss.
-I'm afraid I can't even coordinate.");
+I have a commitment I can't get out of.
+I'm afraid I can't even rearrange things.");
     MsgDisp("主人公","I'm sorry I pushed you.");
     VoicePlay("J030501001_05_080");
     MsgDisp("Hiiragi","It's your invitation.
@@ -74,7 +74,7 @@ It makes me want to try to make it work.
 But I'm sorry. See you another time...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Ah, what a shame...)");
+    MsgDisp("主人公","(Aww, that really is too bad!)");
     break ;
     default :
     DbgAssert(1);

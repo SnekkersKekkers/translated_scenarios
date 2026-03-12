@@ -35,8 +35,7 @@ It makes me so happy.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(5);
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ invited me to go out with him
-...
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ invited me out...
 Is this a date?)");
         break ;
         default :
@@ -78,9 +77,9 @@ See you later.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(5);
-        MsgDisp("主人公","(Hmmm ...
-He went to all the trouble of inviting me
-over, I'm sorry I did that...)");
+        MsgDisp("主人公","(Hmm...
+He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

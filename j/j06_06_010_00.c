@@ -15,7 +15,7 @@ What about meeting up?");
         MsgDisp("主人公","How about at the ｛待ち合わせ場所｝?");
         VoicePlay("J060601000_06_010");
         MsgDisp("Himuro","Okay, good.
-There you go.");
+There, then.");
         MsgDisp("主人公","I'm looking forward to it.");
         VoicePlay("J060601000_06_020");
         MsgDisp("Himuro","Yeah ...me too.");

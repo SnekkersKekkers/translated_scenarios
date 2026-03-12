@@ -36,7 +36,7 @@ switch (ChPrmGet(6,6)){
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("J040600000_06_030");
-        MsgDisp("Himuro","There's nothing to apologize for....
+        MsgDisp("Himuro","There's nothing to apologize for...
 It was just bad timing.
 See you.");
         MsgClose();
