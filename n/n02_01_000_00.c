@@ -93,9 +93,7 @@ Thank you.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100000_01_090");
-    MsgDisp("Kazama","Well, now that I've lulled you into a
-false sense of security, next time I'm
-taking the top rank.");
+    MsgDisp("Kazama","Well, now that I've lulled you into a\nfalse sense of security, next time I'm\ntaking first place.");
     MsgDisp("主人公","Huh?
 I'm not gonna lose!");
     ChEyeOpenLevel(1,0);
