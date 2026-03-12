@@ -1,7 +1,6 @@
 BGOpen("sc511",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's gotten late.
-Gotta go back home.)");
+MsgDisp("主人公","(It's gotten late.\nTime to go back home.)");
 VoicePlay("A020600100_32_000");
 MsgDisp("VP Himuro?","Alright, finally.");
 MsgDisp("主人公","(Hmm?
