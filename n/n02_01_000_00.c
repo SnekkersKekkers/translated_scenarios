@@ -39,13 +39,13 @@ I'm not gonna lose next time either!)");
     MsgDisp("Kazama","Congratulations.
 However, I'm not feeling so good about
 myself.");
-    MsgDisp("主人公","Umm, was it just a lucky streak?");
+    MsgDisp("主人公","Umm, I guess I just got lucky?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100000_01_040");
-    MsgDisp("Kazama","That attitude. Now I like it even less.");
+    MsgDisp("Kazama","That attitude. Now I feel even worse.");
     MsgDisp("主人公","Hehe, sorry.
 I really gave it my all.");
     ChEyeOpenLevel(1,0);

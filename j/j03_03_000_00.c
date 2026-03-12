@@ -20,7 +20,7 @@ I hope ｛日付｝ arrives fast!)");
 ｛日付｝. I'll wait for you at the
 ｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_030");
-    MsgDisp("Honda","Oka～ y!
+    MsgDisp("Honda","Okay～!
 I'm excited!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
