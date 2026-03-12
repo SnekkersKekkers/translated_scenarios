@@ -76,7 +76,7 @@ ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);
 VoicePlay("E010630100_32_010");
 MsgDisp("VP Himuro","The promise is to not wander around the
 school in overalls.");
-MsgDisp("主人公","Himuro-sensei ∋
+MsgDisp("主人公","Himuro-sensei∋
 Ah, so the person you're meeting is...");
 VoicePlay("E010630100_06_050");
 ChEye(6,0);

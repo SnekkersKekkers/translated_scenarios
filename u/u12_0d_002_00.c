@@ -4,7 +4,7 @@ StlEye(22,1);
 StlMouth(22,2);
 StlCheek(22,0);
 VoicePlay("U120D00200_22_000");
-MsgDisp("Hikaru","No way ∋
+MsgDisp("Hikaru","No way∋
 Mari, aren't you super popular lately?
 Are you sure you're not in love∋");
 StlEye(21,1);

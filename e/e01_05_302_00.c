@@ -145,7 +145,7 @@ SEPlay("EV_SE_856");
 BGMStop();
 ChClose(1,0,30);
 ChClose(5,0,30);
-MsgDisp("主人公","Ehhh ∋
+MsgDisp("主人公","Ehhh∋
 Wait a minute!");
 MsgDisp("主人公","(Geez...
 These two are both stubborn.

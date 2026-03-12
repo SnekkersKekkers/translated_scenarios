@@ -82,7 +82,7 @@ ChMotion(5,0);
 VoicePlay("E010520100_05_040");
 MsgDisp("Hiiragi","Do you currently have a girlfriend or
 boyfriend or someone you like?");
-MsgDisp("主人公","Huh ∋");
+MsgDisp("主人公","Huh∋");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

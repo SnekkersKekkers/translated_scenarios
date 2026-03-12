@@ -14,7 +14,7 @@ VoicePlay("B020202126_02_010");
 MsgDisp("Sassa","Yeah.
 But lately I've wanted to see even more of
 it, for some reason.");
-MsgDisp("主人公","Huh?? ∋");
+MsgDisp("主人公","Huh??∋");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);

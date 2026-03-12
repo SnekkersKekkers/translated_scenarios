@@ -57,7 +57,7 @@ VoicePlay("E010540000_22_030");
 MsgDisp("Hikaru","We're on a date♪");
 ChMouth(5,2);
 ChMotion(5,4);
-MsgDisp("主人公","Ehh ∋");
+MsgDisp("主人公","Ehh∋");
 VoicePlay("E010540000_05_030");
 MsgDisp("Hiiragi","What are you saying?");
 ChEye(22,0);

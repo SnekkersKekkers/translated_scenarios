@@ -105,7 +105,7 @@ ChEye(6,3);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("E010630200_06_100");
-MsgDisp("Himuro","Wow ∋");
+MsgDisp("Himuro","Wow∋");
 VoicePlay("E010630200_32_050");
 MsgDisp("VP Himuro","Sorry.
 That's it for me today.

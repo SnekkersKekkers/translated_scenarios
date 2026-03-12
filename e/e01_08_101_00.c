@@ -32,7 +32,7 @@ ChMouth(8,5);
 ChMotion(8,2,1);
 ChCheek(8,5);
 VoicePlay("E010810100_08_030");
-MsgDisp("Shirahane","Ah ∋
+MsgDisp("Shirahane","Ah∋
 Don't get the wrong idea!
 It's not like I was on a date.");
 MsgDisp("主人公","Hehe!");
