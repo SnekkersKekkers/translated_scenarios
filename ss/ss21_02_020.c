@@ -4,7 +4,6 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("SS2102020_02_000");
-MsgDisp("Sassa","I have my reasons for looking away,
-okay?");
+MsgDisp("Sassa","I have my reasons for looking away, okay?");
 MsgClose();
 ChCheek(2,0);

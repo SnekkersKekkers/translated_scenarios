@@ -4,6 +4,5 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("SS0106326_06_000");
-MsgDisp("Himuro","Are you trying to give me the 
-wrong idea...?");
+MsgDisp("Himuro","Are you trying to give me the wrong idea...?");
 MsgClose();
