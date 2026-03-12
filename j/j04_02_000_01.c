@@ -74,8 +74,8 @@ I'll call you again.");
         MsgDisp("Sassa","See you at school.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He went to the trouble of asking me out.
-I did a bad thing, didn't I?...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me.
+I feel bad...)");
         MsgClose();
         break ;
         default :

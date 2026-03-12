@@ -6,8 +6,8 @@ MsgDisp("Kazama","Yeah, I can't go out on Tuesdays and
 Thursdays.");
 VoicePlay("J030100002_01_020");
 MsgDisp("Kazama","Try not to forget it.
-It's nice of you to ask but it can't be
-helped!");
+It'd be a waste when you go through the 
+trouble of asking, right?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(He's got work on Tuesdays and Thursdays.

@@ -29,8 +29,7 @@ Let's go out again?
 Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Can't be helped, let's stop calling for
-today...)");
+    MsgDisp("主人公","(Can't be helped, I'll give up for today...)");
     break ;
     case 4:
     case 5:

@@ -40,7 +40,7 @@ Then, I'll be waiting for you at the
 ｛待ち合わせ場所｝ on ｛日付｝. Alright?");
     VoicePlay("J030100000_01_060");
     MsgDisp("Kazama","Yeah, take care on the way.
-But you know that.");
+Got it?");
     MsgDisp("主人公","Geez, I'll be fine!
 You be careful too, ｛Kazama＊＊｝!");
     VoicePlay("J030100000_01_070");

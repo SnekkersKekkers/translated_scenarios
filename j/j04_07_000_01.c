@@ -11,8 +11,8 @@ MsgDisp("主人公","｛Mikage＊＊｝, you seem well.");
 VoicePlay("J040700001_07_010");
 MsgDisp("Mikage","So.
 You know...");
-MsgDisp("主人公","(Maybe there is a place you want to go...
-What shall we do?)");
+MsgDisp("主人公","(Maybe there's a place he wants to go...
+What should I do?)");
 MsgSel("I'd like to go out this Sunday.", "I'm busy that day...");
 switch (MsgSelRsltGet()){
     case 0:

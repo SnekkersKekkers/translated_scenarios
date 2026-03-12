@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     SEWait();
     MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030501000_05_000");
-    MsgDisp("Hiiragi","Hi it's Hiiragi.
+    MsgDisp("Hiiragi","Hi, it's Hiiragi.
 Thank you for your message.
 I'm available that day.");
     MsgDisp("主人公","Really?

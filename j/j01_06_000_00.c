@@ -21,7 +21,8 @@ It's ｛主人公苗字｝, is now a good time?");
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝?
 It's ｛主人公苗字｝, is now a good time?");
     VoicePlay("J010600000_06_030");
-    MsgDisp("Himuro","Yeah it's fine, what's going on?");
+    MsgDisp("Himuro","Yeah, it's fine.
+What's going on?");
     MsgDisp("主人公","Um, well...");
     break ;
     case 4:
