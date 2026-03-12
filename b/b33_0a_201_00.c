@@ -35,7 +35,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20100_02_010");
 MsgDisp("Sassa","Well, if we're talking physique, I'm the
-dad, and you're the Mom?");
+dad, and you're the mom?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

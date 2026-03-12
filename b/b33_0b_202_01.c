@@ -76,7 +76,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330B20201_01_020");
 MsgDisp("Kazama","So?
-Which one does this planetarium us——");
+Which one does this planetarium use——");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);

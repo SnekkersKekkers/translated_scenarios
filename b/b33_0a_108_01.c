@@ -33,8 +33,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10801_01_010");
-MsgDisp("Kazama","Well in summer, there's normally a lot of
-people who have good reactions.");
+MsgDisp("Kazama","Well, it's a summer staple, and I've got
+people with great reactions right here.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

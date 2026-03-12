@@ -105,7 +105,7 @@ VoicePlay("B330C10700_05_030");
 MsgDisp("Hiiragi","Well, let's enjoy ourselves to the
 fullest?");
 MsgDisp("主人公","Yeah...!");
-MsgDisp("主人公","(I'm happy but, Is it really okay to leave
+MsgDisp("主人公","(I'm happy, but is it really okay to leave
 ｛Himuro＊＊｝ and ｛Mikage＊＊｝ behind?)");
 BGMStop();
 MsgClose();

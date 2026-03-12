@@ -29,7 +29,7 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B330B30700_03_010");
-MsgDisp("Honda","Ahー,so it's that!
+MsgDisp("Honda","Ahー, so it's that!
 I thought you were interested in the way
 the body was structured.");
 ChEye(1,2);

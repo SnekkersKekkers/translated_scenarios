@@ -133,7 +133,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20301_05_090");
 MsgDisp("Hiiragi","I look forward to it.");
-MsgDisp("主人公","(When we're altogether, wherever we go
+MsgDisp("主人公","(When we're all together, wherever we go
 becomes special...hehe, how mysterious.)");
 BGMStop();
 MsgClose();

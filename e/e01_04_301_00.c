@@ -29,7 +29,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("E010430100_04_020");
-MsgDisp("Nanatsumori","Ehhh ∋");
+MsgDisp("Nanatsumori","Ehhh∋");
 MsgDisp("主人公","Huh, where to?");
 ChEye(3,0);
 ChMouth(3,3);

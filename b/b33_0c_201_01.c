@@ -65,13 +65,14 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330C20101_06_030");
-MsgDisp("Himuro","Don't lump us altogether, thanks.");
+MsgDisp("Himuro","Don't lump us all together, thanks.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20101_07_030");
 MsgDisp("Mikage","Eh, I see. My bad, my bad. I guess you
-guys differ to the youths, so to speak.");
+guys are different from typical youths,
+so to speak.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

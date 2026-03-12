@@ -55,7 +55,7 @@ ChMotion(6,0);
 VoicePlay("B330C20600_06_020");
 MsgDisp("Himuro","It's not at that level.
 They break into song, then the number of
-dancers keep increasing.");
+dancers keeps increasing.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -66,7 +66,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C20600_07_010");
-MsgDisp("Mikage","The power of Indian movies have charmed
+MsgDisp("Mikage","The power of Indian movies has charmed
 Yanosuke this much, it's amazing.");
 ChEye(6,0);
 ChMouth(6,4);
