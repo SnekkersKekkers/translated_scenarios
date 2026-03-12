@@ -39,13 +39,13 @@ I'm not gonna lose next time either!)");
     MsgDisp("Kazama","Congratulations.
 However, I'm not feeling so good about
 myself.");
-    MsgDisp("主人公","Umm, I guess I just got lucky?");
+    MsgDisp("主人公","Umm, was it just a lucky streak?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100000_01_040");
-    MsgDisp("Kazama","That attitude. Now I feel even worse.");
+    MsgDisp("Kazama","That attitude. Now I like it even less.");
     MsgDisp("主人公","Hehe, sorry.
 I really gave it my all.");
     ChEyeOpenLevel(1,0);
@@ -69,8 +69,7 @@ next time.");
     ChMotion(1,3);
     VoiceEVSPlay(1);
     VoicePlay("N020100000_01_060");
-    MsgDisp("Kazama","｛主人公｝.
-You did it, top rank.");
+    MsgDisp("Kazama","｛主人公｝.\nYou did it, first place.");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Thank you!");
     ChEye(1,4);
@@ -93,9 +92,7 @@ Thank you.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100000_01_090");
-    MsgDisp("Kazama","Well, now that I've lulled you into a
-false sense of security, next time I'm
-taking the top rank.");
+    MsgDisp("Kazama","Well, now that I've lulled you into a\nfalse sense of security, next time I'm\ntaking first place.");
     MsgDisp("主人公","Huh?
 I'm not gonna lose!");
     ChEyeOpenLevel(1,0);
