@@ -10,6 +10,6 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("J140300002_03_000");
-MsgDisp("Honda","That's right.
-Don't ever forget it, okay?
+MsgDisp("Honda","That's fine.
+Don't forget, okay?
 See you later!");
