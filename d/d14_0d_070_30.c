@@ -3,7 +3,7 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,2,1);
 VoicePlay("D140D07030_22_000");
-MsgDisp("Hikaru","Ah～h.
+MsgDisp("Hikaru","Ahh～.
 Hikaru likes school but doesn't 
 really like studying～...");
 MsgDisp("主人公","Hehe!");

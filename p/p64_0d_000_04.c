@@ -29,7 +29,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P640D00004_22_020");
 MsgDisp("Hikaru","Hikaru wants to eat Mari's homecooked
-meals everyda～y▼");
+meals everyday～▼");
 MsgDisp("主人公","(Seems like they're happy.
 I'm glad I continued with the Gardening
 Club.)");

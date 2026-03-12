@@ -41,7 +41,7 @@ I'll have a house blend.");
     VoicePlay("F010700005_07_040");
     MsgDisp("Mikage","Hey. Where'd you learn that technique,
 Miss Diligent? Come on, let's go.");
-    MsgDisp("主人公","Oo～kay.");
+    MsgDisp("主人公","Okay～.");
     break ;
     default :
     DbgAssert(1);

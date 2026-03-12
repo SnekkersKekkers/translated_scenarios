@@ -102,7 +102,7 @@ The love show will become reality soon▼");
     StlMouth(22,0);
     VoicePlay("U130D00004_22_050");
     MsgDisp("Hikaru","Do you think we'll get to see Yanosuke's
-passionate side soon? Ah～n, Hikaru wants
+passionate side soon? Ahn～, Hikaru wants
 to see that performance～▼");
     StlEye(22,0);
     MsgDisp("主人公","(｛ひかる＊｝...If it's ｛Hiiragi＊＊＊｝

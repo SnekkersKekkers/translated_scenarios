@@ -34,7 +34,7 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F032200000_22_280");
-MsgDisp("Hikaru","A～ah I wish they would always do that for
+MsgDisp("Hikaru","Aah～ I wish they would always do that for
 the first 30 minutes.");
 MsgDisp("主人公","(Then, the lesson wouldn't progress at
 all...)");
