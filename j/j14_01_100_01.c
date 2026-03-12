@@ -7,5 +7,5 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("J140110001_01_000");
-MsgDisp("Kazama","Well, they're coming.");
+MsgDisp("Kazama","Told you she'd come.");
 ChEye(1,0);

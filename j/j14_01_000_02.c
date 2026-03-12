@@ -1,6 +1,5 @@
-MsgDisp("主人公","Then, I'll meet you at the
-｛待ち合わせ場所｝.
-Okay, I'll see you there then?");
+MsgDisp("主人公","Then, I'll meet you all at the
+｛待ち合わせ場所｝. Is that okay?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -17,5 +16,5 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("J140100002_01_000");
-MsgDisp("Kazama","Right.
+MsgDisp("Kazama","Got it.
 Don't forget.");

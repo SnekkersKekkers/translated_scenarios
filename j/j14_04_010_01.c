@@ -18,7 +18,7 @@ I'm looking forward to it.)");
     VoicePlay("J140401001_04_020");
     MsgDisp("Nanatsumori","No need to be unreasonable.
 We'll be in touch.
-Bye ....");
+Bye...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(He went to the trouble of inviting me,
