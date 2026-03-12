@@ -87,8 +87,8 @@ VoicePlay("B110300001_03_040");
 MsgDisp("Honda","...He must be lonely, right?
 I can understand what it's like to be a
 shut-in.");
-MsgDisp("主人公","(｛Honda＊＊｝, wow...that guy was opening
-up their heart.)");
+MsgDisp("主人公","(｛Honda＊＊｝, wow...
+That guy was starting to open up.)");
 ChEyeOpenLevel(3,#1);
 ChMouthOpenLevel(3,#1);
 ChCheek(3,0);

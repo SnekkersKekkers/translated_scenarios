@@ -33,7 +33,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720300_07_040");
-MsgDisp("Mikage","Yeah, she's a super～beautiful Holstein
+MsgDisp("Mikage","Yeah, she's a super～ beautiful Holstein
 cow.");
 ChEye(7,2);
 ChMouth(7,0);

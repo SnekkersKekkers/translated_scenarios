@@ -24,10 +24,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B140100100_01_010");
-MsgDisp("Kazama","It's a thanks for tending to the store in
-your Christmas outfit. I thought you
-would've known about it, seeing that
-you're well-informed about the city.");
+MsgDisp("Kazama","A thank-you for working the store in
+your Christmas outfit.
+I figured you'd already know about this.");
 MsgDisp("主人公","No, I didn't know.
 Thank you, ｛Kazama＊＊｝.");
 ChEye(1,0);
@@ -57,8 +56,8 @@ ChMouth(1,4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B140100100_01_040");
-MsgDisp("Kazama","As I thought, the changes in circumstance
-will be scary...");
+MsgDisp("Kazama","You know, changes in your surroundings
+are kinda scary...");
 MsgDisp("主人公","Eh...?");
 ChMotion(1,0);
 Wait(12,0);

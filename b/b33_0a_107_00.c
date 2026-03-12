@@ -25,7 +25,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A10700_01_010");
 MsgDisp("Kazama","Look, there's a bit of a scratch right?
-This was an effect of roughly rubbing the
+That's from when I roughly ground the
 ink.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -62,8 +62,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A10700_06_010");
-MsgDisp("Himuro","Ryota-senpai's commentary of his anecdotes
-are funny...");
+MsgDisp("Himuro","Ryota-senpai's commentary on his anecdotes
+is funny...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -118,7 +118,7 @@ VoicePlay("B330A10700_01_060");
 MsgDisp("Kazama","...OK.
 I'll stock up on some funny stories.");
 MsgDisp("主人公","(If the four of us come to the castle
-again, I'll be happy to hear 
+again, I'd love to hear
 ｛Kazama＊＊｝'s commentary.)");
 BGMStop();
 MsgClose();

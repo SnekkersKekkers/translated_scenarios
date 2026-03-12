@@ -1,7 +1,7 @@
 MsgClose();
 ChClose(4);
 VoicePlay("B120403000_04_000");
-MsgDisp("Nanatsumori","Artists who graduated from Haba High are
-so beyond genius that they are on another
-dimension.");
+MsgDisp("Nanatsumori","Artists from Haba High are so far beyond
+genius, they're on a whole other
+level.");
 RunBGSksp(5);

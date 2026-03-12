@@ -121,8 +121,8 @@ MsgClose();
 ChOpen(2,255,0,2,0,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,30);
 VoicePlay("B330A10800_06_030");
-MsgDisp("Himuro","Someone dropped something so I went to put
-it away in lost and found.");
+MsgDisp("Himuro","Someone dropped something, so I went to
+turn it in.");
 ChMouth(1,0);
 MsgDisp("主人公","Haa, I'm glad...");
 ChEye(6,0);

@@ -5,7 +5,7 @@ ChOpen(6,255,1,0,0,#1,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150600300_06_000");
 MsgDisp("Himuro","You seriously don't get it.");
-MsgDisp("主人公","eh?");
+MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

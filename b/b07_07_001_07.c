@@ -1,6 +1,6 @@
 MsgDisp("主人公","(Huh?
-What's up with me?
-My heart is thudding super fast...)");
+What's wrong with me?
+My heart is pounding so fast...)");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);
@@ -34,23 +34,24 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChCheek(7,7);
 VoicePlay("B070700001_07_570");
-MsgDisp("Mikage","......When did you learn those skills?
-You're getting too tough.");
+MsgDisp("Mikage","......When did you learn to do that?
+You're becoming quite the handful.");
 MsgDisp("主人公","...Phew.
 I've calmed down.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_580");
-MsgDisp("Mikage","Haa, I'm still yet to.");
+MsgDisp("Mikage","Haa, I haven't calmed down yet.");
 MsgDisp("主人公","Eh?
 Are you alright?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_590");
-MsgDisp("Mikage","Are you doing this on purpose then?
-Miss, if you get too carried away...");
+MsgDisp("Mikage","You're doing this on purpose, aren't you?
+Little lady, if you get too carried
+away...");
 MsgDisp("主人公","Eh?");
 ChEye(7,1);
 ChMouth(7,3);

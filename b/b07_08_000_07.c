@@ -18,9 +18,9 @@ ChMouth(8,4);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("B070800000_08_360");
-MsgDisp("Shirahane","But I can't think of anything in the
-future. Well more accurately...I can't see
-it.");
+MsgDisp("Shirahane","But when it comes to the future, I just
+can't picture it. Or more like...I can't
+see it yet.");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);

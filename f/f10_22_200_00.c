@@ -16,7 +16,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F102220000_22_000");
-MsgDisp("Hikaru","Ha～i, Mari!");
+MsgDisp("Hikaru","Hai～, Mari!");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,3);

@@ -6,8 +6,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110800002_35_000");
-MsgDisp("Guy","Ah～ , damn, damn, no good.
-If you frown, it becomes a habit.
+MsgDisp("Guy","Ah～, no no no, that's no good!
+Frowning like that will become a habit.
 Come on, smile!");
 MsgDisp("主人公","∋");
 ChEye(35,0);
@@ -44,8 +44,7 @@ MsgDisp("Shirahane","It's no good, I don't understand.
 Can you translate?");
 MsgDispSksp(0);
 MsgDisp("主人公","Ah...sorry.
-I also wasn't really listening to him
-properly either.");
+I wasn't really listenin\" to him either.");
 MsgDispSksp(1,5);
 ChEye(8,3);
 ChMouth(8,3);
@@ -64,9 +63,9 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("B110800002_08_030");
-MsgDisp("Shirahane","I'm sorry uncle.
-We're going on a date now.
-See youー.");
+MsgDisp("Shirahane","Sorry, mister.
+We're goin' on a date now.
+See yaー.");
 MsgDispSksp(0);
 ChEye(35,0);
 ChMouth(35,0);
@@ -79,5 +78,5 @@ ChEye(8,3);
 ChMouth(8,3);
 ChPosition(8,0);
 VoicePlay("B110800002_08_040");
-MsgDisp("Shirahane","Oh, I can understand that!
-But we don't need to meet again! ー.");
+MsgDisp("Shirahane","Oh, I understood that!
+But we don't need ta meet again!ー");

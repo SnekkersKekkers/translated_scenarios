@@ -23,8 +23,9 @@ MsgDisp("Kazama","I was also all worked up, trying to make
 it special. ...sorry.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 VoicePlay("B100100000_01_040");
-MsgDisp("Kazama","Even if we run around aimlessly at times,
-that's just like us, so don't worry.");
+MsgDisp("Kazama","Even if things don't go smoothly
+sometimes, that's just like us, right?
+So don't worry about it.");
 MsgDisp("主人公","...Yeah.");
 VoicePlay("B100100000_01_050");
 MsgDisp("Kazama","That being said, we don't need any more

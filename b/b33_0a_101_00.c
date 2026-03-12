@@ -17,7 +17,7 @@ ChMotion(1,0);
 VoicePlay("B330A10100_01_000");
 MsgDisp("Kazama","It's being renovated...
 What kind of shop was here?");
-MsgDisp("主人公","A accessory shop.");
+MsgDisp("主人公","An accessory shop.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

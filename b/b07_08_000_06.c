@@ -30,9 +30,9 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_330");
-MsgDisp("Shirahane","Everyone stands so straight on the left
-side, I've also started standing on the
-left side recently.");
+MsgDisp("Shirahane","Everyone lines up so neatly on the left
+that I've started standing on that side
+too recently.");
 MsgDisp("主人公","(Does the way people line up on escalators
 rub off on you?)");
 BGMStop();

@@ -61,9 +61,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B070701000_07_070");
-MsgDisp("Mikage","That's why, you shouldn't take your
-feelings in this moment so seriously.
-Right?");
+MsgDisp("Mikage","That's why you shouldn't take how you feel
+right now too seriously.
+Got it?");
 ChEye(7,2);
 ChMouth(7,0);
 ChEyeOpenLevel(7,0);
@@ -82,8 +82,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070701000_07_100");
-MsgDisp("Mikage","So, you shouldn't think about it so
-seriously right?");
+MsgDisp("Mikage","So don't overthink it, okay?");
 MsgDisp("主人公","Yes...");
 MsgDisp("主人公","(It was weighing on ｛Mikage＊＊｝'s mind
 that I had asked him about love before...)");

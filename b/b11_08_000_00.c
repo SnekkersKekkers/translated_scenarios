@@ -61,9 +61,9 @@ ChEye(8,1);
 ChMouth(8,1);
 ChMotion(8,1,1);
 VoicePlay("B110800000_08_030");
-MsgDisp("Shirahane","I might be a kid, but you're a pain in the
-butt.
-Fly away painー!");
+MsgDisp("Shirahane","Sure, I'm the tagalong, but you're the
+real eyesore here.
+Pain, pain, fly awayー!");
 MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,0);

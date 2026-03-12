@@ -9,9 +9,9 @@ ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_070");
-MsgDisp("Shirahane","I don't know if ya prefer soy sauce or
-ketchup, but I think they're both super
-delicious.");
+MsgDisp("Shirahane","Some people prefer soy sauce, some
+Worcestershire, some ketchup, but I think
+they're all super delicious.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

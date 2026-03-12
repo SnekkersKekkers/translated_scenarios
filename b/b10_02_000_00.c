@@ -31,9 +31,9 @@ MsgDisp("主人公","...Thank you.
 I should have been the one to call.
 I'm sorry.");
 VoicePlay("B100200000_02_050");
-MsgDisp("Sassa","Wait, wait. What am I going to do now that
-you're going back to this? Don't
-apologize!");
+MsgDisp("Sassa","Wait, wait.
+Don't go back to that now!
+No more apologies!");
 MsgDisp("主人公","Yeah, understood.");
 VoicePlay("B100200000_02_060");
 MsgDisp("Sassa","That's it.

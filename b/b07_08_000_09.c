@@ -23,16 +23,16 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_500");
-MsgDisp("Shirahane","Girls talk is no good...
+MsgDisp("Shirahane","Love talk is no good for me...
 It's still too early for me...");
 MsgDisp("主人公","Is that so?");
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_510");
 MsgDisp("Shirahane","What about you?
 What do ya think about love?");
-MsgDisp("主人公","Hey.
-It's not me being asked...
-I'm asking ｛Daichi＊＊｝, right?");
+MsgDisp("主人公","Geez.
+I'm not the one being asked here...
+I'm asking you, ｛Daichi＊＊｝.");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);

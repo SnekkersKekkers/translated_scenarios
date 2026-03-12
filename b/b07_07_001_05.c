@@ -1,5 +1,5 @@
-MsgDisp("主人公","It's more fun for guys to only talk to
-each other right?");
+MsgDisp("主人公","It's more fun when it's just the guys
+talking together, right?");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,5);

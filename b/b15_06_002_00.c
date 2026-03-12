@@ -5,7 +5,7 @@ ChOpen(6,255,2,0,0,0,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150600200_06_000");
 MsgDisp("Himuro","Again...");
-MsgDisp("主人公","eh?");
+MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

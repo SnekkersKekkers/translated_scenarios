@@ -27,12 +27,12 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700001_07_280");
-MsgDisp("Mikage","Yeah, but Yanosuke also knows so, he'll
-quietly tell me that he \"added some slight
-misinformation\" on the side.");
-MsgDisp("主人公","Ehhh...
-｛Hiiragi＊＊＊｝ is funny.
-Is ｛Himuro＊＊｝ fooled?");
+MsgDisp("Mikage","Yeah, but Yanosuke's onto him too, so
+he'll quietly tell me on the side that he
+\"mixed in some wrong info.\"");
+MsgDisp("主人公","Wow... 
+｛Hiiragi＊＊＊｝ is pretty funny.
+Does ｛Himuro＊＊｝ fall for it?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -50,9 +50,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_310");
-MsgDisp("Mikage","They can't forgive that I'm the only one
-with info on you. Even if I say it's
-because I'm your homeroom teacher.");
+MsgDisp("Mikage","They can't stand that I'm the only one
+with info on you. Even when I tell them
+it's because I'm your homeroom teacher.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

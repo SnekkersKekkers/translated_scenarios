@@ -28,10 +28,9 @@ Please stop.");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110700002_35_030");
-MsgDisp("Guy","No can do, you could be anything from an
-actress to a model, with decades in the
-industry, and I give you my
-stamp of approval♪");
+MsgDisp("Guy","No can do! You could be an actress, a
+model, anything you want!
+My decades of experience guarantee it♪");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChPosition(35,1);
@@ -48,14 +47,14 @@ ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110700002_35_040");
 MsgDisp("Guy","Eh, what a handsome guy.
-But, leave now or I'll get off topic.");
+But buzz off, you're derailing things.");
 MsgDispSksp(1,5);
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B110700002_07_010");
-MsgDisp("Mikage","The one who should leave is you.
-Even so, you look great...");
+MsgDisp("Mikage","You're the one who should get lost.
+Still, what an outfit you've got on...");
 MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
@@ -68,7 +67,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B110700002_07_020");
-MsgDisp("Mikage","Come on, there's a police station here.");
+MsgDisp("Mikage","Come on, we're going to the police station.");
 MsgDispSksp(0);
 SEPlay("EV_SE_581");
 MsgClose();
@@ -90,14 +89,14 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,253,4,2,0,#1,#1,0,0);
 VoicePlay("B110700002_07_040");
-MsgDisp("Mikage","Haa...that kind of person makes me sad.
-They had a high school life too.");
-MsgDisp("主人公","Yes...
-It's somewhat pitiable.");
+MsgDisp("Mikage","Haa...guys like that make me sad.
+Even he was a high schooler once, y'know.");
+MsgDisp("主人公","Yeah...
+It's kinda sad, actually.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B110700002_07_050");
-MsgDisp("Mikage","Sorry, I was late.
-Let's shift the mood and go.");
+MsgDisp("Mikage","Sorry, it's my fault for being late.
+Let's shake it off and get going.");
 BGMStop();
