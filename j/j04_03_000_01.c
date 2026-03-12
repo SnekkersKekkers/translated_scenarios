@@ -65,7 +65,7 @@ What's wrong?");
         VoicePlay("J040300001_03_070");
         MsgDisp("Honda","...Oh, I see!
 That's right.");
-        MsgDisp("主人公","Well, it was an invitation of some sort?");
+        MsgDisp("主人公","Um, were you inviting me somewhere?");
         VoicePlay("J040300001_03_080");
         MsgDisp("Honda","Oh, yeah. I got so excited on my own that I
 didn't even consider the possibility that our

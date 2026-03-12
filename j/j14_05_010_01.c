@@ -22,8 +22,8 @@ But it can't be helped.
 Well, I'll see you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
-do something wrong?)");
+    MsgDisp("主人公","(He went to the trouble of inviting me.
+Did I do something wrong?)");
     break ;
     default :
     DbgAssert(0);

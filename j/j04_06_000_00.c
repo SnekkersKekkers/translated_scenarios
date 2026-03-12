@@ -45,7 +45,7 @@ See you.");
         MsgClose();
         ChClose(6);
         Wait(30);
-        MsgDisp("主人公","(I feel bad about what I did...)");
+        MsgDisp("主人公","(I feel bad about that...)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

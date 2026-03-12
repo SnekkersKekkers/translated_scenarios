@@ -60,8 +60,8 @@ Sorry I couldn't get to the phone.");
     MsgDisp("主人公","No, it's okay!
 So, are you free?");
     VoicePlay("J030501000_05_060");
-    MsgDisp("Hiiragi","Yeah, I'm just available that day.
-We should go.");
+    MsgDisp("Hiiragi","Yeah, I happen to be free that day.
+Let's go.");
     MsgDisp("主人公","Then, on ｛日付｝ I'll be waiting for
 you at ｛待ち合わせ場所｝.");
     VoicePlay("J030501000_05_070");

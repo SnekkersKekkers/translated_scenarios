@@ -36,8 +36,8 @@ I hope ｛日付｝ comes fast!)");
 Pretty cool, right?
 Great minds think alike.");
     MsgDisp("主人公","Yeah!
-Then, I'll be waiting for you at the
-｛待ち合わせ場所｝ on ｛日付｝. Alright?");
+Then, I'll be waiting at the
+｛待ち合わせ場所｝ on ｛日付｝.");
     VoicePlay("J030100000_01_060");
     MsgDisp("Kazama","Yeah, take care on the way.
 Got it?");

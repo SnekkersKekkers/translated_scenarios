@@ -7,7 +7,7 @@ switch (MsgSelRsltGet()){
 Should we meet up there?");
     VoicePlay("J140101001_01_010");
     MsgDisp("Kazama","OK!
-I'll do that.
+Let's do that.
 I'll let them know. See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
@@ -21,8 +21,8 @@ Okay.
 I'll see you next time.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
-do something bad to everyone?)");
+    MsgDisp("主人公","(He went to the trouble of inviting me.
+Did I do something bad to everyone?)");
     break ;
     default :
     DbgAssert(0);

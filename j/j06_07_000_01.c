@@ -12,21 +12,21 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3);
     VoicePlay("J060700001_07_000");
     MsgDisp("Mikage","Wow.
-You are pretty serious, aren't you?
+You guys are pretty serious, aren't you?
 I'm impressed.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("J060700001_07_010");
-    MsgDisp("Mikage","I'll see those who're participating on Sunday
-then.");
+    MsgDisp("Mikage","Alright, those of you who're joining, see you
+Sunday.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
     Wait(30);
     SEPlay("EV_SE_GAYA_018");
-    MsgDisp("主人公","(This Sunday huh ...
+    MsgDisp("主人公","(This Sunday, huh...
 I'll try not to oversleep.)");
     SEStop("EV_SE_GAYA_018",1);
     break ;

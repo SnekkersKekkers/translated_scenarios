@@ -87,7 +87,7 @@ I'm looking forward to it!!)");
         ChMotion(2,4);
         VoicePlay("J060200000_02_050");
         MsgDisp("Sassa","Oh, did you have something to do?");
-        MsgDisp("主人公","Yeah, that day was a bit ...");
+        MsgDisp("主人公","Yeah, that day was a bit...");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -109,7 +109,7 @@ Bye.");
         ChClose(2);
         Wait(30);
         MsgDisp("主人公","(He took the time to invite me.
-I'm sorry...)");
+I feel bad about that...)");
         break ;
         case 4:
         case 5:
@@ -117,7 +117,7 @@ I'm sorry...)");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("J060200000_02_080");
-        MsgDisp("Sassa","Ah, I see ...");
+        MsgDisp("Sassa","Ah, I see...");
         MsgDisp("主人公","Sorry.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -144,8 +144,8 @@ Sorry if I miss the mark again next time.");
         BGMStop();
         ChClose(2);
         Wait(30);
-        MsgDisp("主人公","(You took the time to invite me.
-I'm sorry ...)");
+        MsgDisp("主人公","(He took the time to invite me.
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

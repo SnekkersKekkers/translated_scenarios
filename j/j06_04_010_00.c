@@ -19,8 +19,8 @@ Sound good?");
 Don't oversleep on Sunday.");
         MsgDisp("主人公","Worry about yourself, ｛Nanatsumori＊｝!");
         VoicePlay("J060401000_04_020");
-        MsgDisp("Nanatsumori","True.
-Don't worry about it.
+        MsgDisp("Nanatsumori","Cheeky.
+Don't worry about me.
 See you then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
@@ -50,8 +50,8 @@ I'll try again another time.
 Bye.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he invited me...
-Sorry...)");
+        MsgDisp("主人公","(He went out of his way to invite me...
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

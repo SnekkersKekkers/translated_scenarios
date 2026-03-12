@@ -56,7 +56,7 @@ I'm looking forward to it!)");
         case 3:
         VoicePlay("J060201000_02_050");
         MsgDisp("Sassa","Oh, did you have something to do?");
-        MsgDisp("主人公","Yeah, that day was a bit ...");
+        MsgDisp("主人公","Yeah, that day was a bit...");
         VoicePlay("J060201000_02_060");
         MsgDisp("Sassa","I see.
 Well, it can't be helped then.
@@ -68,12 +68,12 @@ Bye.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He took the time to invite me.
-I'm sorry ...)");
+I feel bad about that...)");
         break ;
         case 4:
         case 5:
         VoicePlay("J060201000_02_080");
-        MsgDisp("Sassa","Oh, I see ...");
+        MsgDisp("Sassa","Oh, I see...");
         MsgDisp("主人公","I'm sorry.");
         VoicePlay("J060201000_02_090");
         MsgDisp("Sassa","No problem.
@@ -88,7 +88,7 @@ Sorry if I miss the mark again next time.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He took the time to invite me.
-Sorry ...)");
+I feel bad about that...)");
         break ;
         default :
         DbgAssert(1);

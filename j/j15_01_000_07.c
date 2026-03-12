@@ -4,4 +4,4 @@ ChMotion(1,0);
 VoicePlay("J150100006_01_000");
 MsgDisp("Kazama","Sassa, Inori, and I are going to the
 amusement park.
-They said you should come too.");
+Apparently they'd be lost without you.");

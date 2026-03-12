@@ -20,8 +20,8 @@ I'll call you again.
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
-do something wrong?)");
+    MsgDisp("主人公","(He went to the trouble of inviting me.
+Did I do something wrong?)");
     break ;
     default :
     DbgAssert(0);

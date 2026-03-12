@@ -4,6 +4,6 @@ SEWait();
 SEStop("SYS_SE_NOT_CONNECT",0);
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛Kazama＊＊｝ is in England....
+MsgDisp("主人公","(｛Kazama＊＊｝ is in England...
 His phone doesn't seem to be working.)");
 MsgClose();

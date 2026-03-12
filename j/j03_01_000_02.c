@@ -6,7 +6,7 @@ MsgDisp("Kazama","Yeah, I can't go out on Tuesdays and
 Thursdays.");
 VoicePlay("J030100002_01_020");
 MsgDisp("Kazama","Try not to forget it.
-It'd be a waste when you go through the 
+It'd be a waste when you went through the
 trouble of asking, right?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();

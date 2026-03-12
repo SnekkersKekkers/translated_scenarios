@@ -16,7 +16,7 @@ My answer is OK.");
 Then, let's meet on ｛日付｝.
 I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030101000_01_010");
-    MsgDisp("Kazama","Can't wait〜 
+    MsgDisp("Kazama","Can't wait〜
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
@@ -64,8 +64,8 @@ Then, let's meet on ｛日付｝.
 I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030101000_01_070");
     MsgDisp("Kazama","Understood.
-Don't hurry too much, just get there in one
-piece. Okay?");
+No rush, just get there in one piece.
+Okay?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yay!!

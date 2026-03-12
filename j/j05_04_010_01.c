@@ -1,3 +1,3 @@
 VoicePlay("J050401001_04_000");
-MsgDisp("Nanatsumori","Maybe we should go to Waterfront Park?
+MsgDisp("Nanatsumori","Maybe we should go to the Waterfront Park?
 Although there's nothing there.");

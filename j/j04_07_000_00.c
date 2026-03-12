@@ -9,7 +9,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("J040700000_07_000");
 MsgDisp("Mikage","What do you mean?
-I'm enjoying my high school life!");
+I'm living the high school life to the fullest!");
 MsgDisp("主人公","Hehe, that sounds like fun.");
 ChEye(7,0);
 ChMouth(7,0);

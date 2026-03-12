@@ -89,14 +89,14 @@ I'm a little nervous.)");
 Oh, yeah.
 No good?");
         MsgDisp("主人公","Yeah, sorry.
-It's a little bit ...");
+It's a little bit...");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("J060100000_01_070");
         MsgDisp("Kazama","I don't know what you mean by \"a little bit\".");
-        MsgDisp("主人公","You don't talk like that anymore ...");
+        MsgDisp("主人公","You don't talk like that anymore...");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,1);
@@ -119,8 +119,8 @@ I feel bad about that...)");
         ChEyeOpenLevel(1,8);
         VoicePlay("J060100000_01_090");
         MsgDisp("Kazama","Okay.");
-        MsgDisp("主人公","Um, ...sorry?
-I'm just ...");
+        MsgDisp("主人公","Um...sorry?
+I'm just...");
         ChEye(1,2);
         ChMouth(1,2);
         ChMotion(1,1);

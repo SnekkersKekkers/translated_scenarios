@@ -16,13 +16,13 @@ I'm looking forward to it.)");
     break ;
     case 1:
     VoicePlay("J140401001_04_020");
-    MsgDisp("Nanatsumori","No need to be unreasonable.
-We'll be in touch.
-Bye...");
+    MsgDisp("Nanatsumori","No need to force it.
+I'll hit you up again.
+Later...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
-do something bad to everyone?)");
+    MsgDisp("主人公","(He went to the trouble of inviting me.
+Did I do something bad to everyone?)");
     break ;
     default :
     DbgAssert(0);

@@ -65,7 +65,7 @@ Just a little bit.
 ...");
         VoicePlay("J060101000_01_070");
         MsgDisp("Kazama","What do you mean \"a little bit\"?");
-        MsgDisp("主人公","You don't talk like that anymore ...");
+        MsgDisp("主人公","You don't talk like that anymore...");
         VoicePlay("J060101000_01_080");
         MsgDisp("Kazama","Yeah, yeah.
 I'll just sit here figuring out what \"a
@@ -78,8 +78,8 @@ I feel bad about that...)");
         case 5:
         VoicePlay("J060101000_01_090");
         MsgDisp("Kazama","Okay.");
-        MsgDisp("主人公","Um, ...sorry?
-Just ...");
+        MsgDisp("主人公","Um...sorry?
+I'm just...");
         VoicePlay("J060101000_01_100");
         MsgDisp("Kazama","It's fine.
 Even though it's not good.");

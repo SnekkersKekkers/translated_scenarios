@@ -36,13 +36,14 @@ I can't!
 I have plans on that day...");
     MsgDisp("主人公","I see, can't be helped!");
     VoicePlay("J030200001_02_060");
-    MsgDisp("Sassa","Even though you took the time to ask me...");
+    MsgDisp("Sassa","Even though you went to the trouble of
+asking me... Sorry.");
     MsgDisp("主人公","That's okay.
 I'll call you another time.");
     VoicePlay("J030200001_02_070");
     MsgDisp("Sassa","Huhh, but when is \"another time\"?
 Bye...");
-    MsgDisp("主人公","B-Bye.");
+    MsgDisp("主人公","Y-Yeah.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmm...

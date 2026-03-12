@@ -16,12 +16,12 @@ I'm looking forward to it.)");
     break ;
     case 1:
     VoicePlay("J140201001_02_020");
-    MsgDisp("Sassa","I see, I don't have a choice.
-I'll ask you out again.");
+    MsgDisp("Sassa","I see, can't be helped.
+I'll invite you again.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
-do something bad to everyone?)");
+    MsgDisp("主人公","(He went to the trouble of inviting me.
+Did I do something bad to everyone?)");
     break ;
     default :
     DbgAssert(0);

@@ -2,6 +2,6 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("J150200003_02_000");
-MsgDisp("Sassa","I don't know why, but Ryota, Inori and I We
-decided to go to the forest park together.
+MsgDisp("Sassa","I don't know why, but Ryota, Inori, and I
+decided to go to Forest Park together.
 How about you?");

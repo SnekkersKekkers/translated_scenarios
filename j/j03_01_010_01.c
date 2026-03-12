@@ -45,7 +45,7 @@ Can I call you another time?");
     MsgDisp("Kazama","Sure, I'll count on that.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmph...
+    MsgDisp("主人公","(Hmm...
 Too bad...)");
     break ;
     case 4:
@@ -65,8 +65,8 @@ It's the only day I can't cancel stuff.");
     MsgDisp("主人公","I see...");
     VoicePlay("J030101001_01_080");
     MsgDisp("Kazama","Come on, cheer up.
-It just means you have to stay excited a
-little longer. See ya?");
+It just means you have to wait a little 
+longer for the fun. See ya?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(It's too bad but it can't be helped, I'll

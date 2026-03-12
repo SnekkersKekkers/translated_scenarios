@@ -7,7 +7,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("主人公","Then, let's meet on ｛日付｝.
 I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_010");
-    MsgDisp("Honda","Yes ma'am～!");
+    MsgDisp("Honda","You got it～!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yay!

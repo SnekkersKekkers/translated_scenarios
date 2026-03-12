@@ -35,8 +35,8 @@ See you later.");
     BGMStop();
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
-do something wrong?)");
+    MsgDisp("主人公","(He went to the trouble of inviting me.
+Did I do something wrong?)");
     break ;
     default :
     DbgAssert(0);

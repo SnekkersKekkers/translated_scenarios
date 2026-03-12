@@ -30,8 +30,8 @@ Are you free?");
         MsgDisp("Kazama","What's with that.");
         MsgDisp("主人公","It's just kinda, you know...");
         VoicePlay("J040100001_01_030");
-        MsgDisp("Kazama","Just a little errand, huh.
-Okay, I get it.
+        MsgDisp("Kazama","A little errand, I see.
+Very well then.
 See ya.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();

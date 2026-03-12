@@ -8,7 +8,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("J140500003_05_000");
-MsgDisp("Hiiragi","I'm sorry, but it can't be helped.
-I'll see you soon.
+MsgDisp("Hiiragi","That's unfortunate, but it can't be helped.
+We'll try again another time.
 See you later.");
 MsgClose();

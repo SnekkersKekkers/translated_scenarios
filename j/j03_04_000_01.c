@@ -8,7 +8,7 @@ I have something to do that day.");
     MsgDisp("主人公","Is that so...
 Well, then, I don't blame you.");
     VoicePlay("J030400001_04_010");
-    MsgDisp("Nanatsumori","Oh, well, then.");
+    MsgDisp("Nanatsumori","Oh, see ya then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmmm, too bad!)");

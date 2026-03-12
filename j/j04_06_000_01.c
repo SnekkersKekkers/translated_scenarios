@@ -34,7 +34,7 @@ So...
 See you then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(I feel bad about what I did...)");
+        MsgDisp("主人公","(I feel bad about that...)");
         MsgClose();
         break ;
         default :

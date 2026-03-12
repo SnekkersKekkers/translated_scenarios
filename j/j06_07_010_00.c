@@ -8,9 +8,9 @@ Alright?");
     MsgDisp("Mikage","Oh, well, I'm counting on you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(｛Mikage＊＊｝ said that we are going to go
-out together to have fun ...It's like a date,
-but a little more exciting!)");
+    MsgDisp("主人公","(｛Mikage＊＊｝ said we're going out together
+to have fun... It's like a date, but a little
+more exciting!)");
     break ;
     case 1:
     VoicePlay("J060701000_07_010");
@@ -19,8 +19,8 @@ Well, I can't help it.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
-do something wrong?)");
+    MsgDisp("主人公","(He went through the trouble of inviting me.
+Did I do something wrong?)");
     break ;
     default :
     DbgAssert(0);

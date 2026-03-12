@@ -6,7 +6,7 @@ switch (MsgSelRsltGet()){
     MsgDisp("主人公","Then, at the ｛待ち合わせ場所｝.
 Should we meet up there?");
     VoicePlay("J140601001_06_010");
-    MsgDisp("Himuro","Thanks for your time.
+    MsgDisp("Himuro","Cool.
 I'll let the other two know.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -21,8 +21,8 @@ That's okay then.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(He went to the trouble of inviting me, Did I
-do something bad to everyone?)");
+    MsgDisp("主人公","(He went to the trouble of inviting me.
+Did I do something bad to everyone?)");
     break ;
     default :
     DbgAssert(0);

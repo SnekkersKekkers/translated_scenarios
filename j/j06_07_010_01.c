@@ -9,7 +9,7 @@ Thank God.");
 See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(This Sunday huh ...
+    MsgDisp("主人公","(This Sunday, huh...
 I'll have to try not to oversleep.)");
     break ;
     case 1:
@@ -17,7 +17,8 @@ I'll have to try not to oversleep.)");
     MsgDisp("Mikage","Yeah, figures!
 That's what a normal high schooler would say.");
     VoicePlay("J060701001_07_030");
-    MsgDisp("Mikage","Don't worry about it, okay?");
+    MsgDisp("Mikage","Don't worry about it.
+See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmmm, maybe I should have gone.)");
