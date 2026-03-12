@@ -30,17 +30,17 @@ MsgDisp("Kuya","I know.
 For our future together.");
 MsgDisp("主人公","Eh...");
 VoicePlay("D030901800_09_050");
-MsgDisp("Kuya","...When everything is over, I have
-something I want to tell you.");
-MsgDisp("主人公","Okay. ...Huh? What you said on Christmas
-about it all being over, it was about the
-exam——");
+MsgDisp("Kuya","...When everything is over, I have something
+I want to tell you.");
+MsgDisp("主人公","Okay.
+...Huh? What you said on Christmas about it
+all being over, it was about the exam——");
 VoicePlay("D030901800_09_060");
 MsgDisp("Kuya","That's not it.
 ...When that time comes, you'll see.");
 VoicePlay("D030901800_09_070");
-MsgDisp("Kuya","Let's meet again tomorrow when everything
-is finally over for our Happy End.
+MsgDisp("Kuya","Let's meet again tomorrow when everything is
+finally over for our Happy End.
 Good night.");
 MsgDisp("主人公","Yeah...
 Good Night.");

@@ -10,5 +10,5 @@ ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("D140701060_07_010");
 MsgDisp("Mikage","I heard some of our meat-loving alumni are
-providing it. I bet they have a lot of
-good memories of Habataki Academy, huh?");
+providing it. I bet they have a lot of good
+memories of Habataki Academy, huh?");

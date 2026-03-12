@@ -2,23 +2,23 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140A04101_06_000");
-MsgDisp("Himuro","Without Nozomu-senpai here, there's so
-much space on these seats.");
+MsgDisp("Himuro","Without Nozomu-senpai here, there's so much
+space on these seats.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140A04101_01_000");
 MsgDisp("Kazama","Right.
-It's not just a physical thing, there's
-also a lot of invisible force.");
+It's not just a physical thing, there's also
+a lot of invisible force.");
 MsgDisp("主人公","Hehe.
 It's because ｛Sassa＊＊｝ is always lively.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140A04101_06_010");
-MsgDisp("Himuro","When Nozomu-senpai is here, it gets warmer
-by two degrees.
+MsgDisp("Himuro","When Nozomu-senpai is here, it gets warmer by
+two degrees.
 It's a life-saver in the winter.");
 ChEye(1,2);
 ChMouth(1,3);

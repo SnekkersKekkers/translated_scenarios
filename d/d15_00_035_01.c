@@ -17,8 +17,9 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("D150003501_05_000");
-MsgDisp("Hiiragi","Haha. Ah, excuse me. I just pictured a
-little bug in Honda's stomach.");
+MsgDisp("Hiiragi","Haha.
+Ah, excuse me. I just pictured a little bug
+in Honda's stomach.");
 MsgDisp("主人公","Hehe, how cute.");
 ChEye(5,4);
 ChMouth(5,3);

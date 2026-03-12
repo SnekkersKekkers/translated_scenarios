@@ -37,21 +37,22 @@ VoiceEVSPlay(7);
 VoicePlay("D140C06100_07_010");
 MsgDisp("Mikage","｛主人公｝ and Inori.
 Both of you, eat up and cheer up.");
-MsgDisp("主人公","Yes. ...｛Himuro＊＊｝ as well?");
+MsgDisp("主人公","Yes.
+...｛Himuro＊＊｝ as well?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("D140C06100_07_020");
 MsgDisp("Mikage","There's you who's worried about Yanosuke,
-Inori who's worried about that, and me
-who's looking on with a smile.");
+Inori who's worried about that, and me who's
+looking on with a smile.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C06100_06_030");
-MsgDisp("Himuro","What's with that? acting like you're the
-only one who's spectating.");
+MsgDisp("Himuro","What's with that? acting like you're the only
+one who's spectating.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -17,15 +17,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600200_06_000");
-MsgDisp("Himuro","Unfortunately, all of the 2nd year boys
-have to participate.");
+MsgDisp("Himuro","Unfortunately, all of the 2nd year boys have
+to participate.");
 VoicePlay("D010600200_47_010");
 MsgDisp("Broadcast","One of the participants is absent so there
 will be an emergency substitution.");
 VoicePlay("D010600200_47_020");
 ChEyeOpenLevel(6,10);
-MsgDisp("Broadcast","Vice Principal Himuro will be
-participating in his place.");
+MsgDisp("Broadcast","Vice Principal Himuro will be participating
+in his place.");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
@@ -62,16 +62,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600200_06_020");
-MsgDisp("Himuro","Why is it Reiichi-sa, I mean, why is it
-the Vice Principal? There are other
-teachers who could participate.");
+MsgDisp("Himuro","Why is it Reiichi-sa, I mean, why is it the
+Vice Principal? There are other teachers who
+could participate.");
 ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("D010600200_32_020");
-MsgDisp("VP Himuro","This is because the teachers who preside
-over a class cannot be expected to
-maintain impartiality.");
+MsgDisp("VP Himuro","This is because the teachers who preside over
+a class cannot be expected to maintain
+impartiality.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("D010600200_32_030");
@@ -136,9 +136,9 @@ It's like the two of them are fighting??)");
 StlEye(32,0);
 StlMouth(32,0);
 VoicePlay("D010600200_32_040");
-MsgDisp("VP Himuro","Do not fear defeat! Pull with all your
-might and emerge victorious! This is Tug
-of War!");
+MsgDisp("VP Himuro","Do not fear defeat!
+Pull with all your might and emerge
+victorious! This is Tug of War!");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600200_06_050");
@@ -170,8 +170,8 @@ SEPlay("EV_SE_GAYA_011");
 VoicePlay("D010600200_38_010");
 MsgDisp("Students","HO∈");
 MsgDisp("主人公","(Himuro-telepathy...?
-Thanks to you two the sports festival is
-so much fun...!)");
+Thanks to you two the sports festival is so
+much fun...!)");
 BGMStop(3);
 SEStop("EV_SE_791",2.5);
 SEStop("EV_SE_792",2);
@@ -207,8 +207,8 @@ ChMotion(6,1);
 VoicePlay("D010600200_06_080");
 MsgDisp("Himuro","Next year we will definitely win.");
 MsgDisp("主人公","(Vice Principal Himuro again next year?
-That's after I graduate, but I kinda
-want to watch it...?)");
+That's after I graduate, but I kinda want to
+watch it...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -2,8 +2,8 @@ BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm heading home late today...
-But thanks to that, I get to see a
-beautiful sunset.)");
+But thanks to that, I get to see a beautiful
+sunset.)");
 VoicePlay("D010200000_02_000");
 MsgDisp("Sassa?","Hey!");
 MsgDisp("主人公","Huh?
@@ -28,8 +28,7 @@ ScrFadeIn(0);
 VoicePlay("D010200000_02_020");
 MsgDisp("Sassa","Aaaah...!
 That feels good!");
-MsgDisp("主人公","｛Sassa＊＊｝, are you done training for
-today?");
+MsgDisp("主人公","｛Sassa＊＊｝, are you done training for today?");
 StlEye(2,1);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
@@ -93,8 +92,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("D010200000_02_100");
-MsgDisp("Sassa","When all the excitement piles up like
-that, I just can't help it.");
+MsgDisp("Sassa","When all the excitement piles up like that, I
+just can't help it.");
 MsgDisp("主人公","?");
 ChEye(2,0);
 ChMouth(2,4);

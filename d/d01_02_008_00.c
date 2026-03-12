@@ -37,8 +37,8 @@ StlEye(2,1);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("D010200800_02_010");
-MsgDisp("Sassa","...I was able to end my high school
-sports career with no regrets.");
+MsgDisp("Sassa","...I was able to end my high school sports
+career with no regrets.");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200800_02_020");
@@ -48,8 +48,8 @@ MsgDisp("主人公","No, it was a result of all your hard work,
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200800_02_030");
-MsgDisp("Sassa","By \"hard work\", do you mean all the
-training I did?
+MsgDisp("Sassa","By \"hard work\", do you mean all the training
+I did?
 Because, you know.");
 StlEye(2,1);
 StlMouth(2,0);
@@ -77,8 +77,8 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("D010200800_02_080");
 MsgDisp("Sassa","...And you?
-What about you, you made this happen for
-me, so what about you?");
+What about you, you made this happen for me,
+so what about you?");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -127,8 +127,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("D010200800_02_140");
 MsgDisp("Sassa","Sigh, that's no good.
-I'm just taking advantage of you like
-this!");
+I'm just taking advantage of you like this!");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,5);
@@ -151,8 +150,8 @@ MsgDisp("Member","Sassa-senpai, it's no problem!");
 VoicePlay("D010200800_44_000");
 MsgDisp("Member","Senpai, please take a look at our form.");
 MsgDisp("主人公","(｛Sassa＊＊｝...
-He worked hard carrying everyone's hopes
-and dreams...)");
+He worked hard carrying everyone's hopes and
+dreams...)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(2,0);

@@ -22,16 +22,16 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D140B05100_03_000");
-MsgDisp("Honda","I think it's better if Ryo-kun sits in
-that seat.");
+MsgDisp("Honda","I think it's better if Ryo-kun sits in that
+seat.");
 MsgDisp("主人公","Are you talking about the seat next to me?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D140B05100_03_010");
 MsgDisp("Honda","Right right.
-Surprisingly, couples mostly sit next to
-each other and not opposite to each other.");
+Surprisingly, couples mostly sit next to each
+other and not opposite to each other.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

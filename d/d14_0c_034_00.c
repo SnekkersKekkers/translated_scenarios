@@ -27,8 +27,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C03400_06_000");
-MsgDisp("Himuro","Now that you mention it, I don't think
-I've heard anything on that.");
+MsgDisp("Himuro","Now that you mention it, I don't think I've
+heard anything on that.");
 MsgDisp("主人公","Molly-chan lives at your parent's house,
 right?");
 ChEye(7,0);
@@ -46,8 +46,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C03400_07_020");
-MsgDisp("Mikage","Isn't it kind of sad for them to be alone
-all day?");
+MsgDisp("Mikage","Isn't it kind of sad for them to be alone all
+day?");
 ChMouth(5,4);
 MsgDisp("主人公","That's for sure...");
 ChEye(7,0);
@@ -55,8 +55,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,8);
 VoicePlay("D140C03400_07_030");
-MsgDisp("Mikage","And there's lots of them at school
-anyways, right?");
+MsgDisp("Mikage","And there's lots of them at school anyways,
+right?");
 ChEye(5,3);
 ChMouth(5,2);
 MsgDisp("主人公","Eh?");
@@ -81,19 +81,18 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C03400_06_020");
-MsgDisp("Himuro","Haa...to Kojiro-sensei, we look like
-plants and animals?");
+MsgDisp("Himuro","Haa...to Kojiro-sensei, we look like plants
+and animals?");
 ChMotion(5,4);
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D140C03400_07_050");
-MsgDisp("Mikage","Hahaha! Everyone's cute, lively and
-steadily growing. Wouldn't you say you're
-alike?");
+MsgDisp("Mikage","Hahaha!
+Everyone's cute, lively and steadily growing.
+Wouldn't you say you're alike?");
 MsgDisp("主人公","(I know he cares for us but...
-To be the same as an animal or
-vegetable...)");
+To be the same as an animal or vegetable...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

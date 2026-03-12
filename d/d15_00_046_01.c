@@ -36,8 +36,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("D150004601_06_020");
-MsgDisp("Himuro","That's some pretty strange advice. If it
-were me, I'd finish eating and go nap.
+MsgDisp("Himuro","That's some pretty strange advice.
+If it were me, I'd finish eating and go nap.
 That would feel better.");
 ChEye(4,0);
 ChMouth(4,3);

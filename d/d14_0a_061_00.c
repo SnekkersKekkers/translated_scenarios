@@ -18,15 +18,15 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A06100_02_010");
 MsgDisp("Sassa","Eh...∋
-Ahh, I don't mean like that, between you
-and him?");
+Ahh, I don't mean like that, between you and
+him?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A06100_02_020");
 MsgDisp("Sassa","I mean, he's got good sports sense and
-cultural tastes, so I just thought it was
-a shame.");
+cultural tastes, so I just thought it was a
+shame.");
 MsgDisp("主人公","...Ah, you're talking about his club
 activities.
 That surprised me...");
@@ -68,8 +68,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D140A06100_06_040");
-MsgDisp("Himuro","Yes, it'll be helpful for future
-reference.");
+MsgDisp("Himuro","Yes, it'll be helpful for future reference.");
 MsgDisp("主人公","Ehhh∋
 Development between ｛Kazama＊＊｝ and me...
 We've been close forever though?");

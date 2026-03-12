@@ -22,8 +22,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C03100_07_010");
 MsgDisp("Mikage","You guys are growing lots.
-I want you to absorb lots of nutrients,
-and grow bigger.");
+I want you to absorb lots of nutrients, and
+grow bigger.");
 MsgDisp("主人公","Why are you talking about us like we're
 plants...");
 ChEye(6,0);
@@ -60,15 +60,15 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C03100_05_020");
 MsgDisp("Hiiragi","Really?
-I guess my bowl cut looked like an
-eggplant stem.");
+I guess my bowl cut looked like an eggplant
+stem.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("D140C03100_07_030");
 MsgDisp("Mikage","Ha ha ha.
-Next time I grow eggplants, I'm gonna end
-up thinking about Yanosuke.");
+Next time I grow eggplants, I'm gonna end up
+thinking about Yanosuke.");
 ChEye(5,4);
 ChEye(6,2);
 ChMouth(6,0);
@@ -76,8 +76,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C03100_06_020");
 MsgDisp("Himuro","I don't really feel like eating anymore...");
-MsgDisp("主人公","(｛Himuro＊＊｝ watches ｛Mikage＊＊｝
-raising baby eggplant ｛Hiiragi＊＊＊｝...
+MsgDisp("主人公","(｛Himuro＊＊｝ watches ｛Mikage＊＊｝ raising
+baby eggplant ｛Hiiragi＊＊＊｝...
 Hehe, what an interesting picture.)");
 BGMStop();
 MsgClose();

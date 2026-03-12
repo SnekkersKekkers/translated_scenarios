@@ -1,8 +1,8 @@
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's from Habatcher's editorial
-department. It says...\"Can you please
-cover the event at Habataki Farm\"...)");
+department. It says...\"Can you please cover
+the event at Habataki Farm\"...)");
 MsgDisp("主人公","(Yeah!
 Of course I'll go.)");
 MsgClose();
@@ -14,8 +14,8 @@ MsgClose();
 BGOpen("tr500",0);
 ScrFadeIn(0);
 VoicePlay("D010700700_48_000");
-MsgDisp("Live","The \"Sheep Shearing Championship\" will
-begin soon!");
+MsgDisp("Live","The \"Sheep Shearing Championship\" will begin
+soon!");
 VoicePlay("D010700700_49_000");
 MsgDisp("Mom","Come, let's hurry.
 It's about to start!");
@@ -39,8 +39,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","...Wait, huh∋");
 VoicePlay("D010700700_48_010");
 MsgDisp("Live","Ooh, so fast!
-From the Mechanical Shearing division-
-Mikage Kojiro!");
+From the Mechanical Shearing division- Mikage
+Kojiro!");
 StlEyeOpenLevel(7,5);
 MsgDisp("主人公","｛Mikage＊＊｝∋");
 SEPlay("EV_SE_846",0.1,0.8);

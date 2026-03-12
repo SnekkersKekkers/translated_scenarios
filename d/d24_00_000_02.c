@@ -6,16 +6,16 @@ MsgDisp("主人公","(Your hard work at Habatcher's Editorial
 Department has been recognized.
 Your \"Journalist Level\" has increased!)");
 VoicePlay("D240000002_45_000");
-MsgDisp("Mayo","You're already such an integral part of
-our team.");
+MsgDisp("Mayo","You're already such an integral part of our
+team.");
 VoicePlay("D240000002_41_010");
-MsgDisp("Tanaka Shin","Let's continue to make Habatcher even
-better and better!");
+MsgDisp("Tanaka Shin","Let's continue to make Habatcher even better
+and better!");
 MsgClose();
 ChOpen(31,254,4,3,3,#1,#1,0,0);
 VoicePlay("D230000002_31_000");
-MsgDisp("Goro","I'm sure all of the rough diamonds are
-happy to see all your accomplishments♪
+MsgDisp("Goro","I'm sure all of the rough diamonds are happy
+to see all your accomplishments♪
 Me too, of course▼");
 MsgDisp("主人公","(Alright, I'll keep trying my best!)");
 MsgClose();

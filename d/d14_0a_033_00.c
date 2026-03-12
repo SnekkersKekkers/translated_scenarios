@@ -42,8 +42,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A03300_06_010");
 MsgDisp("Himuro","Well, for the most part it's like that.
-You ride the waves within the time limit,
-and compete for points.");
+You ride the waves within the time limit, and
+compete for points.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -93,8 +93,8 @@ ChMouth(6,3);
 ChMotion(6,3);
 ChCheek(6,0);
 VoicePlay("D140A03300_06_050");
-MsgDisp("Himuro","Yes, you won't understand that feeling
-unless you've stood on the waves yourself.");
+MsgDisp("Himuro","Yes, you won't understand that feeling unless
+you've stood on the waves yourself.");
 MsgDisp("主人公","(Hm?
 The atmosphere is kind of weird.
 I wonder if I said something weird?)");

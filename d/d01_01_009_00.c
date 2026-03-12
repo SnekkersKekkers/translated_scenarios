@@ -39,15 +39,15 @@ ChMotion(1,0);
 VoicePlay("D010100900_01_030");
 MsgDisp("Kazama","While I was gone, did you hear that bell?");
 MsgDisp("主人公","...The bell, do you mean that church bell
-that ｛Kazama＊＊｝ used to hear? It's weird
-but I haven't heard it since then.");
+that ｛Kazama＊＊｝ used to hear?
+It's weird but I haven't heard it since then.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D010100900_01_040");
 MsgDisp("Kazama","I see...
-I was in England so I couldn't hear it,
-but you didn't either, huh...");
+I was in England so I couldn't hear it, but
+you didn't either, huh...");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","...?");
@@ -78,8 +78,8 @@ BGMPlay("BGM_C01_RYOUTA_C",0.01);
 ScrFadeIn(0);
 VoicePlay("D010100900_01_060");
 MsgDisp("Kazama","The two of us walking home from school
-together...Shouldn't it be fine since
-those conditions were met?");
+together... Shouldn't it be fine since those
+conditions were met?");
 StlEye(1,1);
 VoicePlay("D010100900_01_070");
 MsgDisp("Kazama","Here, let's listen carefully.");
@@ -114,8 +114,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100900_01_100");
-MsgDisp("Kazama","All that means is that we can't overwrite
-our wishes.
+MsgDisp("Kazama","All that means is that we can't overwrite our
+wishes.
 There's no uncertainty left.");
 MsgDisp("主人公","Yeah?");
 ChEye(1,0);
@@ -123,9 +123,9 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100900_01_110");
-MsgDisp("Kazama","...Nope, I can't let my guard down just
-yet. Who knows when you'll just fall into
-another puddle again.");
+MsgDisp("Kazama","...Nope, I can't let my guard down just yet.
+Who knows when you'll just fall into another
+puddle again.");
 MsgDisp("主人公","Geez, I'm fine now!
 It would be too embarrassing to have you
 carry me on your back again...");
@@ -135,9 +135,9 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("D010100900_01_120");
-MsgDisp("Kazama","I can carry you in my arms, on my back,
-even on my shoulders would be fine with
-me, though?");
+MsgDisp("Kazama","I can carry you in my arms, on my back, even
+on my shoulders would be fine with me,
+though?");
 MsgDisp("主人公","(...I need to watch my step when I'm with
 ｛Kazama＊＊｝.)");
 BGMStop();

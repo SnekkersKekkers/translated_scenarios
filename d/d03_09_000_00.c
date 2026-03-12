@@ -1,8 +1,8 @@
 BGOpen("wf200",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I had a nice interview today, and I even
-got a drink from that new cafe.
+MsgDisp("主人公","(I had a nice interview today, and I even got
+a drink from that new cafe.
 Let me take a little break.)");
 MsgDisp("主人公","(Okay, that bench over there...)");
 SEPlay("EV_SE_685");
@@ -67,8 +67,7 @@ ChMotion(9,4,1);
 VoicePlay("D030900000_09_060");
 MsgDisp("Kuya?","Your drink spilled a little, huh?");
 MsgDisp("主人公","Ah, you're right.
-But it's good that only a little bit
-spilled.");
+But it's good that only a little bit spilled.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -76,8 +75,8 @@ VoicePlay("D030900000_09_070");
 MsgDisp("Kuya?","Yeah.
 That's from that new cafe, isn't it?");
 MsgDisp("主人公","Yes!
-I'm a part-time journalist so I go around
-the city gathering information...");
+I'm a part-time journalist so I go around the
+city gathering information...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -91,8 +90,8 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900000_09_090");
 MsgDisp("Kuya?","Try not to fall anymore then.
-It would help if you got into \"fitness\"
-and trained your body more.");
+It would help if you got into \"fitness\" and
+trained your body more.");
 MsgDisp("主人公","Ah, okay.
 I'll try to be careful...");
 ChMotion(9,0,1);

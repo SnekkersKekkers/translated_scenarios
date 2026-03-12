@@ -32,16 +32,17 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100100_01_030");
-MsgDisp("Kazama","Ahh, a ritual of yours? I wouldn't want to
-disturb a sunbather with too much time on
-their hands. Bye.");
+MsgDisp("Kazama","Ahh, a ritual of yours?
+I wouldn't want to disturb a sunbather with
+too much time on their hands. Bye.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 Wait(20,0);
 SEPlay("EV_SE_598",0,0.8);
 Wait(5,0);
-MsgDisp("主人公","Woah∈ A huge breeze∈");
+MsgDisp("主人公","Woah∈
+A huge breeze∈");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_01_08");

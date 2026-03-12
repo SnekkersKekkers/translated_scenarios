@@ -3,8 +3,8 @@ ChLayout(1);
 BGMPlay("BGM_CLUB_IVENT",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","(Today is the seniors' final matches.
-I hope they can give it their all without
-any regrets.)");
+I hope they can give it their all without any
+regrets.)");
 MsgClose();
 ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
@@ -16,8 +16,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("D010200500_02_010");
-MsgDisp("Sassa","I'm going to give it my all and win the
-last four events.");
+MsgDisp("Sassa","I'm going to give it my all and win the last
+four events.");
 MsgDisp("主人公","Yup.
 I believe in ｛Sassa＊＊｝!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -45,12 +45,12 @@ MsgDisp("Manager","It doesn't matter anymore, he's out of
 stamina.");
 MsgDisp("主人公","Eh...?");
 VoicePlay("D010200500_40_010");
-MsgDisp("Manager","Didn't he set a record in the previous
-high jump? That's why he doesn't have any
-energy left.");
+MsgDisp("Manager","Didn't he set a record in the previous high
+jump?
+That's why he doesn't have any energy left.");
 VoicePlay("D010200500_40_020");
-MsgDisp("Manager","Well, the overall winner is still yet to
-be decided.");
+MsgDisp("Manager","Well, the overall winner is still yet to be
+decided.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 MsgClose();
 ScrFadeOut(0);
@@ -76,8 +76,8 @@ VoicePlay("D010200500_02_030");
 MsgDisp("Sassa","But this is completely awful.
 I wonder what I even practiced for.");
 MsgDisp("主人公","Don't say that.
-｛Sassa＊＊｝ is an octathlon athlete, and
-an Inter-High champion.");
+｛Sassa＊＊｝ is an octathlon athlete, and an
+Inter-High champion.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -88,15 +88,15 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D010200500_02_050");
 MsgDisp("Sassa","...I guess so.
-Even though I won, I can't really
-celebrate it with you.");
+Even though I won, I can't really celebrate
+it with you.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D010200500_02_060");
 MsgDisp("Sassa","Sigh...Alright.
-From now on the strategy is to keep a
-steady pace and aim for a high score!");
+From now on the strategy is to keep a steady
+pace and aim for a high score!");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);
@@ -132,20 +132,19 @@ MsgDisp("主人公","Yes!");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200500_02_090");
-MsgDisp("Sassa","I did it without listening to your
-advice...
+MsgDisp("Sassa","I did it without listening to your advice...
 Can you forgive me?");
 VoicePlay("D010200500_40_060");
-MsgDisp("Manager","You've been doing as you please and
-winning consecutively since 1st year
-though? Do it that way until the end.");
+MsgDisp("Manager","You've been doing as you please and winning
+consecutively since 1st year though?
+Do it that way until the end.");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("D010200500_02_100");
 MsgDisp("Sassa","...Yes!");
 VoicePlay("D010200500_40_070");
-MsgDisp("Manager","Only you have what it takes to win a
-complete victory in every event.");
+MsgDisp("Manager","Only you have what it takes to win a complete
+victory in every event.");
 StlEye(2,0);
 StlMouth(2,1);
 VoicePlay("D010200500_02_110");

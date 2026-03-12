@@ -5,9 +5,9 @@ SEPlay("EV_SE_577");
 Wait(80,0);
 SEPlay("EV_SE_629");
 Wait(100,0);
-MsgDisp("主人公","(Mnn...Who could be calling so early in
-the morning...?
-Ah, it's ｛Himuro＊＊｝!)");
+MsgDisp("主人公","(Mnn...
+Who could be calling so early in the
+morning...? Ah, it's ｛Himuro＊＊｝!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
@@ -61,24 +61,24 @@ MsgDisp("Himuro","That's my line.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600300_06_050");
-MsgDisp("Himuro","It's insane of me to call you out this
-early in the morning just because I have
-the beach rented out.");
+MsgDisp("Himuro","It's insane of me to call you out this early
+in the morning just because I have the beach
+rented out.");
 MsgDisp("主人公","You rented out the beach...?
 You can do that?");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600300_06_060");
 MsgDisp("Himuro","I asked the store chairman for help.
-He's the one who organizes the annual
-surfing exhibition.");
+He's the one who organizes the annual surfing
+exhibition.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600300_06_070");
 MsgDisp("Himuro","He gave me today, at this time.");
 MsgDisp("主人公","That's why no one else is out here.
-But it was reserved for private use, so is
-it really okay for me to be here?");
+But it was reserved for private use, so is it
+really okay for me to be here?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -92,15 +92,13 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("D010600300_06_100");
-MsgDisp("Himuro","Now I think it's not such a bad idea to
-share the things I like with people I
-like.");
+MsgDisp("Himuro","Now I think it's not such a bad idea to share
+the things I like with people I like.");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600300_06_110");
-MsgDisp("Himuro","The scope of that is a bit limited,
-though.");
+MsgDisp("Himuro","The scope of that is a bit limited, though.");
 MsgDisp("主人公","That's...");
 StlEye(6,0);
 StlMouth(6,0);
@@ -123,9 +121,9 @@ I had a great time!");
 MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0);
 VoicePlay("D010600300_06_130");
-MsgDisp("Himuro","You're welcome. Whenever you're ready, we
-can do this again. I just need to ask the
-chairman.");
+MsgDisp("Himuro","You're welcome.
+Whenever you're ready, we can do this again.
+I just need to ask the chairman.");
 MsgDisp("主人公","Okay!
 But I guess it doesn't need to be just the
 two of us?");
@@ -135,8 +133,8 @@ ChMotion(6,0);
 VoicePlay("D010600300_06_140");
 MsgDisp("Himuro","That's from your perspective.
 I have my reasons.");
-MsgDisp("主人公","｛Himuro＊＊｝, you prefer it when it's just
-the two of us?");
+MsgDisp("主人公","｛Himuro＊＊｝, you prefer it when it's just the
+two of us?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);

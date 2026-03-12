@@ -16,8 +16,8 @@ These sorts of coincidences are nice too.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("D140501100_05_010");
-    MsgDisp("Hiiragi","Could it be that you chose the same menu
-item after seeing mine?");
+    MsgDisp("Hiiragi","Could it be that you chose the same menu item
+after seeing mine?");
     break ;
     default :
     DbgAssert(1);

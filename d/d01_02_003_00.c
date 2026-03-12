@@ -52,8 +52,8 @@ VoicePlay("D010200300_02_040");
 MsgDisp("Sassa","Yeah, but they don't listen to me at all.
 If they run all along the beach, of course
 they're going to get wet.");
-MsgDisp("主人公","I'm sure the dogs have a lot of fun
-running with ｛Sassa＊＊｝.");
+MsgDisp("主人公","I'm sure the dogs have a lot of fun running
+with ｛Sassa＊＊｝.");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_050");
@@ -77,31 +77,31 @@ StlMouth(2,0);
 VoicePlay("D010200300_02_070");
 MsgDisp("Sassa","So, what are you up to?");
 MsgDisp("主人公","I'm also working part-time.
-I'm trying to get something fun to report
-on for Habatcher.");
+I'm trying to get something fun to report on
+for Habatcher.");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_080");
 MsgDisp("Sassa","I see.
 I wish I could help you somehow.");
 MsgDisp("主人公","Really?
-Well, you could tell me a bit about
-yourself, ｛Sassa＊＊｝.");
+Well, you could tell me a bit about yourself,
+｛Sassa＊＊｝.");
 StlEye(2,1);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("D010200300_02_090");
-MsgDisp("Sassa","I'm fine with that, but is that really fun
-to report on?");
+MsgDisp("Sassa","I'm fine with that, but is that really fun to
+report on?");
 MsgDisp("主人公","Leave it to me!
 So, can you tell me a bit about track and
 field?");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_100");
-MsgDisp("Sassa","Ooh, that's good. If you talk about the
-Octathlon on Habatcher it might get some
-more attention!");
+MsgDisp("Sassa","Ooh, that's good.
+If you talk about the Octathlon on Habatcher
+it might get some more attention!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

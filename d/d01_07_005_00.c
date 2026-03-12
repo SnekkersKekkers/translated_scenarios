@@ -29,8 +29,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("D010700500_07_010");
-MsgDisp("Mikage","My favorite hard worker is studying away,
-so I came to help.");
+MsgDisp("Mikage","My favorite hard worker is studying away, so
+I came to help.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,0);
@@ -60,8 +60,8 @@ Will it really be alright, though?");
 StlEye(7,0,0);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("D010700500_07_050");
-MsgDisp("Mikage","A hard worker like you can do anything
-she puts her mind to, right?");
+MsgDisp("Mikage","A hard worker like you can do anything she
+puts her mind to, right?");
 MsgDisp("主人公","Y-Yeah...");
 MsgClose();
 ScrFadeOut(0);
@@ -85,15 +85,14 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700500_07_070");
 MsgDisp("Mikage","Got it?
-The best thing about you is that you
-approach everything sincerely.");
+The best thing about you is that you approach
+everything sincerely.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D010700500_07_080");
 MsgDisp("Mikage","There's nothing wrong with that.
-It's a good thing, so keep trying your
-best.");
+It's a good thing, so keep trying your best.");
 MsgDisp("主人公","｛Mikage＊＊｝...
 You're right, thank you so much!");
 ChEye(7,0);
@@ -105,8 +104,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Thanks to ｛Mikage＊＊｝, I learned a
-few studying tricks!)");
+MsgDisp("主人公","(Thanks to ｛Mikage＊＊｝, I learned a few
+studying tricks!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

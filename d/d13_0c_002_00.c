@@ -3,8 +3,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 MsgDisp("主人公","(It's gotten late today.
-Haaa...I don't have many days left
-at Habataki High School...)");
+Haaa... I don't have many days left at
+Habataki High School...)");
 MsgClose();
 ScrFadeOut(0,0);
 Wait(40,0);
@@ -33,8 +33,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D130C00200_05_010");
-MsgDisp("Hiiragi","Yes, well to be more precise, the three
-of us were.");
+MsgDisp("Hiiragi","Yes, well to be more precise, the three of us
+were.");
 MsgDisp("主人公","?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -70,8 +70,8 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("D130C00200_05_020");
 MsgDisp("Hiiragi","Using the vegetables the horticulture club
-grew, Mikage-sensei prepared a barbecue
-for us.");
+grew, Mikage-sensei prepared a barbecue for
+us.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -94,8 +94,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D130C00200_07_020");
 MsgDisp("Mikage","You and Yanosuke too.
-This secret barbecue, is your last party
-at Habataki High School.");
+This secret barbecue, is your last party at
+Habataki High School.");
 MsgDisp("主人公","Thank you very much...!");
 MsgDisp("主人公","(I'm so happy to have had a barbecue with
 everyone at the end!)");

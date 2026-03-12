@@ -17,8 +17,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D130C00101_05_010");
-MsgDisp("Hiiragi","It's our last Christmas party, so I wanted
-to spend some time with everyone.");
+MsgDisp("Hiiragi","It's our last Christmas party, so I wanted to
+spend some time with everyone.");
 MsgDisp("主人公","Everyone?");
 ChClose(5,0,30);
 ChLayout(2);
@@ -29,8 +29,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 ChOpen(6,34,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,34,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("D130C00101_06_000");
-MsgDisp("Himuro","When he says \"everyone\" I think he means
-us.");
+MsgDisp("Himuro","When he says \"everyone\" I think he means us.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -107,8 +106,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D130C00101_07_040");
 MsgDisp("Mikage","Come on.
-Why don't the three of you leave the
-brooding for March?");
+Why don't the three of you leave the brooding
+for March?");
 ChEyeOpenLevel(5,0);
 ChEye(6,0);
 ChMouth(6,3);
@@ -136,9 +135,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("D130C00101_07_060");
-MsgDisp("Mikage","Alright, next year we'll change the venue
-and have a Christmas-themed barbecue,
-okay?");
+MsgDisp("Mikage","Alright, next year we'll change the venue and
+have a Christmas-themed barbecue, okay?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -150,8 +148,8 @@ ChMotion(6,4);
 VoicePlay("D130C00101_06_050");
 MsgDisp("Himuro","It's a promise.");
 MsgDisp("主人公","Hehe, yes!");
-MsgDisp("主人公","(It would be so much fun if we could
-all have a Christmas party together...
+MsgDisp("主人公","(It would be so much fun if we could all have
+a Christmas party together...
 I wonder what next year will be like...?)");
 BGMStop();
 MsgClose();

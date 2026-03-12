@@ -47,8 +47,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D140B05101_01_010");
-MsgDisp("Kazama","Actually, Nanatsumori, I don't want to
-hear it after all.");
+MsgDisp("Kazama","Actually, Nanatsumori, I don't want to hear
+it after all.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -92,8 +92,7 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B05101_03_050");
 MsgDisp("Honda","We're...getting along really well!
-So close that you guys are getting
-jealous!");
+So close that you guys are getting jealous!");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -112,8 +111,8 @@ ChMotion(3,3,1);
 VoicePlay("D140B05101_03_060");
 MsgDisp("Honda","Haha!
 So are you both jelly?");
-MsgDisp("主人公","(｛Kazama＊＊｝ and ｛Nanatsumori＊｝ are
-worried about us...?)");
+MsgDisp("主人公","(｛Kazama＊＊｝ and ｛Nanatsumori＊｝ are worried
+about us...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

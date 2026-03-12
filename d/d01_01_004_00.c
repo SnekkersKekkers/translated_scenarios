@@ -80,8 +80,8 @@ ChMotion(1,0);
 ChCheek(1,5);
 VoicePlay("D010100400_01_060");
 MsgDisp("Kazama","Right, so there's nothing to feel guilty
-about, right? Please help me with
-inventory again sometime.");
+about, right?
+Please help me with inventory again sometime.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

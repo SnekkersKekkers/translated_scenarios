@@ -25,8 +25,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07010_22_010");
 MsgDisp("Hikaru","Hikaru knows.
-You two are lovey-dovey childhood
-friends♪");
+You two are lovey-dovey childhood friends♪");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

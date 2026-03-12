@@ -1,8 +1,8 @@
 BGOpen("sc330",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like a variety of new books have
-been added.
+MsgDisp("主人公","(Looks like a variety of new books have been
+added.
 Should we look around?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -50,8 +50,7 @@ StlMouth(2,1);
 StlEyeOpenLevel(2,0,1);
 VoicePlay("D010200200_02_040");
 MsgDisp("Sassa","A challenging physical education book.
-I was reading it so I could show off
-later.");
+I was reading it so I could show off later.");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(30,0);
 StlEye(2,1);
@@ -82,8 +81,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("D010200200_02_070");
-MsgDisp("Sassa","Ah, it's not a book for health class,
-okay?");
+MsgDisp("Sassa","Ah, it's not a book for health class, okay?");
 MsgClose();
 BGMStop();
 MsgClose();
@@ -96,7 +94,7 @@ MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_610");
 SEWait();
-MsgDisp("主人公","(\"Exercise Theory 1st Edition, Hyper
-Recovery for Efficient Muscle Growth\"...Is
-｛Sassa＊＊｝ actually a scientific person?)");
+MsgDisp("主人公","(\"Exercise Theory 1st Edition, Hyper Recovery
+for Efficient Muscle Growth\"...
+Is ｛Sassa＊＊｝ actually a scientific person?)");
 ChPrmTblAdd(2,0);

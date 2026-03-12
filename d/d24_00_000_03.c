@@ -27,21 +27,21 @@ VoicePlay("D240000003_45_000");
 MsgDisp("Mayo","Congratulations!
 You're now a full-fledged reporter.");
 VoicePlay("D240000003_45_010");
-MsgDisp("Mayo","That's right! If you're okay with it,
-would you like to continue working at our
-company in the future?");
+MsgDisp("Mayo","That's right! If you're okay with it, would
+you like to continue working at our company
+in the future?");
 VoicePlay("D240000003_45_020");
-MsgDisp("Mayo","With you, Habatcher will become even
-more...No, with you here, Habataki City
-will become even more lively.");
+MsgDisp("Mayo","With you, Habatcher will become even more...
+No, with you here, Habataki City will become
+even more lively.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("D240000003_41_030");
 MsgDisp("Tanaka Shin","I'd welcome that idea too!
 Please give it some thought!");
-MsgDisp("主人公","(Do I want to work in Habatcher's
-Editorial Department...I guess I should
-think about it a bit more?)");
+MsgDisp("主人公","(Do I want to work in Habatcher's Editorial
+Department...
+I guess I should think about it a bit more?)");
 MsgClose();
 ScrFadeOut(0,0);

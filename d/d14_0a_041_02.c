@@ -11,8 +11,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("D140A04102_01_000");
 MsgDisp("Kazama","Right?
-Is it like usual where he's just not in
-the mood?");
+Is it like usual where he's just not in the
+mood?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -24,10 +24,10 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A04102_01_010");
-MsgDisp("Kazama","That's better than him holding back what
-he really thinks.");
-MsgDisp("主人公","Hehe. You both really like ｛Himuro＊＊｝,
-don't you?");
+MsgDisp("Kazama","That's better than him holding back what he
+really thinks.");
+MsgDisp("主人公","Hehe.
+You both really like ｛Himuro＊＊｝, don't you?");
 ChEye(1,0);
 ChMouth(1,0);
 ChEye(2,0);
@@ -49,9 +49,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A04102_02_030");
-MsgDisp("Sassa","Ah, but the other day, a teacher praised
-him in the hallway and he made the
-scariest face. He was holding back though.");
+MsgDisp("Sassa","Ah, but the other day, a teacher praised him
+in the hallway and he made the scariest face.
+He was holding back though.");
 ChMouth(1,2);
 MsgDisp("主人公","Eh?
 He was being praised though, wasn't he?");
@@ -60,9 +60,9 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A04102_02_040");
-MsgDisp("Sassa","He got good grades on a test, so the
-teacher praised him saying \"As expected of
-the Himuro family!\"");
+MsgDisp("Sassa","He got good grades on a test, so the teacher
+praised him saying \"As expected of the Himuro
+family!\"");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -98,8 +98,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A04102_02_070");
 MsgDisp("Sassa","It may seem like he says whatever's on his
-mind to anyone, but he definitely has his
-own boundaries.");
+mind to anyone, but he definitely has his own
+boundaries.");
 MsgDisp("主人公","Yeah.
 I'm sure ｛Himuro＊＊｝ trusts you two deeply.");
 ChEye(1,0);

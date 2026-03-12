@@ -75,7 +75,7 @@ BGMStop();
 ChClose(1,0,30);
 ChClose(4,0,30);
 ChClose(3,0,30);
-MsgDisp("主人公","(Ah...today is Valentine's day, so could
-that be what they're worrying over?)");
+MsgDisp("主人公","(Ah...today is Valentine's day, so could that
+be what they're worrying over?)");
 MsgClose();
 ScrFadeOut(0,0);

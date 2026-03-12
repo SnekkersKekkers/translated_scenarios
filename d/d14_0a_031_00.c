@@ -40,15 +40,15 @@ MsgDisp("Himuro","Nozomu-senpai is a glutton and...
 Ryota-senpai is a fussy eater.");
 ChEye(1,0);
 ChMouth(1,2);
-MsgDisp("主人公","｛Kazama＊＊｝ definitely has quite
-sensitive tastes?");
+MsgDisp("主人公","｛Kazama＊＊｝ definitely has quite sensitive
+tastes?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A03100_01_020");
-MsgDisp("Kazama","Don't confuse my taste for antiques for
-being a gourmand.");
+MsgDisp("Kazama","Don't confuse my taste for antiques for being
+a gourmand.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -62,15 +62,15 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A03100_02_020");
-MsgDisp("Sassa","Ah, come to think of it, he said
-vegetables in general were a no-go.");
+MsgDisp("Sassa","Ah, come to think of it, he said vegetables
+in general were a no-go.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("D140A03100_06_020");
 MsgDisp("Himuro","It's not that bad.
-It's just that I wouldn't choose to eat
-them if it were up to me.");
+It's just that I wouldn't choose to eat them
+if it were up to me.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);

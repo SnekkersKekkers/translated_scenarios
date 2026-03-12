@@ -11,8 +11,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("D150003700_03_010");
-MsgDisp("Honda","Tea ceremonies...? Huh. That sounds cool
-too. But I meant tea blends.");
+MsgDisp("Honda","Tea ceremonies...?
+Huh.
+That sounds cool too. But I meant tea blends.");
 MsgDisp("主人公","That sounds fun and delicious.");
 ChEye(3,3);
 ChMouth(3,3);
@@ -25,15 +26,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D150003700_07_000");
-MsgDisp("Mikage","I actually grow them in the Gardening
-Club's greenhouse.");
+MsgDisp("Mikage","I actually grow them in the Gardening Club's
+greenhouse.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("D150003700_03_030");
-MsgDisp("Honda","You can go so deep into herbal tea. There
-are so many types and it's interesting to
-see the different effects each blend has.");
+MsgDisp("Honda","You can go so deep into herbal tea.
+There are so many types and it's interesting
+to see the different effects each blend has.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

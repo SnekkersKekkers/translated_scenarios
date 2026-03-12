@@ -38,8 +38,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 MsgDisp("Shirahane","Is it okay to invite ya out?
-I'll try not to interfere with your
-studies.");
+I'll try not to interfere with your studies.");
 MsgDisp("主人公","Okay.
 That's fine.");
 VoicePlay("D020800600_08_070");

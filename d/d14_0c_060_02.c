@@ -21,8 +21,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06002_06_010");
-MsgDisp("Himuro","Me and Yanosuke-senpai know how well you
-get along with Kojiro-sensei.
+MsgDisp("Himuro","Me and Yanosuke-senpai know how well you get
+along with Kojiro-sensei.
 But the other students don't.");
 MsgDisp("主人公","｛Mikage＊＊｝ is popular with everyone.
 I can't keep him to myself...");
@@ -58,8 +58,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140C06002_06_040");
 MsgDisp("Himuro","I am a bit curious though.");
-MsgDisp("主人公","(It can't be helped since ｛Mikage＊＊｝
-is popular with everyone...
+MsgDisp("主人公","(It can't be helped since ｛Mikage＊＊｝ is
+popular with everyone...
 But maybe I'm a little lonely?)");
 BGMStop();
 MsgClose();

@@ -43,8 +43,8 @@ ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("D140C05101_06_010");
 MsgDisp("Himuro","...Understood.
-I'll also bring one for Yanosuke-senpai
-and Kojiro-sensei.");
+I'll also bring one for Yanosuke-senpai and
+Kojiro-sensei.");
 MsgClose();
 SEPlay("EV_SE_621");
 Wait(10,0);
@@ -66,8 +66,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C05101_05_010");
 MsgDisp("Hiiragi","Inori-kun is so kind that he gave me that
-impression. That he would surely bring me
-one without me having to ask.");
+impression. That he would surely bring me one
+without me having to ask.");
 VoicePlay("D140C05101_06_020");
 MsgDisp("Himuro","Sorry, this was the last one.
 So, I'm giving it to you.");

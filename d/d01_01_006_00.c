@@ -15,15 +15,16 @@ ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,3);
 VoicePlay("D010100600_31_010");
-MsgDisp("Goro","Yes, you're just the kind of girl I
-thought you were.");
-MsgDisp("主人公","? Uhm, what do you mean...?");
+MsgDisp("Goro","Yes, you're just the kind of girl I thought
+you were.");
+MsgDisp("主人公","?
+Uhm, what do you mean...?");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("D010100600_31_020");
-MsgDisp("Goro","Geez, if you worry like that, you won't
-get anything done!");
+MsgDisp("Goro","Geez, if you worry like that, you won't get
+anything done!");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,5);
@@ -41,9 +42,9 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(30,0);
-MsgDisp("主人公","(Haa, that surprised me. But I managed to
-get to the auction in time. I wonder
-what's happening here...?)");
+MsgDisp("主人公","(Haa, that surprised me.
+But I managed to get to the auction in time.
+I wonder what's happening here...?)");
 VoicePlay("D010100600_01_000");
 MsgDisp("Kazama?","——Charity Auction Catalog: Collection
 Number 1");
@@ -73,9 +74,8 @@ Even with so many guests...
 He's doing such a great job!)");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D010100600_01_040");
-MsgDisp("Kazama","525 Rich going once...525 Rich going
-twice. Is there anyone else who would like
-to bid?");
+MsgDisp("Kazama","525 Rich going once...525 Rich going twice.
+Is there anyone else who would like to bid?");
 StlEye(1,1);
 StlMouthOpenLevel(1,0);
 VoicePlay("D010100600_01_050");
@@ -147,8 +147,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D010100600_01_110");
-MsgDisp("Kazama","Today's was for charity, but the auctions
-I saw over there...
+MsgDisp("Kazama","Today's was for charity, but the auctions I
+saw over there...
 I couldn't really bring myself to like them.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -156,9 +156,9 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100600_01_120");
-MsgDisp("Kazama","Because, you know. I think everything has
-a proper value. I don't like it when
-things are under or overpriced.");
+MsgDisp("Kazama","Because, you know. I think everything has a
+proper value. I don't like it when things are
+under or overpriced.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

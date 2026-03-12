@@ -1,6 +1,5 @@
-MsgDisp("主人公","(Okay, let's take a little detour so we
-can see the beautiful sunset on our way
-home.)");
+MsgDisp("主人公","(Okay, let's take a little detour so we can
+see the beautiful sunset on our way home.)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -34,21 +33,21 @@ And ｛Himuro＊＊｝∋
 Uhm, is everyone practicing surfing?");
 StlEye(5,1);
 VoicePlay("D120C00100_05_010");
-MsgDisp("Hiiragi","Yes, when I said that I'd like to try
-riding the waves, Inori took it seriously.");
+MsgDisp("Hiiragi","Yes, when I said that I'd like to try riding
+the waves, Inori took it seriously.");
 StlEye(7,2);
 StlMouth(7,0);
 VoicePlay("D120C00100_07_010");
-MsgDisp("Mikage","O...Oh, it's nice of you to come.
-Inori is really strict...Please say
-something to him.");
+MsgDisp("Mikage","O... Oh, it's nice of you to come.
+Inori is really strict...
+Please say something to him.");
 StlEye(5,0);
 StlEye(6,0,0);
 StlEyeOpenLevel(6,5,1);
 StlMouth(6,1);
 VoicePlay("D120C00100_06_000");
-MsgDisp("Himuro","Kojiro-sensei, I didn't tell you to stop,
-did I?");
+MsgDisp("Himuro","Kojiro-sensei, I didn't tell you to stop, did
+I?");
 StlEye(7,1,0);
 StlEyeOpenLevel(7,0,1);
 StlMouth(7,1);
@@ -89,8 +88,8 @@ MsgDisp("Mikage","One, Two, One, Two!");
 VoicePlay("D120C00100_05_040");
 MsgDisp("Hiiragi","One, Two, One, Two!");
 VoicePlay("D120C00100_06_020");
-MsgDisp("Himuro","If you don't keep your head up, you won't
-be able to see the waves!");
+MsgDisp("Himuro","If you don't keep your head up, you won't be
+able to see the waves!");
 MsgDisp("主人公","(I wonder if the two of them will be okay
 tomorrow...)");
 BGMStop();

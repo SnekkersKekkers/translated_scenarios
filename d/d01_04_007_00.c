@@ -1,9 +1,9 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ugh...I feel a bit tired?
-I guess I'll get some fresh air on the
-rooftop.)");
+MsgDisp("主人公","(Ugh...
+I feel a bit tired? I guess I'll get some
+fresh air on the rooftop.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -99,8 +99,7 @@ SEWait();
 ScrFadeIn(0);
 VoicePlay("D010400700_04_090");
 MsgDisp("Nanatsumori","It's a promise then.
-When you don't feel well, it affects me
-too.");
+When you don't feel well, it affects me too.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,2);
 ChMouth(4,2);

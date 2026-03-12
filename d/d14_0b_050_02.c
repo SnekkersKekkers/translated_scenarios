@@ -20,7 +20,8 @@ ChEye(4,5);
 ChMouth(4,4);
 ChMotion(4,5,1);
 VoicePlay("D140B05002_04_000");
-MsgDisp("Nanatsumori","∋ What are you saying so abruptl——");
+MsgDisp("Nanatsumori","∋
+What are you saying so abruptl——");
 MsgDisp("主人公","That surprised me...");
 ChEye(1,2);
 ChMouth(1,2);
@@ -45,8 +46,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("D140B05002_03_020");
-MsgDisp("Honda","You're not dating, but you're so lovey
-dovey?");
+MsgDisp("Honda","You're not dating, but you're so lovey dovey?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

@@ -49,15 +49,16 @@ ScrFadeIn(0);
 VoicePlay("D010300600_03_040");
 MsgDisp("Honda","Phew, thank you...
 It's kind of soothing.");
-MsgDisp("主人公","∋ U-Uhm, ｛Honda＊＊｝?");
+MsgDisp("主人公","∋
+U-Uhm, ｛Honda＊＊｝?");
 StlEye(3,1,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300600_03_050");
 MsgDisp("Honda","Huh?
 What?");
-MsgDisp("主人公","We're still at work right now and if
-someone were to see us——");
+MsgDisp("主人公","We're still at work right now and if someone
+were to see us——");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300600_03_060");
@@ -75,15 +76,14 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("D010300600_03_080");
 MsgDisp("Honda","Have I gone crazy?
-I like you so much that I've finally lost
-it?");
+I like you so much that I've finally lost it?");
 MsgDisp("主人公","!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D010300600_03_090");
-MsgDisp("Honda","I never expected this kind of thing to
-happen to me...");
+MsgDisp("Honda","I never expected this kind of thing to happen
+to me...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -126,8 +126,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D010300600_03_140");
-MsgDisp("Honda","You know, you are an external factor that
-is gradually changing my body and my mind.
+MsgDisp("Honda","You know, you are an external factor that is
+gradually changing my body and my mind.
 It's fascinating.");
 ChEye(3,3);
 ChMouth(3,3);

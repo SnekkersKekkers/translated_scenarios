@@ -17,14 +17,14 @@ ChOpen(36,254,0,0,1,#1,#1,0,0);
 VoicePlay("D020100200_36_000");
 MsgDisp("Grandpa","Welcome.
 ...Oh, you're the reporter.");
-MsgDisp("主人公","I wanted to thank you for all your help
-last time. Ah, I didn't come to interview
-you today...");
+MsgDisp("主人公","I wanted to thank you for all your help last
+time.
+Ah, I didn't come to interview you today...");
 ChEye(36,0);
 ChMouth(36,0);
 VoicePlay("D020100200_36_010");
-MsgDisp("Grandpa","I'm happy you stopped by even though it's
-not for work.");
+MsgDisp("Grandpa","I'm happy you stopped by even though it's not
+for work.");
 ChEyeOpenLevel(36,#1);
 VoicePlay("D020100200_36_020");
 MsgDisp("Grandpa","I asked Ryota to help me with bug drying.
@@ -38,7 +38,7 @@ You're not here to see Ryota either?
 That makes me even happier.");
 ChEye(36,0);
 MsgDisp("主人公","Hehe!
-Uhm...What's that thing you were talking
+Uhm... What's that thing you were talking
 about, \"bug drying\"?");
 ChEye(36,0);
 ChMouth(36,2);
@@ -50,8 +50,8 @@ MsgDisp("主人公","I see, you have to air the books out too.");
 ChEye(36,2);
 ChMouth(36,0);
 VoicePlay("D020100200_36_050");
-MsgDisp("Grandpa","Yes, it requires a lot of patience and can
-be quite challenging.
+MsgDisp("Grandpa","Yes, it requires a lot of patience and can be
+quite challenging.
 So it's difficult for me to do alone.");
 ChEye(36,0);
 ChMouth(36,0);
@@ -75,9 +75,9 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("D020100200_01_080");
-MsgDisp("Kazama","While I was bug drying I got a weird
-feeling, so I came out here to check on
-things, and here you are.");
+MsgDisp("Kazama","While I was bug drying I got a weird feeling,
+so I came out here to check on things, and
+here you are.");
 ChMotion(1,0);
 MsgDisp("主人公","Geez, what do you mean by that?");
 ChEye(1,0);

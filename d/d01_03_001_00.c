@@ -34,12 +34,12 @@ StlEyeOpenLevel(3,5,1);
 SEStop("EV_SE_841",2);
 VoicePlay("D010300100_03_020");
 MsgDisp("Honda","That's right.
-Every year, the previous year's champion
-gets a poster.");
+Every year, the previous year's champion gets
+a poster.");
 SEPlay("EV_SE_736",0,0.7);
 MsgDisp("主人公","That's amazing!
-Isn't this posted in all high schools
-across the country?");
+Isn't this posted in all high schools across
+the country?");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300100_42_020");
@@ -82,8 +82,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("D010300100_03_060");
 MsgDisp("Honda","Okay.
 I'll also give you a special poster.");
-MsgDisp("主人公","You're not going to take this one off
-right?");
+MsgDisp("主人公","You're not going to take this one off right?");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -91,8 +90,8 @@ ChEye(3,0);
 ChMouth(3,3);
 VoicePlay("D010300100_03_070");
 MsgDisp("Honda","I won't do that kind of thing.
-I have a lot of them at home that I got
-from people at the competition.");
+I have a lot of them at home that I got from
+people at the competition.");
 MsgDisp("主人公","Hehe, I see.
 Thank you.");
 ChEye(3,0);

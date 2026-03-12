@@ -22,15 +22,15 @@ ChEyeOpenLevel(9,8);
 ChCheek(9,4);
 VoicePlay("D030901600_09_060");
 MsgDisp("Kuya","I'm honored.
-Then I'll try to be as fine of a man as
-those guys think I am.");
+Then I'll try to be as fine of a man as those
+guys think I am.");
 ChMotion(9,4,1);
 VoicePlay("D030901600_09_070");
 MsgDisp("Kuya","...But, can I ask you a favor.
 Can you be my escort for this festival?");
 MsgDisp("主人公","Of course.
-There's not a lot of time left, so let's
-have fun!");
+There's not a lot of time left, so let's have
+fun!");
 MsgDisp("主人公","(I have to guide Kuya-san well so he can
 enjoy my last school festival!)");
 BGMStop();

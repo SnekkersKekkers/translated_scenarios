@@ -5,9 +5,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A05001_02_000");
-MsgDisp("Sassa","Haba High's school lunches are delicious,
-but wouldn't it be good to eat a bento
-outside every once in a while?");
+MsgDisp("Sassa","Haba High's school lunches are delicious, but
+wouldn't it be good to eat a bento outside
+every once in a while?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -32,10 +32,9 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05001_01_010");
 MsgDisp("Kazama","Shut up.
-I mean, no lord makes his own bento,
-right?");
-MsgDisp("主人公","If it's alright with you guys, could I be
-the one to make them all?");
+I mean, no lord makes his own bento, right?");
+MsgDisp("主人公","If it's alright with you guys, could I be the
+one to make them all?");
 ChEye(1,0);
 ChMotion(1,0);
 ChEye(2,0);
@@ -56,8 +55,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140A05001_06_010");
-MsgDisp("Himuro","I can't help but feel like an
-afterthought...");
+MsgDisp("Himuro","I can't help but feel like an afterthought...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -68,8 +66,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140A05001_02_030");
-MsgDisp("Sassa","It'll be tough making it for everyone
-right?
+MsgDisp("Sassa","It'll be tough making it for everyone right?
 I'll help too.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -103,9 +100,9 @@ VoicePlay("D140A05001_02_050");
 MsgDisp("Sassa","Ryota, Inori!
 You should be more happy!
 You get to eat her homemade bento! Right?");
-MsgDisp("主人公","(It'll be tough making enough for four
-people but...It would be fun if we made it
-all together!)");
+MsgDisp("主人公","(It'll be tough making enough for four people
+but...
+It would be fun if we made it all together!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -98,12 +98,11 @@ kid.");
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("D010400600_04_110");
-MsgDisp("Nanatsumori","It's my fault for not contacting her as
-much as I should.
+MsgDisp("Nanatsumori","It's my fault for not contacting her as much
+as I should.
 But isn't it time for her to let it go?");
 MsgDisp("主人公","Hehe.
-She sounds like a really sweet older
-sister.");
+She sounds like a really sweet older sister.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -114,9 +113,9 @@ ChMotion(4,2,1);
 VoicePlay("D010400600_04_130");
 MsgDisp("Nanatsumori","Ahーh.
 When will she finally let it go?");
-MsgDisp("主人公","(｛Nanatsumori＊｝ doesn't seem that
-bothered, really... I bet she's 
-actually a sister he's proud of?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ doesn't seem that bothered,
+really...
+I bet she's actually a sister he's proud of?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

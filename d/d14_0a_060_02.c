@@ -10,8 +10,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A06002_02_000");
-MsgDisp("Sassa","I guess there's lots of things going on
-since he's in a different year?");
+MsgDisp("Sassa","I guess there's lots of things going on since
+he's in a different year?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -21,16 +21,15 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A06002_02_010");
-MsgDisp("Sassa","Do you think he's worried about what we
-say about him when he's not around?");
-MsgDisp("主人公","Hehe, I wonder if he worries about stuff
-like that?");
+MsgDisp("Sassa","Do you think he's worried about what we say
+about him when he's not around?");
+MsgDisp("主人公","Hehe, I wonder if he worries about stuff like
+that?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140A06002_01_020");
-MsgDisp("Kazama","He doesn't seem like he cares, but he
-does.
+MsgDisp("Kazama","He doesn't seem like he cares, but he does.
 That's what's cute about him.");
 ChEye(2,0);
 ChMouth(2,4);

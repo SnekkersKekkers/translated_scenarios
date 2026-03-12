@@ -14,8 +14,8 @@ ChEye(8,2);
 ChMotion(8,2,1);
 VoicePlay("D020800200_08_010");
 MsgDisp("Shirahane","I'm no good with exams.
-And because I'm not good with them, it's
-hard to be motivated.");
+And because I'm not good with them, it's hard
+to be motivated.");
 MsgDisp("主人公","Hahaha!");
 ChEye(8,2);
 ChMouth(8,1);
@@ -37,14 +37,15 @@ ChMotion(8,0,1);
 VoicePlay("D020800200_08_040");
 MsgDisp("Shirahane","Isn't it?
 But I've never actually seen one.");
-MsgDisp("主人公","Now that I think about it, Haba High has
-a \"Perfect Score Anpan\" that makes you
-smarter. It's at the cafeteria——");
+MsgDisp("主人公","Now that I think about it, Haba High has a
+\"Perfect Score Anpan\" that makes you smarter.
+It's at the cafeteria——");
 ChEye(8,0);
 ChMouth(8,5);
 ChMotion(8,1,1);
 VoicePlay("D020800200_08_050");
-MsgDisp("Shirahane","∈ You can get it somehow?");
+MsgDisp("Shirahane","∈
+You can get it somehow?");
 MsgDisp("主人公","Hmm.
 It seems to be rare.
 But this is just a rumor, so...");
@@ -52,8 +53,8 @@ ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("D020800200_08_060");
-MsgDisp("Shirahane","Maybe I need to sneak into Haba High and
-see if I can find it...");
+MsgDisp("Shirahane","Maybe I need to sneak into Haba High and see
+if I can find it...");
 MsgDisp("主人公","(Ehh∋)");
 BGMStop();
 MsgClose();

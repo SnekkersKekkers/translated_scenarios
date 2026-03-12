@@ -23,7 +23,8 @@ Time for payback!");
 SEPlay("EV_SE_632");
 SEWait();
 VoicePlay("D010600400_41_010");
-MsgDisp("Student B","Haha, no shot— Wait, look out!");
+MsgDisp("Student B","Haha, no shot—
+Wait, look out!");
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝ ∈");
 ChEye(6,0);
 ChMouth(6,0);
@@ -62,22 +63,22 @@ VoicePlay("D010600400_06_040");
 MsgDisp("Himuro","...Hmph.
 This is nothing.");
 VoicePlay("D010600400_41_030");
-MsgDisp("Student B","I guess that's exactly what you'd expect
-from Himuro?");
+MsgDisp("Student B","I guess that's exactly what you'd expect from
+Himuro?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600400_06_050");
 MsgDisp("Himuro","...Huh?");
 VoicePlay("D010600400_41_040");
-MsgDisp("Student B","Legend has it that once Vice Principal
-Himuro caught a blackboard eraser before
-it fell on his head——");
+MsgDisp("Student B","Legend has it that once Vice Principal Himuro
+caught a blackboard eraser before it fell on
+his head——");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600400_06_060");
-MsgDisp("Himuro","How does that catch just now have anything
-to do with that?");
+MsgDisp("Himuro","How does that catch just now have anything to
+do with that?");
 VoicePlay("D010600400_41_050");
 MsgDisp("Student B","It's because——");
 StlEye(6,1);
@@ -105,15 +106,15 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChOpen(6,254,2,1,0,0,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Isn't catching a snowball like that kind
-of amazing?");
+MsgDisp("主人公","Isn't catching a snowball like that kind of
+amazing?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,8);
 VoicePlay("D010600400_06_090");
-MsgDisp("Himuro","Are you thinking about Reiichi-san too
-when you say that?");
+MsgDisp("Himuro","Are you thinking about Reiichi-san too when
+you say that?");
 MsgDisp("主人公","Of course not!
 It's just like I'd expect from you.");
 ChEye(6,0);
@@ -128,11 +129,10 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600400_06_110");
 MsgDisp("Himuro","Anyway, let's go home quickly.
-I've been waiting for a while and it's
-cold.");
+I've been waiting for a while and it's cold.");
 MsgDisp("主人公","Ah, sorry!
-...Wait, when did we make plans to walk
-home together?");
+...Wait, when did we make plans to walk home
+together?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);

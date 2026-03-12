@@ -27,8 +27,7 @@ ChMouth(2,2);
 ChMotion(2,5);
 VoicePlay("D010200400_02_030");
 MsgDisp("Sassa","Eh?");
-MsgDisp("主人公","You wanted to measure your heartrate
-right?");
+MsgDisp("主人公","You wanted to measure your heartrate right?");
 ChEye(2,5);
 ChMouth(2,5);
 ChMotion(2,5);
@@ -81,8 +80,8 @@ StlEyeOpenLevel(2,5,1);
 StlCheek(2,5);
 VoicePlay("D010200400_02_100");
 MsgDisp("Sassa","Well...
-Your face is really close and you're
-holding my hand, so...");
+Your face is really close and you're holding
+my hand, so...");
 MsgDisp("主人公","Eh?
 Ah...");
 BGMVol(0.5,2);
@@ -110,16 +109,16 @@ ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("D010200400_02_120");
 MsgDisp("Sassa","I might not have been able to measure my
-heart rate properly, but I found a new way
-to train.");
+heart rate properly, but I found a new way to
+train.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D010200400_02_130");
-MsgDisp("Sassa","Sigh...I can't believe my heart rate rose
-like that. It's like when you train at a
-high altitude with less oxygen.");
+MsgDisp("Sassa","Sigh... I can't believe my heart rate rose
+like that. It's like when you train at a high
+altitude with less oxygen.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

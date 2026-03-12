@@ -18,8 +18,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D130A00002_01_000");
 MsgDisp("Kazama","Yeah.
-The fact that you're empty handed is
-making Inori feel down.");
+The fact that you're empty handed is making
+Inori feel down.");
 MsgDisp("主人公","Eh?");
 ChEye(6,1);
 ChMouth(6,0);

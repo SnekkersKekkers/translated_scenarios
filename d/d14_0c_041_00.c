@@ -7,8 +7,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("D140C04100_06_000");
-MsgDisp("Himuro","Apparently Yanosuke-senpai had work with
-the theatre troupe today.");
+MsgDisp("Himuro","Apparently Yanosuke-senpai had work with the
+theatre troupe today.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -20,8 +20,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C04100_06_010");
-MsgDisp("Himuro","He definitely seems like the type to
-forget to eat and sleep, doesn't he?
+MsgDisp("Himuro","He definitely seems like the type to forget
+to eat and sleep, doesn't he?
 Yanosuke-senpai, that is.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -40,14 +40,14 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C04100_07_020");
-MsgDisp("Mikage","You could have said something like \"Sensei
-as well...\"");
+MsgDisp("Mikage","You could have said something like \"Sensei as
+well...\"");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("D140C04100_06_030");
-MsgDisp("Himuro","Hey, if you're saying that, then
-completely impossible.");
+MsgDisp("Himuro","Hey, if you're saying that, then completely
+impossible.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

@@ -66,8 +66,8 @@ VoicePlay("D010500200_05_010");
 MsgDisp("Hiiragi","Yeah, but was that a goal just now∋");
 SEStop("EV_SE_725",1);
 VoicePlay("D010500200_40_050");
-MsgDisp("Student A","Ahh, that kick was a little slow but it
-was right on course!");
+MsgDisp("Student A","Ahh, that kick was a little slow but it was
+right on course!");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500200_05_020");
@@ -98,8 +98,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010500200_07_030");
 MsgDisp("Mikage","Don't \"Ah, sensei\" me.
-I know it's boring, but please pay
-attention.");
+I know it's boring, but please pay attention.");
 MsgDisp("主人公","Sorry...");
 SEPlay("EV_SE_GAYA_024");
 MsgClose();

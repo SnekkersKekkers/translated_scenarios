@@ -27,8 +27,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("D140C04001_05_010");
 MsgDisp("Hiiragi","Surely he's hungry?");
 MsgDisp("主人公","Hehe.
-You both sure do like ｛Himuro＊＊｝, don't
-you?");
+You both sure do like ｛Himuro＊＊｝, don't you?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -40,8 +39,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("D140C04001_07_020");
-MsgDisp("Mikage","Yeah, you said it like you don't care
-either way.");
+MsgDisp("Mikage","Yeah, you said it like you don't care either
+way.");
 MsgDisp("主人公","Eh?
 That's not the case though.");
 ChEye(5,0);
@@ -54,8 +53,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("D140C04001_07_030");
-MsgDisp("Mikage","Ohh, you're pressing down with the
-questions.");
+MsgDisp("Mikage","Ohh, you're pressing down with the questions.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -64,9 +62,9 @@ VoicePlay("D140C04001_05_040");
 MsgDisp("Hiiragi","Do you like him, think he's cute, despise
 him?
 Stuff like that.");
-MsgDisp("主人公","Hmm...he has a cute side for sure, but
-there are probably also times where I
-detest him a bit.");
+MsgDisp("主人公","Hmm...he has a cute side for sure, but there
+are probably also times where I detest him a
+bit.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

@@ -34,8 +34,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140A05002_02_020");
 MsgDisp("Sassa","It's fine.
-It's best to just say it without
-hesitation.");
+It's best to just say it without hesitation.");
 ChEye(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
@@ -57,15 +56,13 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05002_01_020");
-MsgDisp("Kazama","What's with that, they had the same
-response.");
+MsgDisp("Kazama","What's with that, they had the same response.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A05002_02_040");
-MsgDisp("Sassa","Well, we have our own thoughts but if you
-two wanted to have lunch together, just
-say so?");
+MsgDisp("Sassa","Well, we have our own thoughts but if you two
+wanted to have lunch together, just say so?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -84,8 +81,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A05002_06_030");
-MsgDisp("Himuro","I wanted to have lunch with the four of
-us, that's why I'm here.
+MsgDisp("Himuro","I wanted to have lunch with the four of us,
+that's why I'm here.
 It's the same for you, right?");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Y-Yeah.");

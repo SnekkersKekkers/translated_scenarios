@@ -5,8 +5,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("D150002701_02_000");
-MsgDisp("Sassa","I'm thinking I might go for a run after
-this.");
+MsgDisp("Sassa","I'm thinking I might go for a run after this.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -19,15 +18,14 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D150002701_07_010");
-MsgDisp("Mikage","What's with that strange look on your
-face?");
+MsgDisp("Mikage","What's with that strange look on your face?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D150002701_02_010");
-MsgDisp("Sassa","Ahh, you've forgotten that Mikage-sensei
-is actually the track and field club's
-adviser, huh?");
+MsgDisp("Sassa","Ahh, you've forgotten that Mikage-sensei is
+actually the track and field club's adviser,
+huh?");
 MsgDisp("主人公","Ah.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -38,8 +36,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("D150002701_02_020");
-MsgDisp("Sassa","It helps me to talk to Mikage-sensei about
-my diet and my training.
+MsgDisp("Sassa","It helps me to talk to Mikage-sensei about my
+diet and my training.
 He gives me confidence.");
 MsgDisp("主人公","As expected of ｛Mikage＊＊｝.");
 ChEye(7,0);

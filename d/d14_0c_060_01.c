@@ -26,9 +26,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C06001_07_000");
-MsgDisp("Mikage","Aaah, he'll probably say something like
-\"You can't even have a proper conversation
-without me\"");
+MsgDisp("Mikage","Aaah, he'll probably say something like \"You
+can't even have a proper conversation without
+me\"");
 ChMotion(5,4,1);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C06001_05_020");
@@ -80,8 +80,8 @@ ChMotion(7,1);
 VoicePlay("D140C06001_07_040");
 MsgDisp("Mikage","Yanosuke, good thinking.");
 MsgDisp("主人公","(Hehe.
-If ｛Himuro＊＊｝ really says it, I might end
-up laughing?)");
+If ｛Himuro＊＊｝ really says it, I might end up
+laughing?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

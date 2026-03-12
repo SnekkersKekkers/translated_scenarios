@@ -20,8 +20,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("D150006700_07_000");
-MsgDisp("Mikage","What? \"Leave your gut health in the hands
-of Mr. Eggplant!\"...That's funny.");
+MsgDisp("Mikage","What?
+\"Leave your gut health in the hands of Mr.
+Eggplant!\"... That's funny.");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
@@ -39,9 +40,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D150006700_07_010");
-MsgDisp("Mikage","Inori. You should try growing one
-yourself. You'll probably find it cute,
-like a child.");
+MsgDisp("Mikage","Inori.
+You should try growing one yourself.
+You'll probably find it cute, like a child.");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);

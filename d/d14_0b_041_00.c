@@ -13,8 +13,8 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B04100_04_000");
 MsgDisp("Nanatsumori","No, not at all.
-He's not responding to neither phone calls
-or texts.");
+He's not responding to neither phone calls or
+texts.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -35,8 +35,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("D140B04100_04_030");
-MsgDisp("Nanatsumori","It's lunch break now, so he went home to
-get it.
+MsgDisp("Nanatsumori","It's lunch break now, so he went home to get
+it.
 His house is quite close right?");
 MsgDisp("主人公","Eh?
 Ah, yeah.
@@ -52,10 +52,11 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D140B04100_03_030");
-MsgDisp("Honda","Ehhh. It must be convenient to have your
-house so close by. ...Right?");
-MsgDisp("主人公","(It's convenient, but forgetting something
-is rough... I'm sure ｛Kazama＊＊｝ is super
+MsgDisp("Honda","Ehhh.
+It must be convenient to have your house so
+close by. ...Right?");
+MsgDisp("主人公","(It's convenient, but forgetting something is
+rough... I'm sure ｛Kazama＊＊｝ is super
 frustrated right about now.)");
 BGMStop();
 MsgClose();

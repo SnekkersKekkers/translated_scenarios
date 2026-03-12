@@ -3,8 +3,8 @@ ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, from Habatcher's Editorial Department.
-\"Permission to interview the Habataki
-Theater Company granted!\" ...Alright!)");
+\"Permission to interview the Habataki Theater
+Company granted!\" ...Alright!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -123,7 +123,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(Phew...That was a good interview!
+MsgDisp("主人公","(Phew... That was a good interview!
 ｛Hiiragi＊＊＊｝ shared a lot with me, even
 though we didn't have much time.)");
 MsgClose();

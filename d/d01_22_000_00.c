@@ -3,8 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Phew, it's finally break time.)");
 MsgDisp("主人公","(...Huh?
-That person over there with their head
-down on the desk...)");
+That person over there with their head down
+on the desk...)");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_22_01");
@@ -40,25 +40,23 @@ Her switch is just turned off right now.");
 StlEye(22,0);
 StlMouth(22,0);
 VoicePlay("D012200000_22_040");
-MsgDisp("Hikaru","...Just like everyone else, Hikaru also
-has those days when she's tired.");
+MsgDisp("Hikaru","...Just like everyone else, Hikaru also has
+those days when she's tired.");
 StlEyeOpenLevel(22,0);
 VoicePlay("D012200000_22_050");
 MsgDisp("Hikaru","Always running around like an energetic
-idiot, that's just part of the
-character...");
+idiot, that's just part of the character...");
 StlEye(22,1);
 StlMouth(22,1);
 VoicePlay("D012200000_22_060");
-MsgDisp("Hikaru","Because when you're not happy and well,
-the people around you will begin to worry,
-just like Mari does, right?");
+MsgDisp("Hikaru","Because when you're not happy and well, the
+people around you will begin to worry, just
+like Mari does, right?");
 MsgDisp("主人公","Ah...");
 StlEyeOpenLevel(22,5,1);
 VoicePlay("D012200000_22_070");
-MsgDisp("Hikaru","That's why Hikaru tries to be the
-\"Cheerful Hikaru\" in front of others
-but...");
+MsgDisp("Hikaru","That's why Hikaru tries to be the \"Cheerful
+Hikaru\" in front of others but...");
 StlEye(22,0);
 StlMouth(22,0);
 VoicePlay("D012200000_22_080");
@@ -87,9 +85,9 @@ ScrFadeOut(0);
 StlClose();
 BGOpen("sc310",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(A normal girl, huh...｛ひかる＊｝ is
-a celebrity but I guess sometimes during
-school she wants to be free of that.)");
+MsgDisp("主人公","(A normal girl, huh... ｛ひかる＊｝ is a
+celebrity but I guess sometimes during school
+she wants to be free of that.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(22,1);

@@ -17,8 +17,8 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D010200700_02_010");
-MsgDisp("Sassa","...But you know, I guess it would be bad
-if I couldn't move anymore——");
+MsgDisp("Sassa","...But you know, I guess it would be bad if I
+couldn't move anymore——");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(2,0,30);
 ChLayout(0);
@@ -107,8 +107,8 @@ BGMPlay("BGM_C02_SASSA_I",0.01);
 ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoicePlay("D010200700_02_050");
 MsgDisp("Sassa","In the end I ran out of steam and couldn't
-get first place, but at least I made it
-back without collapsing.");
+get first place, but at least I made it back
+without collapsing.");
 MsgDisp("主人公","Hehe!
 Yeah, welcome back.");
 MsgClose();
@@ -150,9 +150,9 @@ StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200700_02_100");
 MsgDisp("Sassa","Is that a bad thing to say?");
-MsgDisp("主人公","Ah...Gold medals are kind of heavy, aren't
-they? ｛Sassa＊＊｝, thank you. You worked
-hard these past 3 years.");
+MsgDisp("主人公","Ah... Gold medals are kind of heavy, aren't
+they? ｛Sassa＊＊｝, thank you.
+You worked hard these past 3 years.");
 SEPlay("EV_SE_CLAP_005",0.5);
 Wait(30,0);
 VoicePlay("D010200700_44_010");

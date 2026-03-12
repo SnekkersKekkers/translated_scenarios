@@ -19,8 +19,7 @@ ChMouthOpenLevel(9,0);
 VoicePlay("D030901610_09_000");
 MsgDisp("Kuya","......");
 VoicePlay("D030901610_41_020");
-MsgDisp("Student B","Hey, let's take a picture with the
-heroine!");
+MsgDisp("Student B","Hey, let's take a picture with the heroine!");
 VoicePlay("D030901610_45_000");
 MsgDisp("Girl B","Nice idea!
 It'll make a good memory.");
@@ -51,8 +50,8 @@ True.");
 ChEye(9,3);
 ChMotion(9,4,1);
 VoicePlay("D030901610_09_030");
-MsgDisp("Kuya","Sorry, but can you guys wait until later
-for a photo session?");
+MsgDisp("Kuya","Sorry, but can you guys wait until later for
+a photo session?");
 MsgDisp("主人公","See you all later...!");
 ChEye(9,0);
 ChMouth(9,4);
@@ -80,9 +79,9 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,1,1);
 VoicePlay("D030901610_09_060");
-MsgDisp("Kuya","My jealousy. I thought you were going to
-be taken away by that big group of
-students so I did something immature.");
+MsgDisp("Kuya","My jealousy. I thought you were going to be
+taken away by that big group of students so I
+did something immature.");
 MsgDisp("主人公","It's fine...
 Even though you came, I wasn't able to pay
 attention to you...");

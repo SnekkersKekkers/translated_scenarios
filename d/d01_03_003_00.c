@@ -48,8 +48,7 @@ StlEyeOpenLevel(3,5);
 ScrFadeIn(4,60);
 Wait(60,0);
 MsgDisp("主人公","Wow, amazing∈
-Now the flowers are transparent like
-glass!");
+Now the flowers are transparent like glass!");
 StlEye(3,0);
 StlMouth(3,1);
 VoicePlay("D010300300_03_050");
@@ -81,8 +80,8 @@ StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300300_03_090");
 MsgDisp("Honda","I guess it's something similar to that～");
 MsgDisp("主人公","(｛Honda＊＊｝'s explanation is easy to
-understand but to use his dad's shirt in
-the analogy is kind of...)");
+understand but to use his dad's shirt in the
+analogy is kind of...)");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -109,9 +108,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 MsgDisp("主人公","O-Okay.
 I'll give it a try!");
-MsgDisp("主人公","(｛Honda＊＊｝'s shirt is probably so baggy
-on him because it's actually his
-father's...)");
+MsgDisp("主人公","(｛Honda＊＊｝'s shirt is probably so baggy on
+him because it's actually his father's...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

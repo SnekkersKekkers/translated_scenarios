@@ -48,8 +48,7 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D140B03200_03_020");
 MsgDisp("Honda","I see.
-Since you guys are childhood friends,
-right?");
+Since you guys are childhood friends, right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -76,8 +75,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B03200_01_050");
 MsgDisp("Kazama","Not really.
-There's nothing there, what are you
-talking about?");
+There's nothing there, what are you talking
+about?");
 MsgDisp("主人公","(I don't really remember but...
 It seems like it's better that I don't say
 that.)");

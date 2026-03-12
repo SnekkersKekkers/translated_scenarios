@@ -20,8 +20,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D150002401_02_010");
-MsgDisp("Sassa","Nanatsumori is really polite and
-considerate.");
+MsgDisp("Sassa","Nanatsumori is really polite and considerate.");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,2);

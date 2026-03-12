@@ -26,16 +26,16 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05100_01_010");
-MsgDisp("Kazama","Are you two just going to blather on
-amongst yourselves?");
+MsgDisp("Kazama","Are you two just going to blather on amongst
+yourselves?");
 MsgDisp("主人公","We only talk about normal things...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D140A05100_01_020");
 MsgDisp("Kazama","Right.
-We enjoy our normal conversations more
-than enough.");
+We enjoy our normal conversations more than
+enough.");
 ChEye(1,0);
 ChEyeOpenLevel(1,0);
 ChEye(6,0);
@@ -57,8 +57,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A05100_01_030");
 MsgDisp("Kazama","Say whatever you want.");
-MsgDisp("主人公","(When I talk to ｛Kazama＊＊｝ when it's
-just the two of us...
+MsgDisp("主人公","(When I talk to ｛Kazama＊＊｝ when it's just
+the two of us...
 What kind of conversations do we have?)");
 BGMStop();
 MsgClose();

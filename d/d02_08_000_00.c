@@ -15,9 +15,8 @@ MsgDisp("Shirahane","Lately there's been a rumor going around
 school——");
 VoicePlay("D020800000_08_020");
 MsgDisp("Shirahane","About some \"Young Master\" at Haba Academy,\na charismatic salesman with great style?");
-MsgDisp("主人公","(Is he maybe talking about ｛Kazama＊＊｝
-and his part-time job at General Store
-Simon...?)");
+MsgDisp("主人公","(Is he maybe talking about ｛Kazama＊＊｝ and
+his part-time job at General Store Simon...?)");
 ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -47,11 +46,11 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800000_08_060");
 MsgDisp("Shirahane","Customers ask for me by name, y'know.
-If you come watch, you'll see I'm just
-as good as \"Haba High's Young Master\"~!");
-MsgDisp("主人公","(Hehe! ｛Kazama＊＊｝ and ｛Daichi＊＊｝ are
-completely different, but I think I can
-see it...!)");
+If you come watch, you'll see I'm just as
+good as \"Haba High's Young Master\"~!");
+MsgDisp("主人公","(Hehe!
+｛Kazama＊＊｝ and ｛Daichi＊＊｝ are completely
+different, but I think I can see it...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

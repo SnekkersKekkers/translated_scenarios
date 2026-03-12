@@ -2,15 +2,15 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07031_21_000");
-MsgDisp("Michiru","To Honda-kun, I guess Mari is kind of like
-a little sister.");
+MsgDisp("Michiru","To Honda-kun, I guess Mari is kind of like a
+little sister.");
 MsgDisp("主人公","Eh?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("D140D07031_22_000");
-MsgDisp("Hikaru","Ah, Hikaru totally sees that～! ...You
-know, it's because Dahon, uhm,
+MsgDisp("Hikaru","Ah, Hikaru totally sees that～!
+...You know, it's because Dahon, uhm,
 Honda-kun has bad grades in love.");
 MsgDisp("主人公","Bad grades in love...");
 ChEye(22,4);

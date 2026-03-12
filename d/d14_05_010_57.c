@@ -3,8 +3,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140501057_05_000");
 MsgDisp("Hiiragi","I'm with you on the radishes.
-It seems this dish was named after the
-model, Hazuki Kei.");
+It seems this dish was named after the model,
+Hazuki Kei.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("D140501057_05_010");

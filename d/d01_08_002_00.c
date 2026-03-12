@@ -8,9 +8,8 @@ surrounded by reporters.)");
 MsgDisp("主人公","(Isn't ｛Daichi＊＊｝ also here today?
 I wonder which events he'll do?)");
 VoicePlay("D010800200_46_000");
-MsgDisp("Broadcast","All athletes participating in the men's
-400m Octathlon, please come to the
-starting area.");
+MsgDisp("Broadcast","All athletes participating in the men's 400m
+Octathlon, please come to the starting area.");
 MsgDisp("主人公","Ah...It's ｛Sassa＊＊｝'s turn to compete in\nthe Octathlon. Let's go watch!");
 BGMStop();
 MsgClose();
@@ -51,8 +50,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","It's ｛Daichi＊＊｝∈");
 VoicePlay("D010800200_42_020");
 MsgDisp("School Boy","Go Daichi!");
-MsgDisp("主人公","(I feel like he might be able to catch up
-to ｛Sassa＊＊｝!)");
+MsgDisp("主人公","(I feel like he might be able to catch up to
+｛Sassa＊＊｝!)");
 MsgDisp("主人公","(What should I do...
 I don't know who to root for...!)");
 SEPlay("EV_SE_793",0.3);
@@ -104,14 +103,14 @@ ChMouth(8,4);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("D010800200_08_030");
-MsgDisp("Shirahane","I don't think there's anyone in high
-school that could compete with Sassa.
+MsgDisp("Shirahane","I don't think there's anyone in high school
+that could compete with Sassa.
 He's already the king.");
 ChEye(8,2);
 ChMouth(8,0);
 VoicePlay("D010800200_08_040");
-MsgDisp("Shirahane","We both tried our hardest, but I don't
-think I'll ever be able to surpass him.");
+MsgDisp("Shirahane","We both tried our hardest, but I don't think
+I'll ever be able to surpass him.");
 MsgDisp("主人公","I guess so...");
 ChEye(8,3);
 ChMouth(8,3);
@@ -122,8 +121,7 @@ MsgDisp("Shirahane","Yeah, I'm satisfied, though!
 After all, the king is a genius!
 So I can relax now.");
 MsgDisp("主人公","(｛Daichi＊＊｝ was also amazing, though.
-...By king, does he maybe mean
-｛Sassa＊＊｝?)");
+...By king, does he maybe mean ｛Sassa＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

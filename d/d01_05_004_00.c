@@ -39,9 +39,9 @@ MsgDisp("Student A","I can do that!");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("D010500400_05_020");
 MsgDisp("Hiiragi","...That is not possible.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, everyone is looking forward
-to it. Me too...
-I want to put on a show with you.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, everyone is looking forward to
+it.
+Me too... I want to put on a show with you.");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();
@@ -112,9 +112,9 @@ VoicePlay("D010500400_41_080");
 MsgDisp("Student B","This is big news.
 I have to tell everyone∈");
 VoicePlay("D010500400_44_020");
-MsgDisp("School Girl","Awesome! We'll get to see a real Theater
-Company performance at our school! That's
-amazing!");
+MsgDisp("School Girl","Awesome!
+We'll get to see a real Theater Company
+performance at our school! That's amazing!");
 MsgDisp("主人公","Yeah...!
 ｛Hiiragi＊＊＊｝, thank you!");
 SEStop("EV_SE_GAYA_025",1.5);
@@ -135,8 +135,7 @@ SEWait();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("D010500400_05_070");
 MsgDisp("Hiiragi","Yeah.
-There is no point in continuing alone,
-right?");
+There is no point in continuing alone, right?");
 MsgDisp("主人公","Yup.
 Everyone was really happy, though.");
 ChEye(5,4);
@@ -188,8 +187,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500400_05_120");
-MsgDisp("Hiiragi","Making people happy—— I do this for that
-reason alone.");
+MsgDisp("Hiiragi","Making people happy——
+I do this for that reason alone.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);

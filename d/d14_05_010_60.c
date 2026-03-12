@@ -10,6 +10,6 @@ ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("D140501060_05_010");
 MsgDisp("Hiiragi","It seems some of the Haba High alumni who
-used to fight all the time are now selling
-us high quality beef.");
+used to fight all the time are now selling us
+high quality beef.");
 ChMouth(5,4);

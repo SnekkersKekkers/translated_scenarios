@@ -65,8 +65,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140A05102_06_030");
-MsgDisp("Himuro","We're not here in the first place to
-gratify your curiosity.");
+MsgDisp("Himuro","We're not here in the first place to gratify
+your curiosity.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
@@ -102,8 +102,8 @@ VoicePlay("D140A05102_06_040");
 MsgDisp("Himuro","Haa.. please do as you'd like.
 Right?");
 MsgDisp("主人公","Hehe, yeah.
-｛Kazama＊＊｝ and ｛Sassa＊＊｝ are the ones
-who are fidgety, aren't they?");
+｛Kazama＊＊｝ and ｛Sassa＊＊｝ are the ones who
+are fidgety, aren't they?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

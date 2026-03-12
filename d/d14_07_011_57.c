@@ -2,8 +2,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D140701157_07_000");
-MsgDisp("Mikage","So you're going Hazuki Kei style too? Same
-here. Apparently this wasn't even his
+MsgDisp("Mikage","So you're going Hazuki Kei style too?
+Same here. Apparently this wasn't even his
 favorite, though.");
 ChEye(7,2);
 ChMouth(7,0);

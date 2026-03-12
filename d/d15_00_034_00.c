@@ -25,8 +25,8 @@ ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("D150003400_04_010");
 MsgDisp("Nanatsumori","Ah. I get it. That's what you're talking
-about. Actually, there is one. It's not
-really a secret though.");
+about. Actually, there is one.
+It's not really a secret though.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
@@ -42,8 +42,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2);
 VoicePlay("D150003400_04_030");
-MsgDisp("Nanatsumori","There's a deep ruby red strawberry jam
-next to the sauces.
+MsgDisp("Nanatsumori","There's a deep ruby red strawberry jam next
+to the sauces.
 It's super delicious.");
 ChEye(3,2);
 ChMouth(3,3);

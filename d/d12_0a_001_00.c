@@ -4,8 +4,8 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message from ｛Himuro＊＊｝...)");
-MsgDisp("主人公","(It says...\"There's a surfing lesson at
-the beach right now. Ryota-senpai and
+MsgDisp("主人公","(It says...\"There's a surfing lesson at the
+beach right now. Ryota-senpai and
 Nozomu-senpai are students. Come watch.\")");
 MsgDisp("主人公","(That sounds kind of interesting?
 Alright, let's go!)");
@@ -38,8 +38,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("D120A00100_06_010");
 MsgDisp("Himuro","Ryota-senpai, aren't you too wobbly?
-Nozomu-senpai you're...perfect as
-expected.");
+Nozomu-senpai you're...perfect as expected.");
 MsgDisp("主人公","Hehe, you guys are really into it, huh?");
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
@@ -84,12 +83,12 @@ MsgDisp("Sassa","Eh...");
 StlEyeOpenLevel(1,0);
 StlMouth(1,0);
 VoicePlay("D120A00100_01_030");
-MsgDisp("Kazama","All because Sassa had to ask you to teach
-us to surf...");
+MsgDisp("Kazama","All because Sassa had to ask you to teach us
+to surf...");
 StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
-MsgDisp("主人公","(｛Himuro＊＊｝ looks like he's having a lot
-of fun?)");
+MsgDisp("主人公","(｛Himuro＊＊｝ looks like he's having a lot of
+fun?)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -131,8 +130,8 @@ ChMotion(6,1);
 VoicePlay("D120A00100_06_050");
 MsgDisp("Himuro","Okay, that's it for today's class.
 Let's go get some juice.");
-MsgDisp("主人公","(Today's class...does that mean there will
-be second one...?
+MsgDisp("主人公","(Today's class...does that mean there will be
+second one...?
 I think I want to watch it again...)");
 BGMStop();
 MsgClose();

@@ -41,11 +41,10 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B06001_01_030");
 MsgDisp("Kazama","I guess.
-Even if he understands what love is, he
-feels inexperienced with love.");
+Even if he understands what love is, he feels
+inexperienced with love.");
 MsgDisp("主人公","Hey.
-What were you two whispering about just
-now?");
+What were you two whispering about just now?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -64,8 +63,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B06001_01_050");
 MsgDisp("Kazama","...Otherwise, it wouldn't have turned out
 like this.");
-MsgDisp("主人公","(I heard \"dense\" but...are they talking
-about me and ｛Honda＊＊｝?)");
+MsgDisp("主人公","(I heard \"dense\" but...are they talking about
+me and ｛Honda＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

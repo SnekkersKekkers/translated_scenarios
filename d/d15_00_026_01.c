@@ -13,9 +13,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D150002601_06_000");
-MsgDisp("Himuro","In my head I had pictured Nozomu-senpai as
-a race horse, but in reality he's more
-like a large dog.");
+MsgDisp("Himuro","In my head I had pictured Nozomu-senpai as a
+race horse, but in reality he's more like a
+large dog.");
 MsgDisp("主人公","That's for sure.
 I think he's a cool doggy.");
 ChEye(2,2);
@@ -36,8 +36,9 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChCheek(2,0);
 VoicePlay("D150002601_02_020");
-MsgDisp("Sassa","What's wrong?? Inori. Would you like it if
-people called you a cool doggy?");
+MsgDisp("Sassa","What's wrong??
+Inori. Would you like it if people called you
+a cool doggy?");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);
@@ -47,8 +48,8 @@ MsgDisp("Himuro","Huh?
 What are you talking about.
 That wouldn't make any sense.");
 MsgDisp("主人公","Right.
-｛Himuro＊＊｝ isn't really a doggy, he's more
-of a cute kitty.");
+｛Himuro＊＊｝ isn't really a doggy, he's more of
+a cute kitty.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -62,8 +63,7 @@ ChCheek(6,0);
 VoicePlay("D150002601_06_030");
 MsgDisp("Himuro","Stop it.
 The two of you are going to make me angry.");
-MsgDisp("主人公","(Hehe, they really do look like cat and
-dog.)");
+MsgDisp("主人公","(Hehe, they really do look like cat and dog.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

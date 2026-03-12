@@ -11,8 +11,7 @@ MsgDisp("主人公","Ah, Mayo-san!
 Is Kuya-san studying hard for his entrance
 exam?");
 VoicePlay("D030901001_45_010");
-MsgDisp("Mayo","About that, he's still been wandering
-around.
+MsgDisp("Mayo","About that, he's still been wandering around.
 I wonder if that's okay...");
 MsgDisp("主人公","Eh∋");
 VoicePlay("D030901001_45_020");

@@ -3,8 +3,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("D140301052_03_000");
 MsgDisp("Honda","Yeah, good choice!
-If you eat this, maybe you won't be
-satisfied with normal food anymore?");
+If you eat this, maybe you won't be satisfied
+with normal food anymore?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);

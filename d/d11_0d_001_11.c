@@ -55,8 +55,8 @@ ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("D110D00100_22_030");
 MsgDisp("Hikaru","Aha▼
-Hikaru hopes \"Mari's Garden\" is 
-a lot of fun～♪");
+Hikaru hopes \"Mari's Garden\" is a lot of
+fun～♪");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
@@ -65,8 +65,7 @@ MsgDisp("Michiru","Please pour your love into all kinds of
 roses.
 They are all worth raising.");
 MsgDisp("主人公","(A change in the flowerbed of my heart...?
-I guess I should ask ｛ひかる＊｝
-later.)");
+I guess I should ask ｛ひかる＊｝ later.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

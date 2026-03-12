@@ -15,15 +15,15 @@ VoicePlay("D020100000_01_000");
 MsgDisp("Kazama","Waiting or not, we're going the same way,
 aren't we?");
 MsgDisp("主人公","That's true.
-It really feels like we're back in
-elementary school again.");
+It really feels like we're back in elementary
+school again.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_010");
 MsgDisp("Kazama","I guess so. When I look at you, I don't
-notice anything different. It's like you
-haven't grown at all.");
+notice anything different.
+It's like you haven't grown at all.");
 MsgDisp("主人公","｛Kazama＊＊｝, you've changed a lot though,
 haven't you?");
 ChEye(1,4);
@@ -39,8 +39,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("D020100000_01_030");
-MsgDisp("Kazama","\"You've gotten so much taller, haven't
-you\"?");
+MsgDisp("Kazama","\"You've gotten so much taller, haven't you\"?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -52,9 +51,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_050");
-MsgDisp("Kazama","Yes, yes, everything's fine. It's just
-business as usual for you again today.
-Let's go.");
+MsgDisp("Kazama","Yes, yes, everything's fine.
+It's just business as usual for you again
+today. Let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
@@ -73,8 +72,8 @@ NSSOpen(1,254,3,3,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_051");
-MsgDisp("Kazama","So, remember that bell that we used to
-hear ringing?");
+MsgDisp("Kazama","So, remember that bell that we used to hear
+ringing?");
 MsgDisp("主人公","Hehe, yeah.
 It was strange.
 It feels kind of like a dream.");
@@ -88,8 +87,8 @@ NSSMouth(1,0);
 VoicePlay("D020100000_01_070");
 MsgDisp("Kazama","Isn't the fact that we both have the same\nmemory proof enough?");
 MsgDisp("主人公","That's true.
-The two of us wouldn't have the same
-dream, I guess?");
+The two of us wouldn't have the same dream, I
+guess?");
 NSSEye(1,3);
 NSSMouth(1,3);
 VoicePlay("D020100000_01_080");
@@ -135,9 +134,9 @@ Wait(10,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("D020100000_01_120");
-MsgDisp("Kazama","You didn't just now, but I remember the
-times you did. Back in first grade you
-were a handful to take care of.");
+MsgDisp("Kazama","You didn't just now, but I remember the times
+you did. Back in first grade you were a
+handful to take care of.");
 MsgDisp("主人公","(Ugh...
 I don't have a comeback for that.)");
 MsgClose();

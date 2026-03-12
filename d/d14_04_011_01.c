@@ -22,8 +22,8 @@ thing.");
     ChEye(4,4);
     ChMotion(4,1);
     VoicePlay("D140401101_04_020");
-    MsgDisp("Nanatsumori","It has no meaning whatsoever, but I'm kind
-of happy when overlaps like this happen.");
+    MsgDisp("Nanatsumori","It has no meaning whatsoever, but I'm kind of
+happy when overlaps like this happen.");
     break ;
     default :
     DbgAssert(1);

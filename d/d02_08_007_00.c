@@ -40,7 +40,7 @@ MsgDisp("Shirahane","Nah, the pillow fights were intense so
 everyone is going to sleep now.");
 MsgDisp("主人公","Oh.");
 VoicePlay("D020800700_08_050");
-MsgDisp("Shirahane","Sigh...There's nothin' more lame than
+MsgDisp("Shirahane","Sigh... There's nothin' more lame than
 sight-seeing in your hometown. If you were
 here though, it'd be a different story.");
 MsgDisp("主人公","Would ｛Daichi＊＊｝ be my special guide?");
@@ -57,16 +57,17 @@ MsgDisp("Shirahane","Oh damn, it's late.
 Are ya getting sleepy?
 My bad.");
 MsgDisp("主人公","No, it's fine. Thanks for calling.
-Even though we're at different places,
-we still made some good memories, right?");
+Even though we're at different places, we
+still made some good memories, right?");
 VoicePlay("D020800700_08_080");
-MsgDisp("Shirahane","True. In that case, why don't you get some
-sleep for tomorrow? Night.");
+MsgDisp("Shirahane","True.
+In that case, why don't you get some sleep
+for tomorrow? Night.");
 MsgDisp("主人公","Good night.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Hehe, I can picture ｛Daichi＊＊｝ guiding
-everyone at Hane Academy. I wish we were
-together...)");
+everyone at Hane Academy.
+I wish we were together...)");
 MsgClose();
 ScrFadeOut(0);

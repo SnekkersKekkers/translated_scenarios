@@ -11,31 +11,29 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("D150001301_03_000");
 MsgDisp("Honda","It's fun to talk.
-It makes everything ten times as
-delicious.");
+It makes everything ten times as delicious.");
 MsgDisp("主人公","Yeah, you always tell such fun stories.");
 ChEye(3,4);
 ChMouth(3,2);
 ChMotion(3,4);
 VoicePlay("D150001301_03_010");
-MsgDisp("Honda","Ah. But you know, at home they tell me
-that my mouth is too empty so I should
-hurry up and eat.");
+MsgDisp("Honda","Ah. But you know, at home they tell me that
+my mouth is too empty so I should hurry up
+and eat.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D150001301_01_010");
-MsgDisp("Kazama","Well, that's because you only have one
-mouth.");
+MsgDisp("Kazama","Well, that's because you only have one mouth.");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,2);
 VoicePlay("D150001301_03_020");
-MsgDisp("Honda","Right. I wish I could eat and talk at the
-same time. It's hard not being able to do
-both.");
-MsgDisp("主人公","Hehe, that's just the sort of problem
-you'd expect from ｛Honda＊＊｝.");
+MsgDisp("Honda","Right.
+I wish I could eat and talk at the same time.
+It's hard not being able to do both.");
+MsgDisp("主人公","Hehe, that's just the sort of problem you'd
+expect from ｛Honda＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -47,8 +45,7 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("D150001301_03_030");
 MsgDisp("Honda","Thanks, Ryou-kun.
-Okay, so today's topic is kind of a long
-one.");
+Okay, so today's topic is kind of a long one.");
 ChEye(1,2);
 ChMouth(1,2);
 VoicePlay("D150001301_01_030");

@@ -71,8 +71,8 @@ MsgDisp("主人公","｛Hiiragi＊＊＊｝, why don't you eat properly?");
 StlEye(5,1);
 StlMouth(5,0);
 VoicePlay("D010500100_05_060");
-MsgDisp("Hiiragi","When I'm busy, eating just feels like
-too much trouble.");
+MsgDisp("Hiiragi","When I'm busy, eating just feels like too
+much trouble.");
 StlEye(5,0);
 StlMouth(5,0);
 MsgDisp("主人公","That kind of thing is a big no-no.
@@ -104,8 +104,8 @@ ChMotion(5,3);
 Wait(24,1);
 VoicePlay("D010500100_05_090");
 MsgDisp("Hiiragi","Thank you for the food.
-I have to go back to the student council
-room now.");
+I have to go back to the student council room
+now.");
 MsgDisp("主人公","I'll come and help you.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -117,14 +117,14 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500100_05_110");
-MsgDisp("Hiiragi","The student council work is a requirement
-for me to be here.");
+MsgDisp("Hiiragi","The student council work is a requirement for
+me to be here.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(I wonder if ｛Hiiragi＊＊＊｝ is dealing with
-too many things on his own...
+MsgDisp("主人公","(I wonder if ｛Hiiragi＊＊＊｝ is dealing with too
+many things on his own...
 And what does he mean by requirement?)");
 MsgClose();
 ScrFadeOut(0,0);

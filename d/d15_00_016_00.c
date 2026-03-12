@@ -19,8 +19,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D150001600_06_010");
 MsgDisp("Himuro","It must be wonderful to have something you
-can get so absorbed in right in front of
-you.");
+can get so absorbed in right in front of you.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -67,8 +66,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,3);
 VoicePlay("D150001600_01_040");
-MsgDisp("Kazama","Just so you know, we're mostly talking
-about you.");
+MsgDisp("Kazama","Just so you know, we're mostly talking about
+you.");
 MsgDisp("主人公","Ehh∋");
 BGMStop();
 MsgClose();

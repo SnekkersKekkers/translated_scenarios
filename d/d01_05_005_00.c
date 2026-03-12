@@ -2,9 +2,9 @@ MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, from Habatcher. \"Please sneak into
-the Habataki Theater Company's rehearsal
-studio for an insider scoop!\" ...Ehh∋)");
+MsgDisp("主人公","(Ah, from Habatcher. \"Please sneak into the
+Habataki Theater Company's rehearsal studio
+for an insider scoop!\" ...Ehh∋)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -13,8 +13,8 @@ BGOpen("bh500",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(This is ｛Hiiragi＊＊＊｝'s home, right?
-It seems like the rehearsal studio is on
-the property...)");
+It seems like the rehearsal studio is on the
+property...)");
 MsgClose();
 SEPlay("EV_SE_723");
 Wait(50,0);
@@ -22,9 +22,8 @@ VoicePlay("D010500500_43_000");
 MsgDisp("Troupe A","Ooogh!
 Taah!");
 VoicePlay("D010500500_05_000");
-MsgDisp("Hiiragi?","If you can't do it in practice, how will
-you be able to do it during the
-performance?");
+MsgDisp("Hiiragi?","If you can't do it in practice, how will you
+be able to do it during the performance?");
 MsgDisp("主人公","(That voice is...)");
 MsgClose();
 ScrFadeOut(0,0);
@@ -87,14 +86,13 @@ ChOpen(5,35,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010500500_05_030");
 MsgDisp("Hiiragi","My apologies.
-I was just told that there was someone
-here for an interview...");
+I was just told that there was someone here
+for an interview...");
 MsgDisp("主人公","Yes.
 Thank you very much for allowing me to
 intrude on your important practice.");
 VoicePlay("D010500500_05_040");
-MsgDisp("Hiiragi","I hope you are able to write a good
-article.");
+MsgDisp("Hiiragi","I hope you are able to write a good article.");
 ChMouth(5,2);
 VoicePlay("D010500500_38_010");
 MsgDisp("Troupe","Hahaha.");
@@ -109,9 +107,9 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500500_05_060");
-MsgDisp("Hiiragi","Thanks to Habatcher's articles and
-Habataki City's support, we've been
-getting new members.");
+MsgDisp("Hiiragi","Thanks to Habatcher's articles and Habataki
+City's support, we've been getting new
+members.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,1);
@@ -124,8 +122,8 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("D010500500_05_080");
-MsgDisp("Hiiragi","No, since the city is supporting us, we
-have to do better.
+MsgDisp("Hiiragi","No, since the city is supporting us, we have
+to do better.
 It's our obligation.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,2);

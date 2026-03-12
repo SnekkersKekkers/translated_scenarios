@@ -19,8 +19,8 @@ What are you doing here?");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D120C00200_05_000");
-MsgDisp("Hiiragi","I wanted to get Inori-kun's opinion on
-this month's poster.");
+MsgDisp("Hiiragi","I wanted to get Inori-kun's opinion on this
+month's poster.");
 StlEye(6,1,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D120C00200_06_000");
@@ -33,8 +33,8 @@ StlEyeOpenLevel(6,0,1);
 VoicePlay("D120C00200_06_010");
 MsgDisp("Himuro","I know what you're trying to say, but it's
 not a good slogan.");
-MsgDisp("主人公","(｛Himuro＊＊｝ is so blunt with his
-opinions, it makes me kind of nervous...)");
+MsgDisp("主人公","(｛Himuro＊＊｝ is so blunt with his opinions, it
+makes me kind of nervous...)");
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D120C00200_06_020");
 MsgDisp("Himuro","It would be better to try to convey the
@@ -52,8 +52,8 @@ MsgDisp("Himuro","I'll come up with some ideas to help out.");
 StlEyeOpenLevel(5,0,1);
 Wait(6,0);
 StlEyeOpenLevel(5,#1);
-MsgDisp("主人公","(Phew, looks like there's no need to
-worry. This is just a normal conversation.
+MsgDisp("主人公","(Phew, looks like there's no need to worry.
+This is just a normal conversation.
 They seem close...)");
 BGMVol(0.5,2);
 MsgClose();
@@ -76,9 +76,9 @@ VoiceEVSPlay(5);
 VoicePlay("D120C00200_05_030");
 MsgDisp("Hiiragi","｛主人公｝, that's the bell.
 It's time to go back to class.");
-MsgDisp("主人公","Yeah. I have a few more things to do, so
-why don't you go ahead? I'll lock the door
-when I'm done.");
+MsgDisp("主人公","Yeah. I have a few more things to do, so why
+don't you go ahead?
+I'll lock the door when I'm done.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -101,14 +101,14 @@ ChClose(6,0,30);
 Wait(20,1);
 SEPlay("EV_SE_DOOR_025");
 SEWait();
-MsgDisp("主人公","(Alright, let me just tidy things up and
-then I'll go to class...
+MsgDisp("主人公","(Alright, let me just tidy things up and then
+I'll go to class...
 Ah──)");
 SEPlay("EV_SE_591");
 Wait(30,1);
 MsgDisp("主人公","(That's the poster from earlier!
-I wonder what slogan they decided on in
-the end?)");
+I wonder what slogan they decided on in the
+end?)");
 SEWait();
 SEPlay("EV_SE_635");
 SEWait();

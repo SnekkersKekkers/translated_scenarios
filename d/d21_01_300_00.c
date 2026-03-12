@@ -1,10 +1,9 @@
 BGOpen("ex070",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Goro-sensei says I should find a diamond
-in the rough from Habataki City who is a
+MsgDisp("主人公","(Goro-sensei says I should find a diamond in
+the rough from Habataki City who is a
 wonderful and shining person...)");
-MsgDisp("主人公","(How on Earth should I even begin to
-look?)");
+MsgDisp("主人公","(How on Earth should I even begin to look?)");
 VoicePlay("D220100100_31_000");
 MsgDisp("Goro?","It's hard to see what's right under your
 nose, isn't it?");
@@ -17,8 +16,7 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
 MsgDisp("Goro","You're worried, aren't you?
-But there are rough diamonds all around
-you.");
+But there are rough diamonds all around you.");
 MsgDisp("主人公","Eh?");
 VoicePlay("D220100100_31_020");
 ChEye(31,0);
@@ -39,13 +37,13 @@ VoicePlay("D220100100_31_040");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,1);
-MsgDisp("Goro","Well then, let's get moving. Be safe! I'm
-looking forward to reading your lovely
-articles♪");
+MsgDisp("Goro","Well then, let's get moving.
+Be safe! I'm looking forward to reading your
+lovely articles♪");
 MsgDisp("主人公","Y-Yes!");
 MsgDisp("主人公","(I see, if it's ｛Kazama＊＊｝...Yeah.
-He fits \"wonderful and shining
-person\". I have to write a great article!)");
+He fits \"wonderful and shining person\".
+I have to write a great article!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

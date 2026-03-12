@@ -60,8 +60,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D130A00100_06_020");
-MsgDisp("Himuro","Ryota-senpai's got that side to him,
-doesn't he?");
+MsgDisp("Himuro","Ryota-senpai's got that side to him, doesn't
+he?");
 ChEyeOpenLevel(1,0);
 ChCheek(1,5);
 ChEye(2,0);
@@ -81,8 +81,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130A00100_06_030");
-MsgDisp("Himuro","Then why don't we have her rank us
-right here, right now?");
+MsgDisp("Himuro","Then why don't we have her rank us right
+here, right now?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
@@ -101,8 +101,8 @@ ChMotion(6,4);
 VoicePlay("D130A00100_06_040");
 MsgDisp("Himuro","Then, if you would please.");
 MsgDisp("主人公","(Ehh∋
-You can't just ask me something like that
-so suddenly...)");
+You can't just ask me something like that so
+suddenly...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

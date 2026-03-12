@@ -58,8 +58,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D150004600_06_030");
 MsgDisp("Himuro","I'm not even angry.
-Well, I wouldn't mind a nice food and
-drink combo.");
+Well, I wouldn't mind a nice food and drink
+combo.");
 MsgDisp("主人公","(He really doesn't seem angry.
 ...Why are we talking about this?)");
 BGMStop();

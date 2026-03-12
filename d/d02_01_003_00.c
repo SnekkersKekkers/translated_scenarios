@@ -55,8 +55,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100300_01_040");
-MsgDisp("Kazama","Every time I talk to my dad, you just
-happen to be here.");
+MsgDisp("Kazama","Every time I talk to my dad, you just happen
+to be here.");
 MsgDisp("主人公","Like I thought, it was your dad...
 ｛Kazama＊＊｝, are you going to England?");
 ChMotion(1,0);
@@ -70,9 +70,8 @@ ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("D020100300_01_060");
-MsgDisp("Kazama","I promised my dad I would help out with
-the business there after I graduated high
-school.");
+MsgDisp("Kazama","I promised my dad I would help out with the
+business there after I graduated high school.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -111,7 +110,7 @@ ChMouth(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D020100300_01_110");
 MsgDisp("Kazama","Because I'm a coward, I'm stuck trying to
-have it both ways...It's inconsiderate to
+have it both ways... It's inconsiderate to
 dad's business, and to my grandpa.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.3,0.6);

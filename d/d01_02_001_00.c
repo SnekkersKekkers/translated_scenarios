@@ -17,13 +17,13 @@ Thank you, but I'm fine.");
 ChEye(2,0);
 ChMouth(2,0);
 VoicePlay("D010200100_39_000");
-MsgDisp("Manager","Oy, Sassa. You're still an athlete, even
-though it's your first year. Warm up
-properly.");
+MsgDisp("Manager","Oy, Sassa.
+You're still an athlete, even though it's
+your first year. Warm up properly.");
 ChMotion(2,2);
 VoicePlay("D010200100_40_010");
-MsgDisp("Member","But Captain, I guess Sassa doesn't even
-need to warm up.
+MsgDisp("Member","But Captain, I guess Sassa doesn't even need
+to warm up.
 ...Right?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -53,8 +53,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","The final event, the 1500 meter race...
 ｛Sassa＊＊｝, good luck!");
 VoicePlay("D010200100_40_030");
-MsgDisp("Member","With such a large gap in scores, no
-matter how he runs, he'll win.");
+MsgDisp("Member","With such a large gap in scores, no matter
+how he runs, he'll win.");
 MsgDisp("主人公","What...?");
 VoicePlay("D010200100_40_040");
 MsgDisp("Member","That guy will win no matter what.
@@ -117,17 +117,17 @@ event...");
 MsgDisp("主人公","(Eh...
 Was that ｛Sassa＊＊｝'s voice just now?)");
 VoicePlay("D010200100_39_080");
-MsgDisp("Manager","That's enough. Sassa is just competing on
-a different level from us. Nothing we say
-will change his mind.");
+MsgDisp("Manager","That's enough.
+Sassa is just competing on a different level
+from us. Nothing we say will change his mind.");
 VoicePlay("D010200100_02_060");
 MsgDisp("Sassa","I...
 I just want to be the best.
 I'm a track and field idiot...");
 VoicePlay("D010200100_40_090");
-MsgDisp("Member","How is that fine? It's our last year. If
-you win them all, then the losers won't
-get any recognition.");
+MsgDisp("Member","How is that fine?
+It's our last year. If you win them all, then
+the losers won't get any recognition.");
 VoicePlay("D010200100_39_100");
 MsgDisp("Manager","Whatever, it's fine.
 Sassa, get dressed and let's go.");
@@ -150,8 +150,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D010200100_02_090");
 MsgDisp("Sassa","Yeah.
-I thought it would be a big deal to win
-all of the events, but it wasn't at all.");
+I thought it would be a big deal to win all
+of the events, but it wasn't at all.");
 MsgDisp("主人公","No, that's not true.
 I think it's really amazing.");
 ChEye(2,2);

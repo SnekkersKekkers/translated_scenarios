@@ -40,8 +40,8 @@ ChMouth(6,0);
 ChMotion(6,5);
 ChCheek(6,0);
 MsgDisp("主人公","Is that so?
-｛Himuro＊＊｝, did you have something you
-wanted to see me for?");
+｛Himuro＊＊｝, did you have something you wanted
+to see me for?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -86,8 +86,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D130C00001_05_030");
-MsgDisp("Hiiragi","But he has a point about not knowing
-until we see what happens.
+MsgDisp("Hiiragi","But he has a point about not knowing until we
+see what happens.
 I'm looking forward to it a little.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

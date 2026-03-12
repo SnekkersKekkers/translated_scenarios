@@ -12,8 +12,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A05000_06_000");
 MsgDisp("Himuro","Yes.
-To be honest, I don't feel very
-comfortable.");
+To be honest, I don't feel very comfortable.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -61,9 +60,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("D140A05000_01_020");
-MsgDisp("Kazama","Of course right? Our history together
-isn't something that started today or
-yesterday. Right?");
+MsgDisp("Kazama","Of course right?
+Our history together isn't something that
+started today or yesterday. Right?");
 MsgDisp("主人公","Erm...?");
 ChEyeOpenLevel(1,0);
 ChEye(2,0);

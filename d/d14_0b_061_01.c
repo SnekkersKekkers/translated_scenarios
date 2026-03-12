@@ -35,7 +35,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B06101_01_010");
 MsgDisp("Kazama","He got what he deserves.
 That's his fault for not being here.");
-MsgDisp("主人公","? Are you talking about ｛Honda＊＊｝?");
+MsgDisp("主人公","?
+Are you talking about ｛Honda＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -54,8 +55,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B06101_01_030");
-MsgDisp("Kazama","Nanatsumori, both of them are super slow,
-so don't worry.");
+MsgDisp("Kazama","Nanatsumori, both of them are super slow, so
+don't worry.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);

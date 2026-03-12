@@ -43,9 +43,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D140A06001_01_030");
-MsgDisp("Kazama","I'm not saying it's an especially bad
-thing. That the two of them are going out,
-I guess.");
+MsgDisp("Kazama","I'm not saying it's an especially bad thing.
+That the two of them are going out, I guess.");
 MsgDisp("主人公","Umm...yeah.
 Maybe we have been going out recently.");
 ChEye(1,2);
@@ -53,8 +52,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06001_01_040");
-MsgDisp("Kazama","Haa...that's why we asked you if anything
-had happened today.");
+MsgDisp("Kazama","Haa...that's why we asked you if anything had
+happened today.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -86,11 +85,10 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06001_01_070");
-MsgDisp("Kazama","Tell him to spend his allowance more
-wisely.
+MsgDisp("Kazama","Tell him to spend his allowance more wisely.
 ...Geez.");
-MsgDisp("主人公","(I see, both of them are worried about me
-and ｛Sassa＊＊｝...)");
+MsgDisp("主人公","(I see, both of them are worried about me and
+｛Sassa＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

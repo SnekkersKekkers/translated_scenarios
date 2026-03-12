@@ -37,9 +37,9 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("D020801000_08_050");
-MsgDisp("Shirahane","If I could be your number one it would be
-the first time I've gotten first place in
-my life.");
+MsgDisp("Shirahane","If I could be your number one it would be the
+first time I've gotten first place in my
+life.");
 MsgDisp("主人公","｛Daichi＊＊｝...");
 ChEye(8,4);
 ChMouth(8,5);
@@ -52,8 +52,8 @@ ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("D020801000_08_070");
-MsgDisp("Shirahane","We have to wait until the graduation
-ceremony for the true ending.");
+MsgDisp("Shirahane","We have to wait until the graduation ceremony
+for the true ending.");
 ChEyeOpenLevel(8,0);
 MsgDisp("主人公","(｛Daichi＊＊｝...
 Right, graduation will be soon...)");

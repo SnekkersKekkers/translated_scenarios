@@ -10,6 +10,6 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140301059_03_010");
-MsgDisp("Honda","There's an element of surprise to a hero
-who likes pancakes. It's interesting. I
-wonder what kind of student they wereー.");
+MsgDisp("Honda","There's an element of surprise to a hero who
+likes pancakes. It's interesting.
+I wonder what kind of student they wereー.");

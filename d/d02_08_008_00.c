@@ -6,8 +6,7 @@ ScrFadeIn(0);
 VoicePlay("D020800800_08_000");
 MsgDisp("Shirahane","......");
 MsgDisp("主人公","(Huh?
-Is ｛Daichi＊＊｝ not feeling well
-today...)");
+Is ｛Daichi＊＊｝ not feeling well today...)");
 SEPlay("EV_SE_519");
 SEWait();
 VoicePlay("D020800800_36_000");
@@ -17,7 +16,8 @@ ChEye(8,5);
 ChMouth(8,2);
 ChMotion(8,5,1);
 VoicePlay("D020800800_08_010");
-MsgDisp("Shirahane","∈ My bad!");
+MsgDisp("Shirahane","∈
+My bad!");
 MsgDisp("主人公","I can help you out too!
 ｛Daichi＊＊｝, let's guide the car.");
 ChEye(8,2);
@@ -52,8 +52,7 @@ ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("D020800800_08_050");
 MsgDisp("Shirahane","It's not anything ya can help with.
-It's something I have to decide for
-myself.");
+It's something I have to decide for myself.");
 ChEye(8,3);
 ChMouth(8,4);
 ChMotion(8,0,1);
@@ -64,8 +63,8 @@ MsgDisp("Shirahane","...I...
 MsgDisp("主人公","A goal?");
 VoicePlay("D020800800_08_070");
 MsgDisp("Shirahane","Yeah.
-So I need to draw the line, for my own
-sake and for yours.");
+So I need to draw the line, for my own sake
+and for yours.");
 MsgDisp("主人公","(｛Daichi＊＊｝ isn't his usual self.
 I wonder what his goal is...?)");
 MsgClose();

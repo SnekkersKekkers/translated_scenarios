@@ -15,15 +15,14 @@ ChMotion(7,2);
 VoicePlay("D140C04000_07_000");
 MsgDisp("Mikage","Seems like it.
 Is that guy eating a proper lunch?");
-MsgDisp("主人公","Between the student council and the
-theatre troupe, he seems really busy...");
+MsgDisp("主人公","Between the student council and the theatre
+troupe, he seems really busy...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140C04000_06_010");
 MsgDisp("Himuro","Let's eat quickly then buy a perfect score
-anpan to drop into the student council
-room.");
+anpan to drop into the student council room.");
 MsgDisp("主人公","Yeah, let's do that.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -31,8 +30,8 @@ ChMotion(7,1);
 VoicePlay("D140C04000_07_010");
 MsgDisp("Mikage","I want him to get a perfect score.");
 MsgDisp("主人公","That's right.
-He works so hard at student council and
-the theater troupe, and studies hard too.");
+He works so hard at student council and the
+theater troupe, and studies hard too.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
@@ -54,8 +53,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("D140C04000_07_030");
 MsgDisp("Mikage","You're laughing, huh?");
-MsgDisp("主人公","(I hope we can have lunch with
-｛Hiiragi＊＊＊｝ next time...)");
+MsgDisp("主人公","(I hope we can have lunch with ｛Hiiragi＊＊＊｝
+next time...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -9,6 +9,6 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("D140201060_02_010");
-MsgDisp("Sassa","An alumnus of our school is supplying a
-large amount of beef for dirt cheap.
+MsgDisp("Sassa","An alumnus of our school is supplying a large
+amount of beef for dirt cheap.
 They're a generous person.");

@@ -48,8 +48,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A05101_01_020");
-MsgDisp("Kazama","...I'm saying, don't make us have to
-worry about you.");
+MsgDisp("Kazama","...I'm saying, don't make us have to worry
+about you.");
 ChEyeOpenLevel(1,0);
 ChEye(2,0);
 ChMouth(2,4);
@@ -67,8 +67,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A05101_06_030");
-MsgDisp("Himuro","I'm curious about how you and
-Nozomu-senpai spend your time together.");
+MsgDisp("Himuro","I'm curious about how you and Nozomu-senpai
+spend your time together.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -89,23 +89,23 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A05101_06_040");
-MsgDisp("Himuro","Ryota-senpai also seems very interested,
-so please go ahead.");
+MsgDisp("Himuro","Ryota-senpai also seems very interested, so
+please go ahead.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 VoicePlay("D140A05101_02_040");
-MsgDisp("Sassa","We don't really talk about anything
-special. We talk about school a lot? And
-Mikage-sensei, Ryota and Inori too.");
+MsgDisp("Sassa","We don't really talk about anything special.
+We talk about school a lot?
+And Mikage-sensei, Ryota and Inori too.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05101_01_050");
 MsgDisp("Kazama","Hmm, that's reassuring.
-I think I would pity her if you talked
-about stuff like training and muscles.");
+I think I would pity her if you talked about
+stuff like training and muscles.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

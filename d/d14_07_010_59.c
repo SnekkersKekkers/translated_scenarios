@@ -10,6 +10,5 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D140701059_07_010");
 MsgDisp("Mikage","But the student who always ate this was
-apparently a delinquent.
-A troublemaker with a sweet tooth is
-kinda cute, huh?");
+apparently a delinquent. A troublemaker with
+a sweet tooth is kinda cute, huh?");

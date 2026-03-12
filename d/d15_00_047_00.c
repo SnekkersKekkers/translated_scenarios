@@ -10,8 +10,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D150004700_07_000");
-MsgDisp("Mikage","Ahh, that makes me want to take some home
-for dinner.");
+MsgDisp("Mikage","Ahh, that makes me want to take some home for
+dinner.");
 MsgDisp("主人公","That's a good idea!
 I wish my mom could try it too.");
 ChEye(4,0);
@@ -24,9 +24,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D150004700_07_010");
 MsgDisp("Mikage","True...Oh. Should I try suggesting to Vice
-Principal Himuro that the parents visit
-the cafeteria next time instead of
-classes?");
+Principal Himuro that the parents visit the
+cafeteria next time instead of classes?");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -44,8 +43,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("D150004700_07_030");
 MsgDisp("Mikage","Right?
-Today is the faculty meeting so I'll put
-it on the agenda.");
+Today is the faculty meeting so I'll put it
+on the agenda.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2);

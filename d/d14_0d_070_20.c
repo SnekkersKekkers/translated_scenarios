@@ -47,9 +47,9 @@ VoicePlay("D140D07020_22_030");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
-MsgDisp("Hikaru","According to Hikaru's sources, it's said
-that it was a precious gift from his
-Father, who used to be an athlete.");
+MsgDisp("Hikaru","According to Hikaru's sources, it's said that
+it was a precious gift from his Father, who
+used to be an athlete.");
 VoicePlay("D140D07020_21_040");
 ChEye(21,4);
 ChMouth(21,3);

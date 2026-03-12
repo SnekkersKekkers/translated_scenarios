@@ -27,9 +27,9 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900800_09_020");
-MsgDisp("Kuya","That kid's paper cranes got caught in a
-bush and fell apart. So I was helping him
-remake the broken ones.");
+MsgDisp("Kuya","That kid's paper cranes got caught in a bush
+and fell apart.
+So I was helping him remake the broken ones.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -49,16 +49,16 @@ ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Come to think of it, isn't it a bit
-unusual for you to be around here?");
+MsgDisp("主人公","Come to think of it, isn't it a bit unusual
+for you to be around here?");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900800_09_040");
-MsgDisp("Kuya","I got off of the bus because that kid
-looked like he was in trouble.");
-MsgDisp("主人公","Hehe, whenever you see someone in trouble
-you have to help them, huh?");
+MsgDisp("Kuya","I got off of the bus because that kid looked
+like he was in trouble.");
+MsgDisp("主人公","Hehe, whenever you see someone in trouble you
+have to help them, huh?");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -66,8 +66,8 @@ VoicePlay("D030900800_09_050");
 MsgDisp("Kuya","But unlike last time, I helped the right
 person, right?");
 MsgDisp("主人公","Hehe!
-But you know, I never expected I'd run
-into Kuya-san on the route to school.");
+But you know, I never expected I'd run into
+Kuya-san on the route to school.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -79,7 +79,7 @@ ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
-MsgDisp("主人公","Ah...Come to think of it, you're a senior
+MsgDisp("主人公","Ah... Come to think of it, you're a senior
 now, so exams are coming up.
 Have you decided on a career path?");
 ChEye(9,0);

@@ -12,8 +12,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("D150003701_03_010");
-MsgDisp("Honda","You can tell a person's state of mind by
-what food they choose to eat, right?");
+MsgDisp("Honda","You can tell a person's state of mind by what
+food they choose to eat, right?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -21,8 +21,8 @@ VoicePlay("D150003701_07_000");
 MsgDisp("Mikage","That's true.
 Sometimes you unconsciously make that
 decision.");
-MsgDisp("主人公","Being able to tell what a person is like
-by what they eat is kind of like fortune
+MsgDisp("主人公","Being able to tell what a person is like by
+what they eat is kind of like fortune
 telling.");
 ChEye(3,3);
 ChMouth(3,3);

@@ -2,14 +2,13 @@ BGOpen("ho210",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I finished my summer homework.
-Time to take a break and watch some
-TV——)");
+Time to take a break and watch some TV——)");
 SEPlay("EV_SE_721",0,0.6);
 SEWait();
 VoicePlay("D010300700_43_000");
-MsgDisp("Moderator","Correct answer∈ And the winner of the
-\"Quiz Brain Interhigh\" is Habataki
-Academy's second year student——");
+MsgDisp("Moderator","Correct answer∈
+And the winner of the \"Quiz Brain Interhigh\"
+is Habataki Academy's second year student——");
 MsgDisp("主人公","(Eh...)");
 MsgClose();
 ScrFadeOut(0);
@@ -36,8 +35,8 @@ MsgDisp("Honda","Yeah, this is the best!");
 StlEye(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300700_03_010");
-MsgDisp("Honda","This crown and cape really make me look
-like a Quiz King, huh?");
+MsgDisp("Honda","This crown and cape really make me look like
+a Quiz King, huh?");
 VoicePlay("D010300700_43_030");
 MsgDisp("Moderator","Yes, it really suits you.
 Is there anyone you would like to thank?");
@@ -51,8 +50,8 @@ VoicePlay("D010300700_43_040");
 MsgDisp("Moderator","Honda-kun, you and your family seem very
 close!");
 VoicePlay("D010300700_43_050");
-MsgDisp("Moderator","The live broadcast of this year's \"Quiz
-Brain Interhigh\" will end here.
+MsgDisp("Moderator","The live broadcast of this year's \"Quiz Brain
+Interhigh\" will end here.
 Tune in again next year～!");
 StlEye(3,0);
 StlMouth(3,0);
@@ -66,8 +65,8 @@ MsgClose();
 ScrFadeOut(0);
 StlClose();
 MsgDisp("主人公","(Hehe! Got cut off mid-sentence, but
-｛Honda＊＊｝ was amazing... Maybe I can
-interview him for Habatcher?)");
+｛Honda＊＊｝ was amazing...
+Maybe I can interview him for Habatcher?)");
 MsgClose();
 Wait(40,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -94,8 +93,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D010300700_03_050");
-MsgDisp("Honda","I actually got crowned the Quiz King
-today.");
+MsgDisp("Honda","I actually got crowned the Quiz King today.");
 MsgDisp("主人公","I saw it on TV!
 Congratulations, you were amazing.");
 ChEye(3,0);
@@ -135,9 +133,9 @@ ChClose(3);
 MsgDisp("主人公","(I'm glad he didn't shout my name on TV...
 It would be troublesome when we go back to
 school after break...)");
-MsgDisp("主人公","(Ah! Didn't I want to interview
-｛Honda＊＊｝? Quick, let's go after him
-while he's still nearby!)");
+MsgDisp("主人公","(Ah! Didn't I want to interview ｛Honda＊＊｝?
+Quick, let's go after him while he's still
+nearby!)");
 SEPlay("EV_SE_DOOR_022");
 SEWait();
 SEPlay("EV_SE_DOOR_023");

@@ -21,9 +21,9 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("D100D00000_21_000");
-MsgDisp("Michiru","That's right. A new feeling has been born
-in Mari's pure maiden heart. ...Haven't
-you noticed?");
+MsgDisp("Michiru","That's right.
+A new feeling has been born in Mari's pure
+maiden heart. ...Haven't you noticed?");
 ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);
@@ -35,18 +35,18 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D100D00000_22_020");
-MsgDisp("Hikaru","Hikaru will tell you all about your
-heart's garden— about what's going on in
-\"Mari's Garden\"♪");
+MsgDisp("Hikaru","Hikaru will tell you all about your heart's
+garden— about what's going on in \"Mari's
+Garden\"♪");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("D100D00000_21_010");
 MsgDisp("Michiru","The garden is a bit lonely right now but
 maybe someday it will be beautiful?");
-MsgDisp("主人公","(Mari's Garden...My maiden heart? If I
-call ｛ひかる＊｝, she can tell me
-what's going on!)");
+MsgDisp("主人公","(Mari's Garden...
+My maiden heart? If I call ｛ひかる＊｝,
+she can tell me what's going on!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -104,14 +104,13 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("D120A00000_02_020");
 MsgDisp("Sassa","Crap.
-Everyone back up a bit, it's going to
-spill.");
+Everyone back up a bit, it's going to spill.");
 StlEye(6,1,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("D120A00000_06_030");
-MsgDisp("Himuro","It looks like Ryota-senpai isn't the only
-one who gets special treatment huh?");
+MsgDisp("Himuro","It looks like Ryota-senpai isn't the only one
+who gets special treatment huh?");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_060");

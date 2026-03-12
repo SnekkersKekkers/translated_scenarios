@@ -20,7 +20,6 @@ ChClose(9);
 MsgDisp("主人公","(Wow, he seems really busy...)");
 MsgDisp("主人公","......");
 MsgDisp("主人公","(Yeah.
-I should stop getting in Kuya-san's
-way...)");
+I should stop getting in Kuya-san's way...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -2,8 +2,8 @@ BGOpen("ho210",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Come to think of it, it's already
-Christmas...I wonder if Kuya-san is still
-working hard.)");
+Christmas...
+I wonder if Kuya-san is still working hard.)");
 SEPlay("EV_SE_577");
 MsgDisp("主人公","(Ah...a private number!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -38,9 +38,9 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901700_09_020");
-MsgDisp("Kuya","But you know...I'm sorry.
-Even though it's Christmas, I didn't bring
-you a gift.");
+MsgDisp("Kuya","But you know...
+I'm sorry. Even though it's Christmas, I
+didn't bring you a gift.");
 MsgDisp("主人公","It's fine.
 I didn't bring anything either.");
 MsgClose();
@@ -85,9 +85,9 @@ from you and this city.");
 StlEye(9,1);
 StlMouth(9,1);
 VoicePlay("D030901700_09_080");
-MsgDisp("Kuya","It almost feels unreal that just a year
-ago, I was just drifting along like an
-empty shell of a person.");
+MsgDisp("Kuya","It almost feels unreal that just a year ago,
+I was just drifting along like an empty shell
+of a person.");
 MsgDisp("主人公","An empty shell, how so...");
 StlEye(9,1,0);
 StlMouth(9,1);
@@ -112,8 +112,8 @@ MsgClose();
 ChOpen(9,255,0,3,0,8,#1,8,0);
 ScrFadeIn(0);
 VoicePlay("D030901700_09_110");
-MsgDisp("Kuya","...This is the kind of atmosphere lovers
-kiss in.");
+MsgDisp("Kuya","...This is the kind of atmosphere lovers kiss
+in.");
 MsgDisp("主人公","Eh?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -129,7 +129,8 @@ ChEyeOpenLevel(9,6);
 VoicePlay("D030901700_09_130");
 MsgDisp("Kuya","And that already happened, huh?
 We kissed once.");
-MsgDisp("主人公","! That was...");
+MsgDisp("主人公","!
+That was...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -152,9 +153,9 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ScrFadeIn(0);
 VoicePlay("D030901700_09_160");
-MsgDisp("Kuya","I got such a big present this year. Time
-for the final push—I'll study hard to get
-into the same university as you.");
+MsgDisp("Kuya","I got such a big present this year.
+Time for the final push—I'll study hard to
+get into the same university as you.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

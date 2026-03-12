@@ -35,8 +35,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D130A00101_01_010");
-MsgDisp("Kazama","We were betting on who could find you
-first.");
+MsgDisp("Kazama","We were betting on who could find you first.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -49,8 +48,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("D130A00101_02_010");
-MsgDisp("Sassa","The prize is the right to take a photo
-with you.
+MsgDisp("Sassa","The prize is the right to take a photo with
+you.
 Since it's our last Christmas party.");
 ChEye(1,0);
 ChMouth(1,3);

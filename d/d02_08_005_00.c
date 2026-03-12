@@ -13,9 +13,9 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("D020800500_08_010");
-MsgDisp("Shirahane","I did too. But it seems like no matter how
-hard I try, I can't get perfect marks
-across the board.");
+MsgDisp("Shirahane","I did too.
+But it seems like no matter how hard I try, I
+can't get perfect marks across the board.");
 MsgDisp("主人公","Woah.
 ｛Daichi＊＊｝, are you actually really
 smart...");
@@ -23,8 +23,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800500_08_020");
-MsgDisp("Shirahane","I've gotten good grades since middle
-school.
+MsgDisp("Shirahane","I've gotten good grades since middle school.
 I'm always in the top 3.");
 MsgDisp("主人公","Amazing!
 I have to work hard too.");
@@ -45,12 +44,12 @@ ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("D020800500_08_050");
-MsgDisp("Shirahane","Right! Want to aim for a first-rate
-university together? I think we can do
-it～!");
-MsgDisp("主人公","(My career plans huh...University, hmm. I
-think ｛Daichi＊＊｝ could definitely get
-into a first-rate university!)");
+MsgDisp("Shirahane","Right!
+Want to aim for a first-rate university
+together? I think we can do it～!");
+MsgDisp("主人公","(My career plans huh...
+University, hmm. I think ｛Daichi＊＊｝ could
+definitely get into a first-rate university!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

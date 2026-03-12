@@ -63,8 +63,8 @@ MsgDisp("Kuya","Hmm.
 You can interview me, but I don't think it
 will be very interesting...");
 MsgDisp("主人公","Hehe.
-Okay, here comes the first question: How
-did you become a \"Jack Of All Trades\"?");
+Okay, here comes the first question: How did
+you become a \"Jack Of All Trades\"?");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,0,1);
@@ -80,8 +80,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900400_09_070");
 MsgDisp("Kuya","Yeah.");
-MsgDisp("主人公","Okay, here's the second question: Why is
-it rewarding to be a \"Jack Of All Trades\"?");
+MsgDisp("主人公","Okay, here's the second question: Why is it
+rewarding to be a \"Jack Of All Trades\"?");
 ChEye(9,2);
 ChMouth(9,4);
 ChMotion(9,0,1);
@@ -102,26 +102,25 @@ ChMotion(9,0,1);
 VoicePlay("D030900400_09_100");
 MsgDisp("Kuya","Hey, I told you, didn't I?
 There's no point in interviewing me.");
-MsgDisp("主人公","(What should I do...As things are, the
+MsgDisp("主人公","(What should I do... As things are, the
 interview is going no where.
 Maybe I should follow him around instead?)");
 MsgSel("Ask for a close coverage interview","Let's end here");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Understood.
-Kuya-san, if you don't mind, maybe we can
-do a close coverage interview?");
+Kuya-san, if you don't mind, maybe we can do
+a close coverage interview?");
     ChEye(9,3);
     ChMouth(9,4);
     ChMotion(9,4,1);
     ChEyeOpenLevel(9,10);
     VoicePlay("D030900400_09_110");
     MsgDisp("Kuya","A close coverage interview?
-Does that mean we'll be doing this
-forever?");
+Does that mean we'll be doing this forever?");
     MsgDisp("主人公","Well...
-It's not for forever but next time,
-Kuya-san and I can cover more topics.");
+It's not for forever but next time, Kuya-san
+and I can cover more topics.");
     ChEye(9,3);
     ChMouth(9,0);
     ChMotion(9,0,1);
@@ -132,11 +131,11 @@ So go ahead.");
     ChMotion(9,4,1);
     VoicePlay("D030900400_09_130");
     MsgDisp("Kuya","No problem. On that note, can you teach me
-about what's in \"style\" next time? I'm not
-good at that sort of thing.");
-    MsgDisp("主人公","(Alright! I'll learn more about Kuya-san
-next interview! I need to research what's
-in \"style\", too.)");
+about what's in \"style\" next time?
+I'm not good at that sort of thing.");
+    MsgDisp("主人公","(Alright! I'll learn more about Kuya-san next
+interview!
+I need to research what's in \"style\", too.)");
     break ;
     case 1:
     MsgDisp("主人公","(I'm having a hard time getting to know
@@ -150,9 +149,9 @@ Kuya-san...)");
 Is something troubling you?");
     MsgDisp("主人公","No, it's nothing.
 Thanks for your time today.");
-    MsgDisp("主人公","(Yeah. I don't think I'll be able to write
-an article on Kuya-san, maybe it's best to
-give up...)");
+    MsgDisp("主人公","(Yeah. I don't think I'll be able to write an
+article on Kuya-san, maybe it's best to give
+up...)");
     break ;
     default :
     DbgAssert(0);

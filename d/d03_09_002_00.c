@@ -10,25 +10,24 @@ VoicePlay("D030900200_31_000");
 MsgDisp("Goro","Good day～
 How is search for rough diamonds going?");
 MsgDisp("主人公","Ah, Goro-sensei!
-Actually, there's someone I'm interested
-in right now but...");
+Actually, there's someone I'm interested in
+right now but...");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,4);
 VoicePlay("D030900200_31_010");
 MsgDisp("Goro","Ah, what kind of person?");
-MsgDisp("主人公","He's a kind person that always helps those
-in trouble. But the only other thing I
-know is that his name is \"Kuya\"...");
+MsgDisp("主人公","He's a kind person that always helps those in
+trouble. But the only other thing I know is
+that his name is \"Kuya\"...");
 VoicePlay("D030900200_45_000");
 MsgDisp("Mayo","Eh, \"Kuya\"?");
 VoicePlay("D030900200_41_010");
-MsgDisp("Tanaka Shin","That \"Kuya\" you're talking about is
-probably Mayo-senpai's...");
+MsgDisp("Tanaka Shin","That \"Kuya\" you're talking about is probably
+Mayo-senpai's...");
 SEPlay("EV_SE_GAYA_024",0,0.9);
 Wait(60,1);
-MsgDisp("主人公","(The editorial department is all riled
-up...
+MsgDisp("主人公","(The editorial department is all riled up...
 I wonder why?)");
 SEWait();
 ChEye(31,4);

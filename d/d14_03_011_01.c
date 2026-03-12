@@ -25,8 +25,8 @@ sharing our thoughts is nice too.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("D140301101_03_020");
-    MsgDisp("Honda","That's why, I'm super happy we got the
-same thing!");
+    MsgDisp("Honda","That's why, I'm super happy we got the same
+thing!");
     break ;
     default :
     DbgAssert(1);

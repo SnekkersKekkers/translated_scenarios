@@ -21,16 +21,16 @@ ChMotion(7,0);
 VoicePlay("D010700600_07_020");
 MsgDisp("Mikage","You didn't have anything more fun to do
 today?");
-MsgDisp("主人公","Nothing in particular. But you know, isn't
-it fun to hang out with your friends and
-teachers on off days?");
+MsgDisp("主人公","Nothing in particular.
+But you know, isn't it fun to hang out with
+your friends and teachers on off days?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D010700600_07_030");
-MsgDisp("Mikage","Ahh, I get that. It's something new and
-different from school. ...Should we wait a
-bit longer?");
+MsgDisp("Mikage","Ahh, I get that.
+It's something new and different from school.
+...Should we wait a bit longer?");
 MsgClose();
 ChClose(7);
 MsgDisp("","　　　　　　　　　　 ・
@@ -40,19 +40,19 @@ MsgClose();
 ChOpen(7,254,0,2,0,#1,#1,0,0);
 VoicePlay("D010700600_07_040");
 MsgDisp("Mikage","Nobody's coming. Even if we call it an
-extracurricular activity... Yeah, I guess
-we should cancel today?");
+extracurricular activity...
+Yeah, I guess we should cancel today?");
 MsgDisp("主人公","Ah, okay...
 I guess so.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D010700600_07_050");
-MsgDisp("Mikage","Should we forget the extracurricular 
-lesson and just have some fun?");
-MsgDisp("主人公","Yes! Yay!
-That means I don't have to submit
-a report.");
+MsgDisp("Mikage","Should we forget the extracurricular lesson
+and just have some fun?");
+MsgDisp("主人公","Yes!
+Yay!
+That means I don't have to submit a report.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -121,8 +121,8 @@ ChOpen(7,254,1,2,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700600_07_110");
 MsgDisp("Mikage","A complete defeat～");
-MsgDisp("主人公","｛Mikage＊＊｝, is it really your first
-time bowling?");
+MsgDisp("主人公","｛Mikage＊＊｝, is it really your first time
+bowling?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -140,9 +140,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("D010700600_07_140");
-MsgDisp("Mikage","I went to high school overseas. Because I
-skipped a grade, I was younger than my
-classmates and didn't have any friends.");
+MsgDisp("Mikage","I went to high school overseas.
+Because I skipped a grade, I was younger than
+my classmates and didn't have any friends.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -160,8 +160,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D010700600_07_170");
 MsgDisp("Mikage","See you later then.
-Next time when nobody shows up, we can
-play some more～");
+Next time when nobody shows up, we can play
+some more～");
 MsgDisp("主人公","Y-Yes!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

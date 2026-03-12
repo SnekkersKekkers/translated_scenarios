@@ -15,9 +15,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D140B05102_04_000");
-MsgDisp("Nanatsumori","Ah, that. The music show where they
-collabbed with different artists. It was
-super good.");
+MsgDisp("Nanatsumori","Ah, that.
+The music show where they collabbed with
+different artists. It was super good.");
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
 ChMouth(3,4);
@@ -62,8 +62,7 @@ VoicePlay("D140B05102_04_040");
 MsgDisp("Nanatsumori","Why are you sulking?");
 ChSet(3,0,1);
 VoicePlay("D140B05102_03_010");
-MsgDisp("Honda","Ryo-kun, did you actually want to watch
-it?");
+MsgDisp("Honda","Ryo-kun, did you actually want to watch it?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -94,8 +93,8 @@ ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B05102_03_020");
 MsgDisp("Honda","Then, let's resume our fun lunch time♪");
-MsgDisp("主人公","(So ｛Kazama＊＊｝ actually wanted to watch
-it too.
+MsgDisp("主人公","(So ｛Kazama＊＊｝ actually wanted to watch it
+too.
 But, they mentioned jealousy...?)");
 BGMStop();
 MsgClose();

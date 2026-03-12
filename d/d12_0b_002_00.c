@@ -21,8 +21,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D120B00200_01_000");
 MsgDisp("Kazama","I've been waiting for you.
-Why do I have to go to the coffee shop
-with these guys.");
+Why do I have to go to the coffee shop with
+these guys.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -76,8 +76,7 @@ StlMouthOpenLevel(3,0);
 VoicePlay("D120B00200_03_010");
 MsgDisp("Honda","......");
 MsgDisp("主人公","(Eh?
-Everyone has a scary look on their
-face...∋)");
+Everyone has a scary look on their face...∋)");
 StlEyeOpenLevel(4,0,1);
 StlMouth(4,0);
 VoicePlay("D120B00200_04_020");
@@ -87,8 +86,8 @@ StlEyeOpenLevel(3,#1);
 StlMouth(3,0);
 VoicePlay("D120B00200_03_020");
 MsgDisp("Honda","Right.
-I want an explanation from Ryo-kun that
-makes sense.");
+I want an explanation from Ryo-kun that makes
+sense.");
 StlEyeOpenLevel(1,0,1);
 StlMouth(1,1);
 VoicePlay("D120B00200_01_040");
@@ -116,8 +115,8 @@ StlEye(3,1);
 StlMouth(3,1);
 VoicePlay("D120B00200_03_040");
 MsgDisp("Honda","That's right!
-This is a behavior that all living
-creatures demonstrate.");
+This is a behavior that all living creatures
+demonstrate.");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D120B00200_01_060");
@@ -136,16 +135,15 @@ VoicePlay("D120B00200_01_080");
 MsgDisp("Kazama","And I won't lose from now on.");
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00200_03_050");
-MsgDisp("Honda","Come to think of it, Ryo-kun has been next
-to her ever since we started walking
-here.");
+MsgDisp("Honda","Come to think of it, Ryo-kun has been next to
+her ever since we started walking here.");
 StlEyeOpenLevel(4,5,1);
 StlMouth(4,1);
 VoicePlay("D120B00200_04_050");
-MsgDisp("Nanatsumori","Reserving your spot like that before we
-even sit is really smart...");
-MsgDisp("主人公","(Are they maybe talking about the way
-we're sitting...?)");
+MsgDisp("Nanatsumori","Reserving your spot like that before we even
+sit is really smart...");
+MsgDisp("主人公","(Are they maybe talking about the way we're
+sitting...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

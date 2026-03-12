@@ -15,8 +15,7 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900600_09_000");
 MsgDisp("Kuya","Hey.
-Did you come here to see me again today
-too?");
+Did you come here to see me again today too?");
 ChEye(9,2);
 ChMouth(9,4);
 ChMotion(9,2,1);
@@ -68,8 +67,8 @@ ChMotion(9,1,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900600_09_040");
 MsgDisp("Kuya","It's nothing.
-Getting to pick chestnuts in this town is
-a pretty rare experience.");
+Getting to pick chestnuts in this town is a
+pretty rare experience.");
 ChEyeOpenLevel(9,#1);
 VoicePlay("D030900600_36_030");
 MsgDisp("Man","Hahaha!
@@ -91,16 +90,16 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900600_09_060");
 MsgDisp("Kuya","That man is an \"art\"ist.
-He was on his way to set up the venue for
-his \"art\" exhibition.");
+He was on his way to set up the venue for his
+\"art\" exhibition.");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,1,1);
 VoicePlay("D030900600_09_070");
-MsgDisp("Kuya","He accidentally spilled all those
-chestnut props everywhere.");
-MsgDisp("主人公","Really, it's like this kind of thing
-follows you around, Kuya-san...");
+MsgDisp("Kuya","He accidentally spilled all those chestnut
+props everywhere.");
+MsgDisp("主人公","Really, it's like this kind of thing follows
+you around, Kuya-san...");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,0,1);
@@ -118,8 +117,8 @@ VoicePlay("D030900600_09_090");
 MsgDisp("Kuya","Oh, I get what you mean.
 I guess I can't deny that.");
 MsgDisp("主人公","Hehe! I thought that being a \"Jack of All
-Trades\" would be really tiresome but I
-guess that isn't the case?");
+Trades\" would be really tiresome but I guess
+that isn't the case?");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,0,1);
@@ -127,8 +126,8 @@ ChEyeOpenLevel(9,10);
 VoicePlay("D030900600_09_100");
 MsgDisp("Kuya","What do you mean?");
 MsgDisp("主人公","Even though you have to help people again,
-it's enjoyable. And I guess you also got
-some \"art\" experience?");
+it's enjoyable. And I guess you also got some
+\"art\" experience?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,3,1);
@@ -142,11 +141,12 @@ ChMouth(9,3);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,7);
 VoicePlay("D030900600_09_120");
-MsgDisp("Kuya","...Huh? Don't tell me you're becoming a
-\"Jack of All Trades\" too? Haha!");
+MsgDisp("Kuya","...Huh?
+Don't tell me you're becoming a \"Jack of All
+Trades\" too? Haha!");
 MsgDisp("主人公","(Kuya-san's penchant for getting involved
-hasn't changed, but I'm starting to see
-the appeal of a \"Jack of All Trades\"?)");
+hasn't changed, but I'm starting to see the
+appeal of a \"Jack of All Trades\"?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

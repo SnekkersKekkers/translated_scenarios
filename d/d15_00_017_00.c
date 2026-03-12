@@ -12,15 +12,15 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D150001700_01_000");
 MsgDisp("Kazama","Yeah.
-But I thought Mikage-sensei was a bento
-kind of person?");
+But I thought Mikage-sensei was a bento kind
+of person?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D150001700_07_010");
 MsgDisp("Mikage","I guess so.
-Sometimes you just want to eat something
-fun at lunch, I suppose.");
+Sometimes you just want to eat something fun
+at lunch, I suppose.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

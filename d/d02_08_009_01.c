@@ -16,11 +16,10 @@ MsgDisp("主人公","Uhm...
 Manager.
 Did Shirahane-kun take the day off?");
 VoicePlay("D020800901_40_000");
-MsgDisp("Manager","Ah, Daichi-kun called yesterday to say
-he's quitting his part-time job here.
+MsgDisp("Manager","Ah, Daichi-kun called yesterday to say he's
+quitting his part-time job here.
 It was so sudden, it surprised me...");
 MsgDisp("主人公","Eh∋");
-MsgDisp("主人公","(I won't see ｛Daichi＊＊｝ here
-anymore...)");
+MsgDisp("主人公","(I won't see ｛Daichi＊＊｝ here anymore...)");
 MsgClose();
 ScrFadeOut(0);

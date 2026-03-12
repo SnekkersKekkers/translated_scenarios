@@ -23,16 +23,15 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("D140B04000_03_010");
-MsgDisp("Honda","But, he told us to go have lunch as a
-three.
+MsgDisp("Honda","But, he told us to go have lunch as a three.
 Ryo-kun sure is kind.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D140B04000_04_020");
-MsgDisp("Nanatsumori","Well, we'll have to listen to his
-grumblings later.
+MsgDisp("Nanatsumori","Well, we'll have to listen to his grumblings
+later.
 We have to be prepared.");
 ChEye(3,3);
 ChMouth(3,3);
@@ -46,8 +45,8 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D140B04000_04_030");
-MsgDisp("Nanatsumori","That guy sure has a cute side to him
-doesn't he?");
+MsgDisp("Nanatsumori","That guy sure has a cute side to him doesn't
+he?");
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B04000_03_030");

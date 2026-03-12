@@ -11,8 +11,8 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("D150001401_04_010");
-MsgDisp("Nanatsumori","Look, how you switch between eating sweet
-and savoury at random.
+MsgDisp("Nanatsumori","Look, how you switch between eating sweet and
+savoury at random.
 Your choices are the best.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -24,8 +24,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("D150001401_04_020");
-MsgDisp("Nanatsumori","The best part of the cafeteria is seeing
-what you order.");
+MsgDisp("Nanatsumori","The best part of the cafeteria is seeing what
+you order.");
 MsgDisp("主人公","Ehh?
 It's hard to choose when you watch me like
 that...");
@@ -50,8 +50,7 @@ ChMotion(1,3);
 VoicePlay("D150001401_01_020");
 MsgDisp("Kazama","So please continue to order at random.
 Anything you wish.");
-MsgDisp("主人公","Geez, when you do that it's hard to
-decide!");
+MsgDisp("主人公","Geez, when you do that it's hard to decide!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,8 +5,8 @@ MsgClose();
 BGOpen("sc300",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I won't be able to study in this
-classroom for much longer...)");
+MsgDisp("主人公","(I won't be able to study in this classroom
+for much longer...)");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -17,8 +17,8 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝...it's just that I was
-thinking about how little time I have left
-in this classroom.");
+thinking about how little time I have left in
+this classroom.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -26,8 +26,8 @@ VoicePlay("D130A00200_06_010");
 MsgDisp("Himuro","Ah, right.
 I thought for sure you were thinking of
 Ryota-senpai.");
-MsgDisp("主人公","I wonder what ｛Kazama＊＊｝ is doing at
-this moment?");
+MsgDisp("主人公","I wonder what ｛Kazama＊＊｝ is doing at this
+moment?");
 VoicePlay("D130A00200_02_000");
 MsgDisp("Sassa?","Oh, you guys were here huh?
 What are you two up to?");
@@ -65,8 +65,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,5);
 VoicePlay("D130A00200_06_040");
-MsgDisp("Himuro","Everyone sure is worried about
-Ryota-senpai.");
+MsgDisp("Himuro","Everyone sure is worried about Ryota-senpai.");
 MsgDisp("主人公","What about you ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -80,8 +79,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D130A00200_02_040");
 MsgDisp("Sassa","But, that guy suddenly disappeared around
-elementary school and didn't come back for
-10 years...");
+elementary school and didn't come back for 10
+years...");
 MsgDisp("主人公","...Yeah...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -95,8 +94,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D130A00200_02_050");
 MsgDisp("Sassa","Ah, sorry sorry.
-It'll be alright, he said he would come
-back by graduation.");
+It'll be alright, he said he would come back
+by graduation.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -116,9 +115,9 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();
 ChClose(2,0,30);
 ChClose(6,0,30);
-MsgDisp("主人公","(Yeah, just like ｛Sassa＊＊｝ and
-｛Himuro＊＊｝ said. You'll come home soon,
-won't you ｛Kazama＊＊｝...)");
+MsgDisp("主人公","(Yeah, just like ｛Sassa＊＊｝ and ｛Himuro＊＊｝
+said. You'll come home soon, won't you
+｛Kazama＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 ChLayout(1);

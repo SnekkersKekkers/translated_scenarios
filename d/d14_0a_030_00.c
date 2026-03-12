@@ -48,8 +48,8 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("D140A03000_01_030");
 MsgDisp("Kazama","Shut up.
-I don't even know what you guys are
-talking about.");
+I don't even know what you guys are talking
+about.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -59,9 +59,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A03000_06_030");
-MsgDisp("Himuro","When just the sight of your beloved
-childhood friend makes you reflexively
-smile like that.");
+MsgDisp("Himuro","When just the sight of your beloved childhood
+friend makes you reflexively smile like that.");
 MsgDisp("主人公","Uhm...?");
 ChEye(1,0);
 ChMouth(1,2);

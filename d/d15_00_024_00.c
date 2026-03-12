@@ -17,8 +17,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("D150002400_02_010");
-MsgDisp("Sassa","Ahh, so when you're standing next to us
-you just look smaller.");
+MsgDisp("Sassa","Ahh, so when you're standing next to us you
+just look smaller.");
 MsgDisp("主人公","Hehe, you two are really tall.");
 ChEye(2,3);
 ChMouth(2,3);
@@ -47,8 +47,8 @@ ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("D150002400_04_020");
 MsgDisp("Nanatsumori","Your preferred height.
-Maybe you like tall or maybe not, that
-kind of thing.");
+Maybe you like tall or maybe not, that kind
+of thing.");
 MsgDisp("主人公","(Uhm...
 I guess I'd say bigger is better...?)");
 BGMStop();

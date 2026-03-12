@@ -6,8 +6,8 @@ MsgDisp("主人公","......");
 MsgDisp("主人公","(I feel like something's behind me...)");
 MsgClose();
 ScrFadeOut(0,0);
-MsgDisp("主人公","(I feel like someone's watching me from
-the rooftop...∋)");
+MsgDisp("主人公","(I feel like someone's watching me from the
+rooftop...∋)");
 MsgClose();
 StlOpen("ev_0b_03");
 StlEye(1,0);
@@ -24,16 +24,14 @@ I'm number one∈");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("D120B00100_01_000");
 MsgDisp("Kazama","No way.
-That timing right now, it was definitely
-me.");
+That timing right now, it was definitely me.");
 VoicePlay("D120B00100_04_000");
 MsgDisp("Nanatsumori","...You know, how would you even go about
 proving this experiment?");
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D120B00100_03_010");
 MsgDisp("Honda","I can tell by the way she looked at me.
-I was the first person to meet eyes with
-her.");
+I was the first person to meet eyes with her.");
 VoicePlay("D120B00100_04_010");
 MsgDisp("Nanatsumori","There's no way you could tell from this
 distance...");
@@ -75,8 +73,8 @@ StlClose();
 BGOpen("sc130",1);
 Wait(15,1);
 ScrFadeIn(0);
-MsgDisp("主人公","(They're all waving together...Hehe! I bet
-it's ｛Honda＊＊｝ who comes up with such
+MsgDisp("主人公","(They're all waving together...Hehe!
+I bet it's ｛Honda＊＊｝ who comes up with such
 weird games for them to play?)");
 MsgClose();
 ScrFadeOut(0,0);

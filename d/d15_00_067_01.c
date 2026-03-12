@@ -49,8 +49,8 @@ ChMouth(6,3);
 ChMotion(6,4);
 VoicePlay("D150006701_06_040");
 MsgDisp("Himuro","...Uh, okay.
-I like all of them but seafood flavor is
-my favorite.");
+I like all of them but seafood flavor is my
+favorite.");
 MsgDisp("主人公","(Hehe, ｛Himuro＊＊｝ seems to be enjoying
 himself. I'm looking forward to trying his
 recommendations!)");

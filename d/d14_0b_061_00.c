@@ -9,13 +9,13 @@ ChCheek(4,0);
 VoiceEVSPlay(3);
 VoicePlay("D140B06100_03_000");
 MsgDisp("Honda","｛主人公｝.
-It might be a bit sneaky to ask you this
-when Ryo-kun isn't around but.");
+It might be a bit sneaky to ask you this when
+Ryo-kun isn't around but.");
 MsgDisp("主人公","Hm?");
 ChMotion(3,1,1);
 VoicePlay("D140B06100_03_010");
-MsgDisp("Honda","Is Ryo-kun different to usual when it's
-just you two?");
+MsgDisp("Honda","Is Ryo-kun different to usual when it's just
+you two?");
 MsgDisp("主人公","Eh∋");
 ChEye(4,2);
 ChMouth(4,3);
@@ -44,9 +44,9 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("D140B06100_03_030");
-MsgDisp("Honda","Eh—! I want to hear! I've been into
-psychology lately. I want to know how love
-changes people's state of mind.");
+MsgDisp("Honda","Eh—! I want to hear!
+I've been into psychology lately. I want to
+know how love changes people's state of mind.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
@@ -74,10 +74,9 @@ ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("D140B06100_04_030");
 MsgDisp("Nanatsumori","...｛主人公｝.
-You've gotten pretty good at dodging
-Dahon.");
-MsgDisp("主人公","(｛Kazama＊＊｝....is a little kinder when
-it's just the two of us.
+You've gotten pretty good at dodging Dahon.");
+MsgDisp("主人公","(｛Kazama＊＊｝....is a little kinder when it's
+just the two of us.
 But, I can't say that right...?)");
 BGMStop();
 MsgClose();

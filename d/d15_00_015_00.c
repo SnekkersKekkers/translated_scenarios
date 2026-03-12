@@ -6,22 +6,21 @@ ChMouth(1,0);
 ChMotion(1,3);
 VoicePlay("D150001500_01_000");
 MsgDisp("Kazama","Hiiragi, what's wrong?
-You've been staring at your food for a
-while now.");
+You've been staring at your food for a while
+now.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("D150001500_05_000");
-MsgDisp("Hiiragi","Before I enjoy it, I enjoy it with my
-eyes.");
+MsgDisp("Hiiragi","Before I enjoy it, I enjoy it with my eyes.");
 MsgDisp("主人公","Hehe!");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("D150001500_05_010");
 MsgDisp("Hiiragi","Such color, shine and fragrance.
-It fills me with happiness even before I
-eat it.");
+It fills me with happiness even before I eat
+it.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

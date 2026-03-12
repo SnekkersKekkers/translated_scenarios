@@ -37,15 +37,15 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D130B00101_03_010");
 MsgDisp("Honda","But the party isn't over yet.
-Let's all have fun hanging out, and make
-some good memories today!");
+Let's all have fun hanging out, and make some
+good memories today!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D130B00101_01_010");
 MsgDisp("Kazama","Yeah, that's right.
-For the first time I feel like I
-understand Honda's value.");
+For the first time I feel like I understand
+Honda's value.");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
@@ -57,8 +57,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("D130B00101_04_010");
 MsgDisp("Nanatsumori","I get it.
-Kazama and I are two people who can't
-really change the mood.");
+Kazama and I are two people who can't really
+change the mood.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -76,8 +76,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("D130B00101_03_040");
-MsgDisp("Honda","You know, the four of us made a lot of
-good memories together...
+MsgDisp("Honda","You know, the four of us made a lot of good
+memories together...
 I'm really grateful for Haba High.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -117,8 +117,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D130B00101_01_060");
-MsgDisp("Kazama","...When you say it all pretty like
-that——");
+MsgDisp("Kazama","...When you say it all pretty like that——");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -151,8 +150,8 @@ VoicePlay("D130B00101_01_080");
 MsgDisp("Kazama","No way!
 Ahahaha!");
 MsgDisp("主人公","(Hehe!
-I have so many good memories with these
-guys, just now was a new one!)");
+I have so many good memories with these guys,
+just now was a new one!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

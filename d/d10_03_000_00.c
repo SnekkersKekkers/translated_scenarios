@@ -19,7 +19,8 @@ VoicePlay("D100300000_03_010");
 MsgDisp("Honda","Sniff sniff...
 Huh?
 It's gone.");
-MsgDisp("主人公","Ehh∈ What is it?");
+MsgDisp("主人公","Ehh∈
+What is it?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(3);
 ChLayout(1);

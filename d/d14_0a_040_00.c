@@ -12,8 +12,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A04000_06_000");
 MsgDisp("Himuro","That's unusual.
-I can't believe Ryota-senpai let us go to
-the school cafeteria by ourselves.");
+I can't believe Ryota-senpai let us go to the
+school cafeteria by ourselves.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -30,9 +30,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A04000_02_020");
-MsgDisp("Sassa","That's quite possible. Inori, quick. Is
-there anything we can talk about now that
-Ryota is gone?");
+MsgDisp("Sassa","That's quite possible.
+Inori, quick. Is there anything we can talk
+about now that Ryota is gone?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -54,16 +54,15 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140A04000_06_040");
-MsgDisp("Himuro","What do you think about Ryota-senpai's
-bangs?");
+MsgDisp("Himuro","What do you think about Ryota-senpai's bangs?");
 MsgDisp("主人公","Eh, his bangs?
 What I think about them...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A04000_02_040");
-MsgDisp("Sassa","You know, especially the one at the top
-that sticks out.");
+MsgDisp("Sassa","You know, especially the one at the top that
+sticks out.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
@@ -90,8 +89,8 @@ ChMotion(2,2);
 VoicePlay("D140A04000_02_060");
 MsgDisp("Sassa","Ryota, this way!");
 MsgDisp("主人公","(Hehe! The conversation about ｛Kazama＊＊｝
-was funny. But I worry what they'd say
-about me when I'm not here...)");
+was funny. But I worry what they'd say about
+me when I'm not here...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -22,8 +22,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D130B00100_03_000");
 MsgDisp("Honda","Look, look!
-I brought a lot of cake so let's all eat
-it together!");
+I brought a lot of cake so let's all eat it
+together!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -35,8 +35,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D130B00100_01_010");
 MsgDisp("Kazama","Wait.
-At times like this, it's ladies first
-right?");
+At times like this, it's ladies first right?");
 MsgDisp("主人公","Hehe.
 Hmm, then which one should I choose?");
 ChEye(4,1);
@@ -56,8 +55,8 @@ MsgDisp("Honda","......");
 ChMouthOpenLevel(4,0);
 VoicePlay("D130B00100_04_010");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","...Hey, it's a bit embarrassing if you
-stare at me like that.");
+MsgDisp("主人公","...Hey, it's a bit embarrassing if you stare
+at me like that.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

@@ -29,8 +29,8 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Since the last Inter-High ｛Sassa＊＊｝ has
-slowly been improving. I'm looking forward
-to seeing today's results!)");
+slowly been improving. I'm looking forward to
+seeing today's results!)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -88,9 +88,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D010200600_02_060");
-MsgDisp("Sassa","Yeah. Just like my senpai told me during
-the second Inter-High. I need to do it my
-way until the end.");
+MsgDisp("Sassa","Yeah. Just like my senpai told me during the
+second Inter-High.
+I need to do it my way until the end.");
 MsgDisp("主人公","Yeah.
 I'm sure you can do it and win it all!");
 ChEye(2,4);
@@ -98,13 +98,12 @@ ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("D010200600_02_070");
 MsgDisp("Sassa","Alright!
-I'll give it my all too for the final
-events.");
+I'll give it my all too for the final events.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Ever since ｛Sassa＊＊｝ got encouraged by
-his senpai, his time keeps improving...!)");
+MsgDisp("主人公","(Ever since ｛Sassa＊＊｝ got encouraged by his
+senpai, his time keeps improving...!)");
 ChPrmTblAdd(2,0);

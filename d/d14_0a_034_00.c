@@ -38,8 +38,8 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A03400_06_010");
 MsgDisp("Himuro","Well, yeah.
-His possessiveness is so strong it's
-almost refreshing.");
+His possessiveness is so strong it's almost
+refreshing.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -59,8 +59,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A03400_06_020");
 MsgDisp("Himuro","Eh...no.
-I felt like there was some hidden meaning
-to it.");
+I felt like there was some hidden meaning to
+it.");
 MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -94,8 +94,7 @@ ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("D140A03400_02_030");
 MsgDisp("Sassa","Sorry.
-I mean, I guess I'm also a childhood
-friend.");
+I mean, I guess I'm also a childhood friend.");
 ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
@@ -107,8 +106,8 @@ MsgDisp("Himuro","Ugh...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
-MsgDisp("主人公","But ｛Himuro＊＊｝, you go to the same school
-as us.");
+MsgDisp("主人公","But ｛Himuro＊＊｝, you go to the same school as
+us.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

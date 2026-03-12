@@ -13,9 +13,9 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07060_21_000");
-MsgDisp("Michiru","They could be for cosmetic purposes, but
-it doesn't seem like it. It just seems
-like another guard he's putting up?");
+MsgDisp("Michiru","They could be for cosmetic purposes, but it
+doesn't seem like it. It just seems like
+another guard he's putting up?");
 MsgDisp("主人公","...Guard?");
 ChEye(21,0);
 ChMouth(21,4);
@@ -28,21 +28,21 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("D140D07060_22_020");
 MsgDisp("Hikaru","It can't be helped～
-Since his relative is a famed vice
-principal in the same school...right?");
+Since his relative is a famed vice principal
+in the same school...right?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("D140D07060_22_030");
 MsgDisp("Hikaru","Even for big sis, if our uncle was at the
-same school as us every day, it'd be
-pretty tough, don't you think?");
+same school as us every day, it'd be pretty
+tough, don't you think?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("D140D07060_21_020");
-MsgDisp("Michiru","Well...maybe he won't be able to take
-classes for real anyways?");
+MsgDisp("Michiru","Well...maybe he won't be able to take classes
+for real anyways?");
 MsgDisp("主人公","(By uncle, I guess they're talking about
 Goro-sensei. But he won't be able to take
 classes for real...?)");

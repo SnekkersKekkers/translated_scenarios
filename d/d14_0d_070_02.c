@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, I've heard that twins tend to be in
-sync a lot, but is that true?");
+MsgDisp("主人公","Hey, I've heard that twins tend to be in sync
+a lot, but is that true?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -60,9 +60,8 @@ ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("D140D07002_21_040");
 MsgDisp("Michiru","...How crude.");
-MsgDisp("主人公","(Umm...seems like you can't really
-understand these two just by looking
-right?)");
+MsgDisp("主人公","(Umm...seems like you can't really understand
+these two just by looking right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

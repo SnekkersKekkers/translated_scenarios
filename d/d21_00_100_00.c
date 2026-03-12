@@ -8,8 +8,8 @@ It says:)");
 MsgDisp("主人公","(\"It seems a new spot has opened up in a
 corner of the Forest Park.
 Please make sure to write about it♪\")");
-MsgDisp("主人公","(Alright, as Habatcher's newest staff
-member, let's get to it!)");
+MsgDisp("主人公","(Alright, as Habatcher's newest staff member,
+let's get to it!)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -25,9 +25,9 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("fp200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Wow...What a beautiful spring!
-This is the Forest Park's new spot,
-——\"The Home of the Fireflies\"!)");
+MsgDisp("主人公","(Wow... What a beautiful spring!
+This is the Forest Park's new spot, ——\"The
+Home of the Fireflies\"!)");
 VoicePlay("D210000110_31_000");
 MsgDisp("Goro?","You got here quickly.");
 MsgClose();
@@ -50,8 +50,8 @@ ChMouth(31,4);
 ChMotion(31,2);
 VoicePlay("D210000110_31_020");
 MsgDisp("Goro","That's not all.
-The \"Home of the Fireflies\" has a hidden
-and mysterious power.");
+The \"Home of the Fireflies\" has a hidden and
+mysterious power.");
 MsgDisp("主人公","A mysterious power...?");
 ChEye(31,0);
 ChMouth(31,0);
@@ -79,9 +79,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("D210000110_31_060");
-MsgDisp("Goro","Okay then! I'm looking forward to reading
-an article all full of your unique style.
-Adieuー♪");
+MsgDisp("Goro","Okay then!
+I'm looking forward to reading an article all
+full of your unique style. Adieuー♪");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(31);

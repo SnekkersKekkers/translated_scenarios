@@ -16,8 +16,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D130B00002_01_000");
 MsgDisp("Kazama","Looks like she's brought enough for three.
-Out of those, surely one of them is a
-winner.");
+Out of those, surely one of them is a winner.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -40,8 +39,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoiceEVSPlay(1);
 VoicePlay("D130B00002_01_010");
-MsgDisp("Kazama","｛主人公｝, do you know what day it is
-today?");
+MsgDisp("Kazama","｛主人公｝, do you know what day it is today?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

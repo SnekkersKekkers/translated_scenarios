@@ -53,16 +53,16 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D140A04100_06_040");
-MsgDisp("Himuro","Why? Is that the \"weird thing\"
-Ryota-senpai is talking about? I really
-don't know.");
+MsgDisp("Himuro","Why?
+Is that the \"weird thing\" Ryota-senpai is
+talking about? I really don't know.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0,1);
 VoicePlay("D140A04100_02_030");
 MsgDisp("Sassa","Alright, I got it.
-I need to be specific when I ask you to
-keep something a secret.");
+I need to be specific when I ask you to keep
+something a secret.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
@@ -91,15 +91,15 @@ ChEyeOpenLevel(2,7);
 VoicePlay("D140A04100_02_060");
 MsgDisp("Sassa","Scary...");
 MsgDisp("主人公","Hehe!
-｛Kazama＊＊｝ and ｛Sassa＊＊｝ are no match
-for ｛Himuro＊＊｝, huh?");
+｛Kazama＊＊｝ and ｛Sassa＊＊｝ are no match for
+｛Himuro＊＊｝, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A04100_02_070");
-MsgDisp("Sassa","Inori is a strategist. Ah, I got it. I
-need to learn about all of Inori's \"weird
-things\".");
+MsgDisp("Sassa","Inori is a strategist.
+Ah, I got it. I need to learn about all of
+Inori's \"weird things\".");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -111,8 +111,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("D140A04100_06_080");
-MsgDisp("Himuro","That's not something you should think
-about.");
+MsgDisp("Himuro","That's not something you should think about.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -128,8 +127,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4,1);
 VoicePlay("D140A04100_02_090");
-MsgDisp("Sassa","Information is key when it comes to
-keeping Inori in check.");
+MsgDisp("Sassa","Information is key when it comes to keeping
+Inori in check.");
 MsgDisp("主人公","(Uhm...
 ｛Himuro＊＊｝ is staring at me.
 I wonder what they're talking about...?)");

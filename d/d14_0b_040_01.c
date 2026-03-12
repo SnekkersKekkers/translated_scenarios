@@ -27,8 +27,8 @@ ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B04001_04_020");
-MsgDisp("Nanatsumori","Ah— I guess it's because Dahon's not
-here.");
+MsgDisp("Nanatsumori","Ah—
+I guess it's because Dahon's not here.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);

@@ -13,8 +13,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("D140B04002_03_000");
 MsgDisp("Honda","I thought about inviting him.
-But he looked so peaceful sleeping, I
-ended up leaving him there.");
+But he looked so peaceful sleeping, I ended
+up leaving him there.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -39,24 +39,24 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D140B04002_03_020");
-MsgDisp("Honda","I don't know. But he looks like he's
-dozing off during lessons. So he's earnest
-in that respect.");
+MsgDisp("Honda","I don't know.
+But he looks like he's dozing off during
+lessons. So he's earnest in that respect.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140B04002_01_020");
 MsgDisp("Kazama","Hmm...
-It seems like he's dreaming most of the
-time during recess.");
+It seems like he's dreaming most of the time
+during recess.");
 MsgDisp("主人公","Hehe!");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("D140B04002_03_030");
 MsgDisp("Honda","But...
-But next time, I'll have to wake him up
-and bring him along.");
+But next time, I'll have to wake him up and
+bring him along.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -72,8 +72,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D140B04002_03_050");
-MsgDisp("Honda","It's not good to skip lunch and eat that
-much sugar.");
+MsgDisp("Honda","It's not good to skip lunch and eat that much
+sugar.");
 ChMouth(1,0);
 MsgDisp("主人公","I-I see.");
 ChEye(3,0);
@@ -86,16 +86,16 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140B04002_01_040");
-MsgDisp("Kazama","Honda, no chocolate or cream pastries,
-got it?");
+MsgDisp("Kazama","Honda, no chocolate or cream pastries, got
+it?");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("D140B04002_03_070");
 MsgDisp("Honda","Ah...that's right!
 That was close.");
-MsgDisp("主人公","(He was planning on buying some sweet
-bread huh...
+MsgDisp("主人公","(He was planning on buying some sweet bread
+huh...
 But, ｛Honda＊＊｝ is kind.)");
 BGMStop();
 MsgClose();

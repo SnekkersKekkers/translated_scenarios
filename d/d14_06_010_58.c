@@ -9,6 +9,5 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("D140601058_06_010");
-MsgDisp("Himuro","I heard that the owner there likes to
-surf, I'd like to try visiting his shop
-once...");
+MsgDisp("Himuro","I heard that the owner there likes to surf,
+I'd like to try visiting his shop once...");

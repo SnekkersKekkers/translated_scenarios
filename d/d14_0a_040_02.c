@@ -18,8 +18,8 @@ ChMotion(1,1);
 VoicePlay("D140A04002_01_010");
 MsgDisp("Kazama","I see, since he is in a different year.");
 MsgDisp("主人公","Hehe.
-We're always together, so it never feels
-like that, does it?");
+We're always together, so it never feels like
+that, does it?");
 ChMouth(1,0);
 ChMotion(1,0);
 ChEye(2,0);
@@ -62,8 +62,8 @@ ChMouth(2,3);
 ChMotion(2,4,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("D140A04002_02_030");
-MsgDisp("Sassa","Is it more like he talks to us normally,
-or that he talks down on us?");
+MsgDisp("Sassa","Is it more like he talks to us normally, or
+that he talks down on us?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

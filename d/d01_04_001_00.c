@@ -94,16 +94,15 @@ MsgDisp("主人公","...Hehe!");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("D010400100_04_080");
-MsgDisp("Nanatsumori","As congratulations for me being on the
-cover of the magazine, a member of the
-staff there gave me this gift.");
+MsgDisp("Nanatsumori","As congratulations for me being on the cover
+of the magazine, a member of the staff there
+gave me this gift.");
 StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5);
 VoicePlay("D010400100_04_090");
 MsgDisp("Nanatsumori","And, turns out it's really delicious so I
-wanted to hurry here and share it with
-you.");
+wanted to hurry here and share it with you.");
 MsgDisp("主人公","I see.
 ｛Nanatsumori＊｝, thank you.");
 StlEye(4,0,0);
@@ -141,8 +140,8 @@ VoicePlay("D010400100_04_130");
 MsgDisp("Nanatsumori","No...
 There isn't, not anymore.");
 MsgDisp("主人公","Good.
-Your hand was still reaching out so I
-thought there was a lot more on my face.");
+Your hand was still reaching out so I thought
+there was a lot more on my face.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -160,9 +159,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("D010400100_04_160");
-MsgDisp("Nanatsumori","Alright then, us good boys and girls
-should get home before the big bad wolf
-shows up.");
+MsgDisp("Nanatsumori","Alright then, us good boys and girls should
+get home before the big bad wolf shows up.");
 MsgDisp("主人公","Hehe, yeah!");
 ChEye(4,4);
 ChMouth(4,3);

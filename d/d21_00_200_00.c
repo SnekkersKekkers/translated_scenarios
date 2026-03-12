@@ -11,8 +11,8 @@ MsgClose();
 BGOpen("fp200",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(...Huh?
-I wonder how I ended up at \"The Home of
-the Fireflies\".)");
+I wonder how I ended up at \"The Home of the
+Fireflies\".)");
 MsgDisp("主人公","(It's almost like something was calling me
 here...?)");
 VoicePlay("D200000200_31_000");
@@ -30,14 +30,14 @@ ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("D200000200_31_010");
 MsgDisp("Goro","Hello.
-I can see you're hard at work looking for
-an interview.");
+I can see you're hard at work looking for an
+interview.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("D200000200_31_020");
-MsgDisp("Goro","But you can't only focus on that, don't
-waste all of your energy in one place.");
+MsgDisp("Goro","But you can't only focus on that, don't waste
+all of your energy in one place.");
 MsgDisp("主人公","Eh?");
 ChEye(31,2);
 ChMouth(31,2);
@@ -66,16 +66,15 @@ ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("D200000200_31_060");
 MsgDisp("Goro","Do you get it?
-Once the flames of jealousy get burning,
-they can't easily be extinguished.");
+Once the flames of jealousy get burning, they
+can't easily be extinguished.");
 MsgDisp("主人公","Eh!");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("D200000200_31_070");
-MsgDisp("Goro","If you want to quell the flames, bring
-your boyfriend here when the fireflies
-come out.");
+MsgDisp("Goro","If you want to quell the flames, bring your
+boyfriend here when the fireflies come out.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
@@ -97,7 +96,7 @@ BGMStop();
 ChClose(31);
 MsgDisp("主人公","(He's gone...)");
 MsgDisp("主人公","(I didn't know the fireflies had such a
-power. But hmm, jealousy...Right. Maybe I
-can write a story about this too?)");
+power. But hmm, jealousy...Right.
+Maybe I can write a story about this too?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -47,8 +47,8 @@ MsgDisp("Shirahane","The Quiz King's Perfect Score Anpan!");
 MsgDisp("主人公","Eh?");
 StlEyeOpenLevel(8,5);
 VoicePlay("D010800300_08_060");
-MsgDisp("Shirahane","Ikkun, I mean Iku Honda-kun always gets
-this Perfect Score Anpan.
+MsgDisp("Shirahane","Ikkun, I mean Iku Honda-kun always gets this
+Perfect Score Anpan.
 The effect is actually amazing...");
 MsgClose();
 ScrFadeOut(0);
@@ -63,9 +63,9 @@ other?");
 ChEye(8,0);
 ChMouth(8,0);
 VoicePlay("D010800300_08_070");
-MsgDisp("Shirahane","Not really. I saw him somewhere the other
-day and recognized him, so I spoke to him
-for the first time.");
+MsgDisp("Shirahane","Not really. I saw him somewhere the other day
+and recognized him, so I spoke to him for the
+first time.");
 MsgDisp("主人公","I see.");
 ChEye(8,4);
 ChMouth(8,3);
@@ -78,8 +78,8 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("D010800300_08_090");
-MsgDisp("Shirahane","Well, this is the last time I'll rely on
-its special powers.
+MsgDisp("Shirahane","Well, this is the last time I'll rely on its
+special powers.
 I have to get a perfect score on my own.");
 MsgDisp("主人公","Right?");
 ChEye(8,3);
@@ -92,8 +92,8 @@ Since we're already here, wanna go home
 together?");
 MsgDisp("主人公","Sure!");
 MsgDisp("主人公","(...Come to think of it, where did
-｛Honda＊＊｝ get the Perfect Score Anpan
-from anyway?)");
+｛Honda＊＊｝ get the Perfect Score Anpan from
+anyway?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

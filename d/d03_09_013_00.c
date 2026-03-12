@@ -64,8 +64,7 @@ This is not what I expected...");
     MsgDisp("主人公","Hehe!
 What an energetic and happy family.");
     VoicePlay("D030901300_09_090");
-    MsgDisp("Kuya","If you want to, I'll invite you here
-someday.
+    MsgDisp("Kuya","If you want to, I'll invite you here someday.
 To meet the energetic Shirahane family.");
     VoicePlay("D030901300_09_100");
     MsgDisp("Kuya","...Okay.
@@ -84,8 +83,8 @@ different Kuya-san than usual?)");
     case 1:
     MsgDisp("主人公","...Well, whatever.
 Time to sleep.");
-    MsgDisp("主人公","(If it was something important, he would
-have left a voicemail.
+    MsgDisp("主人公","(If it was something important, he would have
+left a voicemail.
 Maybe it's not even him.)");
     break ;
     default :

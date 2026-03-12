@@ -20,8 +20,7 @@ StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("D010100002_01_010");
 MsgDisp("Kazama","Seems so.
-We can't say it's just a coincidence
-anymore.");
+We can't say it's just a coincidence anymore.");
 MsgDisp("主人公","Yeah, to be together all three years like
 this, is it only us two like this?");
 MsgClose();

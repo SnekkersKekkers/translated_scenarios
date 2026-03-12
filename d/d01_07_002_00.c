@@ -45,8 +45,7 @@ StlEyeOpenLevel(7,5,1);
 VoicePlay("D010700200_07_020");
 MsgDisp("Mikage","Hmm?
 That's what?");
-MsgDisp("主人公","That gives you a different vibe from
-usual.");
+MsgDisp("主人公","That gives you a different vibe from usual.");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("D010700200_07_030");
@@ -67,8 +66,7 @@ StlEye(7,0,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,0,1);
 VoicePlay("D010700200_07_060");
-MsgDisp("Mikage","Ok then, that's enough searching for
-today.
+MsgDisp("Mikage","Ok then, that's enough searching for today.
 I'll leave it like this for now.");
 MsgClose();
 ScrFadeOut(0);
@@ -86,7 +84,7 @@ MsgDisp("Mikage","You should hurry home nowー!");
 MsgDisp("主人公","Ah, yes sir!");
 MsgDisp("主人公","(｛Mikage＊＊｝ left.
 I hope they don't scold him in the staff
-room...But he looks kind of cool, huh?)");
+room... But he looks kind of cool, huh?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

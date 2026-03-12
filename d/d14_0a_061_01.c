@@ -14,7 +14,8 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3,1);
 VoicePlay("D140A06101_01_000");
-MsgDisp("Kazama","...∋ Haa∋");
+MsgDisp("Kazama","...∋
+Haa∋");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -40,16 +41,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A06101_06_030");
-MsgDisp("Himuro","Looks like you and Nozomu-senpai are
-together a lot.");
+MsgDisp("Himuro","Looks like you and Nozomu-senpai are together
+a lot.");
 MsgDisp("主人公","Umm...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06101_01_020");
-MsgDisp("Kazama","You don't have to force yourself to say
-it.");
+MsgDisp("Kazama","You don't have to force yourself to say it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -85,8 +85,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A06101_01_030");
-MsgDisp("Kazama","When you're stuck, you always throw it
-back to me huh?");
+MsgDisp("Kazama","When you're stuck, you always throw it back
+to me huh?");
 MsgDisp("主人公","(Hehe! sweet nothings huh...what would it
 feel like if ｛Sassa＊＊｝ said it?)");
 BGMStop();

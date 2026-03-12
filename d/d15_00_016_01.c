@@ -5,15 +5,15 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D150001601_01_000");
-MsgDisp("Kazama","The food tastes more delicious when
-everyone eats together, huh.");
+MsgDisp("Kazama","The food tastes more delicious when everyone
+eats together, huh.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D150001601_06_000");
 MsgDisp("Himuro","That's true.
-I have to agree with Ryota-senpai's
-opinion today.");
+I have to agree with Ryota-senpai's opinion
+today.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

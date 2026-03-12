@@ -2,8 +2,8 @@ BGOpen("sc500",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(My day is over and it's still only the
-morning, maybe I should stop somewhere on
-the way home?)");
+morning, maybe I should stop somewhere on the
+way home?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
@@ -131,8 +131,8 @@ StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D120C00000_05_040");
 MsgDisp("Hiiragi","...Delicious.
-It feels like we're camping even though
-we're at school.");
+It feels like we're camping even though we're
+at school.");
 MsgClose();
 StlEffect(1,1,15);
 Wait(30,0);
@@ -146,8 +146,8 @@ StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("D120C00000_07_050");
 MsgDisp("Mikage","Haha, that's what I mean.
-The grill combined with the thrill of
-danger makes the vegetables delicious.");
+The grill combined with the thrill of danger
+makes the vegetables delicious.");
 MsgDisp("主人公","...The thrill of danger?");
 StlEye(7,2);
 StlEye(6,0);
@@ -183,8 +183,8 @@ school!");
 StlEye(7,1);
 VoicePlay("D120C00000_07_080");
 MsgDisp("Mikage","Huh?
-That's not good. Let's get 
-all the cooked food onto a plate.");
+That's not good.
+Let's get all the cooked food onto a plate.");
 StlMouth(6,1);
 StlEye(5,1);
 SEStop("EV_SE_807",2);

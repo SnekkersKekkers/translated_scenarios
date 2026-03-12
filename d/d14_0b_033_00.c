@@ -16,8 +16,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B03300_01_000");
 MsgDisp("Kazama","Ah—, it's finally lunch time.");
-MsgDisp("主人公","We had PE in the morning, so it's gotten
-us quite hungry, hasn't it?");
+MsgDisp("主人公","We had PE in the morning, so it's gotten us
+quite hungry, hasn't it?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("D140B03300_01_010");
@@ -41,8 +41,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B03300_04_010");
-MsgDisp("Nanatsumori","I don't think this is related to how big
-your body is.");
+MsgDisp("Nanatsumori","I don't think this is related to how big your
+body is.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -71,8 +71,7 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D140B03300_03_030");
 MsgDisp("Honda","This?
-Then, I'll trade you this for that,
-Mi-kun.");
+Then, I'll trade you this for that, Mi-kun.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);

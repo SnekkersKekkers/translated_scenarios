@@ -2,8 +2,8 @@ BGOpen("ex070",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Good day!
-I'm here to have the notes and photos I
-took for my interviews checked.");
+I'm here to have the notes and photos I took
+for my interviews checked.");
 VoicePlay("D030901000_41_000");
 MsgDisp("Tanaka Shin","Ah, thanks for the hard work!
 Let me take a look.");
@@ -115,8 +115,8 @@ ChMotion(9,0,1);
 ChCheek(9,4);
 VoicePlay("D030901000_09_100");
 MsgDisp("Kuya","It's a common thing abroad.
-On Valentine's you give gifts to the
-people you love.");
+On Valentine's you give gifts to the people
+you love.");
 MsgDisp("主人公","...Eh?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -169,9 +169,9 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901000_09_170");
-MsgDisp("Kuya","Ah...Is it okay to say that?
-But you know, I'm hopeful.
-Haha!");
+MsgDisp("Kuya","Ah...
+Is it okay to say that?
+But you know, I'm hopeful. Haha!");
 MsgDisp("主人公","(Hehe!
 Kuya-san seems to be \"studying\" hard!
 I need to work hard too!)");

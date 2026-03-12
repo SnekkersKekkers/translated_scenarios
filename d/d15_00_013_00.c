@@ -5,8 +5,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("D150001300_03_000");
-MsgDisp("Honda","Oh, right. Ryo-kun. Can you tell me what
-the food is like in England?");
+MsgDisp("Honda","Oh, right.
+Ryo-kun. Can you tell me what the food is
+like in England?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,2);
@@ -19,9 +20,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("D150001300_03_010");
-MsgDisp("Honda","Yepyep. Icing cookies are famous.
-Apparently they originated from the royal
-family.");
+MsgDisp("Honda","Yepyep.
+Icing cookies are famous. Apparently they
+originated from the royal family.");
 MsgDisp("主人公","Royal sweets...
 That sounds amazing.");
 ChEye(1,4);
@@ -46,8 +47,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("D150001300_03_030");
-MsgDisp("Honda","Ryo-kun's family must have been suppliers
-to the nobles! Habataki City's own royal
+MsgDisp("Honda","Ryo-kun's family must have been suppliers to
+the nobles! Habataki City's own royal
 cookies! Young Master cookies!!");
 ChEye(1,0);
 ChMouth(1,3);
@@ -55,9 +56,9 @@ ChMotion(1,3);
 VoicePlay("D150001300_01_030");
 MsgDisp("Kazama","...Geez.
 What are you even saying?");
-MsgDisp("主人公","(Hehe. Young master cookies. That sounds
-like a souvenir you'd get from Habataki
-Castle!)");
+MsgDisp("主人公","(Hehe.
+Young master cookies. That sounds like a
+souvenir you'd get from Habataki Castle!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -38,22 +38,23 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("D150003401_03_030");
 MsgDisp("Honda","Really? I'm looking closely at creatures that
-decompose soil. Earthworms, springtails,
-mites...");
+decompose soil.
+Earthworms, springtails, mites...");
 MsgDisp("主人公","Ehh...");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,5);
 VoicePlay("D150003401_04_020");
-MsgDisp("Nanatsumori","Ahh∈ Stop, stop∈");
+MsgDisp("Nanatsumori","Ahh∈
+Stop, stop∈");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("D150003401_03_040");
 MsgDisp("Honda","What's wrong?");
 MsgDisp("主人公","Um, yeah.
-How about we talk about that after we
-finish eating?");
+How about we talk about that after we finish
+eating?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

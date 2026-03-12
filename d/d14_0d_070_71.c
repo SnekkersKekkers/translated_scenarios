@@ -37,8 +37,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07071_22_020");
 MsgDisp("Hikaru","Right, right.
-It's like the source of the scent must
-always be nearby～!");
+It's like the source of the scent must always
+be nearby～!");
 MsgDisp("主人公","(｛Mikage＊＊｝'s scent...
 I'm a little curious...)");
 BGMStop();

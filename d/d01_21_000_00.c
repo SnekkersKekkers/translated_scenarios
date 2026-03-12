@@ -90,7 +90,8 @@ ChCheek(21,0);
 SEPlay("EV_SE_645",0.5,0.4);
 Wait(20,0);
 VoicePlay("D012100000_21_110");
-MsgDisp("Michiru","∋ ...Who's there?");
+MsgDisp("Michiru","∋
+...Who's there?");
 MsgDisp("主人公","｛みちる＊｝...");
 ChEye(21,5);
 ChMouth(21,5);
@@ -120,15 +121,15 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("D012100000_21_150");
-MsgDisp("Michiru","Because you know, I don't know anything
-about him so I wouldn't have any reason to
-go out with him.");
+MsgDisp("Michiru","Because you know, I don't know anything about
+him so I wouldn't have any reason to go out
+with him.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("D012100000_21_160");
-MsgDisp("Michiru","I thought it would be better for the two
-of us if I gave an honest reply instead of
+MsgDisp("Michiru","I thought it would be better for the two of
+us if I gave an honest reply instead of
 getting his hopes up and making him wait.");
 MsgDisp("主人公","True.
 But ｛みちる＊｝, you look really cute

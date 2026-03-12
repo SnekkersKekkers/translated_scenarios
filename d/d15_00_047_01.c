@@ -24,8 +24,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("D150004701_04_020");
-MsgDisp("Nanatsumori","I'm starting to lose my appetite
-somehow...");
+MsgDisp("Nanatsumori","I'm starting to lose my appetite somehow...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -49,8 +48,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("D150004701_07_030");
 MsgDisp("Mikage","Oh, there seems to be a lot of people like
-that. Maybe I should design a lesson to
-get over bugs.");
+that. Maybe I should design a lesson to get
+over bugs.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2);

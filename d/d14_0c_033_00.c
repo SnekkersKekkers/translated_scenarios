@@ -45,16 +45,16 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C03300_05_010");
-MsgDisp("Hiiragi","Yes, ideally both my weight and height
-would stay the same.
+MsgDisp("Hiiragi","Yes, ideally both my weight and height would
+stay the same.
 Otherwise, the costumes won't fit.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C03300_07_010");
 MsgDisp("Mikage","I see.
-If you also play female roles like
-Yanosuke, the costume count must be huge.");
+If you also play female roles like Yanosuke,
+the costume count must be huge.");
 ChEye(5,0);
 ChEye(6,0);
 ChMouth(6,0);
@@ -76,8 +76,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C03300_07_020");
 MsgDisp("Mikage","Oh. But you know, for both people and
-vegetables, being big means nothing if
-you're hollow inside.");
+vegetables, being big means nothing if you're
+hollow inside.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -97,8 +97,8 @@ MsgDisp("Mikage","Good.
 With that spirit, eat lots and grow up big
 and strong～");
 MsgDisp("主人公","(Hehe.
-I wonder if both ｛Hiiragi＊＊＊｝ and
-｛Himuro＊＊｝ want to grow bigger?)");
+I wonder if both ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝
+want to grow bigger?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

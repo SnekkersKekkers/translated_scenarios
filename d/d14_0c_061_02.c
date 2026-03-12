@@ -13,11 +13,11 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06102_06_000");
-MsgDisp("Himuro","If Yanosuke-senpai is saying that, he must
-be very busy.");
-MsgDisp("主人公","Right. He's our class homeroom teacher,
-and the advisor for both the gardening
-club and track and field club.");
+MsgDisp("Himuro","If Yanosuke-senpai is saying that, he must be
+very busy.");
+MsgDisp("主人公","Right. He's our class homeroom teacher, and
+the advisor for both the gardening club and
+track and field club.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -47,16 +47,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C06102_06_030");
-MsgDisp("Himuro","Recently you've been spending more time
-with Kojiro-sensei, haven't you?");
+MsgDisp("Himuro","Recently you've been spending more time with
+Kojiro-sensei, haven't you?");
 MsgDisp("主人公","Umm...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C06102_05_030");
-MsgDisp("Hiiragi","Please be at ease. We're always with you,
-so of course we noticed. Outside of that,
-I don't think anyone else will.");
+MsgDisp("Hiiragi","Please be at ease. We're always with you, so
+of course we noticed. Outside of that, I
+don't think anyone else will.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

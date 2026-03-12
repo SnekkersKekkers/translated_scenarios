@@ -16,24 +16,22 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3);
 VoicePlay("D150004501_04_010");
-MsgDisp("Nanatsumori","It's kind of cool how easily you admit
-that.");
+MsgDisp("Nanatsumori","It's kind of cool how easily you admit that.");
 MsgDisp("主人公","Hehe, it really is.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("D150004501_05_010");
-MsgDisp("Hiiragi","That makes me happy, but I'm not that
-great. I've been slacking off with my
-studies because I'm busy. I need to study
-more.");
+MsgDisp("Hiiragi","That makes me happy, but I'm not that great.
+I've been slacking off with my studies
+because I'm busy. I need to study more.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("D150004501_04_020");
-MsgDisp("Nanatsumori","Studying is nothing compared to what
-Yano-san does. If you don't mind it, we
-can tutor you. Okay?");
+MsgDisp("Nanatsumori","Studying is nothing compared to what Yano-san
+does.
+If you don't mind it, we can tutor you. Okay?");
 MsgDisp("主人公","Yeah!");
 ChEye(5,3);
 ChMouth(5,3);

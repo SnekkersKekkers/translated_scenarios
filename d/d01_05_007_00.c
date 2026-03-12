@@ -17,8 +17,8 @@ StlMouth(5,0);
 SEPlay("EV_SE_849");
 ScrFadeIn(0);
 VoicePlay("D010500700_05_000");
-MsgDisp("Hiiragi","I guess I've been playing table tennis
-since I was little──");
+MsgDisp("Hiiragi","I guess I've been playing table tennis since
+I was little──");
 SEStop("EV_SE_849",0);
 SEPlay("EV_SE_850");
 VoicePlay("D010500700_05_010");
@@ -54,8 +54,8 @@ Wait(15,0);
 MsgDisp("主人公","Ahh∋");
 SEPlay("EV_SE_GAYA_016");
 VoicePlay("D010500700_40_030");
-MsgDisp("School Boy","Ahahaha, don't just suddenly smash it
-towards the girls!");
+MsgDisp("School Boy","Ahahaha, don't just suddenly smash it towards
+the girls!");
 SEStop("EV_SE_GAYA_016",1.5);
 BGMVol(0.5,2);
 MsgClose();
@@ -75,9 +75,9 @@ It surprised me, but I'm fine.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500700_05_060");
-MsgDisp("Hiiragi","I was trying to show you a good side of
-me...I feel like I missed a once in a
-lifetime opportunity.");
+MsgDisp("Hiiragi","I was trying to show you a good side of me...
+I feel like I missed a once in a lifetime
+opportunity.");
 MsgDisp("主人公","Hehe.
 ｛Hiiragi＊＊＊｝, you're really good at table
 tennis though!");
@@ -98,9 +98,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500700_05_090");
-MsgDisp("Hiiragi","Yes. When I was on tour around the
-country, I often stayed in hotels and
-inns. So this was a way to have fun.");
+MsgDisp("Hiiragi","Yes. When I was on tour around the country, I
+often stayed in hotels and inns.
+So this was a way to have fun.");
 MsgDisp("主人公","I see.
 That's why you're so good at it.");
 ChEye(5,4);
@@ -114,8 +114,8 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500700_05_110");
-MsgDisp("Hiiragi","Next time I'll try harder to not hit you
-in the head, okay?");
+MsgDisp("Hiiragi","Next time I'll try harder to not hit you in
+the head, okay?");
 MsgDisp("主人公","Hehe, thank you.");
 ChEye(5,4);
 ChMouth(5,4);

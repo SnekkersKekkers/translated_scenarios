@@ -48,8 +48,7 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901400_09_030");
 MsgDisp("Kuya","Ahh...
-Today is a normal date with Kuya
-Shirahane.");
+Today is a normal date with Kuya Shirahane.");
 ChMotion(9,1,1);
 VoicePlay("D030901400_09_040");
 MsgDisp("Kuya","I won't be wearing the Hanegasaki uniform
@@ -79,8 +78,8 @@ ChMotion(9,2,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901400_09_060");
 MsgDisp("Kuya","Haha, isn't this nostalgic?
-On our first date...No, didn't we eat this
-during the interview?");
+On our first date...
+No, didn't we eat this during the interview?");
 MsgDisp("主人公","Yeah...");
 ChEye(9,3);
 ChMouth(9,4);
@@ -134,15 +133,15 @@ VoicePlay("D030901400_09_120");
 MsgDisp("Kuya","Huh...?
 Is that maybe a bit weird?");
 MsgDisp("主人公","No...
-Kuya-san, are you going to stop being a
-\"Jack of All Trades\"?");
+Kuya-san, are you going to stop being a \"Jack
+of All Trades\"?");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,1,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_130");
 MsgDisp("Kuya","That's not it.
-But...I guess it's true that my work style
+But... I guess it's true that my work style
 is becoming more simple.");
 MsgDisp("主人公","Hehe!");
 ChEye(9,3);
@@ -155,8 +154,8 @@ Come, today will be a nice change of pace.
 Let's eat some ice cream together!");
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(It definitely feels like Kuya-san is
-changing. I get the feeling he's become
-more dependable...?)");
+changing. I get the feeling he's become more
+dependable...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

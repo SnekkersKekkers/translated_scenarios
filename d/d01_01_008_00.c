@@ -2,8 +2,7 @@ BGOpen("wf700",2);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah, there are pinwheels...)");
 VoicePlay("D010100800_01_000");
-MsgDisp("Kazama","Excuse me, I'd like to get this orange
-one.");
+MsgDisp("Kazama","Excuse me, I'd like to get this orange one.");
 MsgClose();
 ScrFadeOut(0);
 StlOpen("ev_01_04");
@@ -20,8 +19,8 @@ MsgDisp("主人公","Yeah, it's the last one.");
 StlEyeOpenLevel(1,#1);
 VoicePlay("D010100800_01_020");
 MsgDisp("Kazama","Items choose their owners.
-So I'm sure this one must have been
-waiting for us.");
+So I'm sure this one must have been waiting
+for us.");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -44,9 +43,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100800_01_040");
-MsgDisp("Kazama","I'm not a kid anymore who has no choice
-but to go along with whatever my parents
-decide.");
+MsgDisp("Kazama","I'm not a kid anymore who has no choice but
+to go along with whatever my parents decide.");
 SEPlay("EV_SE_022",0.5);
 Wait(30,0);
 ChEye(1,3);
@@ -54,8 +52,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("D010100800_01_050");
 MsgDisp("Kazama","Damn, we have to hurry.
-Or our secret spot will get taken by
-others.");
+Or our secret spot will get taken by others.");
 MsgDisp("主人公","O-Okay.");
 SEStop("EV_SE_022",2);
 ChEye(1,0);

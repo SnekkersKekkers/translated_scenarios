@@ -4,8 +4,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I'm done with entrance exams and it's
 finally time to graduate...)");
 MsgDisp("主人公","(Soon it'll be time to say goodbye to this
-building. Come to think of it, two years
-ago here I met Himuro——)");
+building. Come to think of it, two years ago
+here I met Himuro——)");
 MsgClose();
 ChOpen(6,254,7,2,0,0,#1,0,0);
 MsgDisp("主人公","Eh...
@@ -66,8 +66,7 @@ MsgDisp("主人公","∋");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600500_06_060");
-MsgDisp("Himuro","It's been like this ever since we first
-met.
+MsgDisp("Himuro","It's been like this ever since we first met.
 You always enter without permission.");
 StlEye(6,0);
 StlMouth(6,0);
@@ -95,14 +94,15 @@ VoicePlay("D010600500_06_100");
 MsgDisp("Himuro","I haven't changed at all...
 Taking it out on you again like this, I
 haven't matured at all.");
-MsgDisp("主人公","That's not true. ｛Himuro＊＊｝ shows more of
-his true self than when we first met.");
+MsgDisp("主人公","That's not true.
+｛Himuro＊＊｝ shows more of his true self than
+when we first met.");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("D010600500_06_110");
 MsgDisp("Himuro","Eh...");
-MsgDisp("主人公","I never expected I would get to see you
-cry like this, ｛Himuro＊＊｝.");
+MsgDisp("主人公","I never expected I would get to see you cry
+like this, ｛Himuro＊＊｝.");
 StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
@@ -119,8 +119,7 @@ StlMouth(6,1);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("D010600500_06_140");
 MsgDisp("Himuro","But...
-I guess that's just about the right
-amount...");
+I guess that's just about the right amount...");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -148,8 +147,8 @@ ChMotion(6,5);
 VoicePlay("D010600500_06_170");
 MsgDisp("Himuro","Heh...
 What's with you.");
-MsgDisp("主人公","(Looks like ｛Himuro＊＊｝ is back to his
-usual self?
+MsgDisp("主人公","(Looks like ｛Himuro＊＊｝ is back to his usual
+self?
 What a relief...)");
 BGMStop();
 MsgClose();

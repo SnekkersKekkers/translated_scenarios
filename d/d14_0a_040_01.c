@@ -14,9 +14,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140A04001_01_010");
-MsgDisp("Kazama","Come to think of it, I heard Sassa's
-laughter coming all the way from the
-schoolyard?");
+MsgDisp("Kazama","Come to think of it, I heard Sassa's laughter
+coming all the way from the schoolyard?");
 MsgDisp("主人公","Eh, is that right?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -45,10 +44,9 @@ ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("D140A04001_06_020");
 MsgDisp("Himuro","Yeah.
-This is the first time I've thought I'm
-glad I was in a different year.");
-MsgDisp("主人公","(Do boys hate losing in sports that
-much...?)");
+This is the first time I've thought I'm glad
+I was in a different year.");
+MsgDisp("主人公","(Do boys hate losing in sports that much...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

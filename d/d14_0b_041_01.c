@@ -21,8 +21,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D140B04101_03_010");
 MsgDisp("Honda","Right!
-It's well balanced and looks wonderful
-too!");
+It's well balanced and looks wonderful too!");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);

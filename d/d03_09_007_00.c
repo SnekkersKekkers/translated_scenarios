@@ -30,8 +30,8 @@ SEPlay("EV_SE_544",0,0.5);
 ChOpen(35,254,0,0,0,#1,#1,0,2);
 VoicePlay("D030900700_35_020");
 MsgDisp("Guy","Good job!
-Come to my office once you finish giving
-out those flyers～♪");
+Come to my office once you finish giving out
+those flyers～♪");
 MsgDisp("主人公","(That guy with the flashy sunglasses, is
 that...)");
 ChEye(9,0);
@@ -128,8 +128,8 @@ ChEye(9,2);
 ChMouth(9,4);
 ChMotion(9,4,1);
 MsgDisp("Kuya","How so?");
-MsgDisp("主人公","Why would local idols be traveling around
-the world?");
+MsgDisp("主人公","Why would local idols be traveling around the
+world?");
 VoicePlay("D030900700_09_100");
 ChEye(9,3);
 ChMouth(9,1);
@@ -147,8 +147,8 @@ ChMotion(9,1,1);
 MsgDisp("Kuya","Really?
 I had no idea...");
 MsgDisp("主人公","Geez.
-It's good to be kind to people but you
-need to get to know them first, okay?");
+It's good to be kind to people but you need
+to get to know them first, okay?");
 VoicePlay("D030900700_09_120");
 ChEye(9,2);
 ChMouth(9,2);
@@ -169,8 +169,7 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 MsgDisp("Kuya","Yeah.
-The picture on this flyer looks weird,
-right?");
+The picture on this flyer looks weird, right?");
 MsgDisp("主人公","Hehe!
 Those of us who understand \"art\" can draw
 something better, right?");
@@ -181,9 +180,9 @@ ChMotion(9,3,1);
 ChEyeOpenLevel(9,0);
 MsgDisp("Kuya","Haha!
 Right!");
-MsgDisp("主人公","(Haa...What a relief.
-Kuya-san is too naive...Or I guess he's
-just too used to others relying on him.)");
+MsgDisp("主人公","(Haa... What a relief.
+Kuya-san is too naive... Or I guess he's just
+too used to others relying on him.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

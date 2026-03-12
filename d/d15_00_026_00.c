@@ -10,8 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("D150002600_06_000");
-MsgDisp("Himuro","...Please don't tell me to eat so I can
-grow.");
+MsgDisp("Himuro","...Please don't tell me to eat so I can grow.");
 ChEye(2,5);
 ChMouth(2,5);
 ChMotion(2,4);
@@ -22,8 +21,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D150002600_06_010");
-MsgDisp("Himuro","It just sounds like something
-Nozomu-senpai would say.");
+MsgDisp("Himuro","It just sounds like something Nozomu-senpai
+would say.");
 MsgDisp("主人公","Hehe ｛Sassa＊＊｝, you got caught.");
 ChEye(2,0);
 ChMouth(2,1);
@@ -37,8 +36,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("D150002600_06_020");
-MsgDisp("Himuro","While it's true that amoeba are single
-celled organisms.
+MsgDisp("Himuro","While it's true that amoeba are single celled
+organisms.
 You're not a flip-flop, you're a sneaker.");
 ChEye(2,3);
 ChMouth(2,3);

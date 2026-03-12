@@ -9,8 +9,8 @@ ChMotion(2,4);
 VoicePlay("D140A03200_02_000");
 MsgDisp("Sassa","Well, enjoying your food is the most
 important thing.");
-MsgDisp("主人公","I see, it's because ｛Kazama＊＊｝ lives
-alone, right?");
+MsgDisp("主人公","I see, it's because ｛Kazama＊＊｝ lives alone,
+right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -26,8 +26,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D140A03200_06_010");
-MsgDisp("Himuro","I was just thinking that kind of approach
-was typical for you Ryota-senpai.
+MsgDisp("Himuro","I was just thinking that kind of approach was
+typical for you Ryota-senpai.
 You should be more direct.");
 ChEye(1,0);
 ChEyeOpenLevel(1,8);
@@ -82,8 +82,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A03200_06_030");
-MsgDisp("Himuro","Since he was going to that extent to say
-it, sure.");
+MsgDisp("Himuro","Since he was going to that extent to say it,
+sure.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -91,8 +91,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D140A03200_01_060");
 MsgDisp("Kazama","You guys...");
 MsgDisp("主人公","(Heheh, yeah.
-These three really do get along after
-all.)");
+These three really do get along after all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

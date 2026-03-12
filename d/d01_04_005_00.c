@@ -36,8 +36,8 @@ MsgDisp("Student A","Let me see, too.");
 VoicePlay("D010400500_39_040");
 MsgDisp("Student C","Oy, don't pull on the book!
 You'll tear the NANA special edition∋");
-MsgDisp("主人公","(Come to think of it, this month's issue
-is on new items from \"NANA\".)");
+MsgDisp("主人公","(Come to think of it, this month's issue is
+on new items from \"NANA\".)");
 StlMouthOpenLevel(4,0);
 VoicePlay("D010400500_04_000");
 MsgDisp("Nanatsumori","......");
@@ -57,8 +57,8 @@ VoicePlay("D010400500_41_080");
 MsgDisp("Student B","I feel the same way as you guys.
 God is really cruel, huh～...");
 VoicePlay("D010400500_39_090");
-MsgDisp("Student C","Maybe you should try wearing the same
-clothes as NANA.
+MsgDisp("Student C","Maybe you should try wearing the same clothes
+as NANA.
 You never know, it might surprise you?");
 VoicePlay("D010400500_40_100");
 MsgDisp("Student A","No way!
@@ -82,16 +82,14 @@ SEStop("EV_SE_GAYA_016",3);
 SEStop("EV_SE_864",3);
 MsgDisp("主人公","(!)");
 VoicePlay("D010400500_39_130");
-MsgDisp("Student C","You'd look good in this kind of thing,
-right?");
+MsgDisp("Student C","You'd look good in this kind of thing, right?");
 VoicePlay("D010400500_41_140");
 MsgDisp("Student B","Of course he would, he's tall.
 I bet he'd look better if he took off his
 glasses and changed his hairstyle?");
 VoicePlay("D010400500_40_150");
 MsgDisp("Student A","Ah, I see it!
-He could really transform with a little
-work!");
+He could really transform with a little work!");
 StlEye(4,0);
 StlMouth(4,2);
 VoicePlay("D010400500_04_030");
@@ -128,16 +126,16 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D010400500_04_060");
 MsgDisp("Nanatsumori","I was surprised they involved me.");
-MsgDisp("主人公","Real-time research, huh... It's true that
-if it's popular with our age group, school
-is the perfect place to watch reactions.");
+MsgDisp("主人公","Real-time research, huh... It's true that if
+it's popular with our age group, school is
+the perfect place to watch reactions.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D010400500_04_070");
 MsgDisp("Nanatsumori","Right.
-Just one of the few things I enjoy about
-this place.");
+Just one of the few things I enjoy about this
+place.");
 MsgDisp("主人公","(Hehe.
 ｛Nanatsumori＊｝, I'm happy for you!)");
 BGMStop();

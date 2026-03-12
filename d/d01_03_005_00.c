@@ -1,9 +1,9 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(There's still time until afternoon
-classes start, so I think I'll relax a bit
-on the rooftop.)");
+MsgDisp("主人公","(There's still time until afternoon classes
+start, so I think I'll relax a bit on the
+rooftop.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -18,9 +18,9 @@ VoicePlay("D010300500_03_000");
 MsgDisp("Honda?","Why～!");
 SEPlay("EV_SE_616",0,0.6);
 SEWait();
-MsgDisp("主人公","(∋ That voice just now...Was that
-｛Honda＊＊｝? Huh, didn't something like
-this happen before...)");
+MsgDisp("主人公","(∋ That voice just now...
+Was that ｛Honda＊＊｝? Huh, didn't something
+like this happen before...)");
 StlOpen("ev_03_11");
 BGMPlay("BGM_C03_HONDA_C",0.01);
 EfctOpen(6);
@@ -40,23 +40,22 @@ Should we go to the nurse's office?");
 StlMouth(3,1);
 VoicePlay("D010300500_03_030");
 MsgDisp("Honda","My little sister is the weird one, not me.");
-MsgDisp("主人公","Eh, your sister...? Last time you were
-here, weren't you very happy that your
-sister passed her entrance exam?");
+MsgDisp("主人公","Eh, your sister...? Last time you were here,
+weren't you very happy that your sister
+passed her entrance exam?");
 StlEye(3,2);
 StlMouth(3,1);
 VoicePlay("D010300500_03_040");
 MsgDisp("Honda","I was.
-Sigh, back then we were still good
-friends...");
+Sigh, back then we were still good friends...");
 MsgDisp("主人公","Did you guys have a fight?");
 StlEye(3,1);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300500_03_050");
 MsgDisp("Honda","No, nothing like that happened.
-The other day I invited her to the museum
-and she declined.");
+The other day I invited her to the museum and
+she declined.");
 MsgDisp("主人公","Maybe she had something else to do?");
 StlEye(3,0);
 StlMouth(3,0);
@@ -64,9 +63,9 @@ StlEyeOpenLevel(3,0,1);
 VoicePlay("D010300500_03_060");
 MsgDisp("Honda","She said she wasn't interested in the
 botanical gardens either though...");
-MsgDisp("主人公","I see...But you know, it's not good to lie
-down in a place like this.
-Come on, let me help you up.");
+MsgDisp("主人公","I see...
+But you know, it's not good to lie down in a
+place like this. Come on, let me help you up.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300500_03_070");
@@ -107,8 +106,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D010300500_03_100");
 MsgDisp("Honda","Eh?");
-MsgDisp("主人公","You should knock before you enter
-someone's room.
+MsgDisp("主人公","You should knock before you enter someone's
+room.
 Especially when it's a teenage girl.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -121,8 +120,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D010300500_03_120");
 MsgDisp("Honda","Thanks!
-With your help, things can finally go back
-to normal.");
+With your help, things can finally go back to
+normal.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
@@ -131,9 +130,9 @@ VoicePlay("D010300500_03_130");
 MsgDisp("Honda","Alright, we're going to start knocking!
 １０００ Knocks∈");
 MsgDisp("主人公","Ehh∋");
-MsgDisp("主人公","(...I think I can empathize with his
-little sister a bit and why she didn't
-want him coming in...?)");
+MsgDisp("主人公","(...I think I can empathize with his little
+sister a bit and why she didn't want him
+coming in...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

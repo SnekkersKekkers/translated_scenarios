@@ -27,8 +27,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D100210000_02_030");
-MsgDisp("Sassa","Yeah, but we were together as a pair. I
-wonder what kind of competition it was,
+MsgDisp("Sassa","Yeah, but we were together as a pair.
+I wonder what kind of competition it was,
 I'll think about it. See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

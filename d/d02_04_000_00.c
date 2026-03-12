@@ -4,8 +4,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("D020400000_04_000");
-MsgDisp("Nanatsumori","Now that I think about it, I just
-came here in my usual clothes.");
+MsgDisp("Nanatsumori","Now that I think about it, I just came here
+in my usual clothes.");
 ChMotion(4,1,1);
 VoicePlay("D020400000_04_010");
 MsgDisp("Nanatsumori","Let me ask you, then.

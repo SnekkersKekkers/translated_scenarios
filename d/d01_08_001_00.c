@@ -41,8 +41,7 @@ Okay, stop!
 Thanks like always, Kondo-san!");
 VoicePlay("D010800100_43_020");
 MsgDisp("Man A","Today's Dai-chan's day, after all.
-Car wash and a full tank of premium,
-please.");
+Car wash and a full tank of premium, please.");
 StlEyeOpenLevel(8,5);
 VoicePlay("D010800100_08_040");
 MsgDisp("Shirahane","No problem!
@@ -52,17 +51,15 @@ VoicePlay("D010800100_08_050");
 MsgDisp("Shirahane","Ah, the coffee is free but please limit
 yourself to less than 20 cups!");
 VoicePlay("D010800100_43_030");
-MsgDisp("Man A","I'd be too full if I drank all that
-coffee. My mom will get mad at me if I
-don't eat dinner!");
+MsgDisp("Man A","I'd be too full if I drank all that coffee.
+My mom will get mad at me if I don't eat
+dinner!");
 StlEyeOpenLevel(8,#1);
 VoicePlay("D010800100_08_060");
-MsgDisp("Shirahane","The shop would also go bankrupt due to
-coffee costs, so let's help each other
-out!");
+MsgDisp("Shirahane","The shop would also go bankrupt due to coffee
+costs, so let's help each other out!");
 VoicePlay("D010800100_39_040");
-MsgDisp("Man B","Dai-chan, how many candies are okay to
-take?");
+MsgDisp("Man B","Dai-chan, how many candies are okay to take?");
 StlEye(8,1,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800100_08_070");
@@ -99,8 +96,8 @@ ChMouth(8,3);
 VoicePlay("D010800100_08_100");
 MsgDisp("Shirahane","It's not like that.
 Those people c'mere all the time.");
-MsgDisp("主人公","But it looked like they came here just to
-see you, ｛Daichi＊＊｝.");
+MsgDisp("主人公","But it looked like they came here just to see
+you, ｛Daichi＊＊｝.");
 ChEye(8,0);
 ChMouth(8,2);
 ChMotion(8,2,1);
