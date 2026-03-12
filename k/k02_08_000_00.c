@@ -17,7 +17,7 @@ MsgDisp("主人公","｛Daichi＊＊｝!?
 What is it?");
 VoicePlay("K020800000_08_010");
 MsgDisp("Shirahane","Today's your birthday, isn't it?
-So, I wanted t'give you this.");
+So, I wanted to give ya this.");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(8,3);
@@ -32,9 +32,9 @@ ChMouth(8,3);
 ChMotion(8,2,1);
 ChCheek(8,6);
 VoicePlay("K020800000_08_030");
-MsgDisp("Shirahane","I thought super hard about you when I was
+MsgDisp("Shirahane","I thought super hard about ya when I was
 choosin' this...
-I'll be happy if you end up likin' it.");
+I'll be happy if ya end up likin' it.");
 MsgDisp("主人公","Hehe, thanks!");
 ChEye(8,3);
 ChMouth(8,3);
