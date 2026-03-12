@@ -36,10 +36,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B360250100_02_030");
-MsgDisp("Sassa","Yeah, it's unfair. To begin with, I
-thought he just was a weird guy who would
-remember things from the past...but it's
-different now.");
+MsgDisp("Sassa","Yeah, it's unfair.
+At first I thought he was just a weird guy
+who remembered the past...but now it's different.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

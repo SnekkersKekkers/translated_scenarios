@@ -26,9 +26,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360302300_03_020");
-MsgDisp("Honda","When you think of something
-'breath-taking', it'd be this view for
-sure.");
+MsgDisp("Honda","If you ask me what's truly breathtaking,
+it'd be this view for sure.");
 ChEye(3,4);
 ChMotion(3,4,1);
 VoicePlay("B360302300_03_030");

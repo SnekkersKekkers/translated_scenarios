@@ -17,8 +17,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650400_06_010");
 MsgDisp("Himuro","Aside from being with you...
-Being in such a glittery place would be
-nonsense for a guy.");
+A guy has no business being in a place
+this glittery.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,0);
 ChMouth(6,0);

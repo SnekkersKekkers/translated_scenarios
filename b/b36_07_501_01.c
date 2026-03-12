@@ -42,7 +42,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 VoicePlay("B360750101_07_050");
-MsgDisp("Mikage","Come on, hurry up slowly.");
+MsgDisp("Mikage","Come on.
+Let's hurry at a slow pace.");
 MsgDisp("主人公","Okay.");
 BGMStop();
 MsgClose();

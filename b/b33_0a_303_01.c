@@ -63,7 +63,7 @@ MsgDisp("Himuro","Then I would like an instrument or surfing
 shop.
 ...You?");
 MsgDisp("主人公","Hmm....
-Maybe some tasty food you can eat whilst
+Maybe some tasty food you can eat while
 walking around?");
 ChEye(1,0);
 ChMouth(1,3);

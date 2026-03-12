@@ -20,9 +20,9 @@ Wait(20,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550400_05_020");
-MsgDisp("Hiiragi","Yes, I've been thinking about it since
-yesterday. Though, I felt bad for
-Inori-kun and Mikage-sensei.");
+MsgDisp("Hiiragi","Yes, I've been planning this since
+yesterday.
+I felt bad for Inori-kun and Mikage-sensei, though.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B360550400_05_030");

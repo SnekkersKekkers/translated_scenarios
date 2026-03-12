@@ -27,8 +27,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B360250401_02_020");
 MsgDisp("Sassa","Hm?
-What's with that calm perspective?
-Is it only me who's excited?");
+What's with that calm take?
+Am I the only one excited here?");
 MsgDisp("主人公","No.
 I'm super happy that you invited me to
 this limited-time place.");

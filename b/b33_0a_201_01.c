@@ -46,8 +46,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A20101_01_010");
-MsgDisp("Kazama","I'm not like you guys where I'm good at
-swimming.
+MsgDisp("Kazama","I'm not a good swimmer like you guys.
 And, there's her.");
 MsgDisp("主人公","Eh, me?");
 ChEye(6,0);

@@ -62,8 +62,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360615200_06_080");
-MsgDisp("Himuro","Now that I feel relieved, I feel like all
-the unnecessary energy is gone.");
+MsgDisp("Himuro","Now that I'm relieved, all that
+unnecessary tension is gone.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);

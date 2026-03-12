@@ -40,7 +40,7 @@ ChClose(2,0,30);
 ChClose(1,0,30);
 ChClose(6,0,30);
 VoicePlay("B330A30201_01_010");
-MsgDisp("Kazama","Then, let's hit whilst saying something we
+MsgDisp("Kazama","Then, let's hit it while saying something we
 like!");
 SEWait();
 VoicePlay("B330A30201_01_020");

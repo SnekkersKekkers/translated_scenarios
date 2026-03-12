@@ -28,7 +28,7 @@ MsgDisp("Kazama","Why you say, what will we do when we're
 riding it?");
 ChSet(3,3);
 VoicePlay("B330B30800_03_000");
-MsgDisp("Honda","Let's all chat whilst travelling through
+MsgDisp("Honda","Let's all chat while travelling through
 the sky!");
 ChEye(1,0);
 ChMouth(1,2);
@@ -37,7 +37,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B330B30800_01_020");
 MsgDisp("Kazama","That's fine for you, but what about us?");
 MsgDisp("主人公","I guess we'll listen to ｛Honda＊＊｝'s
-chatter whilst looking at the beautiful
+chatter while looking at the beautiful
 scenery?");
 ChSet(3,0);
 ChEye(4,0);

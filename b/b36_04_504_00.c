@@ -32,8 +32,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B360450400_04_030");
 MsgDisp("Nanatsumori","Um, how should I say this...
-We sort of snuck away from them to go on a
-date in a place like this.");
+We sort of ditched them to go on a date
+in a place like this.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);

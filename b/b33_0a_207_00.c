@@ -33,7 +33,7 @@ MsgDisp("主人公","｛Sassa＊＊｝?");
 VoicePlay("B330A20700_02_010");
 MsgDisp("Sassa","It's dangerous, I'll accidentally step on
 you.
-Get off me...");
+Shoo, get away...");
 VoicePlay("B330A20700_48_000");
 MsgDisp("Staff","Alright, it's feeding time.");
 MsgClose();
@@ -64,7 +64,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A20700_06_010");
-MsgDisp("Himuro","Maybe it's cause he smells like catnip?");
+MsgDisp("Himuro","Maybe he smells like catnip?");
 MsgDisp("主人公","Ehh?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -97,7 +97,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A20700_06_020");
-MsgDisp("Himuro","...Surely it's his hairwax.");
+MsgDisp("Himuro","...It's probably his hair wax.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

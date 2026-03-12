@@ -36,10 +36,11 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("B330A20301_02_010");
-MsgDisp("Sassa","I see. Then, let's compete on how long we
-can dive for. Shall we do that?");
-MsgDisp("主人公","If so...that might be fine.
-But you all have to be careful okay?");
+MsgDisp("Sassa","I see.
+Then, let's compete on who can hold their
+breath the longest. How about that?");
+MsgDisp("主人公","That should be fine, I guess.
+But you all have to be careful, okay?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

@@ -71,9 +71,9 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B360423600_04_080");
-MsgDisp("Nanatsumori","I got too energetic...
-This is definitely the most mortifying
-thing of this year...");
+MsgDisp("Nanatsumori","I got too carried away...
+This is definitely the most embarrassing
+thing I've done all year...");
 MsgDisp("主人公","Hey, ｛Nanatsumori＊｝, cheer up.
 Let's watch the parade?");
 ChEyeOpenLevel(4,0);

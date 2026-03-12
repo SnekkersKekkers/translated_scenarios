@@ -150,9 +150,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A20801_01_070");
-MsgDisp("Kazama","Inori, there's great damage in guys riding
-altogether on a ferris wheel.
-But surely this will change the tide.");
+MsgDisp("Kazama","Inori, riding a ferris wheel with a bunch
+of guys is embarrassing.
+But surely this will turn things around.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

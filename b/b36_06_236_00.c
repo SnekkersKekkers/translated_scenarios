@@ -65,8 +65,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360623600_06_070");
-MsgDisp("Himuro","I'm sure all the men that go here come
-with ulterior motives just like that.");
+MsgDisp("Himuro","I'm sure every guy who comes here has
+ulterior motives like that.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);

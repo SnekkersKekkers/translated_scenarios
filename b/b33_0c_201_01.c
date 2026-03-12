@@ -26,7 +26,7 @@ ChMotion(5,4);
 VoicePlay("B330C20101_05_000");
 MsgDisp("Hiiragi","I can see why it's of great interest.
 It truly does look as though it is clad in
-armour.");
+armor.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -99,10 +99,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20101_06_040");
-MsgDisp("Himuro","Recently, I've been acting like it's none
-of my business, but Kojiro-sensei is the
-most extreme example of someone that's not
-normal. Like a giant isopod.");
+MsgDisp("Himuro","You've been acting like it's none of your
+business, but Kojiro-sensei is the prime
+example of not normal. Like a giant isopod.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

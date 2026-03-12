@@ -46,8 +46,8 @@ Well, I shouldn't push my luck.");
     ChEye(5,4);
     ChMouth(5,4);
     VoicePlay("B350500000_05_050");
-    MsgDisp("Hiiragi","No, thanks to you everyone won't get mad
-at me.
+    MsgDisp("Hiiragi","No, thanks to this I won't get scolded by
+everyone.
 Well, I'll cool my head and go home.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

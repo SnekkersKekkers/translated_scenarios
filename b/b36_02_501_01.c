@@ -45,9 +45,9 @@ MsgDisp("Sassa","I'm going to climb it for a bit!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛Sassa＊＊｝, you're like a kid?
-Maybe we also used to play like this
-together in Kindergarten...?)");
+MsgDisp("主人公","(｛Sassa＊＊｝ is like a little kid.
+Maybe we used to play like this together
+in kindergarten...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

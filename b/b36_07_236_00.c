@@ -35,7 +35,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 ScrFadeIn(0);
 VoicePlay("B360723600_07_030");
-MsgDisp("Mikage","Everything is so exciting～!");
+MsgDisp("Mikage","Getting way too carried away～!");
 MsgDisp("主人公","｛Mikage＊＊｝, sorry for making you
 come...");
 ChEye(7,0);

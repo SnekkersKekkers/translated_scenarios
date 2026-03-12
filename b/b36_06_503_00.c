@@ -51,8 +51,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650300_06_060");
-MsgDisp("Himuro","I'm happy I was able to escape ...but I
-also feel guilty.");
+MsgDisp("Himuro","I'm happy I got a head start...but I also
+feel guilty.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

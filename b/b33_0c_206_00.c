@@ -87,8 +87,8 @@ ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330C20600_06_040");
 MsgDisp("Himuro","Yanosuke-senpai.
-They're selling the background music CD's
-over there!");
+They're selling the soundtrack CDs over
+there!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

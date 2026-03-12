@@ -29,7 +29,7 @@ ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("B360501100_05_030");
 MsgDisp("Hiiragi","That's right.
-I can definitely see you in my eyes.");
+And I can see you clearly, right here.");
 MsgDisp("主人公","Huh?");
 ChEye(5,4);
 ChMotion(5,4);
@@ -44,7 +44,8 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360501100_05_050");
 MsgDisp("Hiiragi","Is that right?
-But having you all to myself is a success.");
+But having you all to myself is quite the
+accomplishment.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...?");
 ChEye(5,3);
 VoicePlay("B360501100_05_060");

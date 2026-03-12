@@ -30,21 +30,21 @@ makes my head a little tired.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550300_05_030");
-MsgDisp("Hiiragi","Of course it's fun, but too many things
-cross my mind.");
-MsgDisp("主人公","Unwanted thoughts?");
+MsgDisp("Hiiragi","Of course it's fun, but too many strange
+thoughts cross my mind.");
+MsgDisp("主人公","Strange thoughts?");
 ChEye(5,2);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550300_05_040");
-MsgDisp("Hiiragi","Inori's precise management and
-Mikage-sensei's humor...");
+MsgDisp("Hiiragi","Inori-kun's awareness and Mikage-sensei's 
+humor...");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550300_05_050");
 MsgDisp("Hiiragi","There's no way I could imitate them.
 I feel inferior to those two.
-It's pathetic...");
+It's embarrassing...");
 MsgDisp("主人公","Huh∋
 ｛Hiiragi＊＊＊｝ feels inferior?");
 ChMouth(5,4);

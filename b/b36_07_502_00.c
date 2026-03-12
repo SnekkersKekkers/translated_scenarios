@@ -60,7 +60,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360750200_07_050");
 MsgDisp("Mikage","Let's bring them next time.
-They'll probably sulk about it.");
+They'll probably sulk about it.
+Shall we head out?");
 MsgDisp("主人公","Hehe, okay.");
 BGMStop();
 MsgClose();

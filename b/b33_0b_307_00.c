@@ -23,7 +23,7 @@ VoicePlay("B330B30700_03_000");
 MsgDisp("Honda","Hmm, an interesting comment!
 What do you find strange about it?");
 MsgDisp("主人公","Hmmm...
-Maybe it's the cute colours or how fluffy
+Maybe it's the cute colors or how fluffy
 it feels?");
 ChEye(3,2);
 ChMouth(3,3);

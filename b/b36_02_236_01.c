@@ -33,7 +33,7 @@ SEWait();
 MsgDisp("主人公","Hey, skull bear!");
 VoicePlay("B360223601_02_020");
 MsgDisp("Sassa","It really is.
-It's your favourite isn't it?");
+It's your favorite isn't it?");
 MsgDisp("主人公","It's cute.");
 VoicePlay("B360223601_02_030");
 MsgDisp("Sassa","Yeah, the side profile is cute too.");
