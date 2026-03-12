@@ -11,7 +11,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07020_22_010");
 MsgDisp("Hikaru","Right right.
-I mean, he always keeps it on, right?");
+Like how he always keeps it on, right?");
 MsgDisp("主人公","Now that you mention it...");
 ChEye(21,0);
 ChMouth(21,4);

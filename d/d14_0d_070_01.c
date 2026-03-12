@@ -46,7 +46,8 @@ ChMouth(22,3);
 ChMotion(22,1,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D140D07001_22_030");
-MsgDisp("Hikaru","Yeah, it makes me overwhelmed with love▼");
+MsgDisp("Hikaru","Yeah, it makes Hikaru overwhelmed with
+love▼");
 MsgDisp("主人公","(...Huh?
 What question was I asking again?)");
 BGMStop();

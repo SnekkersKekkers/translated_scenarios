@@ -10,8 +10,8 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700000_07_500");
-MsgDisp("Mikage","Ohh, here comes.
-Then, I'll also be serious.");
+MsgDisp("Mikage","Ohh, here it comes.
+Alright, I'll be serious too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -37,8 +37,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B070700000_07_540");
-MsgDisp("Mikage","The most optimum partner is someone always
-nearby, mutually efficient.
+MsgDisp("Mikage","The optimal partner is someone always
+nearby, efficient for both sides.
 A partner for co-existence.");
 MsgDisp("主人公","Umm, this feels like a biology class
 though...");

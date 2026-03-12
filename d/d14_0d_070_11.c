@@ -31,8 +31,8 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D140D07011_22_020");
-MsgDisp("Hikaru","I'm sure there are feelings he doesn't
-want you to see.");
+MsgDisp("Hikaru","Hikaru's sure there are feelings he
+doesn't want you to see.");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);

@@ -5,16 +5,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_250");
-MsgDisp("Mikage","Surprisingly Inori is the one doing the
-talking?");
+MsgDisp("Mikage","Surprisingly, Inori's the one leading the
+conversation, you know?");
 MsgDisp("主人公","Is that right?");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B070700001_07_260");
-MsgDisp("Mikage","Yeah, whilst he talks to Yanosuke, he'll
-try to probe into the student council's
-activities.");
+MsgDisp("Mikage","Yeah, while he's chatting with Yanosuke,
+he'll try to probe into the student
+council's activities.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

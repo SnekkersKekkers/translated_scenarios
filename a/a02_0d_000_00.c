@@ -56,7 +56,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("A020D00000_22_030");
 MsgDisp("Hikaru","Spot on♪
-I'm Hanatsubaki Hikaru!▼");
+Hanatsubaki Hikaru here!▼");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -109,7 +109,7 @@ ChMotion(22,3,1);
 VoicePlay("A020D00000_22_060");
 MsgDisp("Hikaru","Yup yup!
 And when love blossoms, come straight to
-me, okay?▼");
+Hikaru, okay?▼");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
@@ -122,7 +122,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("A020D00000_22_070");
-MsgDisp("Hikaru","Just call me \"Hikaru\", Mari～♪");
+MsgDisp("Hikaru","Just call Hikaru \"Hikaru\", Mari～♪");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

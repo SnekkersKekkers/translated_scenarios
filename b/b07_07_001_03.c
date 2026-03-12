@@ -10,9 +10,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700001_07_170");
-MsgDisp("Mikage","Recently there's been you, Yanosuke and
-Inori; it's not just lively, there's an
-interesting group forming.");
+MsgDisp("Mikage","And lately with you, Yanosuke, and Inori
+around, it's not just lively anymore.
+There's a real interesting crew forming.");
 MsgDisp("主人公","Eh, even me?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -54,9 +54,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070700001_07_230");
-MsgDisp("Mikage","Everyone is doing their own things, but to
-me, that attitude makes them cute, cool
-and pretty.");
+MsgDisp("Mikage","You're all doing totally different things,
+but that dedication looks cute, cool, and
+beautiful to me.");
 MsgDisp("主人公","I'm super happy but...
 I'm not like that at a——");
 ChEye(7,0);

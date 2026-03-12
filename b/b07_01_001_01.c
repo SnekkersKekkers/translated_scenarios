@@ -45,7 +45,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B070100001_01_060");
 MsgDisp("Kazama","More than him liking me...it was like I
 was just right.
-Like a suitable prey, it was terrifying.");
+He treated me like suitable prey. Terrifying.");
 MsgDisp("主人公","Hehe.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);

@@ -7,8 +7,8 @@ ScrFadeIn(0);
 VoicePlay("B040602102_06_000");
 MsgDisp("Himuro","This place has a nice atmosphere.
 Like I can experience something outside of
-the ordinary.");
-MsgSel("Is it a nice atmosphere the same as it being unusual?","Once in a while, I want to forget about my everyday life.","Maybe it depends on who you're with");
+the usual.");
+MsgSel("A nice atmosphere is unusual?","Once in a while, I want to forget about my everyday life.","Maybe it depends on who you're with?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

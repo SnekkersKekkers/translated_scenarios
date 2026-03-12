@@ -68,8 +68,9 @@ MsgClose();
 ChOpen(3,254,0,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010300200_03_050");
-MsgDisp("Honda","She always says...\" Thank you for the
-unnecessary explanation...\"");
+MsgDisp("Honda","She always says...
+\"Thank you for the unnecessary 
+explanation...\"");
 MsgDisp("主人公","Hehe!");
 ChEye(3,1);
 ChMouth(3,4);

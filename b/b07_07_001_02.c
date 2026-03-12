@@ -34,8 +34,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_120");
 MsgDisp("Mikage","Right?
-You're also older than him, so you should
-have a good grasp on these things.");
+You're a year older than him, so you
+should be able to pick up on that.");
 MsgDisp("主人公","Umm, so what should I do...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -59,7 +59,7 @@ ChMotion(7,1);
 VoicePlay("B070700001_07_150");
 MsgDisp("Mikage","To overthrow Vice Principal Himuro.");
 MsgDisp("主人公","(Overthrow...
-What does ｛Mikage＊＊｝ and ｛Himuro＊＊｝
+What do ｛Mikage＊＊｝ and ｛Himuro＊＊｝
 intend to do together?)");
 BGMStop();
 MsgClose();

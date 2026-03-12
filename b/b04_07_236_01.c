@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3);
     VoicePlay("B040723601_07_010");
     MsgDisp("Mikage","The dancers' costumes are intricate
-too—...The appearance of the world is a
-bit of a mystery, though.");
+too—...The overall theme is a bit of a
+mystery, though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
