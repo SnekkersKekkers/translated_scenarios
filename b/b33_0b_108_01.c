@@ -63,8 +63,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B10801_01_020");
 MsgDisp("Kazama","But, it can't be helped.
-For the sake of the scaredy cat
-especially—");
+For the sake of the scaredy cat especially—");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

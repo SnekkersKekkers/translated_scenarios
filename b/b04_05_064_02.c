@@ -68,7 +68,8 @@ ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040506402_05_070");
-MsgDisp("Hiiragi","Haa— I'm alright.
+MsgDisp("Hiiragi","Haa—
+I'm alright.
 I'm happy about everyone's feelings...");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 That's good.");

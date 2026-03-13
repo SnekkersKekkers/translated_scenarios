@@ -104,9 +104,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B050300000_03_110");
-MsgDisp("Honda","I guess so. Oh, look.
-The CD is in stock.
-I'll buy it.");
+MsgDisp("Honda","I guess so.
+Oh, look.
+The CD is in stock. I'll buy it.");
 MsgDisp("主人公","Eh, ｛Honda＊＊｝, I thought you didn't like
 it...");
 ChEye(3,0);

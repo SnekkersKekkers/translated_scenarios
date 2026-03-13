@@ -55,8 +55,7 @@ ScrFadeIn(0);
 VoicePlay("B050200000_02_050");
 MsgDisp("Sassa","I see...");
 MsgDisp("主人公","Uhm...
-So I hold it firmly at the base and
-squeeze—");
+So I hold it firmly at the base and squeeze—");
 SEPlay("EV_SE_521");
 SEWait();
 StlEye(2,0);
