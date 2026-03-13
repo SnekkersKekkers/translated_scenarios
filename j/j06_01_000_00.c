@@ -127,7 +127,7 @@ I'm just...");
         ChEyeOpenLevel(1,0);
         VoicePlay("J060100000_01_100");
         MsgDisp("Kazama","It's fine.
-Even though it's not good.");
+Not that it's okay with me.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,0);

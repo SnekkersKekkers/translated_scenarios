@@ -36,8 +36,8 @@ Let's stop for today...)");
     MsgDisp("Kazama","I got your message.");
     MsgDisp("主人公","Ah, what's your answer?");
     VoicePlay("J030101001_01_040");
-    MsgDisp("Kazama","That's unfortunate but...
-I can't on that day.
+    MsgDisp("Kazama","Bad timing, I know...
+That day's the only day I can't.
 Sorry.");
     MsgDisp("主人公","I see.
 Can I call you another time?");

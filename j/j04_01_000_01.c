@@ -19,7 +19,7 @@ What's up?");
     MsgDisp("Kazama","Ah, can I talk to you for a second?");
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040100001_01_010");
-    MsgDisp("Kazama","Sunday is coming.
+    MsgDisp("Kazama","So, about this Sunday—
 Are you free?");
     MsgSel("Yeah, I'm free.","I have some business to take care of...");
     switch (MsgSelRsltGet()){

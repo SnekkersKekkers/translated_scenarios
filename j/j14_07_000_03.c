@@ -10,7 +10,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 VoicePlay("J140700003_07_000");
 MsgDisp("Mikage","Well then, can't be helped.
-I'll reach out again.
+I'll hit you up again.
 Come on, cheer up, will you?");
 MsgClose();
 ChEyeOpenLevel(5,#1);

@@ -72,7 +72,7 @@ Well, then I guess I can't blame you...");
     VoicePlay("J030401001_04_080");
     MsgDisp("Nanatsumori","Don't make that sound.
 I'll make it up to you next time.
-Well then...");
+See ya...");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmmm, too bad...)");

@@ -24,8 +24,8 @@ Too bad.");
     MsgDisp("主人公","Is that so...
 Well, then I don't blame you.");
     VoicePlay("J030400001_04_040");
-    MsgDisp("Nanatsumori","Next time you try, go for it.
-Well then.");
+    MsgDisp("Nanatsumori","Next time you try, good luck.
+See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmmm, too bad!)");

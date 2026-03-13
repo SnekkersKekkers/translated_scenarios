@@ -41,7 +41,7 @@ asking me... Sorry.");
     MsgDisp("主人公","That's okay.
 I'll call you another time.");
     VoicePlay("J030200001_02_070");
-    MsgDisp("Sassa","Huhh, but when is \"another time\"?
+    MsgDisp("Sassa","Hah, but when will \"another time\" actually come?
 Bye...");
     MsgDisp("主人公","Y-Yeah.");
     SEPlay("SYS_SE_PHONE_POWER_ON");

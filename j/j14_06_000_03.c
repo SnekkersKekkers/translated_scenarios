@@ -16,6 +16,6 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("J140600003_06_000");
 MsgDisp("Himuro","Oh, well.
-Well, I guess I don't have a choice then.");
+Guess I don't have a choice then.");
 MsgClose();
 ChEyeOpenLevel(5,#1);

@@ -18,7 +18,7 @@ Well, see you later then?");
     case 3:
     VoicePlay("J030300001_03_020");
     MsgDisp("Honda","Ah, on that day, I think...");
-    MsgDisp("主人公","Does it seem inconvenient?");
+    MsgDisp("主人公","Is that a bad time?");
     VoicePlay("J030300001_03_030");
     MsgDisp("Honda","Yeah.
 Sorry, even though you went out of your way

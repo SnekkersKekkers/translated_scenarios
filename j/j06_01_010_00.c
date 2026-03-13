@@ -82,7 +82,7 @@ I feel bad about that...)");
 I'm just...");
         VoicePlay("J060101000_01_100");
         MsgDisp("Kazama","It's fine.
-Even though it's not good.");
+Not that it's okay with me.");
         VoicePlay("J060101000_01_110");
         MsgDisp("Kazama","I'll make sure I have a plan next time.");
         MsgDisp("主人公","Uh-huh.

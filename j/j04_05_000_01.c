@@ -33,7 +33,7 @@ I was wondering if you were free...");
 I am sorry to hear that.");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("J040500001_05_030");
-        MsgDisp("Hiiragi","No, no, I will invite you back.
+        MsgDisp("Hiiragi","No, no, I'll invite you again.
 See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
