@@ -72,8 +72,8 @@ That's too bad.");
 I thought I could make it work, but I
 couldn't. Really sorry.");
     VoicePlay("J030201001_02_090");
-    MsgDisp("Sassa","But hearing your voice on the voicemail...
-it was kinda refreshing.
+    MsgDisp("Sassa","But hearing your voice on the voicemail... it
+was kinda refreshing.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

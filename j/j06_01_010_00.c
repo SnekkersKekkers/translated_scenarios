@@ -88,8 +88,7 @@ Not that it's okay with me.");
         MsgDisp("主人公","Uh-huh.
 See you later?");
         VoicePlay("J060101000_01_120");
-        MsgDisp("Kazama","If we're together, who cares where we
-are...");
+        MsgDisp("Kazama","If we're together, who cares where we are...");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Hmm...

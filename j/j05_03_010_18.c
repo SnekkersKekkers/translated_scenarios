@@ -1,4 +1,4 @@
 VoicePlay("J050301018_03_000");
-MsgDisp("Honda","Hey hey, do you want to go to the Arcade
-with me?
+MsgDisp("Honda","Hey hey, do you want to go to the Arcade with
+me?
 It's exciting there, right?");

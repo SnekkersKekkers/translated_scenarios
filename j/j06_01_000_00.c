@@ -140,8 +140,7 @@ See you later?");
         ChMotion(1,2);
         ChEyeOpenLevel(1,7);
         VoicePlay("J060100000_01_120");
-        MsgDisp("Kazama","If we're together, who cares where we
-are...");
+        MsgDisp("Kazama","If we're together, who cares where we are...");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
