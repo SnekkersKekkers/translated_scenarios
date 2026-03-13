@@ -59,7 +59,8 @@ Alright, let's go!");
     Wait(10,0);
     ChEyeOpenLevel(1,#1);
     VoicePlay("B030123000_01_040");
-    MsgDisp("Kazama","I wonder what color car will come.");
+    MsgDisp("Kazama","I wonder what color gondola
+    will come.");
     break ;
     case 2:
     MsgDispSksp(1,0);
