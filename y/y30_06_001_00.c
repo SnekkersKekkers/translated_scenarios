@@ -38,10 +38,9 @@ MsgDisp("","When I looked up, the class clown was
 looking at me, smiling happily.");
 MsgClear();
 VoicePlay("Y300600100_42_010");
-MsgDisp("School Boy","\"Not only can you get in through
-connections, won't you also get
-various kinds of favourable
-treatments?\"");
+MsgDisp("School Boy","\"Not only do you get in through
+connections, but you'd get all kinds
+of special treatment too, right?\"");
 VoicePlay("Y300600100_06_000");
 MsgDisp("Himuro","\"...Ha?\"");
 VoicePlay("Y300600100_42_020");
@@ -49,9 +48,9 @@ MsgDisp("School Boy","\"You know, like getting the test
 questions leaked to you or
 something.\"");
 MsgClear();
-MsgDisp("","To him, he probably meant it as a
-slight joke. That I would pay it no
-mind and keep walking.");
+MsgDisp("","To him, it was probably just a
+throwaway joke — he expected me to
+shrug it off and walk away.");
 MsgDisp("","Without knowing how uncomfortable
 that topic was for me.");
 MsgClear();
@@ -62,11 +61,9 @@ MsgDisp("School Boy","\"Eh?\"");
 VoicePlay("Y300600100_06_020");
 MsgDisp("Himuro","Just listening to you is a waste of
 time.");
-MsgDisp("","It seems they expected a completely
-different response, I spared my
-classmates a backwards glance, seeing
-them in their dumbfounded states as I
-left the classroom.");
+MsgDisp("","They'd clearly expected a different
+reaction. I glanced back at my
+stunned classmates and walked out.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -87,12 +84,12 @@ curiosity.");
 MsgDisp("","That's how strong of an impression,
 Vice Principal Himuro, my uncle
 Himuro Reiichi, leaves behind.");
-MsgDisp("","He's excellent, he's strict, it would
-be hard to speak ill of him.");
+MsgDisp("","Excellent, strict — rigid, if one
+were to put it unkindly.");
 MsgClear();
-MsgDisp("","And so, at the time I entered middle
-school, when my teachers heard that,
-I was quite well-known.");
+MsgDisp("","So by the time I entered middle
+school, I was already quite
+well-known among the teachers.");
 MsgDisp("","But, everyone only looked at the name
 'Himuro' and not me as a person.");
 MsgClear();
@@ -108,11 +105,11 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClear();
 BGOpen("ad612",0);
 ScrFadeIn(0);
-MsgDisp("","Until now, I had decided without
-doubt. But I began to be skeptical of
-my path, and so, the legs that had
-intended to go home, turned towards
-the sea.");
+MsgDisp("","Until now, I'd never had any doubts.
+But uncertainty had crept in, and
+before I knew it, the feet that
+should have taken me home were
+carrying me toward the sea instead.");
 MsgDisp("","My insignificant existence, my
 insignificant worries.");
 MsgDisp("","When I look at the sea, all that I
@@ -122,11 +119,11 @@ MsgClear();
 MsgDisp("","When it comes down to it, the reason
 I started surfing was because I
 became conscious of my name.");
-MsgDisp("","I didn't want to appear as a stubborn
-person, I wanted to find a me that
-was different to my relatives.
-Getting tossed around by the waves
-many times, I challenged myself.");
+MsgDisp("","I didn't want to be seen as rigid
+like him. I wanted to find a version
+of myself that was my own.
+I challenged myself, getting knocked
+down by the waves again and again.");
 MsgClear();
 MsgDisp("","And then, that time I first rode a
 wave...");
@@ -136,8 +133,8 @@ thick. I had an epiphany, feeling as
 though I had conquered the entire
 ocean.");
 MsgDisp("","In that instant, for the first time,
-I felt as though I had a feeling, a
-moment that was unique to me.");
+I felt as though I had found something
+that was entirely, uniquely mine.");
 MsgClear();
 MsgDisp("","—That's right.
 No matter what other people say, I am
@@ -149,10 +146,9 @@ MsgDisp("","Proving that to myself at Habataki
 High School, where Reiichi-san is,
 has value.");
 MsgClear();
-MsgDisp("","Each time a roar of waves accumulate,
-I feel that the thing that made me
-uncertain, begins to get smaller, and
-smaller.");
+MsgDisp("","With each crash of the waves, I felt
+the thing that had been weighing on
+me growing smaller and smaller.");
 MsgDisp("","The answer is already clear.");
 VoicePlay("Y300600100_06_040");
 MsgDisp("Himuro","\"Because I am who I am.\"");

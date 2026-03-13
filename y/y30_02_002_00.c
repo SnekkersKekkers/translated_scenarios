@@ -68,7 +68,7 @@ ScrFadeIn(0);
 MsgDisp("","After I parted ways from her, I
 absentmindedly thought about drinking
 milk starting from tomorrow morning?
-And such things.");
+Things like that.");
 MsgDisp("","My Mom was surprised.
 But, when she asked for the reason...
 It was difficult to answer.");

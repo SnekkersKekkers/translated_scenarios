@@ -21,7 +21,7 @@ MsgDisp("","Yep.
 Your smile is nice today too.");
 MsgDisp("","While being satisfied with the
 pleasant reception, I headed towards
-my favourite seat.");
+my favorite seat.");
 MsgClear();
 MsgDisp("","I started to pick up the menu placed
 on the small table of the teahouse,
@@ -49,7 +49,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClear();
-MsgDisp("","I waited for \"Today's Special\" whilst
+MsgDisp("","I waited for \"Today's Special\" while
 enjoying some freshly-brewed coffee.");
 MsgDisp("","Even though I said it's special, I'm
 just thinking of it that way by
@@ -75,9 +75,8 @@ MsgDisp("","\"Banana＆chocolate sundae—\" and
 MsgDisp("","I see...that's how it is!");
 MsgClear();
 MsgDisp("","I seriously get it.");
-MsgDisp("","Right. Currently when I finish work,
-I can't stomach dinner, and request
-for sweets.");
+MsgDisp("","Right. Lately after work,
+I just have sweets for dinner.");
 MsgDisp("","And that's why they made this choice.");
 MsgClear();
 MsgDisp("","\"Biscuit Kingdom \" in particular was

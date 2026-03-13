@@ -12,7 +12,7 @@ ScrFadeIn(0);
 MsgDisp("","His swirl is lovely today too.
 If I come to the shopping mall, my
 feet naturally gravitate here.");
-MsgDisp("","In middle school, my Mum told me
+MsgDisp("","In middle school, my Mom told me
 about him. Since then, I've often
 come here by myself to see him.");
 MsgClear();

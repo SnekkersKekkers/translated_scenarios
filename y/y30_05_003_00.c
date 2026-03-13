@@ -11,9 +11,9 @@ would I even apologize....)");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("","When I welcomed those two to the
-habataki theatre troupe for the first
-time, they were important members.");
+MsgDisp("","Those two were the first precious
+members I welcomed into the Habataki
+Theatre Troupe.");
 MsgDisp("","I can picture the time they came to
 my dressing room to greet me even
 now.");
@@ -39,12 +39,12 @@ MsgDisp("","I even ended up making those two say
 that they don't enjoy theatre today.");
 VoicePlay("Y300500300_05_020");
 MsgDisp("Hiiragi","\"What kind of chairman am I...\"");
-MsgDisp("","What I'm doing, is not letting
-everyone enjoy it, this is the
-opposite. I'm plucking at people's
-dreams..");
-MsgDisp("","Furthermore, I did it
-unconsciously...how horrible.");
+MsgDisp("","What I've been doing isn't letting
+everyone enjoy it — it's the
+opposite. I've been trampling on
+people's dreams.");
+MsgDisp("","And I did it without even realizing...
+I'm the worst.");
 MsgClear();
 VoicePlay("Y300500300_05_030");
 MsgDisp("Hiiragi","(...I can't go home. I can't face
@@ -58,10 +58,9 @@ MsgDisp("Hiiragi","\"...You must be disillusioned
 with me like this.\"");
 MsgDisp("","But, by chance, maybe it's a good
 thing you got to see the real me.");
-MsgDisp("","Being chairman and in the student
-council...I'm only good at keeping up
-with appearances, this is the real
-me.");
+MsgDisp("","Chairman, student council...
+All I'm good at is making things look
+presentable. That's the real me.");
 MsgClear();
 MsgDisp("主人公","\"No, ｛Hiiragi＊＊＊｝ always gives it
 his best for everyone in both the
@@ -72,10 +71,10 @@ MsgClear();
 MsgDisp("","I unconsciously used the situation I
 was in, the environment I grew up in,
 as a convenient excuse.");
-MsgDisp("","Whether I was a born actor, or even
-unable to attend elementary and
-middle school seriously, doesn't mean
-I should have taken away someone
+MsgDisp("","Whether I was a born actor or someone
+who couldn't even attend elementary
+and middle school properly — that's
+no excuse to trample on someone
 else's dream.");
 MsgDisp("","That shouldn't be an excuse for not
 understanding other people's

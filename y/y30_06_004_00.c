@@ -21,8 +21,8 @@ make friends with seniors in the year
 above me before I could with my
 classmates.");
 MsgClear();
-MsgDisp("","I realized that as I began to
-interact with them more,");
+MsgDisp("","As I spent more time with the three
+of them, I realized something.");
 MsgDisp("","I figured that them being seniors
 didn't significantly impact our
 relationship, and I wouldn't treat
@@ -37,10 +37,10 @@ MsgDisp("School Girl","\"Because they're our seniors?
 It seems like they'd be hard to talk
 to.\"");
 MsgClear();
-MsgDisp("","Such a simplistic way of thinking...
-From my perspective, I don't get
-along with you, who I'm talking to
-here right now.");
+MsgDisp("","What a narrow way to think...
+If anything, I have far less in
+common with you than with any of
+them.");
 MsgDisp("","Just as I didn't treat them as
 special, they didn't distance
 themselves from me just because I was
@@ -75,8 +75,8 @@ and her.");
 MsgClear();
 MsgDisp("","If they're that curious, they should
 just talk to them.");
-MsgDisp("","Friendships with seniors isn't as
-difficult as juniors think.");
+MsgDisp("","Getting along with seniors isn't as
+hard as we juniors make it out to be.");
 MsgDisp("","I wonder what is so 'amazing' about
 this trivial conversation.");
 MsgClear();
@@ -97,20 +97,20 @@ conversation, those were the keywords
 that made me think back to the fact
 that they were my seniors.");
 MsgClear();
-MsgDisp("","So much for no significant
-difference.'");
+MsgDisp("","So much for 'no significant
+difference'.");
 MsgDisp("","Isn't the one year gap between us a
 huge one?");
-MsgDisp("","The voices of these three become
-increasingly distant, and I am
-submerged in the feeling that I am
-vanishing from the spot.");
+MsgDisp("","The voices of the three of them grew
+distant, and I had the strange
+sensation of fading away from that
+place entirely.");
 MsgClear();
 BGOpen("ad643",0);
 MsgDisp("主人公","\"｛Himuro＊＊｝...?\"");
-MsgDisp("","Her worried-sounding voice brings me
-back to my senses. Ryota-senpai and
-the others look at me quizzically");
+MsgDisp("","Her worried voice brought me back.
+Ryota-senpai and the others were
+looking at me with puzzled faces.");
 VoicePlay("Y300600400_01_020");
 MsgDisp("Kazama","\"Haa...that's why I told you you
 should've just gotten the cold soba.\"");

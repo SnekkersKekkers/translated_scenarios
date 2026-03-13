@@ -16,10 +16,9 @@ MsgDisp("Track Club","\"Listen, this is the last year for
 the seniors. If you act like that
 after winning, the losers can't rest
 in peace.\"");
-MsgDisp("","This is the first time I knew that
-the result of me taking on the
-challenge with all my power, is that
-people would get offended...");
+MsgDisp("","It was the first time I realized
+that giving everything I had could
+make others feel bad...");
 MsgClear();
 MsgDisp("","To reach my dream, I need to train
 hard enough to win every event;
@@ -61,7 +60,7 @@ accept anything else she said.");
 MsgClear();
 MsgDisp("","...Even though I loved track, before
 I knew it, I was only smiling on the
-inside.");
+outside.");
 MsgDisp("","The me who can talk to Ryota and my
 friends, and the me who's in track,
 are getting further and further

@@ -61,8 +61,8 @@ MsgClear();
 MsgDisp("","I don't remember much after arriving
 in England.");
 MsgDisp("","Children are resilient.
-To protect themselves, they distract
-their minds.");
+To protect themselves, they learn to
+compartmentalize.");
 MsgDisp("","But then came the first Christmas...");
 MsgClear();
 VoicePlay("Y300100100_47_010");

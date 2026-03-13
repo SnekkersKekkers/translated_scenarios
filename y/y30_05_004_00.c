@@ -12,10 +12,9 @@ VoicePlay("Y300500400_07_000");
 MsgDisp("Mikage","\"Yanosuke!
 Are you headed home now?
 Should we walk together?\"");
-MsgDisp("","Mikage-sensei is a homeroom teacher.
-He's not even an advisor for the
-Student Council I'm a part
-of.");
+MsgDisp("","Mikage-sensei is neither my homeroom
+teacher nor the advisor for the
+Student Council I belong to.");
 MsgDisp("","But, he always looks out for me like
 this.");
 MsgClear();
@@ -96,10 +95,10 @@ MsgClear();
 MsgDisp("","However the other people around us,
 \"take this into consideration\", but
 Mikage-sensei, \"Is concerned\".");
-MsgDisp("","That's my personal interpretation...
-Maybe, Inori-kun also feels the same
-way. That's why we can be together as
-three like this.");
+MsgDisp("","That's just my own reading of it...
+But I think Inori-kun feels the same
+way. That's why the three of us get
+along so well.");
 MsgDisp("","This is Mikage-sensei's character.");
 MsgClear();
 MsgClose();
@@ -132,9 +131,9 @@ spent more time together.
 This became natural.");
 MsgDisp("","I never imagined that such wonderful
 things would happen to me.");
-MsgDisp("","I now realized how important
-Mikage-sensei, Inori-kun and her
-existence is to me.");
+MsgDisp("","I've come to realize just how much
+Mikage-sensei, Inori-kun, and she
+mean to me.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);

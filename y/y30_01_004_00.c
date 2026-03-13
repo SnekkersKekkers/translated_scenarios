@@ -61,7 +61,7 @@ MsgDisp("Honda","\"Ah—, there she is!
 Ryo-kun, Mi-kun, look!
 Over here\"");
 MsgClear();
-MsgDisp("","Honda called out to us whilst holding
+MsgDisp("","Honda called out to us while holding
 onto the handrails of the rooftop.");
 VoicePlay("Y300100400_04_010");
 MsgDisp("Nanatsumori","\"You heard him, Ryo-kun?\"");

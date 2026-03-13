@@ -23,7 +23,7 @@ MsgDisp("","Maybe she's gotten tired of waiting,
 and is in the resthouse...
 Let me go check.");
 MsgClear();
-MsgDisp("","Whilst I was looking for her inside
+MsgDisp("","While I was looking for her inside
 the resthouse, I happened to see a
 happy looking poster.");
 VoicePlay("Y300500100_05_020");
@@ -98,7 +98,7 @@ smile that I love.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("","It melted whilst we were waiting for
+MsgDisp("","It melted while we were waiting for
 the train, though.");
 MsgDisp("","But someday, I want to ski with her
 from the very top.");

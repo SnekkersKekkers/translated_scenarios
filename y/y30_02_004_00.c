@@ -46,7 +46,7 @@ enjoy messing around like this.");
 MsgDisp("","Of course, me too.");
 MsgClear();
 BGOpen("ad242",0);
-MsgDisp("","I watch at the two of them like this,
+MsgDisp("","I watch the two of them like this,
 and while laughing, Ryota turns to me
 and starts talking to me.");
 VoicePlay("Y300200400_01_010");

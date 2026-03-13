@@ -67,7 +67,7 @@ wanted to see.");
 MsgDisp("","Feeling uplifted once more, I
 returned my gaze to the camera.");
 MsgClear();
-MsgDisp("","Still.");
+MsgDisp("","That said...");
 MsgDisp("","Driven by my impatient feelings, I
 brought her along to my work place.");
 MsgClear();
@@ -116,10 +116,10 @@ you're in front of me...");
 MsgDisp("","I'm not being influenced by
 Hazuki-sa—");
 MsgClear();
-MsgDisp("","As she continued to laugh lightly,
-the continuation of the words in my
-head, were swallowed alongside with
-the piping hot coffee.");
+MsgDisp("","As she kept smiling softly,
+the words forming in my head were
+swallowed down along with the
+piping hot coffee.");
 BGMStop();
 MsgClear();
 MsgClose();

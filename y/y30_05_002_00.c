@@ -19,8 +19,8 @@ MsgDisp("Hiiragi","\"Good afternoon.
 Is that your lunch?\"");
 MsgDisp("主人公","\"Ah, yeah.
 Has ｛Hiiragi＊＊＊｝ already eaten?\"");
-MsgDisp("","She wouldn't leave it be as I skipped
-out on lunch.");
+MsgDisp("","There's no way she'd let me get away
+with skipping lunch.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -43,8 +43,8 @@ thing I can rely on.");
 MsgDisp("","If I can't do at least this much,
 then I don't feel like I deserve to
 be here.");
-MsgDisp("","These are the pathetic thoughts I
-imposed on myself.");
+MsgDisp("","Such were the pitiful thoughts I had
+burdened myself with.");
 MsgClear();
 VoicePlay("D010500100_05_110");
 MsgDisp("Hiiragi","\"The student council work is the
@@ -59,9 +59,9 @@ MsgClear();
 MsgDisp("","Why is that?
 I always end up saying unnecessary
 things in front of her.");
-MsgDisp("","I can't make her worry any more than
-this. From now on I have to be
-careful and eat lunch as she says.");
+MsgDisp("","I can't keep worrying her like this.
+From now on I'll make sure to eat
+lunch properly, like she says.");
 MsgClear();
 VoicePlay("Y300500200_05_030");
 MsgDisp("Hiiragi","\"Yeah, I feel a bit more energized.

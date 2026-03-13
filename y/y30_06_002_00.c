@@ -18,9 +18,8 @@ MsgDisp("","In doing the rounds, of course, we
 show up at Reiichi-san's house.
 Naturally, I haven't even missed this
 once.");
-MsgDisp("","Since as long as I can remember,
-year I had thought it was a
-commonplace occurrence.");
+MsgDisp("","For as long as I can remember, I had
+always taken it for granted.");
 MsgClear();
 MsgDisp("","This year however— An exception to
 this situation has occurred.");
@@ -37,10 +36,10 @@ MsgDisp("","So, technically speaking, I didn't
 double-book.");
 VoicePlay("Y300600200_45_000");
 MsgDisp("Yuki","\"Big brother, are you going?\"");
-MsgDisp("","Already having gotten ready, my
-brother Yuuki called out for me,
-today I was scheduled to go to the
-New year's shrine with my family.");
+MsgDisp("","My brother Yuuki, already dressed and
+ready, called out to me. Today
+I would go to the New Year's shrine
+with my family.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -52,20 +51,18 @@ BGOpen("ad621",0);
 ScrFadeIn(0);
 MsgDisp("","My brother was in between my parents
 in formal attire.");
-MsgDisp("","Whilst walking several steps behind
-them, I was regretting my own
-patheticness.");
-MsgDisp("","Once we pass through this street,
-we'll already reach the road leading
-up to the shrine, the number of
-people heading to the first shrine
-visit was already beginning to
-increase.");
+MsgDisp("","Walking several steps behind them,
+I could only regret how spineless
+I'd been.");
+MsgDisp("","Once we got through this street,
+we'd be at the approach to the
+shrine. Already, the crowds heading
+for the New Year's visit were
+beginning to swell.");
 MsgClear();
-MsgDisp("","Then suddenly, a woman wearing a
-kimono came into view. That woman
-shyly smiled to the family besides
-her.");
+MsgDisp("","Then a woman in a kimono caught my
+eye. She smiled shyly at the family
+walking beside her.");
 VoicePlay("Y300600200_06_000");
 MsgDisp("Himuro","\"I wonder if she's wearing a kimono
 too...\"");
@@ -96,7 +93,7 @@ MsgDisp("","I'll tell them, here and now.");
 MsgDisp("","That I found an important person, and
 I want to walk this shrine path with
 her.");
-MsgDisp("","And then I'll contact her right away.
+MsgDisp("","And then I'll contact her right away
 and tell her \"Happy New Year.\"");
 BGMStop();
 MsgClear();

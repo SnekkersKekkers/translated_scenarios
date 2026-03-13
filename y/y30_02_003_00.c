@@ -52,7 +52,7 @@ MsgDisp("Sassa","\"Ah, you came!\"");
 MsgDisp("","It's a small glass bead, but with the
 help of that beautiful sunset, it
 will shine brightly.");
-MsgDisp("","Noticing me, she dazzlingly ran
+MsgDisp("","Noticing me, she ran toward me, squinting
 towards me, that smile...");
 MsgClear();
 MsgDisp("","She's the sun that shines within me.");

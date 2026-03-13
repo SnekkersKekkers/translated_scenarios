@@ -16,7 +16,7 @@ MsgClear();
 MsgDisp("","When I said that, Ryo-kun sat
 cross-leggedly in front of me as if
 he had resigned.");
-MsgDisp("","After that, subsequently, Mi-kun
+MsgDisp("","After that, Mi-kun
 acted like it couldn't be helped, and
 sat down too.");
 MsgClear();
@@ -38,7 +38,7 @@ VoicePlay("Y300300400_04_010");
 MsgDisp("Nanatsumori","\"You take so long to even start...\"");
 MsgDisp("","They say, sounding exasperated.
 Getting them to feel anticipation is
-important too. This is the
+important too. These are the
 fundamentals of storytelling.");
 MsgClear();
 BGOpen("ad342",0);

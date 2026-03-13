@@ -7,7 +7,7 @@ MsgDisp("Honda","\"Today was a huge failure...
 Haa, she must have been really
 surprised too.\"");
 MsgClear();
-MsgDisp("","Whilst I was working at my part time
+MsgDisp("","While I was working at my part time
 job, a chemical change occurred
 within me. It happens from time to
 time when I'm with her, a reaction in

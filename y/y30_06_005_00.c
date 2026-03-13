@@ -17,16 +17,15 @@ didn't want to make her worry.");
 MsgClear();
 MsgDisp("","It's been two months since she
 graduated.");
-MsgDisp("","It's the same as it was then, as it
-is now. When we went out together on
-the weekends, she would check the
-same thing.");
+MsgDisp("","Even so, things hadn't changed much.
+Whenever we went out on weekends,
+she would always ask the same thing.");
 MsgDisp("","How's school life going?
 Are you enjoying it?");
 MsgClear();
-MsgDisp("","Does she think she left me behind?
-I guess she felt guilt for graduating
-first.");
+MsgDisp("","Did she think she'd left me behind?
+She seemed to feel guilty about
+graduating before me.");
 MsgDisp("","She really was a kind person.");
 BGMStop();
 MsgClear();
@@ -86,17 +85,17 @@ committee, but my classmates would
 talk to me to check on my progress.");
 MsgDisp("","\"Good luck with the preparations.\"
 \"Thank you for staying up late.\"");
-MsgDisp("","I often received words of
-encouragement, and although it's
-late, I felt as if I had become part
-of this school.");
+MsgDisp("","I was often met with words of
+encouragement, and late as it was,
+I finally felt like I belonged to
+this school.");
 MsgClear();
 MsgDisp("","The importance and value of sharing
 time— that was something taught to
 me completely by her.");
 MsgDisp("","When I told her about my committee
-activities. Just as I had intended,
-it became a topic that would reassure
+work, it became exactly the kind of
+reassuring news I had hoped to give
 her.");
 MsgClear();
 VoicePlay("Y300600500_06_010");

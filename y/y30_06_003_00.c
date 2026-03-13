@@ -16,12 +16,10 @@ MsgDisp("","I was already at my limit.");
 MsgClear();
 MsgDisp("","It had already been three whole days
 since she left Habataki City.");
-MsgDisp("","No matter how tightly scheduled the
-school trip is, it would be nice to
-hear from her at least once.");
-MsgDisp("","I didn't have the leeway to take the
-lack of communication as proof that
-she was enjoying herself.");
+MsgDisp("","No matter how packed the schedule is,
+she could at least reach out once.");
+MsgDisp("","I wasn't composed enough to take her
+silence as a sign she was having fun.");
 MsgClear();
 MsgDisp("","Even when she was still here, I would
 feel a sudden sense of unease every
@@ -91,9 +89,9 @@ forget about me?");
 MsgDisp("","Give me a break!
 I'll make sure she remembers.");
 MsgClear();
-MsgDisp("","Bedtime doesn't matter to me.
-If it's really no good, she just
-won't answer");
+MsgDisp("","Bedtime has nothing to do with me.
+If the timing is really that bad,
+she just won't pick up.");
 MsgDisp("","I pressed the screen displaying her
 name with more force than necessary.");
 SEPlay("SYS_SE_PHONE_CALL");

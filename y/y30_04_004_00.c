@@ -25,7 +25,7 @@ Show me, he said, clinging on to me.");
 MsgDisp("","Finding him all sorts of troublesome,
 I silently put my phone back in my
 pocket.");
-MsgDisp("","Dahon doesn't seem to mind and and
+MsgDisp("","Dahon doesn't seem to mind and
 switches to a different topic.");
 MsgClear();
 VoicePlay("Y300400400_03_010");

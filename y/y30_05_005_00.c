@@ -40,7 +40,7 @@ MsgClear();
 MsgDisp("","Now that I think about it, I've seen
 that expression of hers many times
 over the three years at Habataki
-Academy");
+Academy.");
 VoicePlay("Y300500500_05_020");
 MsgDisp("Hiiragi","\"So I've only caused her worry...
 I won't cause her to have that sad
@@ -54,10 +54,10 @@ MsgDisp("","From our graduation to today's
 opening night, I've been busy to a
 dizzying extent. But at the same
 time, I've been happy.");
-MsgDisp("","The presence of the theater company
-members who looked in the same
-direction and helped each other
-improve. The support of the people of
+MsgDisp("","The theater company members who
+looked in the same direction and
+pushed each other to improve.
+The support of the people of
 Habataki City.");
 MsgClear();
 MsgDisp("","And her.");
@@ -79,9 +79,9 @@ MsgClear();
 VoicePlay("Y300500500_05_030");
 MsgDisp("Hiiragi","\"To the guests in attendance, I
 apologize.\"");
-MsgDisp("","\"As we approach the first
-performance, my feelings are directed
-toward her.\"");
+MsgDisp("","\"Even now, on the eve of our first
+performance, my thoughts keep
+turning to her.\"");
 MsgClear();
 MsgDisp("","On stage, I will carefully become the
 lord of Habataki Castle, but...I

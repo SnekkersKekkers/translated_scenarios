@@ -24,17 +24,17 @@ MsgClear();
 MsgDisp("","After receiving a passionate welcome
 from my Mother, we moved to the
 living room.");
-MsgDisp("","The handmade sweets, appeared to be
+MsgDisp("","The handmade sweets, apparently
 for her, were laid out on the table
-as if it weren't already enough.");
+as if that weren't already enough.");
 MsgDisp("","After making some tea, my Mother left
 the living room with a smile
 plastered across her whole face.");
 MsgClear();
 MsgDisp("主人公","\"Your mother is so pretty...!\"");
-MsgDisp("","She who spoke, with her eyes
-sparkling had not changed since we
-were high school students.");
+MsgDisp("","The way she spoke, eyes sparkling,
+hadn't changed since we were
+high school students.");
 MsgDisp("","What has changed since then, is that
 we have become boyfriend and
 girlfriend.");
