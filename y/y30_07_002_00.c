@@ -25,7 +25,7 @@ silently.");
 MsgDisp("","My chest hurts. Of course, for the
 absent student, but also for the girl
 who worked so hard. I wanted her to
-take the stage");
+have her moment in the spotlight.");
 MsgClear();
 VoicePlay("Y300700200_45_000");
 MsgDisp("Girl B","\"No way, is the school play going to

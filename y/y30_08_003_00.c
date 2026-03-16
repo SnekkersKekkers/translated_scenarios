@@ -17,11 +17,11 @@ MsgDisp("Daichi","\"Big bro.
 I...still can't shake this weird
 feelin'.\"");
 MsgClear();
-MsgDisp("","Big bro looked fondly at me, \"Haha\",
-he laughed.");
-MsgDisp("","Upon this, I also laughed \"Heheh\".");
-MsgDisp("","Now, I thought I'm really glad Big
-bro is here.");
+MsgDisp("","Big bro narrowed his eyes warmly
+and laughed, \"Haha.\"");
+MsgDisp("","That got me going too. \"Hehehe.\"");
+MsgDisp("","Right now, I'm so glad Big bro
+is here.");
 MsgClear();
 VoicePlay("Y300800300_08_020");
 MsgDisp("Daichi","\"Big bro.
@@ -41,9 +41,9 @@ MsgDisp("Kuya","\"Big sis said the same thing.
 I also think that way.\"");
 MsgClear();
 MsgDisp("","...Big sis?");
-MsgDisp("","Even though I've only seen her a few
-times and she only just came over to
-our house...");
+MsgDisp("","We've barely even met face-to-face,
+and she only just visited our place
+for the first time...");
 MsgDisp("","Why does she understand my feelin's?");
 MsgClear();
 VoicePlay("Y300800300_09_030");

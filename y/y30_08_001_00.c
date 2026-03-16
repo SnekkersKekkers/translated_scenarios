@@ -70,15 +70,14 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClear();
 BGOpen("ad811",0);
 ScrFadeIn(0);
-MsgDisp("","\"When it came to break time, we took
-a short break in the office's
-breakroom.\"");
+MsgDisp("","\"When break time came, we headed to
+the office breakroom for a rest.\"");
 VoicePlay("Y300800100_08_000");
 MsgDisp("Shirahane","\"Ya can help yourself to any drink
 here durin' your break.
 Well then, what would ya like? \"");
-MsgDisp("","Bein' a busy body, I unintentionally
-was meddlin'.");
+MsgDisp("","Can't help it — I'm just the type
+who's always gotta look after people.");
 MsgClear();
 MsgDisp("","\"Thanks\", she said, smilin' while
 acceptin' the cup.");

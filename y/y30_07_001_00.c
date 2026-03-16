@@ -11,11 +11,10 @@ MsgDisp("","This is the third year of growing
 strawberries at Habataki green farm.
 This year they're the best quality.");
 MsgClear();
-MsgDisp("","With the quality this good, it's
-disappointing I'll have to eat them
-myself. I wanted to eat them with
-someone who would give a good
-reaction....");
+MsgDisp("","With the quality this good, it's a
+shame to eat them all by myself.
+I want to share them with someone
+who'd really appreciate them....");
 MsgDisp("","Alright, I'll treat Miss Diligent.");
 MsgClear();
 MsgClose();
@@ -35,12 +34,12 @@ But still, that's fine.");
 SEStop("EV_SE_813",1);
 MsgClear();
 MsgDisp("","Hm? I'm only thinking of that girl's
-smile, but I feel a weird tension.
-...Geez, calm down.");
+smile and I'm already getting weirdly
+worked up. ...Geez, calm down.");
 MsgDisp("","I'll make a fruit sandwich.");
 SEPlay("EV_SE_811");
 Wait(30,0);
-MsgDisp("","Whilst cooling it with ice, I'll whip
+MsgDisp("","While cooling it with ice, I'll whip
 some fresh cream in a bowl. I like
 this kind of work.");
 MsgClear();

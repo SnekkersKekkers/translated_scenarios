@@ -134,11 +134,13 @@ his footsteps.");
 MsgClear();
 MsgDisp("","The summer breeze blew through the
 familiar hallway window.");
-MsgDisp("","This might've been the first time
-where this scenery was so refreshing.");
+MsgDisp("","This might be the first time this
+place has ever looked so bright
+and clear.");
 MsgClear();
-MsgDisp("","...If I told you about this, you
-would surely smile happily.");
+MsgDisp("","...If I could tell you about this,
+I know you'd light up with
+that smile of yours.");
 MsgDisp("","I want to see you soon.");
 BGMStop();
 MsgClear();

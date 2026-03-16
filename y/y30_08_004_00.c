@@ -70,10 +70,10 @@ MsgDisp("Daichi","\"That girl...
 Is our princess!
 Don't call her our girlfriend!\"");
 MsgClear();
-MsgDisp("","Everyone flabbergastedly stood
-lookin' at us brothers with their
-mouths hung open. That's what you
-call looking like an idiot...");
+MsgDisp("","Every single one of them just stood
+there with their jaws dropped, starin'
+at us. That's what you call a
+dumb look...");
 VoicePlay("Y300800400_42_030");
 MsgDisp("Student A","\"No, that's not really an answer...\"");
 MsgClear();
@@ -81,8 +81,8 @@ BGOpen("ad842",0);
 VoicePlay("Y300800400_47_010");
 MsgDisp("School Girl","\"Haa...you thick-skinned boys,
 listen? In other words, that means
-she's the Shirahane's brothers
-special girl!\"");
+she's a special girl
+to both of the Shirahane brothers!\"");
 MsgDisp("","My brother and I also stood there
 with our mouths wide open, and all
 the boys around us had a dumb look on

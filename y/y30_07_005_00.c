@@ -23,7 +23,7 @@ then, I had a lot of luggage.");
 MsgClear();
 MsgDisp("主人公","\"Ah!
 ｛Mikage＊＊｝, this suit.
-It's from the christmas party huh?\"");
+It's from the Christmas party, right?\"");
 MsgDisp("","She who was looking through the
 closet happily held the suit with
 both arms.");
@@ -33,7 +33,7 @@ They're cool, huh?\"");
 MsgDisp("主人公","\"Ah, speaking of...
 I still have your jacket, huh?\"");
 MsgClear();
-MsgDisp("","On the night of the christmas party,
+MsgDisp("","On the night of the Christmas party,
 I draped my jacket over those small
 shoulders that had grown cold.");
 MsgDisp("","I would have never imagined that half
@@ -65,9 +65,9 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("ad751",0);
 ScrFadeIn(0);
-MsgDisp("","This feeling is nostalgic.
-We often used to meet here when we
-went out on outings.");
+MsgDisp("","This feeling is so familiar.
+We used to meet up here all the time
+before heading out somewhere.");
 MsgDisp("","She would dress stylishly with
 various different clothes and
 accessories.");
@@ -77,11 +77,12 @@ MsgDisp("","Huh?
 Somehow, I feel nervous.");
 MsgClear();
 MsgDisp("主人公","\"｛Mikage＊＊｝!\"");
-MsgDisp("","And then I heard a strangely
-nostalgic and ticklish voice.");
-MsgDisp("","The voice that I had imagined calling
-out for me every day under a far,
-distant sky.");
+MsgDisp("","And then I heard it — a strangely
+familiar voice that made my chest
+feel warm and fuzzy.");
+MsgDisp("","The voice I had imagined calling my
+name every day beneath that faraway
+sky.");
 MsgClear();
 MsgDisp("","Then, what should my first words be
 to her...");

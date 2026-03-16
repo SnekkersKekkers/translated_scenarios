@@ -14,15 +14,14 @@ MsgDisp("Mikage","\"That's right, in the morning I have
 to look after my plants. After that
 I'm free. Why do you want to know?\"");
 MsgClear();
-MsgDisp("","Whilst being chairman of Habataki
+MsgDisp("","While serving as chairman of Habataki
 Theater Company, Yanosuke is also a
-member of the student council
-committee.");
-MsgDisp("","He is a scholarship student who
-entered through the arrangement of
-the school director of Habataki
-Academy, supporting the activities of
-the citizen theater troupe.");
+member of the student council.");
+MsgDisp("","He's a scholarship student, admitted
+on the recommendation of Habataki
+Academy's school director to support
+the activities of the citizen theater
+troupe.");
 MsgClear();
 VoicePlay("Y300700400_05_010");
 MsgDisp("Hiiragi","\"The theatrical troupe is on a break.
@@ -59,10 +58,9 @@ MsgClear();
 MsgDisp("","A theatre troupe chairman scholarship
 student. The other, the nephew of a
 well-known teacher of the school.");
-MsgDisp("","They're different kind of people, but
-are living daily lives that the
-average student couldn't even
-imagine.");
+MsgDisp("","They're different kinds of people,
+but both lead lives that no average
+student could even imagine.");
 MsgDisp("","I can't help but be happy that these
 two have naturally become drawn to
 each other and developed a
@@ -74,10 +72,10 @@ than usual?\"");
 VoicePlay("Y300700400_07_040");
 MsgDisp("Mikage","\"That's because you two invited me
 out, of course I'm happy.\"");
-MsgDisp("","I said that, placing my hand on
-Inori's shoulder, he seemed a little
-annoyed. He seemed more stiff than
-before...");
+MsgDisp("","When I said that and clapped a hand
+on Inori's shoulder, he looked a
+little put out. He used to stiffen
+up way more though...");
 MsgDisp("","Maybe he's opened up considerably.");
 MsgClear();
 BGOpen("ad742",0);

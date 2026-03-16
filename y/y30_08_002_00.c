@@ -8,15 +8,15 @@ MsgClear();
 MsgDisp("","Modern Japanese is a subject where I
 always stumble at the trick
 questions, and never get full marks.");
-MsgDisp("","Full marks! 100 points, full score!");
+MsgDisp("","Full marks! 100 points, perfect score!");
 MsgClear();
 MsgDisp("","I can get full marks in other
 subjects, but only in modern japanese
 do I misinterpret the same kind of
 parts.");
-MsgDisp("","Because of that, I've never once
-gotten all full marks in end of term
-result.");
+MsgDisp("","Because of that, I'd never once
+scored perfect on every subject
+at finals.");
 MsgClear();
 MsgDisp("","Holding my modern japanese test paper
 in one hand, I'm currently headin' ta
@@ -27,7 +27,7 @@ MsgDisp("","...It's childish, huh?
 Maybe, if I go to show it to her,
 I'll get laughed at.");
 MsgDisp("","I've become a bit worried.");
-MsgDisp("","If Hane school thinks I'm a kid—");
+MsgDisp("","If she thinks I'm just a kid—");
 MsgClear();
 MsgDisp("","I didn't think too deeply about going
 to Hanegasaki High School.");
@@ -39,8 +39,8 @@ MsgClear();
 MsgDisp("","Even if I'm sayin' so myself, my
 grades are top class an' I can do
 sports too.");
-MsgDisp("","That is ta say, I'm good at both
-academics an' sports.");
+MsgDisp("","In other words — a true scholar-
+athlete.");
 MsgDisp("","...If, I had enrolled at Habataki
 Academy...");
 MsgClear();
@@ -51,8 +51,8 @@ MsgDisp("","My full marks answer sheet flapped,
 makin' a rustlin' sound in the wind.");
 SEStop("EV_SE_820",1.5);
 MsgDisp("","It sounded like it was sayin', \"Stop
-thinkin\" about that and just go to
-Haba High!'");
+thinkin' about that and just go to
+Haba High!\"");
 MsgClear();
 VoicePlay("Y300800200_08_000");
 MsgDisp("Shirahane","\"Yeah, that's right!

@@ -32,9 +32,9 @@ MsgDisp("","...Hmm, now I'm curious.
 Is the track and field club at Haba
 High really that amazin'?");
 MsgClear();
-MsgDisp("","For a while, I stood by the gate,
-being tickled by all the whispers I
-heard around me.");
+MsgDisp("","For a while, I just stood by the
+gate, quietly entertained by all the
+whispers swirling around me.");
 MsgDisp("","But...she's late.
 Maybe, she already went home today∋");
 MsgDisp("","Feeling anxious, I looked restlessly
@@ -46,8 +46,9 @@ VoicePlay("Y300800500_32_000");
 MsgDisp("VP Himuro","\"What are you doing here?\"");
 VoicePlay("Y300800500_08_000");
 MsgDisp("Daichi","\"Waa∈\"");
-MsgDisp("","Hearing a voice abruptly call out to
-me behind me, I jumped up.");
+MsgDisp("","A voice suddenly called out from
+right behind me — I nearly jumped
+out of my skin.");
 MsgDisp("","Whoa, this teacher is really tall ...
 And the look in his eyes is kinda
 scary?");

@@ -106,17 +106,17 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("E010540000_22_070");
-MsgDisp("Hikaru","Wow...It's a premium ticket.
-Should I ask uncle if it's okay for me,
-Mari, and sis to go too?");
+MsgDisp("Hikaru","Wow...It's a premium ticket. Should Hikaru
+ask uncle if it's okay for Hikaru, Mari,
+and sis to go too?");
 MsgDisp("主人公","Eh, is it okay?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("E010540000_22_080");
-MsgDisp("Hikaru","Yeah, I'm sure uncle will give it to me as
-a present.
-Look forward to it, 'kay?");
+MsgDisp("Hikaru","Yeah, Hikaru's sure uncle will give it to
+her as a present. Look forward to it,
+'kay?");
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(The head of the theater company and the
 model. They're both so amazing, but

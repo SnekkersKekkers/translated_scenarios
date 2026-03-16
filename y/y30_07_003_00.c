@@ -13,9 +13,9 @@ some to that girl.");
 MsgClear();
 SEPlay("EV_SE_821");
 Wait(60,0);
-MsgDisp("","Another thing I can look forwards to
-in the spring.
-There's a lot of plants planted here.");
+MsgDisp("","Another thing to look forward to
+this spring.
+So many plants have taken root here.");
 MsgDisp("","Each one has someone's wishes put
 into them. When you look at it like
 that, it is divine to look at.");
@@ -25,8 +25,8 @@ SEWait();
 MsgDisp("主人公","\"Ah, ｛Mikage＊＊｝!
 What are you planting?\"");
 MsgDisp("","Perfect timing.
-It's funny, since this kid has those
-kinds of qualities.");
+That's just the kind of person she
+is — it's what makes her fun.");
 MsgClear();
 VoicePlay("Y300700300_07_010");
 MsgDisp("Mikage","\"These are what's left of the MVP
@@ -52,16 +52,16 @@ MsgClear();
 MsgDisp("","I think the way I call her 'Miss
 Diligent' is seriously a perfect
 nickname for her.");
-MsgDisp("","She's much more serious and earnest
-than most people, but when I see her,
-I naturally unintentionally smile.");
+MsgDisp("","She's more serious and earnest than
+anyone, but whenever I see her, I
+just can't help smiling.");
 MsgDisp("","That's the kind of girl she is.");
 MsgClear();
 MsgDisp("主人公","\"I'll plant them next to
 ｛Mikage＊＊｝'s bulbs.\"");
 VoicePlay("Y300700300_07_030");
 MsgDisp("Mikage","\"Uh-huh. When they bloom, we can tell
-our fortunes based off the colour of
+our fortunes based on the color of
 the flowers.\"");
 MsgDisp("主人公","\"Hehe!
 Yes, I look forward to it.\"");
@@ -72,9 +72,9 @@ MsgDisp("Mikage","\"That's the warning bell.
 The afternoon lessons are starting.\"");
 SEStop("EV_SE_SCHOOL_001",4);
 MsgClear();
-MsgDisp("","Tulip flower fortune telling uses the
-language of flowers to give a
-different meaning for each flower.");
+MsgDisp("","In tulip fortune-telling, each color
+has its own meaning in the language
+of flowers.");
 MsgDisp("","I cheated a little, and gave Miss
 Diligent a bulb that would bloom into
 pink.");

@@ -85,7 +85,7 @@ ChEyeOpenLevel(22,0);
 VoicePlay("E010640000_22_050");
 MsgDisp("Hikaru","Hmm, so that's it～...
 You don't want Mari to misunderstand?
-I see, I see.");
+Hikaru gets it.");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
@@ -111,7 +111,7 @@ ChMouth(22,3);
 ChMotion(22,5);
 VoicePlay("E010640000_22_070");
 MsgDisp("Hikaru","Ah, no way!
-I totally kept big sis waiting.
+Hikaru totally kept big sis waiting.
 Salut, you two!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
