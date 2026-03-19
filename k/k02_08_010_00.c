@@ -36,7 +36,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("K020801000_08_030");
 MsgDisp("Shirahane","'Course.
-'S'a happy day for everyone around the
+It's a happy day for everyone around the
 world, how could I forget it?");
 ChEye(8,3);
 ChMouth(8,3);

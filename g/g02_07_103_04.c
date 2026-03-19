@@ -49,8 +49,8 @@ VoicePlay("G020710304_07_060");
 MsgDisp("Mikage","That's what your heart's voice wants,
 right?
 Understood.");
-MsgDisp("主人公","(I'm looking forward to ｛Mikage＊＊｝
-'s present now!)");
+MsgDisp("主人公","(I'm looking forward to ｛Mikage＊＊｝'s 
+present now!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
