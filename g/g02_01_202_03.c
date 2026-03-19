@@ -8,10 +8,9 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,0);
 VoicePlay("G020120203_01_010");
-MsgDisp("Kazama","The same goes for you and me. The two of
-us are here thanks to miracles and
-coincidences and all sorts of stuff coming
-together.");
+MsgDisp("Kazama","The same goes for you and me. The two of us
+are here thanks to miracles and coincidences
+and all sorts of stuff coming together.");
 MsgDisp("主人公","You're right.");
 ChEye(1,2);
 ChMouth(1,2);

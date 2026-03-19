@@ -58,7 +58,7 @@ VoicePlay("G020110102_01_070");
 MsgDisp("Kazama","No one can get between you and me.
 My advantage will never disappear, ever.");
 MsgDisp("主人公","(Is ｛Kazama＊＊｝...worried about
-｛Honda＊＊｝ and ｛Nanatsumori＊｝?");
+｛Honda＊＊｝ and ｛Nanatsumori＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -66,7 +66,7 @@ VoicePlay("G020210301_02_070");
 MsgDisp("Sassa","Thanks to that, I was sleepy during my
 morning training—.");
 MsgDisp("主人公","(Umm...
-I didn't cause any trouble did I?)");
+I didn't cause any trouble, did I?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

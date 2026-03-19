@@ -29,10 +29,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020130003_01_030");
-MsgDisp("Kazama","Nanatsumori would probably desperately
-mess with his phone and takes pictures.
-Doesn't really seem like the type to enjoy
-the view.");
+MsgDisp("Kazama","Nanatsumori would probably desperately mess
+with his phone and take pictures. Doesn't
+really seem like the type to enjoy the view.");
 MsgDisp("主人公","I think ｛Nanatsumori＊｝ would enjoy things
 like this.");
 ChEye(1,0);

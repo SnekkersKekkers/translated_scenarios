@@ -38,9 +38,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020110306_01_040");
 MsgDisp("Kazama","It's not like I want to scare you. It's
-more like...if it was winter right now,
-I'd pull a roasted sweet potato out of my
-pocket.");
+more like...if it was winter right now, I'd
+pull a roasted sweet potato out of my pocket.");
 MsgDisp("主人公","Oh, you gave me a roasted sweet potato
 when we went camping too.");
 ChEye(1,0);

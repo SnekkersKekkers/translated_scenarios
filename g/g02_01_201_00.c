@@ -15,8 +15,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_020");
 MsgDisp("Kazama","You're all that I look at.
-But I'm sure I've spied with my little eye
-people who aren't me near you.");
+But I've noticed there are people who
+aren't me near you.");
 MsgDisp("主人公","Um...");
 ChEye(1,2);
 ChMouth(1,0);

@@ -19,9 +19,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110305_01_020");
 MsgDisp("Kazama","But I got used to it right away. I think I
-was just numb during primary school.
-That's how kids naturally protect
-themselves.");
+was just numb during primary school. That's
+how kids naturally protect themselves.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

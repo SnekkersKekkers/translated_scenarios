@@ -14,8 +14,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130000_01_010");
 MsgDisp("Kazama","Yep. Sassa would probably say something
-hackneyed, like, 'Don't try to sneak
-ahead.'");
+hackneyed, like, 'Don't try to get a head
+start.'");
 MsgDisp("主人公","Hahah.");
 ChEye(1,0);
 ChMouth(1,3);

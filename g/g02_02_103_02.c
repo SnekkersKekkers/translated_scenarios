@@ -43,9 +43,9 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210302_02_050");
 MsgDisp("Sassa","Right...");
-MsgDisp("主人公","(Was ｛Sassa＊＊｝, really that happy about
+MsgDisp("主人公","(Was ｛Sassa＊＊｝ really that happy about
 being a pair?
-That's somewhat cute?)");
+That's kind of cute.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

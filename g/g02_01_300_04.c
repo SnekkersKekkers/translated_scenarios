@@ -35,10 +35,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130004_01_040");
-MsgDisp("Kazama","Nanatsumori anticipates where Honda's
-going and gets him to say what he's
-getting at faster. He's pretty good at
-handling Honda.");
+MsgDisp("Kazama","Nanatsumori anticipates where Honda's going
+and gets him to say what he's getting at
+faster. He's pretty good at handling Honda.");
 MsgDisp("主人公","Oh, really?
 They make a good pair.");
 ChEye(1,0);
@@ -46,17 +45,16 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130004_01_050");
-MsgDisp("Kazama","Yep, so they can just keep the
-conversation going with the two of them,
-and yet Honda drags me into it for some
-reason.");
+MsgDisp("Kazama","Yep, so they can just keep the conversation
+going with the two of them, and yet Honda
+drags me into it for some reason.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130004_01_060");
 MsgDisp("Kazama","And it seems to me like Nanatsumori enjoys
-forcing me deal with Honda.");
+forcing me to deal with Honda.");
 MsgDisp("主人公","Hahah, so you're the center of that
 friendship, ｛Kazama＊＊｝.");
 ChEye(1,0);

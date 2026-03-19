@@ -13,7 +13,7 @@ ChMotion(2,0);
 VoicePlay("G020210304_02_010");
 MsgDisp("Sassa","I see.
 When I was picking it out, the store clerk
-asked me a bunch of questions");
+asked me a bunch of questions.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
@@ -21,7 +21,7 @@ VoicePlay("G020210304_02_020");
 MsgDisp("Sassa","They were nice about it and all, but I
 wanted to choose it myself.");
 MsgDisp("主人公","Hehe.
-It was ｛Sassa＊＊｝ who picked it for me
+It was ｛Sassa＊＊｝ who picked it for me,
 right?");
 ChEye(2,0);
 ChMouth(2,0);

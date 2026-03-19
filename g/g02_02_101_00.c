@@ -58,7 +58,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020210100_02_080");
-MsgDisp("Sassa","So I need to keep improving myself , so I
+MsgDisp("Sassa","So I need to keep improving myself, so I
 don't fall behind those two.
 And so you don't get bored of me!");
 MsgDisp("主人公","I don't think that'll happen though...");

@@ -29,9 +29,9 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("G020140002_01_030");
-MsgDisp("Kazama","I think I managed to sort out a bunch of
-stuff in my head in the room I hadn't been
-in for ten years because I didn't see you.");
+MsgDisp("Kazama","Because I didn't get to see you,
+I sorted out a bunch of stuff in my head
+in the room I hadn't been in for ten years.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,4);
 ChMouth(1,3);
@@ -45,9 +45,8 @@ ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("G020140002_01_050");
 MsgDisp("Kazama","My backpack and hat for going to and from
-school were just like I'd left them that
-first year of primary; it made my head
-spin.");
+school were just like I'd left them in
+first grade; it made my head spin.");
 ChEye(1,4);
 ChMotion(1,0);
 MsgDisp("主人公","So that's how you spent that day,

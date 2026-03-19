@@ -30,8 +30,8 @@ VoicePlay("G020210305_02_040");
 MsgDisp("Sassa","Remember?
 We were facing each other across the cow?");
 MsgDisp("主人公","Y-Yeah.
-That time ｛Sassa＊＊｝, was just watching
-back then and didn't really do much.");
+That time, ｛Sassa＊＊｝ was just watching
+and didn't really do much.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

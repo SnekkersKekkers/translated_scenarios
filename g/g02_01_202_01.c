@@ -31,8 +31,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120201_01_040");
-MsgDisp("Kazama","A kid one year below than us overturned
-what I thought was natural.");
+MsgDisp("Kazama","A kid one year below us overturned what I
+thought was natural.");
 MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -72,8 +72,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020120201_01_100");
-MsgDisp("Kazama","So I've decided to compete with him at the
-'hereon' with you.");
+MsgDisp("Kazama","So I've decided to compete with him over
+the future I have with you.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);

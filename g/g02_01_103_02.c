@@ -42,10 +42,9 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110302_01_050");
-MsgDisp("Kazama","You're embarrassed because we just
-happened to wear the same clothes, right?
-So doesn't always wearing the same outfits
-fix that?");
+MsgDisp("Kazama","You're embarrassed because we just happened
+to wear the same clothes, right? So doesn't
+always wearing the same outfits fix that?");
 MsgDisp("主人公","Huh?
 What do you mean, \"always\"?");
 ChEye(1,4);
@@ -53,10 +52,9 @@ ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110302_01_060");
-MsgDisp("Kazama","Wait. Our uniforms are basically a set so
+MsgDisp("Kazama","Wait. Our uniforms are basically a set, so
 variety's better for dates. The excitement
-over what you'll wear to them's
-important...");
+over what you'll wear is important...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);

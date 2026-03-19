@@ -11,9 +11,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110100_01_010");
 MsgDisp("Kazama","Nah, it doesn't feel friendly to me.
-They're desperate to attract a mate to
-have kids. Some are gonna win, and some
-lose.");
+They're desperate to attract a mate to have
+kids. Some are gonna win, and some lose.");
 ChEye(1,1);
 ChMouth(1,2);
 ChMotion(1,0);

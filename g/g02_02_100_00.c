@@ -3,7 +3,7 @@ ChOpen(2,255,3,0,4,#1,#1,0,0);
 VoicePlay("G020210000_02_000");
 MsgDisp("Sassa","Ohh, it's really pretty...
 Just how many are there?");
-MsgDisp("主人公","Yeah, there really is a lot of them.");
+MsgDisp("主人公","Yeah, there really are a lot of them.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,3);

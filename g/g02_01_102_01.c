@@ -27,7 +27,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110201_01_030");
 MsgDisp("Kazama","...So, are we actually the kind of pair
-that belongs this special place?");
+that belongs in this special place?");
 MsgDisp("主人公","Well, you are special, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,2);

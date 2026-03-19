@@ -50,10 +50,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020120301_01_060");
-MsgDisp("Kazama","I'm glad work customers have a high
-opinion of me. But, at school, it's my
-family and stuff they're interested in.
-It's a nuisance.");
+MsgDisp("Kazama","I'm glad work customers have a high opinion
+of me. But, at school, it's my family and
+stuff they're interested in. It's a nuisance.");
 MsgDisp("主人公","I don't think that's it.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
@@ -69,7 +68,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020120301_01_080");
 MsgDisp("Kazama","...But what you have is something totally
-different. Everyone like you, no strings
+different. Everyone likes you, no strings
 attached. Your family doesn't matter.");
 MsgDisp("主人公","That's not true...
 But thanks.");
@@ -91,7 +90,7 @@ VoicePlay("G020120301_01_100");
 MsgDisp("Kazama","You've totally missed my point, but
 thanks.");
 MsgDisp("主人公","(Does ｛Kazama＊＊｝ not realize how popular
-he is...?");
+he is...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
