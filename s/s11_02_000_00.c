@@ -17,8 +17,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,8);
 VoicePlay("S110200000_02_010");
-MsgDisp("Sassa","Eh—, what does it say...\"
-Half Luck means your good luck will
+MsgDisp("Sassa","Eh—, what does it say...
+\"Half Luck means your good luck will
 expand in the future\".");
 ChEye(2,0);
 ChMouth(2,3);

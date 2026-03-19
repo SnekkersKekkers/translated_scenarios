@@ -52,8 +52,8 @@ It feels different from usual.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S070700000_07_060");
-    MsgDisp("Mikage","I guess so. \"
-This year for sure!\" will work until early
+    MsgDisp("Mikage","I guess so.
+\"This year for sure!\" will work until early
 January or so?");
     MsgDisp("主人公","Hehe, and what happens after that?");
     ChEye(7,0);

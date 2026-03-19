@@ -18,8 +18,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("K020201100_02_010");
-MsgDisp("Sassa","Not \"Hm?\"
-. It's your special day.");
+MsgDisp("Sassa","Not \"Hm?\".
+It's your special day.");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(2,0);

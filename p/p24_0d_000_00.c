@@ -19,8 +19,8 @@ VoicePlay("P240D00000_21_000");
 MsgDisp("Michiru","You interfere with people's love lives,
 you should be kicked by a horse!");
 VoicePlay("P240D00000_47_020");
-MsgDisp("Opponent","Curse you! \"
-Flora Angels\" Stop interfering～ ∈");
+MsgDisp("Opponent","Curse you!
+\"Flora Angels\" Stop interfering～ ∈");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);

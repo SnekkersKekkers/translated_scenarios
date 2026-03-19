@@ -19,8 +19,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("P740200004_02_010");
 MsgDisp("Sassa","Even people who didn't know you until now
-were noisily wondering \"who is that girl?\"
-. That sort of thing.");
+were noisily wondering
+\"who is that girl?\". That sort of thing.");
 MsgDisp("主人公","Ehhh?");
 ChEye(2,2);
 ChMouth(2,0);

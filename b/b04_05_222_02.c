@@ -88,8 +88,8 @@ Troupe's play?");
         VoicePlay("B040522202_05_090");
         MsgDisp("Hiiragi","No, the line is \"My soul will also be with
 you for eternity.\"");
-        MsgDisp("主人公","Ummm...\"
-My soul will also be with you for eternity.\"");
+        MsgDisp("主人公","Ummm...
+\"My soul will also be with you for eternity.\"");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);

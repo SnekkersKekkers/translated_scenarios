@@ -17,8 +17,8 @@ MsgDisp("Librarian","\"Exercise Learning Theory in Practice\" is
 scheduled to arrive next month.");
 VoicePlay("F100210002_02_000");
 MsgDisp("Sassa?","Is that so...?");
-MsgDisp("主人公","(It's ｛Sassa＊＊｝. \"
-Exercise Learning Theory in Practice\"...)");
+MsgDisp("主人公","(It's ｛Sassa＊＊｝.
+\"Exercise Learning Theory in Practice\"...)");
 BGOpen("sc330",0);
 MsgClose();
 ChOpen(2,254,0,0,4,#1,#1,0,0);
