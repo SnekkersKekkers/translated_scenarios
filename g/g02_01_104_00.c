@@ -9,8 +9,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020110400_01_010");
-MsgDisp("Kazama","So they've each get their own quirks.
-Since this's a mating display, does this
+MsgDisp("Kazama","So they've each got their own quirks.
+Since this is a mating display, does this
 mean they're competing with their fashion
 sense?");
 ChEye(1,0);
