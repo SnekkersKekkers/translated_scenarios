@@ -15,7 +15,7 @@ VoicePlay("F020800013_08_000");
 MsgDisp("Shirahane","It's soon fer us too.
 Where are you guys goin'?");
 MsgDisp("主人公","Nagasaki!
-I'm looking forwards to it.");
+I'm looking forward to it.");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,3,1);

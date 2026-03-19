@@ -41,7 +41,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020340003_03_050");
-MsgDisp("Honda","it's just a hobby, so I don't have to
+MsgDisp("Honda","It's just a hobby, so I don't have to
 worry about costs.");
 ChEye(3,4);
 ChMouth(3,0);

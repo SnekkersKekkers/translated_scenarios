@@ -21,13 +21,13 @@ VoicePlay("F020700007_07_010");
 MsgDisp("Mikage","Nice.
 Let me join in some time.");
 MsgDisp("主人公","Hehe, sounds good.
-What are you looking forwards to,
+What are you looking forward to,
 ｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700007_07_020");
-MsgDisp("Mikage","What am I looking forwards to, you say?
+MsgDisp("Mikage","What am I looking forward to, you say?
 It's got to be school starting up again.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(7,0);

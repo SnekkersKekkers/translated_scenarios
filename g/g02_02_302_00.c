@@ -28,13 +28,13 @@ ChMotion(2,0);
 VoicePlay("G020230200_02_040");
 MsgDisp("Sassa","It's delicious, huh. No matter what's on
 the menu. I like their udon. It's good
-that their noodle is quite soft.");
+that their noodles are quite soft.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020230200_02_050");
-MsgDisp("Sassa","Having a strong elasticity doesn't make it
-good.");
+MsgDisp("Sassa","Just 'cause noodles are chewy doesn't mean
+they're good.");
 MsgDisp("主人公","Hehe.");
 ChEye(2,0);
 ChMouth(2,3);

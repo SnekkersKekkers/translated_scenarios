@@ -16,9 +16,8 @@ MsgDisp("Sassa","He's good at school, he's good at sports,
 he can do everything, but he doesn't do
 anything.");
 MsgDisp("主人公","｛Kazama＊＊｝ lives alone and helps at his
-grandfather's shop on top of his job at
-Simon, so I think he has a lot on his
-plate.");
+grandfather's shop and Simon, so I think
+he has a lot on his plate.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

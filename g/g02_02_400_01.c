@@ -11,7 +11,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240001_02_010");
 MsgDisp("Sassa","Well, yeah.
-Each one of them are so cute.");
+They're all so cute.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

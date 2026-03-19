@@ -33,7 +33,8 @@ MsgDisp("主人公","?");
 ChMotion(3,4,1);
 VoicePlay("G020310303_03_040");
 MsgDisp("Honda","Maybe I'm really lucky to be able to have
-beautiful firefly like you all to myself.");
+a beautiful firefly like you all to
+myself.");
 MsgDisp("主人公","Firefly?");
 ChEye(3,0);
 ChMouth(3,0);

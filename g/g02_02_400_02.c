@@ -7,7 +7,7 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020240002_02_010");
-MsgDisp("Sassa","Have you heard that the fireflies light
+MsgDisp("Sassa","Have you heard that the fireflies' light
 resembles 'disembodied souls'...you know,
 like the ghostly flames?");
 ChEye(2,1);

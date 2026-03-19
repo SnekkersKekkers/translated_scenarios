@@ -18,7 +18,7 @@ ChMouth(3,4);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020320101_03_020");
-MsgDisp("Honda","...This is troubling");
+MsgDisp("Honda","...This is troubling.");
 MsgDisp("主人公","Troubling?");
 ChEye(3,4);
 ChMouth(3,0);

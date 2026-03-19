@@ -17,7 +17,7 @@ ChMotion(3,2,1);
 VoicePlay("G020310307_03_020");
 MsgDisp("Honda","My little sister says she hates boys
 because they're rough...");
-MsgDisp("主人公","Ah—...yeah, that's right.");
+MsgDisp("主人公","Ah—...yeah, I get that.");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
@@ -43,8 +43,8 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("G020310307_03_060");
-MsgDisp("Honda","This morning she yelled, 'Don't come into
-my room without knocking!'...");
+MsgDisp("Honda","This morning she yelled, 'Stop barging
+into my room!'...");
 MsgDisp("主人公","Did you go in without knocking again?
 That's not good...");
 ChEye(3,2);

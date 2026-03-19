@@ -18,9 +18,8 @@ ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020340001_03_020");
 MsgDisp("Honda","No matter how hard I struggled, seawater
-kept rushing into my mouth, and I couldn't
-breathe. Eventually, everything went dark
-before my eyes.");
+kept rushing into my mouth and I couldn't
+breathe. Eventually, everything went dark.");
 MsgDisp("主人公","Eh...and then?");
 ChEye(3,4);
 VoicePlay("G020340001_03_030");

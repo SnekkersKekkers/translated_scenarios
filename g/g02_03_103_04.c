@@ -73,8 +73,8 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020310304_03_100");
-MsgDisp("Honda","...but if I tell you now, it won't be much
-of a surprise, right?");
+MsgDisp("Honda","...but if I tell you now, it'd ruin the
+surprise, right?");
 MsgDisp("主人公","(｛Honda＊＊｝, you've been thinking about
 me like this...)");
 BGMStop();

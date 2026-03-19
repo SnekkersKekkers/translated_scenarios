@@ -46,8 +46,9 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 ChEyeOpenLevel(4,8);
 VoicePlay("G020410201_04_080");
-MsgDisp("Nanatsumori","I got it! We should go on more dates. I'm
-so used to feeling bad after saying bye.");
+MsgDisp("Nanatsumori","I got it!
+Let's go on more dates. So many that we
+get used to this reluctance to say bye.");
 ChEyeOpenLevel(4,#1);
 MsgDisp("主人公","(｛Nanatsumori＊｝...are you in a rush?)");
 BGMStop();

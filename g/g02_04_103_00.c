@@ -32,7 +32,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020410300_04_040");
-MsgDisp("Nanatsumori","I will remember that then...");
+MsgDisp("Nanatsumori","You remember that well...");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

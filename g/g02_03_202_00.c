@@ -37,7 +37,7 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020320200_03_050");
 MsgDisp("Honda","I mean, Ryo-kun is cool, mature, and he
-understands you well");
+understands you well.");
 VoicePlay("G020320200_03_060");
 MsgDisp("Honda","You two look great together, but—");
 ChEye(3,1);

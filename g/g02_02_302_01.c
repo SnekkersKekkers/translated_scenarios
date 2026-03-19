@@ -34,8 +34,8 @@ ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020230201_02_040");
 MsgDisp("Sassa","Ehhh—?
-I don't know who else you've seen it with
-but.");
+I don't know who else you've been seeing
+them with, but.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -53,7 +53,7 @@ ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("G020230201_02_070");
 MsgDisp("Sassa","Alright, just as planned.");
-MsgDisp("主人公","Right.");
+MsgDisp("主人公","Plan?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

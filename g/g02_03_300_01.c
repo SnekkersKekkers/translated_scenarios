@@ -36,7 +36,7 @@ ChMouth(3,3);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020330001_03_050");
-MsgDisp("Honda","Why didn't you tell me? ' in his blunt
+MsgDisp("Honda","'Why didn't you tell me?' in his blunt
 tone.
 So troublesome—.");
 MsgDisp("主人公","It doesn't seem that way to me.

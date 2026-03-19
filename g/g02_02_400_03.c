@@ -9,7 +9,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240003_02_010");
-MsgDisp("Sassa","She ensures breakfast and dinner is
+MsgDisp("Sassa","She ensures breakfast and dinner are
 strictly managed.");
 MsgDisp("主人公","Oh, I see.
 You eat at the school cafeteria a lot,

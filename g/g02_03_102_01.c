@@ -44,7 +44,7 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310201_03_070");
 MsgDisp("Honda","It might be hard to answer something like
-that out of the blue");
+that out of the blue.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);

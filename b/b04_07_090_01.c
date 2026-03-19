@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040709001_07_010");
-    MsgDisp("Mikage","I'm looking forwards to seeing your taste
+    MsgDisp("Mikage","I'm looking forward to seeing your taste
 depending on which one you choose.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

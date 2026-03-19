@@ -19,10 +19,9 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020310200_03_030");
-MsgDisp("Honda","I've always felt comfortable with the way
+MsgDisp("Honda","I've always felt comfortable with how
 things are now. You show interest in what
-I say, and I really enjoy our
-conversations.");
+I say, and I really enjoy our chats.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);

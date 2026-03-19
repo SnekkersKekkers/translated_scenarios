@@ -11,8 +11,7 @@ ChMotion(3,4,1);
 VoicePlay("G020310305_03_010");
 MsgDisp("Honda","Yes, even though it's based on eye
 estimation, I decided on a time and an
-area to count. There were more of them
-than when I came alone last time.");
+area to count. More than last time alone.");
 MsgDisp("主人公","The fireflies here are also one of
 ｛Honda＊＊｝'s observation subjects, huh?");
 ChEye(3,0);

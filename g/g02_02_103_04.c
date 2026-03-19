@@ -3,8 +3,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210304_02_000");
-MsgDisp("Sassa","Hey do you remember the birthday present I
-gave you?");
+MsgDisp("Sassa","Hey, do you remember the birthday present
+I gave you?");
 MsgDisp("主人公","Of course.
 I was super happy.");
 ChEye(2,0);

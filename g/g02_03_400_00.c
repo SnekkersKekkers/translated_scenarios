@@ -44,10 +44,10 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020340000_03_060");
-MsgDisp("Honda","You can imagine it now, right?
-I definitely have to do it!");
-MsgDisp("主人公","Eh, don't do it!
-Don't do it!");
+MsgDisp("Honda","You imagined it just now, right?
+You definitely did!");
+MsgDisp("主人公","Eh, I didn't!
+I didn't!");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);

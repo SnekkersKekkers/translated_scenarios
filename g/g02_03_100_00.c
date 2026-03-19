@@ -24,7 +24,7 @@ MsgDisp("主人公","Eh?");
 ChSet(3,0,1);
 VoicePlay("G020310000_03_030");
 MsgDisp("Honda","It's like I came here not just to see the
-fireflies, but to see you watching them");
+fireflies, but to see you watching them.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

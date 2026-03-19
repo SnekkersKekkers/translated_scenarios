@@ -30,7 +30,7 @@ ChMotion(4,1,1);
 VoicePlay("G020410000_04_050");
 MsgDisp("Nanatsumori","Yeah, bad.
 I usually can't do things like this.
-And sooo...");
+And so...");
 MsgClose();
 ChClose(4,0,30);
 SEPlay("EV_SE_FOOT_039");
@@ -39,7 +39,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,4,3,#1,#1,0,0,0,60);
 SEWait();
 VoicePlay("G020410000_04_060");
-MsgDisp("Nanatsumori","We'd just stare at each other's eyes.");
+MsgDisp("Nanatsumori","We can just stare into each other's eyes.");
 MsgDisp("主人公","(Woah...
 ｛Nanatsumori＊｝'s face is really close!)");
 ChEye(4,4);

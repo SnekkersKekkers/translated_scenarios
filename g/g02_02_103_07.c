@@ -32,8 +32,7 @@ ChMotion(2,0);
 VoicePlay("G020210307_02_040");
 MsgDisp("Sassa","That time, meeting you in the library
 instead of on the sports ground or in the
-classroom was something fresh and
-enjoyable for me.");
+classroom felt fresh and fun.");
 MsgDisp("主人公","Yeah, I get that too.");
 ChEye(2,0);
 ChMouth(2,3);

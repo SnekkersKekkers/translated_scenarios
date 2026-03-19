@@ -9,8 +9,8 @@ day today in matching outfits.");
 MsgDisp("主人公","Hehe, yeah we did.");
 ChSet(3,4);
 VoicePlay("G020310302_03_010");
-MsgDisp("Honda","Without planning it in advance, we started
-to look alike.
+MsgDisp("Honda","Without planning it in advance, we ended
+up matching.
 That means—");
 ChEye(3,3);
 ChMouth(3,3);

@@ -33,7 +33,7 @@ ChMotion(3,5);
 VoicePlay("G020310001_03_040");
 MsgDisp("Honda","Ah, that!
 When you laugh like that— I can't help
-but keep talking");
+but keep talking.");
 ChSet(3,0);
 VoicePlay("G020310001_03_050");
 MsgDisp("Honda","So if you ever get bored or want to change
@@ -70,8 +70,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChCheek(3,8);
 VoicePlay("G020310001_03_100");
-MsgDisp("Honda","It's strange, my heart's starting to beat
-really loudly...");
+MsgDisp("Honda","That's weird, instead of my mouth, now my
+heart's the one being loud...");
 MsgDisp("主人公","(Looks like it had an unexpected effect?)");
 BGMStop();
 MsgClose();

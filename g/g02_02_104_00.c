@@ -26,7 +26,7 @@ VoicePlay("G020210400_02_030");
 MsgDisp("Sassa","If the theory is that being fast on your
 feet makes you popular, then I should have
 been the ultimate popular guy, right?");
-MsgDisp("主人公","Yeah, that's right huh.");
+MsgDisp("主人公","Yeah, that's right.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -57,8 +57,8 @@ VoicePlay("G020210400_02_070");
 MsgDisp("Sassa","I almost thought of letting him win, but
 when it comes to competition, I definitely
 want to win.");
-MsgDisp("主人公","Yeah, I think it's so ｛Sassa＊＊｝ -like,
-it's good.");
+MsgDisp("主人公","Yeah, I think that's so like you,
+｛Sassa＊＊｝. It's a good thing.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -70,7 +70,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("G020210400_02_090");
 MsgDisp("Sassa","But you know, in the end, I was treated
-like the enemy of the whole school ...
+like the enemy of the whole school...
 And so a fast but unpopular guy was born.");
 MsgDisp("主人公","(Maybe it's because he's a genius that he
 was envied. There must be some complex
