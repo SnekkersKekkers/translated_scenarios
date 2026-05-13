@@ -1,6 +1,6 @@
 VoicePlay("Z422200200_22_000");
-MsgDisp("Hikaru","That's why I think you should talk to them
-properly.
+MsgDisp("Hikaru","That's why Hikaru thinks you should talk to
+them properly. 
 Soon!");
 VoicePlay("Z422200200_22_010");
 MsgDisp("Hikaru","Call them, and if they've misunderstood,

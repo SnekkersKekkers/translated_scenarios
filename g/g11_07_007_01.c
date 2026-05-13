@@ -34,10 +34,10 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700701_07_010");
 MsgDisp("Mikage","Oh, that would be nice.
-Maybe we should do a 'Molly's milk stand'
+Maybe we should do a 'Molly's Milk Mart'
 at lunchtime?");
 MsgDisp("主人公","Is this the cow ｛Mikage＊＊｝ showed me
-at his house the other day?");
+at his farm the other day?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
