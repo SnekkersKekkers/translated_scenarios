@@ -8,9 +8,9 @@ switch (ChPrmGet(3,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year the Gardening Club is running
-a cafe. We prepared herbal tea and 
-cookies, but...)");
+    MsgDisp("主人公","(This year the Gardening Club is running a
+cafe.
+We prepared herbal tea and cookies, but...)");
     VoicePlay("P630300000_03_000");
     MsgDisp("Honda?","Haa—, how refreshing...");
     MsgClose();
@@ -22,11 +22,11 @@ Welcome!");
     ChMotion(3,4,1);
     VoiceEVSPlay(3);
     VoicePlay("P630300000_03_010");
-    MsgDisp("Honda","｛主人公｝, is it the aroma of fresh herbs
-I wonder?
+    MsgDisp("Honda","｛主人公｝, is it the aroma of fresh herbs I
+wonder?
 It's drawing me in.");
-    MsgDisp("主人公","Then, in the meantime, how about some tea
-and cookies?");
+    MsgDisp("主人公","Then, in the meantime, how about some tea and
+cookies?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -38,9 +38,9 @@ Let's have a break.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year the Gardening Club's program is
-a cafe. I have to prepare herb tea and
-cookies though...)");
+    MsgDisp("主人公","(This year the Gardening Club's program is a
+cafe. I have to prepare herb tea and cookies
+though...)");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(3);
@@ -56,8 +56,8 @@ Welcome!");
     MsgDisp("Honda","Haa—,that's a nice smell.
 This feels like another world, huh.");
     MsgDisp("主人公","Hehe, that's the relaxing effect.
-How about some herbal tea and some
-homemade cookies?");
+How about some herbal tea and some homemade
+cookies?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

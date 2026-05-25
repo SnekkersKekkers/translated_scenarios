@@ -22,23 +22,21 @@ You decided that splendidly.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("H3A0200000_02_010");
-    MsgDisp("Sassa","It was a beautiful win, and it felt so
-great!
+    MsgDisp("Sassa","It was a beautiful win, and it felt so great!
 Congrats.");
     MsgDisp("主人公","You were watching.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("H3A0200000_02_020");
-    MsgDisp("Sassa","Yeah, and I saw the results of your
-efforts.");
+    MsgDisp("Sassa","Yeah, and I saw the results of your efforts.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("H3A0200000_02_030");
-    MsgDisp("Sassa","It's not just about strength. It begins
-and ends with courtesy. I think I started
-liking judo because of you.");
+    MsgDisp("Sassa","It's not just about strength.
+It begins and ends with courtesy.
+I think I started liking judo because of you.");
     MsgDisp("主人公","(I did it!
 I'm glad I practiced so much∈)");
     break ;

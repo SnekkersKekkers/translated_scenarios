@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he had
-something he wanted to talk to me about
-when we go home...Did something happen?)");
+MsgDisp("主人公","(That's right... ｛Kazama＊＊｝ said he had
+something he wanted to talk to me about when
+we go home... Did something happen?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -19,8 +19,7 @@ BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","That's right.
-You had something you wanted to talk
-about?");
+You had something you wanted to talk about?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -54,8 +53,8 @@ ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100603_01_040");
-MsgDisp("Kazama","...But I don't want you to change because
-of that guy's information.");
+MsgDisp("Kazama","...But I don't want you to change because of
+that guy's information.");
 MsgDisp("主人公","Eh, change?
 But I'm just trying to experiment with
 different types of fashion?");
@@ -64,8 +63,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100603_01_050");
 MsgDisp("Kazama","I see...
-If you choose to do it because you like
-it, that's fine.");
+If you choose to do it because you like it,
+that's fine.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -74,8 +73,8 @@ MsgDisp("Kazama","But after experimenting with different
 things, it would be good if you could come
 back. A return to where you started?");
 MsgDisp("主人公","(Return to where I started?
-｛Kazama＊＊｝, you are talking about
-fashion, right?)");
+｛Kazama＊＊｝, you are talking about fashion,
+right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

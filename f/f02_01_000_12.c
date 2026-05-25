@@ -28,8 +28,8 @@ MsgDisp("Kazama","Why would you say that?
 I wouldn't have minded a slightly calmer
 year, though.");
 MsgDisp("主人公","Yeah, that sounds nice.
-Maybe I'll make \"calmness\" my theme
-for next year...");
+Maybe I'll make \"calmness\" my theme for next
+year...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,3);

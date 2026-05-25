@@ -20,8 +20,8 @@ ChMotion(6,1);
 VoicePlay("F020600012_06_010");
 MsgDisp("Himuro","I don't mean it in a lukewarm way.
 I mean carrying on in moderation.");
-MsgDisp("主人公","Like, exercising in moderation, and
-studying in moderation?");
+MsgDisp("主人公","Like, exercising in moderation, and studying
+in moderation?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -40,8 +40,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600012_06_040");
 MsgDisp("Himuro","What will you be doing?");
-MsgDisp("主人公","Um...well, I haven't really thought about
-it.
+MsgDisp("主人公","Um...well, I haven't really thought about it.
 Maybe do some fun things.");
 ChEye(6,0);
 ChMouth(6,0);

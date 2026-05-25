@@ -12,9 +12,9 @@ S-Sure.");
 StlEyeOpenLevel(22,5,1);
 StlCheek(22,7);
 VoicePlay("U160D00004_22_010");
-MsgDisp("Hikaru","Of the roses that bloom in Mari's garden,
-one is a beautiful color that shines
-brighter than the rest.");
+MsgDisp("Hikaru","Of the roses that bloom in Mari's garden, one
+is a beautiful color that shines brighter
+than the rest.");
 StlEyeOpenLevel(21,0,1);
 StlNear(1,0,15);
 VoicePlay("U160D00004_21_000");

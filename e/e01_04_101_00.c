@@ -23,8 +23,7 @@ Are you on your way to work?");
 ChMotion(4,1,1);
 VoicePlay("E010410100_04_010");
 MsgDisp("Nanatsumori","That's right, but...
-Have you seen a silver bracelet around
-here?");
+Have you seen a silver bracelet around here?");
 MsgDisp("主人公","Could this be it?");
 SEPlay("EV_SE_641",0,0.9);
 SEWait();
@@ -34,8 +33,7 @@ ChMotion(4,0,1);
 VoicePlay("E010410100_04_020");
 MsgDisp("Nanatsumori","There it is!
 Yes, that's the one!");
-MsgDisp("主人公","So that bracelet was yours,
-｛Nanatsumori＊｝.
+MsgDisp("主人公","So that bracelet was yours, ｛Nanatsumori＊｝.
 What a coincidence.");
 ChEye(4,4);
 ChMouth(4,4);
@@ -45,7 +43,8 @@ MsgDisp("Nanatsumori","Phew, I'm saved...
 I just received this bracelet today, so
 losing it would've been sad...");
 MsgDisp("主人公","Oh is that so?
-∋ Be careful not to lose it again, okay?");
+∋
+Be careful not to lose it again, okay?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

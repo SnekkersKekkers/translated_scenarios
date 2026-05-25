@@ -1,8 +1,8 @@
 ScrFadeIn(0);
 VoicePlay("P840500004_44_000");
 MsgDisp("School Girl","As for the noise, I talked to the class
-representative, and the matter was able to
-be settled.");
+representative, and the matter was able to be
+settled.");
 MsgDisp("主人公","Really?
 I'm glad.
 Thank you for your hard work!");
@@ -19,8 +19,8 @@ MsgDisp("Hiiragi","It was because you had diligently repeated
 the broadcasts, that she had noticed.");
 ChMotion(5,4);
 VoicePlay("P840500004_05_020");
-MsgDisp("Hiiragi","The whole school was excited over it, so
-it was difficult to hear.");
+MsgDisp("Hiiragi","The whole school was excited over it, so it
+was difficult to hear.");
 MsgDisp("主人公","Yeah.
 That made the mother confused, so maybe
 that's why she missed it.");

@@ -22,8 +22,8 @@ You did it.");
     ScrFadeIn(0);
     VoicePlay("X110600002_06_010");
     MsgDisp("Himuro","It's the talk of the school.
-The judo club landed a splendid ippon
-during their practice match.");
+The judo club landed a splendid ippon during
+their practice match.");
     MsgDisp("主人公","｛Himuro＊＊｝.
 Yeah, I'm happy!");
     ChEye(6,3);

@@ -28,11 +28,11 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P740300003_03_020");
-MsgDisp("Honda","Nope, since you weren't injured, you
-failed safely successfully!");
-MsgDisp("主人公","(｛Honda＊＊｝, were you trying to cheer me
-up? But, I definitely didn't practice
-enough for the show...)");
+MsgDisp("Honda","Nope, since you weren't injured, you failed
+safely successfully!");
+MsgDisp("主人公","(｛Honda＊＊｝, were you trying to cheer me up?
+But, I definitely didn't practice enough for
+the show...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

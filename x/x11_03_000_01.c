@@ -22,8 +22,8 @@ Thanks for your support!");
     ScrFadeIn(0);
     VoicePlay("X110300001_03_010");
     MsgDisp("Honda","I heard it!
-The track and field team, they said many
-new records were set.");
+The track and field team, they said many new
+records were set.");
     MsgDisp("主人公","｛Honda＊＊｝.
 Yeah, I know!");
     ChEye(3,3);
@@ -31,8 +31,8 @@ Yeah, I know!");
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("X110300001_03_020");
-    MsgDisp("Honda","When you celebrate with me like that, I
-feel like I can do my best.
+    MsgDisp("Honda","When you celebrate with me like that, I feel
+like I can do my best.
 Thanks for your support and hard work!");
     MsgDisp("主人公","(I was praised by ｛Honda＊＊｝!)");
     break ;

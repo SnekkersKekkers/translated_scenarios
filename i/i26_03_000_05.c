@@ -24,8 +24,8 @@ idea which shelf carried what...");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_530");
-    MsgDisp("Honda","Before you knew it, you became able to
-help people immediately!");
+    MsgDisp("Honda","Before you knew it, you became able to help
+people immediately!");
     MsgDisp("主人公","Now that you mention it, I guess I did?");
     ChEye(3,3);
     ChMouth(3,3);
@@ -64,37 +64,35 @@ Isn't the store sparkling?");
 titles are all perfect.
 Even the heights are in line...");
     MsgDisp("主人公","Yeah, I noticed it so I fixed it.
-But, I'm surprised you noticed,
-｛Honda＊＊｝.");
+But, I'm surprised you noticed, ｛Honda＊＊｝.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,1,1);
     ChEyeOpenLevel(3,8);
     VoicePlay("I260300000_03_590");
-    MsgDisp("Honda","I have worked here longer than you, you
-know?");
+    MsgDisp("Honda","I have worked here longer than you, you know?");
     MsgDisp("主人公","Ah...hehe, you're right.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_600");
-    MsgDisp("Honda","The big tasks are important, too, but
-little things like that will be recognized
-later, too.");
+    MsgDisp("Honda","The big tasks are important, too, but little
+things like that will be recognized later,
+too.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_610");
-    MsgDisp("Honda","Of course, for the shop's reputation, but
-for yours, too.");
+    MsgDisp("Honda","Of course, for the shop's reputation, but for
+yours, too.");
     MsgDisp("主人公","Hm, for me too?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_620");
     MsgDisp("Honda","Yeah yeah.
-Well, the manager and I are already
-relying on you, though.");
+Well, the manager and I are already relying
+on you, though.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);

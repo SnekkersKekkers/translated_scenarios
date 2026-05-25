@@ -68,9 +68,9 @@ I've seen this before.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200001_02_070");
-    MsgDisp("Sassa","Yeah, I eat it a lot at home. It's bite
-sized with the perfect amount of sugar.
-Thanks.");
+    MsgDisp("Sassa","Yeah, I eat it a lot at home.
+It's bite sized with the perfect amount of
+sugar. Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -78,8 +78,7 @@ Thanks.");
     ChClose(2);
     Wait(30);
     MsgDisp("主人公","(Ah...
-Should I have given him a better
-chocolate?)");
+Should I have given him a better chocolate?)");
     break ;
     default :
     DbgAssert(1);

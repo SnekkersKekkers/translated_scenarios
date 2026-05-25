@@ -31,8 +31,7 @@ Is it really just that?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("N020600002_06_030");
-    MsgDisp("Himuro","If you're happy with it, I guess it's
-fine?");
+    MsgDisp("Himuro","If you're happy with it, I guess it's fine?");
     MsgDisp("主人公","(Oof.
 I have to study a little harder...)");
     break ;
@@ -47,8 +46,7 @@ I have to study a little harder...)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("N020600002_06_050");
-    MsgDisp("Himuro","I thought you would aim for a higher
-score.");
+    MsgDisp("Himuro","I thought you would aim for a higher score.");
     MsgDisp("主人公","Is that so...");
     ChEye(6,0);
     ChMouth(6,0);

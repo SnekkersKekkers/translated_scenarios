@@ -62,17 +62,16 @@ Are you letting me do an interview then?");
 ChMotion(4,2);
 VoicePlay("G110400301_04_040");
 MsgDisp("Nanatsumori","Let me think.
-As long as I can give you a review of what
-I just ate.");
-MsgDisp("主人公","I'm sure NANA-kun's fans would be
-overjoyed!");
+As long as I can give you a review of what I
+just ate.");
+MsgDisp("主人公","I'm sure NANA-kun's fans would be overjoyed!");
 ChEye(4,1);
 ChMouth(4,1);
 VoicePlay("G110400301_04_050");
 MsgDisp("Nanatsumori","Don't...don't take it so seriously.
 It was a joke.");
-MsgDisp("主人公","(Maybe I'll try giving him
-the puppy-dog eyes...)");
+MsgDisp("主人公","(Maybe I'll try giving him the puppy-dog
+eyes...)");
 while (1){
     RunEverydaySksp(4,0,1,0,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -93,10 +92,11 @@ VoicePlay("G110400301_04_080");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,0);
-MsgDisp("Nanatsumori","Ach. You got me.");
-MsgDisp("主人公","(Hehe! It would be fun to write about 
-spending time with ｛Nanatsumori＊｝
-like this!)");
+MsgDisp("Nanatsumori","Ach.
+You got me.");
+MsgDisp("主人公","(Hehe!
+It would be fun to write about spending time
+with ｛Nanatsumori＊｝ like this!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

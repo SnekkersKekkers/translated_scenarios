@@ -14,7 +14,8 @@ switch (ChPrmGet(3,6)){
     VoicePlay("I260300000_03_220");
     MsgDisp("Honda","Hm?
 The person who arranged this shelf...");
-    MsgDisp("主人公","It was me. Did I do something wrong?");
+    MsgDisp("主人公","It was me.
+Did I do something wrong?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -23,8 +24,8 @@ The person who arranged this shelf...");
 But, wasn't it difficult?
 Sorry for making you do it all.");
     MsgDisp("主人公","No problem.
-You were busy helping our
-customers, right, ｛Honda＊＊｝?");
+You were busy helping our customers, right,
+｛Honda＊＊｝?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -49,15 +50,15 @@ I didn't know you were good at them.");
     ChMotion(3,5,1);
     VoicePlay("I260300000_03_260");
     MsgDisp("Honda","Huh, what a waste!
-Let's get the manager's approval and put
-it out properly.");
+Let's get the manager's approval and put it
+out properly.");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_270");
-    MsgDisp("Honda","Small publishers are putting out great
-books that get buried under promotions for
-bigger books.");
+    MsgDisp("Honda","Small publishers are putting out great books
+that get buried under promotions for bigger
+books.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,1,1);
@@ -73,14 +74,14 @@ something about it, but...");
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_300");
     MsgDisp("Honda","Yeah, really!
-I wanted to say a lot, and before I knew
-it, it was all full of words.");
+I wanted to say a lot, and before I knew it,
+it was all full of words.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_310");
-    MsgDisp("Honda","Compared to that, yours is easy to read
-and the content is perfect.");
+    MsgDisp("Honda","Compared to that, yours is easy to read and
+the content is perfect.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);

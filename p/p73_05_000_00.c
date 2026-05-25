@@ -26,11 +26,11 @@ Thank you.");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("P730500000_05_020");
-    MsgDisp("Hiiragi","Even if I tell you to relax, it's
-difficult, right?");
+    MsgDisp("Hiiragi","Even if I tell you to relax, it's difficult,
+right?");
     MsgDisp("主人公","I'm super nervous..
-This is my first time doing something like
-a fashion show.");
+This is my first time doing something like a
+fashion show.");
     VoicePlay("P730500000_05_030");
     MsgDisp("Hiiragi","I understand.
 I'm also always like that.");
@@ -56,8 +56,8 @@ little easier, right?");
 I forgot to mention something important.
 That outfit suits you very well.");
     MsgDisp("主人公","Thank you...!");
-    MsgDisp("主人公","(I feel like ｛Hiiragi＊＊＊｝ gave me the push
-I needed.
+    MsgDisp("主人公","(I feel like ｛Hiiragi＊＊＊｝ gave me the push I
+needed.
 Let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -91,8 +91,7 @@ Seems like I'm nervous after all.");
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500000_05_080");
     MsgDisp("Hiiragi","I apologize.
-I didn't intend on putting pressure on
-you.");
+I didn't intend on putting pressure on you.");
     MsgDisp("主人公","No.
 I'm happy that you came to watch.");
     ChEye(5,0);
@@ -102,8 +101,8 @@ I'm happy that you came to watch.");
     MsgDisp("Hiiragi","It's the same when I'm at theatre troupe.
 I'm happiest when people come to watch.");
     VoicePlay("P730500000_05_100");
-    MsgDisp("Hiiragi","Just remember that happy feeling, an
-forget your apprehension, okay?");
+    MsgDisp("Hiiragi","Just remember that happy feeling, an forget
+your apprehension, okay?");
     MsgDisp("主人公","...Yeah.");
     SEPlay("EV_SE_038");
     SEWait();
@@ -112,12 +111,12 @@ forget your apprehension, okay?");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("P730500000_05_110");
-    MsgDisp("Hiiragi","It'll be alright. If it's you, you'll be
-able to charm the audience. I am current
-proof of that.");
-    MsgDisp("主人公","(Thank you, ｛Hiiragi＊＊＊｝. Yes, I should go
-out with a little confidence. Let's do our
-best!)");
+    MsgDisp("Hiiragi","It'll be alright.
+If it's you, you'll be able to charm the
+audience. I am current proof of that.");
+    MsgDisp("主人公","(Thank you, ｛Hiiragi＊＊＊｝.
+Yes, I should go out with a little
+confidence. Let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

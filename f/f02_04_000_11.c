@@ -18,8 +18,8 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("F020400011_04_010");
-MsgDisp("Nanatsumori","I might have said this before, but I have
-to do spring clothes shoots in winter.
+MsgDisp("Nanatsumori","I might have said this before, but I have to
+do spring clothes shoots in winter.
 I have to smile through the cold.");
 MsgDisp("主人公","I see.
 That's cool, though.
@@ -29,8 +29,8 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("F020400011_04_020");
 MsgDisp("Nanatsumori","...A little?
-It's not little at all∈ It's super cold.
-Deathly-cold levels!");
+It's not little at all∈
+It's super cold. Deathly-cold levels!");
 MsgDisp("主人公","I-I see.
 Um, well, good luck?");
 ChEye(4,2);
@@ -45,5 +45,5 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("F020400011_04_040");
 MsgDisp("Nanatsumori","Haah～...");
-MsgDisp("主人公","(I will root for you! ...from a nice warm
-room!)");
+MsgDisp("主人公","(I will root for you!
+...from a nice warm room!)");

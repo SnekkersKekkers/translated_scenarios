@@ -8,10 +8,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020310400_03_010");
-MsgDisp("Honda","I just thought about it suddenly. You
-know, one reason fireflies light up is
-said to be part of their courtship
-behavior.");
+MsgDisp("Honda","I just thought about it suddenly.
+You know, one reason fireflies light up is
+said to be part of their courtship behavior.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -38,8 +37,8 @@ ChMotion(3,0);
 ChEyeOpenLevel(3,#1);
 VoicePlay("G020310400_03_050");
 MsgDisp("Honda","It's because I've been thinking about it a
-lot lately. About what kind of feelings I
-have for you.");
+lot lately.
+About what kind of feelings I have for you.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,0);
 ChMouth(3,0);
@@ -50,24 +49,23 @@ But is this romantic love?
 Or just a human instinct?");
 ChMotion(3,2);
 VoicePlay("G020310400_03_070");
-MsgDisp("Honda","Or is it a sense of belonging? Like a
-feeling of security in belonging to the
-smallest unit of community, a couple...");
+MsgDisp("Honda","Or is it a sense of belonging?
+Like a feeling of security in belonging to
+the smallest unit of community, a couple...");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020310400_03_080");
-MsgDisp("Honda","...No, let's stop. This is a bad habit of
-mine. Overthinking things and going in
-strange directions.");
+MsgDisp("Honda","...No, let's stop.
+This is a bad habit of mine. Overthinking
+things and going in strange directions.");
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020310400_03_090");
 MsgDisp("Honda","Maybe trying to find reasons or logical
 explanations for 'liking' someone is
 pointless");
-MsgDisp("主人公","(｛Honda＊＊｝, seems troubled about
-love...)");
+MsgDisp("主人公","(｛Honda＊＊｝, seems troubled about love...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

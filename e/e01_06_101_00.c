@@ -36,8 +36,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010610100_06_040");
-MsgDisp("Himuro","We went shopping together, but the moment
-I looked away I lost sight of him.");
+MsgDisp("Himuro","We went shopping together, but the moment I
+looked away I lost sight of him.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -90,16 +90,15 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("E010610100_06_100");
 MsgDisp("Himuro","I wonder.
-Sometimes I think he's more reliable than
-me.");
+Sometimes I think he's more reliable than me.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("E010610100_06_110");
 MsgDisp("Himuro","Apparently he told mother that I got lost.");
 MsgDisp("主人公","Hehe.
-So it turns out he was actually looking
-for ｛Himuro＊＊｝?");
+So it turns out he was actually looking for
+｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,2);
@@ -118,8 +117,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(I'm glad he's safe...I also got to see
-what the relationship between ｛Himuro＊＊｝
-and his brother is like.)");
+MsgDisp("主人公","(I'm glad he's safe...
+I also got to see what the relationship
+between ｛Himuro＊＊｝ and his brother is like.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -14,9 +14,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("X120300003_03_000");
-    MsgDisp("Honda","You can't do the work of the student
-council unless you're as well-liked as you
-are.");
+    MsgDisp("Honda","You can't do the work of the student council
+unless you're as well-liked as you are.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

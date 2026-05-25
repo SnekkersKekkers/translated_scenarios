@@ -11,8 +11,8 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","Looks like the baseball team won?
 That's great.");
     MsgDisp("主人公","Thank you.
-It would make me happy if I was able to
-help them win.");
+It would make me happy if I was able to help
+them win.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

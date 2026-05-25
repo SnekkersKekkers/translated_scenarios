@@ -32,8 +32,8 @@ ChMotion(5,4);
 VoicePlay("P640500002_05_030");
 MsgDisp("Hiiragi","Yes, if the producer says so, it must be
 true.");
-MsgDisp("主人公","(Hehe, a huge success∈ I'm glad I worked
-hard in preparations!)");
+MsgDisp("主人公","(Hehe, a huge success∈
+I'm glad I worked hard in preparations!)");
 MsgClose();
 BGMStop();
 MsgClose();

@@ -33,8 +33,8 @@ When we're together, time passes quickly.");
     ChMotion(2,4);
     VoicePlay("S120200003_02_020");
     MsgDisp("Sassa","It's like a hard workout.
-When you're watching over me, before I
-even realize it, it's over.");
+When you're watching over me, before I even
+realize it, it's over.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -62,8 +62,8 @@ I need to work hard too!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120200003_02_040");
-    MsgDisp("Sassa","I thought we were walking slowly, but
-somehow we've already arrived.");
+    MsgDisp("Sassa","I thought we were walking slowly, but somehow
+we've already arrived.");
     MsgDisp("主人公","Yeah, you're right...
 Thanks for walking me back.");
     ChEye(2,0);
@@ -87,23 +87,23 @@ well.");
     ChMotion(2,4);
     VoicePlay("S120200003_02_070");
     MsgDisp("Sassa","No.
-When you talk to me like that, I really
-start to believe I can do it.");
+When you talk to me like that, I really start
+to believe I can do it.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("S120200003_02_080");
-    MsgDisp("Sassa","But when other people say things like
-that, it feels ambiguous.");
+    MsgDisp("Sassa","But when other people say things like that,
+it feels ambiguous.");
     MsgDisp("主人公","I see...
 I'm sorry for saying something weird.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("S120200003_02_090");
-    MsgDisp("Sassa","Don't be. A stubborn guy like me who does
-everything by himself can somehow just
-listen to you.");
+    MsgDisp("Sassa","Don't be.
+A stubborn guy like me who does everything by
+himself can somehow just listen to you.");
     MsgDisp("主人公","...Why?");
     ChEye(2,0);
     ChMouth(2,4);

@@ -4,8 +4,8 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yeah, I might have been able to play
-better than last year!)");
+MsgDisp("主人公","(Yeah, I might have been able to play better
+than last year!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,254,0,0,0,#1,#1,0,0);
@@ -19,15 +19,14 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("P540300002_03_010");
 MsgDisp("Honda","It was super good!
-I was getting excited just listening to
-it!");
+I was getting excited just listening to it!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P540300002_03_020");
-MsgDisp("Honda","More than anything, you looked like you
-were having a great time playing, didn't
-you? I was totally taken in.");
+MsgDisp("Honda","More than anything, you looked like you were
+having a great time playing, didn't you?
+I was totally taken in.");
 MsgDisp("主人公","I'm so glad, thank you!");
 ChFace(3,3);
 ChMotion(3,4,1);

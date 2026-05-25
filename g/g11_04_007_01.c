@@ -1,8 +1,8 @@
 BGOpen("ar100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Sorry if I kept you waiting.
-Heres some assorted sandwiches and
-vegetable juice.");
+Heres some assorted sandwiches and vegetable
+juice.");
 SEPlay("EV_SE_827");
 SEWait();
 MsgDisp("主人公","(Whew...it's a busy day today.)");

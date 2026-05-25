@@ -1,9 +1,9 @@
 BGOpen("sc500",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, that's right. Before I head home,
-I have to deliver the notebook
-｛Mikage＊＊｝ asked me to bring to the staff room!)");
+MsgDisp("主人公","(Ah, that's right. Before I head home, I have
+to deliver the notebook ｛Mikage＊＊｝ asked
+me to bring to the staff room!)");
 VoiceEVSPlay(1);
 VoicePlay("F100640002_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
@@ -37,9 +37,8 @@ ChMotion(6,0);
 VoicePlay("F100640002_06_020");
 MsgDisp("Himuro","Yeah, why...so, what are you doing?");
 ChEye(1,4);
-MsgDisp("主人公","I forgot to do something for
-｛Mikage＊＊｝, so I'm heading back to
-the classroom now.");
+MsgDisp("主人公","I forgot to do something for ｛Mikage＊＊｝,
+so I'm heading back to the classroom now.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -57,8 +56,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100640002_01_040");
 MsgDisp("Kazama","Why?
-You're in a different class and school
-year.");
+You're in a different class and school year.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);

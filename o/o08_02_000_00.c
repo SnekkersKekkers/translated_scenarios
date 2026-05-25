@@ -21,15 +21,15 @@ Ah, it's ｛Sassa＊＊｝.)");
     ChOpen(2,30,4,0,0,#1,#1,10,0);
     VoicePlay("O080200000_02_010");
     MsgDisp("Sassa","Uwah, this is making me shy...
-Being embarrassed like this is
-embarrassing, too...");
+Being embarrassed like this is embarrassing,
+too...");
     MsgDisp("主人公","Yeah, it's making me shy, too.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("O080200000_02_020");
-    MsgDisp("Sassa","It'd be nice if you were always my
-partner, though?");
+    MsgDisp("Sassa","It'd be nice if you were always my partner,
+though?");
     break ;
     case 4:
     case 5:

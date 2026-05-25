@@ -8,8 +8,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","The culture festival is coming fast!");
 ChMouth(5,4);
 VoicePlay("F020500009_05_000");
-MsgDisp("Hiiragi","If everyone is pleased, then I will be
-happy.
+MsgDisp("Hiiragi","If everyone is pleased, then I will be happy.
 That is the role of the student council.");
 MsgDisp("主人公","Is that so?
 Then I hope you have a trouble-free and
@@ -21,29 +20,28 @@ MsgDisp("主人公","Huh?
 What?");
 ChMotion(5,4);
 VoicePlay("F020500009_05_020");
-MsgDisp("Hiiragi","I think I like the days of preparation
-more than the day of the festival itself.");
+MsgDisp("Hiiragi","I think I like the days of preparation more
+than the day of the festival itself.");
 MsgDisp("主人公","Huh?");
 ChMotion(5,2);
 VoicePlay("F020500009_05_030");
-MsgDisp("Hiiragi","It's like the day before a festival,
-everyone buzzing with excitement.
+MsgDisp("Hiiragi","It's like the day before a festival, everyone
+buzzing with excitement.
 And we're the ones supporting it backstage.");
 MsgDisp("主人公","Oh, so that's a more fulfilling time.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("F020500009_05_040");
-MsgDisp("Hiiragi","Exactly. Of course, the day of is fun,
-too. But when that day arrives...it is
-already ending.");
-MsgDisp("主人公","But you can only eat the food stall food
-on the day of, right?");
+MsgDisp("Hiiragi","Exactly.
+Of course, the day of is fun, too. But when
+that day arrives...it is already ending.");
+MsgDisp("主人公","But you can only eat the food stall food on
+the day of, right?");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("F020500009_05_050");
-MsgDisp("Hiiragi","You're right. The end of the prep period
-is sad, but if it means food cart
-yakisoba...I'll allow it.");
-MsgDisp("主人公","(Maybe the one working the hardest to
-prepare for the culture festival is
-｛Hiiragi＊＊＊｝?)");
+MsgDisp("Hiiragi","You're right.
+The end of the prep period is sad, but if it
+means food cart yakisoba... I'll allow it.");
+MsgDisp("主人公","(Maybe the one working the hardest to prepare
+for the culture festival is ｛Hiiragi＊＊＊｝?)");

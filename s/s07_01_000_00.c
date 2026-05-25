@@ -11,8 +11,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,1);
     VoicePlay("S070100000_01_000");
     MsgDisp("Kazama","It's packed.
-It's nice to see the local shrine so
-beloved.");
+It's nice to see the local shrine so beloved.");
     MsgDisp("主人公","Yeah.
 It's really a huge turnout.");
     ChEye(1,0);
@@ -29,8 +28,8 @@ It's really restless around here.");
     ChMotion(1,0);
     ScrFadeIn(0);
     VoicePlay("S070100000_01_020");
-    MsgDisp("Kazama","Should we carve tablets since we're
-visiting the shrine?");
+    MsgDisp("Kazama","Should we carve tablets since we're visiting
+the shrine?");
     MsgDisp("主人公","Yeah, that sounds good.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -67,8 +66,8 @@ It'll save the Gods' time too.");
 How long will it take us to get to the
 shrine?");
     MsgDisp("主人公","It may be a few hours.
-But this way, we can take our time and
-think about our wishes.");
+But this way, we can take our time and think
+about our wishes.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);

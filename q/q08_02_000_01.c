@@ -54,8 +54,8 @@ Meet me here next time.");
     ChMotion(2,4);
     VoicePlay("Q080200001_02_050");
     MsgDisp("Sassa","Me too.
-I wanna go back to this morning one
-more time.");
+I wanna go back to this morning one more
+time.");
     MsgDisp("主人公","Hehe, same!");
     ChEye(2,0);
     ChMouth(2,0);

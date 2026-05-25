@@ -68,8 +68,8 @@ No way...");
     ChMouth(21,4);
     ChMotion(21,0);
     VoicePlay("U100D00000_21_030");
-    MsgDisp("Michiru","It's no problem if you have something else
-to do.");
+    MsgDisp("Michiru","It's no problem if you have something else to
+do.");
     MsgDisp("主人公","Yeah, sorry.");
     VoicePlay("U100D00000_21_040");
     MsgDisp("Michiru","Don't worry.
@@ -80,9 +80,8 @@ We'll try again some other time.");
     VoicePlay("U100D00000_22_050");
     MsgDisp("Hikaru","Well, suppose it can't be helped～
 Next time, okay Mari?");
-    MsgDisp("主人公","(Even though they went through the trouble
-of inviting me...did I make the right
-choice?)");
+    MsgDisp("主人公","(Even though they went through the trouble of
+inviting me...did I make the right choice?)");
     break ;
     default :
     DbgAssert(0);

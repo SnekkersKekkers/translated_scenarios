@@ -52,8 +52,8 @@ play.");
     ChMotion(1,0);
     VoicePlay("P230100000_01_040");
     MsgDisp("Kazama","So, we already enjoyed ourselves enough.
-After that, all that's left to do is give
-our best for everyone.");
+After that, all that's left to do is give our
+best for everyone.");
 
     MsgDisp("主人公","Yes, that's right!");
     SEPlay("EV_SE_038");

@@ -15,9 +15,8 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("P640100003_01_020");
-MsgDisp("Kazama","That might be true, and the flavour might
-be good, but appearances matter too, you
-know?");
+MsgDisp("Kazama","That might be true, and the flavour might be
+good, but appearances matter too, you know?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

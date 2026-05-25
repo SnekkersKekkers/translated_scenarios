@@ -21,9 +21,9 @@ Welcome!");
     ChMotion(6,4);
     VoicePlay("P630600002_06_010");
     MsgDisp("Himuro","You seriously went all out.");
-    MsgDisp("主人公","Yeah, using the herbs and vegetables,
-we're offering tea and a light meal. I
-also did my best to study cooking methods!");
+    MsgDisp("主人公","Yeah, using the herbs and vegetables, we're
+offering tea and a light meal.
+I also did my best to study cooking methods!");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);
@@ -35,8 +35,8 @@ three years.");
     ChMotion(6,0);
     VoicePlay("P630600002_06_030");
     MsgDisp("Himuro","Then, can I get your number one
-reccomendation? I want to see the fruits
-of your efforts with my own eyes.");
+reccomendation? I want to see the fruits of
+your efforts with my own eyes.");
     MsgDisp("主人公","Yes, one moment please!");
     MsgClose();
     ScrFadeOut(0,0);
@@ -88,8 +88,8 @@ The menu is also legit.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P630600002_06_090");
-    MsgDisp("Himuro","Then, I want the most heartfelt dish
-you've made until now, please.");
+    MsgDisp("Himuro","Then, I want the most heartfelt dish you've
+made until now, please.");
     MsgDisp("主人公","Y-Yeah?
 Then please wait a moment!");
     MsgDisp("主人公","(What's up with ｛Himuro＊＊｝?)");

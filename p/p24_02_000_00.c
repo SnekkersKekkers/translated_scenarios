@@ -19,8 +19,8 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,0);
 VoicePlay("P240200000_02_010");
 MsgDisp("Sassa","I can't do that.");
-MsgDisp("主人公","...Then I will cry, I will continue to
-await help.");
+MsgDisp("主人公","...Then I will cry, I will continue to await
+help.");
 StlEye(2,1,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
@@ -130,17 +130,17 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("P240200000_02_100");
-MsgDisp("Sassa","If detaining you in this underworld
-sullens your beautiful face, then I shall
-send you back to earth.");
+MsgDisp("Sassa","If detaining you in this underworld sullens
+your beautiful face, then I shall send you
+back to earth.");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,2);
 ChEyeOpenLevel(2,0);
 VoicePlay("P240200000_02_110");
-MsgDisp("Sassa","However, if you pity me, stay with me a
-month each year only for each pomegranate
-seed you have eaten.");
+MsgDisp("Sassa","However, if you pity me, stay with me a month
+each year only for each pomegranate seed you
+have eaten.");
 MsgDisp("主人公","Yes...");
 SEPlay("EV_SE_681",0,0.9);
 Wait(50,0);
@@ -153,9 +153,9 @@ Isn't it great, Cerebus?
 Persephone will stay with us.");
 SEStop("EV_SE_681",1);
 VoicePlay("P240200000_49_000");
-MsgDisp("Narrator","Persephone was then drawn to Hades'
-sincerity and wanted to marry the king of
-the underworld.");
+MsgDisp("Narrator","Persephone was then drawn to Hades' sincerity
+and wanted to marry the king of the
+underworld.");
 MsgClose();
 SEPlay("EV_SE_GAYA_021",0,0.9);
 SEPlay("EV_SE_CLAP_002");
@@ -174,15 +174,15 @@ MsgClose();
 ChOpen(2,38,4,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240200000_02_130");
-MsgDisp("Sassa","It's changed direction, but it's become
-more interesting thanks to the Cerberus'.");
+MsgDisp("Sassa","It's changed direction, but it's become more
+interesting thanks to the Cerberus'.");
 MsgDisp("主人公","Hehe, maybe?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P240200000_02_140");
-MsgDisp("Sassa","...Hey, am I forcibly dragging you into
-this like Hades is?");
+MsgDisp("Sassa","...Hey, am I forcibly dragging you into this
+like Hades is?");
 MsgDisp("主人公","Eh?
 What are you talking about?");
 ChEye(2,4);
@@ -195,8 +195,9 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P240200000_02_160");
-MsgDisp("Sassa","Phew...Maybe I got a bit too emotionally
-immersed. I'll see you later.");
+MsgDisp("Sassa","Phew...
+Maybe I got a bit too emotionally immersed.
+I'll see you later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);

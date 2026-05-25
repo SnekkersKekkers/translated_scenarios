@@ -8,9 +8,9 @@ switch (ChPrmGet(4,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year the Gardening Club is running
-a cafe. We prepared herbal tea and 
-cookies, but...)");
+    MsgDisp("主人公","(This year the Gardening Club is running a
+cafe.
+We prepared herbal tea and cookies, but...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
@@ -41,9 +41,9 @@ One customer, please follow me—!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year the Gardening Club's program is
-a cafe. I have to prepare herb tea and
-cookies though...)");
+    MsgDisp("主人公","(This year the Gardening Club's program is a
+cafe. I have to prepare herb tea and cookies
+though...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);

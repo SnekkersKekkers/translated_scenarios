@@ -35,9 +35,9 @@ See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(2);
-    MsgDisp("主人公","(｛Sassa＊＊｝ is amazing. He's working hard
-towards his goals already this year. I
-will too...!)");
+    MsgDisp("主人公","(｛Sassa＊＊｝ is amazing.
+He's working hard towards his goals already
+this year. I will too...!)");
     break ;
     case 4:
     case 5:
@@ -56,18 +56,18 @@ will too...!)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("S120200001_02_030");
-    MsgDisp("Sassa","I actually wish I could spend more time
-with you. But it's not good to sprint so
-quickly beyond the starting point.");
+    MsgDisp("Sassa","I actually wish I could spend more time with
+you. But it's not good to sprint so quickly
+beyond the starting point.");
     MsgDisp("主人公","In ｛Sassa＊＊｝'s mind, even this is like a
 track event.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("S120200001_02_040");
-    MsgDisp("Sassa","Really? If this was a race, I would give
-it my all from the beginning, without any
-hesitation.");
+    MsgDisp("Sassa","Really?
+If this was a race, I would give it my all
+from the beginning, without any hesitation.");
     MsgDisp("主人公","Your all?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -88,17 +88,17 @@ So next time let's have an all-out date.");
     ChMouth(2,3);
     ChMotion(2,0);
     VoicePlay("S120200001_02_070");
-    MsgDisp("Sassa","Yeah. We can go camping after swimming at
-the pool. And after swimming we can go
-skiing.");
+    MsgDisp("Sassa","Yeah.
+We can go camping after swimming at the pool.
+And after swimming we can go skiing.");
     MsgDisp("主人公","That's crazy.
 It's like some kind of challenge.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("S120200001_02_080");
-    MsgDisp("Sassa","I think I'll try to build up my stamina
-for an all-out date.
+    MsgDisp("Sassa","I think I'll try to build up my stamina for
+an all-out date.
 See you.");
     MsgClose();
     MsgClose();

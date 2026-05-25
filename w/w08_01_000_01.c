@@ -26,8 +26,7 @@ Well then, let's go.");
     ChEye(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("W080100001_01_020");
-    MsgDisp("Kazama","I'd like to hear the reason for this
-later.");
+    MsgDisp("Kazama","I'd like to hear the reason for this later.");
     break ;
     default :
     DbgAssert(1);

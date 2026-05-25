@@ -42,8 +42,8 @@ Let's aim for the championship together!)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H180100000_01_040");
-    MsgDisp("Kazama","It's amazing, winning enough to make it
-this far.");
+    MsgDisp("Kazama","It's amazing, winning enough to make it this
+far.");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 You came?");
     ChEye(1,3);
@@ -52,8 +52,8 @@ You came?");
     VoicePlay("H180100000_01_050");
     MsgDisp("Kazama","Yeah, you brought me all the way to the
 Koshien.");
-    MsgDisp("主人公","It wasn't just me, but the whole team
-brought you here, you know?");
+    MsgDisp("主人公","It wasn't just me, but the whole team brought
+you here, you know?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -66,8 +66,8 @@ you.");
     ChMotion(1,0);
     VoicePlay("H180100000_01_070");
     MsgDisp("Kazama","Isn't it the same for the team?
-Without you, I don't think they would've
-been able to make it this far.");
+Without you, I don't think they would've been
+able to make it this far.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -80,8 +80,8 @@ That's a fact.");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("H180100000_01_090");
-    MsgDisp("Kazama","So, I need you to get a result you're
-happy with.");
+    MsgDisp("Kazama","So, I need you to get a result you're happy
+with.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,1);

@@ -34,10 +34,10 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700701_07_010");
 MsgDisp("Mikage","Oh, that would be nice.
-Maybe we should do a 'Molly's Milk Mart'
-at lunchtime?");
-MsgDisp("主人公","Is this the cow ｛Mikage＊＊｝ showed me
-at his farm the other day?");
+Maybe we should do a 'Molly's Milk Mart' at
+lunchtime?");
+MsgDisp("主人公","Is this the cow ｛Mikage＊＊｝ showed me at
+his farm the other day?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -53,8 +53,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700701_07_030");
 MsgDisp("Mikage","Oh, that would be great!
-If I could bring Molly and the others to
-Haba High, I would die happy.");
+If I could bring Molly and the others to Haba
+High, I would die happy.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,1);

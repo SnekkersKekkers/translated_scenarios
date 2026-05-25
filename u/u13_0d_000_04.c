@@ -16,17 +16,17 @@ switch (ChPrmGet(5,6)){
     StlMouth(21,0);
     VoicePlay("U130D00004_21_000");
     MsgDisp("Michiru","Because his world is so unique, I guess it
-might be difficult for Mari to keep up
-with him?");
+might be difficult for Mari to keep up with
+him?");
     StlEye(22,0);
     StlMouth(22,1);
     VoicePlay("U130D00004_22_000");
     MsgDisp("Hikaru","If you want Yanosuke-san to look your way,
-wouldn't it be a good idea to align his
-world with reality?");
-    MsgDisp("主人公","(I see...I guess we should try to
-experience the history of the theater as
-well as the present together.)");
+wouldn't it be a good idea to align his world
+with reality?");
+    MsgDisp("主人公","(I see... I guess we should try to experience
+the history of the theater as well as the
+present together.)");
     break ;
     case 3:
     StlEye(22,0);
@@ -35,8 +35,8 @@ well as the present together.)");
     StlEyeOpenLevel(21,5);
     StlMouth(21,0);
     VoicePlay("U130D00004_21_010");
-    MsgDisp("Michiru","I think Yanosuke-san is quite interested
-in Mari?");
+    MsgDisp("Michiru","I think Yanosuke-san is quite interested in
+Mari?");
     MsgDisp("主人公","Eh, is that right?");
     StlMouth(22,1);
     StlEyeOpenLevel(21,0,1);
@@ -66,8 +66,8 @@ I think it would really motivate him.");
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,1);
     MsgDisp("主人公","(Mmm. It's complicated but, I wonder if I
-should try to have a lot of new
-experiences with ｛Hiiragi＊＊＊｝.)");
+should try to have a lot of new experiences
+with ｛Hiiragi＊＊＊｝.)");
     break ;
     case 4:
     case 5:
@@ -84,9 +84,9 @@ Mari looks like she's married lately.");
     StlMouth(22,0);
     StlCheek(22,7);
     VoicePlay("U130D00004_22_030");
-    MsgDisp("Hikaru","Right～! 
-It feels like she's perfectly in sync 
-with Yanosuke-san♪");
+    MsgDisp("Hikaru","Right～!
+It feels like she's perfectly in sync with
+Yanosuke-san♪");
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00004_21_050");
     MsgDisp("Michiru","I'm not sure if he realizes that he's in
@@ -102,12 +102,12 @@ The love show will become reality soon▼");
     StlMouth(22,0);
     VoicePlay("U130D00004_22_050");
     MsgDisp("Hikaru","Do you think we'll get to see Yanosuke's
-passionate side soon? Ahn～, Hikaru wants
-to see that performance～▼");
+passionate side soon? Ahn～, Hikaru wants to
+see that performance～▼");
     StlEye(22,0);
-    MsgDisp("主人公","(｛ひかる＊｝...If it's ｛Hiiragi＊＊＊｝'s 
-real life love story performance, I
-want to see it too...)");
+    MsgDisp("主人公","(｛ひかる＊｝...
+If it's ｛Hiiragi＊＊＊｝'s real life love story
+performance, I want to see it too...)");
     break ;
     default :
     DbgAssert(1);

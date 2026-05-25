@@ -4,8 +4,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The souvenir for ｛Himuro＊＊｝ will be
-matcha castella with a bit of sweetness!)");
+MsgDisp("主人公","(The souvenir for ｛Himuro＊＊｝ will be matcha
+castella with a bit of sweetness!)");
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
@@ -17,9 +17,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q110C00000_05_000");
-MsgDisp("Hiiragi","I selected the souvenir for Inori fast,
-but the other souvenirs were not decided
-yet. Sorry to keep you waiting.");
+MsgDisp("Hiiragi","I selected the souvenir for Inori fast, but
+the other souvenirs were not decided yet.
+Sorry to keep you waiting.");
 MsgDisp("主人公","Don't worry, I just came.
 The souvenir for ｛Himuro＊＊｝ is also ready.");
 ChEye(5,4);
@@ -30,8 +30,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q110C00000_07_010");
 MsgDisp("Mikage","I see.
-Then let's get right to it and show off
-our souvenirs for Inori, shall we?");
+Then let's get right to it and show off our
+souvenirs for Inori, shall we?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -70,8 +70,7 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("Q110C00000_07_040");
 MsgDisp("Mikage","Well, maybe deep down in his gut?
-Though he may be a bit harsh on the
-surface.");
+Though he may be a bit harsh on the surface.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -89,16 +88,17 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q110C00000_05_040");
-MsgDisp("Hiiragi","Yes. This is for you. It's a beadlo. We
-painted it.");
+MsgDisp("Hiiragi","Yes.
+This is for you.
+It's a beadlo. We painted it.");
 MsgDisp("主人公","Eh, for me?
 So cute...!");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_050");
-MsgDisp("Hiiragi","I drew green holly leaves and orange
-paprika, and also red glasses.");
+MsgDisp("Hiiragi","I drew green holly leaves and orange paprika,
+and also red glasses.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

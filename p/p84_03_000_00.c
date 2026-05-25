@@ -10,9 +10,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("P840300000_03_010");
-MsgDisp("Honda","Yeah, it's thanks to you guys at the
-student council club. On behalf of
-everyone, I give you my thanks.");
+MsgDisp("Honda","Yeah, it's thanks to you guys at the student
+council club.
+On behalf of everyone, I give you my thanks.");
 ChFace(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
@@ -24,8 +24,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("P840300000_03_030");
 MsgDisp("Honda","Now it's time for my personal thanks.
-Let's go and drink the Gardening Club's
-tea. It'll be my treat.");
+Let's go and drink the Gardening Club's tea.
+It'll be my treat.");
 MsgDisp("主人公","(Hehe, I was praised by ｛Honda＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

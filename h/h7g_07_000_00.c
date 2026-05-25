@@ -12,14 +12,15 @@ ChMotion(7,1);
 VoicePlay("H8G0700000_07_010");
 MsgDisp("Mikage","You won the gold award in the handicraft
 club's competition, right?");
-MsgDisp("主人公","! You already knew?");
+MsgDisp("主人公","!
+You already knew?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("H8G0700000_07_020");
-MsgDisp("Mikage","Yeah, it was a hot topic in the staff
-room. Could this be the second coming of
-the world fashion leader Hanatsubaki Goro?");
+MsgDisp("Mikage","Yeah, it was a hot topic in the staff room.
+Could this be the second coming of the world
+fashion leader Hanatsubaki Goro?");
 MsgDisp("主人公","Hehe.
 Geez, you're exaggerating.");
 ChEye(7,0);
@@ -33,13 +34,13 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("H8G0700000_07_040");
-MsgDisp("Mikage","If that's the path you choose for
-yourself, then go for it.
+MsgDisp("Mikage","If that's the path you choose for yourself,
+then go for it.
 I'll be cheering you on, okay?");
 MsgDisp("主人公","Yes...!
 Thank you very much.");
-MsgDisp("主人公","(I'm happy that my efforts and
-achievements are being recognized...I'm
-glad I worked hard in handicrafts club!)");
+MsgDisp("主人公","(I'm happy that my efforts and achievements
+are being recognized...
+I'm glad I worked hard in handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

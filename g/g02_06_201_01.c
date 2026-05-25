@@ -11,9 +11,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620101_06_010");
-MsgDisp("Himuro","We were getting along so well, but before
-I knew it, I was just watching from a
-distance.");
+MsgDisp("Himuro","We were getting along so well, but before I
+knew it, I was just watching from a distance.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -36,8 +35,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620101_06_050");
-MsgDisp("Himuro","At first, I thought I'd do anything to
-take back that position, but...");
+MsgDisp("Himuro","At first, I thought I'd do anything to take
+back that position, but...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -58,8 +57,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620101_06_080");
 MsgDisp("Himuro","Do you want me to stay out of the way?
-Or do you want to be close to me like
-before?");
+Or do you want to be close to me like before?");
 MsgDisp("主人公","I......");
 ChEye(6,2);
 ChMouth(6,0);
@@ -98,8 +96,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020620101_06_140");
-MsgDisp("Himuro","Knowing that, there's no way I can back
-down quietly.");
+MsgDisp("Himuro","Knowing that, there's no way I can back down
+quietly.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

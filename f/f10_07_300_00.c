@@ -23,8 +23,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100730000_22_010");
-MsgDisp("Hikaru","Right, right, Mari you should also give
-him a harsh review!");
+MsgDisp("Hikaru","Right, right, Mari you should also give him a
+harsh review!");
 MsgDisp("主人公","Ehhh?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -70,8 +70,8 @@ ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F100730000_22_030");
 MsgDisp("Hikaru","Eh, really?");
-MsgDisp("主人公","Umm...well, it's very ｛Mikage＊＊｝
--like, so I think it's fine but...");
+MsgDisp("主人公","Umm...well, it's very ｛Mikage＊＊｝ -like,
+so I think it's fine but...");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);
@@ -81,8 +81,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("F100730000_21_030");
-MsgDisp("Michiru","But, these sorts of clothes are no
-good for a date, right?");
+MsgDisp("Michiru","But, these sorts of clothes are no good for a
+date, right?");
 ChMouth(22,0);
 MsgDisp("主人公","Yeah, that...");
 ChEye(7,0);
@@ -141,9 +141,9 @@ ChOpen(21,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(22,254,0,1,3,#1,#1,0,2,0,30);
 ChMotion(22,4,1);
 VoicePlay("F100730000_22_070");
-MsgDisp("Hikaru","He ran away. Hikaru can't believe he'd
-make a move like that...Good job,
-Mikage-sensei.");
+MsgDisp("Hikaru","He ran away.
+Hikaru can't believe he'd make a move like
+that... Good job, Mikage-sensei.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,3);

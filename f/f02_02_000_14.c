@@ -8,24 +8,24 @@ ScrFadeIn(0);
 VoicePlay("F020200014_02_000");
 MsgDisp("Sassa","It's almost time for graduation, huh.
 It arrived in the blink of an eye...");
-MsgDisp("主人公","Yeah. I won't be walking down this road in
-my uniform much longer. I'm going to miss
-it.");
+MsgDisp("主人公","Yeah.
+I won't be walking down this road in my
+uniform much longer. I'm going to miss it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200014_02_010");
 MsgDisp("Sassa","I'll wear my uniform whenever you want.");
 MsgDisp("主人公","Haha, thanks.
-But don't wear your uniform after
-graduation, okay?");
+But don't wear your uniform after graduation,
+okay?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200014_02_020");
-MsgDisp("Sassa","I see, so you're grateful for your
-uniform. In my case, I guess I'm grateful
-for training clothes?");
+MsgDisp("Sassa","I see, so you're grateful for your uniform.
+In my case, I guess I'm grateful for training
+clothes?");
 MsgDisp("主人公","Yeah, because you wear them more often?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -40,8 +40,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("F020200014_02_040");
 MsgDisp("Sassa","Haha, yikes. I forgot about Mikage-sensei.
-Maybe because he's overshadowed during
-track and field club?");
+Maybe because he's overshadowed during track
+and field club?");
 MsgDisp("主人公","He's been my homeroom teacher for three
 years.");
 ChEye(2,0);
@@ -56,8 +56,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200014_02_060");
-MsgDisp("Sassa","There's still time until graduation, so
-I'll save my thanks for then.
+MsgDisp("Sassa","There's still time until graduation, so I'll
+save my thanks for then.
 Until then, let's keep things as they are.");
 MsgDisp("主人公","Um, okay.");
 MsgDisp("主人公","(Graduation...

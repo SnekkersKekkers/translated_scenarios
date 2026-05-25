@@ -17,9 +17,9 @@ We lost...");
     ChMouth(22,0);
     ChMotion(22,4,1);
     VoicePlay("H2A2200001_22_010");
-    MsgDisp("Hikaru","To think our Haba High track team would
-lose. There are all sorts of great people
-in this world～ Right?");
+    MsgDisp("Hikaru","To think our Haba High track team would lose.
+There are all sorts of great people in this
+world～ Right?");
     MsgDisp("主人公","(We might have lost, but I'm glad that I
 stayed as the track and field club
 manager...)");
@@ -36,9 +36,9 @@ manager...)");
 Yeah, we lost...");
     ChMotion(22,2,1);
     VoicePlay("H2A2200001_22_030");
-    MsgDisp("Hikaru","Hikaru never thought the Haba High track
-and field team would lose. The world
-really is full of surprises.");
+    MsgDisp("Hikaru","Hikaru never thought the Haba High track and
+field team would lose.
+The world really is full of surprises.");
     ChEye(22,0);
     ChMouth(22,0);
     ChMotion(22,0,1);
@@ -50,11 +50,12 @@ support was perfect.");
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H2A2200001_22_050");
-    MsgDisp("Hikaru","Hikaru will give you and your team the
-grand prize! So, cheer up. Okay?");
-    MsgDisp("主人公","(｛ひかる＊｝...We might have lost,
-but I'm glad that I stayed as the track
-and field club manager!)");
+    MsgDisp("Hikaru","Hikaru will give you and your team the grand
+prize!
+So, cheer up. Okay?");
+    MsgDisp("主人公","(｛ひかる＊｝...
+We might have lost, but I'm glad that I
+stayed as the track and field club manager!)");
     break ;
     default :
     DbgAssert(1);

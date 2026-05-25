@@ -9,8 +9,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P640D00002_21_000");
 MsgDisp("Michiru","That's a nice red.
-I think it'll definitely have a good
-flavour.");
+I think it'll definitely have a good flavour.");
 MsgDisp("主人公","Really?");
 ChEye(22,3);
 ChMouth(22,3);

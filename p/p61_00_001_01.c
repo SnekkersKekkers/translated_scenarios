@@ -9,9 +9,8 @@ MsgDisp("主人公","Yes.
 Hello?");
 VoicePlay("P610000101_46_000");
 MsgDisp("Manager","I'm sorry for calling you on a day off.
-From next week, we will start the
-preparation period for the cultural
-festival.");
+From next week, we will start the preparation
+period for the cultural festival.");
 VoicePlay("P610000101_46_010");
 MsgDisp("Manager","The Gardening Club have decided to display
 and sell herbal tea and vegetables. Once
@@ -23,7 +22,7 @@ MsgDisp("Manager","Then, please get well soon.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(It's almost the cultural festival soon
-huh...I need to get better quickly to join
+huh... I need to get better quickly to join
 in the preparations!)");
 MsgClose();
 ScrFadeOut(0,0);

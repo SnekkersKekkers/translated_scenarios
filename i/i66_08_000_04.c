@@ -27,9 +27,8 @@ Now, the bill...");
     ChMouth(8,4);
     ChMotion(8,0,1);
     VoicePlay("I660800004_08_020");
-    MsgDisp("Shirahane","The windows were so clean, I almost stuck
-my head in the car thinkin' they were
-open.");
+    MsgDisp("Shirahane","The windows were so clean, I almost stuck my
+head in the car thinkin' they were open.");
     MsgDisp("主人公","Ahaha!");
     ChEye(8,3);
     ChMouth(8,0);
@@ -69,13 +68,13 @@ It's the usual one.
 What's up?");
     ChEye(8,3);
     VoicePlay("I660800004_08_070");
-    MsgDisp("Shirahane","It was shinin', or rather, it was so clean
-ya couldn't even see the glass.");
+    MsgDisp("Shirahane","It was shinin', or rather, it was so clean ya
+couldn't even see the glass.");
     ChEye(8,0);
     ChMouth(8,2);
     ChMotion(8,0,1);
-    MsgDisp("主人公","Well, it's difficult for our customers to
-see out the window if it's dirty.
+    MsgDisp("主人公","Well, it's difficult for our customers to see
+out the window if it's dirty.
 So we should clean it well, right?");
     ChEye(8,3);
     ChMouth(8,3);

@@ -24,9 +24,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("F020600005_06_020");
-MsgDisp("Himuro","Or the mindset of someone who waits until
-the last minute to do their summer
-homework. I don't get it.");
+MsgDisp("Himuro","Or the mindset of someone who waits until the
+last minute to do their summer homework.
+I don't get it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -34,8 +34,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("F020600005_06_030");
 MsgDisp("Himuro","I can barely hold myself back from getting
 things done ahead of time.");
-MsgDisp("主人公","Do you finish your tests ahead of time,
-too?");
+MsgDisp("主人公","Do you finish your tests ahead of time, too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -54,7 +53,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600005_06_060");
-MsgDisp("Himuro","But I guess I have trouble figuring out
-how far ahead I should go...");
-MsgDisp("主人公","(So even smart people deal with smart
-people problems, huh...)");
+MsgDisp("Himuro","But I guess I have trouble figuring out how
+far ahead I should go...");
+MsgDisp("主人公","(So even smart people deal with smart people
+problems, huh...)");

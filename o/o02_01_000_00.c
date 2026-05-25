@@ -33,8 +33,8 @@ I was trying my hardest.");
     ChMotion(1,3);
     VoicePlay("O020100000_01_020");
     MsgDisp("Kazama","I see, my bad.
-But you know, it was nice seeing you cling
-to the rope like a kitten.");
+But you know, it was nice seeing you cling to
+the rope like a kitten.");
     MsgDisp("主人公","(Geez.
 I just won, but it doesn't feel like he's
 praising me at all...)");
@@ -74,9 +74,9 @@ You must have gotten some rope burn.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("O020100000_01_060");
-    MsgDisp("Kazama","Hm, next is the folk dance...Maybe you
-should rest? You might get germs from
-holding hands with other guys.");
+    MsgDisp("Kazama","Hm, next is the folk dance...
+Maybe you should rest? You might get germs
+from holding hands with other guys.");
     MsgDisp("主人公","(I'm glad I won the tug of war!
 But I think I made ｛Kazama＊＊｝ worry.)");
     break ;

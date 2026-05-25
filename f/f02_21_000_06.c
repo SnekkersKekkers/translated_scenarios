@@ -33,8 +33,8 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F022100006_21_030");
-MsgDisp("Michiru","But, since I'm useless, I have to do my
-best to not hold everyone back.
+MsgDisp("Michiru","But, since I'm useless, I have to do my best
+to not hold everyone back.
 Haa...");
 MsgDisp("主人公","(｛みちる＊｝, I'm cheering you on.
 I have to give it my all too!)");

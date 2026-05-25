@@ -12,8 +12,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("主人公","Yes, we do.
 There's lots prepared.");
     VoicePlay("P830200001_44_000");
-    MsgDisp("Girl B","Be careful to not ru n out of other
-supplies.");
+    MsgDisp("Girl B","Be careful to not ru n out of other supplies.");
     MsgDisp("主人公","Ye—s.");
     MsgClose();
     SEPlay("EV_SE_DOOR_019");
@@ -35,9 +34,9 @@ anything, tell me okay?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P830200001_02_020");
-    MsgDisp("Sassa","I don't need anything, but when you reach
-a stopping point, should we go and look
-around the exhibits?");
+    MsgDisp("Sassa","I don't need anything, but when you reach a
+stopping point, should we go and look around
+the exhibits?");
     MsgDisp("主人公","Yeah, thanks!");
     ChEye(2,0);
     ChMouth(2,4);
@@ -54,8 +53,8 @@ Then, I'll see you later.");
     BGOpen("sc605",0);
     ScrFadeIn(0);
     VoicePlay("P830200001_48_010");
-    MsgDisp("Girl A","How is it, does it look like there's
-enough garbage bags?");
+    MsgDisp("Girl A","How is it, does it look like there's enough
+garbage bags?");
     MsgDisp("主人公","Yes, we do.
 There's lots prepared.");
     MsgClose();
@@ -81,9 +80,8 @@ You!");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P830200001_02_060");
-    MsgDisp("Sassa","I was thinking we could walk around
-together. Well, I guess we can't since you
-seem busy.");
+    MsgDisp("Sassa","I was thinking we could walk around together.
+Well, I guess we can't since you seem busy.");
     MsgDisp("主人公","Thank you.
 Yeah, now is a bit...");
     VoicePlay("P830200001_46_000");

@@ -30,11 +30,10 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("E010520000_05_020");
-MsgDisp("Hiiragi","Things like this become necessary
-sometimes due to the nature of my job.");
+MsgDisp("Hiiragi","Things like this become necessary sometimes
+due to the nature of my job.");
 MsgDisp("主人公","Um...
-｛Himuro＊＊｝ do you have yours custom made
-too?");
+｛Himuro＊＊｝ do you have yours custom made too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -53,15 +52,15 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("E010520000_06_020");
 MsgDisp("Himuro","Yanosuke-senpai is right.
-It's nice to have clothes that perfectly
-fit your body.");
+It's nice to have clothes that perfectly fit
+your body.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520000_05_040");
-MsgDisp("Hiiragi","Yes. It's not quite the same as following
-trends, but I feel more comfortable this
-way.");
+MsgDisp("Hiiragi","Yes.
+It's not quite the same as following trends,
+but I feel more comfortable this way.");
 MsgDisp("主人公","Yeah, I think I understand.");
 ChEye(5,0);
 ChEye(6,0);
@@ -79,8 +78,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("E010520000_06_040");
-MsgDisp("Himuro","Yanosuke-senpai, let's forget about
-earlier.");
+MsgDisp("Himuro","Yanosuke-senpai, let's forget about earlier.");
 ChClose(6);
 ChEye(5,0);
 ChMouth(5,4);
@@ -95,8 +93,8 @@ ChMotion(5,0,1);
 VoicePlay("E010520000_05_050");
 MsgDisp("Hiiragi","Right, earlier we talked about swapping
 clothes.");
-MsgDisp("主人公","(What if ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝
-swapped clothes?
+MsgDisp("主人公","(What if ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ swapped
+clothes?
 That sounds interesting.)");
 BGMStop();
 MsgClose();

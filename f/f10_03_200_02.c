@@ -1,9 +1,9 @@
 BGOpen("sc510",0);
 ScrFadeIn(0);
 VoicePlay("F100320002_03_000");
-MsgDisp("Honda?","I realized once again how amazing Sakkun
-is. The training for the octathlon is a
-battle with a dilemma.");
+MsgDisp("Honda?","I realized once again how amazing Sakkun is.
+The training for the octathlon is a battle
+with a dilemma.");
 VoicePlay("F100320002_02_000");
 MsgDisp("Sassa?","Yeah, that's right.
 It's difficult because it's not just about
@@ -27,8 +27,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("F100320002_02_010");
-MsgDisp("Sassa","Haha, I wasn't really in any kind of
-trouble.");
+MsgDisp("Sassa","Haha, I wasn't really in any kind of trouble.");
 ChEye(3,0);
 ChMouth(3,4);
 MsgDisp("主人公","Ah...so that's it.
@@ -37,23 +36,22 @@ ChEye(3,1);
 ChMotion(3,2,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("F100320002_03_020");
-MsgDisp("Honda","It's okay, even if I'm not causing
-trouble, I'm not really helping in the end
-either.");
+MsgDisp("Honda","It's okay, even if I'm not causing trouble,
+I'm not really helping in the end either.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("F100320002_03_030");
 MsgDisp("Honda","Sakkun's octathlon has its merits and
-demerits even with the same training, so
-it is difficult to benefit all sports.");
+demerits even with the same training, so it
+is difficult to benefit all sports.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("F100320002_03_040");
 MsgDisp("Honda","If you raise one, another suffers.
-Managing and adjusting all that is more
-like risk management than a sport.");
+Managing and adjusting all that is more like
+risk management than a sport.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -75,8 +73,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100320002_02_040");
-MsgDisp("Sassa","Since you understand that much, I would
-like some Iku-like advice.");
+MsgDisp("Sassa","Since you understand that much, I would like
+some Iku-like advice.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -99,11 +97,11 @@ ChMotion(3,4,1);
 ChPosition(3,0);
 SEWait();
 VoicePlay("F100320002_03_060");
-MsgDisp("Honda","The fact remains that the shortcut is to
-lose even a little bit of weight without
-changing muscle mass, right?");
-MsgDisp("主人公","(...Looks like ｛Honda＊＊｝'s haircut
-training menu is still kicking...)");
+MsgDisp("Honda","The fact remains that the shortcut is to lose
+even a little bit of weight without changing
+muscle mass, right?");
+MsgDisp("主人公","(...Looks like ｛Honda＊＊｝'s haircut training
+menu is still kicking...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

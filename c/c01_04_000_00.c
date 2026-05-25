@@ -24,8 +24,7 @@ VoicePlay("C010400000_04_030");
 MsgDisp("Nanatsumori","I mean, I'm the one who should be sorry.
 I should've just talked to you directly.
 My bad.");
-MsgDisp("主人公","Yeah, I should have contacted you
-sooner...");
+MsgDisp("主人公","Yeah, I should have contacted you sooner...");
 VoicePlay("C010400000_04_040");
 MsgDisp("Nanatsumori","You're fine.
 I'm glad we could make up.

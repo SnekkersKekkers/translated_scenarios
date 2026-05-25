@@ -66,17 +66,17 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020310304_03_090");
-MsgDisp("Honda","Yeah, for your next birthday! I've already
-started thinking about it. It'll be even
-more surprising than the last one—");
+MsgDisp("Honda","Yeah, for your next birthday!
+I've already started thinking about it. It'll
+be even more surprising than the last one—");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020310304_03_100");
 MsgDisp("Honda","...but if I tell you now, it'd ruin the
 surprise, right?");
-MsgDisp("主人公","(｛Honda＊＊｝, you've been thinking about
-me like this...)");
+MsgDisp("主人公","(｛Honda＊＊｝, you've been thinking about me
+like this...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

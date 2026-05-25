@@ -43,8 +43,8 @@ You're not gonna∋");
     ChOpen(8,255,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("S090800000_08_030");
-    MsgDisp("Shirahane","Look there, that crowd of people is
-probably where they're doin' fortunes.");
+    MsgDisp("Shirahane","Look there, that crowd of people is probably
+where they're doin' fortunes.");
     MsgDisp("主人公","Fortunes, huh...");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
@@ -63,8 +63,9 @@ regardless of what the result is.");
         ChMouth(8,0);
         ChMotion(8,2,1);
         VoicePlay("S090800000_08_050");
-        MsgDisp("Shirahane","I see...Well we'd be wasting time waitin'
-in the line, I guess. Let's go.");
+        MsgDisp("Shirahane","I see...
+Well we'd be wasting time waitin' in the
+line, I guess. Let's go.");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -102,8 +103,8 @@ Aren't you pretty excited for this?");
         ChMotion(8,3,1);
         VoicePlay("S090800000_08_090");
         MsgDisp("Shirahane","Of course I am. It's the start of the New
-Year and I'm here with you. That means I
-can't get a bad result!");
+Year and I'm here with you.
+That means I can't get a bad result!");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("S090800000_08_100");
@@ -127,8 +128,8 @@ I was thinkin' hard about it.");
         VoicePlay("S090800000_08_130");
         MsgDisp("Shirahane","Alright!
 Onto the next!");
-        MsgDisp("主人公","(I wonder why he was so worried about
-drawing fortunes?)");
+        MsgDisp("主人公","(I wonder why he was so worried about drawing
+fortunes?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

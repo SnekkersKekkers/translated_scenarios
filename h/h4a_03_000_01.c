@@ -24,15 +24,15 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("H4A0300001_03_020");
-MsgDisp("Honda","Were you holding back this time? Did you
-forget to do something you were supposed
-to? You didn't, right?");
+MsgDisp("Honda","Were you holding back this time?
+Did you forget to do something you were
+supposed to? You didn't, right?");
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("H4A0300001_03_030");
-MsgDisp("Honda","Maybe you weren't satisfied with the
-results this time. But I got to see you do
-your best performance so far.");
+MsgDisp("Honda","Maybe you weren't satisfied with the results
+this time. But I got to see you do your best
+performance so far.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -43,12 +43,12 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("H4A0300001_03_050");
-MsgDisp("Honda","I know just how hard you've worked these
-past three years. I was watching over you,
-you know? Really, good work.");
+MsgDisp("Honda","I know just how hard you've worked these past
+three years. I was watching over you, you
+know? Really, good work.");
 MsgDisp("主人公","(｛Honda＊＊｝ is so nice.
-I lost, but I'm glad I stayed in the
-rhythmic gymnastics club.)");
+I lost, but I'm glad I stayed in the rhythmic
+gymnastics club.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

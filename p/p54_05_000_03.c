@@ -26,8 +26,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P540500003_05_020");
-MsgDisp("Hiiragi","Now it's a question of what you guys want
-to do.");
+MsgDisp("Hiiragi","Now it's a question of what you guys want to
+do.");
 MsgDisp("主人公","(This is a result of playing hooky...
 I just have to accept it properly.)");
 MsgClose();

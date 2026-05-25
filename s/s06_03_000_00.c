@@ -43,8 +43,8 @@ I'm ready to go.");
     ChMotion(3,4,1);
     VoicePlay("S060300000_03_030");
     MsgDisp("Honda","Hehe.
-You're the first person I've seen this
-year apart from my family.");
+You're the first person I've seen this year
+apart from my family.");
     MsgDisp("主人公","Oh, I think it's the same for me.");
     ChEye(3,3);
     ChMouth(3,3);

@@ -71,8 +71,9 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100140001_01_040");
-MsgDisp("Kazama","...good grief. He put the oni mask on and
-chased me around. It was pretty scary.");
+MsgDisp("Kazama","...good grief.
+He put the oni mask on and chased me around.
+It was pretty scary.");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,0);
@@ -80,8 +81,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("F100140001_01_050");
 MsgDisp("Kazama","I remember it like it was yesterday.");
 MsgDisp("主人公","(Hehe.
-I bet the two of them playing tag was
-really cute.)");
+I bet the two of them playing tag was really
+cute.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -22,8 +22,8 @@ slack off.");
     ChMouth(2,3);
     ChMotion(2,0);
     VoicePlay("O040201000_02_020");
-    MsgDisp("Sassa","Alright, I'm gonna put every single ball
-into the basket!");
+    MsgDisp("Sassa","Alright, I'm gonna put every single ball into
+the basket!");
     break ;
     case 3:
     MsgDisp("主人公","Hm, my team is...");
@@ -39,8 +39,7 @@ Let's do this!");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("O040201000_02_040");
-    MsgDisp("Sassa","Alright, we're definitely winning this
-match!
+    MsgDisp("Sassa","Alright, we're definitely winning this match!
 Let's both do our best!");
     MsgDisp("主人公","Yeah!");
     ChEye(2,0);
@@ -66,8 +65,8 @@ Yeah!");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("O040201000_02_070");
-    MsgDisp("Sassa","If I'm with you, I don't feel like losing
-at all.");
+    MsgDisp("Sassa","If I'm with you, I don't feel like losing at
+all.");
     MsgDisp("主人公","Even if you weren't with me, wouldn't you
 still win, ｛Sassa＊＊｝?");
     ChEye(2,0);
@@ -80,8 +79,8 @@ feeling is even stronger.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("O040201000_02_090");
-    MsgDisp("Sassa","Ball tosses and relays are the same when
-it comes to winning.
+    MsgDisp("Sassa","Ball tosses and relays are the same when it
+comes to winning.
 Let's aim for victory together!");
     MsgDisp("主人公","Yeah!");
     break ;

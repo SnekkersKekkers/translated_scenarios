@@ -2,8 +2,8 @@ BGMStop();
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year I'm in charge of patrolling
-each exhibit.
+MsgDisp("主人公","(This year I'm in charge of patrolling each
+exhibit.
 I have to check carefully...!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

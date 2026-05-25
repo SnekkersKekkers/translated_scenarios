@@ -17,8 +17,8 @@ switch (ChPrmGet(1,6)){
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("S090100001_01_000");
-        MsgDisp("Kazama","You've still got the spirit to make the
-best out of everything.");
+        MsgDisp("Kazama","You've still got the spirit to make the best
+out of everything.");
         MsgDisp("主人公","Yep!
 Let's have fun!");
         ChEye(1,0);
@@ -130,8 +130,8 @@ Don't get depressed if it's bad, okay?");
         MsgDisp("Kazama","Is that okay?
 Are you kidding?");
         MsgDisp("主人公","It's fine.
-I thought it would be better to walk
-around the shrine slowly.");
+I thought it would be better to walk around
+the shrine slowly.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,3);
@@ -144,9 +144,9 @@ Hold my hand so we don't get separated.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("S090100002_01_050");
-        MsgDisp("Kazama","Maybe you'll change your mind after one
-lap around. Don't regret it. We can look
-for another chance to draw fortunes.");
+        MsgDisp("Kazama","Maybe you'll change your mind after one lap
+around. Don't regret it. We can look for
+another chance to draw fortunes.");
         MsgDisp("主人公","(｛Kazama＊＊｝ is so kind.)");
         MsgClose();
         ScrFadeOut(0,0);

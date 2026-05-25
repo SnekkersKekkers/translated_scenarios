@@ -9,6 +9,6 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("W040300000_03_010");
-MsgDisp("Honda","Isn't this group of people hanging out
-kind of new?
+MsgDisp("Honda","Isn't this group of people hanging out kind
+of new?
 I'm looking forward to this.");

@@ -80,9 +80,9 @@ MsgClose();
 SEPlay("EV_SE_856");
 ChClose(21,0,30);
 ChClose(22,0,30);
-MsgDisp("主人公","(Graduation...huh? Okay, there's only a
-little bit of high school life left. Let's
-have fun!)");
+MsgDisp("主人公","(Graduation...huh?
+Okay, there's only a little bit of high
+school life left. Let's have fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

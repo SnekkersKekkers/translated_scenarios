@@ -57,14 +57,15 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010730100_07_030");
-MsgDisp("Mikage","You worked hard at your part-time job to
-buy it, right?");
+MsgDisp("Mikage","You worked hard at your part-time job to buy
+it, right?");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("E010730100_03_040");
-MsgDisp("Honda","Ah—I feel like looking through it right
-now. I'm going home now! See you!");
+MsgDisp("Honda","Ah—I feel like looking through it right now.
+I'm going home now!
+See you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
@@ -73,9 +74,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("E010730100_07_040");
-MsgDisp("Mikage","That's Honda's talent. He gets so into
-his interests he forgets to eat or sleep.
-He'd make a great researcher.");
+MsgDisp("Mikage","That's Honda's talent.
+He gets so into his interests he forgets to
+eat or sleep. He'd make a great researcher.");
 MsgDisp("主人公","Hehe.");
 ChEye(7,0);
 ChMouth(7,3);

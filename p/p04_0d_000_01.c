@@ -29,8 +29,8 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("P040D00001_21_010");
-MsgDisp("Michiru","I think it'd be better to taste the tea
-once before serving it to customers.
+MsgDisp("Michiru","I think it'd be better to taste the tea once
+before serving it to customers.
 ...Okay?");
 MsgDisp("主人公","(Ugh...
 I messed up.

@@ -17,10 +17,9 @@ You almost had it.");
     ChMotion(2,0);
     VoicePlay("O020200001_02_010");
     MsgDisp("Sassa","It's fine.
-Rather than laughing it off after losing,
-I like this attitude way more.");
-    MsgDisp("主人公","(｛Sassa＊＊｝, is he trying to console
-me...?
+Rather than laughing it off after losing, I
+like this attitude way more.");
+    MsgDisp("主人公","(｛Sassa＊＊｝, is he trying to console me...?
 Haa, how frustrating.)");
     break ;
     case 3:
@@ -40,20 +39,20 @@ My voice is hoarse now, too.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("O020200001_02_040");
-    MsgDisp("Sassa","But you know, when you go all out, it's
-fun even if you lose.");
+    MsgDisp("Sassa","But you know, when you go all out, it's fun
+even if you lose.");
     MsgDisp("主人公","I guess so.
 But I still wanted to win.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("O020200001_02_050");
-    MsgDisp("Sassa","That's good. With that determination,
-victory is sure to come. Let's do our best
-until the end.");
-    MsgDisp("主人公","(Haa...How frustrating. But, like
-｛Sassa＊＊｝ said, let's do our best until
-the end of the sports festival.)");
+    MsgDisp("Sassa","That's good.
+With that determination, victory is sure to
+come. Let's do our best until the end.");
+    MsgDisp("主人公","(Haa... How frustrating.
+But, like ｛Sassa＊＊｝ said, let's do our best
+until the end of the sports festival.)");
     break ;
     case 4:
     case 5:
@@ -96,8 +95,8 @@ Let's do our best for the rest of them.");
     MsgDisp("主人公","Yeah.
 You're right.");
     MsgDisp("主人公","(｛Sassa＊＊｝, thank you.
-Yeah, let's enjoy the sports festival
-until the end!)");
+Yeah, let's enjoy the sports festival until
+the end!)");
     break ;
     default :
     DbgAssert(1);

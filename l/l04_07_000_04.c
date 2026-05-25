@@ -46,8 +46,8 @@ I'll accept gratefully.");
     ChMotion(7,3);
     VoicePlay("L040700004_07_050");
     MsgDisp("Mikage","Haha. When I look closely, I can see your
-personality in this chocolate. It's
-lovely. Thanks.");
+personality in this chocolate.
+It's lovely. Thanks.");
     MsgDisp("主人公","(He seemed happy.
 Thank goodness!)");
     MsgClose();
@@ -69,8 +69,8 @@ Thank goodness!)");
     ChMotion(7,3);
     VoicePlay("L040700004_07_070");
     MsgDisp("Mikage","Your hard work is really showing through.");
-    MsgDisp("主人公","There are some parts that I couldn't do
-very well...");
+    MsgDisp("主人公","There are some parts that I couldn't do very
+well...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);

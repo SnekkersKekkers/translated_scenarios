@@ -19,8 +19,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100005_01_010");
-MsgDisp("Kazama","It's fine if you have your own standards,
-you know.");
+MsgDisp("Kazama","It's fine if you have your own standards, you
+know.");
 MsgDisp("主人公","｛Kazama＊＊｝ has a part-time job at the
 store, lives alone, and does his own
 housework. It's amazing.");
@@ -42,15 +42,16 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("F020100005_01_040");
-MsgDisp("Kazama","Is it that surprising? ...really.");
+MsgDisp("Kazama","Is it that surprising?
+...really.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100005_01_050");
-MsgDisp("Kazama","I've always dreamt of being in the same
-class as you and getting the same work as
-you. What's wrong with that?");
+MsgDisp("Kazama","I've always dreamt of being in the same class
+as you and getting the same work as you.
+What's wrong with that?");
 MsgDisp("主人公","I see...so it makes you happy?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -58,6 +59,5 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("F020100005_01_060");
 MsgDisp("Kazama","Yeah, yeah.");
-MsgDisp("主人公","(...But I think there's a difference
-between studying for class and studying
-for exams...)");
+MsgDisp("主人公","(...But I think there's a difference between
+studying for class and studying for exams...)");

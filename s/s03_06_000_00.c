@@ -11,8 +11,8 @@ Happy New Year!");
     VoicePlay("S030600000_06_010");
     MsgDisp("Himuro","This is a surprise...
 Well then, what can I do for you?");
-    MsgDisp("主人公","Uhmm, would you like to visit the shrine
-with me?");
+    MsgDisp("主人公","Uhmm, would you like to visit the shrine with
+me?");
     break ;
     case 3:
     VoicePlay("S030600000_06_020");
@@ -24,8 +24,8 @@ Happy New Year!");
 considerate of you.
 ...So, what's up?");
     MsgDisp("主人公","You see...
-I was wondering if we could visit the
-shrine together.");
+I was wondering if we could visit the shrine
+together.");
     break ;
     case 4:
     case 5:

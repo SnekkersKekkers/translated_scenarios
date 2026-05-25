@@ -11,13 +11,13 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020510303_05_010");
 MsgDisp("Hiiragi","Ah, please excuse me.
-It's just that the firefly flying around
-you won't seem to leave you alone...");
+It's just that the firefly flying around you
+won't seem to leave you alone...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020510303_05_020");
-MsgDisp("Hiiragi","It made me think of the guy who was
-pestering you today.");
+MsgDisp("Hiiragi","It made me think of the guy who was pestering
+you today.");
 MsgDisp("主人公","Ah...but, it's not the firefly's fault?");
 ChEye(5,4);
 ChMotion(5,4);

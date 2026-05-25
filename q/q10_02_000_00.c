@@ -19,8 +19,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q100200000_02_020");
-MsgDisp("Sassa","It would be amazing if it was all planned
-by the people who built it.");
+MsgDisp("Sassa","It would be amazing if it was all planned by
+the people who built it.");
 MsgDisp("主人公","Hmm, I wonder?
 But the water used to be clean, so the
 glasses were seen more clearly.");
@@ -45,9 +45,9 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("Q100200000_02_050");
 MsgDisp("Sassa","...What's the heart stone?");
-MsgDisp("主人公","There's a heart-shaped stone on the
-seawall. It's said that if you touch it,
-your love wish will come true.");
+MsgDisp("主人公","There's a heart-shaped stone on the seawall.
+It's said that if you touch it, your love
+wish will come true.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);

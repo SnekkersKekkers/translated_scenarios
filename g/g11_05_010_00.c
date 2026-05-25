@@ -6,9 +6,9 @@ MsgDisp("School Boy","Hiiragi, don't leave your slip here.");
 VoicePlay("G110501000_05_000");
 MsgDisp("Hiiragi","Okay.
 I'll put it into the management book.");
-MsgDisp("主人公","(The chairman of the Habataki Theater
-Company is working in the student council
-room...It's a bit strange, isn't it.)");
+MsgDisp("主人公","(The chairman of the Habataki Theater Company
+is working in the student council room...
+It's a bit strange, isn't it.)");
 MsgClose();
 ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
@@ -30,8 +30,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 MsgDisp("主人公","(Hmm...
-Were ｛Hiiragi＊＊＊｝'s eyes always such a
-pretty colour...?)");
+Were ｛Hiiragi＊＊＊｝'s eyes always such a pretty
+colour...?)");
 while (1){
     RunEverydaySksp(5,0,1,1,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -75,9 +75,8 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110501000_05_060");
-MsgDisp("Hiiragi","The other day we went to see Habataki
-Theater Company's performance together,
-right?");
+MsgDisp("Hiiragi","The other day we went to see Habataki Theater
+Company's performance together, right?");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,2);
@@ -85,8 +84,8 @@ VoicePlay("G110501000_05_070");
 MsgDisp("Hiiragi","Since then, you look at me strangely from
 time-to-time.");
 MsgDisp("主人公","O-Oh, yeah.
-It just made me realize again that you're
-the leader...");
+It just made me realize again that you're the
+leader...");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);

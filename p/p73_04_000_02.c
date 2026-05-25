@@ -8,9 +8,9 @@ switch (ChPrmGet(4,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing traditional
-wedding dresses. I think I was able to
-make it pretty but...)");
+    MsgDisp("主人公","(This year we're showing traditional wedding
+dresses.
+I think I was able to make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -54,9 +54,9 @@ life, let's do it properly!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing traditional
-wedding dresses. I think I was able to
-make it pretty but...)");
+    MsgDisp("主人公","(This year we're showing traditional wedding
+dresses.
+I think I was able to make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -65,7 +65,8 @@ make it pretty but...)");
     ChOpen(4,254,0,3,3,#1,#1,5,0,0,60);
     VoicePlay("P730400002_04_050");
     MsgDisp("Nanatsumori","......");
-    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝. ...what's wrong?");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
+...what's wrong?");
     ChMouthOpenLevel(4,#1);
     VoicePlay("P730400002_04_060");
     MsgDisp("Nanatsumori","You're beautiful.");
@@ -79,9 +80,8 @@ I'm a little embarrassed.");
     ChMotion(4,1,1);
     ChMouthOpenLevel(4,#1);
     VoicePlay("P730400002_04_080");
-    MsgDisp("Nanatsumori","I wonder who will be able to stand
-alongside you when you look like that in
-the future.");
+    MsgDisp("Nanatsumori","I wonder who will be able to stand alongside
+you when you look like that in the future.");
     MsgDisp("主人公","Hehe.");
     ChEye(4,0);
     ChMouth(4,0);
@@ -99,8 +99,8 @@ the future.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P730400002_04_110");
-    MsgDisp("Nanatsumori","It feels strange sending you off, but...
-do your best.");
+    MsgDisp("Nanatsumori","It feels strange sending you off, but... do
+your best.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Al—right!
 Let's do the last runway of my high school

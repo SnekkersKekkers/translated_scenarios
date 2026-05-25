@@ -20,16 +20,16 @@ ChEye(5,2);
 ChMouth(5,0);
 ChMotion(5,2);
 VoicePlay("P240500000_05_000");
-MsgDisp("Hiiragi","Tonight is the last time I will meet you
-like this.");
+MsgDisp("Hiiragi","Tonight is the last time I will meet you like
+this.");
 MsgDisp("主人公","...Why is that?");
 ChEye(5,2);
 ChMouth(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240500000_05_010");
-MsgDisp("Hiiragi","There are many in the castle who do not
-think favourably of me.");
+MsgDisp("Hiiragi","There are many in the castle who do not think
+favourably of me.");
 MsgDisp("主人公","But you...
 Aren't you the castle lord?");
 ChEye(5,1);
@@ -81,8 +81,7 @@ StlEye(5,0);
 StlMouth(5,0);
 ScrFadeIn(0);
 VoicePlay("P240500000_05_070");
-MsgDisp("Hiiragi","Now, there are horses and attendants
-ahead.");
+MsgDisp("Hiiragi","Now, there are horses and attendants ahead.");
 MsgDisp("主人公","My lord...");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("P240500000_05_080");
@@ -91,8 +90,8 @@ MsgDisp("主人公","This...?");
 StlEyeOpenLevel(5,#1);
 StlMouth(5,1);
 VoicePlay("P240500000_05_090");
-MsgDisp("Hiiragi","It is a sword that has been with me since
-my infancy.
+MsgDisp("Hiiragi","It is a sword that has been with me since my
+infancy.
 It is a part of myself.");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("P240500000_05_100");
@@ -135,8 +134,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("P240500000_05_120");
-MsgDisp("Hiiragi","I was unaware of it when I wrote this
-script.");
+MsgDisp("Hiiragi","I was unaware of it when I wrote this script.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

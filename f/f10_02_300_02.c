@@ -1,15 +1,15 @@
 BGOpen("sc310",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝
-and... ｛Sassa＊＊｝?)");
+MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝ and...
+｛Sassa＊＊｝?)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,0,0,4,#1,#1,0,0,0,30);
 ChOpen(22,254,0,0,3,#1,#1,0,1,0,30);
 ChOpen(21,254,0,0,4,#1,#1,0,2,0,30);
-MsgDisp("主人公","Ah, you three are together, so I'm
-guessing you're talking about gap moe?");
+MsgDisp("主人公","Ah, you three are together, so I'm guessing
+you're talking about gap moe?");
 ChMotion(22,4,1);
 VoicePlay("F100230002_22_000");
 MsgDisp("Hikaru","Right.
@@ -23,7 +23,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("F100230002_02_000");
-MsgDisp("Sassa","Oh? So even Michiru-san has a side that's
+MsgDisp("Sassa","Oh?
+So even Michiru-san has a side that's
 different from how she looks? What is it?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -33,9 +34,9 @@ ChMouth(22,2);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100230002_22_010");
-MsgDisp("Hikaru","Hmmm...It's hard to say.
-Hikaru is around big sis a lot, so everything
-she does seems natural...");
+MsgDisp("Hikaru","Hmmm...
+It's hard to say. Hikaru is around big sis a
+lot, so everything she does seems natural...");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
@@ -64,8 +65,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100230002_02_010");
-MsgDisp("Sassa","But, even if Michiru-san likes shoujo
-manga, it's not that much of a gap.");
+MsgDisp("Sassa","But, even if Michiru-san likes shoujo manga,
+it's not that much of a gap.");
 MsgDisp("主人公","Yeah.
 Both ｛みちる＊｝ and ｛ひかる＊｝
 look like they would like girly things.");

@@ -32,27 +32,28 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600100_06_020");
 MsgDisp("Himuro","Well, it's fine.
-I was the one who decided to partner up
-with you.");
+I was the one who decided to partner up with
+you.");
 MsgDisp("主人公","You're not angry?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600100_06_030");
-MsgDisp("Himuro","I'm not that childish. ...but.");
+MsgDisp("Himuro","I'm not that childish.
+...but.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600100_06_040");
 MsgDisp("Himuro","I did doubt my physical ability for a bit.
-Maybe I wasn't that good at
-exercise...that's what I thought.");
+Maybe I wasn't that good at exercise...that's
+what I thought.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600100_06_050");
-MsgDisp("Himuro","So when I was able to surf as normal
-today, I was relieved.");
+MsgDisp("Himuro","So when I was able to surf as normal today, I
+was relieved.");
 MsgDisp("主人公","I guess it's my fault after all.");
 ChEye(6,0);
 ChMouth(6,0);

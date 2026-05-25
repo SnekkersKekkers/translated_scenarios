@@ -19,8 +19,8 @@ ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("P553200002_32_020");
 MsgDisp("VP Himuro","I can only hope that everything you learn
-here in brass band will be useful to you
-in your future.");
+here in brass band will be useful to you in
+your future.");
 MsgDisp("主人公","Yes!
 Thank you for everything.");
 MsgClose();

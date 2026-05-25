@@ -19,8 +19,8 @@ when you see it up close!");
     MsgClose();
     ChOpen(3,255,4,0,0,#1,#1,0,0);
     VoicePlay("W090300001_03_020");
-    MsgDisp("Honda","If you look at it this way, there are
-couples that go on ferris wheels, right?");
+    MsgDisp("Honda","If you look at it this way, there are couples
+that go on ferris wheels, right?");
     MsgDisp("主人公","Yeah, I guess?");
     ChEye(3,0);
     ChMouth(3,4);

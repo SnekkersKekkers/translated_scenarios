@@ -30,8 +30,7 @@ Happy New Years.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(I can't believe I'm already a third
-year...
+    MsgDisp("主人公","(I can't believe I'm already a third year...
 Alright, let's do our best!)");
     BGMStop();
     MsgClose();
@@ -59,8 +58,8 @@ family on New Years.");
     ChMotion(7,3);
     VoicePlay("S120700002_07_040");
     MsgDisp("Mikage","Come, I'll walk you home.
-We can talk about our New Year's
-resolutions on the way there.");
+We can talk about our New Year's resolutions
+on the way there.");
     MsgDisp("主人公","Hehe, okay.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
@@ -84,9 +83,9 @@ year.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("S120700002_07_060");
-    MsgDisp("Mikage","Right. This year makes it your third year.
-We have to make it a good one, no matter
-what.");
+    MsgDisp("Mikage","Right.
+This year makes it your third year. We have
+to make it a good one, no matter what.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -110,9 +109,9 @@ It's already been so long.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("S120700002_07_100");
-    MsgDisp("Mikage","Haha, why are you going slow like a cow
-even though this year is the year of the
-rabbit? Come, let me take you home.");
+    MsgDisp("Mikage","Haha, why are you going slow like a cow even
+though this year is the year of the rabbit?
+Come, let me take you home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
     MsgClose();

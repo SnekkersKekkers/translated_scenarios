@@ -7,9 +7,9 @@ MsgDisp("Nanatsumori","Hmm...");
 MsgDisp("主人公","What's wrong?
 Worried about something?");
 VoicePlay("G020410100_04_010");
-MsgDisp("Nanatsumori","Worried...I guess.
-Maybe it's something I should be worried
-about.");
+MsgDisp("Nanatsumori","Worried...
+I guess. Maybe it's something I should be
+worried about.");
 MsgDisp("主人公","Can I ask what it's about?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -20,8 +20,8 @@ Yeah, it's a question for you.");
 MsgDisp("主人公","Okay.");
 ChMotion(4,1,1);
 VoicePlay("G020410100_04_030");
-MsgDisp("Nanatsumori","How does it feel to have something
-everyone likes all to yourself?");
+MsgDisp("Nanatsumori","How does it feel to have something everyone
+likes all to yourself?");
 MsgDisp("主人公","Let's see...
 I guess it depends?");
 ChEye(4,0);
@@ -50,8 +50,9 @@ ChMotion(4,0,1);
 VoicePlay("G020410100_04_070");
 MsgDisp("Nanatsumori","So I'm very happy right now.
 Okay?");
-MsgDisp("主人公","(...Right now? What are you keeping all to
-yourself? Me??)");
+MsgDisp("主人公","(...Right now?
+What are you keeping all to yourself?
+Me??)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

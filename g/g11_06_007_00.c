@@ -4,14 +4,13 @@ ScrFadeIn(0);
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
-Are you headed to the beach after this,
-today too?");
+Are you headed to the beach after this, today
+too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600700_06_000");
-MsgDisp("Himuro","No, today I'm going to the game
-centre——");
+MsgDisp("Himuro","No, today I'm going to the game centre——");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
@@ -43,8 +42,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600700_06_030");
 MsgDisp("Himuro","Well, yeah.
-I was wondering if I should practice a
-bit.");
+I was wondering if I should practice a bit.");
 MsgDisp("主人公","Practice?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -59,8 +57,7 @@ ChMotion(6,2);
 VoicePlay("G110600700_06_050");
 MsgDisp("Himuro","Because I was frustrated the last time we
 went together.");
-MsgDisp("主人公","(｛Himuro＊＊｝, was disappointed over
-that...)");
+MsgDisp("主人公","(｛Himuro＊＊｝, was disappointed over that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

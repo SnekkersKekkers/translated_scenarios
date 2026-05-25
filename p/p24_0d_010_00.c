@@ -3,7 +3,7 @@ BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P240D01000_47_000");
-MsgDisp("Opponent","I detest it...I detest those happy
+MsgDisp("Opponent","I detest it... I detest those happy
 couples～! I'll interrupt their dates, and
 ruin their love lives∈");
 VoicePlay("P240D01000_44_000");
@@ -37,15 +37,15 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P240D01000_21_000");
 MsgDisp("Michiru","Hehe.
-But it's our makeup that makes the stage
-so exciting, right?");
+But it's our makeup that makes the stage so
+exciting, right?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P240D01000_22_010");
-MsgDisp("Hikaru","Is that right? But when we think of the
-three warriors, Hikaru and you guys would
-have been perfect.");
+MsgDisp("Hikaru","Is that right?
+But when we think of the three warriors,
+Hikaru and you guys would have been perfect.");
 MsgDisp("主人公","Hehe!");
 ChEye(22,0);
 ChMouth(22,3);
@@ -59,14 +59,15 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P240D01000_21_010");
 MsgDisp("Michiru","Then, I would've been pink angel.
-Love...Guardian. Hehe, sounds good.");
+Love...Guardian.
+Hehe, sounds good.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P240D01000_22_030");
 MsgDisp("Hikaru","You know, even if we don't go on stage,
-Hikaru and the others are always Cupids
-for love. But only for Mari♪");
+Hikaru and the others are always Cupids for
+love. But only for Mari♪");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -76,8 +77,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P240D01000_21_030");
-MsgDisp("Michiru","But I'll continue to look after Mari's
-love, okay?");
+MsgDisp("Michiru","But I'll continue to look after Mari's love,
+okay?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);

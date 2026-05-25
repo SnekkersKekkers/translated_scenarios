@@ -9,8 +9,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020740000_07_010");
 MsgDisp("Mikage","Ah, this isn't about your career path.
-I'm asking about something a little
-further down the line.");
+I'm asking about something a little further
+down the line.");
 MsgDisp("主人公","Uum...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -45,8 +45,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020740000_07_060");
 MsgDisp("Mikage","How about it?
-If you haven't decided on your dream,
-we're looking for employees?");
+If you haven't decided on your dream, we're
+looking for employees?");
 MsgDisp("主人公","Ehh∋
 Me?");
 ChEye(7,0);
@@ -54,9 +54,8 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("G020740000_07_070");
 MsgDisp("Mikage","Next time I ask about your dream, and you
-can't clearly give me an answer, then I
-guess you've decided to become our
-employee.");
+can't clearly give me an answer, then I guess
+you've decided to become our employee.");
 MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝'s farm, huh...
 It might be wonderful.)");
 BGMStop();

@@ -23,9 +23,9 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("G110200702_02_010");
-MsgDisp("Sassa","Really. We don't get to practice javelin
-throwing in the school courtyard often.
-I'm happy.");
+MsgDisp("Sassa","Really.
+We don't get to practice javelin throwing in
+the school courtyard often. I'm happy.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
 MsgClose();
@@ -43,8 +43,7 @@ SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200702_02_020");
-MsgDisp("Sassa","｛主人公｝, let's run together to cool
-down.");
+MsgDisp("Sassa","｛主人公｝, let's run together to cool down.");
 MsgDisp("主人公","Yes.
 How was it?
 Did you have a good practice?");
@@ -54,8 +53,7 @@ ChMotion(2,0);
 VoicePlay("G110200702_02_030");
 MsgDisp("Sassa","Of course.
 Don't I look satisfied?");
-MsgDisp("主人公","(There was a lot of throwing practice
-today.
+MsgDisp("主人公","(There was a lot of throwing practice today.
 I wonder if his right arm is okay...?)");
 while (1){
     RunEverydaySksp(2,0,0,0,0,1);
@@ -78,9 +76,9 @@ VoicePlay("G110200702_02_060");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
-MsgDisp("Sassa","I usually do a lot of cross step and
-run-up training, so I got excited and
-threw too much.");
+MsgDisp("Sassa","I usually do a lot of cross step and run-up
+training, so I got excited and threw too
+much.");
 MsgDisp("主人公","Will it be alright?");
 VoicePlay("G110200702_02_070");
 ChEye(2,1);
@@ -99,8 +97,8 @@ SEStop("EV_SE_FOOT_037",2);
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I'm glad...it looks like they were able
-to train more carefree than usual.
+MsgDisp("主人公","(I'm glad...it looks like they were able to
+train more carefree than usual.
 I'm grateful to Mikage-sensei!)");
 MsgClose();
 ScrFadeOut(0,0);

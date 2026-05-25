@@ -9,8 +9,7 @@ MsgDisp("主人公","Phew...
 Then, please take care.");
 VoicePlay("P840700004_41_020");
 MsgDisp("School Boy","I'm sorry tp have caused you trouble—.");
-MsgDisp("主人公","(I'm glad it ended without any
-problems...)");
+MsgDisp("主人公","(I'm glad it ended without any problems...)");
 VoiceEVSPlay(7);
 VoicePlay("P840700004_07_000");
 MsgDisp("Mikage?","｛主人公｝, that was excellent.");
@@ -28,8 +27,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P840700004_07_020");
-MsgDisp("Mikage","With that, it feels like the case is
-closed, doesn't it?");
+MsgDisp("Mikage","With that, it feels like the case is closed,
+doesn't it?");
 MsgDisp("主人公","Hehe, that's right.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -38,9 +37,9 @@ VoicePlay("P840700004_07_030");
 MsgDisp("Mikage","The way your confidence is born from your
 tenacity is what made this happen.
 I can't help but feel proud.");
-MsgDisp("主人公","(Hehe, I was praised! This is the results
-of seriously giving it my best in the
-student council for three years.)");
+MsgDisp("主人公","(Hehe, I was praised!
+This is the results of seriously giving it my
+best in the student council for three years.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

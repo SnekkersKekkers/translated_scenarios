@@ -19,9 +19,9 @@ sooner...");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100004_01_010");
-    MsgDisp("Kazama","Hmm...If that's how you feel, it looks
-like you'll be trusted with more
-responsibilities going forward.");
+    MsgDisp("Kazama","Hmm... If that's how you feel, it looks like
+you'll be trusted with more responsibilities
+going forward.");
     MsgDisp("主人公","(I did it!
 I hope I can help out around the shop even
 more.)");
@@ -49,19 +49,18 @@ It's proof that you're good at your job.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100004_01_040");
-    MsgDisp("Kazama","You're doing a great job of remembering
-your roots while steadily learning the
-ropes.");
+    MsgDisp("Kazama","You're doing a great job of remembering your
+roots while steadily learning the ropes.");
     MsgDisp("主人公","Hehe, I did it!");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I160100004_01_050");
     MsgDisp("Kazama","Hey.
-It's good that you're smiling, but watch
-the volume.");
-    MsgDisp("主人公","(Alright, let's continue to work hard
-without forgetting why we started∈)");
+It's good that you're smiling, but watch the
+volume.");
+    MsgDisp("主人公","(Alright, let's continue to work hard without
+forgetting why we started∈)");
     break ;
     default :
     DbgAssert(1);

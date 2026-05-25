@@ -45,8 +45,8 @@ You're really living your youth.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("O020600001_06_050");
-    MsgDisp("Himuro","That alone is enough to make you
-a winner, don't you think?");
+    MsgDisp("Himuro","That alone is enough to make you a winner,
+don't you think?");
     MsgDisp("主人公","...Yeah, thanks.");
     ChEye(6,3);
     ChMouth(6,4);

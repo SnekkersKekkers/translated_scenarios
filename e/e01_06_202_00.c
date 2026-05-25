@@ -27,8 +27,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("E010620200_04_020");
-MsgDisp("Nanatsumori","Ah...it's more like we happened to meet,
-or maybe we were drawn to each other...or
+MsgDisp("Nanatsumori","Ah...it's more like we happened to meet, or
+maybe we were drawn to each other...or
 something?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -36,7 +36,8 @@ ChMotion(6,0);
 VoicePlay("E010620200_06_020");
 MsgDisp("Himuro","That's true...
 It wasn't exactly mere chance.");
-MsgDisp("主人公","? What does that mean?");
+MsgDisp("主人公","?
+What does that mean?");
 ChEye(4,0);
 ChMotion(4,0);
 ChEye(6,0);
@@ -44,15 +45,14 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("E010620200_06_030");
 MsgDisp("Himuro","Just now I saw Minoru-senpai frantically
-taking a picture of something in front of
-the store.");
+taking a picture of something in front of the
+store.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("E010620200_06_040");
-MsgDisp("Himuro","He was in an odd position, so I was
-curious about what he was trying to
-photograph...");
+MsgDisp("Himuro","He was in an odd position, so I was curious
+about what he was trying to photograph...");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2);
@@ -64,9 +64,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("E010620200_06_050");
-MsgDisp("Himuro","Minoru-senpai was desperately trying to
-take pictures of the candy store cat
-mascot.");
+MsgDisp("Himuro","Minoru-senpai was desperately trying to take
+pictures of the candy store cat mascot.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0);
@@ -85,16 +84,16 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("E010620200_06_060");
-MsgDisp("Himuro","Ugh...it's the first time something like
-that has happened to me...");
+MsgDisp("Himuro","Ugh...it's the first time something like that
+has happened to me...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
 ChCheek(4,0);
 VoicePlay("E010620200_04_060");
 MsgDisp("Nanatsumori","Hahaha!
-Himuro-kun, you've been drawn to the cat
-too, huh?");
+Himuro-kun, you've been drawn to the cat too,
+huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

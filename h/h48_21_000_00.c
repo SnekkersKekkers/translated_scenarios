@@ -15,8 +15,9 @@ switch (ChPrmGet(21,6)){
     ChMotion(21,3);
     VoicePlay("H482100000_21_000");
     MsgDisp("Michiru","Mari, I came to support you.");
-    MsgDisp("主人公","Ah, ｛みちる＊｝. Thanks! I'm rivals
-with ｛ひかる＊｝ now, though...");
+    MsgDisp("主人公","Ah, ｛みちる＊｝.
+Thanks! I'm rivals with ｛ひかる＊｝ now,
+though...");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,4);
@@ -55,8 +56,9 @@ Did you come to cheer me on?");
     ChMouth(21,4);
     ChMotion(21,3);
     VoicePlay("H482100000_21_040");
-    MsgDisp("Michiru","Right? Are you nervous? Nervousness is the
-enemy of a beautiful performance.");
+    MsgDisp("Michiru","Right?
+Are you nervous? Nervousness is the enemy of
+a beautiful performance.");
     MsgDisp("主人公","Y-Yeah.
 I'm fine...!");
     ChClose(21);
@@ -65,9 +67,9 @@ I'm fine...!");
     SEPlay("EV_SE_544");
     ChOpen(21,254,5,4,4,#1,#1,0,0);
     VoicePlay("H482100000_21_050");
-    MsgDisp("Michiru","Geez. You're not fine at all.
-Here, give me your hand.
-And close your eyes.");
+    MsgDisp("Michiru","Geez.
+You're not fine at all.
+Here, give me your hand. And close your eyes.");
     MsgDisp("主人公","My hands?
 ...Okay.");
     MsgClose();
@@ -86,8 +88,8 @@ May the goddess of victory watch over her.");
 Are you feeling more relaxed?");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(｛みちる＊｝, thank you!
-Alright, I have to give the best
-performance ever!)");
+Alright, I have to give the best performance
+ever!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

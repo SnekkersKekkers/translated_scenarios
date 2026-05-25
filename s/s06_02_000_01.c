@@ -51,8 +51,8 @@ Did I live up to your expectations?");
 I wish I could see you in kimono all the
 time.");
     MsgDisp("主人公","Hehe!
-I'm happy- but that sounds like it would
-be difficult?");
+I'm happy- but that sounds like it would be
+difficult?");
     MsgDisp("主人公","(He seems to be really happy.
 I'm glad I wore a kimono!)");
     break ;
@@ -84,9 +84,9 @@ forward to it.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("S060200001_02_090");
-    MsgDisp("Sassa","Yeah, to be honest, I had high
-expectations. But this is even better than
-what I was expecting!");
+    MsgDisp("Sassa","Yeah, to be honest, I had high expectations.
+But this is even better than what I was
+expecting!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

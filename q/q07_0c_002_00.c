@@ -8,15 +8,14 @@ ChOpen(7,254,4,0,0,#1,#1,0,2,0,30);
 VoicePlay("Q070C00200_05_000");
 MsgDisp("Hiiragi","It is said to be 150 years old...
 It still looks functional.");
-MsgDisp("主人公","Yeah, I'm sure it has been really well
-kept.");
+MsgDisp("主人公","Yeah, I'm sure it has been really well kept.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Q070C00200_07_000");
-MsgDisp("Mikage","Yeah. Although the connections we have
-right now are important, the connections
-of the past should also be treasured.");
+MsgDisp("Mikage","Yeah. Although the connections we have right
+now are important, the connections of the
+past should also be treasured.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -29,16 +28,16 @@ ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("Q070C00200_07_010");
 MsgDisp("Mikage","The merchants who once lived here traveled
-around a lot like you, Yanosuke. Then they
-decided to stay here in Nagasaki.");
+around a lot like you, Yanosuke.
+Then they decided to stay here in Nagasaki.");
 ChEye(5,0);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Q070C00200_07_020");
-MsgDisp("Mikage","There's stuff you can't learn unless you
-come here. There's stuff you can only
-understand if you touch and feel them.");
+MsgDisp("Mikage","There's stuff you can't learn unless you come
+here. There's stuff you can only understand
+if you touch and feel them.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -55,9 +54,9 @@ MsgClose();
 SEPlay("EV_SE_856",0,0.6);
 ChClose(7,0,30);
 ChClose(5,0,30);
-MsgDisp("主人公","(I wanted to tell ｛Himuro＊＊｝ the story
-about ｛Mikage＊＊｝...Right! I'll just
-tell him in the report.)");
+MsgDisp("主人公","(I wanted to tell ｛Himuro＊＊｝ the story about
+｛Mikage＊＊｝...Right!
+I'll just tell him in the report.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

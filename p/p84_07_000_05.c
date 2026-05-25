@@ -11,8 +11,8 @@ wrong.");
 VoicePlay("P840700005_41_020");
 MsgDisp("School Boy","Ehh? is that right.
 Get your act together, student council.");
-MsgDisp("主人公","(I'm glad it ended peacefully, but I
-caused confusion for everyone.)");
+MsgDisp("主人公","(I'm glad it ended peacefully, but I caused
+confusion for everyone.)");
 VoiceEVSPlay(7);
 VoicePlay("P840700005_07_000");
 MsgDisp("Mikage?","｛主人公｝, good work.");
@@ -47,8 +47,8 @@ VoicePlay("P840700005_07_040");
 MsgDisp("Mikage","You should think of the mistake as part of
 your cultural festival memories.");
 MsgDisp("主人公","(Uuugh...
-It was my last cultural festival, so I
-wanted to do it perfectly...)");
+It was my last cultural festival, so I wanted
+to do it perfectly...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

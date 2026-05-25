@@ -39,8 +39,8 @@ I'd be quite sad if today was the last.");
     VoicePlay("H4A0500001_05_040");
     MsgDisp("Hiiragi","It's up to you to decide.");
     MsgDisp("主人公","(Yeah...
-I lost, but I'm glad I stayed in the
-rhythmic gymnastics club...)");
+I lost, but I'm glad I stayed in the rhythmic
+gymnastics club...)");
     break ;
     default :
     DbgAssert(1);

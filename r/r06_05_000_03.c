@@ -5,8 +5,7 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     ChOpen(5,34,0,0,4,#1,#1,0,0);
     VoicePlay("R060500003_05_000");
-    MsgDisp("Hiiragi","The gift you got...that's the one I
-brought.");
+    MsgDisp("Hiiragi","The gift you got...that's the one I brought.");
     MsgDisp("主人公","Huh!
 ...Ah, ｛Hiiragi＊＊＊｝, you also got the gift
 that I brought!");
@@ -29,7 +28,8 @@ Ah, by any chance, is this...");
     VoicePlay("R060500003_05_030");
     MsgDisp("Hiiragi","Yeah, that's the gift I brought.
 ...Could it be that I also got your gift?");
-    MsgDisp("主人公","∋ Yeah, that's my gift!");
+    MsgDisp("主人公","∋
+Yeah, that's my gift!");
     ChMotion(5,0);
     VoicePlay("R060500003_05_040");
     MsgDisp("Hiiragi","You've got a nice eye.

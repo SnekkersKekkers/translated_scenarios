@@ -80,8 +80,8 @@ Feels nice.");
     ChMouth(4,0);
     ChMotion(4,2,1);
     VoicePlay("I360400001_04_060");
-    MsgDisp("Nanatsumori","...A blend coffee and strawberry
-shortcake, please.");
+    MsgDisp("Nanatsumori","...A blend coffee and strawberry shortcake,
+please.");
     MsgDisp("主人公","(Did ｛Nanatsumori＊｝ praise me?)");
     break ;
     default :

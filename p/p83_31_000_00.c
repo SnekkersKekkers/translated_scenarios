@@ -2,8 +2,7 @@ BGMStop();
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright, let's check the guests
-list...Eh? 
+MsgDisp("主人公","(Alright, let's check the guests list...Eh?
 \"Hanatsubaki Goro\"?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -16,11 +15,11 @@ ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,4);
 VoicePlay("P833100000_31_010");
-MsgDisp("Goro","Ah, it's you! I have to thank you for
-inviting me to the cultural festival♪
-Could you show me around?");
-MsgDisp("主人公","Yes, the Student Council will be
-honoured to assist you!");
+MsgDisp("Goro","Ah, it's you!
+I have to thank you for inviting me to the
+cultural festival♪ Could you show me around?");
+MsgDisp("主人公","Yes, the Student Council will be honoured to
+assist you!");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);

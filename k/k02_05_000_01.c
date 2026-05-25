@@ -19,8 +19,8 @@ ChEye(5,2);
 ChMotion(5,4);
 VoicePlay("K020500001_05_010");
 MsgDisp("Hiiragi","I wanted to give this to you directly no
-matter what, and before I knew it, the
-timing came to this...");
+matter what, and before I knew it, the timing
+came to this...");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(5,4);

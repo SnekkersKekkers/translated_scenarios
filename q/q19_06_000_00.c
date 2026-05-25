@@ -1,14 +1,14 @@
 BGOpen("sc816",2);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's past lights out time, I have to go
-to bed early...)");
+MsgDisp("主人公","(It's past lights out time, I have to go to
+bed early...)");
 SEPlay("EV_SE_670");
 SEWait();
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Eh∋
-Who could it be at this hour......wait,
-from ｛Himuro＊＊｝?)");
+Who could it be at this hour......wait, from
+｛Himuro＊＊｝?)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 SEWait();
@@ -16,8 +16,8 @@ MsgDisp("主人公","H-Hello...?");
 VoicePlay("Q190600000_06_000");
 MsgDisp("Himuro","...Why did you pick up?
 Isn't it past lights out time?");
-MsgDisp("主人公","But ｛Himuro＊＊｝, you're the one who 
-called me...?");
+MsgDisp("主人公","But ｛Himuro＊＊｝, you're the one who called
+me...?");
 VoicePlay("Q190600000_06_010");
 MsgDisp("Himuro","You could just not answer.");
 MsgDisp("主人公","Come on...");
@@ -124,8 +124,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛Himuro＊＊｝ went out of his way to
-give me a call...
+MsgDisp("主人公","(｛Himuro＊＊｝ went out of his way to give me a
+call...
 I'm so happy.)");
 MsgClose();
 ScrFadeOut(0);

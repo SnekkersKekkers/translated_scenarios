@@ -8,10 +8,9 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("G020210000_02_010");
-MsgDisp("Sassa","But, you know, no matter how many there
-are, I wanna win.");
-MsgDisp("主人公","And I'm positive you will win,
-｛Sassa＊＊｝.");
+MsgDisp("Sassa","But, you know, no matter how many there are,
+I wanna win.");
+MsgDisp("主人公","And I'm positive you will win, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -31,21 +30,18 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210000_02_040");
-MsgDisp("Sassa","I don't know how many people are
-competing, but I'm gonna keep this up and
-win the fight for you! ...Is what I was
-talking about.");
+MsgDisp("Sassa","I don't know how many people are competing,
+but I'm gonna keep this up and win the fight
+for you! ...Is what I was talking about.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 ChCheek(2,10);
 VoicePlay("G020210000_02_050");
-MsgDisp("Sassa","So, basically, I was saying that I'm in
-the running. No matter the rival that
-shows up, I'm not giving him my place
-beside you.");
-MsgDisp("主人公","(?
-'The fight for me'??
+MsgDisp("Sassa","So, basically, I was saying that I'm in the
+running. No matter the rival that shows up,
+I'm not giving him my place beside you.");
+MsgDisp("主人公","(? 'The fight for me'??
 What is ｛Sassa＊＊｝ talking about...?)");
 BGMStop();
 MsgClose();

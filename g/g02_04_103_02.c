@@ -3,8 +3,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G020410302_04_000");
-MsgDisp("Nanatsumori","I wonder how people see the both of us
-today?");
+MsgDisp("Nanatsumori","I wonder how people see the both of us today?");
 MsgDisp("主人公","Like if they see us as a couple?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -17,8 +16,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020410302_04_020");
-MsgDisp("Nanatsumori","My embarrassment is at max level, but now
-I'm even happier.");
+MsgDisp("Nanatsumori","My embarrassment is at max level, but now I'm
+even happier.");
 VoicePlay("G020410302_04_030");
 MsgDisp("Nanatsumori","Even if we never talked to each other, we
 have the same hobbies.");
@@ -33,9 +32,8 @@ MsgDisp("主人公","Hehe!");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410302_04_050");
-MsgDisp("Nanatsumori","I don't really pay attention to things
-like that but today...it just felt like
-fate.");
+MsgDisp("Nanatsumori","I don't really pay attention to things like
+that but today...it just felt like fate.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

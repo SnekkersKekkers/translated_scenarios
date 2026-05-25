@@ -26,9 +26,9 @@ I'm glad I worked hard!)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("X120200000_02_010");
-    MsgDisp("Sassa","When I'm running, I hear the pretty sound
-of the orchestra. I feel like it gives me
-that push on the back.");
+    MsgDisp("Sassa","When I'm running, I hear the pretty sound of
+the orchestra. I feel like it gives me that
+push on the back.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

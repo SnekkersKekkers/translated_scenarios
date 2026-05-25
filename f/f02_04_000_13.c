@@ -12,8 +12,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F020400013_04_000");
 MsgDisp("Nanatsumori","Me too.
-It's just a school trip, but for us it's
-an exciting group trip.");
+It's just a school trip, but for us it's an
+exciting group trip.");
 ChMotion(4,0,1);
 VoicePlay("F020400013_04_010");
 MsgDisp("Nanatsumori","It'll be my first time in Nagasaki.
@@ -27,24 +27,24 @@ MsgDisp("Nanatsumori","Habataki City is famous for its ocean and
 mountains, but Nagasaki is different.");
 ChMotion(4,0,1);
 VoicePlay("F020400013_04_030");
-MsgDisp("Nanatsumori","First of all, I want to try a castella
-from a famous store.
+MsgDisp("Nanatsumori","First of all, I want to try a castella from a
+famous store.
 I'll get the whole loaf.");
 MsgDisp("主人公","The whole thing∋");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F020400013_04_040");
-MsgDisp("Nanatsumori","Huh? You don't get it?
-That desire to see if the real thing 
-lives up to your imagination.");
+MsgDisp("Nanatsumori","Huh?
+You don't get it? That desire to see if the
+real thing lives up to your imagination.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("F020400013_04_050");
 MsgDisp("Nanatsumori","The contrast between the yellow and the
-brown, the soft and smooth texture, the
-light sweetness...ah, I can't wait.");
+brown, the soft and smooth texture, the light
+sweetness...ah, I can't wait.");
 MsgDisp("主人公","(Hmm...
 A whole castella to himself might just be
 ｛Nanatsumori＊｝'s dreaml...)");

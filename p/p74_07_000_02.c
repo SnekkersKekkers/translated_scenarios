@@ -11,15 +11,15 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P740700002_07_000");
 MsgDisp("Mikage","Welcome back, to the beautiful princess.");
 MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝ gave me the push I needed,
-so I walked with my head held high.");
+｛Mikage＊＊｝ gave me the push I needed, so
+I walked with my head held high.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P740700002_07_010");
 MsgDisp("Mikage","Yeah, when you stepped onto stage, the
-gymnasium transformed into a castle
-ballroom, you know?");
+gymnasium transformed into a castle ballroom,
+you know?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

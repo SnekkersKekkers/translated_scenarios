@@ -18,8 +18,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P850500003_05_010");
 MsgDisp("Hiiragi","You even minded my work.
-Therefore, it was my fault for adding to
-your worries.");
+Therefore, it was my fault for adding to your
+worries.");
 MsgDisp("主人公","Uugh...
 ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
@@ -28,10 +28,9 @@ VoicePlay("P850500003_05_020");
 MsgDisp("Hiiragi","It's over.
 So even if it's just a little show me a
 smile.");
-MsgDisp("主人公","(Haa...even though it was the last
-cultural festival of my high school
-life...I should have prepared more
-carefully");
+MsgDisp("主人公","(Haa...even though it was the last cultural
+festival of my high school life...
+I should have prepared more carefully");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

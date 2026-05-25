@@ -14,11 +14,13 @@ MsgDisp("主人公","Until I met you, Hikoboshi-sama.");
 SEVol(0.5,3);
 VoicePlay("P240600000_06_000");
 MsgDisp("Himuro","......");
-MsgDisp("主人公","(...Huh? At this part, Hikoboshi is
-supposed to take Orihime's hand...)");
+MsgDisp("主人公","(...Huh?
+At this part, Hikoboshi is supposed to take
+Orihime's hand...)");
 MsgDisp("主人公","Hikoboshi-sama...?");
 VoicePlay("P240600000_06_010");
-MsgDisp("Himuro","! ...Thy truth is also my truth.");
+MsgDisp("Himuro","!
+...Thy truth is also my truth.");
 MsgClose();
 BGMVol(0.5,2);
 SEPlay("EV_SE_551",0,0.7);
@@ -33,9 +35,9 @@ StlEye(6,1,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("P240600000_06_020");
-MsgDisp("Himuro","Day after day, I would steadily pull ox
-and plough the fields. That was my world.
-All that I ever knew.");
+MsgDisp("Himuro","Day after day, I would steadily pull ox and
+plough the fields.
+That was my world. All that I ever knew.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("P240600000_06_030");
@@ -52,8 +54,8 @@ VoicePlay("P240600000_06_040");
 MsgDisp("Himuro","Since meeting you, I—");
 MsgDisp("主人公","(...Eh, 'I'?)");
 VoicePlay("P240600000_06_050");
-MsgDisp("Himuro","Whether it's at school, or at the beach,
-I'm always thinking of you.");
+MsgDisp("Himuro","Whether it's at school, or at the beach, I'm
+always thinking of you.");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
@@ -62,10 +64,9 @@ MsgDisp("Himuro","This isn't like me at all...");
 MsgDisp("主人公","(Ugh...what should we do?
 This is different to the script...
 No, I'll just keep going.)");
-MsgDisp("主人公","But...my father, the Celestial Emperor,
-does not view our current relationship
-favorably. If things continue like
-this—");
+MsgDisp("主人公","But...my father, the Celestial Emperor, does
+not view our current relationship favorably.
+If things continue like this—");
 StlEye(6,1,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,5,1);
@@ -78,8 +79,8 @@ VoicePlay("P240600000_06_080");
 MsgDisp("Himuro","May it be a river, or anything else, I'll
 overcome it.
 No, I'll definitely manoeuvre over it!");
-MsgDisp("主人公","Ah, please refrain from surfing in
-heaven's river...!");
+MsgDisp("主人公","Ah, please refrain from surfing in heaven's
+river...!");
 SEPlay("EV_SE_GAYA_006",0,0.7);
 SEPlay("EV_SE_CLAP_002",0.1,0.6);
 BGMStop(2);
@@ -108,10 +109,10 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("P240600000_06_100");
-MsgDisp("Himuro","Not so much ad-libbing, but more like my
-true feelings...");
-MsgDisp("主人公","Hehe, for you to incorporate that, isn't
-that amazing, ｛Himuro＊＊｝?");
+MsgDisp("Himuro","Not so much ad-libbing, but more like my true
+feelings...");
+MsgDisp("主人公","Hehe, for you to incorporate that, isn't that
+amazing, ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

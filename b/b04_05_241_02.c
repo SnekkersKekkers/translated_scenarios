@@ -47,7 +47,8 @@ Then, shall we do something else?");
         ChEye(5,3);
         ChMotion(5,3);
         VoicePlay("B040524102_05_050");
-        MsgDisp("Hiiragi","Like, \"One, two, squeeze—\" I suppose?");
+        MsgDisp("Hiiragi","Like, \"One, two, squeeze—\"
+I suppose?");
         MsgClose();
         ScrFadeOut(0,0);
         MsgDisp("","　　　　　　　　　　 ・

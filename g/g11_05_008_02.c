@@ -8,8 +8,9 @@ The amount of money doesn't add up.");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ChOpen(5,254,4,4,0,#1,#1,0,0);
-MsgDisp("主人公","Eh? That's troubling. I'll also try to
-search around the room too.");
+MsgDisp("主人公","Eh?
+That's troubling.
+I'll also try to search around the room too.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -25,8 +26,8 @@ ChOpen(5,100,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 MsgDisp("主人公","I searched the desk, drawers and all the
-places it could possibly be, but I
-couldn't find anything...");
+places it could possibly be, but I couldn't
+find anything...");
 ChEye(5,1);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
@@ -92,7 +93,8 @@ MsgClose();
 ChOpen(5,254,3,3,4,#1,#1,0,0);
 ChMouth(5,3);
 VoicePlay("G110500802_05_070");
-MsgDisp("Hiiragi","It's there∈ I'm sorry for the trouble.");
+MsgDisp("Hiiragi","It's there∈
+I'm sorry for the trouble.");
 MsgDisp("主人公","No, I'm glad it's been found!");
 ChEye(5,2);
 ChMotion(5,1);
@@ -125,8 +127,7 @@ MsgDisp("Hiiragi","Thank you.
 I feel a little more confident now.
 You give very good compliments.");
 MsgDisp("主人公","(Yay!
-But I want to help ｛Hiiragi＊＊＊｝ even
-more.)");
+But I want to help ｛Hiiragi＊＊＊｝ even more.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

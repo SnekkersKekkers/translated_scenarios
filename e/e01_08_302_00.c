@@ -45,15 +45,14 @@ VoicePlay("E010830000_08_030");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
-MsgDisp("Daichi","I made plans to watch a movie with big
-bro, but...");
+MsgDisp("Daichi","I made plans to watch a movie with big bro,
+but...");
 VoicePlay("E010830000_09_030");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,4,1);
-MsgDisp("Kuya","I was asked for directions, and while I
-was showing them, the movie
-ended...");
+MsgDisp("Kuya","I was asked for directions, and while I was
+showing them, the movie ended...");
 MsgDisp("主人公","I see.");
 VoicePlay("E010830000_08_040");
 ChEye(8,2);
@@ -66,8 +65,7 @@ ChEyeOpenLevel(8,#1);
 VoicePlay("E010830000_09_040");
 ChMotion(9,0,1);
 MsgDisp("Kuya","C'mon, I said m'sorry...
-How 'bout we go see it again 
-some other day?");
+How 'bout we go see it again some other day?");
 ChEye(8,0);
 ChMouth(8,4);
 MsgDisp("主人公","......");
@@ -96,8 +94,8 @@ VoicePlay("E010830000_08_060");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,4,1);
-MsgDisp("Daichi","He should talk as if he's with me more
-often, huh?");
+MsgDisp("Daichi","He should talk as if he's with me more often,
+huh?");
 VoicePlay("E010830000_09_070");
 ChEye(9,3);
 ChMouth(9,0);
@@ -116,8 +114,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
 MsgDisp("Kuya","Haha!
-I guess Dai-chan hasn't changed much at
-all.");
+I guess Dai-chan hasn't changed much at all.");
 MsgDisp("主人公","Hehe!
 You two really get along well.");
 ChEyeOpenLevel(9,#1);
@@ -127,8 +124,8 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 MsgDisp("Daichi","Of course!
 I'm proud he's my brother!");
-MsgDisp("主人公","(Both ｛Daichi＊＊｝ and Kuya are so funny
-and kind...
+MsgDisp("主人公","(Both ｛Daichi＊＊｝ and Kuya are so funny and
+kind...
 They're such wonderful brothers.)");
 BGMStop();
 MsgClose();

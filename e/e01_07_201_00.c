@@ -12,8 +12,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010720100_07_000");
-MsgDisp("Mikage","Oh, the three of us from the same class
-are here.");
+MsgDisp("Mikage","Oh, the three of us from the same class are
+here.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -51,8 +51,8 @@ ChMotion(7,2);
 VoicePlay("E010720100_07_030");
 MsgDisp("Mikage","I'm asking for advice.");
 ChMouth(1,3);
-MsgDisp("主人公","It's reassuring to know ｛Kazama＊＊｝ is
-there to give you advice.");
+MsgDisp("主人公","It's reassuring to know ｛Kazama＊＊｝ is there
+to give you advice.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

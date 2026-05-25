@@ -12,8 +12,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F110710000_07_010");
-MsgDisp("Mikage","I left the gardening club and class booth
-to you guys.
+MsgDisp("Mikage","I left the gardening club and class booth to
+you guys.
 I have my own exhibit, too.");
 MsgDisp("主人公","Really?");
 ChEye(7,0);
@@ -33,14 +33,14 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 Wait(40);
 VoicePlay("F110710000_07_040");
-MsgDisp("Mikage","Miss, don't you want to have a go at
-riding the pony?");
+MsgDisp("Mikage","Miss, don't you want to have a go at riding
+the pony?");
 VoicePlay("F110710000_47_000");
 MsgDisp("Customer","Huh?
 Is this horse riding?");
 VoicePlay("F110710000_07_050");
 MsgDisp("Mikage","That's right, with a cute pony.");
-MsgDisp("主人公","(｛Mikage＊＊｝...somehow, that looks
-really fun...)");
+MsgDisp("主人公","(｛Mikage＊＊｝...somehow, that looks really
+fun...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -32,9 +32,9 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620202_06_040");
-MsgDisp("Himuro","It can't be helped that you're drawn to
-him. That's...why you let him be by your
-side, huh?");
+MsgDisp("Himuro","It can't be helped that you're drawn to him.
+That's...why you let him be by your side,
+huh?");
 MsgDisp("主人公","Eh?");
 ChEye(6,2);
 ChMouth(6,0);
@@ -59,8 +59,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020620202_06_080");
-MsgDisp("Himuro","But I have no intention of giving up to
-him.");
+MsgDisp("Himuro","But I have no intention of giving up to him.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -74,8 +73,8 @@ VoicePlay("G020620202_06_100");
 MsgDisp("Himuro","That's why, I want to face this head-on.
 I wanted to tell you that.");
 MsgDisp("主人公","Yeah...");
-MsgDisp("主人公","(｛Himuro＊＊｝'s serious feelings really
-came through...)");
+MsgDisp("主人公","(｛Himuro＊＊｝'s serious feelings really came
+through...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

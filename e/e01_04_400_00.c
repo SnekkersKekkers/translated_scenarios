@@ -6,8 +6,8 @@ MsgDisp("Michiru?","No way.
 I can't do that...");
 VoicePlay("E010440000_04_000");
 MsgDisp("Nanatsumori?","Really?
-Could it be that Michiru is actually
-pretty shy?");
+Could it be that Michiru is actually pretty
+shy?");
 MsgDisp("主人公","(Hm?
 That voice just now was...)");
 MsgClose();
@@ -51,8 +51,8 @@ VoicePlay("E010440000_04_040");
 MsgDisp("Nanatsumori","You should join the conversation next time
 instead of eavesdropping.");
 MsgDisp("主人公","Y-Yeah.
-But you two are on another league so I
-felt hesitant...");
+But you two are on another league so I felt
+hesitant...");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);

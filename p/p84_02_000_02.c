@@ -10,8 +10,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840200002_02_000");
-MsgDisp("Sassa","Excuse me, could you provide some trash
-bags for my class too?");
+MsgDisp("Sassa","Excuse me, could you provide some trash bags
+for my class too?");
 MsgDisp("主人公","Of course!");
 ChEye(2,0);
 ChMouth(2,4);
@@ -31,9 +31,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("P840200002_02_030");
-MsgDisp("Sassa","Not yet. I haven't given up on the idea of
-wandering around the stalls with you when
-you're done.");
+MsgDisp("Sassa","Not yet.
+I haven't given up on the idea of wandering
+around the stalls with you when you're done.");
 MsgDisp("主人公","Hehe!
 Sure!");
 MsgDisp("主人公","(｛Sassa＊＊｝ thanked me!

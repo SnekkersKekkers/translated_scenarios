@@ -2,11 +2,10 @@ BGOpen("ar500",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("I562100008_49_000");
-MsgDisp("Customer","Thank you for helping me choose the
-sweets.");
+MsgDisp("Customer","Thank you for helping me choose the sweets.");
 MsgDisp("主人公","Not at all. It's fine as long as you know
-what kind of sweets you'd like. Please
-feel free to ask for help.");
+what kind of sweets you'd like.
+Please feel free to ask for help.");
 VoicePlay("I562100008_49_010");
 MsgDisp("Customer","Oh, is that so?
 I'll leave it to you next time, too, then.
@@ -26,8 +25,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("I562100008_21_010");
-MsgDisp("Michiru","That customer only comes on days when
-you're on shift.");
+MsgDisp("Michiru","That customer only comes on days when you're
+on shift.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

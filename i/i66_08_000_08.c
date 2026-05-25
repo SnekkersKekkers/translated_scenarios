@@ -52,12 +52,11 @@ have some tea together?");
     ChMotion(8,3,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("I660800008_08_050");
-    MsgDisp("Shirahane","Doesn't it seem like the manager really
-likes us both?
+    MsgDisp("Shirahane","Doesn't it seem like the manager really likes
+us both?
 Haha!");
     MsgDisp("主人公","(Hehe!
-I've been working here a while, so I'm
-glad.)");
+I've been working here a while, so I'm glad.)");
     break ;
     case 4:
     case 5:
@@ -104,8 +103,7 @@ My heart's poundin'-");
     ChMotion(8,1,1);
     ChCheek(8,10);
     VoicePlay("I660800008_40_010");
-    MsgDisp("Manager","You two over there, save that for after
-work!");
+    MsgDisp("Manager","You two over there, save that for after work!");
     MsgDisp("主人公","...Looks like the manager got mad at us?");
     ChEye(8,2);
     ChMouth(8,4);
@@ -120,8 +118,7 @@ actually mad.");
     ChMotion(8,0,1);
     VoicePlay("I660800008_08_110");
     MsgDisp("Shirahane","The other day, they even said \"if you two
-take over this place, I can finally
-retire\".");
+take over this place, I can finally retire\".");
     MsgDisp("主人公","Huh?");
     ChEye(8,3);
     ChMouth(8,3);
@@ -136,8 +133,8 @@ So, don't worry 'bout it.");
 store, do you?
 Right?");
     MsgDisp("主人公","(Hehe!
-I've been working here a while, and it
-looks like I've been acknowledged...!)");
+I've been working here a while, and it looks
+like I've been acknowledged...!)");
     break ;
     default :
     DbgAssert(1);

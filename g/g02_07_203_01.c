@@ -17,8 +17,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020720301_07_020");
 MsgDisp("Mikage","Why are you so surprised?
-If it comes to everyone, it should come to
-me too, right?");
+If it comes to everyone, it should come to me
+too, right?");
 MsgDisp("主人公","You care about things like that,
 ｛Mikage＊＊｝?");
 ChEye(7,0);
@@ -36,8 +36,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020720301_07_040");
 MsgDisp("Mikage","What about you?");
-MsgDisp("主人公","(｛Mikage＊＊｝, Is he joking or
-serious... or is this his inner voice?)");
+MsgDisp("主人公","(｛Mikage＊＊｝, Is he joking or serious...
+or is this his inner voice?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

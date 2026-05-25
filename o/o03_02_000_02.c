@@ -48,8 +48,8 @@ I went faster than I should've.");
     ChMotion(2,2);
     VoicePlay("O030200002_02_050");
     MsgDisp("Sassa","Ahaha...
-This might be the first time I've placed
-last in athletics.");
+This might be the first time I've placed last
+in athletics.");
     ChEye(2,2);
     ChMouth(2,0);
     ChMotion(2,0);

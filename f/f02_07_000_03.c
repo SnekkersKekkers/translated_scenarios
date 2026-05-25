@@ -30,16 +30,16 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F020700003_07_030");
 MsgDisp("Mikage","What's the deal with it being an ostrich?
-If it was a cow, horse or sheep I could
-kind of get it.");
+If it was a cow, horse or sheep I could kind
+of get it.");
 MsgDisp("主人公","Do you have any clue as to why?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700003_07_040");
 MsgDisp("Mikage","I like ostrich meat.
-I'm curious about it, and I've even eaten
-it at home.");
+I'm curious about it, and I've even eaten it
+at home.");
 MsgDisp("主人公","Eh?
 Is it tasty?");
 ChEye(7,0);
@@ -47,8 +47,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700003_07_050");
 MsgDisp("Mikage","Ostrich meat is all lean, low in calories,
-and high in protein, making it an
-extremely healthy ingredient, ya know?");
+and high in protein, making it an extremely
+healthy ingredient, ya know?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -61,8 +61,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F020700003_07_070");
 MsgDisp("Mikage","That's not all.
-Apparently the ostriches started breeding
-and escaping.");
+Apparently the ostriches started breeding and
+escaping.");
 MsgDisp("主人公","T-That's not true, right?");
 ChEye(7,2);
 ChMouth(7,0);

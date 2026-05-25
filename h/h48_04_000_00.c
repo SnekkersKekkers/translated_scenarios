@@ -16,15 +16,16 @@ Did you come to cheer me on?");
     VoicePlay("H480400000_04_010");
     MsgDisp("Nanatsumori","Ah...yeah?
 Yes, that's right.");
-    MsgDisp("主人公","? Did something happen?");
+    MsgDisp("主人公","?
+Did something happen?");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,2,1);
     ChCheek(4,5);
     VoicePlay("H480400000_04_020");
     MsgDisp("Nanatsumori","No, it's just that you're sparkling in a
-different way than usual, and I'm not
-really sure where to look...");
+different way than usual, and I'm not really
+sure where to look...");
     MsgDisp("主人公","Hehe.");
     ChEye(4,4);
     ChMouth(4,3);
@@ -57,8 +58,8 @@ Thank you.");
     VoicePlay("H480400000_04_070");
     MsgDisp("Nanatsumori","It's just...
 You're even prettier than usual.");
-    MsgDisp("主人公","I'll start getting shy if you say stuff
-like that...");
+    MsgDisp("主人公","I'll start getting shy if you say stuff like
+that...");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,0,1);

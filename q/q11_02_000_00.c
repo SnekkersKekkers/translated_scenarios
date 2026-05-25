@@ -1,7 +1,7 @@
 ScrFadeIn(0);
-MsgDisp("主人公","(Hmmm...I ended up buying both matcha and
-black tea castella. I wonder what
-｛Sassa＊＊｝ bought...)");
+MsgDisp("主人公","(Hmmm... I ended up buying both matcha and
+black tea castella.
+I wonder what ｛Sassa＊＊｝ bought...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,4,#1,#1,0,0);
@@ -58,8 +58,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q110200000_02_070");
-MsgDisp("Sassa","I mean, wouldn't it be great if we could
-be a perfect match?");
+MsgDisp("Sassa","I mean, wouldn't it be great if we could be a
+perfect match?");
 MsgDisp("主人公","(Pff, no matter what flavor of castella I
 see, I guess it'll make me think of
 ｛Sassa＊＊｝?)");

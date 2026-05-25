@@ -48,8 +48,7 @@ Turn around a little slowly for me.");
     MsgDisp("Kazama","That's really nice, the kimono.
 I'm glad I came back in time.");
     MsgDisp("主人公","Hehe.
-I feel relieved when ｛Kazama＊＊｝ praises
-me.");
+I feel relieved when ｛Kazama＊＊｝ praises me.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -60,8 +59,8 @@ me.");
     ChMotion(1,1);
     ChCheek(1,7);
     VoicePlay("S060100001_01_060");
-    MsgDisp("Kazama","To be honest, I wish I could keep this
-sight all to myself...");
+    MsgDisp("Kazama","To be honest, I wish I could keep this sight
+all to myself...");
     MsgDisp("主人公","(Yay!
 ｛Kazama＊＊｝ seems to really like this!)");
     break ;

@@ -13,9 +13,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F110110001_01_010");
-MsgDisp("Kazama","This year, I had to come before the
-General Store Simon customers could catch
-me.");
+MsgDisp("Kazama","This year, I had to come before the General
+Store Simon customers could catch me.");
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
 VoicePlay("F110110001_48_000");
@@ -41,8 +40,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("F110110001_47_000");
-MsgDisp("Broadcast","Habataki High School 2nd year Kazama
-Ryota, please come to the staff room.
+MsgDisp("Broadcast","Habataki High School 2nd year Kazama Ryota,
+please come to the staff room.
 The senior citizens' association is here.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -69,8 +68,7 @@ ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("F110110001_01_060");
 MsgDisp("Kazama","I'll see you later.
-If you have time, let's walk around
-together.");
+If you have time, let's walk around together.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

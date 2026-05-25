@@ -25,15 +25,14 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P540700003_07_020");
-MsgDisp("Mikage","I don't know anything about wind
-instruments, but you can't practice alone
-you know?");
+MsgDisp("Mikage","I don't know anything about wind instruments,
+but you can't practice alone you know?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P540700003_07_030");
-MsgDisp("Mikage","To properly understand the cause, you need
-to try talking to everyone.");
+MsgDisp("Mikage","To properly understand the cause, you need to
+try talking to everyone.");
 MsgDisp("主人公","...Yes.
 That's right, huh!");
 ChEye(7,0);

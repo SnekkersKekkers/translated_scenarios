@@ -12,8 +12,7 @@ ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("F100410000_04_000");
 MsgDisp("Nanatsumori","Yo.");
 MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
-Are you changing classrooms for next
-class?");
+Are you changing classrooms for next class?");
 ChMotion(4,1,1);
 VoicePlay("F100410000_04_010");
 MsgDisp("Nanatsumori","Yeah.

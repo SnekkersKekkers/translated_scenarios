@@ -9,8 +9,8 @@ VoiceEVSPlay(2);
 VoicePlay("G110200601_02_000");
 MsgDisp("Sassa","｛主人公｝, how was my time?");
 MsgDisp("主人公","Same as always.
-How is it that you always get the same
-time when you run?");
+How is it that you always get the same time
+when you run?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -29,12 +29,11 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("G110200601_02_030");
-MsgDisp("Sassa","Unreasonable and reckless are my
-specialties.
+MsgDisp("Sassa","Unreasonable and reckless are my specialties.
 Well, I'm off now!");
 MsgDisp("主人公","(Hehe!
-｛Sassa＊＊｝, you seem to be having a lot
-more fun than before?)");
+｛Sassa＊＊｝, you seem to be having a lot more
+fun than before?)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -64,10 +63,10 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200601_02_060");
-MsgDisp("Sassa","So I'm looking forward to seeing what kind
-of changes will come out from now on.");
-MsgDisp("主人公","I see, I'll pay attention just so I can
-see even the smallest of changes.");
+MsgDisp("Sassa","So I'm looking forward to seeing what kind of
+changes will come out from now on.");
+MsgDisp("主人公","I see, I'll pay attention just so I can see
+even the smallest of changes.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);

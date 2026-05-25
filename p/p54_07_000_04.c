@@ -38,15 +38,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P540700004_07_040");
-MsgDisp("Mikage","I see...that joy is your reward for
-working so hard.
+MsgDisp("Mikage","I see...that joy is your reward for working
+so hard.
 It will become a wonderful memory.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P540700004_07_050");
-MsgDisp("Mikage","Alright, after this, share that joy with
-your friends.
+MsgDisp("Mikage","Alright, after this, share that joy with your
+friends.
 ...Good work these last three years.");
 MsgClose();
 ChClose(7,0,30);
@@ -65,8 +65,8 @@ ChEyeOpenLevel(7,8);
 ScrFadeIn(0);
 MsgDisp("主人公","...Yes!");
 MsgDisp("主人公","(｛Mikage＊＊｝ patted my head...
-I'm glad I devoted myself to club
-activities the last three years...!)");
+I'm glad I devoted myself to club activities
+the last three years...!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

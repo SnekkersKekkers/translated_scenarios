@@ -21,8 +21,8 @@ Haba High is.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("H180400000_04_020");
-    MsgDisp("Nanatsumori","Well, if the manager is this fired up, I
-can just sit back and watch.");
+    MsgDisp("Nanatsumori","Well, if the manager is this fired up, I can
+just sit back and watch.");
     MsgDisp("主人公","(Alright, let's do our best!)");
     break ;
     case 4:
@@ -50,8 +50,8 @@ carried me all the way here.");
     ChMotion(4,0,1);
     VoicePlay("H180400000_04_060");
     MsgDisp("Nanatsumori","I'll do my best to show my support.
-Of course, to the Haba High Nine, but to
-you, too.");
+Of course, to the Haba High Nine, but to you,
+too.");
     MsgDisp("主人公","｛Nanatsumori＊｝...thanks.");
     ChMouth(4,3);
     ChMotion(4,3,1);

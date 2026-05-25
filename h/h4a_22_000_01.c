@@ -16,18 +16,18 @@ switch (ChPrmGet(22,6)){
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H4A2200001_22_010");
-    MsgDisp("Hikaru","Yeah. Hikaru and everyone in the team was
-perfect, but the winning school was even
-more amazing.");
+    MsgDisp("Hikaru","Yeah.
+Hikaru and everyone in the team was perfect,
+but the winning school was even more amazing.");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H4A2200001_22_020");
     MsgDisp("Hikaru","But you know, Hikaru had a lot of fun just
-doing rhythmic gymnastics with Mari and
-the others. Really!");
-    MsgDisp("主人公","(We didn't win, but I'm glad I stayed in
-the rhythmic gymnastics club...)");
+doing rhythmic gymnastics with Mari and the
+others. Really!");
+    MsgDisp("主人公","(We didn't win, but I'm glad I stayed in the
+rhythmic gymnastics club...)");
     break ;
     case 4:
     case 5:
@@ -49,8 +49,9 @@ The opponent was just too strong.");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H4A2200001_22_050");
-    MsgDisp("Hikaru","Yeah... But Hikaru wanted to win with Mari
-and everyone else...");
+    MsgDisp("Hikaru","Yeah...
+But Hikaru wanted to win with Mari and
+everyone else...");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,3,1);

@@ -28,8 +28,8 @@ schooler?");
     ChMouth(5,4);
     ChMotion(5,2);
     VoicePlay("S120500002_05_020");
-    MsgDisp("Hiiragi","No, it's just that, for me, graduating
-isn't such a simple thing.");
+    MsgDisp("Hiiragi","No, it's just that, for me, graduating isn't
+such a simple thing.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("S120500002_05_030");
@@ -39,8 +39,7 @@ See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is studying and working
-hard...
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is studying and working hard...
 I have to try hard too.)");
     BGMStop();
     MsgClose();
@@ -55,8 +54,8 @@ I have to try hard too.)");
     ChEye(5,4);
     VoicePlay("S120500002_05_040");
     MsgDisp("Hiiragi","The Gods are taking in all the wishes of
-Habataki's residents, I guess it's hard
-for them this time of year as well.");
+Habataki's residents, I guess it's hard for
+them this time of year as well.");
     MsgDisp("主人公","Yeah.
 There were so many people this year, too.");
     ChEye(5,0);
@@ -90,8 +89,7 @@ I prayed to graduate properly with you.");
     ChEye(5,4);
     VoicePlay("S120500002_05_120");
     MsgDisp("Hiiragi","The shrine was really crowded this year.
-It's sad to think that this is the last
-year.");
+It's sad to think that this is the last year.");
     MsgDisp("主人公","Eh?");
     ChEye(5,2);
     ChMouth(5,4);

@@ -28,8 +28,8 @@ I have plans with a patron of the troupe.");
     ChMotion(5,4);
     VoicePlay("F010500006_05_020");
     MsgDisp("Hiiragi","Yes.
-Whenever I talk to you, I never fail to
-enjoy it.");
+Whenever I talk to you, I never fail to enjoy
+it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -58,9 +58,9 @@ Ha, what am I saying?");
     BGMStop();
     ChClose(5);
     ChEyeOpenLevel(5,#1);
-    MsgDisp("主人公","(Sounds like a lot of work for
-｛Hiiragi＊＊＊｝. It can't be helped. I'll go
-home alone.)");
+    MsgDisp("主人公","(Sounds like a lot of work for ｛Hiiragi＊＊＊｝.
+It can't be helped.
+I'll go home alone.)");
     break ;
     default :
     DbgAssert(1);

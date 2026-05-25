@@ -1,8 +1,8 @@
 BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah. It's ｛ひかる＊｝ and
-｛みちる＊｝.)");
+MsgDisp("主人公","(Ah.
+It's ｛ひかる＊｝ and ｛みちる＊｝.)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1);
@@ -42,9 +42,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230001_22_030");
-MsgDisp("Hikaru","Hi～ Mari♪
-We're playing guess the character bento
-again today.");
+MsgDisp("Hikaru","Hi～
+Mari♪ We're playing guess the character
+bento again today.");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,0,1);
@@ -56,9 +56,8 @@ ChMouth(22,5);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F102230001_22_040");
-MsgDisp("Hikaru","You know, it was a swan with a short
-neck... what was the red thing on its
-head?");
+MsgDisp("Hikaru","You know, it was a swan with a short neck...
+what was the red thing on its head?");
 ChEye(21,1);
 ChMouth(21,4);
 ChMotion(21,2,1);

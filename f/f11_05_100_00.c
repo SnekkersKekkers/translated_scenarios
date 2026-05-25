@@ -6,15 +6,13 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("F110510000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you enjoying the
-festival?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you enjoying the festival?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F110510000_05_010");
 MsgDisp("Hiiragi","Yes.
-I was permitted to work the information
-desk.");
+I was permitted to work the information desk.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -22,8 +20,7 @@ VoicePlay("F110510000_05_020");
 MsgDisp("Hiiragi","The student council has been alternating
 jobs, and the information desk was open.");
 MsgDisp("主人公","You need to take a break, you know?
-If not, your body won't be able to handle
-it.");
+If not, your body won't be able to handle it.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -35,15 +32,14 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F110510000_05_040");
-MsgDisp("Hiiragi","It is my responsibility to guide people,
-and I have been checking the stalls as
-well.");
+MsgDisp("Hiiragi","It is my responsibility to guide people, and
+I have been checking the stalls as well.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F110510000_05_050");
-MsgDisp("Hiiragi","There are more yakisoba stands than what
-we have on record.");
+MsgDisp("Hiiragi","There are more yakisoba stands than what we
+have on record.");
 MsgDisp("主人公","Have you been counting?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -76,10 +72,9 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
 VoicePlay("F110510000_05_090");
-MsgDisp("Hiiragi","My apologies, I have not studied the
-sweets options enough.
+MsgDisp("Hiiragi","My apologies, I have not studied the sweets
+options enough.
 Yakisoba is my specialty.");
-MsgDisp("主人公","(Haha, he's the yakisoba information
-clerk!)");
+MsgDisp("主人公","(Haha, he's the yakisoba information clerk!)");
 MsgClose();
 ScrFadeOut(0,0);

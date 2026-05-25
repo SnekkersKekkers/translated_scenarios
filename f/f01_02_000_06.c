@@ -42,8 +42,9 @@ I'll go straight home today.)");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("F010200006_02_030");
-    MsgDisp("Sassa","Sorry, I can't go with you. I really need
-to budget my allowance better...");
+    MsgDisp("Sassa","Sorry, I can't go with you.
+I really need to budget my allowance
+better...");
     MsgDisp("主人公","Hehe.
 Well, next time.
 When you have a lot of pocket money.");
@@ -57,8 +58,7 @@ I'll head straight home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(As expected, I'll walk home alone
-today...)");
+    MsgDisp("主人公","(As expected, I'll walk home alone today...)");
     break ;
     default :
     DbgAssert(1);

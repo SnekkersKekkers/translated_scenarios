@@ -14,8 +14,8 @@ Welcome!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_000");
-    MsgDisp("Kazama","Well don't you look just like the daughter
-of a dango-shop owner?");
+    MsgDisp("Kazama","Well don't you look just like the daughter of
+a dango-shop owner?");
     MsgDisp("主人公","Hehe, the uniform is cute, isn't it?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -42,15 +42,14 @@ restaurants?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I550100000_01_040");
-    MsgDisp("Kazama","If you're the face of the shop, I can get
-why it'd thrive.");
+    MsgDisp("Kazama","If you're the face of the shop, I can get why
+it'd thrive.");
     MsgDisp("主人公","Really?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_050");
-    MsgDisp("Kazama","Just don't throw your charm around too
-much.
+    MsgDisp("Kazama","Just don't throw your charm around too much.
 Well, see ya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -77,8 +76,8 @@ Will you be taking it home?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_080");
-    MsgDisp("Kazama","Yeah, I'll be eating it on the porch with
-my grandpa.");
+    MsgDisp("Kazama","Yeah, I'll be eating it on the porch with my
+grandpa.");
     ChEye(1,4);
     ChMouth(1,4);
     ChMotion(1,4);
@@ -93,9 +92,9 @@ But, I'm working right now...");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I550100000_01_100");
-    MsgDisp("Kazama","So you can't come. I think grandpa would
-be happy to see you dressed like this, so
-I'll bring him next time.");
+    MsgDisp("Kazama","So you can't come. I think grandpa would be
+happy to see you dressed like this, so I'll
+bring him next time.");
     MsgDisp("主人公","Hehe, okay.
 Please come with him next time, then.");
     ChEye(1,0);
@@ -131,8 +130,7 @@ please.");
     SEWait();
     Wait(40);
     VoicePlay("I550100000_46_000");
-    MsgDisp("Clerk","Ah, that person is...the young master,
-right?
+    MsgDisp("Clerk","Ah, that person is...the young master, right?
 Is he your friend?");
     MsgDisp("主人公","Um...ah, yes.
 He's my classmate.");
@@ -141,8 +139,7 @@ He's my classmate.");
     MsgClose();
     ChOpen(1,255,0,4,3,#1,#1,0,0);
     VoicePlay("I550100000_01_140");
-    MsgDisp("Kazama","...Nice to meet you, I'm her classmate
-Ryota.");
+    MsgDisp("Kazama","...Nice to meet you, I'm her classmate Ryota.");
     MsgClose();
     ScrFadeOut(0);
     ChEye(1,0);

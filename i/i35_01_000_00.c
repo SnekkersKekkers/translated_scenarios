@@ -18,9 +18,9 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("I350100000_01_010");
-    MsgDisp("Kazama","I'm in the middle of a shift at Simon's,
-too. The manager asked me to get a cake
-for a customer.");
+    MsgDisp("Kazama","I'm in the middle of a shift at Simon's, too.
+The manager asked me to get a cake for a
+customer.");
     MsgDisp("主人公","So, you want takeout.
 Order received.");
     ChEye(1,0);
@@ -46,8 +46,8 @@ See you later.");
     SEWait();
     SEPlay("EV_SE_DOOR_014");
     MsgDisp("主人公","(Hm?
-Come to think of it, there's a cake shop
-near Simon's...)");
+Come to think of it, there's a cake shop near
+Simon's...)");
     break ;
     case 3:
     SEPlay("EV_SE_DOOR_014");
@@ -83,7 +83,8 @@ Then, please have a seat here.");
     VoicePlay("I350100000_01_050");
     MsgDisp("Kazama","It's too bad, but time's up.
 It's time for me to go.");
-    MsgDisp("主人公","Huh∈ Already∋");
+    MsgDisp("主人公","Huh∈
+Already∋");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,4);
@@ -111,8 +112,9 @@ See you.");
     ChClose(1,0,30);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(｛Kazama＊＊｝ came all this way to check
-on me. I'm so happy!)");
+    MsgDisp("主人公","(｛Kazama＊＊｝ came all this way to check on
+me.
+I'm so happy!)");
     break ;
     case 4:
     case 5:
@@ -128,8 +130,8 @@ on me. I'm so happy!)");
 Is that you, ｛Kazama＊＊｝?");
     VoicePlay("I350100000_01_100");
     MsgDisp("Kazama","Correct.
-There would've been a penalty for getting
-it wrong, you know.");
+There would've been a penalty for getting it
+wrong, you know.");
     MsgDisp("主人公","Hehe.
 What is it all of a sudden?");
     VoicePlay("I350100000_01_110");
@@ -195,8 +197,7 @@ It was just for a moment?");
     ChClose(1);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","...Wait, ｛Kazama＊＊｝, you forgot the
-cake!");
+    MsgDisp("主人公","...Wait, ｛Kazama＊＊｝, you forgot the cake!");
     break ;
     default :
     DbgAssert(1);

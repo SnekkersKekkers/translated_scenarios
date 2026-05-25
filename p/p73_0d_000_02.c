@@ -22,8 +22,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P730D00002_21_010");
-MsgDisp("Michiru","It's totally a culimation of your hard
-work.
+MsgDisp("Michiru","It's totally a culimation of your hard work.
 The best finish.");
 ChEye(22,3);
 ChMouth(22,3);
@@ -57,8 +56,7 @@ you!
 You won't be nervous like that, right?");
 MsgDisp("主人公","Hehe.
 The, I'm off!");
-MsgDisp("主人公","(This is my last fashion show of high
-school!
+MsgDisp("主人公","(This is my last fashion show of high school!
 I absolutely have to make this a success!)");
 MsgClose();
 ScrFadeOut(0,0);

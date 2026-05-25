@@ -1,8 +1,7 @@
 BGOpen("sc609",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Next week is the clean-up campaign
-week...)");
+MsgDisp("主人公","(Next week is the clean-up campaign week...)");
 MsgClose();
 ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
@@ -16,13 +15,13 @@ VoicePlay("G110500701_05_000");
 MsgDisp("Hiiragi","Next, you'll be in charge of the
 cleanup-campaign.");
 MsgDisp("主人公","Yes.
-Come to think of it ｛Hiiragi＊＊＊｝ seemed to
-be having a lot of fun last time.");
+Come to think of it ｛Hiiragi＊＊＊｝ seemed to be
+having a lot of fun last time.");
 SEStop("EV_SE_712",0);
 ChMotion(5,2);
 VoicePlay("G110500701_05_010");
-MsgDisp("Hiiragi","Yes, I got taught some fun greetings
-during the beautification campaign.");
+MsgDisp("Hiiragi","Yes, I got taught some fun greetings during
+the beautification campaign.");
 ChMouth(5,1);
 ChMotion(5,0);
 SEPlay("EV_SE_712",1,0.7,1);
@@ -37,11 +36,11 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500701_05_030");
-MsgDisp("Hiiragi","That's right, when I say this greeting I
-get to hear your laugh.");
+MsgDisp("Hiiragi","That's right, when I say this greeting I get
+to hear your laugh.");
 MsgDisp("主人公","Yes.
-It's something guys often say but it's
-kind of funny when ｛Hiiragi＊＊＊｝ says it.");
+It's something guys often say but it's kind
+of funny when ｛Hiiragi＊＊＊｝ says it.");
 ChMouth(5,1);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
@@ -61,8 +60,8 @@ ChEyeOpenLevel(5,9);
 SEPlay("EV_SE_712");
 VoicePlay("G110500701_05_050");
 MsgDisp("Hiiragi","Is that so...
-When I just get to hear you laugh, I'm
-happy for some reason.");
+When I just get to hear you laugh, I'm happy
+for some reason.");
 ChMotion(5,2);
 ChCheek(5,0);
 SEStop("EV_SE_712",0);

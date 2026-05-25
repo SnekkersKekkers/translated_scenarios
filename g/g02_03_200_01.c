@@ -7,8 +7,8 @@ MsgDisp("主人公","Eh?");
 ChSet(3,0);
 VoicePlay("G020320001_03_010");
 MsgDisp("Honda","When I was a kid, I sometimes thought it
-would be nice to be as fast as some other
-kid in a race, but—");
+would be nice to be as fast as some other kid
+in a race, but—");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
@@ -27,8 +27,8 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320001_03_040");
 MsgDisp("Honda","...Yeah, maybe.
-But the tricky part is that I also like
-that person.");
+But the tricky part is that I also like that
+person.");
 MsgDisp("主人公","That's complicated, huh?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -40,8 +40,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320001_03_060");
-MsgDisp("Honda","I want to support the person I'm jealous
-of and also see them happy.");
+MsgDisp("Honda","I want to support the person I'm jealous of
+and also see them happy.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
@@ -51,14 +51,14 @@ MsgDisp("主人公","｛Honda＊＊｝...");
 ChSet(3,3);
 VoicePlay("G020320001_03_080");
 MsgDisp("Honda","But this is the first time in my life I've
-encountered something that makes me feel
-so conflicted and hurt.");
+encountered something that makes me feel so
+conflicted and hurt.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("G020320001_03_090");
-MsgDisp("Honda","My chest tightens, but trying to figure
-out why is also kind of exciting for me.");
+MsgDisp("Honda","My chest tightens, but trying to figure out
+why is also kind of exciting for me.");
 MsgDisp("主人公","(It hurts, but he seems excited...?
 Only ｛Honda＊＊｝ could have such a unique
 perspective.)");

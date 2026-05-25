@@ -24,9 +24,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F100320000_02_010");
-MsgDisp("Sassa","Iku listened to me very attentively about
-the differences in training for each of
-the eight sports.");
+MsgDisp("Sassa","Iku listened to me very attentively about the
+differences in training for each of the eight
+sports.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -67,8 +67,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 ChPosition(3,0);
-MsgDisp("主人公","｛Honda＊＊｝, are you interested in track
-and field?");
+MsgDisp("主人公","｛Honda＊＊｝, are you interested in track and
+field?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -81,8 +81,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("F100320000_03_050");
-MsgDisp("Honda","Looks like his motivation went up for
-today.
+MsgDisp("Honda","Looks like his motivation went up for today.
 It was mostly thanks to you.");
 ChSet(3,0);
 VoicePlay("F100320000_03_060");

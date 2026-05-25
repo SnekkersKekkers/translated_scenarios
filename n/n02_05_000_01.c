@@ -24,8 +24,8 @@ You got an impressive ranking.");
 No, I can't even see you from there.");
     ChEye(5,0);
     VoicePlay("N020500001_05_030");
-    MsgDisp("Hiiragi","I'll work hard enough to at least see
-where you are.
+    MsgDisp("Hiiragi","I'll work hard enough to at least see where
+you are.
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -40,21 +40,21 @@ I'll study a bit harder!)");
     ChOpen(5,254,0,4,0,#1,#1,0,0);
     VoicePlay("N020500001_05_040");
     MsgDisp("Hiiragi","Impressive.
-It's faster to find you if you count from
-the top.");
+It's faster to find you if you count from the
+top.");
     MsgDisp("主人公","Umm, well, I did my best!");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("N020500001_05_050");
-    MsgDisp("Hiiragi","Wow. But...If I'm being honest, you're
-fully capable of doing even better, aren't
-you?");
+    MsgDisp("Hiiragi","Wow.
+But... If I'm being honest, you're fully
+capable of doing even better, aren't you?");
     MsgDisp("主人公","Huh.");
     ChMotion(5,0);
     VoicePlay("N020500001_05_060");
-    MsgDisp("Hiiragi","You may not know it yourself. But I know.
-Come on, it's obvious that you have some
-energy left in you.");
+    MsgDisp("Hiiragi","You may not know it yourself.
+But I know. Come on, it's obvious that you
+have some energy left in you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
@@ -85,9 +85,9 @@ try harder.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("N020500001_05_100");
-    MsgDisp("Hiiragi","Haha...I'm good at motivating people. I
-got it. I'll just do my best by standing
-next to you.");
+    MsgDisp("Hiiragi","Haha...
+I'm good at motivating people. I got it.
+I'll just do my best by standing next to you.");
     MsgDisp("主人公","(Yeah, I'll keep doing my best too!)");
     MsgClose();
     ScrFadeOut(0,0);

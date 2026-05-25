@@ -23,9 +23,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P540400003_04_020");
-MsgDisp("Nanatsumori","It seemed like a lot of people were
-looking forward to it, so the venue was
-buzzing.");
+MsgDisp("Nanatsumori","It seemed like a lot of people were looking
+forward to it, so the venue was buzzing.");
 MsgDisp("主人公","(Haa...
 I should have practiced more properly...)");
 MsgClose();

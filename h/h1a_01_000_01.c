@@ -31,8 +31,8 @@ Thanks.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H1A0100001_01_030");
-    MsgDisp("Kazama","Come on, keep your head up, and get back
-to being yourself.
+    MsgDisp("Kazama","Come on, keep your head up, and get back to
+being yourself.
 Everyone's waiting for you.");
     MsgDisp("主人公","...Yeah.
 Thanks, ｛Kazama＊＊｝.");
@@ -52,8 +52,7 @@ We lost...");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("H1A0100001_01_050");
-    MsgDisp("Kazama","It's fine if you want to cry, just for
-today.");
+    MsgDisp("Kazama","It's fine if you want to cry, just for today.");
     MsgDisp("主人公","Yeah...");
     ChEyeOpenLevel(1,0);
     Wait(8,0);
@@ -68,14 +67,12 @@ today.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H1A0100001_01_070");
-    MsgDisp("Kazama","It shows how much effort you put into
-this.");
+    MsgDisp("Kazama","It shows how much effort you put into this.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("H1A0100001_01_080");
-    MsgDisp("Kazama","I'm jealous of the guys in the baseball
-club.");
+    MsgDisp("Kazama","I'm jealous of the guys in the baseball club.");
     MsgDisp("主人公","Yeah...");
     ChEye(1,4);
     ChMouth(1,3);

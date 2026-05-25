@@ -16,8 +16,8 @@ switch (ChPrmGet(6,6)){
     VoicePlay("I460600001_06_000");
     MsgDisp("Himuro","You're right.
 Maybe it wasn't watered enough.");
-    MsgDisp("主人公","Should we check the other flowers and
-report to the manager?");
+    MsgDisp("主人公","Should we check the other flowers and report
+to the manager?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,3);
@@ -41,8 +41,7 @@ better.");
     ChMotion(6,0);
     VoicePlay("I460600001_06_020");
     MsgDisp("Himuro","They're a pro.");
-    MsgDisp("主人公","I wonder if we can learn that technique,
-too?");
+    MsgDisp("主人公","I wonder if we can learn that technique, too?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);

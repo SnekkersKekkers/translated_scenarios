@@ -9,8 +9,9 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     VoicePlay("X110400000_04_000");
-    MsgDisp("Nanatsumori","Yo. I heard the baseball team won the
-practice game. Congratulations.");
+    MsgDisp("Nanatsumori","Yo.
+I heard the baseball team won the practice
+game. Congratulations.");
     MsgDisp("主人公","｛Nanatsumori＊｝, thank you!");
     MsgDisp("主人公","(Yeah, I'm a baseball manager.
 I'm glad I did my best ...!)");
@@ -20,17 +21,17 @@ I'm glad I did my best ...!)");
     VoiceEVSPlay(4);
     VoicePlay("X110400000_04_010");
     MsgDisp("Nanatsumori","｛主人公｝, congrats.
-I heard you won the baseball team's
-practice game.");
+I heard you won the baseball team's practice
+game.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 That's right!");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("X110400000_04_020");
-    MsgDisp("Nanatsumori","The guys in the club were all \"thanks to
-the manager.\" They were so happy and
-smiling. It's kind of frustrating ...");
+    MsgDisp("Nanatsumori","The guys in the club were all \"thanks to the
+manager.\" They were so happy and smiling.
+It's kind of frustrating ...");
     MsgDisp("主人公","(Is ｛Nanatsumori＊｝ jealous?
 But I'm glad to hear your praise!)");
     break ;

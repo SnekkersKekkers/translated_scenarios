@@ -70,8 +70,7 @@ Can I open 'er up right here?");
     ChOpen(8,35,3,0,5,#1,#1,4,0);
     VoicePlay("K010800100_08_060");
     MsgDisp("Shirahane","...! \nW-What's the matter?");
-    MsgDisp("主人公","Today is your birthday, right,
-｛Daichi＊＊｝?
+    MsgDisp("主人公","Today is your birthday, right, ｛Daichi＊＊｝?
 I brought you a present.");
     SEPlay("EV_SE_664");
     SEWait();

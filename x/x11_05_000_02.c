@@ -5,9 +5,9 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500002_05_000");
-    MsgDisp("Hiiragi","The match was so heated, it didn't seem
-like a practice match, right? This is the
-result of your daily discipline.");
+    MsgDisp("Hiiragi","The match was so heated, it didn't seem like
+a practice match, right?
+This is the result of your daily discipline.");
     MsgDisp("主人公","Hehe, thank you!");
     MsgDisp("主人公","(I'm glad I won...!)");
     break ;
@@ -23,8 +23,8 @@ immensely beautiful.");
     MsgDisp("主人公","Hehe, thank you!");
     ChEye(5,4);
     VoicePlay("X110500002_05_020");
-    MsgDisp("Hiiragi","Daily practice speaks for itself. You
-looked so dignified in your judo uniform,
+    MsgDisp("Hiiragi","Daily practice speaks for itself.
+You looked so dignified in your judo uniform,
 with your back perfectly straight.");
     MsgDisp("主人公","(Yay!
 I was praised by ｛Hiiragi＊＊＊｝)");

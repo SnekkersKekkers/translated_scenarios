@@ -11,8 +11,7 @@ switch (ChPrmGet(3,6)){
 This is handmade, right?");
     ChMotion(3,4);
     VoicePlay("L040300005_03_010");
-    MsgDisp("Honda","Then is this topping something that you
-like?");
+    MsgDisp("Honda","Then is this topping something that you like?");
     MsgDisp("主人公","What?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -61,7 +60,8 @@ You gave it to me, so I'll give it a try.");
     VoicePlay("L040300005_03_070");
     MsgDisp("Honda","Yeah, I can tell from how it looks.
 But, did you have some trouble?");
-    MsgDisp("主人公","? No, not really?");
+    MsgDisp("主人公","?
+No, not really?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0);
@@ -73,8 +73,8 @@ Then it's fine!");
     ChMotion(3,4);
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300005_03_090");
-    MsgDisp("Honda","I'm just happy to get handmade chocolate
-from you!");
+    MsgDisp("Honda","I'm just happy to get handmade chocolate from
+you!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -82,8 +82,8 @@ from you!");
     MsgDisp("Honda","Then, I'll savor this, okay?
 Thanks!");
     MsgDisp("主人公","(...?
-I wonder if there was something in it that
-he didn't like...)");
+I wonder if there was something in it that he
+didn't like...)");
     break ;
     default :
     DbgAssert(1);

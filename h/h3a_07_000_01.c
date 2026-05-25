@@ -27,8 +27,8 @@ Were you watching properly?");
     ChMotion(7,1);
     VoicePlay("H3A0700001_07_020");
     MsgDisp("Mikage","To me, you don't look like a loser.
-Seems to me like you're strong, beautiful
-and the winner of a fair fight.");
+Seems to me like you're strong, beautiful and
+the winner of a fair fight.");
     MsgDisp("主人公","Hic...
 ｛Mikage＊＊｝...");
     ChEye(7,2);

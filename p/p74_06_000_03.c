@@ -23,14 +23,13 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P740600003_06_020");
 MsgDisp("Himuro","Let bygones be bygones?
-Even if you regret it now, it won't fix
-it.");
+Even if you regret it now, it won't fix it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P740600003_06_030");
-MsgDisp("Himuro","Just accept that you did everything that
-you could?");
+MsgDisp("Himuro","Just accept that you did everything that you
+could?");
 MsgDisp("主人公","Yeah...");
 MsgDisp("主人公","(｛Himuro＊＊｝...
 That's right, I failed, but I need to get

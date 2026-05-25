@@ -35,8 +35,7 @@ I have to study harder!)");
     ChEye(5,4);
     VoicePlay("N020500003_05_030");
     MsgDisp("Hiiragi","You are too kind.
-You don't have to be so concerned about
-me.");
+You don't have to be so concerned about me.");
     MsgDisp("主人公","Umm, well...");
     ChEye(5,2);
     ChMouth(5,2);
@@ -46,8 +45,8 @@ me.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("N020500003_05_050");
-    MsgDisp("Hiiragi","Getting into Haba High is impressive
-enough on its own.
+    MsgDisp("Hiiragi","Getting into Haba High is impressive enough
+on its own.
 It's okay.");
     ChMotion(5,4);
     VoicePlay("N020500003_05_060");

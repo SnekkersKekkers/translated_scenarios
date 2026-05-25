@@ -21,8 +21,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("S110300001_03_020");
-MsgDisp("Honda","If you have very bad luck, you will be
-more cautious to avoid small disasters.
+MsgDisp("Honda","If you have very bad luck, you will be more
+cautious to avoid small disasters.
 So keep it in mind and keep safe.");
 MsgDisp("主人公","(｛Honda＊＊｝'s mother sounds amazing.
 She even turns Bad Luck into a positive

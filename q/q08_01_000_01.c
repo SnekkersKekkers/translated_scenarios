@@ -13,8 +13,7 @@ switch (ChPrmGet(1,6)){
 It was such a nice place.");
     VoicePlay("Q080100001_01_000");
     MsgDisp("Kazama","Yes, it was.
-And even your reaction was a ten out of
-ten.");
+And even your reaction was a ten out of ten.");
     MsgDisp("主人公","Hehe, thanks.");
     ChEye(1,0);
     ChMouth(1,0);
@@ -70,9 +69,9 @@ Wanna spend the next one together too?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q080100001_01_080");
-    MsgDisp("Kazama","Alright, we're going for an even better
-day! You've got to be ready for it. See
-you back here.");
+    MsgDisp("Kazama","Alright, we're going for an even better day!
+You've got to be ready for it.
+See you back here.");
     break ;
     case 4:
     case 5:
@@ -99,25 +98,23 @@ I'm happy I asked you, ｛Kazama＊＊｝.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q080100001_01_110");
-    MsgDisp("Kazama","Wanna spend the next free period
-together...?");
+    MsgDisp("Kazama","Wanna spend the next free period together...?");
     MsgDisp("主人公","Sure...!
 I'm so happy.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("Q080100001_01_120");
-    MsgDisp("Kazama","Yeah. School trips are so much fun, aren't
-they? We don't have this kind of thing in
-the UK.");
+    MsgDisp("Kazama","Yeah.
+School trips are so much fun, aren't they?
+We don't have this kind of thing in the UK.");
     MsgDisp("主人公","Oh yeah, it's the first time for you,
 ｛Kazama＊＊｝.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q080100001_01_130");
-    MsgDisp("Kazama","Yes, and it would be meaningless without
-you.
+    MsgDisp("Kazama","Yes, and it would be meaningless without you.
 Right?");
     MsgDisp("主人公","...Maybe, yeah.");
     ChEye(1,0);

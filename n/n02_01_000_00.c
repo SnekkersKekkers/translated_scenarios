@@ -45,7 +45,8 @@ myself.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100000_01_040");
-    MsgDisp("Kazama","That attitude. Now I like it even less.");
+    MsgDisp("Kazama","That attitude.
+Now I like it even less.");
     MsgDisp("主人公","Hehe, sorry.
 I really gave it my all.");
     ChEyeOpenLevel(1,0);
@@ -55,8 +56,8 @@ I really gave it my all.");
     ChMotion(1,0);
     VoicePlay("N020100000_01_050");
     MsgDisp("Kazama","Then allow me to compliment you.
-Just know, I'll be working really hard
-next time.");
+Just know, I'll be working really hard next
+time.");
     MsgDisp("主人公","(Hehe, I did it!
 ｛Kazama＊＊｝ praised me!)");
     break ;
@@ -82,9 +83,9 @@ I'm happy for you too.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("N020100000_01_080");
-    MsgDisp("Kazama","You know, you've always been deeply
-invested in what you do. Do your best, but
-don't push yourself too hard.");
+    MsgDisp("Kazama","You know, you've always been deeply invested
+in what you do. Do your best, but don't push
+yourself too hard.");
     MsgDisp("主人公","Hehe, yeah.
 Thank you.");
     ChEye(1,0);

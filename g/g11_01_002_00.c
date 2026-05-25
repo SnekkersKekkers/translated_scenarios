@@ -65,8 +65,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G110100200_01_050");
-MsgDisp("Kazama","I'll invite you next time when things
-aren't so hectic.");
+MsgDisp("Kazama","I'll invite you next time when things aren't
+so hectic.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

@@ -7,8 +7,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220000_02_010");
-MsgDisp("Sassa","So, look, I know that I'm not the one
-closest to you.");
+MsgDisp("Sassa","So, look, I know that I'm not the one closest
+to you.");
 MsgDisp("主人公","What...");
 ChEye(2,0);
 ChMouth(2,0);
@@ -31,8 +31,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220000_02_050");
-MsgDisp("Sassa","Though normally I'm the type to take the
-lead and keep it.");
+MsgDisp("Sassa","Though normally I'm the type to take the lead
+and keep it.");
 MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,0);

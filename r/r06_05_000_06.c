@@ -20,8 +20,9 @@ I think?)");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("R060500006_05_010");
-    MsgDisp("Hiiragi","Hm. I think anyone would be happy with
-this gift. Thank you.");
+    MsgDisp("Hiiragi","Hm.
+I think anyone would be happy with this gift.
+Thank you.");
     MsgDisp("主人公","(Hmm, he seems happy with my gift...
 I think?)");
     break ;

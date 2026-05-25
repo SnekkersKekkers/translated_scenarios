@@ -17,8 +17,8 @@ switch (ChPrmGet(5,6)){
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Are you going on a trip?");
     VoicePlay("I650500000_05_010");
-    MsgDisp("Hiiragi","Yes, I am visiting a patron who is
-situated quite far away.");
+    MsgDisp("Hiiragi","Yes, I am visiting a patron who is situated
+quite far away.");
     MsgDisp("主人公","Seems tough...");
     ChEye(5,4);
     ChMotion(5,4);
@@ -33,8 +33,8 @@ You've been working hard up until now.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(It must be hard on ｛Hiiragi＊＊＊｝, having
-to travel far even at this hour...)");
+    MsgDisp("主人公","(It must be hard on ｛Hiiragi＊＊＊｝, having to
+travel far even at this hour...)");
     break ;
     case 3:
     SEPlay("EV_SE_658");
@@ -59,8 +59,7 @@ well?");
     MsgDisp("Hiiragi","Yes, if it was practice or rehearsals it
 would not be a problem at all, but...");
     VoicePlay("I650500000_43_000");
-    MsgDisp("Troupe","Chairman, if we don't hurry, we'll be
-late.");
+    MsgDisp("Troupe","Chairman, if we don't hurry, we'll be late.");
     ChEye(5,0);
     ChMotion(5,4,1);
     ChEyeOpenLevel(5,#1);
@@ -90,8 +89,7 @@ worries for a bit.)");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I650500000_05_080");
-    MsgDisp("Hiiragi","｛主人公｝, you're working hard again
-today.");
+    MsgDisp("Hiiragi","｛主人公｝, you're working hard again today.");
     MsgDisp("主人公","Oh, ｛Hiiragi＊＊＊｝, did you walk here?");
     ChEye(5,3);
     ChMotion(5,4);

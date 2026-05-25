@@ -26,10 +26,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("P640700002_07_030");
-MsgDisp("Mikage","I also don't have to worry about the
-freshly harvested vegetables. Just looking
-from here, I can see that they're glossy
-and beautiful.");
+MsgDisp("Mikage","I also don't have to worry about the freshly
+harvested vegetables. Just looking from here,
+I can see that they're glossy and beautiful.");
 MsgDisp("主人公","Thank you very much!");
 ChEye(7,2);
 ChMouth(7,0);
@@ -39,8 +38,7 @@ MsgDisp("Mikage","Haa...
 I want to buy some to take home, but I'll
 hold back.");
 MsgDisp("主人公","(Yay, ｛Mikage＊＊｝ praised me!
-I'm glad I gave it my all in
-preparations!)");
+I'm glad I gave it my all in preparations!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

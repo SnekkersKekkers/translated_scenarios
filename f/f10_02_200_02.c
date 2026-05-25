@@ -18,16 +18,15 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("F100220002_05_000");
 MsgDisp("Hiiragi","Yes, the hot springs club.
-But it's already in danger of closing
-down.");
+But it's already in danger of closing down.");
 MsgDisp("主人公","Eh, why?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("F100220002_02_010");
-MsgDisp("Sassa","I talked to Mikage-sensei about it. I said
-I wanted to go to a hot spring with club
-funds. He laughed, but it seems difficult.");
+MsgDisp("Sassa","I talked to Mikage-sensei about it. I said I
+wanted to go to a hot spring with club funds.
+He laughed, but it seems difficult.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -39,8 +38,8 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("F100220002_02_020");
-MsgDisp("Sassa","First, we have to present an annual
-activity plan.");
+MsgDisp("Sassa","First, we have to present an annual activity
+plan.");
 MsgDisp("主人公","I see...
 You're both really busy...");
 ChEye(5,2);
@@ -49,16 +48,16 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("F100220002_05_020");
 MsgDisp("Hiiragi","Yes, I have student council too.
-Theater work is often unpredictable,
-so it seems difficult for me.");
+Theater work is often unpredictable, so it
+seems difficult for me.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("F100220002_02_030");
 MsgDisp("Sassa","Me too.
-I'm sorry to say this, but it looks like
-the hot spring club is disbanded.");
+I'm sorry to say this, but it looks like the
+hot spring club is disbanded.");
 MsgDisp("主人公","Yeah, it can't be helped.");
 ChEye(2,2);
 ChMouth(2,2);
@@ -73,9 +72,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("F100220002_02_050");
-MsgDisp("Sassa","That's right! We can't go to the hot
-springs, but why don't we all go to the
-heated swimming pool?");
+MsgDisp("Sassa","That's right!
+We can't go to the hot springs, but why don't
+we all go to the heated swimming pool?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

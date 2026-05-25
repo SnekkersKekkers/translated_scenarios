@@ -24,17 +24,17 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F020200005_02_020");
-MsgDisp("Sassa","Well, that's fine. Maybe I'm calm because
-I've already given up. I can struggle, but
-nothing will change much.");
-MsgDisp("主人公","But what if you crammed the night before
-and those exact topics showed up?");
+MsgDisp("Sassa","Well, that's fine.
+Maybe I'm calm because I've already given up.
+I can struggle, but nothing will change much.");
+MsgDisp("主人公","But what if you crammed the night before and
+those exact topics showed up?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,5);
 VoicePlay("F020200005_02_030");
-MsgDisp("Sassa","Wait, do you have any info on what'll be
-on the test∋");
+MsgDisp("Sassa","Wait, do you have any info on what'll be on
+the test∋");
 MsgDisp("主人公","No clue...");
 ChEye(2,2);
 ChMouth(2,4);

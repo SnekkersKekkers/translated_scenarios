@@ -13,8 +13,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F022100003_21_010");
-MsgDisp("Michiru","If you walk backwards down the aisle and
-turn around when you reach the altar...");
+MsgDisp("Michiru","If you walk backwards down the aisle and turn
+around when you reach the altar...");
 MsgDisp("主人公","When I turn around...?");
 ChSet(21,3);
 VoicePlay("F022100003_21_020");
@@ -35,7 +35,6 @@ VoicePlay("F022100003_21_040");
 MsgDisp("Michiru","But...
 I might want to give it a try.");
 MsgDisp("主人公","(｛みちる＊｝, that seems fun!
-This seems like a rumour girls would
-like?)");
+This seems like a rumour girls would like?)");
 MsgClose();
 ScrFadeOut(0,0);

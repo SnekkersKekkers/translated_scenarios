@@ -18,9 +18,9 @@ It was a good match.");
 We lost.");
     ChEye(5,0);
     VoicePlay("H1A0500001_05_010");
-    MsgDisp("Hiiragi","Even so, the resounding applause was
-louder for the Haba High Nine, compared to
-the winning team.");
+    MsgDisp("Hiiragi","Even so, the resounding applause was louder
+for the Haba High Nine, compared to the
+winning team.");
     MsgDisp("主人公","Hm?");
     ChMotion(5,4);
     VoicePlay("H1A0500001_05_020");

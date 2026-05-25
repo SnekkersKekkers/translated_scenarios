@@ -35,14 +35,14 @@ I did it!)");
     VoicePlay("N020700000_07_030");
     MsgDisp("Mikage","Well done.
 Thanks to you, I'm in a great mood too.");
-    MsgDisp("主人公","｛Mikage＊＊｝, it makes me happy that
-you feel that way.");
+    MsgDisp("主人公","｛Mikage＊＊｝, it makes me happy that you
+feel that way.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("N020700000_07_040");
-    MsgDisp("Mikage","Hey, being too good of a student can have
-its downsides too.
+    MsgDisp("Mikage","Hey, being too good of a student can have its
+downsides too.
 Don't push yourself too hard.");
     MsgDisp("主人公","(｛Mikage＊＊｝ praised me!
 I'll do my best next time too.)");
@@ -71,15 +71,15 @@ class.");
     ChMotion(7,0);
     VoicePlay("N020700000_07_070");
     MsgDisp("Mikage","Hey...you're smart, so you probably know
-this, but enjoying yourself during your
-high school years is important too.");
+this, but enjoying yourself during your high
+school years is important too.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("N020700000_07_080");
     MsgDisp("Mikage","Don't work yourself too hard.
-Try getting the top rank while taking it
-ea～ sy next time.");
+Try getting the top rank while taking it ea～
+sy next time.");
     MsgDisp("主人公","Huh?");
     ChEye(7,0);
     ChMouth(7,3);

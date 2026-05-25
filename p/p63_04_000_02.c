@@ -33,16 +33,15 @@ the by the Gardening Club!");
     ChMotion(4,0,1);
     VoicePlay("P630400002_04_020");
     MsgDisp("Nanatsumori","Ehhh.
-The Gardening Club evolve each year,
-huh...");
+The Gardening Club evolve each year, huh...");
     MsgDisp("主人公","If you'd like, how about I recommend
 something on the menu to you?");
     VoicePlay("P630400002_04_030");
     MsgDisp("Nanatsumori","Yeah.
 Then, I guess I'll stop by.");
     MsgDisp("主人公","Certainly.
-Then an organically grown salad and herb
-tea please!");
+Then an organically grown salad and herb tea
+please!");
     break ;
     case 4:
     case 5:
@@ -73,8 +72,8 @@ cafe!");
 Then the herbs and vegetables are from the
 gardening club?");
     MsgDisp("主人公","That's right.
-The vegetables are organic, so it's gentle
-on your body▼");
+The vegetables are organic, so it's gentle on
+your body▼");
     ChEye(4,4);
     ChMouth(4,3);
     ChCheek(4,5);

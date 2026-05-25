@@ -50,8 +50,9 @@ ChOpen(5,100,0,0,1,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 VoicePlay("G110500400_05_030");
-MsgDisp("Hiiragi","Yes. It's really just a hobby. I'm bad
-with computers but I still like it.");
+MsgDisp("Hiiragi","Yes.
+It's really just a hobby.
+I'm bad with computers but I still like it.");
 MsgDisp("主人公","Hehe, don't overwork yourself.");
 ChEye(5,1);
 ChMouth(5,1);
@@ -61,8 +62,9 @@ Wait(10,0);
 ChEyeOpenLevel(5,12);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500400_05_040");
-MsgDisp("Hiiragi","You too. ...Or, so I'd like to say. But I
-don't think there's any need to worry.");
+MsgDisp("Hiiragi","You too.
+...Or, so I'd like to say.
+But I don't think there's any need to worry.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMouth(5,1);
@@ -72,9 +74,9 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500400_05_050");
-MsgDisp("Hiiragi","Because, when I see you, you're calmly
-facing the canvas. Or happily hanging out
-with the Hanatsubaki twins──");
+MsgDisp("Hiiragi","Because, when I see you, you're calmly facing
+the canvas. Or happily hanging out with the
+Hanatsubaki twins──");
 VoicePlay("G110500400_05_060");
 MsgDisp("Hiiragi","You're good at going in between your own
 world and the world outside.");
@@ -89,22 +91,22 @@ VoicePlay("G110500400_05_070");
 MsgDisp("Hiiragi","That's a great thing.
 I easily lose track of what's outside.");
 MsgDisp("主人公","Though...
-My paintings and ｛Hiiragi＊＊＊｝ 's work
-can't just be lumped in as the same?");
+My paintings and ｛Hiiragi＊＊＊｝ 's work can't
+just be lumped in as the same?");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500400_05_080");
-MsgDisp("Hiiragi","And just like that, you're concerned for
-my welfare again.");
+MsgDisp("Hiiragi","And just like that, you're concerned for my
+welfare again.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
 SEPlay("EV_SE_712");
 VoicePlay("G110500400_05_090");
-MsgDisp("Hiiragi","It's quite difficult to simultaneously
-devote yourself to art and consider those
-around you.");
+MsgDisp("Hiiragi","It's quite difficult to simultaneously devote
+yourself to art and consider those around
+you.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you.
 But, when you say that...");
 ChEye(5,1);

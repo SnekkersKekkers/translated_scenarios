@@ -20,9 +20,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F112110002_21_020");
-MsgDisp("Michiru","During preparation for this year's
-festival, I read a lot of romance manga
-and watched dramas. I built a tolerance.");
+MsgDisp("Michiru","During preparation for this year's festival,
+I read a lot of romance manga and watched
+dramas. I built a tolerance.");
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F112110002_21_030");
@@ -40,8 +40,8 @@ ChMotion(21,2);
 ChEyeOpenLevel(21,0);
 ChCheek(21,5);
 VoicePlay("F112110002_21_050");
-MsgDisp("Michiru","But, those manga and dramas...they were
-good stories.
+MsgDisp("Michiru","But, those manga and dramas...they were good
+stories.
 Just remembering it makes my face hot.");
 ChEye(21,5);
 ChMouth(21,4);

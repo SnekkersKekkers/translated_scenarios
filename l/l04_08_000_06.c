@@ -71,9 +71,9 @@ Thanks, ｛主人公｝.");
     ChMouth(8,3);
     ChMotion(8,2,1);
     VoicePlay("L040800006_08_080");
-    MsgDisp("Shirahane","See, the toppings must be nice on their
-own. If I eat 'em little by little, it
-might be alright.");
+    MsgDisp("Shirahane","See, the toppings must be nice on their own.
+If I eat 'em little by little, it might be
+alright.");
     MsgDisp("主人公","(｛Daichi＊＊｝ is so nice...
 But, I wish I had tried harder...)");
     break ;

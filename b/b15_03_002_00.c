@@ -13,8 +13,8 @@ MsgDisp("Honda","Remember when I asked you to teach me some
 skinship techniques before?");
 VoicePlay("B150300200_03_020");
 MsgDisp("Honda","I thought that maybe the reason it felt so
-good was because you're really good at
-it—at least, that was my hypothesis.");
+good was because you're really good at it—at
+least, that was my hypothesis.");
 MsgDisp("主人公","Y-Yeah?");
 ChEye(3,0);
 ChMotion(3,0,1);

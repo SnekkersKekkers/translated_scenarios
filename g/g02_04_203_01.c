@@ -44,8 +44,8 @@ MsgDisp("主人公","Huh∋");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020420301_04_060");
-MsgDisp("Nanatsumori","Seriously, I'm going to lose my mind if
-you get even cuter...");
+MsgDisp("Nanatsumori","Seriously, I'm going to lose my mind if you
+get even cuter...");
 MsgDisp("主人公","?");
 ChEye(4,4);
 ChMouth(4,4);
@@ -63,8 +63,7 @@ ChCheek(4,10);
 VoicePlay("G020420301_04_080");
 MsgDisp("Nanatsumori","Ach...
 I told you not to look at me like that!");
-MsgDisp("主人公","(｛Nanatsumori＊｝, why is your face so
-red?)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, why is your face so red?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

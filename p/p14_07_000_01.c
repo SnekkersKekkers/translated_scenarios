@@ -18,9 +18,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P140700001_07_020");
-MsgDisp("Mikage","Don't make that face. I'll help out, make
-some adjustments during the break and
-increase the difficulty.");
+MsgDisp("Mikage","Don't make that face.
+I'll help out, make some adjustments during
+the break and increase the difficulty.");
 MsgDisp("主人公","(Ugh...
 I should have prepared more properly...)");
 MsgClose();

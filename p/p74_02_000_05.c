@@ -2,8 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I fell...even though it was my last
-show...)");
+MsgDisp("主人公","(I fell...even though it was my last show...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -41,9 +40,9 @@ ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("P740200005_02_040");
 MsgDisp("Sassa","It'll definitely come!");
-MsgDisp("主人公","(｛Sassa＊＊｝...? But, I worked hard for
-three years for this day, so I wanted to
-make it a success...)");
+MsgDisp("主人公","(｛Sassa＊＊｝...?
+But, I worked hard for three years for this
+day, so I wanted to make it a success...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

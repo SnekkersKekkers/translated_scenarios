@@ -3,7 +3,7 @@ BGOpen("sc745",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P240D00000_47_000");
-MsgDisp("Opponent","I detest it...I detest those happy
+MsgDisp("Opponent","I detest it... I detest those happy
 couples～! I'll interrupt their dates, and
 ruin their love lives!");
 VoicePlay("P240D00000_22_000");
@@ -16,11 +16,12 @@ ChOpen(21,38,1,0,4,#1,#1,0,1);
 SEPlay("EV_SE_544");
 ChOpen(22,38,0,0,3,#1,#1,0,2);
 VoicePlay("P240D00000_21_000");
-MsgDisp("Michiru","You interfere with people's love lives,
-you should be kicked by a horse!");
+MsgDisp("Michiru","You interfere with people's love lives, you
+should be kicked by a horse!");
 VoicePlay("P240D00000_47_020");
 MsgDisp("Opponent","Curse you!
-\"Flora Angels\" Stop interfering～ ∈");
+\"Flora Angels\" Stop interfering～
+∈");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -72,8 +73,8 @@ MsgDisp("Hikaru","We'll break them right away!");
 MsgDisp("主人公","We'll always be the warriors of love!");
 VoicePlay("P240D00000_47_040");
 MsgDisp("Opponent","Ugh, this light...! the huge bomb is
-disappearing...! Ah, I feel my heart
-filling up with love...");
+disappearing...!
+Ah, I feel my heart filling up with love...");
 SEPlay("EV_SE_809",0,0.8);
 SEWait();
 ChEye(22,3);
@@ -95,9 +96,8 @@ SEPlay("EV_SE_GAYA_021");
 Wait(160,0);
 VoicePlay("P240D00000_49_000");
 MsgDisp("Narrator","And so, the lovers in this town were
-protected. But their fight continues...
-until the Flora Angels find love
-themselves.");
+protected. But their fight continues... until
+the Flora Angels find love themselves.");
 ChEye(22,4);
 ChMouth(22,1);
 ChMotion(22,4,1);
@@ -112,8 +112,8 @@ ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("P240D00000_21_050");
 MsgDisp("Michiru","No way, that's embarrassing...");
-MsgDisp("主人公","(I didn't know that's how it ended...no
-one told me!)");
+MsgDisp("主人公","(I didn't know that's how it ended...no one
+told me!)");
 SEStop("EV_SE_GAYA_006",1);
 BGMStop();
 SEStop("EV_SE_GAYA_028",1);

@@ -10,22 +10,21 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_010");
 MsgDisp("Himuro","I've been trying not to think about it all
-day, but even now, I can't get it out of
-my head.");
+day, but even now, I can't get it out of my
+head.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_020");
-MsgDisp("Himuro","Every single thing you do makes me
-doubtful.");
+MsgDisp("Himuro","Every single thing you do makes me doubtful.");
 MsgDisp("主人公","Doubtful...?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_030");
 MsgDisp("Himuro","It's about Nozomu-senpai.
-You're getting...along with him now,
-aren't you?");
+You're getting...along with him now, aren't
+you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -64,10 +63,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_090");
-MsgDisp("Himuro","In a way, he might be my complete
-opposite. His manners are good, he's
-sociable, good with people, honest...and
-cool.");
+MsgDisp("Himuro","In a way, he might be my complete opposite.
+His manners are good, he's sociable, good
+with people, honest...and cool.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -86,22 +84,21 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_120");
-MsgDisp("Himuro","Being the opposite means that I have
-things that Nozomu-senpai doesn't have.");
+MsgDisp("Himuro","Being the opposite means that I have things
+that Nozomu-senpai doesn't have.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620200_06_130");
-MsgDisp("Himuro","The fact that you're here with me now
-means that I still have a chance, right?");
+MsgDisp("Himuro","The fact that you're here with me now means
+that I still have a chance, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_140");
-MsgDisp("Himuro","The one thing I share with Nozomu-senpai
-is my competitiveness.");
-MsgDisp("主人公","(｛Himuro＊＊｝ your expression is
-serious...)");
+MsgDisp("Himuro","The one thing I share with Nozomu-senpai is
+my competitiveness.");
+MsgDisp("主人公","(｛Himuro＊＊｝ your expression is serious...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

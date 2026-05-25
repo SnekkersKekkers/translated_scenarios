@@ -38,15 +38,15 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F122200000_22_030");
 MsgDisp("Hikaru","Hikaru?
-Hikaru wants Mari's chocolate, but that
-goes to the guy in her heart, right?");
+Hikaru wants Mari's chocolate, but that goes
+to the guy in her heart, right?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F122200000_22_040");
-MsgDisp("Hikaru","Both Sis and Hikaru will give it
-their all to help Mari!");
+MsgDisp("Hikaru","Both Sis and Hikaru will give it their all to
+help Mari!");
 MsgDisp("主人公","(Right, Valentine's Day is coming up...)");
 MsgClose();
 ScrFadeOut(0,0);

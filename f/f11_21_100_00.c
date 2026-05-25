@@ -35,8 +35,8 @@ ChMouth(21,4);
 ChMotion(21,4);
 ChCheek(21,10);
 VoicePlay("F112110000_21_050");
-MsgDisp("Michiru","They were exchanging super bittersweet
-words, and my heart couldn't stop beating.
+MsgDisp("Michiru","They were exchanging super bittersweet words,
+and my heart couldn't stop beating.
 Ahh, what should I do?");
 MsgDisp("主人公","(｛みちる＊｝'s face is bright red even
 though it wasn't about her...

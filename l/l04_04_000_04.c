@@ -30,7 +30,8 @@ He seemed happy!)");
     ChMotion(4,0);
     VoicePlay("L040400004_04_020");
     MsgDisp("Nanatsumori","The handmade one came.");
-    MsgDisp("主人公","Yeah. I tried making it to your liking,
+    MsgDisp("主人公","Yeah.
+I tried making it to your liking,
 ｛Nanatsumori＊｝. How is it?");
     ChEye(4,0);
     ChMouth(4,3);
@@ -61,9 +62,9 @@ I did my best so you'd like it,
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("L040400004_04_050");
-    MsgDisp("Nanatsumori","I see. Then you're right on the money.
-I like this kind of decoration.
-You got it.");
+    MsgDisp("Nanatsumori","I see.
+Then you're right on the money.
+I like this kind of decoration. You got it.");
     MsgDisp("主人公","Because it's ｛Nanatsumori＊｝, you know?");
     ChEye(4,0);
     ChMouth(4,3);
@@ -76,9 +77,9 @@ You've got me all figured out, huh?");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("L040400004_04_070");
-    MsgDisp("Nanatsumori","What? That smile.
-My heart is pounding...
-Thanks.");
+    MsgDisp("Nanatsumori","What?
+That smile.
+My heart is pounding... Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

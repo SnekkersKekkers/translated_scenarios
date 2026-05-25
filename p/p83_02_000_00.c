@@ -8,8 +8,8 @@ switch (ChPrmGet(2,6)){
     BGOpen("sc710",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Phew—, that was heavy. In case of
-emergency, a fire extinguishing bucket has
-to be placed in front of each classroom.)");
+emergency, a fire extinguishing bucket has to
+be placed in front of each classroom.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -19,8 +19,8 @@ to be placed in front of each classroom.)");
     MsgDisp("Sassa","｛主人公｝.
 How come you're sweating that much?");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
-I was carrying some buckets with water in
-it for extinguishing fires.");
+I was carrying some buckets with water in it
+for extinguishing fires.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -44,8 +44,8 @@ Hey, which classroom too next?");
     BGOpen("sc710",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Phew—, that was heavy. In case of
-emergency, a fire extinguishing bucket has
-to be placed in front of each classroom.)");
+emergency, a fire extinguishing bucket has to
+be placed in front of each classroom.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -61,8 +61,8 @@ But...");
     ChMotion(2,3);
     VoicePlay("P830200000_02_040");
     MsgDisp("Sassa","Even though it's the student council
-committee, you still have to do this kind
-of manual labour huh...");
+committee, you still have to do this kind of
+manual labour huh...");
     MsgDisp("主人公","Yeah, it's overall management so it can be
 anything.");
     ChEye(2,0);
@@ -91,9 +91,9 @@ things, tell me.");
     ChMotion(2,3);
     ChCheek(2,0);
     VoicePlay("P830200000_02_080");
-    MsgDisp("Sassa","Oh, you laughed. Then, I'll carry the
-rest. If you have any more manual labour,
-tell me.");
+    MsgDisp("Sassa","Oh, you laughed.
+Then, I'll carry the rest.
+If you have any more manual labour, tell me.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();

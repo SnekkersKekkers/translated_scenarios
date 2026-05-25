@@ -13,8 +13,7 @@ The smell of the yakisoba stand next door
 quite strong, it's bothering us....");
     MsgDisp("主人公","Eh?");
     VoicePlay("P830200002_48_010");
-    MsgDisp("School Girl","It's ruining the flavour of our matcha
-stand.");
+    MsgDisp("School Girl","It's ruining the flavour of our matcha stand.");
     MsgDisp("主人公","Ah, yes.
 Please avoid complaining to them directly.
 Management will talk to them.");
@@ -28,11 +27,11 @@ Management will talk to them.");
     ChOpen(2,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P830200002_02_000");
-    MsgDisp("Sassa","｛主人公｝, it must be difficult to be in
-the student council, huh?");
+    MsgDisp("Sassa","｛主人公｝, it must be difficult to be in the
+student council, huh?");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
-That is also an important part of
-management work, so it's alright.");
+That is also an important part of management
+work, so it's alright.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);
@@ -61,8 +60,7 @@ The smell of the yakisoba stand next door
 quite strong, it's bothering us....");
     MsgDisp("主人公","Eh?");
     VoicePlay("P830200002_48_040");
-    MsgDisp("School Girl","It's ruining the flavour of our matcha
-stand.");
+    MsgDisp("School Girl","It's ruining the flavour of our matcha stand.");
     MsgDisp("主人公","Ah, yes.
 Please avoid complaining to them directly.
 Management will talk to them.");
@@ -89,26 +87,24 @@ helped.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("P830200002_02_050");
-    MsgDisp("Sassa","I see. I came carelessly to invite you to
-hang out, but that seems like it'll be
-difficult.");
+    MsgDisp("Sassa","I see.
+I came carelessly to invite you to hang out,
+but that seems like it'll be difficult.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("P830200002_02_060");
     MsgDisp("Sassa","There's a quarrel right?
 I'm free, so I'll help you.");
-    MsgDisp("主人公","Thank you. but ｛Sassa＊＊｝ won't be able
-to enjoy the cultural festival?");
+    MsgDisp("主人公","Thank you. but ｛Sassa＊＊｝ won't be able to
+enjoy the cultural festival?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P830200002_02_070");
-    MsgDisp("Sassa","If I'm with you, I would enjoy even a
-fight.");
-    MsgDisp("主人公","(It'd be troubling if you enjoyed that
-but...If ｛Sassa＊＊｝ is there, that's
-reassuring!)");
+    MsgDisp("Sassa","If I'm with you, I would enjoy even a fight.");
+    MsgDisp("主人公","(It'd be troubling if you enjoyed that but...
+If ｛Sassa＊＊｝ is there, that's reassuring!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

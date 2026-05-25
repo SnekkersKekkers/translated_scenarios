@@ -18,8 +18,8 @@ Ah, ｛Hiiragi＊＊＊｝.");
     ChCheek(5,5);
     VoicePlay("I550500000_05_010");
     MsgDisp("Hiiragi","Hello.
-I had received some delicious karinto
-manju from this store as a gift...");
+I had received some delicious karinto manju
+from this store as a gift...");
     VoicePlay("I550500000_05_020");
     MsgDisp("Hiiragi","Would it happen to still be in stock?");
     MsgDisp("主人公","Yes, so you'll be taking it home.
@@ -38,8 +38,9 @@ How many would you like?");
     MsgDisp("Hiiragi","Ah, I will be getting portions for the
 theater company staff as well.
 Not all of it is for myself.");
-    MsgDisp("主人公","Hehe. Yes, of course. You won't be able to
-finish all that on your own.");
+    MsgDisp("主人公","Hehe.
+Yes, of course. You won't be able to finish
+all that on your own.");
     ChEye(5,3);
     ChMouth(5,2);
     ChMotion(5,0);
@@ -60,8 +61,8 @@ Excuse me.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, so you're going to be
-eating it all by yourself...)");
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, so you're going to be eating
+it all by yourself...)");
     break ;
     case 3:
     MsgClose();
@@ -91,8 +92,8 @@ fugashi?");
 It is as though I can already feel its
 deliciousness in my mouth.");
     MsgDisp("主人公","Hehe.
-I'll bring it to your seat, so please wait
-a little.");
+I'll bring it to your seat, so please wait a
+little.");
     MsgClose();
     ScrFadeOut(0,0);
     MsgDisp("","　　　　　　　　　　 ・
@@ -110,12 +111,12 @@ The karinto manju has been surpassed.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("I550500000_05_120");
-    MsgDisp("Hiiragi","The chocolate seeped into the layers of
-the fugashi and hardened there.
+    MsgDisp("Hiiragi","The chocolate seeped into the layers of the
+fugashi and hardened there.
 I'll take 20 to go.");
     MsgDisp("主人公","Thank you for your continued patronage!");
-    MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ really liked
-my recommendation ♪)");
+    MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ really liked my
+recommendation ♪)");
     break ;
     case 4:
     case 5:
@@ -126,8 +127,7 @@ my recommendation ♪)");
     VoicePlay("I550500000_05_130");
     MsgDisp("Hiiragi","Excuse me.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, sorry.
-It's closing time, so there's not much
-left.");
+It's closing time, so there's not much left.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("I550500000_05_140");
@@ -139,9 +139,9 @@ chocolate fugashi.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("I550500000_05_150");
-    MsgDisp("Hiiragi","Indeed. I had wanted to head home with
-you. My rehearsal just finished a few
-minutes ago.");
+    MsgDisp("Hiiragi","Indeed.
+I had wanted to head home with you.
+My rehearsal just finished a few minutes ago.");
     ChEye(5,4);
     ChMouth(5,2);
     VoicePlay("I550500000_05_160");
@@ -155,8 +155,8 @@ confections?");
     ChEyeOpenLevel(5,0);
     VoicePlay("I550500000_05_170");
     MsgDisp("Hiiragi","Haa...this is bad.
-Let us talk at length about this on our
-way back.");
+Let us talk at length about this on our way
+back.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

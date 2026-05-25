@@ -36,8 +36,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100420001_06_010");
 MsgDisp("Himuro","A little.
-It was hard to know when to stop, so I
-ended up not sleeping at all.");
+It was hard to know when to stop, so I ended
+up not sleeping at all.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);

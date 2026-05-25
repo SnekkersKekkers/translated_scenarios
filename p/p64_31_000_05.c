@@ -13,8 +13,8 @@ ChMouth(31,1);
 ChMotion(31,1);
 VoicePlay("P643100005_31_010");
 MsgDisp("Goro","Oh dear.
-I know the vegetables are fresh, but the
-dish needs to be well-finished.");
+I know the vegetables are fresh, but the dish
+needs to be well-finished.");
 MsgDisp("主人公","(Haa...
 I should have been more careful when
 plating...)");

@@ -52,10 +52,9 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("E010720000_04_020");
 MsgDisp("Nanatsumori","Yeah.
-I'm curious about Mikage-sensei's
-hairstyle.");
-MsgDisp("主人公","｛Mikage＊＊｝, you go to that beauty
-salon over there?");
+I'm curious about Mikage-sensei's hairstyle.");
+MsgDisp("主人公","｛Mikage＊＊｝, you go to that beauty salon
+over there?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -73,15 +72,15 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("E010720000_07_060");
 MsgDisp("Mikage","My hair is unique, you know?
-It's a hassle to explain, and there's
-a certain way to treat it.");
+It's a hassle to explain, and there's a
+certain way to treat it.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010720000_04_030");
-MsgDisp("Nanatsumori","Ah—...I totally get it.
-I'm also nervous about having my hair done
-by someone I never met.");
+MsgDisp("Nanatsumori","Ah—...
+I totally get it. I'm also nervous about
+having my hair done by someone I never met.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -106,8 +105,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("E010720000_04_040");
 MsgDisp("Nanatsumori","...So Mikage-sensei used to go to a beauty
-salon. He doesn't really seem like the
-type, does he?");
+salon. He doesn't really seem like the type,
+does he?");
 MsgDisp("主人公","(I like ｛Mikage＊＊｝'s hairstyle.
 I hope he always keeps it that way...)");
 MsgClose();

@@ -30,8 +30,8 @@ VoicePlay("P140D00001_22_010");
 MsgDisp("Hikaru","Hikaru wanted to get lost properly in the
 maze...");
 MsgDisp("主人公","(Ugh...
-I should have made it so that it was fun
-to play...huge mistake...)");
+I should have made it so that it was fun to
+play...huge mistake...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21);

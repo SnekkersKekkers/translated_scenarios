@@ -32,16 +32,16 @@ Xu Xiang's costume fits you.");
     ChMotion(7,2);
     VoicePlay("P230700000_07_020");
     MsgDisp("Mikage","That's not it.
-I accompanied the practices, so I
-memorized the lines though...");
+I accompanied the practices, so I memorized
+the lines though...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P230700000_07_030");
     MsgDisp("Mikage","Is it really okay...?");
-    MsgDisp("主人公","Yes. The only person who remembers the
-lines is ｛Mikage＊＊｝. I look forward
-to working with you!");
+    MsgDisp("主人公","Yes. The only person who remembers the lines
+is ｛Mikage＊＊｝.
+I look forward to working with you!");
     VoicePlay("P230700000_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin
 shortly.");
@@ -51,8 +51,8 @@ shortly.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P230700000_07_040");
-    MsgDisp("Mikage","Yeah, I got it. we can't let everyone's
-hard work until now go to waste...");
+    MsgDisp("Mikage","Yeah, I got it. we can't let everyone's hard
+work until now go to waste...");
     MsgDisp("主人公","Yeah!");
     break ;
     default :

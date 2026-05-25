@@ -10,8 +10,8 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100007_21_000");
-MsgDisp("Michiru","I don't like the heat, but I like looking
-at the sky in the middle of summer.");
+MsgDisp("Michiru","I don't like the heat, but I like looking at
+the sky in the middle of summer.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,2);
@@ -27,10 +27,10 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F022100007_21_020");
 MsgDisp("Michiru","Hehe.
-But, I would probably watch that from a
-cool room.");
-MsgDisp("主人公","Aren't ｛みちる＊｝ and
-｛ひかる＊｝ going abroad on vacation?");
+But, I would probably watch that from a cool
+room.");
+MsgDisp("主人公","Aren't ｛みちる＊｝ and ｛ひかる＊｝
+going abroad on vacation?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,5);
@@ -41,8 +41,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100007_21_040");
-MsgDisp("Michiru","We're on break from school, but we have
-work almost every day.");
+MsgDisp("Michiru","We're on break from school, but we have work
+almost every day.");
 MsgDisp("主人公","(I see.
 Being a model is quite tough...)");
 MsgClose();

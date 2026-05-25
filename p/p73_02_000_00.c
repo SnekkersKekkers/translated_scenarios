@@ -31,16 +31,15 @@ You're amazing, huh?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P730200000_02_020");
-    MsgDisp("Sassa","Then, I'll be cheering you on from the
-front.");
+    MsgDisp("Sassa","Then, I'll be cheering you on from the front.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("P730200000_02_030");
     MsgDisp("Sassa","...How should I cheer you on? 
 \"Do your best!\" is a bit weird...");
-    MsgDisp("主人公","Hehe, it's not a sport, so just clapping
-is fine?");
+    MsgDisp("主人公","Hehe, it's not a sport, so just clapping is
+fine?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -57,8 +56,8 @@ is fine?");
 No, I should be giving you a round of
 applause.");
     MsgDisp("主人公","(Hehe!
-For the sake of ｛Sassa＊＊｝ too, let's do
-our best!)");
+For the sake of ｛Sassa＊＊｝ too, let's do our
+best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);
@@ -77,8 +76,7 @@ I'm nervous..)");
     VoiceEVSPlay(2);
     VoicePlay("P730200000_02_060");
     MsgDisp("Sassa","｛主人公｝.
-How are the preparations or the fashion
-show?");
+How are the preparations or the fashion show?");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
@@ -110,8 +108,8 @@ else model them.");
     VoicePlay("P730200000_02_100");
     MsgDisp("Sassa","So, go with confidence.");
     MsgDisp("主人公","Yeah, thank you!");
-    MsgDisp("主人公","(｛Sassa＊＊｝ gave me courage, I have to
-make this a success!)");
+    MsgDisp("主人公","(｛Sassa＊＊｝ gave me courage, I have to make
+this a success!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

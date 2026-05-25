@@ -1,8 +1,8 @@
 ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I have to move to the science room for
-next class.
+MsgDisp("主人公","(I have to move to the science room for next
+class.
 Let's head there early.)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE");
 MsgClose();
@@ -17,9 +17,9 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,37,0,0,0,#1,#1,0,1,0,30);
 ChOpen(5,254,0,0,4,#1,#1,0,2,0,30);
 VoicePlay("F100720000_05_000");
-MsgDisp("Hiiragi","Ah, so it's you. It is almost time for
-class to start, correct? We were lost in
-conversation.");
+MsgDisp("Hiiragi","Ah, so it's you.
+It is almost time for class to start,
+correct? We were lost in conversation.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -31,8 +31,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720000_05_010");
 MsgDisp("Hiiragi","Yes, I'm very deeply interested.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you interested in
-biology and chemistry?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you interested in biology
+and chemistry?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -53,8 +53,8 @@ ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("F100720000_05_030");
 MsgDisp("Hiiragi","Unfortunately, it's not about biology.
-That blackboard efficiently uses wall
-space. It is an exceptional item.");
+That blackboard efficiently uses wall space.
+It is an exceptional item.");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(60,0);
 ChEye(5,0);
@@ -81,8 +81,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("F100720000_07_030");
-MsgDisp("Mikage","Yeah, when he smiles, I can't help but
-feel a sense of relief.");
+MsgDisp("Mikage","Yeah, when he smiles, I can't help but feel a
+sense of relief.");
 MsgDisp("主人公","Yeah.
 Since ｛Hiiragi＊＊＊｝ always looks so busy.");
 ChEye(7,0);
@@ -95,8 +95,8 @@ MsgDisp("主人公","Ehh?");
 ChEye(7,0);
 ChMouth(7,3);
 VoicePlay("F100720000_07_050");
-MsgDisp("Mikage","We should make a sliding blackboard for
-our class, too, right?");
+MsgDisp("Mikage","We should make a sliding blackboard for our
+class, too, right?");
 BGMStop();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -104,8 +104,8 @@ ChClose(7);
 Wait(60,0);
 SEPlay("EV_SE_666",1,0.6);
 Wait(60,0);
-MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ wasn't asking about
-the lesson, but the blackboard.
+MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ wasn't asking about the
+lesson, but the blackboard.
 ｛Mikage＊＊｝ is so kind.)");
 SEStop("EV_SE_666");
 MsgClose();

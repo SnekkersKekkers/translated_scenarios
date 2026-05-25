@@ -35,14 +35,14 @@ MsgDisp("Hiiragi","No, I like doing things even if I'm bad at
 them. I like sitting here doing student
 council work.");
 MsgDisp("主人公","I see.
-Isn't it difficult when you're also busy
-with the theater company?");
+Isn't it difficult when you're also busy with
+the theater company?");
 SEStop("EV_SE_712",0);
 ChMotion(5,2);
 VoicePlay("G110500800_05_030");
 MsgDisp("Hiiragi","No.
-I just want to feel like I'm of help to
-Haba High.");
+I just want to feel like I'm of help to Haba
+High.");
 SEPlay("EV_SE_712",0,0.7,0.8);
 ChMotion(5,0);
 VoicePlay("G110500800_05_040");
@@ -59,8 +59,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,12);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500800_05_050");
-MsgDisp("Hiiragi","Just hearing you say that is a
-relief...Thank you.");
+MsgDisp("Hiiragi","Just hearing you say that is a relief...
+Thank you.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
@@ -68,9 +68,9 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
-MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ ispushing
-himself too hard after all...Even if it's
-just a little, I want to help him.)");
+MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ ispushing himself
+too hard after all... Even if it's just a
+little, I want to help him.)");
 BGMStop();
 SEStop("EV_SE_712",1);
 MsgClose();

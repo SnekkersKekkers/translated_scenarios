@@ -10,8 +10,8 @@ MsgDisp("主人公","｛Hiiragi＊＊＊｝!
 Thank you!");
 ChEye(5,4);
 VoicePlay("X210500000_05_010");
-MsgDisp("Hiiragi","There is no one more fitting for this
-title than you in this school.");
+MsgDisp("Hiiragi","There is no one more fitting for this title
+than you in this school.");
 MsgDisp("主人公","It's kind of embarrassing.");
 ChEye(5,0);
 VoicePlay("X210500000_05_020");
@@ -25,9 +25,9 @@ MsgDisp("主人公","What's wrong?");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("X210500000_05_040");
-MsgDisp("Hiiragi","I wonder why. It has no relation to me,
-but I'm feeling proud myself. It's
-strange, isn't it.");
+MsgDisp("Hiiragi","I wonder why.
+It has no relation to me, but I'm feeling
+proud myself. It's strange, isn't it.");
 MsgDisp("主人公","Hehe, thank you.
 For being that happy for me.");
 ChEye(5,4);
@@ -46,8 +46,8 @@ students in the school share the same
 values as me, right?");
 ChMotion(5,0);
 VoicePlay("X210500000_05_070");
-MsgDisp("Hiiragi","I feel like I'm finally a student here,
-and not just a customer.
+MsgDisp("Hiiragi","I feel like I'm finally a student here, and
+not just a customer.
 I wonder if that's one of your charms too.");
 MsgDisp("主人公","Erm, thank you.
 But, you're praising me too much.");
@@ -56,8 +56,8 @@ ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("X210500000_05_080");
 MsgDisp("Hiiragi","Was today enough proof?
-The consensus of all the students, says
-that you're the best.");
+The consensus of all the students, says that
+you're the best.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...thank you.");
 MsgClose();
 ScrFadeOut(0,0);

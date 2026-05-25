@@ -4,8 +4,8 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I failed...
-Even though it was the last performance of
-my high school life...)");
+Even though it was the last performance of my
+high school life...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
@@ -51,8 +51,8 @@ MsgDisp("主人公","No, thank you.
 ChEye(1,4);
 ChMouth(1,3);
 MsgDisp("主人公","(I failed though...
-The fact that I'm this frustrated is proof
-of how hard I worked these three years...)");
+The fact that I'm this frustrated is proof of
+how hard I worked these three years...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

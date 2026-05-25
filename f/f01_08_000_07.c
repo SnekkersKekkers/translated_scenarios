@@ -68,8 +68,8 @@ Haha!");
         ChMouth(8,0);
         ChMotion(8,2,1);
         VoicePlay("F010800007_08_060");
-        MsgDisp("Shirahane","Y'know, this...it feels a little
-luxurious, right?");
+        MsgDisp("Shirahane","Y'know, this...it feels a little luxurious,
+right?");
         break ;
         default :
         DbgAssert(1);
@@ -130,8 +130,8 @@ Well, another time.");
         ChClose(8,0,30);
         Wait(30);
         MsgDisp("主人公","(Right...
-He went to the trouble of inviting me, but
-it just wasn't right...)");
+He went to the trouble of inviting me, but it
+just wasn't right...)");
         break ;
         case 4:
         case 5:
@@ -156,8 +156,8 @@ In that case, be careful on yer way home.");
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(8,0,30);
-        MsgDisp("主人公","(He went to the trouble of waiting for me,
-so I feel bad...)");
+        MsgDisp("主人公","(He went to the trouble of waiting for me, so
+I feel bad...)");
         break ;
         default :
         DbgAssert(1);

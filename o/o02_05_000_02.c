@@ -37,12 +37,11 @@ But it was a tie.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("O020500002_05_030");
-    MsgDisp("Hiiragi","Is that so? In terms of art, your team is
-victorious. Your side profile was powerful
-and dignified.");
+    MsgDisp("Hiiragi","Is that so?
+In terms of art, your team is victorious.
+Your side profile was powerful and dignified.");
     MsgDisp("主人公","(In terms of art??
-Tug of war isn't about that kind of
-thing...)");
+Tug of war isn't about that kind of thing...)");
     break ;
     default :
     DbgAssert(1);

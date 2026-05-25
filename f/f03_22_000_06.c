@@ -18,8 +18,8 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F032200000_22_260");
-MsgDisp("Hikaru","That's why the classes with serious
-teachers are hard...");
+MsgDisp("Hikaru","That's why the classes with serious teachers
+are hard...");
 MsgDisp("主人公","Ahaha...");
 ChEye(22,0);
 ChMouth(22,0);
@@ -33,8 +33,9 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F032200000_22_280");
-MsgDisp("Hikaru","Ah～ Hikaru wishes they would always do
-that for the first 30 minutes.");
+MsgDisp("Hikaru","Ah～
+Hikaru wishes they would always do that for
+the first 30 minutes.");
 MsgDisp("主人公","(Then, the lesson wouldn't progress at
 all...)");
 BGMStop();

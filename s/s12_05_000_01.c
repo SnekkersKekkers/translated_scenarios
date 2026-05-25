@@ -18,12 +18,12 @@ switch (ChPrmGet(5,6)){
 What are you doing later?");
     ChMotion(5,4);
     VoicePlay("S120500000_05_060");
-    MsgDisp("Hiiragi","We will have a New Year's show soon, so
-maybe some rehearsals and meetings, among
-other things?");
+    MsgDisp("Hiiragi","We will have a New Year's show soon, so maybe
+some rehearsals and meetings, among other
+things?");
     MsgDisp("主人公","Eh, no way∋
-I guess maybe today wasn't the best time
-to visit the shrine...?");
+I guess maybe today wasn't the best time to
+visit the shrine...?");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("S120500000_05_070");
@@ -48,8 +48,7 @@ It was fun to pray with you.");
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for taking me.
-｛Hiiragi＊＊＊｝, what are you doing after
-this?");
+｛Hiiragi＊＊＊｝, what are you doing after this?");
     ChMotion(5,4);
     VoicePlay("S120500000_05_130");
     MsgDisp("Hiiragi","There will be a New Year's show soon, so
@@ -68,9 +67,9 @@ together with you helped me recharge.");
     ChEye(5,3);
     ChMotion(5,3);
     VoicePlay("S120500000_05_150");
-    MsgDisp("Hiiragi","Thank you. I guess this means the New
-Year's show will be a success? Okay then,
-Happy New Years.");
+    MsgDisp("Hiiragi","Thank you.
+I guess this means the New Year's show will
+be a success? Okay then, Happy New Years.");
     MsgDisp("主人公","The same to you!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

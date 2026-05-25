@@ -23,8 +23,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130100_01_030");
 MsgDisp("Kazama","I swear the number's increased recently.
-...Though, well, one of them might
-be me.");
+...Though, well, one of them might be me.");
 MsgDisp("主人公","Um, weren't you talking about fireflies?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -37,9 +36,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020130100_01_050");
-MsgDisp("Kazama","I normally put up with it, since I figure
-I'm special, but...to be honest, it
-worries me.");
+MsgDisp("Kazama","I normally put up with it, since I figure I'm
+special, but...to be honest, it worries me.");
 MsgDisp("主人公","｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -50,15 +48,14 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020130100_01_070");
-MsgDisp("Kazama","No matter how many fireflies are around
-you, the one at your side at the end will
-be me.");
+MsgDisp("Kazama","No matter how many fireflies are around you,
+the one at your side at the end will be me.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020130100_01_080");
-MsgDisp("Kazama","That's the one thing I won't let anyone
-else have.");
+MsgDisp("Kazama","That's the one thing I won't let anyone else
+have.");
 MsgDisp("主人公","(｛Kazama＊＊｝'s expression is really
 serious...)");
 BGMStop();

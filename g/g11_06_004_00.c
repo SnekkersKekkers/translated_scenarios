@@ -61,22 +61,22 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600400_06_060");
-MsgDisp("Himuro","Then, this is not the time to be gentle or
-to dote on you.");
+MsgDisp("Himuro","Then, this is not the time to be gentle or to
+dote on you.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600400_06_070");
-MsgDisp("Himuro","Besides, do you know how dangerous the
-ocean is?
+MsgDisp("Himuro","Besides, do you know how dangerous the ocean
+is?
 You could get swept out by a wave.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600400_06_080");
-MsgDisp("Himuro","If you can only swim half-heartedly,
-you'll grow careless. Therefore it's
-better to become a careful swimmer.");
+MsgDisp("Himuro","If you can only swim half-heartedly, you'll
+grow careless. Therefore it's better to
+become a careful swimmer.");
 MsgDisp("主人公","I-I understand...
 I'll do my best.");
 ChEye(6,0);

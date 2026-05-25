@@ -69,9 +69,9 @@ You won't make me forget it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(My heart is racing...Like ｛Honda＊＊｝
-says, I want to spend the rest of my high
-school life without regrets!)");
+    MsgDisp("主人公","(My heart is racing...
+Like ｛Honda＊＊｝ says, I want to spend the
+rest of my high school life without regrets!)");
     break ;
     case 4:
     case 5:
@@ -94,8 +94,9 @@ All the things I have to do.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("S120300005_03_090");
-    MsgDisp("Honda","Yeah. I can see my destination. Even if I
-don't know if I can get there just yet.");
+    MsgDisp("Honda","Yeah.
+I can see my destination. Even if I don't
+know if I can get there just yet.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -107,7 +108,8 @@ And you, I guess?");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("S120300005_03_110");
-    MsgDisp("Honda","Yeah. There's still some time left until
+    MsgDisp("Honda","Yeah.
+There's still some time left until
 graduation. So I'm thinking about it.");
     ChEye(3,4);
     ChMouth(3,3);

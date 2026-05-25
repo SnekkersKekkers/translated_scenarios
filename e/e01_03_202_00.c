@@ -7,10 +7,10 @@ VoicePlay("E010320200_06_000");
 MsgDisp("Himuro?","Ohhh.
 So Iku-senpai is good at Shogi too.");
 VoicePlay("E010320200_03_000");
-MsgDisp("Honda?","Back when I was in elementary school I
-would play against my Dad on Sundays.");
-MsgDisp("主人公","｛Honda＊＊｝, ｛Himuro＊＊｝, what are you guys
-up to?");
+MsgDisp("Honda?","Back when I was in elementary school I would
+play against my Dad on Sundays.");
+MsgDisp("主人公","｛Honda＊＊｝, ｛Himuro＊＊｝, what are you guys up
+to?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,1,0,30);
@@ -45,17 +45,17 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("E010320200_03_020");
 MsgDisp("Honda","Really?
-Isn't Shogi better when it's played face
-to face against people?");
-MsgDisp("主人公","Ah, it would be interesting to watch the
-two of you compete.");
+Isn't Shogi better when it's played face to
+face against people?");
+MsgDisp("主人公","Ah, it would be interesting to watch the two
+of you compete.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("E010320200_06_040");
 MsgDisp("Himuro","I won't be doing that.
-You only say that because you didn't get
-to see that old man's confusion earlier.");
+You only say that because you didn't get to
+see that old man's confusion earlier.");
 VoicePlay("E010320200_06_050");
 MsgDisp("Himuro","Alright, I'll leave here.");
 MsgClose();
@@ -70,8 +70,8 @@ MsgDisp("Honda","Ehh∋
 Why?
 Let's play at school next time!");
 VoicePlay("E010320200_06_060");
-MsgDisp("Himuro","If we make it a rule to not talk during
-the game, I'll consider it.
+MsgDisp("Himuro","If we make it a rule to not talk during the
+game, I'll consider it.
 But that's impossible for you, right?");
 ChEye(3,0);
 ChMouth(3,4);
@@ -86,9 +86,9 @@ VoicePlay("E010320200_03_050");
 MsgDisp("Honda","Banning talking is no fun.
 That old man seemed to be having fun
 listening to me too...");
-MsgDisp("主人公","(｛Himuro＊＊｝ is probably avoiding
-｛Honda＊＊｝ because all the chatter makes
-it hard for him to concentrate?)");
+MsgDisp("主人公","(｛Himuro＊＊｝ is probably avoiding ｛Honda＊＊｝
+because all the chatter makes it hard for him
+to concentrate?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

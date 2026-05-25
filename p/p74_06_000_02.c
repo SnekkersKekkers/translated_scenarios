@@ -17,9 +17,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("P740600002_06_010");
-MsgDisp("Himuro","What did you think? It seemed like
-everyone was completely captivated. I'd
-like to hear your thoughts on that.");
+MsgDisp("Himuro","What did you think? It seemed like everyone
+was completely captivated.
+I'd like to hear your thoughts on that.");
 MsgDisp("主人公","(Yay!
 A huge success!)");
 MsgClose();

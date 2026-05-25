@@ -4,8 +4,8 @@ SEWait();
 VoicePlay("I220000000_42_000");
 MsgDisp("Manager","Thank you for calling.
 This is Habataki Books.");
-MsgDisp("主人公","I'm calling about your help wanted ad for
-the part-time job opening...");
+MsgDisp("主人公","I'm calling about your help wanted ad for the
+part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

@@ -16,8 +16,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("S110200001_02_010");
-MsgDisp("Sassa","It says \"The person you're waiting for
-won't come\".
+MsgDisp("Sassa","It says \"The person you're waiting for won't
+come\".
 What does that mean?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -30,7 +30,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("S110200001_02_030");
 MsgDisp("Sassa","That's right. And I didn't wait for you, I
-went to your house and picked you up. It's
-completely wrong.");
+went to your house and picked you up.
+It's completely wrong.");
 MsgDisp("主人公","(｛Sassa＊＊｝ is waiting for me...
 Hehe, somehow that makes me feel happy.)");

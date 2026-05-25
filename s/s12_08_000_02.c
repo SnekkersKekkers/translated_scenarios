@@ -33,8 +33,9 @@ fortune to each other～!");
     ChMotion(8,3);
     ChEyeOpenLevel(8,0);
     VoicePlay("S120800002_08_020");
-    MsgDisp("Shirahane","Haa! I was able to make a lot of wishes
-this year. I feel relieved.");
+    MsgDisp("Shirahane","Haa!
+I was able to make a lot of wishes this year.
+I feel relieved.");
     MsgDisp("主人公","Did you ask for many things?");
     ChEye(8,3);
     ChMouth(8,3);
@@ -53,8 +54,8 @@ Let me walk you back.");
     ChEyeOpenLevel(8,10);
     VoicePlay("S120800002_08_040");
     MsgDisp("Shirahane","...Is it all over now?");
-    MsgDisp("主人公","Have you finished everything you wanted to
-do for our shrine visit?");
+    MsgDisp("主人公","Have you finished everything you wanted to do
+for our shrine visit?");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,2,1);
@@ -66,8 +67,8 @@ do for our shrine visit?");
     ChMotion(8,4,1);
     VoicePlay("S120800002_08_060");
     MsgDisp("Shirahane","...Oh no.
-New Year's was already such a treat, how
-will I manage for the rest of the year?");
+New Year's was already such a treat, how will
+I manage for the rest of the year?");
     MsgDisp("主人公","???");
     ChEye(8,3);
     ChMouth(8,3);

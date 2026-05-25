@@ -28,15 +28,15 @@ ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("K020301100_03_020");
 MsgDisp("Honda","Did you think I forgot?
-Actually, it was really hard pretending
-that I forgot your birthday.");
+Actually, it was really hard pretending that
+I forgot your birthday.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("K020301100_03_030");
-MsgDisp("Honda","In the end, I came with you all the way
-back to your place, without finding the
-right timing.");
+MsgDisp("Honda","In the end, I came with you all the way back
+to your place, without finding the right
+timing.");
 MsgDisp("主人公","Thank you for being so considerate of me.");
 ChEye(3,3);
 ChMouth(3,3);

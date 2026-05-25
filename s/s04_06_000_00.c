@@ -63,8 +63,8 @@ something wrong...)");
 Happy New Year.");
     MsgDisp("主人公","Happy New Year!");
     VoicePlay("S040600000_06_060");
-    MsgDisp("Himuro","It's good to see you so energetic this
-early in the year.
+    MsgDisp("Himuro","It's good to see you so energetic this early
+in the year.
 By the way, are you free today?");
     MsgSel("Yeah, let's go!","Sorry, I can't...");
     switch (MsgSelRsltGet()){
@@ -82,16 +82,16 @@ I'll come pick you up, so wait for me.");
 I'll come slowly.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(A shrine visit with ｛Himuro＊＊｝ Now what
-to wear?)");
+        MsgDisp("主人公","(A shrine visit with ｛Himuro＊＊｝ Now what to
+wear?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
         case 1:
         VoicePlay("S040600000_06_100");
         MsgDisp("Himuro","Errands or something?
-Just do them another— ...
-No, it's nothing.");
+Just do them another—
+... No, it's nothing.");
         VoicePlay("S040600000_06_110");
         MsgDisp("Himuro","See you later then.");
         MsgDisp("主人公","Yeah, bye...");

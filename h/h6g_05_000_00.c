@@ -12,7 +12,8 @@ ChEye(5,4);
 VoicePlay("H6G0500000_05_010");
 MsgDisp("Hiiragi","I heard that you won an award in the
 gardening club's competition.");
-MsgDisp("主人公","...! You came here to congratulate me?");
+MsgDisp("主人公","...!
+You came here to congratulate me?");
 ChMotion(5,3);
 Wait(20,0);
 ChEye(5,3);
@@ -21,14 +22,14 @@ MsgDisp("Hiiragi","Yes, I practically flew here.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("H6G0500000_05_030");
-MsgDisp("Hiiragi","I see that even plants can feel the
-kindness that you possess.");
+MsgDisp("Hiiragi","I see that even plants can feel the kindness
+that you possess.");
 MsgDisp("主人公","That's...");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("H6G0500000_05_040");
-MsgDisp("Hiiragi","Please, show me the plants that you've
-grown next time.");
+MsgDisp("Hiiragi","Please, show me the plants that you've grown
+next time.");
 MsgDisp("主人公","Yes!");
 MsgDisp("主人公","(I'm so happy.
 ｛Hiiragi＊＊＊｝ congratulated me!)");

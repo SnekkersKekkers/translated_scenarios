@@ -15,8 +15,8 @@ Merry Christmas!");
     ChMotion(3,3,1);
     VoicePlay("R040300000_03_010");
     MsgDisp("Honda","Incredible! I've heard this is the private
-mansion of the Habataki chairman. It looks
-like a castle from Europe.");
+mansion of the Habataki chairman.
+It looks like a castle from Europe.");
     break ;
     case 3:
     VoiceEVSPlay(3);
@@ -29,8 +29,7 @@ like a castle from Europe.");
     ChEyeOpenLevel(3,0);
     VoicePlay("R040300000_03_030");
     MsgDisp("Honda","Merry Christmas!
-This venue is so big it was hard to find
-you.");
+This venue is so big it was hard to find you.");
     break ;
     case 4:
     case 5:
@@ -50,9 +49,9 @@ Are you having fun?");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("R040300000_03_060");
-    MsgDisp("Honda","Yeah. The chairman's mansion. It looks
-like a castle from Europe. Even like a
-ballroom.");
+    MsgDisp("Honda","Yeah. The chairman's mansion.
+It looks like a castle from Europe.
+Even like a ballroom.");
     break ;
     default :
     DbgAssert(1);

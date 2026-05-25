@@ -8,9 +8,9 @@ switch (ChPrmGet(1,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110100001_01_000");
-    MsgDisp("Kazama","You have a good reputation. A guy from
-track and field said he was able to set a
-record because of the manager.");
+    MsgDisp("Kazama","You have a good reputation.
+A guy from track and field said he was able
+to set a record because of the manager.");
     MsgDisp("主人公","(I'm glad I worked hard as the Track and
 Field club manager!)");
     break ;
@@ -30,10 +30,10 @@ competition.");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("X110100001_01_020");
-    MsgDisp("Kazama","...If I had someone to support me like
-that, I could set a record, too.");
-    MsgDisp("主人公","(Being able to help even a little bit
-makes me happy!)");
+    MsgDisp("Kazama","...If I had someone to support me like that,
+I could set a record, too.");
+    MsgDisp("主人公","(Being able to help even a little bit makes
+me happy!)");
     break ;
     default :
     DbgAssert(1);

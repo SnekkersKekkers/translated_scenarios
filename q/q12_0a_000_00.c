@@ -34,8 +34,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q120A00000_01_020");
-MsgDisp("Kazama","This school trip made me really glad I
-came back.");
+MsgDisp("Kazama","This school trip made me really glad I came
+back.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

@@ -14,9 +14,9 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("G110300502_03_010");
-MsgDisp("Honda","No, I'm heading to work. I got a phone
-call from the manager asking me to come
-in. See you later!");
+MsgDisp("Honda","No, I'm heading to work.
+I got a phone call from the manager asking me
+to come in. See you later!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.5);
 ChClose(3);
@@ -47,9 +47,9 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110300502_03_040");
-MsgDisp("Honda","Oh, you know, the other day how I went to
-the beach with the kids and caught a flat
-crab, right?");
+MsgDisp("Honda","Oh, you know, the other day how I went to the
+beach with the kids and caught a flat crab,
+right?");
 MsgDisp("主人公","Yeah.
 It's tasty in miso soup, right?");
 ChEye(3,1);
@@ -68,8 +68,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("G110300502_03_070");
-MsgDisp("Honda","Yeah, but keep the aquarium thing secret
-from the manager, okay?");
+MsgDisp("Honda","Yeah, but keep the aquarium thing secret from
+the manager, okay?");
 MsgDisp("主人公","(Hehe, it seems like it's tough being
 popular?)");
 BGMStop();

@@ -4,8 +4,8 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I failed...
-Even though that was the last performance
-of my high school life...)");
+Even though that was the last performance of
+my high school life...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
@@ -25,9 +25,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P540700005_07_020");
 MsgDisp("Mikage","It might not have been a satisfactory
-performance, but you giving it your all
-for the last three years, wasn't a
-failure.");
+performance, but you giving it your all for
+the last three years, wasn't a failure.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -43,9 +42,8 @@ VoicePlay("P540700005_07_040");
 MsgDisp("Mikage","Alright, good girl.
 If you understand, go find everyone.");
 MsgDisp("主人公","(｛Mikage＊＊｝...thank you very much.
-Although it was a fail in the end, I'm
-glad I continued with the wind music
-club.)");
+Although it was a fail in the end, I'm glad I
+continued with the wind music club.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

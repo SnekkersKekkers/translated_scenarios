@@ -5,9 +5,9 @@ StlEye(22,0);
 StlMouth(22,2);
 StlCheek(22,0);
 VoicePlay("U120D00202_22_000");
-MsgDisp("Hikaru","Huh? 
-...Guess that means he's still
-just an admirer.");
+MsgDisp("Hikaru","Huh?
+...Guess that means he's still just an
+admirer.");
 StlEyeOpenLevel(21,0,1);
 StlMouth(21,0);
 VoicePlay("U120D00202_21_000");

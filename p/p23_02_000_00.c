@@ -21,15 +21,14 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","｛主人公｝, that outfit is nice.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
-    MsgDisp("主人公","｛Sassa＊＊｝ also looks like the King of
-the Underworld.");
+    MsgDisp("主人公","｛Sassa＊＊｝ also looks like the King of the
+Underworld.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P230200000_02_010");
     MsgDisp("Sassa","Is that right?
-But I definitely understand Hades'
-feelings.");
+But I definitely understand Hades' feelings.");
     MsgDisp("主人公","Really?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -41,9 +40,9 @@ I felt strange when practicing.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P230200000_02_030");
-    MsgDisp("Sassa","They say he's simple minded, can only
-charge straight ahead like an idiot, you
-know, just like me.");
+    MsgDisp("Sassa","They say he's simple minded, can only charge
+straight ahead like an idiot, you know, just
+like me.");
     MsgDisp("主人公","｛Sassa＊＊｝ isn't like that though?
 Although, you do both like doggies.");
     ChEye(2,3);
@@ -79,8 +78,8 @@ underworld!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
     MsgDisp("主人公","(Hehe!
-I'll do my best in order for this play to
-be a success!)");
+I'll do my best in order for this play to be
+a success!)");
     break ;
     default :
     DbgAssert(1);

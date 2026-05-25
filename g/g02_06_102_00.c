@@ -9,8 +9,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610200_06_010");
-MsgDisp("Himuro","We've been going out together a lot,
-haven't we?");
+MsgDisp("Himuro","We've been going out together a lot, haven't
+we?");
 MsgDisp("主人公","Right.
 Why do you ask?");
 ChEye(6,0);
@@ -30,16 +30,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610200_06_040");
-MsgDisp("Himuro","I used to think spending time with others
-and sharing experiences was troublesome
-and a waste of time...");
+MsgDisp("Himuro","I used to think spending time with others and
+sharing experiences was troublesome and a
+waste of time...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610200_06_050");
 MsgDisp("Himuro","Now, I find myself enjoying it.
-More than that, I find myself wanting
-more.");
+More than that, I find myself wanting more.");
 MsgDisp("主人公","Isn't that...a good thing?");
 ChEye(6,0);
 ChMouth(6,0);

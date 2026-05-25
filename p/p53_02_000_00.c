@@ -26,9 +26,8 @@ Have fun.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("P530200000_02_020");
-    MsgDisp("Sassa","Huh, if you're that tense, you won't be
-able to do your music performance as
-usual.");
+    MsgDisp("Sassa","Huh, if you're that tense, you won't be able
+to do your music performance as usual.");
     MsgDisp("主人公","But...");
     ChEye(2,0);
     ChMouth(2,4);
@@ -37,8 +36,8 @@ usual.");
     MsgDisp("Sassa","Relax.
 Don't worry, practice never fails.");
     MsgDisp("主人公","...Yeah!");
-    MsgDisp("主人公","(｛Sassa＊＊｝ said it, so it can't be
-wrong, huh?
+    MsgDisp("主人公","(｛Sassa＊＊｝ said it, so it can't be wrong,
+huh?
 I'll use everything I practiced!)");
     break ;
     case 4:
@@ -61,8 +60,8 @@ It's almost time for the real performance.");
     MsgDisp("Sassa","I'm glad I came a little early.
 You're getting nervous.");
     MsgDisp("主人公","Y-Yeah.
-It's even worse when you think you
-shouldn't be nervous...");
+It's even worse when you think you shouldn't
+be nervous...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -78,15 +77,15 @@ that.");
     MsgDisp("Sassa","Yeah.
 When that happens, I listen to the music I
 like.");
-    MsgDisp("主人公","But, right now I can't listen to the music
-I like...");
+    MsgDisp("主人公","But, right now I can't listen to the music I
+like...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,5);
     VoicePlay("P530200000_02_080");
     MsgDisp("Sassa","What are you saying?
-After this, you're going to play it
-yourself, aren't you?");
+After this, you're going to play it yourself,
+aren't you?");
     MsgDisp("主人公","Eh...
 Ah, I see.");
     ChEye(2,0);
@@ -105,8 +104,8 @@ don't you?");
     VoicePlay("P530200000_02_100");
     MsgDisp("Sassa","I'm looking forwards to it too.
 See you.");
-    MsgDisp("主人公","(Thanks to ｛Sassa＊＊｝, I'm looking
-forwards to playing...?
+    MsgDisp("主人公","(Thanks to ｛Sassa＊＊｝, I'm looking forwards
+to playing...?
 Yeah, I feel like I can do it!)");
     break ;
     default :

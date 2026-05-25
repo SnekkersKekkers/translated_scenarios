@@ -36,8 +36,8 @@ Let's go!");
     ChMotion(21,3);
     VoicePlay("Q212100000_21_030");
     MsgDisp("Michiru","Are you sure?
-Let's go back to our room before the
-teachers find us, then.");
+Let's go back to our room before the teachers
+find us, then.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(21);

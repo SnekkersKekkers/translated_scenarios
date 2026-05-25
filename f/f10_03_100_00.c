@@ -18,31 +18,31 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("F100310000_03_010");
-MsgDisp("Honda","Look, there. There are two umbrellas,
-right? They're always there. And in the
-same place.");
+MsgDisp("Honda","Look, there.
+There are two umbrellas, right?
+They're always there. And in the same place.");
 MsgDisp("主人公","Those blue and pink ones?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("F100310000_03_020");
-MsgDisp("Honda","That's right. At our school, if you leave
-an umbrella there for a while, it gets put
-away, right?");
+MsgDisp("Honda","That's right.
+At our school, if you leave an umbrella there
+for a while, it gets put away, right?");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100310000_03_030");
-MsgDisp("Honda","That means those two umbrellas are taken
-home regularly.");
+MsgDisp("Honda","That means those two umbrellas are taken home
+regularly.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("F100310000_03_040");
 MsgDisp("Honda","But I always see them, that's why I was
-observing it. I wondered if the owners
-would show up during lunch break.");
+observing it. I wondered if the owners would
+show up during lunch break.");
 MsgDisp("主人公","So, did they?");
 ChEye(3,0);
 ChMouth(3,3);

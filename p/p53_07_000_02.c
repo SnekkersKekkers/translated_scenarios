@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     MsgDisp("主人公","(Seems like I'm calmer this year.
-Maybe this is thanks to me working hard
-these last three years?)");
+Maybe this is thanks to me working hard these
+last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -24,8 +24,7 @@ these last three years?)");
     MsgDisp("Mikage","I came to see your nervous face, but I'm
 disappointed.");
     MsgDisp("主人公","Hey.
-I'm nervous since it's my last
-performance.");
+I'm nervous since it's my last performance.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -38,21 +37,21 @@ Don't say it's the last.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700002_07_030");
-    MsgDisp("Mikage","Ah, but...It might be Vice Principal
-Himuro's last time conducting? So repay
-him with a good performance.");
+    MsgDisp("Mikage","Ah, but... It might be Vice Principal
+Himuro's last time conducting?
+So repay him with a good performance.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Alright! I'll have to let both
-Himuro-sensei and ｛Mikage＊＊｝ listen
-to the culmination of my performances!)");
+    MsgDisp("主人公","(Alright! I'll have to let both Himuro-sensei
+and ｛Mikage＊＊｝ listen to the culmination
+of my performances!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(Seems like I'm calmer this year.
-Maybe this is thanks to me working hard
-these last three years?)");
+Maybe this is thanks to me working hard these
+last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -67,8 +66,8 @@ these last three years?)");
     MsgDisp("Mikage","I thought you'd be a bit more nervous, but
 it's impressive.");
     MsgDisp("主人公","Yes.
-I did everything I could for the last
-three years.");
+I did everything I could for the last three
+years.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -92,8 +91,8 @@ Then, please encourage me.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P530700002_07_090");
-    MsgDisp("Mikage","...Haaa Then, instead of thanking you,
-I'll thank you.");
+    MsgDisp("Mikage","...Haaa Then, instead of thanking you, I'll
+thank you.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);

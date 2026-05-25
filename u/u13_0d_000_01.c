@@ -16,8 +16,7 @@ switch (ChPrmGet(2,6)){
     StlMouth(21,0);
     VoicePlay("U130D00001_21_000");
     MsgDisp("Michiru","Hmm.
-While he seems to be interested in
-romance...");
+While he seems to be interested in romance...");
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);
     VoicePlay("U130D00001_22_000");
@@ -39,8 +38,8 @@ He looks at Mari differently lately.");
     StlEye(21,0);
     VoicePlay("U130D00001_21_020");
     MsgDisp("Michiru","Yes. He always looks so serious about his
-beloved track and field. But with Mari, he
-has a gentle gaze.");
+beloved track and field.
+But with Mari, he has a gentle gaze.");
     StlEye(22,2);
     StlMouth(22,0);
     VoicePlay("U130D00001_22_010");
@@ -51,8 +50,8 @@ Like he's watching a puppy♪");
     StlMouth(22,1);
     VoicePlay("U130D00001_22_020");
     MsgDisp("Hikaru","Ah, maybe Hikaru should've worded it
-differently. Let's see...It feels like
-he's looking tenderly at something cute?");
+differently. Let's see... It feels like he's
+looking tenderly at something cute?");
     MsgDisp("主人公","(｛Sassa＊＊｝ is looking at me tenderly.
 I think I'm happy...)");
     break ;
@@ -71,21 +70,20 @@ I think I'm happy...)");
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00001_21_030");
     MsgDisp("Michiru","Hehe.
-But he's quite pure and doesn't know how
-to act towards Mari.");
+But he's quite pure and doesn't know how to
+act towards Mari.");
     StlEye(22,0,0);
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);
     StlCheek(22,0);
     VoicePlay("U130D00001_22_040");
     MsgDisp("Hikaru","He's a rare type of boy these days.
-Where did that brave star of track and
-field go∋");
+Where did that brave star of track and field
+go∋");
     StlEyeOpenLevel(21,0,1);
     VoicePlay("U130D00001_21_040");
     MsgDisp("Michiru","Isn't that because he's thinking carefully
-about how he should treat and cherish
-Mari?");
+about how he should treat and cherish Mari?");
     StlEyeOpenLevel(21,5,1);
     StlEye(22,1,0);
     StlEyeOpenLevel(22,0,1);
@@ -95,8 +93,8 @@ Mari?");
 He acts like a dad!");
     StlEyeOpenLevel(22,5,1);
     MsgDisp("主人公","(Like a dad, huh...
-It's true, when I'm with ｛Sassa＊＊｝ I
-feel at ease.)");
+It's true, when I'm with ｛Sassa＊＊｝ I feel
+at ease.)");
     break ;
     default :
     DbgAssert(1);

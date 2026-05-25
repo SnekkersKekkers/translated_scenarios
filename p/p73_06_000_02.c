@@ -7,17 +7,16 @@ switch (ChPrmGet(6,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're displaying wedding
-dresses. This is my last one...I have to
-make it a success!)");
+    MsgDisp("主人公","(This year we're displaying wedding dresses.
+This is my last one...
+I have to make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(6,254,3,0,0,#1,#1,0,0);
     VoicePlay("P730600002_06_000");
     MsgDisp("Himuro","It's amazing huh.
-To think you can handmake even such a
-thing.");
+To think you can handmake even such a thing.");
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -62,9 +61,9 @@ Alr—ight, let's do it!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're displaying wedding
-dresses. This is my last cultural
-festival...I have to make it a success!)");
+    MsgDisp("主人公","(This year we're displaying wedding dresses.
+This is my last cultural festival...
+I have to make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -87,8 +86,7 @@ How does it look?");
     ChEyeOpenLevel(6,0);
     VoicePlay("P730600002_06_080");
     MsgDisp("Himuro","How does it look, you say....
-To be honest, I'm completely not
-interested.");
+To be honest, I'm completely not interested.");
     MsgDisp("主人公","Ehhh∋");
     ChEye(6,1);
     ChMouth(6,0);
@@ -115,8 +113,8 @@ This feels like I'm sending off a bride...");
     MsgDisp("Himuro","It's nothing.
 ...I'll be waiting from here.");
     MsgDisp("主人公","(｛Himuro＊＊｝, what's wrong?
-But this is my last stage, so let's
-carefully follow this through!)");
+But this is my last stage, so let's carefully
+follow this through!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(6,0,0);

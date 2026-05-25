@@ -9,16 +9,15 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020110400_01_010");
-MsgDisp("Kazama","So they've each got their own quirks.
-Since this is a mating display, does this
-mean they're competing with their fashion
-sense?");
+MsgDisp("Kazama","So they've each got their own quirks. Since
+this is a mating display, does this mean
+they're competing with their fashion sense?");
 ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("G020110400_01_020");
-MsgDisp("Kazama","Fireflies probably all have different
-light preferences.");
+MsgDisp("Kazama","Fireflies probably all have different light
+preferences.");
 MsgDisp("主人公","Hahah, just like people.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -30,35 +29,35 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110400_01_040");
-MsgDisp("Kazama","So, actually, white clothes. Since your
-own colors are enough. Yeah, something
-colorless and transparent's fine...");
-MsgDisp("主人公","I can't go around wearing transparent
-clothes though...");
+MsgDisp("Kazama","So, actually, white clothes.
+Since your own colors are enough. Yeah,
+something colorless and transparent's fine...");
+MsgDisp("主人公","I can't go around wearing transparent clothes
+though...");
 ChEye(1,3);
 ChMouth(1,1);
 ChMotion(1,3);
 ChCheek(1,7);
 VoicePlay("G020110400_01_050");
 MsgDisp("Kazama","What! I-Idiot, I don't mean that they're
-see-through, I'm saying that you don't
-have to dress yourself up!");
+see-through, I'm saying that you don't have
+to dress yourself up!");
 MsgDisp("主人公","So something light?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("G020110400_01_060");
-MsgDisp("Kazama","Mm? Wait, hold on. I'm not talking about
-dressing lightly or dressing revealingly
-here.");
+MsgDisp("Kazama","Mm?
+Wait, hold on. I'm not talking about dressing
+lightly or dressing revealingly here.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110400_01_070");
-MsgDisp("Kazama","Listen, I'll put it another way. I mean
-that natural colors and designs that don't
-get in your way are what I like.");
+MsgDisp("Kazama","Listen, I'll put it another way.
+I mean that natural colors and designs that
+don't get in your way are what I like.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -72,9 +71,8 @@ ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G020110400_01_090");
 MsgDisp("Kazama","...Wait, is this how I really feel...∋");
-MsgDisp("主人公","(I think ｛Kazama＊＊｝'s fashion
-preferences might be a bit difficult for
-me...)");
+MsgDisp("主人公","(I think ｛Kazama＊＊｝'s fashion preferences
+might be a bit difficult for me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

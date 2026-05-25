@@ -51,8 +51,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010320000_01_030");
-MsgDisp("Kazama","You guys are laughing right in front of
-the store.
+MsgDisp("Kazama","You guys are laughing right in front of the
+store.
 ...Geez.");
 MsgDisp("主人公","Ah, sorry.
 You're working part-time today?");
@@ -60,22 +60,21 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("E010320000_01_040");
-MsgDisp("Kazama","Yeah, I was asked to take this shift on
-short notice.");
+MsgDisp("Kazama","Yeah, I was asked to take this shift on short
+notice.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("E010320000_03_030");
-MsgDisp("Honda","Seeing Ryo-kun wearing the same uniform as
-I do at my part-time job made me really
-happy.");
+MsgDisp("Honda","Seeing Ryo-kun wearing the same uniform as I
+do at my part-time job made me really happy.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("E010320000_01_050");
-MsgDisp("Kazama","Because of that, Honda-kun went all the
-way back just to get the apron from his
-part-time job.");
+MsgDisp("Kazama","Because of that, Honda-kun went all the way
+back just to get the apron from his part-time
+job.");
 MsgDisp("主人公","Hehe.
 ｛Honda＊＊｝, that's interesting.");
 ChEye(1,0);
@@ -88,20 +87,19 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("E010320000_03_040");
-MsgDisp("Honda","I thought I'd take a picture and send it
-to you. But it looks like that is no
-longer necessary.");
+MsgDisp("Honda","I thought I'd take a picture and send it to
+you. But it looks like that is no longer
+necessary.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,0);
 ChMouth(1,1);
 VoicePlay("E010320000_01_070");
-MsgDisp("Kazama","I already told you, I don't want to do
-that.");
+MsgDisp("Kazama","I already told you, I don't want to do that.");
 MsgDisp("主人公","Thanks, ｛Honda＊＊｝.
-I already got to see the aprons, so I
-guess it's fine to not take photos?");
+I already got to see the aprons, so I guess
+it's fine to not take photos?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -125,9 +123,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010320000_01_090");
-MsgDisp("Kazama","I still have work so. Well, thanks to you
-it was a nice change of pace. See you
-later.");
+MsgDisp("Kazama","I still have work so.
+Well, thanks to you it was a nice change of
+pace. See you later.");
 MsgDisp("主人公","Yeah, bye bye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
@@ -137,8 +135,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("E010320000_03_060");
-MsgDisp("Honda","Okay, since I want to look around the
-store a bit more, I'll see you later.");
+MsgDisp("Honda","Okay, since I want to look around the store a
+bit more, I'll see you later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

@@ -4,8 +4,8 @@ switch (ChPrmGet(5,6)){
     case 2:
     VoicePlay("S030500002_05_000");
     MsgDisp("Hiiragi","Sorry.
-The beginning of this year is pretty busy
-for me...");
+The beginning of this year is pretty busy for
+me...");
     MsgDisp("主人公","I see...
 That's too bad.");
     VoicePlay("S030500002_05_010");

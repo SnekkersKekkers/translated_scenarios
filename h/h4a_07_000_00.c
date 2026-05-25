@@ -24,8 +24,7 @@ I won!");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("H4A0700000_07_020");
-    MsgDisp("Mikage","We don't even need a judge, it was
-unanimous.");
+    MsgDisp("Mikage","We don't even need a judge, it was unanimous.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);

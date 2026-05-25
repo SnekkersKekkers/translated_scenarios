@@ -9,8 +9,8 @@ switch (ChPrmGet(4,6)){
     break ;
     case 3:
     MsgDisp("主人公","(This year we're doing herb tea and a
-vegetable sale. It would be nice if it was
-well-received...)");
+vegetable sale.
+It would be nice if it was well-received...)");
     VoicePlay("P630400001_04_000");
     MsgDisp("Nanatsumori?","Herb tea and vegetables?");
     MsgClose();
@@ -26,16 +26,15 @@ Welcome～!");
     MsgDisp("Nanatsumori","Do you eat the herb tea and vegetables
 together?
 Here.");
-    MsgDisp("主人公","Nope. You drink the herb tea here though,
-but the Gardening Club's organic
-vegetables are sold directly.");
+    MsgDisp("主人公","Nope. You drink the herb tea here though, but
+the Gardening Club's organic vegetables are
+sold directly.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_020");
     MsgDisp("Nanatsumori","Ah, so that's how it is.");
-    MsgDisp("主人公","They're picked in the morning so, it's
-fresh.");
+    MsgDisp("主人公","They're picked in the morning so, it's fresh.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("P630400001_04_030");
@@ -46,8 +45,8 @@ Then first I'll go for some tea.");
     case 4:
     case 5:
     MsgDisp("主人公","(This year we're doing herb tea and a
-vegetable sale. It would be nice if it was
-well-received...)");
+vegetable sale.
+It would be nice if it was well-received...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
@@ -69,8 +68,8 @@ Gardening Club.");
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_060");
     MsgDisp("Nanatsumori","Eeh.
-Looking at it from this distance, the
-colour is good.");
+Looking at it from this distance, the colour
+is good.");
     MsgDisp("主人公","They're picked in the morning, so they're
 very fresh.");
     ChEye(4,0);
@@ -84,8 +83,8 @@ very fresh.");
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_080");
     MsgDisp("Nanatsumori","OK.
-Then, I'll have some tea first then I'll
-have a look over there.");
+Then, I'll have some tea first then I'll have
+a look over there.");
     MsgDisp("主人公","Yes, then please come in!");
     break ;
     default :

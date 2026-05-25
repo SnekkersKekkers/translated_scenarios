@@ -23,9 +23,9 @@ me say thank you.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("X120500001_05_010");
-    MsgDisp("Hiiragi","The flowers and plants you put care into
-look especially beautiful. It is evidence
-that you have raised them with love.");
+    MsgDisp("Hiiragi","The flowers and plants you put care into look
+especially beautiful. It is evidence that you
+have raised them with love.");
     MsgDisp("主人公","(Yay!
 I was praised!)");
     break ;

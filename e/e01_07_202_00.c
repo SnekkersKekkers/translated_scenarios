@@ -31,15 +31,15 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("E010720200_02_010");
 MsgDisp("Sassa","Similar hobbies?
-Come to think of it, we were at the pet
-store together the other day...");
+Come to think of it, we were at the pet store
+together the other day...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("E010720200_07_010");
-MsgDisp("Mikage","Yeah I remember seeing Sassa playing with
-a dog.");
+MsgDisp("Mikage","Yeah I remember seeing Sassa playing with a
+dog.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -111,7 +111,7 @@ VoicePlay("E010720200_07_060");
 MsgDisp("Mikage","Oh right.
 I completely forgot.");
 MsgDisp("主人公","(They both forgot he's the Track and Field
-advisor? Maybe that's another similarity
-of theirs...)");
+advisor?
+Maybe that's another similarity of theirs...)");
 MsgClose();
 ScrFadeOut(0,0);

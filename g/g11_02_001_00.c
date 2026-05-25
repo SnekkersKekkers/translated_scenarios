@@ -19,8 +19,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G110200100_02_010");
-MsgDisp("Sassa","Yeah, I was just going for a quick run
-before lunch.
+MsgDisp("Sassa","Yeah, I was just going for a quick run before
+lunch.
 How about joining me?");
 MsgDisp("主人公","Won't I get in ｛Sassa＊＊｝'s way...?");
 ChEye(2,3);
@@ -40,9 +40,9 @@ BGMVol(0.5,2);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoicePlay("G110200100_02_030");
-MsgDisp("Sassa","Yeah, that's great. That you can be
-relaxed. That's the result of your regular
-exercise.");
+MsgDisp("Sassa","Yeah, that's great.
+That you can be relaxed.
+That's the result of your regular exercise.");
 MsgDisp("主人公","Eh?");
 ChEye(2,1);
 ChMouth(2,0);
@@ -54,9 +54,9 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200100_02_050");
-MsgDisp("Sassa","Sometimes. But, the fact that you can do
-it while looking like you're having fun is
-a talent.");
+MsgDisp("Sassa","Sometimes.
+But, the fact that you can do it while
+looking like you're having fun is a talent.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -83,7 +83,7 @@ SEPlay("EV_SE_626");
 MsgClose();
 ChClose(2);
 MsgDisp("主人公","(Phew...
-I'm a bit tired but it was fun running
-with ｛Sassa＊＊｝.)");
+I'm a bit tired but it was fun running with
+｛Sassa＊＊｝.)");
 MsgClose();
 ScrFadeOut(0,0);

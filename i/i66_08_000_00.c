@@ -11,8 +11,7 @@ switch (ChPrmGet(8,6)){
     MsgDisp("Man","Wait, wait!");
     MsgDisp("主人公","Huh?");
     VoicePlay("I660800000_39_010");
-    MsgDisp("Man","There's a car over here, too, so be
-careful.");
+    MsgDisp("Man","There's a car over here, too, so be careful.");
     MsgDisp("主人公","I'm so sorry!");
     VoicePlay("I660800000_45_000");
     MsgDisp("Woman","Excuse me!
@@ -26,8 +25,8 @@ I'm sorry!");
     ChOpen(8,35,0,3,4,10,#1,0,0);
     VoicePlay("I660800000_08_000");
     MsgDisp("Shirahane","Leave it t'me.
-Go close that gas flap, and then take care
-of the bill!");
+Go close that gas flap, and then take care of
+the bill!");
     MsgDisp("主人公","｛Daichi＊＊｝, thank you.
 Sorry for the bother...");
     ChEye(8,3);
@@ -49,8 +48,8 @@ C'mon, hurry.");
     MsgDisp("Man","Stop, stop!");
     MsgDisp("主人公","Huh?");
     VoicePlay("I660800000_39_040");
-    MsgDisp("Man","Geez...look behind properly, my car's
-right there!");
+    MsgDisp("Man","Geez...look behind properly, my car's right
+there!");
     MsgDisp("主人公","I'm so sorry!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
     SEWait();
@@ -78,8 +77,7 @@ Sorry to bother you.");
     ChMotion(8,3,1);
     VoicePlay("I660800000_08_040");
     MsgDisp("Shirahane","Don't rush and look around properly and
-you'll be fine.
-'Kay?");
+you'll be fine. 'Kay?");
     MsgDisp("主人公","(｛Daichi＊＊｝...
 I'll have to be more careful from now on.)");
     break ;

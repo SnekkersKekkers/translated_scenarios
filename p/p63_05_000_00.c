@@ -24,8 +24,8 @@ You came.");
 I heard I could partake in some delicious
 tea.");
     MsgDisp("主人公","Yeah.
-Using the herbs the Horticulture club
-grew, we made some herb tea and cookies.");
+Using the herbs the Horticulture club grew,
+we made some herb tea and cookies.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

@@ -17,8 +17,8 @@ MsgDisp("主人公","I-I see.");
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_370");
 MsgDisp("Hikaru","Hikaru loves talking about people's love
-lives. But love hasn't blossomed for
-Hikaru yet.");
+lives.
+But love hasn't blossomed for Hikaru yet.");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,2,1);
@@ -31,8 +31,8 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 ChCheek(22,5);
 VoicePlay("F032200000_22_390");
-MsgDisp("Hikaru","Hey, if Hikaru falls in love, can Hikaru
-ask Mari for lots of advice?");
+MsgDisp("Hikaru","Hey, if Hikaru falls in love, can Hikaru ask
+Mari for lots of advice?");
 MsgDisp("主人公","Of course!
 I'm looking forward to it!");
 BGMStop();

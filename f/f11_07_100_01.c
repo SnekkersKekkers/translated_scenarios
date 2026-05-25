@@ -36,9 +36,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F110710001_07_020");
-MsgDisp("Mikage","It's just a school event, they said. It'll
-be fun, they said. No, it's my fault. I'll
-just walk around quietly now.");
+MsgDisp("Mikage","It's just a school event, they said.
+It'll be fun, they said. No, it's my fault.
+I'll just walk around quietly now.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(That expression...

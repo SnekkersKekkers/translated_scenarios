@@ -8,8 +8,8 @@ switch (ChPrmGet(2,6)){
     BGOpen("sc722",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're serving homemade herb tea
-and cookies. It would be nice if it was
-well received though...)");
+and cookies. It would be nice if it was well
+received though...)");
     MsgClose();
     ChOpen(2,254,2,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
@@ -30,8 +30,8 @@ We grew it.");
     ChMotion(2,0);
     VoicePlay("P630200000_02_020");
     MsgDisp("Sassa","Ehhh—, is it tasty?");
-    MsgDisp("主人公","We can prepare a blend that's easy to
-drink for your first time trying it♪");
+    MsgDisp("主人公","We can prepare a blend that's easy to drink
+for your first time trying it♪");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -56,8 +56,8 @@ One herb tea set please!");
     BGOpen("sc722",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This year we're serving homemade herb tea
-and cookies. It would be nice if it was
-well received though...)");
+and cookies. It would be nice if it was well
+received though...)");
     MsgClose();
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);

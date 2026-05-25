@@ -22,9 +22,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("H180300000_03_020");
-MsgDisp("Honda","You know, I was so excited that I stayed
-up all night to make a spectator's guide
-to watch this game.");
+MsgDisp("Honda","You know, I was so excited that I stayed up
+all night to make a spectator's guide to
+watch this game.");
 MsgDisp("主人公","Wow, this looks just like a roster of
 players!");
 ChEye(3,3);
@@ -32,16 +32,15 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("H180300000_03_030");
-MsgDisp("Honda","If I'm going to be cheering for them, I
-want to know more about the players.");
+MsgDisp("Honda","If I'm going to be cheering for them, I want
+to know more about the players.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("H180300000_03_040");
-MsgDisp("Honda","But the person I'd like to support the
-most is you. Supporting the players must
-be hard, so leave supporting you to me,
-okay?");
+MsgDisp("Honda","But the person I'd like to support the most
+is you. Supporting the players must be hard,
+so leave supporting you to me, okay?");
 MsgDisp("主人公","Hehe, okay!
 Thanks, ｛Honda＊＊｝!");
 MsgDisp("主人公","(Alright, let's do our best!)");

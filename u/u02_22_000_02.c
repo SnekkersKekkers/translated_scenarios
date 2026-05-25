@@ -13,8 +13,8 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,5);
 VoicePlay("U022200002_22_010");
-MsgDisp("Hikaru","Hikaru wonders what's going on inside
-Mari's heart～?");
+MsgDisp("Hikaru","Hikaru wonders what's going on inside Mari's
+heart～?");
 MsgDisp("主人公","Um...");
 ChEye(22,3);
 ChMouth(22,3);
@@ -38,15 +38,15 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("U022200002_22_040");
-MsgDisp("Hikaru","Aha▼ 
-Even if you don't tell, Mari
-already wears her heart on her sleeve♪");
+MsgDisp("Hikaru","Aha▼
+Even if you don't tell, Mari already wears
+her heart on her sleeve♪");
 MsgDisp("主人公","Eeh∋");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("U022200002_22_050");
 MsgDisp("Hikaru","Mari's an honest and good child.
-If you have a secret, maybe it's about a
-boy you like～?");
+If you have a secret, maybe it's about a boy
+you like～?");
 MsgDisp("主人公","Haha...");

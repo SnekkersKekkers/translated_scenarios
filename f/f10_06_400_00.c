@@ -29,9 +29,9 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("F100640000_01_010");
-MsgDisp("Kazama","What's up you say...Ah, hey, we're moving
-classrooms next aren't we? I'll end up
-leaving you behind.");
+MsgDisp("Kazama","What's up you say...
+Ah, hey, we're moving classrooms next aren't
+we? I'll end up leaving you behind.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -54,7 +54,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(1);
 ChPosition(6,0);
-MsgDisp("主人公","Alright! ...｛Himuro＊＊｝, see you later.");
+MsgDisp("主人公","Alright!
+...｛Himuro＊＊｝, see you later.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -5,8 +5,8 @@ ChMouth(5,0);
 ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Come to think of it, Sports Day is coming
-up, huh.");
+MsgDisp("主人公","Come to think of it, Sports Day is coming up,
+huh.");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
@@ -20,17 +20,16 @@ MsgDisp("Hiiragi","I like exercise, or rather, athletic
 competitions.
 New competitions are always welcome to me.");
 MsgDisp("主人公","I see.
-So back in elementary and middle school,
-you couldn't participate much?");
+So back in elementary and middle school, you
+couldn't participate much?");
 ChEye(5,2);
 ChMotion(5,4);
 VoicePlay("F020500006_05_020");
 MsgDisp("Hiiragi","Yes.
-I've been a leading actor for as long as
-I can remember, after all.");
-MsgDisp("主人公","Well then, for the Haba High Sports
-Festival, let's enjoy it as much as we
-can.");
+I've been a leading actor for as long as I
+can remember, after all.");
+MsgDisp("主人公","Well then, for the Haba High Sports Festival,
+let's enjoy it as much as we can.");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
@@ -52,6 +51,6 @@ ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("F020500006_05_050");
 MsgDisp("Hiiragi","How strange. Not once in my life have I
-encountered a giant ball. And to roll it
-as well...I am looking forward to it.");
+encountered a giant ball. And to roll it as
+well... I am looking forward to it.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝, what did you think it was?)");

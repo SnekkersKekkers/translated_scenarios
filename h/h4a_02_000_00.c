@@ -39,8 +39,8 @@ Cool and composed.");
     MsgDisp("Sassa","Being a champion is fitting for you, with
 your skills and your heart.");
     MsgDisp("主人公","(I'm so happy...!
-I'm glad I stayed in the rhythmic
-gymnastics club!)");
+I'm glad I stayed in the rhythmic gymnastics
+club!)");
     break ;
     default :
     DbgAssert(1);

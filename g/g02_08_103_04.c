@@ -8,11 +8,11 @@ MsgDisp("Shirahane","It's beautiful...");
 MsgDisp("主人公","Yeah...");
 ChMotion(8,3,1);
 VoicePlay("G020810304_08_010");
-MsgDisp("Shirahane","I feel like I wanna give you this whole
-view as a present.");
-MsgDisp("主人公","Hehe! The birthday present I received from
-｛Daichi＊＊｝ the other day was also
-lovely.");
+MsgDisp("Shirahane","I feel like I wanna give you this whole view
+as a present.");
+MsgDisp("主人公","Hehe!
+The birthday present I received from
+｛Daichi＊＊｝ the other day was also lovely.");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);
@@ -20,8 +20,8 @@ ChEyeOpenLevel(8,0);
 ChCheek(8,8);
 VoicePlay("G020810304_08_020");
 MsgDisp("Shirahane","Ah...
-If you were happy with it, that also makes
-me happy.");
+If you were happy with it, that also makes me
+happy.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -39,9 +39,9 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("G020810304_08_050");
-MsgDisp("Shirahane","'Cause I was always thinkin' about
-things, my older brother and older sister
-were really worried.");
+MsgDisp("Shirahane","'Cause I was always thinkin' about things, my
+older brother and older sister were really
+worried.");
 MsgDisp("主人公","Ahaha, is that so?");
 ChEye(8,3);
 ChMouth(8,3);
@@ -49,8 +49,8 @@ ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("G020810304_08_060");
 MsgDisp("Shirahane","Yeah.
-After all, I wanted you to be happy
-receiving it.");
+After all, I wanted you to be happy receiving
+it.");
 MsgDisp("主人公","(｛Daichi＊＊｝...
 I'm happy.)");
 BGMStop();

@@ -1,8 +1,8 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...today ｛Kazama＊＊｝ invited
-me to walk home together.)");
+MsgDisp("主人公","(That's right...today ｛Kazama＊＊｝ invited me
+to walk home together.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -24,15 +24,15 @@ VoicePlay("G110100100_01_000");
 MsgDisp("Kazama","Phew...
 I talked so much.
 It's this late already.");
-MsgDisp("主人公","It's gotten so late, huh? ...Hey, but
-didn't you have business with me?");
+MsgDisp("主人公","It's gotten so late, huh?
+...Hey, but didn't you have business with me?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100100_01_010");
 MsgDisp("Kazama","Ah, that's right, huh.
-It's completely trivial, it's just about
-the school cafeteria.");
+It's completely trivial, it's just about the
+school cafeteria.");
 MsgDisp("主人公","Cafeteria?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -65,8 +65,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100100_01_060");
-MsgDisp("Kazama","Then, I'll invite you to walk together
-again when our menus overlap.");
+MsgDisp("Kazama","Then, I'll invite you to walk together again
+when our menus overlap.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

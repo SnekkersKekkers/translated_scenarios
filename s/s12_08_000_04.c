@@ -21,9 +21,9 @@ huh...");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("S120800004_08_010");
-    MsgDisp("Shirahane","Even though we attended different schools,
-it still feels like we've been together
-for such a long time.");
+    MsgDisp("Shirahane","Even though we attended different schools, it
+still feels like we've been together for such
+a long time.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -43,8 +43,8 @@ Let's live without any regrets!)");
     ChMotion(8,4);
     ChEyeOpenLevel(8,10);
     VoicePlay("S120800004_08_030");
-    MsgDisp("Shirahane","It's our last New Year's visit while we're
-in high school, but somehow I want more...");
+    MsgDisp("Shirahane","It's our last New Year's visit while we're in
+high school, but somehow I want more...");
     MsgDisp("主人公","Eh?");
     ChEye(8,2);
     ChMouth(8,0);

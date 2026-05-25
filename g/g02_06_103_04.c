@@ -22,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610304_06_030");
-MsgDisp("Himuro","...I'm still worrying if that was really
-the right choice.");
+MsgDisp("Himuro","...I'm still worrying if that was really the
+right choice.");
 MsgDisp("主人公","That?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -34,14 +34,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_050");
-MsgDisp("Himuro","I know you were happy, and I know your
-words were genuine, but...");
+MsgDisp("Himuro","I know you were happy, and I know your words
+were genuine, but...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_060");
-MsgDisp("Himuro","I can't help but think there might have
-been a better gift.");
+MsgDisp("Himuro","I can't help but think there might have been
+a better gift.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -61,9 +61,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_090");
-MsgDisp("Himuro","In the first place, my goal was to make
-you happy, but it got replaced by my
-desire to see your happy face.");
+MsgDisp("Himuro","In the first place, my goal was to make you
+happy, but it got replaced by my desire to
+see your happy face.");
 MsgDisp("主人公","｛Himuro＊＊｝ ――");
 ChEye(6,0);
 ChMouth(6,0);
@@ -86,8 +86,8 @@ MsgDisp("Himuro","Haa...
 I really hate this.
 This isn't like me at all.");
 MsgDisp("主人公","(｛Himuro＊＊｝...
-Gave his utmost effort in choosing a
-present for me...)");
+Gave his utmost effort in choosing a present
+for me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -19,9 +19,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("R080300000_03_010");
-MsgDisp("Honda","I was worried you might have already left,
-so I was hurrying to get everything
-ready.");
+MsgDisp("Honda","I was worried you might have already left, so
+I was hurrying to get everything ready.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -78,14 +77,14 @@ StlMouth(3,0);
 VoicePlay("R080300000_03_060");
 MsgDisp("Honda","The middle school library.
 I have a lot of memories of it.");
-MsgDisp("主人公","But if we entered without permission,
-they're gonna get angry...");
+MsgDisp("主人公","But if we entered without permission, they're
+gonna get angry...");
 StlEye(3,1);
 StlMouth(3,1);
 VoicePlay("R080300000_03_070");
 MsgDisp("Honda","Don't worry.
-I already talked to the night school
-teacher about it.");
+I already talked to the night school teacher
+about it.");
 StlEye(3,2);
 StlMouth(3,1);
 VoicePlay("R080300000_03_080");
@@ -107,8 +106,8 @@ StlEye(3,2,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,0,1);
 VoicePlay("R080300000_03_110");
-MsgDisp("Honda","I was so happy...and sometimes I just
-opened and read it again.");
+MsgDisp("Honda","I was so happy...and sometimes I just opened
+and read it again.");
 MsgDisp("主人公","I see...");
 StlEye(3,3);
 StlMouth(3,1);
@@ -122,8 +121,8 @@ StlEye(3,3,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("R080300000_03_130");
-MsgDisp("Honda","With this, there's no side of me I
-haven't shown you.");
+MsgDisp("Honda","With this, there's no side of me I haven't
+shown you.");
 MsgDisp("主人公","Huh?");
 StlEye(3,2);
 StlMouth(3,0);
@@ -141,8 +140,9 @@ MsgDisp("主人公","｛Honda＊＊｝...");
 StlEye(3,2);
 StlMouth(3,1);
 VoicePlay("R080300000_03_160");
-MsgDisp("Honda","Oh, it's about time we go. Teacher said we
-would only get fifteen minutes. Shall we?");
+MsgDisp("Honda","Oh, it's about time we go.
+Teacher said we would only get fifteen
+minutes. Shall we?");
 BGMStop(5);
 MsgClose();
 ScrFadeOut(0);
@@ -157,9 +157,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(And just like that, my last Christmas Eve
-as a high school student comes to an
-end...)");
+MsgDisp("主人公","(And just like that, my last Christmas Eve as
+a high school student comes to an end...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

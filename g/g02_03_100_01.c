@@ -9,9 +9,9 @@ ChEye(3,4);
 ChMouth(3,2);
 ChMotion(3,2);
 VoicePlay("G020310001_03_010");
-MsgDisp("Honda","Sometimes when I'm with my family, I end
-up talking too much and it gets annoying
-for them.");
+MsgDisp("Honda","Sometimes when I'm with my family, I end up
+talking too much and it gets annoying for
+them.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -24,16 +24,16 @@ ChMouth(3,0);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310001_03_030");
-MsgDisp("Honda","And when I told her I probably do, maybe
-even more so with you, she got mad at me.");
+MsgDisp("Honda","And when I told her I probably do, maybe even
+more so with you, she got mad at me.");
 MsgDisp("主人公","Hehe!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("G020310001_03_040");
 MsgDisp("Honda","Ah, that!
-When you laugh like that— I can't help
-but keep talking.");
+When you laugh like that—
+I can't help but keep talking.");
 ChSet(3,0);
 VoicePlay("G020310001_03_050");
 MsgDisp("Honda","So if you ever get bored or want to change
@@ -48,8 +48,8 @@ My sister's sign is to stay silent with a
 straight face for five seconds.");
 ChMouth(3,3);
 VoicePlay("G020310001_03_070");
-MsgDisp("Honda","When she does that, I either stop talking
-or change the subject.");
+MsgDisp("Honda","When she does that, I either stop talking or
+change the subject.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -57,7 +57,8 @@ VoicePlay("G020310001_03_080");
 MsgDisp("Honda","Wanna try it?
 Look at me with a straight face and stay
 silent for five seconds.");
-MsgDisp("主人公","O-Okay. ......");
+MsgDisp("主人公","O-Okay.
+......");
 ChEye(3,5);
 ChMouth(3,3);
 ChMotion(3,4);

@@ -21,8 +21,9 @@ Did you come to support me?");
     ChMouth(21,3);
     ChMotion(21,0);
     VoicePlay("H382100000_21_010");
-    MsgDisp("Michiru","Right. I think Mari can win, but I'll be
-praying that you don't get hurt. Okay?");
+    MsgDisp("Michiru","Right.
+I think Mari can win, but I'll be praying
+that you don't get hurt. Okay?");
     MsgDisp("主人公","Thanks!");
     MsgDisp("主人公","(｛みちる＊｝ is cheering me on...!
 Alright, let's do our best!)");
@@ -55,9 +56,9 @@ But, I'm a little worried.");
     ChMouth(21,4);
     ChMotion(21,5);
     VoicePlay("H382100000_21_040");
-    MsgDisp("Michiru","Not about you winning or losing. This is
-an intense sport, so be careful not to get
-injured. Please.");
+    MsgDisp("Michiru","Not about you winning or losing.
+This is an intense sport, so be careful not
+to get injured. Please.");
     MsgDisp("主人公","Thank you.
 I'll be careful, and go win!");
     ChEye(21,0);
@@ -65,8 +66,8 @@ I'll be careful, and go win!");
     ChMotion(21,3);
     VoicePlay("H382100000_21_050");
     MsgDisp("Michiru","Hehe, how reliable.
-I'll be wishing you the best of luck from
-my seat in the audience.");
+I'll be wishing you the best of luck from my
+seat in the audience.");
     MsgDisp("主人公","(｛みちる＊｝ is cheering me on...!
 Alright, let's do our best!)");
     BGMStop();

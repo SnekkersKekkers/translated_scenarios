@@ -15,8 +15,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("X120600003_06_000");
     MsgDisp("Himuro","The atmosphere in the school feels nice
-recently. Maybe it's because you're
-running the student council well?");
+recently. Maybe it's because you're running
+the student council well?");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
@@ -25,8 +25,8 @@ running the student council well?");
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("X120600003_06_010");
-    MsgDisp("Himuro","I heard the student council can't run
-without you anymore.
+    MsgDisp("Himuro","I heard the student council can't run without
+you anymore.
 As expected from you.");
     MsgDisp("主人公","(Yay!
 I was praised!)");

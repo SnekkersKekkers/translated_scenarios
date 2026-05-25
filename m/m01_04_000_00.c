@@ -9,8 +9,8 @@ ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("M010400000_04_000");
-MsgDisp("Nanatsumori","If you're asking about her, I just
-finished introducing myself.");
+MsgDisp("Nanatsumori","If you're asking about her, I just finished
+introducing myself.");
 MsgDisp("主人公","｛Nanatsumori＊｝∋
 Why...");
 ChEye(4,4);
@@ -24,8 +24,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("M010400000_04_020");
-MsgDisp("Nanatsumori","I got some frozen sweets that feel good
-on your throat, and gave them to your mom.
+MsgDisp("Nanatsumori","I got some frozen sweets that feel good on
+your throat, and gave them to your mom.
 Eat some later.");
 MsgDisp("主人公","｛Nanatsumori＊｝, thank you.");
 ChEye(4,2);
@@ -43,12 +43,11 @@ MsgDisp("Nanatsumori","......");
 ChMouthOpenLevel(4,#1);
 VoicePlay("M010400000_04_050");
 MsgDisp("Nanatsumori","When you're not at school, it's like the
-sound's left the world, it feels too
-quiet.");
+sound's left the world, it feels too quiet.");
 ChMotion(4,2,1);
 VoicePlay("M010400000_04_060");
-MsgDisp("Nanatsumori","I realized all over again just how
-important you are to me.");
+MsgDisp("Nanatsumori","I realized all over again just how important
+you are to me.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChMotion(4,1,1);
 VoiceEVSPlay(4);

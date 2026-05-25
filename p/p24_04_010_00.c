@@ -4,7 +4,9 @@ BGMPlay("BGM_ENGEKI_D",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P240401000_45_000");
-MsgDisp("Bell","I...I love you. I love you...! Please...");
+MsgDisp("Bell","I...
+I love you.
+I love you...! Please...");
 VoicePlay("P240401000_39_010");
 MsgDisp("Beast","Oh...oh!
 I'm returning to my original form!");
@@ -29,16 +31,15 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("P240401000_04_010");
-MsgDisp("Nanatsumori","Because in the last scene, the visuals of
-the guy she liked until now completely
-changes, you know?");
+MsgDisp("Nanatsumori","Because in the last scene, the visuals of the
+guy she liked until now completely changes,
+you know?");
 ChEye(4,1);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("P240401000_04_020");
-MsgDisp("Nanatsumori","No matter how much you connect with him,
-how can you accept him so quickly and
-easily...");
+MsgDisp("Nanatsumori","No matter how much you connect with him, how
+can you accept him so quickly and easily...");
 MsgDisp("主人公","Hmmm...");
 ChEye(4,0);
 ChMouth(4,0);
@@ -54,8 +55,8 @@ MsgDisp("Nanatsumori","...What about your true feelings?");
 MsgDisp("主人公","True feelings?
 I...");
 MsgDisp("主人公","｛Nanatsumori＊｝ is ｛Nanatsumori＊｝.
-Even if you look different, it doesn't
-make any difference to me...I guess?");
+Even if you look different, it doesn't make
+any difference to me... I guess?");
 ChEye(4,3);
 ChMouthOpenLevel(4,0);
 ChCheek(4,7);

@@ -24,8 +24,7 @@ years.");
     ChMotion(6,0);
     VoicePlay("S120600002_06_050");
     MsgDisp("Himuro","It's not a big deal but...
-Was I the only person you wanted to go
-with?");
+Was I the only person you wanted to go with?");
     MsgDisp("主人公","That kind of thing, maybe not?");
     ChEye(6,0);
     ChMouth(6,3);
@@ -75,9 +74,9 @@ graduation ceremony.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S120600002_06_130");
-    MsgDisp("Himuro","Your graduation. I've been avoiding it for
-a while...But now I feel like I'm ready to
-let you go.");
+    MsgDisp("Himuro","Your graduation.
+I've been avoiding it for a while...
+But now I feel like I'm ready to let you go.");
     MsgDisp("主人公","｛Himuro＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);

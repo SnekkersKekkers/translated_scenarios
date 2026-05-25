@@ -58,8 +58,7 @@ Did I make it in time!?");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("O030201000_02_050");
-    MsgDisp("Sassa","Your legs aren't tied to anyone else's
-yet.");
+    MsgDisp("Sassa","Your legs aren't tied to anyone else's yet.");
     MsgDisp("主人公","Um...
 I don't have a partner yet.");
     ChEye(2,0);

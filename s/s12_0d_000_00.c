@@ -21,8 +21,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("S120D00000_22_000");
-MsgDisp("Hikaru","It's so nice that we get to see Mari right
-at the beginning of the new year♪");
+MsgDisp("Hikaru","It's so nice that we get to see Mari right at
+the beginning of the new year♪");
 MsgDisp("主人公","Hehe!");
 ChEye(21,0);
 ChMouth(21,0);

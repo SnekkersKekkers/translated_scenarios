@@ -10,8 +10,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoiceEVSPlay(3);
     VoicePlay("Q120300000_03_000");
-    MsgDisp("Honda","｛主人公｝, thanks for going with me for
-the free period.");
+    MsgDisp("Honda","｛主人公｝, thanks for going with me for the
+free period.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -36,14 +36,14 @@ rest!");
     VoicePlay("Q120300000_03_030");
     MsgDisp("Honda","The free activity is over.
 It was sooo fun.");
-    MsgDisp("主人公","Yeah, thanks to you, ｛Honda＊＊｝, it was
-very fulfilling.");
+    MsgDisp("主人公","Yeah, thanks to you, ｛Honda＊＊｝, it was very
+fulfilling.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("Q120300000_03_040");
-    MsgDisp("Honda","I had a lot of discoveries, by looking
-around with you.
+    MsgDisp("Honda","I had a lot of discoveries, by looking around
+with you.
 Thank you.");
     ChEye(3,0);
     ChMouth(3,4);
@@ -96,8 +96,8 @@ this trip.");
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("Q120300000_03_100");
-    MsgDisp("Honda","I mean, there isn't a place I dislike
-where I went with you.
+    MsgDisp("Honda","I mean, there isn't a place I dislike where I
+went with you.
 ...Hmm?");
     ChEye(3,2);
     ChMouth(3,3);
@@ -105,16 +105,15 @@ where I went with you.
     VoicePlay("Q120300000_03_110");
     MsgDisp("Honda","Daaah, in the way I put it, Nagasaki is no
 longer relevant, I guess?");
-    MsgDisp("主人公","Hehe, but it's also true for me that
-anywhere with you, ｛Honda＊＊｝, becomes
-fun.");
+    MsgDisp("主人公","Hehe, but it's also true for me that anywhere
+with you, ｛Honda＊＊｝, becomes fun.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("Q120300000_03_120");
-    MsgDisp("Honda","Is that so? Then I'm happy! Well then,
-let's spend the free period together
-again.");
+    MsgDisp("Honda","Is that so?
+Then I'm happy! Well then, let's spend the
+free period together again.");
     MsgDisp("主人公","Eh, hmm?
 Isn't today the end of the school trip?");
     ChEye(3,0);
@@ -130,8 +129,8 @@ I guess so.");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("Q120300000_03_140");
-    MsgDisp("Honda","I hope we can continue spending free
-period together like this forever.");
+    MsgDisp("Honda","I hope we can continue spending free period
+together like this forever.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

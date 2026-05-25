@@ -10,27 +10,24 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("F020200012_02_000");
-MsgDisp("Sassa","Yeah, I'm tense. When I move up a grade, I
-have to set new goals. I have to break my
-old record.");
+MsgDisp("Sassa","Yeah, I'm tense.
+When I move up a grade, I have to set new
+goals. I have to break my old record.");
 MsgDisp("主人公","｛Sassa＊＊｝ is amazing.
-You always set specific goals and keep
-going.");
+You always set specific goals and keep going.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200012_02_010");
-MsgDisp("Sassa","When they're down to how many seconds or
-how many meters, they're a little too
-specific.");
+MsgDisp("Sassa","When they're down to how many seconds or how
+many meters, they're a little too specific.");
 MsgDisp("主人公","No, I still think it's amazing.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("F020200012_02_020");
-MsgDisp("Sassa","Praise me when I actually get something
-done.
+MsgDisp("Sassa","Praise me when I actually get something done.
 Not now.");
 MsgDisp("主人公","Haha, okay.");
 ChEye(2,0);

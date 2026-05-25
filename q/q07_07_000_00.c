@@ -21,8 +21,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_010");
-MsgDisp("Mikage","Oh, I'm sorry, but the call for
-participants is closed.
+MsgDisp("Mikage","Oh, I'm sorry, but the call for participants
+is closed.
 Right?");
 MsgDisp("主人公","Hehe, yes.");
 VoicePlay("Q070700000_41_010");
@@ -67,8 +67,7 @@ ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("Q070700000_07_050");
 MsgDisp("Mikage","Yeah, they say it's 105 meters high.");
-MsgDisp("主人公","｛Mikage＊＊｝, are you afraid of
-heights?");
+MsgDisp("主人公","｛Mikage＊＊｝, are you afraid of heights?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -95,8 +94,8 @@ MsgDisp("Mikage","Let's go, shall we?");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(｛Mikage＊＊｝, thank you for keeping me
-company. Huis Ten Bosch was so fun! Let's
-move on now.)");
+company. Huis Ten Bosch was so fun!
+Let's move on now.)");
 BGMStop(2);
 MsgClose();
 ScrFadeOut(0,0);
@@ -119,14 +118,14 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_090");
 MsgDisp("Mikage","Yes.
-Maybe the owner of this place liked
-flowers a lot.");
+Maybe the owner of this place liked flowers a
+lot.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Q070700000_07_100");
-MsgDisp("Mikage","I guess he came to a foreign land, to
-plant some flowers from his homeland.");
+MsgDisp("Mikage","I guess he came to a foreign land, to plant
+some flowers from his homeland.");
 MsgDisp("主人公","｛Mikage＊＊｝, if you were him, what
 flowers would you plant?");
 ChEye(7,0);
@@ -140,9 +139,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("Q070700000_07_120");
-MsgDisp("Mikage","Beautiful flowers thrive only in certain
-soil and climate. I won't force ones from
-far away to grow here.");
+MsgDisp("Mikage","Beautiful flowers thrive only in certain soil
+and climate. I won't force ones from far away
+to grow here.");
 MsgDisp("主人公","I understand.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -157,8 +156,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q070700000_07_140");
 MsgDisp("Mikage","Yeah.
-Healthy and beautiful flowers like you
-all.");
+Healthy and beautiful flowers like you all.");
 MsgDisp("主人公","Hehe!
 I'm happy.");
 ChEye(7,0);
@@ -166,22 +164,21 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_150");
 MsgDisp("Mikage","The owner here never returned home.
-He seems to have lived his whole life
-here.");
+He seems to have lived his whole life here.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("Q070700000_07_160");
-MsgDisp("Mikage","I bet that he found a beautiful flower
-here and couldn't go back.");
+MsgDisp("Mikage","I bet that he found a beautiful flower here
+and couldn't go back.");
 MsgDisp("主人公","｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_170");
 MsgDisp("Mikage","That makes me think of merchants from the
-west. That'd make a good extracurricular
-activity.");
+west.
+That'd make a good extracurricular activity.");
 MsgDisp("主人公","(｛Mikage＊＊｝...?
 He's acting a bit strange...)");
 BGMStop(2);

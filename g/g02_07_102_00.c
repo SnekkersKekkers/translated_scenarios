@@ -17,8 +17,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("G020710200_07_020");
-MsgDisp("Mikage","Don't give me that obvious 'I don't like
-it' face.");
+MsgDisp("Mikage","Don't give me that obvious 'I don't like it'
+face.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -44,11 +44,11 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710200_07_060");
-MsgDisp("Mikage","Oh damn...Hey, let's, um, maybe it's time
-to head back. Come on, I'll walk you.");
+MsgDisp("Mikage","Oh damn...
+Hey, let's, um, maybe it's time to head back.
+Come on, I'll walk you.");
 MsgDisp("主人公","Ah, okay.");
-MsgDisp("主人公","(Why is ｛Mikage＊＊｝ suddenly in a
-rush?)");
+MsgDisp("主人公","(Why is ｛Mikage＊＊｝ suddenly in a rush?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -1,9 +1,9 @@
 MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020510401_05_000");
-MsgDisp("Hiiragi","I've been performing in plays themed
-around romance without ever experiencing
-real romance myself...");
+MsgDisp("Hiiragi","I've been performing in plays themed around
+romance without ever experiencing real
+romance myself...");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, what's this all of a sudden?");
 ChEye(5,4);
 ChMotion(5,4);
@@ -27,10 +27,9 @@ MsgDisp("Hiiragi","It was because I met you.");
 MsgDisp("主人公","Me...?");
 ChMotion(5,4);
 VoicePlay("G020510401_05_050");
-MsgDisp("Hiiragi","Yes, knowing this feeling and acting it
-out on stage, there's a significant
-difference between knowing and not
-knowing.");
+MsgDisp("Hiiragi","Yes, knowing this feeling and acting it out
+on stage, there's a significant difference
+between knowing and not knowing.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020510401_05_060");
@@ -39,14 +38,14 @@ It even affects my roles on stage.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 VoicePlay("G020510401_05_070");
-MsgDisp("Hiiragi","My father used to often say that, when he
-got drunk, he'd passionately talk to me
-about theories of theater");
+MsgDisp("Hiiragi","My father used to often say that, when he got
+drunk, he'd passionately talk to me about
+theories of theater");
 ChMotion(5,4);
 VoicePlay("G020510401_05_080");
-MsgDisp("Hiiragi","At that time, I would pay no mind to it,
-but thanks to you, I may join my father in
-those exchanges of theatre discussion.");
+MsgDisp("Hiiragi","At that time, I would pay no mind to it, but
+thanks to you, I may join my father in those
+exchanges of theatre discussion.");
 MsgDisp("主人公","(Thanks to me...
 I'm happy, but also somewhat embarrassed.)");
 BGMStop();

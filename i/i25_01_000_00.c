@@ -87,9 +87,8 @@ It seems that they're sold out.");
     ChMouth(1,3);
     ChMotion(1,4);
     VoicePlay("I250100000_01_080");
-    MsgDisp("Kazama","I thought it was a pretty minor hobby, so
-I'm good just knowing there are others out
-there.");
+    MsgDisp("Kazama","I thought it was a pretty minor hobby, so I'm
+good just knowing there are others out there.");
     ChMotion(1,0);
     MsgDisp("主人公","We offer a home delivery service with a
 subscription.");
@@ -157,8 +156,8 @@ You got it right as it was brought in.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I250100000_01_150");
-    MsgDisp("Kazama","I got to buy my magazine, and see you in
-your apron.
+    MsgDisp("Kazama","I got to buy my magazine, and see you in your
+apron.
 I'm glad I came today.");
     MsgDisp("主人公","Hehe, then I'll be counting on your help
 again next time.");
@@ -171,8 +170,8 @@ again next time.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(For the next time ｛Kazama＊＊｝ comes,
-let's stock a lot of fishing magazines.)");
+    MsgDisp("主人公","(For the next time ｛Kazama＊＊｝ comes, let's
+stock a lot of fishing magazines.)");
     break ;
     default :
     DbgAssert(1);

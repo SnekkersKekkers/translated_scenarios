@@ -34,15 +34,16 @@ I'm glad you agreed.");
     VoicePlay("Q040200001_02_030");
     MsgDisp("Sassa","I was also thinking that.
 Let's go!");
-    MsgDisp("主人公","Awesome! I'm so glad you agreed. Doesn't
-sightseeing in Nagasaki sound so exciting?");
+    MsgDisp("主人公","Awesome!
+I'm so glad you agreed. Doesn't sightseeing
+in Nagasaki sound so exciting?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("Q040200001_02_040");
     MsgDisp("Sassa","Yeah, this is my first time after all.
-And I'm even with you, so I'm sure it'll
-be a blast.");
+And I'm even with you, so I'm sure it'll be a
+blast.");
     MsgDisp("主人公","Hehe!
 Well then, let's go!");
     ChEye(2,0);

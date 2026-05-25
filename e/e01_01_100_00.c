@@ -27,8 +27,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("E010110000_01_030");
-MsgDisp("Kazama","To be honest, I caught a glimpse of you,
-so I came searching for you.");
+MsgDisp("Kazama","To be honest, I caught a glimpse of you, so I
+came searching for you.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -42,15 +42,15 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010110000_01_050");
-MsgDisp("Kazama","It's not like I'm your fan or anything,
-you know.
+MsgDisp("Kazama","It's not like I'm your fan or anything, you
+know.
 Don't get me wrong.");
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,#1);
 VoicePlay("E010110000_01_060");
-MsgDisp("Kazama","When you spot someone in the wild, it
-makes you curious, right?
+MsgDisp("Kazama","When you spot someone in the wild, it makes
+you curious, right?
 Thinking about it all day made me tired.");
 MsgDisp("主人公","Errr...
 That's not my fault, is it?");
@@ -60,8 +60,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010110000_01_070");
 MsgDisp("Kazama","Yeah, I know...
-But now that I got to see you, I'm done
-for the day.");
+But now that I got to see you, I'm done for
+the day.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

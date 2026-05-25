@@ -36,8 +36,8 @@ MsgDisp("Sassa","Yes I'm serious today too.
 But, you're doing completely fine.");
 MsgDisp("主人公","Y-Yeah.
 Somewhat.");
-MsgDisp("主人公","(｛Sassa＊＊｝, I wonder if he's really
-running all out...
+MsgDisp("主人公","(｛Sassa＊＊｝, I wonder if he's really running
+all out...
 His mouth, is he smiling?)");
 BGMVol(0.5,2);
 while (1){
@@ -76,16 +76,15 @@ MsgClose();
 ChOpen(2,41,3,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200500_02_060");
-MsgDisp("Sassa","That's the warning bell, thank you. With
-that, it seems like I'll be able to sleep
-well this afternoon? See you.");
+MsgDisp("Sassa","That's the warning bell, thank you.
+With that, it seems like I'll be able to
+sleep well this afternoon? See you.");
 MsgClose();
 SEPlay("EV_SE_626");
 BGMStop();
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(I always work out, so I can run with
-ease!
+MsgDisp("主人公","(I always work out, so I can run with ease!
 But, don't sleep, ｛Sassa＊＊｝...)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();

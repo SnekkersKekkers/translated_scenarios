@@ -8,22 +8,21 @@ switch (ChPrmGet(3,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year we're serving herb tea and
-selling vegetables. It would be nice if it
-was well-received...)");
+    MsgDisp("主人公","(This year we're serving herb tea and selling
+vegetables.
+It would be nice if it was well-received...)");
     MsgClose();
     ChOpen(3,254,1,0,3,#1,#1,0,0);
     VoicePlay("P630300001_03_000");
     MsgDisp("Honda","These are wonderful vegetables, huh!");
-    MsgDisp("主人公","Ah, ｛Honda＊＊｝, welcome. Would you like
-to take a look at the Gardening Club's
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝, welcome. Would you like to
+take a look at the Gardening Club's
 vegetables harvested in the morning?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("P630300001_03_010");
-    MsgDisp("Honda","Should I buy some as souvenirs to take
-home?");
+    MsgDisp("Honda","Should I buy some as souvenirs to take home?");
     MsgDisp("主人公","Hehe, absolutely!
 The herb tea too.");
     ChSet(3,4);
@@ -35,15 +34,14 @@ This way please!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year we're serving herb tea and
-selling vegetables. It would be nice if it
-was well-received...)");
+    MsgDisp("主人公","(This year we're serving herb tea and selling
+vegetables.
+It would be nice if it was well-received...)");
     MsgClose();
     ChOpen(3,254,4,0,0,#1,#1,0,0);
     VoicePlay("P630300001_03_030");
     MsgDisp("Honda","Ah—,Fuu—...
-The aroma of fresh herbs is spreading,
-huh?");
+The aroma of fresh herbs is spreading, huh?");
     MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Welcome!");
     ChEye(3,0);
@@ -51,8 +49,7 @@ Welcome!");
     ChMotion(3,0,1);
     VoicePlay("P630300001_03_040");
     MsgDisp("Honda","Herbs and fresh vegetables...
-The two-layer healing effect is amazing,
-huh?");
+The two-layer healing effect is amazing, huh?");
     MsgDisp("主人公","Hehe.
 It's certainly healing, huh?");
     ChEye(3,3);

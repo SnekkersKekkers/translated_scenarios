@@ -9,8 +9,7 @@ switch (ChPrmGet(7,6)){
     case 3:
     MsgDisp("主人公","(This year we're selling herb tea and
 vegetables. It would be nice if the
-vegetables everyone grew was well
-received.)");
+vegetables everyone grew was well received.)");
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700001_07_000");
@@ -26,8 +25,8 @@ attention.");
 That's because each one of them are a
 beauty～♪");
     MsgDisp("主人公","Hehe, yes.
-We've also prepared a variety of herbal
-tea blends.");
+We've also prepared a variety of herbal tea
+blends.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -40,8 +39,7 @@ Then, one original blend herbal tea!");
     case 5:
     MsgDisp("主人公","(This year we're selling herb tea and
 vegetables. It would be nice if the
-vegetables everyone grew was well
-received.)");
+vegetables everyone grew was well received.)");
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
@@ -55,9 +53,9 @@ Welcome!");
     VoicePlay("P630700001_07_040");
     MsgDisp("Mikage","Firstly I'd like to taste it with my own
 tongue.");
-    MsgDisp("主人公","Hehe, yes. We have herbal teas with all
-sorts of effects. Which one would you
-like?");
+    MsgDisp("主人公","Hehe, yes.
+We have herbal teas with all sorts of
+effects. Which one would you like?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -72,8 +70,8 @@ There's quite a lot of kinds huh?");
 Then, I'll have the blend for sound sleep
 please.");
     MsgDisp("主人公","Yes.
-Then one original blend herbal tea for
-sound sleep then!");
+Then one original blend herbal tea for sound
+sleep then!");
     break ;
     default :
     DbgAssert(1);

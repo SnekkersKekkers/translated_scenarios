@@ -20,15 +20,15 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P740400003_04_010");
 MsgDisp("Nanatsumori","Hn.
-It's not like you wear a dress everyday,
-so these happenings are unavoidable.");
+It's not like you wear a dress everyday, so
+these happenings are unavoidable.");
 MsgDisp("主人公","But...");
 ChMotion(4,1,1);
 VoicePlay("P740400003_04_020");
 MsgDisp("Nanatsumori","No need to be so down in the dumps.
 Good work on this stage.");
-MsgDisp("主人公","(I couldn't show ｛Nanatsumori＊｝ a good
-show ...
+MsgDisp("主人公","(I couldn't show ｛Nanatsumori＊｝ a good show
+...
 I'm really disappointed.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,8 +12,8 @@ ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("K020700001_07_000");
 MsgDisp("Mikage","It's Mikage Delivery.");
 MsgDisp("主人公","Huh!?
-Mikage Delivery? Um...
-｛Mikage＊＊｝, what is it?");
+Mikage Delivery?
+Um... ｛Mikage＊＊｝, what is it?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -31,8 +31,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("K020700001_07_030");
-MsgDisp("Mikage","It's just, the delivery was held up, so
-it's a little late.
+MsgDisp("Mikage","It's just, the delivery was held up, so it's
+a little late.
 Happy birthday, here's your gift.");
 SEPlay("EV_SE_665");
 SEWait();
@@ -42,8 +42,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("K020700001_07_040");
-MsgDisp("Mikage","Alright, I've confirmed that you received
-it with that smile.
+MsgDisp("Mikage","Alright, I've confirmed that you received it
+with that smile.
 See you.");
 MsgClose();
 SEPlay("EV_SE_DOOR_022");

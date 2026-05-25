@@ -15,8 +15,8 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,0);
     ScrFadeIn(0);
     VoicePlay("S120800003_08_000");
-    MsgDisp("Shirahane","This year, I decided to give Nee-chan a
-gift, and it's already over.");
+    MsgDisp("Shirahane","This year, I decided to give Nee-chan a gift,
+and it's already over.");
     MsgDisp("主人公","That's right.
 Thank you for taking me.");
     ChEye(8,3);
@@ -30,8 +30,8 @@ I'll hafta tell this story at work.");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("S120800003_08_020");
-    MsgDisp("Shirahane","Remember this year, don't eat too much
-rice cake, okay?");
+    MsgDisp("Shirahane","Remember this year, don't eat too much rice
+cake, okay?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);

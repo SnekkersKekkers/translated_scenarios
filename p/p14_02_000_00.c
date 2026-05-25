@@ -18,8 +18,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("P140200000_02_020");
-MsgDisp("Sassa","Yeah. But it was nowhere near the fastest
-record. Let me try again!");
+MsgDisp("Sassa","Yeah.
+But it was nowhere near the fastest record.
+Let me try again!");
 MsgDisp("主人公","Yes, please feel free!");
 ChEye(2,0);
 ChMouth(2,3);

@@ -11,15 +11,15 @@ switch (ChPrmGet(5,6)){
     ChEye(5,4);
     VoicePlay("Q120500000_05_000");
     MsgDisp("Hiiragi","It was fun going around with you.");
-    MsgDisp("主人公","I feel the same way. Thanks to you,
-｛Hiiragi＊＊＊｝, I made wonderful memories.
-Thank you!");
+    MsgDisp("主人公","I feel the same way.
+Thanks to you, ｛Hiiragi＊＊＊｝, I made wonderful
+memories. Thank you!");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_010");
-    MsgDisp("Hiiragi","This is my first school trip, and even
-though I have nothing to compare it too,
-it's still the best.");
+    MsgDisp("Hiiragi","This is my first school trip, and even though
+I have nothing to compare it too, it's still
+the best.");
     MsgDisp("主人公","Hehe!
 I'm happy.");
     ChEye(5,0);
@@ -58,8 +58,8 @@ carried away.");
     Wait(20,1);
     VoicePlay("Q120500000_05_060");
     MsgDisp("Hiiragi","Yes.
-I'm now totally a fan of Nagasaki and
-school trips.");
+I'm now totally a fan of Nagasaki and school
+trips.");
     MsgDisp("主人公","(I think this is my first time seeing
 ｛Hiiragi＊＊＊｝ so happy...?
 I'm glad we could spend it together!)");
@@ -72,27 +72,25 @@ I'm glad we could spend it together!)");
     ChEyeOpenLevel(5,0);
     ScrFadeIn(0);
     VoicePlay("Q120500000_05_070");
-    MsgDisp("Hiiragi","Tomorrow is the last day of the school
-trip.");
+    MsgDisp("Hiiragi","Tomorrow is the last day of the school trip.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
     ChEye(5,4);
     VoicePlay("Q120500000_05_080");
-    MsgDisp("Hiiragi","Spending the free period with you was so
-fun.");
+    MsgDisp("Hiiragi","Spending the free period with you was so fun.");
     MsgDisp("主人公","It was fun for me too.");
     ChMotion(5,0);
     VoicePlay("Q120500000_05_090");
-    MsgDisp("Hiiragi","I never got to go on an elementary or
-middle school trip, but this one would
-still beat them all.");
+    MsgDisp("Hiiragi","I never got to go on an elementary or middle
+school trip, but this one would still beat
+them all.");
     MsgDisp("主人公","Hehe!
 Nagasaki is really a nice place.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("Q120500000_05_100");
     MsgDisp("Hiiragi","That's right.
-And you know, you wouldn't have been on
-those old school trips with me either.");
+And you know, you wouldn't have been on those
+old school trips with me either.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -103,8 +101,8 @@ those old school trips with me either.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("Q120500000_05_120");
-    MsgDisp("Hiiragi","The free period is over but the school
-trip continues on.
+    MsgDisp("Hiiragi","The free period is over but the school trip
+continues on.
 Let's enjoy ourselves until the end.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Thank you, ｛Hiiragi＊＊＊｝!)");

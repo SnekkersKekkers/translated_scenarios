@@ -24,9 +24,9 @@ ChEye(5,4);
 ChMouth(5,3);
 ChMotion(5,4);
 VoicePlay("G020540001_05_040");
-MsgDisp("Hiiragi","It was a line from 'Habataki Castle:
-Flames Rising'. It was 'Our souls are
-eternal! That way together!'");
+MsgDisp("Hiiragi","It was a line from 'Habataki Castle: Flames
+Rising'. It was 'Our souls are eternal!
+That way together!'");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,0);
@@ -36,12 +36,12 @@ MsgDisp("主人公","Hehe, it is cute.");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("G020540001_05_060");
-MsgDisp("Hiiragi","If the people of Habataki City are
-starting to acknowledge me, even if it's
-just a little, I'd be happy.");
+MsgDisp("Hiiragi","If the people of Habataki City are starting
+to acknowledge me, even if it's just a
+little, I'd be happy.");
 MsgDisp("主人公","Yeah, that must be it.");
-MsgDisp("主人公","(I'm happy that ｛Hiiragi＊＊＊｝'s best
-efforts got through to everyone...)");
+MsgDisp("主人公","(I'm happy that ｛Hiiragi＊＊＊｝'s best efforts
+got through to everyone...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

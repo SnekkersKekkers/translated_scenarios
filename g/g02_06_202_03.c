@@ -16,17 +16,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620203_06_020");
 MsgDisp("Himuro","It's common for students to admire their
-teachers, and on top of that,
-Kojirou-sensei is quite close to the
-students.");
+teachers, and on top of that, Kojirou-sensei
+is quite close to the students.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620203_06_030");
-MsgDisp("Himuro","To me, he's too innocent, and it feels
-like I'm taking care of a younger brother.
-Well, that gap is probably what makes him
-popular.");
+MsgDisp("Himuro","To me, he's too innocent, and it feels like
+I'm taking care of a younger brother. Well,
+that gap is probably what makes him popular.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -63,16 +61,15 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("G020620203_06_090");
-MsgDisp("Himuro","I'd rather it be someone much older and
-more mature than someone mediocre. It will
-help me grow further without being
-complacent.");
+MsgDisp("Himuro","I'd rather it be someone much older and more
+mature than someone mediocre. It will help me
+grow further without being complacent.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("G020620203_06_100");
-MsgDisp("Himuro","So expect to see a more grown-up version
-of me.");
+MsgDisp("Himuro","So expect to see a more grown-up version of
+me.");
 MsgDisp("主人公","Y-Yeah.
 I got it.");
 ChEye(6,0);
@@ -81,8 +78,7 @@ ChMotion(6,0);
 VoicePlay("G020620203_06_110");
 MsgDisp("Himuro","Don't forget what you just said.
 Because it's a promise.");
-MsgDisp("主人公","(I feel like I made a really big
-promise...)");
+MsgDisp("主人公","(I feel like I made a really big promise...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

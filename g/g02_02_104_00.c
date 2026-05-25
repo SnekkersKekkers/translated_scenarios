@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(2,255,4,0,0,#1,#1,0,0);
 VoicePlay("G020210400_02_000");
-MsgDisp("Sassa","Hey, I wonder if there are fireflies that
-are popular and ones that aren't?");
+MsgDisp("Sassa","Hey, I wonder if there are fireflies that are
+popular and ones that aren't?");
 MsgDisp("主人公","Are they popular if their light is strong?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -23,9 +23,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210400_02_030");
-MsgDisp("Sassa","If the theory is that being fast on your
-feet makes you popular, then I should have
-been the ultimate popular guy, right?");
+MsgDisp("Sassa","If the theory is that being fast on your feet
+makes you popular, then I should have been
+the ultimate popular guy, right?");
 MsgDisp("主人公","Yeah, that's right.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -41,8 +41,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020210400_02_050");
 MsgDisp("Sassa","Somehow, everyone cheered for him to beat
 me...");
-MsgDisp("主人公","That must have been a complicated
-feeling...");
+MsgDisp("主人公","That must have been a complicated feeling...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -54,11 +53,12 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G020210400_02_070");
-MsgDisp("Sassa","I almost thought of letting him win, but
-when it comes to competition, I definitely
-want to win.");
+MsgDisp("Sassa","I almost thought of letting him win, but when
+it comes to competition, I definitely want to
+win.");
 MsgDisp("主人公","Yeah, I think that's so like you,
-｛Sassa＊＊｝. It's a good thing.");
+｛Sassa＊＊｝.
+It's a good thing.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -69,13 +69,12 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("G020210400_02_090");
-MsgDisp("Sassa","But you know, in the end, I was treated
-like the enemy of the whole school...
+MsgDisp("Sassa","But you know, in the end, I was treated like
+the enemy of the whole school...
 And so a fast but unpopular guy was born.");
-MsgDisp("主人公","(Maybe it's because he's a genius that he
-was envied. There must be some complex
-memories that only ｛Sassa＊＊｝
-understands...)");
+MsgDisp("主人公","(Maybe it's because he's a genius that he was
+envied. There must be some complex memories
+that only ｛Sassa＊＊｝ understands...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

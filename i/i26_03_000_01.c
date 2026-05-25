@@ -12,18 +12,17 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","You can go on break.
 I'll do the cash register.");
     MsgDisp("主人公","Ah, I'm still okay.
-There are still customers, so at this
-rate...");
+There are still customers, so at this rate...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_130");
-    MsgDisp("Honda","I can tell you're starting to find the
-work rewarding.");
+    MsgDisp("Honda","I can tell you're starting to find the work
+rewarding.");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_140");
-    MsgDisp("Honda","But you can't just try hard, you have to
-rest properly, too.");
+    MsgDisp("Honda","But you can't just try hard, you have to rest
+properly, too.");
     MsgDisp("主人公","...Okay.
 Then, can I leave the rest to you?");
     ChEye(3,3);
@@ -32,8 +31,8 @@ Then, can I leave the rest to you?");
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_150");
     MsgDisp("Honda","Of course!");
-    MsgDisp("主人公","(I'll let myself be spoiled by
-｛Honda＊＊｝, and take a little break.)");
+    MsgDisp("主人公","(I'll let myself be spoiled by ｛Honda＊＊｝,
+and take a little break.)");
     break ;
     case 4:
     case 5:
@@ -44,25 +43,24 @@ Then, can I leave the rest to you?");
     VoicePlay("I260300000_03_160");
     MsgDisp("Honda","Hm?
 What's up?");
-    MsgDisp("主人公","The other day, we did a \"Draw your
-favorite person\" contest here, right?");
+    MsgDisp("主人公","The other day, we did a \"Draw your favorite
+person\" contest here, right?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_170");
     MsgDisp("Honda","Yeah!
-As a small, local bookstore, we need a
-good reputation with the community!");
+As a small, local bookstore, we need a good
+reputation with the community!");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_180");
-    MsgDisp("Honda","...And, the manager planned the event,
-right?
+    MsgDisp("Honda","...And, the manager planned the event, right?
 I heard a lot of people applied.");
     MsgDisp("主人公","Right.
-About that, one of the little girls who
-comes here often...");
+About that, one of the little girls who comes
+here often...");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);

@@ -11,8 +11,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610306_06_010");
-MsgDisp("Himuro","If they can fly around so freely, there's
-no need for them to ride eggplants and
+MsgDisp("Himuro","If they can fly around so freely, there's no
+need for them to ride eggplants and
 cucumbers.");
 MsgDisp("主人公","Eggplants and cucumbers?
 Oh, do you mean the ones prepared during
@@ -31,8 +31,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610306_06_030");
 MsgDisp("Himuro","As I said before, it's not about disliking
-them. I just don't understand the urge to
-eat them.");
+them.
+I just don't understand the urge to eat them.");
 MsgDisp("主人公","Yeah, I understand.");
 ChEye(6,1);
 ChMouth(6,0);
@@ -71,8 +71,7 @@ ChMotion(6,0);
 VoicePlay("G020610306_06_090");
 MsgDisp("Himuro","...I hate them.");
 MsgDisp("主人公","(Hehe.
-I got to hear ｛Himuro＊＊｝'s 
-true thoughts♪)");
+I got to hear ｛Himuro＊＊｝'s true thoughts♪)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

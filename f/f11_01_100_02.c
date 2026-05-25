@@ -12,8 +12,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("F110110002_01_010");
 MsgDisp("Kazama","Yeah, I dealt with everyone.
-I walked around with the Simon customers,
-the juniors, and the elderly association.");
+I walked around with the Simon customers, the
+juniors, and the elderly association.");
 MsgDisp("主人公","Haha.
 Well, isn't someone popular this year?");
 ChEye(1,0);
@@ -29,8 +29,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F110110002_01_030");
-MsgDisp("Kazama","Yeah, but this time, I can see it with
-you.");
+MsgDisp("Kazama","Yeah, but this time, I can see it with you.");
 MsgDisp("主人公","...Yeah, thank you!");
 ChEye(1,3);
 ChMouth(1,3);

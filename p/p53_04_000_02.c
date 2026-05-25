@@ -7,8 +7,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Seems like I'm calm this year.
-Maybe it's because I've been giving it my
-all these last three years?)");
+Maybe it's because I've been giving it my all
+these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -22,8 +22,8 @@ Did you come to listen?");
     ChMotion(4,1,1);
     VoicePlay("P530400002_04_010");
     MsgDisp("Nanatsumori","Well, yes.
-This is a culmination of all your hard
-work, you know?");
+This is a culmination of all your hard work,
+you know?");
     MsgDisp("主人公","Yeah.");
     ChMotion(4,0,1);
     VoicePlay("P530400002_04_020");
@@ -34,8 +34,7 @@ You look like a pro.");
     MsgDisp("主人公","Then, I'm off!");
     VoicePlay("P530400002_04_030");
     MsgDisp("Nanatsumori","Yes.
-I'll be paying attention from the
-audience.");
+I'll be paying attention from the audience.");
 MsgDisp("主人公","(Though it's embarrassing to be the centre
 of attention...This is a culmination of
 the last three years of work. So that I
@@ -44,8 +43,8 @@ don't regret it, I'll give it my all!)");
     case 4:
     case 5:
     MsgDisp("主人公","(Seems like I'm calm this year.
-Maybe it's because I've been giving it my
-all these last three years?)");
+Maybe it's because I've been giving it my all
+these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -69,8 +68,8 @@ I thought you'd come.");
     ChMotion(4,0,1);
     VoicePlay("P530400002_04_060");
     MsgDisp("Nanatsumori","...Yeah.
-Seems like this will be your best
-performance yet.");
+Seems like this will be your best performance
+yet.");
     MsgDisp("主人公","Yes.
 I'll give it my all, yeah?");
     ChEye(4,4);

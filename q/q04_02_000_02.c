@@ -6,8 +6,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("Q040200002_02_000");
-    MsgDisp("Sassa","Sorry, I already promised to go with
-someone else.");
+    MsgDisp("Sassa","Sorry, I already promised to go with someone
+else.");
     MsgDisp("主人公","I see, that's a shame.");
     ChEye(2,0);
     ChMouth(2,4);

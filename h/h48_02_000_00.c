@@ -19,15 +19,16 @@ Did you come to cheer me on?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("H480200000_02_010");
-    MsgDisp("Sassa","I'm not really sure about the rules, is
-there a certain way I need to cheer?");
+    MsgDisp("Sassa","I'm not really sure about the rules, is there
+a certain way I need to cheer?");
     MsgDisp("主人公","I don't think so.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("H480200000_02_020");
-    MsgDisp("Sassa","I see. Then I'll try to cheer in a way
-that won't distract you. Good luck.");
+    MsgDisp("Sassa","I see.
+Then I'll try to cheer in a way that won't
+distract you. Good luck.");
     MsgDisp("主人公","(｛Sassa＊＊｝ is here to cheer for me, too.
 Let's do our best!)");
     break ;

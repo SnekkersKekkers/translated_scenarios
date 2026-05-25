@@ -29,8 +29,8 @@ MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛Himuro＊＊｝ is really good at surfing
-isn't he...)");
+MsgDisp("主人公","(｛Himuro＊＊｝ is really good at surfing isn't
+he...)");
 MsgClose();
 SEPlay("EV_SE_542",0,0.4);
 SEWait();
@@ -61,32 +61,31 @@ MsgDisp("Himuro","Huh...?
 Why are you staring at my arm all of a
 sudden?");
 MsgDisp("主人公","Ah, sorry.
-I'm just thinking about before, that time
-we went to the livehouse.");
+I'm just thinking about before, that time we
+went to the livehouse.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_050");
 MsgDisp("Himuro","Oh...that?");
-MsgDisp("主人公","｛Himuro＊＊｝ borrowed a bass from one 
-of the band members and started 
-playing, remember?");
+MsgDisp("主人公","｛Himuro＊＊｝ borrowed a bass from one of the
+band members and started playing, remember?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_060");
 MsgDisp("Himuro","Yeah, that happened.");
-MsgDisp("主人公","That's why I thought ｛Himuro＊＊｝ is good
-with his hands too.");
+MsgDisp("主人公","That's why I thought ｛Himuro＊＊｝ is good with
+his hands too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_070");
 MsgDisp("Himuro","Good with my hands, 'too'...what does that
 mean?");
-MsgDisp("主人公","You can surf, you can play the bass, you
-get good grades. It seems like there's
-nothing you're bad at.");
+MsgDisp("主人公","You can surf, you can play the bass, you get
+good grades.
+It seems like there's nothing you're bad at.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

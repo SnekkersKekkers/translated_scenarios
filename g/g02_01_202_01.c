@@ -1,17 +1,16 @@
 MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020120201_01_000");
-MsgDisp("Kazama","It's pretty, but I noticed that coming
-here makes me think about stuff I don't
-want to.");
+MsgDisp("Kazama","It's pretty, but I noticed that coming here
+makes me think about stuff I don't want to.");
 MsgDisp("主人公","What do you mean?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020120201_01_010");
-MsgDisp("Kazama","Like, how should I put it? It's as if I'm
-looking at myself objectively...This's a
-strange place.");
+MsgDisp("Kazama","Like, how should I put it?
+It's as if I'm looking at myself
+objectively... This's a strange place.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -38,9 +37,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120201_01_050");
-MsgDisp("Kazama","The fact that it was him and not someone
-the same year as us made me realize that
-I'd gotten it wrong.");
+MsgDisp("Kazama","The fact that it was him and not someone the
+same year as us made me realize that I'd
+gotten it wrong.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -59,29 +58,29 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020120201_01_080");
-MsgDisp("Kazama","Well, he might be ahead of me right now,
-but there's still time.");
+MsgDisp("Kazama","Well, he might be ahead of me right now, but
+there's still time.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020120201_01_090");
-MsgDisp("Kazama","Thanks to you coming with me today, I
-learned that the thing I thought was a
-strength actually worked against me.");
+MsgDisp("Kazama","Thanks to you coming with me today, I learned
+that the thing I thought was a strength
+actually worked against me.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020120201_01_100");
-MsgDisp("Kazama","So I've decided to compete with him over
-the future I have with you.");
+MsgDisp("Kazama","So I've decided to compete with him over the
+future I have with you.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("G020120201_01_110");
-MsgDisp("Kazama","Like I'm gonna lose to the underclassman
-who popped out of nowhere.
+MsgDisp("Kazama","Like I'm gonna lose to the underclassman who
+popped out of nowhere.
 You know?");
 MsgDisp("主人公","(I'm pretty sure ｛Kazama＊＊｝ is talking
 about ｛Himuro＊＊｝...)");

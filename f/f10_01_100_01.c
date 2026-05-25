@@ -43,8 +43,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("F100110001_01_020");
-MsgDisp("Kazama","Well, when someone looks sick, it's
-natural to be concerned, right?");
+MsgDisp("Kazama","Well, when someone looks sick, it's natural
+to be concerned, right?");
 MsgDisp("主人公","Oh, thank you.
 I'm fine, it's just a little...");
 ChEye(1,0);

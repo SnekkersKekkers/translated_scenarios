@@ -1,23 +1,23 @@
 MsgClose();
 ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("G020210001_02_000");
-MsgDisp("Sassa","It feels like we're in a different world
-than usual.");
+MsgDisp("Sassa","It feels like we're in a different world than
+usual.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210001_02_010");
 MsgDisp("Sassa","You know, it almost feels like we can hear
-each other's thoughts, just like the
-rumors say?");
-MsgDisp("主人公","That's right... Can I try hearing
-｛Sassa＊＊｝'s inner voice?");
+each other's thoughts, just like the rumors
+say?");
+MsgDisp("主人公","That's right...
+Can I try hearing ｛Sassa＊＊｝'s inner voice?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210001_02_020");
-MsgDisp("Sassa","Alright, let's try talking with that
-premise, then.");
+MsgDisp("Sassa","Alright, let's try talking with that premise,
+then.");
 MsgDisp("主人公","Hm?");
 ChEye(2,0);
 ChMouth(2,4);

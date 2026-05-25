@@ -63,8 +63,8 @@ Mari and Hikaru were perfect▼");
     ChMotion(22,3,1);
     VoicePlay("H4A2200000_22_040");
     MsgDisp("Hikaru","Yeah yeah, we did♪
-It's because Mari gave Hikaru and the
-others strength.");
+It's because Mari gave Hikaru and the others
+strength.");
     MsgDisp("主人公","Huh, me?");
     ChEye(22,3);
     ChMouth(22,3);
@@ -80,9 +80,9 @@ Everyone wants to be like Mari.");
     VoicePlay("H4A2200000_22_060");
     MsgDisp("Hikaru","Mari is the rhythmic gymnastics club's
 etoile▼");
-    MsgDisp("主人公","(｛ひかる＊｝...I'm so happy! I'm
-really glad I stayed in the rhythmic
-gymnastics club!)");
+    MsgDisp("主人公","(｛ひかる＊｝...
+I'm so happy! I'm really glad I stayed in the
+rhythmic gymnastics club!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

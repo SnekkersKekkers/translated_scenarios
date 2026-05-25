@@ -51,8 +51,8 @@ Yeah, I guess you're right.");
     ChEyeOpenLevel(2,7);
     VoicePlay("N020200003_02_050");
     MsgDisp("Sassa","Yeah, I'm serious.
-If even I'm worried about you, that's
-a problem.");
+If even I'm worried about you, that's a
+problem.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
@@ -65,8 +65,8 @@ a problem.");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200003_02_060");
-    MsgDisp("Sassa","｛主人公｝, this is really weird coming
-from you.");
+    MsgDisp("Sassa","｛主人公｝, this is really weird coming from
+you.");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 What's wrong?");
     ChEye(2,0);
@@ -101,8 +101,8 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);
     MsgDisp("主人公","(｛Sassa＊＊｝, I'm so low on the list he
-didn't see it...Oof...I have to study
-harder next time...)");
+didn't see it...Oof...
+I have to study harder next time...)");
     break ;
     default :
     DbgAssert(1);

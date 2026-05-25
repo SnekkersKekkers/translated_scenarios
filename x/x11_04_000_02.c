@@ -10,8 +10,8 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("X110400002_04_000");
     MsgDisp("Nanatsumori","I heard that you won the practice match.
-Will you become the world's best judo
-player in the future?");
+Will you become the world's best judo player
+in the future?");
     MsgDisp("主人公","Hmmm, I'll do my best!");
     MsgDisp("主人公","(Phew, I'm glad we won!)");
     break ;
@@ -19,7 +19,7 @@ player in the future?");
     case 5:
     VoicePlay("X110400002_04_010");
     MsgDisp("Nanatsumori","I'll be right back. Your too brilliant
-one-handed backbreaker...I heard that you
+one-handed backbreaker... I heard that you
 made the audience go \"myriad?");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 It's a practice match, though, and we won.");

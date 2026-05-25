@@ -11,8 +11,7 @@ MsgDisp("Nanatsumori","｛主人公｝.");
 MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 What's up?");
 VoicePlay("G110400500_04_010");
-MsgDisp("Nanatsumori","Did you plan to come by Cafe Alucard
-today?");
+MsgDisp("Nanatsumori","Did you plan to come by Cafe Alucard today?");
 MsgDisp("主人公","?");
 MsgClose();
 ScrFadeOut(0);
@@ -41,8 +40,8 @@ BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("G110400500_04_030");
 MsgDisp("Nanatsumori","My bad.
-I didn't mean to make this hang out so
-last minute.");
+I didn't mean to make this hang out so last
+minute.");
 MsgDisp("主人公","Don't worry about it.
 What did you want to talk about?");
 ChEye(4,1);
@@ -95,8 +94,8 @@ ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,2);
 MsgDisp("Nanatsumori","Ah, my bad!
-I didn't mean to talk while standing,
-let's go take a seat here.");
+I didn't mean to talk while standing, let's
+go take a seat here.");
 MsgDisp("主人公","(Am I ｛Nanatsumori＊｝'s ideal type?)");
 BGMStop();
 MsgClose();

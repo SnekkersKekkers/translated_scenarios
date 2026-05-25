@@ -42,8 +42,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("B070600001_06_300");
-MsgDisp("Himuro","—Well, there are other things we talk
-about, but I can't say those.");
+MsgDisp("Himuro","—Well, there are other things we talk about,
+but I can't say those.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);

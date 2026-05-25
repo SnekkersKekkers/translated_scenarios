@@ -15,8 +15,8 @@ switch (ChPrmGet(6,6)){
 arrangements are popular.");
     VoicePlay("I460600005_40_020");
     MsgDisp("Man","I, see...");
-    MsgDisp("主人公","There are also male clerks if you'd like
-me to call one over?");
+    MsgDisp("主人公","There are also male clerks if you'd like me
+to call one over?");
     VoicePlay("I460600005_40_030");
     MsgDisp("Man","Ah...yes, please.");
     MsgDisp("","　　　　　　　　　　 ・
@@ -61,8 +61,8 @@ He said he gets nervous around women.");
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,35,3,0,4,#1,#1,0,0);
     VoicePlay("I460600005_06_030");
-    MsgDisp("Himuro","The dried flowers you made are being
-received pretty well.");
+    MsgDisp("Himuro","The dried flowers you made are being received
+pretty well.");
     MsgDisp("主人公","I was thinking that even flowers that have
 lost their vigor can still be enjoyed.");
     ChEye(6,0);

@@ -1,7 +1,8 @@
 ScrFadeIn(0);
 VoicePlay("P840700002_48_000");
-MsgDisp("School Girl","Good work～ That's amazing. You ordered
-the perfect amount of supplies?");
+MsgDisp("School Girl","Good work～
+That's amazing.
+You ordered the perfect amount of supplies?");
 MsgDisp("主人公","Yes, just one piece left.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -24,8 +25,8 @@ MsgDisp("Mikage","...Nevertheless, for only one piece to be
 left, seems like that was a great
 calculations.");
 MsgDisp("主人公","Yes.
-It was a coincidence but I was surprised
-it was like my estimate.");
+It was a coincidence but I was surprised it
+was like my estimate.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -39,13 +40,14 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P840700002_07_040");
-MsgDisp("Mikage","Yeah. Everyone had fun due to you guys'
-hard work. Wait a minute.");
+MsgDisp("Mikage","Yeah.
+Everyone had fun due to you guys' hard work.
+Wait a minute.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(I'm truly happy that I prepared properly
-and we were able to do it just as
+MsgDisp("主人公","(I'm truly happy that I prepared properly and
+we were able to do it just as
 planned...hurray!)");
 MsgClose();
 ScrFadeOut(0,0);

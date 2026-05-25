@@ -44,8 +44,8 @@ Really?");
     ChMotion(1,1);
     VoicePlay("L040100001_01_040");
     MsgDisp("Kazama","Yeah.
-Simon's customers, and grandmothers from
-the shopping district.");
+Simon's customers, and grandmothers from the
+shopping district.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -56,8 +56,7 @@ the shopping district.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Hm...
-Should I have given him a better
-chocolate?)");
+Should I have given him a better chocolate?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -68,8 +67,8 @@ chocolate?)");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("L040100001_01_060");
-    MsgDisp("Kazama","Uh...you're okay with these expressing
-your feelings, right?");
+    MsgDisp("Kazama","Uh...you're okay with these expressing your
+feelings, right?");
     MsgDisp("主人公","Um...
 Yes.");
     ChMotion(1,3);

@@ -10,9 +10,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610100_06_010");
-MsgDisp("Himuro","There are probably other reasons too...
-but at least the fireflies here look like
-they're in the middle of courtship.");
+MsgDisp("Himuro","There are probably other reasons too... but
+at least the fireflies here look like they're
+in the middle of courtship.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -31,8 +31,7 @@ ChMotion(6,0);
 VoicePlay("G020610100_06_040");
 MsgDisp("Himuro","It's a contest to see who can shine the
 brightest. If you slack off even a little,
-you lose. Everyone is tough
-competition.");
+you lose. Everyone is tough competition.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -49,8 +48,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020610100_06_070");
-MsgDisp("Himuro","Just remember, even if it looks graceful,
-it might be a fierce competition.");
+MsgDisp("Himuro","Just remember, even if it looks graceful, it
+might be a fierce competition.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

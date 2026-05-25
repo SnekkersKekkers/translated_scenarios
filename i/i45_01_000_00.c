@@ -13,8 +13,8 @@ Welcome!");
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,255,0,0,3,#1,#1,0,0);
     VoicePlay("I450100000_01_010");
-    MsgDisp("Kazama","You look like a bee, flying around all
-those flowers, you know?");
+    MsgDisp("Kazama","You look like a bee, flying around all those
+flowers, you know?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 A bee...
 What's up?");
@@ -23,22 +23,21 @@ What's up?");
     ChMotion(1,3);
     VoicePlay("I450100000_01_020");
     MsgDisp("Kazama","I was lured in by the flowers, too.");
-    MsgDisp("主人公","Then you're a bee too, right,
-｛Kazama＊＊｝?");
+    MsgDisp("主人公","Then you're a bee too, right, ｛Kazama＊＊｝?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I450100000_01_030");
-    MsgDisp("Kazama","I guess so. Now that I've seen such a
-beautiful flower, I'll return to my hive.
-See you.");
+    MsgDisp("Kazama","I guess so.
+Now that I've seen such a beautiful flower,
+I'll return to my hive. See you.");
     MsgDisp("主人公","Hehe, bye.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hm, did ｛Kazama＊＊｝ just come to check
-on me?)");
+    MsgDisp("主人公","(Hm, did ｛Kazama＊＊｝ just come to check on
+me?)");
     break ;
     case 3:
     MsgClose();
@@ -47,8 +46,8 @@ on me?)");
     VoicePlay("I450100000_01_040");
     MsgDisp("Kazama","There you are, worker bee.");
     MsgDisp("主人公","｛Kazama＊＊｝.
-Geez, I'd rather be called a butterfly
-than a bee, you know?");
+Geez, I'd rather be called a butterfly than a
+bee, you know?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -71,8 +70,8 @@ Hardworking and friendly.");
     SEWait();
     VoicePlay("I450100000_01_070");
     MsgDisp("Kazama","Here's a candy.
-I'll put it in your apron pocket, so eat
-it secretly later.");
+I'll put it in your apron pocket, so eat it
+secretly later.");
     MsgDisp("主人公","Hehe, okay.
 Thanks, ｛Kazama＊＊｝.");
     MsgClose();
@@ -82,16 +81,14 @@ Thanks, ｛Kazama＊＊｝.");
     MsgClose();
     ChOpen(1,255,0,0,3,#1,#1,0,0,0,30);
     VoicePlay("I450100000_01_080");
-    MsgDisp("Kazama","Sure you're not working too hard, little
-bee?
+    MsgDisp("Kazama","Sure you're not working too hard, little bee?
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Let's replenish our sugar with
-｛Kazama＊＊｝'s candy and get back to
-work!)");
+｛Kazama＊＊｝'s candy and get back to work!)");
     break ;
     case 4:
     case 5:
@@ -106,8 +103,7 @@ Welcome!");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("I450100000_01_100");
-    MsgDisp("Kazama","I came to order a flower arrangement
-today.");
+    MsgDisp("Kazama","I came to order a flower arrangement today.");
     MsgDisp("主人公","Um, then I'll call the manager...");
     ChEye(1,0);
     ChMouth(1,2);
@@ -149,8 +145,8 @@ I'll try.");
     MsgDisp("Kazama","Ooh, nice.
 As expected, you've got good sense.");
     MsgDisp("主人公","I'm glad.
-I hope the person you're giving it to will
-be happy with it.");
+I hope the person you're giving it to will be
+happy with it.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

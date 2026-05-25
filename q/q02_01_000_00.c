@@ -106,8 +106,9 @@ So, where do you want to go?");
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("Q020100000_01_100");
-        MsgDisp("Kazama","Oh, so you already have a prior
-commitment? Alright. Have fun.");
+        MsgDisp("Kazama","Oh, so you already have a prior commitment?
+Alright.
+Have fun.");
         MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :

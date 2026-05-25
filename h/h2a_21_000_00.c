@@ -45,8 +45,7 @@ field club manager!)");
     VoicePlay("H2A2100000_21_020");
     MsgDisp("Michiru","Amazing, you won!");
     MsgDisp("主人公","Thanks!
-It's thanks to your support,
-｛みちる＊｝.");
+It's thanks to your support, ｛みちる＊｝.");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,0);
@@ -58,12 +57,12 @@ I was cheering for you though, Mari.");
     ChMouth(21,3);
     ChMotion(21,4);
     VoicePlay("H2A2100000_21_040");
-    MsgDisp("Michiru","Mari's here, and a lot of great members
-are here. It really is a great team.
+    MsgDisp("Michiru","Mari's here, and a lot of great members are
+here. It really is a great team.
 Really, congratulations on winning.");
     MsgDisp("主人公","(｛みちる＊｝...
-I'm glad that I stayed as the track and
-field club manager!)");
+I'm glad that I stayed as the track and field
+club manager!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

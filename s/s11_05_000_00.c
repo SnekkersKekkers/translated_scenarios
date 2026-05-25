@@ -22,16 +22,15 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("S110500000_05_020");
 MsgDisp("Hiiragi","It's fine.
-I just think of it like the first instance
-of a year's worth of bad luck.");
+I just think of it like the first instance of
+a year's worth of bad luck.");
 MsgDisp("主人公","Wow, you're amazing, ｛Hiiragi＊＊＊｝.
-If I got Very Bad Luck, I'd feel 
-depressed...");
+If I got Very Bad Luck, I'd feel depressed...");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("S110500000_05_030");
-MsgDisp("Hiiragi","Well, when you start down, all that's left
-is to go up, right?");
+MsgDisp("Hiiragi","Well, when you start down, all that's left is
+to go up, right?");
 ChMouth(5,2);
 ChMotion(5,2);
 VoicePlay("S110500000_05_040");
@@ -45,5 +44,5 @@ MsgDisp("Hiiragi","It's said that if you tie the knot in the
 opposite direction of your main hand, the
 luck will change from bad to good. Oh,
 there it is!");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝ actually cares about this
-stuff a bit...?)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ actually cares about this stuff
+a bit...?)");

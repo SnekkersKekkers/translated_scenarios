@@ -43,8 +43,8 @@ Was I too early?");
     ChMotion(2,4);
     VoicePlay("S060200000_02_040");
     MsgDisp("Sassa","That's good.
-I ran a lot of laps around the
-neighborhood to pass the time.");
+I ran a lot of laps around the neighborhood
+to pass the time.");
     MsgDisp("主人公","Eeh, seriously∋");
     break ;
     default :

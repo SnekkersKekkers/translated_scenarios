@@ -1,7 +1,6 @@
-MsgDisp("主人公","(I should slowly make my way home...Ah,
-it's still early. Let's try going to the
-beach. Maybe ｛Sassa＊＊｝ is training
-there?)");
+MsgDisp("主人公","(I should slowly make my way home... Ah, it's
+still early. Let's try going to the beach.
+Maybe ｛Sassa＊＊｝ is training there?)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -25,8 +24,8 @@ ChOpen(2,41,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200200_02_010");
 MsgDisp("Sassa","Huh...what are you doing here?");
-MsgDisp("主人公","I thought maybe ｛Sassa＊＊｝ was out
-running here.");
+MsgDisp("主人公","I thought maybe ｛Sassa＊＊｝ was out running
+here.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -37,8 +36,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("G110200200_02_030");
-MsgDisp("Sassa","Well then, I'll live up to your
-expectations and run a bit more.
+MsgDisp("Sassa","Well then, I'll live up to your expectations
+and run a bit more.
 You run too.");
 MsgDisp("主人公","Ehh-∋");
 MsgClose();
@@ -75,8 +74,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("G110200200_02_070");
-MsgDisp("Sassa","Wouldn't it be awful if your article was
-like fake news?");
+MsgDisp("Sassa","Wouldn't it be awful if your article was like
+fake news?");
 MsgDisp("主人公","Hehe, yeah.
 I'm rooting for you!");
 ChEye(2,0);

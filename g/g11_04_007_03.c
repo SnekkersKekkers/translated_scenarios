@@ -1,8 +1,7 @@
 BGOpen("ar100",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's kind of empty today.
-Not even ｛Nanatsumori＊｝ seems to be
-here...)");
+Not even ｛Nanatsumori＊｝ seems to be here...)");
 MsgClose();
 SEPlay("EV_SE_DOOR_014");
 Wait(50,0);
@@ -110,8 +109,8 @@ ChMotion(4,0);
 VoicePlay("G110400703_04_080");
 MsgDisp("Nanatsumori","Aah...that's enough, it can be a pain
 sometimes.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems very serious about
-his work.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems very serious about his
+work.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

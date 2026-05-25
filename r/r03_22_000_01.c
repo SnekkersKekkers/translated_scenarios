@@ -8,8 +8,8 @@ MsgDisp("主人公","Really?
 Thank you!");
 ChMotion(22,0,1);
 VoicePlay("R032200001_22_010");
-MsgDisp("Hikaru","Mari, maybe you can work as a model since
-you can be both cute and sexy?");
+MsgDisp("Hikaru","Mari, maybe you can work as a model since you
+can be both cute and sexy?");
 MsgDisp("主人公","No way...");
 ChEye(22,0);
 ChMouth(22,3);

@@ -23,23 +23,22 @@ Did you come to watch?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100001_01_010");
-    MsgDisp("Kazama","You're going to wear your dress and walk
-as a model, how could I miss that?");
+    MsgDisp("Kazama","You're going to wear your dress and walk as a
+model, how could I miss that?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("P730100001_01_020");
-    MsgDisp("Kazama","Ah, I have to reserve a seat for the
-camera.");
+    MsgDisp("Kazama","Ah, I have to reserve a seat for the camera.");
     MsgDisp("主人公","Hehe, hey.
 It's like you're at your kid's play.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100001_01_030");
-    MsgDisp("Kazama","It's not like that. The dress and model
-are both on par with a pro. Go with
-confidence in yourself.");
+    MsgDisp("Kazama","It's not like that.
+The dress and model are both on par with a
+pro. Go with confidence in yourself.");
     MsgDisp("主人公","Yeah, thank you.
 Thanks to ｛Kazama＊＊｝, I gained some
 courage.");

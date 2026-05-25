@@ -11,23 +11,22 @@ ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720000_07_010");
-MsgDisp("Mikage","Yeah, because we're on the same
-level—hey, leave me alone.");
+MsgDisp("Mikage","Yeah, because we're on the same level—hey,
+leave me alone.");
 MsgDisp("主人公","Hehe.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720000_07_020");
-MsgDisp("Mikage","But, they were worried about you, you
-know?");
+MsgDisp("Mikage","But, they were worried about you, you know?");
 MsgDisp("主人公","Huh, about me?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020720000_07_030");
-MsgDisp("Mikage","Yeah. They said there's someone you've
-gotten really close to recently. They want
-to know the truth.");
+MsgDisp("Mikage","Yeah. They said there's someone you've gotten
+really close to recently.
+They want to know the truth.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -39,8 +38,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720000_07_050");
 MsgDisp("Mikage","That face says you have someone in mind.
-Well, it's fine. Romance is an important
-part of high school life, after all.");
+Well, it's fine. Romance is an important part
+of high school life, after all.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -62,8 +61,7 @@ ChEyeOpenLevel(7,8);
 VoicePlay("G020720000_07_080");
 MsgDisp("Mikage","Alright, that's good news for those guys.
 They'll be happy～?");
-MsgDisp("主人公","(｛Mikage＊＊｝ also seems happy
-though...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ also seems happy though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

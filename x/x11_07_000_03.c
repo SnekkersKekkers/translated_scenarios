@@ -8,9 +8,8 @@ switch (ChPrmGet(7,6)){
     ScrFadeIn(0);
     VoicePlay("X110700003_07_000");
     MsgDisp("Mikage","They say you were able to pull off a super
-difficult move during the rhythmic
-gymnastics club's joint practice.
-Congrats.");
+difficult move during the rhythmic gymnastics
+club's joint practice. Congrats.");
     MsgDisp("主人公","Yes, thank you very much!");
     MsgDisp("主人公","(Yay!
 I was praised by ｛Mikage＊＊｝!)");
@@ -30,8 +29,8 @@ What's up?");
     ChMotion(7,0);
     VoicePlay("X110700003_07_020");
     MsgDisp("Mikage","I heard.
-You pulled off a new move during the
-rhythmic gymnastics club's joint practice.");
+You pulled off a new move during the rhythmic
+gymnastics club's joint practice.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

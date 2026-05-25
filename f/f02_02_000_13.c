@@ -30,23 +30,23 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("F020200013_02_030");
-MsgDisp("Sassa","That, and I'm sure there will be a huge
-bath. After an onsen, a sauna and a cold
-bath. It's the best.");
+MsgDisp("Sassa","That, and I'm sure there will be a huge bath.
+After an onsen, a sauna and a cold bath.
+It's the best.");
 MsgDisp("主人公","｛Sassa＊＊｝, you really like baths, huh?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("F020200013_02_040");
-MsgDisp("Sassa","Hanging out with everyone is great, but a
-big bath just genuinely feels amazing.");
+MsgDisp("Sassa","Hanging out with everyone is great, but a big
+bath just genuinely feels amazing.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("F020200013_02_050");
-MsgDisp("Sassa","If I yelled, would you hear me on the
-girls' side?
+MsgDisp("Sassa","If I yelled, would you hear me on the girls'
+side?
 Can I call your name?");
 MsgDisp("主人公","...I'd prefer it if you didn't.");
 ChEye(2,2);

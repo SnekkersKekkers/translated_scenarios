@@ -39,8 +39,9 @@ I'll have a house blend.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("F010700005_07_040");
-    MsgDisp("Mikage","Hey. Where'd you learn that technique,
-Miss Diligent? Come on, let's go.");
+    MsgDisp("Mikage","Hey.
+Where'd you learn that technique, Miss
+Diligent? Come on, let's go.");
     MsgDisp("主人公","Okay～.");
     break ;
     default :

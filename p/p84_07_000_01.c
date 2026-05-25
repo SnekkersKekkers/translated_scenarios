@@ -12,8 +12,7 @@ VoicePlay("P840700001_07_000");
 MsgDisp("Mikage","Oi, what's wrong.
 Why are you making that face.");
 MsgDisp("主人公","Ah, ｛Mikage＊＊｝...
-I got the guest's names wrong many
-times...");
+I got the guest's names wrong many times...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -40,11 +39,11 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("P840700001_07_040");
-MsgDisp("Mikage","It's kind of funny that you did it over
-and over again though.");
+MsgDisp("Mikage","It's kind of funny that you did it over and
+over again though.");
 MsgDisp("主人公","(Haa...
-If only I had looked over the list of
-names properly...)");
+If only I had looked over the list of names
+properly...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

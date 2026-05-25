@@ -27,8 +27,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("H6G0100000_01_030");
-MsgDisp("Kazama","Just, I don't feel too good about you
-getting too into this.");
+MsgDisp("Kazama","Just, I don't feel too good about you getting
+too into this.");
 MsgDisp("主人公","Huh?
 They're just plants, you know?");
 ChEye(1,0);
@@ -36,8 +36,7 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("H6G0100000_01_040");
-MsgDisp("Kazama","You should take care of people too,
-please.");
+MsgDisp("Kazama","You should take care of people too, please.");
 MsgDisp("主人公","Okay, I'll try not to forget.");
 ChEye(1,3);
 ChMouth(1,3);

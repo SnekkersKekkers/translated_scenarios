@@ -31,8 +31,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("L060100001_01_030");
 MsgDisp("Kazama","It's a little different than the others.
-That's why it'd be a problem if others
-saw, right?");
+That's why it'd be a problem if others saw,
+right?");
 MsgDisp("主人公","I see, thanks.
 ｛Kazama＊＊｝, you got a lot of chocolate,
 right?");

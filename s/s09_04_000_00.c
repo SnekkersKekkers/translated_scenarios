@@ -53,8 +53,7 @@ Do you want to pull fortunes?");
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_040");
         MsgDisp("Nanatsumori","OK.
-We can only do this during New Years,
-right?");
+We can only do this during New Years, right?");
         MsgDisp("主人公","Hehe!");
         break ;
         case 1:
@@ -104,8 +103,8 @@ fortunes?");
         ChMotion(4,1,1);
         VoicePlay("S090400000_04_090");
         MsgDisp("Nanatsumori","How do you think it's possible for such a
-little piece of paper to influence your
-life for the rest of the year?");
+little piece of paper to influence your life
+for the rest of the year?");
         MsgDisp("主人公","Hehe!");
         ChEye(4,0);
         ChMouth(4,3);
@@ -121,8 +120,8 @@ Let's go!");
         ChMotion(4,2,1);
         VoicePlay("S090400000_04_110");
         MsgDisp("Nanatsumori","I see.
-...When you say it like that, I don't want
-to back down.");
+...When you say it like that, I don't want to
+back down.");
         MsgDisp("主人公","Did you want to try?
 Let's go.");
         ChEye(4,2);

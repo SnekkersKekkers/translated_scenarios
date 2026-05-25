@@ -3,8 +3,8 @@ ChOpen(1,255,0,0,2,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020120200_01_000");
 MsgDisp("Kazama","Feels like it's now or never.");
-MsgDisp("主人公","It just looks pretty to me, but the
-fireflies are doing their best.");
+MsgDisp("主人公","It just looks pretty to me, but the fireflies
+are doing their best.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -30,8 +30,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
 VoicePlay("G020120200_01_040");
-MsgDisp("Kazama","Do you like ones that are abnormally big
-and fly super fast?");
+MsgDisp("Kazama","Do you like ones that are abnormally big and
+fly super fast?");
 MsgDisp("主人公","Um...
 You're talking about fireflies, right?");
 ChEye(1,0);
@@ -58,9 +58,9 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120200_01_080");
-MsgDisp("Kazama","So I know that if I get in the ring with
-him, I'd be no match for him. Even if I
-did track, there's no way I could win.");
+MsgDisp("Kazama","So I know that if I get in the ring with him,
+I'd be no match for him. Even if I did track,
+there's no way I could win.");
 MsgDisp("主人公","Um...
 ｛Kazama＊＊｝.
 Is something wrong?");
@@ -69,9 +69,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120200_01_090");
-MsgDisp("Kazama","Nothing's wrong. I'm just talking to
-myself. But I've got a ten-year head
-start, though that might not be fair.");
+MsgDisp("Kazama","Nothing's wrong. I'm just talking to myself.
+But I've got a ten-year head start, though
+that might not be fair.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

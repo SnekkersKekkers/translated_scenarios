@@ -40,14 +40,14 @@ VoicePlay("G110600600_06_020");
 MsgDisp("Himuro","...Before, you wanted to know what my type
 was?
 Why was that?");
-MsgDisp("主人公","Umm...even if I said that then, it was
-just mere curiosity?");
+MsgDisp("主人公","Umm...even if I said that then, it was just
+mere curiosity?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600600_06_030");
-MsgDisp("Himuro","Other than that, there was no other
-intention at all?");
+MsgDisp("Himuro","Other than that, there was no other intention
+at all?");
 MsgDisp("主人公","Um, yeah...");
 ChEye(6,0);
 ChMouth(6,1);
@@ -78,8 +78,8 @@ ChMouth(6,1);
 ChMotion(6,2);
 ChCheek(6,0);
 VoicePlay("G110600600_06_070");
-MsgDisp("Himuro","It seems that I was an idiot for worrying
-so much.");
+MsgDisp("Himuro","It seems that I was an idiot for worrying so
+much.");
 MsgDisp("主人公","(｛Himuro＊＊｝...
 That question really worried you, huh...)");
 BGMStop();

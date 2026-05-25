@@ -16,8 +16,8 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H1A0600001_06_010");
-    MsgDisp("Himuro","It just means that that's the extent of
-your skills right now.
+    MsgDisp("Himuro","It just means that that's the extent of your
+skills right now.
 Nothing more than that.");
     ChEye(6,0);
     ChMouth(6,4);
@@ -42,8 +42,8 @@ So...head up.");
     ChMotion(6,0);
     VoicePlay("H1A0600001_06_040");
     MsgDisp("Himuro","Well, that's fine too.
-It wasn't a match that you should be
-ashamed to lose.");
+It wasn't a match that you should be ashamed
+to lose.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0,1);

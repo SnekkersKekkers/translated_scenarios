@@ -19,9 +19,9 @@ though.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("X110200003_02_010");
-    MsgDisp("Sassa","That's good. If you can do it in practice,
-you can do it in the real thing. Let's
-both do our best!");
+    MsgDisp("Sassa","That's good.
+If you can do it in practice, you can do it
+in the real thing. Let's both do our best!");
     MsgDisp("主人公","(I'm glad I practiced hard.
 I'll work harder!)");
     break ;
@@ -43,19 +43,19 @@ practice.");
     ChMotion(2,4);
     VoicePlay("X110200003_02_030");
     MsgDisp("Sassa","I'd like to go and support you to see your
-new technique, but it's not safe if
-someone like me is peeking in ...");
+new technique, but it's not safe if someone
+like me is peeking in ...");
     MsgDisp("主人公","Huh, that's not true, though, ｛Sassa＊＊｝
-must be busy with track and field
-practice, right?");
+must be busy with track and field practice,
+right?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);
     VoicePlay("X110200003_02_040");
     MsgDisp("Sassa","Well, you're right ...
 But I always support you in heart!");
-    MsgDisp("主人公","(Yay! It's nice to be cheered on by
-｛Sassa＊＊｝)");
+    MsgDisp("主人公","(Yay!
+It's nice to be cheered on by ｛Sassa＊＊｝)");
     break ;
     default :
     DbgAssert(1);

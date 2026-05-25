@@ -10,9 +10,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("P643100003_31_010");
-MsgDisp("Goro","That root vegetable that takes the shape
-of a human. I feel like it's been staring
-at me for a while now...");
+MsgDisp("Goro","That root vegetable that takes the shape of a
+human. I feel like it's been staring at me
+for a while now...");
 MsgDisp("主人公","Ummm...that's a radish.");
 ChEye(31,0);
 ChMouth(31,0);

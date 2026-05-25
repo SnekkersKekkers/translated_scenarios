@@ -20,26 +20,25 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700700_07_010");
 MsgDisp("Mikage","Well yeah, even if I come just to check it
-out, I end up getting my hands dirty
-anyways.");
+out, I end up getting my hands dirty anyways.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700700_07_020");
-MsgDisp("Mikage","Even a slight change in weather can be a
-big deal for plants, as they can't move.");
-MsgDisp("主人公","So you always have to be mindful and keep
-an eye on them, right?");
+MsgDisp("Mikage","Even a slight change in weather can be a big
+deal for plants, as they can't move.");
+MsgDisp("主人公","So you always have to be mindful and keep an
+eye on them, right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700700_07_030");
-MsgDisp("Mikage","That's right. It's easy to tell when an
-animal is in a bad mood, like Momo at the
-farm the other day.");
+MsgDisp("Mikage","That's right.
+It's easy to tell when an animal is in a bad
+mood, like Momo at the farm the other day.");
 MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝ can understand the
-feelings of both plants and animals.");
+｛Mikage＊＊｝ can understand the feelings
+of both plants and animals.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -77,14 +76,15 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G110700700_07_070");
-MsgDisp("Mikage","Hmm? No, this won't do. Vice Principal
-Himuro will give me a good scolding.");
+MsgDisp("Mikage","Hmm?
+No, this won't do. Vice Principal Himuro will
+give me a good scolding.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Hehe ｛Mikage＊＊｝, Are you going to
-make in time for class?)");
+MsgDisp("主人公","(Hehe ｛Mikage＊＊｝, Are you going to make
+in time for class?)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

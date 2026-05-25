@@ -32,13 +32,13 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010420100_02_020");
-MsgDisp("Sassa","Ah, I was walking a friend's dog when I
-ran into Nanatsumori.
+MsgDisp("Sassa","Ah, I was walking a friend's dog when I ran
+into Nanatsumori.
 It seems he likes dogs.");
 ChMotion(4,2,1);
 VoicePlay("E010420100_04_020");
-MsgDisp("Nanatsumori","I've never seen such a big dog, so I
-really wanted to pet it.");
+MsgDisp("Nanatsumori","I've never seen such a big dog, so I really
+wanted to pet it.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -70,11 +70,11 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("E010420100_02_050");
 MsgDisp("Sassa","It's impossible.
-If you have the leash, you have no choice
-but to run.");
+If you have the leash, you have no choice but
+to run.");
 MsgDisp("主人公","(Haha!
-｛Nanatsumori＊｝ and ｛Sassa＊＊｝, you 
-really like dogs, don't you?)");
+｛Nanatsumori＊｝ and ｛Sassa＊＊｝, you really
+like dogs, don't you?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

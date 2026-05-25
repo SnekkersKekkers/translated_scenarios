@@ -13,8 +13,8 @@ MsgDisp("主人公","It's ｛ひかる＊｝!
 Sure, what's up?");
 VoicePlay("U100D00001_22_010");
 MsgDisp("Hikaru","Would you like to sleepover at our house
-tonight? It will be fun to have girl talk
-all night with sis♪");
+tonight? It will be fun to have girl talk all
+night with sis♪");
 MsgSel("Ok, I'll go!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,8 +38,8 @@ This will be fun!)");
 Well then...maybe another time?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Even though she went through the trouble
-of inviting me...
+    MsgDisp("主人公","(Even though she went through the trouble of
+inviting me...
 Was that the right choice?)");
     break ;
     default :

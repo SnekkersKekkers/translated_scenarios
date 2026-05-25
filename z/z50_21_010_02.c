@@ -14,7 +14,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("Z502101002_21_010");
 MsgDisp("Michiru","Right, that part is perfect.
-But you shouldn't wear such thin clothes
-in this season.");
+But you shouldn't wear such thin clothes in
+this season.");
 MsgDisp("主人公","(I have to be aware of the season, too.
 Let's be more careful from now on.)");

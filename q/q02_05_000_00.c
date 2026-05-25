@@ -23,8 +23,8 @@ Yes, and you ｛Hiiragi＊＊＊｝?");
     MsgDisp("主人公","Huh, what may it be?");
     ChMotion(5,0);
     VoicePlay("Q020500000_05_020");
-    MsgDisp("Hiiragi","Would you mind spending the free period
-today with me?");
+    MsgDisp("Hiiragi","Would you mind spending the free period today
+with me?");
     MsgSel("Sure, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -32,9 +32,9 @@ today with me?");
         ChMouth(5,4);
         ChMotion(5,0,1);
         VoicePlay("Q020500000_05_030");
-        MsgDisp("Hiiragi","Thank you. With this, I'm able to say with
-full confidence that I'm enjoying the
-school trip.");
+        MsgDisp("Hiiragi","Thank you.
+With this, I'm able to say with full
+confidence that I'm enjoying the school trip.");
         MsgDisp("主人公","Hehe, yay!");
         ChEye(5,0);
         ChMouth(5,4);
@@ -51,14 +51,14 @@ school trip.");
         ChMouth(5,4);
         ChMotion(5,0,1);
         VoicePlay("Q020500000_05_050");
-        MsgDisp("Hiiragi","No, I apologize for the invitation out of
-the blue.
+        MsgDisp("Hiiragi","No, I apologize for the invitation out of the
+blue.
 To each our own, let us enjoy Nagasaki.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
-        MsgDisp("主人公","(I feel a bit bad refusing, he even
-invited me...)");
+        MsgDisp("主人公","(I feel a bit bad refusing, he even invited
+me...)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -89,14 +89,14 @@ invited me...)");
     Wait(20,1);
     VoicePlay("Q020500000_05_080");
     MsgDisp("Hiiragi","Thank you.
-It's my first time, so I am excited more
-than everyone else.");
+It's my first time, so I am excited more than
+everyone else.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("Q020500000_05_090");
-    MsgDisp("Hiiragi","While I'm riding this high, I'd like to
-ask you something. Would you like to join
-me for today's free period?");
+    MsgDisp("Hiiragi","While I'm riding this high, I'd like to ask
+you something. Would you like to join me for
+today's free period?");
     MsgSel("Yes, let's go!","Sorry, I...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -105,8 +105,7 @@ me for today's free period?");
         ChMotion(5,4);
         ChEyeOpenLevel(5,0);
         VoicePlay("Q020500000_05_100");
-        MsgDisp("Hiiragi","This will make the experience more
-enjoyable.");
+        MsgDisp("Hiiragi","This will make the experience more enjoyable.");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("Q020500000_05_110");
@@ -119,8 +118,9 @@ I'll get ready quickly!");
         VoicePlay("Q020500000_05_120");
         MsgDisp("Hiiragi","Oh right, please take your time.
 I will rejoice here as I wait for you.");
-        MsgDisp("主人公","(Hehe! ｛Hiiragi＊＊＊｝ looks so excited. I'm
-sure it will be a wonderful school trip!)");
+        MsgDisp("主人公","(Hehe!
+｛Hiiragi＊＊＊｝ looks so excited.
+I'm sure it will be a wonderful school trip!)");
         MsgClose();
         ScrFadeOut(0,0);
         ChClose(5,0,0);
@@ -137,9 +137,8 @@ It's unfortunate, but it can't be helped.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("Q020500000_05_140");
-        MsgDisp("Hiiragi","Since we are in an unfamiliar place,
-please take caution with your
-surroundings.");
+        MsgDisp("Hiiragi","Since we are in an unfamiliar place, please
+take caution with your surroundings.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);

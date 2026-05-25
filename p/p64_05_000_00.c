@@ -12,8 +12,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("P640500000_05_010");
-MsgDisp("Hiiragi","Yes, it's relaxing and delicious at the
-same time.");
+MsgDisp("Hiiragi","Yes, it's relaxing and delicious at the same
+time.");
 MsgDisp("主人公","Hehe, it's relaxing because of the herbs
 used, huh?");
 ChEye(5,4);

@@ -36,8 +36,8 @@ Please return me to my world.");
 VoicePlay("P240201000_33_020");
 MsgDisp("Hades","I can't do that.");
 VoicePlay("P240201000_48_010");
-MsgDisp("Persephone","...Then I will cry, I will continue to
-await help.");
+MsgDisp("Persephone","...Then I will cry, I will continue to await
+help.");
 VoicePlay("P240201000_33_040");
 MsgDisp("Hades","...That will not come true.
 The gatekeeper of hell, Cerebus will not
@@ -61,8 +61,7 @@ SEStop("EV_SE_679",0.5);
 VoicePlay("P240201000_02_030");
 MsgDisp("Sassa","Yeah, it wasn't very threatening though.");
 MsgDisp("主人公","Hehe, yeah.
-Guess he wants to play with ｛Sassa＊＊｝,
-huh?");
+Guess he wants to play with ｛Sassa＊＊｝, huh?");
 VoicePlay("P240201000_48_020");
 MsgDisp("Persephone","Then, I will escape myself.");
 SEPlay("EV_SE_FOOT_001",0.3,0.2);

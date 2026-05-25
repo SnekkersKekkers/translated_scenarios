@@ -4,8 +4,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","...Alright.
 Time to head home.");
 VoicePlay("E010120100_01_000");
-MsgDisp("Kazama?","A select shop like ours doesn't have a lot
-of stock, you see.");
+MsgDisp("Kazama?","A select shop like ours doesn't have a lot of
+stock, you see.");
 VoicePlay("E010120100_05_000");
 MsgDisp("Hiiragi?","I see.
 Thank you.
@@ -75,8 +75,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010120100_05_060");
 MsgDisp("Hiiragi","I'll be waiting. That's the charismatic
-shopkeeper we've heard so much about,
-isn't it? Well, I'll get going.");
+shopkeeper we've heard so much about, isn't
+it? Well, I'll get going.");
 ChMouth(1,0);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -89,9 +89,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("E010120100_01_050");
-MsgDisp("Kazama","Yeah, for the anniversary of the troupe,
-they give gifts to parents and old
-members.");
+MsgDisp("Kazama","Yeah, for the anniversary of the troupe, they
+give gifts to parents and old members.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

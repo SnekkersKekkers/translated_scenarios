@@ -51,8 +51,8 @@ ChMouth(22,3);
 ChMotion(22,0);
 ChEyeOpenLevel(22,8);
 VoicePlay("E010640000_22_030");
-MsgDisp("Hikaru","Himuro-chan is sooo cute～♪ Whenever
-Hikaru gets close, Himuro will put
+MsgDisp("Hikaru","Himuro-chan is sooo cute～♪
+Whenever Hikaru gets close, Himuro will put
 distance between us. It's so funny～!");
 ChEye(6,0);
 ChMouth(6,0);
@@ -60,8 +60,8 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("E010640000_06_050");
-MsgDisp("Himuro","Hanatsubaki-senpai has no sense of
-personal space.");
+MsgDisp("Himuro","Hanatsubaki-senpai has no sense of personal
+space.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -132,7 +132,8 @@ ChMouth(6,0);
 ChMotion(6,5);
 ChCheek(6,10);
 VoicePlay("E010640000_06_100");
-MsgDisp("Himuro","∋ ...It's nothing!");
+MsgDisp("Himuro","∋
+...It's nothing!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);

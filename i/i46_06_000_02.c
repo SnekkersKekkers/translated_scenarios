@@ -67,8 +67,8 @@ I'm glad.)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600002_06_070");
-    MsgDisp("Himuro","First, you were asked to do this because
-you have good sense, right?");
+    MsgDisp("Himuro","First, you were asked to do this because you
+have good sense, right?");
     MsgDisp("主人公","I guess so...");
     ChEye(6,0);
     ChMouth(6,0);

@@ -15,15 +15,15 @@ MsgDisp("Hiiragi","This year is our last.");
 MsgDisp("主人公","Yeah, it's a little lonely...");
 ChEye(5,4);
 VoicePlay("P810500002_05_010");
-MsgDisp("Hiiragi","I like doing work itself together with
-you. That's why the preparatory period is
-like the real thing.");
+MsgDisp("Hiiragi","I like doing work itself together with you.
+That's why the preparatory period is like the
+real thing.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P810500002_05_020");
-MsgDisp("Hiiragi","...I truly enjoyed preparing for the
-cultural festival alongside you these last
-three years.");
+MsgDisp("Hiiragi","...I truly enjoyed preparing for the cultural
+festival alongside you these last three
+years.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,0);

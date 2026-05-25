@@ -5,9 +5,8 @@ VoicePlay("I562100002_40_000");
 MsgDisp("Customer","Um...
 What would you suggest I bring to meet my
 girlfriend's parents...?");
-MsgDisp("主人公","If you're looking for Japanese sweets...
-how about this assortment of seasonal
-sweets?");
+MsgDisp("主人公","If you're looking for Japanese sweets... how
+about this assortment of seasonal sweets?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -22,8 +21,9 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("I562100002_21_010");
-MsgDisp("Michiru","Really. You were right to recommend
-seasonal items. As expected!");
+MsgDisp("Michiru","Really.
+You were right to recommend seasonal items.
+As expected!");
 MsgDisp("主人公","(I did it!
 ｛みちる＊｝ praised me!)");
 BGMStop();

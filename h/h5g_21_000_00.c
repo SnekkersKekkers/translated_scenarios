@@ -26,11 +26,10 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("H5G2100000_21_030");
-MsgDisp("Michiru","It makes me happy too, that a day like
-this where you receive a reward would
-come. Congratulations, Mari.");
+MsgDisp("Michiru","It makes me happy too, that a day like this
+where you receive a reward would come.
+Congratulations, Mari.");
 MsgDisp("主人公","(Hehe, I'm so happy!
-I'm glad I practiced so hard for brass
-band!)");
+I'm glad I practiced so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

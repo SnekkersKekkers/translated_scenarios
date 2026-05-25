@@ -114,8 +114,8 @@ See you later.");
         BGMStop();
         ChClose(7);
         MsgDisp("主人公","(Right...
-He went to the trouble of inviting me, but
-it just wasn't right...)");
+He went to the trouble of inviting me, but it
+just wasn't right...)");
         break ;
         case 4:
         case 5:
@@ -131,8 +131,8 @@ See you.");
         BGMStop();
         ChClose(7);
         MsgDisp("主人公","(Right...
-He went to the trouble of inviting me, but
-it just wasn't right...)");
+He went to the trouble of inviting me, but it
+just wasn't right...)");
         break ;
         default :
         DbgAssert(1);

@@ -19,37 +19,36 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720300_07_020");
-MsgDisp("Mikage","There's talk of Molly getting married off
-to a cow from another farm.");
+MsgDisp("Mikage","There's talk of Molly getting married off to
+a cow from another farm.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020720300_07_030");
-MsgDisp("Mikage","It's a good offer, but sending her off to
-a place I don't know...");
-MsgDisp("主人公","Molly-chan is the cow that is being raised
-on ｛Mikage＊＊｝'s family farm, right?");
+MsgDisp("Mikage","It's a good offer, but sending her off to a
+place I don't know...");
+MsgDisp("主人公","Molly-chan is the cow that is being raised on
+｛Mikage＊＊｝'s family farm, right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720300_07_040");
-MsgDisp("Mikage","Yeah, she's a super～ beautiful Holstein
-cow.");
+MsgDisp("Mikage","Yeah, she's a super～ beautiful Holstein cow.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020720300_07_050");
-MsgDisp("Mikage","Anyhow, I rarely get to see her, so maybe
-her happiness is on that farm...");
-MsgDisp("主人公","But, I think Molly-chan is lonely too,
-don't you think?");
+MsgDisp("Mikage","Anyhow, I rarely get to see her, so maybe her
+happiness is on that farm...");
+MsgDisp("主人公","But, I think Molly-chan is lonely too, don't
+you think?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720300_07_060");
 MsgDisp("Mikage","That's right...");
-MsgDisp("主人公","Yeah, I don't often get to see her, but
-it's not right for her to go elsewhere.");
+MsgDisp("主人公","Yeah, I don't often get to see her, but it's
+not right for her to go elsewhere.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -67,8 +66,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020720300_07_090");
 MsgDisp("Mikage","I'm not sure how well my opinion will be
-accepted since I've left home, but I'll
-try to talk to my parents.");
+accepted since I've left home, but I'll try
+to talk to my parents.");
 MsgDisp("主人公","Yes.
 Um, are you worried about Molly?");
 ChEye(7,4);

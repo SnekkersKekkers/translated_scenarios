@@ -18,9 +18,9 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G110300601_03_020");
-MsgDisp("Honda","Yepyep, if the manager didn't trust you, 
-they wouldn't let you give the
-recommendation, would they?");
+MsgDisp("Honda","Yepyep, if the manager didn't trust you, they
+wouldn't let you give the recommendation,
+would they?");
 MsgDisp("主人公","｛Honda＊＊｝, what should I do...");
 ChEye(3,0);
 ChMouth(3,3);
@@ -31,8 +31,7 @@ carefully.
 Hey, there's a customer!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
-MsgDisp("主人公","I'm happy, but it's a big
-responsibility...");
+MsgDisp("主人公","I'm happy, but it's a big responsibility...");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -57,9 +56,9 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300601_03_060");
-MsgDisp("Honda","Right. How about simply recommending a
-book you read recently, one that had you
-trembling in excitement?");
+MsgDisp("Honda","Right. How about simply recommending a book
+you read recently, one that had you trembling
+in excitement?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

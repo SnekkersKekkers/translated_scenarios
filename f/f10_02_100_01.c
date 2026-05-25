@@ -45,8 +45,7 @@ ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("F100210001_02_030");
 MsgDisp("Sassa","I keep it in my bag instead of dumbbells.
-With this, I can train on the way to
-school.");
+With this, I can train on the way to school.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(2,3);
 ChMouth(2,3);

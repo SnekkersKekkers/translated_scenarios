@@ -9,9 +9,8 @@ switch (ChPrmGet(5,6)){
     case 3:
     ScrFadeIn(0);
     MsgDisp("主人公","Tea and confectionaries for the guests are
-ready. Ah, doesn't look like there's
-enough maps for directions around the
-school.)");
+ready. Ah, doesn't look like there's enough
+maps for directions around the school.)");
     SEPlay("EV_SE_DOOR_013");
     SEWait();
     MsgClose();
@@ -38,8 +37,8 @@ immediately.");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","(Tea and confectionaries for the guests
-are ready.
+    MsgDisp("主人公","(Tea and confectionaries for the guests are
+ready.
 After that...");
     SEPlay("EV_SE_DOOR_013");
     SEWait();
@@ -50,9 +49,9 @@ After that...");
     VoiceEVSPlay(5);
     VoicePlay("P830500000_05_030");
     MsgDisp("Hiiragi","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝! I'm sorry to keep you
-waiting. I've prepared the tea and
-confectionaries for the guests.");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!
+I'm sorry to keep you waiting. I've prepared
+the tea and confectionaries for the guests.");
     ChEye(5,4);
     VoicePlay("P830500000_05_040");
     MsgDisp("Hiiragi","Yes.
@@ -62,9 +61,9 @@ But that's my job...");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("P830500000_05_050");
-    MsgDisp("Hiiragi","It's alright. I'm acquainted with some
-people present due to their relations with
-the theatre troupe.");
+    MsgDisp("Hiiragi","It's alright.
+I'm acquainted with some people present due
+to their relations with the theatre troupe.");
     VoicePlay("P830500000_05_060");
     MsgDisp("Hiiragi","Please leave it to me.");
     MsgDisp("主人公","...Okay.

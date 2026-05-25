@@ -18,19 +18,19 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020730100_07_020");
-MsgDisp("Mikage","That's the treasure of your high school
-days. Well, I guess it's not very
-convincing if I say that.");
+MsgDisp("Mikage","That's the treasure of your high school days.
+Well, I guess it's not very convincing if I
+say that.");
 MsgDisp("主人公","That's not true, is it?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020730100_07_030");
 MsgDisp("Mikage","I see.
-By the way, it feels like I'm also
-included in that group of friends, right?");
-MsgDisp("主人公","When ｛Mikage＊＊｝ joins us, everyone
-looks like they're having fun.");
+By the way, it feels like I'm also included
+in that group of friends, right?");
+MsgDisp("主人公","When ｛Mikage＊＊｝ joins us, everyone looks
+like they're having fun.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -50,8 +50,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020730100_07_060");
-MsgDisp("Mikage","I'm also worried about my bonus
-evaluation...");
+MsgDisp("Mikage","I'm also worried about my bonus evaluation...");
 MsgDisp("主人公","(I see...teachers also have something like
 report cards.
 Good luck, ｛Mikage＊＊｝...!)");

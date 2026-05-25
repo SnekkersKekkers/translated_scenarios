@@ -17,8 +17,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("Q070A00100_02_000");
-MsgDisp("Sassa","It looks pretty like an orange carpet,
-huh?");
+MsgDisp("Sassa","It looks pretty like an orange carpet, huh?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -30,8 +29,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("Q070A00100_02_010");
-MsgDisp("Sassa","Even though I'm a track and field idiot, I
-do have a poetic side, you know.");
+MsgDisp("Sassa","Even though I'm a track and field idiot, I do
+have a poetic side, you know.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -107,8 +106,8 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,0,0,#1,#1,0,1);
 VoicePlay("Q070A00100_01_060");
-MsgDisp("Kazama","It's 105 meters above land and was
-originally a bell tower.");
+MsgDisp("Kazama","It's 105 meters above land and was originally
+a bell tower.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -149,9 +148,9 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q070A00100_01_100");
-MsgDisp("Kazama","It's from Inori. It says...\"Please enjoy
-yourself as much as possible.\" Did he have
-something else to say?");
+MsgDisp("Kazama","It's from Inori.
+It says...\"Please enjoy yourself as much as
+possible.\" Did he have something else to say?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4,1);
@@ -163,8 +162,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q070A00100_01_110");
-MsgDisp("Kazama","Well, let's send him a picture of this
-tower and answer him.");
+MsgDisp("Kazama","Well, let's send him a picture of this tower
+and answer him.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);

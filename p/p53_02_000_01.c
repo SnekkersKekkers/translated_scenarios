@@ -56,8 +56,8 @@ Hey, you can't say that kind of stuff!");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("P530200001_02_060");
-    MsgDisp("Sassa","Then, please play as if you're playing a
-fun game!");
+    MsgDisp("Sassa","Then, please play as if you're playing a fun
+game!");
     MsgDisp("主人公","Hehe, I got it!");
     MsgDisp("主人公","(Yeah, it's just as ｛Sassa＊＊｝ says.
 Games have to be fun!)");
@@ -73,8 +73,8 @@ There's a huge audience...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200001_02_070");
-    MsgDisp("Sassa","｛主人公｝, I came to listen to some
-gaming music.");
+    MsgDisp("Sassa","｛主人公｝, I came to listen to some gaming
+music.");
     MsgDisp("主人公","｛Sassa＊＊｝.
 Thank you.");
     ChEye(2,0);
@@ -91,16 +91,15 @@ I can't be nervous...");
     ChMotion(2,4);
     VoicePlay("P530200001_02_090");
     MsgDisp("Sassa","That's nice.
-It's definitely better that people are
-here.");
+It's definitely better that people are here.");
     MsgDisp("主人公","That's right, but...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P530200001_02_100");
-    MsgDisp("Sassa","In order for these people to listen and
-enjoy your music, you've been giving it
-your all, right?");
+    MsgDisp("Sassa","In order for these people to listen and enjoy
+your music, you've been giving it your all,
+right?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

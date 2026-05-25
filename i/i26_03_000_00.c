@@ -19,8 +19,8 @@ switch (ChPrmGet(3,6)){
     Wait(40);
     VoicePlay("I260300000_03_010");
     MsgDisp("Honda","...Phew, thank goodness.
-I told you I'd take care of the heavy
-stuff, right?");
+I told you I'd take care of the heavy stuff,
+right?");
     MsgDisp("主人公","｛Honda＊＊｝, thanks...
 But I can't leave everything to you.");
     ChEye(3,1);
@@ -31,8 +31,8 @@ But I can't leave everything to you.");
 At least use a cart.");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_030");
-    MsgDisp("Honda","This distance was fine, but this
-carelessness can lead to accidents.");
+    MsgDisp("Honda","This distance was fine, but this carelessness
+can lead to accidents.");
     MsgDisp("主人公","...Okay.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -74,15 +74,15 @@ Welcome!");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_070");
-    MsgDisp("Honda","Then, can you just keep a record of the
-books sold and their prices?");
+    MsgDisp("Honda","Then, can you just keep a record of the books
+sold and their prices?");
     MsgDisp("主人公","Hm, but this...");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_080");
-    MsgDisp("Honda","We can't close up shop just because the
-cash register isn't working, right?");
+    MsgDisp("Honda","We can't close up shop just because the cash
+register isn't working, right?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -107,8 +107,8 @@ Thanks, ｛Honda＊＊｝.");
     MsgDisp("Honda","Come on, stop looking like you're about to
 cry. The customers are waiting for your
 smile, so smile!");
-    MsgDisp("主人公","(Haa... I made a lot of extra work for
-｛Honda＊＊｝.)");
+    MsgDisp("主人公","(Haa...
+I made a lot of extra work for ｛Honda＊＊｝.)");
     break ;
     default :
     DbgAssert(1);

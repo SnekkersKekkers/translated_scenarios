@@ -11,8 +11,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020710306_07_010");
-MsgDisp("Mikage","Because you always come along with me to
-the places I want to go.");
+MsgDisp("Mikage","Because you always come along with me to the
+places I want to go.");
 MsgDisp("主人公","No, I also want to go to those places.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -32,8 +32,8 @@ ChEye(7,0);
 ChMouth(7,3);
 VoicePlay("G020710306_07_040");
 MsgDisp("Mikage","Yeah, that's right.
-The roller coaster at Habataki Land Town
-is intense.");
+The roller coaster at Habataki Land Town is
+intense.");
 MsgDisp("主人公","｛Mikage＊＊｝, you were really excited.");
 ChEye(7,0);
 ChMouth(7,3);

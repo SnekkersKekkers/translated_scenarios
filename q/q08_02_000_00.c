@@ -45,9 +45,9 @@ sore.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("Q080200000_02_040");
-    MsgDisp("Sassa","The plan now is to take a big bath, and
-have Nagasaki specialties for dinner,
-right? Just relax.");
+    MsgDisp("Sassa","The plan now is to take a big bath, and have
+Nagasaki specialties for dinner, right?
+Just relax.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

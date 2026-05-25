@@ -27,8 +27,7 @@ MsgDisp("Michiru","Um?
 MsgDisp("主人公","A manga?");
 VoicePlay("F102110002_21_030");
 MsgDisp("Michiru","Right.
-It's a love story currently being
-serialized.");
+It's a love story currently being serialized.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
@@ -42,8 +41,8 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102110002_21_050");
 MsgDisp("Michiru","Even the heroine would have a hard time if
-she had two such wonderful boys close to
-her and they both liked her, right?");
+she had two such wonderful boys close to her
+and they both liked her, right?");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -54,8 +53,8 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F102110002_21_070");
-MsgDisp("Michiru","I'm curious to know how the story goes,
-but I'm too scared to read it...");
+MsgDisp("Michiru","I'm curious to know how the story goes, but
+I'm too scared to read it...");
 MsgDisp("主人公","I see..");
 ChEye(21,4);
 ChMouth(21,4);
@@ -68,19 +67,18 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102110002_21_090");
-MsgDisp("Michiru","So Mari, please! I'll lend you this book,
-so please read it. Won't you share my
-feelings with me?");
+MsgDisp("Michiru","So Mari, please!
+I'll lend you this book, so please read it.
+Won't you share my feelings with me?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F102110002_21_100");
 MsgDisp("Michiru","It's really painful to feel sad alone.
-Mari, let's worry together and talk about
-it?");
+Mari, let's worry together and talk about it?");
 MsgDisp("主人公","(She's really emotionally invested in this
-manga. ｛みちる＊｝ really is a girly
-girl at heart.)");
+manga. ｛みちる＊｝ really is a girly girl
+at heart.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

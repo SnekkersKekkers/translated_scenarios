@@ -15,7 +15,8 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_010");
 MsgDisp("Himuro","It's okay but...
-Ryota-senpai— Ah, nevermind.");
+Ryota-senpai—
+Ah, nevermind.");
 MsgDisp("主人公","(｛Kazama＊＊｝?)");
 MsgClose();
 MsgClose();
@@ -58,8 +59,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601000_06_060");
-MsgDisp("Himuro","He won't have to come all the way to check
-on you.");
+MsgDisp("Himuro","He won't have to come all the way to check on
+you.");
 MsgDisp("主人公","He just happened to drop by though?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -74,8 +75,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_080");
 MsgDisp("Himuro","Well.
-But if Ryota-senpai says it, that must be
-the case right?");
+But if Ryota-senpai says it, that must be the
+case right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

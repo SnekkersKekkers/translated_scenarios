@@ -25,8 +25,8 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020520201_05_030");
 MsgDisp("Hiiragi","Therefore, I understand your feelings.
-Thus, I cannot see a story in which I able
-to turn things around.");
+Thus, I cannot see a story in which I able to
+turn things around.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_040");
 MsgDisp("Hiiragi","Consequently, I am in despair.");
@@ -38,8 +38,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020520201_05_050");
 MsgDisp("Hiiragi","I apologize, please do not say any more.
-I would still like to leave some room for
-my delusions.");
+I would still like to leave some room for my
+delusions.");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_060");

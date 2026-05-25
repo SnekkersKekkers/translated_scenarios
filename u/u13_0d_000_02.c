@@ -21,8 +21,7 @@ I think love is still quite far off.");
     StlMouth(22,1);
     VoicePlay("U130D00002_22_000");
     MsgDisp("Hikaru","Family is more important than love to him.
-Maybe he thinks of Mari like his
-sister?");
+Maybe he thinks of Mari like his sister?");
     MsgDisp("主人公","(S-Sister...
 I guess it would be good if I was more
 aggressive with ｛Honda＊＊｝?)");
@@ -38,14 +37,13 @@ aggressive with ｛Honda＊＊｝?)");
     StlEyeOpenLevel(22,5,1);
     VoicePlay("U130D00002_22_010");
     MsgDisp("Hikaru","Honda-kun seems to have fun with Mari!
-Love might still be a long way off,
-though?");
+Love might still be a long way off, though?");
     MsgDisp("主人公","Oh, I see...");
     StlEye(21,0);
     VoicePlay("U130D00002_21_020");
     MsgDisp("Michiru","But if Mari works on their relationship
-little by little, maybe he will develop
-new feelings?");
+little by little, maybe he will develop new
+feelings?");
     StlEye(22,0);
     StlMouth(22,0);
     VoicePlay("U130D00002_22_020");
@@ -64,13 +62,12 @@ I wonder if I can do it...)");
     StlNear(1,0,15);
     VoicePlay("U130D00002_21_030");
     MsgDisp("Michiru","Hehe.
-The relationship you two have feels
-special.");
+The relationship you two have feels special.");
     StlMouth(22,1);
     StlCheek(22,5);
     VoicePlay("U130D00002_22_030");
-    MsgDisp("Hikaru","Dahon has been smiling a lot lately when
-he thinks of Mari.
+    MsgDisp("Hikaru","Dahon has been smiling a lot lately when he
+thinks of Mari.
 It's a bittersweet feeling for him.");
     MsgDisp("主人公","Ah, is that so?");
     StlEye(21,0);
@@ -86,8 +83,8 @@ It's a bittersweet feeling for him.");
     StlMouth(22,0);
     StlCheek(22,0);
     VoicePlay("U130D00002_22_050");
-    MsgDisp("Hikaru","He's still a beginner in love so make sure
-to teach him properly.♪");
+    MsgDisp("Hikaru","He's still a beginner in love so make sure to
+teach him properly.♪");
     MsgDisp("主人公","(｛Honda＊＊｝ is also in love, huh?)");
     break ;
     default :

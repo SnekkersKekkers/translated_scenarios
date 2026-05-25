@@ -7,11 +7,11 @@ SEStop("EV_SE_577",0);
 SEWait();
 MsgDisp("主人公","Hello, ｛ひかる＊｝?");
 VoicePlay("W012201000_22_000");
-MsgDisp("Hikaru","Hi～, Mari! Hikaru wants to hang out with
-you next Sunday～▼ Let's go to the
-amusement park.");
-MsgDisp("主人公","You want to hang out at the amusement
-park, ｛ひかる＊｝?");
+MsgDisp("Hikaru","Hi～, Mari!
+Hikaru wants to hang out with you next
+Sunday～▼ Let's go to the amusement park.");
+MsgDisp("主人公","You want to hang out at the amusement park,
+｛ひかる＊｝?");
 VoicePlay("W012201000_22_010");
 MsgDisp("Hikaru","Ehehe, Hikaru's inviting other people too.
 You'll see who♪

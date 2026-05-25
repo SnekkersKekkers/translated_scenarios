@@ -12,11 +12,10 @@ switch (ChPrmGet(4,6)){
     case 4:
     case 5:
     MsgDisp("主人公","(It's now time for the real performance...
-I have to make sure I don't forget my
-lines.)");
+I have to make sure I don't forget my lines.)");
     VoicePlay("P230400000_04_000");
-    MsgDisp("Nanatsumori?","What are we going to do if you're scared
-even before the performance begins?");
+    MsgDisp("Nanatsumori?","What are we going to do if you're scared even
+before the performance begins?");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     MsgClose();
@@ -24,9 +23,9 @@ even before the performance begins?");
     ChOpen(4,38,0,2,3,#1,#1,0,0,0,60);
     MsgDisp("主人公","｛Nanatsumori＊｝...
 Eh-∋");
-    MsgDisp("主人公","｛Nanatsumori＊｝, haven't you even done
-your beast makeup yet? The show is about
-to start!");
+    MsgDisp("主人公","｛Nanatsumori＊｝, haven't you even done your
+beast makeup yet?
+The show is about to start!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -34,9 +33,8 @@ to start!");
     MsgDisp("Nanatsumori","It'll be alright.
 Makeup can be done in an instant.");
     MsgDisp("主人公","That might be true, though...");
-    MsgDisp("主人公","(Even so, NANA wearing the
-lord-of-the-castle costume looks really
-cool...)");
+    MsgDisp("主人公","(Even so, NANA wearing the lord-of-the-castle
+costume looks really cool...)");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);

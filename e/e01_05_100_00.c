@@ -16,9 +16,9 @@ What about you, ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("E010510000_05_010");
-MsgDisp("Hiiragi","We ran out of tea leaves for our guests so
-I came to buy some, but it seems they
-don't have any today.");
+MsgDisp("Hiiragi","We ran out of tea leaves for our guests so I
+came to buy some, but it seems they don't
+have any today.");
 MsgDisp("主人公","None?
 But the items at your feet are
 ｛Hiiragi＊＊＊｝'s, aren't they?");
@@ -44,8 +44,8 @@ wish.");
 ChEye(5,2);
 ChMotion(5,0);
 VoicePlay("E010510000_05_050");
-MsgDisp("Hiiragi","That aside, I don't think I'll make it to
-the tea shop.
+MsgDisp("Hiiragi","That aside, I don't think I'll make it to the
+tea shop.
 Perhaps I'll give up for today.");
 MsgDisp("主人公","Eh, why not?
 I could accompany you if you'd like.");
@@ -69,8 +69,8 @@ Ah! Here, these are for you!");
 VoicePlay("E010510000_05_080");
 MsgDisp("Hiiragi","Ah, I'm honored.
 Thank you very much.");
-MsgDisp("主人公","(I see, perhaps information of his
-location was circulating?)");
+MsgDisp("主人公","(I see, perhaps information of his location
+was circulating?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEyeOpenLevel(5,#1);

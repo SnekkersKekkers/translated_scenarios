@@ -6,8 +6,8 @@ ScrFadeOut(0);
 BGOpen("sc606",0);
 ScrFadeIn(0);
 VoicePlay("H610700000_46_000");
-MsgDisp("Manager","Let's do our best to improve the
-activities of the club.");
+MsgDisp("Manager","Let's do our best to improve the activities
+of the club.");
 MsgDisp("主人公","Yes!
 I'm looking forward to it!");
 MsgDisp("主人公","(Alright, let's do our best!)");
@@ -36,8 +36,7 @@ I get it, but let's take it easy.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("H610700000_07_020");
-    MsgDisp("Mikage","I know, why don't you try growing some
-herbs?
+    MsgDisp("Mikage","I know, why don't you try growing some herbs?
 You naturally become relaxed.");
     MsgDisp("主人公","Yes...!");
     break ;
@@ -46,8 +45,7 @@ You naturally become relaxed.");
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("H610700000_07_030");
-    MsgDisp("Mikage","｛主人公｝, so you joined the gardening
-club.");
+    MsgDisp("Mikage","｛主人公｝, so you joined the gardening club.");
     MsgDisp("主人公","Yes.
 ｛Mikage＊＊｝, I'm looking forward to
 working with you.");
@@ -90,16 +88,15 @@ Looking forward to it.");
     MsgDisp("Mikage","Yeah, I knew from the beginning that you'd
 suit the gardening club.
 Since you're so serious.");
-    MsgDisp("主人公","Um...is being serious related to
-gardening?");
+    MsgDisp("主人公","Um...is being serious related to gardening?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,4);
     ChEyeOpenLevel(7,10);
     VoicePlay("H610700000_07_090");
-    MsgDisp("Mikage","Yeah, a lot. Plants grow more beautifully
-the more you care for them. Just look at
-all the beauties in my field.");
+    MsgDisp("Mikage","Yeah, a lot. Plants grow more beautifully the
+more you care for them.
+Just look at all the beauties in my field.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

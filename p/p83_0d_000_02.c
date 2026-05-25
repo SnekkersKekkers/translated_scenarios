@@ -2,8 +2,8 @@ BGMStop();
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder if there are any problems with
-the floor...)");
+MsgDisp("主人公","(I wonder if there are any problems with the
+floor...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();

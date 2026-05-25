@@ -24,8 +24,8 @@ ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("H5G0500000_05_030");
 MsgDisp("Hiiragi","Haa...
-I'll have to make do with remembering
-your practices at school.");
+I'll have to make do with remembering your
+practices at school.");
 MsgDisp("主人公","Hehe.
 I'm glad you took such a liking to it,
 ｛Hiiragi＊＊＊｝.");
@@ -40,7 +40,6 @@ ChMotion(5,0);
 VoicePlay("H5G0500000_05_050");
 MsgDisp("Hiiragi","Really, congratulations.");
 MsgDisp("主人公","(I'm so happy!
-I'm glad I practiced so hard for brass
-band!)");
+I'm glad I practiced so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

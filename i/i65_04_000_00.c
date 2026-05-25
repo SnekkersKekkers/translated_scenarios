@@ -47,15 +47,16 @@ Are you about to go on a trip?");
     VoicePlay("I650400000_04_040");
     MsgDisp("Nanatsumori","Nah, I'm heading to a work site.
 Taking some pictures in the night view.");
-    MsgDisp("主人公","I see. So there are shoots that take place
-late at night, too. Careful on your way
-home, okay?");
+    MsgDisp("主人公","I see.
+So there are shoots that take place late at
+night, too. Careful on your way home, okay?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I650400000_04_050");
-    MsgDisp("Nanatsumori","You too. I can't walk you home, but I'll
-cheer you on. Do your best.");
+    MsgDisp("Nanatsumori","You too.
+I can't walk you home, but I'll cheer you on.
+Do your best.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     MsgClose();
@@ -82,9 +83,9 @@ What's up?");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I650400000_04_080");
-    MsgDisp("Nanatsumori","Super nice-smelling hand cream. You must
-always be washing oil and dirt off your
-hands. Care for them with this.");
+    MsgDisp("Nanatsumori","Super nice-smelling hand cream.
+You must always be washing oil and dirt off
+your hands. Care for them with this.");
     MsgDisp("主人公","Yeah.
 Waah, it really does smell good...!
 Thanks!");
@@ -105,8 +106,8 @@ Um, not for another hour...");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("I650400000_04_110");
-    MsgDisp("Nanatsumori","I wish I had a real car for times like
-this, so I could wait for you...");
+    MsgDisp("Nanatsumori","I wish I had a real car for times like this,
+so I could wait for you...");
     MsgDisp("主人公","(｛Nanatsumori＊｝?
 He came to cheer me on, right?
 I'm so happy he gave me hand cream!)");

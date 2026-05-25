@@ -34,8 +34,9 @@ I know you put your all into this.");
     ChMotion(1,0);
     VoicePlay("H2A0100001_01_030");
     MsgDisp("Kazama","Come on, show me your usual cheerful face.");
-    MsgDisp("主人公","(Yeah...It's frustrating, but I'm glad I
-did my best. Thank you, ｛Kazama＊＊｝!)");
+    MsgDisp("主人公","(Yeah...
+It's frustrating, but I'm glad I did my best.
+Thank you, ｛Kazama＊＊｝!)");
     break ;
     case 4:
     case 5:
@@ -52,8 +53,7 @@ But we didn't win the championships.");
     ChMotion(1,0);
     VoicePlay("H2A0100001_01_050");
     MsgDisp("Kazama","You were just one step away.
-But the members were doing their best,
-right?");
+But the members were doing their best, right?");
     MsgDisp("主人公","Yes...");
     ChEye(1,0);
     ChMouth(1,3);
@@ -67,9 +67,9 @@ If they weren't, I wouldn't forgive them.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H2A0100001_01_070");
-    MsgDisp("Kazama","Here comes your last job. This is the time
-to show everyone what you've got, right?
-Everyone's waiting.");
+    MsgDisp("Kazama","Here comes your last job.
+This is the time to show everyone what you've
+got, right? Everyone's waiting.");
     MsgDisp("主人公","Yeah...!");
     MsgDisp("主人公","(That's right.
 We all did our best, so let's end it on a

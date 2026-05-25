@@ -14,8 +14,7 @@ VoicePlay("H5G0400000_04_010");
 MsgDisp("Nanatsumori","I heard the brass band won an award in a
 competition.
 I came to congratulate you.");
-MsgDisp("主人公","You went out of your way to congratulate
-me?
+MsgDisp("主人公","You went out of your way to congratulate me?
 Thanks.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -25,7 +24,6 @@ MsgDisp("Nanatsumori","Yeah.
 The band worked hard everyday after all.
 I'm glad you got some results out of it.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ praised me.
-I'm glad I practiced so hard for brass
-band!)");
+I'm glad I practiced so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

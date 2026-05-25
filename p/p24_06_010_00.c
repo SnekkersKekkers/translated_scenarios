@@ -30,9 +30,9 @@ MsgDisp("Orihime","Until I met you, Hikoboshi-sama.");
 VoicePlay("P240601000_43_020");
 MsgDisp("Hikoboshi","...Your truth is also my truth.");
 VoicePlay("P240601000_43_030");
-MsgDisp("Hikoboshi","Day after day, I would steadily pull ox
-and plough the fields. That was my world.
-All that I ever knew.");
+MsgDisp("Hikoboshi","Day after day, I would steadily pull ox and
+plough the fields.
+That was my world. All that I ever knew.");
 VoicePlay("P240601000_43_040");
 MsgDisp("Hikoboshi","However, since the day I was called by the
 Celestial Emperor and the day I first laid
@@ -60,10 +60,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P240601000_06_040");
-MsgDisp("Himuro","Firstly, if it were destined to be
-separated by the celestial emperor,
-wouldn't it have been better to not have
-met her at all?");
+MsgDisp("Himuro","Firstly, if it were destined to be separated
+by the celestial emperor, wouldn't it have
+been better to not have met her at all?");
 MsgDisp("主人公","Hmmm...
 But no one know what fate holds, right?");
 ChEye(6,0);
@@ -75,8 +74,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_060");
-MsgDisp("Himuro","...Then if you were Orihime, do you think
-you would be happy to meet Hikoboshi?");
+MsgDisp("Himuro","...Then if you were Orihime, do you think you
+would be happy to meet Hikoboshi?");
 MsgDisp("主人公","Yeah, I think so.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -88,9 +87,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_080");
-MsgDisp("Himuro","Well, if I were Hikoboshi, even after I
-met Orihime, I wouldn't become
-undisciplined.");
+MsgDisp("Himuro","Well, if I were Hikoboshi, even after I met
+Orihime, I wouldn't become undisciplined.");
 MsgDisp("主人公","Hehe, that's just like you, ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);

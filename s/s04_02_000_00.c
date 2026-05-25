@@ -104,15 +104,15 @@ Now then, what to wear?)");
         MsgDisp("Sassa","I see.");
         MsgDisp("主人公","Sorry.");
         VoicePlay("S040200000_02_140");
-        MsgDisp("Sassa","No, it's fine. I feel blessed just hearing
-your voice first thing this year. Bye.");
+        MsgDisp("Sassa","No, it's fine.
+I feel blessed just hearing your voice first
+thing this year. Bye.");
         VoicePlay("S040200000_02_150");
         MsgDisp("Sassa","...Sigh.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he went through the trouble
-of inviting me, Did I do something
-wrong...)");
+        MsgDisp("主人公","(Even though he went through the trouble of
+inviting me, Did I do something wrong...)");
         break ;
         default :
         DbgAssert(0);

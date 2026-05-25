@@ -38,8 +38,8 @@ For both of us.");
     MsgClose();
     ChClose(6);
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(I guess ｛Himuro＊＊｝ is looking out for me
-in his own way?)");
+    MsgDisp("主人公","(I guess ｛Himuro＊＊｝ is looking out for me in
+his own way?)");
     break ;
     case 3:
     SEPlay("EV_SE_DOOR_014");
@@ -56,8 +56,7 @@ in his own way?)");
     ChMotion(6,1);
     VoicePlay("I350600000_06_050");
     MsgDisp("Himuro","Not \"ah\".
-I came as a customer, so treat me
-properly.");
+I came as a customer, so treat me properly.");
     MsgDisp("主人公","My apologies!
 Please follow me to your seat.");
     ChEye(6,0);
@@ -140,9 +139,8 @@ Thank you very much.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I350600000_06_150");
-    MsgDisp("Himuro","If you serve customers with a face like
-that, someone's going to misunderstand
-you.");
+    MsgDisp("Himuro","If you serve customers with a face like that,
+someone's going to misunderstand you.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
     ChMouth(6,0);

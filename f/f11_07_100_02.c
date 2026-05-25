@@ -1,8 +1,8 @@
 ChLayout(1);
 BGOpen("sc710",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It looks like a lot of people brought
-their family this year.
+MsgDisp("主人公","(It looks like a lot of people brought their
+family this year.
 Everyone seems like they're having fun!)");
 VoicePlay("F110710002_44_000");
 MsgDisp("Boy","I want to go to the zoo again.
@@ -33,12 +33,12 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F110710002_07_020");
-MsgDisp("Mikage","Don't worry. I'm only looking after
-animals. The horseback instructor is
-taking care of the ranch.");
+MsgDisp("Mikage","Don't worry.
+I'm only looking after animals. The horseback
+instructor is taking care of the ranch.");
 MsgDisp("主人公","Oh, are you the zookeeper?
-The one that boy from earlier said was
-super interesting?");
+The one that boy from earlier said was super
+interesting?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -55,8 +55,8 @@ Ah, you should come too if you have time.
 The goat and I will look forward to it.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(Haha, typical ｛Mikage＊＊｝. Both the
-adults and the kids are having fun. Should
-I go later, too?)");
+MsgDisp("主人公","(Haha, typical ｛Mikage＊＊｝.
+Both the adults and the kids are having fun.
+Should I go later, too?)");
 MsgClose();
 ScrFadeOut(0,0);

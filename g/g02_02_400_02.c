@@ -26,17 +26,17 @@ ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("G020240002_02_040");
-MsgDisp("Sassa","Besides that, if these were all
-disembodied souls, I wonder how many
-people that would be?");
+MsgDisp("Sassa","Besides that, if these were all disembodied
+souls, I wonder how many people that would
+be?");
 MsgDisp("主人公","It would be quite crowded for sure.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020240002_02_050");
-MsgDisp("Sassa","Right? It'd be a super popular spot.
-Thinking of it that way, it's not so
-scary.");
+MsgDisp("Sassa","Right?
+It'd be a super popular spot.
+Thinking of it that way, it's not so scary.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
@@ -44,8 +44,8 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G020240002_02_060");
 MsgDisp("Sassa","...No.
 After all if so many of them were here...");
-MsgDisp("主人公","(Seeing that ｛Sassa＊＊｝ is scared of
-ghosts is kind of cute...?)");
+MsgDisp("主人公","(Seeing that ｛Sassa＊＊｝ is scared of ghosts
+is kind of cute...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

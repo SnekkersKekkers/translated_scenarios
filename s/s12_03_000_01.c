@@ -51,15 +51,14 @@ I think we have a good head start.");
     MsgDisp("Honda","Yes!
 It's hard to get a good vibe.");
     VoicePlay("S120300001_03_050");
-    MsgDisp("Honda","When there's not enough, I keep
-talking—");
+    MsgDisp("Honda","When there's not enough, I keep talking—");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("S120300001_03_060");
     MsgDisp("Honda","Like that, sorry.
-I promised I'd play Shogi with my dad
-after this!");
+I promised I'd play Shogi with my dad after
+this!");
     MsgDisp("主人公","Hehe, really?
 Good luck!");
     ChEye(3,0);
@@ -74,8 +73,7 @@ See you soon!");
     MsgClose();
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(Yeah, this year will be another good
-one.)");
+    MsgDisp("主人公","(Yeah, this year will be another good one.)");
     break ;
     default :
     DbgAssert(1);

@@ -2,7 +2,8 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home now.)");
-MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there, huh.
+MsgDisp("主人公","(...Huh?
+｛Kazama＊＊｝ is over there, huh.
 Let's go for a chat before heading home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -32,14 +33,13 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100400_01_020");
-MsgDisp("Kazama","Winners should act more grand. If you
-don't, the losers won't rest in peace. So
-stand proudly, and loudly.");
+MsgDisp("Kazama","Winners should act more grand.
+If you don't, the losers won't rest in peace.
+So stand proudly, and loudly.");
 MsgDisp("主人公","Y-Yeah.
 You say that but...");
 VoicePlay("G110100400_41_000");
-MsgDisp("School Boy","Isn't that the Rose Queen-senpai over
-there?");
+MsgDisp("School Boy","Isn't that the Rose Queen-senpai over there?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

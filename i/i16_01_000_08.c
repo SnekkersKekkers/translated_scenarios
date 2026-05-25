@@ -59,8 +59,8 @@ Feels good being this efficient.");
     VoicePlay("I160100008_01_040");
     MsgDisp("Kazama","I'll be counting on you, my dear partner?");
     MsgDisp("主人公","(I did it!
-To have ｛Kazama＊＊｝ call me his partner,
-I'm glad I've worked hard until now!)");
+To have ｛Kazama＊＊｝ call me his partner, I'm
+glad I've worked hard until now!)");
     break ;
     case 4:
     case 5:
@@ -79,14 +79,13 @@ Please come again.");
     MsgDisp("Kazama","Good work.
 We're closed for the day.");
     MsgDisp("主人公","Yeah.
-Then I'll go lock up and turn off the
-lights.");
+Then I'll go lock up and turn off the lights.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("I160100008_01_060");
-    MsgDisp("Kazama","I'll close the register and write the
-daily report.");
+    MsgDisp("Kazama","I'll close the register and write the daily
+report.");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);
@@ -100,9 +99,9 @@ daily report.");
     BGMVol(0.5,2);
     ScrFadeIn(0);
     VoicePlay("I160100008_01_070");
-    MsgDisp("Kazama","I noticed that our sales are way up on
-days where we're both working when I was
-doing the daily report.");
+    MsgDisp("Kazama","I noticed that our sales are way up on days
+where we're both working when I was doing the
+daily report.");
     MsgDisp("主人公","That's obvious.
 We have such a charismatic shopkeeper.");
     ChEye(1,2);
@@ -124,15 +123,15 @@ Got it?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100008_01_100");
-    MsgDisp("Kazama","If being partners isn't enough, want to
-open a store with me?");
+    MsgDisp("Kazama","If being partners isn't enough, want to open
+a store with me?");
     MsgDisp("主人公","If we could, that'd be nice...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I160100008_01_110");
-    MsgDisp("Kazama","If you think that way, I'll definitely
-make it happen.");
+    MsgDisp("Kazama","If you think that way, I'll definitely make
+it happen.");
     MsgDisp("主人公","(｛Kazama＊＊｝ is saying he approves of me,
 right?
 I'm glad I worked hard!)");

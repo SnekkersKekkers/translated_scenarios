@@ -3,7 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I think I'll head home now.
 ...Huh?)");
-MsgDisp("主人公","｛Himuro＊＊｝! ｛Hiiragi＊＊＊｝!");
+MsgDisp("主人公","｛Himuro＊＊｝!
+｛Hiiragi＊＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);
@@ -64,22 +65,19 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620000_06_040");
 MsgDisp("Himuro","It's probably cushioning material.
-Like the bubble wrap used for fragile
-items..");
+Like the bubble wrap used for fragile items..");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010620000_05_050");
 MsgDisp("Hiiragi","Ah, perhaps.
-The request came from the props
-department.");
+The request came from the props department.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("E010620000_06_050");
 MsgDisp("Himuro","We can visit a hardware store.
-I have errands to run, so we can go
-together.");
+I have errands to run, so we can go together.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -106,11 +104,10 @@ Wait(20,0);
 VoicePlay("E010620000_05_080");
 MsgDisp("Hiiragi","...By the way, what does \"squish\" mean?");
 VoicePlay("E010620000_06_070");
-MsgDisp("Himuro","There's just a game where you pop
-them.");
+MsgDisp("Himuro","There's just a game where you pop them.");
 VoicePlay("E010620000_05_090");
-MsgDisp("Hiiragi","I don't know what that means, ...maybe
-I'll give it a try.");
+MsgDisp("Hiiragi","I don't know what that means, ...maybe I'll
+give it a try.");
 MsgDisp("主人公","(I might have taught him something
 strange...)");
 MsgClose();

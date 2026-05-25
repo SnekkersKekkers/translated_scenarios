@@ -53,8 +53,8 @@ Thanks.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("I450200000_02_040");
-    MsgDisp("Sassa","And it's nice seeing you buzzing around
-the flowers.");
+    MsgDisp("Sassa","And it's nice seeing you buzzing around the
+flowers.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -77,8 +77,7 @@ Welcome!");
     ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoicePlay("I450200000_02_060");
     MsgDisp("Sassa","You're working hard.");
-    MsgDisp("主人公","Yeah, learning about flowers is pretty
-fun.");
+    MsgDisp("主人公","Yeah, learning about flowers is pretty fun.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -89,8 +88,8 @@ Nice.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I450200000_02_080");
-    MsgDisp("Sassa","But working with water must be hard on
-your hands.");
+    MsgDisp("Sassa","But working with water must be hard on your
+hands.");
     MsgDisp("主人公","Hm, it's tough in the winter.
 But it's worth it.");
     ChEye(2,0);
@@ -130,8 +129,8 @@ Welcome!");
     VoicePlay("I450200000_02_120");
     MsgDisp("Sassa","I was in the area, so I stopped by.");
     MsgDisp("主人公","We have a lot in stock, like potted plants
-and seeds, so please take your time
-looking around.");
+and seeds, so please take your time looking
+around.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -151,8 +150,8 @@ looking around.");
     ChMotion(2,0);
     ChCheek(2,10);
     VoicePlay("I450200000_02_150");
-    MsgDisp("Sassa","Pretty flowers, sweet smells, and on top
-of that, you're here too, right?
+    MsgDisp("Sassa","Pretty flowers, sweet smells, and on top of
+that, you're here too, right?
 I'm feeling a little strange.");
     ChEye(2,0);
     ChMouth(2,3);

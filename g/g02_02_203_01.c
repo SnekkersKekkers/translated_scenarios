@@ -10,8 +10,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220301_02_010");
-MsgDisp("Sassa","The store clerk told me. It would be fun
-to take a risk and try something different
+MsgDisp("Sassa","The store clerk told me. It would be fun to
+take a risk and try something different
 instead of always wearing the same thing.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -26,10 +26,11 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220301_02_030");
 MsgDisp("Sassa","What?
-I asked you because you always wear
-different styles.");
-MsgDisp("主人公","Sorry. But with ｛Sassa＊＊｝'s figure, it
-seems any style would fit.");
+I asked you because you always wear different
+styles.");
+MsgDisp("主人公","Sorry.
+But with ｛Sassa＊＊｝'s figure, it seems any
+style would fit.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -42,14 +43,14 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220301_02_050");
 MsgDisp("Sassa","No, really, it's the opposite.
-My limbs are too long, and I have more
-muscle than average.");
+My limbs are too long, and I have more muscle
+than average.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220301_02_060");
-MsgDisp("Sassa","Off-the-rack clothes either fit too tight
-or are way too loose.");
+MsgDisp("Sassa","Off-the-rack clothes either fit too tight or
+are way too loose.");
 MsgDisp("主人公","Hehe, is that right.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -61,8 +62,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220301_02_080");
-MsgDisp("Sassa","Haa...it must be nice for those who look
-good in anything they wear.");
+MsgDisp("Sassa","Haa...it must be nice for those who look good
+in anything they wear.");
 MsgDisp("主人公","｛Sassa＊＊｝'s usual fashion suits him.
 It's really cool?");
 ChEye(2,0);

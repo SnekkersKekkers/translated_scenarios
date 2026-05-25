@@ -31,15 +31,15 @@ At least today we did one thing.");
     MsgDisp("Mikage","Ah, you're right.
 We did a shrine visit.");
     MsgDisp("主人公","Yep, today we got to finish it.
-So, what's the number one thing you want
-to do?");
+So, what's the number one thing you want to
+do?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S120700003_07_030");
-    MsgDisp("Mikage","There it is, your bad habit. You like to
-move too quickly. You need to have
-patience, otherwise things are boring.");
+    MsgDisp("Mikage","There it is, your bad habit.
+You like to move too quickly. You need to
+have patience, otherwise things are boring.");
     MsgDisp("主人公","Uhm...
 Then...");
     ChEye(7,0);
@@ -63,8 +63,8 @@ Thanks for spending time with me today.");
     ChMotion(7,0);
     VoicePlay("S120700003_07_060");
     MsgDisp("Mikage","Of course.
-I'll be waiting to see you at school
-again, okay?");
+I'll be waiting to see you at school again,
+okay?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
@@ -88,9 +88,9 @@ next year...)");
     ChMouth(7,0);
     ChMotion(7,0,1);
     VoicePlay("S120700003_07_070");
-    MsgDisp("Mikage","Ah, my apologies for dragging you around
-so much today. But thanks to you, the year
-is off to a great start.");
+    MsgDisp("Mikage","Ah, my apologies for dragging you around so
+much today. But thanks to you, the year is
+off to a great start.");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝, do you have to go to
 school today too?");
     ChEye(7,0);
@@ -104,8 +104,8 @@ fields.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S120700003_07_090");
-    MsgDisp("Mikage","Earlier, everyone prayed for the pumpkins
-to grow well and healthy, so don't worry.");
+    MsgDisp("Mikage","Earlier, everyone prayed for the pumpkins to
+grow well and healthy, so don't worry.");
     MsgDisp("主人公","Hehe, that's a very kind wish from
 ｛Mikage＊＊｝.");
     ChEye(7,0);
@@ -113,23 +113,23 @@ to grow well and healthy, so don't worry.");
     ChMotion(7,0);
     VoicePlay("S120700003_07_100");
     MsgDisp("Mikage","Really?
-At the same time, I also prayed for the
-real pumpkin to be healthy and strong.");
+At the same time, I also prayed for the real
+pumpkin to be healthy and strong.");
     MsgDisp("主人公","Eh?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700003_07_110");
-    MsgDisp("Mikage","Do you realize how red you're turning,
-Miss Pumpkin?
+    MsgDisp("Mikage","Do you realize how red you're turning, Miss
+Pumpkin?
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","Ah, thank you so much!");
-    MsgDisp("主人公","(I hope I can be with ｛Mikage＊＊｝ on
-New Year's next year too.
+    MsgDisp("主人公","(I hope I can be with ｛Mikage＊＊｝ on New
+Year's next year too.
 Alright, let's try our best this year!)");
     break ;
     default :

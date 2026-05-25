@@ -19,9 +19,9 @@ ChMotion(4,1,1);
 VoicePlay("G020430200_04_030");
 MsgDisp("Nanatsumori","What.");
 ChEye(4,5);
-MsgDisp("主人公","You are a model after all,
-｛Nanatsumori＊｝. You don't have to do
-anything cause you're already cool.");
+MsgDisp("主人公","You are a model after all, ｛Nanatsumori＊｝.
+You don't have to do anything cause you're
+already cool.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -46,8 +46,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020430200_04_070");
 MsgDisp("Nanatsumori","Hm, okay.
-Okay then, I'm going to try out this
-weapon little by little, stay tuned.");
+Okay then, I'm going to try out this weapon
+little by little, stay tuned.");
 MsgDisp("主人公","(...On me?)");
 BGMStop();
 MsgClose();

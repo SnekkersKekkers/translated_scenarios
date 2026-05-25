@@ -75,8 +75,8 @@ order.");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("S120300003_03_060");
-    MsgDisp("Honda","Of course, I'm happy that you were number
-one on my list.");
+    MsgDisp("Honda","Of course, I'm happy that you were number one
+on my list.");
     MsgDisp("主人公","Hehe, really?
 Thank you.");
     ChEye(3,0);

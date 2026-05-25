@@ -7,9 +7,8 @@ VoicePlay("G020410306_04_000");
 MsgDisp("Nanatsumori","｛主人公｝.");
 MsgDisp("主人公","What is it ｛Nanatsumori＊｝?");
 VoicePlay("G020410306_04_010");
-MsgDisp("Nanatsumori","Out of all my classmates, you're the only
-one who knows all the different side of
-me.");
+MsgDisp("Nanatsumori","Out of all my classmates, you're the only one
+who knows all the different side of me.");
 MsgDisp("主人公","Yeah");
 ChMotion(4,0,1);
 VoicePlay("G020410306_04_020");
@@ -25,9 +24,9 @@ ChMouthOpenLevel(4,#1);
 VoicePlay("G020410306_04_040");
 MsgDisp("Nanatsumori","You don't think anything of it?");
 VoicePlay("G020410306_04_050");
-MsgDisp("Nanatsumori","Like it doesn't feel gross or startling,
-how should I say it...don't you think
-having various sides is kind of creepy?");
+MsgDisp("Nanatsumori","Like it doesn't feel gross or startling, how
+should I say it...don't you think having
+various sides is kind of creepy?");
 MsgDisp("主人公","Eh?
 Why would I think that?");
 ChEye(4,5);

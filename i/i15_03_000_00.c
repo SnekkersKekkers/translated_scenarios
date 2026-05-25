@@ -48,14 +48,14 @@ Are you looking for something?");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I150300000_03_050");
-    MsgDisp("Honda","I was just passing through, and I saw you
-in the store.");
+    MsgDisp("Honda","I was just passing through, and I saw you in
+the store.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("I150300000_03_060");
-    MsgDisp("Honda","Then, trying to see what was going on, I
-just came in.");
+    MsgDisp("Honda","Then, trying to see what was going on, I just
+came in.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,2,1);
@@ -67,10 +67,9 @@ anything...");
     ChMotion(3,1,1);
     VoicePlay("I150300000_03_080");
     MsgDisp("Honda","Ah, this looks useful!
-I was just thinking of getting a notebook
-to jot down my thoughts on my walk.");
-    MsgDisp("主人公","(Hehe, I'm glad he found something he
-liked!)");
+I was just thinking of getting a notebook to
+jot down my thoughts on my walk.");
+    MsgDisp("主人公","(Hehe, I'm glad he found something he liked!)");
     break ;
     case 4:
     case 5:
@@ -92,23 +91,23 @@ What is it today?");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("I150300000_03_110");
-    MsgDisp("Honda","...Ah, that product! It was in a magazine
-my younger sis was reading. So it's
-already in stock.");
+    MsgDisp("Honda","...Ah, that product!
+It was in a magazine my younger sis was
+reading. So it's already in stock.");
     MsgDisp("主人公","Hehe, thanks!");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("I150300000_03_120");
-    MsgDisp("Honda","Hm, it doesn't really stand out over
-there, so maybe you could add a
-recommendation or adjust the layout?");
+    MsgDisp("Honda","Hm, it doesn't really stand out over there,
+so maybe you could add a recommendation or
+adjust the layout?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I150300000_03_130");
-    MsgDisp("Honda","I think it'll appeal to more customers
-that way.");
+    MsgDisp("Honda","I think it'll appeal to more customers that
+way.");
     MsgDisp("主人公","I see.
 I'll talk to my manager about it.
 Thanks!");
@@ -119,8 +118,9 @@ Thanks!");
     VoicePlay("I150300000_03_140");
     MsgDisp("Honda","No problem!
 Well, keep up the good work.");
-    MsgDisp("主人公","(...Hm? Did he really just come here to
-give me advice? ｛Honda＊＊｝ is so kind...)");
+    MsgDisp("主人公","(...Hm?
+Did he really just come here to give me
+advice? ｛Honda＊＊｝ is so kind...)");
     break ;
     default :
     DbgAssert(1);

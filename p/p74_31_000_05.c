@@ -23,8 +23,8 @@ ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,3);
 VoicePlay("P743100005_31_020");
-MsgDisp("Goro","But you know, the wedding dress you made
-was on the level of global fashion shows.
+MsgDisp("Goro","But you know, the wedding dress you made was
+on the level of global fashion shows.
 I was also inspired.");
 MsgDisp("主人公","(Haa...
 I was super happy with my dress but...

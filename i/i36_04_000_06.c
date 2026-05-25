@@ -43,8 +43,8 @@ something at my table-");
     ChMotion(4,1,1);
     VoicePlay("I360400006_04_020");
     MsgDisp("Nanatsumori","Ah!
-Hey, was there a small bit of paper on
-that table?");
+Hey, was there a small bit of paper on that
+table?");
     MsgDisp("主人公","Small paper...
 Ah, you mean this?");
     ChEye(4,4);
@@ -56,8 +56,8 @@ Just barely safe.");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("I360400006_04_040");
-    MsgDisp("Nanatsumori","I wrote a note on the back of it, didn't
-you see it?");
+    MsgDisp("Nanatsumori","I wrote a note on the back of it, didn't you
+see it?");
     MsgDisp("主人公","The back...ah, you're right.
 Sorry...");
     ChEye(4,2);
@@ -91,9 +91,9 @@ Well, see ya.");
     MsgDisp("主人公","Alright, let's clean up.
 ...Hm?
 What's this piece of paper?");
-    MsgDisp("主人公","Something ｛Nanatsumori＊｝ left? But, if
-it's still here, I guess it's trash. Well,
-into the garbage bag...");
+    MsgDisp("主人公","Something ｛Nanatsumori＊｝ left?
+But, if it's still here, I guess it's trash.
+Well, into the garbage bag...");
     MsgClose();
     BGMVol(0.5,2.5);
     SEPlay("EV_SE_DOOR_014",0,0.6);
@@ -104,8 +104,8 @@ into the garbage bag...");
     ChNanaType(1);
     ChOpen(4,35,0,5,1,#1,#1,0,0);
     VoicePlay("I360400006_04_070");
-    MsgDisp("Nanatsumori","Um, I feel like I just forgot something at
-my table-");
+    MsgDisp("Nanatsumori","Um, I feel like I just forgot something at my
+table-");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Is it...");
     ChEye(4,4);

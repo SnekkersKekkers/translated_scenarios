@@ -13,8 +13,8 @@ The one about the prince and the princess?");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("F020500001_05_010");
-MsgDisp("Hiiragi","Since that's the first one that came to
-mind, it must be your favorite.");
+MsgDisp("Hiiragi","Since that's the first one that came to mind,
+it must be your favorite.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("F020500001_05_020");
@@ -25,14 +25,14 @@ MsgDisp("主人公","For the Habataki Theater Company?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("F020500001_05_030");
-MsgDisp("Hiiragi","Yes. We are, after all, a citizen's
-troupe. The more familiar the story is to
-the locals, the more it pleases them.");
+MsgDisp("Hiiragi","Yes. We are, after all, a citizen's troupe.
+The more familiar the story is to the locals,
+the more it pleases them.");
 ChEye(5,0);
 VoicePlay("F020500001_05_040");
 MsgDisp("Hiiragi","Even just from what I've heard, there are
-quite a few. If you hear any interesting
-ones among the girls, please do tell me.");
-MsgDisp("主人公","(...Well, I can only hope one of them will
-be interesting enough to make for a decent
+quite a few. If you hear any interesting ones
+among the girls, please do tell me.");
+MsgDisp("主人公","(...Well, I can only hope one of them will be
+interesting enough to make for a decent
 play.)");

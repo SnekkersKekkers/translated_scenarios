@@ -3,8 +3,8 @@ ChLayout(1);
 BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Seems like I'm calm this year.
-Maybe it's because I've been giving it my
-all these last three years?)");
+Maybe it's because I've been giving it my all
+these last three years?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -27,14 +27,14 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("P533100002_31_020");
-MsgDisp("Goro","It's starting, huh?
-'Fourth・Heart', my heart is throbbing!");
+MsgDisp("Goro","It's starting, huh? 'Fourth・Heart', my heart
+is throbbing!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
 MsgDisp("主人公","(Okay.
-I'll show you the results of my practice
-so that you'll be satisfied!)");
+I'll show you the results of my practice so
+that you'll be satisfied!)");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("sc725",0);

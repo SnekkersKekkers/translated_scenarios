@@ -36,9 +36,8 @@ It's not like your life is over.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P530600000_06_030");
-    MsgDisp("Himuro","Asides from that, I think it would be a
-shame if you were too stressed to enjoy
-it.");
+    MsgDisp("Himuro","Asides from that, I think it would be a shame
+if you were too stressed to enjoy it.");
     MsgDisp("主人公","Ah...");
     ChEye(6,0);
     ChMouth(6,0);
@@ -84,16 +83,16 @@ Well, I thought as much.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P530600000_06_080");
-    MsgDisp("Himuro","You're getting more nervous than
-necessary. You're not performing on your
-own, why not take it easier?");
+    MsgDisp("Himuro","You're getting more nervous than necessary.
+You're not performing on your own, why not
+take it easier?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("P530600000_06_090");
-    MsgDisp("Himuro","If you perform with that face, I'll also
-feel uneasy.");
+    MsgDisp("Himuro","If you perform with that face, I'll also feel
+uneasy.");
     MsgDisp("主人公","Yeah, that's right huh.
 Thank you.");
     ChEye(6,0);

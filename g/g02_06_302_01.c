@@ -3,8 +3,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630201_06_000");
-MsgDisp("Himuro","...As you probably know, I like being
-alone.");
+MsgDisp("Himuro","...As you probably know, I like being alone.");
 MsgDisp("主人公","Uh, yeah.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -22,16 +21,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630201_06_030");
-MsgDisp("Himuro","When I say that, people call me a loner,
-but liking being alone doesn't mean having
-no friends.");
+MsgDisp("Himuro","When I say that, people call me a loner, but
+liking being alone doesn't mean having no
+friends.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630201_06_040");
-MsgDisp("Himuro","If you're really friends, you should
-respect each other. I don't want people
-forcing their desire to hang out on me.");
+MsgDisp("Himuro","If you're really friends, you should respect
+each other. I don't want people forcing their
+desire to hang out on me.");
 MsgDisp("主人公","Right.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -43,21 +42,21 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630201_06_060");
-MsgDisp("Himuro","If we can respect each other, I think we
-can build a good relationship.");
+MsgDisp("Himuro","If we can respect each other, I think we can
+build a good relationship.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("G020630201_06_070");
-MsgDisp("Himuro","It's also important that the timing of
-what you want to do and what you can do
-together align.");
+MsgDisp("Himuro","It's also important that the timing of what
+you want to do and what you can do together
+align.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630201_06_080");
-MsgDisp("Himuro","If I were to have a friend, I'd want
-someone like that.");
+MsgDisp("Himuro","If I were to have a friend, I'd want someone
+like that.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -78,8 +77,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630201_06_110");
 MsgDisp("Himuro","....What were we talking about again?");
-MsgDisp("主人公","(Hehe, I'm glad I got to hear
-｛Himuro＊＊｝'s thoughts on friendships.)");
+MsgDisp("主人公","(Hehe, I'm glad I got to hear ｛Himuro＊＊｝'s
+thoughts on friendships.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

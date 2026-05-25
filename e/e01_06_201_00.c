@@ -41,15 +41,15 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010620100_02_020");
-MsgDisp("Sassa","Yeah, I saw Inori playing a game so I
-called out to him.");
+MsgDisp("Sassa","Yeah, I saw Inori playing a game so I called
+out to him.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620100_06_020");
 MsgDisp("Himuro","I wish he hadn't...
-I was forced to play a match even if I
-didn't want to.");
+I was forced to play a match even if I didn't
+want to.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
@@ -63,8 +63,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("E010620100_06_030");
 MsgDisp("Himuro","It's not your first time, isn't it?
-Otherwise you wouldn't have been able to
-play so well.");
+Otherwise you wouldn't have been able to play
+so well.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -96,14 +96,14 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620100_06_050");
 MsgDisp("Himuro","In that game, sense and intuition are
-important. But you can't win unless you
-have a good strategy.");
+important. But you can't win unless you have
+a good strategy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010620100_06_060");
-MsgDisp("Himuro","There's no way someone who just started
-today could do that easily...");
+MsgDisp("Himuro","There's no way someone who just started today
+could do that easily...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

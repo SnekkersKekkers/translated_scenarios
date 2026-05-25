@@ -71,17 +71,17 @@ ChMouth(22,2);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F102230002_22_050");
-MsgDisp("Hikaru","...You know, if it's a brown animal
-with its bones exposed, there's only one
-thing that comes to mind...");
+MsgDisp("Hikaru","...You know, if it's a brown animal with its
+bones exposed, there's only one thing that
+comes to mind...");
 MsgDisp("主人公","Eh...?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F102230002_22_060");
-MsgDisp("Hikaru","It's nothing? Big sis, we're graduating
-from the animal series! What should we do
-next～?");
+MsgDisp("Hikaru","It's nothing?
+Big sis, we're graduating from the animal
+series! What should we do next～?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

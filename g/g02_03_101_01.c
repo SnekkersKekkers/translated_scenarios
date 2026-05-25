@@ -41,15 +41,16 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020310101_03_060");
-MsgDisp("Honda","But, I'm the most surprised that those
-words came out without hesitation.");
+MsgDisp("Honda","But, I'm the most surprised that those words
+came out without hesitation.");
 MsgDisp("主人公","｛Honda＊＊｝...?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("G020310101_03_070");
-MsgDisp("Honda","—Aah! Look over there, a huge group of
-fireflies! Let's go to see them!");
+MsgDisp("Honda","—Aah!
+Look over there, a huge group of fireflies!
+Let's go to see them!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(3);

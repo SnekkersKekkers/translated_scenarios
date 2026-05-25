@@ -15,8 +15,7 @@ depending on the light. It's called
 firefly light.");
 ChMotion(3,4);
 VoicePlay("G020330000_03_020");
-MsgDisp("Honda","I saw it at Ryou-kun's place the other
-day.
+MsgDisp("Honda","I saw it at Ryou-kun's place the other day.
 It was really beautiful.");
 MsgDisp("主人公","｛Honda＊＊｝ knows about pottery too?");
 ChEye(3,3);
@@ -30,9 +29,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("G020330000_03_040");
-MsgDisp("Honda","Mii was there that day too, and I
-bombarded Ryo with questions. But they
-both stayed patient until the end.");
+MsgDisp("Honda","Mii was there that day too, and I bombarded
+Ryo with questions.
+But they both stayed patient until the end.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
@@ -59,8 +58,8 @@ ChEyeOpenLevel(3,0);
 VoicePlay("G020330000_03_080");
 MsgDisp("Honda","I'm the one getting inspired one-sidedly.
 I'm really glad I met them!");
-MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ and ｛Nanatsumori＊｝
-would say the same thing wouldn't they?)");
+MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ and ｛Nanatsumori＊｝ would
+say the same thing wouldn't they?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

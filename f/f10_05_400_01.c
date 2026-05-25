@@ -18,8 +18,8 @@ ChEyeOpenLevel(5,9);
 VoiceEVSPlay(5);
 VoicePlay("F100540001_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
-Yes, it looks like they did not have
-Hiyashi Chuuka.");
+Yes, it looks like they did not have Hiyashi
+Chuuka.");
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","I see.
 You two were really excited about it the
@@ -35,8 +35,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100540001_05_020");
-MsgDisp("Hiiragi","Yes. Then, I shall eat something different
-today. Would you also like to join us?");
+MsgDisp("Hiiragi","Yes.
+Then, I shall eat something different today.
+Would you also like to join us?");
 MsgDisp("主人公","Yeah, absolutely.");
 ChEye(5,0);
 ChEye(7,0);

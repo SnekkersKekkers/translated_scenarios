@@ -19,8 +19,8 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, that's right what did you want to talk
-to me about?");
+MsgDisp("主人公","Ah, that's right what did you want to talk to
+me about?");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,0);
@@ -37,8 +37,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100601_01_010");
-MsgDisp("Kazama","Spending time with you here is a big deal
-to me...
+MsgDisp("Kazama","Spending time with you here is a big deal to
+me...
 I can think in a different way to usual.");
 ChEye(1,1);
 ChMouth(1,0);

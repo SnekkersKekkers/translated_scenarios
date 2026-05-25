@@ -35,8 +35,8 @@ Yeah, I am.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O030601000_06_030");
-    MsgDisp("Himuro","If you don't pull on my leg, I can run
-with you.");
+    MsgDisp("Himuro","If you don't pull on my leg, I can run with
+you.");
     MsgDisp("主人公","I, I'll do my best.");
     break ;
     case 4:

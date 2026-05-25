@@ -9,8 +9,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630100_06_010");
-MsgDisp("Himuro","You surround yourself with many friends
-and a variety of people.");
+MsgDisp("Himuro","You surround yourself with many friends and a
+variety of people.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -20,8 +20,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630100_06_030");
-MsgDisp("Himuro","Is there a trick to being close friends
-and ignoring gender boundaries?");
+MsgDisp("Himuro","Is there a trick to being close friends and
+ignoring gender boundaries?");
 MsgDisp("主人公","Ummm...");
 ChEye(6,2);
 ChMouth(6,0);
@@ -45,8 +45,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630100_06_060");
 MsgDisp("Himuro","Generally speaking, if you poorly make
-friends of the opposite sex, it can go
-wrong. But you're doing great.");
+friends of the opposite sex, it can go wrong.
+But you're doing great.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -58,8 +58,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630100_06_080");
-MsgDisp("Himuro","Maybe not being self-aware is the key to
-not causing trouble.");
+MsgDisp("Himuro","Maybe not being self-aware is the key to not
+causing trouble.");
 MsgDisp("主人公","Ummm...?");
 ChEye(6,0);
 ChMouth(6,4);

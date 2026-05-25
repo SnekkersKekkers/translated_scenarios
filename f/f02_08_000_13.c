@@ -28,5 +28,5 @@ VoicePlay("F020800013_08_020");
 MsgDisp("Shirahane","Hm?
 It's nothin'.");
 MsgDisp("主人公","(That's kind of an interesting way to put
-it...Won't ｛Daichi＊＊｝ be enjoying the
+it... Won't ｛Daichi＊＊｝ be enjoying the
 Hane High school trip?)");

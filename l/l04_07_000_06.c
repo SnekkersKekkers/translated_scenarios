@@ -44,8 +44,7 @@ I tried to put my feelings into them...");
     ChMotion(7,3);
     VoicePlay("L040700006_07_040");
     MsgDisp("Mikage","I see, I can feel your feelings in this.
-Like lava that's beginning to harden,
-right?");
+Like lava that's beginning to harden, right?");
     MsgDisp("主人公","I'm sorry...");
     ChEye(7,0);
     ChMouth(7,3);
@@ -92,8 +91,8 @@ yourself to eat it...");
     ChMotion(7,2);
     VoicePlay("L040700006_07_090");
     MsgDisp("Mikage","What are you talking about?
-I'll make sure to accept your feelings in
-my stomach.");
+I'll make sure to accept your feelings in my
+stomach.");
     MsgDisp("主人公","(Aah, I wish I had made them better...
 I feel bad for ｛Mikage＊＊｝...)");
     MsgClose();

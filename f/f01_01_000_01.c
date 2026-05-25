@@ -20,8 +20,8 @@ I guess I shouldn't call him that...)");
     VoicePlay("F010100001_01_010");
     MsgDisp("Kazama","What's up with that?
 ...Geez.");
-    MsgDisp("主人公","(It doesn't seem like he likes being
-called this.)");
+    MsgDisp("主人公","(It doesn't seem like he likes being called
+this.)");
     break ;
     case 4:
     case 5:
@@ -40,8 +40,8 @@ I just wanted to see if I could...");
     ChEyeOpenLevel(1,8);
     VoicePlay("F010100001_01_030");
     MsgDisp("Kazama","I don't like it at all.
-I thought there might be a reason, but
-there doesn't seem like there is.");
+I thought there might be a reason, but there
+doesn't seem like there is.");
     MsgDisp("主人公","(Yeah, I shouldn't call him that...)");
     break ;
     default :

@@ -8,23 +8,22 @@ MsgDisp("Hiiragi","｛主人公｝.
 The confectionaries we used to welcome the
 guests....where did you purchase it from?");
 MsgDisp("主人公","Eh?
-They were sweets from the staffroom
-though...");
+They were sweets from the staffroom though...");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("P840500001_05_010");
-MsgDisp("Hiiragi","I see. then it's inevitable they would
-take offence to that.");
+MsgDisp("Hiiragi","I see. then it's inevitable they would take
+offence to that.");
 MsgDisp("主人公","Eh?
 What's wrong?");
 ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P840500001_05_020");
-MsgDisp("Hiiragi","Those sweets, were brought in as a gift
-from one of the guests...");
+MsgDisp("Hiiragi","Those sweets, were brought in as a gift from
+one of the guests...");
 MsgDisp("主人公","Ehhh∋
 I-I'm very sorry.
 What should I do...");

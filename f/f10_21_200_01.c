@@ -10,8 +10,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102120001_21_000");
-MsgDisp("Michiru","Hey, it's getting complicated even for
-you, right?");
+MsgDisp("Michiru","Hey, it's getting complicated even for you,
+right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -53,8 +53,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F102120001_21_040");
-MsgDisp("Michiru","Maybe the reason is something
-inconvenient when Mari's around?");
+MsgDisp("Michiru","Maybe the reason is something inconvenient
+when Mari's around?");
 MsgDisp("主人公","(???)");
 BGMStop();
 MsgClose();

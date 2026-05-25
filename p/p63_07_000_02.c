@@ -18,8 +18,7 @@ club's efforts...)");
     MsgDisp("Mikage","Oh, this is an extremely stylish cafe this
 year, huh?");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
-There's also a lot of customers who've
-come.");
+There's also a lot of customers who've come.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -65,8 +64,8 @@ And the store clerk is too.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("P630700002_07_060");
-    MsgDisp("Mikage","I'm looking forwards to the food and
-herbal tea.");
+    MsgDisp("Mikage","I'm looking forwards to the food and herbal
+tea.");
     MsgDisp("主人公","Of course.
 What would you like?");
     ChEye(7,0);

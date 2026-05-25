@@ -50,17 +50,16 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("E010340000_03_030");
-MsgDisp("Honda","Yeah, I guess you could say we're similar,
-I totally relate.");
+MsgDisp("Honda","Yeah, I guess you could say we're similar, I
+totally relate.");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("E010340000_22_040");
-MsgDisp("Hikaru","Even if Dahon is similar, it's a
-bit weird...
+MsgDisp("Hikaru","Even if Dahon is similar, it's a bit weird...
 What do you think, Mari?");
-MsgDisp("主人公","Umm... you both have pretty unique taste 
-in nicknames, but I like it.");
+MsgDisp("主人公","Umm... you both have pretty unique taste in
+nicknames, but I like it.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -79,9 +78,9 @@ ChPosition(3,0);
 MsgDisp("主人公","Uh, yeah, bye bye.");
 ChSet(3,3);
 VoicePlay("E010340000_03_040");
-MsgDisp("Honda","Amazing. Pika-chan listens to you? I'm
-counting on you next time Chiru-chan gets
-angry with me.");
+MsgDisp("Honda","Amazing.
+Pika-chan listens to you? I'm counting on you
+next time Chiru-chan gets angry with me.");
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010340000_03_050");
@@ -89,8 +88,8 @@ MsgDisp("Honda","See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Chiru-chan...He's talking about
-｛みちる＊｝, right? That seems like it
-could be a problem too...)");
+MsgDisp("主人公","(Chiru-chan...
+He's talking about ｛みちる＊｝, right?
+That seems like it could be a problem too...)");
 MsgClose();
 ScrFadeOut(0,0);

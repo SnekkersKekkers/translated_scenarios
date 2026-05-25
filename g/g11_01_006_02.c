@@ -1,8 +1,8 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...today ｛Kazama＊＊｝ invited
-me to walk home together.)");
+MsgDisp("主人公","(That's right...today ｛Kazama＊＊｝ invited me
+to walk home together.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -65,8 +65,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100602_01_050");
 MsgDisp("Kazama","Hm?
-Doesn't that sunset cloud somewhat look
-like Honda's face?");
+Doesn't that sunset cloud somewhat look like
+Honda's face?");
 MsgDisp("主人公","Eh?
 Which one?");
 ChEyeOpenLevel(1,0);

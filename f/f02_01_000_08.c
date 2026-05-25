@@ -18,8 +18,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100008_01_010");
-MsgDisp("Kazama","I'm looking forward to the performance,
-but I'm also excited to prepare for it.");
+MsgDisp("Kazama","I'm looking forward to the performance, but
+I'm also excited to prepare for it.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -40,7 +40,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100008_01_040");
 MsgDisp("Kazama","The performance is coming up.
-You should have fun during this time
-before it's over.");
-MsgDisp("主人公","(｛Kazama＊＊｝ seems to be really
-enjoying the festival.)");
+You should have fun during this time before
+it's over.");
+MsgDisp("主人公","(｛Kazama＊＊｝ seems to be really enjoying the
+festival.)");

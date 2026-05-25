@@ -14,8 +14,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P140100000_01_010");
-MsgDisp("Kazama","Yeah, there were a lot of people who
-turned back there, and got lost.");
+MsgDisp("Kazama","Yeah, there were a lot of people who turned
+back there, and got lost.");
 MsgDisp("主人公","Yay!
 That was a huge success, huh?");
 ChEye(1,0);

@@ -32,8 +32,7 @@ I have to study harder...)");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("N020600003_06_030");
-    MsgDisp("Himuro","Then...did you put them in the wrong
-column?");
+    MsgDisp("Himuro","Then...did you put them in the wrong column?");
     MsgDisp("主人公","(Oof...
 I have to study harder...)");
     break ;
@@ -55,23 +54,23 @@ I haven't seen you do any studying.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("N020600003_06_060");
-    MsgDisp("Himuro","But some hardworking people don't show it,
-so I didn't pry...
+    MsgDisp("Himuro","But some hardworking people don't show it, so
+I didn't pry...
 That was not a good idea.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("N020600003_06_070");
     MsgDisp("Himuro","If you need help, talk to me.
-I think I can help with some parts, even
-if it's upperclassman material.");
+I think I can help with some parts, even if
+it's upperclassman material.");
     MsgDisp("主人公","Okay, thank you...");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("N020600003_06_080");
-    MsgDisp("Himuro","If you really want it, you'll be at the
-top of the list in no time.
+    MsgDisp("Himuro","If you really want it, you'll be at the top
+of the list in no time.
 I'm rooting for you.");
     MsgDisp("主人公","(Oof...
 I have to study harder...)");

@@ -18,8 +18,9 @@ Did you come to cheer me on?");
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("H382200000_22_010");
-    MsgDisp("Hikaru","Of course♪ Hikaru came to watch Mari
-become the number one high school girl.");
+    MsgDisp("Hikaru","Of course♪
+Hikaru came to watch Mari become the number
+one high school girl.");
     MsgDisp("主人公","Yeah, I'll do my best!");
     BGMStop();
     MsgClose();
@@ -51,8 +52,8 @@ I'll show you my cool side!");
     ChMotion(22,3,1);
     VoicePlay("H382200000_22_040");
     MsgDisp("Hikaru","Hikaru wants to see it!
-Hikaru's going to be cheering for you a
-lot, so go on and win!");
+Hikaru's going to be cheering for you a lot,
+so go on and win!");
     MsgDisp("主人公","Yeah, I'll do my best!");
     ChEye(22,4);
     ChMouth(22,0);

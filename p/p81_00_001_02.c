@@ -8,23 +8,21 @@ SEWait();
 MsgDisp("主人公","Yes, hello?");
 VoicePlay("P810500102_41_000");
 MsgDisp("President","I apologize for calling you on break.
-I called you as I have a message to
-deliver.");
+I called you as I have a message to deliver.");
 VoicePlay("P810500102_41_010");
-MsgDisp("President","From next week, for two weeks onwards we
-will begin the preparation period for the
-cultural festival.");
+MsgDisp("President","From next week, for two weeks onwards we will
+begin the preparation period for the cultural
+festival.");
 VoicePlay("P810500102_41_020");
-MsgDisp("President","We, the Student Council, have
-been entrusted with management of the
-cultural festival. Please also join us in
-preparations.");
+MsgDisp("President","We, the Student Council, have been entrusted
+with management of the cultural festival.
+Please also join us in preparations.");
 VoicePlay("P810500102_41_030");
 MsgDisp("President","...Then, get better soon.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(This is my last cultural festival of high
-school. Let's get better quickly, and do
-our best in order to make this a success!)");
+school. Let's get better quickly, and do our
+best in order to make this a success!)");
 MsgClose();
 ScrFadeOut(0,0);

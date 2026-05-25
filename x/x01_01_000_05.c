@@ -5,8 +5,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I tried my best this week!)");
 ChOpen(1,254,0,2,3,#1,#1,0,0);
 VoicePlay("X010100005_01_000");
-MsgDisp("Kazama","It's just like you to work hard even 
-in your club activities.
+MsgDisp("Kazama","It's just like you to work hard even in your
+club activities.
 Don't push yourself too much, okay?");
 MsgDisp("主人公","(Yay!)");
 MsgClose();

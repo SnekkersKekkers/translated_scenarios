@@ -14,8 +14,8 @@ I think it is.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("N020700002_07_010");
-    MsgDisp("Mikage","Whether you push a little harder or not,
-it's okay.");
+    MsgDisp("Mikage","Whether you push a little harder or not, it's
+okay.");
     MsgDisp("主人公","(Hmm...
 Maybe I should study a little bit harder?)");
     break ;
@@ -31,8 +31,8 @@ Not good but not bad either.");
     ChMotion(7,0);
     VoicePlay("N020700002_07_030");
     MsgDisp("Mikage","High school life only happens once.
-Find something meaningful, even if it's
-not just about studying.");
+Find something meaningful, even if it's not
+just about studying.");
     MsgDisp("主人公","Umm, okay...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -54,8 +54,8 @@ Maybe I should study a little bit harder?)");
     ChMotion(7,2);
     VoicePlay("N020700002_07_060");
     MsgDisp("Mikage","An average among averages?
-You should put yourself in a position
-where it's easier to make a comment.");
+You should put yourself in a position where
+it's easier to make a comment.");
     MsgDisp("主人公","Umm...?");
     ChEye(7,0);
     ChMouth(7,0);

@@ -1,7 +1,7 @@
 BGOpen("sc100",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Come to think of it, it was a bit windy
-last night...
+MsgDisp("主人公","(Come to think of it, it was a bit windy last
+night...
 Is the gardening club field okay?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -26,17 +26,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700600_07_010");
-MsgDisp("Mikage","Plants look their loveliest in the
-morning, and the earlier you water them,
-the better.");
+MsgDisp("Mikage","Plants look their loveliest in the morning,
+and the earlier you water them, the better.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700600_07_020");
 MsgDisp("Mikage","So, why are you here so early?");
-MsgDisp("主人公","I was worried about yesterday's strong
-winds. So, I came to check on the
-conditions of the plants.");
+MsgDisp("主人公","I was worried about yesterday's strong winds.
+So, I came to check on the conditions of the
+plants.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

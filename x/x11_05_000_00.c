@@ -5,8 +5,8 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500000_05_000");
-    MsgDisp("Hiiragi","I heard the baseball club won their
-practice match.
+    MsgDisp("Hiiragi","I heard the baseball club won their practice
+match.
 Congratulations.");
     MsgDisp("主人公","Yeah!
 Everyone gave it their all!");
@@ -19,8 +19,8 @@ Everyone gave it their all!");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500000_05_010");
-    MsgDisp("Hiiragi","I heard the baseball club had gotten a
-good result in their practice match?");
+    MsgDisp("Hiiragi","I heard the baseball club had gotten a good
+result in their practice match?");
     MsgDisp("主人公","Yeah, I'm also happy!");
     ChEye(5,4);
     VoicePlay("X110500000_05_020");

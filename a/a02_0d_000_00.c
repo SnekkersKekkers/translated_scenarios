@@ -73,8 +73,8 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("A020D00000_21_050");
 MsgDisp("Michiru","Yes.
-A girl full of grace, overflowing with
-charm, like a delicate flower in bloom...");
+A girl full of grace, overflowing with charm,
+like a delicate flower in bloom...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -129,7 +129,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("A020D00000_21_090");
-MsgDisp("Michiru","Same here— \"Michiru\" is fine.
+MsgDisp("Michiru","Same here—
+\"Michiru\" is fine.
 See you around, Mari.");
 MsgClose();
 SEPlay("EV_SE_856");

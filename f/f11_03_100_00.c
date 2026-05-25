@@ -18,8 +18,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("F110310000_03_020");
 MsgDisp("Honda","Anyone who wins in a quiz gets a reward
-haircut! Interesting, right? It was
-Pika-chan's idea.");
+haircut!
+Interesting, right? It was Pika-chan's idea.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -45,7 +45,7 @@ MsgDisp("School Boy","What is that, a haircut death match∋");
 VoicePlay("F110310000_03_060");
 MsgDisp("Honda","Welcome!
 Alright, let's have a quiz battle!");
-MsgDisp("主人公","(｛Honda＊＊｝ would never lose at quizzes,
-so it should be fine...right?)");
+MsgDisp("主人公","(｛Honda＊＊｝ would never lose at quizzes, so
+it should be fine...right?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -22,8 +22,7 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(｛Hiiragi＊＊＊｝ must be busy...
-If he's doing his best, then I should
-too...)");
+If he's doing his best, then I should too...)");
     break ;
     case 3:
     MsgClose();
@@ -67,9 +66,9 @@ The both of us should take it easy, then.");
 Hmm, I'm not sure...");
     ChMotion(5,0);
     VoicePlay("N020500002_05_080");
-    MsgDisp("Hiiragi","With your dedication to what fascinates
-you, just a small interest in studying
-could propel you to the top quickly.");
+    MsgDisp("Hiiragi","With your dedication to what fascinates you,
+just a small interest in studying could
+propel you to the top quickly.");
     ChEye(5,2);
     VoicePlay("N020500002_05_090");
     MsgDisp("Hiiragi","Ah...
@@ -80,8 +79,8 @@ I'll try my best to be more interested.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("N020500002_05_100");
-    MsgDisp("Hiiragi","Yeah, I think your ranking would jump
-right to the first place.
+    MsgDisp("Hiiragi","Yeah, I think your ranking would jump right
+to the first place.
 You're someone I believe in, after all.");
     ChEye(5,2);
     ChMouth(5,4);

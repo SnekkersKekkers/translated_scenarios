@@ -17,8 +17,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700011_07_010");
 MsgDisp("Mikage","I'm looking forward to the Christmas party
-lots, but I'm feeling pretty bummed out
-about the new year.");
+lots, but I'm feeling pretty bummed out about
+the new year.");
 MsgDisp("主人公","What's the matter?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -32,8 +32,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700011_07_030");
 MsgDisp("Mikage","Every year, same questions, same answers.
-It's like thawing out a frozen
-conversation.");
+It's like thawing out a frozen conversation.");
 MsgDisp("主人公","Seems tough.");
 ChEye(7,2);
 ChMouth(7,3);
@@ -46,17 +45,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700011_07_050");
-MsgDisp("Mikage","Yeah, that alone makes it worth going
-back. That girl welcomes me back every
-year. That's what they call unchanging
-love.");
+MsgDisp("Mikage","Yeah, that alone makes it worth going back.
+That girl welcomes me back every year.
+That's what they call unchanging love.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700011_07_060");
 MsgDisp("Mikage","I can't see your face during winter break,
-but I can see Molly's. That's the only
-thing I'm looking forward to.");
+but I can see Molly's.
+That's the only thing I'm looking forward to.");
 MsgDisp("主人公","That's good.
 Please give my best regards to Molly-chan.");
 ChEye(7,0);
@@ -64,6 +62,6 @@ ChMouth(7,3);
 ChMotion(7,4);
 ChEyeOpenLevel(7,0);
 VoicePlay("F020700011_07_070");
-MsgDisp("Mikage","Yeah, but that girl can be super jealous,
-so maybe it's better for me to keep quiet?");
+MsgDisp("Mikage","Yeah, but that girl can be super jealous, so
+maybe it's better for me to keep quiet?");
 MsgDisp("主人公","(Molly-chan is jealous of me??)");

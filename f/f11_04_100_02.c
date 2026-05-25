@@ -36,9 +36,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F110410002_04_040");
-MsgDisp("Nanatsumori","Well then, how about we try going
-together? Until last year, I was always
-sad and alone.");
+MsgDisp("Nanatsumori","Well then, how about we try going together?
+Until last year, I was always sad and alone.");
 MsgDisp("主人公","Haha, sure.");
 ChMotion(4,0,1);
 VoicePlay("F110410002_04_050");
@@ -46,8 +45,8 @@ MsgDisp("Nanatsumori","Right.
 Um, where to start?
 Whatever you want.");
 MsgDisp("主人公","OK!
-Then, let's start at the sweets stand and
-go around.");
+Then, let's start at the sweets stand and go
+around.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);

@@ -17,9 +17,9 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H2A0600000_06_010");
-    MsgDisp("Himuro","That member who won had a great
-expression. It's thanks to your support,
-right? Good work.");
+    MsgDisp("Himuro","That member who won had a great expression.
+It's thanks to your support, right?
+Good work.");
     MsgDisp("主人公","(I'm glad that I stayed as the track and
 field club manager!)");
     break ;
@@ -35,8 +35,7 @@ field club manager!)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H2A0600000_06_030");
-    MsgDisp("Himuro","I didn't think you guys would actually
-win.");
+    MsgDisp("Himuro","I didn't think you guys would actually win.");
     MsgDisp("主人公","｛Himuro＊＊｝!
 Hehe, awesome, right?");
     ChEye(6,0);
@@ -48,16 +47,16 @@ Hehe, awesome, right?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H2A0600000_06_050");
-    MsgDisp("Himuro","But well, I guess without your support,
-this result wouldn't have happened.");
+    MsgDisp("Himuro","But well, I guess without your support, this
+result wouldn't have happened.");
     MsgDisp("主人公","I hope so...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("H2A0600000_06_060");
-    MsgDisp("Himuro","...It kinda feels like you've gotten
-further away.
+    MsgDisp("Himuro","...It kinda feels like you've gotten further
+away.
 It's a little frustrating.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);

@@ -27,16 +27,16 @@ Thank you very much～!");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I650200000_02_020");
-    MsgDisp("Sassa","If you're like this, then the customers
-will want to come again.");
+    MsgDisp("Sassa","If you're like this, then the customers will
+want to come again.");
     MsgDisp("主人公","I'd be happy if they did.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I650200000_02_030");
     MsgDisp("Sassa","No doubt about it.
-I was drawn in even though I don't need
-any gasoline.");
+I was drawn in even though I don't need any
+gasoline.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,2);
@@ -68,14 +68,14 @@ Thank you very much～!");
     ChEyeOpenLevel(2,0);
     VoicePlay("I650200000_02_060");
     MsgDisp("Sassa","Yeah.
-I got tired of running laps on the
-grounds, so I'm on the roads now.");
+I got tired of running laps on the grounds,
+so I'm on the roads now.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("I650200000_02_070");
-    MsgDisp("Sassa","Then, I heard your 'alright, alright!
-' And found myself making a pit stop.");
+    MsgDisp("Sassa","Then, I heard your 'alright, alright! ' And
+found myself making a pit stop.");
     MsgDisp("主人公","Hehe, do you need to be refueled,
 ｛Sassa＊＊｝?");
     ChEye(2,0);
@@ -117,8 +117,8 @@ Welcome.");
     ChMotion(2,3);
     VoicePlay("I650200000_02_110");
     MsgDisp("Sassa","Yeah.
-I'm not a driver, but wanted to stop here
-for a break, too.");
+I'm not a driver, but wanted to stop here for
+a break, too.");
     MsgDisp("主人公","Is that so?
 Then, you can go inside to use the vending
 machine and get a drink.");
@@ -143,8 +143,8 @@ Was he feeling okay?");
     MsgClose();
     ScrFadeIn(0);
     MsgDisp("主人公","Full tank of regular!
-Replacing the ashtray, and window wiping
-is all done as well!");
+Replacing the ashtray, and window wiping is
+all done as well!");
     SEPlay("EV_SE_589");
     VoicePlay("I650200000_36_000");
     MsgDisp("Customer","Thanks.
@@ -163,18 +163,18 @@ I didn't do anything.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("I650200000_02_140");
-    MsgDisp("Sassa","Seeing you work so hard for others
-refreshed me so much, it was like getting
-hit in the back of my head.");
+    MsgDisp("Sassa","Seeing you work so hard for others refreshed
+me so much, it was like getting hit in the
+back of my head.");
     MsgDisp("主人公","Huh∋");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("I650200000_02_150");
-    MsgDisp("Sassa","Yeah, since I'm just working for myself
-with this. If I got hesitant about that,
-I'd feel bad for you.");
+    MsgDisp("Sassa","Yeah, since I'm just working for myself with
+this. If I got hesitant about that, I'd feel
+bad for you.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,1);
@@ -186,8 +186,8 @@ See you!");
     MsgClose();
     ChClose(2);
     VoicePlay("I650200000_02_170");
-    MsgDisp("Sassa","Ah, I got juice for you too, so drink it
-on your way home!");
+    MsgDisp("Sassa","Ah, I got juice for you too, so drink it on
+your way home!");
     MsgClose();
     MsgDisp("主人公","(｛Sassa＊＊｝...
 I'm happy that I could help him out.

@@ -21,8 +21,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("Q070B00100_01_000");
-MsgDisp("Kazama","The Dutch classic is the tulip, but these
-are pretty too.");
+MsgDisp("Kazama","The Dutch classic is the tulip, but these are
+pretty too.");
 ChMotion(1,0);
 ChEye(4,0);
 ChMouth(4,3);
@@ -100,8 +100,8 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("Q070B00100_01_030");
-MsgDisp("Kazama","Nanatsumori, you really like taking
-photos, huh.
+MsgDisp("Kazama","Nanatsumori, you really like taking photos,
+huh.
 What are you gonna do with all of those?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -122,9 +122,9 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q070B00100_01_040");
 VoiceEVSPlay(1);
-MsgDisp("Kazama","Yeah, good idea. It would be a shame to
-waste such an opportunity. Let's go,
-｛主人公｝.");
+MsgDisp("Kazama","Yeah, good idea.
+It would be a shame to waste such an
+opportunity. Let's go, ｛主人公｝.");
 MsgDisp("主人公","Okay.");
 ChEye(4,0);
 ChMouth(4,3);

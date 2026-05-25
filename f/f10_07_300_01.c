@@ -39,8 +39,8 @@ ChMotion(22,3,1);
 VoicePlay("F100730001_22_020");
 MsgDisp("Hikaru","Yeah, that!
 It's a mystery.");
-MsgDisp("主人公","｛Mikage＊＊｝'s hairstyle...yeah, I'm
-kinda curious.");
+MsgDisp("主人公","｛Mikage＊＊｝'s hairstyle...yeah, I'm kinda
+curious.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -89,14 +89,14 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100730001_07_050");
 MsgDisp("Mikage","It's fine. After I come to school in the
-morning, I water it in the gardening
-club's fields and it returns to normal.");
+morning, I water it in the gardening club's
+fields and it returns to normal.");
 ChEye(7,0);
 ChMouth(7,3);
 VoicePlay("F100730001_07_060");
 MsgDisp("Mikage","My hair is like a plant.
-Even if it's limp, if I water it, it
-becomes new again.");
+Even if it's limp, if I water it, it becomes
+new again.");
 ChEye(21,5);
 ChMouth(21,4);
 ChMotion(21,0);

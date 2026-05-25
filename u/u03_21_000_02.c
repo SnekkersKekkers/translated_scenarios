@@ -26,8 +26,8 @@ Now we have a matching scent.");
     SEPlay("EV_SE_083");
     MsgDisp("主人公","(I got Camellia perfume!)");
     SEPlay("EV_SE_080");
-    MsgDisp("主人公","(I feel like I've become a more
-considerate person...)");
+    MsgDisp("主人公","(I feel like I've become a more considerate
+person...)");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,0);
@@ -43,8 +43,7 @@ See you later, ｛みちる＊｝!");
     ChMouth(21,0);
     ChMotion(21,5);
     VoicePlay("U032100002_21_040");
-    MsgDisp("Michiru","Oh okay, you don't like this kind of
-thing.
+    MsgDisp("Michiru","Oh okay, you don't like this kind of thing.
 No worries.");
     ChEye(21,0);
     ChMouth(21,0);

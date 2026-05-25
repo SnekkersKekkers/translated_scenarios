@@ -22,17 +22,16 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F032100000_21_040");
-MsgDisp("Michiru","Ah...I mean, when two people are in love,
-they dress up for each other and change
-how they act, so it's good reference...");
+MsgDisp("Michiru","Ah... I mean, when two people are in love,
+they dress up for each other and change how
+they act, so it's good reference...");
 MsgDisp("主人公","Hmmm...?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,0);
 ChCheek(21,6);
 VoicePlay("F032100000_21_050");
-MsgDisp("Michiru","...Of course, I enjoy the story too
-though.");
+MsgDisp("Michiru","...Of course, I enjoy the story too though.");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,5);
@@ -40,8 +39,8 @@ ChCheek(21,10);
 VoicePlay("F032100000_21_060");
 MsgDisp("Michiru","No way...this is so embarrassing.
 Can you let me off the hook already?");
-MsgDisp("主人公","(Hehe. ｛みちる＊｝ likes romance
-dramas, huh?)");
+MsgDisp("主人公","(Hehe.
+｛みちる＊｝ likes romance dramas, huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

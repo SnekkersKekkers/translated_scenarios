@@ -4,8 +4,8 @@ SEWait();
 VoicePlay("I120000000_45_000");
 MsgDisp("Manager","Thank you for calling.
 This is General Store Simon.");
-MsgDisp("主人公","I'm calling about your help wanted ad for
-the part-time job opening......");
+MsgDisp("主人公","I'm calling about your help wanted ad for the
+part-time job opening......");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -15,11 +15,11 @@ Thursday?");
 MsgDisp("主人公","I understand.
 I'm looking forward to working with you.");
 VoicePlay("I120000000_45_020");
-MsgDisp("Manager","I look forward to working with you from
-now on.");
+MsgDisp("Manager","I look forward to working with you from now
+on.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","I'll be working part-time every Tuesday
-and Thursday at the general store.
+MsgDisp("主人公","I'll be working part-time every Tuesday and
+Thursday at the general store.
 Alright, I'll do my best!");
 MsgClose();

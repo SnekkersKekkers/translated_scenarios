@@ -23,8 +23,8 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("K020300001_03_010");
 MsgDisp("Honda","It was your birthday, right?
-I wanted to give this to you that day, but
-I missed it.");
+I wanted to give this to you that day, but I
+missed it.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1);

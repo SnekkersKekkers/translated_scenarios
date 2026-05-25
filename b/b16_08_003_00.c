@@ -20,8 +20,8 @@ I was just jokin'...");
     NSSEyeOpenLevel(8,0);
     VoicePlay("B160800300_08_020");
     MsgDisp("Shirahane","Haha!
-I wouldn't do that?
-'Cause I wanna cherish you.");
+I wouldn't do that? 'Cause I wanna cherish
+you.");
     break ;
     default :
     DbgAssert(0);

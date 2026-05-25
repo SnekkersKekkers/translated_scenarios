@@ -23,9 +23,9 @@ switch (ChPrmGet(1,6)){
     VoicePlay("I130100001_01_000");
     MsgDisp("Kazama","...Hm?
 What are you doing here?");
-    MsgDisp("主人公","Ah, ｛Kazama＊＊｝. I'll be working
-part-time here starting today. Let's work
-hard together.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
+I'll be working part-time here starting
+today. Let's work hard together.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -108,8 +108,8 @@ Try saying it one more time.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I130100001_01_100");
-    MsgDisp("Kazama","Well, keep calling me that while we're in
-the store.");
+    MsgDisp("Kazama","Well, keep calling me that while we're in the
+store.");
     MsgDisp("主人公","Um...
 Okay.");
     ChEye(1,0);
@@ -125,8 +125,8 @@ Okay.");
     VoicePlay("I130100001_01_120");
     MsgDisp("Kazama","That was close.");
     MsgDisp("主人公","Hehe, geez.");
-    MsgDisp("主人公","(Working part-time with ｛Kazama＊＊｝ is
-going to be fun...
+    MsgDisp("主人公","(Working part-time with ｛Kazama＊＊｝ is going
+to be fun...
 I guess?)");
     break ;
     default :

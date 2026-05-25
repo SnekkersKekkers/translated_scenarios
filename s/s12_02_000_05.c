@@ -20,23 +20,22 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,4);
     VoicePlay("S120200005_02_000");
     MsgDisp("Sassa","No problem.
-We were able to take it easy and talk
-freely.");
+We were able to take it easy and talk freely.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("S120200005_02_010");
-    MsgDisp("Sassa","Let's do this again next year, and the
-years after that.");
+    MsgDisp("Sassa","Let's do this again next year, and the years
+after that.");
     MsgDisp("主人公","Hehe, this year just started, and you're
 already talking about the year after this?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("S120200005_02_020");
-    MsgDisp("Sassa","Yeah. Let's run as fast as we can during
-our school years. The faster you run, the
-faster you'll see the future.");
+    MsgDisp("Sassa","Yeah. Let's run as fast as we can during our
+school years. The faster you run, the faster
+you'll see the future.");
     MsgDisp("主人公","Okay, got it.
 Let's work hard this year!");
     ChEye(2,0);
@@ -51,8 +50,8 @@ See you.");
     MsgClose();
     ChClose(2);
     MsgDisp("主人公","(No matter what the future holds, like
-｛Sassa＊＊｝ says, let's try our best and
-live without regrets!)");
+｛Sassa＊＊｝ says, let's try our best and live
+without regrets!)");
     break ;
     case 4:
     case 5:
@@ -72,8 +71,8 @@ live without regrets!)");
     ChMotion(2,4);
     VoicePlay("S120200005_02_040");
     MsgDisp("Sassa","No, thank you.
-I thanked the Gods for a lot, but not for
-you yet.");
+I thanked the Gods for a lot, but not for you
+yet.");
     MsgDisp("主人公","Eh?");
     ChEye(2,4);
     ChMouth(2,0);
@@ -101,8 +100,8 @@ understand now.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("S120200005_02_080");
-    MsgDisp("Sassa","I'm just doing what I love to the best of
-my ability.
+    MsgDisp("Sassa","I'm just doing what I love to the best of my
+ability.
 That's not enough for praise.");
     MsgDisp("主人公","That's not true...");
     ChEye(2,2);
@@ -110,15 +109,14 @@ That's not enough for praise.");
     ChMotion(2,2);
     VoicePlay("S120200005_02_090");
     MsgDisp("Sassa","Thank you...
-I still don't know what to say, how to
-thank you enough.");
+I still don't know what to say, how to thank
+you enough.");
     ChEye(2,4);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("S120200005_02_100");
     MsgDisp("Sassa","So today I'll just say thank you.
-I need a little more time, until we
-graduate.");
+I need a little more time, until we graduate.");
     MsgDisp("主人公","｛Sassa＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);

@@ -85,8 +85,8 @@ ChMouth(1,3);
 ChMotion(1,3,1);
 VoicePlay("Q100B00000_01_030");
 MsgDisp("Kazama","Wait a sec.
-I heard that the udon from the Goto
-Islands are delicious.");
+I heard that the udon from the Goto Islands
+are delicious.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);
@@ -139,8 +139,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("Q100B00000_03_050");
-MsgDisp("Honda","Meh...Well, fine! But if I get hungry,
-I'll go eat champon noodles on my own.");
+MsgDisp("Honda","Meh...
+Well, fine! But if I get hungry, I'll go eat
+champon noodles on my own.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

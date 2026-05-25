@@ -11,15 +11,15 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210302_02_010");
-MsgDisp("Sassa","Yeah. People around us were looking too,
-and it got me excited. It felt like we
-were one team.");
+MsgDisp("Sassa","Yeah.
+People around us were looking too, and it got
+me excited. It felt like we were one team.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210302_02_020");
-MsgDisp("Sassa","Hey, how about we keep doing this for a
-while when we meet up?");
+MsgDisp("Sassa","Hey, how about we keep doing this for a while
+when we meet up?");
 MsgDisp("主人公","Huh, only wearing the same clothes?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -33,8 +33,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210302_02_040");
-MsgDisp("Sassa","Ah...the Haba High uniforms are kind of
-like matching outfits too.
+MsgDisp("Sassa","Ah...the Haba High uniforms are kind of like
+matching outfits too.
 Now I'm looking forward to school.");
 MsgDisp("主人公","School isn't just a pair, everyone's the
 same, you know?");

@@ -11,8 +11,8 @@ What's up?");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("H6G0400000_04_010");
-MsgDisp("Nanatsumori","I heard you won a pretty amazing award in
-the gardening club's competition.");
+MsgDisp("Nanatsumori","I heard you won a pretty amazing award in the
+gardening club's competition.");
 MsgDisp("主人公","Yeah.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -23,9 +23,9 @@ Congrats.");
 MsgDisp("主人公","Thanks.");
 ChMotion(4,1,1);
 VoicePlay("H6G0400000_04_030");
-MsgDisp("Nanatsumori","Tell me the details about what it was and
-how exactly it got praised by the
-gardening world later.");
+MsgDisp("Nanatsumori","Tell me the details about what it was and how
+exactly it got praised by the gardening world
+later.");
 MsgDisp("主人公","(I did it!
 I'm really glad I stayed in the gardening
 club!)");

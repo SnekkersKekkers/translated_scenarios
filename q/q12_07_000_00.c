@@ -13,8 +13,8 @@ switch (ChPrmGet(7,6)){
 I'm sorry I dragged you around.
 Do your legs hurt?");
     MsgDisp("主人公","I'm totally fine.
-I really enjoyed the Nagasaki
-extracurricular activity.");
+I really enjoyed the Nagasaki extracurricular
+activity.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
@@ -43,8 +43,8 @@ extracurricular activity.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("Q120700000_07_040");
-    MsgDisp("Mikage","Alright, there's no bell ringing but this
-is still the end.");
+    MsgDisp("Mikage","Alright, there's no bell ringing but this is
+still the end.");
     MsgDisp("主人公","Ok!
 Thank you very much for today!");
     ChEye(7,0);
@@ -55,9 +55,9 @@ Thank you very much for today!");
 Oh, I'll spare you from submitting the
 report.");
     ChClose(7);
-    MsgDisp("主人公","(Hehe! That was so much fun. I want to
-write about it. Thank you,
-｛Mikage＊＊｝.)");
+    MsgDisp("主人公","(Hehe! That was so much fun.
+I want to write about it.
+Thank you, ｛Mikage＊＊｝.)");
     break ;
     case 4:
     case 5:
@@ -74,10 +74,8 @@ Nagasaki version is now over.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("Q120700000_07_080");
-    MsgDisp("Mikage","Thanks for hanging out with me for two
-days.");
-    MsgDisp("主人公","Me too, thank you even for the MVP
-award...");
+    MsgDisp("Mikage","Thanks for hanging out with me for two days.");
+    MsgDisp("主人公","Me too, thank you even for the MVP award...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -103,9 +101,9 @@ Will you also remember, ｛Mikage＊＊｝?");
 Good memories last forever.
 So, enjoy your school trip to the end!");
     ChClose(7);
-    MsgDisp("主人公","(Good memories last forever...I hope the
-school trip with ｛Mikage＊＊｝ will be a
-memory of a lifetime.)");
+    MsgDisp("主人公","(Good memories last forever...
+I hope the school trip with ｛Mikage＊＊｝
+will be a memory of a lifetime.)");
     break ;
     default :
     DbgAssert(1);

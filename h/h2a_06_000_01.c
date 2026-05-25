@@ -24,9 +24,9 @@ look at me like that.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H2A0600001_06_020");
-    MsgDisp("Himuro","Don't get me wrong. I'm saying you don't
-have to make that face. You've done all
-you can for the team.");
+    MsgDisp("Himuro","Don't get me wrong.
+I'm saying you don't have to make that face.
+You've done all you can for the team.");
     MsgDisp("主人公","...Yeah, thanks.");
     MsgDisp("主人公","(We might have lost, but I'm glad that I
 stayed as the track and field club
@@ -51,8 +51,8 @@ manager...)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H2A0600001_06_050");
-    MsgDisp("Himuro","...I know how much thought you put into
-the team and how hard you work for them.");
+    MsgDisp("Himuro","...I know how much thought you put into the
+team and how hard you work for them.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);

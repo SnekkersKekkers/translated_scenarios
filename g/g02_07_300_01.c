@@ -17,8 +17,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020730001_07_020");
 MsgDisp("Mikage","Look, high school is only three years.
-The things you see and experience during
-that time are special.");
+The things you see and experience during that
+time are special.");
 MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -46,10 +46,11 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020730001_07_060");
-MsgDisp("Mikage","Thank you. Haa...I've said too much. Let's
-take our time and burn it into our memory.");
-MsgDisp("主人公","(｛Mikage＊＊｝ is always thinking of
-us... that makes me happy.)");
+MsgDisp("Mikage","Thank you.
+Haa... I've said too much. Let's take our
+time and burn it into our memory.");
+MsgDisp("主人公","(｛Mikage＊＊｝ is always thinking of us...
+that makes me happy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

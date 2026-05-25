@@ -21,8 +21,9 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("Z502101000_21_020");
-MsgDisp("Michiru","Yes. Hikaru and I wrote about it in our
-column, too. As expected of Mari.");
+MsgDisp("Michiru","Yes.
+Hikaru and I wrote about it in our column,
+too. As expected of Mari.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

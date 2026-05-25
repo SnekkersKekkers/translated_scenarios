@@ -29,8 +29,8 @@ VoicePlay("F100540002_05_020");
 MsgDisp("Hiiragi","Mikage-sensei is treating us to Hiyashi
 Chuuka at a store he recommends.");
 MsgDisp("主人公","So that's it!
-I think I'll pass, though. I might not be 
-able to eat dinner otherwise.");
+I think I'll pass, though.
+I might not be able to eat dinner otherwise.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -41,9 +41,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100540002_05_030");
-MsgDisp("Hiiragi","I may also be dining together with
-everyone tonight, so I shall go for the
-vinegar soy sauce.");
+MsgDisp("Hiiragi","I may also be dining together with everyone
+tonight, so I shall go for the vinegar soy
+sauce.");
 MsgDisp("主人公","Ehh?
 You're having a group meal...
 Will that be alright?");
@@ -51,16 +51,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100540002_07_030");
-MsgDisp("Mikage","Yeah, actually, the vinegar soy sauce one
-is so light, one bowl will make you
-hungry. Rest assured.");
+MsgDisp("Mikage","Yeah, actually, the vinegar soy sauce one is
+so light, one bowl will make you hungry.
+Rest assured.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4,1);
 VoicePlay("F100540002_05_040");
-MsgDisp("Hiiragi","It is incredible that it will actually
-make you hungry...what happens if I ate
-two bowls?");
+MsgDisp("Hiiragi","It is incredible that it will actually make
+you hungry...what happens if I ate two bowls?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0,1);
@@ -73,8 +72,8 @@ ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("F100540002_07_050");
 MsgDisp("Mikage","｛主人公｝, that's why you should rest
-assured. Dinner will be even more
-delicious than usual.");
+assured. Dinner will be even more delicious
+than usual.");
 MsgDisp("主人公","Ummm...?");
 ChEye(7,0);
 ChMouth(7,3);

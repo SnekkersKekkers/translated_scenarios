@@ -8,8 +8,8 @@ switch (ChPrmGet(6,6)){
     SEPlay("EV_SE_589");
     Wait(50,0);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(Haa, and now we need detergent for the
-car wash...)");
+    MsgDisp("主人公","(Haa, and now we need detergent for the car
+wash...)");
     VoicePlay("I650600000_06_000");
     MsgDisp("Himuro?","Hm, so you're working here?");
     MsgClose();
@@ -22,8 +22,8 @@ What's up?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I650600000_06_010");
-    MsgDisp("Himuro","I was taking a walk when I thought I heard
-a familiar voice somewhere.");
+    MsgDisp("Himuro","I was taking a walk when I thought I heard a
+familiar voice somewhere.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

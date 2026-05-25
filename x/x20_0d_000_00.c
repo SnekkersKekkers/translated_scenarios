@@ -19,8 +19,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("X200D00000_21_010");
 MsgDisp("Michiru","Right.
-It's the last challenge for female
-students.");
+It's the last challenge for female students.");
 MsgDisp("主人公","Hey, what is \"Rose Queen\"?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -33,15 +32,15 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("X200D00000_21_020");
-MsgDisp("Michiru","It's an unofficial beauty contest held
-only amongst the third year girls at
-Habataki High School.");
+MsgDisp("Michiru","It's an unofficial beauty contest held only
+amongst the third year girls at Habataki High
+School.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("X200D00000_22_020");
-MsgDisp("Hikaru","Intelligent, good at sports, brains as
-well as beauty, popular, even in love!
+MsgDisp("Hikaru","Intelligent, good at sports, brains as well
+as beauty, popular, even in love!
 The perfect woman♪");
 ChEye(21,0);
 ChMouth(21,3);

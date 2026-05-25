@@ -1,8 +1,8 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'll try going to a student council
-meeting for the first time in a while...)");
+MsgDisp("主人公","(I'll try going to a student council meeting
+for the first time in a while...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);
@@ -30,10 +30,9 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500200_05_010");
-MsgDisp("Hiiragi","I wonder why? I've retired from the
-student council leadership committee, but
-I still find myself going here from time
-to time.");
+MsgDisp("Hiiragi","I wonder why? I've retired from the student
+council leadership committee, but I still
+find myself going here from time to time.");
 ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
@@ -49,10 +48,10 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110500200_05_030");
-MsgDisp("Hiiragi","Not, 'Eh?', the two of us acted together
-in a play, and reunited here.");
-MsgDisp("主人公","This isn't Habataki Castle, but the
-student council room, you know.");
+MsgDisp("Hiiragi","Not, 'Eh?', the two of us acted together in a
+play, and reunited here.");
+MsgDisp("主人公","This isn't Habataki Castle, but the student
+council room, you know.");
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500200_05_040");
 MsgDisp("Hiiragi","So it's 'Student Council Room: Flames
@@ -63,10 +62,9 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,13);
 VoicePlay("G110500200_05_050");
-MsgDisp("Hiiragi","Ah, that's the signal for the show to
-begin.");
-MsgDisp("主人公","(Even now, I think it's amazing I was able
-to perform alongside ｛Hiiragi＊＊＊｝...)");
+MsgDisp("Hiiragi","Ah, that's the signal for the show to begin.");
+MsgDisp("主人公","(Even now, I think it's amazing I was able to
+perform alongside ｛Hiiragi＊＊＊｝...)");
 SEStop("EV_SE_SCHOOL_002",1);
 BGMStop();
 MsgClose();

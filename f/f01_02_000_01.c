@@ -56,8 +56,7 @@ Just now, were you calling me?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("F010200001_02_050");
-    MsgDisp("Sassa","Hmm, even if it's you,
-that one's a no-go.");
+    MsgDisp("Sassa","Hmm, even if it's you, that one's a no-go.");
     MsgDisp("主人公","Sorry.
 Do you dislike it?");
     ChEye(2,0);

@@ -28,8 +28,8 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600804_06_020");
-MsgDisp("Himuro","How long are you going to continue the
-part time job?");
+MsgDisp("Himuro","How long are you going to continue the part
+time job?");
 MsgDisp("主人公","I guess for as long as I can.
 What about you, ｛Himuro＊＊｝?");
 ChEye(6,0);
@@ -58,8 +58,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600804_06_060");
-MsgDisp("Himuro","If in the future, you can't find anything
-you want to do, that would be okay too.");
+MsgDisp("Himuro","If in the future, you can't find anything you
+want to do, that would be okay too.");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,0);
@@ -73,8 +73,8 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600804_06_080");
 MsgDisp("Himuro","You're going to master flowers aren't you?
-Then, there'll be no one who's more
-capable than you.");
+Then, there'll be no one who's more capable
+than you.");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
@@ -87,7 +87,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600804_06_100");
-MsgDisp("Himuro","? What did you think I meant?");
+MsgDisp("Himuro","?
+What did you think I meant?");
 MsgDisp("主人公","No, it's nothing!");
 MsgDisp("主人公","(Haa, my heart is fluttering...!)");
 BGMStop();

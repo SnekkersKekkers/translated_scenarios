@@ -8,8 +8,8 @@ BGMPlay("BGM_C21_MICHIRU_A",0.01);
 Wait(15,0);
 ChOpen(21,35,0,0,4,#1,#1,0,0);
 VoicePlay("I562100005_21_000");
-MsgDisp("Michiru","Have the sweets you displayed in the
-showcase already sold out?");
+MsgDisp("Michiru","Have the sweets you displayed in the showcase
+already sold out?");
 MsgDisp("主人公","Ah, ｛みちる＊｝.
 They sold out just now.");
 ChEye(21,4);
@@ -23,8 +23,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("I562100005_21_020");
-MsgDisp("Michiru","Having such a good sense for the display
-is cool.");
+MsgDisp("Michiru","Having such a good sense for the display is
+cool.");
 MsgDisp("主人公","(Hehe, I was complimented!)");
 BGMStop();
 MsgClose();

@@ -3,16 +3,16 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G020420001_04_000");
-MsgDisp("Nanatsumori","There's a shy atmosphere in groups right
-now when you feel like a lone wolf.");
+MsgDisp("Nanatsumori","There's a shy atmosphere in groups right now
+when you feel like a lone wolf.");
 MsgDisp("主人公","?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020420001_04_010");
 MsgDisp("Nanatsumori","Hey.
-You may not realize it, but you know
-you're the heroine, right?");
+You may not realize it, but you know you're
+the heroine, right?");
 MsgDisp("主人公","Huh, I'm the heroine∋");
 ChEye(4,2);
 ChMouth(4,3);
@@ -45,8 +45,8 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020420001_04_060");
 MsgDisp("Nanatsumori","Don't worry about it.
-It's just I realized something that I
-didn't need to know.");
+It's just I realized something that I didn't
+need to know.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);

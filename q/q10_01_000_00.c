@@ -16,19 +16,19 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q100100000_01_010");
-MsgDisp("Kazama","So you were imagining Vice Principal
-Himuro's glasses.");
+MsgDisp("Kazama","So you were imagining Vice Principal Himuro's
+glasses.");
 MsgDisp("主人公","Hehe, a bit.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q100100000_01_020");
-MsgDisp("Kazama","I heard that his glasses also haven't
-changed in decades.
+MsgDisp("Kazama","I heard that his glasses also haven't changed
+in decades.
 They're similar in terms of durability.");
 MsgDisp("主人公","Yeah.
-I'm sure round glasses would also suit
-Vice Principal Himuro.");
+I'm sure round glasses would also suit Vice
+Principal Himuro.");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -40,9 +40,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q100100000_01_040");
-MsgDisp("Kazama","...Ah, right. I heard there's a
-heart-shaped stone on the seawall. It's
-quite popular, wanna go look?");
+MsgDisp("Kazama","...Ah, right.
+I heard there's a heart-shaped stone on the
+seawall. It's quite popular, wanna go look?");
 MsgDisp("主人公","Yeah!");
 MsgClose();
 ScrFadeOut(0,0);
@@ -60,10 +60,10 @@ ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("Q100100000_01_050");
 MsgDisp("Kazama","Huh...
-There sure are a lot of stylish shops
-around here.");
-MsgDisp("主人公","If ｛Kazama＊＊｝ says it, it must
-really be true!");
+There sure are a lot of stylish shops around
+here.");
+MsgDisp("主人公","If ｛Kazama＊＊｝ says it, it must really be
+true!");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

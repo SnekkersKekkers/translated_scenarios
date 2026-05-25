@@ -16,13 +16,13 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("F020300008_03_010");
-MsgDisp("Honda","Don't the cultural clubs put a
-lot of work into their exhibits?");
+MsgDisp("Honda","Don't the cultural clubs put a lot of work
+into their exhibits?");
 ChMotion(3,4);
 VoicePlay("F020300008_03_020");
-MsgDisp("Honda","Oh, now you mention it, another friend
-asked me for advice about their exhibit,
-so I gave them some of my insight.");
+MsgDisp("Honda","Oh, now you mention it, another friend asked
+me for advice about their exhibit, so I gave
+them some of my insight.");
 MsgDisp("主人公","Your insight?
 That's amazing.");
 ChEye(3,0);
@@ -38,13 +38,13 @@ ChMotion(3,1);
 VoicePlay("F020300008_03_040");
 MsgDisp("Honda","It was some pretty recent research, so I'm
 not surprised they didn't know about it.");
-MsgDisp("主人公","But somehow ｛Honda＊＊｝, you knew about
-it, didn't you?");
+MsgDisp("主人公","But somehow ｛Honda＊＊｝, you knew about it,
+didn't you?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F020300008_03_050");
 MsgDisp("Honda","Oh?
 I guess so?");
-MsgDisp("主人公","(｛Honda＊＊｝ really seems to have no clue
-how smart he is...)");
+MsgDisp("主人公","(｛Honda＊＊｝ really seems to have no clue how
+smart he is...)");

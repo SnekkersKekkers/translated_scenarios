@@ -40,8 +40,8 @@ Ah, ｛Kazama＊＊｝'s in the back.");
     ChMotion(2,0);
     VoicePlay("I150200000_02_040");
     MsgDisp("Sassa","Heheh. That guy's in a good mood at school
-when he has a shift afterwards, so I bet
-he's working with a grin, right?");
+when he has a shift afterwards, so I bet he's
+working with a grin, right?");
     MsgDisp("主人公","Should I call him over?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -81,8 +81,7 @@ Thanks.");
     ChMotion(2,4);
     VoicePlay("I150200000_02_080");
     MsgDisp("Sassa","Actually, I'd like to be more comfortable
-coming here, but it's a high hurdle for
-me.");
+coming here, but it's a high hurdle for me.");
     MsgDisp("主人公","That's not true, you know?
 We have things for men, too-");
     SEPlay("EV_SE_FOOT_WALK_COME_TWO");
@@ -143,8 +142,8 @@ Aren't some rich people like that?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I150200000_02_140");
-    MsgDisp("Sassa","But, you know, I don't even have to look
-for the most valuable thing in this store.");
+    MsgDisp("Sassa","But, you know, I don't even have to look for
+the most valuable thing in this store.");
     MsgDisp("主人公","Huh, you know what it is?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -157,8 +156,8 @@ for the most valuable thing in this store.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("I150200000_02_160");
-    MsgDisp("Sassa","It doesn't look like it's for sale, so
-I'll be back to admire it.
+    MsgDisp("Sassa","It doesn't look like it's for sale, so I'll
+be back to admire it.
 See you.");
     MsgClose();
     MsgClose();
@@ -166,8 +165,7 @@ See you.");
     BGMStop();
     ChClose(2);
     SEWait();
-    MsgDisp("主人公","(The store's most valuable thing...is
-me!?)");
+    MsgDisp("主人公","(The store's most valuable thing...is me!?)");
     break ;
     default :
     DbgAssert(1);

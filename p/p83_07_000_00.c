@@ -7,8 +7,8 @@ switch (ChPrmGet(7,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(Alright, is this okay for checking the
-guest list?)");
+    MsgDisp("主人公","(Alright, is this okay for checking the guest
+list?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -22,16 +22,15 @@ What's the matter?");
     ChMotion(7,3);
     VoicePlay("P830700000_07_010");
     MsgDisp("Mikage","I came to tease you.");
-    MsgDisp("主人公","Hey...I have to welcome the guests, so if
-you came to play, you'll get scolded, you
-know?");
+    MsgDisp("主人公","Hey...
+I have to welcome the guests, so if you came
+to play, you'll get scolded, you know?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P830700000_07_020");
     MsgDisp("Mikage","That would be troubling.
-I'll cheer you on secretly from the
-shadows.");
+I'll cheer you on secretly from the shadows.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     MsgDisp("主人公","(Hehe.
@@ -42,8 +41,8 @@ shadows.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Alright, is this okay for checking the
-guest list?)");
+    MsgDisp("主人公","(Alright, is this okay for checking the guest
+list?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -60,8 +59,8 @@ guests.");
     ChMotion(7,3);
     VoicePlay("P830700000_07_040");
     MsgDisp("Mikage","The reception is the face of the school.
-I ask that you smile brightly as you
-usually do.");
+I ask that you smile brightly as you usually
+do.");
     MsgDisp("主人公","It's impolite to smile randomly...
 To be polite, I have to be serious?");
     ChEye(7,0);
@@ -69,8 +68,8 @@ To be polite, I have to be serious?");
     ChMotion(7,1);
     VoicePlay("P830700000_07_050");
     MsgDisp("Mikage","Why is that?
-If you smiled, even the big shot guests
-would be beaten though?");
+If you smiled, even the big shot guests would
+be beaten though?");
     MsgDisp("主人公","Beaten you say?");
     ChEye(7,0);
     ChMouth(7,0);

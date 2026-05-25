@@ -26,8 +26,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P540D00004_22_010");
-MsgDisp("Hikaru","Hikaru says thanks too! It's been so long
-since Hikaru was so moved!");
+MsgDisp("Hikaru","Hikaru says thanks too!
+It's been so long since Hikaru was so moved!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

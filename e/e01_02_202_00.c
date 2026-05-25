@@ -26,9 +26,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("E010220200_04_010");
-MsgDisp("Nanatsumori","Yep. I thought I saw a guy with the same
-shopping bag as me and it happened to be
-Sassa.");
+MsgDisp("Nanatsumori","Yep.
+I thought I saw a guy with the same shopping
+bag as me and it happened to be Sassa.");
 MsgDisp("主人公","Heh...
 What a surprise, I didn't think your
 interests overlapped.");
@@ -44,31 +44,31 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("E010220200_04_020");
 MsgDisp("Nanatsumori","I don't have a lot of it.
-But it's comfortable to wear at home, and
-I can coordinate it in various ways too.");
+But it's comfortable to wear at home, and I
+can coordinate it in various ways too.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010220200_02_030");
-MsgDisp("Sassa","Mixing and matching clothes requires the
-best sense of style.
+MsgDisp("Sassa","Mixing and matching clothes requires the best
+sense of style.
 I was just asking Nanatsumori about that.");
 MsgDisp("主人公","I see.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010220200_02_040");
-MsgDisp("Sassa","Also, he's a big guy just like me,
-sometimes we don't have a lot of choice.");
+MsgDisp("Sassa","Also, he's a big guy just like me, sometimes
+we don't have a lot of choice.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("E010220200_04_030");
-MsgDisp("Nanatsumori","True. Sometimes you like the design, but
-the size just doesn't fit. With sports
-brands, that's not a problem.");
-MsgDisp("主人公","You're both so tall, choosing clothes must
-be difficult.");
+MsgDisp("Nanatsumori","True. Sometimes you like the design, but the
+size just doesn't fit.
+With sports brands, that's not a problem.");
+MsgDisp("主人公","You're both so tall, choosing clothes must be
+difficult.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

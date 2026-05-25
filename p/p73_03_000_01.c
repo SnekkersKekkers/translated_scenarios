@@ -24,16 +24,16 @@ You came to see it huh?");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("P730300001_03_010");
-    MsgDisp("Honda","Yeah. When you're making clothes, you have
-to be passionate or you can't do it. You
-have to patient with this kind of work?");
+    MsgDisp("Honda","Yeah. When you're making clothes, you have to
+be passionate or you can't do it.
+You have to patient with this kind of work?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("P730300001_03_020");
-    MsgDisp("Honda","You'll be wearing and walking in the
-fruits of your labour, there's no way I
-can miss that.");
+    MsgDisp("Honda","You'll be wearing and walking in the fruits
+of your labour, there's no way I can miss
+that.");
     MsgDisp("主人公","That's p-pressure—...
 I'll do my best.");
     SEPlay("EV_SE_038");

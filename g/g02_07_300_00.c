@@ -4,17 +4,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020730000_07_000");
-MsgDisp("Mikage","Somehow, the fireflies are starting to
-look like them.");
+MsgDisp("Mikage","Somehow, the fireflies are starting to look
+like them.");
 MsgDisp("主人公","Eh?
 Look like them you say...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020730000_07_010");
-MsgDisp("Mikage","The one hovering motionlessly there is
-Inori, and the one going back and forth is
-Yanosuke.");
+MsgDisp("Mikage","The one hovering motionlessly there is Inori,
+and the one going back and forth is Yanosuke.");
 MsgDisp("主人公","Fireflies of ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -34,9 +33,8 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020730000_07_040");
-MsgDisp("Mikage","Yeah, I can imagine them saying things
-like 'It's fine, but I've lost respect for
-you.'");
+MsgDisp("Mikage","Yeah, I can imagine them saying things like
+'It's fine, but I've lost respect for you.'");
 MsgDisp("主人公","Hehe, that's like them.
 That's ｛Himuro＊＊｝, right?
 Then what about ｛Hiiragi＊＊＊｝?");
@@ -47,18 +45,16 @@ VoicePlay("G020730000_07_050");
 MsgDisp("Mikage","He would say, 'There's a reason for
 everything.
 Shall I hear it? ' whilst approaching.");
-MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ is always thinking
-of those two.");
+MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ is always thinking of
+those two.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("G020730000_07_060");
 MsgDisp("Mikage","Well, I guess so.
-But I also think it's okay sometimes,
-right?");
+But I also think it's okay sometimes, right?");
 MsgDisp("主人公","(Going out with everyone is fun, but going
-out alone with ｛Mikage＊＊｝ is fun
-too.)");
+out alone with ｛Mikage＊＊｝ is fun too.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

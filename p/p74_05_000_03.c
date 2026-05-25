@@ -18,8 +18,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P740500003_05_010");
 MsgDisp("Hiiragi","You weren't injured.
-If you get out the stains from the dress,
-it seems as though it'll also be fine.");
+If you get out the stains from the dress, it
+seems as though it'll also be fine.");
 MsgDisp("主人公","Y-Yeah...");
 ChEye(5,0);
 ChMouth(5,4);
@@ -28,7 +28,7 @@ VoicePlay("P740500003_05_020");
 MsgDisp("Hiiragi","Isn't the rest up to you to decide how to
 make the most out of this failure?");
 MsgDisp("主人公","(That's right. I have to do some
-self-reflection...I need to participate in
+self-reflection... I need to participate in
 club activities more properly.)");
 MsgClose();
 ScrFadeOut(0,0);

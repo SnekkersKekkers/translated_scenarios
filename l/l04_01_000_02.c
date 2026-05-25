@@ -20,8 +20,9 @@ I do look after you a lot.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100002_01_020");
-    MsgDisp("Kazama","Well, I'll accept it as payment for
-looking after you. Thank you very much.");
+    MsgDisp("Kazama","Well, I'll accept it as payment for looking
+after you.
+Thank you very much.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -76,14 +77,14 @@ He seemed happy.)");
     MsgDisp("Kazama","...Honestly, you didn't have to do that.
 It's the thought that counts.");
     ChMotion(1,0);
-    MsgDisp("主人公","Well, the chocolate looked super
-delicious, too.");
+    MsgDisp("主人公","Well, the chocolate looked super delicious,
+too.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("L040100002_01_080");
-    MsgDisp("Kazama","Of course it'll be delicious when it
-comes from you.");
+    MsgDisp("Kazama","Of course it'll be delicious when it comes
+from you.");
     MsgDisp("主人公","Um...");
     ChEye(1,0);
     ChMouth(1,3);

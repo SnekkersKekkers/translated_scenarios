@@ -28,8 +28,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010220000_02_020");
 MsgDisp("Sassa","We were eating a hamburger, and then Ryota
-said you were in the shop right next to
-us!");
+said you were in the shop right next to us!");
 MsgDisp("主人公","The burger shop...
 Ah, this one right here?
 But that was a long time ago.");
@@ -51,9 +50,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010220000_01_020");
-MsgDisp("Kazama","Hey, you know, even she probably wants
-some time to herself to shop for
-accessories and clothes, right?");
+MsgDisp("Kazama","Hey, you know, even she probably wants some
+time to herself to shop for accessories and
+clothes, right?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

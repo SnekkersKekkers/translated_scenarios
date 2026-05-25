@@ -26,8 +26,7 @@ What is it?");
     ChMotion(1,0,1);
     VoicePlay("I650100000_01_020");
     MsgDisp("Kazama","Well, not like I'm one to talk.");
-    MsgDisp("主人公","Are you here for gasoline too,
-｛Kazama＊＊｝?");
+    MsgDisp("主人公","Are you here for gasoline too, ｛Kazama＊＊｝?");
     ChEye(1,2);
     ChMouth(1,0);
     ChMotion(1,1);
@@ -90,8 +89,8 @@ octane.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I650100000_01_090");
-    MsgDisp("Kazama","Just seeing your smile like this means
-I'll be okay for a while.");
+    MsgDisp("Kazama","Just seeing your smile like this means I'll
+be okay for a while.");
     MsgDisp("主人公","｛Kazama＊＊｝?");
     ChEye(1,4);
     ChMouth(1,2);
@@ -104,9 +103,8 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hehe, but I think only ｛Kazama＊＊｝ could
-be fully refueled with just a smile, you
-know?)");
+    MsgDisp("主人公","(Hehe, but I think only ｛Kazama＊＊｝ could be
+fully refueled with just a smile, you know?)");
     break ;
     case 4:
     case 5:
@@ -164,8 +162,8 @@ They're fashionable and fun old-timers.");
     MsgDisp("Kazama","Ah, I see.
 ...Geez.
 Don't make me worry.");
-    MsgDisp("主人公","They jokingly ask me if I want a ride
-pretty often.");
+    MsgDisp("主人公","They jokingly ask me if I want a ride pretty
+often.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);

@@ -71,8 +71,8 @@ ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("F100340001_03_060");
 MsgDisp("Honda","Yep, yep, to me, Mi-kun is a cat.
-It's the kind of place cats like; quiet
-and cool...so I thought this might be it.");
+It's the kind of place cats like; quiet and
+cool...so I thought this might be it.");
 ChMouth(4,1);
 ChMotion(4,0,1);
 MsgDisp("主人公","Hehe, a cat huh...
@@ -81,8 +81,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100340001_03_070");
-MsgDisp("Honda","Right right, that's the impression he
-gives.");
+MsgDisp("Honda","Right right, that's the impression he gives.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("F100340001_04_010");
@@ -110,8 +109,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("F100340001_03_090");
-MsgDisp("Honda","It was kind of fun, like searching for a
-lost cat.
+MsgDisp("Honda","It was kind of fun, like searching for a lost
+cat.
 Shall we do it again?");
 MsgClose();
 SEPlay("EV_SE_626");

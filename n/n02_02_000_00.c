@@ -63,8 +63,8 @@ Getting the top rank is so cool.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("N020200000_02_060");
-    MsgDisp("Sassa","I might say this a lot, but you really
-gave it your all.");
+    MsgDisp("Sassa","I might say this a lot, but you really gave
+it your all.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -75,8 +75,9 @@ gave it your all.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("N020200000_02_080");
-    MsgDisp("Sassa","Yeah. When I'm around someone like you, I
-get motivated. Congratulations!");
+    MsgDisp("Sassa","Yeah.
+When I'm around someone like you, I get
+motivated. Congratulations!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(2);

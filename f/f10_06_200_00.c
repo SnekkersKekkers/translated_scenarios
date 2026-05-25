@@ -1,8 +1,7 @@
 BGOpen("sc500",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright, ...it's about time to head
-home.)");
+MsgDisp("主人公","(Alright, ...it's about time to head home.)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,254,0,0,0,#1,#1,0,0);
@@ -11,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100620000_06_000");
-MsgDisp("Himuro","Sorry, but if you need something,
-it'll have to wait.");
+MsgDisp("Himuro","Sorry, but if you need something, it'll have
+to wait.");
 MsgDisp("主人公","Eh?");
 VoicePlay("F100620000_03_000");
 MsgDisp("Honda?","Ah, there you are!
@@ -66,9 +65,9 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100620000_06_040");
-MsgDisp("Himuro","I've told you many times before, haven't
-I? Cup noodles are fine for me, that's
-all! Goodbye.");
+MsgDisp("Himuro","I've told you many times before, haven't I?
+Cup noodles are fine for me, that's all!
+Goodbye.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

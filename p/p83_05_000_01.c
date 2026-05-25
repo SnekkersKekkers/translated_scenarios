@@ -16,13 +16,12 @@ materials management record...)");
     MsgDisp("School Boy","Exc—use me!
 I would like some masking tape please!");
     MsgDisp("主人公","Ye—s!
-Please enter your year, class and name,
-then take the one on the shelf.");
+Please enter your year, class and name, then
+take the one on the shelf.");
     VoicePlay("P830500001_39_010");
     MsgDisp("School Boy","Understood!
 Then, I'll take this.");
-    MsgDisp("主人公","(Phew, this year I'm in charge of
-materials.
+    MsgDisp("主人公","(Phew, this year I'm in charge of materials.
 I'm so busy, that I might get dizzy.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -33,8 +32,8 @@ I'm so busy, that I might get dizzy.)");
     MsgDisp("Hiiragi","｛主人公｝, good work.
 You seem busy.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
-That's right, I wonder if there's even
-enough materials...");
+That's right, I wonder if there's even enough
+materials...");
     ChMotion(5,0);
     VoicePlay("P830500001_05_010");
     MsgDisp("Hiiragi","Understood.
@@ -79,10 +78,9 @@ I'm borrowing this!");
     MsgDisp("Hiiragi","I was unsure of whether it was in our
 inventory, so I purchased some.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you very much!");
-    MsgDisp("主人公","(Hmmm....Even though the management
-notebook said there should be some left.
-We need to warn those who didn't fill it
-in...)");
+    MsgDisp("主人公","(Hmmm.... Even though the management notebook
+said there should be some left. We need to
+warn those who didn't fill it in...)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

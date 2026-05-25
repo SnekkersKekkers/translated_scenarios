@@ -21,8 +21,7 @@ What a terrible face...");
     ChMotion(1,3);
     VoicePlay("P530100000_01_010");
     MsgDisp("Kazama","Sorry.
-But your nervousness is shown in your
-face.");
+But your nervousness is shown in your face.");
     MsgDisp("主人公","So, there's nothing to laugh about.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -37,8 +36,8 @@ relax?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100000_01_030");
-    MsgDisp("Kazama","Even if I'm nervous now, it won't affect
-my my ability, right?");
+    MsgDisp("Kazama","Even if I'm nervous now, it won't affect my
+my ability, right?");
     MsgDisp("主人公","I see, that's right.");
     SEPlay("EV_SE_038");
     SEWait();
@@ -85,8 +84,7 @@ Anyone can tell how worried you look.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100000_01_080");
-    MsgDisp("Kazama","But, I can tell you that you can play
-well.
+    MsgDisp("Kazama","But, I can tell you that you can play well.
 I said it so you can trust me.");
     MsgDisp("主人公","Yeah, I guess I feel better now?");
     ChEye(1,2);
@@ -105,8 +103,8 @@ I said it so you can trust me.");
     MsgDisp("Kazama","Well then, I'm looking forward seeing you
 perform in your own style.");
     MsgDisp("主人公","(Let's do the best we can!
-｛Kazama＊＊｝ Because they are supporting
-me too.)");
+｛Kazama＊＊｝ Because they are supporting me
+too.)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

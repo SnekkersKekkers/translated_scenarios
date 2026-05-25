@@ -28,8 +28,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("E010230200_07_010");
 MsgDisp("Mikage","Hahaha!
-In my opinion you're both serious and
-funny!");
+In my opinion you're both serious and funny!");
 MsgDisp("主人公","???");
 ChEye(2,0);
 ChMouth(2,4);
@@ -37,15 +36,15 @@ ChMotion(2,4);
 VoicePlay("E010230200_02_010");
 MsgDisp("Sassa","Oh, that's right, I got food advice from
 Mikage-sensei.");
-MsgDisp("主人公","I see. ｛Mikage＊＊｝, you're a vegetable
-expert!");
+MsgDisp("主人公","I see.
+｛Mikage＊＊｝, you're a vegetable expert!");
 ChMouth(2,5);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_020");
-MsgDisp("Mikage","I'm the track and field adviser too,
-though, right?");
+MsgDisp("Mikage","I'm the track and field adviser too, though,
+right?");
 MsgDisp("主人公","Really?");
 ChEye(2,5);
 ChMouth(2,4);
@@ -87,9 +86,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_060");
-MsgDisp("Mikage","If I had to give you one piece of
-advice... \"It's not what you eat, but who
-you eat it with.\"");
+MsgDisp("Mikage","If I had to give you one piece of advice...
+\"It's not what you eat, but who you eat it
+with.\"");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

@@ -10,8 +10,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Supply management is not that easy...");
     VoicePlay("P830400001_46_000");
     MsgDisp("School Girl","Excuse me—.
-We don't have enough flowers for
-decoration.");
+We don't have enough flowers for decoration.");
     MsgDisp("主人公","Flowers?
 Please just wait a second.");
     MsgClose();
@@ -38,8 +37,7 @@ Let me just wait here slowly.");
     MsgDisp("主人公","Supply management is not that easy...");
     VoicePlay("P830400001_46_010");
     MsgDisp("School Girl","Excuse me—.
-We don't have enough flowers for
-decoration.");
+We don't have enough flowers for decoration.");
     MsgDisp("主人公","Flowers, right?
 Please just wait a second.");
     MsgClose();

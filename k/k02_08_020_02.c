@@ -6,7 +6,7 @@ SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Sunflower headband\")");
 MsgDisp("主人公","(Cute...! The sunflowers might suit
-｛Daichi＊＊｝'s image perfectly? I should
-wear it on our next date!)");
+｛Daichi＊＊｝'s image perfectly?
+I should wear it on our next date!)");
 MsgClose();
 ScrFadeOut(0,0);

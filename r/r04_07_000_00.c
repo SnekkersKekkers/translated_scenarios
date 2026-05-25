@@ -32,9 +32,9 @@ Merry Christmas!");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("R040700000_07_030");
-    MsgDisp("Mikage","Habataki High's Christmas Party is nice,
-huh? It's hard to find anything as
-authentic as this.");
+    MsgDisp("Mikage","Habataki High's Christmas Party is nice, huh?
+It's hard to find anything as authentic as
+this.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

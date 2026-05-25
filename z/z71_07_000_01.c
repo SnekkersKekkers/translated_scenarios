@@ -64,8 +64,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Z710700001_07_050");
 MsgDisp("Mikage","Hm, hm.
-There are a few people that have been with
-me for the past three years.");
+There are a few people that have been with me
+for the past three years.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -81,8 +81,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("Z710700001_07_070");
 MsgDisp("Mikage","That's right.
-This cow here is Molly, and she's part of
-my family.");
+This cow here is Molly, and she's part of my
+family.");
 VoicePlay("Z710700001_42_030");
 MsgDisp("School Boy","Everyone knows that too.");
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
@@ -93,7 +93,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Z710700001_07_080");
-MsgDisp("Mikage","Hey, come on. That's not the point.
+MsgDisp("Mikage","Hey, come on.
+That's not the point.
 These routines are important. Right?");
 SEStop("EV_SE_GAYA_023",2);
 SEStop("EV_SE_863",2);
@@ -107,8 +108,8 @@ SEWait();
 Wait(60);
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Finally, I've asked a question for all
-three years.
+MsgDisp("主人公","(Finally, I've asked a question for all three
+years.
 It's going to be another great year...!)");
 MsgClose();
 ScrFadeOut(0,0);

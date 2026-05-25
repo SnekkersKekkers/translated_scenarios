@@ -89,17 +89,17 @@ I'm happy to hear this from you.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700002_07_100");
-    MsgDisp("Mikage","I'll follow your lead, and eat this
-proudly in the faculty room.");
+    MsgDisp("Mikage","I'll follow your lead, and eat this proudly
+in the faculty room.");
     MsgDisp("主人公","Huh?
 Won't Himuro-sensei scold you...?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("L040700002_07_110");
-    MsgDisp("Mikage","It's fine. It'd feel wrong to eat it
-sneakily, considering you put your all
-into it.");
+    MsgDisp("Mikage","It's fine.
+It'd feel wrong to eat it sneakily,
+considering you put your all into it.");
     MsgDisp("主人公","(Thank goodness!
 ｛Mikage＊＊｝ seemed happy.
 But will he be fine...?)");

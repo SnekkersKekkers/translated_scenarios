@@ -13,9 +13,9 @@ It feels like it was made for me.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100003_01_010");
-    MsgDisp("Kazama","Of course. It feels like you know
-everything about me, almost uncomfortably
-so. Almost.");
+    MsgDisp("Kazama","Of course.
+It feels like you know everything about me,
+almost uncomfortably so. Almost.");
     MsgDisp("主人公","(It looks like he's happy.
 Thank goodness!)");
     MsgClose();
@@ -55,8 +55,8 @@ Remember this, okay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(I don't know if he's being sincere or
-just teasing, but he looked super happy!)");
+    MsgDisp("主人公","(I don't know if he's being sincere or just
+teasing, but he looked super happy!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

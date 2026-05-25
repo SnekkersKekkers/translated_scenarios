@@ -41,13 +41,12 @@ ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510305_05_050");
-MsgDisp("Hiiragi","Yes, I find ghosts to be beautiful
-entities.
+MsgDisp("Hiiragi","Yes, I find ghosts to be beautiful entities.
 Perhaps I went a bit overboard.");
 ChEyeOpenLevel(5,8);
-MsgDisp("主人公","That ghost seemed really into it though,
-so thanks to you, ｛Hiiragi＊＊＊｝ that ghost
-might be even scarier than is was.");
+MsgDisp("主人公","That ghost seemed really into it though, so
+thanks to you, ｛Hiiragi＊＊＊｝ that ghost might
+be even scarier than is was.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -57,8 +56,8 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("G020510305_05_060");
 MsgDisp("Hiiragi","If that were true, I'd be happy.
 Shall we go check it out again sometime?");
-MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ were the one producing
-it, it would be super scary...)");
+MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ were the one producing it,
+it would be super scary...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -10,8 +10,7 @@ MsgDisp("主人公","Ah, ｛Himuro＊＊｝?
 It's me, but...");
 VoicePlay("C010600000_06_010");
 MsgDisp("Himuro","...What?
-If you have business with me, keep it
-short.");
+If you have business with me, keep it short.");
 MsgDisp("主人公","(Ugh...
 He sounds pretty mad...)");
 MsgDisp("主人公","So, uhm...");
@@ -20,12 +19,11 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("C010600000_06_020");
 MsgDisp("Himuro","Haa...
-That was anything but short, but I
-understand now.");
+That was anything but short, but I understand
+now.");
 VoicePlay("C010600000_06_030");
-MsgDisp("Himuro","From now on, tell me these things
-beforehand. If you don't,
-misunderstandings will happen.");
+MsgDisp("Himuro","From now on, tell me these things beforehand.
+If you don't, misunderstandings will happen.");
 MsgDisp("主人公","Mm, I'll be careful.
 I'm really sorry.");
 VoicePlay("C010600000_06_040");

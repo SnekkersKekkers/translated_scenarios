@@ -9,23 +9,22 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220100_02_010");
 MsgDisp("Sassa","Is it...?
-They all look desperate to me, not pretty
-or anything.");
+They all look desperate to me, not pretty or
+anything.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("G020220100_02_020");
-MsgDisp("Sassa","Though maybe I just think that 'cause of
-how I feel.");
+MsgDisp("Sassa","Though maybe I just think that 'cause of how
+I feel.");
 MsgDisp("主人公","How you feel, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220100_02_030");
-MsgDisp("Sassa","Yeah. I thought I was running in first
-next to you, but I got passed...So now I
-guess it feels like I'm looking at
-someone's back.");
+MsgDisp("Sassa","Yeah. I thought I was running in first next
+to you, but I got passed... So now I guess it
+feels like I'm looking at someone's back.");
 MsgDisp("主人公","Um...");
 ChEye(2,2);
 ChMouth(2,4);

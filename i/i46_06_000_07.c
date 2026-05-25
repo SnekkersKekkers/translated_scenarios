@@ -23,9 +23,9 @@ We have orchids now, right?");
     VoicePlay("I460600007_06_010");
     MsgDisp("Himuro","Ah, that explains the high temperature.
 The high humidity too, I'm guessing?");
-    MsgDisp("主人公","There's nothing set aside to be dried, so
-I was thinking of caring for our more
-sensitive plants.");
+    MsgDisp("主人公","There's nothing set aside to be dried, so I
+was thinking of caring for our more sensitive
+plants.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -58,8 +58,8 @@ further from the fresh ones.");
     ChMotion(6,0);
     VoicePlay("I460600007_06_050");
     MsgDisp("Himuro","Ah...
-To keep them away from the high
-temperatures and humidity, huh.");
+To keep them away from the high temperatures
+and humidity, huh.");
     MsgDisp("主人公","Right.
 They last longer if they're not in direct
 sun, too.");
@@ -78,9 +78,9 @@ sun, too.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600007_06_080");
-    MsgDisp("Himuro","Nothing...Just thinking that even though
-I've been here longer than you, I'm the
-one being taught.");
+    MsgDisp("Himuro","Nothing...
+Just thinking that even though I've been here
+longer than you, I'm the one being taught.");
     MsgDisp("主人公","Hehe.");
     ChEye(6,1);
     ChMouth(6,0);

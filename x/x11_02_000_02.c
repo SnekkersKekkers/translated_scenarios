@@ -8,8 +8,8 @@ switch (ChPrmGet(2,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110200002_02_000");
-    MsgDisp("Sassa","I heard that you got a cool single-point
-win in a practice match.
+    MsgDisp("Sassa","I heard that you got a cool single-point win
+in a practice match.
 Congratulations.");
     MsgDisp("主人公","Yeah, thanks!");
     ChEye(2,0);
@@ -39,8 +39,8 @@ That's amazing.");
     VoicePlay("X110200002_02_030");
     MsgDisp("Sassa","It's cool that you care about winning too.
 Let's work hard for each other.");
-    MsgDisp("主人公","(I can't believe ｛Sassa＊＊｝ praised me,
-I'm glad I won ...!)");
+    MsgDisp("主人公","(I can't believe ｛Sassa＊＊｝ praised me, I'm
+glad I won ...!)");
     break ;
     default :
     DbgAssert(1);

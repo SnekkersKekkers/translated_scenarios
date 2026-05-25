@@ -20,16 +20,15 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("P740400005_04_020");
-MsgDisp("Nanatsumori","But you'll still have the real thing one
-day?");
+MsgDisp("Nanatsumori","But you'll still have the real thing one day?");
 MsgDisp("主人公","Real thing?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P740400005_04_030");
 MsgDisp("Nanatsumori","Right.
-You just need to look perfect when you
-become a bride.");
+You just need to look perfect when you become
+a bride.");
 MsgDisp("主人公","Hehe...yes!");
 ChEye(4,3);
 ChMouth(4,3);
@@ -37,8 +36,8 @@ ChMotion(4,3,1);
 VoicePlay("P740400005_04_040");
 MsgDisp("Nanatsumori","Hm, alright then.");
 MsgDisp("主人公","(Even though I failed in the end...
-I'm glad I gave it my best these last
-three years in the handicrafts club.)");
+I'm glad I gave it my best these last three
+years in the handicrafts club.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

@@ -20,16 +20,16 @@ gymnastics club ...!)");
     case 5:
     VoicePlay("X110400003_04_010");
     MsgDisp("Nanatsumori","The other day at a joint practice of the
-rhythmic gymnastics club, I heard you made
-a legend with your amazing moves.");
+rhythmic gymnastics club, I heard you made a
+legend with your amazing moves.");
     MsgDisp("主人公","So, legend?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("X110400003_04_020");
     MsgDisp("Nanatsumori","You performed an amazing new move, right?
-I don't know much about gymnastics, but
-I'd have loved to see it...");
+I don't know much about gymnastics, but I'd
+have loved to see it...");
     MsgDisp("主人公","(It's a little embarrassing, but ...
 I'm glad I've been working hard on my
 rhythmic gymnastics club!)");

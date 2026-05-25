@@ -23,8 +23,8 @@ come...)");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("P030300000_03_010");
-    MsgDisp("Honda","The smell of the mitarashi paste is the
-best too!");
+    MsgDisp("Honda","The smell of the mitarashi paste is the best
+too!");
     MsgDisp("主人公","Hehe.
 ｛Honda＊＊｝, are you here to take a break?");
     ChEye(3,0);
@@ -57,8 +57,9 @@ Welcome～");
     VoicePlay("P030300000_03_040");
     MsgDisp("Honda","Yeah, this place really has the feel of a
 dango shop.");
-    MsgDisp("主人公","Huh? It's a Japanese style cafe. The
-signature set is mitarashi dango, though.");
+    MsgDisp("主人公","Huh?
+It's a Japanese style cafe.
+The signature set is mitarashi dango, though.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,5,1);
@@ -71,8 +72,8 @@ Is everything handmade?");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("P030300000_03_060");
-    MsgDisp("Honda","Then, I'll take a mitarashi dango set made
-by you.");
+    MsgDisp("Honda","Then, I'll take a mitarashi dango set made by
+you.");
     MsgDisp("主人公","Yes, I've received your order～!");
     break ;
     default :

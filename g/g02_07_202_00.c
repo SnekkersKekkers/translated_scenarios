@@ -9,8 +9,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720200_07_010");
-MsgDisp("Mikage","Yeah, he always had that brooding look on
-his face.");
+MsgDisp("Mikage","Yeah, he always had that brooding look on his
+face.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -35,8 +35,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020720200_07_050");
 MsgDisp("Mikage","...Oh, uh, take good care of Yanosuke...");
-MsgDisp("主人公","(I'm happy ｛Mikage＊＊｝ thinks of me
-that way.)");
+MsgDisp("主人公","(I'm happy ｛Mikage＊＊｝ thinks of me that
+way.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

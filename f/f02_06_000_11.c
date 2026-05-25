@@ -5,16 +5,16 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Himuro＊＊｝, how are you spending your
-winter break?");
+MsgDisp("主人公","｛Himuro＊＊｝, how are you spending your winter
+break?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600011_06_000");
-MsgDisp("Himuro","Well, there are a lot of New Years'
-events. I'm going to end up being dragged
-around by relatives.");
+MsgDisp("Himuro","Well, there are a lot of New Years' events.
+I'm going to end up being dragged around by
+relatives.");
 MsgDisp("主人公","Sounds awful.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -42,13 +42,12 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F020600011_06_040");
-MsgDisp("Himuro","That doesn't mean it's because
-we're Himuros.");
+MsgDisp("Himuro","That doesn't mean it's because we're Himuros.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600011_06_050");
 MsgDisp("Himuro","Geez...");
-MsgDisp("主人公","(He's gets really sensitive 
-whenever his family is mentioned…)");
+MsgDisp("主人公","(He's gets really sensitive whenever his
+family is mentioned…)");

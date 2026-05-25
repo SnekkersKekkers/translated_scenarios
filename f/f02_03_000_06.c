@@ -24,15 +24,15 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F020300006_03_020");
 MsgDisp("Honda","Yep.
-I can learn the rules and tactics just
-fine, but my body can't keep up.");
+I can learn the rules and tactics just fine,
+but my body can't keep up.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("F020300006_03_030");
-MsgDisp("Honda","I know exactly what to do in any
-situation from watching pros, but I don't
-have the physical ability to match.");
+MsgDisp("Honda","I know exactly what to do in any situation
+from watching pros, but I don't have the
+physical ability to match.");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,2);

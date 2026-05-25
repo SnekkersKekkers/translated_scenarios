@@ -48,8 +48,8 @@ I won!");
     ChMotion(4,0,1);
     VoicePlay("O020400000_04_040");
     MsgDisp("Nanatsumori","I saw.
-Any guy could fall in love with you,
-seeing you pull that rope...");
+Any guy could fall in love with you, seeing
+you pull that rope...");
     MsgDisp("主人公","Geez!");
     ChEye(4,0);
     ChMouth(4,3);

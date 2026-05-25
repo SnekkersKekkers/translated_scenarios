@@ -1,7 +1,7 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I feel like stopping by Cafe Alucard for
-a bit...)");
+MsgDisp("主人公","(I feel like stopping by Cafe Alucard for a
+bit...)");
 MsgDisp("主人公","Alright, let's go!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -40,23 +40,23 @@ MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400400_04_030");
-MsgDisp("Nanatsumori","You've got to keep the fashionistas
-informed.");
+MsgDisp("Nanatsumori","You've got to keep the fashionistas informed.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1);
 VoicePlay("G110400400_04_040");
 MsgDisp("Nanatsumori","Just like you the other day.
-Taking pics for people who want the new
-items and keep up with the trends.");
+Taking pics for people who want the new items
+and keep up with the trends.");
 MsgDisp("主人公","I see, wow, I'm looking forward to it.");
 ChMotion(4,2);
 VoicePlay("G110400400_04_050");
 MsgDisp("Nanatsumori","I'm looking forward to it too.
 Maybe you'll decide to have a date with me
 next time too.");
-MsgDisp("主人公","(A date...I see! ｛Nanatsumori＊｝ really is
-paying close attention after all.)");
+MsgDisp("主人公","(A date...
+I see! ｛Nanatsumori＊｝ really is paying close
+attention after all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

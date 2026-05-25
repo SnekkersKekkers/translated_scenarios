@@ -21,8 +21,8 @@ switch (ChPrmGet(21,6)){
 But it was a very good match.
 Good work, Mari.");
     MsgDisp("主人公","(｛みちる＊｝...
-Yeah, I'm glad I worked so hard in the
-judo club.)");
+Yeah, I'm glad I worked so hard in the judo
+club.)");
     break ;
     case 4:
     case 5:
@@ -44,12 +44,12 @@ The match was great, too.");
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("H3A2100001_21_040");
-    MsgDisp("Michiru","Cheer up. Even if you didn't win this
-match, Mari is still number one to me.
-Okay?");
+    MsgDisp("Michiru","Cheer up.
+Even if you didn't win this match, Mari is
+still number one to me. Okay?");
     MsgDisp("主人公","(｛みちる＊｝...
-Yeah, I'm glad I worked so hard in the
-judo club.)");
+Yeah, I'm glad I worked so hard in the judo
+club.)");
     break ;
     default :
     DbgAssert(1);

@@ -20,9 +20,8 @@ Did you come to cheer me on?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("H380200000_02_010");
-    MsgDisp("Sassa","I was a little worried that you'd be
-getting nervous, but looks like it's just
-me.");
+    MsgDisp("Sassa","I was a little worried that you'd be getting
+nervous, but looks like it's just me.");
     MsgDisp("主人公","Hehe, geez...
 I'm nervous too, you know?");
     ChEye(2,3);
@@ -30,8 +29,9 @@ I'm nervous too, you know?");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("H380200000_02_020");
-    MsgDisp("Sassa","Haha, I see. Well, it looks like I can
-look forward to this. Go have fun.");
+    MsgDisp("Sassa","Haha, I see.
+Well, it looks like I can look forward to
+this. Go have fun.");
     MsgDisp("主人公","Yeah.
 ｛Sassa＊＊｝, thanks for coming!");
     MsgDisp("主人公","(Alright, now I just have to give it

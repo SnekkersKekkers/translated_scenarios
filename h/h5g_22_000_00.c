@@ -22,9 +22,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("H5G2200000_22_020");
-MsgDisp("Hikaru","Hikaru considered just calling, but
-decided to say it directly to your
-face, Mari.");
+MsgDisp("Hikaru","Hikaru considered just calling, but decided
+to say it directly to your face, Mari.");
 MsgDisp("主人公","Hehe!
 That makes me happy.");
 ChEye(22,0);
@@ -38,10 +37,9 @@ ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("H5G2200000_22_040");
 MsgDisp("Hikaru","Hikaru wants to hear Mari's performance
-someday, too～♪ Looking forward to it.
-Okay?");
+someday, too～♪
+Looking forward to it. Okay?");
 MsgDisp("主人公","(Hehe!
-I'm glad I practiced so hard for brass
-band!)");
+I'm glad I practiced so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

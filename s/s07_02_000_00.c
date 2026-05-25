@@ -17,8 +17,8 @@ It's super lively.");
     ChMotion(2,4);
     VoicePlay("S070200000_02_010");
     MsgDisp("Sassa","Don't get separated.
-Oh, when you look up, try to find my head
-in the crowd.");
+Oh, when you look up, try to find my head in
+the crowd.");
     MsgDisp("主人公","｛Sassa＊＊｝ is so tall, he's a landmark...");
     ChEye(2,3);
     ChMouth(2,3);
@@ -73,8 +73,8 @@ Everyone's having fun.");
     MsgDisp("Sassa","I'm having more fun than everyone else,
 though.");
     MsgDisp("主人公","Hehe, yeah.
-Right, what kind of wish is ｛Sassa＊＊｝
-going to make?");
+Right, what kind of wish is ｛Sassa＊＊｝ going
+to make?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);

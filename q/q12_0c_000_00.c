@@ -44,9 +44,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q120C00000_07_020");
-MsgDisp("Mikage","Good for you, Yanosuke. I pretended to be
-leading class, but I was also enjoying
-myself. Don't tell anyone, ok?");
+MsgDisp("Mikage","Good for you, Yanosuke.
+I pretended to be leading class, but I was
+also enjoying myself. Don't tell anyone, ok?");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝, ｛Mikage＊＊｝, Also thank
 you ｛Himuro＊＊｝.
 It was a very enjoyable school trip.)");

@@ -1,9 +1,9 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah right...｛Kazama＊＊｝ said he had
-something he wanted to talk to me about
-...I wonder if something happened?)");
+MsgDisp("主人公","(Ah right... ｛Kazama＊＊｝ said he had
+something he wanted to talk to me about ...I
+wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -23,8 +23,9 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110101000_01_000");
-MsgDisp("Kazama","Oh yeah. You know the charity auction from
-the other day? Do you remember it?");
+MsgDisp("Kazama","Oh yeah.
+You know the charity auction from the other
+day? Do you remember it?");
 MsgDisp("主人公","Yeah ｛Kazama＊＊｝ was hosting in a suit.
 It was truly amazing.");
 ChEye(1,0);
@@ -39,19 +40,19 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110101000_01_020");
-MsgDisp("Kazama","Apparently one of the customers at the
-venue wanted me to do another auction job.");
+MsgDisp("Kazama","Apparently one of the customers at the venue
+wanted me to do another auction job.");
 MsgDisp("主人公","Ehh...!
-If ｛Kazama＊＊｝ wants to do it, why not
-give it a go?");
+If ｛Kazama＊＊｝ wants to do it, why not give
+it a go?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110101000_01_030");
 MsgDisp("Kazama","That's right huh...");
-MsgDisp("主人公","(｛Kazama＊＊｝ tends to overthink things,
-so even if it's just a little, I hope I
-can give him a bit of push...)");
+MsgDisp("主人公","(｛Kazama＊＊｝ tends to overthink things, so
+even if it's just a little, I hope I can give
+him a bit of push...)");
 while (1){
     RunEverydaySksp(1,0,0,0,1,1);
     if (RunEverydaySkspRsltGet()){
@@ -80,15 +81,15 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110101000_01_080");
-MsgDisp("Kazama","I like being able to see all sorts of
-items at auctions...");
+MsgDisp("Kazama","I like being able to see all sorts of items
+at auctions...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G110101000_01_090");
 MsgDisp("Kazama","Yeah, I see.
-I'll tell him what I'm thinking, and see
-if he still lets me do it.");
+I'll tell him what I'm thinking, and see if
+he still lets me do it.");
 MsgDisp("主人公","I hope he understands.");
 MsgDisp("主人公","(I hope we get to see ｛Kazama＊＊｝ hosting
 again...)");

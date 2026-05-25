@@ -6,8 +6,8 @@ ChMotion(3,4);
 ScrFadeIn(0);
 VoicePlay("K010300103_03_000");
 MsgDisp("Honda","Ahaha...
-Do you really see me as the type to 
-like this?");
+Do you really see me as the type to like
+this?");
 MsgDisp("主人公","You didn't like it?");
 ChEye(3,4);
 ChMouth(3,0);

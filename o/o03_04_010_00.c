@@ -19,8 +19,7 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,2,1);
     VoicePlay("O030401000_04_010");
     MsgDisp("Nanatsumori","My stomach is about to start hurting, so I
-can't go in the three-legged race with
-you.");
+can't go in the three-legged race with you.");
     MsgDisp("主人公","Don't run!
 Let's pair up.");
     ChEye(4,2);
@@ -45,8 +44,8 @@ with me?");
     ChEye(4,2);
     ChMouth(4,4);
     VoicePlay("O030401000_04_040");
-    MsgDisp("Nanatsumori","Don't say that with your eyes sparkling
-like that.
+    MsgDisp("Nanatsumori","Don't say that with your eyes sparkling like
+that.
 Me and exercise are...");
     MsgDisp("主人公","Please!");
     ChEye(4,2);

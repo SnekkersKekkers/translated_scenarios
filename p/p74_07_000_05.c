@@ -37,17 +37,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P740700005_07_040");
-MsgDisp("Mikage","But for the real thing, the guy next to
-you will be there to support you right?");
-MsgDisp("主人公","The real thing you say...you mean my
-wedding?");
+MsgDisp("Mikage","But for the real thing, the guy next to you
+will be there to support you right?");
+MsgDisp("主人公","The real thing you say...you mean my wedding?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P740700005_07_050");
 MsgDisp("Mikage","That's right.
-I'm sure at that time, you'll remember
-today too.");
+I'm sure at that time, you'll remember today
+too.");
 MsgDisp("主人公","(｛Mikage＊＊｝, you're kind...
 But if I prepared more carefully, I'm sure
 this would be a nicer memory...)");

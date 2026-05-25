@@ -27,8 +27,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("H7G2200000_22_030");
-MsgDisp("Hikaru","You always seriously worked hard at your
-club activities, right?
+MsgDisp("Hikaru","You always seriously worked hard at your club
+activities, right?
 Mari, you're great!");
 ChEye(22,3);
 ChMouth(22,3);
@@ -45,7 +45,7 @@ MsgDisp("Hikaru","...Ah!
 Next time, Hikaru wants you to design some
 clothes that will suit her too～▼");
 MsgDisp("主人公","(Hehe!
-I'm really glad I stayed in the
-handicrafts club!)");
+I'm really glad I stayed in the handicrafts
+club!)");
 MsgClose();
 ScrFadeOut(0,0);

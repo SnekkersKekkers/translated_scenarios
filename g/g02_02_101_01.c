@@ -4,20 +4,20 @@ VoicePlay("G020210101_02_000");
 MsgDisp("Sassa","Remember when we went out with Ryota and
 Inori?
 The four of us.");
-MsgDisp("主人公","Yeah. It was fun.");
+MsgDisp("主人公","Yeah.
+It was fun.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210101_02_010");
-MsgDisp("Sassa","If we all came here, it would be
-disastrous.");
+MsgDisp("Sassa","If we all came here, it would be disastrous.");
 MsgDisp("主人公","Eh, why is that?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("G020210101_02_020");
-MsgDisp("Sassa","Because if we could hear everyone's
-thoughts, it would be noisy and intense.");
+MsgDisp("Sassa","Because if we could hear everyone's thoughts,
+it would be noisy and intense.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -32,16 +32,17 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("G020210101_02_040");
-MsgDisp("Sassa","Yeah. He'd probably just be blunt about it
-and even say abusive language—");
+MsgDisp("Sassa","Yeah.
+He'd probably just be blunt about it and even
+say abusive language—");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("G020210101_02_050");
 MsgDisp("Sassa","...Hm?
 That's the same as usual then...");
-MsgDisp("主人公","Hehe, if ｛Himuro＊＊｝ heard that,
-he'd be mad, you know?");
+MsgDisp("主人公","Hehe, if ｛Himuro＊＊｝ heard that, he'd be mad,
+you know?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -52,8 +53,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210101_02_070");
-MsgDisp("Sassa","Ryota's inner thoughts...usually show on
-his face?");
+MsgDisp("Sassa","Ryota's inner thoughts...usually show on his
+face?");
 MsgDisp("主人公","Then what about ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,2);
@@ -66,10 +67,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210101_02_090");
-MsgDisp("Sassa","Well, I normally don't really think of
-much.");
-MsgDisp("主人公","(｛Sassa＊＊｝ seems like he's the one
-thinking the most though...)");
+MsgDisp("Sassa","Well, I normally don't really think of much.");
+MsgDisp("主人公","(｛Sassa＊＊｝ seems like he's the one thinking
+the most though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

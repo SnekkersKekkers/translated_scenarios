@@ -37,8 +37,8 @@ You look gorgeous in a kimono, huh?");
     ChMotion(7,0);
     VoicePlay("S060700001_07_040");
     MsgDisp("Mikage","I saw something nice early this year.
-It's a good omen that good things will
-happen this year too.");
+It's a good omen that good things will happen
+this year too.");
     MsgDisp("主人公","(Yay!
 I was praised by ｛Mikage＊＊｝...!)");
     break ;
@@ -63,23 +63,22 @@ It was worth it to wear the kimono.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("S060700001_07_070");
-    MsgDisp("Mikage","The kimono is definitely beautiful, but
-sweet peas are fine in whatever they wear.");
+    MsgDisp("Mikage","The kimono is definitely beautiful, but sweet
+peas are fine in whatever they wear.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S060700001_07_080");
-    MsgDisp("Mikage","Even in a wooden box or covered in mud,
-they are still great vegetables, aren't
-they?");
+    MsgDisp("Mikage","Even in a wooden box or covered in mud, they
+are still great vegetables, aren't they?");
     MsgDisp("主人公","Uhm, vegetables...?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S060700001_07_090");
     MsgDisp("Mikage","Ahh, I'm so proud.");
-    MsgDisp("主人公","(｛Mikage＊＊｝ seems really happy about
-it. But vegetables...?)");
+    MsgDisp("主人公","(｛Mikage＊＊｝ seems really happy about it.
+But vegetables...?)");
     break ;
     default :
     DbgAssert(1);

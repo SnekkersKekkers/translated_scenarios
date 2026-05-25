@@ -14,8 +14,8 @@ It's handmade!?");
     ChMotion(3,4);
     VoicePlay("L040300004_03_010");
     MsgDisp("Honda","It was a lot of work to clean up, right?
-My sister and I make a huge mess every
-year, so I understand.");
+My sister and I make a huge mess every year,
+so I understand.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);
@@ -41,9 +41,8 @@ Because it's handmade.");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300004_03_050");
-    MsgDisp("Honda","I was kind of expecting chocolate from
-you, but I didn't think that it'd be
-handmade.");
+    MsgDisp("Honda","I was kind of expecting chocolate from you,
+but I didn't think that it'd be handmade.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);

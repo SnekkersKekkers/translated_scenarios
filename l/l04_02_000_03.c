@@ -52,8 +52,8 @@ Thank goodness.)");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200003_02_060");
-    MsgDisp("Sassa","It's almost a waste to eat it, but I want
-to eat it right now.
+    MsgDisp("Sassa","It's almost a waste to eat it, but I want to
+eat it right now.
 Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -85,8 +85,8 @@ It looks good enough to sell.");
     ChMotion(2,3);
     VoicePlay("L040200003_02_090");
     MsgDisp("Sassa","That's not true.
-I'm really happy you thought about my
-tastes, too.");
+I'm really happy you thought about my tastes,
+too.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -108,8 +108,9 @@ Okay?");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("L040200003_02_120");
-    MsgDisp("Sassa","Got it. I'll stare at it until I get
-tired, then eat it. That's fine, right?");
+    MsgDisp("Sassa","Got it.
+I'll stare at it until I get tired, then eat
+it. That's fine, right?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

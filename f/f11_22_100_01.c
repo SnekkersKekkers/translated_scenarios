@@ -21,11 +21,11 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F112210001_22_020");
 MsgDisp("Hikaru","Oh!
-Do you remember the fortune telling girl
-from last year?");
+Do you remember the fortune telling girl from
+last year?");
 MsgDisp("主人公","Ah...
-The one who ｛ひかる＊｝ consulted
-about love?");
+The one who ｛ひかる＊｝ consulted about
+love?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -44,9 +44,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F112210001_22_050");
-MsgDisp("Hikaru","So this year Hikaru's looking again for
-girls struggling with love. Boys are okay
-too～ See you!");
+MsgDisp("Hikaru","So this year Hikaru's looking again for girls
+struggling with love.
+Boys are okay too～ See you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(22);

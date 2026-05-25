@@ -12,8 +12,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoicePlay("S070300000_03_000");
     MsgDisp("Honda","It's packed.
-Exactly how a New Year's shrine visit
-should be.");
+Exactly how a New Year's shrine visit should
+be.");
     MsgDisp("主人公","Yeah.
 Everyone looks like they're having fun.");
     ChEye(3,0);
@@ -34,16 +34,17 @@ I wonder what everyone's wishing for.");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("S070300000_03_030");
-    MsgDisp("Honda","Right. That you, me, and my family are in
-good health. Hm, and also for my animals.");
+    MsgDisp("Honda","Right.
+That you, me, and my family are in good
+health. Hm, and also for my animals.");
     MsgDisp("主人公","Hehe, that's a lot of things to wish for.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S070300000_03_040");
-    MsgDisp("Honda","Hm, yeah. If I take too long the next in
-line will have to wait. I'll just combine
-it and say \"Everyone's Health\" instead.");
+    MsgDisp("Honda","Hm, yeah. If I take too long the next in line
+will have to wait. I'll just combine it and
+say \"Everyone's Health\" instead.");
     MsgDisp("主人公","Hehe!");
     break ;
     case 4:
@@ -60,9 +61,8 @@ It's not exciting if it's not crowded.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("S070300000_03_060");
-    MsgDisp("Honda","Since we've got some time before we can
-pray, I'll try to think of something to
-wish for.");
+    MsgDisp("Honda","Since we've got some time before we can pray,
+I'll try to think of something to wish for.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4,1);

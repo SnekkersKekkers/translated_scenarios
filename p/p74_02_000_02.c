@@ -16,9 +16,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("P740200002_02_010");
-MsgDisp("Sassa","Of course. I couldn't take my eyes off
-you. For a moment, the stage looked like a
-party venue.");
+MsgDisp("Sassa","Of course.
+I couldn't take my eyes off you. For a
+moment, the stage looked like a party venue.");
 MsgDisp("主人公","Really?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -36,9 +36,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("P740200002_02_040");
-MsgDisp("Sassa","I'm glad. It would be a shame if it was
-only a one time thing, so wear it to the
-christmas party too!");
+MsgDisp("Sassa","I'm glad.
+It would be a shame if it was only a one time
+thing, so wear it to the christmas party too!");
 MsgDisp("主人公","(Yay, a huge success!
 ｛Sassa＊＊｝ praised me!)");
 MsgClose();

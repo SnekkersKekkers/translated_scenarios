@@ -7,13 +7,13 @@ VoicePlay("R080100000_01_000");
 VoiceEVSPlay(1);
 MsgDisp("Kazama","Okay, enjoy the Christmas party until the
 end, ｛主人公｝.");
-MsgDisp("主人公","Huh? What about you, ｛Kazama＊＊｝?");
+MsgDisp("主人公","Huh?
+What about you, ｛Kazama＊＊｝?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("R080100000_01_010");
-MsgDisp("Kazama","I have to go watch the store for my
-Grandpa.
+MsgDisp("Kazama","I have to go watch the store for my Grandpa.
 The end of year is rough.");
 MsgDisp("主人公","I see...");
 ChEye(1,0);
@@ -39,14 +39,14 @@ ChMouth(22,2);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,7);
 VoicePlay("R080100000_22_010");
-MsgDisp("Hikaru","Kazama-kun, Hikaru thought she told you
-that you can't reserve Mari!");
+MsgDisp("Hikaru","Kazama-kun, Hikaru thought she told you that
+you can't reserve Mari!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("R080100000_01_020");
-MsgDisp("Kazama","This is the first time you showed up at
-the right moment.");
+MsgDisp("Kazama","This is the first time you showed up at the
+right moment.");
 ChEye(22,0);
 ChMouth(22,1);
 ChMotion(22,0,1);
@@ -94,8 +94,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("R080100000_22_040");
-MsgDisp("Hikaru","Come on, come on, since Hikaru's now
-Mari's guardian, let's enjoy the party♪
+MsgDisp("Hikaru","Come on, come on, since Hikaru's now Mari's
+guardian, let's enjoy the party♪
 Let's go to the balcony!");
 MsgDisp("主人公","Hehe, okay.");
 MsgClose();
@@ -142,9 +142,9 @@ ScrFadeIn(0);
 VoicePlay("R080100000_01_060");
 MsgDisp("Kazama","...Welcome.
 Can I help you?");
-MsgDisp("主人公","Hehe, yes you can. ｛Kazama＊＊｝, thank you
-for the lovely glove box. I didn't thank
-you earlier.");
+MsgDisp("主人公","Hehe, yes you can.
+｛Kazama＊＊｝, thank you for the lovely glove
+box. I didn't thank you earlier.");
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 VoicePlay("R080100000_01_070");
@@ -162,8 +162,8 @@ StlEye(1,2);
 StlMouth(1,2);
 StlCheek(1,7);
 VoicePlay("R080100000_01_090");
-MsgDisp("Kazama","A Christmas Eve-only antique shop, just 
-for us two.");
+MsgDisp("Kazama","A Christmas Eve-only antique shop, just for
+us two.");
 MsgDisp("主人公","So pretty...");
 StlEye(1,3);
 StlMouth(1,2);
@@ -207,9 +207,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("R080100000_01_130");
-MsgDisp("Kazama","Don't you think you're a bit too dressed 
-up today to be an antique shop 
-owner's wife?");
+MsgDisp("Kazama","Don't you think you're a bit too dressed up
+today to be an antique shop owner's wife?");
 MsgDisp("主人公","Huh...a wife?");
 MsgClose();
 ChClose(1,0,30);
@@ -252,8 +251,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(And just like that, my last Christmas as
-a high schooler was over...)");
+MsgDisp("主人公","(And just like that, my last Christmas as a
+high schooler was over...)");
 MsgClose();
 ChLayout(1);
 ChPrmTblAdd(1,0);

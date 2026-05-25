@@ -3,24 +3,23 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020640000_06_000");
-MsgDisp("Himuro","Did you know that fireflies are often said
-to be the souls of the dead?");
+MsgDisp("Himuro","Did you know that fireflies are often said to
+be the souls of the dead?");
 MsgDisp("主人公","I might've heard it before.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640000_06_010");
 MsgDisp("Himuro","If they can fly like that, don't you think
-they could reach the underworld on their
-own?");
+they could reach the underworld on their own?");
 MsgDisp("主人公","...Huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("G020640000_06_020");
-MsgDisp("Himuro","There's no need for them to go out of
-their way to ride an eggplant.
+MsgDisp("Himuro","There's no need for them to go out of their
+way to ride an eggplant.
 ...I don't get cucumbers either, though.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -77,8 +76,7 @@ VoicePlay("G020640000_06_090");
 MsgDisp("Himuro","I can tolerate them better than eggplant.
 But I don't like vegetables in general.
 ...I eat them though.");
-MsgDisp("主人公","(Hehe, ｛Himuro＊＊｝ isn't a fan of
-vegetables.)");
+MsgDisp("主人公","(Hehe, ｛Himuro＊＊｝ isn't a fan of vegetables.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

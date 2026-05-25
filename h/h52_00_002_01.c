@@ -10,8 +10,8 @@ VoicePlay("H520000201_32_000");
 MsgDisp("VP Himuro","This is Himuro from Habataki High School.");
 MsgDisp("主人公","Huh, Himuro-sensei∋");
 VoicePlay("H520000201_32_010");
-MsgDisp("VP Himuro","Your name is on the list of students who
-are required to take a makeup exam.");
+MsgDisp("VP Himuro","Your name is on the list of students who are
+required to take a makeup exam.");
 MsgDisp("主人公","Ah, yes...
 I'm sorry.");
 VoicePlay("H520000201_32_020");

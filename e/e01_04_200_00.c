@@ -85,8 +85,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010420000_04_040");
 MsgDisp("Nanatsumori","Ah...sorry.
-You know, Kazama, I actually like this
-side of you.");
+You know, Kazama, I actually like this side
+of you.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

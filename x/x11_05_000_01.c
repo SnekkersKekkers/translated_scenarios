@@ -18,9 +18,8 @@ track-and-field club is in perfect form.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500001_05_010");
-    MsgDisp("Hiiragi","Apparently every athlete came out with
-good record times from this practice
-match.");
+    MsgDisp("Hiiragi","Apparently every athlete came out with good
+record times from this practice match.");
     MsgDisp("主人公","Yeah, that's right!");
     ChEye(5,4);
     VoicePlay("X110500001_05_020");

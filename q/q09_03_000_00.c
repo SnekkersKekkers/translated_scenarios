@@ -64,8 +64,8 @@ Good morning!");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("Q090300000_03_070");
-    MsgDisp("Honda","Mhmhm, I was so excited, I couldn't sleep
-at all.
+    MsgDisp("Honda","Mhmhm, I was so excited, I couldn't sleep at
+all.
 Like the day before a field trip?");
     MsgDisp("主人公","Hehe, isn't it a school trip?");
     ChEye(3,0);
@@ -83,8 +83,8 @@ Oh yeah, so it's a field trip?");
 I'm looking forward to our last free time.");
     ChSet(3,3);
     VoicePlay("Q090300000_03_100");
-    MsgDisp("Honda","I wonder what discoveries can you and I
-make together?
+    MsgDisp("Honda","I wonder what discoveries can you and I make
+together?
 Off we go!");
     break ;
     default :

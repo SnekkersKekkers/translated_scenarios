@@ -25,8 +25,8 @@ ChMotion(4,0,1);
 VoicePlay("F020400006_04_020");
 MsgDisp("Nanatsumori","Mmm.");
 VoicePlay("F020400006_04_030");
-MsgDisp("Nanatsumori","Even if you were a guy, you wouldn't see
-me playing sports.");
+MsgDisp("Nanatsumori","Even if you were a guy, you wouldn't see me
+playing sports.");
 MsgDisp("主人公","Eh, why?");
 ChEye(4,0);
 ChMouth(4,0);

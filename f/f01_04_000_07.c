@@ -125,8 +125,8 @@ Later.");
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(4,0,30);
-        MsgDisp("主人公","(He went to the trouble of inviting me, so
-I feel guilty...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, so I
+feel guilty...)");
         break ;
         case 4:
         case 5:
@@ -134,8 +134,8 @@ I feel guilty...)");
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("F010400007_04_100");
-        MsgDisp("Nanatsumori","Oh...if you're busy, then there's nothing
-we can do.");
+        MsgDisp("Nanatsumori","Oh...if you're busy, then there's nothing we
+can do.");
         MsgDisp("主人公","Huh?");
         ChEye(4,0);
         ChMouth(4,0);
@@ -157,8 +157,8 @@ Later...");
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(4,0,30);
-        MsgDisp("主人公","(He went to the trouble of inviting me, so
-I feel guilty...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, so I
+feel guilty...)");
         break ;
         default :
         DbgAssert(1);

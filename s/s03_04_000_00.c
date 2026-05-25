@@ -42,11 +42,11 @@ Treat me well this year, ｛Nanatsumori＊｝.");
 ...Haha.");
     MsgDisp("主人公","Why are you laughing?");
     VoicePlay("S030400000_04_070");
-    MsgDisp("Nanatsumori","Hearing your cheerful voice first thing
-this year makes me feel like the rest of
-the year will get even happier.");
-    MsgDisp("主人公","Well then, we can go visit the shrine and
-be happy together!");
+    MsgDisp("Nanatsumori","Hearing your cheerful voice first thing this
+year makes me feel like the rest of the year
+will get even happier.");
+    MsgDisp("主人公","Well then, we can go visit the shrine and be
+happy together!");
     break ;
     default :
     DbgAssert(1);

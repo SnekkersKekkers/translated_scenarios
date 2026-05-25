@@ -31,36 +31,34 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020130200_01_040");
-MsgDisp("Kazama","Wait, I'm not asking you to do anything
-for me, so don't worry about it.");
+MsgDisp("Kazama","Wait, I'm not asking you to do anything for
+me, so don't worry about it.");
 MsgDisp("主人公","Hahah, okay.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020130200_01_050");
 MsgDisp("Kazama","So no pressure.
-But actually, joking aside, I like the
-mood in the cafeteria.");
+But actually, joking aside, I like the mood
+in the cafeteria.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130200_01_060");
 MsgDisp("Kazama","Lively meals really are great.
-Oh, and also, you shouldn't underestimate
-the soba there.");
+Oh, and also, you shouldn't underestimate the
+soba there.");
 MsgDisp("主人公","Yeah.
-The sets and the rice bowls, it's all
-tasty.");
+The sets and the rice bowls, it's all tasty.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130200_01_070");
 MsgDisp("Kazama","There you go again.
-You're such a glutton, like a little
-firefly grub.");
-MsgDisp("主人公","Knock it off!
-'Grub' is gross!");
+You're such a glutton, like a little firefly
+grub.");
+MsgDisp("主人公","Knock it off! 'Grub' is gross!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -71,24 +69,23 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020130200_01_090");
-MsgDisp("Kazama","But you've always been glowing brightly
-since before you were a grub, from when
-you were an egg.");
+MsgDisp("Kazama","But you've always been glowing brightly since
+before you were a grub, from when you were an
+egg.");
 MsgDisp("主人公","Huh?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("G020130200_01_100");
-MsgDisp("Kazama","The whole time, since we met ten years
-ago. I guess since you've glowed for that
-long, you'd get hungry.");
+MsgDisp("Kazama","The whole time, since we met ten years ago.
+I guess since you've glowed for that long,
+you'd get hungry.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130200_01_110");
-MsgDisp("Kazama","I'm excited to go to the cafeteria
-together.");
+MsgDisp("Kazama","I'm excited to go to the cafeteria together.");
 MsgDisp("主人公","(Right, ｛Kazama＊＊｝ lives alone.
 Of course he'd want to have fun meals...)");
 BGMStop();

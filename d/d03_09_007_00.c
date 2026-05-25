@@ -79,8 +79,7 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900700_09_050");
 MsgDisp("Kuya","Eh?
-But I haven't finished giving them out
-yet—");
+But I haven't finished giving them out yet—");
 ChEye(9,5);
 ChMouth(9,2);
 ChMotion(9,5,1);

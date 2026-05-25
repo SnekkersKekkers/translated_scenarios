@@ -18,16 +18,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("P740700000_07_010");
-MsgDisp("Mikage","It's alright. It's proof of the fact that
-you did some great work. You were able to
-have a good experience.");
+MsgDisp("Mikage","It's alright. It's proof of the fact that you
+did some great work.
+You were able to have a good experience.");
 MsgDisp("主人公","Yes!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P740700000_07_020");
-MsgDisp("Mikage","You'll treasure the memories you made
-today for the rest of your life.
+MsgDisp("Mikage","You'll treasure the memories you made today
+for the rest of your life.
 I guarantee it.");
 MsgDisp("主人公","(Yay, the show was a huge success!
 I was praised by ｛Mikage＊＊｝, It was

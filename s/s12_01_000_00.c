@@ -26,8 +26,8 @@ Thank you for coming with me.");
     MsgDisp("Kazama","It's good to be honest.
 That's my request for you this year.");
     MsgDisp("主人公","Geez...
-Even this year, ｛Kazama＊＊｝ is the same
-as always.");
+Even this year, ｛Kazama＊＊｝ is the same as
+always.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -37,8 +37,7 @@ See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(I hope this year will be another good
-year.)");
+    MsgDisp("主人公","(I hope this year will be another good year.)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -94,8 +93,9 @@ Let me take you home.");
     VoicePlay("S120100000_01_070");
     MsgDisp("Kazama","Going to the shrine with you felt like a
 distant dream.");
-    MsgDisp("主人公","Is this your first time? Hmm...Didn't you
-go when we were in kindergarten?");
+    MsgDisp("主人公","Is this your first time?
+Hmm...
+Didn't you go when we were in kindergarten?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -103,16 +103,15 @@ go when we were in kindergarten?");
     MsgDisp("Kazama","But not together.
 We might have just passed by each other at
 the shrine by chance.");
-    MsgDisp("主人公","｛Kazama＊＊｝ as a kindergartener, how
-cute...");
+    MsgDisp("主人公","｛Kazama＊＊｝ as a kindergartener, how cute...");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100000_01_090");
     MsgDisp("Kazama","Hey, are you forgetting something?
-I remember you from back then way more
-than you remember me...");
+I remember you from back then way more than
+you remember me...");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);
@@ -128,8 +127,8 @@ expected...");
     ChCheek(1,10);
     VoicePlay("S120100000_01_110");
     MsgDisp("Kazama","It means that you're growing into a great
-person. Let me take you home so you don't
-run into any strange people.");
+person. Let me take you home so you don't run
+into any strange people.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
     MsgClose();

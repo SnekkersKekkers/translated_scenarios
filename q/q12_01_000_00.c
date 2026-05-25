@@ -7,8 +7,7 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,0);
     ChMotion(1,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","I guess the school trip is over
-tomorrow...");
+    MsgDisp("主人公","I guess the school trip is over tomorrow...");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);
@@ -16,8 +15,8 @@ tomorrow...");
     MsgDisp("Kazama","That was quick.
 Any regrets?");
     MsgDisp("主人公","Nope.
-Thanks to you, ｛Kazama＊＊｝, it became a
-good memory.");
+Thanks to you, ｛Kazama＊＊｝, it became a good
+memory.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0,1);
@@ -38,8 +37,7 @@ Well, see you later.");
     ChMouth(1,0);
     ChMotion(1,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","I guess the school trip is over
-tomorrow...
+    MsgDisp("主人公","I guess the school trip is over tomorrow...
 Time flew by so quickly.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -74,8 +72,9 @@ come back here together sometime...)");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q120100000_01_060");
-    MsgDisp("Kazama","Yeah. I've never done anything like this
-before, it was fun. Thanks.");
+    MsgDisp("Kazama","Yeah.
+I've never done anything like this before, it
+was fun. Thanks.");
     MsgDisp("主人公","Me too.
 It was a lot of fun!");
     ChEye(1,2);
@@ -83,9 +82,8 @@ It was a lot of fun!");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("Q120100000_01_070");
-    MsgDisp("Kazama","...You know, I hope I made up for the
-trips I missed in primary school and
-middle school.");
+    MsgDisp("Kazama","...You know, I hope I made up for the trips I
+missed in primary school and middle school.");
     MsgDisp("主人公","Yeah, you surely did!");
     ChEye(1,4);
     ChMouth(1,3);
@@ -99,8 +97,8 @@ middle school.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q120100000_01_090");
-    MsgDisp("Kazama","That when I'm in high school, I get to go
-on the best school trip with you.");
+    MsgDisp("Kazama","That when I'm in high school, I get to go on
+the best school trip with you.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -129,8 +127,8 @@ But everyone else is here too?");
     ChMotion(1,0);
     VoicePlay("Q120100000_01_130");
     MsgDisp("Kazama","That's still fine.
-This would have been a dream for me back
-in the day.");
+This would have been a dream for me back in
+the day.");
     MsgDisp("主人公","(｛Kazama＊＊｝...)");
     break ;
     default :

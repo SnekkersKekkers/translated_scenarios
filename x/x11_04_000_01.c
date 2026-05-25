@@ -10,8 +10,8 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("X110400001_04_000");
     MsgDisp("Nanatsumori","Yo. The talented manager of the track and
-field team. I heard you led them to
-victory in a practice match? That's good.");
+field team. I heard you led them to victory
+in a practice match? That's good.");
     MsgDisp("主人公","Phew, thanks!");
     MsgDisp("主人公","(Yeah, I'm the track and field manager.
 I'm glad I did my best ...!)");
@@ -20,17 +20,17 @@ I'm glad I did my best ...!)");
     case 5:
     VoicePlay("X110400001_04_010");
     MsgDisp("Nanatsumori","Yo. You're a good manager of the track and
-field team. I heard you won the practice
-game the other day. Congratulations.");
+field team. I heard you won the practice game
+the other day. Congratulations.");
     MsgDisp("主人公","Yes.
 But I'm just the manager.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("X110400001_04_020");
-    MsgDisp("Nanatsumori","But you are absolutely vital. The track
-team is strong because of you... I
-think.");
+    MsgDisp("Nanatsumori","But you are absolutely vital.
+The track team is strong because of you...
+I think.");
     MsgDisp("主人公","Phew, thanks.");
     MsgDisp("主人公","(Yeah, I'm a track and field manager.
 I'm glad I did my best ...!)");

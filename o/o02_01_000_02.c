@@ -42,8 +42,7 @@ Sorry that you came to cheer for this.");
     VoicePlay("O020100002_01_030");
     MsgDisp("Kazama","It was worth it.
 You looked cool, you know?");
-    MsgDisp("主人公","(I wanted to show you a win, not a
-draw...)");
+    MsgDisp("主人公","(I wanted to show you a win, not a draw...)");
     break ;
     default :
     DbgAssert(1);

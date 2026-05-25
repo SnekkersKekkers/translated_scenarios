@@ -25,13 +25,12 @@ I had a good time too.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400005_04_010");
-    MsgDisp("Nanatsumori","I spent this entire time laughing and
-having fun with you.");
+    MsgDisp("Nanatsumori","I spent this entire time laughing and having
+fun with you.");
     MsgDisp("主人公","Hehe, is that so?");
     VoicePlay("S120400005_04_020");
-    MsgDisp("Nanatsumori","Thanks to you, I think I'll really be able
-to enjoy our last two months of high
-school.");
+    MsgDisp("Nanatsumori","Thanks to you, I think I'll really be able to
+enjoy our last two months of high school.");
     MsgDisp("主人公","Yeah!");
     ChEye(4,4);
     ChMotion(4,0,1);
@@ -43,8 +42,8 @@ school.");
     ChClose(4,0,30);
     Wait(30);
     MsgDisp("主人公","(Our last year of high school...
-Thanks to ｛Nanatsumori＊｝, I think I'll
-enjoy it too.)");
+Thanks to ｛Nanatsumori＊｝, I think I'll enjoy
+it too.)");
     break ;
     case 4:
     case 5:
@@ -69,8 +68,8 @@ memories.");
     ChMotion(4,1,1);
     ChMouthOpenLevel(4,#1);
     VoicePlay("S120400005_04_070");
-    MsgDisp("Nanatsumori","You know, even if we graduate, we can
-still be together.
+    MsgDisp("Nanatsumori","You know, even if we graduate, we can still
+be together.
 Maybe we can keep meeting like this.");
     MsgDisp("主人公","Huh?");
     ChEye(4,2);
@@ -88,8 +87,8 @@ I don't want to talk about this now.");
     ChMotion(4,0,1);
     VoicePlay("S120400005_04_100");
     MsgDisp("Nanatsumori","High school life isn't over yet.
-Let's make more good memories while we
-still can, alright?");
+Let's make more good memories while we still
+can, alright?");
     MsgDisp("主人公","Hehe, yeah!");
     ChMotion(4,1,1);
     VoicePlay("S120400005_04_110");
@@ -101,8 +100,8 @@ Then, see you later.");
     ChClose(4,0,30);
     Wait(30);
     MsgDisp("主人公","(We're graduating soon...
-Like ｛Nanatsumori＊｝ says, I still have a
-lot of things to do!)");
+Like ｛Nanatsumori＊｝ says, I still have a lot
+of things to do!)");
     break ;
     default :
     DbgAssert(1);

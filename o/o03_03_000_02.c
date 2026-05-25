@@ -33,9 +33,9 @@ But it's still frustrating.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("O030300002_03_020");
-    MsgDisp("Honda","You said it? I didn't want to say anything
-in case I would end up regretting it, but
-I'm super frustrated.");
+    MsgDisp("Honda","You said it? I didn't want to say anything in
+case I would end up regretting it, but I'm
+super frustrated.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,5);
@@ -77,11 +77,10 @@ Okay?");
     ChMotion(3,1);
     VoicePlay("O030300002_03_080");
     MsgDisp("Honda","Good.
-Even if the results say differently, I
-think you're the best partner for me!");
+Even if the results say differently, I think
+you're the best partner for me!");
     MsgDisp("主人公","(｛Honda＊＊｝...
-That's why last place is so
-frustrating...)");
+That's why last place is so frustrating...)");
     break ;
     default :
     DbgAssert(1);

@@ -18,15 +18,15 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","The Cerebus dogs are all set and ready on
 standby.");
     MsgDisp("主人公","That's good.
-Having real doggies come out on stage was
-a good idea, huh?");
+Having real doggies come out on stage was a
+good idea, huh?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("P230200001_02_010");
     MsgDisp("Sassa","Yeah.
-A three-headed dog was impossible, but
-three normal ones are doable.");
+A three-headed dog was impossible, but three
+normal ones are doable.");
     MsgDisp("主人公","Hehe, yeah.
 The dogs were more attached to ｛Sassa＊＊｝
 than the guy playing Hades.");
@@ -34,8 +34,8 @@ than the guy playing Hades.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P230200001_02_020");
-    MsgDisp("Sassa","Maybe they picked up the smell of dogs on
-my body?");
+    MsgDisp("Sassa","Maybe they picked up the smell of dogs on my
+body?");
     MsgDisp("主人公","Also, ｛Sassa＊＊｝ is quite big?");
     ChEye(2,0);
     ChMouth(2,3);

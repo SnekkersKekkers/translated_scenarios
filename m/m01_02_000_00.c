@@ -49,11 +49,11 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("M010200000_02_050");
 MsgDisp("Sassa","I gave up and cut it short.
-Either way, I was worried about you so
-I couldn't focus.");
-MsgDisp("主人公","D-Did you? I'm sorry.
-I rested a lot, so I think I can go to
-school soon.");
+Either way, I was worried about you so I
+couldn't focus.");
+MsgDisp("主人公","D-Did you?
+I'm sorry. I rested a lot, so I think I can
+go to school soon.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -77,8 +77,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("M010200000_02_090");
 MsgDisp("Sassa","Ah, I'll go now.
-A big guy taking up space's just in the
-way.");
+A big guy taking up space's just in the way.");
 MsgDisp("主人公","Oh, that's not true at all.
 But, thanks.
 Watch your head, okay?");
@@ -86,8 +85,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("M010200000_02_100");
-MsgDisp("Sassa","Shut up!! Hn, glad I could see your
-healthier looking face. Later.");
+MsgDisp("Sassa","Shut up!!
+Hn, glad I could see your healthier looking
+face. Later.");
 MsgClose();
 SEPlay("EV_SE_690",0.1,0.5);
 BGMStop();

@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(1,254,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Lately, it looks like things have been
-going well!)");
+MsgDisp("主人公","(Lately, it looks like things have been going
+well!)");
 switch (ChPrmGet(1,6)){
     case 0:
     case 1:
@@ -26,8 +26,8 @@ gradually improving.");
     ChMotion(1,0);
     VoicePlay("X120100003_01_010");
     MsgDisp("Kazama","You have the ability to move people.
-It's thanks to that everyone cooperates
-with student council activities.");
+It's thanks to that everyone cooperates with
+student council activities.");
     MsgDisp("主人公","(Yay!
 I was praised!)");
     break ;

@@ -21,8 +21,7 @@ I'll go home alone.)");
     ChMotion(3,4,1);
     VoicePlay("F010300004_03_010");
     MsgDisp("Honda","Ah, sorry!
-I've got plans today, so maybe another
-time.");
+I've got plans today, so maybe another time.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -43,7 +42,8 @@ I already made other plans!");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("F010300004_03_030");
-    MsgDisp("Honda","Yeah... Hey, make sure to invite me again?
+    MsgDisp("Honda","Yeah...
+Hey, make sure to invite me again?
 I'll definitely invite you too!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

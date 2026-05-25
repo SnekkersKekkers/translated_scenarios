@@ -13,8 +13,9 @@ Is it fine if I take this?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300002_03_010");
-    MsgDisp("Honda","I see. We don't get this often, so I'll
-have it with my sister. Thanks!");
+    MsgDisp("Honda","I see.
+We don't get this often, so I'll have it with
+my sister. Thanks!");
     MsgDisp("主人公","(Was it too much...?)");
     break ;
     case 3:
@@ -29,8 +30,8 @@ have it with my sister. Thanks!");
     ChMotion(3,0);
     VoicePlay("L040300002_03_030");
     MsgDisp("Honda","It was on TV the other day.
-I got curious about the true taste and
-aroma of the cacao beans they mentioned.");
+I got curious about the true taste and aroma
+of the cacao beans they mentioned.");
     MsgDisp("主人公","Hehe, that's good.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -66,8 +67,8 @@ You can't!");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("L040300002_03_080");
-    MsgDisp("Honda","Because I've been waiting this long for
-you to give me chocolate, you know?
+    MsgDisp("Honda","Because I've been waiting this long for you
+to give me chocolate, you know?
 So, I'll eat it carefully.");
     ChEye(3,3);
     ChMouth(3,3);

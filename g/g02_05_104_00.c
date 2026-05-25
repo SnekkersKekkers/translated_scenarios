@@ -24,8 +24,8 @@ MsgDisp("Hiiragi","Watching the fireflies, in the midst of so
 many, I wonder if I can be chosen by you.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510400_05_040");
-MsgDisp("Hiiragi","That sort of impatience wells up from
-within me.");
+MsgDisp("Hiiragi","That sort of impatience wells up from within
+me.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","Umm...");
 ChEye(5,3);
@@ -38,9 +38,9 @@ So that you might choose me.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 VoicePlay("G020510400_05_060");
-MsgDisp("Hiiragi","Someday, if I can see this place simply as
-a beautiful scenery, maybe that's when
-I'll have gained confidence in myself?");
+MsgDisp("Hiiragi","Someday, if I can see this place simply as a
+beautiful scenery, maybe that's when I'll
+have gained confidence in myself?");
 ChMotion(5,4);
 VoicePlay("G020510400_05_070");
 MsgDisp("Hiiragi","For now it's no good.

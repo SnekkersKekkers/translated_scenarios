@@ -8,9 +8,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("F022200001_22_000");
-MsgDisp("Hikaru","Ah, that's right. There's a rumor about
-the church on school grounds, where a
-prince and princess were united.");
+MsgDisp("Hikaru","Ah, that's right. There's a rumor about the
+church on school grounds, where a prince and
+princess were united.");
 MsgDisp("主人公","Yeah, it's a wonderful story.");
 ChEye(22,0);
 ChMouth(22,3);
@@ -18,9 +18,8 @@ ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F022200001_22_010");
 MsgDisp("Hikaru","The princess's father gives the prince an
-impossible task so that he can't come
-back, but the prince completes his duty
-faithfully!");
+impossible task so that he can't come back,
+but the prince completes his duty faithfully!");
 ChEye(22,0);
 ChMotion(22,3,1);
 VoicePlay("F022200001_22_020");

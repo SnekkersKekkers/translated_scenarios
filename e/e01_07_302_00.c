@@ -29,8 +29,7 @@ VoicePlay("E010730200_07_020");
 MsgDisp("Mikage","Inori was stocking up on instant ramen.
 I was telling him to eat vegetables too.");
 MsgDisp("主人公","Eh?
-｛Himuro＊＊｝, you can't just eat instant
-ramen.");
+｛Himuro＊＊｝, you can't just eat instant ramen.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -42,9 +41,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("E010730200_07_030");
-MsgDisp("Mikage","Alright. Next time I'll prepare you some
-vegetables. Pick them up at the science
-prep room, okay?");
+MsgDisp("Mikage","Alright.
+Next time I'll prepare you some vegetables.
+Pick them up at the science prep room, okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -60,15 +59,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010730200_07_040");
-MsgDisp("Mikage","Hahaha. What's with him? The moment you
-arrived, he became so obedient.");
+MsgDisp("Mikage","Hahaha.
+What's with him? The moment you arrived, he
+became so obedient.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("E010730200_07_050");
-MsgDisp("Mikage","As punishment, I'll prepare a lot of
-eggplant for him.");
+MsgDisp("Mikage","As punishment, I'll prepare a lot of eggplant
+for him.");
 MsgDisp("主人公","(｛Mikage＊＊｝, you're worried about
 ｛Himuro＊＊｝'s health, aren't you...?)");
 BGMStop();

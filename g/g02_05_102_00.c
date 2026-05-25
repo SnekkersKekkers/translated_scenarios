@@ -13,8 +13,8 @@ I'm intruding.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020510200_05_020");
-MsgDisp("Hiiragi","But you know, just feeling comfortable
-isn't enough for me.");
+MsgDisp("Hiiragi","But you know, just feeling comfortable isn't
+enough for me.");
 ChMotion(5,4);
 VoicePlay("G020510200_05_030");
 MsgDisp("Hiiragi","I don't like this situation, it's like
@@ -31,8 +31,8 @@ MsgDisp("Hiiragi","Yes.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("G020510200_05_060");
-MsgDisp("Hiiragi","That's why, although it might make things
-a bit uncomfortable, I want to move our
+MsgDisp("Hiiragi","That's why, although it might make things a
+bit uncomfortable, I want to move our
 relationship forward.");
 ChEye(5,4);
 ChMotion(5,0);

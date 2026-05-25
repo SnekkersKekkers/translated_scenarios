@@ -13,7 +13,7 @@ Is this something you can use?");
 MsgDisp("主人公","Jewelry?");
 ChMotion(22,0,1);
 VoicePlay("U212200001_22_010");
-MsgDisp("Hikaru","Yes. 
-Hikaru got it at her job but
-thinks it suits Mari better.");
+MsgDisp("Hikaru","Yes.
+Hikaru got it at her job but thinks it suits
+Mari better.");
 MsgDisp("主人公","Thanks, ｛ひかる＊｝.");

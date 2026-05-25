@@ -13,8 +13,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("H6G0600000_06_010");
-MsgDisp("Himuro","I heard that the brass band won an award
-at the competition.");
+MsgDisp("Himuro","I heard that the brass band won an award at
+the competition.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -22,8 +22,8 @@ VoicePlay("H6G0600000_06_020");
 MsgDisp("Himuro","You really did it.
 Congrats.");
 MsgDisp("主人公","Thanks!
-...Did you come all this way to
-congratulate me?");
+...Did you come all this way to congratulate
+me?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -44,7 +44,6 @@ VoicePlay("H6G0600000_06_050");
 MsgDisp("Himuro","I want to hear a performance too.
 Next time, play a solo concert for me.");
 MsgDisp("主人公","(Hehe.
-I'm glad I practiced so hard for brass
-band!)");
+I'm glad I practiced so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

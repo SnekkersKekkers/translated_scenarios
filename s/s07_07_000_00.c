@@ -22,15 +22,15 @@ I feel so nervous.");
     ChMotion(7,3);
     VoicePlay("S070700000_07_020");
     MsgDisp("Mikage","Me too.
-Every year I say to myself, \"I'll try my
-best this year!\"");
+Every year I say to myself, \"I'll try my best
+this year!\"");
     MsgDisp("主人公","Hehe, really?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S070700000_07_030");
-    MsgDisp("Mikage","Oh, if you don't line up quickly, you
-won't be able to leave until the morning!
+    MsgDisp("Mikage","Oh, if you don't line up quickly, you won't
+be able to leave until the morning!
 Come, let's go.");
     MsgDisp("主人公","Oh, yeah.");
     break ;
@@ -81,8 +81,9 @@ Have you made a wish yet?");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("S070700000_07_100");
-    MsgDisp("Mikage","That's good. You're the type to make use
-of all your time. I'm the same way.");
+    MsgDisp("Mikage","That's good.
+You're the type to make use of all your time.
+I'm the same way.");
     MsgDisp("主人公","Hehe, really?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -91,23 +92,21 @@ of all your time. I'm the same way.");
     MsgDisp("Mikage","Yeah.
 I wish I had unlimited wishes.
 You're usually limited to three, right?");
-    MsgDisp("主人公","Hehe, I wonder what's ｛Mikage＊＊｝'s
-wish?");
+    MsgDisp("主人公","Hehe, I wonder what's ｛Mikage＊＊｝'s wish?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S070700000_07_120");
-    MsgDisp("Mikage","The health of everyone. Mine, my students,
-the gardening club, Molly. Look, that's
-already four...");
+    MsgDisp("Mikage","The health of everyone.
+Mine, my students, the gardening club, Molly.
+Look, that's already four...");
     MsgDisp("主人公","How about just wishing for the health of
 everyone, instead?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S070700000_07_130");
-    MsgDisp("Mikage","That's a bit cutesy, but I'll go with
-that.
+    MsgDisp("Mikage","That's a bit cutesy, but I'll go with that.
 Come on, let's go to the hall of worship.");
     break ;
     default :

@@ -26,8 +26,7 @@ ChPosition(22,2);
 MsgClose();
 ChOpen(5,255,4,0,4,#1,#1,0,1);
 VoicePlay("E010540000_05_000");
-MsgDisp("Hiiragi","Sorry to keep you waiting,
-Hanatsubaki-san.");
+MsgDisp("Hiiragi","Sorry to keep you waiting, Hanatsubaki-san.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -78,9 +77,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010540000_05_040");
-MsgDisp("Hiiragi","I wanted to give Goro-sensei a ticket to
-the Habataki Theater Company, so I asked
-Hikaru.");
+MsgDisp("Hiiragi","I wanted to give Goro-sensei a ticket to the
+Habataki Theater Company, so I asked Hikaru.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -106,21 +104,21 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("E010540000_22_070");
-MsgDisp("Hikaru","Wow...It's a premium ticket. Should Hikaru
-ask uncle if it's okay for Hikaru, Mari,
-and sis to go too?");
+MsgDisp("Hikaru","Wow... It's a premium ticket.
+Should Hikaru ask uncle if it's okay for
+Hikaru, Mari, and sis to go too?");
 MsgDisp("主人公","Eh, is it okay?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("E010540000_22_080");
-MsgDisp("Hikaru","Yeah, Hikaru's sure uncle will give it to
-her as a present. Look forward to it,
-'kay?");
+MsgDisp("Hikaru","Yeah, Hikaru's sure uncle will give it to her
+as a present.
+Look forward to it, 'kay?");
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(The head of the theater company and the
-model. They're both so amazing, but
-they're also so kind.)");
+model. They're both so amazing, but they're
+also so kind.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

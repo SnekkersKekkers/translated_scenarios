@@ -50,8 +50,8 @@ Don't get hurt, okay?");
     VoicePlay("H380400000_04_070");
     MsgDisp("Nanatsumori","Don't overdo it either, okay?");
     MsgDisp("主人公","Y-Yeah.
-But, in order to win, I might need to,
-just a little...");
+But, in order to win, I might need to, just a
+little...");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,2,1);
@@ -65,8 +65,9 @@ Thank you for worrying about me,
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("H380400000_04_090");
-    MsgDisp("Nanatsumori","Yeah. I'll be cheering for you with
-everything I have. ...In my heart.");
+    MsgDisp("Nanatsumori","Yeah.
+I'll be cheering for you with everything I
+have. ...In my heart.");
     MsgDisp("主人公","(｛Nanatsumori＊｝...
 Alright, I have to do my best!)");
     break ;

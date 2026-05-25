@@ -4,8 +4,8 @@ MsgDisp("主人公","(Practice time should almost be over,
 right...)");
 VoicePlay("G110200704_02_000");
 MsgDisp("Sassa","Manager!
-When you're done cleaning up, let's go for
-a run and cool down together!");
+When you're done cleaning up, let's go for a
+run and cool down together!");
 VoicePlay("G110200704_42_000");
 MsgDisp("Member A","That's nice.
 Let us join in once in a while～!");
@@ -40,8 +40,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200704_02_030");
-MsgDisp("Sassa","Once in a while, it's good to cool down
-with everyone, right?");
+MsgDisp("Sassa","Once in a while, it's good to cool down with
+everyone, right?");
 MsgDisp("主人公","Yeah, that's right.
 Maybe it would be good to have scheduled a
 few times a week?");
@@ -49,15 +49,15 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200704_02_040");
-MsgDisp("Sassa","Yeah, it's because you keep doing things
-like that that the track and field club
-stays together.");
+MsgDisp("Sassa","Yeah, it's because you keep doing things like
+that that the track and field club stays
+together.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200704_02_050");
-MsgDisp("Sassa","It's because of you that I can do this
-here, right now.");
+MsgDisp("Sassa","It's because of you that I can do this here,
+right now.");
 MsgDisp("主人公","Eh...");
 VoicePlay("G110200704_34_040");
 MsgDisp("Member C","Three, two, three, four—.");

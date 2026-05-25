@@ -12,16 +12,16 @@ Okay, let's go!");
     MsgClose();
     ChOpen(3,255,1,0,3,#1,#1,0,0);
     VoicePlay("W090300000_03_010");
-    MsgDisp("Honda","Things like this are mostly exciting
-before the ride actually starts.");
+    MsgDisp("Honda","Things like this are mostly exciting before
+the ride actually starts.");
     break ;
     case 4:
     case 5:
     MsgClose();
     ChOpen(3,255,1,0,3,#1,#1,0,0);
     VoicePlay("W090300000_03_020");
-    MsgDisp("Honda","Rides like this are less scary and more
-fun if you scream as loud as you can.
+    MsgDisp("Honda","Rides like this are less scary and more fun
+if you scream as loud as you can.
 Wanna try?");
     MsgDisp("主人公","Hehe, okay.");
     ChEye(3,0);

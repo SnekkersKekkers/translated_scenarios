@@ -22,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F110610000_06_030");
-MsgDisp("Himuro","Well...I feel like I'm getting stared at
-a lot.");
+MsgDisp("Himuro","Well...
+I feel like I'm getting stared at a lot.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -56,7 +56,7 @@ See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","(I think I'll go check out ｛Himuro＊＊｝'s
-class later.)");
+MsgDisp("主人公","(I think I'll go check out ｛Himuro＊＊｝'s class
+later.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -23,8 +23,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P540200005_02_020");
 MsgDisp("Sassa","But, it's a bit different for me.
-When I heard you guys play, it brought
-back so many different scenes.");
+When I heard you guys play, it brought back
+so many different scenes.");
 MsgDisp("主人公","Eh...?");
 ChEye(2,0);
 ChMouth(2,0);

@@ -31,11 +31,11 @@ sync...)");
     ChMotion(2,0);
     VoicePlay("O030200001_02_030");
     MsgDisp("Sassa","Sorry.
-It must've been hard for you to match
-strides with someone as tall as me.");
+It must've been hard for you to match strides
+with someone as tall as me.");
     MsgDisp("主人公","Not at all.
-Rather, sorry for making you match pace
-with me, ｛Sassa＊＊｝.");
+Rather, sorry for making you match pace with
+me, ｛Sassa＊＊｝.");
     ChEye(2,2);
     ChMouth(2,0);
     ChMotion(2,2);
@@ -44,8 +44,7 @@ with me, ｛Sassa＊＊｝.");
     MsgDisp("Sassa","It was nothing.
 ...It's just that I wanted to share a win
 with you.");
-    MsgDisp("主人公","(Yeah, we should've been in better
-sync...)");
+    MsgDisp("主人公","(Yeah, we should've been in better sync...)");
     break ;
     case 4:
     case 5:
@@ -63,8 +62,8 @@ sync...)");
 I should've adjusted my stride.
 I was rushing like an idiot.");
     MsgDisp("主人公","Not at all.
-It would've been easier for you if you
-were alone, ｛Sassa＊＊｝...");
+It would've been easier for you if you were
+alone, ｛Sassa＊＊｝...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -83,11 +82,10 @@ were together.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("O030200001_02_090");
-    MsgDisp("Sassa","Maybe it's not that bad to be tied
-together like this?
--Wait, what am I saying?");
-    MsgDisp("主人公","(I can't tell if ｛Sassa＊＊｝ is frustrated
-or not...)");
+    MsgDisp("Sassa","Maybe it's not that bad to be tied together
+like this? -Wait, what am I saying?");
+    MsgDisp("主人公","(I can't tell if ｛Sassa＊＊｝ is frustrated or
+not...)");
     break ;
     default :
     DbgAssert(1);

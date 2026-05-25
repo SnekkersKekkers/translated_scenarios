@@ -25,10 +25,9 @@ I' m getting nervous—");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P230500000_05_010");
-    MsgDisp("Hiiragi","Yes, me too. Even though I've been
-performing for ten odd years, the nerves I
-feel when the curtain rises have never
-changed.");
+    MsgDisp("Hiiragi","Yes, me too. Even though I've been performing
+for ten odd years, the nerves I feel when the
+curtain rises have never changed.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -41,15 +40,15 @@ nervous.");
     ChMotion(5,4);
     VoicePlay("P230500000_05_030");
     MsgDisp("Hiiragi","Yes.
-After all, this play was built on the
-efforts of you and everyone else.");
+After all, this play was built on the efforts
+of you and everyone else.");
     ChEye(5,0);
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("P230500000_05_040");
-    MsgDisp("Hiiragi","For the sake of everyone who said they
-were anticipating it, we will definitely
-make this play a success.");
+    MsgDisp("Hiiragi","For the sake of everyone who said they were
+anticipating it, we will definitely make this
+play a success.");
     MsgDisp("主人公","That's right...");
     ChEye(5,4);
     ChMouth(5,4);
@@ -64,8 +63,8 @@ stage outweighs that.");
     ChMotion(5,4);
     VoicePlay("P230500000_05_060");
     MsgDisp("Hiiragi","Of course the script is of importance.
-But, the ones who are performing are you,
-and me.");
+But, the ones who are performing are you, and
+me.");
     MsgDisp("主人公","Y-Yeah.");
     ChEye(5,3);
     ChMouth(5,4);

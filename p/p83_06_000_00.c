@@ -56,9 +56,8 @@ Ummm, tea...");
     ChMotion(6,0);
     VoicePlay("P830600000_06_040");
     MsgDisp("Himuro","You seem busy.");
-    MsgDisp("主人公","That's right, this is the day of the
-cultural festival, so I'm noisily running
-around.");
+    MsgDisp("主人公","That's right, this is the day of the cultural
+festival, so I'm noisily running around.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);

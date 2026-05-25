@@ -1,16 +1,16 @@
 MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020130101_01_000");
-MsgDisp("Kazama","Each one is only a faint light, but with
-this many together, it packs a punch.");
+MsgDisp("Kazama","Each one is only a faint light, but with this
+many together, it packs a punch.");
 MsgDisp("主人公","Yeah, it's like it's one big animal.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020130101_01_010");
-MsgDisp("Kazama","Oh, I remember hearing something like
-that. About how little fishes get together
-to protect themselves.");
+MsgDisp("Kazama","Oh, I remember hearing something like that.
+About how little fishes get together to
+protect themselves.");
 MsgDisp("主人公","Hahah, I think I heard that too.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -39,8 +39,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020130101_01_050");
 MsgDisp("Kazama","Do you consider me just a member of some
-larger group?
-'Cause I consider you special.");
+larger group? 'Cause I consider you special.");
 MsgDisp("主人公","You're important to me, ｛Kazama＊＊｝.
 You're my one and only childhood friend.");
 ChEye(1,2);

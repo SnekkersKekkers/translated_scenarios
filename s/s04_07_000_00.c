@@ -63,8 +63,7 @@ Who is it?");
     MsgDisp("主人公","｛Mikage＊＊｝!
 Happy New Years.");
     VoicePlay("S040700000_07_070");
-    MsgDisp("Mikage","I'm thinking about visiting the shrine
-now.
+    MsgDisp("Mikage","I'm thinking about visiting the shrine now.
 Are you free?");
     MsgSel("Yeah, I'd be happy to!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
@@ -75,8 +74,8 @@ We're together this year.");
         MsgDisp("主人公","Hehe, what should we pray for?");
         VoicePlay("S040700000_07_090");
         MsgDisp("Mikage","What do we pray for, hmm?
-I'll think about it while I come to pick
-you up.");
+I'll think about it while I come to pick you
+up.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(A New Year's shrine visit with

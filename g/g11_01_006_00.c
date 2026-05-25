@@ -1,7 +1,7 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he had
+MsgDisp("主人公","(That's right... ｛Kazama＊＊｝ said he had
 something to say to me while we walk home
 ...I wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -18,8 +18,7 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Speaking of, what did you want to talk
-about?");
+MsgDisp("主人公","Speaking of, what did you want to talk about?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -39,7 +38,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100600_01_020");
 MsgDisp("Kazama","There's no room for that guy in our space
-together. He won't fit. He's gargantuan.");
+together.
+He won't fit. He's gargantuan.");
 MsgDisp("主人公","Hehe.");
 ChEye(1,0);
 ChMouth(1,0);

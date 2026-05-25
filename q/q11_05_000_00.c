@@ -4,8 +4,7 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(Okay, I was able to buy a lot of
-souvenirs!
+MsgDisp("主人公","(Okay, I was able to buy a lot of souvenirs!
 I wonder if ｛Hiiragi＊＊＊｝ is done...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -49,14 +48,14 @@ MsgDisp("Hiiragi","I found it near the Glasses Bridge and was
 interested in it.
 I rushed to it.");
 MsgDisp("主人公","Eeh∋
-You went all the way back and bought it
-for me?");
+You went all the way back and bought it for
+me?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("Q110500000_05_060");
 MsgDisp("Hiiragi","I didn't want to leave Nagasaki with any
-regrets, so I went back for it. Now I can
-remember today whenever I use it.");
+regrets, so I went back for it.
+Now I can remember today whenever I use it.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 Thank you, I'll treasure it.");
 ChMotion(5,0,1);

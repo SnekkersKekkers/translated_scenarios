@@ -45,10 +45,9 @@ ChMouth(8,2);
 ChMotion(8,1,1);
 VoicePlay("S110800001_08_070");
 MsgDisp("Shirahane","Eh—∋
-Why do I gotta get lectured just 'cause I
-got Excellent Luck?");
-MsgDisp("主人公","Even if you're very happy, try to stay
-calm.
+Why do I gotta get lectured just 'cause I got
+Excellent Luck?");
+MsgDisp("主人公","Even if you're very happy, try to stay calm.
 Isn't that what it means?");
 ChEye(8,3);
 ChMouth(8,3);

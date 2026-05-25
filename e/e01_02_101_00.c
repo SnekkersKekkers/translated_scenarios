@@ -22,8 +22,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010210100_02_020");
 MsgDisp("Sassa","It's not for me.
-My dad was admitted so I went and gave him
-a visit.");
+My dad was admitted so I went and gave him a
+visit.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -54,10 +54,9 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010210100_02_060");
 MsgDisp("Sassa","My dad didn't really grow as a competitor.
-He says coaching theory is more his
-thing.");
-MsgDisp("主人公","It seems you've inherited both their
-talents, ｛Sassa＊＊｝.");
+He says coaching theory is more his thing.");
+MsgDisp("主人公","It seems you've inherited both their talents,
+｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

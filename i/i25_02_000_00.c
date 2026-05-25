@@ -25,8 +25,7 @@ Are you looking for something?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I250200000_02_020");
-    MsgDisp("Sassa","Yeah, I came to buy this comic that I
-like.");
+    MsgDisp("Sassa","Yeah, I came to buy this comic that I like.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -71,8 +70,8 @@ This one here.");
     ChMotion(2,3);
     VoicePlay("I250200000_02_080");
     MsgDisp("Sassa","You know, talking to you like this feels
-interesting compared to talking at school
-or when we go out.");
+interesting compared to talking at school or
+when we go out.");
     MsgDisp("主人公","Interesting?");
     ChEye(2,0);
     ChMouth(2,3);
@@ -87,15 +86,14 @@ This, please.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I250200000_02_100");
-    MsgDisp("Sassa","Yeah. We have one in the school library,
-but I wanted to buy the new edition that
-just came out.");
+    MsgDisp("Sassa","Yeah. We have one in the school library, but
+I wanted to buy the new edition that just
+came out.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I250200000_02_110");
-    MsgDisp("Sassa","I'll have to review it as soon as I get
-home.");
+    MsgDisp("Sassa","I'll have to review it as soon as I get home.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -117,8 +115,7 @@ home.");
     VoicePlay("I250200000_02_130");
     MsgDisp("Sassa","I'm not here for anything today.
 Just hanging out.");
-    MsgDisp("主人公","Yeah, it's easy to wander into a
-bookstore.");
+    MsgDisp("主人公","Yeah, it's easy to wander into a bookstore.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,0);
@@ -139,15 +136,15 @@ You, ｛Sassa＊＊｝, in a bookstore?");
     VoicePlay("I250200000_02_160");
     MsgDisp("Sassa","You don't need to be so surprised.");
     MsgDisp("主人公","Hehe, sorry.
-But maybe I do want to see you wearing
-this apron, ｛Sassa＊＊｝.");
+But maybe I do want to see you wearing this
+apron, ｛Sassa＊＊｝.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,0);
     VoicePlay("I250200000_02_170");
     MsgDisp("Sassa","Matching aprons with you...
-Nice, maybe I'll really get a part-time
-job here.");
+Nice, maybe I'll really get a part-time job
+here.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,1);
@@ -161,8 +158,8 @@ know?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I250200000_02_190");
-    MsgDisp("Sassa","Until then, I'll come to see your
-apron── I mean, the books, okay?");
+    MsgDisp("Sassa","Until then, I'll come to see your apron── I
+mean, the books, okay?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

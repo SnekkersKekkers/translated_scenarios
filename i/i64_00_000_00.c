@@ -34,8 +34,8 @@ I just about stopped breathing...");
     MsgDisp("Shirahane","Alright, I'll see you at work～!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yeah, let's keep this part-time job a
-little longer.)");
+    MsgDisp("主人公","(Yeah, let's keep this part-time job a little
+longer.)");
     break ;
     case 1:
     MsgDisp("主人公","Yeah, I'm quitting.
@@ -50,8 +50,8 @@ I'll tell the manager.");
 See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","It's not like we can't- ｛Daichi＊＊｝
-seemed really sad...
+    MsgDisp("主人公","It's not like we can't- ｛Daichi＊＊｝ seemed
+really sad...
 I wonder if I did the right thing.");
     MsgDisp("","(I quit my job at Stallion Gasoline.)");
     break ;

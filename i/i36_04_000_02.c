@@ -36,14 +36,15 @@ Ah...it's some soil.");
     ChMotion(4,1,1);
     VoicePlay("I360400002_04_020");
     MsgDisp("Nanatsumori","How'd you get dirt on your nose in a cafe?");
-    MsgDisp("主人公","I was taking care of the plants earlier,
-so I guess that's when it happened.");
+    MsgDisp("主人公","I was taking care of the plants earlier, so I
+guess that's when it happened.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I360400002_04_030");
-    MsgDisp("Nanatsumori","I see...So that's why I thought the
-storefront looked pretty good. Good, good.");
+    MsgDisp("Nanatsumori","I see...
+So that's why I thought the storefront looked
+pretty good. Good, good.");
     MsgDisp("主人公","(I did it!
 I'm happy to be complimented!)");
     break ;
@@ -71,8 +72,8 @@ I'm happy to be complimented!)");
     VoicePlay("I360400002_04_050");
     MsgDisp("Nanatsumori","Pft!");
     MsgDisp("主人公","Uh.
-Why did you start laughing after you saw
-my face?");
+Why did you start laughing after you saw my
+face?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -99,8 +100,9 @@ my face?");
     VoicePlay("I360400002_04_080");
     MsgDisp("Nanatsumori","There was dirt on your nose...
 I wonder how that happened.");
-    MsgDisp("主人公","Ah...Maybe when I was tending to the
-plants around the store earlier. Thanks.");
+    MsgDisp("主人公","Ah...
+Maybe when I was tending to the plants around
+the store earlier. Thanks.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -113,10 +115,10 @@ The flowers.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("I360400002_04_100");
-    MsgDisp("Nanatsumori","Yeah. They'll grow up well if you're the
-one taking care of them. You're good.");
-    MsgDisp("主人公","(I'm so happy to get such a good
-compliment!)");
+    MsgDisp("Nanatsumori","Yeah.
+They'll grow up well if you're the one taking
+care of them. You're good.");
+    MsgDisp("主人公","(I'm so happy to get such a good compliment!)");
     break ;
     default :
     DbgAssert(1);

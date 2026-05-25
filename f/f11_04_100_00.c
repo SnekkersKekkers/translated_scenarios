@@ -20,22 +20,22 @@ ChMotion(4,0,1);
 VoicePlay("F110410000_04_030");
 MsgDisp("Nanatsumori","I'm patrolling like this for discipline
 control.");
-MsgDisp("主人公","I see. ｛Nanatsumori＊｝ is wearing his
-uniform properly, and he's tall, so he can
-control the situation.");
+MsgDisp("主人公","I see. ｛Nanatsumori＊｝ is wearing his uniform
+properly, and he's tall, so he can control
+the situation.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F110410000_04_040");
-MsgDisp("Nanatsumori","Who knows. Well, Vice Principal 
-Himuro asked me to patrol like this 
-three times a day, so I'll go.");
+MsgDisp("Nanatsumori","Who knows. Well, Vice Principal Himuro asked
+me to patrol like this three times a day, so
+I'll go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
 MsgDisp("主人公","(｛Nanatsumori＊｝ really has the air of a
-model student when he's at school. Good
-luck!)");
+model student when he's at school.
+Good luck!)");
 MsgClose();
 MsgClose();
 ScrFadeOut(0,0);

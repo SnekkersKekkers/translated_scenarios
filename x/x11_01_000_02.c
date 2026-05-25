@@ -28,8 +28,8 @@ I'm so glad!)");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("X110100002_01_020");
-    MsgDisp("Kazama","The Judo team won all the practice
-matches, right?
+    MsgDisp("Kazama","The Judo team won all the practice matches,
+right?
 You really know how to multitask.");
     MsgDisp("主人公","(｛Kazama＊＊｝ gave me a compliment!
 Cute and strong...

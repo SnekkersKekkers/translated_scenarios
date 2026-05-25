@@ -64,8 +64,8 @@ mulling around.");
     ChMotion(1,3);
     VoicePlay("Q090100000_01_060");
     MsgDisp("Kazama","My bad.
-But in the end, I couldn't wait anymore,
-so I called out to you right away.");
+But in the end, I couldn't wait anymore, so I
+called out to you right away.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

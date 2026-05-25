@@ -25,8 +25,8 @@ Everyone did their best!");
     MsgDisp("Hikaru","Yes, yes.
 Mari too, of course♪
 Congrats!");
-    MsgDisp("主人公","(I'm glad that I stayed as the baseball
-club manager!)");
+    MsgDisp("主人公","(I'm glad that I stayed as the baseball club
+manager!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -61,8 +61,8 @@ Aha▼");
     VoicePlay("H1A2200000_22_040");
     MsgDisp("Hikaru","And there's this, too.
 Mari must be the goddess of victory♪");
-    MsgDisp("主人公","(I'm glad that I stayed as the baseball
-club manager!)");
+    MsgDisp("主人公","(I'm glad that I stayed as the baseball club
+manager!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

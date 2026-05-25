@@ -20,13 +20,13 @@ ChMotion(3,0,1);
 VoicePlay("F110310001_39_000");
 MsgDisp("Student A","Woah, so they did it this year, too?");
 VoicePlay("F110310001_40_010");
-MsgDisp("Student B","That's the quiz haircut deathmatch from
-the rumors, right?");
+MsgDisp("Student B","That's the quiz haircut deathmatch from the
+rumors, right?");
 ChMouth(3,0);
 VoicePlay("F110310001_39_020");
 MsgDisp("Student A","Yeah, another year of competition.
-I know I won't win the quiz, but I'm
-scared anyway.");
+I know I won't win the quiz, but I'm scared
+anyway.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);

@@ -22,10 +22,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100500_01_000");
 MsgDisp("Kazama","Speaking of, what will you do with the
-wedding dresses from the cultural
-festival?");
-MsgDisp("主人公","It'll be on display on the mannequin in
-the clubroom for a while.");
+wedding dresses from the cultural festival?");
+MsgDisp("主人公","It'll be on display on the mannequin in the
+clubroom for a while.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -47,18 +46,18 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100500_01_030");
 MsgDisp("Kazama","As for yours, you should take it home.");
-MsgDisp("主人公","Eh...Y-Yeah. I'll look after it until I
-graduate, until then, I'll think about it.");
+MsgDisp("主人公","Eh...Y-Yeah.
+I'll look after it until I graduate, until
+then, I'll think about it.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110100500_01_040");
-MsgDisp("Kazama","After you graduate, why not have my
-grandpa take care of it at his shop until
-the real thing?");
+MsgDisp("Kazama","After you graduate, why not have my grandpa
+take care of it at his shop until the real
+thing?");
 MsgDisp("主人公","Ehh∋
-The real thing, you mean my actual
-wedding?");
+The real thing, you mean my actual wedding?");
 ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);

@@ -25,8 +25,8 @@ Mhm, yes I did.
     ChEyeOpenLevel(3,0);
     VoicePlay("Q020300000_03_010");
     MsgDisp("Honda","Me too.
-As the well-slept duo, let's go together
-for today's free period!");
+As the well-slept duo, let's go together for
+today's free period!");
     MsgSel("Sure, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:

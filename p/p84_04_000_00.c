@@ -14,8 +14,8 @@ ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("P840400000_04_010");
 MsgDisp("Nanatsumori","I know how heavy the blackout curtains can
-be. I couldn't leave a girl to carry them
-by herself.");
+be. I couldn't leave a girl to carry them by
+herself.");
 ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("P840400000_04_020");
@@ -26,8 +26,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("P840400000_04_030");
-MsgDisp("Nanatsumori","Let's go out once you reach a stopping
-point?
+MsgDisp("Nanatsumori","Let's go out once you reach a stopping point?
 As a reward, I'll treat you to takoyaki.");
 MsgDisp("主人公","(Yay—!
 I'm glad my work also went well.)");

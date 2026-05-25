@@ -13,9 +13,9 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130000_01_010");
-MsgDisp("Kazama","Yep. Sassa would probably say something
-hackneyed, like, 'Don't try to get a head
-start.'");
+MsgDisp("Kazama","Yep.
+Sassa would probably say something hackneyed,
+like, 'Don't try to get a head start.'");
 MsgDisp("主人公","Hahah.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -23,8 +23,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130000_01_020");
 MsgDisp("Kazama","Actually, if he learned right now, he'd
-probably run here from his house, don't
-you think?");
+probably run here from his house, don't you
+think?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -38,15 +38,15 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130000_01_040");
-MsgDisp("Kazama","Inori would...probably say something to
-ruin the mood, like, 'They say fireflies
-are the souls of the dead.'");
+MsgDisp("Kazama","Inori would...probably say something to ruin
+the mood, like, 'They say fireflies are the
+souls of the dead.'");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020130000_01_050");
-MsgDisp("Kazama","Despite that, he's also the type who'd try
-to get you to spill what you talked about.");
+MsgDisp("Kazama","Despite that, he's also the type who'd try to
+get you to spill what you talked about.");
 MsgDisp("主人公","Haha, you understand both of them really
 well, ｛Kazama＊＊｝.");
 ChEye(1,2);
@@ -57,8 +57,8 @@ VoicePlay("G020130000_01_060");
 MsgDisp("Kazama","I'd say so.
 The truth is that I don't hate them.");
 ChEye(1,0);
-MsgDisp("主人公","(Hahah, I know, ｛Kazama＊＊｝, that you
-like them.)");
+MsgDisp("主人公","(Hahah, I know, ｛Kazama＊＊｝, that you like
+them.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

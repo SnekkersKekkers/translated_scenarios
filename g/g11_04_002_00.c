@@ -66,8 +66,8 @@ VoicePlay("G110400200_04_050");
 MsgDisp("Nanatsumori","You seem to do this a lot.
 Are you gonna brag about it later?");
 MsgDisp("主人公","Absolutely!");
-MsgDisp("主人公","(Talking with ｛Nanatsumori＊｝ about
-fashion is such a luxury!)");
+MsgDisp("主人公","(Talking with ｛Nanatsumori＊｝ about fashion
+is such a luxury!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

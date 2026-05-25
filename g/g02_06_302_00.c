@@ -20,8 +20,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630200_06_020");
 MsgDisp("Himuro","No.
-You don't make friends just because you
-want to.");
+You don't make friends just because you want
+to.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -38,9 +38,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630200_06_050");
-MsgDisp("Himuro","There's a tendency for people to think
-that making lots of friends makes you a
-winner. Nonsense.");
+MsgDisp("Himuro","There's a tendency for people to think that
+making lots of friends makes you a winner.
+Nonsense.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -52,8 +52,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630200_06_070");
-MsgDisp("Himuro","You only need friends who you can cherish
-and who you know well.");
+MsgDisp("Himuro","You only need friends who you can cherish and
+who you know well.");
 MsgDisp("主人公","I see.
 So this is what ｛Himuro＊＊｝ thinks?");
 ChEye(6,0);
@@ -61,15 +61,15 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020630200_06_080");
 MsgDisp("Himuro","Right.
-I think there are many different beliefs,
-but for me, a friend is as I just said.");
+I think there are many different beliefs, but
+for me, a friend is as I just said.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630200_06_090");
-MsgDisp("Himuro","...But the guys in my class are so
-persistent that I'm about to give in.");
+MsgDisp("Himuro","...But the guys in my class are so persistent
+that I'm about to give in.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

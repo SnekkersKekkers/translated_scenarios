@@ -12,15 +12,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600010_06_000");
-MsgDisp("Himuro","Either way, the cast and script have
-already been decided.
+MsgDisp("Himuro","Either way, the cast and script have already
+been decided.
 We just have to do it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600010_06_010");
-MsgDisp("Himuro","If you're anxious, just practice more and
-put in more effort.
+MsgDisp("Himuro","If you're anxious, just practice more and put
+in more effort.
 That's all you can do.");
 MsgDisp("主人公","Yes, but...
 ｛Himuro＊＊｝, do you not get anxious?");
@@ -38,8 +38,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600010_06_030");
 MsgDisp("Himuro","And this time, multiple grade levels are
-involved...and you're working with us,
-too...I can't afford to mess up.");
+involved...and you're working with us, too...
+I can't afford to mess up.");
 MsgDisp("主人公","Uh, what?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -53,6 +53,6 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600010_06_050");
 MsgDisp("Himuro","...I have to get it together.");
-MsgDisp("主人公","(Because he's working with me, he can't
-make mistakes?
+MsgDisp("主人公","(Because he's working with me, he can't make
+mistakes?
 What does he mean by that...)");

@@ -1,7 +1,7 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right...｛Kazama＊＊｝ said he had
+MsgDisp("主人公","(That's right... ｛Kazama＊＊｝ said he had
 something he wanted to talk to me about on
 the way home ...I wonder what it is?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
@@ -18,15 +18,15 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, that's right, what did you want to
-talk to me about?");
+MsgDisp("主人公","Ah, that's right, what did you want to talk
+to me about?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110101102_01_000");
 MsgDisp("Kazama","Ah, right.
-Apparently a customer from Simon called
-for you?");
+Apparently a customer from Simon called for
+you?");
 MsgDisp("主人公","Really?
 I'm happy.");
 ChEye(1,0);
@@ -54,8 +54,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("G110101102_01_030");
 MsgDisp("Kazama","So here's a suggestion.
-Why don't you just work the same shift as
-me all the time?");
+Why don't you just work the same shift as me
+all the time?");
 MsgDisp("主人公","(Umm...how would that go?)");
 BGMStop();
 MsgClose();

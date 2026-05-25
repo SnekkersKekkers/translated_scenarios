@@ -33,8 +33,8 @@ I'm happy I could spend it with
 ｛Nanatsumori＊｝!");
     ChMotion(4,1,1);
     VoicePlay("Q080400001_04_030");
-    MsgDisp("Nanatsumori","Wanna spend tomorrow's free period
-together again?");
+    MsgDisp("Nanatsumori","Wanna spend tomorrow's free period together
+again?");
     MsgDisp("主人公","Yes!");
     break ;
     case 4:
@@ -56,8 +56,8 @@ Wasn't it so much fun?");
 I really underestimated school trips.");
     ChMotion(4,0,1);
     VoicePlay("Q080400001_04_060");
-    MsgDisp("Nanatsumori","So, wanna spend the next free period with
-me too?");
+    MsgDisp("Nanatsumori","So, wanna spend the next free period with me
+too?");
     MsgDisp("主人公","Yeah!");
     break ;
     default :

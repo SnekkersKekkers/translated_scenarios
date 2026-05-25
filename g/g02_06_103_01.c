@@ -24,8 +24,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610301_06_030");
-MsgDisp("Himuro","Since then, at random moments, I feel like
-I smell your scent...");
+MsgDisp("Himuro","Since then, at random moments, I feel like I
+smell your scent...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -49,8 +49,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610301_06_070");
-MsgDisp("Himuro","I know it's childish, and I hate myself 
-for it, but I don't know what to do..");
+MsgDisp("Himuro","I know it's childish, and I hate myself for
+it, but I don't know what to do..");
 MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,2);
 ChMouth(6,0);
@@ -58,8 +58,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610301_06_080");
 MsgDisp("Himuro","...I'll probably be sleep-deprived again
-today. Because I'll remember your scent
-from now when I'm in my room.");
+today. Because I'll remember your scent from
+now when I'm in my room.");
 MsgDisp("主人公","(I feel like I'm being told something
 great...)");
 BGMStop();

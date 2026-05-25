@@ -2,8 +2,7 @@ BGOpen("ar500",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","My name is ｛主人公苗字｝.
-It's my pleasure to work here starting
-today.");
+It's my pleasure to work here starting today.");
 VoicePlay("I532100000_49_000");
 MsgDisp("Manager","You're working every Tuesday and Thursday.
 I look forward to working with you.");
@@ -24,8 +23,8 @@ You work here?");
     ChMotion(21,3);
     VoicePlay("I532100000_21_010");
     MsgDisp("Michiru","Right.
-This place is affiliated with the
-Hanatsubaki family.");
+This place is affiliated with the Hanatsubaki
+family.");
     MsgDisp("主人公","I see.
 Let's work hard together!");
     ChEye(21,0);
@@ -51,8 +50,9 @@ You work here?");
     ChMouth(21,0);
     ChMotion(21,3);
     VoicePlay("I532100000_21_040");
-    MsgDisp("Michiru","Hehe. This place is affiliated with the
-Hanatsubaki family. That's why, you know?");
+    MsgDisp("Michiru","Hehe.
+This place is affiliated with the Hanatsubaki
+family. That's why, you know?");
     MsgDisp("主人公","I see.
 It's a lovely store!");
     ChEye(21,0);
@@ -79,8 +79,8 @@ You work here?");
     ChMotion(21,4);
     VoicePlay("I532100000_21_070");
     MsgDisp("Michiru","Right.
-I couldn't wait to see you after I heard
-you were coming to work here, Mari...");
+I couldn't wait to see you after I heard you
+were coming to work here, Mari...");
     MsgDisp("主人公","Hehe.
 I'm looking forward to working with you.");
     ChEye(21,0);
@@ -94,8 +94,7 @@ company, okay?");
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("I532100000_21_090");
-    MsgDisp("Michiru","Ask me about anything you don't
-understand.
+    MsgDisp("Michiru","Ask me about anything you don't understand.
 I'll support you with all my strength.");
     MsgDisp("主人公","Thanks!");
     MsgDisp("主人公","(｛みちる＊｝ is so reliable.

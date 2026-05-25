@@ -24,9 +24,9 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("P840100003_01_020");
-MsgDisp("Kazama","You're shaking aren't you? You're pushing
-yourself too hard. Think ofyour own
-stamina, and move accordingly.");
+MsgDisp("Kazama","You're shaking aren't you?
+You're pushing yourself too hard. Think
+ofyour own stamina, and move accordingly.");
 MsgDisp("主人公","That's right huh...");
 ChEye(1,2);
 ChMouth(1,2);

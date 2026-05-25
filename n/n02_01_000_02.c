@@ -16,8 +16,8 @@ Your grades are quite average, huh.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100002_01_010");
-    MsgDisp("Kazama","Well, you know, this doesn't seem quite
-like you.
+    MsgDisp("Kazama","Well, you know, this doesn't seem quite like
+you.
 This isn't funny.");
     ChEye(1,0);
     ChMouth(1,0);
@@ -44,8 +44,8 @@ You.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("N020100002_01_050");
-    MsgDisp("Kazama","For better or worse, being extraordinary
-is your charm, right?
+    MsgDisp("Kazama","For better or worse, being extraordinary is
+your charm, right?
 So why are your grades so ordinary?");
     ChEye(1,4);
     ChMouth(1,2);
@@ -86,8 +86,8 @@ Be yourself and go for it.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100002_01_100");
-    MsgDisp("Kazama","If you rank a bit higher, then I'll have
-some fun teasing you about it.
+    MsgDisp("Kazama","If you rank a bit higher, then I'll have some
+fun teasing you about it.
 See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);

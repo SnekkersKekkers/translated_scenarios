@@ -24,8 +24,8 @@ MsgDisp("Mikage","I've been with you guys practicing and
 preparing from the very beginning, so I'm
 telling you.");
 MsgDisp("主人公","Yes. From stage preparations to the script
-and acting, you supported us with
-everything, ｛Mikage＊＊｝.");
+and acting, you supported us with everything,
+｛Mikage＊＊｝.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -40,16 +40,16 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700010_07_030");
-MsgDisp("Mikage","You worked hard with your classmates,
-right? So no matter what happens on stage,
-it'll become the best memory.");
+MsgDisp("Mikage","You worked hard with your classmates, right?
+So no matter what happens on stage, it'll
+become the best memory.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700010_07_040");
 MsgDisp("Mikage","So there's no longer a route for failure.
-You are guaranteed to receive one of
-life's treasures.");
+You are guaranteed to receive one of life's
+treasures.");
 MsgDisp("主人公","Is that so...");
 ChEye(7,0);
 ChMouth(7,3);

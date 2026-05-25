@@ -7,8 +7,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("F020400003_04_000");
-MsgDisp("Nanatsumori","Apparently, there's a legendary church on
-the Haba High campus.
+MsgDisp("Nanatsumori","Apparently, there's a legendary church on the
+Haba High campus.
 And a handful of rumors surrounding it.");
 MsgDisp("主人公","Right.");
 ChEye(4,0);
@@ -56,8 +56,9 @@ ChMouth(4,3);
 VoicePlay("F020400003_04_060");
 MsgDisp("Nanatsumori","That—");
 ScrQuake(1);
-MsgDisp("主人公","...Eh∋ Ha...Hahaha! Oh my god, stop! That
-tickles!");
+MsgDisp("主人公","...Eh∋
+Ha...Hahaha!
+Oh my god, stop! That tickles!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(4,0,30);
@@ -69,8 +70,8 @@ SEWait();
 VoicePlay("F020400003_04_070");
 MsgDisp("Nanatsumori","......");
 MsgDisp("主人公","Ha...okay, you win.
-Anyone would laugh if you tickled them
-like that!");
+Anyone would laugh if you tickled them like
+that!");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);

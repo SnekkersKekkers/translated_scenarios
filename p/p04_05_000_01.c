@@ -18,9 +18,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P040500001_05_020");
-MsgDisp("Hiiragi","Hm, I had believed that the point here was
-to enjoy the atmosphere, rather than the
-taste...I suppose I was wrong...");
+MsgDisp("Hiiragi","Hm, I had believed that the point here was to
+enjoy the atmosphere, rather than the
+taste... I suppose I was wrong...");
 MsgDisp("主人公","(Ugh...
 I should have checked the flavor more
 thoroughly...)");

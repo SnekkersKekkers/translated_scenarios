@@ -32,10 +32,9 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P540100004_01_030");
-MsgDisp("Kazama","Although that was a good performance, when
-I think about how you gave it your all
-these last three years, I could somewhat
-cry.");
+MsgDisp("Kazama","Although that was a good performance, when I
+think about how you gave it your all these
+last three years, I could somewhat cry.");
 MsgDisp("主人公","Hey...
 Aren't you talking like a parent?");
 ChEye(1,4);
@@ -46,8 +45,8 @@ MsgDisp("Kazama","Yes, that's exactly it.
 You really gave it your best.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 MsgDisp("主人公","(Seems like he was super satisfied!
-I'm truly happy I gave my best in
-brass band for these last three years.)");
+I'm truly happy I gave my best in brass band
+for these last three years.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

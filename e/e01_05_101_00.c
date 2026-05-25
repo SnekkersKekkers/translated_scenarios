@@ -18,8 +18,8 @@ ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("E010510100_05_010");
 MsgDisp("Hiiragi","I was looking at cleaning supplies earlier
-and someone recommended me a robotic
-vacuum cleaner.");
+and someone recommended me a robotic vacuum
+cleaner.");
 MsgDisp("主人公","Yeah, the ones in commercials recently,
 right?
 They seem convenient.");
@@ -33,30 +33,30 @@ MsgDisp("主人公","Eh?");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010510100_05_030");
-MsgDisp("Hiiragi","I can't deny that I like convenient
-cleaning products as well.
+MsgDisp("Hiiragi","I can't deny that I like convenient cleaning
+products as well.
 But in the end, it's my decision.");
 ChEye(5,4);
 ChMouth(5,0);
 ChMotion(5,2);
 VoicePlay("E010510100_05_040");
-MsgDisp("Hiiragi","If it's done automatically, you miss
-the space being cleaned, or feeling
-the room grow once it's tidy.");
+MsgDisp("Hiiragi","If it's done automatically, you miss the
+space being cleaned, or feeling the room grow
+once it's tidy.");
 MsgDisp("主人公","Such a deep way of thinking.");
 ChEye(5,2);
 ChMouth(5,0);
 ChMotion(5,1);
 VoicePlay("E010510100_05_050");
-MsgDisp("Hiiragi","It's neither deep nor shallow. Useful
-gadgets aren't just for cleaning. They
-help because they address inconvenience.");
+MsgDisp("Hiiragi","It's neither deep nor shallow.
+Useful gadgets aren't just for cleaning.
+They help because they address inconvenience.");
 ChEye(5,4);
 ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("E010510100_05_060");
-MsgDisp("Hiiragi","We mustn't eliminate inconvenience
-from the start.");
+MsgDisp("Hiiragi","We mustn't eliminate inconvenience from the
+start.");
 MsgDisp("主人公","Um...");
 ChEye(5,2);
 ChMouth(5,4);

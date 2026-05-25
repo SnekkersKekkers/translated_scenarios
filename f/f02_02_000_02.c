@@ -6,8 +6,7 @@ ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F020200002_02_000");
-MsgDisp("Sassa","There's a lot of legends about that
-church.
+MsgDisp("Sassa","There's a lot of legends about that church.
 Most of them sound like jokes, though.");
 MsgDisp("主人公","Yeah, people find them amusing.
 But the story about the prince and the
@@ -16,8 +15,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200002_02_010");
-MsgDisp("Sassa","From what I heard, there's no more prince
-or princess.
+MsgDisp("Sassa","From what I heard, there's no more prince or
+princess.
 Instead, there's Mikage-sensei.");
 MsgDisp("主人公","｛Mikage＊＊｝?");
 ChEye(2,0);
@@ -25,8 +24,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200002_02_020");
 MsgDisp("Sassa","Yeah, Mikage-sensei. You know, he's the
-advisor for the track and field club, but
-he doesn't show up to practices.");
+advisor for the track and field club, but he
+doesn't show up to practices.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -55,7 +54,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200002_02_060");
 MsgDisp("Sassa","Come on.
-It's not a manga, so no matter how fast
-you run, a dust cloud won't appear.");
+It's not a manga, so no matter how fast you
+run, a dust cloud won't appear.");
 MsgDisp("主人公","(...We had fun going home while discussing
 that story.)");

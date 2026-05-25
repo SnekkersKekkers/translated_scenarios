@@ -55,8 +55,8 @@ With your skill, you'll be great as usual.");
     ChMotion(1,0);
     VoicePlay("H480100000_01_050");
     MsgDisp("Kazama","Hey, have some confidence.
-I won't forgive any judge who gives you a
-bad score.");
+I won't forgive any judge who gives you a bad
+score.");
     MsgDisp("主人公","Huh∋");
     ChEye(1,3);
     ChMouth(1,3);

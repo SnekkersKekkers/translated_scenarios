@@ -18,8 +18,7 @@ switch (ChPrmGet(5,6)){
 ｛Hiiragi＊＊＊｝, are you alone?");
     ChMotion(5,4);
     VoicePlay("I350500000_05_010");
-    MsgDisp("Hiiragi","No, I believe that someone arrived
-earlier...
+    MsgDisp("Hiiragi","No, I believe that someone arrived earlier...
 A support staff of the theater troupe.");
     ChMouth(5,4);
     ChMotion(5,0);
@@ -31,8 +30,8 @@ Go ahead.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ feels different from how he
-is at school...He is the chairman of the
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝ feels different from how he is
+at school... He is the chairman of the
 theater troupe, huh.)");
     break ;
     case 3:
@@ -56,15 +55,15 @@ well.");
     ChMotion(5,0);
     VoicePlay("I350500000_05_060");
     MsgDisp("Hiiragi","Ah, and another thing.
-The meetings we have here always end up
-going well.");
+The meetings we have here always end up going
+well.");
     MsgDisp("主人公","Hm?
 Really?");
     ChEye(5,4);
     VoicePlay("I350500000_05_070");
     MsgDisp("Hiiragi","Yes.
-Perhaps it's due to the smell of coffee,
-and your smile?");
+Perhaps it's due to the smell of coffee, and
+your smile?");
     VoicePlay("I350500000_43_000");
     MsgDisp("Troupe","Chairman?");
     ChEye(5,0);
@@ -95,8 +94,7 @@ Let's do our best smiling!)");
     ChEye(5,4);
     VoicePlay("I350500000_05_100");
     MsgDisp("Hiiragi","Good afternoon.
-May I order two cups of coffee for
-delivery?");
+May I order two cups of coffee for delivery?");
     MsgDisp("主人公","Yes, understood.");
     ChEye(5,0);
     MsgDisp("","　　　　　　　　　　 ・
@@ -104,8 +102,7 @@ delivery?");
 　　　　　　　　　　 ・");
     SEPlay("EV_SE_043");
     Wait(60,0);
-    MsgDisp("主人公","Then, please write down the delivery
-address.");
+    MsgDisp("主人公","Then, please write down the delivery address.");
     ChMotion(5,4);
     VoicePlay("I350500000_05_110");
     MsgDisp("Hiiragi","No need, I will show you there myself.");

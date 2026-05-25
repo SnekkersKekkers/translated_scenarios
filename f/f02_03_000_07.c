@@ -19,8 +19,8 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("F020300007_03_010");
 MsgDisp("Honda","Oh, and insect collecting.
-To see a bug I've only seen in books with
-my own eyes...!");
+To see a bug I've only seen in books with my
+own eyes...!");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,2);
@@ -43,8 +43,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("F020300007_03_050");
-MsgDisp("Honda","I wouldn't even need to go all the way to
-a forest! I'd be totally fine with bugs
-you find in foreign homes!");
+MsgDisp("Honda","I wouldn't even need to go all the way to a
+forest! I'd be totally fine with bugs you
+find in foreign homes!");
 MsgDisp("主人公","(Bugs that show up in homes, huh...
 That's such a ｛Honda＊＊｝ thing to say...)");

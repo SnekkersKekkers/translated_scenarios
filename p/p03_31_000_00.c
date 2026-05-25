@@ -29,9 +29,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("P033100000_31_020");
-MsgDisp("Goro","Hm, I see. Then I'll have to get something
-you recommend. Looking ・ forward ・ to ・
-it♪");
+MsgDisp("Goro","Hm, I see.
+Then I'll have to get something you
+recommend. Looking ・ forward ・ to ・ it♪");
 MsgDisp("主人公","Understood!");
 MsgClose();
 ScrFadeOut(0);

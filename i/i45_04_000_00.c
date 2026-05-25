@@ -67,8 +67,8 @@ overshadow the main flower arrangement.");
     ChMotion(4,0,1);
     VoicePlay("I450400000_04_070");
     MsgDisp("Nanatsumori","It's good.
-My eyes went to the flower arrangement,
-then naturally went to the plate.");
+My eyes went to the flower arrangement, then
+naturally went to the plate.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -80,8 +80,8 @@ You're really into this, huh?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(｛Nanatsumori＊｝ came to check on me,
-right? I'm happy I got complimented!)");
+    MsgDisp("主人公","(｛Nanatsumori＊｝ came to check on me, right?
+I'm happy I got complimented!)");
     break ;
     case 4:
     case 5:
@@ -101,8 +101,9 @@ Good work.");
     ChEyeOpenLevel(4,0);
     VoicePlay("I450400000_04_100");
     MsgDisp("Nanatsumori","...Smells nice.");
-    MsgDisp("主人公","Really? Ah, I was organizing the potpourri
-earlier. Maybe that's why?");
+    MsgDisp("主人公","Really?
+Ah, I was organizing the potpourri earlier.
+Maybe that's why?");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0,1);
@@ -118,8 +119,7 @@ But, maybe there's something else...");
     SEWait();
     VoicePlay("I450400000_04_120");
     MsgDisp("Nanatsumori","......");
-    MsgDisp("主人公","Um, ｛Nanatsumori＊｝, you're a little
-close...");
+    MsgDisp("主人公","Um, ｛Nanatsumori＊｝, you're a little close...");
     MsgClose();
     ChEye(4,5);
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -144,8 +144,7 @@ Work hard, 'kay?");
     MsgDisp("Nanatsumori","Damn...
 The good smell was from her, herself...");
     MsgDisp("主人公","(Haa, that surprised me...
-｛Nanatsumori＊｝ came to cheer me on,
-right?)");
+｛Nanatsumori＊｝ came to cheer me on, right?)");
     break ;
     default :
     DbgAssert(1);

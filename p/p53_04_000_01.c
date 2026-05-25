@@ -7,8 +7,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Uwaah...there's so many people in the
-audience. It seems like it's more than
-last year. Haa, I'm nervous.)");
+audience. It seems like it's more than last
+year. Haa, I'm nervous.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -34,9 +34,9 @@ gaming music.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400001_04_030");
-    MsgDisp("Nanatsumori","Idiot. Because I'm looking forwards to it,
-is why you need to enjoy it with all that
-you've got.");
+    MsgDisp("Nanatsumori","Idiot. Because I'm looking forwards to it, is
+why you need to enjoy it with all that you've
+got.");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("P530400001_04_040");
@@ -48,8 +48,7 @@ Isn't that why you chose game music?");
     ChMotion(4,1,1);
     VoicePlay("P530400001_04_050");
     MsgDisp("Nanatsumori","Right, that face.
-The face of a hero stepping onto 
-the field.");
+The face of a hero stepping onto the field.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Then, I'm off!");
@@ -58,15 +57,14 @@ the field.");
     ChMotion(4,0,1);
     VoicePlay("P530400001_04_060");
     MsgDisp("Nanatsumori","I wish you a good fight!");
-    MsgDisp("主人公","(Alright, for everyone who came all this
-way to listen, let's deliver a good
-performance!)");
+    MsgDisp("主人公","(Alright, for everyone who came all this way
+to listen, let's deliver a good performance!)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(Uwaah...there's so many people in the
-audience. It seems like it's more than
-last year. Haa, I'm nervous.)");
+audience. It seems like it's more than last
+year. Haa, I'm nervous.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -88,8 +86,8 @@ The kind that entertains people.");
     VoicePlay("P530400001_04_090");
     MsgDisp("Nanatsumori","You're the one who creates that world, so
 it's hopeless if you're like this.");
-    MsgDisp("主人公","But if I think about everyone who knows
-this song, failure is scary....");
+    MsgDisp("主人公","But if I think about everyone who knows this
+song, failure is scary....");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -112,9 +110,9 @@ looking forwards to it, right?");
     MsgDisp("Nanatsumori","You've done everything you can until now.
 ＧＯ!");
     MsgDisp("主人公","Yes, I'm off!");
-    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for
-encouraging me! Alright, let's do our
-best!)");
+    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for encouraging
+me!
+Alright, let's do our best!)");
     break ;
     default :
     DbgAssert(1);

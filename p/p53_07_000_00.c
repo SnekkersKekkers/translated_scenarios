@@ -20,8 +20,8 @@ What should I do, I'm so nervous...)");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700000_07_010");
-    MsgDisp("Mikage","If you're that anxious, you won't be able
-to enjoy yourself, you know?");
+    MsgDisp("Mikage","If you're that anxious, you won't be able to
+enjoy yourself, you know?");
     MsgDisp("主人公","But...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -34,9 +34,9 @@ I can't do that.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P530700000_07_030");
-    MsgDisp("Mikage","That's right, the biggest blunder would be
-to do nothing. If you do something, the
-worst thing would already be averted.");
+    MsgDisp("Mikage","That's right, the biggest blunder would be to
+do nothing. If you do something, the worst
+thing would already be averted.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -63,8 +63,7 @@ What should I do, I'm so nervous...)");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P530700000_07_060");
-    MsgDisp("Mikage","What's this, what's this, I can't watch
-this.");
+    MsgDisp("Mikage","What's this, what's this, I can't watch this.");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -79,8 +78,8 @@ something you like?");
     ChMotion(7,1);
     VoicePlay("P530700000_07_080");
     MsgDisp("Mikage","Fail? If you ask me, continuing this club
-with your friends and standing on this
-stage is already a success.");
+with your friends and standing on this stage
+is already a success.");
     MsgDisp("主人公","But, if I make a mistake, I'll just be a
 nuisance to everyone.");
     ChEye(7,0);
@@ -88,16 +87,16 @@ nuisance to everyone.");
     ChMotion(7,0);
     VoicePlay("P530700000_07_090");
     MsgDisp("Mikage","Hey. Would the other members of the club
-think your mistake was a nuisance? They
-wouldn't right?");
+think your mistake was a nuisance?
+They wouldn't right?");
     MsgDisp("主人公","Y-Yeah.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P530700000_07_100");
     MsgDisp("Mikage","Right?
-You've come this far with good friends,
-it's already a success.");
+You've come this far with good friends, it's
+already a success.");
     MsgDisp("主人公","｛Mikage＊＊｝...");
     SEPlay("EV_SE_038");
     SEWait();

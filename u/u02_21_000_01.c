@@ -5,8 +5,8 @@ ChOpen(21,255,2,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U022100001_21_000");
 MsgDisp("Michiru","Wow...that view of the night sky was
-beautiful. The story of the zodiac signs
-was also very romantic.");
+beautiful. The story of the zodiac signs was
+also very romantic.");
 MsgDisp("主人公","Yeah.
 It was mesmerizing, wasn't it?");
 ChEye(21,0);
@@ -19,8 +19,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("U022100001_21_020");
-MsgDisp("Michiru","...If only it were a date with a boy maybe
-it would have been more fun...?");
+MsgDisp("Michiru","...If only it were a date with a boy maybe it
+would have been more fun...?");
 MsgDisp("主人公","Huh, ｛みちる＊｝?");
 ChEye(21,4);
 ChMouth(21,4);

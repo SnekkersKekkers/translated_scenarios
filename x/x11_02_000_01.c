@@ -16,8 +16,7 @@ People are talking about it a lot.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("X110200001_02_010");
-    MsgDisp("Sassa","I bragged about having a talented
-manager.");
+    MsgDisp("Sassa","I bragged about having a talented manager.");
     MsgDisp("主人公","(I'm glad ｛Sassa＊＊｝ is happy.
 Let's continue to do our best in club
 activities!)");
@@ -37,8 +36,8 @@ They're the talk of the school.");
     ChMotion(2,4);
     ChCheek(2,5);
     VoicePlay("X110200001_02_030");
-    MsgDisp("Sassa","Yeah, because we got a lot of good
-records. That's thanks to my manager, too.
+    MsgDisp("Sassa","Yeah, because we got a lot of good records.
+That's thanks to my manager, too.
 Thank you!");
     MsgDisp("主人公","(Okay, everyone's records.
 I'll do my best to make it even better!)");

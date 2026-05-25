@@ -21,8 +21,8 @@ You sound like you're doing well.");
     MsgDisp("主人公","Of course, it's a New Year!");
     VoicePlay("S030400001_04_030");
     MsgDisp("Nanatsumori","Well, that's true.
-I'm not sure if it's a good idea to stay
-home for New Years.");
+I'm not sure if it's a good idea to stay home
+for New Years.");
     VoicePlay("S030400001_04_040");
     MsgDisp("Nanatsumori","Okay, I'll go with you.
 I'll come pick you up after I get ready.");

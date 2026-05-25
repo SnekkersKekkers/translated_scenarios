@@ -16,8 +16,8 @@ Welcome.");
     MsgDisp("主人公","Yes, and you, ｛Hiiragi＊＊＊｝?");
     ChMotion(5,4);
     VoicePlay("I250500000_05_010");
-    MsgDisp("Hiiragi","I was looking for a magazine that I had
-done an interview for.");
+    MsgDisp("Hiiragi","I was looking for a magazine that I had done
+an interview for.");
     ChMotion(5,2);
     VoicePlay("I250500000_05_020");
     MsgDisp("Hiiragi","Aah, the entertainment corner...
@@ -28,7 +28,7 @@ I shall go look.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(I see, ｛Hiiragi＊＊＊｝ is the chairman of a
-theater company...He's close by, but he
+theater company... He's close by, but he
 really is an amazing person.)");
     break ;
     case 3:
@@ -57,8 +57,8 @@ Was it difficult to understand?");
     ChEye(5,3);
     VoicePlay("I250500000_05_060");
     MsgDisp("Hiiragi","I beg your pardon.
-Well, when I think of a joke that is
-easier to understand, I will return.");
+Well, when I think of a joke that is easier
+to understand, I will return.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("I250500000_05_070");
@@ -67,7 +67,8 @@ easier to understand, I will return.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(...Hm? What did ｛Hiiragi＊＊＊｝ come for?
+    MsgDisp("主人公","(...Hm?
+What did ｛Hiiragi＊＊＊｝ come for?
 Could it be that he came to check on me?)");
     break ;
     case 4:

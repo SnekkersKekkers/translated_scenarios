@@ -21,9 +21,9 @@ Sorry you came all this way.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("H4A0200001_02_010");
-    MsgDisp("Sassa","Why are you apologizing? All you have to
-do is receive your results. No one else
-matters.");
+    MsgDisp("Sassa","Why are you apologizing?
+All you have to do is receive your results.
+No one else matters.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -35,9 +35,9 @@ That's why it's both fun and hard...right?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("H4A0200001_02_030");
-    MsgDisp("Sassa","Frustration is proof you took this
-seriously. If you don't self-assess, it's
-disrespectful of your own hard work.");
+    MsgDisp("Sassa","Frustration is proof you took this seriously.
+If you don't self-assess, it's disrespectful
+of your own hard work.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,1);
@@ -46,8 +46,8 @@ disrespectful of your own hard work.");
 Right?
 Look forward and keep going!");
     MsgDisp("主人公","(It's just as ｛Sassa＊＊｝ says.
-I lost, but I'm glad I stayed in the
-rhythmic gymnastics club.)");
+I lost, but I'm glad I stayed in the rhythmic
+gymnastics club.)");
     break ;
     default :
     DbgAssert(1);

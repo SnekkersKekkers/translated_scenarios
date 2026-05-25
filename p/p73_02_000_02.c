@@ -7,9 +7,9 @@ switch (ChPrmGet(2,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing traditional
-wedding dresses. I think I was able to
-make it pretty but...)");
+    MsgDisp("主人公","(This year we're showing traditional wedding
+dresses.
+I think I was able to make it pretty but...)");
     VoicePlay("P730200002_02_000");
     MsgDisp("Sassa?","Uwo...seriously...");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝.");
@@ -20,9 +20,9 @@ make it pretty but...)");
     VoicePlay("P730200002_02_010");
     MsgDisp("Sassa","It's nice.
 You're a bride this year—");
-    MsgDisp("主人公","Yeah. It's the handicraft's club
-tradition, the last cultural festival
-we'll do wedding dresses.");
+    MsgDisp("主人公","Yeah. It's the handicraft's club tradition,
+the last cultural festival we'll do wedding
+dresses.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -38,9 +38,8 @@ we'll do wedding dresses.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P730200002_02_040");
-    MsgDisp("Sassa","You look so good that I don't care about
-all the things I was going to talk to you
-about.");
+    MsgDisp("Sassa","You look so good that I don't care about all
+the things I was going to talk to you about.");
     MsgDisp("主人公","Thank you...");
     SEPlay("EV_SE_038");
     SEWait();
@@ -63,9 +62,9 @@ Alr—iight, let's do our best!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing traditional
-wedding dresses. I think I was able to
-make it pretty but...)");
+    MsgDisp("主人公","(This year we're showing traditional wedding
+dresses.
+I think I was able to make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -85,9 +84,9 @@ decided.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P730200002_02_080");
-    MsgDisp("Sassa","Sorry to everyone else. but when you're
-this lovely and cute, you're already
-overall victorious.");
+    MsgDisp("Sassa","Sorry to everyone else. but when you're this
+lovely and cute, you're already overall
+victorious.");
     MsgDisp("主人公","It's not a matter of win or lose?
 But, thank you.");
     SEPlay("EV_SE_038");
@@ -98,7 +97,8 @@ But, thank you.");
     VoicePlay("P730200002_02_090");
     MsgDisp("Sassa","Ah, it's starting.");
     MsgDisp("主人公","Thanks to ｛Sassa＊＊｝, I have some
-confidence. Thank you. I'm off then.");
+confidence.
+Thank you. I'm off then.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

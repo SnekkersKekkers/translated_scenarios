@@ -26,8 +26,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("P640700003_07_030");
-MsgDisp("Mikage","It's not me who you should say sorry to,
-but the beautifully grown herbs?");
+MsgDisp("Mikage","It's not me who you should say sorry to, but
+the beautifully grown herbs?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

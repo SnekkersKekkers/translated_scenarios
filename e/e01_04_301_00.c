@@ -52,8 +52,8 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("E010430100_04_040");
 MsgDisp("Nanatsumori","...Bugs!
-The nighttime rainforest section has way
-too many bugs!");
+The nighttime rainforest section has way too
+many bugs!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

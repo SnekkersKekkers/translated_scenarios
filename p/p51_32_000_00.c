@@ -1,9 +1,8 @@
 BGOpen("sc604",0);
 ScrFadeIn(0);
 VoicePlay("P513200000_33_000");
-MsgDisp("Manager","Our brass band will be performing
-classical music at this year's school
-festival.");
+MsgDisp("Manager","Our brass band will be performing classical
+music at this year's school festival.");
 SEPlay("EV_SE_CLAP_004");
 Wait(100,0);
 MsgClose();
@@ -18,8 +17,8 @@ ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P513200000_32_010");
 MsgDisp("VP Himuro","What's wrong?
-Your strange behavior makes people around
-you uneasy.");
+Your strange behavior makes people around you
+uneasy.");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P513200000_32_020");

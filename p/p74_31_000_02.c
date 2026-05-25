@@ -17,8 +17,8 @@ ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("P743100002_31_010");
 MsgDisp("Goro","Hey you.
-Why don't you try walking down a real
-runway wearing a dress I designed someday?");
+Why don't you try walking down a real runway
+wearing a dress I designed someday?");
 MsgDisp("主人公","(Yay, a huge success!
 I was praised by Goro-sensei♪)");
 MsgClose();

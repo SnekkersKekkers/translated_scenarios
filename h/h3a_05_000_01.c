@@ -27,9 +27,9 @@ Thank you.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("H3A0500001_05_030");
-    MsgDisp("Hiiragi","It's the same for everyone in the
-audience. So face forward and puff your
-chest out with confidence.");
+    MsgDisp("Hiiragi","It's the same for everyone in the audience.
+So face forward and puff your chest out with
+confidence.");
     MsgDisp("主人公","Yes.");
     ChEye(5,3);
     ChMotion(5,0);

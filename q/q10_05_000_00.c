@@ -11,13 +11,13 @@ ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("Q100500000_05_000");
 MsgDisp("Hiiragi","So it reflects on the river surface.
-I wonder if that was the intention from
-the beginning?");
+I wonder if that was the intention from the
+beginning?");
 MsgDisp("主人公","Hmmm, I don't know...");
 ChMotion(5,0);
 VoicePlay("Q100500000_05_010");
-MsgDisp("Hiiragi","I can't believe a view that fascinates
-even the future generations was created by
+MsgDisp("Hiiragi","I can't believe a view that fascinates even
+the future generations was created by
 accident.");
 VoicePlay("Q100500000_05_020");
 MsgDisp("Hiiragi","There must have been an amazing director.");
@@ -29,16 +29,16 @@ MsgDisp("Hiiragi","I'm happy if you think so.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q100500000_05_040");
-MsgDisp("Hiiragi","...It would be wonderful if I could make
-use of what I saw and experienced here in
+MsgDisp("Hiiragi","...It would be wonderful if I could make use
+of what I saw and experienced here in
 Nagasaki on stage.");
 MsgDisp("主人公","Yeah, I'm looking forward to it.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("Q100500000_05_050");
 MsgDisp("Hiiragi","Now, would you mind if we take a
-commemorative picture, so that we can
-always remember this day?");
+commemorative picture, so that we can always
+remember this day?");
 MsgDisp("主人公","I don't mind.");
 MsgClose();
 ScrFadeOut(0,0);

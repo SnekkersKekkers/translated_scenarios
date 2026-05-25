@@ -12,8 +12,8 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,0);
     VoicePlay("X120500000_05_000");
     MsgDisp("Hiiragi","The orchestra has been garnering a lot of
-attention recently. You might even be able
-to aim for a high spot in the contest.");
+attention recently. You might even be able to
+aim for a high spot in the contest.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

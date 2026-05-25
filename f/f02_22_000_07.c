@@ -17,8 +17,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200007_22_010");
-MsgDisp("Hikaru","Right? Hikaru also wants to go and hang out
-with Mari～♪");
+MsgDisp("Hikaru","Right?
+Hikaru also wants to go and hang out with
+Mari～♪");
 MsgDisp("主人公","Yeah, let's go!");
 ChEye(22,3);
 ChMouth(22,3);
@@ -28,7 +29,7 @@ VoicePlay("F022200007_22_020");
 MsgDisp("Hikaru","Yay!
 Where should we go play?
 Hikaru will think about it lots♪");
-MsgDisp("主人公","(｛ひかる＊｝ is already in the mood
-to play!)");
+MsgDisp("主人公","(｛ひかる＊｝ is already in the mood to
+play!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,8 +12,8 @@ That kimono is perfect.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("S060400001_04_010");
-    MsgDisp("Nanatsumori","You have a different charm to you than
-those professional model girls...");
+    MsgDisp("Nanatsumori","You have a different charm to you than those
+professional model girls...");
     MsgDisp("主人公","Really?
 That's a little embarrassing.");
     ChEye(4,0);
@@ -51,8 +51,8 @@ professional model.");
     ChMotion(4,1,1);
     VoicePlay("S060400001_04_060");
     MsgDisp("Nanatsumori","Yep.
-The kind of filter that makes you look
-more beautiful than usual.");
+The kind of filter that makes you look more
+beautiful than usual.");
     MsgDisp("主人公","(Yay.
 Looks like ｛Nanatsumori＊｝ is happy!)");
     break ;
@@ -82,8 +82,8 @@ Really so beautiful...");
     ChMotion(4,0,1);
     VoicePlay("S060400001_04_100");
     MsgDisp("Nanatsumori","Yeah.
-I'm definitely the happiest man in the
-world right now.");
+I'm definitely the happiest man in the world
+right now.");
     MsgDisp("主人公","(Yay!
 ｛Nanatsumori＊｝ seems happy!)");
     break ;

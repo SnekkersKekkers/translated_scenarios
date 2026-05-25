@@ -24,9 +24,8 @@ Did you need something today?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I550200000_02_020");
-    MsgDisp("Sassa","Right, my place is going to have some
-guests over soon, so I was asked to get
-some snacks.");
+    MsgDisp("Sassa","Right, my place is going to have some guests
+over soon, so I was asked to get some snacks.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -99,8 +98,8 @@ I liked the matcha.");
     ChMotion(2,4);
     VoicePlay("I550200000_02_110");
     MsgDisp("Sassa","They were a little small for me.
-But, I guess that's what Japanese sweets
-are about.");
+But, I guess that's what Japanese sweets are
+about.");
     MsgDisp("主人公","Y-Yeah...");
     ChEye(2,0);
     ChMouth(2,4);
@@ -114,8 +113,8 @@ Thanks for the food!");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(｛Sassa＊＊｝...did the small amount of
-food just serve as an appetizer?)");
+    MsgDisp("主人公","(｛Sassa＊＊｝...did the small amount of food
+just serve as an appetizer?)");
     break ;
     case 4:
     case 5:
@@ -126,8 +125,8 @@ Welcome.");
     ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I550200000_02_130");
-    MsgDisp("Sassa","｛主人公｝, you're working hard again
-today, huh.");
+    MsgDisp("Sassa","｛主人公｝, you're working hard again today,
+huh.");
     MsgDisp("主人公","Yes, what are you looking for today?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -151,11 +150,11 @@ You came to check on me, right?");
     ChMotion(2,0);
     VoicePlay("I550200000_02_160");
     MsgDisp("Sassa","If you say that, then it's fine, but a big
-guy like me coming to a store like this
-for no reason...isn't it weird?");
-    MsgDisp("主人公","Not at all, the manager would be happy
-that you came in for no reason. We have a
-lot of single male customers, too.");
+guy like me coming to a store like this for
+no reason...isn't it weird?");
+    MsgDisp("主人公","Not at all, the manager would be happy that
+you came in for no reason.
+We have a lot of single male customers, too.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -165,11 +164,11 @@ lot of single male customers, too.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I550200000_02_180");
-    MsgDisp("Sassa","Got it. Then I'll have something to eat.
-Please give me something with volume and
-matcha.");
-    MsgDisp("主人公","(｛Sassa＊＊｝ really cares about my
-part-time job.
+    MsgDisp("Sassa","Got it.
+Then I'll have something to eat. Please give
+me something with volume and matcha.");
+    MsgDisp("主人公","(｛Sassa＊＊｝ really cares about my part-time
+job.
 That makes me happy.)");
     break ;
     default :

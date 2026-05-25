@@ -26,14 +26,14 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110001_01_030");
 MsgDisp("Kazama","Not a fan?
-I liked how you smelled like cookies when
-we were kids.");
+I liked how you smelled like cookies when we
+were kids.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("G020110001_01_040");
-MsgDisp("Kazama","It's why...even in the UK, I'd ask my mom
-to make cookies all the time...");
+MsgDisp("Kazama","It's why...even in the UK, I'd ask my mom to
+make cookies all the time...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -47,8 +47,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("G020110001_01_060");
-MsgDisp("Kazama","And thanks to that, I ended up liking
-baked sweets in general.");
+MsgDisp("Kazama","And thanks to that, I ended up liking baked
+sweets in general.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -68,8 +68,8 @@ ChMotion(1,1);
 VoicePlay("G020110001_01_090");
 MsgDisp("Kazama","...Huh?
 It doesn't smell like roses anymore.");
-MsgDisp("主人公","(I can't believe I'm the reason
-｛Kazama＊＊｝ likes sweets...
+MsgDisp("主人公","(I can't believe I'm the reason ｛Kazama＊＊｝
+likes sweets...
 That's kind of embarrassing.)");
 BGMStop();
 MsgClose();

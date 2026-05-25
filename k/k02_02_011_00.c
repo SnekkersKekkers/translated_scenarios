@@ -34,17 +34,17 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("K020201100_02_030");
-MsgDisp("Sassa","I'm relieved. I was thinking hard about
-the timing the whole day today...I'm
-tired.");
+MsgDisp("Sassa","I'm relieved.
+I was thinking hard about the timing the
+whole day today... I'm tired.");
 MsgDisp("主人公","Hehe, so that's what it was.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("K020201100_02_040");
 MsgDisp("Sassa","Yeah.
-But you know, I'm glad we spent a special
-day like your birthday together.");
+But you know, I'm glad we spent a special day
+like your birthday together.");
 MsgDisp("主人公","Yeah, I'm glad too.");
 ChEye(2,3);
 ChMouth(2,4);
@@ -56,7 +56,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 Wait(30);
-MsgDisp("主人公","(What a great birthday! I'm happy I got a
-present from ｛Sassa＊＊｝.)");
+MsgDisp("主人公","(What a great birthday!
+I'm happy I got a present from ｛Sassa＊＊｝.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -7,15 +7,15 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,4,1);
     VoicePlay("L040500006_05_000");
     MsgDisp("Hiiragi","Individualistic, wild, rough...
-In any case, I can see a hidden potential
-in this.");
+In any case, I can see a hidden potential in
+this.");
     MsgDisp("主人公","Um...");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("L040500006_05_010");
     MsgDisp("Hiiragi","This is the result of your overflowing
-passion. I'll accept that. Thank you.
-Well, farewell.");
+passion.
+I'll accept that. Thank you. Well, farewell.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -85,8 +85,8 @@ I am in quite the pleasant mood.");
     ChEye(5,3);
     VoicePlay("L040500006_05_090");
     MsgDisp("Hiiragi","The objective of a gift is to make the
-recipient happy, is it not? Please look at
-me. Do I look sad?");
+recipient happy, is it not?
+Please look at me. Do I look sad?");
     MsgDisp("主人公","No, you look like you're having fun.");
     ChEye(5,4);
     ChMouth(5,3);
@@ -99,8 +99,7 @@ quite a good mood.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("L040500006_05_110");
-    MsgDisp("Hiiragi","This chocolate as a whole may resemble
-you.");
+    MsgDisp("Hiiragi","This chocolate as a whole may resemble you.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝, that's a little...");
     ChEye(5,4);
     ChMouth(5,3);
@@ -112,8 +111,8 @@ But, truly, thank you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(He seemed happy, but I should've given
-him a proper chocolate...)");
+    MsgDisp("主人公","(He seemed happy, but I should've given him a
+proper chocolate...)");
     break ;
     default :
     DbgAssert(1);

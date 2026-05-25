@@ -10,15 +10,15 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F032200000_22_410");
-MsgDisp("Hikaru","Whether it's love where you devote
-yourself to one person, or love you enjoy
-with many. There's no right answer.");
+MsgDisp("Hikaru","Whether it's love where you devote yourself
+to one person, or love you enjoy with many.
+There's no right answer.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_420");
-MsgDisp("Hikaru","Hikaru thinks Mari is suited to both types
-of love though, right?");
+MsgDisp("Hikaru","Hikaru thinks Mari is suited to both types of
+love though, right?");
 MsgDisp("主人公","Eh?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -28,9 +28,9 @@ MsgDisp("Hikaru","Ehe▼
 There seem to be a lot of chances for love
 around Mari♪");
 MsgDisp("主人公","I-Is that so, I wonder?");
-MsgDisp("主人公","...Huh? And before I knew it, we're
-talking about me! What about
-｛ひかる＊｝'s love—");
+MsgDisp("主人公","...Huh?
+And before I knew it, we're talking about me!
+What about ｛ひかる＊｝'s love—");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

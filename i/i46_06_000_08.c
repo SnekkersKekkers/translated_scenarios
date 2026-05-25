@@ -36,16 +36,16 @@ managing it.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600008_06_030");
-    MsgDisp("Himuro","I'm thinking that I should smack our
-manager since they've been slacking and
-leaving all the work to you recently.");
+    MsgDisp("Himuro","I'm thinking that I should smack our manager
+since they've been slacking and leaving all
+the work to you recently.");
     MsgDisp("主人公","Huh∋");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("I460600008_06_040");
-    MsgDisp("Himuro","You're the only one who can manage like
-our manager.
+    MsgDisp("Himuro","You're the only one who can manage like our
+manager.
 I'm counting on you.");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(Alright, let's work hard today, too!)");
@@ -58,8 +58,8 @@ I'm counting on you.");
     ChMotion(6,0);
     VoicePlay("I460600008_06_050");
     MsgDisp("Himuro","Today drew a huge crowd, too.
-This place is getting more and more
-popular thanks to a certain someone.");
+This place is getting more and more popular
+thanks to a certain someone.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -89,14 +89,14 @@ Why don't you consider it as an option?");
     ChCheek(6,5);
     VoicePlay("I460600008_06_090");
     MsgDisp("Himuro","If you make it big, I'll have you hire me.");
-    MsgDisp("主人公","Running a flower shop with ｛Himuro＊＊｝,
-huh. It might be nice.");
+    MsgDisp("主人公","Running a flower shop with ｛Himuro＊＊｝, huh.
+It might be nice.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I460600008_06_100");
-    MsgDisp("Himuro","...Just so you know, I'll have you pay me
-a high salary.");
+    MsgDisp("Himuro","...Just so you know, I'll have you pay me a
+high salary.");
     MsgDisp("主人公","Hehe.
 Then work hard for it, 'kay?");
     ChEye(6,0);
@@ -112,8 +112,7 @@ Then work hard for it, 'kay?");
     MsgDisp("Himuro","That's enough idle chatter.
 Let's get back to work.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(It's fun working part-time with
-｛Himuro＊＊｝.
+    MsgDisp("主人公","(It's fun working part-time with ｛Himuro＊＊｝.
 I'm glad I chose to work here!)");
     break ;
     default :

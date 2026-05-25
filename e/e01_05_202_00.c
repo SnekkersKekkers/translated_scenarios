@@ -22,8 +22,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("E010520200_03_010");
 MsgDisp("Honda","Hello!
-I was just surprised by how popular
-Yano-kun is.");
+I was just surprised by how popular Yano-kun
+is.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -34,8 +34,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520200_05_030");
-MsgDisp("Hiiragi","But I run the theater company for the sake
-of the customers. Honda-kun is incredibly
+MsgDisp("Hiiragi","But I run the theater company for the sake of
+the customers. Honda-kun is incredibly
 popular with the children.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -54,8 +54,7 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("E010520200_03_030");
 MsgDisp("Honda","Yeah, he suddenly said 'I'm going to
-challenge the quiz king!' and blocked my
-way.");
+challenge the quiz king!' and blocked my way.");
 MsgDisp("主人公","Hehe, that's cute.");
 ChEye(5,0);
 ChEye(3,0);
@@ -68,8 +67,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("E010520200_03_050");
-MsgDisp("Honda","But whenever I'd answer, the challenger
-would get upset and start crying.");
+MsgDisp("Honda","But whenever I'd answer, the challenger would
+get upset and start crying.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -93,24 +92,23 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("E010520200_03_080");
-MsgDisp("Honda","Yup. The challenger was smiling widely
-after getting the answer right. It was a
-relief to see.");
+MsgDisp("Honda","Yup. The challenger was smiling widely after
+getting the answer right.
+It was a relief to see.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520200_05_060");
 MsgDisp("Hiiragi","Not only that, but the parents said they'd
-see the play with their children next
-time.");
+see the play with their children next time.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010520200_05_070");
-MsgDisp("Hiiragi","Thanks to Honda-kun we were able to
-attract a younger audience.");
-MsgDisp("主人公","I see, if mother and child are together,
-I'm sure they'll both be very happy.");
+MsgDisp("Hiiragi","Thanks to Honda-kun we were able to attract a
+younger audience.");
+MsgDisp("主人公","I see, if mother and child are together, I'm
+sure they'll both be very happy.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -123,10 +121,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520200_05_080");
 MsgDisp("Hiiragi","Hmmm...quizzes and drama...
-Couldn't that lead to something
-interesting?");
-MsgDisp("主人公","(It seems that ｛Hiiragi＊＊＊｝ and
-｛Honda＊＊｝ can work well together.)");
+Couldn't that lead to something interesting?");
+MsgDisp("主人公","(It seems that ｛Hiiragi＊＊＊｝ and ｛Honda＊＊｝
+can work well together.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

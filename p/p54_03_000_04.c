@@ -16,8 +16,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("P540300004_03_010");
-MsgDisp("Honda","This is the first time I've cried
-listening to a performance.");
+MsgDisp("Honda","This is the first time I've cried listening
+to a performance.");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -30,8 +30,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("P540300004_03_030");
-MsgDisp("Honda","I know you've been practicing with the
-utmost effort.");
+MsgDisp("Honda","I know you've been practicing with the utmost
+effort.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,2);
 ChMouth(3,4);

@@ -14,8 +14,7 @@ VoicePlay("K010700103_07_010");
 MsgDisp("Mikage","Do you not use this? Well, it's fine.
 After all, it's something you gave me.
 I'll use it carefully.");
-MsgDisp("主人公","(Maybe I should've chosen something
-else...)");
+MsgDisp("主人公","(Maybe I should've chosen something else...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

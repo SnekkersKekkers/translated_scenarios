@@ -4,16 +4,16 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020730200_07_000");
-MsgDisp("Mikage","The other day, Vice Principal Himuro
-really let me have it...");
+MsgDisp("Mikage","The other day, Vice Principal Himuro really
+let me have it...");
 MsgDisp("主人公","Are you okay?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020730200_07_010");
 MsgDisp("Mikage","Oh, I'm used to it, but I feel like Himuro
-can see right through me, and it's a
-little scary.");
+can see right through me, and it's a little
+scary.");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -27,17 +27,17 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020730200_07_030");
-MsgDisp("Mikage","I really have nothing to teach you guys,
-I'll never be like Vice Principal Himuro.");
-MsgDisp("主人公","I think ｛Mikage＊＊｝ as ｛Mikage＊＊｝
-is just fine.");
+MsgDisp("Mikage","I really have nothing to teach you guys, I'll
+never be like Vice Principal Himuro.");
+MsgDisp("主人公","I think ｛Mikage＊＊｝ as ｛Mikage＊＊｝ is
+just fine.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("G020730200_07_040");
-MsgDisp("Mikage","Thanks. To Vice Principal Himuro, I
-probably just look like I'm enjoying
-school life～ ...well, that is the truth.");
+MsgDisp("Mikage","Thanks. To Vice Principal Himuro, I probably
+just look like I'm enjoying school life～
+...well, that is the truth.");
 ChEye(7,1);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -59,8 +59,8 @@ VoicePlay("G020730200_07_070");
 MsgDisp("Mikage","Let's go home.
 I have a bad feeling about this.");
 MsgDisp("主人公","(The sense of distance with students...
-I wonder what Vice Principal Himuro said
-to him?)");
+I wonder what Vice Principal Himuro said to
+him?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

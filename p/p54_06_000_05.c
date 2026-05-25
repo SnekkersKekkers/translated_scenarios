@@ -40,13 +40,13 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("P540600005_06_050");
-MsgDisp("Himuro","It doesn't change the fact that you gave
-it your all for three years, so why not
-hold your head high?");
+MsgDisp("Himuro","It doesn't change the fact that you gave it
+your all for three years, so why not hold
+your head high?");
 MsgDisp("主人公","...Thank you.");
-MsgDisp("主人公","(I might have failed in the end, But I
-made so many memories these last three
-years in the brass band.)");
+MsgDisp("主人公","(I might have failed in the end, But I made
+so many memories these last three years in
+the brass band.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

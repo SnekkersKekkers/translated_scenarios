@@ -8,21 +8,21 @@ switch (ChPrmGet(1,6)){
     VoicePlay("R060100003_01_000");
     MsgDisp("Kazama","｛主人公｝.
 You got a present, right?");
-    MsgDisp("主人公","Huh...Ah! ｛Kazama＊＊｝, you got the
-present I brought to the party!");
+    MsgDisp("主人公","Huh...Ah!
+｛Kazama＊＊｝, you got the present I brought
+to the party!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("R060100003_01_010");
-    MsgDisp("Kazama","You received the present I got for the
-party.");
+    MsgDisp("Kazama","You received the present I got for the party.");
     MsgDisp("主人公","Really∋");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("R060100003_01_020");
-    MsgDisp("Kazama","It would have been quicker if we just
-traded then.
+    MsgDisp("Kazama","It would have been quicker if we just traded
+then.
 Alright, let's open them.");
     MsgDisp("主人公","Yeah, I'm excited too!");
     break ;
@@ -34,8 +34,9 @@ Alright, let's open them.");
     VoicePlay("R060100003_01_030");
     MsgDisp("Kazama","Woah.
 I can't believe that you got my present.");
-    MsgDisp("主人公","Huh∋ This is yours? ｛Kazama＊＊｝, you got
-the present that I brought!");
+    MsgDisp("主人公","Huh∋
+This is yours? ｛Kazama＊＊｝, you got the
+present that I brought!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,1);
@@ -73,11 +74,11 @@ This is your present, ｛Kazama＊＊｝?");
     ChMotion(1,0);
     VoicePlay("R060100003_01_080");
     MsgDisp("Kazama","Yeah.
-I'm a little surprised because I was
-picking a present with you in mind.");
+I'm a little surprised because I was picking
+a present with you in mind.");
     MsgDisp("主人公","...Ah!
-You got the present I brought,
-｛Kazama＊＊｝ ∈");
+You got the present I brought, ｛Kazama＊＊｝
+∈");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,3);

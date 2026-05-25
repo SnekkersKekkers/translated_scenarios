@@ -20,8 +20,8 @@ Congratulations.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110600000_06_010");
-    MsgDisp("Himuro","I heard the baseball club won their
-practice match?");
+    MsgDisp("Himuro","I heard the baseball club won their practice
+match?");
     MsgDisp("主人公","｛Himuro＊＊｝.
 Yeah, we did it!");
     ChEye(6,0);

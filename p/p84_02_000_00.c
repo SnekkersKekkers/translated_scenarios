@@ -26,8 +26,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("P840200000_02_030");
-MsgDisp("Sassa","I'm exhausted but I still feel like
-wandering around the stalls with you.");
+MsgDisp("Sassa","I'm exhausted but I still feel like wandering
+around the stalls with you.");
 MsgDisp("主人公","Sure!");
 MsgDisp("主人公","(Yay!
 The student council work was a success!

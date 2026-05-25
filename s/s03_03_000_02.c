@@ -6,9 +6,9 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","I have to clean the fish tank today.");
     MsgDisp("主人公","I see...");
     VoicePlay("S030300002_03_010");
-    MsgDisp("Honda","My mom and sister won't give me Osechi if
-I don't finish it today. They
-say....Sorry.");
+    MsgDisp("Honda","My mom and sister won't give me Osechi if I
+don't finish it today.
+They say....Sorry.");
     MsgDisp("主人公","No problem.
 Good luck with the cleaning.");
     SEPlay("SYS_SE_PHONE_POWER_ON");

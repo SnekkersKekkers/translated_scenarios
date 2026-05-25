@@ -41,8 +41,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F110510002_05_030");
 MsgDisp("Hiiragi","Yes.
-I would also recommend the Tennis club's
-salt yakisoba.");
+I would also recommend the Tennis club's salt
+yakisoba.");
 MsgDisp("主人公","Woah, it looks delicious.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -60,7 +60,7 @@ I will see you then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝'s salt yakisoba sounds
-great...but since it's our last year,
-the classic sauce one is tempting too.)");
+great...but since it's our last year, the
+classic sauce one is tempting too.)");
 MsgClose();
 ScrFadeOut(0,0);

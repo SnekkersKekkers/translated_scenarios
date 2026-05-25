@@ -6,8 +6,8 @@ VoicePlay("G020430101_04_000");
 MsgDisp("Nanatsumori","Ah...look, over there.
 There are a lot of fireflies gathered.");
 MsgDisp("主人公","There really is!
-It's only over there where there's a lot
-of light, huh?");
+It's only over there where there's a lot of
+light, huh?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -26,13 +26,12 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020430101_04_030");
-MsgDisp("Nanatsumori","Yeah. You have a lot of friends too.
-You're often surrounded by people like
-that.");
+MsgDisp("Nanatsumori","Yeah.
+You have a lot of friends too.
+You're often surrounded by people like that.");
 ChMotion(4,0,1);
 VoicePlay("G020430101_04_040");
-MsgDisp("Nanatsumori","And at the center of it all, it's always
-you.
+MsgDisp("Nanatsumori","And at the center of it all, it's always you.
 Talking and laughing happily.");
 ChEye(4,0);
 ChMouth(4,3);

@@ -14,8 +14,7 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,8);
     VoicePlay("R040100001_01_010");
     MsgDisp("Kazama","Yeah, really.
-I'm biased, but you're shining the
-brightest.");
+I'm biased, but you're shining the brightest.");
     MsgDisp("主人公","Hehe, thank you.");
     break ;
     case 3:
@@ -32,8 +31,7 @@ That makes me happy.");
     ChEyeOpenLevel(1,0);
     VoicePlay("R040100001_01_030");
     MsgDisp("Kazama","Just don't get too social at this party.
-That dress and smile combo is too
-powerful.");
+That dress and smile combo is too powerful.");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -59,8 +57,8 @@ other than you and that dress.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("R040100001_01_060");
-    MsgDisp("Kazama","Thanks for coming in that beautiful dress
-for me.");
+    MsgDisp("Kazama","Thanks for coming in that beautiful dress for
+me.");
     MsgDisp("主人公","Umm...
 ｛Kazama＊＊｝?");
     ChEye(1,0);
@@ -77,8 +75,7 @@ for me.");
     VoicePlay("R040100001_01_080");
     MsgDisp("Kazama","Don't get cocky!");
     MsgDisp("主人公","(Hehe!
-｛Kazama＊＊｝ seems to really like my
-dress.)");
+｛Kazama＊＊｝ seems to really like my dress.)");
     break ;
     default :
     DbgAssert(1);

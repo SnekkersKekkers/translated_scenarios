@@ -115,8 +115,8 @@ Let's go, let's go!");
         ChMotion(3,1,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("F010300007_03_090");
-        MsgDisp("Honda","Because you can't really talk while
-walking, right?
+        MsgDisp("Honda","Because you can't really talk while walking,
+right?
 Well, let's go!");
         break ;
         default :

@@ -44,16 +44,16 @@ You're on good terms with the Hanegasaki
 boy♪");
     StlEye(21,0);
     VoicePlay("U130D00007_21_010");
-    MsgDisp("Michiru","He has a competitive spirit and takes a
-lot of interest in Habataki celebrities.");
+    MsgDisp("Michiru","He has a competitive spirit and takes a lot
+of interest in Habataki celebrities.");
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00007_21_020");
-    MsgDisp("Michiru","He might want to show his cool side to
-Mari. Making lots of friends at school
-might ignite his competitive side..");
+    MsgDisp("Michiru","He might want to show his cool side to Mari.
+Making lots of friends at school might ignite
+his competitive side..");
     MsgDisp("主人公","(｛Daichi＊＊｝ is competitive, huh...
-If I become friends with him, will I be
-able to see every side of him?)");
+If I become friends with him, will I be able
+to see every side of him?)");
     break ;
     case 4:
     case 5:
@@ -69,15 +69,14 @@ Hmm, he's also interested in Mari.");
     StlMouth(22,1);
     VoicePlay("U130D00007_22_030");
     MsgDisp("Hikaru","That's right.
-He's worried about conflict between you
-two.");
+He's worried about conflict between you two.");
     StlEyeOpenLevel(21,5,1);
     MsgDisp("主人公","Conflict?");
     StlEyeOpenLevel(22,0,1);
     StlMouth(22,1);
     VoicePlay("U130D00007_22_040");
-    MsgDisp("Hikaru","Right now Mari is the number one thing on
-his mind.");
+    MsgDisp("Hikaru","Right now Mari is the number one thing on his
+mind.");
     StlEye(21,2);
     VoicePlay("U130D00007_21_040");
     MsgDisp("Michiru","It's a new challenge that's different from
@@ -88,8 +87,8 @@ He's setting his sights on it...");
     StlEye(22,0);
     StlMouth(22,0);
     VoicePlay("U130D00007_22_050");
-    MsgDisp("Hikaru","If Mari likes him too, then Hikaru thinks
-the key is to have the same goals. 
+    MsgDisp("Hikaru","If Mari likes him too, then Hikaru thinks the
+key is to have the same goals.
 Good luck♪");
     MsgDisp("主人公","(The same goals as ｛Daichi＊＊｝...)");
     break ;

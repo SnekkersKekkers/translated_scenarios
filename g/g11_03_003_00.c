@@ -27,8 +27,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G110300300_03_010");
-MsgDisp("Honda","The latest edition of 'Habatcher' just
-sold out...");
+MsgDisp("Honda","The latest edition of 'Habatcher' just sold
+out...");
 MsgDisp("主人公","Ah, I see.
 But, I understand.");
 MsgClose();
@@ -39,8 +39,8 @@ BGOpen("ev003",0);
 ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300300_03_020");
-MsgDisp("Honda","Haaa, actually I hid a copy for you in
-this gap here...");
+MsgDisp("Honda","Haaa, actually I hid a copy for you in this
+gap here...");
 MsgDisp("主人公","Eh!");
 ChEye(3,2);
 ChMouth(3,2);
@@ -53,8 +53,8 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300300_03_040");
-MsgDisp("Honda","But the store clerk version of me won in
-the end.");
+MsgDisp("Honda","But the store clerk version of me won in the
+end.");
 MsgDisp("主人公","I see.
 But as a store clerk, you did the right
 thing.");

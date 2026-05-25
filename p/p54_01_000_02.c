@@ -18,8 +18,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P540100002_01_010");
 MsgDisp("Kazama","You were able to smile at everyone and
-perform. It was a game song, huh. I'm a
-little interested now.");
+perform. It was a game song, huh.
+I'm a little interested now.");
 MsgDisp("主人公","Really?");
 ChEye(1,0);
 ChMouth(1,3);

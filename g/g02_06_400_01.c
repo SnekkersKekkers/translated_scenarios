@@ -3,8 +3,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020640001_06_000");
-MsgDisp("Himuro","When I see a view like this, I want to
-write it in my diary.");
+MsgDisp("Himuro","When I see a view like this, I want to write
+it in my diary.");
 MsgDisp("主人公","You're writing a diary?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -32,8 +32,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020640001_06_040");
 MsgDisp("Himuro","Keeping a detailed record of things that
-happened each day is very
-\"Himuro-like\", isn't it?");
+happened each day is very \"Himuro-like\",
+isn't it?");
 MsgDisp("主人公","Is it?
 Then, how about taking it easy?");
 ChEye(6,0);
@@ -46,8 +46,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640001_06_060");
-MsgDisp("Himuro","Well if I write it down, it'll be
-convenient to check after.");
+MsgDisp("Himuro","Well if I write it down, it'll be convenient
+to check after.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

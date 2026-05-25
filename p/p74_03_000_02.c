@@ -16,9 +16,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("P740300002_03_010");
-MsgDisp("Honda","It feels strange to see you here standing
-in front of me, when you were on stage
-just a moment ago.");
+MsgDisp("Honda","It feels strange to see you here standing in
+front of me, when you were on stage just a
+moment ago.");
 MsgDisp("主人公","Ehh?");
 ChEye(3,3);
 ChMouth(3,3);

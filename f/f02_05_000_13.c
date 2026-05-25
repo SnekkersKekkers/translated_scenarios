@@ -16,9 +16,9 @@ before?");
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("F020500013_05_010");
-MsgDisp("Hiiragi","I have gone several times for
-performances. It truly is a great place,
-with an overflowing sense of exotic charm.");
+MsgDisp("Hiiragi","I have gone several times for performances.
+It truly is a great place, with an
+overflowing sense of exotic charm.");
 MsgDisp("主人公","I see.
 So it's gonna be a little boring for you,
 huh?");
@@ -26,10 +26,9 @@ ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F020500013_05_020");
-MsgDisp("Hiiragi","Not at all. Going for a performance and
-going for a school trip are completely
-different things. I have never truly
-toured the area.");
+MsgDisp("Hiiragi","Not at all. Going for a performance and going
+for a school trip are completely different
+things. I have never truly toured the area.");
 MsgDisp("主人公","I see, so it'll be your first time being a
 tourist in Nagasaki?");
 ChEye(5,0);
@@ -65,6 +64,5 @@ ChMotion(5,0);
 VoicePlay("F020500013_05_080");
 MsgDisp("Hiiragi","Then I look forward to it.
 The school trip.");
-MsgDisp("主人公","(Haha, it seems like ｛Hiiragi＊＊＊｝ has
-already decided what he'll do with his
-free time.)");
+MsgDisp("主人公","(Haha, it seems like ｛Hiiragi＊＊＊｝ has already
+decided what he'll do with his free time.)");

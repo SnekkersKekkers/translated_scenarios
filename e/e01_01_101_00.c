@@ -23,16 +23,16 @@ ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("E010110100_01_020");
 MsgDisp("Kazama","I was prepared for the weekend to be busy,
-but I swear that there's a lot of
-customers asking for me specifically.");
+but I swear that there's a lot of customers
+asking for me specifically.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010110100_01_030");
 MsgDisp("Kazama","Isn't it weird?
-How did they know I'd be here today, if
-I'm just filling in...");
+How did they know I'd be here today, if I'm
+just filling in...");
 VoicePlay("E010110100_47_000");
 MsgDisp("Woman A","I heard Kazama-kun's at Simon today!");
 ChEye(1,0);
@@ -51,8 +51,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010110100_01_050");
-MsgDisp("Kazama","I'll get going, I can't cause trouble for
-the manager.
+MsgDisp("Kazama","I'll get going, I can't cause trouble for the
+manager.
 See ya.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
@@ -68,8 +68,8 @@ MsgDisp("Woman A","Ah, there's Kazama-kun!
 We need your advice for a gift～!");
 SEStop("EV_SE_637",2);
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to be getting more and
-more popular. He seems tired though...I
-wonder if he's alright.)");
+more popular. He seems tired though...
+I wonder if he's alright.)");
 SEWait();
 MsgClose();
 ScrFadeOut(0,0);

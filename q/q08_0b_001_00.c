@@ -22,8 +22,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q080B00100_01_010");
-MsgDisp("Kazama","Share today's photo when you get back to
-your room.");
+MsgDisp("Kazama","Share today's photo when you get back to your
+room.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -98,8 +98,7 @@ VoicePlay("Q080B00100_01_050");
 MsgDisp("Kazama","Wait a minute.
 What's a leader supposed to do?");
 MsgDisp("主人公","(Hehe!
-I can't wait for the free period
-tomorrow!)");
+I can't wait for the free period tomorrow!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

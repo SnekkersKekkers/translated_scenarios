@@ -24,8 +24,7 @@ Ah, ｛Sassa＊＊｝?");
 I got lured in by the smell of coffee, and
 you were here.");
     MsgDisp("主人公","Hehe.
-The coffee at Alucard is the best, you
-know?");
+The coffee at Alucard is the best, you know?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -80,8 +79,8 @@ This place really is great.");
     ChMotion(2,3);
     VoicePlay("I350200000_02_060");
     MsgDisp("Sassa","Yeah, I do.
-I get to see a different side to you, and
-the smell is great.");
+I get to see a different side to you, and the
+smell is great.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -101,14 +100,13 @@ You're exaggerating...");
     ChMotion(2,0);
     VoicePlay("I350200000_02_090");
     MsgDisp("Sassa","Not really.
-Before I know it, my feet start heading
-here.");
+Before I know it, my feet start heading here.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I350200000_02_100");
-    MsgDisp("Sassa","Even if I'm not here, I always end up
-looking for you if I smell coffee.
+    MsgDisp("Sassa","Even if I'm not here, I always end up looking
+for you if I smell coffee.
 You know?");
     ChEye(2,0);
     ChMouth(2,3);
@@ -116,8 +114,9 @@ You know?");
     VoicePlay("I350200000_02_110");
     MsgDisp("Sassa","Ah, I think there was an experiment about
 this involving dogs.");
-    MsgDisp("主人公","Um...There are other customers at the
-entrance here. Come this way.");
+    MsgDisp("主人公","Um...
+There are other customers at the entrance
+here. Come this way.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -179,8 +178,8 @@ I'm seriously sick.");
     SEWait();
     SEPlay("EV_SE_DOOR_014");
     MsgDisp("主人公","(He left...
-I wonder what ｛Sassa＊＊｝ was thinking
-while running?)");
+I wonder what ｛Sassa＊＊｝ was thinking while
+running?)");
     break ;
     default :
     DbgAssert(1);

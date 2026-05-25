@@ -3,8 +3,8 @@ BGMPlay("BGM_PLACE_SHOP",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(This year we're doing herb tea and a
-vegetable sale. It would be nice if it was
-well-received...)");
+vegetable sale.
+It would be nice if it was well-received...)");
 MsgClose();
 ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
@@ -25,8 +25,8 @@ VoicePlay("P630D00001_21_010");
 MsgDisp("Michiru","Truly.
 Did Mari grow this vegetable?");
 MsgDisp("主人公","I did too, but so did everyone at the
-Gardening Club? We're also doing a
-vegetable sale this year.");
+Gardening Club?
+We're also doing a vegetable sale this year.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);

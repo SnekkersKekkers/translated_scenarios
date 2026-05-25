@@ -38,8 +38,8 @@ Everyone likes gaming music, and it's also
 fun.");
     ChMotion(3,2,1);
     VoicePlay("P530300001_03_030");
-    MsgDisp("Honda","As the one performing, you have to enjoy
-it the most.");
+    MsgDisp("Honda","As the one performing, you have to enjoy it
+the most.");
     MsgDisp("主人公","Y-Yeah.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -91,8 +91,7 @@ You often hear about game cheats, right?");
     ChMotion(3,3,1);
     VoicePlay("P530300001_03_090");
     MsgDisp("Honda","It seems like there are many cases where
-they're just mistakes made during
-development");
+they're just mistakes made during development");
     MsgDisp("主人公","Ehhh, is that so?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -104,9 +103,9 @@ It makes the game more interesting.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("P530300001_03_110");
-    MsgDisp("Honda","So, even if you mess up the performance,
-as long as everyone enjoys it in the end,
-isn't that good?");
+    MsgDisp("Honda","So, even if you mess up the performance, as
+long as everyone enjoys it in the end, isn't
+that good?");
     MsgDisp("主人公","Hmmm.
 I guess so...");
     ChEye(3,3);
@@ -116,8 +115,7 @@ I guess so...");
     SEWait();
     VoicePlay("P530300001_03_120");
     MsgDisp("Honda","Ah, it's start time.
-Come on, let's all enjoy the game
-together.");
+Come on, let's all enjoy the game together.");
     MsgDisp("主人公","(Yeah, since I'm performing game music, we
 should have fun with it!)");
     break ;

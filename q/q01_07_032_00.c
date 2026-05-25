@@ -21,7 +21,8 @@ VoicePlay("Q010703200_07_020");
 MsgDisp("Mikage","I'll get in on this too～∈");
 VoicePlay("Q010703200_38_000");
 MsgDisp("Students","Awesome!
-As expected of Mikagecchi! ∈");
+As expected of Mikagecchi!
+∈");
 VoicePlay("Q010703200_38_010");
 MsgDisp("Students","Mikage-sensei, come join our team!");
 SEPlay("EV_SE_737");
@@ -39,8 +40,8 @@ ChMouth(7,0);
 VoicePlay("Q010703200_07_030");
 MsgDisp("Mikage","Ah...");
 VoicePlay("Q010703200_42_030");
-MsgDisp("School Boy","Yikes, it's the Vice Principal∈ Everyone,
-hide!");
+MsgDisp("School Boy","Yikes, it's the Vice Principal∈
+Everyone, hide!");
 SEPlay("EV_SE_739",0,0.6);
 MsgClose();
 ScrFadeOut(0);
@@ -51,15 +52,16 @@ switch (MsgSelRsltGet()){
 	case 0:
 	SEPlay("EV_SE_516",0,1);
 	SEWait();
-	MsgDisp("主人公","(Wah— There's someone inside the closet!)");
+	MsgDisp("主人公","(Wah—
+There's someone inside the closet!)");
 	MsgDisp("主人公","(Who could it be...
 It's too dark, I can't see anything...)");
 	MsgDisp("主人公","(Ooh, they're so close...
 Teachers, please hurry up and leave∈)");
 	VoicePlay("Q010703200_32_010");
-	MsgDisp("VP Himuro","You all are high school students, do you
-have no self awareness? Prepare for
-tomorrow and go to sleep quickly.");
+	MsgDisp("VP Himuro","You all are high school students, do you have
+no self awareness?
+Prepare for tomorrow and go to sleep quickly.");
 	VoicePlay("Q010703200_32_020");
 	MsgDisp("VP Himuro","It seems Mikage lacks self awareness as a
 teacher.
@@ -85,8 +87,9 @@ Teachers, please hurry up and leave∈)");
 I have to give the same speech every year.
 I want you to put yourselves in my shoes.");
 	VoicePlay("Q010703200_32_040");
-	MsgDisp("VP Himuro","...And you. Mikage, I'd like to have a
-good chat with you. Come here!");
+	MsgDisp("VP Himuro","...And you.
+Mikage, I'd like to have a good chat with
+you. Come here!");
 	VoicePlay("Q010703200_07_050");
 	MsgDisp("Mikage","Y-Yes, sir.");
 	SEPlay("EV_SE_738");
@@ -102,11 +105,12 @@ Someone's under the table!)");
 	MsgDisp("主人公","(W-Who could it be...
 They feel so close...)");
 	MsgDisp("主人公","(Ooh, I can't move!
-Teachers, please leave already～ ∈)");
+Teachers, please leave already～
+∈)");
 	VoicePlay("Q010703200_32_050");
-	MsgDisp("VP Himuro","Jeez...If they have this much energy, they
-should use it to write a report. And
-then—");
+	MsgDisp("VP Himuro","Jeez...
+If they have this much energy, they should
+use it to write a report. And then—");
 	VoicePlay("Q010703200_32_060");
 	MsgDisp("VP Himuro","Mikage, I want you to come with me.");
 	VoicePlay("Q010703200_07_060");

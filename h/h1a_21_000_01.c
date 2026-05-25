@@ -16,8 +16,8 @@ switch (ChPrmGet(21,6)){
     ChMotion(21,3);
     VoicePlay("H1A2100001_21_010");
     MsgDisp("Michiru","That's what competition is.
-But I'll never forget everyone's bravery,
-and yours, Mari.");
+But I'll never forget everyone's bravery, and
+yours, Mari.");
     MsgDisp("主人公","(That's true.
 We might have lost, but I'm glad that I
 stayed as the baseball club manager...)");

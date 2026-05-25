@@ -32,9 +32,9 @@ MsgDisp("Nanatsumori","Yes, there's one left.");
 MsgDisp("主人公","Thank you!
 Um, would this be enough?");
 VoicePlay("P840400003_46_010");
-MsgDisp("School Girl","Ah...yes. I'm sorry, even though you
-especially prepared it for me. Well
-then....");
+MsgDisp("School Girl","Ah...yes.
+I'm sorry, even though you especially
+prepared it for me. Well then....");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
 MsgDisp("主人公","Sorry, even though it's the cultural

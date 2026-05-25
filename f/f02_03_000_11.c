@@ -17,19 +17,19 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("F020300011_03_010");
-MsgDisp("Honda","Every year, I get pestered by the kids in
-my neighborhood and end up making them.");
+MsgDisp("Honda","Every year, I get pestered by the kids in my
+neighborhood and end up making them.");
 ChMotion(3,4);
 VoicePlay("F020300011_03_020");
-MsgDisp("Honda","But there's less snow each year. Factoring
-in weather, temperature, and humidity, you
-have to pick the right day.");
+MsgDisp("Honda","But there's less snow each year.
+Factoring in weather, temperature, and
+humidity, you have to pick the right day.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("F020300011_03_030");
-MsgDisp("Honda","It'd be pretty sad if you made one and
-it melted right away, right?");
+MsgDisp("Honda","It'd be pretty sad if you made one and it
+melted right away, right?");
 MsgDisp("主人公","Absolutely.
 Especially for the kids.");
 ChEye(3,0);
@@ -37,15 +37,15 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("F020300011_03_040");
 MsgDisp("Honda","Right, right.
-And, when you make them year after year,
-you start to appreciate the craft.");
+And, when you make them year after year, you
+start to appreciate the craft.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300011_03_050");
 MsgDisp("Honda","This year, I won't be making just your
-average snowman. I'll be extra particular
-about the modeling.");
+average snowman.
+I'll be extra particular about the modeling.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

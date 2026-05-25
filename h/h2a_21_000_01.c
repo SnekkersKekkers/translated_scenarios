@@ -17,8 +17,9 @@ switch (ChPrmGet(21,6)){
     ChMouth(21,0);
     ChMotion(21,3);
     VoicePlay("H2A2100001_21_010");
-    MsgDisp("Michiru","You might have lost, but everyone did
-their best. It was truly wonderful. Okay?");
+    MsgDisp("Michiru","You might have lost, but everyone did their
+best.
+It was truly wonderful. Okay?");
     MsgDisp("主人公","(That's right. We might have lost, but I'm
 glad that I stayed as the track and field
 club manager...)");
@@ -42,19 +43,19 @@ club manager...)");
     ChMotion(21,0);
     VoicePlay("H2A2100001_21_040");
     MsgDisp("Michiru","But Mari, please smile?
-It's the manager's job to cheer up the
-team members who did their best, right?");
+It's the manager's job to cheer up the team
+members who did their best, right?");
     MsgDisp("主人公","...Yes!");
     ChEye(21,4);
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("H2A2100001_21_050");
     MsgDisp("Michiru","Good smile.
-Then, give all the players a pat on the
-back, okay?");
-    MsgDisp("主人公","(｛みちる＊｝...We might have lost, but
-I'm glad that I stayed as the track and
-field club manager!)");
+Then, give all the players a pat on the back,
+okay?");
+    MsgDisp("主人公","(｛みちる＊｝...
+We might have lost, but I'm glad that I
+stayed as the track and field club manager!)");
     break ;
     default :
     DbgAssert(1);

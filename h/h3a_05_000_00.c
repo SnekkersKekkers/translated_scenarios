@@ -21,13 +21,12 @@ Yes, I did it!");
     ChMotion(5,0);
     VoicePlay("H3A0500000_05_010");
     MsgDisp("Hiiragi","You executed that shoulder throw, and your
-opponent did a breakfall, and the
-referee's right hand went up-");
+opponent did a breakfall, and the referee's
+right hand went up-");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("H3A0500000_05_020");
-    MsgDisp("Hiiragi","With you in the center, time seemed to
-stop.
+    MsgDisp("Hiiragi","With you in the center, time seemed to stop.
 It was beautiful.");
     MsgDisp("主人公","Thank you, ｛Hiiragi＊＊＊｝.");
     ChEye(5,4);

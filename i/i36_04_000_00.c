@@ -31,9 +31,9 @@ Thanks for telling me.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I360400000_04_020");
-    MsgDisp("Nanatsumori","It might be hard since there's so much to
-do, but the store can't seat new customers
-with dirty tables. Careful.");
+    MsgDisp("Nanatsumori","It might be hard since there's so much to do,
+but the store can't seat new customers with
+dirty tables. Careful.");
     MsgDisp("主人公","(I see, I need to look around more.
 Or else the store's reputation will take a
 hit, too...)");
@@ -67,7 +67,8 @@ Thanks for telling me.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I360400000_04_060");
-    MsgDisp("Nanatsumori",". I was on the edge of my seat, seeing if
+    MsgDisp("Nanatsumori",".
+I was on the edge of my seat, seeing if
 someone would go \"thud\".");
     ChEye(4,0);
     ChMouth(4,3);

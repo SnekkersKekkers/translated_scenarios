@@ -17,8 +17,8 @@ Everybody's lookin' so lively.");
     ChMotion(8,3,1);
     VoicePlay("S070800000_08_010");
     MsgDisp("Shirahane","Alright, let's go say hi to the gods.
-I'm gonna put my whole heart into
-standin' in line!");
+I'm gonna put my whole heart into standin' in
+line!");
     MsgDisp("主人公","Yeah!");
     break ;
     case 3:
@@ -59,9 +59,9 @@ year?");
     ChMouth(8,0);
     ChMotion(8,3,1);
     VoicePlay("S070800000_08_060");
-    MsgDisp("Shirahane","Yeah. With my big bro and sis.
-And on the way home, we drink nice warm
-sweet sake.");
+    MsgDisp("Shirahane","Yeah.
+With my big bro and sis. And on the way home,
+we drink nice warm sweet sake.");
     MsgDisp("主人公","Heh...
 That sounds nice!");
     ChEye(8,3);
@@ -69,8 +69,8 @@ That sounds nice!");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("S070800000_08_070");
-    MsgDisp("Shirahane","It's sweet and tasty, and it warms up
-your hands and body...
+    MsgDisp("Shirahane","It's sweet and tasty, and it warms up your
+hands and body...
 Ah.");
     ChEye(8,0);
     ChMouth(8,3);

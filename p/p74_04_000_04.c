@@ -17,8 +17,7 @@ The show went well!");
 ChMotion(4,1,1);
 VoicePlay("P740400004_04_010");
 MsgDisp("Nanatsumori","Yeah.
-You put real models to shame with that
-show.");
+You put real models to shame with that show.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -31,9 +30,8 @@ VoicePlay("P740400004_04_030");
 MsgDisp("Nanatsumori","Hm?
 Ah—...
 I hope you can become a good bride?");
-MsgDisp("主人公","(Yay, I'm truly glad I devoted myself to
-the handicrafts club these last three
-years!)");
+MsgDisp("主人公","(Yay, I'm truly glad I devoted myself to the
+handicrafts club these last three years!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

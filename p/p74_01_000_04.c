@@ -18,9 +18,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("P740100004_01_010");
-MsgDisp("Kazama","To be honest, I didn't want to
-congratulate you on looking the way you
-did today.");
+MsgDisp("Kazama","To be honest, I didn't want to congratulate
+you on looking the way you did today.");
 MsgDisp("主人公","Eh?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);

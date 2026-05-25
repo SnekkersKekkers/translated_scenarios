@@ -10,8 +10,8 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","Good morning.
 Well, aren't you in high spirits today?");
     MsgDisp("主人公","Come on, I'm doing normal.
-How about we go around together for
-today's free period?");
+How about we go around together for today's
+free period?");
     break ;
     case 3:
     MsgDisp("主人公","(Where is ｛Kazama＊＊｝...
@@ -44,14 +44,14 @@ today's free period?");
     ChEyeOpenLevel(1,8);
     VoicePlay("Q040100000_01_030");
     MsgDisp("Kazama","I found you first.");
-    MsgDisp("主人公","I'm pretty sure our eyes made contact at
-the same time though.");
+    MsgDisp("主人公","I'm pretty sure our eyes made contact at the
+same time though.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("Q040100000_01_040");
-    MsgDisp("Kazama","Nope, I was a millisecond faster in
-spotting you first.");
+    MsgDisp("Kazama","Nope, I was a millisecond faster in spotting
+you first.");
     MsgDisp("主人公","Geez...
 For today's free period, do you want to go
 together?");

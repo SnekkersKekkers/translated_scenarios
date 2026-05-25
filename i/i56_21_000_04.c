@@ -17,15 +17,14 @@ VoicePlay("I562100004_21_010");
 MsgDisp("Michiru","Thank goodness.
 But it looked like we still had a few
 earlier...");
-MsgDisp("主人公","Hehe. We had a lot of customers buying
-Mame Daifuku today so I ordered the next
-batch early.");
+MsgDisp("主人公","Hehe.
+We had a lot of customers buying Mame Daifuku
+today so I ordered the next batch early.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("I562100004_21_020");
-MsgDisp("Michiru","As expected of Mari to anticipate our
-sales.");
+MsgDisp("Michiru","As expected of Mari to anticipate our sales.");
 MsgDisp("主人公","(Hehe, I was complimented!)");
 BGMStop();
 MsgClose();

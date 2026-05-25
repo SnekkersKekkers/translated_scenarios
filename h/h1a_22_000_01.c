@@ -43,8 +43,8 @@ You guys were so cool!");
     ChMotion(22,0,1);
     VoicePlay("H1A2200001_22_040");
     MsgDisp("Hikaru","Making it all the way here is amazing.
-Hikaru's as happy as if it was happening
-to me.");
+Hikaru's as happy as if it was happening to
+me.");
     ChEye(22,3);
     ChMouth(22,0);
     ChEyeOpenLevel(22,0);

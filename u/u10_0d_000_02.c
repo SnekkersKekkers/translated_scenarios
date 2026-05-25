@@ -56,8 +56,7 @@ I'm excited!)");
     ChMouth(21,4);
     ChMotion(21,4);
     VoicePlay("U100D00002_21_020");
-    MsgDisp("Michiru","If you're busy, I guess it can't be
-helped.");
+    MsgDisp("Michiru","If you're busy, I guess it can't be helped.");
     ChEye(22,2);
     ChMouth(22,2);
     ChMotion(22,2,1);

@@ -18,21 +18,21 @@ We won!");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("H4A0100000_01_010");
-    MsgDisp("Kazama","Yeah, it was decided from the beginning
-that you're the best.");
+    MsgDisp("Kazama","Yeah, it was decided from the beginning that
+you're the best.");
     MsgDisp("主人公","Hehe, thanks.
 I did make some mistakes, you know?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H4A0100000_01_020");
-    MsgDisp("Kazama","Taking that into account, it's very like
-you to do something like that.
+    MsgDisp("Kazama","Taking that into account, it's very like you
+to do something like that.
 Full points.");
     MsgDisp("主人公","Hehe.");
     MsgDisp("主人公","(To think ｛Kazama＊＊｝ would be so happy
-about this. I'm glad I stayed in the
-rhythmic gymnastics club!)");
+about this. I'm glad I stayed in the rhythmic
+gymnastics club!)");
     break ;
     case 4:
     case 5:
@@ -49,8 +49,8 @@ Were you watching?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H4A0100000_01_040");
-    MsgDisp("Kazama","There's no way I would miss your
-competition routine.");
+    MsgDisp("Kazama","There's no way I would miss your competition
+routine.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -76,9 +76,9 @@ much, ｛Kazama＊＊｝.");
     MsgDisp("Kazama","You were shining even more brightly than
 usual.
 Congratulations on winning.");
-    MsgDisp("主人公","(I did it, I won! ｛Kazama＊＊｝ praised me
-too. I'm glad I stayed in the rhythmic
-gymnastics club!)");
+    MsgDisp("主人公","(I did it, I won!
+｛Kazama＊＊｝ praised me too. I'm glad I
+stayed in the rhythmic gymnastics club!)");
     break ;
     default :
     DbgAssert(1);

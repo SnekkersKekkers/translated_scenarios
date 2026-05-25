@@ -15,8 +15,8 @@ MsgDisp("Manager","We are preparing for the cultural festival
 for the next two weeks. Our club's
 performance will feature classical music.");
 VoicePlay("P510000100_33_020");
-MsgDisp("Manager","Don't push yourself, but please recover
-soon and join us for practice.
+MsgDisp("Manager","Don't push yourself, but please recover soon
+and join us for practice.
 ...Well then, take care.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();

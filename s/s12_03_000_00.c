@@ -43,17 +43,16 @@ I hope this year is another good year...)");
     ChMotion(3,1,1);
     VoicePlay("S120300000_03_020");
     MsgDisp("Honda","Phew!
-There were a lot of people, but it was
-fun!");
-    MsgDisp("主人公","Yeah! I got to talk to ｛Honda＊＊｝ about a
-lot of things. It was fun.");
+There were a lot of people, but it was fun!");
+    MsgDisp("主人公","Yeah!
+I got to talk to ｛Honda＊＊｝ about a lot of
+things. It was fun.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("S120300000_03_030");
     MsgDisp("Honda","Yeah, for me too!
-I want to talk more, so let me walk you
-home?");
+I want to talk more, so let me walk you home?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
     MsgClose();
@@ -66,8 +65,8 @@ home?");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S120300000_03_040");
-    MsgDisp("Honda","I guess it's finally the end of this
-year's shrine visit.");
+    MsgDisp("Honda","I guess it's finally the end of this year's
+shrine visit.");
     MsgDisp("主人公","Yeah, it was fun.");
     ChEye(3,4);
     ChMouth(3,4);
@@ -79,8 +78,9 @@ year's shrine visit.");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("S120300000_03_060");
-    MsgDisp("Honda","You too? In that case, I have no choice
-but to walk you home. Let's go!");
+    MsgDisp("Honda","You too?
+In that case, I have no choice but to walk
+you home. Let's go!");
     MsgDisp("主人公","Yeah!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();

@@ -8,14 +8,14 @@ ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200022_32_010");
 MsgDisp("VP Himuro","Next is a \"slide\". Touch and slide.
-Tickling, snuggling...Things that will
-make them pay attention to you.");
+Tickling, snuggling... Things that will make
+them pay attention to you.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200022_32_020");
-MsgDisp("VP Himuro","Finally, we have the \"long touch\". Touch
-and hold on one area. This means staring
-or some other drastic action.");
+MsgDisp("VP Himuro","Finally, we have the \"long touch\".
+Touch and hold on one area. This means
+staring or some other drastic action.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200022_32_030");

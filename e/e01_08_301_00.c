@@ -30,8 +30,9 @@ ChOpen(9,35,0,4,4,#1,#1,0,2);
 VoicePlay("E010830100_09_000");
 MsgDisp("Kuya","Dai-chan, sorry to keep you waiting.
 You are...");
-MsgDisp("主人公","Hello, Kuya-san. I happened to pass by and
-spotted ｛Daichi＊＊｝.");
+MsgDisp("主人公","Hello, Kuya-san.
+I happened to pass by and spotted
+｛Daichi＊＊｝.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -62,19 +63,17 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("E010830100_09_030");
-MsgDisp("Kuya","Yeah, when I got separated from Dai-chan,
-I came across a lost child.");
+MsgDisp("Kuya","Yeah, when I got separated from Dai-chan, I
+came across a lost child.");
 ChMotion(9,0,1);
 VoicePlay("E010830100_09_040");
-MsgDisp("Kuya","He was worried about being late for an
-exam since he didn't know where the bus
-stop was.");
+MsgDisp("Kuya","He was worried about being late for an exam
+since he didn't know where the bus stop was.");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("E010830100_08_030");
-MsgDisp("Daichi","Big bro really gets involved in things
-often.");
+MsgDisp("Daichi","Big bro really gets involved in things often.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -87,8 +86,8 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("E010830100_08_040");
-MsgDisp("Daichi","When I go out with big bro, the day
-doesn't end without something happening.");
+MsgDisp("Daichi","When I go out with big bro, the day doesn't
+end without something happening.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -108,8 +107,9 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("E010830100_09_070");
-MsgDisp("Kuya","Yeah, for sure. As a thank you for keeping
-Dai-chan company. What do you think?");
+MsgDisp("Kuya","Yeah, for sure.
+As a thank you for keeping Dai-chan company.
+What do you think?");
 MsgDisp("主人公","Well then, with pleasure!");
 ChEyeOpenLevel(9,#1);
 ChEye(8,3);

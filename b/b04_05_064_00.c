@@ -16,7 +16,8 @@ VoicePlay("B040506400_05_010");
 MsgDisp("Hiiragi","I've visited the festivals of many towns.
 Each one had their own unique
 characteristics... I really enjoyed it.");
-MsgDisp("主人公","Ehh— Really?");
+MsgDisp("主人公","Ehh—
+Really?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B040506400_05_020");

@@ -41,8 +41,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("K020701000_07_040");
-MsgDisp("Mikage","Besides, having an easy birthday like
-yours helps.");
+MsgDisp("Mikage","Besides, having an easy birthday like yours
+helps.");
 MsgDisp("主人公","Hehe, I guess it is easy to remember.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -59,8 +59,7 @@ VoicePlay("K020701000_07_060");
 MsgDisp("Mikage","Well, then.
 Sorry I kept you this late.
 Looking forward to this year.");
-MsgDisp("主人公","Yes, please take care of me again this
-year!");
+MsgDisp("主人公","Yes, please take care of me again this year!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(7);

@@ -6,8 +6,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Hey, did you know?
-There's a legend about the church on
-school grounds.");
+There's a legend about the church on school
+grounds.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -40,8 +40,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600001_06_040");
 MsgDisp("Himuro","It's more like, because there's so many
-similar stories, that story just refuses
-to go away.");
+similar stories, that story just refuses to
+go away.");
 MsgDisp("主人公","...you really do know it well, huh?");
 ChEye(6,0);
 ChMouth(6,0);

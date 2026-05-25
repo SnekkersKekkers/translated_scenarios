@@ -99,8 +99,7 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("Q070D00000_21_050");
 MsgDisp("Michiru","I love how it looks.
-I hope I can get to see the real one one
-day.");
+I hope I can get to see the real one one day.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -146,8 +145,7 @@ ChMotion(21,0);
 BGMPlay("BGM_C23_HIKARU_MICHIRU",0.01,0.9);
 ScrFadeIn(0);
 VoicePlay("Q070D00000_21_080");
-MsgDisp("Michiru","Because it's old, it has a certain
-nobleness.");
+MsgDisp("Michiru","Because it's old, it has a certain nobleness.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -160,14 +158,15 @@ ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("Q070D00000_21_090");
 MsgDisp("Michiru","Now I remember...");
-MsgDisp("主人公","What's wrong? You're looking around.");
+MsgDisp("主人公","What's wrong?
+You're looking around.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("Q070D00000_21_100");
 MsgDisp("Michiru","The cobblestone contains a heart-shaped
-stone. It's said that if you're able to
-find it, your love will come true.");
+stone. It's said that if you're able to find
+it, your love will come true.");
 ChSet(21,0);
 ChEye(22,0);
 ChMouth(22,3);

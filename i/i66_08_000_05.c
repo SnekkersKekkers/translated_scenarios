@@ -69,8 +69,8 @@ My car looks good as new∋");
     ChMotion(8,3,1);
     VoicePlay("I660800005_08_060");
     MsgDisp("Shirahane","Leave it t'us!
-With her techniques, any car can look good
-as new～!");
+With her techniques, any car can look good as
+new～!");
     MsgDisp("主人公","That's...");
     VoicePlay("I660800005_39_030");
     MsgDisp("Customer","It really is amazing.
@@ -92,8 +92,9 @@ Well, I'll ask for her again next time!");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800005_08_080");
-    MsgDisp("Shirahane","Ah no. Can't let my guard down when you're
-doin' this good. I'm in trouble...");
+    MsgDisp("Shirahane","Ah no.
+Can't let my guard down when you're doin'
+this good. I'm in trouble...");
     MsgDisp("主人公","(So he's saying I'm doing well?
 But I wonder why he needs his guard up?)");
     break ;

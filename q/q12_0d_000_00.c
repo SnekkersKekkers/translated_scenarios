@@ -26,12 +26,12 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q120D00000_22_010");
-MsgDisp("Hikaru","We had such a good time on the school
-trip, let's go on a private trip next
-time! Of course, just the three of us♪");
-MsgDisp("主人公","...Yeah! ｛みちる＊｝,
-｛ひかる＊｝, thank you so much for
-being with me!");
+MsgDisp("Hikaru","We had such a good time on the school trip,
+let's go on a private trip next time!
+Of course, just the three of us♪");
+MsgDisp("主人公","...Yeah!
+｛みちる＊｝, ｛ひかる＊｝, thank you
+so much for being with me!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

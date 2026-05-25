@@ -9,8 +9,7 @@ MsgDisp("Hiiragi","To me, you seem to be illuminated.");
 MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝ also.");
 ChEye(5,2);
 VoicePlay("G020510000_05_020");
-MsgDisp("Hiiragi","Right now, I'm the only one looking at
-you.
+MsgDisp("Hiiragi","Right now, I'm the only one looking at you.
 Thinking about that, it's scary.");
 MsgDisp("主人公","Eh?");
 ChEye(5,4);
@@ -23,9 +22,9 @@ ChEye(5,2);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510000_05_040");
-MsgDisp("Hiiragi","Because I'm the closest to you right
-now...When I think of a future where
-that's not the case, it frightens me.");
+MsgDisp("Hiiragi","Because I'm the closest to you right now...
+When I think of a future where that's not the
+case, it frightens me.");
 ChEyeOpenLevel(5,9);
 MsgDisp("主人公","Ummm ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
@@ -36,9 +35,9 @@ MsgDisp("Hiiragi","My inner voice.
 The ugliness of my true feelings.");
 ChMotion(5,2);
 VoicePlay("G020510000_05_060");
-MsgDisp("Hiiragi","I should just be happy about this
-situation, but somewhat, at the same time,
-I'm also feeling afraid of losing it...");
+MsgDisp("Hiiragi","I should just be happy about this situation,
+but somewhat, at the same time, I'm also
+feeling afraid of losing it...");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝...)");
 BGMStop();
 MsgClose();

@@ -17,8 +17,8 @@ ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("F100120001_07_000");
 MsgDisp("Mikage","｛主人公｝, are you also enrolled?
-Today, we're asking ourselves...
-'How do we get out of cleaning?'");
+Today, we're asking ourselves... 'How do we
+get out of cleaning?'");
 MsgDisp("主人公","Um...
 I'm fine, actually.");
 ChEye(1,0);
@@ -35,8 +35,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100120001_07_010");
 MsgDisp("Mikage","First, 'how do we keep it from getting
-dirty?' That way, you don't have to clean
-at all.");
+dirty?'
+That way, you don't have to clean at all.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

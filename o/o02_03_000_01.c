@@ -59,8 +59,8 @@ You seem okay.");
     ChEyeOpenLevel(3,0);
     VoicePlay("O020300001_03_050");
     MsgDisp("Honda","You might've lost, but in the end, whoever
-moves their body more and has more fun is
-the winner! Like you, right?");
+moves their body more and has more fun is the
+winner! Like you, right?");
     MsgDisp("主人公","Hehe, maybe?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -70,8 +70,8 @@ the winner! Like you, right?");
 The sports festival is still going on, so
 let's have fun!");
     MsgDisp("主人公","(｛Honda＊＊｝, thank you.
-I lost, but I'll still enjoy the rest of
-the festival.)");
+I lost, but I'll still enjoy the rest of the
+festival.)");
     break ;
     default :
     DbgAssert(1);

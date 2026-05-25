@@ -24,8 +24,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("Q070C00100_07_010");
-MsgDisp("Mikage","The reaction of you two is great, it fits
-you guys.
+MsgDisp("Mikage","The reaction of you two is great, it fits you
+guys.
 So diligent and pure.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -35,8 +35,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q070C00100_07_020");
-MsgDisp("Mikage","Oh, isn't that from the other diligent
-one?");
+MsgDisp("Mikage","Oh, isn't that from the other diligent one?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -80,8 +79,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070C00100_07_040");
 MsgDisp("Mikage","I see.
-Yanosuke, you really are a Habataki
-citizen, aren't you?");
+Yanosuke, you really are a Habataki citizen,
+aren't you?");
 ChMotion(5,0);
 MsgDisp("主人公","Hehe, indeed.");
 ChEye(5,4);
@@ -137,9 +136,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q070C00100_07_080");
-MsgDisp("Mikage","Well, I guess since we're leaving him at
-home all alone we should just listen to
-whatever he has to say.");
+MsgDisp("Mikage","Well, I guess since we're leaving him at home
+all alone we should just listen to whatever
+he has to say.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -151,8 +150,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q070C00100_05_090");
 MsgDisp("Hiiragi","Alright.
-Let's just sit over there and write
-something back.");
+Let's just sit over there and write something
+back.");
 MsgClose();
 SEPlay("EV_SE_856",0,0.6);
 ChClose(5,0,30);

@@ -6,12 +6,11 @@ switch (ChPrmGet(8,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","Would you like your windows to be wiped
-down?
+    MsgDisp("主人公","Would you like your windows to be wiped down?
 Then, please allow me.");
-    MsgDisp("主人公","Ah...is there anything you don't need in
-your car? If you'd like, I can throw it
-away for you.");
+    MsgDisp("主人公","Ah...is there anything you don't need in your
+car?
+If you'd like, I can throw it away for you.");
     VoicePlay("I660800001_39_000");
     MsgDisp("Customer","Then, could you throw this away?
 Thanks.");
@@ -24,8 +23,7 @@ Thanks.");
     MsgDisp("Shirahane","You pay attention even to the smallest
 details now, don'tcha?");
     MsgDisp("主人公","Yeah.
-You're setting a good example,
-｛Daichi＊＊｝.");
+You're setting a good example, ｛Daichi＊＊｝.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -36,12 +34,11 @@ I'm gettin' fired up!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Would you like your windows to be wiped
-down?
+    MsgDisp("主人公","Would you like your windows to be wiped down?
 Then, please allow me.");
-    MsgDisp("主人公","Ah...is there anything you don't need in
-your car? If you'd like, I can throw it
-away for you.");
+    MsgDisp("主人公","Ah...is there anything you don't need in your
+car?
+If you'd like, I can throw it away for you.");
     VoicePlay("I660800001_39_010");
     MsgDisp("Customer","Nothing today.
 Thanks as always.");

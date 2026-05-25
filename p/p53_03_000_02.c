@@ -8,8 +8,8 @@ switch (ChPrmGet(3,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Seems like I'm calm this year.
-Maybe it's because I've been giving it my
-all these last three years?)");
+Maybe it's because I've been giving it my all
+these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -37,14 +37,14 @@ Since it's already third year, right?");
 Enjoy the culmination of your hard work of
 the last three years!");
     MsgDisp("主人公","(Yeah.
-This has continued for three years, so I
-have to make the last stage a success!)");
+This has continued for three years, so I have
+to make the last stage a success!)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(Seems like I'm calm this year.
-Maybe it's because I've been giving it my
-all these last three years?)");
+Maybe it's because I've been giving it my all
+these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -70,15 +70,14 @@ Maybe because it's already my third year.");
     MsgDisp("Honda","I see.
 This is the final year, huh...
 It's somewhat lonely.");
-    MsgDisp("主人公","Hey, ｛Honda＊＊｝ are you getting
-sentimental?");
+    MsgDisp("主人公","Hey, ｛Honda＊＊｝ are you getting sentimental?");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("P530300002_03_060");
-    MsgDisp("Honda","Ah, sorry. I came here to cheer you on,
-but what's the point if I'm the one who
-needs encouragement?");
+    MsgDisp("Honda","Ah, sorry.
+I came here to cheer you on, but what's the
+point if I'm the one who needs encouragement?");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","No, thank you.
@@ -88,8 +87,8 @@ I'm off, okay?");
     ChMotion(3,1,1);
     VoicePlay("P530300002_03_070");
     MsgDisp("Honda","Yes, take care!
-Even if I'm moved to tears in the
-audience, you can't laugh, okay?");
+Even if I'm moved to tears in the audience,
+you can't laugh, okay?");
     MsgDisp("主人公","(Hehe! Alright, I've given it my all in
 the Concert Band Club for the last three
 years, so this needs to be a culmination

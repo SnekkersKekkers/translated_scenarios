@@ -59,15 +59,14 @@ Little lost lamb.");
     VoicePlay("P130600000_06_040");
     MsgDisp("Himuro","What's that?
 I don't intend on getting lost though.");
-    MsgDisp("主人公","But, you already came all this way, why
-not have some fun?");
+    MsgDisp("主人公","But, you already came all this way, why not
+have some fun?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
     ChCheek(6,5);
     VoicePlay("P130600000_06_050");
-    MsgDisp("Himuro","...Well if you say that, I'll think
-about—");
+    MsgDisp("Himuro","...Well if you say that, I'll think about—");
     MsgDisp("主人公","Yes, entry for one the—n!");
     ChEye(6,0);
     ChMouth(6,1);

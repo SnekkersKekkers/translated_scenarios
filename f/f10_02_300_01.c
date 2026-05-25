@@ -1,8 +1,8 @@
 BGOpen("sc310",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝
-and... ｛Sassa＊＊｝?)");
+MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝ and...
+｛Sassa＊＊｝?)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();
 ChOpen(2,254,3,0,4,#1,#1,0,0,0,30);
@@ -51,14 +51,15 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("F100230001_02_020");
-MsgDisp("Sassa","When you think of Hikaru-san's favorite
-food, you'd expect fancy French cuisine,
-right? But it's hamburgers?");
+MsgDisp("Sassa","When you think of Hikaru-san's favorite food,
+you'd expect fancy French cuisine, right?
+But it's hamburgers?");
 ChMouth(22,1);
 ChMotion(22,1,1);
 VoicePlay("F100230001_22_010");
-MsgDisp("Hikaru","Is that a gap? They're easy to eat, and
-there's lots of variety. Everyone loves them.");
+MsgDisp("Hikaru","Is that a gap?
+They're easy to eat, and there's lots of
+variety. Everyone loves them.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

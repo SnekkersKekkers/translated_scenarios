@@ -1,7 +1,6 @@
 BGOpen("sc101",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Let's quit as the baseball team
-manager...)");
+MsgDisp("主人公","(Let's quit as the baseball team manager...)");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("sc600",0);

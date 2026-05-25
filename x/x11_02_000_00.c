@@ -8,8 +8,7 @@ switch (ChPrmGet(2,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110200000_02_000");
-    MsgDisp("Sassa","Did the baseball club win a practice
-match?");
+    MsgDisp("Sassa","Did the baseball club win a practice match?");
     MsgDisp("主人公","Yeah, we did.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -28,16 +27,16 @@ I'm glad I've been working hard at club!)");
     ScrFadeIn(0);
     VoicePlay("X110200000_02_020");
     MsgDisp("Sassa","Good for you.
-The baseball team won the practice match
-the other day, right?");
+The baseball team won the practice match the
+other day, right?");
     MsgDisp("主人公","Yeah!
 Everyone worked really hard!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("X110200000_02_030");
-    MsgDisp("Sassa","With a manager like you, the players can
-do their best.");
+    MsgDisp("Sassa","With a manager like you, the players can do
+their best.");
     MsgDisp("主人公","(Yay!
 ｛Sassa＊＊｝ complimented me!)");
     break ;

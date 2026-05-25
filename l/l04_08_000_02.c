@@ -35,8 +35,8 @@ I kinda went all out!");
     ChMotion(8,2,1);
     VoicePlay("L040800002_08_030");
     MsgDisp("Shirahane","Heheh, that so.
-Well, I gotta go all out for the return
-gift, too!");
+Well, I gotta go all out for the return gift,
+too!");
     MsgDisp("主人公","Oh, that wasn't my intention...");
     ChEye(8,3);
     ChMouth(8,3);
@@ -80,12 +80,12 @@ today...");
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800002_08_080");
     VoiceEVSPlay(8);
-    MsgDisp("Shirahane","So I'll go brag 'bout this chocolate
-before the manager scolds me.
+    MsgDisp("Shirahane","So I'll go brag 'bout this chocolate before
+the manager scolds me.
 Thanks, ｛主人公｝.");
-    MsgDisp("主人公","(Huh!? Will he be fine...
-But, he seemed really happy.
-Thank goodness!)");
+    MsgDisp("主人公","(Huh!?
+Will he be fine...
+But, he seemed really happy. Thank goodness!)");
     break ;
     default :
     DbgAssert(1);

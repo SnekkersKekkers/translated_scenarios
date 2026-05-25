@@ -1,8 +1,8 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Hmm, nice weather! Come to think of it,
-I've been in good shape lately. Maybe it's
-because of all the exercise?)");
+MsgDisp("主人公","(Hmm, nice weather! Come to think of it, I've
+been in good shape lately.
+Maybe it's because of all the exercise?)");
 VoiceEVSPlay(2);
 VoicePlay("G110200400_02_000");
 MsgDisp("Sassa?","｛主人公｝.
@@ -95,7 +95,7 @@ MsgClose();
 ChClose(2,0,0);
 BGOpen("sc200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew...I think I was able to run a bit
+MsgDisp("主人公","(Phew... I think I was able to run a bit
 better than last time. Maybe it's because
 I've been working hard exercising?)");
 MsgClose();

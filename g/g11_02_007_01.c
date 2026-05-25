@@ -61,11 +61,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200701_02_050");
-MsgDisp("Sassa","I'm the only one doing the octathlon
-events. I can't do it with people who do
-solo events.");
-MsgDisp("主人公","Maybe that's what he was doing just
-now...?");
+MsgDisp("Sassa","I'm the only one doing the octathlon events.
+I can't do it with people who do solo events.");
+MsgDisp("主人公","Maybe that's what he was doing just now...?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -75,8 +73,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200701_02_070");
-MsgDisp("Sassa","For me, running like this whilst talking
-to you is the best.
+MsgDisp("Sassa","For me, running like this whilst talking to
+you is the best.
 Thank you, as always!");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,0);
@@ -98,8 +96,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛Sassa＊＊｝'s records are better than
-that of a solo athlete...Hmm, there are
-still some difficult aspects, huh?)");
+MsgDisp("主人公","(｛Sassa＊＊｝'s records are better than that
+of a solo athlete... Hmm, there are still
+some difficult aspects, huh?)");
 MsgClose();
 ScrFadeOut(0,0);

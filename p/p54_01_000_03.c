@@ -9,8 +9,8 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,4,2,#1,#1,0,0);
 VoicePlay("P540100003_01_000");
-MsgDisp("Kazama","It's not a problem of nerves or anything,
-is it?");
+MsgDisp("Kazama","It's not a problem of nerves or anything, is
+it?");
 MsgDisp("主人公","Ah, ｛Kazama＊＊｝...
 Y-Yeah.");
 ChEye(1,0);
@@ -25,8 +25,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P540100003_01_020");
-MsgDisp("Kazama","Next time you meet them, smile as you
-usually do.");
+MsgDisp("Kazama","Next time you meet them, smile as you usually
+do.");
 ChClose(1);
 MsgDisp("主人公","(Uugh...
 I should have worked harder practicing...)");

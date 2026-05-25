@@ -28,9 +28,9 @@ Sorry I can't help.");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("S120700001_07_010");
-    MsgDisp("Mikage","What are you saying? No matter 
-how pretty you are, you can't do a shrine 
-visit with vegetables and flowers, right?");
+    MsgDisp("Mikage","What are you saying? No matter how pretty you
+are, you can't do a shrine visit with
+vegetables and flowers, right?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -42,9 +42,8 @@ See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(I visited the shrine with
-｛Mikage＊＊｝. It's going to be a great
-year!)");
+    MsgDisp("主人公","(I visited the shrine with ｛Mikage＊＊｝.
+It's going to be a great year!)");
     break ;
     case 4:
     case 5:
@@ -59,15 +58,14 @@ year!)");
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you so much for taking me.
-｛Mikage＊＊｝, do you have to go to
-school now?");
+｛Mikage＊＊｝, do you have to go to school
+now?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S120700001_07_030");
     MsgDisp("Mikage","Ahh.
-They call me in, but I don't have much to
-do.");
+They call me in, but I don't have much to do.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -87,8 +85,8 @@ I had a fun New Years thanks to you.");
     ChMotion(7,2);
     VoicePlay("S120700001_07_060");
     MsgDisp("Mikage","I actually wanted to give you a New Year's
-gift. But after thinking about it, it
-would be smarter not to.");
+gift. But after thinking about it, it would
+be smarter not to.");
     MsgDisp("主人公","Ehh?
 Really...");
     ChEye(7,0);
@@ -97,8 +95,7 @@ Really...");
     VoicePlay("S120700001_07_070");
     MsgDisp("Mikage","Yep.");
     MsgDisp("主人公","Hehe, okay.
-I look forward to working with you this
-year.");
+I look forward to working with you this year.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

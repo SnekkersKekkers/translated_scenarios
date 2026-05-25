@@ -14,8 +14,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,3);
     VoicePlay("N020600000_06_010");
     MsgDisp("Himuro","It's surprisingly good.
-W-Well, as long as it's not a fluke, I
-mean.");
+W-Well, as long as it's not a fluke, I mean.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
@@ -39,9 +38,9 @@ mean.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("N020600000_06_040");
-    MsgDisp("Himuro","I know you work harder than anyone else on
-a daily basis. These results prove that...
-Right?");
+    MsgDisp("Himuro","I know you work harder than anyone else on a
+daily basis.
+These results prove that... Right?");
     MsgDisp("主人公","(Yeah, I did my best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -66,8 +65,8 @@ You did it.");
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("N020600000_06_070");
-    MsgDisp("Himuro","These results are only natural when I
-think about what you do every day.");
+    MsgDisp("Himuro","These results are only natural when I think
+about what you do every day.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);

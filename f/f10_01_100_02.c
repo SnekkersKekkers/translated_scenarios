@@ -22,8 +22,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110002_01_020");
-MsgDisp("Kazama","No matter what, you'll start falling
-asleep.");
+MsgDisp("Kazama","No matter what, you'll start falling asleep.");
 MsgDisp("主人公","Is that so?
 I'm okay now, but...");
 ChEyeOpenLevel(1,0);
@@ -41,8 +40,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("F100110002_01_040");
-MsgDisp("Kazama","No, it's like medicine that keeps you
-awake.");
+MsgDisp("Kazama","No, it's like medicine that keeps you awake.");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 VoicePlay("F100110002_42_000");
@@ -66,13 +64,12 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(...The note ｛Kazama＊＊｝ gave me...I
-wonder what it says? I'm not sleepy, but
-I'll take a look.)");
+MsgDisp("主人公","(...The note ｛Kazama＊＊｝ gave me...
+I wonder what it says?
+I'm not sleepy, but I'll take a look.)");
 SEPlay("EV_SE_662");
 SEWait();
-MsgDisp("主人公","(Um...
-'Look at me'?)");
+MsgDisp("主人公","(Um... 'Look at me'?)");
 MsgDisp("主人公","(from ｛Kazama＊＊｝...
 He's looking at me and laughing!)");
 VoicePlay("F100110002_39_010");
@@ -82,7 +79,8 @@ MsgClose();
 SEPlay("EV_SE_621");
 ChOpen(1,254,3,2,2,#1,#1,0,0,0,30);
 VoicePlay("F100110002_01_060");
-MsgDisp("Kazama","Ah, yes. ...sorry.");
+MsgDisp("Kazama","Ah, yes.
+...sorry.");
 SEPlay("EV_SE_GAYA_017",0.1,0.6);
 SEPlay("EV_SE_GAYA_016",0.2,0.7);
 VoicePlay("F100110002_38_000");
@@ -110,8 +108,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F100110002_01_080");
-MsgDisp("Kazama","I thought you would have a little
-patience, but looking at it right away?
+MsgDisp("Kazama","I thought you would have a little patience,
+but looking at it right away?
 I couldn't help but laugh.");
 MsgDisp("主人公","Oh, that note?
 It said to look at ｛Kazama＊＊｝.
@@ -122,8 +120,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110002_01_090");
 MsgDisp("Kazama","I was going to make a funny face so you'd
-laugh at me, but then I ended up laughing
-at you.");
+laugh at me, but then I ended up laughing at
+you.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(16,0);

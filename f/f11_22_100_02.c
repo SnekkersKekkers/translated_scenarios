@@ -17,8 +17,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("F112210002_22_020");
-MsgDisp("Hikaru","Because last year, while we talked love,
-the school festival ended!
+MsgDisp("Hikaru","Because last year, while we talked love, the
+school festival ended!
 We couldn't look around at all.");
 MsgDisp("主人公","R—right.");
 ChEye(22,0);
@@ -34,8 +34,8 @@ ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F112210002_22_040");
 MsgDisp("Hikaru","...Oh, look.
-Those two over there look like they're
-about to become a couple.");
+Those two over there look like they're about
+to become a couple.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

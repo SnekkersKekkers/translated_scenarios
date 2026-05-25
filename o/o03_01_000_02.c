@@ -10,8 +10,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     VoicePlay("O030100002_01_000");
     MsgDisp("Kazama","Seriously.
-Being this far out of sync is actually
-funny.");
+Being this far out of sync is actually funny.");
     MsgDisp("主人公","(Hm.
 The three-legged race is hard...)");
     break ;
@@ -28,8 +27,8 @@ There must be some kind of mistake...");
     ChMotion(1,3);
     VoicePlay("O030100002_01_020");
     MsgDisp("Kazama","We can't go on like this.
-Let's go to school together from now on
-with our legs tied together.");
+Let's go to school together from now on with
+our legs tied together.");
     MsgDisp("主人公","Huh!?");
     MsgDisp("主人公","(Last, huh...
 Looks like something weird started in
@@ -69,8 +68,8 @@ too.");
     MsgDisp("Kazama","It depends on how you look at it.
 For us, last is fine, isn't it?");
     MsgDisp("主人公","(Last, huh...
-But ｛Kazama＊＊｝ doesn't seem to care
-about our rank...)");
+But ｛Kazama＊＊｝ doesn't seem to care about
+our rank...)");
     break ;
     default :
     DbgAssert(1);

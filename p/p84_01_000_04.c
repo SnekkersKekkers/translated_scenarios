@@ -34,17 +34,16 @@ MsgDisp("Kazama","Well, I didn't have a role to play.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","That's not true.
-I was relieved because ｛Kazama＊＊｝ was
-there with me.");
+I was relieved because ｛Kazama＊＊｝ was there
+with me.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P840100004_01_030");
-MsgDisp("Kazama","If I was of help to you, then I'm also
-happy.");
+MsgDisp("Kazama","If I was of help to you, then I'm also happy.");
 MsgDisp("主人公","(Hehe, I was praised!
-I'm glad I was able to show the results of
-my hard work over the past three years!)");
+I'm glad I was able to show the results of my
+hard work over the past three years!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

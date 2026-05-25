@@ -19,8 +19,9 @@ switch (ChPrmGet(6,6)){
     VoicePlay("I250600000_06_010");
     MsgDisp("Himuro","Oh, it's you.
 You work here?");
-    MsgDisp("主人公","Yeah. You're looking for the reference
-book corner, right? I'll take you there.");
+    MsgDisp("主人公","Yeah.
+You're looking for the reference book corner,
+right? I'll take you there.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -32,8 +33,8 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(6);
-    MsgDisp("主人公","(I thought he was looking for it, but
-maybe I was wrong?)");
+    MsgDisp("主人公","(I thought he was looking for it, but maybe I
+was wrong?)");
     break ;
     case 3:
     MsgClose();
@@ -54,8 +55,8 @@ Are you shopping?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I250600000_06_050");
-    MsgDisp("Himuro","You could also say I'm checking if there
-are any people bothering you at work.");
+    MsgDisp("Himuro","You could also say I'm checking if there are
+any people bothering you at work.");
     MsgDisp("主人公","Geez.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -78,8 +79,8 @@ too much, you'll be fine.");
     VoicePlay("I250600000_06_080");
     MsgDisp("Himuro","By the way, do you have that award-winning
 novel?");
-    MsgDisp("主人公","Ah, that novel has a special display next
-to the entrance.");
+    MsgDisp("主人公","Ah, that novel has a special display next to
+the entrance.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

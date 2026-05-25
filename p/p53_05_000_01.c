@@ -8,8 +8,7 @@ switch (ChPrmGet(5,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I think I'm a little calmer than last
-year.
+    MsgDisp("主人公","(I think I'm a little calmer than last year.
 But, as expected I'm nervous still.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -32,15 +31,14 @@ But, my heart is racing.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P530500001_05_020");
-    MsgDisp("Hiiragi","Yes, I also get nervous each time I
-perform. It all comes from the sense of
-expectation.");
+    MsgDisp("Hiiragi","Yes, I also get nervous each time I perform.
+It all comes from the sense of expectation.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P530500001_05_030");
-    MsgDisp("Hiiragi","I don't know what's going to happen, but
-it might be better than I assumed?");
+    MsgDisp("Hiiragi","I don't know what's going to happen, but it
+might be better than I assumed?");
     MsgDisp("主人公","I see.
 Better than assumed...");
     ChEye(5,0);
@@ -48,8 +46,8 @@ Better than assumed...");
     ChMotion(5,0);
     VoicePlay("P530500001_05_040");
     MsgDisp("Hiiragi","Yes. The fact that your heart is racing,
-might be an omen that a wonderful surprise
-is going occur.");
+might be an omen that a wonderful surprise is
+going occur.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(5,4);
@@ -67,16 +65,14 @@ is going occur.");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(I think I'm a little calmer than last
-year.
+    MsgDisp("主人公","(I think I'm a little calmer than last year.
 But, as expected I'm nervous still.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P530500001_05_060");
-    MsgDisp("Hiiragi","It appears that gaming music is popular,
-yes?");
+    MsgDisp("Hiiragi","It appears that gaming music is popular, yes?");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Thank you for coming.");
     ChEye(5,4);
@@ -110,8 +106,8 @@ unexpected results.");
     MsgDisp("Hiiragi","Your expression right now gives you a good
 feeling about that, doesn't it?");
     MsgDisp("主人公","...Yes.
-｛Hiiragi＊＊＊｝ told me that, so I'm starting
-to think so too!");
+｛Hiiragi＊＊＊｝ told me that, so I'm starting to
+think so too!");
     ChEye(5,0);
     ChMouth(5,3);
     ChMotion(5,0);

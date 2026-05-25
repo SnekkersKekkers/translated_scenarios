@@ -29,8 +29,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P740500004_05_020");
 MsgDisp("Hiiragi","Please don't cry.
-You are a precious bride, so smile until
-the end.");
+You are a precious bride, so smile until the
+end.");
 MsgDisp("主人公","...Yes!");
 ChEye(5,3);
 ChMouth(5,4);
@@ -43,8 +43,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P740500004_05_040");
-MsgDisp("Hiiragi","To surpass this beauty, I'll have to see
-you in a wedding dress once more, won't I?");
+MsgDisp("Hiiragi","To surpass this beauty, I'll have to see you
+in a wedding dress once more, won't I?");
 MsgDisp("主人公","Eh, this year is the last time I'll wear a
 wedding dress for a show?");
 ChMotion(5,0);
@@ -52,9 +52,9 @@ ChEyeOpenLevel(5,#1);
 ChCheek(5,0);
 VoicePlay("P740500004_05_050");
 MsgDisp("Hiiragi","Yes, that's right.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝...? Yeah, I'm glad I gave it
-my best in the handicrafts club these last
-three years...!)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...?
+Yeah, I'm glad I gave it my best in the
+handicrafts club these last three years...!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

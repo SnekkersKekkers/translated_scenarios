@@ -2,16 +2,16 @@ MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020120301_01_000");
-MsgDisp("Kazama","Do you think popular fireflies are
-surrounded by a bunch of other fireflies,
-just like with people?");
+MsgDisp("Kazama","Do you think popular fireflies are surrounded
+by a bunch of other fireflies, just like with
+people?");
 MsgDisp("主人公","Yeah, maybe they are.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120301_01_010");
-MsgDisp("Kazama","Why are you responding like it's got
-nothing to do with you?
+MsgDisp("Kazama","Why are you responding like it's got nothing
+to do with you?
 I'm actually talking about you.");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
@@ -20,8 +20,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120301_01_020");
 MsgDisp("Kazama","You need to be a bit more self-aware.
-Do you understand just how magnetic a
-person you are?");
+Do you understand just how magnetic a person
+you are?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -44,8 +44,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020120301_01_050");
 MsgDisp("Kazama","Sorry.
-And what I have going on is a bit
-different.");
+And what I have going on is a bit different.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -87,10 +86,9 @@ Wait(12,0);
 ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("G020120301_01_100");
-MsgDisp("Kazama","You've totally missed my point, but
-thanks.");
-MsgDisp("主人公","(Does ｛Kazama＊＊｝ not realize how popular
-he is...?)");
+MsgDisp("Kazama","You've totally missed my point, but thanks.");
+MsgDisp("主人公","(Does ｛Kazama＊＊｝ not realize how popular he
+is...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

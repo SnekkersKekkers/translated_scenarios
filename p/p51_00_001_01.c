@@ -14,10 +14,9 @@ MsgDisp("Manager","We are preparing for the cultural festival
 for the next two weeks. Our club's
 performance will feature game music.");
 VoicePlay("P510000101_33_020");
-MsgDisp("Manager","You don't have to push yourself too hard,
-but please try to recover as soon as
-possible and join us for practice when you
-can.");
+MsgDisp("Manager","You don't have to push yourself too hard, but
+please try to recover as soon as possible and
+join us for practice when you can.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","Practice for the cultural festival...

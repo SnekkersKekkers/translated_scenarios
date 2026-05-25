@@ -23,19 +23,18 @@ MsgDisp("主人公","Eh?
 Why is ｛Honda＊＊｝ the one saying...");
 VoicePlay("C010300000_03_030");
 MsgDisp("Honda","I should have talked to you properly like
-this from the start... I was...
-I was running away from you.");
+this from the start...
+I was... I was running away from you.");
 MsgDisp("主人公","No, I'm the one who...");
 VoicePlay("C010300000_03_040");
 MsgDisp("Honda","Then, this conversation's over!
-Next time, let's have a more meaningful
-chat, yeah?");
+Next time, let's have a more meaningful chat,
+yeah?");
 VoicePlay("C010300000_03_050");
 MsgDisp("Honda","Then...
 Later, yeah?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Thank goodness...
-Looks like we were able to make up
-somehow.)");
+Looks like we were able to make up somehow.)");
 MsgClose();

@@ -24,8 +24,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P740700003_07_020");
 MsgDisp("Mikage","That's right.
-Your beautiful dress was popular wasn't
-it?");
+Your beautiful dress was popular wasn't it?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

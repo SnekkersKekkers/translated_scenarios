@@ -30,8 +30,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("E010610000_06_030");
 MsgDisp("Himuro","I'll tell you now, the nutritional balance
-for all my meals is calculated ahead of
-time.");
+for all my meals is calculated ahead of time.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -45,8 +44,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010610000_06_050");
-MsgDisp("Himuro","I'm still growing, so it's okay if I eat
-this much.");
+MsgDisp("Himuro","I'm still growing, so it's okay if I eat this
+much.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -86,15 +85,14 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("E010610000_06_110");
 MsgDisp("Himuro","Well, I'm going home now.
-I have to eat quickly before my mom
-arrives.");
+I have to eat quickly before my mom arrives.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 MsgClose();
 ChClose(6);
 MsgDisp("主人公","(Traditional cuisine...
-I'm a bit curious about the food
-｛Himuro＊＊｝'s mother makes.)");
+I'm a bit curious about the food ｛Himuro＊＊｝'s
+mother makes.)");
 MsgClose();
 ScrFadeOut(0,0);

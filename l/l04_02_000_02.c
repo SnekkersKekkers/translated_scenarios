@@ -41,8 +41,8 @@ Wait, this is expensive, isn't it?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200002_02_040");
-    MsgDisp("Sassa","With something this good, I can't tell you
-to expect something better in return.");
+    MsgDisp("Sassa","With something this good, I can't tell you to
+expect something better in return.");
     MsgDisp("主人公","Hehe, I'll look forward to it.");
     ChEye(2,0);
     ChMouth(2,3);

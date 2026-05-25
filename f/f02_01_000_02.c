@@ -19,17 +19,16 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100002_01_010");
-MsgDisp("Kazama","Like how Mikage-sensei has a hidden farm
-in the basement, for one.");
+MsgDisp("Kazama","Like how Mikage-sensei has a hidden farm in
+the basement, for one.");
 MsgDisp("主人公","Huh?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("F020100002_01_020");
-MsgDisp("Kazama","A vegetable farm filled with artificial
-light machines to prepare for what's
-coming.");
+MsgDisp("Kazama","A vegetable farm filled with artificial light
+machines to prepare for what's coming.");
 MsgDisp("主人公","...'what's coming'?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -49,9 +48,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100002_01_050");
-MsgDisp("Kazama","Yep. There's a rumor he's secretly keeping
-ostrich chicks that are multiplying like
-crazy.");
+MsgDisp("Kazama","Yep.
+There's a rumor he's secretly keeping ostrich
+chicks that are multiplying like crazy.");
 MsgDisp("主人公","And that ostrich farm...
 Don't tell me they're edible?");
 ChEye(1,3);

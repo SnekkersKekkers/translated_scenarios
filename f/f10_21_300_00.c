@@ -13,8 +13,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F102130000_21_010");
 MsgDisp("Michiru","It really is.
-Makes you want to go out somewhere,
-doesn't it?");
+Makes you want to go out somewhere, doesn't
+it?");
 MsgDisp("主人公","Yeah!");
 ChClose(21,0,30);
 MsgClose();

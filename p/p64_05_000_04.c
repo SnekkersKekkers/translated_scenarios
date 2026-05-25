@@ -11,8 +11,8 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P640500004_05_010");
-MsgDisp("Hiiragi","It looked lovely too, this is the first
-time I've seen a salad this showy.");
+MsgDisp("Hiiragi","It looked lovely too, this is the first time
+I've seen a salad this showy.");
 MsgDisp("主人公","I'm glad you liked it!");
 ChEye(5,4);
 ChMouth(5,4);
@@ -26,8 +26,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P640500004_05_030");
 MsgDisp("Hiiragi","I see. This is a culmination of your
-activities in the Gardening Club. It's a
-huge success, congratulations!");
+activities in the Gardening Club.
+It's a huge success, congratulations!");
 MsgDisp("主人公","Hehe, thank you!");
 MsgDisp("主人公","(I'm truly glad I gave it my best the last
 three years in the Gardening Club...!)");

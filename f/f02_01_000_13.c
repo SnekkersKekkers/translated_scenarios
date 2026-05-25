@@ -34,8 +34,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("F020100013_01_030");
 MsgDisp("Kazama","That's right.
-As long as you don't catch a cold, it'll
-go flawlessly.");
+As long as you don't catch a cold, it'll go
+flawlessly.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -51,6 +51,6 @@ ChMotion(1,0);
 VoicePlay("F020100013_01_050");
 MsgDisp("Kazama","Yes!
 Well, let's go back quickly.");
-MsgDisp("主人公","(That's right...I couldn't go in
-elementary or middle school, so this field
-trip with ｛Kazama＊＊｝ will be my first!)");
+MsgDisp("主人公","(That's right... I couldn't go in elementary
+or middle school, so this field trip with
+｛Kazama＊＊｝ will be my first!)");

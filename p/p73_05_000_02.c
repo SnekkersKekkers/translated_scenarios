@@ -8,9 +8,9 @@ switch (ChPrmGet(5,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're displaying wedding
-dresses. This is my last one...I have to
-make it a success!)");
+    MsgDisp("主人公","(This year we're displaying wedding dresses.
+This is my last one...
+I have to make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -22,8 +22,8 @@ The wedding dress...");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500002_05_010");
-    MsgDisp("Hiiragi","To be able to see you in a wedding dress,
-I'm a lucky person.");
+    MsgDisp("Hiiragi","To be able to see you in a wedding dress, I'm
+a lucky person.");
     MsgDisp("主人公","Come on, you're exaggerating?");
     ChEye(5,0);
     ChMouth(5,4);
@@ -31,8 +31,8 @@ I'm a lucky person.");
     ChCheek(5,0);
     VoicePlay("P730500002_05_020");
     MsgDisp("Hiiragi","That's what I really think.
-If you weren't part of the Handicrafts
-club, I wouldn't be able to see this.");
+If you weren't part of the Handicrafts club,
+I wouldn't be able to see this.");
     ChEye(5,4);
     VoicePlay("P730500002_05_030");
     MsgDisp("Hiiragi","I'm grateful.");
@@ -44,8 +44,8 @@ wedding dress.");
     ChMotion(5,3);
     Wait(20,1);
     VoicePlay("P730500002_05_040");
-    MsgDisp("Hiiragi","Yes, think of it as a reward to yourself,
-and enjoy.");
+    MsgDisp("Hiiragi","Yes, think of it as a reward to yourself, and
+enjoy.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","｛Hiiragi＊＊＊｝...
@@ -55,8 +55,8 @@ Yes, I'll enjoy it.");
     MsgDisp("Hiiragi","I'll also be cheering you on from the
 audience.");
     MsgDisp("主人公","(Well, this is my last show.
-In order to not regret it, I'll go forth
-with all of my heart...!)");
+In order to not regret it, I'll go forth with
+all of my heart...!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);
@@ -65,9 +65,9 @@ with all of my heart...!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're displaying wedding
-dresses. This is my last one...I have to
-make it a success!)");
+    MsgDisp("主人公","(This year we're displaying wedding dresses.
+This is my last one...
+I have to make it a success!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -81,8 +81,8 @@ make it a success!)");
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500002_05_070");
     MsgDisp("Hiiragi","...I heard the third years were wearing
-wedding dresses they made, but actually,
-when I look at you, no words come out.");
+wedding dresses they made, but actually, when
+I look at you, no words come out.");
     MsgDisp("主人公","I hope that means it's turned out well...");
     ChEye(5,0);
     ChMouth(5,4);
@@ -99,8 +99,8 @@ I'm happy.");
     ChCheek(5,0);
     Wait(20,1);
     VoicePlay("P730500002_05_090");
-    MsgDisp("Hiiragi","Yes, it's to the extent that I want to
-take you away like this.");
+    MsgDisp("Hiiragi","Yes, it's to the extent that I want to take
+you away like this.");
     MsgDisp("主人公","Eh...?");
     ChEye(5,4);
     ChMouth(5,4);
@@ -113,13 +113,13 @@ take you away like this.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P730500002_05_110");
-    MsgDisp("Hiiragi","It cannot be helped. I'll share this
-happiness with everyone in the audience.
-Have fun.");
+    MsgDisp("Hiiragi","It cannot be helped.
+I'll share this happiness with everyone in
+the audience. Have fun.");
     MsgDisp("主人公","...Yeah!");
     MsgDisp("主人公","(Alright, this is my last runway.
-In order to not regret it, I'll go forth
-with all of my heart...!)");
+In order to not regret it, I'll go forth with
+all of my heart...!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

@@ -39,8 +39,8 @@ ChMotion(2,2);
 VoicePlay("P140200001_02_050");
 MsgDisp("Sassa","Then, where's the milk?");
 MsgDisp("主人公","(Ah, what a huge failure...
-I'll have to make some adjustments from
-now on.)");
+I'll have to make some adjustments from now
+on.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

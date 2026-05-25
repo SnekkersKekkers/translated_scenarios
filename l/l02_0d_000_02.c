@@ -16,14 +16,15 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("L020D00002_21_000");
 MsgDisp("Michiru","That's a nice smile.
-Won't the boys receiving your chocolate
-get knocked out from just that?");
+Won't the boys receiving your chocolate get
+knocked out from just that?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("L020D00002_22_010");
 MsgDisp("Hikaru","Hikaru wants to see that, but will try to
-hold back. Good luck～!");
+hold back.
+Good luck～!");
 MsgDisp("主人公","Thank you!");
 BGMStop();
 MsgClose();

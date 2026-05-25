@@ -18,10 +18,12 @@ I showed you a weird performance...");
     ChMouth(21,0);
     ChMotion(21,3);
     VoicePlay("H4A2100001_21_010");
-    MsgDisp("Michiru","Hehe! I'm sorry, I shouldn't laugh, but
-you know...I still enjoyed it.");
-    MsgDisp("主人公","(...Ugh. But was it worth staying in the
-rhythmic gymnastics club...?)");
+    MsgDisp("Michiru","Hehe!
+I'm sorry, I shouldn't laugh, but you know...
+I still enjoyed it.");
+    MsgDisp("主人公","(...Ugh.
+But was it worth staying in the rhythmic
+gymnastics club...?)");
     break ;
     case 4:
     case 5:
@@ -54,8 +56,8 @@ Really.");
 I'll give Mari a special award.
 Okay?");
     MsgDisp("主人公","(｛みちる＊｝...
-I lost, but I'm glad I stayed in the
-rhythmic gymnastics club.)");
+I lost, but I'm glad I stayed in the rhythmic
+gymnastics club.)");
     break ;
     default :
     DbgAssert(1);

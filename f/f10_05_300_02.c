@@ -5,8 +5,8 @@ ChOpen(5,254,4,0,4,#1,#1,0,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah, it's ｛Hiiragi＊＊＊｝.
-Looks like it's his turn to do the
-greeting enforcement campaign.)");
+Looks like it's his turn to do the greeting
+enforcement campaign.)");
 VoicePlay("F100530002_05_000");
 MsgDisp("Hiiragi","Good morning.");
 VoicePlay("F100530002_40_000");
@@ -24,8 +24,8 @@ ChMotion(5,4);
 VoicePlay("F100530002_05_020");
 MsgDisp("Hiiragi","Yo—");
 MsgDisp("主人公","Hehe.
-Looks like you've learned another
-greeting, ｛Hiiragi＊＊＊｝?");
+Looks like you've learned another greeting,
+｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -34,8 +34,7 @@ MsgDisp("Hiiragi","Yes.
 Fun greetings are great because they make
 everyone smile naturally.");
 VoicePlay("F100530002_40_020");
-MsgDisp("Student A","I see, use it as much as you like,
-Yanosuke.");
+MsgDisp("Student A","I see, use it as much as you like, Yanosuke.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -104,9 +103,9 @@ VoicePlay("F100530002_05_060");
 MsgDisp("Hiiragi","Heheh.
 I really do enjoy the greeting enforcement
 campaign.");
-MsgDisp("主人公","(I might understand how ｛Hiiragi＊＊＊｝
-feels? Funny greetings just make you
-smile, it's nice!)");
+MsgDisp("主人公","(I might understand how ｛Hiiragi＊＊＊｝ feels?
+Funny greetings just make you smile, it's
+nice!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

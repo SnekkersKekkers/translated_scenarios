@@ -21,11 +21,11 @@ They did it, you guys won!");
     ChMotion(2,4);
     VoicePlay("H1A0200000_02_010");
     MsgDisp("Sassa","Congrats.
-Everyone was able to give it their all
-thanks to their manager.");
+Everyone was able to give it their all thanks
+to their manager.");
     MsgDisp("主人公","(I'm so happy.
-I'm glad that I stayed as the baseball
-club manager!)");
+I'm glad that I stayed as the baseball club
+manager!)");
     break ;
     default :
     DbgAssert(1);

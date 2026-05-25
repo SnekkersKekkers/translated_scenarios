@@ -17,8 +17,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,2);
     ChMotion(2,2);
     VoicePlay("H2A0200001_02_000");
-    MsgDisp("Sassa","So at the very end, the championship was
-just out of reach...");
+    MsgDisp("Sassa","So at the very end, the championship was just
+out of reach...");
     ChEye(2,2);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -32,9 +32,9 @@ It's fine as long as you're satisfied,
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("H2A0200001_02_020");
-    MsgDisp("Sassa","You're not just my manager. Winning on my
-own isn't enough...I wanted the team to
-take the championship.");
+    MsgDisp("Sassa","You're not just my manager.
+Winning on my own isn't enough...
+I wanted the team to take the championship.");
     MsgDisp("主人公","｛Sassa＊＊｝...");
     ChEye(2,4);
     ChMouth(2,0);

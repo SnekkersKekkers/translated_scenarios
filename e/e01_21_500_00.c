@@ -16,8 +16,8 @@ ChMouth(21,3);
 ChMotion(21,1);
 VoicePlay("E012150000_21_010");
 MsgDisp("Michiru","I'm going to a photoshoot now.
-But I wanted to stop by a store and pick
-up some souvenirs on the way there.");
+But I wanted to stop by a store and pick up
+some souvenirs on the way there.");
 MsgDisp("主人公","Oh, you're working?
 Good luck!");
 ChSet(21,3);
@@ -28,8 +28,8 @@ Bye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(21);
 MsgDisp("主人公","(I see.
-I guess sometimes models can get called in
-on short notice...)");
+I guess sometimes models can get called in on
+short notice...)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -60,8 +60,8 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("E012150000_21_060");
 MsgDisp("Michiru","That's right.
-I got some freebies earlier when I was
-buying snacks.");
+I got some freebies earlier when I was buying
+snacks.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
@@ -75,9 +75,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,1);
 VoicePlay("E012150000_21_080");
-MsgDisp("Michiru","Yeah. What a relief.
-Now I can work in peace.
-Okay, see you later.");
+MsgDisp("Michiru","Yeah.
+What a relief.
+Now I can work in peace. Okay, see you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(21);

@@ -55,9 +55,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F100130000_21_020");
-MsgDisp("Michiru","I heard that if you try to meet Mari
-during break, there's a high chance
-Kazama-kun will appear.");
+MsgDisp("Michiru","I heard that if you try to meet Mari during
+break, there's a high chance Kazama-kun will
+appear.");
 ChEye(1,0);
 ChEye(22,0);
 ChMouth(22,3);
@@ -93,8 +93,7 @@ ChMotion(21,0);
 VoicePlay("F100130000_21_030");
 MsgDisp("Michiru","Well, it went just as expected.");
 MsgDisp("主人公","Um...
-Was there something you wanted to talk
-about?");
+Was there something you wanted to talk about?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);

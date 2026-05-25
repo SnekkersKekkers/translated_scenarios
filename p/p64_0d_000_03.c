@@ -28,7 +28,8 @@ ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("P640D00003_22_020");
 MsgDisp("Hikaru","Isn't selling this hopeless...");
-MsgDisp("主人公","(Uugh...Seems like I didn't take care of
-it properly. A huge fail...)");
+MsgDisp("主人公","(Uugh...
+Seems like I didn't take care of it properly.
+A huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);

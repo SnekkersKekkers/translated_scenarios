@@ -23,8 +23,8 @@ Yeah.");
     ChMotion(7,0);
     VoicePlay("S120700004_07_050");
     MsgDisp("Mikage","It's your final winter vacation of high
-school. Live properly so you don't have
-any regrets, okay?");
+school. Live properly so you don't have any
+regrets, okay?");
     MsgDisp("主人公","Yeah, I'll be graduating soon...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -39,8 +39,7 @@ Did you get to make a wish properly?");
     ChMotion(7,0);
     VoicePlay("S120700004_07_070");
     MsgDisp("Mikage","Alright then, I'll take you home.
-Shall we talk about our wishes while we
-walk?");
+Shall we talk about our wishes while we walk?");
     MsgDisp("主人公","Ehh?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();

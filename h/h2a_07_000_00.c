@@ -11,8 +11,7 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0700000_07_000");
-    MsgDisp("Mikage","Winning championships, isn't that
-amazing?");
+    MsgDisp("Mikage","Winning championships, isn't that amazing?");
     MsgDisp("主人公","Yes, ｛Mikage＊＊｝, we did it!");
     ChEye(7,0);
     ChMouth(7,0);
@@ -32,8 +31,8 @@ Thanks.");
     ChMotion(7,0);
     VoicePlay("H2A0700000_07_030");
     MsgDisp("Mikage","Thanks to you, the members were able to
-concentrate on this competition. Sorry I
-put so much pressure on you, manager.");
+concentrate on this competition.
+Sorry I put so much pressure on you, manager.");
     MsgDisp("主人公","No, not at all...");
     ChEye(7,0);
     ChMouth(7,3);
@@ -47,8 +46,9 @@ put so much pressure on you, manager.");
     MsgDisp("Mikage","Come on, everyone's looking over here like
 they want to thank you.
 Go on.");
-    MsgDisp("主人公","(We did it! We won! I'm glad I did my best
-for the club with everyone!)");
+    MsgDisp("主人公","(We did it!
+We won! I'm glad I did my best for the club
+with everyone!)");
     break ;
     default :
     DbgAssert(1);

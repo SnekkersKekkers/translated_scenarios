@@ -37,9 +37,9 @@ VoicePlay("F032200000_22_090");
 MsgDisp("Hikaru","But you know～
 Hikaru is rarely allowed to eat it.
 Even though it's super delicious?");
-MsgDisp("主人公","(Ah...｛ひかる＊｝ is a model so, I
-wonder if there's restrictions on what she
-can eat?)");
+MsgDisp("主人公","(Ah...
+｛ひかる＊｝ is a model so, I wonder if
+there's restrictions on what she can eat?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

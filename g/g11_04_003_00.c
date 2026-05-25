@@ -3,8 +3,9 @@ BGOpen("ar100",0);
 ScrFadeIn(0);
 VoicePlay("G110400300_34_000");
 MsgDisp("Clerk","Welcome.");
-MsgDisp("主人公","(Phew...I need to take a break from
-Habatcher coverage. I'm so thirsty.)");
+MsgDisp("主人公","(Phew...
+I need to take a break from Habatcher
+coverage. I'm so thirsty.)");
 SEStop("EV_SE_DOOR_014");
 MsgClose();
 ScrFadeOut(0);

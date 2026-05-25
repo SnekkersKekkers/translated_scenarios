@@ -19,9 +19,9 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("E010810000_08_020");
-MsgDisp("Shirahane","That's right. It's curry night! The
-Shirahane family's special curry is
-delicious～▼");
+MsgDisp("Shirahane","That's right.
+It's curry night! The Shirahane family's
+special curry is delicious～▼");
 MsgDisp("主人公","Wow, that's great!
 Now I'm getting hungry...");
 ChEye(8,5);
@@ -49,22 +49,23 @@ ChMouth(8,0);
 ChMotion(8,4,1);
 ChCheek(8,7);
 VoicePlay("E010810000_08_050");
-MsgDisp("Shirahane","Oh gosh! That sounded way too much like a
-pick-up line.");
+MsgDisp("Shirahane","Oh gosh!
+That sounded way too much like a pick-up
+line.");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("E010810000_08_060");
-MsgDisp("Shirahane","It's gettin' late, so be careful goin'
-home. A delicious dinner awaits you. See
-ya!");
+MsgDisp("Shirahane","It's gettin' late, so be careful goin' home.
+A delicious dinner awaits you.
+See ya!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(8,0,30);
 MsgDisp("主人公","(I was surprised...
-But I'm curious to try the Shirahane
-family's special curry.)");
+But I'm curious to try the Shirahane family's
+special curry.)");
 MsgClose();
 ScrFadeOut(0);
 ChEyeOpenLevel(8,#1);

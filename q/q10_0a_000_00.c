@@ -12,8 +12,8 @@ SEPlay("EV_SE_544");
 ChOpen(1,254,0,4,3,#1,#1,0,1);
 VoicePlay("Q100A00000_01_000");
 MsgDisp("Kazama","Meticulously crafted.
-The skill of the masonry craftsmen back
-then was amazing.");
+The skill of the masonry craftsmen back then
+was amazing.");
 MsgDisp("主人公","Yeah, it doesn't look like such an old
 bridge.");
 VoicePlay("Q100A00000_46_000");
@@ -31,14 +31,13 @@ VoicePlay("Q100A00000_02_010");
 MsgDisp("Sassa","A power stone or something?");
 ChMotion(1,0);
 MsgDisp("主人公","No, there's a heart-shaped stone on the
-seawall and if you touch it, it's said
-that your love will come true.");
+seawall and if you touch it, it's said that
+your love will come true.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q100A00000_02_020");
-MsgDisp("Sassa","Huh, seems like something girls would
-like.");
+MsgDisp("Sassa","Huh, seems like something girls would like.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -74,8 +73,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
 VoicePlay("Q100A00000_02_050");
-MsgDisp("Sassa","My eyesight and legs are better than
-yours!");
+MsgDisp("Sassa","My eyesight and legs are better than yours!");
 MsgDisp("主人公","(They're gone...)");
 MsgClose();
 ScrFadeOut(0);
@@ -89,8 +87,8 @@ ChOpen(1,254,0,0,2,8,#1,0,1,0,30);
 ChOpen(2,254,4,0,4,7,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("Q100A00000_02_060");
-MsgDisp("Sassa","Well, I guess the search for the heart
-stone ends in a draw");
+MsgDisp("Sassa","Well, I guess the search for the heart stone
+ends in a draw");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -142,8 +140,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q100A00000_02_100");
 MsgDisp("Sassa","Oh, yeah.
-I should also go buy some stuff for home
-and people I know.");
+I should also go buy some stuff for home and
+people I know.");
 MsgDisp("主人公","Me too.
 I wanna look for souvenirs to take home.");
 ChEye(1,0);
@@ -161,7 +159,7 @@ MsgClose();
 SEPlay("EV_SE_856");
 ChClose(2,0,30);
 ChClose(1,0,30);
-MsgDisp("主人公","(Okay, let's start by buying a souvenir
-for ｛Himuro＊＊｝!)");
+MsgDisp("主人公","(Okay, let's start by buying a souvenir for
+｛Himuro＊＊｝!)");
 MsgClose();
 ScrFadeOut(0);

@@ -8,8 +8,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("L040400002_04_000");
     MsgDisp("Nanatsumori","Ah, this is...");
     MsgDisp("主人公","I got a little excited!
-It's a popular chocolate I saw on
-Habatcher.");
+It's a popular chocolate I saw on Habatcher.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0);
@@ -39,8 +38,7 @@ I went a little all out.");
     ChMotion(4,1);
     VoicePlay("L040400002_04_030");
     MsgDisp("Nanatsumori","Yeah, I know.
-I haven't tried it yet, so I'm super
-happy.");
+I haven't tried it yet, so I'm super happy.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0);
@@ -62,7 +60,8 @@ Thank goodness!)");
     ChMouth(4,4);
     ChMotion(4,0);
     VoicePlay("L040400002_04_050");
-    MsgDisp("Nanatsumori","! This was hard to get, right?
+    MsgDisp("Nanatsumori","!
+This was hard to get, right?
 It's a pretty popular store, now.");
     MsgDisp("主人公","If it's for you, ｛Nanatsumori＊｝, then I
 don't mind a bit of challenge.");

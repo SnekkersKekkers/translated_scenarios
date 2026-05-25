@@ -21,8 +21,7 @@ ChMotion(5,4);
 VoicePlay("P540500000_05_010");
 MsgDisp("Hiiragi","That's a nice smile.
 And a wonderful performance.");
-MsgDisp("主人公","Once I got on stage, I started to feel
-calm.");
+MsgDisp("主人公","Once I got on stage, I started to feel calm.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

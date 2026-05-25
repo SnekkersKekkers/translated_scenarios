@@ -30,8 +30,8 @@ MsgDisp("主人公","Yeah.");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("E010420200_04_010");
-MsgDisp("Nanatsumori","I showed Yano-san around the 1 rich store
-to his heart's content.");
+MsgDisp("Nanatsumori","I showed Yano-san around the 1 rich store to
+his heart's content.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,3);
@@ -48,22 +48,22 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010420200_04_020");
-MsgDisp("Nanatsumori","Makeup remover and cotton among other
-things. The quality at 1 Rich shops isn't
-so bad nowadays.");
+MsgDisp("Nanatsumori","Makeup remover and cotton among other things.
+The quality at 1 Rich shops isn't so bad
+nowadays.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010420200_05_040");
-MsgDisp("Hiiragi","They're consumables for the theater
-company, so I can't be too picky.
+MsgDisp("Hiiragi","They're consumables for the theater company,
+so I can't be too picky.
 It's a big help.");
 ChEye(4,5);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("E010420200_04_030");
-MsgDisp("Nanatsumori","Wow-...You're the leader, an actor, and a
-handyman.
+MsgDisp("Nanatsumori","Wow-...
+You're the leader, an actor, and a handyman.
 Yano-san, you're seriously amazing.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -74,8 +74,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("E010420200_05_050");
-MsgDisp("Hiiragi","No, the way I see it, you and
-Nanatsumori-kun are much more amazing.
+MsgDisp("Hiiragi","No, the way I see it, you and Nanatsumori-kun
+are much more amazing.
 Well, goodbye for now.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -88,8 +88,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("E010420200_04_040");
 MsgDisp("Nanatsumori","...His energy is definitely different.
-Is that what happens when you're at a
-leader level?");
+Is that what happens when you're at a leader
+level?");
 MsgDisp("主人公","(Hehe!
 I guess ｛Nanatsumori＊｝ really respects
 ｛Hiiragi＊＊＊｝)");

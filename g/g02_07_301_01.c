@@ -40,16 +40,15 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020730101_07_060");
-MsgDisp("Mikage","I also was one of the critters drawn to
-you.");
+MsgDisp("Mikage","I also was one of the critters drawn to you.");
 MsgDisp("主人公","｛Mikage＊＊｝...?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 ChEyeOpenLevel(7,8);
 VoicePlay("G020730101_07_070");
-MsgDisp("Mikage","Really, that's what this situation is,
-isn't it??");
+MsgDisp("Mikage","Really, that's what this situation is, isn't
+it??");
 MsgDisp("主人公","(Being together with ｛Mikage＊＊｝ and
 everyone is really fun though ...)");
 BGMStop();

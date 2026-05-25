@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
         ChOpen(2,254,0,0,4,#1,#1,0,0);
         VoicePlay("F010200002_02_000");
         MsgDisp("Sassa","Oh, what's up?");
-        MsgDisp("主人公","I was thinking about walking home with
-you.");
+        MsgDisp("主人公","I was thinking about walking home with you.");
         break ;
         case 3:
         MsgClose();

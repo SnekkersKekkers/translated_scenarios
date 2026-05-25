@@ -14,8 +14,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("H6G0200000_02_010");
 MsgDisp("Sassa","Are you playing dumb?
-I heard that you won the grand prize in
-the gardening club's competition.");
+I heard that you won the grand prize in the
+gardening club's competition.");
 MsgDisp("主人公","Yes, that's right.
 Is that why you came all the way here?");
 ChEye(2,0);
@@ -40,9 +40,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("H6G0200000_02_040");
-MsgDisp("Sassa","...Y-Yeah. Of course the flowers would
-bloom beautifully if you take care of them
-with a smile like that.");
+MsgDisp("Sassa","...Y-Yeah. Of course the flowers would bloom
+beautifully if you take care of them with a
+smile like that.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -56,7 +56,7 @@ ChClose(2);
 SEWait();
 MsgDisp("主人公","Thank you, ｛Sassa＊＊｝.");
 MsgDisp("主人公","(I'm so happy!
-I'm glad I worked so hard for the
-gardening club.)");
+I'm glad I worked so hard for the gardening
+club.)");
 MsgClose();
 ScrFadeOut(0,0);

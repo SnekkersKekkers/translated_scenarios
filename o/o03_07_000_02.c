@@ -43,8 +43,7 @@ It's frustrating.)");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("O030700002_07_030");
-    MsgDisp("Mikage","Hey, everyone's super excited, aren't
-they?");
+    MsgDisp("Mikage","Hey, everyone's super excited, aren't they?");
     MsgDisp("主人公","Um...since we're last, I guess everyone's
 applause is just loud?");
     ChEye(7,0);
@@ -59,8 +58,8 @@ become a page of my memories.");
     ChMotion(7,2);
     VoicePlay("O030700002_07_050");
     MsgDisp("Mikage","Is it okay?
-I'm taking up a lot of space on the page
-of your sports festival memories.");
+I'm taking up a lot of space on the page of
+your sports festival memories.");
     MsgDisp("主人公","Hehe.
 I'm glad we got to go together.");
     MsgDisp("主人公","(I'm frustrated we got last, but I'm glad

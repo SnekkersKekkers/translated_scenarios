@@ -2,8 +2,8 @@ BGOpen("sc310",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Now that I think about it...
-｛Hiiragi＊＊＊｝ was having trouble studying
-by himself in the library the other day.)");
+｛Hiiragi＊＊＊｝ was having trouble studying by
+himself in the library the other day.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);
@@ -38,8 +38,7 @@ MsgDisp("Hiiragi","Is that so?
 Thank you.
 Absolutely, please do.");
 MsgDisp("主人公","Yeah.
-I don't feel motivated
-when I'm alone either.");
+I don't feel motivated when I'm alone either.");
 MsgDisp("主人公","Huh, that's...");
 ChEye(5,0);
 ChMouth(5,4);
@@ -55,9 +54,9 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 ChCheek(5,5);
 VoicePlay("F100510001_05_040");
-MsgDisp("Hiiragi","It is embarrassing, however, I wasn't able
-to attend school very often, especially in
-my third year of middle school.");
+MsgDisp("Hiiragi","It is embarrassing, however, I wasn't able to
+attend school very often, especially in my
+third year of middle school.");
 MsgDisp("主人公","That was before the theatre troupe came to
 Habataki City, right?");
 ChEye(5,4);
@@ -65,21 +64,21 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChCheek(5,0);
 VoicePlay("F100510001_05_050");
-MsgDisp("Hiiragi","I was able to enroll with the kindness of
-the principal.");
+MsgDisp("Hiiragi","I was able to enroll with the kindness of the
+principal.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100510001_05_060");
-MsgDisp("Hiiragi","I can't be as good as everyone, but I hope
-to get even just a little closer.
+MsgDisp("Hiiragi","I can't be as good as everyone, but I hope to
+get even just a little closer.
 Shall we start right away?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is amazing. Even though he's
-so busy...I would like to be able to help
-out any way that I can.)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is amazing.
+Even though he's so busy... I would like to
+be able to help out any way that I can.)");
 MsgClose();
 ScrFadeOut(0,0);

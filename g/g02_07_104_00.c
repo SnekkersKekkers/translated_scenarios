@@ -10,8 +10,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710400_07_010");
-MsgDisp("Mikage","I see, maybe I should try reading them
-too...");
+MsgDisp("Mikage","I see, maybe I should try reading them too...");
 MsgDisp("主人公","Eh?
 ｛Mikage＊＊｝, are you interested?");
 ChEye(7,0);
@@ -25,16 +24,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710400_07_030");
-MsgDisp("Mikage","Besides, some girls in class said there's
-a character in a shoujo manga that looks
-like me.");
+MsgDisp("Mikage","Besides, some girls in class said there's a
+character in a shoujo manga that looks like
+me.");
 MsgDisp("主人公","Ehh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710400_07_040");
-MsgDisp("Mikage","They mentioned something about my
-hairstyle and curls.");
+MsgDisp("Mikage","They mentioned something about my hairstyle
+and curls.");
 MsgDisp("主人公","｛Mikage＊＊｝'s curls...
 Hehe, maybe—");
 ChEye(7,0);

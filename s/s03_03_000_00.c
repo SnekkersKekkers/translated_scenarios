@@ -40,8 +40,8 @@ Happy New Year.");
     MsgDisp("Honda","I wanted to say it first.
 But somehow you rang me first.");
     MsgDisp("主人公","Hehe.
-Hey, if it's okay with you, would you like
-to visit the shrine together?");
+Hey, if it's okay with you, would you like to
+visit the shrine together?");
     break ;
     default :
     DbgAssert(1);

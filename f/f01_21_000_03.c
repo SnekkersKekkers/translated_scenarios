@@ -26,8 +26,7 @@ Let's go.");
     ChMotion(21,4);
     VoicePlay("F012100003_21_020");
     MsgDisp("Michiru","We shall do that.
-There are many things I want to talk
-about.");
+There are many things I want to talk about.");
     MsgDisp("主人公","Hehe.
 Well, let's go.");
     break ;

@@ -21,8 +21,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("S110100000_01_020");
-MsgDisp("Kazama","Wait a sec, you're the one I'm worried
-about.
+MsgDisp("Kazama","Wait a sec, you're the one I'm worried about.
 This bad luck thing is...");
 ChEye(1,2);
 ChMouth(1,2);

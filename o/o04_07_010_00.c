@@ -70,8 +70,7 @@ Let's do our best.");
     VoicePlay("O040701000_07_070");
     MsgDisp("Mikage","｛主人公｝, let's win.");
     MsgDisp("主人公","Huh?
-So you're participating too,
-｛Mikage＊＊｝.");
+So you're participating too, ｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

@@ -23,8 +23,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630001_06_030");
 MsgDisp("Himuro","Of course.
-Without you, there'd be no connection at
-all.");
+Without you, there'd be no connection at all.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
@@ -41,16 +40,16 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630001_06_060");
-MsgDisp("Himuro","...Though I wouldn't say that to
-Ryota-senpai or Nozomu-senpai.");
+MsgDisp("Himuro","...Though I wouldn't say that to Ryota-senpai
+or Nozomu-senpai.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630001_06_070");
-MsgDisp("Himuro","I'm sure the me from middle school would
-be shocked. 
+MsgDisp("Himuro","I'm sure the me from middle school would be
+shocked.
 \"What are you doing, you idiot?\"");
 MsgDisp("主人公","Eh, why?");
 ChEye(6,0);

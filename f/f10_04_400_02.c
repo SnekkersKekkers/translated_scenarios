@@ -33,8 +33,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F100440002_04_020");
 MsgDisp("Nanatsumori","Well...
-I taught him the proper strategy
-for dealing with a sister.");
+I taught him the proper strategy for dealing
+with a sister.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -60,8 +60,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("F100440002_03_040");
-MsgDisp("Honda","Well, it might come in handy if we ever
-get into a fight with you.");
+MsgDisp("Honda","Well, it might come in handy if we ever get
+into a fight with you.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);

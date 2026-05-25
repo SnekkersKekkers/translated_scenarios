@@ -26,8 +26,8 @@ ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220201_02_030");
 MsgDisp("Sassa","Hmm...
-You sure make it sound like it's got
-nothing to do with you.");
+You sure make it sound like it's got nothing
+to do with you.");
 MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -38,9 +38,9 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020220201_02_050");
-MsgDisp("Sassa","(sigh) I thought I was the person closest
-to you, but then Inori got past me like it
-was nothing before I even realized it.");
+MsgDisp("Sassa","(sigh) I thought I was the person closest to
+you, but then Inori got past me like it was
+nothing before I even realized it.");
 MsgDisp("主人公","What does that mean...");
 ChEye(2,0);
 ChMouth(2,0);
@@ -54,8 +54,8 @@ ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020220201_02_070");
 MsgDisp("Sassa","...Do I have any chance of winning?");
-MsgDisp("主人公","(It seems like ｛Sassa＊＊｝ is concerned
-about ｛Himuro＊＊｝ and me...)");
+MsgDisp("主人公","(It seems like ｛Sassa＊＊｝ is concerned about
+｛Himuro＊＊｝ and me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

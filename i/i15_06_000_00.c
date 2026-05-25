@@ -65,9 +65,9 @@ I'm going home after buying stuff.");
     ChMotion(6,0);
     VoicePlay("I150600000_06_060");
     MsgDisp("Himuro","Is this store aimed at just women...?");
-    MsgDisp("主人公","I don't think there's any rule like that,
-but I guess there is a lot of products
-here that are aimed at women?");
+    MsgDisp("主人公","I don't think there's any rule like that, but
+I guess there is a lot of products here that
+are aimed at women?");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,2);
@@ -107,8 +107,7 @@ Did he really come here to shop?)");
     ChMotion(6,0);
     VoicePlay("I150600000_06_100");
     MsgDisp("Himuro","Ah, I see.");
-    MsgDisp("主人公","Could it be that you came to check up on
-me?");
+    MsgDisp("主人公","Could it be that you came to check up on me?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,5);

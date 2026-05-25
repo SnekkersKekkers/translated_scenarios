@@ -9,26 +9,26 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700002_07_000");
-MsgDisp("Mikage","Our school's church legends...there are
-many tales surrounding it, aren't there?");
+MsgDisp("Mikage","Our school's church legends...there are many
+tales surrounding it, aren't there?");
 MsgDisp("主人公","Yes.
-The story about the Prince and the
-Princess is most famous though.");
+The story about the Prince and the Princess
+is most famous though.");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F020700002_07_010");
 MsgDisp("Mikage","This one isn't about the prince or the
-princess. It's about Vice Principal
-Himuro's love life.");
+princess.
+It's about Vice Principal Himuro's love life.");
 MsgDisp("主人公","Ehh∋");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700002_07_020");
-MsgDisp("Mikage","Even though he was supposed to meet
-someone important there, the other person
-got the time wrong.");
+MsgDisp("Mikage","Even though he was supposed to meet someone
+important there, the other person got the
+time wrong.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -48,9 +48,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700002_07_050");
-MsgDisp("Mikage","Sometimes rumours contain a grain of
-truth. Maybe something similar to that
-story did happen?");
+MsgDisp("Mikage","Sometimes rumours contain a grain of truth.
+Maybe something similar to that story did
+happen?");
 MsgDisp("主人公","Vice Principal Himuro's love story...
 It's kind of wonderful.");
 ChEye(7,0);
@@ -65,5 +65,5 @@ ChMotion(7,1);
 VoicePlay("F020700002_07_070");
 MsgDisp("Mikage","Don't.
 That curiosity will be fatal.");
-MsgDisp("主人公","(...We happily walked home talking about
-this story.)");
+MsgDisp("主人公","(...We happily walked home talking about this
+story.)");

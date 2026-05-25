@@ -60,9 +60,8 @@ care of the players, right?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H2A0100000_01_060");
-    MsgDisp("Kazama","Studying hard and working hard, only
-someone as stubborn as you could pull it
-off.");
+    MsgDisp("Kazama","Studying hard and working hard, only someone
+as stubborn as you could pull it off.");
     MsgDisp("主人公","Geez, you don't need to call me stubborn.
 But thanks!");
     ChEye(1,0);
@@ -70,8 +69,8 @@ But thanks!");
     ChMotion(1,0);
     VoicePlay("H2A0100000_01_070");
     MsgDisp("Kazama","Yeah.
-But starting tomorrow, I'll have you
-working exclusively for me.");
+But starting tomorrow, I'll have you working
+exclusively for me.");
     MsgDisp("主人公","Hehe, sure, sure.");
     ChEye(1,4);
     ChMouth(1,3);

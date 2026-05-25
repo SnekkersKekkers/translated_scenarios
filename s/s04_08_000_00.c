@@ -44,8 +44,8 @@ The timing was off...");
 Anyway, later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he went through the trouble
-of inviting me...
+        MsgDisp("主人公","(Even though he went through the trouble of
+inviting me...
 Did I make the wrong choice?)");
         break ;
         default :
@@ -74,17 +74,16 @@ And the same to you.");
         MsgDisp("Shirahane","Yes!");
         MsgDisp("主人公","Hehe, you're full of energy this year.");
         VoicePlay("S040800000_08_090");
-        MsgDisp("Shirahane","I guess it was you who made me so
-energetic?
+        MsgDisp("Shirahane","I guess it was you who made me so energetic?
 Haha!");
         VoicePlay("S040800000_08_100");
         MsgDisp("Shirahane","Okay then...
 I'll come getcha from your house.
 So get ready and wait.");
         VoicePlay("S040800000_08_110");
-        MsgDisp("Shirahane","Ah, I guess if ya wanna dress up it'll
-take a while...I'll come slowly. See you
-later.");
+        MsgDisp("Shirahane","Ah, I guess if ya wanna dress up it'll take a
+while...
+I'll come slowly. See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(I feel like he's expecting something from
@@ -104,8 +103,8 @@ Now then, what to wear?)");
 Alright, seeya.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he went through all the
-trouble of inviting me...
+        MsgDisp("主人公","(Even though he went through all the trouble
+of inviting me...
 Did I make the wrong choice?)");
         break ;
         default :

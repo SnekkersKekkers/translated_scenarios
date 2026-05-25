@@ -17,8 +17,8 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100003_01_010");
     MsgDisp("Kazama","What's wrong with you...
-It's impossible for me to not feel
-anything with this ranking.");
+It's impossible for me to not feel anything
+with this ranking.");
     ChEyeOpenLevel(1,0);
     Wait(8,0);
     ChEye(1,4);
@@ -39,8 +39,8 @@ I've got to study harder...)");
     VoiceEVSPlay(1);
     VoicePlay("N020100003_01_030");
     MsgDisp("Kazama","｛主人公｝.
-You really are hopelessly scatterbrained,
-you know that?");
+You really are hopelessly scatterbrained, you
+know that?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 Umm...
 What do you mean?");
@@ -55,8 +55,8 @@ Did you answer in the wrong column?");
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("N020100003_01_050");
-    MsgDisp("Kazama","Don't tell me you actually got these
-grades fair and square.");
+    MsgDisp("Kazama","Don't tell me you actually got these grades
+fair and square.");
     ChEyeOpenLevel(1,0);
     Wait(10,0);
     ChEye(1,2);

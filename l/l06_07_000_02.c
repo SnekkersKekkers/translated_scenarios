@@ -3,8 +3,8 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Jewel Aroma Soap\")");
-MsgDisp("主人公","(Pretty! The soap is sparkling like a
-jewel. It smells like herbs.
+MsgDisp("主人公","(Pretty! The soap is sparkling like a jewel.
+It smells like herbs.
 ｛Mikage＊＊｝ made this, didn't he?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -17,8 +17,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("U110D00000_21_000");
 MsgDisp("Michiru","No problem.
-Well then, to the Hanatsubaki Estate we
-go.");
+Well then, to the Hanatsubaki Estate we go.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

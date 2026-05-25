@@ -11,8 +11,8 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(2,254,4,0,4,#1,#1,0,0);
 VoicePlay("P540200003_02_000");
 MsgDisp("Sassa","Good job.
-Hey, there was a weird sound in the
-middle, right?");
+Hey, there was a weird sound in the middle,
+right?");
 MsgDisp("主人公","Y-Yeah.
 I missed a note....");
 ChEye(2,0);
@@ -35,8 +35,8 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("P540200003_02_030");
 MsgDisp("Sassa","I see.
-Even if it was a mistake to you, the
-audience really enjoyed it.");
+Even if it was a mistake to you, the audience
+really enjoyed it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

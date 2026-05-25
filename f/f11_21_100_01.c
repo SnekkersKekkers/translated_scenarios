@@ -18,8 +18,8 @@ ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F112110001_21_020");
 MsgDisp("Michiru","It absolutely seems like it.
-Yesterday, many of my classmates were
-single, but today, they're couples...");
+Yesterday, many of my classmates were single,
+but today, they're couples...");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);

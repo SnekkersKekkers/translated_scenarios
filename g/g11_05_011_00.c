@@ -26,8 +26,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,12);
 SEStop("EV_SE_712",0);
 VoicePlay("G110501100_05_010");
-MsgDisp("Hiiragi","Yes, my mind is already filled with
-thoughts about Yakisoba.");
+MsgDisp("Hiiragi","Yes, my mind is already filled with thoughts
+about Yakisoba.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝ really likes Yakisoba, huh?");
 ChEye(5,0);
 ChMouth(5,1);
@@ -36,9 +36,9 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110501100_05_020");
-MsgDisp("Hiiragi","For a long time now. But, ever since I
-bumped into you at the school cafeteria,
-I've grown to like it even more.");
+MsgDisp("Hiiragi","For a long time now. But, ever since I bumped
+into you at the school cafeteria, I've grown
+to like it even more.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,2);

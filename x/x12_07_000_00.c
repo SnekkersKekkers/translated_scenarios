@@ -27,8 +27,7 @@ Vice-Principal Himuro praised you too.");
     VoicePlay("X120700000_07_010");
     MsgDisp("Mikage","Looks like you're enjoying the orchestra.
 I wonder if by hearing your sound, the
-Gardening Club's plants will grow well
-too?");
+Gardening Club's plants will grow well too?");
     MsgDisp("主人公","(Yay!
 I was praised!)");
     break ;

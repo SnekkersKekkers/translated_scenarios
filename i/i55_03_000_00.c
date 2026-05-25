@@ -54,9 +54,9 @@ Welcome.");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("I550300000_03_050");
-    MsgDisp("Honda","I was thinking of buying some Japanese
-sweets as a gift, and I remembered that
-you work here.");
+    MsgDisp("Honda","I was thinking of buying some Japanese sweets
+as a gift, and I remembered that you work
+here.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -102,8 +102,8 @@ guests coming in the afternoon.");
     MsgDisp("Honda","Wow, is this new?
 It looks a bit like a paste...");
     MsgDisp("主人公","It's sweet potato paste.
-The mild sweetness makes it popular with
-our younger customers.");
+The mild sweetness makes it popular with our
+younger customers.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,2,1);
@@ -113,9 +113,9 @@ our younger customers.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I550300000_03_120");
-    MsgDisp("Honda","Ah, sorry. You're getting used to customer
-service, huh? You know a lot about the
-products.");
+    MsgDisp("Honda","Ah, sorry.
+You're getting used to customer service, huh?
+You know a lot about the products.");
     MsgDisp("主人公","I won't give you anything even if you
 compliment me, you know?");
     ChEye(3,0);
@@ -123,8 +123,8 @@ compliment me, you know?");
     ChMotion(3,4,1);
     VoicePlay("I550300000_03_130");
     MsgDisp("Honda","I meant what I said. Rather than just
-promoting it because it's new, you
-actually know what's special about it.");
+promoting it because it's new, you actually
+know what's special about it.");
     MsgDisp("主人公","Hehe, thanks.
 ...By the way, are you doing okay on time?");
     ChEye(3,5);

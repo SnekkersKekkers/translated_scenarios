@@ -19,8 +19,8 @@ correct...");
     ChMotion(6,4);
     ChEyeOpenLevel(6,8);
     VoicePlay("I460600006_06_000");
-    MsgDisp("Himuro","...Didn't you use the register for a
-customer right before closing?");
+    MsgDisp("Himuro","...Didn't you use the register for a customer
+right before closing?");
     MsgDisp("主人公","Ah!");
     SEPlay("EV_SE_043");
     SEWait();
@@ -57,8 +57,7 @@ I have to get it together...!)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600006_06_040");
-    MsgDisp("Himuro","Wrong.
-1 Rich for 5 items.");
+    MsgDisp("Himuro","Wrong. 1 Rich for 5 items.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
     ChMouth(6,0);

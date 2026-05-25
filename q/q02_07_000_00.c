@@ -35,8 +35,7 @@ Did something happen?");
     MsgDisp("Mikage","Yeah. I was thinking of doing an
 \"Extracurricular Activity: Nagasaki
 Chapter!\", but I guess nobody's up for it.");
-    MsgDisp("主人公","Extracurricular Activity: Nagasaki
-Chapter?");
+    MsgDisp("主人公","Extracurricular Activity: Nagasaki Chapter?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -49,9 +48,9 @@ Chapter?");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("Q020700000_07_040");
-        MsgDisp("Mikage","Well, that's settled. I'm still
-recruiting, but at this rate ...there
-won't be any others. Are you sure?");
+        MsgDisp("Mikage","Well, that's settled.
+I'm still recruiting, but at this rate
+...there won't be any others. Are you sure?");
         MsgDisp("主人公","Yes, I'm looking forward to it.");
         ChEye(7,0);
         ChMouth(7,3);
@@ -107,8 +106,8 @@ period?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("Q020700000_07_100");
-    MsgDisp("Mikage","How does 'Extracurricular Activity:
-Nagasaki Chapter' sound to you?");
+    MsgDisp("Mikage","How does 'Extracurricular Activity: Nagasaki
+Chapter' sound to you?");
     MsgDisp("主人公","Eh, extracurricular activity?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -122,8 +121,8 @@ Nagasaki Chapter' sound to you?");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("Q020700000_07_120");
-        MsgDisp("Mikage","Well, even if there is only one
-participant, the event will go ahead.");
+        MsgDisp("Mikage","Well, even if there is only one participant,
+the event will go ahead.");
         MsgDisp("主人公","Hehe, I'm looking forward to it.");
         ChEye(7,0);
         ChMouth(7,0);
@@ -138,17 +137,18 @@ participant, the event will go ahead.");
         ChMotion(7,0);
         VoicePlay("Q020700000_07_140");
         MsgDisp("Mikage","Alright, we're off!");
-        MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝ seems really
-excited. I'm really excited to spend this
-free period together with him!)");
+        MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝ seems really excited.
+I'm really excited to spend this free period
+together with him!)");
         break ;
         case 1:
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("Q020700000_07_150");
-        MsgDisp("Mikage","I knew it...Coming all this way just to
-attend a lesson? I'd say no too, I guess.");
+        MsgDisp("Mikage","I knew it...
+Coming all this way just to attend a lesson?
+I'd say no too, I guess.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
         MsgDisp("主人公","(Hmmm...

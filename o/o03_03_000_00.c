@@ -48,8 +48,8 @@ I got first place with ｛Honda＊＊｝!)");
     MsgDisp("Honda","We got first in the three-legged race!?");
     ChSet(3,3);
     VoicePlay("O030300000_03_050");
-    MsgDisp("Honda","This never would've happened if it wasn't
-for you!
+    MsgDisp("Honda","This never would've happened if it wasn't for
+you!
 You really are the best!");
     MsgDisp("主人公","Hehe, we did it!");
     ChEye(3,4);
@@ -57,9 +57,9 @@ You really are the best!");
     ChMotion(3,2);
     ChCheek(3,8);
     VoicePlay("O030300000_03_060");
-    MsgDisp("Honda","...Hm, hm? My heart was racing from
-running, but it feels like it's racing
-from something else, now...");
+    MsgDisp("Honda","...Hm, hm? My heart was racing from running,
+but it feels like it's racing from something
+else, now...");
     MsgDisp("主人公","Huh, are you okay?");
     ChEye(3,0);
     ChMouth(3,3);

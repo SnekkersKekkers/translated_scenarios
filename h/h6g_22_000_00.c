@@ -30,7 +30,7 @@ VoicePlay("H6G2200000_22_030");
 MsgDisp("Hikaru","Hikaru wants to see it too～♪
 The gold award flowers grown by Mari.");
 MsgDisp("主人公","(Hehe!
-I'm glad I worked so hard for the
-gardening club!)");
+I'm glad I worked so hard for the gardening
+club!)");
 MsgClose();
 ScrFadeOut(0,0);

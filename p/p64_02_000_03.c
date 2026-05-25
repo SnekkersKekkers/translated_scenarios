@@ -18,9 +18,9 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P640200003_02_020");
-MsgDisp("Sassa","I thought so. In a way I'm relieved. It
-would be troubling if you thought this was
-delicious.");
+MsgDisp("Sassa","I thought so.
+In a way I'm relieved. It would be troubling
+if you thought this was delicious.");
 MsgDisp("主人公","Umm...was it not delicious?");
 ChEye(2,2);
 ChMouth(2,4);

@@ -33,8 +33,9 @@ That's quite the coincidence!");
     ChMotion(2,5);
     VoicePlay("R060200003_02_040");
     MsgDisp("Sassa","...Uh, that's the one I brought.");
-    MsgDisp("主人公","Huh∋ Really? Actually you got the gift
-that I brought in, ｛Sassa＊＊｝...");
+    MsgDisp("主人公","Huh∋
+Really? Actually you got the gift that I
+brought in, ｛Sassa＊＊｝...");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,5);
@@ -45,8 +46,7 @@ That's a scary coincidence...");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("R060200003_02_060");
-    MsgDisp("Sassa","Well, I'm actually a little happy about
-it.");
+    MsgDisp("Sassa","Well, I'm actually a little happy about it.");
     MsgDisp("主人公","Hehe, it is a scary coincidence, huh?");
     break ;
     case 4:

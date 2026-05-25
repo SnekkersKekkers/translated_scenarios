@@ -17,8 +17,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("R040300001_03_010");
-    MsgDisp("Honda","It suits the atmosphere of this castle
-very well.");
+    MsgDisp("Honda","It suits the atmosphere of this castle very
+well.");
     MsgDisp("主人公","No way...");
     ChEye(3,0);
     ChMouth(3,3);
@@ -38,8 +38,8 @@ shining the brightest.");
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("R040300001_03_040");
-    MsgDisp("Honda","This place looks like a castle, so you
-look like a real princess!");
+    MsgDisp("Honda","This place looks like a castle, so you look
+like a real princess!");
     MsgDisp("主人公","Really?
 Thank you!");
     ChEye(3,0);
@@ -63,15 +63,15 @@ escorting you, the princess?");
     ChMotion(3,0,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("R040300001_03_070");
-    MsgDisp("Honda","Yeah. You can tell who the main heroine is
-because she would shine the brightest
-here.");
+    MsgDisp("Honda","Yeah.
+You can tell who the main heroine is because
+she would shine the brightest here.");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("R040300001_03_080");
-    MsgDisp("Honda","It's not just the dress either, you
-yourself are sparkling.");
+    MsgDisp("Honda","It's not just the dress either, you yourself
+are sparkling.");
     MsgDisp("主人公","No way...you're giving me too much credit.");
     ChEye(3,3);
     ChMouth(3,3);

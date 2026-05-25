@@ -8,9 +8,9 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year the Gardening Club is running
-a cafe. We prepared herbal tea and 
-cookies, but...)");
+    MsgDisp("主人公","(This year the Gardening Club is running a
+cafe.
+We prepared herbal tea and cookies, but...)");
     MsgClose();
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630100000_01_000");
@@ -38,8 +38,8 @@ I think we were able to make a good blend.");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year the Gardening Club's program is
-a cafe.
+    MsgDisp("主人公","(This year the Gardening Club's program is a
+cafe.
 We prepared herb tea and cookies, but...)");
     MsgClose();
     ChOpen(1,254,0,0,0,#1,#1,0,0);
@@ -54,8 +54,8 @@ Welcome!");
     VoicePlay("P630100000_01_040");
     MsgDisp("Kazama","The poster girl makes an appearance huh?");
     MsgDisp("主人公","No, I'm the producer.
-So we made tea and cookies with the herb
-tea the Gardening Club grew.");
+So we made tea and cookies with the herb tea
+the Gardening Club grew.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

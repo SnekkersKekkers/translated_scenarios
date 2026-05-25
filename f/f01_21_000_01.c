@@ -15,8 +15,8 @@ It's embarrassing when you call me that...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(21);
     MsgDisp("主人公","(She left...
-She doesn't seem to like it when I call
-her that.)");
+She doesn't seem to like it when I call her
+that.)");
     break ;
     case 3:
     MsgDisp("主人公","｛みちる＊｝.");
@@ -38,8 +38,8 @@ I just don't think I can accept it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(21);
     MsgDisp("主人公","(She left...
-She doesn't seem to like it when I call
-her that.)");
+She doesn't seem to like it when I call her
+that.)");
     break ;
     case 4:
     case 5:
@@ -56,15 +56,15 @@ Are you joking?");
     ChMotion(21,5);
     VoicePlay("F012100001_21_040");
     MsgDisp("Michiru","No...
-But even for you, Mari, a second time
-and I'd get angry, okay?");
+But even for you, Mari, a second time and I'd
+get angry, okay?");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(21);
     MsgDisp("主人公","(She left...
-She doesn't seem to like it when I call
-her that.)");
+She doesn't seem to like it when I call her
+that.)");
     break ;
     default :
     DbgAssert(1);

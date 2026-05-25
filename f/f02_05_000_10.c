@@ -13,9 +13,9 @@ It's fun to have everyone working on one
 thing.");
 ChEye(5,4);
 VoicePlay("F020500010_05_010");
-MsgDisp("Hiiragi","Yes. That's something all of 
-you taught me. It's the same as 
-putting on a play with the troupe.");
+MsgDisp("Hiiragi","Yes. That's something all of you taught me.
+It's the same as putting on a play with the
+troupe.");
 MsgDisp("主人公","Is it really the same as a school play?");
 ChEye(5,0);
 ChMotion(5,4);
@@ -35,6 +35,6 @@ VoicePlay("F020500010_05_040");
 MsgDisp("Hiiragi","It is the truth.
 Well, in order to repay that favor, I will
 have to work my hardest as well.");
-MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ is working his hardest,
-then it'll surely turn out to be a great
+MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ is working his hardest, then
+it'll surely turn out to be a great
 performance!)");

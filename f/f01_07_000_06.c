@@ -54,8 +54,8 @@ We'll go to a cafe next time, I promise.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(It's unfortunate, but I'll try to invite
-him another time.)");
+    MsgDisp("主人公","(It's unfortunate, but I'll try to invite him
+another time.)");
     break ;
     default :
     DbgAssert(1);

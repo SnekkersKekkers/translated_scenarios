@@ -16,8 +16,8 @@ I'm sorry.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600006_06_010");
-    MsgDisp("Himuro","Well, I still appreciate the time and
-effort, you know...");
+    MsgDisp("Himuro","Well, I still appreciate the time and effort,
+you know...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -40,8 +40,8 @@ for doing your best?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("L040600006_06_030");
-    MsgDisp("Himuro","If you don't like making them, it's fine
-to buy them instead.");
+    MsgDisp("Himuro","If you don't like making them, it's fine to
+buy them instead.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
@@ -75,8 +75,8 @@ I don't want to lie.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("L040600006_06_070");
-    MsgDisp("Himuro","But, I'm happy you put in the effort to
-make it.
+    MsgDisp("Himuro","But, I'm happy you put in the effort to make
+it.
 Really.");
     ChEye(6,0);
     ChMouth(6,0);

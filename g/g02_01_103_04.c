@@ -2,16 +2,16 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110304_01_000");
-MsgDisp("Kazama","The Night Parade and stuff is great, but
-this place is amazing too.");
+MsgDisp("Kazama","The Night Parade and stuff is great, but this
+place is amazing too.");
 MsgDisp("主人公","Yeah, though it's quiet over here.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110304_01_010");
 MsgDisp("Kazama","True.
-The noise is one of the amazing things
-over there.");
+The noise is one of the amazing things over
+there.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,2);
@@ -27,7 +27,8 @@ VoicePlay("G020110304_01_030");
 MsgDisp("Kazama","Shhhh.
 Try listening close for a bit.");
 MsgDisp("主人公","Huh?
-Okay. ......");
+Okay.
+......");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -58,9 +59,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110304_01_080");
-MsgDisp("Kazama","All of 'em are flying around, glowing,
-while yelling the name of the one they're
-in love with.");
+MsgDisp("Kazama","All of 'em are flying around, glowing, while
+yelling the name of the one they're in love
+with.");
 ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
@@ -80,9 +81,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110304_01_110");
-MsgDisp("Kazama","The same goes for me. Like how all I think
-about is your delighted face as I pick out
-your birthday presents.");
+MsgDisp("Kazama","The same goes for me.
+Like how all I think about is your delighted
+face as I pick out your birthday presents.");
 MsgDisp("主人公","Yeah, they really make me happy.
 Thanks for everything.");
 ChEye(1,0);
@@ -90,8 +91,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110304_01_120");
 MsgDisp("Kazama","There, that's the face I'm talking about.
-Unlike the fireflies, I get to see that
-face every year.");
+Unlike the fireflies, I get to see that face
+every year.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -102,10 +103,9 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110304_01_140");
-MsgDisp("Kazama","Man, why can't your birthday get here
-sooner?");
-MsgDisp("主人公","(But if my birthdays come too quick, I'll
-be a granny in no time...)");
+MsgDisp("Kazama","Man, why can't your birthday get here sooner?");
+MsgDisp("主人公","(But if my birthdays come too quick, I'll be
+a granny in no time...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

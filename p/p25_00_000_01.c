@@ -1,8 +1,8 @@
 BGOpen("sc710",0);
 BGMPlay("BGM_FESTIVAL",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","I was behind the scenes for the school
-play, it was fun in its own way.
+MsgDisp("主人公","I was behind the scenes for the school play,
+it was fun in its own way.
 It was a fulfilling school festival.");
 BGMStop();
 MsgClose();

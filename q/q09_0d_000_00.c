@@ -1,7 +1,7 @@
 BGOpen("sc810",0);
 ChLayout(1);
-MsgDisp("主人公","(｛みちる＊｝ and ｛ひかる＊｝
-are... Ah, there!)");
+MsgDisp("主人公","(｛みちる＊｝ and ｛ひかる＊｝ are...
+Ah, there!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(40,0);
@@ -18,8 +18,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q090D00000_22_000");
-MsgDisp("Hikaru","Yeah! Hikaru wants to visit souvenir shops
-and stuff!");
+MsgDisp("Hikaru","Yeah!
+Hikaru wants to visit souvenir shops and
+stuff!");
 MsgDisp("主人公","Right.
 Well, let's get going, shall we?");
 ChEye(22,3);

@@ -8,9 +8,9 @@ switch (ChPrmGet(3,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing traditional
-wedding dresses. I think I was able to
-make it pretty but...)");
+    MsgDisp("主人公","(This year we're showing traditional wedding
+dresses.
+I think I was able to make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -30,8 +30,8 @@ wedding dresses this year.");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("P730300002_03_020");
-    MsgDisp("Honda","This is my first time seeing a bride this
-up close.");
+    MsgDisp("Honda","This is my first time seeing a bride this up
+close.");
     MsgDisp("主人公","Ummm...
 I'm not a bride though?");
     ChEye(3,2);
@@ -53,8 +53,8 @@ You look too real.");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("P730300002_03_050");
-    MsgDisp("Honda","Sending you off like this makes me feel
-like I'm your father");
+    MsgDisp("Honda","Sending you off like this makes me feel like
+I'm your father");
     MsgDisp("主人公","(Hehe!
 This is my last show, I have to finish off
 these last three years well!)");
@@ -65,9 +65,9 @@ these last three years well!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're showing traditional
-wedding dresses. I think I was able to
-make it pretty but...)");
+    MsgDisp("主人公","(This year we're showing traditional wedding
+dresses.
+I think I was able to make it pretty but...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -87,9 +87,9 @@ I feel gloomy.");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_080");
-    MsgDisp("Honda","You wearing a wedding dress, is so
-beautiful, and it suits you well, I want
-to keep it to myself.");
+    MsgDisp("Honda","You wearing a wedding dress, is so beautiful,
+and it suits you well, I want to keep it to
+myself.");
     MsgDisp("主人公","Ehhhh∋");
     ChEye(3,0);
     ChMouth(3,3);

@@ -35,8 +35,8 @@ seems delicious.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
     MsgDisp("主人公","Hehe.
-This year, I reccomend the organic
-vegetable salad.");
+This year, I reccomend the organic vegetable
+salad.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -62,8 +62,8 @@ Gardening Club...)");
     VoiceEVSPlay(2);
     VoicePlay("P630200002_02_040");
     MsgDisp("Sassa","｛主人公｝, I heard that the Horticulture
-club was impressive this year, but it's
-more than the rumours say.");
+club was impressive this year, but it's more
+than the rumours say.");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝, thank you.
 Everyone gav eit their best.
 It's a wonderful shop, huh?");
@@ -74,34 +74,32 @@ It's a wonderful shop, huh?");
     MsgDisp("Sassa","Yeah.
 It's doesn't look like school.
 The menu also looks promising.");
-MsgDisp("主人公","This year we're not just selling
-vegetables, the shop is offering salad for
-you to enjoy.");
+MsgDisp("主人公","This year we're not just selling vegetables,
+the shop is offering salad for you to enjoy.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P630200002_02_060");
-    MsgDisp("Sassa","Then, I want a salad of vegetables you
-grew.");
+    MsgDisp("Sassa","Then, I want a salad of vegetables you grew.");
     MsgDisp("主人公","Everyone grew them, so if you request just
 mine, it's a bit hard to do.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("P630200002_02_070");
-    MsgDisp("Sassa","I see...ah, but But if it's the ones
-you're selling directly, you'll know which
+    MsgDisp("Sassa","I see...ah, but But if it's the ones you're
+selling directly, you'll know which
 vegetables you grew?");
     MsgDisp("主人公","Yeah.
-Because the grower's comments are written
-on the bag.");
+Because the grower's comments are written on
+the bag.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);
     VoicePlay("P630200002_02_080");
     MsgDisp("Sassa","Alright.
-Then, I'll buy some of your vegetables
-first, before they're sold out.");
+Then, I'll buy some of your vegetables first,
+before they're sold out.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();
     ChClose(2);

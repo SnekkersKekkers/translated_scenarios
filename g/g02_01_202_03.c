@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020120203_01_000");
-MsgDisp("Kazama","Finding your partner out of these
-countless lights is a miracle.");
+MsgDisp("Kazama","Finding your partner out of these countless
+lights is a miracle.");
 MsgDisp("主人公","Yeah.");
 ChEye(1,4);
 ChMouth(1,4);
@@ -44,9 +44,9 @@ ChMouth(1,4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120203_01_060");
-MsgDisp("Kazama","When I'm with him, it's like I don't have
-to be all considerate, and he's not blunt
-or pushy.");
+MsgDisp("Kazama","When I'm with him, it's like I don't have to
+be all considerate, and he's not blunt or
+pushy.");
 MsgDisp("主人公","Yeah.
 I know how close you are with
 ｛Nanatsumori＊｝, ｛Kazama＊＊｝.");
@@ -76,8 +76,8 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120203_01_100");
-MsgDisp("Kazama","(sigh) I just keep saying stuff that I
-really shouldn't.");
+MsgDisp("Kazama","(sigh) I just keep saying stuff that I really
+shouldn't.");
 MsgDisp("主人公","(So that's how ｛Kazama＊＊｝ feels about
 ｛Nanatsumori＊｝...)");
 BGMStop();

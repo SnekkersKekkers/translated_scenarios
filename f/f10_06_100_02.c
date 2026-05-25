@@ -49,14 +49,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100610002_06_050");
-MsgDisp("Himuro","\"There's this rumor going around, do you
-know anything about it?\"
+MsgDisp("Himuro","\"There's this rumor going around, do you know
+anything about it?\"
 And then—");
 BGMStop(0.6);
 Wait(30,0);
 VoicePlay("F100610002_32_000");
-MsgDisp("VP Himuro?","So it was you and your Father who spread
-that absurd rumor?
+MsgDisp("VP Himuro?","So it was you and your Father who spread that
+absurd rumor?
 Himuro Inori.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 ChPosition(6,1);
@@ -73,8 +73,8 @@ MsgDisp("主人公","∋");
 ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("F100610002_32_010");
-MsgDisp("VP Himuro","I will be making a sudden home visit and
-then a parent-teacher meeting today.");
+MsgDisp("VP Himuro","I will be making a sudden home visit and then
+a parent-teacher meeting today.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);

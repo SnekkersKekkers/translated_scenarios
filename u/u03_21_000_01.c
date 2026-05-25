@@ -22,8 +22,9 @@ I'll take good care of it!");
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("U032100001_21_020");
-    MsgDisp("Michiru","Hehe. I bought a matching one. I hope Mari
-can be touched by the power of the stars.");
+    MsgDisp("Michiru","Hehe.
+I bought a matching one. I hope Mari can be
+touched by the power of the stars.");
     SEPlay("EV_SE_083");
     MsgDisp("主人公","(I got a constellation charm!)");
     SEPlay("EV_SE_080");

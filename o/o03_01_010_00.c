@@ -49,9 +49,9 @@ three-legged race with ｛Kazama＊＊｝.)");
     ChOpen(1,30,0,0,2,#1,#1,0,0);
     VoicePlay("O030101000_01_030");
     MsgDisp("Kazama","So you were over here.");
-    MsgDisp("主人公","Ah, ｛Kazama＊＊｝. Everyone's looking for
-you, you know? Seems like they want to be
-your partner, ｛Kazama＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝. Everyone's looking for you,
+you know? Seems like they want to be your
+partner, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,3);
@@ -75,8 +75,8 @@ Already?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O030101000_01_060");
-    MsgDisp("Kazama","It'll be easier to tell that we're
-partners that way, right?");
+    MsgDisp("Kazama","It'll be easier to tell that we're partners
+that way, right?");
     MsgDisp("主人公","Y-Yeah.");
     break ;
     case 4:
@@ -84,8 +84,8 @@ partners that way, right?");
     MsgDisp("主人公","(What should I do about my partner...)");
     VoicePlay("O030101000_44_020");
     MsgDisp("Girl A","Ah, Kazama-kun.
-Do you want to do the three-legged race
-with me?");
+Do you want to do the three-legged race with
+me?");
     VoicePlay("O030101000_01_070");
     MsgDisp("Kazama?","Sorry, I already have a partner.");
     VoicePlay("O030101000_44_030");

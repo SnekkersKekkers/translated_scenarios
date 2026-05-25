@@ -39,15 +39,15 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010310100_03_040");
-MsgDisp("Honda","They said I was digressing too much, so
-the lessons couldn't progress!
+MsgDisp("Honda","They said I was digressing too much, so the
+lessons couldn't progress!
 That was not my goal though.");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("E010310100_03_050");
-MsgDisp("Honda","At school, the teachers are quite willing
-to digress with me.
+MsgDisp("Honda","At school, the teachers are quite willing to
+digress with me.
 But cram school is different.");
 MsgDisp("主人公","I see.
 Hehe, I can imagine that!");

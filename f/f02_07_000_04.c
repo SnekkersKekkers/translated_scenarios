@@ -18,8 +18,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F020700004_07_010");
 MsgDisp("Mikage","I'm not happy at all.
-It feels like my neck is getting tighter
-and tighter every year...ahh, damn it.");
+It feels like my neck is getting tighter and
+tighter every year...ahh, damn it.");
 MsgDisp("主人公","I'm happy that I'll be able to celebrate
 ｛Mikage＊＊｝'s birthday though.");
 ChEye(7,2);

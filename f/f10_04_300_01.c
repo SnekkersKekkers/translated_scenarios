@@ -10,12 +10,12 @@ I haven't decided yet.");
 MsgDisp("主人公","(Hm?
 This voice...)");
 VoicePlay("F100430001_22_010");
-MsgDisp("Hikaru?","Then what are you going to do with that
-wig and outfit?
+MsgDisp("Hikaru?","Then what are you going to do with that wig
+and outfit?
 Are you going to throw it all away?");
 VoicePlay("F100430001_04_010");
-MsgDisp("Nanatsumori?","Hikaru-san, if there's anything you like
-I'll give it to you—");
+MsgDisp("Nanatsumori?","Hikaru-san, if there's anything you like I'll
+give it to you—");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -67,8 +67,8 @@ ChMouth(22,2);
 ChMotion(22,2,1);
 VoicePlay("F100430001_22_040");
 MsgDisp("Hikaru","Geez, can't believe it...
-Hikaru thought she found out ages ago and
-was having this kind of girl talk.");
+Hikaru thought she found out ages ago and was
+having this kind of girl talk.");
 MsgDisp("主人公","(Girl talk with ｛Nanatsumori＊｝?)");
 ChEye(4,0);
 ChMouth(4,2);

@@ -33,8 +33,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100520001_05_030");
 MsgDisp("Hiiragi","Yes.
-It was truly a deeply interesting
-experience.");
+It was truly a deeply interesting experience.");
 ChMotion(1,0);
 MsgDisp("主人公","Hehe.
 ｛Hiiragi＊＊＊｝, you seem happy.");
@@ -42,17 +41,17 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("F100520001_05_040");
-MsgDisp("Hiiragi","Yes. I had consulted him for hints
-regarding the play, and he showed me
-various different things.");
+MsgDisp("Hiiragi","Yes. I had consulted him for hints regarding
+the play, and he showed me various different
+things.");
 MsgDisp("主人公","Is that so!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("F100520001_01_010");
 MsgDisp("Kazama","Yeah.
-Grandpa was so happy that he immediately
-made plans for next time.");
+Grandpa was so happy that he immediately made
+plans for next time.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -63,17 +62,16 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("F100520001_01_020");
-MsgDisp("Kazama","I'm looking forward to it because there
-are some things I've also never seen
-before.");
+MsgDisp("Kazama","I'm looking forward to it because there are
+some things I've also never seen before.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100520001_05_060");
 MsgDisp("Hiiragi","Yes, I am looking forward to it.");
-MsgDisp("主人公","(It seems like ｛Kazama＊＊｝, ｛Hiiragi＊＊＊｝
-and ｛Kazama＊＊｝'s grandpa have a really
-good relationship.)");
+MsgDisp("主人公","(It seems like ｛Kazama＊＊｝, ｛Hiiragi＊＊＊｝ and
+｛Kazama＊＊｝'s grandpa have a really good
+relationship.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

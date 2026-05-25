@@ -18,8 +18,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q020B00100_03_000");
 MsgDisp("Honda","Good morning!
-Hey, let's go together for the free
-period!");
+Hey, let's go together for the free period!");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -57,8 +56,8 @@ This will be fun.");
     ChMotion(1,0,1);
     VoicePlay("Q020B00100_01_030");
     MsgDisp("Kazama","Let's get going, then.
-There are a lot of people here, so we need
-to plan ahead.");
+There are a lot of people here, so we need to
+plan ahead.");
     MsgDisp("主人公","Yeah!");
     break ;
     case 1:
@@ -90,8 +89,7 @@ somebody else already.");
     ChMotion(1,0,1);
     VoicePlay("Q020B00100_01_050");
     MsgDisp("Kazama","It can't be helped.
-You've got to be careful out there,
-though.");
+You've got to be careful out there, though.");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,2,1);

@@ -12,8 +12,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_430");
-    MsgDisp("Honda","I thought the order form was around here,
-do you know where it went?");
+    MsgDisp("Honda","I thought the order form was around here, do
+you know where it went?");
     MsgDisp("主人公","I already took care of it.
 Ah, did I overstep?");
     ChEye(3,3);
@@ -36,8 +36,8 @@ Thanks!");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_460");
-    MsgDisp("Honda","The manager wanted to change the shelf
-layout a little...");
+    MsgDisp("Honda","The manager wanted to change the shelf layout
+a little...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -50,15 +50,15 @@ What do you think?");
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_480");
     MsgDisp("Honda","Yeah yeah.
-It's been a while since you started
-working, so you have some ideas, right?");
+It's been a while since you started working,
+so you have some ideas, right?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_490");
     MsgDisp("Honda","And, the manager asking for your opinion
-means that your work and existence has
-been recognized.");
+means that your work and existence has been
+recognized.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);

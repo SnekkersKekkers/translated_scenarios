@@ -12,8 +12,8 @@ ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("F020300002_03_000");
 MsgDisp("Honda","Perhaps you've heard of Vice Principal
-Himuro's black magic∋ Or maybe...
-Kojiro-sensei's Molly∋");
+Himuro's black magic∋
+Or maybe... Kojiro-sensei's Molly∋");
 MsgDisp("主人公","Huh∋
 What's that?");
 ChEye(3,4);
@@ -25,23 +25,24 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("F020300002_03_020");
-MsgDisp("Honda","To be honest, I was interested in the
-legends of the church.
+MsgDisp("Honda","To be honest, I was interested in the legends
+of the church.
 So I investigated.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("F020300002_03_030");
-MsgDisp("Honda","But it was a total bust. I checked the
-campus library and local library, and
-found neither of them are true.");
+MsgDisp("Honda","But it was a total bust.
+I checked the campus library and local
+library, and found neither of them are true.");
 MsgDisp("主人公","Wow...so you did that much research?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300002_03_040");
-MsgDisp("Honda","Mhm! So I'm really excited about the
-legend you've got! What's it about??");
+MsgDisp("Honda","Mhm!
+So I'm really excited about the legend you've
+got! What's it about??");
 MsgDisp("主人公","Um, so you know the stained glass in the
 church?
 I want to know—");
@@ -50,8 +51,7 @@ ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("F020300002_03_050");
 MsgDisp("Honda","I know, I know!
-You want to know about the secret
-society∋");
+You want to know about the secret society∋");
 ChMotion(3,4);
 VoicePlay("F020300002_03_060");
 MsgDisp("Honda","The stained glass is a secret code, and a
@@ -60,8 +60,8 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("F020300002_03_070");
-MsgDisp("Honda","Unfortunately, that one's been debunked
-too. At this point, finding new legends is
-a real struggle...");
-MsgDisp("主人公","(...we kept talking about something like
-that as we walked home.)");
+MsgDisp("Honda","Unfortunately, that one's been debunked too.
+At this point, finding new legends is a real
+struggle...");
+MsgDisp("主人公","(...we kept talking about something like that
+as we walked home.)");

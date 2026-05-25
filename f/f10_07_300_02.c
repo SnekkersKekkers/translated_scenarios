@@ -66,9 +66,9 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("F100730002_07_010");
-MsgDisp("Mikage","Hm? It's good that there's no problem, but
-it's kind of troubling if normal is
-boring.");
+MsgDisp("Mikage","Hm?
+It's good that there's no problem, but it's
+kind of troubling if normal is boring.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -79,9 +79,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100730002_22_030");
-MsgDisp("Hikaru","In that case, leave it to us! Hikaru will
-ask Uncle about the perfect fashion for
-Mikage-sensei♪");
+MsgDisp("Hikaru","In that case, leave it to us!
+Hikaru will ask Uncle about the perfect
+fashion for Mikage-sensei♪");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -94,8 +94,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("F100730002_07_030");
 MsgDisp("Mikage","Oh, the world-famous fashion leader
-Hanatsubaki Goro sensei. That's amazing.
-I'm looking forward to it.");
+Hanatsubaki Goro sensei.
+That's amazing. I'm looking forward to it.");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,0);

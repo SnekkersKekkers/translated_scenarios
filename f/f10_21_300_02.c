@@ -27,8 +27,7 @@ MsgDisp("Hikaru","Ah!
 That's what Hikaru was going to say!");
 ChEye(22,0);
 MsgDisp("主人公","Ummm...
-Did both of you forget your biology
-textbook?");
+Did both of you forget your biology textbook?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
@@ -39,8 +38,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F102130002_22_020");
-MsgDisp("Hikaru","Big sis can understand the lesson without
-the textbook, right?
+MsgDisp("Hikaru","Big sis can understand the lesson without the
+textbook, right?
 Hikaru can't do it without the textbook!");
 ChEye(21,1);
 ChMouth(21,4);
@@ -50,8 +49,8 @@ MsgDisp("Michiru","Hikaru, this isn't the place to be bossy.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
-MsgDisp("主人公","Hey, you two are in different classes, so
-you have separate biology classes, right?
+MsgDisp("主人公","Hey, you two are in different classes, so you
+have separate biology classes, right?
 Which of you have it first?");
 ChEye(21,0);
 ChMouth(21,4);
@@ -72,8 +71,7 @@ VoicePlay("F102130002_21_050");
 MsgDisp("Michiru","...Sorry, Mari.
 Could I borrow it first, then hand it to
 Hikaru after that?");
-MsgDisp("主人公","I don't have biology today, so that's
-fine.");
+MsgDisp("主人公","I don't have biology today, so that's fine.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -89,8 +87,8 @@ MsgDisp("Michiru","No way...
 I didn't want to show this kind of
 embarrassing twin synchronicity.");
 MsgDisp("主人公","(Hehe!
-They're alike in their panic-stricken
-nature, they really are twins after all.)");
+They're alike in their panic-stricken nature,
+they really are twins after all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

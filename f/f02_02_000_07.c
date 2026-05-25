@@ -11,16 +11,16 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("F020200007_02_000");
-MsgDisp("Sassa","Summer vacation isn't that different for
-me. My schedule is the same. Club
-activities and a dog-walking job.");
+MsgDisp("Sassa","Summer vacation isn't that different for me.
+My schedule is the same.
+Club activities and a dog-walking job.");
 MsgDisp("主人公","You're walking dogs?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200007_02_010");
-MsgDisp("Sassa","Oh, the dogs' owners go on an overseas
-trip every year.
+MsgDisp("Sassa","Oh, the dogs' owners go on an overseas trip
+every year.
 When they do, I take care of their pets.");
 MsgDisp("主人公","Oh, so we can't meet during that time.");
 ChEye(2,0);
@@ -62,5 +62,4 @@ VoicePlay("F020200007_02_060");
 MsgDisp("Sassa","Got it.
 Thanks, I appreciate it.");
 MsgDisp("主人公","(Morning walks with ｛Sassa＊＊｝...
-Wouldn't it be more fun with the dogs
-too?)");
+Wouldn't it be more fun with the dogs too?)");

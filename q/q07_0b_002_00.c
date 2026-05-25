@@ -2,8 +2,8 @@ BGOpen("sc823",0);
 ChLayout(2);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow, so cute.
-The building and the flowers and
-cobblestones are all so pretty!");
+The building and the flowers and cobblestones
+are all so pretty!");
 MsgClose();
 ChOpen(1,254,0,0,3,10,#1,0,0,0,30);
 ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
@@ -16,8 +16,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("Q070B00200_01_000");
 MsgDisp("Kazama","Yeah.
 It reminds me of the UK.");
-MsgDisp("主人公","Huh, so the UK has a lot of pretty
-buildings like these?");
+MsgDisp("主人公","Huh, so the UK has a lot of pretty buildings
+like these?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -31,9 +31,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070B00200_03_000");
-MsgDisp("Honda","Yepyep! This one here is the oldest wooden
-european building in Japan. It's so well
-kept!");
+MsgDisp("Honda","Yepyep!
+This one here is the oldest wooden european
+building in Japan. It's so well kept!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -44,8 +44,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(4,1,1);
 VoicePlay("Q070B00200_04_000");
-MsgDisp("Nanatsumori","Glover's wife was Japanese. ...is what the
-pamphlet says.");
+MsgDisp("Nanatsumori","Glover's wife was Japanese.
+...is what the pamphlet says.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -64,8 +64,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("Q070B00200_03_010");
 MsgDisp("Honda","Heyheyhey, everyone!
-Let's take one last picture, with all of
-us!");
+Let's take one last picture, with all of us!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

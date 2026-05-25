@@ -35,8 +35,8 @@ I kinda went all out!");
     ChMotion(8,2,1);
     VoicePlay("L040800002_08_030");
     MsgDisp("Shirahane","Heheh, that so.
-Well, I gotta go all out for the return
-gift, too!");
+Well, I gotta go all out for the return gift,
+too!");
     MsgDisp("主人公","Oh, that wasn't my intention...");
     ChEye(8,3);
     ChMouth(8,3);

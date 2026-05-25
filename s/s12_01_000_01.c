@@ -15,8 +15,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     ScrFadeIn(0);
     VoicePlay("S120100001_01_000");
-    MsgDisp("Kazama","I guess it's safe to say that we've
-arrived.");
+    MsgDisp("Kazama","I guess it's safe to say that we've arrived.");
     MsgDisp("主人公","It's still bright outside, so don't worry
 about it, okay?");
     ChEye(1,0);
@@ -31,14 +30,13 @@ Especially for you, it's that.");
     ChMouth(1,2);
     ChMotion(1,1);
     VoicePlay("S120100001_01_020");
-    MsgDisp("Kazama","That's it. That power that draws you in is
-stronger than usual. Be careful today. See
-you later.");
+    MsgDisp("Kazama","That's it.
+That power that draws you in is stronger than
+usual. Be careful today. See you later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Another year with ｛Kazama＊＊｝ will be
-fun.
+    MsgDisp("主人公","(Another year with ｛Kazama＊＊｝ will be fun.
 But maybe he will keep scolding me?)");
     break ;
     case 4:
@@ -84,8 +82,8 @@ No, it's fine.");
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100001_01_060");
     MsgDisp("Kazama","Sigh, I'm sorry, but I'm really busy.
-I've been helping Grandpa clean up over
-the holidays.");
+I've been helping Grandpa clean up over the
+holidays.");
     MsgDisp("主人公","Oh, that's rough.");
     ChEyeOpenLevel(1,0);
     Wait(8,0);
@@ -93,9 +91,9 @@ the holidays.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("S120100001_01_070");
-    MsgDisp("Kazama","Grandpa is really busy. I'm just happy I
-got to spend New Years with you. I
-couldn't ask for more.");
+    MsgDisp("Kazama","Grandpa is really busy.
+I'm just happy I got to spend New Years with
+you. I couldn't ask for more.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

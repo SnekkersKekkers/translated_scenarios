@@ -13,9 +13,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("H5G0600000_06_010");
-MsgDisp("Himuro","I thought I'd come here and congratulate
-you. You won the grand prize in our
-gardening club's competition, right?");
+MsgDisp("Himuro","I thought I'd come here and congratulate you.
+You won the grand prize in our gardening
+club's competition, right?");
 MsgDisp("主人公","Ah, yeah.
 You found out pretty quickly.");
 ChEye(6,2);
@@ -24,8 +24,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("H5G0600000_06_020");
 MsgDisp("Himuro","If anything, I'm late.
-The whole school is talking about it
-already.");
+The whole school is talking about it already.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -36,8 +35,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("H5G0600000_06_040");
-MsgDisp("Himuro","It's pretty hard to do something like
-that.
+MsgDisp("Himuro","It's pretty hard to do something like that.
 Really, congrats.");
 MsgDisp("主人公","(I did it!
 I'm really glad I stayed in the gardening

@@ -35,8 +35,8 @@ Thank you for the lessons!");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("Q080700001_07_030");
-    MsgDisp("Mikage","Oh, if you liked it that much maybe we
-should hold it again tomorrow?");
+    MsgDisp("Mikage","Oh, if you liked it that much maybe we should
+hold it again tomorrow?");
     MsgDisp("主人公","Yay!
 If possible!");
     break ;

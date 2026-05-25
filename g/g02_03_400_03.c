@@ -12,14 +12,14 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020340003_03_010");
-MsgDisp("Honda","Right, right! The base is a chicken broth,
-and then I adjust the flavor with soy
-sauce or miso.");
+MsgDisp("Honda","Right, right!
+The base is a chicken broth, and then I
+adjust the flavor with soy sauce or miso.");
 ChMotion(3,4);
 VoicePlay("G020340003_03_020");
 MsgDisp("Honda","When I want something lighter, I mix in
-vegetable or seafood broth, and when I
-crave something rich, I add pork back fat.");
+vegetable or seafood broth, and when I crave
+something rich, I add pork back fat.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
@@ -28,8 +28,7 @@ MsgDisp("Honda","Even when combining ingredients, the
 flavor changes drastically based on the
 ratio, so I went through a lot of trial
 and error and collected a ton of data.");
-MsgDisp("主人公","It's like you're a professional ramen
-chef!");
+MsgDisp("主人公","It's like you're a professional ramen chef!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,2);
@@ -41,8 +40,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020340003_03_050");
-MsgDisp("Honda","It's just a hobby, so I don't have to
-worry about costs.");
+MsgDisp("Honda","It's just a hobby, so I don't have to worry
+about costs.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);

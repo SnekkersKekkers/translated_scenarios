@@ -14,8 +14,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020720101_07_020");
-MsgDisp("Mikage","...Maybe the mysterious power here is
-real?");
+MsgDisp("Mikage","...Maybe the mysterious power here is real?");
 MsgDisp("主人公","If it is, that's amazing.");
 ChEye(7,0);
 ChMouth(7,0);

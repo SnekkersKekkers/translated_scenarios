@@ -28,8 +28,7 @@ See you!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(｛Sassa＊＊｝ is working hard again this
-year.
+    MsgDisp("主人公","(｛Sassa＊＊｝ is working hard again this year.
 Alright, I'll try my best too!)");
     break ;
     case 3:
@@ -99,8 +98,8 @@ while.");
     ChMotion(2,0);
     VoicePlay("S120200002_02_100");
     MsgDisp("Sassa","Ah, no good.
-I may be a track idiot, but I still want
-to go again with you next year.");
+I may be a track idiot, but I still want to
+go again with you next year.");
     MsgDisp("主人公","Eh?
 I've never thought of you that way.");
     ChEye(2,0);

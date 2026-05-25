@@ -2,8 +2,8 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020130003_01_000");
-MsgDisp("Kazama","When you actually see them up close,
-they're amazing...");
+MsgDisp("Kazama","When you actually see them up close, they're
+amazing...");
 MsgDisp("主人公","Yeah.
 They're beautiful.");
 ChMotion(1,0);
@@ -13,18 +13,16 @@ ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("G020130003_01_010");
 MsgDisp("Kazama","That reminds me.
-They talked about this place too,
-remember?");
+They talked about this place too, remember?");
 MsgDisp("主人公","｛Honda＊＊｝ and ｛Nanatsumori＊｝?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130003_01_020");
-MsgDisp("Kazama","Yeah, but if you came here with Honda,
-he'd never stop explaining. And you'd add
-fuel to the fire by asking the perfect
-questions.");
+MsgDisp("Kazama","Yeah, but if you came here with Honda, he'd
+never stop explaining. And you'd add fuel to
+the fire by asking the perfect questions.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -58,8 +56,7 @@ VoicePlay("G020130003_01_060");
 MsgDisp("Kazama","...Nah, let's come just the two of us next
 time too.
 Make sure no one realizes, okay?");
-MsgDisp("主人公","I think they'd figure it out pretty
-quick...");
+MsgDisp("主人公","I think they'd figure it out pretty quick...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);

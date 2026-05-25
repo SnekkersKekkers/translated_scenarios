@@ -50,15 +50,15 @@ Then you can accomplish anything.");
     VoicePlay("N020700001_07_040");
     MsgDisp("Mikage","｛主人公｝, those are good results.");
     MsgDisp("主人公","｛Mikage＊＊｝, thank you very much.
-But...I think I could have tried a little
-harder.");
+But...
+I think I could have tried a little harder.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("N020700001_07_050");
     MsgDisp("Mikage","Haha, I see.
-If you think so, then I think you can aim
-for even higher.");
+If you think so, then I think you can aim for
+even higher.");
     MsgDisp("主人公","Yes.");
     ChEye(7,0);
     ChMouth(7,0);

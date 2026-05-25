@@ -7,9 +7,9 @@ MsgDisp("Michiru","Hey, is this something you like?");
 MsgDisp("主人公","That's...a handbag?");
 ChMotion(21,3);
 VoicePlay("U032100000_21_010");
-MsgDisp("Michiru","Yeah. I was lucky and got two of them in
-limited edition. Do you want one as thanks
-for today?");
+MsgDisp("Michiru","Yeah.
+I was lucky and got two of them in limited
+edition. Do you want one as thanks for today?");
 MsgSel("Accept limited edition bag","Decline it");
 switch (MsgSelRsltGet()){
     case 0:

@@ -7,8 +7,9 @@ switch (ChPrmGet(7,6)){
     VoicePlay("R060700003_07_000");
     MsgDisp("Mikage","Oh, that present.
 That's mine.");
-    MsgDisp("主人公","Huh? Really! I didn't know you were
-participating, ｛Mikage＊＊｝.");
+    MsgDisp("主人公","Huh?
+Really! I didn't know you were participating,
+｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -35,17 +36,17 @@ participating?");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("R060700003_07_040");
-    MsgDisp("Mikage","Yeah, we are having a mixed staff and
-student gift exchange.");
+    MsgDisp("Mikage","Yeah, we are having a mixed staff and student
+gift exchange.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("R060700003_07_050");
     MsgDisp("Mikage","Woah.
-You got the present that I brought in,
-huh.");
-    MsgDisp("主人公","Really! ...Oh? You also got the gift that
-I brought in, ｛Mikage＊＊｝.");
+You got the present that I brought in, huh.");
+    MsgDisp("主人公","Really!
+...Oh? You also got the gift that I brought
+in, ｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0,1);

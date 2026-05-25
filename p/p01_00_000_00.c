@@ -1,8 +1,8 @@
 BGOpen("sc300",0);
 ScrFadeIn(0);
 VoicePlay("P010000000_45_000");
-MsgDisp("Chairperson","Through a majority vote, this year our
-class has decided to set up a cafe for the
+MsgDisp("Chairperson","Through a majority vote, this year our class
+has decided to set up a cafe for the
 festival.");
 VoicePlay("P010000000_45_010");
 MsgDisp("Chairperson","Let's work hard together for the cultural

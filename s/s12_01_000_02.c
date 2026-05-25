@@ -21,9 +21,8 @@ Let's try our best this year.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("S120100002_01_010");
-    MsgDisp("Kazama","You're already hard-working so it's a
-little scary when you make a declaration
-like that.");
+    MsgDisp("Kazama","You're already hard-working so it's a little
+scary when you make a declaration like that.");
     MsgDisp("主人公","Ehh?");
     ChEye(1,2);
     ChMouth(1,3);
@@ -98,16 +97,16 @@ long time.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("S120100002_01_090");
-    MsgDisp("Kazama","I know how you were and how you are now,
-so there's no doubt in my mind.");
+    MsgDisp("Kazama","I know how you were and how you are now, so
+there's no doubt in my mind.");
     MsgDisp("主人公","If ｛Kazama＊＊｝ says so.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("S120100002_01_100");
-    MsgDisp("Kazama","It's about time we praised each other a
-bit, at least for today. Come, we can
-compliment each other on the way back.");
+    MsgDisp("Kazama","It's about time we praised each other a bit,
+at least for today. Come, we can compliment
+each other on the way back.");
     MsgDisp("主人公","Hehe, yeah.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();

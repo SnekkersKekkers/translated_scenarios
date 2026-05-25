@@ -33,8 +33,8 @@ Are you heading home?");
 ...Hey.");
     MsgDisp("主人公","Yes?");
     VoicePlay("I360400003_04_020");
-    MsgDisp("Nanatsumori","I could see the bottom of the sugar pot at
-my table too, so be careful.
+    MsgDisp("Nanatsumori","I could see the bottom of the sugar pot at my
+table too, so be careful.
 See ya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -84,13 +84,12 @@ I'm sorry I didn't notice...");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I360400003_04_060");
-    MsgDisp("Nanatsumori","Well, I didn't need any so it's fine,
-though.");
+    MsgDisp("Nanatsumori","Well, I didn't need any so it's fine, though.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("I360400003_04_070");
-    MsgDisp("Nanatsumori","Sugar is essential, especially for a
-coffee shop like this.
+    MsgDisp("Nanatsumori","Sugar is essential, especially for a coffee
+shop like this.
 Make sure you lift the lids and check.");
     MsgDisp("主人公","(Haa...
 I guess I'm a little distracted.

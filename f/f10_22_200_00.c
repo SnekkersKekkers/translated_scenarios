@@ -47,8 +47,7 @@ MsgClose();
 SEPlay("EV_SE_626");
 ChClose(31);
 ChPosition(22,0);
-MsgDisp("主人公","Why is Goro-sensei in this sort of
-place...?");
+MsgDisp("主人公","Why is Goro-sensei in this sort of place...?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
@@ -60,12 +59,12 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F102220000_22_030");
-MsgDisp("Hikaru","Well, he is a Habataki Alumnus. So maybe
-that makes him an authorized
+MsgDisp("Hikaru","Well, he is a Habataki Alumnus.
+So maybe that makes him an authorized
 person～?");
-MsgDisp("主人公","((I heard that Goro-sensei knows the
-Haba High School principal...
-maybe he came to see him?))");
+MsgDisp("主人公","((I heard that Goro-sensei knows the Haba
+High School principal... maybe he came to see
+him?))");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

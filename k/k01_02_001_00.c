@@ -64,8 +64,8 @@ I'm so happy, thank you!");
     ChEyeOpenLevel(2,0);
     VoicePlay("K010200100_02_050");
     MsgDisp("Sassa","Yeah.
-I was even about to go running over to
-where you were.");
+I was even about to go running over to where
+you were.");
     MsgDisp("主人公","Hehe!
 Well then, here's your birthday present.
 Do you want to open it?");

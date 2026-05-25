@@ -3,17 +3,17 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110302_01_000");
-MsgDisp("Kazama","We were totally on the same wavelength
-today, even more than usual. Like, we
-can't say it's a coincidence anymore.");
+MsgDisp("Kazama","We were totally on the same wavelength today,
+even more than usual. Like, we can't say it's
+a coincidence anymore.");
 MsgDisp("主人公","Hahah.
 You mean our clothes, right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110302_01_010");
-MsgDisp("Kazama","Yeah, what're the chances we'd wear the
-same design from the same brand?
+MsgDisp("Kazama","Yeah, what're the chances we'd wear the same
+design from the same brand?
 I wonder how we looked to everyone else.");
 MsgDisp("主人公","...Like two people deeply in love?");
 ChEye(1,4);
@@ -27,17 +27,17 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110302_01_030");
-MsgDisp("Kazama","Actually, if anything, it feels nice how
-it's like there's no room for anyone to
-get between us.");
+MsgDisp("Kazama","Actually, if anything, it feels nice how it's
+like there's no room for anyone to get
+between us.");
 MsgDisp("主人公","But it's a bit embarrassing for me.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110302_01_040");
 MsgDisp("Kazama","Really?
-If you're not into that kind of stuff,
-then fine, but...");
+If you're not into that kind of stuff, then
+fine, but...");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

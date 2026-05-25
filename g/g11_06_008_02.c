@@ -11,8 +11,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600802_06_010");
-MsgDisp("Himuro","I'm thinking of walking by the shore,
-wanna come?");
+MsgDisp("Himuro","I'm thinking of walking by the shore, wanna
+come?");
 MsgDisp("主人公","Huh, are you going to surf?
 Why not!");
 ChEye(6,0);
@@ -35,8 +35,8 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600802_06_030");
-MsgDisp("Himuro","It's become so normal to see you at my
-part time job.");
+MsgDisp("Himuro","It's become so normal to see you at my part
+time job.");
 MsgDisp("主人公","Really?");
 ChEye(6,0);
 ChMouth(6,1);
@@ -93,8 +93,8 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,5);
 VoicePlay("G110600802_06_120");
 MsgDisp("Himuro","What?
-If you have something to say, why don't
-you just say it?");
+If you have something to say, why don't you
+just say it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -1,11 +1,11 @@
 MsgClose();
 ChOpen(2,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020210306_02_000");
-MsgDisp("Sassa","So, this place is called cold spring
-right? It's not quite a hot spring, just a
-little warm water bubbling up.");
-MsgDisp("主人公","Thanks to that, the fireflies can live
-longer here, right?");
+MsgDisp("Sassa","So, this place is called cold spring right?
+It's not quite a hot spring, just a little
+warm water bubbling up.");
+MsgDisp("主人公","Thanks to that, the fireflies can live longer
+here, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -19,8 +19,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210306_02_020");
 MsgDisp("Sassa","Well, yeah.
-Hot springs, saunas, public baths...they
-all feel nice.");
+Hot springs, saunas, public baths...they all
+feel nice.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -48,8 +48,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210306_02_060");
 MsgDisp("Sassa","There you go again.
-Well, I've gotten quite resistant to it
-now.");
+Well, I've gotten quite resistant to it now.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,3);

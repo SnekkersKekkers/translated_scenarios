@@ -33,22 +33,20 @@ more legit than I thought.");
     VoicePlay("P730100000_01_020");
     MsgDisp("Kazama","Both the clothes and model are stylish.");
     MsgDisp("主人公","Thank you.
-Though I'm not sure how much I can trust
-you?");
+Though I'm not sure how much I can trust you?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100000_01_030");
     MsgDisp("Kazama","So you've returned to your usual self?
-Go, smiling brightly just as you usually
-do.");
+Go, smiling brightly just as you usually do.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Ah, it's starting.
 I'll to my best then!");
-    MsgDisp("主人公","(Huh? After talking to ｛Kazama＊＊｝, I
-think I feel more at ease...Al—right,
-let's do our best!)");
+    MsgDisp("主人公","(Huh? After talking to ｛Kazama＊＊｝, I think
+I feel more at ease...
+Al—right, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

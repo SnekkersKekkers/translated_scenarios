@@ -53,8 +53,8 @@ It's the Koshien, after all.");
     ChMotion(6,4);
     VoicePlay("H180600000_06_060");
     MsgDisp("Himuro","I was getting a little excited, thinking
-about how our team might win thanks to
-your hard work.");
+about how our team might win thanks to your
+hard work.");
     MsgDisp("主人公","Y-Yeah...");
     ChEye(6,0);
     ChMouth(6,0);
@@ -68,8 +68,7 @@ aiming for the top.");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("H180600000_06_080");
-    MsgDisp("Himuro","Well, I'm sure you guys will be fine,
-though.");
+    MsgDisp("Himuro","Well, I'm sure you guys will be fine, though.");
     MsgDisp("主人公","(Alright, let's do our best...!)");
     break ;
     default :

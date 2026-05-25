@@ -2,9 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time to head home now, huh.)");
-MsgDisp("主人公","(...Huh? Isn't that ｛Kazama＊＊｝ over
-there. I might as well chat a bit before
-heading home.)");
+MsgDisp("主人公","(...Huh?
+Isn't that ｛Kazama＊＊｝ over there. I might
+as well chat a bit before heading home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -39,8 +39,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110101101_01_020");
 MsgDisp("Kazama","What, why are you saying that in such a
-lonely manner? Just go into it knowing
-you're going to be their instructor.");
+lonely manner? Just go into it knowing you're
+going to be their instructor.");
 MsgDisp("主人公","Y-Yeah.
 I'll do my best.");
 ChEye(1,0);
@@ -62,9 +62,9 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110101101_01_050");
-MsgDisp("Kazama","Wait a second. I'm not the one who decides
-your wages, so there's no need to be so
-serious about it.");
+MsgDisp("Kazama","Wait a second.
+I'm not the one who decides your wages, so
+there's no need to be so serious about it.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -39,8 +39,8 @@ lesson Nagasaki edition.");
 I was also searching for participants of
 extracurricular activity Nagasaki edition.");
     MsgDisp("主人公","Ehm...
-I was actually hoping to go sightseeing
-with ｛Mikage＊＊｝...");
+I was actually hoping to go sightseeing with
+｛Mikage＊＊｝...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -51,8 +51,8 @@ with ｛Mikage＊＊｝...");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("Q040700001_07_050");
-    MsgDisp("Mikage","It isn't really popular, so you're the
-only participant.");
+    MsgDisp("Mikage","It isn't really popular, so you're the only
+participant.");
     MsgDisp("主人公","Yay!
 Well then, let's go!");
     break ;

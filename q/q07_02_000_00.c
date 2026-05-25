@@ -38,8 +38,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("Q070200000_02_040");
-MsgDisp("Sassa","I think so too. Getting to go sightseeing
-in Nagasaki with you...I'm really lucky.");
+MsgDisp("Sassa","I think so too.
+Getting to go sightseeing in Nagasaki with
+you... I'm really lucky.");
 MsgDisp("主人公","(｛Sassa＊＊｝ ...)");
 MsgClose();
 ScrFadeOut(0);
@@ -91,8 +92,7 @@ ChClose(2);
 MsgClose();
 ScrFadeOut(0);
 SEWait();
-MsgDisp("主人公","(After this, we'll move on to Nagasaki
-City.
+MsgDisp("主人公","(After this, we'll move on to Nagasaki City.
 Let's enjoy Huis ten Bosch until the end!)");
 BGMStop(2);
 Wait(60,0);
@@ -115,8 +115,8 @@ ChMotion(2,0);
 VoicePlay("Q070200000_02_110");
 MsgDisp("Sassa","Let's take a rest here, then.");
 MsgDisp("主人公","Yeah.
-The building and the flowerbeds are
-beautiful and relaxing.");
+The building and the flowerbeds are beautiful
+and relaxing.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -128,24 +128,26 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_130");
-MsgDisp("Sassa","There were no planes back then, so I guess
-it was hard to return home.");
+MsgDisp("Sassa","There were no planes back then, so I guess it
+was hard to return home.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_140");
-MsgDisp("Sassa","Hmmm...Cutting off all your escape routes
-like that. That's tough.");
-MsgDisp("主人公","Yeah, it sounds like it would be difficult
-to do.");
+MsgDisp("Sassa","Hmmm...
+Cutting off all your escape routes like that.
+That's tough.");
+MsgDisp("主人公","Yeah, it sounds like it would be difficult to
+do.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_150");
-MsgDisp("Sassa","It's like how I'd quit Track and Field if
-I don't win all my matches during the
+MsgDisp("Sassa","It's like how I'd quit Track and Field if I
+don't win all my matches during the
 Inter-High.");
-MsgDisp("主人公","Eh? ...｛Sassa＊＊｝?");
+MsgDisp("主人公","Eh?
+...｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -171,25 +173,25 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("Q070200000_02_190");
 MsgDisp("Sassa","I'm so simple.");
-MsgDisp("主人公","｛Sassa＊＊｝, you're not simple as you
-think. You have a crazy training schedule
-that you follow everyday.");
+MsgDisp("主人公","｛Sassa＊＊｝, you're not simple as you think.
+You have a crazy training schedule that you
+follow everyday.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_200");
 MsgDisp("Sassa","Thank you.
-When I think about you watching over me
-like that──");
+When I think about you watching over me like
+that──");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_210");
-MsgDisp("Sassa","Like the merchants who came here...maybe
-I'm also going to push myself into a
-corner, with no way out.");
-MsgDisp("主人公","(I'd be happy if I could help ｛Sassa＊＊｝
-in any way...)");
+MsgDisp("Sassa","Like the merchants who came here...maybe I'm
+also going to push myself into a corner, with
+no way out.");
+MsgDisp("主人公","(I'd be happy if I could help ｛Sassa＊＊｝ in
+any way...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

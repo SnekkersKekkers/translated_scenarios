@@ -22,8 +22,8 @@ I'll come right away.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_650");
-    MsgDisp("Honda","Everyone makes mistakes, so I'll look
-forward to you improving in the future.");
+    MsgDisp("Honda","Everyone makes mistakes, so I'll look forward
+to you improving in the future.");
     MsgDisp("主人公","(Haa, I caused trouble for them...
 Like ｛Honda＊＊｝ said, I'll make sure I
 improve!)");
@@ -32,16 +32,16 @@ improve!)");
     case 5:
     VoicePlay("I260300000_55_000");
     VoicePlay("I260300006_33_000");
-    MsgDisp("Customer","Huh, you don't have it even though I
-reserved it?");
+    MsgDisp("Customer","Huh, you don't have it even though I reserved
+it?");
     MsgDisp("主人公","My apologies!");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,0,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_660");
     MsgDisp("Honda","What happened?");
-    MsgDisp("主人公","I gave the item they ordered to someone
-else by accident...");
+    MsgDisp("主人公","I gave the item they ordered to someone else
+by accident...");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -104,14 +104,14 @@ Take this.");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_730");
     MsgDisp("Honda","Yeah.
-One of caffeine's effects is clearing a
-foggy mind.");
+One of caffeine's effects is clearing a foggy
+mind.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_740");
-    MsgDisp("Honda","Take a break while you can and go clear
-your mind!
+    MsgDisp("Honda","Take a break while you can and go clear your
+mind!
 ...Got it?");
     MsgDisp("主人公","Yeah, thanks.");
     MsgDisp("主人公","(I caused trouble for ｛Honda＊＊｝...

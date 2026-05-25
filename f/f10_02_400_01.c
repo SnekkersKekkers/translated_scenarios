@@ -46,8 +46,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100240001_02_030");
-MsgDisp("Sassa","I don't want to hear about technique, I
-want to hear about how you feel.");
+MsgDisp("Sassa","I don't want to hear about technique, I want
+to hear about how you feel.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -57,9 +57,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100240001_02_040");
-MsgDisp("Sassa","When you're doing eight events with just
-your own ideas, you want completely
-unrelated outside opinions.");
+MsgDisp("Sassa","When you're doing eight events with just your
+own ideas, you want completely unrelated
+outside opinions.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -71,8 +71,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240001_02_050");
 MsgDisp("Sassa","Thank you, I'm counting on you.");
-MsgDisp("主人公","(｛Sassa＊＊｝ and ｛Himuro＊＊｝ are like
-friends, brothers, and rivals?
+MsgDisp("主人公","(｛Sassa＊＊｝ and ｛Himuro＊＊｝ are like friends,
+brothers, and rivals?
 Boys' relationships are so strange.)");
 BGMStop();
 MsgClose();

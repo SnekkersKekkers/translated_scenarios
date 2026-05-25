@@ -27,8 +27,8 @@ people should gather by word of mouth.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P630700000_07_020");
-    MsgDisp("Mikage","Firstly could I indulge in a little
-breather first?");
+    MsgDisp("Mikage","Firstly could I indulge in a little breather
+first?");
     MsgDisp("主人公","Yes.
 A herb tea set coming up～!");
     break ;

@@ -37,9 +37,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D100D00000_22_020");
-MsgDisp("Hikaru","Hikaru calls it the Garden of Mari's
-heart— Hikaru can tell you what goes on in
-\"Mari's Garden\"♪");
+MsgDisp("Hikaru","Hikaru calls it the Garden of Mari's heart—
+Hikaru can tell you what goes on in \"Mari's
+Garden\"♪");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

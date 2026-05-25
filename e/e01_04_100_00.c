@@ -28,8 +28,8 @@ ChEye(4,3);
 ChMouth(4,3);
 VoicePlay("E010410000_04_030");
 MsgDisp("Nanatsumori","Earlier, I went to that food truck.
-The one that sells pancakes you can eat
-while walking.");
+The one that sells pancakes you can eat while
+walking.");
 ChMotion(4,0,1);
 VoicePlay("E010410000_04_040");
 MsgDisp("Nanatsumori","They're easy to eat and taste good.");

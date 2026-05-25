@@ -7,9 +7,9 @@ switch (ChPrmGet(4,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","Alright. I finished moving the
-chairs, so what should I carry, and where
-do I carry it to next...?");
+    MsgDisp("主人公","Alright.
+I finished moving the chairs, so what should
+I carry, and where do I carry it to next...?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -26,9 +26,9 @@ Yeah, super busy.");
     VoicePlay("P830400000_04_010");
     MsgDisp("Nanatsumori","Well, that's part of management.");
     VoicePlay("P830400000_46_000");
-    MsgDisp("School Girl","Um—. The audiovisual room doesn't have
-enough blackout curtains. Could you bring
-some?");
+    MsgDisp("School Girl","Um—.
+The audiovisual room doesn't have enough
+blackout curtains. Could you bring some?");
     MsgDisp("主人公","Ye—s.
 Then I'll be going now!");
     ChEye(4,2);
@@ -39,9 +39,9 @@ Then I'll be going now!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Alright, and. I finished moving the
-chairs, so what should I carry, and where
-do I carry it to next...?");
+    MsgDisp("主人公","Alright, and.
+I finished moving the chairs, so what should
+I carry, and where do I carry it to next...?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -65,9 +65,9 @@ But, I'm responsible for this myself.");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("P830400000_46_010");
-    MsgDisp("School Girl","Excuse me—. The audiovisual room doesn't
-have enough blackout curtains. Could you
-bring some?");
+    MsgDisp("School Girl","Excuse me—.
+The audiovisual room doesn't have enough
+blackout curtains. Could you bring some?");
     MsgDisp("主人公","Yes—!
 I'll go now!");
     ChEye(4,2);

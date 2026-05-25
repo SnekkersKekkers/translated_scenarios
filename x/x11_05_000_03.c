@@ -20,11 +20,10 @@ better!");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500003_05_010");
-    MsgDisp("Hiiragi","Your performance was less like a
-performance and more like a dance.");
-    MsgDisp("主人公","Could it be that you came to see the
-Rhythmic Gymnastic's club's joint
-practice?");
+    MsgDisp("Hiiragi","Your performance was less like a performance
+and more like a dance.");
+    MsgDisp("主人公","Could it be that you came to see the Rhythmic
+Gymnastic's club's joint practice?");
     ChEye(5,3);
     ChMotion(5,3);
     VoicePlay("X110500003_05_020");

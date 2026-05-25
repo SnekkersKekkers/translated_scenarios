@@ -8,8 +8,8 @@ SEWait();
 ChOpen(21,254,4,0,4,#1,#1,0,1);
 ChOpen(22,254,0,0,0,#1,#1,0,2);
 VoicePlay("P840D00003_21_000");
-MsgDisp("Michiru","Even though it was supposed to have been
-on the desk just a moment ago...");
+MsgDisp("Michiru","Even though it was supposed to have been on
+the desk just a moment ago...");
 MsgDisp("主人公","The rulers too...where are they?");
 VoicePlay("P840D00003_46_000");
 MsgDisp("School Girl","Excuse me—, but our class doesn't have

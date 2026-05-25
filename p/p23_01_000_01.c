@@ -15,8 +15,8 @@ switch (ChPrmGet(1,6)){
     MsgClose();
     ChOpen(1,30,0,0,0,#1,#1,0,0);
     VoicePlay("P230100001_01_000");
-    MsgDisp("Kazama","Phew, I've fixed the pumpkin carriage
-wheel first.");
+    MsgDisp("Kazama","Phew, I've fixed the pumpkin carriage wheel
+first.");
     MsgDisp("主人公","Good work.
 I hope it holds up until the end.");
     ChEye(1,2);

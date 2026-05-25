@@ -23,8 +23,8 @@ See you later.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Another year, huh. I hope it's a good
-year...)");
+    MsgDisp("主人公","(Another year, huh.
+I hope it's a good year...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -44,8 +44,8 @@ It seems this year will be a good year.");
     ChMotion(5,3);
     VoicePlay("S120500000_05_030");
     MsgDisp("Hiiragi","Yeah.
-We don't know if our wishes will come
-true, so it's up to us to try our best.");
+We don't know if our wishes will come true,
+so it's up to us to try our best.");
     MsgDisp("主人公","You're right.
 Okay, let's try our best.");
     ChEye(5,3);
@@ -78,14 +78,14 @@ Let me take you home.");
     MsgDisp("Hiiragi","There was a huge turnout.
 Are you tired at all?");
     MsgDisp("主人公","I'm fine.
-｛Hiiragi＊＊＊｝, are you used to so many
-people at your performances?");
+｛Hiiragi＊＊＊｝, are you used to so many people
+at your performances?");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("S120500000_05_090");
-    MsgDisp("Hiiragi","Hm, I wonder. Standing in front of a lot
-of people isn't really the same as being
-in the middle of a crowd.");
+    MsgDisp("Hiiragi","Hm, I wonder. Standing in front of a lot of
+people isn't really the same as being in the
+middle of a crowd.");
     MsgDisp("主人公","I see.");
     ChEye(5,4);
     ChMotion(5,0);
@@ -96,9 +96,9 @@ The voices don't seem as loud.");
     MsgDisp("主人公","Voices?");
     ChMotion(5,4);
     VoicePlay("S120500000_05_110");
-    MsgDisp("Hiiragi","Yeah, there were a few people who appear
-to be regulars of mine. But they seemed to
-shy away at the sight of you.");
+    MsgDisp("Hiiragi","Yeah, there were a few people who appear to
+be regulars of mine. But they seemed to shy
+away at the sight of you.");
     MsgDisp("主人公","Eh?");
     ChMotion(5,0);
     VoicePlay("S120500000_05_120");

@@ -67,8 +67,8 @@ You don't have to hold back your tears.");
     MsgDisp("Kazama","Good for you.");
     MsgDisp("主人公","Yeah.");
     VoicePlay("H1A0100000_01_070");
-    MsgDisp("Kazama","It took up a lot of your time, so I wasn't
-a huge fan of it, you know?");
+    MsgDisp("Kazama","It took up a lot of your time, so I wasn't a
+huge fan of it, you know?");
     MsgDisp("主人公","Hm?");
     ChClose(1,0,0);
     ChLayout(1);
@@ -79,9 +79,9 @@ a huge fan of it, you know?");
     ScrFadeIn(0);
     SEWait();
     VoicePlay("H1A0100000_01_080");
-    MsgDisp("Kazama","But it's thanks to the baseball club that
-I could see your face light up like
-this...so I'll forgive them.");
+    MsgDisp("Kazama","But it's thanks to the baseball club that I
+could see your face light up like this...so
+I'll forgive them.");
     MsgDisp("主人公","Hehe, geez.");
     ChEye(1,0);
     ChMouth(1,3);

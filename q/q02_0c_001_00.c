@@ -17,9 +17,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("Q020C00100_05_000");
-MsgDisp("Hiiragi","Mikage-Sensei, there could be a chance
-she's already reserved her time for
-somebody else...");
+MsgDisp("Hiiragi","Mikage-Sensei, there could be a chance she's
+already reserved her time for somebody
+else...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -33,8 +33,8 @@ ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("Q020C00100_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
-Would you be inclined to spend today's
-free period with us?");
+Would you be inclined to spend today's free
+period with us?");
 MsgSel("Yes, please!","Sorry, it's just...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -65,8 +65,8 @@ have fun for me too'");
     ChEyeOpenLevel(5,9);
     VoicePlay("Q020C00100_05_040");
     MsgDisp("Hiiragi","When Mr.
-Mikage invited you like that, I was
-worried you'd reject going with us.");
+Mikage invited you like that, I was worried
+you'd reject going with us.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

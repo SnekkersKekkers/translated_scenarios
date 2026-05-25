@@ -8,8 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛Nanatsumori＊｝'s modeling
-agency!)");
+snacks to ｛Nanatsumori＊｝'s modeling agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -38,8 +37,8 @@ Yeah, it's my first delivery job.
     ChMotion(4,1,1);
     VoicePlay("I360400005_04_010");
     MsgDisp("Nanatsumori","Yeah.
-I think it's fine if you just leave that
-on the table.");
+I think it's fine if you just leave that on
+the table.");
     MsgDisp("主人公","Okay.
 I'll do that.");
     ChEye(4,4);
@@ -61,8 +60,7 @@ I did it!)");
     case 4:
     case 5:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛Nanatsumori＊｝'s modeling
-agency!)");
+snacks to ｛Nanatsumori＊｝'s modeling agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -94,8 +92,8 @@ Did you just get on break?");
     VoicePlay("I360400005_04_050");
     MsgDisp("Nanatsumori","Ah, yeah.");
     MsgDisp("主人公","Then, I'll leave the food and drinks here.
-I'll come to collect the empty dishes
-later. Until then...");
+I'll come to collect the empty dishes later.
+Until then...");
     ChEye(4,4);
     ChMouth(4,2);
     ChMotion(4,1,1);

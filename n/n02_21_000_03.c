@@ -9,8 +9,8 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("N022100003_21_010");
 MsgDisp("Michiru","Did you fall asleep?
-Or did you forget to write your name on
-the answer sheet?");
+Or did you forget to write your name on the
+answer sheet?");
 MsgDisp("主人公","(Oof...
 I have to study harder...)");
 MsgClose();

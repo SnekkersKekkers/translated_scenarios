@@ -83,8 +83,8 @@ Yeah, let's do our best!");
     ChMotion(1,3);
     VoicePlay("O040101000_01_090");
     MsgDisp("Kazama","Nice.
-I'll fill the basket up so much it'll
-start overflowing.");
+I'll fill the basket up so much it'll start
+overflowing.");
     break ;
     default :
     DbgAssert(1);

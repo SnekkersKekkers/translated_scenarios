@@ -27,7 +27,8 @@ ChMotion(2,1);
 VoicePlay("G110200600_02_000");
 MsgDisp("Sassa","Oh, good work.
 Can I ask you to help me cool down?");
-MsgDisp("主人公","Of course. ...｛Sassa＊＊｝, you see—");
+MsgDisp("主人公","Of course.
+...｛Sassa＊＊｝, you see—");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -42,8 +43,8 @@ VoicePlay("G110200600_02_020");
 MsgDisp("Sassa","So it's good to run with you like this
 sometimes.");
 MsgDisp("主人公","But...
-I think everyone and the club leader seems
-to misunderstand ｛Sassa＊＊｝.");
+I think everyone and the club leader seems to
+misunderstand ｛Sassa＊＊｝.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -59,8 +60,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200600_02_050");
-MsgDisp("Sassa","I'm feeling energized, I'll run another
-lap with more energy!
+MsgDisp("Sassa","I'm feeling energized, I'll run another lap
+with more energy!
 You go on ahead.");
 SEStop("EV_SE_FOOT_037",2);
 BGMStop();

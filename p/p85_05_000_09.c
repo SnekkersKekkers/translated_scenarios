@@ -24,21 +24,21 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P850500009_05_020");
 MsgDisp("Hiiragi","I was able to manage my last cultural
-festival alongside you. To me, just that
-is a wonderful enough memory.");
+festival alongside you. To me, just that is a
+wonderful enough memory.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("P850500009_05_030");
 MsgDisp("Hiiragi","It's alright.
-Many years later, we'll be able to look
-back on this and laugh.");
+Many years later, we'll be able to look back
+on this and laugh.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P850500009_05_040");
 MsgDisp("Hiiragi","See, so look up.");
-MsgDisp("主人公","(Haa...even though it was the last
-cultural festival of my school life...
+MsgDisp("主人公","(Haa...even though it was the last cultural
+festival of my school life...
 I wanted to end it with a smile.)");
 MsgClose();
 ScrFadeOut(0,0);

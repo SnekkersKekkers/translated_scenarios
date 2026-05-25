@@ -5,8 +5,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P640700004_07_000");
 MsgDisp("Mikage","Delicious!
-A salad with freshly harvested vegetables
-is the best!");
+A salad with freshly harvested vegetables is
+the best!");
 MsgDisp("主人公","｛Mikage＊＊｝, do you like it?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -40,9 +40,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("P640700004_07_050");
-MsgDisp("Mikage","This place will fill up quickly through
-word of mouth. I'd like one more drink
-before that happens!");
+MsgDisp("Mikage","This place will fill up quickly through word
+of mouth.
+I'd like one more drink before that happens!");
 MsgDisp("主人公","(My devotion to the club has beared fruit!
 I'm glad I joined the gardening club...!)");
 MsgClose();

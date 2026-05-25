@@ -28,16 +28,16 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P030D00000_22_010");
-MsgDisp("Hikaru","Your Japanese-style cafe is doing so
-well～! As expected, since you're here as
-the face of the cafe▼");
+MsgDisp("Hikaru","Your Japanese-style cafe is doing so well～!
+As expected, since you're here as the face of
+the cafe▼");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P030D00000_21_010");
 MsgDisp("Michiru","It's true.
-Well, could we have your recommendation,
-as the face of this cafe?");
+Well, could we have your recommendation, as
+the face of this cafe?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

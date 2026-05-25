@@ -12,8 +12,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("School Girl","Excuse me, I'd like to borrow a trolley
 please.");
     MsgDisp("主人公","Ye—s");
-        MsgDisp("主人公","(Phew, this year I'm in charge of
-supplies.
+        MsgDisp("主人公","(Phew, this year I'm in charge of supplies.
 I'm super busy, huh...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -35,8 +34,8 @@ I'm busy though.");
     ChMotion(1,0);
     VoicePlay("P830100001_01_020");
     MsgDisp("Kazama","I see.
-I'll buy the things you like in advance,
-so when it's break time, let's eat it.");
+I'll buy the things you like in advance, so
+when it's break time, let's eat it.");
     MsgDisp("主人公","Thank you!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -50,13 +49,11 @@ so when it's break time, let's eat it.");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","(Phew, this year I'm in charge of
-supplies.
+    MsgDisp("主人公","(Phew, this year I'm in charge of supplies.
 I'm super busy, huh...)");
     VoicePlay("P830100001_48_010");
-    MsgDisp("School Girl","Excuse me, I accidentally spilled some
-water. I'd like to borrow a bucket and a
-rag please!");
+    MsgDisp("School Girl","Excuse me, I accidentally spilled some water.
+I'd like to borrow a bucket and a rag please!");
     MsgDisp("主人公","Yes, I'll bring it over now!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -65,8 +62,7 @@ rag please!");
     VoicePlay("P830100001_01_040");
     MsgDisp("Kazama","I'll carry this over.");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
-Didn't you have something you needed to
-do?");
+Didn't you have something you needed to do?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -88,8 +84,8 @@ You seem busy, so I can just do it later.");
     ChMotion(1,1);
     VoicePlay("P830100001_01_060");
     MsgDisp("Kazama","Phew...
-It's a tough job being the management
-staff, huh?");
+It's a tough job being the management staff,
+huh?");
     MsgDisp("主人公","｛Kazama＊＊｝, thank you for helping me.");
     ChEye(1,2);
     ChMouth(1,3);

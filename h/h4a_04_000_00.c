@@ -14,8 +14,8 @@ I got goosebumps.");
     ChMotion(4,1,1);
     VoicePlay("H4A0400000_04_010");
     MsgDisp("Nanatsumori","And your technique.
-It felt like I was seeing a fairy do magic
-in real life.");
+It felt like I was seeing a fairy do magic in
+real life.");
     MsgDisp("主人公","Hehe.");
     ChEye(4,0);
     ChMouth(4,3);
@@ -23,8 +23,8 @@ in real life.");
     VoicePlay("H4A0400000_04_020");
     MsgDisp("Nanatsumori","You really let me see something good.
 Congrats on winning!");
-    MsgDisp("主人公","(I'm glad I stayed in the rhythmic
-gymnastics club...
+    MsgDisp("主人公","(I'm glad I stayed in the rhythmic gymnastics
+club...
 Today's the best day ever!)");
     break ;
     case 4:
@@ -47,15 +47,14 @@ I won!");
     ChMotion(4,1,1);
     VoicePlay("H4A0400000_04_050");
     MsgDisp("Nanatsumori","Ever since the match ended, that sparkling
-thing you were doing has been burned into
-my eyes...");
+thing you were doing has been burned into my
+eyes...");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("H4A0400000_04_060");
     MsgDisp("Nanatsumori","Even now, it's dazzling...
-Being blinded by someone really does 
-happen.");
+Being blinded by someone really does happen.");
     MsgDisp("主人公","Geez, you're making me feel shy...");
     ChEye(4,1);
     ChMouth(4,2);
@@ -65,9 +64,9 @@ happen.");
     VoicePlay("H4A0400000_04_070");
     MsgDisp("Nanatsumori","Ugh...!
 If you look at me like that, I'll...");
-    MsgDisp("主人公","(｛Nanatsumori＊｝...I'm glad I stayed in
-the rhythmic gymnastics club...Today's the
-best day ever!)");
+    MsgDisp("主人公","(｛Nanatsumori＊｝...
+I'm glad I stayed in the rhythmic gymnastics
+club... Today's the best day ever!)");
     break ;
     default :
     DbgAssert(1);

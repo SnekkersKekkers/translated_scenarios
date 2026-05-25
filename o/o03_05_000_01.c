@@ -40,8 +40,8 @@ I couldn't get in sync...");
     ChMotion(5,0);
     VoicePlay("O030500001_05_030");
     MsgDisp("Hiiragi","Not at all.
-Falling out of sync and looking at each
-other was fun in its own way.");
+Falling out of sync and looking at each other
+was fun in its own way.");
     MsgDisp("主人公","(Hehe...
 But we were so close to first place...)");
     break ;

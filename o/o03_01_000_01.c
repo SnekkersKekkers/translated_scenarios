@@ -30,8 +30,8 @@ I'm sorry.");
     ChMotion(1,0);
     VoicePlay("O030100001_01_020");
     MsgDisp("Kazama","This is a problem.
-Do you want to spend the rest of the day
-tied together?");
+Do you want to spend the rest of the day tied
+together?");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,1);
@@ -71,10 +71,9 @@ Well, you didn't get hurt, so it's okay.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("O030100001_01_070");
-    MsgDisp("Kazama","Then should we blend in during the next
-race?");
-    MsgDisp("主人公","(We didn't win, but it was fun
-participating with ｛Kazama＊＊｝.)");
+    MsgDisp("Kazama","Then should we blend in during the next race?");
+    MsgDisp("主人公","(We didn't win, but it was fun participating
+with ｛Kazama＊＊｝.)");
     break ;
     default :
     DbgAssert(1);

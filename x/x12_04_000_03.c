@@ -12,8 +12,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     VoicePlay("X120400003_04_000");
-        MsgDisp("Nanatsumori","Thanks for all the hard work you do for
-the school.
+        MsgDisp("Nanatsumori","Thanks for all the hard work you do for the
+school.
 I'll also cooperate.");
         MsgDisp("主人公","(Yay!)");
         break ;
@@ -22,8 +22,8 @@ I'll also cooperate.");
         ChEye(4,0);
         ChMouth(4,3);
         VoicePlay("X120400003_04_010");
-        MsgDisp("Nanatsumori","Thanks for the hard work today too. I
-think the reason Haba High is so peaceful
+        MsgDisp("Nanatsumori","Thanks for the hard work today too.
+I think the reason Haba High is so peaceful
 is thanks to you. Seriously.");
     MsgDisp("主人公","(Yay!
 I was praised!)");

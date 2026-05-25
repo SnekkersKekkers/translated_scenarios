@@ -17,8 +17,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120001_01_020");
 MsgDisp("Kazama","I waited ten years.
-So I'm not gonna just give up and fade
-into the background.");
+So I'm not gonna just give up and fade into
+the background.");
 MsgDisp("主人公","Is something wrong, ｛Kazama＊＊｝?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -26,16 +26,15 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120001_01_030");
 MsgDisp("Kazama","I don't understand myself why I'm talking
-about this. I just couldn't stop myself
-after seeing the fireflies.");
+about this. I just couldn't stop myself after
+seeing the fireflies.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120001_01_040");
-MsgDisp("Kazama","Look, I can't do anything about you
-choosing someone besides me. But I've got
-a duty to the me from primary to middle
-school.");
+MsgDisp("Kazama","Look, I can't do anything about you choosing
+someone besides me. But I've got a duty to
+the me from primary to middle school.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,2);
 ChMouth(1,2);
@@ -43,8 +42,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120001_01_050");
 MsgDisp("Kazama","Sorry.
-But if I just stand by, the old me
-wouldn't accept it.");
+But if I just stand by, the old me wouldn't
+accept it.");
 MsgDisp("主人公","(｛Kazama＊＊｝ isn't acting like his usual
 self today.
 I wonder what caused all this...)");

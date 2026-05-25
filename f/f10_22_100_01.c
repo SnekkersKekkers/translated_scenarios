@@ -13,12 +13,12 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102210001_22_010");
-MsgDisp("Hikaru","Hikaru got a nice painting from the art
-club and put it up in the classroom.
+MsgDisp("Hikaru","Hikaru got a nice painting from the art club
+and put it up in the classroom.
 It looks really stylish so Hikaru's happy▼");
 MsgDisp("主人公","Wow, is that so!
-By the way, about the flowers from the
-other d—");
+By the way, about the flowers from the other
+d—");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -31,8 +31,8 @@ BGMStop();
 ChClose(22);
 MsgDisp("主人公","She's gone...");
 VoicePlay("F102210001_46_000");
-MsgDisp("Art Club","I can't find the painting that was in the
-art club room?
+MsgDisp("Art Club","I can't find the painting that was in the art
+club room?
 Maybe it got misplaced...?");
 MsgDisp("主人公","(Deja vu...?)");
 MsgClose();

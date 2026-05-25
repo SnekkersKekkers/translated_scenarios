@@ -52,17 +52,16 @@ Welcome!");
     ChMotion(4,1,1);
     VoicePlay("I550400000_04_050");
     MsgDisp("Nanatsumori","Hey, have anything that'll go with coffee?");
-    MsgDisp("主人公","Yes, we do. I recommend these small
-daifuku, made with citrus zest, fresh
-cream, and sweet bean paste.");
+    MsgDisp("主人公","Yes, we do. I recommend these small daifuku,
+made with citrus zest, fresh cream, and sweet
+bean paste.");
     ChEye(4,4);
     ChMouth(4,1);
     ChMotion(4,0,1);
     VoicePlay("I550400000_04_060");
     MsgDisp("Nanatsumori","I'll drool just listening to you...");
     MsgDisp("主人公","Hehe!
-I have other recommendations if you'd
-like?");
+I have other recommendations if you'd like?");
     ChEye(4,3);
     ChMouth(4,3);
     VoicePlay("I550400000_04_070");
@@ -88,10 +87,9 @@ Welcome!");
     ChMouth(4,4);
     VoicePlay("I550400000_04_100");
     MsgDisp("Nanatsumori","Hm. I thought someone was calling me from
-inside the store. Was it the Japanese
-sweets, or you?");
-    MsgDisp("主人公","Hehe, thank you for your continued
-patronage!
+inside the store.
+Was it the Japanese sweets, or you?");
+    MsgDisp("主人公","Hehe, thank you for your continued patronage!
 What are you looking for today?");
     ChEye(4,0);
     ChMouth(4,0);
@@ -103,15 +101,15 @@ What are you looking for today?");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("I550400000_04_120");
-    MsgDisp("Nanatsumori","What do you eat when you're feeling great
-and having a good time?");
+    MsgDisp("Nanatsumori","What do you eat when you're feeling great and
+having a good time?");
     MsgDisp("主人公","Hm...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("I550400000_04_130");
-    MsgDisp("Nanatsumori","So, if I was the one feeling like that,
-which would you recommend?");
+    MsgDisp("Nanatsumori","So, if I was the one feeling like that, which
+would you recommend?");
     MsgDisp("主人公","｛Nanatsumori＊｝'s current feelings?
 A very good mood, and kinda happy...");
     ChEye(4,3);
@@ -123,8 +121,8 @@ A very good mood, and kinda happy...");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("I550400000_04_150");
-    MsgDisp("Nanatsumori","Well, anything you'd choose for me would
-be the correct answer, though.");
+    MsgDisp("Nanatsumori","Well, anything you'd choose for me would be
+the correct answer, though.");
     MsgDisp("主人公","(Is ｛Nanatsumori＊｝ testing me?
 Alright, I'll choose something that he'll
 definitely like!)");

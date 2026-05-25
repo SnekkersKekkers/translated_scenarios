@@ -32,12 +32,12 @@ I'll clean it up now.");
     ChMotion(6,0);
     ChEyeOpenLevel(6,8);
     VoicePlay("I460600000_06_020");
-    MsgDisp("Himuro","And don't relax just because you're used
-to the work.
+    MsgDisp("Himuro","And don't relax just because you're used to
+the work.
 You'll make more mistakes.");
     MsgDisp("主人公","O-Okay.");
-    MsgDisp("主人公","(Like ｛Himuro＊＊｝ told me to, I'll have to
-get it together...!)");
+    MsgDisp("主人公","(Like ｛Himuro＊＊｝ told me to, I'll have to get
+it together...!)");
     break ;
     case 4:
     case 5:

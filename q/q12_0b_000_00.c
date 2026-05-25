@@ -62,9 +62,9 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q120B00000_01_020");
-MsgDisp("Kazama","That's right. The report is waiting.
-Nanatsumori, you can't just give reports
-on castellas.");
+MsgDisp("Kazama","That's right.
+The report is waiting. Nanatsumori, you can't
+just give reports on castellas.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);

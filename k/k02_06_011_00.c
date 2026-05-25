@@ -25,7 +25,8 @@ ChMotion(6,0);
 VoicePlay("K020601100_06_020");
 MsgDisp("Himuro","It's your birthday today, right?
 So here's your present.");
-MsgDisp("主人公","! You remembered?");
+MsgDisp("主人公","!
+You remembered?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

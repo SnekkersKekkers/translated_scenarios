@@ -25,8 +25,8 @@ MsgDisp("Hiiragi","So, if you failed, then it was also my
 liability.");
 ChEyeOpenLevel(5,0);
 VoicePlay("P850500007_05_030");
-MsgDisp("Hiiragi","I wanted to end this last cultural
-festival with you smiling.
+MsgDisp("Hiiragi","I wanted to end this last cultural festival
+with you smiling.
 It's a shame");
 MsgDisp("主人公","(Uugh, a huge fail.
 If ony I had prepared more carefully.)");

@@ -18,8 +18,8 @@ It was fun!");
     ChMotion(3,0,1);
     VoicePlay("Q080300001_03_010");
     MsgDisp("Honda","Really?
-Then, why not hang out together the day
-after tomorrow too?");
+Then, why not hang out together the day after
+tomorrow too?");
     MsgDisp("主人公","Yeah, great.");
     break ;
     case 3:
@@ -27,8 +27,8 @@ after tomorrow too?");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("Q080300001_03_020");
-    MsgDisp("Honda","Today was more than what I simulated. It
-was much more fulfilling, thanks to you.
+    MsgDisp("Honda","Today was more than what I simulated.
+It was much more fulfilling, thanks to you.
 Thanks for inviting me!");
     MsgDisp("主人公","Yeah, I had fun too.");
     ChEye(3,0);

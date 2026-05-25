@@ -21,8 +21,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("P740300004_03_020");
-MsgDisp("Honda","I'm glad that the bride didn't disappear
-to some far off place.");
+MsgDisp("Honda","I'm glad that the bride didn't disappear to
+some far off place.");
 MsgDisp("主人公","Eh?");
 ChEye(3,4);
 ChMouth(3,0);

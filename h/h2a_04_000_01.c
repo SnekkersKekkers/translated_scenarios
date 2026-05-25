@@ -66,9 +66,9 @@ Your smiling face.");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("H2A0400001_04_080");
-    MsgDisp("Nanatsumori","Even if you all didn't win the
-championships, I know how amazing our Haba
-High track team is, including you.");
+    MsgDisp("Nanatsumori","Even if you all didn't win the championships,
+I know how amazing our Haba High track team
+is, including you.");
     ChMotion(4,3,1);
     VoicePlay("H2A0400001_04_090");
     MsgDisp("Nanatsumori","So you don't need to cry.

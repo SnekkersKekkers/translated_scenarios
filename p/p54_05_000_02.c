@@ -3,8 +3,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yes, I was able to perform better than
-last year!)");
+MsgDisp("主人公","(Yes, I was able to perform better than last
+year!)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(5,254,0,4,4,#1,#1,0,0);
@@ -18,16 +18,16 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("P540500002_05_010");
 MsgDisp("Hiiragi","Heheh.
-There's a lot of people who are thinking
-the same as me.");
+There's a lot of people who are thinking the
+same as me.");
 MsgDisp("主人公","I'm happy.
 It was worth giving it my best.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P540500002_05_020");
-MsgDisp("Hiiragi","On the back of the enjoyable music, are
-your efforts from day after day.
+MsgDisp("Hiiragi","On the back of the enjoyable music, are your
+efforts from day after day.
 Congratulations on the success!");
 MsgDisp("主人公","Yes, thank you!");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ praised me!

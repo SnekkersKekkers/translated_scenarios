@@ -13,8 +13,8 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600001_06_010");
-    MsgDisp("Himuro","I got this chocolate from my part-time
-job, too.
+    MsgDisp("Himuro","I got this chocolate from my part-time job,
+too.
 Is it popular?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -31,8 +31,8 @@ I guess that's it.)");
     ChMotion(6,0,1);
     VoicePlay("L040600001_06_020");
     MsgDisp("Himuro","Thanks.
-Though it looks like you're doing this out
-of obligation.");
+Though it looks like you're doing this out of
+obligation.");
     MsgDisp("主人公","What?");
     ChEye(6,0);
     ChMouth(6,0);

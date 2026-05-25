@@ -9,15 +9,14 @@ ChMotion(7,4);
 VoicePlay("G020710001_07_010");
 MsgDisp("Mikage","Any two people could develop a good
 relationship here, don't you think?");
-MsgDisp("主人公","Even with someone you don't get along
-with?");
+MsgDisp("主人公","Even with someone you don't get along with?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710001_07_020");
-MsgDisp("Mikage","Yeah, if it were me...Vice Principal
-Himuro? If we got along well, he might
-even raise my evaluation.");
+MsgDisp("Mikage","Yeah, if it were me...
+Vice Principal Himuro? If we got along well,
+he might even raise my evaluation.");
 MsgDisp("主人公","I heard there's a rumor here that you can
 hear the other person's inner thoughts....");
 ChEye(7,0);
@@ -30,8 +29,9 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020710001_07_040");
-MsgDisp("Mikage","'Mr. Mikage! As a teacher—' That would
-be just the same as always, huh?");
+MsgDisp("Mikage","'Mr.
+Mikage! As a teacher—'
+That would be just the same as always, huh?");
 MsgDisp("主人公","Hehe, maybe you'll hear a kinder voice?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -49,12 +49,12 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("G020710001_07_070");
-MsgDisp("Mikage","Ah, that was just, well, in the heat of
-the moment. Forget about it. That's
-strange...what am I even saying.");
+MsgDisp("Mikage","Ah, that was just, well, in the heat of the
+moment. Forget about it.
+That's strange...what am I even saying.");
 MsgDisp("主人公","(Only me?
-Just now, if that was ｛Mikage＊＊｝'s
-inner voice, I'd be happy...)");
+Just now, if that was ｛Mikage＊＊｝'s inner
+voice, I'd be happy...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

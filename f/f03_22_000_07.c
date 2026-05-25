@@ -25,22 +25,22 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_320");
 MsgDisp("Hikaru","There's lots of things Hikaru can do right
-now, and Hikaru wants to connect all of
-them to her future.");
+now, and Hikaru wants to connect all of them
+to her future.");
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_330");
 MsgDisp("Hikaru","That's why, Hikaru doesn't want to think of
-just one thing for her dream. She wants to do
-everything.");
+just one thing for her dream.
+She wants to do everything.");
 MsgDisp("主人公","That's amazing...!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_340");
 MsgDisp("Hikaru","Ehe▼");
-MsgDisp("主人公","(｛ひかる＊｝ is very talented after
-all. It's good to have lots of different
-dreams for the future.)");
+MsgDisp("主人公","(｛ひかる＊｝ is very talented after all.
+It's good to have lots of different dreams
+for the future.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -10,8 +10,8 @@ switch (ChPrmGet(2,6)){
     VoicePlay("R060200007_02_000");
     MsgDisp("Sassa","O-Oh...
 This certainly is a gut punch.");
-    MsgDisp("主人公","(Darn, I don't think he's really happy
-with my gift...)");
+    MsgDisp("主人公","(Darn, I don't think he's really happy with
+my gift...)");
     break ;
     case 3:
     case 4:
@@ -20,10 +20,10 @@ with my gift...)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("R060200007_02_010");
-    MsgDisp("Sassa","Hmm, don't overdo it trying to get 
-a reaction.");
-    MsgDisp("主人公","(Darn, I don't think he's really happy
-with my gift...)");
+    MsgDisp("Sassa","Hmm, don't overdo it trying to get a
+reaction.");
+    MsgDisp("主人公","(Darn, I don't think he's really happy with
+my gift...)");
     break ;
     default :
     DbgAssert(1);

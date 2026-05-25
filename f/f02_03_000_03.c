@@ -13,12 +13,12 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300003_03_010");
-MsgDisp("Honda","Mhm! In the church's basement, there's a
-huge library. All of the urban legends are
-compiled there!");
+MsgDisp("Honda","Mhm! In the church's basement, there's a huge
+library.
+All of the urban legends are compiled there!");
 MsgDisp("主人公","Huh?
-I think that's the first time I've heard
-that one.");
+I think that's the first time I've heard that
+one.");
 ChSet(3,3);
 VoicePlay("F020300003_03_020");
 MsgDisp("Honda","Really?
@@ -43,8 +43,8 @@ ChMouth(3,3);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("F020300003_03_050");
-MsgDisp("Honda","If there were enough to fill a huge
-library, I'd never be bored for the rest
-of my school days!");
-MsgDisp("主人公","(...we kept talking about something like
-that as we walked home.)");
+MsgDisp("Honda","If there were enough to fill a huge library,
+I'd never be bored for the rest of my school
+days!");
+MsgDisp("主人公","(...we kept talking about something like that
+as we walked home.)");

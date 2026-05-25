@@ -10,7 +10,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("X210300000_03_010");
-MsgDisp("Honda","Yay∈ You're Rose Queen∋");
+MsgDisp("Honda","Yay∈
+You're Rose Queen∋");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -32,14 +33,14 @@ ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("X210300000_03_040");
 MsgDisp("Honda","Being Rose Queen isn't about appearance
-alone, but also brains and beauty—
-the face of Habataki High School.");
+alone, but also brains and beauty— the face
+of Habataki High School.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("X210300000_03_050");
-MsgDisp("Honda","I can proudly say that you have the charm
-to own that title of \"Rose Queen\".");
+MsgDisp("Honda","I can proudly say that you have the charm to
+own that title of \"Rose Queen\".");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -53,9 +54,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("X210300000_03_070");
-MsgDisp("Honda","Right right, THAT smile! That is what
-makes you worthy of Rose Queen. Once
-again, congratulations!");
+MsgDisp("Honda","Right right, THAT smile!
+That is what makes you worthy of Rose Queen.
+Once again, congratulations!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

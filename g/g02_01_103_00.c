@@ -2,8 +2,7 @@ MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110300_01_000");
-MsgDisp("Kazama","Are fireflies supposed to be this
-colorful?");
+MsgDisp("Kazama","Are fireflies supposed to be this colorful?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -24,16 +23,16 @@ ChMotion(1,0);
 VoicePlay("G020110300_01_030");
 MsgDisp("Kazama","...Speaking of ferris wheels, remember the
 one at Habataki Land Town?");
-MsgDisp("主人公","Oh...yeah. The one where you kissed me on
-the forehead...It was embarrassing with
-everyone watching.");
+MsgDisp("主人公","Oh...yeah. The one where you kissed me on the
+forehead...
+It was embarrassing with everyone watching.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110300_01_040");
-MsgDisp("Kazama","Though a kiss on the forehead is even less
-of a big deal than saying hello in the UK.");
+MsgDisp("Kazama","Though a kiss on the forehead is even less of
+a big deal than saying hello in the UK.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);

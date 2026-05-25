@@ -20,16 +20,17 @@ MsgSel("I'll focus on the club exhibition","I'll participate in the school play"
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("P200000001_45_020");
-    MsgDisp("Chairperson","Understood. Please do your best with the
-club exhibition. Take care.");
+    MsgDisp("Chairperson","Understood.
+Please do your best with the club exhibition.
+Take care.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     break ;
     case 1:
     VoicePlay("P200000001_45_030");
-    MsgDisp("Chairperson","Understood. Please do your best with the
-preparations for the school play. Take
-care.");
+    MsgDisp("Chairperson","Understood.
+Please do your best with the preparations for
+the school play. Take care.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     break ;

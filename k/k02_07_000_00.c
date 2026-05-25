@@ -17,8 +17,8 @@ I have a package for you.");
 SEPlay("EV_SE_665");
 SEWait();
 MsgDisp("主人公","Huh!?
-Mikage Delivery? Um...
-｛Mikage＊＊｝, what is it?");
+Mikage Delivery?
+Um... ｛Mikage＊＊｝, what is it?");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -42,8 +42,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("K020700000_07_040");
-MsgDisp("Mikage","Alright, I've confirmed that you received
-it with that smile.
+MsgDisp("Mikage","Alright, I've confirmed that you received it
+with that smile.
 See you.");
 MsgClose();
 SEPlay("EV_SE_DOOR_022");

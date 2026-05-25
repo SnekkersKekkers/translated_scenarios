@@ -35,8 +35,7 @@ everyone, so I have to do this carefully!");
     ChMotion(4,0,1);
     VoicePlay("P830400002_04_020");
     MsgDisp("Nanatsumori","Oh...
-As expected of the student council
-committee.");
+As expected of the student council committee.");
     break ;
     case 4:
     case 5:
@@ -65,8 +64,7 @@ helped.");
     ChMotion(4,0,1);
     VoicePlay("P830400002_04_050");
     MsgDisp("Nanatsumori","I guess.
-I'm also feeling unusually festive, you
-know?");
+I'm also feeling unusually festive, you know?");
     MsgDisp("主人公","Is that right?");
     ChEye(4,3);
     ChMouth(4,3);

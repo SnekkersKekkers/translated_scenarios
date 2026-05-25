@@ -11,8 +11,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200008_02_000");
-MsgDisp("Sassa","My class is still working on our
-exhibit.
+MsgDisp("Sassa","My class is still working on our exhibit.
 I've been painting for it.");
 MsgDisp("主人公","Huh, ｛Sassa＊＊｝, painting?");
 ChEye(2,0);
@@ -54,7 +53,6 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200008_02_060");
-MsgDisp("Sassa","Well...midway through, I had no clue what
-I was drawing anymore.");
-MsgDisp("主人公","(｛Sassa＊＊｝'s art...it worries me a
-little.)");
+MsgDisp("Sassa","Well...midway through, I had no clue what I
+was drawing anymore.");
+MsgDisp("主人公","(｛Sassa＊＊｝'s art...it worries me a little.)");

@@ -6,8 +6,8 @@ StlEye(22,0);
 StlMouth(22,1);
 VoicePlay("U140D00002_22_000");
 MsgDisp("Hikaru","Mari, you've been drawing a lot lately
-haven't you? Have you been trying to put
-more effort into your art?");
+haven't you? Have you been trying to put more
+effort into your art?");
 MsgDisp("主人公","Yeah.
 Drawing is fun.");
 StlEyeOpenLevel(21,5,1);
@@ -25,6 +25,6 @@ MsgDisp("Michiru","Nice idea.
 I'd love that without a doubt.");
 MsgDisp("主人公","Okay, leave it to me!");
 StlEye(22,0);
-MsgDisp("主人公","(I'm so happy they noticed me working on
-my art!!)");
+MsgDisp("主人公","(I'm so happy they noticed me working on my
+art!!)");
 MsgClose();

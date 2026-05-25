@@ -5,8 +5,7 @@ ChMouth(22,0);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("P640D00000_22_000");
-MsgDisp("Hikaru","The fresh herbs tickle Hikaru's
-nostrils～...");
+MsgDisp("Hikaru","The fresh herbs tickle Hikaru's nostrils～...");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,2);
@@ -23,9 +22,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("P640D00000_21_010");
-MsgDisp("Michiru","I didn't think I would be able to enjoy
-such an authentic tea time on school
-grounds like this.");
+MsgDisp("Michiru","I didn't think I would be able to enjoy such
+an authentic tea time on school grounds like
+this.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

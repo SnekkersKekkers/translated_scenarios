@@ -15,8 +15,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,5);
     VoicePlay("O020300002_03_000");
     MsgDisp("Honda","Huh, it ended!?
-Since we're already here, we should've
-seen it through.");
+Since we're already here, we should've seen
+it through.");
     MsgDisp("主人公","(A draw, huh...
 We were so close...)");
     break ;
@@ -37,11 +37,9 @@ We were so close...)");
     ChMotion(3,1);
     VoicePlay("O020300002_03_020");
     MsgDisp("Honda","That was a close match.
-You didn't scrape or hurt your hand,
-right?");
+You didn't scrape or hurt your hand, right?");
     MsgDisp("主人公","Ah, yeah...
-Sorry, even though you came to cheer me
-on.");
+Sorry, even though you came to cheer me on.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0);
@@ -54,8 +52,8 @@ on.");
     MsgDisp("Honda","I'm just glad I got to spend all this time
 seeing you doing your best.");
     MsgDisp("主人公","(Ugh, how embarrassing...
-But, I wanted to show you a win, rather
-than a draw.)");
+But, I wanted to show you a win, rather than
+a draw.)");
     break ;
     default :
     DbgAssert(1);

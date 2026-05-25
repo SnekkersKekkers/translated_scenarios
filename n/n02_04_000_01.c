@@ -14,8 +14,8 @@ switch (ChPrmGet(4,6)){
     VoicePlay("N020400001_04_010");
     MsgDisp("Nanatsumori","It's surprising.
 But still impressive.");
-    MsgDisp("主人公","(Oof...that's a bit confusing, but I'm
-glad I did my best!)");
+    MsgDisp("主人公","(Oof...that's a bit confusing, but I'm glad I
+did my best!)");
     break ;
     case 3:
     ChEye(4,4);
@@ -44,16 +44,15 @@ Very cool.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("N020400001_04_050");
-    MsgDisp("Nanatsumori","When it comes to academics, I'm still
-just the plain, quiet Nanatsumori,
-huh...");
+    MsgDisp("Nanatsumori","When it comes to academics, I'm still just
+the plain, quiet Nanatsumori, huh...");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("N020400001_04_060");
-    MsgDisp("Nanatsumori","If I don't put in a bit more effort,
-maybe you'll get fed up with me one
-day... That would be bad.");
+    MsgDisp("Nanatsumori","If I don't put in a bit more effort, maybe
+you'll get fed up with me one day...
+That would be bad.");
     MsgDisp("主人公","(I'll work a little harder too...!
 ｛Nanatsumori＊｝, do your best!)");
     break ;

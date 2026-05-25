@@ -60,8 +60,8 @@ It's good for when you're sick.");
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("M012200000_22_080");
-MsgDisp("Hikaru","When you're back on your feet, try keeping
-it in your room.
+MsgDisp("Hikaru","When you're back on your feet, try keeping it
+in your room.
 Hikaru's sure it'll pep you up!");
 MsgDisp("主人公","Thanks, ｛ひかる＊｝.");
 ChEye(22,0);

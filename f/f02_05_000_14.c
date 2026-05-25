@@ -12,20 +12,19 @@ MsgDisp("Hiiragi","Yes, that is right.
 I truly have so many thoughts, yet no easy
 way to say them.");
 MsgDisp("主人公","Mhm.
-｛Hiiragi＊＊＊｝, you really worked so
-hard.");
+｛Hiiragi＊＊＊｝, you really worked so hard.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("F020500014_05_010");
 MsgDisp("Hiiragi","As do I to you.");
 ChMotion(5,0);
 VoicePlay("F020500014_05_020");
-MsgDisp("Hiiragi","It was my first time, and I didn't know
-much, but thanks to you, my friends, and
-my teachers, I made it this far.");
+MsgDisp("Hiiragi","It was my first time, and I didn't know much,
+but thanks to you, my friends, and my
+teachers, I made it this far.");
 MsgDisp("主人公","Haha.
-Why are you saying that like you've
-already graduated?");
+Why are you saying that like you've already
+graduated?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("F020500014_05_030");
@@ -33,9 +32,9 @@ MsgDisp("Hiiragi","Too soon?");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("F020500014_05_040");
-MsgDisp("Hiiragi","...But still. Being able to go from 
-enrollment to graduation all
- at one school...it truly is like a dream.");
+MsgDisp("Hiiragi","...But still. Being able to go from
+enrollment to graduation all at one
+school...it truly is like a dream.");
 MsgDisp("主人公","I see...
 I'm glad...");
 ChMotion(5,4);
@@ -49,8 +48,7 @@ listened to my words warmly and eagerly.");
 MsgDisp("主人公","I only listened to you.");
 ChEye(5,4);
 VoicePlay("F020500014_05_070");
-MsgDisp("Hiiragi","Maybe, but your kindness saved me many
-times.");
+MsgDisp("Hiiragi","Maybe, but your kindness saved me many times.");
 ChEye(5,2);
 ChMotion(5,4);
 VoicePlay("F020500014_05_080");

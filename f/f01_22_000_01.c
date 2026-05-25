@@ -14,8 +14,8 @@ That name's no good, you know.");
     BGMStop();
     ChClose(22);
     MsgDisp("主人公","(She left...
-It doesn't seem like she likes it when I
-call her that.)");
+It doesn't seem like she likes it when I call
+her that.)");
     break ;
     case 3:
     MsgDisp("主人公","｛ひかる＊｝.");
@@ -28,15 +28,14 @@ call her that.)");
     ChMotion(22,2,1);
     VoicePlay("F012200001_22_020");
     MsgDisp("Hikaru","No, no!
-Even if it's you, Mari, that name is
-a no-go!");
+Even if it's you, Mari, that name is a no-go!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(22);
     MsgDisp("主人公","(She left...
-It doesn't seem like she likes it when I
-call her that.)");
+It doesn't seem like she likes it when I call
+her that.)");
     break ;
     case 4:
     case 5:
@@ -60,8 +59,8 @@ You know?");
     BGMStop();
     ChClose(22);
     MsgDisp("主人公","(She left...
-It doesn't seem like she likes it when I
-call her that.)");
+It doesn't seem like she likes it when I call
+her that.)");
     break ;
     default :
     DbgAssert(1);

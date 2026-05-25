@@ -18,8 +18,8 @@ We won!");
 Well, I guess you were their manager.
 Good work.");
     MsgDisp("主人公","(Hehe!
-I'm glad that I stayed as the track and
-field club manager!)");
+I'm glad that I stayed as the track and field
+club manager!)");
     break ;
     case 4:
     case 5:
@@ -51,8 +51,8 @@ The team, and you as the manager.");
     ChMotion(4,2,1);
     VoicePlay("H2A0400000_04_050");
     MsgDisp("Nanatsumori","But...
-I never thought I would be so moved just
-by sports.");
+I never thought I would be so moved just by
+sports.");
     MsgDisp("主人公","Hehe!");
     ChEye(4,4);
     ChMouth(4,3);

@@ -11,9 +11,9 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,35,0,0,3,#1,#1,0,0);
     VoiceEVSPlay(1);
     VoicePlay("I160100007_01_000");
-    MsgDisp("Kazama","｛主人公｝. You're getting a reputation
-for being a good mentor. Kind and polite,
-they say.");
+    MsgDisp("Kazama","｛主人公｝.
+You're getting a reputation for being a good
+mentor. Kind and polite, they say.");
     MsgDisp("主人公","Really?
 It must be because everyone is a good
 student.");
@@ -58,8 +58,8 @@ Hearing you say that makes me happy.");
     ChMotion(1,0);
     VoicePlay("I160100007_01_050");
     MsgDisp("Kazama","I'm counting on you.");
-    MsgDisp("主人公","(It makes me a little shy to be praised
-like this...
+    MsgDisp("主人公","(It makes me a little shy to be praised like
+this...
 Let's keep it up just like this!)");
     break ;
     default :

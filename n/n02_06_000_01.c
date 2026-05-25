@@ -29,8 +29,8 @@ I'm glad I worked hard.)");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("N020600001_06_030");
-    MsgDisp("Himuro","You're up near the top. I guess next
-you're aiming for first place.");
+    MsgDisp("Himuro","You're up near the top.
+I guess next you're aiming for first place.");
     MsgDisp("主人公","Y-Yeah!
 I'll do my best.");
     ChEye(6,0);
@@ -53,13 +53,14 @@ I'll do my best.");
     VoicePlay("N020600001_06_060");
     MsgDisp("Himuro","You made it to the top.
 The fruits of your labor, I'm guessing?");
-    MsgDisp("主人公","Yeah... I guess so?");
+    MsgDisp("主人公","Yeah...
+I guess so?");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("N020600001_06_070");
-    MsgDisp("Himuro","You don't get that rank without 
-putting in steady work.");
+    MsgDisp("Himuro","You don't get that rank without putting in
+steady work.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);

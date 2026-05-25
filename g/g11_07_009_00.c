@@ -1,8 +1,7 @@
 BGOpen("sc606",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew...
-Gardening is hard work, but it's
-rewarding.");
+Gardening is hard work, but it's rewarding.");
 VoiceEVSPlay(7);
 VoicePlay("G110700900_07_000");
 MsgDisp("Mikage?","Hey, ｛主人公｝.
@@ -20,8 +19,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700900_07_010");
-MsgDisp("Mikage","Haha, you’re moving at full speed from 
-the get-go, aren't you?");
+MsgDisp("Mikage","Haha, you’re moving at full speed from the
+get-go, aren't you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -32,9 +31,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700900_07_030");
-MsgDisp("Mikage","We can try to assist them, but the plants
-are the ones who have to do all the hard
-work.");
+MsgDisp("Mikage","We can try to assist them, but the plants are
+the ones who have to do all the hard work.");
 MsgDisp("主人公","Got it...
 I'll do my best so the plants can grow
 strong.");
@@ -51,8 +49,8 @@ VoicePlay("G110700900_07_050");
 MsgDisp("Mikage","That's a good thing, though.
 That's what I like about you.");
 MsgDisp("主人公","(∈
-The way he said \"like\" caught me
-completely off guard...)");
+The way he said \"like\" caught me completely
+off guard...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

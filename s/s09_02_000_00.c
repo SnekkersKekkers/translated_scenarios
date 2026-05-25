@@ -118,8 +118,8 @@ We've got just one shot for the year.");
         ChMotion(2,3);
         VoicePlay("S090200000_02_120");
         MsgDisp("Sassa","It's okay.
-Don't give up, even if you don't get a
-good one.");
+Don't give up, even if you don't get a good
+one.");
         MsgDisp("主人公","Eh?
 But it's just one try...");
         break ;

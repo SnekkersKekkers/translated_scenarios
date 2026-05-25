@@ -13,9 +13,9 @@ Ah.");
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("L040500005_05_010");
-    MsgDisp("Hiiragi","Ah, no. Pay me no mind.
-I will have this later.
-Farewell.");
+    MsgDisp("Hiiragi","Ah, no.
+Pay me no mind.
+I will have this later. Farewell.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -43,9 +43,9 @@ What's wrong?");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("L040500005_05_040");
-    MsgDisp("Hiiragi","...I see, are you testing me? Though I
-look like this, I quite enjoy a challenge.
-I will accept gratefully.");
+    MsgDisp("Hiiragi","...I see, are you testing me?
+Though I look like this, I quite enjoy a
+challenge. I will accept gratefully.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -68,8 +68,7 @@ Did I add something he doesn't like...?)");
     ChEye(5,4);
     ChMouth(5,0);
     VoicePlay("L040500005_05_070");
-    MsgDisp("Hiiragi","...This is surely due to a
-miscommunication.
+    MsgDisp("Hiiragi","...This is surely due to a miscommunication.
 The fault is on me.");
     MsgDisp("主人公","Hm?
 What's wrong?");
@@ -78,8 +77,8 @@ What's wrong?");
     ChMotion(5,0);
     VoicePlay("L040500005_05_080");
     MsgDisp("Hiiragi","Nothing, thank you.
-You allowed me to realize something, and
-gave me chocolate as well.");
+You allowed me to realize something, and gave
+me chocolate as well.");
     ChEye(5,0);
     VoicePlay("L040500005_05_090");
     MsgDisp("Hiiragi","Well then, farewell.");
@@ -87,8 +86,8 @@ gave me chocolate as well.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(...Something he realized? Did I put in
-something he doesn't like...?)");
+    MsgDisp("主人公","(...Something he realized?
+Did I put in something he doesn't like...?)");
     break ;
     default :
     DbgAssert(1);

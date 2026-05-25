@@ -9,16 +9,15 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("E010320100_03_000");
-MsgDisp("Honda","｛主人公｝, you went to the flea market
-too?");
+MsgDisp("Honda","｛主人公｝, you went to the flea market too?");
 MsgDisp("主人公","Ah, ｛Honda＊＊｝ too?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("E010320100_03_010");
 MsgDisp("Honda","Yep yep! I found the book I wanted right
-away, but Mi-kun is still confused about
-what accessories he wants.");
+away, but Mi-kun is still confused about what
+accessories he wants.");
 MsgDisp("主人公","Mi-kun, is that...");
 ChPosition(3,1);
 MsgClose();
@@ -28,8 +27,8 @@ ChOpen(4,255,0,2,2,#1,#1,0,2);
 ChMotion(4,1,1);
 VoicePlay("E010320100_04_000");
 MsgDisp("Nanatsumori","...Hold up.
-The way Dahon says it makes it sound like
-we came here together.");
+The way Dahon says it makes it sound like we
+came here together.");
 MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -71,8 +70,9 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("E010320100_03_040");
-MsgDisp("Honda","Ehh∋ Why? I wanted the three of us to
-choose something together!");
+MsgDisp("Honda","Ehh∋
+Why? I wanted the three of us to choose
+something together!");
 MsgDisp("主人公","Hehe, yeah.
 Maybe that would've been nice.");
 ChEye(3,0);
@@ -91,8 +91,7 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("E010320100_04_050");
-MsgDisp("Nanatsumori","I'm going to walk around once more by
-myself.
+MsgDisp("Nanatsumori","I'm going to walk around once more by myself.
 See you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);

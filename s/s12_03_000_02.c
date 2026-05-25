@@ -21,8 +21,9 @@ It was fun visiting with ｛Honda＊＊｝.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("S120300002_03_010");
-    MsgDisp("Honda","Right. That means we both are off to a
-great start this year. Happy New Years!");
+    MsgDisp("Honda","Right.
+That means we both are off to a great start
+this year. Happy New Years!");
     MsgDisp("主人公","Yeah, let's have fun this year.");
     ChEye(3,3);
     ChMouth(3,3);
@@ -51,11 +52,10 @@ thanks to you.");
     ChMotion(3,0,1);
     VoicePlay("S120300002_03_040");
     MsgDisp("Honda","I thought it would take a while because of
-the crowd, but because of you, time passed
-so quickly.");
+the crowd, but because of you, time passed so
+quickly.");
     MsgDisp("主人公","Right?
-Thanks to ｛Honda＊＊｝, I also had a fun
-time.");
+Thanks to ｛Honda＊＊｝, I also had a fun time.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -79,8 +79,8 @@ Next year, we'll come back here, right?");
     MsgDisp("Honda","We were able to safely say our prayers.
 I guess now it's the end of this year's
 shrine visit.");
-    MsgDisp("主人公","｛Honda＊＊｝, you were praying very
-earnestly, weren't you?");
+    MsgDisp("主人公","｛Honda＊＊｝, you were praying very earnestly,
+weren't you?");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);

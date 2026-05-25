@@ -43,8 +43,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("K020601000_06_040");
-MsgDisp("Himuro","Anyway...Today is double as
-special, isn't it?");
+MsgDisp("Himuro","Anyway...
+Today is double as special, isn't it?");
 MsgDisp("主人公","Hehe, I get that a lot.");
 ChEye(6,0);
 ChMouth(6,4);

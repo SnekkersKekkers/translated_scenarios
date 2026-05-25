@@ -2,8 +2,8 @@ BGOpen("sc722",0);
 BGMPlay("BGM_PLACE_SHOP",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year the Gardening Club's program is
-a cafe.
+MsgDisp("主人公","(This year the Gardening Club's program is a
+cafe.
 We prepared herb tea and cookies, but...)");
 MsgClose();
 ChOpen(21,254,0,0,0,#1,#1,0,1);
@@ -20,8 +20,8 @@ ChMotion(21,4);
 VoicePlay("P630D00000_21_000");
 MsgDisp("Michiru","A nice fragrance...is it herbal tea?");
 MsgDisp("主人公","Right.
-We used the herbs the horticulture club
-grew to make tea and cookies.");
+We used the herbs the horticulture club grew
+to make tea and cookies.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

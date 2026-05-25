@@ -14,9 +14,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020410001_04_020");
-MsgDisp("Nanatsumori","C'mon, don't freak out. We're teenagers
-right? Isn't this just normal stuff to
-talk about?");
+MsgDisp("Nanatsumori","C'mon, don't freak out.
+We're teenagers right?
+Isn't this just normal stuff to talk about?");
 MsgDisp("主人公","Yeah, but...");
 ChEye(4,2);
 ChMouth(4,3);

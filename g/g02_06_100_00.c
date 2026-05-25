@@ -15,24 +15,23 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020610000_06_020");
-MsgDisp("Himuro","No...it's just that having a genuine
-reaction like 'beautiful' is a bit
-surprising to me.");
+MsgDisp("Himuro","No...it's just that having a genuine reaction
+like 'beautiful' is a bit surprising to me.");
 MsgDisp("主人公","Is it?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("G020610000_06_030");
-MsgDisp("Himuro","Yeah. I used to think that even if I
-thought so in my heart, I'd never be able
-to say it outloud.");
+MsgDisp("Himuro","Yeah. I used to think that even if I thought
+so in my heart, I'd never be able to say it
+outloud.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("G020610000_06_040");
-MsgDisp("Himuro","It felt frustrating, though it's
-embarrassing to admit it...");
+MsgDisp("Himuro","It felt frustrating, though it's embarrassing
+to admit it...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

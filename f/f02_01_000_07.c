@@ -29,16 +29,16 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("F020100007_01_020");
 MsgDisp("Kazama","I want the two of us to go to school in
-everyday clothes. That's something we
-can't normally do, right?");
+everyday clothes.
+That's something we can't normally do, right?");
 MsgDisp("主人公","Won't the teachers be mad...?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100007_01_030");
-MsgDisp("Kazama","But imagine it. A situation with the two
-of us in plain clothes...Wouldn't that be
-nice?");
+MsgDisp("Kazama","But imagine it.
+A situation with the two of us in plain
+clothes... Wouldn't that be nice?");
 MsgDisp("主人公","I guess.
 It'd be a strange feeling.
 Maybe a little heart-pounding?");

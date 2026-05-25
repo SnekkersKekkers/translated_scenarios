@@ -27,8 +27,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("K020100000_01_020");
-MsgDisp("Kazama","Geez, it's hard to tell if you're just
-joking with me or being serious.");
+MsgDisp("Kazama","Geez, it's hard to tell if you're just joking
+with me or being serious.");
 SEPlay("EV_SE_665");
 SEWait();
 ChEye(1,0);

@@ -22,8 +22,8 @@ You're kind of cool.");
     ChMouth(4,3);
     VoicePlay("X120400000_04_010");
     MsgDisp("Nanatsumori","I'm guessing the solo performance I heard
-just now was you? I knew right away. I
-really like it.");
+just now was you?
+I knew right away. I really like it.");
     MsgDisp("主人公","(Yay!
 I was praised!)");
     break ;

@@ -25,11 +25,12 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P540400002_04_020");
-MsgDisp("Nanatsumori","I see. Yes. Everyone in the audience was
-also super moved.");
+MsgDisp("Nanatsumori","I see.
+Yes. Everyone in the audience was also super
+moved.");
 MsgDisp("主人公","(Yay!
-The fact they were moved to that extent
-makes me happy!)");
+The fact they were moved to that extent makes
+me happy!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);
