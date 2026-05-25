@@ -11,10 +11,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_250");
-MsgDisp("Hikaru","I like chatting with my friends and being
-active in clubs. I also like the
-interesting stories the teacher tells in
-class.");
+MsgDisp("Hikaru","Hikaru likes chatting with her friends
+and being active in clubs but she also
+likes the interesting stories the teacher tells in class.");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
@@ -34,8 +33,8 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,1,1);
 VoicePlay("F032200000_22_280");
-MsgDisp("Hikaru","Aah～ I wish they would always do that for
-the first 30 minutes.");
+MsgDisp("Hikaru","Ah～ Hikaru wishes they would always do
+that for the first 30 minutes.");
 MsgDisp("主人公","(Then, the lesson wouldn't progress at
 all...)");
 BGMStop();

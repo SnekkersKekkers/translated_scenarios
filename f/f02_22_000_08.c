@@ -19,9 +19,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F022200008_22_010");
-MsgDisp("Hikaru","That's not it～! I wonder who has a good
-relationship with who, and how many new
-couples will be born～▼");
+MsgDisp("Hikaru","That's not it～! Hikaru wonders who has a
+good relationship with who, and how many
+new couples will be born～▼");
 MsgDisp("主人公","Eh...?");
 ChEye(22,4);
 ChMouth(22,3);
@@ -34,7 +34,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F022200008_22_030");
 MsgDisp("Hikaru","Ah!
-Of course I'm looking forward to the
+Of course Hikaru's looking forward to the
 exhibits and watching couples enjoy them♪");
 MsgDisp("主人公","(｛ひかる＊｝'s way of enjoying the
 cultural festival is a bit weird...)");

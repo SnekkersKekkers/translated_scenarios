@@ -98,7 +98,7 @@ Why am I worried 'bout stuff like that?");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("B040801102_08_100");
-        MsgDisp("Shirahane","When I'm with you, I feel like I have to look
+        MsgDisp("Shirahane","When I'm with you, I feel like I hafta look
 cool, that's probably why I was worried about
 somethin' dumb like that.");
         ChEye(8,3);

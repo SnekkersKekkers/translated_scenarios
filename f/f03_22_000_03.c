@@ -18,9 +18,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_120");
-MsgDisp("Hikaru","That's the only club I could do in high
-school.
-I've been doing ballet since kindergarten.");
+MsgDisp("Hikaru","That's the only club Hikaru could do in
+high school. Hikaru's been doing ballet
+since kindergarten.");
 MsgDisp("主人公","Wow!");
 ChEye(22,0);
 ChMouth(22,0);

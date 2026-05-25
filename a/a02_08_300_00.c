@@ -60,7 +60,7 @@ ChMotion(8,0,1);
 VoicePlay("A020830000_08_040");
 MsgDisp("Shirahane","Ah...
 Not good.
-Gotta keep it moving!");
+Gotta keep it movin'!");
 MsgDisp("主人公","Ah, that's right!");
 MsgClose();
 ScrFadeOut(0);

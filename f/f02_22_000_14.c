@@ -9,7 +9,8 @@ ChEye(22,2);
 ChMouth(22,4);
 ChMotion(22,2,1);
 VoicePlay("F022200014_22_000");
-MsgDisp("Hikaru","I don't want to be separated from Mari.");
+MsgDisp("Hikaru","Hikaru doesn't want to be separated from
+Mari.");
 MsgDisp("主人公","｛ひかる＊｝...");
 ChEye(22,2);
 ChMouth(22,0);
@@ -21,9 +22,9 @@ ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,2,1);
 VoicePlay("F022200014_22_020");
-MsgDisp("Hikaru","When I think about how I only have a few
-more days to wear this uniform, chat with
-Mari, and eat lunch together... it's sad.");
+MsgDisp("Hikaru","When Hikaru thinks about how she only
+has a few more days to wear this uniform,
+chat with Mari, and eat lunch together... it's sad.");
 MsgDisp("主人公","｛ひかる＊｝...");
 ChEye(22,4);
 ChMouth(22,3);
@@ -36,7 +37,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F022200014_22_040");
-MsgDisp("Hikaru","Mari, thank you for always being my
+MsgDisp("Hikaru","Mari, thank you for always being Hikaru's
 friend. We'll stay friends after this too,
 right?");
 MsgDisp("主人公","Yeah, of course!");

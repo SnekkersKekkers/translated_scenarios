@@ -68,9 +68,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100230000_22_030");
-MsgDisp("Hikaru","Hehe, isn't that good? I'm saying that's
-his charm. It's cute that a strong-looking
-person is easily scared.");
+MsgDisp("Hikaru","Hehe, isn't that good? Hikaru's saying
+that's his charm. It's cute that a
+strong-looking person is easily scared.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

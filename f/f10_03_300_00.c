@@ -28,7 +28,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F100330000_22_010");
 MsgDisp("Hikaru","Ah, Mari!
-I just received a fan letter from
+Hikaru just received a fan letter from
 Honda-kun.");
 MsgDisp("主人公","From ｛Honda＊＊｝?");
 ChEye(21,0);

@@ -6,7 +6,7 @@ MsgDisp("Shirahane","Did ya catch a cold?
 Don't push yourself too hard, alright?");
 MsgDisp("主人公","Huh?");
 VoicePlay("B020800004_08_010");
-MsgDisp("Shirahane","I thought ya were feeling chilly.
+MsgDisp("Shirahane","I thought ya were feelin' chilly.
 You're all bundled up, after all.");
 MsgDisp("主人公","(Ugh...
 I might be wearing too much...)");

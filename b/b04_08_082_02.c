@@ -71,8 +71,8 @@ thinking.");
         ChMouth(8,4);
         ChEyeOpenLevel(8,#1);
         VoicePlay("B040808202_08_060");
-        MsgDisp("Shirahane","That's right, but that won't be because we
-saw the fireflies, but because I'll confide
+        MsgDisp("Shirahane","That's right, but that won't be 'cause we
+saw the fireflies, but 'cause I'll confide
 in you myself.");
         MsgDisp("主人公","That's fine, let's hear it?");
         ChEye(8,4);

@@ -5,7 +5,7 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040808201_08_000");
-MsgDisp("Shirahane","The water surface is sparkling, it's truly
+MsgDisp("Shirahane","The water surface is sparklin', it's really
 beautiful.");
 MsgSel("Want to read some poetry?","It's super magical...","Fair words will not fill the belly!");
 switch (MsgSelRsltGet()){
@@ -27,7 +27,7 @@ me...");
     ChMotion(8,2,1);
     VoicePlay("B040808201_08_020");
     MsgDisp("Shirahane","Right.
-Looking at it makes me feel like I've
+Lookin' at it makes me feel like I've
 transported to another world.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

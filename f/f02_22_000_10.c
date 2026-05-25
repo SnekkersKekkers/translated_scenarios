@@ -17,8 +17,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F022200010_22_010");
-MsgDisp("Hikaru","Ah, that's right! I wonder who will be the
-lead role in our school play～♪");
+MsgDisp("Hikaru","Ah, that's right! Hikaru wonders who will
+be the lead role in our school play～♪");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);

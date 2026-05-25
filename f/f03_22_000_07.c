@@ -4,7 +4,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_290");
-MsgDisp("Hikaru","I do, I do.
+MsgDisp("Hikaru","Of course, of course!
 Lots of them!");
 MsgDisp("主人公","Amazing!
 What are they?");
@@ -24,14 +24,14 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_320");
-MsgDisp("Hikaru","There's lots of things I can do right now,
-and I want to connect any of them to my
-future.");
+MsgDisp("Hikaru","There's lots of things Hikaru can do right
+now, and Hikaru wants to connect all of
+them to her future.");
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_330");
-MsgDisp("Hikaru","That's why, I don't want to think of just
-one thing for my dream, I want to do
-everything I can.");
+MsgDisp("Hikaru","That's why, Hikaru doesn't want to think of
+just one thing for her dream. She wants to do
+everything.");
 MsgDisp("主人公","That's amazing...!");
 ChEye(22,0);
 ChMouth(22,3);

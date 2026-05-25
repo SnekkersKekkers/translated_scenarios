@@ -9,9 +9,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_200");
-MsgDisp("Hikaru","I like to check out the relationships
-between people, but I also like to see
-through their hidden faces▼");
+MsgDisp("Hikaru","Hikaru likes to check out the relationships
+between people, but it's also interesting to
+see all their hidden sides▼");
 MsgDisp("主人公","I-Is that so?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -25,15 +25,15 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_220");
-MsgDisp("Hikaru","And teasing my big sis.");
+MsgDisp("Hikaru","And teasing Big Sis.");
 MsgDisp("主人公","Eh?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F032200000_22_230");
-MsgDisp("Hikaru","When I talk about love, her reactions are
-really funny～!");
+MsgDisp("Hikaru","When Hikaru talks about love, Sis' reactions
+are really funny～!");
 MsgDisp("主人公","(......)");
 BGMStop();
 MsgClose();

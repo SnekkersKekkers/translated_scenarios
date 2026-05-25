@@ -10,6 +10,6 @@ ChMouth(8,2);
 ChMotion(8,2);
 VoicePlay("B020800003_08_010");
 MsgDisp("Shirahane","You ain't your usual self today.
-Maybe because of your clothes...");
+Maybe 'cause of your clothes...");
 MsgDisp("主人公","(Seems like ｛Daichi＊＊｝ doesn't like these
 clothes much...)");

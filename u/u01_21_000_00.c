@@ -29,8 +29,8 @@ with me?");
         VoicePlay("U012100000_21_020");
         MsgDisp("Michiru","Thank you.
 Well then, I'll meet you there.");
-        MsgDisp("主人公","I see.
-Well, maybe some other time then!");
+        MsgDisp("主人公","Okay!
+See you soon!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         break ;

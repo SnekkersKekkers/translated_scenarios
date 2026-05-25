@@ -7,8 +7,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B040811102_08_000");
-MsgDisp("Shirahane","Skating around the rink makes me feel like
-I'm running around on the track in the school
+MsgDisp("Shirahane","Skatin' 'round the rink makes me feel like
+I'm runnin' around on the track in the school
 yard.");
 MsgSel("The rink and the schoolyard is quite different...","I don't get that at all.","Shall we try running on the ground next time?");
 switch (MsgSelRsltGet()){
@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040811102_08_010");
-    MsgDisp("Shirahane","Hmm, it's all about feeling...do you not get
+    MsgDisp("Shirahane","Hmm, it's all about feelin'...do you not get
 it?");
     MsgDateResultDisp();
     break ;

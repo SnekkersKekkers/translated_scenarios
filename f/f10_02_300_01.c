@@ -58,8 +58,7 @@ ChMouth(22,1);
 ChMotion(22,1,1);
 VoicePlay("F100230001_22_010");
 MsgDisp("Hikaru","Is that a gap? They're easy to eat, and
-there's lots of variety. I'm sure everyone
-loves it.");
+there's lots of variety. Everyone loves them.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -69,7 +68,8 @@ ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("F100230001_22_020");
 MsgDisp("Hikaru","Mari, you too...
-I don't get it, Hikaru doesn't get it...");
+Hikaru doesn't get it...
+Not at all...");
 MsgClose();
 SEPlay("EV_SE_856",0,0.6);
 MsgClose();

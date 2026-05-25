@@ -4,7 +4,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_400");
-MsgDisp("Hikaru","I think it depends on the person.");
+MsgDisp("Hikaru","It depends on the person.");
 MsgDisp("主人公","I see...");
 ChEye(22,4);
 ChMouth(22,0);
@@ -17,8 +17,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_420");
-MsgDisp("Hikaru","I think Mari is suited to both types of
-love though, right?");
+MsgDisp("Hikaru","Hikaru thinks Mari is suited to both types
+of love though, right?");
 MsgDisp("主人公","Eh?");
 ChEye(22,0);
 ChMouth(22,3);

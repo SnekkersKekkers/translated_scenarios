@@ -18,7 +18,7 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B010800000_08_010");
 MsgDisp("Shirahane","It's okay.
-As soon as I saw ya running towards me, I
+As soon as I saw ya runnin' towards me, I
 felt real happy.");
 MsgDispSksp(1,0);
 ChEye(8,3);

@@ -3,9 +3,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_010");
-MsgDisp("Hikaru","I do, I do! I watch variety shows, quiz
-shows, and documentaries. I even watch
-comedies♪");
+MsgDisp("Hikaru","Yep, Hikaru does! Hikaru watches variety
+shows, quiz shows, and documentaries.
+Even comedies too♪");
 MsgDisp("主人公","Wow!");
 ChEye(22,3);
 ChMouth(22,3);
