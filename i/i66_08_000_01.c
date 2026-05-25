@@ -52,7 +52,7 @@ Thanks as always.");
     ChOpen(8,35,0,4,0,#1,#1,0,0);
     ChMotion(8,3,1);
     VoicePlay("I660800001_08_020");
-    MsgDisp("Shirahane","As expected...
+    MsgDisp("Shirahane","Just as expected...
 Full points on service!");
     MsgDisp("主人公","Ah, ｛Daichi＊＊｝.
 Thanks to you.");

@@ -21,20 +21,20 @@ switch (ChPrmGet(8,6)){
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("I660800006_08_010");
-    MsgDisp("Shirahane","I was making their new membership card
+    MsgDisp("Shirahane","I was makin' their new membership card
 jus' now.");
     MsgDisp("主人公","Huh∋
 W-What should we do...");
     ChEye(8,2);
     ChMouth(8,0);
     VoicePlay("I660800006_08_020");
-    MsgDisp("Shirahane","There's no helping that they left.
+    MsgDisp("Shirahane","There's no helpin' that they left.
 I'll look 'em up and give 'em a call.");
     MsgDisp("主人公","I'm sorry...");
     ChEye(8,4);
     ChMotion(8,0,1);
     VoicePlay("I660800006_08_030");
-    MsgDisp("Shirahane","It's rare seeing ya make a mistake like
+    MsgDisp("Shirahane","It's rare seein' ya make a mistake like
 that.
 Be careful from now on, yeah?");
     MsgDisp("主人公","(I let my guard down...
@@ -86,7 +86,7 @@ you, ｛Daichi＊＊｝...");
     ChMotion(8,3,1);
     VoicePlay("I660800006_08_080");
     MsgDisp("Shirahane","Then from now on, you should jus' keep
-making eye contact with me!
+makin' eye contact with me!
 Yeah?");
     MsgDisp("主人公","(｛Daichi＊＊｝ seems happy...
 I should pay attention to my surroundings

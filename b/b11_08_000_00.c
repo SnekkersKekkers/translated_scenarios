@@ -79,7 +79,7 @@ ChMotion(8,4,1);
 ChPosition(8,0);
 VoicePlay("B110800000_08_040");
 MsgDisp("Shirahane","Haha!
-This guy's actually pretty good at playing
+This guy's actually pretty good at playin'
 along, huh!");
 MsgDisp("主人公","Hehe!");
 ChEye(8,2);

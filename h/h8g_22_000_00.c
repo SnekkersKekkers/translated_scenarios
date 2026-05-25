@@ -20,7 +20,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("H8G2200000_22_020");
-MsgDisp("Hikaru","I knew it～
+MsgDisp("Hikaru","Hikaru knew it～
 It's rare to find a girl as serious, cute,
 and good as Mari.");
 ChEye(22,3);
@@ -28,7 +28,7 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("H8G2200000_22_030");
-MsgDisp("Hikaru","I really respect you～!
+MsgDisp("Hikaru","Hikaru really respects you～!
 Mari, you're so cool▼");
 MsgDisp("主人公","Hehe, thanks.");
 ChEye(22,3);

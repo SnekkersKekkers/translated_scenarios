@@ -37,7 +37,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P140D00000_22_020");
 MsgDisp("Hikaru","Yeah, yeah, it was so fun♪
-I'm super pleased!");
+Hikaru's super pleased!");
 MsgDisp("主人公","(Yay, the maze was a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);

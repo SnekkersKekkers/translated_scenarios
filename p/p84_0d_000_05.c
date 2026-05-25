@@ -29,7 +29,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(22);
 VoicePlay("P840D00005_22_010");
 MsgDisp("Hikaru","Okay, enough crying～♪ Why don't you give
-me a big smile? These big sisters will
+Hikaru a big smile? These big sisters will
 look for your Mom together▼");
 VoicePlay("P840D00005_45_020");
 MsgDisp("Girl","...Hehe, yeah!");

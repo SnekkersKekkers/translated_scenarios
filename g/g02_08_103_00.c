@@ -10,7 +10,7 @@ slowly?");
 MsgDisp("主人公","Yeah, that's right...");
 ChEyeOpenLevel(8,0);
 VoicePlay("G020810300_08_010");
-MsgDisp("Shirahane","If time really did pass slowly, I want to
+MsgDisp("Shirahane","If time really did pass slowly, I wanna
 stay here with you forever.");
 MsgDisp("主人公","Why?");
 ChEye(8,0);

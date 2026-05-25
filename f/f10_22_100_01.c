@@ -6,7 +6,7 @@ ChOpen(22,254,0,3,0,0,#1,0,0);
 ScrFadeIn(0);
 ChMotion(22,5,1);
 VoicePlay("F102210001_22_000");
-MsgDisp("Hikaru","Hmm～, I'm in a good mood today too♪");
+MsgDisp("Hikaru","Hmm～, Hikaru's in a good mood today too♪");
 MsgDisp("主人公","Ah, ｛ひかる＊｝!
 You look like you're in high spirits.");
 ChEye(22,3);
@@ -23,7 +23,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F102210001_22_020");
-MsgDisp("Hikaru","Ah, I'll go get another one.
+MsgDisp("Hikaru","Ah, Hikaru will go get another one.
 Salut!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -60,7 +60,7 @@ ChMouth(22,1);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F102220002_22_030");
-MsgDisp("Hikaru","...Haa, that startled me.");
+MsgDisp("Hikaru","...Haa, that was startling.");
 MsgDisp("主人公","Could it be...");
 ChEye(22,2);
 ChMouth(22,0);

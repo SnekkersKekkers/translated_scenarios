@@ -17,7 +17,7 @@ So you've become interested in art.");
 StlEye(22,2);
 StlMouth(22,0);
 VoicePlay("U140D00002_22_010");
-MsgDisp("Hikaru","Oh, I have an idea!
+MsgDisp("Hikaru","Oh, Hikaru has an idea!
 Next time you should draw Hikaru and sis♪");
 StlEye(21,0);
 VoicePlay("U140D00002_21_010");

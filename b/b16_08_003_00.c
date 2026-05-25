@@ -21,7 +21,7 @@ I was just jokin'...");
     VoicePlay("B160800300_08_020");
     MsgDisp("Shirahane","Haha!
 I wouldn't do that?
-Because I want to cherish you.");
+'Cause I wanna cherish you.");
     break ;
     default :
     DbgAssert(0);

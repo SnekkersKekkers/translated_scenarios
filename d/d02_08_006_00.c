@@ -13,7 +13,7 @@ VoicePlay("D020800600_08_030");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
-MsgDisp("Shirahane","I want to go somewhere with you.
+MsgDisp("Shirahane","I wanna go somewhere with you.
 Is it time for a date?");
 VoicePlay("D020800600_08_020");
 ChEye(8,2);
@@ -31,7 +31,7 @@ MsgDisp("主人公","Uhm, it's not that...
 It's just a little surprising.");
 VoicePlay("D020800600_08_050");
 ChMotion(8,2,1);
-MsgDisp("Shirahane","I guess saying it suddenly like that would
+MsgDisp("Shirahane","I guess sayin' it suddenly like that would
 shock anyone.");
 VoicePlay("D020800600_08_060");
 ChEye(8,3);

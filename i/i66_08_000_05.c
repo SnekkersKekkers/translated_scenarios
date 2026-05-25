@@ -81,7 +81,7 @@ I'll ask for you again, pretty lady.");
     ChEyeOpenLevel(8,7);
     VoicePlay("I660800005_08_070");
     MsgDisp("Shirahane","That's no good, sir.
-You should be leaving with a clean car and
+You should be leavin' with a clean car and
 heart.");
     VoicePlay("I660800005_39_040");
     MsgDisp("Customer","Sorry, sorry, Dai-chan.
@@ -93,7 +93,7 @@ Well, I'll ask for her again next time!");
     ChMotion(8,0,1);
     VoicePlay("I660800005_08_080");
     MsgDisp("Shirahane","Ah no. Can't let my guard down when you're
-doing this good. I'm in trouble...");
+doin' this good. I'm in trouble...");
     MsgDisp("主人公","(So he's saying I'm doing well?
 But I wonder why he needs his guard up?)");
     break ;

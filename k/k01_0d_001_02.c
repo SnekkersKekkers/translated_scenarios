@@ -8,7 +8,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("K010D00102_22_000");
 MsgDisp("Hikaru","Merci, Mari♪
-I'll cherish it.");
+Hikaru will cherish it.");
 MsgDisp("主人公","(It looks like they're pleased.)");
 BGMStop();
 MsgClose();

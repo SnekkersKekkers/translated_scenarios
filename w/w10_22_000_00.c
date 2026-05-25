@@ -7,4 +7,4 @@ ScrFadeIn(0);
 VoicePlay("W102200000_22_000");
 MsgDisp("Hikaru","Phew～
 We had a lot of fun today!
-I think it's time to call it a night.");
+Hikaru thinks it's time to call it a night.");

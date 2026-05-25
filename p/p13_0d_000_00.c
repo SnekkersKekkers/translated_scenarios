@@ -32,8 +32,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P130D00000_22_010");
-MsgDisp("Hikaru","Leave it to me♪
-I'll break a new record!");
+MsgDisp("Hikaru","Leave it to Hikaru♪
+It's time to break a new record!");
 MsgDisp("主人公","Hehe!
 Then, entry for two, please!");
 MsgClose();

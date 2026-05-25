@@ -26,7 +26,7 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("S120D00004_22_000");
-MsgDisp("Hikaru","I want to play with Mari even more.
+MsgDisp("Hikaru","Hikaru wants to play with Mari even more.
 ...Right?");
 ChEye(21,0);
 ChMouth(21,4);
@@ -56,7 +56,7 @@ ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("S120D00004_22_020");
 MsgDisp("Hikaru","Yayy!
-As usual, I love you, Mari▼");
+As usual, Hikaru loves you, Mari▼");
 ChEyeOpenLevel(22,#1);
 ChEye(21,4);
 ChMouth(21,3);

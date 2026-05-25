@@ -7,7 +7,7 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,0);
     VoicePlay("S060800001_08_000");
     MsgDisp("Shirahane","Whoa, a kimono!
-That increases the New Years vibe.");
+That increases the New Year's vibe.");
     MsgDisp("主人公","Thanks.");
     ChEye(8,3);
     ChMouth(8,0);
@@ -70,7 +70,7 @@ fancy clothes...");
     ChCheek(8,10);
     VoicePlay("S060800001_08_070");
     MsgDisp("Shirahane","Huh?
-My mouth feels kind of loose now...");
+My mouth feels kinda loose now...");
     ChEye(8,4);
     ChMouth(8,3);
     ChMotion(8,2,1);
@@ -84,8 +84,8 @@ wanna give ya my honest opinion.");
     ChEyeOpenLevel(8,0);
     VoicePlay("S060800001_08_090");
     MsgDisp("Shirahane","Hehe.
-The thought of walking around together is
-making me grin.");
+The thought of walkin' around together is
+makin' me grin.");
     MsgDisp("主人公","(What a relief.
 ｛Daichi＊＊｝ seems happy!)");
     break ;

@@ -8,7 +8,7 @@ SEStop("EV_SE_577",0);
 SEWait();
 MsgDisp("主人公","Hello, ｛ひかる＊｝?");
 VoicePlay("Z412200000_22_000");
-MsgDisp("Hikaru","Listen to me seriously.
+MsgDisp("Hikaru","Listen to Hikaru seriously.
 Someone close to Mari has a wounded heart.
 Because of Mari.");
 MsgDisp("主人公","What?");

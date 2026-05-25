@@ -22,8 +22,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("L020D00002_22_010");
-MsgDisp("Hikaru","I want to see that, but I'll endure.
-Good luck～!");
+MsgDisp("Hikaru","Hikaru wants to see that, but will try to
+hold back. Good luck～!");
 MsgDisp("主人公","Thank you!");
 BGMStop();
 MsgClose();

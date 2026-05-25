@@ -44,13 +44,13 @@ has a gentle gaze.");
     StlEye(22,2);
     StlMouth(22,0);
     VoicePlay("U130D00001_22_010");
-    MsgDisp("Hikaru","I know, right!
+    MsgDisp("Hikaru","Right!
 Like he's watching a puppy♪");
     MsgDisp("主人公","Eh, I'm a puppy∋");
     StlEye(22,0);
     StlMouth(22,1);
     VoicePlay("U130D00001_22_020");
-    MsgDisp("Hikaru","Ah, maybe I should've worded it
+    MsgDisp("Hikaru","Ah, maybe Hikaru should've worded it
 differently. Let's see...It feels like
 he's looking tenderly at something cute?");
     MsgDisp("主人公","(｛Sassa＊＊｝ is looking at me tenderly.

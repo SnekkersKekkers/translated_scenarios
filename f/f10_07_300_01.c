@@ -63,7 +63,7 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F100730001_22_030");
 MsgDisp("Hikaru","Wow, that's pretty quick!
-I thought it would take longer.");
+Hikaru thought it would take longer.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

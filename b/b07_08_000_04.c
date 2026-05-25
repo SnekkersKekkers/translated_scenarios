@@ -24,8 +24,8 @@ ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("B070800000_08_190");
 MsgDisp("Shirahane","Oh...
-By the way, I like listening ta music, but
-singing is a bit...");
+By the way, I like listenin' ta music, but
+singin' is a bit...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -39,7 +39,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_210");
 MsgDisp("Shirahane","That's right.
-When I want ta concentrate during studying,
+When I want ta concentrate during studyin',
 when I want ta think carefully.");
 ChMouth(8,3);
 VoicePlay("B070800000_08_220");

@@ -45,7 +45,7 @@ We'll enjoy the facility's campfire.");
         ChMouth(8,4);
         ChMotion(8,2,1);
         VoicePlay("B040824202_08_030");
-        MsgDisp("Shirahane","I wasn't particularly thinkin' of making a
+        MsgDisp("Shirahane","I wasn't particularly thinkin' of makin' a
 fuss or anythin'.");
         MsgDateResultDisp();
         break ;

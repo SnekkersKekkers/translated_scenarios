@@ -88,8 +88,8 @@ He's setting his sights on it...");
     StlEye(22,0);
     StlMouth(22,0);
     VoicePlay("U130D00007_22_050");
-    MsgDisp("Hikaru","If Mari likes him too, then I think the
-key is to have the same goals.
+    MsgDisp("Hikaru","If Mari likes him too, then Hikaru thinks
+the key is to have the same goals. 
 Good luck♪");
     MsgDisp("主人公","(The same goals as ｛Daichi＊＊｝...)");
     break ;

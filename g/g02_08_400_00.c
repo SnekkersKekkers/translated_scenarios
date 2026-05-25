@@ -8,7 +8,7 @@ warm.");
 MsgDisp("主人公","Yes, that's what it feels like.");
 ChMotion(8,2,1);
 VoicePlay("G020840000_08_010");
-MsgDisp("Shirahane","I wonder if it's because of that—...");
+MsgDisp("Shirahane","I wonder if it's 'cause of that—...");
 MsgDisp("主人公","Hm?");
 ChEye(8,4);
 ChMouth(8,3);
@@ -36,7 +36,7 @@ ChMotion(8,2,1);
 VoicePlay("G020840000_08_060");
 MsgDisp("Shirahane","But at first I really couldn't believe it.
 A girl from the prestigious Haba High is
-working part-time at a gas station.");
+workin' part-time at a gas station.");
 MsgDisp("主人公","I-Is that so?");
 ChEye(8,3);
 ChMouth(8,3);
@@ -49,7 +49,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("G020840000_08_080");
-MsgDisp("Shirahane","If our 'fateful meeting' were to be at the
+MsgDisp("Shirahane","If our so-called fateful meetin' was at the
 gas station, wouldn't that be really
 funny?");
 MsgDisp("主人公","Ahaha!");

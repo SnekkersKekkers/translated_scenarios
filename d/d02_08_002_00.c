@@ -14,7 +14,7 @@ ChEye(8,2);
 ChMotion(8,2,1);
 VoicePlay("D020800200_08_010");
 MsgDisp("Shirahane","I'm no good with exams.
-And because I'm not good with them, it's hard
+And 'cause I'm not good with them, it's hard
 to be motivated.");
 MsgDisp("主人公","Hahaha!");
 ChEye(8,2);

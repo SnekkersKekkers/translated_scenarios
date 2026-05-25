@@ -54,7 +54,7 @@ ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoiceEVSPlay(8);
 VoicePlay("D020800300_08_060");
-MsgDisp("Shirahane","｛主人公｝ is smiling brightly today too!
+MsgDisp("Shirahane","｛主人公｝ is smilin' brightly today too!
 I won't lose to you!");
 ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","Haha!

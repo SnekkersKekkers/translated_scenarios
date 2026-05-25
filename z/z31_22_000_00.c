@@ -15,5 +15,5 @@ right ｛ひかる＊｝?");
 VoicePlay("Z312200000_22_020");
 MsgDisp("Hikaru","Bien sur!
 Mari, are you in love?
-Ask me anything▼");
+Ask Hikaru anything▼");
 MsgDisp("主人公","Well...");

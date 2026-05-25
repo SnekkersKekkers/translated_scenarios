@@ -14,7 +14,7 @@ ChMotion(22,0,1);
 VoicePlay("H6G2200000_22_010");
 MsgDisp("Hikaru","You won the gold award in the gardening
 club's competition, right?
-I heard about it over winter break!");
+Hikaru heard about it over winter break!");
 MsgDisp("主人公","Hehe, so that was it.
 Thank you!");
 ChEye(22,0);

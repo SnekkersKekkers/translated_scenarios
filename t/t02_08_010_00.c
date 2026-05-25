@@ -91,7 +91,7 @@ ChMouth(8,4);
 ChEyeOpenLevel(8,10);
 VoicePlay("T020801000_08_060");
 MsgDisp("Shirahane","But I had decided.
-I was going to confess to you here.");
+I was goin' to confess to you here.");
 MsgDisp("主人公","｛Daichi＊＊｝...");
 VoiceEVSPlay(8);
 VoicePlay("T020801000_08_061");
@@ -100,14 +100,14 @@ VoicePlay("T020801000_08_070");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,2,1);
-MsgDisp("Shirahane","Until I met you, I thought I was getting
-by in life and doing everything well.");
+MsgDisp("Shirahane","Until I met you, I thought I was gettin'
+by in life and doin' everything well.");
 VoicePlay("T020801000_08_080");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 MsgDisp("Shirahane","In fact, I didn't have any worries and I
-was doing well in both studies and sports.");
+was doin' well in both studies and sports.");
 VoicePlay("T020801000_08_090");
 ChEye(8,4);
 ChMouth(8,4);
@@ -130,7 +130,7 @@ reality I was just complacent.");
 VoicePlay("T020801000_08_120");
 ChEye(8,4);
 ChMouth(8,4);
-MsgDisp("Shirahane","I'm not going to end my high school life
+MsgDisp("Shirahane","I'm not goin' to end my high school life
 as such a half-assed guy.
 I...want you to acknowledge me.");
 MsgClear();

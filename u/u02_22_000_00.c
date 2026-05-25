@@ -11,7 +11,7 @@ MsgDisp("主人公","｛ひかる＊｝ is the best～!");
 ChMotion(22,1,1);
 VoicePlay("U022200000_22_010");
 MsgDisp("Hikaru","Thanks～!
-I love you▼");
+Love you▼");
 MsgDisp("主人公","Hahaha!");
 SEStop("EV_SE_763");
 ChEye(22,3);
@@ -34,7 +34,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("U022200000_22_040");
-MsgDisp("Hikaru","You look very happy, I think.▼");
+MsgDisp("Hikaru","You look very happy,  you know.▼");
 MsgDisp("主人公","Naturally!");
 ChEye(22,3);
 ChMouth(22,3);

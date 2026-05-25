@@ -62,9 +62,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("T020D50000_22_020");
-MsgDisp("Hikaru","Right!
-But, still I'm really happy you became
-friends with Hikaru!");
+MsgDisp("Hikaru","Right! 
+But, still Hikaru's really happy
+we became friends!");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -89,9 +89,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("T020D50000_22_030");
-MsgDisp("Hikaru","That goes for Hikaru too!
-I was so happy when it was the three of us
-together, Mari, big sis and I!");
+MsgDisp("Hikaru","That goes for Hikaru too! Hikaru was so
+happy when it was the three of us
+together, Mari, big sis and Hikaru!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -117,9 +117,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("T020D50000_22_050");
-MsgDisp("Hikaru","Hey, hey! I want to have more talks like
-this! I feel like from now on I can say
-anything!▼");
+MsgDisp("Hikaru","Hey, hey! Hikaru want to have more talks
+like this! From now on let's just open up
+and say anything!▼");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);

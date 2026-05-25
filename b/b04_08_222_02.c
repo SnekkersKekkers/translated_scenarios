@@ -101,7 +101,7 @@ I just said something cringy.");
     ChMotion(8,3,1);
     VoicePlay("B040822202_08_090");
     MsgDisp("Shirahane","Haha!
-That's right, I might want to experience
+That's right, I might wanna experience
 being a lord at least once.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

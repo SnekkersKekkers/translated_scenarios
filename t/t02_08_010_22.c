@@ -20,7 +20,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);
 MsgDisp("Shirahane","I can't beat you.
-I still have to work hard....");
+I still hafta work hard....");
 MsgDisp("主人公","Hehe!");
 VoicePlay("T020801000_08_330");
 ChEye(8,2);
@@ -34,7 +34,7 @@ ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,0,1);
 MsgDisp("Shirahane","But, I'll be the one to wrap up the happy
-ending.");
+endin'.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -45,7 +45,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(8);
 VoicePlay("T020801000_08_350");
 MsgDisp("Shirahane","｛主人公｝.
-I love you, truly.");
+I love you, really.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

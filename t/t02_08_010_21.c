@@ -34,7 +34,7 @@ ChMouth(8,4);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,10);
 MsgDisp("Shirahane","...This is no laughing matter!
-Let me at least wrap up the happy ending.");
+Let me at least wrap up the happy endin'.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

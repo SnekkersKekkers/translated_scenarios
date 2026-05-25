@@ -31,7 +31,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("S120D00002_22_010");
-MsgDisp("Hikaru","Oh, I guess you're right!
+MsgDisp("Hikaru","Oh, you're probably right!
 Mari, see you at school▼");
 MsgDisp("主人公","Yeah!
 Thank you for inviting me today.");

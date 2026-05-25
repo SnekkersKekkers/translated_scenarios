@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChCheek(8,3);
     VoicePlay("B040830000_08_010");
     MsgDisp("Shirahane","Thanks.
-You said you were coming, so I got fired up
-in cleaning—! Hehe!");
+You said you were comin', so I got all
+fired up cleanin—! Hehe!");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

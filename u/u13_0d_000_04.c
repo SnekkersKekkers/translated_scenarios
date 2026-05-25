@@ -84,9 +84,9 @@ Mari looks like she's married lately.");
     StlMouth(22,0);
     StlCheek(22,7);
     VoicePlay("U130D00004_22_030");
-    MsgDisp("Hikaru","I get that～!
-I feel like she's perfectly in sync with
-Yanosuke-san♪");
+    MsgDisp("Hikaru","Right～! 
+It feels like she's perfectly in sync 
+with Yanosuke-san♪");
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00004_21_050");
     MsgDisp("Michiru","I'm not sure if he realizes that he's in

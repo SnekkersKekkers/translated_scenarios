@@ -11,7 +11,7 @@ MsgDisp("主人公","Hm?");
 ChEye(8,3);
 ChMouth(8,3);
 VoicePlay("K010800101_08_010");
-MsgDisp("Shirahane","I super like this kind of thing.
+MsgDisp("Shirahane","I super like this kinda thing.
 I'm so happy～!");
 MsgDisp("主人公","Really?
 Thank goodness!");

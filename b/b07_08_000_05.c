@@ -25,7 +25,7 @@ reading it has become second nature.");
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_270");
 MsgDisp("Shirahane","The articles and photos are always
-interesting, right? I like it so much that I
+interestin', right? I like it so much that I
 read it over and over.");
 MsgDisp("主人公","(So ｛Daichi＊＊｝'s hobbies are challenging
 himself and reading Habatcher...)");

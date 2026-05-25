@@ -38,7 +38,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q100D00000_22_020");
 MsgDisp("Hikaru","Haha, come on～!
-I can't unsee it anymore!");
+Hikaru can't unsee it anymore!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -68,7 +68,7 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("Q100D00000_22_030");
-MsgDisp("Hikaru","Aah, I'm so excited▼");
+MsgDisp("Hikaru","Aah, Hikaru's so excited▼");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -81,7 +81,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q100D00000_22_040");
 MsgDisp("Hikaru","Let's spend our free period here.
-When you're done, meet me at Mari♪");
+When you're done, let's meet at Mari♪");
 ChSet(21,0);
 VoicePlay("Q100D00000_21_050");
 MsgDisp("Michiru","Got it.");

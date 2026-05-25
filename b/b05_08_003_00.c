@@ -32,7 +32,7 @@ SEPlay("EV_SE_717",0.3,0.6);
 ChOpen(8,255,0,3,3,0,#1,0,0);
 SEStop("EV_SE_717",0.5);
 VoicePlay("B050800300_08_020");
-MsgDisp("Shirahane","Sorry to keep ya waiting!");
+MsgDisp("Shirahane","Sorry to keep ya waitin'!");
 MsgDisp("主人公","Yeah.
 That's a big bag, did you buy something?");
 ChEye(8,0);
@@ -80,7 +80,7 @@ StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("B050800300_08_080");
 MsgDisp("Shirahane","I saw a photo of the high school model NANA
-wearing this item.");
+wearin' this item.");
 StlEye(8,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5);

@@ -37,7 +37,7 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100730000_22_020");
-MsgDisp("Hikaru","Hmm, I guess not after all.");
+MsgDisp("Hikaru","Hmm, right, it's not really.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -141,8 +141,9 @@ ChOpen(21,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(22,254,0,1,3,#1,#1,0,2,0,30);
 ChMotion(22,4,1);
 VoicePlay("F100730000_22_070");
-MsgDisp("Hikaru","He ran away. I can't believe he'd make a
-move like that...Good job, Mikage-sensei.");
+MsgDisp("Hikaru","He ran away. Hikaru can't believe he'd
+make a move like that...Good job,
+Mikage-sensei.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,3);

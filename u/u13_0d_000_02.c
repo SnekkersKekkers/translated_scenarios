@@ -21,7 +21,8 @@ I think love is still quite far off.");
     StlMouth(22,1);
     VoicePlay("U130D00002_22_000");
     MsgDisp("Hikaru","Family is more important than love to him.
-I guess he thinks of Mari like his sister?");
+Maybe he thinks of Mari like his
+sister?");
     MsgDisp("主人公","(S-Sister...
 I guess it would be good if I was more
 aggressive with ｛Honda＊＊｝?)");

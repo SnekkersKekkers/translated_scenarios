@@ -6,7 +6,7 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040822201_08_000");
-MsgDisp("Shirahane","Looking at all these things, I can't help but
+MsgDisp("Shirahane","Lookin' at all these things, I can't help but
 think that it must have been inconvenient
 back then...");
 MsgSel("There was no gas or electricity back then","It's too convenient nowadays","But, I think people's hearts were richer because of that.");
@@ -32,7 +32,7 @@ like this. That'd be troublin', right?");
     ChMotion(8,2,1);
     VoicePlay("B040822201_08_020");
     MsgDisp("Shirahane","That's right.
-But it's because of that convenience that we
+But it's 'cause of that convenience that we
 can live comfortably like this, right?");
     MsgDateResultDisp();
     break ;

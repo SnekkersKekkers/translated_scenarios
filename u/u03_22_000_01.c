@@ -8,7 +8,7 @@ MsgDisp("主人公","A coffee cup?");
 ChMotion(22,3,1);
 VoicePlay("U032200001_22_010");
 MsgDisp("Hikaru","Yup.
-It's cute so I just had to buy it for
+It's cute so Hikaru just had to buy it for
 you♪");
 MsgSel("Accept animal print coffee cup","Decline it");
 switch (MsgSelRsltGet()){

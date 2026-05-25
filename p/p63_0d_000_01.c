@@ -33,7 +33,7 @@ ChMotion(22,0,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("P630D00001_22_010");
 MsgDisp("Hikaru","The vegetables Mari grew, huh?
-I'm super curious～!");
+Hikaru's super curious～!");
 MsgDisp("主人公","Certainly have a look.");
 ChEye(21,0);
 ChMouth(21,0);

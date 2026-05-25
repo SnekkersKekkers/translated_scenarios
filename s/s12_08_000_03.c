@@ -24,7 +24,7 @@ Thank you for taking me.");
     ChMotion(8,3,1);
     VoicePlay("S120800003_08_010");
     MsgDisp("Shirahane","You're welcome.
-I'll have to tell this story at work.");
+I'll hafta tell this story at work.");
     MsgDisp("主人公","Hehe, yeah!");
     ChEye(8,3);
     ChMouth(8,3);

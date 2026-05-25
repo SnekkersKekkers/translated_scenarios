@@ -4,7 +4,7 @@ ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("P640D00004_22_000");
 MsgDisp("Hikaru","Trez・Bon!
-I'm inspired...");
+Hikaru's inspired...");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -15,7 +15,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P640D00004_22_010");
-MsgDisp("Hikaru","Mari, come marry me!");
+MsgDisp("Hikaru","Mari, come marry Hikaru!");
 MsgDisp("主人公","Ehhh∋");
 ChEye(21,0);
 ChMouth(21,3);

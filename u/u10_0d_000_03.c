@@ -11,8 +11,8 @@ Mari!
 It's Hikaru♪");
 MsgDisp("主人公","What's up, ｛ひかる＊｝?");
 VoicePlay("U100D00003_22_010");
-MsgDisp("Hikaru","You should have girl talk tonight with me
-and sis!♪");
+MsgDisp("Hikaru","You should have girl talk tonight with
+Hikaru and sis!♪");
 MsgSel("Ok, I'll come!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -31,9 +31,9 @@ I'm looking forward to it!)");
     break ;
     case 1:
     VoicePlay("U100D00003_22_040");
-    MsgDisp("Hikaru","Eh～ , busy huh...
-Well then, I guess it can't be helped.
-I'm sure there will be another chance.");
+    MsgDisp("Hikaru","Eh～ , busy huh... Well, guess it can't be 
+helped. Hikaru's sure there
+will be another chance.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Even though she invited me, maybe that

@@ -9,5 +9,5 @@ SEWait();
 MsgDisp("主人公","Hello.");
 VoicePlay("Z422200000_22_000");
 MsgDisp("Hikaru","Mari...
-I didn't make it in time.");
+Hikaru didn't make it in time.");
 MsgClose();

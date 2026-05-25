@@ -28,7 +28,7 @@ Now, the bill...");
     ChMotion(8,0,1);
     VoicePlay("I660800004_08_020");
     MsgDisp("Shirahane","The windows were so clean, I almost stuck
-my head in the car thinking they were
+my head in the car thinkin' they were
 open.");
     MsgDisp("主人公","Ahaha!");
     ChEye(8,3);

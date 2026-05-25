@@ -13,7 +13,7 @@ switch (ChPrmGet(22,6)){
     ScrFadeIn(0);
     VoicePlay("H3A2200001_22_000");
     MsgDisp("Hikaru","It's too bad, right?
-I thought Mari could win...");
+Hikaru thought Mari could win...");
     MsgDisp("主人公","｛ひかる＊｝...
 I'm sorry you had to see me so uncool.");
     ChEye(22,2);
@@ -55,7 +55,7 @@ in her mind.");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H3A2200001_22_050");
-    MsgDisp("Hikaru","I won't ever forget, okay?
+    MsgDisp("Hikaru","Hikaru won't ever forget, okay?
 Mari's bravery.");
     MsgDisp("主人公","(｛ひかる＊｝...
 Yeah, I'm glad I worked so hard at judo

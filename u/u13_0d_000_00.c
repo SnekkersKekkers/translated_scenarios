@@ -19,9 +19,9 @@ switch (ChPrmGet(1,6)){
     MsgDisp("主人公","Ehh∋");
     StlEye(22,1);
     VoicePlay("U130D00000_22_000");
-    MsgDisp("Hikaru","Right?
-I wonder if Kazama-kun and Mari have two
-different definitions of \"love\"?");
+    MsgDisp("Hikaru","Right? Hikaru wonders if Kazama-kun and
+Mari have two different definitions of
+\"love\"?");
     MsgDisp("主人公","(Is there a difference between my love and
 ｛Kazama＊＊｝'s \"love\"?
 I wonder what that means...)");
@@ -85,7 +85,7 @@ I just thought it's amusing to watch.");
     StlCheek(22,5);
     VoicePlay("U130D00000_22_040");
     MsgDisp("Hikaru","Hikaru wants to push you two a bit more,
-but sis will get mad if I do.");
+but sis will get mad if Hikaru does.");
     StlEyeOpenLevel(21,0,1);
     StlNear(0,0,15);
     VoicePlay("U130D00000_21_050");

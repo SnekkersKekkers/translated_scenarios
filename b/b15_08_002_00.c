@@ -11,7 +11,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("B150800200_08_010");
-MsgDisp("Shirahane","Do you enjoy seeing me troubled?");
+MsgDisp("Shirahane","Do you enjoy seein' me troubled?");
 MsgDisp("主人公","That's not what I intended...");
 ChEye(8,0);
 ChMouth(8,4);

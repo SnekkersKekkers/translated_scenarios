@@ -23,7 +23,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("D010800100_08_020");
-MsgDisp("Shirahane","Thank'ya for coming～!");
+MsgDisp("Shirahane","Thank'ya for comin'～!");
 SEStop("EV_SE_589",2);
 MsgDisp("主人公","(Hehe, ｛Daichi＊＊｝ is doing well today,
 too.)");
@@ -89,7 +89,7 @@ MsgClose();
 ChOpen(8,35,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010800100_08_090");
-MsgDisp("Shirahane","Thank ya for coming～!");
+MsgDisp("Shirahane","Thank ya for comin'～!");
 MsgDisp("主人公","｛Daichi＊＊｝ was popular today, huh?");
 ChEye(8,2);
 ChMouth(8,3);
@@ -115,7 +115,7 @@ ChEyeOpenLevel(8,0);
 ChCheek(8,5);
 VoicePlay("D010800100_08_120");
 MsgDisp("Shirahane","You're praising me too much～
-Saying I'm some popular salesman!");
+Sayin' I'm some popular salesman!");
 MsgDisp("主人公","(Hehe! Customers really seem to love
 ｛Daichi＊＊｝. His popularity is a bit
 different from ｛Kazama＊＊｝'s, though.)");

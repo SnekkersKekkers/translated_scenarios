@@ -6,7 +6,7 @@ ChMotion(8,2);
 ScrFadeIn(0);
 VoicePlay("B040830001_08_000");
 MsgDisp("Shirahane","Huh?
-...There's kind of a nice smell?");
+...It kinda smells nice?");
 MsgSel("Is that so?","Is it a tasty smell?","To me, it smells like ｛Daichi＊＊｝!");
 switch (MsgSelRsltGet()){
     case 0:

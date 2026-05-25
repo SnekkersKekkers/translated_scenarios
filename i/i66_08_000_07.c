@@ -64,7 +64,7 @@ We look forward to your next visit!");
     ChCheek(8,3);
     VoicePlay("I660800007_08_050");
     MsgDisp("Shirahane","That regular only comes on days you're
-working.
+workin'.
 What a perv.");
     MsgDisp("主人公","Huh∋");
     ChEye(8,3);
@@ -91,7 +91,7 @@ Get it together, me!");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800007_08_090");
-    MsgDisp("Shirahane","I'm startin' to really enjoy working
+    MsgDisp("Shirahane","I'm startin' to really enjoy workin'
 part-time here thanks t' ya.
 I got it...");
     MsgDisp("主人公","(It's a little embarrassing, but I'm happy

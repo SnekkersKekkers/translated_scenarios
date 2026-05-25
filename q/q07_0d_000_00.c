@@ -11,13 +11,13 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q070D00000_22_000");
-MsgDisp("Hikaru","Such a huge windmill～!
-I can't believe it spins by the wind...");
+MsgDisp("Hikaru","Such a huge windmill～! 
+Hikaru can't believe it spins in the wind...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q070D00000_22_010");
-MsgDisp("Hikaru","Wait, I have an idea!
+MsgDisp("Hikaru","Wait, Hikaru has an idea!
 Let's take a photo with the windmill♪");
 MsgDisp("主人公","Great idea!");
 ChEye(22,3);
@@ -183,7 +183,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q070D00000_22_100");
 MsgDisp("Hikaru","Non non!
-I'm doing it for you▼");
+Hikaru's doing it for you▼");
 MsgDisp("主人公","Eh...");
 ChEye(22,3);
 ChMouth(22,3);

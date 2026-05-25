@@ -28,7 +28,7 @@ Yeah, please treat me well.");
     ChOpen(8,255,0,3,3,#1,#1,0,0);
     ChMotion(8,3);
     VoicePlay("S060800000_08_020");
-    MsgDisp("Shirahane","This is the second time I'm saying this
+    MsgDisp("Shirahane","This is the second time I'm sayin' this
 but...
 Happy New Year!");
     MsgDisp("主人公","Hehe, Happy New Year!");

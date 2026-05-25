@@ -37,11 +37,11 @@ MsgDisp("主人公","Hehe!
 Hey, is everyone there still awake?");
 VoicePlay("D020800700_08_040");
 MsgDisp("Shirahane","Nah, the pillow fights were intense so
-everyone is going to sleep now.");
+everyone is goin' to sleep now.");
 MsgDisp("主人公","Oh.");
 VoicePlay("D020800700_08_050");
 MsgDisp("Shirahane","Sigh... There's nothin' more lame than
-sight-seeing in your hometown. If you were
+sight-seein' in your hometown. If you were
 here though, it'd be a different story.");
 MsgDisp("主人公","Would ｛Daichi＊＊｝ be my special guide?");
 VoicePlay("D020800700_08_060");
@@ -54,7 +54,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("D020800700_08_070");
 MsgDisp("Shirahane","Oh damn, it's late.
-Are ya getting sleepy?
+Are ya gettin' sleepy?
 My bad.");
 MsgDisp("主人公","No, it's fine. Thanks for calling.
 Even though we're at different places, we

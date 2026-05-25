@@ -10,8 +10,8 @@ MsgDisp("主人公","Eh?");
 ChEye(8,4);
 ChMouth(8,0);
 VoicePlay("B070800000_08_350");
-MsgDisp("Shirahane","If we're talking about things I want to do,
-there are so many things I want to challenge
+MsgDisp("Shirahane","If we're talkin' about things I wanna do,
+there are so many things I wanna challenge
 myself with.");
 ChEye(8,4);
 ChMouth(8,4);

@@ -25,7 +25,7 @@ Your support became my strength,
     ChMotion(22,4,1);
     VoicePlay("H3A2200000_22_010");
     MsgDisp("Hikaru","Really?
-You could hear me cheering Go Mari～?
+Did you hear Hikaru cheering Go Mari～?
 Aha▼");
     MsgDisp("主人公","(Hehe!
 I'm glad I worked so hard at judo club!)");
@@ -55,9 +55,8 @@ Thank you!");
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H3A2200000_22_030");
-    MsgDisp("Hikaru","Hikaru fell in love with Mari▼
-Ah, I was already in love with you, but
-even more so now♪");
+    MsgDisp("Hikaru","Ah, Hikaru was already in love with 
+Mari, but even more so now♪");
     MsgDisp("主人公","Hehe!");
     ChEye(22,3);
     ChMouth(22,3);

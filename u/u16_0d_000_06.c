@@ -5,9 +5,9 @@ StlMouth(21,0);
 StlEye(22,0);
 StlMouth(22,1);
 VoicePlay("U160D00006_22_000");
-MsgDisp("Hikaru","You know, Mari...
-I'm going to give you some serious advice,
-so listen carefully, okay?");
+MsgDisp("Hikaru","You know, Mari... Hikaru's going to give
+you some serious advice, so listen
+carefully, okay?");
 MsgDisp("主人公","Eh, sure.");
 StlMouth(22,0);
 VoicePlay("U160D00006_22_010");

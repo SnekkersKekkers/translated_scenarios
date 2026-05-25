@@ -7,7 +7,7 @@ MsgDisp("主人公","｛ひかる＊｝∋");
 ChMotion(22,4,1);
 VoicePlay("Q262200000_22_000");
 MsgDisp("Hikaru","Aha▼
-It's Mari, I'm glad!");
+It's Mari, Hikaru's glad!");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,2,1);

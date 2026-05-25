@@ -113,7 +113,7 @@ work!");
     ChCheek(8,6);
     VoicePlay("I660800008_08_100");
     MsgDisp("Shirahane","Nah, that's not it.
-That's their playing voice, they're not
+That's their playin' voice, they're not
 actually mad.");
     ChEye(8,2);
     ChMouth(8,3);

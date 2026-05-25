@@ -12,7 +12,7 @@ ChOpen(22,254,0,0,3,#1,#1,0,2);
 ChMotion(22,4,1);
 VoicePlay("P530D00001_22_000");
 MsgDisp("Hikaru","Ma～ ri▼
-I stopped by to see you!");
+Hikaru stopped by to see you!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -26,7 +26,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P530D00001_22_010");
 MsgDisp("Hikaru","That's right.
-I thought Mari would be nervous♪");
+Hikaru thought Mari would be nervous♪");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
@@ -53,7 +53,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("P530D00001_22_020");
-MsgDisp("Hikaru","I'm looking forward to Game Music!");
+MsgDisp("Hikaru","Hikaru's looking forward to Game Music!");
 MsgDisp("主人公","(Alright, let's do our best!)");
 MsgClose();
 ScrFadeOut(0,0);

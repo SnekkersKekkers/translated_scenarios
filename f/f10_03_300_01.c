@@ -71,7 +71,7 @@ ChMotion(22,4,1);
 VoicePlay("F100330001_22_030");
 MsgDisp("Hikaru","You put your body on the line for your
 sister?
-That's admirable, I'll praise you!");
+That's admirable, Hikaru will praise you!");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);

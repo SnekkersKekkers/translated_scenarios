@@ -44,7 +44,7 @@ Seriously, thanks a bunch.");
         ChMouth(8,2);
         ChMotion(8,4,1);
         VoicePlay("B040817002_08_030");
-        MsgDisp("Shirahane","Please bear with my singing...");
+        MsgDisp("Shirahane","Please bear with my singin'...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,7 +62,7 @@ Seriously, thanks a bunch.");
         VoicePlay("B040817002_08_050");
         MsgDisp("Shirahane","Why...yeah.
 I don't even know why myself, but I've never
-been good at singing.");
+been good at singin'.");
         MsgDisp("主人公","Could it be...that you're tone deaf?");
         ChEye(8,2);
         ChMouth(8,0);
@@ -90,7 +90,7 @@ to sing in front of others.");
         ChMotion(8,4,1);
         ChCheek(8,8);
         VoicePlay("B040817002_08_090");
-        MsgDisp("Shirahane","I don't want to pretend that you're not here.
+        MsgDisp("Shirahane","I don't wanna pretend that you're not here.
 I absolutely can't do that...");
         MsgDisp("主人公","(｛Daichi＊＊｝....)");
         break ;

@@ -6,7 +6,7 @@ ChOpen(22,255,0,0,3,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("S090D00000_22_000");
-MsgDisp("Hikaru","Mari, tell me your wish? ♪");
+MsgDisp("Hikaru","Mari, tell Hikaru your wish? ♪");
 MsgDisp("主人公","Huh?");
 ChEye(21,0);
 ChMouth(21,4);

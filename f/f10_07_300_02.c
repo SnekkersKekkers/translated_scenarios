@@ -24,7 +24,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F100730002_22_000");
-MsgDisp("Hikaru","I won't let you get away today!");
+MsgDisp("Hikaru","Hikaru won't let you get away today!");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -79,9 +79,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100730002_22_030");
-MsgDisp("Hikaru","In that case, leave it to us!
-I'll ask Uncle about the perfect fashion
-for Mikage-sensei♪");
+MsgDisp("Hikaru","In that case, leave it to us! Hikaru will
+ask Uncle about the perfect fashion for
+Mikage-sensei♪");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -107,8 +107,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100730002_22_040");
-MsgDisp("Hikaru","Yeah, I'm sure uncle will like
-Mikage-sensei▼ right, Mari?");
+MsgDisp("Hikaru","Yeah, Hikaru's sure uncle will like
+Mikage-sensei▼ 
+Right, Mari?");
 MsgDisp("主人公","Y-Yeah.");
 MsgDisp("主人公","(Goro-sensei's fashion is quite original
 though...?

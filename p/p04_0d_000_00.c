@@ -31,7 +31,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P040D00000_22_010");
-MsgDisp("Hikaru","Mari, please bring me another dango!");
+MsgDisp("Hikaru","Mari, please bring Hikaru another dango!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

@@ -42,8 +42,8 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("H7G2200000_22_050");
 MsgDisp("Hikaru","...Ah!
-Next time, I want you to design some
-clothes that will suit Hikaru too～▼");
+Next time, Hikaru wants you to design some
+clothes that will suit her too～▼");
 MsgDisp("主人公","(Hehe!
 I'm really glad I stayed in the
 handicrafts club!)");

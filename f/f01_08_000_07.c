@@ -16,7 +16,7 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,0,1);
     VoicePlay("F010800007_08_010");
     MsgDisp("Shirahane","I thought it'd be nice to see ya.
-So I tried waiting here.");
+So I tried waitin' here.");
     break ;
     case 4:
     case 5:

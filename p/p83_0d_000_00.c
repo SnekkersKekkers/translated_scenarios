@@ -35,8 +35,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P830D00000_22_020");
-MsgDisp("Hikaru","I see～...There are people working hard
-behind the scenes so that Hikaru and
+MsgDisp("Hikaru","RIght～...There are people working
+hard behind the scenes so that Hikaru and
 everyone else can enjoy it, right?");
 ChEye(21,0);
 ChMouth(21,0);

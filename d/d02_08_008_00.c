@@ -52,7 +52,7 @@ ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("D020800800_08_050");
 MsgDisp("Shirahane","It's not anything ya can help with.
-It's something I have to decide for myself.");
+It's something I hafta decide for myself.");
 ChEye(8,3);
 ChMouth(8,4);
 ChMotion(8,0,1);

@@ -39,8 +39,8 @@ ChMouth(22,2);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,7);
 VoicePlay("R080100000_22_010");
-MsgDisp("Hikaru","Kazama-kun, I thought I told you that you
-can't reserve Mari!");
+MsgDisp("Hikaru","Kazama-kun, Hikaru thought she told you
+that you can't reserve Mari!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -94,8 +94,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("R080100000_22_040");
-MsgDisp("Hikaru","Come on, come on, since I'm now Mari's
-guardian, let's enjoy the party♪
+MsgDisp("Hikaru","Come on, come on, since Hikaru's now
+Mari's guardian, let's enjoy the party♪
 Let's go to the balcony!");
 MsgDisp("主人公","Hehe, okay.");
 MsgClose();

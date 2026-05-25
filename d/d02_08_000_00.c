@@ -11,7 +11,7 @@ MsgDisp("主人公","Eh, what is it?");
 ChEye(8,4);
 ChMotion(8,2,1);
 VoicePlay("D020800000_08_010");
-MsgDisp("Shirahane","Lately there's been a rumor going around
+MsgDisp("Shirahane","Lately there's been a rumor goin' around
 school—");
 VoicePlay("D020800000_08_020");
 MsgDisp("Shirahane","About some \"Young Master\" at Haba Academy,\na charismatic salesman with great style?");
@@ -22,7 +22,7 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800000_08_030");
 MsgDisp("Shirahane","That look on your face...!
-You're making me curious...");
+You're makin' me curious...");
 MsgDisp("主人公","Why?");
 ChEye(8,3);
 ChMouth(8,3);

@@ -43,7 +43,7 @@ See you later, ｛ひかる＊｝!");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("U032200002_22_050");
-    MsgDisp("Hikaru","Ok, I see.
+    MsgDisp("Hikaru","Oh, got it.
 Well, that's enough for today.
 See you later?");
     MsgDisp("主人公","Okay.

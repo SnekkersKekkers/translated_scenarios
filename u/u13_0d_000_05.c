@@ -81,9 +81,9 @@ I wonder if this will make him happy.");
     StlMouth(22,0);
     StlCheek(22,7);
     VoicePlay("U130D00005_22_040");
-    MsgDisp("Hikaru","Uh-huh!
-In that same regard, I'd like to ask
-Himuro-chan how he won Mari's heart.");
+    MsgDisp("Hikaru","Uh-huh! In that same regard, Hikaru would
+like to ask Himuro-chan how he won Mari's
+heart.");
     StlEye(21,0);
     VoicePlay("U130D00005_21_040");
     MsgDisp("Michiru","Maybe Mari's innocence was able to melt

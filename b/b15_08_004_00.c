@@ -18,8 +18,8 @@ ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("B150800400_08_030");
 MsgDisp("Shirahane","I like it when you do that to me.
-If you keep doing that to me, next time, I'll
-want to do the same to you.");
+If you keep doin' that to me, next time, I'll
+wanna do the same to you.");
 ChEye(8,2);
 VoicePlay("B150800400_08_040");
 MsgDisp("Shirahane","...Understood?");
@@ -27,7 +27,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("B150800400_08_050");
-MsgDisp("Shirahane","I...also want to touch you too.
+MsgDisp("Shirahane","I...also wanna touch you too.
 Maybe more strongly than you do?");
 MsgDisp("主人公","Yeah...");
 ChEye(8,0);
@@ -39,8 +39,8 @@ It's like an unstoppable force...or out of
 frustration.");
 ChEye(8,4);
 VoicePlay("B150800400_08_070");
-MsgDisp("Shirahane","I don't want to do those rough things to you.
-I want to treasure you.");
+MsgDisp("Shirahane","I don't wanna do those rough things to you.
+I wanna treasure you.");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);

@@ -9,15 +9,16 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,0);
     ScrFadeIn(0);
     VoicePlay("S070800000_08_000");
-    MsgDisp("Shirahane","It's really the New Year, huh.
-Everyone is so lively.");
+    MsgDisp("Shirahane","Sure feels like New Year's, huh.
+Everybody's lookin' so lively.");
     MsgDisp("主人公","Yeah, they are.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("S070800000_08_010");
-    MsgDisp("Shirahane","Hm, we should go and say hello to God.
-I'll stand in line with all my energy!");
+    MsgDisp("Shirahane","Alright, let's go say hi to the gods.
+I'm gonna put my whole heart into
+standin' in line!");
     MsgDisp("主人公","Yeah!");
     break ;
     case 3:
@@ -27,7 +28,7 @@ I'll stand in line with all my energy!");
     ScrFadeIn(0);
     VoicePlay("S070800000_08_020");
     MsgDisp("Shirahane","There are so many people.
-As expected of New Years.");
+Just what I'd expect from New Year's.");
     MsgDisp("主人公","Yeah");
     ChEye(8,0);
     ChMouth(8,0);
@@ -42,7 +43,7 @@ Here, let's keep moving, shall we?");
     ChEyeOpenLevel(8,0);
     VoicePlay("S070800000_08_040");
     MsgDisp("Shirahane","You're right.
-We can walk while we think about it!");
+We can think about it while we're walkin'!");
     break ;
     case 4:
     case 5:
@@ -51,16 +52,16 @@ We can walk while we think about it!");
     ChMotion(8,0);
     ScrFadeIn(0);
     VoicePlay("S070800000_08_050");
-    MsgDisp("Shirahane","This is truly New Years!");
+    MsgDisp("Shirahane","Now this is New Year's!");
     MsgDisp("主人公","Does ｛Daichi＊＊｝ visit the shrine every
 year?");
     ChEye(8,0);
     ChMouth(8,0);
     ChMotion(8,3,1);
     VoicePlay("S070800000_08_060");
-    MsgDisp("Shirahane","Yeah. With my older brother and sister.
-And on our way home, we drink sweet and
-warm sake.");
+    MsgDisp("Shirahane","Yeah. With my big bro and sis.
+And on the way home, we drink nice warm
+sweet sake.");
     MsgDisp("主人公","Heh...
 That sounds nice!");
     ChEye(8,3);
@@ -68,8 +69,8 @@ That sounds nice!");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("S070800000_08_070");
-    MsgDisp("Shirahane","It's sweet and tasty and it makes my hands
-and body feel warm ...
+    MsgDisp("Shirahane","It's sweet and tasty, and it warms up
+your hands and body...
 Ah.");
     ChEye(8,0);
     ChMouth(8,3);

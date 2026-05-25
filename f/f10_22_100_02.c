@@ -54,14 +54,14 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F102210002_22_040");
 MsgDisp("Hikaru","Oh no, not Mari too～?
-Well, I don't mind though♪");
+Well, Hikaru doesn't mind though♪");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F102210002_22_050");
 MsgDisp("Hikaru","Aha▼
-I'm glad it had a happy ending!");
+Hikaru's glad it had a happy ending!");
 MsgDisp("主人公","(Yeah, looks like everyone was happy
 thanks to ｛ひかる＊｝!)");
 BGMStop();

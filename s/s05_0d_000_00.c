@@ -10,7 +10,7 @@ MsgDisp("主人公","Oh, it's ｛ひかる＊｝.
 Happy New Year!");
 VoicePlay("S050D00000_22_010");
 MsgDisp("Hikaru","Hey, do you want to visit the shrine with
-me?
+Hikaru?
 Sis will come also♪");
 MsgDisp("主人公","Sure, got it.");
 VoicePlay("S050D00000_22_020");

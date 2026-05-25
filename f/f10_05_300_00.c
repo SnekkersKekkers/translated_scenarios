@@ -121,7 +121,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F100530000_22_040");
-MsgDisp("Hikaru","Ah, wait for me, big sis.
+MsgDisp("Hikaru","Ah, wait for Hikaru, big sis.
 Mari, let's go!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

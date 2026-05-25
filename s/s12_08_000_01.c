@@ -17,7 +17,7 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,3);
     VoicePlay("S120800001_08_000");
     MsgDisp("Shirahane","No problem.
-I had fun walking you home too!");
+I had fun walkin' you home too!");
     MsgDisp("主人公","Hehe, yep.");
     ChEye(8,3);
     ChMouth(8,3);

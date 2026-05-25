@@ -37,7 +37,7 @@ the rhythmic gymnastics club...)");
     ScrFadeIn(0);
     VoicePlay("H4A2200001_22_030");
     MsgDisp("Hikaru","Uu...
-Mari, I'm sorry.");
+Mari, Hikaru's sorry.");
     MsgDisp("主人公","Hm, ｛ひかる＊｝, what's wrong?");
     ChMotion(22,2,1);
     VoicePlay("H4A2200001_22_040");
@@ -49,9 +49,8 @@ The opponent was just too strong.");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H4A2200001_22_050");
-    MsgDisp("Hikaru","Yeah...
-But I wanted to win with Mari and everyone
-else...");
+    MsgDisp("Hikaru","Yeah... But Hikaru wanted to win with Mari
+and everyone else...");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,3,1);

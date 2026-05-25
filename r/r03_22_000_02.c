@@ -11,7 +11,7 @@ ChOpen(22,34,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("R032200002_22_000");
-MsgDisp("Hikaru","Well, I'm off to see other friends!
+MsgDisp("Hikaru","Well, Hikaru's off to see other friends!
 A bientot♪");
 MsgDisp("主人公","See you!");
 MsgClose();

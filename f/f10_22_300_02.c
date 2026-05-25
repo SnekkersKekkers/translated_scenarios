@@ -71,9 +71,9 @@ ChMouth(22,2);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F102230002_22_050");
-MsgDisp("Hikaru","...I mean, if it's a brown animal with its
-bones exposed, there's only one thing that
-comes to mind...");
+MsgDisp("Hikaru","...You know, if it's a brown animal
+with its bones exposed, there's only one
+thing that comes to mind...");
 MsgDisp("主人公","Eh...?");
 ChEye(22,0);
 ChMouth(22,3);

@@ -13,7 +13,7 @@ switch (ChPrmGet(22,6)){
     ChMotion(22,3,1);
     VoicePlay("H182200000_22_000");
     MsgDisp("Hikaru","There you are!
-Mari, I came to cheer you on!");
+Mari, Hikaru came to cheer you on!");
     MsgDisp("主人公","Ah, ｛ひかる＊｝.
 Thank you!");
     ChMotion(22,4,1);
@@ -47,7 +47,7 @@ Alright, let's do our best!)");
     ChMotion(22,3,1);
     VoicePlay("H182200000_22_030");
     MsgDisp("Hikaru","Mari!
-I came to cheer you on～▼");
+Hikaru came to cheer you on～▼");
     MsgDisp("主人公","Ah, ｛ひかる＊｝.
 Thanks!");
     ChEye(22,0);

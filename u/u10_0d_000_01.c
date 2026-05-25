@@ -21,7 +21,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("U100D00001_22_020");
     MsgDisp("Hikaru","Aha▼
 Yay!
-I'm excited!");
+Hikaru's excited!");
     MsgDisp("主人公","Hehe.
 Ok then, I'll get ready to come over okay?");
     VoicePlay("U100D00001_22_030");

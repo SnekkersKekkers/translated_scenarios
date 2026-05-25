@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("L010D00100_22_000");
 MsgDisp("Hikaru","Super colorful～♪
-I don't know where to start eating!");
+Hikaru doesn't know where to start eating!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

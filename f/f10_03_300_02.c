@@ -82,9 +82,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100330002_22_030");
-MsgDisp("Hikaru","That's great! I'll teach her a diet method
-that will let you enjoy food and still be
-able to lose weight♪");
+MsgDisp("Hikaru","That's great! Hikaru will teach her a diet
+method that will let you enjoy food and
+still be able to lose weight♪");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

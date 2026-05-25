@@ -18,7 +18,8 @@ StlEye(22,0,0);
 StlEyeOpenLevel(22,5,1);
 StlMouth(22,1);
 VoicePlay("U140D00003_22_010");
-MsgDisp("Hikaru","I really respect Mari's hardworking side.");
+MsgDisp("Hikaru","Hikaru really respects Mari's hardworking
+side.");
 MsgDisp("主人公","(I'm really happy they noticed how hard
 I've been working!)");
 MsgClose();

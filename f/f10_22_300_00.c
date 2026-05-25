@@ -70,8 +70,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230000_22_060");
 MsgDisp("Hikaru","So, the character bento series will
-continue until I guess right.
-Of course, it tastes good♪");
+continue until Hikaru guesses right.
+Of course, it tastes good too♪");
 MsgDisp("主人公","(I see. But I wonder what kind of
 character bento it was where a polar bear
 looked like a rabbit...)");

@@ -13,7 +13,7 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800100_08_010");
 MsgDisp("Shirahane","That's not it.
-Recently I started running 10,000 meters in
+Recently I started runnin' 10,000 meters in
 the mornings before work.");
 MsgDisp("主人公","Ehh∋ 10,000 meters that's...１０km?
 On top of that, it's twice, so 20km∋");

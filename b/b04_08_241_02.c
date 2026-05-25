@@ -45,7 +45,7 @@ succeed.");
         ChMouth(8,4);
         VoicePlay("B040824102_08_030");
         MsgDisp("Shirahane","Well, it's no good if you expand without
-thinking about it...");
+thinkin' about it...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -82,7 +82,7 @@ take pride in it.");
         ChMotion(8,4,1);
         ChEyeOpenLevel(8,10);
         VoicePlay("B040824102_08_080");
-        MsgDisp("Shirahane","You can't be successful without having an
+        MsgDisp("Shirahane","You can't be successful without havin' an
 objective.");
         ChEye(8,0);
         ChEyeOpenLevel(8,0);

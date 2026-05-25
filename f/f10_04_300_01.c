@@ -66,7 +66,7 @@ ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,2,1);
 VoicePlay("F100430001_22_040");
-MsgDisp("Hikaru","Geez, I can't believe it...
+MsgDisp("Hikaru","Geez, can't believe it...
 Hikaru thought she found out ages ago and
 was having this kind of girl talk.");
 MsgDisp("主人公","(Girl talk with ｛Nanatsumori＊｝?)");
@@ -85,7 +85,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100430001_22_060");
-MsgDisp("Hikaru","I mean, Mari, you're too oblivious～!");
+MsgDisp("Hikaru","Geez, Mari, you're too oblivious～!");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);

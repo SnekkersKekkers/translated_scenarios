@@ -15,7 +15,7 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P640D00001_22_010");
-MsgDisp("Hikaru","Mari, can I be honest?
+MsgDisp("Hikaru","Mari, can Hikaru be honest?
 This is something you shouldn't put out.");
 MsgDisp("主人公","Eh?");
 ChEye(21,0);
@@ -29,7 +29,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("P640D00001_22_020");
-MsgDisp("Hikaru","I got it!
+MsgDisp("Hikaru","Hikaru got it!
 It's some what like an electric shock～!");
 MsgDisp("主人公","(Maybe I mixed the herbs wrong...
 Uugh, a huge fail...)");

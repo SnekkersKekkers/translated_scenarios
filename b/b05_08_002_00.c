@@ -107,7 +107,7 @@ StlMouth(8,2);
 StlEyeOpenLevel(8,0);
 VoicePlay("B050800200_08_150");
 MsgDisp("Shirahane","...So that's how it is.
-Worrying doesn't get you anywhere.");
+Worryin' doesn't get you anywhere.");
 MsgClose();
 ScrFadeOut(0);
 EnvAutoSet(1);

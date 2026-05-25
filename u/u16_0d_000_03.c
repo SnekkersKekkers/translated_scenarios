@@ -5,16 +5,16 @@ StlMouth(21,0);
 StlEye(22,0);
 StlMouth(22,1);
 VoicePlay("U160D00003_22_000");
-MsgDisp("Hikaru","Ah, I see.
-I need to have a serious chat with Mari,
-okay?");
+MsgDisp("Hikaru","Ah, right. 
+Hikaru needs to have a
+serious chat with Mari, okay?");
 MsgDisp("主人公","Eh?
 S-Sure.");
 StlEye(21,2);
 StlEye(22,1);
 StlMouth(22,1);
 VoicePlay("U160D00003_22_010");
-MsgDisp("Hikaru","I noticed a wounded flower in Mari's
+MsgDisp("Hikaru","Hikaru noticed a wounded flower in Mari's
 garden.");
 StlEye(21,1);
 VoicePlay("U160D00003_21_000");

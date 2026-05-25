@@ -12,7 +12,7 @@ ChMouth(8,3);
 ChMotion(8,0);
 VoicePlay("B080800001_08_000");
 MsgDisp("Shirahane","It's fine.
-It's because I wanted to.");
+It's 'cause I wanted to.");
 SEPlay("EV_SE_579");
 Wait(60,1);
 ChEye(8,0);

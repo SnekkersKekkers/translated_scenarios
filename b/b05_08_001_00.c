@@ -34,7 +34,7 @@ ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("B050800100_08_040");
 MsgDisp("Shirahane","How about a little detour?
-I don't feel like going home just yet.");
+I don't feel like goin' home just yet.");
 MsgDisp("主人公","Yeah, okay.");
 ChEye(8,3);
 ChMouth(8,3);
@@ -59,7 +59,7 @@ ChEye(8,4);
 ChMouth(8,0);
 VoicePlay("B050800100_08_060");
 MsgDisp("Shirahane","Really is.
-Makes me want to shout out loud...");
+Makes me wanna shout out loud...");
 MsgDisp("主人公","Eh?");
 MsgClose();
 ScrFadeOut(0);
@@ -84,7 +84,7 @@ MsgDisp("主人公","Hehe.");
 StlEye(8,2);
 StlMouth(8,1);
 VoicePlay("B050800100_08_090");
-MsgDisp("Shirahane","I also...want to make it big.");
+MsgDisp("Shirahane","I also...wanna make it big.");
 VoicePlay("B050800100_08_100");
 MsgDisp("Shirahane","In what, I don't know though.
 I just don't wanna end up a borin' guy.");
@@ -93,7 +93,7 @@ StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("B050800100_08_110");
 MsgDisp("Shirahane","I heard a Hane School alum used to come here
-to visualize their dreams coming true.");
+to visualize their dreams comin' true.");
 StlEye(8,1);
 StlMouth(8,0);
 VoicePlay("B050800100_08_120");

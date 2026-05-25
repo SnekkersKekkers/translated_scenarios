@@ -40,7 +40,7 @@ VoicePlay("B150800300_08_060");
 MsgDisp("Shirahane","It's easier to understand if I'm blunt right?");
 ChMotion(8,0,1);
 VoicePlay("B150800300_08_070");
-MsgDisp("Shirahane","I don't want to do that, so I'm telling you
+MsgDisp("Shirahane","I don't wanna do that, so I'm telling you
 directly.");
 ChEye(8,3);
 ChMouth(8,3);

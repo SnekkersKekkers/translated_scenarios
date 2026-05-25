@@ -8,7 +8,7 @@ BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
 ChOpen(8,254,2,0,4,#1,#1,0,0);
 VoicePlay("M010800000_08_000");
-MsgDisp("Shirahane","I'm coming in—...");
+MsgDisp("Shirahane","I'm comin' in—...");
 MsgDisp("主人公","Eh∋
 ｛Daichi＊＊｝, why...?");
 ChEye(8,2);
@@ -45,7 +45,7 @@ VoicePlay("M010800000_08_050");
 MsgDisp("Shirahane","No lie?");
 MsgDisp("主人公","Mm.");
 VoicePlay("M010800000_08_060");
-MsgDisp("Shirahane","Starting next week we'll meet again?");
+MsgDisp("Shirahane","Startin' next week we'll meet again?");
 MsgDisp("主人公","Hehe, I'll go to work too.");
 ChEye(8,3);
 ChMouth(8,3);
@@ -53,7 +53,7 @@ ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("M010800000_08_070");
 MsgDisp("Shirahane","Heheh, that's good!
-I'll be waiting for ya.");
+I'll be waitin' for ya.");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,0,1);

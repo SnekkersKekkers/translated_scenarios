@@ -31,7 +31,7 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("P240D01000_22_000");
 MsgDisp("Hikaru","That was nice...
-I wanted to be Purple Angel");
+Hikaru wanted to be Purple Angel.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -64,7 +64,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P240D01000_22_030");
-MsgDisp("Hikaru","I mean, even if we don't go on stage,
+MsgDisp("Hikaru","You know, even if we don't go on stage,
 Hikaru and the others are always Cupids
 for love. But only for Mari♪");
 ChEye(21,0);
@@ -83,7 +83,7 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("P240D01000_22_040");
 MsgDisp("Hikaru","Hikaru too!
-I want to make love bloom in Mari's
+Hikaru wants to make love bloom in Mari's
 innocent heart▼");
 MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝...
 Thank you!");

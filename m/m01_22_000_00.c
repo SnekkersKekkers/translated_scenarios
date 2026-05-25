@@ -7,7 +7,7 @@ MsgClose();
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 ChOpen(22,255,0,0,2,#1,#1,0,0,0,90);
 VoicePlay("M012200000_22_000");
-MsgDisp("Hikaru","I'm coming iiin...");
+MsgDisp("Hikaru","Coming iiin...");
 MsgDisp("主人公","｛ひかる＊｝ !");
 ChEye(22,0);
 ChMouth(22,2);
@@ -39,9 +39,8 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("M012200000_22_050");
-MsgDisp("Hikaru","Do hurry and get better.
-At school, like, I wanna talk and hang out
-and stuff.");
+MsgDisp("Hikaru","Get better quickly, okay?  Hikaru wants to
+chat and hang out at school again.");
 MsgDisp("主人公","Yeah.
 I think next week I'll be able to go to
 school, so wait for me.");
@@ -55,22 +54,22 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("M012200000_22_070");
-MsgDisp("Hikaru","Ah, that's right. I gave a potpourri made
-from herbs and flowers to your mom. It's
-good for when you're tired.");
+MsgDisp("Hikaru","Ah, that's right. Hikaru gave a potpourri
+made from herbs and flowers to your mom.
+It's good for when you're sick.");
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("M012200000_22_080");
-MsgDisp("Hikaru","When you can be awake again, try keeping
+MsgDisp("Hikaru","When you're back on your feet, try keeping
 it in your room.
-I'm sure it'll pep you up!");
+Hikaru's sure it'll pep you up!");
 MsgDisp("主人公","Thanks, ｛ひかる＊｝.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("M012200000_22_090");
 MsgDisp("Hikaru","...Eheh.
-Then, I'm about to go, kay?
+Then, Hikaru's going to go, kay?
 Mari, take care.");
 MsgClose();
 SEPlay("EV_SE_690",0.1,0.2);

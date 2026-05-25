@@ -9,7 +9,7 @@ ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("U212200000_22_000");
 MsgDisp("Hikaru","Hey.
-Can you give me your hand?");
+Can you give Hikaru your hand?");
 MsgDisp("主人公","What?
 ...Jewelry?");
 ChMotion(22,0,1);

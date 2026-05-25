@@ -41,7 +41,7 @@ I'll be able to see it if I look closely?");
     ChMotion(8,0,1);
     ChCheek(8,3);
     VoicePlay("B040822101_08_030");
-    MsgDisp("Shirahane","That's right. It's moving to think that even
+    MsgDisp("Shirahane","That's right. It's movin' to think that even
 now, as we talk, it will someday become a
 thing of the past.");
     MsgDispSksp(1,0);

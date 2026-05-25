@@ -66,7 +66,7 @@ When I'm with you, I get strangely worked up.");
 High.");
         ChMotion(8,2,1);
         VoicePlay("B040811102_08_070");
-        MsgDisp("Shirahane","I've been thinking recently; if I had went to
+        MsgDisp("Shirahane","I've been thinkin' recently; if I had went to
 Haba High, our relationship would've been
 completely different by now.");
         MsgDisp("主人公","｛Daichi＊＊｝...");
@@ -105,7 +105,7 @@ Give me your hand!");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("B040811102_08_100");
-    MsgDisp("Shirahane","You're good at playing along!
+    MsgDisp("Shirahane","You're good at playin' along!
 If we ran together, we might be able to set a
 new record!");
     MsgDispSksp(1,8);

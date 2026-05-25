@@ -7,6 +7,6 @@ ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B060800010_08_000");
 MsgDisp("Shirahane","Sorry!
-This is not the kind of date I wanted to
+This is not the kinda date I wanted to
 have...");
 MsgDispSksp(0);

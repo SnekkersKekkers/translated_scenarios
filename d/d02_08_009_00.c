@@ -69,7 +69,7 @@ MsgDisp("主人公","...Eh?");
 VoicePlay("D020800900_08_060");
 MsgDisp("Shirahane","I'm gonna be your number one.
 But don't worry your head over it.
-You don't have to quit suddenly too.");
+You don't hafta quit suddenly too.");
 MsgDisp("主人公","I...");
 MsgSel("I'll quit working at the gas station.","I'll cheer ｛Daichi＊＊｝ on!");
 switch (MsgSelRsltGet()){
@@ -108,7 +108,7 @@ Just knowin' that you're cheerin' me on makes
 me feel energized.");
     MsgDisp("主人公","Hehe.");
     VoicePlay("D020800900_08_120");
-    MsgDisp("Shirahane","So you're going to keep working.
+    MsgDisp("Shirahane","So you're goin' to keep workin'.
 Take it easy, okay?
 I'm not there ta help ya anymore...");
     MsgDisp("主人公","Yeah.
@@ -117,7 +117,7 @@ keep working hard!");
     VoicePlay("D020800900_08_130");
     MsgDisp("Shirahane","That's it.
 I'll be right there with ya, giving it my all
-studying for the entrance exams.");
+studyin' for the entrance exams.");
     VoicePlay("D020800900_08_140");
     MsgDisp("Shirahane","Ah...
 But can we go on a date once in a while?

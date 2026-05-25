@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160800000_08_000");
 MsgDisp("Shirahane","What's wrong?
-You're looking at me intently.");
+You're lookin' at me intently.");
 MsgSel("It's nothing","I just wanted to stare.");
 switch (MsgSelRsltGet()){
     case 0:

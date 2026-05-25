@@ -17,7 +17,7 @@ Then, let's go.");
     ChEyeOpenLevel(8,0);
     VoicePlay("F010800005_08_010");
     MsgDisp("Shirahane","Yeah!
-I want to talk to ya the whole time.");
+I wanna talk to ya the whole time.");
     MsgDisp("主人公","Hehe.
 Then, let's go!");
     break ;

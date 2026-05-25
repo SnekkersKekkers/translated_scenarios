@@ -12,7 +12,7 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("L010D00101_22_000");
-MsgDisp("Hikaru","I know what you mean～!
+MsgDisp("Hikaru","Hikaru gets it～!
 It's natural and girly♪");
 MsgDisp("主人公","Yeah, they came out great!");
 MsgClose();

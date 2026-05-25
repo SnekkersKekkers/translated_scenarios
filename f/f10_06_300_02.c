@@ -72,9 +72,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100630002_22_030");
-MsgDisp("Hikaru","Ah, wait a minute!
-If you're going to call me anything, I
-think it should be cuter, right～?");
+MsgDisp("Hikaru","Ah, wait a minute! If you're going to call
+Hikaru anything, it should be something
+cuter, right～?");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -116,7 +116,7 @@ ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100630002_22_060");
 MsgDisp("Hikaru","Ah!
-You were quick to call me that!
+You were quick to call Hikaru that!
 Yay♪");
 ChEye(6,0);
 ChMouth(6,1);

@@ -11,7 +11,7 @@ ChOpen(8,255,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛Daichi＊＊｝!");
 VoicePlay("E010810000_08_010");
 MsgDisp("Shirahane","What a coincidence.
-Are you shopping too?");
+Are you shoppin' too?");
 MsgDisp("主人公","Yeah.
 ｛Daichi＊＊｝, is that food?");
 ChEye(8,3);
@@ -55,7 +55,7 @@ ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("E010810000_08_060");
-MsgDisp("Shirahane","It's getting late so be careful going
+MsgDisp("Shirahane","It's gettin' late, so be careful goin'
 home. A delicious dinner awaits you. See
 ya!");
 MsgClose();

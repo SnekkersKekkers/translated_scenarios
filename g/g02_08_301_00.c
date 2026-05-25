@@ -14,7 +14,7 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("G020830100_08_010");
 MsgDisp("Shirahane","You have a lot of friends, don't ya?
-I can tell just by hearing you talk.");
+I can tell just by hearin' you talk.");
 MsgDisp("主人公","Friends...
 Yeah, I guess I have a lot.");
 ChEye(8,0);

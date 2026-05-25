@@ -50,8 +50,8 @@ It's because everyone did their best.");
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("H1A2200000_22_030");
-    MsgDisp("Hikaru","I'm sure the baseball club did their best
-because Mari was their manager♪
+    MsgDisp("Hikaru","Hikaru's sure the baseball club did their
+best because Mari was their manager♪
 Aha▼");
     MsgDisp("主人公","That's...");
     ChEye(22,3);

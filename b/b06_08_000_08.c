@@ -6,6 +6,6 @@ ChMouth(8,3);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B060800008_08_000");
-MsgDisp("Shirahane","Thanks very much fer coming with me.
+MsgDisp("Shirahane","Thanks very much fer comin' with me.
 I hope ya had fun.");
 MsgDispSksp(0);

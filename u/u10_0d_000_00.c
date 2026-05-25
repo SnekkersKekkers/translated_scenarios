@@ -37,7 +37,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("U100D00000_22_020");
     MsgDisp("Hikaru","Yay!
 This will be so fun.
-I want to go home already♪");
+Hikaru wants to go home already♪");
     ChEye(21,4);
     ChMouth(21,3);
     ChMotion(21,0);
@@ -50,8 +50,8 @@ Well then, see you after school.");
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("U100D00000_22_030");
-    MsgDisp("Hikaru","I have a lot of things I want to ask you▼
-Are you prepared?
+    MsgDisp("Hikaru","Hikaru has a lot of things to ask you▼ 
+Are you prepared? 
 A bientot! Mari!");
     MsgDisp("主人公","(A sleepover at ｛みちる＊｝ and
 ｛ひかる＊｝'s home.
@@ -78,7 +78,7 @@ We'll try again some other time.");
     ChMouth(22,2);
     ChMotion(22,0,1);
     VoicePlay("U100D00000_22_050");
-    MsgDisp("Hikaru","Well, I guess it can't be helped～
+    MsgDisp("Hikaru","Well, suppose it can't be helped～
 Next time, okay Mari?");
     MsgDisp("主人公","(Even though they went through the trouble
 of inviting me...did I make the right

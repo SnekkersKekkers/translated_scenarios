@@ -10,7 +10,7 @@ MsgDisp("主人公","Hehe.");
 ChEye(8,3);
 ChMouth(8,4);
 VoicePlay("G020810301_08_010");
-MsgDisp("Shirahane","Just by shining brightly without doing
+MsgDisp("Shirahane","Just by shining brightly without doin'
 anything, it captivates people's eyes...");
 ChEye(8,3);
 ChMouth(8,3);
@@ -23,7 +23,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChCheek(8,6);
 VoicePlay("G020810301_08_030");
-MsgDisp("Shirahane","You always look sparkling too, you know?");
+MsgDisp("Shirahane","You always look sparklin' too, you know?");
 MsgDisp("主人公","｛Daichi＊＊｝ is the one who always
 shines?");
 ChEye(8,0);
@@ -46,14 +46,14 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("G020810301_08_060");
 MsgDisp("Shirahane","...But, it feels good to smile, right?
-I always want to feel happy.");
+I always wanna feel happy.");
 MsgDisp("主人公","I see");
 ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("G020810301_08_070");
 MsgDisp("Shirahane","Hehe!
-I guess that's why I'm smiling even now?");
+I guess that's why I'm smilin' even now?");
 MsgDisp("主人公","(Hehe!
 ｛Daichi＊＊｝ is a really bright person.)");
 BGMStop();

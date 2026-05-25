@@ -21,7 +21,7 @@ MsgDisp("Shirahane","Bet.");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("D020800400_08_020");
-MsgDisp("Shirahane","Ya really are such an honest, hard-working
+MsgDisp("Shirahane","Ya really are such an honest, hard-workin'
 person, an honor student too...
 It's inspiring.");
 MsgDisp("主人公","But ｛Daichi＊＊｝ is the same way.");
@@ -30,7 +30,7 @@ ChMouth(8,3);
 ChMotion(8,2,1);
 VoicePlay("D020800400_08_030");
 MsgDisp("Shirahane","I'm no match for you.
-I'm honest and hard-working, but I'm not an
+I'm honest and hard-workin', but I'm not an
 honor student.");
 MsgDisp("主人公","Really?");
 ChEye(8,2);
@@ -38,7 +38,7 @@ ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("D020800400_08_040");
 MsgDisp("Shirahane","Hmm.
-If we're talking about Hane High, I'm at the
+If we're talkin' about Hane High, I'm at the
 top of the list but...");
 MsgDisp("主人公","Eh, that's amazing!");
 ChEye(8,3);
@@ -55,14 +55,14 @@ ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("D020800400_08_060");
 MsgDisp("Shirahane","I just enrolled in the same school as my bro
-without thinking about it, but maybe I
+without thinkin' about it, but maybe I
 should've done it differently?");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,2,1);
 VoicePlay("D020800400_08_070");
 MsgDisp("Shirahane","Us two in the same school...
-That's interesting...");
+That's interestin'...");
 MsgDisp("主人公","(It's interesting to me too...)");
 BGMStop();
 MsgClose();

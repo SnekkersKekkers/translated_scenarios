@@ -10,12 +10,12 @@ switch (ChPrmGet(8,6)){
     MsgDisp("主人公","Hello, ｛Daichi＊＊｝?");
     VoicePlay("S040800000_08_000");
     MsgDisp("Shirahane","Yo!
-Happy New Years!");
+Happy New Year!");
     MsgDisp("主人公","Happy New Years!
 Please treat me well this year, too.");
     VoicePlay("S040800000_08_010");
     MsgDisp("Shirahane","Same to you.
-Hey, want to go to the shrine now?");
+Hey, wanna go to the shrine now?");
     MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -82,7 +82,7 @@ Haha!");
 I'll come getcha from your house.
 So get ready and wait.");
         VoicePlay("S040800000_08_110");
-        MsgDisp("Shirahane","Ah, I guess if ya want to dress up it'll
+        MsgDisp("Shirahane","Ah, I guess if ya wanna dress up it'll
 take a while...I'll come slowly. See you
 later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");

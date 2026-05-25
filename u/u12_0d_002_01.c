@@ -6,8 +6,7 @@ StlMouth(22,2);
 StlCheek(22,0);
 VoicePlay("U120D00201_22_000");
 MsgDisp("Hikaru","Huh～∋
-Then I guess his love is kinda
-unrequited...");
+Then his love is kinda unrequited...");
 MsgDisp("主人公","Huh...
 What do you mean?");
 StlEyeOpenLevel(21,#1);

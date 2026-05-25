@@ -28,7 +28,7 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("T022200000_22_030");
-MsgDisp("Hikaru","This will be my last time attending
+MsgDisp("Hikaru","This will be Hikaru's last time attending
 Habataki High School.");
 MsgDisp("主人公","It really is...");
 ChEye(22,4);
@@ -36,7 +36,7 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_040");
 MsgDisp("Hikaru","It was truly a fulfilling time.
-It was the best time of my life!");
+It was the best time of Hikaru's life!");
 MsgDisp("主人公","Right.");
 ChEye(22,0);
 ChMouth(22,3);
@@ -55,15 +55,15 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("T022200000_22_070");
-MsgDisp("Hikaru","But I was only happy to start with.");
+MsgDisp("Hikaru","But Hikaru was only happy to start with.");
 MsgDisp("主人公","Why?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("T022200000_22_080");
-MsgDisp("Hikaru","...I actually got bored when I had no
-hardships and it's all just happy.
+MsgDisp("Hikaru","...Hikaru actually got bored when there
+were no hardships and it was all just happy.
 Aha▼");
 ChEye(22,0);
 ChEyeOpenLevel(22,10);
@@ -72,17 +72,16 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_090");
-MsgDisp("Hikaru","I thought that even when I entered high
-school, I would just continue to go with
-the flow like this.");
+MsgDisp("Hikaru","Hikaru thought that even when she
+entered high school, she would just
+continue to go with the flow like this.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("T022200000_22_100");
-MsgDisp("Hikaru","Since I met Mari, I've had so many
-first-time experiences with love, fashion,
-and even as a best friend, and every day
-has been exciting.♪");
+MsgDisp("Hikaru","Since Hikaru met Mari, she's had so many 
+first-time experiences with love, fashion, 
+and friendship. Every day was exciting.♪");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -112,23 +111,23 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_140");
 MsgDisp("Hikaru","Mari...
-I'm so happy...!");
+Hikaru's so happy...!");
 MsgDisp("主人公","｛ひかる＊｝...");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("T022200000_22_150");
-MsgDisp("Hikaru","I'm sorry for calling you\"Mari\" without
-permission when we first met.");
+MsgDisp("Hikaru","Sorry for calling you \"Mari\"
+without permission when we first met.");
 MsgDisp("主人公","Ah...that's right.
 Why was that?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_160");
-MsgDisp("Hikaru","I called you that because the image of
-cuteness and happiness suddenly came to
-mind when I saw you.");
+MsgDisp("Hikaru","Hikaru called you that because the image
+of cuteness and happiness suddenly came to
+mind when Hikaru saw you.");
 MsgDisp("主人公","I-I see.");
 ChEye(22,0);
 ChMouth(22,0);

@@ -23,7 +23,7 @@ ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("P040D00001_22_010");
-MsgDisp("Hikaru","I'll be blunt, okay?
+MsgDisp("Hikaru","Hikaru will be blunt, okay?
 ...It's bad.");
 ChEye(21,4);
 ChMouth(21,0);

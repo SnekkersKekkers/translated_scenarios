@@ -34,7 +34,7 @@ ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("P840D00000_22_020");
 MsgDisp("Hikaru","Ah, Hikaru's tea has an upright tea stalk!
-I'm super happy～▼");
+Super happy～▼");
 MsgDisp("主人公","(Yay!
 Seems like preparations went well!)");
 MsgClose();

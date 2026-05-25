@@ -54,7 +54,7 @@ student and teacher.");
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);
     VoicePlay("U130D00006_22_020");
-    MsgDisp("Hikaru","As of now, I don't think that
+    MsgDisp("Hikaru","As of now, Hikaru doesn't think that
 Mikage-sensei has any special feelings for
 Mari, but he does like Mari.♪");
     StlEyeOpenLevel(21,5,1);

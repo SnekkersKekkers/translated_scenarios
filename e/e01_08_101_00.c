@@ -49,7 +49,7 @@ ChEye(8,3);
 ChMotion(8,3,1);
 VoicePlay("E010810100_08_050");
 MsgDisp("Shirahane","Hehe.
-By the way, do you also want to celebrate?");
+By the way, do you also wanna celebrate?");
 ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","Eh?");
 ChEye(8,0);
@@ -64,7 +64,7 @@ MsgDisp("主人公","Really?
 ChEye(8,1);
 ChMouth(8,3);
 VoicePlay("E010810100_08_070");
-MsgDisp("Shirahane","Next time I'll be helping the soccer club,
+MsgDisp("Shirahane","Next time I'll be helpin' the soccer club,
 I'll be sure to win that one too.");
 MsgDisp("主人公","Huh?
 I think that goes way beyond the duties of
@@ -78,7 +78,7 @@ I enjoy sports, so I'm happy to contribute
 to Hane High's victories.");
 ChMotion(8,1,1);
 VoicePlay("E010810100_08_090");
-MsgDisp("Shirahane","I'll be going to the baseball club's
+MsgDisp("Shirahane","I'll be goin' to the baseball club's
 celebration now.
 Next up is sukiyaki ▼");
 MsgClose();

@@ -7,7 +7,7 @@ SEPlay("EV_SE_544");
 ChOpen(8,254,0,0,3,#1,#1,0,0);
 VoiceEVSPlay(8);
 VoicePlay("D010800300_08_000");
-MsgDisp("Shirahane","｛主人公｝, I've been waiting for ya!");
+MsgDisp("Shirahane","｛主人公｝, I've been waitin' for ya!");
 MsgDisp("主人公","Ah, ｛Daichi＊＊｝!");
 ChEye(8,3);
 ChMouth(8,3);
@@ -80,7 +80,7 @@ ChMotion(8,0,1);
 VoicePlay("D010800300_08_090");
 MsgDisp("Shirahane","Well, this is the last time I'll rely on its
 special powers.
-I have to get a perfect score on my own.");
+I hafta get a perfect score on my own.");
 MsgDisp("主人公","Right?");
 ChEye(8,3);
 ChMouth(8,3);

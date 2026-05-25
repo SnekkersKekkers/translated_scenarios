@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("U100D00002_22_000");
 MsgDisp("Hikaru","Hii～ i, Mari▼
-I found you!");
+Found you!");
 MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 What's up?");
 ChMotion(22,4,1);
@@ -63,7 +63,7 @@ helped.");
     ChMotion(22,2,1);
     VoicePlay("U100D00002_22_040");
     MsgDisp("Hikaru","Siigh...
-I wanted to have girl talk...");
+Hikaru wanted to have girl talk...");
     MsgClose();
     SEPlay("EV_SE_856");
     BGMStop();
