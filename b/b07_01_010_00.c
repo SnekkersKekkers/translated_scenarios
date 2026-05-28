@@ -45,7 +45,7 @@ VoicePlay("B070101000_01_040");
 MsgDisp("Kazama","Ever since then, I've been thinking about it.
 It might've been unconscious, but I thought
 about why you'd ask me that.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -65,7 +65,7 @@ ChMotion(1,0);
 VoicePlay("B070101000_01_070");
 MsgDisp("Kazama","...How about it?");
 MsgDisp("主人公","Ummm...before, I just wanted to ask a little
-about ｛風真＊＊｝'s views on love.
+about ｛Kazama＊＊｝'s views on love.
 I didn't really think about it carefully.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -90,7 +90,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070101000_01_100");
 MsgDisp("Kazama","Haa—, fine.
 Maybe I'm observing you too much.");
-MsgDisp("主人公","But, it could also be as ｛風真＊＊｝ thinks—");
+MsgDisp("主人公","But, it could also be as ｛Kazama＊＊｝ thinks—");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -104,7 +104,7 @@ VoicePlay("B070101000_01_120");
 MsgDisp("Kazama","...I'm more serious about you than anything
 or anyone.
 Just don't forget that.");
-MsgDisp("主人公","｛風真＊＊｝...");
+MsgDisp("主人公","｛Kazama＊＊｝...");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
@@ -122,7 +122,7 @@ MsgDisp("主人公","Thanks for walking me home.");
 ChEyeOpenLevel(1,#1);
 VoicePlay("B070101000_01_130");
 MsgDisp("Kazama","Yeah.");
-MsgDisp("主人公","｛風真＊＊｝, I'll think about you properly.");
+MsgDisp("主人公","｛Kazama＊＊｝, I'll think about you properly.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -139,6 +139,6 @@ MsgDisp("Kazama","I'll go cool down, see you later.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(｛風真＊＊｝...)");
+MsgDisp("主人公","(｛Kazama＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);
