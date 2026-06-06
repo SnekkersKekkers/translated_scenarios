@@ -37,7 +37,7 @@ They were there...they were there∋");
         MsgDisp("Nanatsumori","Eh?
 What's with that reaction?
 They were there.");
-        MsgDisp("主人公","There were so many that I couldn't see them.");
+        MsgDisp("主人公","I didn't really see that many, though...");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,1,1);

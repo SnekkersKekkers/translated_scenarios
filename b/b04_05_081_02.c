@@ -91,8 +91,8 @@ thing, hanami dango.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("B040508102_05_080");
-    MsgDisp("Hiiragi","That cannot be helped.
-Don't ask for unreasonable things.");
+    MsgDisp("Hiiragi","Well, that can't be helped.
+Don't go asking for the impossible.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

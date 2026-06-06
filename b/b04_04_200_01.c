@@ -27,8 +27,7 @@ Don't just say nonsense.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040420001_04_020");
-    MsgDisp("Nanatsumori","Our pacing is a bit off but...well, let's
-skate.");
+    MsgDisp("Nanatsumori","Our pace is kinda iffy but...well, let's ski.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

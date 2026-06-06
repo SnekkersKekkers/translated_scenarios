@@ -5,8 +5,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040517000_05_000");
-MsgDisp("Hiiragi","It seems you're up next.
-Please go ahead.");
+MsgDisp("Hiiragi","Looks like you've already decided.
+Please, go ahead.");
 MsgSel("I want to hear ｛Hiiragi＊＊＊｝'s beautiful voice","Let's do a duet together.","Please listen to my song.");
 switch (MsgSelRsltGet()){
     case 0:

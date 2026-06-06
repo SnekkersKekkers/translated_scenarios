@@ -93,7 +93,7 @@ with someone other than you?");
         VoicePlay("B040603202_06_090");
         MsgDisp("Himuro","The person you'd see me with, as a penguin,
 is Reiichi-san.");
-        MsgDisp("主人公","Reiichi-san...you mean vice president Himuro?");
+        MsgDisp("主人公","Reiichi-san...you mean Vice Principal Himuro?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);

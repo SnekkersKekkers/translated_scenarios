@@ -42,9 +42,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360602301_06_050");
-MsgDisp("Himuro","I get interrupted, or there's distance
-between us.
-It makes me nervous.");
+MsgDisp("Himuro","Getting cut off, or having space between us—
+it drives me up the wall.");
 MsgDisp("主人公","Is that so?");
 ChEye(6,2);
 ChMouth(6,0);

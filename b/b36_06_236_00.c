@@ -71,7 +71,7 @@ ChMouth(6,3);
 ChMotion(6,3);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360623600_06_080");
-MsgDisp("Himuro","Haha...
+MsgDisp("Himuro","Haa...
 I'm definitely one of those men too.");
 MsgDisp("主人公","(｛Himuro＊＊｝, looks a little happy?)");
 BGMStop();

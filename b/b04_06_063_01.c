@@ -37,7 +37,7 @@ fall.");
     ChMotion(6,4);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040606301_06_030");
-    MsgDisp("Himuro","...Isn't your spatial awareness awful?");
+    MsgDisp("Himuro","...Aren't you a little too careless?");
     MsgDateResultDisp();
     break ;
     default :

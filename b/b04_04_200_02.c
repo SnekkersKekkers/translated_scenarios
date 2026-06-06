@@ -50,7 +50,7 @@ me—...");
         ChMotion(4,0,1);
         VoicePlay("B040420002_04_050");
         MsgDisp("Nanatsumori","...Hey.
-Is it unattractive to not skate coolly?");
+Is it uncool if you can't ski stylishly?");
         MsgDisp("主人公","Hm?");
         ChEye(4,2);
         ChMotion(4,2,1);
