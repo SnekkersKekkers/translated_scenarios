@@ -9,8 +9,8 @@ BGMPlay("BGM_C07_MIKAGE_A",0.01);
 MsgClose();
 ChOpen(7,253,0,0,0,#1,#1,0,0);
 VoicePlay("B010700000_07_000");
-MsgDisp("Mikage","Looks like there's no problem here.
-We're perfectly okay.");
+MsgDisp("Mikage","Looks like nothing happened to you.
+If you're safe, that's all that matters.");
 MsgDisp("主人公","Sorry...");
 ChEye(7,0);
 ChMouth(7,0);

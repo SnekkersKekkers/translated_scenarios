@@ -9,8 +9,8 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020100002_01_010");
-MsgDisp("Kazama","You don't need to doubt it because I'm the
-one saying it.");
+MsgDisp("Kazama","And if I'm the one saying it, you know
+it's true.");
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);

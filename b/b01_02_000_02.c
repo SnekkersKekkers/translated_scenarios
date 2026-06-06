@@ -54,7 +54,7 @@ It's just how I feel.");
     ChEyeOpenLevel(2,0);
     VoicePlay("B010200002_02_050");
     MsgDisp("Sassa","Haha, fine by me.
-This can be our new sport.");
+Let's make it into a competition.");
     MsgDispSksp(0);
     break ;
     case 4:

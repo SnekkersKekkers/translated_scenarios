@@ -13,8 +13,7 @@ switch (ChPrmGet(6,6)){
     MsgClose();
     ChOpen(6,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010600000_06_000");
-    MsgDisp("Himuro","The amount of time you wasted is
-extraordinary.
+    MsgDisp("Himuro","Wasting people's time like that...Wow.
 Don't let there be a next time.");
     MsgDisp("主人公","...Okay.");
     MsgDispSksp(1,0);

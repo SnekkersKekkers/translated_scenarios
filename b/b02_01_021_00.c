@@ -9,15 +9,14 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102100_01_010");
-MsgDisp("Kazama","When you look that good, I can't even take my
+MsgDisp("Kazama","When you look that good, I can't take my
 eyes off of you.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B020102100_01_020");
-MsgDisp("Kazama","I'm begging you, please don't let any weirdos
-get near.
-Chasing them away is a pain.");
+MsgDisp("Kazama","Just do me a favor and don't go drawing 
+in any weirdos. Shooing them away is a pain.");
 MsgDisp("主人公","(Awesome!
 Seems like he was really happy!)");

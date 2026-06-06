@@ -42,7 +42,7 @@ Alright, let's go.");
     VoicePlay("B010200001_02_030");
     MsgDisp("Sassa","Sorry!
 I made you wait.");
-    MsgDisp("主人公","I did wait some.");
+    MsgDisp("主人公","Yeah, I waited a little.");
     ChEye(2,4);
     ChMouth(2,0);
     ChMotion(2,1);
@@ -95,8 +95,7 @@ Were you not looking forward to this?");
     ChMotion(2,3);
     VoicePlay("B010200001_02_090");
     MsgDisp("Sassa","I see, I'm glad.
-Well, I'll just have to make a full recovery
-from this today!");
+Well then, I'll just have to make it up to you today!");
     MsgDispSksp(1,0);
     ChEye(2,0);
     ChMouth(2,4);

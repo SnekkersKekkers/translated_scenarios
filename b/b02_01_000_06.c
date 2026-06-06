@@ -4,7 +4,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020100006_01_000");
 MsgDisp("Kazama","That outfit...
-What are you trying to accomplish?");
+What are you going for?");
 MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,2);

@@ -73,8 +73,9 @@ time?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B010200000_02_070");
-    MsgDisp("Sassa","Then next time, make sure you're on time.
-That way, today's lateness gets overwritten.");
+    MsgDisp("Sassa","Then next time, just make sure you're 
+on time. That way, today's lateness won't 
+count anymore.");
     MsgDispSksp(1,0);
     ChEye(2,0);
     ChMouth(2,4);
