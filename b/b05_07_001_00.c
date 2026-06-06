@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("B050700100_07_000");
 MsgDisp("Mikage","Then, I'll walk you home.
-...We can talk whilst walking.");
+...We can talk while we walk.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
 MsgClose();
 ScrFadeOut(0);

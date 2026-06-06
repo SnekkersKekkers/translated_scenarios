@@ -28,7 +28,7 @@ MsgDisp("Nanatsumori","What day it is today?");
 MsgDisp("主人公","The 25th of December, so Christmas Day?");
 VoicePlay("B140400000_04_030");
 MsgDisp("Nanatsumori","What about yesterday?");
-MsgDisp("主人公","Christmas eve.
+MsgDisp("主人公","Christmas Eve.
 The school Christmas party was fun, huh?");
 ChEye(4,0);
 ChMouth(4,3);

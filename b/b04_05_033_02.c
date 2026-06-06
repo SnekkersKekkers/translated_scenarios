@@ -83,7 +83,7 @@ you.");
         ChMotion(5,0);
         VoicePlay("B040503302_05_100");
         MsgDisp("Hiiragi","Then, shall we keep holding hands like this
-whilst walking around?");
+while we walk around?");
         MsgDisp("主人公","(Affections towards me...
 I might've unintentionally heard something
 huge.)");

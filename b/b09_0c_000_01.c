@@ -7,7 +7,7 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090C00000_05_000");
 MsgDisp("Hiiragi","...Hm?
-I was instructed to leave a message.
+It says to leave a message after the tone.
 What should we do?");
 VoicePlay("B090C00000_06_000");
 MsgDisp("Himuro","Don't tell me she's still sleeping?");

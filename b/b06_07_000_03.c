@@ -3,7 +3,7 @@ ChLayout(1);
 ChEye(7,0);
 ChMouth(7,0);
 ScrFadeIn(0);
-MsgDisp("主人公","I learned a lot on today's extracurricular
+MsgDisp("主人公","I learned a lot in today's extracurricular
 lesson!");
 ChEye(7,2);
 ChMouth(7,0);

@@ -29,7 +29,7 @@ For now, let's just watch the fireworks?");
     ChMotion(4,1,1);
     VoicePlay("B040406501_04_020");
     MsgDisp("Nanatsumori","Ah...
-It'll be a pity to wake up.");
+It'd be a shame to wake up from this.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
