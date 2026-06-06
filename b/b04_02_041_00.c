@@ -34,8 +34,8 @@ It was a pretty good match.");
     ChMotion(2,2);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040204100_02_020");
-    MsgDisp("Sassa","If this one was bad, none of the rest will
-suffice either.");
+    MsgDisp("Sassa","If this match was bad, none of them
+would ever satisfy you.");
     MsgDateResultDisp();
     break ;
     default :

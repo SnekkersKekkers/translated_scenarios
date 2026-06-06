@@ -28,8 +28,8 @@ Come on, go for another one.");
     ChMotion(1,3);
     VoicePlay("B040115101_01_020");
     MsgDisp("Kazama","Maybe?
-It's not that. ...Nothing will come out of it
-even if you act cute?");
+That's not it. ...Acting cute won't get you
+anywhere, you know.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

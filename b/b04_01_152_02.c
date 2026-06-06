@@ -100,7 +100,7 @@ Maybe I can beat ｛Kazama＊＊｝?");
         VoicePlay("B040115202_01_070");
         MsgDisp("Kazama","That won't do.
 I won't let you see me lose.
-That is my promise.");
+That's a promise.");
         SEPlay("EV_SE_086");
         Wait(15,1);
         SEPlay("EV_SE_869");

@@ -40,7 +40,7 @@ Oi, where are you from, veteran guide∋");
     ChMotion(1,3);
     VoicePlay("B040120001_01_030");
     MsgDisp("Kazama","Yeah, then it's decided.
-Why haven't I noticed that until now?");
+How did I not notice that until now!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

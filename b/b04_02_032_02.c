@@ -21,9 +21,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040203202_02_010");
-        MsgDisp("Sassa","I just read it on that poster.
-You don't need to force yourself to praise
-me.");
+        MsgDisp("Sassa","I just read it off that poster.
+No need to go out of your way to flatter me.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -47,17 +46,16 @@ city that you don't.");
         ChMotion(2,3);
         VoicePlay("B040203202_02_040");
         MsgDisp("Sassa","Yeah.
-It makes me want to start learning more bits
-of information.");
-        MsgDisp("主人公","Hehe, ｛Sassa＊＊｝ can gather information by
-foot.");
+It makes me want to dig up more stuff like this.");
+        MsgDisp("主人公","Hehe, ｛Sassa＊＊｝ doing real legwork for a story
+would be something.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040203202_02_050");
-        MsgDisp("Sassa","By foot?
-Okay, next time let's go together to Mt.
-Habataki to gather information!");
+        MsgDisp("Sassa","Legwork, huh?
+Alright, next time let's go cover
+Habataki Mountain together!");
         MsgDisp("主人公","Hehe, but isn't that just like a normal date?");
         ChEye(2,0);
         ChMouth(2,3);

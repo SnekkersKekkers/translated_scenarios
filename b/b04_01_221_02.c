@@ -44,7 +44,7 @@ Being a lord is tough.");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,7);
         VoicePlay("B040122102_01_030");
-        MsgDisp("Kazama","Did you scheme something?");
+        MsgDisp("Kazama","Did you rig it?");
         MsgDateResultDisp();
         break ;
         case 4:

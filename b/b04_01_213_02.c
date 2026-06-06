@@ -74,8 +74,8 @@ Maybe there was a person inside?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121302_01_060");
         MsgDisp("Kazama","I know that, but I don't like that male dog.");
-        MsgDisp("主人公","It was a dog, so it's going to act like one.
-And also, she was a girl?");
+        MsgDisp("主人公","She's a dog, it can't be helped.
+And besides, she was a girl, you know?");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);

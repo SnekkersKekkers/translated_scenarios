@@ -17,7 +17,7 @@ ChMotion(1,3,1);
 VoicePlay("B150100500_01_010");
 MsgDisp("Kazama","Don't \"eh?\" me.
 I told you to do as you like, and now you're
-just going wild.");
+just going overboard.");
 MsgDisp("主人公","Wild?
 Sorry, that's not what I intended...");
 ChEye(1,2);

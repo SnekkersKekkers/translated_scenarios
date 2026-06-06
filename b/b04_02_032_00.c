@@ -6,7 +6,7 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040203200_02_000");
-MsgDisp("Sassa","Woah, this kind of place exists.");
+MsgDisp("Sassa","Huh, I didn't know a place like this existed.");
 MsgSel("It was on the news, right?","Maybe they made it in secret?","It's great when it's sunny, huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040203200_02_010");
-    MsgDisp("Sassa","Oh, am I the only one out of the loop?
-I should reflect on that.");
+    MsgDisp("Sassa","Oh, was I the only one who didn't know?
+Guess I need to pay more attention.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -38,8 +38,7 @@ They shouldn't make it and not tell us.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040203200_02_030");
-    MsgDisp("Sassa","In that case, today is the best day to be
-here.");
+    MsgDisp("Sassa","In that case, today couldn't be better!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

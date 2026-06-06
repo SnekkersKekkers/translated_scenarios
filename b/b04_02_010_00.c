@@ -16,9 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3,1);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040201000_02_010");
-    MsgDisp("Sassa","Yeah, that's a good thing.
-I feel like I completely understand your
-tastes.");
+    MsgDisp("Sassa","Yeah, nice.
+That's so totally your style.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,7 +40,7 @@ tastes.");
     ChMotion(2,4);
     VoicePlay("B040201000_02_030");
     MsgDisp("Sassa","I see.
-If you're certain then it can't be helped.");
+If you're that sure about it, then nothing I can do.");
     MsgDateResultDisp();
     break ;
     default :

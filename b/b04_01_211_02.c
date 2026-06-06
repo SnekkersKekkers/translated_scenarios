@@ -67,9 +67,9 @@ You wouldn't survive in the Savannah.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040121102_01_050");
-        MsgDisp("Kazama","You'd be easy to catch, so they'd target you.
-A spacey person like you is the perfect
-target.");
+        MsgDisp("Kazama","You'd be easy to catch, so they'd come for
+you. Someone spaced-out like you is the
+perfect target.");
         MsgDisp("主人公","Hey, that's not true.
 I'd survive just fine in the Savannah.");
         ChEye(1,3);
@@ -98,7 +98,7 @@ don't get along with?");
         ChMouth(1,3);
         ChMotion(1,0,1);
         VoicePlay("B040121102_01_090");
-        MsgDisp("Kazama","Well, there's no one right?");
+        MsgDisp("Kazama","See, there's nobody, right?");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,4);

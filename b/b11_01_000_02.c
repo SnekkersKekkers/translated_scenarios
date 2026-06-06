@@ -37,8 +37,8 @@ ChEye(35,0);
 ChMouth(35,0);
 ChEyeOpenLevel(35,0);
 VoicePlay("B110100002_35_040");
-MsgDisp("Guy","No more than this.
-Alright, let's settle here!");
+MsgDisp("Guy","That's as high as I'll go.
+Okay, deal!");
 ChPosition(35,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C01_RYOUTA_A",0.01);

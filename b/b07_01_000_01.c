@@ -14,8 +14,8 @@ ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("B070100000_01_020");
 MsgDisp("Kazama","Not interested. It's nothing but mindless
-shows. Especially variety shows?
-Pranks and stuff. Watching those puts me off.");
+shows. Variety shows especially.
+Pranks and all that. Watching it puts me off.");
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Sometimes they do pretty extreme stuff...");
 ChEye(1,0);
@@ -28,7 +28,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B070100000_01_040");
-MsgDisp("Kazama","Hey like \"Fish the World\".");
+MsgDisp("Kazama","Y'know, like \"Fish the World\".");
 MsgDisp("主人公","You like fishing shows?");
 ChEye(1,4);
 ChMouth(1,3);

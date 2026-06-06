@@ -11,10 +11,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100002_01_290");
-MsgDisp("Kazama","Seems like his little sister became
-interested in piercings when she was in
-Elementary school. Stuff like for you it
-was probably earlier.");
+MsgDisp("Kazama","Seems his little sister got into piercings
+back in elementary school. He figures you
+were probably even earlier than that.");
 MsgDisp("主人公","Aren't piercings a bit advanced for an
 elementary schooler?");
 ChEye(1,4);

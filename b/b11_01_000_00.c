@@ -13,7 +13,7 @@ SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110100000_33_000");
 MsgDisp("Guy","Hey, do you want to know?
-Or do you not want to?");
+Or would you rather not?");
 MsgDisp("主人公","Ehh∋
 ...Me?");
 ChEye(33,0);

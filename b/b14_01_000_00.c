@@ -27,8 +27,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B140100000_01_020");
-MsgDisp("Kazama","Yeah, this is the first time something like
-this has happened.");
+MsgDisp("Kazama","Yeah, this is a first for us.");
 MsgDisp("主人公","...I'm happy.");
 ChMotion(1,0);
 Wait(12,0);

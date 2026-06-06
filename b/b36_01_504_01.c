@@ -39,7 +39,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("B360150401_01_040");
-MsgDisp("Kazama","It would be nice to hold arms too, though.");
+MsgDisp("Kazama","I don't mind going arm-in-arm, you know.");
 MsgDisp("主人公","Let's see...
 Give me your paw then.");
 ChEye(1,0);

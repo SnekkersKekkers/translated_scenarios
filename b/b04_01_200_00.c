@@ -30,8 +30,8 @@ Seems like today will be fun.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040120000_01_020");
-        MsgDisp("Kazama","The ski slope is filled with holes.
-Just how hard do you have to fall?");
+        MsgDisp("Kazama","You're leaving craters all over the slope.
+Just how many times are you gonna wipe out?");
         MsgDateResultDisp();
         }
     break ;

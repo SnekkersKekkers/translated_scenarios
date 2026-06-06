@@ -22,7 +22,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B040206402_02_020");
 MsgDisp("Sassa","Yeah, it's really cool.
-It's like they've mastered a skill");
+It's like they've truly mastered a craft.");
 MsgDisp("主人公","｛Sassa＊＊｝ is a master too, though?");
 ChEye(2,0);
 ChMouth(2,4);

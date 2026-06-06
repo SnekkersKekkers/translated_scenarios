@@ -27,8 +27,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100002_01_360");
-MsgDisp("Kazama","What makes me seem like a girl?
-I can't accept it all.");
+MsgDisp("Kazama","What about me seems like one of the girls?
+I can't accept that at all.");
 MsgDisp("主人公","Umm, what you ask...");
 ChEye(1,4);
 ChMouth(1,2);

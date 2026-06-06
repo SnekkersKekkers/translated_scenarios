@@ -30,7 +30,7 @@ count on modern conveniences here.");
     VoicePlay("B040124200_01_020");
     MsgDisp("Kazama","Yeah, they were selling ingredients at the
 ranch.
-Let's have yakiniku, the two of us!");
+Let's grill up some meat, just the two of us!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -11,10 +11,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B070100002_01_160");
-MsgDisp("Kazama","Well rather than it being fun, it's more
-like it's easy to be around them.
-Nanatsumori doesn't pry so much, and Honda
-isn't like that to begin with.");
+MsgDisp("Kazama","Well, it's not so much fun as just easy being
+around them. Nanatsumori doesn't pry, and 
+Honda was never the type to anyway.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -57,7 +56,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_210");
-MsgDisp("Kazama","Then maybe, this time, right now?");
+MsgDisp("Kazama","Then maybe... right now, this moment?");
 MsgDisp("主人公","Yeah, me too.");
 ChEye(1,2);
 ChMouth(1,0);

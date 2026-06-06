@@ -35,7 +35,7 @@ switch (MsgSelRsltGet()){
     VoiceEVSPlay(1);
     MsgDisp("Kazama","Isn't it, ｛主人公｝.");
     VoicePlay("B180100000_01_031");
-    MsgDisp("Kazama","Well, more natural that is.");
+    MsgDisp("Kazama","See? Way more natural.");
     MsgDisp("主人公","Hehe, it's kind of funny isn't it?
 ｛Kazama＊＊｝.");
     ChEye(1,0);
@@ -62,9 +62,9 @@ it...)");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B180100000_01_060");
-    MsgDisp("Kazama","What's up with that.
-I guess you dislike it.");
-    MsgDisp("主人公","I don't dislike it but...");
+    MsgDisp("Kazama","What's with that?
+Guess you don't like it.");
+    MsgDisp("主人公","It's not that I don't like it, but...");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,1);

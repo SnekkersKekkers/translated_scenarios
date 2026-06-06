@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040206100_02_010");
-    MsgDisp("Sassa","That sounds good.
-But let's not swim too far out!");
+    MsgDisp("Sassa","Sure, but how far out are you planning
+to swim?!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

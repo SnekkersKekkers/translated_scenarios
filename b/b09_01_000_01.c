@@ -13,7 +13,7 @@ VoicePlay("B090100000_01_020");
 MsgDisp("Kazama","I guess it didn't mean that much to you huh.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
-MsgDisp("主人公","I've done it!
-I got the date meeting place wrong...!");
+MsgDisp("主人公","Oh no!
+I got the meeting place for our date wrong...!");
 MsgClose();
 ScrFadeOut(0,0);

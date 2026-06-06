@@ -2,7 +2,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,255,0,2,2,8,#1,0,2);
 VoicePlay("B080101100_01_000");
-MsgDisp("Kazama","Uh.
+MsgDisp("Kazama","Ugh.
 Seriously...");
 SEPlay("EV_SE_529");
 SEWait();

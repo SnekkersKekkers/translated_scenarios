@@ -53,8 +53,7 @@ impressive.");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123602_01_030");
         MsgDisp("Kazama","Who wants to see you dance?
-Hey, have you heard what \"Obstruction of
-business\" is?");
+Hey, ever heard of disturbing the peace?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -98,7 +97,7 @@ leave you alone.");
         ChMotion(1,3);
         VoicePlay("B040123602_01_070");
         MsgDisp("Kazama","Hahaha!
-Your strange dancing attracted the fish man.");
+Your weird dancing actually lured the fish guy over.");
         MsgDisp("主人公","Hey.");
         ChEye(1,0);
         ChMouth(1,3);

@@ -7,7 +7,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChCheek(1,5);
 VoicePlay("B130100000_01_000");
-MsgDisp("Kazama","I like your clothes like that.");
+MsgDisp("Kazama","I really like it when you dress like that.");
 MsgDisp("主人公","Eh?");
 ChEye(1,2);
 ChMouth(1,2);

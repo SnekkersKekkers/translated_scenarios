@@ -37,7 +37,7 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_480");
 MsgDisp("Kazama","But, well.
-Both time and distance don't mean anything to
+Time and distance don't mean a thing to
 us.");
 MsgDisp("主人公","Hehe, yeah, that's right.");
 ChEye(1,4);
@@ -52,7 +52,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_500");
-MsgDisp("Kazama","As I thought, it's nice to be reflected in
+MsgDisp("Kazama","Yeah, it really is nice being reflected in
 your eyes.");
 MsgDisp("主人公","(It's a bit embarrassing, but I'm happy.)");
 BGMStop();

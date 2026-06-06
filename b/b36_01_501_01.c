@@ -63,7 +63,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360150101_01_050");
-MsgDisp("Kazama","It was filled with holes.");
+MsgDisp("Kazama","There were holes all over it.");
 MsgDisp("主人公","Ehhh?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -76,8 +76,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360150101_01_070");
-MsgDisp("Kazama","I can't be making fun of you like this, can
-I?");
+MsgDisp("Kazama","Guess I'm in no position to tease you, huh?");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hehe.");
 MsgDisp("主人公","(It's like searching for memories with

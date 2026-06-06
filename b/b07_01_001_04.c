@@ -53,7 +53,7 @@ ChMotion(1,0);
 VoicePlay("B070100001_01_230");
 MsgDisp("Kazama","They tend to listen to what you say, so...");
 MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ too.
-He seems to perfectly be having fun!)");
+He looks like he's having plenty of fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

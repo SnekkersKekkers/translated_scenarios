@@ -26,7 +26,7 @@ Wait(10,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("B070100001_01_320");
-MsgDisp("Kazama","That depends on your intention.");
+MsgDisp("Kazama","That's up to you.");
 MsgDisp("主人公","Eh?
 What do you mean?");
 ChEye(1,2);

@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040206201_02_010");
     MsgDisp("Sassa","Carved out?
-This cave?
-...I can feel the power radiating.");
+This whole cave?
+...I'm sensing some great power here.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

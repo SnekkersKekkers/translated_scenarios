@@ -38,8 +38,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("B070100001_01_460");
-MsgDisp("Kazama","Even though we haven't met in many years,
-we're too natural.");
+MsgDisp("Kazama","For two people who hadn't seen each other in
+years, we're way too at ease, huh.");
 MsgDisp("主人公","Yeah.
 ...");
 ChEye(1,4);

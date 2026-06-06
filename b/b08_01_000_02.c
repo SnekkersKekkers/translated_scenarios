@@ -9,7 +9,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B080100002_01_010");
-MsgDisp("Kazama","Somewhat huh...
+MsgDisp("Kazama","Something, huh...
 Got it.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

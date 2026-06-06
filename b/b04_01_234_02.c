@@ -35,8 +35,8 @@ details.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123402_01_020");
-        MsgDisp("Kazama","Don't say it like that.
-Your feet are wobbling.");
+        MsgDisp("Kazama","Don't put it like that.
+Your legs are all wobbly.");
         MsgDateResultDisp();
         break ;
         case 4:

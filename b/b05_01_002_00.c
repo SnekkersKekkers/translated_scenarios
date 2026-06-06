@@ -5,9 +5,9 @@ ChOpen(1,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050100200_01_000");
 MsgDisp("Kazama","How about we finish the day with some coffee
-boiled over charcoal, whilst watching the
+boiled over charcoal, while watching the
 autumn leaves?");
-MsgDisp("主人公","Waa, that sounds wonderful");
+MsgDisp("主人公","Waa, that sounds wonderful!");
 MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_523",1.2,0.5);
@@ -56,8 +56,7 @@ StlMouth(1,1);
 StlCheek(1,7);
 VoicePlay("B050100200_01_060");
 MsgDisp("Kazama","Eh, ah that's right.
-You were just so focused on eating away at
-it.");
+You were just so focused on devouring it.");
 StlEyeOpenLevel(1,0);
 Wait(14,0);
 StlEye(1,0);

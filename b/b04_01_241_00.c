@@ -28,8 +28,8 @@ So, what should we do?");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040124100_01_020");
-    MsgDisp("Kazama","Yeah, it's a fenced in area with a few
-animals here and there.");
+    MsgDisp("Kazama","Yeah, it's a fenced-off area with a few
+animals scattered around.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

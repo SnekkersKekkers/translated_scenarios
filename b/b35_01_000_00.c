@@ -52,7 +52,7 @@ Let's go?");
     ChEyeOpenLevel(1,8);
     VoicePlay("B350100000_01_060");
     MsgDisp("Kazama","I see...");
-    MsgDisp("主人公","Sorry, okay?");
+    MsgDisp("主人公","I'm sorry, okay?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -63,7 +63,7 @@ your way home as well.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(I wonder if I messed up...)");
+    MsgDisp("主人公","(I feel kind of bad about that...)");
     break ;
     default :
     DbgAssert(0);

@@ -93,7 +93,7 @@ kinda liked the song.");
         VoicePlay("B040114002_01_060");
         MsgDisp("Kazama","Well, your side profile and this song are
 imprinted on me as a set. This feels like the
-background music to your merry self.");
+background music to you having fun.");
         MsgDisp("主人公","(｛Kazama＊＊｝, did you not look at the
 stage...?)");
         break ;

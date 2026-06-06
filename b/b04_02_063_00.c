@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040206300_02_010");
-    MsgDisp("Sassa","What are you planning on doing out here with
-just us two!");
+    MsgDisp("Sassa","What are you planning to do with the whole
+beach to ourselves?!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

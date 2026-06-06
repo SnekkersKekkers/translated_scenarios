@@ -22,8 +22,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_320");
-MsgDisp("Kazama","Whilst I was homesick, I did enjoy
-international school life.");
+MsgDisp("Kazama","Homesick as I was, I still enjoyed life at an
+international school.");
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Hmmm.
 I can't really imagine it.");

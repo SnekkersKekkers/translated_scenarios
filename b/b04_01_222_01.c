@@ -43,8 +43,8 @@ I have to introduce my ancestors to you.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040122201_01_030");
-    MsgDisp("Kazama","Why is that?
-Isn't it quite normal to be here?");
+    MsgDisp("Kazama","Why's that?
+Acting normal here is fine, isn't it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

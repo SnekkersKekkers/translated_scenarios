@@ -45,9 +45,9 @@ switch (MsgSelRsltGet()){
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040201102_02_030");
-        MsgDisp("Sassa","I don't think so, but I think they probably
-have days like that.
-Couple only days.");
+        MsgDisp("Sassa","Probably not, but they likely have days like
+that.
+Couples-only days.");
         MsgDisp("主人公","Eh, what if it's like that today...");
         ChEye(2,3);
         ChMouth(2,4);

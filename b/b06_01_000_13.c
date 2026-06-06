@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B060100013_01_020");
     MsgDisp("Kazama","I see...
-I understand.");
+Got it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
     MsgDisp("主人公","(I wonder if it was bad to turn him down?)");

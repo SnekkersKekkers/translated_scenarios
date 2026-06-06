@@ -37,7 +37,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070101000_01_030");
-MsgDisp("Kazama","Haa...well that's how it is.");
+MsgDisp("Kazama","Haa... yeah, figures.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

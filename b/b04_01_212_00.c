@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040121200_01_000");
-MsgDisp("Kazama","Wow, they've come out with quite a few
-original goods.");
+MsgDisp("Kazama","Huh, they've got quite a bit of original
+merch.");
 MsgSel("They have animal cookies!","Cute▼ They even have panda slippers","They have leopard print leggings!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -34,7 +34,7 @@ too.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121200_01_020");
-    MsgDisp("Kazama","So you'd wear cute things on your feet, huh.");
+    MsgDisp("Kazama","So you'd stomp around on something cute, huh.");
     MsgDateResultDisp();
     break ;
     case 2:

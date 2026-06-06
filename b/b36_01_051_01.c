@@ -10,9 +10,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B360105101_01_000");
-MsgDisp("Kazama","It seems to be good here.
-As expected, I'm tired from the overly-high
-spirits.");
+MsgDisp("Kazama","This spot's nice, isn't it.
+Figured you'd be worn out after getting so hyped up.");
 MsgDisp("主人公","Hehe, did we come here to have a break?");
 ChEye(1,0);
 ChMouth(1,3);
