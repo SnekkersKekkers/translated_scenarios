@@ -5,7 +5,7 @@ ChMouth(8,4);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B030822000_08_000");
-MsgDisp("Shirahane","Sucha big and regal castle...");
+MsgDisp("Shirahane","Such a big and regal castle...");
 MsgDisp("主人公","Yeah.
 It's our city's pride and joy.");
 ChEye(8,3);

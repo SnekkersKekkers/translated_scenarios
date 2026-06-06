@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040509000_05_010");
     MsgDisp("Hiiragi","It really is.
 Such a sweet scent.
-It's as if we're in a confectionary.");
+It's as if we're in a confectionery.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

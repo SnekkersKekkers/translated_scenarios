@@ -8,7 +8,7 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B030511000_05_000");
-MsgDisp("Hiiragi","I'm used to swimming like this.
+MsgDisp("Hiiragi","Swimming and I get along well.
 Let's enjoy ourselves.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Yeah!");

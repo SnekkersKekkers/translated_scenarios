@@ -39,9 +39,9 @@ things need proper appreciation.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040102101_01_030");
-    MsgDisp("Kazama","I guess so. I wouldn't want to not be able to
-wander around with you like this, just
-talking about nothing.");
+    MsgDisp("Kazama","I guess so. It'd suck if I couldn't just
+wander around with you like this, talking
+about nothing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMotion(1,4);
 VoicePlay("B040124100_01_000");
 MsgDisp("Kazama","Hey, what are we doing here...");
-MsgSel("It feels nice to be surrounded by Mother nature!","....There's nothing here.","That cow keeps looking this way...");
+MsgSel("It feels nice to be surrounded by Mother Nature!","...There's nothing here.","That cow keeps looking this way...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040101101_01_000");
 MsgDisp("Kazama","You can really see everything, all the way
 from Habataki Mountain to the sea.");
-MsgSel("The city seems so small from here","Something feels weird about my ears?","I just saw something shining on Mount Habataki!");
+MsgSel("The city seems so small from here","Something feels weird about my ears?","I just saw something shining on Habataki Mountain!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

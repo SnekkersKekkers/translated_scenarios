@@ -62,7 +62,7 @@ I hate when it's loud.");
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("B030623000_06_050");
-    MsgDisp("Himuro","Very interesting idea.");
+    MsgDisp("Himuro","That's a pretty interesting idea.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

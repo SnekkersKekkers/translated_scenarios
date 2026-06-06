@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgSel("Want to check out the Gift Store?","Don't ask");
+MsgSel("Want to check out the Gift Shop?","Don't ask");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(6,0);

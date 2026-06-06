@@ -21,7 +21,7 @@ laughed at.");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("B040518800_05_010");
-    MsgDisp("Hiiragi","I know this is thoughtless, but could you
+    MsgDisp("Hiiragi","I know it's uncouth to ask, but could you
 explain a bit?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

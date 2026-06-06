@@ -7,7 +7,7 @@ ChOpen(4,255,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423501_04_000");
 MsgDisp("Nanatsumori","I'd like to try being a ghost extra...");
-MsgSel("L-Looks like you're serious about it...","Would you want to be a Japanese style or Western style ghost?","Would it be aright with the agency?");
+MsgSel("L-Looks like you're serious about it...","Would you want to be a Japanese style or Western style ghost?","Would your agency be okay with that?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

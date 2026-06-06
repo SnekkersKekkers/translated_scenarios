@@ -103,7 +103,7 @@ Just stay the way you are.");
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("B040120002_01_100");
-        MsgDisp("Kazama","Haa..
+        MsgDisp("Kazama","Haa...
 It was a battle I had no chance of winning...");
         MsgDisp("主人公","(When you say \"chance of winning\", against
 what???)");

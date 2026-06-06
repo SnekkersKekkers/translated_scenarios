@@ -105,8 +105,8 @@ Let's go for a ride.");
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("B030523000_05_080");
-    MsgDisp("Hiiragi","Sitting in the tea cup with you is definitely
-an interesting situation.");
+    MsgDisp("Hiiragi","Riding the Tea Cups just the two of us...
+What a fun situation.");
     break ;
     default :
     DbgAssert(0);

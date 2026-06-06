@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308102_03_000");
 MsgDisp("Honda","Even the grafted cherry blossoms, are
 blooming splendidly.");
-MsgSel("They have an amazing life force huh?","Grafted tress you say?","I want to have a more peaceful cherry blossom viewing?");
+MsgSel("They have an amazing life force huh?","Grafted trees, you say?","I want to have a more peaceful cherry blossom viewing?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

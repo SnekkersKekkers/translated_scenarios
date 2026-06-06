@@ -10,13 +10,13 @@ VoicePlay("B030710004_07_000");
 MsgDisp("Mikage","Today we're looking at modern art.
 Well, good luck?");
 VoicePlay("B030710004_38_000");
-MsgDisp("Students","Where's our teacher's motivation?");
+MsgDisp("Students","Sensei, you've got zero motivation!");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B030710004_07_010");
 MsgDisp("Mikage","You don't have to say it like that.
-There isn't a thing I can teach you here.");
+There's nothing I can really teach you here.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

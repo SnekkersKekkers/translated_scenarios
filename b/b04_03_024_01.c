@@ -6,7 +6,7 @@ VoicePlay("B040302401_03_000");
 MsgDisp("Honda","Hmm...?
 When that person rang it earlier, the sound
 was much better.");
-MsgSel("Maybe because they do it everyday?","This has an interesting sound too.","One more time!");
+MsgSel("Maybe because they do it every day?","This has an interesting sound too.","One more time!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

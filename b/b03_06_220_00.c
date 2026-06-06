@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B030622000_06_020");
-    MsgDisp("Himuro","That's right.
-It would be cool to have a nice view.");
+    MsgDisp("Himuro","Sure.
+At least the view should be nice.");
     MsgDispSksp(0);
     break ;
     case 1:

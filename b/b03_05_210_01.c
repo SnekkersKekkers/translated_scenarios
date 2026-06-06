@@ -4,7 +4,7 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgSel("Want to check out the gift store?","Don't ask.");
+MsgSel("Want to check out the Gift Shop?","Don't ask.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);
@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030521001_05_000");
-    MsgDisp("Hiiragi","Gift store?
+    MsgDisp("Hiiragi","Gift Shop?
 Good choice. Let's go and see what amazing
 things we can find!");
     MsgDispSksp(0);

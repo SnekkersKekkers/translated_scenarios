@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040103102_01_000");
 MsgDisp("Kazama","I wonder what it looks like from the other
 side of the glass?");
-MsgSel("Then you'd be able to see the dolphins better","Maybe we'd want to be out in the world","Like if we were the keepers?");
+MsgSel("Then you'd be able to see the dolphins better","Maybe they want to get out and see the world","Like if we were the keepers?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

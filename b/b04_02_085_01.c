@@ -6,7 +6,7 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040208501_02_000");
 MsgDisp("Sassa","Ah there's some needle ice over there.");
-MsgSel("Eh—、step on it!","Our shoes will get dirty","It's pretty huh?");
+MsgSel("Eh, step on it!","Our shoes will get dirty","It's pretty huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

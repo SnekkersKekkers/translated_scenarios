@@ -6,7 +6,7 @@ ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040824101_08_000");
 MsgDisp("Shirahane","Hey, shall we get ice cream at the stand?");
-MsgSel("Yeah, I want to eat it!","I'd rather look at the coes and sheep.","...The cows are watching though?");
+MsgSel("Yeah, I want to eat it!","I'd rather look at the cows and sheep.","...The cows are watching though?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

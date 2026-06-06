@@ -41,7 +41,7 @@ Well, if you want to ride it, I'll go.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B030723000_07_030");
-    MsgDisp("Mikage","Ah, oh.
+    MsgDisp("Mikage","Oh, yeah.
 That's fine.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -110,7 +110,7 @@ No issue there.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B030723000_07_080");
-    MsgDisp("Mikage","It's unexpectedly dangerous...");
+    MsgDisp("Mikage","That looks more dangerous than I thought...");
     break ;
     default :
     DbgAssert(0);

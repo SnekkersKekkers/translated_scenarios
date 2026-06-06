@@ -25,7 +25,7 @@ action. The story was good too.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040418300_04_010");
-    MsgDisp("Nanatsumori","So, so, huh?
+    MsgDisp("Nanatsumori","So-so, huh?
 Where did you deduct points?
 I want to hear your opinion.");
     MsgDispSksp(1,0);

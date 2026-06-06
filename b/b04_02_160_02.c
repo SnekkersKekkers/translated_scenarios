@@ -86,7 +86,7 @@ even more.");
         ChMouth(2,0);
         ChMotion(2,2);
         VoicePlay("B040216002_02_070");
-        MsgDisp("Sassa","It was no good..");
+        MsgDisp("Sassa","It was no good...");
         MsgDisp("主人公","That's too bad, huh?");
         SEPlay("EV_SE_009",0,1);
         SEWait();

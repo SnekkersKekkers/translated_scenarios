@@ -27,7 +27,7 @@ Well, I do have to commend their commitment.");
     ChMotion(1,3);
     VoicePlay("B040119200_01_010");
     MsgDisp("Kazama","I feel the same.
-It was just the every day life of a cat.
+It was just the everyday life of a cat.
 Well, it was well-made.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

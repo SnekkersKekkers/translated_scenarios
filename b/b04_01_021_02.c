@@ -61,7 +61,7 @@ switch (MsgSelRsltGet()){
         ChMouth(1,1);
         ChMotion(1,3);
         VoicePlay("B040102102_01_050");
-        MsgDisp("Kazama","Alright, alright ready.");
+        MsgDisp("Kazama","Alright, alright.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,0);
