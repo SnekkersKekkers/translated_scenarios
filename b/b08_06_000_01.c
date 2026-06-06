@@ -23,7 +23,7 @@ ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B080600001_06_010");
 MsgDisp("Himuro","Your phone is ringing.");
-MsgDisp("主人公","Ah, it's mine huh.
+MsgDisp("主人公","Ah, it's mine, huh.
 What is it...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);

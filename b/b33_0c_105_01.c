@@ -43,7 +43,7 @@ ChMotion(7,1);
 VoicePlay("B330C10501_07_010");
 MsgDisp("Mikage","Oh, me too.
 There are ones that can be washed tens of
-thousands of times");
+thousands of times.");
 MsgDisp("主人公","Hehe.
 You both seem to be very knowledgeable.");
 ChEye(5,0);

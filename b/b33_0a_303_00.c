@@ -93,7 +93,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330A30300_06_050");
-MsgDisp("Himuro","What's with that.. please stop...");
+MsgDisp("Himuro","What's with that... please stop...");
 MsgDisp("主人公","If ｛Kazama＊＊｝ and ｛Himuro＊＊｝ worked
 together, things might get out of hand?");
 ChEye(1,2);

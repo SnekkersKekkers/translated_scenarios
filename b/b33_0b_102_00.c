@@ -26,7 +26,7 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,3);
 VoicePlay("B330B10200_01_000");
-MsgDisp("Kazama","Calm down you two.
+MsgDisp("Kazama","Calm down, you two.
 That shark isn't interested.");
 ChEye(3,0);
 ChMouth(3,3);

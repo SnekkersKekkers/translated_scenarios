@@ -17,7 +17,7 @@ But was that what you intended?");
 MsgDisp("主人公","That's not what I wanted though...");
 VoicePlay("B100100000_01_020");
 MsgDisp("Kazama","Got it.
-You gave it your all didn't you?");
+You gave it your all, didn't you?");
 VoicePlay("B100100000_01_030");
 MsgDisp("Kazama","I was also all worked up, trying to make it
 special.

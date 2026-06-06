@@ -11,7 +11,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040312102_03_000");
 MsgDisp("Honda","Each time we come here, the number of stalls
-seems to be increasing");
+seems to be increasing.");
 MsgSel("I wonder how much they make?","Apparently it got featured on TV.","It seems like you can only set up a stall if you win a lottery.");
 switch (MsgSelRsltGet()){
     case 0:

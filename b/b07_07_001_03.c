@@ -1,4 +1,4 @@
-MsgDisp("主人公","It's always lively around ｛Mikage＊＊｝
+MsgDisp("主人公","It's always lively around ｛Mikage＊＊｝,
 isn't it?");
 ChEye(7,0);
 ChMouth(7,0);

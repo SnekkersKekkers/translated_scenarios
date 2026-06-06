@@ -49,7 +49,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10201_01_020");
 MsgDisp("Kazama","I don't fish in the ocean that much.
-More so in mountain streams..");
+More so in mountain streams...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

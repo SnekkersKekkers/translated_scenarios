@@ -28,7 +28,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040322100_03_020");
     MsgDisp("Honda","Hmm, maybe it's more accurate to say it's
-flexible or supple rather than sturdy");
+flexible or supple rather than sturdy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

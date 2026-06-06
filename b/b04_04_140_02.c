@@ -79,7 +79,7 @@ band?");
         ChMotion(4,0,1);
         VoicePlay("B040414002_04_090");
         MsgDisp("Nanatsumori","You can do the vocals.
-I'll...pretend to play some instruments");
+I'll...pretend to play some instruments.");
         MsgDisp("主人公","That's unfair!
 Then, I'll also, pretend to do some vocals...");
         ChEye(4,0);

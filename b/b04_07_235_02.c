@@ -83,7 +83,7 @@ the entrance, right?");
         ChMotion(7,5);
         VoicePlay("B040723502_07_070");
         MsgDisp("Mikage","Owaaah∋
-You're right");
+You're right.");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,1);

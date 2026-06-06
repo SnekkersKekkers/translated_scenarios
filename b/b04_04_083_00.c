@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChEyeOpenLevel(4,#1);
     VoicePlay("B040408300_04_010");
-    MsgDisp("Nanatsumori","What a cool reply..");
+    MsgDisp("Nanatsumori","What a cool reply...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

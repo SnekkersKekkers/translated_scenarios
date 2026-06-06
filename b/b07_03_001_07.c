@@ -25,7 +25,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("B070300001_03_510");
-MsgDisp("Honda","Is it because of me..?
+MsgDisp("Honda","Is it because of me...?
 Did I do something?");
 ChMotion(3,2);
 VoicePlay("B070300001_03_520");

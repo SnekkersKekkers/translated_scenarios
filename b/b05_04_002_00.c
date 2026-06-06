@@ -59,7 +59,7 @@ MsgDisp("主人公","Eh∋
 I haven't braced myself yet—");
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400200_04_060");
-MsgDisp("Nanatsumori","Too late");
+MsgDisp("Nanatsumori","Too late.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

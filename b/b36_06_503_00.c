@@ -58,7 +58,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650300_06_070");
 MsgDisp("Himuro","I want to say something clever, but I can't
-think of anything");
+think of anything.");
 MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,1);
 ChMouth(6,0);

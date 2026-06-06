@@ -18,7 +18,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10101_01_000");
 MsgDisp("Kazama","Haa...
-There's not really anything new..");
+There's not really anything new...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);

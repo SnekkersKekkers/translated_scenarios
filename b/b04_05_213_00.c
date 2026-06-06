@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040521300_05_010");
     MsgDisp("Hiiragi","That's right.
-But in reality, look, everyone gets along");
+But in reality, look, everyone gets along.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

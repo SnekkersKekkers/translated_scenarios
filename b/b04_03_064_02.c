@@ -32,7 +32,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B040306402_03_040");
 MsgDisp("Honda","When that all comes together, it becomes
 super delicious you know?");
-MsgDisp("主人公","Hehe I see.");
+MsgDisp("主人公","Hehe, I see.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

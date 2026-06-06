@@ -39,7 +39,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B150700000_07_050");
-MsgDisp("Mikage","Phew, that was close");
+MsgDisp("Mikage","Phew, that was close.");
 MsgDisp("主人公","eh?");
 ChEye(7,2);
 ChMouth(7,0);

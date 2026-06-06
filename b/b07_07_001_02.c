@@ -45,13 +45,13 @@ MsgDisp("Mikage","If he shows up looking like he's looking for
 me, just go talk to him.
 That's enough.");
 MsgDisp("主人公","Yes.
-But, ｛Mikage＊＊｝ why are you so close to
+But, ｛Mikage＊＊｝, why are you so close to
 ｛Himuro＊＊｝?");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("B070700001_07_140");
-MsgDisp("Mikage","For my grand ambition of course.");
+MsgDisp("Mikage","For my grand ambition, of course.");
 MsgDisp("主人公","Ambition?");
 ChEye(7,0);
 ChMouth(7,0);

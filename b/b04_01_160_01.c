@@ -40,7 +40,7 @@ of old folks.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,7);
     VoicePlay("B040116001_01_030");
-    MsgDisp("Kazama","There is no way!");
+    MsgDisp("Kazama","No way!");
     MsgDateResultDisp();
     break ;
     default :

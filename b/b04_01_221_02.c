@@ -72,7 +72,7 @@ Then, you go first.");
 Look, you can see the beautiful sky and
 mountains!");
         VoicePlay("B040122102_01_050");
-        MsgDisp("Kazama","Oi, don't get so carried away");
+        MsgDisp("Kazama","Oi, don't get so carried away.");
         SEPlay("EV_SE_026",0,0.4);
         SEWait();
         MsgDisp("主人公","Eh∋
