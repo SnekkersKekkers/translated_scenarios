@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040203102_02_000");
 MsgDisp("Sassa","If they're in the same tank as the sharks,
 won't they get eaten?");
-MsgSel("Sawsharks look strong","That's just the way nature works","The small fish can't relax, I guess");
+MsgSel("That sawshark looks strong.","That's just the way nature works","The small fish can't relax, I guess");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("B040512102_05_000");
 MsgDisp("Hiiragi","Art gallery?
 There's an area where they sell paintings.");
-MsgSel("There might be some future masters","There's also a caricature artist?","The price isn't written?");
+MsgSel("There might be some future masters here.","There's also a caricature artist?","The price isn't written?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

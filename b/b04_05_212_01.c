@@ -42,8 +42,8 @@ Its hair is peculiar and interesting.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040521201_05_030");
-    MsgDisp("Hiiragi","I felt a bit of affinity to him, so I'm
-happy.");
+    MsgDisp("Hiiragi","I'd felt a bit of a kinship with him, so this
+makes me happy.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

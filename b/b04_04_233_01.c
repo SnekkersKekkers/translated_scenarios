@@ -10,7 +10,7 @@ VoicePlay("B040423301_04_000");
 MsgDisp("Nanatsumori","Something like this...
 I wonder who looked at it and thought, \"Damn,
 let's try this\".");
-MsgSel("Because it's interesting, of course!","It seems to be a rite of passage in a foreign country.","I completely don't understand it...");
+MsgSel("Because it's interesting, of course!","It's a coming-of-age ritual somewhere abroad, I think.","I completely don't understand it...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

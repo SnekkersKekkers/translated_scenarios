@@ -7,7 +7,7 @@ ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040209001_02_000");
 MsgDisp("Sassa","Apparently they're doing a stamp rally.");
-MsgSel("I hear the participation prize are plant seeds!","Even the flower stamps are cute▼","Seems like it's aimed at little kids.");
+MsgSel("I hear the participation prize is plant seeds!","Even the flower stamps are cute▼","Seems like it's aimed at little kids.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

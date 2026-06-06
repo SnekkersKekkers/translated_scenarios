@@ -7,7 +7,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040220000_02_000");
 MsgDisp("Sassa","Can you ski?");
-MsgSel("I've been dubbed a princess on the snow!","It's to the point I won't fall...","Can you teach me...");
+MsgSel("I've been dubbed a princess on the snow!","Enough that I don't fall over...","Can you teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

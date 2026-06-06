@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040410100_04_000");
 MsgDisp("Nanatsumori","I'm sleepy.
 I feel like I've been hypnotised.");
-MsgSel("The history of Habataki City sure is wonderful, right?","I feel like that mask looks like someone...","I feel a sense of ancient romance");
+MsgSel("Habataki City's history is amazing, isn't it?","I feel like that mask looks like someone...","I feel a sense of ancient romance");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -14,7 +14,7 @@ ChEye(5,2);
 ChMotion(5,4);
 VoicePlay("B040523601_05_000");
 MsgDisp("Hiiragi","Oh, it's already this time.");
-MsgSel("Time flies when you're having fun","Shall we forget about the time?","It's unfortunate, but shall we go home?");
+MsgSel("Time flies when you're having fun.","Shall we forget about the time?","It's unfortunate, but shall we go home?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

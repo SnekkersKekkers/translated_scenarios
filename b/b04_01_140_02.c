@@ -45,7 +45,7 @@ I-I'm not doing anything.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040114002_01_030");
-        MsgDisp("Kazama","What would you even do sneakily in a place
+        MsgDisp("Kazama","What could you even get up to in a place
 like this?");
         MsgDisp("主人公","I see, the only thing you could do is listen
 to the music here.");
@@ -91,7 +91,7 @@ kinda liked the song.");
         ChMotion(1,4);
         ChCheek(1,7);
         VoicePlay("B040114002_01_060");
-        MsgDisp("Kazama","Well, your side profile and this song is
+        MsgDisp("Kazama","Well, your side profile and this song are
 imprinted on me as a set. This feels like the
 background music to your merry self.");
         MsgDisp("主人公","(｛Kazama＊＊｝, did you not look at the

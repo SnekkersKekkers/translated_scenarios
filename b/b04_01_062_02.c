@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(1,7);
         VoicePlay("B040106202_01_010");
         MsgDisp("Kazama","Boys?
-You're really, surprisingly just lumping me
-in like that, huh?");
+That's a pretty rough way to lump me in,
+huh?");
         MsgDateResultDisp();
         break ;
         case 4:

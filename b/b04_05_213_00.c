@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521300_05_000");
 MsgDisp("Hiiragi","Cats and dogs get along don't they?");
-MsgSel("They have an image that they're on bad terms, right?","The puppies and kitties here get along.","Assumptions are bad.");
+MsgSel("People picture them not getting along, right?","The puppies and kitties here get along.","You shouldn't jump to conclusions.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

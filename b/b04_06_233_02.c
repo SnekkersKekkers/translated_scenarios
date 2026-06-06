@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040623302_06_000");
 MsgDisp("Himuro","Seems like we might trigger the suspension
 bridge effect.");
-MsgSel("Because your heart is pounding?","Suspension bridge effect?","You're joking right? ");
+MsgSel("Because your heart is pounding?","Suspension bridge effect?","You're joking, right?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

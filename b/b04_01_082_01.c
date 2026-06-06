@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040108201_01_010");
     MsgDisp("Kazama","Not funny, try again.
-You can do better than that.");
+I know you can do better.");
     MsgDateResultDisp();
     break ;
     case 1:

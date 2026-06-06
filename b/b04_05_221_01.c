@@ -9,7 +9,7 @@ VoicePlay("B040522101_05_000");
 MsgDisp("Hiiragi","The theatre troupe has been allowed to do a
 play with the castle as the stage setting.
 I'll always be grateful for that.");
-MsgSel("Habataki Flames Rising!","It's a very popular play","Would you want to perform it here?");
+MsgSel("Habataki Flames Rising!","It's a very popular play.","Would you want to perform it here?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

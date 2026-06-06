@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040606301_06_010");
-    MsgDisp("Himuro","It's because of how you're like normally.");
+    MsgDisp("Himuro","It's because of how you usually are.");
     MsgDateResultDisp();
     break ;
     case 1:

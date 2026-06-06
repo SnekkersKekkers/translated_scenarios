@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040106100_01_010");
-    MsgDisp("Kazama","Why.");
+    MsgDisp("Kazama","Why?");
     MsgDateResultDisp();
     break ;
     case 1:

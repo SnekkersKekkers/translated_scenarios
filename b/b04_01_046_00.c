@@ -24,8 +24,8 @@ hear him in a venue this close.");
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040104600_01_010");
-    MsgDisp("Kazama","You're the amazing one here.
-Calling that performance just 'okay'.");
+    MsgDisp("Kazama","You're the amazing one here, calling that
+performance just 'okay'.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -36,8 +36,8 @@ Calling that performance just 'okay'.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040104600_01_020");
     MsgDisp("Kazama","Ugh, you...
-If you don't understand it, you don't have to
-force a review on it.");
+If you don't get it, you don't have to force
+yourself to rate it.");
     MsgDateResultDisp();
     break ;
     default :

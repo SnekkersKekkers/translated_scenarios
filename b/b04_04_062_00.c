@@ -36,9 +36,9 @@ You can't even see the bottom.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040406200_04_030");
-    MsgDisp("Nanatsumori","It looks like it's completely covered with
-paraiba tourmalines and sapphires...
-Earth is amazing.");
+    MsgDisp("Nanatsumori","It looks like it's completely paved with
+Paraiba tourmalines and sapphires...
+The Earth is amazing.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

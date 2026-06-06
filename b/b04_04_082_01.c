@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040408201_04_000");
 MsgDisp("Nanatsumori","The pond's surface is sparkling.
 It's pretty.");
-MsgSel("It's the season of bugs","Those are frog spawn!","Should I take a picture?");
+MsgSel("It's the season of bugs.","Those are frog spawn!","Should I take a picture?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040321201_03_000");
 MsgDisp("Honda","Look look, paw manju!
 They're so realistic.");
-MsgSel("Interesting huh, what flavour?","Looks like a bear's paw","It's a bit pitiful?");
+MsgSel("Interesting huh, what flavour?","Looks like a bear's paw","That kind of makes me feel bad for it?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

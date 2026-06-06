@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040406300_04_000");
 MsgDisp("Nanatsumori","Ah—...it's cold.
 No way...");
-MsgSel("We have the winter sea to ourselves!","the winter sea feels sad...","There are many delicious things in the winter sea♪");
+MsgSel("We have the winter sea to ourselves!","The winter sea feels sad...","There are many delicious things in the winter sea♪");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

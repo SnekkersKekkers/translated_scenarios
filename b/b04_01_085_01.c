@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040108501_01_010");
     MsgDisp("Kazama","Yeah, that's what I mean.
 Like a turtle that's been alive for decades.
-There has to be a spirit in a pond, right?");
+Every pond's gotta have its guardian spirit, right?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

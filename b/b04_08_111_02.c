@@ -66,7 +66,7 @@ When I'm with you, I get strangely worked up.");
 High.");
         ChMotion(8,2,1);
         VoicePlay("B040811102_08_070");
-        MsgDisp("Shirahane","I've been thinkin' recently; if I had went to
+        MsgDisp("Shirahane","I've been thinkin' lately, if I'd gone to
 Haba High, our relationship would've been
 completely different by now.");
         MsgDisp("主人公","｛Daichi＊＊｝...");

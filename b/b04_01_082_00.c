@@ -6,7 +6,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040108200_01_000");
-MsgDisp("Kazama","I wonder if fireflies live here...");
+MsgDisp("Kazama","So this is where the fireflies live...");
 MsgSel("I guess they aren't out right now","Please excuse our intrusion","Do you sense some mysterious power?");
 switch (MsgSelRsltGet()){
     case 0:

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040624102_06_000");
 MsgDisp("Himuro","That horse over there is pure white.
 It's a splendid white horse.");
-MsgSel("It's the type a prince will ride.","I wonder if it's a special horse?","You're right! Let's take a picture∈");
+MsgSel("It's the type a prince would ride.","I wonder if it's a special horse?","You're right! Let's take a picture∈");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){

@@ -51,7 +51,7 @@ Well, I guess that is just like you.");
         ChMotion(1,3);
         VoicePlay("B040110102_01_030");
         MsgDisp("Kazama","You aren't saying you're a princess, right?
-You're like the cheerful town peasant.");
+You're more the cheerful town-girl type.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);

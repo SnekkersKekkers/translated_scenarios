@@ -105,5 +105,5 @@ VoicePlay("B110600002_06_050");
 MsgDisp("Himuro","I'll tell you.
 I can be friendly too!
 Come on, let's go.");
-MsgDisp("主人公","((???)
+MsgDisp("主人公","(??? 
 What happened to ｛Himuro＊＊｝?)");

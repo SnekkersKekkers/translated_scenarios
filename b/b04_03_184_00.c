@@ -25,7 +25,7 @@ waves were really intricate.");
     VoicePlay("B040318400_03_010");
     MsgDisp("Honda","Yep, this is an anime adults can enjoy too...
 Ah, could it be because we're neither adults
-or children?");
+nor children?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

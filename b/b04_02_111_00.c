@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040211100_02_000");
 MsgDisp("Sassa","Your posture looks good.
 Can you skate?");
-MsgSel("I've been named the princess on ice!","It's to the point I won't fall over...","I want you to teach me...");
+MsgSel("They call me the princess on ice!","It's to the point I won't fall over...","I want you to teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){
@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040211100_02_020");
-        MsgDisp("Sassa","The gap between your actions and what you
-said is pretty big?");
+        MsgDisp("Sassa","The gap between what you say and 
+what you do is huge, you know?");
         MsgDateResultDisp();
         }
     break ;

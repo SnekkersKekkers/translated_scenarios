@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040303202_03_000");
 MsgDisp("Honda","The idea of aquatic organisms swimming in the
 sky is interesting.");
-MsgSel("It'd be amazing if deep-sea fish swam in the sky.","It'd be very popular; a must-see!","Yeah, just like carp windsocks.");
+MsgSel("It'd be amazing if deep-sea fish swam in the sky.","It'd be very popular; a must-see!","Yeah, just like those fish kites.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){

@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B040608100_06_000");
 MsgDisp("Himuro","Amazing.
 This was the best time to see them.");
-MsgSel("｛Himuro＊＊｝, you suit the falling cherry blossoms.","Seeing the falling cherry blossoms is so fleeting...","I want to eat some tasty cherry blossom mochi.");
+MsgSel("｛Himuro＊＊｝, the falling cherry blossoms really suit you.","Seeing the falling cherry blossoms is so fleeting...","I want to eat some tasty cherry blossom mochi.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

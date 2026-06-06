@@ -9,7 +9,7 @@ ChMotion(4,2,1);
 VoicePlay("B040423401_04_000");
 MsgDisp("Nanatsumori","This attraction is not suited for taking
 photos.");
-MsgSel("...Is that an excuse?","Isn't there a sense of realism felt from the camera shake?","Burst photography is the only way!");
+MsgSel("...Is that an excuse?","Doesn't the camera shake add a sense of realism?","Burst photography is the only way!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -28,7 +28,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040423401_04_020");
     MsgDisp("Nanatsumori","Ah...
 I guess that's how it seems.
-You've got some good senses.");
+You've got a good eye.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

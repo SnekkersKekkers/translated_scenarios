@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040524100_05_000");
 MsgDisp("Hiiragi","The wind feels nice.");
-MsgSel("The feeling of being surrounded by nature is great!","...It's a place with nothing there.","That cow keeps looking this way...");
+MsgSel("Being surrounded by all this nature feels great!","...It's a place with nothing there.","That cow keeps looking this way...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

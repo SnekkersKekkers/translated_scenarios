@@ -4,7 +4,7 @@ ChOpen(4,255,0,0,2,8,#1,0,0);
 VoicePlay("B040402301_04_000");
 MsgDisp("Nanatsumori","The sea, the sky and the wharf are all
 blue—...");
-MsgSel("I feel so refreshed!","It makes me feel kinda hazy","Shall I take a picture with the image of blue in mind?");
+MsgSel("I feel so refreshed!","It kinda makes my mind go blank.","Shall I take a picture with the image of blue in mind?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -24,8 +24,8 @@ is hurting my eyes...");
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040402301_04_020");
-    MsgDisp("Nanatsumori","That's how it feels like.
-This is like a world without boundary lines.");
+    MsgDisp("Nanatsumori","Yeah, that's how it feels.
+Like a world with no boundary lines.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040411101_04_000");
 MsgDisp("Nanatsumori","Oops!
 Isn't it super slippy around here?");
-MsgSel("We are skating after all","Relax, relax!","Shall we skate whilst holding hands?");
+MsgSel("We are skating after all.","Relax, relax!","Shall we skate while holding hands?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

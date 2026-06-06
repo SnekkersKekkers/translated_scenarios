@@ -9,7 +9,7 @@ ChMouth(5,4);
 VoicePlay("B040520001_05_000");
 MsgDisp("Hiiragi","Haa.. the way my legs turn inwards when I do
 the snowplough turn is just like a beginner.");
-MsgSel("Everyone avoids you","｛Hiiragi＊＊＊｝, you'll improve quickly","Your posture is great, and you look cool.");
+MsgSel("Everyone avoids you.","｛Hiiragi＊＊＊｝, you'll improve quickly.","Your posture is great, and you look cool.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

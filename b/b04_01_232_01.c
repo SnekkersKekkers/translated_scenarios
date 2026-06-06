@@ -6,7 +6,7 @@ ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123201_01_000");
 MsgDisp("Kazama","Isn't it crazy going down from the top?");
-MsgSel("That might be the scariest part...","The wind was so strong it started shaking!","A screw fell off");
+MsgSel("That might be the scariest part...","The wind was so strong it started shaking!","A screw fell off.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

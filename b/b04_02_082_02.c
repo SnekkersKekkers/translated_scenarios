@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040208202_02_000");
 MsgDisp("Sassa","The fireflies' home, isn't in a pond, but a
 spring.");
-MsgSel("It's because the spring water is abundant.","Then it's the firefly's spring","It seems like fairies could be there.");
+MsgSel("It's because the spring water is abundant.","Then it's the firefly's spring.","It seems like fairies could be there.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(2,6)){

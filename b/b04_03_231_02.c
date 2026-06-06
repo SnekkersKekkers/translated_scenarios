@@ -8,7 +8,7 @@ VoicePlay("B040323102_03_000");
 MsgDisp("Honda","The accumulation and release of potential
 energy.
 It's a repetition of that cycle.");
-MsgSel("Were you thinking of difficult things whilst riding?","Is that the secret to its popularity?","I see! Then, let's go on it again!");
+MsgSel("Were you thinking about complicated stuff while we were riding?","Is that the secret to its popularity?","I see! Then, let's go on it again!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

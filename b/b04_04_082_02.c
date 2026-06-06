@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040408202_04_000");
 MsgDisp("Nanatsumori","Waah∋
 There's something flying this way∈");
-MsgSel("It's a small cabbage butterfly","Isn't it a grasshopper?","｛Nanatsumori＊｝, you're too surprised!");
+MsgSel("It's a small cabbage butterfly.","Isn't it a grasshopper?","｛Nanatsumori＊｝, you're too surprised!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

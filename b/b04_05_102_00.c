@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMouth(5,2);
 VoicePlay("B040510200_05_000");
 MsgDisp("Hiiragi","It must be something worthwhile...");
-MsgSel("I don't get it though...","Should we ride it for a bit?","It's a big bike huh");
+MsgSel("I don't get it though...","Should we ride it for a bit?","That's a big bike");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

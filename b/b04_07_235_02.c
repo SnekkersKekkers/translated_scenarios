@@ -6,7 +6,7 @@ ChOpen(7,255,0,0,1,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723502_07_000");
 MsgDisp("Mikage","There were some minor changes, right?");
-MsgSel("It's the same as always","It's scary...!","The person at the well has changed.");
+MsgSel("It was the same as always.","It's scary...!","The person at the well has changed.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

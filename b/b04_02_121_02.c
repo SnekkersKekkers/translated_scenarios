@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("B040212101_02_000");
 MsgDisp("Sassa","This is a huge turnout.
 Are you alright?");
-MsgSel("Yeah? Do you want to take a little break?","Yeah, because there's a lot of things I wanna buy","Sorry for dragging you around.");
+MsgSel("Yeah? Do you want to take a little break?","Yeah, there's a lot of stuff I wanna buy.","Sorry for dragging you around.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(2,6)){

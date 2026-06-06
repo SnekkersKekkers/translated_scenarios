@@ -16,7 +16,7 @@ ChMotion(1,3);
 VoicePlay("B040123600_01_000");
 MsgDisp("Kazama","Wow, that's impressive.
 Habataki Land is going all out.");
-MsgSel("The skull bear is sparkling","That fish-like person is dancing","Yeah, there's so many lights!");
+MsgSel("The skull bear is sparkling.","That fish-like person is dancing.","Yeah, there's so many lights!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

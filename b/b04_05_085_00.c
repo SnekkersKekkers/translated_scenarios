@@ -10,7 +10,7 @@ VoicePlay("B040508500_05_000");
 MsgDisp("Hiiragi","It's hard to believe how lively it was in
 summer and autumn.
 Are you okay? Aren't you cold?");
-MsgSel("There's two of us so I'll be alright!","A quiet winter is also nice...","Ah, fumes are coming out the spring");
+MsgSel("There's two of us so I'll be alright!","A quiet winter is also nice...","Ah, steam is rising from the spring");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

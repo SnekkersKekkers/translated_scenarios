@@ -89,8 +89,7 @@ while.");
     ChMotion(3,1);
     VoicePlay("B040323402_03_090");
     MsgDisp("Honda","Yep yep, the mechanism of three axes and
-gears. The coffee cup is play equipment that
-that uses this principle.");
+gears. The Tea Cups is a ride that uses this principle.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

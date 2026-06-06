@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040516001_05_000");
 MsgDisp("Hiiragi","Is there anything simple that I can do?");
-MsgSel("Shall we try a dance game?","How about the pinballs?","I want to try the ＶＲ game!");
+MsgSel("Shall we try a dance game?","How about pinball?","I want to try the ＶＲ game!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

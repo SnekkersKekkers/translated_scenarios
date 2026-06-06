@@ -8,7 +8,7 @@ VoicePlay("B040514001_05_000");
 MsgDisp("Hiiragi","There were all sorts of rock bands.
 Today there was a song that I could listen to
 calmly.");
-MsgSel("I'm glad you found something you like","Shall we buy a CD to go home?","I wanted to get a little more excited.");
+MsgSel("I'm glad you found something you like.","Shall we buy a CD before we head home?","I wanted to get a little more excited.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -8,7 +8,8 @@ VoicePlay("B040323302_03_000");
 MsgDisp("Honda","Huh?
 What's this feeling?
 It's neither fun nor scary.");
-MsgSel("Are you alright? Don't push yourself?","Let's confirm it. And go again.","I'm still a bit scared");
+MsgSel("Are you alright? 
+Don't push yourself.","Let's confirm it. And go again.","I'm still a bit scared");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){

@@ -8,7 +8,7 @@ ChMotion(6,4,1);
 VoicePlay("B040610101_06_000");
 MsgDisp("Himuro","Maybe it would be nice to plan something
 here.");
-MsgSel("Like making a character cafe?","I think the deserted atmosphere is good though","How about an event for celebrities?");
+MsgSel("Like making a mascot character?","I think the deserted atmosphere is good though","How about an event for celebrities?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

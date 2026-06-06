@@ -9,10 +9,9 @@ ChMouth(4,4);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403202_04_000");
-MsgDisp("Nanatsumori","Eh.
-Depending on the day, they'll sometimes hold
-events here.");
-MsgSel("It's unfortunate there's no event today.","I hate when it's crowded","They sure are good at attracting customers");
+MsgDisp("Nanatsumori","Huh.
+Seems they hold events here on certain days.");
+MsgSel("It's unfortunate there's no event today.","I hate when it's crowded","They really know how to pull in a crowd.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

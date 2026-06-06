@@ -9,7 +9,7 @@ ChEye(5,4);
 VoicePlay("B040510400_05_000");
 MsgDisp("Hiiragi","They're rich in colors.
 Insects are mysterious.");
-MsgSel("Their colors are beautiful but, the legs...","The big butterflies are scary","Their way of life is mysterious");
+MsgSel("Their colors are beautiful but, the legs...","The big butterflies are scary.","Their way of life is mysterious.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

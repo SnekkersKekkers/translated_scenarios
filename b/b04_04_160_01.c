@@ -8,7 +8,8 @@ VoicePlay("B040416001_04_000");
 MsgDisp("Nanatsumori","You know the crane games.
 The prizes are just toys, but I'm weirdly
 drawn to it?");
-MsgSel("It's like a treasure within reach but you can't get to","Wouldn't it be quicker to just buy it?","It's because you're still a kid.");
+MsgSel("It's like a treasure that's within reach 
+that you can't quite grab.","Wouldn't it be quicker to just buy it?","It's because you're still a kid.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

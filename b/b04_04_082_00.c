@@ -7,7 +7,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040408200_04_000");
 MsgDisp("Nanatsumori","The sun is nice and warm...");
-MsgSel("Makes you want to take a nap, right?","I'm in high spirits","It's ideal weather for a walk.");
+MsgSel("Makes you want to take a nap, right?","I'm in high spirits.","It's ideal weather for a walk.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -42,7 +42,7 @@ Kind of like someone I know.");
     ChMotion(1,0);
     VoicePlay("B040123401_01_030");
     MsgDisp("Kazama","That's fine, but let's take a break.
-Your feet are wobbling?");
+Your legs are all wobbly.");
     MsgDateResultDisp();
     break ;
     default :

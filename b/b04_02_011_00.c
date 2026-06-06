@@ -29,8 +29,8 @@ I have 20/20 vision!");
     ChMotion(2,0);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040201100_02_020");
-    MsgDisp("Sassa","Uh, I don't see my house...
-It's not a mansion.");
+    MsgDisp("Sassa","Uh, I can't see my house...
+As if it'd be some giant mansion anyway.");
     MsgDateResultDisp();
     break ;
     case 2:

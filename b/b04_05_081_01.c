@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040508101_05_000");
 MsgDisp("Hiiragi","Sakura petals are dancing around you.");
-MsgSel("That's a cute-sounding expression right?","Well, join in too, ｛Hiiragi＊＊＊｝?","They're dancing around ｛Hiiragi＊＊＊｝ too?");
+MsgSel("That's a cute way to put it, isn't it?","Well, join in too, ｛Hiiragi＊＊＊｝?","They're dancing around ｛Hiiragi＊＊＊｝ too?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

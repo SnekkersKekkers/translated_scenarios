@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040323600_03_000");
 MsgDisp("Honda","Gah—, we got a late start!
 It's already filled with people—.");
-MsgSel("Let's just enjoy the atmosphere!","We should be able to get a little further forward...","It can't be helped, so let's just give up");
+MsgSel("Let's just enjoy the atmosphere!","We should be able to get a little further forward...","Nothing we can do, let's just give up");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

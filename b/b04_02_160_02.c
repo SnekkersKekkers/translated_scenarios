@@ -45,9 +45,9 @@ Girls really like this stuff huh.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040216002_02_030");
-        MsgDisp("Sassa","What do you mean by complicated?
-Good thing?
-Bad thing?");
+        MsgDisp("Sassa","What do you mean, meh?
+Is that good?
+Or bad?");
         MsgDateResultDisp();
         break ;
         case 4:

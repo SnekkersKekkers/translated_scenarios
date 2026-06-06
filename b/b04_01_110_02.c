@@ -87,7 +87,7 @@ care, right?");
         ChMouth(1,3);
         ChEyeOpenLevel(1,7);
         VoicePlay("B040111002_01_070");
-        MsgDisp("Kazama","What you just said.");
+        MsgDisp("Kazama","You really went there.");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,1);

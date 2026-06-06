@@ -34,8 +34,8 @@ music.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040204600_02_020");
-    MsgDisp("Sassa","A Haba High alumni is performing.
-That kind of rating would be rude.");
+    MsgDisp("Sassa","A Haba High senior is up there performing.
+A rating like that would be rude.");
     MsgDateResultDisp();
     break ;
     default :

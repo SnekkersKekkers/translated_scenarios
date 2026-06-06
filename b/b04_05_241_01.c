@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040524101_05_000");
 MsgDisp("Hiiragi","There was a sign at the entrance reporting
 that a \"lamb was born.\"");
-MsgSel("I want to eat some extra rich farm ice cream","Let's hold one and take a picture","I wonder if lots were born?");
+MsgSel("I want some of that extra-rich farm ice cream.","Let's hold one and take a picture.","I wonder if lots were born?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

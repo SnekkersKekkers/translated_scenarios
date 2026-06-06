@@ -9,7 +9,7 @@ VoicePlay("B040605102_06_000");
 MsgDisp("Himuro","...The pair beside us weren't even looking at
 the stars at all.
 I wonder what they came here for.");
-MsgSel("To love each other?","What a waste of money!","I'm jealous!");
+MsgSel("To get romantic with someone?","What a waste of money!","I'm jealous!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

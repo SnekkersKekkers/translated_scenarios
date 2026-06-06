@@ -110,9 +110,8 @@ You being here made me realize that.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040130002_01_100");
-        MsgDisp("Kazama","Right, you. Being here with the you, who has
-grown up gives me feelings that I didn't have
-as a child.");
+        MsgDisp("Kazama","Right, you. Being here with you, all grown up,
+gives me feelings I never had as a kid.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,0);

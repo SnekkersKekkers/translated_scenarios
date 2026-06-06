@@ -6,7 +6,7 @@ ChOpen(6,255,2,0,0,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623401_06_000");
 MsgDisp("Himuro","...Haa, that was embarrassing.");
-MsgSel("Why?","So shy, Himuro♪","The trick is to just take the offensive");
+MsgSel("Why?","Such a shy one, aren't you♪","The trick is to just own it shamelessly.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

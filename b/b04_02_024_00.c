@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4,1);
     VoicePlay("B040202400_02_010");
     MsgDisp("Sassa","Eh?
-Is it making you sleepy?");
+Did something tire you out?");
     MsgDateResultDisp();
     break ;
     case 1:

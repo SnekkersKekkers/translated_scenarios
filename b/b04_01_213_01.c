@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040121301_01_000");
 MsgDisp("Kazama","It gives you a sense of security that's
 different to other animals.");
-MsgSel("It's nice to be able to hold and stroke them","It's nice to be able to feed them","Recently, there's been some doggy and kitty cafes.");
+MsgSel("It's nice to be able to hold and stroke them.","It's nice to be able to feed them.","Recently, there's been some doggy and kitty cafes.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

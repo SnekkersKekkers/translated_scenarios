@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040306302_03_000");
 MsgDisp("Honda","I know it's dangerous, but I want to walk on
 the water's edge～");
-MsgSel("｛Honda＊＊｝, do your best!","Let's see who can attack!","Hey, if you get wet, you'll catch a cold▼");
+MsgSel("｛Honda＊＊｝, do your best!","Let's see who dares to get closer!","Hey, if you get wet, you'll catch a cold▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

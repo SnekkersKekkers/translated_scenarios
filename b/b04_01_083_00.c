@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,8);
     VoicePlay("B040108300_01_010");
     MsgDisp("Kazama","You...
-That phrase means they're in a grave.");
+That phrase means they're six feet under, in a grave.");
     MsgDateResultDisp();
     break ;
     case 1:

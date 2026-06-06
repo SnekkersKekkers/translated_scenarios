@@ -30,7 +30,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040421202_04_020");
-    MsgDisp("Nanatsumori","No, adults use it too?");
+    MsgDisp("Nanatsumori","No, they make them for adults too?");
     MsgDateResultDisp();
     break ;
     case 2:

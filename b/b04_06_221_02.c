@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040622102_06_000");
 MsgDisp("Himuro","Did you discover anything new?");
-MsgSel("Hmmm, I don't think there was anything new...","｛Himuro＊＊｝, you were always looking at the sea","I'll find something next time.");
+MsgSel("Hmmm, I don't think there was anything new...","｛Himuro＊＊｝, you were always looking at the sea.","I'll find something next time.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

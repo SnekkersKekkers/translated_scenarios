@@ -26,7 +26,7 @@ mountains.");
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("B040422101_04_020");
-    MsgDisp("Nanatsumori","Were you listening to anything I say?");
+    MsgDisp("Nanatsumori","Were you even listening to me?");
     MsgDateResultDisp();
     break ;
     case 2:

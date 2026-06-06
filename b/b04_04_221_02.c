@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040422102_04_000");
 MsgDisp("Nanatsumori","Ah...is that a rainbow over there?");
-MsgSel("You have to hurry and take a picture∈","There was a light drizzle after all, just now","Looks like the sky is giving their blessing▼");
+MsgSel("You have to hurry and take a picture∈","There was a light drizzle after all, just now","Looks like the sky's giving us its blessing▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

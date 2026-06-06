@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040323301_03_000");
 MsgDisp("Honda","...Isn't one coming-of-age ceremony in a
 lifetime enough?");
-MsgSel("This is just a rehearsal, you know?","The jump platform is calling","Next time, just watch without jumping.");
+MsgSel("This is just a rehearsal, you know?","The jump platform is calling...","Next time, just watch without jumping.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -64,8 +64,8 @@ the gym.");
         ChMotion(4,2,1);
         VoicePlay("B040408402_04_070");
         MsgDisp("Nanatsumori","Not really.
-I knew being a model takes small efforts even
-in everyday life.");
+I already knew modeling takes little efforts
+even in everyday life.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);

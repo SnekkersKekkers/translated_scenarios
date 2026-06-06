@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040123502_01_000");
 MsgDisp("Kazama","Apparently these sorts of places attract
 spirits don't they?");
-MsgSel("There's a fallen warrior behind ｛Kazama＊＊｝...","Then, they wouldn't need staff would they?","Eh, i-is that so...?");
+MsgSel("There's a fallen warrior behind ｛Kazama＊＊｝...","Then they wouldn't need any staff, would they?","Eh, i-is that so...?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){

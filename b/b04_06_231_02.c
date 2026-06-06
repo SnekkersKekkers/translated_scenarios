@@ -6,7 +6,7 @@ ChOpen(6,255,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623102_06_000");
 MsgDisp("Himuro","I wonder if they'll upgrade this soon?");
-MsgSel("More than this would be impossible","Should we try putting in a request?","It's enough as is");
+MsgSel("More than this would be impossible!","Should we try putting in a request?","It's enough as is.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

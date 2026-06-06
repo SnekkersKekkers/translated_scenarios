@@ -10,7 +10,7 @@ VoicePlay("B040522100_05_000");
 MsgDisp("Hiiragi","Generations of lords from Habataki Castle
 must have looked out at the scenery from
 here.");
-MsgSel("Do you think they were watching the castle town?","The mountains and oceans haven't changed since long ago","They would be surprised to see it now huh?");
+MsgSel("Do you think they were watching the castle town?","The mountains and the sea haven't changed since back then.","They would be surprised to see it now huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

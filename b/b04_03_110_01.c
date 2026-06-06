@@ -6,7 +6,7 @@ VoicePlay("B040311001_03_000");
 MsgDisp("Honda","Look, that guy is amazing.
 I wonder how it feels to be able to swim like
 that.");
-MsgSel("You end up enchanted huh","Maybe he's a swimmer?","But, the splashing might be annoying");
+MsgSel("You can't help but stare, huh?","Maybe he's a swimmer?","But, the splashing might be annoying");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,2);
     VoicePlay("B040311001_03_010");
     MsgDisp("Honda","That's right...
-Haa, I couldn't take my eyes off you.");
+Haa, I couldn't take my eyes off that.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -25,8 +25,8 @@ Haa, I couldn't take my eyes off you.");
     ChMotion(3,1);
     VoicePlay("B040311001_03_020");
     MsgDisp("Honda","Yeah, maybe.
-Because he's on a different level to everyone
-around him.");
+Because he's on a different level from 
+everyone around him.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

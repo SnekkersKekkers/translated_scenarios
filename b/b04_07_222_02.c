@@ -9,7 +9,7 @@ VoicePlay("B040722202_07_000");
 MsgDisp("Mikage","See?
 There are discoveries you'd never notice in a
 textbook, right?");
-MsgSel("seems like it would be difficult to control the temperature and humidity","It's surprisingly big for a koban coin.","The admission fee is one rich.");
+MsgSel("Controlling the temperature and humidity looks like a real challenge.","It's surprisingly big for a koban coin.","The admission fee is one rich.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

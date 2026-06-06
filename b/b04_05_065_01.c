@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040506501_05_000");
 MsgDisp("Hiiragi","It reverberates in my stomach.
 The intensity is amazing.");
-MsgSel("It's amazing how the fireworks shoot up right overhead!","Shall we eat some yakisoba?","Waa, my juice spilt!");
+MsgSel("It's amazing how the fireworks shoot up right overhead!","Shall we eat some yakisoba?","Ah, my juice spilled!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

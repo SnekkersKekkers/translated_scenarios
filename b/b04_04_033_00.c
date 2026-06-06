@@ -11,7 +11,7 @@ ScrFadeIn(0);
 VoicePlay("B040403300_04_000");
 MsgDisp("Nanatsumori","It's dark...
 I'll set my camera to nightmode.");
-MsgSel("The recent cameras are very capable, so it'll be alright!","The way they use light is a bit unusual.","It's a bit scary...");
+MsgSel("Cameras these days are great, so it'll be fine!","The way they use light is a bit unusual.","It's a bit scary...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

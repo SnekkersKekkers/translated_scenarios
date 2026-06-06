@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040208201_02_000");
 MsgDisp("Sassa","When I come to the waterfront, I want to
 throw stones.");
-MsgSel("That's dangerous!","Stone skipping is fun, huh","Let's have a contest to see how many times we can get it to skip!");
+MsgSel("That's dangerous!","Stone skipping is fun, huh?","Let's have a contest to see how many times we can get it to skip!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -11,7 +11,7 @@ ChMotion(5,4);
 VoicePlay("B040503100_05_000");
 MsgDisp("Hiiragi","This is a large water tank.
 There's also a lot of life.");
-MsgSel("What's the name of that fish?","The pattern of the tropical fish are so pretty▼","Huh∋　I feel something looking at me from behind the rock...");
+MsgSel("What's the name of that fish?","The patterns on the tropical fish are so pretty▼","Huh∋　I feel something looking at me from behind the rock...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

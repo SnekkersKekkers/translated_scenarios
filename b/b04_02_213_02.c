@@ -74,9 +74,9 @@ But is there a doggy that can keep up with
         ChMouth(2,4);
         ChMotion(2,5);
         VoicePlay("B040221302_02_060");
-        MsgDisp("Sassa","There is, there is.
-Not only is there a dog that can match my
-speed, but I would completely lose to it too.");
+        MsgDisp("Sassa","Oh yeah, definitely.
+Forget matching me, they'd leave me
+in the dust.");
         MsgDisp("主人公","Eh?
 Really?");
         ChEye(2,0);

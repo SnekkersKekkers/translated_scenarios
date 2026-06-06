@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040116002_01_000");
 MsgDisp("Kazama","That fishing game has a really realistic feel
 when you reel something in.");
-MsgSel("It's like real fishing huh?","You get medals for catching fish","Shall we play fishing-fishing champ again?");
+MsgSel("It's like real fishing huh?","You get medals for catching fish","Shall we play Fishing-Fishing Champ again?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){

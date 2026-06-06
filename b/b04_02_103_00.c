@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040210300_02_000");
 MsgDisp("Sassa","When I think of him as our senior at Haba
 High, I feel some sort of kinship?");
-MsgSel("We only have wonderful seniors, huh","He used the same classrooms as us, huh?","It's like it's already his own exhibition.");
+MsgSel("We only have wonderful seniors, huh.","He used the same classrooms as us, huh?","It's like it's already his own exhibition.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

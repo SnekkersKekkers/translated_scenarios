@@ -75,7 +75,7 @@ Amazing!");
         ChMouth(6,4);
         ChMotion(6,4);
         VoicePlay("B040615202_06_070");
-        MsgDisp("Himuro","But, the probability raises depending on the
+        MsgDisp("Himuro","But, the probability goes up depending on the
 reward.");
         MsgDisp("主人公","You want a drink or something?");
         ChEye(6,0);

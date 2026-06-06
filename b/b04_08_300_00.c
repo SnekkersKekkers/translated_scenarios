@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040830000_08_000");
 MsgDisp("Shirahane","This is my room.
 I share it with my older brother.");
-MsgSel("It's a wonderful room!","It's a very boyish room","...It sure is a unique room, isn't it?");
+MsgSel("It's a wonderful room!","It's a very boyish room.","...It sure is a unique room, isn't it?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

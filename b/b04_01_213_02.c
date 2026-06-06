@@ -7,7 +7,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121302_01_000");
 MsgDisp("Kazama","For some reason the dogs always go up to you.");
-MsgSel("Maybe I smell of something?","Apparently animals can tell the difference between good and bad people","Maybe it's cause I'm holding food?");
+MsgSel("Maybe I smell of something?","Apparently animals can tell the difference between good and bad people.","Maybe it's cause I'm holding food?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -29,8 +29,8 @@ fluffy kind of smell.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121302_01_020");
     MsgDisp("Kazama","Oi, what does that mean?
-...Well in comparison to you anyways, it
-doesn't look like I can win.");
+...Well, compared to you, I don't stand a
+chance.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

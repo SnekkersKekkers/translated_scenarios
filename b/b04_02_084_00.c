@@ -6,7 +6,7 @@ ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040208400_02_000");
 MsgDisp("Sassa","This is a nice season isn't it?");
-MsgSel("Anything tastes good right?","Nature is beautiful huh!","It's a little melancholy...");
+MsgSel("Anything tastes good, right?","Nature is beautiful huh!","It's a little melancholy...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

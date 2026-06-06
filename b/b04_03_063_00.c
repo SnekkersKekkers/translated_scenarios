@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040306300_03_000");
 MsgDisp("Honda","The sea at Hanegasaki differs depending on
 the season.");
-MsgSel("We have the sea all to ourselves!","The winter sea is miserable huh...","The winter sea has many tasty things♪");
+MsgSel("We have the sea all to ourselves!","The winter sea is kind of melancholy, huh...","The winter sea has many tasty things♪");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

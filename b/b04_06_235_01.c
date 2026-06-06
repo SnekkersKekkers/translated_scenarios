@@ -6,7 +6,7 @@ ChOpen(6,255,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623501_06_000");
 MsgDisp("Himuro","Why do the ghosts look like that?");
-MsgSel("It's because we don't understand it that it's scary","To frighten?","There's no reasoning for it.");
+MsgSel("It's scary because we don't understand it.","To frighten?","There's no reasoning for it.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

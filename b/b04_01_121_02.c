@@ -11,7 +11,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040112102_01_000");
 MsgDisp("Kazama","Alright, this is the perfect place to check
-your fashion sense every once in awhile.");
+your fashion sense every once in a while.");
 MsgSel("Then I'll pick out some clothes for ｛Kazama＊＊｝▼","Yeah, let's get something matching.","Alright, I'll get serious!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -64,7 +64,7 @@ You can loosen up a bit.");
         ChMotion(1,3);
         VoicePlay("B040112102_01_040");
         MsgDisp("Kazama","Seriously?
-Please go gentle on me.");
+Please go easy on me.");
         MsgDisp("主人公","I'll definitely make you happy with it!");
         ChEye(1,2);
         ChMouth(1,3);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040622200_06_000");
 MsgDisp("Himuro","It's empty.");
-MsgSel("We've basically got it to ourselves huh?","What a shame...","Will they be alright with the maintenance costs?");
+MsgSel("We've basically got it to ourselves, huh?","What a shame...","Will they be alright with the maintenance costs?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

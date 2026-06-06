@@ -6,8 +6,8 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040322200_03_000");
-MsgDisp("Honda","There's so much display items here that are
-valuable enough to be put in a museum.");
+MsgDisp("Honda","There are so many items on display here
+valuable enough for a museum.");
 MsgSel("A letter from 100 years ago?","A beautiful katana","This armor and helmet
  looks heavy...");
 switch (MsgSelRsltGet()){

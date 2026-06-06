@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040520002_05_000");
 MsgDisp("Hiiragi","T-The wind is strong, huh...");
-MsgSel("｛Hiiragi＊＊＊｝, are you alright?","We should take a lift down after all","Let's glide down slowly.");
+MsgSel("｛Hiiragi＊＊＊｝, are you alright?","We should take a lift down after all.","Let's glide down slowly.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

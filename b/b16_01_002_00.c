@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160100200_01_000");
 MsgDisp("Kazama","What's up with that?
 Is there something on my face?");
-MsgSel("Your eyes, nose and mouth?","Sorry, I was staring");
+MsgSel("Your eyes, nose and mouth?","Sorry, I was staring.");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(1,2);

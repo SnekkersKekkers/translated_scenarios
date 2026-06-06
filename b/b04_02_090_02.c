@@ -77,7 +77,7 @@ That's about it.");
         VoicePlay("B040209002_02_070");
         MsgDisp("Sassa","Ah, but if you made them at home, I would eat
 lots of it.");
-        MsgDisp("主人公","Homegrown vegetables?");
+        MsgDisp("主人公","Home-cooked vegetables?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

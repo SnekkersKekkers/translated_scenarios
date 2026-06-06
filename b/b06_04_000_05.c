@@ -12,7 +12,7 @@ VoicePlay("B060400005_04_000");
 MsgDisp("Nanatsumori","...By the way.
 Is this place your current top pick? 'Cause
 I'm already bored of it.");
-MsgDisp("主人公","(I've done it!
+MsgDisp("主人公","(Oh no!
 I should at least remember where we've been
 on our last date!)");
 MsgDispSksp(0);

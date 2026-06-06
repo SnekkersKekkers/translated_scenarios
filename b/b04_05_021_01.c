@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040502101_05_010");
     MsgDisp("Hiiragi","That would be nice!
-It would be fun to spend new years day with
-you.");
+It would be fun to spend New Year's 
+with you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

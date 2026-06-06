@@ -46,12 +46,12 @@ have changed as well.");
         ChMotion(6,0);
         VoicePlay("B040623602_06_030");
         MsgDisp("Himuro","Of course.
-It's 10 years into the future?");
+We're talking ten years from now.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623602_06_040");
-        MsgDisp("Himuro","We'll have graduated.
+        MsgDisp("Himuro","We'll have finished university.
 And there's a chance we'll have jobs too.");
         ChEye(6,0);
         ChMouth(6,0);

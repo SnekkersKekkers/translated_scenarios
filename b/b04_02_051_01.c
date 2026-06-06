@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040205101_02_000");
 MsgDisp("Sassa","The vibe here is quite similar to that other
 place, right?");
-MsgSel("The movie theater?","Aquarium's Deep Sea Corner!","The Haunted House?");
+MsgSel("The Cinema?","The Aquarium's Deep Sea Corner!","The Haunted House?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

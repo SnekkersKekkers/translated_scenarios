@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521301_05_000");
 MsgDisp("Hiiragi","There's a little garden outside too.");
-MsgSel("It's a dog park!","The doggies are playing there","I want to play with the doggies and kitties?");
+MsgSel("It's a dog park!","The doggies are playing over there!","I want to play with the doggies and kitties?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

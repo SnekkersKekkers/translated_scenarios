@@ -9,7 +9,7 @@ VoicePlay("B040211101_02_000");
 MsgDisp("Sassa","A figure skater's sense of balance is
 amazing, huh?
 I wonder how they train.");
-MsgSel("They revolve like a spinning top, huh?","Isn't it natural born talent?","Amusement park coffee cups?");
+MsgSel("They revolve like a spinning top, huh?","Isn't it natural born talent?","Amusement Park Tea Cups?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

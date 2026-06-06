@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040506200_05_000");
 MsgDisp("Hiiragi","Habataki City has an endless supply of
 tourist attractions.");
-MsgSel("The air is chilly, and feels nice","I wonder if the water is deep here?","The water's surface is shining blue, like a jewel...");
+MsgSel("The air is cool and feels nice.","I wonder if the water is deep here?","The water's surface is shining blue, like a jewel...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

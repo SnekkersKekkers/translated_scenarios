@@ -9,7 +9,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B040511001_05_000");
 MsgDisp("Hiiragi","The water slide is rather fast.");
-MsgSel("Let's try it!","It might be a bit scary","I prefer the normal slide.");
+MsgSel("Let's try it!","It might be a bit scary.","I prefer the normal slide.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

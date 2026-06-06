@@ -7,8 +7,8 @@ ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040215202_02_000");
 MsgDisp("Sassa","Huh?
-What's wrong?
-Are you not feeling well?");
+What's up?
+You're way off today.");
 MsgSel("It's because ｛Sassa＊＊｝ is watching...","I'm the same as always!","I'll get serious from the next one!");
 switch (MsgSelRsltGet()){
     case 0:

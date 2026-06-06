@@ -95,7 +95,7 @@ But isn't that sort of superficial?");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040109002_01_080");
-        MsgDisp("Kazama","Any time, any place, any part of the world...
+        MsgDisp("Kazama","East or West, past or present, it's all the same...
 That's my dad's favorite saying. But isn't it
 better to be devoted to one thing?");
         ChEye(1,2);

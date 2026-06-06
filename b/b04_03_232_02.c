@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040323202_03_000");
 MsgDisp("Honda","I'm gradually starting to understand the good
 points of ferris wheels.");
-MsgSel("If you look into the distance, it's not scary.","The feeling that you're detaching yourself from the surface feels nice.","We get to take our time to talk, right?");
+MsgSel("If you look into the distance, it's not scary.","I love that feeling of being lifted away from the ground.","We get to take our time to talk, right?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

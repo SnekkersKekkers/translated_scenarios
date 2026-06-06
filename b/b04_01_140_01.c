@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040114001_01_010");
     MsgDisp("Kazama","I see.
 Then that's fine.
-At any rate, stick close to me.");
+Anyway, just stick close to me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,7 +42,7 @@ How can you say that?");
     VoicePlay("B040114001_01_030");
     MsgDisp("Kazama","That's dangerous...
 If anyone tries to dive off the stage at you,
-I'll definitely stop them, so don't worry");
+I'll definitely stop them, so don't worry.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

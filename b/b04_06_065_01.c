@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040606501_06_000");
 MsgDisp("Himuro","Do you think we'll be able to see these
 fireworks again next year?");
-MsgSel("Yeah, let's see them together.","I'll be by myself, but I'll come watch it","Maybe we won't be able to see it...");
+MsgSel("Yeah, let's see them together.","Even on my own, I'll come watch them","Maybe we won't be able to see it...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

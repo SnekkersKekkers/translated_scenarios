@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040105100_01_010");
-    MsgDisp("Kazama","Ehh, you like it too, huh.
-Well, maybe that's normal.");
+    MsgDisp("Kazama","Huh, so you like it too.
+Well, figures, I guess.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

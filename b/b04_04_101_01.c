@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040410101_04_000");
 MsgDisp("Nanatsumori","Retro goods are popular, but this is still
 too retro.");
-MsgSel("These are not goods, these are cultural assets!","Maybe they'll become in fashion again?","It's not good just because it's old.");
+MsgSel("These aren't just goods, they're cultural treasures!","Maybe they'll become in fashion again?","It's not good just because it's old.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

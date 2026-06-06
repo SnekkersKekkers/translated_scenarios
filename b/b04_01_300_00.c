@@ -27,9 +27,9 @@ It's just a normal kid's room?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040130000_01_020");
-    MsgDisp("Kazama","Right. I've been sorting things out since
-I've come back here, but it still looks like
-an elementary school kid's room?");
+    MsgDisp("Kazama","Right. I've been sorting things out since I
+got back, but it still looks like an
+elementary schooler's room, doesn't it?");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -44,8 +44,8 @@ an elementary school kid's room?");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040130000_01_030");
     MsgDisp("Kazama","Wait, don't stare at it too hard.
-I still haven't managed to organize it since
-I've got back here.");
+I still haven't managed to organize it since I
+got back.");
     MsgDateResultDisp();
     break ;
     default :

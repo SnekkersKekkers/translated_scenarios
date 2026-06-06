@@ -31,8 +31,8 @@ Well, that's the way it goes then.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040110500_01_020");
     MsgDisp("Kazama","No kidding.
-I don't think there's anything harder to get
-than the modern art exhibit.");
+I don't think there's anything harder to
+wrap your head around than the modern art exhibit.");
     MsgDateResultDisp();
     break ;
     case 2:

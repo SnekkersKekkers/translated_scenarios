@@ -9,7 +9,7 @@ VoicePlay("B040309000_03_000");
 MsgDisp("Honda","As you move through the areas, the climate
 and vegetation both differ.
 This is really fun, huh?");
-MsgSel("This flower has an amazing smell...","It's pretty clammy due to the humidity, huh?","Where are the carnivorous plants?");
+MsgSel("This flower has an amazing smell...","It's so humid and clammy in here, huh?","Where are the carnivorous plants?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

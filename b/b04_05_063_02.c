@@ -8,7 +8,7 @@ ChMouth(5,4);
 VoicePlay("B040506302_05_000");
 MsgDisp("Hiiragi","The color appears completely different to the
 summer sea.");
-MsgSel("As I thought, the summer sea is better.","It's nice that it has many different appearances huh?","I might like the winter sea better.");
+MsgSel("As I thought, the summer sea is better.","It's nice that it has so many different faces, isn't it?","I might like the winter sea better.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){

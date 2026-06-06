@@ -5,9 +5,9 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040508402_05_000");
-MsgDisp("Hiiragi","The red leaves look nice on the blue water's
-surface doesn't it?");
-MsgSel("It really touches your heart doesn't it?","Yeah, instagrammable, instagrammable.","It makes you feel calm");
+MsgDisp("Hiiragi","The red leaves look lovely on the blue water's
+surface, don't they?");
+MsgSel("It really touches your heart, doesn't it?","Yeah, instagrammable, instagrammable.","It makes you feel calm.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

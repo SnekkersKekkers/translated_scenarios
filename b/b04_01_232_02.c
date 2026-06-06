@@ -9,7 +9,7 @@ ChCheek(1,5);
 VoicePlay("B040123202_01_000");
 MsgDisp("Kazama","Even though there are a lot of people around,
 if you ride this, it's just the two of us.");
-MsgSel("It's a perfect locked room!","They won't know anything no matter what we do huh?","Yeah, it's like a small room.");
+MsgSel("It's a perfect locked room!","They won't know anything no matter what we do, huh?","Yeah, it's like a small room.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

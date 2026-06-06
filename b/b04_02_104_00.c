@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040210400_02_000");
-MsgDisp("Sassa","The rhinoceros beetle is cool, huh?");
-MsgSel("Insects are insects","It's somewhat scary","The belly part is just...");
+MsgDisp("Sassa","Beetles are cool, huh?");
+MsgSel("Insects are insects.","It's somewhat scary.","The belly part is just...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040516000_05_000");
 MsgDisp("Hiiragi","I hope you can hear me.");
-MsgSel("I want to challenge the coin pusher!","How about taking on the quiz game?","Do you want to try the compatibility horoscope?");
+MsgSel("I want to try the medal game!","How about taking on the quiz game?","Do you want to try the compatibility horoscope?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

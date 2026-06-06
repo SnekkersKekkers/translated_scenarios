@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040606500_06_000");
 MsgDisp("Himuro","They're magnificent.
 It's so loud though...");
-MsgSel("A summer highlight that colours the night sky! Tamaya～!","Ah, look! It's in the shape of a big heart∈","I feel sad now that it's ending.");
+MsgSel("A summer highlight that colors the night sky! Tamaya～!","Ah, look! It's in the shape of a big heart∈","I feel sad now that it's ending.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

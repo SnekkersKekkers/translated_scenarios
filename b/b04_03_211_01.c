@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040321101_03_000");
 MsgDisp("Honda","They're all packed out today.
 Let's be efficient in seeing lots of things!");
-MsgSel("Seems like the reptile zone is empty.","The naked mole rat is an amazing name huh?","There's a new born corner?");
+MsgSel("Seems like the reptile zone is empty.","The naked mole rat is an amazing name huh?","There's a newborn corner?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

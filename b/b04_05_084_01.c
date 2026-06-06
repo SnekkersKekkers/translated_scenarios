@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040508401_05_000");
 MsgDisp("Hiiragi","After the fireflies, the trees will begin to
 get lively.");
-MsgSel("I like the autumn leaves more!","Lets collect the fallen leaves.","The firefly habitat is wonderful no matter which season.");
+MsgSel("I like the autumn leaves more!","Let's collect the fallen leaves.","The firefly habitat is wonderful no matter which season.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040523301_05_000");
 MsgDisp("Hiiragi","The show starts the moment you sign the
 waiver.");
-MsgSel("My hands are shaking...","It's my own responsibility huh...","You can't sign so lightly");
+MsgSel("My hands are shaking...","It's my own responsibility huh...","You shouldn't sign so carelessly.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
