@@ -7,7 +7,7 @@ ChMotion(4,1);
 ChEyeOpenLevel(4,10);
 VoicePlay("B020402127_04_000");
 MsgDisp("Nanatsumori","I see.
-That's right, girly type.");
+Guess that's right, you're a girl after all.");
 MsgDisp("主人公","Huh?");
 ChEye(4,0);
 ChMouth(4,3);

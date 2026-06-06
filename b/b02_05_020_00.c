@@ -22,9 +22,9 @@ MsgDisp("主人公","Yeah, that makes me happy.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B020502000_05_030");
-MsgDisp("Hiiragi","This is a frequent topic of discussion among
-us juniors, and you even got his T-shirt...
-I am a bit jealous.");
+MsgDisp("Hiiragi","Us underclassmen have talked about him for 
+years now, and you even got his T-shirt...
+I'm a little jealous.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B020502000_05_040");

@@ -8,6 +8,6 @@ ScrFadeIn(0);
 VoicePlay("B030324000_03_000");
 MsgDisp("Honda","...Ahh.
 The air is rich with oxygen and the smell of
-animals. Farms are the best!");
+animals. The Ranch is the best!");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

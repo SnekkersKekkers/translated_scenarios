@@ -5,7 +5,7 @@ ChMotion(6,0);
 VoicePlay("B020602136_06_000");
 MsgDisp("Himuro","...I don't know how to put it, but I respect
 you.");
-MsgDisp("主人公","Huh, do what?");
+MsgDisp("主人公","Huh, for what?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

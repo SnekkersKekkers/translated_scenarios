@@ -22,8 +22,8 @@ Hopefully there's a new section to see.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B030403001_04_020");
-    MsgDisp("Nanatsumori","As expected.
-You get it.");
+    MsgDisp("Nanatsumori","Nice pick.
+You really get it.");
     MsgDispSksp(0);
     break ;
     default :

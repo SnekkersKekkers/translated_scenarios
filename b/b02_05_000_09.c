@@ -9,7 +9,7 @@ MsgDisp("Hiiragi","What a wonderful color.");
 MsgDisp("主人公","Really?
 It's the latest trendy color.");
 VoicePlay("B020500009_05_010");
-MsgDisp("Hiiragi","I do not care if it is popular or not, but
-that it looks good on you.");
+MsgDisp("Hiiragi","I do not care if it is popular or not.
+What matters is that it looks good on you.");
 MsgDisp("主人公","(Awesome!
 ｛Hiiragi＊＊＊｝ gave me a compliment!)");

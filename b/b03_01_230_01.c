@@ -6,7 +6,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B030123001_01_000");
 MsgDisp("Kazama","Well then, what should we do?");
-MsgSel("The Roller Coaster sounds fun!","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the tea cups.","Let's go in the haunted house.");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try bungee jumping!","I want to ride the Tea Cups.","Let's go in the haunted house.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);
@@ -40,7 +40,7 @@ effects, don't they?");
     ChMotion(1,3);
     VoicePlay("B030123001_01_030");
     MsgDisp("Kazama","Right.
-We'll start off with the ferris wheel.");
+We'll start off with the Ferris Wheel.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

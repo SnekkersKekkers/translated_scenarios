@@ -16,8 +16,8 @@ Wait(40);
 ScrFadeIn(0);
 ChMotion(2,4);
 VoicePlay("B030218000_02_010");
-MsgDisp("Sassa","We have a straight on view to the front.
-Pretty perfect, huh?");
+MsgDisp("Sassa","We've got a clear view right up front.
+Pretty perfect spot, huh?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Yeah, seems like it.");
 MsgDispSksp(0);

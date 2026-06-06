@@ -2,7 +2,7 @@ ChEye(3,5);
 ChMouth(3,5);
 ChMotion(3,5,1);
 VoicePlay("B020300014_03_000");
-MsgDisp("Honda","Waah, we're a matching couple!");
+MsgDisp("Honda","Whoa, we're matching!");
 MsgDisp("主人公","Huh?
 Oh, we really are!");
 ChEye(3,3);

@@ -9,8 +9,7 @@ ChMouth(8,3);
 ChMotion(8,3);
 VoicePlay("B020802000_08_010");
 MsgDisp("Shirahane","It suits you.
-Wearin' that is proof that you're a real
-fashionable person.");
+Wearin' that just proves you've got real style.");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,0);

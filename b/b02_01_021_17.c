@@ -2,8 +2,8 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,0);
 VoicePlay("B020102117_01_000");
-MsgDisp("Kazama","Asserting yourself with that kind of fashion
-is a real talent.");
+MsgDisp("Kazama","Pulling off that kind of fashion and still
+showing your own style takes real talent.");
 MsgDisp("主人公","Huh?
 Over these clothes?
 You're just exaggerating.");

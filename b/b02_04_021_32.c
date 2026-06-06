@@ -5,8 +5,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1);
 VoicePlay("B020402132_04_000");
-MsgDisp("Nanatsumori","Baring too much skin isn't sexy.
-I see, I learned something new.");
+MsgDisp("Nanatsumori","Showing too much skin isn't actually 
+what makes it sexy.
+Huh, so that's how it works.");
 MsgDisp("主人公","｛Nanatsumori＊｝?");
 ChEye(4,0);
 ChMouth(4,3);

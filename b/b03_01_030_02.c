@@ -4,7 +4,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B030103002_01_000");
-MsgDisp("Kazama","Seems we can spend our time anywhere, huh?");
+MsgDisp("Kazama","Looks like we can relax anywhere, huh?");
 MsgSel("Let's go to the aquarium.","Water Garden sounds nice.","Let's go to the Deep Sea Corner.");
 switch (MsgSelRsltGet()){
     case 0:

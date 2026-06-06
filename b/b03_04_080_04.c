@@ -6,7 +6,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B030408004_04_000");
 MsgDisp("Nanatsumori","There aren't any fireflies in winter.");
-MsgDisp("主人公","Yeah, seems not.");
+MsgDisp("主人公","Yeah, guess not.");
 MsgDispSksp(1,0);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,6);

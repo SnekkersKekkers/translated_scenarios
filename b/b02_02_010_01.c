@@ -13,5 +13,5 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B020201001_02_010");
 MsgDisp("Sassa","It's not weird, but how do I put it?
-It's not raising the mood at all?");
+It's just not getting me pumped, y'know?");
 MsgDisp("主人公","(I guess he doesn't like this swimsuit.)");

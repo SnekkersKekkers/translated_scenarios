@@ -4,8 +4,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 ScrFadeIn(0);
 VoicePlay("B030421000_04_000");
-MsgDisp("Nanatsumori","I think I'll pause here and there.
-Will you stick with me?");
+MsgDisp("Nanatsumori","I'll probably keep stopping along the way.
+You cool with that?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Yeah.
 I hope you get some good pictures.");

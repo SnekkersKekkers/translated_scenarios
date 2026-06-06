@@ -22,8 +22,8 @@ Do you wanna count the number of bricks?");
     ChMotion(3,3);
     VoicePlay("B030302001_03_010");
     MsgDisp("Honda","Sure thing.
-It's a good time to catch a nice ride out.
-Let's go!");
+Hopefully there's a boat scheduled around
+this time. Let's go!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
     ScrFadeOut(0);

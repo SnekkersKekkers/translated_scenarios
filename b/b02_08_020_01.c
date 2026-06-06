@@ -10,7 +10,7 @@ ChMouth(8,4);
 ChMotion(8,2);
 VoicePlay("B020802001_08_010");
 MsgDisp("Shirahane","Ahh, that's right.
-Hazuki Kei is an alumni of Habataki High.
+Hazuki Kei is an alumnus of Habataki High.
 Ya must really respect him as a senior.");
 ChEye(8,3);
 ChMouth(8,3);

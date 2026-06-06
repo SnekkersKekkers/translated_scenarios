@@ -2,7 +2,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B020300012_03_000");
-MsgDisp("Honda","Oh, didn't you have that on before?");
+MsgDisp("Honda","Oh, weren't you wearing that last time too?");
 MsgDisp("主人公","Huh?");
 ChEye(3,4);
 ChMouth(3,0);

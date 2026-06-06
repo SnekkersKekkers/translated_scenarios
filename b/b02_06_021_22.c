@@ -3,7 +3,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B020602122_06_000");
 MsgDisp("Himuro","What's your aim, dressed like that?");
-MsgDisp("主人公","...In regards to you?");
+MsgDisp("主人公","...You, maybe?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);

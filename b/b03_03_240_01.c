@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030324001_03_000");
 MsgDisp("Honda","...Ahh.
 The air is rich with oxygen and the smell of
-animals. Farms are the best!");
+animals. The Ranch is the best!");
 MsgSel("I wonder if there are animals?","Want to head to the campground?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,8 +26,8 @@ Let's go and see what we can find!");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B030324001_03_020");
-    MsgDisp("Honda","Yeppers, good idea.
-Imagine that we're surviving on a deserted
+    MsgDisp("Honda","Yep yep, good idea.
+Let's pretend we're surviving on a desert
 island!");
     MsgDispSksp(0);
     break ;

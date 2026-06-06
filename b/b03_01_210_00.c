@@ -9,6 +9,6 @@ VoicePlay("B030121000_01_000");
 MsgDisp("Kazama","You can really feel the wildlife all around
 here.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","I suppose that is true...");
+MsgDisp("主人公","Yeah, that's true...");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

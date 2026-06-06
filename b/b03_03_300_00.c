@@ -5,7 +5,7 @@ ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 ScrFadeIn(0);
 VoicePlay("B030330000_03_000");
-MsgDisp("Honda","Welcome to the dwelling of creatures.
+MsgDisp("Honda","Welcome to the home of all these critters.
 I'll have to introduce you to everyone.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Th-thanks for having me over!");

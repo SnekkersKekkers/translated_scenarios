@@ -16,8 +16,8 @@ ChMouth(4,2);
 ChMotion(4,0);
 VoicePlay("B020401001_04_010");
 MsgDisp("Nanatsumori","It's not weird.
-But I can't deny it's not quite right,
-either.");
+But I can't shake the feeling it's just not
+quite right.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2);

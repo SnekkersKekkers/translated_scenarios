@@ -6,7 +6,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("B020402100_04_000");
 MsgDisp("Nanatsumori","Very cool.
-Putting models to shame.");
+You put real models to shame.");
 MsgDisp("主人公","You mean, my fashion today?");
 ChEye(4,4);
 ChMouth(4,3);

@@ -13,9 +13,9 @@ ChMouth(4,0);
 ChMotion(4,5,1);
 ChCheek(4,8);
 VoicePlay("B020402123_04_010");
-MsgDisp("Nanatsumori","Uh, nevermind.
-You have a big sister look today.
-...Is that what you were aiming for?");
+MsgDisp("Nanatsumori","Uh, never mind.
+You've got an Older Sister vibe today.
+...Were you going for that?");
 MsgDisp("主人公","(?
 But ｛Nanatsumori＊｝ seems to like these
 clothes too.)");

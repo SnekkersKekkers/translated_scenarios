@@ -7,7 +7,7 @@ MsgDisp("Kazama","Ooh.
 You've been keeping up with the trends.
 Just as I'd expect.");
 MsgDisp("主人公","Yeah.
-I've been studying them?");
+I've been doing my homework, you know?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

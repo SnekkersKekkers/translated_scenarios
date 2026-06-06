@@ -3,7 +3,7 @@ ChMouth(5,2);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B020501001_05_000");
-MsgDisp("Hiiragi","I see you came like that.");
+MsgDisp("Hiiragi","So that's the look you went with.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, is something wrong?");
 ChEye(5,2);
 ChMouth(5,4);

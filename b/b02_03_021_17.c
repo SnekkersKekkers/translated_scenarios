@@ -2,7 +2,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B020302117_03_000");
-MsgDisp("Honda","Ah, there's goods like that too.
+MsgDisp("Honda","Ah, there's products like that, huh.
 It's like bringing the flavor out of raw
 ingredients.");
 MsgDisp("主人公","Um...

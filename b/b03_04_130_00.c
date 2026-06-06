@@ -8,7 +8,7 @@ MsgDisp("Nanatsumori","It's more like taking a stroll than proper
 window shopping.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe!
-Then shall we take a closer look around?");
+Then let's take a good look around, okay?");
 MsgDispSksp(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

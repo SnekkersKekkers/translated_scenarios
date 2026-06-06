@@ -10,7 +10,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B030222000_02_010");
-MsgDisp("Sassa","Then please be my guide.
+MsgDisp("Sassa","Then you can be my guide.
 I don't get this stuff at all.");
 MsgSel("I want to see the castle tower","Let's go to the Exhibition Corner");
 switch (MsgSelRsltGet()){

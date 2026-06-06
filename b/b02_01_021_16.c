@@ -9,8 +9,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102116_01_010");
-MsgDisp("Kazama","Yeah, I'm receiving strength from you like
-always.
-Thank you.");
+MsgDisp("Kazama","Yeah, you always give me a boost.
+Thanks.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
 this.)");

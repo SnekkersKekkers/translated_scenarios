@@ -9,8 +9,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B020602107_06_010");
-MsgDisp("Himuro","Regardless of if it is or isn't, I can't
+MsgDisp("Himuro","Whether it's my taste or not, I can't
 complain.
-It fits you.");
+It suits you.");
 MsgDisp("主人公","(I'm glad!
 ｛Himuro＊＊｝ seems really pleased!)");

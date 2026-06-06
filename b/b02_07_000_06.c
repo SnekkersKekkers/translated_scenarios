@@ -10,4 +10,4 @@ ChMotion(7,1);
 VoicePlay("B020700006_07_010");
 MsgDisp("Mikage","I think it's interesting, personally.
 But what would most people think of it?");
-MsgDisp("主人公","(Today's coordination was pretty bad...)");
+MsgDisp("主人公","(Today's outfit was pretty bad...)");

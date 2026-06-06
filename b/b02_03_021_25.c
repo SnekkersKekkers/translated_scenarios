@@ -10,9 +10,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B020302125_03_010");
-MsgDisp("Honda","That's what I thought I'd think, but...
-When you're wearing it, it works.
-Really works!");
+MsgDisp("Honda","At least that's what I always figured...
+But on you, it works.
+It really works!");
 MsgDisp("主人公","(Oh, good.
 ｛Honda＊＊｝ seems to like clothes like this,
 too.)");

@@ -6,6 +6,6 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030312000_03_000");
-MsgDisp("Honda","Huh...
-Seems like they sell anything, huh?");
+MsgDisp("Honda","Hmm...
+Looks like they sell just about anything?");
 MsgDispSksp(0);

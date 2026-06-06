@@ -7,8 +7,8 @@ ChMotion(4,0);
 VoicePlay("B020400011_04_000");
 MsgDisp("Nanatsumori","...It's that.
 Do you like it?");
-MsgDisp("主人公","Hehe, I wouldn't have it on otherwise, right?
-The present you gave me.
+MsgDisp("主人公","Oh, the present you gave me?
+Hehe, that's exactly why I wore it.
 So, what do you think?");
 ChEye(4,0);
 ChMouth(4,3);

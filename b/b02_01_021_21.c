@@ -2,7 +2,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B020102121_01_000");
-MsgDisp("Kazama","That's a sort of refreshing feel.");
+MsgDisp("Kazama","There's kind of a fresh feel to it.");
 MsgDisp("主人公","My clothes today?");
 ChEye(1,0);
 ChMouth(1,3);

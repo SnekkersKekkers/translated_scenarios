@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     MsgDisp("Sassa","You got it.
-Well, let's take our time.");
+Alright, let's wander around.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     break ;

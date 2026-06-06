@@ -7,8 +7,8 @@ clothing you wear.");
 MsgDisp("主人公","You think so?");
 ChMotion(5,3);
 VoicePlay("B020502116_05_010");
-MsgDisp("Hiiragi","Yes. I believe they call this vigor.
-I can even feel your energy.
-It's very pleasant.");
+MsgDisp("Hiiragi","Yes. Liveliness, I suppose you'd call it. 
+I can really feel your energy. 
+It's lovely.");
 MsgDisp("主人公","(Oh, good!
 ｛Hiiragi＊＊＊｝ seems to like this outfit!)");

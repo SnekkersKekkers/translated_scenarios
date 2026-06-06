@@ -5,8 +5,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,3);
 VoicePlay("B020402134_04_000");
-MsgDisp("Nanatsumori","That phrase 'a beautiful woman' is pretty
-fitting right now.");
+MsgDisp("Nanatsumori","'A Beauty Beyond Words'—that's exactly 
+the phrase for this.");
 MsgDisp("主人公","Um...
 About me?");
 ChEye(4,0);

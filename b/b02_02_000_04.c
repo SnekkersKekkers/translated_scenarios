@@ -10,6 +10,6 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B020200004_02_010");
-MsgDisp("Sassa","If you can't see your legs, it'll be hard to
-move around quickly.");
+MsgDisp("Sassa","It's hard to see where you're stepping, so
+you'll be slow to react.");
 MsgDisp("主人公","(...Maybe I'm wearing too many layers.)");

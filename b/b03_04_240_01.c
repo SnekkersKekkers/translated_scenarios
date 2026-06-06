@@ -15,9 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B030424001_04_010");
-    MsgDisp("Nanatsumori","It would just be a bunch of grassland
-otherwise.
-Well, let's go...");
+    MsgDisp("Nanatsumori","Without them it's just an empty field.
+Well, let's go check it out...");
     MsgDispSksp(0);
     break ;
     case 1:

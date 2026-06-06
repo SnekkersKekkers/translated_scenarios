@@ -32,8 +32,8 @@ There's something that caught your eye, yes?");
     ChEye(5,3);
     ChMouth(5,3);
     VoicePlay("B030502002_05_010");
-    MsgDisp("Hiiragi","Me too.
-Let's hurry, it's departure time!");
+    MsgDisp("Hiiragi","So do I.
+Let's hurry, the boat's about to set sail!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     break ;

@@ -12,7 +12,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B020402118_04_010");
-MsgDisp("Nanatsumori","What reason do I have to lie.
+MsgDisp("Nanatsumori","What reason would I have to lie?
 When it comes to clothes, there's plain
 people, and cool people. You're the latter.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes like

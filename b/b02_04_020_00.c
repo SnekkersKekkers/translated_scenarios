@@ -14,8 +14,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B020402000_04_010");
 MsgDisp("Nanatsumori","He's my senior at the modeling agency.
-But... Seeing his face being worn in real
-life has a bigger impact somehow.");
+But... seeing his face actually being worn
+like that hits even harder somehow.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3);

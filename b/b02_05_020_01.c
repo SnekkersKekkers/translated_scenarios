@@ -16,7 +16,7 @@ ChEye(5,2);
 ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("B020502001_05_020");
-MsgDisp("Hiiragi","No, it just feels as though the feeling of it
-being the two of us will fade away.");
+MsgDisp("Hiiragi","No, it just feels as though there's someone
+else here with us.");
 MsgDisp("主人公","(I see, I can't see his face on it, but
 ｛Hiiragi＊＊＊｝ can...)");

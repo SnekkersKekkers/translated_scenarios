@@ -5,8 +5,8 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B020301001_03_000");
 MsgDisp("Honda","Hm...～
-It's not wrong, per se, but it doesn't seem
-like the best choice?");
+It's not bad or anything, but maybe it's not
+the best fit?");
 MsgDisp("主人公","Umm, you mean my swimsuit?");
 ChEye(3,0);
 ChMouth(3,0);

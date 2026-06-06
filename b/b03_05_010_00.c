@@ -14,7 +14,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgDispSksp(1,0);
 ChMouth(5,4);
 VoicePlay("B030501000_05_010");
-MsgDisp("Hiiragi","That's good.
+MsgDisp("Hiiragi","A fine choice.
 Let's get going, then.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

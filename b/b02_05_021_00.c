@@ -15,8 +15,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B020502100_05_020");
-MsgDisp("Hiiragi","I was taken aback.
-By the synergy between your clothes and
-yourself.");
+MsgDisp("Hiiragi","I can't look away. It's the way your 
+clothes and you perfectly compliment 
+each other.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to really like this
 style!)");

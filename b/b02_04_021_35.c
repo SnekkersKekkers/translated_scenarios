@@ -5,8 +5,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("B020402135_04_000");
-MsgDisp("Nanatsumori","You're trendy twice over.
-Good job.");
+MsgDisp("Nanatsumori","You're trendy in two ways today.
+Nice.");
 MsgDisp("主人公","Hehe, what do you think?");
 ChMotion(4,0,1);
 VoicePlay("B020402135_04_010");

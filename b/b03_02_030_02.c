@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B030203002_02_010");
     MsgDisp("Sassa","Alright, I agree.
-Having the same taste like this is pretty
+Liking the same things like this is pretty
 important, y'know.");
     MsgDispSksp(0);
     break ;

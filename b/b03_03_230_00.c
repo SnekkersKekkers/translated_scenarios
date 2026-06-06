@@ -5,7 +5,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030323000_03_000");
-MsgDisp("Honda","Now then, which ride is the best one?");
+MsgDisp("Honda","So, which ride's your favorite?");
 MsgSel("The Roller Coaster sounds fun!","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the tea cups.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B030323000_03_010");
-    MsgDisp("Honda","I'm surprised by that.
+    MsgDisp("Honda","Oh, that's your pick, huh?
 Alright, let's go!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -27,8 +27,7 @@ Alright, let's go!");
     ChMotion(3,2);
     ScrFadeIn(0);
     VoicePlay("B030323000_03_020");
-    MsgDisp("Honda","So far we don't have a single thing to worry
-about.");
+    MsgDisp("Honda","So far I'm feeling totally fine.");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -73,7 +72,7 @@ Which do you want to leap from?");
     ScrFadeIn(0);
     VoicePlay("B030323000_03_060");
     MsgDisp("Honda","W-Wait a second!
-I haven't readied my mind yet!");
+I need to brace myself first!");
     break ;
     case 3:
     MsgDispSksp(1,0);
@@ -93,8 +92,8 @@ I haven't readied my mind yet!");
     ChMotion(3,4);
     ScrFadeIn(0);
     VoicePlay("B030323000_03_080");
-    MsgDisp("Honda","It's really hard to train your inner ear for
-this kind of thing.");
+    MsgDisp("Honda","Your inner ear's a really tough thing to
+train, you know.");
     break ;
     default :
     DbgAssert(0);

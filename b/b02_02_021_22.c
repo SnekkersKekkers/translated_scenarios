@@ -12,7 +12,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B020202122_02_010");
-MsgDisp("Sassa","I'm not confident about looking at you in
+MsgDisp("Sassa","I can't really look at you straight-on in
 that outfit...
 It's almost too fitting.");
 MsgDisp("主人公","(｛Sassa＊＊｝ seems troubled...

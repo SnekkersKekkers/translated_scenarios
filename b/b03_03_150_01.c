@@ -5,7 +5,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030315000_03_000");
-MsgDisp("Honda","Bowling or darts, which do you feel like?");
+MsgDisp("Honda","Bowling or darts, which are you in the 
+mood for?");
 MsgSel("Let's go bowling","Darts Corner sounds good");
 switch (MsgSelRsltGet()){
     case 0:
