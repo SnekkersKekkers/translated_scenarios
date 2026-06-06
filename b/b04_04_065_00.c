@@ -9,7 +9,7 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040406500_04_000");
 MsgDisp("Nanatsumori","Whew.
-This is it.");
+This is what it's all about.");
 MsgSel("A summer sight that colors the sky! Tamaya~!","Ah, look! It's in the shape of a big heart∈","I'm sad it's going to end.");
 switch (MsgSelRsltGet()){
     case 0:
