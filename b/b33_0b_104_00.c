@@ -115,7 +115,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B10400_03_040");
-MsgDisp("Honda","There was a ricefish!
+MsgDisp("Honda","There was a rice fish!
 How rare!
 So cute～!");
 ChEye(4,4);

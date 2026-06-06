@@ -24,7 +24,7 @@ You have to do it together.");
     ChMotion(7,5);
     VoicePlay("B040724201_07_020");
     MsgDisp("Mikage","I brought the best meat and vegetables.
-Look forward to it?");
+Look forward to it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -18,7 +18,7 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_180");
 MsgDisp("Shirahane","Yeah.
-I go ta livehouses too.");
+I go ta live houses too.");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);

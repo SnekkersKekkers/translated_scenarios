@@ -11,7 +11,7 @@ ChMouth(2,3);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B360250100_02_000");
-MsgDisp("Sassa","Right, we're here?");
+MsgDisp("Sassa","Right, we're here.");
 MsgDisp("主人公","Eh?
 ｛Sassa＊＊｝, did you want to come to this
 park?");

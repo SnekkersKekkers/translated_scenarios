@@ -54,7 +54,7 @@ Is there a need to?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621102_06_050");
-        MsgDisp("Himuro","What's with that reaction.");
+        MsgDisp("Himuro","What's with that reaction?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

@@ -55,7 +55,7 @@ ChOpen(1,255,0,2,3,#1,#1,5,0);
 ScrFadeIn(0,30);
 VoicePlay("B360107001_01_050");
 MsgDisp("Kazama","Ah, sorry.
-Are you alright.");
+Are you alright?");
 MsgDisp("主人公","Did something happen?");
 ChEye(1,2);
 ChMouth(1,2);

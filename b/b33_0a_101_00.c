@@ -81,7 +81,7 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("B330A10100_01_050");
 MsgDisp("Kazama","So annoying.");
-MsgDisp("主人公","Lies.");
+MsgDisp("主人公","Lies?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

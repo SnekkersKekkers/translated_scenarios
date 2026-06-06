@@ -30,7 +30,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B150700400_07_040");
 MsgDisp("Mikage","...Are you ready for that?");
-MsgDisp("主人公","Am I ready....");
+MsgDisp("主人公","Am I ready...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

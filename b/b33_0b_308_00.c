@@ -19,7 +19,7 @@ MsgDisp("Kazama","Doesn't it feel weird to ride the ferris
 wheel with this group of people?");
 ChMotion(4,1,1);
 VoicePlay("B330B30800_04_000");
-MsgDisp("Nanatsumori","Why.");
+MsgDisp("Nanatsumori","Why?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

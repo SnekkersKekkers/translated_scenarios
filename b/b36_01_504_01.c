@@ -33,7 +33,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B360150401_01_030");
-MsgDisp("Kazama","Don't give me that\"Eh\".
+MsgDisp("Kazama","Don't give me that \"Eh\".
 It looks more natural this way, okay?");
 ChEye(1,4);
 ChMouth(1,3);

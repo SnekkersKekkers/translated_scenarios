@@ -41,7 +41,7 @@ VoicePlay("B110200000_02_010");
 MsgDisp("Sassa","Are you alright?");
 MsgDispSksp(0);
 MsgDisp("主人公","Yeah, I'm alright.
-...No fighting, okay.");
+...No fighting, okay?");
 MsgDispSksp(1,5);
 ChEye(2,1);
 ChMouth(2,0);

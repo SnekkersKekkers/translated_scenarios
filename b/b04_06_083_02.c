@@ -94,7 +94,7 @@ Eh?");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040608302_06_080");
-        MsgDisp("Himuro","Don't get so flustered?
+        MsgDisp("Himuro","Don't get so flustered.
 This is so you don't get heat stroke.
 You need to ventilate quickly.");
         MsgDisp("主人公","G-Got it...");

@@ -29,7 +29,7 @@ after you graduate?
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040606501_06_020");
-    MsgDisp("Himuro","What's with that.
+    MsgDisp("Himuro","What's with that?
 How should I take that?");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
