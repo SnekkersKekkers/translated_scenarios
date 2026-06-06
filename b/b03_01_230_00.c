@@ -6,7 +6,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B030123000_01_000");
 MsgDisp("Kazama","So, where to?");
-MsgSel("The Roller Coaster sounds fun!","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the tea cups.");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try bungee jumping!","I want to ride the Tea Cups.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);
@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B030123000_01_020");
-    MsgDisp("Kazama","Since we're here, I get that you can't skip
-it.");
+    MsgDisp("Kazama","Yeah, no way we're skipping that one now
+that we're here.");
     ChEye(1,0);
     ChEyeOpenLevel(1,10);
     break ;

@@ -37,7 +37,7 @@ switch (ChPrmGet(1,6)){
     ChCheek(1,0);
     VoicePlay("B010100000_01_020");
     MsgDisp("Kazama","There's no way...
-Nevermind.
+Never mind.
 Be more careful next time.");
     MsgDispSksp(0);
     break ;

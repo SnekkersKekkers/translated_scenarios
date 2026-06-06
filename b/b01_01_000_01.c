@@ -42,8 +42,8 @@ first...");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B010100001_01_030");
-    MsgDisp("Kazama","I see, thank you.
-But next time I don't want to keep you
+    MsgDisp("Kazama","Oh, I see.
+But next time, I won't keep you
 waiting.");
     MsgDispSksp(0);
     break ;
@@ -74,16 +74,16 @@ I spent so long getting ready.");
     ChEyeOpenLevel(1,8);
     ChCheek(1,5);
     VoicePlay("B010100001_01_060");
-    MsgDisp("Kazama","Well, uh...
-I made a promise with you.");
+    MsgDisp("Kazama","Well, you know...
+We had a promise, after all.");
     MsgDispSksp(1,0);
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     ChCheek(1,0);
     VoicePlay("B010100001_01_070");
-    MsgDisp("Kazama","So let's hurry up.
-We have to make up for the lost time.");
+    MsgDisp("Kazama","So let's get going.
+We've got to make up for lost time.");
     MsgDispSksp(0);
     break ;
     default :

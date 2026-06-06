@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030101001_01_000");
 MsgDisp("Kazama","What do you want to see?");
 MsgDisp("主人公","Umm...");
-MsgSel("How about that store?","Sky lounge sounds nice.");
+MsgSel("How about that store?","The Sky Lounge sounds nice.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

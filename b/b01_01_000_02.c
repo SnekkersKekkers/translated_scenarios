@@ -19,9 +19,9 @@ You're early.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B010100002_01_010");
-    MsgDisp("Kazama","I left home at the wrong time.
-But it seems like it worked out in my favor
-anyway. I feel like I lucked out.");
+    MsgDisp("Kazama","I misjudged when to leave home.
+But hey, it all worked out.
+Guess I lucked out.");
     MsgDispSksp(0);
     break ;
     case 3:
