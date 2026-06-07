@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040303100_03_000");
 MsgDisp("Honda","Look at this huge water tank!
 It's spectacular, isn't it?");
-MsgSel("What's the name of that fish?","The patterns on the tropical fish are so pretty▼","Huh∋　I feel like something's watching us from behind the rocks...");
+MsgSel("What's the name of that fish?","The patterns on the tropical fish are so pretty▼","I feel like something's watching us from behind the rocks...∋");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

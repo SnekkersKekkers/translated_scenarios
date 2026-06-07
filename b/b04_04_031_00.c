@@ -10,7 +10,7 @@ ScrFadeIn(0);
 VoicePlay("B040403100_04_000");
 MsgDisp("Nanatsumori","Where do we start?
 ...Where are you looking?");
-MsgSel("What's the name of that fish?","Tropical fish have beautiful patterns","Huh∋　I feel like something's watching us from behind the rocks...");
+MsgSel("What's the name of that fish?","Tropical fish have beautiful patterns","I feel like something's watching us from behind the rocks...∋");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040623101_06_000");
 MsgDisp("Himuro","It was lucky that we got to ride at the
 front.");
-MsgSel("The view was wonderful!","Ehh∋　More like unlucky","Double the thrill...");
+MsgSel("The view was wonderful!","Ehh∋ More like unlucky","Double the thrill...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
