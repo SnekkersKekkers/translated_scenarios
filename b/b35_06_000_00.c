@@ -32,7 +32,7 @@ ChMotion(6,0);
 VoicePlay("B350600000_06_040");
 MsgDisp("Himuro","Since we're here already, let's go somewhere.
 ...Just the two of us.");
-MsgSel("Yeah, sounds good!","I have some things to do...");
+MsgSel("Yeah, sounds good!","I have something else to do...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(6,0);

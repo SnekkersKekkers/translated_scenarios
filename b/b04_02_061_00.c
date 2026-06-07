@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040206100_02_000");
 MsgDisp("Sassa","All the heat and sand, it really feels like
 summer.");
-MsgSel("Want to race in the water?","Let's eat at the beach club!","Want to look for shells?");
+MsgSel("Should we race out into the sea?","Let's eat at the beach house!","Want to search for seashells?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

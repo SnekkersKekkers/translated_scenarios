@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040305100_03_000");
 MsgDisp("Honda","The myths surrounding constellations were
 fun!!");
-MsgSel("The starry sky was romantic.","｛Honda＊＊｝, were you sleeping?","The seats were comfy, I slept well.");
+MsgSel("The starry sky was romantic.","｛Honda＊＊｝, did you fall asleep?","The seats were so soft, I fell sleep...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

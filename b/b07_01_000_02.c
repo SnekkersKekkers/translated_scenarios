@@ -1,4 +1,4 @@
-MsgDisp("主人公","What food do you like?");
+MsgDisp("主人公","What do you like to eat?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

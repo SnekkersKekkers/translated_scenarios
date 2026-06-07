@@ -21,7 +21,7 @@ ChMotion(3,4,1);
 VoicePlay("B350300000_03_020");
 MsgDisp("Honda","Hey, are you free after this?
 Do you wanna go somewhere together?");
-MsgSel("Yeah, of course!","I've already got plans...");
+MsgSel("Yeah, of course!","I have something else to do...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(3,0);

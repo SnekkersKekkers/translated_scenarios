@@ -1,5 +1,5 @@
 MsgDisp("主人公","｛Kazama＊＊｝, recently you've been talking to
-｛Honda＊＊｝ a lot haven't you?");
+｛Honda＊＊｝ a lot, haven't you?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);

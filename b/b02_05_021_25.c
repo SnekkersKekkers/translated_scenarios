@@ -13,5 +13,5 @@ MsgDisp("Hiiragi","Yes.
 But thanks to you, I have my answer.
 It's not bad at all. In fact, it's lovely.");
 MsgDisp("主人公","(Oh, good.
-Seems like it's okay to wear these clothes
-now.)");
+Looks like it's fine to wear clothes 
+like this now.)");

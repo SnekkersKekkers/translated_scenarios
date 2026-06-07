@@ -6,7 +6,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040114000_01_000");
 MsgDisp("Kazama","It looked like a lot of fun.");
-MsgSel("Haa, that was awesome!","I think that was so-so...","It was so loud my ears were ringing...");
+MsgSel("Haa, that was awesome!","That was just so-so, huh...","The sound was so loud, my ears are ringing...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -12,5 +12,5 @@ ChMotion(1,0);
 VoicePlay("B020102002_01_010");
 MsgDisp("Kazama","Those clothes.
 It's not half bad.");
-MsgDisp("主人公","(I think he likes this.
+MsgDisp("主人公","(He seems to like it.
 I'm glad!)");

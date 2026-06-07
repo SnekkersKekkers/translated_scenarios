@@ -39,7 +39,7 @@ to ride it.");
         VoicePlay("B040623102_06_030");
         MsgDisp("Himuro","Could it be that you've been forcing yourself
 to ride it until this point too?");
-        MsgDisp("主人公","It's not like that but...");
+        MsgDisp("主人公","It's nothing like that...");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,2);

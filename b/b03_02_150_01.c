@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030215000_02_000");
 MsgDisp("Sassa","Bowling or darts, which do you want to do?");
-MsgSel("Let's go bowling","Darts corner sounds good");
+MsgSel("Let's go bowling.","The Darts Corner sounds good.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

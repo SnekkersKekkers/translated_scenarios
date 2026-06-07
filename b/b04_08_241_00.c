@@ -8,7 +8,7 @@ VoicePlay("B040824100_08_000");
 MsgDisp("Shirahane","It's so spacious...
 It would be nice to sprint around here to our
 heart's content...");
-MsgSel("It feels nice to be surrounded by Mother Nature!","....There's nothing here.","That cow keeps looking this way...");
+MsgSel("It feels nice to be surrounded by Mother Nature!","...There's nothing here.","That cow keeps looking over here...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

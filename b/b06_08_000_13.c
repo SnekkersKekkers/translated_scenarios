@@ -6,7 +6,7 @@ VoicePlay("B060800013_08_000");
 MsgDisp("Shirahane","...Hey.
 I wanna stay with ya a bit longer...won't ya
 accompany me?");
-MsgSel("Yeah, that's fine.","Sorry, today is a bit...");
+MsgSel("Yeah, that's fine.","Sorry, today's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,3);

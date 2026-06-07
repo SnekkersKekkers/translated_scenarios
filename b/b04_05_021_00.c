@@ -8,7 +8,7 @@ VoicePlay("B040502100_05_000");
 MsgDisp("Hiiragi","Yes, it's very nice.
 The beautiful sea, and the charming brick
 road.");
-MsgSel("It's nice to be able to take a leisurely stroll.","Is that a jellyfish over there?","There's no one here, it looks like we have the place to ourselves...");
+MsgSel("It's nice to take a leisurely stroll.","Is that a jellyfish over there?","No one's around, it's like we have the place to ourselves.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

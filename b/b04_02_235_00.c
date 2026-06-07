@@ -6,7 +6,7 @@ ChOpen(2,255,2,2,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223500_02_000");
 MsgDisp("Sassa","It's finally over huh...");
-MsgSel("That was scary, but fun!","I think I'm paralyzed with fear...","The tricks were weak, no good no good!");
+MsgSel("That was scary, but fun!","I thought my legs were gonna give out...","The tricks were weak, definitely no good!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

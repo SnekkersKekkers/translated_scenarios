@@ -12,5 +12,5 @@ VoicePlay("B020800008_08_010");
 MsgDisp("Shirahane","Righty-o.
 It's pretty impressive you can wear that sort
 of thing. Pretty cool!");
-MsgDisp("主人公","(Hooray!
-I'm glad I checked what's trending!)");
+MsgDisp("主人公","(Yay!
+I'm glad I checked out the trends!)");

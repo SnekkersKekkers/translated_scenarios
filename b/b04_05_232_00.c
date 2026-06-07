@@ -6,7 +6,7 @@ ChOpen(5,255,4,4,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523200_05_000");
 MsgDisp("Hiiragi","Before I knew it, it was already over...");
-MsgSel("I was able to enjoy a beautiful view♪","It feels so nice I feel sleepy...","It was just tall, cramped and scary...");
+MsgSel("We'll get to enjoy a beautiful view♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary..");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

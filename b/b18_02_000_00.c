@@ -15,7 +15,7 @@ ChMotion(2,0);
 VoicePlay("B180200000_02_010");
 MsgDisp("Sassa","Umm, well...
 I was thinking of addressing you like this...");
-MsgSel("Well, it's fine","Yeah～, it's a bit...");
+MsgSel("Well, it's fine","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(2,0);

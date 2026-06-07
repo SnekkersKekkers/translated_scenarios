@@ -1,5 +1,5 @@
-MsgDisp("主人公","It's been very lively around you recently,
-｛Nanatsumori＊｝.");
+MsgDisp("主人公","Recently, it's been super lively around
+｛Nanatsumori＊｝ hasn't it?");
 VoicePlay("B070400001_04_160");
 MsgDisp("Nanatsumori","Does that include you?");
 MsgDisp("主人公","...Maybe...?");

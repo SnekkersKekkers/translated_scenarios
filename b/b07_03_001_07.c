@@ -6,7 +6,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B070300001_03_480");
 MsgDisp("Honda","What's wrong?");
-MsgDisp("主人公","My heart suddenly started beating fast...");
+MsgDisp("主人公","My heart suddenly started racing...");
 ChMotion(3,4);
 VoicePlay("B070300001_03_490");
 MsgDisp("Honda","Now that I look closely, your face is red.

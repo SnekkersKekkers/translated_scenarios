@@ -8,7 +8,7 @@ ChMotion(1,1);
 VoicePlay("B040108100_01_000");
 MsgDisp("Kazama","It's great, seeing the cherry blossom trees.
 It finally feels like I'm really back.");
-MsgSel("｛Kazama＊＊｝, the flurry of cherry blossoms around you suits you.","Cherry blossoms are so fleeting...","I want to eat some delicious cherry blossom mochi.");
+MsgSel("｛Kazama＊＊｝, the falling cherry blossoms really suit you.","The cherry blossoms are only here for such a fleeting moment...","I want to eat some delicious cherry blossom mochi.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

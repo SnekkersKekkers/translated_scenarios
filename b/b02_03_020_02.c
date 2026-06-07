@@ -14,5 +14,5 @@ VoicePlay("B020302002_03_010");
 MsgDisp("Honda","Nope, the total opposite!
 I never understood that kind of style before,
 but now you've made me curious!");
-MsgDisp("主人公","(Oh, good.
-Looks like I dressed really well!)");
+MsgDisp("主人公","(Yay!
+It seems like I managed to pull it off well.)");

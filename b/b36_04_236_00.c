@@ -47,7 +47,7 @@ MsgDisp("主人公","Eh∈");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_505");
-MsgDisp("","Chu");
+MsgDisp("","*Smooch*");
 MsgClose();
 ChClose(4,0,30);
 ChLayout(1);

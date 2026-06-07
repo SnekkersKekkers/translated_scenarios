@@ -83,7 +83,7 @@ I wonder why?");
         VoicePlay("B040210102_02_080");
         MsgDisp("Sassa","Then, well, we came all this way, why don't
 we take a look?");
-        MsgDisp("主人公","Yeah, since we came all the way.");
+        MsgDisp("主人公","Yeah, you went through the trouble of\nchoosing it for me, so.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,2);

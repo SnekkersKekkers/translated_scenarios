@@ -28,7 +28,7 @@ ChEyeOpenLevel(1,#1);
 VoicePlay("B350100000_01_030");
 MsgDisp("Kazama","After this, won't you keep me company a bit
 longer?");
-MsgSel("Yeah, of course!","I have some errands...");
+MsgSel("Yeah, of course!","I have something else to do...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(1,3);

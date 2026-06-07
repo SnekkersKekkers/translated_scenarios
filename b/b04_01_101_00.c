@@ -13,7 +13,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B040110100_01_000");
 MsgDisp("Kazama","It's good to treasure our history like
 Habataki City does.");
-MsgSel("Habataki City's history is wonderful","That mask looks familiar to me...","It's like I'm experiencing the romance of ancient times.");
+MsgSel("Habataki City's history is wonderful.","That mask looks like someone I know...","I feel the romance of ancient times.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

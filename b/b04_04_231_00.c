@@ -9,7 +9,7 @@ ChMotion(4,2,1);
 VoicePlay("B040423100_04_000");
 MsgDisp("Nanatsumori","My hair got messed up after all...
 Haa.");
-MsgSel("That was awesome! I want to ride it again!","Ugh, that was scary...","I wanted a bit more thrill...");
+MsgSel("That was awesome! I wanna ride again!","Ugh, that was scary...","I wanted a bit more thrill...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

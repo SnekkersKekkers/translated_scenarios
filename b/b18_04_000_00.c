@@ -9,7 +9,7 @@ MsgDisp("主人公","Eh?");
 VoicePlay("B180400000_04_010");
 MsgDisp("Nanatsumori","I've always wanted to call you that.
 No good?");
-MsgSel("No, it's fine.","Mm~, it's a bit...");
+MsgSel("No, it's fine.","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,0);

@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030323001_03_000");
 MsgDisp("Honda","Alright, what should we do?");
-MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try Bungee Jumping!","I want to ride the Tea Cups.","Shall we enter the haunted house?");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try Bungee Jumping!","I want to ride the Tea Cups.","Let's go to the Haunted House.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

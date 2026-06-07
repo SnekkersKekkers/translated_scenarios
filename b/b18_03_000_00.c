@@ -14,7 +14,7 @@ VoicePlay("B180300000_03_010");
 MsgDisp("Honda","Ah, I know it's sudden but...
 I was just thinking that I'd like to call you
 by your first name. Is that okay?");
-MsgSel("Yeah, it's fine.","Hmm, I'm not sure...");
+MsgSel("Yeah, it's fine.","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(3,3);
@@ -36,7 +36,7 @@ Yay!");
     ChEyeOpenLevel(3,0);
     VoicePlay("B180300000_03_040");
     MsgDisp("Honda","Addressing you like this is refreshing!");
-    MsgDisp("主人公","(It feels a little embarrassing..)");
+    MsgDisp("主人公","(It feels a little embarrassing...)");
     break ;
     case 1:
     ChEye(3,0);

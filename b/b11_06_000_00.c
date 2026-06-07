@@ -5,7 +5,7 @@ MsgDisp("主人公","Huh?
 ｛Himuro＊＊｝ hasn't come yet...");
 VoicePlay("B110600000_33_000");
 MsgDisp("Guy","Hey, do you want to know?
-Or do you not want to know?");
+Or would you rather not?");
 MsgDisp("主人公","Eh?");
 MsgClose();
 SEPlay("EV_SE_544");

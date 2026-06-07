@@ -1,5 +1,5 @@
-MsgDisp("主人公","What sorts of dreams do you have for the
-future, ｛Hiiragi＊＊＊｝?");
+MsgDisp("主人公","What's your dream for the future,
+｛Hiiragi＊＊＊｝?");
 ChMouth(5,2);
 VoicePlay("B070500000_05_290");
 MsgDisp("Hiiragi","Apart from the theatre company?");

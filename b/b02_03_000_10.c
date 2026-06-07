@@ -4,7 +4,7 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B020300010_03_000");
 MsgDisp("Honda","Ah, I know about that!");
-MsgDisp("主人公","Um, this ｛流行アクセサリ名｝?");
+MsgDisp("主人公","Huh, you mean my ｛流行アクセサリ名｝?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

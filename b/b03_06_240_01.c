@@ -5,7 +5,7 @@ ChMotion(6,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030624001_06_000");
-MsgDisp("Himuro","Habataki really has everything.");
+MsgDisp("Himuro","Habataki really does have everything.");
 MsgDisp("主人公","It's nice that we can enjoy such a peaceful
 atmosphere.");
 MsgSel("Are there animals?","Want to head to the campsite?");

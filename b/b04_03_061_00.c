@@ -7,7 +7,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040306100_03_000");
 MsgDisp("Honda","The sea in winter is totally different!");
-MsgSel("Wanna race in the sea together?","Let's grab a bite at the beach house!","Why don't we search for seashells together?");
+MsgSel("Should we race out into the sea?","Let's eat at the beach house!","Want to search for seashells?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

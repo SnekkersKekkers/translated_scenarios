@@ -4,7 +4,6 @@ BGOpen("ho210",2);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Phew, that surprised me...)");
-MsgDisp("主人公","(Maybe it's better for me to contact
-｛Sassa＊＊｝ soon...)");
+MsgDisp("主人公","(I should talk to ｛Sassa＊＊｝ soon...)");
 MsgClose();
 ScrFadeOut(0);

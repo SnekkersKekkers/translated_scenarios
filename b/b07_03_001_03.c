@@ -1,5 +1,5 @@
-MsgDisp("主人公","Things have been really exciting for
-｛Honda＊＊｝ lately, huh?");
+MsgDisp("主人公","Recently, it's been super lively around
+｛Honda＊＊｝ hasn't it?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

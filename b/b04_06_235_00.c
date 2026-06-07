@@ -6,7 +6,7 @@ ChOpen(6,255,0,2,0,0,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623500_06_000");
 MsgDisp("Himuro","...Haa, it's finally over.");
-MsgSel("It was scary, but it was fun!","I think my legs gave out...","The gimmicks were so weak, no good!");
+MsgSel("That was scary, but fun!","I thought my legs were gonna give out...","The tricks were weak, definitely no good!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

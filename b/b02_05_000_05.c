@@ -11,5 +11,5 @@ VoicePlay("B020500005_05_010");
 MsgDisp("Hiiragi","Getting cold is a woman's worst enemy, so
 don't let your guard down.
 No matter the reason. Understood?");
-MsgDisp("主人公","(Urgh...
-I don't think I have enough on...)");
+MsgDisp("主人公","(Ugh...
+I think I don't have enough layers on...)");

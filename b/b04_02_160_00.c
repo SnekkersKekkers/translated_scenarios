@@ -6,7 +6,7 @@ ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040216000_02_000");
 MsgDisp("Sassa","What we play is up to you.");
-MsgSel("Let's take on the medal game!","How about taking on the quiz game?","Do you want to try the compatibility horoscope?");
+MsgSel("Let's take on the medal game!","How about taking on the quiz game?","Shall we get our compatibility read?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

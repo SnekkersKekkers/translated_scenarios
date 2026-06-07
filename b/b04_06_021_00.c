@@ -6,7 +6,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040602100_06_000");
 MsgDisp("Himuro","The wind feels nice.");
-MsgSel("It's nice to be able to take a relaxing walk huh?","Is that a jellyfish over there?","No one is here, it feels like we have the place to ourselves...");
+MsgSel("It's nice to take a leisurely stroll.","Is that a jellyfish over there?","No one's around, it's like we have the place to ourselves.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

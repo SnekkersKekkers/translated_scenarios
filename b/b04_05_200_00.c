@@ -10,7 +10,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040520000_05_000");
 MsgDisp("Hiiragi","How good are you at skiing?");
-MsgSel("Call me a princess on the snow!","It's to the point I won't fall over...","I was hoping you could teach me...");
+MsgSel("Call me the Princess of the Slopes!","Enough that I won't fall down...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

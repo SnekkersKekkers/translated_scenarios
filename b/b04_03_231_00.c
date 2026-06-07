@@ -8,7 +8,7 @@ VoicePlay("B040323100_03_000");
 MsgDisp("Honda","It felt as if my head was being shaken by a
 huge hand...
 Are you alright?");
-MsgSel("That was the best! I want to ride it more!","Uugh, that was scary...","I wanted a bit more thrill...");
+MsgSel("That was awesome! I wanna ride again!","Ugh, that was scary...","I wanted a bit more thrill...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

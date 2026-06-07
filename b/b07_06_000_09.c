@@ -1,6 +1,5 @@
-MsgDisp("主人公","Hey, I'm going to ask you something
-seriously.
-Is that okay with you?");
+MsgDisp("主人公","Hey, I want to ask you a serious question,
+okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

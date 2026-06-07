@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030423001_04_000");
 MsgDisp("Nanatsumori","Alright.
 So what's your choice?");
-MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try Bungee Jumping!","I want to ride the Tea Cups.","Let's go to the haunted house");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try Bungee Jumping!","I want to ride the Tea Cups.","Let's go to the Haunted House.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

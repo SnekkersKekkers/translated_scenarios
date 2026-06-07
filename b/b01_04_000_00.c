@@ -51,7 +51,7 @@ Sorry.");
     MsgClose();
     ChNanaType(#1);
     ChOpen(4,253,0,4,5,#1,#1,0,0,0,60);
-    MsgDisp("主人公","I'm sorry for keeping you waiting!");
+    MsgDisp("主人公","Sorry for making you wait!");
     ChEye(4,2);
     ChMouth(4,0);
     ChMotion(4,1);

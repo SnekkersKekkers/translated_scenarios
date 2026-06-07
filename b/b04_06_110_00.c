@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040611000_06_000");
 MsgDisp("Himuro","Can you swim?");
-MsgSel("Just call me the mermaid of Habataki City!","I want you to teach me how to swim...","Is it okay for me to use a float?");
+MsgSel("Call me the mermaid of Habataki City!","I want you to teach me how to swim...","Can I bring a float?");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

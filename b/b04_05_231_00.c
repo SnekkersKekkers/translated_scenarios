@@ -8,7 +8,7 @@ VoicePlay("B040523100_05_000");
 MsgDisp("Hiiragi","Aah...this feeling of speed is invigorating.
 This is what comes to mind when I think of an
 amusement park.");
-MsgSel("It was the best! I want to ride it more!","Uugh, that was scary...","I wanted even more thrill...");
+MsgSel("That was awesome! I wanna ride again!","Ugh, that was scary...","I wanted a bit more thrill...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

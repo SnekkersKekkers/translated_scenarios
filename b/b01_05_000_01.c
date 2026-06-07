@@ -13,7 +13,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,253,0,2,2,#1,#1,0,0);
     VoicePlay("B010500001_05_000");
     MsgDisp("Hiiragi","I'm sorry to have kept you waiting.");
-    MsgDisp("主人公","No, it's alright.");
+    MsgDisp("主人公","No, it's okay.");
     MsgDispSksp(1,0);
     ChEye(5,0);
     ChMouth(5,4);
@@ -31,7 +31,7 @@ Then, let's be off.");
     ChOpen(5,253,0,2,2,#1,#1,0,0);
     VoicePlay("B010500001_05_020");
     MsgDisp("Hiiragi","I'm sorry, I was running late...");
-    MsgDisp("主人公","No, it's alright.");
+    MsgDisp("主人公","No, it's okay.");
     MsgDispSksp(1,0);
     ChMotion(5,2);
     VoicePlay("B010500001_05_030");
@@ -47,7 +47,7 @@ Then, let's be off.");
     ChOpen(5,253,0,2,2,#1,#1,0,0);
     VoicePlay("B010500001_05_040");
     MsgDisp("Hiiragi","Ahh, thank goodness...");
-    MsgDisp("主人公","Oh, ｛Hiiragi＊＊＊｝.
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 What's wrong?");
     ChMotion(5,4);
     VoicePlay("B010500001_05_050");

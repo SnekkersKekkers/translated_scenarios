@@ -15,5 +15,5 @@ VoicePlay("B020500008_05_010");
 MsgDisp("Hiiragi","Wow...
 It looks even better when you wear it.
 Look at that, everyone is watching.");
-MsgDisp("主人公","(Awesome!
-I'm glad I checked what's trending!)");
+MsgDisp("主人公","(Yay!
+I'm glad I checked out the trends!)");

@@ -1,7 +1,7 @@
 ChClose(1,0,0);
 BGOpen("ex000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...today didn't go so well...)");
+MsgDisp("主人公","(Sigh...today didn't go well...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","Huh, it's my phone.
 Eh, it's from ｛Kazama＊＊｝?");
@@ -39,6 +39,6 @@ Well, I'll see you then.");
 MsgDisp("主人公","Yeah, see you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛Kazama＊＊｝...called me out of concern.)");
+MsgDisp("主人公","(｛Kazama＊＊｝...called to check up on me.)");
 MsgClose();
 ScrFadeOut(0,0);

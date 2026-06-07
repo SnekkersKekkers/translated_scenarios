@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040415200_04_000");
 MsgDisp("Nanatsumori","Do you know how to play?");
-MsgSel("This is what you should know to be a refined adult.","For now, I'll just throw it until I hit it!","I was hoping you'd teach me the rules?");
+MsgSel("This is what you should know to be a refined adult.","For now, I'll just throw it until I hit it!","Can you teach me the rules?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

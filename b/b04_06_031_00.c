@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040603100_06_000");
 MsgDisp("Himuro","They've managed to gather so many fish here.");
-MsgSel("What's the name of that fish again?","The patterns of the tropical fish are so pretty▼","Ha∋ I feel something looking at me from behind the boulder...");
+MsgSel("What's the name of that fish?","The patterns on the tropical fish are so pretty▼","Huh∋　I feel like something's watching us from behind the rocks...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

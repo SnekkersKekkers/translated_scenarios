@@ -6,7 +6,7 @@ ChMotion(3,3,1);
 ScrFadeIn(0);
 VoicePlay("B040302200_03_000");
 MsgDisp("Honda","Come on, let's sail!");
-MsgSel("The sea is truly magnificent, isn't it...","I want to sail around the world like this.","Look, the seagulls are so cute▼");
+MsgSel("The ocean is truly amazing...","I want to sail around the world like this.","Look, the seagulls are so cute▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

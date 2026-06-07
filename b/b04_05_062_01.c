@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040506201_05_000");
 MsgDisp("Hiiragi","You can dive here too.");
-MsgSel("That might be a bit scary...","Then, let's do it immediately!","The world looks different when seen underwater...");
+MsgSel("It's a bit scary...","Then, let's do it immediately!","The world looks different when seen underwater...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

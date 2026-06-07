@@ -7,7 +7,7 @@ ChMotion(1,0,1);
 VoiceEVSPlay(1);
 VoicePlay("B070100001_01_340");
 MsgDisp("Kazama","｛主人公｝, what's wrong?");
-MsgDisp("主人公","My heart is suddenly racing...");
+MsgDisp("主人公","My heart suddenly started racing...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

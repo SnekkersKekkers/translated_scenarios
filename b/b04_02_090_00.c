@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040209000_02_000");
 MsgDisp("Sassa","Uwaah, it's so humid.
 It's a bit hard to breathe.");
-MsgSel("These flowers have a super nice fragrance...","It's humid and damp, huh?","Where are the carnivorous plants?");
+MsgSel("This flower has an amazing smell...","It's so humid and clammy in here, huh?","Where are the carnivorous plants?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

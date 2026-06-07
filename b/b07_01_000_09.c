@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, I'm going to ask you something
-seriously, but is that okay?");
+MsgDisp("主人公","Hey, I want to ask you a serious question,
+okay?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -15,8 +15,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_500");
 MsgDisp("Kazama","Just do as you normally do.
 And what is that?");
-MsgDisp("主人公","Hey um, what do you think about love,
-｛Kazama＊＊｝?");
+MsgDisp("主人公","Um, you know, ｛Kazama＊＊｝, how do you feel about love?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,5);

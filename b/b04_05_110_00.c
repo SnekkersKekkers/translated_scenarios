@@ -11,7 +11,7 @@ VoicePlay("B040511000_05_000");
 MsgDisp("Hiiragi","I'm not great at sports, but I do like
 swimming.
 What about you?");
-MsgSel("Call me the mermaid of Habataki City!","I was hoping you could teach me how to swim...","Can I bring a float?");
+MsgSel("Call me the mermaid of Habataki City!","I want you to teach me how to swim...","Can I bring a float?");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

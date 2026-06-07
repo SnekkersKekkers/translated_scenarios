@@ -15,4 +15,4 @@ MsgDisp("Honda","I also wore short sleeves and shorts all year
 round.
 But, of course, I don't do that anymore...");
 MsgDisp("主人公","(Ugh...
-I've definitely dressed too lightly...)");
+I definitely dressed too lightly...)");

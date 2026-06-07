@@ -18,7 +18,7 @@ ChMotion(5,0);
 VoicePlay("B350500000_05_020");
 MsgDisp("Hiiragi","That's right.
 So, won't you stay with me a little longer?");
-MsgSel("Yeah, of course!","There's something I have to take care of...");
+MsgSel("Yeah, of course!","I have something else to do...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(5,3);

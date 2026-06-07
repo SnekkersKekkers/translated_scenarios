@@ -16,5 +16,5 @@ VoicePlay("B020402002_04_010");
 MsgDisp("Nanatsumori","I had zero interest in that style, but
 somehow I'm starting to like it.
 Your look and how you wear it is perfect.");
-MsgDisp("主人公","(Oh, good.
-Looks like I'm dressed stylishly!)");
+MsgDisp("主人公","(Yay!
+It seems like I managed to pull it off well.)");

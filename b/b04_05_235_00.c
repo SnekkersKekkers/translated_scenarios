@@ -9,7 +9,7 @@ ChMotion(5,4);
 VoicePlay("B040523500_05_000");
 MsgDisp("Hiiragi","Hmm, I have lots of different thoughts about
 this......");
-MsgSel("That was scary, but fun!","I think I'm paralyzed with fear...","The tricks were weak, no good no good!");
+MsgSel("That was scary, but fun!","I thought my legs were gonna give out...","The tricks were weak, definitely no good!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040506500_05_000");
 MsgDisp("Hiiragi","I'm glad, we made it in time.");
-MsgSel("A summer tradition lighting up the night sky! Tamayaa~!","Ah, look! There's a big heart shape∈","It'll be lonely when it's over.");
+MsgSel("A summer tradition painting the sky! Tamayaaa!","Ah, look! It's shaped like a heart∈","I'll be sad when it's over.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

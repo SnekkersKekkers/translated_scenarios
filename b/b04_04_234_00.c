@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040423400_04_000");
 MsgDisp("Nanatsumori","In one word.
 This is like a fairytale.");
-MsgSel("I'm merry like a kid!","You could feel the centrifugal force, huh?","The world...it's spinning...");
+MsgSel("I'm getting so excited, just like a kid!","I could really feel the centrifugal force.","My head...is spinning...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -8,7 +8,7 @@ VoicePlay("B040123500_01_000");
 MsgDisp("Kazama","When I think of haunted houses, this is 
 exactly what comes to mind.
 It has to be in a purely Japanese style.");
-MsgSel("It's scary but it's fun.","I thought my legs were gonna give out...","The tricks were too mild, no good, no good!");
+MsgSel("That was scary, but fun!","I thought my legs were gonna give out...","The tricks were weak, definitely no good!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

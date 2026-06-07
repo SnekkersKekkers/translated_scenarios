@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040115200_01_000");
 MsgDisp("Kazama","Do you understand?
 Look, this is sharp and dangerous.");
-MsgSel("This is what you need to know to be a seasoned adult?","For now, I'll just throw it until I hit it!","Could you teach me the rules?");
+MsgSel("This is what you should know to be a refined adult.","For now, I'll just throw it until I hit it!","Can you teach me the rules?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

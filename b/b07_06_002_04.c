@@ -1,4 +1,4 @@
-MsgDisp("主人公","What do you normally talk about with
+MsgDisp("主人公","What do you usually talk about with
 ｛Hiiragi＊＊＊｝ and ｛Mikage＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);

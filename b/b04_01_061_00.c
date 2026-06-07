@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMotion(1,4);
 VoicePlay("B040106100_01_000");
 MsgDisp("Kazama","Alright, what should we do?");
-MsgSel("Want to have a race to the coast?","Let's eat at the beach house!","Let's look for beautiful seashells");
+MsgSel("Should we race out into the sea?","Let's eat at the beach house!","Let's look for pretty seashells.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

@@ -5,7 +5,7 @@ ChMotion(3,0,1);
 VoicePlay("B020300009_03_000");
 MsgDisp("Honda","That color is trendy now, right?
 I've seen it around the city a lot.");
-MsgDisp("主人公","Oh, you noticed?");
+MsgDisp("主人公","Ah, you noticed?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

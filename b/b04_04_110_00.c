@@ -8,7 +8,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B040411000_04_000");
 MsgDisp("Nanatsumori","Can you swim?");
-MsgSel("Call me the mermaid of Habataki City!","I wanted you to teach me how to swim...","Could I bring a swim ring?");
+MsgSel("Call me the mermaid of Habataki City!","I want you to teach me how to swim...","Can I bring a float?");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

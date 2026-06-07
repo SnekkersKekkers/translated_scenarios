@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Nanatsumori＊｝ do you listen to music?
-What kind of music do you like?");
+MsgDisp("主人公","｛Nanatsumori＊｝, do you listen to music?
+Is there a type you like?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

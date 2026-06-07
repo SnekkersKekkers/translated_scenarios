@@ -11,5 +11,5 @@ It's the latest trendy color.");
 VoicePlay("B020500009_05_010");
 MsgDisp("Hiiragi","I do not care if it is popular or not.
 What matters is that it looks good on you.");
-MsgDisp("主人公","(Awesome!
-｛Hiiragi＊＊＊｝ gave me a compliment!)");
+MsgDisp("主人公","(Yay!
+｛Hiiragi＊＊＊｝ praised me!)");

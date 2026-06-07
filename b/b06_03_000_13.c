@@ -32,7 +32,8 @@ Let's go then.");
 Gotcha.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","(Was it wrong to say no...?)");
+    MsgDisp("主人公","(I wonder if it was bad for me to turn him
+down?)");
     MsgClose();
     ScrFadeOut(0);
     break ;

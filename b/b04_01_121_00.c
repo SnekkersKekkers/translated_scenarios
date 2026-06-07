@@ -13,7 +13,7 @@ ChMotion(1,1);
 VoicePlay("B040112100_01_000");
 MsgDisp("Kazama","A big auction house is great and all, but
 this kind of thing is exciting too, right?");
-MsgSel("Let's find some bargains!","Having your own stall would be fun.","It's an environmentally-friendly event, too.");
+MsgSel("Let's find some bargains!","Setting up your own stall would be fun.","It's an environmentally-friendly event, too.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

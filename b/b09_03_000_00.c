@@ -15,7 +15,7 @@ Did I get the meeting place wrong?
 Sorry, wait for me!");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
-MsgDisp("主人公","Oh no!
-I had a date scheduled!");
+MsgDisp("主人公","Crap!
+We were supposed to go on a date today!");
 MsgClose();
 ScrFadeOut(0,0);

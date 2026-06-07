@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040214001_02_000");
 MsgDisp("Sassa","I wonder if today's band will be popular?");
-MsgSel("I'll buy their ＣＤ when I go home. ","Yeah! They had lots of good songs.","They've got a long way to go. I guess we can expect a lot from now on?");
+MsgSel("Shall we buy a CD before we head home?","Yeah! They had lots of good songs.","They've got a long way to go. I guess we can expect a lot from now on?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

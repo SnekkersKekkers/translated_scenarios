@@ -7,7 +7,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360723600_07_000");
-MsgDisp("Mikage","Well, let's go home before it gets dark.");
+MsgDisp("Mikage","Let's head home before it gets dark.");
 MsgDisp("主人公","Ah...");
 ChEye(7,0);
 ChMouth(7,4);

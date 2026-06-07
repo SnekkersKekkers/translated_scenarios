@@ -1,5 +1,5 @@
-MsgDisp("主人公","What's ｛Nanatsumori＊｝'s dream for the
-future?");
+MsgDisp("主人公","What's your dream for the future,
+｛Nanatsumori＊｝?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400000_04_410");

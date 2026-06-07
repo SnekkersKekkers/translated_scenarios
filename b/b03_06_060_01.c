@@ -6,7 +6,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B030606001_06_000");
 MsgDisp("Himuro","What should we do?");
-MsgSel("Let's go to the beach!","Why don't we go to the Blue Grotto?");
+MsgSel("Let's go to the beach!","Shall we check out the Blue Grotto?");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(6,0);

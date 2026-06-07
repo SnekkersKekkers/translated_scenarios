@@ -3,7 +3,7 @@ ChMouth(1,4);
 ChMotion(1,0,1);
 VoicePlay("B020102109_01_000");
 MsgDisp("Kazama","Hmm, that's good too.");
-MsgDisp("主人公","Oh, you mean these clothes?");
+MsgDisp("主人公","Huh, you mean my outfit?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -1,7 +1,8 @@
 ChClose(5,0,0);
 BGOpen("ex000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...why did I say such a thing...)");
+MsgDisp("主人公","(Sigh...
+Why did I say such a thing...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","My phone...
 Ah, ｛Hiiragi＊＊＊｝!");

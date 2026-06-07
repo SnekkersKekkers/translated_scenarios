@@ -6,7 +6,7 @@ ChOpen(2,255,3,0,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223100_02_000");
 MsgDisp("Sassa","I have to ride this more often!");
-MsgSel("Awesome! I want to ride it more, too.","Uugh, that was scary...","I wish it was a bit more thrilling...");
+MsgSel("That was awesome! I wanna ride again!","Ugh, that was scary...","I wanted a bit more thrill...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

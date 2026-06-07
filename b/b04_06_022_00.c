@@ -6,7 +6,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040602200_06_000");
 MsgDisp("Himuro","Feeling the sea breeze is so relaxing.");
-MsgSel("The sea really is grand...","I want to sail around the world like this.","Look, the seagulls are so cute▼");
+MsgSel("The ocean is truly amazing...","I want to sail around the world like this.","Look, the seagulls are so cute▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

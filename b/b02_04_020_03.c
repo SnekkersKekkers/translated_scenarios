@@ -16,5 +16,5 @@ VoicePlay("B020402003_04_010");
 MsgDisp("Nanatsumori","Yeah.
 I overlooked that genre before, but I like it
 when you wear it.");
-MsgDisp("主人公","(Oh, good.
-Looks like I'm dressed stylishly!)");
+MsgDisp("主人公","(Yay!
+It seems like I managed to pull it off well.)");

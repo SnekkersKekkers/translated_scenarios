@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040406200_04_000");
 MsgDisp("Nanatsumori","Oh...
 This feels like going into another world.");
-MsgSel("The air here is cool and refreshing","I wonder if the water here is deep?","The water glows blue like a jewel...");
+MsgSel("The air feels so nice and cool.","Is the water deep here?","The water's surface shines blue like a jewel...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

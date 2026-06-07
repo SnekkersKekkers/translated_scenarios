@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040323500_03_000");
 MsgDisp("Honda","This really has the haunted house feeling.
 I love this kind of atmosphere—.");
-MsgSel("It's scary, but fun!","My legs almost gave out...","The tricks are too sloppy, no good!");
+MsgSel("That was scary, but fun!","I thought my legs were gonna give out...","The tricks were weak, definitely no good!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

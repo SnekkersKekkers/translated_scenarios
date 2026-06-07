@@ -16,4 +16,4 @@ MsgDisp("Nanatsumori","Pff!
 Yeah, yeah.
 I think it's really girly.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes like
-these, too.)");
+these, too!)");

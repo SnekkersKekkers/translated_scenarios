@@ -1,5 +1,5 @@
-MsgDisp("主人公","There's always a lively crowd around you
-lately, huh ｛Sassa＊＊｝?");
+MsgDisp("主人公","Recently, it's been super lively around
+｛Sassa＊＊｝ hasn't it?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

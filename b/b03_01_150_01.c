@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030115000_01_000");
 MsgDisp("Kazama","Alright, what are you feeling like doing
 today?");
-MsgSel("Let's go bowling.","Darts Corner sounds good.");
+MsgSel("Let's go bowling.","The Darts Corner sounds good.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

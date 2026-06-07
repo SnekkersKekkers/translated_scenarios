@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040223300_02_000");
 MsgDisp("Sassa","The moment I jumped!
 For a moment, time stopped huh?");
-MsgSel("I could get used to that thrill!","Hey, that's enough...","That was a very interesting experience...");
+MsgSel("I could get used to this thrill!","Hey, that's enough...","That was a very interesting experience...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

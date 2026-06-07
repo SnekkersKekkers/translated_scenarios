@@ -20,6 +20,6 @@ know.
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Crap!
-We were supposed to go on a date today!");
+I had a date with him today!");
 MsgClose();
 ScrFadeOut(0,0);

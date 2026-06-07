@@ -17,7 +17,7 @@ ChMotion(4,1,1);
 VoicePlay("B350400000_04_020");
 MsgDisp("Nanatsumori","If you're still okay for time, could you hang
 out with me a little longer?");
-MsgSel("Yeah, of course!","I have something to take care of...");
+MsgSel("Yeah, of course!","I have something else to do...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,0);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,0,1);
 VoicePlay("B040620000_06_000");
 MsgDisp("Himuro","Can you ski?");
-MsgSel("Call me the princess of the slopes!","Enough that I won't fall over...","I was hoping you could teach me...");
+MsgSel("Call me the Princess of the Slopes!","Enough that I won't fall down...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

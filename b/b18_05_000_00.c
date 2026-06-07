@@ -14,7 +14,7 @@ ChCheek(5,7);
 VoicePlay("B180500000_05_010");
 MsgDisp("Hiiragi","I tried to make it as natural as possible...
 But how about this way of addressing you?");
-MsgSel("Yeah, that's fine!","Hmm～ it's a bit...");
+MsgSel("Yeah, that's fine!","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChMotion(5,0);
@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     ChCheek(5,10);
     VoicePlay("B180500000_05_030");
     MsgDisp("Hiiragi","Today's a day to remember.");
-    MsgDisp("主人公","(I'm somewhat flustered...)");
+    MsgDisp("主人公","(It feels a little embarrassing...)");
     break ;
     case 1:
     ChEye(5,2);
@@ -37,7 +37,7 @@ switch (MsgSelRsltGet()){
     MsgDisp("Hiiragi","I was a bit too tense there.
 It would be nice if I could say it more
 naturally next time.");
-    MsgDisp("主人公","(I wonder if I made him feel bad...)");
+    MsgDisp("主人公","(Did I do something wrong...?)");
     break ;
     default :
     DbgAssert(0);

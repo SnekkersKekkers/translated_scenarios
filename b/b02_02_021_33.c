@@ -5,7 +5,7 @@ VoicePlay("B020202133_02_000");
 MsgDisp("Sassa","By itself it's flashy, but when it's combined
 it's harmonious.
 Guess that's just good sense.");
-MsgDisp("主人公","Eh, you mean these clothes?");
+MsgDisp("主人公","Huh, you mean my outfit?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);

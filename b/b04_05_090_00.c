@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040509000_05_000");
 MsgDisp("Hiiragi","This is a splendid establishment.
 The maintenance is very thorough.");
-MsgSel("This flower has an amazing smell...","It's pretty humid and clammy in here, huh?","Where are the carnivorous plants?");
+MsgSel("This flower has an amazing smell...","It's so humid and clammy in here, huh?","Where are the carnivorous plants?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

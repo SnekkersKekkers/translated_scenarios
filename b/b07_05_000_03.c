@@ -1,4 +1,4 @@
-MsgDisp("主人公","What sports do you do?");
+MsgDisp("主人公","Do you play any sports?");
 VoicePlay("B070500000_05_110");
 MsgDisp("Hiiragi","I have no experience in competitive sports.
 I have done some basic stamina training...as

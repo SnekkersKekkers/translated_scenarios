@@ -22,5 +22,4 @@ VoicePlay("B020402115_04_020");
 MsgDisp("Nanatsumori","Ah∈
 It wasn't that I was trying to touch you, it
 just looks better this way...!");
-MsgDisp("主人公","(Hehe, ｛Nanatsumori＊｝ seems to like clothes
-like these.)");
+MsgDisp("主人公","(Hehe, ｛Nanatsumori＊｝ seems to like clothes like these, too.)");

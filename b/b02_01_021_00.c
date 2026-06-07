@@ -18,5 +18,5 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B020102100_01_020");
 MsgDisp("Kazama","Just do me a favor and don't go drawing 
 in any weirdos. Shooing them away is a pain.");
-MsgDisp("主人公","(Awesome!
-Seems like he was really happy!)");
+MsgDisp("主人公","(I'm glad!
+Seems like he's really happy!)");

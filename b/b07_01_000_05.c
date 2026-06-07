@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey, what are your hobbies, ｛Kazama＊＊｝?");
+MsgDisp("主人公","Hey, ｛Kazama＊＊｝, what are your hobbies?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);

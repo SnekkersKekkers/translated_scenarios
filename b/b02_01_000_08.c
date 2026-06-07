@@ -13,5 +13,5 @@ ChMotion(1,0);
 VoicePlay("B020100008_01_010");
 MsgDisp("Kazama","Not bad, and it suits you.
 Figures you'd be on top of what's trending.");
-MsgDisp("主人公","(Awesome!
+MsgDisp("主人公","(Yay!
 I'm glad I checked out the trends!)");

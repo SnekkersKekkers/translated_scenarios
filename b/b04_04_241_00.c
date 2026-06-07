@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040424100_04_000");
 MsgDisp("Nanatsumori","It's huge...
 But that's all it is, really.");
-MsgSel("It feels nice to be surrounded by Mother Nature!","...There's nothing here.","That cow keeps looking this way....");
+MsgSel("It feels nice to be surrounded by Mother Nature!","...There's nothing here.","That cow keeps looking over here...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

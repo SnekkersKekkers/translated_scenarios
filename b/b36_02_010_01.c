@@ -11,8 +11,9 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B360201001_46_000");
-MsgDisp("Clerk","We're having a limited-time sale just now.
-There's some great bargains—!");
+MsgDisp("Clerk","We're currently having some limited-time
+sales.
+These are some great deals—!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

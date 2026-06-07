@@ -7,7 +7,7 @@ ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040215200_02_000");
 MsgDisp("Sassa","Have you ever played darts?");
-MsgSel("Seems like it's an adult's hobby right? ","For now, I'll just throw it until I hit it!","Can you teach me the rules?");
+MsgSel("This is what you should know to be a refined adult.","For now, I'll just throw it until I hit it!","Can you teach me the rules?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

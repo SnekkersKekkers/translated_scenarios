@@ -10,7 +10,7 @@ ChMotion(5,0);
 VoicePlay("B030506001_05_000");
 MsgDisp("Hiiragi","Well then, I'll leave it to you.
 Where should we go?");
-MsgSel("Let's go to the beach!","Why don't we check out the blue grotto?");
+MsgSel("Let's go to the beach!","Shall we check out the Blue Grotto?");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(5,2);

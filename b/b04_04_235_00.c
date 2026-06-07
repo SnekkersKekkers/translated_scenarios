@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040423500_04_000");
 MsgDisp("Nanatsumori","Hmm, just the right amount of scary.
 I'm content.");
-MsgSel("It was scary, but fun!","I think my legs gave out...","The tricks were too soft, no good, no good!");
+MsgSel("That was scary, but fun!","I thought my legs were gonna give out...","The tricks were weak, definitely no good!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

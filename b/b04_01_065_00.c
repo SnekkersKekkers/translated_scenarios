@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040106500_01_000");
 MsgDisp("Kazama","They're going to get fired off one after the
 other from here on.");
-MsgSel("A summer tradition painting the sky! Tamayaaa!","Oh, look! A big heart shape∈","I'm a little sad it's over.");
+MsgSel("A summer tradition painting the sky! Tamayaaa!","Ah, look! It's shaped like a heart∈","I'll be sad when it's over.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

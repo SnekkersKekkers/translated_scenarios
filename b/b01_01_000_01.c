@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛Kazama＊＊｝ is late...)");
+MsgDisp("主人公","(｛Kazama＊＊｝ is running late...)");
 switch (ChPrmGet(1,6)){
     case 0:
     case 1:

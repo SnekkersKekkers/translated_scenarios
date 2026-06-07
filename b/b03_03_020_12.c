@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B030302001_03_000");
-    MsgDisp("Honda","Yeah, let's do it!
+    MsgDisp("Honda","Yeah, let's do that!
 Do you wanna count the number of bricks?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

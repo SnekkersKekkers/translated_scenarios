@@ -1,4 +1,4 @@
-MsgDisp("主人公","Recently it's been super lively around you,
+MsgDisp("主人公","Recently, it's been super lively around
 ｛Kazama＊＊｝ hasn't it?");
 ChEye(1,0);
 ChMouth(1,3);

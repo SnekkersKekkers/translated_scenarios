@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040130000_01_000");
 MsgDisp("Kazama","No one has lived here for 10 years so it's a
 bit damaged.");
-MsgSel("It's a wonderful room!","It's a very boyish room.","...It's a unique room, huh?");
+MsgSel("This is a wonderful room!","It's a very boyish room.","...It's a unique room, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

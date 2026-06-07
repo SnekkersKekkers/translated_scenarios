@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("B040512100_05_000");
 MsgDisp("Hiiragi","This chaotic vibe is nice —just like a
 festival.");
-MsgSel("Let's look for some lucky finds!","Setting up a stall seems fun, huh?","It's an eco-friendly event too, huh?");
+MsgSel("Let's find some bargains!","Setting up your own stall would be fun.","It's an environmentally-friendly event, too.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

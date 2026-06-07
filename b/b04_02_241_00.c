@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040224100_02_000");
 MsgDisp("Sassa","When there's this much space, it makes me
 want to dash.");
-MsgSel("It feels nice to be surrounded by nature!","...There's nothing here.","That cow keeps looking over here...");
+MsgSel("It feels nice to be surrounded by Mother Nature!","...There's nothing here.","That cow keeps looking over here...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

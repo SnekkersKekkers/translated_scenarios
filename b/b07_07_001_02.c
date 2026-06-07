@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Mikage＊＊｝, recently, you've been
-talking to ｛Himuro＊＊｝ a lot haven't you?");
+MsgDisp("主人公","｛Mikage＊＊｝, recently you've been talking
+to ｛Himuro＊＊｝ a lot, haven't you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

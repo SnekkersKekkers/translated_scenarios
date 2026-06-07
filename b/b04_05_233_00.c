@@ -8,7 +8,7 @@ ChMotion(5,3);
 VoicePlay("B040523300_05_000");
 MsgDisp("Hiiragi","Such a thing existed in this world.
 I still have much to learn.");
-MsgSel("I could get used to this thrill!","That's quite enough...","It was a very interesting experience...");
+MsgSel("I could get used to this thrill!","Hey, that's enough...","That was a very interesting experience...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

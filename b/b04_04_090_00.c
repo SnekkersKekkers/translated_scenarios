@@ -8,7 +8,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040409000_04_000");
 MsgDisp("Nanatsumori","Uwah...it's so humid in here...");
-MsgSel("This flower is giving off an impressive smell...","It's humid, isn't it?","I wonder where the carnivorous plants are?");
+MsgSel("This flower has an amazing smell...","It's so humid and clammy in here, huh?","Where are the carnivorous plants?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

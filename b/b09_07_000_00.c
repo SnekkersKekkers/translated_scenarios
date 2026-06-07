@@ -15,6 +15,6 @@ MsgDisp("Mikage","See you then, I'm gonna wander back home.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Crap!
-We were supposed to go on a date!");
+We were supposed to go on a date today!");
 MsgClose();
 ScrFadeOut(0,0);

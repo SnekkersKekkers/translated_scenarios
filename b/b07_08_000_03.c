@@ -1,4 +1,4 @@
-MsgDisp("主人公","Do you do any sports?");
+MsgDisp("主人公","Do you play any sports?");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,3,1);

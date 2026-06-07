@@ -7,7 +7,7 @@ ChOpen(3,33,1,3,0,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040306500_03_000");
 MsgDisp("Honda","Yep yep, this is it!");
-MsgSel("Summer's hallmark that colours the night sky! Tamayaa～!","Ah, look! There's a big heart shape∈","It'll be lonely when it ends");
+MsgSel("A summer tradition painting the sky! Tamayaaa!","Ah, look! It's shaped like a heart∈","I'll be sad when it's over.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

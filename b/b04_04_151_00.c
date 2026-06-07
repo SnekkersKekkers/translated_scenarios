@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040415100_04_000");
 MsgDisp("Nanatsumori","Are you a competitive person?");
-MsgSel("I won't lose!","｛Nanatsumori＊｝'s ball seems heavy","A competition is kinda...");
+MsgSel("I won't lose!","｛Nanatsumori＊｝'s ball looks heavy.","A competition is kinda...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

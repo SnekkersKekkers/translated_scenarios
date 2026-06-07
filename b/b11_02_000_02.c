@@ -5,8 +5,8 @@ MsgDisp("主人公","Seems like ｛Sassa＊＊｝ isn't here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(｛Sassa＊＊｝ you're late...did something
-happen?)");
+MsgDisp("主人公","(｛Sassa＊＊｝, you're late...
+Did something happen?)");
 SEPlay("EV_SE_524");
 SEWait();
 MsgClose();

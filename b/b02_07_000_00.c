@@ -13,4 +13,4 @@ VoicePlay("B020700000_07_010");
 MsgDisp("Mikage","Yeah, it's nice.
 Very impressive.");
 MsgDisp("主人公","(I'm glad!
-He seems to like it.)");
+He seems to like today's outfit.)");

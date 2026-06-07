@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030315000_03_000");
 MsgDisp("Honda","Bowling or darts, which are you in the 
 mood for?");
-MsgSel("Let's go bowling","Darts Corner sounds good");
+MsgSel("Let's go bowling.","The Darts Corner sounds good.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

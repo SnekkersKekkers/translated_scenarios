@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B030403002_04_000");
 MsgDisp("Nanatsumori","There's a lot to do...
 What do you wanna see?");
-MsgSel("Let's go to the Aquarium.","The Water Garden sounds nice.","Let's go to the Deep Sea Corner");
+MsgSel("Let's go to the Aquarium.","The Water Garden sounds nice.","Let's go to the Deep Sea Corner.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

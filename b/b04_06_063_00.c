@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040606300_06_000");
 MsgDisp("Himuro","There's no one here...
 Only the sounds of the waves can be heard.");
-MsgSel("We have the winter sea to ourselves!","The winter sea is so miserable...","There are lots of delicious things in the winter sea♪");
+MsgSel("We have the winter sea all to ourselves!","The winter sea feels so sad...","The winter ocean is full of yummy food♪");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

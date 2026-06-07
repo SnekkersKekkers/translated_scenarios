@@ -16,7 +16,7 @@ VoicePlay("B180600000_06_010");
 MsgDisp("Himuro","I was thinking of calling you that from now
 on.
 Calling you by your last name is too formal.");
-MsgSel("Yeah, that's fine.","Mm~, that's a little...");
+MsgSel("Yeah, that's fine.","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(6,0);
@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     MsgDisp("Himuro","Thanks.
 ...Well, it's not really a matter of asking
 permission.");
-    MsgDisp("主人公","(I feel kind of flustered...)");
+    MsgDisp("主人公","(It feels a little embarrassing...)");
     break ;
     case 1:
     ChEye(6,0);
@@ -35,7 +35,7 @@ permission.");
     VoicePlay("B180600000_06_030");
     MsgDisp("Himuro","Ah, right.
 Then, I'll call you the same as before.");
-    MsgDisp("主人公","(I wonder if I messed up...)");
+    MsgDisp("主人公","(Did I do something wrong...?)");
     break ;
     default :
     DbgAssert(0);

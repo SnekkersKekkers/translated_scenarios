@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040615200_06_000");
 MsgDisp("Himuro","By the way, can you play darts?");
-MsgSel("This is what you should know to be a refined adult.","For now, I'll just throw it until I hit it!","Could you teach me the rules?");
+MsgSel("This is what you should know to be a refined adult.","For now, I'll just throw it until I hit it!","Can you teach me the rules?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

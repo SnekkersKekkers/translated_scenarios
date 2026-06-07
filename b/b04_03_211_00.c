@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040321100_03_000");
 MsgDisp("Honda","Hey, over here, over here!
 We're wasting time!");
-MsgSel("Let's take a closer look!","Let's take a picture with the animals!","｛Honda＊＊｝, do you have anywhere you wanna see?");
+MsgSel("Let's take a closer look!","Let's take a picture with the animals!","Is there anything you wanna see, ｛Honda＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

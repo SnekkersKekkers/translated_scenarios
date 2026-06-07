@@ -4,7 +4,7 @@ ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311000_03_000");
 MsgDisp("Honda","By the way, are you good at swimming?");
-MsgSel("I've been called the Habataki City Mermaid!","I was hoping you could teach me how to swim...","Could I bring a float?");
+MsgSel("Call me the mermaid of Habataki City!","I want you to teach me how to swim...","Can I bring a float?");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

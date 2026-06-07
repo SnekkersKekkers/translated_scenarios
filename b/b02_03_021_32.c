@@ -5,12 +5,12 @@ VoicePlay("B020302128_03_000");
 MsgDisp("Honda","...Weird.
 I didn't really get outfits like this before...");
 MsgDisp("主人公","Eh∋
-Did you dislike it?");
+Do you dislike it?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B020302128_03_010");
-MsgDisp("Honda","I did before.
+MsgDisp("Honda","Maybe before.
 But now, I can't take my eyes off you.");
 MsgDisp("主人公","(｛Honda＊＊｝ seems to have really come to
 like this kind of outfit!)");

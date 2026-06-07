@@ -6,7 +6,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606200_06_000");
 MsgDisp("Himuro","How mysterious...");
-MsgSel("The air is so chilly, it feels nice","I wonder if the water is deep here?","The surface of the water shines like a jewel..");
+MsgSel("The air feels so nice and cool.","Is the water deep here?","The water's surface shines blue like a jewel...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

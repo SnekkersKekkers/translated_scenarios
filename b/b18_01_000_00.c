@@ -72,7 +72,7 @@ Guess you don't like it.");
     VoicePlay("B180100000_01_070");
     MsgDisp("Kazama","Ah, is that right?
 Then, it's fine.");
-    MsgDisp("主人公","(Hmm...
+    MsgDisp("主人公","(Hmmm...
 Did I do something wrong?)");
     break ;
     default :

@@ -13,5 +13,5 @@ VoicePlay("B020500013_05_020");
 MsgDisp("Hiiragi","But when you are wearing it, my eyes are
 drawn to you.
 I find it strange myself.");
-MsgDisp("主人公","(Hooray!
-I'm glad I wore this yukata!)");
+MsgDisp("主人公","(Yay!
+I'm glad I wore a yukata!)");

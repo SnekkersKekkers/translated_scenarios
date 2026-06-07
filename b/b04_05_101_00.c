@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040510100_05_000");
 MsgDisp("Hiiragi","It's nice here.
 I can learn a lot about Habataki City.");
-MsgSel("Habataki City's history is wonderful, isn't it?","That mask looks like someone...","I feel the romance of ancient times.");
+MsgSel("Habataki City's history is wonderful.","That mask looks like someone I know...","I feel the romance of ancient times.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

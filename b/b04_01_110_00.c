@@ -12,7 +12,7 @@ VoicePlay("B040111000_01_000");
 MsgDisp("Kazama","Since I came back, I've had a lot of
 opportunities to swim...
 You like swimming, right?");
-MsgSel("Call me the mermaid of Habataki City!","Well, I'd love to learn how...","Can I get an inner tube?");
+MsgSel("Call me the mermaid of Habataki City!","I want you to teach me how to swim...","Can I bring a float?");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

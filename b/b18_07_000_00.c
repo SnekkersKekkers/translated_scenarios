@@ -15,7 +15,7 @@ VoicePlay("B180700000_07_010");
 MsgDisp("Mikage","...Is it no good?
 I thought it would change the mood in a fun
 way.");
-MsgSel("No, it's fine.","Mm~, it's a bit...");
+MsgSel("No, it's fine.","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(7,0);
