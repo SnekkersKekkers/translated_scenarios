@@ -55,15 +55,15 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C20701_07_020");
 MsgDisp("Mikage","The screams of the patients.");
-MsgDisp("主人公","It's similar huh...");
+MsgDisp("主人公","Yeah, it kind of is...");
 ChMouth(5,4);
 ChMotion(5,0);
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C20701_06_020");
-MsgDisp("Himuro","What are you whispering about over there?
-Look, we're almost there.");
+MsgDisp("Himuro","What are you two whispering about back there?
+Look, we're almost up.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);

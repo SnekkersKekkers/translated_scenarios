@@ -41,7 +41,7 @@ VoicePlay("B040506402_05_040");
 MsgDisp("Hiiragi","Huh?
 Would it have been better if I refused at
 least once?");
-MsgDisp("主人公","You have to accept a favor.");
+MsgDisp("主人公","You've got to accept their kindness.");
 ChEye(5,3);
 ChMouth(5,3);
 VoicePlay("B040506402_05_050");

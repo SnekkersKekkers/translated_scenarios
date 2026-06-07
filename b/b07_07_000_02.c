@@ -5,8 +5,7 @@ ChMotion(7,3);
 VoicePlay("B070700000_07_060");
 MsgDisp("Mikage","Fresh meat and vegetables are truly
 delicious～");
-MsgDisp("主人公","Then, the stuff you like to eat are the
-vegetables you grew, ｛Mikage＊＊｝ —");
+MsgDisp("主人公","Then your favorite food must be the vegetables you grew, ｛Mikage＊＊｝—");
 ChEye(7,3);
 ChMouth(7,3);
 ChMotion(7,5);

@@ -31,7 +31,7 @@ VoicePlay("B100800000_08_050");
 MsgDisp("Shirahane","Hehe.
 Let's go on a date again, okay?");
 VoicePlay("B100800000_08_060");
-MsgDisp("Shirahane","Well then, I'll see you later.
+MsgDisp("Shirahane","All right, see you.
 Goodnight.");
 MsgDisp("主人公","Goodnight, ｛Daichi＊＊｝.");
 SEPlay("SYS_SE_PHONE_POWER_ON");

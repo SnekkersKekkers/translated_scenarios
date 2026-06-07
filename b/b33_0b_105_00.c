@@ -51,7 +51,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10500_01_020");
 MsgDisp("Kazama","Yeah, I'm tired.");
-MsgDisp("主人公","Isn't that ...not because you were singing,
+MsgDisp("主人公","Isn't that... not because you were singing,
 but because you were talking the whole time?");
 ChEye(4,2);
 ChMouth(4,3);

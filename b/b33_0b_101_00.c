@@ -17,13 +17,13 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B330B10100_04_000");
 MsgDisp("Nanatsumori","...So.
-What's the program today?");
+What's the plan for today?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B10100_03_000");
-MsgDisp("Honda","What kind of course would the four of us
-enjoy at the shopping mall?");
+MsgDisp("Honda","What kind of route should the four of us take
+to enjoy the shopping mall?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -36,7 +36,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B10100_01_010");
-MsgDisp("Kazama","Today we're going to coordinate outfits.");
+MsgDisp("Kazama","Today, we're giving you a makeover.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);

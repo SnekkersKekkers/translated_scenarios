@@ -9,9 +9,8 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 ScrFadeIn(0);
 VoicePlay("B040723201_07_000");
-MsgDisp("Mikage","Standing with their feet firmly planted onto
-the earth.
-That's how humans should be.");
+MsgDisp("Mikage","Standing with both feet planted firmly on the
+ground. That's how a person ought to be.");
 MsgSel("It shook quite a lot, huh?","It feels nicer up in the sky.","It's reassuring, right? ");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,8 +46,8 @@ A difference in values, you could say.");
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723201_07_030");
     MsgDisp("Mikage","That's right.
-It suits me better to live with my roots on
-the ground. We get along well.");
+Living with my roots in the ground suits me
+better. We're a good match.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

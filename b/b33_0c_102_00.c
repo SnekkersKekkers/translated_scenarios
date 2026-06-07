@@ -14,13 +14,13 @@ ScrFadeIn(0);
 VoicePlay("B330C10200_05_000");
 MsgDisp("Hiiragi","I've always been curious about how they clean
 the tank.");
-MsgDisp("主人公","Eh? the tank?");
+MsgDisp("主人公","Eh? The tank?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C10200_07_000");
-MsgDisp("Mikage","Yanosuke isn't interested in the living
-things, but the tank?");
+MsgDisp("Mikage","You're not into the animals, Yanosuke, but
+the tank?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -66,8 +66,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10200_05_030");
-MsgDisp("Hiiragi","It must be a delicate polishing technique.
-The ultimate cleaning technique.");
+MsgDisp("Hiiragi","It must take really delicate polishing.
+The ultimate kind of cleaning.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
@@ -83,9 +83,8 @@ VoicePlay("B330C10200_07_030");
 MsgDisp("Mikage","Yeah, probably something like snails or
 shrimp.
 They eat the algae in the tank.");
-MsgDisp("主人公","It's amazing huh.
-For the creatures you keep to clean up for
-you.");
+MsgDisp("主人公","That's amazing, huh.
+The creatures you keep cleaning up for you.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -34,7 +34,8 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B330B20401_04_010");
 MsgDisp("Nanatsumori","...Kazama.
-I have a bad feeling about turning to Dahon.");
+I have a bad feeling about leaving this to
+Dahon.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

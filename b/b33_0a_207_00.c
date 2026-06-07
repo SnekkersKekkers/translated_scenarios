@@ -23,7 +23,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A20700_06_000");
-MsgDisp("Himuro","But, there's always someone better.
+MsgDisp("Himuro","But there's always someone who's got it more.
 Look.");
 ChMouth(1,2);
 VoicePlay("B330A20700_02_000");

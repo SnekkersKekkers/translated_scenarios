@@ -10,6 +10,6 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B060700010_07_000");
 MsgDisp("Mikage","Don't push yourself.
-Thanks are only needed for when you really
-enjoyed yourself.");
+Save the thanks for when you actually
+had a good time.");
 MsgDispSksp(0);

@@ -27,8 +27,8 @@ Then, what about the cats?");
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040521301_05_020");
-    MsgDisp("Hiiragi","They're happily skipping about.
-Shall we go outside for a bit?");
+    MsgDisp("Hiiragi","They look like they're having fun running around.
+Want to step outside for a moment?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -26,8 +26,8 @@ Hey, just look at it until you're satisfied.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040722101_07_020");
-    MsgDisp("Mikage","It's a hill, a hill.
-It's this high up, there's no way it's flat.");
+    MsgDisp("Mikage","It's a mountain, a mountain.
+This high up, no way it counts as flatland.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

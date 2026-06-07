@@ -50,9 +50,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20400_02_030");
-MsgDisp("Sassa","In addition to what you improve through
-planned training, there are aspects that
-require fortune too.");
+MsgDisp("Sassa","Besides the parts you build up with planned
+training, there are parts that come down to
+luck too.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

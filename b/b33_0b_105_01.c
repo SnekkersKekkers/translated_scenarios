@@ -32,8 +32,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B330B10501_01_000");
-MsgDisp("Kazama","Wait a second.
-Maybe everyone is thinking that.");
+MsgDisp("Kazama","Hold on.
+We're probably all thinking the same thing.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

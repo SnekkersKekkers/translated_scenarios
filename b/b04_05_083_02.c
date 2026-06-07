@@ -70,9 +70,9 @@ I know you meant no malice by that.");
         MsgDisp("Hiiragi","I'm sorry...");
         ChEye(5,4);
         VoicePlay("B040508302_05_070");
-        MsgDisp("Hiiragi","But, it's mysterious even to me.
-The fact I did something so childish.");
-        MsgDisp("主人公","Maybe it's caused by this place?");
+        MsgDisp("Hiiragi","But even I find it strange.
+That I'd do something so childish.");
+        MsgDisp("主人公","Maybe it's because of this place?");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040508302_05_080");

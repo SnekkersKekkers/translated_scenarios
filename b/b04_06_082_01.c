@@ -24,8 +24,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040608201_06_020");
-    MsgDisp("Himuro","It's at night, so that's a big ask...
-Well, if we get the chance okay.");
+    MsgDisp("Himuro","It's at night, so that's a tall order...
+Well, if we get the chance.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

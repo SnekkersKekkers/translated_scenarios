@@ -38,7 +38,8 @@ I'll believe in your words...");
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040520001_05_030");
     MsgDisp("Hiiragi","Really!
-The intermediate course might be near.");
+The intermediate course might be within
+reach.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

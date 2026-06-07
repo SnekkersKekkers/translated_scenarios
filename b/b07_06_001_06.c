@@ -11,7 +11,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_400");
-MsgDisp("Himuro","Hmm...well, there's no way to know.");
+MsgDisp("Himuro","Hmm... who knows. There's no way to tell something like that.");
 MsgDisp("主人公","I see.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -43,8 +43,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_450");
-MsgDisp("Himuro","Generally, there's nothing that stays the
-same.");
+MsgDisp("Himuro","Anyway, nothing ever stays the same.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

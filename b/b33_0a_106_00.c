@@ -41,7 +41,7 @@ ChMotion(6,0);
 VoicePlay("B330A10600_06_000");
 MsgDisp("Himuro","That's what makes it good, isn't it?
 You get it right?");
-MsgDisp("主人公","Yeah, just the music alone got me excited!");
+MsgDisp("主人公","Yeah, just the music alone got me pumped!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

@@ -21,8 +21,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     ScrFadeIn(0);
     VoicePlay("B060600004_06_010");
-    MsgDisp("Himuro","What to say...
-I guess we had bad compatibility?");
+    MsgDisp("Himuro","How do I put it...
+Maybe we're not compatible?");
     MsgDispSksp(0);
     break ;
     case 4:

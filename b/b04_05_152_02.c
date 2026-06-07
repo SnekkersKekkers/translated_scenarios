@@ -6,7 +6,7 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040515202_05_000");
-MsgDisp("Hiiragi","Shall we have a serious match soon?");
+MsgDisp("Hiiragi","How about a real match now?");
 MsgSel("I'm no match for ｛Hiiragi＊＊＊｝.","Alright, I won't lose!","Let's bet a Habataki Juice on it.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -46,7 +46,7 @@ Yeah, thank you.");
         ChMotion(5,1);
         VoicePlay("B040515202_05_040");
         MsgDisp("Hiiragi","Phew—...
-Ah, you did it huh?");
+Well, you got me, huh?");
         MsgDisp("主人公","Hehe, shall we have a competition then?");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -29,7 +29,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B30701_03_000");
 MsgDisp("Honda","Yep yep, I have lots of them.
-The rhinocerous model is super cool!");
+The rhinoceros model is super cool!");
 ChEye(4,0);
 ChMouth(4,3);
 ChEye(1,0);
@@ -74,8 +74,8 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30701_04_040");
-MsgDisp("Nanatsumori","It's not about the model, the way this guy
-lives is full of charm.");
+MsgDisp("Nanatsumori","It's not about the model. This guy's whole
+way of life is full of charm.");
 ChEyeOpenLevel(1,#1);
 ChEye(3,0);
 ChMouth(3,3);
@@ -96,9 +96,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B30701_01_030");
-MsgDisp("Kazama","Once he starts, he won't stop until he goes
-all the way.
-Give up.");
+MsgDisp("Kazama","Once he gets going, he won't stop till he's
+run it all the way out.
+Just give up.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -15,7 +15,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330C20501_06_000");
-MsgDisp("Himuro","Then, let's have a four-person contest.");
+MsgDisp("Himuro","Then, let's make it a four-way match.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -98,8 +98,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C20501_06_030");
-MsgDisp("Himuro","We were talking about whether Kojiro-sensei
-purposefully let us steal the thunder.");
+MsgDisp("Himuro","We were wondering if Kojiro-sensei lost on
+purpose to let us have the glory.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -114,9 +114,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C20501_07_040");
-MsgDisp("Mikage","Let's have one last tearful game; a bowling
-match.
-I definitely won't lose?");
+MsgDisp("Mikage","Let's settle it with one last bowling match.
+I'm not gonna lose this time.");
 ChEye(5,4);
 ChMouth(5,4);
 ChEye(6,0);

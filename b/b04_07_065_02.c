@@ -54,8 +54,8 @@ But the end must come.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040706502_07_040");
-        MsgDisp("Mikage","No, even I don't think this is like me either
-but..");
+        MsgDisp("Mikage","No, even I know this isn't really my style,
+but...");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);

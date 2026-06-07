@@ -63,9 +63,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0,1);
 VoicePlay("B330A30400_06_020");
-MsgDisp("Himuro","The autumn colors get reflected on the
-surface of the water.
-Basic, but beautiful.");
+MsgDisp("Himuro","The autumn leaves reflected on the water and
+so on, classic, but beautiful.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

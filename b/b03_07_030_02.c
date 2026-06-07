@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     MsgDispSksp(1,0);
     VoicePlay("B030703002_07_010");
     MsgDisp("Mikage","Right, aquarium group, follow me.
-We'll visit each area in turn, so everyone
-else wait quietly.");
+We'll take turns looking at different places,
+so other groups please watch quietly.");
     MsgDispSksp(0);
     break ;
     case 1:

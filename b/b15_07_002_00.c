@@ -13,12 +13,12 @@ VoicePlay("B150700200_07_010");
 MsgDisp("Mikage","Hey, don't play dumb.
 You weren't doing it unconsciously, were you?");
 MsgDisp("主人公","I'm sorry.
-I was in a trance...");
+I got carried away...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B150700200_07_020");
-MsgDisp("Mikage","In a trance?");
+MsgDisp("Mikage","Carried away?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);

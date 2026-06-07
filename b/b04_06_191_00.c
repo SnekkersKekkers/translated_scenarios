@@ -40,7 +40,7 @@ Next time I'll take that into consideration.");
     VoicePlay("B040619100_06_020");
     MsgDisp("Himuro","It was a miss because it didn't suit your
 tastes?
-It's not just nonsense, that makes no sense?");
+It's not just nonsense, it makes no sense.");
     MsgDateResultDisp();
     break ;
     default :

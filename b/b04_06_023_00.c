@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040602300_06_010");
-    MsgDisp("Himuro","Well, we have no choice but to do that.");
+    MsgDisp("Himuro","Well, that's pretty much all there is to do.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

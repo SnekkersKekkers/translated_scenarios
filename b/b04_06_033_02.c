@@ -6,8 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040603302_06_000");
-MsgDisp("Himuro","The ocean that we see is only just one part
-of it...");
+MsgDisp("Himuro","The ocean we see is only a tiny part of the
+whole thing...");
 MsgSel("Oh, that's a good point!","What's with this all of a sudden...?","You could say that about other things too");
 switch (MsgSelRsltGet()){
     case 0:
@@ -69,7 +69,7 @@ actions angered you, made you upset...");
         ChMouth(6,2);
         ChMotion(6,2);
         VoicePlay("B040603302_06_070");
-        MsgDisp("Himuro","I would lose all sorts of confidence.");
+        MsgDisp("Himuro","I'd lose all my confidence.");
         MsgDisp("主人公","｛Himuro＊＊｝...");
         ChEye(6,0);
         ChMouth(6,0);

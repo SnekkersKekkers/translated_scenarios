@@ -44,7 +44,7 @@ was a child.");
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040530000_05_030");
-    MsgDisp("Hiiragi","It reflects my personality huh...which part?");
+    MsgDisp("Hiiragi","So it reflects my personality, huh...? Which part?");
     MsgDateResultDisp();
     break ;
     default :

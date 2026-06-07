@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040510300_05_010");
     MsgDisp("Hiiragi","Yes.
-Even if it's just a little, I would like to
-get to know it more.");
+Even just a little, I want to get closer to
+that level.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

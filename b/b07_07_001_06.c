@@ -47,7 +47,7 @@ VoicePlay("B070700001_07_500");
 MsgDisp("Mikage","Inori is the same.
 I think both of them know that, somewhere, in
 some way.");
-MsgDisp("主人公","Then, our bond will be everlasting...");
+MsgDisp("主人公","Then our bond will last forever...");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,3);

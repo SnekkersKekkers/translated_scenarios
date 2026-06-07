@@ -5,9 +5,9 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623202_06_000");
-MsgDisp("Himuro","Haven't you noticed?
-For guys, you have to overcome a high hurdle
-to ride on here.");
+MsgDisp("Himuro","You still haven't noticed?
+This ride's a pretty high hurdle for a guy to
+get on.");
 MsgSel("I'm sure there are guys that like it? ","But I want to ride it with ｛Himuro＊＊｝.","I haven't noticed at all.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -21,9 +21,9 @@ switch (MsgSelRsltGet()){
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623202_06_010");
-        MsgDisp("Himuro","Okay, correction.
-The hurdle is too great for me.
-Is that okay?");
+        MsgDisp("Himuro","Fine, correction.
+The hurdle's too high for me.
+Happy now?");
         MsgDateResultDisp();
         break ;
         case 4:

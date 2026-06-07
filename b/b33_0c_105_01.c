@@ -35,7 +35,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10501_05_020");
-MsgDisp("Hiiragi","Recently, I lean towards using the washable
+MsgDisp("Hiiragi","Lately I've really come to favor the washable
 type.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -62,7 +62,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10501_05_040");
-MsgDisp("Hiiragi","Perhaps it's since I just like cleaning.
+MsgDisp("Hiiragi","Maybe it's just that I like cleaning.
 It feels truly wonderful to have everything
 clean and tidy.");
 ChEye(7,2);
@@ -86,8 +86,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10501_05_050");
 MsgDisp("Hiiragi","Hehe, but I understand.
-The more you clean, the more clean it
-becomes.");
+The more you clean, the cleaner it gets.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

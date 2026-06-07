@@ -30,8 +30,8 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("B330B30300_03_000");
 MsgDisp("Honda","Seriously!
-My sister says it a lot, girl's clothes are
-expensive.");
+My sister says it all the time—girls' clothes
+are expensive.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);

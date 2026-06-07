@@ -4,7 +4,7 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B070800000_08_060");
 MsgDisp("Shirahane","Sunny side-up!
-I love the taste and its appearance!");
+I love how they look and taste!");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,0,1);

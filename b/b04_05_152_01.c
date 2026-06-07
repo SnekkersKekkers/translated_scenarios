@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040515201_05_000");
-MsgDisp("Hiiragi","Yeah, you've got a relaxed form.");
+MsgDisp("Hiiragi","Yeah, your relaxed form's looking great.");
 MsgSel("Relax, and play♪","It's thanks to ｛Hiiragi＊＊＊｝'s lessons.","Maybe I've already surpassed my teacher?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040515201_05_010");
-    MsgDisp("Hiiragi","Heheh, yes that's good rhythm.
-More than anything, it's most important to
-have fun.");
+    MsgDisp("Hiiragi","Heheh, nice rhythm.
+More than anything, having fun is what
+matters most.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

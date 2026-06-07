@@ -13,9 +13,8 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMouth(5,4);
     VoicePlay("B040523202_05_010");
-    MsgDisp("Hiiragi","Umm, the gondola we rode on just now was
-yellow, so....
-Today we'll have good economic fortune?");
+    MsgDisp("Hiiragi","Um, the gondola we just rode was yellow, so...
+Does that mean good luck with money today?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -103,8 +102,7 @@ much...)");
     ChMotion(5,0);
     VoicePlay("B040523202_05_090");
     MsgDisp("Hiiragi","Right.
-The yellow means an increase in economic
-fortune. That's not very exciting is it?");
+Yellow means a boost in money luck. Not exactly thrilling, is it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

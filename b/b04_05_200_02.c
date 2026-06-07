@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040520002_05_010");
     MsgDisp("Hiiragi","...Yes, maybe.
-I should improve a little huh?");
+I must have improved a little, right?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -77,9 +77,8 @@ That was close, but you looked cool.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040520002_05_080");
-        MsgDisp("Hiiragi","You're laughing yes?
-Well, I also thought it was funny midway, and
-started laughing.");
+        MsgDisp("Hiiragi","You're laughing, aren't you?
+Well, I started laughing along the way too.");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,0);

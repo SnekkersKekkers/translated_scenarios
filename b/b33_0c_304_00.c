@@ -84,7 +84,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoiceEVSPlay(7);
 VoicePlay("B330C30400_07_040");
-MsgDisp("Mikage","｛主人公｝, you have three choices of fate.");
+MsgDisp("Mikage","｛主人公｝, it's a fateful choice of three.");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);

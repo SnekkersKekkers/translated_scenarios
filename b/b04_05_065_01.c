@@ -6,8 +6,8 @@ ChOpen(5,33,4,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040506501_05_000");
-MsgDisp("Hiiragi","It reverberates in my stomach.
-The intensity is amazing.");
+MsgDisp("Hiiragi","I can feel it in my chest.
+The power is incredible.");
 MsgSel("It's amazing how the fireworks shoot up right overhead!","Shall we eat some yakisoba?","Ah, my juice spilled!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +29,8 @@ satisfied.");
     ChMotion(5,3);
     VoicePlay("B040506501_05_020");
     MsgDisp("Hiiragi","Yeah.
-I've been curious about the smell of sauce
-too.");
+The smell of the sauce has been getting to
+me too.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

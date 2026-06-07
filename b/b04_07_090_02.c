@@ -5,8 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040709002_07_000");
-MsgDisp("Mikage","This is also a laboratory for genetic
-modification.
+MsgDisp("Mikage","This place has a test field for selective breeding too.
 Let's take a peek.");
 MsgSel("Natural is best.","Like square watermelons?","Like disease-resistant rice?");
 switch (MsgSelRsltGet()){
@@ -42,7 +41,7 @@ vegetables of today exist.");
         ChMotion(7,3);
         VoicePlay("B040709002_07_030");
         MsgDisp("Mikage","Alright, alright.
-Just now, you've also just transformed.");
+Just now, you changed a little too.");
         MsgDisp("主人公","Huh?");
         ChEye(7,0);
         ChMouth(7,0);

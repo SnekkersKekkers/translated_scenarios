@@ -37,7 +37,7 @@ ChEye(7,1);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B140700100_07_030");
-MsgDisp("Mikage","Then, I'll turn things up.");
+MsgDisp("Mikage","Then I'll step things up too.");
 MsgDisp("主人公","Ehh?");
 MsgClose();
 ChClose(7,0,30);

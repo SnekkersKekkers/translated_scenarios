@@ -29,7 +29,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A30501_01_000");
 MsgDisp("Kazama","Right.
-Take a minute to prepare.");
+Try getting into your stance.");
 MsgDisp("主人公","Yeah.");
 MsgClose();
 ScrFadeOut(0);
@@ -42,8 +42,8 @@ MsgDisp("Sassa","Lift your heel a bit on your hind leg, and
 stand on your toe.");
 MsgDisp("主人公","Umm, l-like this?");
 VoicePlay("B330A30501_06_010");
-MsgDisp("Himuro","Don't put too much force on release.
-Making a gentle curve, quickly let go.");
+MsgDisp("Himuro","Don't force the release.
+Let it arc gently, and quickly let go.");
 MsgDisp("主人公","I-I won't understand if you tell me that all
 in one go!");
 ChEye(1,2);

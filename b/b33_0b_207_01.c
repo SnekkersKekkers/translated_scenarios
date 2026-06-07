@@ -25,7 +25,7 @@ VoicePlay("B330B20701_01_000");
 MsgDisp("Kazama","I think bears are braver.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hehe!
-Is there an enclosure you liked, ｛Honda＊＊｝?");
+Was there an area you liked, ｛Honda＊＊｝?");
 ChMouth(1,2);
 ChEye(3,4);
 ChMouth(3,4);

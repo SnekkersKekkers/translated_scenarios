@@ -67,7 +67,7 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30301_07_020");
 MsgDisp("Mikage","Yeah.
-Wanna go the opposite way next?");
+Wanna skate the opposite way next?");
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","No you can't!");

@@ -15,7 +15,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30101_06_000");
-MsgDisp("Himuro","This place is really well-put together.");
+MsgDisp("Himuro","The staging here is really well done.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

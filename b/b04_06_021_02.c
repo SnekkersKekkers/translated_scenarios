@@ -45,8 +45,8 @@ everyday life though?");
         ChMotion(6,0);
         VoicePlay("B040602102_06_030");
         MsgDisp("Himuro","I see...
-Escapism is nonsense, but times like this are
-necessary too.");
+Running from reality is nonsense, but maybe
+you need moments like this once in a while.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

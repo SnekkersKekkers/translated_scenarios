@@ -23,7 +23,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B330B10101_04_000");
-MsgDisp("Nanatsumori","Things like this happen.");
+MsgDisp("Nanatsumori","Yeah, that happens sometimes.");
 ChEyeOpenLevel(1,#1);
 ChEye(3,4);
 ChMouth(3,0);
@@ -69,8 +69,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B10101_04_020");
 MsgDisp("Nanatsumori","Kazama.
-Won't that just make you swallow what you
-were about to say?");
+I'm not letting you swallow what you were
+about to say.");
 ChMouth(1,1);
 ChEyeOpenLevel(1,8);
 ChEye(3,3);
@@ -92,7 +92,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B330B10101_03_030");
-MsgDisp("Honda","Ah, Ryo-kun took the offensive!");
+MsgDisp("Honda","Ah, Ryo-kun just owned it!");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);

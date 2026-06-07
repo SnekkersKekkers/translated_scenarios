@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040724100_07_010");
-    MsgDisp("Mikage","It's harder than you think.
-Go and experience the value of milk yourself.");
+    MsgDisp("Mikage","It's harder than it looks.
+Go find out how much work goes into every glass of milk.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

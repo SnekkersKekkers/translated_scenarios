@@ -6,8 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040622201_06_000");
-MsgDisp("Himuro","If you live in Habataki, you will definitely
-come here on a field trip.");
+MsgDisp("Himuro","Anyone who grows up in Habataki ends up here
+on a school field trip.");
 MsgSel("Let's learn today too!","In other words, you're bored of it?","Yeah, it's nostalgic.");
 switch (MsgSelRsltGet()){
     case 0:

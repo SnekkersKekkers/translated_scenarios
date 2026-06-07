@@ -81,8 +81,7 @@ Then, I'll invite you next time okay?");
         ChCheek(6,0);
         VoicePlay("B040616002_06_080");
         MsgDisp("Himuro","...Haa.
-Why is it that I could only phrase it like
-that....");
+Why is that the only way I could put it...");
         MsgDisp("主人公","(?
 ｛Himuro＊＊｝ seems to be worried about
 something?)");

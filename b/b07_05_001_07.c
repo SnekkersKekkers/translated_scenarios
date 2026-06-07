@@ -32,9 +32,9 @@ MsgDisp("主人公","Huh?");
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("B070500001_05_550");
-MsgDisp("Hiiragi","It's the blessings of an actor to make
-someone feel that way just by being with
-them.");
+MsgDisp("Hiiragi","To make someone feel that way just by being
+with them is the greatest reward an actor
+could ask for.");
 ChEye(5,4);
 VoicePlay("B070500001_05_560");
 MsgDisp("Hiiragi","Furthermore, I feel the same.");
@@ -42,9 +42,9 @@ MsgDisp("主人公","｛Hiiragi＊＊＊｝ too?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B070500001_05_570");
-MsgDisp("Hiiragi","Yes, I never tire of spending time with you.
-It may be a bit different to excitement
-though.");
+MsgDisp("Hiiragi","Yes, I can never quite relax around you.
+Though it might be a little different from
+excitement.");
 MsgDisp("主人公","...Is that so?");
 ChEye(5,2);
 ChMouth(5,4);

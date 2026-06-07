@@ -37,7 +37,8 @@ will be like that too.");
     ChEye(5,4);
     ChMotion(5,3);
     VoicePlay("B040521101_05_030");
-    MsgDisp("Hiiragi","Yes, she has calm and gentle eyes.");
+    MsgDisp("Hiiragi","Yeah, those calm, gentle eyes really get to
+me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

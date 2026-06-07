@@ -46,8 +46,8 @@ day.");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723402_07_030");
-        MsgDisp("Mikage","Is it really necessary to break through my
-limits with this?");
+        MsgDisp("Mikage","Do I really need to push past my limits over
+this?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -86,8 +86,8 @@ girl.");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723402_07_080");
-        MsgDisp("Mikage","Thanks to you, I was able to experience
-embarrassment and the trials of spinning
+        MsgDisp("Mikage","Thanks to you, I got to taste both the
+embarrassment and the ordeal of spinning
 around.");
         MsgDisp("主人公","Umm, is that its charm?");
         ChEye(7,0);

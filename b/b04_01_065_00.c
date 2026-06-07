@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040106500_01_010");
-    MsgDisp("Kazama","Love it.
-I think you must be the only high school
-student that loves this classic that much.");
+    MsgDisp("Kazama","That's great.
+You've gotta be the only high schooler who
+still cheers the old-fashioned way like that.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -35,7 +35,7 @@ Where shall we go next time?");
     VoicePlay("B060500001_05_020");
     MsgDisp("Hiiragi","...I enjoyed it.
 Every day I spend with you is special.
-It's a lingering feeling.");
+This feeling lingers a while.");
     MsgDispSksp(0);
     break ;
     default :

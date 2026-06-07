@@ -88,7 +88,7 @@ How was it for you, ｛Himuro＊＊｝?");
         ChMotion(6,1);
         VoicePlay("B040611002_06_090");
         MsgDisp("Himuro","I'm going for a little swim.
-...My worldly desires are disrupting me.");
+...My worldly desires are getting in the way.");
         MsgClose();
         SEPlay("EV_SE_563");
         MsgClose();

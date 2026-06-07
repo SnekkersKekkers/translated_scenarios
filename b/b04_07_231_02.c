@@ -87,8 +87,8 @@ Maybe even underground?");
         ChMouth(7,3);
         ChMotion(7,3);
         VoicePlay("B040723102_07_080");
-        MsgDisp("Mikage","Running freely in all directions whilst
-avoiding plant roots.");
+        MsgDisp("Mikage","Tearing around in every direction while
+dodging plant roots.");
         MsgDisp("主人公","Hehe, like a mole.");
         ChEye(7,0);
         ChMouth(7,0);

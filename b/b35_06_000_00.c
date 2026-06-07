@@ -39,7 +39,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B350600000_06_050");
-    MsgDisp("Himuro","I thought as much.");
+    MsgDisp("Himuro","Now you're talking.");
     MsgDisp("主人公","My heart is racing a little, what about you?");
     ChEye(6,0);
     ChMouth(6,0);

@@ -92,8 +92,8 @@ conclusions based on the situation.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040623302_06_090");
-        MsgDisp("Himuro","Unfortunately, I won't fall for the
-suspension bridge effect.");
+        MsgDisp("Himuro","Sorry to disappoint, but I'm not one to fall
+for the suspension bridge effect.");
         MsgDisp("主人公","So that's how it is...");
         ChEye(6,0);
         ChMouth(6,2);

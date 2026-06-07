@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040406100_04_000");
 MsgDisp("Nanatsumori","Ah—...it's hot.
 So, what do you plan on doing here?");
-MsgSel("Shall we race out to the sea?","Let's eat at the beach hut first!","Let's look for pretty seashells");
+MsgSel("Shall we race out to the sea?","Let's eat at the beach house first!","Let's look for pretty seashells");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

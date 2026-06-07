@@ -112,8 +112,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10501_06_030");
-MsgDisp("Himuro","It's lunch though.
-So...a lunch and a show—?");
+MsgDisp("Himuro","It's lunch, though.
+So...a lunch show—?");
 MsgDisp("主人公","(It's troubling for me either way∋)");
 MsgClose();
 ScrFadeOut(0,0);

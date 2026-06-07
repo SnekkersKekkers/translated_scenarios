@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040524202_05_020");
     MsgDisp("Hiiragi","Sounds good.
-Then, let's aim to catch two.");
+Two's our quota, then.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

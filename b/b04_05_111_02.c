@@ -28,7 +28,7 @@ Now, will you give me your hand?");
     ChEye(5,3);
     VoicePlay("B040511102_05_020");
     MsgDisp("Hiiragi","Haha.
-I think we've reached that point.");
+I'd say we've reached that level.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -59,8 +59,8 @@ That's a bit of a stretch, isn't it?");
 Everyone would be surprised, huh?");
         ChEye(5,2);
         VoicePlay("B040511102_05_050");
-        MsgDisp("Hiiragi","After we surprise them, I guess they would
-boo when they see my skating.");
+        MsgDisp("Hiiragi","After the surprise wears off, they'd probably
+boo once they see how I actually skate.");
         MsgDisp("主人公","No way.
 It would be a good way to advertise the
 Theater Company's Ice Show.");
@@ -98,7 +98,7 @@ I'll try it.");
         ScrQuake(2);
         MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you okay∋");
         VoicePlay("B040511102_41_000");
-        MsgDisp("Man","What the- that sounds kind of amazing.");
+        MsgDisp("Man","What the-- that was one heck of a sound.");
         VoicePlay("B040511102_47_000");
         MsgDisp("Woman","A-Are you okay?");
         VoicePlay("B040511102_05_110");

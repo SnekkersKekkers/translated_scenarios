@@ -25,9 +25,9 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040522201_05_020");
-    MsgDisp("Hiiragi","I see, I want to join that circle soon.
-Until then, could you come with me many more
-times?");
+    MsgDisp("Hiiragi","I see. I'd like to become a regular here 
+soon. Until then, would you come with 
+me a few more times?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

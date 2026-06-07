@@ -17,12 +17,12 @@ ChMotion(5,0);
 ChCheek(5,0);
 VoicePlay("B150500400_05_020");
 MsgDisp("Hiiragi","I've told you before.
-I've already reached my limits of remaining
-my usual self.");
+I've already hit my limit staying my
+usual self.");
 MsgDisp("主人公","...Yeah.");
 ChEye(5,0);
 VoicePlay("B150500400_05_030");
-MsgDisp("Hiiragi","I've told you, even I'm a guy too.");
+MsgDisp("Hiiragi","I told you I'm a guy too, didn't I.");
 MsgDisp("主人公","...Yeah.");
 ChEye(5,4);
 ChMotion(5,2);

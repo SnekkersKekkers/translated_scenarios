@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,4);
     VoicePlay("B040608400_06_010");
     MsgDisp("Himuro","Ehhh, that's surprising, you're a literature
-girl? Well, it's important to experience
-printed text.");
+girl? Well, getting some actual reading in is
+important.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

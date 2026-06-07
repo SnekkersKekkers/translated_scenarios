@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040523502_05_010");
-    MsgDisp("Hiiragi","Yes, it's the same as a stage set.
-I just look calmly.");
+    MsgDisp("Hiiragi","Yes, it's just like a stage set, so I end up watching it calmly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

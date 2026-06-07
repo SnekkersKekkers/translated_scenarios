@@ -47,9 +47,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("B070501000_05_050");
-MsgDisp("Hiiragi","But those lines, and those stories get
-ingrained into my head and have become a
-hindrance.");
+MsgDisp("Hiiragi","But those lines, those stories, are ingrained
+in my head, and they get in the way.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);

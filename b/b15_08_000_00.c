@@ -5,7 +5,7 @@ ChOpen(8,255,0,2,4,#1,#1,6,0);
 ScrFadeIn(0);
 ChMotion(8,4,1);
 VoicePlay("B150800000_08_000");
-MsgDisp("Shirahane","Please have mercy on me soon..");
+MsgDisp("Shirahane","Give it a rest already, would ya...");
 MsgDisp("主人公","Ah...sorry?");
 ChEye(8,2);
 ChMouth(8,0);

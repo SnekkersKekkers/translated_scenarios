@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,3);
     VoicePlay("B040623300_06_010");
     MsgDisp("Himuro","I get it.
-It's a feeling you wouldn't experience in
-everyday life. It feels super good.");
+It's a sensation you'd never get in everyday
+life. Feels amazing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

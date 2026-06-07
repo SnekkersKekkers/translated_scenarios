@@ -12,7 +12,7 @@ MsgDisp("Mikage","It's fine if you forgot, but you should
 contact me if something happened.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
-MsgDisp("主人公","Ah, I've done it!
+MsgDisp("主人公","Ah, no, I messed up!
 I had an extracurricular activity today!");
 MsgClose();
 ScrFadeOut(0,0);

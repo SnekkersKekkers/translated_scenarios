@@ -32,7 +32,7 @@ ChEye(7,0);
 ChMouth(7,3);
 VoicePlay("G020710306_07_040");
 MsgDisp("Mikage","Yeah, that's right.
-The roller coaster at Habataki Land Town is
+The roller coaster at Habataki Land is
 intense.");
 MsgDisp("主人公","｛Mikage＊＊｝, you were really excited.");
 ChEye(7,0);

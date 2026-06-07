@@ -37,8 +37,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30100_06_020");
-MsgDisp("Himuro","Yeah, an intentional detour in evolution; as
-if it's playing around.");
+MsgDisp("Himuro","Yeah, like it deliberately took the long way
+round in evolution, just for fun.");
 MsgDisp("主人公","Deep sea fish look super scary, but they sure
 are playful.");
 ChEye(6,0);

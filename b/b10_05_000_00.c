@@ -20,8 +20,8 @@ VoicePlay("B100500000_05_020");
 MsgDisp("Hiiragi","And leaving you alone at this hour.");
 MsgDisp("主人公","No, it was my fault...");
 VoicePlay("B100500000_05_030");
-MsgDisp("Hiiragi","I'm troubled...
-Then, how about this.");
+MsgDisp("Hiiragi","Hmm, what to do...
+All right, let's do this.");
 VoicePlay("B100500000_05_040");
 MsgDisp("Hiiragi","Only we know what happened today. If we both
 forget, it won't exist in this world.

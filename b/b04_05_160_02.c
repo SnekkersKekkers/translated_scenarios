@@ -24,8 +24,9 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMouth(5,2);
     VoicePlay("B040516002_05_020");
-    MsgDisp("Hiiragi","The form of the bear will make it difficult
-to catch, but, I'll try it.");
+    MsgDisp("Hiiragi","The way the bear is shaped gives the 
+claw little to grip... but I'll give 
+it a try.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -58,8 +59,8 @@ What would you like?");
         ChEye(5,4);
         VoicePlay("B040516002_05_050");
         MsgDisp("Hiiragi","Your smile is my reward.
-So I need you to be really happy with what I
-win.");
+So I have to win you plenty to be happy
+about.");
         MsgDisp("主人公","Umm...");
         ChEye(5,0);
         ChMotion(5,4);

@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606100_06_000");
 MsgDisp("Himuro","...So, what should we do?");
-MsgSel("Should we have a contest in the water?","Let's eat at the beach hut!","Should we look for seashells?");
+MsgSel("Should we have a contest in the water?","Let's eat at the beach house!","Should we look for seashells?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

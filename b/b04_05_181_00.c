@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,2);
     VoicePlay("B040518100_05_000");
     MsgDisp("Hiiragi","Is that so?
-I was uninformed...");
+Guess I missed something...");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -33,8 +33,8 @@ It was also so-so for me.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040518100_05_020");
-    MsgDisp("Hiiragi","Haa, that's good.
-I thought I was the only one.");
+    MsgDisp("Hiiragi","Phew, good.
+I thought I was the only one left out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -29,8 +29,8 @@ ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20101_04_010");
-MsgDisp("Nanatsumori","That means deep sea fish are fish too right?
-Does that mean you could eat them?");
+MsgDisp("Nanatsumori","Deep sea fish are still fish, right?
+Does that mean you can eat them?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);

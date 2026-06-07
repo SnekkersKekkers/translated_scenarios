@@ -38,9 +38,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600002_06_530");
-MsgDisp("Himuro","You see, usually Yonosuke-senpai and
-Kojiro-sensei are here, so it's rare to have
-quiet time like this.");
+MsgDisp("Himuro","You see, usually Yanosuke-senpai and Kojiro-sensei are here, so it's rare to have quiet time like this.");
 MsgDisp("主人公","Y-Yeah.
 That's right.");
 ChEye(6,0);

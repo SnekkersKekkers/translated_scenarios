@@ -37,8 +37,8 @@ MsgDisp("Himuro","High five...
 I see.
 If I get a strike, I get to do that...");
 VoicePlay("B330A20500_01_000");
-MsgDisp("Kazama","If you have crooked thoughts, the ball won't
-roll straight you know?");
+MsgDisp("Kazama","If your thoughts ain't straight, the ball
+won't roll straight either, y'know?");
 VoicePlay("B330A20500_06_010");
 MsgDisp("Himuro","...That goes for you too.");
 ChEye(2,0);

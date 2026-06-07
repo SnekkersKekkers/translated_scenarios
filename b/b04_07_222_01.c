@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040722201_07_020");
-    MsgDisp("Mikage","Please do something.");
+    MsgDisp("Mikage","C'mon, work with me here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

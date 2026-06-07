@@ -37,7 +37,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10800_01_010");
-MsgDisp("Kazama","Could it be...you were led over here?");
+MsgDisp("Kazama","Could it be...something's calling you here?");
 MsgDisp("主人公","Ehhh∋");
 ChEye(1,0);
 ChMouth(1,2);

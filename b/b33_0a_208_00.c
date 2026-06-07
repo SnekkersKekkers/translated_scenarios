@@ -48,7 +48,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20800_02_010");
-MsgDisp("Sassa","How about we pair up for each ride:
+MsgDisp("Sassa","How about we each pair off once for the
 rollercoaster, ferris wheel, and teacups?
 That'll keep the peace.");
 ChMouth(1,0);

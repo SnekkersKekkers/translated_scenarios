@@ -38,9 +38,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600001_06_060");
-MsgDisp("Himuro","He has a lot of worries too.
-I've started to feel more sympathy for him,
-because it never ends.");
+MsgDisp("Himuro","He's got his own share of worries that never seem to end. I've found myself sympathizing with him more and more.");
 MsgDisp("主人公","Is that so.");
 ChEye(6,0);
 ChMouth(6,3);

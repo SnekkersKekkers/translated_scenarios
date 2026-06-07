@@ -12,7 +12,7 @@ ChLayout(0);
 MsgClose();
 ChOpen(7,255,0,1,0,#1,#1,0,0);
 VoicePlay("B150700500_07_010");
-MsgDisp("Mikage","Are you prepared?");
+MsgDisp("Mikage","So you're ready, then?");
 ChEye(7,1);
 ChMouth(7,4);
 ChMotion(7,3);

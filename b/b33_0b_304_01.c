@@ -24,8 +24,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30401_01_000");
-MsgDisp("Kazama","A walk is nice but.
-Are we not going to do anything?");
+MsgDisp("Kazama","A walk's fine and all, but
+aren't we gonna do anything?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -67,7 +67,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B330B30401_04_030");
-MsgDisp("Nanatsumori","Dahon has no authority to answer.");
+MsgDisp("Nanatsumori","Dahon doesn't get a say.");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1,1);
@@ -79,7 +79,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30401_01_020");
-MsgDisp("Kazama","I transfer my right to answer over to Dahon.");
+MsgDisp("Kazama","I'm handing my turn over to Dahon.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -104,8 +104,8 @@ This is a day without any plans, so we'll
 just go with what you want.");
 ChMouth(1,3);
 MsgDisp("主人公","(Hmm.
-I'm having fun just by being with everyone
-though you know?)");
+I'm having plenty of fun just being with
+everyone, though?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -29,8 +29,8 @@ ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C10800_06_000");
 MsgDisp("Himuro","That's close to how it is for me too.
-My facial muscles naturally relax just before
-jumping.");
+My face just naturally relaxes right before I
+jump.");
 MsgDisp("主人公","You two are amazing...
 Isn't it scary?");
 ChEye(7,2);

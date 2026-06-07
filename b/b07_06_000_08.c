@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_430");
 MsgDisp("Himuro","...What will you do once you know?");
-MsgDisp("主人公","What will I do...
-I'm just curious?");
+MsgDisp("主人公","What will I do...?
+I'm just curious.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -30,9 +30,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_470");
-MsgDisp("Himuro","But you know. You'll fall in love before you
-know it right? You won't have time to worry
-about stuff like types.");
+MsgDisp("Himuro","But, you know. They say you fall for someone before you even realize it, right? So who's got time to worry about types?");
 MsgDisp("主人公","(I see...that's a good point.)");
 BGMStop();
 MsgClose();

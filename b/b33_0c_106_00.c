@@ -35,8 +35,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330C10600_06_000");
-MsgDisp("Himuro","...If Yanosuke-senpai is appraising it, maybe
-my perspective is off....?");
+MsgDisp("Himuro","...If Yanosuke-senpai is praising it, maybe
+I'm the one seeing it wrong....?");
 ChEye(5,3);
 ChMouth(5,2);
 ChEye(7,0);
@@ -50,8 +50,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("B330C10600_06_010");
-MsgDisp("Himuro","Yeah, it was a very happy-go-lucky, stressful
-movie.");
+MsgDisp("Himuro","Yeah, it was such a brainlessly cheerful
+movie that it stressed me out.");
 ChEye(5,4);
 ChMouth(5,4);
 MsgDisp("主人公","Ehh?
@@ -85,8 +85,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C10600_06_020");
-MsgDisp("Himuro","Yes, I was anxious since I didn't understand
-his values.");
+MsgDisp("Himuro","Yeah, I couldn't figure out what was driving
+him, so it kept me on edge.");
 MsgDisp("主人公","My heart was pounding a lot.");
 ChEye(5,0);
 ChMouth(5,4);

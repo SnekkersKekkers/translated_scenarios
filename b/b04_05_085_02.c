@@ -52,14 +52,14 @@ breath.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040508502_05_050");
-        MsgDisp("Hiiragi","No, my heart just skipped a beat at your
-breath becoming visible.");
+        MsgDisp("Hiiragi","No, my heart just skipped a beat seeing your
+breath turn white.");
         MsgDisp("主人公","Ehhh∋");
         ChEye(5,3);
         ChMouth(5,2);
         ChMotion(5,0);
         VoicePlay("B040508502_05_060");
-        MsgDisp("Hiiragi","Is it really that surprising of a matter?");
+        MsgDisp("Hiiragi","Is it really that surprising?");
         MsgDisp("主人公","Well, for some reason it's super
 embarrassing.");
         ChEye(5,4);

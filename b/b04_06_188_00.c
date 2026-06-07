@@ -34,8 +34,8 @@ If you didn't it was unrewarding.");
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040618800_06_020");
-    MsgDisp("Himuro","I couldn't bear it a second longer.
-Other than that, I have no words.");
+    MsgDisp("Himuro","I honestly couldn't sit through it.
+Other than that, I'm at a loss for words...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

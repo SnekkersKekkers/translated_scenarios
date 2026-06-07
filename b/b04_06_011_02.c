@@ -68,7 +68,7 @@ Nonsense.");
         MsgDisp("Himuro","...Well, the lovestruck look on your face is
 probably more worth seeing than this place.");
         MsgDisp("主人公","∋
-It doesn't stretch out!");
+My face is not doing that!");
         ChEye(6,3);
         ChMouth(6,3);
         ChMotion(6,0);

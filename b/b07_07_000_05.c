@@ -27,9 +27,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700000_07_260");
-MsgDisp("Mikage","Thanks to that, the usual reaction of \"Ehhh?\"
-comes much quicker.
-Then, what do you think?");
+MsgDisp("Mikage","Thanks to that, I get the usual \"Ehhh?\" a lot sooner. So, what do you think?");
 MsgDisp("主人公","Uummm, it's amazing that you can make
 anything yourself.
 How long have you been doing this for?");
@@ -45,9 +43,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("B070700000_07_280");
-MsgDisp("Mikage","I don't know about cute, but there were about
-10 dogs so I had to build it carefully from
-scratch.");
+MsgDisp("Mikage","I don't know about cute, but I even painted the outside, and with about 10 dogs around I had to build it solid from the ground up.");
 MsgDisp("主人公","This seems like more than a hobby...");
 ChEye(7,0);
 ChMouth(7,0);

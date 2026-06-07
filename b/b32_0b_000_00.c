@@ -10,7 +10,7 @@ ChEyeOpenLevel(1,0);
 ChMotion(4,1,1);
 VoicePlay("B320B00000_04_000");
 MsgDisp("Nanatsumori","You were already here when I arrived.
-Too quick.");
+Way too early.");
 ChEyeOpenLevel(1,#1);
 ChEye(3,0);
 ChMouth(3,3);

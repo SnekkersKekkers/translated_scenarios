@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("B040715100_07_010");
-    MsgDisp("Mikage","That's only natural, I'd be worried if you
-lost so easily.");
+    MsgDisp("Mikage","Course you won't. I'd be worried if you went
+down that easy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ lost so easily.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("B040715100_07_020");
-    MsgDisp("Mikage","The heavier ones will fall.
-Adults compete with their heads.");
+    MsgDisp("Mikage","The heavier pins go down. Adults win with
+their brains, see.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

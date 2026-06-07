@@ -1,6 +1,6 @@
 BGMPlay("BGM_HANYOU_A",0.01);
 VoicePlay("B320A00002_06_000");
-MsgDisp("Himuro","It's common sense to get there early right?");
+MsgDisp("Himuro","It's just common sense to get there early, right?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -25,8 +25,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B360703200_07_020");
 MsgDisp("Mikage","Well...
-First, it'd probably be an intense discussion
-with Inori.");
+First, I'd probably get into a serious shouting
+match with Inori.");
 MsgDisp("主人公","It might be a good match.");
 ChEye(7,0);
 ChMouth(7,0);

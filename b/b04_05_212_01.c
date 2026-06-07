@@ -13,9 +13,8 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMotion(5,0);
     VoicePlay("B040521201_05_010");
-    MsgDisp("Hiiragi","Yes, it looks a little bit discontent.
-I wonder if it has a problem with its
-hairstyle?");
+    MsgDisp("Hiiragi","Yeah, it looks a bit grumpy.
+Maybe it's unhappy with its hairstyle?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

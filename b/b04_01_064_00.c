@@ -28,8 +28,8 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B040106400_01_030");
-MsgDisp("Kazama","That's right, I'm buying a ton of things at
-these stalls!");
+MsgDisp("Kazama","That's right, I'm buying out every stall
+here!");
 MsgDisp("主人公","Hehe, that's our young master for you.");
 ChEye(1,0);
 ChMouth(1,1);

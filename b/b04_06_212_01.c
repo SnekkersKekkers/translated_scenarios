@@ -6,7 +6,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040621201_06_000");
-MsgDisp("Himuro","Animal accessories?
+MsgDisp("Himuro","Animal headbands?
 They even sell stuff like that?");
 MsgSel("Let's wear matching ones","Kids would probably be happy","This is a bit...");
 switch (MsgSelRsltGet()){

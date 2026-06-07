@@ -52,8 +52,7 @@ ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20801_01_010");
-MsgDisp("Kazama","Because we're two guys who had to ride
-together.");
+MsgDisp("Kazama","We had to ride that thing two guys together.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

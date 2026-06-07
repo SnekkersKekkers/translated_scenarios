@@ -24,12 +24,11 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B330B30800_01_010");
-MsgDisp("Kazama","Why you say, what will we do when we're
-riding it?");
+MsgDisp("Kazama","Whaddya mean why? What're we gonna do once
+we're on it?");
 ChSet(3,3);
 VoicePlay("B330B30800_03_000");
-MsgDisp("Honda","Let's all chat while travelling through the
-sky!");
+MsgDisp("Honda","Let's all chat while we sail through the sky!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -57,8 +56,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30800_04_020");
 MsgDisp("Nanatsumori","Kazama.
-When the four of us go out together, control
-your desires.");
+When the four of us are out together, keep
+your urges in check.");
 ChMouth(3,4);
 ChEye(1,0);
 ChMouth(1,2);

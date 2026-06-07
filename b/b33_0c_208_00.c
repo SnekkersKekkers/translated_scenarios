@@ -12,8 +12,8 @@ ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(7,255,3,0,0,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330C20800_07_000");
-MsgDisp("Mikage","The best part of camping is enjoying the
-inconvenience, right?
+MsgDisp("Mikage","The best part of camping is making do with
+less, right?
 Let's split up and get to work!");
 ChEye(6,0);
 ChMouth(6,4);
@@ -25,8 +25,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C20800_07_010");
-MsgDisp("Mikage","｛主人公｝, I brought some vegetables too
-Please prepare them.");
+MsgDisp("Mikage","｛主人公｝, I brought some vegetables too.
+Please prep them.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

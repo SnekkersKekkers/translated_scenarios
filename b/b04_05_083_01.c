@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("B040508301_05_000");
-MsgDisp("Hiiragi","When it turns night time, it becomes a world
-of fireflies.");
+MsgDisp("Hiiragi","Once night falls, this turns into a world of
+fireflies.");
 MsgSel("Are they having a break right now?","I want to see it together▼","Look at me instead of the fireflies!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040508301_05_010");
     MsgDisp("Hiiragi","Hehe.
-There's no sign of them, so maybe they're
-away from home?");
+There's no sign of them at all, so maybe
+they're out?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

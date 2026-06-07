@@ -9,9 +9,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700000_07_440");
-MsgDisp("Mikage","Rather, it might be hard to find a girl I
-don't like. I can't deny that it's more
-possible that I'm the one being disliked?");
+MsgDisp("Mikage","If anything, it'd be hard to find a girl I dislike. Though I won't deny it's more likely I'm the one being disliked.");
 MsgDisp("主人公","That's not true... Both ｛みちる＊｝ and
 ｛ひかる＊｝ say that ｛Mikage＊＊｝ is
 a great homeroom teacher.");

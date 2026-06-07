@@ -64,9 +64,9 @@ This has no relation to the Himuro name?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040611102_06_050");
-        MsgDisp("Himuro","Despite this, surfing is just something you
-have to just feel with your body, and get a
-feel for it that way.");
+        MsgDisp("Himuro","Despite this, surfing's something you
+just have to feel with your body and get a
+sense for.");
         MsgDisp("主人公","So it's like that.");
         ChEye(6,0);
         ChMouth(6,0);

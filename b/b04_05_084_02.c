@@ -47,7 +47,7 @@ wanting to take a picture.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040508402_05_040");
-        MsgDisp("Hiiragi","Is that so, I shall use it too from now on.");
+        MsgDisp("Hiiragi","Is that so? Then I'll start using it too.");
         MsgDisp("主人公","Hehe, yeah.");
         ChEye(5,2);
         ChMotion(5,4);
@@ -84,9 +84,8 @@ it...)");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040508402_05_080");
-    MsgDisp("Hiiragi","I'm calm.
-This place continues to be a powerspot even
-in autumn.");
+    MsgDisp("Hiiragi","It's so calming.
+This place stays a power spot even in autumn.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

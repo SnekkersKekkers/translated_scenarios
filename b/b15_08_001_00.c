@@ -5,7 +5,7 @@ ChOpen(8,255,0,2,2,#1,#1,7,0);
 ScrFadeIn(0);
 ChMotion(8,2,1);
 VoicePlay("B150800100_08_000");
-MsgDisp("Shirahane","Turns out it's no good!
+MsgDisp("Shirahane","Nope, I can't take it!
 Wait!");
 MsgDisp("主人公","Eh?");
 ChEye(8,2);

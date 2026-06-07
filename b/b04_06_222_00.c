@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040622200_06_010");
-    MsgDisp("Himuro","How optimistic.
+    MsgDisp("Himuro","Pretty upbeat of you.
 I don't dislike that way of thinking.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

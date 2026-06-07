@@ -7,7 +7,7 @@ VoicePlay("B070700000_07_300");
 MsgDisp("Mikage","Middle school, huh...
 Let's see, I loved girls, and I was always
 playing with my friends and animals.");
-MsgDisp("主人公","That hasn't changed now.");
+MsgDisp("主人公","You haven't changed a bit, then.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

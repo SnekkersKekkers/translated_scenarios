@@ -31,8 +31,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("B040530001_05_020");
-    MsgDisp("Hiiragi","That's right, I'm not particularly
-inconvenienced by it though.");
+    MsgDisp("Hiiragi","I guess so, though it doesn't really
+inconvenience me.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -66,8 +66,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C20600_07_010");
-MsgDisp("Mikage","The power of Indian movies has charmed
-Yanosuke this much, it's amazing.");
+MsgDisp("Mikage","Amazing how the sheer power of Indian movies
+can captivate Yanosuke this much.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);

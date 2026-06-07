@@ -33,8 +33,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 ChCheek(3,8);
 VoicePlay("B330B30301_03_000");
-MsgDisp("Honda","It was quite a revealing outfit right,
-especially in the chest area?
+MsgDisp("Honda","It was a pretty revealing outfit, right?
+Especially around the chest.
 Even I was a bit nervous.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -55,15 +55,15 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B330B30301_04_020");
-MsgDisp("Nanatsumori","I mean, Dahon does wear his uniform like that
-I guess...");
+MsgDisp("Nanatsumori","I mean, that's kinda how Dahon wears his
+uniform, though...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B30301_01_020");
 MsgDisp("Kazama","Would you even call that revealing?
-I wonder why he doesn't get called out for it
-often though.");
+Weird he doesn't get called out for it more,
+though.");
 MsgDisp("主人公","Hehe, for sure!");
 ChEye(3,3);
 ChMouth(3,3);

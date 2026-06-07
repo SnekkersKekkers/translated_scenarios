@@ -24,9 +24,8 @@ Let's get some of the spring's power.");
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040508300_05_020");
-    MsgDisp("Hiiragi","That's at night time isn't it?
-So, it's alright and you can still have peace
-of mind.");
+    MsgDisp("Hiiragi","That's at night, isn't it?
+So for now, you can relax.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

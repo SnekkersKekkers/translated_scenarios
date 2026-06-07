@@ -48,7 +48,7 @@ Wait(30,0);
 ChOpen(5,255,0,0,4,#1,#1,0,3);
 SEWait();
 MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
-You got bullseye twice in a row.");
+You hit the bullseye twice in a row.");
 ChEye(5,4);
 VoicePlay("B330C30500_05_000");
 MsgDisp("Hiiragi","Perhaps I have just gotten the hang of it.");
@@ -63,7 +63,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C30500_07_010");
-MsgDisp("Mikage","｛主人公｝, you're in demand.");
+MsgDisp("Mikage","｛主人公｝, they're waiting on you.");
 ChEye(5,4);
 ChMouth(5,4);
 MsgDisp("主人公","Umm...

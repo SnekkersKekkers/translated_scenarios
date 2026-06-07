@@ -51,7 +51,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C10701_05_020");
 MsgDisp("Hiiragi","Ah, I'm sorry.
-I got excited beyond my better judgement.");
+I got a bit carried away.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
@@ -65,8 +65,8 @@ ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("B330C10701_06_010");
 MsgDisp("Himuro","Yes.
-It was an issue more with the steerer, than
-the size.");
+The problem was the one steering, not the
+size.");
 MsgDisp("主人公","Umm...are you two okay?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -116,7 +116,8 @@ ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("B330C10701_05_060");
-MsgDisp("Hiiragi","I suspected as much, let's go for the end!");
+MsgDisp("Hiiragi","I figured you'd say that. Let's give it our
+all this last time!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

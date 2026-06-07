@@ -16,4 +16,4 @@ MsgDisp("Himuro","Normally, the response is \"I wasn't waiting
 long\" right?");
 ChMouth(1,0);
 MsgDisp("主人公","Hehe.
-Thank you for your consideration.");
+Thanks for being so thoughtful.");

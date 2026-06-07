@@ -81,7 +81,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B330C20700_07_010");
-MsgDisp("Mikage","Oh, it's decided: let's go again.");
+MsgDisp("Mikage","Of course we're going again!");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -10,5 +10,5 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("B130500002_05_010");
-MsgDisp("Hiiragi","Alright, don't jump around so much.
+MsgDisp("Hiiragi","Try not to jump around too much.
 Don't forget that it's unusually short.");

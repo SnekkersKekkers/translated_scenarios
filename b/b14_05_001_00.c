@@ -41,7 +41,7 @@ VoicePlay("B140500100_05_030");
 MsgDisp("Hiiragi","Please excuse me. I always think such things
 immediately. It's an unpleasant trait I have
 from being an actor.");
-MsgDisp("主人公","Hehe, being the chairman is tough isn't it?");
+MsgDisp("主人公","Hehe, being the chairman is tough, isn't it?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -49,7 +49,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B140500100_05_040");
 MsgDisp("Hiiragi","Yes. Rather, I wish you would be able to
 stand on the same stage as me.
-I find myself thinking in that manner.");
+That's the kind of thing I catch myself thinking.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

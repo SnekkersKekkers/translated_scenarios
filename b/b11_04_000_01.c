@@ -10,7 +10,7 @@ SEPlay("EV_SE_557",0.2);
 ChOpen(34,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110400001_34_000");
 MsgDisp("Guy","Ahh, it's already this time...
-I have to quickly go.");
+Let's hurry up and go.");
 MsgDisp("主人公","Eh?");
 ChEye(34,0);
 ChMouth(34,0);

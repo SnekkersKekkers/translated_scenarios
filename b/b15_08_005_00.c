@@ -47,9 +47,9 @@ MsgDisp("主人公","Umm...");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("B150800500_08_070");
-MsgDisp("Shirahane","But still?
-It would be bad if you did the same things to
-another guy, ya know? Definitely so.");
+MsgDisp("Shirahane","But hey?
+Don't go doin' the same thing to any other
+guy, ya hear? Never.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

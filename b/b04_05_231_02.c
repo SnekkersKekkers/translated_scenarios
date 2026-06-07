@@ -5,9 +5,8 @@ MsgClose();
 ChOpen(5,255,4,3,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523102_05_000");
-MsgDisp("Hiiragi","When you look at it from here, it's that
-high...
-It's like jumping in the sky.");
+MsgDisp("Hiiragi","Seeing it from down here, it really is that high...
+It's like you'd fly right off into the sky.");
 MsgSel("That's terrifying.","If it were at night, it'd be a Milky Way railroad.","Do you like roller coasters a lot?");
 switch (MsgSelRsltGet()){
     case 0:

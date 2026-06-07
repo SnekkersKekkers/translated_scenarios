@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     NSSEye(5,2);
     NSSMouth(5,4);
     VoicePlay("B160500000_05_020");
-    MsgDisp("Hiiragi","In spite of that, you are persistent...");
+    MsgDisp("Hiiragi","And yet you're so persistent...");
     break ;
     default :
     DbgAssert(0);

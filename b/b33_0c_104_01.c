@@ -65,7 +65,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330C10401_06_020");
-MsgDisp("Himuro","I have not.");
+MsgDisp("Himuro","Nope.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -76,7 +76,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C10401_06_030");
-MsgDisp("Himuro","That's a common saying.");
+MsgDisp("Himuro","That's just an old wives' tale.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -143,7 +143,7 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C10401_07_060");
 MsgDisp("Mikage","You were holding it in, Inori.
-Should I pretend I didn't hear you?");
+Want me to pretend I didn't hear that?");
 MsgDisp("主人公","(Hehe, holding in a yawn is typical of
 ｛Himuro＊＊｝ isn't it?)");
 BGMStop();

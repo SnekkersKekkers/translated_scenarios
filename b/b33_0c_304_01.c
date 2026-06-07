@@ -24,7 +24,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B330C30401_07_010");
-MsgDisp("Mikage","There's many things you can do here?
+MsgDisp("Mikage","There's plenty to do here, right?
 The botanical garden, the museum, the
 pool...you can also just relax.");
 ChEye(5,0);
@@ -41,7 +41,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C30401_06_010");
-MsgDisp("Himuro","It's pointless just standing around here.");
+MsgDisp("Himuro","No point just standing around here.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

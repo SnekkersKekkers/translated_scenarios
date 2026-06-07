@@ -26,7 +26,7 @@ it's like a leaf on a tree.");
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040302200_03_030");
-    MsgDisp("Honda","Oh my god, me too!");
+    MsgDisp("Honda","Yep yep, me too!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

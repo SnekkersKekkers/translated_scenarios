@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040523301_05_010");
-    MsgDisp("Hiiragi","Yes, you can resolve yourself over there.
-Think it through properly.");
+    MsgDisp("Hiiragi","Yes, that's where you steel yourself for it.
+It's really well thought out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -42,7 +42,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_400");
 MsgDisp("Himuro","Time flies.
-Before you know it, it'll have gone by in a
+Before you know it, it'll have gone by in the
 blink of an eye.");
 ChEye(6,0);
 ChMouth(6,4);

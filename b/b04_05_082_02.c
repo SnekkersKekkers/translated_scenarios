@@ -6,9 +6,9 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040508202_05_000");
-MsgDisp("Hiiragi","It's been rumoured you can hear the voice of
-your companion here.
-What do you think of it?");
+MsgDisp("Hiiragi","They say you can hear the other person's inner
+thoughts here.
+What do you think?");
 MsgSel("Seems interesting!","Might be a bit scary.","I think it's a lie.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,9 +28,8 @@ You have no secrets.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040508202_05_020");
-    MsgDisp("Hiiragi","If I'm speaking honestly, it's scary for me
-too.
-Especially if you're my companion?");
+    MsgDisp("Hiiragi","Honestly, it scares me a little too.
+Especially when it's you I'm with.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -65,9 +64,9 @@ anything of the sort, right?");
         ChEye(5,4);
         ChMotion(5,1);
         VoicePlay("B040508202_05_060");
-        MsgDisp("Hiiragi","Even though I had not heard it myself, I was
-anxious thinking my inner voice was being
-talkative.");
+        MsgDisp("Hiiragi","I was anxious, worrying that my inner voice
+might be chattering away where I couldn't
+hear it.");
         MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝ is your inner voice
 talkative?");
         ChEye(5,2);

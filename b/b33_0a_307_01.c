@@ -21,19 +21,19 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A30701_01_000");
-MsgDisp("Kazama","Your body still sticks out of it doesn't it?");
+MsgDisp("Kazama","Your body still sticks out the sides, doesn't it?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A30701_02_010");
 MsgDisp("Sassa","That's right.
-That's why I can't help but give it a shake
-around to make sure.");
+That's why I can't help but rattle it around
+to make sure it's solid.");
 SEWait();
 ChEye(1,2);
 ChMouth(1,2);
 MsgDisp("主人公","Ehh?
-That's dangerous?");
+That's dangerous!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);

@@ -52,7 +52,7 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30801_04_010");
-MsgDisp("Nanatsumori","Dahon is blunt.");
+MsgDisp("Nanatsumori","There it is, Dahon's classic bluntness.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -84,8 +84,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30801_04_020");
-MsgDisp("Nanatsumori","Are you going to ignore Honda's
-consideration?
+MsgDisp("Nanatsumori","You're just gonna brush off Honda's kindness?
 That's cold.");
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);

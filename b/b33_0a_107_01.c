@@ -25,13 +25,13 @@ VoicePlay("B330A10701_06_000");
 MsgDisp("Himuro","I look forward to it.
 ...Right?");
 MsgDisp("主人公","Yes!
-Please take care of us.");
+We're counting on you.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10701_01_010");
-MsgDisp("Kazama","It kinda feels like the bar is being raised.");
+MsgDisp("Kazama","Feels like the bar's getting raised here.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

@@ -20,14 +20,14 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C10101_05_000");
-MsgDisp("Hiiragi","To have everyone relaxing on the boat like
-this, this time is an extravagance, isn't it?");
+MsgDisp("Hiiragi","All of us relaxing out on the water like
+this... it's such a luxury, isn't it?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10101_07_000");
-MsgDisp("Mikage","What are you relaxing for?
-Isn't it fine to be more excited?");
+MsgDisp("Mikage","Why're you all so laid-back?
+C'mon, get a little more pumped!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

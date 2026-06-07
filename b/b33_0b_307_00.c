@@ -78,7 +78,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30700_04_020");
 MsgDisp("Nanatsumori","Hm.
-Unfortunately, neither of you have said it—.");
+Sorry, I can't even call either of you close—.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);

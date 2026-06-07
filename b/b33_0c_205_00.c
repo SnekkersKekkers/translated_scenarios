@@ -91,9 +91,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C20500_06_050");
-MsgDisp("Himuro","I was messing.
-See, teaching a teacher is kind of
-interesting.");
+MsgDisp("Himuro","I was just messing around.
+See, teaching a teacher is kinda funny,
+right?");
 MsgDisp("主人公","Ehhh∋");
 ChEye(5,4);
 ChMouth(5,4);

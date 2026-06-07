@@ -51,9 +51,9 @@ that—");
         ChMotion(6,1);
         VoicePlay("B040602202_06_050");
         MsgDisp("Himuro","...No, it's nothing.
-Just overthinking things.");
+Just me reading into it.");
         MsgDisp("主人公","Eh?
-Dubious?");
+Reading into it?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

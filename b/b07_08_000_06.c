@@ -24,8 +24,8 @@ MsgDisp("Shirahane","I moved here in high school.
 And I was surprised by something.");
 ChMouth(8,0);
 VoicePlay("B070800000_08_320");
-MsgDisp("Shirahane","Where to stand when riding an escalator.
-Everyone stands in a line on the left.");
+MsgDisp("Shirahane","It's where folks stand on an escalator.
+Everyone lines up neatly on the left.");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,2,1);

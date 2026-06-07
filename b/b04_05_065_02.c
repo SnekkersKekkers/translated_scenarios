@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,3);
 VoicePlay("B040506502_05_000");
-MsgDisp("Hiiragi","Every year, I'll think \"This year is the
-best\".");
+MsgDisp("Hiiragi","Every year, I find myself thinking \"This
+year's the best\".");
 MsgSel("Yeah, the evolution of technology is amazing.","Yeah, the number of fireworks is increasing","Yeah, that'll definitely go for next year too");
 switch (MsgSelRsltGet()){
     case 0:
@@ -51,15 +51,15 @@ I hadn't noticed.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040506502_05_040");
-        MsgDisp("Hiiragi","But, even if the numbers diminished, I think
-I would have the same impressions.");
+        MsgDisp("Hiiragi","But even if there were fewer of them, I think
+I'd feel exactly the same.");
         MsgDisp("主人公","Huh?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040506502_05_050");
-        MsgDisp("Hiiragi","But that's natural for me.
-My relationship with you, as we watch it
-together each year becomes stronger.");
+        MsgDisp("Hiiragi","But that's only natural for me.
+Each year I watch it with you, our bond grows
+stronger.");
         MsgDisp("主人公","I see, that's right.
 And also your relationship with the theatre
 troupe and people in the town....");

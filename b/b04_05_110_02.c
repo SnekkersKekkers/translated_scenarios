@@ -37,7 +37,7 @@ Shouldn't we swim first?");
         MsgDisp("Hiiragi","Heheh, so suddenly?
 I don't know what you came here for.");
         MsgDisp("主人公","But, it's empty now.
-Looks like it's for private use.");
+Looks like we've got it all to ourselves.");
         ChEye(5,0);
         ChMouth(5,4);
         VoicePlay("B040511002_05_030");
@@ -69,8 +69,8 @@ poolside.");
         ChMotion(5,3);
         VoicePlay("B040511002_05_060");
         MsgDisp("Hiiragi","But, let's hurry.
-To feel like I'm in a private hot spring with
-you, running by the poolside is okay.");
+The private hot-spring feeling makes
+running by the poolside worth it.");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, do you like jacuzzi baths that
 much?)");
         break ;

@@ -11,9 +11,8 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20401_06_000");
-MsgDisp("Himuro","Even though this Forest Park is vast, this is
-the only place with fireflies...how
-mysterious.");
+MsgDisp("Himuro","The Forest Park is so vast, yet this is the
+only spot with fireflies... how strange.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

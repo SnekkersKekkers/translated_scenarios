@@ -85,8 +85,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B330B10400_04_040");
-MsgDisp("Nanatsumori","Your guys' idea of \"the worst\" and my idea of
-\"the worst\" are on a different level.");
+MsgDisp("Nanatsumori","Your idea of \"at most\" and my idea of \"at
+most\" are on totally different levels.");
 MsgDisp("主人公","Hehe!");
 ChEye(1,3);
 ChMouth(1,2);

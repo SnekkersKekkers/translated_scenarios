@@ -17,8 +17,7 @@ ChMouth(6,3);
 VoicePlay("B330C30700_06_000");
 MsgDisp("Himuro","As I thought, the face of this zoo is the
 elephant, Konami.");
-MsgDisp("主人公","You've been to this place for a long time
-huh?");
+MsgDisp("主人公","She's been here a long time, huh?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
@@ -95,7 +94,7 @@ ChMotion(7,2);
 VoicePlay("B330C30700_07_030");
 MsgDisp("Mikage","Now that we've come this far, let's color it
 and finish it off on our own.
-Today's sketching contest ends here.");
+Today's sketching session ends here.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0,1);

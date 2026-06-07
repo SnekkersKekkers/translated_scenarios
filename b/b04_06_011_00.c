@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040601100_06_010");
-    MsgDisp("Himuro","Hmm, that outlook isn't bad.
-It's definitely beautiful.");
+    MsgDisp("Himuro","Hmm, you've got a good eye.
+It really is beautiful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

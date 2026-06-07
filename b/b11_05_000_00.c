@@ -16,8 +16,8 @@ See what...?");
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110500000_33_010");
-MsgDisp("Guy","It's alright, you look like the seeing type.
-C'mon, come with me.");
+MsgDisp("Guy","It's alright, you've got the gift of sight.
+Come on, come with me.");
 ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);

@@ -8,8 +8,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B040724202_07_000");
 MsgDisp("Mikage","When you go camping together, you can see a
-side of the other person that is usually
-hidden");
+side of the other person that's usually
+hidden.");
 MsgSel("It's perfect for marriage interviews","｛Mikage＊＊｝'s hidden side?","It's a little scary...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -44,8 +44,8 @@ would be like to live together.");
         VoicePlay("B040724202_07_030");
         MsgDisp("Mikage","But what I'm talking about, is more like
 seeing the other person's vitality.");
-        MsgDisp("主人公","｛Mikage＊＊｝'s vitality is so strong, you
-can see it even on the regular?");
+        MsgDisp("主人公","｛Mikage＊＊｝, your vitality's so strong I can
+see it even on a normal day, you know?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -80,8 +80,8 @@ I burnt the camping pot.");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040724202_07_060");
-        MsgDisp("Mikage","That's right.
-But, well, it was delicious?
+        MsgDisp("Mikage","Yeah.
+But, well, it still tasted good, right?
 I had fun.");
         MsgDisp("主人公","Umm...yes.");
         ChEye(7,0);

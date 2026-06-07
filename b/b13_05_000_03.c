@@ -14,4 +14,4 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B130500003_05_010");
 MsgDisp("Hiiragi","Place your hands on your knees.
 Understood?
-Otherwise, it'll be lifted by the wind.");
+Otherwise, the wind will lift it up.");

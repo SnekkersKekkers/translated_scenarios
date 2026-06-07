@@ -6,7 +6,7 @@ ChMotion(6,0);
 VoicePlay("B070600002_06_230");
 MsgDisp("Himuro","Rather than talking....
 I feel like I'm always warning them.");
-MsgDisp("主人公","Careful??");
+MsgDisp("主人公","Warning them?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -67,8 +67,7 @@ It seems a bit too late for us.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040509002_05_050");
-        MsgDisp("Hiiragi","I'm sorry for getting you excited for
-nothing.");
+        MsgDisp("Hiiragi","Sorry for getting your hopes up.");
         MsgDisp("主人公","No.
 It is unfortunate though...");
         ChEye(5,3);

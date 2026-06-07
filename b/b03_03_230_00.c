@@ -5,7 +5,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030323000_03_000");
-MsgDisp("Honda","So, which ride's your favorite?");
+MsgDisp("Honda","So, which one's your favorite?");
 MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try Bungee Jumping!","I want to ride the Tea Cups.");
 switch (MsgSelRsltGet()){
     case 0:

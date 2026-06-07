@@ -65,7 +65,7 @@ ChMotion(5,0);
 VoicePlay("B330C20100_05_020");
 MsgDisp("Hiiragi","As for you, you are a bioluminescent
 creature.
-Lovely to the point it catches the eye.");
+So lovely it draws every eye.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -76,8 +76,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20100_06_020");
-MsgDisp("Himuro","But if you stupidly get too close, you'll get
-eaten.");
+MsgDisp("Himuro","But get careless and wander too close, and
+you'll get eaten.");
 MsgDisp("主人公","Ehh?");
 ChEye(7,0);
 ChMouth(7,0);

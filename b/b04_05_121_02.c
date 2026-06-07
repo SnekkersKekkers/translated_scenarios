@@ -51,8 +51,8 @@ for a long time.");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040512102_05_040");
-        MsgDisp("Hiiragi","Yes...well, in elementary school I was drawn
-in an amusing, exaggerated manner.
+        MsgDisp("Hiiragi","Yes...well, back in elementary school someone drew me
+as a funny, exaggerated caricature.
 I also somehow looked like a fox.");
         MsgDisp("主人公","Fox...");
         ChEye(5,0);
@@ -72,8 +72,8 @@ I'm sorry.");
         ChMotion(5,4);
         VoicePlay("B040512102_05_070");
         MsgDisp("Hiiragi","It's nothing now but at that time it was such
-a shock that I tried to pull my eyes so that
-they would be more droopy.");
+a shock that I'd tug at my eyes with my
+fingers to make them droopier.");
         MsgDisp("主人公","Hehe, that's kind of cute?");
         ChEye(5,2);
         ChMotion(5,0);

@@ -23,7 +23,7 @@ different person...");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040604500_06_010");
-    MsgDisp("Himuro","...You perceived it in a different way huh.");
+    MsgDisp("Himuro","...So you took it a different way, huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

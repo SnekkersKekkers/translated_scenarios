@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("B040801100_08_010");
-    MsgDisp("Shirahane","Aah...it's true.
-It looks so vast from up high...
+    MsgDisp("Shirahane","Aah...you're right.
+It looks like it stretches on forever from up here...
 It's beautiful!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

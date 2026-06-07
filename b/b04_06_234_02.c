@@ -26,9 +26,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040623402_06_020");
-    MsgDisp("Himuro","...Fair enough.
-Well, we're us and it's enough to be just
-that unashamedly.");
+    MsgDisp("Himuro","...Fair point.
+Well, we're us, so we can just hold our heads
+high and own it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

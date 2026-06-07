@@ -95,8 +95,8 @@ Wait(60);
 MsgClose();
 ChOpen(6,253,2,2,0,0,#1,0,0);
 VoicePlay("B110600000_06_060");
-MsgDisp("Himuro","Haa...if he's running away, he must know he's
-being a nuisance.");
+MsgDisp("Himuro","Haa...if he's running away, he knows full well
+he's been harassing you.");
 MsgDisp("主人公","｛Himuro＊＊｝, thank you.");
 ChEye(6,0);
 ChMouth(6,0);

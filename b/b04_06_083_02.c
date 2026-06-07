@@ -5,8 +5,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608302_06_000");
-MsgDisp("Himuro","Hasn't it been intensely, continuously hot
-here?");
+MsgDisp("Himuro","It's just been brutally hot lately, hasn't it?");
 MsgSel("I wonder if it's the effects of global warming?","Yeah, it's pretty harsh...","I'm alright even if it's hot!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("B040608302_06_010");
-    MsgDisp("Himuro","The definition of global warming is vague
-but, this climate is subtropical.
+    MsgDisp("Himuro","The definition of global warming is vague,
+but this climate is straight-up subtropical.
 Maybe the climate is changing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

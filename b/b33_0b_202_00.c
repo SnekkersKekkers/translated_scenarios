@@ -24,9 +24,9 @@ ChNanaType(0);
 ChOpen(4,253,0,0,0,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330B20200_03_000");
-MsgDisp("Honda","It's moving no matter how many times you
-watch it... The constellations, the myths;
-the life of the stars.");
+MsgDisp("Honda","It's moving no matter how many times I see
+it... The constellations, the myths, the life
+of the stars.");
 ChEyeOpenLevel(3,#1);
 MsgDisp("主人公","Yeah.
 There are many kinds of myths, but they're
@@ -85,7 +85,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20200_03_040");
-MsgDisp("Honda","No matter how he acted, when he came to like
+MsgDisp("Honda","No matter how he behaved, whenever he fell for
 a woman, a romance was born.");
 ChEye(1,0);
 ChMouth(1,0);

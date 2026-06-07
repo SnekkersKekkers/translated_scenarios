@@ -26,7 +26,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_500");
 MsgDisp("Himuro","So?
-How can we fix this?");
+What'll make it go away?");
 MsgDisp("主人公","Ummm, if we stay like this for a while, I
 think I'll calm down.");
 ChEye(6,0);
@@ -49,7 +49,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600001_06_540");
-MsgDisp("Himuro","I think it's spread to me.");
+MsgDisp("Himuro","I think I caught it from you.");
 MsgDisp("主人公","(｛Himuro＊＊｝'s face is also red...
 What happened to us?)");
 BGMStop();

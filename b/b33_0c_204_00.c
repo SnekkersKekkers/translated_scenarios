@@ -11,7 +11,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20400_06_000");
-MsgDisp("Himuro","I've been coming to this forest park since I
+MsgDisp("Himuro","I've been coming to this Forest Park since I
 was young.");
 MsgDisp("主人公","Yeah.
 I came here a lot on elementary school trips.");
@@ -148,8 +148,8 @@ SEPlay("EV_SE_626");
 ChClose(6);
 ChMotion(5,0);
 VoicePlay("B330C20400_06_070");
-MsgDisp("Himuro","Let's go on the rowboat instead of the
-swanboat.");
+MsgDisp("Himuro","Let's take the rowboat instead of the swan
+boat.");
 MsgDisp("主人公","(Hehe!
 I wonder if ｛Himuro＊＊｝ was embarrassed about
 the swan boat?)");

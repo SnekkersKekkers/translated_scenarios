@@ -25,7 +25,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B150400500_04_040");
-MsgDisp("Nanatsumori","Do you remember this retaliation?");
+MsgDisp("Nanatsumori","Do you remember that payback from the other day?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChClose(4,0,30);

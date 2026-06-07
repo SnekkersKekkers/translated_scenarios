@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,1);
     VoicePlay("B040724200_07_010");
     MsgDisp("Mikage","That's right.
-Everyone makes it, everyone eats it.
-It can't be bad.");
+Everyone makes it together, everyone eats it together.
+No way it tastes bad.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -32,9 +32,9 @@ It can't be bad.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040724200_07_020");
-    MsgDisp("Mikage","Those vegetables were all beauties grown at
+    MsgDisp("Mikage","Those veggies are all prize specimens grown by
 the gardening club.
-Please prepare them deliciously.");
+Make somethin' tasty out of 'em, yeah?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

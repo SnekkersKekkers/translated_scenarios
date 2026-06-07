@@ -31,8 +31,8 @@ VoicePlay("B330B30500_01_010");
 MsgDisp("Kazama","Was it that impressive?");
 ChMotion(4,0,1);
 VoicePlay("B330B30500_04_000");
-MsgDisp("Nanatsumori","Ah...this is a nice feeling.
-I like this reverberation.");
+MsgDisp("Nanatsumori","Ah...this feels great.
+I love this afterglow.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -57,8 +57,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30500_04_020");
 MsgDisp("Nanatsumori","I don't know the bands, but when you hear
-them live at a livehouse, don't they all feel
-cool?");
+them live at a Live House, don't they all
+feel cool?");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

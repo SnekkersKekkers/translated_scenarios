@@ -3,7 +3,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B070500000_05_010");
 MsgDisp("Hiiragi","I didn't watch much television as a kid.");
-MsgDisp("主人公","Ah, so that's how it is.");
+MsgDisp("主人公","Ah, I see.");
 ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("B070500000_05_020");

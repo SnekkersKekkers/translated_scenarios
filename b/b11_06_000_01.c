@@ -16,8 +16,8 @@ I'm supposed to be meeting with someone...");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110600001_34_010");
-MsgDisp("Guy","This time will be slower.
-Your friend may also take a while to load...");
+MsgDisp("Guy","The connection slows down this time of day.
+Your friend's probably still loading too...");
 MsgDisp("主人公","...Yes?");
 ChEye(34,0);
 ChMouth(34,0);

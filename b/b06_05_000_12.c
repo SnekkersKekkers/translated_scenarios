@@ -28,8 +28,8 @@ Let's go home together, I'll take you.");
     ChMouth(5,3);
     ChMotion(5,3,1);
     VoicePlay("B060500012_05_020");
-    MsgDisp("Hiiragi","I'll take you back home.
-Shall we talk some more?");
+    MsgDisp("Hiiragi","I'll walk you home.
+That way we can keep talking, right?");
     MsgDispSksp(0);
     break ;
     default :

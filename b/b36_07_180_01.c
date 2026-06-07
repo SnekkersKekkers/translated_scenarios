@@ -46,8 +46,8 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("B360718001_07_050");
 MsgDisp("Mikage","Yeah.
-It's hard to keep a balance between study and
-play.");
+Trying to perfectly balance study and play
+just isn't realistic.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

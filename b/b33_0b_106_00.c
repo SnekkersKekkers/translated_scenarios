@@ -35,14 +35,14 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B10600_04_010");
-MsgDisp("Nanatsumori","Then, I'll be a stand in.");
+MsgDisp("Nanatsumori","Then, I'll be your stand-in.");
 ChEye(1,2);
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B330B10600_03_010");
-MsgDisp("Honda","Me too.
-Let's have it so we're Ryo-kun's lovers.");
+MsgDisp("Honda","Me too!
+Let's pretend we're Ryo-kun's lovers.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

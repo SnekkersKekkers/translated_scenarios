@@ -36,8 +36,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10401_01_010");
-MsgDisp("Kazama","Inori is the type to have lots of hidden
-voices.");
+MsgDisp("Kazama","Inori's the type with a lot going on under the
+surface.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -50,8 +50,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A10401_02_010");
 MsgDisp("Sassa","Well, yeah.
-But he's also the type to normally let out
-his hidden voices.");
+But he's also the type to just blurt out what's
+really on his mind.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

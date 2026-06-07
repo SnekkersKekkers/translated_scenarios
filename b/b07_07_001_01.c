@@ -31,7 +31,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_050");
-MsgDisp("Mikage","He's seriously earnest to the core.
+MsgDisp("Mikage","He's dead serious, through and through.
 Just like you. You two are a good match, and
 I'm sure you'd understand each other.");
 MsgDisp("主人公","｛Mikage＊＊｝...");

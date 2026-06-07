@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     ChCheek(5,10);
     VoicePlay("B180500000_05_030");
-    MsgDisp("Hiiragi","Today is a day to commemorate.");
+    MsgDisp("Hiiragi","Today's a day to remember.");
     MsgDisp("主人公","(I'm somewhat flustered...)");
     break ;
     case 1:
@@ -34,7 +34,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,2);
     ChCheek(5,0);
     VoicePlay("B180500000_05_040");
-    MsgDisp("Hiiragi","I was rather tense.
+    MsgDisp("Hiiragi","I was a bit too tense there.
 It would be nice if I could say it more
 naturally next time.");
     MsgDisp("主人公","(I wonder if I made him feel bad...)");

@@ -38,8 +38,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B330B30501_03_010");
 MsgDisp("Honda","Right.
-Are there live performances where they only
-sing along to their own instruments?");
+So there are gigs that are just solo
+singer-songwriters?");
 ChMouth(1,3);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Both the male and female singer had wonderful

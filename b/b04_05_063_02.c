@@ -21,9 +21,9 @@ switch (MsgSelRsltGet()){
         ChMotion(5,4);
         ChEyeOpenLevel(5,9);
         VoicePlay("B040506302_05_010");
-        MsgDisp("Hiiragi","As you thought huh...
-So you're a summer sea person.
-It's different to me.");
+        MsgDisp("Hiiragi","So you knew...
+You're a summer-sea person, then.
+Not like me.");
         MsgDateResultDisp();
         break ;
         case 4:

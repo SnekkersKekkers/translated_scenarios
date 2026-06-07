@@ -74,7 +74,7 @@ elementary school student.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040510102_05_070");
-        MsgDisp("Hiiragi","Is that what you're caught up about?");
+        MsgDisp("Hiiragi","Is that what you're hung up on?");
         MsgDisp("主人公","Hehe, sorry.");
         ChEye(5,4);
         ChMouth(5,4);

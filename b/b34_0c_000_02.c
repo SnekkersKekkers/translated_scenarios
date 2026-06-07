@@ -44,7 +44,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
 VoicePlay("B340C00002_06_030");
-MsgDisp("Himuro","Relatively so.");
+MsgDisp("Himuro","More or less.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

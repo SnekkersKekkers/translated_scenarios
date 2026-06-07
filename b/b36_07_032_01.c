@@ -18,8 +18,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B360703201_07_010");
 MsgDisp("Mikage","Actually, I couldn't sleep last night.
-I was like an elementary student before a
-field trip.");
+Like a little kid the night before a field
+trip.");
 MsgDisp("主人公","Ehh∋
 Is that so?");
 ChEye(7,0);

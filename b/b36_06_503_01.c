@@ -23,7 +23,7 @@ VoicePlay("B360650301_06_010");
 MsgDisp("Himuro","My shoulders are so stiff.
 ...Why did I decide to hang out with those
 guys?");
-MsgDisp("主人公","You didn't enjoy?");
+MsgDisp("主人公","You didn't enjoy it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

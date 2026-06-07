@@ -17,9 +17,8 @@ MsgDisp("Hiiragi","Yes.
 For some reason when Inori-kun is around, the
 conversation becomes more lively.");
 VoicePlay("B070500001_05_040");
-MsgDisp("Hiiragi","The topics Inori-kun brings up purposefully
-resonates with someone and makes them
-passionate.");
+MsgDisp("Hiiragi","The topics Inori-kun brings up purposely
+resonate with someone and fire them up.");
 MsgDisp("主人公","Now that you mention it...");
 ChEye(5,0);
 VoicePlay("B070500001_05_050");

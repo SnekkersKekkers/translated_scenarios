@@ -6,8 +6,8 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521202_05_000");
-MsgDisp("Hiiragi","I wonder if Habataki Theater Company would be
-happy if we could set up a store like this");
+MsgDisp("Hiiragi","I wonder if the Habataki Theater Company
+would be happy with a shop like this.");
 MsgSel("Habataki Theater Manju would be perfect!","You should sell those fox plushies.","I want a Yanosuke t-shirt.");
 switch (MsgSelRsltGet()){
     case 0:

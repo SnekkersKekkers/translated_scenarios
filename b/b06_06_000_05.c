@@ -6,7 +6,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 ScrFadeIn(0);
 VoicePlay("B060600005_06_000");
-MsgDisp("Himuro","Not to bring it up now, but we came here last
+MsgDisp("Himuro","Bit late to mention it, but we came here last
 time too.");
 MsgDispSksp(1,#1);
 MsgDisp("主人公","(Ah!

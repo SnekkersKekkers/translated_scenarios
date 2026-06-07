@@ -32,7 +32,7 @@ many.");
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040609002_06_020");
-        MsgDisp("Himuro","What gives you the right to say that?");
+        MsgDisp("Himuro","And who are you to say that?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -49,8 +49,8 @@ plants?");
         ChMotion(6,0);
         VoicePlay("B040609002_06_040");
         MsgDisp("Himuro","But I'm starting to understand. When you
-experience things in person, you really do
-become interested. It's just like that.");
+experience something firsthand, it can really
+spark your interest. That's exactly it.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

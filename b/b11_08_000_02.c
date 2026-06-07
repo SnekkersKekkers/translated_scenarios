@@ -44,7 +44,7 @@ MsgDisp("Shirahane","It's no good, I don't understand.
 Can you translate?");
 MsgDispSksp(0);
 MsgDisp("主人公","Ah...sorry.
-I wasn't really listenin\" to him either.");
+I wasn't really listening to him either.");
 MsgDispSksp(1,5);
 ChEye(8,3);
 ChMouth(8,3);
@@ -78,5 +78,5 @@ ChEye(8,3);
 ChMouth(8,3);
 ChPosition(8,0);
 VoicePlay("B110800002_08_040");
-MsgDisp("Shirahane","Oh, I understood that!
-But we don't need ta meet again!—");
+MsgDisp("Shirahane","Oh, I understood that one!
+But we don't need ta meet again!");

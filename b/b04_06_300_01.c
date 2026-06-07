@@ -43,7 +43,7 @@ Could it be that you like it too?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040630001_06_030");
-    MsgDisp("Himuro","That's quite a troublesome answer.
+    MsgDisp("Himuro","That's a surprisingly tricky answer.
 Then, I'll make you coffee.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);

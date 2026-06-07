@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040519100_05_000");
-    MsgDisp("Hiiragi","It's astonishing to know that it's real
+    MsgDisp("Hiiragi","It's astonishing once you realize it's real
 footage.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

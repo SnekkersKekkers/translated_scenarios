@@ -12,7 +12,8 @@ SEStop("EV_SE_579",0);
 MsgDisp("主人公","Hello.");
 VoicePlay("B100600000_06_000");
 MsgDisp("Himuro","It's me.
-Today was a bit, you know.");
+About today... there's something I wanted to
+say.");
 MsgDisp("主人公","Um...
 I—");
 VoicePlay("B100600000_06_010");

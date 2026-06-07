@@ -8,7 +8,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B040511000_05_000");
-MsgDisp("Hiiragi","I'm not great with exercise, but I like
+MsgDisp("Hiiragi","I'm not great at sports, but I do like
 swimming.
 What about you?");
 MsgSel("Call me the mermaid of Habataki City!","I was hoping you could teach me how to swim...","Can I bring a float?");

@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
     NSSEye(6,0);
     NSSMouth(6,5);
     VoicePlay("B160600200_06_010");
-    MsgDisp("Himuro","I'm not particularly angry.");
+    MsgDisp("Himuro","It's not like I'm mad or anything.");
     break ;
     case 1:
     NSSEye(6,4);

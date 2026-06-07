@@ -13,7 +13,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040723601_07_000");
-MsgDisp("Mikage","I saw Habataki Land Town's true potential.");
+MsgDisp("Mikage","Habataki Land really brought its A-game.");
 MsgSel("It's gorgeous, isn't it?","Their dance is amazing!!","The atmosphere at night is also wonderful!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,8 +47,8 @@ They look like professional dancers.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040723601_07_030");
-    MsgDisp("Mikage","Yeah, the night aspect is a big factor.
-It's unconditionally exciting.");
+    MsgDisp("Mikage","Yeah, the nighttime makes a huge difference.
+It gets you pumped no matter what.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

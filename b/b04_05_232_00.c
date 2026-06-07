@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(5,255,4,4,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523200_05_000");
-MsgDisp("Hiiragi","It had already ended when I realized...");
+MsgDisp("Hiiragi","Before I knew it, it was already over...");
 MsgSel("I was able to enjoy a beautiful view♪","It feels so nice I feel sleepy...","It was just tall, cramped and scary...");
 switch (MsgSelRsltGet()){
     case 0:

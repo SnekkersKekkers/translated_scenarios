@@ -12,7 +12,7 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B150400100_04_010");
 MsgDisp("Nanatsumori","I warned you before!
-Yes, wait.");
+Go on, say it.");
 MsgDisp("主人公","Umm, that I can't randomly touch people...?");
 ChEye(4,0);
 ChMouth(4,1);

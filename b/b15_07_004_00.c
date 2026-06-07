@@ -22,9 +22,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B150700400_07_030");
-MsgDisp("Mikage","Hey, you said you were caught in a trance,
-unaware. Once the waves are in motion, you
-won't be able to stop it, you know?");
+MsgDisp("Mikage","Hey, you said you got carried away, didn't
+even notice. But once the fire starts, you
+can't stop it's spread, you know?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

@@ -36,8 +36,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B140600100_06_040");
-MsgDisp("Himuro","You can't spend each continuous day with a
-person you don't trust.");
+MsgDisp("Himuro","You don't spend days on end with someone you don't trust.");
 MsgDisp("主人公","Ah...
 I see! We were together yesterday as well for
 the school Christmas Party!");

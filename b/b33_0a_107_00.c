@@ -31,8 +31,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A10700_06_000");
 MsgDisp("Himuro","Ehhh....
-That's an anecdote unique to the Kazama
-family.");
+That's such a Kazama-family story.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -48,14 +47,14 @@ MsgDisp("Kazama","No, I got scolded badly.
 I was about 3 years old but, I vaguely
 remember being yelled at.");
 MsgDisp("主人公","Hehe!
-So you had a good discerning eye since you
+So you've had a good eye since you
 were little?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10700_01_030");
 MsgDisp("Kazama","Apparently so.
-Of all things, I decided to play with this.
+They couldn't believe I'd play with this of all things.
 It's become a funny topic now though.");
 ChEye(6,0);
 ChMouth(6,0);

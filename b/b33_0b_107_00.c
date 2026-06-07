@@ -21,7 +21,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B10700_03_000");
-MsgDisp("Honda","Mi-kun, you look discontent.");
+MsgDisp("Honda","Mi-kun, you look grumpy.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -71,9 +71,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B330B10700_03_020");
-MsgDisp("Honda","Oh that! The folding screen that was directly
-bestowed to a Kazama family ancestor by the
-Lord of Habataki Castle.");
+MsgDisp("Honda","Oh, that! The folding screen the Lord of
+Habataki Castle personally granted to a Kazama
+family ancestor.");
 MsgDisp("主人公","Even though it's so old, it's beautiful even
 now.");
 ChEye(3,0);

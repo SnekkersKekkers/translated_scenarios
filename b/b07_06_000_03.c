@@ -9,7 +9,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_160");
-MsgDisp("Himuro","Well, if I did.
+MsgDisp("Himuro","Well, if it did.
 I'm not bad at sports.");
 MsgDisp("主人公","Yeah, I knew that?");
 ChEye(6,0);

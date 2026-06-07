@@ -22,7 +22,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A20501_01_000");
-MsgDisp("Kazama","They say the chances for a spare is less than
+MsgDisp("Kazama","They say the odds of a spare are less than
 1 percent.");
 VoicePlay("B330A20501_02_010");
 MsgDisp("Sassa","My 3rd throw in the 10th frame.
@@ -66,7 +66,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A20501_02_040");
-MsgDisp("Sassa","It hit the side of the 7th pin nicely!");
+MsgDisp("Sassa","It clipped the 7-pin right in the side!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

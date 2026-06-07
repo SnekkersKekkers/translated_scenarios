@@ -34,7 +34,7 @@ difficult, isn't it?");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040718500_07_030");
-    MsgDisp("Mikage","Whereabouts unknown.");
+    MsgDisp("Mikage","Long gone, who knows where.");
     MsgDateResultDisp();
     break ;
     default :

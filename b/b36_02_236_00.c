@@ -24,7 +24,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B360223600_02_010");
-MsgDisp("Sassa","And the night pass to Habataki Land Town is a
+MsgDisp("Sassa","And the night pass to Habataki Land is a
 good deal, isn't it?");
 MsgDisp("主人公","Hehe, yeah.
 Today was a full course, wasn't it?");

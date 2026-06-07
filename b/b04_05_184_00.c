@@ -32,9 +32,9 @@ As for my rating, I thought it was wonderful.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040518400_05_020");
-    MsgDisp("Hiiragi","Differences in interpretation, differences in
-explanation. I'd like to know why the ratings
-are so different.");
+    MsgDisp("Hiiragi","Is it a difference in opinion or in
+interpretation? I'd love to know why our
+ratings ended up complete opposites.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

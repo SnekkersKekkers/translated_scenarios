@@ -174,7 +174,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10500_07_070");
-MsgDisp("Mikage","We also want you to fuss over us.
+MsgDisp("Mikage","We just wanted you to fuss over us too.
 Right, Yanosuke?");
 ChEye(5,3);
 ChMouth(5,4);
@@ -187,8 +187,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10500_05_090");
-MsgDisp("Hiiragi","Today was a first-prize kind of day right
-until the end.");
+MsgDisp("Hiiragi","Today was a first-prize kind of day right to
+the very end.");
 MsgDisp("主人公","(Hehe, I'm glad.
 Seeing ｛Hiiragi＊＊＊｝ enjoy himself makes me
 super happy!)");

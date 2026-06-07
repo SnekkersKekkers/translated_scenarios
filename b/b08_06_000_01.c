@@ -13,8 +13,7 @@ ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B080600001_06_000");
 MsgDisp("Himuro","It's nothing.
-I can't make you walk home alone at this
-time.");
+I couldn't let you walk home alone this late.");
 SEPlay("EV_SE_579");
 Wait(60,1);
 ChEye(6,0);

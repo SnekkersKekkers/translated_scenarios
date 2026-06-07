@@ -65,8 +65,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C10400_06_030");
 MsgDisp("Himuro","Right.
-But, it doesn't feel like a place you can go
-with four people.");
+But it doesn't really feel like a place for
+all four of us to come to.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -78,8 +78,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C10400_07_030");
-MsgDisp("Mikage","｛主人公｝, it seems like everyone wants to
-come with you on a summer night?");
+MsgDisp("Mikage","｛主人公｝, it seems like everyone wants to come here
+alone with you on a summer night.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

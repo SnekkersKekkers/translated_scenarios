@@ -8,9 +8,9 @@ ScrFadeIn(0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("B040521200_05_000");
-MsgDisp("Hiiragi","They have a full range of original goods.
+MsgDisp("Hiiragi","They've got a full lineup of original goods.
 They have strong business acumen.
-I must learn from their example.");
+I ought to learn from them.");
 MsgSel("They have animal cookies!","They have a bunny ears headband.","Eagle eye sunglasses?");
 switch (MsgSelRsltGet()){
     case 0:

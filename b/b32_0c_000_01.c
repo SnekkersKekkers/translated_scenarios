@@ -8,7 +8,7 @@ VoicePlay("B320C00001_06_000");
 MsgDisp("Himuro","Just as I thought, you're last to arrive.");
 ChMotion(5,4);
 VoicePlay("B320C00001_05_000");
-MsgDisp("Hiiragi","Inori was right about you I suppose.");
+MsgDisp("Hiiragi","Looks like Inori called it.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

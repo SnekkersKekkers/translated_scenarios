@@ -57,8 +57,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30700_01_020");
 MsgDisp("Kazama","Yeah, of course.
-It's fine.
-The one who's scared is her.");
+I'm fine.
+She's the one who's scared.");
 MsgDisp("主人公","Maybe I should sit this one out after all...?");
 ChEye(1,2);
 ChMouth(1,3);

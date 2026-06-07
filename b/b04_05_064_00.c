@@ -6,9 +6,9 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040506400_05_000");
-MsgDisp("Hiiragi","Different aromas and sounds overflow from the
-cluttered food stalls and mix together.
-I love this atmosphere.");
+MsgDisp("Hiiragi","All kinds of smells and sounds spill out of
+the jumble of food stalls and blend together.
+I love this kind of atmosphere.");
 MsgDisp("主人公","It's exciting, isn't it?");
 ChEye(5,4);
 ChMotion(5,2);

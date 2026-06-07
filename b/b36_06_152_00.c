@@ -50,7 +50,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360615200_06_060");
 MsgDisp("Himuro","I was worried that once it was just the two
-of us, you wouldn't enjoy as much.");
+of us, you wouldn't enjoy it as much.");
 MsgDisp("主人公","That's not the case...");
 ChEye(6,0);
 ChMouth(6,4);
@@ -67,7 +67,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B360615200_06_090");
-MsgDisp("Himuro","I'll get it right in the middle, watch
+MsgDisp("Himuro","I'll sink one right in the center, so watch
 closely.");
 MsgDisp("主人公","Hehe, yeah...!");
 BGMStop();

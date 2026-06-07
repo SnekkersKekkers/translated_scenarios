@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040630002_06_010");
-    MsgDisp("Himuro","What are you going to do by looking at it?
+    MsgDisp("Himuro","What do you want to look at them for?
 ...Well, it's fine.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);

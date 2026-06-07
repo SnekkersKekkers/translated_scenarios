@@ -125,7 +125,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B10401_04_040");
-MsgDisp("Nanatsumori","Isn't that good, Kazama.
+MsgDisp("Nanatsumori","Good for you, Kazama.
 You've cleared your name.");
 ChEye(1,0);
 ChMouth(1,1);
@@ -139,8 +139,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B10401_03_040");
-MsgDisp("Honda","And if you didn't hear it...then was it your
-inner voice?");
+MsgDisp("Honda","And the voice you can't hear...does that mean
+it's your inner voice?");
 ChEye(1,0);
 ChMouth(1,2);
 MsgDisp("主人公","Ehhh∈");

@@ -26,8 +26,8 @@ on the stage wings.");
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040508200_05_020");
-    MsgDisp("Hiiragi","In the grass or in the soil?
-Let's take a look.");
+    MsgDisp("Hiiragi","In the grass, or in the soil?
+Let's go take a look.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

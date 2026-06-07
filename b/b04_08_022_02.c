@@ -59,7 +59,7 @@ I'll end up being good at it?");
         ChCheek(8,7);
         VoicePlay("B040802202_08_050");
         MsgDisp("Shirahane","Hehe.
-Anything is possible right?");
+It's nothin', forget it.");
         ChEye(8,4);
         ChMouth(8,4);
         ChMotion(8,0,1);

@@ -30,8 +30,8 @@ you that.");
         ChMotion(6,4);
         ChEyeOpenLevel(6,7);
         VoicePlay("B040620000_06_020");
-        MsgDisp("Himuro","...What you're saying doesn't match up with
-your abilities.");
+        MsgDisp("Himuro","...What you're saying doesn't match what
+you're actually doing, you know?");
         MsgDateResultDisp();
         }
     break ;

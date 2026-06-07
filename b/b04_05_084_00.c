@@ -5,9 +5,9 @@ ChMotion(5,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040508400_05_000");
-MsgDisp("Hiiragi","Maybe it's because of the water
-temperature... The autumn colors here are a
-bit off from other places.");
+MsgDisp("Hiiragi","Maybe it's the water temperature... The autumn
+colors here come a little later than
+elsewhere.");
 MsgSel("It's thanks to the spring water.","Slightly off?","The fallen leaves floating on the water are beautiful.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040508400_05_010");
     MsgDisp("Hiiragi","That's right.
-As the spring water's temperature is stable.");
+The spring water stays at a steady
+temperature, after all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

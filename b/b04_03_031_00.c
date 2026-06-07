@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040303100_03_010");
     MsgDisp("Honda","It's a seahorse!
-Yep yep, that little guy's a splendid fish
-too.");
+Yep yep, that little guy's a splendid fish,
+you know.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

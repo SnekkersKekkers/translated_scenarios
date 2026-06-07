@@ -52,8 +52,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B360603100_06_070");
-MsgDisp("Himuro","Please stay with me until I think of
-something to talk about.");
+MsgDisp("Himuro","Stick with me till I think of something to
+talk about.");
 MsgDisp("主人公","Yeah, I will.");
 ChEye(6,0);
 ChMouth(6,3);

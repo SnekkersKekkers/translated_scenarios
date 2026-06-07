@@ -29,8 +29,7 @@ But, are you even listening to me?");
     ChMotion(6,4);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040622101_06_020");
-    MsgDisp("Himuro","Don't lump me in with everyone else on your
-own.");
+    MsgDisp("Himuro","Don't just lump me in with everyone else.");
     MsgDateResultDisp();
     break ;
     case 2:

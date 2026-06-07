@@ -18,7 +18,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500002_35_020");
-MsgDisp("Guy","Wow, are you part of Habataki Theater Troupe
+MsgDisp("Guy","Wow, are you part of Habataki Theater Company
 too?
 Why don't you stop that work and come to us?");
 MsgDisp("主人公","Ehh?");
@@ -48,8 +48,8 @@ MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("B110500002_05_010");
-MsgDisp("Hiiragi","I am the chairman of Habataki Theater Troupe.
-I am Hiiragi Yanosuke.");
+MsgDisp("Hiiragi","I am the chairman of the Habataki Theater
+Company. I am Hiiragi Yanosuke.");
 MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);

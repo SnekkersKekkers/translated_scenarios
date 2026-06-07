@@ -18,9 +18,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B150700100_07_020");
-MsgDisp("Mikage","Skinship only works with the other person
-involved, you know?
-Are you alright with me as your partner?");
+MsgDisp("Mikage","Skinship takes two, you know?
+You sure you're fine with me as your partner?");
 MsgDisp("主人公","Yes, of course.");
 ChEye(7,2);
 ChMouth(7,0);

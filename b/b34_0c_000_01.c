@@ -19,7 +19,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B340C00001_05_000");
-MsgDisp("Hiiragi","Yes, thank you for inviting us, Inori kun.");
+MsgDisp("Hiiragi","Yes, thank you for inviting us, Inori-kun.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

@@ -26,8 +26,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B330B20300_04_010");
-MsgDisp("Nanatsumori","I came across something that looks like an
-insect...");
+MsgDisp("Nanatsumori","Something that looked like a bug just darted
+past in front of me...");
 ChEye(1,2);
 ChMotion(1,0);
 ChEye(3,0);
@@ -80,8 +80,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20300_03_020");
 MsgDisp("Honda","That flower is a Sarracenia.
-It may look like that, but it's a carnivorous
-plant. It digests in its leaves.");
+It may not look it, but it's a carnivorous
+plant. It digests prey inside its leaves.");
 ChEye(1,2);
 ChMouth(1,2);
 ChEye(4,2);

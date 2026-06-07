@@ -153,7 +153,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10801_06_070");
-MsgDisp("Himuro","I thought her and Ryota-senpai would just
+MsgDisp("Himuro","I thought she and Ryota-senpai would just
 vanish, so I hurried.");
 ChEye(2,1);
 ChMouth(2,0);

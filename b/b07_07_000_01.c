@@ -25,9 +25,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700000_07_040");
-MsgDisp("Mikage","No, I like the TV at home.
-The vines from the houseplants twist around
-quite nicely around it.");
+MsgDisp("Mikage","No, I like the TV at home. The houseplant vines have wound around it pretty nicely.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

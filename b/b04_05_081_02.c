@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B040508102_05_000");
-MsgDisp("Hiiragi","No matter how many times I see it, it's
-unchangingly beautiful.");
+MsgDisp("Hiiragi","No matter how many times I see it, its beauty
+never changes.");
 MsgSel("I want to come again and again.","Umm...thank you.","Quite a lot has fallen huh?");
 switch (MsgSelRsltGet()){
     case 0:

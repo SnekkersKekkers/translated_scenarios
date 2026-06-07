@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040510500_05_010");
-    MsgDisp("Hiiragi","Sorry, I was pressuring you weirdly.");
+    MsgDisp("Hiiragi","Sorry, I put some strange pressure on you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

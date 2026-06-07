@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,1);
     VoicePlay("B040722202_07_010");
     MsgDisp("Mikage","That's it.
-You wouldn't know unless you saw it for
-yourself in person.");
+You'd never know unless you saw it in person.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -84,7 +83,7 @@ practically my treat.");
         VoicePlay("B040722202_07_070");
         MsgDisp("Mikage","Alright, alright.
 Just be grateful for today.");
-        MsgDisp("主人公","That's pretty short-lived isn't it?");
+        MsgDisp("主人公","That didn't last long, did it?");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,2);

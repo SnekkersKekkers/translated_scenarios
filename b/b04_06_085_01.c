@@ -25,7 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040608501_06_020");
-    MsgDisp("Himuro","What's with that idealism?");
+    MsgDisp("Himuro","What's with the wishful thinking?");
     MsgDateResultDisp();
     break ;
     case 2:

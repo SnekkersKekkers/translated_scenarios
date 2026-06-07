@@ -5,7 +5,7 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040524201_05_000");
-MsgDisp("Hiiragi","How about swaying in a hammock?");
+MsgDisp("Hiiragi","How about lazing in a hammock?");
 MsgSel("Are you already tired?","Like napping in the shade?","I'm afraid of falling off!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
         ChMotion(5,4);
         VoicePlay("B040524201_05_010");
         MsgDisp("Hiiragi","No.
-I think a hammock in the middle of nature
-will feel good.");
+I just think a hammock out in nature
+would feel nice.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -42,8 +42,8 @@ Are you alright?");
         ChMotion(5,0);
         VoicePlay("B040524201_05_040");
         MsgDisp("Hiiragi","Yes, it's nothing to worry about.
-But, I wanted to be completely honest with
-you. That's how I feel.");
+But I want to be completely honest with you.
+That's just how I feel.");
         ChEye(5,2);
         VoicePlay("B040524201_05_050");
         MsgDisp("Hiiragi","Am I troubling you?");

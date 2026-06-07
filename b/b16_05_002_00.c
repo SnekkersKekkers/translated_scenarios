@@ -3,8 +3,8 @@ NSSOpen(5,255,0,4,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160500200_05_000");
-MsgDisp("Hiiragi","Before I noticed it, you were there,
-continuously by my side.");
+MsgDisp("Hiiragi","Before I knew it, you're were right there,
+always by my side.");
 MsgSel("Is that so?","It's only for ｛Hiiragi＊＊＊｝, though?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     NSSMouth(5,4);
     VoicePlay("B160500200_05_010");
     MsgDisp("Hiiragi","Yes.
-And it was so naturally too.");
+And so naturally, too.");
     break ;
     case 1:
     NSSEye(5,3);

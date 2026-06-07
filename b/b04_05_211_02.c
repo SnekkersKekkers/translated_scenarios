@@ -65,8 +65,8 @@ came to check how they were doing.");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040521102_05_060");
-        MsgDisp("Hiiragi","How's that for a reasoning?
-I was impolite, wasn't I?");
+        MsgDisp("Hiiragi","How's that for a deduction?
+A bit rude of me, wasn't it?");
         MsgDisp("主人公","Ehh?");
         ChEye(5,4);
         VoicePlay("B040521102_05_070");
@@ -90,7 +90,7 @@ he would imagine?");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040521102_05_110");
-        MsgDisp("Hiiragi","...How would it go, right?");
+        MsgDisp("Hiiragi","...I wonder, hm?");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, just now you were imagining
 something and laughing...)");
         break ;

@@ -23,8 +23,7 @@ switch (MsgSelRsltGet()){
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_010");
-        MsgDisp("Hiiragi","No matter how much you say it, I will never
-believe it to be true.");
+        MsgDisp("Hiiragi","No matter how much you say it, I just can't take it seriously.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -36,7 +35,7 @@ believe it to be true.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_020");
         MsgDisp("Hiiragi","Haa...
-I wonder how?");
+I'm not so sure.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040522102_05_030");

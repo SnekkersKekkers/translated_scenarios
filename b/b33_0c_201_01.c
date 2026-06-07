@@ -18,8 +18,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20101_07_000");
-MsgDisp("Mikage","You're also young enough to be considered as
-one of them.");
+MsgDisp("Mikage","You're plenty young enough to count as one of
+them yourself.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

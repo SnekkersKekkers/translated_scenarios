@@ -106,9 +106,9 @@ ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B050600100_06_090");
 MsgDisp("Himuro","Not really.
-I just did whatever.");
+It just happened to work.");
 MsgDisp("主人公","Eh?
-Whatever?");
+It just happened?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

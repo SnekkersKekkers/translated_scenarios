@@ -43,7 +43,7 @@ ChMouth(5,3);
 ChMotion(5,4);
 VoicePlay("B040506401_05_050");
 MsgDisp("Hiiragi","It's like you can read my mind.
-I'll buy two with fried egg as toppings.");
+I'll go get two with a fried egg on top.");
 MsgDisp("主人公","Then, I'll buy some takoyaki.");
 ChEye(5,4);
 ChMotion(5,0);

@@ -8,7 +8,7 @@ ChMotion(5,4);
 VoicePlay("B040517001_05_000");
 MsgDisp("Hiiragi","I'd like to hear the song you sang to me
 before.");
-MsgSel("Eh, what was it?","Then, shall we sing together?","\"My heart is always pounding?\"");
+MsgSel("Huh, which one was it again?","Then, shall we sing together?","\"My heart is always pounding?\"");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -25,8 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040517001_05_020");
-    MsgDisp("Hiiragi","Yes, the call and response part was really
-fun.");
+    MsgDisp("Hiiragi","Yeah, doing the background vocals was fun.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,7 +37,7 @@ fun.");
     ChMotion(5,3);
     VoicePlay("B040517001_05_030");
     MsgDisp("Hiiragi","That's it.
-It was my job to say ＹＥＳ!");
+It was my job to say the ＹＥＳ part!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

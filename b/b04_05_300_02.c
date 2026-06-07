@@ -75,8 +75,8 @@ really messy.");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040530002_05_080");
-        MsgDisp("Hiiragi","Yes, as reality is filled with problems you
-cannot tidy away...");
+        MsgDisp("Hiiragi","Yes, because reality is full of problems you
+can't just tidy away...");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040530002_05_090");
@@ -99,9 +99,9 @@ Getting tidied away?");
         ChEye(5,3);
         ChMotion(5,3);
         VoicePlay("B040530002_05_120");
-        MsgDisp("Hiiragi","Is that it? You truly are an interesting and
-wonderful person. I don't think you can
-simply be put away with a lint roller.");
+        MsgDisp("Hiiragi","That's your takeaway? You really are an
+interesting, wonderful person. I don't think
+a lint roller could ever tidy you away.");
         MsgDisp("主人公","A lint roller?");
         ChEye(5,4);
         ChMotion(5,0);

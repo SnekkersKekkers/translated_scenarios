@@ -57,8 +57,8 @@ SEPlay("EV_SE_544");
 ChOpen(5,255,4,3,4,#1,#1,0,0);
 VoicePlay("B360522101_05_080");
 MsgDisp("Hiiragi","What a strange coincidence.
-If we made it in time for the viewing, we
-wouldn't have seen this.");
+If we'd made it in time for the viewing, we'd
+never have noticed this.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522101_05_090");

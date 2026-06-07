@@ -28,8 +28,7 @@ I've been wanting this all day.");
 MsgDisp("主人公","Eh, ｛Hiiragi＊＊＊｝...?");
 ChEye(5,0);
 VoicePlay("B360507000_05_030");
-MsgDisp("Hiiragi","Are you surprised that I have this kind of
-possessiveness?");
+MsgDisp("Hiiragi","Surprised I could be this possessive?");
 MsgDisp("主人公","Umm...");
 ChEye(5,2);
 ChMouth(5,4);

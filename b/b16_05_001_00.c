@@ -3,8 +3,8 @@ NSSOpen(5,255,0,2,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160500100_05_000");
-MsgDisp("Hiiragi","It cannot be helped...
-It's about time I return the favor, isn't it?");
+MsgDisp("Hiiragi","Well, I can't just let that slide...
+It's about time I returned the favor, isn't it?");
 MsgSel("Yes, by all means","T-That's a bit...");
 switch (MsgSelRsltGet()){
     case 0:

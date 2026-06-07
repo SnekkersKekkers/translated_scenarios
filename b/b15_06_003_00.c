@@ -10,7 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600300_06_010");
-MsgDisp("Himuro","I told you, even I'm a man too right?
+MsgDisp("Himuro","I told you I'm a man too, didn't I?
 Or are you looking down on me because I'm
 your junior?");
 MsgDisp("主人公","That's not...!");
@@ -19,8 +19,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B150600300_06_020");
-MsgDisp("Himuro","If I wanted to, I could do anything I wanted
-to you solely by force.");
+MsgDisp("Himuro","If I wanted to, I could do whatever I wanted
+to you by force.");
 MsgDisp("主人公","...By force?");
 ChEye(6,0);
 ChMouth(6,0);

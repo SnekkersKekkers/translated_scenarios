@@ -9,7 +9,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040520000_05_000");
-MsgDisp("Hiiragi","How are your skiing abilities?");
+MsgDisp("Hiiragi","How good are you at skiing?");
 MsgSel("Call me a princess on the snow!","It's to the point I won't fall over...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -39,9 +39,9 @@ princess?");
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("B040520000_05_030");
-    MsgDisp("Hiiragi","I'm the same. Well, there's no point in just
-the two of us standing there.
-Let's go and look around the lodge.");
+    MsgDisp("Hiiragi","Same here. Well, no point in the two of us
+just standing around.
+Let's go watch from the lodge.");
     MsgDateResultDisp();
     break ;
     case 2:

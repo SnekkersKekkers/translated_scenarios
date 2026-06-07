@@ -21,7 +21,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B20600_04_000");
-MsgDisp("Nanatsumori","At the end of the day, it's a movie?");
+MsgDisp("Nanatsumori","It's just a movie, when it comes down to it.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(3,0);
@@ -51,8 +51,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B330B20600_03_020");
 MsgDisp("Honda","That's right!
-Closet and cupboards are actually places
-where unfathomable terrors await.");
+Closets and cupboards are actually places
+where unfathomable terrors lurk.");
 ChEye(4,3);
 ChMouth(4,2);
 ChMotion(4,0,1);

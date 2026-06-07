@@ -22,13 +22,13 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10200_01_010");
-MsgDisp("Kazama","You're laughing saying that huh.");
+MsgDisp("Kazama","Don't say that while laughing.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A10200_02_000");
 MsgDisp("Sassa","I think it's good too.
-It must look funny from your perspective.");
+Bet it looks pretty funny from where you're standing.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);

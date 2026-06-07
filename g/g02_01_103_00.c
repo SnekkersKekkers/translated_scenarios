@@ -22,7 +22,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110300_01_030");
 MsgDisp("Kazama","...Speaking of ferris wheels, remember the
-one at Habataki Land Town?");
+one at Habataki Land?");
 MsgDisp("主人公","Oh...yeah. The one where you kissed me on the
 forehead...
 It was embarrassing with everyone watching.");

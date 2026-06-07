@@ -33,8 +33,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600002_06_460");
-MsgDisp("Himuro","It'd be terrible for me to miss the change in
-your condition.");
+MsgDisp("Himuro","It'd be bad if I missed any change in how you're feeling.");
 MsgDisp("主人公","I-I see...");
 ChEye(6,0);
 ChMouth(6,0);

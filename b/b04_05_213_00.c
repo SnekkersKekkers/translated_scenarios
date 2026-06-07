@@ -37,8 +37,8 @@ But in reality, look, everyone gets along.");
     ChMouth(5,4);
     ChMotion(5,3);
     VoicePlay("B040521300_05_030");
-    MsgDisp("Hiiragi","Assuming huh...that doggy policeman was
-definitely kind to the kitty.");
+    MsgDisp("Hiiragi","A preconception, huh... That police dog
+really was kind to the kitten.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

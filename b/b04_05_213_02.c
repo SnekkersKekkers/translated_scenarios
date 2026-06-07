@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040521302_05_010");
-    MsgDisp("Hiiragi","It's an exceptional cleaning goods item.
+    MsgDisp("Hiiragi","It's a brilliant little cleaning gadget.
 It cleans off any cat and dog fur stuck to
 the carpet.");
     MsgDispSksp(1,0);
@@ -47,8 +47,7 @@ the carpet.");
         MsgDisp("Hiiragi","No no, that's the fun part.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040521302_05_040");
-        MsgDisp("Hiiragi","After the lint roller passes through, a clean
-carpet appears.");
+        MsgDisp("Hiiragi","After the lint roller goes over it, you've got a spotless carpet.");
         ChEyeOpenLevel(5,#1);
         MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, do you like cleaning?");
         ChEye(5,3);

@@ -46,7 +46,7 @@ ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("B150500500_05_060");
 MsgDisp("Hiiragi","No, it's too late for that now.
-We'll switch offence and defence now.");
+It's my turn to attack now.");
 MsgDisp("主人公","Huh?");
 ChMouth(5,3);
 ChMotion(5,4);

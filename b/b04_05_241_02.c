@@ -40,7 +40,7 @@ Then, shall we do something else?");
         ChMotion(5,0);
         VoicePlay("B040524102_05_030");
         MsgDisp("Hiiragi","No, I am interested in milking a cow.");
-        MsgDisp("主人公","It'll definitely be interesting...");
+        MsgDisp("主人公","You're right, that does sound kind of fun...");
         ChEye(5,3);
         VoicePlay("B040524102_05_040");
         MsgDisp("Hiiragi","Yes, rhythm will be somewhat important.");

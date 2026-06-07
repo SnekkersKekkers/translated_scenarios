@@ -82,7 +82,8 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("B040106402_01_070");
 MsgDisp("Kazama","And it's gone...
-Well, that's just like I expected too.");
+Well, forgetting it is pretty on-brand for me
+too.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

@@ -5,8 +5,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 ScrFadeIn(0);
 VoicePlay("B040710500_07_000");
-MsgDisp("Mikage","I brought you here, but it's a bit difficult
-for me!");
+MsgDisp("Mikage","I dragged you here and all, but this is a bit
+tough for me!");
 MsgSel("Don't think about it, feel it!","It's over for you as soon as you give up...","Same here!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,0);
     VoicePlay("B040710500_07_010");
     MsgDisp("Mikage","Crap.
-There's a modern art dragon.");
+There's a dragon that looks like modern art.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

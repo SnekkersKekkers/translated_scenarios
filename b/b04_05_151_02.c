@@ -69,8 +69,8 @@ I phrased it weirdly.");
         ChMotion(5,2);
         VoicePlay("B040515102_05_060");
         MsgDisp("Hiiragi","But, I really am familiar with it. Back when
-our theater group used to tour the country,
-we stayed in places with bowling alleys.");
+our troupe toured all over the country, the
+places we stayed had bowling alleys.");
         MsgDisp("主人公","I see, hotels have bowling facilities.");
         ChEye(5,4);
         VoicePlay("B040515102_05_070");

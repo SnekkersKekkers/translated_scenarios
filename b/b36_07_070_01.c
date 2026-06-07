@@ -24,7 +24,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360707001_07_020");
-MsgDisp("Mikage","If you think so, it could be right.");
+MsgDisp("Mikage","If you think so, then there might be something
+to it.");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,2);

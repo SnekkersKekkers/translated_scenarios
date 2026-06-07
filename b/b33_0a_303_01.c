@@ -53,7 +53,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A30301_02_020");
-MsgDisp("Sassa","The heart wants what it wants.");
+MsgDisp("Sassa","I'm free to hope for whatever I want, right?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);

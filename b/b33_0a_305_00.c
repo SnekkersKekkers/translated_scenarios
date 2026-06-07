@@ -119,7 +119,7 @@ ChOpen(2,255,4,0,0,#1,#1,0,3,0,30);
 ChLayout(2);
 ScrFadeIn(0);
 VoicePlay("B330A30500_02_030");
-MsgDisp("Sassa","You really put your mind to it huh?
+MsgDisp("Sassa","You actually pulled it off, huh?
 That's amazing, Inori.");
 ChEye(1,2);
 VoicePlay("B330A30500_01_040");

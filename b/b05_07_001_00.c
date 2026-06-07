@@ -93,7 +93,7 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B050700100_07_100");
-MsgDisp("Mikage","What is wrong, I wonder.");
+MsgDisp("Mikage","Yeah, what is wrong with me?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

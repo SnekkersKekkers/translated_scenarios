@@ -72,7 +72,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330C20801_06_030");
-MsgDisp("Himuro","We have to catch enough for everyone.");
+MsgDisp("Himuro","Then we'd better catch enough for everyone.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -92,7 +92,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20801_06_040");
-MsgDisp("Himuro","It's a moth larvae.");
+MsgDisp("Himuro","It's a moth larva.");
 MsgDisp("主人公","Eh...");
 ChEye(7,0);
 ChMouth(7,3);
@@ -109,8 +109,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20801_07_060");
-MsgDisp("Mikage","Yeah, if the needle is parallel to the body,
-the needle will be hidden right?");
+MsgDisp("Mikage","Yeah, if you run the hook along the body, the
+hook stays hidden, right?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

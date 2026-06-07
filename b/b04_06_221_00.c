@@ -38,8 +38,8 @@ It's not bad to enjoy the view.");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040622100_06_030");
-    MsgDisp("Himuro","Would you say it's \"A great view\"?
-Your joke is smart and funny.");
+    MsgDisp("Himuro","\"What a magnificent view,\" huh?
+Nice one, that's got a clever twist to it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

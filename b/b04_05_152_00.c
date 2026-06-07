@@ -32,8 +32,8 @@ Is that how it is?");
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040515200_05_030");
-    MsgDisp("Hiiragi","The rules are simple, so form is important
-first.");
+    MsgDisp("Hiiragi","The rules are simple, so what matters first
+is your form.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

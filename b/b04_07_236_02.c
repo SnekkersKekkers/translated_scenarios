@@ -99,8 +99,8 @@ The skull bear is changing colors∈");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723602_07_090");
-        MsgDisp("Mikage","Ha...what's with that?
-I feel like I can't win with you.");
+        MsgDisp("Mikage","Ha...seriously?
+I just can't beat you, can I.");
         MsgDisp("主人公","(Haa, my heart might be racing a little...)");
         break ;
         default :
@@ -114,7 +114,7 @@ I feel like I can't win with you.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040723602_07_100");
-    MsgDisp("Mikage","I guess my head is useful at times huh?");
+    MsgDisp("Mikage","Guess this height's good for somethin' after all, huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

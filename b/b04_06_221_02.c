@@ -45,7 +45,7 @@ But that could definitely be true.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040622102_06_030");
-        MsgDisp("Himuro","How easygoing.");
+        MsgDisp("Himuro","Pretty laid-back of you.");
         MsgDateResultDisp();
         break ;
         case 4:

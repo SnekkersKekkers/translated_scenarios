@@ -18,7 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040508100_05_010");
     MsgDisp("Hiiragi","Thank you.
-Those are the joys of being an actor.");
+That's the greatest reward an actor could ask
+for.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -30,7 +31,7 @@ Those are the joys of being an actor.");
     ChEye(5,0);
     VoicePlay("B040508100_05_020");
     MsgDisp("Hiiragi","Hehe.
-You're a bit different to usual too.
+You're a little different than usual too.
 The power of cherry blossoms is amazing.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
