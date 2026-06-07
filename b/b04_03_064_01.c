@@ -17,8 +17,8 @@ Oh, so that's it—. Well, figuring that out
 is part of the game too—.");
 ChEye(3,3);
 ChEyeOpenLevel(3,0);
-MsgDisp("主人公","(Hehe, ｛Honda＊＊｝ seems like he's enjoying
-himself!)");
+MsgDisp("主人公","(Hehe, ｛Honda＊＊｝ seems to be having
+fun!)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3,0,0);

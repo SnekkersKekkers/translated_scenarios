@@ -118,7 +118,7 @@ ScrFadeOut(0);
 VoicePlay("B330A30700_01_070");
 VoicePlay("B330A30700_02_030");
 VoicePlay("B330A30700_06_050");
-MsgDisp("Everyone","Rock-, paper, scissors, shoot!");
+MsgDisp("Everyone","Okay, first rock— paper— scissors!");
 VoicePlay("B330A30700_01_080");
 VoicePlay("B330A30700_02_040");
 VoicePlay("B330A30700_06_060");

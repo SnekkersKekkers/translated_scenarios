@@ -68,7 +68,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A20101_06_020");
 MsgDisp("Himuro","The fastest wins.");
-MsgDisp("主人公","Um...");
+MsgDisp("主人公","Ummm...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

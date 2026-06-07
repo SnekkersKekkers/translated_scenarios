@@ -16,7 +16,7 @@ MsgDisp("主人公","Yeah.
 ｛Hiiragi＊＊＊｝, are you tired?");
 ChEye(5,4);
 VoicePlay("B360550300_05_010");
-MsgDisp("Hiiragi","Yes.
+MsgDisp("Hiiragi","No.
 I'm livelier now than during the day.");
 MsgDisp("主人公","Eh?
 Is that so?");

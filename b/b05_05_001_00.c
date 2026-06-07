@@ -84,7 +84,7 @@ StlEyeOpenLevel(5,5,1);
 SEPlay("EV_SE_623",0.3,0.6);
 SEWait();
 VoicePlay("B050500100_39_030");
-MsgDisp("Ghost","Ah, thank you so much...");
+MsgDisp("Ghost","Th-Thank you...");
 MsgDisp("主人公","Hehe, as expected of the chairman.");
 StlEyeOpenLevel(5,#1);
 VoicePlay("B050500100_05_070");

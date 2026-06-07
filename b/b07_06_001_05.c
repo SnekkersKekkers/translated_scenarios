@@ -40,7 +40,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_370");
 MsgDisp("Himuro","Then, don't overthink it.");
-MsgDisp("主人公","Yeah, thanks.");
+MsgDisp("主人公","Yeah, thank you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

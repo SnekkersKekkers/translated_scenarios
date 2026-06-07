@@ -21,7 +21,7 @@ MsgDisp("主人公","That's right...");
 VoicePlay("B050400100_04_010");
 MsgDisp("Nanatsumori","...Hey actually, I—");
 SEPlay("EV_SE_064");
-MsgDisp("","(*GROWL*～)");
+MsgDisp("","(Growl～)");
 MsgDisp("主人公","Hehe!");
 ChEye(4,2);
 ChMouth(4,3);

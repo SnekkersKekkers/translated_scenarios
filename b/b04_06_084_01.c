@@ -4,7 +4,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ScrFadeIn(0);
 SEPlay("EV_SE_018");
-MsgDisp("","(*GROWL*～)");
+MsgDisp("","(Growl～)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5,1);

@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030201001_02_000");
-MsgDisp("Sassa","Where do you want to look around?");
+MsgDisp("Sassa","Where do you wanna go?");
 MsgDisp("主人公","Let's see...");
 MsgSel("How about that store?","The Sky Lounge sounds nice.");
 switch (MsgSelRsltGet()){

@@ -20,7 +20,7 @@ One day...");
 ChEye(4,4);
 ChMotion(4,1,1);
 VoicePlay("B360450401_04_020");
-MsgDisp("Nanatsumori","I hoped to be able to see them with her.");
+MsgDisp("Nanatsumori","I always hoped I'd get to see them with a girlfriend someday.");
 MsgDisp("主人公","I see.");
 VoicePlay("B360450401_04_030");
 MsgDisp("Nanatsumori","Yeah.");

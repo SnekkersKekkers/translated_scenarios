@@ -24,7 +24,7 @@ ChMouth(7,0);
 VoicePlay("B070701000_07_020");
 MsgDisp("Mikage","That's fine though.
 That's your charm.");
-MsgDisp("主人公","Ummm...?");
+MsgDisp("主人公","Ummm...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

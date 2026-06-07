@@ -67,7 +67,7 @@ projectors too.");
         MsgDisp("Honda","If you're okay with it, then it's fine.
 Let's do our own planetarium next time, just
 the two of us.");
-        MsgDisp("主人公","Okay, I'm looking forward to it.");
+        MsgDisp("主人公","Yeah, I'm looking forward to it.");
         break ;
         default :
         DbgAssert(1);

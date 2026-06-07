@@ -54,7 +54,7 @@ fish in the aquarium, myself.");
         VoicePlay("B040103202_01_040");
         MsgDisp("Kazama","Well, let's take a break on this bench.
 I'll grab us drinks.");
-        MsgDisp("主人公","Thank you, ｛Kazama＊＊｝.");
+        MsgDisp("主人公","｛Kazama＊＊｝, thank you.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(1);

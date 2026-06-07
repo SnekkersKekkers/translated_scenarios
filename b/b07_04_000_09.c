@@ -58,11 +58,10 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_620");
-MsgDisp("Nanatsumori","...But maybe you should question how mean you
-are yourself for asking me something like
-that so innocently? ...Haa.");
+MsgDisp("Nanatsumori","...But maybe they should question if they're being mean when they ask such questions.
+...Sigh.");
 MsgDisp("主人公","(Umm, who is he talking about when he says
-\"yourself\"?)");
+\"they\"?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

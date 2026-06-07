@@ -12,9 +12,9 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChEyeOpenLevel(2,0);
 VoicePlay("B070200000_02_020");
-MsgDisp("Sassa","Yeah, they rent out a large outdoor bath
-every week and it feels amazing.
-After that, there's good food, too.");
+MsgDisp("Sassa","Yeah, every week they rent out a whole big
+outdoor bath, and it looks amazing.
+The food they have afterward looks good too.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

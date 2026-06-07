@@ -3,7 +3,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B020102128_01_000");
 MsgDisp("Kazama","Bright clothes can be nice too.");
-MsgDisp("主人公","You mean about this fashion?");
+MsgDisp("主人公","You mean this kind of fashion?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

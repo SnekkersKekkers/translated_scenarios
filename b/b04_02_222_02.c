@@ -9,7 +9,7 @@ VoicePlay("B040222202_02_000");
 MsgDisp("Sassa","Hm?
 \"Special Exhibition: A Large Compilation of
 Historical Documents\"?");
-MsgSel("There's even an old debt acknowledgement","I can barely even read the dates","There's even a letter from 400 years ago");
+MsgSel("There's even an old debt agreement.","I can barely even read the dates.","There's even a letter from 400 years ago.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(2,6)){
@@ -43,14 +43,14 @@ It's difficult for me.");
         ChMotion(2,4);
         VoicePlay("B040222202_02_030");
         MsgDisp("Sassa","To be honest, I don't have much interest in
-IOUs.
+debt agreements.
 But I find it interesting that you do.");
         MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040222202_02_040");
-        MsgDisp("Sassa","Isn't that right?
+        MsgDisp("Sassa","It's like this, you know.
 There's no common ground between you and debt
 agreements.");
         MsgDisp("主人公","Hey, I'm not interested in debt agreements,

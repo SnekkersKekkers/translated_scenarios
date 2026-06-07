@@ -4,8 +4,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100001_01_420");
 MsgDisp("Kazama","What is it?");
-MsgDisp("主人公","Ah, sorry.
-I ended up staring.");
+MsgDisp("主人公","A-Ah.
+Sorry for staring.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);

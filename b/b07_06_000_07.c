@@ -50,7 +50,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600000_06_410");
 MsgDisp("Himuro","Well, I'll find something before I graduate.");
-MsgDisp("主人公","Yeah, I look forward to it.");
+MsgDisp("主人公","Yeah, I'm looking forward to it.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
