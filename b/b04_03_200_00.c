@@ -9,7 +9,7 @@ VoicePlay("B040320000_03_000");
 MsgDisp("Honda","Woah, you really look the part.
 Like a total pro.
 Are you actually good at this?");
-MsgSel("You can call me the Snow Princess!","As long as I don't fall...","I want you to teach me...");
+MsgSel("You can call me the Snow Princess!","As long as I don't fall...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040420000_04_000");
 MsgDisp("Nanatsumori","How's your skiing ability?");
-MsgSel("Call me a princess on the snow!","Enough that I won't fall over...","I was hoping you would teach me...");
+MsgSel("Call me a princess on the snow!","Enough that I won't fall over...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

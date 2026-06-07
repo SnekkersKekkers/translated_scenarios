@@ -13,7 +13,7 @@ ChMotion(3,1);
 VoicePlay("B070300001_03_590");
 MsgDisp("Honda","Oh, if that's the case, feel free to look as
 much as you want.");
-MsgDisp("主人公","Heh, okay.");
+MsgDisp("主人公","Hehe, yeah.");
 ChMotion(3,0);
 VoicePlay("B070300001_03_600");
 MsgDisp("Honda","Is there something on your mind?");

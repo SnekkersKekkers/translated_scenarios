@@ -58,7 +58,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B040106402_01_040");
 MsgDisp("Kazama","Yeah.
 This year's was a little too big.");
-MsgDisp("主人公","Hehe, you're right.");
+MsgDisp("主人公","Hehe, yeah.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);

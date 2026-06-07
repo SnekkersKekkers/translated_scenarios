@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030203001_02_000");
 MsgDisp("Sassa","The Water Garden's open right now.
 What should we do?");
-MsgSel("Let's go to the aquarium.","Water Garden sounds nice.");
+MsgSel("Let's go to the Aquarium.","The Water Garden sounds nice.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

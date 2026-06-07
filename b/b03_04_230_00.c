@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030423000_04_000");
 MsgDisp("Nanatsumori","There's a lot to do here.
 Where do you want to go?");
-MsgSel("The Roller Coaster sounds fun!","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the teacups");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try Bungee Jumping!","I want to ride the Tea Cups.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

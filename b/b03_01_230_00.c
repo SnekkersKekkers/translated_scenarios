@@ -6,7 +6,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B030123000_01_000");
 MsgDisp("Kazama","So, where to?");
-MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try bungee jumping!","I want to ride the Tea Cups.");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try Bungee Jumping!","I want to ride the Tea Cups.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

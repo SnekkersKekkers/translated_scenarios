@@ -8,7 +8,7 @@ VoicePlay("B040801000_08_000");
 MsgDisp("Shirahane","Ah!
 How 'bout this?
 I think it suits ya a lot.");
-MsgSel("Really, I'll go buy it!","I wonder about that...","It doesn't suit me!");
+MsgSel("You're right, I think I should buy it!","I wonder about that...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

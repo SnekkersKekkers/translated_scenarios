@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B030503001_05_000");
 MsgDisp("Hiiragi","There's also an outdoor water garden.
 Which one should we go to?");
-MsgSel("Let's go in the aquarium.","The water garden sounds good");
+MsgSel("Let's go to the Aquarium.","The Water Garden sounds nice.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

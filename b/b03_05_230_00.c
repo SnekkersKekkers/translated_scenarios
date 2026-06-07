@@ -10,7 +10,7 @@ VoicePlay("B030523000_05_000");
 MsgDisp("Hiiragi","Everyone's excitement fills the air.
 Let's have fun too.
 So, where to?");
-MsgSel("The roller coaster is good.","Let's ride the ferris wheel.","I want to try bungee jumping!","I want to ride the teacup.");
+MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try Bungee Jumping!","I want to ride the Tea Cups.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

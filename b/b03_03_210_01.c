@@ -2,7 +2,7 @@ BGOpen("tr200",0);
 MsgDispSksp(1,0);
 ChSet(3,0,1);
 ScrFadeIn(0);
-MsgSel("Want to check out the gift shop?","Don't ask");
+MsgSel("Want to check out the Gift Shop?","Don't ask");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

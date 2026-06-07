@@ -4,7 +4,7 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgSel("Want to take a walk on the brick road?","I want to ride the boat.");
+MsgSel("Want to take a walk on the brick road?","I want to ride the sightseeing boat.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

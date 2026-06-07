@@ -9,7 +9,7 @@ ChMotion(3,0);
 VoicePlay("B030303001_03_000");
 MsgDisp("Honda","Water Garden's here, huh?
 Where do you want to go?");
-MsgSel("Let's go to the aquarium.","Water Garden sounds nice.");
+MsgSel("Let's go to the Aquarium.","The Water Garden sounds nice.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

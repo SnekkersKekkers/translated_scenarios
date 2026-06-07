@@ -1,7 +1,7 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, I've got a voicemail...
-I wonder who from...");
+MsgDisp("主人公","Ah, I got a voicemail...
+I wonder who it's from...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090300000_03_000");

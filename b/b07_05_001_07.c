@@ -1,6 +1,6 @@
 MsgDisp("主人公","(Huh?
-What's the matter with me?
-My heart is thumping so fast...)");
+What's up with me?
+My heart is racing super fast...)");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,4,1);

@@ -4,7 +4,7 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgSel("Want to check out the gift shop?","Don't ask");
+MsgSel("Want to check out the Gift Shop?","Don't ask");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

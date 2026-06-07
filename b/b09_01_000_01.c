@@ -1,7 +1,7 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, there's a voicemail on my phone...who
-could it be?");
+MsgDisp("主人公","Ah, I got a voicemail...
+I wonder who it's from...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 VoicePlay("B090100000_01_000");
 MsgDisp("Kazama","Hello.");

@@ -5,7 +5,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040301001_03_000");
 MsgDisp("Honda","Do you think you could pull this off?");
-MsgSel("I do, I might buy it!","I wonder about that...","It doesn't suit me!");
+MsgSel("You're right, I think I should buy it!","I wonder about that...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -3,7 +3,7 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgSel("Want to check out the gift shop?","Don't ask");
+MsgSel("Want to check out the Gift Shop?","Don't ask");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);
