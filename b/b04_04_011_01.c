@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040401101_04_010");
-    MsgDisp("Nanatsumori","It's nice, right?
-The subject is too wide though.");
+    MsgDisp("Nanatsumori","That would be nice.
+It's too big to capture, though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

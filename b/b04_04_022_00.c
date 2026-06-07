@@ -5,8 +5,8 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040402200_04_000");
-MsgDisp("Nanatsumori","There's a nice wind blowing.
-It feels nice.");
+MsgDisp("Nanatsumori","There's a nice breeze.
+Feels great!");
 MsgSel("The sea really is grand...","I'd like to travel around the world like this?","Look, that seabird is cute▼");
 switch (MsgSelRsltGet()){
     case 0:

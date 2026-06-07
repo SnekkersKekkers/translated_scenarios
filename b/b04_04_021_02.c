@@ -69,7 +69,7 @@ My heart was racing every day.");
 I wondered when you would blurt out my true
 identity.");
         MsgDisp("主人公","Eh..
-You thought that of me...");
+So that's what you were thinking...");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,3);

@@ -103,8 +103,8 @@ This is quite embarrassing.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040401102_04_090");
-        MsgDisp("Nanatsumori","I guess I'm still just a kid.
-My my.");
+        MsgDisp("Nanatsumori","Guess I'm still just a kid.
+Man...");
         MsgDisp("主人公","(My heart is racing a bit...)");
         break ;
         default :
