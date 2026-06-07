@@ -18,7 +18,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070700000_07_140");
-MsgDisp("Mikage","Hmm, aside from track and field, I used to play polo way back.");
+MsgDisp("Mikage","Hmm, aside from track and field, I used to
+play polo way back.");
 MsgDisp("主人公","Polo?");
 ChEye(7,0);
 ChMouth(7,0);

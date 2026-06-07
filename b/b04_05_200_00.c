@@ -39,9 +39,9 @@ princess?");
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("B040520000_05_030");
-    MsgDisp("Hiiragi","Same here. Well, no point in the two of us
-just standing around.
-Let's go watch from the lodge.");
+    MsgDisp("Hiiragi","Same here.
+Well, no point in the two of us just standing
+around. Let's go watch from the lodge.");
     MsgDateResultDisp();
     break ;
     case 2:

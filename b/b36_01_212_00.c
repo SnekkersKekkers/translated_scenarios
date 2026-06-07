@@ -44,7 +44,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360121200_01_040");
 MsgDisp("Kazama","Not great.
-It might be fine for you, but it's rough on me.");
+It might be fine for you, but it's rough on
+me.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

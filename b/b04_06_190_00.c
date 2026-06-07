@@ -36,8 +36,7 @@ I wish they'd put a bit more effort in.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040619000_06_020");
-    MsgDisp("Himuro","Isn't that because you're lacking
-knowledge?");
+    MsgDisp("Himuro","Isn't that because you're lacking knowledge?");
     MsgDateResultDisp();
     break ;
     default :

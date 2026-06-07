@@ -44,8 +44,8 @@ elementary schooler's room, doesn't it?");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040130000_01_030");
     MsgDisp("Kazama","Wait, don't stare at it too hard.
-I still haven't managed to organize it since I
-got back.");
+I still haven't managed to organize it since
+I got back.");
     MsgDateResultDisp();
     break ;
     default :

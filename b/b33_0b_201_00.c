@@ -47,8 +47,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B20100_01_010");
-MsgDisp("Kazama","Even giving it every benefit of the doubt, can
-I see it as cute?
+MsgDisp("Kazama","Even giving it every benefit of the doubt,
+can I see it as cute?
 Nope, I can't.");
 MsgDisp("主人公","Hehe!
 ｛Honda＊＊｝, are you satisfied?");

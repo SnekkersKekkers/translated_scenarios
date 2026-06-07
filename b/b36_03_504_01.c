@@ -31,8 +31,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B360350401_03_030");
 MsgDisp("Honda","But, you know, there's something almost
-addictive about it.
-I don't really mind when Ryou-kun gets mad at me.");
+addictive about it. I don't really mind when
+Ryou-kun gets mad at me.");
 MsgDisp("主人公","Oh?
 Why's that?");
 ChEye(3,0);

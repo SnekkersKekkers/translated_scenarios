@@ -5,7 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040709002_07_000");
-MsgDisp("Mikage","This place has a test field for selective breeding too.
+MsgDisp("Mikage","This place has a test field for selective
+breeding too.
 Let's take a peek.");
 MsgSel("Natural is best.","Like square watermelons?","Like disease-resistant rice?");
 switch (MsgSelRsltGet()){

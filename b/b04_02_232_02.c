@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040223202_02_010");
     MsgDisp("Sassa","It's fine, but what kind of face am I
-supposed to make, sitting here knee to
-knee not moving?");
+supposed to make, sitting here knee to knee
+not moving?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

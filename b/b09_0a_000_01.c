@@ -13,8 +13,9 @@ MsgDisp("Kazama","Maybe she's running here in a panic.");
 VoicePlay("B090A00001_06_000");
 MsgDisp("Himuro","Maybe she got the week wrong?");
 VoicePlay("B090A00001_02_010");
-MsgDisp("Sassa","Hope you're okay. We'll wait a bit longer, so
-give us a call, alright?");
+MsgDisp("Sassa","Hope you're okay.
+We'll wait a bit longer, so give us a call,
+alright?");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","As I thought, I got the meeting place

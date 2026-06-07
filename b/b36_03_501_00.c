@@ -18,8 +18,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B360350100_03_010");
 MsgDisp("Honda","For me, I once tried to camp out here with my
-little sister. We brought a bunch of
-stuff and got in trouble for it.");
+little sister. We brought a bunch of stuff
+and got in trouble for it.");
 MsgDisp("主人公","Hehe, that's so cute.");
 ChEye(3,0);
 ChMouth(3,3);

@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040223401_02_010");
-    MsgDisp("Sassa","Telling me not to get excited at an
-amusement park?
+    MsgDisp("Sassa","Telling me not to get excited at an amusement
+park?
 That's asking too much.");
     MsgDateResultDisp();
     break ;

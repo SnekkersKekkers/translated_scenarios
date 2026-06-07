@@ -41,7 +41,8 @@ MsgDisp("Sassa","Ah, hey.
 Yesterday, I was a bit overcome with emotion,
 so I'm sorry if I said something strange.");
 MsgDisp("主人公","No.
-That field's soaked with three years of your hard work, after all, ｛Sassa＊＊｝.");
+That field's soaked with three years of your
+hard work, after all, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

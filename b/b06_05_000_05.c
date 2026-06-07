@@ -5,8 +5,8 @@ ChMouth(5,0);
 ChMotion(5,2,1);
 ScrFadeIn(0);
 VoicePlay("B060500005_05_000");
-MsgDisp("Hiiragi","Is there something left you wanted to 
-do here?");
+MsgDisp("Hiiragi","Is there something left you wanted to do
+here?");
 MsgDispSksp(1,#1);
 MsgDisp("主人公","(Oh no!
 I should have remembered where we went last

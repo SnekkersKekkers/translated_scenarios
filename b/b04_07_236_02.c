@@ -114,7 +114,8 @@ I just can't beat you, can I.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040723602_07_100");
-    MsgDisp("Mikage","Guess this height's good for somethin' after all, huh?");
+    MsgDisp("Mikage","Guess this height's good for somethin' after
+all, huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

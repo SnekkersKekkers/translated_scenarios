@@ -6,9 +6,9 @@ ChMouth(2,4);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040222201_02_000");
-MsgDisp("Sassa","Back in elementary school, they made us
-write a report on this place for a field
-trip, remember?");
+MsgDisp("Sassa","Back in elementary school, they made us write
+a report on this place for a field trip,
+remember?");
 MsgSel("What did ｛Sassa＊＊｝ write?","You still come here for extracurricular activities even now huh?","You've been coming here for ages, huh?");
 switch (MsgSelRsltGet()){
     case 0:

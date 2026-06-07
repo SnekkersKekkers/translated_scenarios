@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040421200_04_010");
-    MsgDisp("Nanatsumori","I get it. Limited-time, region-exclusive, zoo-only-
+    MsgDisp("Nanatsumori","I get it.
+Limited-time, region-exclusive, zoo-only-
 you've gotta grab them all.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);

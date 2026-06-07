@@ -14,7 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3);
     VoicePlay("B040724100_07_010");
     MsgDisp("Mikage","It's harder than it looks.
-Go find out how much work goes into every glass of milk.");
+Go find out how much work goes into every
+glass of milk.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

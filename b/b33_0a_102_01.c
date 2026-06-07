@@ -56,7 +56,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10201_01_010");
 MsgDisp("Kazama","What's that supposed to mean?
-I'm the one standing across from her, aren't I?");
+I'm the one standing across from her, aren't
+I?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -68,7 +68,8 @@ I'm asking you this seriously.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_070");
-        MsgDisp("Nanatsumori","Think back over how this conversation just went.
+        MsgDisp("Nanatsumori","Think back over how this conversation just
+went.
 ...That's where it lands, right?");
         MsgDisp("主人公","...Ah.");
         ChEye(4,2);

@@ -47,14 +47,14 @@ MsgDisp("Kazama","No, I got scolded badly.
 I was about 3 years old but, I vaguely
 remember being yelled at.");
 MsgDisp("主人公","Hehe!
-So you've had a good eye since you
-were little?");
+So you've had a good eye since you were
+little?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10700_01_030");
-MsgDisp("Kazama","Apparently so.
-They couldn't believe I'd play with this of all things.
+MsgDisp("Kazama","Apparently so. They couldn't believe I'd play
+with this of all things.
 It's become a funny topic now though.");
 ChEye(6,0);
 ChMouth(6,0);

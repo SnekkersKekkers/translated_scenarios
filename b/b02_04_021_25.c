@@ -15,5 +15,5 @@ VoicePlay("B020402125_04_010");
 MsgDisp("Nanatsumori","But you're always so good at coordinating
 outfits, so I got kind of interested.");
 MsgDisp("主人公","(Oh, good.
-Looks like it's fine to wear clothes 
-like this now.)");
+Looks like it's fine to wear clothes like
+this now.)");

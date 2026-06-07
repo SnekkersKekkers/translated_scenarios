@@ -24,8 +24,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30401_01_000");
-MsgDisp("Kazama","A walk's fine and all, but
-aren't we gonna do anything?");
+MsgDisp("Kazama","A walk's fine and all, but aren't we gonna do
+anything?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);

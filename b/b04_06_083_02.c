@@ -5,7 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608302_06_000");
-MsgDisp("Himuro","It's just been brutally hot lately, hasn't it?");
+MsgDisp("Himuro","It's just been brutally hot lately, hasn't
+it?");
 MsgSel("I wonder if it's the effects of global warming?","Yeah, it's pretty harsh...","I'm alright even if it's hot!");
 switch (MsgSelRsltGet()){
     case 0:

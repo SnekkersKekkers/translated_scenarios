@@ -45,8 +45,8 @@ I-I'm not doing anything.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040114002_01_030");
-        MsgDisp("Kazama","What could you even get up to in a place
-like this?");
+        MsgDisp("Kazama","What could you even get up to in a place like
+this?");
         MsgDisp("主人公","I see, the only thing you could do is listen
 to the music here.");
         ChEye(1,0);

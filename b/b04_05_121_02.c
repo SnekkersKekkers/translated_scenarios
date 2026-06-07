@@ -51,8 +51,8 @@ for a long time.");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040512102_05_040");
-        MsgDisp("Hiiragi","Yes...well, back in elementary school someone drew me
-as a funny, exaggerated caricature.
+        MsgDisp("Hiiragi","Yes...well, back in elementary school someone
+drew me as a funny, exaggerated caricature.
 I also somehow looked like a fox.");
         MsgDisp("主人公","Fox...");
         ChEye(5,0);

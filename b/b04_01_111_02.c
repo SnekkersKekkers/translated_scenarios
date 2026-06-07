@@ -30,7 +30,8 @@ Despite the cold, I'm all heated up.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040111102_01_020");
     MsgDisp("Kazama","Definitely skating.
-Skiing's a hassle with those poles in the way.");
+Skiing's a hassle with those poles in the
+way.");
     MsgDispSksp(1,8);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();

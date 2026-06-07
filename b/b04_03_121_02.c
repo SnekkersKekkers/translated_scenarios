@@ -59,8 +59,7 @@ have at home...");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040312102_03_050");
-        MsgDisp("Honda","Ah, how about things like rhinoceros
-beetles?
+        MsgDisp("Honda","Ah, how about things like rhinoceros beetles?
 Both children and adults would like it.");
         MsgDisp("主人公","Ehhh?");
         ChEye(3,3);

@@ -24,8 +24,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("B330B30800_01_010");
-MsgDisp("Kazama","Whaddya mean why? What're we gonna do once
-we're on it?");
+MsgDisp("Kazama","Whaddya mean why?
+What're we gonna do once we're on it?");
 ChSet(3,3);
 VoicePlay("B330B30800_03_000");
 MsgDisp("Honda","Let's all chat while we sail through the sky!");

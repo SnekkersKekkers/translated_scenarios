@@ -21,8 +21,7 @@ ChMotion(7,2);
 VoicePlay("B030710000_07_010");
 MsgDisp("Mikage","Aw, don't say that.
 If we're all here together, something fun's
-bound to come up, right? 
-Come on, let's go.");
+bound to come up, right? Come on, let's go.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","(Is ｛Mikage＊＊｝ being a little
 half-hearted?)");

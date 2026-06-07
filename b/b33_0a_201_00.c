@@ -45,14 +45,15 @@ Are ｛Kazama＊＊｝ and ｛Himuro＊＊｝ brothers?");
 ChMouth(1,1);
 VoicePlay("B330A20100_01_010");
 MsgDisp("Kazama","It's not funny.
-I'm clearly the dad, not for my build,
-but my presence.");
+I'm clearly the dad, not for my build, but my
+presence.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A20100_02_020");
-MsgDisp("Sassa","You're really claiming you've got that kind of 'presence'?");
+MsgDisp("Sassa","You're really claiming you've got that kind
+of 'presence'?");
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
 ChEye(2,0);

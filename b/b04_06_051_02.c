@@ -44,7 +44,8 @@ Well, you have a point.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040605102_06_030");
-        MsgDisp("Himuro","So you wish you could do that, shameless as it is?");
+        MsgDisp("Himuro","So you wish you could do that, shameless as
+it is?");
         MsgDateResultDisp();
         break ;
         case 4:

@@ -5,7 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040208302_02_000");
-MsgDisp("Sassa","The water's so clear, look, you can even see the aquatic plants swaying.");
+MsgDisp("Sassa","The water's so clear, look, you can even see
+the aquatic plants swaying.");
 MsgSel("It's like it's not in the water.","The fish are completely visible too","I'd like to watch while floating on a boat.");
 switch (MsgSelRsltGet()){
     case 0:

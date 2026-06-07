@@ -28,7 +28,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A10200_02_000");
 MsgDisp("Sassa","I think it's good too.
-Bet it looks pretty funny from where you're standing.");
+Bet it looks pretty funny from where you're
+standing.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);

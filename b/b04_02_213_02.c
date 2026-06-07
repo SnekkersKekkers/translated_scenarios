@@ -75,8 +75,8 @@ But is there a doggy that can keep up with
         ChMotion(2,5);
         VoicePlay("B040221302_02_060");
         MsgDisp("Sassa","Oh yeah, definitely.
-Forget matching me, they'd leave me
-in the dust.");
+Forget matching me, they'd leave me in the
+dust.");
         MsgDisp("主人公","Eh?
 Really?");
         ChEye(2,0);

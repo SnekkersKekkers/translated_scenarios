@@ -97,9 +97,9 @@ You get it?");
         ChEyeOpenLevel(1,8);
         ChCheek(1,7);
         VoicePlay("B040108402_01_080");
-        MsgDisp("Kazama","You're the one who said you wanted some body warmth.
-So, here.
-My hand.");
+        MsgDisp("Kazama","You're the one who said you wanted some body
+warmth.
+So, here. My hand.");
         MsgDisp("主人公","Hehe, yeah, thank you.");
         ChEye(1,4);
         ChMouth(1,3);

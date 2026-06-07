@@ -34,8 +34,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040221102_02_020");
-        MsgDisp("Sassa","It was only just born, I feel bad it's got
-to be passed around to so many people.");
+        MsgDisp("Sassa","It was only just born, I feel bad it's got to
+be passed around to so many people.");
         MsgDateResultDisp();
         break ;
         case 4:

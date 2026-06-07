@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040508202_05_000");
-MsgDisp("Hiiragi","They say you can hear the other person's inner
-thoughts here.
+MsgDisp("Hiiragi","They say you can hear the other person's
+inner thoughts here.
 What do you think?");
 MsgSel("Seems interesting!","Might be a bit scary.","I think it's a lie.");
 switch (MsgSelRsltGet()){

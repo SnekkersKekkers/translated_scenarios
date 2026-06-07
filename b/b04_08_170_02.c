@@ -14,7 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("B040817002_08_010");
-    MsgDisp("Shirahane","It's not that I hate it... I just don't like it.
+    MsgDisp("Shirahane","It's not that I hate it...
+I just don't like it.
 ...Ah, same thing, isn't it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

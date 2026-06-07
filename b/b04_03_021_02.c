@@ -75,9 +75,8 @@ Well, I guess that hasn't changed even now.");
         ChMotion(3,0,1);
         VoicePlay("B040302102_03_070");
         MsgDisp("Honda","It's you, for sure.
-Because I have something now that I didn't 
-have in middle school.
-You.");
+Because I have something now that I didn't
+have in middle school. You.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,4,1);

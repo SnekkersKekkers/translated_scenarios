@@ -22,8 +22,8 @@ rapid succession... I can't evade them all.");
 ChEye(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500200_05_030");
-MsgDisp("Hiiragi","Haa, you're like a cat with perfect
-night vision.");
+MsgDisp("Hiiragi","Haa, you're like a cat with perfect night
+vision.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B150500200_05_040");

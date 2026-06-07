@@ -57,8 +57,8 @@ I meant to say everywhere is fun.");
         ChMotion(2,0);
         VoicePlay("B040202202_02_050");
         MsgDisp("Sassa","What would I gain from lying?
-It's just that there are tons of places I want
-to go.");
+It's just that there are tons of places I
+want to go.");
         ChEye(2,4);
         ChMouth(2,4);
         ChMotion(2,4);

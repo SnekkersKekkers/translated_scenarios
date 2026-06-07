@@ -75,7 +75,8 @@ It's the most efficient way anyway.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040211102_02_060");
-        MsgDisp("Sassa","Right? A hot drink.
+        MsgDisp("Sassa","Right?
+A hot drink.
 Drink up and breathe a \"hot\" sigh of relief.");
         MsgDisp("主人公","Yeah.");
         ChEye(2,0);

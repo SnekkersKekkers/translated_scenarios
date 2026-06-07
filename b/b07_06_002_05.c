@@ -18,13 +18,16 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B070600002_06_330");
-MsgDisp("Himuro","It's way too late to bother spelling it out now.");
+MsgDisp("Himuro","It's way too late to bother spelling it out
+now.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_340");
-MsgDisp("Himuro","You know even if I don't say it. Being together is fun. What more needs to be said?");
+MsgDisp("Himuro","You know even if I don't say it.
+Being together is fun.
+What more needs to be said?");
 MsgDisp("主人公","No, that's right, isn't it?");
 ChEye(6,0);
 ChMouth(6,0);

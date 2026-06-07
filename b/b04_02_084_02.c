@@ -21,7 +21,8 @@ switch (MsgSelRsltGet()){
         ChMotion(2,2);
         VoicePlay("B040208402_02_010");
         MsgDisp("Sassa","I-It'll be fine.
-No...camping by the water is kind of a dangerous setup...");
+No...camping by the water is kind of a
+dangerous setup...");
         MsgDateResultDisp();
         break ;
         case 4:

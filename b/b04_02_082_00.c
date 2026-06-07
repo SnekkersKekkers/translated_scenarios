@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040208200_02_010");
-    MsgDisp("Sassa","It's not just the cultivated ones; some are growing wild too.");
+    MsgDisp("Sassa","It's not just the cultivated ones; some are
+growing wild too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

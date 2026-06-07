@@ -86,8 +86,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A30300_02_030");
-MsgDisp("Sassa","Splitting Ryota's fans with him? You're like
-Simon's second star sales clerk.");
+MsgDisp("Sassa","Splitting Ryota's fans with him?
+You're like Simon's second star sales clerk.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

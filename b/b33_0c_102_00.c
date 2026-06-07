@@ -14,7 +14,8 @@ ScrFadeIn(0);
 VoicePlay("B330C10200_05_000");
 MsgDisp("Hiiragi","I've always been curious about how they clean
 the tank.");
-MsgDisp("主人公","Eh? The tank?");
+MsgDisp("主人公","Eh?
+The tank?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040205102_02_000");
-MsgDisp("Sassa","I've been thinking up a renovation plan
-for this place.");
+MsgDisp("Sassa","I've been thinking up a renovation plan for
+this place.");
 MsgSel("Musical of the Stars♪","Haunted House Collab?","Pop-Up Planetarium!");
 switch (MsgSelRsltGet()){
     case 0:

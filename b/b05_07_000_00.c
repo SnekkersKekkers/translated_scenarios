@@ -4,9 +4,8 @@ ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, a message from ｛Mikage＊＊｝.
-It says...
-\"The cherry blossoms are beautiful, won't you
-come see them—\")");
+It says... \"The cherry blossoms are
+beautiful, won't you come see them—\")");
 MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is at the forest
 park?
 Alright, it's good weather, let's head out!)");

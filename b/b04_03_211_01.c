@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0,1);
     VoicePlay("B040321101_03_010");
     MsgDisp("Honda","Really?
-Reptiles are so interesting, though. Well then,
-off to the giant tortoise pen!");
+Reptiles are so interesting, though.
+Well then, off to the giant tortoise pen!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

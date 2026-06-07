@@ -15,6 +15,6 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B020302001_03_020");
-MsgDisp("Honda","For me, it would be a little scary to see
-my face around town.");
+MsgDisp("Honda","For me, it would be a little scary to see my
+face around town.");
 MsgDisp("主人公","(H-He may have a point...)");

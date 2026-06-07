@@ -19,5 +19,5 @@ MsgDisp("Himuro","—
 Is what I should be saying, but you don't
 look bad in it.");
 MsgDisp("主人公","(I'm glad!
-｛Himuro＊＊｝ seems to like clothes like
-these, too!)");
+｛Himuro＊＊｝ seems to like clothes like these,
+too!)");

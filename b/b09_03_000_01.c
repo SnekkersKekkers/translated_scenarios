@@ -6,7 +6,8 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090300000_03_000");
 MsgDisp("Honda","Hey, where are you now?");
-MsgDisp("主人公","This voice... ｛Honda＊＊｝?");
+MsgDisp("主人公","This voice...
+｛Honda＊＊｝?");
 VoicePlay("B090300000_03_010");
 MsgDisp("Honda","I'm looking for you but...");
 VoicePlay("B090300000_03_020");
@@ -16,6 +17,7 @@ Sorry, wait for me!");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Oh no!
-I got the meeting place for our date wrong...!");
+I got the meeting place for our date
+wrong...!");
 MsgClose();
 ScrFadeOut(0,0);

@@ -11,5 +11,4 @@ ChCheek(6,10);
 VoicePlay("B020602100_06_010");
 MsgDisp("Himuro","If someone dressed exactly to your tastes,
 you'd be suspicious too.");
-MsgDisp("主人公","(｛Himuro＊＊｝ seems to really like this
-style!)");
+MsgDisp("主人公","(｛Himuro＊＊｝ seems to really like this style!)");

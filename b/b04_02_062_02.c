@@ -45,7 +45,8 @@ I'm glad you're here.");
         MsgDisp("Sassa","Yeah.
 What would you do if there were just the two
 of us and we had to survive?");
-        MsgDisp("主人公","Having ｛Sassa＊＊｝ with me would be reassuring, I guess?");
+        MsgDisp("主人公","Having ｛Sassa＊＊｝ with me would be
+reassuring, I guess?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

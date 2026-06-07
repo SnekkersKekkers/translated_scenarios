@@ -70,8 +70,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360618001_06_080");
-MsgDisp("Himuro","Talking with you like this is something new...
-it was kind of fun.");
+MsgDisp("Himuro","Talking with you like this is something
+new... it was kind of fun.");
 MsgDisp("主人公","(Hehe, it certainly feels refreshing!)");
 BGMStop();
 MsgClose();

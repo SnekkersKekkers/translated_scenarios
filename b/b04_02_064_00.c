@@ -16,8 +16,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B040206400_02_020");
-MsgDisp("Sassa","When I think about looking after it afterward,
-I just can't get into it.");
+MsgDisp("Sassa","When I think about looking after it
+afterward, I just can't get into it.");
 MsgDisp("主人公","That's true, you would have to...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

@@ -22,8 +22,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A20501_01_000");
-MsgDisp("Kazama","They say the odds of a spare are less than
-1 percent.");
+MsgDisp("Kazama","They say the odds of a spare are less than 1
+percent.");
 VoicePlay("B330A20501_02_010");
 MsgDisp("Sassa","My 3rd throw in the 10th frame.
 If I get a spare, I'll turn the tables on

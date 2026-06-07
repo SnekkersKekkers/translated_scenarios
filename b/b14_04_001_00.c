@@ -71,7 +71,8 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 ChCheek(4,10);
 VoicePlay("B140400100_04_080");
-MsgDisp("Nanatsumori","Unless I've totally misread things, I figured it'd be the best present for both of us.");
+MsgDisp("Nanatsumori","Unless I've totally misread things, I figured
+it'd be the best present for both of us.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,4);
 ChMouth(4,3);

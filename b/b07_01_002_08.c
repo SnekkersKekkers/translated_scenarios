@@ -37,8 +37,7 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_480");
 MsgDisp("Kazama","But, well.
-Time and distance don't mean a thing to
-us.");
+Time and distance don't mean a thing to us.");
 MsgDisp("主人公","Hehe, yeah, that's right.");
 ChEye(1,4);
 ChMouth(1,4);

@@ -1,4 +1,5 @@
-MsgDisp("主人公","We've been spending a lot of time with ｛Kazama＊＊｝ and ｛Nanatsumori＊｝ lately.");
+MsgDisp("主人公","We've been spending a lot of time with
+｛Kazama＊＊｝ and ｛Nanatsumori＊｝ lately.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

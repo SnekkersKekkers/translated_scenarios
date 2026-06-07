@@ -22,7 +22,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B060300011_03_020");
-    MsgDisp("Honda","I'd love to keep talking, but we'd never stop, huh?");
+    MsgDisp("Honda","I'd love to keep talking, but we'd never
+stop, huh?");
     break ;
     default :
     DbgAssert(1);

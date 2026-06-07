@@ -47,7 +47,8 @@ stomach.");
         ChMotion(3,2);
         VoicePlay("B040306502_03_030");
         MsgDisp("Honda","It's the trade-off for those big bloom
-fireworks. You can't have it all.");
+fireworks.
+You can't have it all.");
         MsgDateResultDisp();
         break ;
         case 4:

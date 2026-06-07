@@ -6,7 +6,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121300_01_000");
-MsgDisp("Kazama","Dogs and cats really are popular, aren't they?");
+MsgDisp("Kazama","Dogs and cats really are popular, aren't
+they?");
 MsgSel("Maybe it's because you can get close to them.","｛Kazama＊＊｝, are you a dog person or cat person?","It's cute how they're sunbathing.");
 switch (MsgSelRsltGet()){
     case 0:

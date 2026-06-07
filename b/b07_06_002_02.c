@@ -16,7 +16,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600002_06_100");
-MsgDisp("Himuro","I mean, there's just no ignoring a guy like that.");
+MsgDisp("Himuro","I mean, there's just no ignoring a guy like
+that.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -53,7 +54,8 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_150");
 MsgDisp("Himuro","I feel like he's always looking after us.
-I'm sure Reiichi-san has a hard time with that.");
+I'm sure Reiichi-san has a hard time with
+that.");
 MsgDisp("主人公","(He may say those things but I think
 ｛Himuro＊＊｝ trusts ｛Mikage＊＊｝)");
 BGMStop();

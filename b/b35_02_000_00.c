@@ -40,7 +40,8 @@ Right, let's go!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B350200000_02_050");
-    MsgDisp("Sassa","I don't know why, but I've already got a place in mind.");
+    MsgDisp("Sassa","I don't know why, but I've already got a
+place in mind.");
     MsgClose();
     ScrFadeOut(0);
     break ;

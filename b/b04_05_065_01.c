@@ -29,8 +29,8 @@ satisfied.");
     ChMotion(5,3);
     VoicePlay("B040506501_05_020");
     MsgDisp("Hiiragi","Yeah.
-The smell of the sauce has been getting to
-me too.");
+The smell of the sauce has been getting to me
+too.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

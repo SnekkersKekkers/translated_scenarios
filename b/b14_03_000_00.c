@@ -35,7 +35,8 @@ ChMotion(3,1,1);
 VoicePlay("B140300000_03_030");
 MsgDisp("Honda","Because I've been able to see your happy face
 two days in a row.");
-MsgDisp("主人公","Oh, that's two days of Christmas in a row together!");
+MsgDisp("主人公","Oh, that's two days of Christmas in a row
+together!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

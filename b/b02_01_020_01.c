@@ -26,6 +26,6 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B020102001_01_030");
 MsgDisp("Kazama","Yeah, sure.
-Anyway, let's get going, the three of 
-us, like always.");
+Anyway, let's get going, the three of us,
+like always.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems like he's having fun?)");

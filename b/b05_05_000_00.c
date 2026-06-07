@@ -28,8 +28,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B050500000_05_020");
-MsgDisp("Hiiragi","The ship's deck has the same type of
-wood as the stage.");
+MsgDisp("Hiiragi","The ship's deck has the same type of wood as
+the stage.");
 MsgDisp("主人公","Hehe, that's true.");
 ChEye(5,4);
 ChMouth(5,4);

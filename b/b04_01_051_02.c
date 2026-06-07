@@ -31,8 +31,8 @@ This is still in the city, you know.");
         ChMotion(1,0,1);
         VoicePlay("B040105102_01_020");
         MsgDisp("Kazama","I know what you mean.
-It's still daytime outside, but in here
-it's suddenly dark.");
+It's still daytime outside, but in here it's
+suddenly dark.");
         MsgDisp("主人公","Yeah, it's like there's nobody around.");
         ChEye(1,4);
         ChEyeOpenLevel(1,0);

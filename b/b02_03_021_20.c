@@ -6,8 +6,7 @@ MsgDisp("Honda","Wow!
 Wearing something eye catching again today,
 huh?");
 MsgDisp("主人公","Ahaha...
-This outfit's a bad idea after all,
-huh?");
+This outfit's a bad idea after all, huh?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

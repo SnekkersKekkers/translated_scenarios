@@ -47,7 +47,8 @@ I'm learning a lot here.");
         MsgDisp("Sassa","That's right.
 It's a once a year contest.
 It's the same as my Inter-High.");
-        MsgDisp("主人公","You've spent a whole year working toward that one moment too, right?");
+        MsgDisp("主人公","You've spent a whole year working toward that
+one moment too, right?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4,1);

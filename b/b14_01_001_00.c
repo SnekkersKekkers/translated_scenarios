@@ -16,7 +16,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B140100100_01_000");
 MsgDisp("Kazama","I'm looking at it.
-It is pretty. You included.");
+It is pretty.
+You included.");
 MsgDisp("主人公","Hehe!
 ｛Kazama＊＊｝, did you already know about
 this?");
@@ -25,8 +26,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B140100100_01_010");
 MsgDisp("Kazama","A thank-you for working the store in your
-Christmas outfit.
-Figured the town's info expert would already know.");
+Christmas outfit. Figured the town's info
+expert would already know.");
 MsgDisp("主人公","No, I didn't know.
 Thank you, ｛Kazama＊＊｝.");
 ChEye(1,0);

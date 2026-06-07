@@ -5,8 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040710400_07_000");
-MsgDisp("Mikage","Migrating butterflies are fascinating
-bugs.
+MsgDisp("Mikage","Migrating butterflies are fascinating bugs.
 They're worth looking into.");
 MsgSel("Uugh, creepy.","It's like they're on a field trip.","They travel 4000 km∈");
 switch (MsgSelRsltGet()){

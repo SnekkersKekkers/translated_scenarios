@@ -35,7 +35,8 @@ switch (MsgSelRsltGet()){
     VoiceEVSPlay(1);
     MsgDisp("Kazama","Isn't it, ｛主人公｝.");
     VoicePlay("B180100000_01_031");
-    MsgDisp("Kazama","See? Way more natural.");
+    MsgDisp("Kazama","See?
+Way more natural.");
     MsgDisp("主人公","Hehe, it's kind of funny isn't it?
 ｛Kazama＊＊｝.");
     ChEye(1,0);

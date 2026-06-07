@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040220001_02_010");
     MsgDisp("Sassa","I get how you feel.
-Alright, one more run and then we'll
-take a break.");
+Alright, one more run and then we'll take a
+break.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

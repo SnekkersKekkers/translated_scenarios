@@ -15,6 +15,7 @@ MsgDisp("Mikage","See you then, I'm gonna wander back home.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Oh no!
-I got the meeting place for our date wrong...!");
+I got the meeting place for our date
+wrong...!");
 MsgClose();
 ScrFadeOut(0,0);

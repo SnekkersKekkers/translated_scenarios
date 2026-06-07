@@ -56,8 +56,8 @@ with some amazing strategies huh?");
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308302_03_050");
         MsgDisp("Honda","If I were a firefly, I'd take the direct
-approach! I'd fly around flashing right 
-in front of you.");
+approach! I'd fly around flashing right in
+front of you.");
         MsgDisp("主人公","Ummm...
 This is if I were a firefly too?");
         ChEye(3,0);

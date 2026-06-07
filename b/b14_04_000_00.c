@@ -61,7 +61,8 @@ VoicePlay("B140400000_04_080");
 MsgDisp("Nanatsumori","｛主人公｝, Merry Christmas.
 I hope I can say this to you again next year.");
 MsgDisp("主人公","｛Nanatsumori＊｝, Merry Christmas.");
-MsgDisp("主人公","(I see, I've spent two days in a row with ｛Nanatsumori＊｝.
+MsgDisp("主人公","(I see, I've spent two days in a row with
+｛Nanatsumori＊｝.
 My heart is racing a little...)");
 BGMStop();
 MsgClose();

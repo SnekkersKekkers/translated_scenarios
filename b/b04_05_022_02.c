@@ -28,8 +28,8 @@ actually happen. That gets me excited.");
     ChMotion(5,0);
     VoicePlay("B040502202_05_020");
     MsgDisp("Hiiragi","I see...
-If the Habataki Theater Company performed on a
-ship, I guess we could go there for work?");
+If the Habataki Theater Company performed on
+a ship, I guess we could go there for work?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -74,8 +74,8 @@ difficult...");
         ChEye(5,3);
         VoicePlay("B040502202_05_070");
         MsgDisp("Hiiragi","You're honest, aren't you.
-I did get to experience the cultures of lots of
-different areas, and that part was fun.");
+I did get to experience the cultures of lots
+of different areas, and that part was fun.");
         ChEye(5,2);
         ChMotion(5,2);
         VoicePlay("B040502202_05_080");

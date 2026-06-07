@@ -33,7 +33,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B150100000_01_030");
-MsgDisp("Kazama","But when it's you, I can't react normally, and that's the problem.");
+MsgDisp("Kazama","But when it's you, I can't react normally,
+and that's the problem.");
 MsgDisp("主人公","Eh, why?");
 ChEye(1,0);
 ChMouth(1,1);
@@ -49,7 +50,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100000_01_050");
-MsgDisp("Kazama","Don't do to others what you wouldn't want done to you.
+MsgDisp("Kazama","Don't do to others what you wouldn't want
+done to you.
 ...See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

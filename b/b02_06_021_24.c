@@ -13,5 +13,5 @@ VoicePlay("B020602124_06_010");
 MsgDisp("Himuro","If I thought it didn't look good, I wouldn't
 have even had that thought.");
 MsgDisp("主人公","(I'm glad!
-｛Himuro＊＊｝ seems to like clothes like
-these, too!)");
+｛Himuro＊＊｝ seems to like clothes like these,
+too!)");

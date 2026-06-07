@@ -95,7 +95,8 @@ Were you not looking forward to this?");
     ChMotion(2,3);
     VoicePlay("B010200001_02_090");
     MsgDisp("Sassa","I see, I'm glad.
-Well then, I'll just have to make it up to you today!");
+Well then, I'll just have to make it up to
+you today!");
     MsgDispSksp(1,0);
     ChEye(2,0);
     ChMouth(2,4);

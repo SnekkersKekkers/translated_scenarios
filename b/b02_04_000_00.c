@@ -15,5 +15,5 @@ MsgDisp("Nanatsumori","Not weird.
 I like it. I may not be able to take my eyes
 off you today.");
 MsgDisp("主人公","(I'm glad!
-｛Nanatsumori＊｝ seems to really like this kind of
-fashion!)");
+｛Nanatsumori＊｝ seems to really like this
+kind of fashion!)");

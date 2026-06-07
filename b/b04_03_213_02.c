@@ -47,7 +47,8 @@ I had some strong ramen earlier.");
         ChMotion(3,2);
         ChEyeOpenLevel(3,8);
         VoicePlay("B040321302_03_030");
-        MsgDisp("Honda","But then we'd never figure out the real cause.");
+        MsgDisp("Honda","But then we'd never figure out the real
+cause.");
         MsgDateResultDisp();
         break ;
         case 4:

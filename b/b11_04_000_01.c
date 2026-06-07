@@ -91,8 +91,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B110400001_04_060");
-MsgDisp("Nanatsumori","Anyway, we're off to ride that \"Big Wave\"
-or whatever it was.
+MsgDisp("Nanatsumori","Anyway, we're off to ride that \"Big Wave\" or
+whatever it was.
 See ya～");
 MsgDispSksp(0);
 ChEye(34,1);

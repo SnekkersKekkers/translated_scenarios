@@ -6,8 +6,8 @@ ChMouth(2,3);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040206102_02_000");
-MsgDisp("Sassa","Those watermelon beach balls always get
-me pumped.");
+MsgDisp("Sassa","Those watermelon beach balls always get me
+pumped.");
 MsgSel("It's perfect for the beach","Makes me want to eat watermelon","The orca floaty would be good");
 switch (MsgSelRsltGet()){
     case 0:

@@ -49,8 +49,8 @@ VoicePlay("B360450400_04_050");
 MsgDisp("Nanatsumori","I got carried away, and before I knew it, I
 was chasing after you.");
 VoicePlay("B360450400_04_060");
-MsgDisp("Nanatsumori","I just couldn't hold back this feeling, wanting
-to be with you in a moment like this.");
+MsgDisp("Nanatsumori","I just couldn't hold back this feeling,
+wanting to be with you in a moment like this.");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,1,1);

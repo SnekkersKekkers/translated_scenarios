@@ -54,8 +54,8 @@ ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B070100001_01_070");
 MsgDisp("Kazama","Oi, it's no laughing matter.
-It's terrifying having someone faster than you
-chasing you down while laughing.");
+It's terrifying having someone faster than
+you chasing you down while laughing.");
 MsgDisp("主人公","(｛Kazama＊＊｝, you really do remember the
 past well.)");
 BGMStop();

@@ -6,8 +6,8 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040206200_02_000");
 MsgDisp("Sassa","Whoa...
-It feels like a whole different world
-from the beach.");
+It feels like a whole different world from
+the beach.");
 MsgSel("The air feels so nice and cool.","Is the water deep here?","The water's surface shines blue like a jewel...");
 switch (MsgSelRsltGet()){
     case 0:

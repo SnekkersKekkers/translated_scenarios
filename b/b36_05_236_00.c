@@ -55,7 +55,8 @@ ChLayout(0);
 MsgClose();
 ChOpen(5,255,0,3,4,#1,#1,0,0,0,30);
 VoicePlay("B360523600_05_060");
-MsgDisp("Hiiragi","See? Now you're all I can see.");
+MsgDisp("Hiiragi","See?
+Now you're all I can see.");
 MsgDisp("主人公","Um...
 ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);

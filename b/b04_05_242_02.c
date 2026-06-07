@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
         ChMotion(5,4);
         VoicePlay("B040524201_05_010");
         MsgDisp("Hiiragi","No.
-I just think a hammock out in nature
-would feel nice.");
+I just think a hammock out in nature would
+feel nice.");
         MsgDateResultDisp();
         break ;
         case 4:

@@ -34,8 +34,8 @@ it, which is troubling.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B070500000_05_340");
-MsgDisp("Hiiragi","It's a steep road, so getting there
-won't be simple.");
+MsgDisp("Hiiragi","It's a steep road, so getting there won't be
+simple.");
 MsgDisp("主人公","(As I thought, being a chairman is tough...)");
 BGMStop();
 MsgClose();

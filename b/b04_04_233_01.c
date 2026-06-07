@@ -38,8 +38,8 @@ Everyone born in that country is a hero...");
     ChMotion(4,0,1);
     VoicePlay("B040423301_04_030");
     MsgDisp("Nanatsumori","I don't get it at all either.
-So why do we even bother doing
-something we can't make sense of?");
+So why do we even bother doing something we
+can't make sense of?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

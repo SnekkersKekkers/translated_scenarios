@@ -48,8 +48,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B140500100_05_040");
 MsgDisp("Hiiragi","Yes. Rather, I wish you would be able to
-stand on the same stage as me.
-That's the kind of thing I catch myself thinking.");
+stand on the same stage as me. That's the
+kind of thing I catch myself thinking.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

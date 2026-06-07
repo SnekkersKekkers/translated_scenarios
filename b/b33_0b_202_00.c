@@ -85,8 +85,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20200_03_040");
-MsgDisp("Honda","No matter how he behaved, whenever he fell for
-a woman, a romance was born.");
+MsgDisp("Honda","No matter how he behaved, whenever he fell
+for a woman, a romance was born.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

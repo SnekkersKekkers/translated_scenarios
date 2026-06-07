@@ -27,7 +27,8 @@ It's the same for me anywhere.");
     ChMouth(7,1);
     ChMotion(7,3);
     VoicePlay("B040723101_07_020");
-    MsgDisp("Mikage","Must be nice, being able to enjoy it anywhere.");
+    MsgDisp("Mikage","Must be nice, being able to enjoy it
+anywhere.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

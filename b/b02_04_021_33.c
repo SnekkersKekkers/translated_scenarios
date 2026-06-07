@@ -12,8 +12,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B020402129_04_010");
-MsgDisp("Nanatsumori","Yeah. 
-When the person and the clothes 
-click, the result's amazing.");
+MsgDisp("Nanatsumori","Yeah.
+When the person and the clothes click, the
+result's amazing.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ seems to have really come to
 like this kind of outfit!)");

@@ -17,8 +17,8 @@ ChMotion(5,0);
 ChCheek(5,0);
 VoicePlay("B150500400_05_020");
 MsgDisp("Hiiragi","I've told you before.
-I've already hit my limit staying my
-usual self.");
+I've already hit my limit staying my usual
+self.");
 MsgDisp("主人公","...Yeah.");
 ChEye(5,0);
 VoicePlay("B150500400_05_030");

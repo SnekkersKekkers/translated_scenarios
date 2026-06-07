@@ -47,7 +47,8 @@ the carpet.");
         MsgDisp("Hiiragi","No no, that's the fun part.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040521302_05_040");
-        MsgDisp("Hiiragi","After the lint roller goes over it, you've got a spotless carpet.");
+        MsgDisp("Hiiragi","After the lint roller goes over it, you've
+got a spotless carpet.");
         ChEyeOpenLevel(5,#1);
         MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, do you like cleaning?");
         ChEye(5,3);

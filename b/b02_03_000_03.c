@@ -12,5 +12,5 @@ VoicePlay("B020300003_03_010");
 MsgDisp("Honda","It's not bad, I think?
 But I think there are other clothes that suit
 you much better.");
-MsgDisp("主人公","(Hmm, ｛Honda＊＊｝ doesn't seem to like
-this kind of fashion much.)");
+MsgDisp("主人公","(Hmm, ｛Honda＊＊｝ doesn't seem to like this
+kind of fashion much.)");

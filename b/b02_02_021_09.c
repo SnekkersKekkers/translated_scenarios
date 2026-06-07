@@ -2,8 +2,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0,1);
 VoicePlay("B020202109_02_000");
-MsgDisp("Sassa","Dressing like that, are you trying to
-match my style?");
+MsgDisp("Sassa","Dressing like that, are you trying to match
+my style?");
 MsgDisp("主人公","Yeah, I wanted a sporty look!");
 ChEye(2,3);
 ChMouth(2,3);

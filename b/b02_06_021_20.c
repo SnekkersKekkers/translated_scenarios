@@ -12,5 +12,5 @@ MsgDisp("Himuro","So you can pull off a wild look like that
 too.
 Hmm.");
 MsgDisp("主人公","(I'm glad!
-｛Himuro＊＊｝ seems to like clothes like
-these, too!)");
+｛Himuro＊＊｝ seems to like clothes like these,
+too!)");

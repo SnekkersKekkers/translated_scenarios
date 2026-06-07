@@ -1,5 +1,4 @@
-MsgDisp("主人公","What's your dream for the future,
-｛Himuro＊＊｝?");
+MsgDisp("主人公","What's your dream for the future, ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

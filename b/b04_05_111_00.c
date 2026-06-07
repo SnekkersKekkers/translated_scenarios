@@ -42,8 +42,8 @@ Yes, your appearance lives up to your name.");
     ChMotion(5,2);
     VoicePlay("B040511100_05_030");
     MsgDisp("Hiiragi","Is that so.
-H—m... If we don't want to fall, all we can do is
-stand here...");
+H—m... If we don't want to fall, all we can
+do is stand here...");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

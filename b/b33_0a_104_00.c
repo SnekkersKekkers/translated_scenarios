@@ -72,8 +72,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10400_01_020");
-MsgDisp("Kazama","Of course the one most likely to pull a sneaky
-move would say that.");
+MsgDisp("Kazama","Of course the one most likely to pull a
+sneaky move would say that.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);

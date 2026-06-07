@@ -90,7 +90,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070101000_01_100");
 MsgDisp("Kazama","Haa—, fine.
 Maybe I'm observing you too much.");
-MsgDisp("主人公","But, it could also be as ｛Kazama＊＊｝ thinks—");
+MsgDisp("主人公","But, it could also be as ｛Kazama＊＊｝
+thinks—");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);

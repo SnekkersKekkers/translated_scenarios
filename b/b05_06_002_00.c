@@ -72,7 +72,8 @@ Do you really like being alone that much?");
 SEPlay("EV_SE_838");
 SEWait();
 MsgDisp("主人公","(That black cat...
-It's the one that was hiding in the corner earlier!)");
+It's the one that was hiding in the corner
+earlier!)");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("B050600200_06_080");

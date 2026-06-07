@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040318100_03_000");
     MsgDisp("Honda","Is that so?
-It was just about running, so I got
-tired of it.");
+It was just about running, so I got tired of
+it.");
     MsgDateResultDisp();
     break ;
     case 1:

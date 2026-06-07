@@ -11,5 +11,5 @@ ChMotion(6,0);
 VoicePlay("B020602116_06_010");
 MsgDisp("Himuro","It's good taste.");
 MsgDisp("主人公","(I'm glad!
-｛Himuro＊＊｝ seems to like clothes like
-these, too!)");
+｛Himuro＊＊｝ seems to like clothes like these,
+too!)");

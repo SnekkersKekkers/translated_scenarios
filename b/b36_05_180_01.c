@@ -28,9 +28,9 @@ see it too.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B360518001_05_030");
-MsgDisp("Hiiragi","Yeah. But the four of us lined up watching a
-movie together would be quite the funny
-sight.");
+MsgDisp("Hiiragi","Yeah.
+But the four of us lined up watching a movie
+together would be quite the funny sight.");
 MsgDisp("主人公","Does it really?");
 ChEye(5,4);
 VoicePlay("B360518001_05_040");

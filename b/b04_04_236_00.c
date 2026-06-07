@@ -24,7 +24,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040423600_04_010");
     MsgDisp("Nanatsumori","Oh, it's colorful.
-It's just about the perfect moment for a photo.");
+It's just about the perfect moment for a
+photo.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

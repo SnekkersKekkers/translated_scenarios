@@ -24,7 +24,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040323300_03_020");
     MsgDisp("Honda","Is that so?
-I'm glad. Seeing eye to eye on things really is the most important thing.");
+I'm glad. Seeing eye to eye on things really
+is the most important thing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -25,8 +25,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B070400000_04_090");
-MsgDisp("Nanatsumori","A dessert piled with cream right after
-your mouth's burning from the spice.
+MsgDisp("Nanatsumori","A dessert piled with cream right after your
+mouth's burning from the spice.
 Supreme.");
 MsgDisp("主人公","Hmm...
 But, if you do that every meal, won't that

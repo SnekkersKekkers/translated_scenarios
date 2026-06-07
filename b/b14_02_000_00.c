@@ -29,7 +29,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B140200000_02_020");
-MsgDisp("Sassa","Limited time, huh... I like that.");
+MsgDisp("Sassa","Limited time, huh...
+I like that.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

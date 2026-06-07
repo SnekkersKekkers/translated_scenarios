@@ -4,7 +4,8 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160500100_05_000");
 MsgDisp("Hiiragi","Well, I can't just let that slide...
-It's about time I returned the favor, isn't it?");
+It's about time I returned the favor, isn't
+it?");
 MsgSel("Yes, by all means","T-That's a bit...");
 switch (MsgSelRsltGet()){
     case 0:

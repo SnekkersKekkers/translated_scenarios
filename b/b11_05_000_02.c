@@ -49,7 +49,8 @@ ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("B110500002_05_010");
 MsgDisp("Hiiragi","I am the chairman of the Habataki Theater
-Company. I am Hiiragi Yanosuke.");
+Company.
+I am Hiiragi Yanosuke.");
 MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);

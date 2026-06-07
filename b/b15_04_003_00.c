@@ -25,7 +25,8 @@ VoicePlay("B150400300_04_040");
 MsgDisp("Nanatsumori","Yeah, that's even worse.
 It's just provoking me—.");
 MsgDisp("主人公","Ugh...
-｛Nanatsumori＊｝, you're not acting like yourself?");
+｛Nanatsumori＊｝, you're not acting like
+yourself?");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,1,1);

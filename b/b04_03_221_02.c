@@ -36,8 +36,8 @@ the castle.");
         ChMotion(3,1);
         VoicePlay("B040322102_03_030");
         MsgDisp("Honda","Definitely.
-Back then, all you could do was hole up
-in the castle and wait for reinforcements.");
+Back then, all you could do was hole up in
+the castle and wait for reinforcements.");
         MsgDisp("主人公","What if help never came?");
         ChEye(3,0);
         ChMouth(3,3);

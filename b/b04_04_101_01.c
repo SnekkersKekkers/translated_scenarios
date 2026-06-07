@@ -24,8 +24,8 @@ Think about where we are.");
     DateRateSet(2);
     ChMotion(4,2,1);
     VoicePlay("B040410101_04_020");
-    MsgDisp("Nanatsumori","Isn't that, like, a once-in-a-lifetime
-kind of thing?");
+    MsgDisp("Nanatsumori","Isn't that, like, a once-in-a-lifetime kind
+of thing?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

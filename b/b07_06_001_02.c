@@ -24,7 +24,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600001_06_120");
 MsgDisp("Himuro","But he's a smart person.");
-MsgDisp("主人公","If you're the one saying it, ｛Himuro＊＊｝, it's gotta be true.");
+MsgDisp("主人公","If you're the one saying it, ｛Himuro＊＊｝, it's
+gotta be true.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -51,7 +52,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_160");
-MsgDisp("Himuro","But him pushing the decathlon on me of all people? Total nonsense.");
+MsgDisp("Himuro","But him pushing the decathlon on me of all
+people?
+Total nonsense.");
 MsgDisp("主人公","(｛Himuro＊＊｝ recognizes ｛Sassa＊＊｝ in his own
 way, doesn't he?)");
 BGMStop();

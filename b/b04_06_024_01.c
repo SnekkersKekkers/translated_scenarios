@@ -25,8 +25,8 @@ It was a weird sound.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040602401_06_020");
-    MsgDisp("Himuro","Maybe an ordinary sense of taste can't
-grasp it.
+    MsgDisp("Himuro","Maybe an ordinary sense of taste can't grasp
+it.
 Art really is hard to understand.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

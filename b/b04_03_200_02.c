@@ -56,8 +56,8 @@ a uniform beauty.");
         MsgDisp("Honda","If I could really take my time looking, I bet
 I'd discover all kinds of things.
 But that's hard to do while skiing.");
-        MsgDisp("主人公","Then, why don't we do what ｛Honda＊＊｝
-wants to do today?");
+        MsgDisp("主人公","Then, why don't we do what ｛Honda＊＊｝ wants
+to do today?");
         ChSet(3,5);
         VoicePlay("B040320002_03_050");
         MsgDisp("Honda","Eh!");

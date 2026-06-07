@@ -53,8 +53,8 @@ someone I know.");
         ChMotion(1,0);
         VoicePlay("B040108202_01_040");
         MsgDisp("Kazama","Listen, the things we talk about, they're
-important to me. I don't need to ride some impulse and just
-'blurt it all out'.");
+important to me. I don't need to ride some
+impulse and just 'blurt it all out'.");
         MsgDisp("主人公","I'm sorry...
 I really said some careless stuff.");
         ChEyeOpenLevel(1,0);

@@ -28,9 +28,9 @@ If it were human, it'd need a new diet!");
     DateRateSet(4);
     ChSet(3,3);
     VoicePlay("B040303201_03_020");
-    MsgDisp("Honda","Right, the long tube-shaped tank here
-makes it special. On land and underwater 
-give completely different impressions!");
+    MsgDisp("Honda","Right, the long tube-shaped tank here makes
+it special. On land and underwater give
+completely different impressions!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

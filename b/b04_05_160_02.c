@@ -24,9 +24,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMouth(5,2);
     VoicePlay("B040516002_05_020");
-    MsgDisp("Hiiragi","The way the bear is shaped gives the 
-claw little to grip... but I'll give 
-it a try.");
+    MsgDisp("Hiiragi","The way the bear is shaped gives the claw
+little to grip... but I'll give it a try.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

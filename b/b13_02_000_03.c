@@ -15,5 +15,5 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B130200003_02_010");
 MsgDisp("Sassa","A skirt that short...
-Yeah, no, I'm telling you,
-I'm definitely gonna look.");
+Yeah, no, I'm telling you, I'm definitely
+gonna look.");

@@ -111,8 +111,8 @@ You seem to enjoy teaching other people,
         ChMotion(3,2);
         VoicePlay("B040308102_03_110");
         MsgDisp("Honda","Huh?
-Umm... you were supposed to just agree with me
-there...");
+Umm... you were supposed to just agree with
+me there...");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,5);

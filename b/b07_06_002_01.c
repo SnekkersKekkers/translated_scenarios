@@ -11,7 +11,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600002_06_020");
-MsgDisp("Himuro","The moment it's about the troupe, he gets this troupe-leader look on his face. It's cool. I respect that.");
+MsgDisp("Himuro","The moment it's about the troupe, he gets
+this troupe-leader look on his face.
+It's cool. I respect that.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -11,6 +11,6 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B020600008_06_010");
-MsgDisp("Himuro","It's a bit of a bandwagon thing, but you
-pull it off, so I'm not complaining.");
+MsgDisp("Himuro","It's a bit of a bandwagon thing, but you pull
+it off, so I'm not complaining.");
 MsgDisp("主人公","(I'm glad I checked it out properly.▼)");

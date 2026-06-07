@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040220002_02_020");
     MsgDisp("Sassa","I see.
-No point in it if you don't push
-yourself, right?");
+No point in it if you don't push yourself,
+right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

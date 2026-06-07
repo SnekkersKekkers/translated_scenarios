@@ -116,8 +116,8 @@ ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("B330C10701_05_060");
-MsgDisp("Hiiragi","I figured you'd say that. Let's give it our
-all this last time!");
+MsgDisp("Hiiragi","I figured you'd say that.
+Let's give it our all this last time!");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

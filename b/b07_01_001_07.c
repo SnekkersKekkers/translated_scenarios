@@ -22,8 +22,7 @@ ChMotion(1,0);
 VoicePlay("B070100001_01_360");
 MsgDisp("Kazama","Eh...");
 MsgDisp("主人公","It's not my health...
-Maybe it's because I'm with
-｛Kazama＊＊｝...");
+Maybe it's because I'm with ｛Kazama＊＊｝...");
 ChEye(1,3);
 ChMouth(1,1);
 ChMotion(1,5);

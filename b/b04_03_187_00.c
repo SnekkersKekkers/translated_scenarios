@@ -32,8 +32,8 @@ It was just like the trailer.");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040318700_03_020");
-    MsgDisp("Honda","That's right. But thanks to that, I get to talk
-with you about all sorts of things.
+    MsgDisp("Honda","That's right. But thanks to that, I get to
+talk with you about all sorts of things.
 It's mostly critiques, though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

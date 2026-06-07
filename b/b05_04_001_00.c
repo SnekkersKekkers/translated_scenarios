@@ -172,8 +172,8 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B050400100_04_160");
-MsgDisp("Nanatsumori","Instead of that kind of 'heroic display', I should
-have shown you something...cooler.");
+MsgDisp("Nanatsumori","Instead of that kind of 'heroic display', I
+should have shown you something...cooler.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,2);
 ChMouth(4,3);

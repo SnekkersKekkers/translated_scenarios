@@ -38,8 +38,8 @@ Then, let's play another game.");
     ChEye(8,0);
     ChMouth(8,4);
     VoicePlay("B040816001_08_030");
-    MsgDisp("Shirahane","That's fine, but...
-it's not easy for a beginner, y'know?");
+    MsgDisp("Shirahane","That's fine, but... it's not easy for a
+beginner, y'know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

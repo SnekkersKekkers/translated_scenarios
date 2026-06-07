@@ -60,8 +60,8 @@ any situation.");
 That's kind of surprising.");
         ChEyeOpenLevel(4,#1);
         MsgDisp("主人公","Really?
-Your work photos always show a
-whole different world, ｛Nanatsumori＊｝.");
+Your work photos always show a whole
+different world, ｛Nanatsumori＊｝.");
         ChEye(4,5);
         ChMouth(4,2);
         ChMotion(4,0,1);

@@ -5,8 +5,8 @@ ChMouth(4,3);
 ChMotion(4,3);
 ScrFadeIn(0);
 VoicePlay("B040402202_04_000");
-MsgDisp("Nanatsumori","A photo just can't capture everything about
-a 360-degree panorama like this...");
+MsgDisp("Nanatsumori","A photo just can't capture everything about a
+360-degree panorama like this...");
 MsgSel("You can't experience it with a photograph","It's all about photos...","Maybe it's an issue with your technique, ｛Nanatsumori＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040402202_04_010");
     MsgDisp("Nanatsumori","Yeah, exactly. No matter how much you edit it
-to look nice, there's no sea breeze
-blowing from a photograph.");
+to look nice, there's no sea breeze blowing
+from a photograph.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

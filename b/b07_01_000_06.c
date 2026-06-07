@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, ｛Kazama＊＊｝, what were you like in middle
-school?");
+MsgDisp("主人公","Hey, ｛Kazama＊＊｝, what were you like in
+middle school?");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,4);

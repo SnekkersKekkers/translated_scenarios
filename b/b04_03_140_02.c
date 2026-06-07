@@ -45,8 +45,7 @@ songs would be good too.");
         ChMotion(3,5);
         VoicePlay("B040314002_03_030");
         MsgDisp("Honda","Eh—, that's harsh.
-I'm not really good with group stuff,
-though.");
+I'm not really good with group stuff, though.");
         MsgDateResultDisp();
         break ;
         case 4:

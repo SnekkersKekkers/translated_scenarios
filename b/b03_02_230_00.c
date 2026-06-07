@@ -38,8 +38,8 @@ You can't go wrong there.");
     ChMotion(2,0);
     VoicePlay("B030223000_02_030");
     MsgDisp("Sassa","Seriously?
-Well, I'm the one who asked,
-so I guess I can't complain.");
+Well, I'm the one who asked, so I guess I
+can't complain.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040203300_02_010");
-    MsgDisp("Sassa","Yeah, big things feel kind of relatable to me.");
+    MsgDisp("Sassa","Yeah, big things feel kind of relatable to
+me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

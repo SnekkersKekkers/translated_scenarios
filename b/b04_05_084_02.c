@@ -5,8 +5,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040508402_05_000");
-MsgDisp("Hiiragi","The red leaves look lovely on the blue water's
-surface, don't they?");
+MsgDisp("Hiiragi","The red leaves look lovely on the blue
+water's surface, don't they?");
 MsgSel("It really touches your heart, doesn't it?","Yeah, instagrammable, instagrammable.","It makes you feel calm.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,7 +47,8 @@ wanting to take a picture.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040508402_05_040");
-        MsgDisp("Hiiragi","Is that so? Then I'll start using it too.");
+        MsgDisp("Hiiragi","Is that so?
+Then I'll start using it too.");
         MsgDisp("主人公","Hehe, yeah.");
         ChEye(5,2);
         ChMotion(5,4);

@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040203201_02_000");
-MsgDisp("Sassa","A huge tank out in the open like this
-must be a pain to maintain.");
+MsgDisp("Sassa","A huge tank out in the open like this must be
+a pain to maintain.");
 MsgSel("Yeah, when it rains...","What about snowy days?","Does lightning strike the water?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040203201_02_010");
-    MsgDisp("Sassa","Right? Wouldn't it overflow?");
+    MsgDisp("Sassa","Right?
+Wouldn't it overflow?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

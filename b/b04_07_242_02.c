@@ -44,8 +44,8 @@ would be like to live together.");
         VoicePlay("B040724202_07_030");
         MsgDisp("Mikage","But what I'm talking about, is more like
 seeing the other person's vitality.");
-        MsgDisp("主人公","｛Mikage＊＊｝, your vitality's so strong I can
-see it even on a normal day, you know?");
+        MsgDisp("主人公","｛Mikage＊＊｝, your vitality's so strong I
+can see it even on a normal day, you know?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);

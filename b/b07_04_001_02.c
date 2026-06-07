@@ -5,8 +5,8 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_100");
 MsgDisp("Nanatsumori","For sure.
-Even I was dead set on never having
-anything to do with Dahon.");
+Even I was dead set on never having anything
+to do with Dahon.");
 MsgDisp("主人公","Hmmm...");
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_110");

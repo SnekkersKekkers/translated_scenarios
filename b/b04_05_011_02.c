@@ -53,7 +53,8 @@ asked anyways.");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040501102_05_050");
-        MsgDisp("Hiiragi","You're so kind. Compared to you, I'm the dishonest one.");
+        MsgDisp("Hiiragi","You're so kind.
+Compared to you, I'm the dishonest one.");
         MsgDisp("主人公","Eh, that's not true?");
         ChMouth(5,4);
         ChMotion(5,2);

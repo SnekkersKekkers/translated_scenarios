@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,1);
     VoicePlay("B040204100_02_000");
     MsgDisp("Sassa","Like I expected from the champion!
-His way he maintained distance between
-him the other guy was perfect∈");
+His way he maintained distance between him
+the other guy was perfect∈");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,8 +34,8 @@ It was a pretty good match.");
     ChMotion(2,2);
     ChEyeOpenLevel(2,7);
     VoicePlay("B040204100_02_020");
-    MsgDisp("Sassa","If this match was bad, none of them
-would ever satisfy you.");
+    MsgDisp("Sassa","If this match was bad, none of them would
+ever satisfy you.");
     MsgDateResultDisp();
     break ;
     default :

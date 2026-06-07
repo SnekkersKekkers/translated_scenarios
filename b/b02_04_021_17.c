@@ -5,8 +5,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1);
 VoicePlay("B020402117_04_000");
-MsgDisp("Nanatsumori","You're really good at coordinating
-natural colors and materials.");
+MsgDisp("Nanatsumori","You're really good at coordinating natural
+colors and materials.");
 MsgDisp("主人公","Thank you!");
 ChEye(4,0);
 ChMouth(4,0);

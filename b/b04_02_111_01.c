@@ -18,7 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040211101_02_010");
     MsgDisp("Sassa","Totally like a spinning top.
-They stop on a dime, then strike a signature pose at the end. How do they even do that?");
+They stop on a dime, then strike a signature
+pose at the end. How do they even do that?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

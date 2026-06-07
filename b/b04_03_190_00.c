@@ -26,8 +26,8 @@ into entertainment.");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040319000_03_010");
     MsgDisp("Honda","Same here, totally agree.
-I like history, but that kind of
-far-fetched theory is a bit much.");
+I like history, but that kind of far-fetched
+theory is a bit much.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

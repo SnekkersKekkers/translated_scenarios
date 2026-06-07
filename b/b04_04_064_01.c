@@ -29,7 +29,8 @@ Is that really okay?");
 ChMotion(4,1,1);
 VoicePlay("B040406401_04_040");
 MsgDisp("Nanatsumori","It's alright.
-I can dodge them by saying \"I'm working right now.\".");
+I can dodge them by saying \"I'm working right
+now.\".");
 MsgDisp("主人公","Oh, I see...
 Is this also a part of your work?");
 ChEye(4,4);
@@ -44,7 +45,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B040406401_04_060");
-MsgDisp("Nanatsumori","You're the one who asked and now you're embarrassed?
+MsgDisp("Nanatsumori","You're the one who asked and now you're
+embarrassed?
 How funny.");
 MsgDisp("主人公","Hey, ｛Nanatsumori＊｝!");
 SEPlay("EV_SE_022",1);

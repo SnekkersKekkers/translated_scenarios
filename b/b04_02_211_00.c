@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040221100_02_010");
-    MsgDisp("Sassa","Sure, but that's the classic setup for
-the monkeys to swipe your stuff.");
+    MsgDisp("Sassa","Sure, but that's the classic setup for the
+monkeys to swipe your stuff.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

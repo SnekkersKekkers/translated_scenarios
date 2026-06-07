@@ -35,7 +35,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040506101_05_030");
     MsgDisp("Hiiragi","Sounds good.
-But it'll probably feel different from a pool.");
+But it'll probably feel different from a
+pool.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

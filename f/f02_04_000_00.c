@@ -4,7 +4,8 @@ ChMotion(4,0);
 ChCheek(4,0);
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I had fun walking home with ｛Nanatsumori＊｝.)");
+MsgDisp("主人公","(I had fun walking home with
+｛Nanatsumori＊｝.)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(4,0,0);

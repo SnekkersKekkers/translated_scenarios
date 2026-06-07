@@ -23,7 +23,8 @@ switch (MsgSelRsltGet()){
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_010");
-        MsgDisp("Hiiragi","No matter how much you say it, I just can't take it seriously.");
+        MsgDisp("Hiiragi","No matter how much you say it, I just can't
+take it seriously.");
         MsgDateResultDisp();
         break ;
         case 4:

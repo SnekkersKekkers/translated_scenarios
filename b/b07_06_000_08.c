@@ -30,7 +30,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_470");
-MsgDisp("Himuro","But, you know. They say you fall for someone before you even realize it, right? So who's got time to worry about types?");
+MsgDisp("Himuro","But, you know. They say you fall for someone
+before you even realize it, right?
+So who's got time to worry about types?");
 MsgDisp("主人公","(I see...that's a good point.)");
 BGMStop();
 MsgClose();

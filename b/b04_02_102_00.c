@@ -38,7 +38,8 @@ interested.");
     ChMotion(2,3);
     VoicePlay("B040210200_02_030");
     MsgDisp("Sassa","Hmm.
-You next to a big motorcycle, that contrast would be nice.");
+You next to a big motorcycle, that contrast
+would be nice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

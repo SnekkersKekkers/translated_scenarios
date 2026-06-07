@@ -78,8 +78,8 @@ I made you feel weird.");
         ChMotion(4,1,1);
         VoicePlay("B040403102_04_060");
         MsgDisp("Nanatsumori","Look.
-If I'm causing you to make that face, there was no
-point in me coming here today.");
+If I'm causing you to make that face, there
+was no point in me coming here today.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,2,1);
