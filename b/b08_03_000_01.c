@@ -6,7 +6,7 @@ MsgClose();
 BGOpen("ho000",2);
 ChOpen(3,253,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Thank you for walking me home.");
+MsgDisp("主人公","Thanks for walking me home.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

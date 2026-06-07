@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B040811100_08_000");
 MsgDisp("Shirahane","Hey, can ya skate?");
-MsgSel("Call me a princess on the ice!","It's to the point I won't fall over...","I was hoping you could teach me...");
+MsgSel("Call me the Princess of Ice!","Enough that I won't fall down...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

@@ -91,8 +91,8 @@ different that we can respect the other?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040403302_04_080");
-        MsgDisp("Nanatsumori","Isn't it super fun to have someone you can
-share your empathy and discomfort with?");
+        MsgDisp("Nanatsumori","Isn't it fun having someone you can share
+your true opinions with?");
         MsgDisp("主人公","Yep!");
         ChEye(4,4);
         ChMouth(4,3);

@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040611100_06_000");
 MsgDisp("Himuro","By the way, can you ice skate?");
-MsgSel("Call me the princess on ice!","It's to the point I won't fall...","I was hoping you could teach me...");
+MsgSel("Call me the Princess of Ice!","Enough that I won't fall down...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

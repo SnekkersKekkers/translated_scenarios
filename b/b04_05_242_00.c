@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040524200_05_000");
 MsgDisp("Hiiragi","We have many different tools.
 Alright, let's start preparing.");
-MsgSel("｛Hiiragi＊＊＊｝, I'm counting on you♪","Camping means ＢＢＱ!","It seems like a lot of trouble...");
+MsgSel("｛Hiiragi＊＊＊｝, I'm counting on you♪","Camping means BBQ!","Seems like a lot of hassle...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

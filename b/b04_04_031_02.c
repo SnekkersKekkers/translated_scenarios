@@ -20,9 +20,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040403102_04_010");
-    MsgDisp("Nanatsumori","A sushi restaurant in an aquarium?
-Damn. That's too edgy!
-The person who came up with that is a genius.");
+    MsgDisp("Nanatsumori","A sushi place inside an aquarium?
+Damn, that's way out there!
+Whoever thought of that is a genius.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -78,8 +78,8 @@ I made you feel weird.");
         ChMotion(4,1,1);
         VoicePlay("B040403102_04_060");
         MsgDisp("Nanatsumori","Look.
-If I'm causing you to make that face, there
-was no point for me to have come here today.");
+If I'm causing you to make that face, there was no
+point in me coming here today.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,2,1);

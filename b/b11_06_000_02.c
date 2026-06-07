@@ -1,7 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛Himuro＊＊｝ hasn't arrived yet...");
+MsgDisp("主人公","Seems like ｛Himuro＊＊｝ isn't here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

@@ -78,9 +78,9 @@ focus on the commentary.");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040405102_04_070");
-        MsgDisp("Nanatsumori","In the dim light of the starry sky, the
-romantic stories of constellations tickle my
-ears.");
+        MsgDisp("Nanatsumori","In the dim glow of the starry sky, the
+romantic tales of the constellations drift
+into my ears.");
         MsgDisp("主人公","Yeah...");
         VoicePlay("B040405102_04_080");
         MsgDisp("Nanatsumori","There are also lots of love stories.");

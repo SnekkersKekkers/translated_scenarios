@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040424200_04_000");
 MsgDisp("Nanatsumori","Well then.
 Where should we start...");
-MsgSel("｛Nanatsumori＊｝, I'm counting on you♪","Camping means barbecue!","It seems like it'll be inconvenient and tough...");
+MsgSel("｛Nanatsumori＊｝, I'm counting on you♪","Camping means BBQ!","Seems like a lot of hassle...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

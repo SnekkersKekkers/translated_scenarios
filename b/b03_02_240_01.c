@@ -8,7 +8,7 @@ VoicePlay("B030224001_02_000");
 MsgDisp("Sassa","Ahh...～
 This is a great place.
 The air is so crisp, too.");
-MsgSel("I wonder if there are animals?","Want to head to the campground?");
+MsgSel("I wonder if there are animals?","Want to head to the campsite?");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

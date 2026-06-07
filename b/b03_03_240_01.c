@@ -8,7 +8,7 @@ VoicePlay("B030324001_03_000");
 MsgDisp("Honda","...Ahh.
 The air is rich with oxygen and the smell of
 animals. The Ranch is the best!");
-MsgSel("I wonder if there are animals?","Want to head to the campground?");
+MsgSel("I wonder if there are animals?","Want to head to the campsite?");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

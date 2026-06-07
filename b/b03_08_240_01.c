@@ -4,7 +4,7 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
-MsgSel("I wonder if there are animals?","Want to head to the camp ground?");
+MsgSel("I wonder if there are animals?","Want to head to the campsite?");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040230000_02_000");
 MsgDisp("Sassa","It's kind of wild that you're actually in my
 house.");
-MsgSel("This is a lovely room!","It's a very boyish room.","...It's a unique room huh?");
+MsgSel("This is a lovely room!","It's a very boyish room.","...It's a unique room, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

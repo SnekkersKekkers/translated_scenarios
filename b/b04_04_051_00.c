@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040405100_04_000");
-MsgDisp("Nanatsumori","The manmade starry sky was a nice touch too.
-It was lightly educational too.");
+MsgDisp("Nanatsumori","A man-made starry sky isn't half bad either.
+Kinda learned a thing or two, as well.");
 MsgSel("The starry sky was romantic.","｛Nanatsumori＊｝, did you fall asleep?","The seat was so fluffy I fell asleep...");
 switch (MsgSelRsltGet()){
     case 0:

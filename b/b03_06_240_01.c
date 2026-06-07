@@ -8,7 +8,7 @@ VoicePlay("B030624001_06_000");
 MsgDisp("Himuro","Habataki really has everything.");
 MsgDisp("主人公","It's nice that we can enjoy such a peaceful
 atmosphere.");
-MsgSel("Are there animals?","Let's visit the campsite");
+MsgSel("Are there animals?","Want to head to the campsite?");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

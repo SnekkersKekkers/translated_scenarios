@@ -1,8 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Looks like ｛Sassa＊＊｝ still isn't here
-yet...");
+MsgDisp("主人公","Seems like ｛Sassa＊＊｝ isn't here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

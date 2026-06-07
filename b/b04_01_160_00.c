@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040116000_01_000");
 MsgDisp("Kazama","That's some loud noise.
 What should we do here?");
-MsgSel("Let's take on the medal game!","Shall we try the quiz game?","Shall we get our compatibility read?");
+MsgSel("Let's take on the medal game!","How about taking on the quiz game?","Shall we get our compatibility read?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

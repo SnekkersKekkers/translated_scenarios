@@ -6,7 +6,7 @@ MsgClose();
 ChOpen(5,253,0,0,0,#1,#1,0,0,0,0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Thank you for walking me home.");
+MsgDisp("主人公","Thanks for walking me home.");
 ChMotion(5,2);
 VoicePlay("B080500002_05_000");
 MsgDisp("Hiiragi","No, then...huh?");

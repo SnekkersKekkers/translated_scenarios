@@ -9,7 +9,7 @@ VoicePlay("B040824200_08_000");
 MsgDisp("Shirahane","It's a pretty place!
 Not only that, it's a perfect day for
 camping♪");
-MsgSel("｛Daichi＊＊｝, I'm counting on you♪","Camping means BBQ!","It seems inconvenient and tough...");
+MsgSel("｛Daichi＊＊｝, I'm counting on you♪","Camping means BBQ!","Seems like a lot of hassle...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

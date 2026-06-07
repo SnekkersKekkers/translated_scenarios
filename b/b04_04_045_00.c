@@ -35,9 +35,9 @@ The actors' performances were powerful too.");
     ChEye(4,2);
     ChMouth(4,2);
     VoicePlay("B040404500_04_020");
-    MsgDisp("Nanatsumori","You say it was a miss?
-Their chairman is the same age as us, you
-know?");
+    MsgDisp("Nanatsumori","You're calling it a miss?
+The troupe chairman is the same age as us, 
+you know?");
     MsgDateResultDisp();
     break ;
     default :

@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B030424001_04_000");
 MsgDisp("Nanatsumori","Well then.
 What should we do?");
-MsgSel("I wonder if there are animals?","Want to head to the campground?");
+MsgSel("I wonder if there are animals?","Want to head to the campsite?");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

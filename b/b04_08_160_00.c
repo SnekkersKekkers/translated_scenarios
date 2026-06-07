@@ -6,7 +6,7 @@ ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040816000_08_000");
 MsgDisp("Shirahane","So, why not play?");
-MsgSel("I want to take on the medal game!","Shall we take on the quiz game?","Shall we try getting our compatibility read?");
+MsgSel("Let's take on the medal game!","How about taking on the quiz game?","Shall we try getting our compatibility read?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

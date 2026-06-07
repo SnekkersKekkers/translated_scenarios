@@ -6,7 +6,7 @@ ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("B040224200_02_000");
 MsgDisp("Sassa","Well then, hmm, where should we put our tent?");
-MsgSel("｛Sassa＊＊｝, I'm counting on you♪","When there's camping, there's BBQs!","Seems like a lot of hassle...");
+MsgSel("｛Sassa＊＊｝, I'm counting on you♪","Camping means BBQ!","Seems like a lot of hassle...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

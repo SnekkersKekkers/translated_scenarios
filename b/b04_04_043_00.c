@@ -23,9 +23,9 @@ feel refreshed.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040404300_04_010");
-    MsgDisp("Nanatsumori","Are you a person who's picky about Rakugo?
-Damn...are you good at stories?
-If so, let me hear it.");
+    MsgDisp("Nanatsumori","Are you picky about Rakugo?
+Wait, does that mean you're good at Rakugo?
+If so, I want to hear it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

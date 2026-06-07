@@ -5,7 +5,7 @@ ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311100_03_000");
 MsgDisp("Honda","Are you good at skating?");
-MsgSel("Call me a princess on the ice ","To the point I won't fall over...","I was hoping you could teach me...");
+MsgSel("Call me the Princess of Ice!","Enough that I won't fall down...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

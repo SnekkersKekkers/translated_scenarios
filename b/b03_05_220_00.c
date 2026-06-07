@@ -15,7 +15,7 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B030522000_05_010");
 MsgDisp("Hiiragi","Let's go.");
-MsgSel("Let's go to the tower","Let's look at the exhibition");
+MsgSel("I want to see the castle tower","Let's look at the exhibition");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(5,3);

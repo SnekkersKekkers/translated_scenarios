@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040101100_01_000");
 MsgDisp("Kazama","It's no exaggeration when they say it's a
 panoramic view of the city!");
-MsgSel("Wow! I can see the sun shining on the horizon!","I can see your house from here!","It's so high up I'm almost frozen from fear...");
+MsgSel("Wow! The horizon looks like it's shining!","I can see your house from here!","It's so high, I can't move my legs...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

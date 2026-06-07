@@ -32,8 +32,8 @@ I like their coloring.");
     ChMotion(4,3,1);
     VoicePlay("B040403100_04_020");
     MsgDisp("Nanatsumori","Yeah.
-The pure color is exquisite.
-It's super stimulating.");
+That color is exquisite.
+Really gets me fired up.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

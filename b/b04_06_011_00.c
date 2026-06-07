@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040601100_06_000");
 MsgDisp("Himuro","This is quite a nice view.
 ...Yeah, not bad.");
-MsgSel("Waa! The horizon looks like it's shining!","I wonder if we can see your house, ｛Himuro＊＊｝?","It's so high up that I'm frozen with fear...");
+MsgSel("Wow! The horizon looks like it's shining!","I wonder if we can see ｛Himuro＊＊｝'s house from here?","It's so high, I can't move my legs...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
