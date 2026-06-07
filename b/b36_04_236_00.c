@@ -14,7 +14,7 @@ VoicePlay("B360423600_04_000");
 MsgDisp("Nanatsumori","This really is something you have to see in
 the summer after all.");
 MsgDisp("主人公","How wonderful...
-Why are the illuminations so beautiful?");
+Why are the lights so beautiful?");
 ChMotion(4,1,1);
 VoicePlay("B360423600_04_010");
 MsgDisp("Nanatsumori","Maybe that's the point?

@@ -65,8 +65,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600100_06_080");
-MsgDisp("Himuro","In reality, the one enjoying Christmas and
-the illuminations is me.");
+MsgDisp("Himuro","In reality, I think I enjoy seeing the 
+Christmas lights with you even more than you do.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

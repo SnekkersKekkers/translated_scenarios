@@ -74,8 +74,8 @@ I mean, maybe warm or happy...");
         ChCheek(3,10);
         VoicePlay("B040323202_03_070");
         MsgDisp("Honda","Huh?
-Could this be, the bittersweet springtime of
-youth feeling?");
+Could this be... that bittersweet feeling of
+young love?");
         SEPlay("EV_SE_GAYA_024",0.5,0.5);
         SEPlay("EV_SE_GAYA_017",1);
         SEWait();

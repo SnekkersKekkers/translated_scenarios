@@ -59,7 +59,7 @@ floating, don't you?");
         ChMotion(3,0);
         VoicePlay("B040311002_03_050");
         MsgDisp("Honda","Huh?
-Your words somewhat have a bite to them
+There's kind of a bite to your words
 today.");
         MsgDisp("主人公","Eh, that's not what I meant!");
         MsgDisp("主人公","It's just that I think it's amazing that

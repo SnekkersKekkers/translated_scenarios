@@ -95,9 +95,8 @@ SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,40,0,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020400000_04_140");
-MsgDisp("Nanatsumori","When I saw my hometown's light
-illumination on the night of the last
-christmas, I made a decision.");
+MsgDisp("Nanatsumori","When I saw my hometown's 
+christmas lights last christmas, I made a decision.");
 VoicePlay("T020400000_04_150");
 MsgDisp("Nanatsumori","That I would tell you my feelings.
 Here, in this place.");

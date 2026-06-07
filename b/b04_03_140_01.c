@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040314001_03_010");
     MsgDisp("Honda","Ehh?
-But then you won't hear the song or music.");
+But then you won't hear the music or the
+singing.");
     MsgDateResultDisp();
     break ;
     case 1:

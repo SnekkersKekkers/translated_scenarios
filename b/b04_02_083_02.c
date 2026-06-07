@@ -27,7 +27,7 @@ It's like trick art, it's interesting.");
     ChMotion(2,4);
     VoicePlay("B040208302_02_020");
     MsgDisp("Sassa","You say the funniest things sometimes.
-\"Plain as day,\" huh.");
+\"Completely visible,\" huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

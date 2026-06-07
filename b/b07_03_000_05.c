@@ -16,8 +16,9 @@ habitually...");
 MsgDisp("主人公","Don't overthink it.");
 ChMotion(3,4);
 VoicePlay("B070300000_03_270");
-MsgDisp("Honda","Okay, if it's something I do often in my free
-time, I guess I take care of creatures.");
+MsgDisp("Honda","Okay, if it's something I do a lot in my free
+time, I guess it'd be looking after living
+things.");
 MsgDisp("主人公","As in pets?");
 ChEye(3,0);
 ChMouth(3,3);

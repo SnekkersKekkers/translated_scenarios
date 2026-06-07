@@ -18,7 +18,7 @@ Then, we're in the same boat.");
     NSSEye(3,0);
     NSSMouth(3,4);
     VoicePlay("B160300000_03_020");
-    MsgDisp("Honda","Indeed.
+    MsgDisp("Honda","You're right.
 Maybe something's wrong with me?");
     break ;
     default :

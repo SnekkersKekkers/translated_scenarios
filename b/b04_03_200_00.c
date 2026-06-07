@@ -6,9 +6,9 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040320000_03_000");
-MsgDisp("Honda","Woah, you give off that vibe you know.
-That of an expert.
-Are you actually good?");
+MsgDisp("Honda","Woah, you really look the part.
+Like a total pro.
+Are you actually good at this?");
 MsgSel("You can call me the Snow Princess!","As long as I don't fall...","I want you to teach me...");
 switch (MsgSelRsltGet()){
     case 0:

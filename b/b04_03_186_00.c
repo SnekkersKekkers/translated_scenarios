@@ -21,9 +21,9 @@ That's good.");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B040318600_03_010");
-    MsgDisp("Honda","That's right, I was more interested in the
-boundary between actual stunts and the
-composites than the story itself.");
+    MsgDisp("Honda","Yeah, I was more interested in telling where
+the real stunts ended and the CGI began than
+in the story itself.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

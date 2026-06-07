@@ -62,7 +62,7 @@ ChClose(3);
 ChLayout(1);
 ChOpen(3,255,5,3,3,0,#1,0,0);
 VoicePlay("B150300500_03_080");
-MsgDisp("Honda","Ah, I feel reset now!
+MsgDisp("Honda","Ah, I feel all reset!
 Yeah, I'm good now.");
 ChEye(3,0);
 ChMouth(3,3);

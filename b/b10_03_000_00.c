@@ -13,9 +13,9 @@ MsgDisp("Honda","Hey, it's me.
 Are you still outside by any chance?");
 MsgDisp("主人公","Yeah, I am.");
 VoicePlay("B100300000_03_010");
-MsgDisp("Honda","I am too.
-I didn't want to go home feeling uneasy.
-I'm sorry about today!");
+MsgDisp("Honda","Me too.
+I didn't want to head home with things
+hanging like this. Sorry about today!");
 MsgDisp("主人公","No, I'm the one who said weird things...");
 VoicePlay("B100300000_03_020");
 MsgDisp("Honda","It's more fun saying weird things than saying

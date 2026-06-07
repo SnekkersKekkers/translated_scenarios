@@ -5,7 +5,7 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040324201_03_000");
-MsgDisp("Honda","Tent set up!");
+MsgDisp("Honda","Tent's all set up!");
 MsgSel("I might want to live here?","Let's greet the neighbors!","It's like a secret base, I'm getting excited");
 switch (MsgSelRsltGet()){
     case 0:

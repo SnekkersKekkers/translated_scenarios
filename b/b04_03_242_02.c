@@ -44,8 +44,7 @@ You do this from time to time huh.");
         ChMouth(3,0);
         ChMotion(3,2);
         VoicePlay("B040324202_03_040");
-        MsgDisp("Honda","...Maybe it's more of a reflex than a general
-reaction.");
+        MsgDisp("Honda","...Maybe it's more of a reflex than a conscious reaction.");
         MsgDisp("主人公","Eh?");
         ChEye(3,0);
         ChMouth(3,0);

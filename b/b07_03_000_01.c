@@ -17,8 +17,8 @@ ChMotion(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_030");
 MsgDisp("Honda","I love them.
-I feel like one of the participants always
-waving their hands.");
+I pretend I'm a contestant, hand up, blurting
+out answers.");
 MsgDisp("主人公","Hehe, that sounds like fun.");
 ChEye(3,4);
 ChMouth(3,4);

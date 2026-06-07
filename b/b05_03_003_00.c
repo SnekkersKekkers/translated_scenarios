@@ -81,7 +81,7 @@ ChMotion(3,0);
 VoicePlay("B050300300_03_090");
 MsgDisp("Honda","Yeah...
 But the rest of them are still here.
-So let's come and feed them again!");
+So let's come see them again!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

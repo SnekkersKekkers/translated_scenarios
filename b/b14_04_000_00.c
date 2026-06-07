@@ -10,7 +10,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Waa...!
-The illumination is beautiful!
+The lights are beautiful!
 The blue world is expanding...");
 ChMouth(4,3);
 VoicePlay("B140400000_04_000");

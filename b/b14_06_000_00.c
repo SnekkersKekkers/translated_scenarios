@@ -5,7 +5,7 @@ BGOpen("ex300",2);
 BGMPlay("BGM_XMAS_TRHEE",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","Waa...pretty!
-It's a blue illumination.");
+The lights are blue!");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
@@ -45,7 +45,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600000_06_050");
-MsgDisp("Himuro","The illuminations are nice, but what I really
+MsgDisp("Himuro","The lights are nice, but what I really
 enjoy is seeing you watching and enjoying
 them.");
 MsgDisp("主人公","Umm...thank you.");

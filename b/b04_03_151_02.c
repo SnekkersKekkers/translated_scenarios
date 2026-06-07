@@ -49,7 +49,7 @@ I'll go for the safe one.");
         ChMotion(3,4);
         VoicePlay("B040315102_03_040");
         MsgDisp("Honda","When you say that, I start to feel confident.
-You're good at influencing me.");
+You're really good at psyching me up.");
         MsgDisp("主人公","I didn't mean to?");
         ChEye(3,4);
         ChMouth(3,4);

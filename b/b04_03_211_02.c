@@ -27,9 +27,9 @@ Animals look so much cooler at night!");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040321102_03_020");
-    MsgDisp("Honda","The animals can see you perfectly, but we
-can't see them perfectly...
-It might be dangerous?");
+    MsgDisp("Honda","The animals can see us just fine, but we
+can't see them at all...
+Might be dangerous, you know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

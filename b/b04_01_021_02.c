@@ -55,7 +55,7 @@ switch (MsgSelRsltGet()){
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040102102_01_040");
-        MsgDisp("Kazama","...It's like I can't hear it at all.");
+        MsgDisp("Kazama","...Yeah, I really can't hear it.");
         MsgDisp("主人公","No, you have to close your eyes properly.");
         ChEye(1,2);
         ChMouth(1,1);

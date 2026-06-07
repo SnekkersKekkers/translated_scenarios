@@ -31,9 +31,9 @@ But I'm fine - I've just bruised my butt!");
         ChMouth(3,4);
         ChMotion(3,0,1);
         VoicePlay("B040311102_03_020");
-        MsgDisp("Honda","No, your hands will get cold then.
-Even if my hands freeze, I'm absolutely not
-letting that happen.");
+        MsgDisp("Honda","No, then your hands will get cold.
+I won't let that happen, even if my own hands
+freeze.");
         MsgDateResultDisp();
         break ;
         case 4:

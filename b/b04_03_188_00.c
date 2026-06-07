@@ -24,7 +24,7 @@ I felt like I was being forced to laugh.");
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040318800_03_010");
-    MsgDisp("Honda","A so-so comedy is iffy.");
+    MsgDisp("Honda","A so-so comedy is kind of a letdown.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

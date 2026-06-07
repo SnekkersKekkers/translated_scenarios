@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,2);
     ChMotion(3,0);
     VoicePlay("B040323401_03_010");
-    MsgDisp("Honda","Sorry, can you tell me what you're trying to
-achieve?");
+    MsgDisp("Honda","Sorry, can you tell me what you're going for here?");
     MsgDateResultDisp();
     break ;
     case 1:

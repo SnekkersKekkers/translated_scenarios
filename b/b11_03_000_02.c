@@ -84,7 +84,7 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B110300002_03_040");
 MsgDisp("Honda","No, it's my fault.
-Because I was late the gold jacket guy showed
-up.");
+The gold jacket guy only showed up because I
+was late.");
 MsgDisp("主人公","(｛Honda＊＊｝...somehow, you were really
 reliable.)");

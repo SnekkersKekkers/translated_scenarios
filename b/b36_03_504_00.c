@@ -24,7 +24,7 @@ ChMotion(3,1,1);
 VoicePlay("B360350400_03_020");
 MsgDisp("Honda","Ah, I prepared in advance...
 I wanted to say something cool while looking
-at the illuminations.");
+at the lights.");
 MsgDisp("主人公","Um...
 I think I prefer the usual ｛Honda＊＊｝.");
 ChEye(3,0);

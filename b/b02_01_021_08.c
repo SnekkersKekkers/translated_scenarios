@@ -15,6 +15,6 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102108_01_020");
-MsgDisp("Kazama","It's really nice.");
+MsgDisp("Kazama","Color me impressed.");
 MsgDisp("主人公","(Good!
 I think he liked it.)");

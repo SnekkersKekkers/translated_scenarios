@@ -10,6 +10,6 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020100001_01_010");
 MsgDisp("Kazama","Yeah.
-It's not too shabby.");
+Not too shabby at all.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
 this...)");

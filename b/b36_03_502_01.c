@@ -50,7 +50,8 @@ ChMotion(3,0,1);
 VoicePlay("B360350201_03_050");
 MsgDisp("Honda","\"Oh, you and Dahon?
 Did you have fun?\"");
-MsgDisp("主人公","｛Nanatsumori＊｝ seems more indifferent?");
+MsgDisp("主人公","｛Nanatsumori＊｝ seems pretty laid-back about
+it?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

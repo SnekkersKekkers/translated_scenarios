@@ -58,7 +58,7 @@ What do they know about you?");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040102302_01_050");
-        MsgDisp("Kazama","Yeah, I'm mad.");
+        MsgDisp("Kazama","Yeah. I'm mad.");
         MsgDisp("主人公","Huh?");
         ChEye(1,0);
         ChMouth(1,1);

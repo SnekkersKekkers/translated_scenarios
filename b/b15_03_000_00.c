@@ -34,7 +34,7 @@ VoicePlay("B150300000_03_040");
 MsgDisp("Honda","Then 'personal distance' where you can read
 expressions, and 'intimate distance' where
 you can touch easily.");
-MsgDisp("主人公","Oh, is that so?");
+MsgDisp("主人公","Um...?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);

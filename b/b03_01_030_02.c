@@ -24,7 +24,7 @@ Sounds good to me.");
     ChMotion(1,0);
     VoicePlay("B030103002_01_020");
     MsgDisp("Kazama","Okay, let's go.
-That's an outdoor facility.");
+It's outdoors, so be ready for some sun.");
     MsgDispSksp(0);
     break ;
     case 2:
@@ -34,7 +34,7 @@ That's an outdoor facility.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B030103002_01_030");
-    MsgDisp("Kazama","We're setting off for the seabed, right?");
+    MsgDisp("Kazama","Alright, then we're off to the seabed.");
     MsgDispSksp(0);
     break ;
     default :

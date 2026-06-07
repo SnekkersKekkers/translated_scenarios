@@ -29,7 +29,7 @@ Let's go then.");
     ChMotion(3,2);
     VoicePlay("B060300013_03_020");
     MsgDisp("Honda","I see.
-I understand.");
+Gotcha.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     MsgDisp("主人公","(Was it wrong to say no...?)");

@@ -87,7 +87,7 @@ Here, come inside.");
         ChEye(1,4);
         ChMouth(1,3);
         VoicePlay("B040102202_01_070");
-        MsgDisp("Kazama","Guess there's no choice.");
+        MsgDisp("Kazama","...Guess so.");
         ChClose(1,0,30);
         ChLayout(0);
         MsgClose();

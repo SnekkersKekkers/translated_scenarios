@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B040318400_03_000");
-    MsgDisp("Honda","The depictions of inside the sea, and the
-waves were really intricate.");
+    MsgDisp("Honda","The way they rendered the underwater scenes
+and the waves was really intricate.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

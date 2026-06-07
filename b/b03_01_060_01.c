@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,1);
     ChMotion(1,3);
     VoicePlay("B030106000_01_020");
-    MsgDisp("Kazama","Just don't get lost from me.
-Alright?");
+    MsgDisp("Kazama","Just stick close to me, alright?");
     break ;
     case 1:
     ChEye(1,4);

@@ -30,7 +30,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300001_03_050");
-MsgDisp("Honda","I guess he retreats a bit?
+MsgDisp("Honda","I guess he kind of holds back?
 I'm completely different in that regard.");
 ChEye(3,0);
 ChMouth(3,3);

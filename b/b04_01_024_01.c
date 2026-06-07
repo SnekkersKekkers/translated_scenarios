@@ -44,8 +44,8 @@ The sound of the world coming to an end.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,#1);
     VoicePlay("B040102401_01_030");
-    MsgDisp("Kazama","Oh, that's got to be it.
-There's no way that we sound like that.");
+    MsgDisp("Kazama","Oh, that's it, huh.
+No way the two of us sound like that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

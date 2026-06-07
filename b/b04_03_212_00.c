@@ -31,8 +31,9 @@ it's pretty realistic.");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040321200_03_020");
-    MsgDisp("Honda","I think I want that too.
-I heard it was compiled by the zoo!");
+    MsgDisp("Honda","I kind of want that one too.
+Apparently the zoo put it together 
+themselves!");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -18,7 +18,7 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_140");
 MsgDisp("Honda","Especially baseball.
-I get so into it that my body stops moving.");
+I get so absorbed in it that I freeze right up.");
 MsgDisp("主人公","It just stops?");
 ChEye(3,4);
 ChMouth(3,0);

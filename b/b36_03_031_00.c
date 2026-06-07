@@ -26,7 +26,7 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360303100_03_020");
 MsgDisp("Honda","Honestly, I wanted to have you all to myself.");
-MsgDisp("主人公","Really?");
+MsgDisp("主人公","Eh...");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);

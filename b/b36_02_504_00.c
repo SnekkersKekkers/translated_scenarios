@@ -14,7 +14,7 @@ VoicePlay("B360250400_02_000");
 MsgDisp("Sassa","The scenery looks completely different from
 just a moment ago.");
 MsgDisp("主人公","Yeah.
-Because the illuminations are pretty.");
+Because the lights are pretty.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

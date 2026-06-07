@@ -30,7 +30,7 @@ Alright, let's wait for it to happen!");
     ChMotion(1,3);
     ChEyeOpenLevel(1,7);
     VoicePlay("B040103201_01_020");
-    MsgDisp("Kazama","∋
+    MsgDisp("Kazama","Tank water, huh∋
 No, seriously, some just got in my mouth.");
     MsgDateResultDisp();
     break ;

@@ -53,7 +53,7 @@ like it's going to collapse.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040101102_01_040");
         MsgDisp("Kazama","I'm not particularly scared here.");
-        MsgDisp("主人公","I'm not going to be able to watch.");
+        MsgDisp("主人公","Because I can't stand to watch you up there.");
         ChMotion(1,0);
         Wait(16,0);
         ChEye(1,0);

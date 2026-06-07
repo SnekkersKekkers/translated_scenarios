@@ -17,7 +17,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 ScrFadeIn(0);
 VoicePlay("B030118000_01_010");
-MsgDisp("Kazama","You don't need to go to the bathroom?");
+MsgDisp("Kazama","You sure you don't need the bathroom first?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Jeez, I'm not a kid anymore.");
 MsgDispSksp(0);

@@ -25,9 +25,9 @@ VoicePlay("B070300001_03_180");
 MsgDisp("Honda","Because of that, Ryo-kun and Mi-kun are very
 important to me.");
 VoicePlay("B070300001_03_190");
-MsgDisp("Honda","It may seem obvious but two people can
-approach the same situation in drastically
-different ways.");
+MsgDisp("Honda","It might sound obvious, but two people can
+look at the exact same thing and see it
+completely differently.");
 ChMouth(3,3);
 VoicePlay("B070300001_03_200");
 MsgDisp("Honda","As a result, you can sometimes see things

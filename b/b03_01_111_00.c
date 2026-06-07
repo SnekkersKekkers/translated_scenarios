@@ -12,7 +12,7 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B030111100_01_010");
-MsgDisp("Kazama","There's no time to dawdle around.
+MsgDisp("Kazama","There's no time to laze around.
 Let's go!");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

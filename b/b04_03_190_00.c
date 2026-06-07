@@ -25,9 +25,9 @@ into entertainment.");
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040319000_03_010");
-    MsgDisp("Honda","Same same, I completely feel the same.
-I like history but, that kind of unthinkable
-explanation is troubling.");
+    MsgDisp("Honda","Same here, totally agree.
+I like history, but that kind of
+far-fetched theory is a bit much.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -12,7 +12,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020102105_01_010");
 MsgDisp("Kazama","You've got enough personality on your own, 
-so something natural suits you just right.");
+so plain and natural suits you just right.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","(...Huh?

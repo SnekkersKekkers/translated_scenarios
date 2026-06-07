@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040319100_03_000");
-    MsgDisp("Honda","Yeah yeah, a big hit∋
-It's awesome to have the same rating as you!");
+    MsgDisp("Honda","Yeah yeah, a total winner∋
+It's awesome that we rated it the same!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

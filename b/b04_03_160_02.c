@@ -67,7 +67,7 @@ two of us.");
         VoicePlay("B040316002_03_060");
         MsgDisp("Honda","Sometimes, when I'm with you, I get like
 this.
-It seems like it's from romantic feelings.");
+Apparently it's because of romantic feelings.");
         MsgDisp("主人公","Really!?");
         ChEye(3,4);
         ChMouth(3,3);

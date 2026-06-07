@@ -36,9 +36,9 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360302301_03_040");
-MsgDisp("Honda","Because there were four of us earlier.
-Doing the maths, I only got to talk to you
-one-third of the time I usually do.");
+MsgDisp("Honda","There were four of us earlier, after all.
+Do the math and I only got to talk to you a
+third as much as usual.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

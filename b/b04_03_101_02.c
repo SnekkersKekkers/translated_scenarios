@@ -47,7 +47,7 @@ season. As expected of Habataki City!");
         ChEyeOpenLevel(3,8);
         VoicePlay("B040310102_03_030");
         MsgDisp("Honda","You don't know?
-Even though it's your personal opinion?");
+But it's about your own personal preferences?");
         MsgDateResultDisp();
         break ;
         case 4:

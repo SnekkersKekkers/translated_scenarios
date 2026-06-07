@@ -18,7 +18,7 @@ I'll walk you home.");
     ChMotion(3,4);
     MsgDispSksp(1,3);
     VoicePlay("B060300012_03_010");
-    MsgDisp("Honda","Naturally, I'll walk you home.");
+    MsgDisp("Honda","I'll walk you home, obviously.");
     MsgDispSksp(0);
     break ;
     case 4:

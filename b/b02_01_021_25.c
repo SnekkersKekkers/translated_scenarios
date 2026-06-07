@@ -3,7 +3,7 @@ ChMouth(1,4);
 ChMotion(1,4,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020102125_01_000");
-MsgDisp("Kazama","I might have to reconsider.");
+MsgDisp("Kazama","I think I have to eat my words.");
 MsgDisp("主人公","Huh?
 What's wrong?");
 ChEye(1,0);

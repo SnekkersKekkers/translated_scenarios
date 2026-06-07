@@ -8,8 +8,8 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323200_03_000");
-MsgDisp("Honda","Ferris wheels let you carefully appreciate
-both the view and the thrills.");
+MsgDisp("Honda","With a Ferris wheel, you really get to savor
+both the view and the thrill.");
 MsgSel("You get to enjoy some beautiful views, right♪","It feels so good that I could fall asleep...","It's just high, cramped and scary...");
 switch (MsgSelRsltGet()){
     case 0:

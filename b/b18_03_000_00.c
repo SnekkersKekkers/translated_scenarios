@@ -35,7 +35,7 @@ Yay!");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B180300000_03_040");
-    MsgDisp("Honda","This way of addressing you feels refreshing!");
+    MsgDisp("Honda","Addressing you like this is refreshing!");
     MsgDisp("主人公","(It feels a little embarrassing..)");
     break ;
     case 1:

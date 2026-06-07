@@ -58,8 +58,7 @@ I was asking how the fish see us.");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040103102_01_040");
-        MsgDisp("Kazama","That's not what I meant by 'behind the
-glass'.
+        MsgDisp("Kazama","That's not what I meant.
 You say the most random things sometimes.");
         ChEye(1,3);
         ChMouth(1,2);

@@ -55,7 +55,7 @@ ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B360350401_03_060");
 MsgDisp("Honda","I wonder if I should secretly confess that we
-went to see the illuminations together.");
+went to see the lights together.");
 MsgDisp("主人公","(Huh∋
 Does ｛Honda＊＊｝ see ｛Kazama＊＊｝ as an
 object of observation?)");

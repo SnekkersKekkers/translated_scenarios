@@ -26,8 +26,8 @@ I'm taking a break for now.");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040323100_03_020");
-    MsgDisp("Honda","You really have no choice but to surrender
-yourself, it's truly frightening.");
+    MsgDisp("Honda","Having no choice but to just go with it is
+seriously terrifying.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

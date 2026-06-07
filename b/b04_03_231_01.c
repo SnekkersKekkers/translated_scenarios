@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040323101_03_010");
     MsgDisp("Honda","Okay...what is it about roller coasters that
 fascinates you so much?
-Let's reconfirm it!");
+Time to find out all over again!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
