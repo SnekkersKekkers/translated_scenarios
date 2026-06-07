@@ -8,7 +8,7 @@ BGMPlay("BGM_PLACE_SHOP",0.01);
 VoicePlay("B030601001_06_000");
 MsgDisp("Himuro","Where are we going?");
 MsgDisp("主人公","Uhm...");
-MsgSel("How about that restaurant?","The sky lounge is nice");
+MsgSel("Let's try the medal game!","The sky lounge is nice");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

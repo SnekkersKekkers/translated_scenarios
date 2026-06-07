@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323300_03_000");
 MsgDisp("Honda","We're...on the ground, right?");
-MsgSel("I could get used to this thrill!","Hey, that's enough...","That was a very interesting experience...");
+MsgSel("I could get used to this thrill!","The Sky Lounge sounds nice.","That was a very interesting experience...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

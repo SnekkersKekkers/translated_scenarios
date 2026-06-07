@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040501100_05_000");
 MsgDisp("Hiiragi","Everything you can see from here is Habataki
 City.");
-MsgSel("Wow! The horizon looks like it's shining!","Can we see ｛Hiiragi＊＊＊｝'s home?","The height has me frozen in fear...");
+MsgSel("Wow! The horizon looks like it's shining!","...It sure is unique, isn't it?","The height has me frozen in fear...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

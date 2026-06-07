@@ -11,7 +11,7 @@ VoicePlay("B090500000_05_010")MsgDisp("Hiiragi","I just need to know that you're
 I'll be waiting to hear from you.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
-MsgDisp("主人公","Damn it!
-I got the meeting place for our date wrong!");
+MsgDisp("主人公","Oh no!
+I got the meeting place for our date wrong...!");
 MsgClose();
 ScrFadeOut(0,0);

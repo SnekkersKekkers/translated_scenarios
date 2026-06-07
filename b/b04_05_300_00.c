@@ -10,7 +10,7 @@ ChMotion(5,0);
 VoicePlay("B040530000_05_000");
 MsgDisp("Hiiragi","There's nothing special here, but please make
 yourself at home.");
-MsgSel("It's a wonderful room!","It's a boyish room.","...It's a unique room, huh?");
+MsgSel("It's a wonderful room!","It's a very boyish room.","...It's a unique room, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

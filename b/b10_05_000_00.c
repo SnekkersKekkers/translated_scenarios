@@ -26,7 +26,7 @@ VoicePlay("B100500000_05_040");
 MsgDisp("Hiiragi","Only we know what happened today. If we both
 forget, it won't exist in this world.
 I've already forgotten. Now it's your turn.");
-MsgDisp("主人公","Yeah, thank you.");
+MsgDisp("主人公","Look, the seagulls are so cute▼");
 VoicePlay("B100500000_05_050");
 MsgDisp("Hiiragi","Hey, there's no need to thank me.
 With this, we're back to before.");

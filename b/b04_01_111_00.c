@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040111100_01_000");
 MsgDisp("Kazama","Ohh, this looks perfect.
 Time to put your skills to the test, huh?");
-MsgSel("Call me the Princess of Ice!","As long as I don't fall down...","I was hoping you could teach me...");
+MsgSel("Call me the Princess of Ice!","Seems like a lot of hassle...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

@@ -10,7 +10,7 @@ ChMotion(4,0);
 VoicePlay("B040430000_04_000");
 MsgDisp("Nanatsumori","Just hang your coat up anywhere.
 I'll bring you something to drink.");
-MsgSel("This is a wonderful room!","This is a very boyish room","...It sure is a unique room, isn't it?");
+MsgSel("This is a wonderful room!","It's a very boyish room.","...It sure is a unique room, isn't it?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

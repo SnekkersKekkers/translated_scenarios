@@ -5,7 +5,7 @@ ChOpen(1,253,0,4,0,0,#1,0,3);
 ChNanaType(0);
 ChOpen(4,253,0,0,0,#1,#1,0,3);
 ScrFadeIn(0);
-MsgDisp("主人公","Uh....");
+MsgDisp("主人公","Want to head to the campsite?");
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoiceEVSPlay(3);

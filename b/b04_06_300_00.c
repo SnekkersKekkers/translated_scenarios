@@ -6,7 +6,7 @@ ChMotion(6,0);
 ScrFadeIn(0);
 VoicePlay("B040630000_06_000");
 MsgDisp("Himuro","It's just a standard room though.");
-MsgSel("It's a lovely room!","It's a boyish room","...It sure is unique, isn't it?");
+MsgSel("It's a lovely room!","It's a very boyish room.","...It sure is unique, isn't it?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

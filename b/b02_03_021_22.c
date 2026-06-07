@@ -11,5 +11,5 @@ VoicePlay("B020302122_03_010");
 MsgDisp("Honda","I know I shouldn't be staring, but I just
 can't take my eyes off you.");
 MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like clothes like this
+｛Honda＊＊｝ seems to like clothes like this,
 too.)");

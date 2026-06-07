@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B030501001_05_000");
 MsgDisp("Hiiragi","Where to?");
 MsgDisp("主人公","Uhm...");
-MsgSel("How about that store?","The sky lounge is nice");
+MsgSel("Let's try the medal game!","The sky lounge is nice");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

@@ -9,7 +9,7 @@ ChMotion(8,2,1);
 VoicePlay("B030801001_08_000");
 MsgDisp("Shirahane","Alrighty then, where to?");
 MsgDisp("主人公","Let's see...");
-MsgSel("How about that store?","Sky lounge sounds nice");
+MsgSel("Let's try the medal game!","Sky lounge sounds nice");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

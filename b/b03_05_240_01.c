@@ -5,8 +5,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030524001_05_000");
-MsgDisp("Hiiragi","Even though the city is nearby, the
-atmosphere is completely different here.
+MsgDisp("Hiiragi","Even though we're close to the city, the
+atmosphere is completely different.
 Where should we go?");
 MsgSel("Are there animals?","Want to visit the campsite?");
 switch (MsgSelRsltGet()){

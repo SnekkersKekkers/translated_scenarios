@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B030118000_01_000");
 MsgDisp("Kazama","Do you want some popcorn?
 I'll buy.");
-MsgDisp("主人公","Yeah, thank you.");
+MsgDisp("主人公","Look, the seagulls are so cute▼");
 MsgClose();
 ScrFadeOut(0,0);
 Wait(40,0);

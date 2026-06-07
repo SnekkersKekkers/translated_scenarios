@@ -14,7 +14,7 @@ VoicePlay("B090700001_07_020");
 MsgDisp("Mikage","See you then, I'm gonna wander back home.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
-MsgDisp("主人公","I've done it!
-I got the date meeting spot wrong...!");
+MsgDisp("主人公","Oh no!
+I got the meeting place for our date wrong...!");
 MsgClose();
 ScrFadeOut(0,0);

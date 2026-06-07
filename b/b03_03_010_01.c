@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B030301001_03_000");
 MsgDisp("Honda","Is there a shop you're interested in?");
 MsgDisp("主人公","Let's see...");
-MsgSel("How about that store?","Sky lounge sounds nice.");
+MsgSel("Let's try the medal game!","Sky lounge sounds nice.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

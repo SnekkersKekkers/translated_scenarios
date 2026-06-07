@@ -9,7 +9,7 @@ ChMotion(4,1,1);
 VoicePlay("B040423300_04_000");
 MsgDisp("Nanatsumori","Crap...
 This is dangerous.");
-MsgSel("I could get used to this thrill!","Hey, that's enough...","That was a very interesting experience....");
+MsgSel("I could get used to this thrill!","The Sky Lounge sounds nice.","That was a very interesting experience....");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

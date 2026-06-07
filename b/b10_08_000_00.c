@@ -1,8 +1,8 @@
 BGOpen("ex000",1);
 ChClose(8,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...why did I end up saying such a
-thing...)");
+MsgDisp("主人公","(Sigh...
+Why did I say such a thing...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Ah...
 It's from ｛Daichi＊＊｝!)");

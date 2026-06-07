@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B030201001_02_000");
 MsgDisp("Sassa","Where do you want to look around?");
 MsgDisp("主人公","Let's see...");
-MsgSel("How about that store?","Sky lounge sounds nice.");
+MsgSel("Let's try the medal game!","Sky lounge sounds nice.");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(2,0);

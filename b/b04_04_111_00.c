@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040411100_04_000");
 MsgDisp("Nanatsumori","Can you skate?");
-MsgSel("Call me a princess on ice!","It's to the point I won't fall over...","I was hoping you could teach me...");
+MsgSel("Call me a princess on ice!","Seems like a lot of hassle...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){
