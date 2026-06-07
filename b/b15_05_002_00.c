@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B150500200_05_000");
 MsgDisp("Hiiragi","Phew.
 You completely change when it gets dark.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B150500200_05_010");

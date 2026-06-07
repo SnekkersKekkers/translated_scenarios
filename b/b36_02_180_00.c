@@ -37,7 +37,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360218000_02_030");
 MsgDisp("Sassa","That depends on you, doesn't it?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

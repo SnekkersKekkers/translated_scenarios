@@ -57,7 +57,7 @@ lie either.");
         ChMotion(5,0);
         VoicePlay("B040508202_05_040");
         MsgDisp("Hiiragi","I'm relieved.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(5,0);
         VoicePlay("B040508202_05_050");
         MsgDisp("Hiiragi","If you think that, it means you haven't heard

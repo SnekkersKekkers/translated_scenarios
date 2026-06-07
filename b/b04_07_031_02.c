@@ -54,7 +54,7 @@ I'm sorry.");
         VoicePlay("B040703102_07_040");
         MsgDisp("Mikage","Don't apologize so much for nothing.
 It's a waste.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,2);

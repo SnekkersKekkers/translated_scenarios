@@ -74,7 +74,7 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330A10700_06_020");
 MsgDisp("Himuro","Me too.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

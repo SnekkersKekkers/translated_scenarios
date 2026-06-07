@@ -16,7 +16,7 @@ ChMotion(4,0,1);
 VoicePlay("B070400001_04_030");
 MsgDisp("Nanatsumori","Sorry.
 Hmm, so Kazama looks cool?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

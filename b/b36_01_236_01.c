@@ -27,7 +27,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("B360123601_01_020");
 MsgDisp("Kazama","I have to say, I'm a little frustrated.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);

@@ -53,7 +53,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B20701_04_010");
 MsgDisp("Nanatsumori","Is it because you guys are similar?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(3,3);

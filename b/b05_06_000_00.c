@@ -104,7 +104,7 @@ ChMotion(6,0);
 VoicePlay("B050600000_06_110");
 MsgDisp("Himuro","Today might be the first and last time we get
 to see the cherry blossoms together.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);

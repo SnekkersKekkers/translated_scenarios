@@ -30,7 +30,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600200_06_040");
 MsgDisp("Himuro","...Even I'm a guy.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B150200200_02_000");
 MsgDisp("Sassa","Haa...
 I'm no good at all.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,0);

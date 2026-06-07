@@ -5,7 +5,7 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
-MsgSel("Want to walk on the brick road?","I want to ride the boat");
+MsgSel("Want to take a walk on the brick road?","I want to ride the boat");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("B030402001_04_000");

@@ -67,7 +67,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10500_01_020");
 MsgDisp("Kazama","Anything but a love song.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

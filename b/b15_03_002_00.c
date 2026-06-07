@@ -3,8 +3,7 @@ ChOpen(3,255,2,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300200_03_000");
 MsgDisp("Honda","Maybe it's not about technique after all.");
-MsgDisp("主人公","Huh?
-What do you mean?");
+MsgDisp("主人公","Huh?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1,1);

@@ -77,7 +77,7 @@ me.");
         VoicePlay("B040408402_04_090");
         MsgDisp("Nanatsumori","So?
 What are you doing?");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(4,1);
         ChMouth(4,3);
         ChMotion(4,1,1);

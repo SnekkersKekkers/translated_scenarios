@@ -33,7 +33,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30500_06_010");
 MsgDisp("Himuro","...Please do the same when it's my turn.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 ChEye(7,0);

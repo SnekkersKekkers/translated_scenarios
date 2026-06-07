@@ -20,7 +20,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360250400_02_010");
 MsgDisp("Sassa","Haha, maybe I phrased it poorly.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

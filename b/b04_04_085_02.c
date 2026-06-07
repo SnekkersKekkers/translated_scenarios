@@ -101,7 +101,7 @@ Are you warm?");
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040408502_04_110");
         MsgDisp("Nanatsumori","...This isn't good.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         SEPlay("EV_SE_552",0,0.1);
         ScrQuake(0);
         MsgClose();

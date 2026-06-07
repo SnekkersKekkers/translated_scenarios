@@ -90,7 +90,7 @@ we take a look?");
         VoicePlay("B040210102_02_090");
         MsgDisp("Sassa","Is this what it feels like to be with your
 fated person?");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

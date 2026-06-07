@@ -52,7 +52,7 @@ SEPlay("EV_SE_504");
 Wait(30,0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.5);
 MsgClose();
 ScrFadeOut(0);

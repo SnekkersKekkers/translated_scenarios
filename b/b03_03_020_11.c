@@ -3,7 +3,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
-MsgSel("Want to walk the brick road?","Want to go to the wharf?");
+MsgSel("Want to take a walk on the brick road?","Want to go to the wharf?");
 MsgDispSksp(1,0);
 switch (MsgSelRsltGet()){
     case 0:

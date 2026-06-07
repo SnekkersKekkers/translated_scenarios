@@ -12,7 +12,7 @@ ChMotion(4,1,1);
 VoicePlay("B150400000_04_010");
 MsgDisp("Nanatsumori","That's right.
 If you go too far, nothing will come of it.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);

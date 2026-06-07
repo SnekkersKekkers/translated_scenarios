@@ -72,7 +72,7 @@ for me.");
         VoicePlay("B040223302_02_060");
         MsgDisp("Sassa","But actually, a long time ago I was called
 that often.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

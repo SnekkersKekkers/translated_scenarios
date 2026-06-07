@@ -45,7 +45,7 @@ ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0,1);
 VoicePlay("B360550100_05_050");
-MsgDisp("Hiiragi","Eh?");
+MsgDisp("Hiiragi","Huh?");
 MsgDisp("主人公","Well you wanted to talk, just the two of us,
 right?");
 ChEye(5,2);

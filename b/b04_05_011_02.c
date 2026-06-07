@@ -44,7 +44,7 @@ That's the idea.");
         VoicePlay("B040501102_05_030");
         MsgDisp("Hiiragi","Sorry.
 That was deliberately mean.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChMotion(5,0);
         ChEyeOpenLevel(5,9);
         VoicePlay("B040501102_05_040");

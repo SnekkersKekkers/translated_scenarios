@@ -63,7 +63,7 @@ other guys?");
         ChMotion(6,0);
         VoicePlay("B040623202_06_070");
         MsgDisp("Himuro","I'll go with you next time after all.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(6,1);
         ChMouth(6,1);
         ChMotion(6,2);

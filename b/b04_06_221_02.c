@@ -80,7 +80,7 @@ Thank you.");
         VoicePlay("B040622102_06_070");
         MsgDisp("Himuro","...No, maybe I'll invite you here myself
 before that.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

@@ -22,7 +22,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B050700100_07_010");
 MsgDisp("Mikage","Today's walk home was peaceful wasn't it?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

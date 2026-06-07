@@ -28,7 +28,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360150401_01_020");
 MsgDisp("Kazama","Come on, give me your hand.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

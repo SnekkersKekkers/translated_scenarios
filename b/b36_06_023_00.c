@@ -38,7 +38,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B360602300_06_040");
 MsgDisp("Himuro","How about you?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

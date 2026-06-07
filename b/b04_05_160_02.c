@@ -54,7 +54,7 @@ Please find something you would want first.");
         VoicePlay("B040516002_05_040");
         MsgDisp("Hiiragi","That won't do.
 What would you like?");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(5,4);
         VoicePlay("B040516002_05_050");
         MsgDisp("Hiiragi","Your smile is my reward.

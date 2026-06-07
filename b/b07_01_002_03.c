@@ -30,7 +30,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100002_01_180");
 MsgDisp("Kazama","You need to ask more!");
-MsgDisp("主人公","EH?");
+MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

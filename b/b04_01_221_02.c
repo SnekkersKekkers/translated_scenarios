@@ -91,7 +91,7 @@ It's dangerous, so that'll be all.");
         VoicePlay("B040122102_01_070");
         MsgDisp("Kazama","Crap.
 Your face.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,0);

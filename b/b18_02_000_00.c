@@ -8,7 +8,7 @@ ChCheek(2,10);
 VoiceEVSPlay(2);
 VoicePlay("B180200000_02_000");
 MsgDisp("Sassa","｛主人公｝.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

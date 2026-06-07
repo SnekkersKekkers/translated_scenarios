@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Want to walk along the brick road?");
+MsgDisp("主人公","Want to take a walk on the brick road?");
 MsgDispSksp(1,0);
 VoicePlay("B030602000_06_000");
 ChEye(6,0);

@@ -53,7 +53,7 @@ I hadn't noticed.");
         VoicePlay("B040506502_05_040");
         MsgDisp("Hiiragi","But, even if the numbers diminished, I think
 I would have the same impressions.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040506502_05_050");

@@ -47,7 +47,7 @@ VoicePlay("B070400001_04_230");
 MsgDisp("Nanatsumori","But, then there was you...and Kazama, Dahon.
 What?
 What's with this absurd quartet?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

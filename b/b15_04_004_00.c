@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B150400400_04_000");
 MsgDisp("Nanatsumori","I told you didn't I?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 VoicePlay("B150400400_04_010");
 MsgDisp("Nanatsumori","Touching me all over.
 You've already destroyed me.

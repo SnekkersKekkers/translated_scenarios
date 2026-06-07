@@ -3,7 +3,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Want to walk on the brick road?");
+MsgDisp("主人公","Want to take a walk on the brick road?");
 MsgDispSksp(1,0);
 ChEye(3,0);
 ChMouth(3,3);

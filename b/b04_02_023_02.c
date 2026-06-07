@@ -69,7 +69,7 @@ I don't plan on losing either.");
         MsgDisp("Sassa","I think I understand.
 Sorry.
 That's my bad.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,4);
         ChMouth(2,0);
         ChMotion(2,0);

@@ -21,7 +21,7 @@ VoicePlay("B360103300_01_010");
 MsgDisp("Kazama","It's got nothing to do with the place.
 I like the difference between how you are in
 a group vs. just the two of us.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

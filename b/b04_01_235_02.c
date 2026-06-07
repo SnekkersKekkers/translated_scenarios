@@ -96,7 +96,7 @@ I can't see anything though.");
         VoicePlay("B040123502_01_090");
         MsgDisp("Kazama","There's some fluffy thing peering into them,
 right?");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,4);

@@ -85,7 +85,7 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,5);
 VoicePlay("B050200100_02_090");
 MsgDisp("Sassa","...Maybe Haunted Houses are nice after all?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 BGMStop(2);
 MsgClose();
 ScrFadeOut(0);

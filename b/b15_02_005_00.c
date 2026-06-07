@@ -56,7 +56,7 @@ ChMotion(2,1);
 VoicePlay("B150200500_02_070");
 MsgDisp("Sassa","Hey, next time I feel like touching you, I'll
 do so without hesitation.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

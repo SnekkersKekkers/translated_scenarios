@@ -4,8 +4,7 @@ ChMouth(5,0);
 ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Do you want to walk together along the brick
-road?");
+MsgDisp("主人公","Want to take a walk on the brick road?");
 MsgDispSksp(1,0);
 ChEye(5,0);
 ChMouth(5,3);

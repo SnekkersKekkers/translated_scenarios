@@ -36,7 +36,7 @@ ChMotion(5,3);
 VoicePlay("B360550401_05_040");
 MsgDisp("Hiiragi","That's true.
 They gave me the push I needed.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

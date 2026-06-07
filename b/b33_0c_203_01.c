@@ -62,7 +62,7 @@ VoicePlay("B330C20301_05_030");
 MsgDisp("Hiiragi","No.
 I was looking at my own figure walking
 alongside you all.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -99,7 +99,7 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B330C20301_05_070");
-MsgDisp("Hiiragi","Eh?");
+MsgDisp("Hiiragi","Huh?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

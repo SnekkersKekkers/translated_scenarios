@@ -43,7 +43,7 @@ I don't even sweat this much when I practice.");
         ChMotion(2,3);
         VoicePlay("B040214002_02_030");
         MsgDisp("Sassa","It's no good, I already know.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

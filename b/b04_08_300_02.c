@@ -57,7 +57,7 @@ That sorta...");
         ChMouth(8,4);
         VoicePlay("B040830002_08_050");
         MsgDisp("Shirahane","...Am I bein' a coward?");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(8,2);
         ChMouth(8,4);
         ChMotion(8,0,1);

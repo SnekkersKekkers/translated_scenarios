@@ -75,7 +75,7 @@ StlMouth(8,0);
 VoicePlay("B050800300_08_070");
 MsgDisp("Shirahane","Well, that's fine but...
 I guess I can't be like NANA after all.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("B050800300_08_080");

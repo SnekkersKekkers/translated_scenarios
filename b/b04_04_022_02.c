@@ -65,7 +65,7 @@ I'm sorry.");
         VoicePlay("B040402202_04_060");
         MsgDisp("Nanatsumori","Hey.
 Do you want to take a picture?");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(4,0);
         ChMouth(4,4);
         VoicePlay("B040402202_04_070");

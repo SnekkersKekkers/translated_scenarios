@@ -86,7 +86,7 @@ fire. What do you think of that?");
         MsgDisp("Kazama","Alright!");
         SEPlay("EV_SE_524",0,1);
         SEWait();
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(1,4);
         ChMouth(1,3);
         ChCheek(1,5);

@@ -77,7 +77,7 @@ Like ｛Daichi＊＊｝?");
 StlEye(8,3);
 StlMouth(8,0);
 VoicePlay("B050800200_08_100");
-MsgDisp("Shirahane","Eh?");
+MsgDisp("Shirahane","Huh?");
 MsgDisp("主人公","Right now, ｛Daichi＊＊｝ seems like he's
 giving everything he's got too.");
 StlEye(8,3);
@@ -119,7 +119,7 @@ ChOpen(8,255,0,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050800200_08_160");
 MsgDisp("Shirahane","You and the fireflies gave me courage.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,0,1);

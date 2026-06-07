@@ -108,7 +108,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B050700200_07_090");
 MsgDisp("Mikage","...I see.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

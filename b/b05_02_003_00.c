@@ -11,7 +11,7 @@ BGOpen("wf100",0);
 ScrFadeIn(0);
 VoicePlay("B050200300_31_000");
 MsgDisp("Goro?","Oh my.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

@@ -61,7 +61,7 @@ soaked.");
         VoicePlay("B040206302_02_050");
         MsgDisp("Sassa","Today, somehow...
 You sound like a mother.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

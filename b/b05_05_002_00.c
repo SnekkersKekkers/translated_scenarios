@@ -17,7 +17,7 @@ VoicePlay("B050500200_05_010");
 MsgDisp("Hiiragi","Yeah, I'm grasping at straws here.
 If only I had more charisma to unite the
 theater company...");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -89,7 +89,7 @@ my right.");
 StlEye(5,1);
 VoicePlay("B050500200_05_090");
 MsgDisp("Hiiragi","The left...is coming from your hand...");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 MsgClose();
 ScrFadeOut(0,0);
 StlClose();

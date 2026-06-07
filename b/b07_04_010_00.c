@@ -26,7 +26,7 @@ ChEyeOpenLevel(4,#1);
 VoicePlay("B070401000_04_030");
 MsgDisp("Nanatsumori","...Maybe, it's because you were the one who
 asked me about it.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);

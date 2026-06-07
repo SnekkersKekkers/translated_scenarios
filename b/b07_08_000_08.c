@@ -21,7 +21,7 @@ ChMotion(8,2,1);
 VoicePlay("B070800000_08_420");
 MsgDisp("Shirahane","Honestly speakin', I'm super bad at these
 kinds of conversations...");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(8,2);
 ChMotion(8,4,1);
 ChEyeOpenLevel(8,8);

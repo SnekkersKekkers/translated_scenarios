@@ -92,7 +92,7 @@ animal.");
         VoicePlay("B040621302_06_090");
         MsgDisp("Himuro","If I were a cat or dog I wouldn't want to see
 you on a date here with someone else.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

@@ -5,7 +5,7 @@ ChOpen(2,255,4,0,0,#1,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150200000_02_000");
 MsgDisp("Sassa","What, what's up with you?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

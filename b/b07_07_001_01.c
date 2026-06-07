@@ -6,7 +6,7 @@ ChMotion(7,3);
 VoicePlay("B070700001_07_010");
 MsgDisp("Mikage","Yeah, it feels like he's finally acknowledged
 me.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

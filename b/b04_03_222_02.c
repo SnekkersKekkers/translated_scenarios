@@ -59,7 +59,7 @@ Then, I won't do it.");
         VoicePlay("B040322202_03_040");
         MsgDisp("Honda","Well, let's just take a commemorative photo
 then.");
-        MsgDisp("主人公","eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,0);

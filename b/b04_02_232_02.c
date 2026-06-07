@@ -67,7 +67,7 @@ Then, what should we do next time?");
         VoicePlay("B040223202_02_060");
         MsgDisp("Sassa","I've already admitted my feelings, so it's
 already okay for next time.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

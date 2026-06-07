@@ -8,7 +8,7 @@ ChCheek(2,10);
 VoicePlay("B130200001_02_000");
 MsgDisp("Sassa","Your skirt is flapping...
 Crap, my eyes are moving on their own...");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);

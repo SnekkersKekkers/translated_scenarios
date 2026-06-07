@@ -42,7 +42,7 @@ ChMotion(2,4);
 VoicePlay("B360223600_02_030");
 MsgDisp("Sassa","But how about going with just the two of us,
 from the start next time?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

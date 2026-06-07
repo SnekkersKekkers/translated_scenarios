@@ -5,7 +5,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600002_06_310");
 MsgDisp("Himuro","What kind of answer do you want?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

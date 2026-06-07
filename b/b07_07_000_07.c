@@ -5,7 +5,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700000_07_370");
 MsgDisp("Mikage","Overthrow Vice Principal Himuro.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

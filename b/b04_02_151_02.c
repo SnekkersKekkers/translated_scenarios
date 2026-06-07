@@ -59,7 +59,7 @@ Even though this was supposed to be a date.");
         VoicePlay("B040215102_02_060");
         MsgDisp("Sassa","But, I think this has given me a bit of a
 hint.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

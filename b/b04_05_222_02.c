@@ -61,7 +61,7 @@ It's difficult for me.");
         MsgDisp("Hiiragi","I may not enjoy the historical documents, but
 it does feel like we have a several hundred
 year old castle to ourselves.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChMotion(5,0);
         VoicePlay("B040522202_05_060");
         MsgDisp("Hiiragi","See, there are usually only a few people

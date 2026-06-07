@@ -108,7 +108,7 @@ ChEye(5,3);
 VoicePlay("B330C20700_05_050");
 MsgDisp("Hiiragi","Thank you.
 Then, please allow me to sit next to you.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

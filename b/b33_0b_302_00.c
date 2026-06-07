@@ -63,7 +63,7 @@ MsgDisp("Nanatsumori","There's a limit to how effortless you can be.");
 ChEye(3,0);
 ChMouth(3,4);
 VoicePlay("B330B30200_03_020");
-MsgDisp("Honda","Eh?");
+MsgDisp("Honda","Huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

@@ -11,7 +11,7 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("B070300000_03_500");
 MsgDisp("Honda","I'd like to know that too.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

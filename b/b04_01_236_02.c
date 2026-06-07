@@ -64,7 +64,7 @@ Hey, ever heard of disturbing the peace?");
         ChMotion(1,3);
         VoicePlay("B040123602_01_040");
         MsgDisp("Kazama","Alright, let's go.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0);

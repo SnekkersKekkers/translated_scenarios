@@ -38,7 +38,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B150300300_03_050");
-MsgDisp("Honda","...?");
+MsgDisp("Honda","......");
 MsgDisp("主人公","...Probably?");
 ChEye(3,5);
 ChMouth(3,4);

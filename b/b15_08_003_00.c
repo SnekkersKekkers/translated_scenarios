@@ -10,7 +10,7 @@ ChEye(8,2);
 ChMouth(8,4);
 VoicePlay("B150800300_08_010");
 MsgDisp("Shirahane","I thought it was ticklish, but it's not.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(8,3);
 ChMouth(8,4);
 ChMotion(8,0,1);

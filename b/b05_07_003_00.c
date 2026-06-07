@@ -12,7 +12,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B050700300_07_000");
 MsgDisp("Mikage","I understand how that kid feels～");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

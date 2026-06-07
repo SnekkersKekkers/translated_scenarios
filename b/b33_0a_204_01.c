@@ -142,7 +142,7 @@ ChMotion(2,4);
 VoicePlay("B330A20401_02_060");
 MsgDisp("Sassa","That's it.
 Then, how about you?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);

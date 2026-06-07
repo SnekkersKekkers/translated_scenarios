@@ -88,7 +88,7 @@ ChMotion(1,0);
 VoicePlay("B050100200_01_080");
 MsgDisp("Kazama","It's fine.
 I thank you too.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -13,7 +13,7 @@ ChMotion(4,0,1);
 ChEyeOpenLevel(4,8);
 VoicePlay("B150400300_04_010");
 MsgDisp("Nanatsumori","Countdown start.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 VoicePlay("B150400300_04_020");
 MsgDisp("Nanatsumori","A countdown until I lose my senses.
 I'm already at my limit.");

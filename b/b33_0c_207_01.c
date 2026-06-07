@@ -41,7 +41,7 @@ MsgDisp("Mikage","Right, it's like the dentist waiting room.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 SEPlay("EV_SE_817");
 Wait(20,0);
 ChEye(7,2);

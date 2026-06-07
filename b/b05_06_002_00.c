@@ -23,7 +23,7 @@ VoicePlay("B050600200_06_020");
 MsgDisp("Himuro","Lonely...?
 So what? Are you going to stay here for the
 rest of your life and play with him?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

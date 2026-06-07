@@ -98,7 +98,7 @@ your notes.");
         ChMotion(4,0,1);
         VoicePlay("B040423602_04_100");
         MsgDisp("Nanatsumori","Should we have a study session in my room?");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         VoicePlay("B040423602_04_110");
         MsgDisp("Nanatsumori","I live alone, so no one will disturb us.");
         MsgDisp("主人公","But...");

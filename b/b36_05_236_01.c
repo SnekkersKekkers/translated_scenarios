@@ -20,7 +20,7 @@ ChMotion(5,4);
 VoicePlay("B360523601_05_010");
 MsgDisp("Hiiragi","That's good...
 But now I feel a little more guilty.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEyeOpenLevel(5,0);
 VoicePlay("B360523601_05_020");
 MsgDisp("Hiiragi","Because Inori-kun and Mikage-sensei can't see

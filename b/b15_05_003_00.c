@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B150500300_05_000");
 MsgDisp("Hiiragi","Phew—...you're a more nimble, mischievous
 cat than I thought.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B150500300_05_010");

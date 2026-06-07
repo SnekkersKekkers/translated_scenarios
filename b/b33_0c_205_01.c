@@ -109,7 +109,7 @@ I wouldn't do something so boring.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

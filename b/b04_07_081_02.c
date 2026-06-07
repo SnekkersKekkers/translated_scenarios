@@ -61,7 +61,7 @@ the cherry blossoms.");
         ChMotion(7,2);
         VoicePlay("B040708102_07_040");
         MsgDisp("Mikage","Right, even I don't know it myself though.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(7,0);
         ChMouth(7,0);
         VoicePlay("B040708102_07_050");

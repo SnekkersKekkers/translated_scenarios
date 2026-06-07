@@ -3,7 +3,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(1,253,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
-MsgSel("Today's movie was wonderful!","Today's movie was so-so huh","Today's movie was a miss");
+MsgSel("Today's movie was the best!","Today's movie was so-so","Today's movie was a miss, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

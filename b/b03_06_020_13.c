@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgSel("Want to walk on the brick road?","Want to go to the wharf?","Let's take the cruise");
+MsgSel("Want to take a walk on the brick road?","Want to go to the wharf?","Let's take the cruise");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

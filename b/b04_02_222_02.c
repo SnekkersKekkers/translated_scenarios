@@ -45,7 +45,7 @@ It's difficult for me.");
         MsgDisp("Sassa","To be honest, I don't have much interest in
 IOUs.
 But I find it interesting that you do.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

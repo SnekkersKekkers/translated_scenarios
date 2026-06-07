@@ -60,7 +60,7 @@ This sort of chaotic atmosphere is fun too.");
         VoicePlay("B040308102_03_040");
         MsgDisp("Honda","The period of time in which we can do this is
 limited.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(3,2);
         ChMouth(3,4);
         ChMotion(3,0);
@@ -94,7 +94,7 @@ here, but all the places we go to together.");
         ChMotion(3,2);
         VoicePlay("B040308102_03_090");
         MsgDisp("Honda","...I've realized now.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);

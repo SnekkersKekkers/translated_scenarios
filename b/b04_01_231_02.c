@@ -46,7 +46,7 @@ more thrilling.");
         MsgDisp("Kazama","That's fine but...
 It doesn't feel good hearing you shriek so
 close to me.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,4);

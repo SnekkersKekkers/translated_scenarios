@@ -36,7 +36,7 @@ MsgDisp("主人公","Three special people.");
 ChEye(5,0);
 VoicePlay("B070500001_05_240");
 MsgDisp("Hiiragi","Is it not four?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 VoicePlay("B070500001_05_250");
 MsgDisp("Hiiragi","Without you there, Inori-kun would have the
 stage to himself.");

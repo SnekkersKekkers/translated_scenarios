@@ -57,7 +57,7 @@ understand it.");
         ChMotion(6,1);
         VoicePlay("B040610102_06_040");
         MsgDisp("Himuro","...Could you not say that?");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

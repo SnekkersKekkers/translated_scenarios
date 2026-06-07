@@ -60,7 +60,7 @@ ChMouth(8,0);
 VoicePlay("B050800100_08_060");
 MsgDisp("Shirahane","Really is.
 Makes me wanna shout out loud...");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 MsgClose();
 ScrFadeOut(0);
 ChClose(8);

@@ -28,7 +28,7 @@ ChMotion(5,4);
 ChCheek(5,5);
 VoicePlay("B070500001_05_540");
 MsgDisp("Hiiragi","Ah, is that so...thank you.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("B070500001_05_550");

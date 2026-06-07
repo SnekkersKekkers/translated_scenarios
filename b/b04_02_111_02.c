@@ -61,7 +61,7 @@ It's the most efficient way anyway.");
         ChMotion(2,4);
         VoicePlay("B040211102_02_050");
         MsgDisp("Sassa","Here, put your hand in my pocket.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         MsgClose();
         SEPlay("EV_SE_504");
         ChClose(2,0,30);

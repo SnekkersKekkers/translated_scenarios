@@ -23,7 +23,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360316001_03_010");
-MsgDisp("Honda","...");
+MsgDisp("Honda","......");
 MsgDisp("主人公","Um...is something wrong?");
 ChEye(3,1);
 ChMouth(3,3);

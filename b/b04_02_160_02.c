@@ -65,7 +65,7 @@ Or bad?");
         VoicePlay("B040216002_02_050");
         MsgDisp("Sassa","...But you know, that makes me want to try
 even more.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

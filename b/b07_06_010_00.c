@@ -23,7 +23,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070601000_06_020");
 MsgDisp("Himuro","What was that?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

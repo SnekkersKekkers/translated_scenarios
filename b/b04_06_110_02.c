@@ -77,7 +77,7 @@ How was it for you, ｛Himuro＊＊｝?");
         ChOpen(6,31,2,0,2,#1,#1,10,0);
         VoicePlay("B040611002_06_070");
         MsgDisp("Himuro","...Closer than I thought.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,5);

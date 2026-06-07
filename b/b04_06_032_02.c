@@ -86,7 +86,7 @@ with someone other than you?");
         ChMotion(6,0);
         VoicePlay("B040603202_06_080");
         MsgDisp("Himuro","Then, Reiichi-san.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0,1);

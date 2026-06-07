@@ -52,7 +52,7 @@ I like it.");
         VoicePlay("B040205102_02_040");
         MsgDisp("Sassa","And they'll force you to watch scary videos
 while you lay back in the chair.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

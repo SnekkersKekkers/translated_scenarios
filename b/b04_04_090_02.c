@@ -62,7 +62,7 @@ that are not wanted.");
         VoicePlay("B040409002_04_060");
         MsgDisp("Nanatsumori","It's true.
 Thank you, as always.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);

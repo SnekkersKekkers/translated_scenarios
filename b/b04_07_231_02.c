@@ -73,7 +73,7 @@ It's not that dangerous of a ride though.");
         ChEyeOpenLevel(7,7);
         VoicePlay("B040723102_07_060");
         MsgDisp("Mikage","The one who's dangerous is you.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,4);

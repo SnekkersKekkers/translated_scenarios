@@ -34,7 +34,7 @@ in terms of information.");
         VoicePlay("B040208202_02_020");
         MsgDisp("Sassa","I tried to act like I knew a bit, but I
 failed.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
@@ -55,7 +55,7 @@ So of course I got knowledgeable.");
         VoicePlay("B040208202_02_050");
         MsgDisp("Sassa","But with you, it feels like your knowledge
 isn't just for yourself.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);

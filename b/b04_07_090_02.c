@@ -43,7 +43,7 @@ vegetables of today exist.");
         VoicePlay("B040709002_07_030");
         MsgDisp("Mikage","Alright, alright.
 Just now, you've also just transformed.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -71,7 +71,7 @@ stimulated in all sorts of ways.");
         ChMotion(7,1);
         VoicePlay("B040709002_07_070");
         MsgDisp("Mikage","...It's the opposite.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,2);

@@ -59,7 +59,7 @@ cleaning.");
         ChMotion(5,0);
         VoicePlay("B040530002_05_050");
         MsgDisp("Hiiragi","It's not that impressive.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(5,4);
         VoicePlay("B040530002_05_060");
         MsgDisp("Hiiragi","I'm not as tidy as you might think.");

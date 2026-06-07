@@ -82,7 +82,7 @@ retina. I also want those eyes.");
         MsgDisp("Honda","...Come to think of it, your eyes sparkle
 too.
 Let me see them for a bit.");
-        MsgDisp("主人公","eh?");
+        MsgDisp("主人公","Huh?");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(3,0,30);
@@ -96,7 +96,7 @@ too...");
         ChEye(3,5);
         ChMouth(3,4);
         VoicePlay("B040321102_03_090");
-        MsgDisp("Honda","Eh?");
+        MsgDisp("Honda","Huh?");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,5);

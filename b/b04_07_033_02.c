@@ -70,7 +70,7 @@ and count to 10 together?");
         ChMotion(7,0);
         VoicePlay("B040703302_07_070");
         MsgDisp("Mikage","...Damn, that was too instinctual.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,2);

@@ -13,7 +13,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B350100000_01_010");
 MsgDisp("Kazama","I forgot something.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

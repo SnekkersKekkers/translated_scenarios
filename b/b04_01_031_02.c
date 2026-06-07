@@ -87,7 +87,7 @@ So, what about the keepers?");
         VoicePlay("B040103102_01_070");
         MsgDisp("Kazama","How they'd see us...
 Like two lovers?");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(1,4);
         ChMouth(1,1);
         ChMotion(1,3);

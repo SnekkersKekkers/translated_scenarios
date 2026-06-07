@@ -16,7 +16,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B360518000_05_000");
 MsgDisp("Hiiragi","Hmmm, I wonder.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

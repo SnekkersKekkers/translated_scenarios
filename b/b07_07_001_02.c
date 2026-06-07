@@ -20,7 +20,7 @@ VoicePlay("B070700001_07_100");
 MsgDisp("Mikage","That's how it looks on the surface, but in
 reality he's using me as an excuse to look
 for you.");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

@@ -75,7 +75,7 @@ of feeling is that?");
         ChMotion(4,2,1);
         VoicePlay("B040430002_04_060");
         MsgDisp("Nanatsumori","Like living together with my girlfriend—");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,0,1);

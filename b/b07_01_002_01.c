@@ -7,7 +7,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B070100002_01_010");
 MsgDisp("Kazama","Talking?
 Is that really what it looks like?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Huh?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);

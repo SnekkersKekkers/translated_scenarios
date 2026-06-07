@@ -54,7 +54,7 @@ But, let's eat the burnt parts together?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040624202_06_050");
-        MsgDisp("Himuro","Eh?");
+        MsgDisp("Himuro","Huh?");
         MsgDisp("主人公","Since we came here together.");
         ChEye(6,0);
         ChMouth(6,4);

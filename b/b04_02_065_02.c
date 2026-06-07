@@ -73,7 +73,7 @@ It's fine to enjoy it the way you see it.");
         ChMotion(2,3);
         VoicePlay("B040206502_02_070");
         MsgDisp("Sassa","You can.");
-        MsgDisp("主人公","Eh?");
+        MsgDisp("主人公","Huh?");
         ChEye(2,4);
         ChMouth(2,4);
         ChMotion(2,0);

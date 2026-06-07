@@ -80,7 +80,7 @@ ChMouth(5,2);
 ChMotion(5,0);
 ChCheek(5,0);
 VoicePlay("B070501000_05_090");
-MsgDisp("Hiiragi","Eh?");
+MsgDisp("Hiiragi","Huh?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,4);
