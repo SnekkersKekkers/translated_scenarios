@@ -54,7 +54,7 @@ ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("B360223601_02_050");
 MsgDisp("Sassa","Ah, I'm talking about this.");
-MsgDisp("主人公","(｛Sassa＊＊｝ keeps turning away from the
+MsgDisp("主人公","(｛Sassa＊＊｝ keeps turning his back on the
 parade...)");
 BGMStop();
 MsgClose();

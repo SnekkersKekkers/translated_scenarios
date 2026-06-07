@@ -18,8 +18,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360250101_02_010");
 MsgDisp("Sassa","Um, sorry.
-For some reason we ended up here whilst I was
-talking to you.");
+Somehow we just ended up here while I was
+talking with you.");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);

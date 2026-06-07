@@ -11,8 +11,8 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B360250400_02_000");
-MsgDisp("Sassa","The scenery is completely different to just a
-moment ago.");
+MsgDisp("Sassa","The scenery looks completely different from
+just a moment ago.");
 MsgDisp("主人公","Yeah.
 Because the illuminations are pretty.");
 ChEye(2,0);

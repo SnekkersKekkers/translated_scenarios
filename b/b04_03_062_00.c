@@ -5,7 +5,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B040306200_03_000");
-MsgDisp("Honda","Ooh, it's even more blue than I imagined.");
+MsgDisp("Honda","Yeah, it's even bluer than I imagined.");
 MsgSel("The air feels so nice and cool.","Is the water deep here?","The water's surface shines blue like a jewel...");
 switch (MsgSelRsltGet()){
     case 0:

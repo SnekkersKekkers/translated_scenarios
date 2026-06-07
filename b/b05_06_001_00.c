@@ -50,7 +50,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B050600100_06_040");
 MsgDisp("Himuro","I guess we'll see?
-Back in junior high school, I borrowed one
+Back in middle school, I borrowed one
 from a friend to try.");
 ChEye(6,0);
 ChMouth(6,0);

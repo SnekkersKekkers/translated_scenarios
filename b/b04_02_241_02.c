@@ -24,8 +24,8 @@ vital, but I'm not good with them.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040224102_02_020");
-    MsgDisp("Sassa","Yeah, the person who thought of making
-sausages is quite amazing");
+    MsgDisp("Sassa","Yeah, whoever came up with the idea of
+making sausages is pretty amazing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

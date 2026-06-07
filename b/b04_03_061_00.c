@@ -39,9 +39,9 @@ delicious, right?");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040306100_03_030");
-    MsgDisp("Honda","I think the sandy beach at the sunbathing
-area is probably all cleaned, and there might
-not be any stones or seashells left.");
+    MsgDisp("Honda","The sandy beach at the swimming area's
+probably all cleaned up, so there might not
+be any stones or seashells left.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

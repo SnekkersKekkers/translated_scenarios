@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040224201_02_010");
-    MsgDisp("Sassa","I won't betray your expectations.");
+    MsgDisp("Sassa","I won't let you down.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

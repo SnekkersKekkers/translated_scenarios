@@ -27,8 +27,8 @@ I guess whatever you like, I like too.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040103302_01_020");
-    MsgDisp("Kazama","I think that about you too, reflected in the
-tank.");
+    MsgDisp("Kazama","Your reflection in the tank is interesting 
+too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

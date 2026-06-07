@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,5);
     VoicePlay("B040203301_02_010");
-    MsgDisp("Sassa","Yuck, it gives me chills.
-I don't want to look at it.");
+    MsgDisp("Sassa","Yuck, that gave me goosebumps.
+I can't even look at it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

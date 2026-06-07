@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040223401_02_010");
-    MsgDisp("Sassa","Don't have fun when you're at an amusement
-park?
-That's an unreasonable ask.");
+    MsgDisp("Sassa","Telling me not to get excited at an
+amusement park?
+That's asking too much.");
     MsgDateResultDisp();
     break ;
     case 1:

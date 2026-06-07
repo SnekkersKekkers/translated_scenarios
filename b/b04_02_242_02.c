@@ -5,7 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040224202_02_000");
-MsgDisp("Sassa","There's people who are camping alone huh.");
+MsgDisp("Sassa","There are people out here camping all alone,
+huh.");
 MsgSel("It seems fun!","I wonder if they're lonely?","Did ｛Sassa＊＊｝ want to come alone too?");
 switch (MsgSelRsltGet()){
     case 0:

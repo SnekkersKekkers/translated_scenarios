@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040210500_02_000");
-MsgDisp("Sassa","Modern art..
-I wish I could understand it...");
+MsgDisp("Sassa","Modern art...
+If only I could crack the code on this...");
 MsgSel("I want to decorate my room with a piece.","It's a representation of the suffering of modern people.","It's fine to not understand it.");
 switch (MsgSelRsltGet()){
     case 0:

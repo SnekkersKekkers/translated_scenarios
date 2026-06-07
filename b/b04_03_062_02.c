@@ -28,9 +28,9 @@ I'm glad you're here with me!");
     ChMouth(3,5);
     ChMotion(3,5);
     VoicePlay("B040306202_03_020");
-    MsgDisp("Honda","Woah! If that light doesn't even succumb to
-all this blue...we might have a major
-discovery on our hands?");
+    MsgDisp("Honda","Woah! If that glow can hold its own against
+all this blue... we might be onto a major
+discovery!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

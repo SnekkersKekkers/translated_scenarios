@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040308300_03_010");
-    MsgDisp("Honda","If that was the case, they would regress back
-into larvae?");
+    MsgDisp("Honda","If that were the case, they'd be turning back
+into larvae, you know?");
     MsgDateResultDisp();
     break ;
     case 1:

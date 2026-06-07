@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040222102_02_010");
-    MsgDisp("Sassa","I think your sort of love for your hometown
-is always great.");
+    MsgDisp("Sassa","That kind of love you have for your
+hometown, I always think it's great.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -76,9 +76,9 @@ depending on season and time.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040222102_02_070");
-        MsgDisp("Sassa","I see... If we're taking in the difference of
-seasons, let's think of a \"Date Rotations of
-a Year\" together.");
+        MsgDisp("Sassa","I see... Then factoring in the seasons,
+let's work out a \"yearly date rotation\"
+together.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,0);

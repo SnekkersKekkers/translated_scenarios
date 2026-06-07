@@ -10,8 +10,8 @@ ChMouth(2,2);
 ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040212101_02_000");
-MsgDisp("Sassa","This is a huge turnout.
-Are you alright?");
+MsgDisp("Sassa","It's super crowded.
+You doing okay?");
 MsgSel("Yeah? Do you want to take a little break?","Yeah, there's a lot of stuff I wanna buy.","Sorry for dragging you around.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -25,7 +25,7 @@ switch (MsgSelRsltGet()){
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040212101_02_010");
-        MsgDisp("Sassa","I'm not particularly exhausted though.");
+        MsgDisp("Sassa","It's not like I'm worn out or anything.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -102,8 +102,8 @@ About being called a couple...");
         ChMotion(2,3);
         ChEyeOpenLevel(2,0);
         VoicePlay("B040212101_02_100");
-        MsgDisp("Sassa","That's why, let's walk around once more.
-This time we'll be more convincing.");
+        MsgDisp("Sassa","So let's take another lap.
+This time we'll really sell it.");
         MsgDisp("主人公","(We look like lovers to the people around
 us...
 That's somewhat embarrassing.)");

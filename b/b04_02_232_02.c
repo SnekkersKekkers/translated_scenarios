@@ -14,9 +14,9 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223202_02_010");
-    MsgDisp("Sassa","It's fine, but what expression should I make
-sitting face-to-face like this without
-moving?");
+    MsgDisp("Sassa","It's fine, but what kind of face am I
+supposed to make, sitting here knee to
+knee not moving?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -56,9 +56,9 @@ But, in front of me is your smile.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223202_02_050");
-        MsgDisp("Sassa","I'm being attacked in a way I both like and
-cannot stand.
-For 15 minutes too.");
+        MsgDisp("Sassa","It's a double whammy of stuff I can't handle
+and stuff I love.
+For a full 15 minutes, too.");
         MsgDisp("主人公","Ehh!
 Then, what should we do next time?");
         ChEye(2,0);

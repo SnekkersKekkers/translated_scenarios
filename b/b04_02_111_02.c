@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,2);
     ChCheek(2,10);
     VoicePlay("B040211102_02_020");
-    MsgDisp("Sassa","Then, hold my hand.
-That would be most effective.");
+    MsgDisp("Sassa","Then let's hold hands.
+It's the most efficient way anyway.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -75,9 +75,8 @@ That would be most effective.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040211102_02_060");
-        MsgDisp("Sassa","Right, it's like a hot drink.
-If you drink it, you'll breathe a \"Hooo—to\"
-sigh of relief.");
+        MsgDisp("Sassa","Right? A hot drink.
+Drink up and breathe a \"hot\" sigh of relief.");
         MsgDisp("主人公","Yeah.");
         ChEye(2,0);
         ChMouth(2,2);

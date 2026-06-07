@@ -46,8 +46,8 @@ battle of serious appeal.");
         ChMouth(3,3);
         ChMotion(3,4); 
         VoicePlay("B040308302_03_040");
-        MsgDisp("Honda","They're definitely polishing their strategies
-right about now.");
+        MsgDisp("Honda","I bet they're working out all kinds of
+strategies right about now.");
         MsgDisp("主人公","If ｛Honda＊＊｝ were a firefly, he'd come up
 with some amazing strategies huh?");
         ChEye(3,3);
@@ -55,9 +55,9 @@ with some amazing strategies huh?");
         ChMotion(3,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308302_03_050");
-        MsgDisp("Honda","If I were a firefly, I'd go for a front
-attack!
-I'd fly around flashily in front of you.");
+        MsgDisp("Honda","If I were a firefly, I'd take the direct
+approach! I'd fly around flashing right 
+in front of you.");
         MsgDisp("主人公","Ummm...
 This is if I were a firefly too?");
         ChEye(3,0);

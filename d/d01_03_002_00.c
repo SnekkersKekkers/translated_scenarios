@@ -39,7 +39,7 @@ StlEyeOpenLevel(3,5);
 VoicePlay("D010300200_03_020");
 MsgDisp("Honda","Actually...
 My little sister just got accepted into her
-first choice junior high school!");
+first choice middle school!");
 MsgDisp("主人公","Wow, that's awesome!
 Congrats!");
 StlEye(3,0);

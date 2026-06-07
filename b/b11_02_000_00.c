@@ -79,8 +79,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B110200000_02_040");
-MsgDisp("Sassa","What's with that guy, spouting about how big
-people are...");
+MsgDisp("Sassa","What's with that guy, going on and on about
+how big I am...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

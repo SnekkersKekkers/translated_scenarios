@@ -41,8 +41,7 @@ MsgDisp("Sassa","Ah, hey.
 Yesterday, I was a bit overcome with emotion,
 so I'm sorry if I said something strange.");
 MsgDisp("主人公","No.
-That ground was soaked with three years of
-your hard work after all, ｛Sassa＊＊｝.");
+That field's soaked with three years of your hard work, after all, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -54,8 +53,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200100_02_050");
-MsgDisp("Sassa","Yesterday, I was thanking those training
-grounds. Today, I'm grateful for you.
+MsgDisp("Sassa","Yesterday I was grateful for the track field. 
+Today, I'm grateful for you.
 Thank you for always standing by me.");
 MsgDisp("主人公","I didn't do anything.");
 ChEye(2,4);

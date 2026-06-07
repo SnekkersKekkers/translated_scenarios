@@ -30,7 +30,7 @@ Ask me that question again after the
 Inter-High.");
 MsgDisp("主人公","Hehe, sure.
 Got it!");
-MsgDisp("主人公","(I hope ｛Sassa＊＊｝ succeeds!)");
+MsgDisp("主人公","(I hope ｛Sassa＊＊｝'s challenge pays off!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

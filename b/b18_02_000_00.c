@@ -39,7 +39,7 @@ would do.");
     ChCheek(2,10);
     VoicePlay("B180200000_02_040");
     MsgDisp("Sassa","Crap, this is awkward.
-Then, shall I say it ten more times.");
+Then, can I say it ten more times?");
     MsgDisp("主人公","Ehh?");
     ChEye(2,0);
     ChMouth(2,4);

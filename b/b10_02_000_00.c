@@ -22,10 +22,10 @@ So, I'm sorry.");
 MsgDisp("主人公","No, that's not true.
 I'm the one who's sorry.");
 VoicePlay("B100200000_02_030");
-MsgDisp("Sassa","Let's end it with that.");
+MsgDisp("Sassa","Okay, that settles it.");
 VoicePlay("B100200000_02_040");
-MsgDisp("Sassa","It'll feel weird if there's always this
-unpleasant air hanging over us.");
+MsgDisp("Sassa","It'd feel awful if things stayed weird
+between us, right?");
 MsgDisp("主人公","...Thank you.
 I should have been the one to call.
 I'm sorry.");

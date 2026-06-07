@@ -6,7 +6,7 @@ ChMouth(2,3);
 ChMotion(2,1);
 ScrFadeIn(0);
 VoicePlay("B040215100_02_000");
-MsgDisp("Sassa","Now, let's have a contest!");
+MsgDisp("Sassa","Alright, let's see who wins!");
 MsgSel("I won't lose!","｛Sassa＊＊｝'s ball looks heavy...","Having a contest is a bit...");
 switch (MsgSelRsltGet()){
     case 0:

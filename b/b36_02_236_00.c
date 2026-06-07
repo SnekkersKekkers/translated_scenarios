@@ -32,9 +32,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B360223600_02_020");
-MsgDisp("Sassa","Yeah, we got to play elsewhere during the
-day, and enjoyed a luxurious full-course at
-night. Let's do it again next time.");
+MsgDisp("Sassa","Yeah, we hung out somewhere else during the
+day, then enjoyed a luxurious full course at
+night. Let's do it again sometime.");
 MsgDisp("主人公","Yeah!");
 ChEye(2,0);
 ChMouth(2,4);

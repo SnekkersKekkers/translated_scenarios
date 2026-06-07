@@ -42,7 +42,7 @@ that had nothing into a facility like this.");
         VoicePlay("B040221202_02_030");
         MsgDisp("Sassa","It's amazing that he makes so many people
 happy like this.
-I want to be that kind of person");
+I want to be that kind of person too.");
         MsgDisp("主人公","I think ｛Sassa＊＊｝ is an amazing player that
 both surprises and entertains everyone?");
         ChEye(2,0);
@@ -67,7 +67,7 @@ thoroughbred...that's nice.");
         VoicePlay("B040221202_02_060");
         MsgDisp("Sassa","Then, let's find a plush that looks like you!
 If I'm a horse, you're a...pony?");
-        MsgDisp("主人公","(Umm...are we limited to horses?)");
+        MsgDisp("主人公","(Um...are we sticking with horses?)");
         break ;
         default :
         DbgAssert(1);

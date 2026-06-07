@@ -24,9 +24,9 @@ After this, shall we go to the zoo?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040219200_02_010");
-    MsgDisp("Sassa","I felt that way too.
-Rather than the owner's, I would have
-preferred it with the animal's perspective.");
+    MsgDisp("Sassa","I thought so too.
+I kinda wish it'd been more from the
+animals' perspective instead of the owner's.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

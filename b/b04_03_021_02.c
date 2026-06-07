@@ -45,7 +45,7 @@ You don't give off that impression.");
         VoicePlay("B040302102_03_030");
         MsgDisp("Honda","Really? I guess I have been talking more with
 everyone since entering high school.
-I didn't talk much in junior high.");
+I didn't talk much in middle school.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,0,1);
@@ -75,8 +75,9 @@ Well, I guess that hasn't changed even now.");
         ChMotion(3,0,1);
         VoicePlay("B040302102_03_070");
         MsgDisp("Honda","It's you, for sure.
-Because something I didn't have in junior
-high, and something I have now - it's you.");
+Because I have something now that I didn't 
+have in middle school.
+You.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,4,1);

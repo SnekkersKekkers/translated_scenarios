@@ -23,7 +23,7 @@ ChMotion(2,0);
 VoicePlay("B080200001_02_010");
 MsgDisp("Sassa","Isn't your phone ringing?");
 MsgDisp("主人公","Seems like it.
-Please wait a second.");
+Hold on a sec.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 ChEye(2,0);

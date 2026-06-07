@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     NSSEye(2,6);
     NSSMouth(2,0);
     VoicePlay("B160200300_02_010");
-    MsgDisp("Sassa","It was definitely not on purpose.");
+    MsgDisp("Sassa","That really wasn't on purpose.");
     break ;
     case 1:
     NSSEye(2,6);

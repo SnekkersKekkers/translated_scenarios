@@ -26,9 +26,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040308100_03_020");
-    MsgDisp("Honda","Is that so? After this, we can enjoy the
-young green leaves once the blossoms fall.
-That gives me a sense of strength.");
+    MsgDisp("Honda","Really? After this, we get to enjoy the fresh
+green leaves once the blossoms fall. To me,
+that has it's own merits.");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -86,8 +86,8 @@ there, watching me.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206502_02_090");
-        MsgDisp("Sassa","I guess it feels like you have some kind of
-special powers?");
+        MsgDisp("Sassa","It's like you give me some special kind of
+power or something?");
         MsgDisp("主人公","R-Really?");
         ChEye(2,4);
         ChMouth(2,4);

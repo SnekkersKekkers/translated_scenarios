@@ -40,9 +40,9 @@ attractions.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040206201_02_030");
-    MsgDisp("Sassa","Only the softer rock was eroded by the waves
-huh...
-Hmm, why was it only made here then?");
+    MsgDisp("Sassa","So only the softer rock got eroded by the
+waves, huh...
+Then why did it only form here?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

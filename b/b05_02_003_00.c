@@ -112,7 +112,8 @@ StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("B050200300_31_080");
 MsgDisp("Goro","Nonono～
-I'm just trying out the clothes on your body.");
+It's just the clothes. I was checking how
+they'd look on a body like yours.");
 MsgClose();
 ScrFadeOut(0);
 StlClose();

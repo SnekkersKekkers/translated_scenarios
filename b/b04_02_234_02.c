@@ -20,8 +20,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040223402_02_010");
-        MsgDisp("Sassa","Yeah right, you were spinning it for your
-life.");
+        MsgDisp("Sassa","Yeah right, you were spinning it like your
+life depended on it.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -43,8 +43,8 @@ life.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040223402_02_040");
-        MsgDisp("Sassa","But, I have experience with throwing events
-that use centrifugal force, but this was a
+        MsgDisp("Sassa","I've done throwing events that use
+centrifugal force, but this was on a whole
 different level.");
         ChEye(2,0);
         ChMouth(2,0);

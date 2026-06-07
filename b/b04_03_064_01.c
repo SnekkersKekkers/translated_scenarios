@@ -13,8 +13,8 @@ ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B040306401_03_010");
 MsgDisp("Honda","Eh?
-So that's how it was—. Well, figuring it out
-is part of the battle—.");
+Oh, so that's it—. Well, figuring that out
+is part of the game too—.");
 ChEye(3,3);
 ChEyeOpenLevel(3,0);
 MsgDisp("主人公","(Hehe, ｛Honda＊＊｝ seems like he's enjoying

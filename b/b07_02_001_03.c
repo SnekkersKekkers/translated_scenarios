@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Sassa＊＊｝ has gotten really popular lately,
-huh?");
+MsgDisp("主人公","There's always a lively crowd around you
+lately, huh ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

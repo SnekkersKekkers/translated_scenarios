@@ -41,7 +41,7 @@ VoicePlay("B070300000_03_360");
 MsgDisp("Honda","But thanks to that, I was freed from the
 library curse and started going outside.
 That's also when I discovered I love teaching.");
-MsgDisp("主人公","(...I see, as a junior high schooler
+MsgDisp("主人公","(...I see, as a middle schooler
 ｛Honda＊＊｝ was even more of a bookworm than
 he is now.)");
 BGMStop();

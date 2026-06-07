@@ -46,8 +46,8 @@ stomach.");
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040306502_03_030");
-        MsgDisp("Honda","A trade off for the large-flowered fireworks.
-We can't have everything and anything.");
+        MsgDisp("Honda","It's the trade-off for those big bloom
+fireworks. You can't have it all.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -98,8 +98,8 @@ Do you feel anything else?");
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040306502_03_080");
-        MsgDisp("Honda","...No effects in that respect.");
-        MsgDisp("主人公","That respect?");
+        MsgDisp("Honda","...Guess it doesn't work for that.");
+        MsgDisp("主人公","For what?");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);

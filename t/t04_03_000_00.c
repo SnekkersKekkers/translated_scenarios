@@ -12,7 +12,7 @@ ScrFadeIn(0);
 VoicePlay("T040300000_03_000");
 MsgDisp("Honda","That's right.
 During the christmas party we went to the
-Junior High School library, right?");
+Middle School library, right?");
 MsgDisp("主人公","Yes.
 A cute pop-up book.");
 NSSEye(3,4);

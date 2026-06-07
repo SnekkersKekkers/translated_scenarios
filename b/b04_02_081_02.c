@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040208102_02_010");
-    MsgDisp("Sassa","Hahaha, beauty huh?
-I learned a lot from that.");
+    MsgDisp("Sassa","Hahaha, the beauty of it, huh?
+I'm learning a lot here.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -47,9 +47,7 @@ I learned a lot from that.");
         MsgDisp("Sassa","That's right.
 It's a once a year contest.
 It's the same as my Inter-High.");
-        MsgDisp("主人公","In preparation for a certain time, you've
-also been giving it your all for one year,
-right? That kind of thing?");
+        MsgDisp("主人公","You've spent a whole year working toward that one moment too, right?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4,1);

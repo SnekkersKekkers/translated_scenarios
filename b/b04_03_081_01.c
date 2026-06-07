@@ -6,9 +6,9 @@ ChEyeOpenLevel(3,8);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040308101_03_000");
-MsgDisp("Honda","The blizzard of falling cherry blossoms is
-nice.
-I'm captivated by it.");
+MsgDisp("Honda","This blizzard of falling cherry blossoms is
+so nice.
+I can't take my eyes off it.");
 MsgSel("It's really like pink snow","Ah, it's falling into my mouth","There's like 3 centimetres thick of fallen snow");
 switch (MsgSelRsltGet()){
     case 0:

@@ -34,8 +34,8 @@ think of.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040218700_02_020");
-    MsgDisp("Sassa","I think the same.
-I learned a lot in many ways.");
+    MsgDisp("Sassa","Same here.
+Learned a lot, in all kinds of ways.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

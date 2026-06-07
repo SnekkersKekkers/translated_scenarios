@@ -34,14 +34,14 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B150200200_02_040");
 MsgDisp("Sassa","Carried away, huh...
-I couldn't keep up at all. Trying to clasp
-your hand in mine was impossible.");
+I couldn't keep up at all. Grabbing your hand
+to stop you was impossible.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150200200_02_050");
-MsgDisp("Sassa","In the end I give up...");
+MsgDisp("Sassa","In the end I gave up...");
 MsgDisp("主人公","I'm really sorry...");
 ChEye(2,2);
 ChMouth(2,2);

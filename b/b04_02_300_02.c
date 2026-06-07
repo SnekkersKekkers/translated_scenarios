@@ -5,9 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040230002_02_000");
-MsgDisp("Sassa","In these sorts of situations, the Mom would
-usually be standing at the door and listening
-in right?");
+MsgDisp("Sassa","In situations like this, the mom's usually
+standing at the door, listening in, right?");
 MsgSel("It happens in drama and manga often huh?","I have to greet her once more","｛Sassa＊＊｝, can you go check?");
 switch (MsgSelRsltGet()){
     case 0:

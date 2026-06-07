@@ -50,8 +50,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B360250100_02_050");
-MsgDisp("Sassa","That's why I thought if the two of us came
-here, I would remember you by chance.");
+MsgDisp("Sassa","That's why I figured if the two of us came
+here, something might jog my memory.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

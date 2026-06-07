@@ -51,7 +51,7 @@ switch (MsgSelRsltGet()){
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040301102_03_040");
-        MsgDisp("Honda","Being seen...");
+        MsgDisp("Honda","Them seeing us...?");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,5);

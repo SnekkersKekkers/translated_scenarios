@@ -7,7 +7,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040210101_02_000");
 MsgDisp("Sassa","Habataki-style pottery?
-How is it different to the normal one?");
+How's it different from the regular stuff?");
 MsgSel("It seems like it has a seashell pattern.","It's completely different??","Is it the name?");
 switch (MsgSelRsltGet()){
     case 0:

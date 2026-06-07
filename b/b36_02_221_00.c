@@ -16,7 +16,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,255,3,0,4,#1,#1,0,0);
 VoicePlay("B360222100_02_010");
-MsgDisp("Sassa","Yeah, as I thought.");
+MsgDisp("Sassa","Yeah, just like I thought.");
 MsgDisp("主人公","Yeah?");
 ChEye(2,3);
 ChMouth(2,4);
@@ -31,15 +31,15 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B360222100_02_030");
 MsgDisp("Sassa","And I'm an idiot, so I like high places.
-Both the top of castle and podium stand are
-great.");
+The top of a castle or a winner's podium—
+Both are great.");
 MsgDisp("主人公","Hehe.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360222100_02_040");
-MsgDisp("Sassa","That's why, even in the podium stand of your
-mind, I'll be climbing to the top.");
+MsgDisp("Sassa","So even on the podium inside your heart, I'm
+going to climb all the way to the top.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -47,7 +47,7 @@ ChMotion(2,0);
 VoicePlay("B360222100_02_050");
 MsgDisp("Sassa","Haha, what am I even saying?");
 MsgDisp("主人公","(｛Sassa＊＊｝?
-He feels a bit different to usual...)");
+He seems a little different than usual...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

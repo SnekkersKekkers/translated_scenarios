@@ -37,7 +37,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040302400_03_030");
-    MsgDisp("Honda","Ahaha, thank you for your hard work!");
+    MsgDisp("Honda","Ahaha, well, thanks for the effort!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

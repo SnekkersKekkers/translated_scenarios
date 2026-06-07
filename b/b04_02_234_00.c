@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B040223400_02_010");
-    MsgDisp("Sassa","Even so, I spun too much...
-I somewhat...feel gross...");
+    MsgDisp("Sassa","Still, you spun us way too much...
+Ugh...I feel kinda sick...");
     MsgDateResultDisp();
     break ;
     case 1:

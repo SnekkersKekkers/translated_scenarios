@@ -88,8 +88,7 @@ If it's the sports ground, I can go anytime.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040208502_02_090");
-        MsgDisp("Sassa","Once I see you, I feel like I unintentionally
-run in a higher gear.");
+        MsgDisp("Sassa","When you're watching, it's like I shift into a higher gear without even trying.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

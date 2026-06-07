@@ -6,8 +6,8 @@ ChMotion(3,4,1);
 ScrFadeIn(0);
 VoicePlay("B040308401_03_000");
 MsgDisp("Honda","Hey, look.
-The leaves of the broad leaf tree are falling
-into the pond.");
+The leaves from the broadleaf trees are
+falling into the pond.");
 MsgSel("The color-changing leaves are pretty!","I wonder if it'll dirty the pond water?","The firefly habitat is wonderful in the fall too");
 switch (MsgSelRsltGet()){
     case 0:

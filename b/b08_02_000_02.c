@@ -21,7 +21,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B080200002_02_030");
 MsgDisp("Sassa","Yeah.
-Then, see you later.");
+See you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);

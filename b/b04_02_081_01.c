@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("B040208101_02_000");
-MsgDisp("Sassa","It really looks like snow?
-It somewhat lifts my spirits.");
+MsgDisp("Sassa","It really does look like snow, huh?
+It kinda gets me pumped.");
 MsgSel("Yeah, it's totally like a cherry blossom blizzard!","｛Sassa＊＊｝ looks like he's about to run.","Don't just look up?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,7 +29,7 @@ with words.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040208101_02_020");
-    MsgDisp("Sassa","Don't say it like I'm a dog with reflexes.");
+    MsgDisp("Sassa","Don't make me sound like a dog reacting on reflex.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

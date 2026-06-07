@@ -71,8 +71,7 @@ have are things I learned for myself.");
         ChMouth(2,0);
         ChMotion(2,2,1);
         VoicePlay("B040208202_02_080");
-        MsgDisp("Sassa","It's completely different to you, who teaches
-it to a lot of people.");
+        MsgDisp("Sassa","It's totally different from you, sharing what you know with so many people.");
         MsgDisp("主人公","｛Sassa＊＊｝...");
         ChEye(2,0);
         ChMouth(2,4);

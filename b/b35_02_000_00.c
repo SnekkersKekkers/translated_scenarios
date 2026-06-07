@@ -9,15 +9,14 @@ What's up?");
 MsgClose();
 ChOpen(2,255,4,0,0,#1,#1,0,0);
 VoicePlay("B350200000_02_010");
-MsgDisp("Sassa","I wanted to ask you that.
+MsgDisp("Sassa","That's my line.
 What's up?");
 MsgDisp("主人公","Hmm, for some reason I just wanted to ask.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B350200000_02_020");
-MsgDisp("Sassa","Then, I also just wanted to ask for some
-reason.");
+MsgDisp("Sassa","Then I guess I just felt like asking too.");
 MsgDisp("主人公","Hehe!");
 ChEye(2,0);
 ChMouth(2,0);
@@ -41,8 +40,7 @@ Right, let's go!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B350200000_02_050");
-    MsgDisp("Sassa","I don't know why, but for some reason I've
-got my mind set to this place");
+    MsgDisp("Sassa","I don't know why, but I've already got a place in mind.");
     MsgClose();
     ScrFadeOut(0);
     break ;
@@ -59,7 +57,7 @@ I'll give up.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B350200000_02_070");
-    MsgDisp("Sassa","I just invited you for some reason.");
+    MsgDisp("Sassa","I only asked on a whim anyway.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

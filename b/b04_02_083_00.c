@@ -28,7 +28,7 @@ time happily at least.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040208300_02_020");
-    MsgDisp("Sassa","Somewhat, it's like you've become a firefly.");
+    MsgDisp("Sassa","Somehow, it's like you've turned into a firefly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

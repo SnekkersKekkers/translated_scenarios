@@ -29,7 +29,7 @@ Do you think they also like it?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040221300_02_020");
-    MsgDisp("Sassa","Amongst dogs and cats yeah.");
+    MsgDisp("Sassa","With cats and dogs, yeah.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

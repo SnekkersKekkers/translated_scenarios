@@ -25,8 +25,8 @@ happiness.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040218500_02_010");
-    MsgDisp("Sassa","That ending was just wrong.
-It left me wanting more...");
+    MsgDisp("Sassa","No way that ending was okay.
+I really wanted to see what happens next...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

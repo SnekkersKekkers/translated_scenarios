@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0);
     VoicePlay("B040306102_03_010");
     MsgDisp("Honda","Is that so?
-So there's an option not to swim. The bar for
-going to the beach might have been lowered.");
+So not swimming is an option too. Guess the
+bar for a beach trip just got lower.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -32,8 +32,8 @@ Let's try that next time.");
         DateRateSet(0);
         ChSet(3,2);
         VoicePlay("B040309002_03_020");
-        MsgDisp("Honda","It's not the words, but the feelings that'll
-be conveyed?");
+        MsgDisp("Honda","It's not the words, but whether your feelings
+get through, right?");
         MsgDateResultDisp();
         break ;
         case 4:

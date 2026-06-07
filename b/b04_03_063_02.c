@@ -58,7 +58,7 @@ of thing with! ...It's cold!");
         ChCheek(3,5);
         VoicePlay("B040306302_03_040");
         MsgDisp("Honda","Huh?
-Why did I get a shock just now?");
+Why did my heart just skip a beat?");
         ChEye(3,0);
         ChCheek(3,0);
         MsgDisp("主人公","What's the matter?
@@ -85,8 +85,8 @@ It's dangerous, so come here.");
         SEWait();
         VoicePlay("B040306302_03_060");
         MsgDisp("Honda","Huh?
-It's nothing... I just got a shock hearing
-your voice just now. Am I weird?");
+It's nothing... My heart just fluttered when
+I heard your voice. Am I weird?");
         MsgDisp("主人公","I got it, let's go already.
 If you get wet, you'll catch a cold▼");
         ChEye(3,3);

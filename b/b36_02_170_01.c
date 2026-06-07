@@ -38,7 +38,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360217001_02_040");
-MsgDisp("Sassa","Hey, like muscle memory?");
+MsgDisp("Sassa","Geez, like muscle memory?");
 MsgDisp("主人公","Amazing!
 So it's ingrained into your body?");
 ChEye(2,0);
@@ -59,8 +59,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("B360217001_02_070");
-MsgDisp("Sassa","Stuff like \" Kind of like a bobblehead\" or
-\"Are you pavlov's dog?\"");
+MsgDisp("Sassa","Stuff like \"Kind of like a bobblehead\" or
+\"Are you Pavlov's dog?\"");
 MsgDisp("主人公","Hehe!
 Maybe they would say that.");
 ChEye(2,0);

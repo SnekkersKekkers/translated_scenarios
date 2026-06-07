@@ -14,6 +14,6 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B130200003_02_010");
-MsgDisp("Sassa","That short of a skirt...
-I'm confident.
-I'll definitely look.");
+MsgDisp("Sassa","A skirt that short...
+Yeah, no, I'm telling you,
+I'm definitely gonna look.");

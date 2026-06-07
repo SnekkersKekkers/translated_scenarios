@@ -67,7 +67,7 @@ I'm interested in historical documents!");
         MsgDisp("Sassa","If we hadn't come here, I wouldn't have found
 this new side of you. Thinking of it that
 way, the exhibit gets a pass.");
-        MsgDisp("主人公","(Narrow pass...?)");
+        MsgDisp("主人公","(Barely a pass...?)");
         break ;
         default :
         DbgAssert(1);

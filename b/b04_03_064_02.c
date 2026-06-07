@@ -22,9 +22,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B040306402_03_030");
-MsgDisp("Honda","You see, the smells of the various stores are
-all mixed together, like they're sticking
-together and melting together.");
+MsgDisp("Honda","You see, the smells from all the stalls mix
+together, like they're sticking and melting
+into one.");
 ChEye(3,3);
 ChMouth(3,0);
 ChMotion(3,3);

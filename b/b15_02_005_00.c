@@ -61,8 +61,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B150200500_02_080");
-MsgDisp("Sassa","It's useless to hold back just for the
-future.");
+MsgDisp("Sassa","Holding back and overthinking the future is
+exactly what messes things up.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

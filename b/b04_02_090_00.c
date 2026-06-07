@@ -27,9 +27,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040209000_02_020");
-    MsgDisp("Sassa","It is.
-I'm not good with the damp, stiff air feeling
-either.");
+    MsgDisp("Sassa","Right?
+I'm not a fan of that damp, stale air either.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

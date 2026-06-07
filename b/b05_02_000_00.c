@@ -38,7 +38,7 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B050200000_02_040");
-MsgDisp("Sassa","I do.");
+MsgDisp("Sassa","I'm doing it.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(2,0,0);

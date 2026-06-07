@@ -6,8 +6,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040305101_03_000");
-MsgDisp("Honda","When I was in elementary school, I built a
-planetarium and set it up in my room.");
+MsgDisp("Honda","Back in elementary school, I made a
+planetarium and played with it in my room.");
 MsgSel("Hehe, cute.","How did you build it?","I would've loved to see it.");
 switch (MsgSelRsltGet()){
     case 0:

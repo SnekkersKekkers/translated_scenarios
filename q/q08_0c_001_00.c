@@ -12,7 +12,7 @@ ChMotion(5,0);
 VoicePlay("Q080C00100_05_000");
 MsgDisp("Hiiragi","Yeah, thank you too. School trips are so much
 fun. It's a shame I couldn't attend any in
-primary and junior high school.");
+primary and middle school.");
 MsgDisp("主人公","Oh yeah...
 It's ｛Hiiragi＊＊＊｝'s first school trip.");
 ChEye(7,0);

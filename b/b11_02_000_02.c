@@ -46,8 +46,8 @@ ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110200002_35_030");
 MsgDisp("Guy","Yeah, nice!
-There's a demand for this kind of muscular
-beauty nowadays?");
+That kind of muscular physique is really in
+demand these days, y'know?");
 MsgDispSksp(1,5);
 ChEye(2,0);
 ChMouth(2,0);
@@ -86,8 +86,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B110200002_02_040");
-MsgDisp("Sassa","Yeah...wait, why am I the one getting worried
-over?");
+MsgDisp("Sassa","Yeah...wait, why are you the one worrying
+about me?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
