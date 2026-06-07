@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     VoicePlay("B040506202_05_010");
     MsgDisp("Hiiragi","Yes.
-I'd warmly welcome this kind of sea swimming.");
+If this is what beach swimming is, I'm all for it.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

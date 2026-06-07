@@ -100,10 +100,9 @@ You should get it now too!");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040408202_04_110");
-        MsgDisp("Nanatsumori","I realized for the first time, that there
-are just some realities I don't need to
-know about...that was the summer when I
-was 5 years old.");
+        MsgDisp("Nanatsumori","That's when I first realized some truths just
+aren't worth knowing...
+The summer I was five.");
         MsgDisp("主人公","I guess it's become a trauma for you...");
         ChMouth(4,2);
         ChMotion(4,0,1);

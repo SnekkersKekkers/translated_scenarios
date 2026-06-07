@@ -48,8 +48,8 @@ Do you usually say those things?");
         ChCheek(4,5);
         VoicePlay("B040408502_04_030");
         MsgDisp("Nanatsumori","You...");
-        MsgDisp("主人公","Like hugging, or pressing up close, things
-like that?");
+        MsgDisp("主人公","Like hugging, or huddling together, that kind
+of thing?");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,1,1);
@@ -116,8 +116,8 @@ Are you warm?");
         ChMotion(4,1,1);
         VoicePlay("B040408502_04_120");
         MsgDisp("Nanatsumori","Conclusion.
-This rapid rise in body temperature can cause
-serious physical and mental errors.");
+This rapid spike in body temperature risks
+serious errors, body and mind alike.");
         MsgDisp("主人公","???");
         break ;
         default :

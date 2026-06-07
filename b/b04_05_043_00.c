@@ -9,9 +9,9 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMouth(5,3);
     VoicePlay("B040504300_05_000");
-    MsgDisp("Hiiragi","Their art of conversation was amazing.
-With their gestures I could discern so many
-different things.");
+    MsgDisp("Hiiragi","They had such a way with words.
+With just their gestures, I could picture so
+many different things.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

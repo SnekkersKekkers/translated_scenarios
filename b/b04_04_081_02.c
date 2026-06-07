@@ -16,9 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040408102_04_010");
-    MsgDisp("Nanatsumori","That.
-I want a separate space for relaxed people
-and lively people.");
+    MsgDisp("Nanatsumori","Exactly.
+I wish they'd split the space for the chill
+crowd and the rowdy crowd.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

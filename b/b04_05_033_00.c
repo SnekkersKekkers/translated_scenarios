@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMotion(5,3);
     VoicePlay("B040503300_05_010");
-    MsgDisp("Hiiragi","There really is.
-It's as if we're in the deep sea.");
+    MsgDisp("Hiiragi","You're right.
+It's as if we're in the deep sea ourselves.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

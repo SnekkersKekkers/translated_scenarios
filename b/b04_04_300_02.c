@@ -90,7 +90,7 @@ I was too direct just now.");
         ChCheek(4,5);
         VoicePlay("B040430002_04_080");
         MsgDisp("Nanatsumori","Sorry.
-Please don't be on guard.");
+Don't let it put you on edge, okay?");
         MsgDisp("主人公","Yeah.
 Because I believe in ｛Nanatsumori＊｝.");
         ChEye(4,4);

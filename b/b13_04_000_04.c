@@ -2,8 +2,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("B130400004_04_000");
-MsgDisp("Nanatsumori","That animal pattern fashion.
-I wonder why I'm excited.");
+MsgDisp("Nanatsumori","That animal-print look.
+Dunno why, but it's got me hyped.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1);

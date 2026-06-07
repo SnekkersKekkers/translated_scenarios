@@ -38,8 +38,8 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B360415201_04_040");
-MsgDisp("Nanatsumori","Slighting huh.
-Well, that's how you get ahead after all.");
+MsgDisp("Nanatsumori","Doing them dirty, huh.
+Well, we did kinda get a head start on them.");
 MsgDisp("主人公","Getting ahead...");
 ChEye(4,2);
 ChMouth(4,1);

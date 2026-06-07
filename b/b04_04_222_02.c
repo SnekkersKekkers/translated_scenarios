@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040422202_04_000");
-MsgDisp("Nanatsumori","For some reason we came here...
+MsgDisp("Nanatsumori","We keep ending up here, huh...
 Do you like this place?");
 MsgSel("Yeah, I do!","Not really...","If I'm with ｛Nanatsumori＊｝▼");
 switch (MsgSelRsltGet()){
@@ -80,15 +80,15 @@ two of us.");
         ChMouth(4,0);
         ChMotion(4,3,1);
         VoicePlay("B040422202_04_070");
-        MsgDisp("Nanatsumori","I see...so you're having delusions.");
+        MsgDisp("Nanatsumori","I see... so you've been daydreaming.");
         MsgDisp("主人公","Hey, don't put it like that.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040422202_04_080");
-        MsgDisp("Nanatsumori","But, they are delusions?
-Are we following the story of the town girl
-and the lord, then?");
+        MsgDisp("Nanatsumori","But it's just a daydream, right?
+Were we tracing the story of the townsgirl
+and the lord or something?");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,2,1);

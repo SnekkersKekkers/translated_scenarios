@@ -13,7 +13,7 @@ VoicePlay("B100400000_04_000");
 MsgDisp("Nanatsumori","Hey.");
 MsgDisp("主人公","｛Nanatsumori＊｝, what's wrong?");
 VoicePlay("B100400000_04_010");
-MsgDisp("Nanatsumori","Don't talk like that.");
+MsgDisp("Nanatsumori","Hey, don't be so distant with me.");
 MsgDisp("主人公","Eh...?");
 VoicePlay("B100400000_04_020");
 MsgDisp("Nanatsumori","Sorry for just now.

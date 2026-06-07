@@ -13,13 +13,13 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_010");
-MsgDisp("Nanatsumori","Don't wander too far away.
-It'll be a big problem if you get lost.");
+MsgDisp("Nanatsumori","Don't wander off too far.
+It'd be a real problem if you got lost.");
 MsgDisp("主人公","Hey, I won't get lost!");
 ChEye(4,2);
 VoicePlay("B040406402_04_020");
-MsgDisp("Nanatsumori","Please listen to me seriously.
-I'll be very troubled.");
+MsgDisp("Nanatsumori","Take me seriously here.
+This really would be a problem.");
 ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_030");
@@ -49,8 +49,7 @@ ChEye(4,4);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_070");
-MsgDisp("Nanatsumori","I'm worried about your wellbeing!
-Me!");
+MsgDisp("Nanatsumori","I'm the one who's worried about you here!");
 MsgDisp("主人公","Yeah.
 I'm sorry, okay?
 I'll be careful, so don't get angry.");

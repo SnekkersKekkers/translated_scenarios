@@ -43,7 +43,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B110400000_04_020");
 MsgDisp("Nanatsumori","I see, I see.
-That's good? You should definitely never go
+Good for you. You should definitely never go
 with a stranger.");
 MsgDispSksp(0);
 ChEye(33,0);
@@ -74,8 +74,8 @@ MsgDispSksp(0);
 ChEye(33,2);
 ChMouth(33,1);
 VoicePlay("B110400000_33_070");
-MsgDisp("Guy","They're not interested huh, no one is
-listening...");
+MsgDisp("Guy","Guess they're not interested... nobody's even
+listening to me...");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(33,0,30);

@@ -3,7 +3,7 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400000_04_260");
 MsgDisp("Nanatsumori","Various things.");
-MsgDisp("主人公","More specifically.");
+MsgDisp("主人公","Like what, specifically?");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2,1);

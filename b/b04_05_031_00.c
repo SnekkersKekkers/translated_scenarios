@@ -9,8 +9,8 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,4);
 VoicePlay("B040503100_05_000");
-MsgDisp("Hiiragi","This is a large water tank.
-There's also a lot of life.");
+MsgDisp("Hiiragi","This is a huge tank.
+There are so many creatures in it too.");
 MsgSel("What's the name of that fish?","The patterns on the tropical fish are so pretty▼","Huh∋　I feel something looking at me from behind the rock...");
 switch (MsgSelRsltGet()){
     case 0:

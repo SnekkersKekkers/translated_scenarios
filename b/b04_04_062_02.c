@@ -69,9 +69,9 @@ Your eyes are kinda scary!");
         ChMotion(4,2);
         ChEyeOpenLevel(4,7);
         VoicePlay("B040406202_04_060");
-        MsgDisp("Nanatsumori","In the best location, with the person you
-like, all day. Just the two of you.
-I wonder how nice it would feel.");
+        MsgDisp("Nanatsumori","All day in the best spot with the person you
+like, just the two of you.
+Man, how good must that feel.");
         MsgDisp("主人公","That's right.
 The person I like...");
         ChEye(4,0);
@@ -91,7 +91,7 @@ The person I like...");
         ChMotion(4,2,1);
         VoicePlay("B040406202_04_090");
         MsgDisp("Nanatsumori","Crap.
-I was already caught in a dream.");
+I'm already daydreaming...");
         MsgDisp("主人公","???");
         ChEye(4,4);
         ChMouth(4,3);

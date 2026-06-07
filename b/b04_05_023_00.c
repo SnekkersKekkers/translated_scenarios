@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040502300_05_010");
     MsgDisp("Hiiragi","I see.
-So it's a place everyone likes, before I
-voiced my opinion.");
+So everyone already likes it, before I even
+said a word.");
     MsgDateResultDisp();
     break ;
     case 1:

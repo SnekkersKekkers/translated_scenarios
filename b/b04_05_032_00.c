@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040503200_05_000");
-MsgDisp("Hiiragi","Penguins swimming in the sky.
-Truth in advertising, huh.");
+MsgDisp("Hiiragi","Penguins swimming through the sky.
+The sign doesn't lie, does it.");
 MsgSel("It really looks like they're flying in the sky...","Doesn't it only say water garden?","Looks like it feels good!");
 switch (MsgSelRsltGet()){
     case 0:

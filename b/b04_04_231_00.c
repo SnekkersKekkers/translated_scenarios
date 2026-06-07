@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(0);
     ChMouth(4,2);
     VoicePlay("B040423100_04_010");
-    MsgDisp("Nanatsumori","Please feel free to, by yourself.");
+    MsgDisp("Nanatsumori","Feel free to, by yourself.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -24,8 +24,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423100_04_020");
-    MsgDisp("Nanatsumori","That was a nice shout wasn't it?
-Good work to you too.");
+    MsgDisp("Nanatsumori","That was a nice shout, wasn't it?
+Nice job.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

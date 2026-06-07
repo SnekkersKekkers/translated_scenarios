@@ -40,8 +40,8 @@ You appear to know more about it than I do.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040502101_05_030");
-    MsgDisp("Hiiragi","Haha, how about around 4 o'clock?
-You're getting hasty, huh.");
+    MsgDisp("Hiiragi","Haha, around 4 o'clock maybe?
+You're getting ahead of yourself.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

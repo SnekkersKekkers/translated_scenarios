@@ -15,7 +15,7 @@ VoicePlay("B070400001_04_520");
 MsgDisp("Nanatsumori","Heart racing?");
 MsgDisp("主人公","Yeah.");
 VoicePlay("B070400001_04_530");
-MsgDisp("Nanatsumori","You're feeling well right?");
+MsgDisp("Nanatsumori","You're not feeling sick or anything, right?");
 MsgDisp("主人公","Yeah.");
 ChEye(4,2);
 ChMouth(4,0);

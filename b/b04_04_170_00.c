@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040417000_04_010");
     MsgDisp("Nanatsumori","OK.
 Feel free to put in any requests.
-I think mostly anything goes.");
+Pretty much anything goes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -24,7 +24,7 @@ I'm very satisfied.");
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B060400000_04_010");
-    MsgDisp("Nanatsumori","To say the least, it was the best.
+    MsgDisp("Nanatsumori","To put it simply, that was amazing.
 I would come again.");
     MsgDispSksp(0);
     break ;

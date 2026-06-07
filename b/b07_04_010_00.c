@@ -15,8 +15,8 @@ Do you remember when you asked me about love?");
 MsgDisp("主人公","Ah, yeah.");
 ChMotion(4,1,1);
 VoicePlay("B070401000_04_010");
-MsgDisp("Nanatsumori","After that, I've been thinking about it ever
-since.
+MsgDisp("Nanatsumori","Ever since then, I haven't been able to stop
+thinking about it.
 Stuff about love, about romance.");
 ChEyeOpenLevel(4,0);
 VoicePlay("B070401000_04_020");

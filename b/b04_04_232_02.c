@@ -47,7 +47,7 @@ their love fulfilled with that.");
         VoicePlay("B040423202_04_030");
         MsgDisp("Nanatsumori","Yes?");
         MsgDisp("主人公","Ummm...
-I was wondering if the jinx is true.");
+I was wondering if the superstition is real.");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);
@@ -68,9 +68,8 @@ I'm asking you this seriously.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_070");
-        MsgDisp("Nanatsumori","If you reorganize it in your head, the flow
-of this conversation just now, ...will go
-there, right?");
+        MsgDisp("Nanatsumori","Think back over how this conversation just went.
+...That's where it lands, right?");
         MsgDisp("主人公","...Ah.");
         ChEye(4,2);
         ChMouth(4,3);
@@ -82,8 +81,8 @@ there, right?");
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040423202_04_090");
-        MsgDisp("Nanatsumori","Sometimes I won't understand it.
-Your feelings, that is.");
+        MsgDisp("Nanatsumori","Sometimes I just can't read you.
+Your feelings, I mean.");
         ChMotion(4,0,1);
         VoicePlay("B040423202_04_100");
         MsgDisp("Nanatsumori","Sometimes, having no bad intentions can be
@@ -91,8 +90,8 @@ the most harmful thing.");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040423202_04_110");
-        MsgDisp("Nanatsumori","That's why....you shouldn't fluster the other
-person, but look at them properly.");
+        MsgDisp("Nanatsumori","So... before you go making someone flustered 
+like that, take a proper look at them first.");
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_120");
         MsgDisp("Nanatsumori","I can still stay calm.

@@ -13,8 +13,8 @@ ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B080401100_04_010");
-MsgDisp("Nanatsumori","I'm intruding.
-There's no need to worry.
+MsgDisp("Nanatsumori","Didn't mean to butt in.
+Don't worry about it.
 See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);

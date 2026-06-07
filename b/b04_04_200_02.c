@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040420002_04_010");
-        MsgDisp("Nanatsumori","That prerequisite is impossible.");
+        MsgDisp("Nanatsumori","That's a big 'if' right there.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -96,8 +96,7 @@ I respect that of you very much,
         ChMotion(4,3,1);
         ChCheek(4,0);
         VoicePlay("B040420002_04_110");
-        MsgDisp("Nanatsumori","I kind of feel like I've broken through my
-doubts.
+        MsgDisp("Nanatsumori","I feel like something just clicked for me.
 I only need to try looking cool at work.");
         ChEye(4,4);
         VoicePlay("B040420002_04_120");

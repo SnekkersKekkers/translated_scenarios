@@ -57,7 +57,7 @@ them?");
         ChMotion(4,2,1);
         VoicePlay("B040421102_04_050");
         MsgDisp("Nanatsumori","Well, I did but—");
-        MsgDisp("主人公","Then, let's do it.");
+        MsgDisp("主人公","Then let's go do it.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);

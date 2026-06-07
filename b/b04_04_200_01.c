@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040420001_04_010");
     MsgDisp("Nanatsumori","Seriously?
 What?
-Don't just say nonsense.");
+Don't just make stuff up.");
     MsgDateResultDisp();
     break ;
     case 1:

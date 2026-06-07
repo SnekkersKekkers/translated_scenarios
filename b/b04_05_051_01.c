@@ -27,8 +27,8 @@ completely taken by it.");
     ChMouth(5,2);
     ChMotion(5,1);
     VoicePlay("B040505101_05_020");
-    MsgDisp("Hiiragi","That's very straight to the point.
-I guess that's how it is.");
+    MsgDisp("Hiiragi","That's awfully blunt.
+But I suppose you're right.");
     MsgDateResultDisp();
     break ;
     case 2:

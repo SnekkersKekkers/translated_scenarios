@@ -66,7 +66,7 @@ what's good about it.");
         ChEye(4,0);
         ChMouth(4,4);
         VoicePlay("B040406302_04_060");
-        MsgDisp("Nanatsumori","Let's look for the good part of it!");
+        MsgDisp("Nanatsumori","Let's find what's good about it!");
         MsgDisp("主人公","Ah, sounds good!");
         ChMotion(4,1,1);
         VoicePlay("B040406302_04_070");

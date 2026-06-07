@@ -38,8 +38,8 @@ Though I do wonder what we're fueling up for.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040506100_05_030");
-    MsgDisp("Hiiragi","In the middle of this heat, looking down
-while walking is dangerous.");
+    MsgDisp("Hiiragi","In this heat, walking around staring at the
+ground is dangerous.");
     MsgDateResultDisp();
     break ;
     default :

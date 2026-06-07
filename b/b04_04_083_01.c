@@ -25,9 +25,9 @@ Feel free to go by yourself.");
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040408301_04_020");
-    MsgDisp("Nanatsumori","It's hard to be a human...
-I mean, I don't need the power of the sun in
-the middle of summer...");
+    MsgDisp("Nanatsumori","And here we humans are suffering...
+I mean, the last thing I need is the power of
+the midsummer sun...");
     MsgDateResultDisp();
     break ;
     case 2:

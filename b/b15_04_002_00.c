@@ -11,8 +11,8 @@ MsgDisp("主人公","∈");
 ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("B150400200_04_010");
-MsgDisp("Nanatsumori","I'm trying really hard too, though.
-Understand?");
+MsgDisp("Nanatsumori","I'm holding back really hard too, y'know.
+Get it?");
 MsgDisp("主人公","Ummm...");
 ChEye(4,2);
 ChMouth(4,4);

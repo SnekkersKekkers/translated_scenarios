@@ -24,8 +24,8 @@ Yeah, it is moving...");
 ChEye(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360423600_04_020");
-MsgDisp("Nanatsumori","My, my.
-Your eyes are watering...");
+MsgDisp("Nanatsumori","Oh my.
+You're getting all teary-eyed...");
 ChEye(4,0);
 VoicePlay("B360423600_04_030");
 MsgDisp("Nanatsumori","Hey, look this way.");
@@ -42,7 +42,7 @@ MsgDisp("Nanatsumori","Your eyes...");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChMotion(4,5,1);
 VoicePlay("B360423600_04_050");
-MsgDisp("Nanatsumori","I'm about to go- boom!");
+MsgDisp("Nanatsumori","And here I go—boom!");
 MsgDisp("主人公","Eh∈");
 MsgClose();
 ScrFadeOut(0);

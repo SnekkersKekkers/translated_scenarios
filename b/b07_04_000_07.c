@@ -10,9 +10,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_420");
-MsgDisp("Nanatsumori","Modelling is fun to do, but do I always have
-to do this?
-When I think about it, I wonder.");
+MsgDisp("Nanatsumori","Modeling's fun and all, but do I really
+want to keep doing this forever?
+When I think about it... yeah.");
 ChEye(4,4);
 ChMouth(4,0);
 VoicePlay("B070400000_04_430");

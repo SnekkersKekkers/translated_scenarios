@@ -50,7 +50,7 @@ summer.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040423602_04_030");
-        MsgDisp("Nanatsumori","You can't read the room huh—.");
+        MsgDisp("Nanatsumori","And there it is, totally killing the mood—");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,13 +62,13 @@ summer.");
         VoicePlay("B040423602_04_040");
         MsgDisp("Nanatsumori","My, oh my....you're bringing that up in this
 atmosphere?");
-        MsgDisp("主人公","It just came to my mind.");
+        MsgDisp("主人公","It just popped into my head.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040423602_04_050");
-        MsgDisp("Nanatsumori","It also just came to my mind.
-Oh dear, oh dear.");
+        MsgDisp("Nanatsumori","Now it's popped into my head too.
+Good grief.");
         MsgDisp("主人公","Ugh...sorry.
 We were having so much fun too.");
         ChEye(4,0);
@@ -120,9 +120,9 @@ Sorry, it was a joke.");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040423602_04_140");
-        MsgDisp("Nanatsumori","How am I gonna be so embarrassed after I was
-the one who said it...
-I'm so pathetic—...");
+        MsgDisp("Nanatsumori","Getting all embarrassed when I'm the one who
+said it...
+So pathetic—...");
         MsgDisp("主人公","(My heart is racing...)");
         break ;
         default :

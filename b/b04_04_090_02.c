@@ -40,8 +40,8 @@ Hmmm....");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040409002_04_030");
-        MsgDisp("Nanatsumori","No.
-It's taught me something again.");
+        MsgDisp("Nanatsumori","Nah.
+You've taught me something again.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);

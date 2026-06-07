@@ -28,7 +28,7 @@ Shall we go see it again?");
     ChMotion(5,4);
     VoicePlay("B040505100_05_020");
     MsgDisp("Hiiragi","No.
-But you jolted awake a few times didn't you?");
+But you kept jolting awake, didn't you?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -38,8 +38,8 @@ But you jolted awake a few times didn't you?");
     ChMotion(5,0);
     VoicePlay("B040505100_05_030");
     MsgDisp("Hiiragi","It did feel that way.
-I was also drawn in.
-It is regrettable.");
+I got drawn in too.
+My apologies.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -16,9 +16,9 @@ ChMouth(4,4);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B050400300_04_000");
-MsgDisp("Nanatsumori","All things considered, this flea market has a
-wide range of items.
-I feel like I'm on an expedition.");
+MsgDisp("Nanatsumori","Man, this flea market's got such a wide
+range of stuff.
+Feels like I'm on an expedition.");
 MsgDisp("主人公","What does that mean?");
 ChEye(4,0);
 ChMouth(4,3);

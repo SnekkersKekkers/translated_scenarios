@@ -17,8 +17,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B360417000_04_010");
-MsgDisp("Nanatsumori","I'm gonna flip the switch after I've seen
-your performance.");
+MsgDisp("Nanatsumori","I'll get myself in the mood after I've seen
+you up on stage.");
 MsgDisp("主人公","Hmm...
 What should I do...");
 ChEye(4,4);

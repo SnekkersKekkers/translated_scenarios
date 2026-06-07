@@ -164,7 +164,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B050400000_04_100");
-MsgDisp("Nanatsumori","It's not good.");
+MsgDisp("Nanatsumori","Not good enough.");
 MsgDisp("主人公","Huh?");
 ChEye(4,0);
 ChMouth(4,3);

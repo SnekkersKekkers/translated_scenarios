@@ -101,7 +101,7 @@ them.");
         MsgDisp("Nanatsumori","Right.");
         ChEye(4,5);
         ChMouth(4,4);
-        MsgDisp("主人公","Can we not go see them now?");
+        MsgDisp("主人公","Couldn't we go see them right now?");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,2,1);

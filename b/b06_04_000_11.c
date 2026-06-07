@@ -25,8 +25,8 @@ See ya.");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("B060400011_04_020");
-    MsgDisp("Nanatsumori","Then, I'll see you?
-Careful on your way back.");
+    MsgDisp("Nanatsumori","See ya, then?
+Get home safe.");
     break ;
     default :
     DbgAssert(1);

@@ -57,7 +57,7 @@ but do you want to try it?");
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040502102_05_050");
-        MsgDisp("Hiiragi","It'll be you saying it.");
+        MsgDisp("Hiiragi","You're the one who said it.");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,3);

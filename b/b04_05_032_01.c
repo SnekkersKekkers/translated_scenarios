@@ -29,8 +29,8 @@ Are you not interested?");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040503201_05_020");
-    MsgDisp("Hiiragi","Yeah, I really wanted to touch that flappy
-part of its throat.");
+    MsgDisp("Hiiragi","Yeah, I really wanted to touch that dangly
+pouch under its throat.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

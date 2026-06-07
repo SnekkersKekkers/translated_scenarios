@@ -6,8 +6,8 @@ ChMotion(4,0);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040424100_04_000");
-MsgDisp("Nanatsumori","It's so big...
-But, it's still just spacious.");
+MsgDisp("Nanatsumori","It's huge...
+But that's all it is, really.");
 MsgSel("It feels nice to be surrounded by Mother Nature!","...There's nothing here.","That cow keeps looking this way....");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040424100_04_020");
     MsgDisp("Nanatsumori","I can feel a lot of eyes on me.
-For now, let's eat the freshly squeezed soft
-serve ice cream made by these cows.");
+For now, let's grab some of the ice cream
+they make with the fresh cow milk.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

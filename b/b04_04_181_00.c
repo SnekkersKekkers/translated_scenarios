@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     VoicePlay("B040418100_04_000");
     MsgDisp("Nanatsumori","Ah, right...
-It was impossible for me.");
+That one just wasn't for me.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -22,8 +22,8 @@ It was impossible for me.");
     ChMouth(4,4);
     ChMotion(4,0);
     VoicePlay("B040418100_04_010");
-    MsgDisp("Nanatsumori","There was something enjoyable about it?
-That's what's most important.");
+    MsgDisp("Nanatsumori","So there was something you enjoyed?
+That's all that matters.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,1);
     VoicePlay("B040502401_05_010");
     MsgDisp("Hiiragi","Haa...
-Let's take care of each other.");
+Let's both look after our health.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

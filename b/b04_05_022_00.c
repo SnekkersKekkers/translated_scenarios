@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040502200_05_010");
     MsgDisp("Hiiragi","Agreed.
-There's no other way to put it.");
+That's all I can say too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

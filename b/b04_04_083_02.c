@@ -33,7 +33,7 @@ I think there are more leaves in the spring.");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040408302_04_020");
-        MsgDisp("Nanatsumori","You mean you enjoy seeing me be a hater?");
+        MsgDisp("Nanatsumori","So you enjoy watching me suffer?");
         MsgDateResultDisp();
         break ;
         case 4:

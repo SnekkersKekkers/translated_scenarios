@@ -107,7 +107,7 @@ Hm?");
         ChMouth(4,2);
         ChCheek(4,10);
         VoicePlay("B040405102_04_120");
-        MsgDisp("Nanatsumori","It's hard to exhibit self-restraint.");
+        MsgDisp("Nanatsumori","It's hard to hold myself back, you know.");
         MsgDisp("主人公","(???)");
         break ;
         default :

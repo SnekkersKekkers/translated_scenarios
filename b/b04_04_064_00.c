@@ -14,9 +14,9 @@ MsgDisp("Nanatsumori","There are lots of photogenic spots, so let's
 take a lot of pictures.");
 ChMotion(4,0,1);
 VoicePlay("B040406400_04_020");
-MsgDisp("Nanatsumori","Actually, I'd like to take some pictures in
-yukata and post them on social media, but
-that won't be possible.");
+MsgDisp("Nanatsumori","Honestly I'd love to take some yukata pics
+and post them on social media, but that's a
+no-go.");
 MsgDisp("主人公","Why?");
 ChEye(4,2);
 ChMouth(4,3);

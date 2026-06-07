@@ -33,7 +33,7 @@ together.");
         ChMouth(4,1);
         ChMotion(4,1,1);
         VoicePlay("B040417002_04_020");
-        MsgDisp("Nanatsumori","Your eyes are naughty.");
+        MsgDisp("Nanatsumori","You've got a naughty look in your eyes.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -117,9 +117,7 @@ You mean to say that I'm cute?");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040417002_04_130");
-        MsgDisp("Nanatsumori","The excitement of the closed room has come to
-an end.
-It's over.");
+        MsgDisp("Nanatsumori","The heart-racing private room moment is over.");
         MsgDisp("主人公","Y-Yeah.");
         ChEye(4,4);
         ChMouth(4,3);

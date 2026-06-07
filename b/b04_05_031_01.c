@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040503101_05_020");
-    MsgDisp("Hiiragi","There really is.
+    MsgDisp("Hiiragi","You're right.
 They're not eating the small fish?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

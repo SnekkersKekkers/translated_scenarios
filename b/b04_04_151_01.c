@@ -38,9 +38,9 @@ Even playing needs a break.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040415101_04_030");
-    MsgDisp("Nanatsumori","Hey. So you're saying there hasn't been any
-good things about me until now?
-Alright just you watch...");
+    MsgDisp("Nanatsumori","Hey. You're saying I haven't shown my good
+side at all so far?
+Alright, just you watch...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -4,9 +4,9 @@ ChEye(4,5);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("B080400002_04_010");
-MsgDisp("Nanatsumori","...Huh, well.
-Did you have some other business?
-Did you have other plans?");
+MsgDisp("Nanatsumori","...Hey, wait.
+Did you have somewhere to be?
+Like plans or something.");
 MsgDisp("主人公","No, I didn't but...");
 ChEye(4,2);
 ChMouth(4,4);

@@ -41,7 +41,8 @@ a picture right away.");
     ChCheek(4,8);
     VoicePlay("B040408500_04_030");
     MsgDisp("Nanatsumori","No...
-That warmed me up from the core just now.");
+That just warmed me up straight from 
+the core.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

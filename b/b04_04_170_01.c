@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040417001_04_010");
     MsgDisp("Nanatsumori","You're going for the safe bet.
-Is it okay for me to join halfway in?");
+Mind if I jump in partway through?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +27,8 @@ Is it okay for me to join halfway in?");
     ChMotion(4,0,1);
     VoicePlay("B040417001_04_020");
     MsgDisp("Nanatsumori","Oh...
-Looks like you have confidence in your
-singing ability.");
+Looks like you're pretty confident in your
+singing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -24,7 +24,7 @@ MsgDisp("Nanatsumori","Hey, have you noticed?");
 MsgDisp("主人公","Eh?");
 ChMotion(4,0,1);
 VoicePlay("B140400000_04_020");
-MsgDisp("Nanatsumori","What day it is today?");
+MsgDisp("Nanatsumori","What day is it today?");
 MsgDisp("主人公","The 25th of December, so Christmas Day?");
 VoicePlay("B140400000_04_030");
 MsgDisp("Nanatsumori","What about yesterday?");

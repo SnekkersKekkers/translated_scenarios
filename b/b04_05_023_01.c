@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040502301_05_010");
     MsgDisp("Hiiragi","That's right.
-I am inexperienced, but curious.");
+I've never tried it, but I'm curious.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

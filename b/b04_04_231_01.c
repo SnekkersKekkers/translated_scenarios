@@ -30,7 +30,7 @@ Maybe I should've stayed quiet.");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040423101_04_020");
-    MsgDisp("Nanatsumori","Sorry, I'm being a sissy.");
+    MsgDisp("Nanatsumori","Sorry for being such a wimp about it.");
     MsgDateResultDisp();
     break ;
     case 2:

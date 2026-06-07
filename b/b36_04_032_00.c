@@ -10,7 +10,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360403200_04_000");
-MsgDisp("Nanatsumori","I surprisingly really like aquariums.");
+MsgDisp("Nanatsumori","You know, I actually really like aquariums.");
 MsgDisp("主人公","Surprisingly?");
 ChMotion(4,1,1);
 VoicePlay("B360403200_04_010");

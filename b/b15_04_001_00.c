@@ -39,8 +39,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChCheek(4,8);
 VoicePlay("B150400100_04_050");
-MsgDisp("Nanatsumori","Skinship is fine, but If you go too far, my
-heart will also start strangely racing.");
+MsgDisp("Nanatsumori","Skinship is fine, but if you go too far, my
+heart starts racing like crazy.");
 ChMotion(4,2,1);
 VoicePlay("B150400100_04_060");
 MsgDisp("Nanatsumori","When you touch me like that just now,

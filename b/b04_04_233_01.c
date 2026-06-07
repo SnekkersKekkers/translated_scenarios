@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B040423301_04_000");
 MsgDisp("Nanatsumori","Something like this...
-I wonder who looked at it and thought, \"Damn,
-let's try this\".");
+I wonder who looked at this and thought,
+\"Yeah, let's give that a go.\"");
 MsgSel("Because it's interesting, of course!","It's a coming-of-age ritual somewhere abroad, I think.","I completely don't understand it...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -38,8 +38,8 @@ Everyone born in that country is a hero...");
     ChMotion(4,0,1);
     VoicePlay("B040423301_04_030");
     MsgDisp("Nanatsumori","I don't get it at all either.
-So why do we go out of our way to do
-something we don't understand?");
+So why do we even bother doing
+something we can't make sense of?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

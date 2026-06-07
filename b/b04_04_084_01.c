@@ -25,8 +25,8 @@ justification to overeat.");
     ChMotion(4,3,1);
     VoicePlay("B040408401_04_020");
     MsgDisp("Nanatsumori","Sounds good.
-I haven't conquered all the Autumn limited
-edition sweets yet. Let's eat it together.");
+I still haven't tried all the seasonal autumn
+sweets. Let's eat them together.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

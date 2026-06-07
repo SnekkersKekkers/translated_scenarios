@@ -66,8 +66,7 @@ glasses.");
 watched the same fireworks with the same
 person, three years in a row.");
         VoicePlay("B040406502_04_060");
-        MsgDisp("Nanatsumori","I would've never believed it if you told me
-that years ago.");
+        MsgDisp("Nanatsumori","The old me never would've imagined it.");
         MsgDisp("主人公","Is that so?");
         ChEye(4,0);
         ChMouth(4,3);

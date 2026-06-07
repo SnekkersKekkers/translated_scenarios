@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B350400000_04_040");
-    MsgDisp("Nanatsumori","Burn through this unsatisfaction.
-Let's play to our heart's content...");
+    MsgDisp("Nanatsumori","Let's burn off this restless energy.
+Let's go all out, just the two of us...");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -40,7 +40,7 @@ Let's play to our heart's content...");
     ChMouth(4,0);
     VoicePlay("B350400000_04_050");
     MsgDisp("Nanatsumori","Errands...");
-    MsgDisp("主人公","Um, I'm sorry okay?");
+    MsgDisp("主人公","Um, I'm really sorry.");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,0,1);

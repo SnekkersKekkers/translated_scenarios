@@ -30,7 +30,7 @@ I'm rather bad at making jokes.");
     ChMotion(5,4);
     VoicePlay("B040501001_05_020");
     MsgDisp("Hiiragi","No need to hesitate.
-As it was a joke.");
+It was just a joke.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

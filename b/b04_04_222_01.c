@@ -31,8 +31,8 @@ turned into a movie.");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040422201_04_020");
-    MsgDisp("Nanatsumori","It can't be helped?
-They fell in love after all.");
+    MsgDisp("Nanatsumori","Nothing they could do about it, right?
+They fell in love, after all.");
     MsgDateResultDisp();
     break ;
     case 2:

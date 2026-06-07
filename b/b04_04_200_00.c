@@ -6,7 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040420000_04_000");
-MsgDisp("Nanatsumori","How's your skiing ability?");
+MsgDisp("Nanatsumori","How good are you at skiing?");
 MsgSel("Call me a princess on the snow!","Enough that I won't fall over...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:

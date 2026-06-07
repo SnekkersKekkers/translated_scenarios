@@ -14,8 +14,7 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040423601_04_000");
 MsgDisp("Nanatsumori","Hey, look at that costume!
-It's a fish and it's got legs growing out of
-the flesh∋");
+It's a fish, but with legs∋");
 MsgSel("How surreal...","That's the weird \"mer\" part, isn't it?","It's creepy!");
 switch (MsgSelRsltGet()){
     case 0:

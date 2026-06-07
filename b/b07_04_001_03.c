@@ -63,8 +63,8 @@ VoicePlay("B070400001_04_260");
 MsgDisp("Nanatsumori","That's why, now...
 Every day is so fulfilling, really.");
 MsgDisp("主人公","(Hehe!
-It's not just ｛Nanatsumori＊｝, Everyone else
-is also definitely fulfilled.)");
+It's not just ｛Nanatsumori＊｝, everyone else
+is definitely loving it too.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

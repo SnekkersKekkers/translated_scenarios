@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040415102_04_010");
     MsgDisp("Nanatsumori","Looks like that's how it is in other places.
-I wonder if they'll also set up some
-interesting gambits here too—.");
+I wonder if they'll set up something
+fun here too—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

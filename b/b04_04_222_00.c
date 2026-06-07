@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,#1);
     VoicePlay("B040422200_04_010");
-    MsgDisp("Nanatsumori","I've had my fill from the lessons at school.");
+    MsgDisp("Nanatsumori","School lessons are already more than enough for me.");
     MsgDateResultDisp();
     break ;
     case 1:

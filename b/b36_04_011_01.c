@@ -49,8 +49,9 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360401101_04_060");
-MsgDisp("Nanatsumori","No...
-I'm a coward for trying to get a head start.");
+MsgDisp("Nanatsumori","Nah...
+Getting a head start like this makes me a
+real coward.");
 MsgDisp("主人公","That's...");
 ChMouth(4,3);
 VoicePlay("B360401101_04_070");
