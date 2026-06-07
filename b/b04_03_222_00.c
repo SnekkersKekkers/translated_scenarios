@@ -8,8 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040322200_03_000");
 MsgDisp("Honda","There are so many items on display here
 valuable enough for a museum.");
-MsgSel("A letter from 100 years ago?","A beautiful katana","This armor and helmet
- looks heavy...");
+MsgSel("A letter from 100 years ago?","A beautiful katana","This armor and helmet looks heavy...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
