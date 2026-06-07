@@ -40,7 +40,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_370");
 MsgDisp("Himuro","Then, don't overthink it.");
-MsgDisp("主人公","Look, the seagulls are so cute▼");
+MsgDisp("主人公","Yeah, thanks.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

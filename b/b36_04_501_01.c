@@ -45,7 +45,7 @@ VoicePlay("B360450101_04_040");
 MsgDisp("Nanatsumori","Yeah.
 You're funny, and pure.
 I really can't take my eyes off you.");
-MsgDisp("主人公","Want to head to the campsite?");
+MsgDisp("主人公","Ugh...");
 ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("B360450101_04_050");

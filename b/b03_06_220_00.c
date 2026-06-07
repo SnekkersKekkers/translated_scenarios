@@ -12,7 +12,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B030622000_06_010");
 MsgDisp("Himuro","So, what do you want to do?");
-MsgSel("It's so high, I can't move my legs...","Let's check out the exhibition");
+MsgSel("I want to go to the tower","Let's check out the exhibition");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

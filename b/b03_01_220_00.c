@@ -17,7 +17,7 @@ ChEye(1,0);
 ChMouth(1,0);
 VoicePlay("B030122000_01_010");
 MsgDisp("Kazama","Well, what route should we take?");
-MsgSel("It's so high, I can't move my legs...","Let's go to the Exhibition Corner.");
+MsgSel("I want to see the castle tower.","Let's go to the Exhibition Corner.");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(1,4);
@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B030122000_01_020");
     MsgDisp("Kazama","The stairs are steep, so be careful.");
     MsgDispSksp(1,0);
-    MsgDisp("主人公","Look, the seagulls are so cute▼");
+    MsgDisp("主人公","Yeah, thank you.");
     MsgDispSksp(0);
     break ;
     case 1:

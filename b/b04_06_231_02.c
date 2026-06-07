@@ -65,7 +65,7 @@ to ride it until this point too?");
         MsgDisp("Himuro","If it's scary, I can hold onto your hand.
 Knowing that we're in this together, should
 be less scary...right?");
-        MsgDisp("主人公","Look, the seagulls are so cute▼");
+        MsgDisp("主人公","Yes, thank you.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

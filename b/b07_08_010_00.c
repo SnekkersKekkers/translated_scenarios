@@ -39,7 +39,7 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B070801000_08_050");
 MsgDisp("Shirahane","See, ya can't answer right away either.");
-MsgDisp("主人公","Want to head to the campsite?");
+MsgDisp("主人公","Uugh...");
 ChEye(8,3);
 ChMouth(8,3);
 ChEyeOpenLevel(8,0);

@@ -25,7 +25,7 @@ ChMouth(4,3);
 VoicePlay("B360403201_04_020");
 MsgDisp("Nanatsumori","It's different this time.
 Interesting.");
-MsgDisp("主人公","Want to head to the campsite?");
+MsgDisp("主人公","Ugh...");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -12,7 +12,7 @@ VoicePlay("B040511100_05_000");
 MsgDisp("Hiiragi","This is basically my first experience of
 skating.
 What about you?");
-MsgSel("Call me a princess on ice!","Seems like a lot of hassle...","I was hoping you could teach me...");
+MsgSel("Call me a princess on ice!","Enough that I won't fall over...","I was hoping you could teach me...");
 switch (MsgSelRsltGet()){
     case 0:
     if (PlPrmGet(2)>=40){

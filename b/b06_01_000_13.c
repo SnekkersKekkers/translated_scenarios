@@ -3,7 +3,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B060100013_01_000");
 MsgDisp("Kazama","Hey, you still good on time?");
-MsgSel("Yeah, I'm good.","Let's go to the Exhibition Corner.");
+MsgSel("Yeah, I'm good.","Sorry, today is a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(1,0);

@@ -55,7 +55,7 @@ ChMotion(1,0);
 VoicePlay("B360105101_01_060");
 MsgDisp("Kazama","Come on, let's start.
 It's dark, so give me your hand.");
-MsgDisp("主人公","Look, the seagulls are so cute▼");
+MsgDisp("主人公","Yeah, thanks.");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_504");

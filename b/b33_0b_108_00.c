@@ -52,7 +52,7 @@ ChMotion(3,4,1);
 VoicePlay("B330B10800_03_010");
 MsgDisp("Honda","You're already like this.
 How will you be when we go inside?");
-MsgDisp("主人公","Want to head to the campsite?");
+MsgDisp("主人公","Ugh...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

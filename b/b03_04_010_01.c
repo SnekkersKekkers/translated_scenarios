@@ -9,7 +9,7 @@ VoicePlay("B030401001_04_000");
 MsgDisp("Nanatsumori","...So.
 Where are we headed?");
 MsgDisp("主人公","Let's see...");
-MsgSel("Let's try the medal game!","Sky lounge sounds nice.");
+MsgSel("How about that store?","Sky lounge sounds nice.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

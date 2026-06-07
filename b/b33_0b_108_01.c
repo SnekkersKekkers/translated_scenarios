@@ -57,7 +57,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B330B10801_01_010");
 MsgDisp("Kazama","I don't get scared of haunted houses in the
 first place.");
-MsgDisp("主人公","Want to head to the campsite?");
+MsgDisp("主人公","Ughh...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);

@@ -36,7 +36,7 @@ VoicePlay("B070600002_06_350");
 MsgDisp("Himuro","If you're worried about being the only girl,
 that's nonsense.
 That's all.");
-MsgDisp("主人公","Look, the seagulls are so cute▼");
+MsgDisp("主人公","Yeah, thank you.");
 MsgDisp("主人公","(That's ｛Himuro＊＊｝'s way of supporting me.
 I'm happy.)");
 BGMStop();
