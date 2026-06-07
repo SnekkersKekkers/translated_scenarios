@@ -1,4 +1,4 @@
-MsgDisp("","｛Kazama＊＊｝ is going on to a top
+MsgDisp("","｛Kazama＊＊｝ is going on to a first-rate
 university. He is also genuinely helping
 out his grandfather with his work.");
 MsgClear();

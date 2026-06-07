@@ -1,7 +1,7 @@
 BGOpen("sc500",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright, ...it's about time to go home.)");
+MsgDisp("主人公","(Alright, ...it's about time to head home.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();

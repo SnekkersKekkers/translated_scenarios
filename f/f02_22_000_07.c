@@ -4,7 +4,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
 ScrFadeIn(0);
-MsgDisp("主人公","It's summer break soon.");
+MsgDisp("主人公","Summer vacation is coming up soon.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

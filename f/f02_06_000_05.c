@@ -5,7 +5,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Finals are coming up, huh.");
+MsgDisp("主人公","Exams are coming up soon.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

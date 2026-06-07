@@ -28,7 +28,7 @@ You don't mean me, do you?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(I did...
+    MsgDisp("主人公","(Um...
 I definitely shouldn't call him that.)");
     break ;
     case 4:
@@ -46,7 +46,7 @@ Not that.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(Um...
-I shouldn't call him that...)");
+I definitely shouldn't call him that.)");
     break ;
     default :
     DbgAssert(1);

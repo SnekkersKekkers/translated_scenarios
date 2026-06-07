@@ -1,6 +1,6 @@
-MsgDisp("","｛Kazama＊＊｝ is going on to a top
-university. He is helping out his
-grandfather in his business.");
+MsgDisp("","｛Kazama＊＊｝ is going on to a first-rate
+university. He is also genuinely helping
+out his grandfather with his work.");
 MsgClear();
 MsgDisp("","｛Kazama＊＊｝ is genuinely helping out his
 grandfather with his business. The other

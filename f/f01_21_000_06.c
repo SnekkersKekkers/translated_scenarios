@@ -14,7 +14,7 @@ I'm not really in the mood today.");
     BGMStop();
     ChClose(21);
     MsgDisp("主人公","(...It can't be helped.
-I'll go home alone today.)");
+I'll go home alone.)");
     break ;
     case 3:
     ChEye(21,4);

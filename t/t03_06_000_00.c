@@ -1,11 +1,11 @@
 MsgType(2);
 BGOpen("ep000",0);
 ScrFadeIn(0);
-MsgDisp("","With the soft chime of bells reminiscent
-of a wedding, our paths became one...");
-MsgDisp("","I want us to be like the prince and
-princess in the stained-glass windows of
-the church, gazing at each other with
-affection and love, walking side by side,
-the two of us, forever.");
+MsgDisp("","We were united in the midst of the gentle
+sounds of wedding bells.");
+MsgDisp("","I want us to walk together forever, gazing
+into each other's eyes and loving each
+other like the prince and princess
+depicted in the stained glass windows of
+the church.");
 MsgClear();

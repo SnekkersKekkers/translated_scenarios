@@ -42,11 +42,11 @@ Should we go together?");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Hey, why don't we go to a cafe?");
+    MsgDisp("主人公","Hey, how about we go to a cafe?");
     break ;
     case 2:
     MsgDisp("主人公","Well, okay...
-I guess I'll go home alone.");
+I'll go home alone.");
     break ;
     default :
     DbgAssert(0);

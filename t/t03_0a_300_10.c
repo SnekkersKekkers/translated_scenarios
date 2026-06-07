@@ -1,9 +1,9 @@
 MsgClear();
 MsgDisp("","｛Kazama＊＊｝ is going to a first-rate
 university.");
-MsgDisp("","｛Sassa＊＊｝ went on to a top sports
+MsgDisp("","｛Sassa＊＊｝ went on to a first-rate sports
 university, ｛Himuro＊＊｝ advanced to his
-third year at Haba High");
+third year at Haba High.");
 MsgClear();
 MsgDisp("","｛Kazama＊＊｝ has started helping his
 grandfather in earnest, and I also drop by

@@ -140,7 +140,7 @@ like I did something wrong...)");
         ChMotion(6,2);
         ChCheek(6,0);
         VoicePlay("F010600007_06_110");
-        MsgDisp("Himuro",".....");
+        MsgDisp("Himuro","...");
         MsgDisp("主人公","Sorry?");
         ChEye(6,0);
         ChMouth(6,0);

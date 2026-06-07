@@ -4,6 +4,6 @@ ScrFadeIn(0);
 MsgDisp("","In this place where our memories
 accumulated, we confirmed our feelings for
 each other and vowed to be together.");
-MsgDisp("","Our hearts once parted ways.
-They will never part again.");
+MsgDisp("","Our hearts once parted.
+But they will never be apart again.");
 MsgClear();

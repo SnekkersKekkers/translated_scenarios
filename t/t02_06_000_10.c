@@ -1,5 +1,5 @@
 MsgClear();
-MsgSel("I like you too...","(Respond with a kiss)","This is so sudden...");
+MsgSel("Me too...","(Answer with a kiss)","Even if you say that so suddenly...");
 switch (MsgSelRsltGet()){
     case 0:
     break ;

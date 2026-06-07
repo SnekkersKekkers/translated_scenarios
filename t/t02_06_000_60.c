@@ -1,7 +1,8 @@
 ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
 BGMStop();
-MsgDisp("主人公","I'm sorry...");
+MsgDisp("主人公","I'm sorry...
+I...");
 ChEye(6,2);
 ChMouth(6,4);
 ChMotion(6,2);

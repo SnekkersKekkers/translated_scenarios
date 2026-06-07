@@ -1,7 +1,7 @@
 ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
 BGMStop();
-MsgDisp("主人公","This is so sudden...");
+MsgDisp("主人公","Even if you say that so suddenly...");
 VoicePlay("T020600000_06_400");
 ChEye(6,0);
 ChMouth(6,0);

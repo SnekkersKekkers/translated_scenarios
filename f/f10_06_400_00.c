@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Umm, my next lesson is...)");
+MsgDisp("主人公","(Umm, what class did I have next?)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,30,0,0,0,#1,#1,0,0);

@@ -30,7 +30,7 @@ ChMouth(6,3);
 ChMotion(6,0);
 ChCheek(6,0);
 MsgDisp("Himuro","...But I will say this.");
-MsgDisp("主人公","Huh?");
+MsgDisp("主人公","Eh?");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

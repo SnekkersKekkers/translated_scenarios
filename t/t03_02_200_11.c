@@ -7,9 +7,9 @@ style of aiming for points and is
 improving his records.");
 MsgDisp("","The other day he said, \"Maybe it was more
 fun when I was running with you like
-crazy?\"So I encouraged him by saying,
+crazy?\" So I encouraged him by saying,
 'I'll do that again once you become a
 world champion!' To that, ｛Sassa＊＊｝
 laughed out loud and said \"As expected
-from from my talented manager.\"");
+from from my talented manager.");
 MsgClear();

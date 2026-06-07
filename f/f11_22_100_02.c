@@ -5,7 +5,7 @@ ChOpen(22,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("F112210002_22_000");
-MsgDisp("Hikaru","Heey～, Mari!");
+MsgDisp("Hikaru","Hi～, Mari!");
 MsgDisp("主人公","｛ひかる＊｝!
 Here to be my cupid this year?");
 ChMotion(22,0,1);

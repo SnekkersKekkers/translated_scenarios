@@ -20,7 +20,7 @@ ChMotion(4,1,1);
 VoicePlay("T020401000_04_020");
 MsgDisp("Nanatsumori","...You know the true legend of this
 church, right?");
-MsgDisp("主人公","I do.");
+MsgDisp("主人公","Yes.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

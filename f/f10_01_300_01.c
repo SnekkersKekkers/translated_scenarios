@@ -21,7 +21,7 @@ ChLayout(2);
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,3,#1,#1,0,1);
-MsgDisp("主人公","Oh, ｛ひかる＊｝.");
+MsgDisp("主人公","Ah, ｛ひかる＊｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();

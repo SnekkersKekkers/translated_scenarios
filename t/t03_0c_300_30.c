@@ -1,6 +1,6 @@
-MsgDisp("","Although we may each be heading to
+MsgDisp("","Although each of us may be heading to
 different places in the future, the
-memories we have spent together will
+memories we made together will always
 remain in our hearts.");
 MsgDisp("","And so, this friendship will continue
 unchanged.");

@@ -31,7 +31,7 @@ VoicePlay("T020100000_01_610");
 MsgDisp("Kazama","It's okay.
 You remembered the most important memory
 of all.");
-MsgDisp("主人公","A wish made by a pinwheel...");
+MsgDisp("主人公","The pinwheel wish...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -47,7 +47,7 @@ may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020100000_01_650");
-MsgDisp("Ryota","I absolutely hope it can come true...");
+MsgDisp("Ryota","I really hope it can come true...");
 ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,10);
@@ -69,8 +69,8 @@ MsgDisp("Kazama","I found and bought it when I was in
 England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_690");
-MsgDisp("Kazama","—I'll definitely give it to you one
-day.");
+MsgDisp("Kazama","—I promised to definitely give it to
+you one day.");
 MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);

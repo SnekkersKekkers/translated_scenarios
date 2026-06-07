@@ -34,12 +34,12 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("T020120000_01_240");
-MsgDisp("Kazama","May we always be happy and healthy and may
-we be able to get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and
+may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020120000_01_250");
-MsgDisp("Ryota","I really hope it will happen...");
+MsgDisp("Ryota","I really hope it can come true...");
 ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,10);

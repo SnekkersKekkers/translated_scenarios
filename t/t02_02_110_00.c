@@ -112,7 +112,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211000_02_130");
 MsgDisp("Sassa","...Do you remember running with me?");
-MsgDisp("主人公","Yes");
+MsgDisp("主人公","Yes.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);

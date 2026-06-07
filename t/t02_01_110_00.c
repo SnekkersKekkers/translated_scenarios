@@ -115,9 +115,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020111000_01_110");
-MsgDisp("Kazama","...You digging sweet potatoes in
-kindergarten. Your big smile stained with
-mud from that day.");
+MsgDisp("Kazama","...Digging for sweet potatoes in
+kindergarten. A big smile stained with mud
+from that day.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

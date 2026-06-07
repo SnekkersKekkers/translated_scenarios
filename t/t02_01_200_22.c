@@ -46,7 +46,7 @@ ChCheek(1,0);
 ChMotion(1,0);
 VoicePlay("T020120000_01_580");
 MsgDisp("Kazama","May we always be happy and healthy, and
-may we be able to get married.");
+may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020120000_01_590");

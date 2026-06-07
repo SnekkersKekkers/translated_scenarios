@@ -49,8 +49,8 @@ If it's okay, can we go home together?");
     MsgDisp("主人公","If it's okay, how about we go to a cafe?");
     break ;
     case 2:
-    MsgDisp("主人公","Oh, okay...
-I'll go home alone today.");
+    MsgDisp("主人公","Well, okay...
+I'll go home alone.");
     break ;
     default :
     DbgAssert(0);

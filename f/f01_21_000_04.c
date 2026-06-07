@@ -54,7 +54,8 @@ Bye...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(21);
-    MsgDisp("主人公","(...Oh well, I'll go home alone.)");
+    MsgDisp("主人公","(...It can't be helped.
+I'll go home alone.)");
     break ;
     default :
     DbgAssert(1);

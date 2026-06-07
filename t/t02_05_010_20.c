@@ -1,4 +1,4 @@
-MsgDisp("主人公","I also like ｛Hiiragi＊＊＊｝.");
+MsgDisp("主人公","I also love ｛Hiiragi＊＊＊｝.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEye(5,4);

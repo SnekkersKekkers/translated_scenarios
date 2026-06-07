@@ -18,7 +18,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,3);
     VoicePlay("F010100007_01_010");
     MsgDisp("Kazama","Let's go home together.");
-    MsgSel("Sure. Let's go together.","How about a cafe?","Sorry, not today.");
+    MsgSel("Sure. Let's go together.","How about a cafe?","Sorry, I'm busy.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,4);
@@ -86,7 +86,7 @@ different classes.");
     ChEyeOpenLevel(1,0);
     VoicePlay("F010100007_01_050");
     MsgDisp("Kazama","So, are we walking home together?");
-    MsgSel("Sure, let's go together.","How about a cafe?","Sorry, I'm busy.");
+    MsgSel("Sure. Let's go together.","How about a cafe?","Sorry, I'm busy.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(1,0);

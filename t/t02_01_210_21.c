@@ -28,15 +28,15 @@ ChEyeOpenLevel(1,0);
 VoicePlay("T020121000_01_390");
 MsgDisp("Kazama","I see...
 So that wish really came true.");
-MsgDisp("主人公","That wish made by a pinwheel?");
+MsgDisp("主人公","The pinwheel wish?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 ChCheek(1,0);
 ChMotion(1,0);
 VoicePlay("T020121000_01_410");
-MsgDisp("Kazama","May we always be happy and healthy and may
-we be able to get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and
+may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020121000_01_420");

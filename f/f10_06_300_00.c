@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Umm, what was my next lesson again?)");
+MsgDisp("主人公","(Umm, what class did I have next?)");
 VoicePlay("F100630000_06_000");
 MsgDisp("Himuro?","At any rate, please stop that.
 That's all.

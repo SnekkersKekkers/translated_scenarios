@@ -19,9 +19,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020121000_01_010");
-MsgDisp("Kazama","I hurriedly came to school from the
+MsgDisp("Kazama","I rushed over to the school from the
 airport.
-Sorry, I left you alone.");
+Sorry for leaving you alone.");
 MsgDisp("主人公","...No, I wasn't alone.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -107,7 +107,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020121000_01_110");
-MsgDisp("Kazama","...Digging for sweet potatoes at
+MsgDisp("Kazama","...Digging for sweet potatoes in
 kindergarten. A big smile stained with mud
 from that day.");
 ChEye(1,2);

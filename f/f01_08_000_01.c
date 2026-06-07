@@ -60,7 +60,7 @@ Later.");
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
-    MsgDisp("主人公","(He left...
+    MsgDisp("主人公","(He left.
 It seems like that name's no good.)");
     break ;
     default :

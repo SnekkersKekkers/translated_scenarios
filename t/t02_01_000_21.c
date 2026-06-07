@@ -25,7 +25,7 @@ VoicePlay("T020100000_01_430");
 MsgDisp("Kazama","My wish really came true.");
 ChEye(1,4);
 ChEyeOpenLevel(1,10);
-MsgDisp("主人公","The wish on a pinwheel?");
+MsgDisp("主人公","The pinwheel wish?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -41,7 +41,7 @@ may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020100000_01_470");
-MsgDisp("Ryota","I absolutely hope it can come true...");
+MsgDisp("Ryota","I really hope it can come true...");
 ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,10);
@@ -63,8 +63,8 @@ MsgDisp("Kazama","I found and bought it when I was in
 England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020100000_01_510");
-MsgDisp("Kazama","—I'll definitely give it to you one
-day.");
+MsgDisp("Kazama","—I promised to definitely give it to
+you one day.");
 MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);
@@ -90,7 +90,7 @@ VoicePlay("T020100000_01_550");
 MsgDisp("Kazama","This kiss is our promise.");
 VoiceEVSPlay(1);
 VoicePlay("T020100000_01_560");
-MsgDisp("Kazama","｛主人公｝, I won't let you go.");
+MsgDisp("Kazama","｛主人公｝, I won't let you go again.");
 BGMStop();
 MsgClear();
 StlEffect(1,1,60);

@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
         ChMouth(22,3);
         ChMotion(22,3,1);
         VoicePlay("F012200002_22_000");
-        MsgDisp("Hikaru","Oh, Mari!");
-        MsgDisp("主人公","If it's alright, why don't we go home
+        MsgDisp("Hikaru","Ah, Mari!");
+        MsgDisp("主人公","If it's alright, how about we walk home
 together?");
         break ;
         case 3:
@@ -29,7 +29,7 @@ together?");
         MsgDisp("Hikaru","Oh, Mari!
 Going home now?");
         MsgDisp("主人公","Yes.
-If it's alright, why don't we go home
+If it's alright, how about we walk home
 together?");
         break ;
         case 4:
@@ -58,10 +58,10 @@ together?");
     MsgClose();
     BGMPlay("BGM_C22_HIKARU_A",0.01);
     ChOpen(22,254,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","How about we go to a cafe?");
+    MsgDisp("主人公","Hey, how about we go to a cafe?");
     break ;
     case 2:
-    MsgDisp("主人公","Oh, I see...
+    MsgDisp("主人公","Well, okay...
 I'll go home alone.");
     break ;
     default :

@@ -45,7 +45,7 @@ Hey, hey, we should go together▼");
     DbgAssert(1);
     break ;
     }
-MsgSel("Sure. Let's go together.","How about a cafe?","Sorry, I have something to do...");
+MsgSel("Sure. Let's go together.","How about a cafe?","Sorry, I'm busy.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(22,6)){
@@ -124,7 +124,7 @@ Goodbye.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(22);
-        MsgDisp("主人公","(Hm, did I do something bad?)");
+        MsgDisp("主人公","(Hmm, did I do something wrong?)");
         break ;
         case 4:
         case 5:
@@ -144,7 +144,7 @@ Bye-bye, Mari.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(22);
-        MsgDisp("主人公","(Hm, did I do something bad?)");
+        MsgDisp("主人公","(Hmm, did I do something wrong?)");
         break ;
         default :
         DbgAssert(1);

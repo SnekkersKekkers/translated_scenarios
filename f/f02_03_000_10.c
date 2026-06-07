@@ -5,8 +5,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, it's almost time for the culture
-festival.");
+MsgDisp("主人公","The culture festival is coming up soon.");
 ChMouth(3,1);
 ChMouth(3,3);
 ChMotion(3,1);

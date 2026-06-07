@@ -47,7 +47,7 @@ What's up?");
     MsgDisp("主人公","Hey, how about we go to a cafe?");
     break ;
     case 2:
-    MsgDisp("主人公","Well, it's fine...
+    MsgDisp("主人公","Well, okay...
 I'll go home alone.");
     break ;
     default :

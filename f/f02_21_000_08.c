@@ -5,7 +5,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,7);
 ScrFadeIn(0);
-MsgDisp("主人公","The cultural festival is coming up soon.");
+MsgDisp("主人公","The culture festival is coming up soon.");
 ChMotion(21,3);
 VoicePlay("F022100008_21_000");
 MsgDisp("Michiru","I'm looking forward to it.

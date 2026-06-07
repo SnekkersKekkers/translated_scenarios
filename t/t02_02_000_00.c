@@ -12,7 +12,7 @@ SEWait();
 BGMPlay("BGM_C02_SASSA_KOKU",0.01);
 ChOpen(2,254,7,0,0,#1,#1,0,0);
 MsgDisp("主人公","｛Sassa＊＊｝...
-Why are you here?");
+What are you doing here?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

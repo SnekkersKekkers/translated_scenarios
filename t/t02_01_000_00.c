@@ -44,7 +44,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("T020100000_01_040");
 MsgDisp("Kazama","It seems like we met thanks to our past
 selves.");
-MsgDisp("主人公","Yeah.");
+MsgDisp("主人公","Yes.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

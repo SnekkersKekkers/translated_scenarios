@@ -9,7 +9,7 @@ VoicePlay("T020120000_01_700");
 MsgDisp("Kazama","...I see.");
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
 MsgDisp("主人公","｛Kazama＊＊｝, thank you for always
-thinking of me. But...I'm sorry.");
+thinking of me but... I'm sorry.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,2);

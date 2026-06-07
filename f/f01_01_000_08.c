@@ -9,4 +9,4 @@ MsgDisp("Kazama","...");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(｛Kazama＊＊｝ looked mad...)");
+MsgDisp("主人公","(｛Kazama＊＊｝ looked upset...)");

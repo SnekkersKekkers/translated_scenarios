@@ -24,7 +24,7 @@ together?");
         VoicePlay("F012100002_21_010");
         MsgDisp("Michiru","Oh, Mari.
 What a coincidence, right?");
-        MsgDisp("主人公","Mhm.
+        MsgDisp("主人公","Yes.
 If it's alright, how about we walk home
 together?");
         break ;
@@ -52,7 +52,7 @@ together?");
     MsgDisp("主人公","Hey, how about we go to a cafe?");
     break ;
     case 2:
-    MsgDisp("主人公","Oh, okay...
+    MsgDisp("主人公","Well, okay...
 I'll go home alone.");
     break ;
     default :

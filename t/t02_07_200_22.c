@@ -43,8 +43,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("T020720022_07_050");
-MsgDisp("Mikage","Haa?
-Where is my serious girl...?");
+MsgDisp("Mikage","Huh?
+Where did my serious girl go...?");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

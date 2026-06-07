@@ -30,7 +30,7 @@ VoicePlay("T020101000_01_520");
 MsgDisp("Kazama","It's okay.
 You remembered the most important memory
 of all.");
-MsgDisp("主人公","A wish made by a pinwheel...");
+MsgDisp("主人公","The pinwheel wish...");
 ChMotion(1,0,1);
 Wait(12,0);
 ChEye(1,4);
@@ -48,7 +48,7 @@ may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020101000_01_560");
-MsgDisp("Ryota","I absolutely hope it can come true...");
+MsgDisp("Ryota","I really hope it can come true...");
 ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,10);

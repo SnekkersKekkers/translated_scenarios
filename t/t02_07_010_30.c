@@ -40,7 +40,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020701030_07_050");
-MsgDisp("Mikage","...Thank you for filling a void within me.");
+MsgDisp("Mikage","...Thank you for filling that void within
+me.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

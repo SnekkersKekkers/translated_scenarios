@@ -49,8 +49,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("T020101000_01_050");
 MsgDisp("Kazama","I was supposed to train at my grandpa's
-shop for three years and then promised to
-go back to England..");
+shop for three years and then go back to
+England.");
 MsgDisp("主人公","Eh...");
 ChEye(1,4);
 ChMouth(1,3);
@@ -84,7 +84,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020101000_01_090");
-MsgDisp("Kazama","...Digging for sweet potatoes at
+MsgDisp("Kazama","...Digging for sweet potatoes in
 kindergarten. A big smile stained with mud
 from that day.");
 ChEye(1,2);

@@ -11,7 +11,7 @@ SEWait();
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ChOpen(5,254,7,0,4,#1,#1,0,0);
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...
-Why are you here?");
+What are you doing here?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,2);

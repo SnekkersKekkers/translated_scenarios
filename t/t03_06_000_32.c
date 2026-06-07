@@ -1,8 +1,6 @@
-MsgDisp("","I have memories of playing here when I was
-little, a hint of some bittersweet feeling
-among them.");
-MsgDisp("","I wonder if there will come a day where I
-can remember just what that was...");
+MsgDisp("","I remember playing here when I was little.
+And I felt a bittersweet feeling.");
+MsgDisp("","I wonder I'll be able to remember what it was one day...");
 MsgClear();
 ScrFadeOut(0,0,300);
 MsgType(0);

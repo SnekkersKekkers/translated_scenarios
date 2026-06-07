@@ -5,7 +5,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Finals are coming up.");
+MsgDisp("主人公","Exams are coming up soon.");
 ChMotion(3,1);
 VoicePlay("F020300005_03_000");
 MsgDisp("Honda","Right.");

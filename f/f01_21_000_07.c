@@ -26,7 +26,7 @@ Shall we go home together?");
     ChMouth(21,3);
     ChMotion(21,1);
     VoicePlay("F012100007_21_020");
-    MsgDisp("Michiru","Oh, Mari!");
+    MsgDisp("Michiru","Ah, Mari!");
     MsgDisp("主人公","｛みちる＊｝.
 What's up?");
     ChEye(21,4);
@@ -40,7 +40,7 @@ What about you?");
     DbgAssert(1);
     break ;
     }
-MsgSel("Sure. Let's go together.","How about a cafe?","Sorry, I have something to do...");
+MsgSel("Sure. Let's go together.","How about a cafe?","Sorry, I'm busy.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(21,6)){

@@ -1,6 +1,6 @@
 MsgDisp("","Me and ｛Kazama＊＊｝ went onto a first-rate
 university.");
-MsgDisp("","｛Sassa＊＊｝ went on to a top sports
+MsgDisp("","｛Sassa＊＊｝ went on to a first-rate sports
 university, ｛Himuro＊＊｝ advanced to his
 third year at Haba High.");
 MsgClear();

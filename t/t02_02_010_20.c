@@ -12,7 +12,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("T020201020_02_000");
-MsgDisp("Sassa","...Seriously, together with me?...?");
+MsgDisp("Sassa","...Seriously, together with me...?");
 MsgDisp("主人公","Yes.
 I'm sorry I didn't notice when ｛Sassa＊＊｝
 was suffering.");

@@ -10,10 +10,10 @@ friends too, and the smile on his face
 when he's out on the waves is brighter
 than ever.");
 MsgClear();
-MsgDisp("","We also ran into Vice Principal Himuro in
+MsgDisp("","Come to think of it, we also ran into Vice Principal Himuro in
 the middle of our date once.");
-MsgDisp("","Not letting go of my hand, ｛Himuro＊＊｝ said
-\"She's my girlfriend...\"");
+MsgDisp("","Then, without letting go of my hand
+｛Himuro＊＊｝ said \"She's my girlfriend.\"...");
 MsgDisp("","I was embarrassed, but both ｛Himuro＊＊｝ and
 Vice Principal Himuro had somewhat of a
 contented smile on their faces.");

@@ -1,11 +1,11 @@
 MsgType(2);
 BGOpen("ep000",0);
 ScrFadeIn(0);
-MsgDisp("","After ｛ひかる＊｝ was introduced by
-Goro-sensei, she burst into the
-entertainment world! Now she is a big hit
-as a 'fashion model who can tell love
-stories.'");
+MsgDisp("","｛ひかる＊｝ broke into the
+entertainment world with the introduction
+of GORO-sensei! She is now a very popular
+'fashion model who can predict love
+fortunes.'");
 MsgClear();
 MsgDisp("","In addition to her busy entertainment
 career, she is also attending a sports

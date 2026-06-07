@@ -35,7 +35,7 @@ StlOpen("ev_07_16");
 ScrFadeIn(0);
 VoicePlay("T020720020_07_040");
 MsgDisp("Mikage","Well then, my prized beauty.
-Let me see your face.");
+Let me see your face properly.");
 MsgDisp("主人公","Yes...");
 VoiceEVSPlay(7);
 VoicePlay("T020720020_07_050");

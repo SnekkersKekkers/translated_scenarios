@@ -137,7 +137,7 @@ ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020501000_05_140");
 MsgDisp("Hiiragi","You were my only light as I struggled
-blindly through school and with theater.");
+blindly through school and theater.");
 MsgClear();
 ChClose(5);
 ChCustomLayout(5,5,0,-2.6);

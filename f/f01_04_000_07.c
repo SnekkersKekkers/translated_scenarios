@@ -32,7 +32,7 @@ Should we walk together?");
     VoiceEVSPlay(4);
     VoicePlay("F010400007_04_020");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Oh, ｛Nanatsumori＊｝.");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("F010400007_04_030");

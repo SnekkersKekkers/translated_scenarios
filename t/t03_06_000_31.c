@@ -1,11 +1,10 @@
-MsgDisp("","We spend less time together now than in my
-highschool days, but all is well.");
-MsgDisp("","Someday in the future, when the two of us
-say our weddings vows, I hope we will be
-blessed by grand church bells.");
-MsgDisp("","Remembering the chime of bells from that
-day, we will make a promise of eternal
-love!");
+MsgDisp("","We'll be spending less time together than
+we did in high school, but that's okay.");
+MsgDisp("","One day, when we make our vows to each
+other, I hope we will be blessed with
+grand wedding bells.");
+MsgDisp("","I will remember the sound of the bells on
+that day and pledge my eternal love!");
 MsgClear();
 MsgClose();
 ScrFadeOut(0,0,300);

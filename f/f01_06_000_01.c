@@ -13,7 +13,7 @@ switch (ChPrmGet(6,6)){
     BGMStop();
     ChClose(6);
     MsgDisp("主人公","(He left...
-I definitely shouldn't call him that.)");
+I guess I shouldn't call him that.)");
     break ;
     case 3:
     MsgDisp("主人公","｛Himuro＊＊｝.");

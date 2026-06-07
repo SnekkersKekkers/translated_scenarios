@@ -11,7 +11,8 @@ switch (MsgSelRsltGet()){
         ChOpen(1,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010100002_01_000");
         MsgDisp("Kazama","What?");
-        MsgDisp("主人公","If it's okay, can we go home together?");
+        MsgDisp("主人公","If it's alright, how about we walk home
+together?");
         break ;
         case 3:
         MsgDisp("主人公","｛Kazama＊＊｝.");
