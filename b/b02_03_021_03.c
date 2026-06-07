@@ -13,6 +13,6 @@ VoicePlay("B020302103_03_010");
 MsgDisp("Honda","Yeah, really stylish!
 It could be because it's so mature?
 But it makes my heart flutter!");
-MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like this!)");
+MsgDisp("主人公","(Yay!
+Looks like ｛Honda＊＊｝ really likes it.)");
 ChCheek(3,0);

@@ -11,5 +11,5 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B020302112_03_010");
 MsgDisp("Honda","Haah, I really admire your taste.
 I don't think I could do it.");
-MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to really like this.)");
+MsgDisp("主人公","(Yay!
+Looks like ｛Honda＊＊｝ really likes it.)");

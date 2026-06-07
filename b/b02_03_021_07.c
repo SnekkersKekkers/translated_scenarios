@@ -11,5 +11,5 @@ ChMotion(3,1);
 VoicePlay("B020302107_03_010");
 MsgDisp("Honda","Exactamundo.
 That perfect balance is magnificent!");
-MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like this!)");
+MsgDisp("主人公","(Yay!
+Looks like ｛Honda＊＊｝ really likes it.)");

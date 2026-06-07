@@ -12,5 +12,5 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("B020502102_05_010");
 MsgDisp("Hiiragi","I am simply stunned by you and your dazzling
 and bright clothing.");
-MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems really happy!)");
+MsgDisp("主人公","(Yay!
+｛Hiiragi＊＊＊｝ seems to be really happy!)");

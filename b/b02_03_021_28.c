@@ -2,9 +2,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B020302128_03_000");
-MsgDisp("Honda","...Isn't that something?
-I couldn't understand this kind of outfit
-before...");
+MsgDisp("Honda","...Weird.
+I didn't really get outfits like this before...");
 MsgDisp("主人公","Eh∋
 Do you dislike it?");
 ChEye(3,0);

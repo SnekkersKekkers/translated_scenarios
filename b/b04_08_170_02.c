@@ -92,7 +92,7 @@ to sing in front of others.");
         VoicePlay("B040817002_08_090");
         MsgDisp("Shirahane","I don't wanna pretend that you're not here.
 I absolutely can't do that...");
-        MsgDisp("主人公","(｛Daichi＊＊｝....)");
+        MsgDisp("主人公","(｛Daichi＊＊｝...)");
         break ;
         default :
         DbgAssert(1);

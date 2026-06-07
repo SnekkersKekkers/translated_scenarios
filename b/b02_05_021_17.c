@@ -13,6 +13,6 @@ ChMotion(5,4);
 VoicePlay("B020502117_05_020");
 MsgDisp("Hiiragi","I believe I understand why I can feel so at
 ease near you.");
-MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems to like these clothes,
-too!)");
+MsgDisp("主人公","(I'm glad!
+｛Hiiragi＊＊＊｝ seems to like clothes like
+these, too!)");

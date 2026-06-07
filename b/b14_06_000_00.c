@@ -57,9 +57,8 @@ MsgDisp("Himuro","Having said all that, well, Merry Christmas
 right?");
 MsgDisp("主人公","Heheh, yeah!
 ｛Himuro＊＊｝, Merry Christmas.");
-MsgDisp("主人公","(I see, both today and yesterday, I've been
-with ｛Himuro＊＊｝.
-My heart is racing a bit...)");
+MsgDisp("主人公","(I see, I've spent two days in a row with ｛Himuro＊＊｝.
+My heart is racing a little...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

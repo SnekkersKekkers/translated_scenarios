@@ -16,4 +16,4 @@ MsgDisp("Kazama","Huh...
 You're way too good at everything—even this
 style suits you.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
-this.)");
+these, too.)");

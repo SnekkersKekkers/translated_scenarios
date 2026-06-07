@@ -15,4 +15,4 @@ MsgDisp("Kazama","Exaggerating?
 No, this stuff really is hard to pull off.
 You've just got the flair for it.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
-this.)");
+these, too.)");

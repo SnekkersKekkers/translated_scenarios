@@ -106,6 +106,6 @@ MsgDisp("Himuro","See you later, then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","(｛Himuro＊＊｝...");
+MsgDisp("主人公","(｛Himuro＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);

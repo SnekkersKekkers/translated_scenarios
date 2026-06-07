@@ -12,4 +12,4 @@ MsgDisp("Kazama","Yeah.
 That kind of thing works as a fashion
 statement too.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
-this.)");
+these, too.)");

@@ -1,6 +1,6 @@
-MsgDisp("主人公","Recently, ｛Kazama＊＊｝ you're with
-｛Honda＊＊｝ and ｛Nanatsumori＊｝ a lot but,
-what sort of things do you talk about?");
+MsgDisp("主人公","｛Kazama＊＊｝, recently you've been around
+｛Honda＊＊｝ and ｛Nanatsumori＊｝ a lot but, what
+sort of things do you talk about?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);

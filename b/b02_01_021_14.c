@@ -12,4 +12,4 @@ VoicePlay("B020102114_01_010");
 MsgDisp("Kazama","Of course you did.
 You're dressed to impress.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
-this.)");
+these, too.)");

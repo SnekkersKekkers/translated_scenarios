@@ -5,7 +5,7 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","...By the way, ｛Mikage＊＊｝.");
+MsgDisp("主人公","｛Mikage＊＊｝, by the way...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

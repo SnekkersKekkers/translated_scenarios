@@ -12,5 +12,6 @@ VoicePlay("B020502120_05_010");
 MsgDisp("Hiiragi","Yes.
 Walking briskly will even increase your
 charm.");
-MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems to like these clothes!)");
+MsgDisp("主人公","(I'm glad!
+｛Hiiragi＊＊＊｝ seems to like clothes like
+these, too!)");

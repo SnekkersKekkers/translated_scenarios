@@ -11,6 +11,6 @@ VoicePlay("B020502114_05_010");
 MsgDisp("Hiiragi","Yes, I think I could borrow such an idea for
 the stage.
 This has been educational.");
-MsgDisp("主人公","(Oh, good!
+MsgDisp("主人公","(I'm glad!
 ｛Hiiragi＊＊＊｝ seems to like clothes like
-this!)");
+these, too!)");

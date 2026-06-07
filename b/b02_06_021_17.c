@@ -12,4 +12,5 @@ VoicePlay("B020602117_06_010");
 MsgDisp("Himuro","Depends on who's wearing it.
 For you, it's fine.");
 MsgDisp("主人公","(I'm glad!
-｛Himuro＊＊｝ seems to like these clothes!)");
+｛Himuro＊＊｝ seems to like clothes like
+these, too!)");

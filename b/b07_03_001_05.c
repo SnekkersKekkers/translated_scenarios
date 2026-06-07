@@ -1,6 +1,4 @@
-MsgDisp("主人公","Recently, we've been hanging out more as a
-group of four with ｛Kazama＊＊｝ and
-｛Nanatsumori＊｝.");
+MsgDisp("主人公","We've been spending a lot of time with ｛Kazama＊＊｝ and ｛Nanatsumori＊｝ lately.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

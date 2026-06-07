@@ -7,7 +7,7 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","...By the way, ｛Daichi＊＊｝.");
+MsgDisp("主人公","｛Daichi＊＊｝, by the way...");
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_000");
 MsgDisp("Shirahane","What?");

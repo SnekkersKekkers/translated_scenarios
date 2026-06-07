@@ -12,5 +12,5 @@ VoicePlay("B020602107_06_010");
 MsgDisp("Himuro","Whether it's my taste or not, I can't
 complain.
 It suits you.");
-MsgDisp("主人公","(I'm glad!
-｛Himuro＊＊｝ seems really pleased!)");
+MsgDisp("主人公","(Yay!
+｛Himuro＊＊｝ seems to be really happy!)");

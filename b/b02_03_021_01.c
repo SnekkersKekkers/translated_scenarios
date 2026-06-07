@@ -11,6 +11,5 @@ VoicePlay("B020302101_03_010");
 MsgDisp("Honda","Ah, sorry!
 I meant, like, that's girly, or cute?
 That kind of look really suits you.");
-MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like this sort of
-thing.)");
+MsgDisp("主人公","(Yay!
+Looks like ｛Honda＊＊｝ really likes it.)");

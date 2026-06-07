@@ -16,4 +16,4 @@ MsgDisp("Nanatsumori","Yeah.
 When the person and the clothes 
 click, the result's amazing.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ seems to have really come to
-like these clothes!)");
+like this kind of outfit!)");

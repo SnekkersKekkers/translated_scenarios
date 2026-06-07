@@ -12,5 +12,5 @@ ChMotion(3,1);
 VoicePlay("B020302110_03_010");
 MsgDisp("Honda","Ah, that might be it!
 ...But even so, why am I feeling so excited?");
-MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to really like this.)");
+MsgDisp("主人公","(Yay!
+Looks like ｛Honda＊＊｝ really likes it.)");

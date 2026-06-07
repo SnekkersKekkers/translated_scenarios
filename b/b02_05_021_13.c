@@ -7,6 +7,6 @@ MsgDisp("主人公","It isn't strange?");
 VoicePlay("B020502113_05_010");
 MsgDisp("Hiiragi","No, it suits you very well.
 Perfectly fitting for your loveliness.");
-MsgDisp("主人公","(Oh, good!
+MsgDisp("主人公","(I'm glad!
 ｛Hiiragi＊＊＊｝ seems to like clothes like
-this!)");
+these, too!)");

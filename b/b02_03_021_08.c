@@ -12,6 +12,6 @@ VoicePlay("B020302108_03_010");
 MsgDisp("Honda","Aren't your clothes today a little
 suggestive?
 It's really getting my heart racing.");
-MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to really like this!)");
+MsgDisp("主人公","(Yay!
+Looks like ｛Honda＊＊｝ really likes it.)");
 ChCheek(3,0);

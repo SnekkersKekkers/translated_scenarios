@@ -11,6 +11,6 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B020302104_03_010");
 MsgDisp("Honda","Righty-o!
 I can have fun without restraint, too!");
-MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like this!)");
+MsgDisp("主人公","(Yay!
+Looks like ｛Honda＊＊｝ really likes it.)");
 ChEyeOpenLevel(3,#1);

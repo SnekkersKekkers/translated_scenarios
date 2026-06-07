@@ -11,5 +11,5 @@ ChMotion(5,4);
 VoicePlay("B020502133_05_010");
 MsgDisp("Hiiragi","I do not know if I could pull it off, but I'd
 like to try regardless.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to really like this
-outfit!)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to have really come to
+like this kind of outfit!)");

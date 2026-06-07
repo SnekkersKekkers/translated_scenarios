@@ -10,5 +10,6 @@ VoicePlay("B020502119_05_010");
 MsgDisp("Hiiragi","You're living proof of that.
 Your true charm is brought out by clothes
 that aren't flashy.");
-MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems to like these clothes!)");
+MsgDisp("主人公","(I'm glad!
+｛Hiiragi＊＊＊｝ seems to like clothes like
+these, too!)");

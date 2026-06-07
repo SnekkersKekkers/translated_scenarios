@@ -12,5 +12,5 @@ ChMotion(3,4);
 VoicePlay("B020302111_03_010");
 MsgDisp("Honda","Huh, why not?
 I think you look better in it?");
-MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to really like this!)");
+MsgDisp("主人公","(Yay!
+Looks like ｛Honda＊＊｝ really likes it.)");

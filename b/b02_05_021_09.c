@@ -10,5 +10,5 @@ VoicePlay("B020502109_05_010");
 MsgDisp("Hiiragi","Though, I bet you'd look great running in
 that outfit.
 I'd love to see it.");
-MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems really happy!)");
+MsgDisp("主人公","(Yay!
+｛Hiiragi＊＊＊｝ seems to be really happy!)");

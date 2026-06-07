@@ -15,4 +15,4 @@ MsgDisp("Kazama","No, it's good taste...
 Or should I say sexy taste?
 If anything, it makes me worried.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
-this.)");
+these, too.)");

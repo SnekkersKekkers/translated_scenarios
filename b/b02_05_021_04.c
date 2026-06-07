@@ -17,5 +17,5 @@ VoicePlay("B020502104_05_020");
 MsgDisp("Hiiragi","You bring out the charm in clothing.
 That is why I've come to like this type of
 clothing. It is a feeling I can't explain.");
-MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems really happy!)");
+MsgDisp("主人公","(Yay!
+｛Hiiragi＊＊＊｝ seems to be really happy!)");

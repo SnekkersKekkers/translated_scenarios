@@ -11,5 +11,5 @@ VoicePlay("B020502108_05_010");
 MsgDisp("Hiiragi","Yes, that look has an aura that won't let its
 prey escape.
 I can't afford to lose, either.");
-MsgDisp("主人公","(Oh, good!
-｛Hiiragi＊＊＊｝ seems really happy!)");
+MsgDisp("主人公","(Yay!
+｛Hiiragi＊＊＊｝ seems to be really happy!)");
