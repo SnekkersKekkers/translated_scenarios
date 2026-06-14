@@ -69,7 +69,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("F020500014_05_110");
-MsgDisp("Hiiragi","Hehe, well, in that spirit, let's enjoy
+MsgDisp("Hiiragi","Haha, well, in that spirit, let's enjoy
 what's left of our life at Haba High
 together, shall we?");
 MsgDisp("主人公","(Graduation...

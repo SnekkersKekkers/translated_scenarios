@@ -31,7 +31,7 @@ MsgDisp("Sassa","Nah, I just said that on a whim.
 I'm glad I could help.");
 MsgDisp("主人公","(Even though I was a member of the student
 council for three years, ｛Sassa＊＊｝ had to
-save me. Ugh... I made a big mess of things.)");
+save me. Sigh... I made a big mess of things.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

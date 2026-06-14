@@ -63,7 +63,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10201_06_020");
-MsgDisp("Himuro","Haa...
+MsgDisp("Himuro","Sigh...
 I praised him just now, but I take it back.");
 ChEye(1,0);
 ChMouth(1,3);

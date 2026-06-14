@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(1,255,0,2,2,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123302_01_000");
-MsgDisp("Kazama","Haa...
+MsgDisp("Kazama","Sigh...
 I get it, you like this don't you?");
 MsgSel("I like watching ｛Kazama＊＊｝ jump.","It's scary, but that's what makes it addictive...","Maybe...I like it?");
 switch (MsgSelRsltGet()){
@@ -32,7 +32,7 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123302_01_020");
-        MsgDisp("Kazama","Haa, well I don't know how you feel about it,
+        MsgDisp("Kazama","Sigh, well I don't know how you feel about it,
 but it's the opposite for me.");
         ChEye(1,2);
         ChMouth(1,2);

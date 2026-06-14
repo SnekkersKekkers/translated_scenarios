@@ -7,6 +7,6 @@ VoicePlay("X022200002_22_000");
 MsgDisp("Hikaru","Shouldn't you be more selective about what
 you've learned?
 You're doing too much～");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

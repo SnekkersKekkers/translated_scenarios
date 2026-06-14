@@ -17,7 +17,7 @@ Wait(80,0);
 SEStop("EV_SE_744",1);
 SEStop("EV_SE_608",2);
 VoicePlay("D010700400_42_000");
-MsgDisp("Student A","Huh...
+MsgDisp("Student A","Sigh...
 Is it over already?");
 VoicePlay("D010700400_44_000");
 MsgDisp("Girl A","I don't want to go home already!");

@@ -75,7 +75,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_100");
-MsgDisp("Himuro","Haa...
+MsgDisp("Himuro","Sigh...
 Why did you have to be my senior?");
 ChEye(6,2);
 ChMouth(6,0);

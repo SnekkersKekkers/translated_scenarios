@@ -10,7 +10,7 @@ ChEyeOpenLevel(7,0);
 BGMPlay("BGM_C07_MIKAGE_C",0.01);
 ScrFadeIn(0);
 VoicePlay("B360703201_07_000");
-MsgDisp("Mikage","Haa～...
+MsgDisp("Mikage","*Yawn*～...
 I feel tired.");
 MsgDisp("主人公","Are you okay?");
 ChEye(7,2);

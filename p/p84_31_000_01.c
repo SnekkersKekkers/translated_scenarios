@@ -3,7 +3,7 @@ ChMouth(31,1);
 ChMotion(31,0);
 ScrFadeIn(0);
 VoicePlay("P843100001_31_000");
-MsgDisp("Goro","Haa, haa...
+MsgDisp("Goro","Pant, pant...
 My legs are stiff...");
 MsgDisp("主人公","I'm sorry, I've been so busy I've just been
 dragging you along with me...");
@@ -17,7 +17,7 @@ out of it... Well then...adieu.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Haa, I should have properly thought of a
+MsgDisp("主人公","(Sigh, I should have properly thought of a
 tour route.
 A huge fail...)");
 MsgClose();

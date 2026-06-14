@@ -80,7 +80,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A10501_02_010");
-MsgDisp("Sassa","Haa—, that was delicious—!");
+MsgDisp("Sassa","Ahh—, that was delicious—!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

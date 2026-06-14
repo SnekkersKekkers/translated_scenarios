@@ -22,7 +22,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110701000_07_010");
-MsgDisp("Mikage","Haa...talking like this reminds me of when
+MsgDisp("Mikage","Sigh...talking like this reminds me of when
 you first joined the club.");
 ChEye(7,0);
 ChMouth(7,0);

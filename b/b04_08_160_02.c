@@ -64,7 +64,7 @@ That was close, wasn't it?");
         ChMouth(8,2);
         ChEyeOpenLevel(8,0);
         VoicePlay("B040816002_08_050");
-        MsgDisp("Shirahane","Haa..
+        MsgDisp("Shirahane","Sigh..
 This is so uncool.");
         MsgDisp("主人公","No.
 ｛Daichi＊＊｝ was amazing!

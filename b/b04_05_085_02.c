@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B040508502_05_000");
-MsgDisp("Hiiragi","Haa—.
+MsgDisp("Hiiragi","Sigh—.
 We came on such a cold day didn't we?");
 MsgSel("It's cold because you think it's cold!","Haa—, haa—, my breath is totally white!","Shall we hold hands?");
 switch (MsgSelRsltGet()){

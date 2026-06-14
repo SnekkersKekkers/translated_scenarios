@@ -68,7 +68,7 @@ ChLayout(0);
 ChOpen(8,254,0,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("T020801000_08_030");
-MsgDisp("Shirahane","Haa...sorry for the wait.");
+MsgDisp("Shirahane","Phew...sorry for the wait.");
 ChEye(8,4);
 ChEyeOpenLevel(8,10);
 MsgDisp("主人公","No, it's okay.

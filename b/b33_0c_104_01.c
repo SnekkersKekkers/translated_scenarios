@@ -126,7 +126,7 @@ VoicePlay("B330C10401_05_040");
 MsgDisp("Hiiragi","Then let's try again when he's forgotten
 about it.");
 VoicePlay("B330C10401_06_050");
-MsgDisp("Himuro","Haa....");
+MsgDisp("Himuro","*Yawn*...");
 ChEye(7,0);
 ChMouth(7,2);
 ChMotion(7,5);
@@ -137,7 +137,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10401_05_050");
-MsgDisp("Hiiragi","Hehe, I don't think there's any need to try.");
+MsgDisp("Hiiragi","Haha, I don't think there's any need to try.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

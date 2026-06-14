@@ -24,7 +24,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100610000_06_020");
-MsgDisp("Himuro","Haa... don't mind it.");
+MsgDisp("Himuro","Sigh... don't mind it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

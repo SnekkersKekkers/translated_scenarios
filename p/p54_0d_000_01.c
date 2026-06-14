@@ -4,7 +4,7 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...that was a huge fail...)");
+MsgDisp("主人公","(Sigh...that was a huge fail...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.5);
 ChOpen(21,254,0,0,0,#1,#1,0,1);
@@ -27,7 +27,7 @@ ChMotion(22,0,1);
 VoicePlay("P540D00001_22_010");
 MsgDisp("Hikaru","Sorry, sorry!
 Well, don't let it dishearten you, okay?");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 It would be good if I practiced more...)");
 MsgClose();
 ScrFadeOut(0,0);

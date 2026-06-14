@@ -32,7 +32,7 @@ crowd and the rowdy crowd.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040408102_04_020");
-    MsgDisp("Nanatsumori","Haa.
+    MsgDisp("Nanatsumori","Sigh.
 You sure are strangely excited, aren't you?");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);

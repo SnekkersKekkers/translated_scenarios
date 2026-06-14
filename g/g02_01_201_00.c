@@ -46,7 +46,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120100_01_060");
-MsgDisp("Kazama","Hah.
+MsgDisp("Kazama","Sigh.
 I'm a lowlife, taking advantage of those
 feelings of yours to bring you here.");
 MsgDisp("主人公","You're not a lowlife.");

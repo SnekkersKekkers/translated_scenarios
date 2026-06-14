@@ -37,7 +37,7 @@ this establishment.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040509001_05_030");
-    MsgDisp("Hiiragi","Hehe, I understand.
+    MsgDisp("Hiiragi","Haha, I understand.
 When a big butterfly lands on your face, it
 looks like a masquerade ball.");
     MsgDispSksp(1,0);

@@ -54,7 +54,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B110100001_01_010");
-MsgDisp("Kazama","Haaa?
+MsgDisp("Kazama","Huh?
 Oi, I don't understand you.");
 MsgDispSksp(0);
 ChEye(34,1);
@@ -82,7 +82,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B110100001_01_030");
-MsgDisp("Kazama","Haa?
+MsgDisp("Kazama","Huh?
 What was up with that guy...");
 ChEye(1,0);
 ChMouth(1,2);

@@ -123,7 +123,7 @@ VoicePlay("B330A10800_06_030");
 MsgDisp("Himuro","Someone dropped something, so I went to turn
 it in.");
 ChMouth(1,0);
-MsgDisp("主人公","Haa, I'm glad...");
+MsgDisp("主人公","Phew, I'm glad...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

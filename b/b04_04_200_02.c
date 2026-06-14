@@ -37,7 +37,7 @@ switch (MsgSelRsltGet()){
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040420002_04_030");
-        MsgDisp("Nanatsumori","Haa.
+        MsgDisp("Nanatsumori","Sigh.
 Maybe I should get an instructor to teach
 me—...");
         ChEye(4,1);

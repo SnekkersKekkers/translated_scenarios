@@ -58,7 +58,7 @@ MsgClear();
 MsgDisp("","For a while after that, my sister
 wouldn't leave the living room.");
 VoicePlay("Y300400500_46_010");
-MsgDisp("Nana Sis","\"Haa...it's somewhat like I have a
+MsgDisp("Nana Sis","\"Ahh...it's somewhat like I have a
 cute little sister now, I'm excited～\"");
 MsgDisp("","Please sis, just leave already....");
 MsgClear();

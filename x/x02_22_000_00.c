@@ -7,6 +7,6 @@ VoicePlay("X022200000_22_000");
 MsgDisp("Hikaru","You didn't have much luck studying this week,
 huh.
 Don't worry!");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

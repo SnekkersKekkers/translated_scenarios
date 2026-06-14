@@ -75,7 +75,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_030");
-MsgDisp("Hiiragi","Hehe, surely.
+MsgDisp("Hiiragi","Haha, surely.
 Let's accept it, because he stayed home.");
 MsgDisp("主人公","Yeah.
 I can't wait to give them to ｛Himuro＊＊｝.");

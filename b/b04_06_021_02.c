@@ -77,7 +77,7 @@ the head, catching you off guard.");
         ChMouth(6,2);
         ChMotion(6,2);
         VoicePlay("B040602102_06_080");
-        MsgDisp("Himuro","...Haa, I feel like I can't do that at all.");
+        MsgDisp("Himuro","...Sigh, I feel like I can't do that at all.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

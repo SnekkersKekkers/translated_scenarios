@@ -52,7 +52,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("E010330200_03_040");
-MsgDisp("Honda","Haa...you two are laughing, but are you
+MsgDisp("Honda","Sigh...you two are laughing, but are you
 serious?");
 ChEye(7,2);
 ChMouth(7,0);

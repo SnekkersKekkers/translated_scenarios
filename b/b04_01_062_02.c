@@ -115,7 +115,7 @@ Duck!");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040106202_01_100");
     MsgDisp("Kazama","In that case, you're second-in-command.
-Haa, talk about being extremely short
+Sigh, talk about being extremely short
 staffed.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

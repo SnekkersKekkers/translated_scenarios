@@ -52,7 +52,7 @@ ChMotion(4,2,1);
 VoicePlay("G020430201_04_070");
 MsgDisp("Nanatsumori","I'm a bit slow at making those, so I wonder
 if I'll struggle from now on—...
-Haa");
+Sigh");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

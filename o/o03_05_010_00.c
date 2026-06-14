@@ -43,7 +43,7 @@ Would you like to join me?");
     ChOpen(5,30,4,2,4,0,#1,0,0);
     ChEyeOpenLevel(5,9);
     VoicePlay("O030501000_05_040");
-    MsgDisp("Hiiragi","Haa, did I make it?");
+    MsgDisp("Hiiragi","Phew, did I make it?");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 What is it?");
     ChEye(5,0);

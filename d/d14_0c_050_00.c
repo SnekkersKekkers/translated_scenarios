@@ -48,7 +48,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C05000_06_020");
-MsgDisp("Himuro","Haa...");
+MsgDisp("Himuro","Sigh...");
 ChEye(7,2);
 ChMouth(7,2);
 ChMotion(7,2);

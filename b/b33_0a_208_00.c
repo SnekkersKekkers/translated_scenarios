@@ -114,7 +114,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20800_01_050");
-MsgDisp("Kazama","Haa, got it.
+MsgDisp("Kazama","Sigh, got it.
 Everyone can't go against you.");
 MsgDisp("主人公","(Yay!
 We're all here anyways, so I wanna have fun

@@ -32,7 +32,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("H7G0100000_01_040");
-MsgDisp("Kazama","Haa.
+MsgDisp("Kazama","Sigh.
 Don't think you can get away with it just by
 making that face...");
 MsgDisp("主人公","Huh?");

@@ -89,7 +89,7 @@ And how much of that—");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040606102_06_090");
-        MsgDisp("Himuro","...Haa.");
+        MsgDisp("Himuro","...Sigh.");
         MsgDisp("主人公","｛Himuro＊＊｝?");
         ChEye(6,0);
         ChMouth(6,0);

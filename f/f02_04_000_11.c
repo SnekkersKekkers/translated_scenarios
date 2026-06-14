@@ -12,7 +12,7 @@ ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("F020400011_04_000");
 MsgDisp("Nanatsumori","Work, and...shopping.
-Hah...");
+Sigh...");
 MsgDisp("主人公","What's with the sigh?");
 ChEye(4,2);
 ChMouth(4,4);
@@ -44,6 +44,6 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("F020400011_04_040");
-MsgDisp("Nanatsumori","Haah～...");
+MsgDisp("Nanatsumori","Sigh～...");
 MsgDisp("主人公","(I will root for you!
 ...from a nice warm room!)");

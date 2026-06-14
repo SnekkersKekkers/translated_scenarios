@@ -33,13 +33,13 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C04002_05_010");
-MsgDisp("Hiiragi","Hehe, being irritable is a key part of who
+MsgDisp("Hiiragi","Haha, being irritable is a key part of who
 he is.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C04002_06_020");
-MsgDisp("Himuro","Haa...there was something I wanted to talk to
+MsgDisp("Himuro","Sigh...there was something I wanted to talk to
 Kojiro sensei about too today.");
 ChEye(5,0);
 ChMotion(5,4);
@@ -95,7 +95,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C04002_05_050");
-MsgDisp("Hiiragi","Hehe, understood.
+MsgDisp("Hiiragi","Haha, understood.
 Alright, with this it'll surely become
 lively, won't it?");
 MsgDisp("主人公","(Looks like because ｛Mikage＊＊｝ is

@@ -71,7 +71,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620200_06_100");
-MsgDisp("Himuro","Haa, if you were with someone less
+MsgDisp("Himuro","Sigh, if you were with someone less
 impressive, I could at least complain.");
 MsgDisp("主人公","Geez...");
 ChEye(6,0);

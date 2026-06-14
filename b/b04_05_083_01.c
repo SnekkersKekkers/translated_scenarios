@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("B040508301_05_010");
-    MsgDisp("Hiiragi","Hehe.
+    MsgDisp("Hiiragi","Haha.
 There's no sign of them at all, so maybe
 they're out?");
     MsgDispSksp(1,0);

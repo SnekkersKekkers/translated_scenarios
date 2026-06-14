@@ -11,7 +11,7 @@ But, you're saying that as if you're about to
 already graduate?");
 ChEye(5,4);
 VoicePlay("G020510201_05_020");
-MsgDisp("Hiiragi","Hehe, you really are perceptive.
+MsgDisp("Hiiragi","Haha, you really are perceptive.
 Yes, I am graduating.");
 MsgDisp("主人公","Ehhhh∋");
 ChMouth(5,4);

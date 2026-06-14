@@ -41,7 +41,7 @@ ChMotion(7,2);
 VoicePlay("P840700001_07_040");
 MsgDisp("Mikage","It's kind of funny that you did it over and
 over again though.");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 If only I had looked over the list of names
 properly...)");
 MsgClose();

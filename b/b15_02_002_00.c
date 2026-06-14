@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(2,255,4,2,0,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150200200_02_000");
-MsgDisp("Sassa","Haa...
+MsgDisp("Sassa","Sigh...
 I'm no good at all.");
 MsgDisp("主人公","Huh?");
 ChEye(2,2);

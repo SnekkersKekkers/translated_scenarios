@@ -68,7 +68,7 @@ Well, let's get started.");
         MsgClose();
         ChOpen(3,255,4,0,0,#1,#1,0,0);
         VoicePlay("B040302302_03_060");
-        MsgDisp("Honda","Hah...
+        MsgDisp("Honda","Ahh...
 That feels good.");
         MsgDisp("主人公","Y-Yeah.
 I'm a bit tired, but that was fun.");

@@ -126,7 +126,7 @@ Just you being here makes the store nicer.");
     ChMouth(2,3);
     ChMotion(2,2);
     VoicePlay("I250200000_02_150");
-    MsgDisp("Sassa","Haa...
+    MsgDisp("Sassa","Sigh...
 I want to work part-time here, too.");
     MsgDisp("主人公","Huh?
 You, ｛Sassa＊＊｝, in a bookstore?");

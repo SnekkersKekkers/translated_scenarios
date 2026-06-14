@@ -93,7 +93,7 @@ Hehe!");
         VoicePlay("B040208302_02_090");
         MsgDisp("Sassa","Plus, I can't get both legs in so I have to
 paddle with one foot....
-Haa...");
+Sigh...");
         MsgDisp("主人公","(I kind of want to see this...?)");
         break ;
         default :

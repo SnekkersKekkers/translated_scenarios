@@ -42,7 +42,7 @@ ChOpen(2,100,1,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200300_02_020");
 MsgDisp("Sassa","Yes, this is good.");
-MsgDisp("主人公","Haa, haa...really?");
+MsgDisp("主人公","Pant, pant...really?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);

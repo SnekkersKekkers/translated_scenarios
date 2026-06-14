@@ -79,7 +79,7 @@ MsgDisp("Student A","\"No, that's not really an answer...\"");
 MsgClear();
 BGOpen("ad842",0);
 VoicePlay("Y300800400_47_010");
-MsgDisp("School Girl","\"Haa...you thick-skinned boys,
+MsgDisp("School Girl","\"Sigh...you thick-skinned boys,
 listen? In other words, that means
 she's a special girl
 to both of the Shirahane brothers!\"");

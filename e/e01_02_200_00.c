@@ -17,8 +17,8 @@ MsgDisp("Sassa","Just like Ryota said, you're here!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010220000_01_000");
-MsgDisp("Kazama","Hahh...
-Hahhh...");
+MsgDisp("Kazama","Pant...
+Pant...");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","｛Sassa＊＊｝, ｛Kazama＊＊｝!

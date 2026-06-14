@@ -21,7 +21,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B360518000_05_010");
-MsgDisp("Hiiragi","Hehe, sorry.
+MsgDisp("Hiiragi","Haha, sorry.
 To be honest, I'm happy to talk to you
 anywhere.");
 ChEye(5,3);

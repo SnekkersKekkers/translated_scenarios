@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("Q080400000_04_000");
-    MsgDisp("Nanatsumori","Phew!
+    MsgDisp("Nanatsumori","Ahh!
 We did a lot of sightseeing.");
     MsgDisp("主人公","Yeah.
 Thanks for inviting me.");

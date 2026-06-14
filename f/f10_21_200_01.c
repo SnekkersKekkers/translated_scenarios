@@ -48,7 +48,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F102120001_21_030");
-MsgDisp("Michiru","Haa...he ran away again.");
+MsgDisp("Michiru","Sigh...he ran away again.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

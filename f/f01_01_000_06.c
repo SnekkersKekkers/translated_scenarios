@@ -69,7 +69,7 @@ run?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("F010100006_01_060");
-    MsgDisp("Kazama","Ha...we probably can't.");
+    MsgDisp("Kazama","Sigh...we probably can't.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

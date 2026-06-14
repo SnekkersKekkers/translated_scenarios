@@ -9,7 +9,7 @@ BGOpen("tr220",0);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Haa, this place is so relaxing...");
+MsgDisp("主人公","Ahh, this place is so relaxing...");
 MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
@@ -56,7 +56,7 @@ ChLayout(2);
 SEWait();
 ScrFadeIn(0);
 VoicePlay("B330A20700_02_020");
-MsgDisp("Sassa","Haa...that saved me.");
+MsgDisp("Sassa","Phew...that saved me.");
 MsgDisp("主人公","Hehe.
 ｛Sassa＊＊｝ sure is liked by animals isn't
 he?");

@@ -6,7 +6,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040421300_04_000");
-MsgDisp("Nanatsumori","Ha...how soothing...");
+MsgDisp("Nanatsumori","Ahh...how soothing...");
 MsgSel("Both their appearance and sounds are cute","I wonder if it's alright to hold them?","I can feel the arrogance of mankind...");
 switch (MsgSelRsltGet()){
     case 0:

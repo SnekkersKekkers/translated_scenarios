@@ -42,7 +42,7 @@ Sorry.");
     MsgDisp("主人公","That's okay.
 I'll call you another time.");
     VoicePlay("J030200001_02_070");
-    MsgDisp("Sassa","Hah, but when will \"another time\" actually
+    MsgDisp("Sassa","Sigh, but when will \"another time\" actually
 come?
 Bye...");
     MsgDisp("主人公","Y-Yeah.");

@@ -6,7 +6,7 @@ BGMStop();
 BGOpen("sc000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Haa...there's only a little more until
+MsgDisp("主人公","Sigh...there's only a little more until
 graduation.");
 ChEye(8,4);
 ChMouth(8,4);

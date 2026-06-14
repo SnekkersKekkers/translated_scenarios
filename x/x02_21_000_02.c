@@ -7,6 +7,6 @@ VoicePlay("X022100002_21_000");
 MsgDisp("Michiru","Don't push yourself when you're not feeling
 well.
 Alright?");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

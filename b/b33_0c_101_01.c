@@ -74,7 +74,7 @@ ChMouth(7,2);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C10101_07_030");
-MsgDisp("Mikage","Haa, never mind.
+MsgDisp("Mikage","Sigh, never mind.
 They sell food for the seabirds.
 That'll be fun.");
 MsgClose();

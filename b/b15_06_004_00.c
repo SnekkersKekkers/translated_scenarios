@@ -54,7 +54,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600400_06_060");
-MsgDisp("Himuro","...Haa.
+MsgDisp("Himuro","...Sigh.
 I've told you so many times.
 I don't want an apology from you.");
 ChEye(6,0);

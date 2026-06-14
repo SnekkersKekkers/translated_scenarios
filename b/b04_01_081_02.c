@@ -47,7 +47,7 @@ something from that long ago.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108102_01_040");
-        MsgDisp("Kazama","Haah.
+        MsgDisp("Kazama","Phew.
 My bad.
 That's just so you, too.");
         MsgDisp("主人公","I'm sorry.

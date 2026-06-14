@@ -29,7 +29,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("P040100001_01_030");
 MsgDisp("Kazama","Your signboard is false advertising.");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 I should've prepared a little more...)");
 MsgClose();
 ScrFadeOut(0,0);

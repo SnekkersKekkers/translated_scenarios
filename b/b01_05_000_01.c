@@ -46,7 +46,7 @@ Then, let's be off.");
     MsgClose();
     ChOpen(5,253,0,2,2,#1,#1,0,0);
     VoicePlay("B010500001_05_040");
-    MsgDisp("Hiiragi","Ahh, thank goodness...");
+    MsgDisp("Hiiragi","Phew, thank goodness...");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 What's wrong?");
     ChMotion(5,4);

@@ -105,7 +105,7 @@ quite a good mood.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("L040500006_05_120");
-    MsgDisp("Hiiragi","Hehe, I've said too much.
+    MsgDisp("Hiiragi","Haha, I've said too much.
 But, truly, thank you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

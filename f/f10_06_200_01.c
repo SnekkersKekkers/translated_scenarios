@@ -78,7 +78,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,7);
 VoicePlay("F100620001_06_050");
-MsgDisp("Himuro","Haa, you just decide everything by
+MsgDisp("Himuro","Sigh, you just decide everything by
 yourself...");
 ChEye(3,0);
 ChMouth(3,0);

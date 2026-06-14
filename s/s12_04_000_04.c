@@ -73,7 +73,7 @@ ourselves sad.");
     ChMouth(4,4);
     ChMotion(4,1);
     VoicePlay("S120400004_04_060");
-    MsgDisp("Nanatsumori","Haa...");
+    MsgDisp("Nanatsumori","Sigh...");
     MsgDisp("主人公","｛Nanatsumori＊｝, already sighing in the New
 Year?");
     ChEye(4,4);

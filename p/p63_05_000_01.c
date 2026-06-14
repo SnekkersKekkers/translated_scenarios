@@ -37,7 +37,7 @@ The vegetables were harvested in the morning!");
     ChEye(5,3);
     ChMouth(5,3);
     VoicePlay("P630500001_05_030");
-    MsgDisp("Hiiragi","Hehe, how spirited!
+    MsgDisp("Hiiragi","Haha, how spirited!
 Then could you allow me to have a look?");
     MsgDisp("主人公","Yes, absolutely!
 One customer, this way please!");

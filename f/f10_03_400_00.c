@@ -57,7 +57,7 @@ ChMouth(4,1);
 ChMotion(4,2,1);
 ChCheek(4,3);
 VoicePlay("F100340000_04_030");
-MsgDisp("Nanatsumori","Haa.
+MsgDisp("Nanatsumori","Sigh.
 Then, what's your opinion?");
 MsgDisp("主人公","I think \"Mi-kun\" is cute?");
 ChEye(3,3);

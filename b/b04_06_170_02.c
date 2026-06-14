@@ -84,7 +84,7 @@ though?");
         ChEyeOpenLevel(6,0);
         VoicePlay("B040617002_06_080");
         MsgDisp("Himuro","Ugh, you got me...
-Haa, I understand.");
+Sigh, I understand.");
         MsgDisp("主人公","Hurray!");
         ChEye(6,0);
         ChMouth(6,0);

@@ -106,7 +106,7 @@ Sneaky!");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040515202_05_080");
-    MsgDisp("Hiiragi","Hehe.
+    MsgDisp("Hiiragi","Haha.
 I like that about you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

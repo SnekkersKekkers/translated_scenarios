@@ -24,7 +24,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30501_05_000");
-MsgDisp("Hiiragi","Hehe.
+MsgDisp("Hiiragi","Haha.
 It might be even better if you only look at
 him from behind.");
 ChEye(7,0);
@@ -114,7 +114,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30501_05_030");
-MsgDisp("Hiiragi","Hehe.
+MsgDisp("Hiiragi","Haha.
 As I thought, the usual Inori is better.");
 MsgDisp("主人公","Hehe, that's right.");
 ChEye(6,1);
@@ -122,7 +122,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B330C30501_06_040");
-MsgDisp("Himuro","Haa, how annoying.
+MsgDisp("Himuro","Ugh, how annoying.
 I was only honest.
 I can't say what I don't mean.");
 ChEye(6,1);

@@ -83,7 +83,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020C30000_06_030");
-MsgDisp("Himuro","Haa...either way, it's unavoidable for me
+MsgDisp("Himuro","Sigh...either way, it's unavoidable for me
 to be left behind.
 I'm staying here, after all.");
 ChEye(5,2);

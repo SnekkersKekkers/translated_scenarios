@@ -4,7 +4,7 @@ ChLayout(1);
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Hah, that was fun...
+MsgDisp("主人公","Ahh, that was fun...
 Thank you for today!");
 ChEye(5,4);
 ChMouth(5,4);

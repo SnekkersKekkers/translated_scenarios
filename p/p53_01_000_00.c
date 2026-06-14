@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     case 3:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Ah, what should I do.
+    MsgDisp("主人公","(Sigh, what should I do.
 I wonder if I can do it properly...)");
     VoicePlay("P530100000_01_000");
     MsgDisp("Kazama?","You look awful, don't you?");
@@ -62,7 +62,7 @@ hear my unique performance!)");
     case 5:
     BGOpen("sc740",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Hmm, what should I do.
+    MsgDisp("主人公","(Sigh, what should I do.
 I wonder if I can do it properly...)");
     VoicePlay("P530100000_01_060");
     MsgDisp("Kazama?","Yes, you can.");

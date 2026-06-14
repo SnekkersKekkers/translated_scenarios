@@ -29,7 +29,7 @@ I'll keep watch from here.");
         DateRateSet(5);
         ChEye(4,2);
         VoicePlay("B040406102_04_020");
-        MsgDisp("Nanatsumori","Haa...");
+        MsgDisp("Nanatsumori","Sigh...");
         ChEye(4,1);
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,0);

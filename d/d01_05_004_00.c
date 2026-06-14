@@ -77,7 +77,7 @@ SEPlay("EV_SE_724",0.3);
 ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("D010500400_42_060");
-MsgDisp("Student A","...Haa, it's no good, huh?");
+MsgDisp("Student A","...Sigh, it's no good, huh?");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 SEStop("EV_SE_724",1);
 StlEye(5,1);
@@ -180,7 +180,7 @@ ScrFadeIn(0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500400_05_110");
-MsgDisp("Hiiragi","Haa...
+MsgDisp("Hiiragi","Phew...
 Thanks to you, I remembered what I had
 forgotten.");
 ChEye(5,0);

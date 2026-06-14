@@ -39,7 +39,7 @@ MsgDisp("主人公","I see...");
 ChEye(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550100_05_040");
-MsgDisp("Hiiragi","Haa, yes...");
+MsgDisp("Hiiragi","Phew, yes...");
 MsgDisp("主人公","So, what is it?");
 ChEye(5,3);
 ChMouth(5,2);

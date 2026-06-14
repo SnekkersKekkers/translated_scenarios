@@ -22,7 +22,7 @@ something and head to the fireworks grounds.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B040506401_05_020");
-MsgDisp("Hiiragi","Hehe.
+MsgDisp("Hiiragi","Haha.
 This year, the theater troupe staff are
 saving spaces for us.");
 MsgDisp("主人公","Ehh?

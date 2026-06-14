@@ -20,7 +20,7 @@ MsgDisp("Mikage","Alright, that's it!
 No mistakes?");
 VoicePlay("A000700000_07_060");
 MsgDisp("Mikage","Okay, you can go then.
-Phew...
+Sigh...
 How many more?");
 VoicePlay("A000700000_07_070");
 MsgDisp("Mikage","Whoops, did you make a mistake?");

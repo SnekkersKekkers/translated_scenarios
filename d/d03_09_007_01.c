@@ -5,7 +5,7 @@ BGOpen("wf200",1);
 MsgClose();
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Wow...
+MsgDisp("主人公","(Ahh...
 The sea is beautiful today too.)");
 MsgDisp("主人公","(...Ah.
 Kuya-san is over there!)");

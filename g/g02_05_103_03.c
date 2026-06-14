@@ -23,7 +23,7 @@ ChEye(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020510303_05_030");
-MsgDisp("Hiiragi","Hehe, yes that is right.
+MsgDisp("Hiiragi","Haha, yes that is right.
 Please pardon me.");
 ChMotion(5,0);
 VoicePlay("G020510303_05_040");

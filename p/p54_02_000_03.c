@@ -3,7 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haaa...
+MsgDisp("主人公","(Sigh...
 I messed up.
 Maybe it was no good....)");
 MsgClose();

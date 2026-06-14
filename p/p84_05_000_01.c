@@ -35,7 +35,7 @@ VoicePlay("P840500001_05_030");
 MsgDisp("Hiiragi","I sincerely apologized, and I think they
 understood, but I'm guessing it's an
 unpleasant memory.");
-MsgDisp("主人公","(Haa...a huge fail...)");
+MsgDisp("主人公","(Sigh...a huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

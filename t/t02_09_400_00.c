@@ -13,7 +13,7 @@ ChOpen(9,255,0,2,0,#1,#1,3,0);
 ScrFadeIn(0);
 ChMotion(9,1,1);
 VoicePlay("T020940000_09_010");
-MsgDisp("Kuya","Haa...
+MsgDisp("Kuya","Sigh...
 Oh no, I've done it.");
 MsgDisp("主人公","Kuya-san∋
 Why are you here...?");

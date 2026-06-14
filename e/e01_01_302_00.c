@@ -55,7 +55,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("E010130200_01_050");
 MsgDisp("Kazama","What a crazy coincidence ...damn it.");
 VoicePlay("E010130200_04_000");
-MsgDisp("Nanatsumori?","Hah hah...
+MsgDisp("Nanatsumori?","Sigh...
 Where did I drop it...");
 ChEye(1,0);
 ChMouth(1,2);

@@ -55,7 +55,7 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("F100740001_32_030");
-MsgDisp("VP Himuro","Haa...
+MsgDisp("VP Himuro","Sigh...
 I was definitely praising you.");
 MsgDisp("主人公","Eh∋");
 ChEye(7,2);

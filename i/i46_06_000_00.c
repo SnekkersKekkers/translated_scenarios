@@ -18,7 +18,7 @@ Oh no...");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600000_06_000");
-    MsgDisp("Himuro","Haa...");
+    MsgDisp("Himuro","Sigh...");
     MsgDisp("主人公","S-Sorry.
 I'll clean it up now.");
     ChEye(6,0);

@@ -26,7 +26,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B140300000_03_020");
-MsgDisp("Honda","I'm so glad we came here!
+MsgDisp("Honda","Phew, Phew, I'm so glad we came here!
 It was definitely the right choice.");
 MsgDisp("主人公","Huh?");
 ChEye(3,0);

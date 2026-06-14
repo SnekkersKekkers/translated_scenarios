@@ -1,6 +1,6 @@
 ScrFadeIn(0);
 VoicePlay("P840700003_48_000");
-MsgDisp("School Girl","Haa...this much is left over...
+MsgDisp("School Girl","Sigh...this much is left over...
 Seems like the wrong amount of materials were
 ordered...");
 MsgDisp("主人公","I'm sorry...");
@@ -49,7 +49,7 @@ VoicePlay("P840700003_07_050");
 MsgDisp("Mikage","It was a difference of a digit?
 Then, I think it would be better if you
 returned it.");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 It would have been better if I had prepared
 more carefully.)");
 MsgClose();

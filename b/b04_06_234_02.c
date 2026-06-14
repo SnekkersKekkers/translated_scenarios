@@ -102,7 +102,7 @@ I don't know why I said that.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040623402_06_110");
-        MsgDisp("Himuro","...Haa, maybe I should have approached it
+        MsgDisp("Himuro","...Sigh, maybe I should have approached it
 more naturally.");
         MsgDisp("主人公","(｛Himuro＊＊｝...?)");
         break ;

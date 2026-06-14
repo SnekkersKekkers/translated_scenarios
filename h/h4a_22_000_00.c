@@ -33,7 +33,7 @@ The judges all fell for you▼");
     ChMotion(22,4,1);
     VoicePlay("H4A2200000_22_020");
     MsgDisp("Hikaru","Really▼
-Haa～
+Ahh～
 Hikaru's so happy♪");
     MsgDisp("主人公","(I'm really glad I stayed in the rhythmic
 gymnastics club!)");

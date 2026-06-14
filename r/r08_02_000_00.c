@@ -110,7 +110,7 @@ StlEye(2,0,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("R080200000_02_130");
-MsgDisp("Sassa","I...
+MsgDisp("Sassa","Pant...
 I can't stop!
 I'm off.");
 MsgDisp("主人公","Huh?");

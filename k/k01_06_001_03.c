@@ -20,7 +20,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("K010600103_06_020");
 MsgDisp("Himuro","...From the looks of it, I guess it really
 was for me.
-Ha...thanks.");
+Sigh...thanks.");
 MsgDisp("主人公","(I don't think he liked it that much...)");
 MsgClose();
 BGMStop();

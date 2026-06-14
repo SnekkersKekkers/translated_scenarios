@@ -105,7 +105,7 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("A020210000_02_120");
 MsgDisp("Sassa","Phew, that was nice!
 Feeling a little tired?");
-MsgDisp("主人公","Huh...
+MsgDisp("主人公","Ahh...
 Yeah, a little, but it was fun!
 Thank you, ｛Sassa＊＊｝!");
 ChEye(2,0);

@@ -26,7 +26,7 @@ bugs...");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040408501_04_020");
-    MsgDisp("Nanatsumori","Haa∋
+    MsgDisp("Nanatsumori","Sigh∋
 That sort of evolution is troubling.");
     MsgDateResultDisp();
     break ;

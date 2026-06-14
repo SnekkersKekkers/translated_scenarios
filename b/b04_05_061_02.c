@@ -68,7 +68,7 @@ What am I saying...");
         MsgDisp("主人公","Umm, don't pay too much mind to that.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040506102_05_060");
-        MsgDisp("Hiiragi","Haa...");
+        MsgDisp("Hiiragi","Sigh...");
         MsgDisp("主人公","｛Hiiragi＊＊＊｝, your face is red.
 Are you alright?");
         SEPlay("EV_SE_557");

@@ -3,7 +3,7 @@ ChMouth(31,2);
 ChMotion(31,2);
 ScrFadeIn(0);
 VoicePlay("P843100000_31_000");
-MsgDisp("Goro","Haa, how fun!
+MsgDisp("Goro","Ahh, how fun!
 I feel like I've returned to my youth♪");
 MsgDisp("主人公","Hehe, was it to your liking?");
 ChEye(31,0);

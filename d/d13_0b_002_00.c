@@ -5,7 +5,7 @@ MsgClose();
 BGOpen("sc300",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 It's already graduation soon huh?)");
 MsgDisp("主人公","(For three years, I got to be in the same
 class as ｛Kazama＊＊｝)");

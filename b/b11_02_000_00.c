@@ -53,7 +53,7 @@ ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,0);
 VoicePlay("B110200000_33_030");
-MsgDisp("Guy","Haa, you're with a guy.
+MsgDisp("Guy","Sigh, you're with a guy.
 T-Then it's impossible.
 It's disappointing, but you're disqualif—");
 MsgDispSksp(1,5);

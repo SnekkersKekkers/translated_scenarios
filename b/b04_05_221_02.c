@@ -35,7 +35,7 @@ take it seriously.");
         ChMotion(5,4);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_020");
-        MsgDisp("Hiiragi","Haa...
+        MsgDisp("Hiiragi","Sigh...
 I'm not so sure.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);

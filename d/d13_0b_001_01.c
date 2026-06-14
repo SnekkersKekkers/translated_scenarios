@@ -102,7 +102,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("D130B00101_01_050");
-MsgDisp("Kazama","Sighh!
+MsgDisp("Kazama","Phew!
 I feel the same way then!");
 ChEye(1,4);
 ChMouth(1,2);

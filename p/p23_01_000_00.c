@@ -13,7 +13,7 @@ switch (ChPrmGet(1,6)){
     case 5:
     ScrFadeIn(0);
     MsgDisp("主人公","(It's already time to start...
-Ah, I hope I haven't forgotten my lines.)");
+Sigh, I hope I haven't forgotten my lines.)");
     VoicePlay("P230100000_01_000");
     MsgDisp("Kazama?","Cinderella?");
     MsgDisp("主人公","Ah, yes!");

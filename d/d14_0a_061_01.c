@@ -15,7 +15,7 @@ ChMouth(1,1);
 ChMotion(1,3,1);
 VoicePlay("D140A06101_01_000");
 MsgDisp("Kazama","...∋
-Haa∋");
+Sigh∋");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

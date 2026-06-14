@@ -28,7 +28,7 @@ VoicePlay("P850500003_05_020");
 MsgDisp("Hiiragi","It's over.
 So even if it's just a little show me a
 smile.");
-MsgDisp("主人公","(Haa...even though it was the last cultural
+MsgDisp("主人公","(Sigh...even though it was the last cultural
 festival of my high school life...
 I should have prepared more carefully");
 MsgClose();

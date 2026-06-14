@@ -3,7 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 I didn't practice enough.
 I couldn't do it well...)");
 MsgClose();

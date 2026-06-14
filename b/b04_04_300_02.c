@@ -52,7 +52,7 @@ Well, don't worry about it.");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040430002_04_030");
-        MsgDisp("Nanatsumori","Haa...");
+        MsgDisp("Nanatsumori","Sigh...");
         MsgDateResultDisp();
         break ;
         case 4:

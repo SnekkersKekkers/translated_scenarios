@@ -22,7 +22,7 @@ ChOpen(7,255,2,2,2,0,#1,0,3);
 ScrFadeIn(0);
 ChMouth(5,3);
 VoicePlay("B330C10701_05_000");
-MsgDisp("Hiiragi","Haa...that was fun!");
+MsgDisp("Hiiragi","Ahh...that was fun!");
 MsgDisp("主人公","Yeah!");
 ChEye(7,0);
 ChMouth(7,4);

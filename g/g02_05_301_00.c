@@ -46,7 +46,7 @@ ChMouth(5,4);
 ChMotion(5,3);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020530100_05_070");
-MsgDisp("Hiiragi","Haa, I see.
+MsgDisp("Hiiragi","Hah! I see.
 That was dangerous.
 I almost made a major rule violation.");
 ChEye(5,2);

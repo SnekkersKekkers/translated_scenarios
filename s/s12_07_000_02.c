@@ -75,7 +75,7 @@ on the way there.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120700002_07_050");
-    MsgDisp("Mikage","Phew, I feel refreshed.
+    MsgDisp("Mikage","Ahh, I feel refreshed.
 That was a good shrine visit.");
     MsgDisp("主人公","Yep, it looks like it's going to be a good
 year.");

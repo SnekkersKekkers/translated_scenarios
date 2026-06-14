@@ -34,7 +34,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P840D00001_21_010");
-MsgDisp("Michiru","Haa...you can't do this alone.
+MsgDisp("Michiru","Sigh...you can't do this alone.
 We'll help.");
 MsgDisp("主人公","(UUugh...
 Maybe I was too careless.

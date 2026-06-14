@@ -53,7 +53,7 @@ Wait(60,0);
 SEPlay("EV_SE_695");
 Wait(120,0);
 VoicePlay("T020320000_03_350");
-MsgDisp("Honda","Haa...
+MsgDisp("Honda","Sigh...
 Let's stay like this for a while.");
 Wait(120,0);
 MsgClose();

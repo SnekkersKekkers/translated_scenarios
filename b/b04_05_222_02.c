@@ -6,7 +6,7 @@ ChMotion(5,4,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040522202_05_000");
-MsgDisp("Hiiragi","Haa...
+MsgDisp("Hiiragi","Sigh...
 It feels as if I'm being crushed by the
 weight of history.");
 MsgSel("Isn't it the pressure to study?","They're like test questions huh...","It makes you want an easier to understand explanation huh?");
@@ -44,7 +44,7 @@ I'm getting dizzy...");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522202_05_030");
-        MsgDisp("Hiiragi","Haa...even then, it may be difficult for me
+        MsgDisp("Hiiragi","Sigh...even then, it may be difficult for me
 to understand.");
         MsgDateResultDisp();
         break ;
@@ -101,7 +101,7 @@ It was a play...");
         ChEye(5,3);
         ChMotion(5,3);
         VoicePlay("B040522202_05_110");
-        MsgDisp("Hiiragi","Hehe, you did well.
+        MsgDisp("Hiiragi","Haha, you did well.
 Hearing those words from your lips, even as a
 line, made my day.");
         MsgDisp("主人公","(Umm, somehow it seems like I fell right into

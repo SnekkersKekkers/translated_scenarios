@@ -90,7 +90,7 @@ I'm sorry to the store clerk!");
         MsgClose();
         ChOpen(3,255,2,2,2,#1,#1,0,0);
         VoicePlay("B040321202_03_070");
-        MsgDisp("Honda","Haa, seems like it was broken.
+        MsgDisp("Honda","Sigh, seems like it was broken.
 I might become weak around cockatiels now...");
         MsgDisp("主人公","Hehe, then, after this let's take our time to
 look around.");

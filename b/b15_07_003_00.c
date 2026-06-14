@@ -34,7 +34,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B150700300_07_040");
-MsgDisp("Mikage","Haa...
+MsgDisp("Mikage","Sigh...
 I'm starting to feel uneasy about how I told
 you to do as you please...");
 MsgDisp("主人公","(I wonder if I've made ｛Mikage＊＊｝

@@ -5,7 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("P640700002_07_000");
-MsgDisp("Mikage","Haa...
+MsgDisp("Mikage","Ahh...
 I feel so calm.");
 MsgDisp("主人公","｛Mikage＊＊｝, how is it?");
 ChEye(7,0);
@@ -34,7 +34,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P640700002_07_040");
-MsgDisp("Mikage","Haa...
+MsgDisp("Mikage","Ahh...
 I want to buy some to take home, but I'll
 hold back.");
 MsgDisp("主人公","(Yay, ｛Mikage＊＊｝ praised me!

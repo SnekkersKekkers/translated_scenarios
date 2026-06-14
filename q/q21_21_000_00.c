@@ -26,7 +26,7 @@ switch (MsgSelRsltGet()){
     ChMouth(21,3);
     ChMotion(21,4);
     VoicePlay("Q212100000_21_020");
-    MsgDisp("Michiru","Haah...
+    MsgDisp("Michiru","Phew...
 I'm getting nervous.
 Let's go!");
     break ;

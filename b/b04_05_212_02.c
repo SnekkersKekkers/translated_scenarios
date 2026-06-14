@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040521202_05_020");
-    MsgDisp("Hiiragi","Hehe, yes.
+    MsgDisp("Hiiragi","Haha, yes.
 I'll talk it over with the zoo.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);

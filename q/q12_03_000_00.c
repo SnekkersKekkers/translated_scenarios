@@ -76,7 +76,7 @@ I'm happy I was able to look around with
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Haah...
+    MsgDisp("主人公","Sigh...
 So the school trip is over tomorrow.
 Early, isn't it?");
     ChEye(3,4);

@@ -40,7 +40,7 @@ princess?");
     ChMotion(5,0);
     VoicePlay("B040520000_05_030");
     MsgDisp("Hiiragi","Same here.
-Well, no point in the two of us just standing
+Sigh, no point in the two of us just standing
 around. Let's go watch from the lodge.");
     MsgDateResultDisp();
     break ;

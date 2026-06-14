@@ -18,7 +18,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("C010600000_06_020");
-MsgDisp("Himuro","Haa...
+MsgDisp("Himuro","Sigh...
 That was anything but short, but I understand
 now.");
 VoicePlay("C010600000_06_030");

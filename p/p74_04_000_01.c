@@ -20,7 +20,7 @@ VoicePlay("P740400001_04_010");
 MsgDisp("Nanatsumori","It can't be helped.
 You were stressed to the max.
 I'm glad you're not injured.");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 MAybe I didn't practice enough...)");
 MsgClose();
 ScrFadeOut(0,0);

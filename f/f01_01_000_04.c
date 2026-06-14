@@ -65,7 +65,7 @@ about that.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("F010100004_01_060");
-    MsgDisp("Kazama","Ha...
+    MsgDisp("Kazama","Sigh...
 I don't feel like doing errands anymore...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

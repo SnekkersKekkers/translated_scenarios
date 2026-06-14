@@ -105,7 +105,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B03300_01_050");
-MsgDisp("Kazama","Haa...");
+MsgDisp("Kazama","Sigh...");
 MsgDisp("主人公","(Hehe!
 We're kind of like a family!)");
 BGMStop();

@@ -90,7 +90,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30501_06_030");
 MsgDisp("Himuro","My method of teaching is better.");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 Maybe it'll be difficult for me to be taught
 properly?)");
 BGMStop();

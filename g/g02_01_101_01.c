@@ -60,7 +60,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110101_01_070");
-MsgDisp("Kazama","(sigh)...
+MsgDisp("Kazama","Sigh...
 The place is kinda dangerous.");
 MsgDisp("主人公","(Maybe that was...how ｛Kazama＊＊｝ really
 feels right now?)");

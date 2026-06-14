@@ -56,7 +56,7 @@ Arf!
 Arf!)");
 SEStop("EV_SE_GAYA_006",3);
 Wait(50,0);
-MsgDisp("主人公","Haa, what a relief...");
+MsgDisp("主人公","Phew, what a relief...");
 SEStop("EV_SE_679",0.5);
 VoicePlay("P240201000_02_030");
 MsgDisp("Sassa","Yeah, it wasn't very threatening though.");

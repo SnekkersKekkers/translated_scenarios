@@ -149,7 +149,7 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 Wait(10,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Haa, that was fun.
+MsgDisp("主人公","Ahh, that was fun.
 ｛Kazama＊＊｝, do you enjoy ferris wheels?");
 ChClose(1,0,30);
 ChLayout(0);

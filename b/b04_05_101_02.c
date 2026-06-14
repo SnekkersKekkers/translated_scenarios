@@ -92,7 +92,7 @@ this conversation.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040510102_05_100");
-        MsgDisp("Hiiragi","Haa, well at the end of the day, I like the
+        MsgDisp("Hiiragi","Sigh, well at the end of the day, I like the
 you now.
 ...Is that okay?");
         MsgDisp("主人公","(Umm, I'm happy but it's embarrassing.)");

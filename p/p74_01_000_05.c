@@ -10,7 +10,7 @@ ChOpen(1,254,0,4,2,#1,#1,0,0);
 ChEye(1,2);
 ChMouth(1,2);
 VoicePlay("P740100005_01_000");
-MsgDisp("Kazama","Haa, seems like you're not injured.");
+MsgDisp("Kazama","Phew, seems like you're not injured.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);

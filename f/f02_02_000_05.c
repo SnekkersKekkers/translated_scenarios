@@ -40,7 +40,7 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200005_02_040");
-MsgDisp("Sassa","Huh...
+MsgDisp("Sassa","Sigh...
 I guess there's not much point in taking
 chances with cramming the night before.");
 MsgDisp("主人公","(Well, I think I gave him some hope...)");

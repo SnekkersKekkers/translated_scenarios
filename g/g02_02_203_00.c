@@ -52,7 +52,7 @@ ChMouth(2,2);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220300_02_070");
-MsgDisp("Sassa","(sigh) I bet it'd be easier to be your
+MsgDisp("Sassa","Sigh... I bet it'd be easier to be your
 partner if we were fireflies...");
 MsgDisp("主人公","(What is ｛Sassa＊＊｝ talking about...)");
 BGMStop();

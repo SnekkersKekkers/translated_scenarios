@@ -20,7 +20,7 @@ MsgDisp("School Girl","Then, I'll go with you to take some.");
 MsgClose();
 SEPlay("EV_SE_856");
 ChClose(5);
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 I should have put more thought into the
 management method. A huge fail...)");
 MsgClose();

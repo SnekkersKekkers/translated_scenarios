@@ -7,6 +7,6 @@ VoicePlay("X022100005_21_000");
 MsgDisp("Michiru","I know we're young but...
 Don't overdo it.
 Alright?");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

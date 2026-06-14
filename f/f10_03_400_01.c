@@ -60,7 +60,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("F100340001_04_000");
-MsgDisp("Nanatsumori","Haa...so noisy.
+MsgDisp("Nanatsumori","Sigh...so noisy.
 What are you two doing?");
 MsgDisp("主人公","｛Honda＊＊｝ was guessing where you were,
 ｛Nanatsumori＊｝.

@@ -20,7 +20,7 @@ Please just stand proudly.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("X210500000_05_030");
-MsgDisp("Hiiragi","Hehe.");
+MsgDisp("Hiiragi","Haha.");
 MsgDisp("主人公","What's wrong?");
 ChEye(5,3);
 ChMotion(5,0);

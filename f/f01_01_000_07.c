@@ -121,7 +121,7 @@ We'll eat your favorite sweets.");
         VoicePlay("F010100007_01_120");
         MsgDisp("Kazama","I see.
 Maybe another time.
-...Hah.");
+...Sigh.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

@@ -9,7 +9,7 @@ ChMouth(3,3);
 ChMotion(3,5);
 ChEyeOpenLevel(3,0);
 VoicePlay("B020302112_03_010");
-MsgDisp("Honda","Haah, I really admire your taste.
+MsgDisp("Honda","Man, I really admire your taste.
 I don't think I could do it.");
 MsgDisp("主人公","(Yay!
 Looks like ｛Honda＊＊｝ really likes it.)");

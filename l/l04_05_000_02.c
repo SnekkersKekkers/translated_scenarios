@@ -39,7 +39,7 @@ Thank you for going out of your way.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("L040500002_05_040");
-    MsgDisp("Hiiragi","Hehe.
+    MsgDisp("Hiiragi","Haha.
 Was my reaction enough to justify the
 expense?");
     MsgDisp("主人公","Hm, it was alright, I suppose?");

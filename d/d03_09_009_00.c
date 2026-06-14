@@ -227,7 +227,7 @@ Bye.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(9);
-    MsgDisp("主人公","(Haa...
+    MsgDisp("主人公","(Sigh...
 They're getting a bit troublesome for me
 too.)");
     break ;

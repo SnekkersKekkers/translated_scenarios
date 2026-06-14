@@ -88,7 +88,7 @@ of me.");
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040706502_07_090");
-        MsgDisp("Mikage","Haa, it's no good.
+        MsgDisp("Mikage","Sigh, it's no good.
 This isn't a talk for under fireworks. Let's
 talk properly once I've collected myself.");
         MsgDisp("主人公","(｛Mikage＊＊｝...did something happen...?)");

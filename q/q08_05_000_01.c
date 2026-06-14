@@ -9,7 +9,7 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,0,1);
     ScrFadeIn(0);
-    MsgDisp("主人公","Hah, that was fun!");
+    MsgDisp("主人公","Ahh, that was fun!");
     VoicePlay("Q080500001_05_000");
     MsgDisp("Hiiragi","School trips can be a lot of fun, huh?");
     ChEye(5,4);

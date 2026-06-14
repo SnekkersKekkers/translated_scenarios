@@ -114,7 +114,7 @@ ChMouth(5,1);
 ChMotion(5,1);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500400_05_100");
-MsgDisp("Hiiragi","Hehe, maybe I praised you a bit much?");
+MsgDisp("Hiiragi","Haha, maybe I praised you a bit much?");
 MsgDisp("主人公","Yeah...but, I'm happy.");
 BGMStop();
 MsgClose();

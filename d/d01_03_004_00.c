@@ -1,7 +1,7 @@
 BGOpen("sc210",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Such nice weather, it feels really good...)");
+MsgDisp("主人公","(Ahh, such nice weather, it feels really good...)");
 VoicePlay("D010300400_03_000");
 MsgDisp("Honda?","Yay, good job!");
 MsgDisp("主人公","Eh?");

@@ -20,7 +20,7 @@ ChOpen(1,253,0,4,3,0,#1,0,3,0,30);
 ChOpen(3,253,0,0,0,0,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330B30501_01_000");
-MsgDisp("Kazama","Haa...");
+MsgDisp("Kazama","Sigh...");
 VoicePlay("B330B30501_03_000");
 MsgDisp("Honda","Yeah...");
 ChEye(4,1);

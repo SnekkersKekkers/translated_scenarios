@@ -5,7 +5,7 @@ ChMouth(4,1);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408302_04_000");
-MsgDisp("Nanatsumori","Haa...
+MsgDisp("Nanatsumori","Sigh...
 There's no point in coming here in the
 summer.");
 MsgSel("Isn't nature pretty?","It's fun because I'm with ｛Nanatsumori＊｝.","Shall we eat kakigori from the stall?");

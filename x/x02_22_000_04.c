@@ -6,6 +6,6 @@ ChOpen(22,254,2,2,0,#1,#1,0,0);
 VoicePlay("X022200004_22_000");
 MsgDisp("Hikaru","Ah, the mirror cracked.
 Mari's personality gave it a shock, huh...");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -27,7 +27,7 @@ switch (MsgSelRsltGet()){
         ChMotion(2,4);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040223602_02_010");
-        MsgDisp("Sassa","Haa...
+        MsgDisp("Sassa","Sigh...
 Don't say that, even as a joke.");
         MsgDateResultDisp();
         break ;

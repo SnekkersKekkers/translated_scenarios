@@ -41,7 +41,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150200500_02_050");
-MsgDisp("Sassa","Haa, I'm pathetic.");
+MsgDisp("Sassa","Sigh, I'm pathetic.");
 MsgDisp("主人公","You're not pathetic.
 It's because ｛Sassa＊＊｝ is gentle.
 I got carried away, I'm sorry.");

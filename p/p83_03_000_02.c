@@ -80,7 +80,7 @@ property...");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("P830300002_03_070");
-    MsgDisp("Honda","Haa, that's right.
+    MsgDisp("Honda","Sigh, that's right.
 It hasn't been turned in, right...");
     MsgDisp("主人公","I'll write this in the lost items notebook.");
     ChEye(3,2);

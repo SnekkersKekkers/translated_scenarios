@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 3:
     MsgDisp("主人公","(Uwaah...there's so many people in the
 audience. It seems like it's more than last
-year. Haa, I'm nervous.)");
+year. Sigh, I'm nervous.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -64,7 +64,7 @@ to listen, let's deliver a good performance!)");
     case 5:
     MsgDisp("主人公","(Uwaah...there's so many people in the
 audience. It seems like it's more than last
-year. Haa, I'm nervous.)");
+year. Sigh, I'm nervous.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

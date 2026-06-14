@@ -38,7 +38,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("F110410001_04_020");
-MsgDisp("Nanatsumori","Ha...");
+MsgDisp("Nanatsumori","Sigh...");
 MsgDisp("主人公","Are you alright?");
 ChEye(4,2);
 ChMouth(4,2);

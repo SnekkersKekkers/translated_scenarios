@@ -80,7 +80,7 @@ Then, I'll invite you next time okay?");
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040616002_06_080");
-        MsgDisp("Himuro","...Haa.
+        MsgDisp("Himuro","...Sigh.
 Why is that the only way I could put it...");
         MsgDisp("主人公","(?
 ｛Himuro＊＊｝ seems to be worried about

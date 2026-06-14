@@ -57,7 +57,7 @@ partner, ｛Kazama＊＊｝.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("O030101000_01_040");
-    MsgDisp("Kazama","Haa?
+    MsgDisp("Kazama","Huh?
 I'd only partner with you.
 Don't tell me you have someone else?");
     MsgDisp("主人公","No, I don't have a partner yet.");

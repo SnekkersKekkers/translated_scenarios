@@ -4,7 +4,7 @@ ChLayout(1);
 ChOpen(8,255,0,2,2,0,#1,6,0);
 ScrFadeIn(0);
 VoicePlay("B150800400_08_000");
-MsgDisp("Shirahane","Haa...");
+MsgDisp("Shirahane","Sigh...");
 ChEye(8,1);
 ChMouth(8,4);
 VoiceEVSPlay(8);

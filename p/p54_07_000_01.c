@@ -3,7 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 It didn't go smoothly...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);

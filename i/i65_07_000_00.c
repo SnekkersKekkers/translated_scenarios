@@ -68,7 +68,7 @@ Principal Himuro again, you know?");
     ChMotion(7,1);
     VoicePlay("I650700000_07_060");
     MsgDisp("Mikage","You're right.
-Haa, I'll just give up and go home.
+Sigh, I'll just give up and go home.
 See you.");
     SEPlay("EV_SE_734");
     Wait(60,0);

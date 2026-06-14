@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 ChMotion(5,2);
 VoicePlay("G020510307_05_000");
-MsgDisp("Hiiragi","Haa, it sure is beautiful, huh...");
+MsgDisp("Hiiragi","Ahh, it sure is beautiful, huh...");
 MsgDisp("主人公","Yeah, truly...");
 ChEye(5,0);
 ChMouth(5,4);

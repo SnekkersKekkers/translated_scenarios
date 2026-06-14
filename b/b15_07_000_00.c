@@ -24,7 +24,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B150700000_07_030");
-MsgDisp("Mikage","Haaa..
+MsgDisp("Mikage","Sigh..
 Don't overdo it.
 You'll shatter my image of Miss Diligent.");
 MsgDisp("主人公","I wanted to touch ｛Mikage＊＊｝...");

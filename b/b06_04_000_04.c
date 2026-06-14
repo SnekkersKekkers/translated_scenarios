@@ -14,7 +14,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("B060400004_04_000");
     MsgDisp("Nanatsumori","Be careful on your way home.
-...Haa～");
+...Sigh～");
     MsgDispSksp(0);
     break ;
     case 3:

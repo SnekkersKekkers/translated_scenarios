@@ -26,7 +26,7 @@ Try to go with your parents or a friend.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Ahh, unfortunate...)");
+    MsgDisp("主人公","(Sigh, unfortunate...)");
     break ;
     case 4:
     case 5:

@@ -71,7 +71,7 @@ My feelings for you are too great to conceal.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040514002_05_080");
-        MsgDisp("Hiiragi","Haa.
+        MsgDisp("Hiiragi","Phew.
 I feel better now, so that's the end of it.");
         MsgDisp("主人公","(Ehh, ｛Hiiragi＊＊＊｝ was jealous?
 I feel like I heard something really

@@ -105,7 +105,7 @@ ChNanaType(0);
 ChOpen(4,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("T020B21000_04_000");
-MsgDisp("Nanatsumori","Haa...you're finally here.");
+MsgDisp("Nanatsumori","Phew...you're finally here.");
 ChClose(4,0,30);
 ChLayout(2);
 ChNanaType(0);

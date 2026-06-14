@@ -65,7 +65,7 @@ I've been working here a while, so I'm glad.)");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
     ChOpen(8,35,0,3,3,#1,#1,0,0);
-    MsgDisp("主人公","Haa...
+    MsgDisp("主人公","Phew...
 Seems like it's calmed down a bit.");
     VoiceEVSPlay(8);
     VoicePlay("I660800008_08_060");

@@ -73,7 +73,7 @@ It's a win-win situation.");
         ChMouth(7,3);
         ChMotion(7,2);
         VoicePlay("B040723302_07_070");
-        MsgDisp("Mikage","Ugh, listen to me, talking all boring like
+        MsgDisp("Mikage","Sigh, listen to me, talking all boring like
 that.");
         ChEye(7,0);
         ChMouth(7,0);

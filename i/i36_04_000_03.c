@@ -91,7 +91,7 @@ I'm sorry I didn't notice...");
     MsgDisp("Nanatsumori","Sugar is essential, especially for a coffee
 shop like this.
 Make sure you lift the lids and check.");
-    MsgDisp("主人公","(Haa...
+    MsgDisp("主人公","(Sigh...
 I guess I'm a little distracted.
 I'll have to check the tables more often.)");
     break ;

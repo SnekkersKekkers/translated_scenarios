@@ -15,4 +15,4 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B130100000_01_010");
 MsgDisp("Kazama","I can't help but look...
-Haa, how pathetic.");
+Sigh, how pathetic.");

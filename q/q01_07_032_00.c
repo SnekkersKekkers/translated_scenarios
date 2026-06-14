@@ -117,7 +117,7 @@ use it to write a report. And then—");
 	MsgDisp("Mikage","Y-Yes.");
 	SEPlay("EV_SE_738");
 	SEWait();
-	MsgDisp("主人公","(Ha...
+	MsgDisp("主人公","(Phew...
 It seems they've left.
 I have to get out of here quickly!)");
 	break ;

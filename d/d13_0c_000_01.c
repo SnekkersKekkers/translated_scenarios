@@ -63,7 +63,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D130C00001_06_020");
-MsgDisp("Himuro","Haa...
+MsgDisp("Himuro","Sigh...
 I'm going back to my classroom.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -12,7 +12,7 @@ SEWait();
 ChOpen(5,254,0,4,4,#1,#1,0,0);
 VoicePlay("P840500004_05_000");
 MsgDisp("Hiiragi","The lost child's mother has been found.");
-MsgDisp("主人公","Haa, that's good.");
+MsgDisp("主人公","Phew, that's good.");
 ChEye(5,0);
 VoicePlay("P840500004_05_010");
 MsgDisp("Hiiragi","It was because you had diligently repeated

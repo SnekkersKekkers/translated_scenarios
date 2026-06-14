@@ -13,7 +13,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("H4A0300000_03_000");
-MsgDisp("Honda","Haa...
+MsgDisp("Honda","Sigh...
 So it really was you?");
 MsgDisp("主人公","Hm?");
 ChEye(3,0);

@@ -11,7 +11,7 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);
 ChCheek(6,10);
-MsgDisp("Himuro","Haa?
+MsgDisp("Himuro","Huh?
 What is that...");
 VoicePlay("T020620000_06_190");
 ChEye(6,0);

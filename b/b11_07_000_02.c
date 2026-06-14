@@ -88,7 +88,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,253,4,2,0,#1,#1,0,0);
 VoicePlay("B110700002_07_040");
-MsgDisp("Mikage","Haa...guys like that make me sad.
+MsgDisp("Mikage","Sigh...guys like that make me sad.
 Even he was a high schooler once, y'know.");
 MsgDisp("主人公","Yeah...
 It's kinda sad, actually.");

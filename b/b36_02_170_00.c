@@ -13,7 +13,7 @@ ChEyeOpenLevel(2,0);
 ScrFadeIn(0);
 Wait(30,0);
 VoicePlay("B360217000_02_000");
-MsgDisp("Sassa","Haa—, I sang so much!");
+MsgDisp("Sassa","Ahh—, I sang so much!");
 MsgDisp("主人公","｛Sassa＊＊｝, won't you lose your voice?");
 ChEye(2,0);
 ChMouth(2,3);

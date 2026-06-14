@@ -3,7 +3,7 @@ ChMouth(31,4);
 ChMotion(31,2);
 ScrFadeIn(0);
 VoicePlay("P843100003_31_000");
-MsgDisp("Goro","Haa...that's enough.");
+MsgDisp("Goro","Sigh...that's enough.");
 MsgDisp("主人公","Eh?
 Goro-sensei, what's the matter?");
 ChEye(31,0);

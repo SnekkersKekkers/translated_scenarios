@@ -74,14 +74,14 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C03400_05_030");
-MsgDisp("Hiiragi","Hehe.
+MsgDisp("Hiiragi","Haha.
 You mean us, right?");
 MsgDisp("主人公","Eh∋");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C03400_06_020");
-MsgDisp("Himuro","Haa...to Kojiro-sensei, we look like plants
+MsgDisp("Himuro","Sigh...to Kojiro-sensei, we look like plants
 and animals?");
 ChMotion(5,4);
 ChEye(7,0);

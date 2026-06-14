@@ -21,7 +21,7 @@ Well, it can't get any worse.");
     ChMotion(2,4,1);
     ScrFadeIn(0);
     VoicePlay("B060200004_02_010");
-    MsgDisp("Sassa","Haa, too bad.
+    MsgDisp("Sassa","Sigh, too bad.
 Even though we're finally together.");
     MsgDispSksp(0);
     break ;
@@ -34,7 +34,7 @@ Even though we're finally together.");
     ChEyeOpenLevel(2,7);
     ScrFadeIn(0);
     VoicePlay("B060200004_02_020");
-    MsgDisp("Sassa","Haa... I'm sorry you went through the trouble
+    MsgDisp("Sassa","Sigh... I'm sorry you went through the trouble
 of inviting me.
 Sometimes there are just days like this～");
     MsgDispSksp(0);

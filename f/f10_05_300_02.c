@@ -100,7 +100,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100530002_05_060");
-MsgDisp("Hiiragi","Hehe.
+MsgDisp("Hiiragi","Haha.
 I really do enjoy the greeting enforcement
 campaign.");
 MsgDisp("主人公","(I might understand how ｛Hiiragi＊＊＊｝ feels?

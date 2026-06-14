@@ -15,7 +15,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(3,254,2,2,4,#1,#1,0,0);
 VoicePlay("P840300004_03_000");
-MsgDisp("Honda","Haa, I can't find my meal ticket...");
+MsgDisp("Honda","Sigh, I can't find my meal ticket...");
 MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Just now, someone returned it!");
 ChEye(3,3);

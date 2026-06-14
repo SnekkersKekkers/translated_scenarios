@@ -35,7 +35,7 @@ Thanks to you, I enjoyed the school trip.");
     ChMouth(4,0);
     ChMotion(4,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Haah...
+    MsgDisp("主人公","Phew...
 I'm at the hotel.");
     ChEye(4,0);
     ChMouth(4,3);

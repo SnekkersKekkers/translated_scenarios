@@ -112,7 +112,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4,1);
 VoicePlay("B330C30401_05_040");
-MsgDisp("Hiiragi","Hehe, it is a joke.");
+MsgDisp("Hiiragi","Haha, it is a joke.");
 ChEyeOpenLevel(5,#1);
 ChEye(6,0);
 ChMouth(6,3);

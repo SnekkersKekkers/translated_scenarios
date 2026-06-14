@@ -37,7 +37,7 @@ VoicePlay("B360115101_01_030");
 MsgDisp("Kazama","What an annoying pin...
 I can somewhat see those two in it...");
 VoicePlay("B360115101_01_040");
-MsgDisp("Kazama","Haa—.
+MsgDisp("Kazama","Phew—.
 This is our alone time!");
 SEPlay("EV_SE_786");
 SEWait();

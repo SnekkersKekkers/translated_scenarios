@@ -32,7 +32,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 ScrFadeIn(0);
 VoicePlay("B150700500_07_040");
-MsgDisp("Mikage","Haa...
+MsgDisp("Mikage","Sigh...
 Could you act a bit more surprised?
 Ah-, how embarrassing...");
 ChEye(7,2);

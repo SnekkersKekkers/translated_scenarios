@@ -23,7 +23,7 @@ ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,4);
 ChCheek(6,0);
-MsgDisp("Himuro","Haa...
+MsgDisp("Himuro","Sigh...
 I have to give my thanks to those guys
 too.");
 VoicePlay("T020620000_06_130");

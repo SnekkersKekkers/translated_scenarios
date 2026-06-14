@@ -34,7 +34,7 @@ ChMotion(3,0,1);
 VoicePlay("P840300003_03_030");
 MsgDisp("Honda","Maybe it would be better if you took a little
 break?");
-MsgDisp("主人公","(Haa, it wasn't there in the first place.
+MsgDisp("主人公","(Sigh, it wasn't there in the first place.
 I'm sorry, I failed tremendously.)");
 MsgClose();
 ScrFadeOut(0,0);

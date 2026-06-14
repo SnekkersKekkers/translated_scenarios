@@ -21,7 +21,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,7);
 VoicePlay("F100610002_06_010");
-MsgDisp("Himuro","Haa...
+MsgDisp("Himuro","Sigh...
 There was another curious person here.");
 MsgDisp("主人公","Ehh?
 I don't really care...");

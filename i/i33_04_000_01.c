@@ -116,7 +116,7 @@ time.");
     ChMotion(4,1,1);
     ChCheek(4,5);
     VoicePlay("I330400001_04_140");
-    MsgDisp("Nanatsumori","Haa...
+    MsgDisp("Nanatsumori","Sigh...
 The apron looks great on you...");
     MsgDisp("主人公","Th-Thanks.
 Hey, what are you worried about?");

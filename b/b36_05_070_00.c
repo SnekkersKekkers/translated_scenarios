@@ -54,7 +54,7 @@ Wait(12,0);
 ChEye(5,0);
 ChMouth(5,3);
 VoicePlay("B360507000_05_070");
-MsgDisp("Hiiragi","Hehe.
+MsgDisp("Hiiragi","Haha.
 I'm actually quite the strategist.");
 MsgDisp("主人公","(Something about ｛Hiiragi＊＊＊｝ seems a little
 different from usual...)");

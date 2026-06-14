@@ -64,7 +64,7 @@ ChMouth(3,0);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310300_03_090");
-MsgDisp("Honda","Ah, I feel so much better...
+MsgDisp("Honda","Phew, I feel so much better...
 It's like I can finally breathe normally
 again.");
 MsgDisp("主人公","(｛Honda＊＊｝, you were worrying about it that

@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(5,255,4,2,2,0,#1,7,0);
 ScrFadeIn(0);
 VoicePlay("B150500400_05_000");
-MsgDisp("Hiiragi","...Haa.");
+MsgDisp("Hiiragi","...Sigh.");
 MsgDisp("主人公","Ah, I'm sorry.");
 ChMotion(5,1);
 ChEyeOpenLevel(5,#1);

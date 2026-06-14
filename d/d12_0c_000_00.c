@@ -234,7 +234,7 @@ MsgDisp("Mikage","Alright.
 Let's get going before they find out.");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(Haa, that was fun!
+MsgDisp("主人公","(Ahh, that was fun!
 Having a barbecue at school...
 ｛Mikage＊＊｝, thank you so much!)");
 BGMStop();

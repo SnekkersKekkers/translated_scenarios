@@ -15,7 +15,7 @@ VoicePlay("P643100005_31_010");
 MsgDisp("Goro","Oh dear.
 I know the vegetables are fresh, but the dish
 needs to be well-finished.");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 I should have been more careful when
 plating...)");
 MsgClose();

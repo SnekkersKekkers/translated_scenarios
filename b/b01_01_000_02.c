@@ -50,7 +50,7 @@ I—");
     ChCheek(1,0);
     VoicePlay("B010100002_01_050");
     MsgDisp("Kazama","Heh, answering a question with a question.
-...Ahh, you're a dangerous one.");
+...Phew, you're a dangerous one.");
     MsgDispSksp(0);
     break ;
     case 4:

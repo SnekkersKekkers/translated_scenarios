@@ -14,7 +14,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Haa, that was fun!
+MsgDisp("主人公","Ahh, that was fun!
 Thanks for inviting me today.");
 ChEye(3,3);
 ChMouth(3,3);

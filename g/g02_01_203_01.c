@@ -76,7 +76,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120301_01_090");
-MsgDisp("Kazama","(sigh) It doesn't look like my worries are
+MsgDisp("Kazama","Sigh... It doesn't look like my worries are
 gonna end any time soon.");
 MsgDisp("主人公","You're liked by both boys and girls, and
 you're popular with the elderly too,

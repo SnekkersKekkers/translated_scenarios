@@ -7,7 +7,7 @@ ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew!
+MsgDisp("主人公","Ahh!
 Time flies...
 It was so much fun.");
 ChMouth(1,3);

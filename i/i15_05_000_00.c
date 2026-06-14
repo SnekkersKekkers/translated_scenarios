@@ -113,7 +113,7 @@ suddenly came to my mind, and-");
     MsgDisp("主人公","Um...");
     ChEye(5,3);
     VoicePlay("I150500000_05_140");
-    MsgDisp("Hiiragi","Hehe, if you think about it, I suppose you
+    MsgDisp("Hiiragi","Haha, if you think about it, I suppose you
 were the thing I was searching for?");
     MsgDisp("主人公","Huh!?");
     ChEye(5,0);

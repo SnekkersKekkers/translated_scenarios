@@ -39,7 +39,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("S110400001_04_050");
-MsgDisp("Nanatsumori","Ha...
+MsgDisp("Nanatsumori","Sigh...
 This year, I'll feel a little uneasy...");
 MsgDisp("主人公","(｛Nanatsumori＊｝, are you actually a
 superstitious person?)");

@@ -24,7 +24,7 @@ SEStop("EV_SE_817",0.5);
 BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ScrFadeIn(0);
 VoicePlay("B330C20700_06_000");
-MsgDisp("Himuro","Haa, that was awesome.
+MsgDisp("Himuro","Ahh, that was awesome.
 Especially the first loop.");
 ChEye(5,3);
 ChMouth(5,3);

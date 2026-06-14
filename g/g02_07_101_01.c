@@ -20,7 +20,7 @@ ChEyeOpenLevel(7,10);
 VoicePlay("G020710101_07_020");
 MsgDisp("Mikage","Uwah∋
 Don't startle me like that.");
-MsgDisp("主人公","Haaa, I was surprised.");
+MsgDisp("主人公","Phew, I was surprised.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -43,7 +43,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710101_07_060");
-MsgDisp("Mikage","Haa, at least give it a rest for today, Ah,
+MsgDisp("Mikage","Sigh, at least give it a rest for today, Ah,
 could that be the inner voice?");
 MsgDisp("主人公","(Does that mean...those two want to be here
 with me?

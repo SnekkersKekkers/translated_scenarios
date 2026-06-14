@@ -42,7 +42,7 @@ We were so close to winning, but...");
     MsgDisp("Mikage","That's true.
 But your face when you're doing your best is
 really cool.");
-    MsgDisp("主人公","(Haa...
+    MsgDisp("主人公","(Sigh...
 I wanted to show you a win, not a draw.)");
     break ;
     default :

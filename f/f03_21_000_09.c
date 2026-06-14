@@ -10,7 +10,7 @@ ChMouth(21,2);
 ChMotion(21,2);
 ChCheek(21,0);
 VoicePlay("F032100000_21_480");
-MsgDisp("Michiru","...Ha.
+MsgDisp("Michiru","...Sigh.
 I think it's probably impossible for me.");
 MsgDisp("主人公","That...why?");
 ChMouth(21,4);

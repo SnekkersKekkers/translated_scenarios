@@ -13,7 +13,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 ChMotion(4,0,1);
 VoicePlay("B330B30200_04_000");
-MsgDisp("Nanatsumori","Haa...it feels nice.");
+MsgDisp("Nanatsumori","Ahh...it feels nice.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);

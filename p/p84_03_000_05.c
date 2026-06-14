@@ -45,10 +45,10 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("P840300005_03_040");
-MsgDisp("Honda","Haa, I can't laugh.
+MsgDisp("Honda","Sigh, I can't laugh.
 Let's both be careful with looking after our
 things.");
-MsgDisp("主人公","(Haa...even though it was my last cultural
+MsgDisp("主人公","(Ahh...even though it was my last cultural
 festival, and I need to calm down and get to
 work...)");
 MsgClose();

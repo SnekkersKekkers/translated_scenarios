@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(5,255,2,2,2,0,#1,10,0);
 ScrFadeIn(0);
 VoicePlay("B150500500_05_000");
-MsgDisp("Hiiragi","Haa...wait.
+MsgDisp("Hiiragi","Sigh...wait.
 Please wait.");
 MsgDisp("主人公","∋
 Um, ｛Hiiragi＊＊＊｝...");
@@ -36,7 +36,7 @@ because I bothered him too much.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500500_05_050");
-MsgDisp("Hiiragi","Haa..
+MsgDisp("Hiiragi","Sigh..
 I want to do that too.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, you're going to leave?
 ...I'll stop now.");

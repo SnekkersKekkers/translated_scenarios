@@ -10,7 +10,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     MsgDisp("主人公","(Wow... There are a lot of customers this
 year. It seems like there are more than last
-year. Ah, I'm nervous...)");
+year. Sigh, I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -85,7 +85,7 @@ I'll do my best—!)");
     ScrFadeIn(0);
     MsgDisp("主人公","(Wow... There are a lot of customers this
 year. It seems like there are more than last
-year. Ah, I'm nervous...)");
+year. Sigh, I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

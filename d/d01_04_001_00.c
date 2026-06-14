@@ -17,7 +17,7 @@ BGOpen("ex000",2);
 SEPlay("EV_SE_FOOT_RUN_KEEP_ALONE");
 SEWait();
 ScrFadeIn(0);
-MsgDisp("主人公","*Panting*...");
+MsgDisp("主人公","Pant, pant...");
 VoicePlay("D010400100_04_000");
 MsgDisp("Nanatsumori?","You didn't have to run, you know.");
 MsgClose();

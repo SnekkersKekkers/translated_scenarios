@@ -49,7 +49,7 @@ while (1){
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("G110100900_01_020");
-    MsgDisp("Kazama","Haa...");
+    MsgDisp("Kazama","Sigh...");
     ChEyeOpenLevel(1,#1);
     }
 ChEye(1,0);

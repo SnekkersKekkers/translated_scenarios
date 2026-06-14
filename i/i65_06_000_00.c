@@ -8,7 +8,7 @@ switch (ChPrmGet(6,6)){
     SEPlay("EV_SE_589");
     Wait(50,0);
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(Haa, and now we need detergent for the car
+    MsgDisp("主人公","(Phew, and now we need detergent for the car
 wash...)");
     VoicePlay("I650600000_06_000");
     MsgDisp("Himuro?","Hm, so you're working here?");

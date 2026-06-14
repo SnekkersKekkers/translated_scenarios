@@ -32,7 +32,7 @@ while (1){
     ChMotion(6,2);
     VoicePlay("G110600200_06_010");
     MsgDisp("Himuro","What if it wasn't just me...
-Haa.");
+Sigh.");
     }
 ChEye(6,0);
 ChMouth(6,0);

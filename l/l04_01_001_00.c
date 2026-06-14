@@ -3,7 +3,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("L040100100_01_000");
 MsgDisp("Kazama","...Thank you.
-Ha, it's storebought, huh.");
+Sigh, it's storebought, huh.");
 MsgClose();
 BGMStop();
 MsgClose();

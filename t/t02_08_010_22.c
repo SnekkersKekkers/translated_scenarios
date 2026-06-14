@@ -26,7 +26,7 @@ VoicePlay("T020801000_08_330");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,3,1);
-MsgDisp("Shirahane","Haa...
+MsgDisp("Shirahane","Sigh...
 I wonder if I'll be like this even when I
 go to university.");
 VoicePlay("T020801000_08_340");

@@ -21,7 +21,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ScrFadeIn(0);
 VoicePlay("B330A20801_02_000");
-MsgDisp("Sassa","Haa...
+MsgDisp("Sassa","Ahh...
 As I thought, the rollercoaster here is
 really the best.");
 MsgDisp("主人公","Yeah, it really packs a punch...");

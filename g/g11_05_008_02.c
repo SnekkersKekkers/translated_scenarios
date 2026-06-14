@@ -109,7 +109,7 @@ ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("G110500802_05_090");
-MsgDisp("Hiiragi","Haa...yes.");
+MsgDisp("Hiiragi","Hah...yes.");
 MsgDisp("主人公","You've gotten good at using a computer,
 haven't you?");
 ChEye(5,2);

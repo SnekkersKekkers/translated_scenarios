@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,2);
     VoicePlay("B040511101_05_010");
     MsgDisp("Hiiragi","So that's why more people are watching me...
-Haa, now I really can't afford to fall...");
+Sigh, now I really can't afford to fall...");
     MsgDateResultDisp();
     break ;
     case 1:

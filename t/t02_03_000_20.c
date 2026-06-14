@@ -25,7 +25,7 @@ ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 ChCheek(3,10);
 VoicePlay("T020300020_03_020");
-MsgDisp("Honda","Haa...
+MsgDisp("Honda","Ahh...
 It's getting hot around here.");
 BGMStop(2.8);
 MsgClear();

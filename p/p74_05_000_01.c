@@ -23,7 +23,7 @@ VoicePlay("P740500001_05_020");
 MsgDisp("Hiiragi","It's not an exhibition, it's a fashion
 show... That's something to keep in mind from
 now on, yes?");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 I should have spent more time doing club
 activities...)");
 MsgClose();

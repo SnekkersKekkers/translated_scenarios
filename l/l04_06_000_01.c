@@ -67,7 +67,7 @@ It's from a shop with a good reputation.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("L040600001_06_060");
-    MsgDisp("Himuro","Ha...don't worry about it.
+    MsgDisp("Himuro","Sigh...don't worry about it.
 I was the one thinking of nonsense and
 expecting too much.");
     MsgClose();

@@ -6,7 +6,7 @@ ChOpen(21,254,2,2,2,#1,#1,0,0,0,0);
 Wait(15,0);
 ScrFadeIn(0);
 VoicePlay("F102110001_21_000");
-MsgDisp("Michiru","Ha...");
+MsgDisp("Michiru","Sigh...");
 MsgDisp("主人公","｛みちる＊｝!");
 ChEye(21,5);
 ChMouth(21,5);

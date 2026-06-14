@@ -43,7 +43,7 @@ delusions.");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_060");
-MsgDisp("Hiiragi","Haa...
+MsgDisp("Hiiragi","Sigh...
 He's such a formidable opponent.");
 MsgDisp("主人公","Formidable opponent?");
 ChMouth(5,4);

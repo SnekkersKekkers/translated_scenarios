@@ -3,7 +3,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 MsgDisp("主人公","(It's gotten late today.
-Haaa... I don't have many days left at
+Sigh... I don't have many days left at
 Habataki High School...)");
 MsgClose();
 ScrFadeOut(0,0);

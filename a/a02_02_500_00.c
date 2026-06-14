@@ -170,7 +170,7 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("A020250000_01_080");
-MsgDisp("Kazama","Huh, looks like it's gonna get noisy around
+MsgDisp("Kazama","Sigh, looks like it's gonna get noisy around
 here.");
 MsgDisp("主人公","(So I'm not just childhood friends with
 ｛Kazama＊＊｝, but also with ｛Sassa＊＊｝.

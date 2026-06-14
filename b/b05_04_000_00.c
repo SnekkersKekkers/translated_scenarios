@@ -135,7 +135,7 @@ ChLayout(1);
 ChNanaType(1);
 ChOpen(4,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Haa...
+MsgDisp("主人公","Sigh...
 My heart is racing...");
 ChEye(4,0);
 ChMouth(4,3);

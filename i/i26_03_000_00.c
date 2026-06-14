@@ -40,7 +40,7 @@ can lead to accidents.");
     VoicePlay("I260300000_03_040");
     MsgDisp("Honda","Then, leave the rest to me.
 I'll leave the cash register to you.");
-    MsgDisp("主人公","(Haa...
+    MsgDisp("主人公","(Sigh...
 I made ｛Honda＊＊｝ worry.)");
     break ;
     case 4:
@@ -107,7 +107,7 @@ Thanks, ｛Honda＊＊｝.");
     MsgDisp("Honda","Come on, stop looking like you're about to
 cry. The customers are waiting for your
 smile, so smile!");
-    MsgDisp("主人公","(Haa...
+    MsgDisp("主人公","(Sigh...
 I made a lot of extra work for ｛Honda＊＊｝.)");
     break ;
     default :

@@ -91,7 +91,7 @@ Then, please encourage me.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P530700002_07_090");
-    MsgDisp("Mikage","...Haaa Then, instead of thanking you, I'll
+    MsgDisp("Mikage","...Sigh Then, instead of thanking you, I'll
 thank you.");
     ChEye(7,0);
     ChMouth(7,0);

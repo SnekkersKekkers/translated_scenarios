@@ -75,7 +75,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A05002_01_030");
-MsgDisp("Kazama","Haa?
+MsgDisp("Kazama","Huh?
 What does that mean?");
 ChEye(6,0);
 ChMouth(6,0);

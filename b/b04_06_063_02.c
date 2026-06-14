@@ -45,7 +45,7 @@ Do as you'd like.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040606302_06_030");
-        MsgDisp("Himuro","Haa...the mood is ruined.");
+        MsgDisp("Himuro","Ugh...the mood is ruined.");
         MsgDateResultDisp();
         break ;
         case 4:

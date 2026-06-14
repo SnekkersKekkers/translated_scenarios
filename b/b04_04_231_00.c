@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B040423100_04_000");
 MsgDisp("Nanatsumori","My hair got messed up after all...
-Haa.");
+Sigh.");
 MsgSel("That was awesome! I wanna ride again!","Ugh, that was scary...","I wanted a bit more thrill...");
 switch (MsgSelRsltGet()){
     case 0:

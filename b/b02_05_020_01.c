@@ -2,7 +2,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B020502001_05_000");
-MsgDisp("Hiiragi","Hehe, I am able to meet with Hazuki-san once
+MsgDisp("Hiiragi","Haha, I am able to meet with Hazuki-san once
 more.");
 MsgDisp("主人公","Oh, I wore it before, didn't I?");
 ChEye(5,4);

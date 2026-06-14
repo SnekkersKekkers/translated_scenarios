@@ -136,7 +136,7 @@ It's for the hobby magazine corner.");
     VoicePlay("I250100000_01_120");
     MsgDisp("Kazama","Is here okay?");
     MsgDisp("主人公","Yeah.
-Haa...thanks, ｛Kazama＊＊｝.
+Phew...thanks, ｛Kazama＊＊｝.
 You saved me.");
     ChEye(1,4);
     ChMouth(1,3);

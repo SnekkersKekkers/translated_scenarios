@@ -152,7 +152,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010101000_01_160");
-MsgDisp("Kazama","Haa?
+MsgDisp("Kazama","Huh?
 That's what you mean...
 That's somewhat disappointing.");
 MsgDisp("主人公","(｛Kazama＊＊｝, maybe you thought I forgot

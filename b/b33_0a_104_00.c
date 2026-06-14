@@ -109,7 +109,7 @@ ChOpen(2,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,4,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330A10400_02_050");
-MsgDisp("Sassa","Haa...
+MsgDisp("Sassa","Ahh...
 We spent the whole day on the boats today.");
 ChEye(6,0);
 ChMouth(6,4);

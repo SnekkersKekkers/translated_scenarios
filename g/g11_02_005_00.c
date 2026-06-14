@@ -26,7 +26,7 @@ ScrFadeIn(0);
 VoicePlay("G110200500_02_010");
 MsgDisp("Sassa","Yeah.
 You look like a fine athlete.");
-MsgDisp("主人公","Haa...
+MsgDisp("主人公","Pant...
 ｛Sassa＊＊｝, you're a bit fast today...");
 ChEye(2,0);
 ChMouth(2,0);

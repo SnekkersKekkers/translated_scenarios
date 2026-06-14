@@ -3,7 +3,7 @@ ChMouth(31,1);
 ChMotion(31,0);
 ScrFadeIn(0);
 VoicePlay("P843100005_31_000");
-MsgDisp("Goro","Haa, Haa...");
+MsgDisp("Goro","Pant, pant...");
 MsgDisp("主人公","Goro-sensei, are you alright?");
 ChEye(31,1);
 ChMouth(31,1);

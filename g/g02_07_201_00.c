@@ -40,7 +40,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020720100_07_050");
-MsgDisp("Mikage","Haa...
+MsgDisp("Mikage","Sigh...
 That was all just my inner voice, so you
 don't need to respond.");
 MsgDisp("主人公","(｛Mikage＊＊｝...)");

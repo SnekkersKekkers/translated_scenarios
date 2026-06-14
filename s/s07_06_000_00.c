@@ -23,7 +23,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S070600000_06_020");
-    MsgDisp("Himuro","Haa...");
+    MsgDisp("Himuro","Sigh...");
     break ;
     case 3:
     ChEye(6,0);

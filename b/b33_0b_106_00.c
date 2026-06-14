@@ -90,7 +90,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B10600_03_020");
-MsgDisp("Honda","Haa...");
+MsgDisp("Honda","Sigh...");
 ChEye(4,1);
 ChMouth(4,3);
 ChMouthOpenLevel(4,0);

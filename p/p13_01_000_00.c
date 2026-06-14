@@ -90,7 +90,7 @@ What's wrong with that?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("P130100000_01_080");
-    MsgDisp("Kazama","Haa, it doesn't matter.");
+    MsgDisp("Kazama","Sigh, it doesn't matter.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

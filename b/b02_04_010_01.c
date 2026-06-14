@@ -7,7 +7,7 @@ ChMouth(4,2);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B020401001_04_000");
-MsgDisp("Nanatsumori","Haa...～
+MsgDisp("Nanatsumori","Sigh...～
 What a waste.");
 MsgDisp("主人公","Huh?
 Is my swimsuit weird?");

@@ -60,7 +60,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06002_01_040");
-MsgDisp("Kazama","Haa, you do what you like.
+MsgDisp("Kazama","Ugh, you do what you like.
 I don't want to hear it.");
 ChEye(2,0);
 ChMouth(2,4);

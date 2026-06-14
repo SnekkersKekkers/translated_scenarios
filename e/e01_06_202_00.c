@@ -99,7 +99,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("E010620200_06_070");
-MsgDisp("Himuro","Haa...
+MsgDisp("Himuro","Sigh...
 I have to admit it.");
 MsgDisp("主人公","(Hehe, they both like cats.
 It's a bit of a surprise.)");

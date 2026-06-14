@@ -39,7 +39,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360105101_01_040");
-MsgDisp("Kazama","Haa?
+MsgDisp("Kazama","Huh?
 ...Geez, you really don't get it.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -66,7 +66,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360105101_01_070");
-MsgDisp("Kazama","Haa, finally.
+MsgDisp("Kazama","Phew, finally.
 We've been together since morning, but this
 is the first time I've held your hand.");
 MsgDisp("主人公","(｛Kazama＊＊｝...?)");

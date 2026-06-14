@@ -47,7 +47,7 @@ MsgDisp("Kazama","Soba!");
 SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
 VoicePlay("B330A30201_02_020");
-MsgDisp("Sassa","Haa∋
+MsgDisp("Sassa","Ugh∋
 You suddenly made up that rule!
 Err—...Udon!");
 SEPlay("EV_SE_816");

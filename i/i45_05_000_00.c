@@ -46,7 +46,7 @@ Well then...");
     BGMStop();
     ChClose(5);
     VoicePlay("I450500000_05_050");
-    MsgDisp("Hiiragi","Haa...");
+    MsgDisp("Hiiragi","Sigh...");
     MsgDisp("主人公","(I wonder if ｛Hiiragi＊＊＊｝ is okay?
 His work seems tough...)");
     break ;

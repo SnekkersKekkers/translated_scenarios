@@ -48,7 +48,7 @@ You really are simple.
         ChMotion(6,5);
         ChCheek(6,10);
         VoicePlay("B040602302_06_040");
-        MsgDisp("Himuro","Haa?");
+        MsgDisp("Himuro","Huh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

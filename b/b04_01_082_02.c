@@ -64,7 +64,7 @@ I really said some careless stuff.");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108202_01_050");
-        MsgDisp("Kazama","Haah.
+        MsgDisp("Kazama","Phew.
 Well, I guess you didn't know, did you?");
         ChEye(1,4);
         ChMouth(1,4);

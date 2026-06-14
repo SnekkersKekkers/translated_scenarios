@@ -103,7 +103,7 @@ ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...
+MsgDisp("主人公","Ahh...
 That was really fun!");
 VoicePlay("D010400400_04_110");
 MsgDisp("Nanatsumori","That's the most important part.");

@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,0,1);
     ScrFadeIn(0);
-    MsgDisp("主人公","Phew, it was so much fun...!
+    MsgDisp("主人公","Ahh, it was so much fun...!
 We walked a lot.");
     ChMotion(5,4);
     VoicePlay("Q080500000_05_000");

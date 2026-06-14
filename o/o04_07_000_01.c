@@ -22,7 +22,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("O040700001_07_010");
     MsgDisp("Mikage","So we lost.
 Yeah, you did your best.");
-    MsgDisp("主人公","(Haa, we lost...)");
+    MsgDisp("主人公","(Sigh, we lost...)");
     break ;
     case 4:
     case 5:

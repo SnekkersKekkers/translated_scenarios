@@ -149,7 +149,7 @@ SEStop("EV_SE_793",2);
 MsgClear();
 MsgDisp("","A sparkling smile looked at me from
 the window seat.");
-MsgDisp("","Haa...
+MsgDisp("","Sigh...
 I can't back out now...");
 BGMStop();
 MsgClear();

@@ -1,7 +1,7 @@
 ChClose(6,0,0);
 BGOpen("ex000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 Today was a fail...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","Huh?

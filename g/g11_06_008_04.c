@@ -90,7 +90,7 @@ VoicePlay("G110600804_06_100");
 MsgDisp("Himuro","?
 What did you think I meant?");
 MsgDisp("主人公","No, it's nothing!");
-MsgDisp("主人公","(Haa, my heart is fluttering...!)");
+MsgDisp("主人公","(Ahh, my heart is fluttering...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

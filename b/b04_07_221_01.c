@@ -38,7 +38,7 @@ This high up, no way it counts as flatland.");
     ChMouth(7,5);
     ChMotion(7,5);
     VoicePlay("B040722101_07_030");
-    MsgDisp("Mikage","Haa...
+    MsgDisp("Mikage","Sigh...
 ...That can't be good～");
     MsgDateResultDisp();
     break ;

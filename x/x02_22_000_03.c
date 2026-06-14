@@ -7,6 +7,6 @@ VoicePlay("X022200003_22_000");
 MsgDisp("Hikaru","Okay, take a deep breath.
 If you move your body recklessly like that
 you'll just hurt yourself, you know?");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

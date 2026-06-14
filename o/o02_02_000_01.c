@@ -20,7 +20,7 @@ You almost had it.");
 Rather than laughing it off after losing, I
 like this attitude way more.");
     MsgDisp("主人公","(｛Sassa＊＊｝, is he trying to console me...?
-Haa, how frustrating.)");
+Ugh, how frustrating.)");
     break ;
     case 3:
     MsgClose();
@@ -50,7 +50,7 @@ But I still wanted to win.");
     MsgDisp("Sassa","That's good.
 With that determination, victory is sure to
 come. Let's do our best until the end.");
-    MsgDisp("主人公","(Haa... How frustrating.
+    MsgDisp("主人公","(Ugh... How frustrating.
 But, like ｛Sassa＊＊｝ said, let's do our best
 until the end of the sports festival.)");
     break ;

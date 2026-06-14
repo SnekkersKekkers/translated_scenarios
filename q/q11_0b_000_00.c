@@ -13,7 +13,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("Q110B00000_03_000");
-MsgDisp("Honda","Phew...
+MsgDisp("Honda","Ahh...
 The castella was so yummy!");
 MsgDisp("主人公","Yeah!");
 ChEye(1,0);

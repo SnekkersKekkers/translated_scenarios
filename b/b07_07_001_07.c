@@ -42,7 +42,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_580");
-MsgDisp("Mikage","Haa, I haven't calmed down yet.");
+MsgDisp("Mikage","Sigh, I haven't calmed down yet.");
 MsgDisp("主人公","Eh?
 Are you alright?");
 ChEye(7,0);

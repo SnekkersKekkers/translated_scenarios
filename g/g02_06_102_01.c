@@ -61,7 +61,7 @@ ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610201_06_080");
-MsgDisp("Himuro","Haa...how cruel.");
+MsgDisp("Himuro","Sigh...how cruel.");
 MsgDisp("主人公","Ehhh∋");
 BGMStop();
 MsgClose();

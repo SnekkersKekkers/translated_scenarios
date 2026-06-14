@@ -99,7 +99,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20500_05_040");
-MsgDisp("Hiiragi","Hehe, Inori-kun is a fun person.");
+MsgDisp("Hiiragi","Haha, Inori-kun is a fun person.");
 SEPlay("EV_SE_086");
 Wait(15,1);
 SEPlay("EV_SE_087");

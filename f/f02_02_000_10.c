@@ -5,7 +5,7 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh...
+MsgDisp("主人公","Sigh...
 I wonder if the culture festival play will go
 well?");
 ChEye(2,0);

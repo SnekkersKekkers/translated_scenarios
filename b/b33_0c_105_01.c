@@ -85,7 +85,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10501_05_050");
-MsgDisp("Hiiragi","Hehe, but I understand.
+MsgDisp("Hiiragi","Haha, but I understand.
 The more you clean, the cleaner it gets.");
 ChEye(7,0);
 ChMouth(7,3);

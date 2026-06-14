@@ -65,7 +65,7 @@ You also got my...");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("R060500003_05_090");
-    MsgDisp("Hiiragi","Hehe, so that's what happened, huh.
+    MsgDisp("Hiiragi","Haha, so that's what happened, huh.
 The student council handles the gift
 exchange...");
     MsgDisp("主人公","Huh...

@@ -32,7 +32,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 ChCheek(5,0);
 VoicePlay("B150500300_05_050");
-MsgDisp("Hiiragi","Haa...understand?
+MsgDisp("Hiiragi","Sigh...understand?
 The me you know is only one part.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

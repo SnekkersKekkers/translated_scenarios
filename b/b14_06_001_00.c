@@ -51,7 +51,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B140600100_06_060");
-MsgDisp("Himuro","Haa... On one hand, I want you to be more
+MsgDisp("Himuro","Sigh... On one hand, I want you to be more
 self-aware, on the other, I also don't want
 you to change.");
 MsgDisp("主人公","Umm...");

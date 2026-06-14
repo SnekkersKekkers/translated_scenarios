@@ -54,7 +54,7 @@ you.");
     SEWait();
     ChOpen(6,30,2,0,0,0,#1,0,0);
     VoicePlay("O030601000_06_040");
-    MsgDisp("Himuro","Haa...
+    MsgDisp("Himuro","Phew...
 I finally found you.");
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);

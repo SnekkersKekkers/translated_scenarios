@@ -19,7 +19,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","Haaa...
+MsgDisp("Himuro","Sigh...
 I really can't read your actions.");
 VoicePlay("T020620000_06_270");
 ChEye(6,0);

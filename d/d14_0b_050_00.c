@@ -38,7 +38,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,7);
 VoicePlay("D140B05000_01_020");
-MsgDisp("Kazama","Haa?");
+MsgDisp("Kazama","Huh?");
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D140B05000_04_010");

@@ -46,7 +46,7 @@ a ship, I guess we could go there for work?");
         ChMotion(5,4);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040502202_05_030");
-        MsgDisp("Hiiragi","Haa...that is precisely the problem.");
+        MsgDisp("Hiiragi","Sigh...that is precisely the problem.");
         MsgDateResultDisp();
         break ;
         case 4:

@@ -130,7 +130,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C05100_05_050");
 MsgDisp("Hiiragi","It appears that I cannot.");
-MsgDisp("主人公","(Haa, that caught me off guard.
+MsgDisp("主人公","(Phew, that caught me off guard.
 What was ｛Hiiragi＊＊＊｝ saying so suddenly?)");
 BGMStop();
 MsgClose();

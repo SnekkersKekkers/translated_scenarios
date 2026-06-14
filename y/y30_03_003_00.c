@@ -4,7 +4,7 @@ BGOpen("ad330",0);
 ScrFadeIn(0);
 VoicePlay("Y300300300_03_000");
 MsgDisp("Honda","\"Today was a huge failure...
-Haa, she must have been really
+Sigh, she must have been really
 surprised too.\"");
 MsgClear();
 MsgDisp("","While I was working at my part time
@@ -32,7 +32,7 @@ MsgDisp("","I got a thorough scolding from the
 manager in the office.");
 MsgDisp("","She laughed, but during work, I
 clasped her hand didn't I...?");
-MsgDisp("","Haa, next shift I have to apologize
+MsgDisp("","Sigh, next shift I have to apologize
 properly.
 Both to her and the manager.");
 MsgClear();
@@ -59,7 +59,7 @@ As I thought, she's the best!\"");
 VoicePlay("Y300300300_44_000");
 MsgDisp("Honda Sis","\"Hey, bro, shut up!\"");
 MsgClear();
-MsgDisp("","Haa...
+MsgDisp("","Sigh...
 I'm only getting scolded today...");
 BGMStop();
 MsgClear();

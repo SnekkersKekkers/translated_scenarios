@@ -63,7 +63,7 @@ Please take some responsibility.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040502302_05_080");
-        MsgDisp("Hiiragi","Hehe.
+        MsgDisp("Hiiragi","Haha.
 I wonder why I have so much fun when I'm with
 you.");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you laughed a lot today.

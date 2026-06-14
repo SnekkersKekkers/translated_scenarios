@@ -35,7 +35,7 @@ Don't cut corners so obviously.");
     VoicePlay("I160100003_01_030");
     MsgDisp("Kazama","It's the basics to also have fun with the
 display, right?");
-    MsgDisp("主人公","(Haa...
+    MsgDisp("主人公","(Sigh...
 Alright, let's go back to the basics and do
 our best!)");
     break ;
@@ -72,7 +72,7 @@ I'm sorry.");
     VoicePlay("I160100003_01_070");
     MsgDisp("Kazama","If you have time to apologize, I'll leave
 making this display better to you.");
-    MsgDisp("主人公","(Haa, I still have a long way to go...
+    MsgDisp("主人公","(Sigh, I still have a long way to go...
 Alright, let's be careful not to make the
 same mistake!)");
     break ;

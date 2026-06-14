@@ -68,7 +68,7 @@ So, what do you say?");
     MsgDisp("主人公","Then, let's meet on ｛日付｝!
 I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030201000_02_080");
-    MsgDisp("Sassa","Hah, I'm glad I reached you before you
+    MsgDisp("Sassa","Phew, I'm glad I reached you before you
 planned something else.
 It's gonna be fun! See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");

@@ -134,7 +134,7 @@ BGMStop();
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","(I can't believe ｛Mikage＊＊｝ popped
-out...haah, I was so surprised.)");
+out...Phew, I was so surprised.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

@@ -7,7 +7,7 @@ switch (ChPrmGet(3,6)){
     case 3:
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
     SEWait();
-    MsgDisp("主人公","Phew...
+    MsgDisp("主人公","Sigh...
 Sorry I'm late!");
     MsgClose();
     BGMPlay("BGM_C03_HONDA_A");
@@ -24,7 +24,7 @@ I'll come right away.");
     VoicePlay("I260300000_03_650");
     MsgDisp("Honda","Everyone makes mistakes, so I'll look forward
 to you improving in the future.");
-    MsgDisp("主人公","(Haa, I caused trouble for them...
+    MsgDisp("主人公","(Sigh, I caused trouble for them...
 Like ｛Honda＊＊｝ said, I'll make sure I
 improve!)");
     break ;

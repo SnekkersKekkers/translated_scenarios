@@ -74,7 +74,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140A03400_06_030");
-MsgDisp("Himuro","Haa...he really does do it unconsciously.
+MsgDisp("Himuro","Sigh...he really does do it unconsciously.
 It's actually quite impressive.");
 ChEyeOpenLevel(1,0);
 ChEye(2,0);

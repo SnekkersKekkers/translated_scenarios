@@ -93,7 +93,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(6,255,2,2,0,0,#1,0,0);
 VoicePlay("B050600300_06_110");
-MsgDisp("Himuro","Haa...");
+MsgDisp("Himuro","Sigh...");
 MsgDisp("主人公","Sorry?
 I shouldn't have said that I wanted—");
 MsgClose();

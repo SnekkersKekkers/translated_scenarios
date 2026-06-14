@@ -47,7 +47,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B330B10700_04_020");
-MsgDisp("Nanatsumori","Haa.");
+MsgDisp("Nanatsumori","Sigh.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

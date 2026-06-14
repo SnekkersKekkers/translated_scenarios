@@ -34,7 +34,7 @@ MsgDisp("Honda","Eh?
 Your voice is usually quiet, but maybe it
 gets louder only when you're telepathic?");
 VoicePlay("T040320000_04_020");
-MsgDisp("Nanatsumori","Haa...
+MsgDisp("Nanatsumori","Sigh...
 I'm starting to get confused.");
 MsgClose();
 BGMStop(5);

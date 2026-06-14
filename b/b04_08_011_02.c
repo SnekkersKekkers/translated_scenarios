@@ -55,7 +55,7 @@ enjoy it earnestly!");
         ChMouth(8,4);
         ChMotion(8,4,1);
         VoicePlay("B040801102_08_040");
-        MsgDisp("Shirahane","Haa...
+        MsgDisp("Shirahane","Sigh...
 So it's like that after all.");
         MsgDisp("主人公","Why are you so down?");
         ChEye(8,2);

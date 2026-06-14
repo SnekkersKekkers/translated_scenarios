@@ -131,7 +131,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B330A10701_02_050");
-MsgDisp("Sassa","Haa, really?
+MsgDisp("Sassa","Sigh, really?
 I'm also your childhood friend, I want to
 join this group.");
 ChEye(6,0);

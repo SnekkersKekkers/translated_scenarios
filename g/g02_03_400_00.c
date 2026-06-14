@@ -52,7 +52,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020340000_03_070");
-MsgDisp("Honda","Haa～,maybe I should stop messing with my
+MsgDisp("Honda","Sigh～,maybe I should stop messing with my
 hair and start focusing on what's good for
 it, like my dad...");
 MsgDisp("主人公","(｛Honda＊＊｝, I don't think you need to worry

@@ -47,7 +47,7 @@ MsgClear();
 BGOpen("ad631",0);
 ScrFadeIn(0);
 VoicePlay("Y300600300_06_000");
-MsgDisp("Himuro","\"Haa...\"");
+MsgDisp("Himuro","\"Sigh...\"");
 MsgDisp("","Before I realized, the third day of
 the school trip was drawing to a
 close.");

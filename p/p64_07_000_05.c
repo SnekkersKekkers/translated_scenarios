@@ -37,7 +37,7 @@ VoicePlay("P640700005_07_040");
 MsgDisp("Mikage","Listen, we're the Gardening Club, so pay
 respect to the ingredients?");
 MsgDisp("主人公","Yes...");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 I should have prepared more carefully...)");
 MsgClose();
 ScrFadeOut(0,0);

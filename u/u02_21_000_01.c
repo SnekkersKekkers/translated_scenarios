@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(21,255,2,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U022100001_21_000");
-MsgDisp("Michiru","Wow...that view of the night sky was
+MsgDisp("Michiru","Ahh...that view of the night sky was
 beautiful. The story of the zodiac signs was
 also very romantic.");
 MsgDisp("主人公","Yeah.

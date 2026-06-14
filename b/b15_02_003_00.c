@@ -13,7 +13,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150200300_02_010");
-MsgDisp("Sassa","An accident you say...haa.
+MsgDisp("Sassa","An accident you say...sigh.
 Even though I thought we were pretty close to
 understanding each other.");
 ChEye(2,2);
@@ -43,7 +43,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B150200300_02_050");
-MsgDisp("Sassa","Haa, I'm happy.");
+MsgDisp("Sassa","Sigh, I'm happy.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,5);

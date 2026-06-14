@@ -17,7 +17,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("P540500002_05_010");
-MsgDisp("Hiiragi","Hehe.
+MsgDisp("Hiiragi","Haha.
 There's a lot of people who are thinking the
 same as me.");
 MsgDisp("主人公","I'm happy.

@@ -112,7 +112,7 @@ MsgDisp("","Her worried voice brought me back.
 Ryota-senpai and the others were
 looking at me with puzzled faces.");
 VoicePlay("Y300600400_01_020");
-MsgDisp("Kazama","\"Haa...that's why I told you you
+MsgDisp("Kazama","\"Sigh...that's why I told you you
 should've just gotten the cold soba.\"");
 VoicePlay("Y300600400_02_020");
 MsgDisp("Sassa","\"Inori, if you're full, I'll take

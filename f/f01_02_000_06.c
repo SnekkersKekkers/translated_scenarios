@@ -22,7 +22,7 @@ I'll go straight home today.)");
     VoicePlay("F010200006_02_010");
     MsgDisp("Sassa","Can't.
 My spending money's tight now.
-Well, ask me next month.");
+Sigh, ask me next month.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -43,7 +43,7 @@ I'll go straight home today.)");
     ChMotion(2,0);
     VoicePlay("F010200006_02_030");
     MsgDisp("Sassa","Sorry, I can't go with you.
-I really need to budget my allowance
+Sigh, I really need to budget my allowance
 better...");
     MsgDisp("主人公","Hehe.
 Well, next time.

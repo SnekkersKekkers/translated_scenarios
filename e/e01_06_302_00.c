@@ -78,7 +78,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630200_06_070");
-MsgDisp("Himuro","Haa...
+MsgDisp("Himuro","Sigh...
 This is why I hate being seen with
 Reiichi-san in public.");
 ChEye(6,0);

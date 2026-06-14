@@ -50,7 +50,7 @@ It makes you feel all warm and fuzzy inside.");
     ChMouth(8,3);
     ChMotion(8,0);
     VoicePlay("S120800000_08_040");
-    MsgDisp("Shirahane","Haha...
+    MsgDisp("Shirahane","Ahh...
 What a good start to the year.");
     MsgDisp("主人公","Yeah!
 It was fun!");

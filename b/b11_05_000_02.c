@@ -93,7 +93,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B110500002_05_040");
-MsgDisp("Hiiragi","Haa...
+MsgDisp("Hiiragi","Sigh...
 I'm sorry, that was my fault for being late.");
 MsgDisp("主人公","No, it's alright.
 But I ended up looking like a member of the

@@ -41,7 +41,7 @@ Nobody wins with this.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040123300_01_030");
-    MsgDisp("Kazama","Haa, it's not about what you say, but how you
+    MsgDisp("Kazama","Sigh, it's not about what you say, but how you
 say it.");
     MsgDateResultDisp();
     break ;

@@ -33,7 +33,7 @@ fortune to each other～!");
     ChMotion(8,3);
     ChEyeOpenLevel(8,0);
     VoicePlay("S120800002_08_020");
-    MsgDisp("Shirahane","Haa!
+    MsgDisp("Shirahane","Phew!
 I was able to make a lot of wishes this year.
 I feel relieved.");
     MsgDisp("主人公","Did you ask for many things?");

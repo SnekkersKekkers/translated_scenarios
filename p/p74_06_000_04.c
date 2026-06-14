@@ -43,7 +43,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P740600004_06_050");
-MsgDisp("Himuro","...Haa I'll admit it, you were really
+MsgDisp("Himuro","...Sigh I'll admit it, you were really
 beautiful, and you looked good on the runway.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -30,7 +30,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGOpen("tr220",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
+MsgDisp("主人公","(Ahh...
 It's really a great place for animal lovers.)");
 MsgDisp("主人公","(...I can't get distracted!
 I have to tell everyone about the charm of

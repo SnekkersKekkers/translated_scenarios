@@ -7,6 +7,6 @@ VoicePlay("X022200001_22_000");
 MsgDisp("Hikaru","It looks like you tried really hard painting
 that...
 What is it?");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc010",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 This will be the last time I walk down
 this road...)");
 VoiceEVSPlay(1);

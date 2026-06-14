@@ -104,7 +104,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("B330C20501_07_030");
-MsgDisp("Mikage","Haa?
+MsgDisp("Mikage","Ugh?
 I wouldn't do something so boring.");
 ChEye(5,0);
 ChMouth(5,2);

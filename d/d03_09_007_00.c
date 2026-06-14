@@ -102,7 +102,7 @@ ChMouth(9,1);
 ChMotion(9,0,1);
 ChPosition(9,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Haa...
+MsgDisp("主人公","Phew...
 Are you okay now?");
 ChMotion(9,1,1);
 VoicePlay("D030900700_09_060");
@@ -179,7 +179,7 @@ ChMotion(9,3,1);
 ChEyeOpenLevel(9,0);
 MsgDisp("Kuya","Haha!
 Right!");
-MsgDisp("主人公","(Haa... What a relief.
+MsgDisp("主人公","(Phew... What a relief.
 Kuya-san is too naive... Or I guess he's just
 too used to others relying on him.)");
 BGMStop();

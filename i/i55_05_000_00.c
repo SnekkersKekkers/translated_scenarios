@@ -105,7 +105,7 @@ little.");
     ChCheek(5,7);
     ScrFadeIn(0);
     VoicePlay("I550500000_05_110");
-    MsgDisp("Hiiragi","Haa...
+    MsgDisp("Hiiragi","Sigh...
 The karinto manju has been surpassed.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, how was it?");
     ChMouth(5,4);
@@ -154,7 +154,7 @@ confections?");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("I550500000_05_170");
-    MsgDisp("Hiiragi","Haa...this is bad.
+    MsgDisp("Hiiragi","Sigh...this is bad.
 Let us talk at length about this on our way
 back.");
     MsgClose();

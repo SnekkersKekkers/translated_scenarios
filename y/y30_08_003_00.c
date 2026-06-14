@@ -3,7 +3,7 @@ BGMPlay("BGM_C08_DAICHI_B",0.01);
 BGOpen("ad830",0);
 ScrFadeIn(0);
 VoicePlay("Y300800300_08_000");
-MsgDisp("Daichi","\"Haa...\"");
+MsgDisp("Daichi","\"Sigh...\"");
 MsgDisp("","I can't believe she was in this room
 just now...");
 MsgDisp("","Somehow, I feel like her scent still

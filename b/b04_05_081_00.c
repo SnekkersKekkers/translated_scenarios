@@ -30,7 +30,7 @@ for.");
     DateRateSet(2);
     ChEye(5,0);
     VoicePlay("B040508100_05_020");
-    MsgDisp("Hiiragi","Hehe.
+    MsgDisp("Hiiragi","Haha.
 You're a little different than usual too.
 The power of cherry blossoms is amazing.");
     MsgDispBGSksp(1,1);

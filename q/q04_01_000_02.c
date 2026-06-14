@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("Q040100002_01_000");
     MsgDisp("Kazama","Wait, seriously...?
 I already made plans with somebody else.
-Sorry about that.");
+Sigh, sorry about that.");
     MsgDisp("主人公","I see...
 Sorry for asking.");
     MsgClose();

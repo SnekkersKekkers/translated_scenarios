@@ -83,7 +83,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Q070700000_07_070");
-MsgDisp("Mikage","Haaah...
+MsgDisp("Mikage","Phew...
 Maybe I can get there today.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);

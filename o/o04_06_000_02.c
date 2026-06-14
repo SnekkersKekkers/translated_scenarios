@@ -30,7 +30,7 @@ But, it was a good match.)");
     ScrFadeIn(0);
     VoicePlay("O040600002_06_020");
     MsgDisp("Himuro","I should've tried a little harder...
-Haa.");
+Sigh.");
     MsgDisp("主人公","(A draw, huh...
 But, it was a good match.)");
     break ;

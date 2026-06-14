@@ -32,7 +32,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F102120000_06_020");
-MsgDisp("Himuro","Haa...
+MsgDisp("Himuro","Sigh...
 It's really hard to explain why.
 Sorry, but this is all from me.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

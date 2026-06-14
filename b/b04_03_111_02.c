@@ -4,7 +4,7 @@ ChLayout(1);
 ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311102_03_000");
-MsgDisp("Honda","Hah...my hands are cold because I keep
+MsgDisp("Honda","Sigh...my hands are cold because I keep
 falling over.");
 MsgSel("You didn't get hurt, did you∋","I'll lend you my gloves.","Give me your hands.");
 switch (MsgSelRsltGet()){

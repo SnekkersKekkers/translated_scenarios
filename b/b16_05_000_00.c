@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     NSSEye(5,3);
     NSSMouth(5,3);
     VoicePlay("B160500000_05_010");
-    MsgDisp("Hiiragi","Hehe, I suppose it cannot be helped then?");
+    MsgDisp("Hiiragi","Haha, I suppose it cannot be helped then?");
     break ;
     case 1:
     NSSEye(5,2);

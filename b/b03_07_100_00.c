@@ -11,7 +11,7 @@ MsgDisp("Mikage","Well then, today's extra credit is the
 regular exhibit.
 Take it all in.");
 VoicePlay("B030710000_42_000");
-MsgDisp("School Boy","Ugh...
+MsgDisp("School Boy","Sigh...
 So boring...");
 VoicePlay("B030710000_44_000");
 MsgDisp("School Girl","I've already been here before.");

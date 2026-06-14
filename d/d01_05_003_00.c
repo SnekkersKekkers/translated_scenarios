@@ -115,7 +115,7 @@ How hilarious that I'm the troupe leader.");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500300_05_120");
-MsgDisp("Hiiragi","...Hah, my apologies...
+MsgDisp("Hiiragi","...Sigh, my apologies...
 Am I that way to you too?");
 MsgDisp("主人公","Of course not. ｛Hiiragi＊＊＊｝ is always working
 hard for everyone's sake, the Student Council

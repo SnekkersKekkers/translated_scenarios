@@ -68,7 +68,7 @@ coolly to things like that?");
         ChMouth(8,2);
         ChEyeOpenLevel(8,0);
         VoicePlay("B040830002_08_070");
-        MsgDisp("Shirahane","Haa...");
+        MsgDisp("Shirahane","Sigh...");
         MsgDisp("主人公","｛Daichi＊＊｝?");
         ChEye(8,2);
         ChMouth(8,0);

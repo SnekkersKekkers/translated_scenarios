@@ -7,6 +7,6 @@ VoicePlay("X022100000_21_000");
 MsgDisp("Michiru","Hmm...
 It seems like your concentration was lacking
 a bit, right?");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

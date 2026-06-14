@@ -59,7 +59,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020310304_03_080");
-MsgDisp("Honda","Haa, I'm glad...
+MsgDisp("Honda","Phew, I'm glad...
 Then the next one should be fine too.");
 MsgDisp("主人公","Next one.");
 ChEye(3,0);

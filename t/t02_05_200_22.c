@@ -29,7 +29,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChCheek(5,0);
 VoicePlay("T020520022_05_020");
-MsgDisp("Hiiragi","Hehe.
+MsgDisp("Hiiragi","Haha.
 I got a reply in a way that's very typical
 of you—");
 ChEye(5,4);

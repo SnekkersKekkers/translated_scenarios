@@ -83,7 +83,7 @@ I was the one who fell asleep...");
         ChMotion(5,0);
         ChCheek(5,0);
         VoicePlay("B040505102_05_090");
-        MsgDisp("Hiiragi","Hehe, we didn't even say our impressions on
+        MsgDisp("Hiiragi","Haha, we didn't even say our impressions on
 the planetarium.");
         MsgDisp("主人公","Hehe.
 Come to think of it, that is strange, isn't

@@ -129,7 +129,7 @@ If I told you this, I'd definitely regret it.");
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040415202_04_130");
-        MsgDisp("Nanatsumori","Haaa...
+        MsgDisp("Nanatsumori","Sigh...
 I'm quite the lecher.");
         MsgDisp("主人公","(Lecher?)");
         break ;

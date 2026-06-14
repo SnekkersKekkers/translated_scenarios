@@ -14,7 +14,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("C010100000_01_020");
-MsgDisp("Kazama","Haa...");
+MsgDisp("Kazama","Sigh...");
 MsgDisp("主人公","｛Kazama＊＊｝?");
 VoicePlay("C010100000_01_030");
 MsgDisp("Kazama","...Listen, you.

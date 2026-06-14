@@ -62,7 +62,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220301_02_080");
-MsgDisp("Sassa","Haa...it must be nice for those who look good
+MsgDisp("Sassa","Sigh...it must be nice for those who look good
 in anything they wear.");
 MsgDisp("主人公","｛Sassa＊＊｝'s usual fashion suits him.
 It's really cool?");

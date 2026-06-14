@@ -116,7 +116,7 @@ BGOpen("fp500",0);
 ChOpen(2,255,3,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050200200_02_120");
-MsgDisp("Sassa","Phew, it's warm, huh?");
+MsgDisp("Sassa","Ahh, it's warm, huh?");
 MsgDisp("主人公","Yeah, even though we just came from the pool.");
 ChEye(2,3);
 ChMouth(2,3);

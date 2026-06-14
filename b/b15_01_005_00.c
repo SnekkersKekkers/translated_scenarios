@@ -8,7 +8,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B150100500_01_000");
 MsgDisp("Kazama","Wait!
-Haa...
+Sigh...
 I take back what I said.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);

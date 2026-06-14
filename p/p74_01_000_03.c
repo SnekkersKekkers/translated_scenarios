@@ -24,7 +24,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P740100003_01_020");
 MsgDisp("Kazama","Well, good work.");
-MsgDisp("主人公","(Haaa I'm usually careful...
+MsgDisp("主人公","(Sigh I'm usually careful...
 Maybe I didn't practice enough during the
 preparation period.)");
 MsgClose();

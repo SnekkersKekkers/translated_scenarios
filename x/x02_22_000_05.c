@@ -7,6 +7,6 @@ VoicePlay("X022200005_22_000");
 MsgDisp("Hikaru","Uh oh, you look like you're having a hard
 time, huh?
 Don't overwork yourself.");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

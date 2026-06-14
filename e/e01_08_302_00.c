@@ -59,7 +59,7 @@ ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
-MsgDisp("Daichi","Ahh...
+MsgDisp("Daichi","Sigh...
 I was really looking forward ta it...");
 ChEyeOpenLevel(8,#1);
 VoicePlay("E010830000_09_040");

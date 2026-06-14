@@ -38,7 +38,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020710401_07_050");
-MsgDisp("Mikage","Haa...
+MsgDisp("Mikage","Sigh...
 I was quickly pulled back to the reality of
 Habataki City.");
 ChEye(7,0);

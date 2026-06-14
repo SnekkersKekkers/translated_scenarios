@@ -36,7 +36,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100520002_05_030");
-MsgDisp("Hiiragi","Hehe, that certainly does seem rather easy to
+MsgDisp("Hiiragi","Haha, that certainly does seem rather easy to
 adapt into a play.");
 ChEye(1,2);
 ChMouth(1,3);

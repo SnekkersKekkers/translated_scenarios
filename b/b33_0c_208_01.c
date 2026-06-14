@@ -15,7 +15,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C20801_05_000");
-MsgDisp("Hiiragi","Haa, feels nice.
+MsgDisp("Hiiragi","Ahh, feels nice.
 I'm glad Inori-kun decided on this place.");
 MsgDisp("主人公","I see.
 Does ｛Himuro＊＊｝ like it here?");

@@ -62,7 +62,7 @@ ChNanaType(0);
 ChOpen(4,254,0,2,1,#1,#1,0,0,0,60);
 ChMotion(4,1,1);
 VoicePlay("F100430002_04_000");
-MsgDisp("Nanatsumori","Haa, haa...");
+MsgDisp("Nanatsumori","Pant, pant...");
 MsgDisp("主人公","｛Nanatsumori＊｝, what's wrong∋");
 ChMotion(4,0,1);
 VoicePlay("F100430002_04_010");

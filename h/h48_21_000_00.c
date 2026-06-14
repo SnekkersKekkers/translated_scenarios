@@ -23,7 +23,7 @@ though...");
     ChMotion(21,4);
     VoicePlay("H482100000_21_010");
     MsgDisp("Michiru","Hehe, I'm looking forward to that, too.");
-    MsgDisp("主人公","Haa...
+    MsgDisp("主人公","Ugh...
 I need to do my best!");
     ChEye(21,0);
     ChMouth(21,0);

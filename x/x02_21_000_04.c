@@ -7,6 +7,6 @@ VoicePlay("X022100004_21_000");
 MsgDisp("Michiru","You're showing a little too much
 individuality.
 Quirkiness does not equal charm.");
-MsgDisp("主人公","(Haa...)");
+MsgDisp("主人公","(Sigh...)");
 MsgClose();
 ScrFadeOut(0,0);

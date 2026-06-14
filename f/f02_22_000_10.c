@@ -10,7 +10,7 @@ ChEye(22,4);
 ChMouth(22,4);
 ChMotion(22,2,1);
 VoicePlay("F022200010_22_000");
-MsgDisp("Hikaru","Haa...
+MsgDisp("Hikaru","Sigh...
 Haba High's cultural festival is so fun, it's
 sad to think this is our last one.");
 ChEye(22,0);

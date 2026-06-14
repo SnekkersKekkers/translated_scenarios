@@ -100,7 +100,7 @@ just like this.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040110102_01_080");
-        MsgDisp("Kazama","Haah, I don't think I'll be breaking this
+        MsgDisp("Kazama","Sigh, I don't think I'll be breaking this
 spiral, either...");
         MsgDisp("主人公","(Umm...
 What is that supposed to mean?)");

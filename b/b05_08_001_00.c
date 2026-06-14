@@ -5,7 +5,7 @@ ChOpen(8,255,0,0,3,#1,#1,4,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_000");
-MsgDisp("Shirahane","Haa...that was amazing—!
+MsgDisp("Shirahane","Ahh...that was amazing—!
 My heart is still racing.");
 ChEye(8,4);
 ChMouth(8,0);

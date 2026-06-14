@@ -35,7 +35,7 @@ ChOpen(5,253,0,4,4,#1,#1,0,3);
 ChOpen(7,253,0,0,0,#1,#1,0,3);
 ScrFadeIn(0);
 VoicePlay("B330C20600_06_010");
-MsgDisp("Himuro","Haa...");
+MsgDisp("Himuro","Sigh...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,2);

@@ -22,7 +22,7 @@ I don't wanna do this, but no holding back!");
     ChOpen(2,30,2,0,0,7,#1,0,0);
     VoicePlay("O040201100_02_020");
     MsgDisp("Sassa","So you're on the other team.
-Haa, I wanted to celebrate with you.");
+Sigh, I wanted to celebrate with you.");
     break ;
     default :
     DbgAssert(1);

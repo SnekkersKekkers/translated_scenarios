@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("O020500002_05_000");
     MsgDisp("Hiiragi","Thank you for your hard work.
 It was a good match.");
-    MsgDisp("主人公","(Haa, and we were so close...)");
+    MsgDisp("主人公","(Sigh, and we were so close...)");
     break ;
     case 3:
     MsgClose();

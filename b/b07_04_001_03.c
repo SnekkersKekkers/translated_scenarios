@@ -13,7 +13,7 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B070400001_04_180");
-MsgDisp("Nanatsumori","Haa...
+MsgDisp("Nanatsumori","Sigh...
 Really, I never thought I'd live such a
 lively high school life—...");
 MsgDisp("主人公","Hehe!");

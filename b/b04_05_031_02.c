@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040503102_05_010");
-    MsgDisp("Hiiragi","Hehe.
+    MsgDisp("Hiiragi","Haha.
 Yes, I wonder if they'd keep me here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -1,7 +1,7 @@
 ChClose(2,0,0);
 BGOpen("ex000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haaa...
+MsgDisp("主人公","(Sigh...
 I feel like I messed up somewhat today....)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(An incoming call...?

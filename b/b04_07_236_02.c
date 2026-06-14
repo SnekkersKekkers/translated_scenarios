@@ -99,9 +99,9 @@ The skull bear is changing colors∈");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723602_07_090");
-        MsgDisp("Mikage","Ha...seriously?
+        MsgDisp("Mikage","Sigh...seriously?
 I just can't beat you, can I.");
-        MsgDisp("主人公","(Haa, my heart might be racing a little...)");
+        MsgDisp("主人公","(Sigh, my heart might be racing a little...)");
         break ;
         default :
         DbgAssert(1);

@@ -39,7 +39,7 @@ ScrFadeOut(0);
 SEPlay("EV_SE_551");
 SEWait();
 VoicePlay("B150400500_04_050");
-MsgDisp("Nanatsumori","Haa...");
+MsgDisp("Nanatsumori","Sigh...");
 MsgDisp("主人公","Ugh—...
 ｛Nanatsumori＊｝, it hurts.");
 VoicePlay("B150400500_04_060");
@@ -51,7 +51,7 @@ VoicePlay("B150400500_04_070");
 MsgDisp("Nanatsumori","......");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","Haa...");
+MsgDisp("主人公","Sigh...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

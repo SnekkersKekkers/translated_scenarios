@@ -92,7 +92,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20701_01_040");
-MsgDisp("Kazama","Haa...yeah, that's right.");
+MsgDisp("Kazama","Sigh...yeah, that's right.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

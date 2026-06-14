@@ -88,7 +88,7 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,2,1);
 VoicePlay("T020311000_03_100");
-MsgDisp("Honda","Haa...but, but I couldn't deceive myself.");
+MsgDisp("Honda","Sigh...but, but I couldn't deceive myself.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);

@@ -6,7 +6,7 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B040608202_06_000");
-MsgDisp("Himuro","Haaa...");
+MsgDisp("Himuro","*Yawn*...");
 MsgSel("That was a big yawn!","Was it boring?","Want to take a little nap?");
 switch (MsgSelRsltGet()){
     case 0:

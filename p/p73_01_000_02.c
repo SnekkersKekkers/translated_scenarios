@@ -31,7 +31,7 @@ even gloss over it.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100002_01_020");
-    MsgDisp("Kazama","Haa, you wearing a wedding dress is
+    MsgDisp("Kazama","Ahh, you wearing a wedding dress is
 unrivalled.");
     MsgDisp("主人公","Really?
 I'm happy!");

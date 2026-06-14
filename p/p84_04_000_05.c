@@ -36,7 +36,7 @@ MsgDisp("Nanatsumori","Well, being diligent can backfire.
 Don't be discouraged.");
 MsgDisp("主人公","(Even though I was supposed to be a role
 model.
-Haa...my last cultural festival was a fail.)");
+Sigh...my last cultural festival was a fail.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

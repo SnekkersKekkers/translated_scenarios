@@ -116,7 +116,7 @@ Don't stand up～");
         ChEyeOpenLevel(7,7);
         ScrFadeIn(0);
         VoicePlay("B040723202_07_110");
-        MsgDisp("Mikage","Haa, that was fun～...");
+        MsgDisp("Mikage","Ahh, that was fun～...");
         MsgDisp("主人公","(I ended up getting to ride the ferris wheel
 twice, ｛Mikage＊＊｝, thank you.)");
         break ;

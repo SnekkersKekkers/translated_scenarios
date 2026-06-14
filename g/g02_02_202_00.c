@@ -22,7 +22,7 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020220200_02_030");
-MsgDisp("Sassa","(sigh) I lost even though he isn't here.");
+MsgDisp("Sassa","Sigh... I lost even though he isn't here.");
 MsgDisp("主人公","?");
 ChEye(2,0);
 ChMouth(2,0);

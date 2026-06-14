@@ -3,7 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Haa...a huge fail...)");
+MsgDisp("主人公","(Sigh...a huge fail...)");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,254,4,0,4,#1,#1,0,0);
@@ -16,7 +16,7 @@ ChMotion(2,0);
 VoicePlay("P540200001_02_010");
 MsgDisp("Sassa","I see, it's good if you think that.
 It means you still have room to grow.");
-MsgDisp("主人公","(Haa...
+MsgDisp("主人公","(Sigh...
 If only I practiced more properly....)");
 MsgClose();
 ScrFadeOut(0,0);

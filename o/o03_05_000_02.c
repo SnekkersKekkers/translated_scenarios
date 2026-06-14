@@ -10,7 +10,7 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     VoicePlay("O030500002_05_000");
     MsgDisp("Hiiragi","Staying in sync is quite difficult, it seems.");
-    MsgDisp("主人公","(Haa, last, huh...
+    MsgDisp("主人公","(Sigh, last, huh...
 I wish I had tried a little harder...)");
     break ;
     case 3:
@@ -31,7 +31,7 @@ What about you, ｛Hiiragi＊＊＊｝?");
     VoicePlay("O030500002_05_020");
     MsgDisp("Hiiragi","Yes, I'm fine. Let's just say we both came out
 unhurt, and a sound horse beats a fast one.");
-    MsgDisp("主人公","(Haa...last...
+    MsgDisp("主人公","(Sigh...last...
 I wish I had tried a little harder...)");
     break ;
     case 4:

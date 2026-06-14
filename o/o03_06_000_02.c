@@ -19,7 +19,7 @@ We weren't in sync at all.)");
     ChOpen(6,30,2,0,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600002_06_010");
-    MsgDisp("Himuro","Haa...
+    MsgDisp("Himuro","Sigh...
 We weren't in sync at all.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -36,7 +36,7 @@ We weren't in sync at all.)");
     ChOpen(6,30,2,2,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600002_06_030");
-    MsgDisp("Himuro","...Haa.");
+    MsgDisp("Himuro","...Sigh.");
     MsgDisp("主人公","｛Himuro＊＊｝, sorry...
 I couldn't match you well.");
     ChEye(6,2);

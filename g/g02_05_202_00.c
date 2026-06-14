@@ -11,7 +11,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020520200_05_010");
 MsgDisp("Hiiragi","Not now.");
-MsgDisp("主人公","Haa, you startled me.");
+MsgDisp("主人公","Phew, you startled me.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520200_05_020");

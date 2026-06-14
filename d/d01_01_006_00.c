@@ -42,7 +42,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(30,0);
-MsgDisp("主人公","(Haa, that surprised me.
+MsgDisp("主人公","(Phew, that surprised me.
 But I managed to get to the auction in time.
 I wonder what's happening here...?)");
 VoicePlay("D010100600_01_000");
@@ -105,7 +105,7 @@ MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 BGMPlay("BGM_C01_RYOUTA_D",0.2,0.6);
 ScrFadeIn(0);
-MsgDisp("主人公","Ahh, that surprised me...");
+MsgDisp("主人公","Phew, that surprised me...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

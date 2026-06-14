@@ -58,7 +58,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020740002_07_070");
-MsgDisp("Mikage","Yeah, I guess?");
+MsgDisp("Mikage","Sigh, I guess?");
 MsgDisp("主人公","(...So the fortune was really spot on?)");
 BGMStop();
 MsgClose();

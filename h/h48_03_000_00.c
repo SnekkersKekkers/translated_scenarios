@@ -58,7 +58,7 @@ VoicePlay("H480300000_03_060");
 MsgDisp("Honda","Okay. But with this, you're definitely going
 to win. Just standing there, you're already
 like a work of art!");
-MsgDisp("主人公","(Haa, I'm getting all shy...
+MsgDisp("主人公","(Ugh, I'm getting all shy...
 But I'm going to do my best!)");
 BGMStop();
 MsgClose();

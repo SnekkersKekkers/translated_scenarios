@@ -11,7 +11,7 @@ VoicePlay("D010700000_42_000");
 MsgDisp("School Boy","It's over, time for food!");
 VoicePlay("D010700000_44_000");
 MsgDisp("School Girl","Let's go to the cafeteria!");
-MsgDisp("主人公","(Phew...
+MsgDisp("主人公","(Sigh...
 I'm not really hungry.)");
 SEStop("EV_SE_666",2);
 MsgClose();
@@ -75,7 +75,7 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 Wait(30,0);
-MsgDisp("主人公","Wow...
+MsgDisp("主人公","Ahh...
 It's delicious.
 This tea has such a beautiful color...");
 StlEye(7,0);

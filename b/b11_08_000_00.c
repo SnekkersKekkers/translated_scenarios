@@ -53,7 +53,7 @@ ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,0);
 VoicePlay("B110800000_33_030");
-MsgDisp("Guy","Haaa.
+MsgDisp("Guy","Sigh.
 So you've got a tagalong, huh?");
 MsgDispSksp(1,5);
 ChEye(8,1);

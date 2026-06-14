@@ -17,7 +17,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020301000_03_270");
-MsgDisp("Honda","Haa...
+MsgDisp("Honda","Sigh...
 I see...");
 ChEye(3,4);
 ChMouth(3,3);

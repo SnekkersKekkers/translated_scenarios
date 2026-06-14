@@ -99,7 +99,7 @@ bigger...");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040708102_07_100");
-        MsgDisp("Mikage","Haa, I can't compete.");
+        MsgDisp("Mikage","Sigh, I can't compete.");
         MsgDisp("主人公","(｛Mikage＊＊｝'s growth...?
 I wonder what he's talking about?)");
         break ;

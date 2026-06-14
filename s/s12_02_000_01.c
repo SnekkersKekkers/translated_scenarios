@@ -15,7 +15,7 @@ switch (ChPrmGet(2,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120200001_02_000");
-    MsgDisp("Sassa","That was fun.");
+    MsgDisp("Sassa","Ahh, that was fun.");
     MsgDisp("主人公","Yeah.
 ｛Sassa＊＊｝, thanks for walking me home.");
     ChEye(2,0);

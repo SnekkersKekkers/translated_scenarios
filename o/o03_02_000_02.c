@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,30,2,2,2,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030200002_02_000");
-    MsgDisp("Sassa","Haa...
+    MsgDisp("Sassa","Sigh...
 Sorry.
 I have to match your pace...");
     MsgDisp("主人公","(Ugh, I should've tried harder...)");

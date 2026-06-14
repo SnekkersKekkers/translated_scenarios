@@ -43,7 +43,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610100_06_050");
-MsgDisp("Himuro","Haaa...
+MsgDisp("Himuro","Sigh...
 What am I doing?
 I've failed as an older brother...");
 SEPlay("EV_SE_579");

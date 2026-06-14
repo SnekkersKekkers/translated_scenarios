@@ -7,7 +7,7 @@ MsgDisp("主人公","(I was able to give my best performance of
 the last three years.
 I'm glad...!)");
 VoicePlay("P543100004_31_000");
-MsgDisp("Goro?","Haa...");
+MsgDisp("Goro?","Sigh...");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(31,254,2,4,4,#1,#1,0,0);

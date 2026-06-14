@@ -12,7 +12,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B360401101_04_000");
-MsgDisp("Nanatsumori","Ha...");
+MsgDisp("Nanatsumori","Sigh...");
 MsgDisp("主人公","｛Nanatsumori＊｝, you're sighing?");
 ChEye(4,2);
 ChMouth(4,3);

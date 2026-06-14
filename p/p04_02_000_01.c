@@ -40,7 +40,7 @@ get a bad reputation.
 I'm going to go get something else to eat.");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Haa, I messed up.
+MsgDisp("主人公","(Sigh, I messed up.
 I wanted to give ｛Sassa＊＊｝ delicious dango
 to eat...)");
 MsgClose();

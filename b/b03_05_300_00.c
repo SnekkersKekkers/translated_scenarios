@@ -20,7 +20,7 @@ ChEye(5,0);
 ChMotion(5,3);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B030530000_05_020");
-MsgDisp("Hiiragi","Haa...
+MsgDisp("Hiiragi","Phew...
 I'm not sure I can be a proper host, but
 please come in.");
 MsgDispSksp(1,0);
