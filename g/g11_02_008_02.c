@@ -88,7 +88,7 @@ ChEyeOpenLevel(2,7);
 VoicePlay("G110200802_02_090");
 MsgDisp("Sassa","Yeah...
 It was strangely relaxing, but it was weird
-to think about that whilst running...");
+to think about that while running...");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(50,0);
 ChEye(2,0);

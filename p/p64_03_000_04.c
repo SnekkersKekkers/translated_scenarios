@@ -23,7 +23,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("P640300004_03_030");
-MsgDisp("Honda","That's right!
+MsgDisp("Honda","Oh, I know!
 How about serving the vegetables you grew in
 the school cafeteria?");
 MsgDisp("主人公","(Yay!

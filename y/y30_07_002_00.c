@@ -29,7 +29,7 @@ have her moment in the spotlight.");
 MsgClear();
 VoicePlay("Y300700200_45_000");
 MsgDisp("Girl B","\"No way, is the school play going to
-be cancelled...?\"");
+be canceled...?\"");
 MsgDisp("","The quiet voices of the female
 students rippled across the
 classroom.");

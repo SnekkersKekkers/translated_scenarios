@@ -31,7 +31,7 @@ ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 MsgDisp("主人公","(Hmm...
 Were ｛Hiiragi＊＊＊｝'s eyes always such a pretty
-colour...?)");
+color...?)");
 while (1){
     RunEverydaySksp(5,0,1,1,0,0);
     if (RunEverydaySkspRsltGet()){

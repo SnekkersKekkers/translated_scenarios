@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020540000_05_000");
 MsgDisp("Hiiragi","Recently something wonderful occurred.
-It was regarding the theatre company.");
+It was regarding the theater company.");
 MsgDisp("主人公","What happened?");
 ChEye(5,3);
 VoicePlay("G020540000_05_010");
@@ -10,7 +10,7 @@ MsgDisp("Hiiragi","A 10-year-old boy came with his mother,
 wanting to join the troupe.");
 MsgDisp("主人公","Amazing!
 But can elementary school students join the
-theatre troupe?");
+theater troupe?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("G020540000_05_020");

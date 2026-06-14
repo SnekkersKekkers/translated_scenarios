@@ -27,7 +27,7 @@ Be careful not to spin it too much.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("W090300002_03_030");
-    MsgDisp("Honda","Yeah.
+    MsgDisp("Honda","Yeah yeah.
 That one looks good.
 Okay, let's go!");
     break ;

@@ -90,7 +90,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D010300200_03_080");
-MsgDisp("Honda","I also bought her a gift to celebrate.
+MsgDisp("Honda","Yepyep, I also bought her a gift to celebrate.
 I left it on her bed, so I wonder if she
 noticed it yet?");
 MsgDisp("主人公","A surprise, huh?

@@ -14,7 +14,7 @@ ChMotion(4,1,1);
 VoicePlay("F110410002_04_010");
 MsgDisp("Nanatsumori","Yep.
 Last year, there was a situation, so this
-year, it's been cancelled.");
+year, it's been canceled.");
 MsgDisp("主人公","Oh, well...this year, you can enjoy the
 festival even more, right?");
 ChEye(4,2);

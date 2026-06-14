@@ -53,7 +53,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("E010520200_03_030");
-MsgDisp("Honda","Yeah, he suddenly said 'I'm going to
+MsgDisp("Honda","Yep yep, he suddenly said 'I'm going to
 challenge the quiz king!' and blocked my way.");
 MsgDisp("主人公","Hehe, that's cute.");
 ChEye(5,0);
@@ -61,7 +61,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("E010520200_03_040");
-MsgDisp("Honda","Yeah, the challenger's mom looked really
+MsgDisp("Honda","Yeah yeah, the challenger's mom looked really
 happy while shaking hands with Yano.");
 ChEye(3,4);
 ChMouth(3,4);

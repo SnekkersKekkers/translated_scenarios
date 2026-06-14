@@ -40,8 +40,8 @@ Hmm.");
     MsgDisp("Nanatsumori","Yeah.
 I can't get out of this one...
 No way around it. Sorry.");
-    MsgDisp("主人公","Ahh.
-I'll ask you out again?");
+    MsgDisp("主人公","It's okay.
+I'll ask you out again, alright?");
     VoicePlay("J030400001_04_070");
     MsgDisp("Nanatsumori","Yeah, do that.
 Oh, I'll ask you out too.");

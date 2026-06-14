@@ -55,7 +55,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("T020320000_03_070");
-MsgDisp("Honda","If it weren't for Ryou-kun and Mi-kun I
+MsgDisp("Honda","If it weren't for Ryo-kun and Mi-kun I
 might not have noticed even now.");
 MsgDisp("主人公","｛Kazama＊＊｝ and ｛Nanatsumori＊｝?");
 ChEye(3,0);
@@ -108,8 +108,8 @@ ChEyeOpenLevel(3,0);
 ChCheek(3,5);
 VoicePlay("T020320000_03_140");
 MsgDisp("Honda","Because you're here, within my reach.
-Within my reach is you to whom I'll devote
-my life to.");
+The one I'll devote my life to is right
+here where I can see and touch you.");
 ChEye(3,0);
 ChEyeOpenLevel(3,10);
 MsgDisp("主人公","｛Honda＊＊｝...");

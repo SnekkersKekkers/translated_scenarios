@@ -10,8 +10,8 @@ ChEye(31,1);
 ChMouth(31,1);
 ChMotion(31,5);
 VoicePlay("P643100001_31_010");
-MsgDisp("Goro","The flavour is hollow too.
-I like everything with a deep flavour.");
+MsgDisp("Goro","The flavor is hollow too.
+I like everything with a deep flavor.");
 ChEye(31,1);
 ChMouth(31,1);
 ChMotion(31,0);

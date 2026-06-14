@@ -30,7 +30,7 @@ you know.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040303100_03_020");
-    MsgDisp("Honda","Yeah, the colour vision fish possess is way
+    MsgDisp("Honda","Yeah, the color vision fish possess is way
 more vibrant than a human's! The world they
 see far surpasses our imagination.");
     MsgDispSksp(1,0);

@@ -13,7 +13,7 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300003_03_010");
-MsgDisp("Honda","Mhm! In the church's basement, there's a huge
+MsgDisp("Honda","Yep yep! In the church's basement, there's a huge
 library.
 All of the urban legends are compiled there!");
 MsgDisp("主人公","Huh?

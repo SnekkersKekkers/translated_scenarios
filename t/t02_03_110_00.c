@@ -106,8 +106,8 @@ MsgDisp("Honda","I don't shy away from anyone anymore.");
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020311000_03_130");
-MsgDisp("Honda","I found the one thing I can devote my life
-to, is you.");
+MsgDisp("Honda","The one thing I can devote my life to...
+is you.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);

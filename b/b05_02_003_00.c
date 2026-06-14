@@ -26,7 +26,7 @@ MsgClose();
 ChOpen(2,253,3,5,0,#1,#1,0,2);
 VoicePlay("B050200300_02_000");
 MsgDisp("Sassa","Eh?
-The world-renown fashion icon, that
+The world-renowned fashion icon, that
 Goro-sensei?");
 ChEye(31,0);
 ChMouth(31,0);

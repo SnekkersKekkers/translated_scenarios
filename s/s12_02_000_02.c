@@ -98,8 +98,8 @@ while.");
     ChMotion(2,0);
     VoicePlay("S120200002_02_100");
     MsgDisp("Sassa","Ah, no good.
-I may be a track idiot, but I still want to
-go again with you next year.");
+I'm a hot-blooded track idiot, so please be
+good to me this year too.");
     MsgDisp("主人公","Eh?
 I've never thought of you that way.");
     ChEye(2,0);

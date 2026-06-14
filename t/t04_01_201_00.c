@@ -20,7 +20,7 @@ MsgDisp("Kazama","But this seating arrangement is natural,
 right?");
 VoicePlay("T040120100_03_000");
 MsgDisp("Honda","Is it natural...?
-It seems unnatural that Ryou-kun took that
+It seems unnatural that Ryo-kun took that
 position.");
 VoicePlay("T040120100_04_000");
 MsgDisp("Nanatsumori","Kazama's unnaturalness is a part of
@@ -37,7 +37,7 @@ MsgDisp("主人公","Um...
 Won't you all look at me?");
 VoicePlay("T040120100_03_020");
 MsgDisp("Honda","Nuh-uh.
-Ryou-kun will get mad.");
+Ryo-kun will get mad.");
 MsgClose();
 BGMStop(5);
 ScrFadeOut(0,0,300);

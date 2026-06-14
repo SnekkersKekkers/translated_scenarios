@@ -38,7 +38,7 @@ talking about meeting up for real.
 Honestly, it was a pain, and I
 thought about turning him down,
 but...");
-MsgDisp("","I knew he lived in the neighbouring
+MsgDisp("","I knew he lived in the neighboring
 Habataki City.
 In the end, I went the next day.");
 MsgClear();
@@ -93,10 +93,10 @@ BGOpen("ad424",0);
 ScrFadeIn(0);
 MsgDisp("","Why not try becoming a model?");
 MsgDisp("","It's a stock phrase often used in
-dangerous pitches...That modelling
+dangerous pitches...That modeling
 office is a place that middle and
 high school students here in this
-neighbouring town aspire for.");
+neighboring town aspire for.");
 MsgDisp("","It's to the point even I know about
 it. That legendary high school model,
 Hazuki Kei was in that place.");

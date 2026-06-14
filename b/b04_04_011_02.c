@@ -119,7 +119,7 @@ Man...");
     ChMotion(4,1,1);
     VoicePlay("B040401102_04_100");
     MsgDisp("Nanatsumori","Thanks.
-You've also got good taste haven't you?");
+You've also got good taste, you know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

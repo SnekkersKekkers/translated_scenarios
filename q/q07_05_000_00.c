@@ -15,7 +15,7 @@ MsgDisp("Hiiragi","I have never been to the Netherlands, I'm
 sure the landscape is like this.");
 ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_010");
-MsgDisp("Hiiragi","I feel like I'm travelling abroad, I love it.");
+MsgDisp("Hiiragi","I feel like I'm traveling abroad, I love it.");
 MsgDisp("主人公","The Netherlands with ｛Hiiragi＊＊＊｝...
 Sounds fun.");
 ChEye(5,3);
@@ -60,7 +60,7 @@ ChMotion(5,3);
 VoicePlay("Q070500000_05_050");
 MsgDisp("Hiiragi","I like your overflowing love for your
 hometown. I, too, will learn from you as the
-Habataki theatre chairperson.");
+Habataki theater chairperson.");
 MsgDisp("主人公","What?
 I didn't mean it like that...");
 ChMotion(5,4);
@@ -111,7 +111,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("Q070500000_05_100");
 MsgDisp("Hiiragi","I'm getting a little curious about the
-theatre members.");
+theater members.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q070500000_05_110");

@@ -14,8 +14,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("Q240300000_03_010");
-MsgDisp("Honda","Aah, you did it huh!
-I'm never forgiving it, here, you fight back
+MsgDisp("Honda","Aah, you got me!
+I won't let that slide—come on, fight back
 with me!");
 MsgDisp("主人公","(Seems that ｛Honda＊＊｝ quite likes these
 kinda stuff...

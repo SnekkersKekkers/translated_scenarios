@@ -15,7 +15,7 @@ ChMotion(7,2);
 VoicePlay("D140C04000_07_000");
 MsgDisp("Mikage","Seems like it.
 Is that guy eating a proper lunch?");
-MsgDisp("主人公","Between the student council and the theatre
+MsgDisp("主人公","Between the student council and the theater
 troupe, he seems really busy...");
 ChEye(6,0);
 ChMouth(6,4);

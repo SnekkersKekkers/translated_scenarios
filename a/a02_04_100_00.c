@@ -86,7 +86,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_080");
-MsgDisp("Nanatsumori?","...What if it's the same?");
+MsgDisp("Nanatsumori?","...So what if it is?");
 MsgDisp("主人公","I thought maybe you were a fan!
 NANA-kun has a lot of male fans too, you
 know.");

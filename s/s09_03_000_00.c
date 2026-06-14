@@ -60,7 +60,7 @@ Let's see what we get.");
         ChMouth(3,4);
         ChMotion(3,4,1);
         VoicePlay("S090300000_03_050");
-        MsgDisp("Honda","No- Are you sure?
+        MsgDisp("Honda","Hmm, you think so?
 It's fun waiting a bit...");
         MsgClose();
         ScrFadeOut(0,0);

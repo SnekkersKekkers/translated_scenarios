@@ -25,7 +25,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20300_06_010");
-MsgDisp("Himuro","What's popular amongst girls right now?
+MsgDisp("Himuro","What's popular among girls right now?
 What sort of presents do they want?
 Stuff like that.");
 ChEye(7,0);

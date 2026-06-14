@@ -42,7 +42,7 @@ I went faster than I should've.");
     ScrFadeIn(0);
     VoicePlay("O030200002_02_040");
     MsgDisp("Sassa","Last!?");
-    MsgDisp("主人公","Sorry for pulling on your leg...");
+    MsgDisp("主人公","Sorry for holding you back...");
     ChEye(2,2);
     ChMouth(2,0);
     ChMotion(2,2);

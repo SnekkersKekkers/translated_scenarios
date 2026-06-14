@@ -18,7 +18,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P540200004_02_010");
-MsgDisp("Sassa","Whilst I was listening to you guys perform, I
+MsgDisp("Sassa","While I was listening to you guys perform, I
 thought back to many different things from
 this last year.");
 ChEye(2,0);

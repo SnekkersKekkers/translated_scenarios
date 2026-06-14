@@ -5,7 +5,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B040306200_03_000");
-MsgDisp("Honda","Yeah, it's even bluer than I imagined.");
+MsgDisp("Honda","Yepyep, it's even bluer than I imagined.");
 MsgSel("The air feels so nice and cool.","Is the water deep here?","The water's surface shines blue like a jewel...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -39,7 +39,7 @@ in!?");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040306200_03_030");
-    MsgDisp("Honda","Yeah, I get that blue light is the least
+    MsgDisp("Honda","Yepyep, I get that blue light is the least
 absorbed by water in theory, but seeing it in
 real life - it's stunningly beautiful!");
     MsgDispSksp(1,7);

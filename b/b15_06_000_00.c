@@ -11,7 +11,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B150600000_06_010");
 MsgDisp("Himuro","Were you unaware of it yourself?
-Even amongst girls, you're one of the more
+Even among girls, you're one of the more
 aggressive ones.");
 MsgDisp("主人公","...Do other girls touch you too, ｛Himuro＊＊｝?");
 ChEye(6,0);

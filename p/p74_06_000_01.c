@@ -15,7 +15,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P740600001_06_010");
 MsgDisp("Himuro","Well, isn't it fine?
-You're not in the modelling club, but the
+You're not in the modeling club, but the
 handicrafts club.");
 ChEye(6,0);
 ChMouth(6,0);

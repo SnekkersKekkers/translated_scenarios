@@ -33,7 +33,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020300000_03_040");
-MsgDisp("Honda","My mum brought me ammonite along time ago.
+MsgDisp("Honda","My mom brought me Ammonite-kun a long time ago.
 This sparked a change within me. It showed
 me the wonders of the outside world.");
 ChEye(3,4);

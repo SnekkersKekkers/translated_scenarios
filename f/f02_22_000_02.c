@@ -9,7 +9,7 @@ VoicePlay("F022200002_22_000");
 MsgDisp("Hikaru","Hey hey.
 The new rumor about the church on our school
 grounds is crazy...");
-MsgDisp("主人公","(A new rumour huh...)");
+MsgDisp("主人公","(A new rumor huh...)");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

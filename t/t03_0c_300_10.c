@@ -7,7 +7,7 @@ teacher for the first-year students at
 Habataki.");
 MsgClear();
 MsgDisp("","｛Hiiragi＊＊＊｝ is thinking of a new play for
-the theatre company. \"I think everyone
+the theater company. \"I think everyone
 will be surprised\", he said happily.
 ｛Himuro＊＊｝ is currently training hard
 every day to enter an upcoming surfing

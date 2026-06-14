@@ -18,7 +18,7 @@ ChMotion(2,4);
 VoicePlay("P740200001_02_010");
 MsgDisp("Sassa","I'm glad you're not injured.
 Well, maybe you just didn't get enough
-practice on the modelling side.");
+practice on the modeling side.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

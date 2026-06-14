@@ -40,7 +40,7 @@ I'm not so sure.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040522102_05_030");
-        MsgDisp("Hiiragi","My theatre production differs in both
+        MsgDisp("Hiiragi","My theater production differs in both
 historical fact and interpretation.
 I wonder if they would take offense to it...");
         MsgDisp("主人公","No, I don't think so. A lot of people get

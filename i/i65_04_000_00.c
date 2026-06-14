@@ -46,7 +46,7 @@ Are you about to go on a trip?");
     ChMotion(4,1,1);
     VoicePlay("I650400000_04_040");
     MsgDisp("Nanatsumori","Nah, I'm heading to a work site.
-Taking some pictures in the night view.");
+Got a night-view shoot.");
     MsgDisp("主人公","I see.
 So there are shoots that take place late at
 night, too. Careful on your way home, okay?");

@@ -63,7 +63,7 @@ I've never been on a long boat trip before.");
 all over the country, but it wasn't on a sea
 voyage.");
         MsgDisp("主人公","I see.
-｛Hiiragi＊＊＊｝ is accustomed to travelling.");
+｛Hiiragi＊＊＊｝ is accustomed to traveling.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040502202_05_060");

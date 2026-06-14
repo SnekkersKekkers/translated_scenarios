@@ -15,7 +15,7 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200703_02_000");
-MsgDisp("Sassa","I hit my knee whilst I was jumping hurdles.");
+MsgDisp("Sassa","I hit my knee while I was jumping hurdles.");
 MsgDisp("主人公","Are you okay?
 I'll bring a bandaid now.");
 ChEye(2,0);

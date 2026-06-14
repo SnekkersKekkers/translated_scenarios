@@ -20,7 +20,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10100_05_010");
 MsgDisp("Hiiragi","Until I enrolled at Habataki High School, I
-was always travelling.");
+was always traveling.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

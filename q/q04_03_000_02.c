@@ -14,7 +14,7 @@ Weird?");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("Q040300002_03_010");
-    MsgDisp("Honda","Uh-huh.
+    MsgDisp("Honda","Yepyep.
 If you're interested, I'll tell you all about
 it one day, okay?");
     MsgClose();

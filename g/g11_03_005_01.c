@@ -69,7 +69,7 @@ VoicePlay("G110300501_03_060");
 MsgDisp("Honda","I got it. How about next time we make our own
 plant photo book?
 We just take pictures with our phones.");
-MsgDisp("主人公","Sure, that sounds like right right?");
+MsgDisp("主人公","Sure, that sounds fun, right?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

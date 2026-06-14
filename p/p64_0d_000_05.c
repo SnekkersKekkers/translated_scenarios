@@ -21,7 +21,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P640D00005_21_010");
 MsgDisp("Michiru","How should I say this...
-It has a wild flavour.");
+It has a wild flavor.");
 MsgDisp("主人公","Ehhh∋");
 ChEye(21,4);
 ChMouth(21,0);

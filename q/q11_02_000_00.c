@@ -52,7 +52,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("Q110200000_02_060");
 MsgDisp("Sassa","Haha, you figured out?
-Actually, I bought all the flavours.");
+Actually, I bought all the flavors.");
 MsgDisp("主人公","Eeh∋");
 ChEye(2,0);
 ChMouth(2,4);

@@ -42,8 +42,8 @@ MsgDisp("Nanatsumori","Why you came here I mean.");
 ChMotion(4,2);
 VoicePlay("G110400201_04_030");
 MsgDisp("Nanatsumori","I think it's this.
-Look at the new items in this month's
-Habatcher magazine.");
+You came to check the new items in this
+month's Habatcher.");
 VoicePlay("G110400201_04_040");
 MsgDisp("Nanatsumori","...I'm guessing you looked and it's all sold
 out.

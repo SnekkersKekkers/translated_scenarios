@@ -76,8 +76,8 @@ I'll bring you a new one right away.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I360400003_04_050");
-    MsgDisp("Nanatsumori","The countdown for sugar running out here
-started too, you know?");
+    MsgDisp("Nanatsumori","The sugar over here is about to hit empty
+too, you know?");
     MsgDisp("主人公","Huh∋
 I'm sorry I didn't notice...");
     ChEye(4,2);

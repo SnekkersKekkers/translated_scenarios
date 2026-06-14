@@ -22,7 +22,7 @@ MsgDisp("Nanatsumori","I see.
 This is because it's been carefully managed.
 As expected.");
 MsgDisp("主人公","Hehe.
-Nothing will come of if even if you praise me
+Flattery won't get you anything out of me,
 you know?");
 ChEye(4,3);
 ChMouth(4,3);

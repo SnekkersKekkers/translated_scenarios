@@ -62,8 +62,8 @@ If that's what you think.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("R040200001_02_070");
-    MsgDisp("Sassa","The length is fine, but it's a bit uptight, I
-can't eat with this.");
+    MsgDisp("Sassa","The length is fine, but it's a bit tight all
+over, I can't eat in this.");
     break ;
     case 4:
     case 5:

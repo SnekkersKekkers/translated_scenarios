@@ -56,7 +56,7 @@ ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300502_03_050");
-MsgDisp("Honda","Beep beep!");
+MsgDisp("Honda","Ding ding!");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,0);

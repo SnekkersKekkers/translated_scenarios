@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040523202_05_000");
 MsgDisp("Hiiragi","\"Ferris wheel fortune telling\"...?
 Do you know it?");
-MsgSel("Sounds interesting! Should we try it?","Would pink be the winning color?","Is it predicted by the colour of the gondola?");
+MsgSel("Sounds interesting! Should we try it?","Would pink be the winning color?","Is it predicted by the color of the gondola?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

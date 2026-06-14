@@ -18,7 +18,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("T020400000_04_010");
 MsgDisp("Nanatsumori","So this is what the inside of the church
-look like.
+looks like.
 It's beautiful.");
 MsgDisp("主人公","Yes, it is isn't it?");
 ChEye(4,0);
@@ -32,7 +32,7 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("T020400000_04_030");
 MsgDisp("Nanatsumori","If I can really believe in the legendary
-rumour.");
+rumor.");
 MsgDisp("主人公","Eh...");
 ChEye(4,4);
 ChMouth(4,4);
@@ -95,8 +95,8 @@ SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,40,0,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020400000_04_140");
-MsgDisp("Nanatsumori","When I saw my hometown's 
-christmas lights last christmas, I made a decision.");
+MsgDisp("Nanatsumori","When I saw my hometown's
+Christmas lights last Christmas, I made a decision.");
 VoicePlay("T020400000_04_150");
 MsgDisp("Nanatsumori","That I would tell you my feelings.
 Here, in this place.");

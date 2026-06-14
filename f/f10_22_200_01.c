@@ -52,7 +52,7 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F102220001_22_030");
 MsgDisp("Hikaru","Even Hikaru and the others haven't come
-across that sort of design in their modelling
+across that sort of design in their modeling
 work.");
 ChEye(31,0);
 ChMouth(31,0);

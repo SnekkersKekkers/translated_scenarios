@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040208502_02_000");
 MsgDisp("Sassa","The perimeter around here, is approximately
 around one lap in track right?");
-MsgSel("400 metres?","Why do you know that?","Should we measure your time here?");
+MsgSel("400 meters?","Why do you know that?","Should we measure your time here?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

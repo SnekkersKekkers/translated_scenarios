@@ -37,7 +37,7 @@ it.");
     VoicePlay("P530200002_02_020");
     MsgDisp("Sassa","Is that so?
 I'll also recount things from this last year
-whilst listening to your performance.");
+while listening to your performance.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(2,0);

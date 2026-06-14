@@ -24,7 +24,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B350400000_04_030");
-    MsgDisp("Nanatsumori","Thank you.");
+    MsgDisp("Nanatsumori","Thanks.");
     MsgDisp("主人公","Then, what should we do now?");
     ChEye(4,1);
     ChMouth(4,3);

@@ -41,7 +41,7 @@ Wow, that swirl pattern is beautiful.");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300000_03_040");
-MsgDisp("Honda","Yep, that's the exact same reaction I had.
+MsgDisp("Honda","Yepyep, that's the exact same reaction I had.
 But you know, this isn't a pattern, it's a
 fossil.");
 MsgDisp("主人公","Eh?
@@ -51,7 +51,7 @@ StlMouth(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300000_03_050");
 MsgDisp("Honda","Exactly.
-It's an ammonite from 150 million years ago.
+It's Ammonite-kun, from 150 million years ago.
 Isn't that awesome?");
 MsgDisp("主人公","Seriously?
 Wow!");
@@ -95,7 +95,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("D010300000_03_100");
-MsgDisp("Honda","Right, because when you're teaching someone,
+MsgDisp("Honda","Rightright, because when you're teaching someone,
 that kind of knowledge is more interesting
 than the stuff in books.");
 ChEye(3,4);

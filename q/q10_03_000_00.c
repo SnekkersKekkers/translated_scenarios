@@ -31,7 +31,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q100300000_03_030");
-MsgDisp("Honda","Yeah.
+MsgDisp("Honda","Yepyep.
 Maybe our ancestors too, came to see the
 Glasses Bridge like this.");
 ChEye(3,0);

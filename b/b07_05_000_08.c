@@ -10,7 +10,7 @@ ChMotion(5,4);
 VoicePlay("B070500000_05_360");
 MsgDisp("Hiiragi","Once I was old enough to understand what
 was going on around me, I was mingling
-with adults in the theatre troupe. I don't
+with adults in the theater troupe. I don't
 recall talking to girls my age.");
 MsgDisp("主人公","There's lots of girls in school now though?");
 ChEye(5,0);

@@ -77,7 +77,7 @@ MsgDisp("","Ironically enough, his words made me
 realize something. When I advance
 onto the high school division—");
 MsgClear();
-MsgDisp("","I'll be labelled as 'that relative of
+MsgDisp("","I'll be labeled as 'that relative of
 Vice Principal Himuro'. It's easy
 to imagine being looked at with
 curiosity.");
@@ -128,7 +128,7 @@ MsgClear();
 MsgDisp("","And then, that time I first rode a
 wave...");
 MsgDisp("","I experienced a magnificent wave on a
-board that was only a few centimetres
+board that was only a few centimeters
 thick. I had an epiphany, feeling as
 though I had conquered the entire
 ocean.");

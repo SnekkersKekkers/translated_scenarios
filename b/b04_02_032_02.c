@@ -40,7 +40,7 @@ No need to go out of your way to flatter me.");
         VoicePlay("B040203202_02_030");
         MsgDisp("Sassa","It's rare for me to know something about the
 city that you don't.");
-        MsgDisp("主人公","Ah, I see how that could be frustrating.");
+        MsgDisp("主人公","Ah, that's kind of frustrating, actually.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

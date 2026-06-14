@@ -45,7 +45,7 @@ VoicePlay("D120B00100_03_020");
 MsgDisp("Honda","We were trying telepathy on you!");
 MsgDisp("主人公","Eh, telepathy?");
 VoicePlay("D120B00100_03_030");
-MsgDisp("Honda","Yeah!
+MsgDisp("Honda","Yepyep!
 Out of the three of us, we wanted to see
 whose telepathy could reach you first!");
 StlEyeOpenLevel(1,5,1);

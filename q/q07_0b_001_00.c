@@ -68,7 +68,7 @@ MsgDisp("Kazama","Oh wow.");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("Q070B00100_04_020");
-MsgDisp("Nanatsumori","Gj, Da-hon.");
+MsgDisp("Nanatsumori","Gj, Dahon.");
 MsgDisp("主人公","Hehe!");
 MsgClose();
 ScrFadeOut(0);
@@ -134,7 +134,7 @@ MsgDisp("Nanatsumori","Let's take another photo there.");
 ChMotion(1,0);
 MsgDisp("主人公","Agreed!");
 MsgDisp("主人公","(After this we go to Nagasaki.
-Huis ten Bosch was so much fun...!)");
+Huis Ten Bosch was so much fun...!)");
 MsgClose();
 MsgClose();
 ScrFadeOut(0,0);

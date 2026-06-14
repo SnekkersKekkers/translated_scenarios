@@ -26,7 +26,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010620000_05_010");
-MsgDisp("Hiiragi","Yes, I was out shopping for the theatre
+MsgDisp("Hiiragi","Yes, I was out shopping for the theater
 company-");
 ChEye(5,3);
 ChMouth(5,2);

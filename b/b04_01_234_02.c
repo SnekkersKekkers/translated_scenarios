@@ -89,7 +89,7 @@ woman to have fun together.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123402_01_080");
         MsgDisp("Kazama","Then, I would end up remembering that, and it
-caused some trouble for my Mum and Dad.
+caused some trouble for my Mom and Dad.
 Well, I was a brat.");
         MsgDisp("主人公","I see, you moved abroad when you were only in
 your first year of Elementary School after

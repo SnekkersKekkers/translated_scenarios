@@ -14,7 +14,7 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("G020240002_02_020");
-MsgDisp("Sassa","I don't think it seems alike at all?");
+MsgDisp("Sassa","They don't look alike at all, right?");
 MsgDisp("主人公","Hehe, are you perhaps...");
 ChEye(2,5);
 ChMouth(2,5);

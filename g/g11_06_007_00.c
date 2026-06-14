@@ -10,7 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600700_06_000");
-MsgDisp("Himuro","No, today I'm going to the game centre——");
+MsgDisp("Himuro","No, today I'm going to the game center——");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
@@ -31,7 +31,7 @@ ChOpen(6,100,0,0,0,#1,#1,0,0);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","｛Himuro＊＊｝, you were about to say 'game
-centre', were you planning to go?");
+center', were you planning to go?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

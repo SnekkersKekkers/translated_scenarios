@@ -12,8 +12,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_280");
-MsgDisp("Sassa","Eh, you're so nice.
-I was a track and field idiot then.");
+MsgDisp("Sassa","Oh, you're so nice.
+A track and field idiot, then.");
 MsgDisp("主人公","Hehe, were you already that strong back then?");
 ChEye(2,0);
 ChMouth(2,4);

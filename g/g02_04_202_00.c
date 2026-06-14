@@ -21,7 +21,7 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("G020420200_04_030");
 MsgDisp("Nanatsumori","I won't be satisfied until I have an answer.
-I'm losing...my groove.");
+This gap between us...this hollow feeling.");
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("G020420200_04_040");

@@ -14,7 +14,7 @@ switch (ChPrmGet(3,6)){
 This is about the voicemail!");
     MsgDisp("主人公","Oh, did you listen to it?");
     VoicePlay("J030301000_03_010");
-    MsgDisp("Honda","Yep.
+    MsgDisp("Honda","Yepyep.
 I'm okay!");
     MsgDisp("主人公","Really?
 Then I'll be waiting for you at the
@@ -38,7 +38,7 @@ I can't wait for ｛日付｝ to come!)");
 Listen, about the voicemail.");
     MsgDisp("主人公","Oh, did you listen to it?");
     VoicePlay("J030301000_03_040");
-    MsgDisp("Honda","Yep!
+    MsgDisp("Honda","Yepyep!
 Of course, it's okay.");
     MsgDisp("主人公","Then I'll be waiting for you at the
 ｛待ち合わせ場所｝ on ｛日付｝.");

@@ -1,4 +1,4 @@
-MsgDisp("主人公","Am I the odd one out amongst you guys,
+MsgDisp("主人公","Am I the odd one out among you guys,
 ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);

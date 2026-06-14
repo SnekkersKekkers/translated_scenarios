@@ -22,7 +22,7 @@ But, I'm almost done too. If you don't mind,
 why don't we go home together?");
 MsgDisp("主人公","Of course.
 Then, I'll do preparations for tomorrow
-whilst I wait for you.");
+while I wait for you.");
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500500_05_020");
 MsgDisp("Hiiragi","Yes.");

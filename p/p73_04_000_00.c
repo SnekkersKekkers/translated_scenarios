@@ -28,7 +28,7 @@ I'm nervous...");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P730400000_04_020");
-    MsgDisp("Nanatsumori","If I'm being truthful, when I do my modelling
+    MsgDisp("Nanatsumori","If I'm being truthful, when I do my modeling
 work I'm always nervous.");
     MsgDisp("主人公","Eh, ｛Nanatsumori＊｝ too∋
 I see...");

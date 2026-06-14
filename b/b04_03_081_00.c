@@ -28,7 +28,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040308100_03_020");
     MsgDisp("Honda","Really? After this, we get to enjoy the fresh
 green leaves once the blossoms fall.
-To me, that has it's own merits.");
+To me, that has its own merits.");
     MsgDateResultDisp();
     break ;
     case 2:

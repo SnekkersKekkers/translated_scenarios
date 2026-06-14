@@ -9,7 +9,7 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020510401_05_010");
 MsgDisp("Hiiragi","What is it indeed.
-Perhaps this is in accordance the rumoured
+Perhaps this is in accordance the rumored
 inner voice you can hear here.");
 MsgDisp("主人公","Ehh?");
 ChEye(5,3);
@@ -45,7 +45,7 @@ ChMotion(5,4);
 VoicePlay("G020510401_05_080");
 MsgDisp("Hiiragi","At that time, I would pay no mind to it, but
 thanks to you, I may join my father in those
-exchanges of theatre discussion.");
+exchanges of theater discussion.");
 MsgDisp("主人公","(Thanks to me...
 I'm happy, but also somewhat embarrassed.)");
 BGMStop();

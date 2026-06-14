@@ -24,7 +24,7 @@ You too, ｛Honda＊＊｝?");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("F010300007_03_010");
-    MsgDisp("Honda","Ding, ding.
+    MsgDisp("Honda","Yep yep.
 So, how about we go together?");
     break ;
     case 4:

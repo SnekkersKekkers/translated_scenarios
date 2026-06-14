@@ -72,7 +72,7 @@ always be reserved for you.");
         ChMotion(1,0);
         ChCheek(1,0);
         VoicePlay("B040106502_01_070");
-        MsgDisp("Kazama","Oh, and also, it can't be cancelled.");
+        MsgDisp("Kazama","Oh, and also, it can't be canceled.");
         MsgDisp("主人公","(Hehe, I hope we can see it together again
 next year too...)");
         break ;

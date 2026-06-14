@@ -52,7 +52,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C05002_05_010");
 MsgDisp("Hiiragi","I'm glad.
-Then, Inori, let's have some fun whilst being
+Then, Inori, let's have some fun while being
 their distraction.");
 ChEye(7,2);
 ChMouth(7,0);

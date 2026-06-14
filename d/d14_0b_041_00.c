@@ -13,8 +13,7 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B04100_04_000");
 MsgDisp("Nanatsumori","No, not at all.
-He's not responding to neither phone calls or
-texts.");
+He's not answering phone calls or texts.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -45,9 +44,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B04100_04_040");
-MsgDisp("Nanatsumori","That's right. Therefore, he's not here
-because he's searching for it and has lost
-contact with us.");
+MsgDisp("Nanatsumori","That's gotta be it.
+No wonder he's nowhere to be found and out
+of contact.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);

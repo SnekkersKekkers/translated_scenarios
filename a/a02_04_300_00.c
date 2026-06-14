@@ -264,7 +264,7 @@ ChClose(4);
 SEPlay("EV_SE_DOOR_014");
 Wait(50,0);
 MsgDisp("主人公","(Now that I think of it, there's a famous
-modelling agency right around the corner,
+modeling agency right around the corner,
 isn't there?)");
 SEStop("EV_SE_DOOR_014",1);
 MsgDisp("主人公","(｛Nanatsumori＊｝ must work as NANA at that

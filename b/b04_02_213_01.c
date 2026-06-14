@@ -31,7 +31,7 @@ too.");
     VoicePlay("B040221301_02_020");
     MsgDisp("Sassa","Yeah.
 Meat for dogs, fish for cats.
-The flavour is different.");
+The flavor is different.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

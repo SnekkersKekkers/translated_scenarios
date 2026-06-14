@@ -60,7 +60,7 @@ But it's about your own personal preferences?");
         MsgDisp("Honda","You don't know, huh...
 I'll tell you everything that I know.");
         MsgDisp("主人公","Sorry, that was a weird way to put it.
-I enjoyed the museum though, my favourite
+I enjoyed the museum though, my favorite
 thing was...");
         ChEye(3,1);
         ChMouth(3,1);

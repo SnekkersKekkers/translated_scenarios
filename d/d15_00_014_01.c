@@ -12,7 +12,7 @@ ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("D150001401_04_010");
 MsgDisp("Nanatsumori","Look, how you switch between eating sweet and
-savoury at random.
+savory at random.
 Your choices are the best.");
 ChEye(1,0);
 ChMouth(1,3);

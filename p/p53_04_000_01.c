@@ -56,7 +56,7 @@ The face of a hero stepping onto the field.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400001_04_060");
-    MsgDisp("Nanatsumori","I wish you a good fight!");
+    MsgDisp("Nanatsumori","Knock 'em dead!");
     MsgDisp("主人公","(Alright, for everyone who came all this way
 to listen, let's deliver a good performance!)");
     break ;

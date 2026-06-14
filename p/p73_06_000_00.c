@@ -70,7 +70,7 @@ I'm nervous...)");
     SEWait();
     ChOpen(6,254,1,0,0,#1,#1,0,0);
     VoicePlay("P730600000_06_060");
-    MsgDisp("Himuro","Congratulations on your modelling debut.");
+    MsgDisp("Himuro","Congratulations on your modeling debut.");
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
 Hey, don't put pressure on me...");
     ChEye(6,0);
@@ -90,7 +90,7 @@ Hey, don't put pressure on me...");
     ChMotion(6,1);
     VoicePlay("P730600000_06_090");
     MsgDisp("Himuro","Those clothes were pretty well-made.
-Why don't you try to walk proudly amongst
+Why don't you try to walk proudly among
 everyone?");
     MsgDisp("主人公","Hehe, that's right.
 Thank you.");

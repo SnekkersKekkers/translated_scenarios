@@ -35,7 +35,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("A020310000_03_040");
-MsgDisp("Honda","You wanna know?
+MsgDisp("Honda","Yepyep, you wanna know?
 Alright, I'll let you in on it.
 Close your eyes for a sec.");
 MsgDisp("主人公","What...?
@@ -79,7 +79,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("A020310000_03_100");
-MsgDisp("Honda","Mm-hm, when light comes from the right, your
+MsgDisp("Honda","Yepyep, when light comes from the right, your
 writing hand casts a shadow on your notebook
 and makes it hard to see.");
 MsgDisp("主人公","It was designed with the students in mind.

@@ -4,9 +4,9 @@ ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("B070500000_05_240");
 MsgDisp("Hiiragi","In a sense, I was a different person.
-I lived only in a narrow world of the theatre
+I lived only in a narrow world of the theater
 company.");
-MsgDisp("主人公","You toured the country with the theatre
+MsgDisp("主人公","You toured the country with the theater
 company.
 I think that's truly incredible.");
 ChEye(5,2);

@@ -42,7 +42,7 @@ MsgClear();
 BGOpen("ad541",0);
 ScrFadeIn(0);
 VoicePlay("Y300500400_07_010");
-MsgDisp("Mikage","\"Ohh, are you the rumoured high
+MsgDisp("Mikage","\"Ohh, are you the rumored high
 school chairman?\"");
 VoicePlay("Y300500400_05_020");
 MsgDisp("Hiiragi","\"Eh? Yes...My name is Hiiragi
@@ -86,7 +86,7 @@ now?\"");
 MsgClear();
 MsgDisp("","To start with, the one who introduced
 me to Inori-kun was Mikage-sensei.");
-MsgDisp("","For me, I have the theatre company.
+MsgDisp("","For me, I have the theater company.
 Inori-kun has the unique background
 of being the nephew of Vice Principal
 Himuro.");

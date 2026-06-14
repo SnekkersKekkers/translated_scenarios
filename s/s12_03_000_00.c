@@ -73,7 +73,7 @@ shrine visit.");
     ChMotion(3,4,1);
     VoicePlay("S120300000_03_050");
     MsgDisp("Honda","I wanted to chat with you more.");
-    MsgDisp("主人公","Really?");
+    MsgDisp("主人公","Yeah, me too.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

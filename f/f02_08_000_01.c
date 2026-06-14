@@ -14,7 +14,7 @@ MsgDisp("Shirahane","There's a legend 'bout love comin' true at
 Haba High too. A story 'bout a church, a
 prince, and a princess.");
 MsgDisp("主人公","Yeah.
-There are all sorts of rumours, but that one
+There are all sorts of rumors, but that one
 is one of the more well-known ones.");
 ChEye(8,0);
 ChMouth(8,0);

@@ -22,8 +22,8 @@ Got it.");
     ChOpen(3,255,0,4,4,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300006_03_020");
-    MsgDisp("Honda","Michiru-san, huh...
-Okaay.");
+    MsgDisp("Honda","Michiru-chan, huh...
+Okaaay.");
     break ;
     default :
     DbgAssert(1);

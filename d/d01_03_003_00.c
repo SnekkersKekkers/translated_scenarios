@@ -24,7 +24,7 @@ MsgDisp("主人公","Wow, what cute little flowers.");
 StlEye(3,0);
 StlMouth(3,1);
 VoicePlay("D010300300_03_020");
-MsgDisp("Honda","Yep.
+MsgDisp("Honda","Yepyep.
 But that's not all.");
 StlEye(3,1);
 StlMouth(3,1);
@@ -94,7 +94,7 @@ ChOpen(3,254,7,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("D010300300_03_100");
-MsgDisp("Honda","Well, it'll turn white again soon.
+MsgDisp("Honda","Yepyep, it'll turn white again soon.
 You should try spraying it next time.");
 ChEye(3,0);
 ChMouth(3,3);

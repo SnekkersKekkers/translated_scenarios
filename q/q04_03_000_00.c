@@ -65,7 +65,7 @@ I guess it's because we're in a hotel?");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("Q040300000_03_060");
-    MsgDisp("Honda","Exactly.
+    MsgDisp("Honda","Yepyep.
 Doesn't it feel like the two of us are on a
 trip together?");
     MsgDisp("主人公","Hehe, it's a strange feeling, isn't it?

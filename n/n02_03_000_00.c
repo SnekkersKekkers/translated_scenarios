@@ -31,7 +31,7 @@ Anyway, I'm glad I did my best!)");
     ChMotion(3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("N020300000_03_030");
-    MsgDisp("Honda","You're the first in the rank∋
+    MsgDisp("Honda","You're first in our grade∋
 Congratulations!");
     MsgDisp("主人公","Yeah, thank you!
 Umm...

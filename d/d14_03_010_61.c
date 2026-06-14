@@ -10,5 +10,5 @@ ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("D140301061_03_010");
 MsgDisp("Honda","It's usually sold out, but today we both got
-it. Then, I wonder if the flavour also gets a
+it. Then, I wonder if the flavor also gets a
 perfect score like you'd expect?");

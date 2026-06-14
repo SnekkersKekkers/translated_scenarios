@@ -5,7 +5,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040308301_03_000");
-MsgDisp("Honda","Hey hey, did you hear the rumours of this
+MsgDisp("Honda","Hey hey, did you hear the rumors of this
 place? The thing where you can hear your
 companion's true thoughts.");
 MsgSel("I might want to hear ｛Honda＊＊｝'s true thoughts.","It's a bit scary...","Shh—, try being a bit quieter.");

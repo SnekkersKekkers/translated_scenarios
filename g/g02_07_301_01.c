@@ -4,7 +4,7 @@ ChOpen(7,255,3,0,0,#1,#1,0,0);
 VoicePlay("G020730101_07_000");
 MsgDisp("Mikage","There's a lot of fireflies over there.
 Maybe there's a popular person?");
-MsgDisp("主人公","Hehe, a person popular amongst fireflies?");
+MsgDisp("主人公","Hehe, a person popular among fireflies?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

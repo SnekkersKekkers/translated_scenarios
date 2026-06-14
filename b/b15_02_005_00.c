@@ -49,7 +49,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B150200500_02_060");
-MsgDisp("Sassa","No, thank you.");
+MsgDisp("Sassa","No... thank you.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);

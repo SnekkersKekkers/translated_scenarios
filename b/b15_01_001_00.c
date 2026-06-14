@@ -13,7 +13,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B150100100_01_010");
 MsgDisp("Kazama","So you know what I'm talking about.
-So that means I can return the favour, right?");
+So that means I can return the favor, right?");
 MsgDisp("主人公","Umm, that...");
 ChEye(1,0);
 ChMouth(1,1);

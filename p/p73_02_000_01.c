@@ -87,7 +87,7 @@ You're already like a princess!");
     VoicePlay("P730200001_02_080");
     MsgDisp("Sassa","Huh? is that no good?
 But, nothing but that comes to mind.");
-    MsgDisp("主人公","Thanks you...
+    MsgDisp("主人公","Thank you...
 I'm happy, but embarrassed.");
     ChEye(2,0);
     ChMouth(2,4);

@@ -52,7 +52,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B360350100_03_060");
-MsgDisp("Honda","Oh, and what if we invited Ryou-kun and
+MsgDisp("Honda","Oh, and what if we invited Ryo-kun and
 Mi-kun along too?
 I'd love to see what they'd say about it.");
 MsgDisp("主人公","(Haha, the thought of ｛Honda＊＊｝ and

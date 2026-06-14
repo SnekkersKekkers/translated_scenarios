@@ -29,7 +29,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020220000_02_030");
-MsgDisp("Sassa","They told me to come here whilst running
+MsgDisp("Sassa","They told me to come here while running
 and trying to beat my fastest time.");
 MsgDisp("主人公","Hehe, I see how it is.");
 ChEye(2,0);

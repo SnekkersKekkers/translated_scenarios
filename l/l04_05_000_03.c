@@ -56,7 +56,7 @@ Make sure to eat it.");
     VoicePlay("L040500003_05_060");
     MsgDisp("Hiiragi","I see...
 Then, I shall return and boast to everyone in
-the theatre company before eating it.");
+the theater company before eating it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -24,7 +24,7 @@ ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300604_03_010");
 MsgDisp("Honda","That's right.
-It's time for a sport the difference quiz!");
+It's time for a spot-the-difference quiz!");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);

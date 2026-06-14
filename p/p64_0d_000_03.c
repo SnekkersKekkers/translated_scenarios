@@ -21,7 +21,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("P640D00003_21_010");
-MsgDisp("Michiru","The colour is also weak, as expected it's
+MsgDisp("Michiru","The color is also weak, as expected it's
 also thin...");
 ChEye(22,2);
 ChMouth(22,2);

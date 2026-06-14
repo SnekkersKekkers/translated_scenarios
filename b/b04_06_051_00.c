@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040605100_06_000");
 MsgDisp("Himuro","Manmade light...huh.");
-MsgSel("The starry sky was romantic.","｛Himuro＊＊｝, did you fall asleep?","The seats were so soft, I fell sleep...");
+MsgSel("The starry sky was romantic.","｛Himuro＊＊｝, did you fall asleep?","The seats were so soft, I fell asleep...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

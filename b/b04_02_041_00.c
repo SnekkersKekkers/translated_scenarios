@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,1);
     VoicePlay("B040204100_02_000");
     MsgDisp("Sassa","Like I expected from the champion!
-His way he maintained distance between him
+The way he kept his distance from
 the other guy was perfect∈");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

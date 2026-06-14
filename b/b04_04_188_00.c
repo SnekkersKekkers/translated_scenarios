@@ -24,7 +24,7 @@ Crap...it's slowly growing on me...");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("B040418800_04_010");
-    MsgDisp("Nanatsumori","There was some dark humour, but it was nicely
+    MsgDisp("Nanatsumori","There was some dark humor, but it was nicely
 balanced by the heroine's pure nature.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

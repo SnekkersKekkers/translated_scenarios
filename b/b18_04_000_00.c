@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B180400000_04_020");
-    MsgDisp("Nanatsumori","Thank you.");
+    MsgDisp("Nanatsumori","Thanks.");
     MsgDisp("主人公","It gives me a little bit of a ticklish
 feeling though.");
     ChEye(4,4);

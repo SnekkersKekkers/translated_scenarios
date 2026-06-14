@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","I heard you did a new move at a joint
 practice of the Rhythmic Gymnastics Club.
 That's amazing.");
-    MsgDisp("主人公","Hmmm, thanks!");
+    MsgDisp("主人公","Hehe, thanks!");
     MsgDisp("主人公","(I'm glad I worked hard in the rhythmic
 gymnastics club ...!)");
     break ;

@@ -35,6 +35,6 @@ VoicePlay("F022100003_21_040");
 MsgDisp("Michiru","But...
 I might want to give it a try.");
 MsgDisp("主人公","(｛みちる＊｝, that seems fun!
-This seems like a rumour girls would like?)");
+This seems like a rumor girls would like?)");
 MsgClose();
 ScrFadeOut(0,0);

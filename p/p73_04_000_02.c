@@ -18,7 +18,7 @@ I think I was able to make it pretty but...)");
     ChNanaType(0);
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P730400002_04_000");
-    MsgDisp("Nanatsumori","As expected that dress is foul play—.");
+    MsgDisp("Nanatsumori","Yeah, that dress is just unfair.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
     ChEye(4,4);
     ChMouth(4,3);

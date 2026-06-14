@@ -16,7 +16,7 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F022200011_22_010");
-MsgDisp("Hikaru","For modelling work, Hikaru has to wear spring
+MsgDisp("Hikaru","For modeling work, Hikaru has to wear spring
 clothes in advance for photo shoots, and it's
 a bit rough since it's cold out...");
 ChEye(22,3);

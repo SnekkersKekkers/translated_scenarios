@@ -71,7 +71,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D140A04002_01_040");
 MsgDisp("Kazama","Right.
 He'll say things like \"Ryota-senpai\" is so
-easy to understand whilst grinning.");
+easy to understand while grinning.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

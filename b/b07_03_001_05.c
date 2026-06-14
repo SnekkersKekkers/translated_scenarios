@@ -23,8 +23,8 @@ MsgDisp("Honda","Hmm, I see.
 You're kind of like the hub in our group.");
 ChSet(3,0);
 VoicePlay("B070300001_03_320");
-MsgDisp("Honda","And I mean a bicycle hub, not a bicycle
-wheel, you know?");
+MsgDisp("Honda","Like an airport hub, I mean —
+you know the kind?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -36,7 +36,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300001_03_340");
-MsgDisp("Honda","Ryou-kun, Mi-kun, and I have different
+MsgDisp("Honda","Ryo-kun, Mi-kun, and I have different
 interests and viewpoints, so normally we
 wouldn't have much in common.");
 ChEye(3,0);

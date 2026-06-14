@@ -65,7 +65,7 @@ ChOpen(1,254,0,2,3,0,#1,0,1,0,30);
 SEPlay("EV_SE_544");
 ChOpen(3,254,1,3,3,#1,#1,0,2);
 VoicePlay("T020B21000_03_000");
-MsgDisp("Honda","Welcome back, Ryou-kun!
+MsgDisp("Honda","Welcome back, Ryo-kun!
 I'm glad we were able to graduate
 together.");
 ChEye(1,4);
@@ -202,7 +202,7 @@ ChMouth(1,2);
 ChSet(3,3);
 VoicePlay("T020B21000_03_060");
 MsgDisp("Honda","Ah, that's right.
-Ryou-kun was caught up in the emotional
+Ryo-kun was caught up in the emotional
 reunion and secretly he—");
 ChEye(1,0);
 ChMouth(1,2);

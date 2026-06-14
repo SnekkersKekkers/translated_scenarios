@@ -87,7 +87,7 @@ ChMotion(7,5);
 VoicePlay("D140C03000_07_040");
 MsgDisp("Mikage","Ooh.
 Yanosuke, are you letting me join Habataki
-theatre troupe too?");
+theater troupe too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

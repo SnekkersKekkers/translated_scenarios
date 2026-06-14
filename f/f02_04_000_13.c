@@ -47,4 +47,4 @@ brown, the soft and smooth texture, the light
 sweetness...ah, I can't wait.");
 MsgDisp("主人公","(Hmm...
 A whole castella to himself might just be
-｛Nanatsumori＊｝'s dreaml...)");
+｛Nanatsumori＊｝'s dream...)");

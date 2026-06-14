@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040316002_03_000");
 MsgDisp("Honda","Ah, those are those print stickers that are
-really popular amongst girls right?");
+really popular among girls right?");
 MsgSel("Have you ever taken one?","This room is a private booth right?","Where do you stick them?");
 switch (MsgSelRsltGet()){
     case 0:

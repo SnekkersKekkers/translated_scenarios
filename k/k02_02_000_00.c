@@ -35,7 +35,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("K020200000_02_030");
-MsgDisp("Sassa","I glad I could see your face.
+MsgDisp("Sassa","I'm glad I got to see your face.
 See you.");
 MsgClose();
 SEPlay("EV_SE_DOOR_022");

@@ -111,7 +111,7 @@ MsgDisp("Woman B","But it's kinda suspicious.
 If he was the real deal, he wouldn't stand
 like that—.");
 VoicePlay("B050400000_47_030");
-MsgDisp("Woman A","Got it, he's NANA's fan!
+MsgDisp("Woman A","Got it, he's a NANA fan!
 There are quite a lot of guys who copy NANA's
 hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");

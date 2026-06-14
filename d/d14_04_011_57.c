@@ -7,5 +7,5 @@ ChEye(4,0);
 ChMotion(4,0);
 VoicePlay("D140401157_04_010");
 MsgDisp("Nanatsumori","Hazuki Kei, the legendary Haba High model
-alumni, hated this dish the most.
+alum, hated this dish the most.
 I don't even remember why I chose it...");

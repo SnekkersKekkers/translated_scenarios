@@ -15,7 +15,7 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 MsgDisp("","(*RIIIIIP*)");
 MsgDisp("主人公","Ah!
-I teared the blackout curtains...");
+I tore the blackout curtains...");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);

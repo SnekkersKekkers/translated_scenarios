@@ -37,7 +37,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200030_02_040");
-MsgDisp("Sassa","I owe it to you");
+MsgDisp("Sassa","I owe it to you.");
 MsgDisp("主人公","......");
 ChEye(2,4);
 ChMouth(2,4);

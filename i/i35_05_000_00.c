@@ -50,7 +50,7 @@ time.");
     ChMotion(5,4);
     VoicePlay("I350500000_05_050");
     MsgDisp("Hiiragi","I am thankful for it.
-It means that the theatre troupe is doing
+It means that the theater troupe is doing
 well.");
     ChMotion(5,0);
     VoicePlay("I350500000_05_060");

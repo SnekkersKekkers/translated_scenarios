@@ -80,7 +80,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q100200000_02_090");
 MsgDisp("Sassa","Me too.
-But each shop has different flavours, so
+But each shop has different flavors, so
 what's your plan?");
 MsgDisp("主人公","Hmm, I can't decide...");
 ChEye(2,0);

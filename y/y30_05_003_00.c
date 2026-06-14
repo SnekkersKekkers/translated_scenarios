@@ -13,7 +13,7 @@ MsgClose();
 ScrFadeOut(0);
 MsgDisp("","Those two were the first precious
 members I welcomed into the Habataki
-Theatre Troupe.");
+Theater Troupe.");
 MsgDisp("","I can picture the time they came to
 my dressing room to greet me even
 now.");
@@ -36,7 +36,7 @@ ScrFadeOut(0);
 BGOpen("ad530",0);
 ScrFadeIn(0);
 MsgDisp("","I even ended up making those two say
-that they don't enjoy theatre today.");
+that they don't enjoy theater today.");
 VoicePlay("Y300500300_05_020");
 MsgDisp("Hiiragi","\"What kind of chairman am I...\"");
 MsgDisp("","What I've been doing isn't letting
@@ -48,7 +48,7 @@ I'm the worst.");
 MsgClear();
 VoicePlay("Y300500300_05_030");
 MsgDisp("Hiiragi","(...I can't go home. I can't face
-everyone at the theatre troupe.)");
+everyone at the theater troupe.)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -64,7 +64,7 @@ presentable. That's the real me.");
 MsgClear();
 MsgDisp("主人公","\"No, ｛Hiiragi＊＊＊｝ always gives it
 his best for everyone in both the
-theatre troupe and student council.\"");
+theater troupe and student council.\"");
 MsgDisp("","Even when you see me like this, you
 still say that.");
 MsgClear();

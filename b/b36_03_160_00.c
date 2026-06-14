@@ -44,7 +44,7 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("B360316000_03_050");
 MsgDisp("Honda","Oh, it's not that I felt excluded or
-anything! Ryou-kun and Mi-kun are really nice
+anything! Ryo-kun and Mi-kun are really nice
 and would never do that!");
 ChEye(3,0);
 ChMouth(3,4);

@@ -13,8 +13,8 @@ SEWait();
 ChMouth(1,3);
 VoicePlay("D120B00000_01_000");
 MsgDisp("Kazama","...Ah.
-For this Habatcher entry, are we doing a
-special feature on Nanatsumori?");
+This issue of Habatcher is running a special
+feature on Nanatsumori.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,4,1);

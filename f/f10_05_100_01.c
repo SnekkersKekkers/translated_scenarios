@@ -57,7 +57,7 @@ VoicePlay("F100510001_05_040");
 MsgDisp("Hiiragi","It is embarrassing, however, I wasn't able to
 attend school very often, especially in my
 third year of middle school.");
-MsgDisp("主人公","That was before the theatre troupe came to
+MsgDisp("主人公","That was before the theater troupe came to
 Habataki City, right?");
 ChEye(5,4);
 ChMouth(5,4);

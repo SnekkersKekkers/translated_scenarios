@@ -98,7 +98,7 @@ I'm happy that you came to watch.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P730500000_05_090");
-    MsgDisp("Hiiragi","It's the same when I'm at theatre troupe.
+    MsgDisp("Hiiragi","It's the same when I'm at theater troupe.
 I'm happiest when people come to watch.");
     VoicePlay("P730500000_05_100");
     MsgDisp("Hiiragi","Just remember that happy feeling, an forget

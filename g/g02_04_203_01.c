@@ -52,8 +52,8 @@ ChMouth(4,4);
 ChEyeOpenLevel(4,0);
 VoicePlay("G020420301_04_070");
 MsgDisp("Nanatsumori","I'll just endure this.
-If I get overwhelmed, I'll pretend it's a
-act...");
+If I get swept up, I'm just a cheap
+playboy...");
 ChEyeOpenLevel(4,#1);
 MsgDisp("主人公","｛Nanatsumori＊｝, are you okay?");
 ChEye(4,4);

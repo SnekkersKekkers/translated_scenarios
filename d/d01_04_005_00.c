@@ -94,7 +94,7 @@ StlEye(4,0);
 StlMouth(4,2);
 VoicePlay("D010400500_04_030");
 MsgDisp("Nanatsumori","No, no.
-You know, I'm very...");
+Someone like me, no way...");
 MsgDisp("主人公","(Hehe!)");
 MsgClose();
 ScrFadeOut(0);

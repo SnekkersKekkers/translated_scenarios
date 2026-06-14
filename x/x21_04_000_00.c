@@ -29,8 +29,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ChEyeOpenLevel(4,9);
 VoicePlay("X210400000_04_040");
-MsgDisp("Nanatsumori","I felt myself thinking \"I would so anything
-for his person.\"");
+MsgDisp("Nanatsumori","I felt myself thinking, \"I'd do anything
+for this person.\"");
 MsgDisp("主人公","That's...");
 ChEyeOpenLevel(4,#1);
 VoiceEVSPlay(4);

@@ -31,7 +31,7 @@ MsgDisp("Moderator","Honda-kun, congrats!
 How are you feeling?");
 StlEye(3,1);
 VoicePlay("D010300700_03_000");
-MsgDisp("Honda","Yeah, this is the best!");
+MsgDisp("Honda","Yepyep, this is the best!");
 StlEye(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300700_03_010");
@@ -93,7 +93,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D010300700_03_050");
-MsgDisp("Honda","I actually got crowned the Quiz King today.");
+MsgDisp("Honda","Rightright, I actually got crowned the Quiz King today.");
 MsgDisp("主人公","I saw it on TV!
 Congratulations, you were amazing.");
 ChEye(3,0);

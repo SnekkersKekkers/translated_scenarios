@@ -64,7 +64,7 @@ band.");
         ChMotion(3,1);
         VoicePlay("B040314002_03_050");
         MsgDisp("Honda","Right right. My sister played the piano, my
-mum the guitar, my dad played the bass, and
+mom the guitar, my dad played the bass, and
 I, was on the drums.");
         MsgDisp("主人公","Ehhh, seems fun!");
         ChEye(3,0);

@@ -23,7 +23,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200014_02_020");
-MsgDisp("Sassa","I see, so you're grateful for your uniform.
+MsgDisp("Sassa","I see, I'm grateful to my uniform too.
 In my case, I guess I'm grateful for training
 clothes?");
 MsgDisp("主人公","Yeah, because you wear them more often?");

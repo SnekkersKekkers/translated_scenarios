@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040419100_04_000");
     MsgDisp("Nanatsumori","I was so moved...
-It made me realise the importance of life.
+It made me realize the importance of life.
 It was a great movie.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

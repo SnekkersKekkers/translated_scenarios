@@ -38,7 +38,7 @@ You should look at the scenery.");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("B040301101_03_030");
-    MsgDisp("Honda","Mhm, looking at it again this way, I think so
+    MsgDisp("Honda","Yepyep, looking at it again this way, I think so
 too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

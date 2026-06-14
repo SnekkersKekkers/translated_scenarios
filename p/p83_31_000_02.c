@@ -23,7 +23,7 @@ MsgDisp("Goro","Right. Hey, you're a third year student,
 so you must know of all the best places.
 Only focusing on the highlights, could you
 show me around?");
-MsgDisp("主人公","Yes, I'll do it whilst patrolling the
+MsgDisp("主人公","Yes, I'll do it while patrolling the
 exhibits, but I can show you around!");
 MsgClose();
 ScrFadeOut(0);

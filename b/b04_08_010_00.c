@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040801000_08_010");
     MsgDisp("Shirahane","Hehe!
 If it's you, I think ya can pull off
-anythin', but this is my favourite.");
+anythin', but this is my favorite.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

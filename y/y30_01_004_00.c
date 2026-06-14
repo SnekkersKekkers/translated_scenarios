@@ -10,8 +10,8 @@ MsgDisp("Kazama","\"...Why?\"");
 BGOpen("ad141",0);
 VoicePlay("Y300100400_03_000");
 MsgDisp("Honda","\"Yep yep.
-That's good, Ryo-kun.
-You're doubting me right?\"");
+Nice, Ryo-kun.
+So a question popped into your head?\"");
 MsgClear();
 MsgDisp("","After school, when I listen to Honda
 talk, in the blink of an eye it's

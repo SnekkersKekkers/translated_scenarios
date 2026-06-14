@@ -33,7 +33,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140A04100_06_020");
 MsgDisp("Himuro","That's difficult to explain.
-I guess I should be more specific.");
+He should've told me more specifically what to keep quiet about.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

@@ -51,7 +51,7 @@ ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300500_03_040");
 MsgDisp("Honda","Eh, really?
-DO you want a signature too?");
+Do you want a signature too?");
 MsgDisp("主人公","(｛Honda＊＊｝,you don't seem too opposed to
 the idea?)");
 BGMStop();

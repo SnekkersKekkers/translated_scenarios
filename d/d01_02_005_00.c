@@ -49,8 +49,8 @@ MsgDisp("Manager","Didn't he set a record in the previous high
 jump?
 That's why he doesn't have any energy left.");
 VoicePlay("D010200500_40_020");
-MsgDisp("Manager","Well, the overall winner is still yet to be
-decided.");
+MsgDisp("Manager","Well, the overall win is already locked in,
+so relax.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 MsgClose();
 ScrFadeOut(0);

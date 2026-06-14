@@ -2,7 +2,7 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,4,0,#1,#1,0,0);
 VoicePlay("G020330001_03_000");
-MsgDisp("Honda","I probably should've told Ryou-kun and Mi-kun
+MsgDisp("Honda","I probably should've told Ryo-kun and Mi-kun
 about coming here.");
 ChEye(3,0);
 ChMouth(3,3);

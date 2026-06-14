@@ -11,9 +11,8 @@ StlOpen("ev_02_20");
 ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040211000_02_000");
-MsgDisp("Sassa","My feelings are at the centre of my heart;
-it belongs to you. It's a place no one
-else can enter, it's only for you.");
+MsgDisp("Sassa","The very center of my heart belongs to you.
+It's a place no one else can enter—a place that's only yours.");
 MsgClose();
 ScrFadeOut(0,0,300);
 StlClose();

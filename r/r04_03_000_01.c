@@ -78,7 +78,7 @@ are sparkling.");
     ChMotion(3,1,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("R040300001_03_090");
-    MsgDisp("Honda","I'm serious.
+    MsgDisp("Honda","Yepyep.
 Your modesty is the main factor why!");
     ChEye(3,0);
     ChMouth(3,4);

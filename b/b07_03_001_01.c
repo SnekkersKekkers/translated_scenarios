@@ -5,7 +5,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_010");
 MsgDisp("Honda","Yeah!
-Ryota-kun's family deals in a lot of
+Ryo-kun's family deals in a lot of
 antiques, right?");
 ChMotion(3,4);
 VoicePlay("B070300001_03_020");
@@ -44,13 +44,13 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300001_03_070");
-MsgDisp("Honda","Mm, it's even better when you respond like
+MsgDisp("Honda","Yepyep, it's even better when you respond like
 that!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B070300001_03_080");
-MsgDisp("Honda","I'd like to learn a bit more from Ryota-kun
+MsgDisp("Honda","I'd like to learn a bit more from Ryo-kun
 but I'm not sure if I can?");
 MsgDisp("主人公","(｛Honda＊＊｝ seems to idolize
 ｛Kazama＊＊｝...!)");

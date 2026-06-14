@@ -7,7 +7,7 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020540002_05_010");
 MsgDisp("Hiiragi","It's mysterious.
-There are also rumours about inner voices,
+There are also rumors about inner voices,
 just how many secrets are there...");
 MsgDisp("主人公","Could it be due to the benefits of the spring
 water?");

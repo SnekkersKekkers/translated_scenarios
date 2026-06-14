@@ -13,7 +13,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,255,0,0,4,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080200003_02_010");
-    MsgDisp("Sassa","I'm going with Michiru-san huh.
+    MsgDisp("Sassa","I'm going with Michiru-san, huh.
 Got it.");
     break ;
     case 4:

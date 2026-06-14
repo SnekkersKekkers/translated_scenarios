@@ -26,7 +26,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B070300001_03_250");
 MsgDisp("Honda","Most of the time, I'm the one talking.
-Ryou-kun occasionally makes a few quips, but
+Ryo-kun occasionally makes a few quips, but
 Mi-kun seems pretty indifferent.");
 ChEye(3,0);
 ChMouth(3,3);

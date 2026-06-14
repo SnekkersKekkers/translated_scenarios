@@ -56,7 +56,7 @@ My advice was not needed.
 Look, this is a vital scene.");
 VoicePlay("P240501000_40_020");
 MsgDisp("Castle Lord","There are many in the castle who do not think
-favourably of me.");
+favorably of me.");
 VoicePlay("P240501000_47_010");
 MsgDisp("Town girl","But you...
 Aren't you the castle lord?");

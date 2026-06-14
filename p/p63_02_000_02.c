@@ -63,9 +63,9 @@ Gardening Club...)");
     VoicePlay("P630200002_02_040");
     MsgDisp("Sassa","｛主人公｝, I heard that the Horticulture
 club was impressive this year, but it's more
-than the rumours say.");
+than the rumors say.");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝, thank you.
-Everyone gav eit their best.
+Everyone gave it their best.
 It's a wonderful shop, huh?");
     ChEye(2,0);
     ChMouth(2,4);

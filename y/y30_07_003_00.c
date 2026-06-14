@@ -4,7 +4,7 @@ BGOpen("ad730",0);
 ScrFadeIn(0);
 VoicePlay("Y300700300_07_000");
 MsgDisp("Mikage","\"I'll plant it here. I wonder what
-colour the tulip will bloom into. I'm
+color the tulip will bloom into. I'm
 looking forward to it.\"");
 MsgDisp("","The Gardening Club's farming corner.
 We planted Nagasaki's specialty bulb.");

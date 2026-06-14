@@ -15,7 +15,7 @@ depending on the light. It's called
 firefly light.");
 ChMotion(3,4);
 VoicePlay("G020330000_03_020");
-MsgDisp("Honda","I saw it at Ryou-kun's place the other day.
+MsgDisp("Honda","I saw it at Ryo-kun's place the other day.
 It was really beautiful.");
 MsgDisp("主人公","｛Honda＊＊｝ knows about pottery too?");
 ChEye(3,3);
@@ -24,13 +24,13 @@ ChMotion(3,5);
 VoicePlay("G020330000_03_030");
 MsgDisp("Honda","Not at all!
 When it comes to art and antiques, I can't
-compare to Ryo.");
+compare to Ryo-kun.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("G020330000_03_040");
-MsgDisp("Honda","Mii was there that day too, and I bombarded
-Ryo with questions.
+MsgDisp("Honda","Mi-kun was there that day too, and I bombarded
+Ryo-kun with questions.
 But they both stayed patient until the end.");
 ChEye(3,0);
 ChMouth(3,3);

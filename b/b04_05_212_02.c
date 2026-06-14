@@ -79,7 +79,7 @@ business.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040521202_05_080");
-        MsgDisp("Hiiragi","Now I perform as part of a citizens' theatre
+        MsgDisp("Hiiragi","Now I perform as part of a citizens' theater
 troupe. There's no need for a t-shirt with my
 face on it, right?");
         MsgDisp("主人公","...That's right...");

@@ -80,7 +80,7 @@ the two of us.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040305102_03_070");
-    MsgDisp("Honda","Yeah, I'll explain everything!");
+    MsgDisp("Honda","Yepyep, I'll explain everything!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

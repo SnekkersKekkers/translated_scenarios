@@ -6,7 +6,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040703301_07_000");
-MsgDisp("Mikage","This is the world 200 metres underwater.");
+MsgDisp("Mikage","This is the world 200 meters underwater.");
 MsgSel("Yes, the water pressure here is 20 atmospheres","This is basement floor one, though?","Is it really that deep here∋");
 switch (MsgSelRsltGet()){
     case 0:

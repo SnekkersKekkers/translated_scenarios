@@ -29,7 +29,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240500000_05_010");
 MsgDisp("Hiiragi","There are many in the castle who do not think
-favourably of me.");
+favorably of me.");
 MsgDisp("主人公","But you...
 Aren't you the castle lord?");
 ChEye(5,1);
@@ -148,7 +148,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P240500000_05_140");
 MsgDisp("Hiiragi","It's like my relationship with both the
-theatre troupe, and you. I realized that
+theater troupe, and you. I realized that
 thanks to you and everyone else.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 SEPlay("EV_SE_FOOT_WALK_COME_TWO",0,0.6);

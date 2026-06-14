@@ -142,7 +142,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_140");
-MsgDisp("Honda","Yeah.
+MsgDisp("Honda","Yepyep.
 It's someone who focuses on field research
 and studies everything that exists in nature.");
 MsgDisp("主人公","Wow!

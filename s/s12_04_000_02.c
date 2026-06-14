@@ -71,9 +71,8 @@ We finished praying.");
     ChMouth(4,1);
     ChMotion(4,2,1);
     VoicePlay("S120400002_04_060");
-    MsgDisp("Nanatsumori","It's a waste to just go home already, it's
-not enough-");
-    MsgDisp("主人公","Not enough?");
+    MsgDisp("Nanatsumori","Just heading home now would be a waste.");
+    MsgDisp("主人公","A waste?");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,1,1);

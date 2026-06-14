@@ -41,7 +41,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 MsgDisp("Shirahane","When my heart grows up, I'm sure I'll be
-able to meet you again whilst laughing.");
+able to meet you again while laughing.");
 VoicePlay("T020801000_08_420");
 ChEye(8,4);
 ChMouth(8,0);

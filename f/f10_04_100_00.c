@@ -43,7 +43,7 @@ ChClose(4,0,30);
 MsgClose();
 VoicePlay("F100410000_04_030");
 MsgDisp("Nanatsumori","I did it again...
-That's no good.");
+Whoops.");
 MsgDisp("主人公","(I'm glad.
 He said \"again\", though...)");
 MsgClose();

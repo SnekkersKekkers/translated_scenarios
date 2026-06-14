@@ -48,7 +48,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700002_07_050");
-MsgDisp("Mikage","Sometimes rumours contain a grain of truth.
+MsgDisp("Mikage","Sometimes rumors contain a grain of truth.
 Maybe something similar to that story did
 happen?");
 MsgDisp("主人公","Vice Principal Himuro's love story...

@@ -44,7 +44,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("D150001301_03_030");
-MsgDisp("Honda","Thanks, Ryou-kun.
+MsgDisp("Honda","Thanks, Ryo-kun.
 Okay, so today's topic is kind of a long one.");
 ChEye(1,2);
 ChMouth(1,2);

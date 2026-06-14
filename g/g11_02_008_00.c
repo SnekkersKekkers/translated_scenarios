@@ -32,8 +32,8 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200800_02_030");
 MsgDisp("Sassa","Yeah.
-I was able to beat 4 of the records I signed
-up to compete in.");
+My times were good, but I also took first in
+all 4 events I registered for.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

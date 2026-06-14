@@ -63,7 +63,7 @@ But, it feels nice to see something clean.");
 things in this world that don't get tidied
 up.");
         MsgDisp("主人公","｛Hiiragi＊＊＊｝, doing both school and the
-theatre company must be difficult...");
+theater company must be difficult...");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,3);

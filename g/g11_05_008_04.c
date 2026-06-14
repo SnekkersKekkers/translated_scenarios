@@ -69,7 +69,7 @@ recess paid off.");
 ChMotion(5,0);
 SEPlay("EV_SE_712");
 MsgDisp("主人公","Y-Yes. I think it's impressive....
-The theatre company, your studies, and the
+The theater company, your studies, and the
 student council too...");
 ChEye(5,1);
 ChMouth(5,0);

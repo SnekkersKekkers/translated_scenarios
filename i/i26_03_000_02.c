@@ -31,8 +31,8 @@ You were busy helping our customers, right,
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_240");
     MsgDisp("Honda","But, finding things to do and doing it on
-your own means you're getting used to your
-the job, right?");
+your own means you're getting used to the
+job, right?");
     MsgDisp("主人公","(I did it!
 I'm glad I could be of some help.)");
     break ;

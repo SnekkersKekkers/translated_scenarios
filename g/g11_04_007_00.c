@@ -31,7 +31,7 @@ ChNanaType(1);
 ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110400700_04_020");
-MsgDisp("Nanatsumori","Two pancakes and a cup of joe, please.");
+MsgDisp("Nanatsumori","Two hotcakes and a cup of hot coffee, please.");
 MsgDisp("主人公","Coming right up.");
 MsgClose();
 ScrFadeOut(0);
@@ -41,7 +41,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChMotion(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Thank you for waiting, here's two pancakes
+MsgDisp("主人公","Thank you for waiting, here's two hotcakes
 and your hot coffee.");
 SEPlay("EV_SE_001",0,0.5);
 SEWait();
@@ -49,13 +49,14 @@ SEPlay("EV_SE_827",0,0.6);
 SEWait();
 ChMouth(4,2);
 VoicePlay("G110400700_04_030");
-MsgDisp("Nanatsumori","...PEW!");
+MsgDisp("Nanatsumori","...Pfft!");
 ChMotion(4,1);
-MsgDisp("主人公","Huh, was something wrong with it?");
+MsgDisp("主人公","Huh, was something funny?");
 ChEye(4,2);
 VoicePlay("G110400700_04_040");
 MsgDisp("Nanatsumori","No...
-The hot coffee just burned my tongue.");
+It just hit me that both orders start with
+\"hot\"—hot coffee, hotcakes.");
 MsgDisp("主人公","Oh, really?
 Hehe!");
 ChMotion(4,2);

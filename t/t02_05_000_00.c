@@ -47,7 +47,7 @@ Wait(12,0);
 ChEye(5,4);
 ChMouth(5,0);
 VoicePlay("T020500000_05_040");
-MsgDisp("Hiiragi","In order to increase the theatre company's
+MsgDisp("Hiiragi","In order to increase the theater company's
 reason of existence, I would force the
 members to go through rigorous training.");
 ChEye(5,4);

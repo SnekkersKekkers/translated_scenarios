@@ -61,7 +61,7 @@ I'd feel exactly the same.");
 Each year I watch it with you, our bond grows
 stronger.");
         MsgDisp("主人公","I see, that's right.
-And also your relationship with the theatre
+And also your relationship with the theater
 troupe and people in the town....");
         ChEye(5,2);
         ChMouth(5,4);

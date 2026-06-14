@@ -12,7 +12,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C06100_07_000");
-MsgDisp("Mikage","Ah, someone related to the theatre company
+MsgDisp("Mikage","Ah, someone related to the theater company
 suddenly came. Apparently he'll return for
 afternoon classes.");
 MsgDisp("主人公","So that's how it is...");

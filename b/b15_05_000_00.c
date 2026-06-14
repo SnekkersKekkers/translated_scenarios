@@ -13,7 +13,7 @@ VoicePlay("B150500000_05_010");
 MsgDisp("Hiiragi","No, no.
 I just remembered something.");
 VoicePlay("B150500000_05_020");
-MsgDisp("Hiiragi","The cat we kept at the theatre troupe a long
+MsgDisp("Hiiragi","The cat we kept at the theater troupe a long
 time ago.");
 MsgDisp("主人公","Cat?");
 ChEye(5,4);

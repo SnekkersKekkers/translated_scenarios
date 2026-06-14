@@ -40,7 +40,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110101001_01_020");
 MsgDisp("Kazama","We were in the same class, lived in the
-same neighbourhood, and were super close,
+same neighborhood, and were super close,
 but on the contrary, it was difficult to
 find a good time to hold hands.");
 MsgDisp("主人公","Hehe, that might be true.");
@@ -78,7 +78,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110101001_01_090");
-MsgDisp("Kazama","Hey, let's hold hands whilst walking home.");
+MsgDisp("Kazama","Hey, let's hold hands while walking home.");
 MsgDisp("主人公","Y-Yeah....");
 MsgDisp("主人公","(So he wanted to hold hands after all...)");
 BGMStop();

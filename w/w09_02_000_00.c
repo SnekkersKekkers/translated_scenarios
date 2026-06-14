@@ -19,7 +19,7 @@ drop.");
     MsgClose();
     ChOpen(2,255,0,0,4,#1,#1,10,0);
     VoicePlay("W090200000_02_020");
-    MsgDisp("Sassa","Every part of my body is nervous.");
+    MsgDisp("Sassa","I'm nervous in all kinds of ways.");
     MsgDisp("主人公","I thought you liked roller coasters?");
     ChEye(2,0);
     ChMouth(2,4);

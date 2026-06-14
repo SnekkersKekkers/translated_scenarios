@@ -55,7 +55,7 @@ MsgDisp("Mikage","\"Oh, so you two decided this
 together?
 That's nice.\"");
 MsgClear();
-MsgDisp("","A theatre troupe chairman scholarship
+MsgDisp("","A theater troupe chairman scholarship
 student. The other, the nephew of a
 well-known teacher of the school.");
 MsgDisp("","They're different kinds of people,

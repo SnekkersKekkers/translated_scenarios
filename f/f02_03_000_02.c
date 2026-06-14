@@ -40,9 +40,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300002_03_040");
-MsgDisp("Honda","Mhm!
+MsgDisp("Honda","Yeah yeah!
 So I'm really excited about the legend you've
-got! What's it about??");
+got! What's it about?");
 MsgDisp("主人公","Um, so you know the stained glass in the
 church?
 I want to know—");

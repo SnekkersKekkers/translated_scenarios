@@ -44,7 +44,7 @@ MsgDisp("Hiiragi","I answered saying I think you like yakisoba.");
 ChEye(5,3);
 VoicePlay("B070500001_05_350");
 MsgDisp("Hiiragi","And to that, he responded \"You're talking
-about yourself\" with great vigour.");
+about yourself\" with great vigor.");
 MsgDisp("主人公","(Hehehe, seems fun.
 I'd like to hear their conversation one
 day...)");

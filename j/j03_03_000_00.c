@@ -15,7 +15,7 @@ I hope ｛日付｝ arrives fast!)");
     break ;
     case 3:
     VoicePlay("J030300000_03_020");
-    MsgDisp("Honda","Mm-hm, let's go!");
+    MsgDisp("Honda","Yeah yeah, let's go!");
     MsgDisp("主人公","Alright, then let's meet on ｛日付｝.
 I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_030");

@@ -8,7 +8,7 @@ Wait(50,0);
 MsgDisp("","The piercing sound of the camera's
 shutter continued.");
 SEStop("EV_SE_046",2);
-MsgDisp("","Today is my modelling company's
+MsgDisp("","Today is my modeling company's
 annual special photo shoot. The
 legendary high school model, Hazuki
 Kei.");

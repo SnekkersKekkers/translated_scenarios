@@ -74,7 +74,7 @@ ChMotion(4,3,1);
 VoicePlay("B330B30600_04_020");
 MsgDisp("Nanatsumori","Right.
 Thanks to that, we had a lot more fun.
-Thank you.");
+Thanks.");
 MsgDisp("主人公","(Even if you thank me...
 I don't think I laughed THAT much∋)");
 MsgClose();

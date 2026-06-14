@@ -36,7 +36,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300010_03_040");
-MsgDisp("Honda","Yep!
+MsgDisp("Honda","Yepyep!
 I'd have to verify the script's accuracy to
 the original work and to historical fact.");
 ChEye(3,0);

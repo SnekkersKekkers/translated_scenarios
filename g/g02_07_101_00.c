@@ -11,7 +11,7 @@ ChMotion(7,0);
 VoicePlay("G020710100_07_010");
 MsgDisp("Mikage","Maybe they reflect our feelings.");
 MsgDisp("主人公","Hehe, perhaps that's true.
-What colour does ｛Mikage＊＊｝ see the
+What color does ｛Mikage＊＊｝ see the
 most?");
 ChEye(7,4);
 ChMouth(7,3);

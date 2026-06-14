@@ -58,7 +58,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010320100_03_030");
-MsgDisp("Honda","Right?
+MsgDisp("Honda","Rightright!
 I'm happy for you, Mi-kun.");
 ChEye(4,0);
 ChMouth(4,0);

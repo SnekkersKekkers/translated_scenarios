@@ -31,7 +31,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D010400100_04_010");
 MsgDisp("Nanatsumori","Yeah.
-Thank you.");
+Thanks.");
 MsgDisp("主人公","Eh?");
 ChEye(4,0);
 ChMouth(4,3);

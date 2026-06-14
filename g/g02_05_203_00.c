@@ -48,7 +48,7 @@ ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("G020520300_05_070");
 MsgDisp("Hiiragi","If we're talking about Mikage-sensei...
-something like his grey work outfit.");
+something like his gray work outfit.");
 MsgDisp("主人公","(Hm?
 Just now, did I hear something about a work
 outfit...?)");

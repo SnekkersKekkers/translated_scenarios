@@ -40,7 +40,7 @@ ChMotion(3,5,1);
 VoicePlay("P840300005_03_030");
 MsgDisp("Honda","Ehh?
 The lost-and-found notebook going missing is
-like the biter being bit. It's funny.");
+like the hunter becoming the hunted. It's funny.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);

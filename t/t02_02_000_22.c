@@ -14,7 +14,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("T020200022_02_010");
-MsgDisp("Sassa","Really, I'm so happy");
+MsgDisp("Sassa","Really, I'm so happy!");
 MsgDisp("主人公","I was also happy to have had the
 opportunity to pursue my dream alongside
 ｛Sassa＊＊｝ for three years.");

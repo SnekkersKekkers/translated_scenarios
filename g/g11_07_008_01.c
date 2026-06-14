@@ -24,7 +24,7 @@ ChMotion(7,0);
 VoicePlay("G110700801_07_000");
 MsgDisp("Mikage","Oh, thank you.
 I also have no classes this afternoon, so
-maybe I'll have a rest whilst looking at it?");
+maybe I'll have a rest while looking at it?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

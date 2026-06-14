@@ -93,7 +93,7 @@ ChMotion(7,0);
 VoicePlay("D140C03200_07_040");
 MsgDisp("Mikage","Oh, yes. Some secret promotion. Apparently
 they want to make it a catchphrase that
-\"It's secretly popular amongst high school
+\"It's secretly popular among high school
 students\".");
 ChEye(6,0);
 ChMouth(6,0);

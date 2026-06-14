@@ -7,7 +7,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B040130002_01_000");
-MsgDisp("Kazama","It feels like we've travelled back in time,
+MsgDisp("Kazama","It feels like we've traveled back in time,
 right? Nothing has changed about this room
 after all.");
 MsgSel("This doesn't feel like an elementary schooler's room.","I think I remember that hat","Ryota is written next to that desk, right?");

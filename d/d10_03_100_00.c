@@ -21,7 +21,7 @@ VoicePlay("D100310000_03_020");
 MsgDisp("Honda","It smelled good. There were a bunch of yellow
 roses blooming and you and I were side by
 side, looking at them.");
-MsgDisp("主人公","Eh, that sounds wonderful...");
+MsgDisp("主人公","Ooh, that sounds wonderful...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -27,7 +27,7 @@ MsgDisp("Hiiragi","...Y-Yes.
 Ah, I'm sorry.
 I ate here first.");
 MsgDisp("主人公","Ah, is that right.
-Whilst working?");
+While working?");
 SEPlay("EV_SE_712");
 ChEye(5,0);
 ChMouth(5,1);
@@ -82,7 +82,7 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500803_05_050");
-MsgDisp("Hiiragi","Eating whilst doing something else was really
+MsgDisp("Hiiragi","Eating while doing something else was really
 bad manners.");
 MsgDisp("主人公","The full-score anpan is delicious isn't it?");
 ChEye(5,1);

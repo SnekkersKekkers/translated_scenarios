@@ -21,7 +21,7 @@ StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5);
 VoicePlay("D010300400_03_020");
-MsgDisp("Honda","Right? Aren't swallowtail butterflies
+MsgDisp("Honda","Yepyep. Aren't swallowtail butterflies
 beautiful? When you close your eyes, you can
 even hear how happy they are.");
 VoicePlay("D010300400_03_030");

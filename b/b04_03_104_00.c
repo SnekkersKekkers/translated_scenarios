@@ -43,7 +43,7 @@ than us.");
     ChMotion(3,3);
     VoicePlay("B040310400_03_030");
     MsgDisp("Honda","Yep yep, fine.
-Then let's start with the travelling
+Then let's start with the traveling
 butterfly— the chestnut tiger butterfly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
