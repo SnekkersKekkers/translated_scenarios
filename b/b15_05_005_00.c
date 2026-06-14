@@ -53,7 +53,7 @@ ChMotion(5,4);
 VoicePlay("B150500500_05_070");
 MsgDisp("Hiiragi","Even if you end up in tears from my
 counterattack, I won't stop...
-Heh, this is going to be fun, isn't it?");
+Hehe, this is going to be fun, isn't it?");
 ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);

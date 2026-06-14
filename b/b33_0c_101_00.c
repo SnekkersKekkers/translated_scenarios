@@ -85,7 +85,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10100_05_060");
-MsgDisp("Hiiragi","Heheh, thank you.");
+MsgDisp("Hiiragi","Hehe, thank you.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);

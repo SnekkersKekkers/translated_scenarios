@@ -66,7 +66,7 @@ MsgDisp("主人公","Only half.
 I won't give you all of it, okay?");
 StlMouth(5,1);
 VoicePlay("D010500100_05_050");
-MsgDisp("Hiiragi","Haha, thank you...");
+MsgDisp("Hiiragi","Hehe, thank you...");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, why don't you eat properly?");
 StlEye(5,1);
 StlMouth(5,0);
@@ -80,7 +80,7 @@ You have to eat before you work.");
 StlEyeOpenLevel(5,5);
 StlMouth(5,1);
 VoicePlay("D010500100_05_070");
-MsgDisp("Hiiragi","Haha, yes ma'am.
+MsgDisp("Hiiragi","Hehe, yes ma'am.
 You sound like a mother, you know?");
 MsgDisp("主人公","Eh?");
 StlEyeOpenLevel(5,0);

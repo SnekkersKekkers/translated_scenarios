@@ -85,7 +85,7 @@ right?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040502202_05_090");
-        MsgDisp("Hiiragi","Now I'm able to attend Haba High full-time.
+        MsgDisp("Hiiragi","Now I'm able to attend Habataki High full-time.
 There's nothing that makes me happier.");
         ChMotion(5,4);
         VoicePlay("B040502202_05_100");

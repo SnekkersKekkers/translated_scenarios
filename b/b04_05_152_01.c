@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040515201_05_010");
-    MsgDisp("Hiiragi","Heheh, nice rhythm.
+    MsgDisp("Hiiragi","Hehe, nice rhythm.
 More than anything, having fun is what
 matters most.");
     MsgDispSksp(1,0);

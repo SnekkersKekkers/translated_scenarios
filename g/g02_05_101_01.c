@@ -15,13 +15,13 @@ MsgDisp("主人公","Eh?");
 ChEye(5,3);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020510101_05_020");
-MsgDisp("Hiiragi","Heheh.
+MsgDisp("Hiiragi","Hehe.
 I like that expression of yours.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020510101_05_030");
 MsgDisp("Hiiragi","Speaking of having something to oneself...
-You're not just mine either?");
+You aren't entirely mine yet, either.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...?");
 ChEye(5,4);
 VoicePlay("G020510101_05_040");

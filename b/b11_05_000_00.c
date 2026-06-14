@@ -94,5 +94,5 @@ It might've even been a bit funny.");
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B110500000_05_050");
-MsgDisp("Hiiragi","Heheh, you really are something.
+MsgDisp("Hiiragi","Hehe, you really are something.
 Then, let's collect ourselves and go.");

@@ -72,8 +72,8 @@ I'm having fun simply watching this shop.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("I150500000_05_080");
-    MsgDisp("Hiiragi","Ah, but this may put a damper on the mood of
-the store.");
+    MsgDisp("Hiiragi","Ah, but this makes me little more than a
+window-shopper.");
     MsgDisp("主人公","Not at all, take your time looking around.");
     ChEye(5,3);
     ChMotion(5,0);
@@ -113,7 +113,7 @@ suddenly came to my mind, and-");
     MsgDisp("主人公","Um...");
     ChEye(5,3);
     VoicePlay("I150500000_05_140");
-    MsgDisp("Hiiragi","Heheh, if you think about it, I suppose you
+    MsgDisp("Hiiragi","Hehe, if you think about it, I suppose you
 were the thing I was searching for?");
     MsgDisp("主人公","Huh!?");
     ChEye(5,0);

@@ -32,7 +32,7 @@ I wonder if it would be impossible for me.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040512101_05_020");
-    MsgDisp("Hiiragi","Heheheh, you noticed right away.
+    MsgDisp("Hiiragi","Hehe, you noticed right away.
 That is the sharp aroma of sauce.
 It's yakisoba isn't it.");
     MsgDispSksp(1,0);

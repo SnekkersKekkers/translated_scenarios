@@ -83,7 +83,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D130C00100_05_030");
-MsgDisp("Hiiragi","Heheh, I have no objections.");
+MsgDisp("Hiiragi","Hehe, I have no objections.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

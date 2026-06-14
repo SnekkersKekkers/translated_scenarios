@@ -22,7 +22,7 @@ MsgDisp("主人公","Ugh...");
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B150500100_05_030");
-MsgDisp("Hiiragi","Heheh, haha.");
+MsgDisp("Hiiragi","Hehe, haha.");
 MsgDisp("主人公","...Ah, could it be that you were pretending
 to be angry, ｛Hiiragi＊＊＊｝?");
 ChEye(5,3);

@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     case 1:
     case 2:
     VoicePlay("I450500000_05_000");
-    MsgDisp("Hiiragi?","Excuse me, madam.");
+    MsgDisp("Hiiragi?","Excuse me, is anyone here?");
     MsgDisp("主人公","Yes!");
     MsgClose();
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);

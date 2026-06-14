@@ -37,7 +37,7 @@ materials...");
     ChMotion(5,0);
     VoicePlay("P830500001_05_010");
     MsgDisp("Hiiragi","Understood.
-I'll make sure to make a note of that.");
+I'll check the notebook for how much is left.");
     MsgDisp("主人公","Yeah, thank you!");
     MsgClose();
     ScrFadeOut(0,0);

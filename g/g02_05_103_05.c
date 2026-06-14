@@ -10,7 +10,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("G020510305_05_010");
-MsgDisp("Hiiragi","You used to be unfond of these kinds of
+MsgDisp("Hiiragi","You never used to care for these kinds of
 stories...
 But beautiful things are fleeting.");
 MsgDisp("主人公","Y-Yeah.");

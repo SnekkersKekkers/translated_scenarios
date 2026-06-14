@@ -31,8 +31,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,12);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500300_05_000");
-MsgDisp("Hiiragi","I can't close the distance between this table
-and computer.");
+MsgDisp("Hiiragi","As long as this table and computer are between us,
+I can't close the distance.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);

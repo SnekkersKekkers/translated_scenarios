@@ -34,7 +34,7 @@ I want you to look carefully.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P530500002_05_020");
-    MsgDisp("Hiiragi","Heheh, pardon me.
+    MsgDisp("Hiiragi","Hehe, pardon me.
 That's right, isn't it?");
     ChEye(5,0);
     ChMouth(5,4);
@@ -82,7 +82,7 @@ Thank you for coming.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("P530500002_05_060");
-    MsgDisp("Hiiragi","Heheh.
+    MsgDisp("Hiiragi","Hehe.
 I seem to be more tense than you, who is
 performing on stage.");
     MsgDisp("主人公","Eh?");

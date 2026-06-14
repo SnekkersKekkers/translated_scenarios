@@ -34,7 +34,7 @@ Shouldn't we swim first?");
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040511002_05_020");
-        MsgDisp("Hiiragi","Heheh, so suddenly?
+        MsgDisp("Hiiragi","Hehe, so suddenly?
 I don't know what you came here for.");
         MsgDisp("主人公","But, it's empty now.
 Looks like we've got it all to ourselves.");

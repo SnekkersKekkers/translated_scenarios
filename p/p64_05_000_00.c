@@ -24,7 +24,7 @@ MsgDisp("Hiiragi","Seems like it, yes.
 Thanks to this, it seems like I'll sleep
 soundly today.");
 MsgDisp("主人公","(Seems like ｛Hiiragi＊＊＊｝ liked it!
-Yay, it wa s huge success∈)");
+Yay, it was a huge success∈)");
 MsgClose();
 BGMStop();
 MsgClose();

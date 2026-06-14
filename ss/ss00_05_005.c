@@ -4,5 +4,5 @@ ChMotion(5,0);
 ChCheek(5,0);
 MsgDispHide();
 VoicePlay("SS0005005_05_000");
-MsgDisp("Hiiragi","Aha, what's wrong?");
+MsgDisp("Hiiragi","Hehe, what's wrong?");
 MsgClose();

@@ -10,8 +10,8 @@ switch (ChPrmGet(5,6)){
     case 3:
     ScrFadeIn(0);
     MsgDisp("主人公","(Seems like our attraction 'Find Molly in the
-giant maze' is attracting a lot of attention
-more and more people are gathering...)");
+giant maze' is attracting a lot of attention.
+More and more people are gathering...)");
     MsgClose();
     ChOpen(5,254,3,3,2,#1,#1,0,0);
     VoicePlay("P130500000_05_000");
@@ -24,7 +24,7 @@ As expected of Mikage-sensei...");
     VoicePlay("P130500000_05_010");
     MsgDisp("Hiiragi","Yes, I felt as if I were drawn in.
 What is this?");
-    MsgDisp("主人公","A giant maze If you can reach the end goal,
+    MsgDisp("主人公","A giant maze. If you can reach the end goal,
 you get to drink freshly squeezed milk?");
     ChEye(5,2);
     ChMouth(5,4);

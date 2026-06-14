@@ -35,7 +35,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("P640500005_05_040");
 MsgDisp("Hiiragi","It is also because of that, that I thought
-the preparation in the end was dissapointing.");
+the final dish was disappointing.");
 MsgDisp("主人公","(Hmmm, I should have tried harder researching
 preparation methods...
 I failed in the end.)");

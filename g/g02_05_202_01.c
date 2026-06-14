@@ -25,7 +25,7 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020520201_05_030");
 MsgDisp("Hiiragi","Therefore, I understand your feelings.
-Thus, I cannot see a story in which I able to
+Thus, I cannot see a story in which I'm able to
 turn things around.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_040");

@@ -27,7 +27,7 @@ Now, will you give me your hand?");
     DateRateSet(3);
     ChEye(5,3);
     VoicePlay("B040511102_05_020");
-    MsgDisp("Hiiragi","Haha.
+    MsgDisp("Hiiragi","Hehe.
 I'd say we've reached that level.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

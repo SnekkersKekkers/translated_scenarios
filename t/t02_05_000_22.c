@@ -24,7 +24,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020500022_05_020");
-MsgDisp("Hiiragi","Haha.
+MsgDisp("Hiiragi","Hehe.
 You always seem to enjoy having me wrapped
 around your finger.");
 MsgDisp("主人公","Is ｛Hiiragi＊＊＊｝ having fun too?");

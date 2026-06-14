@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150500000_05_000");
-MsgDisp("Hiiragi","...Heheh.");
+MsgDisp("Hiiragi","...Hehe.");
 MsgDisp("主人公","Umm...
 Did I do something strange?");
 ChEye(5,0);

@@ -30,7 +30,7 @@ VoicePlay("F020500008_05_030");
 MsgDisp("Hiiragi","It is not just the play.
 I will be setting up the lighting for class
 exhibitions and managing the food carts.");
-MsgDisp("主人公","Haha, ｛Hiiragi＊＊＊｝, you look excited.");
+MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, you look excited.");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);

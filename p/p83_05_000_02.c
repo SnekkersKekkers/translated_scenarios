@@ -37,7 +37,7 @@ Welcome back!");
     VoicePlay("P830500002_05_020");
     MsgDisp("Hiiragi","This is the last time we'll get to manage the
 school festival.
-I want smile that's befitting of you.");
+I want to see a smile that's befitting of you.");
     MsgDisp("主人公","(I see, that's right...
 I have to leave room to enjoy myself too!)");
     MsgClose();

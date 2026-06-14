@@ -18,7 +18,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P740500005_05_010");
 MsgDisp("Hiiragi","Phew...that looked dangerous.
-I couldn't bare to watch.");
+I couldn't bear to watch.");
 MsgDisp("主人公","Yeah, my walk was completely terrible...");
 ChEye(5,2);
 ChMouth(5,4);

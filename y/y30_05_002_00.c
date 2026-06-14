@@ -69,7 +69,7 @@ Maybe it's thanks to her delicious
 chicken?\"");
 SEPlay("EV_SE_018");
 MsgDisp("","(*Growl*～)");
-MsgDisp("","...Heheh, my body is honest.
+MsgDisp("","...Hehe, my body is honest.
 Her bento was really delicious.");
 MsgClear();
 MsgDisp("","Alright, ten more minutes!

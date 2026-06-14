@@ -122,8 +122,8 @@ since I was a child is my other half.");
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,2);
 VoicePlay("R080500000_05_140");
-MsgDisp("Hiiragi","As the guardian light of thou, my soul
-belongs for eternity to only thou.");
+MsgDisp("Hiiragi","I am the light that guards and guides you;
+my soul is yours for all eternity.");
 SEPlay("EV_SE_741",0.5,0.7);
 SEPlay("EV_SE_842",0,0.3);
 VoicePlay("R080500000_39_030");

@@ -14,7 +14,7 @@ ChMouth(5,2);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("P840500001_05_010");
-MsgDisp("Hiiragi","I see. then it's inevitable they would take
+MsgDisp("Hiiragi","I see. Then it's inevitable they would take
 offense to that.");
 MsgDisp("主人公","Eh?
 What's wrong?");

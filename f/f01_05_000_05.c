@@ -37,7 +37,7 @@ cafe.");
     ChMotion(5,3);
     VoicePlay("F010500005_05_040");
     MsgDisp("Hiiragi","Let us eat until our stomachs get bloated.");
-    MsgDisp("主人公","Haha!
+    MsgDisp("主人公","Hehe!
 Let's go.");
     break ;
     default :

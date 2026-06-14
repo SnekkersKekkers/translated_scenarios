@@ -11,7 +11,7 @@ switch (ChPrmGet(5,6)){
     BGOpen("sc740",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(It's almost time to perform Haa, I'm so
+    MsgDisp("主人公","(It's almost time to perform. Ahh, I'm so
 anxious...)");
     MsgClose();
     SEPlay("EV_SE_544");

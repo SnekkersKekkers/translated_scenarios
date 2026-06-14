@@ -34,7 +34,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("G020520001_05_050");
-MsgDisp("Hiiragi","Heheh, I can tell it's not a no.
+MsgDisp("Hiiragi","Hehe, I can tell it's not a no.
 Now it's up to me.");
 MsgDisp("主人公","(Today ｛Hiiragi＊＊＊｝ seems different to how he
 is usually... What did he mean by getting the

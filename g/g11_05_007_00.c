@@ -21,7 +21,7 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 Wait(30,0);
 VoicePlay("G110500700_05_010");
-MsgDisp("Hiiragi","Haha, hasn't this happened before?");
+MsgDisp("Hiiragi","Hehe, hasn't this happened before?");
 MsgDisp("主人公","When ｛Hiiragi＊＊＊｝ scored his first goal?");
 ChMotion(5,2);
 ChEyeOpenLevel(5,8);

@@ -68,7 +68,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
-MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ ispushing himself
+MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ is pushing himself
 too hard after all... Even if it's just a
 little, I want to help him.)");
 BGMStop();

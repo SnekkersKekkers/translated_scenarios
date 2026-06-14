@@ -101,7 +101,7 @@ It was a play...");
         ChEye(5,3);
         ChMotion(5,3);
         VoicePlay("B040522202_05_110");
-        MsgDisp("Hiiragi","Heheh, you did well.
+        MsgDisp("Hiiragi","Hehe, you did well.
 Hearing those words from your lips, even as a
 line, made my day.");
         MsgDisp("主人公","(Umm, somehow it seems like I fell right into

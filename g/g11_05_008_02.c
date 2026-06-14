@@ -64,7 +64,7 @@ while (1){
     Wait(10,0);
     ChEyeOpenLevel(5,12);
     VoicePlay("G110500802_05_050");
-    MsgDisp("Hiiragi","I-s there something on it?");
+    MsgDisp("Hiiragi","Hm, is there something on it?");
     ChEye(5,0);
     ChMouth(5,0);
     ChMotion(5,0);

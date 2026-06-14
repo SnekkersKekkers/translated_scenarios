@@ -29,9 +29,8 @@ What about you, ｛Hiiragi＊＊＊｝?");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("O030500002_05_020");
-    MsgDisp("Hiiragi","Yes, I'm fine. Remember that a horse that
-doesn't get injured is superior to one with a
-slightly higher ability.");
+    MsgDisp("Hiiragi","Yes, I'm fine. Let's just say we both came out
+unhurt, and a sound horse beats a fast one.");
     MsgDisp("主人公","(Haa...last...
 I wish I had tried a little harder...)");
     break ;

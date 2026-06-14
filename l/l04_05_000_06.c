@@ -74,7 +74,7 @@ I bothered ｛Hiiragi＊＊＊｝.)");
     ChMotion(5,4);
     ChMouthOpenLevel(5,#1);
     VoicePlay("L040500006_05_070");
-    MsgDisp("Hiiragi","...Haha.");
+    MsgDisp("Hiiragi","...Hehe.");
     MsgDisp("主人公","Uh...
 Just, sorry...");
     ChMotion(5,0);
@@ -105,7 +105,7 @@ quite a good mood.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("L040500006_05_120");
-    MsgDisp("Hiiragi","Haha, I've said too much.
+    MsgDisp("Hiiragi","Hehe, I've said too much.
 But, truly, thank you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

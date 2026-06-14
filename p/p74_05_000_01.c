@@ -12,8 +12,8 @@ MsgDisp("Hiiragi","Thank you for your hard work.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChMotion(5,4);
 VoicePlay("P740500001_05_010");
-MsgDisp("Hiiragi","Your clothes were wonderful, maybe you just
-get enough practice for the walking?");
+MsgDisp("Hiiragi","Your clothes were wonderful, but maybe you
+didn't get enough practice walking?");
 MsgDisp("主人公","...Yeah.
 I wasn't attentive to that side of things.");
 ChEye(5,2);

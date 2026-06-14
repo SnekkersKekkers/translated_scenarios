@@ -17,7 +17,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P850500009_05_010");
 MsgDisp("Hiiragi","It was because I worried you.");
-MsgDisp("主人公","hat's not true.
+MsgDisp("主人公","That's not true.
 It's because my preparations weren't
 enough...");
 ChEye(5,4);

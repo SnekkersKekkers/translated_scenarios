@@ -39,7 +39,7 @@ It'll be disastrous if you fall over.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040510200_05_030");
-    MsgDisp("Hiiragi","Heheh, yes, I was thinking the exact same
+    MsgDisp("Hiiragi","Hehe, yes, I was thinking the exact same
 thing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

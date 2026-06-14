@@ -72,7 +72,7 @@ ChCheek(5,7);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500803_05_020");
 MsgDisp("Hiiragi","Ah, the red bean paste...this is
-embarasssing.");
+embarrassing.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

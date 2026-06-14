@@ -19,7 +19,7 @@ VoicePlay("P740500000_05_010");
 MsgDisp("Hiiragi","No, it was your own strength.
 You understood your own charm.");
 MsgDisp("主人公","(Hehe, I'm happy.
-The show was a huge success!))");
+The show was a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

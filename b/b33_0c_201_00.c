@@ -44,7 +44,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20100_05_010");
-MsgDisp("Hiiragi","Heheh, we may look completely different, but
+MsgDisp("Hiiragi","Hehe, we may look completely different, but
 we all prefer the same environment.
 Much like the creatures living here.");
 ChEye(6,0);

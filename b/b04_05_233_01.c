@@ -37,7 +37,7 @@ seriously...");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040523301_05_030");
-    MsgDisp("Hiiragi","Heheh, what are you talking about?");
+    MsgDisp("Hiiragi","Hehe, what are you talking about?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

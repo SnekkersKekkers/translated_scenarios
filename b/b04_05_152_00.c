@@ -23,7 +23,7 @@ Is that how it is?");
     DateRateSet(3);
     ChEye(5,3);
     VoicePlay("B040515200_05_020");
-    MsgDisp("Hiiragi","Heheh, it's not a shuriken.");
+    MsgDisp("Hiiragi","Hehe, it's not a shuriken.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -33,7 +33,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C04002_05_010");
-MsgDisp("Hiiragi","Heheh, being irritable is a key part of who
+MsgDisp("Hiiragi","Hehe, being irritable is a key part of who
 he is.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -95,7 +95,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C04002_05_050");
-MsgDisp("Hiiragi","Heheh, understood.
+MsgDisp("Hiiragi","Hehe, understood.
 Alright, with this it'll surely become
 lively, won't it?");
 MsgDisp("主人公","(Looks like because ｛Mikage＊＊｝ is

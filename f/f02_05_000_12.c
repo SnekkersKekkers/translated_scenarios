@@ -27,7 +27,7 @@ VoicePlay("F020500012_05_020");
 MsgDisp("Hiiragi","Correct.
 I am looking forward to attending Haba High
 with you next semester!");
-MsgDisp("主人公","Haha, same.");
+MsgDisp("主人公","Hehe, same.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("F020500012_05_030");

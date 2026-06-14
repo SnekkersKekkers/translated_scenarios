@@ -5,7 +5,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D150002500_05_000");
-MsgDisp("Hiiragi","So you also eat that kind of thing, Sassa.");
+MsgDisp("Hiiragi","So you also eat that kind of thing, Sassa-kun.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

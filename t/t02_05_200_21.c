@@ -39,7 +39,7 @@ Wait(16,0);
 ChMouth(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("T020520021_05_040");
-MsgDisp("Hiiragi","Haha, it's a joke.
+MsgDisp("Hiiragi","Hehe, it's a joke.
 Thanks to them, I was able to see your
 smile up close.");
 MsgDisp("主人公","What...");

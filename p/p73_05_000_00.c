@@ -19,7 +19,7 @@ I'm nervous..)");
     MsgDisp("Hiiragi","Good day.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝!");
     VoicePlay("P730500000_05_010");
-    MsgDisp("Hiiragi","I came t support you.");
+    MsgDisp("Hiiragi","I came to support you.");
     MsgDisp("主人公","Y-Yeah.
 Thank you.");
     ChEye(5,4);
@@ -101,7 +101,7 @@ I'm happy that you came to watch.");
     MsgDisp("Hiiragi","It's the same when I'm at theater troupe.
 I'm happiest when people come to watch.");
     VoicePlay("P730500000_05_100");
-    MsgDisp("Hiiragi","Just remember that happy feeling, an forget
+    MsgDisp("Hiiragi","Just remember that happy feeling, and forget
 your apprehension, okay?");
     MsgDisp("主人公","...Yeah.");
     SEPlay("EV_SE_038");
@@ -113,7 +113,7 @@ your apprehension, okay?");
     VoicePlay("P730500000_05_110");
     MsgDisp("Hiiragi","It'll be alright.
 If it's you, you'll be able to charm the
-audience. I am current proof of that.");
+audience. I am currently proof of that.");
     MsgDisp("主人公","(Thank you, ｛Hiiragi＊＊＊｝.
 Yes, I should go out with a little
 confidence. Let's do our best!)");

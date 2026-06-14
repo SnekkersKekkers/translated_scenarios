@@ -74,7 +74,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C03400_05_030");
-MsgDisp("Hiiragi","Heheh.
+MsgDisp("Hiiragi","Hehe.
 You mean us, right?");
 MsgDisp("主人公","Eh∋");
 ChEye(6,1);

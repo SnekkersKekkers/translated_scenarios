@@ -43,7 +43,7 @@ MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020520200_05_070");
-MsgDisp("Hiiragi","Although I have no idea what I should do
+MsgDisp("Hiiragi","Although I have no idea what I should do.
 Today, I'm just making that declaration.");
 MsgDisp("主人公","(Eh, declaration?
 ｛Hiiragi＊＊＊｝, what are you planning to do...)");

@@ -10,7 +10,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,3);
     ChMotion(5,3);
     VoicePlay("B040518400_05_000");
-    MsgDisp("Hiiragi","Yes, it made people of all ages and genders
+    MsgDisp("Hiiragi","Yes, to make people of all ages and genders
 happy.
 That is what I should aim for.");
     MsgDispSksp(1,0);

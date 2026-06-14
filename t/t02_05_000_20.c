@@ -48,7 +48,7 @@ Wait(60,0);
 SEPlay("EV_SE_695");
 Wait(120,0);
 VoicePlay("T020500020_05_050");
-MsgDisp("Hiiragi","Haha, you too.");
+MsgDisp("Hiiragi","Hehe, you too.");
 Wait(120,0);
 MsgClose();
 ScrFadeOut(0,1,120);
