@@ -24,8 +24,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700100_07_020");
-MsgDisp("Mikage","Is it that time already?
-I'll put them in your show locker then.");
+MsgDisp("Mikage","Is it that time already?\nI'll put them in your shoe locker then.");
 MsgDisp("主人公","Ehh∋");
 ChEye(7,0);
 ChMouth(7,0);
