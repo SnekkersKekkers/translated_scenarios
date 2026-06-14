@@ -41,8 +41,7 @@ ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
 VoicePlay("G110500500_05_040");
-MsgDisp("Hiiragi","A while ago, you said you would recommend me
-some TV shoes you like.");
+MsgDisp("Hiiragi","A while ago, you said you would recommend me\nsome TV shows you like.");
 MsgDisp("主人公","Eh, I remember now...");
 SEStop("EV_SE_712",0);
 ChEye(5,1);
