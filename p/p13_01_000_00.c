@@ -37,7 +37,7 @@ your shift!");
     ChEyeOpenLevel(1,0);
     VoicePlay("P130100000_01_030");
     MsgDisp("Kazama","Yeah, yeah.
-Then, I'm o—ff.");
+Then, I'm off—");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);

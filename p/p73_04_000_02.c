@@ -44,7 +44,7 @@ stage.
 Look your best!");
     MsgDisp("主人公","Yeah!
 Then, I'm off!");
-    MsgDisp("主人公","(Al—right!
+    MsgDisp("主人公","(Alriiight!
 This is the last runway of my high school
 life, let's do it properly!)");
     MsgClose();
@@ -102,7 +102,7 @@ you when you look like that in the future.");
     MsgDisp("Nanatsumori","It feels strange sending you off, but... do
 your best.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Al—right!
+    MsgDisp("主人公","(Alriiight!
 Let's do the last runway of my high school
 life properly!)");
     MsgClose();

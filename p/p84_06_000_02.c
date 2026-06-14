@@ -41,6 +41,6 @@ MsgClose();
 ChClose(6,0,0);
 Wait(30);
 MsgDisp("主人公","(｛Himuro＊＊｝ appreciated me!
-Alr—ight, let's do our best until the end.)");
+Alriiight, let's do our best until the end.)");
 MsgClose();
 ScrFadeOut(0,0);

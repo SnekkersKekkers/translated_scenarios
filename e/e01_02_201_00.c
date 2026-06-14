@@ -36,7 +36,7 @@ really move from here.");
 MsgDisp("主人公","Oh, I see.");
 ChMotion(3,0);
 VoicePlay("E010220100_02_000");
-MsgDisp("Sassa?","He—y, Iku!");
+MsgDisp("Sassa?","Hey, Iku—!");
 ChPosition(3,1);
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();

@@ -112,10 +112,9 @@ year.");
     ChMotion(1,0);
     VoiceEVSPlay(1);
     VoicePlay("S120100004_01_090");
-    MsgDisp("Kazama","｛主人公｝, the weather's changed a bit
-somehow...
-Is it going to snow?");
-    MsgDisp("主人公","Perhaps rain?");
+    MsgDisp("Kazama","｛主人公｝, you've changed a bit somehow...
+Hope it doesn't go and snow on us.");
+    MsgDisp("主人公","It really might snow, you know?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

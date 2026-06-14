@@ -12,4 +12,4 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D140101160_01_010");
 MsgDisp("Kazama","Have you heard the rumours of this dish?
 Apparently it was made to make the
-delinquents of Haba Academy behave.");
+delinquents of Haba High behave.");

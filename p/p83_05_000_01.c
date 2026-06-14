@@ -13,9 +13,9 @@ materials management record...)");
     SEPlay("EV_SE_DOOR_013");
     SEWait();
     VoicePlay("P830500001_39_000");
-    MsgDisp("School Boy","Exc—use me!
+    MsgDisp("School Boy","Excuuuse me!
 I would like some masking tape please!");
-    MsgDisp("主人公","Ye—s!
+    MsgDisp("主人公","Yes～!
 Please enter your year, class and name, then
 take the one on the shelf.");
     VoicePlay("P830500001_39_010");
@@ -54,7 +54,7 @@ materials management record...");
     MsgDisp("School Boy","Excuse me—!
 I would like some masking tape and some
 garbage bags!");
-    MsgDisp("主人公","Ye—s!
+    MsgDisp("主人公","Yes～!
 Please take the ones on the shelf.");
     VoicePlay("P830500001_39_030");
     MsgDisp("School Boy","Huh?

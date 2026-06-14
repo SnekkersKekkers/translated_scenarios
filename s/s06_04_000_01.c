@@ -37,7 +37,7 @@ Very beautiful.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("S060400001_04_040");
-    MsgDisp("Nanatsumori","Heh...
+    MsgDisp("Nanatsumori","Ohh...
 I think it looks better on you than on a
 professional model.");
     ChEye(4,2);

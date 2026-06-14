@@ -5,7 +5,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P640200001_02_000");
 MsgDisp("Sassa","I-It's bitter?
-Is herb tea like this?");
+Is herbal tea like this?");
 MsgDisp("主人公","｛Sassa＊＊｝?
 Huh, are you not good with herbs?");
 ChEye(2,2);

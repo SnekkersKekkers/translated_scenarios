@@ -86,7 +86,7 @@ We came all this way, why not try it?");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040516002_05_090");
-        MsgDisp("Hiiragi","H—m...
+        MsgDisp("Hiiragi","Hmmm...
 Let's search for a machine I can definitely
 win.");
         MsgClose();

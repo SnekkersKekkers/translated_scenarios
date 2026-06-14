@@ -78,7 +78,7 @@ Let's try our luck this year.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("S090100002_01_020");
-        MsgDisp("Kazama","Heh, that's a mature thing to say.
+        MsgDisp("Kazama","Oh, that's a mature thing to say.
 It's that kind of feeling this year, huh?");
         MsgDisp("主人公","(Maybe I should have given it a try...)");
         MsgClose();

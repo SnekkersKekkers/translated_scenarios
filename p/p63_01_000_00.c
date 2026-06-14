@@ -30,7 +30,7 @@ I think we were able to make a good blend.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P630100000_01_020");
-    MsgDisp("Kazama","I look forwards to i—t.");
+    MsgDisp("Kazama","I look forwards to it—");
     MsgDisp("主人公","Entry for one customer please!");
     MsgClose();
     ScrFadeOut(0,0);
@@ -40,7 +40,7 @@ I think we were able to make a good blend.");
     ScrFadeIn(0);
     MsgDisp("主人公","(This year the Gardening Club's program is a
 cafe.
-We prepared herb tea and cookies, but...)");
+We prepared herbal tea and cookies, but...)");
     MsgClose();
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     ChMotion(1,1);
@@ -54,14 +54,14 @@ Welcome!");
     VoicePlay("P630100000_01_040");
     MsgDisp("Kazama","The poster girl makes an appearance huh?");
     MsgDisp("主人公","No, I'm the producer.
-So we made tea and cookies with the herb tea
+So we made tea and cookies with the herbal tea
 the Gardening Club grew.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P630100000_01_050");
     MsgDisp("Kazama","Herbal tea that you grew and brewed, huh?
-I look forward to it.");
+I'm looking forward to it.");
     MsgDisp("主人公","Hehe.
 Yes, please enjoy.");
     MsgClose();

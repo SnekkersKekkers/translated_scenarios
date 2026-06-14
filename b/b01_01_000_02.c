@@ -41,7 +41,7 @@ it so much you couldn't wait?");
     ChMotion(1,1);
     ChCheek(1,5);
     VoicePlay("B010100002_01_040");
-    MsgDisp("Kazama","Hm...
+    MsgDisp("Kazama","Wh—
 I—");
     MsgDispSksp(1,0);
     ChEye(1,0);

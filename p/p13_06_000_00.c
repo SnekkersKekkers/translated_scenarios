@@ -67,7 +67,7 @@ have some fun?");
     ChCheek(6,5);
     VoicePlay("P130600000_06_050");
     MsgDisp("Himuro","...Well if you say that, I'll think about—");
-    MsgDisp("主人公","Yes, entry for one the—n!");
+    MsgDisp("主人公","Yes, entry for one then—!");
     ChEye(6,0);
     ChMouth(6,1);
     ChMotion(6,5);

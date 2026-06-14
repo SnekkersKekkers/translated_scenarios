@@ -12,7 +12,7 @@ ChMouth(1,1);
 VoicePlay("P840100003_01_000");
 MsgDisp("Kazama","Oi, are you alright?");
 MsgDisp("主人公","Y-Yeah.
-But, the bed is flooded...");
+But, the floor is flooded...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -26,7 +26,7 @@ ChMotion(1,0);
 VoicePlay("P840100003_01_020");
 MsgDisp("Kazama","You're shaking aren't you?
 You're pushing yourself too hard. Think
-ofyour own stamina, and move accordingly.");
+of your own stamina, and move accordingly.");
 MsgDisp("主人公","That's right huh...");
 ChEye(1,2);
 ChMouth(1,2);

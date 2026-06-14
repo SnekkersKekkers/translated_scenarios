@@ -38,7 +38,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020111000_01_240");
 MsgDisp("Kazama","Thank you.
-...I won't move on.");
+...I'll move on now.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

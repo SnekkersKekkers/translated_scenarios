@@ -70,7 +70,7 @@ pounding...");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("P530300000_03_060");
-    MsgDisp("Honda","Hmmm—Ah.");
+    MsgDisp("Honda","Hmmm, ah—");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);

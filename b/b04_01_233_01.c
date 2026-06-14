@@ -37,8 +37,8 @@ This is one of those punishment games...");
     ChMotion(1,1);
     ChEyeOpenLevel(1,7);
     VoicePlay("B040123301_01_030");
-    MsgDisp("Kazama","It didn't fall off, did it?
-I don't need that kind of effect.");
+    MsgDisp("Kazama","Don't just go \"a part fell off,\" okay?
+I don't need that kind of special effect.");
     MsgDateResultDisp();
     break ;
     default :

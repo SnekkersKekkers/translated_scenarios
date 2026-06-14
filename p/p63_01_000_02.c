@@ -65,7 +65,7 @@ I'm a cafe maid.");
     MsgDisp("Kazama","That's fine, but your energy is that of a
 greengrocers.");
     MsgDisp("主人公","Hehe, yeah.
-After all, w're selling the vegetables as a
+After all, we're selling the vegetables as a
 souvenir.");
     ChEye(1,0);
     ChMouth(1,3);

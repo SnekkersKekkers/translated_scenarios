@@ -21,7 +21,7 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P230D00001_22_010");
-MsgDisp("Hikaru","Aa—Ah. 
+MsgDisp("Hikaru","Aaah～
 \"Flora Angel\" Hikaru wanted to do it with the
 three of us～...");
 ChEye(21,0);

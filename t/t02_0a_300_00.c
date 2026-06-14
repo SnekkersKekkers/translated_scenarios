@@ -95,13 +95,13 @@ ChMotion(1,0,1);
 VoicePlay("T020A30000_01_070");
 MsgDisp("Kazama","In the end, it's the three of us together.
 Childhood friends, or should I say,
-longterm liabilities?");
+long-term liabilities?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("T020A30000_02_030");
 MsgDisp("Sassa","Maybe.
-Well then, shall these longterm
+Well then, shall these long-term
 liabilities go home together?");
 MsgClose();
 ScrFadeOut(0);
@@ -145,9 +145,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020A30000_06_020");
-MsgDisp("Himuro","You're so obvious Nozomu-senpai. it
-doesn't make a difference whether I'm here
-or not, does it?");
+MsgDisp("Himuro","You're so transparent, Nozomu-senpai.
+You weren't even thinking about me,
+were you?");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);

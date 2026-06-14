@@ -120,7 +120,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330C30500_06_060");
-MsgDisp("Himuro","It's fine.
+MsgDisp("Himuro","No thank you.
 I'll win on my own.");
 ChEye(5,0);
 ChMouth(5,4);

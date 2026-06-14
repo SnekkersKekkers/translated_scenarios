@@ -25,7 +25,7 @@ getting ready.");
         MsgDisp("主人公","You're coming to pick me up?
 Thanks.");
         VoicePlay("S040100000_01_030");
-        MsgDisp("Kazama","No, thank you.");
+        MsgDisp("Kazama","No need to thank me.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He's expecting something, huh?

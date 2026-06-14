@@ -16,7 +16,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P640700000_07_020");
-MsgDisp("Mikage","This is the best herb tea.
+MsgDisp("Mikage","This is the best herbal tea.
 Herbs were also kneaded into the cookies.
 This was well though of.");
 MsgDisp("主人公","Yay!");

@@ -26,7 +26,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020121000_01_550");
-MsgDisp("Kazama","What should I tell Sassa and Inori?
+MsgDisp("Kazama","What should I tell Honda and Nanatsumori?
 About your passionate hug.");
 MsgDisp("主人公","You don't have to mention it.");
 ChMotion(1,0,1);

@@ -5,7 +5,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_000");
 MsgDisp("Kazama","Evening cool.
 This kind of atmosphere's something you can't
-get in the UK.");
+get in England.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

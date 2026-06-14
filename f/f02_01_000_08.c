@@ -39,8 +39,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100008_01_040");
-MsgDisp("Kazama","The performance is coming up.
-You should have fun during this time before
-it's over.");
+MsgDisp("Kazama","The actual show's coming up.
+But honestly, I'd rather enjoy this part a
+little longer first.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to be really enjoying the
 festival.)");

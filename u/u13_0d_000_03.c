@@ -18,7 +18,7 @@ switch (ChPrmGet(4,6)){
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);
     VoicePlay("U130D00003_22_000");
-    MsgDisp("Hikaru","Heh～!
+    MsgDisp("Hikaru","Ooh～!
 Minoru-kun is a bit hard to deal with, isn't
 he? Mari, don't give up!");
     StlEyeOpenLevel(21,5,1);

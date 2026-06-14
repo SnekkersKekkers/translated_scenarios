@@ -61,7 +61,7 @@ ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110100001_34_050");
 MsgDisp("Guy","Ehh, scary.
-This is why I hate reality—.");
+This is why I hate reality...");
 ChMotion(1,1);
 SEPlay("EV_SE_580");
 ChClose(34);

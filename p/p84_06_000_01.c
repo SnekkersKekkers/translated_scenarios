@@ -31,7 +31,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P840600001_06_020");
 MsgDisp("Himuro","...Why don't you buy it from the store?");
-MsgDisp("主人公","(Uh—oh.
+MsgDisp("主人公","(Uh-oh.
 It was a huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);

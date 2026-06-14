@@ -23,8 +23,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("P140100000_01_020");
-MsgDisp("Kazama","Both Molly and the calf-like promoter are
-both super popular.");
+MsgDisp("Kazama","Both Molly's milk and the baby cow mascot
+are super popular.");
 MsgDisp("主人公","Hey.");
 ChEye(1,4);
 ChMouth(1,3);

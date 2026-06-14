@@ -36,8 +36,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020140000_01_050");
-MsgDisp("Kazama","Entrance exams, sports tournaments, and 
-competitions come with a ranking so it's 
+MsgDisp("Kazama","Entrance exams, sports tournaments, and
+competitions come with a ranking so it's
 easy. And there are ways to improve.");
 ChEye(1,0);
 ChMouth(1,2);

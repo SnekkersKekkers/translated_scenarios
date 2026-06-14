@@ -61,7 +61,7 @@ I'm sorry for getting your hopes up.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("B040509002_05_040");
-        MsgDisp("Hiiragi","H—m...
+        MsgDisp("Hiiragi","Hmmm...
 It seems a bit too late for us.");
         ChEye(5,2);
         ChMouth(5,4);

@@ -82,9 +82,9 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B050100100_01_060");
-MsgDisp("Kazama","If we were together in middle school what
-would it have been like to go to the beach or
-the pool together?");
+MsgDisp("Kazama","If we'd been together back in elementary or
+middle school, what would going to the beach
+or the pool together have been like?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

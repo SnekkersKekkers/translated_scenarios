@@ -72,8 +72,8 @@ Yeah, I'll do my best.)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("N020100002_01_080");
-    MsgDisp("Kazama","My childhood friend who brings me joy,
-shouldn't get these types of grades.");
+    MsgDisp("Kazama","My childhood friend, the one I'm proud of,
+wouldn't get grades like these.");
     MsgDisp("主人公","Are they too average?");
     ChEye(1,4);
     ChMouth(1,3);

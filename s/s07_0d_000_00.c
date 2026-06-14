@@ -9,8 +9,8 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("S070D00000_22_000");
-MsgDisp("Hikaru","It's burning up～!
-The tension is rising～!");
+MsgDisp("Hikaru","It's so lively～!
+Hikaru's getting hyped～!");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
@@ -33,7 +33,7 @@ ChEye(22,2);
 ChMouth(22,5);
 ChMotion(22,5,1);
 VoicePlay("S070D00000_22_020");
-MsgDisp("Hikaru","Ee—h, sis.
+MsgDisp("Hikaru","Eh, sis—
 What does that mean～∋");
 MsgDisp("主人公","(The two of them are already doing well this
 year, huh.)");

@@ -69,8 +69,8 @@ Hehe, then ｛Kazama＊＊｝ too?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100001_01_070");
-    MsgDisp("Kazama","Think everyone else as vegetables, and go
-harvest them okay?");
+    MsgDisp("Kazama","Think of everyone else as vegetables, and go
+harvest them, okay?");
     MsgDisp("主人公","Hehe, yeah!");
     MsgDisp("主人公","(Alright, ｛Kazama＊＊｝ thanks to that, I
 think I was able to relax a bit?

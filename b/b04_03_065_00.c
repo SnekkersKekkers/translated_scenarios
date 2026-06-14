@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(4);
     ChSet(3,3);
     VoicePlay("B040306500_03_010");
-    MsgDisp("Honda","Kag—ya—!
+    MsgDisp("Honda","Kagyaaa～!
 Now this is what Japanese summer is about.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();

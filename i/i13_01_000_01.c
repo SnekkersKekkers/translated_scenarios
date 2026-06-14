@@ -97,7 +97,7 @@ Senpai?");
     VoicePlay("I130100001_01_080");
     MsgDisp("Kazama","Well, this is new.
 Try saying it one more time.");
-    MsgDisp("主人公","Huh, Ryota-senpai?");
+    MsgDisp("主人公","Eh, Kazama-senpai?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);

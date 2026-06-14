@@ -26,8 +26,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05100_01_010");
-MsgDisp("Kazama","Are you two just going to blather on amongst
-yourselves?");
+MsgDisp("Kazama","Like hell I'd blab about something that's just
+between the two of us.");
 MsgDisp("主人公","We only talk about normal things...");
 ChEye(1,0);
 ChMouth(1,3);

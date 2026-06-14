@@ -15,7 +15,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     VoicePlay("X120100001_01_000");
     MsgDisp("Kazama","Ohh, nice.
-As expected, you have good senses.");
+As expected, you've got good taste.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

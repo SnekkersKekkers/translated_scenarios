@@ -71,7 +71,7 @@ I'm disappointed.");
     ChMotion(3,1,1);
     VoicePlay("P630300002_03_070");
     MsgDisp("Honda","Then, I'll dine alone.
-I'll have a salad and herb tea!");
+I'll have a salad and herbal tea!");
     MsgDisp("主人公","Hehe, certainly!
 Then, I'll lead you to your seat.");
     break ;

@@ -40,6 +40,6 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("P810500001_05_040");
 MsgDisp("Hiiragi","I'm happy to hear you say that.");
-MsgDisp("主人公","(Alr—ight, let's do our best this year too!)");
+MsgDisp("主人公","(Alriiight, let's do our best this year too!)");
 MsgClose();
 ScrFadeOut(0,0);

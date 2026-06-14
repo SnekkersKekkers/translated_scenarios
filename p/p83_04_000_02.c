@@ -13,7 +13,7 @@ switch (ChPrmGet(4,6)){
     SEWait();
     MsgDisp("主人公","Please don't run in the corridors—!");
     VoicePlay("P830400002_04_000");
-    MsgDisp("Nanatsumori?","Ye—s.");
+    MsgDisp("Nanatsumori?","Yes～.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

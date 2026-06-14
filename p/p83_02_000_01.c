@@ -13,7 +13,7 @@ switch (ChPrmGet(2,6)){
 There's lots prepared.");
     VoicePlay("P830200001_44_000");
     MsgDisp("Girl B","Be careful to not ru n out of other supplies.");
-    MsgDisp("主人公","Ye—s.");
+    MsgDisp("主人公","Yes～.");
     MsgClose();
     SEPlay("EV_SE_DOOR_019");
     SEWait();

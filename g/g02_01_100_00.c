@@ -29,7 +29,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110000_01_030");
 MsgDisp("Kazama","I start running to you, but I can't get any
 closer. It's always been the same dream, ever
-since I went to the UK.");
+since I went to England.");
 MsgDisp("主人公","So not a happy dream?");
 ChEye(1,4);
 ChMouth(1,3);

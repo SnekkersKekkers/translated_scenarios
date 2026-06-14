@@ -48,7 +48,7 @@ ChMotion(1,3,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("P840100002_01_050");
 MsgDisp("Kazama","I accept your forgiveness.
-Thank you very mu—ch.");
+Thank you very much～.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,0);

@@ -39,7 +39,7 @@ Were you listening?");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("B040608500_06_030");
-    MsgDisp("Himuro","Heh, you see it differently than me.
+    MsgDisp("Himuro","Huh, you see it differently than me.
 Tell me more. How about we sit on that bench
 over there and talk?");
     MsgDispSksp(1,0);

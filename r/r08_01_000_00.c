@@ -33,7 +33,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("R080100000_21_000");
-MsgDisp("Michiru","Hehe, have two worlds collided?");
+MsgDisp("Michiru","Hehe, lost in your own little world again?");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,4,1);

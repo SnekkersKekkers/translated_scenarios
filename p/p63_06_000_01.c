@@ -23,7 +23,7 @@ Welcome.");
     MsgDisp("Himuro","What are those vegetables?
 Are you selling them?");
     MsgDisp("主人公","Yeah, the Gardening Club grew them.
-We also prepared herb tea and herb cookies.▼");
+We also prepared herbal tea and herb cookies.▼");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

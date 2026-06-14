@@ -8,7 +8,7 @@ switch (ChPrmGet(5,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're doing herb tea and a
+    MsgDisp("主人公","(This year we're doing herbal tea and a
 vegetable sale.
 It would be nice if it was well-received...)");
     MsgClose();
@@ -47,7 +47,7 @@ One customer, this way please!");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're doing herb tea and a
+    MsgDisp("主人公","(This year we're doing herbal tea and a
 vegetable sale.
 It would be nice if it was well-received...)");
     MsgClose();
@@ -64,7 +64,7 @@ Welcome.");
     VoicePlay("P630500001_05_050");
     MsgDisp("Hiiragi","Maybe I should have came by earlier.");
     MsgDisp("主人公","It's alright.
-Because there's still lots of both herb tea
+Because there's still lots of both herbal tea
 and vegetables!");
     ChEye(5,4);
     ChMouth(5,4);

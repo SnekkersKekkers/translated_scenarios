@@ -11,10 +11,10 @@ switch (ChPrmGet(3,6)){
     VoicePlay("P830300001_48_000");
     MsgDisp("School Girl","Excuse me—.
 I want two permanent marker pens.");
-    MsgDisp("主人公","Ye—s.
+    MsgDisp("主人公","Yes～.
 Is this okay?");
     VoicePlay("P830300001_48_010");
-    MsgDisp("School Girl","Thank you very mu—ch!");
+    MsgDisp("School Girl","Thank you very much～!");
     MsgDisp("主人公","(Phew...
 I don't have time to catch a breath huh...)");
     MsgClose();
@@ -35,7 +35,7 @@ Yeah, because I'm managing.");
 Once you reach a stopping place, let's eat
 together at a food stall?");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Alr—ight, I'll hold on a little longer, and
+    MsgDisp("主人公","(Alriiight, I'll hold on a little longer, and
 do my best!)");
     break ;
     case 4:

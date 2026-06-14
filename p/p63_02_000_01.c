@@ -7,7 +7,7 @@ switch (ChPrmGet(2,6)){
     case 3:
     BGOpen("sc723",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're doing herb tea and a
+    MsgDisp("主人公","(This year we're doing herbal tea and a
 vegetable sale.
 It would be nice if it was well-received...)");
     MsgClose();
@@ -17,7 +17,7 @@ It would be nice if it was well-received...)");
     MsgDisp("Sassa","｛主人公｝, you're selling fresh vegetables?");
     MsgDisp("主人公","｛Sassa＊＊｝, welcome!
 Yes, we're selling organic vegetables and
-herb tea.");
+herbal tea.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -48,7 +48,7 @@ One customer, this way～!");
     case 5:
     BGOpen("sc723",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're doing herb tea and a
+    MsgDisp("主人公","(This year we're doing herbal tea and a
 vegetable sale.
 It would be nice if it was well-received...)");
     MsgClose();
@@ -96,7 +96,7 @@ Thank you.");
     ChMotion(2,0);
     VoicePlay("P630200001_02_080");
     MsgDisp("Sassa","Then I'll have a vegetables that's like you,
-and a herb tea please");
+and a herbal tea please");
     MsgDisp("主人公","Hehe, yes.
 Then, follow me to your table.");
     MsgClose();

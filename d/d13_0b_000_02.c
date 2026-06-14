@@ -9,14 +9,14 @@ ChNanaType(0);
 ChOpen(4,254,0,2,0,#1,#1,0,0,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah...
-I wonder what everyone is gathered here,
-talking about?)");
+I wonder what everyone's gathered
+around talking about?)");
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D130B00002_01_000");
-MsgDisp("Kazama","Looks like she's brought enough for three.
-Out of those, surely one of them is a winner.");
+MsgDisp("Kazama","I bet she'll bring enough for three.
+And one of them's the real deal.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

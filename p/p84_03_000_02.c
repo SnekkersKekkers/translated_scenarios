@@ -18,7 +18,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(3,254,0,4,0,#1,#1,0,0);
 VoicePlay("P840300002_03_000");
-MsgDisp("Honda","H—m, I'm sure that your smile at the end,
+MsgDisp("Honda","Hmmm, I'm sure that your smile at the end,
 made that girl super relieved.");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);

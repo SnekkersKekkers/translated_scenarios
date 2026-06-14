@@ -34,8 +34,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130001_01_040");
-MsgDisp("Kazama","I'm being with you, and you're being with
-them.
+MsgDisp("Kazama","You're with them, and I'm with you.
 The two things are totally different.");
 MsgDisp("主人公","Ummm...");
 ChEye(1,0);

@@ -10,7 +10,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("P830700001_41_000");
     MsgDisp("School Boy","Excuse me—.
 Do you have any cardboard～?");
-    MsgDisp("主人公","Ye—s, it's all gathered behind the gym.
+    MsgDisp("主人公","Yeees, it's all gathered behind the gym.
 Please write a note of the quantity you need,
 your class, and your name.");
     MsgClose();
@@ -43,7 +43,7 @@ Well, then.");
     ChClose(7);
     MsgDisp("主人公","Eh, ｛Mikage＊＊｝ —");
     VoicePlay("P830700001_48_000");
-    MsgDisp("Girl B","Ex—cuse me.
+    MsgDisp("Girl B","Excuuuse me.
 Could I get two rolls of packing tape?");
     MsgDisp("主人公","Ah, yes!
 Please wait a moment.");
@@ -53,7 +53,7 @@ Please wait a moment.");
     VoicePlay("P830700001_41_030");
     MsgDisp("School Boy","Excuse me—.
 Do you have any cardboard～?");
-    MsgDisp("主人公","Ye—s, it's all gathered behind the gym.
+    MsgDisp("主人公","Yeees, it's all gathered behind the gym.
 Please write a note of the quantity you need,
 your class, and your name.");
     MsgClose();
@@ -93,9 +93,9 @@ I'll cheer you on from behind the scenes.");
     ChClose(7);
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝ —");
     VoicePlay("P830700001_48_010");
-    MsgDisp("Girl B","Ex—cuse me.
+    MsgDisp("Girl B","Excuuuse me.
 Could I get two rolls of packing tape?");
-    MsgDisp("主人公","Ye—s!
+    MsgDisp("主人公","Yes～!
 Please wait a moment.");
     break ;
     default :

@@ -53,7 +53,7 @@ If you show up on stage like that, smiling
 warmly, you've already won.");
     MsgDisp("主人公","(Thak you for helping me gain confidence,
 ｛Sassa＊＊｝!
-Alr—iight, let's do our best!)");
+Alriiight, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);
@@ -106,7 +106,7 @@ Thank you. I'm off then.");
     MsgDisp("Sassa","Yeah, go with the intention of getting a
 winning run.");
     MsgDisp("主人公","(Hehe, I think I feel better now.
-Al—right, let;s do our best!)");
+Alriiight, let;s do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

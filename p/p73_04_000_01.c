@@ -43,7 +43,7 @@ runway?");
 I'll be cheering you on.");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(｛Nanatsumori＊｝ will be cheering me on!
-Al—right, let's do it!)");
+Alriiight, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -93,7 +93,7 @@ You'll knockout the audience.");
     MsgDisp("主人公","Hehe!
 Then, I'm off!");
     MsgDisp("主人公","(｛Nanatsumori＊｝ is cheering for me...!
-Al—right, let's do it!)");
+Alriiight, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

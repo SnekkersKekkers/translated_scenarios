@@ -10,7 +10,7 @@ ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("P640200003_02_010");
-MsgDisp("Sassa","Have you tried drinking this herb tea?");
+MsgDisp("Sassa","Have you tried drinking this herbal tea?");
 MsgDisp("主人公","Ah, no.
 Because I was hectic over setting up the
 shop....");

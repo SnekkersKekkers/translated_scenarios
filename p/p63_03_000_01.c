@@ -8,7 +8,7 @@ switch (ChPrmGet(3,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year we're serving herb tea and selling
+    MsgDisp("主人公","(This year we're serving herbal tea and selling
 vegetables.
 It would be nice if it was well-received...)");
     MsgClose();
@@ -24,7 +24,7 @@ vegetables harvested in the morning?");
     VoicePlay("P630300001_03_010");
     MsgDisp("Honda","Should I buy some as souvenirs to take home?");
     MsgDisp("主人公","Hehe, absolutely!
-The herb tea too.");
+The herbal tea too.");
     ChSet(3,4);
     VoicePlay("P630300001_03_020");
     MsgDisp("Honda","Yep yep, then I'll have one cup to start
@@ -34,7 +34,7 @@ This way please!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year we're serving herb tea and selling
+    MsgDisp("主人公","(This year we're serving herbal tea and selling
 vegetables.
 It would be nice if it was well-received...)");
     MsgClose();

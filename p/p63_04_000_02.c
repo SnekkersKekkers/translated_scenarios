@@ -40,7 +40,7 @@ something on the menu to you?");
     MsgDisp("Nanatsumori","Yeah.
 Then, I guess I'll stop by.");
     MsgDisp("主人公","Certainly.
-Then an organically grown salad and herb tea
+Then an organically grown salad and herbal tea
 please!");
     break ;
     case 4:
@@ -85,7 +85,7 @@ your body▼");
     VoicePlay("P630400002_04_080");
     MsgDisp("Nanatsumori","I'd like recommendations.");
     MsgDisp("主人公","Thank you very much!
-An organically grown salad and herb tea
+An organically grown salad and herbal tea
 please!");
     break ;
     default :

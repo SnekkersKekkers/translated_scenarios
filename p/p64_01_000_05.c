@@ -27,7 +27,7 @@ MsgDisp("Kazama","The vegetables are too big and the taste is
 bland.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","(Ugh... I should have participated in the
-clubmore and researched how to grow them to
+club more and researched how to grow them to
 be tastier...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040101101_01_010");
     MsgDisp("Kazama","Right.
-Can't you see everyone living their frantic,
-busy everyday lives?");
+And to think everyone down there's living
+their frantic everyday lives, huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

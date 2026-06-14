@@ -82,7 +82,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A05101_01_040");
-MsgDisp("Kazama","Then how is Sassa like?
+MsgDisp("Kazama","Then what is Sassa like?
 When you two are alone.");
 MsgDisp("主人公","Ehhh?");
 ChEye(6,0);

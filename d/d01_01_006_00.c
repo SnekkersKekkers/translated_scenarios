@@ -56,7 +56,8 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 VoicePlay("D010100600_01_010");
-MsgDisp("Kazama","A champagne glass designed by \nGoro Hanatsubaki.");
+MsgDisp("Kazama","A champagne glass designed by
+Goro Hanatsubaki.");
 MsgDisp("主人公","(Eh...
 Ehh∋
 ｛Kazama＊＊｝∋)");

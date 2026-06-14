@@ -29,8 +29,8 @@ They have lots of collectors.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040110400_01_020");
-    MsgDisp("Kazama","Ohh, but they're so cute here.
-C'mon, come get a better look.");
+    MsgDisp("Kazama","Hmm, so you've got a cute side after all.
+C'mon, let's get a better look.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

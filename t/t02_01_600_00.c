@@ -31,7 +31,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("T020160000_01_030");
-MsgDisp("Kazama","No, not'Eh'.");
+MsgDisp("Kazama","No, not \"Eh\".");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

@@ -37,7 +37,7 @@ ChMotion(2,2);
 VoicePlay("D140A03200_02_010");
 MsgDisp("Sassa","Haha!
 Inori, you're sharper than usual.");
-MsgDisp("主人公","What are you talking about.");
+MsgDisp("主人公","What are you talking about?");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,0,1);

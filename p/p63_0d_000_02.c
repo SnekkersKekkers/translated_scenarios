@@ -44,6 +44,6 @@ MsgDisp("Hikaru","Sounds good♪
 We'll have Mari's recommendation please!");
 MsgDisp("主人公","Certainly.
 Then we'll prepare the organic vegetables
-salad and herb tea!");
+salad and herbal tea!");
 MsgClose();
 ScrFadeOut(0,0);

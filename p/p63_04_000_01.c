@@ -8,11 +8,11 @@ switch (ChPrmGet(4,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year we're doing herb tea and a
+    MsgDisp("主人公","(This year we're doing herbal tea and a
 vegetable sale.
 It would be nice if it was well-received...)");
     VoicePlay("P630400001_04_000");
-    MsgDisp("Nanatsumori?","Herb tea and vegetables?");
+    MsgDisp("Nanatsumori?","Herbal tea and vegetables?");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
@@ -23,10 +23,10 @@ Welcome～!");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("P630400001_04_010");
-    MsgDisp("Nanatsumori","Do you eat the herb tea and vegetables
+    MsgDisp("Nanatsumori","Do you eat the herbal tea and vegetables
 together?
 Here.");
-    MsgDisp("主人公","Nope. You drink the herb tea here though, but
+    MsgDisp("主人公","Nope. You drink the herbal tea here though, but
 the Gardening Club's organic vegetables are
 sold directly.");
     ChEye(4,2);
@@ -44,7 +44,7 @@ Then first I'll go for some tea.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year we're doing herb tea and a
+    MsgDisp("主人公","(This year we're doing herbal tea and a
 vegetable sale.
 It would be nice if it was well-received...)");
     MsgClose();
@@ -59,7 +59,7 @@ Welcome～!");
     VoicePlay("P630400001_04_050");
     MsgDisp("Nanatsumori","Yeah.
 Can you eat vegetables here too this year?");
-    MsgDisp("主人公","Nope. You can drink herb tea though. The
+    MsgDisp("主人公","Nope. You can drink herbal tea though. The
 vegetables are sold directly. They're
 vegetables organically grown by the
 Gardening Club.");

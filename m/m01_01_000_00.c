@@ -38,9 +38,9 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("M010100000_01_040");
-MsgDisp("Kazama","Aa.
+MsgDisp("Kazama","Yeah.
 When I was in England, Mom made them for me a
-lot. Icing Cookies.");
+lot. Icing cookies.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -79,6 +79,6 @@ Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
-MsgDisp("主人公","(｛Kazama＊＊｝,thank you.
+MsgDisp("主人公","(｛Kazama＊＊｝, thank you.
 I feel a lot better.
 I'll rest properly and get all better!)");

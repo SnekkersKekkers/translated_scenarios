@@ -3,10 +3,10 @@ BGMPlay("BGM_PROLOGUE",0.01);
 BGOpen("ad110",0);
 ScrFadeIn(0);
 VoicePlay("A010000000_01_160");
-MsgDisp("Ryota","\"Alright, let's go!
-Ready, set, blow!!\"");
+MsgDisp("Ryota","\"Okay, here we go!
+Ready... set...!!\"");
 VoicePlay("A010000000_01_170");
-MsgDisp("Pair","\"Pfffshhh!!\"");
+MsgDisp("Together","\"Pfffshhh!!\"");
 SEPlay("EV_SE_695",0.3,0.2);
 Wait(90,0);
 MsgClear();

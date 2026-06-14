@@ -14,7 +14,7 @@ It's a popular chocolate I saw on Habatcher.");
     ChMotion(4,0);
     VoicePlay("L040400002_04_010");
     MsgDisp("Nanatsumori","I know.
-Heh, looking forward to eating it.
+Ooh, looking forward to eating it.
 Thank you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

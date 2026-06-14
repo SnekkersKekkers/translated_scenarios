@@ -84,7 +84,7 @@ Then what?");
         MsgDisp("Kazama","...Drop it.
 A fancy dinner is fine.");
         MsgDisp("主人公","(｛Kazama＊＊｝, even if you did get a perfect
-score, the prize is a travel voucher?)");
+score, the prize is a travel voucher anyway?)");
         break ;
         default :
         DbgAssert(1);

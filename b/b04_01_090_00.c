@@ -39,8 +39,8 @@ where the plants originally come from.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040109000_01_030");
-    MsgDisp("Kazama","Hey, what's wrong?
-Just where are you dragging me along to?");
+    MsgDisp("Kazama","Hey, what's gotten into you?
+What's drawing you in like that?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

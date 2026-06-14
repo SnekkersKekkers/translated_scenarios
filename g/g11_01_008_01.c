@@ -57,7 +57,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100801_01_050");
-MsgDisp("Kazama","...You were right, though");
+MsgDisp("Kazama","...You were right, though.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,2);

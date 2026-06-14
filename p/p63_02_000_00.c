@@ -7,7 +7,7 @@ switch (ChPrmGet(2,6)){
     case 3:
     BGOpen("sc722",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're serving homemade herb tea
+    MsgDisp("主人公","(This year we're serving homemade herbal tea
 and cookies. It would be nice if it was well
 received though...)");
     MsgClose();
@@ -44,7 +44,7 @@ for your first time trying it♪");
     MsgDisp("Sassa","Then, I'll have your recommended blend and
 cookies please.");
     MsgDisp("主人公","Then, this way please.
-One herb tea set please!");
+One herbal tea set please!");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(2,#1);
@@ -55,7 +55,7 @@ One herb tea set please!");
     case 5:
     BGOpen("sc722",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're serving homemade herb tea
+    MsgDisp("主人公","(This year we're serving homemade herbal tea
 and cookies. It would be nice if it was well
 received though...)");
     MsgClose();
@@ -85,7 +85,7 @@ effect.");
     MsgDisp("Sassa","I see, a synergistic effect.
 Then, please give me your recommended set.");
     MsgDisp("主人公","Then, this way please.
-One herb tea set, please.");
+One herbal tea set, please.");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(2,#1);

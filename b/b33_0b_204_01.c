@@ -59,7 +59,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B20401_01_020");
-MsgDisp("Kazama","Insect doctor・Honda has appeared...");
+MsgDisp("Kazama","Professor Honda, the bug expert, has appeared...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);

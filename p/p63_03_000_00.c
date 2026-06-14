@@ -39,7 +39,7 @@ Let's have a break.");
     case 4:
     case 5:
     MsgDisp("主人公","(This year the Gardening Club's program is a
-cafe. I have to prepare herb tea and cookies
+cafe. I have to prepare herbal tea and cookies
 though...)");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);

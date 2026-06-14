@@ -216,7 +216,7 @@ switch (MsgSelRsltGet()){
     NSSMouth(1,0);
     VoicePlay("A020100000_01_160");
     MsgDisp("Kazama","Well yeah, that too.
-At that time, together in that church, we-");
+At that time, together in that church, we—");
     break ;
     case 1:
     MsgDisp("主人公","The wishes we made together to the pinwheel?");

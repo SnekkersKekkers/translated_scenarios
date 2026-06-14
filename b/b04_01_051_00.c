@@ -5,7 +5,7 @@ ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040105100_01_000");
 MsgDisp("Kazama","You were totally into it, weren't you?");
-MsgSel("The starry sky was romantic.","｛Kazama＊＊｝, did you fall asleep?","The seats were so soft, I fell sleep...");
+MsgSel("The starry sky was romantic.","｛Kazama＊＊｝, did you fall asleep?","The seats were so soft, I fell asleep...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

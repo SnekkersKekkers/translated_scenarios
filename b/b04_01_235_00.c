@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123500_01_000");
-MsgDisp("Kazama","When I think of haunted houses, this is 
+MsgDisp("Kazama","When I think of haunted houses, this is
 exactly what comes to mind.
 It has to be in a purely Japanese style.");
 MsgSel("That was scary, but fun!","I thought my legs were gonna give out...","The tricks were weak, definitely no good!");

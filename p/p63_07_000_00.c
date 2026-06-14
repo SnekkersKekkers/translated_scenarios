@@ -30,7 +30,7 @@ people should gather by word of mouth.");
     MsgDisp("Mikage","Firstly could I indulge in a little breather
 first?");
     MsgDisp("主人公","Yes.
-A herb tea set coming up～!");
+A herbal tea set coming up～!");
     break ;
     case 4:
     case 5:
@@ -61,7 +61,7 @@ customers.");
 attracting customers.
 First, let's taste them.");
     MsgDisp("主人公","Yes.
-A herb tea set coming up～!");
+A herbal tea set coming up～!");
     break ;
     default :
     DbgAssert(1);

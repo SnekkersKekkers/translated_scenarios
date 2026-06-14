@@ -21,7 +21,7 @@ VoicePlay("P640400004_04_020");
 MsgDisp("Nanatsumori","Seriously?
 I think I really like it.");
 MsgDisp("主人公","Hehe, I'm glad.
-Would you like another serving of herb tea?");
+Would you like another serving of herbal tea?");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);

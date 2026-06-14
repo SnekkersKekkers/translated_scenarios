@@ -53,7 +53,7 @@ okay?");
     VoicePlay("P730700001_07_050");
     MsgDisp("Mikage","Well, it's your turn.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Al—right.
+    MsgDisp("主人公","(Alriiight.
 Let's charm both ｛Mikage＊＊｝ the audience
 and the customers.)");
     break ;

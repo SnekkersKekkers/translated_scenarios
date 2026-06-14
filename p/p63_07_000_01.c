@@ -7,7 +7,7 @@ switch (ChPrmGet(7,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year we're selling herb tea and
+    MsgDisp("主人公","(This year we're selling herbal tea and
 vegetables. It would be nice if the
 vegetables everyone grew was well received.)");
     MsgClose();
@@ -37,7 +37,7 @@ Then, one original blend herbal tea!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year we're selling herb tea and
+    MsgDisp("主人公","(This year we're selling herbal tea and
 vegetables. It would be nice if the
 vegetables everyone grew was well received.)");
     MsgClose();

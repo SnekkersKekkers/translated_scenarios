@@ -76,7 +76,7 @@ Now's the best time.");
 MsgClear();
 VoicePlay("Y300300400_03_030");
 MsgDisp("Honda","\"Right, right, that's her.
-ever-changing and with no key to
+Ever-changing and with no key to
 understanding her. That's why she's
 interesting.\"");
 VoicePlay("Y300300400_04_030");

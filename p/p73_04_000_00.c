@@ -47,7 +47,7 @@ So, I understand your feelings very well.");
 confidence.");
     MsgDisp("主人公","Yeah.
 Thank you!");
-    MsgDisp("主人公","(Al—right, in order for me to look wonderful
+    MsgDisp("主人公","(Alriiight, in order for me to look wonderful
 too, I'll do my best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -95,7 +95,7 @@ Show your cool side.");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(Maybe when ｛Nanatsumori＊｝ cheers me on, I
 gain courage.
-Al—right, let's do it!)");
+Alriiight, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -73,9 +73,9 @@ ChMouth(1,3);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("B140100100_01_060");
-MsgDisp("Kazama","Our differences are so drastic.
-It's a bit scary not knowing what comes
-after.");
+MsgDisp("Kazama","The ups and downs between us have been so
+extreme. It's a bit scary, not knowing
+what comes next.");
 ChMotion(1,0);
 MsgDisp("主人公","(｛Kazama＊＊｝...
 What's going to happen once we graduate?)");

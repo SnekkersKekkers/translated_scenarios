@@ -35,7 +35,7 @@ VoicePlay("G110100200_01_010");
 MsgDisp("Kazama","...I see.
 Then the other day, I guess you were just
 coincidentally busy.");
-MsgDisp("主人公","Recently...?");
+MsgDisp("主人公","The other day...?");
 ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,0);

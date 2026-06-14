@@ -9,7 +9,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("Q040100000_01_000");
     MsgDisp("Kazama","Good morning.
 Well, aren't you in high spirits today?");
-    MsgDisp("主人公","Come on, I'm doing normal.
+    MsgDisp("主人公","Come on, I'm acting totally normal.
 How about we go around together for today's
 free period?");
     break ;

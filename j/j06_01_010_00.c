@@ -29,7 +29,7 @@ Where do you want me to meet you?");
         MsgDisp("Kazama","OK.
 Well, knowing us, we'd find each other no
 matter where we are, right?");
-        MsgDisp("主人公","Hmmm.
+        MsgDisp("主人公","Hehe.
 You have to be at the meeting point.
 Get it?");
         VoicePlay("J060101000_01_040");

@@ -2,7 +2,7 @@ BGOpen("sc723",0);
 BGMPlay("BGM_PLACE_SHOP",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year we're serving herb tea and selling
+MsgDisp("主人公","(This year we're serving herbal tea and selling
 vegetables.
 It would be great if people liked it...)");
 MsgClose();
@@ -18,7 +18,7 @@ VoicePlay("P633100001_31_010");
 MsgDisp("Goro","Hello〜 The vegetables are like works of art.");
 MsgDisp("主人公","Yes!
 Everyone in the gardening club grew them.
-The herb tea is also homemade.");
+The herbal tea is also homemade.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);

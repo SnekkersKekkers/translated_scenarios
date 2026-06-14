@@ -22,7 +22,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("P640200000_02_020");
 MsgDisp("Sassa","It's somewhat relaxing, it's delicious.
-To me, you're herb tea.");
+To me, you're herbal tea.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);

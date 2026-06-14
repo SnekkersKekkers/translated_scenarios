@@ -30,8 +30,8 @@ MsgClose();
 ChOpen(1,33,7,0,3,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
-MsgDisp("主人公","Can we please see them together again next
-year?");
+MsgDisp("主人公","Should we make a wish to see them together
+again next year?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

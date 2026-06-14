@@ -36,7 +36,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020100000_01_440");
-MsgDisp("Kazama","Ah, let's make a wish together.");
+MsgDisp("Kazama","Ah, the wish we made together.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

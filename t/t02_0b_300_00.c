@@ -65,7 +65,7 @@ ChOpen(1,254,0,2,3,0,#1,0,1,0,30);
 SEPlay("EV_SE_544");
 ChOpen(3,254,1,3,3,#1,#1,0,2);
 VoicePlay("T020B21000_03_000");
-MsgDisp("Honda","Welcome back Ryota-kun!
+MsgDisp("Honda","Welcome back, Ryou-kun!
 I'm glad we were able to graduate
 together.");
 ChEye(1,4);
@@ -75,7 +75,7 @@ VoicePlay("T020B21000_01_070");
 MsgDisp("Kazama","That's right.
 I'm back.");
 MsgDisp("主人公","｛Honda＊＊｝.
-Congratualitions on your graduation!");
+Congratulations on your graduation!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

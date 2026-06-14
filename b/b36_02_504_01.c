@@ -11,7 +11,7 @@ ChMouth(2,3);
 ChMotion(2,2,1);
 ScrFadeIn(0);
 VoicePlay("B360250401_02_000");
-MsgDisp("Sassa","Heh—, it's beautiful.");
+MsgDisp("Sassa","Ohh, it's beautiful.");
 MsgDisp("主人公","Yeah!");
 ChEye(2,0);
 ChMouth(2,3);

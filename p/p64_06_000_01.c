@@ -16,7 +16,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P640600001_06_020");
 MsgDisp("Himuro","Yeah, it's awful.");
-MsgDisp("主人公","(A—ah.
+MsgDisp("主人公","(Aah—
 It was a huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);

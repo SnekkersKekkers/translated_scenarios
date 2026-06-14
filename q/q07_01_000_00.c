@@ -102,7 +102,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("Q070100000_01_090");
 MsgDisp("Kazama","It's amazing how the owner came to a foreign
-country 9000km from the UK, such a long time
+country 9000km from England, such a long time
 ago.");
 MsgDisp("主人公","Do you understand the feeling he may have
 had, ｛Kazama＊＊｝?");
@@ -125,7 +125,7 @@ ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("Q070100000_01_120");
-MsgDisp("Kazama","I also liked the UK.
+MsgDisp("Kazama","I also liked England.
 But...
 I had a reason to come back.");
 MsgDisp("主人公","I see.

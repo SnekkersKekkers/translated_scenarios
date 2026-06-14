@@ -68,7 +68,7 @@ Oh, are you going in?");
     ChEyeOpenLevel(1,0);
     VoicePlay("S120100001_01_040");
     MsgDisp("Kazama","...Ha.
-No, it's fine.");
+No, I'll pass.");
     MsgDisp("主人公","Do you have something you need to do?");
     ChEye(1,0);
     ChMouth(1,2);

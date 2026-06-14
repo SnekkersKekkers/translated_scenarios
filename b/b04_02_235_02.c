@@ -101,7 +101,7 @@ find?");
         ChMouth(2,0);
         ChMotion(2,5);
         VoicePlay("B040223502_02_100");
-        MsgDisp("Sassa","O—i, stop it.
+        MsgDisp("Sassa","Oooi, stop it.
 That's enough after all.
 Let's go elsewhere!");
         MsgClose();

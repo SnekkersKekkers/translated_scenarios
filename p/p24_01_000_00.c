@@ -112,7 +112,7 @@ StlEye(1,0);
 StlMouth(1,0);
 StlCheek(1,0);
 VoicePlay("P240100000_01_080");
-MsgDisp("Kazama","I finally met you at last, Cinderella.");
+MsgDisp("Kazama","I've found you at last, Cinderella.");
 VoicePlay("P240100000_01_090");
 MsgDisp("Kazama","On the night of the ball, you stole my heart
 away.

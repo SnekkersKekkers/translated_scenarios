@@ -9,7 +9,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110305_01_010");
-MsgDisp("Kazama","When I headed to the UK that first year of
+MsgDisp("Kazama","When I headed to England that first year of
 primary school, after I lost you, every day
 felt painfully long.");
 MsgDisp("主人公","｛Kazama＊＊｝...");

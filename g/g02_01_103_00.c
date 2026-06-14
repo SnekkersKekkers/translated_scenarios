@@ -32,7 +32,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110300_01_040");
 MsgDisp("Kazama","Though a kiss on the forehead is even less of
-a big deal than saying hello in the UK.");
+a big deal than saying hello in England.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);

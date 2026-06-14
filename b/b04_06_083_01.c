@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040608301_06_010");
-    MsgDisp("Himuro","Heh, you've got your act together huh?
+    MsgDisp("Himuro","Oh, you've got your act together huh?
 Proper measures are important after all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

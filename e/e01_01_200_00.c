@@ -46,7 +46,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010120000_06_030");
 MsgDisp("Himuro","Right back at you, Ryota-senpai.
-Heh, so that's how it is?");
+Oh, so that's how it is?");
 MsgDisp("主人公","Hum...
 What are you guys doing here?");
 ChEye(1,0);

@@ -10,6 +10,6 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B020100013_01_010");
 MsgDisp("Kazama","Yep.
-It would be a waste not to show it off.");
+It'd almost be a waste to let other people see you in it.");
 MsgDisp("主人公","(Yay!
 I'm glad I wore a yukata!)");

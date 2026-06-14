@@ -6,8 +6,8 @@ VoicePlay("P840100004_39_000");
 MsgDisp("Student A","I apologize for the inconvenience...");
 VoicePlay("P840100004_41_010");
 MsgDisp("Student B","We're very sorry...");
-MsgDisp("主人公","Haa, I'm glad that was resolved without
-incidence.");
+MsgDisp("主人公","Phew, I'm glad that was resolved without
+incident.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

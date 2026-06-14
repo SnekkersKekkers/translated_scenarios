@@ -61,7 +61,7 @@ MsgDisp("Kazama","Come on, you're thanking me again.
 See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(I went to the shrine with (｛Kazama＊＊｝, and
+MsgDisp("主人公","(I went to the shrine with ｛Kazama＊＊｝, and
 even celebrated my birthday with him.
 It's a great start to the new year.)");
 MsgClose();

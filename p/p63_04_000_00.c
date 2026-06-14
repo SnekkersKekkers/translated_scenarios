@@ -42,7 +42,7 @@ One customer, please follow me—!");
     case 4:
     case 5:
     MsgDisp("主人公","(This year the Gardening Club's program is a
-cafe. I have to prepare herb tea and cookies
+cafe. I have to prepare herbal tea and cookies
 though...)");
     MsgClose();
     ChLayout(1);
@@ -62,7 +62,7 @@ I came to see how you're doing—");
     ChMotion(4,2,1);
     VoicePlay("P630400000_04_060");
     MsgDisp("Nanatsumori","No...
-It's herb tea and cookies right?
+It's herbal tea and cookies right?
 The Gardening Club's store.");
     MsgDisp("主人公","Yeah it is.
 I have confidence it's delicious!");

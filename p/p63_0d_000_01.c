@@ -2,7 +2,7 @@ BGOpen("sc723",0);
 BGMPlay("BGM_PLACE_SHOP",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year we're doing herb tea and a
+MsgDisp("主人公","(This year we're doing herbal tea and a
 vegetable sale.
 It would be nice if it was well-received...)");
 MsgClose();

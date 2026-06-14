@@ -111,7 +111,7 @@ MsgDisp("Nanatsumori","A gentle older sister, huh...
 I guess you're right.");
 ChMotion(4,2,1);
 VoicePlay("D010400600_04_130");
-MsgDisp("Nanatsumori","Ah—h.
+MsgDisp("Nanatsumori","Ah—
 When will she finally let it go?");
 MsgDisp("主人公","(｛Nanatsumori＊｝ doesn't seem that bothered,
 really...

@@ -71,8 +71,8 @@ You're a real dummy, you know?");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040108302_01_060");
-        MsgDisp("Kazama","It's okay, inner voice.
-By all means, please continue.");
+        MsgDisp("Kazama","Nice, your inner voice sounds just like you.
+ C'mon, keep it going.");
         MsgDisp("主人公","Hey, I'm not doing it again.");
         ChEye(1,4);
         ChMouth(1,3);

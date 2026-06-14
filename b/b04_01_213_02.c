@@ -59,7 +59,7 @@ chance.");
         VoicePlay("B040121302_01_040");
         MsgDisp("Kazama","That big dog seemed to lick your hand more
 than it wanted the food.");
-        MsgDisp("主人公","Is that so.");
+        MsgDisp("主人公","Is that so?");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,3);
@@ -74,8 +74,8 @@ Maybe there was a person inside?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121302_01_060");
         MsgDisp("Kazama","I know that, but I don't like that male dog.");
-        MsgDisp("主人公","She's a dog, it can't be helped.
-And besides, she was a girl, you know?");
+        MsgDisp("主人公","It's a dog, it can't be helped.
+And besides, it was a girl, you know?");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);

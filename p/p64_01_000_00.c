@@ -17,7 +17,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P640100000_01_020");
 MsgDisp("Kazama","It was tasty.");
-MsgDisp("主人公","YAy!");
+MsgDisp("主人公","Yay!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

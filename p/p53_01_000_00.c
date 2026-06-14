@@ -37,7 +37,7 @@ relax?");
     ChMotion(1,0);
     VoicePlay("P530100000_01_030");
     MsgDisp("Kazama","Even if I'm nervous now, it won't affect my
-my ability, right?");
+ability, right?");
     MsgDisp("主人公","I see, that's right.");
     SEPlay("EV_SE_038");
     SEWait();
@@ -95,7 +95,7 @@ I said it so you can trust me.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Hehe, thank you.
-｛Kazama＊＊｝ Did that help you relax?");
+｛Kazama＊＊｝, you helped me relax.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

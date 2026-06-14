@@ -42,8 +42,8 @@ Let's grill up some meat, just the two of us!");
     ChMotion(1,0);
     VoicePlay("B040124200_01_030");
     MsgDisp("Kazama","Isn't that what you want?
-Geez...you're not allowed to use any
-convenient tools for the rest of the day.");
+Geez...convenient tools are banned for you
+the rest of the day.");
     MsgDateResultDisp();
     break ;
     default :

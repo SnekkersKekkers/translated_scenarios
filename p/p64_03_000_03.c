@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("P640300003_03_000");
 MsgDisp("Honda","｛主人公｝.
-Is my herb tea not done yet?");
+Is my herbal tea not done yet?");
 MsgDisp("主人公","Ehh∋
 Sorry, I'll prepare it right away.");
 ChEye(3,4);
@@ -22,7 +22,7 @@ MsgDisp("Honda","But, the vegetables for sale should be put in
 the shade.
 It would be a shame if the leaves wilted.");
 MsgDisp("主人公","(Uugh...
-I wasn't attentive to the herb tea nor the
+I wasn't attentive to the herbal tea nor the
 sale... I regret it.)");
 MsgClose();
 ScrFadeOut(0,0);

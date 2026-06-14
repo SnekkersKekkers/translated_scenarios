@@ -94,7 +94,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020120000_01_100");
-MsgDisp("Kazama","I'm overflooded with the emotions of being
+MsgDisp("Kazama","I'm overflowing with the emotions of being
 separated from the girl I loved and the
 memories of you...");
 ChEye(1,4);
@@ -113,9 +113,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020120000_01_120");
-MsgDisp("Kazama","...Digging for sweet potatoes at
-kindergarten. A big smile stained with mud
-from that day.");
+MsgDisp("Kazama","Your crying face when I lost at the
+kindergarten sports day.");
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 Wait(12,0);

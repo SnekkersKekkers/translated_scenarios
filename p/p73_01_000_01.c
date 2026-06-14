@@ -118,7 +118,7 @@ Yeah, I'll see you later!");
     MsgClose();
     ChClose(1,0,30);
     MsgDisp("主人公","(｛Kazama＊＊｝ praised me well.
-Alr—ight, let's do our best!)");
+Alriiight, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

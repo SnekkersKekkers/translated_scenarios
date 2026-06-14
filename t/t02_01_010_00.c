@@ -73,7 +73,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020101000_01_080");
-MsgDisp("Kazama","I'm overflooded with the emotions of being
+MsgDisp("Kazama","I'm overflowing with the emotions of being
 separated from the girl I loved and the
 memories of you...");
 ChEye(1,4);

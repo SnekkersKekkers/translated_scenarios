@@ -11,7 +11,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("P830100001_48_000");
     MsgDisp("School Girl","Excuse me, I'd like to borrow a trolley
 please.");
-    MsgDisp("主人公","Ye—s");
+    MsgDisp("主人公","Yes～");
         MsgDisp("主人公","(Phew, this year I'm in charge of supplies.
 I'm super busy, huh...)");
     MsgClose();
@@ -42,7 +42,7 @@ when it's break time, let's eat it.");
     ChMotion(1,0);
     VoicePlay("P830100001_01_030");
     MsgDisp("Kazama","Then do your best, Manager-san.");
-    MsgDisp("主人公","Hehe, ye—s.");
+    MsgDisp("主人公","Hehe, yes～.");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

@@ -20,7 +20,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("P640200002_02_020");
-MsgDisp("Sassa","Huu—m.
+MsgDisp("Sassa","Huum.
 But if you ask me, I think the herbs that you
 grew have quite a lot of benefits.");
 MsgDisp("主人公","Hehe, thank you!

@@ -29,7 +29,7 @@ VoicePlay("E010220200_04_010");
 MsgDisp("Nanatsumori","Yep.
 I thought I saw a guy with the same shopping
 bag as me and it happened to be Sassa.");
-MsgDisp("主人公","Heh...
+MsgDisp("主人公","Oh...
 What a surprise, I didn't think your
 interests overlapped.");
 ChEye(2,0);

@@ -62,7 +62,7 @@ year?");
     MsgDisp("Shirahane","Yeah.
 With my big bro and sis. And on the way home,
 we drink nice warm sweet sake.");
-    MsgDisp("主人公","Heh...
+    MsgDisp("主人公","Ooh...
 That sounds nice!");
     ChEye(8,3);
     ChMouth(8,3);

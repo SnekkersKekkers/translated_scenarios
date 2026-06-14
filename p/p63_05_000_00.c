@@ -9,7 +9,7 @@ switch (ChPrmGet(5,6)){
     case 3:
     ScrFadeIn(0);
     MsgDisp("主人公","(This year's display is a cafe.
-We prepared herb tea and cookies but...)");
+We prepared herbal tea and cookies but...)");
     MsgClose();
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("P630500000_05_000");
@@ -25,7 +25,7 @@ I heard I could partake in some delicious
 tea.");
     MsgDisp("主人公","Yeah.
 Using the herbs the Horticulture club grew,
-we made some herb tea and cookies.");
+we made some herbal tea and cookies.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -40,7 +40,7 @@ I look forward to it.");
     case 5:
     ScrFadeIn(0);
     MsgDisp("主人公","(This year's display is a cafe.
-We prepared herb tea and cookies but...)");
+We prepared herbal tea and cookies but...)");
     MsgClose();
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("P630500000_05_030");

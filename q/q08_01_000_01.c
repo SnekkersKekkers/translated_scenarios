@@ -107,7 +107,7 @@ I'm so happy.");
     VoicePlay("Q080100001_01_120");
     MsgDisp("Kazama","Yeah.
 School trips are so much fun, aren't they?
-We don't have this kind of thing in the UK.");
+We don't have this kind of thing in England.");
     MsgDisp("主人公","Oh yeah, it's the first time for you,
 ｛Kazama＊＊｝.");
     ChEye(1,4);

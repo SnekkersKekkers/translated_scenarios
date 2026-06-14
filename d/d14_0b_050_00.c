@@ -14,7 +14,7 @@ ChEye(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B05000_01_000");
 MsgDisp("Kazama","This is delicious...");
-MsgDisp("主人公","eh, which one?");
+MsgDisp("主人公","Eh, which one?");
 ChEye(4,1);
 ChMouth(4,3);
 ChEye(1,0);

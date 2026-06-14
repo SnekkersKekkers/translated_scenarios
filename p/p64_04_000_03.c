@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("P640400003_04_000");
 MsgDisp("Nanatsumori","......");
 MsgDisp("主人公","｛Nanatsumori＊｝, would you like another
-serving of herb tea?");
+serving of herbal tea?");
 ChMouthOpenLevel(4,#1);
 VoicePlay("P640400003_04_010");
 MsgDisp("Nanatsumori","No...

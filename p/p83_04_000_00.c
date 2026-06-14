@@ -29,7 +29,7 @@ Yeah, super busy.");
     MsgDisp("School Girl","Um—.
 The audiovisual room doesn't have enough
 blackout curtains. Could you bring some?");
-    MsgDisp("主人公","Ye—s.
+    MsgDisp("主人公","Yes～.
 Then I'll be going now!");
     ChEye(4,2);
     ChMouth(4,2);

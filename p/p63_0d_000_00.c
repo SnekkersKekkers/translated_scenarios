@@ -4,7 +4,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(This year the Gardening Club's program is a
 cafe.
-We prepared herb tea and cookies, but...)");
+We prepared herbal tea and cookies, but...)");
 MsgClose();
 ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,3,3,#1,#1,0,2);
@@ -36,6 +36,6 @@ VoicePlay("P630D00000_21_010");
 MsgDisp("Michiru","Let's do that.
 Then, let's go by Mari's recommendation.");
 MsgDisp("主人公","Certainly.
-Two customers, this way ple—ase!");
+Two customers, this way pleaase!");
 MsgClose();
 ScrFadeOut(0,0);

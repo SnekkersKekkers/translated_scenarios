@@ -28,8 +28,7 @@ It's really restless around here.");
     ChMotion(1,0);
     ScrFadeIn(0);
     VoicePlay("S070100000_01_020");
-    MsgDisp("Kazama","Should we carve tablets since we're visiting
-the shrine?");
+    MsgDisp("Kazama","Since we're here, want to write wishes on the plaques?");
     MsgDisp("主人公","Yeah, that sounds good.");
     ChEye(1,0);
     ChMouth(1,3);

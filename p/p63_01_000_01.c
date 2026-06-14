@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're doing herb tea and a
+    MsgDisp("主人公","(This year we're doing herbal tea and a
 vegetable sale.
 It would be nice if it was well-received...)");
     MsgClose();
@@ -41,7 +41,7 @@ Well, I'll have a look.");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're doing herb tea and a
+    MsgDisp("主人公","(This year we're doing herbal tea and a
 vegetable sale.
 It would be nice if it was well-received...)");
     MsgClose();
@@ -59,8 +59,8 @@ Are there still the vegetables you grew?");
     MsgDisp("Kazama","I came in because I was interested in the
 herbs and vegetables you grew.");
     MsgDisp("主人公","Welcome.
-You can drink herb tea here, though the
-vegetables are sold.");
+You can drink herbal tea here, but the
+vegetables are for sale.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

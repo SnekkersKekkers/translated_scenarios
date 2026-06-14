@@ -139,7 +139,7 @@ He's my classmate.");
     MsgClose();
     ChOpen(1,255,0,4,3,#1,#1,0,0);
     VoicePlay("I550100000_01_140");
-    MsgDisp("Kazama","...Nice to meet you, I'm her classmate Ryota.");
+    MsgDisp("Kazama","...Nice to meet you, I'm her classmate Kazama.");
     MsgClose();
     ScrFadeOut(0);
     ChEye(1,0);
