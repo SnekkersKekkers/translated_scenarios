@@ -75,7 +75,7 @@ comfort in the times in which I was with you.");
 No way?
 Huh, Yanosuke-sama∈");
         VoicePlay("B040503102_46_000");
-        MsgDisp("Woman B","Waa, amazing, is it really?
+        MsgDisp("Woman B","Wow, amazing, is it really?
 I wonder if that girl is Yanosuke-sama's
 girlfriend?");
         VoicePlay("B040503102_45_010");

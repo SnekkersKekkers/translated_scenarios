@@ -6,7 +6,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606301_06_000");
 MsgDisp("Himuro","Be careful not to fall.");
-MsgSel("You're a worrywart.","Thank you.","I got i――Aaah!");
+MsgSel("You're a worrywart.","Thank you.","I got i—Aaah!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

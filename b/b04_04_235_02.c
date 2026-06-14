@@ -69,7 +69,7 @@ The real thing...");
         ChMouth(4,5);
         ChMotion(4,5,1);
         VoicePlay("B040423502_04_070");
-        MsgDisp("Nanatsumori","Waa∋
+        MsgDisp("Nanatsumori","Wow∋
 What's with that all of a sudden!");
         MsgDisp("主人公","There was a pond over there, right?
 Maybe it was a reflection on the water's

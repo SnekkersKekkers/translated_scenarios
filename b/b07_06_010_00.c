@@ -35,8 +35,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070601000_06_040");
 MsgDisp("Himuro","When I was suddenly asked that question, my
-mind went blank and I answered that question
-on the spur of the moment...");
+mind went blank and I blurted out that answer on the spur of the moment...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -71,7 +71,7 @@ put down with his shell.");
         ChMotion(1,1);
         VoicePlay("B040121202_01_050");
         MsgDisp("Kazama","Um, what about these wolf-shaped scissors?");
-        MsgDisp("主人公","Waa, it's true!
+        MsgDisp("主人公","Wow, it's true!
 It seems kinda cool.");
         ChEye(1,0);
         ChMouth(1,2);

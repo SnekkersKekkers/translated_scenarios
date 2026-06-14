@@ -27,7 +27,7 @@ MsgDisp("Himuro","But there's always someone who's got it more.
 Look.");
 ChMouth(1,2);
 VoicePlay("B330A20700_02_000");
-MsgDisp("Sassa","Uwaa, what's up?
+MsgDisp("Sassa","Whoa, what's up?
 Why are you clinging onto me like that?");
 MsgDisp("主人公","｛Sassa＊＊｝?");
 VoicePlay("B330A20700_02_010");

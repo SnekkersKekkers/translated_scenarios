@@ -49,7 +49,7 @@ I feel like I'm flying in the sky like this?");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040423600_04_030");
-    MsgDisp("Nanatsumori","...I'll hold back.");
+    MsgDisp("Nanatsumori","...Just tough it out.");
     MsgDateResultDisp();
     break ;
     default :

@@ -88,7 +88,7 @@ It's strange isn't it?");
         MsgDisp("Nanatsumori","Rumor has it that the rings they make will
 bring happiness to each couple that wears
 them.");
-        MsgDisp("主人公","Waa, how wonderful...!");
+        MsgDisp("主人公","Wow, how wonderful...!");
         ChEye(4,4);
         ChMouth(4,4);
         VoicePlay("B040412102_04_090");

@@ -9,7 +9,7 @@ MsgClose();
 ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa, pretty...!");
+MsgDisp("主人公","Wow, pretty...!");
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B140400100_04_000");

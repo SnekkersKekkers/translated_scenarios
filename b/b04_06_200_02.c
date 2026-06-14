@@ -11,7 +11,7 @@ SEWait();
 MsgClose();
 ChOpen(6,32,0,2,1,0,#1,0,0);
 VoicePlay("B040620002_06_000");
-MsgDisp("Himuro","Uwaa∋
+MsgDisp("Himuro","Whoa∋
 ...ow.");
 MsgSel("A-Are you alright?","It's difficult isn't it?","You're so clumsy!");
 switch (MsgSelRsltGet()){
@@ -71,7 +71,7 @@ I'm still not used to it.");
         SEPlay("EV_SE_760");
         SEWait();
         SEPlay("EV_SE_565");
-        MsgDisp("主人公","Eh...waa∋");
+        MsgDisp("主人公","Eh...Wow∋");
         SEPlay("EV_SE_011");
         ScrQuake(1);
         Wait(80,0);

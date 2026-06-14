@@ -108,7 +108,7 @@ You make a good combination you know?");
         MsgDisp("Sassa","Yeah.
 Isn't it better if you get along?
 For the future...you know.");
-        MsgDisp("主人公","(...Waa, what do I do, should I greet her
+        MsgDisp("主人公","(...Wow, what do I do, should I greet her
 again?)");
         break ;
         default :

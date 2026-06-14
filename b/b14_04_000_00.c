@@ -9,7 +9,7 @@ MsgClose();
 ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa...!
+MsgDisp("主人公","Wow...!
 The lights are beautiful!
 The blue world is expanding...");
 ChMouth(4,3);

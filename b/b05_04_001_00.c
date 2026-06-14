@@ -49,7 +49,7 @@ ChClose(4,0,30);
 ScrQuake(1);
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","Waa, ｛Nanatsumori＊｝～∋");
+MsgDisp("主人公","Wow, ｛Nanatsumori＊｝～∋");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

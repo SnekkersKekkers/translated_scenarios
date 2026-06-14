@@ -87,7 +87,7 @@ Come on, let's go then big sister.");
         ChOpen(6,253,4,0,0,#1,#1,0,0);
         VoicePlay("B040621102_06_090");
         MsgDisp("Himuro","Is something wrong?");
-        MsgDisp("主人公","Waa!
+        MsgDisp("主人公","Wow!
 Y-You're so close, ｛Himuro＊＊｝!");
         ChEye(6,0);
         ChMouth(6,0);

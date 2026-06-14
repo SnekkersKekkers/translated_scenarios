@@ -7,7 +7,7 @@ VoicePlay("B050100200_01_000");
 MsgDisp("Kazama","How about we finish the day with some coffee
 boiled over charcoal, while watching the
 autumn leaves?");
-MsgDisp("主人公","Waa, that sounds wonderful!");
+MsgDisp("主人公","Wow, that sounds wonderful!");
 MsgClose();
 ScrFadeOut(0,0);
 SEPlay("EV_SE_523",1.2,0.5);
@@ -30,7 +30,7 @@ ScrFadeIn(0);
 VoicePlay("B050100200_01_020");
 MsgDisp("Kazama","Here!
 You like this don't you?");
-MsgDisp("主人公","Waa, when did you get this?
+MsgDisp("主人公","Wow, when did you get this?
 ｛Kazama＊＊｝, you're like a magician!");
 StlEyeOpenLevel(1,5);
 VoicePlay("B050100200_01_030");

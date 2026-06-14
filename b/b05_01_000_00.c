@@ -88,7 +88,7 @@ SEPlay("EV_SE_623",0.3,0.5);
 SEPlay("EV_SE_616",0,0.5);
 Wait(25,0);
 ChClose(1,0,30);
-MsgDisp("主人公","Waa, that's dangerous!");
+MsgDisp("主人公","Wow, that's dangerous!");
 MsgClose();
 StlOpen("ev_01_02");
 StlEye(1,0);

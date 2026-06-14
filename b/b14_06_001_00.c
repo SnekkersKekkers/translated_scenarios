@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGMPlay("BGM_XMAS_TRHEE",0.01);
 BGOpen("ex290",2);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa, pretty...!");
+MsgDisp("主人公","Wow, pretty...!");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

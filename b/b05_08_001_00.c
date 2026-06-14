@@ -54,7 +54,7 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa...the sunset is beautiful!");
+MsgDisp("主人公","Wow...the sunset is beautiful!");
 ChEye(8,4);
 ChMouth(8,0);
 VoicePlay("B050800100_08_060");

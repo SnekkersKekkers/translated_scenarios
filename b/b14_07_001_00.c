@@ -12,7 +12,7 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 Wait(40,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa!
+MsgDisp("主人公","Wow!
 There's so many lights, it's so pretty!");
 ChEye(7,0);
 ChMouth(7,3);

@@ -10,7 +10,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGMPlay("BGM_C04_NANA_B",0.01);
 Wait(60,0);
 VoicePlay("B070401000_04_000");
-MsgDisp("Nanatsumori","Before.
+MsgDisp("Nanatsumori","Hey, a while back—
 Do you remember when you asked me about love?");
 MsgDisp("主人公","Ah, yeah.");
 ChMotion(4,1,1);

@@ -6,7 +6,7 @@ ChMouth(6,2);
 ChMotion(6,4,1);
 ScrFadeIn(0);
 VoicePlay("B040603200_06_000");
-MsgDisp("Himuro","Uwa...
+MsgDisp("Himuro","Whoa...
 It's filled with couples...");
 MsgSel("Let's get lovey-dovey too!","Shall we go somewhere else?","Let's just be ourselves.");
 switch (MsgSelRsltGet()){

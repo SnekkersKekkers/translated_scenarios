@@ -14,7 +14,7 @@ ChOpen(2,255,0,0,4,#1,#1,0,3);
 SEPlay("EV_SE_817");
 ScrFadeIn(0);
 Wait(30,0);
-MsgDisp("主人公","Waa...that was intense, that speed...");
+MsgDisp("主人公","Wow...that was intense, that speed...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

@@ -70,7 +70,7 @@ It's the most efficient way anyway.");
         ChOpen(2,253,4,0,4,#1,#1,10,0);
         SEPlay("EV_SE_565");
         SEWait();
-        MsgDisp("主人公","Waa, it's so warm.");
+        MsgDisp("主人公","Wow, it's so warm.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

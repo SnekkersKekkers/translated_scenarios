@@ -39,7 +39,7 @@ even more motion sick.");
         MsgDisp("Honda","Besides, when I'm in a cup that's rotating on
 its own axis while orbiting, it feels like
 I'm on some unknown planet.");
-        MsgDisp("主人公","Waa, that's great.");
+        MsgDisp("主人公","Wow, that's great.");
         ChMotion(3,3);
         VoicePlay("B040323402_03_040");
         MsgDisp("Honda","See, it distracted you a bit right?");

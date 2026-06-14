@@ -8,7 +8,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgClose();
 ChOpen(2,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","Waa, amazing.
+MsgDisp("主人公","Wow, amazing.
 It's overflowing with so many different
 colors of lights!");
 ChEye(2,0);

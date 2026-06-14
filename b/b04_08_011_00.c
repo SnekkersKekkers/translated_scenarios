@@ -17,9 +17,9 @@ switch (MsgSelRsltGet()){
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("B040801100_08_010");
-    MsgDisp("Shirahane","Aah...you're right.
-It looks like it stretches on forever from up
-here... It's beautiful!");
+    MsgDisp("Shirahane","Aah... yeah, it really does.
+From up here it looks like it goes on forever, y'know...
+It's gorgeous!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,9 +30,9 @@ here... It's beautiful!");
     ChMouth(8,0);
     ChMotion(8,4,1);
     VoicePlay("B040801100_08_020");
-    MsgDisp("Shirahane","I wonder?
-Let's look for it together.
-Maybe it's over there.");
+    MsgDisp("Shirahane","Hmm, I dunno?
+Let's go lookin' for it together.
+Probably over that way, I reckon.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

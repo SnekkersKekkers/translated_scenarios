@@ -115,7 +115,7 @@ That's why—");
         ChEye(4,4);
         SEPlay("EV_SE_022");
         Wait(30,0);
-        MsgDisp("主人公","Waa...those are some huge fireworks!
+        MsgDisp("主人公","Wow...those are some huge fireworks!
 They're pretty, right?");
         ChEye(4,4);
         ChMouth(4,3);

@@ -90,8 +90,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070101000_01_100");
 MsgDisp("Kazama","Haa—, fine.
 Maybe I'm observing you too much.");
-MsgDisp("主人公","But, it could also be as ｛Kazama＊＊｝
-thinks—");
+MsgDisp("主人公","But maybe what ｛Kazama＊＊｝ thinks is actually right—");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -129,7 +128,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070101000_01_140");
-MsgDisp("Kazama","...I see, sorry.
+MsgDisp("Kazama","...Right, my bad.
 That's all I can handle today.");
 ChEye(1,4);
 ChMouth(1,2);

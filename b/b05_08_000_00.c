@@ -49,7 +49,7 @@ Wait(50,0);
 VoicePlay("B050800000_08_050");
 MsgDisp("Shirahane","Koi-san, Koi-san...
 Please listen to me...");
-MsgDisp("主人公","Waa, there's so many beautiful koi!");
+MsgDisp("主人公","Wow, there's so many beautiful koi!");
 VoicePlay("B050800000_08_060");
 MsgDisp("Shirahane","Please give me your heart's blessing...");
 MsgDisp("主人公","(Heart's blessing?)");

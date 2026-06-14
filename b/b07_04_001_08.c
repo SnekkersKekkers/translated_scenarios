@@ -46,7 +46,7 @@ MsgDisp("主人公","Bit by bit...?");
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_670");
 MsgDisp("Nanatsumori","You'll fall for me?");
-MsgDisp("主人公","(Waa, that's embarrassing∈)");
+MsgDisp("主人公","(Wow, that's embarrassing∈)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

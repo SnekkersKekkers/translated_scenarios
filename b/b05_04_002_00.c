@@ -23,7 +23,7 @@ Please remove your glasses.");
 StlEyeOpenLevel(4,0);
 VoicePlay("B050400200_04_020");
 MsgDisp("Nanatsumori","Got it.
-...Haa.");
+...Sigh.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -36,9 +36,9 @@ ScrFadeIn(0);
 VoicePlay("B050400200_48_010");
 MsgDisp("Staff","Thank you for your cooperation!
 Now, have a good dive!");
-MsgDisp("主人公","(Uugh...
-It's about time to jump ｛Nanatsumori＊｝
-is...)");
+MsgDisp("主人公","(Ugh...
+It's about time to jump.
+｛Nanatsumori＊｝ is...)");
 MsgDisp("主人公","Ah.");
 StlEyeOpenLevel(4,5,1);
 VoicePlay("B050400200_04_030");
@@ -65,7 +65,7 @@ MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_AMUSE_007",0,0.8);
 SEWait();
-MsgDisp("主人公","(Waa～∈)");
+MsgDisp("主人公","(AhhHHHhHh～∈)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

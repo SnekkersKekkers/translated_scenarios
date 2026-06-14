@@ -4,7 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 BGOpen("ex300",2);
 BGMPlay("BGM_XMAS_TRHEE",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Waa...pretty!
+MsgDisp("主人公","Wow...pretty!
 The lights are blue!");
 ChEye(6,0);
 ChMouth(6,4);

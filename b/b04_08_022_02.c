@@ -72,7 +72,7 @@ Just now.");
         ChMotion(8,5,1);
         ChCheek(8,10);
         VoicePlay("B040802202_08_070");
-        MsgDisp("Shirahane","Waa!
+        MsgDisp("Shirahane","Wow!
 That's enough, don't say it!");
         MsgDisp("主人公","(｛Daichi＊＊｝'s face is all red!)");
         break ;

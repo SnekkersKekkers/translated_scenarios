@@ -76,7 +76,7 @@ Wait(10,0);
 StlEyeOpenLevel(1,#1);
 StlMouthOpenLevel(1,10);
 ScrQuake(1);
-MsgDisp("主人公","Waa∈
+MsgDisp("主人公","Wow∈
 ｛Kazama＊＊｝, you can't let go of my hand no
 matter what∋");
 StlEye(1,1);

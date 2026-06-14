@@ -11,7 +11,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","It kinda looks like everyone's going on a
-trip doesn't it?");
+trip, doesn't it?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -45,7 +45,7 @@ Are ｛Kazama＊＊｝ and ｛Himuro＊＊｝ brothers?");
 ChMouth(1,1);
 VoicePlay("B330A20100_01_010");
 MsgDisp("Kazama","It's not funny.
-I'm clearly the dad, not for my build, but my
+I'm clearly the dad, not for my build, but for my
 presence.");
 ChEye(2,0);
 ChMouth(2,0);
