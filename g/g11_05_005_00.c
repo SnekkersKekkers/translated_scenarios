@@ -78,10 +78,7 @@ foods.
 And how Yakisoba differs in different places.");
 ChMouth(5,0);
 ChMotion(5,2);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝, It seems like you're more
-interested in Yakisoba than the festivals
-themselves...Maybe I should show him some
-B-grade gourmet food TV shows?)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, It seems like you're more\ninterested in Yakisoba than the festivals\nthemselves...Maybe I should show him some TV shows about comfort food?)");
 ChMotion(5,0);
 BGMStop();
 MsgClose();
