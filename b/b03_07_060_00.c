@@ -9,7 +9,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B030706000_07_000");
 MsgDisp("Mikage","Sure is hot. Summer means time for the sea,
-which is what today's extra credit class is
+which is what today's extracurricular lesson is
 all about. Have fun～!");
 VoicePlay("B030706000_38_000");
 MsgDisp("Students","Woohoo!");

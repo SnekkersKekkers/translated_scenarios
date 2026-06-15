@@ -38,8 +38,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P540700004_07_040");
-MsgDisp("Mikage","I see...that joy is your reward for working
-so hard.
+MsgDisp("Mikage","I see...that joy is your reward for being
+so diligent.
 It will become a wonderful memory.");
 ChEye(7,0);
 ChMouth(7,3);

@@ -43,16 +43,16 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10201_05_020");
-MsgDisp("Hiiragi","This definitely feels like a class field
-trip.");
+MsgDisp("Hiiragi","This definitely feels like an extracurricular
+lesson.");
 MsgDisp("主人公","Hehe.
 I guess so.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10201_07_020");
-MsgDisp("Mikage","Well, it is typical to have a class field
-trip here.");
+MsgDisp("Mikage","Well, it is typical to have an extracurricular
+lesson here.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,2);

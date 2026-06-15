@@ -33,8 +33,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("T020720030_07_040");
-MsgDisp("Mikage","Don't make me cry, my precious serious
-girl.");
+MsgDisp("Mikage","Don't make me cry, my precious Miss
+Diligent.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

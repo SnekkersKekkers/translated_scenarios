@@ -18,7 +18,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_030");
-MsgDisp("Mikage","But, you know, he's the kind of serious kid I
+MsgDisp("Mikage","But, you know, he's the kind of Miss Diligent I
 like. He told me he can't stand that part of
 himself.");
 MsgDisp("主人公","So that's how it is.");
@@ -47,7 +47,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700001_07_070");
 MsgDisp("Mikage","Crap.
-My serious side came out today.");
+My Miss Diligent side came out today.");
 MsgDisp("主人公","(｛Mikage＊＊｝ is always worrying about us,
 huh...)");
 BGMStop();

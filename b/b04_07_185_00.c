@@ -4,8 +4,8 @@ ChOpen(7,254,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040718500_07_000");
 MsgDisp("Mikage","What do you think about the \"Road to First
-Love\" being the theme of our class field
-trip?");
+Love\" being the theme of our extracurricular
+lesson?");
 MsgSel("I would like it!","Does ｛Mikage＊＊｝ dislike it?","What about your first love, Sensei?");
 switch (MsgSelRsltGet()){
     case 0:

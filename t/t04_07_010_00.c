@@ -11,7 +11,7 @@ StlOpen("ev_07_18");
 ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040701000_07_000");
-MsgDisp("Mikage","Yeah, you got even prettier today too.
+MsgDisp("Mikage","Yeah, you're even more of a beauty today too.
 I'll never let you go again.");
 MsgClose();
 ScrFadeOut(0,0,300);

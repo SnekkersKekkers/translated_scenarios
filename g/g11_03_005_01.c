@@ -1,8 +1,8 @@
 BGOpen("sc130",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The \"Skeleton Flower\" I saw in a club the
-other day was so beautiful...
+MsgDisp("主人公","(The \"Skeleton Flower\" I saw during the
+extracurricular lesson the other day was so beautiful...
 Maybe I can see it again in a photo book?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -29,7 +29,7 @@ ChMotion(3,0,1);
 VoicePlay("G110300501_03_010");
 MsgDisp("Honda","Yeah, they asked me to help out today.
 How can I help you?");
-MsgDisp("主人公","The \"Skeleton Flower\" I saw the other day was
+MsgDisp("主人公","The \"Skeleton Flower\" I saw during the extracurricular lesson the other day was
 so beautiful I was interested in that plant
 photo book.");
 ChEye(3,3);

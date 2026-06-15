@@ -7,7 +7,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B030710000_07_000");
-MsgDisp("Mikage","Well then, today's extra credit is the
+MsgDisp("Mikage","Well then, today's extracurricular lesson is the
 regular exhibit.
 Take it all in.");
 VoicePlay("B030710000_42_000");

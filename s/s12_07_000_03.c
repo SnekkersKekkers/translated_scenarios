@@ -104,8 +104,8 @@ fields.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S120700003_07_090");
-    MsgDisp("Mikage","Earlier, everyone prayed for the pumpkins to
-grow well and healthy, so don't worry.");
+    MsgDisp("Mikage","Earlier, everyone prayed for them to
+grow into real beauties, so don't worry.");
     MsgDisp("主人公","Hehe, that's a very kind wish from
 ｛Mikage＊＊｝.");
     ChEye(7,0);
@@ -114,14 +114,14 @@ grow well and healthy, so don't worry.");
     VoicePlay("S120700003_07_100");
     MsgDisp("Mikage","Really?
 At the same time, I also prayed for the real
-pumpkin to be healthy and strong.");
+beauty beside them to be healthy and strong.");
     MsgDisp("主人公","Eh?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700003_07_110");
-    MsgDisp("Mikage","Do you realize how red you're turning, Miss
-Pumpkin?
+    MsgDisp("Mikage","Do you realize how red you're turning, my
+little beauty?
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

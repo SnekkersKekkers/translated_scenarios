@@ -13,7 +13,7 @@ I tried wearing a kimono.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S060700001_07_010");
-    MsgDisp("Mikage","Inside there is sweet pea, right?");
+    MsgDisp("Mikage","Inside, you're a real beauty too, right?");
     MsgDisp("主人公","(Yay!
 Wearing a kimono was the right choice!)");
     break ;
@@ -55,7 +55,7 @@ Why is that?");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("S060700001_07_060");
-    MsgDisp("Mikage","Seeing sweet pea like this so early in the
+    MsgDisp("Mikage","Seeing such a beauty like this so early in the
 year is so nice, isn't it?");
     MsgDisp("主人公","Hehe, yay!
 It was worth it to wear the kimono.");
@@ -63,8 +63,8 @@ It was worth it to wear the kimono.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("S060700001_07_070");
-    MsgDisp("Mikage","The kimono is definitely beautiful, but sweet
-peas are fine in whatever they wear.");
+    MsgDisp("Mikage","The kimono is definitely beautiful, but a real
+beauty looks fine in whatever they wear.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);

@@ -31,8 +31,8 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("T020711030_07_040");
-MsgDisp("Mikage","Finally, I want to see that serious,
-precious smile.");
+MsgDisp("Mikage","Finally, I want to see my precious Miss
+Diligent's smile.");
 MsgDisp("主人公","Yes...");
 ChMouth(7,3);
 ChMotion(7,2);

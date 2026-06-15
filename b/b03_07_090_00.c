@@ -8,7 +8,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B030709000_07_000");
-MsgDisp("Mikage","Today's extra credit is at the botanical
+MsgDisp("Mikage","Today's extracurricular lesson is at the botanical
 garden. After this, everyone should be
 joining the gardening club, right?");
 SEPlay("EV_SE_GAYA_022",0.2,0.5);

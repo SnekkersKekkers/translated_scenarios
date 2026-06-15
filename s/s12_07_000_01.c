@@ -28,7 +28,7 @@ Sorry I can't help.");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("S120700001_07_010");
-    MsgDisp("Mikage","What are you saying? No matter how pretty you
+    MsgDisp("Mikage","What are you saying? No matter how much of a beauty you
 are, you can't do a shrine visit with
 vegetables and flowers, right?");
     ChEye(7,0);

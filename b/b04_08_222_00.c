@@ -6,8 +6,8 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040822200_08_000");
-MsgDisp("Shirahane","Doesn't it kinda feel like a class field
-trip?");
+MsgDisp("Shirahane","Doesn't it kinda feel like an extracurricular
+lesson?");
 MsgSel("Do you not like history?","Wanna study something else?","It'll be fun to study it together");
 switch (MsgSelRsltGet()){
     case 0:
@@ -40,8 +40,8 @@ know?");
     ChCheek(8,3);
     VoicePlay("B040822200_08_030");
     MsgDisp("Shirahane","That's right!
-Since I can't actually have a class field
-trip with you. Today is a simulation▼");
+Since I can't actually have an extracurricular
+lesson with you. Today is a simulation▼");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

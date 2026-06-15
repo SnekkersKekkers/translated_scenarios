@@ -83,7 +83,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("T020700000_07_100");
 MsgDisp("Mikage","You participated in the extracurricular
-classes many times.");
+lesson many times.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

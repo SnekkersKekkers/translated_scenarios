@@ -45,8 +45,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710305_07_050");
-MsgDisp("Mikage","During regular classes, you seem so calm and
-serious that no one notices how hard you're
+MsgDisp("Mikage","During regular classes, you put on such a calm
+Miss Diligent act that no one notices how hard you're
 struggling on your own.");
 ChEye(7,0);
 ChMouth(7,0);

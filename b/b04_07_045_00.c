@@ -40,7 +40,7 @@ I think so too.");
     VoicePlay("B040704500_07_030");
     MsgDisp("Mikage","Don't give it to them.
 You're not supposed to give or receive money
-during class field trips, right～?");
+during extracurricular lessons, right～?");
     MsgDateResultDisp();
     break ;
     default :

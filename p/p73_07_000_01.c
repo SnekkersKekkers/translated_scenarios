@@ -88,7 +88,7 @@ It really brings out your diligent charm.");
     ChMotion(7,2);
     VoicePlay("P730700001_07_090");
     MsgDisp("Mikage","Yeah, that's your number one charm point.
-A hardworking and adorable princess?");
+A diligent and adorable princess?");
     MsgDisp("主人公","｛Mikage＊＊｝...");
     SEPlay("EV_SE_038");
     SEWait();

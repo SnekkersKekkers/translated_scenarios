@@ -127,7 +127,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("T020C30000_07_030");
 MsgDisp("Mikage","Everything from your kindness, your
-seriousness to your slight
+diligence to your slight
 absent-mindedness has helped me so much,
 thank you.");
 MsgDisp("主人公","｛Mikage＊＊｝...

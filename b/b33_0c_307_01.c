@@ -93,11 +93,11 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C30701_07_040");
-MsgDisp("Mikage","Our next field lesson will be at the zoo,
+MsgDisp("Mikage","Our next extracurricular lesson will be at the zoo,
 observing the monkey mountain.");
 MsgDisp("主人公","(Hehe.
 I'm looking forward to ｛Mikage＊＊｝'s next
-field lesson.)");
+extracurricular lesson.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

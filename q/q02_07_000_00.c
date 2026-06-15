@@ -33,9 +33,9 @@ Did something happen?");
     ChMotion(7,1);
     VoicePlay("Q020700000_07_020");
     MsgDisp("Mikage","Yeah. I was thinking of doing an
-\"Extracurricular Activity: Nagasaki
+\"Extracurricular lesson: Nagasaki
 Chapter!\", but I guess nobody's up for it.");
-    MsgDisp("主人公","Extracurricular Activity: Nagasaki Chapter?");
+    MsgDisp("主人公","Extracurricular lesson: Nagasaki Chapter?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -57,7 +57,7 @@ I'm still recruiting, but at this rate
         ChMotion(7,1);
         VoicePlay("Q020700000_07_050");
         MsgDisp("Mikage","Well, let's enjoy.");
-        MsgDisp("主人公","(Extracurricular Activity: Nagasaki
+        MsgDisp("主人公","(Extracurricular lesson: Nagasaki
 Chapter...
 Hehe, I'm excited!)");
         break ;
@@ -106,9 +106,9 @@ period?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("Q020700000_07_100");
-    MsgDisp("Mikage","How does 'Extracurricular Activity: Nagasaki
+    MsgDisp("Mikage","How does 'Extracurricular Lesson: Nagasaki
 Chapter' sound to you?");
-    MsgDisp("主人公","Eh, extracurricular activity?");
+    MsgDisp("主人公","Eh, extracurricular lesson?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -147,7 +147,7 @@ together with him!)");
         ChMotion(7,2);
         VoicePlay("Q020700000_07_150");
         MsgDisp("Mikage","I knew it...
-Coming all this way just to attend a lesson?
+Coming all this way just to attend an extracurricular lesson?
 I'd say no too, I guess.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);

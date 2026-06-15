@@ -6,7 +6,7 @@ ChMotion(7,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040703100_07_000");
-MsgDisp("Mikage","It's perfect for a class field trip, but the
+MsgDisp("Mikage","It's perfect for an extracurricular lesson, but the
 atmosphere is dark and a bit heavy.");
 MsgSel("Are you scared of the dark?","Are you not good with aquariums?","Do you prefer the mountains over the ocean?");
 switch (MsgSelRsltGet()){

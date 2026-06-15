@@ -87,7 +87,7 @@ Looking forward to it.");
     VoicePlay("H610700000_07_080");
     MsgDisp("Mikage","Yeah, I knew from the beginning that you'd
 suit the gardening club.
-Since you're so serious.");
+Miss Diligent.");
     MsgDisp("主人公","Um...is being serious related to gardening?");
     ChEye(7,0);
     ChMouth(7,0);

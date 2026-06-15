@@ -35,7 +35,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,10);
 VoicePlay("T020720021_07_040");
-MsgDisp("Mikage","My precious, serious girl.
+MsgDisp("Mikage","My precious Miss Diligent.
 We're graduating Haba High together.");
 MsgDisp("主人公","Hey, that nickname—");
 ChEye(7,0);

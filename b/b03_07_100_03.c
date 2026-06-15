@@ -7,7 +7,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B030710003_07_000");
-MsgDisp("Mikage","Today's extra credit is the large insect
+MsgDisp("Mikage","Today's extracurricular lesson is the large insect
 exhibit.
 Time to learn about bugs.");
 VoicePlay("B030710003_38_000");

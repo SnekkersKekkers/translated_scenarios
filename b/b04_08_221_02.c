@@ -80,7 +80,7 @@ Let's go on lotsa dates▼");
     VoicePlay("B040822102_08_080");
     MsgDisp("Shirahane","I don't think it's really a place ta come on
 a date.
-It's more like fer a class field trip, right?");
+It's more like fer an extracurricular lesson, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

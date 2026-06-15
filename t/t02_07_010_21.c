@@ -21,7 +21,7 @@ MsgDisp("Mikage","Yeah, just now your feelings were pretty
 clear.");
 ChEye(7,0);
 VoicePlay("T020701022_07_030");
-MsgDisp("Mikage","Thank you my precious, serious girl.");
+MsgDisp("Mikage","Thank you my precious Miss Diligent.");
 MsgDisp("主人公","That nickname...");
 ChEye(7,2);
 ChMouth(7,3);
@@ -39,8 +39,8 @@ Wait(120,0);
 StlOpen("ev_07_16");
 ScrFadeIn(0);
 VoicePlay("T020701022_07_050");
-MsgDisp("Mikage","You're thinking too much── you serious
-girl.");
+MsgDisp("Mikage","You're thinking too much—
+Miss Diligent.");
 VoicePlay("T020701022_07_060");
 MsgDisp("Mikage","You're mine now.");
 MsgClear();

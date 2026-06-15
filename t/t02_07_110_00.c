@@ -102,7 +102,7 @@ VoicePlay("T020711000_07_100");
 MsgDisp("Mikage","Hey, do you remember when we went bowling?");
 MsgDisp("主人公","Yes.
 You took me there when our extracurricular
-activities were canceled.");
+lesson was canceled.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);

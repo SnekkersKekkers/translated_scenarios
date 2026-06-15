@@ -20,7 +20,7 @@ VoicePlay("T020700021_07_020");
 MsgDisp("Mikage","Yeah, that was pretty clear.");
 ChEye(7,0);
 VoicePlay("T020700021_07_030");
-MsgDisp("Mikage","Thank you, my precious serious girl.");
+MsgDisp("Mikage","Thank you, my precious Miss Diligent.");
 MsgDisp("主人公","Hey!
 If you call me that—");
 ChEye(7,2);

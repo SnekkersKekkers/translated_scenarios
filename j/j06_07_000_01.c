@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3);
     VoicePlay("J060700001_07_000");
     MsgDisp("Mikage","Wow.
-You guys are pretty serious, aren't you?
+You guys are pretty diligent, aren't you?
 I'm impressed.");
     ChEye(7,0);
     ChMouth(7,0);

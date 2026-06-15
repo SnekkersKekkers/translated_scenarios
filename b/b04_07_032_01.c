@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(7,3,1);
     VoicePlay("B040703201_07_010");
     MsgDisp("Mikage","Hey, that's not what I meant.
-I meant the theme of the class field trip.");
+I meant the theme of the extracurricular lesson.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

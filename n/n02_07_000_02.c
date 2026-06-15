@@ -38,7 +38,7 @@ just about studying.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("N020700002_07_040");
-    MsgDisp("Mikage","Good luck, serious girl.");
+    MsgDisp("Mikage","Good luck, Miss Diligent.");
     MsgDisp("主人公","(Hmm...
 Maybe I should study a little bit harder?)");
     break ;

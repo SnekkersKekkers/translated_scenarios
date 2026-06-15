@@ -11,7 +11,7 @@ Wait(30,0);
 SEStop("EV_SE_766",3);
 VoicePlay("B040309001_03_000");
 MsgDisp("Honda","Some elementary school students came here for
-an extracurricular activity.");
+an extracurricular lesson.");
 SEStop("EV_SE_855",2);
 MsgSel("The teacher in charge looks like he's having a tough time, huh?","I wonder what grade they are?","Should we tag along too?");
 switch (MsgSelRsltGet()){

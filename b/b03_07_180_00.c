@@ -4,7 +4,7 @@ ChMouth(7,0);
 ChMotion(7,3,1);
 ScrFadeIn(0);
 VoicePlay("B030718000_07_000");
-MsgDisp("Mikage","Alright, today's extra credit is watching a
+MsgDisp("Mikage","Alright, today's extracurricular lesson is watching a
 movie.");
 VoicePlay("B030718000_38_000");
 MsgDisp("Students","Awesome!");

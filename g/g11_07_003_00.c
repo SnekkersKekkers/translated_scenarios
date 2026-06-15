@@ -31,7 +31,7 @@ ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110700300_07_020");
 MsgDisp("Mikage","Look at this.
-My plants all look healthy and shiny.");
+My plants all look healthy and shiny, real beauties.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -43,7 +43,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700300_07_040");
 MsgDisp("Mikage","Uh...forget what I said.
-You're a pretty girl, so try to shine.");
+You're a beauty, so try to shine.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -55,8 +55,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700300_07_060");
-MsgDisp("Mikage","Diligent-chan in my class always acting so
-diligently.");
+MsgDisp("Mikage","Miss Diligent in my class is a real beauty who gives it her all.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

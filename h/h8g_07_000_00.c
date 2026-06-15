@@ -19,7 +19,7 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("H7G0700000_07_020");
 MsgDisp("Mikage","Haha.
-Your seriousness and funniness make the
+Your diligence and funniness make the
 perfect combination.");
 ChEye(7,0);
 ChMouth(7,0);

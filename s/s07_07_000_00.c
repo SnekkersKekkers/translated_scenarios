@@ -16,7 +16,7 @@ I feel so nervous.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("S070700000_07_010");
-    MsgDisp("Mikage","As expected of a serious girl.");
+    MsgDisp("Mikage","As expected of Miss Diligent.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

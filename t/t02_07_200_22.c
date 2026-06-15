@@ -44,7 +44,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("T020720022_07_050");
 MsgDisp("Mikage","Huh?
-Where did my serious girl go...?");
+Where did my Miss Diligent go...?");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

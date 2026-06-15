@@ -5,7 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040710101_07_000");
-MsgDisp("Mikage","If you bring up field trips, this place is
+MsgDisp("Mikage","If you bring up extracurricular lessons, this place is
 unavoidable.
 Let's get through this together!");
 MsgSel("We'll make new discoveries!","This place is already...","The permanent exhibits are the true thrill of the museum.");

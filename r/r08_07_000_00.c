@@ -76,7 +76,7 @@ StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("R080700000_07_070");
 MsgDisp("Mikage","Come on.
-Don't make me cry again, Diligent-chan.");
+Don't make me cry again, Miss Diligent.");
 StlEye(7,0,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5,1);
@@ -126,7 +126,7 @@ MsgDisp("","(Pat pat)");
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("R080700000_07_110");
-MsgDisp("Mikage","My precious Diligent-chan, thank you.");
+MsgDisp("Mikage","My precious Miss Diligent, thank you.");
 MsgDisp("主人公","M-My head...");
 ChEye(7,2);
 ChMouth(7,0);

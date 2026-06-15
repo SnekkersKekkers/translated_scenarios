@@ -15,8 +15,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("J040700002_07_010");
-MsgDisp("Mikage","Next Sunday we're having extra-curricular
-activities.");
+MsgDisp("Mikage","Next Sunday we're having extracurricular lessons.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

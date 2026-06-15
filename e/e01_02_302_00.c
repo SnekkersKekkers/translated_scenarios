@@ -28,7 +28,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("E010230200_07_010");
 MsgDisp("Mikage","Hahaha!
-In my opinion you're both serious and funny!");
+In my opinion you're both diligent and funny!");
 MsgDisp("主人公","???");
 ChEye(2,0);
 ChMouth(2,4);

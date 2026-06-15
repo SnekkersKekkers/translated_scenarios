@@ -34,7 +34,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("T020701030_07_040");
 MsgDisp("Mikage","Hey, don't make me cry even at the end, my
-precious serious girl.");
+precious Miss Diligent.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

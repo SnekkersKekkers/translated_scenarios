@@ -90,7 +90,7 @@ Just be grateful for today.");
         VoicePlay("B040722202_07_080");
         MsgDisp("Mikage","This month is a tight one.
 ...What are you trying to say?");
-        MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝'s field trips are
+        MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝'s extracurricular lessons are
 fun.)");
         break ;
         default :

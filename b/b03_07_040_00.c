@@ -38,7 +38,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 MsgDispSksp(1,0);
 VoicePlay("B030704000_07_030");
-MsgDisp("Mikage","This extra credit was a hit, huh?
+MsgDisp("Mikage","This extracurricular lesson was a hit, huh?
 Lucky us, getting to see it for free.");
 MsgDispSksp(0);
 SEPlay("EV_SE_038");
