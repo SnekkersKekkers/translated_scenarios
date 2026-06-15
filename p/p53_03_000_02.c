@@ -87,10 +87,10 @@ I'm off, okay?");
     MsgDisp("Honda","Yes, take care!
 Even if I'm moved to tears in the audience,
 you can't laugh, okay?");
-    MsgDisp("主人公","(Hehe! Alright, I've given it my all in
-the Concert Band Club for the last three
-years, so this needs to be a culmination
-of my hard work!)");
+    MsgDisp("主人公","(Hehe! Alright, I've given it my all in the
+Concert Band Club for the last three years,
+so this needs to be a culmination of my
+hard work!)");
     break ;
     default :
     DbgAssert(1);

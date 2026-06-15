@@ -24,8 +24,9 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020340003_03_030");
 MsgDisp("Honda","Even combining ingredients, the flavour
-changes drastically by ratio, so I did a lot
-of trial and error and collected tons of data.");
+changes drastically by ratio, so I did a
+lot of trial and error and collected tons
+of data.");
 MsgDisp("主人公","It's like you're a professional ramen chef!");
 ChEye(3,0);
 ChMouth(3,0);

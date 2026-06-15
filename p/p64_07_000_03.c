@@ -33,9 +33,9 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P640700003_07_040");
 MsgDisp("Mikage","Listen, both the vegetables and the herbs
-have been grown beautifully. After that
-it's about how you prepare them— Try to
-think about it with everyone.");
+have been grown beautifully. After that it's
+about how you prepare them— Try to think
+about it with everyone.");
 MsgDisp("主人公","(Uuugh...
 I should have prepared more carefully...)");
 MsgClose();

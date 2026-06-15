@@ -37,7 +37,8 @@ You look like a pro.");
 I'll be paying attention from the audience.");
 MsgDisp("主人公","(Being the centre of attention is
 embarrassing...but this is the culmination of
-three years' work. I'll give it my all so I won't regret it!)");
+three years' work. I'll give it my all so I
+won't regret it!)");
     break ;
     case 4:
     case 5:

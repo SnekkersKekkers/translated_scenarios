@@ -83,7 +83,8 @@ I was looking for you!");
     VoicePlay("Q020300000_03_070");
     MsgDisp("Honda","Morning! Fancy walking around together this
 free period? I've already perfected a
-simulation of the best routes, so what do you say?");
+simulation of the best routes, so what do
+you say?");
     MsgSel("Sure, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:

@@ -62,8 +62,8 @@ ChMotion(3,0,1);
 VoicePlay("P240300000_03_060");
 MsgDisp("Honda","Above all, if Araki-dono rebels here,
 Hideyoshi-dono, who is in the midst of
-attacking the Mori clan, will be trapped
-in a predicament.");
+attacking the Mori clan, will be trapped in a
+predicament.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1,1);

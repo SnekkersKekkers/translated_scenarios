@@ -26,9 +26,9 @@ MsgDisp("VP Himuro","Ahem, I said too much.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P553200008_32_030");
-MsgDisp("VP Himuro","You are the pride of our brass band.
-Both in today's performance and in your
-daily activities, you have always shown
+MsgDisp("VP Himuro","You are the pride of our brass band. Both in
+today's performance and in your daily
+activities, you have always shown
 consideration for your juniors and peers.");
 ChEye(32,0);
 ChMouth(32,0);
