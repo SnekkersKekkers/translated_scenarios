@@ -92,7 +92,7 @@ Thanks.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I450700000_07_090");
-    MsgDisp("Mikage","There's a baby shower at my parent's place.
+    MsgDisp("Mikage","There's a baby boom over at my family's place.
 I was going to take a picture of the bouquet
 and send that.");
     MsgDisp("主人公","Congratulations!");
