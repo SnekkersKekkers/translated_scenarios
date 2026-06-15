@@ -39,10 +39,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110101001_01_020");
-MsgDisp("Kazama","We were in the same class, lived in the
-same neighbourhood, and were super close,
-but on the contrary, it was difficult to
-find a good time to hold hands.");
+MsgDisp("Kazama","We were in the same class, same
+neighbourhood, and super close, yet it was
+hard to find a good moment to hold hands.");
 MsgDisp("主人公","Hehe, that might be true.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);

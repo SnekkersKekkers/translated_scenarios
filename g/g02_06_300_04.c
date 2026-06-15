@@ -60,10 +60,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630004_06_090");
-MsgDisp("Himuro","It's fine, isn't it? Right now we're
-separating things by gender, but I think
-everyone has things they don't understand
-about the other.");
+MsgDisp("Himuro","It's fine, isn't it?
+We split things by gender now, but everyone
+has things they don't get about the other.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);

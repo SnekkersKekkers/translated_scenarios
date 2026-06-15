@@ -14,7 +14,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("I450500000_05_010");
     MsgDisp("Hiiragi","...Oh my?
 Why are you...are we back at the school?");
-    MsgDisp("主人公","Huh? This is flower shop Annallee.
+    MsgDisp("主人公","Huh? This is flower shop Annalee.
 ｛Hiiragi＊＊＊｝, what is it?");
     ChEye(5,3);
     ChMouth(5,2);

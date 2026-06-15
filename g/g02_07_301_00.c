@@ -34,10 +34,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020730100_07_040");
-MsgDisp("Mikage","When I join and things get lively, Vice
-Principal Himuro eventually comes over,
-scolds us, and then we all have to
-disperse, right?～");
+MsgDisp("Mikage","When I join and it gets lively, Vice
+Principal Himuro comes over, scolds us, and
+we all have to scatter, right?～");
 MsgDisp("主人公","Hehe, that's fun too, right?");
 ChEye(7,0);
 ChMouth(7,0);

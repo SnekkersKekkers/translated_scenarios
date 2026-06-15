@@ -8,11 +8,9 @@ MsgDisp("主人公","Hotaru-te...?");
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020330000_03_010");
-MsgDisp("Honda","Yeah, it's porcelain with openwork
-carvings that make patterns visible
-depending on the light. It's called
-'hotaru-te' because the patterns resemble
-firefly light.");
+MsgDisp("Honda","Yeah, it's porcelain with openwork carvings
+that show patterns in the light. It's called
+'hotaru-te' as they resemble firefly light.");
 ChMotion(3,4);
 VoicePlay("G020330000_03_020");
 MsgDisp("Honda","I saw it at Ryo-kun's place the other day.

@@ -42,9 +42,8 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020410400_04_060");
-MsgDisp("Nanatsumori","But I feel bad about them continuing to
-believe I'm a girl and them falling in
-love with me, and cutting into their
+MsgDisp("Nanatsumori","But I feel bad they keep believing I'm a girl
+and falling for me, cutting into their
 real-life romantic time....");
 MsgDisp("主人公","Hmmm...");
 ChEye(4,0);

@@ -23,10 +23,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("G110300602_03_020");
-MsgDisp("Honda","A while ago, there was a magazine that
-came with a microscope as an attachment.
-If you collected every issue, at the end
-you got a microscope.");
+MsgDisp("Honda","A while back there was a magazine that came
+with a microscope in parts. Collect every
+issue and you'd build the whole thing.");
 MsgDisp("主人公","Hehe, that's interesting .");
 ChEye(3,3);
 ChMouth(3,3);

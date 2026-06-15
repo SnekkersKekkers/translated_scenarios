@@ -5,10 +5,9 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500003_05_000");
-    MsgDisp("Hiiragi","I heard you got the highest evaluation in
-the joint practice with another school.
-Your strength and flexibility are your
-true strengths.");
+    MsgDisp("Hiiragi","I heard you earned top marks in the joint
+practice with the other school. Your strength
+and flexibility are real assets.");
     MsgDisp("主人公","Thank you, I'll practise more and get
 even better!");
     MsgDisp("主人公","(I'm glad I gave it my all!)");

@@ -53,7 +53,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200100_02_050");
-MsgDisp("Sassa","Yesterday I was grateful for the track field. 
+MsgDisp("Sassa","Yesterday I was grateful for the track field.
 Today, I'm grateful for you.
 Thank you for always standing by me.");
 MsgDisp("主人公","I didn't do anything.");

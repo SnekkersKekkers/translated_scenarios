@@ -77,9 +77,9 @@ stall foods.
 And how Yakisoba differs in different places.");
 ChMouth(5,0);
 ChMotion(5,2);
-MsgDisp("主人公","(It seems like ｛Hiiragi＊＊＊｝ is more
-interested in Yakisoba than the festivals
-themselves...Maybe I should show him some TV shows about comfort food?)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems more into Yakisoba than
+the festivals themselves... Maybe I'll show
+him some TV shows about comfort food?)");
 ChMotion(5,0);
 BGMStop();
 MsgClose();

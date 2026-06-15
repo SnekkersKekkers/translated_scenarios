@@ -84,9 +84,8 @@ ChMotion(5,4);
 VoicePlay("B330C30600_05_030");
 MsgDisp("Hiiragi","Yeah, I see...");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is always thinking of
-theatre...It would be nice if he found
-some new inspiration for his plays when we
-all go out together...)");
+theatre... It'd be nice if our outing gave
+him fresh inspiration for his plays...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(5,0);

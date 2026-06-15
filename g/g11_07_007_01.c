@@ -1,9 +1,8 @@
 BGOpen("sc520",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I still have some time before lunch
-ends...Ah, that reminds me. The other day
-｛Mikage＊＊｝ said I could drop by
-anytime, right?)");
+MsgDisp("主人公","(I've still got time before lunch ends...
+Oh, right. Didn't ｛Mikage＊＊｝ say I could
+drop by anytime?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);

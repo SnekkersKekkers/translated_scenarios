@@ -7,11 +7,9 @@ switch (ChPrmGet(7,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(We're using the vegetables everyone grew
-as a meal, and having a herbal tea
-pavement cafe, this is my last cultural
-festival, a culmination the horticulture
-club's efforts...)");
+    MsgDisp("主人公","(We're cooking the vegetables everyone grew
+and running a herbal tea pavement cafe. My
+last cultural festival, the culmination of the club's efforts...)");
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700002_07_000");
@@ -36,11 +34,9 @@ An order for the organic vegetables set～!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(We're using the vegetables everyone grew
-as a meal, and having a herbal tea
-pavement cafe, this is my last cultural
-festival, a culmination the horticulture
-club's efforts...)");
+    MsgDisp("主人公","(We're cooking the vegetables everyone grew
+and running a herbal tea pavement cafe. My
+last cultural festival, the culmination of the club's efforts...)");
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700002_07_030");

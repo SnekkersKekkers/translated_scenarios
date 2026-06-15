@@ -11,10 +11,9 @@ MsgDisp("Manager","I'm sorry for calling you on a day off.
 From next week, we will start the preparation
 period for the cultural festival.");
 VoicePlay("P610000101_46_010");
-MsgDisp("Manager","The Gardening Club have decided to display
+MsgDisp("Manager","The Gardening Club has decided to display
 and sell herbal tea and vegetables. Once
-you are well, please also join us in
-preparations.");
+you're well, please join the preparations too.");
 MsgDisp("主人公","Yes, thank you for contacting me.");
 VoicePlay("P610000101_46_020");
 MsgDisp("Manager","Then, please get well soon.");

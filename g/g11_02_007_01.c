@@ -14,10 +14,9 @@ Next, I'll do the high jump.");
 MsgClose();
 SEPlay("EV_SE_672");
 ChClose(2);
-MsgDisp("主人公","(That's eight times the amount of practice
-compared to someone doing a single
-event...｛Sassa＊＊｝'s octathlon skills are
-truly amazing.)");
+MsgDisp("主人公","(That's eight times the practice of a
+single-event athlete... ｛Sassa＊＊｝'s
+octathlon skills are truly amazing.)");
 SEWait();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

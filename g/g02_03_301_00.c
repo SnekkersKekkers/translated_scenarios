@@ -27,10 +27,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020330100_03_030");
-MsgDisp("Honda","I didn't understand why the atmosphere was
-like that, so after that...I think I
-talked about the history of meteorological
-observations.");
+MsgDisp("Honda","I didn't get why the atmosphere was like
+that, so after that... I think I talked about
+the history of meteorological observation.");
 MsgDisp("主人公","Ah!
 Was it when we were talking about how the
 weather's been bad recently?");

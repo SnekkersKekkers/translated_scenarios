@@ -20,10 +20,9 @@ VoicePlay("B070400001_04_120");
 MsgDisp("Nanatsumori","But you know, if you can put up with his
 noisiness, he's surprisingly interesting.");
 VoicePlay("B070400001_04_130");
-MsgDisp("Nanatsumori","There's real substance when he talks. If
-you ask a question, he'll always give you
-an answer. Whether it's right or wrong is
-a different matter.");
+MsgDisp("Nanatsumori","There's real substance when he talks.
+Ask anything and he'll always answer—whether
+it's right or wrong is another matter.");
 MsgDisp("主人公","Ehhh....");
 ChEye(4,0);
 ChMouth(4,3);

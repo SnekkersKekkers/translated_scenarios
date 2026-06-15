@@ -37,11 +37,9 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B360350201_03_040");
-MsgDisp("Honda","Exactly! He'd be upset and
-confrontational. He'd probably think
-something like, \"Why are you spending time
-together when I'm not around?\" And Mi-kun
-would say...");
+MsgDisp("Honda","Exactly! He'd be upset and confrontational,
+thinking, \"Why hang out together when I'm not
+around?\" And Mi-kun would say...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

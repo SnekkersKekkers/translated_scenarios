@@ -19,10 +19,9 @@ ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,4);
 VoicePlay("P833100002_31_010");
-MsgDisp("Goro","Right. Hey, you're a third year student,
-so you must know of all the best places.
-Only focusing on the highlights, could you
-show me around?");
+MsgDisp("Goro","Right. Hey, you're a third year, so you must
+know all the best spots.
+Could you show me the highlights?");
 MsgDisp("主人公","Yes, I'll do it while patrolling the
 exhibits, but I can show you around!");
 MsgClose();

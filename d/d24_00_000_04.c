@@ -9,9 +9,8 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(I got a message from Goro-sensei!
 It says...)");
-MsgDisp("主人公","(\"Today is your one and only debut as a
-journalist♪ Keep up the good work and
-write more articles to raise your
+MsgDisp("主人公","(\"Today's your debut as a journalist♪
+Keep writing articles to raise your
 \"Journalist Level\"▼\"...)");
 MsgDisp("主人公","(Alright!
 I'll do my best to write more articles and

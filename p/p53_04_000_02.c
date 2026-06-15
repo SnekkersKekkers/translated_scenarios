@@ -35,10 +35,9 @@ You look like a pro.");
     VoicePlay("P530400002_04_030");
     MsgDisp("Nanatsumori","Yes.
 I'll be paying attention from the audience.");
-MsgDisp("主人公","(Though it's embarrassing to be the centre
-of attention...This is a culmination of
-the last three years of work. So that I
-don't regret it, I'll give it my all!)");
+MsgDisp("主人公","(Being the centre of attention is
+embarrassing...but this is the culmination of
+three years' work. I'll give it my all so I won't regret it!)");
     break ;
     case 4:
     case 5:

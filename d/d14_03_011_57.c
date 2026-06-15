@@ -9,7 +9,6 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("D140301157_03_010");
-MsgDisp("Honda","Sprouts are high in vitamins and they're
-also good for your body. But, they're a
-hard ingredient to use as the main. So it
-must've been hard to come up with a set.");
+MsgDisp("Honda","Sprouts are full of vitamins and good for
+you, but they're hard to use as the main, so
+coming up with a set must've been tough.");

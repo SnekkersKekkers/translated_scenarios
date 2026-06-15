@@ -66,10 +66,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C30701_07_020");
-MsgDisp("Mikage","But it has a role to play, you know. It
-breaks up fights over food, and it'll even
-defend the group if there's trouble with
-another troop.");
+MsgDisp("Mikage","But it has a role, you know.
+It breaks up fights over food, and even
+defends the group against another troop.");
 ChEye(5,0);
 ChMotion(5,4);
 ChEye(6,0);

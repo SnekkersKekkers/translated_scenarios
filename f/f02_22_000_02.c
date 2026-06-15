@@ -49,10 +49,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F022200002_22_060");
-MsgDisp("Hikaru","What's more, is that the models are from
-another dimension. According to the rumour,
-legendary high school model Hazuki Kei is
-there too!");
+MsgDisp("Hikaru","What's more, the models are from another
+dimension. Rumour says legendary high school
+model Hazuki Kei is there too!");
 MsgDisp("主人公","......");
 ChEye(22,2);
 ChMouth(22,3);

@@ -2,10 +2,9 @@ BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("P810500002_41_000");
-MsgDisp("President","We, the Student Council, have
-been entrusted with management of the
-cultural festival. This is important work,
-please be aware of this.");
+MsgDisp("President","We, the Student Council, have been entrusted
+with managing the cultural festival.
+This is important work, so be aware of that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();

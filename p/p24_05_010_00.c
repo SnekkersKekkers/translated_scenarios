@@ -62,10 +62,9 @@ Aren't you the castle lord?");
 ChEye(5,4);
 ChEyeOpenLevel(5,8);
 VoicePlay("P240501000_40_040");
-MsgDisp("Castle Lord","A Castle Lord is but a mere figurehead. If
-someone easier to support appears, they
-will go with that person. That is the era
-we live in.");
+MsgDisp("Castle Lord","A Castle Lord is but a figurehead.
+If someone easier to back appears, they'll
+side with them. Such is the era we live in.");
 ChEyeOpenLevel(5,0);
 VoicePlay("P240501000_40_050");
 MsgDisp("Castle Lord","However, my governance is the flames of

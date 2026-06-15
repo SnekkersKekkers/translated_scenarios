@@ -14,10 +14,9 @@ MsgDisp("VP Himuro","If even one person isn't willing to
 participate, the harmony of the entire brass
 band is disrupted.");
 VoicePlay("H520000200_32_020");
-MsgDisp("VP Himuro","Perhaps you had your own circumstances.
-But these are the rules of our band. Those
-who have unapproved absences are to leave.
-That is all.");
+MsgDisp("VP Himuro","Perhaps you had your reasons.
+But these are our band's rules: those with
+unapproved absences must leave. That is all.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Shoot∈

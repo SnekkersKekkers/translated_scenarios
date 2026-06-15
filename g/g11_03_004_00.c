@@ -37,10 +37,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("G110300400_03_030");
-MsgDisp("Honda","Yeah, I did a library reading challenge
-when I was in middle school, but it was
-totally pointless because I would forget
-what happened in the book.");
+MsgDisp("Honda","Yeah, I did a library reading challenge in
+middle school, but it was pointless since I'd
+forget what happened in the book.");
 MsgDisp("主人公","Hehe, is that so?");
 ChEye(3,0);
 ChMouth(3,1);

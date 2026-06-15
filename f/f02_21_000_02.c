@@ -30,10 +30,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100002_21_030");
-MsgDisp("Michiru","The way it goes is that he turns the bad
-students into honour students, in order to
-make Haba High a super elite school, I
-suppose.");
+MsgDisp("Michiru","He turns the bad students into honour
+students to make Haba High a super elite
+school, I suppose.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

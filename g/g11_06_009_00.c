@@ -43,10 +43,9 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600900_06_040");
-MsgDisp("Himuro","Taking care of your health is also part of
-the job. I wouldn't want to work alongside
-someone who looks like that. It would be a
-real nuisance if they collapsed.");
+MsgDisp("Himuro","Minding your health is part of the job too.
+I'd hate to work beside someone in that
+state, and it'd be a real nuisance if they collapsed.");
 MsgDisp("主人公","I see... Sorry.");
 ChEye(6,0);
 ChMouth(6,0);

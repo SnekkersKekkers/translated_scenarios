@@ -36,10 +36,9 @@ I'll say thank you in advance.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("P230100000_01_030");
-    MsgDisp("Kazama","Practising during the preparation period
-was fun. Even if the real performance is a
-complete disaster, it'll have been more
-than worth it.");
+    MsgDisp("Kazama","Practising during the prep period was fun.
+Even if the real show's a total disaster,
+it'll have been more than worth it.");
     MsgDisp("主人公","Hehe, yeah.");
     ChEye(1,0);
     ChMouth(1,2);

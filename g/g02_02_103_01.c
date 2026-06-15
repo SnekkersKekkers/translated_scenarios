@@ -51,10 +51,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("G020210301_02_060");
-MsgDisp("Sassa","It's not funny at all. In the end, I could
-even smell your scent...I started
-wondering if you were still hiding
-somewhere and searched around.");
+MsgDisp("Sassa","It's not funny at all. I could even smell
+your scent... I started wondering if you were
+still hiding and searched around.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,3);

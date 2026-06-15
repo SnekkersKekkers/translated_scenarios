@@ -50,10 +50,9 @@ MsgClose();
 ChOpen(6,30,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240601000_06_030");
-MsgDisp("Himuro","Day after day, I diligently worked as
-Altair. I was supposed to be content with
-that life...Until you, Orihime appeared
-suddenly and disrupted that.");
+MsgDisp("Himuro","Day after day, I worked diligently as Altair,
+content with that life...until you, Orihime,
+appeared and disrupted it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

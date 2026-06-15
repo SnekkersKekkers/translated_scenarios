@@ -81,10 +81,9 @@ I was looking for you!");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("Q020300000_03_070");
-    MsgDisp("Honda","Morning! How about we walk around together
-for the free period? I've already
-perfected a simulation on the best routes
-to take and all, so what do you think?");
+    MsgDisp("Honda","Morning! Fancy walking around together this
+free period? I've already perfected a
+simulation of the best routes, so what do you say?");
     MsgSel("Sure, I'm coming!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -92,9 +91,8 @@ to take and all, so what do you think?");
         ChMouth(3,3);
         ChMotion(3,3,1);
         VoicePlay("Q020300000_03_080");
-        MsgDisp("Honda","Woohoo! Alright, now we just need to
-consider the places you want to see too so
-I can update the overall layout and we can
+        MsgDisp("Honda","Woohoo! Now I just need the places you want
+to see, so I can update the layout and we can
 walk around smoothly.");
         MsgDisp("主人公","As expected of ｛Honda＊＊｝.
 I'm looking forward to this!");
@@ -103,10 +101,9 @@ I'm looking forward to this!");
         ChMotion(3,1,1);
         VoicePlay("Q020300000_03_090");
         MsgDisp("Honda","I'm also super excited!");
-        MsgDisp("主人公","(Spending this freetime with ｛Honda＊＊｝
-will surely be a blast! Maybe he can teach
-me fun facts and trivia of the spots we'll
-be touring?)");
+        MsgDisp("主人公","(Spending this free time with ｛Honda＊＊｝
+will be a blast! Maybe he'll share fun trivia
+about the spots we tour?)");
         break ;
         case 1:
         ChEye(3,4);

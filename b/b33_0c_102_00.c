@@ -43,10 +43,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10200_07_010");
-MsgDisp("Mikage","I wonder. Come to think of it, I heard
-that you can remove the cloudiness caused
-by limescale by scraping the acrylic,
-rather than washing it.");
+MsgDisp("Mikage","I wonder. Come to think of it, I heard you
+can clear limescale cloudiness by scraping
+the acrylic rather than washing it.");
 ChMouth(5,2);
 MsgDisp("主人公","Ehhh?
 Then, if it keeps getting thinner and

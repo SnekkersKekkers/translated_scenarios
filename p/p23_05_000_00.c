@@ -54,10 +54,9 @@ play a success.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P230500000_05_050");
-    MsgDisp("Hiiragi","Yes. However, actors are sly. They may
-claim they perform for the audience, but
-the joy of freely expressing themselves on
-stage outweighs that.");
+    MsgDisp("Hiiragi","Yes. But actors are sly. They claim to
+perform for the audience, yet the joy of
+freely expressing themselves on stage outweighs it.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,4);

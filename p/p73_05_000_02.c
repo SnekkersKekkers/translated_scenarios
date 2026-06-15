@@ -36,10 +36,9 @@ I wouldn't be able to see this.");
     ChEye(5,4);
     VoicePlay("P730500002_05_030");
     MsgDisp("Hiiragi","I'm grateful.");
-    MsgDisp("主人公","Thank you. That's right, it's because I
-continued with the Handicrafts club that I
-was able to stand on stage wearing a
-wedding dress.");
+    MsgDisp("主人公","Thank you. It's because I stuck with the
+Handicrafts club that I could stand on stage
+in a wedding dress.");
     ChEye(5,0);
     ChMotion(5,3);
     Wait(20,1);

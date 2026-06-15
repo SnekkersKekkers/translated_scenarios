@@ -17,10 +17,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020430201_04_020");
-MsgDisp("Nanatsumori","In the midst of all the relationships with
-countless people, there will come a time
-when I'll love someone and marry them.
-...that's supposed to happen.");
+MsgDisp("Nanatsumori","Among all the relationships with countless
+people, there'll come a time when I love and
+marry someone. ...That's supposed to happen.");
 MsgDisp("主人公","Ah, yeah...");
 ChMotion(4,1,1);
 VoicePlay("G020430201_04_030");

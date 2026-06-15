@@ -38,9 +38,8 @@ What does that do?");
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("S110500000_05_050");
-MsgDisp("Hiiragi","It's said that if you tie the knot in the
-opposite direction of your main hand, the
-luck will change from bad to good. Oh,
-there it is!");
+MsgDisp("Hiiragi","They say if you tie the knot opposite to your
+main hand, bad luck turns to good.
+Oh, there it is!");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ actually cares about this stuff
 a bit...?)");

@@ -24,10 +24,9 @@ ChMotion(2,0);
 VoicePlay("P740200001_02_020");
 MsgDisp("Sassa","But, that's not related to whether your work
 is good, or whether the show was a success.");
-MsgDisp("主人公","(Thank you, ｛Sassa＊＊｝...I should have
-participated more in club more during the
-preparation period, and practised more for
-the show.)");
+MsgDisp("主人公","(Thank you, ｛Sassa＊＊｝... I should have
+joined club more during the preparations and
+practised more for the show.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

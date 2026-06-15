@@ -11,9 +11,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F032200000_22_250");
-MsgDisp("Hikaru","Hikaru likes chatting with her friends
-and being active in clubs but she also
-likes the interesting stories the teacher tells in class.");
+MsgDisp("Hikaru","Hikaru likes chatting with friends and clubs,
+but she also loves the interesting stories
+the teacher tells in class.");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
@@ -25,10 +25,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_270");
-MsgDisp("Hikaru","After all, to make your lessons
-interesting, you need to hook your
-students with an interesting story to get
-them feeling excited.");
+MsgDisp("Hikaru","After all, to make lessons interesting, you
+need to hook students with a story to get
+them excited.");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,1,1);

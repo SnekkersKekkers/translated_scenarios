@@ -36,10 +36,9 @@ ChEye(5,1);
 ChMouth(5,0);
 ChMotion(5,5);
 VoicePlay("P240500000_05_020");
-MsgDisp("Hiiragi","A Castle Lord is but a mere figurehead. If
-someone easier to support appears, they
-will go with that person. That is the era
-we live in.");
+MsgDisp("Hiiragi","A Castle Lord is but a figurehead.
+If someone easier to back appears, they'll
+side with them. Such is the era we live in.");
 ChEye(5,2);
 ChMouth(5,0);
 ChMotion(5,2);

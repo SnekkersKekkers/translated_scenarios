@@ -1,9 +1,8 @@
 BGOpen("sc210",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(To think that I could win the top prize
-at a competition as the representative of
-the gardening club...This must be thanks
-to ｛Mikage＊＊｝ too, right?)");
+MsgDisp("主人公","(To win top prize at a competition
+representing the gardening club...
+This must be thanks to ｛Mikage＊＊｝ too.)");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();

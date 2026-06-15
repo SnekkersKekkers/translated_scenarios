@@ -38,10 +38,9 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F032100000_21_380");
-MsgDisp("Michiru","But, ever since I became friends with
-Mari, there's been a link between this
-dream-like world and reality. Everyday is
-super exciting.");
+MsgDisp("Michiru","But ever since I befriended Mari, this
+dream-like world and reality are linked.
+Every day's super exciting.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

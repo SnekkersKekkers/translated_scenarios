@@ -49,10 +49,9 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140A04002_01_030");
 MsgDisp("Kazama","No. I'm scared of you chasing me.
 It reminds me of back in Kindergarten.");
-MsgDisp("主人公","Hehe, it's not scary, but both ｛Sassa＊＊｝
-and ｛Kazama＊＊｝ are famous around school, so
-I think it's amazing that ｛Himuro＊＊｝ can
-talk to you two so normally.");
+MsgDisp("主人公","Hehe, it's not scary, but ｛Sassa＊＊｝ and
+｛Kazama＊＊｝ are both famous at school, so
+it's amazing ｛Himuro＊＊｝ can talk to you two so normally.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

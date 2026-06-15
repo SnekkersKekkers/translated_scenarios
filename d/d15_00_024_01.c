@@ -12,10 +12,9 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,1);
 VoicePlay("D150002401_04_000");
-MsgDisp("Nanatsumori","It doesn't matter if it's a bento lunch or
-a cafeteria lunch. It's important to be
-grateful to the food and the person who
-made it.");
+MsgDisp("Nanatsumori","Bento or cafeteria lunch, it doesn't matter.
+What matters is being grateful to the food
+and whoever made it.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

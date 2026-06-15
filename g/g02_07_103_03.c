@@ -9,10 +9,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020710303_07_010");
-MsgDisp("Mikage","Yeah, I figured. When you see beautifully
-glowing fireflies, you naturally feel
-drawn to them. It's the nature of male
-fireflies to approach.");
+MsgDisp("Mikage","Yeah, I figured. You're naturally drawn to
+beautifully glowing fireflies.
+It's a male firefly's nature to approach.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

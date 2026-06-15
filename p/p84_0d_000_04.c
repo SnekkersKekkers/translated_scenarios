@@ -27,10 +27,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("P840D00004_21_010");
-MsgDisp("Michiru","When you entrust Mari, the cultural
-festival is bound to be safe. I wonder
-this is the result of giving it your best
-at student council these last three years?");
+MsgDisp("Michiru","With Mari entrusted to it, the cultural
+festival's in safe hands. Perhaps this is the
+fruit of your three years of effort on the student council?");
 MsgDisp("主人公","(Yeah, seems like I handled my
 responsiblities with no issues. I'm glad I
 continued with the student council!)");

@@ -24,11 +24,9 @@ feels very familiar to me.");
 MsgDisp("主人公","What time is that?");
 ChEye(5,4);
 VoicePlay("G020530200_05_040");
-MsgDisp("Hiiragi","Lunchtime. During the performance period,
-we eat meals together with all the other
-members of the troupe. The atmosphere is
-very similar to that of a school
-cafeteria.");
+MsgDisp("Hiiragi","Lunchtime. During performances we eat
+together with the whole troupe.
+It feels just like a school cafeteria.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020530200_05_050");

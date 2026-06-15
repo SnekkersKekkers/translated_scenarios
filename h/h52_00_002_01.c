@@ -15,10 +15,9 @@ required to take a makeup exam.");
 MsgDisp("主人公","Ah, yes...
 I'm sorry.");
 VoicePlay("H520000201_32_020");
-MsgDisp("VP Himuro","This is a problem that comes before your
-enjoyment of music. Concentrate on your
-studies from tomorrow on. I'll have you
-leave the band. That is all.");
+MsgDisp("VP Himuro","This comes before your enjoyment of music.
+Focus on your studies from tomorrow.
+I'll have you leave the band. That is all.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Ugh... I should've studied properly.)");

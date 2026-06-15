@@ -37,10 +37,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600002_06_280");
-MsgDisp("Himuro","But we also talk about random things, like
-how interesting that movie was or how
-beautifully the gardening club's flowers
-bloomed.");
+MsgDisp("Himuro","But we also chat about random things—how
+good that movie was, or how lovely the
+gardening club's flowers bloomed.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

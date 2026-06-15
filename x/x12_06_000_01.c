@@ -24,10 +24,9 @@ You're skilled at raising plants.");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("X120600001_06_010");
-    MsgDisp("Himuro","They're all growing without worries,
-pretty. I wonder if flowers also resemble
-the people who raised them...No, there's
-no deeper meaning to it.");
+    MsgDisp("Himuro","They're all growing prettily, free of worry.
+I wonder if flowers come to resemble those
+who raise them... No, there's no deeper meaning.");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :

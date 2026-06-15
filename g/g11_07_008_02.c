@@ -33,10 +33,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700802_07_030");
-MsgDisp("Mikage","Well, just like with people, there are all
-kinds of plants. Tomatoes and potatoes
-taste better when grown with the minimum
-amount of water.");
+MsgDisp("Mikage","Well, like people, there are all sorts of
+plants. Tomatoes and potatoes taste better
+grown with minimal water.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

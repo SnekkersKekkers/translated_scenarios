@@ -33,17 +33,15 @@ For being that happy for me.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("X210500000_05_050");
-MsgDisp("Hiiragi","My own feelings are a mystery, even to
-myself, but one thing I can say is that
-I've grown to like Haba High even more
-after today.");
+MsgDisp("Hiiragi","My own feelings are a mystery even to me, but
+one thing's certain: I've grown to like Haba
+High even more after today.");
 MsgDisp("主人公","The school?");
 ChMotion(5,4);
 VoicePlay("X210500000_05_060");
-MsgDisp("Hiiragi","Yes. I mean, the fact that you were chosen
-as the Rose Queen is proof that all the
-students in the school share the same
-values as me, right?");
+MsgDisp("Hiiragi","Yes.
+You being chosen as Rose Queen is proof the
+whole school shares my values, right?");
 ChMotion(5,0);
 VoicePlay("X210500000_05_070");
 MsgDisp("Hiiragi","I feel like I'm finally a student here, and

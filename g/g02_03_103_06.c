@@ -33,10 +33,9 @@ ChMouth(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("G020310306_03_040");
-MsgDisp("Honda","Right, right. My mom used to tell me:
-\"Don't just read about it, go see it in
-person and touch to learn.\" That's when I
-started going outside.");
+MsgDisp("Honda","Right, right. My mum used to say: \"Don't just
+read about it, go see and touch it in
+person.\" That's when I started going outside.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

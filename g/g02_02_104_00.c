@@ -9,9 +9,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210400_02_010");
 MsgDisp("Sassa","Yeah, there must be something like that.
-You know, with humans too, somehow when
-you're a kid, being fast on your feet
-makes you popular, right?");
+With humans too, when you're a kid, being
+fast on your feet makes you popular, right?");
 MsgDisp("主人公","Hehe, yeah maybe.");
 ChEye(2,0);
 ChMouth(2,4);

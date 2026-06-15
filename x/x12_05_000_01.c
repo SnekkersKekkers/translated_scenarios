@@ -11,10 +11,9 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("X120500001_05_000");
-    MsgDisp("Hiiragi","It is thanks to everyone in the Gardening
-Club that all the plants in the school are
-so lively. On behalf of the students, let
-me say thank you.");
+    MsgDisp("Hiiragi","Thanks to the Gardening Club, all the
+school's plants are so lively.
+On behalf of the students, thank you.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

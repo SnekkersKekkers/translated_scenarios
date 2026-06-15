@@ -109,19 +109,17 @@ ChMouth(5,1);
 ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 VoicePlay("G110501000_05_100");
-MsgDisp("Hiiragi","A long time ago, a friend I had finally
-managed to make drifted away from me
-because of that. This was around
-elementary school time.");
+MsgDisp("Hiiragi","A long time ago, back in primary school, a
+friend I'd finally managed to make drifted
+away from me because of that.");
 ChMouth(5,1);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝ has had lots of difficult
-experiences since he was little...Even if
-it's just a little, I would like to help
-him...)");
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ has been through so much since
+he was little...
+I'd like to help him, even just a little...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

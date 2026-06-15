@@ -50,10 +50,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("B330B20301_03_020");
-MsgDisp("Honda","If they ripen too much on the tree,
-they'll lose their flavour, but I wonder
-about these ones. Ah, you can't just pick
-them as you like okay?");
+MsgDisp("Honda","Over-ripen on the tree and they lose their
+flavour—though I wonder about these. Ah, you
+can't just pick them as you like, okay?");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,2,1);

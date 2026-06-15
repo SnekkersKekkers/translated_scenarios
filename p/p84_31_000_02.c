@@ -11,10 +11,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("P843100002_31_010");
-MsgDisp("Goro","Take it as a thanks. Even when you were
-guiding me around the assembly hall, I was
-impressed how you handled the sudden work
-that sprung up.");
+MsgDisp("Goro","Take it as a thanks. While showing me round
+the assembly hall, you handled the sudden
+work that cropped up brilliantly.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);

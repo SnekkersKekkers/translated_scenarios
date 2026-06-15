@@ -30,10 +30,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020730001_07_040");
-MsgDisp("Mikage","It's not just you. Yanosuke and Inori are
-also in the midst of an important time in
-their lives. So, take a good look at
-everything.");
+MsgDisp("Mikage","It's not just you. Yanosuke and Inori are at
+an important time in their lives too.
+So take a good look at everything.");
 MsgDisp("主人公","Yes.");
 ChEye(7,0);
 ChMouth(7,3);

@@ -39,11 +39,9 @@ I'm also always like that.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P730500000_05_040");
-    MsgDisp("Hiiragi","That's how I feel everytime I do something
-for the first time. So, I've resigned
-myself to the fact nervousness is
-inevitable. If I do that, it becomes a
-little easier, right?");
+    MsgDisp("Hiiragi","That's how I feel doing anything for the
+first time. So I've accepted nervousness is
+inevitable. Doing that makes it a little easier, right?");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Ah, it's starting.");

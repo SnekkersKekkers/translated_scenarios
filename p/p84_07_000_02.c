@@ -31,10 +31,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P840700002_07_030");
-MsgDisp("Mikage","Then, with this last piece of cardboard,
-I'll put in some vegetables the gardening
-club grew. Share it with the student
-council club members.");
+MsgDisp("Mikage","Then in this last box, I'll put some
+vegetables the gardening club grew.
+Share them with the student council members.");
 MsgDisp("主人公","Eh, is that alright?");
 ChEye(7,0);
 ChMouth(7,3);

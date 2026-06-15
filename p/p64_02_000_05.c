@@ -23,10 +23,9 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P640200005_02_030");
-MsgDisp("Sassa","No matter what I ate, all I could taste
-was the strong aroma of the herbs. I
-couldn't taste the vegetables that you
-guys painstakingly grew.");
+MsgDisp("Sassa","Whatever I ate, all I could taste was the
+strong herb aroma. I couldn't taste the
+vegetables you painstakingly grew.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

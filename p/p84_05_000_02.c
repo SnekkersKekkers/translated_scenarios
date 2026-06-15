@@ -3,9 +3,8 @@ VoicePlay("P840500002_39_000");
 MsgDisp("School Boy","Excuse me!
 Do you have any cardboard boxes?");
 MsgDisp("主人公","Yes, in this rental notebook, please write
-your year, class, and number of items
-taken. Then press this counter machine for
-the number of items.");
+your year, class, and number of items taken.
+Then press this counter for each item.");
 VoicePlay("P840500002_39_010");
 MsgDisp("School Boy","OK! I'll press three times.");
 SEPlay("EV_SE_757");

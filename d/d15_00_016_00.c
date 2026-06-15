@@ -38,10 +38,9 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("D150001600_01_020");
-MsgDisp("Kazama","Inori, you're forgetting that you lift
-your glasses up all the time. What is it
-that you're trying to get a closer look
-at, exactly?");
+MsgDisp("Kazama","Inori, you forget you're always lifting your
+glasses. What exactly are you trying to get a
+closer look at?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

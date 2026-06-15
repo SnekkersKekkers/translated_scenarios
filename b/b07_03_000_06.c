@@ -38,9 +38,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B070300000_03_360");
-MsgDisp("Honda","But thanks to that, I was freed from the
-library curse and started going outside.
-That's also when I discovered I love teaching.");
+MsgDisp("Honda","But thanks to that, I escaped the library
+curse and got out more.
+That's when I found I love teaching.");
 MsgDisp("主人公","(...I see, as a middle schooler ｛Honda＊＊｝
 was even more of a bookworm than he is now.)");
 BGMStop();

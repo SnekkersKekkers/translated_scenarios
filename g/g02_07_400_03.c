@@ -16,10 +16,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020740003_07_020");
-MsgDisp("Mikage","I live in an apartment now so it's not
-possible～ When I was a kid, I didn't care
-about anything and kept whatever I could
-get a hold of.");
+MsgDisp("Mikage","I live in an apartment now, so no way～
+As a kid I didn't care and kept whatever I
+could get hold of.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

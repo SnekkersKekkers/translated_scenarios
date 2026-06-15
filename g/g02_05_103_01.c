@@ -16,10 +16,9 @@ MsgDisp("主人公","Eh, what kind of questions?");
 ChEye(5,2);
 ChMotion(5,4);
 VoicePlay("G020510301_05_030");
-MsgDisp("Hiiragi","What's your name? How old are you? What
-are your hobbies? Do you have any acting
-experience? And even, when are you joining
-the troupe?");
+MsgDisp("Hiiragi","What's your name? Your age?
+Your hobbies? Any acting experience?
+And when are you joining the troupe?");
 MsgDisp("主人公","Ehhhh∋");
 ChEye(5,3);
 ChMotion(5,0);

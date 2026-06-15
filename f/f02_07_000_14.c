@@ -71,9 +71,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F020700014_07_080");
 MsgDisp("Mikage","I said something good before graduation.
-Even if I say the same thing on the actual
-day, please act like it was your first
-time hearing it, okay?");
+Even if I repeat it on the day, act like it's
+your first time hearing it, okay?");
 MsgDisp("主人公","(There's only a little more time where I can
 be with ｛Mikage＊＊｝...
 It is lonely after all...)");

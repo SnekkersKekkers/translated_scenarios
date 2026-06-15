@@ -24,9 +24,8 @@ ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("G020410401_04_030");
 MsgDisp("Nanatsumori","I don't really want a big fuss either, but
-when it comes to anniversaries and such, I
-think it's better for families to do
-something.");
+for anniversaries and such, I think families
+should do something.");
 MsgDisp("主人公","I see...your mom must feel a bit lonely, huh?");
 ChEye(4,2);
 ChMouth(4,0);

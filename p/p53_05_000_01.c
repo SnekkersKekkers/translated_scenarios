@@ -93,10 +93,9 @@ heart is racing.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P530500001_05_090");
-    MsgDisp("Hiiragi","If you're too nervous, you won't be able
-to use your full potential. But on the
-other hand, excitement can lead to
-unexpected results.");
+    MsgDisp("Hiiragi","If you're too nervous, you can't use your
+full potential. But on the other hand,
+excitement can bring unexpected results.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

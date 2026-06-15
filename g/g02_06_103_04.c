@@ -53,10 +53,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_080");
-MsgDisp("Himuro","If I had given you one of those, I might
-have seen a different reaction...but
-whether that reaction would have been good
-or not is a mystery.");
+MsgDisp("Himuro","If I'd given you one, I might have seen a
+different reaction...though whether it'd be a
+good one is a mystery.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

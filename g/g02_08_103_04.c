@@ -26,10 +26,9 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("G020810304_08_030");
-MsgDisp("Shirahane","I thought a lot about you, you know? Not
-just your preferences, but also your usual
-behaviour and what you talk about, I
-analysed everything.");
+MsgDisp("Shirahane","I thought a lot about you, you know? Not just
+your tastes, but your usual behaviour and
+what you talk about. I analysed it all.");
 ChEye(8,3);
 ChMouth(8,0);
 VoicePlay("G020810304_08_040");
