@@ -1,7 +1,7 @@
 ChEyeOpenLevel(2,#1);
 ChMouthOpenLevel(2,#1);
 ChCheek(2,0);
-MsgSel("Yeah, I'll be there!","Uh, I'm sorry about that ...");
+MsgSel("Yeah, I'll be there!","Uh, I'm sorry about that...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(2,6)){

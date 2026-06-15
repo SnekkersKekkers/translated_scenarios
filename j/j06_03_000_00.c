@@ -114,7 +114,7 @@ I feel bad about that...)");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("J060300000_03_090");
-        MsgDisp("Honda","Eh ...?");
+        MsgDisp("Honda","Eh...?");
         MsgDisp("主人公","Oh, um, ...");
         ChEye(3,1);
         ChMouth(3,4);

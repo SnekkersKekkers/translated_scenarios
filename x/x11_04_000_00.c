@@ -14,7 +14,7 @@ I heard the baseball team won the practice
 game. Congratulations.");
     MsgDisp("主人公","｛Nanatsumori＊｝, thank you!");
     MsgDisp("主人公","(Yeah, I'm a baseball manager.
-I'm glad I did my best ...!)");
+I'm glad I did my best...!)");
     break ;
     case 4:
     case 5:
@@ -31,7 +31,7 @@ That's right!");
     VoicePlay("X110400000_04_020");
     MsgDisp("Nanatsumori","The guys in the club were all \"thanks to the
 manager.\" They were so happy and smiling.
-It's kind of frustrating ...");
+It's kind of frustrating...");
     MsgDisp("主人公","(Is ｛Nanatsumori＊｝ jealous?
 But I'm glad to hear your praise!)");
     break ;

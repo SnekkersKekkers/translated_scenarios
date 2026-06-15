@@ -71,7 +71,7 @@ I'm looking forward to Sunday!)");
         ChClose(6);
         Wait(30);
         MsgDisp("主人公","(He went to the trouble of inviting me, I'm
-sorry I did that ...)");
+sorry I did that...)");
         break ;
         default :
         DbgAssert(0);

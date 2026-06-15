@@ -14,7 +14,7 @@ field team. I heard you led them to victory
 in a practice match? That's good.");
     MsgDisp("主人公","Phew, thanks!");
     MsgDisp("主人公","(Yeah, I'm the track and field manager.
-I'm glad I did my best ...!)");
+I'm glad I did my best...!)");
     break ;
     case 4:
     case 5:
@@ -33,7 +33,7 @@ The track team is strong because of you...
 I think.");
     MsgDisp("主人公","Phew, thanks.");
     MsgDisp("主人公","(Yeah, I'm a track and field manager.
-I'm glad I did my best ...!)");
+I'm glad I did my best...!)");
     break ;
     default :
     DbgAssert(1);

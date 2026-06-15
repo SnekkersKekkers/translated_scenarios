@@ -105,7 +105,7 @@ Byebye!");
     MsgClose();
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(Thank you for praying for me ...
+    MsgDisp("主人公","(Thank you for praying for me...
 ｛Honda＊＊｝.
 This year will be another good year.)");
     break ;

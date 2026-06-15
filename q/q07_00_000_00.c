@@ -3,7 +3,7 @@ BGMPlay("BGM_PLACE_TRAVEL",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","We arrived at Huis ten Bosch!
 Wow, so many orange flowers!
-So cute ...");
+So cute...");
 MsgDisp("主人公","The windmills are also gorgeous.
 It feels like I'm in a foreign country.
 Hehe, so exciting.");
@@ -37,7 +37,7 @@ What a nice garden.");
 MsgDisp("主人公","Is this house really around 150 years old...?
 It's still so pretty.");
 MsgDisp("主人公","(Sigh...
-Going alone was a bad idea ...)");
+Going alone was a bad idea...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

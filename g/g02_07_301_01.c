@@ -50,7 +50,7 @@ VoicePlay("G020730101_07_070");
 MsgDisp("Mikage","Really, that's what this situation is, isn't
 it??");
 MsgDisp("主人公","(Being together with ｛Mikage＊＊｝ and
-everyone is really fun though ...)");
+everyone is really fun though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

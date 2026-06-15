@@ -73,7 +73,7 @@ I feel bad about that...)");
         case 4:
         case 5:
         VoicePlay("J060301000_03_090");
-        MsgDisp("Honda","Eh ...?");
+        MsgDisp("Honda","Eh...?");
         MsgDisp("主人公","Oh, um, ...");
         VoicePlay("J060301000_03_100");
         MsgDisp("Honda","Oh, I'm sorry!

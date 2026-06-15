@@ -208,7 +208,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("D120B00000_04_100");
-MsgDisp("Nanatsumori","And Dahon is sort of a celebrity too ...
+MsgDisp("Nanatsumori","And Dahon is sort of a celebrity too...
 It's unfair.");
 ChEye(3,0);
 ChMouth(3,4);

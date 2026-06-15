@@ -43,7 +43,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("T020200030_02_050");
-MsgDisp("Sassa","I can't run with you but ...
+MsgDisp("Sassa","I can't run with you but...
 It's okay.");
 ChEye(2,3);
 ChMouth(2,4);

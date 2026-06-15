@@ -35,7 +35,7 @@ ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("B330A10200_06_000");
 MsgDisp("Himuro","Well, the three of us are lined up, reflected
-in the tank ...
+in the tank...
 It's definitely laughable.");
 ChEye(2,0);
 ChMouth(2,0);

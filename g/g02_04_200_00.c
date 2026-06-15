@@ -46,7 +46,7 @@ VoicePlay("G020420000_04_070");
 MsgDisp("Nanatsumori","Well, then...
 Is there anyone else besides me that you're
 particularly interested in?");
-MsgDisp("主人公","That's ...");
+MsgDisp("主人公","That's...");
 ChEye(4,0);
 ChMouth(4,1);
 VoicePlay("G020420000_04_080");

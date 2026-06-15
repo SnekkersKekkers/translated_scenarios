@@ -40,7 +40,7 @@ That's amazing.");
     MsgDisp("Sassa","It's cool that you care about winning too.
 Let's work hard for each other.");
     MsgDisp("主人公","(I can't believe ｛Sassa＊＊｝ praised me, I'm
-glad I won ...!)");
+glad I won...!)");
     break ;
     default :
     DbgAssert(1);

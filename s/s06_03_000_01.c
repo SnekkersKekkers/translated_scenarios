@@ -58,7 +58,7 @@ the lottery!");
     ChMotion(3,4,1);
     VoicePlay("S060300001_03_060");
     MsgDisp("Honda","So, the first outfit of the year is a kimono.");
-    MsgDisp("主人公","Yeah ...
+    MsgDisp("主人公","Yeah...
 What do you think?");
     ChFace(3,3);
     ChMotion(3,5,1);

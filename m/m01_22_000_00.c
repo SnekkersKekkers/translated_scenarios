@@ -34,7 +34,7 @@ ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("M012200000_22_040");
 MsgDisp("Hikaru","Without Mari, school's a lonely place.
-Like a day without sunshine ...");
+Like a day without sunshine...");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,3,1);

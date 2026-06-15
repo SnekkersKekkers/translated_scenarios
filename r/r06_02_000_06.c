@@ -9,7 +9,7 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,0);
     VoicePlay("R060200006_02_000");
     MsgDisp("Sassa","Hmm, a reasonable gift.");
-    MsgDisp("主人公","(Hmm, he seems to like my gift ...
+    MsgDisp("主人公","(Hmm, he seems to like my gift...
 I think?)");
     break ;
     case 3:
@@ -21,7 +21,7 @@ I think?)");
     VoicePlay("R060200006_02_010");
     MsgDisp("Sassa","Yeah, I think this has a nice Christmas feel
 to it.");
-    MsgDisp("主人公","(Hmm, he seems to like my gift ...
+    MsgDisp("主人公","(Hmm, he seems to like my gift...
 I think?)");
     break ;
     default :

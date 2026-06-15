@@ -153,7 +153,7 @@ ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020711000_07_170");
-MsgDisp("Mikage","Yes, I ...
+MsgDisp("Mikage","Yes, I...
 I love you.");
 ChEye(7,4);
 ChMouth(7,4);

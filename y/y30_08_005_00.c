@@ -49,7 +49,7 @@ MsgDisp("Daichi","\"Waa∈\"");
 MsgDisp("","A voice suddenly called out from
 right behind me — I nearly jumped
 out of my skin.");
-MsgDisp("","Whoa, this teacher is really tall ...
+MsgDisp("","Whoa, this teacher is really tall...
 And the look in his eyes is kinda
 scary?");
 MsgClear();

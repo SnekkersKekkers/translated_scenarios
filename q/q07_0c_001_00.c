@@ -88,7 +88,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q070C00100_05_040");
-MsgDisp("Hiiragi","I feel so grateful ...
+MsgDisp("Hiiragi","I feel so grateful...
 I guess I finally have a place to call my
 hometown.");
 ChEyeOpenLevel(5,#1);

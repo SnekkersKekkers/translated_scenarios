@@ -29,7 +29,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630100_06_040");
 MsgDisp("Himuro","By the looks of it, you just do it
-subconsciously ...
+subconsciously...
 I'm jealous.");
 MsgDisp("主人公","Do you want to be friends with more girls?");
 ChEye(6,1);

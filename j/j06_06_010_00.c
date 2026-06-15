@@ -51,7 +51,7 @@ I'm looking forward to Sunday!)");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He went to the trouble of inviting me, I'm
-sorry I did that ...)");
+sorry I did that...)");
         break ;
         default :
         DbgAssert(1);
