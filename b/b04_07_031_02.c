@@ -60,7 +60,7 @@ It's a waste.");
         ChMotion(7,2);
         VoicePlay("B040703102_07_050");
         MsgDisp("Mikage","I'm also constantly apologizing to
-Vice-Principal Himuro, after all.");
+Vice Principal Himuro, after all.");
         MsgDisp("主人公","Hehe.");
         ChEye(7,0);
         ChMouth(7,3);

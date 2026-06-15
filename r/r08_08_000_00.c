@@ -24,7 +24,7 @@ ChMouth(8,3);
 VoicePlay("R080800000_08_010");
 MsgDisp("Shirahane","Hehe.
 I'm glad I made it just in time.");
-MsgDisp("主人公","I thought there was a party at the ski trip.");
+MsgDisp("主人公","Wait, isn't Hanegasaki on its ski trip right now—");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -115,8 +115,8 @@ StlEye(8,0,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,0,1);
 VoicePlay("R080800000_08_110");
-MsgDisp("Shirahane","Really.
-I'm glad I get to warm them now.");
+MsgDisp("Shirahane","It's all good.
+Ya'll warm 'em up for me now.");
 StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("R080800000_08_120");
@@ -193,7 +193,7 @@ MsgClose();
 ChOpen(8,255,0,0,0,#1,#1,8,0);
 ScrFadeIn(0);
 VoicePlay("R080800000_08_200");
-MsgDisp("Shirahane","Well then...our hangout for today stops here.");
+MsgDisp("Shirahane","Well then...this is where we part ways for today.");
 MsgDisp("主人公","...Okay.
 Thank you for coming, ｛Daichi＊＊｝.");
 ChEye(8,3);

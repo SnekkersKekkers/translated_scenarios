@@ -11,7 +11,7 @@ SEStop("EV_SE_CLAP_004",4);
 SEStop("EV_SE_GAYA_021",4);
 VoicePlay("A030000000_49_000");
 MsgDisp("Host","Thank you, principal.
-Next up is the vice principal.
+Next up is the Vice Principal.
 Please give him a warm welcome.");
 BGOpen("sc400",0);
 VoicePlay("A030000000_32_000");
@@ -34,7 +34,7 @@ SEPlay("EV_SE_GAYA_021",0,0.4);
 BGOpen("sc401",0);
 Wait(60,0);
 VoicePlay("A030000000_49_010");
-MsgDisp("Host","Thank you, vice principal.
+MsgDisp("Host","Thank you, Vice Principal.
 Moving on, the board chairman of the school
 will now say his greetings.");
 BGMStop(2);

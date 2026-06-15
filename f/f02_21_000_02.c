@@ -14,7 +14,7 @@ ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F022100002_21_010");
 MsgDisp("Michiru","I heard a kind of interesting rumor.
-About Vice-Principal Himuro and some of the
+About Vice Principal Himuro and some of the
 students.");
 MsgDisp("主人公","Himuro-sensei?");
 ChEye(21,0);

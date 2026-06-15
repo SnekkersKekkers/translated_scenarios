@@ -17,7 +17,7 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("D020800400_08_010");
-MsgDisp("Shirahane","Bet.");
+MsgDisp("Shirahane","Thanks a bunch!");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("D020800400_08_020");

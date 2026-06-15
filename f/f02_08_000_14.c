@@ -31,8 +31,8 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("F020800014_08_030");
-MsgDisp("Shirahane","...Damn it.
-This is so lonely, and happy.
+MsgDisp("Shirahane","...Aw, no good.
+I'm so lonely an' happy at once.
 I might cry.");
 MsgDisp("主人公","Hehe.");
 ChEye(8,3);

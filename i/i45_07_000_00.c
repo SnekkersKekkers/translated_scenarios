@@ -165,7 +165,7 @@ You say the nicest things.");
     ChMotion(7,4);
     ChEyeOpenLevel(7,0);
     VoicePlay("I450700000_07_170");
-    MsgDisp("Mikage","Aah, if I have this, even vice principal
+    MsgDisp("Mikage","Aah, if I have this, even Vice Principal
 Himuro won't come...
 I hope?");
     MsgDisp("主人公","Hehe, it doesn't have that kind of effect.");

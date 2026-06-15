@@ -52,7 +52,7 @@ MsgClear();
 MsgDisp("","I think the way I call her 'Miss
 Diligent' is seriously a perfect
 nickname for her.");
-MsgDisp("","She's more serious and earnest than
+MsgDisp("","She's more diligent and earnest than
 anyone, but whenever I see her, I
 just can't help smiling.");
 MsgDisp("","That's the kind of girl she is.");

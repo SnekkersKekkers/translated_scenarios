@@ -10,8 +10,8 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B070800000_08_170");
 MsgDisp("Shirahane","And I listen ta rock too.
-There's a famous band that's an alumnus of
-Hane school, and I follow them closely.");
+There's a guy who's an alumnus of Hane school
+in a famous band, an' I follow 'em closely.");
 MsgDisp("主人公","Is that so?");
 ChEye(8,3);
 ChMouth(8,3);

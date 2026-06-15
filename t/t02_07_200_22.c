@@ -35,8 +35,8 @@ ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("T020720022_07_040");
-MsgDisp("Mikage","Doesn't that mean we've given up on this
-being one-sided?");
+MsgDisp("Mikage","It means I'm not just one-sidedly
+surrendering anymore, you know?");
 MsgDisp("主人公","Yes.
 I got it.");
 ChEye(7,2);

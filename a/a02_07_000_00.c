@@ -106,7 +106,7 @@ ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("A020700000_32_010");
 MsgDisp("VP Himuro","Agh!");
-MsgDisp("主人公","(The vice principal!
+MsgDisp("主人公","(The Vice Principal!
 If I remember correctly, his name's
 Himuro...)");
 BGMPlay("BGM_HANYOU_C",0.01);

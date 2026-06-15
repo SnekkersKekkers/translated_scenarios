@@ -24,7 +24,7 @@ ChMotion(7,3);
 VoicePlay("B150700400_07_030");
 MsgDisp("Mikage","Hey, you said you got carried away, didn't
 even notice. But once the fire starts, you
-can't stop it's spread, you know?");
+can't stop its spread, you know?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

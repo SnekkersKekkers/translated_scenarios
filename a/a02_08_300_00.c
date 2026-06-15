@@ -52,8 +52,8 @@ ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("A020830000_08_030");
-MsgDisp("Shirahane","The famous Habataki High, innit?
-That's wicked cool.");
+MsgDisp("Shirahane","The famous Habataki High, right?
+That's real cool.");
 ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);

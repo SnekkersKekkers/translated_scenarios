@@ -60,7 +60,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700300_07_070");
-MsgDisp("Mikage","Try to do better on the next text.
+MsgDisp("Mikage","Try to do better on the next test.
 Okay?");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(30,0);

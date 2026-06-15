@@ -13,7 +13,7 @@ vegetables everyone grew was well received.)");
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700001_07_000");
-    MsgDisp("Mikage","This year has had a good start, hasn;t it?");
+    MsgDisp("Mikage","This year has had a good start, hasn't it?");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Seems like the vegetables sale is drawing
 attention.");

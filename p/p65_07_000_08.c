@@ -34,7 +34,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P650700008_07_040");
 MsgDisp("Mikage","Yeah.
-We raised nome beautiful vegetables, I have
+We raised some beautiful vegetables, I have
 to thank you.");
 ChEye(7,0);
 ChMouth(7,0);

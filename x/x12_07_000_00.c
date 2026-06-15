@@ -16,7 +16,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("X120700000_07_000");
     MsgDisp("Mikage","Looks like you've been working hard at the
 orchestra.
-Vice-Principal Himuro praised you too.");
+Vice Principal Himuro praised you too.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

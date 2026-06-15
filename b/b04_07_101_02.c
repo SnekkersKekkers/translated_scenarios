@@ -6,7 +6,7 @@ ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040710102_07_000");
 MsgDisp("Mikage","Phew, let's sit down and take a breather...");
-MsgSel("Should I tell Vice-Principal Himuro?","Then, me too...","｛Mikage＊＊｝, do your best!");
+MsgSel("Should I tell Vice Principal Himuro?","Then, me too...","｛Mikage＊＊｝, do your best!");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(7,6)){

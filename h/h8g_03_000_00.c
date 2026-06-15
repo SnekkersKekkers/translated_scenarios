@@ -27,7 +27,7 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("H7G0300000_03_030");
 MsgDisp("Honda","When I think of a model student, I think of
-someone all strict like our vice principal,
+someone all strict like our Vice Principal,
 but you're not like that.");
 ChEye(3,3);
 ChMouth(3,3);

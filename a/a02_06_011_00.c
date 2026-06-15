@@ -84,6 +84,6 @@ BGMStop();
 ChClose(6);
 MsgDisp("主人公","(｛Himuro＊＊｝...
 Seems like I should avoid bringing up his
-relationship with the vice principal.)");
+relationship with the Vice Principal.)");
 MsgClose();
 ScrFadeOut(0);

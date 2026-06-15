@@ -20,8 +20,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("P650700000_07_020");
-MsgDisp("Mikage","Thanks to you, I was praised by Vice
-Principal Himuro for the first time.
+MsgDisp("Mikage","Thanks to you, I was praised by
+Vice Principal Himuro for the first time.
 So, thanks—really.");
 MsgDisp("主人公","(Yay, a huge success!
 All that hard work really paid off.)");

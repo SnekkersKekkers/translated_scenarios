@@ -38,7 +38,7 @@ ChMouth(5,5);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C10401_05_000");
-MsgDisp("Hiiragi","Phew....");
+MsgDisp("Hiiragi","Yawn...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);

@@ -38,8 +38,7 @@ ChMouth(8,4);
 ChMotion(8,4,1);
 ChCheek(8,10);
 VoicePlay("G020810301_08_050");
-MsgDisp("Shirahane","If you say something like that, it makes me
-very self-conscious...");
+MsgDisp("Shirahane","Ya say somethin' like that an' I get real self-conscious, y'know...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);

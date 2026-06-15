@@ -14,7 +14,7 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,0);
     ScrFadeIn(0);
     VoicePlay("S120700005_07_000");
-    MsgDisp("Mikage","It's over.
+    MsgDisp("Mikage","We made it safe and sound.
 Give my regards to your family.");
     MsgDisp("主人公","Yep.
 Thank you very much for today. And thank you
@@ -130,7 +130,7 @@ You can come visit me anytime.");
     VoicePlay("S120700005_07_140");
     MsgDisp("Mikage","Maybe I'll get added to our school's
 legends...?
-Let's move on.");
+Well, I'm off to the plants.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -88,7 +88,7 @@ Looking forward to it.");
     MsgDisp("Mikage","Yeah, I knew from the beginning that you'd
 suit the gardening club.
 Miss Diligent.");
-    MsgDisp("主人公","Um...is being serious related to gardening?");
+    MsgDisp("主人公","Um...is being diligent related to gardening?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,4);

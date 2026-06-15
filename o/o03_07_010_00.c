@@ -44,7 +44,7 @@ three-legged race...)");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("O030701000_07_040");
-    MsgDisp("Mikage","Guess you can just lie back.");
+    MsgDisp("Mikage","You sure are taking it easy, huh.");
     MsgDisp("主人公","It's no laughing matter...");
     ChEye(7,2);
     ChMouth(7,0);

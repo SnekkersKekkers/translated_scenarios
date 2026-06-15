@@ -94,7 +94,7 @@ Now then, what to wear?)");
         break ;
         case 1:
         VoicePlay("S040800000_08_120");
-        MsgDisp("Shirahane","...Really?");
+        MsgDisp("Shirahane","...That's a no-go?");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("S040800000_08_130");
         MsgDisp("Shirahane","I see...");

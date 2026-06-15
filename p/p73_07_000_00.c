@@ -64,7 +64,7 @@ Go.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","I finished just in time but, it's finally the
+    MsgDisp("主人公","(I finished just in time but, it's finally the
 runway...
 I'm nervous...)");
     MsgClose();

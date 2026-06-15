@@ -13,8 +13,8 @@ ChMouth(8,0);
 ChMotion(8,4,1);
 ChEyeOpenLevel(8,0);
 ChCheek(8,10);
-MsgDisp("Shirahane","Yes...
-I also really like you too.");
+MsgDisp("Shirahane","Hehe...
+I really like ya too.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("T020801000_08_190");
 ChEye(8,4);

@@ -16,7 +16,7 @@ MsgDisp("Girl A","\"That uniform, it's Hane School's
 right? I wonder if he has a
 girlfriend at Haba High?\"");
 VoicePlay("Y300800500_46_000");
-MsgDisp("Girl B","\"That's incredible?
+MsgDisp("Girl B","\"Isn't that amazing?
 For him to wait so proudly at the
 school gates, I'm a bit jealous...\"");
 MsgDisp("","Hehe, it makes me feel kind of funny.");
@@ -32,9 +32,9 @@ MsgDisp("","...Hmm, now I'm curious.
 Is the track and field club at Haba
 High really that amazin'?");
 MsgClear();
-MsgDisp("","For a while, I just stood by the
-gate, quietly entertained by all the
-whispers swirling around me.");
+MsgDisp("","For a while, I just stood there by
+the gate, quietly enjoyin' all the
+whispers swirlin' around me.");
 MsgDisp("","But...she's late.
 Maybe, she already went home today∋");
 MsgDisp("","Feeling anxious, I looked restlessly
@@ -92,8 +92,8 @@ approachin'.");
 MsgDisp("主人公","\"｛Daichi＊＊｝, what are you doing
 here?\"");
 VoicePlay("Y300800500_08_030");
-MsgDisp("Daichi","\"I thought it would be nice to see
-you, so I waited here.
+MsgDisp("Daichi","\"Figured it'd be real nice if I got
+to see ya, so I waited here.
 Heheh!\"");
 MsgDisp("","Alright, today we got to walk home
 together♪");

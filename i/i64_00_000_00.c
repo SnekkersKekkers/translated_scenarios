@@ -50,8 +50,8 @@ I'll tell the manager.");
 See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","It's not like we can't- ｛Daichi＊＊｝ seemed
-really sad...
+    MsgDisp("主人公","\"We won't be seein' each other...\"
+｛Daichi＊＊｝ seemed really sad...
 I wonder if I did the right thing.");
     MsgDisp("","(I quit my job at Stallion Gasoline.)");
     break ;

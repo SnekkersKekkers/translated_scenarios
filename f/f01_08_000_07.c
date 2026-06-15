@@ -25,7 +25,7 @@ So I tried waitin' here.");
     ChOpen(8,254,0,4,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("F010800007_08_020");
-    MsgDisp("Shirahane","Heck yeah...");
+    MsgDisp("Shirahane","Thank goodness...");
     MsgDisp("主人公","Were you waiting for me, by chance?");
     ChEye(8,4);
     ChMouth(8,3);

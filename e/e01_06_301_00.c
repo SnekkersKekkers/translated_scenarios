@@ -33,7 +33,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("E010630100_06_020");
-MsgDisp("Himuro","Kojiro-senpai...
+MsgDisp("Himuro","Kojiro-sensei...
 Why are you here?");
 MsgDisp("主人公","Huh?
 Isn't ｛Mikage＊＊｝ the person you're

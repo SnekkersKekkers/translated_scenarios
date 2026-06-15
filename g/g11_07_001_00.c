@@ -17,7 +17,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700100_07_010");
 MsgDisp("Mikage","Oh, you came.
-How about some muddy vegetables.?");
+How about some muddy vegetables?");
 MsgDisp("主人公","Eh.
 But, lunchtime is almost over...");
 ChEye(7,0);

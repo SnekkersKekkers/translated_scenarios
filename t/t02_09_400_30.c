@@ -25,7 +25,7 @@ ChMouth(9,4);
 ChEyeOpenLevel(9,0);
 VoicePlay("T020940030_09_030");
 MsgDisp("Kuya","I'm sorry for the misunderstanding.");
-MsgDisp("主人公","Kuya-kun...");
+MsgDisp("主人公","Kuya-san...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);

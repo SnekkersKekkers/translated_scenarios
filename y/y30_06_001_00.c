@@ -29,7 +29,7 @@ high school'.");
 MsgClear();
 VoicePlay("Y300600100_42_000");
 MsgDisp("School Boy","\"Must be nice to be Himuro—, the high
-school's vice principal is his
+school's Vice Principal is his
 relative.\"");
 MsgDisp("","After homeroom ended—, immediately
 after the homeroom teacher left,

@@ -64,9 +64,8 @@ have fun for me too'");
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("Q020C00100_05_040");
-    MsgDisp("Hiiragi","When Mr.
-Mikage invited you like that, I was worried
-you'd reject going with us.");
+    MsgDisp("Hiiragi","When Mikage-sensei invited you like that, I
+was worried you'd reject going with us.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

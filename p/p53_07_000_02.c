@@ -37,8 +37,7 @@ Don't say it's the last.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700002_07_030");
-    MsgDisp("Mikage","Ah, but... It might be Vice Principal
-Himuro's last time conducting?
+    MsgDisp("Mikage","Ah, but... It might be Vice Principal Himuro's last time conducting?
 So repay him with a good performance.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alright! I'll have to let both Himuro-sensei
@@ -91,14 +90,14 @@ Then, please encourage me.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P530700002_07_090");
-    MsgDisp("Mikage","...Sigh Then, instead of thanking you, I'll
+    MsgDisp("Mikage","...Sigh. Then, instead of encouraging you, I'll
 thank you.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P530700002_07_100");
     MsgDisp("Mikage","I only get scolded by Himuro-sensei, but
-Thanks to you, I can hold my head high in
+thanks to you, I can hold my head high in
 front of him, you're even the heart of the
 concert band.");
     SEPlay("EV_SE_038");

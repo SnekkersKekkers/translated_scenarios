@@ -16,7 +16,7 @@ That means we're alumni right?");
 NSSEye(7,2);
 NSSMouth(7,3);
 VoicePlay("T040700000_07_010");
-MsgDisp("Mikage","Isn't that right?");
+MsgDisp("Mikage","Nah, it's not quite like that, is it?");
 NSSEye(7,6);
 NSSMouth(7,2);
 VoicePlay("T040700000_07_020");

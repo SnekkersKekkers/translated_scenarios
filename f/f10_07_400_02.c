@@ -36,7 +36,7 @@ Wait(50,0);
 VoicePlay("F100740002_07_000");
 MsgDisp("Mikage","Oh, you're all awfully quiet tod—");
 VoicePlay("F100740002_07_010");
-MsgDisp("Mikage","Gah, Vice-Principal Himuro∋");
+MsgDisp("Mikage","Gah, Vice Principal Himuro∋");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("F100740002_32_010");

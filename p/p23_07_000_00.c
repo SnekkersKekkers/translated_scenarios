@@ -51,7 +51,7 @@ shortly.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P230700000_07_040");
-    MsgDisp("Mikage","Yeah, I got it. we can't let everyone's hard
+    MsgDisp("Mikage","Yeah, I got it. We can't let everyone's hard
 work until now go to waste...");
     MsgDisp("主人公","Yeah!");
     break ;

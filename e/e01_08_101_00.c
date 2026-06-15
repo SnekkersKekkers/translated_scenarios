@@ -41,7 +41,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("E010810100_08_040");
-MsgDisp("Shirahane","The other day, I helped the baseball club
+MsgDisp("Shirahane","The other day, I helped the basketball club
 with their practice match. We all went
 together to celebrate their victory.");
 MsgDisp("主人公","Ah, that's right.

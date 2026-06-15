@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160700200_07_000");
 MsgDisp("Mikage","...Hey.
 That tickles.");
-MsgSel("It's because I'm tickling you.","Where about?");
+MsgSel("It's because I'm tickling you.","Where?");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(7,3);

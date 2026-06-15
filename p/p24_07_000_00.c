@@ -35,7 +35,7 @@ VoicePlay("P240700000_07_020");
 MsgDisp("Mikage","So what.
 I'd rather live in sorrow than without you.");
 MsgDisp("主人公","If I were to return, the pursuers would go
-after both you and yoru family.");
+after both you and your family.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,0);

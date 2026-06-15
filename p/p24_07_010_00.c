@@ -41,7 +41,7 @@ her back though?");
 MsgDisp("主人公","Eh?");
 VoicePlay("P240701000_46_010");
 MsgDisp("White Girl","If I were to return, the pursuers would go
-after both you and yoru family.");
+after both you and your family.");
 VoicePlay("P240701000_41_040");
 MsgDisp("Xu Xian","What meaning is there in meekly allowing time
 to pass when you aren't there?");

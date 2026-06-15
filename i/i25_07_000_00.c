@@ -46,7 +46,7 @@ books?)");
     MsgDisp("主人公","(Alright.
 Is that all the new books?)");
     VoicePlay("I250700000_07_040");
-    MsgDisp("Mikage?","Yo, you hard-working, serious girl.");
+    MsgDisp("Mikage?","Yo, you hard-working Miss Diligent.");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);

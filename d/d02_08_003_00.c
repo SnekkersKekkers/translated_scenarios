@@ -7,7 +7,7 @@ BGMPlay("BGM_C08_DAICHI_A",0.01);
 ChOpen(8,35,2,3,3,#1,#1,0,0);
 ChEyeOpenLevel(8,0);
 VoicePlay("D020800300_08_000");
-MsgDisp("Shirahane","Cheers...
+MsgDisp("Shirahane","Thanks a bunch...
 No, I mean, thank you very much!");
 SEStop("EV_SE_589",1);
 MsgDisp("主人公","Thank you very much!
