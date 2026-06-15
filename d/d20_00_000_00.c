@@ -70,7 +70,7 @@ But right now I'm Goro Hanatsubaki, special
 advisor of Habatcher!");
 MsgDisp("主人公","Uhm...Habatcher?
 That's Habataki City's information magazine
-\"Habataki Watcher \", right?...");
+\"Habataki Watcher\", right?...");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,3);
