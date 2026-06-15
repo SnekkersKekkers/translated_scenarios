@@ -69,7 +69,7 @@ too.");
         ChMouth(6,4);
         ChMotion(6,0,1);
         VoicePlay("B040623602_06_070");
-        MsgDisp("Himuro","Because I'll have to realize my own cowardice
+        MsgDisp("Himuro","Because I'll have to realise my own cowardice
 and pathetic nature.
 I can't deal with that.");
         MsgDisp("主人公","Umm.");

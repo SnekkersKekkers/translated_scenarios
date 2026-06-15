@@ -32,7 +32,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20401_07_010");
 MsgDisp("Mikage","That's right.
-But... I still don't understand the rumors
+But... I still don't understand the rumours
 about being able to hear inner voices here...");
 ChEye(5,0);
 ChMouth(5,2);

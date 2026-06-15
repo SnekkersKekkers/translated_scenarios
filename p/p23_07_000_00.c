@@ -32,7 +32,7 @@ Xu Xiang's costume fits you.");
     ChMotion(7,2);
     VoicePlay("P230700000_07_020");
     MsgDisp("Mikage","That's not it.
-I accompanied the practices, so I memorized
+I accompanied the practices, so I memorised
 the lines though...");
     ChEye(7,2);
     ChMouth(7,0);

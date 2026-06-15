@@ -44,7 +44,7 @@ Sorry, even though you came to cheer me on.");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("O020300002_03_030");
-    MsgDisp("Honda","Why are you apologizing?");
+    MsgDisp("Honda","Why are you apologising?");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,1);

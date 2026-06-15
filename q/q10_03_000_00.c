@@ -24,7 +24,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("Q100300000_03_020");
 MsgDisp("Honda","...Do you also feel a bit weird when you
-realize we're looking at the same thing as
+realise we're looking at the same thing as
 people centuries ago?");
 MsgDisp("主人公","I do, I mean, it's been here forever.");
 ChEye(3,0);

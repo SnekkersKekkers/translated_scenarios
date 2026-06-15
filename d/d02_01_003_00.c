@@ -78,7 +78,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100300_01_070");
 MsgDisp("Kazama","So before that could happen, I asked for a
-favor and was allowed to spend three years
+favour and was allowed to spend three years
 here.");
 MsgDisp("主人公","So that's how it is...");
 ChMotion(1,0);

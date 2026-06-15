@@ -25,7 +25,7 @@ ChEyeOpenLevel(7,7);
 ScrFadeIn(0);
 VoicePlay("B030718000_07_020");
 MsgDisp("Mikage","But seriously, is this movie like one of
-Himuro's favorites or what...?");
+Himuro's favourites or what...?");
 MsgDisp("主人公","I think it's about to start?");
 MsgClose();
 MsgClose();

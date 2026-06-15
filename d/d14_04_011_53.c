@@ -9,4 +9,4 @@ ChMotion(4,0);
 VoicePlay("D140401153_04_010");
 MsgDisp("Nanatsumori","It's not only spicy, but also really
 delicious. There's a perfect balance of
-tomatoes, garlic, and chili peppers!");
+tomatoes, garlic, and chilli peppers!");

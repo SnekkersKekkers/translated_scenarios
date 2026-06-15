@@ -21,7 +21,7 @@ It's right up my alley.");
     ChMotion(8,3,1);
     VoicePlay("L040800003_08_020");
     MsgDisp("Shirahane","Yeah.
-I'm gonna savor this at home.
+I'm gonna savour this at home.
 Thanks!");
     MsgDisp("主人公","(Thank goodness.
 He seemed to like it!)");

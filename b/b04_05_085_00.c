@@ -28,7 +28,7 @@ Then, shall we get closer?");
     ChEye(5,3);
     ChMotion(5,3);
     VoicePlay("B040508500_05_020");
-    MsgDisp("Hiiragi","It was so colorful with the fireflies and the
+    MsgDisp("Hiiragi","It was so colourful with the fireflies and the
 autumn leaves. But I also like this
 atmosphere that looks like an ink painting.");
     MsgDispSksp(1,8);

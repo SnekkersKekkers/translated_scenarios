@@ -23,7 +23,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360718000_07_020");
-MsgDisp("Mikage","...maybe buying food for the theater company
+MsgDisp("Mikage","...maybe buying food for the theatre company
 staff.");
 MsgDisp("主人公","Really?");
 ChEye(7,2);

@@ -37,7 +37,7 @@ of the cacao beans they mentioned.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300002_03_040");
-    MsgDisp("Honda","I'll savor it.
+    MsgDisp("Honda","I'll savour it.
 Thank you!");
     MsgDisp("主人公","(Thank goodness.
 ｛Honda＊＊｝ seemed happy.)");

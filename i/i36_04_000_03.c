@@ -43,7 +43,7 @@ See ya.");
     Wait(30,0);
     SEPlay("EV_SE_DOOR_014");
     MsgDisp("主人公","...He's right.
-｛Nanatsumori＊｝ really did me a favor by
+｛Nanatsumori＊｝ really did me a favour by
 telling me that...");
     MsgDisp("主人公","(I might be a little out of it.
 Let's check the tables more...)");

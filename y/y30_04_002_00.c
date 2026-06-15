@@ -38,7 +38,7 @@ talking about meeting up for real.
 Honestly, it was a pain, and I
 thought about turning him down,
 but...");
-MsgDisp("","I knew he lived in the neighboring
+MsgDisp("","I knew he lived in the neighbouring
 Habataki City.
 In the end, I went the next day.");
 MsgClear();
@@ -51,7 +51,7 @@ an internet cafe, we got really into
 talking about my social media and PC
 accessories, those kinds of mundane
 topics.");
-MsgDisp("","Before I realized, it was already
+MsgDisp("","Before I realised, it was already
 evening.");
 MsgClear();
 MsgClose();
@@ -93,10 +93,10 @@ BGOpen("ad424",0);
 ScrFadeIn(0);
 MsgDisp("","Why not try becoming a model?");
 MsgDisp("","It's a stock phrase often used in
-dangerous pitches...That modeling
+dangerous pitches...That modelling
 office is a place that middle and
 high school students here in this
-neighboring town aspire for.");
+neighbouring town aspire for.");
 MsgDisp("","It's to the point even I know about
 it. That legendary high school model,
 Hazuki Kei was in that place.");
@@ -140,7 +140,7 @@ MsgDisp("","After that...
 I don't exactly remember what we
 talked about.");
 MsgClear();
-MsgDisp("","My modeling contract would start once
+MsgDisp("","My modelling contract would start once
 I became a high school student.");
 MsgDisp("","In order for me to both be able to
 work and go to school, I would live

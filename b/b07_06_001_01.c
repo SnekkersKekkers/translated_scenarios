@@ -39,7 +39,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600001_06_060");
 MsgDisp("Himuro","He's got his own share of worries that never
-seem to end. I've found myself sympathizing
+seem to end. I've found myself sympathising
 with him more and more.");
 MsgDisp("主人公","Is that so.");
 ChEye(6,0);

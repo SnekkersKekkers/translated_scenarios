@@ -63,7 +63,7 @@ But that's my job...");
     VoicePlay("P830500000_05_050");
     MsgDisp("Hiiragi","It's alright.
 I'm acquainted with some people present due
-to their relations with the theater troupe.");
+to their relations with the theatre troupe.");
     VoicePlay("P830500000_05_060");
     MsgDisp("Hiiragi","Please leave it to me.");
     MsgDisp("主人公","...Okay.

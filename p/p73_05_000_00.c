@@ -90,7 +90,7 @@ Seems like I'm nervous after all.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500000_05_080");
-    MsgDisp("Hiiragi","I apologize.
+    MsgDisp("Hiiragi","I apologise.
 I didn't intend on putting pressure on you.");
     MsgDisp("主人公","No.
 I'm happy that you came to watch.");
@@ -98,7 +98,7 @@ I'm happy that you came to watch.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P730500000_05_090");
-    MsgDisp("Hiiragi","It's the same when I'm at theater troupe.
+    MsgDisp("Hiiragi","It's the same when I'm at theatre troupe.
 I'm happiest when people come to watch.");
     VoicePlay("P730500000_05_100");
     MsgDisp("Hiiragi","Just remember that happy feeling, and forget

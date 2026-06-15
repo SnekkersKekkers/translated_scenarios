@@ -2,9 +2,9 @@ MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 VoicePlay("G020110102_01_000");
 MsgDisp("Kazama","...Hey.
-Are fireflies supposed to be this colorful?");
+Are fireflies supposed to be this colourful?");
 MsgDisp("主人公","Fireflies come in all shapes and sizes and
-colors, just like people.");
+colours, just like people.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -16,7 +16,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110102_01_020");
 MsgDisp("Kazama","We recently got some people with their own
-unique colors hanging around us too.");
+unique colours hanging around us too.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -38,7 +38,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 Wait(12,0);
 VoicePlay("G020110102_01_050");
-MsgDisp("Kazama","Since it's a special color for both of us.
+MsgDisp("Kazama","Since it's a special colour for both of us.
 Do you remember?");
 MsgDisp("主人公","I do.");
 ChEye(1,4);
@@ -48,7 +48,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020110102_01_060");
 MsgDisp("Kazama","If I were a firefly, I'd fly to you with
 pinpoint accuracy.
-I don't need flashy colors like them.");
+I don't need flashy colours like them.");
 ChMotion(1,0);
 Wait(10,0);
 ChEye(1,4);

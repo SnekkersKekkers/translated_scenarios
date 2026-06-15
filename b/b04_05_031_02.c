@@ -62,7 +62,7 @@ Or I was too reliant on you.");
         ChMotion(5,4);
         VoicePlay("B040503102_05_050");
         MsgDisp("Hiiragi","Right.
-Before I realized it, I was only seeking
+Before I realised it, I was only seeking
 comfort in the times in which I was with you.");
         ChEye(5,0);
         ChMouth(5,3);
@@ -84,7 +84,7 @@ That would be impossible.");
         ChMotion(5,4);
         VoicePlay("B040503102_05_070");
         MsgDisp("Hiiragi","This person is my special someone.
-I apologize for the disturbance.");
+I apologise for the disturbance.");
         MsgDisp("主人公","(Ehhh∋
 That's embarrassing, ｛Hiiragi＊＊＊｝...!)");
         ChEye(5,4);

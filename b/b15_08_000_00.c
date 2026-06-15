@@ -11,7 +11,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B150800000_08_010");
-MsgDisp("Shirahane","You don't hafta apologize.
+MsgDisp("Shirahane","You don't hafta apologise.
 It's just ticklish.");
 ChEye(8,4);
 ChMouth(8,4);

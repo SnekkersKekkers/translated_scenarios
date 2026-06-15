@@ -15,7 +15,7 @@ MsgDisp("主人公","Yeah.
 It's amazing...!");
 VoicePlay("B360450401_04_010");
 MsgDisp("Nanatsumori","I've known about the lights in Habataki City
-since I lived in the neighboring town.
+since I lived in the neighbouring town.
 One day...");
 ChEye(4,4);
 ChMotion(4,1,1);

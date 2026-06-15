@@ -38,7 +38,7 @@ ChMotion(7,4);
 VoicePlay("G020740000_07_050");
 MsgDisp("Mikage","But, deep down...
 I want to have more freedom, and farm in a
-more cozy space.");
+more cosy space.");
 MsgDisp("主人公","I see...");
 ChEye(7,0);
 ChMouth(7,0);

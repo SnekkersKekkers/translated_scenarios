@@ -16,7 +16,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110200_01_020");
-MsgDisp("Kazama","But I just realized that that's bad.");
+MsgDisp("Kazama","But I just realised that that's bad.");
 MsgDisp("主人公","Huh?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);

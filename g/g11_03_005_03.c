@@ -14,13 +14,13 @@ BGMPlay("BGM_C03_HONDA_A");
 BGOpen("ev003",0);
 ChOpen(3,100,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Honda＊＊｝, are you still organizing the
+MsgDisp("主人公","｛Honda＊＊｝, are you still organising the
 bookshelf?");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,0);
 VoicePlay("G110300503_03_000");
-MsgDisp("Honda","No, I thought if I organized the books, it
+MsgDisp("Honda","No, I thought if I organised the books, it
 would sort out my mind too...but it didn't
 help.");
 MsgDisp("主人公","Eh...");
@@ -29,7 +29,7 @@ ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300503_03_010");
 MsgDisp("Honda","Phew...
-I've stopped organizing it now.");
+I've stopped organising it now.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3,0,0);

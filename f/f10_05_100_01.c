@@ -57,14 +57,14 @@ VoicePlay("F100510001_05_040");
 MsgDisp("Hiiragi","It is embarrassing, however, I wasn't able to
 attend school very often, especially in my
 third year of middle school.");
-MsgDisp("主人公","That was before the theater troupe came to
+MsgDisp("主人公","That was before the theatre troupe came to
 Habataki City, right?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 ChCheek(5,0);
 VoicePlay("F100510001_05_050");
-MsgDisp("Hiiragi","I was able to enroll with the kindness of the
+MsgDisp("Hiiragi","I was able to enrol with the kindness of the
 principal.");
 ChEye(5,0);
 ChMouth(5,4);

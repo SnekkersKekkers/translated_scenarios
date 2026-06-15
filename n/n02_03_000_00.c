@@ -68,7 +68,7 @@ Your name was right above mine!");
     ChEyeOpenLevel(3,0);
     VoicePlay("N020300000_03_070");
     MsgDisp("Honda","I'm convinced now after seeing that.
-You are the reason I get to realize so many
+You are the reason I get to realise so many
 things for the first time.");
     MsgDisp("主人公","(｛Honda＊＊｝ praised me!
 I'm glad I did my best!)");

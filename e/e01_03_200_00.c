@@ -27,7 +27,7 @@ VoicePlay("E010320000_03_010");
 MsgDisp("Honda","｛主人公｝, good afternoon.");
 MsgDisp("主人公","Hehe.
 The two of you are wearing differently
-colored aprons.");
+coloured aprons.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

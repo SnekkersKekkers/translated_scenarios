@@ -17,7 +17,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610400_06_020");
-MsgDisp("Himuro","But when I thought about it more, I realized
+MsgDisp("Himuro","But when I thought about it more, I realised
 every time she asked was after the days I
 hung out with you.");
 MsgDisp("主人公","Eh!");

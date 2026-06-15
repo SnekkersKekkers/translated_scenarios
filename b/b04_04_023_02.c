@@ -110,7 +110,7 @@ I wonder what it means...)");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040402302_04_120");
-    MsgDisp("Nanatsumori","They say blue is the color of happiness.
+    MsgDisp("Nanatsumori","They say blue is the colour of happiness.
 Should I look into it? If I find something
 convincing, I might post it.");
     MsgDispSksp(1,0);

@@ -3,7 +3,7 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Coral wood pen\")");
-MsgDisp("主人公","(Wah, what a cute color!
+MsgDisp("主人公","(Wah, what a cute colour!
 The pinkish wood grain is so stylish.
 I'll take good care of it.)");
 MsgClose();

@@ -42,7 +42,7 @@ MsgDisp("主人公","Ah, sorry, was I staring?
 But...");
 VoicePlay("G110400600_04_040");
 MsgDisp("Nanatsumori","But?");
-MsgDisp("主人公","You were modeling without glasses, and when
+MsgDisp("主人公","You were modelling without glasses, and when
 you did bungee jumping you had different hair
 and no glasses...");
 MsgDisp("主人公","Doesn't that completely change your aura?");

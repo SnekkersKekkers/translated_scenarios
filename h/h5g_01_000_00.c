@@ -52,6 +52,6 @@ MsgDisp("Kazama","Then I'll look forward to your solo concert.
 Got it, champion?");
 MsgDisp("主人公","Yeah, thanks!");
 MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ congratulated me!
-I'm glad I practiced so hard for brass band!)");
+I'm glad I practised so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

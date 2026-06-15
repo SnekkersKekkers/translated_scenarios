@@ -20,7 +20,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10100_05_010");
 MsgDisp("Hiiragi","Until I enrolled at Habataki High School, I
-was always traveling.");
+was always travelling.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -58,7 +58,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10100_05_040");
-MsgDisp("Hiiragi","I apologize.
+MsgDisp("Hiiragi","I apologise.
 But, I do hold a bit of nostalgia for those
 days.");
 ChEye(7,0);

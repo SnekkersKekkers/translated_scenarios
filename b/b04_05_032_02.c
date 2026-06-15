@@ -53,7 +53,7 @@ Was that dull?");
         VoicePlay("B040503202_05_040");
         MsgDisp("Hiiragi","I see...
 I'm the one who should be sorry. I didn't
-realize I was making you worry about me.");
+realise I was making you worry about me.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("B040503202_05_050");

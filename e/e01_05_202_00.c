@@ -34,7 +34,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520200_05_030");
-MsgDisp("Hiiragi","But I run the theater company for the sake of
+MsgDisp("Hiiragi","But I run the theatre company for the sake of
 the customers. Honda-kun is incredibly
 popular with the children.");
 ChEye(3,0);

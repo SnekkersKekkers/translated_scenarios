@@ -66,7 +66,7 @@ coffee.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123402_01_050");
         MsgDisp("Kazama","Wonderful?
-It wasn't my favorite.");
+It wasn't my favourite.");
         MsgDisp("主人公","Do you dislike this ride?");
         ChEye(1,2);
         ChMouth(1,3);

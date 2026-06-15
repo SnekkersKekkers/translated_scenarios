@@ -9,11 +9,11 @@ MsgDisp("Hiiragi","Even just going to school every day is a new
 experience for me, and on top of that, I'm
 involved in student council activities.");
 MsgDisp("主人公","Furthermore, you have the ｛Hiiragi＊＊＊｝
-theater troupe.
+theatre troupe.
 It really must be tough.");
 ChEye(5,4);
 VoicePlay("G020530200_05_020");
-MsgDisp("Hiiragi","I've been working in a theater company for as
+MsgDisp("Hiiragi","I've been working in a theatre company for as
 long as I can remember.
 It's not a hardship.");
 ChEye(5,3);
@@ -32,7 +32,7 @@ cafeteria.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020530200_05_050");
-MsgDisp("Hiiragi","It's my favorite time when we discuss various
+MsgDisp("Hiiragi","It's my favourite time when we discuss various
 things related to what we've chosen.");
 MsgDisp("主人公","I also like the school cafeteria.");
 ChEye(5,3);

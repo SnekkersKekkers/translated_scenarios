@@ -17,7 +17,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B010700000_07_010");
 MsgDisp("Mikage","Be as late as you want.
-But don't make a habit of apologizing.");
+But don't make a habit of apologising.");
 MsgDispSksp(1,0);
 ChEye(7,0);
 ChMouth(7,3);

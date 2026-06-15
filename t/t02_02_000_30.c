@@ -12,7 +12,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200030_02_000");
 MsgDisp("Sassa","I see...
-Why are you apologizing?");
+Why are you apologising?");
 BGMPlay("BGM_C02_SASSA_C",0.01);
 ChEye(2,4);
 ChMouth(2,4);

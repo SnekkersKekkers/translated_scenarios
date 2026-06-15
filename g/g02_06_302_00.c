@@ -26,7 +26,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630200_06_030");
-MsgDisp("Himuro","Don't you make friends without realizing?");
+MsgDisp("Himuro","Don't you make friends without realising?");
 MsgDisp("主人公","I guess...?");
 ChEye(6,0);
 ChMouth(6,0);

@@ -57,7 +57,7 @@ struggle than that.");
     ChMotion(1,0,1);
     VoicePlay("B040111100_01_040");
     MsgDisp("Kazama","Starting off appears OK!
-We can practice together.");
+We can practise together.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

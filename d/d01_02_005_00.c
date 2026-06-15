@@ -74,7 +74,7 @@ ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("D010200500_02_030");
 MsgDisp("Sassa","But this is completely awful.
-I wonder what I even practiced for.");
+I wonder what I even practised for.");
 MsgDisp("主人公","Don't say that.
 ｛Sassa＊＊｝ is an octathlon athlete, and an
 Inter-High champion.");

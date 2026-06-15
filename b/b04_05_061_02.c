@@ -62,7 +62,7 @@ Hey, why don't we go?");
         ChMotion(5,2);
         ChCheek(5,7);
         VoicePlay("B040506102_05_050");
-        MsgDisp("Hiiragi","I apologize.
+        MsgDisp("Hiiragi","I apologise.
 S-Saying it smells delicious...
 What am I saying...");
         MsgDisp("主人公","Umm, don't pay too much mind to that.");

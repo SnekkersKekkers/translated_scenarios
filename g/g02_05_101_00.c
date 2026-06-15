@@ -28,7 +28,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("G020510100_05_050");
 MsgDisp("Hiiragi","Ah, don't move.
-There are fireflies of strange colors behind
+There are fireflies of strange colours behind
 you...");
 ChCheek(5,7);
 VoicePlay("G020510100_05_060");

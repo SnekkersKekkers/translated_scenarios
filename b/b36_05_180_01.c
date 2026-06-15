@@ -19,7 +19,7 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360518001_05_010");
 MsgDisp("Hiiragi","I received this from the supporters of the
-theater company.");
+theatre company.");
 VoicePlay("B360518001_05_020");
 MsgDisp("Hiiragi","Only two.");
 MsgDisp("主人公","I see.

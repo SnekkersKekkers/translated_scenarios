@@ -25,7 +25,7 @@ ChMotion(1,0);
 VoicePlay("P740100003_01_020");
 MsgDisp("Kazama","Well, good work.");
 MsgDisp("主人公","(Sigh I'm usually careful...
-Maybe I didn't practice enough during the
+Maybe I didn't practise enough during the
 preparation period.)");
 MsgClose();
 ScrFadeOut(0,0);

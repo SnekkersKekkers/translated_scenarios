@@ -106,7 +106,7 @@ MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,0,0,#1,#1,0,1);
 VoicePlay("Q070A00100_01_060");
-MsgDisp("Kazama","It's 105 meters above land and was originally
+MsgDisp("Kazama","It's 105 metres above land and was originally
 a bell tower.");
 ChEye(2,0);
 ChMouth(2,0);

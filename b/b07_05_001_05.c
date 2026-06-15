@@ -12,7 +12,7 @@ ChEye(5,2);
 ChMouth(5,4);
 VoicePlay("B070500001_05_370");
 MsgDisp("Hiiragi","...That's right, sorry.");
-MsgDisp("主人公","Eh, why is ｛Hiiragi＊＊＊｝ apologizing?");
+MsgDisp("主人公","Eh, why is ｛Hiiragi＊＊＊｝ apologising?");
 VoicePlay("B070500001_05_380");
 MsgDisp("Hiiragi","For making you ask that question.");
 ChMouth(5,2);

@@ -114,7 +114,7 @@ Thanks for the food!");
     ChClose(2);
     MsgDisp("主人公","Thank you very much!");
     MsgDisp("主人公","(｛Sassa＊＊｝...did the small amount of food
-just serve as an appetizer?)");
+just serve as an appetiser?)");
     break ;
     case 4:
     case 5:
@@ -141,7 +141,7 @@ So I just ended up coming.");
     ChEyeOpenLevel(2,7);
     VoicePlay("I550200000_02_150");
     MsgDisp("Sassa","...Hm?
-I realized this as I was saying it, but
+I realised this as I was saying it, but
 aren't my actions kinda bad?");
     MsgDisp("主人公","Huh, I don't think so.
 You came to check on me, right?");

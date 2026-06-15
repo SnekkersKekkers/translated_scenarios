@@ -51,7 +51,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("F100230001_02_020");
-MsgDisp("Sassa","When you think of Hikaru-san's favorite food,
+MsgDisp("Sassa","When you think of Hikaru-san's favourite food,
 you'd expect fancy French cuisine, right?
 But it's hamburgers?");
 ChMouth(22,1);

@@ -78,7 +78,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010540000_05_040");
 MsgDisp("Hiiragi","I wanted to give Goro-sensei a ticket to the
-Habataki Theater Company, so I asked Hikaru.");
+Habataki Theatre Company, so I asked Hikaru.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -116,7 +116,7 @@ MsgDisp("Hikaru","Yeah, Hikaru's sure uncle will give it to her
 as a present.
 Look forward to it, 'kay?");
 MsgDisp("主人公","Okay!");
-MsgDisp("主人公","(The head of the theater company and the
+MsgDisp("主人公","(The head of the theatre company and the
 model. They're both so amazing, but they're
 also so kind.)");
 BGMStop();

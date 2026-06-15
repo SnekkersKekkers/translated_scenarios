@@ -11,7 +11,7 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020420001_04_010");
 MsgDisp("Nanatsumori","Hey.
-You may not realize it, but you know you're
+You may not realise it, but you know you're
 the heroine, right?");
 MsgDisp("主人公","Huh, I'm the heroine∋");
 ChEye(4,2);
@@ -45,7 +45,7 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020420001_04_060");
 MsgDisp("Nanatsumori","Don't worry about it.
-It's just I realized something that I didn't
+It's just I realised something that I didn't
 need to know.");
 ChEye(4,2);
 ChMouth(4,3);

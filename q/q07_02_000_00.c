@@ -61,7 +61,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_060");
-MsgDisp("Sassa","Hmm, 105 meters...
+MsgDisp("Sassa","Hmm, 105 metres...
 It looks much taller from down here.");
 ChEye(2,0);
 ChMouth(2,0);

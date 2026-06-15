@@ -10,7 +10,7 @@ MsgClose();
 ChOpen(2,255,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Wow, amazing.
 It's overflowing with so many different
-colors of lights!");
+colours of lights!");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

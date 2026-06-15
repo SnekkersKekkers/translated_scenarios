@@ -102,7 +102,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D010200400_02_110");
 MsgDisp("Sassa","It's fine...
-Why are you apologizing?");
+Why are you apologising?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

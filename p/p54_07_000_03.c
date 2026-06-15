@@ -4,7 +4,7 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Sigh...
-I didn't practice enough.
+I didn't practise enough.
 I wasn't able to perform well...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -20,13 +20,13 @@ VoicePlay("P540700003_07_010");
 MsgDisp("Mikage","I see.
 It seems you weren't satisfied with your
 performance.");
-MsgDisp("主人公","I didn't practice enough.");
+MsgDisp("主人公","I didn't practise enough.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P540700003_07_020");
 MsgDisp("Mikage","I don't know anything about wind instruments,
-but you can't practice alone you know?");
+but you can't practise alone you know?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -43,7 +43,7 @@ MsgDisp("Mikage","That's a nice expression.
 You should quickly show everyone that
 expression.");
 MsgDisp("主人公","(｛Mikage＊＊｝, you're kind huh...
-But I should have practiced more with
+But I should have practised more with
 everyone.)");
 MsgClose();
 ScrFadeOut(0,0);

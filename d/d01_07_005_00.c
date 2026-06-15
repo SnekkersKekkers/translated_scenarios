@@ -29,7 +29,7 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("D010700500_07_010");
-MsgDisp("Mikage","My favorite Miss Diligent is studying away, so
+MsgDisp("Mikage","My favourite Miss Diligent is studying away, so
 I came to help.");
 MsgClose();
 ScrFadeOut(0);

@@ -26,7 +26,7 @@ lose.");
     Wait(15,0);
     ChMouth(5,3);
     VoicePlay("O040501100_05_020");
-    MsgDisp("Hiiragi","I apologize. Even if you are to be my
+    MsgDisp("Hiiragi","I apologise. Even if you are to be my
 opponent, I do not wish to lose in this
 competition. Are you prepared?");
     break ;

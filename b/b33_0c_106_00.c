@@ -67,7 +67,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10600_05_010");
 MsgDisp("Hiiragi","I'm sure you'll have different impressions
-depending on who you empathize with.");
+depending on who you empathise with.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

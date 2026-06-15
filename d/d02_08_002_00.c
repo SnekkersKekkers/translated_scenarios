@@ -27,7 +27,7 @@ ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("D020800200_08_030");
-MsgDisp("Shirahane","There's a rumor at Hanegaku that there's a
+MsgDisp("Shirahane","There's a rumour at Hanegaku that there's a
 \"Brain Candy\" that can make you smarter.");
 MsgDisp("主人公","Brain Candy?
 That's really interesting!");
@@ -48,7 +48,7 @@ MsgDisp("Shirahane","∈
 You can get it somehow?");
 MsgDisp("主人公","Hmm.
 It seems to be rare.
-But this is just a rumor, so...");
+But this is just a rumour, so...");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,4,1);

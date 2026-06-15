@@ -64,7 +64,7 @@ ChEye(8,0);
 ChMouth(8,0);
 VoicePlay("D010800300_08_070");
 MsgDisp("Shirahane","Not really. I saw him somewhere the other day
-and recognized him, so I spoke to him for the
+and recognised him, so I spoke to him for the
 first time.");
 MsgDisp("主人公","I see.");
 ChEye(8,4);

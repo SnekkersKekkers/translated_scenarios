@@ -16,7 +16,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q110100000_01_020");
-MsgDisp("Kazama","They said there was a seasonal flavor.
+MsgDisp("Kazama","They said there was a seasonal flavour.
 So I stood in line for you.");
 MsgDisp("主人公","Eh, are you sure?
 Thanks!");

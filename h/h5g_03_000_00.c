@@ -26,7 +26,7 @@ ChMotion(3,4);
 VoicePlay("H6G0300000_03_020")
 MsgDisp("Honda","All this way?
 My feet just started coming here before I
-realized, though?");
+realised, though?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -42,6 +42,6 @@ VoicePlay("H6G0300000_03_040")
 MsgDisp("Honda","I'm looking forward to seeing our vice
 principal looking all satisfied too!");
 MsgDisp("主人公","(Hehe.
-I'm glad I practiced so hard for brass band!)");
+I'm glad I practised so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

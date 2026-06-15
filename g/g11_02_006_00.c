@@ -60,7 +60,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200600_02_050");
-MsgDisp("Sassa","I'm feeling energized, I'll run another lap
+MsgDisp("Sassa","I'm feeling energised, I'll run another lap
 with more energy!
 You go on ahead.");
 SEStop("EV_SE_FOOT_037",2);

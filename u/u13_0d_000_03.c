@@ -39,12 +39,12 @@ he's a really kind person.");
 changing.");
     VoicePlay("U130D00003_22_010");
     MsgDisp("Hikaru","Uh-huh, right now it's the biggest gossip in
-the modeling scene!");
+the modelling scene!");
     MsgDisp("主人公","Really?");
     StlEye(21,0);
     VoicePlay("U130D00003_21_030");
     MsgDisp("Michiru","I get a much different impression of him now
-than when he first started modeling.
+than when he first started modelling.
 Did Mari cause that?");
     StlEye(22,2);
     VoicePlay("U130D00003_22_020");

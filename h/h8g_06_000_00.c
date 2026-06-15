@@ -27,7 +27,7 @@ ChMotion(6,0,1);
 VoicePlay("H7G0600000_06_030");
 MsgDisp("Himuro","The model student of Haba High, huh...
 To be honest, I didn't expect you to be
-recognized as that.");
+recognised as that.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,0);
 ChMouth(6,4);

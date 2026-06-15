@@ -48,7 +48,7 @@ I still made a rookie mistake...)");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_370");
-    MsgDisp("Honda","Hey, did you finish organizing the shelves
+    MsgDisp("Honda","Hey, did you finish organising the shelves
 that I asked you to?");
     MsgDisp("主人公","...Ah, I'll do them now!");
     ChEye(3,4);
@@ -85,7 +85,7 @@ running in circles.");
 ChEye(3,0);
 ChMouth(3,3);
 VoicePlay("I260300000_03_420");
-MsgDisp("Honda","Well, I'm going to go organize the shelves!");
+MsgDisp("Honda","Well, I'm going to go organise the shelves!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

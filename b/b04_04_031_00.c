@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040403100_04_010");
     MsgDisp("Nanatsumori","Was it a yellowtail clown fish?
 Ah...not quite. It's a common clownfish.
-I like their coloring.");
+I like their colouring.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -32,7 +32,7 @@ I like their coloring.");
     ChMotion(4,3,1);
     VoicePlay("B040403100_04_020");
     MsgDisp("Nanatsumori","Yeah.
-That color is exquisite.
+That colour is exquisite.
 Really gets me fired up.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

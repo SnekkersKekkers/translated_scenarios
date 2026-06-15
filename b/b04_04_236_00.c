@@ -23,7 +23,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423600_04_010");
-    MsgDisp("Nanatsumori","Oh, it's colorful.
+    MsgDisp("Nanatsumori","Oh, it's colourful.
 It's just about the perfect moment for a
 photo.");
     MsgDispSksp(1,0);

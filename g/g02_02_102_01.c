@@ -14,7 +14,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210201_02_020");
-MsgDisp("Sassa","I realized I need to do the same.
+MsgDisp("Sassa","I realised I need to do the same.
 I need to make myself more noticeable to you.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);

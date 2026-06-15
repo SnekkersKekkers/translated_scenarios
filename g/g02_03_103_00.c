@@ -11,7 +11,7 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020310300_03_010");
-MsgDisp("Honda","I need to properly apologize for what
+MsgDisp("Honda","I need to properly apologise for what
 happened at the beach the other day!");
 MsgDisp("主人公","Eh?");
 ChEye(3,2);
@@ -30,7 +30,7 @@ never happened and hoping you'd forget about
 it, but that's just not like me.");
 ChMotion(3,0);
 VoicePlay("G020310300_03_040");
-MsgDisp("Honda","I wanted to properly apologize face-to-face,
+MsgDisp("Honda","I wanted to properly apologise face-to-face,
 and most importantly—");
 ChSet(3,2);
 VoicePlay("G020310300_03_050");

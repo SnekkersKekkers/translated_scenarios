@@ -9,16 +9,16 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("B110500002_35_000");
 MsgDisp("Guy?","Ehh?
 The girl I approached was a member of
-Habataki Theater Company～?");
+Habataki Theatre Company～?");
 VoicePlay("B110500002_35_010");
 MsgDisp("Guy?","That makes it easier, right?
-Theater is tough grunt work, so dangle a
+Theatre is tough grunt work, so dangle a
 debut and they'll sign right away!");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500002_35_020");
-MsgDisp("Guy","Wow, are you part of Habataki Theater Company
+MsgDisp("Guy","Wow, are you part of Habataki Theatre Company
 too?
 Why don't you stop that work and come to us?");
 MsgDisp("主人公","Ehh?");
@@ -48,7 +48,7 @@ MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("B110500002_05_010");
-MsgDisp("Hiiragi","I am the chairman of the Habataki Theater
+MsgDisp("Hiiragi","I am the chairman of the Habataki Theatre
 Company.
 I am Hiiragi Yanosuke.");
 MsgDispSksp(0);
@@ -97,7 +97,7 @@ MsgDisp("Hiiragi","Sigh...
 I'm sorry, that was my fault for being late.");
 MsgDisp("主人公","No, it's alright.
 But I ended up looking like a member of the
-Habataki Theater Company...");
+Habataki Theatre Company...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

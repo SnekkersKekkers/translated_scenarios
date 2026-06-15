@@ -8,7 +8,7 @@ MsgDisp("Hikaru","Beautiful sports▼");
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_110");
-MsgDisp("Hikaru","Rhythmic gymnastics, synchronized swimming,
+MsgDisp("Hikaru","Rhythmic gymnastics, synchronised swimming,
 figure skating.
 There are lots of other ones too.");
 MsgDisp("主人公","Hmm.

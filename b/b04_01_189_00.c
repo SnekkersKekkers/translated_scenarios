@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040118900_01_000");
-    MsgDisp("Kazama","Yeah, I wanna practice that neck movement
+    MsgDisp("Kazama","Yeah, I wanna practise that neck movement
 now.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

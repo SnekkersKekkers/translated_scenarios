@@ -6,7 +6,7 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040522101_05_000");
-MsgDisp("Hiiragi","The theater troupe has been allowed to do a
+MsgDisp("Hiiragi","The theatre troupe has been allowed to do a
 play with the castle as the stage setting.
 I'll always be grateful for that.");
 MsgSel("Habataki Flames Rising!","It's a very popular play.","Would you want to perform it here?");
@@ -31,7 +31,7 @@ it.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040522101_05_020");
-    MsgDisp("Hiiragi","I'd be happy if it were a favorite of yours.");
+    MsgDisp("Hiiragi","I'd be happy if it were a favourite of yours.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

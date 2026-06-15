@@ -27,7 +27,7 @@ just giving these away...huh.");
     ChCheek(6,5);
     VoicePlay("L040600004_06_030");
     MsgDisp("Himuro","Ah, is that so.
-Then I'll savor it.");
+Then I'll savour it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

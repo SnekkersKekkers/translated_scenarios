@@ -72,7 +72,7 @@ ChCheek(6,10);
 VoicePlay("F100620002_06_050");
 MsgDisp("Himuro","I just prefer instant.
 That doesn't mean I dislike the restaurant's
-flavor.");
+flavour.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);

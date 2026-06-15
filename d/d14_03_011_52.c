@@ -9,5 +9,5 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140301152_03_010");
 MsgDisp("Honda","It's just a simple Shoyu Ramen with a lot of
-toppings to give you a variety of flavors.
+toppings to give you a variety of flavours.
 There are no flaws!");

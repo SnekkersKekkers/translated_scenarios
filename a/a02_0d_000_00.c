@@ -90,7 +90,7 @@ ChMotion(22,0,1);
 VoicePlay("A020D00000_22_050");
 MsgDisp("Hikaru","You just haven't awakened yet.
 But your bud's already starting to show
-color. Right, sis?");
+colour. Right, sis?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,0);

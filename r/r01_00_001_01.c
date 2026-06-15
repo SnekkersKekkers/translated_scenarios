@@ -1,4 +1,4 @@
-MsgSel("Mini Christmas Wreath","Soothing Bath Salts","Compact Handy Notebook","Hot and Spicy Snacks","Herbal Throat Lozenges","Fluffy Face Towels","Colorful Cotton Gloves");
+MsgSel("Mini Christmas Wreath","Soothing Bath Salts","Compact Handy Notebook","Hot and Spicy Snacks","Herbal Throat Lozenges","Fluffy Face Towels","Colourful Cotton Gloves");
 switch (MsgSelRsltGet()){
     case 0:
     break ;

@@ -5,7 +5,7 @@ ChMotion(3,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040308501_03_000");
-MsgDisp("Honda","I've heard the rumors, but the winter
+MsgDisp("Honda","I've heard the rumours, but the winter
 scenery is worth having a look at too.");
 MsgSel("The fog is rising huh","It looks as if an immortal mountain wizard will appear.","Don't fall into the pond, okay?");
 switch (MsgSelRsltGet()){

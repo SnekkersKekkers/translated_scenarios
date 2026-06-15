@@ -20,7 +20,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("F020400012_04_010");
 MsgDisp("Nanatsumori","Yep.
-Because pink is a color with many different
+Because pink is a colour with many different
 shades.");
 ChEye(4,4);
 ChMouth(4,4);

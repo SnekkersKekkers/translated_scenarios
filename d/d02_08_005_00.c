@@ -31,7 +31,7 @@ ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800500_08_030");
-MsgDisp("Shirahane","You're an honor student too, right.
+MsgDisp("Shirahane","You're an honour student too, right.
 So you're goin' to university?");
 MsgDisp("主人公","University...
 I haven't really thought about it.");

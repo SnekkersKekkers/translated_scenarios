@@ -10,4 +10,4 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Morpho Butterfly Bag Charm\")");
-MsgDisp("主人公","(Woah, the blue color is so beautiful...)");
+MsgDisp("主人公","(Woah, the blue colour is so beautiful...)");

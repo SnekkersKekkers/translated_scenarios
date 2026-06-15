@@ -25,7 +25,7 @@ BGMPlay("BGM_C05_HIIRAGI_A");
 ChOpen(5,255,2,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("M010500000_05_030");
-MsgDisp("Hiiragi","I apologize, especially when you are unwell.
+MsgDisp("Hiiragi","I apologise, especially when you are unwell.
 To get so caught up in talking...");
 MsgDisp("主人公","No, it's okay.
 I'm more or less better now.");

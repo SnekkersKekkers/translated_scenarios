@@ -19,7 +19,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600010_06_010");
-MsgDisp("Himuro","If you're anxious, just practice more and put
+MsgDisp("Himuro","If you're anxious, just practise more and put
 in more effort.
 That's all you can do.");
 MsgDisp("主人公","Yes, but...

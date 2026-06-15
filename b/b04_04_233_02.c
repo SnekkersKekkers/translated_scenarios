@@ -9,7 +9,7 @@ ChMotion(4,2,1);
 VoicePlay("B040423302_04_000");
 MsgDisp("Nanatsumori","Ah—...
 My hair and clothes are a mess.");
-MsgSel("That disheveled look gets my heart racing...","I'm probably a mess too...","That's how amusement parks are!");
+MsgSel("That dishevelled look gets my heart racing...","I'm probably a mess too...","That's how amusement parks are!");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){

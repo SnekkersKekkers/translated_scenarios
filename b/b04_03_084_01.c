@@ -8,7 +8,7 @@ VoicePlay("B040308401_03_000");
 MsgDisp("Honda","Hey, look.
 The leaves from the broadleaf trees are
 falling into the pond.");
-MsgSel("The color-changing leaves are pretty!","I wonder if it'll dirty the pond water?","The firefly habitat is wonderful in the fall too");
+MsgSel("The colour-changing leaves are pretty!","I wonder if it'll dirty the pond water?","The firefly habitat is wonderful in the fall too");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0);
     VoicePlay("B040308401_03_010");
     MsgDisp("Honda","Yep yep, it's hard to tell if the autumn
-colors are reflected on the water or if
+colours are reflected on the water or if
 fallen leaves are actually floating.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

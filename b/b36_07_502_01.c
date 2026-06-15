@@ -27,7 +27,7 @@ ChMotion(7,3);
 VoicePlay("B360750201_07_020");
 MsgDisp("Mikage","Take him out and show him around.");
 MsgDisp("主人公","Yeah. ｛Hiiragi＊＊＊｝ has a lot going on with
-the student council and theater group.
+the student council and theatre group.
 He needs a break.");
 ChEye(7,0);
 ChMouth(7,0);

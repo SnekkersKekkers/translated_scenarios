@@ -66,7 +66,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("Q070700000_07_050");
-MsgDisp("Mikage","Yeah, they say it's 105 meters high.");
+MsgDisp("Mikage","Yeah, they say it's 105 metres high.");
 MsgDisp("主人公","｛Mikage＊＊｝, are you afraid of heights?");
 ChEye(7,2);
 ChMouth(7,0);

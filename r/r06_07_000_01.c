@@ -10,4 +10,4 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Safflower dyed scarf\")");
-MsgDisp("主人公","(It's a beautiful pink color...pretty.)");
+MsgDisp("主人公","(It's a beautiful pink colour...pretty.)");

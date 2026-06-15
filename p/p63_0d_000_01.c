@@ -17,7 +17,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P630D00001_22_000");
 MsgDisp("Hikaru","Look, sis.
-Isn't that a super lovely color?");
+Isn't that a super lovely colour?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

@@ -5,7 +5,7 @@ VoicePlay("I640000001_40_000");
 MsgDisp("Manager","Thank you for calling.
 This is Stallion Gasoline.");
 MsgDisp("主人公","It's ｛主人公苗字｝.
-I apologize, but I'd like to quit my
+I apologise, but I'd like to quit my
 part-time job...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

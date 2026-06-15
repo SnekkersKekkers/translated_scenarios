@@ -92,7 +92,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C30700_07_030");
-MsgDisp("Mikage","Now that we've come this far, let's color it
+MsgDisp("Mikage","Now that we've come this far, let's colour it
 and finish it off on our own.
 Today's sketching session ends here.");
 ChEye(6,0);

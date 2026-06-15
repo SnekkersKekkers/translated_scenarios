@@ -133,7 +133,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020220000_02_180");
-MsgDisp("Sassa","I realized that that was the real me.");
+MsgDisp("Sassa","I realised that that was the real me.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -151,7 +151,7 @@ SEPlay("EV_SE_544");
 ChOpen(2,254,7,4,0,#1,#1,0,0,0,120);
 VoicePlay("T020220000_02_200");
 MsgDisp("Sassa","It was the time we spent together that
-made me realize that.");
+made me realise that.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

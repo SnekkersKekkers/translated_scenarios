@@ -57,7 +57,7 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020300000_03_070");
-MsgDisp("Honda","That I realized that the fun I had talking
+MsgDisp("Honda","That I realised that the fun I had talking
 to you was completely different from the
 fun I had teaching children or my sister.");
 ChEye(3,3);

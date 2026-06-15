@@ -23,7 +23,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("D110D00000_21_000");
 MsgDisp("Michiru","Hehe.
-Is Mari gathering her \"favorite flowers\"?");
+Is Mari gathering her \"favourite flowers\"?");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -33,12 +33,12 @@ StlOpen("ev_0a_01");
 ScrFadeIn(0);
 VoicePlay("D110D00000_22_020");
 MsgDisp("Hikaru","We can see it, you know...3 differently
-colored, tres bien～ roses, all gathered
+coloured, tres bien～ roses, all gathered
 together in harmony.");
 VoicePlay("D110D00000_21_010");
 MsgDisp("Michiru","That's the feeling Mari has nurtured.
 I'm certain they will all cherish Mari.");
-MsgDisp("主人公","3 Roses of Different Colors...
+MsgDisp("主人公","3 Roses of Different Colours...
 My feelings...");
 MsgClose();
 ScrFadeOut(0);
@@ -69,7 +69,7 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("D110D00000_21_030");
 MsgDisp("Michiru","Of course, it's not really a bad thing to
-only care about one color.
+only care about one colour.
 But in a flower bed, balance is important.");
 ChEye(22,0);
 ChMouth(22,3);
@@ -78,7 +78,7 @@ VoicePlay("D110D00000_22_050");
 MsgDisp("Hikaru","If you're concerned about the state of the
 flower bed, call Hikaru♪
 Hikaru can tell you about \"Mari's Garden\"▼");
-MsgDisp("主人公","(A flower bed of 3 differently colored roses
+MsgDisp("主人公","(A flower bed of 3 differently coloured roses
 is inside me...? If I want to know more I can
 call ｛ひかる＊｝!)");
 BGMStop();

@@ -28,7 +28,7 @@ actually happen. That gets me excited.");
     ChMotion(5,0);
     VoicePlay("B040502202_05_020");
     MsgDisp("Hiiragi","I see...
-If the Habataki Theater Company performed on
+If the Habataki Theatre Company performed on
 a ship, I guess we could go there for work?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -59,11 +59,11 @@ a ship, I guess we could go there for work?");
 I've never been on a long boat trip before.");
         ChMotion(5,4);
         VoicePlay("B040502202_05_050");
-        MsgDisp("Hiiragi","Before coming to Habataki City, I traveled
+        MsgDisp("Hiiragi","Before coming to Habataki City, I travelled
 all over the country, but it wasn't on a sea
 voyage.");
         MsgDisp("主人公","I see.
-｛Hiiragi＊＊＊｝ is accustomed to traveling.");
+｛Hiiragi＊＊＊｝ is accustomed to travelling.");
         ChEye(5,0);
         ChMotion(5,0);
         VoicePlay("B040502202_05_060");

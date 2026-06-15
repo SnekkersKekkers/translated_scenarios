@@ -70,7 +70,7 @@ I'm sorry.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I160100003_01_070");
-    MsgDisp("Kazama","If you have time to apologize, I'll leave
+    MsgDisp("Kazama","If you have time to apologise, I'll leave
 making this display better to you.");
     MsgDisp("主人公","(Sigh, I still have a long way to go...
 Alright, let's be careful not to make the

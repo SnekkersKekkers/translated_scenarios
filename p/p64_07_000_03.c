@@ -19,7 +19,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P640700003_07_020");
 MsgDisp("Mikage","Herbs have affinities too, you know.
-Their efficacies are canceling out and
+Their efficacies are cancelling out and
 they're clashing.");
 MsgDisp("主人公","I-I'm sorry.");
 ChEye(7,2);

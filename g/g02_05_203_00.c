@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020520300_05_000");
 MsgDisp("Hiiragi","The fireflies here come in a variety of
-colors and glow in different ways, don't
+colours and glow in different ways, don't
 they?");
 MsgDisp("主人公","Yeah.
 It's fun to watch them.");
@@ -48,7 +48,7 @@ ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("G020520300_05_070");
 MsgDisp("Hiiragi","If we're talking about Mikage-sensei...
-something like his gray work outfit.");
+something like his grey work outfit.");
 MsgDisp("主人公","(Hm?
 Just now, did I hear something about a work
 outfit...?)");

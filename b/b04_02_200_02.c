@@ -69,7 +69,7 @@ I want to see it!");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040220002_02_060");
-        MsgDisp("Sassa","Then, before that, we have to practice using
+        MsgDisp("Sassa","Then, before that, we have to practise using
 the advanced course first.");
         MsgDisp("主人公","Hehe, alright.");
         ChClose(2);

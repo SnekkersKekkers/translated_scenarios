@@ -6,7 +6,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D150001501_01_000");
 MsgDisp("Kazama","Hey, Hiiragi, what does everyone at the
-Theater Company eat?");
+Theatre Company eat?");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,4);
@@ -14,7 +14,7 @@ ChEyeOpenLevel(5,8);
 VoicePlay("D150001501_05_000");
 MsgDisp("Hiiragi","Are you interested?
 You are always welcome to join.");
-MsgDisp("主人公","Ehh, ｛Kazama＊＊｝ and the Theater Company∋");
+MsgDisp("主人公","Ehh, ｛Kazama＊＊｝ and the Theatre Company∋");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

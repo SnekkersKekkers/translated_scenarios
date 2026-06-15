@@ -4,7 +4,7 @@ ChMotion(3,3);
 VoicePlay("D140301057_03_000");
 MsgDisp("Honda","Hey, did you see the menu description?
 This is a dish Haba High alum Hazuki Kei used
-to overcome his least favorite food.");
+to overcome his least favourite food.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);

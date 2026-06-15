@@ -5,7 +5,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B020402114_04_000");
-MsgDisp("Nanatsumori","That's an exquisite color.");
+MsgDisp("Nanatsumori","That's an exquisite colour.");
 MsgDisp("主人公","Does it suit me?");
 ChEye(4,0);
 ChMouth(4,3);

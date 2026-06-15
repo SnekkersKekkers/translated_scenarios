@@ -17,7 +17,7 @@ ChMotion(3,1,1);
 ChCheek(3,0);
 VoicePlay("T020320000_03_310");
 MsgDisp("Honda","I don't understand you at all.
-I've realized that now.
+I've realised that now.
 It's worth studying you!");
 MsgDisp("主人公","A-As for that...");
 ChEye(3,3);

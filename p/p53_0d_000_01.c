@@ -2,7 +2,7 @@ BGMStop();
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year's program is Game Music.
+MsgDisp("主人公","(This year's programme is Game Music.
 I have to be careful to to mess it up...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");

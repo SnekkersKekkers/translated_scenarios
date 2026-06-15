@@ -63,7 +63,7 @@ Well, it can't be helped then.
 I'll ask you out again.");
         MsgDisp("主人公","Sorry, okay?");
         VoicePlay("J060201000_02_070");
-        MsgDisp("Sassa","Don't apologize so much.
+        MsgDisp("Sassa","Don't apologise so much.
 Bye.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();

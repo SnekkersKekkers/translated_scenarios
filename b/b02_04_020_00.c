@@ -13,7 +13,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B020402000_04_010");
-MsgDisp("Nanatsumori","He's my senior at the modeling agency.
+MsgDisp("Nanatsumori","He's my senior at the modelling agency.
 But... seeing his face actually being worn
 like that hits even harder somehow.");
 ChEye(4,0);

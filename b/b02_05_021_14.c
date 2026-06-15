@@ -3,7 +3,7 @@ ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("B020502114_05_000");
 MsgDisp("Hiiragi","I see.
-The way that you use colors is very good.");
+The way that you use colours is very good.");
 MsgDisp("主人公","You mean this outfit?");
 ChMouth(5,4);
 ChMotion(5,4);

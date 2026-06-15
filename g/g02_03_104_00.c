@@ -10,7 +10,7 @@ ChMotion(3,0);
 VoicePlay("G020310400_03_010");
 MsgDisp("Honda","I just thought about it suddenly.
 You know, one reason fireflies light up is
-said to be part of their courtship behavior.");
+said to be part of their courtship behaviour.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);

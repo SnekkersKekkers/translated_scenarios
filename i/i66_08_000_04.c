@@ -13,7 +13,7 @@ switch (ChPrmGet(8,6)){
     MsgClose();
     ChOpen(8,35,0,3,3,#1,#1,0,0);
     VoicePlay("I660800004_08_000");
-    MsgDisp("Shirahane","We're all done refueling too.
+    MsgDisp("Shirahane","We're all done refuelling too.
 Now, the bill...");
     SEPlay("EV_SE_589",1);
     SEWait();
@@ -49,7 +49,7 @@ Let's keep doing our best!)");
     MsgClose();
     ChOpen(8,35,0,3,3,#1,#1,0,0);
     VoicePlay("I660800004_08_040");
-    MsgDisp("Shirahane","We're all done refueling too.
+    MsgDisp("Shirahane","We're all done refuelling too.
 Now, the bill...");
     SEPlay("EV_SE_589",1);
     SEWait();

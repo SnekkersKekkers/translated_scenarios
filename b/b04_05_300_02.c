@@ -63,7 +63,7 @@ cleaning.");
         ChEye(5,4);
         VoicePlay("B040530002_05_060");
         MsgDisp("Hiiragi","I'm not as tidy as you might think.");
-        MsgDisp("主人公","But, it's so nicely organized?");
+        MsgDisp("主人公","But, it's so nicely organised?");
         ChEye(5,3);
         ChMotion(5,4);
         VoicePlay("B040530002_05_070");
@@ -82,7 +82,7 @@ can't just tidy away...");
         VoicePlay("B040530002_05_090");
         MsgDisp("Hiiragi","The more you clean, the tidier it becomes.
 It feels really good.");
-        MsgDisp("主人公","Umm, are you talking about the theater
+        MsgDisp("主人公","Umm, are you talking about the theatre
 troupe?");
         ChEye(5,0);
         ChMotion(5,4);

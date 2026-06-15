@@ -93,7 +93,7 @@ here, but all the places we go to together.");
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040308102_03_090");
-        MsgDisp("Honda","...I've realized now.");
+        MsgDisp("Honda","...I've realised now.");
         MsgDisp("主人公","Huh?");
         ChEye(3,0);
         ChMouth(3,0);

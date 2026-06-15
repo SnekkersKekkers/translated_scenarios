@@ -44,6 +44,6 @@ VoicePlay("H6G0600000_06_050");
 MsgDisp("Himuro","I want to hear a performance too.
 Next time, play a solo concert for me.");
 MsgDisp("主人公","(Hehe.
-I'm glad I practiced so hard for brass band!)");
+I'm glad I practised so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

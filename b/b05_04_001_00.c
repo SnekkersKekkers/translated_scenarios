@@ -146,7 +146,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("B050400100_04_120");
 MsgDisp("Nanatsumori","｛主人公｝, sorry.");
-MsgDisp("主人公","Why are you apologizing?");
+MsgDisp("主人公","Why are you apologising?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

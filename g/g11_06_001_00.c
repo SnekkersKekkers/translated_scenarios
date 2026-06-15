@@ -1,7 +1,7 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(｛Himuro＊＊｝ wasn't there.
-I wanted to apologize for the three-legged
+I wanted to apologise for the three-legged
 race...)");
 MsgDisp("主人公","(Ah, maybe...)");
 MsgClose();
@@ -18,7 +18,7 @@ ScrFadeIn(0);
 VoicePlay("G110600100_06_000");
 MsgDisp("Himuro","...So, what?
 Why did you come all the way here?");
-MsgDisp("主人公","Ah...I wanted to apologize for something
+MsgDisp("主人公","Ah...I wanted to apologise for something
 that happened at the sports festival. I'm
 sorry. That we came last in the three
 legged race.");

@@ -6,7 +6,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040122202_01_000");
-MsgDisp("Kazama","The exhibit artifacts are important, but
+MsgDisp("Kazama","The exhibit artefacts are important, but
 there's a history behind each scratch on the
 pillars and floors.");
 MsgSel("The castle itself was rebuilt, right?","Were they cut with swords during a battle?","How cruel...there's graffiti too.");
@@ -54,7 +54,7 @@ carpentry tools left behind.");
         ChEyeOpenLevel(1,9);
         VoicePlay("B040122202_01_040");
         MsgDisp("Kazama","Hey, that writing that says \"XX was here!\"
-might also become a precious artifact in 100
+might also become a precious artefact in 100
 years.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);

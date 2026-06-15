@@ -8,7 +8,7 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("R060100004_01_000");
-    MsgDisp("Kazama","This is my favorite, not bad.
+    MsgDisp("Kazama","This is my favourite, not bad.
 Thank you.");
     MsgDisp("主人公","(Yay!
 He's perfectly happy with my gift.)");

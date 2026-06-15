@@ -15,12 +15,12 @@ to look after my plants. After that
 I'm free. Why do you want to know?\"");
 MsgClear();
 MsgDisp("","While serving as chairman of Habataki
-Theater Company, Yanosuke is also a
+Theatre Company, Yanosuke is also a
 member of the student council.");
 MsgDisp("","He's a scholarship student, admitted
 on the recommendation of Habataki
 Academy's school director to support
-the activities of the citizen theater
+the activities of the citizen theatre
 troupe.");
 MsgClear();
 VoicePlay("Y300700400_05_010");
@@ -55,7 +55,7 @@ MsgDisp("Mikage","\"Oh, so you two decided this
 together?
 That's nice.\"");
 MsgClear();
-MsgDisp("","A theater troupe chairman scholarship
+MsgDisp("","A theatre troupe chairman scholarship
 student. The other, the nephew of a
 well-known teacher of the school.");
 MsgDisp("","They're different kinds of people,

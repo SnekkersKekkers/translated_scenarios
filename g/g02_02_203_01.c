@@ -17,8 +17,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020220301_02_020");
-MsgDisp("Sassa","When they said that, I realized I've been
-buying the same thing in different colors.");
+MsgDisp("Sassa","When they said that, I realised I've been
+buying the same thing in different colours.");
 MsgDisp("主人公","It's kind of funny to think of ｛Sassa＊＊｝
 stressing about fashion...");
 ChEye(2,0);
@@ -78,7 +78,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220301_02_100");
 MsgDisp("Sassa","Okay, I'll stick to my usual, just in
-different colors.");
+different colours.");
 MsgDisp("主人公","(Huh?
 I think I might have given him the wrong
 impression...)");

@@ -36,7 +36,7 @@ I felt like I was being forced to laugh.");
     ChMotion(3,2);
     VoicePlay("B040318800_03_020");
     MsgDisp("Honda","Huh?
-I wonder if my sense of humor is off...");
+I wonder if my sense of humour is off...");
     MsgDateResultDisp();
     break ;
     default :

@@ -5,7 +5,7 @@ ChMotion(3,4,1);
 ScrFadeIn(0);
 VoicePlay("B030308003_03_000");
 MsgDisp("Honda","This is the only time you can see the
-colorful trees reflected in the water.
+colourful trees reflected in the water.
 Let's take a good look!");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Right!");

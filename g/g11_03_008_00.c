@@ -1,7 +1,7 @@
 BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This an expanded color version of the insect
+MsgDisp("主人公","(This an expanded colour version of the insect
 encyclopedia huh...
 What a splendid book...)");
 MsgClose();

@@ -21,7 +21,7 @@ Sorry you came all this way.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("H4A0200001_02_010");
-    MsgDisp("Sassa","Why are you apologizing?
+    MsgDisp("Sassa","Why are you apologising?
 All you have to do is receive your results.
 No one else matters.");
     ChEye(2,0);

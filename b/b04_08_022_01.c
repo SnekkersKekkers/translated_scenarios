@@ -32,7 +32,7 @@ I wonder.");
     VoicePlay("B040802201_08_020");
     MsgDisp("Shirahane","Hehe!
 Is it cause we've both been on our best
-behavior?");
+behaviour?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

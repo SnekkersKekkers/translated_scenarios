@@ -6,7 +6,7 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("Q040500002_05_000");
-    MsgDisp("Hiiragi","I apologize, however I already promised to go
+    MsgDisp("Hiiragi","I apologise, however I already promised to go
 with somebody else.");
     MsgDisp("主人公","I see...that can't be helped.");
     ChMotion(5,0);

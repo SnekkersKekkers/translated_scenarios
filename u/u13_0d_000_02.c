@@ -74,7 +74,7 @@ It's a bittersweet feeling for him.");
     StlMouth(21,0);
     StlNear(0,0,15);
     VoicePlay("U130D00002_21_040");
-    MsgDisp("Michiru","He's realizing his new feelings for Mari.");
+    MsgDisp("Michiru","He's realising his new feelings for Mari.");
     StlEye(22,2);
     StlMouth(22,0);
     VoicePlay("U130D00002_22_040");

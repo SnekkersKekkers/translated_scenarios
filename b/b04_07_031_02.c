@@ -52,14 +52,14 @@ I'm sorry.");
         ChMouth(7,0);
         ChMotion(7,1);
         VoicePlay("B040703102_07_040");
-        MsgDisp("Mikage","Don't apologize so much for nothing.
+        MsgDisp("Mikage","Don't apologise so much for nothing.
 It's a waste.");
         MsgDisp("主人公","Huh?");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,2);
         VoicePlay("B040703102_07_050");
-        MsgDisp("Mikage","I'm also constantly apologizing to
+        MsgDisp("Mikage","I'm also constantly apologising to
 Vice Principal Himuro, after all.");
         MsgDisp("主人公","Hehe.");
         ChEye(7,0);
@@ -67,8 +67,8 @@ Vice Principal Himuro, after all.");
         ChMotion(7,0);
         VoicePlay("B040703102_07_060");
         MsgDisp("Mikage","That's right. You should laugh.
-You shouldn't apologize so excessively. Only
-apologize when it's absolutely necessary.");
+You shouldn't apologise so excessively. Only
+apologise when it's absolutely necessary.");
         MsgDisp("主人公","Yes.");
         ChEye(7,0);
         ChMouth(7,0);

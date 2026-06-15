@@ -9,7 +9,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020710200_07_010");
-MsgDisp("Mikage","The synchronization of these fireflies'
+MsgDisp("Mikage","The synchronisation of these fireflies'
 blinking cycles is actually studied using
 mathematical approaches.");
 MsgDisp("主人公","Eh...mathematics?");

@@ -21,7 +21,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("G020320301_03_030");
-MsgDisp("Honda","I mentioned how we talked about eel behavior
+MsgDisp("Honda","I mentioned how we talked about eel behaviour
 and sardine schooling after visiting the
 aquarium—ah.");
 ChEye(3,2);

@@ -77,7 +77,7 @@ insects...");
     VoicePlay("S070300000_03_080");
     MsgDisp("Honda","Ah, you're right.
 Okay, I'll combine it all and wish for the
-health of my favorite things.");
+health of my favourite things.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);

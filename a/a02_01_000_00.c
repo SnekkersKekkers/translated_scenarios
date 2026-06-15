@@ -273,7 +273,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("A020100000_44_000");
-MsgDisp("Girl B","So the rumors were true～∈
+MsgDisp("Girl B","So the rumours were true～∈
 What should we do if we end up in his
 class～∋");
 ChEye(1,4);

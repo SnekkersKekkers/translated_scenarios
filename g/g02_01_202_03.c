@@ -31,7 +31,7 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120203_01_040");
-MsgDisp("Kazama","He's always with you before I even realize
+MsgDisp("Kazama","He's always with you before I even realise
 it, you know...");
 ChEye(1,0);
 ChMouth(1,0);

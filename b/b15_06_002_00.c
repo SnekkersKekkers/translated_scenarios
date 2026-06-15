@@ -23,7 +23,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600200_06_030");
-MsgDisp("Himuro","That's why I don't want you to apologize.
+MsgDisp("Himuro","That's why I don't want you to apologise.
 Can you have more self control?");
 ChEye(6,0);
 ChMouth(6,0);

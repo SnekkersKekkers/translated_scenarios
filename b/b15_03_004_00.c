@@ -16,7 +16,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B150300400_03_020");
-MsgDisp("Honda","If your house was just 100 meters further,
+MsgDisp("Honda","If your house was just 100 metres further,
 something might have happened before we got
 there.");
 MsgDisp("主人公","Huh∋

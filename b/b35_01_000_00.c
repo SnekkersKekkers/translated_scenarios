@@ -57,7 +57,7 @@ Let's go?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B350100000_01_070");
-    MsgDisp("Kazama","Don't apologize. I only came to pick up
+    MsgDisp("Kazama","Don't apologise. I only came to pick up
 something I forgot. You should be careful on
 your way home as well.");
     MsgClose();

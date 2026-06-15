@@ -28,7 +28,7 @@ y'know?");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("I660800007_08_020");
-    MsgDisp("Shirahane","Rumor has it that our stand has a cute
+    MsgDisp("Shirahane","Rumour has it that our stand has a cute
 attendant. Th' increase in customers has our
 manager happy, too.");
     MsgDisp("主人公","That's...");
@@ -40,7 +40,7 @@ manager happy, too.");
     MsgDisp("Shirahane","Haha!
 Keep up the good work.");
     MsgDisp("主人公","(It's a little embarrassing, but I'm happy to
-see that my hard work is being recognized.)");
+see that my hard work is being recognised.)");
     break ;
     case 4:
     case 5:
@@ -94,7 +94,7 @@ Get it together, me!");
 part-time here thanks t' ya.
 I got it...");
     MsgDisp("主人公","(It's a little embarrassing, but I'm happy to
-see that my hard work is being recognized.)");
+see that my hard work is being recognised.)");
     break ;
     default :
     DbgAssert(1);

@@ -19,7 +19,7 @@ ChMotion(1,0);
 VoicePlay("Q110A00000_01_000");
 MsgDisp("Kazama","I've never seen a high school student buying
 souvenirs during a school trip for their
-neighbors before.");
+neighbours before.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);

@@ -37,7 +37,7 @@ A bientot～♪");
     ChMouth(22,2);
     ChMotion(22,0,1);
     VoicePlay("U032200000_22_040");
-    MsgDisp("Hikaru","Oh, did you already have a favorite?
+    MsgDisp("Hikaru","Oh, did you already have a favourite?
 Too bad.");
     ChEye(22,0);
     ChMouth(22,3);

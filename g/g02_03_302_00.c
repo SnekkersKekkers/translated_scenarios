@@ -37,7 +37,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020330200_03_050");
-MsgDisp("Honda","He signaled me with his eyes for help, so I
+MsgDisp("Honda","He signalled me with his eyes for help, so I
 thought there was no topic and brought up the
 Ground Beetle.");
 MsgDisp("主人公","Ground beetle...

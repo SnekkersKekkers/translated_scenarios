@@ -9,7 +9,7 @@ VoicePlay("B040410200_04_000");
 MsgDisp("Nanatsumori","So cool—.
 I'd like to try riding one of these guys one
 day.");
-MsgSel("Is it a boy's dream?","How about getting a license?","Aren't you going to take a photo?");
+MsgSel("Is it a boy's dream?","How about getting a licence?","Aren't you going to take a photo?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

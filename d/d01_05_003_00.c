@@ -22,13 +22,13 @@ BGOpen("wf000",1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D010500300_05_000");
-MsgDisp("Hiiragi?","Why on Earth would you be leaving the theater
+MsgDisp("Hiiragi?","Why on Earth would you be leaving the theatre
 company?");
 MsgDisp("主人公","(Eh, that voice...)");
 VoicePlay("D010500300_33_020");
 MsgDisp("Troupe A","We're not cut out to be actors.");
 VoicePlay("D010500300_46_000");
-MsgDisp("Troupe B","No matter how much we practice, we aren't
+MsgDisp("Troupe B","No matter how much we practise, we aren't
 good enough to satisfy the chairman.
 We're not enjoying ourselves.");
 VoicePlay("D010500300_05_010");
@@ -94,7 +94,7 @@ MsgDisp("Hiiragi","...I didn't want you to see me like this.");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500300_05_080");
 MsgDisp("Hiiragi","...Just a year ago those two smiled and told
-me how much they love the theater.");
+me how much they love the theatre.");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("D010500300_05_090");
 MsgDisp("Hiiragi","And yet, being with me made them give up on
@@ -105,7 +105,7 @@ StlEye(5,0);
 VoicePlay("D010500300_05_100");
 MsgDisp("Hiiragi","I'm really the worst.
 I was destroying their dreams without even
-realizing it.");
+realising it.");
 StlEyeOpenLevel(5,0);
 StlMouth(5,0);
 VoicePlay("D010500300_05_110");
@@ -119,7 +119,7 @@ MsgDisp("Hiiragi","...Sigh, my apologies...
 Am I that way to you too?");
 MsgDisp("主人公","Of course not. ｛Hiiragi＊＊＊｝ is always working
 hard for everyone's sake, the Student Council
-and the Theater Company.");
+and the Theatre Company.");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500300_05_130");
 MsgDisp("Hiiragi","For everyone's sake...

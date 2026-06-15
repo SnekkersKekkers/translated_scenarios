@@ -31,7 +31,7 @@ StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("T040620000_06_010");
 MsgDisp("Himuro","As expected of Nozomu-senpai.
-It looks like we can move on to practicing
+It looks like we can move on to practising
 in the ocean now.");
 StlEye(6,0);
 StlMouth(6,0);

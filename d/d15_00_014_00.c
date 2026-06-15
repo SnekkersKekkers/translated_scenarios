@@ -49,7 +49,7 @@ ChMotion(1,3);
 VoicePlay("D150001400_01_020");
 MsgDisp("Kazama","OK.
 Nanatsumori will deal with the presentation.
-I'll leave the flavors to you.");
+I'll leave the flavours to you.");
 MsgDisp("主人公","Huh, me?");
 ChEye(4,3);
 ChMouth(4,3);

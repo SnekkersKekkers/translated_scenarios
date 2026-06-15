@@ -60,7 +60,7 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600701_06_060");
-MsgDisp("Himuro","The organizer of the event.
+MsgDisp("Himuro","The organiser of the event.
 He's also the store chairman.");
 ChEye(6,1);
 ChMouth(6,1);

@@ -76,7 +76,7 @@ so I'm on the roads now.");
     VoicePlay("I650200000_02_070");
     MsgDisp("Sassa","Then, I heard your \"alright, alright!\" and
 found myself making a pit stop.");
-    MsgDisp("主人公","Hehe, do you need to be refueled,
+    MsgDisp("主人公","Hehe, do you need to be refuelled,
 ｛Sassa＊＊｝?");
     ChEye(2,0);
     ChMouth(2,4);

@@ -25,11 +25,11 @@ festival performance.");
     ChEyeOpenLevel(2,0);
     VoicePlay("P530200002_02_010");
     MsgDisp("Sassa","Your song today is good.
-I often heard you practicing.");
+I often heard you practising.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
     MsgDisp("主人公","Yeah, I also like it.
-Maybe that's why I gave it my best practicing
+Maybe that's why I gave it my best practising
 it.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -69,7 +69,7 @@ play... It's somewhat lonely.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("P530200002_02_050");
-    MsgDisp("Sassa","You've practiced this song often after
+    MsgDisp("Sassa","You've practised this song often after
 school, right?");
     MsgDisp("主人公","Eh...maybe you heard it all the way from the
 ground?");

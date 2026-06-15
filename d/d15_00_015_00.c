@@ -18,7 +18,7 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("D150001500_05_010");
-MsgDisp("Hiiragi","Such color, shine and fragrance.
+MsgDisp("Hiiragi","Such colour, shine and fragrance.
 It fills me with happiness even before I eat
 it.");
 ChEye(1,0);

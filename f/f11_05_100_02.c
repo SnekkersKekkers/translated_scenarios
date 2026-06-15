@@ -25,7 +25,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F110510002_05_020");
-MsgDisp("Hiiragi","For a classic sauce flavor, there's the
+MsgDisp("Hiiragi","For a classic sauce flavour, there's the
 baseball club's traditional Habataki High
 Sauce yakisoba.");
 VoicePlay("F110510002_47_000");

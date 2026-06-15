@@ -47,7 +47,7 @@ Thank goodness.)");
     ChMotion(2,5);
     VoicePlay("L040200003_02_050");
     MsgDisp("Sassa","Oh, you thought about my preferences, too.");
-    MsgDisp("主人公","Yeah, you realized?");
+    MsgDisp("主人公","Yeah, you realised?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

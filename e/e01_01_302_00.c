@@ -95,7 +95,7 @@ ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("E010130200_04_030");
 MsgDisp("Nanatsumori","Saved!
-The program is divine this time.");
+The programme is divine this time.");
 MsgDisp("主人公","There you go.
 Don't drop it again, alright?");
 ChEye(4,0);

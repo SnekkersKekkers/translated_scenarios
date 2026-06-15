@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("F020400002_04_000");
 MsgDisp("Nanatsumori","Apparently, there's a legendary church on the
 Haba High campus.
-And a handful of rumors surrounding it.");
+And a handful of rumours surrounding it.");
 MsgDisp("主人公","Right.");
 ChEye(4,0);
 ChMouth(4,4);
@@ -42,7 +42,7 @@ ChMouth(4,3);
 VoicePlay("F020400002_04_050");
 MsgDisp("Nanatsumori","No-good guys become good girls!
 Ugly girls become handsome men! They call it
-the 'Double Extreme Remodeling Project'.");
+the 'Double Extreme Remodelling Project'.");
 MsgDisp("主人公","...Ha!
 That's not scary at all.");
 ChEye(4,4);

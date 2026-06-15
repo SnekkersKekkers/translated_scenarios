@@ -41,7 +41,7 @@ ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("D140B04001_01_040");
 MsgDisp("Kazama","It wasn't until the first time there was a
-situation like this that I realized how
+situation like this that I realised how
 grateful I was to have Honda around.");
 ChMotion(1,0);
 ChEye(4,0);

@@ -77,7 +77,7 @@ What's wrong?");
     ChMotion(5,0);
     VoicePlay("L040500005_05_080");
     MsgDisp("Hiiragi","Nothing, thank you.
-You allowed me to realize something, and gave
+You allowed me to realise something, and gave
 me chocolate as well.");
     ChEye(5,0);
     VoicePlay("L040500005_05_090");
@@ -86,7 +86,7 @@ me chocolate as well.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(...Something he realized?
+    MsgDisp("主人公","(...Something he realised?
 Did I put in something he doesn't like...?)");
     break ;
     default :

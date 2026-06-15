@@ -3,7 +3,7 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040108202_01_000");
-MsgDisp("Kazama","You've heard the rumors about this place,
+MsgDisp("Kazama","You've heard the rumours about this place,
 right?");
 MsgSel("That you can hear someone's inner voice?","That if you let it all out, you'll feel better?","Don't you want to see the glowing pink fireflies?");
 switch (MsgSelRsltGet()){

@@ -3,7 +3,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 VoicePlay("B020200009_02_000");
-MsgDisp("Sassa","I've seen people wearing that color a lot
+MsgDisp("Sassa","I've seen people wearing that colour a lot
 lately.");
 MsgDisp("主人公","That's because it's trendy.");
 ChEye(2,0);

@@ -21,7 +21,7 @@ MsgDisp("","Yep.
 Your smile is nice today too.");
 MsgDisp("","While being satisfied with the
 pleasant reception, I headed towards
-my favorite seat.");
+my favourite seat.");
 MsgClear();
 MsgDisp("","I started to pick up the menu placed
 on the small table of the teahouse,

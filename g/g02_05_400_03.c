@@ -7,7 +7,7 @@ MsgDisp("主人公","Your father?");
 ChMotion(5,4);
 VoicePlay("G020540003_05_010");
 MsgDisp("Hiiragi","Yes, the former chairman.
-He still talks about theater theory, though.");
+He still talks about theatre theory, though.");
 MsgDisp("主人公","Hehe, it sounds more like a conversation
 between the old and new chairmans than father
 and son.");

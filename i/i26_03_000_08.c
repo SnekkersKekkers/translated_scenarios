@@ -35,7 +35,7 @@ open.");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_910");
     MsgDisp("Honda","Yeah yeah, you.
-Didn't you realize?");
+Didn't you realise?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

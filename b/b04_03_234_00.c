@@ -22,7 +22,7 @@ I'll go on a separate cup to you.");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040323400_03_020");
-    MsgDisp("Honda","Yeah, thanks to you, I've realized that my
+    MsgDisp("Honda","Yeah, thanks to you, I've realised that my
 inner ear is sensitive.");
     MsgDateResultDisp();
     break ;

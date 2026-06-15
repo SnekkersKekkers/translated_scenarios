@@ -21,7 +21,7 @@ ChMotion(3,0,1);
 VoicePlay("P640300002_03_020");
 MsgDisp("Honda","...Hm?
 Look at the vegetables over there. Hey, the
-caterpillar-kun seems like it's savoring it.");
+caterpillar-kun seems like it's savouring it.");
 MsgDisp("主人公","Eh, a bug∋
 W-Where?");
 ChEye(3,3);

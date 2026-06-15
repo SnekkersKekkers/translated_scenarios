@@ -36,7 +36,7 @@ ChMouth(21,0);
 ChMotion(21,5);
 VoicePlay("F022100007_21_030");
 MsgDisp("Michiru","We're not.
-Since we still have modeling work to do.");
+Since we still have modelling work to do.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

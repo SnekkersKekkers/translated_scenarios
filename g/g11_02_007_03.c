@@ -60,7 +60,7 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200703_02_050");
-MsgDisp("Sassa","Hey, prioritize me, please.");
+MsgDisp("Sassa","Hey, prioritise me, please.");
 VoicePlay("G110200703_34_000");
 MsgDisp("Member","Hey, you two over there.
 How long are you going to be lovey dovey for?

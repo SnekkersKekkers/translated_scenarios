@@ -4,7 +4,7 @@ ChMotion(5,0,1);
 ScrFadeIn(0);
 VoicePlay("P640500002_05_000");
 MsgDisp("Hiiragi","These are splendid vegetables, yes.
-I'll enjoy it in a hotpot with the theater
+I'll enjoy it in a hotpot with the theatre
 troupe staff.");
 MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Thank you for your purchase.");

@@ -27,7 +27,7 @@ MsgDisp("Michiru","Um?
 MsgDisp("主人公","A manga?");
 VoicePlay("F102110002_21_030");
 MsgDisp("Michiru","Right.
-It's a love story currently being serialized.");
+It's a love story currently being serialised.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
@@ -47,7 +47,7 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102110002_21_060");
-MsgDisp("Michiru","I really empathized with the heroine's
+MsgDisp("Michiru","I really empathised with the heroine's
 confused feelings.");
 ChEye(21,2);
 ChMouth(21,4);
@@ -61,7 +61,7 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102110002_21_080");
 MsgDisp("Michiru","Hikaru doesn't like this kind of thing, so
-she doesn't sympathize with me at all...
+she doesn't sympathise with me at all...
 I can't even bring it up with her.");
 ChEye(21,0);
 ChMouth(21,4);

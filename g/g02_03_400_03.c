@@ -14,7 +14,7 @@ ChMotion(3,1);
 VoicePlay("G020340003_03_010");
 MsgDisp("Honda","Right, right!
 The base is a chicken broth, and then I
-adjust the flavor with soy sauce or miso.");
+adjust the flavour with soy sauce or miso.");
 ChMotion(3,4);
 VoicePlay("G020340003_03_020");
 MsgDisp("Honda","When I want something lighter, I mix in
@@ -25,7 +25,7 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020340003_03_030");
 MsgDisp("Honda","Even when combining ingredients, the
-flavor changes drastically based on the
+flavour changes drastically based on the
 ratio, so I went through a lot of trial
 and error and collected a ton of data.");
 MsgDisp("主人公","It's like you're a professional ramen chef!");

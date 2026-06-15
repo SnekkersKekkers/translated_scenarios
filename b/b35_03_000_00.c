@@ -52,7 +52,7 @@ Well, it can't be helped then.");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("B350300000_03_060");
-    MsgDisp("Honda","Don't apologize!
+    MsgDisp("Honda","Don't apologise!
 The idea was pretty sudden after all.");
     ChEye(3,3);
     ChMouth(3,3);

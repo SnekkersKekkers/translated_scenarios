@@ -49,7 +49,7 @@ unconventional worldview.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("L040500006_05_050");
-    MsgDisp("Hiiragi","I apologize.
+    MsgDisp("Hiiragi","I apologise.
 I need a little more time to properly face
 this chocolate.");
     MsgClose();

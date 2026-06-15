@@ -32,7 +32,7 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("T020400000_04_030");
 MsgDisp("Nanatsumori","If I can really believe in the legendary
-rumor.");
+rumour.");
 MsgDisp("主人公","Eh...");
 ChEye(4,4);
 ChMouth(4,4);
@@ -50,7 +50,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("T020400000_04_060");
 MsgDisp("Nanatsumori","Haha.
-I guess you just realized?");
+I guess you just realised?");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2);

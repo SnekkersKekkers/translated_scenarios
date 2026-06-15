@@ -28,7 +28,7 @@ VoicePlay("P540D00001_22_010");
 MsgDisp("Hikaru","Sorry, sorry!
 Well, don't let it dishearten you, okay?");
 MsgDisp("主人公","(Sigh...
-It would be good if I practiced more...)");
+It would be good if I practised more...)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

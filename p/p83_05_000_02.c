@@ -13,7 +13,7 @@ every five minutes.");
     VoicePlay("P830500002_40_000");
     MsgDisp("School Boy","Ah, yes!");
     MsgDisp("主人公","Let's discuss the issue of the class that was
-quarreling over the noise with a small group
+quarrelling over the noise with a small group
 after this.");
     VoicePlay("P830500002_48_000");
     MsgDisp("School Girl","Yes please!");

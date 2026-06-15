@@ -64,7 +64,7 @@ ChMouth(5,1);
 ChMotion(5,2);
 VoicePlay("G110500100_05_030");
 MsgDisp("Hiiragi","I'm not good with computers, and after school
-I still have to do work with the theater
+I still have to do work with the theatre
 company too, right?");
 MsgDisp("主人公","I see.
 ｛Hiiragi＊＊＊｝, don't push yourself too hard,

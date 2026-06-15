@@ -191,7 +191,7 @@ Thank you.");
 hiatus for a while.
 Let's both do our best at studying, yeah?");
     MsgDisp("主人公","(This is a surprise but... I want to support
-Kuya-san in his goals! I need to prioritize
+Kuya-san in his goals! I need to prioritise
 my \"studies\" over interviews.)");
     break ;
     case 1:

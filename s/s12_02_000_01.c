@@ -24,7 +24,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("S120200001_02_010");
     MsgDisp("Sassa","No problem.
 I think I'll jog home.");
-    MsgDisp("主人公","Practicing on New Years, too?");
+    MsgDisp("主人公","Practising on New Years, too?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

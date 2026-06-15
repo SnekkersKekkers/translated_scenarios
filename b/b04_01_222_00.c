@@ -6,7 +6,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040122200_01_000");
-MsgDisp("Kazama","Some of the artifacts here were donated by my
+MsgDisp("Kazama","Some of the artefacts here were donated by my
 Grandpa.");
 MsgSel("You can feel the weight of history.","Is that sword real?","The history of the Kazama family is the history of Habataki City.");
 switch (MsgSelRsltGet()){

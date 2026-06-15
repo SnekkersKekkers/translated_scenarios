@@ -13,7 +13,7 @@ MsgDisp("Himuro","It's normal.
 It's more concerning to be indifferent about
 what's going on in the world.");
 MsgDisp("主人公","I see...
-Do you watch programs related to the ocean?");
+Do you watch programmes related to the ocean?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

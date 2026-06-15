@@ -83,11 +83,11 @@ a \"yearly date rotation\" together.");
         ChMouth(2,2);
         ChMotion(2,0);
         VoicePlay("B040222102_02_080");
-        MsgDisp("Sassa","A combination and order that fulfills both
+        MsgDisp("Sassa","A combination and order that fulfils both
 efficiency and satisfaction...");
         MsgDisp("主人公","(Ummm...
 ｛Sassa＊＊｝, this is beginning to look like a
-training program.)");
+training programme.)");
         break ;
         default :
         DbgAssert(1);

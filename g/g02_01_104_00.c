@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 VoicePlay("G020110400_01_000");
 MsgDisp("Kazama","Hey, have fireflies always come in such a
-wide range of colors?");
+wide range of colours?");
 MsgDisp("主人公","Yeah, it looks like they're all slightly
 different.");
 ChEye(1,0);
@@ -23,15 +23,15 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110400_01_030");
-MsgDisp("Kazama","I like natural colors.
-You don't need any gaudy colors.");
+MsgDisp("Kazama","I like natural colours.
+You don't need any gaudy colours.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110400_01_040");
 MsgDisp("Kazama","So, actually, white clothes.
-Since your own colors are enough. Yeah,
-something colorless and transparent's fine...");
+Since your own colours are enough. Yeah,
+something colourless and transparent's fine...");
 MsgDisp("主人公","I can't go around wearing transparent clothes
 though...");
 ChEye(1,3);
@@ -56,7 +56,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110400_01_070");
 MsgDisp("Kazama","Listen, I'll put it another way.
-I mean that natural colors and designs that
+I mean that natural colours and designs that
 don't get in your way are what I like.");
 ChEye(1,2);
 ChMouth(1,2);

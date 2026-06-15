@@ -22,7 +22,7 @@ MsgDisp("Hiiragi","Yeah.
 The sky and castle are dyed red...
 It's like \"Habataki Castle Ablaze\".");
 MsgDisp("主人公","Eh?
-Is that a performance by the Habataki Theater
+Is that a performance by the Habataki Theatre
 Company?");
 ChEye(5,4);
 ChMotion(5,0);

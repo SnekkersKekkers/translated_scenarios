@@ -39,7 +39,7 @@ My apologies.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040502302_05_040");
-        MsgDisp("Hiiragi","No need to apologize.
+        MsgDisp("Hiiragi","No need to apologise.
 They are your impressions after all.
 Just don't be too certain.");
         ChEye(5,0);

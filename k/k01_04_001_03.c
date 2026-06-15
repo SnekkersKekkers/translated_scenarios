@@ -12,7 +12,7 @@ ChMotion(4,1,1);
 VoicePlay("K010400103_04_010");
 MsgDisp("Nanatsumori","Nah, it's nothing.
 I can see it in your face.
-You meant no offense. So, I'll forgive you.");
+You meant no offence. So, I'll forgive you.");
 MsgDisp("主人公","(Ugh...
 I don't think he liked it.)");
 BGMStop();

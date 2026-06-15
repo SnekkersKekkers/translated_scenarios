@@ -23,7 +23,7 @@ am anxious.)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P230600000_06_010");
-    MsgDisp("Himuro","You've practiced a lot, haven't you?
+    MsgDisp("Himuro","You've practised a lot, haven't you?
 So, you'll be fine if you do it just as you
 always have.");
     MsgDisp("主人公","Yeah, that's right...");

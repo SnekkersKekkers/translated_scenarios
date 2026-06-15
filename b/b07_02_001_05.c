@@ -4,7 +4,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200001_02_260");
-MsgDisp("Sassa","Before we even realized it, there were four
+MsgDisp("Sassa","Before we even realised it, there were four
 of us.");
 MsgDisp("主人公","Yeah.
 But sometimes I wonder if it's okay for me to

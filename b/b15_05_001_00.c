@@ -5,7 +5,7 @@ ChOpen(5,255,1,4,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150500100_05_000");
 MsgDisp("Hiiragi","That's unfair.
-I've been treated like the cat at the theater
+I've been treated like the cat at the theatre
 troupe again.");
 MsgDisp("主人公","Ah, did you dislike it?");
 ChEye(5,0);

@@ -80,13 +80,13 @@ Distracted?");
     ChMotion(5,4);
     VoicePlay("S120500001_05_090");
     MsgDisp("Hiiragi","When I put my hands together, instead of
-praying for the success of the theater, I
+praying for the success of the theatre, I
 started thinking about you.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("S120500001_05_100");
     MsgDisp("Hiiragi","Well, I guess it's good for both you and the
-theater to be well.
+theatre to be well.
 So there's no problem right?");
     MsgDisp("主人公","Uhm...yeah.");
     ChEye(5,4);

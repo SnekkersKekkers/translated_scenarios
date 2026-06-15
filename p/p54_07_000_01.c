@@ -34,7 +34,7 @@ MsgDisp("Mikage","Then, come and talk to everyone properly.");
 MsgDisp("主人公","Yes.
 ｛Mikage＊＊｝, thank you very much.");
 MsgDisp("主人公","(｛Mikage＊＊｝ had to cheer me up...
-If only I had practiced more...)");
+If only I had practised more...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

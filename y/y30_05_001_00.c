@@ -78,7 +78,7 @@ MsgDisp("Hiiragi","\"Of course.
 Someday I want to be on the advanced
 course, so I would like to go.\"");
 MsgDisp("主人公","\"Yes, me too.
-Let's practice together.\"");
+Let's practise together.\"");
 MsgClear();
 VoicePlay("Y300500100_05_060");
 MsgDisp("Hiiragi","\"Then, let's pray.\"");

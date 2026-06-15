@@ -94,7 +94,7 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F100130001_21_020");
 MsgDisp("Michiru","Hehe.
-That's right, so you can't monopolize her.");
+That's right, so you can't monopolise her.");
 ChEye(22,3);
 ChEye(1,2);
 ChMouth(1,2);

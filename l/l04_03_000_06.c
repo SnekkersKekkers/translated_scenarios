@@ -88,7 +88,7 @@ I've always wanted to try.");
     ChMouth(3,0);
     ChMotion(3,5);
     VoicePlay("L040300006_03_110");
-    MsgDisp("Honda","Da, don't apologize!
+    MsgDisp("Honda","Da, don't apologise!
 I'm happy enough from your feelings.");
     ChEye(3,4);
     ChMouth(3,0);

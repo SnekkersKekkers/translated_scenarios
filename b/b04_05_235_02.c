@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040523501_05_000");
 MsgDisp("Hiiragi","I'd love to produce something like this.");
-MsgSel("It seems like it'll be a wonderful haunted house.","A Haunted House by Habataki Theater Company?","If it's ｛Hiiragi＊＊＊｝, the ghost would be too pretty.");
+MsgSel("It seems like it'll be a wonderful haunted house.","A Haunted House by Habataki Theatre Company?","If it's ｛Hiiragi＊＊＊｝, the ghost would be too pretty.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -14,7 +14,7 @@ MsgDisp("Shirahane","There's a legend 'bout love comin' true at
 Haba High too. A story 'bout a church, a
 prince, and a princess.");
 MsgDisp("主人公","Yeah.
-There are all sorts of rumors, but that one
+There are all sorts of rumours, but that one
 is one of the more well-known ones.");
 ChEye(8,0);
 ChMouth(8,0);
@@ -39,6 +39,6 @@ ChEyeOpenLevel(8,0);
 VoicePlay("F020800001_08_030");
 MsgDisp("Shirahane","It's more likely to be true if we heard it
 from lotsa people, right?");
-MsgDisp("主人公","(There are all kinds of rumors about love at
+MsgDisp("主人公","(There are all kinds of rumours about love at
 school...
 They're all wonderful.)");

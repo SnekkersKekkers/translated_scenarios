@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Hey, did you know?
-The campus church is surrounded by rumors.");
+The campus church is surrounded by rumours.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);

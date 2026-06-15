@@ -38,7 +38,7 @@ Don't worry, practice never fails.");
     MsgDisp("主人公","...Yeah!");
     MsgDisp("主人公","(｛Sassa＊＊｝ said it, so it can't be wrong,
 huh?
-I'll use everything I practiced!)");
+I'll use everything I practised!)");
     break ;
     case 4:
     case 5:

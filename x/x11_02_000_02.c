@@ -19,7 +19,7 @@ Congratulations.");
     MsgDisp("Sassa","I see you've been working really hard.
 I can't lose either.");
     MsgDisp("主人公","(Yay, ｛Sassa＊＊｝ praised me!
-Let's practice harder!)");
+Let's practise harder!)");
     break ;
     case 4:
     case 5:

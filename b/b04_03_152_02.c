@@ -7,7 +7,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040315202_03_000");
 MsgDisp("Honda","Ehhh, your form looks good.");
-MsgSel("My score isn't improving though...","It's because I practiced a lot!","Enough with the flattery.");
+MsgSel("My score isn't improving though...","It's because I practised a lot!","Enough with the flattery.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

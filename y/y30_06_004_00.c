@@ -6,7 +6,7 @@ VoicePlay("Y300600400_46_000");
 MsgDisp("School Girl","\"Himuro-kun is always with our
 seniors.
 It's amazing, huh?\"");
-MsgDisp("","When I heard that, I realized.");
+MsgDisp("","When I heard that, I realised.");
 MsgDisp("","Recently I had been hanging out with
 Ryota-senpai, Nozomu-senpai and
 ｛主人公苗字｝ -senpai a lot.");
@@ -22,7 +22,7 @@ above me before I could with my
 classmates.");
 MsgClear();
 MsgDisp("","As I spent more time with the three
-of them, I realized something.");
+of them, I realised something.");
 MsgDisp("","I figured that them being seniors
 didn't significantly impact our
 relationship, and I wouldn't treat

@@ -3,7 +3,7 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B020302117_03_000");
 MsgDisp("Honda","Ah, there's products like that, huh.
-It's like bringing the flavor out of raw
+It's like bringing the flavour out of raw
 ingredients.");
 MsgDisp("主人公","Um...
 You mean these clothes?");

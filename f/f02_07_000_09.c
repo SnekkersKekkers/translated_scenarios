@@ -64,4 +64,4 @@ VoicePlay("F020700009_07_070");
 MsgDisp("Mikage","Then, for this year especially, should I put
 the most beautiful ones up for sale?");
 MsgDisp("主人公","(Seems like ｛Mikage＊＊｝ hasn't put his
-favorite vegetables for sale until now...)");
+favourite vegetables for sale until now...)");

@@ -3,7 +3,7 @@ MsgClose();
 ChOpen(7,255,5,0,0,#1,#1,0,0);
 VoicePlay("G020710100_07_000");
 MsgDisp("Mikage","These fireflies here, you know, they seem to
-mysteriously appear in various colors, don't
+mysteriously appear in various colours, don't
 they?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -11,7 +11,7 @@ ChMotion(7,0);
 VoicePlay("G020710100_07_010");
 MsgDisp("Mikage","Maybe they reflect our feelings.");
 MsgDisp("主人公","Hehe, perhaps that's true.
-What color does ｛Mikage＊＊｝ see the
+What colour does ｛Mikage＊＊｝ see the
 most?");
 ChEye(7,4);
 ChMouth(7,3);
@@ -40,8 +40,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("G020710100_07_050");
-MsgDisp("Mikage","No matter what color he sees, he'll probably
-say, \"It's a normal color\", or something.");
+MsgDisp("Mikage","No matter what colour he sees, he'll probably
+say, \"It's a normal colour\", or something.");
 MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ you really understand
 ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ well, don't you?");
 ChEye(7,0);

@@ -25,7 +25,7 @@ VoicePlay("P740300001_03_020");
 MsgDisp("Honda","But your style of walking was the best.
 You were leaping about happily.");
 MsgDisp("主人公","(Uuugh....
-I should have practiced more during the
+I should have practised more during the
 preparation period...)");
 MsgClose();
 ScrFadeOut(0,0);

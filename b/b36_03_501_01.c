@@ -51,7 +51,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B360350101_03_050");
 MsgDisp("Honda","Could be. But you're the one who sparked it.
-Thanks to you, I've realized something
+Thanks to you, I've realised something
 interesting about myself.");
 ChEye(3,3);
 ChMouth(3,3);

@@ -26,7 +26,7 @@ from the music room!");
     ChMotion(3,4);
     VoicePlay("X120300000_03_010");
     MsgDisp("Honda","Truthfully, recently I've been secretly
-listening to you practice.
+listening to you practise.
 The sound was so beautiful.");
     MsgDisp("主人公","(Yay!
 I got praised!)");

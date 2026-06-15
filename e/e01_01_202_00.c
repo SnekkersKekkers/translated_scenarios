@@ -139,7 +139,7 @@ VoicePlay("E010120200_02_050");
 MsgDisp("Sassa","That's too bad.
 He's always like that, blaming me.
 You tell him, okay?");
-MsgDisp("主人公","To be recognized by you, ｛Sassa＊＊｝,
+MsgDisp("主人公","To be recognised by you, ｛Sassa＊＊｝,
 ｛Kazama＊＊｝ must really have awesome sports
 abilities!");
 ChEye(2,0);

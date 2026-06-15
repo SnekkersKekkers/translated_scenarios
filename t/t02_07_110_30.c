@@ -5,7 +5,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("T020711030_07_000");
 MsgDisp("Mikage","I see.
-I'm sorry for making you apologize even at
+I'm sorry for making you apologise even at
 the very end.");
 BGMPlay("BGM_C07_MIKAGE_B",0.01);
 ChEye(7,2);

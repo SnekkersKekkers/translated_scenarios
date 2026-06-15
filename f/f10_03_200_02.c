@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 ScrFadeIn(0);
 VoicePlay("F100320002_03_000");
-MsgDisp("Honda?","I realized once again how amazing Sakkun is.
+MsgDisp("Honda?","I realised once again how amazing Sakkun is.
 The training for the octathlon is a battle
 with a dilemma.");
 VoicePlay("F100320002_02_000");

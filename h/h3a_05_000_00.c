@@ -26,7 +26,7 @@ right hand went up-");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("H3A0500000_05_020");
-    MsgDisp("Hiiragi","With you in the center, time seemed to stop.
+    MsgDisp("Hiiragi","With you in the centre, time seemed to stop.
 It was beautiful.");
     MsgDisp("主人公","Thank you, ｛Hiiragi＊＊＊｝.");
     ChEye(5,4);
@@ -34,7 +34,7 @@ It was beautiful.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("H3A0500000_05_030");
-    MsgDisp("Hiiragi","Your judo completely mesmerized me.");
+    MsgDisp("Hiiragi","Your judo completely mesmerised me.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("H3A0500000_05_040");

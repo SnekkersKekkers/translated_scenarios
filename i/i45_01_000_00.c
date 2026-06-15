@@ -178,7 +178,7 @@ See you.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Yay, ｛Kazama＊＊｝ praised me!
-Let's practice more and get better!)");
+Let's practise more and get better!)");
     break ;
     default :
     DbgAssert(1);

@@ -47,7 +47,7 @@ her.");
 MsgClear();
 VoicePlay("Y300200500_02_020");
 MsgDisp("Sassa","\"Let's go!\"");
-MsgDisp("","There's a mark 200 meters ahead on
+MsgDisp("","There's a mark 200 metres ahead on
 the beach. The training involves
 turning back there and sprinting back
 with full effort.");

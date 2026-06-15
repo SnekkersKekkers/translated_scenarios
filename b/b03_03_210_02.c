@@ -22,7 +22,7 @@ done!");
     ChMotion(3,4);
     VoicePlay("B030321002_03_010");
     MsgDisp("Honda","Okay.
-I'll tell you which ones are my favorite.");
+I'll tell you which ones are my favourite.");
     MsgDispSksp(0);
     break ;
     case 2:

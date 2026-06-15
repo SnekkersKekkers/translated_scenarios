@@ -97,7 +97,7 @@ So that's how you went about it...");
     VoicePlay("B040502102_05_100");
     MsgDisp("Hiiragi","Are you interested?
 We're anticipating your visit at the Habataki
-Theater Company.");
+Theatre Company.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

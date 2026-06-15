@@ -2,7 +2,7 @@ ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,0);
 VoicePlay("B020800012_08_000");
-MsgDisp("Shirahane","Is that your favorite thing to wear?");
+MsgDisp("Shirahane","Is that your favourite thing to wear?");
 MsgDisp("主人公","Huh?");
 ChEye(8,2);
 ChMouth(8,0);

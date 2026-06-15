@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040508400_05_000");
 MsgDisp("Hiiragi","Maybe it's the water temperature...
-The autumn colors here come a little later
+The autumn colours here come a little later
 than elsewhere.");
 MsgSel("It's thanks to the spring water.","Slightly off?","The fallen leaves floating on the water are beautiful.");
 switch (MsgSelRsltGet()){

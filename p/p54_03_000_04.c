@@ -30,7 +30,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("P540300004_03_030");
-MsgDisp("Honda","I know you've been practicing with the utmost
+MsgDisp("Honda","I know you've been practising with the utmost
 effort.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,2);

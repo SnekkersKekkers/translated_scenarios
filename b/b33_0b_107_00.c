@@ -101,7 +101,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B10700_03_030");
-MsgDisp("Honda","The old lady in my neighborhood also calls
+MsgDisp("Honda","The old lady in my neighbourhood also calls
 Ryo-kun young master.");
 ChEye(1,0);
 ChMouth(1,4);

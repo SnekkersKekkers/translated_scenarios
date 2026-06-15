@@ -111,7 +111,7 @@ You're kind, and always make everyone smile.");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040324102_03_110");
-        MsgDisp("Honda","Then, I have a favor to ask.");
+        MsgDisp("Honda","Then, I have a favour to ask.");
         MsgDisp("主人公","What is it?");
         ChEye(3,4);
         ChMouth(3,0);

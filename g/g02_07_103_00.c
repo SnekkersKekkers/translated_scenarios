@@ -48,7 +48,7 @@ ChMotion(7,0);
 VoicePlay("G020710300_07_060");
 MsgDisp("Mikage","It would help if you could pretend you forgot
 about it.");
-MsgDisp("主人公","Well, um, it's not something to apologize
+MsgDisp("主人公","Well, um, it's not something to apologise
 for.");
 ChEye(7,0);
 ChMouth(7,0);

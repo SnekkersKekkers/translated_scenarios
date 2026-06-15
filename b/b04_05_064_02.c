@@ -14,7 +14,7 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B040506402_05_010");
-MsgDisp("Hiiragi","I do serve as the leader of the local theater
+MsgDisp("Hiiragi","I do serve as the leader of the local theatre
 troupe, after all.");
 VoicePlay("B040506402_36_000");
 MsgDisp("Market Clerk","Yo, Chairman?
@@ -24,7 +24,7 @@ VoicePlay("B040506402_05_020");
 MsgDisp("Hiiragi","Ah, yes.
 Of course I'll have some.");
 VoicePlay("B040506402_47_000");
-MsgDisp("Market Clerk","I saw the Habataki theater troupe the other
+MsgDisp("Market Clerk","I saw the Habataki theatre troupe the other
 day, you know?
 I'll throw in some free yakisoba.");
 ChEye(5,4);
@@ -89,7 +89,7 @@ MsgDisp("Hiiragi","Look, the fireworks display.
 It's starting now.
 Let's go!");
 MsgDisp("主人公","Y-Yeah.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you've been recognized by the
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you've been recognised by the
 people of Habataki City.
 That's good.)");
 MsgClose();

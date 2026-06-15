@@ -19,7 +19,7 @@ MsgClear();
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","Today's performance is Habataki
-Theater company's new work.
+Theatre company's new work.
 'Habataki Castle: The Lord's Return'.");
 MsgDisp("","This play is performed with a double
 cast.");
@@ -54,7 +54,7 @@ MsgDisp("","From our graduation to today's
 opening night, I've been busy to a
 dizzying extent. But at the same
 time, I've been happy.");
-MsgDisp("","The theater company members who
+MsgDisp("","The theatre company members who
 looked in the same direction and
 pushed each other to improve.
 The support of the people of
@@ -78,7 +78,7 @@ The guests are coming in.\"");
 MsgClear();
 VoicePlay("Y300500500_05_030");
 MsgDisp("Hiiragi","\"To the guests in attendance, I
-apologize.\"");
+apologise.\"");
 MsgDisp("","\"Even now, on the eve of our first
 performance, my thoughts keep
 turning to her.\"");

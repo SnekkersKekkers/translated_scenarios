@@ -95,7 +95,7 @@ car windows.");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("I650300000_03_100");
-    MsgDisp("Honda","But weren't you the one carrying tires around
+    MsgDisp("Honda","But weren't you the one carrying tyres around
 earlier?");
     MsgDisp("主人公","You saw?");
     ChEye(3,4);

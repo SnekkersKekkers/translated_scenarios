@@ -52,7 +52,7 @@ ChMotion(3,4);
 VoicePlay("B070300001_03_080");
 MsgDisp("Honda","I'd like to learn a bit more from Ryo-kun
 but I'm not sure if I can?");
-MsgDisp("主人公","(｛Honda＊＊｝ seems to idolize
+MsgDisp("主人公","(｛Honda＊＊｝ seems to idolise
 ｛Kazama＊＊｝...!)");
 BGMStop();
 MsgClose();

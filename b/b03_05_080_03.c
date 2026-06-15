@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030508003_05_000");
 MsgDisp("Hiiragi","The leaves have started turning into
-beautiful colors.
+beautiful colours.
 Let's walk around and discover autumn.");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Yeah, let's go.");

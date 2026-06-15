@@ -20,7 +20,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("T020201020_02_010");
-MsgDisp("Sassa","Oh, don't apologize.
+MsgDisp("Sassa","Oh, don't apologise.
 I'm the one who's usually sorry.
 So, thank you.");
 MsgDisp("主人公","｛Sassa＊＊｝...");

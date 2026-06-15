@@ -115,7 +115,7 @@ StlEye(3,1);
 StlMouth(3,1);
 VoicePlay("D120B00200_03_040");
 MsgDisp("Honda","That's right!
-This is a behavior that all living creatures
+This is a behaviour that all living creatures
 demonstrate.");
 StlEye(1,1);
 StlMouth(1,1);

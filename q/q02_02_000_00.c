@@ -85,7 +85,7 @@ Let's go together.");
         VoicePlay("Q020200000_02_070");
         MsgDisp("Sassa","Awesome!
 Did it sound natural when I asked you?
-I was practicing that in my head.");
+I was practising that in my head.");
         MsgDisp("主人公","Hehe, you did.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -109,7 +109,7 @@ I'll ask someone else.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("Q020200000_02_100");
-        MsgDisp("Sassa","Don't apologize, I hope you can enjoy it too.
+        MsgDisp("Sassa","Don't apologise, I hope you can enjoy it too.
 ...See ya.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

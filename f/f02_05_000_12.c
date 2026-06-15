@@ -10,7 +10,7 @@ do over spring break?");
 ChMouth(5,4);
 VoicePlay("F020500012_05_000");
 MsgDisp("Hiiragi","I have special permission to attend Haba High
-while managing the theater troupe.");
+while managing the theatre troupe.");
 ChEye(5,2);
 ChMotion(5,2);
 VoicePlay("F020500012_05_010");
@@ -43,7 +43,7 @@ VoicePlay("F020500012_05_040");
 MsgDisp("Hiiragi","I feel the same—like a bond between
 classmates. It truly is wonderful.
 Maybe I can put this to use on the stage...");
-MsgDisp("主人公","Is the Habataki Theater Company putting on a
+MsgDisp("主人公","Is the Habataki Theatre Company putting on a
 youth drama next?");
 ChEye(5,0);
 ChMotion(5,4);

@@ -67,9 +67,9 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300400_03_070");
 MsgDisp("Honda","That's right.
-That's why I think it's important to organize
+That's why I think it's important to organise
 your bookshelf like this.");
-MsgDisp("主人公","(For ｛Honda＊＊｝, it wasn't about organizing,
+MsgDisp("主人公","(For ｛Honda＊＊｝, it wasn't about organising,
 but a chance to remember the contents of the
 book. Amazing...)");
 BGMStop();

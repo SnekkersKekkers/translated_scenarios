@@ -25,7 +25,7 @@ VoicePlay("B070500000_05_040");
 MsgDisp("Hiiragi","...Then, maybe you could tell me your TV show
 recommendations next time?");
 VoicePlay("B070500000_05_050");
-MsgDisp("Hiiragi","That one will become my favorite show.");
+MsgDisp("Hiiragi","That one will become my favourite show.");
 MsgDisp("主人公","(That's a lot of pressure!)");
 BGMStop();
 MsgClose();

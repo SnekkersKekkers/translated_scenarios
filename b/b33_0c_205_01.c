@@ -65,7 +65,7 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20501_05_020");
 MsgDisp("Hiiragi","If that bitterness of his was an act, I'll
-let him join the theater troupe.");
+let him join the theatre troupe.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("B330C20501_07_010");
 MsgDisp("Mikage","O-i, I bought it.");

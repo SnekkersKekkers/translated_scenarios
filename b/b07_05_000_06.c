@@ -4,9 +4,9 @@ ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("B070500000_05_240");
 MsgDisp("Hiiragi","In a sense, I was a different person.
-I lived only in a narrow world of the theater
+I lived only in a narrow world of the theatre
 company.");
-MsgDisp("主人公","You toured the country with the theater
+MsgDisp("主人公","You toured the country with the theatre
 company.
 I think that's truly incredible.");
 ChEye(5,2);
@@ -30,7 +30,7 @@ There must have been all sorts of things.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B070500000_05_280");
-MsgDisp("Hiiragi","At that time, a lot of the flavors were too
+MsgDisp("Hiiragi","At that time, a lot of the flavours were too
 complex for me.");
 MsgDisp("主人公","(I can't even imagine the world ｛Hiiragi＊＊＊｝
 lived in...)");

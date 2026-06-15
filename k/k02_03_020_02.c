@@ -5,8 +5,8 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Ribbon scarf\")");
-MsgDisp("主人公","(Hehe, what a cheerful color.
-It looks like ｛Honda＊＊｝'s hair color.
+MsgDisp("主人公","(Hehe, what a cheerful colour.
+It looks like ｛Honda＊＊｝'s hair colour.
 I should wear it on our next date!)");
 MsgClose();
 ScrFadeOut(0,0);

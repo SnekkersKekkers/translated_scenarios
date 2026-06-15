@@ -33,7 +33,7 @@ the materials manager next year and beyond.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P840500002_05_020");
-MsgDisp("Hiiragi","I wish I could organize things as well as you
+MsgDisp("Hiiragi","I wish I could organise things as well as you
 do.");
 MsgDisp("主人公","(Yay!
 I was praised by ｛Hiiragi＊＊＊｝!)");

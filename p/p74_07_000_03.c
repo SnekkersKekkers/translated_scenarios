@@ -29,7 +29,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P740700003_07_030");
-MsgDisp("Mikage","You're not in the modeling club, but the
+MsgDisp("Mikage","You're not in the modelling club, but the
 handicrafts club.");
 MsgDisp("主人公","Yes...");
 ChEye(7,0);

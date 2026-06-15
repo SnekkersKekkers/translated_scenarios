@@ -22,7 +22,7 @@ ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("D020800400_08_020");
 MsgDisp("Shirahane","Ya really are such an honest, hard-workin'
-person, an honor student too...
+person, an honour student too...
 It's inspiring.");
 MsgDisp("主人公","But ｛Daichi＊＊｝ is the same way.");
 ChEye(8,4);
@@ -31,7 +31,7 @@ ChMotion(8,2,1);
 VoicePlay("D020800400_08_030");
 MsgDisp("Shirahane","I'm no match for you.
 I'm honest and hard-workin', but I'm not an
-honor student.");
+honour student.");
 MsgDisp("主人公","Really?");
 ChEye(8,2);
 ChMouth(8,0);

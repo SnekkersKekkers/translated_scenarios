@@ -4,7 +4,7 @@ MsgDisp("主人公","(I wonder what my present is?)");
 SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
-MsgDisp("主人公","(\"Checkered sports towel\")");
+MsgDisp("主人公","(\"Chequered sports towel\")");
 MsgDisp("主人公","(What a cute pattern!
 Next time I exercise with ｛Sassa＊＊｝, let's
 use it.)");

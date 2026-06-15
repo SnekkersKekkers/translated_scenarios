@@ -30,6 +30,6 @@ MsgDisp("Michiru","It makes me happy too, that a day like this
 where you receive a reward would come.
 Congratulations, Mari.");
 MsgDisp("主人公","(Hehe, I'm so happy!
-I'm glad I practiced so hard for brass band!)");
+I'm glad I practised so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

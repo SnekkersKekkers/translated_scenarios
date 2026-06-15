@@ -50,7 +50,7 @@ I'll go home alone.)");
     ChMotion(5,0);
     ChEyeOpenLevel(5,8);
     VoicePlay("F010500004_05_040");
-    MsgDisp("Hiiragi","I considered canceling it, but I have a
+    MsgDisp("Hiiragi","I considered cancelling it, but I have a
 meeting today with an important patron.
 I cannot miss it.");
     MsgClose();

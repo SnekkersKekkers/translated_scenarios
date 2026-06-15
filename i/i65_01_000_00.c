@@ -104,7 +104,7 @@ See you.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Hehe, but I think only ｛Kazama＊＊｝ could be
-fully refueled with just a smile, you know?)");
+fully refuelled with just a smile, you know?)");
     break ;
     case 4:
     case 5:

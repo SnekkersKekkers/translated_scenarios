@@ -33,7 +33,7 @@ country.
 It suits you.");
     MsgDisp("主人公","Thanks!");
     MsgDisp("主人公","(I really won.
-I'm glad I practiced so much!)");
+I'm glad I practised so much!)");
     break ;
     case 4:
     case 5:
@@ -84,7 +84,7 @@ Thanks!");
 off too far on your own.
 I'll be in trouble if I can't reach you.");
     MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ congratulated me!
-I'm glad I practiced so much!)");
+I'm glad I practised so much!)");
     break ;
     default :
     DbgAssert(1);

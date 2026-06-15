@@ -52,7 +52,7 @@ I'll do my best.");
     ChMotion(6,0);
     VoicePlay("N020600001_06_060");
     MsgDisp("Himuro","You made it to the top.
-The fruits of your labor, I'm guessing?");
+The fruits of your labour, I'm guessing?");
     MsgDisp("主人公","Yeah...
 I guess so?");
     ChEye(6,0);

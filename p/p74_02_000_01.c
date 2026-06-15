@@ -18,7 +18,7 @@ ChMotion(2,4);
 VoicePlay("P740200001_02_010");
 MsgDisp("Sassa","I'm glad you're not injured.
 Well, maybe you just didn't get enough
-practice on the modeling side.");
+practice on the modelling side.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -27,7 +27,7 @@ MsgDisp("Sassa","But, that's not related to whether your work
 is good, or whether the show was a success.");
 MsgDisp("主人公","(Thank you, ｛Sassa＊＊｝...I should have
 participated more in club more during the
-preparation period, and practiced more for
+preparation period, and practised more for
 the show.)");
 MsgClose();
 ScrFadeOut(0,0);

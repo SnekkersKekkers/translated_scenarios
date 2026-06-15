@@ -5,9 +5,9 @@ ChEye(5,4);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("B020500009_05_000");
-MsgDisp("Hiiragi","What a wonderful color.");
+MsgDisp("Hiiragi","What a wonderful colour.");
 MsgDisp("主人公","Really?
-It's the latest trendy color.");
+It's the latest trendy colour.");
 VoicePlay("B020500009_05_010");
 MsgDisp("Hiiragi","I do not care if it is popular or not.
 What matters is that it looks good on you.");

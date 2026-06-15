@@ -31,7 +31,7 @@ high school years?");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100004_01_020");
-    MsgDisp("Kazama","...Geez, did you just realize that?
+    MsgDisp("Kazama","...Geez, did you just realise that?
 Such an ungrateful person.
 You're still the same as always.");
     MsgDisp("主人公","Geez, seems like there's going to be a lot of
@@ -63,7 +63,7 @@ know when it's this crowded.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("S120100004_01_040");
-    MsgDisp("Kazama","I think I recognized a few?
+    MsgDisp("Kazama","I think I recognised a few?
 You just didn't notice them.");
     MsgDisp("主人公","Eeh∋
 No one came to say hi to me?");

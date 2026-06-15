@@ -33,7 +33,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("K020701100_07_040");
-MsgDisp("Mikage","But, it's a little difficult to memorize
+MsgDisp("Mikage","But, it's a little difficult to memorise
 everyone's preferences...
 Sorry if it doesn't suit you.");
 MsgDisp("主人公","Thank you very much!");

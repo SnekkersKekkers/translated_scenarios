@@ -3,7 +3,7 @@ ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, from Habatcher. \"Please sneak into the
-Habataki Theater Company's rehearsal studio
+Habataki Theatre Company's rehearsal studio
 for an insider scoop!\" ...Ehh∋)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

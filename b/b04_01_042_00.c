@@ -11,7 +11,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040104200_01_000");
     MsgDisp("Kazama","Yeah, even better than I thought it'd be.
-I wonder how they practice.");
+I wonder how they practise.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

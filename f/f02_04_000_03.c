@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("F020400003_04_000");
 MsgDisp("Nanatsumori","Apparently, there's a legendary church on the
 Haba High campus.
-And a handful of rumors surrounding it.");
+And a handful of rumours surrounding it.");
 MsgDisp("主人公","Right.");
 ChEye(4,0);
 ChMouth(4,4);
@@ -31,7 +31,7 @@ MsgDisp("主人公","Are you sure about that...?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("F020400003_04_030");
-MsgDisp("Nanatsumori","The rumored church.
+MsgDisp("Nanatsumori","The rumoured church.
 In reality, it's not a church at all...");
 MsgDisp("主人公","If it's not a church, then...?");
 ChEye(4,0);

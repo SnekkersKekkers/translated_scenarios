@@ -28,7 +28,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040822100_08_020");
     MsgDisp("Shirahane","For sure.
 It's 'cause both of us have been on our best
-behavior▼");
+behaviour▼");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -36,7 +36,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100005_01_030");
-MsgDisp("Kazama","Oh, that part's my favorite.");
+MsgDisp("Kazama","Oh, that part's my favourite.");
 MsgDisp("主人公","Huh∋");
 ChEye(1,2);
 ChMouth(1,1);

@@ -25,7 +25,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100003_01_020");
 MsgDisp("Kazama","Vice Principal Himuro.");
-MsgDisp("主人公","Huh, a rumor about Himuro-sensei∋");
+MsgDisp("主人公","Huh, a rumour about Himuro-sensei∋");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -50,7 +50,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020410401_04_070");
-MsgDisp("Nanatsumori","You only realized that now?");
+MsgDisp("Nanatsumori","You only realised that now?");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410401_04_080");

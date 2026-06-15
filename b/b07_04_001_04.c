@@ -30,7 +30,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_320");
-MsgDisp("Nanatsumori","Yeah. I'm from the neighboring town, so I'd
+MsgDisp("Nanatsumori","Yeah. I'm from the neighbouring town, so I'd
 like to hear lots of different things about
 Habataki City.");
 ChMotion(4,1,1);

@@ -10,7 +10,7 @@ ChMotion(22,4,1);
 VoicePlay("U212200001_22_000");
 MsgDisp("Hikaru","Hey, Mari.
 Is this something you can use?");
-MsgDisp("主人公","Jewelry?");
+MsgDisp("主人公","Jewellery?");
 ChMotion(22,0,1);
 VoicePlay("U212200001_22_010");
 MsgDisp("Hikaru","Yes.

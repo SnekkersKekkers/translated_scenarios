@@ -51,7 +51,7 @@ Sorry for saying something so careless.");
         ChMouth(2,0);
         ChMotion(2,5);
         VoicePlay("B040215102_02_050");
-        MsgDisp("Sassa","No, I'm the one who should apologize.
+        MsgDisp("Sassa","No, I'm the one who should apologise.
 Even though this was supposed to be a date.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -70,7 +70,7 @@ hint.");
         ChMotion(2,3);
         VoicePlay("B040215102_02_080");
         MsgDisp("Sassa","Temperature and humidity can easily change
-things by 0.01 seconds or 1 millimeter.
+things by 0.01 seconds or 1 millimetre.
 Look, my hair's curling from the humidity.");
         MsgDisp("主人公","Hehe, yeah.");
         ChEye(2,0);

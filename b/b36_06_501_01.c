@@ -27,7 +27,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650101_06_020");
 MsgDisp("Himuro","What?
-You didn't realize it?
+You didn't realise it?
 Everyone's eyes were on you.");
 MsgDisp("主人公","I guess...?");
 ChEye(6,0);

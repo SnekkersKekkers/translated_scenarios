@@ -6,7 +6,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("B020400009_04_000");
 MsgDisp("Nanatsumori","Oh.
-You used that color right away.");
+You used that colour right away.");
 MsgDisp("主人公","Ah, you noticed?");
 ChMotion(4,3,1);
 VoicePlay("B020400009_04_010");

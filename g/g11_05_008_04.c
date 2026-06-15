@@ -69,7 +69,7 @@ recess paid off.");
 ChMotion(5,0);
 SEPlay("EV_SE_712");
 MsgDisp("主人公","Y-Yes. I think it's impressive....
-The theater company, your studies, and the
+The theatre company, your studies, and the
 student council too...");
 ChEye(5,1);
 ChMouth(5,0);
@@ -81,7 +81,7 @@ SEStop("EV_SE_712",0);
 VoicePlay("G110500804_05_060");
 MsgDisp("Hiiragi","W-What's the matter?");
 MsgDisp("主人公","I'm so happy that ｛Hiiragi＊＊＊｝'s efforts are
-being recognized...");
+being recognised...");
 ChMouth(5,1);
 ChEyeOpenLevel(5,0);
 Wait(10,0);

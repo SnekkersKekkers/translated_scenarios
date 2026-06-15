@@ -48,7 +48,7 @@ I'm sorry.");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040505102_05_040");
-        MsgDisp("Hiiragi","There's no need to apologize. Not only was I
+        MsgDisp("Hiiragi","There's no need to apologise. Not only was I
 able to see the beautiful stars, but also
 your comfortable sleeping face.");
         MsgDisp("主人公","Ehh∈
@@ -72,7 +72,7 @@ Even though you were that comfortable?");
         VoicePlay("B040505102_05_070");
         MsgDisp("Hiiragi","E-Embarrassing?
 Umm...
-I apologize.");
+I apologise.");
         VoicePlay("B040505102_05_080");
         MsgDisp("Hiiragi","I didn't intend on causing you that much
 embarrassment.");

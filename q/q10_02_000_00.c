@@ -80,7 +80,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q100200000_02_090");
 MsgDisp("Sassa","Me too.
-But each shop has different flavors, so
+But each shop has different flavours, so
 what's your plan?");
 MsgDisp("主人公","Hmm, I can't decide...");
 ChEye(2,0);
@@ -94,7 +94,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q100200000_02_110");
-MsgDisp("Sassa","If we choose the same flavor, I guess that
+MsgDisp("Sassa","If we choose the same flavour, I guess that
 means we're perfect for each other.");
 ChEye(2,0);
 ChMouth(2,4);

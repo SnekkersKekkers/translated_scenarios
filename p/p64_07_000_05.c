@@ -20,8 +20,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P640700005_07_020");
 MsgDisp("Mikage","The freshly picked vegetables are crying?
-The color balance is off.
-The vegetable fibers are ruined...");
+The colour balance is off.
+The vegetable fibres are ruined...");
 MsgDisp("主人公","I'm sorry...");
 ChEye(7,2);
 ChMouth(7,0);

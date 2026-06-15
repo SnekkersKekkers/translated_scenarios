@@ -26,7 +26,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C30300_05_000");
-MsgDisp("Hiiragi","I can barely stand, so I would be honored if
+MsgDisp("Hiiragi","I can barely stand, so I would be honoured if
 you were to teach me.");
 ChEye(6,0);
 ChMouth(6,3);
@@ -83,7 +83,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C30300_06_020");
 MsgDisp("Himuro","It's as Kojiro-sensei says.
-Don't lean forward, and keep your center of
+Don't lean forward, and keep your centre of
 gravity. It's the same as surfing.");
 ChEye(7,0);
 ChMouth(7,3);

@@ -54,7 +54,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070201000_02_060");
-MsgDisp("Sassa","...When I realized that, I started thinking
+MsgDisp("Sassa","...When I realised that, I started thinking
 about you non-stop.
 Above everything else, you were in the lead.");
 MsgDisp("主人公","Eh, me?");

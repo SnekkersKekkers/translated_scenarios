@@ -30,7 +30,7 @@ Um...");
     ChMotion(4,0,1);
     VoicePlay("I330400001_04_030");
     MsgDisp("Nanatsumori","...Me?
-The modeling agency's nearby, so I take
+The modelling agency's nearby, so I take
 breaks here sometimes.");
     ChEye(4,0);
     ChMouth(4,0);
@@ -69,7 +69,7 @@ Why are you here?");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("I330400001_04_080");
-    MsgDisp("Nanatsumori","My modeling agency is nearby.
+    MsgDisp("Nanatsumori","My modelling agency is nearby.
 And, I'm on my break right now...");
     MsgDisp("主人公","I see.
 Then, I guess I'll see you at work?");
@@ -108,7 +108,7 @@ I'm working here starting today.");
     ChMotion(4,0,1);
     VoicePlay("I330400001_04_130");
     MsgDisp("Nanatsumori","Just a little worried that guys from my
-modeling agency might come here from time to
+modelling agency might come here from time to
 time.");
     MsgDisp("主人公","?");
     ChEye(4,2);

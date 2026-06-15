@@ -26,7 +26,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("U100D00000_22_010");
-MsgDisp("Hikaru","We can have girl talk in our pajamas▼");
+MsgDisp("Hikaru","We can have girl talk in our pyjamas▼");
 MsgSel("Ok, I'll go!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:

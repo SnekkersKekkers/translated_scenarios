@@ -31,7 +31,7 @@ VoicePlay("P740300003_03_020");
 MsgDisp("Honda","Nope, since you weren't injured, your
 break-fall was a success!");
 MsgDisp("主人公","(｛Honda＊＊｝, were you trying to cheer me up?
-But, I definitely didn't practice enough for
+But, I definitely didn't practise enough for
 the show...)");
 MsgClose();
 ScrFadeOut(0,0);

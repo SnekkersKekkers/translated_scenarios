@@ -83,7 +83,7 @@ Yeah, then I guess I don't have a choice.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("J040200000_02_070");
-        MsgDisp("Sassa","Don't apologize.
+        MsgDisp("Sassa","Don't apologise.
 You didn't do anything wrong.
 I'll call on you again.");
         MsgDisp("主人公","Yeah.

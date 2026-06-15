@@ -40,7 +40,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020320100_03_060");
-MsgDisp("Honda","Don't apologize, okay?
+MsgDisp("Honda","Don't apologise, okay?
 Actually, I feel relieved!");
 ChEye(3,0);
 ChMouth(3,0);

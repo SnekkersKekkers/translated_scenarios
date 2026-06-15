@@ -1,5 +1,5 @@
 MsgDisp("","After graduating, ｛Hiiragi＊＊＊｝ is devoting
-himself to the Habataki Theater Company.");
+himself to the Habataki Theatre Company.");
 MsgDisp("","However, this does not change the fact
 that he still shoulders the heavy
 responsibilities of being the company's

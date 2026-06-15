@@ -25,7 +25,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("S110700001_07_030");
-MsgDisp("Mikage","I know. I guess I should go apologize to Vice
+MsgDisp("Mikage","I know. I guess I should go apologise to Vice
 Principal Himuro before the Excellent Luck
 wears off...");
 MsgDisp("主人公","Ehh∋

@@ -68,7 +68,7 @@ the four of us hung out together.");
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_090");
-MsgDisp("Honda","Because of that relationship, I realized
+MsgDisp("Honda","Because of that relationship, I realised
 that you were the one I could devote my
 life to.");
 ChEye(3,3);

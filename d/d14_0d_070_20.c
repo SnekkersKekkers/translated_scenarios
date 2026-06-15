@@ -54,7 +54,7 @@ VoicePlay("D140D07020_21_040");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
-MsgDisp("Michiru","What a wonderful rumor.
+MsgDisp("Michiru","What a wonderful rumour.
 Right, Mari?");
 MsgDisp("主人公","(｛Sassa＊＊｝'s father was also an
 athlete...that makes a lot of sense.)");

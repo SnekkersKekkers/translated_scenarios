@@ -7,7 +7,7 @@ SEStop("EV_SE_577",0);
 SEWait();
 MsgDisp("主人公","Yes, hello?");
 VoicePlay("P810500100_41_000");
-MsgDisp("President","I apologize for calling you on break.
+MsgDisp("President","I apologise for calling you on break.
 I called you as I have a message to deliver.");
 VoicePlay("P810500100_41_010");
 MsgDisp("President","From next week, for two weeks onwards we will

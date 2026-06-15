@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F020500002_05_000");
 MsgDisp("Hiiragi","Come to think of it, I heard an interesting
-rumor about the church.");
-MsgDisp("主人公","Which rumor?");
+rumour about the church.");
+MsgDisp("主人公","Which rumour?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("F020500002_05_010");
@@ -36,7 +36,7 @@ ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("F020500002_05_050");
 MsgDisp("Hiiragi","Next time, I will check with the person
-himself to see just how true those rumors
+himself to see just how true those rumours
 are.");
-MsgDisp("主人公","(It's different from the rumors I know, but
+MsgDisp("主人公","(It's different from the rumours I know, but
 this one might be more interesting.)");

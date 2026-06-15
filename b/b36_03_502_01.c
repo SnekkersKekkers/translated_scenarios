@@ -81,7 +81,7 @@ ChMotion(3,1,1);
 VoicePlay("B360350201_03_090");
 MsgDisp("Honda","So, let's keep today a secret from them,
 okay?");
-MsgDisp("主人公","(I didn't realize that ｛Honda＊＊｝ felt that
+MsgDisp("主人公","(I didn't realise that ｛Honda＊＊｝ felt that
 way...)");
 BGMStop();
 MsgClose();

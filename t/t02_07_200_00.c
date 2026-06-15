@@ -69,12 +69,12 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020720000_07_080");
 MsgDisp("Mikage","Thanks to that, the void in my life was
-filled without me even realizing it.");
+filled without me even realising it.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020720000_07_090");
-MsgDisp("Mikage","...But then I realized I no longer had any
+MsgDisp("Mikage","...But then I realised I no longer had any
 space to store my feelings for you.");
 MsgDisp("主人公","Feelings...for me?");
 MsgClear();
@@ -111,7 +111,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020720000_07_140");
-MsgDisp("Mikage","It made me realize that if I leave my
+MsgDisp("Mikage","It made me realise that if I leave my
 feelings for you at Haba School, I can't
 move forward.");
 ChEye(7,4);

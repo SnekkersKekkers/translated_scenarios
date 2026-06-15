@@ -34,7 +34,7 @@ When we're together, time passes quickly.");
     VoicePlay("S120200003_02_020");
     MsgDisp("Sassa","It's like a hard workout.
 When you're watching over me, before I even
-realize it, it's over.");
+realise it, it's over.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

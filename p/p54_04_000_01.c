@@ -26,7 +26,7 @@ VoicePlay("P540400001_04_020");
 MsgDisp("Nanatsumori","Well, in a way it was a success?
 I was so nervous I didn't have time to sleep.");
 MsgDisp("主人公","(Ughh...
-I should have practiced more...)");
+I should have practised more...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

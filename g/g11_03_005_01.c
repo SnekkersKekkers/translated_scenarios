@@ -53,7 +53,7 @@ BGOpen("ev003",0);
 ChOpen(3,100,1,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300501_03_040");
-MsgDisp("Honda","Look right here. The \"Color Directory of
+MsgDisp("Honda","Look right here. The \"Colour Directory of
 Alpine Plants\" has info on the \"Microscopic
 World of Carnivorous Plants\".");
 ChEye(3,2);

@@ -25,7 +25,7 @@ him?");
 wouldn't it be a good idea to align his world
 with reality?");
     MsgDisp("主人公","(I see... I guess we should try to experience
-the history of the theater as well as the
+the history of the theatre as well as the
 present together.)");
     break ;
     case 3:
@@ -49,7 +49,7 @@ might take him time to fall in love.");
     StlEyeOpenLevel(22,5,1);
     StlMouth(22,0);
     VoicePlay("U130D00004_22_010");
-    MsgDisp("Hikaru","The Yanosuke-san who only knows theater is
+    MsgDisp("Hikaru","The Yanosuke-san who only knows theatre is
 perfect for Mari.
 Because Mari is so curious.");
     StlEyeOpenLevel(22,0,1);
@@ -89,7 +89,7 @@ It feels like she's perfectly in sync with
 Yanosuke-san♪");
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00004_21_050");
-    MsgDisp("Michiru","I'm not sure if he realizes that he's in
+    MsgDisp("Michiru","I'm not sure if he realises that he's in
 love.");
     StlEye(22,0);
     StlMouth(22,0);

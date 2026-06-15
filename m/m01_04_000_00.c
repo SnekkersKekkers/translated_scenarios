@@ -32,7 +32,7 @@ ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("M010400000_04_030");
 MsgDisp("Nanatsumori","...That's good.
-Your color looks alright and all.
+Your colour looks alright and all.
 You can talk, too.");
 ChEye(4,0);
 ChMouth(4,0);
@@ -46,7 +46,7 @@ MsgDisp("Nanatsumori","When you're not at school, it's like the
 sound's left the world, it feels too quiet.");
 ChMotion(4,2,1);
 VoicePlay("M010400000_04_060");
-MsgDisp("Nanatsumori","I realized all over again just how important
+MsgDisp("Nanatsumori","I realised all over again just how important
 you are to me.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChMotion(4,1,1);

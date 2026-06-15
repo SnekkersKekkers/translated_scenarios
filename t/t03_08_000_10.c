@@ -4,7 +4,7 @@ together.");
 MsgClear();
 MsgDisp("","Since we went to university, the two of us
 have always been together. So, we are an
-officially recognized lovey-dovey couple
+officially recognised lovey-dovey couple
 on campus.");
 MsgDisp("","It seems like ｛Daichi＊＊｝ is enjoying
 the teasing from the boys. \"You always

@@ -79,7 +79,7 @@ ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("G110600200_06_080");
 MsgDisp("Himuro","Oh.
-Then it was worth savoring it.");
+Then it was worth savouring it.");
 MsgDisp("主人公","Shall I make it again?");
 ChEye(6,2);
 ChMouth(6,0);

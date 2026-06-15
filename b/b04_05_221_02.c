@@ -6,7 +6,7 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040522102_05_000");
-MsgDisp("Hiiragi","I've been given the honor to use this place
+MsgDisp("Hiiragi","I've been given the honour to use this place
 as a setting in my plays, so I think I'm
 always on edge here.");
 MsgSel("The lords would definitely be happy!","｛Hiiragi＊＊＊｝ is starting to look like a lord...","Relax a bit?");
@@ -40,9 +40,9 @@ I'm not so sure.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040522102_05_030");
-        MsgDisp("Hiiragi","My theater production differs in both
+        MsgDisp("Hiiragi","My theatre production differs in both
 historical fact and interpretation.
-I wonder if they would take offense to it...");
+I wonder if they would take offence to it...");
         MsgDisp("主人公","No, I don't think so. A lot of people get
 interested in history for the first time
 after watching the play, you know?");
@@ -63,7 +63,7 @@ in some small way.");
         ChMotion(5,2);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_060");
-        MsgDisp("Hiiragi","As chairman of Habataki Theater Company, I
+        MsgDisp("Hiiragi","As chairman of Habataki Theatre Company, I
 once again express my gratitude to the many
 generations of lords here.");
         ChMouthOpenLevel(5,0);

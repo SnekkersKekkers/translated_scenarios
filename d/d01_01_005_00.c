@@ -123,7 +123,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100500_01_110");
 MsgDisp("Kazama","It's fine.
-I've once again realized that I don't want a
+I've once again realised that I don't want a
 British lunch, I'd prefer soba.");
 MsgDisp("主人公","Soba?");
 ChEye(1,0);
@@ -131,7 +131,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D010100500_01_120");
 MsgDisp("Kazama","Yep.
-That flavor is better for me, after all.");
+That flavour is better for me, after all.");
 MsgDisp("主人公","(｛Kazama＊＊｝...
 Like I thought, maybe his parents are still
 asking him to come back to England...?)");

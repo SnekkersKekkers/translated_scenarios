@@ -95,7 +95,7 @@ You didn't take a video, did yo-");
     VoicePlay("I360400004_04_100");
     MsgDisp("Nanatsumori","You're getting so used to this shop, it
 brings a tear to my eye that I can finally
-savor my coffee and sweets.");
+savour my coffee and sweets.");
     MsgDisp("主人公","Geez...
 But, do you mean it?");
     ChMotion(4,0,1);

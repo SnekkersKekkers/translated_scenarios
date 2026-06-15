@@ -87,7 +87,7 @@ I'll do it this time.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_080");
-    MsgDisp("Himuro","And after work, go practice tying big
+    MsgDisp("Himuro","And after work, go practise tying big
 bouquets.
 ...I'll stay, too.");
     MsgDisp("主人公","Huh, really...?");

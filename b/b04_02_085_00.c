@@ -8,7 +8,7 @@ VoicePlay("B040208500_02_000");
 MsgDisp("Sassa","It's only here that has a strange
 atmosphere...
 It's somewhat like a different world, huh?");
-MsgSel("Is it the fireflies' doing?","Yeah, I have a feeling something is going to happen.","Have you heard the rumors of this place?");
+MsgSel("Is it the fireflies' doing?","Yeah, I have a feeling something is going to happen.","Have you heard the rumours of this place?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

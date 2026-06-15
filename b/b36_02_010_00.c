@@ -40,7 +40,7 @@ ScrFadeIn(0);
 MsgClose();
 ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("B360201000_02_020");
-MsgDisp("Sassa","A j-jewelry store?
+MsgDisp("Sassa","A j-jewellery store?
 Won't I be too out-of-place?");
 VoicePlay("B360201000_46_010");
 MsgDisp("Clerk","Welcome～!

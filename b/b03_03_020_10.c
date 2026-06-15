@@ -10,6 +10,6 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("B030302000_03_000");
 MsgDisp("Honda","Yeah, sure thing.
-I wonder what color the ocean is today?");
+I wonder what colour the ocean is today?");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

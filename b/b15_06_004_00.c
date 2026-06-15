@@ -49,7 +49,7 @@ Wait(30,0);
 ChOpen(6,255,2,1,1,0,#1,0,0);
 VoicePlay("B150600400_06_050");
 MsgDisp("Himuro","What.");
-MsgDisp("主人公","I just...wanted to apologize.");
+MsgDisp("主人公","I just...wanted to apologise.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

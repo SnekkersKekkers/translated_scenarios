@@ -38,7 +38,7 @@ Congrats.");
 It begins and ends with courtesy.
 I think I started liking judo because of you.");
     MsgDisp("主人公","(I did it!
-I'm glad I practiced so much∈)");
+I'm glad I practised so much∈)");
     break ;
     default :
     DbgAssert(1);

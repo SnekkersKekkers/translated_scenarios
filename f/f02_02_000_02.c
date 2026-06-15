@@ -39,13 +39,13 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200002_02_040");
-MsgDisp("Sassa","No, it's a rumor.");
+MsgDisp("Sassa","No, it's a rumour.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("F020200002_02_050");
 MsgDisp("Sassa","I heard there's a cloud of dust near the
-church. At the center of it, you can see
+church. At the centre of it, you can see
 Mikage-sensei, happily nodding.");
 MsgDisp("主人公","A dust cloud...
 Like when someone's running really fast?");

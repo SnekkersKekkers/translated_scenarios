@@ -58,14 +58,14 @@ so you have some ideas, right?");
     VoicePlay("I260300000_03_490");
     MsgDisp("Honda","And, the manager asking for your opinion
 means that your work and existence has been
-recognized.");
+recognised.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_500");
     MsgDisp("Honda","I want to hear your opinion, too.
 Keep it up!");
-    MsgDisp("主人公","(My hard work has been recognized...
+    MsgDisp("主人公","(My hard work has been recognised...
 I'm so happy!)");
     break ;
     default :

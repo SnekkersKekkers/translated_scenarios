@@ -74,7 +74,7 @@ Let's go!");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223001_02_060");
-    MsgDisp("Sassa","That was seriously high! 20 meters!");
+    MsgDisp("Sassa","That was seriously high! 20 metres!");
     break ;
     case 3:
     MsgDispSksp(1,0);

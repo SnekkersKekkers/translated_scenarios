@@ -5,7 +5,7 @@ ChOpen(21,255,4,4,0,#1,#1,0,1,0,30);
 ChOpen(22,255,0,0,3,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("L010D00101_21_000");
-MsgDisp("Michiru","Such nice color usage.
+MsgDisp("Michiru","Such nice colour usage.
 Like our pretty Mari.");
 ChEye(22,3);
 ChMouth(22,3);

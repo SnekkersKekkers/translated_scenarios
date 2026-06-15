@@ -27,7 +27,7 @@ Isn't that a win?");
     ChMotion(6,1);
     VoicePlay("B040623502_06_020");
     MsgDisp("Himuro","Really?
-Aren't you starting to realize the pattern by
+Aren't you starting to realise the pattern by
 now?");
     MsgDateResultDisp();
     break ;

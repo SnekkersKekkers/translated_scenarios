@@ -36,7 +36,7 @@ cooking team is also wearing yukata.");
     MsgDisp("Sassa","You guys were pretty thorough.
 Looks like I can look forward to the food,
 too.");
-    MsgDisp("主人公","Hehe, go ahead and savor it.
+    MsgDisp("主人公","Hehe, go ahead and savour it.
 Allow me to show you to your seat, sir!");
     break ;
     case 4:

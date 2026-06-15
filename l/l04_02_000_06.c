@@ -49,7 +49,7 @@ chocolate...)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("L040200006_02_050");
-    MsgDisp("Sassa","Don't apologize.
+    MsgDisp("Sassa","Don't apologise.
 I'm happy that they're handmade.
 Thanks.");
     MsgClose();

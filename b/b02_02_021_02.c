@@ -2,7 +2,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0,1);
 VoicePlay("B020202102_02_000");
-MsgDisp("Sassa","Whoa, that's a bold color scheme, right?");
+MsgDisp("Sassa","Whoa, that's a bold colour scheme, right?");
 MsgDisp("主人公","Yeah, what do you think?");
 ChEye(2,0);
 ChMouth(2,4);

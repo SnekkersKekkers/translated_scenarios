@@ -119,7 +119,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);
 MsgDisp("Shirahane","The day I saw the autumn fireflies, I
-realized that I couldn't continue like
+realised that I couldn't continue like
 this.");
 VoicePlay("T020801000_08_110");
 ChEye(8,2);

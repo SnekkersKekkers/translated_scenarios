@@ -43,7 +43,7 @@ I couldn't match you well.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O030600002_06_040");
-    MsgDisp("Himuro","You don't have to apologize.
+    MsgDisp("Himuro","You don't have to apologise.
 I couldn't match you either.");
     ChEye(6,2);
     ChMouth(6,2);

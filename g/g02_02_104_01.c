@@ -32,7 +32,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020210401_02_040");
-MsgDisp("Sassa","I used to think we should prioritize
+MsgDisp("Sassa","I used to think we should prioritise
 limited-time spots, but let's go everywhere!");
 ChEye(2,4);
 ChMouth(2,4);

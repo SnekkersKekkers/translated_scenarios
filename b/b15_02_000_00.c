@@ -19,7 +19,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("B150200000_02_020");
-MsgDisp("Sassa","Ah, you're apologizing.
+MsgDisp("Sassa","Ah, you're apologising.
 Then don't do it in the first place.
 I thought it was some sort of prank.");
 MsgDisp("主人公","Prank?");

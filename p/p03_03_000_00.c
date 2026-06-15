@@ -65,7 +65,7 @@ The signature set is mitarashi dango, though.");
     ChMotion(3,5,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("P030300000_03_050");
-    MsgDisp("Honda","What a savory smell...
+    MsgDisp("Honda","What a savoury smell...
 Is everything handmade?");
     MsgDisp("主人公","Yes, that's right.");
     ChEye(3,3);

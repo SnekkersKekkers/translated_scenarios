@@ -85,7 +85,7 @@ VoicePlay("G020120202_01_110");
 MsgDisp("Kazama","I might be at a disadvantage right now, but
 I'll figure something out.
 I have a reason why I can't back down.");
-MsgDisp("主人公","(I didn't realize that's how ｛Kazama＊＊｝
+MsgDisp("主人公","(I didn't realise that's how ｛Kazama＊＊｝
 thought of ｛Honda＊＊｝...)");
 BGMStop();
 MsgClose();

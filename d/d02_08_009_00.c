@@ -53,16 +53,16 @@ VoicePlay("D020800900_08_030");
 MsgDisp("Shirahane","I'm tired of bein' second place.
 Now I'm gonna be the real topdog.");
 MsgDisp("主人公","Are you talking about the entrance exam?
-But you're an honor student too so what does
+But you're an honour student too so what does
 that have to do with me...");
 VoicePlay("D020800900_08_040");
-MsgDisp("Shirahane","You're an honor student at Habataki and I'm
-an honor student at Hanegasaki.
+MsgDisp("Shirahane","You're an honour student at Habataki and I'm
+an honour student at Hanegasaki.
 ...Now do you get what I'm sayin?");
 MsgDisp("主人公","Yeah.
 But why so suddenly?");
 VoicePlay("D020800900_08_050");
-MsgDisp("Shirahane","I just realized.
+MsgDisp("Shirahane","I just realised.
 In order to be at your side, I need to become
 the perfect man.");
 MsgDisp("主人公","...Eh?");
@@ -105,7 +105,7 @@ Good luck!");
     VoicePlay("D020800900_08_110");
     MsgDisp("Shirahane","Thanks.
 Just knowin' that you're cheerin' me on makes
-me feel energized.");
+me feel energised.");
     MsgDisp("主人公","Hehe.");
     VoicePlay("D020800900_08_120");
     MsgDisp("Shirahane","So you're goin' to keep workin'.

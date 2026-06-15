@@ -27,7 +27,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("P840700001_07_020");
 MsgDisp("Mikage","Ohh, sorry, sorry.
-But, did you apologize properly?");
+But, did you apologise properly?");
 MsgDisp("主人公","Yes.");
 ChEye(7,0);
 ChMouth(7,0);

@@ -8,7 +8,7 @@ MsgDisp("Michiru","Ahh...that view of the night sky was
 beautiful. The story of the zodiac signs was
 also very romantic.");
 MsgDisp("主人公","Yeah.
-It was mesmerizing, wasn't it?");
+It was mesmerising, wasn't it?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

@@ -22,7 +22,7 @@ MsgDisp("Hiiragi","Hm, I had believed that the point here was to
 enjoy the atmosphere, rather than the
 taste... I suppose I was wrong...");
 MsgDisp("主人公","(Ugh...
-I should have checked the flavor more
+I should have checked the flavour more
 thoroughly...)");
 MsgClose();
 MsgClose();

@@ -6,7 +6,7 @@ ChMotion(3,3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040322202_03_000");
-MsgDisp("Honda","Seems like you can wear the armor and helmet
+MsgDisp("Honda","Seems like you can wear the armour and helmet
 and take a commemorative photo!");
 MsgSel("Yeah, let's do it!","Do they have a town girl outfit too?","It might be a bit embarrassing.");
 switch (MsgSelRsltGet()){
@@ -84,7 +84,7 @@ before.");
         ScrFadeIn(0);
         VoicePlay("B040322202_03_070");
         MsgDisp("Honda","...Yep yep, turns out this sort of picture is
-better than you in armor.");
+better than you in armour.");
         MsgClose();
         SEPlay("EV_SE_544");
         ChOpen(3,255,1,3,3,0,#1,0,0);

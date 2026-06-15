@@ -3,7 +3,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B020302136_03_000");
-MsgDisp("Honda","Those clothes, that color...
+MsgDisp("Honda","Those clothes, that colour...
 And even your accessories∋");
 MsgDisp("主人公","Hehe, I try to stay on top of the trends.");
 ChEye(3,3);

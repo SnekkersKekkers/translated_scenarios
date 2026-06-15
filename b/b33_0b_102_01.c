@@ -92,7 +92,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330B10201_01_040");
 MsgDisp("Kazama","Nanatsumori.
-I specialize in lure fishing so don't worry.");
+I specialise in lure fishing so don't worry.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

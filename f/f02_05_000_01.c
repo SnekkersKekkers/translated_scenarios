@@ -14,14 +14,14 @@ ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("F020500001_05_010");
 MsgDisp("Hiiragi","Since that's the first one that came to mind,
-it must be your favorite.");
+it must be your favourite.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("F020500001_05_020");
 MsgDisp("Hiiragi","Actually, I've been thinking about a new
 original production. I was wondering if I
 could use a Haba High legend as the basis.");
-MsgDisp("主人公","For the Habataki Theater Company?");
+MsgDisp("主人公","For the Habataki Theatre Company?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("F020500001_05_030");

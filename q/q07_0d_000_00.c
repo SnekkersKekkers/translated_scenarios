@@ -90,7 +90,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("Q070D00000_21_040");
-MsgDisp("Michiru","It seems it was modeled after a tall tower
+MsgDisp("Michiru","It seems it was modelled after a tall tower
 overseas.
 It was originally a church's bell.");
 MsgDisp("主人公","Huh, wow...!");
@@ -150,7 +150,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("Q070D00000_22_080");
-MsgDisp("Hikaru","It's as if we're traveling through time.
+MsgDisp("Hikaru","It's as if we're travelling through time.
 Retro...?");
 MsgDisp("主人公","Yeah, retro!");
 ChEye(21,0);

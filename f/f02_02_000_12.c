@@ -20,7 +20,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200012_02_010");
 MsgDisp("Sassa","When they're down to how many seconds or how
-many meters, they're a little too specific.");
+many metres, they're a little too specific.");
 MsgDisp("主人公","No, I still think it's amazing.");
 ChEye(2,0);
 ChMouth(2,4);

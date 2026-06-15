@@ -3,7 +3,7 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B020300002_03_000");
 MsgDisp("Honda","Whoa!
-That color is nice.");
+That colour is nice.");
 MsgDisp("主人公","Do you like it, too?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -12,5 +12,5 @@ VoicePlay("B020300002_03_010");
 MsgDisp("Honda","Bingo!
 Green has a relaxing effect.
 Today I can look at you and feel healed.");
-MsgDisp("主人公","(｛Honda＊＊｝ likes the color green.
+MsgDisp("主人公","(｛Honda＊＊｝ likes the colour green.
 I'll have to remember that.)");

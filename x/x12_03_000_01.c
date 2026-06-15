@@ -14,7 +14,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("X120300001_03_000");
-    MsgDisp("Honda","Ah, I like your usage of color here!");
+    MsgDisp("Honda","Ah, I like your usage of colour here!");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

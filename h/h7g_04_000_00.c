@@ -18,7 +18,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("H7G0400000_04_020");
 MsgDisp("Nanatsumori","Oh, how casual.
-As expected of the honor student.");
+As expected of the honour student.");
 MsgDisp("主人公","That's...");
 ChEye(4,0);
 ChMouth(4,3);

@@ -10,7 +10,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_420");
-MsgDisp("Nanatsumori","Modeling's fun and all, but do I really want
+MsgDisp("Nanatsumori","Modelling's fun and all, but do I really want
 to keep doing this forever?
 When I think about it... yeah.");
 ChEye(4,4);

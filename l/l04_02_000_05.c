@@ -94,7 +94,7 @@ S-Sorry...");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("L040200005_02_100");
-    MsgDisp("Sassa","Don't apologize.
+    MsgDisp("Sassa","Don't apologise.
 I'm just happy that you thought to make
 something for me.");
     ChEye(2,3);

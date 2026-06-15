@@ -23,7 +23,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("P740700005_07_020");
-MsgDisp("Mikage","But, that's to be expected. You mesmerized
+MsgDisp("Mikage","But, that's to be expected. You mesmerised
 everyone with your beauty, then in the end
 you feel flat on your face, huh?");
 ChEye(7,0);

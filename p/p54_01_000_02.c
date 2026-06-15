@@ -27,7 +27,7 @@ ChMotion(1,3);
 VoicePlay("P540100002_01_020");
 MsgDisp("Kazama","Yes, let me hear it again sometime soon.");
 MsgDisp("主人公","(｛Kazama＊＊｝ is happy.
-I'm so glad I practiced so carefully!)");
+I'm so glad I practised so carefully!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

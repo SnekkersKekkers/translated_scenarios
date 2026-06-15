@@ -37,7 +37,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040621300_06_030");
     MsgDisp("Himuro","I agree.
-It's so defenseless it makes you anxious.
+It's so defenceless it makes you anxious.
 We have to be careful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

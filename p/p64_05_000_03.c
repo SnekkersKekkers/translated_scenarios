@@ -12,7 +12,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P640500003_05_010");
-MsgDisp("Hiiragi","Yes, both the color and the form are
+MsgDisp("Hiiragi","Yes, both the colour and the form are
 considerably different to those on the
 market.");
 MsgDisp("主人公","Umm, well, they're a bit flimsy though...");
@@ -20,7 +20,7 @@ ChEyeOpenLevel(5,0);
 Wait(8,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("P640500003_05_020");
-MsgDisp("Hiiragi","Is the flavor nice?");
+MsgDisp("Hiiragi","Is the flavour nice?");
 MsgDisp("主人公","Umm, maybe...");
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);

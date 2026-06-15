@@ -39,13 +39,13 @@ ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("F100620000_03_020");
 MsgDisp("Honda","I called out to Nori-Kun, but he didn't
-realize, so I ran after him!");
+realise, so I ran after him!");
 ChEye(6,1);
 ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100620000_06_020");
-MsgDisp("Himuro","I ran away because I realized...");
+MsgDisp("Himuro","I ran away because I realised...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

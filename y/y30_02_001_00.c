@@ -16,7 +16,7 @@ MsgDisp("Track Club","\"Listen, this is the last year for
 the seniors. If you act like that
 after winning, the losers can't rest
 in peace.\"");
-MsgDisp("","It was the first time I realized
+MsgDisp("","It was the first time I realised
 that giving everything I had could
 make others feel bad...");
 MsgClear();

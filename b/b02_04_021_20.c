@@ -5,7 +5,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B020402120_04_000");
-MsgDisp("Nanatsumori","That's my modeling style.
+MsgDisp("Nanatsumori","That's my modelling style.
 Wild type.");
 MsgDisp("主人公","That's true, isn't it...
 Does it...

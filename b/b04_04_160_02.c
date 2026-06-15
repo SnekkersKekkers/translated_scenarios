@@ -100,14 +100,14 @@ There's no way that's true.");
         ChMouth(4,0);
         ChMotion(4,1,1);
         VoicePlay("B040416002_04_110");
-        MsgDisp("Nanatsumori","It's time you realize it.
+        MsgDisp("Nanatsumori","It's time you realise it.
 You're super attractive yourself.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040416002_04_120");
         MsgDisp("Nanatsumori","Even when we're on a date, I'm more worried
-about how defenseless you are than my true
+about how defenceless you are than my true
 identity being revealed.");
         ChEye(4,4);
         ChMouth(4,3);

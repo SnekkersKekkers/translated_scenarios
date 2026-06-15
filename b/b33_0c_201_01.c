@@ -26,7 +26,7 @@ ChMotion(5,4);
 VoicePlay("B330C20101_05_000");
 MsgDisp("Hiiragi","I can see why it's of great interest.
 It truly does look as though it is clad in
-armor.");
+armour.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

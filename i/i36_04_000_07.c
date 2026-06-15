@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Today, I have to deliver coffee and snacks
-to ｛Nanatsumori＊｝'s modeling agency.)");
+to ｛Nanatsumori＊｝'s modelling agency.)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -71,7 +71,7 @@ He seemed really happy!)");
     case 4:
     case 5:
     MsgDisp("主人公","(Today, I have to deliver coffee and snacks
-to ｛Nanatsumori＊｝'s modeling agency.)");
+to ｛Nanatsumori＊｝'s modelling agency.)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);

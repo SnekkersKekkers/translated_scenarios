@@ -86,7 +86,7 @@ their best.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("P830700002_07_070");
-    MsgDisp("Mikage","That's right, before I've realized, you've
+    MsgDisp("Mikage","That's right, before I've realised, you've
 become a wonderful young lady, haven't you?");
     ChEye(7,0);
     ChMouth(7,0);

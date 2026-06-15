@@ -27,7 +27,7 @@ delicious too.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040208400_02_020");
-    MsgDisp("Sassa","Well, it's colorful.");
+    MsgDisp("Sassa","Well, it's colourful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

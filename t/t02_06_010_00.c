@@ -42,7 +42,7 @@ had no time to spare...");
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_060");
-MsgDisp("Himuro","And that's when I first realized how
+MsgDisp("Himuro","And that's when I first realised how
 painful it is to chase after someone.");
 ChEye(6,2);
 ChMouth(6,0);

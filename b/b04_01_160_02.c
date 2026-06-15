@@ -76,7 +76,7 @@ from you, it'll be nothing.");
         ChEye(1,0);
         ChMouth(1,3);
         VoicePlay("B040116002_01_070");
-        MsgDisp("Kazama","Then let's start with some visualization
+        MsgDisp("Kazama","Then let's start with some visualisation
 training. Let's aim for a big one in
 \"fishing-fishing\" champ.");
         MsgClose();

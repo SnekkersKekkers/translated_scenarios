@@ -38,7 +38,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550300_05_040");
 MsgDisp("Hiiragi","How Inori-kun keeps everything on track, and
-Mikage-sensei's humor...");
+Mikage-sensei's humour...");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360550300_05_050");

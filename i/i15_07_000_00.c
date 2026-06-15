@@ -61,7 +61,7 @@ Are you looking for something?");
     ChMotion(7,0);
     VoicePlay("I150700000_07_050");
     MsgDisp("Mikage","I see, my bad.
-Then, I'll buy something to apologize.");
+Then, I'll buy something to apologise.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     MsgDisp("","　　　　　　　　　　 ・

@@ -37,7 +37,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630201_06_050");
 MsgDisp("Himuro","Well, I can at least manage minimal
-socializing.");
+socialising.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

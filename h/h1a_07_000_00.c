@@ -18,7 +18,7 @@ Thank you!");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("H1A0700000_07_010");
-    MsgDisp("Mikage","Aren't the fruits of your labor at managing
+    MsgDisp("Mikage","Aren't the fruits of your labour at managing
 the baseball club great, manager?");
     MsgDisp("主人公","I was just helping out.");
     ChEye(7,0);

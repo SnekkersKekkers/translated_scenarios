@@ -17,7 +17,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230101_02_020");
 MsgDisp("Sassa","I'm happy about it.
-It means everyone is recognizing your charm,
+It means everyone is recognising your charm,
 right?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -47,7 +47,7 @@ VoicePlay("G020230101_02_060");
 MsgDisp("Sassa","Alright, I need to make our time together
 even more meaningful.");
 MsgDisp("主人公","(It's true, I might have made more friends
-without realizing it...)");
+without realising it...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

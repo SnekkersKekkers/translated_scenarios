@@ -29,7 +29,7 @@ their might.");
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("B040723501_07_020");
-    MsgDisp("Mikage","I kind of sympathize with it.
+    MsgDisp("Mikage","I kind of sympathise with it.
 The whole, \"I curse you～\" sorta thing.
 I'm kind of the same way you know?");
     MsgDispSksp(1,0);

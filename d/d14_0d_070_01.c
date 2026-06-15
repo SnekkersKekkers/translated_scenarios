@@ -1,4 +1,4 @@
-MsgDisp("主人公","Hey, what made you guys start modeling?");
+MsgDisp("主人公","Hey, what made you guys start modelling?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

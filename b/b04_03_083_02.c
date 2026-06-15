@@ -82,7 +82,7 @@ right away too.)");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040308302_03_070");
-    MsgDisp("Honda","There are lots of different rumors huh.
+    MsgDisp("Honda","There are lots of different rumours huh.
 I think I'm getting the chills a bit.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

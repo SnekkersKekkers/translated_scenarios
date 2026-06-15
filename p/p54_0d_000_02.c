@@ -35,11 +35,11 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P540D00002_21_010");
-MsgDisp("Michiru","Maybe he would show off his rumored sexy
+MsgDisp("Michiru","Maybe he would show off his rumoured sexy
 dance, huh?");
 MsgDisp("主人公","(Yay!
 Looks like it went smoothly.
-But the rumored sexy dance...?)");
+But the rumoured sexy dance...?)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

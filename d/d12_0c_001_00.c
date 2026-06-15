@@ -30,7 +30,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, ｛Mikage＊＊｝...
 And ｛Himuro＊＊｝∋
-Uhm, is everyone practicing surfing?");
+Uhm, is everyone practising surfing?");
 StlEye(5,1);
 VoicePlay("D120C00100_05_010");
 MsgDisp("Hiiragi","Yes, when I said that I'd like to try riding

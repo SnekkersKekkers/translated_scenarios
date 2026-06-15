@@ -40,7 +40,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B150700500_07_050");
 MsgDisp("Mikage","There's no point in saying it to someone
-unaware and defenseless. I tried to get
+unaware and defenceless. I tried to get
 revenge, and this is what happens.");
 MsgDisp("主人公","｛Mikage＊＊｝, sorry.
 Did I go too far again?");

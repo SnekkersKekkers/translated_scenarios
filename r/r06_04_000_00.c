@@ -10,5 +10,5 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"A Lush Peach Gloss\")");
-MsgDisp("主人公","(What a cute color...
+MsgDisp("主人公","(What a cute colour...
 Ah, it smells like peach too!)");

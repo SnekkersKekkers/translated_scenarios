@@ -30,7 +30,7 @@ ChCheek(1,5);
 VoicePlay("B070100002_01_470");
 MsgDisp("Kazama","After all, we were born so close together,
 but were suddenly separated by 9000
-kilometers. And now we're this close again.");
+kilometres. And now we're this close again.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,4);

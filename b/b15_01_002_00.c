@@ -36,7 +36,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100200_01_040");
 MsgDisp("Kazama","If you break it...
-I'll return the favor three-fold, English
+I'll return the favour three-fold, English
 style.");
 MsgDisp("主人公","Three-fold∋
 ...Got it.");

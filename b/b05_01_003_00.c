@@ -104,7 +104,7 @@ ChEyeOpenLevel(1,#1);
 VoicePlay("B050100300_01_090");
 MsgDisp("Kazama","I'm really sorry.");
 MsgDisp("主人公","Eh.
-Why are you apologizing?");
+Why are you apologising?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -146,7 +146,7 @@ MsgDisp("Kazama","I truly am really sorry!");
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","(Why are you apologizing...∋)");
+MsgDisp("主人公","(Why are you apologising...∋)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -24,7 +24,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("Himuro","Yeah.
 ...My sense is being tested.");
     MsgDisp("主人公","Wouldn't it be easier if you decide on a
-flower as the center?");
+flower as the centre?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

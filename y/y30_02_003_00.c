@@ -16,7 +16,7 @@ challenge to come first in all events
 and win the championship.");
 MsgDisp("","I didn't listen to my track and field
 seniors, and just continued
-practicing in a way that I was
+practising in a way that I was
 satisfied with.");
 MsgClear();
 MsgDisp("","I insisted on doing it my way, but in

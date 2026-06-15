@@ -8,7 +8,7 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323200_03_000");
-MsgDisp("Honda","With a Ferris wheel, you really get to savor
+MsgDisp("Honda","With a Ferris wheel, you really get to savour
 both the view and the thrill.");
 MsgSel("We'll get to enjoy a beautiful view♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary..");
 switch (MsgSelRsltGet()){
@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040323200_03_010");
-    MsgDisp("Honda","Yep yep, it goes up to nearly 100 meters.
+    MsgDisp("Honda","Yep yep, it goes up to nearly 100 metres.
 You could even see Hanegasaki beach.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

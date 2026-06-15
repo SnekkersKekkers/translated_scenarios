@@ -11,7 +11,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300006_03_000");
 MsgDisp("Honda","Yep-yep.
-I wonder if we'll start practicing soon.");
+I wonder if we'll start practising soon.");
 MsgDisp("主人公","You sure look happy about that, don't you?");
 ChMotion(3,4);
 VoicePlay("F020300006_03_010");

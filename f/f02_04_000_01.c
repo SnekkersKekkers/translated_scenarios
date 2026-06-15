@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("F020400001_04_000");
 MsgDisp("Nanatsumori","Apparently, there's a legendary church on the
 Haba High campus.
-And a handful of rumors surrounding it.");
+And a handful of rumours surrounding it.");
 VoicePlay("F020400001_04_010");
 MsgDisp("Nanatsumori","One is the prince and princess story.
 The prince returns from his journey to find

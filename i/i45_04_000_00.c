@@ -73,7 +73,7 @@ naturally went to the plate.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("I450400000_04_080");
-    MsgDisp("Nanatsumori","The color and presentation is good, too.
+    MsgDisp("Nanatsumori","The colour and presentation is good, too.
 This could just be sold as is.
 You're really into this, huh?");
     MsgClose();
@@ -102,7 +102,7 @@ Good work.");
     VoicePlay("I450400000_04_100");
     MsgDisp("Nanatsumori","...Smells nice.");
     MsgDisp("主人公","Really?
-Ah, I was organizing the potpourri earlier.
+Ah, I was organising the potpourri earlier.
 Maybe that's why?");
     ChEye(4,0);
     ChMouth(4,0);

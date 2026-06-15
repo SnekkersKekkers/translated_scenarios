@@ -42,7 +42,7 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700001_07_390");
 MsgDisp("Mikage","Inori talks as if it's only natural that he
-knows your favorite school subject and
+knows your favourite school subject and
 cafeteria menu item.");
 ChEye(7,0);
 ChMouth(7,0);

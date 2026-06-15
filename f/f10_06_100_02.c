@@ -49,14 +49,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100610002_06_050");
-MsgDisp("Himuro","\"There's this rumor going around, do you know
+MsgDisp("Himuro","\"There's this rumour going around, do you know
 anything about it?\"
 And then—");
 BGMStop(0.6);
 Wait(30,0);
 VoicePlay("F100610002_32_000");
 MsgDisp("VP Himuro?","So it was you and your Father who spread that
-absurd rumor?
+absurd rumour?
 Himuro Inori.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 ChPosition(6,1);

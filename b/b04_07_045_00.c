@@ -3,7 +3,7 @@ ChLayout(1);
 ChOpen(7,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040704500_07_000");
-MsgDisp("Mikage","As expected, this is the citizen theater
+MsgDisp("Mikage","As expected, this is the citizen theatre
 troupe that Habataki City can be proud of.");
 MsgSel("It doesn't seem like I can return to reality...","The stage decorations are pretty. ","I'll give them a tip");
 switch (MsgSelRsltGet()){

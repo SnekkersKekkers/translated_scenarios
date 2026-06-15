@@ -54,7 +54,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C30600_07_010");
-MsgDisp("Mikage","Could this be used in a Habataki Theater
+MsgDisp("Mikage","Could this be used in a Habataki Theatre
 Company performance?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -85,7 +85,7 @@ ChMotion(5,4);
 VoicePlay("B330C30600_05_030");
 MsgDisp("Hiiragi","Yeah, I see...");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is always thinking of
-theater...It would be nice if he found
+theatre...It would be nice if he found
 some new inspiration for his plays when we
 all go out together...)");
 MsgClose();

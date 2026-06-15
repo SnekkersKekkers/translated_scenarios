@@ -35,7 +35,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200602_02_020");
 MsgDisp("Sassa","｛主人公｝, thanks to you, I've been able to
-practice to my fullest these days.");
+practise to my fullest these days.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

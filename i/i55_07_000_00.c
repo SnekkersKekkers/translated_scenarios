@@ -122,7 +122,7 @@ fruit filling?");
     MsgDisp("Mikage","Hm, do you have anything with a longer shelf
 life?");
     MsgDisp("主人公","Then...how about this assortment of yokan?
-It's fun trying all the different flavors.");
+It's fun trying all the different flavours.");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,0);

@@ -11,7 +11,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","What a pretty color...");
+MsgDisp("主人公","What a pretty colour...");
 ChEye(5,4);
 VoicePlay("B140500100_05_000");
 MsgDisp("Hiiragi","Yes.

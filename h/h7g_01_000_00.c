@@ -41,7 +41,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("H7G0100000_01_050");
 MsgDisp("Kazama","Anyways, good for you.
-It means that a lot of people recognized your
+It means that a lot of people recognised your
 work, right?");
 ChEye(1,0);
 ChMouth(1,3);

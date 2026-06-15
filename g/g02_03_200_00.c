@@ -15,7 +15,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320000_03_020");
-MsgDisp("Honda","If I'm wrong, I apologize.
+MsgDisp("Honda","If I'm wrong, I apologise.
 But isn't there someone you're closer to than
 me? Am I wrong?");
 ChMouth(3,3);

@@ -79,7 +79,7 @@ you!");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300005_03_100");
-    MsgDisp("Honda","Then, I'll savor this, okay?
+    MsgDisp("Honda","Then, I'll savour this, okay?
 Thanks!");
     MsgDisp("主人公","(...?
 I wonder if there was something in it that he

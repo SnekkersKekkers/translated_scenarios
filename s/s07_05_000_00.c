@@ -18,7 +18,7 @@ the New Year.");
 Our shows are the same way.
 I consider it a good luck charm.");
     MsgDisp("主人公","(As expected of the Chairman.
-I hope the theater company will be successful
+I hope the theatre company will be successful
 again this year.)");
     break ;
     case 3:

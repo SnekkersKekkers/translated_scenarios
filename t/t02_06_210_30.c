@@ -17,7 +17,7 @@ VoicePlay("T020621000_06_380");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","You don't have to apologize.
+MsgDisp("Himuro","You don't have to apologise.
 I already had a feeling about it anyway,
 deep down...");
 VoicePlay("T020621000_06_390");

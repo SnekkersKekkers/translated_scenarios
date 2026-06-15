@@ -24,7 +24,7 @@ ChMotion(6,3);
 VoicePlay("P540600001_06_020");
 MsgDisp("Himuro","It's simply a lack of practice.
 Well, this is a good experience.");
-MsgDisp("主人公","(I should have practiced more...)");
+MsgDisp("主人公","(I should have practised more...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

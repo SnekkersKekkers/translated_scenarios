@@ -7,7 +7,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040110400_01_000");
 MsgDisp("Kazama","So this is the world of butterflies...");
-MsgSel("They have such beautiful colors","They might be a little scary if they were big","They're traveling butterflies.");
+MsgSel("They have such beautiful colours","They might be a little scary if they were big","They're travelling butterflies.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -41,7 +41,7 @@ C'mon, let's get a better look.");
     ChMouth(1,0);
     ChMotion(1,2);
     VoicePlay("B040110400_01_030");
-    MsgDisp("Kazama","1300 kilometers is amazingly far...
+    MsgDisp("Kazama","1300 kilometres is amazingly far...
 How much stamina do they have?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

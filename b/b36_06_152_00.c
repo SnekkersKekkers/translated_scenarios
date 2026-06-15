@@ -67,7 +67,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B360615200_06_090");
-MsgDisp("Himuro","I'll sink one right in the center, so watch
+MsgDisp("Himuro","I'll sink one right in the centre, so watch
 closely.");
 MsgDisp("主人公","Hehe, yeah...!");
 BGMStop();

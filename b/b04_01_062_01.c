@@ -5,7 +5,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040106201_01_000");
-MsgDisp("Kazama","It's always such a pretty blue color.");
+MsgDisp("Kazama","It's always such a pretty blue colour.");
 MsgSel("It might be even more beautiful if you dive","Let's ride a boat and start rowing","Do you want to touch the water?");
 switch (MsgSelRsltGet()){
     case 0:

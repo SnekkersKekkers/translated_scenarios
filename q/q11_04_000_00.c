@@ -29,7 +29,7 @@ Thank you so much!");
 ChEye(4,0);
 ChMotion(4,1,1);
 VoicePlay("Q110400000_04_030");
-MsgDisp("Nanatsumori","I got one in a different color, too.
+MsgDisp("Nanatsumori","I got one in a different colour, too.
 What do you think?");
 MsgDisp("主人公","It's great!");
 ChEye(4,3);

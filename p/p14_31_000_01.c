@@ -14,7 +14,7 @@ VoicePlay("P143100001_31_010");
 MsgDisp("Goro","Goal?
 This is the goal?
 Did I start something?");
-MsgDisp("主人公","(Seems like he completely didn't even realize
+MsgDisp("主人公","(Seems like he completely didn't even realise
 it was a maze.
 A huge fail...)");
 MsgClose();

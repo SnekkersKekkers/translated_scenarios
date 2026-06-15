@@ -8,7 +8,7 @@ MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow!
-The mix of colors is so beautiful!");
+The mix of colours is so beautiful!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1,1);

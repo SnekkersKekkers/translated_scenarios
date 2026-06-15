@@ -109,7 +109,7 @@ I'll be intruding for a bit.");
 suddenly came to my mind, and-");
     ChMotion(5,0);
     VoicePlay("I150500000_05_130");
-    MsgDisp("Hiiragi","Before I realized, I was here.");
+    MsgDisp("Hiiragi","Before I realised, I was here.");
     MsgDisp("主人公","Um...");
     ChEye(5,3);
     VoicePlay("I150500000_05_140");

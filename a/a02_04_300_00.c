@@ -19,7 +19,7 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_000");
 MsgDisp("Nanatsumori?","Ah, it's alright.
-I've got a favorite spot.");
+I've got a favourite spot.");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -210,8 +210,8 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("A020430000_04_170");
-MsgDisp("Nanatsumori","It's worse if you apologize...
-Realizing I just shot myself in the foot like
+MsgDisp("Nanatsumori","It's worse if you apologise...
+Realising I just shot myself in the foot like
 an idiot.");
 MsgDisp("主人公","｛Nanatsumori＊｝, is it possible that you're
 keeping your model identity a secret from
@@ -264,7 +264,7 @@ ChClose(4);
 SEPlay("EV_SE_DOOR_014");
 Wait(50,0);
 MsgDisp("主人公","(Now that I think of it, there's a famous
-modeling agency right around the corner,
+modelling agency right around the corner,
 isn't there?)");
 SEStop("EV_SE_DOOR_014",1);
 MsgDisp("主人公","(｛Nanatsumori＊｝ must work as NANA at that

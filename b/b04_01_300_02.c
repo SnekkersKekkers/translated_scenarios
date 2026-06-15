@@ -7,7 +7,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B040130002_01_000");
-MsgDisp("Kazama","It feels like we've traveled back in time,
+MsgDisp("Kazama","It feels like we've travelled back in time,
 right? Nothing has changed about this room
 after all.");
 MsgSel("This doesn't feel like an elementary schooler's room.","I think I remember that hat","Ryota is written next to that desk, right?");
@@ -102,7 +102,7 @@ What am I even saying...");
         VoicePlay("B040130002_01_090");
         MsgDisp("Kazama","I take back what I said about time travel.
 This room is completely different now.
-You being here made me realize that.");
+You being here made me realise that.");
         MsgDisp("主人公","Me?");
         ChEye(1,0);
         ChMouth(1,2);
@@ -117,7 +117,7 @@ feelings I never had as a kid.");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040130002_01_110");
-        MsgDisp("Kazama","You're not just the cute neighborhood girl
+        MsgDisp("Kazama","You're not just the cute neighbourhood girl
 who used to be my friend anymore.");
         MsgDisp("主人公","I'm now—");
         ChEye(1,1);

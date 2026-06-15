@@ -8,7 +8,7 @@ ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("D140C06000_06_000");
 MsgDisp("Himuro","Looks like Yanosuke-senpai has work with the
-theater troupe.");
+theatre troupe.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

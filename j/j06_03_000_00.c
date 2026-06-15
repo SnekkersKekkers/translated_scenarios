@@ -134,7 +134,7 @@ rejection.");
         ChMouth(3,4);
         ChMotion(3,1);
         VoicePlay("J060300000_03_120");
-        MsgDisp("Honda","No, you don't have to apologize!
+        MsgDisp("Honda","No, you don't have to apologise!
 I'm sorry too.");
         ChEye(3,0);
         ChMouth(3,0);

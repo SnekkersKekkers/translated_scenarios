@@ -26,7 +26,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20500_05_000");
-MsgDisp("Hiiragi","Yes, it landed in the center all three times.");
+MsgDisp("Hiiragi","Yes, it landed in the centre all three times.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

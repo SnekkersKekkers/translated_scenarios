@@ -15,7 +15,7 @@ ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("P840500001_05_010");
 MsgDisp("Hiiragi","I see. Then it's inevitable they would take
-offense to that.");
+offence to that.");
 MsgDisp("主人公","Eh?
 What's wrong?");
 ChMouth(5,4);
@@ -32,7 +32,7 @@ ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("P840500001_05_030");
-MsgDisp("Hiiragi","I sincerely apologized, and I think they
+MsgDisp("Hiiragi","I sincerely apologised, and I think they
 understood, but I'm guessing it's an
 unpleasant memory.");
 MsgDisp("主人公","(Sigh...a huge fail...)");

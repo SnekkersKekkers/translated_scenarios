@@ -29,7 +29,7 @@ have her moment in the spotlight.");
 MsgClear();
 VoicePlay("Y300700200_45_000");
 MsgDisp("Girl B","\"No way, is the school play going to
-be canceled...?\"");
+be cancelled...?\"");
 MsgDisp("","The quiet voices of the female
 students rippled across the
 classroom.");
@@ -41,10 +41,10 @@ VoicePlay("Y300700200_07_010");
 MsgDisp("Mikage","\"Everyone prepared for this right?
 Don't give up so easily.\"");
 MsgDisp("","\"Even if you say that, Mikagecchi\"
-\"We can't just memorize the lines
+\"We can't just memorise the lines
 now\"");
 MsgDisp("","The students said that all at once.
-It's a matter of memorizing the
+It's a matter of memorising the
 lines...");
 MsgClear();
 MsgDisp("主人公","\"Um, ｛Mikage＊＊｝...You

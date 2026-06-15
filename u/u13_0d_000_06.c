@@ -85,7 +85,7 @@ Mari.");
     StlCheek(22,0);
     VoicePlay("U130D00006_22_040");
     MsgDisp("Hikaru","Hikaru was really surprised.
-His usual delinquent behavior is a facade.
+His usual delinquent behaviour is a facade.
 Deep down he's quite serious, right?");
     StlEye(21,2);
     StlMouth(21,0);

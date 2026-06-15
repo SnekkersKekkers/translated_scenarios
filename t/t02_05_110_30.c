@@ -5,7 +5,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("T020511030_05_000");
-MsgDisp("Hiiragi","Please don't apologize");
+MsgDisp("Hiiragi","Please don't apologise");
 BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 ChEye(5,4);
 ChMotion(5,0);

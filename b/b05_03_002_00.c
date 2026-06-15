@@ -45,7 +45,7 @@ StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("B050300200_03_040");
 MsgDisp("Honda","It's simple to make one using some black
-construction paper, a flashlight, and colored
+construction paper, a flashlight, and coloured
 cellophane sheets.");
 StlEye(3,0);
 StlMouth(3,0);
@@ -97,7 +97,7 @@ ChMotion(3,1);
 VoicePlay("B050300200_03_110");
 MsgDisp("Honda","Yeah.
 My sister really liked it, so we had fun
-memorizing the stars.");
+memorising the stars.");
 MsgDisp("主人公","That experience shaped who ｛Honda＊＊｝ is
 today, huh?");
 ChEye(3,0);

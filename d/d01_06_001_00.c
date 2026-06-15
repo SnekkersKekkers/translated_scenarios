@@ -64,7 +64,7 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("D010600100_06_040");
 MsgDisp("Himuro","Did you expect me to eat some healthy,
-nutritionally balanced meal like a good honor
+nutritionally balanced meal like a good honour
 student?");
 MsgDisp("主人公","I did.");
 StlEye(6,0,0);

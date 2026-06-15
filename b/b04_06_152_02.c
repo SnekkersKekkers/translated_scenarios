@@ -64,7 +64,7 @@ Then, do you have any requests?");
         ChMotion(6,0);
         VoicePlay("B040615202_06_050");
         MsgDisp("Himuro","Like getting a bullseye for example.");
-        MsgDisp("主人公","The bullseye is the center right?
+        MsgDisp("主人公","The bullseye is the centre right?
 Amazing!");
         ChEye(6,0);
         ChMouth(6,4);

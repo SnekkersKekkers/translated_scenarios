@@ -34,7 +34,7 @@ I see, sorry.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I150400000_04_030");
-    MsgDisp("Nanatsumori","Nah, you don't need to apologize, but...
+    MsgDisp("Nanatsumori","Nah, you don't need to apologise, but...
 Good luck with work.
 See you.");
     MsgClose();

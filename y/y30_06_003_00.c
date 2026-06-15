@@ -48,7 +48,7 @@ BGOpen("ad631",0);
 ScrFadeIn(0);
 VoicePlay("Y300600300_06_000");
 MsgDisp("Himuro","\"Sigh...\"");
-MsgDisp("","Before I realized, the third day of
+MsgDisp("","Before I realised, the third day of
 the school trip was drawing to a
 close.");
 MsgDisp("","I think back to the schedule she was

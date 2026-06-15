@@ -88,7 +88,7 @@ I see...");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("J040300000_03_070");
-        MsgDisp("Honda","Don't apologize.
+        MsgDisp("Honda","Don't apologise.
 I'm the one who got my hopes up.");
         ChEye(3,3);
         ChMouth(3,3);

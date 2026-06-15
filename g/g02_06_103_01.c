@@ -43,7 +43,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,0);
 VoicePlay("G020610301_06_060");
-MsgDisp("Himuro","Could you not apologize?
+MsgDisp("Himuro","Could you not apologise?
 I know I'm just taking it out on you.");
 ChEye(6,0);
 ChMouth(6,0);

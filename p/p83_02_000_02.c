@@ -13,7 +13,7 @@ The smell of the yakisoba stand next door
 quite strong, it's bothering us....");
     MsgDisp("主人公","Eh?");
     VoicePlay("P830200002_48_010");
-    MsgDisp("School Girl","It's ruining the flavor of our matcha stand.");
+    MsgDisp("School Girl","It's ruining the flavour of our matcha stand.");
     MsgDisp("主人公","Ah, yes.
 Please avoid complaining to them directly.
 Management will talk to them.");
@@ -60,7 +60,7 @@ The smell of the yakisoba stand next door
 quite strong, it's bothering us....");
     MsgDisp("主人公","Eh?");
     VoicePlay("P830200002_48_040");
-    MsgDisp("School Girl","It's ruining the flavor of our matcha stand.");
+    MsgDisp("School Girl","It's ruining the flavour of our matcha stand.");
     MsgDisp("主人公","Ah, yes.
 Please avoid complaining to them directly.
 Management will talk to them.");

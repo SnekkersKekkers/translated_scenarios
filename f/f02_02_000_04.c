@@ -43,7 +43,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200004_02_040");
 MsgDisp("Sassa","Does it? I also like to track my minutes and
-meters from year to year.
+metres from year to year.
 It's nice to feel like you've grown up.");
 ChEye(2,0);
 ChMouth(2,4);

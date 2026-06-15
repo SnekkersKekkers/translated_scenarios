@@ -30,7 +30,7 @@ ChEye(5,2);
 ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("B150500500_05_040");
-MsgDisp("Hiiragi","The cat we raised at the theater company I
+MsgDisp("Hiiragi","The cat we raised at the theatre company I
 told you about once, ran away from home
 because I bothered him too much.");
 ChMotion(5,4);

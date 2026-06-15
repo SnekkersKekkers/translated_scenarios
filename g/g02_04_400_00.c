@@ -25,7 +25,7 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("G020440000_04_040");
 MsgDisp("Nanatsumori","I don't think I would have attended if I
-wasn't scouted by a modeling agency in
+wasn't scouted by a modelling agency in
 Habataki City when I was in middle school.");
 MsgDisp("主人公","Really?");
 ChMotion(4,0,1);

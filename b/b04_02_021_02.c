@@ -44,7 +44,7 @@ one of them is different.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040202102_02_040");
-        MsgDisp("Sassa","Even though they differ in color and shape,
+        MsgDisp("Sassa","Even though they differ in colour and shape,
 they are spread out evenly and create a sense
 of unity.");
         MsgDisp("主人公","That big brick looks kind of like

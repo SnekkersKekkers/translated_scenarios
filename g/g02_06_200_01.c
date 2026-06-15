@@ -25,7 +25,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620001_06_030");
-MsgDisp("Himuro","You seriously don't realize it?");
+MsgDisp("Himuro","You seriously don't realise it?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);

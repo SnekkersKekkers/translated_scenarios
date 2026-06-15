@@ -37,7 +37,7 @@ is amazing.");
     VoicePlay("B040506200_05_030");
     MsgDisp("Hiiragi","Yes, it's a deep indigo blue.
 Or maybe it's closer to purple.
-I like this color.");
+I like this colour.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

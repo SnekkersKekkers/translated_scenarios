@@ -55,7 +55,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010420200_05_040");
-MsgDisp("Hiiragi","They're consumables for the theater company,
+MsgDisp("Hiiragi","They're consumables for the theatre company,
 so I can't be too picky.
 It's a big help.");
 ChEye(4,5);

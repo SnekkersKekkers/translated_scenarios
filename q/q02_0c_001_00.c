@@ -111,7 +111,7 @@ I'm also sorry.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("Q020C00100_07_060");
-    MsgDisp("Mikage","C'mon, why are you apologizing.
+    MsgDisp("Mikage","C'mon, why are you apologising.
 Look, it's a free period, so be free!");
     ChEye(5,4);
     ChMouth(5,4);

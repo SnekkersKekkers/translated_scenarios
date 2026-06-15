@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040402201_04_010");
     MsgDisp("Nanatsumori","Yeah.
 Looks like we can enjoy a whole world of
-colors until the sun sinks below the horizon.");
+colours until the sun sinks below the horizon.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

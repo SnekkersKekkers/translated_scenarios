@@ -39,7 +39,7 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700001_07_490");
 MsgDisp("Mikage","I think those guys know it too.
-Yanosuke never talks about theater does he?");
+Yanosuke never talks about theatre does he?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

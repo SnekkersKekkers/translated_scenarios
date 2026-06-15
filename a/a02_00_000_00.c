@@ -21,7 +21,7 @@ SEPlay("EV_SE_083")BGOpen("ui000",0);
 Wait(30,0);
 MsgDisp("主人公","This pen is so cute!
 I really love the \"pinwheel\" pattern.
-Totally my favorite now!");
+Totally my favourite now!");
 BGOpen("fp720",0);
 SEPlay("EV_SE_043");
 Wait(50,0);

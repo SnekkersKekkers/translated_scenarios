@@ -38,7 +38,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120201_01_050");
 MsgDisp("Kazama","The fact that it was him and not someone the
-same year as us made me realize that I'd
+same year as us made me realise that I'd
 gotten it wrong.");
 ChEye(1,0);
 ChMouth(1,2);

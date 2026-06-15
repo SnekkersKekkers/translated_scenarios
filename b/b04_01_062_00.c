@@ -36,7 +36,7 @@ because it's deep?");
     ChMotion(1,0,1);
     VoicePlay("B040106200_01_030");
     MsgDisp("Kazama","Yeah, it looks like a pretty sapphire.
-Colored stones are rare, and deep blue ones
+Coloured stones are rare, and deep blue ones
 are especially gorgeous.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

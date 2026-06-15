@@ -4,7 +4,7 @@ BGOpen("ad730",0);
 ScrFadeIn(0);
 VoicePlay("Y300700300_07_000");
 MsgDisp("Mikage","\"I'll plant it here. I wonder what
-color the tulip will bloom into. I'm
+colour the tulip will bloom into. I'm
 looking forward to it.\"");
 MsgDisp("","The Gardening Club's farming corner.
 We planted Nagasaki's specialty bulb.");
@@ -61,7 +61,7 @@ MsgDisp("主人公","\"I'll plant them next to
 ｛Mikage＊＊｝'s bulbs.\"");
 VoicePlay("Y300700300_07_030");
 MsgDisp("Mikage","\"Uh-huh. When they bloom, we can tell
-our fortunes based on the color of
+our fortunes based on the colour of
 the flowers.\"");
 MsgDisp("主人公","\"Hehe!
 Yes, I look forward to it.\"");
@@ -72,7 +72,7 @@ MsgDisp("Mikage","\"That's the warning bell.
 The afternoon lessons are starting.\"");
 SEStop("EV_SE_SCHOOL_001",4);
 MsgClear();
-MsgDisp("","In tulip fortune-telling, each color
+MsgDisp("","In tulip fortune-telling, each colour
 has its own meaning in the language
 of flowers.");
 MsgDisp("","I cheated a little, and gave Miss

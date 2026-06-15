@@ -44,7 +44,7 @@ It can't be helped, I'll go home alone.)");
     ChMotion(5,0);
     VoicePlay("F010500006_05_030");
     MsgDisp("Hiiragi","I have to attend a meeting today.
-I apologize for the trouble.");
+I apologise for the trouble.");
     MsgDisp("主人公","Okay...
 That's unfortunate.");
     ChMouth(5,4);

@@ -55,7 +55,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("D140C05100_07_020");
 MsgDisp("Mikage","I understand how Inori feels. In times like
-this, isn't it best for the cozy pair to
+this, isn't it best for the cosy pair to
 provide us with a conversation topic?");
 ChEye(6,0);
 ChMouth(6,3);

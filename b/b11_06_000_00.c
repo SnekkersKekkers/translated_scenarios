@@ -64,7 +64,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B110600000_06_040");
 MsgDisp("Himuro","Stalking and blocking someone's path is a
-clear criminal offense.");
+clear criminal offence.");
 MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);

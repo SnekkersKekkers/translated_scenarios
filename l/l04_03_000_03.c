@@ -21,7 +21,7 @@ I feel a little bad.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300003_03_020");
-    MsgDisp("Honda","But, I'll savor every bite.
+    MsgDisp("Honda","But, I'll savour every bite.
 Thank you!");
     MsgDisp("主人公","(It was worth the effort to make this
 myself.)");
@@ -89,7 +89,7 @@ speechless. Weird, huh?");
     VoicePlay("L040300003_03_110");
     MsgDisp("Honda","Yeah, definitely!
 Thank you so much!
-I'll savor it, okay?");
+I'll savour it, okay?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5);

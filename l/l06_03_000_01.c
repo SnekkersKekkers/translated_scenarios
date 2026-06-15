@@ -12,7 +12,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("L060300001_03_010");
-MsgDisp("Honda","I thought I'd return the favor for
+MsgDisp("Honda","I thought I'd return the favour for
 Valentine's Day, so here!");
 SEPlay("EV_SE_664");
 SEWait();

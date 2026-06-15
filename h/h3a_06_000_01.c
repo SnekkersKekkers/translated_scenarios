@@ -53,7 +53,7 @@ Because I know just how hard you worked.");
     ChMotion(6,0);
     VoicePlay("H3A0600001_06_050");
     MsgDisp("Himuro","I just don't think you should make that face.
-It's an honor just to make it on that stage.");
+It's an honour just to make it on that stage.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);

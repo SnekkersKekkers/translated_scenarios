@@ -138,7 +138,7 @@ ChMotion(2,4);
 VoicePlay("T020200000_02_180");
 MsgDisp("Sassa","My records aren't improving at all. I
 don't know why. I've been thinking about
-it, and watching my juniors practice...");
+it, and watching my juniors practise...");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -154,7 +154,7 @@ to run in the suit, but you still got a
 good time, right?");
 MsgDisp("主人公","Hehe.
 It's been a while since we were able to
-practice together.");
+practise together.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

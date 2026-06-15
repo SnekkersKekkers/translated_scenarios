@@ -26,7 +26,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("D140C03000_05_000");
-MsgDisp("Hiiragi","I eat with my family and the theater troupe.");
+MsgDisp("Hiiragi","I eat with my family and the theatre troupe.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -87,7 +87,7 @@ ChMotion(7,5);
 VoicePlay("D140C03000_07_040");
 MsgDisp("Mikage","Ooh.
 Yanosuke, are you letting me join Habataki
-theater troupe too?");
+theatre troupe too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

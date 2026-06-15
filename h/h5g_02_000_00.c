@@ -46,6 +46,6 @@ ChClose(2);
 SEWait();
 MsgDisp("主人公","Thank you, ｛Sassa＊＊｝.");
 MsgDisp("主人公","(That makes me happy...
-I'm glad I practiced so hard for brass band!)");
+I'm glad I practised so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

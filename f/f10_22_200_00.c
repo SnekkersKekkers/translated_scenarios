@@ -60,7 +60,7 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F102220000_22_030");
 MsgDisp("Hikaru","Well, he is a Habataki Alumnus.
-So maybe that makes him an authorized
+So maybe that makes him an authorised
 person～?");
 MsgDisp("主人公","((I heard that Goro-sensei knows the Haba
 High School principal... maybe he came to see

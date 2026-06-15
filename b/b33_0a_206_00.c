@@ -27,7 +27,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A20600_02_000");
 MsgDisp("Sassa","Amazing—!
-I really empathized with him!");
+I really empathised with him!");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);

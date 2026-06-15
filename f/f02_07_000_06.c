@@ -28,7 +28,7 @@ VoiceEVSPlay(7);
 VoicePlay("F020700006_07_020");
 MsgDisp("Mikage","｛主人公｝, go all out and try to win all the
 events.");
-MsgDisp("主人公","So you're not organizing it, but you intend
+MsgDisp("主人公","So you're not organising it, but you intend
 on participating?");
 ChEye(7,0);
 ChMouth(7,0);

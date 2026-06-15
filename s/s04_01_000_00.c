@@ -92,7 +92,7 @@ What should I do?)");
 It's crowded, anyway.");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("S040100000_01_110");
-        MsgDisp("Kazama","Don't apologize.
+        MsgDisp("Kazama","Don't apologise.
 You'll make me feel like I got rejected.
 See you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");

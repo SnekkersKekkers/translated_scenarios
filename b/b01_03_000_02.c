@@ -65,7 +65,7 @@ up here early.");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B010300002_03_060");
-    MsgDisp("Honda","But then, as I got here early, I realized
+    MsgDisp("Honda","But then, as I got here early, I realised
 there was no point in being the only one here
 already.");
     MsgDisp("主人公","Hehe.

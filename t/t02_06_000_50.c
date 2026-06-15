@@ -18,7 +18,7 @@ VoicePlay("T020600000_06_500");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
-MsgDisp("Himuro","You still don't realize it?");
+MsgDisp("Himuro","You still don't realise it?");
 MsgDisp("主人公","Eh, that...");
 VoicePlay("T020600000_06_510");
 ChEye(6,4);

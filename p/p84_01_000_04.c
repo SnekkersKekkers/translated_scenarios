@@ -3,7 +3,7 @@ ChClose(1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","From now on, please be careful.");
 VoicePlay("P840100004_39_000");
-MsgDisp("Student A","I apologize for the inconvenience...");
+MsgDisp("Student A","I apologise for the inconvenience...");
 VoicePlay("P840100004_41_010");
 MsgDisp("Student B","We're very sorry...");
 MsgDisp("主人公","Phew, I'm glad that was resolved without

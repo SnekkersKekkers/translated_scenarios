@@ -10,7 +10,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P040200000_02_010");
-MsgDisp("Sassa","Yeah, it's savory.
+MsgDisp("Sassa","Yeah, it's savoury.
 I could eat these forever.");
 MsgDisp("主人公","Yay!");
 ChEye(2,3);

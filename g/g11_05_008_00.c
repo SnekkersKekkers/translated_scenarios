@@ -36,7 +36,7 @@ them. I like sitting here doing student
 council work.");
 MsgDisp("主人公","I see.
 Isn't it difficult when you're also busy with
-the theater company?");
+the theatre company?");
 SEStop("EV_SE_712",0);
 ChMotion(5,2);
 VoicePlay("G110500800_05_030");

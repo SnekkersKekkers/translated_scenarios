@@ -65,7 +65,7 @@ VoicePlay("A020410000_04_060");
 MsgDisp("Nanatsumori?","Not really.
 It's pretty common, I think.");
 MsgDisp("主人公","But it's the exact same.
-Here, even the color is the same.
+Here, even the colour is the same.
 The stones are in the exact same order!");
 MsgClose();
 ScrFadeOut(0);

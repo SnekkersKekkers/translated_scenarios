@@ -26,7 +26,7 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310200_03_040");
-MsgDisp("Honda","But after she asked, I realized I don't want
+MsgDisp("Honda","But after she asked, I realised I don't want
 things to stay the same.
 I want to get closer to you.");
 ChEye(3,0);

@@ -12,7 +12,7 @@ BGMPlay("BGM_C05_HIIRAGI_A");
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("K020500001_05_000");
 MsgDisp("Hiiragi","Good evening.
-I apologize for the surprise.");
+I apologise for the surprise.");
 MsgDisp("主人公","No, it's fine.
 What is it?");
 ChEye(5,2);
@@ -41,7 +41,7 @@ ChMotion(5,0);
 VoicePlay("K020500001_05_040");
 MsgDisp("Hiiragi","With this, I can see you at school without
 worries.
-I apologize for intruding.");
+I apologise for intruding.");
 MsgClose();
 SEPlay("EV_SE_DOOR_022");
 SEWait();

@@ -3,7 +3,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B020600002_06_000");
 MsgDisp("Himuro","Oh...
-That's a nice color.");
+That's a nice colour.");
 MsgDisp("主人公","Hmm, you mean this black?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -12,5 +12,5 @@ VoicePlay("B020600002_06_010");
 MsgDisp("Himuro","Yeah.
 It makes everything look well-balanced.
 I wear it a lot too.");
-MsgDisp("主人公","(｛Himuro＊＊｝ likes the color black.
+MsgDisp("主人公","(｛Himuro＊＊｝ likes the colour black.
 I'll have to remember that.)");

@@ -16,7 +16,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B020102100_01_020");
-MsgDisp("Kazama","Just do me a favor and don't go drawing in
+MsgDisp("Kazama","Just do me a favour and don't go drawing in
 any weirdos.
 Shooing them away is a pain.");
 MsgDisp("主人公","(I'm glad!

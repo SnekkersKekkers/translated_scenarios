@@ -16,7 +16,7 @@ ChMotion(1,1);
 VoicePlay("P240101000_01_000");
 MsgDisp("Kazama","How is it holding up?
 The pumpkin carriage we painstakingly put our
-labor into.");
+labour into.");
 MsgDisp("主人公","Yeah, seems fine.");
 VoicePlay("P240101000_45_010");
 MsgDisp("Wizard","Then, wear this dress that fits your glass

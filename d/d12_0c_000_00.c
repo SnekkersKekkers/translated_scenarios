@@ -142,7 +142,7 @@ StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D120C00000_06_050");
 MsgDisp("Himuro","The vegetables have a slightly sweet
-flavor...");
+flavour...");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("D120C00000_07_050");

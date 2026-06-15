@@ -32,7 +32,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("F100220002_05_010");
-MsgDisp("Hiiragi","We need to get the club recognized by the
+MsgDisp("Hiiragi","We need to get the club recognised by the
 school, which seems pretty difficult.");
 ChEye(2,2);
 ChMouth(2,0);
@@ -48,7 +48,7 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("F100220002_05_020");
 MsgDisp("Hiiragi","Yes, I have student council too.
-Theater work is often unpredictable, so it
+Theatre work is often unpredictable, so it
 seems difficult for me.");
 ChEye(2,2);
 ChMouth(2,0);

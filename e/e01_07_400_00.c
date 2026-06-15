@@ -31,7 +31,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("E010740000_21_020");
 MsgDisp("Michiru","I thought so... I ran into Mikage-sensei and
-we got talking about favorite foods.
+we got talking about favourite foods.
 It's really delicious, right?");
 MsgDisp("主人公","Hehe, I see.
 So ｛Mikage＊＊｝ likes chilled noodles.");

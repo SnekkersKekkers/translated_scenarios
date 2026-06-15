@@ -10,7 +10,7 @@ ChMotion(5,4);
 VoicePlay("B070500000_05_360");
 MsgDisp("Hiiragi","Once I was old enough to understand what
 was going on around me, I was mingling
-with adults in the theater troupe. I don't
+with adults in the theatre troupe. I don't
 recall talking to girls my age.");
 MsgDisp("主人公","There's lots of girls in school now though?");
 ChEye(5,0);
@@ -19,7 +19,7 @@ VoicePlay("B070500000_05_370");
 MsgDisp("Hiiragi","That's right.");
 ChMotion(5,0);
 VoicePlay("B070500000_05_380");
-MsgDisp("Hiiragi","Every female student in Haba High recognizes
+MsgDisp("Hiiragi","Every female student in Haba High recognises
 me as a special case.
 They're very generous and kind.");
 ChEye(5,3);

@@ -47,7 +47,7 @@ Wait(12,0);
 ChEye(5,4);
 ChMouth(5,0);
 VoicePlay("T020500000_05_040");
-MsgDisp("Hiiragi","In order to increase the theater company's
+MsgDisp("Hiiragi","In order to increase the theatre company's
 reason of existence, I would force the
 members to go through rigorous training.");
 ChEye(5,4);
@@ -85,7 +85,7 @@ ChMouth(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("T020500000_05_080");
 MsgDisp("Hiiragi","So much so that I began to drive the
-members of the Habataki Theater Company
+members of the Habataki Theatre Company
 into despair.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChMotion(5,0);
@@ -110,7 +110,7 @@ ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020500000_05_110");
 MsgDisp("Hiiragi","...Since I was born, I have never once
-liked theater.");
+liked theatre.");
 MsgDisp("主人公","Eh?");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
@@ -119,7 +119,7 @@ ChMouth(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("T020500000_05_120");
-MsgDisp("Hiiragi","Of course, the audience loved theater.
+MsgDisp("Hiiragi","Of course, the audience loved theatre.
 And so did the members of the company.
 I was the only one who was different...");
 Wait(60,0);
@@ -140,7 +140,7 @@ ChEyeOpenLevel(5,#1);
 ChCheek(5,5);
 VoicePlay("T020500000_05_140");
 MsgDisp("Hiiragi","It was from that day that I was able to
-proudly say that I love theater.");
+proudly say that I love theatre.");
 MsgDisp("主人公","Yes...");
 ChMouth(5,4);
 ChEyeOpenLevel(5,0);

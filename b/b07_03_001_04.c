@@ -45,7 +45,7 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("B070300001_03_280");
 MsgDisp("Honda","Oh, right... I guess that's why we don't end
-up talking about favorite types or anything
+up talking about favourite types or anything
 when we hang out.");
 MsgDisp("主人公","(...Hmm?)");
 BGMStop();

@@ -42,7 +42,7 @@ That's all.");
     VoicePlay("B040610101_06_030");
     MsgDisp("Himuro","That seems like an easy solution.
 There are celebrities from this town after
-all. And it could help revitalize the area.");
+all. And it could help revitalise the area.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

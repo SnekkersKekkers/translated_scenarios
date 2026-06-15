@@ -62,7 +62,7 @@ But...");
     VoicePlay("P830200000_02_040");
     MsgDisp("Sassa","Even though it's the student council
 committee, you still have to do this kind of
-manual labor huh...");
+manual labour huh...");
     MsgDisp("主人公","Yeah, it's overall management so it can be
 anything.");
     ChEye(2,0);
@@ -93,7 +93,7 @@ things, tell me.");
     VoicePlay("P830200000_02_080");
     MsgDisp("Sassa","Oh, you laughed.
 Then, I'll carry the rest.
-If you have any more manual labor, tell me.");
+If you have any more manual labour, tell me.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     MsgClose();

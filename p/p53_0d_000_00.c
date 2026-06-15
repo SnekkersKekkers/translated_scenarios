@@ -2,7 +2,7 @@ BGMStop();
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year's program is classical.
+MsgDisp("主人公","(This year's programme is classical.
 I'm getting nervous...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");

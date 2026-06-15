@@ -26,4 +26,4 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("U202200000_22_020");
 MsgDisp("Hikaru","Okay, Hikaru will give you one.
-They're in matching colors♪");
+They're in matching colours♪");

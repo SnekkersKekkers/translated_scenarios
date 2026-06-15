@@ -16,7 +16,7 @@ ChMotion(5,4);
 VoicePlay("B050500200_05_010");
 MsgDisp("Hiiragi","Yeah, I'm grasping at straws here.
 If only I had more charisma to unite the
-theater company...");
+theatre company...");
 MsgDisp("主人公","Huh?");
 ChEye(5,0);
 ChMouth(5,4);

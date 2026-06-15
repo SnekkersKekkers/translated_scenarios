@@ -39,7 +39,7 @@ of the deep-sea corner.");
     ChMotion(3,4);
     VoicePlay("B040303301_03_030");
     MsgDisp("Honda","...Yeah, me too, me too∈
-Diving from the surface to 800 meters deep;
+Diving from the surface to 800 metres deep;
 they're certainly admirable deep-sea fish!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

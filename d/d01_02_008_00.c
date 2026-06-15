@@ -105,7 +105,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,0);
 VoicePlay("D010200800_02_110");
-MsgDisp("Sassa","I didn't realize until I retired...
+MsgDisp("Sassa","I didn't realise until I retired...
 You have goals and dreams too.");
 ChEyeOpenLevel(2,10);
 MsgDisp("主人公","It's thanks to ｛Sassa＊＊｝ that I got to

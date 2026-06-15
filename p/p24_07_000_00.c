@@ -129,7 +129,7 @@ ChEyeOpenLevel(7,0);
 VoicePlay("P240700000_07_090");
 MsgDisp("Mikage","That goes for me too.
 While I was saying the lines, it helped me
-organize my own thoughts.");
+organise my own thoughts.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,0);

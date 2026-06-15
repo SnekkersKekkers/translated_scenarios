@@ -127,7 +127,7 @@ ChEye(9,2);
 ChMouth(9,4);
 ChMotion(9,4,1);
 MsgDisp("Kuya","How so?");
-MsgDisp("主人公","Why would local idols be traveling around the
+MsgDisp("主人公","Why would local idols be travelling around the
 world?");
 VoicePlay("D030900700_09_100");
 ChEye(9,3);

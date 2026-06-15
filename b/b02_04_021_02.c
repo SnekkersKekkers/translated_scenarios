@@ -5,7 +5,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("B020402102_04_000");
-MsgDisp("Nanatsumori","That's good color coordination.
+MsgDisp("Nanatsumori","That's good colour coordination.
 The kind that will wake you right up.");
 MsgDisp("主人公","Hehe, I put my all into it!");
 ChEye(4,4);

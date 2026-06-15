@@ -2,7 +2,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B020302114_03_000");
-MsgDisp("Honda","Hm, that's a good use of color.");
+MsgDisp("Honda","Hm, that's a good use of colour.");
 MsgDisp("主人公","It doesn't look weird?");
 ChEye(3,4);
 ChMouth(3,0);

@@ -47,7 +47,7 @@ Maybe I should study a little bit harder?)");
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020700002_07_050");
-    MsgDisp("Mikage","Haha, right in the dead center.");
+    MsgDisp("Mikage","Haha, right in the dead centre.");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.");
     ChEye(7,2);
     ChMouth(7,0);

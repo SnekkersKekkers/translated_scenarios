@@ -37,7 +37,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G020610000_06_050");
-MsgDisp("Himuro","But recently, I've realized that those
+MsgDisp("Himuro","But recently, I've realised that those
 feelings are trivial.");
 ChEye(6,0);
 ChMouth(6,0);

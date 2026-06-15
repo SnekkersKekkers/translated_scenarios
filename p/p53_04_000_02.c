@@ -35,7 +35,7 @@ You look like a pro.");
     VoicePlay("P530400002_04_030");
     MsgDisp("Nanatsumori","Yes.
 I'll be paying attention from the audience.");
-MsgDisp("主人公","(Though it's embarrassing to be the center
+MsgDisp("主人公","(Though it's embarrassing to be the centre
 of attention...This is a culmination of
 the last three years of work. So that I
 don't regret it, I'll give it my all!)");

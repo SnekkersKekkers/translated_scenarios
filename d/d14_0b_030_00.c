@@ -60,7 +60,7 @@ ChMotion(3,3,1);
 VoicePlay("D140B03000_03_020");
 MsgDisp("Honda","I see!
 If you're interested in dieting, I have the
-program just for y—");
+programme just for y—");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);

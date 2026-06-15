@@ -44,7 +44,7 @@ StlOpen("ev_05_17");
 ScrFadeIn(0);
 VoicePlay("T020501022_05_040");
 MsgDisp("Hiiragi","From now on, I will be sure to return the
-favor.");
+favour.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

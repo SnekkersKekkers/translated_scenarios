@@ -67,7 +67,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200010_02_080");
 MsgDisp("Sassa","That's good.
-If you do it every time and practice, you can
+If you do it every time and practise, you can
 do the same during the show.");
 MsgDisp("主人公","Got it.
 Thanks, ｛Sassa＊＊｝.");

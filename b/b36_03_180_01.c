@@ -47,7 +47,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B360318001_03_060");
-MsgDisp("Honda","I didn't realize I was this possessive...
+MsgDisp("Honda","I didn't realise I was this possessive...
 When I'm with you, I keep discovering parts
 of myself I didn't know existed.");
 ChEye(3,3);

@@ -87,7 +87,7 @@ toppings just for me, right?");
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300004_03_110");
     MsgDisp("Honda","It's proof that I have you all to myself.
-I'll savor it!");
+I'll savour it!");
     MsgDisp("主人公","(Thank goodness!
 He seemed happy.)");
     break ;

@@ -40,7 +40,7 @@ VoicePlay("G110400202_04_020");
 MsgDisp("Nanatsumori","Me?");
 MsgDisp("主人公","Yeah.
 Because every time you're here, there's
-something new in the catalog.");
+something new in the catalogue.");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400202_04_030");

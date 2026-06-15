@@ -64,7 +64,7 @@ right?");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040722102_07_050");
-        MsgDisp("Mikage","Oii, why are you apologizing?
+        MsgDisp("Mikage","Oii, why are you apologising?
 You like the pretty scenery, right?");
         ChEye(7,0);
         ChMouth(7,3);

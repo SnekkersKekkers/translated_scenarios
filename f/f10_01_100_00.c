@@ -48,7 +48,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110000_01_030");
 MsgDisp("Kazama","I thought if I saw your serious face, it'd
-keep me energized, but you were sleepy the
+keep me energised, but you were sleepy the
 whole time.");
 MsgDisp("主人公","Uh....");
 ChEye(1,2);

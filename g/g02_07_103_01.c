@@ -32,7 +32,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020710301_07_040");
-MsgDisp("Mikage","Like this, without us even realizing it, our
+MsgDisp("Mikage","Like this, without us even realising it, our
 memories keep growing...");
 MsgDisp("主人公","Yes.");
 ChEye(7,2);

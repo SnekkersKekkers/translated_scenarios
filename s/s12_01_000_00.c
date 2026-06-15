@@ -73,7 +73,7 @@ I guess you were just born that way.");
     ChMotion(1,3);
     VoicePlay("S120100000_01_060");
     MsgDisp("Kazama","Nothing but praise.
-Thanks to you, I'm energized.
+Thanks to you, I'm energised.
 Let me take you home.");
     SEPlay("EV_SE_856");
     BGMStop();

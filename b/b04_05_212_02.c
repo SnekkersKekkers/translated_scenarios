@@ -6,9 +6,9 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521202_05_000");
-MsgDisp("Hiiragi","I wonder if the Habataki Theater Company
+MsgDisp("Hiiragi","I wonder if the Habataki Theatre Company
 would be happy with a shop like this.");
-MsgSel("Habataki Theater Manju would be perfect!","You should sell those fox plushies.","I want a Yanosuke t-shirt.");
+MsgSel("Habataki Theatre Manju would be perfect!","You should sell those fox plushies.","I want a Yanosuke t-shirt.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -73,13 +73,13 @@ I'm sorry.
 I had no idea...");
         ChMotion(5,0);
         VoicePlay("B040521202_05_070");
-        MsgDisp("Hiiragi","There is no need for you to apologize.
+        MsgDisp("Hiiragi","There is no need for you to apologise.
 And that kind of thing is also part of
 business.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040521202_05_080");
-        MsgDisp("Hiiragi","Now I perform as part of a citizens' theater
+        MsgDisp("Hiiragi","Now I perform as part of a citizens' theatre
 troupe. There's no need for a t-shirt with my
 face on it, right?");
         MsgDisp("主人公","...That's right...");

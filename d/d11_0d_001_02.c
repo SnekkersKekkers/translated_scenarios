@@ -36,13 +36,13 @@ ChClose(22,0,0);
 StlOpen("ev_0c_01");
 ScrFadeIn(0);
 VoicePlay("D110D00100_22_020");
-MsgDisp("Hikaru","Haven't the colors of the roses in Mari's
+MsgDisp("Hikaru","Haven't the colours of the roses in Mari's
 garden changed?");
 VoicePlay("D110D00100_21_010");
-MsgDisp("Michiru","These three colors are also beautiful.
+MsgDisp("Michiru","These three colours are also beautiful.
 Mari's love has been distributed well and
 they are all in harmony.");
-MsgDisp("主人公","The colors of the roses have changed...?");
+MsgDisp("主人公","The colours of the roses have changed...?");
 MsgClose();
 ScrFadeOut(0);
 StlClose();

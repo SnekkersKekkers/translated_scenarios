@@ -50,7 +50,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D010700000_07_030");
-MsgDisp("Mikage","Hey, what are you apologizing for?
+MsgDisp("Mikage","Hey, what are you apologising for?
 Wait here a second.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
@@ -77,7 +77,7 @@ ScrFadeIn(0);
 Wait(30,0);
 MsgDisp("主人公","Ahh...
 It's delicious.
-This tea has such a beautiful color...");
+This tea has such a beautiful colour...");
 StlEye(7,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,5);

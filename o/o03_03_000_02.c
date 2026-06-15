@@ -57,7 +57,7 @@ I wish we had been more in sync...)");
     ChMotion(3,5);
     VoicePlay("O030300002_03_050");
     MsgDisp("Honda","Hm?
-You don't need to apologize.");
+You don't need to apologise.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,0);

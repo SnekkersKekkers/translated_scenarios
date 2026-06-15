@@ -62,7 +62,7 @@ StlMouth(7,1);
 StlEyeOpenLevel(7,5);
 VoicePlay("B050700100_07_060");
 MsgDisp("Mikage","This is the most I can do to return the
-favor.");
+favour.");
 MsgDisp("主人公","...｛Mikage＊＊｝?");
 StlEye(7,0,0);
 StlMouth(7,1);

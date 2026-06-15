@@ -7,7 +7,7 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040323601_03_000");
-MsgDisp("Honda","The possibilities of full-color LEDs are
+MsgDisp("Honda","The possibilities of full-colour LEDs are
 endless!");
 MsgSel("The pink skull bear is cute","Is that fish person's whole body glowing?","Is that meat on the bone?");
 switch (MsgSelRsltGet()){

@@ -9,7 +9,7 @@ switch (ChPrmGet(3,6)){
     break ;
     case 3:
     MsgDisp("主人公","(I finished hanging up the posters, Next
-is...organizing the documents.)");
+is...organising the documents.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -37,7 +37,7 @@ Definitely!");
     case 4:
     case 5:
     MsgDisp("主人公","(I finished hanging up the posters, Next
-is...organizing the documents.)");
+is...organising the documents.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

@@ -31,7 +31,7 @@ ChMotion(4,0,1);
 VoicePlay("G020410400_04_040");
 MsgDisp("Nanatsumori","It seems like most of them haven't figured
 out I'm actually a guy.
-I kinda want them to realize soon...");
+I kinda want them to realise soon...");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);

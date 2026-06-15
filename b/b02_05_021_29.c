@@ -6,7 +6,7 @@ MsgDisp("Hiiragi","It's a frightening thing, getting used to
 something.");
 MsgDisp("主人公","Um, what does that mean?");
 VoicePlay("B020502129_05_010");
-MsgDisp("Hiiragi","I had thought those colors were gaudy, but
+MsgDisp("Hiiragi","I had thought those colours were gaudy, but
 now I think they're quite beautiful.");
 ChMouth(5,4);
 ChMotion(5,0);

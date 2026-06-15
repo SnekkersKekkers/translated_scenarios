@@ -51,7 +51,7 @@ confidence that I'm enjoying the school trip.");
         ChMouth(5,4);
         ChMotion(5,0,1);
         VoicePlay("Q020500000_05_050");
-        MsgDisp("Hiiragi","No, I apologize for the invitation out of the
+        MsgDisp("Hiiragi","No, I apologise for the invitation out of the
 blue.
 To each our own, let us enjoy Nagasaki.");
         MsgClose();

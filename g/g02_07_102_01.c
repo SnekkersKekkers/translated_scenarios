@@ -2,7 +2,7 @@ MsgClose();
 ChLayout(1);
 ChOpen(7,255,1,0,4,#1,#1,0,0);
 VoicePlay("G020710201_07_000");
-MsgDisp("Mikage","Hey, you know the rumor about this place,
+MsgDisp("Mikage","Hey, you know the rumour about this place,
 right?");
 MsgDisp("主人公","Yeah.
 You can hear the inner voices of people

@@ -4,7 +4,7 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Sigh...
-Maybe I didn't practice enough...)");
+Maybe I didn't practise enough...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,4,2,#1,#1,0,0);
@@ -29,6 +29,6 @@ MsgDisp("Kazama","Next time you meet them, smile as you usually
 do.");
 ChClose(1);
 MsgDisp("主人公","(Uugh...
-I should have worked harder practicing...)");
+I should have worked harder practising...)");
 MsgClose();
 ScrFadeOut(0,0);

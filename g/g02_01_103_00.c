@@ -2,12 +2,12 @@ MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110300_01_000");
-MsgDisp("Kazama","Are fireflies supposed to be this colorful?");
+MsgDisp("Kazama","Are fireflies supposed to be this colourful?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("G020110300_01_010");
-MsgDisp("Kazama","With all these different colored lights
+MsgDisp("Kazama","With all these different coloured lights
 floating around us, see, it's like we're
 slowly spinning...");
 MsgDisp("主人公","Yeah, it's like a ferris wheel.");

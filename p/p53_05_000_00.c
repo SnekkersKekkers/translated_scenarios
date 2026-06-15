@@ -32,7 +32,7 @@ nervous.");
     ChMotion(5,4);
     VoicePlay("P530500000_05_020");
     MsgDisp("Hiiragi","Haha, that's much like everybody back at
-theater troupe. The more stressed they feel,
+theatre troupe. The more stressed they feel,
 conversely the more they calm down.");
     ChEye(5,3);
     ChMouth(5,4);

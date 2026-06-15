@@ -16,7 +16,7 @@ switch (ChPrmGet(5,6)){
 something this elaborate.");
     ChMotion(5,3);
     VoicePlay("L040500003_05_020");
-    MsgDisp("Hiiragi","I will savor each bite.
+    MsgDisp("Hiiragi","I will savour each bite.
 Thank you very much.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -46,7 +46,7 @@ choosing and making it.");
     ChMotion(5,0);
     VoicePlay("L040500003_05_050");
     MsgDisp("Hiiragi","Yes, it's quite the masterpiece.
-I almost want to decorate the theater with
+I almost want to decorate the theatre with
 it.");
     MsgDisp("主人公","What!?
 That's no good.
@@ -56,7 +56,7 @@ Make sure to eat it.");
     VoicePlay("L040500003_05_060");
     MsgDisp("Hiiragi","I see...
 Then, I shall return and boast to everyone in
-the theater company before eating it.");
+the theatre company before eating it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

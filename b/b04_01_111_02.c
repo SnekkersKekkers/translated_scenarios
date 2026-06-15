@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040111102_01_000");
 MsgDisp("Kazama","Somehow, winter sports always get me pumped
 up.");
-MsgSel("Yeah, me too.","Between skiing and skating, which is your favorite?","I'm glad you're good at it, ｛Kazama＊＊｝.");
+MsgSel("Yeah, me too.","Between skiing and skating, which is your favourite?","I'm glad you're good at it, ｛Kazama＊＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

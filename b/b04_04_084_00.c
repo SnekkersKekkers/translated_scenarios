@@ -5,7 +5,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040408400_04_000");
-MsgDisp("Nanatsumori","The trees are changing color.");
+MsgDisp("Nanatsumori","The trees are changing colour.");
 MsgSel("It's a peaceful season.","It'll look super photogenic!","Let's take it easy and enjoy the view.");
 switch (MsgSelRsltGet()){
     case 0:

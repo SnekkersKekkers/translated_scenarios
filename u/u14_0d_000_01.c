@@ -18,7 +18,7 @@ StlEye(22,2);
 StlMouth(22,0);
 VoicePlay("U140D00001_22_010");
 MsgDisp("Hikaru","Teach Hikaru how to study some day～!
-Just summarize all the important parts♪");
+Just summarise all the important parts♪");
 StlMouth(21,1);
 VoicePlay("U140D00001_21_010");
 MsgDisp("Michiru","Hikaru, no.

@@ -27,7 +27,7 @@ ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600400_06_010");
 MsgDisp("Himuro","Hey...
-Why don't you practice swimming a bit?");
+Why don't you practise swimming a bit?");
 MsgDisp("主人公","Eh...");
 ChEye(6,0);
 ChMouth(6,0);

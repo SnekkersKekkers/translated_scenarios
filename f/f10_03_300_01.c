@@ -19,7 +19,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F100330001_21_000");
-MsgDisp("Michiru","She said \"Please tell me the trendy colors
+MsgDisp("Michiru","She said \"Please tell me the trendy colours
 for next season.\".");
 ChEye(21,0);
 ChMouth(21,3);

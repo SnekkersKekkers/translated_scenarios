@@ -18,7 +18,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q110300000_03_020");
 MsgDisp("Honda","Yes, I have matcha and you get chocolate.
-My sister gets the plain flavored one.");
+My sister gets the plain flavoured one.");
 MsgDisp("主人公","Hehe, it's a nice keepsake.");
 ChEye(3,3);
 ChMouth(3,3);

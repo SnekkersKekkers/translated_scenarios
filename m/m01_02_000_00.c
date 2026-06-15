@@ -41,7 +41,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("M010200000_02_040");
 MsgDisp("Sassa","That right.
-Mm, your color looks pretty good.");
+Mm, your colour looks pretty good.");
 MsgDisp("主人公","Mm, I'm okay now.
 But ｛Sassa＊＊｝, what about practice?");
 ChEye(2,0);

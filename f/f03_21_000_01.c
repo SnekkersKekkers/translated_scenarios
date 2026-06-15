@@ -1,4 +1,4 @@
-MsgDisp("主人公","What sort of TV programs do you watch?");
+MsgDisp("主人公","What sort of TV programmes do you watch?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

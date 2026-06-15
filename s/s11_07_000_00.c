@@ -30,7 +30,7 @@ ChMotion(7,2);
 VoicePlay("S110700000_07_030");
 MsgDisp("Mikage","Even if one person draws Bad Luck, if the
 other person gets Good Luck then the two will
-neutralize each other.");
+neutralise each other.");
 MsgDisp("主人公","Yes...
 I see...
 But what if they're both Bad Luck?");

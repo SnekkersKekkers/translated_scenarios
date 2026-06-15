@@ -19,7 +19,7 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,4);
     VoicePlay("I350500000_05_010");
     MsgDisp("Hiiragi","No, I believe that someone arrived earlier...
-A support staff of the theater troupe.");
+A support staff of the theatre troupe.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("I350500000_05_020");
@@ -32,7 +32,7 @@ Go ahead.");
     ChClose(5);
     MsgDisp("主人公","(｛Hiiragi＊＊＊｝ feels different from how he is
 at school... He is the chairman of the
-theater troupe, huh.)");
+theatre troupe, huh.)");
     break ;
     case 3:
     MsgDisp("主人公","Alright, let's do our best today, too.");
@@ -50,7 +50,7 @@ time.");
     ChMotion(5,4);
     VoicePlay("I350500000_05_050");
     MsgDisp("Hiiragi","I am thankful for it.
-It means that the theater troupe is doing
+It means that the theatre troupe is doing
 well.");
     ChMotion(5,0);
     VoicePlay("I350500000_05_060");

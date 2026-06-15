@@ -29,7 +29,7 @@ MsgClose();
 SEPlay("EV_SE_DOOR_014");
 BGOpen("ar100",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'll organize my notes over some tea.)");
+MsgDisp("主人公","(I'll organise my notes over some tea.)");
 VoicePlay("G110400301_04_000");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori?","Oh, ｛主人公｝.");

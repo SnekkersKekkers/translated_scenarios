@@ -40,6 +40,6 @@ right? The moment your hard work pays off is
 the best. Isn't it nice?");
 MsgDisp("主人公","Yes, it makes me really happy!");
 MsgDisp("主人公","(I'm happy ｛Mikage＊＊｝ praised me!
-I'm glad I practiced so hard for brass band!)");
+I'm glad I practised so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

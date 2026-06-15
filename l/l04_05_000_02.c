@@ -53,7 +53,7 @@ Like a director who makes actors shed tears.");
     ChMouth(5,4);
     VoicePlay("L040500002_05_060");
     MsgDisp("Hiiragi","Thank you.
-I will do my best to ensure that I savor the
+I will do my best to ensure that I savour the
 taste.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

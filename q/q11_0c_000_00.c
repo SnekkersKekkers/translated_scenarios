@@ -43,7 +43,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_010");
 MsgDisp("Hiiragi","Eh?
-I chose the fine flavored sesame castella!");
+I chose the fine flavoured sesame castella!");
 MsgDisp("主人公","Eeh∋
 I had the matcha castella with a bit of
 sweetness!");
@@ -61,7 +61,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("Q110C00000_05_020");
-MsgDisp("Hiiragi","The sense of flavors is similar too.");
+MsgDisp("Hiiragi","The sense of flavours is similar too.");
 MsgDisp("主人公","But I'm sure he'll be happy.");
 ChEyeOpenLevel(5,9);
 ChEye(7,2);

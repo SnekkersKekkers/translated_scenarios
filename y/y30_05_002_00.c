@@ -64,7 +64,7 @@ From now on I'll make sure to eat
 lunch properly, like she says.");
 MsgClear();
 VoicePlay("Y300500200_05_030");
-MsgDisp("Hiiragi","\"Yeah, I feel a bit more energized.
+MsgDisp("Hiiragi","\"Yeah, I feel a bit more energised.
 Maybe it's thanks to her delicious
 chicken?\"");
 SEPlay("EV_SE_018");

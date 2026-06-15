@@ -89,14 +89,14 @@ ChEyeOpenLevel(1,8);
 VoicePlay("T020111000_01_080");
 MsgDisp("Kazama","I felt like I was being reminded of the
 time we were suddenly separated by 9000
-kilometers.");
+kilometres.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020111000_01_090");
-MsgDisp("Kazama","And then I finally realized.
+MsgDisp("Kazama","And then I finally realised.
 If I give up on you, I'm not myself
 anymore.");
 MsgDisp("主人公","Eh...");

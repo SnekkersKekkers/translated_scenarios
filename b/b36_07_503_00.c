@@ -39,7 +39,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360750300_07_040");
-MsgDisp("Mikage","He's the director of the theater troupe, you
+MsgDisp("Mikage","He's the director of the theatre troupe, you
 know?
 I'm sure he will.");
 ChEye(7,0);

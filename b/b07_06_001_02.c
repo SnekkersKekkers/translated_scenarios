@@ -55,7 +55,7 @@ VoicePlay("B070600001_06_160");
 MsgDisp("Himuro","But him pushing the decathlon on me of all
 people?
 Total nonsense.");
-MsgDisp("主人公","(｛Himuro＊＊｝ recognizes ｛Sassa＊＊｝ in his own
+MsgDisp("主人公","(｛Himuro＊＊｝ recognises ｛Sassa＊＊｝ in his own
 way, doesn't he?)");
 BGMStop();
 MsgClose();

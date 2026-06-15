@@ -9,6 +9,6 @@ MsgDisp("主人公","(I wonder what gift I got...let's open it.)");
 SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
-MsgDisp("主人公","(\"Antique Jewelry Box\")");
+MsgDisp("主人公","(\"Antique Jewellery Box\")");
 MsgDisp("主人公","(Woah, this is gorgeous...!
 I'll use it for my accessories!)");

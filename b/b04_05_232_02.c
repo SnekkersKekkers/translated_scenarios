@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040523202_05_000");
 MsgDisp("Hiiragi","\"Ferris wheel fortune telling\"...?
 Do you know it?");
-MsgSel("Sounds interesting! Should we try it?","Would pink be the winning color?","Is it predicted by the color of the gondola?");
+MsgSel("Sounds interesting! Should we try it?","Would pink be the winning colour?","Is it predicted by the colour of the gondola?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -75,7 +75,7 @@ indicates a fortune of love...");
         MsgDisp("Hiiragi","It's not a lottery, since there's no hit or
 miss?");
         MsgDisp("主人公","Yellow looks like economic fortune.
-It seems like Habataki Theater Company's
+It seems like Habataki Theatre Company's
 performance will go well?");
         ChEye(5,3);
         ChMotion(5,0);

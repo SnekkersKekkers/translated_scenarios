@@ -29,7 +29,7 @@ Right away...");
     ChEye(8,3);
     ChMouth(8,3);
     VoicePlay("I660800003_08_010");
-    MsgDisp("Shirahane","Alright, we'll start refueling.");
+    MsgDisp("Shirahane","Alright, we'll start refuelling.");
     MsgDisp("主人公","｛Daichi＊＊｝, thanks...");
     ChEye(8,2);
     ChMouth(8,0);

@@ -50,7 +50,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("sc625",0);
 ScrFadeIn(0);
-MsgDisp("主人公","The final event, the 1500 meter race...
+MsgDisp("主人公","The final event, the 1500 metre race...
 ｛Sassa＊＊｝, good luck!");
 VoicePlay("D010200100_40_030");
 MsgDisp("Member","With such a large gap in scores, no matter

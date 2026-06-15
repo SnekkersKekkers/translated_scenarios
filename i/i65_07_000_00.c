@@ -15,7 +15,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("I650700000_07_000");
     MsgDisp("Mikage","You got a nice greeting, huh?");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
-Are you refueling?");
+Are you refuelling?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -27,7 +27,7 @@ Are you refueling?");
     ChMotion(7,0);
     VoicePlay("I650700000_07_020");
     MsgDisp("Mikage","Right.
-I refueled on your energy, too.
+I refuelled on your energy, too.
 See you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -43,7 +43,7 @@ See you later.");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650700000_07_030");
     MsgDisp("Mikage","Yo.
-There's a lot of vigor at this stand.");
+There's a lot of vigour at this stand.");
     MsgDisp("主人公","Hehe!
 Yes.
 That's Stallion Gasoline's motto.");
@@ -59,7 +59,7 @@ Do you think they'd hire me, too?");
     ChMotion(7,2);
     VoicePlay("I650700000_07_050");
     MsgDisp("Mikage","See, aren't the male uniforms kinda close in
-color to what I'm wearing...
+colour to what I'm wearing...
 Or not?");
     MsgDisp("主人公","Hehe, you're going to get scolded by Vice
 Principal Himuro again, you know?");
@@ -127,7 +127,7 @@ Thank you very much.");
     ChMotion(7,3);
     VoicePlay("I650700000_07_100");
     MsgDisp("Mikage","Yeah.
-It's my favorite brand of milk.
+It's my favourite brand of milk.
 It's good.");
     ChEye(7,0);
     ChMouth(7,0);

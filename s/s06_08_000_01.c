@@ -60,7 +60,7 @@ beautiful girl on New Year's▼");
     ChCheek(8,8);
     VoicePlay("S060800001_08_060");
     MsgDisp("Shirahane","It's the best.
-I getta see my favorite person in such fancy
+I getta see my favourite person in such fancy
 clothes...");
     MsgDisp("主人公","...Eh?");
     ChEye(8,0);

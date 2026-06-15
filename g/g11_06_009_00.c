@@ -37,7 +37,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600900_06_030");
-MsgDisp("Himuro","I guess you haven't realized it.
+MsgDisp("Himuro","I guess you haven't realised it.
 You're tired, and it's showing on your face.");
 MsgDisp("主人公","Uh...");
 ChEye(6,2);
@@ -56,7 +56,7 @@ ChMotion(6,0);
 VoicePlay("G110600900_06_050");
 MsgDisp("Himuro","No need.
 It's not like you collapsed just now, so
-there's no need to apologize.");
+there's no need to apologise.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

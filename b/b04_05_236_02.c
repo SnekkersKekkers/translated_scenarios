@@ -91,7 +91,7 @@ away.");
         ChMouthOpenLevel(5,#1);
         VoicePlay("B040523602_05_080");
         MsgDisp("Hiiragi","...Hehe.
-It's funny that we're both apologizing in
+It's funny that we're both apologising in
 this situation.");
         MsgDisp("主人公","Hehe, yeah.");
         ChEye(5,4);

@@ -4,7 +4,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B120304003_03_000");
-MsgDisp("Honda","Whoa, that lion is totally modeled after
+MsgDisp("Honda","Whoa, that lion is totally modelled after
 Mi-kun, isn't it?
 Or should I say NANA?");
 ChEyeOpenLevel(3,#1);

@@ -27,7 +27,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100610001_06_020");
 MsgDisp("Himuro","What, it's you...
-Another pointless rumor.");
+Another pointless rumour.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -42,7 +42,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,7);
 VoicePlay("F100610001_06_040");
 MsgDisp("Himuro","I don't believe it.
-It's just a rumor.");
+It's just a rumour.");
 MsgDisp("主人公","T-That's right.");
 ChEye(6,0);
 ChMouth(6,0);

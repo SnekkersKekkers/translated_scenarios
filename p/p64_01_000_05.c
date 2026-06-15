@@ -16,8 +16,8 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("P640100005_01_010");
 MsgDisp("Kazama","That's not what I mean.
-There are things like adjusting fertilizers
-to concentrate the flavor and pruning, right?");
+There are things like adjusting fertilisers
+to concentrate the flavour and pruning, right?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

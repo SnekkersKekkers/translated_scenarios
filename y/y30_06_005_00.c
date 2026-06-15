@@ -43,7 +43,7 @@ business, a junior suddenly called
 out to me.");
 VoicePlay("Y300600500_40_010");
 MsgDisp("School Boy","\"Could you do a final check of the
-program order?\"");
+programme order?\"");
 VoicePlay("Y300600500_06_000");
 MsgDisp("Himuro","Of course.");
 MsgClear();
@@ -51,7 +51,7 @@ SEPlay("EV_SE_592");
 SEWait();
 MsgDisp("","My junior handed me a sheet of paper,
 on it was written 'Sports Festival
-Program'.");
+Programme'.");
 MsgDisp("","Right, I volunteered to be on the
 sports festival committee this year.");
 MsgClear();
@@ -123,7 +123,7 @@ MsgDisp("Himuro","T...
 Thank you.");
 MsgClear();
 MsgDisp("","After bowing his head, the junior
-held the program as if it was
+held the programme as if it was
 precious, and headed up the stairs.");
 MsgDisp("","Seriously, to think the day has come
 where I'd be told something like

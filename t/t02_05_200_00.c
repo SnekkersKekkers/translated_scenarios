@@ -53,7 +53,7 @@ Wait(12,0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020520000_05_050");
-MsgDisp("Hiiragi","I was able to enroll thanks to the
+MsgDisp("Hiiragi","I was able to enrol thanks to the
 combined efforts of Habataki City, my
 father, the chairman, and many other
 people.");
@@ -68,7 +68,7 @@ MsgDisp("Hiiragi","But, since I didn't attend elementary or
 middle school properly, there was no value
 in me being a student.");
 MsgDisp("主人公","That's...Even though ｛Hiiragi＊＊＊｝
-struggles within the Theater Company, I
+struggles within the Theatre Company, I
 think he gives it his best in many
 different ways.");
 ChMotion(5,2);
@@ -81,7 +81,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,8);
 VoicePlay("T020520000_05_080");
-MsgDisp("Hiiragi","I immediately realized that my studies
+MsgDisp("Hiiragi","I immediately realised that my studies
 were not going to improve. At that same
 time, the disappointed looks on everyone's
 faces came to mind.");
@@ -143,7 +143,7 @@ ChMotion(5,0);
 VoicePlay("T020520000_05_150");
 MsgDisp("Hiiragi","That's why I was able to come to school
 every day. That's why I didn't give up on
-the theater company and continued.");
+the theatre company and continued.");
 Wait(60,0);
 ChMotion(5,0,1);
 Wait(16,0);
@@ -151,7 +151,7 @@ ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020520000_05_160");
 MsgDisp("Hiiragi","You were my only light as I struggled
-blindly through school and theater.");
+blindly through school and theatre.");
 MsgClear();
 ChClose(5);
 ChCustomLayout(5,5,0,-2.6);

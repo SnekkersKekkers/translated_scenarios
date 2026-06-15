@@ -10,7 +10,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 VoicePlay("P540100001_01_000");
 MsgDisp("Kazama","You did everything you could?");
-MsgDisp("主人公","No, I should have practiced more.
+MsgDisp("主人公","No, I should have practised more.
 I'm so sorry to everyone....");
 ChEye(1,0);
 ChMouth(1,3);
@@ -26,10 +26,10 @@ ChMotion(1,0);
 VoicePlay("P540100001_01_020");
 MsgDisp("Kazama","After that, it's just about you coming to
 terms with it.
-You can start practicing today, right?");
+You can start practising today, right?");
 MsgDisp("主人公","...Yeah.");
 MsgDisp("主人公","(It's as ｛Kazama＊＊｝ says.
-I'll practice until I'm satisfied!)");
+I'll practise until I'm satisfied!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

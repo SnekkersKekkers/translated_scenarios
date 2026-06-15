@@ -11,7 +11,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211030_02_000");
 MsgDisp("Sassa","I see...
-I'm the one who should apologize.
+I'm the one who should apologise.
 I have nothing but gratitude for you.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 BGMPlay("BGM_C02_SASSA_C",0.01);

@@ -27,7 +27,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("Q070C00200_07_010");
-MsgDisp("Mikage","The merchants who once lived here traveled
+MsgDisp("Mikage","The merchants who once lived here travelled
 around a lot like you, Yanosuke.
 Then they decided to stay here in Nagasaki.");
 ChEye(5,0);

@@ -30,7 +30,7 @@ StlEyeOpenLevel(3,5,1);
 ScrFadeIn(0);
 VoicePlay("B050300000_03_020");
 MsgDisp("Honda","Here it is.
-My favorite part.");
+My favourite part.");
 MsgDisp("主人公","(｛Honda＊＊｝ looks really invested!)");
 StlEye(3,0);
 StlMouth(3,0);
@@ -81,7 +81,7 @@ ChMouth(3,4);
 ChMouth(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("B050300000_03_080");
-MsgDisp("Honda","The original story described a somber melody
+MsgDisp("Honda","The original story described a sombre melody
 that tugs at your heartstrings, so I was
 imagining all kinds of music as I read...");
 ChEye(3,4);
@@ -95,7 +95,7 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B050300000_03_100");
-MsgDisp("Honda","It was a song from my sister's favorite idol
+MsgDisp("Honda","It was a song from my sister's favourite idol
 group.
 I hear it all the time at home...");
 MsgDisp("主人公","Hehe.

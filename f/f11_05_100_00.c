@@ -46,7 +46,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F110510000_05_060");
 MsgDisp("Hiiragi","Yes.
-The flavors, too.
+The flavours, too.
 Because of that, I am now full.");
 MsgDisp("主人公","So you really tried them all...");
 ChEye(5,0);

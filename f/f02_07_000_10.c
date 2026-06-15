@@ -20,7 +20,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700010_07_010");
-MsgDisp("Mikage","I've been with you guys practicing and
+MsgDisp("Mikage","I've been with you guys practising and
 preparing from the very beginning, so I'm
 telling you.");
 MsgDisp("主人公","Yes. From stage preparations to the script

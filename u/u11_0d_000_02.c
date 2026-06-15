@@ -19,7 +19,7 @@ ChMotion(22,4,1);
 VoicePlay("U110D00002_22_000");
 MsgDisp("Hikaru","Heyhey, Mari.
 Let's eat snacks♪
-And this tea is Hikaru's favorite!");
+And this tea is Hikaru's favourite!");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

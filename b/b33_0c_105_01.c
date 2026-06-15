@@ -35,7 +35,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10501_05_020");
-MsgDisp("Hiiragi","Lately I've really come to favor the washable
+MsgDisp("Hiiragi","Lately I've really come to favour the washable
 type.");
 ChEye(7,0);
 ChMouth(7,0);

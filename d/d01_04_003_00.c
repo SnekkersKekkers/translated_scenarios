@@ -14,7 +14,7 @@ ChMotion(4,1,1);
 VoicePlay("D010400300_04_020");
 MsgDisp("Nanatsumori","Want to come with me to the agency?");
 MsgDisp("主人公","Eh?
-By agency do you mean your modeling agency∋");
+By agency do you mean your modelling agency∋");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);

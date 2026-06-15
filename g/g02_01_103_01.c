@@ -31,7 +31,7 @@ ChMouth(1,3);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110301_01_030");
-MsgDisp("Kazama","Mm, it's all just kinda gray to me.
+MsgDisp("Kazama","Mm, it's all just kinda grey to me.
 I mean, yeah, there was fun stuff too.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);

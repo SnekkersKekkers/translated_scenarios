@@ -29,7 +29,7 @@ Absolutely, never touch one!");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("B040106102_01_020");
-    MsgDisp("Kazama","It's your usual behavior that worries me.
+    MsgDisp("Kazama","It's your usual behaviour that worries me.
 You're a total curiosity monster.");
     MsgDateResultDisp();
     break ;

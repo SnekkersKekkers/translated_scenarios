@@ -40,7 +40,7 @@ I'm gonna scold them～");
     VoicePlay("B350700000_07_040");
     MsgDisp("Mikage","Huh?
 Really? My bad, my bad, I'll have to
-apologize to those guys too.");
+apologise to those guys too.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,5);

@@ -64,7 +64,7 @@ He said he gets nervous around women.");
     MsgDisp("Himuro","The dried flowers you made are being received
 pretty well.");
     MsgDisp("主人公","I was thinking that even flowers that have
-lost their vigor can still be enjoyed.");
+lost their vigour can still be enjoyed.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

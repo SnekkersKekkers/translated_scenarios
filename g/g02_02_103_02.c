@@ -4,7 +4,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("G020210302_02_000");
-MsgDisp("Sassa","The fireflies are all the same color, and
+MsgDisp("Sassa","The fireflies are all the same colour, and
 we're wearing the same clothes.");
 MsgDisp("主人公","Hehe, it was a coincidence, right?");
 ChEye(2,0);

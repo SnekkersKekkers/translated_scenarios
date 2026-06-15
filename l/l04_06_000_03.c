@@ -11,7 +11,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("L040600003_06_010");
-    MsgDisp("Himuro","And with my favorite topping.
+    MsgDisp("Himuro","And with my favourite topping.
 Nice.");
     MsgDisp("主人公","I did my best!");
     ChEye(6,3);
@@ -94,7 +94,7 @@ You're complimenting me, right?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600003_06_110");
-    MsgDisp("Himuro","I'll savor it later.
+    MsgDisp("Himuro","I'll savour it later.
 Thanks for the snack.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

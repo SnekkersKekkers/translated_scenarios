@@ -7,9 +7,9 @@ ChLayout(1);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040510400_05_000");
-MsgDisp("Hiiragi","They're rich in colors.
+MsgDisp("Hiiragi","They're rich in colours.
 Insects are mysterious.");
-MsgSel("Their colors are beautiful but, the legs...","The big butterflies are scary.","Their way of life is mysterious.");
+MsgSel("Their colours are beautiful but, the legs...","The big butterflies are scary.","Their way of life is mysterious.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);
@@ -39,7 +39,7 @@ Let's pass by the butterfly specimen corner.");
     ChMotion(5,3);
     VoicePlay("B040510400_05_030");
     MsgDisp("Hiiragi","That's precisely it! Butterflies that fly
-thousands of kilometers...
+thousands of kilometres...
 Amazing would be an understatement.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

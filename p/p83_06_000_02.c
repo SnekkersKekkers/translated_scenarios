@@ -23,7 +23,7 @@ What's the matter?");
     ChMotion(6,0);
     VoicePlay("P830600002_06_010");
     MsgDisp("Himuro","Where should we take the lost kids to?");
-    MsgDisp("主人公","Ah, we set up a lost children center.
+    MsgDisp("主人公","Ah, we set up a lost children centre.
 It's this way.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -70,7 +70,7 @@ This is the kid.");
     ChMotion(6,0);
     VoicePlay("P830600002_06_060");
     MsgDisp("Himuro","Should I take her to the lost children
-center?");
+centre?");
     MsgDisp("主人公","I'll take her!");
     ChEye(6,0);
     ChMouth(6,0);

@@ -27,7 +27,7 @@ MsgDisp("Hiiragi","Haha, yes that is right.
 Please pardon me.");
 ChMotion(5,0);
 VoicePlay("G020510303_05_040");
-MsgDisp("Hiiragi","But, because of that guy, I realized how
+MsgDisp("Hiiragi","But, because of that guy, I realised how
 important you are to me.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,3);

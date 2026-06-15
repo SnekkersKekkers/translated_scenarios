@@ -7,13 +7,13 @@ MsgDisp("","I did something that cannot be
 undone.");
 VoicePlay("Y300500300_05_010");
 MsgDisp("Hiiragi","(To those two, to their families, how
-would I even apologize....)");
+would I even apologise....)");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","Those two were the first precious
 members I welcomed into the Habataki
-Theater Troupe.");
+Theatre Troupe.");
 MsgDisp("","I can picture the time they came to
 my dressing room to greet me even
 now.");
@@ -36,19 +36,19 @@ ScrFadeOut(0);
 BGOpen("ad530",0);
 ScrFadeIn(0);
 MsgDisp("","I even ended up making those two say
-that they don't enjoy theater today.");
+that they don't enjoy theatre today.");
 VoicePlay("Y300500300_05_020");
 MsgDisp("Hiiragi","\"What kind of chairman am I...\"");
 MsgDisp("","What I've been doing isn't letting
 everyone enjoy it — it's the
 opposite. I've been trampling on
 people's dreams.");
-MsgDisp("","And I did it without even realizing...
+MsgDisp("","And I did it without even realising...
 I'm the worst.");
 MsgClear();
 VoicePlay("Y300500300_05_030");
 MsgDisp("Hiiragi","(...I can't go home. I can't face
-everyone at the theater troupe.)");
+everyone at the theatre troupe.)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -64,7 +64,7 @@ presentable. That's the real me.");
 MsgClear();
 MsgDisp("主人公","\"No, ｛Hiiragi＊＊＊｝ always gives it
 his best for everyone in both the
-theater troupe and student council.\"");
+theatre troupe and student council.\"");
 MsgDisp("","Even when you see me like this, you
 still say that.");
 MsgClear();
@@ -84,7 +84,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgDisp("","It may already be too late. But to
-the two of them who made me realize
+the two of them who made me realise
 this, to you who spoke to me kindly,
 even if it's just a little, I want to
 repay it....I want to make amends.");

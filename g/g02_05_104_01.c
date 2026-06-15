@@ -9,7 +9,7 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020510401_05_010");
 MsgDisp("Hiiragi","What is it indeed.
-Perhaps this is in accordance with the rumored
+Perhaps this is in accordance with the rumoured
 inner voice you can hear here.");
 MsgDisp("主人公","Ehh?");
 ChEye(5,3);
@@ -19,7 +19,7 @@ I'm half-joking, but also half-serious.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020510401_05_030");
-MsgDisp("Hiiragi","Recently, I realized that I don't know
+MsgDisp("Hiiragi","Recently, I realised that I don't know
 anything about love.
 I became wiser to my own ignorance.");
 VoicePlay("G020510401_05_040");
@@ -40,12 +40,12 @@ ChEye(5,4);
 VoicePlay("G020510401_05_070");
 MsgDisp("Hiiragi","My father used to often say that, when he got
 drunk, he'd passionately talk to me about
-theories of theater");
+theories of theatre");
 ChMotion(5,4);
 VoicePlay("G020510401_05_080");
 MsgDisp("Hiiragi","At that time, I would pay no mind to it, but
 thanks to you, I may join my father in those
-exchanges of theater discussion.");
+exchanges of theatre discussion.");
 MsgDisp("主人公","(Thanks to me...
 I'm happy, but also somewhat embarrassed.)");
 BGMStop();

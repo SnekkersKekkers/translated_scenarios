@@ -65,7 +65,7 @@ I'll go check in the back.");
     ChOpen(3,35,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     ChMotion(3,0,1);
-    MsgDisp("主人公","I apologize for taking up so much of your
+    MsgDisp("主人公","I apologise for taking up so much of your
 time!");
     VoicePlay("I260300000_55_010");
     VoicePlay("I260300006_33_010");

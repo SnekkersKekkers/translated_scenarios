@@ -25,7 +25,7 @@ ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B150600100_06_030");
-MsgDisp("Himuro","It doesn't mean I want you to apologize.");
+MsgDisp("Himuro","It doesn't mean I want you to apologise.");
 MsgDisp("主人公","I'm truly sorry.
 I won't do it again.");
 ChEye(6,0);

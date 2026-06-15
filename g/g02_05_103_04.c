@@ -11,7 +11,7 @@ receiving things from others.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020510304_05_020");
-MsgDisp("Hiiragi","And I never realized how arrogant I was...");
+MsgDisp("Hiiragi","And I never realised how arrogant I was...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020510304_05_030");

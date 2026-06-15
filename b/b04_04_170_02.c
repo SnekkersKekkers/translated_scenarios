@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040417002_04_010");
-    MsgDisp("Nanatsumori","Now you realize?
+    MsgDisp("Nanatsumori","Now you realise?
 Even though we've come here so many times
 together.");
     MsgDispSksp(1,0);

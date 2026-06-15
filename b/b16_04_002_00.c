@@ -5,7 +5,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160400200_04_000");
 MsgDisp("Nanatsumori","Aah, hey!
-It's that defenseless side of you...");
+It's that defenceless side of you...");
 MsgSel("｛Nanatsumori＊｝ will protect me?","That's not true!");
 switch (MsgSelRsltGet()){
     case 0:

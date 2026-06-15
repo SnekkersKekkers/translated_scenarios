@@ -113,7 +113,7 @@ MsgDisp("Student B","This is big news.
 I have to tell everyone∈");
 VoicePlay("D010500400_44_020");
 MsgDisp("School Girl","Awesome!
-We'll get to see a real Theater Company
+We'll get to see a real Theatre Company
 performance at our school! That's amazing!");
 MsgDisp("主人公","Yeah...!
 ｛Hiiragi＊＊＊｝, thank you!");
@@ -194,8 +194,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("D010500400_05_130");
-MsgDisp("Hiiragi","...It was a late realization, but it is
-better than not realizing at all.");
+MsgDisp("Hiiragi","...It was a late realisation, but it is
+better than not realising at all.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 Yeah, let's do our best together.)");
 BGMStop();

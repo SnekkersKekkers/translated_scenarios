@@ -61,7 +61,7 @@ Did you think I would be happy with that?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040602302_06_060");
-        MsgDisp("Himuro","...There's no need to apologize though?");
+        MsgDisp("Himuro","...There's no need to apologise though?");
         ChEye(6,0);
         ChMouth(6,2);
         ChMotion(6,4);

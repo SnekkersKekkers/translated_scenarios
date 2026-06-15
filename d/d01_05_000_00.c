@@ -3,7 +3,7 @@ ScrFadeOut(0,0);
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, from Habatcher's Editorial Department.
-\"Permission to interview the Habataki Theater
+\"Permission to interview the Habataki Theatre
 Company granted!\" ...Alright!)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

@@ -109,7 +109,7 @@ StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("D010101000_01_110");
 MsgDisp("Kazama","Even just looking from here I see a lot of
-buildings I don't recognize...");
+buildings I don't recognise...");
 MsgDisp("主人公","Yeah, there are a lot of new spots.
 Some places are being renovated.
 We should go out together sometime?");

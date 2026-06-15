@@ -6,9 +6,9 @@ ChMouth(21,0);
 ChMotion(21,7);
 ScrFadeIn(0);
 VoicePlay("F022100003_21_000");
-MsgDisp("Michiru","I heard a new rumor about the church on
+MsgDisp("Michiru","I heard a new rumour about the church on
 school grounds.");
-MsgDisp("主人公","Eh, what kind of rumor?");
+MsgDisp("主人公","Eh, what kind of rumour?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -35,6 +35,6 @@ VoicePlay("F022100003_21_040");
 MsgDisp("Michiru","But...
 I might want to give it a try.");
 MsgDisp("主人公","(｛みちる＊｝, that seems fun!
-This seems like a rumor girls would like?)");
+This seems like a rumour girls would like?)");
 MsgClose();
 ScrFadeOut(0,0);

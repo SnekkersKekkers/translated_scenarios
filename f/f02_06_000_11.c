@@ -20,7 +20,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600011_06_010");
-MsgDisp("Himuro","Yes, socializing with relatives truly is
+MsgDisp("Himuro","Yes, socialising with relatives truly is
 awful.
 But I can't just brush them off.");
 MsgDisp("主人公","Haha, how distinguished of you.");
@@ -28,7 +28,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600011_06_020");
-MsgDisp("Himuro","Good fences make good neighbors.
+MsgDisp("Himuro","Good fences make good neighbours.
 You have to keep proper boundaries.");
 MsgDisp("主人公","Your family seems close.");
 ChEye(6,1);

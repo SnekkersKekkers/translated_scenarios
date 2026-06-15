@@ -3,7 +3,7 @@ ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,0,1);
 VoicePlay("B020100009_01_000");
-MsgDisp("Kazama","I've seen that color a lot lately.");
+MsgDisp("Kazama","I've seen that colour a lot lately.");
 MsgDisp("主人公","Yeah.
 It's trendy right now.");
 ChEye(1,0);

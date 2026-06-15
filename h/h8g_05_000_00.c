@@ -21,8 +21,8 @@ ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("H8G0500000_05_020");
 MsgDisp("Hiiragi","As part of the student council myself, I'm
-glad your efforts are being recognized, but
-to be honored as an individual...");
+glad your efforts are being recognised, but
+to be honoured as an individual...");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","I wouldn't have been able to do anything on
 my own. It's thanks to you and everyone else,

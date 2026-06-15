@@ -24,7 +24,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("D150002300_03_010");
 MsgDisp("Honda","Right.
-Do you two prefer to eat your favorite foods
+Do you two prefer to eat your favourite foods
 first or last?");
 ChEye(2,0);
 ChMouth(2,3);

@@ -46,7 +46,7 @@ I need to get it together...!)");
     ChMotion(1,3);
     VoicePlay("I160100006_01_040");
     MsgDisp("Kazama","What else.
-The center display is the exact same as last
+The centre display is the exact same as last
 month's, right?");
     MsgDisp("主人公","...Ah!
 I, I'm sorry.");

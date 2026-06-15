@@ -77,7 +77,7 @@ But, I'm surprised you noticed, ｛Honda＊＊｝.");
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_600");
     MsgDisp("Honda","The big tasks are important, too, but little
-things like that will be recognized later,
+things like that will be recognised later,
 too.");
     ChEye(3,0);
     ChMouth(3,3);

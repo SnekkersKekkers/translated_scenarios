@@ -4,7 +4,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110306_01_000");
 MsgDisp("Kazama","Say you came here for the first time without
-knowing anything about the rumors.
+knowing anything about the rumours.
 How do you think you'd react?");
 MsgDisp("主人公","Mmm.
 I'd probably be super surprised, shocked

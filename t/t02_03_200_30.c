@@ -30,7 +30,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020320000_03_400");
-MsgDisp("Honda","So, don't apologize.");
+MsgDisp("Honda","So, don't apologise.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

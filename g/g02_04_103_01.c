@@ -5,7 +5,7 @@ ChMotion(4,0);
 VoicePlay("G020410301_04_000");
 MsgDisp("Nanatsumori","The firefly lights are so warm, huh.");
 MsgDisp("主人公","You're right.
-Warm, cozy colors in the sky...
+Warm, cosy colours in the sky...
 Ah.");
 MsgDisp("主人公","｛Nanatsumori＊｝, it looks like the lights
 from the equipment room!");

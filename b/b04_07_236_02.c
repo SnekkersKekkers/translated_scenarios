@@ -94,7 +94,7 @@ right～?");
         VoicePlay("B040723602_07_080");
         MsgDisp("Mikage","Heheh, I finally surprised you.");
         MsgDisp("主人公","Over there!
-The skull bear is changing colors∈");
+The skull bear is changing colours∈");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,5);

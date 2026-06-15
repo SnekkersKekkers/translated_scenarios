@@ -23,7 +23,7 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("P540D00003_21_010");
 MsgDisp("Michiru","It's alright.
-If you practice, you'll get better.");
+If you practise, you'll get better.");
 ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -31,7 +31,7 @@ VoicePlay("P540D00003_22_010");
 MsgDisp("Hikaru","Right right.
 If it's Mari, she can do it, right?");
 MsgDisp("主人公","(Ugh...
-If only I practiced more...)");
+If only I practised more...)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

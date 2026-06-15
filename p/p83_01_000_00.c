@@ -68,7 +68,7 @@ had seen it before.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("P830100000_01_050");
-    MsgDisp("Kazama","Shouldn't you have recognized it earlier?");
+    MsgDisp("Kazama","Shouldn't you have recognised it earlier?");
     MsgDisp("主人公","Sorry.
 I just thought I shouldn't just touch and use
 things as I please.");

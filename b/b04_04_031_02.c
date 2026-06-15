@@ -33,7 +33,7 @@ Whoever thought of that is a genius.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040403102_04_020");
-    MsgDisp("Nanatsumori","Wow, it's the jewelry illumination aquarium.
+    MsgDisp("Nanatsumori","Wow, it's the jewellery illumination aquarium.
 The collab between the fish and the lights is
 incredible. Damn.");
     MsgDispSksp(1,0);

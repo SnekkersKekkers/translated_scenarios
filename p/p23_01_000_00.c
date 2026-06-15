@@ -36,7 +36,7 @@ I'll say thank you in advance.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("P230100000_01_030");
-    MsgDisp("Kazama","Practicing during the preparation period
+    MsgDisp("Kazama","Practising during the preparation period
 was fun. Even if the real performance is a
 complete disaster, it'll have been more
 than worth it.");

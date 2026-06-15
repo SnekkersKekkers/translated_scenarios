@@ -53,7 +53,7 @@ That message is from everyone.
 See you.");
 MsgDisp("主人公","｛Mikage＊＊｝, thank you very much.");
 ChClose(7);
-MsgDisp("主人公","(I'm happy that my efforts were recognized.
+MsgDisp("主人公","(I'm happy that my efforts were recognised.
 I'm glad I worked so hard in my duties for
 the student council!)");
 MsgClose();

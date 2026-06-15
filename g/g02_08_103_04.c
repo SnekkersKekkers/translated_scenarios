@@ -28,8 +28,8 @@ ChMotion(8,0,1);
 VoicePlay("G020810304_08_030");
 MsgDisp("Shirahane","I thought a lot about you, you know? Not
 just your preferences, but also your usual
-behavior and what you talk about, I
-analyzed everything.");
+behaviour and what you talk about, I
+analysed everything.");
 ChEye(8,3);
 ChMouth(8,0);
 VoicePlay("G020810304_08_040");

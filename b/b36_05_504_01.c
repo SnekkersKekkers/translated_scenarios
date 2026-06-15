@@ -25,7 +25,7 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B360550401_05_020");
 MsgDisp("Hiiragi","To be honest, I learned about it from someone
-at the theater company.");
+at the theatre company.");
 VoicePlay("B360550401_05_030");
 MsgDisp("Hiiragi","When I told them I was going out with you
 today, they told me about it.");

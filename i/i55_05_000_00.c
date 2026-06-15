@@ -36,7 +36,7 @@ How many would you like?");
     ChCheek(5,7);
     VoicePlay("I550500000_05_040");
     MsgDisp("Hiiragi","Ah, I will be getting portions for the
-theater company staff as well.
+theatre company staff as well.
 Not all of it is for myself.");
     MsgDisp("主人公","Hehe.
 Yes, of course. You won't be able to finish

@@ -35,7 +35,7 @@ But I definitely understand Hades' feelings.");
     ChMotion(2,0);
     VoicePlay("P230200000_02_020");
     MsgDisp("Sassa","Yeah, he's just like me.
-I felt strange when practicing.");
+I felt strange when practising.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

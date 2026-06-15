@@ -38,7 +38,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("P540200004_02_040");
-MsgDisp("Sassa","I haven't seen you guys practicing, although
+MsgDisp("Sassa","I haven't seen you guys practising, although
 the sound of it can be heard from various
 places across the school.");
 MsgDisp("主人公","Yeah...");
@@ -47,7 +47,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P540200004_02_050");
-MsgDisp("Sassa","Without even realizing it, with this song and
+MsgDisp("Sassa","Without even realising it, with this song and
 you guys' performance, I think everyone has
 become a fan.");
 ChEye(2,0);

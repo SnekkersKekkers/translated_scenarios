@@ -40,7 +40,7 @@ This is their home, right?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040108200_01_030");
-    MsgDisp("Kazama","Oh, yeah, there are rumors like that.
+    MsgDisp("Kazama","Oh, yeah, there are rumours like that.
 If the amount of spring water suddenly goes
 up, it's a spiritual hot spot, right?");
     MsgDispSksp(1,0);

@@ -54,7 +54,7 @@ Sorry you came all this way to see that.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H4A0100001_01_050");
-    MsgDisp("Kazama","Why are you apologizing?
+    MsgDisp("Kazama","Why are you apologising?
 I got to see a great performance.
 Thank you.");
     MsgDisp("主人公","Even though I messed up a lot...");

@@ -45,7 +45,7 @@ MsgDisp("Sassa","Well, it all comes down to whether you're
 satisfied with it.");
 MsgDisp("主人公","(I wanted to give a more satisfying
 performance...
-I didn't practice enough, huh.)");
+I didn't practise enough, huh.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

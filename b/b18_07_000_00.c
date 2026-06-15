@@ -45,7 +45,7 @@ shy too...)");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B180700000_07_050");
-    MsgDisp("Mikage","Don't apologize, I'll get embarrassed.
+    MsgDisp("Mikage","Don't apologise, I'll get embarrassed.
 Let's not count what happened just now?");
     MsgDisp("主人公","(Hmmm...
 Did I do something wrong?)");

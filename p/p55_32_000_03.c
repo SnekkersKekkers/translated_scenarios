@@ -16,7 +16,7 @@ ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("P553200003_32_010");
 MsgDisp("VP Himuro","What did you learn today?");
-MsgDisp("主人公","Um, that I should practice more...");
+MsgDisp("主人公","Um, that I should practise more...");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P553200003_32_020");

@@ -13,7 +13,7 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F022100002_21_010");
-MsgDisp("Michiru","I heard a kind of interesting rumor.
+MsgDisp("Michiru","I heard a kind of interesting rumour.
 About Vice Principal Himuro and some of the
 students.");
 MsgDisp("主人公","Himuro-sensei?");
@@ -22,7 +22,7 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F022100002_21_020");
 MsgDisp("Michiru","Right.
-There's a famous rumor that says he's
+There's a famous rumour that says he's
 actually an android.");
 MsgDisp("主人公","(I-I see...
 Himuro-sensei is an android...)");
@@ -31,7 +31,7 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100002_21_030");
 MsgDisp("Michiru","The way it goes is that he turns the bad
-students into honor students, in order to
+students into honour students, in order to
 make Haba High a super elite school, I
 suppose.");
 ChEye(21,0);
@@ -46,6 +46,6 @@ ChMotion(21,4);
 VoicePlay("F022100002_21_050");
 MsgDisp("Michiru","I wonder if Mikage-sensei will be alright...");
 MsgDisp("主人公","(｛みちる＊｝, are you really worried even
-though it's just a rumor?)");
+though it's just a rumour?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -50,7 +50,7 @@ It means that you are well dressed.");
     ChMotion(5,4);
     VoicePlay("S060500001_05_060");
     MsgDisp("Hiiragi","Yes.
-I can't help but be mesmerized by it, I
+I can't help but be mesmerised by it, I
 suppose.");
     MsgDisp("主人公","Hehe, yay!");
     ChMouth(5,3);

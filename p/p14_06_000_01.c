@@ -11,7 +11,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P140600001_06_010");
 MsgDisp("Himuro","Well, it's expected of a school cultural
-festival program.");
+festival programme.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

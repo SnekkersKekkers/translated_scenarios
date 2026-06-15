@@ -13,7 +13,7 @@ ChEyeOpenLevel(4,#1);
 ChCheek(4,8);
 VoicePlay("B020402128_04_010");
 MsgDisp("Nanatsumori","Figured I was used to seeing sexy girls from 
-modeling work... but you're on another level.
+modelling work... but you're on another level.
 I don't stand a chance.");
 MsgDisp("主人公","(What does winning or losing have to do with
 it? But ｛Nanatsumori＊｝ seems to like clothes

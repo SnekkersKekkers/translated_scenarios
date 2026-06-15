@@ -39,7 +39,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30501_05_010");
-MsgDisp("Hiiragi","I apologize.
+MsgDisp("Hiiragi","I apologise.
 But, it was fun listening to Inori, so I
 thought I would give it a try too.");
 MsgDisp("主人公","Hehe.

@@ -38,7 +38,7 @@ Let's have a break.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year the Gardening Club's program is a
+    MsgDisp("主人公","(This year the Gardening Club's programme is a
 cafe. I have to prepare herbal tea and cookies
 though...)");
     MsgClose();

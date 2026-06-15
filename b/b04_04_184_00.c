@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040418400_04_000");
     MsgDisp("Nanatsumori","Right!
-The world of colorful sea slugs is amazing.
+The world of colourful sea slugs is amazing.
 I'm going to buy merch.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

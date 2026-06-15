@@ -12,14 +12,14 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220030_02_000");
 MsgDisp("Sassa","I see...
-Don't apologize.");
+Don't apologise.");
 BGMPlay("BGM_C02_SASSA_C",0.01);
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220030_02_010");
 MsgDisp("Sassa","Ryota and Inori would yell at me if I made
-you apologize.");
+you apologise.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);

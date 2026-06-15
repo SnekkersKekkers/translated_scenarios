@@ -8,7 +8,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210001_02_010");
 MsgDisp("Sassa","You know, it almost feels like we can hear
-each other's thoughts, just like the rumors
+each other's thoughts, just like the rumours
 say?");
 MsgDisp("主人公","That's right...
 Can I try hearing ｛Sassa＊＊｝'s inner voice?");

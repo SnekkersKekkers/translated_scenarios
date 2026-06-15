@@ -65,7 +65,7 @@ ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_050");
 MsgDisp("Hiiragi","But, I could graduate thanks to you.");
 MsgDisp("主人公","That...That's because ｛Hiiragi＊＊＊｝ worked
-really hard both at the theater company
+really hard both at the theatre company
 and at his school life.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
@@ -85,7 +85,7 @@ MsgDisp("Hiiragi","Every day I felt ashamed of myself for
 being a worthless student.");
 MsgDisp("主人公","No. I think everyone is grateful that you
 worked so hard at the student council even
-though being the head of the theater
+though being the head of the theatre
 company is tough.");
 ChMotion(5,2);
 Wait(12,0);
@@ -177,7 +177,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_190");
 MsgDisp("Hiiragi","You were my only light as I struggled
-blindly through school and theater.");
+blindly through school and theatre.");
 MsgClear();
 ChClose(5);
 ChCustomLayout(5,5,0,-2.6);

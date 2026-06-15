@@ -5,7 +5,7 @@ VoicePlay("G020120300_01_000");
 MsgDisp("Kazama","I guess fireflies come in different types
 too, like ones that fly elegantly and ones
 that are in a rush.");
-MsgDisp("主人公","Yeah, the way they shine and the color of
+MsgDisp("主人公","Yeah, the way they shine and the colour of
 their lights are a bit different too.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
@@ -75,8 +75,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("G020120300_01_090");
 MsgDisp("Kazama","But you better get ready.
 I'm going to start wearing aprons in all
-sorts of colors to our dates from now on.");
-MsgDisp("主人公","(A colorful ｛Kazama＊＊｝ might be a bit like
+sorts of colours to our dates from now on.");
+MsgDisp("主人公","(A colourful ｛Kazama＊＊｝ might be a bit like
 these fireflies...)");
 BGMStop();
 MsgClose();

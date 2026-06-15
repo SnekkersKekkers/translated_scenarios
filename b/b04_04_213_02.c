@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040421302_04_010");
     MsgDisp("Nanatsumori","Right.
 ...It would be nice if the cats in my
-neighborhood were this friendly—.");
+neighbourhood were this friendly—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,7 +31,7 @@ neighborhood were this friendly—.");
     ChMotion(4,1,1);
     VoicePlay("B040421302_04_020");
     MsgDisp("Nanatsumori","The way you said that ....well, it's fine.
-The strays in my neighborhood don't really
+The strays in my neighbourhood don't really
 let me touch them.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

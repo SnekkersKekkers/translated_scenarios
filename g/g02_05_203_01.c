@@ -13,7 +13,7 @@ MsgDisp("主人公","Hehe, is it the ｛Hiiragi＊＊＊｝ of the firefly
 world?");
 ChEye(5,3);
 VoicePlay("G020520301_05_020");
-MsgDisp("Hiiragi","The poster boy of firefly theater, perhaps?");
+MsgDisp("Hiiragi","The poster boy of firefly theatre, perhaps?");
 MsgDisp("主人公","Hehe, something like that.");
 ChEye(5,4);
 ChMotion(5,0);

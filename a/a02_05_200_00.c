@@ -54,7 +54,7 @@ ChEye(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("A020520000_41_020");
 MsgDisp("President","What, he didn't tell you?
-Hiiragi-kun is the Habataki Theater Company
+Hiiragi-kun is the Habataki Theatre Company
 chairman and a Student Council member too.");
 MsgDisp("主人公","Woah, he's the chairman...∋");
 ChEye(5,0);
@@ -62,7 +62,7 @@ ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("A020520000_05_030");
 MsgDisp("Hiiragi","President, we are currently at school.
-My theater work isn't relevant here.");
+My theatre work isn't relevant here.");
 VoicePlay("A020520000_41_030");
 MsgDisp("President","R-Right.
 Of course. Let's work hard to make Habataki

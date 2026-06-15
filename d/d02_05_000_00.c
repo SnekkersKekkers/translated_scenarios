@@ -8,7 +8,7 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, ｛Hiiragi＊＊＊｝ sent me a message.)");
 MsgDisp("主人公","(It says...\"I want you to come and see the
-Habataki Theater Company's new play\" Eh...
+Habataki Theatre Company's new play\" Eh...
 Right now∋)");
 MsgClose();
 ScrFadeOut(0,0);
@@ -24,7 +24,7 @@ VoicePlay("D020500000_05_000");
 MsgDisp("Hiiragi","My apologies for calling you over here so
 suddenly.");
 MsgDisp("主人公","It's fine.
-Congratulations on completing the Theater
+Congratulations on completing the Theatre
 Company's newest production.");
 ChEye(5,4);
 ChMouth(5,4);

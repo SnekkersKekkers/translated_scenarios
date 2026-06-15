@@ -58,7 +58,7 @@ often isn't apparent in my times and records.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206502_02_050");
-        MsgDisp("Sassa","So I guess I empathize with the fireworks
+        MsgDisp("Sassa","So I guess I empathise with the fireworks
 artist a little.");
         MsgDisp("主人公","I see...");
         ChEye(2,0);

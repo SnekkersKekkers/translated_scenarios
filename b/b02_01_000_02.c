@@ -2,7 +2,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3,1);
 VoicePlay("B020100002_01_000");
-MsgDisp("Kazama","Yeah, that color suits you well.");
+MsgDisp("Kazama","Yeah, that colour suits you well.");
 MsgDisp("主人公","Hmm...?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -14,5 +14,5 @@ true.");
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","(｛Kazama＊＊｝ seems to like the color white.
+MsgDisp("主人公","(｛Kazama＊＊｝ seems to like the colour white.
 I'll have to remember that!)");

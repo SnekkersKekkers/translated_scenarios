@@ -51,7 +51,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,#1);
 VoicePlay("G110101103_01_040");
-MsgDisp("Kazama","As for me, I think it's better to prioritize
+MsgDisp("Kazama","As for me, I think it's better to prioritise
 our current customers.");
 MsgDisp("主人公","｛Kazama＊＊｝ is amazing huh...you think about
 the customers in so many different ways.");

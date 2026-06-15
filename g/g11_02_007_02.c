@@ -1,7 +1,7 @@
 BGOpen("ex110",0);
 ScrFadeIn(0);
 VoicePlay("G110200702_34_000");
-MsgDisp("Member A","Today we're practicing on the community
+MsgDisp("Member A","Today we're practising on the community
 grounds. Everyone, let's do some training
 that we can't do normally!");
 VoicePlay("G110200702_44_000");
@@ -24,7 +24,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("G110200702_02_010");
 MsgDisp("Sassa","Really.
-We don't get to practice javelin throwing in
+We don't get to practise javelin throwing in
 the school courtyard often. I'm happy.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);

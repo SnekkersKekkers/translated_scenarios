@@ -140,7 +140,7 @@ feel guilty...)");
         ChMotion(2,4);
         VoicePlay("F010200007_02_100");
         MsgDisp("Sassa","I see.
-It's all good, don't apologize.
+It's all good, don't apologise.
 Maybe another time.");
         MsgDisp("主人公","Sure.
 Thank you for inviting me.");

@@ -35,7 +35,7 @@ ChMotion(5,2);
 VoicePlay("B040506400_05_040");
 MsgDisp("Hiiragi","Ah, look at that.
 They have a sunny side up egg as a topping.
-Is this the flavor of home?");
+Is this the flavour of home?");
 ChMotion(5,0);
 VoicePlay("B040506400_05_050");
 MsgDisp("Hiiragi","I'll buy two.");

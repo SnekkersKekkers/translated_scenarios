@@ -46,9 +46,9 @@ No, we were definitely out of sync...)");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("O030300001_03_040");
-    MsgDisp("Honda","Hm, why are you apologizing?
+    MsgDisp("Honda","Hm, why are you apologising?
 A team in a three-legged race has two people,
-right? Then, I should apologize, too.");
+right? Then, I should apologise, too.");
     MsgDisp("主人公","No, but...");
     ChEye(3,0);
     ChMouth(3,3);

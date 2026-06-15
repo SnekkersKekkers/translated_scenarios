@@ -40,7 +40,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B20701_03_010");
-MsgDisp("Honda","I don't know about a favorite, but there's
+MsgDisp("Honda","I don't know about a favourite, but there's
 something about cockatiels that I'm drawn to.");
 ChEye(1,0);
 ChMouth(1,3);

@@ -112,7 +112,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020201000_02_150");
-MsgDisp("Sassa","I realized that that was the real me.");
+MsgDisp("Sassa","I realised that that was the real me.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,0);
@@ -127,7 +127,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020201000_02_170");
 MsgDisp("Sassa","It was the time we spent together that
-made me realize that.");
+made me realise that.");
 MsgClear();
 ChClose(2);
 ChCustomLayout(2,5,0,-2.8);

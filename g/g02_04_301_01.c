@@ -31,7 +31,7 @@ You have a lot of friends too.
 You're often surrounded by people like that.");
 ChMotion(4,0,1);
 VoicePlay("G020430101_04_040");
-MsgDisp("Nanatsumori","And at the center of it all, it's always you.
+MsgDisp("Nanatsumori","And at the centre of it all, it's always you.
 Talking and laughing happily.");
 ChEye(4,0);
 ChMouth(4,3);

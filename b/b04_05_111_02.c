@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040511102_05_010");
-    MsgDisp("Hiiragi","Yes, I finally realized how fun it is.
+    MsgDisp("Hiiragi","Yes, I finally realised how fun it is.
 Now, will you give me your hand?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
@@ -63,7 +63,7 @@ Everyone would be surprised, huh?");
 boo once they see how I actually skate.");
         MsgDisp("主人公","No way.
 It would be a good way to advertise the
-Theater Company's Ice Show.");
+Theatre Company's Ice Show.");
         ChEye(5,0);
         ChMouth(5,2);
         VoicePlay("B040511102_05_060");

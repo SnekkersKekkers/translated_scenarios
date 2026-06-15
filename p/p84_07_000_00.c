@@ -18,7 +18,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P840700000_07_010");
 MsgDisp("Mikage","I already knew that.
-Haha, good rumors spread quick.");
+Haha, good rumours spread quick.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -1,4 +1,4 @@
-MsgDisp("主人公","What's ｛Sassa＊＊｝'s favorite food?");
+MsgDisp("主人公","What's ｛Sassa＊＊｝'s favourite food?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

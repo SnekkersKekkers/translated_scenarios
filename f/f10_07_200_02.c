@@ -91,7 +91,7 @@ MsgDisp("School Boy","Mikagecchi, I don't like vegetables though—.");
 VoicePlay("F100720002_07_070");
 MsgDisp("Mikage","It's people like you that I want to feed my
 vegetables to.
-Let's go pick our favorite vegetables.");
+Let's go pick our favourite vegetables.");
 SEStop("EV_SE_841",1);
 SEStop("EV_SE_842",2);
 MsgDisp("主人公","(Wow, biology class is like a salad bar!

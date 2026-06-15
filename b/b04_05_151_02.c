@@ -63,7 +63,7 @@ experience.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040515102_05_050");
-        MsgDisp("Hiiragi","Phew, you don't need to apologize.
+        MsgDisp("Hiiragi","Phew, you don't need to apologise.
 I phrased it weirdly.");
         ChMouth(5,4);
         ChMotion(5,2);

@@ -28,6 +28,6 @@ I'm a little jealous.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B020502000_05_040");
-MsgDisp("Hiiragi","Well, as the chairman of the theater company,
+MsgDisp("Hiiragi","Well, as the chairman of the theatre company,
 I can hardly afford to lose, can I?");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ has gone into chairman mode.)");

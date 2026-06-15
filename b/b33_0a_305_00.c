@@ -57,7 +57,7 @@ VoicePlay("B330A30500_02_010");
 MsgDisp("Sassa","That's right.
 You won't be able to catch up to us with a
 bullseye you know?");
-MsgDisp("主人公","The bullseye is in the center right...?
+MsgDisp("主人公","The bullseye is in the centre right...?
 Is there a higher score than that?");
 ChEye(1,0);
 ChMouth(1,0);

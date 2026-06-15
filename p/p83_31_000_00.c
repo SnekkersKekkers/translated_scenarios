@@ -18,7 +18,7 @@ VoicePlay("P833100000_31_010");
 MsgDisp("Goro","Ah, it's you!
 I have to thank you for inviting me to the
 cultural festival♪ Could you show me around?");
-MsgDisp("主人公","Yes, the Student Council will be honored to
+MsgDisp("主人公","Yes, the Student Council will be honoured to
 assist you!");
 ChEye(31,0);
 ChMouth(31,0);

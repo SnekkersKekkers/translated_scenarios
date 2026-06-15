@@ -7,7 +7,7 @@ ChMotion(6,4,1);
 ScrFadeIn(0);
 VoicePlay("B040609002_06_000");
 MsgDisp("Himuro","Plants are surprisingly deep...");
-MsgSel("Are you becoming interested in plants?","You finally realized huh!","They are amazing!");
+MsgSel("Are you becoming interested in plants?","You finally realised huh!","They are amazing!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

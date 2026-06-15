@@ -56,7 +56,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020611000_06_050");
-MsgDisp("Himuro","When I realized that, I was desperately
+MsgDisp("Himuro","When I realised that, I was desperately
 searching for you.");
 ChEye(6,2);
 ChMouth(6,4);

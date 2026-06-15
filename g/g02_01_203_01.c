@@ -87,7 +87,7 @@ ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("G020120301_01_100");
 MsgDisp("Kazama","You've totally missed my point, but thanks.");
-MsgDisp("主人公","(Does ｛Kazama＊＊｝ not realize how popular he
+MsgDisp("主人公","(Does ｛Kazama＊＊｝ not realise how popular he
 is...?)");
 BGMStop();
 MsgClose();

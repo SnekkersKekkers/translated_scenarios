@@ -3,7 +3,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B020300009_03_000");
-MsgDisp("Honda","That color is trendy now, right?
+MsgDisp("Honda","That colour is trendy now, right?
 I've seen it around the city a lot.");
 MsgDisp("主人公","Ah, you noticed?");
 ChEye(3,3);

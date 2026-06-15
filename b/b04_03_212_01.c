@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040321201_03_000");
 MsgDisp("Honda","Look look, paw manju!
 They're so realistic.");
-MsgSel("Interesting huh, what flavor?","Looks like a bear's paw","That kind of makes me feel bad for it?");
+MsgSel("Interesting huh, what flavour?","Looks like a bear's paw","That kind of makes me feel bad for it?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040321201_03_010");
     MsgDisp("Honda","Yep yep, nice idea!
-It says it's miso flavored.");
+It says it's miso flavoured.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

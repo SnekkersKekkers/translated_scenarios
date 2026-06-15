@@ -25,7 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040221101_02_020");
-    MsgDisp("Sassa","Close to 100 kilometers an hour.
+    MsgDisp("Sassa","Close to 100 kilometres an hour.
 Humans couldn't compete with that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

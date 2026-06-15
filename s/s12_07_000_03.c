@@ -120,7 +120,7 @@ beauty beside them to be healthy and strong.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700003_07_110");
-    MsgDisp("Mikage","Do you realize how red you're turning, my
+    MsgDisp("Mikage","Do you realise how red you're turning, my
 little beauty?
 See you.");
     MsgClose();

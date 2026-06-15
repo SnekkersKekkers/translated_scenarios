@@ -44,7 +44,7 @@ ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("B070500001_05_490");
 MsgDisp("Hiiragi","Our bond may be stronger since you're at the
-center.");
+centre.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_500");

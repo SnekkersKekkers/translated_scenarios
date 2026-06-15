@@ -19,7 +19,7 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("U022100002_21_020");
 MsgDisp("Michiru","If you come here as a couple on a night with
-fireflies, it's rumored that something
+fireflies, it's rumoured that something
 magical will happen.");
 ChEye(21,0);
 ChMouth(21,0);

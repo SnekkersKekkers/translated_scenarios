@@ -121,7 +121,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B050600100_06_110");
 MsgDisp("Himuro","Everyone is like this.
-Even if you don't realize it, we all have our
+Even if you don't realise it, we all have our
 strengths and weaknesses.");
 ChEye(6,0);
 ChMouth(6,0);

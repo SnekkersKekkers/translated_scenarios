@@ -8,7 +8,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040706101_07_000");
 MsgDisp("Mikage","Oiii, don't go any further into the sea!");
-MsgSel("I'll stop them!","Isn't that the swimming club practicing long distance swimming?","Once they've suffered the consequences they'll understand, right?");
+MsgSel("I'll stop them!","Isn't that the swimming club practising long distance swimming?","Once they've suffered the consequences they'll understand, right?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -43,7 +43,7 @@ and take a little break.)");
     VoicePlay("I260300000_03_160");
     MsgDisp("Honda","Hm?
 What's up?");
-    MsgDisp("主人公","The other day, we did a \"Draw your favorite
+    MsgDisp("主人公","The other day, we did a \"Draw your favourite
 person\" contest here, right?");
     ChEye(3,3);
     ChMouth(3,3);
@@ -74,7 +74,7 @@ She captured your traits well!");
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_200");
     MsgDisp("Honda","This means that there are people who
-recognize your hard work.");
+recognise your hard work.");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);

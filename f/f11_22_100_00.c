@@ -32,7 +32,7 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F112210000_22_040");
 MsgDisp("Hikaru","Hikaru went to get her fortune told, then saw
-the girl's face, and realized.
+the girl's face, and realised.
 That girl's in love with someone～");
 ChMotion(22,4,1);
 VoicePlay("F112210000_22_050");

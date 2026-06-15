@@ -12,7 +12,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D150002501_05_000");
 MsgDisp("Hiiragi","Yes.
-This is my favorite time of day.");
+This is my favourite time of day.");
 MsgDisp("主人公","It's both fun and delicious.");
 ChEye(2,0);
 ChMouth(2,3);

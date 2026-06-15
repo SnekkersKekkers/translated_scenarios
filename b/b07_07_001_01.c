@@ -11,7 +11,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070700001_07_020");
-MsgDisp("Mikage","To him, school is second to theater.
+MsgDisp("Mikage","To him, school is second to theatre.
 He only goes so he can get by without any
 problems.");
 ChEye(7,0);

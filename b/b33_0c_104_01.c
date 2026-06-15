@@ -44,13 +44,13 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C10401_05_010");
-MsgDisp("Hiiragi","I apologize for that.");
+MsgDisp("Hiiragi","I apologise for that.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("B330C10401_07_010");
 MsgDisp("Mikage","Haha, my bad, my bad.
-I'm the one who should apologize.
+I'm the one who should apologise.
 Both of you caught it because of me.");
 ChEye(5,0);
 ChMouth(5,2);
@@ -114,7 +114,7 @@ ChEye(7,2);
 ChMouth(7,2);
 ChMotion(7,2);
 VoicePlay("B330C10401_07_050");
-MsgDisp("Mikage","Wouldn't it be nice if he sympathized with me
+MsgDisp("Mikage","Wouldn't it be nice if he sympathised with me
 a bit more?");
 MsgDisp("主人公","Hehe.
 ｛Mikage＊＊｝, are you feeling down?");

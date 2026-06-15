@@ -90,7 +90,7 @@ Will you not be serving me?");
     MsgDisp("Hiiragi","I see...
 Then, I'll be enjoying my dango inside until
 you come to serve me.");
-    MsgDisp("主人公","Yes, please savor them.");
+    MsgDisp("主人公","Yes, please savour them.");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

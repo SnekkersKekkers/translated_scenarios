@@ -83,9 +83,9 @@ Really?");
         ChMouth(2,4);
         ChMotion(2,5);
         VoicePlay("B040221302_02_070");
-        MsgDisp("Sassa","Some breeds can run at 70 kilometers per
+        MsgDisp("Sassa","Some breeds can run at 70 kilometres per
 hour. Even the fastest humans can only do
-about 40 kilometers per hour.");
+about 40 kilometres per hour.");
         MsgDisp("主人公","I see.
 Then if you could beat a dog, ｛Sassa＊＊｝
 could be world champion.");

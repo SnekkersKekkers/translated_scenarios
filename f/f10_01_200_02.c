@@ -17,7 +17,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100120002_07_000");
-MsgDisp("Mikage","Ah, it's the last installment.
+MsgDisp("Mikage","Ah, it's the last instalment.
 Kazama is graduating soon.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -65,7 +65,7 @@ Wait(8,0);
 ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("F100120002_01_040");
-MsgDisp("Kazama","I'm a pajama guy from now on.");
+MsgDisp("Kazama","I'm a pyjama guy from now on.");
 MsgDisp("主人公","(Phew, it's okay for now...
 I think?)");
 BGMStop();

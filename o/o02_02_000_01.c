@@ -90,7 +90,7 @@ fun.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("O020200001_02_100");
-    MsgDisp("Sassa","There are still programs left.
+    MsgDisp("Sassa","There are still programmes left.
 Let's do our best for the rest of them.");
     MsgDisp("主人公","Yeah.
 You're right.");

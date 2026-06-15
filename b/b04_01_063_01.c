@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040106301_01_010");
-    MsgDisp("Kazama","The color and shape are the same.
-Even the cross section fibers look similar!");
+    MsgDisp("Kazama","The colour and shape are the same.
+Even the cross section fibres look similar!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

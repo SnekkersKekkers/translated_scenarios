@@ -10,7 +10,7 @@ ChOpen(2,37,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("D010200600_02_000");
 MsgDisp("Sassa","｛主人公｝.
-After this is the 110 Meter Hurdle.");
+After this is the 110 Metre Hurdle.");
 MsgDisp("主人公","Right.
 Good luck.");
 ChEye(2,0);

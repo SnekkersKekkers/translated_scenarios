@@ -32,7 +32,7 @@ ChMotion(5,0);
 VoicePlay("P540500001_05_030");
 MsgDisp("Hiiragi","Come on, look ahead.");
 MsgDisp("主人公","(Ugh...
-I should have practiced more during the
+I should have practised more during the
 preparation period...)");
 MsgClose();
 ScrFadeOut(0,0);

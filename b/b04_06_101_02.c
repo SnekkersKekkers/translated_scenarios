@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040610102_06_010");
-    MsgDisp("Himuro","That doesn't mean you have to apologize, I
+    MsgDisp("Himuro","That doesn't mean you have to apologise, I
 just wanted to hear your reasoning.");
     MsgDateResultDisp();
     break ;

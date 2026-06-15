@@ -45,7 +45,7 @@ ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("M010600000_06_050");
 MsgDisp("Himuro","Lately, you've been overdoing it, haven't
-you? Your color was off, the fact that you'd
+you? Your colour was off, the fact that you'd
 give out was obvious.");
 ChEye(6,0);
 ChMouth(6,0);

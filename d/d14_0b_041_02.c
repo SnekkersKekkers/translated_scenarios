@@ -89,7 +89,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B04102_01_070");
 MsgDisp("Kazama","Sigh...
-I now realize the importance of Nanatsumori.");
+I now realise the importance of Nanatsumori.");
 MsgDisp("主人公","(Hehe, good work, ｛Kazama＊＊｝.
 Next time let's invite ｛Nanatsumori＊｝ too
 and go as a four.)");

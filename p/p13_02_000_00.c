@@ -62,7 +62,7 @@ Are you going to try it?");
     MsgDisp("Sassa","Sounds good.
 Then, who is Molly?");
     MsgDisp("主人公","Mikage-sensei's family cow.
-The inside of the maze is modeled after the
+The inside of the maze is modelled after the
 image of a ranch.");
     ChEye(2,0);
     ChMouth(2,4);

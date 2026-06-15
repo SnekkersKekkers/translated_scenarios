@@ -100,7 +100,7 @@ I'll ask you out again.");
         ChMouth(2,3);
         ChMotion(2,4);
         VoicePlay("J060200000_02_070");
-        MsgDisp("Sassa","Don't apologize so much.
+        MsgDisp("Sassa","Don't apologise so much.
 Bye.");
         MsgClose();
         MsgClose();

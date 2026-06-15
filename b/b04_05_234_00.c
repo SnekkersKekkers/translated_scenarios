@@ -5,7 +5,7 @@ MsgClose();
 ChOpen(5,255,0,2,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523400_05_000");
-MsgDisp("Hiiragi","That was some incredible maneuvering, wasn't
+MsgDisp("Hiiragi","That was some incredible manoeuvring, wasn't
 it?");
 MsgSel("I'm getting so excited, just like a kid!","I could really feel the centrifugal force.","My head...is spinning...");
 switch (MsgSelRsltGet()){

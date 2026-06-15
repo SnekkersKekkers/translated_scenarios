@@ -104,7 +104,7 @@ ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("B330C10800_05_030");
 MsgDisp("Hiiragi","There's a circle drawn on the mat.
-Like you should fall into the center.");
+Like you should fall into the centre.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

@@ -22,7 +22,7 @@ though.");
     MsgDisp("Sassa","That's good.
 If you can do it in practice, you can do it
 in the real thing. Let's both do our best!");
-    MsgDisp("主人公","(I'm glad I practiced hard.
+    MsgDisp("主人公","(I'm glad I practised hard.
 I'll work harder!)");
     break ;
     case 4:

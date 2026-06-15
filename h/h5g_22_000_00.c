@@ -40,6 +40,6 @@ MsgDisp("Hikaru","Hikaru wants to hear Mari's performance
 someday, too～♪
 Looking forward to it. Okay?");
 MsgDisp("主人公","(Hehe!
-I'm glad I practiced so hard for brass band!)");
+I'm glad I practised so hard for brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

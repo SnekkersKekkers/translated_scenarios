@@ -65,7 +65,7 @@ StlEye(8,1);
 StlMouth(8,1);
 StlEyeOpenLevel(8,5);
 VoicePlay("B050800000_08_080");
-MsgDisp("Shirahane","I'm sure it'll fulfill your love too.");
+MsgDisp("Shirahane","I'm sure it'll fulfil your love too.");
 MsgDisp("主人公","Eh, yeah.");
 StlEye(8,0);
 StlMouth(8,0);

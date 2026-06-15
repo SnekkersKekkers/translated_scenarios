@@ -9,7 +9,7 @@ switch (ChPrmGet(5,6)){
 the joint practice with another school.
 Your strength and flexibility are your
 true strengths.");
-    MsgDisp("主人公","Thank you, I'll practice more and get even
+    MsgDisp("主人公","Thank you, I'll practise more and get even
 better!");
     MsgDisp("主人公","(I'm glad I gave it my all!)");
     break ;

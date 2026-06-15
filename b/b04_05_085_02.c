@@ -65,7 +65,7 @@ embarrassing.");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040508502_05_070");
-        MsgDisp("Hiiragi","I apologize for that.
+        MsgDisp("Hiiragi","I apologise for that.
 But, I was super happy being surrounded by
 your breath.");
         MsgDisp("主人公","Hey!");

@@ -50,7 +50,7 @@ ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("G020430000_04_080");
 MsgDisp("Nanatsumori","Well, maybe I'll treat them to some delicious
-sweets soon and apologize to them in my
+sweets soon and apologise to them in my
 heart.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ really cares about his
 friends, huh?)");

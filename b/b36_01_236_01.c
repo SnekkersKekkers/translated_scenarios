@@ -51,7 +51,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B360123601_01_050");
 MsgDisp("Kazama","I see.
 At that time, we were separated by 9000
-kilometers.");
+kilometres.");
 MsgClose();
 ChClose(1,0,30);
 ChLayout(0);

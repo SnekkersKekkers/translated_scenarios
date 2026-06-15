@@ -53,7 +53,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020130004_01_060");
 MsgDisp("Kazama","And it seems to me like Nanatsumori enjoys
 forcing me to deal with Honda.");
-MsgDisp("主人公","Hahah, so you're the center of that
+MsgDisp("主人公","Hahah, so you're the centre of that
 friendship, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -61,7 +61,7 @@ ChMotion(1,0);
 VoicePlay("G020130004_01_070");
 MsgDisp("Kazama","I'm not so sure about that...
 And it's different when it's the four of us.
-You're the one in the center of that.");
+You're the one in the centre of that.");
 MsgDisp("主人公","That's not-");
 ChEye(1,0);
 ChMouth(1,2);

@@ -73,7 +73,7 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C20600_06_030");
 MsgDisp("Himuro","Yanosuke-senpai, are you going to incorporate
-this essence into Habataki Theater Troupe?");
+this essence into Habataki Theatre Troupe?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

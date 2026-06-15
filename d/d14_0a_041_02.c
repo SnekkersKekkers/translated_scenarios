@@ -118,7 +118,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D140A04102_01_060");
 MsgDisp("Kazama","No, not \"Eh?\"
 How can you say that?");
-MsgDisp("主人公","(Umm...why am I being criticized?)");
+MsgDisp("主人公","(Umm...why am I being criticised?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

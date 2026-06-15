@@ -38,7 +38,7 @@ I think we were able to make a good blend.");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year the Gardening Club's program is a
+    MsgDisp("主人公","(This year the Gardening Club's programme is a
 cafe.
 We prepared herbal tea and cookies, but...)");
     MsgClose();

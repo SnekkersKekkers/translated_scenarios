@@ -38,7 +38,7 @@ will even notice if you mess up your lines.");
     ChMotion(3,0,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("P230300000_03_030");
-    MsgDisp("Honda","They prepared such an amazing armor and
+    MsgDisp("Honda","They prepared such an amazing armour and
 helmet, even I look like the real deal.");
     MsgDisp("主人公","Yeah, it looks just like the real thing?");
     ChEye(3,0);

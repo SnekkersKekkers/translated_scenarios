@@ -71,7 +71,7 @@ though.");
     MsgDisp("主人公","Sorry for the bad timing.");
     VoicePlay("J030301001_03_090");
     MsgDisp("Honda","What?
-Why are you apologizing?
+Why are you apologising?
 This is no one's fault.");
     VoicePlay("J030301001_03_100");
     MsgDisp("Honda","Okay, well, let's make plans again soon.

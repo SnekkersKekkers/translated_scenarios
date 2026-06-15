@@ -59,7 +59,7 @@ while you lay back in the chair.");
         VoicePlay("B040205102_02_050");
         MsgDisp("Sassa","That's also awesome.");
         MsgDisp("主人公","That's...
-The same as a movie theater?");
+The same as a movie theatre?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);
@@ -69,7 +69,7 @@ That's just a normal horror movie.
 And what about the star theme?");
         MsgDisp("主人公","Hehe.
 Let's leave the horror movies to the movie
-theaters, shall we?");
+theatres, shall we?");
         ChEye(2,3);
         ChMouth(2,4);
         ChMotion(2,3);

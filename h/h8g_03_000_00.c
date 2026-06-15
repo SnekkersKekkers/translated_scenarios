@@ -20,7 +20,7 @@ MsgDisp("主人公","...Are you talking about the award?");
 ChSet(3,3);
 VoicePlay("H7G0300000_03_020");
 MsgDisp("Honda","Yep yep.
-You were recognized by the student council
+You were recognised by the student council
 and awarded as a model student, right?");
 ChEye(3,0);
 ChMouth(3,3);

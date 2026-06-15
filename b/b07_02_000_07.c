@@ -25,7 +25,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200000_02_370");
-MsgDisp("Sassa","Yeah...hey, do me a favor.
+MsgDisp("Sassa","Yeah...hey, do me a favour.
 Ask me that question again after the
 Inter-High.");
 MsgDisp("主人公","Hehe, sure.

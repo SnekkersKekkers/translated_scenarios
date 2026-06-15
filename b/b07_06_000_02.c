@@ -55,7 +55,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600000_06_140");
 MsgDisp("Himuro","Do as you like?");
-MsgDisp("主人公","(Should I practice making sata andagi?)");
+MsgDisp("主人公","(Should I practise making sata andagi?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

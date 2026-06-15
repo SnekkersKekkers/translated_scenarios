@@ -67,7 +67,7 @@ MsgDisp("Woman","Oh my!
 The chairman really was here!
 Ah! Here, these are for you!");
 VoicePlay("E010510000_05_080");
-MsgDisp("Hiiragi","Ah, I'm honored.
+MsgDisp("Hiiragi","Ah, I'm honoured.
 Thank you very much.");
 MsgDisp("主人公","(I see, perhaps information of his location
 was circulating?)");

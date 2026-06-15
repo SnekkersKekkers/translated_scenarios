@@ -50,7 +50,7 @@ It's probably my fault.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O030100002_01_040");
-    MsgDisp("Kazama","Why apologize?
+    MsgDisp("Kazama","Why apologise?
 It's fine, we stand out more than first
 place.");
     ChEye(1,0);

@@ -44,7 +44,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610302_06_060");
 MsgDisp("Himuro","But you're a girl.
-Wouldn't it be a problem if weird rumors
+Wouldn't it be a problem if weird rumours
 started?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -60,7 +60,7 @@ ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G020610302_06_080");
 MsgDisp("Himuro","...So, how about it?
-Would it be a problem if there were rumors
+Would it be a problem if there were rumours
 about us?");
 MsgDisp("主人公","I don't think so?");
 ChEye(6,0);

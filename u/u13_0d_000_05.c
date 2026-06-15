@@ -92,7 +92,7 @@ ice wall of his.");
     MsgDisp("Hikaru","Mari, you really did so well▼");
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00005_21_050");
-    MsgDisp("Michiru","It seems like he finally realized that he
+    MsgDisp("Michiru","It seems like he finally realised that he
 doesn't have to overwork himself all the
 time.");
     StlEye(22,0);

@@ -102,7 +102,7 @@ The Hanatsubakis are intense...
 I'm counting on you when the time comes!");
 MsgDisp("主人公","Yeah!
 But I think you'd make everyone happy by
-modeling for their article, right?");
+modelling for their article, right?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -149,7 +149,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B050400000_04_080");
 MsgDisp("Nanatsumori","When humans come across a situation that is
-unfavorable for them, they can filter it out
+unfavourable for them, they can filter it out
 and make it disappear.");
 ChEye(4,0);
 ChMouth(4,3);

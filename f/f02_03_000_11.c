@@ -18,7 +18,7 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("F020300011_03_010");
 MsgDisp("Honda","Every year, I get pestered by the kids in my
-neighborhood and end up making them.");
+neighbourhood and end up making them.");
 ChMotion(3,4);
 VoicePlay("F020300011_03_020");
 MsgDisp("Honda","But there's less snow each year.
@@ -45,7 +45,7 @@ ChMotion(3,1);
 VoicePlay("F020300011_03_050");
 MsgDisp("Honda","This year, I won't be making just your
 average snowman.
-I'll be extra particular about the modeling.");
+I'll be extra particular about the modelling.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

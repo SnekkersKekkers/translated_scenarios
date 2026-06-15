@@ -32,7 +32,7 @@ MsgDisp("","I got a thorough scolding from the
 manager in the office.");
 MsgDisp("","She laughed, but during work, I
 clasped her hand didn't I...?");
-MsgDisp("","Sigh, next shift I have to apologize
+MsgDisp("","Sigh, next shift I have to apologise
 properly.
 Both to her and the manager.");
 MsgClear();
@@ -42,7 +42,7 @@ BGOpen("ad330",0);
 ScrFadeIn(0);
 MsgDisp("","A long time ago, when I discovered
 things I didn't know or didn't
-realize, I would be super happy.");
+realise, I would be super happy.");
 MsgDisp("","But, I never thought such a change
 within me would occur. A chemical
 reaction...a thermal reaction?");

@@ -40,7 +40,7 @@ ChMotion(2,2);
 VoicePlay("G020220201_02_050");
 MsgDisp("Sassa","Sigh... I thought I was the person closest to
 you, but then Inori got past me like it was
-nothing before I even realized it.");
+nothing before I even realised it.");
 MsgDisp("主人公","What does that mean...");
 ChEye(2,0);
 ChMouth(2,0);

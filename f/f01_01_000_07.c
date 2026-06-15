@@ -104,7 +104,7 @@ Should I greet you here tomorrow, too?");
         ChCheek(1,0);
         VoicePlay("F010100007_01_090");
         MsgDisp("Kazama","That works.
-We'll eat your favorite sweets.");
+We'll eat your favourite sweets.");
         break ;
         case 2:
         ChEye(1,2);

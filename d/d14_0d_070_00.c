@@ -13,7 +13,7 @@ MsgDisp("Hikaru","Something Mari wants to ask us?
 Is it about love?
 Style? Which is it?");
 MsgDisp("主人公","No, that's not it.
-You two are twin sisters but your hair colors
+You two are twin sisters but your hair colours
 are completely different?");
 ChEye(22,2);
 ChMouth(22,5);
@@ -31,7 +31,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 MsgDisp("主人公","I mean, your faces are the splitting image of
-each other, but your hair color is different.
+each other, but your hair colour is different.
 I wonder why that is?");
 ChEye(21,0);
 ChMouth(21,0);

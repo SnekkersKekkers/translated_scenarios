@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("F022200003_22_000");
 MsgDisp("Hikaru","Hey, Mari, did you know?
-About that legendary rumor at the church!");
+About that legendary rumour at the church!");
 MsgDisp("主人公","Which one?");
 ChEye(22,0);
 ChMouth(22,3);

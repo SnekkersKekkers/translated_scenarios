@@ -2,7 +2,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);
 VoicePlay("B020202128_02_000");
-MsgDisp("Sassa","I thought maybe it was too flashy of a color,
+MsgDisp("Sassa","I thought maybe it was too flashy of a colour,
 but when it's you pulling it off, I can't
 seem to say anything about it.");
 MsgDisp("主人公","Sorry, you don't like this outfit?");
@@ -18,7 +18,7 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B020202128_02_020");
 MsgDisp("Sassa","But I was wrong.
-Combining bold colors with a bold personality
+Combining bold colours with a bold personality
 might just be the best combo.");
 MsgDisp("主人公","(He seems to have started to like clothes in
-bright colors like this.)");
+bright colours like this.)");

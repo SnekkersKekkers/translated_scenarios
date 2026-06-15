@@ -19,7 +19,7 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_250");
 MsgDisp("Himuro","As for Kojiro-sensei, he tells me to
-apologize to Reiichi on his behalf, which
+apologise to Reiichi on his behalf, which
 means I end up lecturing him.");
 ChEye(6,2);
 ChMouth(6,0);

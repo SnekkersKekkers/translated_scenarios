@@ -130,7 +130,7 @@ VoicePlay("D010300500_03_130");
 MsgDisp("Honda","Alright, we're going to start knocking!
 １０００ Knocks∈");
 MsgDisp("主人公","Ehh∋");
-MsgDisp("主人公","(...I think I can empathize with his little
+MsgDisp("主人公","(...I think I can empathise with his little
 sister a bit and why she didn't want him
 coming in...?)");
 MsgClose();

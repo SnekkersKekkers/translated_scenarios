@@ -2,16 +2,16 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020340000_03_000");
-MsgDisp("Honda","I'm thinking of changing my hair color soon.
+MsgDisp("Honda","I'm thinking of changing my hair colour soon.
 I've done thorough research on how hair
 texture changes after bleaching.");
 MsgDisp("主人公","You mean going back to your natural hair
-color?");
+colour?");
 ChEye(3,0);
 ChMouth(3,4);
 VoicePlay("G020340000_03_010");
-MsgDisp("Honda","Hmm, maybe a different color?
-My little sister seems to have another color
+MsgDisp("Honda","Hmm, maybe a different colour?
+My little sister seems to have another colour
 she wants to try, so I might try it for her.");
 MsgDisp("主人公","But if you do it too much, the teachers might
 notice...");
@@ -30,7 +30,7 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020340000_03_040");
 MsgDisp("Honda","But there's one issue.
-If I change colors again, it will really
+If I change colours again, it will really
 damage my hair.");
 ChEye(3,4);
 ChMouth(3,4);

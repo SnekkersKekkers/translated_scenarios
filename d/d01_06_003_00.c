@@ -70,7 +70,7 @@ StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600300_06_060");
 MsgDisp("Himuro","I asked the store chairman for help.
-He's the one who organizes the annual surfing
+He's the one who organises the annual surfing
 exhibition.");
 StlEye(6,0);
 StlMouth(6,0);

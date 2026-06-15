@@ -30,6 +30,6 @@ MsgDisp("Mikage","You're the star of today.
 Enjoy this atmosphere.");
 MsgDisp("主人公","(I feel a little shy, but...
 I'm happy that my hard work in the club is
-being recognized.)");
+being recognised.)");
 MsgClose();
 ScrFadeOut(0,0);

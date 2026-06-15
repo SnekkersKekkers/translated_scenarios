@@ -31,7 +31,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B150300100_03_040");
-MsgDisp("Honda","Why are you apologizing?
+MsgDisp("Honda","Why are you apologising?
 It's probably just my approach that was off.");
 ChEye(3,4);
 ChMouth(3,3);

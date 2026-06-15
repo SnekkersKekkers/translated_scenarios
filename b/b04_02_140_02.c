@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040214002_02_010");
     MsgDisp("Sassa","Haha!
-I don't even sweat this much when I practice.");
+I don't even sweat this much when I practise.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

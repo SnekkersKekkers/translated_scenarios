@@ -47,7 +47,7 @@ Sorry, that was a bother, wasn't it?");
 ChEye(3,0);
 ChMotion(3,0,1);
 VoicePlay("B150300000_03_060");
-MsgDisp("Honda","Why are you apologizing?
+MsgDisp("Honda","Why are you apologising?
 If it was a problem, I'd let you know.");
 ChEye(3,0);
 ChMouth(3,3);

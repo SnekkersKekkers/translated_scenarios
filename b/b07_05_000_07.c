@@ -2,7 +2,7 @@ MsgDisp("主人公","What's your dream for the future,
 ｛Hiiragi＊＊＊｝?");
 ChMouth(5,2);
 VoicePlay("B070500000_05_290");
-MsgDisp("Hiiragi","Apart from the theater company?");
+MsgDisp("Hiiragi","Apart from the theatre company?");
 MsgDisp("主人公","Yeah, ｛Hiiragi＊＊＊｝'s dreams as an individual.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -20,7 +20,7 @@ ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B070500000_05_320");
-MsgDisp("Hiiragi","Apart from that, getting Habataki Theater on
+MsgDisp("Hiiragi","Apart from that, getting Habataki Theatre on
 track to be loved by citizens for years to
 come is also my personal dream.");
 MsgDisp("主人公","Yeah, you'll be able to make both dreams come

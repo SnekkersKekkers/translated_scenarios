@@ -7,7 +7,7 @@ ChEye(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B040108302_01_000");
 MsgDisp("Kazama","...Let's try and keep quiet for a second.");
-MsgSel("...Hey, hey, did you hear that?","Isn't that rumor at night?","THIS. IS. MY. INNER. VOICE. BEEP.");
+MsgSel("...Hey, hey, did you hear that?","Isn't that rumour at night?","THIS. IS. MY. INNER. VOICE. BEEP.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

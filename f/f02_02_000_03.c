@@ -13,7 +13,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("F020200003_02_010");
 MsgDisp("Sassa","Yeah, about Mikage-sensei.
-There's a rumor he's gathering ostriches and
+There's a rumour he's gathering ostriches and
 breeding them.");
 MsgDisp("主人公","Huh?
 He's keeping ostriches?");
@@ -47,7 +47,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("F020200003_02_060");
-MsgDisp("Sassa","Haha, well, they're just rumors.
+MsgDisp("Sassa","Haha, well, they're just rumours.
 I feel bad for Mikage-sensei, you know?
 But they're interesting.");
 MsgDisp("主人公","(...It went like that.

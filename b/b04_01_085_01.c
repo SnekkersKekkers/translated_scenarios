@@ -3,7 +3,7 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040108501_01_000");
-MsgDisp("Kazama","There are rumors about other living things
+MsgDisp("Kazama","There are rumours about other living things
 here besides the fireflies, right?");
 MsgSel("A guardian spirit?","Want to drop something in the pond?","Huh, it's that cold in the gazebo?");
 switch (MsgSelRsltGet()){

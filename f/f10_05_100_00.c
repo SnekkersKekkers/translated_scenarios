@@ -45,7 +45,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","Ah, he left...");
-MsgDisp("主人公","(Working in a theater company and studying
+MsgDisp("主人公","(Working in a theatre company and studying
 for school is tough, isn't it...
 I wish I could help somehow.)");
 MsgClose();

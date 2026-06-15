@@ -84,7 +84,7 @@ again. That's why I wasn't prepared for the
 rejection.");
         MsgDisp("主人公","Uh...sorry");
         VoicePlay("J060301000_03_120");
-        MsgDisp("Honda","No, you don't have to apologize!
+        MsgDisp("Honda","No, you don't have to apologise!
 I'm sorry too.");
         VoicePlay("J060301000_03_130");
         MsgDisp("Honda","I'll ask you out again!

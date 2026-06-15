@@ -46,7 +46,7 @@ Celestial Emperor and the day I first laid
 eyes on you, everything changed.");
 MsgDisp("主人公","(｛Himuro＊＊｝'s not wearing his glasses—so
 close!
-This is nothing like what we practiced!)");
+This is nothing like what we practised!)");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -65,7 +65,7 @@ MsgDisp("主人公","(Ugh...what should we do?
 This is different to the script...
 No, I'll just keep going.)");
 MsgDisp("主人公","But...my father, the Celestial Emperor, does
-not view our current relationship favorably.
+not view our current relationship favourably.
 If things continue like this—");
 StlEye(6,1,0);
 StlMouth(6,1);

@@ -20,7 +20,7 @@ MsgDisp("Kazama","It's good that you're not hurt.
 It's not like you're in an outfit that makes
 it that hard to move around, is it?");
 MsgDisp("主人公","(Sigh...
-Maybe I didn't practice quite enough...)");
+Maybe I didn't practise quite enough...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

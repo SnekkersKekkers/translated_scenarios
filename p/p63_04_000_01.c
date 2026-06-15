@@ -68,7 +68,7 @@ Gardening Club.");
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_060");
     MsgDisp("Nanatsumori","Eeh.
-Looking at it from this distance, the color
+Looking at it from this distance, the colour
 is good.");
     MsgDisp("主人公","They're picked in the morning, so they're
 very fresh.");
