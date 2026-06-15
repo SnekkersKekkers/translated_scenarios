@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(6,0);
     VoicePlay("B040621201_06_010");
     MsgDisp("Himuro","Firmly denied.
-End of.");
+That's all.");
     MsgDateResultDisp();
     break ;
     case 1:

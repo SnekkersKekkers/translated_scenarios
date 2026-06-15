@@ -17,8 +17,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B070600002_06_500");
-MsgDisp("Himuro","Ah, right.
-I'm nervous.");
+MsgDisp("Himuro","Oh.
+This is nerve-wracking for me.");
 MsgDisp("主人公","Ah, that's right.
 I'm sorry—");
 ChEye(6,0);

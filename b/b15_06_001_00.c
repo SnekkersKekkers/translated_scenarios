@@ -39,7 +39,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600100_06_050");
-MsgDisp("Himuro","Ah, right.");
+MsgDisp("Himuro","Oh. Sure.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

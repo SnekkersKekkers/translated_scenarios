@@ -57,7 +57,7 @@ ChMotion(6,0);
 VoicePlay("T020621000_06_060");
 MsgDisp("Himuro","But getting to know those two was so
 unexpected. I'm still having a hard time
-believing how strong our bound is.");
+believing how strong our bond is.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

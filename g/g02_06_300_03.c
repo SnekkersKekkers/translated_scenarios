@@ -30,7 +30,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630003_06_040");
-MsgDisp("Himuro","I'm glad senior Yanosuke is here.
+MsgDisp("Himuro","I'm glad Yanosuke-senpai is here.
 I couldn't deal with him by myself.");
 MsgDisp("主人公","You really get along with them, huh?");
 ChEye(6,0);

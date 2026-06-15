@@ -16,7 +16,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620203_06_020");
 MsgDisp("Himuro","It's common for students to admire their
-teachers, and on top of that, Kojirou-sensei
+teachers, and on top of that, Kojiro-sensei
 is quite close to the students.");
 ChEye(6,1);
 ChMouth(6,0);
@@ -43,7 +43,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620203_06_060");
 MsgDisp("Himuro","All in all, you're spending a lot of time
-with Kojirou-sensei these days.");
+with Kojiro-sensei these days.");
 MsgDisp("主人公","Y-Yeah...");
 ChEye(6,0);
 ChMouth(6,3);

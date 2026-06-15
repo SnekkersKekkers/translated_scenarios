@@ -135,7 +135,7 @@ You can use it as a keychain, too.");
     ChMotion(6,0);
     ChCheek(6,0);
     VoicePlay("I150600000_06_140");
-    MsgDisp("Himuro","...Ah, I see.
+    MsgDisp("Himuro","...Oh.
 I'll keep that in mind.");
     ChEye(6,0);
     ChMouth(6,0);

@@ -40,7 +40,7 @@ This is pretty normal.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040615100_06_030");
-    MsgDisp("Himuro","Ah, I see.
+    MsgDisp("Himuro","Oh.
 That's dull.");
     MsgDateResultDisp();
     break ;

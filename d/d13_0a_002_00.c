@@ -23,7 +23,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D130A00200_06_010");
-MsgDisp("Himuro","Ah, right.
+MsgDisp("Himuro","Oh.
 I thought for sure you were thinking of
 Ryota-senpai.");
 MsgDisp("主人公","I wonder what ｛Kazama＊＊｝ is doing at this

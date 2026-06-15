@@ -12,7 +12,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,4);
     VoicePlay("B040618600_06_000");
     MsgDisp("Himuro","Aren't you being fooled by the flashy
-production.");
+production?");
     MsgDateResultDisp();
     break ;
     case 1:

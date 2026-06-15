@@ -33,8 +33,8 @@ permission.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B180600000_06_030");
-    MsgDisp("Himuro","Ah, right.
-Then, I'll call you the same as before.");
+    MsgDisp("Himuro","Oh. Fine then.
+Then I'll call you the same as before.");
     MsgDisp("主人公","(Did I do something wrong...?)");
     break ;
     default :

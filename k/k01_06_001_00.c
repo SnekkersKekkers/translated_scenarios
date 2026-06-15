@@ -63,7 +63,7 @@ A gift to celebrate.");
     ChMotion(6,4);
     ChCheek(6,10);
     VoicePlay("K010600100_06_050");
-    MsgDisp("Himuro","Ah, I see.
+    MsgDisp("Himuro","Oh.
 Then, I'll take it.
 ...Can I open it?");
     MsgDisp("主人公","Yeah, go ahead.");

@@ -27,7 +27,7 @@ ChMotion(7,1);
 VoicePlay("F100720002_07_010");
 MsgDisp("Mikage","Yeah, the class content is the same, but the
 details are a secret.
-Right, Yonosuke?");
+Right, Yanosuke?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -51,7 +51,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100720002_07_030");
-MsgDisp("Mikage","Yeah, I'll follow Yonosuke's advice, and make
+MsgDisp("Mikage","Yeah, I'll follow Yanosuke's advice, and make
 sure to grab the attention of the audience.");
 BGMVol(0.5,1);
 SEPlay("EV_SE_SCHOOL_002");

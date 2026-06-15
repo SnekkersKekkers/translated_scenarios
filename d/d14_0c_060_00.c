@@ -20,7 +20,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06000_06_010");
-MsgDisp("Himuro","Hey, is he like that even in front of you.");
+MsgDisp("Himuro","Hey, is he like that even in front of you?");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,0);

@@ -33,7 +33,7 @@ I didn't know.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I430600000_06_020");
-    MsgDisp("Himuro","Ah, I see.
+    MsgDisp("Himuro","Oh.
 Bye.");
     MsgDisp("主人公","Huh, where are you going?");
     ChEye(6,0);

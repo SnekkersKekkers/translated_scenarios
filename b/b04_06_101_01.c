@@ -31,7 +31,7 @@ nothing.");
     VoicePlay("B040610101_06_020");
     MsgDisp("Himuro","If that was the case, it would go out of
 business.
-That would be the end.");
+That's all.");
     MsgDateResultDisp();
     break ;
     case 2:

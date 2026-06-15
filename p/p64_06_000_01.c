@@ -9,7 +9,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P640600001_06_010");
-MsgDisp("Himuro","SHould I cushion the blow, or stay silent?");
+MsgDisp("Himuro","Should I cushion the blow, or stay silent?");
 MsgDisp("主人公","...Umm, is it no good?");
 ChEye(6,0);
 ChMouth(6,0);

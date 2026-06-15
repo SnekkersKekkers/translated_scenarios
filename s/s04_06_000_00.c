@@ -34,7 +34,7 @@ Well then, what should I wear?)");
         break ;
         case 1:
         VoicePlay("S040600000_06_030");
-        MsgDisp("Himuro","Ah, I see.");
+        MsgDisp("Himuro","Oh.");
         MsgDisp("主人公","Sorry.");
         VoicePlay("S040600000_06_040");
         MsgDisp("Himuro","It's fine.

@@ -54,8 +54,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("F020600013_06_060");
-MsgDisp("Himuro","Not nonsense, but no sense.
-It's simple.");
+MsgDisp("Himuro","Not nonsense — no-sense.
+What a simplistic idea.");
 MsgDisp("主人公","Still, can't you go next year?");
 ChEye(6,0);
 ChMouth(6,1);

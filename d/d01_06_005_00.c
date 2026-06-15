@@ -145,7 +145,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("D010600500_06_170");
-MsgDisp("Himuro","Heh...
+MsgDisp("Himuro","Pfft...
 What's with you.");
 MsgDisp("主人公","(Looks like ｛Himuro＊＊｝ is back to his usual
 self?

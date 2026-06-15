@@ -30,7 +30,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,0);
 ChCheek(6,5);
 VoicePlay("B360623600_06_020");
-MsgDisp("Himuro","...Ah, I see.");
+MsgDisp("Himuro","...Oh.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

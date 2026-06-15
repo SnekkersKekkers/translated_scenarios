@@ -92,7 +92,7 @@ StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600400_06_080");
 MsgDisp("Himuro","It's fine.
-That'll be all.");
+That's all.");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -122,7 +122,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("D010600400_06_100");
-MsgDisp("Himuro","...Ah, I see.
+MsgDisp("Himuro","...Oh.
 That's fine then.");
 ChEye(6,0);
 ChMouth(6,0);

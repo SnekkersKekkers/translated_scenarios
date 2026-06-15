@@ -46,8 +46,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P840600005_06_040");
-MsgDisp("Himuro","I guess we were lucky. that she was still
-running around.
+MsgDisp("Himuro","We just got lucky. Depending on how it went, she could still
+have been running around.
 ...You're too clumsy.");
 MsgDisp("主人公","(Uuugh....
 It was a huge fail...)");

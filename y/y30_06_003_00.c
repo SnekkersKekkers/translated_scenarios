@@ -5,9 +5,9 @@ ScrFadeIn(0);
 MsgDisp("","Today has been a continuation of
 failures since morning.");
 MsgDisp("","Absentmindedly, and being unable to
-focus, I put the wrong shoes on,
-tripped on a step, and wore my
-outdoor shoes into school.");
+focus, I put my socks on wrong,
+tripped on a step, and even tried to
+walk into school in my outdoor shoes.");
 MsgDisp("","Finally, in spite of me being in the
 middle of the lesson I checked my
 phone, and almost had it confiscated

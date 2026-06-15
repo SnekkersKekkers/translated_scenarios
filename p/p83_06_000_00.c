@@ -69,7 +69,7 @@ festival, so I'm noisily running around.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("P830600000_06_060");
-    MsgDisp("Himuro","Ah, I see.");
+    MsgDisp("Himuro","Oh.");
     MsgDisp("主人公","But, thank you for the thought.");
     ChEye(6,0);
     ChMouth(6,0);

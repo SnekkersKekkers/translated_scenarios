@@ -50,7 +50,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_070");
-MsgDisp("Himuro","When I look at my dad and Reiji-san, that's
+MsgDisp("Himuro","When I look at my dad and Reiichi, that's
 how I see it.");
 MsgDisp("主人公","Yeah.");
 ChEye(6,0);
@@ -64,7 +64,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020610401_06_090");
 MsgDisp("Himuro","But when push comes to shove, both my dad and
-Reiji-san are relied upon greatly by those
+Reiichi are relied upon greatly by those
 around them.");
 ChEye(6,0);
 ChMouth(6,0);

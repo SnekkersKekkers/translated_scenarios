@@ -42,7 +42,7 @@ SEPlay("EV_SE_631");
 SEStop("EV_SE_630");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","...Puu!");
+MsgDisp("主人公","...Pwah!");
 VoicePlay("D010600300_06_030");
 MsgDisp("Himuro","...Geez, that's exactly what I was talking
 about.

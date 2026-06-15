@@ -78,8 +78,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("G110600200_06_080");
-MsgDisp("Himuro","Ah, is that so.
-It was worthwhile of tasting and eating.");
+MsgDisp("Himuro","Oh.
+Then it was worth savoring it.");
 MsgDisp("主人公","Shall I make it again?");
 ChEye(6,2);
 ChMouth(6,0);

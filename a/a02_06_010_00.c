@@ -25,7 +25,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601000_06_030");
-MsgDisp("Himuro?","Or should I ask you first?
+MsgDisp("Himuro?","Or should I tell you first?
 I know exactly what Habataki High students
 want to ask me.");
 MsgDisp("主人公","Hmm?

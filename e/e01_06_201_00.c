@@ -62,7 +62,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("E010620100_06_030");
-MsgDisp("Himuro","It's not your first time, isn't it?
+MsgDisp("Himuro","It's not your first time, is it?
 Otherwise you wouldn't have been able to play
 so well.");
 ChEye(2,3);

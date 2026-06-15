@@ -28,7 +28,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C06100_06_020");
-MsgDisp("Himuro","Ah, I see...");
+MsgDisp("Himuro","Oh...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -51,16 +51,16 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C06100_06_030");
-MsgDisp("Himuro","What's with that? acting like you're the only
+MsgDisp("Himuro","What's with that? Acting like you're the only
 one who's spectating.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C06100_06_040");
-MsgDisp("Himuro","Deep down, I wonder how even Kojiro-sensei
-really thinks.
-It's suspicious.");
+MsgDisp("Himuro","Even Kojiro-sensei — who knows what he's
+really thinking deep down.
+Pretty suspect, if you ask me.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);

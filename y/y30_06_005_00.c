@@ -9,9 +9,9 @@ MsgClear();
 MsgDisp("","I did not start thinking about the
 time left I had until graduation like
 my other classmates were.");
-MsgDisp("","Not to mention, until now I haven't
-regretted not interacting with my
-classmates and juniors.");
+MsgDisp("","Nor is it that I regret having
+neglected my classmates and juniors
+until now.");
 MsgDisp("","It's just that to that person— I
 didn't want to make her worry.");
 MsgClear();

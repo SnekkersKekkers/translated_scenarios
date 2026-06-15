@@ -24,8 +24,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("M010600000_06_020");
-MsgDisp("Himuro","I see.
-That's fine then.");
+MsgDisp("Himuro","Oh.
+Well, that's good then.");
 MsgDisp("主人公","Thanks for all the trouble.");
 ChEye(6,0);
 ChMouth(6,0);

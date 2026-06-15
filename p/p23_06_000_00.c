@@ -50,7 +50,7 @@ You can't stay calm like this.");
     ChCheek(6,2);
     VoicePlay("P230600000_06_040");
     MsgDisp("Himuro","It's alright.
-I'm the same.");
+I'm right here with you.");
     MsgDisp("主人公","｛Himuro＊＊｝...yeah, thank you.");
     ChEye(6,0);
     ChMouth(6,4);

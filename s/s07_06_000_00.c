@@ -40,7 +40,7 @@ It's still more crowded than I expected.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S070600000_06_040");
-    MsgDisp("Himuro","Isn't there another route they could do this?");
+    MsgDisp("Himuro","Isn't there a back route to the shrine path?");
     MsgDisp("主人公","Eh, another route?");
     ChEye(6,0);
     ChMouth(6,0);

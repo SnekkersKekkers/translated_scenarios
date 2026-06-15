@@ -10,7 +10,8 @@ SEWait();
 ChOpen(6,254,1,1,0,0,#1,0,0);
 VoicePlay("P740600004_06_000");
 MsgDisp("Himuro","Welcome back.");
-MsgDisp("主人公","Ah, ｛Himuro＊＊｝ Q How was it?");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝!
+How was it?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);

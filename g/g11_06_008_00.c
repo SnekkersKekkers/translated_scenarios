@@ -49,7 +49,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600800_06_040");
-MsgDisp("Himuro","...Ah, right.");
+MsgDisp("Himuro","...Oh.");
 MsgDisp("主人公","I want to be able to do more things.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -50,12 +50,12 @@ ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("G110600300_06_050");
 MsgDisp("Himuro","Even if you're fine, your other classmates
-won't be understand not to.");
+might not be.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600300_06_060");
-MsgDisp("Himuro","Don't get caught up in it and don't ened up
+MsgDisp("Himuro","Don't get caught up in it and end up
 having to stand in the hallway.");
 MsgDisp("主人公","Yeees.");
 ChEye(6,0);

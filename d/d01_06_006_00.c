@@ -120,8 +120,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D010600600_06_050");
-MsgDisp("Himuro","Ah, I see.
-Confident answer.
+MsgDisp("Himuro","Oh.
+Quite the confident answer.
 Well, if it's on the way home, I don't mind.");
 MsgDisp("主人公","Really∋
 Thanks!

@@ -35,7 +35,7 @@ right before closing?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600006_06_020");
-    MsgDisp("Himuro","Are you feeling okay?
+    MsgDisp("Himuro","You're being a bit careless, aren't you?
 Well, no harm done.");
     ChEye(6,0);
     ChMouth(6,0);

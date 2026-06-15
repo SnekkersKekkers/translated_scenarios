@@ -43,7 +43,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_060");
 MsgDisp("Himuro","And that's when I first realized how
-painful it is to chase after someone");
+painful it is to chase after someone.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

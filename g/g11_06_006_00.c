@@ -53,7 +53,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
 VoicePlay("G110600600_06_040");
-MsgDisp("Himuro","...Ah, is that so.
+MsgDisp("Himuro","...Oh.
 Then it's fine.");
 MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
